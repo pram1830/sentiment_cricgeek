@@ -1,0 +1,299 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Romania
+info,team,Serbia
+info,gender,male
+info,season,2021
+info,date,2021/06/25
+info,event,Sofia Twenty20
+info,match_number,5
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Romania
+info,toss_decision,bat
+info,player_of_match,S Thakur
+info,winner,Romania
+info,winner_runs,91
+info,player,Romania,S Thakur
+info,player,Romania,Ijaz Hussain
+info,player,Romania,S Nadigotla
+info,player,Romania,C Zavoiu
+info,player,Romania,Sami Ullah
+info,player,Romania,Waqar Abbasi
+info,player,Romania,Abdul Shakoor (2)
+info,player,Romania,G Manan
+info,player,Romania,R Satheesan
+info,player,Romania,P Florin
+info,player,Romania,Aftab Kayani
+info,player,Serbia,S Tosic
+info,player,Serbia,WAE Burton
+info,player,Serbia,LA Dunbar
+info,player,Serbia,Apon Mustafizur
+info,player,Serbia,NR Johns-Wickberg
+info,player,Serbia,J Reb
+info,player,Serbia,N Zimonjic
+info,player,Serbia,BJ Davidson
+info,player,Serbia,V Zimonjic
+info,player,Serbia,A Djorovic
+info,player,Serbia,M Sarenac
+info,registry,people,A Djorovic,677c18f9
+info,registry,people,Abdul Shakoor (2),d52b13a6
+info,registry,people,Aftab Kayani,4d83491d
+info,registry,people,Apon Mustafizur,1558c83d
+info,registry,people,BJ Davidson,5b658677
+info,registry,people,C Zavoiu,6b96bebf
+info,registry,people,Danijel Petrovic,ebb04e02
+info,registry,people,G Manan,d7265622
+info,registry,people,Ijaz Hussain,dc1dd6c4
+info,registry,people,J Reb,880eca04
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,NR Johns-Wickberg,3924b2ee
+info,registry,people,P Florin,c9c356e2
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Thakur,a073f2ff
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,Sami Ullah,ad05692c
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,WAE Burton,b0358c6d
+info,registry,people,Waqar Abbasi,9e287ee3
+ball,1,0.1,Romania,S Thakur,Ijaz Hussain,M Sarenac,0,0,,,,,,"",""
+ball,1,0.2,Romania,S Thakur,Ijaz Hussain,M Sarenac,1,0,,,,,,"",""
+ball,1,0.3,Romania,Ijaz Hussain,S Thakur,M Sarenac,0,1,1,,,,,"",""
+ball,1,0.4,Romania,Ijaz Hussain,S Thakur,M Sarenac,1,0,,,,,,"",""
+ball,1,0.5,Romania,S Thakur,Ijaz Hussain,M Sarenac,0,1,,1,,,,"",""
+ball,1,0.6,Romania,S Thakur,Ijaz Hussain,M Sarenac,0,1,1,,,,,"",""
+ball,1,0.7,Romania,S Thakur,Ijaz Hussain,M Sarenac,4,0,,,,,,"",""
+ball,1,0.8,Romania,S Thakur,Ijaz Hussain,M Sarenac,2,0,,,,,,"",""
+ball,1,0.9,Romania,S Thakur,Ijaz Hussain,M Sarenac,0,0,,,,,,"",""
+ball,1,1.1,Romania,Ijaz Hussain,S Thakur,V Zimonjic,0,0,,,,,,"",""
+ball,1,1.2,Romania,Ijaz Hussain,S Thakur,V Zimonjic,1,0,,,,,,"",""
+ball,1,1.3,Romania,S Thakur,Ijaz Hussain,V Zimonjic,4,0,,,,,,"",""
+ball,1,1.4,Romania,S Thakur,Ijaz Hussain,V Zimonjic,1,0,,,,,,"",""
+ball,1,1.5,Romania,Ijaz Hussain,S Thakur,V Zimonjic,0,0,,,,,,caught,Ijaz Hussain
+ball,1,1.6,Romania,S Nadigotla,S Thakur,V Zimonjic,4,0,,,,,,"",""
+ball,1,2.1,Romania,S Thakur,S Nadigotla,M Sarenac,4,0,,,,,,"",""
+ball,1,2.2,Romania,S Thakur,S Nadigotla,M Sarenac,4,0,,,,,,"",""
+ball,1,2.3,Romania,S Thakur,S Nadigotla,M Sarenac,4,0,,,,,,"",""
+ball,1,2.4,Romania,S Thakur,S Nadigotla,M Sarenac,4,0,,,,,,"",""
+ball,1,2.5,Romania,S Thakur,S Nadigotla,M Sarenac,4,0,,,,,,"",""
+ball,1,2.6,Romania,S Thakur,S Nadigotla,M Sarenac,0,0,,,,,,"",""
+ball,1,3.1,Romania,S Nadigotla,S Thakur,A Djorovic,1,0,,,,,,"",""
+ball,1,3.2,Romania,S Thakur,S Nadigotla,A Djorovic,6,0,,,,,,"",""
+ball,1,3.3,Romania,S Thakur,S Nadigotla,A Djorovic,4,0,,,,,,"",""
+ball,1,3.4,Romania,S Thakur,S Nadigotla,A Djorovic,1,0,,,,,,"",""
+ball,1,3.5,Romania,S Nadigotla,S Thakur,A Djorovic,6,0,,,,,,"",""
+ball,1,3.6,Romania,S Nadigotla,S Thakur,A Djorovic,0,0,,,,,,"",""
+ball,1,4.1,Romania,S Thakur,S Nadigotla,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,4.2,Romania,S Nadigotla,S Thakur,NR Johns-Wickberg,4,0,,,,,,"",""
+ball,1,4.3,Romania,S Nadigotla,S Thakur,NR Johns-Wickberg,4,0,,,,,,"",""
+ball,1,4.4,Romania,S Nadigotla,S Thakur,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,4.5,Romania,S Thakur,S Nadigotla,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,4.6,Romania,S Thakur,S Nadigotla,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,5.1,Romania,S Thakur,S Nadigotla,WAE Burton,1,0,,,,,,"",""
+ball,1,5.2,Romania,S Nadigotla,S Thakur,WAE Burton,4,0,,,,,,"",""
+ball,1,5.3,Romania,S Nadigotla,S Thakur,WAE Burton,0,1,1,,,,,"",""
+ball,1,5.4,Romania,S Nadigotla,S Thakur,WAE Burton,1,0,,,,,,"",""
+ball,1,5.5,Romania,S Thakur,S Nadigotla,WAE Burton,0,1,1,,,,,"",""
+ball,1,5.6,Romania,S Thakur,S Nadigotla,WAE Burton,1,0,,,,,,"",""
+ball,1,5.7,Romania,S Nadigotla,S Thakur,WAE Burton,1,0,,,,,,"",""
+ball,1,5.8,Romania,S Thakur,S Nadigotla,WAE Burton,4,0,,,,,,"",""
+ball,1,6.1,Romania,S Nadigotla,S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,6.2,Romania,S Nadigotla,S Thakur,NR Johns-Wickberg,0,0,,,,,,bowled,S Nadigotla
+ball,1,6.3,Romania,C Zavoiu,S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,6.4,Romania,C Zavoiu,S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,6.5,Romania,C Zavoiu,S Thakur,NR Johns-Wickberg,0,0,,,,,,bowled,C Zavoiu
+ball,1,6.6,Romania,Sami Ullah,S Thakur,NR Johns-Wickberg,2,1,,1,,,,"",""
+ball,1,6.7,Romania,Sami Ullah,S Thakur,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,7.1,Romania,Sami Ullah,S Thakur,N Zimonjic,1,0,,,,,,"",""
+ball,1,7.2,Romania,S Thakur,Sami Ullah,N Zimonjic,1,0,,,,,,"",""
+ball,1,7.3,Romania,Sami Ullah,S Thakur,N Zimonjic,4,0,,,,,,"",""
+ball,1,7.4,Romania,Sami Ullah,S Thakur,N Zimonjic,1,0,,,,,,"",""
+ball,1,7.5,Romania,S Thakur,Sami Ullah,N Zimonjic,1,0,,,,,,"",""
+ball,1,7.6,Romania,Sami Ullah,S Thakur,N Zimonjic,1,0,,,,,,"",""
+ball,1,8.1,Romania,Sami Ullah,S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,8.2,Romania,Sami Ullah,S Thakur,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,8.3,Romania,S Thakur,Sami Ullah,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,8.4,Romania,S Thakur,Sami Ullah,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,8.5,Romania,S Thakur,Sami Ullah,NR Johns-Wickberg,0,1,1,,,,,"",""
+ball,1,8.6,Romania,S Thakur,Sami Ullah,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,8.7,Romania,S Thakur,Sami Ullah,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,9.1,Romania,S Thakur,Sami Ullah,N Zimonjic,1,0,,,,,,"",""
+ball,1,9.2,Romania,Sami Ullah,S Thakur,N Zimonjic,6,0,,,,,,"",""
+ball,1,9.3,Romania,Sami Ullah,S Thakur,N Zimonjic,6,0,,,,,,"",""
+ball,1,9.4,Romania,Sami Ullah,S Thakur,N Zimonjic,6,0,,,,,,"",""
+ball,1,9.5,Romania,Sami Ullah,S Thakur,N Zimonjic,4,0,,,,,,"",""
+ball,1,9.6,Romania,Sami Ullah,S Thakur,N Zimonjic,0,0,,,,,,caught,Sami Ullah
+ball,1,10.1,Romania,Waqar Abbasi,S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,10.2,Romania,Waqar Abbasi,S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,10.3,Romania,Waqar Abbasi,S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,10.4,Romania,Waqar Abbasi,S Thakur,NR Johns-Wickberg,0,0,,,,,,caught,Waqar Abbasi
+ball,1,10.5,Romania,Abdul Shakoor (2),S Thakur,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,10.6,Romania,Abdul Shakoor (2),S Thakur,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,11.1,Romania,Abdul Shakoor (2),S Thakur,A Djorovic,0,0,,,,,,"",""
+ball,1,11.2,Romania,Abdul Shakoor (2),S Thakur,A Djorovic,1,0,,,,,,"",""
+ball,1,11.3,Romania,S Thakur,Abdul Shakoor (2),A Djorovic,0,0,,,,,,caught,S Thakur
+ball,1,11.4,Romania,G Manan,Abdul Shakoor (2),A Djorovic,0,2,2,,,,,"",""
+ball,1,11.5,Romania,Abdul Shakoor (2),G Manan,A Djorovic,1,0,,,,,,"",""
+ball,1,11.6,Romania,G Manan,Abdul Shakoor (2),A Djorovic,4,0,,,,,,"",""
+ball,1,11.7,Romania,G Manan,Abdul Shakoor (2),A Djorovic,0,1,1,,,,,"",""
+ball,1,11.8,Romania,G Manan,Abdul Shakoor (2),A Djorovic,4,0,,,,,,"",""
+ball,1,12.1,Romania,Abdul Shakoor (2),G Manan,V Zimonjic,1,0,,,,,,"",""
+ball,1,12.2,Romania,G Manan,Abdul Shakoor (2),V Zimonjic,1,0,,,,,,"",""
+ball,1,12.3,Romania,Abdul Shakoor (2),G Manan,V Zimonjic,0,1,1,,,,,"",""
+ball,1,12.4,Romania,Abdul Shakoor (2),G Manan,V Zimonjic,0,0,,,,,,"",""
+ball,1,12.5,Romania,Abdul Shakoor (2),G Manan,V Zimonjic,1,0,,,,,,"",""
+ball,1,12.6,Romania,G Manan,Abdul Shakoor (2),V Zimonjic,1,0,,,,,,"",""
+ball,1,12.7,Romania,Abdul Shakoor (2),G Manan,V Zimonjic,1,0,,,,,,"",""
+ball,1,13.1,Romania,G Manan,Abdul Shakoor (2),WAE Burton,0,1,1,,,,,"",""
+ball,1,13.2,Romania,G Manan,Abdul Shakoor (2),WAE Burton,0,0,,,,,,"",""
+ball,1,13.3,Romania,G Manan,Abdul Shakoor (2),WAE Burton,1,0,,,,,,"",""
+ball,1,13.4,Romania,Abdul Shakoor (2),G Manan,WAE Burton,0,0,,,,,,bowled,Abdul Shakoor (2)
+ball,1,13.5,Romania,R Satheesan,G Manan,WAE Burton,1,0,,,,,,"",""
+ball,1,13.6,Romania,G Manan,R Satheesan,WAE Burton,1,0,,,,,,"",""
+ball,1,13.7,Romania,R Satheesan,G Manan,WAE Burton,1,0,,,,,,"",""
+ball,1,14.1,Romania,R Satheesan,G Manan,V Zimonjic,0,0,,,,,,"",""
+ball,1,14.2,Romania,R Satheesan,G Manan,V Zimonjic,0,0,,,,,,"",""
+ball,1,14.3,Romania,R Satheesan,G Manan,V Zimonjic,2,0,,,,,,"",""
+ball,1,14.4,Romania,R Satheesan,G Manan,V Zimonjic,0,1,1,,,,,"",""
+ball,1,14.5,Romania,R Satheesan,G Manan,V Zimonjic,0,0,,,,,,"",""
+ball,1,14.6,Romania,R Satheesan,G Manan,V Zimonjic,1,0,,,,,,"",""
+ball,1,14.7,Romania,G Manan,R Satheesan,V Zimonjic,4,0,,,,,,"",""
+ball,1,15.1,Romania,R Satheesan,G Manan,N Zimonjic,4,0,,,,,,"",""
+ball,1,15.2,Romania,R Satheesan,G Manan,N Zimonjic,4,0,,,,,,"",""
+ball,1,15.3,Romania,R Satheesan,G Manan,N Zimonjic,0,1,1,,,,,"",""
+ball,1,15.4,Romania,R Satheesan,G Manan,N Zimonjic,1,0,,,,,,"",""
+ball,1,15.5,Romania,G Manan,R Satheesan,N Zimonjic,1,0,,,,,,"",""
+ball,1,15.6,Romania,R Satheesan,G Manan,N Zimonjic,0,0,,,,,,caught,R Satheesan
+ball,1,15.7,Romania,P Florin,G Manan,N Zimonjic,0,1,1,,,,,"",""
+ball,1,15.8,Romania,P Florin,G Manan,N Zimonjic,0,0,,,,,,"",""
+ball,1,16.1,Romania,G Manan,P Florin,WAE Burton,0,0,,,,,,bowled,G Manan
+ball,1,16.2,Romania,Aftab Kayani,P Florin,WAE Burton,4,0,,,,,,"",""
+ball,1,16.3,Romania,Aftab Kayani,P Florin,WAE Burton,0,0,,,,,,"",""
+ball,1,16.4,Romania,Aftab Kayani,P Florin,WAE Burton,4,0,,,,,,"",""
+ball,1,16.5,Romania,Aftab Kayani,P Florin,WAE Burton,0,0,,,,,,"",""
+ball,1,16.6,Romania,Aftab Kayani,P Florin,WAE Burton,1,0,,,,,,"",""
+ball,1,17.1,Romania,Aftab Kayani,P Florin,V Zimonjic,0,0,,,,,,"",""
+ball,1,17.2,Romania,Aftab Kayani,P Florin,V Zimonjic,1,0,,,,,,"",""
+ball,1,17.3,Romania,P Florin,Aftab Kayani,V Zimonjic,0,0,,,,,,"",""
+ball,1,17.4,Romania,P Florin,Aftab Kayani,V Zimonjic,1,0,,,,,,"",""
+ball,1,17.5,Romania,Aftab Kayani,P Florin,V Zimonjic,2,0,,,,,,"",""
+ball,1,17.6,Romania,Aftab Kayani,P Florin,V Zimonjic,1,0,,,,,,"",""
+ball,1,18.1,Romania,Aftab Kayani,P Florin,M Sarenac,0,0,,,,,,"",""
+ball,1,18.2,Romania,Aftab Kayani,P Florin,M Sarenac,4,0,,,,,,"",""
+ball,1,18.3,Romania,Aftab Kayani,P Florin,M Sarenac,1,0,,,,,,"",""
+ball,1,18.4,Romania,P Florin,Aftab Kayani,M Sarenac,0,0,,,,,,"",""
+ball,1,18.5,Romania,P Florin,Aftab Kayani,M Sarenac,1,0,,,,,,"",""
+ball,1,18.6,Romania,Aftab Kayani,P Florin,M Sarenac,2,0,,,,,,"",""
+ball,1,19.1,Romania,P Florin,Aftab Kayani,WAE Burton,1,0,,,,,,"",""
+ball,1,19.2,Romania,Aftab Kayani,P Florin,WAE Burton,0,0,,,,,,caught,Aftab Kayani
+ball,2,0.1,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,0.2,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,0.3,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,0.4,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,0.5,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,0.6,Serbia,S Tosic,WAE Burton,Aftab Kayani,4,0,,,,,,"",""
+ball,2,1.1,Serbia,WAE Burton,S Tosic,Ijaz Hussain,0,0,,,,,,"",""
+ball,2,1.2,Serbia,WAE Burton,S Tosic,Ijaz Hussain,0,0,,,,,,"",""
+ball,2,1.3,Serbia,WAE Burton,S Tosic,Ijaz Hussain,4,0,,,,,,"",""
+ball,2,1.4,Serbia,WAE Burton,S Tosic,Ijaz Hussain,0,0,,,,,,"",""
+ball,2,1.5,Serbia,WAE Burton,S Tosic,Ijaz Hussain,4,0,,,,,,"",""
+ball,2,1.6,Serbia,WAE Burton,S Tosic,Ijaz Hussain,0,0,,,,,,"",""
+ball,2,2.1,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,2.2,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,1,1,,,,,"",""
+ball,2,2.3,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,2.4,Serbia,S Tosic,WAE Burton,Aftab Kayani,0,0,,,,,,bowled,S Tosic
+ball,2,2.5,Serbia,LA Dunbar,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,2.6,Serbia,LA Dunbar,WAE Burton,Aftab Kayani,0,0,,,,,,"",""
+ball,2,2.7,Serbia,LA Dunbar,WAE Burton,Aftab Kayani,0,0,,,,,,bowled,LA Dunbar
+ball,2,3.1,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,0,0,,,,,,"",""
+ball,2,3.2,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,4,0,,,,,,"",""
+ball,2,3.3,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,0,0,,,,,,"",""
+ball,2,3.4,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,0,1,1,,,,,"",""
+ball,2,3.5,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,0,1,1,,,,,"",""
+ball,2,3.6,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,6,0,,,,,,"",""
+ball,2,3.7,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,4,0,,,,,,"",""
+ball,2,3.8,Serbia,WAE Burton,Apon Mustafizur,Ijaz Hussain,0,0,,,,,,caught,WAE Burton
+ball,2,4.1,Serbia,Apon Mustafizur,NR Johns-Wickberg,Aftab Kayani,0,1,1,,,,,"",""
+ball,2,4.2,Serbia,Apon Mustafizur,NR Johns-Wickberg,Aftab Kayani,0,0,,,,,,"",""
+ball,2,4.3,Serbia,Apon Mustafizur,NR Johns-Wickberg,Aftab Kayani,0,0,,,,,,"",""
+ball,2,4.4,Serbia,Apon Mustafizur,NR Johns-Wickberg,Aftab Kayani,0,0,,,,,,"",""
+ball,2,4.5,Serbia,Apon Mustafizur,NR Johns-Wickberg,Aftab Kayani,0,0,,,,,,"",""
+ball,2,4.6,Serbia,Apon Mustafizur,NR Johns-Wickberg,Aftab Kayani,0,5,,,5,,,"",""
+ball,2,4.7,Serbia,NR Johns-Wickberg,Apon Mustafizur,Aftab Kayani,0,0,,,,,,"",""
+ball,2,5.1,Serbia,Apon Mustafizur,NR Johns-Wickberg,Sami Ullah,0,0,,,,,,caught,Apon Mustafizur
+ball,2,5.2,Serbia,J Reb,NR Johns-Wickberg,Sami Ullah,0,0,,,,,,"",""
+ball,2,5.3,Serbia,J Reb,NR Johns-Wickberg,Sami Ullah,6,0,,,,,,"",""
+ball,2,5.4,Serbia,J Reb,NR Johns-Wickberg,Sami Ullah,2,0,,,,,,"",""
+ball,2,5.5,Serbia,J Reb,NR Johns-Wickberg,Sami Ullah,4,0,,,,,,"",""
+ball,2,5.6,Serbia,J Reb,NR Johns-Wickberg,Sami Ullah,0,1,1,,,,,"",""
+ball,2,5.7,Serbia,J Reb,NR Johns-Wickberg,Sami Ullah,0,0,,,,,,"",""
+ball,2,6.1,Serbia,NR Johns-Wickberg,J Reb,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,6.2,Serbia,NR Johns-Wickberg,J Reb,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,6.3,Serbia,NR Johns-Wickberg,J Reb,Waqar Abbasi,4,0,,,,,,"",""
+ball,2,6.4,Serbia,NR Johns-Wickberg,J Reb,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,6.5,Serbia,J Reb,NR Johns-Wickberg,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,6.6,Serbia,J Reb,NR Johns-Wickberg,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,7.1,Serbia,NR Johns-Wickberg,J Reb,Sami Ullah,0,0,,,,,,caught and bowled,NR Johns-Wickberg
+ball,2,7.2,Serbia,N Zimonjic,J Reb,Sami Ullah,4,0,,,,,,"",""
+ball,2,7.3,Serbia,N Zimonjic,J Reb,Sami Ullah,0,0,,,,,,"",""
+ball,2,7.4,Serbia,N Zimonjic,J Reb,Sami Ullah,1,0,,,,,,"",""
+ball,2,7.5,Serbia,J Reb,N Zimonjic,Sami Ullah,1,0,,,,,,"",""
+ball,2,7.6,Serbia,N Zimonjic,J Reb,Sami Ullah,1,0,,,,,,"",""
+ball,2,8.1,Serbia,N Zimonjic,J Reb,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,8.2,Serbia,N Zimonjic,J Reb,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,8.3,Serbia,J Reb,N Zimonjic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,8.4,Serbia,J Reb,N Zimonjic,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,8.5,Serbia,N Zimonjic,J Reb,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,8.6,Serbia,J Reb,N Zimonjic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,9.1,Serbia,N Zimonjic,J Reb,S Thakur,0,1,1,,,,,"",""
+ball,2,9.2,Serbia,N Zimonjic,J Reb,S Thakur,0,0,,,,,,"",""
+ball,2,9.3,Serbia,N Zimonjic,J Reb,S Thakur,1,0,,,,,,"",""
+ball,2,9.4,Serbia,J Reb,N Zimonjic,S Thakur,0,4,,,4,,,"",""
+ball,2,9.5,Serbia,J Reb,N Zimonjic,S Thakur,1,0,,,,,,"",""
+ball,2,9.6,Serbia,N Zimonjic,J Reb,S Thakur,0,0,,,,,,"",""
+ball,2,9.7,Serbia,N Zimonjic,J Reb,S Thakur,0,0,,,,,,"",""
+ball,2,10.1,Serbia,J Reb,N Zimonjic,P Florin,0,0,,,,,,"",""
+ball,2,10.2,Serbia,J Reb,N Zimonjic,P Florin,1,0,,,,,,"",""
+ball,2,10.3,Serbia,N Zimonjic,J Reb,P Florin,0,0,,,,,,"",""
+ball,2,10.4,Serbia,N Zimonjic,J Reb,P Florin,1,0,,,,,,"",""
+ball,2,10.5,Serbia,J Reb,N Zimonjic,P Florin,1,0,,,,,,"",""
+ball,2,10.6,Serbia,N Zimonjic,J Reb,P Florin,0,0,,,,,,"",""
+ball,2,11.1,Serbia,J Reb,N Zimonjic,S Thakur,0,0,,,,,,"",""
+ball,2,11.2,Serbia,J Reb,N Zimonjic,S Thakur,0,0,,,,,,"",""
+ball,2,11.3,Serbia,J Reb,N Zimonjic,S Thakur,2,0,,,,,,"",""
+ball,2,11.4,Serbia,J Reb,N Zimonjic,S Thakur,0,1,1,,,,,"",""
+ball,2,11.5,Serbia,J Reb,N Zimonjic,S Thakur,0,0,,,,,,bowled,J Reb
+ball,2,11.6,Serbia,BJ Davidson,N Zimonjic,S Thakur,4,0,,,,,,"",""
+ball,2,11.7,Serbia,BJ Davidson,N Zimonjic,S Thakur,1,0,,,,,,"",""
+ball,2,12.1,Serbia,BJ Davidson,N Zimonjic,P Florin,0,0,,,,,,"",""
+ball,2,12.2,Serbia,BJ Davidson,N Zimonjic,P Florin,1,0,,,,,,"",""
+ball,2,12.3,Serbia,N Zimonjic,BJ Davidson,P Florin,0,0,,,,,,stumped,N Zimonjic
+ball,2,12.4,Serbia,V Zimonjic,BJ Davidson,P Florin,0,0,,,,,,"",""
+ball,2,12.5,Serbia,V Zimonjic,BJ Davidson,P Florin,1,0,,,,,,"",""
+ball,2,12.6,Serbia,BJ Davidson,V Zimonjic,P Florin,0,0,,,,,,stumped,BJ Davidson
+ball,2,13.1,Serbia,V Zimonjic,A Djorovic,Waqar Abbasi,4,0,,,,,,"",""
+ball,2,13.2,Serbia,V Zimonjic,A Djorovic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,13.3,Serbia,V Zimonjic,A Djorovic,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,13.4,Serbia,A Djorovic,V Zimonjic,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,13.5,Serbia,V Zimonjic,A Djorovic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,13.6,Serbia,V Zimonjic,A Djorovic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,14.1,Serbia,A Djorovic,V Zimonjic,P Florin,1,0,,,,,,"",""
+ball,2,14.2,Serbia,V Zimonjic,A Djorovic,P Florin,1,0,,,,,,"",""
+ball,2,14.3,Serbia,A Djorovic,V Zimonjic,P Florin,1,0,,,,,,"",""
+ball,2,14.4,Serbia,V Zimonjic,A Djorovic,P Florin,4,0,,,,,,"",""
+ball,2,14.5,Serbia,V Zimonjic,A Djorovic,P Florin,0,0,,,,,,"",""
+ball,2,14.6,Serbia,V Zimonjic,A Djorovic,P Florin,1,0,,,,,,"",""
+ball,2,15.1,Serbia,V Zimonjic,A Djorovic,Waqar Abbasi,0,0,,,,,,caught,V Zimonjic
+ball,2,15.2,Serbia,M Sarenac,A Djorovic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,15.3,Serbia,M Sarenac,A Djorovic,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,15.4,Serbia,A Djorovic,M Sarenac,Waqar Abbasi,1,0,,,,,,"",""
+ball,2,15.5,Serbia,M Sarenac,A Djorovic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,15.6,Serbia,M Sarenac,A Djorovic,Waqar Abbasi,0,0,,,,,,"",""
+ball,2,16.1,Serbia,A Djorovic,M Sarenac,P Florin,0,0,,,,,,"",""
+ball,2,16.2,Serbia,A Djorovic,M Sarenac,P Florin,0,0,,,,,,"",""
+ball,2,16.3,Serbia,A Djorovic,M Sarenac,P Florin,0,0,,,,,,"",""
+ball,2,16.4,Serbia,A Djorovic,M Sarenac,P Florin,1,0,,,,,,"",""
+ball,2,16.5,Serbia,M Sarenac,A Djorovic,P Florin,0,0,,,,,,caught,M Sarenac

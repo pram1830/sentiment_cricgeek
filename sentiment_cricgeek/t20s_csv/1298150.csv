@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,India
+info,gender,male
+info,season,2022/23
+info,date,2022/10/23
+info,event,ICC Men's T20 World Cup
+info,match_number,16
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,V Kohli
+info,umpire,M Erasmus
+info,umpire,RJ Tucker
+info,reserve_umpire,JS Wilson
+info,tv_umpire,RA Kettleborough
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_wickets,4
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Haider Ali
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Asif Ali
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Naseem Shah
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,AR Patel
+info,player,India,HH Pandya
+info,player,India,KD Karthik
+info,player,India,R Ashwin
+info,player,India,Mohammed Shami
+info,player,India,B Kumar
+info,player,India,Arshdeep Singh
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,V Kohli,ba607b88
+ball,1,0.1,Pakistan,Mohammad Rizwan,Babar Azam,B Kumar,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Mohammad Rizwan,Babar Azam,B Kumar,0,0,,,,,,"",""
+ball,1,0.3,Pakistan,Mohammad Rizwan,Babar Azam,B Kumar,0,0,,,,,,"",""
+ball,1,0.4,Pakistan,Mohammad Rizwan,Babar Azam,B Kumar,0,0,,,,,,"",""
+ball,1,0.5,Pakistan,Mohammad Rizwan,Babar Azam,B Kumar,0,0,,,,,,"",""
+ball,1,0.6,Pakistan,Mohammad Rizwan,Babar Azam,B Kumar,0,1,1,,,,,"",""
+ball,1,0.7,Pakistan,Mohammad Rizwan,Babar Azam,B Kumar,0,0,,,,,,"",""
+ball,1,1.1,Pakistan,Babar Azam,Mohammad Rizwan,Arshdeep Singh,0,0,,,,,,lbw,Babar Azam
+ball,1,1.2,Pakistan,Shan Masood,Mohammad Rizwan,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.3,Pakistan,Shan Masood,Mohammad Rizwan,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.4,Pakistan,Shan Masood,Mohammad Rizwan,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,1.5,Pakistan,Shan Masood,Mohammad Rizwan,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,1.6,Pakistan,Mohammad Rizwan,Shan Masood,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,2.1,Pakistan,Shan Masood,Mohammad Rizwan,B Kumar,0,1,1,,,,,"",""
+ball,1,2.2,Pakistan,Shan Masood,Mohammad Rizwan,B Kumar,0,0,,,,,,"",""
+ball,1,2.3,Pakistan,Shan Masood,Mohammad Rizwan,B Kumar,0,0,,,,,,"",""
+ball,1,2.4,Pakistan,Shan Masood,Mohammad Rizwan,B Kumar,2,0,,,,,,"",""
+ball,1,2.5,Pakistan,Shan Masood,Mohammad Rizwan,B Kumar,0,0,,,,,,"",""
+ball,1,2.6,Pakistan,Shan Masood,Mohammad Rizwan,B Kumar,1,0,,,,,,"",""
+ball,1,2.7,Pakistan,Mohammad Rizwan,Shan Masood,B Kumar,0,0,,,,,,"",""
+ball,1,3.1,Pakistan,Shan Masood,Mohammad Rizwan,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,3.2,Pakistan,Shan Masood,Mohammad Rizwan,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,3.3,Pakistan,Mohammad Rizwan,Shan Masood,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,3.4,Pakistan,Mohammad Rizwan,Shan Masood,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,3.5,Pakistan,Mohammad Rizwan,Shan Masood,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,3.6,Pakistan,Mohammad Rizwan,Shan Masood,Arshdeep Singh,0,0,,,,,,caught,Mohammad Rizwan
+ball,1,4.1,Pakistan,Shan Masood,Iftikhar Ahmed,B Kumar,0,0,,,,,,"",""
+ball,1,4.2,Pakistan,Shan Masood,Iftikhar Ahmed,B Kumar,3,0,,,,,,"",""
+ball,1,4.3,Pakistan,Iftikhar Ahmed,Shan Masood,B Kumar,2,0,,,,,,"",""
+ball,1,4.4,Pakistan,Iftikhar Ahmed,Shan Masood,B Kumar,0,0,,,,,,"",""
+ball,1,4.5,Pakistan,Iftikhar Ahmed,Shan Masood,B Kumar,4,0,,,,,,"",""
+ball,1,4.6,Pakistan,Iftikhar Ahmed,Shan Masood,B Kumar,0,0,,,,,,"",""
+ball,1,5.1,Pakistan,Shan Masood,Iftikhar Ahmed,Mohammed Shami,0,0,,,,,,"",""
+ball,1,5.2,Pakistan,Shan Masood,Iftikhar Ahmed,Mohammed Shami,0,0,,,,,,"",""
+ball,1,5.3,Pakistan,Shan Masood,Iftikhar Ahmed,Mohammed Shami,4,0,,,,,,"",""
+ball,1,5.4,Pakistan,Shan Masood,Iftikhar Ahmed,Mohammed Shami,3,0,,,,,,"",""
+ball,1,5.5,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,5.6,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,1,0,,,,,,"",""
+ball,1,6.1,Pakistan,Iftikhar Ahmed,Shan Masood,HH Pandya,0,0,,,,,,"",""
+ball,1,6.2,Pakistan,Iftikhar Ahmed,Shan Masood,HH Pandya,3,0,,,,,,"",""
+ball,1,6.3,Pakistan,Shan Masood,Iftikhar Ahmed,HH Pandya,0,0,,,,,,"",""
+ball,1,6.4,Pakistan,Shan Masood,Iftikhar Ahmed,HH Pandya,1,0,,,,,,"",""
+ball,1,6.5,Pakistan,Iftikhar Ahmed,Shan Masood,HH Pandya,1,0,,,,,,"",""
+ball,1,6.6,Pakistan,Shan Masood,Iftikhar Ahmed,HH Pandya,4,0,,,,,,"",""
+ball,1,7.1,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,1,1,,,,,"",""
+ball,1,7.2,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,7.3,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,1,,,,1,,"",""
+ball,1,7.4,Pakistan,Shan Masood,Iftikhar Ahmed,Mohammed Shami,1,0,,,,,,"",""
+ball,1,7.5,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,7.6,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,7.7,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,8.1,Pakistan,Shan Masood,Iftikhar Ahmed,R Ashwin,0,1,,,,1,,"",""
+ball,1,8.2,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,0,0,,,,,,"",""
+ball,1,8.3,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,1,0,,,,,,"",""
+ball,1,8.4,Pakistan,Shan Masood,Iftikhar Ahmed,R Ashwin,2,0,,,,,,"",""
+ball,1,8.5,Pakistan,Shan Masood,Iftikhar Ahmed,R Ashwin,1,0,,,,,,"",""
+ball,1,8.6,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,1,0,,,,,,"",""
+ball,1,9.1,Pakistan,Iftikhar Ahmed,Shan Masood,HH Pandya,2,0,,,,,,"",""
+ball,1,9.2,Pakistan,Iftikhar Ahmed,Shan Masood,HH Pandya,1,0,,,,,,"",""
+ball,1,9.3,Pakistan,Shan Masood,Iftikhar Ahmed,HH Pandya,1,0,,,,,,"",""
+ball,1,9.4,Pakistan,Iftikhar Ahmed,Shan Masood,HH Pandya,4,0,,,,,,"",""
+ball,1,9.5,Pakistan,Iftikhar Ahmed,Shan Masood,HH Pandya,1,0,,,,,,"",""
+ball,1,9.6,Pakistan,Shan Masood,Iftikhar Ahmed,HH Pandya,0,1,,,,1,,"",""
+ball,1,10.1,Pakistan,Shan Masood,Iftikhar Ahmed,R Ashwin,1,0,,,,,,"",""
+ball,1,10.2,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,0,0,,,,,,"",""
+ball,1,10.3,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,2,0,,,,,,"",""
+ball,1,10.4,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,0,0,,,,,,"",""
+ball,1,10.5,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,6,0,,,,,,"",""
+ball,1,10.6,Pakistan,Iftikhar Ahmed,Shan Masood,R Ashwin,1,0,,,,,,"",""
+ball,1,11.1,Pakistan,Iftikhar Ahmed,Shan Masood,AR Patel,6,0,,,,,,"",""
+ball,1,11.2,Pakistan,Iftikhar Ahmed,Shan Masood,AR Patel,0,0,,,,,,"",""
+ball,1,11.3,Pakistan,Iftikhar Ahmed,Shan Masood,AR Patel,6,0,,,,,,"",""
+ball,1,11.4,Pakistan,Iftikhar Ahmed,Shan Masood,AR Patel,6,0,,,,,,"",""
+ball,1,11.5,Pakistan,Iftikhar Ahmed,Shan Masood,AR Patel,0,0,,,,,,"",""
+ball,1,11.6,Pakistan,Iftikhar Ahmed,Shan Masood,AR Patel,3,0,,,,,,"",""
+ball,1,12.1,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,12.2,Pakistan,Iftikhar Ahmed,Shan Masood,Mohammed Shami,0,0,,,,,,lbw,Iftikhar Ahmed
+ball,1,12.3,Pakistan,Shadab Khan,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,12.4,Pakistan,Shadab Khan,Shan Masood,Mohammed Shami,4,0,,,,,,"",""
+ball,1,12.5,Pakistan,Shadab Khan,Shan Masood,Mohammed Shami,0,0,,,,,,"",""
+ball,1,12.6,Pakistan,Shadab Khan,Shan Masood,Mohammed Shami,1,0,,,,,,"",""
+ball,1,13.1,Pakistan,Shadab Khan,Shan Masood,HH Pandya,0,0,,,,,,"",""
+ball,1,13.2,Pakistan,Shadab Khan,Shan Masood,HH Pandya,0,0,,,,,,caught,Shadab Khan
+ball,1,13.3,Pakistan,Haider Ali,Shan Masood,HH Pandya,0,0,,,,,,"",""
+ball,1,13.4,Pakistan,Haider Ali,Shan Masood,HH Pandya,2,0,,,,,,"",""
+ball,1,13.5,Pakistan,Haider Ali,Shan Masood,HH Pandya,0,0,,,,,,"",""
+ball,1,13.6,Pakistan,Haider Ali,Shan Masood,HH Pandya,0,0,,,,,,caught,Haider Ali
+ball,1,14.1,Pakistan,Shan Masood,Mohammad Nawaz,R Ashwin,1,0,,,,,,"",""
+ball,1,14.2,Pakistan,Mohammad Nawaz,Shan Masood,R Ashwin,0,1,1,,,,,"",""
+ball,1,14.3,Pakistan,Mohammad Nawaz,Shan Masood,R Ashwin,0,0,,,,,,"",""
+ball,1,14.4,Pakistan,Mohammad Nawaz,Shan Masood,R Ashwin,1,0,,,,,,"",""
+ball,1,14.5,Pakistan,Shan Masood,Mohammad Nawaz,R Ashwin,2,0,,,,,,"",""
+ball,1,14.6,Pakistan,Shan Masood,Mohammad Nawaz,R Ashwin,2,0,,,,,,"",""
+ball,1,14.7,Pakistan,Shan Masood,Mohammad Nawaz,R Ashwin,1,0,,,,,,"",""
+ball,1,15.1,Pakistan,Shan Masood,Mohammad Nawaz,HH Pandya,1,0,,,,,,"",""
+ball,1,15.2,Pakistan,Mohammad Nawaz,Shan Masood,HH Pandya,4,0,,,,,,"",""
+ball,1,15.3,Pakistan,Mohammad Nawaz,Shan Masood,HH Pandya,0,0,,,,,,"",""
+ball,1,15.4,Pakistan,Mohammad Nawaz,Shan Masood,HH Pandya,4,0,,,,,,"",""
+ball,1,15.5,Pakistan,Mohammad Nawaz,Shan Masood,HH Pandya,0,0,,,,,,caught,Mohammad Nawaz
+ball,1,15.6,Pakistan,Asif Ali,Shan Masood,HH Pandya,1,0,,,,,,"",""
+ball,1,16.1,Pakistan,Asif Ali,Shan Masood,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,16.2,Pakistan,Shan Masood,Asif Ali,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,16.3,Pakistan,Shan Masood,Asif Ali,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,16.4,Pakistan,Asif Ali,Shan Masood,Arshdeep Singh,0,0,,,,,,caught,Asif Ali
+ball,1,16.5,Pakistan,Shaheen Shah Afridi,Shan Masood,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,16.6,Pakistan,Shaheen Shah Afridi,Shan Masood,Arshdeep Singh,0,1,1,,,,,"",""
+ball,1,16.7,Pakistan,Shaheen Shah Afridi,Shan Masood,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,17.1,Pakistan,Shan Masood,Shaheen Shah Afridi,Mohammed Shami,0,0,,,,,,"",""
+ball,1,17.2,Pakistan,Shan Masood,Shaheen Shah Afridi,Mohammed Shami,4,0,,,,,,"",""
+ball,1,17.3,Pakistan,Shan Masood,Shaheen Shah Afridi,Mohammed Shami,4,0,,,,,,"",""
+ball,1,17.4,Pakistan,Shan Masood,Shaheen Shah Afridi,Mohammed Shami,0,0,,,,,,"",""
+ball,1,17.5,Pakistan,Shan Masood,Shaheen Shah Afridi,Mohammed Shami,1,0,,,,,,"",""
+ball,1,17.6,Pakistan,Shaheen Shah Afridi,Shan Masood,Mohammed Shami,1,0,,,,,,"",""
+ball,1,18.1,Pakistan,Shaheen Shah Afridi,Shan Masood,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,18.2,Pakistan,Shan Masood,Shaheen Shah Afridi,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,18.3,Pakistan,Shaheen Shah Afridi,Shan Masood,Arshdeep Singh,6,0,,,,,,"",""
+ball,1,18.4,Pakistan,Shaheen Shah Afridi,Shan Masood,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,18.5,Pakistan,Shaheen Shah Afridi,Shan Masood,Arshdeep Singh,0,1,,,,1,,"",""
+ball,1,18.6,Pakistan,Shan Masood,Shaheen Shah Afridi,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,19.1,Pakistan,Shan Masood,Shaheen Shah Afridi,B Kumar,0,1,1,,,,,"",""
+ball,1,19.2,Pakistan,Shan Masood,Shaheen Shah Afridi,B Kumar,1,0,,,,,,"",""
+ball,1,19.3,Pakistan,Shaheen Shah Afridi,Shan Masood,B Kumar,0,0,,,,,,caught and bowled,Shaheen Shah Afridi
+ball,1,19.4,Pakistan,Haris Rauf,Shan Masood,B Kumar,6,0,,,,,,"",""
+ball,1,19.5,Pakistan,Haris Rauf,Shan Masood,B Kumar,0,0,,,,,,"",""
+ball,1,19.6,Pakistan,Haris Rauf,Shan Masood,B Kumar,0,0,,,,,,"",""
+ball,1,19.7,Pakistan,Haris Rauf,Shan Masood,B Kumar,0,2,,,2,,,"",""
+ball,2,0.1,India,KL Rahul,RG Sharma,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.2,India,KL Rahul,RG Sharma,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.3,India,RG Sharma,KL Rahul,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.4,India,KL Rahul,RG Sharma,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.5,India,RG Sharma,KL Rahul,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.6,India,RG Sharma,KL Rahul,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,1.1,India,KL Rahul,RG Sharma,Naseem Shah,0,0,,,,,,"",""
+ball,2,1.2,India,KL Rahul,RG Sharma,Naseem Shah,0,0,,,,,,"",""
+ball,2,1.3,India,KL Rahul,RG Sharma,Naseem Shah,2,0,,,,,,"",""
+ball,2,1.4,India,KL Rahul,RG Sharma,Naseem Shah,0,0,,,,,,"",""
+ball,2,1.5,India,KL Rahul,RG Sharma,Naseem Shah,0,0,,,,,,bowled,KL Rahul
+ball,2,1.6,India,V Kohli,RG Sharma,Naseem Shah,0,0,,,,,,"",""
+ball,2,2.1,India,RG Sharma,V Kohli,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.2,India,RG Sharma,V Kohli,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.3,India,V Kohli,RG Sharma,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.4,India,V Kohli,RG Sharma,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,2.5,India,V Kohli,RG Sharma,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.6,India,V Kohli,RG Sharma,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,3.1,India,RG Sharma,V Kohli,Haris Rauf,0,0,,,,,,"",""
+ball,2,3.2,India,RG Sharma,V Kohli,Haris Rauf,0,0,,,,,,caught,RG Sharma
+ball,2,3.3,India,SA Yadav,V Kohli,Haris Rauf,4,0,,,,,,"",""
+ball,2,3.4,India,SA Yadav,V Kohli,Haris Rauf,3,0,,,,,,"",""
+ball,2,3.5,India,V Kohli,SA Yadav,Haris Rauf,0,0,,,,,,"",""
+ball,2,3.6,India,V Kohli,SA Yadav,Haris Rauf,0,0,,,,,,"",""
+ball,2,4.1,India,SA Yadav,V Kohli,Naseem Shah,0,0,,,,,,"",""
+ball,2,4.2,India,SA Yadav,V Kohli,Naseem Shah,0,0,,,,,,"",""
+ball,2,4.3,India,SA Yadav,V Kohli,Naseem Shah,3,0,,,,,,"",""
+ball,2,4.4,India,V Kohli,SA Yadav,Naseem Shah,1,0,,,,,,"",""
+ball,2,4.5,India,SA Yadav,V Kohli,Naseem Shah,0,0,,,,,,"",""
+ball,2,4.6,India,SA Yadav,V Kohli,Naseem Shah,1,0,,,,,,"",""
+ball,2,5.1,India,SA Yadav,V Kohli,Haris Rauf,0,0,,,,,,"",""
+ball,2,5.2,India,SA Yadav,V Kohli,Haris Rauf,4,0,,,,,,"",""
+ball,2,5.3,India,SA Yadav,V Kohli,Haris Rauf,0,0,,,,,,caught,SA Yadav
+ball,2,5.4,India,AR Patel,V Kohli,Haris Rauf,2,0,,,,,,"",""
+ball,2,5.5,India,AR Patel,V Kohli,Haris Rauf,0,1,,,,1,,"",""
+ball,2,5.6,India,V Kohli,AR Patel,Haris Rauf,2,0,,,,,,"",""
+ball,2,6.1,India,AR Patel,V Kohli,Shadab Khan,0,0,,,,,,run out,AR Patel
+ball,2,6.2,India,HH Pandya,V Kohli,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.3,India,HH Pandya,V Kohli,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.4,India,V Kohli,HH Pandya,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.5,India,V Kohli,HH Pandya,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.6,India,HH Pandya,V Kohli,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.1,India,V Kohli,HH Pandya,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,7.2,India,HH Pandya,V Kohli,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,7.3,India,HH Pandya,V Kohli,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,7.4,India,V Kohli,HH Pandya,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,7.5,India,HH Pandya,V Kohli,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,7.6,India,V Kohli,HH Pandya,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,8.1,India,V Kohli,HH Pandya,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.2,India,HH Pandya,V Kohli,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.3,India,V Kohli,HH Pandya,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.4,India,V Kohli,HH Pandya,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.5,India,V Kohli,HH Pandya,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.6,India,V Kohli,HH Pandya,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.1,India,V Kohli,HH Pandya,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,9.2,India,V Kohli,HH Pandya,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,9.3,India,HH Pandya,V Kohli,Mohammad Nawaz,2,0,,,,,,"",""
+ball,2,9.4,India,HH Pandya,V Kohli,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,9.5,India,HH Pandya,V Kohli,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,9.6,India,HH Pandya,V Kohli,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,10.1,India,HH Pandya,V Kohli,Shadab Khan,0,0,,,,,,"",""
+ball,2,10.2,India,HH Pandya,V Kohli,Shadab Khan,4,0,,,,,,"",""
+ball,2,10.3,India,HH Pandya,V Kohli,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.4,India,V Kohli,HH Pandya,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.5,India,HH Pandya,V Kohli,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.6,India,V Kohli,HH Pandya,Shadab Khan,2,0,,,,,,"",""
+ball,2,11.1,India,HH Pandya,V Kohli,Mohammad Nawaz,6,0,,,,,,"",""
+ball,2,11.2,India,HH Pandya,V Kohli,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,11.3,India,V Kohli,HH Pandya,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,11.4,India,V Kohli,HH Pandya,Mohammad Nawaz,6,0,,,,,,"",""
+ball,2,11.5,India,V Kohli,HH Pandya,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,11.6,India,HH Pandya,V Kohli,Mohammad Nawaz,6,0,,,,,,"",""
+ball,2,12.1,India,V Kohli,HH Pandya,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,12.2,India,HH Pandya,V Kohli,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,12.3,India,HH Pandya,V Kohli,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,12.4,India,V Kohli,HH Pandya,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,12.5,India,V Kohli,HH Pandya,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,12.6,India,HH Pandya,V Kohli,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,13.1,India,V Kohli,HH Pandya,Shadab Khan,4,0,,,,,,"",""
+ball,2,13.2,India,V Kohli,HH Pandya,Shadab Khan,1,0,,,,,,"",""
+ball,2,13.3,India,HH Pandya,V Kohli,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.4,India,HH Pandya,V Kohli,Shadab Khan,1,0,,,,,,"",""
+ball,2,13.5,India,V Kohli,HH Pandya,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.6,India,V Kohli,HH Pandya,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.1,India,V Kohli,HH Pandya,Naseem Shah,2,0,,,,,,"",""
+ball,2,14.2,India,V Kohli,HH Pandya,Naseem Shah,1,0,,,,,,"",""
+ball,2,14.3,India,HH Pandya,V Kohli,Naseem Shah,1,0,,,,,,"",""
+ball,2,14.4,India,V Kohli,HH Pandya,Naseem Shah,4,0,,,,,,"",""
+ball,2,14.5,India,V Kohli,HH Pandya,Naseem Shah,1,0,,,,,,"",""
+ball,2,14.6,India,HH Pandya,V Kohli,Naseem Shah,1,0,,,,,,"",""
+ball,2,15.1,India,HH Pandya,V Kohli,Haris Rauf,0,0,,,,,,"",""
+ball,2,15.2,India,HH Pandya,V Kohli,Haris Rauf,1,0,,,,,,"",""
+ball,2,15.3,India,V Kohli,HH Pandya,Haris Rauf,0,0,,,,,,"",""
+ball,2,15.4,India,V Kohli,HH Pandya,Haris Rauf,1,0,,,,,,"",""
+ball,2,15.5,India,HH Pandya,V Kohli,Haris Rauf,0,3,3,,,,,"",""
+ball,2,15.6,India,HH Pandya,V Kohli,Haris Rauf,0,0,,,,,,"",""
+ball,2,15.7,India,HH Pandya,V Kohli,Haris Rauf,1,0,,,,,,"",""
+ball,2,16.1,India,HH Pandya,V Kohli,Naseem Shah,1,0,,,,,,"",""
+ball,2,16.2,India,V Kohli,HH Pandya,Naseem Shah,2,0,,,,,,"",""
+ball,2,16.3,India,V Kohli,HH Pandya,Naseem Shah,0,0,,,,,,"",""
+ball,2,16.4,India,V Kohli,HH Pandya,Naseem Shah,1,0,,,,,,"",""
+ball,2,16.5,India,HH Pandya,V Kohli,Naseem Shah,0,0,,,,,,"",""
+ball,2,16.6,India,HH Pandya,V Kohli,Naseem Shah,2,0,,,,,,"",""
+ball,2,17.1,India,V Kohli,HH Pandya,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,17.2,India,V Kohli,HH Pandya,Shaheen Shah Afridi,0,1,1,,,,,"",""
+ball,2,17.3,India,V Kohli,HH Pandya,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,17.4,India,V Kohli,HH Pandya,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,17.5,India,V Kohli,HH Pandya,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,17.6,India,HH Pandya,V Kohli,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,17.7,India,V Kohli,HH Pandya,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,18.1,India,HH Pandya,V Kohli,Haris Rauf,1,0,,,,,,"",""
+ball,2,18.2,India,V Kohli,HH Pandya,Haris Rauf,1,0,,,,,,"",""
+ball,2,18.3,India,HH Pandya,V Kohli,Haris Rauf,0,0,,,,,,"",""
+ball,2,18.4,India,HH Pandya,V Kohli,Haris Rauf,1,0,,,,,,"",""
+ball,2,18.5,India,V Kohli,HH Pandya,Haris Rauf,6,0,,,,,,"",""
+ball,2,18.6,India,V Kohli,HH Pandya,Haris Rauf,6,0,,,,,,"",""
+ball,2,19.1,India,HH Pandya,V Kohli,Mohammad Nawaz,0,0,,,,,,caught,HH Pandya
+ball,2,19.2,India,KD Karthik,V Kohli,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,19.3,India,V Kohli,KD Karthik,Mohammad Nawaz,2,0,,,,,,"",""
+ball,2,19.4,India,V Kohli,KD Karthik,Mohammad Nawaz,6,1,,1,,,,"",""
+ball,2,19.5,India,V Kohli,KD Karthik,Mohammad Nawaz,0,1,1,,,,,"",""
+ball,2,19.6,India,V Kohli,KD Karthik,Mohammad Nawaz,0,3,,,3,,,"",""
+ball,2,19.7,India,KD Karthik,V Kohli,Mohammad Nawaz,0,0,,,,,,stumped,KD Karthik
+ball,2,19.8,India,R Ashwin,V Kohli,Mohammad Nawaz,0,1,1,,,,,"",""
+ball,2,19.9,India,R Ashwin,V Kohli,Mohammad Nawaz,1,0,,,,,,"",""

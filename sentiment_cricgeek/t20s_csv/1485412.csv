@@ -1,0 +1,278 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Philippines
+info,gender,female
+info,season,2025
+info,date,2025/06/07
+info,event,Women's T20 Pentangular Series (in Japan)
+info,match_number,9
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Philippines
+info,toss_decision,field
+info,player_of_match,A Fujikawa
+info,umpire,C Thurgate
+info,umpire,R Newman
+info,winner,Japan
+info,winner_runs,59
+info,player,Japan,K Ota
+info,player,Japan,A Kato-Stafford
+info,player,Japan,M Yanagida
+info,player,Japan,H Iwasaki
+info,player,Japan,H Goto
+info,player,Japan,A Chandel
+info,player,Japan,R Morita
+info,player,Japan,A Fujikawa
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,M Ogawa
+info,player,Japan,E Kusuda-Nairn
+info,player,Philippines,ABY Smith
+info,player,Philippines,JKD Andreano
+info,player,Philippines,AR Valdez
+info,player,Philippines,KK Donovan
+info,player,Philippines,Karri Gullem Keen
+info,player,Philippines,Angela Busa
+info,player,Philippines,Kyte Gullem Keen
+info,player,Philippines,R Castillo
+info,player,Philippines,AS Miranda
+info,player,Philippines,JR Medianesta
+info,player,Philippines,Marica Taira
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kato-Stafford,034e7939
+info,registry,people,ABY Smith,fcb4448f
+info,registry,people,AR Valdez,3c3f34b0
+info,registry,people,AS Miranda,283e47fa
+info,registry,people,Angela Busa,cbef5af4
+info,registry,people,C Thurgate,4d8ad58c
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,JKD Andreano,757baa30
+info,registry,people,JR Medianesta,538cb58a
+info,registry,people,K Ota,211f48fe
+info,registry,people,KK Donovan,ef2a7af4
+info,registry,people,Karri Gullem Keen,bb7b014a
+info,registry,people,Kyte Gullem Keen,f3f654c2
+info,registry,people,M Ogawa,93d65d0f
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,Marica Taira,4cd20b08
+info,registry,people,R Castillo,716ba9ef
+info,registry,people,R Morita,d745c1db
+info,registry,people,R Newman,5a8f8619
+ball,1,0.1,Japan,K Ota,A Kato-Stafford,KK Donovan,1,0,,,,,,"",""
+ball,1,0.2,Japan,A Kato-Stafford,K Ota,KK Donovan,0,0,,,,,,"",""
+ball,1,0.3,Japan,A Kato-Stafford,K Ota,KK Donovan,0,0,,,,,,"",""
+ball,1,0.4,Japan,A Kato-Stafford,K Ota,KK Donovan,0,1,1,,,,,"",""
+ball,1,0.5,Japan,A Kato-Stafford,K Ota,KK Donovan,0,0,,,,,,"",""
+ball,1,0.6,Japan,A Kato-Stafford,K Ota,KK Donovan,0,2,2,,,,,"",""
+ball,1,0.7,Japan,K Ota,A Kato-Stafford,KK Donovan,1,0,,,,,,"",""
+ball,1,0.8,Japan,A Kato-Stafford,K Ota,KK Donovan,1,0,,,,,,"",""
+ball,1,1.1,Japan,A Kato-Stafford,K Ota,JKD Andreano,0,0,,,,,,"",""
+ball,1,1.2,Japan,A Kato-Stafford,K Ota,JKD Andreano,0,0,,,,,,"",""
+ball,1,1.3,Japan,A Kato-Stafford,K Ota,JKD Andreano,0,0,,,,,,run out,K Ota
+ball,1,1.4,Japan,M Yanagida,A Kato-Stafford,JKD Andreano,0,0,,,,,,"",""
+ball,1,1.5,Japan,M Yanagida,A Kato-Stafford,JKD Andreano,0,0,,,,,,"",""
+ball,1,1.6,Japan,M Yanagida,A Kato-Stafford,JKD Andreano,0,0,,,,,,bowled,M Yanagida
+ball,1,2.1,Japan,A Kato-Stafford,H Iwasaki,KK Donovan,1,0,,,,,,"",""
+ball,1,2.2,Japan,H Iwasaki,A Kato-Stafford,KK Donovan,1,0,,,,,,"",""
+ball,1,2.3,Japan,A Kato-Stafford,H Iwasaki,KK Donovan,1,0,,,,,,"",""
+ball,1,2.4,Japan,H Iwasaki,A Kato-Stafford,KK Donovan,0,5,5,,,,,"",""
+ball,1,2.5,Japan,H Iwasaki,A Kato-Stafford,KK Donovan,0,1,1,,,,,"",""
+ball,1,2.6,Japan,H Iwasaki,A Kato-Stafford,KK Donovan,0,0,,,,,,"",""
+ball,1,2.7,Japan,H Iwasaki,A Kato-Stafford,KK Donovan,0,0,,,,,,"",""
+ball,1,2.8,Japan,H Iwasaki,A Kato-Stafford,KK Donovan,0,0,,,,,,bowled,H Iwasaki
+ball,1,3.1,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,3.2,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,3.3,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,3.4,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,3.5,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,3.6,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,4.1,Japan,H Goto,A Kato-Stafford,KK Donovan,1,0,,,,,,"",""
+ball,1,4.2,Japan,A Kato-Stafford,H Goto,KK Donovan,0,1,1,,,,,"",""
+ball,1,4.3,Japan,A Kato-Stafford,H Goto,KK Donovan,0,0,,,,,,"",""
+ball,1,4.4,Japan,A Kato-Stafford,H Goto,KK Donovan,0,0,,,,,,"",""
+ball,1,4.5,Japan,A Kato-Stafford,H Goto,KK Donovan,2,0,,,,,,"",""
+ball,1,4.6,Japan,A Kato-Stafford,H Goto,KK Donovan,2,0,,,,,,"",""
+ball,1,4.7,Japan,A Kato-Stafford,H Goto,KK Donovan,0,0,,,,,,"",""
+ball,1,5.1,Japan,H Goto,A Kato-Stafford,JKD Andreano,1,0,,,,,,"",""
+ball,1,5.2,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,5.3,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,5.4,Japan,A Kato-Stafford,H Goto,JKD Andreano,0,0,,,,,,caught,A Kato-Stafford
+ball,1,5.5,Japan,A Chandel,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,5.6,Japan,A Chandel,H Goto,JKD Andreano,0,0,,,,,,"",""
+ball,1,6.1,Japan,H Goto,A Chandel,KK Donovan,0,0,,,,,,"",""
+ball,1,6.2,Japan,H Goto,A Chandel,KK Donovan,1,0,,,,,,"",""
+ball,1,6.3,Japan,A Chandel,H Goto,KK Donovan,0,0,,,,,,"",""
+ball,1,6.4,Japan,A Chandel,H Goto,KK Donovan,1,0,,,,,,"",""
+ball,1,6.5,Japan,H Goto,A Chandel,KK Donovan,1,0,,,,,,"",""
+ball,1,6.6,Japan,A Chandel,H Goto,KK Donovan,0,0,,,,,,"",""
+ball,1,7.1,Japan,H Goto,A Chandel,JKD Andreano,0,0,,,,,,"",""
+ball,1,7.2,Japan,H Goto,A Chandel,JKD Andreano,0,0,,,,,,"",""
+ball,1,7.3,Japan,H Goto,A Chandel,JKD Andreano,0,0,,,,,,"",""
+ball,1,7.4,Japan,H Goto,A Chandel,JKD Andreano,0,0,,,,,,"",""
+ball,1,7.5,Japan,H Goto,A Chandel,JKD Andreano,0,0,,,,,,"",""
+ball,1,7.6,Japan,H Goto,A Chandel,JKD Andreano,0,0,,,,,,"",""
+ball,1,8.1,Japan,A Chandel,H Goto,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,8.2,Japan,A Chandel,H Goto,Karri Gullem Keen,3,0,,,,,,"",""
+ball,1,8.3,Japan,H Goto,A Chandel,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,8.4,Japan,H Goto,A Chandel,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,8.5,Japan,H Goto,A Chandel,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,8.6,Japan,A Chandel,H Goto,Karri Gullem Keen,0,1,1,,,,,"",""
+ball,1,8.7,Japan,A Chandel,H Goto,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,9.1,Japan,A Chandel,H Goto,ABY Smith,0,0,,,,,,"",""
+ball,1,9.2,Japan,A Chandel,H Goto,ABY Smith,0,0,,,,,,"",""
+ball,1,9.3,Japan,A Chandel,H Goto,ABY Smith,1,0,,,,,,"",""
+ball,1,9.4,Japan,H Goto,A Chandel,ABY Smith,2,0,,,,,,"",""
+ball,1,9.5,Japan,H Goto,A Chandel,ABY Smith,0,0,,,,,,"",""
+ball,1,9.6,Japan,H Goto,A Chandel,ABY Smith,1,0,,,,,,"",""
+ball,1,10.1,Japan,H Goto,A Chandel,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,10.2,Japan,H Goto,A Chandel,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,10.3,Japan,H Goto,A Chandel,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,10.4,Japan,H Goto,A Chandel,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,10.5,Japan,A Chandel,H Goto,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,10.6,Japan,A Chandel,H Goto,Karri Gullem Keen,4,0,,,,,,"",""
+ball,1,11.1,Japan,H Goto,A Chandel,ABY Smith,1,0,,,,,,"",""
+ball,1,11.2,Japan,A Chandel,H Goto,ABY Smith,0,0,,,,,,"",""
+ball,1,11.3,Japan,A Chandel,H Goto,ABY Smith,0,0,,,,,,bowled,A Chandel
+ball,1,11.4,Japan,R Morita,H Goto,ABY Smith,1,0,,,,,,"",""
+ball,1,11.5,Japan,H Goto,R Morita,ABY Smith,1,0,,,,,,"",""
+ball,1,11.6,Japan,R Morita,H Goto,ABY Smith,0,0,,,,,,"",""
+ball,1,12.1,Japan,H Goto,R Morita,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,12.2,Japan,R Morita,H Goto,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,12.3,Japan,R Morita,H Goto,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,12.4,Japan,R Morita,H Goto,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,12.5,Japan,R Morita,H Goto,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,12.6,Japan,R Morita,H Goto,Karri Gullem Keen,0,0,,,,,,bowled,R Morita
+ball,1,13.1,Japan,H Goto,A Fujikawa,ABY Smith,0,0,,,,,,bowled,H Goto
+ball,1,13.2,Japan,E Toguchi-Quinn,A Fujikawa,ABY Smith,1,0,,,,,,"",""
+ball,1,13.3,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,0,0,,,,,,"",""
+ball,1,13.4,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,0,0,,,,,,"",""
+ball,1,13.5,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,0,0,,,,,,"",""
+ball,1,13.6,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,0,0,,,,,,"",""
+ball,1,14.1,Japan,E Toguchi-Quinn,A Fujikawa,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,14.2,Japan,E Toguchi-Quinn,A Fujikawa,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,14.3,Japan,E Toguchi-Quinn,A Fujikawa,Karri Gullem Keen,2,0,,,,,,"",""
+ball,1,14.4,Japan,E Toguchi-Quinn,A Fujikawa,Karri Gullem Keen,0,1,1,,,,,"",""
+ball,1,14.5,Japan,E Toguchi-Quinn,A Fujikawa,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,14.6,Japan,A Fujikawa,E Toguchi-Quinn,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,14.7,Japan,A Fujikawa,E Toguchi-Quinn,Karri Gullem Keen,2,0,,,,,,"",""
+ball,1,15.1,Japan,E Toguchi-Quinn,A Fujikawa,ABY Smith,0,0,,,,,,"",""
+ball,1,15.2,Japan,E Toguchi-Quinn,A Fujikawa,ABY Smith,1,0,,,,,,"",""
+ball,1,15.3,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,0,0,,,,,,"",""
+ball,1,15.4,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,0,1,,1,,,,"",""
+ball,1,15.5,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,2,0,,,,,,"",""
+ball,1,15.6,Japan,A Fujikawa,E Toguchi-Quinn,ABY Smith,1,0,,,,,,"",""
+ball,1,15.7,Japan,E Toguchi-Quinn,A Fujikawa,ABY Smith,1,0,,,,,,"",""
+ball,1,16.1,Japan,E Toguchi-Quinn,A Fujikawa,R Castillo,0,0,,,,,,caught,E Toguchi-Quinn
+ball,1,16.2,Japan,M Ogawa,A Fujikawa,R Castillo,0,0,,,,,,"",""
+ball,1,16.3,Japan,M Ogawa,A Fujikawa,R Castillo,1,0,,,,,,"",""
+ball,1,16.4,Japan,A Fujikawa,M Ogawa,R Castillo,2,0,,,,,,"",""
+ball,1,16.5,Japan,A Fujikawa,M Ogawa,R Castillo,1,0,,,,,,"",""
+ball,1,16.6,Japan,M Ogawa,A Fujikawa,R Castillo,0,0,,,,,,"",""
+ball,1,17.1,Japan,A Fujikawa,M Ogawa,Angela Busa,0,2,2,,,,,"",""
+ball,1,17.2,Japan,M Ogawa,A Fujikawa,Angela Busa,0,1,,,,1,,"",""
+ball,1,17.3,Japan,A Fujikawa,M Ogawa,Angela Busa,0,0,,,,,,"",""
+ball,1,17.4,Japan,A Fujikawa,M Ogawa,Angela Busa,2,0,,,,,,"",""
+ball,1,17.5,Japan,A Fujikawa,M Ogawa,Angela Busa,1,0,,,,,,"",""
+ball,1,17.6,Japan,M Ogawa,A Fujikawa,Angela Busa,0,0,,,,,,"",""
+ball,1,17.7,Japan,M Ogawa,A Fujikawa,Angela Busa,0,0,,,,,,"",""
+ball,1,18.1,Japan,A Fujikawa,M Ogawa,R Castillo,2,0,,,,,,"",""
+ball,1,18.2,Japan,A Fujikawa,M Ogawa,R Castillo,1,0,,,,,,"",""
+ball,1,18.3,Japan,M Ogawa,A Fujikawa,R Castillo,0,0,,,,,,"",""
+ball,1,18.4,Japan,M Ogawa,A Fujikawa,R Castillo,0,0,,,,,,"",""
+ball,1,18.5,Japan,M Ogawa,A Fujikawa,R Castillo,1,0,,,,,,"",""
+ball,1,18.6,Japan,A Fujikawa,M Ogawa,R Castillo,1,0,,,,,,"",""
+ball,1,19.1,Japan,A Fujikawa,M Ogawa,Angela Busa,0,1,,,,1,,"",""
+ball,1,19.2,Japan,M Ogawa,A Fujikawa,Angela Busa,1,0,,,,,,"",""
+ball,1,19.3,Japan,A Fujikawa,M Ogawa,Angela Busa,0,1,1,,,,,"",""
+ball,1,19.4,Japan,A Fujikawa,M Ogawa,Angela Busa,0,1,,,1,,,"",""
+ball,1,19.5,Japan,M Ogawa,A Fujikawa,Angela Busa,0,4,4,,,,,"",""
+ball,1,19.6,Japan,A Fujikawa,M Ogawa,Angela Busa,1,0,,,,,,"",""
+ball,1,19.7,Japan,M Ogawa,A Fujikawa,Angela Busa,0,1,,,,1,,"",""
+ball,1,19.8,Japan,A Fujikawa,M Ogawa,Angela Busa,0,1,,,,1,,"",""
+ball,2,0.1,Philippines,ABY Smith,JKD Andreano,A Chandel,0,0,,,,,,"",""
+ball,2,0.2,Philippines,ABY Smith,JKD Andreano,A Chandel,0,0,,,,,,"",""
+ball,2,0.3,Philippines,ABY Smith,JKD Andreano,A Chandel,0,0,,,,,,"",""
+ball,2,0.4,Philippines,ABY Smith,JKD Andreano,A Chandel,1,0,,,,,,"",""
+ball,2,0.5,Philippines,JKD Andreano,ABY Smith,A Chandel,0,0,,,,,,"",""
+ball,2,0.6,Philippines,JKD Andreano,ABY Smith,A Chandel,1,0,,,,,,"",""
+ball,2,1.1,Philippines,JKD Andreano,ABY Smith,A Kato-Stafford,2,0,,,,,,"",""
+ball,2,1.2,Philippines,JKD Andreano,ABY Smith,A Kato-Stafford,0,0,,,,,,bowled,JKD Andreano
+ball,2,1.3,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,1.4,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,1.5,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,1.6,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,2.1,Philippines,ABY Smith,AR Valdez,A Chandel,1,0,,,,,,"",""
+ball,2,2.2,Philippines,AR Valdez,ABY Smith,A Chandel,0,0,,,,,,"",""
+ball,2,2.3,Philippines,AR Valdez,ABY Smith,A Chandel,0,0,,,,,,"",""
+ball,2,2.4,Philippines,AR Valdez,ABY Smith,A Chandel,1,0,,,,,,"",""
+ball,2,2.5,Philippines,ABY Smith,AR Valdez,A Chandel,0,0,,,,,,"",""
+ball,2,2.6,Philippines,ABY Smith,AR Valdez,A Chandel,1,0,,,,,,"",""
+ball,2,3.1,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,3.2,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,3.3,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,3.4,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,1,0,,,,,,"",""
+ball,2,3.5,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,3.6,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,4.1,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,4.2,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,4.3,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,4.4,Philippines,ABY Smith,AR Valdez,A Fujikawa,1,0,,,,,,"",""
+ball,2,4.5,Philippines,AR Valdez,ABY Smith,A Fujikawa,1,0,,,,,,"",""
+ball,2,4.6,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,5.1,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,5.2,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,1,0,,,,,,"",""
+ball,2,5.3,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,5.4,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,1,1,,,,,"",""
+ball,2,5.5,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,5.6,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,5.7,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,1,1,,,,,"",""
+ball,2,5.8,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,1,0,,,,,,"",""
+ball,2,6.1,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,6.2,Philippines,ABY Smith,AR Valdez,A Fujikawa,1,0,,,,,,"",""
+ball,2,6.3,Philippines,AR Valdez,ABY Smith,A Fujikawa,0,0,,,,,,"",""
+ball,2,6.4,Philippines,AR Valdez,ABY Smith,A Fujikawa,0,0,,,,,,"",""
+ball,2,6.5,Philippines,AR Valdez,ABY Smith,A Fujikawa,0,0,,,,,,"",""
+ball,2,6.6,Philippines,AR Valdez,ABY Smith,A Fujikawa,0,0,,,,,,"",""
+ball,2,7.1,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,7.2,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,7.3,Philippines,ABY Smith,AR Valdez,A Kato-Stafford,1,0,,,,,,"",""
+ball,2,7.4,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,7.5,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,1,1,,,,,"",""
+ball,2,7.6,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,7.7,Philippines,AR Valdez,ABY Smith,A Kato-Stafford,0,0,,,,,,"",""
+ball,2,8.1,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,8.2,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,8.3,Philippines,ABY Smith,AR Valdez,A Fujikawa,0,0,,,,,,bowled,ABY Smith
+ball,2,8.4,Philippines,KK Donovan,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,8.5,Philippines,KK Donovan,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,8.6,Philippines,KK Donovan,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,9.1,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,2,9.2,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,0,1,1,,,,,"",""
+ball,2,9.3,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,2,9.4,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,2,0,,,,,,"",""
+ball,2,9.5,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,2,9.6,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,2,9.7,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,0,1,,1,,,,"",""
+ball,2,9.8,Philippines,AR Valdez,KK Donovan,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,2,10.1,Philippines,KK Donovan,AR Valdez,A Fujikawa,0,0,,,,,,stumped,KK Donovan
+ball,2,10.2,Philippines,Karri Gullem Keen,AR Valdez,A Fujikawa,0,1,1,,,,,"",""
+ball,2,10.3,Philippines,Karri Gullem Keen,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,10.4,Philippines,Karri Gullem Keen,AR Valdez,A Fujikawa,0,0,,,,,,bowled,Karri Gullem Keen
+ball,2,10.5,Philippines,Angela Busa,AR Valdez,A Fujikawa,0,0,,,,,,caught,Angela Busa
+ball,2,10.6,Philippines,Kyte Gullem Keen,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,10.7,Philippines,Kyte Gullem Keen,AR Valdez,A Fujikawa,0,0,,,,,,"",""
+ball,2,11.1,Philippines,AR Valdez,Kyte Gullem Keen,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,2,11.2,Philippines,Kyte Gullem Keen,AR Valdez,E Toguchi-Quinn,0,0,,,,,,caught,Kyte Gullem Keen
+ball,2,11.3,Philippines,R Castillo,AR Valdez,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,2,11.4,Philippines,R Castillo,AR Valdez,E Toguchi-Quinn,0,0,,,,,,stumped,R Castillo
+ball,2,11.5,Philippines,AS Miranda,AR Valdez,E Toguchi-Quinn,0,0,,,,,,bowled,AS Miranda
+ball,2,11.6,Philippines,JR Medianesta,AR Valdez,E Toguchi-Quinn,0,0,,,,,,caught,JR Medianesta
+ball,2,12.1,Philippines,AR Valdez,Marica Taira,A Chandel,0,0,,,,,,"",""
+ball,2,12.2,Philippines,AR Valdez,Marica Taira,A Chandel,0,0,,,,,,"",""
+ball,2,12.3,Philippines,AR Valdez,Marica Taira,A Chandel,0,0,,,,,,"",""
+ball,2,12.4,Philippines,AR Valdez,Marica Taira,A Chandel,0,1,,,,1,,"",""
+ball,2,12.5,Philippines,Marica Taira,AR Valdez,A Chandel,0,0,,,,,,run out,Marica Taira

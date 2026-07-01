@@ -1,0 +1,306 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Uganda
+info,gender,female
+info,season,2019
+info,date,2019/05/05
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,venue,Old Hararians
+info,city,Harare
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,D Busingye
+info,umpire,IO Oyieko
+info,umpire,A Louw
+info,reserve_umpire,R D'Mello
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_runs,90
+info,player,Uganda,R Ntono
+info,player,Uganda,D Busingye
+info,player,Uganda,NK Bagenda
+info,player,Uganda,F Najjumba
+info,player,Uganda,K Awino
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,S Nampiina
+info,player,Uganda,R Musamali
+info,player,Uganda,C Aweko
+info,player,Uganda,JM Apio
+info,player,Uganda,J Mbabazi
+info,player,Sierra Leone,M King
+info,player,Sierra Leone,M Sankoh
+info,player,Sierra Leone,Aminata Kamara
+info,player,Sierra Leone,L Bull
+info,player,Sierra Leone,Adama Kamara
+info,player,Sierra Leone,AM Kamara
+info,player,Sierra Leone,Z Kamara
+info,player,Sierra Leone,I Koroma
+info,player,Sierra Leone,J Kowa
+info,player,Sierra Leone,M Sheriff
+info,player,Sierra Leone,F Bangur
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AM Kamara,4ca3d67d
+info,registry,people,Adama Kamara,e45ac860
+info,registry,people,Aminata Kamara,f7aca3b3
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,D Busingye,51862ee2
+info,registry,people,F Bangur,1530ae9d
+info,registry,people,F Najjumba,791dca18
+info,registry,people,I Koroma,fce5bfd2
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Kowa,9d80f576
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,JM Apio,2842d925
+info,registry,people,K Awino,c4e7749a
+info,registry,people,L Bull,256d29e8
+info,registry,people,M King,00015688
+info,registry,people,M Sankoh,4206b29c
+info,registry,people,M Sheriff,7cfb9b67
+info,registry,people,NK Bagenda,5926e145
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,R Musamali,017cadb2
+info,registry,people,R Ntono,4b6da99c
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,Z Kamara,a4e98e6b
+ball,1,0.1,Uganda,R Ntono,D Busingye,Aminata Kamara,0,1,1,,,,,"",""
+ball,1,0.2,Uganda,R Ntono,D Busingye,Aminata Kamara,0,0,,,,,,"",""
+ball,1,0.3,Uganda,R Ntono,D Busingye,Aminata Kamara,1,0,,,,,,"",""
+ball,1,0.4,Uganda,D Busingye,R Ntono,Aminata Kamara,0,0,,,,,,"",""
+ball,1,0.5,Uganda,D Busingye,R Ntono,Aminata Kamara,0,0,,,,,,"",""
+ball,1,0.6,Uganda,D Busingye,R Ntono,Aminata Kamara,0,1,,,1,,,"",""
+ball,1,0.7,Uganda,R Ntono,D Busingye,Aminata Kamara,1,0,,,,,,"",""
+ball,1,1.1,Uganda,R Ntono,D Busingye,J Kowa,0,0,,,,,,lbw,R Ntono
+ball,1,1.2,Uganda,NK Bagenda,D Busingye,J Kowa,0,0,,,,,,"",""
+ball,1,1.3,Uganda,NK Bagenda,D Busingye,J Kowa,0,1,1,,,,,"",""
+ball,1,1.4,Uganda,NK Bagenda,D Busingye,J Kowa,1,0,,,,,,"",""
+ball,1,1.5,Uganda,D Busingye,NK Bagenda,J Kowa,0,0,,,,,,"",""
+ball,1,1.6,Uganda,D Busingye,NK Bagenda,J Kowa,0,0,,,,,,"",""
+ball,1,1.7,Uganda,D Busingye,NK Bagenda,J Kowa,0,0,,,,,,"",""
+ball,1,2.1,Uganda,NK Bagenda,D Busingye,Aminata Kamara,0,1,1,,,,,"",""
+ball,1,2.2,Uganda,NK Bagenda,D Busingye,Aminata Kamara,0,0,,,,,,"",""
+ball,1,2.3,Uganda,NK Bagenda,D Busingye,Aminata Kamara,0,0,,,,,,"",""
+ball,1,2.4,Uganda,NK Bagenda,D Busingye,Aminata Kamara,0,0,,,,,,"",""
+ball,1,2.5,Uganda,NK Bagenda,D Busingye,Aminata Kamara,0,0,,,,,,"",""
+ball,1,2.6,Uganda,NK Bagenda,D Busingye,Aminata Kamara,0,1,1,,,,,"",""
+ball,1,2.7,Uganda,NK Bagenda,D Busingye,Aminata Kamara,1,0,,,,,,"",""
+ball,1,2.8,Uganda,D Busingye,NK Bagenda,Aminata Kamara,4,0,,,,,,"",""
+ball,1,3.1,Uganda,NK Bagenda,D Busingye,J Kowa,0,0,,,,,,"",""
+ball,1,3.2,Uganda,NK Bagenda,D Busingye,J Kowa,4,0,,,,,,"",""
+ball,1,3.3,Uganda,NK Bagenda,D Busingye,J Kowa,0,0,,,,,,"",""
+ball,1,3.4,Uganda,NK Bagenda,D Busingye,J Kowa,0,0,,,,,,"",""
+ball,1,3.5,Uganda,NK Bagenda,D Busingye,J Kowa,0,0,,,,,,"",""
+ball,1,3.6,Uganda,NK Bagenda,D Busingye,J Kowa,1,0,,,,,,"",""
+ball,1,4.1,Uganda,NK Bagenda,D Busingye,Aminata Kamara,0,1,1,,,,,"",""
+ball,1,4.2,Uganda,NK Bagenda,D Busingye,Aminata Kamara,1,0,,,,,,"",""
+ball,1,4.3,Uganda,D Busingye,NK Bagenda,Aminata Kamara,2,0,,,,,,"",""
+ball,1,4.4,Uganda,D Busingye,NK Bagenda,Aminata Kamara,1,0,,,,,,"",""
+ball,1,4.5,Uganda,NK Bagenda,D Busingye,Aminata Kamara,1,0,,,,,,"",""
+ball,1,4.6,Uganda,D Busingye,NK Bagenda,Aminata Kamara,0,0,,,,,,"",""
+ball,1,4.7,Uganda,D Busingye,NK Bagenda,Aminata Kamara,1,0,,,,,,"",""
+ball,1,5.1,Uganda,D Busingye,NK Bagenda,J Kowa,0,0,,,,,,"",""
+ball,1,5.2,Uganda,D Busingye,NK Bagenda,J Kowa,2,0,,,,,,"",""
+ball,1,5.3,Uganda,D Busingye,NK Bagenda,J Kowa,1,0,,,,,,"",""
+ball,1,5.4,Uganda,NK Bagenda,D Busingye,J Kowa,2,0,,,,,,"",""
+ball,1,5.5,Uganda,NK Bagenda,D Busingye,J Kowa,0,0,,,,,,"",""
+ball,1,5.6,Uganda,NK Bagenda,D Busingye,J Kowa,0,0,,,,,,"",""
+ball,1,6.1,Uganda,D Busingye,NK Bagenda,AM Kamara,0,0,,,,,,"",""
+ball,1,6.2,Uganda,D Busingye,NK Bagenda,AM Kamara,0,0,,,,,,"",""
+ball,1,6.3,Uganda,D Busingye,NK Bagenda,AM Kamara,1,0,,,,,,"",""
+ball,1,6.4,Uganda,NK Bagenda,D Busingye,AM Kamara,0,0,,,,,,"",""
+ball,1,6.5,Uganda,NK Bagenda,D Busingye,AM Kamara,0,1,1,,,,,"",""
+ball,1,6.6,Uganda,NK Bagenda,D Busingye,AM Kamara,0,0,,,,,,"",""
+ball,1,6.7,Uganda,NK Bagenda,D Busingye,AM Kamara,0,0,,,,,,"",""
+ball,1,7.1,Uganda,D Busingye,NK Bagenda,M Sheriff,0,1,,1,,,,"",""
+ball,1,7.2,Uganda,D Busingye,NK Bagenda,M Sheriff,2,0,,,,,,"",""
+ball,1,7.3,Uganda,D Busingye,NK Bagenda,M Sheriff,0,0,,,,,,"",""
+ball,1,7.4,Uganda,D Busingye,NK Bagenda,M Sheriff,2,0,,,,,,"",""
+ball,1,7.5,Uganda,D Busingye,NK Bagenda,M Sheriff,1,0,,,,,,"",""
+ball,1,7.6,Uganda,NK Bagenda,D Busingye,M Sheriff,1,0,,,,,,"",""
+ball,1,7.7,Uganda,D Busingye,NK Bagenda,M Sheriff,1,0,,,,,,"",""
+ball,1,8.1,Uganda,D Busingye,NK Bagenda,AM Kamara,1,0,,,,,,"",""
+ball,1,8.2,Uganda,NK Bagenda,D Busingye,AM Kamara,1,0,,,,,,"",""
+ball,1,8.3,Uganda,D Busingye,NK Bagenda,AM Kamara,1,0,,,,,,"",""
+ball,1,8.4,Uganda,NK Bagenda,D Busingye,AM Kamara,1,0,,,,,,"",""
+ball,1,8.5,Uganda,D Busingye,NK Bagenda,AM Kamara,1,0,,,,,,"",""
+ball,1,8.6,Uganda,NK Bagenda,D Busingye,AM Kamara,0,0,,,,,,"",""
+ball,1,9.1,Uganda,D Busingye,NK Bagenda,M Sheriff,1,0,,,,,,"",""
+ball,1,9.2,Uganda,NK Bagenda,D Busingye,M Sheriff,1,0,,,,,,"",""
+ball,1,9.3,Uganda,D Busingye,NK Bagenda,M Sheriff,1,0,,,,,,"",""
+ball,1,9.4,Uganda,NK Bagenda,D Busingye,M Sheriff,2,0,,,,,,"",""
+ball,1,9.5,Uganda,NK Bagenda,D Busingye,M Sheriff,4,0,,,,,,"",""
+ball,1,9.6,Uganda,NK Bagenda,D Busingye,M Sheriff,2,0,,,,,,"",""
+ball,1,10.1,Uganda,D Busingye,NK Bagenda,AM Kamara,1,0,,,,,,"",""
+ball,1,10.2,Uganda,NK Bagenda,D Busingye,AM Kamara,2,0,,,,,,"",""
+ball,1,10.3,Uganda,NK Bagenda,D Busingye,AM Kamara,1,0,,,,,,"",""
+ball,1,10.4,Uganda,D Busingye,NK Bagenda,AM Kamara,1,0,,,,,,"",""
+ball,1,10.5,Uganda,NK Bagenda,D Busingye,AM Kamara,4,0,,,,,,"",""
+ball,1,10.6,Uganda,NK Bagenda,D Busingye,AM Kamara,2,0,,,,,,"",""
+ball,1,11.1,Uganda,D Busingye,NK Bagenda,F Bangur,1,0,,,,,,"",""
+ball,1,11.2,Uganda,NK Bagenda,D Busingye,F Bangur,1,0,,,,,,"",""
+ball,1,11.3,Uganda,D Busingye,NK Bagenda,F Bangur,2,0,,,,,,"",""
+ball,1,11.4,Uganda,D Busingye,NK Bagenda,F Bangur,1,0,,,,,,"",""
+ball,1,11.5,Uganda,NK Bagenda,D Busingye,F Bangur,1,0,,,,,,"",""
+ball,1,11.6,Uganda,D Busingye,NK Bagenda,F Bangur,1,0,,,,,,"",""
+ball,1,12.1,Uganda,D Busingye,NK Bagenda,AM Kamara,0,1,1,,,,,"",""
+ball,1,12.2,Uganda,D Busingye,NK Bagenda,AM Kamara,2,0,,,,,,"",""
+ball,1,12.3,Uganda,D Busingye,NK Bagenda,AM Kamara,2,0,,,,,,"",""
+ball,1,12.4,Uganda,D Busingye,NK Bagenda,AM Kamara,0,0,,,,,,"",""
+ball,1,12.5,Uganda,D Busingye,NK Bagenda,AM Kamara,1,0,,,,,,"",""
+ball,1,12.6,Uganda,NK Bagenda,D Busingye,AM Kamara,0,0,,,,,,bowled,NK Bagenda
+ball,1,12.7,Uganda,F Najjumba,D Busingye,AM Kamara,4,0,,,,,,"",""
+ball,1,13.1,Uganda,D Busingye,F Najjumba,F Bangur,0,0,,,,,,"",""
+ball,1,13.2,Uganda,D Busingye,F Najjumba,F Bangur,0,2,2,,,,,"",""
+ball,1,13.3,Uganda,F Najjumba,D Busingye,F Bangur,2,0,,,,,,"",""
+ball,1,13.4,Uganda,F Najjumba,D Busingye,F Bangur,1,0,,,,,,"",""
+ball,1,13.5,Uganda,D Busingye,F Najjumba,F Bangur,1,0,,,,,,"",""
+ball,1,13.6,Uganda,F Najjumba,D Busingye,F Bangur,1,0,,,,,,"",""
+ball,1,13.7,Uganda,D Busingye,F Najjumba,F Bangur,2,0,,,,,,"",""
+ball,1,14.1,Uganda,F Najjumba,D Busingye,Adama Kamara,1,0,,,,,,"",""
+ball,1,14.2,Uganda,D Busingye,F Najjumba,Adama Kamara,0,0,,,,,,"",""
+ball,1,14.3,Uganda,D Busingye,F Najjumba,Adama Kamara,1,0,,,,,,"",""
+ball,1,14.4,Uganda,F Najjumba,D Busingye,Adama Kamara,1,0,,,,,,"",""
+ball,1,14.5,Uganda,D Busingye,F Najjumba,Adama Kamara,4,0,,,,,,"",""
+ball,1,14.6,Uganda,D Busingye,F Najjumba,Adama Kamara,2,0,,,,,,"",""
+ball,1,15.1,Uganda,F Najjumba,D Busingye,F Bangur,2,0,,,,,,"",""
+ball,1,15.2,Uganda,F Najjumba,D Busingye,F Bangur,1,1,,1,,,,"",""
+ball,1,15.3,Uganda,D Busingye,F Najjumba,F Bangur,4,0,,,,,,"",""
+ball,1,15.4,Uganda,D Busingye,F Najjumba,F Bangur,4,0,,,,,,"",""
+ball,1,15.5,Uganda,D Busingye,F Najjumba,F Bangur,0,0,,,,,,"",""
+ball,1,15.6,Uganda,D Busingye,F Najjumba,F Bangur,0,0,,,,,,"",""
+ball,1,15.7,Uganda,D Busingye,F Najjumba,F Bangur,1,0,,,,,,"",""
+ball,1,16.1,Uganda,D Busingye,F Najjumba,Adama Kamara,0,1,,,1,,,"",""
+ball,1,16.2,Uganda,F Najjumba,D Busingye,Adama Kamara,1,0,,,,,,"",""
+ball,1,16.3,Uganda,D Busingye,F Najjumba,Adama Kamara,1,0,,,,,,"",""
+ball,1,16.4,Uganda,F Najjumba,D Busingye,Adama Kamara,0,0,,,,,,"",""
+ball,1,16.5,Uganda,F Najjumba,D Busingye,Adama Kamara,0,0,,,,,,"",""
+ball,1,16.6,Uganda,F Najjumba,D Busingye,Adama Kamara,1,0,,,,,,"",""
+ball,1,17.1,Uganda,F Najjumba,D Busingye,J Kowa,2,0,,,,,,"",""
+ball,1,17.2,Uganda,F Najjumba,D Busingye,J Kowa,1,0,,,,,,"",""
+ball,1,17.3,Uganda,D Busingye,F Najjumba,J Kowa,1,0,,,,,,"",""
+ball,1,17.4,Uganda,F Najjumba,D Busingye,J Kowa,1,0,,,,,,"",""
+ball,1,17.5,Uganda,D Busingye,F Najjumba,J Kowa,1,0,,,,,,"",""
+ball,1,17.6,Uganda,F Najjumba,D Busingye,J Kowa,1,0,,,,,,"",""
+ball,1,18.1,Uganda,F Najjumba,D Busingye,Adama Kamara,2,0,,,,,,"",""
+ball,1,18.2,Uganda,F Najjumba,D Busingye,Adama Kamara,0,0,,,,,,"",""
+ball,1,18.3,Uganda,F Najjumba,D Busingye,Adama Kamara,0,0,,,,,,"",""
+ball,1,18.4,Uganda,F Najjumba,D Busingye,Adama Kamara,1,0,,,,,,"",""
+ball,1,18.5,Uganda,D Busingye,F Najjumba,Adama Kamara,1,0,,,,,,"",""
+ball,1,18.6,Uganda,F Najjumba,D Busingye,Adama Kamara,2,0,,,,,,"",""
+ball,1,19.1,Uganda,D Busingye,F Najjumba,Aminata Kamara,1,0,,,,,,"",""
+ball,1,19.2,Uganda,F Najjumba,D Busingye,Aminata Kamara,0,1,,,1,,,"",""
+ball,1,19.3,Uganda,D Busingye,F Najjumba,Aminata Kamara,2,0,,,,,,"",""
+ball,1,19.4,Uganda,D Busingye,F Najjumba,Aminata Kamara,0,1,1,,,,,"",""
+ball,1,19.5,Uganda,D Busingye,F Najjumba,Aminata Kamara,0,1,,,,1,,"",""
+ball,1,19.6,Uganda,F Najjumba,D Busingye,Aminata Kamara,1,0,,,,,,"",""
+ball,1,19.7,Uganda,D Busingye,F Najjumba,Aminata Kamara,4,0,,,,,,"",""
+ball,2,0.1,Sierra Leone,M King,M Sankoh,JM Apio,0,0,,,,,,"",""
+ball,2,0.2,Sierra Leone,M King,M Sankoh,JM Apio,0,0,,,,,,"",""
+ball,2,0.3,Sierra Leone,M King,M Sankoh,JM Apio,0,0,,,,,,"",""
+ball,2,0.4,Sierra Leone,M King,M Sankoh,JM Apio,1,0,,,,,,"",""
+ball,2,0.5,Sierra Leone,M Sankoh,M King,JM Apio,0,1,1,,,,,"",""
+ball,2,0.6,Sierra Leone,M Sankoh,M King,JM Apio,0,0,,,,,,"",""
+ball,2,0.7,Sierra Leone,M Sankoh,M King,JM Apio,0,0,,,,,,"",""
+ball,2,1.1,Sierra Leone,M King,M Sankoh,R Musamali,0,1,1,,,,,"",""
+ball,2,1.2,Sierra Leone,M King,M Sankoh,R Musamali,0,0,,,,,,"",""
+ball,2,1.3,Sierra Leone,M King,M Sankoh,R Musamali,0,0,,,,,,"",""
+ball,2,1.4,Sierra Leone,M King,M Sankoh,R Musamali,0,0,,,,,,"",""
+ball,2,1.5,Sierra Leone,M King,M Sankoh,R Musamali,4,0,,,,,,"",""
+ball,2,1.6,Sierra Leone,M King,M Sankoh,R Musamali,0,0,,,,,,"",""
+ball,2,1.7,Sierra Leone,M King,M Sankoh,R Musamali,0,1,1,,,,,"",""
+ball,2,1.8,Sierra Leone,M King,M Sankoh,R Musamali,0,0,,,,,,"",""
+ball,2,2.1,Sierra Leone,M Sankoh,M King,JM Apio,0,0,,,,,,"",""
+ball,2,2.2,Sierra Leone,M Sankoh,M King,JM Apio,3,0,,,,,,"",""
+ball,2,2.3,Sierra Leone,M King,M Sankoh,JM Apio,1,0,,,,,,"",""
+ball,2,2.4,Sierra Leone,M Sankoh,M King,JM Apio,0,0,,,,,,"",""
+ball,2,2.5,Sierra Leone,M Sankoh,M King,JM Apio,2,0,,,,,,"",""
+ball,2,2.6,Sierra Leone,M Sankoh,M King,JM Apio,1,0,,,,,,"",""
+ball,2,3.1,Sierra Leone,M Sankoh,M King,R Musamali,0,0,,,,,,"",""
+ball,2,3.2,Sierra Leone,M Sankoh,M King,R Musamali,0,0,,,,,,"",""
+ball,2,3.3,Sierra Leone,M Sankoh,M King,R Musamali,0,0,,,,,,"",""
+ball,2,3.4,Sierra Leone,M Sankoh,M King,R Musamali,0,0,,,,,,"",""
+ball,2,3.5,Sierra Leone,M Sankoh,M King,R Musamali,0,0,,,,,,"",""
+ball,2,3.6,Sierra Leone,M Sankoh,M King,R Musamali,0,0,,,,,,"",""
+ball,2,4.1,Sierra Leone,M King,M Sankoh,C Aweko,0,1,1,,,,,"",""
+ball,2,4.2,Sierra Leone,M King,M Sankoh,C Aweko,0,0,,,,,,"",""
+ball,2,4.3,Sierra Leone,M King,M Sankoh,C Aweko,0,0,,,,,,"",""
+ball,2,4.4,Sierra Leone,M King,M Sankoh,C Aweko,2,0,,,,,,"",""
+ball,2,4.5,Sierra Leone,M King,M Sankoh,C Aweko,0,0,,,,,,bowled,M King
+ball,2,4.6,Sierra Leone,Aminata Kamara,M Sankoh,C Aweko,0,0,,,,,,run out,Aminata Kamara
+ball,2,4.7,Sierra Leone,L Bull,M Sankoh,C Aweko,0,0,,,,,,"",""
+ball,2,5.1,Sierra Leone,M Sankoh,L Bull,R Musamali,0,1,1,,,,,"",""
+ball,2,5.2,Sierra Leone,M Sankoh,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,5.3,Sierra Leone,M Sankoh,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,5.4,Sierra Leone,M Sankoh,L Bull,R Musamali,0,0,,,,,,bowled,M Sankoh
+ball,2,5.5,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,5.6,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,5.7,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,6.1,Sierra Leone,L Bull,Adama Kamara,C Aweko,0,0,,,,,,"",""
+ball,2,6.2,Sierra Leone,L Bull,Adama Kamara,C Aweko,0,0,,,,,,"",""
+ball,2,6.3,Sierra Leone,L Bull,Adama Kamara,C Aweko,1,0,,,,,,"",""
+ball,2,6.4,Sierra Leone,Adama Kamara,L Bull,C Aweko,0,0,,,,,,"",""
+ball,2,6.5,Sierra Leone,Adama Kamara,L Bull,C Aweko,0,0,,,,,,"",""
+ball,2,6.6,Sierra Leone,Adama Kamara,L Bull,C Aweko,1,0,,,,,,"",""
+ball,2,7.1,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,7.2,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,1,1,,,,,"",""
+ball,2,7.3,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,1,,,,1,,"",""
+ball,2,7.4,Sierra Leone,L Bull,Adama Kamara,R Musamali,0,0,,,,,,"",""
+ball,2,7.5,Sierra Leone,L Bull,Adama Kamara,R Musamali,1,0,,,,,,"",""
+ball,2,7.6,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,7.7,Sierra Leone,Adama Kamara,L Bull,R Musamali,0,0,,,,,,"",""
+ball,2,8.1,Sierra Leone,L Bull,Adama Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.2,Sierra Leone,L Bull,Adama Kamara,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,8.3,Sierra Leone,Adama Kamara,L Bull,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,8.4,Sierra Leone,L Bull,Adama Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.5,Sierra Leone,L Bull,Adama Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.6,Sierra Leone,L Bull,Adama Kamara,I Nakisuuyi,0,1,1,,,,,"",""
+ball,2,8.7,Sierra Leone,L Bull,Adama Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,9.1,Sierra Leone,Adama Kamara,L Bull,C Aweko,0,0,,,,,,bowled,Adama Kamara
+ball,2,9.2,Sierra Leone,AM Kamara,L Bull,C Aweko,1,0,,,,,,"",""
+ball,2,9.3,Sierra Leone,L Bull,AM Kamara,C Aweko,0,0,,,,,,"",""
+ball,2,9.4,Sierra Leone,L Bull,AM Kamara,C Aweko,0,0,,,,,,"",""
+ball,2,9.5,Sierra Leone,L Bull,AM Kamara,C Aweko,0,0,,,,,,"",""
+ball,2,9.6,Sierra Leone,L Bull,AM Kamara,C Aweko,0,0,,,,,,"",""
+ball,2,10.1,Sierra Leone,AM Kamara,L Bull,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,10.2,Sierra Leone,AM Kamara,L Bull,I Nakisuuyi,0,0,,,,,,run out,L Bull
+ball,2,10.3,Sierra Leone,AM Kamara,Z Kamara,I Nakisuuyi,2,0,,,,,,"",""
+ball,2,10.4,Sierra Leone,AM Kamara,Z Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,10.5,Sierra Leone,AM Kamara,Z Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,10.6,Sierra Leone,AM Kamara,Z Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,11.1,Sierra Leone,Z Kamara,AM Kamara,F Najjumba,0,0,,,,,,"",""
+ball,2,11.2,Sierra Leone,Z Kamara,AM Kamara,F Najjumba,0,0,,,,,,"",""
+ball,2,11.3,Sierra Leone,Z Kamara,AM Kamara,F Najjumba,1,0,,,,,,"",""
+ball,2,11.4,Sierra Leone,AM Kamara,Z Kamara,F Najjumba,0,0,,,,,,"",""
+ball,2,11.5,Sierra Leone,AM Kamara,Z Kamara,F Najjumba,0,0,,,,,,"",""
+ball,2,11.6,Sierra Leone,AM Kamara,Z Kamara,F Najjumba,0,0,,,,,,"",""
+ball,2,12.1,Sierra Leone,Z Kamara,AM Kamara,I Nakisuuyi,0,0,,,,,,caught,Z Kamara
+ball,2,12.2,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,4,0,,,,,,"",""
+ball,2,12.3,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,12.4,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,4,0,,,,,,"",""
+ball,2,12.5,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,12.6,Sierra Leone,AM Kamara,I Koroma,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,13.1,Sierra Leone,I Koroma,AM Kamara,F Najjumba,1,0,,,,,,"",""
+ball,2,13.2,Sierra Leone,AM Kamara,I Koroma,F Najjumba,1,0,,,,,,"",""
+ball,2,13.3,Sierra Leone,I Koroma,AM Kamara,F Najjumba,0,0,,,,,,"",""
+ball,2,13.4,Sierra Leone,I Koroma,AM Kamara,F Najjumba,1,0,,,,,,"",""
+ball,2,13.5,Sierra Leone,AM Kamara,I Koroma,F Najjumba,1,0,,,,,,"",""
+ball,2,13.6,Sierra Leone,I Koroma,AM Kamara,F Najjumba,1,0,,,,,,"",""
+ball,2,14.1,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,14.2,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,14.3,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,14.4,Sierra Leone,I Koroma,AM Kamara,I Nakisuuyi,0,0,,,,,,caught and bowled,I Koroma
+ball,2,14.5,Sierra Leone,J Kowa,AM Kamara,I Nakisuuyi,0,0,,,,,,caught,J Kowa
+ball,2,14.6,Sierra Leone,M Sheriff,AM Kamara,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,15.1,Sierra Leone,AM Kamara,M Sheriff,F Najjumba,0,0,,,,,,"",""
+ball,2,15.2,Sierra Leone,AM Kamara,M Sheriff,F Najjumba,4,0,,,,,,"",""
+ball,2,15.3,Sierra Leone,AM Kamara,M Sheriff,F Najjumba,0,0,,,,,,"",""
+ball,2,15.4,Sierra Leone,AM Kamara,M Sheriff,F Najjumba,1,0,,,,,,"",""
+ball,2,15.5,Sierra Leone,M Sheriff,AM Kamara,F Najjumba,0,0,,,,,,"",""
+ball,2,15.6,Sierra Leone,M Sheriff,AM Kamara,F Najjumba,2,0,,,,,,"",""
+ball,2,16.1,Sierra Leone,AM Kamara,M Sheriff,C Aweko,0,0,,,,,,"",""
+ball,2,16.2,Sierra Leone,AM Kamara,M Sheriff,C Aweko,0,0,,,,,,"",""
+ball,2,16.3,Sierra Leone,AM Kamara,M Sheriff,C Aweko,0,0,,,,,,lbw,AM Kamara
+ball,2,16.4,Sierra Leone,F Bangur,M Sheriff,C Aweko,0,1,,,,1,,"",""
+ball,2,16.5,Sierra Leone,M Sheriff,F Bangur,C Aweko,0,0,,,,,,caught,M Sheriff

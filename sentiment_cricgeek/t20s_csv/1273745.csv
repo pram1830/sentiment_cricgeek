@@ -1,0 +1,205 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Australia
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,ICC Men's T20 World Cup
+info,match_number,34
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,A Zampa
+info,umpire,HDPK Dharmasena
+info,umpire,Nitin Menon
+info,reserve_umpire,CM Brown
+info,tv_umpire,JS Wilson
+info,match_referee,JJ Crowe
+info,winner,Australia
+info,winner_wickets,8
+info,player,Bangladesh,Mohammad Naim
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Shoriful Islam
+info,player,Australia,DA Warner
+info,player,Australia,AJ Finch
+info,player,Australia,MR Marsh
+info,player,Australia,GJ Maxwell
+info,player,Australia,SPD Smith
+info,player,Australia,MP Stoinis
+info,player,Australia,MS Wade
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Zampa,14f96089
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,Afif Hossain,37138918
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taskin Ahmed,ef18b66e
+ball,1,0.1,Bangladesh,Mohammad Naim,Liton Das,MA Starc,0,0,,,,,,"",""
+ball,1,0.2,Bangladesh,Mohammad Naim,Liton Das,MA Starc,1,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Liton Das,Mohammad Naim,MA Starc,0,0,,,,,,bowled,Liton Das
+ball,1,0.4,Bangladesh,Soumya Sarkar,Mohammad Naim,MA Starc,0,0,,,,,,"",""
+ball,1,0.5,Bangladesh,Soumya Sarkar,Mohammad Naim,MA Starc,1,0,,,,,,"",""
+ball,1,0.6,Bangladesh,Mohammad Naim,Soumya Sarkar,MA Starc,0,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.2,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.3,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,4,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.5,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.6,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,bowled,Soumya Sarkar
+ball,1,2.1,Bangladesh,Mohammad Naim,Mushfiqur Rahim,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.2,Bangladesh,Mushfiqur Rahim,Mohammad Naim,GJ Maxwell,0,1,1,,,,,"",""
+ball,1,2.3,Bangladesh,Mushfiqur Rahim,Mohammad Naim,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.4,Bangladesh,Mohammad Naim,Mushfiqur Rahim,GJ Maxwell,0,0,,,,,,"",""
+ball,1,2.5,Bangladesh,Mohammad Naim,Mushfiqur Rahim,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.6,Bangladesh,Mushfiqur Rahim,Mohammad Naim,GJ Maxwell,0,0,,,,,,lbw,Mushfiqur Rahim
+ball,1,2.7,Bangladesh,Mahmudullah,Mohammad Naim,GJ Maxwell,0,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Mohammad Naim,Mahmudullah,PJ Cummins,4,0,,,,,,"",""
+ball,1,3.2,Bangladesh,Mohammad Naim,Mahmudullah,PJ Cummins,0,0,,,,,,"",""
+ball,1,3.3,Bangladesh,Mohammad Naim,Mahmudullah,PJ Cummins,0,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Mohammad Naim,Mahmudullah,PJ Cummins,4,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Mohammad Naim,Mahmudullah,PJ Cummins,0,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Mohammad Naim,Mahmudullah,PJ Cummins,1,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Mohammad Naim,Mahmudullah,MA Starc,1,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Mahmudullah,Mohammad Naim,MA Starc,0,0,,,,,,"",""
+ball,1,4.3,Bangladesh,Mahmudullah,Mohammad Naim,MA Starc,0,0,,,,,,"",""
+ball,1,4.4,Bangladesh,Mahmudullah,Mohammad Naim,MA Starc,0,0,,,,,,"",""
+ball,1,4.5,Bangladesh,Mahmudullah,Mohammad Naim,MA Starc,4,0,,,,,,"",""
+ball,1,4.6,Bangladesh,Mahmudullah,Mohammad Naim,MA Starc,4,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Mohammad Naim,Mahmudullah,JR Hazlewood,4,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Mohammad Naim,Mahmudullah,JR Hazlewood,0,0,,,,,,"",""
+ball,1,5.3,Bangladesh,Mohammad Naim,Mahmudullah,JR Hazlewood,0,0,,,,,,caught,Mohammad Naim
+ball,1,5.4,Bangladesh,Afif Hossain,Mahmudullah,JR Hazlewood,0,0,,,,,,"",""
+ball,1,5.5,Bangladesh,Afif Hossain,Mahmudullah,JR Hazlewood,0,0,,,,,,"",""
+ball,1,5.6,Bangladesh,Afif Hossain,Mahmudullah,JR Hazlewood,0,1,,,,1,,"",""
+ball,1,6.1,Bangladesh,Afif Hossain,Mahmudullah,A Zampa,0,0,,,,,,caught,Afif Hossain
+ball,1,6.2,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,2,0,,,,,,"",""
+ball,1,6.4,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,6.5,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,1,0,,,,,,"",""
+ball,1,6.6,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,7.1,Bangladesh,Shamim Hossain,Mahmudullah,MA Starc,0,1,1,,,,,"",""
+ball,1,7.2,Bangladesh,Shamim Hossain,Mahmudullah,MA Starc,0,1,1,,,,,"",""
+ball,1,7.3,Bangladesh,Shamim Hossain,Mahmudullah,MA Starc,0,0,,,,,,"",""
+ball,1,7.4,Bangladesh,Shamim Hossain,Mahmudullah,MA Starc,4,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Shamim Hossain,Mahmudullah,MA Starc,0,0,,,,,,"",""
+ball,1,7.6,Bangladesh,Shamim Hossain,Mahmudullah,MA Starc,1,0,,,,,,"",""
+ball,1,7.7,Bangladesh,Mahmudullah,Shamim Hossain,MA Starc,0,0,,,,,,"",""
+ball,1,7.8,Bangladesh,Mahmudullah,Shamim Hossain,MA Starc,2,0,,,,,,"",""
+ball,1,8.1,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,8.2,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,6,0,,,,,,"",""
+ball,1,8.3,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,0,0,,,,,,"",""
+ball,1,8.6,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,0,0,,,,,,"",""
+ball,1,9.1,Bangladesh,Shamim Hossain,Mahmudullah,PJ Cummins,0,0,,,,,,"",""
+ball,1,9.2,Bangladesh,Shamim Hossain,Mahmudullah,PJ Cummins,0,0,,,,,,"",""
+ball,1,9.3,Bangladesh,Shamim Hossain,Mahmudullah,PJ Cummins,0,0,,,,,,"",""
+ball,1,9.4,Bangladesh,Shamim Hossain,Mahmudullah,PJ Cummins,2,0,,,,,,"",""
+ball,1,9.5,Bangladesh,Shamim Hossain,Mahmudullah,PJ Cummins,1,0,,,,,,"",""
+ball,1,9.6,Bangladesh,Mahmudullah,Shamim Hossain,PJ Cummins,1,0,,,,,,"",""
+ball,1,10.1,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,0,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,0,1,1,,,,,"",""
+ball,1,10.3,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,2,0,,,,,,"",""
+ball,1,10.4,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,0,0,,,,,,"",""
+ball,1,10.5,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,1,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,0,0,,,,,,caught,Shamim Hossain
+ball,1,10.7,Bangladesh,Mahedi Hasan,Mahmudullah,A Zampa,0,0,,,,,,lbw,Mahedi Hasan
+ball,1,11.1,Bangladesh,Mahmudullah,Taskin Ahmed,GJ Maxwell,1,0,,,,,,"",""
+ball,1,11.2,Bangladesh,Taskin Ahmed,Mahmudullah,GJ Maxwell,0,0,,,,,,"",""
+ball,1,11.3,Bangladesh,Taskin Ahmed,Mahmudullah,GJ Maxwell,0,0,,,,,,"",""
+ball,1,11.4,Bangladesh,Taskin Ahmed,Mahmudullah,GJ Maxwell,0,0,,,,,,"",""
+ball,1,11.5,Bangladesh,Taskin Ahmed,Mahmudullah,GJ Maxwell,0,0,,,,,,"",""
+ball,1,11.6,Bangladesh,Taskin Ahmed,Mahmudullah,GJ Maxwell,1,0,,,,,,"",""
+ball,1,12.1,Bangladesh,Taskin Ahmed,Mahmudullah,MA Starc,1,0,,,,,,"",""
+ball,1,12.2,Bangladesh,Mahmudullah,Taskin Ahmed,MA Starc,0,0,,,,,,caught,Mahmudullah
+ball,1,12.3,Bangladesh,Mustafizur Rahman,Taskin Ahmed,MA Starc,0,0,,,,,,"",""
+ball,1,12.4,Bangladesh,Mustafizur Rahman,Taskin Ahmed,MA Starc,0,0,,,,,,"",""
+ball,1,12.5,Bangladesh,Mustafizur Rahman,Taskin Ahmed,MA Starc,0,0,,,,,,"",""
+ball,1,12.6,Bangladesh,Mustafizur Rahman,Taskin Ahmed,MA Starc,0,0,,,,,,"",""
+ball,1,13.1,Bangladesh,Taskin Ahmed,Mustafizur Rahman,PJ Cummins,0,0,,,,,,"",""
+ball,1,13.2,Bangladesh,Taskin Ahmed,Mustafizur Rahman,PJ Cummins,1,0,,,,,,"",""
+ball,1,13.3,Bangladesh,Mustafizur Rahman,Taskin Ahmed,PJ Cummins,0,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Mustafizur Rahman,Taskin Ahmed,PJ Cummins,2,0,,,,,,"",""
+ball,1,13.5,Bangladesh,Mustafizur Rahman,Taskin Ahmed,PJ Cummins,0,0,,,,,,"",""
+ball,1,13.6,Bangladesh,Mustafizur Rahman,Taskin Ahmed,PJ Cummins,2,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Taskin Ahmed,Mustafizur Rahman,A Zampa,0,0,,,,,,"",""
+ball,1,14.2,Bangladesh,Taskin Ahmed,Mustafizur Rahman,A Zampa,2,0,,,,,,"",""
+ball,1,14.3,Bangladesh,Taskin Ahmed,Mustafizur Rahman,A Zampa,1,0,,,,,,"",""
+ball,1,14.4,Bangladesh,Mustafizur Rahman,Taskin Ahmed,A Zampa,0,0,,,,,,caught,Mustafizur Rahman
+ball,1,14.5,Bangladesh,Shoriful Islam,Taskin Ahmed,A Zampa,0,0,,,,,,"",""
+ball,1,14.6,Bangladesh,Shoriful Islam,Taskin Ahmed,A Zampa,0,0,,,,,,caught,Shoriful Islam
+ball,2,0.1,Australia,DA Warner,AJ Finch,Taskin Ahmed,0,0,,,,,,"",""
+ball,2,0.2,Australia,DA Warner,AJ Finch,Taskin Ahmed,1,0,,,,,,"",""
+ball,2,0.3,Australia,AJ Finch,DA Warner,Taskin Ahmed,0,0,,,,,,"",""
+ball,2,0.4,Australia,AJ Finch,DA Warner,Taskin Ahmed,0,0,,,,,,"",""
+ball,2,0.5,Australia,AJ Finch,DA Warner,Taskin Ahmed,2,0,,,,,,"",""
+ball,2,0.6,Australia,AJ Finch,DA Warner,Taskin Ahmed,1,0,,,,,,"",""
+ball,2,1.1,Australia,AJ Finch,DA Warner,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,1.2,Australia,AJ Finch,DA Warner,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,1.3,Australia,AJ Finch,DA Warner,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,1.4,Australia,DA Warner,AJ Finch,Mustafizur Rahman,0,1,,,,1,,"",""
+ball,2,1.5,Australia,AJ Finch,DA Warner,Mustafizur Rahman,6,0,,,,,,"",""
+ball,2,1.6,Australia,AJ Finch,DA Warner,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,2.1,Australia,DA Warner,AJ Finch,Taskin Ahmed,1,0,,,,,,"",""
+ball,2,2.2,Australia,AJ Finch,DA Warner,Taskin Ahmed,0,0,,,,,,"",""
+ball,2,2.3,Australia,AJ Finch,DA Warner,Taskin Ahmed,1,0,,,,,,"",""
+ball,2,2.4,Australia,DA Warner,AJ Finch,Taskin Ahmed,0,0,,,,,,"",""
+ball,2,2.5,Australia,DA Warner,AJ Finch,Taskin Ahmed,1,0,,,,,,"",""
+ball,2,2.6,Australia,AJ Finch,DA Warner,Taskin Ahmed,4,0,,,,,,"",""
+ball,2,3.1,Australia,DA Warner,AJ Finch,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,3.2,Australia,DA Warner,AJ Finch,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,3.3,Australia,AJ Finch,DA Warner,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,2,3.4,Australia,AJ Finch,DA Warner,Mustafizur Rahman,6,0,,,,,,"",""
+ball,2,3.5,Australia,AJ Finch,DA Warner,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,3.6,Australia,DA Warner,AJ Finch,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,3.7,Australia,DA Warner,AJ Finch,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,4.1,Australia,AJ Finch,DA Warner,Taskin Ahmed,2,0,,,,,,"",""
+ball,2,4.2,Australia,AJ Finch,DA Warner,Taskin Ahmed,0,0,,,,,,"",""
+ball,2,4.3,Australia,AJ Finch,DA Warner,Taskin Ahmed,6,0,,,,,,"",""
+ball,2,4.4,Australia,AJ Finch,DA Warner,Taskin Ahmed,6,0,,,,,,"",""
+ball,2,4.5,Australia,AJ Finch,DA Warner,Taskin Ahmed,0,0,,,,,,"",""
+ball,2,4.6,Australia,AJ Finch,DA Warner,Taskin Ahmed,0,0,,,,,,bowled,AJ Finch
+ball,2,5.1,Australia,DA Warner,MR Marsh,Shoriful Islam,1,0,,,,,,"",""
+ball,2,5.2,Australia,MR Marsh,DA Warner,Shoriful Islam,4,0,,,,,,"",""
+ball,2,5.3,Australia,MR Marsh,DA Warner,Shoriful Islam,1,0,,,,,,"",""
+ball,2,5.4,Australia,DA Warner,MR Marsh,Shoriful Islam,0,1,,1,,,,"",""
+ball,2,5.5,Australia,DA Warner,MR Marsh,Shoriful Islam,1,0,,,,,,"",""
+ball,2,5.6,Australia,MR Marsh,DA Warner,Shoriful Islam,1,0,,,,,,"",""
+ball,2,5.7,Australia,DA Warner,MR Marsh,Shoriful Islam,0,0,,,,,,bowled,DA Warner
+ball,2,6.1,Australia,MR Marsh,GJ Maxwell,Taskin Ahmed,4,0,,,,,,"",""
+ball,2,6.2,Australia,MR Marsh,GJ Maxwell,Taskin Ahmed,0,1,1,,,,,"",""
+ball,2,6.3,Australia,MR Marsh,GJ Maxwell,Taskin Ahmed,6,0,,,,,,"",""

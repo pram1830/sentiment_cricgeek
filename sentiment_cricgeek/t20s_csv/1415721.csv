@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Bangladesh
+info,gender,male
+info,season,2024
+info,date,2024/06/10
+info,event,ICC Men's T20 World Cup
+info,match_number,21
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,H Klaasen
+info,umpire,RK Illingworth
+info,umpire,SJ Nogajski
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,MA Gough
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_runs,4
+info,player,South Africa,RR Hendricks
+info,player,South Africa,Q de Kock
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,OEG Baartman
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+ball,1,0.1,South Africa,Q de Kock,RR Hendricks,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,0.2,South Africa,Q de Kock,RR Hendricks,Tanzim Hasan Sakib,6,0,,,,,,"",""
+ball,1,0.3,South Africa,Q de Kock,RR Hendricks,Tanzim Hasan Sakib,4,0,,,,,,"",""
+ball,1,0.4,South Africa,Q de Kock,RR Hendricks,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,0.5,South Africa,Q de Kock,RR Hendricks,Tanzim Hasan Sakib,1,0,,,,,,"",""
+ball,1,0.6,South Africa,RR Hendricks,Q de Kock,Tanzim Hasan Sakib,0,0,,,,,,lbw,RR Hendricks
+ball,1,1.1,South Africa,Q de Kock,AK Markram,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.2,South Africa,Q de Kock,AK Markram,Taskin Ahmed,6,0,,,,,,"",""
+ball,1,1.3,South Africa,Q de Kock,AK Markram,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,1.4,South Africa,AK Markram,Q de Kock,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.5,South Africa,AK Markram,Q de Kock,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.6,South Africa,AK Markram,Q de Kock,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,2.1,South Africa,Q de Kock,AK Markram,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,2.2,South Africa,Q de Kock,AK Markram,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,2.3,South Africa,Q de Kock,AK Markram,Tanzim Hasan Sakib,0,1,1,,,,,"",""
+ball,1,2.4,South Africa,Q de Kock,AK Markram,Tanzim Hasan Sakib,0,0,,,,,,bowled,Q de Kock
+ball,1,2.5,South Africa,T Stubbs,AK Markram,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,2.6,South Africa,T Stubbs,AK Markram,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,2.7,South Africa,T Stubbs,AK Markram,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,3.1,South Africa,AK Markram,T Stubbs,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.2,South Africa,AK Markram,T Stubbs,Taskin Ahmed,4,0,,,,,,"",""
+ball,1,3.3,South Africa,AK Markram,T Stubbs,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.4,South Africa,AK Markram,T Stubbs,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.5,South Africa,AK Markram,T Stubbs,Taskin Ahmed,0,0,,,,,,bowled,AK Markram
+ball,1,3.6,South Africa,H Klaasen,T Stubbs,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,4.1,South Africa,T Stubbs,H Klaasen,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,4.2,South Africa,T Stubbs,H Klaasen,Tanzim Hasan Sakib,0,0,,,,,,caught,T Stubbs
+ball,1,4.3,South Africa,DA Miller,H Klaasen,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,4.4,South Africa,DA Miller,H Klaasen,Tanzim Hasan Sakib,1,0,,,,,,"",""
+ball,1,4.5,South Africa,H Klaasen,DA Miller,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,4.6,South Africa,H Klaasen,DA Miller,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,5.1,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,5.2,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,5.3,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,5.4,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,5.5,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,5.6,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,6.1,South Africa,DA Miller,H Klaasen,Rishad Hossain,0,0,,,,,,"",""
+ball,1,6.2,South Africa,DA Miller,H Klaasen,Rishad Hossain,4,0,,,,,,"",""
+ball,1,6.3,South Africa,DA Miller,H Klaasen,Rishad Hossain,0,0,,,,,,"",""
+ball,1,6.4,South Africa,DA Miller,H Klaasen,Rishad Hossain,1,0,,,,,,"",""
+ball,1,6.5,South Africa,H Klaasen,DA Miller,Rishad Hossain,0,0,,,,,,"",""
+ball,1,6.6,South Africa,H Klaasen,DA Miller,Rishad Hossain,1,0,,,,,,"",""
+ball,1,7.1,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,7.2,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,7.3,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,7.4,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,7.5,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,7.6,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,8.1,South Africa,DA Miller,H Klaasen,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.2,South Africa,H Klaasen,DA Miller,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.3,South Africa,DA Miller,H Klaasen,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,8.4,South Africa,DA Miller,H Klaasen,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.5,South Africa,H Klaasen,DA Miller,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.6,South Africa,DA Miller,H Klaasen,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,9.1,South Africa,H Klaasen,DA Miller,Rishad Hossain,0,0,,,,,,"",""
+ball,1,9.2,South Africa,H Klaasen,DA Miller,Rishad Hossain,0,0,,,,,,"",""
+ball,1,9.3,South Africa,H Klaasen,DA Miller,Rishad Hossain,6,0,,,,,,"",""
+ball,1,9.4,South Africa,H Klaasen,DA Miller,Rishad Hossain,6,0,,,,,,"",""
+ball,1,9.5,South Africa,H Klaasen,DA Miller,Rishad Hossain,1,0,,,,,,"",""
+ball,1,9.6,South Africa,DA Miller,H Klaasen,Rishad Hossain,1,0,,,,,,"",""
+ball,1,10.1,South Africa,DA Miller,H Klaasen,Mahmudullah,0,0,,,,,,"",""
+ball,1,10.2,South Africa,DA Miller,H Klaasen,Mahmudullah,1,0,,,,,,"",""
+ball,1,10.3,South Africa,H Klaasen,DA Miller,Mahmudullah,2,0,,,,,,"",""
+ball,1,10.4,South Africa,H Klaasen,DA Miller,Mahmudullah,0,0,,,,,,"",""
+ball,1,10.5,South Africa,H Klaasen,DA Miller,Mahmudullah,1,0,,,,,,"",""
+ball,1,10.6,South Africa,DA Miller,H Klaasen,Mahmudullah,0,0,,,,,,"",""
+ball,1,11.1,South Africa,H Klaasen,DA Miller,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,11.2,South Africa,H Klaasen,DA Miller,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,11.3,South Africa,DA Miller,H Klaasen,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,11.4,South Africa,DA Miller,H Klaasen,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,11.5,South Africa,H Klaasen,DA Miller,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,11.6,South Africa,H Klaasen,DA Miller,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,12.1,South Africa,H Klaasen,DA Miller,Rishad Hossain,4,0,,,,,,"",""
+ball,1,12.2,South Africa,H Klaasen,DA Miller,Rishad Hossain,1,0,,,,,,"",""
+ball,1,12.3,South Africa,DA Miller,H Klaasen,Rishad Hossain,2,0,,,,,,"",""
+ball,1,12.4,South Africa,DA Miller,H Klaasen,Rishad Hossain,1,0,,,,,,"",""
+ball,1,12.5,South Africa,H Klaasen,DA Miller,Rishad Hossain,0,0,,,,,,"",""
+ball,1,12.6,South Africa,H Klaasen,DA Miller,Rishad Hossain,0,0,,,,,,"",""
+ball,1,13.1,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,13.2,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,13.3,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,13.4,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,0,1,,,,1,,"",""
+ball,1,13.5,South Africa,H Klaasen,DA Miller,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,13.6,South Africa,DA Miller,H Klaasen,Mustafizur Rahman,6,0,,,,,,"",""
+ball,1,14.1,South Africa,H Klaasen,DA Miller,Mahmudullah,0,1,,,,1,,"",""
+ball,1,14.2,South Africa,DA Miller,H Klaasen,Mahmudullah,0,0,,,,,,"",""
+ball,1,14.3,South Africa,DA Miller,H Klaasen,Mahmudullah,1,0,,,,,,"",""
+ball,1,14.4,South Africa,H Klaasen,DA Miller,Mahmudullah,1,0,,,,,,"",""
+ball,1,14.5,South Africa,DA Miller,H Klaasen,Mahmudullah,1,0,,,,,,"",""
+ball,1,14.6,South Africa,H Klaasen,DA Miller,Mahmudullah,0,0,,,,,,"",""
+ball,1,15.1,South Africa,DA Miller,H Klaasen,Tanzim Hasan Sakib,0,2,2,,,,,"",""
+ball,1,15.2,South Africa,H Klaasen,DA Miller,Tanzim Hasan Sakib,1,0,,,,,,"",""
+ball,1,15.3,South Africa,DA Miller,H Klaasen,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,15.4,South Africa,DA Miller,H Klaasen,Tanzim Hasan Sakib,0,1,,,,1,,"",""
+ball,1,15.5,South Africa,H Klaasen,DA Miller,Tanzim Hasan Sakib,1,0,,,,,,"",""
+ball,1,15.6,South Africa,DA Miller,H Klaasen,Tanzim Hasan Sakib,1,0,,,,,,"",""
+ball,1,15.7,South Africa,H Klaasen,DA Miller,Tanzim Hasan Sakib,0,0,,,,,,"",""
+ball,1,16.1,South Africa,DA Miller,H Klaasen,Mahmudullah,0,0,,,,,,"",""
+ball,1,16.2,South Africa,DA Miller,H Klaasen,Mahmudullah,0,0,,,,,,"",""
+ball,1,16.3,South Africa,DA Miller,H Klaasen,Mahmudullah,1,0,,,,,,"",""
+ball,1,16.4,South Africa,H Klaasen,DA Miller,Mahmudullah,6,0,,,,,,"",""
+ball,1,16.5,South Africa,H Klaasen,DA Miller,Mahmudullah,2,0,,,,,,"",""
+ball,1,16.6,South Africa,H Klaasen,DA Miller,Mahmudullah,1,0,,,,,,"",""
+ball,1,17.1,South Africa,H Klaasen,DA Miller,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,17.2,South Africa,H Klaasen,DA Miller,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,17.3,South Africa,H Klaasen,DA Miller,Taskin Ahmed,0,0,,,,,,bowled,H Klaasen
+ball,1,17.4,South Africa,M Jansen,DA Miller,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,17.5,South Africa,DA Miller,M Jansen,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,17.6,South Africa,M Jansen,DA Miller,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,18.1,South Africa,M Jansen,DA Miller,Rishad Hossain,1,0,,,,,,"",""
+ball,1,18.2,South Africa,DA Miller,M Jansen,Rishad Hossain,0,0,,,,,,bowled,DA Miller
+ball,1,18.3,South Africa,KA Maharaj,M Jansen,Rishad Hossain,2,0,,,,,,"",""
+ball,1,18.4,South Africa,KA Maharaj,M Jansen,Rishad Hossain,0,0,,,,,,"",""
+ball,1,18.5,South Africa,KA Maharaj,M Jansen,Rishad Hossain,1,0,,,,,,"",""
+ball,1,18.6,South Africa,M Jansen,KA Maharaj,Rishad Hossain,0,0,,,,,,"",""
+ball,1,19.1,South Africa,KA Maharaj,M Jansen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,19.2,South Africa,KA Maharaj,M Jansen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,19.3,South Africa,KA Maharaj,M Jansen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,19.4,South Africa,KA Maharaj,M Jansen,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,19.5,South Africa,KA Maharaj,M Jansen,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,19.6,South Africa,KA Maharaj,M Jansen,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,19.7,South Africa,M Jansen,KA Maharaj,Mustafizur Rahman,2,0,,,,,,"",""
+ball,2,0.1,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,M Jansen,1,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Nazmul Hossain Shanto,Tanzid Hasan,M Jansen,0,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Nazmul Hossain Shanto,Tanzid Hasan,M Jansen,0,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Nazmul Hossain Shanto,Tanzid Hasan,M Jansen,0,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,K Rabada,4,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,K Rabada,4,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,K Rabada,0,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,K Rabada,0,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,K Rabada,0,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Tanzid Hasan,Nazmul Hossain Shanto,K Rabada,0,0,,,,,,caught,Tanzid Hasan
+ball,2,2.1,Bangladesh,Nazmul Hossain Shanto,Liton Das,M Jansen,0,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Nazmul Hossain Shanto,Liton Das,M Jansen,3,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,2.5,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,0,1,1,,,,,"",""
+ball,2,2.6,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,2.7,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Nazmul Hossain Shanto,Liton Das,OEG Baartman,6,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Nazmul Hossain Shanto,Liton Das,OEG Baartman,0,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Nazmul Hossain Shanto,Liton Das,OEG Baartman,0,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Nazmul Hossain Shanto,Liton Das,OEG Baartman,0,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Nazmul Hossain Shanto,Liton Das,OEG Baartman,0,0,,,,,,"",""
+ball,2,3.6,Bangladesh,Nazmul Hossain Shanto,Liton Das,OEG Baartman,0,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,0,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,4,0,,,,,,"",""
+ball,2,4.4,Bangladesh,Liton Das,Nazmul Hossain Shanto,M Jansen,1,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Nazmul Hossain Shanto,Liton Das,M Jansen,0,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Nazmul Hossain Shanto,Liton Das,M Jansen,0,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,K Rabada,2,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,K Rabada,0,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,K Rabada,1,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Nazmul Hossain Shanto,Liton Das,K Rabada,0,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Nazmul Hossain Shanto,Liton Das,K Rabada,1,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Liton Das,Nazmul Hossain Shanto,K Rabada,1,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,KA Maharaj,0,0,,,,,,caught,Liton Das
+ball,2,6.2,Bangladesh,Shakib Al Hasan,Nazmul Hossain Shanto,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,KA Maharaj,0,1,1,,,,,"",""
+ball,2,6.5,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Shakib Al Hasan,Nazmul Hossain Shanto,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.7,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,KA Maharaj,2,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Shakib Al Hasan,Nazmul Hossain Shanto,A Nortje,1,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,A Nortje,0,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,A Nortje,1,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Shakib Al Hasan,Nazmul Hossain Shanto,A Nortje,0,0,,,,,,caught,Shakib Al Hasan
+ball,2,7.5,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,A Nortje,3,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Nazmul Hossain Shanto,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,KA Maharaj,0,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,KA Maharaj,6,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,KA Maharaj,2,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,KA Maharaj,0,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Nazmul Hossain Shanto,Towhid Hridoy,KA Maharaj,0,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,A Nortje,0,0,,,,,,"",""
+ball,2,9.2,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,A Nortje,0,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,A Nortje,0,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Towhid Hridoy,Nazmul Hossain Shanto,A Nortje,1,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Nazmul Hossain Shanto,Towhid Hridoy,A Nortje,0,0,,,,,,caught,Nazmul Hossain Shanto
+ball,2,9.6,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Towhid Hridoy,Mahmudullah,OEG Baartman,0,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Towhid Hridoy,Mahmudullah,OEG Baartman,1,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Mahmudullah,Towhid Hridoy,OEG Baartman,0,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Mahmudullah,Towhid Hridoy,OEG Baartman,4,0,,,,,,"",""
+ball,2,10.5,Bangladesh,Mahmudullah,Towhid Hridoy,OEG Baartman,2,0,,,,,,"",""
+ball,2,10.6,Bangladesh,Mahmudullah,Towhid Hridoy,OEG Baartman,0,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Towhid Hridoy,Mahmudullah,A Nortje,0,1,,1,,,,"",""
+ball,2,11.2,Bangladesh,Towhid Hridoy,Mahmudullah,A Nortje,1,0,,,,,,"",""
+ball,2,11.3,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,11.4,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,4,0,,,,,,"",""
+ball,2,11.7,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,1,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Mahmudullah,Towhid Hridoy,K Rabada,0,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Mahmudullah,Towhid Hridoy,K Rabada,1,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Towhid Hridoy,Mahmudullah,K Rabada,1,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Mahmudullah,Towhid Hridoy,K Rabada,1,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Towhid Hridoy,Mahmudullah,K Rabada,0,0,,,,,,"",""
+ball,2,12.6,Bangladesh,Towhid Hridoy,Mahmudullah,K Rabada,1,0,,,,,,"",""
+ball,2,13.1,Bangladesh,Towhid Hridoy,Mahmudullah,KA Maharaj,0,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Towhid Hridoy,Mahmudullah,KA Maharaj,0,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Towhid Hridoy,Mahmudullah,KA Maharaj,0,0,,,,,,"",""
+ball,2,13.4,Bangladesh,Towhid Hridoy,Mahmudullah,KA Maharaj,6,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Towhid Hridoy,Mahmudullah,KA Maharaj,0,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Towhid Hridoy,Mahmudullah,KA Maharaj,1,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Towhid Hridoy,Mahmudullah,M Jansen,0,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Towhid Hridoy,Mahmudullah,M Jansen,0,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Towhid Hridoy,Mahmudullah,M Jansen,0,1,1,,,,,"",""
+ball,2,14.4,Bangladesh,Towhid Hridoy,Mahmudullah,M Jansen,4,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Towhid Hridoy,Mahmudullah,M Jansen,0,1,,,,1,,"",""
+ball,2,14.6,Bangladesh,Mahmudullah,Towhid Hridoy,M Jansen,1,0,,,,,,"",""
+ball,2,14.7,Bangladesh,Towhid Hridoy,Mahmudullah,M Jansen,1,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Towhid Hridoy,Mahmudullah,A Nortje,1,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,1,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Towhid Hridoy,Mahmudullah,A Nortje,1,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,15.5,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,1,1,,,,,"",""
+ball,2,15.7,Bangladesh,Mahmudullah,Towhid Hridoy,A Nortje,0,0,,,,,,"",""
+ball,2,16.1,Bangladesh,Towhid Hridoy,Mahmudullah,OEG Baartman,1,0,,,,,,"",""
+ball,2,16.2,Bangladesh,Mahmudullah,Towhid Hridoy,OEG Baartman,0,0,,,,,,"",""
+ball,2,16.3,Bangladesh,Mahmudullah,Towhid Hridoy,OEG Baartman,1,0,,,,,,"",""
+ball,2,16.4,Bangladesh,Towhid Hridoy,Mahmudullah,OEG Baartman,4,0,,,,,,"",""
+ball,2,16.5,Bangladesh,Towhid Hridoy,Mahmudullah,OEG Baartman,1,0,,,,,,"",""
+ball,2,16.6,Bangladesh,Mahmudullah,Towhid Hridoy,OEG Baartman,0,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Towhid Hridoy,Mahmudullah,K Rabada,0,0,,,,,,lbw,Towhid Hridoy
+ball,2,17.2,Bangladesh,Jaker Ali,Mahmudullah,K Rabada,0,0,,,,,,"",""
+ball,2,17.3,Bangladesh,Jaker Ali,Mahmudullah,K Rabada,0,0,,,,,,"",""
+ball,2,17.4,Bangladesh,Jaker Ali,Mahmudullah,K Rabada,0,0,,,,,,"",""
+ball,2,17.5,Bangladesh,Jaker Ali,Mahmudullah,K Rabada,1,0,,,,,,"",""
+ball,2,17.6,Bangladesh,Mahmudullah,Jaker Ali,K Rabada,1,0,,,,,,"",""
+ball,2,18.1,Bangladesh,Mahmudullah,Jaker Ali,OEG Baartman,0,0,,,,,,"",""
+ball,2,18.2,Bangladesh,Mahmudullah,Jaker Ali,OEG Baartman,1,0,,,,,,"",""
+ball,2,18.3,Bangladesh,Jaker Ali,Mahmudullah,OEG Baartman,2,0,,,,,,"",""
+ball,2,18.4,Bangladesh,Jaker Ali,Mahmudullah,OEG Baartman,1,0,,,,,,"",""
+ball,2,18.5,Bangladesh,Mahmudullah,Jaker Ali,OEG Baartman,1,0,,,,,,"",""
+ball,2,18.6,Bangladesh,Jaker Ali,Mahmudullah,OEG Baartman,2,0,,,,,,"",""
+ball,2,19.1,Bangladesh,Mahmudullah,Jaker Ali,KA Maharaj,0,1,1,,,,,"",""
+ball,2,19.2,Bangladesh,Mahmudullah,Jaker Ali,KA Maharaj,1,0,,,,,,"",""
+ball,2,19.3,Bangladesh,Jaker Ali,Mahmudullah,KA Maharaj,2,0,,,,,,"",""
+ball,2,19.4,Bangladesh,Jaker Ali,Mahmudullah,KA Maharaj,0,0,,,,,,caught,Jaker Ali
+ball,2,19.5,Bangladesh,Rishad Hossain,Mahmudullah,KA Maharaj,0,1,,,,1,,"",""
+ball,2,19.6,Bangladesh,Mahmudullah,Rishad Hossain,KA Maharaj,0,0,,,,,,caught,Mahmudullah
+ball,2,19.7,Bangladesh,Taskin Ahmed,Rishad Hossain,KA Maharaj,1,0,,,,,,"",""

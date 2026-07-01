@@ -1,0 +1,285 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Namibia
+info,gender,male
+info,season,2023/24
+info,date,2023/11/27
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,12
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,JN Frylinck
+info,umpire,L Rusere
+info,umpire,S Dambanevana
+info,reserve_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_wickets,6
+info,player,Kenya,RN Patel
+info,player,Kenya,CO Obuya
+info,player,Kenya,IA Karim
+info,player,Kenya,P Sharma
+info,player,Kenya,SR Bhudia
+info,player,Kenya,SO Ngoche
+info,player,Kenya,S Singh
+info,player,Kenya,Vraj Patel
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,LN Oluoch
+info,player,Kenya,GM Muthui
+info,player,Namibia,M van Lingen
+info,player,Namibia,N Davin
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,JJ Smit
+info,player,Namibia,HN Ya France
+info,player,Namibia,BM Scholtz
+info,player,Namibia,ZE Green
+info,player,Namibia,D Wiese
+info,player,Namibia,T Lungameni
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,HN Ya France,915264c2
+info,registry,people,IA Karim,ca92a578
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Sharma,d047f983
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,Vraj Patel,2af28253
+info,registry,people,ZE Green,8716233e
+ball,1,0.1,Kenya,RN Patel,CO Obuya,D Wiese,0,0,,,,,,"",""
+ball,1,0.2,Kenya,RN Patel,CO Obuya,D Wiese,0,0,,,,,,"",""
+ball,1,0.3,Kenya,RN Patel,CO Obuya,D Wiese,0,0,,,,,,"",""
+ball,1,0.4,Kenya,RN Patel,CO Obuya,D Wiese,1,0,,,,,,"",""
+ball,1,0.5,Kenya,CO Obuya,RN Patel,D Wiese,0,0,,,,,,"",""
+ball,1,0.6,Kenya,CO Obuya,RN Patel,D Wiese,0,1,1,,,,,"",""
+ball,1,0.7,Kenya,CO Obuya,RN Patel,D Wiese,1,0,,,,,,"",""
+ball,1,1.1,Kenya,CO Obuya,RN Patel,JJ Smit,4,0,,,,,,"",""
+ball,1,1.2,Kenya,CO Obuya,RN Patel,JJ Smit,0,0,,,,,,"",""
+ball,1,1.3,Kenya,CO Obuya,RN Patel,JJ Smit,2,0,,,,,,"",""
+ball,1,1.4,Kenya,CO Obuya,RN Patel,JJ Smit,0,0,,,,,,"",""
+ball,1,1.5,Kenya,CO Obuya,RN Patel,JJ Smit,0,0,,,,,,"",""
+ball,1,1.6,Kenya,CO Obuya,RN Patel,JJ Smit,0,0,,,,,,"",""
+ball,1,2.1,Kenya,RN Patel,CO Obuya,MG Erasmus,0,0,,,,,,"",""
+ball,1,2.2,Kenya,RN Patel,CO Obuya,MG Erasmus,0,0,,,,,,"",""
+ball,1,2.3,Kenya,RN Patel,CO Obuya,MG Erasmus,0,0,,,,,,"",""
+ball,1,2.4,Kenya,RN Patel,CO Obuya,MG Erasmus,0,0,,,,,,"",""
+ball,1,2.5,Kenya,RN Patel,CO Obuya,MG Erasmus,0,0,,,,,,"",""
+ball,1,2.6,Kenya,RN Patel,CO Obuya,MG Erasmus,0,0,,,,,,caught and bowled,RN Patel
+ball,1,3.1,Kenya,CO Obuya,IA Karim,D Wiese,1,0,,,,,,"",""
+ball,1,3.2,Kenya,IA Karim,CO Obuya,D Wiese,0,0,,,,,,"",""
+ball,1,3.3,Kenya,IA Karim,CO Obuya,D Wiese,0,0,,,,,,"",""
+ball,1,3.4,Kenya,IA Karim,CO Obuya,D Wiese,0,0,,,,,,"",""
+ball,1,3.5,Kenya,IA Karim,CO Obuya,D Wiese,0,0,,,,,,"",""
+ball,1,3.6,Kenya,IA Karim,CO Obuya,D Wiese,0,1,,,,1,,"",""
+ball,1,4.1,Kenya,IA Karim,CO Obuya,MG Erasmus,0,4,,,4,,,"",""
+ball,1,4.2,Kenya,IA Karim,CO Obuya,MG Erasmus,1,0,,,,,,"",""
+ball,1,4.3,Kenya,CO Obuya,IA Karim,MG Erasmus,2,0,,,,,,"",""
+ball,1,4.4,Kenya,CO Obuya,IA Karim,MG Erasmus,1,0,,,,,,"",""
+ball,1,4.5,Kenya,IA Karim,CO Obuya,MG Erasmus,0,0,,,,,,"",""
+ball,1,4.6,Kenya,IA Karim,CO Obuya,MG Erasmus,0,0,,,,,,"",""
+ball,1,5.1,Kenya,CO Obuya,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,5.2,Kenya,CO Obuya,IA Karim,JJ Smit,1,0,,,,,,"",""
+ball,1,5.3,Kenya,IA Karim,CO Obuya,JJ Smit,1,0,,,,,,"",""
+ball,1,5.4,Kenya,CO Obuya,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,5.5,Kenya,CO Obuya,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,5.6,Kenya,CO Obuya,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,6.1,Kenya,IA Karim,CO Obuya,HN Ya France,1,0,,,,,,"",""
+ball,1,6.2,Kenya,CO Obuya,IA Karim,HN Ya France,0,0,,,,,,"",""
+ball,1,6.3,Kenya,CO Obuya,IA Karim,HN Ya France,1,0,,,,,,"",""
+ball,1,6.4,Kenya,IA Karim,CO Obuya,HN Ya France,1,0,,,,,,"",""
+ball,1,6.5,Kenya,CO Obuya,IA Karim,HN Ya France,1,0,,,,,,"",""
+ball,1,6.6,Kenya,IA Karim,CO Obuya,HN Ya France,1,0,,,,,,"",""
+ball,1,7.1,Kenya,IA Karim,CO Obuya,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.2,Kenya,IA Karim,CO Obuya,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.3,Kenya,IA Karim,CO Obuya,BM Scholtz,1,0,,,,,,"",""
+ball,1,7.4,Kenya,CO Obuya,IA Karim,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.5,Kenya,CO Obuya,IA Karim,BM Scholtz,1,0,,,,,,"",""
+ball,1,7.6,Kenya,IA Karim,CO Obuya,BM Scholtz,1,0,,,,,,"",""
+ball,1,8.1,Kenya,IA Karim,CO Obuya,HN Ya France,1,0,,,,,,"",""
+ball,1,8.2,Kenya,CO Obuya,IA Karim,HN Ya France,0,0,,,,,,caught and bowled,CO Obuya
+ball,1,8.3,Kenya,P Sharma,IA Karim,HN Ya France,1,0,,,,,,"",""
+ball,1,8.4,Kenya,IA Karim,P Sharma,HN Ya France,0,0,,,,,,"",""
+ball,1,8.5,Kenya,IA Karim,P Sharma,HN Ya France,1,0,,,,,,"",""
+ball,1,8.6,Kenya,P Sharma,IA Karim,HN Ya France,0,0,,,,,,"",""
+ball,1,9.1,Kenya,IA Karim,P Sharma,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.2,Kenya,IA Karim,P Sharma,BM Scholtz,0,1,,,,1,,"",""
+ball,1,9.3,Kenya,P Sharma,IA Karim,BM Scholtz,1,0,,,,,,"",""
+ball,1,9.4,Kenya,IA Karim,P Sharma,BM Scholtz,1,0,,,,,,"",""
+ball,1,9.5,Kenya,P Sharma,IA Karim,BM Scholtz,2,0,,,,,,"",""
+ball,1,9.6,Kenya,P Sharma,IA Karim,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.1,Kenya,IA Karim,P Sharma,HN Ya France,1,0,,,,,,"",""
+ball,1,10.2,Kenya,P Sharma,IA Karim,HN Ya France,0,0,,,,,,"",""
+ball,1,10.3,Kenya,P Sharma,IA Karim,HN Ya France,1,0,,,,,,"",""
+ball,1,10.4,Kenya,IA Karim,P Sharma,HN Ya France,0,0,,,,,,"",""
+ball,1,10.5,Kenya,IA Karim,P Sharma,HN Ya France,1,0,,,,,,"",""
+ball,1,10.6,Kenya,P Sharma,IA Karim,HN Ya France,0,0,,,,,,"",""
+ball,1,11.1,Kenya,IA Karim,P Sharma,T Lungameni,0,0,,,,,,"",""
+ball,1,11.2,Kenya,IA Karim,P Sharma,T Lungameni,1,0,,,,,,"",""
+ball,1,11.3,Kenya,P Sharma,IA Karim,T Lungameni,0,0,,,,,,caught,P Sharma
+ball,1,11.4,Kenya,SR Bhudia,IA Karim,T Lungameni,0,0,,,,,,"",""
+ball,1,11.5,Kenya,SR Bhudia,IA Karim,T Lungameni,1,0,,,,,,"",""
+ball,1,11.6,Kenya,IA Karim,SR Bhudia,T Lungameni,4,0,,,,,,"",""
+ball,1,12.1,Kenya,SR Bhudia,IA Karim,MG Erasmus,0,0,,,,,,"",""
+ball,1,12.2,Kenya,SR Bhudia,IA Karim,MG Erasmus,0,0,,,,,,"",""
+ball,1,12.3,Kenya,SR Bhudia,IA Karim,MG Erasmus,4,0,,,,,,"",""
+ball,1,12.4,Kenya,SR Bhudia,IA Karim,MG Erasmus,1,0,,,,,,"",""
+ball,1,12.5,Kenya,IA Karim,SR Bhudia,MG Erasmus,1,0,,,,,,"",""
+ball,1,12.6,Kenya,SR Bhudia,IA Karim,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.1,Kenya,IA Karim,SR Bhudia,BM Scholtz,4,0,,,,,,"",""
+ball,1,13.2,Kenya,IA Karim,SR Bhudia,BM Scholtz,1,0,,,,,,"",""
+ball,1,13.3,Kenya,SR Bhudia,IA Karim,BM Scholtz,0,0,,,,,,"",""
+ball,1,13.4,Kenya,SR Bhudia,IA Karim,BM Scholtz,4,0,,,,,,"",""
+ball,1,13.5,Kenya,SR Bhudia,IA Karim,BM Scholtz,0,0,,,,,,"",""
+ball,1,13.6,Kenya,SR Bhudia,IA Karim,BM Scholtz,1,0,,,,,,"",""
+ball,1,14.1,Kenya,SR Bhudia,IA Karim,T Lungameni,0,0,,,,,,"",""
+ball,1,14.2,Kenya,SR Bhudia,IA Karim,T Lungameni,1,0,,,,,,"",""
+ball,1,14.3,Kenya,IA Karim,SR Bhudia,T Lungameni,3,0,,,,,,"",""
+ball,1,14.4,Kenya,SR Bhudia,IA Karim,T Lungameni,1,0,,,,,,"",""
+ball,1,14.5,Kenya,IA Karim,SR Bhudia,T Lungameni,1,0,,,,,,"",""
+ball,1,14.6,Kenya,SR Bhudia,IA Karim,T Lungameni,4,0,,,,,,"",""
+ball,1,15.1,Kenya,IA Karim,SR Bhudia,D Wiese,0,0,,,,,,"",""
+ball,1,15.2,Kenya,IA Karim,SR Bhudia,D Wiese,6,0,,,,,,"",""
+ball,1,15.3,Kenya,IA Karim,SR Bhudia,D Wiese,0,1,,,,1,,"",""
+ball,1,15.4,Kenya,SR Bhudia,IA Karim,D Wiese,1,0,,,,,,"",""
+ball,1,15.5,Kenya,IA Karim,SR Bhudia,D Wiese,1,0,,,,,,"",""
+ball,1,15.6,Kenya,SR Bhudia,IA Karim,D Wiese,0,0,,,,,,bowled,SR Bhudia
+ball,1,16.1,Kenya,IA Karim,SO Ngoche,JJ Smit,1,0,,,,,,"",""
+ball,1,16.2,Kenya,SO Ngoche,IA Karim,JJ Smit,2,0,,,,,,"",""
+ball,1,16.3,Kenya,SO Ngoche,IA Karim,JJ Smit,0,0,,,,,,bowled,SO Ngoche
+ball,1,16.4,Kenya,S Singh,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,16.5,Kenya,S Singh,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,16.6,Kenya,S Singh,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,17.1,Kenya,IA Karim,S Singh,D Wiese,1,0,,,,,,"",""
+ball,1,17.2,Kenya,S Singh,IA Karim,D Wiese,2,0,,,,,,"",""
+ball,1,17.3,Kenya,S Singh,IA Karim,D Wiese,0,0,,,,,,"",""
+ball,1,17.4,Kenya,S Singh,IA Karim,D Wiese,4,0,,,,,,"",""
+ball,1,17.5,Kenya,S Singh,IA Karim,D Wiese,1,0,,,,,,"",""
+ball,1,17.6,Kenya,IA Karim,S Singh,D Wiese,1,0,,,,,,"",""
+ball,1,18.1,Kenya,IA Karim,S Singh,T Lungameni,0,0,,,,,,"",""
+ball,1,18.2,Kenya,IA Karim,S Singh,T Lungameni,1,0,,,,,,"",""
+ball,1,18.3,Kenya,S Singh,IA Karim,T Lungameni,0,0,,,,,,"",""
+ball,1,18.4,Kenya,S Singh,IA Karim,T Lungameni,1,0,,,,,,"",""
+ball,1,18.5,Kenya,IA Karim,S Singh,T Lungameni,1,0,,,,,,"",""
+ball,1,18.6,Kenya,S Singh,IA Karim,T Lungameni,0,0,,,,,,caught and bowled,S Singh
+ball,1,19.1,Kenya,IA Karim,Vraj Patel,JJ Smit,1,0,,,,,,"",""
+ball,1,19.2,Kenya,Vraj Patel,IA Karim,JJ Smit,1,0,,,,,,"",""
+ball,1,19.3,Kenya,IA Karim,Vraj Patel,JJ Smit,2,0,,,,,,"",""
+ball,1,19.4,Kenya,IA Karim,Vraj Patel,JJ Smit,1,0,,,,,,"",""
+ball,1,19.5,Kenya,Vraj Patel,IA Karim,JJ Smit,0,0,,,,,,"",""
+ball,1,19.6,Kenya,Vraj Patel,IA Karim,JJ Smit,3,0,,,,,,"",""
+ball,2,0.1,Namibia,M van Lingen,N Davin,LN Oluoch,1,0,,,,,,"",""
+ball,2,0.2,Namibia,N Davin,M van Lingen,LN Oluoch,0,0,,,,,,"",""
+ball,2,0.3,Namibia,N Davin,M van Lingen,LN Oluoch,0,0,,,,,,"",""
+ball,2,0.4,Namibia,N Davin,M van Lingen,LN Oluoch,0,0,,,,,,"",""
+ball,2,0.5,Namibia,N Davin,M van Lingen,LN Oluoch,1,0,,,,,,"",""
+ball,2,0.6,Namibia,M van Lingen,N Davin,LN Oluoch,0,0,,,,,,"",""
+ball,2,1.1,Namibia,N Davin,M van Lingen,GM Muthui,2,0,,,,,,"",""
+ball,2,1.2,Namibia,N Davin,M van Lingen,GM Muthui,0,0,,,,,,"",""
+ball,2,1.3,Namibia,N Davin,M van Lingen,GM Muthui,2,0,,,,,,"",""
+ball,2,1.4,Namibia,N Davin,M van Lingen,GM Muthui,0,0,,,,,,"",""
+ball,2,1.5,Namibia,N Davin,M van Lingen,GM Muthui,1,0,,,,,,"",""
+ball,2,1.6,Namibia,M van Lingen,N Davin,GM Muthui,0,0,,,,,,"",""
+ball,2,2.1,Namibia,N Davin,M van Lingen,SO Ngoche,4,0,,,,,,"",""
+ball,2,2.2,Namibia,N Davin,M van Lingen,SO Ngoche,4,0,,,,,,"",""
+ball,2,2.3,Namibia,N Davin,M van Lingen,SO Ngoche,0,0,,,,,,"",""
+ball,2,2.4,Namibia,N Davin,M van Lingen,SO Ngoche,1,0,,,,,,"",""
+ball,2,2.5,Namibia,M van Lingen,N Davin,SO Ngoche,4,0,,,,,,"",""
+ball,2,2.6,Namibia,M van Lingen,N Davin,SO Ngoche,0,0,,,,,,caught,M van Lingen
+ball,2,3.1,Namibia,N Davin,MG Erasmus,LN Oluoch,4,0,,,,,,"",""
+ball,2,3.2,Namibia,N Davin,MG Erasmus,LN Oluoch,0,0,,,,,,"",""
+ball,2,3.3,Namibia,N Davin,MG Erasmus,LN Oluoch,0,0,,,,,,"",""
+ball,2,3.4,Namibia,N Davin,MG Erasmus,LN Oluoch,0,0,,,,,,bowled,N Davin
+ball,2,3.5,Namibia,JN Frylinck,MG Erasmus,LN Oluoch,0,0,,,,,,"",""
+ball,2,3.6,Namibia,JN Frylinck,MG Erasmus,LN Oluoch,4,0,,,,,,"",""
+ball,2,4.1,Namibia,MG Erasmus,JN Frylinck,GM Muthui,0,0,,,,,,"",""
+ball,2,4.2,Namibia,MG Erasmus,JN Frylinck,GM Muthui,1,0,,,,,,"",""
+ball,2,4.3,Namibia,JN Frylinck,MG Erasmus,GM Muthui,2,0,,,,,,"",""
+ball,2,4.4,Namibia,JN Frylinck,MG Erasmus,GM Muthui,4,0,,,,,,"",""
+ball,2,4.5,Namibia,JN Frylinck,MG Erasmus,GM Muthui,0,1,1,,,,,"",""
+ball,2,4.6,Namibia,JN Frylinck,MG Erasmus,GM Muthui,0,0,,,,,,"",""
+ball,2,4.7,Namibia,JN Frylinck,MG Erasmus,GM Muthui,0,0,,,,,,"",""
+ball,2,5.1,Namibia,MG Erasmus,JN Frylinck,NM Odhiambo,0,0,,,,,,"",""
+ball,2,5.2,Namibia,MG Erasmus,JN Frylinck,NM Odhiambo,0,0,,,,,,"",""
+ball,2,5.3,Namibia,MG Erasmus,JN Frylinck,NM Odhiambo,0,0,,,,,,"",""
+ball,2,5.4,Namibia,MG Erasmus,JN Frylinck,NM Odhiambo,0,0,,,,,,"",""
+ball,2,5.5,Namibia,MG Erasmus,JN Frylinck,NM Odhiambo,1,0,,,,,,"",""
+ball,2,5.6,Namibia,JN Frylinck,MG Erasmus,NM Odhiambo,0,0,,,,,,"",""
+ball,2,6.1,Namibia,MG Erasmus,JN Frylinck,Vraj Patel,1,0,,,,,,"",""
+ball,2,6.2,Namibia,JN Frylinck,MG Erasmus,Vraj Patel,1,0,,,,,,"",""
+ball,2,6.3,Namibia,MG Erasmus,JN Frylinck,Vraj Patel,0,0,,,,,,caught,MG Erasmus
+ball,2,6.4,Namibia,JN Loftie-Eaton,JN Frylinck,Vraj Patel,1,0,,,,,,"",""
+ball,2,6.5,Namibia,JN Frylinck,JN Loftie-Eaton,Vraj Patel,1,0,,,,,,"",""
+ball,2,6.6,Namibia,JN Loftie-Eaton,JN Frylinck,Vraj Patel,0,0,,,,,,"",""
+ball,2,7.1,Namibia,JN Frylinck,JN Loftie-Eaton,NM Odhiambo,1,0,,,,,,"",""
+ball,2,7.2,Namibia,JN Loftie-Eaton,JN Frylinck,NM Odhiambo,0,0,,,,,,"",""
+ball,2,7.3,Namibia,JN Loftie-Eaton,JN Frylinck,NM Odhiambo,1,0,,,,,,"",""
+ball,2,7.4,Namibia,JN Frylinck,JN Loftie-Eaton,NM Odhiambo,0,0,,,,,,"",""
+ball,2,7.5,Namibia,JN Frylinck,JN Loftie-Eaton,NM Odhiambo,0,0,,,,,,"",""
+ball,2,7.6,Namibia,JN Frylinck,JN Loftie-Eaton,NM Odhiambo,1,0,,,,,,"",""
+ball,2,8.1,Namibia,JN Frylinck,JN Loftie-Eaton,Vraj Patel,2,0,,,,,,"",""
+ball,2,8.2,Namibia,JN Frylinck,JN Loftie-Eaton,Vraj Patel,1,0,,,,,,"",""
+ball,2,8.3,Namibia,JN Loftie-Eaton,JN Frylinck,Vraj Patel,0,0,,,,,,"",""
+ball,2,8.4,Namibia,JN Loftie-Eaton,JN Frylinck,Vraj Patel,0,0,,,,,,caught,JN Loftie-Eaton
+ball,2,8.5,Namibia,JJ Smit,JN Frylinck,Vraj Patel,1,0,,,,,,"",""
+ball,2,8.6,Namibia,JN Frylinck,JJ Smit,Vraj Patel,1,0,,,,,,"",""
+ball,2,9.1,Namibia,JN Frylinck,JJ Smit,LN Oluoch,0,0,,,,,,"",""
+ball,2,9.2,Namibia,JN Frylinck,JJ Smit,LN Oluoch,0,0,,,,,,"",""
+ball,2,9.3,Namibia,JN Frylinck,JJ Smit,LN Oluoch,1,0,,,,,,"",""
+ball,2,9.4,Namibia,JJ Smit,JN Frylinck,LN Oluoch,1,0,,,,,,"",""
+ball,2,9.5,Namibia,JN Frylinck,JJ Smit,LN Oluoch,0,0,,,,,,"",""
+ball,2,9.6,Namibia,JN Frylinck,JJ Smit,LN Oluoch,1,0,,,,,,"",""
+ball,2,10.1,Namibia,JN Frylinck,JJ Smit,SO Ngoche,0,0,,,,,,"",""
+ball,2,10.2,Namibia,JN Frylinck,JJ Smit,SO Ngoche,4,0,,,,,,"",""
+ball,2,10.3,Namibia,JN Frylinck,JJ Smit,SO Ngoche,4,0,,,,,,"",""
+ball,2,10.4,Namibia,JN Frylinck,JJ Smit,SO Ngoche,1,0,,,,,,"",""
+ball,2,10.5,Namibia,JJ Smit,JN Frylinck,SO Ngoche,1,0,,,,,,"",""
+ball,2,10.6,Namibia,JN Frylinck,JJ Smit,SO Ngoche,1,0,,,,,,"",""
+ball,2,11.1,Namibia,JN Frylinck,JJ Smit,GM Muthui,2,0,,,,,,"",""
+ball,2,11.2,Namibia,JN Frylinck,JJ Smit,GM Muthui,0,1,1,,,,,"",""
+ball,2,11.3,Namibia,JN Frylinck,JJ Smit,GM Muthui,0,0,,,,,,"",""
+ball,2,11.4,Namibia,JN Frylinck,JJ Smit,GM Muthui,0,1,1,,,,,"",""
+ball,2,11.5,Namibia,JN Frylinck,JJ Smit,GM Muthui,3,0,,,,,,"",""
+ball,2,11.6,Namibia,JJ Smit,JN Frylinck,GM Muthui,0,0,,,,,,"",""
+ball,2,11.7,Namibia,JJ Smit,JN Frylinck,GM Muthui,1,0,,,,,,"",""
+ball,2,11.8,Namibia,JN Frylinck,JJ Smit,GM Muthui,1,0,,,,,,"",""
+ball,2,12.1,Namibia,JN Frylinck,JJ Smit,Vraj Patel,1,0,,,,,,"",""
+ball,2,12.2,Namibia,JJ Smit,JN Frylinck,Vraj Patel,2,0,,,,,,"",""
+ball,2,12.3,Namibia,JJ Smit,JN Frylinck,Vraj Patel,0,0,,,,,,"",""
+ball,2,12.4,Namibia,JJ Smit,JN Frylinck,Vraj Patel,0,0,,,,,,"",""
+ball,2,12.5,Namibia,JJ Smit,JN Frylinck,Vraj Patel,1,0,,,,,,"",""
+ball,2,12.6,Namibia,JN Frylinck,JJ Smit,Vraj Patel,6,0,,,,,,"",""
+ball,2,13.1,Namibia,JJ Smit,JN Frylinck,P Sharma,1,0,,,,,,"",""
+ball,2,13.2,Namibia,JN Frylinck,JJ Smit,P Sharma,1,0,,,,,,"",""
+ball,2,13.3,Namibia,JJ Smit,JN Frylinck,P Sharma,0,0,,,,,,"",""
+ball,2,13.4,Namibia,JJ Smit,JN Frylinck,P Sharma,1,0,,,,,,"",""
+ball,2,13.5,Namibia,JN Frylinck,JJ Smit,P Sharma,2,0,,,,,,"",""
+ball,2,13.6,Namibia,JN Frylinck,JJ Smit,P Sharma,1,0,,,,,,"",""
+ball,2,14.1,Namibia,JN Frylinck,JJ Smit,NM Odhiambo,2,0,,,,,,"",""
+ball,2,14.2,Namibia,JN Frylinck,JJ Smit,NM Odhiambo,0,0,,,,,,"",""
+ball,2,14.3,Namibia,JN Frylinck,JJ Smit,NM Odhiambo,0,3,3,,,,,"",""
+ball,2,14.4,Namibia,JN Frylinck,JJ Smit,NM Odhiambo,1,0,,,,,,"",""
+ball,2,14.5,Namibia,JJ Smit,JN Frylinck,NM Odhiambo,4,0,,,,,,"",""
+ball,2,14.6,Namibia,JJ Smit,JN Frylinck,NM Odhiambo,1,0,,,,,,"",""
+ball,2,14.7,Namibia,JN Frylinck,JJ Smit,NM Odhiambo,1,0,,,,,,"",""
+ball,2,15.1,Namibia,JN Frylinck,JJ Smit,P Sharma,2,0,,,,,,"",""
+ball,2,15.2,Namibia,JN Frylinck,JJ Smit,P Sharma,4,0,,,,,,"",""

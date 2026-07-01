@@ -1,0 +1,328 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Portugal
+info,team,Norway
+info,gender,female
+info,season,2025
+info,date,2025/04/07
+info,event,Norway Women tour of Portugal
+info,match_number,1
+info,venue,Santarem Cricket Ground
+info,city,Albergaria
+info,toss_winner,Portugal
+info,toss_decision,bat
+info,player_of_match,K Sequiera
+info,winner,Portugal
+info,winner_runs,16
+info,player,Portugal,S Foo-Ryland
+info,player,Portugal,SG Luijke
+info,player,Portugal,GS Sequeira
+info,player,Portugal,J de Figueiredo
+info,player,Portugal,K Sequiera
+info,player,Portugal,IK Cheema
+info,player,Portugal,B Maximo
+info,player,Portugal,Mariam Waseem
+info,player,Portugal,Afsheen Ahmed
+info,player,Portugal,Joanna Child
+info,player,Portugal,I Kaur
+info,player,Norway,AS Gorad
+info,player,Norway,Ayesha Hasan
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,R Immadi
+info,player,Norway,Alina Aslam
+info,player,Norway,A Rautela
+info,player,Norway,Nayab Razwan
+info,player,Norway,P Agrawal
+info,player,Norway,Mirab Razwan
+info,player,Norway,Lopamudra
+info,player,Norway,Prachi Kumari
+info,registry,people,A Rautela,e113c6c7
+info,registry,people,AS Gorad,2c8d0953
+info,registry,people,Afsheen Ahmed,ebfc9514
+info,registry,people,Alina Aslam,fbffb752
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,B Maximo,27d95005
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,GS Sequeira,949d1cae
+info,registry,people,I Kaur,58da4880
+info,registry,people,IK Cheema,01abe2db
+info,registry,people,J de Figueiredo,8d35b7da
+info,registry,people,Joanna Child,5bdaa121
+info,registry,people,K Sequiera,29269e98
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,Mariam Waseem,09653658
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,Nayab Razwan,f12e21a0
+info,registry,people,P Agrawal,bb1fcd51
+info,registry,people,Prachi Kumari,dc4f97bf
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,S Foo-Ryland,5ba89b11
+info,registry,people,SG Luijke,c0a34f79
+ball,1,0.1,Portugal,S Foo-Ryland,SG Luijke,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.2,Portugal,S Foo-Ryland,SG Luijke,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.3,Portugal,S Foo-Ryland,SG Luijke,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.4,Portugal,S Foo-Ryland,SG Luijke,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.5,Portugal,S Foo-Ryland,SG Luijke,Alina Aslam,1,0,,,,,,"",""
+ball,1,0.6,Portugal,SG Luijke,S Foo-Ryland,Alina Aslam,0,0,,,,,,"",""
+ball,1,1.1,Portugal,S Foo-Ryland,SG Luijke,R Immadi,1,0,,,,,,"",""
+ball,1,1.2,Portugal,SG Luijke,S Foo-Ryland,R Immadi,0,1,1,,,,,"",""
+ball,1,1.3,Portugal,SG Luijke,S Foo-Ryland,R Immadi,0,0,,,,,,bowled,SG Luijke
+ball,1,1.4,Portugal,GS Sequeira,S Foo-Ryland,R Immadi,0,0,,,,,,"",""
+ball,1,1.5,Portugal,GS Sequeira,S Foo-Ryland,R Immadi,0,1,1,,,,,"",""
+ball,1,1.6,Portugal,GS Sequeira,S Foo-Ryland,R Immadi,0,0,,,,,,"",""
+ball,1,1.7,Portugal,GS Sequeira,S Foo-Ryland,R Immadi,1,0,,,,,,"",""
+ball,1,1.8,Portugal,S Foo-Ryland,GS Sequeira,R Immadi,1,0,,,,,,"",""
+ball,1,2.1,Portugal,S Foo-Ryland,GS Sequeira,Alina Aslam,1,0,,,,,,"",""
+ball,1,2.2,Portugal,GS Sequeira,S Foo-Ryland,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.3,Portugal,GS Sequeira,S Foo-Ryland,Alina Aslam,4,0,,,,,,"",""
+ball,1,2.4,Portugal,GS Sequeira,S Foo-Ryland,Alina Aslam,0,3,3,,,,,"",""
+ball,1,2.5,Portugal,GS Sequeira,S Foo-Ryland,Alina Aslam,1,0,,,,,,"",""
+ball,1,2.6,Portugal,S Foo-Ryland,GS Sequeira,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.7,Portugal,S Foo-Ryland,GS Sequeira,Alina Aslam,0,5,5,,,,,"",""
+ball,1,2.8,Portugal,S Foo-Ryland,GS Sequeira,Alina Aslam,0,1,1,,,,,"",""
+ball,1,2.9,Portugal,S Foo-Ryland,GS Sequeira,Alina Aslam,1,0,,,,,,"",""
+ball,1,3.1,Portugal,S Foo-Ryland,GS Sequeira,R Immadi,0,1,1,,,,,"",""
+ball,1,3.2,Portugal,S Foo-Ryland,GS Sequeira,R Immadi,1,0,,,,,,"",""
+ball,1,3.3,Portugal,GS Sequeira,S Foo-Ryland,R Immadi,0,1,,,,1,,"",""
+ball,1,3.4,Portugal,S Foo-Ryland,GS Sequeira,R Immadi,1,0,,,,,,"",""
+ball,1,3.5,Portugal,GS Sequeira,S Foo-Ryland,R Immadi,1,0,,,,,,"",""
+ball,1,3.6,Portugal,S Foo-Ryland,GS Sequeira,R Immadi,1,0,,,,,,"",""
+ball,1,3.7,Portugal,GS Sequeira,S Foo-Ryland,R Immadi,0,0,,,,,,bowled,GS Sequeira
+ball,1,4.1,Portugal,S Foo-Ryland,J de Figueiredo,Lopamudra,4,0,,,,,,"",""
+ball,1,4.2,Portugal,S Foo-Ryland,J de Figueiredo,Lopamudra,0,1,1,,,,,"",""
+ball,1,4.3,Portugal,S Foo-Ryland,J de Figueiredo,Lopamudra,0,0,,,,,,"",""
+ball,1,4.4,Portugal,S Foo-Ryland,J de Figueiredo,Lopamudra,1,0,,,,,,"",""
+ball,1,4.5,Portugal,J de Figueiredo,S Foo-Ryland,Lopamudra,1,0,,,,,,"",""
+ball,1,4.6,Portugal,S Foo-Ryland,J de Figueiredo,Lopamudra,0,0,,,,,,"",""
+ball,1,4.7,Portugal,S Foo-Ryland,J de Figueiredo,Lopamudra,1,0,,,,,,"",""
+ball,1,5.1,Portugal,S Foo-Ryland,J de Figueiredo,P Agrawal,1,0,,,,,,"",""
+ball,1,5.2,Portugal,J de Figueiredo,S Foo-Ryland,P Agrawal,0,0,,,,,,"",""
+ball,1,5.3,Portugal,J de Figueiredo,S Foo-Ryland,P Agrawal,0,0,,,,,,caught and bowled,J de Figueiredo
+ball,1,5.4,Portugal,K Sequiera,S Foo-Ryland,P Agrawal,1,0,,,,,,"",""
+ball,1,5.5,Portugal,S Foo-Ryland,K Sequiera,P Agrawal,1,0,,,,,,"",""
+ball,1,5.6,Portugal,K Sequiera,S Foo-Ryland,P Agrawal,1,0,,,,,,"",""
+ball,1,6.1,Portugal,K Sequiera,S Foo-Ryland,Lopamudra,0,0,,,,,,"",""
+ball,1,6.2,Portugal,K Sequiera,S Foo-Ryland,Lopamudra,1,0,,,,,,"",""
+ball,1,6.3,Portugal,S Foo-Ryland,K Sequiera,Lopamudra,4,1,,1,,,,"",""
+ball,1,6.4,Portugal,S Foo-Ryland,K Sequiera,Lopamudra,0,0,,,,,,"",""
+ball,1,6.5,Portugal,S Foo-Ryland,K Sequiera,Lopamudra,0,0,,,,,,"",""
+ball,1,6.6,Portugal,S Foo-Ryland,K Sequiera,Lopamudra,0,0,,,,,,"",""
+ball,1,6.7,Portugal,S Foo-Ryland,K Sequiera,Lopamudra,0,0,,,,,,"",""
+ball,1,7.1,Portugal,K Sequiera,S Foo-Ryland,P Agrawal,1,0,,,,,,"",""
+ball,1,7.2,Portugal,S Foo-Ryland,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,7.3,Portugal,S Foo-Ryland,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,7.4,Portugal,S Foo-Ryland,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,7.5,Portugal,S Foo-Ryland,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,7.6,Portugal,S Foo-Ryland,K Sequiera,P Agrawal,1,0,,,,,,"",""
+ball,1,8.1,Portugal,S Foo-Ryland,K Sequiera,Lopamudra,0,0,,,,,,"",""
+ball,1,8.2,Portugal,S Foo-Ryland,K Sequiera,Lopamudra,1,0,,,,,,"",""
+ball,1,8.3,Portugal,K Sequiera,S Foo-Ryland,Lopamudra,4,0,,,,,,"",""
+ball,1,8.4,Portugal,K Sequiera,S Foo-Ryland,Lopamudra,0,0,,,,,,"",""
+ball,1,8.5,Portugal,K Sequiera,S Foo-Ryland,Lopamudra,0,0,,,,,,"",""
+ball,1,8.6,Portugal,K Sequiera,S Foo-Ryland,Lopamudra,1,0,,,,,,"",""
+ball,1,9.1,Portugal,K Sequiera,S Foo-Ryland,Mirab Razwan,1,0,,,,,,"",""
+ball,1,9.2,Portugal,S Foo-Ryland,K Sequiera,Mirab Razwan,0,0,,,,,,"",""
+ball,1,9.3,Portugal,S Foo-Ryland,K Sequiera,Mirab Razwan,1,0,,,,,,"",""
+ball,1,9.4,Portugal,K Sequiera,S Foo-Ryland,Mirab Razwan,2,0,,,,,,"",""
+ball,1,9.5,Portugal,K Sequiera,S Foo-Ryland,Mirab Razwan,1,0,,,,,,"",""
+ball,1,9.6,Portugal,S Foo-Ryland,K Sequiera,Mirab Razwan,1,0,,,,,,"",""
+ball,1,10.1,Portugal,S Foo-Ryland,K Sequiera,Alina Aslam,0,0,,,,,,bowled,S Foo-Ryland
+ball,1,10.2,Portugal,IK Cheema,K Sequiera,Alina Aslam,1,0,,,,,,"",""
+ball,1,10.3,Portugal,K Sequiera,IK Cheema,Alina Aslam,0,1,1,,,,,"",""
+ball,1,10.4,Portugal,K Sequiera,IK Cheema,Alina Aslam,0,0,,,,,,"",""
+ball,1,10.5,Portugal,K Sequiera,IK Cheema,Alina Aslam,1,0,,,,,,"",""
+ball,1,10.6,Portugal,IK Cheema,K Sequiera,Alina Aslam,0,1,1,,,,,"",""
+ball,1,10.7,Portugal,IK Cheema,K Sequiera,Alina Aslam,4,0,,,,,,"",""
+ball,1,10.8,Portugal,IK Cheema,K Sequiera,Alina Aslam,1,0,,,,,,"",""
+ball,1,11.1,Portugal,IK Cheema,K Sequiera,Mirab Razwan,0,1,1,,,,,"",""
+ball,1,11.2,Portugal,IK Cheema,K Sequiera,Mirab Razwan,0,0,,,,,,"",""
+ball,1,11.3,Portugal,IK Cheema,K Sequiera,Mirab Razwan,0,0,,,,,,"",""
+ball,1,11.4,Portugal,IK Cheema,K Sequiera,Mirab Razwan,1,0,,,,,,"",""
+ball,1,11.5,Portugal,K Sequiera,IK Cheema,Mirab Razwan,0,0,,,,,,"",""
+ball,1,11.6,Portugal,K Sequiera,IK Cheema,Mirab Razwan,2,0,,,,,,"",""
+ball,1,11.7,Portugal,K Sequiera,IK Cheema,Mirab Razwan,0,0,,,,,,"",""
+ball,1,12.1,Portugal,IK Cheema,K Sequiera,P Agrawal,1,0,,,,,,"",""
+ball,1,12.2,Portugal,K Sequiera,IK Cheema,P Agrawal,1,0,,,,,,"",""
+ball,1,12.3,Portugal,IK Cheema,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,12.4,Portugal,IK Cheema,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,12.5,Portugal,IK Cheema,K Sequiera,P Agrawal,1,0,,,,,,"",""
+ball,1,12.6,Portugal,K Sequiera,IK Cheema,P Agrawal,1,0,,,,,,"",""
+ball,1,13.1,Portugal,K Sequiera,IK Cheema,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.2,Portugal,IK Cheema,K Sequiera,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.3,Portugal,K Sequiera,IK Cheema,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.4,Portugal,IK Cheema,K Sequiera,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.5,Portugal,K Sequiera,IK Cheema,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.6,Portugal,IK Cheema,K Sequiera,Prachi Kumari,0,0,,,,,,bowled,IK Cheema
+ball,1,14.1,Portugal,K Sequiera,B Maximo,P Agrawal,0,0,,,,,,"",""
+ball,1,14.2,Portugal,K Sequiera,B Maximo,P Agrawal,1,0,,,,,,"",""
+ball,1,14.3,Portugal,B Maximo,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,14.4,Portugal,B Maximo,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,14.5,Portugal,B Maximo,K Sequiera,P Agrawal,0,0,,,,,,bowled,B Maximo
+ball,1,14.6,Portugal,Mariam Waseem,K Sequiera,P Agrawal,0,0,,,,,,"",""
+ball,1,15.1,Portugal,K Sequiera,Mariam Waseem,Prachi Kumari,1,0,,,,,,"",""
+ball,1,15.2,Portugal,Mariam Waseem,K Sequiera,Prachi Kumari,0,0,,,,,,"",""
+ball,1,15.3,Portugal,Mariam Waseem,K Sequiera,Prachi Kumari,1,0,,,,,,"",""
+ball,1,15.4,Portugal,K Sequiera,Mariam Waseem,Prachi Kumari,1,0,,,,,,"",""
+ball,1,15.5,Portugal,Mariam Waseem,K Sequiera,Prachi Kumari,0,0,,,,,,"",""
+ball,1,15.6,Portugal,Mariam Waseem,K Sequiera,Prachi Kumari,0,0,,,,,,"",""
+ball,1,16.1,Portugal,K Sequiera,Mariam Waseem,Mirab Razwan,1,0,,,,,,"",""
+ball,1,16.2,Portugal,Mariam Waseem,K Sequiera,Mirab Razwan,0,0,,,,,,lbw,Mariam Waseem
+ball,1,16.3,Portugal,Afsheen Ahmed,K Sequiera,Mirab Razwan,0,0,,,,,,caught,Afsheen Ahmed
+ball,1,16.4,Portugal,Joanna Child,K Sequiera,Mirab Razwan,1,0,,,,,,"",""
+ball,1,16.5,Portugal,K Sequiera,Joanna Child,Mirab Razwan,0,0,,,,,,"",""
+ball,1,16.6,Portugal,K Sequiera,Joanna Child,Mirab Razwan,1,0,,,,,,"",""
+ball,1,17.1,Portugal,K Sequiera,Joanna Child,R Immadi,0,0,,,,,,"",""
+ball,1,17.2,Portugal,K Sequiera,Joanna Child,R Immadi,4,0,,,,,,"",""
+ball,1,17.3,Portugal,K Sequiera,Joanna Child,R Immadi,0,1,1,,,,,"",""
+ball,1,17.4,Portugal,K Sequiera,Joanna Child,R Immadi,0,0,,,,,,"",""
+ball,1,17.5,Portugal,K Sequiera,Joanna Child,R Immadi,0,0,,,,,,"",""
+ball,1,17.6,Portugal,K Sequiera,Joanna Child,R Immadi,0,0,,,,,,"",""
+ball,1,17.7,Portugal,K Sequiera,Joanna Child,R Immadi,1,0,,,,,,"",""
+ball,1,18.1,Portugal,K Sequiera,Joanna Child,Mirab Razwan,4,0,,,,,,"",""
+ball,1,18.2,Portugal,K Sequiera,Joanna Child,Mirab Razwan,1,0,,,,,,"",""
+ball,1,18.3,Portugal,Joanna Child,K Sequiera,Mirab Razwan,0,0,,,,,,"",""
+ball,1,18.4,Portugal,Joanna Child,K Sequiera,Mirab Razwan,0,0,,,,,,"",""
+ball,1,18.5,Portugal,Joanna Child,K Sequiera,Mirab Razwan,0,0,,,,,,"",""
+ball,1,18.6,Portugal,Joanna Child,K Sequiera,Mirab Razwan,1,0,,,,,,"",""
+ball,1,19.1,Portugal,Joanna Child,K Sequiera,R Immadi,0,0,,,,,,"",""
+ball,1,19.2,Portugal,Joanna Child,K Sequiera,R Immadi,0,2,2,,,,,"",""
+ball,1,19.3,Portugal,K Sequiera,Joanna Child,R Immadi,0,0,,,,,,"",""
+ball,1,19.4,Portugal,K Sequiera,Joanna Child,R Immadi,1,0,,,,,,"",""
+ball,1,19.5,Portugal,Joanna Child,K Sequiera,R Immadi,0,0,,,,,,"",""
+ball,1,19.6,Portugal,Joanna Child,K Sequiera,R Immadi,0,5,5,,,,,"",""
+ball,1,19.7,Portugal,Joanna Child,K Sequiera,R Immadi,0,0,,,,,,bowled,Joanna Child
+ball,1,19.8,Portugal,I Kaur,K Sequiera,R Immadi,0,0,,,,,,"",""
+ball,2,0.1,Norway,AS Gorad,Ayesha Hasan,J de Figueiredo,2,0,,,,,,"",""
+ball,2,0.2,Norway,AS Gorad,Ayesha Hasan,J de Figueiredo,0,0,,,,,,"",""
+ball,2,0.3,Norway,AS Gorad,Ayesha Hasan,J de Figueiredo,1,0,,,,,,"",""
+ball,2,0.4,Norway,Ayesha Hasan,AS Gorad,J de Figueiredo,0,0,,,,,,"",""
+ball,2,0.5,Norway,Ayesha Hasan,AS Gorad,J de Figueiredo,1,0,,,,,,"",""
+ball,2,0.6,Norway,AS Gorad,Ayesha Hasan,J de Figueiredo,4,0,,,,,,"",""
+ball,2,1.1,Norway,Ayesha Hasan,AS Gorad,GS Sequeira,0,1,1,,,,,"",""
+ball,2,1.2,Norway,Ayesha Hasan,AS Gorad,GS Sequeira,0,0,,,,,,caught,Ayesha Hasan
+ball,2,1.3,Norway,Bijeyata Kumari,AS Gorad,GS Sequeira,0,0,,,,,,"",""
+ball,2,1.4,Norway,Bijeyata Kumari,AS Gorad,GS Sequeira,0,0,,,,,,"",""
+ball,2,1.5,Norway,Bijeyata Kumari,AS Gorad,GS Sequeira,1,0,,,,,,"",""
+ball,2,1.6,Norway,AS Gorad,Bijeyata Kumari,GS Sequeira,2,0,,,,,,"",""
+ball,2,1.7,Norway,AS Gorad,Bijeyata Kumari,GS Sequeira,2,0,,,,,,"",""
+ball,2,2.1,Norway,Bijeyata Kumari,AS Gorad,J de Figueiredo,0,0,,,,,,"",""
+ball,2,2.2,Norway,Bijeyata Kumari,AS Gorad,J de Figueiredo,0,0,,,,,,"",""
+ball,2,2.3,Norway,Bijeyata Kumari,AS Gorad,J de Figueiredo,1,0,,,,,,"",""
+ball,2,2.4,Norway,AS Gorad,Bijeyata Kumari,J de Figueiredo,0,0,,,,,,"",""
+ball,2,2.5,Norway,AS Gorad,Bijeyata Kumari,J de Figueiredo,0,0,,,,,,"",""
+ball,2,2.6,Norway,AS Gorad,Bijeyata Kumari,J de Figueiredo,0,0,,,,,,"",""
+ball,2,3.1,Norway,Bijeyata Kumari,AS Gorad,GS Sequeira,0,0,,,,,,"",""
+ball,2,3.2,Norway,Bijeyata Kumari,AS Gorad,GS Sequeira,0,0,,,,,,"",""
+ball,2,3.3,Norway,Bijeyata Kumari,AS Gorad,GS Sequeira,0,0,,,,,,"",""
+ball,2,3.4,Norway,Bijeyata Kumari,AS Gorad,GS Sequeira,1,0,,,,,,"",""
+ball,2,3.5,Norway,AS Gorad,Bijeyata Kumari,GS Sequeira,0,0,,,,,,"",""
+ball,2,3.6,Norway,AS Gorad,Bijeyata Kumari,GS Sequeira,0,0,,,,,,caught,AS Gorad
+ball,2,4.1,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,1,,,,,"",""
+ball,2,4.2,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,1,,,,,"",""
+ball,2,4.3,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,1,,,,,"",""
+ball,2,4.4,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,1,,,,,"",""
+ball,2,4.5,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,1,,,,,"",""
+ball,2,4.6,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,,1,,,,"",""
+ball,2,4.7,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,1,,,,,"",""
+ball,2,4.8,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,0,,,,,,"",""
+ball,2,4.9,Norway,Bijeyata Kumari,R Immadi,IK Cheema,0,1,,,,1,,"",""
+ball,2,4.10,Norway,R Immadi,Bijeyata Kumari,IK Cheema,1,0,,,,,,"",""
+ball,2,4.11,Norway,Bijeyata Kumari,R Immadi,IK Cheema,1,0,,,,,,"",""
+ball,2,4.12,Norway,R Immadi,Bijeyata Kumari,IK Cheema,0,0,,,,,,"",""
+ball,2,4.13,Norway,R Immadi,Bijeyata Kumari,IK Cheema,0,0,,,,,,"",""
+ball,2,5.1,Norway,Bijeyata Kumari,R Immadi,B Maximo,0,1,1,,,,,"",""
+ball,2,5.2,Norway,Bijeyata Kumari,R Immadi,B Maximo,0,1,1,,,,,"",""
+ball,2,5.3,Norway,Bijeyata Kumari,R Immadi,B Maximo,0,0,,,,,,run out,Bijeyata Kumari
+ball,2,5.4,Norway,R Immadi,Alina Aslam,B Maximo,1,0,,,,,,"",""
+ball,2,5.5,Norway,Alina Aslam,R Immadi,B Maximo,0,1,,1,,,,"",""
+ball,2,5.6,Norway,Alina Aslam,R Immadi,B Maximo,0,0,,,,,,"",""
+ball,2,5.7,Norway,Alina Aslam,R Immadi,B Maximo,1,1,,1,,,,"",""
+ball,2,5.8,Norway,R Immadi,Alina Aslam,B Maximo,0,1,1,,,,,"",""
+ball,2,5.9,Norway,R Immadi,Alina Aslam,B Maximo,0,0,,,,,,"",""
+ball,2,5.10,Norway,R Immadi,Alina Aslam,B Maximo,0,1,1,,,,,"",""
+ball,2,5.11,Norway,R Immadi,Alina Aslam,B Maximo,0,1,1,,,,,"",""
+ball,2,5.12,Norway,R Immadi,Alina Aslam,B Maximo,0,0,,,,,,"",""
+ball,2,5.13,Norway,R Immadi,Alina Aslam,B Maximo,0,0,,,,,,"",""
+ball,2,6.1,Norway,Alina Aslam,R Immadi,IK Cheema,0,1,1,,,,,"",""
+ball,2,6.2,Norway,Alina Aslam,R Immadi,IK Cheema,0,1,,1,,,,"",""
+ball,2,6.3,Norway,Alina Aslam,R Immadi,IK Cheema,1,0,,,,,,"",""
+ball,2,6.4,Norway,R Immadi,Alina Aslam,IK Cheema,0,0,,,,,,caught,R Immadi
+ball,2,6.5,Norway,A Rautela,Alina Aslam,IK Cheema,0,1,1,,,,,"",""
+ball,2,6.6,Norway,A Rautela,Alina Aslam,IK Cheema,1,0,,,,,,"",""
+ball,2,6.7,Norway,Alina Aslam,A Rautela,IK Cheema,0,1,1,,,,,"",""
+ball,2,6.8,Norway,Alina Aslam,A Rautela,IK Cheema,0,1,1,,,,,"",""
+ball,2,6.9,Norway,Alina Aslam,A Rautela,IK Cheema,0,5,,1,4,,,"",""
+ball,2,6.10,Norway,Alina Aslam,A Rautela,IK Cheema,0,0,,,,,,"",""
+ball,2,6.11,Norway,Alina Aslam,A Rautela,IK Cheema,2,1,,1,,,,"",""
+ball,2,6.12,Norway,Alina Aslam,A Rautela,IK Cheema,0,0,,,,,,"",""
+ball,2,6.13,Norway,Alina Aslam,A Rautela,IK Cheema,0,0,,,,,,bowled,Alina Aslam
+ball,2,7.1,Norway,A Rautela,Nayab Razwan,B Maximo,0,1,1,,,,,"",""
+ball,2,7.2,Norway,A Rautela,Nayab Razwan,B Maximo,1,0,,,,,,"",""
+ball,2,7.3,Norway,Nayab Razwan,A Rautela,B Maximo,0,0,,,,,,"",""
+ball,2,7.4,Norway,Nayab Razwan,A Rautela,B Maximo,1,0,,,,,,"",""
+ball,2,7.5,Norway,A Rautela,Nayab Razwan,B Maximo,2,0,,,,,,"",""
+ball,2,7.6,Norway,A Rautela,Nayab Razwan,B Maximo,1,0,,,,,,"",""
+ball,2,7.7,Norway,Nayab Razwan,A Rautela,B Maximo,0,1,1,,,,,"",""
+ball,2,7.8,Norway,Nayab Razwan,A Rautela,B Maximo,1,0,,,,,,"",""
+ball,2,8.1,Norway,Nayab Razwan,A Rautela,K Sequiera,0,0,,,,,,"",""
+ball,2,8.2,Norway,Nayab Razwan,A Rautela,K Sequiera,0,0,,,,,,"",""
+ball,2,8.3,Norway,Nayab Razwan,A Rautela,K Sequiera,1,0,,,,,,"",""
+ball,2,8.4,Norway,A Rautela,Nayab Razwan,K Sequiera,0,0,,,,,,"",""
+ball,2,8.5,Norway,A Rautela,Nayab Razwan,K Sequiera,1,0,,,,,,"",""
+ball,2,8.6,Norway,Nayab Razwan,A Rautela,K Sequiera,0,0,,,,,,"",""
+ball,2,9.1,Norway,A Rautela,Nayab Razwan,GS Sequeira,4,0,,,,,,"",""
+ball,2,9.2,Norway,A Rautela,Nayab Razwan,GS Sequeira,0,0,,,,,,"",""
+ball,2,9.3,Norway,A Rautela,Nayab Razwan,GS Sequeira,0,2,,,2,,,"",""
+ball,2,9.4,Norway,A Rautela,Nayab Razwan,GS Sequeira,1,0,,,,,,"",""
+ball,2,9.5,Norway,Nayab Razwan,A Rautela,GS Sequeira,0,0,,,,,,"",""
+ball,2,9.6,Norway,Nayab Razwan,A Rautela,GS Sequeira,1,0,,,,,,"",""
+ball,2,10.1,Norway,Nayab Razwan,A Rautela,K Sequiera,0,1,1,,,,,"",""
+ball,2,10.2,Norway,Nayab Razwan,A Rautela,K Sequiera,1,0,,,,,,"",""
+ball,2,10.3,Norway,A Rautela,Nayab Razwan,K Sequiera,0,0,,,,,,"",""
+ball,2,10.4,Norway,A Rautela,Nayab Razwan,K Sequiera,0,0,,,,,,"",""
+ball,2,10.5,Norway,A Rautela,Nayab Razwan,K Sequiera,0,0,,,,,,run out,A Rautela
+ball,2,10.6,Norway,Nayab Razwan,P Agrawal,K Sequiera,1,0,,,,,,"",""
+ball,2,10.7,Norway,P Agrawal,Nayab Razwan,K Sequiera,0,0,,,,,,"",""
+ball,2,11.1,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,1,1,,,,,"",""
+ball,2,11.2,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,1,1,,,,,"",""
+ball,2,11.3,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,1,1,,,,,"",""
+ball,2,11.4,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,1,,1,,,,"",""
+ball,2,11.5,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,0,,,,,,"",""
+ball,2,11.6,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,1,1,,,,,"",""
+ball,2,11.7,Norway,Nayab Razwan,P Agrawal,IK Cheema,1,0,,,,,,"",""
+ball,2,11.8,Norway,P Agrawal,Nayab Razwan,IK Cheema,0,1,1,,,,,"",""
+ball,2,11.9,Norway,P Agrawal,Nayab Razwan,IK Cheema,1,0,,,,,,"",""
+ball,2,11.10,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,0,,,,,,"",""
+ball,2,11.11,Norway,Nayab Razwan,P Agrawal,IK Cheema,0,0,,,,,,bowled,Nayab Razwan
+ball,2,11.12,Norway,Mirab Razwan,P Agrawal,IK Cheema,0,0,,,,,,"",""
+ball,2,12.1,Norway,P Agrawal,Mirab Razwan,K Sequiera,0,0,,,,,,"",""
+ball,2,12.2,Norway,P Agrawal,Mirab Razwan,K Sequiera,0,0,,,,,,"",""
+ball,2,12.3,Norway,P Agrawal,Mirab Razwan,K Sequiera,1,0,,,,,,"",""
+ball,2,12.4,Norway,Mirab Razwan,P Agrawal,K Sequiera,0,1,1,,,,,"",""
+ball,2,12.5,Norway,Mirab Razwan,P Agrawal,K Sequiera,0,0,,,,,,"",""
+ball,2,12.6,Norway,Mirab Razwan,P Agrawal,K Sequiera,0,0,,,,,,"",""
+ball,2,12.7,Norway,Mirab Razwan,P Agrawal,K Sequiera,0,0,,,,,,"",""
+ball,2,13.1,Norway,P Agrawal,Mirab Razwan,J de Figueiredo,0,0,,,,,,"",""
+ball,2,13.2,Norway,P Agrawal,Mirab Razwan,J de Figueiredo,1,0,,,,,,"",""
+ball,2,13.3,Norway,Mirab Razwan,P Agrawal,J de Figueiredo,1,0,,,,,,"",""
+ball,2,13.4,Norway,P Agrawal,Mirab Razwan,J de Figueiredo,1,0,,,,,,"",""
+ball,2,13.5,Norway,Mirab Razwan,P Agrawal,J de Figueiredo,0,0,,,,,,"",""
+ball,2,13.6,Norway,Mirab Razwan,P Agrawal,J de Figueiredo,2,0,,,,,,"",""
+ball,2,14.1,Norway,P Agrawal,Mirab Razwan,IK Cheema,0,0,,,,,,"",""
+ball,2,14.2,Norway,P Agrawal,Mirab Razwan,IK Cheema,0,1,,1,,,,"",""
+ball,2,14.3,Norway,P Agrawal,Mirab Razwan,IK Cheema,1,0,,,,,,"",""
+ball,2,14.4,Norway,Mirab Razwan,P Agrawal,IK Cheema,0,0,,,,,,"",""
+ball,2,14.5,Norway,Mirab Razwan,P Agrawal,IK Cheema,0,2,,,2,,,"",""
+ball,2,14.6,Norway,Mirab Razwan,P Agrawal,IK Cheema,1,0,,,,,,"",""
+ball,2,14.7,Norway,P Agrawal,Mirab Razwan,IK Cheema,0,1,1,,,,,"",""
+ball,2,14.8,Norway,P Agrawal,Mirab Razwan,IK Cheema,0,0,,,,,,"",""
+ball,2,15.1,Norway,Mirab Razwan,P Agrawal,J de Figueiredo,0,0,,,,,,bowled,Mirab Razwan
+ball,2,15.2,Norway,Lopamudra,P Agrawal,J de Figueiredo,0,0,,,,,,caught and bowled,Lopamudra
+ball,2,15.3,Norway,Prachi Kumari,P Agrawal,J de Figueiredo,0,0,,,,,,"",""
+ball,2,15.4,Norway,Prachi Kumari,P Agrawal,J de Figueiredo,0,0,,,,,,"",""
+ball,2,15.5,Norway,Prachi Kumari,P Agrawal,J de Figueiredo,0,0,,,,,,"",""
+ball,2,15.6,Norway,Prachi Kumari,P Agrawal,J de Figueiredo,0,0,,,,,,"",""
+ball,2,16.1,Norway,P Agrawal,Prachi Kumari,GS Sequeira,1,0,,,,,,"",""
+ball,2,16.2,Norway,Prachi Kumari,P Agrawal,GS Sequeira,0,0,,,,,,"",""
+ball,2,16.3,Norway,Prachi Kumari,P Agrawal,GS Sequeira,0,0,,,,,,"",""
+ball,2,16.4,Norway,Prachi Kumari,P Agrawal,GS Sequeira,0,0,,,,,,caught,Prachi Kumari

@@ -1,0 +1,321 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,female
+info,season,2019/20
+info,date,2020/02/09
+info,event,Australia Tri-Nation Women's T20 Series
+info,match_number,6
+info,venue,Junction Oval
+info,city,Melbourne
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,S Molineux
+info,umpire,CA Polosak
+info,umpire,DM Koch
+info,reserve_umpire,MW Graham-Smith
+info,tv_umpire,AK Wilds
+info,match_referee,RW Stratford
+info,winner,Australia
+info,winner_runs,16
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,A Gardner
+info,player,Australia,MM Lanning
+info,player,Australia,EA Perry
+info,player,Australia,RL Haynes
+info,player,Australia,S Molineux
+info,player,Australia,NJ Carey
+info,player,Australia,JL Jonassen
+info,player,Australia,TJ Vlaeminck
+info,player,Australia,ML Schutt
+info,player,England,AE Jones
+info,player,England,DN Wyatt
+info,player,England,NR Sciver
+info,player,England,HC Knight
+info,player,England,FC Wilson
+info,player,England,TT Beaumont
+info,player,England,KH Brunt
+info,player,England,L Winfield
+info,player,England,A Shrubsole
+info,player,England,S Ecclestone
+info,player,England,S Glenn
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AJ Healy,321644de
+info,registry,people,AK Wilds,de412f40
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,DM Koch,6d10c034
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,EA Perry,be150fc8
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,KH Brunt,6a434bd3
+info,registry,people,L Winfield,5230a33d
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Molineux,99e23670
+info,registry,people,TJ Vlaeminck,ef70a34b
+info,registry,people,TT Beaumont,b2664905
+ball,1,0.1,Australia,AJ Healy,BL Mooney,KH Brunt,0,0,,,,,,"",""
+ball,1,0.2,Australia,AJ Healy,BL Mooney,KH Brunt,0,0,,,,,,"",""
+ball,1,0.3,Australia,AJ Healy,BL Mooney,KH Brunt,1,0,,,,,,"",""
+ball,1,0.4,Australia,BL Mooney,AJ Healy,KH Brunt,1,0,,,,,,"",""
+ball,1,0.5,Australia,AJ Healy,BL Mooney,KH Brunt,0,0,,,,,,caught,AJ Healy
+ball,1,0.6,Australia,BL Mooney,A Gardner,KH Brunt,0,0,,,,,,"",""
+ball,1,1.1,Australia,A Gardner,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,1,1.2,Australia,BL Mooney,A Gardner,NR Sciver,0,0,,,,,,"",""
+ball,1,1.3,Australia,BL Mooney,A Gardner,NR Sciver,1,0,,,,,,"",""
+ball,1,1.4,Australia,A Gardner,BL Mooney,NR Sciver,4,0,,,,,,"",""
+ball,1,1.5,Australia,A Gardner,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,1,1.6,Australia,A Gardner,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,1,2.1,Australia,A Gardner,BL Mooney,KH Brunt,1,0,,,,,,"",""
+ball,1,2.2,Australia,BL Mooney,A Gardner,KH Brunt,1,0,,,,,,"",""
+ball,1,2.3,Australia,A Gardner,BL Mooney,KH Brunt,0,0,,,,,,"",""
+ball,1,2.4,Australia,A Gardner,BL Mooney,KH Brunt,0,0,,,,,,"",""
+ball,1,2.5,Australia,A Gardner,BL Mooney,KH Brunt,0,0,,,,,,"",""
+ball,1,2.6,Australia,A Gardner,BL Mooney,KH Brunt,1,0,,,,,,"",""
+ball,1,3.1,Australia,A Gardner,BL Mooney,S Ecclestone,1,0,,,,,,"",""
+ball,1,3.2,Australia,BL Mooney,A Gardner,S Ecclestone,1,0,,,,,,"",""
+ball,1,3.3,Australia,A Gardner,BL Mooney,S Ecclestone,1,0,,,,,,"",""
+ball,1,3.4,Australia,BL Mooney,A Gardner,S Ecclestone,1,0,,,,,,"",""
+ball,1,3.5,Australia,A Gardner,BL Mooney,S Ecclestone,0,0,,,,,,bowled,A Gardner
+ball,1,3.6,Australia,MM Lanning,BL Mooney,S Ecclestone,0,0,,,,,,"",""
+ball,1,4.1,Australia,BL Mooney,MM Lanning,A Shrubsole,0,0,,,,,,"",""
+ball,1,4.2,Australia,BL Mooney,MM Lanning,A Shrubsole,4,0,,,,,,"",""
+ball,1,4.3,Australia,BL Mooney,MM Lanning,A Shrubsole,0,1,1,,,,,"",""
+ball,1,4.4,Australia,BL Mooney,MM Lanning,A Shrubsole,4,0,,,,,,"",""
+ball,1,4.5,Australia,BL Mooney,MM Lanning,A Shrubsole,1,0,,,,,,"",""
+ball,1,4.6,Australia,MM Lanning,BL Mooney,A Shrubsole,0,1,1,,,,,"",""
+ball,1,4.7,Australia,MM Lanning,BL Mooney,A Shrubsole,0,0,,,,,,"",""
+ball,1,4.8,Australia,MM Lanning,BL Mooney,A Shrubsole,0,0,,,,,,"",""
+ball,1,5.1,Australia,BL Mooney,MM Lanning,S Ecclestone,1,0,,,,,,"",""
+ball,1,5.2,Australia,MM Lanning,BL Mooney,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.3,Australia,MM Lanning,BL Mooney,S Ecclestone,2,0,,,,,,"",""
+ball,1,5.4,Australia,MM Lanning,BL Mooney,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.5,Australia,MM Lanning,BL Mooney,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.6,Australia,MM Lanning,BL Mooney,S Ecclestone,0,0,,,,,,"",""
+ball,1,6.1,Australia,BL Mooney,MM Lanning,NR Sciver,1,0,,,,,,"",""
+ball,1,6.2,Australia,MM Lanning,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,1,6.3,Australia,BL Mooney,MM Lanning,NR Sciver,0,0,,,,,,"",""
+ball,1,6.4,Australia,BL Mooney,MM Lanning,NR Sciver,1,0,,,,,,"",""
+ball,1,6.5,Australia,MM Lanning,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,1,6.6,Australia,BL Mooney,MM Lanning,NR Sciver,1,0,,,,,,"",""
+ball,1,7.1,Australia,BL Mooney,MM Lanning,S Glenn,2,0,,,,,,"",""
+ball,1,7.2,Australia,BL Mooney,MM Lanning,S Glenn,1,0,,,,,,"",""
+ball,1,7.3,Australia,MM Lanning,BL Mooney,S Glenn,1,0,,,,,,"",""
+ball,1,7.4,Australia,BL Mooney,MM Lanning,S Glenn,0,0,,,,,,"",""
+ball,1,7.5,Australia,BL Mooney,MM Lanning,S Glenn,1,0,,,,,,"",""
+ball,1,7.6,Australia,MM Lanning,BL Mooney,S Glenn,0,0,,,,,,"",""
+ball,1,8.1,Australia,BL Mooney,MM Lanning,A Shrubsole,4,0,,,,,,"",""
+ball,1,8.2,Australia,BL Mooney,MM Lanning,A Shrubsole,1,0,,,,,,"",""
+ball,1,8.3,Australia,MM Lanning,BL Mooney,A Shrubsole,0,0,,,,,,"",""
+ball,1,8.4,Australia,MM Lanning,BL Mooney,A Shrubsole,6,0,,,,,,"",""
+ball,1,8.5,Australia,MM Lanning,BL Mooney,A Shrubsole,1,0,,,,,,"",""
+ball,1,8.6,Australia,BL Mooney,MM Lanning,A Shrubsole,1,0,,,,,,"",""
+ball,1,9.1,Australia,BL Mooney,MM Lanning,S Glenn,1,0,,,,,,"",""
+ball,1,9.2,Australia,MM Lanning,BL Mooney,S Glenn,0,0,,,,,,bowled,MM Lanning
+ball,1,9.3,Australia,EA Perry,BL Mooney,S Glenn,0,0,,,,,,"",""
+ball,1,9.4,Australia,EA Perry,BL Mooney,S Glenn,0,0,,,,,,"",""
+ball,1,9.5,Australia,EA Perry,BL Mooney,S Glenn,0,0,,,,,,"",""
+ball,1,9.6,Australia,EA Perry,BL Mooney,S Glenn,0,0,,,,,,"",""
+ball,1,10.1,Australia,BL Mooney,EA Perry,KH Brunt,0,0,,,,,,"",""
+ball,1,10.2,Australia,BL Mooney,EA Perry,KH Brunt,4,0,,,,,,"",""
+ball,1,10.3,Australia,BL Mooney,EA Perry,KH Brunt,1,0,,,,,,"",""
+ball,1,10.4,Australia,EA Perry,BL Mooney,KH Brunt,0,0,,,,,,"",""
+ball,1,10.5,Australia,EA Perry,BL Mooney,KH Brunt,1,0,,,,,,"",""
+ball,1,10.6,Australia,BL Mooney,EA Perry,KH Brunt,4,0,,,,,,"",""
+ball,1,11.1,Australia,EA Perry,BL Mooney,HC Knight,4,0,,,,,,"",""
+ball,1,11.2,Australia,EA Perry,BL Mooney,HC Knight,4,0,,,,,,"",""
+ball,1,11.3,Australia,EA Perry,BL Mooney,HC Knight,1,0,,,,,,"",""
+ball,1,11.4,Australia,BL Mooney,EA Perry,HC Knight,0,0,,,,,,"",""
+ball,1,11.5,Australia,BL Mooney,EA Perry,HC Knight,4,0,,,,,,"",""
+ball,1,11.6,Australia,BL Mooney,EA Perry,HC Knight,1,0,,,,,,"",""
+ball,1,12.1,Australia,BL Mooney,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,12.2,Australia,BL Mooney,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,1,12.3,Australia,EA Perry,BL Mooney,S Ecclestone,0,0,,,,,,"",""
+ball,1,12.4,Australia,EA Perry,BL Mooney,S Ecclestone,0,0,,,,,,"",""
+ball,1,12.5,Australia,EA Perry,BL Mooney,S Ecclestone,0,0,,,,,,bowled,EA Perry
+ball,1,12.6,Australia,RL Haynes,BL Mooney,S Ecclestone,1,0,,,,,,"",""
+ball,1,13.1,Australia,RL Haynes,BL Mooney,S Glenn,1,0,,,,,,"",""
+ball,1,13.2,Australia,BL Mooney,RL Haynes,S Glenn,1,0,,,,,,"",""
+ball,1,13.3,Australia,RL Haynes,BL Mooney,S Glenn,0,0,,,,,,"",""
+ball,1,13.4,Australia,RL Haynes,BL Mooney,S Glenn,2,0,,,,,,"",""
+ball,1,13.5,Australia,RL Haynes,BL Mooney,S Glenn,0,2,2,,,,,"",""
+ball,1,13.6,Australia,BL Mooney,RL Haynes,S Glenn,1,0,,,,,,"",""
+ball,1,13.7,Australia,RL Haynes,BL Mooney,S Glenn,1,0,,,,,,"",""
+ball,1,14.1,Australia,RL Haynes,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,1,14.2,Australia,BL Mooney,RL Haynes,NR Sciver,1,0,,,,,,"",""
+ball,1,14.3,Australia,RL Haynes,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,1,14.4,Australia,RL Haynes,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,1,14.5,Australia,BL Mooney,RL Haynes,NR Sciver,1,0,,,,,,"",""
+ball,1,14.6,Australia,RL Haynes,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,1,15.1,Australia,BL Mooney,RL Haynes,S Glenn,1,0,,,,,,"",""
+ball,1,15.2,Australia,RL Haynes,BL Mooney,S Glenn,0,0,,,,,,"",""
+ball,1,15.3,Australia,RL Haynes,BL Mooney,S Glenn,1,0,,,,,,"",""
+ball,1,15.4,Australia,BL Mooney,RL Haynes,S Glenn,1,0,,,,,,"",""
+ball,1,15.5,Australia,RL Haynes,BL Mooney,S Glenn,1,0,,,,,,"",""
+ball,1,15.6,Australia,BL Mooney,RL Haynes,S Glenn,0,0,,,,,,bowled,BL Mooney
+ball,1,16.1,Australia,RL Haynes,S Molineux,A Shrubsole,1,0,,,,,,"",""
+ball,1,16.2,Australia,S Molineux,RL Haynes,A Shrubsole,0,0,,,,,,"",""
+ball,1,16.3,Australia,S Molineux,RL Haynes,A Shrubsole,1,0,,,,,,"",""
+ball,1,16.4,Australia,RL Haynes,S Molineux,A Shrubsole,0,1,1,,,,,"",""
+ball,1,16.5,Australia,RL Haynes,S Molineux,A Shrubsole,6,0,,,,,,"",""
+ball,1,16.6,Australia,RL Haynes,S Molineux,A Shrubsole,1,0,,,,,,"",""
+ball,1,16.7,Australia,S Molineux,RL Haynes,A Shrubsole,1,0,,,,,,"",""
+ball,1,17.1,Australia,S Molineux,RL Haynes,S Ecclestone,1,0,,,,,,"",""
+ball,1,17.2,Australia,RL Haynes,S Molineux,S Ecclestone,4,0,,,,,,"",""
+ball,1,17.3,Australia,RL Haynes,S Molineux,S Ecclestone,0,0,,,,,,"",""
+ball,1,17.4,Australia,RL Haynes,S Molineux,S Ecclestone,1,0,,,,,,"",""
+ball,1,17.5,Australia,S Molineux,RL Haynes,S Ecclestone,4,0,,,,,,"",""
+ball,1,17.6,Australia,S Molineux,RL Haynes,S Ecclestone,0,0,,,,,,"",""
+ball,1,18.1,Australia,RL Haynes,S Molineux,NR Sciver,2,0,,,,,,"",""
+ball,1,18.2,Australia,RL Haynes,S Molineux,NR Sciver,0,0,,,,,,"",""
+ball,1,18.3,Australia,RL Haynes,S Molineux,NR Sciver,0,0,,,,,,caught,RL Haynes
+ball,1,18.4,Australia,NJ Carey,S Molineux,NR Sciver,1,0,,,,,,"",""
+ball,1,18.5,Australia,S Molineux,NJ Carey,NR Sciver,2,0,,,,,,"",""
+ball,1,18.6,Australia,S Molineux,NJ Carey,NR Sciver,1,0,,,,,,"",""
+ball,1,19.1,Australia,S Molineux,NJ Carey,KH Brunt,1,0,,,,,,run out,S Molineux
+ball,1,19.2,Australia,JL Jonassen,NJ Carey,KH Brunt,0,0,,,,,,"",""
+ball,1,19.3,Australia,JL Jonassen,NJ Carey,KH Brunt,0,1,1,,,,,"",""
+ball,1,19.4,Australia,JL Jonassen,NJ Carey,KH Brunt,1,0,,,,,,"",""
+ball,1,19.5,Australia,NJ Carey,JL Jonassen,KH Brunt,1,0,,,,,,"",""
+ball,1,19.6,Australia,JL Jonassen,NJ Carey,KH Brunt,4,0,,,,,,"",""
+ball,1,19.7,Australia,JL Jonassen,NJ Carey,KH Brunt,1,0,,,,,,"",""
+ball,2,0.1,England,AE Jones,DN Wyatt,ML Schutt,1,0,,,,,,"",""
+ball,2,0.2,England,DN Wyatt,AE Jones,ML Schutt,0,0,,,,,,"",""
+ball,2,0.3,England,DN Wyatt,AE Jones,ML Schutt,0,1,,1,,,,"",""
+ball,2,0.4,England,DN Wyatt,AE Jones,ML Schutt,1,0,,,,,,"",""
+ball,2,0.5,England,AE Jones,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,0.6,England,AE Jones,DN Wyatt,ML Schutt,1,0,,,,,,"",""
+ball,2,0.7,England,DN Wyatt,AE Jones,ML Schutt,0,0,,,,,,"",""
+ball,2,1.1,England,AE Jones,DN Wyatt,EA Perry,0,0,,,,,,"",""
+ball,2,1.2,England,AE Jones,DN Wyatt,EA Perry,1,0,,,,,,"",""
+ball,2,1.3,England,DN Wyatt,AE Jones,EA Perry,4,0,,,,,,"",""
+ball,2,1.4,England,DN Wyatt,AE Jones,EA Perry,0,0,,,,,,"",""
+ball,2,1.5,England,DN Wyatt,AE Jones,EA Perry,1,0,,,,,,"",""
+ball,2,1.6,England,AE Jones,DN Wyatt,EA Perry,0,0,,,,,,"",""
+ball,2,2.1,England,DN Wyatt,AE Jones,ML Schutt,4,0,,,,,,"",""
+ball,2,2.2,England,DN Wyatt,AE Jones,ML Schutt,0,0,,,,,,"",""
+ball,2,2.3,England,DN Wyatt,AE Jones,ML Schutt,0,0,,,,,,"",""
+ball,2,2.4,England,DN Wyatt,AE Jones,ML Schutt,1,0,,,,,,"",""
+ball,2,2.5,England,AE Jones,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,2.6,England,AE Jones,DN Wyatt,ML Schutt,0,4,,,4,,,"",""
+ball,2,3.1,England,DN Wyatt,AE Jones,TJ Vlaeminck,0,1,,1,,,,"",""
+ball,2,3.2,England,DN Wyatt,AE Jones,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,3.3,England,DN Wyatt,AE Jones,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,3.4,England,DN Wyatt,AE Jones,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,3.5,England,DN Wyatt,AE Jones,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,3.6,England,DN Wyatt,AE Jones,TJ Vlaeminck,0,1,1,,,,,"",""
+ball,2,3.7,England,DN Wyatt,AE Jones,TJ Vlaeminck,0,0,,,,,,caught,DN Wyatt
+ball,2,3.8,England,NR Sciver,AE Jones,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,4.1,England,AE Jones,NR Sciver,EA Perry,0,0,,,,,,"",""
+ball,2,4.2,England,AE Jones,NR Sciver,EA Perry,1,0,,,,,,"",""
+ball,2,4.3,England,NR Sciver,AE Jones,EA Perry,4,0,,,,,,"",""
+ball,2,4.4,England,NR Sciver,AE Jones,EA Perry,0,0,,,,,,"",""
+ball,2,4.5,England,NR Sciver,AE Jones,EA Perry,4,0,,,,,,"",""
+ball,2,4.6,England,NR Sciver,AE Jones,EA Perry,2,0,,,,,,"",""
+ball,2,5.1,England,AE Jones,NR Sciver,TJ Vlaeminck,0,1,1,,,,,"",""
+ball,2,5.2,England,AE Jones,NR Sciver,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,5.3,England,AE Jones,NR Sciver,TJ Vlaeminck,4,0,,,,,,"",""
+ball,2,5.4,England,AE Jones,NR Sciver,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,5.5,England,AE Jones,NR Sciver,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,5.6,England,NR Sciver,AE Jones,TJ Vlaeminck,0,1,,,,1,,"",""
+ball,2,5.7,England,AE Jones,NR Sciver,TJ Vlaeminck,0,0,,,,,,bowled,AE Jones
+ball,2,6.1,England,NR Sciver,HC Knight,NJ Carey,1,0,,,,,,"",""
+ball,2,6.2,England,HC Knight,NR Sciver,NJ Carey,1,0,,,,,,"",""
+ball,2,6.3,England,NR Sciver,HC Knight,NJ Carey,1,0,,,,,,"",""
+ball,2,6.4,England,HC Knight,NR Sciver,NJ Carey,1,0,,,,,,"",""
+ball,2,6.5,England,NR Sciver,HC Knight,NJ Carey,0,0,,,,,,"",""
+ball,2,6.6,England,NR Sciver,HC Knight,NJ Carey,4,0,,,,,,"",""
+ball,2,7.1,England,HC Knight,NR Sciver,TJ Vlaeminck,4,0,,,,,,"",""
+ball,2,7.2,England,HC Knight,NR Sciver,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,7.3,England,HC Knight,NR Sciver,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,7.4,England,HC Knight,NR Sciver,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,7.5,England,HC Knight,NR Sciver,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,7.6,England,HC Knight,NR Sciver,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,8.1,England,HC Knight,NR Sciver,S Molineux,1,0,,,,,,"",""
+ball,2,8.2,England,NR Sciver,HC Knight,S Molineux,0,0,,,,,,"",""
+ball,2,8.3,England,NR Sciver,HC Knight,S Molineux,0,0,,,,,,caught,NR Sciver
+ball,2,8.4,England,HC Knight,FC Wilson,S Molineux,1,0,,,,,,"",""
+ball,2,8.5,England,FC Wilson,HC Knight,S Molineux,0,0,,,,,,"",""
+ball,2,8.6,England,FC Wilson,HC Knight,S Molineux,0,1,1,,,,,"",""
+ball,2,8.7,England,FC Wilson,HC Knight,S Molineux,0,0,,,,,,"",""
+ball,2,9.1,England,HC Knight,FC Wilson,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,9.2,England,FC Wilson,HC Knight,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,9.3,England,HC Knight,FC Wilson,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,9.4,England,HC Knight,FC Wilson,TJ Vlaeminck,2,0,,,,,,"",""
+ball,2,9.5,England,HC Knight,FC Wilson,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,9.6,England,HC Knight,FC Wilson,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,10.1,England,HC Knight,FC Wilson,S Molineux,0,0,,,,,,stumped,HC Knight
+ball,2,10.2,England,TT Beaumont,FC Wilson,S Molineux,1,0,,,,,,"",""
+ball,2,10.3,England,FC Wilson,TT Beaumont,S Molineux,1,0,,,,,,"",""
+ball,2,10.4,England,TT Beaumont,FC Wilson,S Molineux,1,0,,,,,,"",""
+ball,2,10.5,England,FC Wilson,TT Beaumont,S Molineux,0,0,,,,,,"",""
+ball,2,10.6,England,FC Wilson,TT Beaumont,S Molineux,0,0,,,,,,"",""
+ball,2,11.1,England,TT Beaumont,FC Wilson,JL Jonassen,2,0,,,,,,"",""
+ball,2,11.2,England,TT Beaumont,FC Wilson,JL Jonassen,0,0,,,,,,"",""
+ball,2,11.3,England,TT Beaumont,FC Wilson,JL Jonassen,1,0,,,,,,"",""
+ball,2,11.4,England,FC Wilson,TT Beaumont,JL Jonassen,0,0,,,,,,stumped,FC Wilson
+ball,2,11.5,England,KH Brunt,TT Beaumont,JL Jonassen,0,0,,,,,,"",""
+ball,2,11.6,England,KH Brunt,TT Beaumont,JL Jonassen,2,0,,,,,,"",""
+ball,2,12.1,England,TT Beaumont,KH Brunt,S Molineux,0,0,,,,,,"",""
+ball,2,12.2,England,TT Beaumont,KH Brunt,S Molineux,0,0,,,,,,"",""
+ball,2,12.3,England,TT Beaumont,KH Brunt,S Molineux,1,0,,,,,,"",""
+ball,2,12.4,England,KH Brunt,TT Beaumont,S Molineux,1,0,,,,,,"",""
+ball,2,12.5,England,TT Beaumont,KH Brunt,S Molineux,0,0,,,,,,bowled,TT Beaumont
+ball,2,12.6,England,L Winfield,KH Brunt,S Molineux,0,0,,,,,,"",""
+ball,2,13.1,England,KH Brunt,L Winfield,JL Jonassen,0,1,1,,,,,"",""
+ball,2,13.2,England,KH Brunt,L Winfield,JL Jonassen,1,0,,,,,,"",""
+ball,2,13.3,England,L Winfield,KH Brunt,JL Jonassen,0,0,,,,,,"",""
+ball,2,13.4,England,L Winfield,KH Brunt,JL Jonassen,0,0,,,,,,"",""
+ball,2,13.5,England,L Winfield,KH Brunt,JL Jonassen,0,0,,,,,,"",""
+ball,2,13.6,England,L Winfield,KH Brunt,JL Jonassen,0,0,,,,,,"",""
+ball,2,13.7,England,L Winfield,KH Brunt,JL Jonassen,1,0,,,,,,"",""
+ball,2,14.1,England,L Winfield,KH Brunt,S Molineux,1,0,,,,,,"",""
+ball,2,14.2,England,KH Brunt,L Winfield,S Molineux,4,0,,,,,,"",""
+ball,2,14.3,England,KH Brunt,L Winfield,S Molineux,1,0,,,,,,"",""
+ball,2,14.4,England,L Winfield,KH Brunt,S Molineux,0,0,,,,,,"",""
+ball,2,14.5,England,L Winfield,KH Brunt,S Molineux,4,0,,,,,,"",""
+ball,2,14.6,England,L Winfield,KH Brunt,S Molineux,1,0,,,,,,"",""
+ball,2,15.1,England,L Winfield,KH Brunt,ML Schutt,2,0,,,,,,"",""
+ball,2,15.2,England,L Winfield,KH Brunt,ML Schutt,1,0,,,,,,"",""
+ball,2,15.3,England,KH Brunt,L Winfield,ML Schutt,0,1,,,,1,,"",""
+ball,2,15.4,England,L Winfield,KH Brunt,ML Schutt,1,0,,,,,,"",""
+ball,2,15.5,England,KH Brunt,L Winfield,ML Schutt,1,0,,,,,,"",""
+ball,2,15.6,England,L Winfield,KH Brunt,ML Schutt,0,0,,,,,,"",""
+ball,2,16.1,England,KH Brunt,L Winfield,NJ Carey,1,0,,,,,,"",""
+ball,2,16.2,England,L Winfield,KH Brunt,NJ Carey,4,0,,,,,,"",""
+ball,2,16.3,England,L Winfield,KH Brunt,NJ Carey,1,0,,,,,,"",""
+ball,2,16.4,England,KH Brunt,L Winfield,NJ Carey,0,0,,,,,,"",""
+ball,2,16.5,England,KH Brunt,L Winfield,NJ Carey,1,0,,,,,,"",""
+ball,2,16.6,England,L Winfield,KH Brunt,NJ Carey,1,0,,,,,,"",""
+ball,2,17.1,England,L Winfield,KH Brunt,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.2,England,KH Brunt,L Winfield,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.3,England,L Winfield,KH Brunt,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.4,England,KH Brunt,L Winfield,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.5,England,L Winfield,KH Brunt,JL Jonassen,0,0,,,,,,"",""
+ball,2,17.6,England,L Winfield,KH Brunt,JL Jonassen,0,0,,,,,,"",""
+ball,2,18.1,England,KH Brunt,L Winfield,ML Schutt,1,0,,,,,,"",""
+ball,2,18.2,England,L Winfield,KH Brunt,ML Schutt,0,0,,,,,,"",""
+ball,2,18.3,England,L Winfield,KH Brunt,ML Schutt,4,0,,,,,,"",""
+ball,2,18.4,England,L Winfield,KH Brunt,ML Schutt,0,0,,,,,,caught,L Winfield
+ball,2,18.5,England,A Shrubsole,KH Brunt,ML Schutt,0,0,,,,,,"",""
+ball,2,18.6,England,A Shrubsole,KH Brunt,ML Schutt,0,0,,,,,,"",""
+ball,2,19.1,England,KH Brunt,A Shrubsole,JL Jonassen,0,0,,,,,,"",""
+ball,2,19.2,England,KH Brunt,A Shrubsole,JL Jonassen,1,0,,,,,,"",""
+ball,2,19.3,England,A Shrubsole,KH Brunt,JL Jonassen,1,0,,,,,,"",""
+ball,2,19.4,England,KH Brunt,A Shrubsole,JL Jonassen,2,0,,,,,,"",""
+ball,2,19.5,England,KH Brunt,A Shrubsole,JL Jonassen,4,0,,,,,,"",""
+ball,2,19.6,England,KH Brunt,A Shrubsole,JL Jonassen,1,0,,,,,,"",""

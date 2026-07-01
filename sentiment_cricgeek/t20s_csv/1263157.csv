@@ -1,0 +1,325 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2021
+info,date,2021/07/10
+info,event,Australia tour of West Indies
+info,match_number,2
+info,venue,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+info,city,Gros Islet
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,SO Hetmyer
+info,umpire,GO Brathwaite
+info,umpire,JS Wilson
+info,reserve_umpire,LS Reifer
+info,tv_umpire,PA Gustard
+info,match_referee,RB Richardson
+info,winner,West Indies
+info,winner_runs,56
+info,player,West Indies,LMP Simmons
+info,player,West Indies,ADS Fletcher
+info,player,West Indies,CH Gayle
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,DJ Bravo
+info,player,West Indies,AD Russell
+info,player,West Indies,N Pooran
+info,player,West Indies,FA Allen
+info,player,West Indies,HR Walsh
+info,player,West Indies,SS Cottrell
+info,player,West Indies,FH Edwards
+info,player,Australia,MS Wade
+info,player,Australia,AJ Finch
+info,player,Australia,MR Marsh
+info,player,Australia,JR Philippe
+info,player,Australia,MC Henriques
+info,player,Australia,BR McDermott
+info,player,Australia,DT Christian
+info,player,Australia,AC Agar
+info,player,Australia,MA Starc
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Zampa,14f96089
+info,registry,people,AC Agar,a2421394
+info,registry,people,AD Russell,bbd41817
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CH Gayle,db584dad
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,JR Philippe,39086549
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,LMP Simmons,89f64c19
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SS Cottrell,a1d053dd
+ball,1,0.1,West Indies,LMP Simmons,ADS Fletcher,MA Starc,0,0,,,,,,"",""
+ball,1,0.2,West Indies,LMP Simmons,ADS Fletcher,MA Starc,1,0,,,,,,"",""
+ball,1,0.3,West Indies,ADS Fletcher,LMP Simmons,MA Starc,2,0,,,,,,"",""
+ball,1,0.4,West Indies,ADS Fletcher,LMP Simmons,MA Starc,0,0,,,,,,"",""
+ball,1,0.5,West Indies,ADS Fletcher,LMP Simmons,MA Starc,0,0,,,,,,"",""
+ball,1,0.6,West Indies,ADS Fletcher,LMP Simmons,MA Starc,6,0,,,,,,"",""
+ball,1,1.1,West Indies,LMP Simmons,ADS Fletcher,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.2,West Indies,LMP Simmons,ADS Fletcher,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.3,West Indies,LMP Simmons,ADS Fletcher,JR Hazlewood,1,0,,,,,,"",""
+ball,1,1.4,West Indies,ADS Fletcher,LMP Simmons,JR Hazlewood,1,0,,,,,,"",""
+ball,1,1.5,West Indies,LMP Simmons,ADS Fletcher,JR Hazlewood,0,1,,,,1,,"",""
+ball,1,1.6,West Indies,ADS Fletcher,LMP Simmons,JR Hazlewood,0,0,,,,,,"",""
+ball,1,2.1,West Indies,LMP Simmons,ADS Fletcher,AC Agar,0,0,,,,,,"",""
+ball,1,2.2,West Indies,LMP Simmons,ADS Fletcher,AC Agar,0,0,,,,,,"",""
+ball,1,2.3,West Indies,LMP Simmons,ADS Fletcher,AC Agar,1,0,,,,,,"",""
+ball,1,2.4,West Indies,ADS Fletcher,LMP Simmons,AC Agar,0,0,,,,,,bowled,ADS Fletcher
+ball,1,2.5,West Indies,CH Gayle,LMP Simmons,AC Agar,0,0,,,,,,"",""
+ball,1,2.6,West Indies,CH Gayle,LMP Simmons,AC Agar,0,0,,,,,,"",""
+ball,1,3.1,West Indies,LMP Simmons,CH Gayle,JR Hazlewood,0,0,,,,,,"",""
+ball,1,3.2,West Indies,LMP Simmons,CH Gayle,JR Hazlewood,4,0,,,,,,"",""
+ball,1,3.3,West Indies,LMP Simmons,CH Gayle,JR Hazlewood,6,0,,,,,,"",""
+ball,1,3.4,West Indies,LMP Simmons,CH Gayle,JR Hazlewood,1,0,,,,,,"",""
+ball,1,3.5,West Indies,CH Gayle,LMP Simmons,JR Hazlewood,1,0,,,,,,"",""
+ball,1,3.6,West Indies,LMP Simmons,CH Gayle,JR Hazlewood,2,0,,,,,,"",""
+ball,1,4.1,West Indies,CH Gayle,LMP Simmons,MA Starc,0,0,,,,,,"",""
+ball,1,4.2,West Indies,CH Gayle,LMP Simmons,MA Starc,1,0,,,,,,"",""
+ball,1,4.3,West Indies,LMP Simmons,CH Gayle,MA Starc,6,0,,,,,,"",""
+ball,1,4.4,West Indies,LMP Simmons,CH Gayle,MA Starc,0,1,,1,,,,"",""
+ball,1,4.5,West Indies,LMP Simmons,CH Gayle,MA Starc,0,0,,,,,,"",""
+ball,1,4.6,West Indies,LMP Simmons,CH Gayle,MA Starc,0,0,,,,,,"",""
+ball,1,4.7,West Indies,LMP Simmons,CH Gayle,MA Starc,2,0,,,,,,"",""
+ball,1,5.1,West Indies,CH Gayle,LMP Simmons,JR Hazlewood,1,0,,,,,,"",""
+ball,1,5.2,West Indies,LMP Simmons,CH Gayle,JR Hazlewood,6,0,,,,,,"",""
+ball,1,5.3,West Indies,LMP Simmons,CH Gayle,JR Hazlewood,0,0,,,,,,caught,LMP Simmons
+ball,1,5.4,West Indies,SO Hetmyer,CH Gayle,JR Hazlewood,1,0,,,,,,"",""
+ball,1,5.5,West Indies,CH Gayle,SO Hetmyer,JR Hazlewood,0,0,,,,,,"",""
+ball,1,5.6,West Indies,CH Gayle,SO Hetmyer,JR Hazlewood,1,0,,,,,,"",""
+ball,1,6.1,West Indies,CH Gayle,SO Hetmyer,A Zampa,1,0,,,,,,"",""
+ball,1,6.2,West Indies,SO Hetmyer,CH Gayle,A Zampa,1,0,,,,,,"",""
+ball,1,6.3,West Indies,CH Gayle,SO Hetmyer,A Zampa,0,1,1,,,,,"",""
+ball,1,6.4,West Indies,CH Gayle,SO Hetmyer,A Zampa,4,0,,,,,,"",""
+ball,1,6.5,West Indies,CH Gayle,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,6.6,West Indies,CH Gayle,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,6.7,West Indies,CH Gayle,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,7.1,West Indies,SO Hetmyer,CH Gayle,MR Marsh,1,0,,,,,,"",""
+ball,1,7.2,West Indies,CH Gayle,SO Hetmyer,MR Marsh,4,0,,,,,,"",""
+ball,1,7.3,West Indies,CH Gayle,SO Hetmyer,MR Marsh,0,1,1,,,,,"",""
+ball,1,7.4,West Indies,CH Gayle,SO Hetmyer,MR Marsh,0,0,,,,,,"",""
+ball,1,7.5,West Indies,CH Gayle,SO Hetmyer,MR Marsh,0,0,,,,,,bowled,CH Gayle
+ball,1,7.6,West Indies,DJ Bravo,SO Hetmyer,MR Marsh,0,0,,,,,,"",""
+ball,1,7.7,West Indies,DJ Bravo,SO Hetmyer,MR Marsh,0,0,,,,,,"",""
+ball,1,8.1,West Indies,SO Hetmyer,DJ Bravo,AC Agar,1,0,,,,,,"",""
+ball,1,8.2,West Indies,DJ Bravo,SO Hetmyer,AC Agar,0,1,1,,,,,"",""
+ball,1,8.3,West Indies,DJ Bravo,SO Hetmyer,AC Agar,0,0,,,,,,"",""
+ball,1,8.4,West Indies,DJ Bravo,SO Hetmyer,AC Agar,1,0,,,,,,"",""
+ball,1,8.5,West Indies,SO Hetmyer,DJ Bravo,AC Agar,1,0,,,,,,"",""
+ball,1,8.6,West Indies,DJ Bravo,SO Hetmyer,AC Agar,1,0,,,,,,"",""
+ball,1,8.7,West Indies,SO Hetmyer,DJ Bravo,AC Agar,1,0,,,,,,"",""
+ball,1,9.1,West Indies,SO Hetmyer,DJ Bravo,A Zampa,3,0,,,,,,"",""
+ball,1,9.2,West Indies,DJ Bravo,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,9.3,West Indies,DJ Bravo,SO Hetmyer,A Zampa,1,0,,,,,,"",""
+ball,1,9.4,West Indies,SO Hetmyer,DJ Bravo,A Zampa,2,0,,,,,,"",""
+ball,1,9.5,West Indies,SO Hetmyer,DJ Bravo,A Zampa,1,0,,,,,,"",""
+ball,1,9.6,West Indies,DJ Bravo,SO Hetmyer,A Zampa,1,0,,,,,,"",""
+ball,1,10.1,West Indies,DJ Bravo,SO Hetmyer,AC Agar,1,0,,,,,,"",""
+ball,1,10.2,West Indies,SO Hetmyer,DJ Bravo,AC Agar,0,0,,,,,,"",""
+ball,1,10.3,West Indies,SO Hetmyer,DJ Bravo,AC Agar,1,0,,,,,,"",""
+ball,1,10.4,West Indies,DJ Bravo,SO Hetmyer,AC Agar,2,0,,,,,,"",""
+ball,1,10.5,West Indies,DJ Bravo,SO Hetmyer,AC Agar,0,0,,,,,,"",""
+ball,1,10.6,West Indies,DJ Bravo,SO Hetmyer,AC Agar,1,0,,,,,,"",""
+ball,1,11.1,West Indies,DJ Bravo,SO Hetmyer,A Zampa,1,0,,,,,,"",""
+ball,1,11.2,West Indies,SO Hetmyer,DJ Bravo,A Zampa,1,0,,,,,,"",""
+ball,1,11.3,West Indies,DJ Bravo,SO Hetmyer,A Zampa,6,0,,,,,,"",""
+ball,1,11.4,West Indies,DJ Bravo,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,11.5,West Indies,DJ Bravo,SO Hetmyer,A Zampa,2,0,,,,,,"",""
+ball,1,11.6,West Indies,DJ Bravo,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,12.1,West Indies,SO Hetmyer,DJ Bravo,AC Agar,0,0,,,,,,"",""
+ball,1,12.2,West Indies,SO Hetmyer,DJ Bravo,AC Agar,6,0,,,,,,"",""
+ball,1,12.3,West Indies,SO Hetmyer,DJ Bravo,AC Agar,1,0,,,,,,"",""
+ball,1,12.4,West Indies,DJ Bravo,SO Hetmyer,AC Agar,0,1,1,,,,,"",""
+ball,1,12.5,West Indies,DJ Bravo,SO Hetmyer,AC Agar,6,0,,,,,,"",""
+ball,1,12.6,West Indies,DJ Bravo,SO Hetmyer,AC Agar,1,0,,,,,,"",""
+ball,1,12.7,West Indies,SO Hetmyer,DJ Bravo,AC Agar,1,0,,,,,,"",""
+ball,1,13.1,West Indies,SO Hetmyer,DJ Bravo,MR Marsh,1,0,,,,,,"",""
+ball,1,13.2,West Indies,DJ Bravo,SO Hetmyer,MR Marsh,1,0,,,,,,"",""
+ball,1,13.3,West Indies,SO Hetmyer,DJ Bravo,MR Marsh,6,0,,,,,,"",""
+ball,1,13.4,West Indies,SO Hetmyer,DJ Bravo,MR Marsh,2,0,,,,,,"",""
+ball,1,13.5,West Indies,SO Hetmyer,DJ Bravo,MR Marsh,1,0,,,,,,"",""
+ball,1,13.6,West Indies,DJ Bravo,SO Hetmyer,MR Marsh,0,1,1,,,,,"",""
+ball,1,13.7,West Indies,DJ Bravo,SO Hetmyer,MR Marsh,0,2,,,,2,,"",""
+ball,1,14.1,West Indies,SO Hetmyer,DJ Bravo,A Zampa,6,0,,,,,,"",""
+ball,1,14.2,West Indies,SO Hetmyer,DJ Bravo,A Zampa,1,0,,,,,,"",""
+ball,1,14.3,West Indies,DJ Bravo,SO Hetmyer,A Zampa,1,0,,,,,,"",""
+ball,1,14.4,West Indies,SO Hetmyer,DJ Bravo,A Zampa,0,0,,,,,,"",""
+ball,1,14.5,West Indies,SO Hetmyer,DJ Bravo,A Zampa,1,0,,,,,,"",""
+ball,1,14.6,West Indies,DJ Bravo,SO Hetmyer,A Zampa,2,0,,,,,,"",""
+ball,1,15.1,West Indies,SO Hetmyer,DJ Bravo,DT Christian,1,0,,,,,,"",""
+ball,1,15.2,West Indies,DJ Bravo,SO Hetmyer,DT Christian,1,0,,,,,,"",""
+ball,1,15.3,West Indies,SO Hetmyer,DJ Bravo,DT Christian,2,0,,,,,,"",""
+ball,1,15.4,West Indies,SO Hetmyer,DJ Bravo,DT Christian,1,0,,,,,,"",""
+ball,1,15.5,West Indies,DJ Bravo,SO Hetmyer,DT Christian,1,0,,,,,,"",""
+ball,1,15.6,West Indies,SO Hetmyer,DJ Bravo,DT Christian,0,0,,,,,,"",""
+ball,1,16.1,West Indies,DJ Bravo,SO Hetmyer,MA Starc,0,0,,,,,,"",""
+ball,1,16.2,West Indies,DJ Bravo,SO Hetmyer,MA Starc,1,0,,,,,,"",""
+ball,1,16.3,West Indies,SO Hetmyer,DJ Bravo,MA Starc,6,0,,,,,,"",""
+ball,1,16.4,West Indies,SO Hetmyer,DJ Bravo,MA Starc,0,0,,,,,,"",""
+ball,1,16.5,West Indies,SO Hetmyer,DJ Bravo,MA Starc,1,0,,,,,,"",""
+ball,1,16.6,West Indies,DJ Bravo,SO Hetmyer,MA Starc,6,0,,,,,,"",""
+ball,1,17.1,West Indies,SO Hetmyer,DJ Bravo,JR Hazlewood,0,1,,,,1,,"",""
+ball,1,17.2,West Indies,DJ Bravo,SO Hetmyer,JR Hazlewood,1,1,,1,,,,"",""
+ball,1,17.3,West Indies,SO Hetmyer,DJ Bravo,JR Hazlewood,4,0,,,,,,"",""
+ball,1,17.4,West Indies,SO Hetmyer,DJ Bravo,JR Hazlewood,4,0,,,,,,"",""
+ball,1,17.5,West Indies,SO Hetmyer,DJ Bravo,JR Hazlewood,2,0,,,,,,"",""
+ball,1,17.6,West Indies,SO Hetmyer,DJ Bravo,JR Hazlewood,0,0,,,,,,run out,SO Hetmyer
+ball,1,17.7,West Indies,DJ Bravo,AD Russell,JR Hazlewood,2,0,,,,,,"",""
+ball,1,18.1,West Indies,AD Russell,DJ Bravo,MA Starc,0,0,,,,,,"",""
+ball,1,18.2,West Indies,AD Russell,DJ Bravo,MA Starc,4,0,,,,,,"",""
+ball,1,18.3,West Indies,AD Russell,DJ Bravo,MA Starc,6,0,,,,,,"",""
+ball,1,18.4,West Indies,AD Russell,DJ Bravo,MA Starc,1,0,,,,,,"",""
+ball,1,18.5,West Indies,DJ Bravo,AD Russell,MA Starc,4,0,,,,,,"",""
+ball,1,18.6,West Indies,DJ Bravo,AD Russell,MA Starc,1,0,,,,,,"",""
+ball,1,19.1,West Indies,DJ Bravo,AD Russell,DT Christian,0,1,1,,,,,"",""
+ball,1,19.2,West Indies,DJ Bravo,AD Russell,DT Christian,1,0,,,,,,"",""
+ball,1,19.3,West Indies,AD Russell,DJ Bravo,DT Christian,4,0,,,,,,"",""
+ball,1,19.4,West Indies,AD Russell,DJ Bravo,DT Christian,2,0,,,,,,"",""
+ball,1,19.5,West Indies,AD Russell,DJ Bravo,DT Christian,1,0,,,,,,"",""
+ball,1,19.6,West Indies,DJ Bravo,AD Russell,DT Christian,1,0,,,,,,"",""
+ball,1,19.7,West Indies,AD Russell,DJ Bravo,DT Christian,6,0,,,,,,"",""
+ball,2,0.1,Australia,MS Wade,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.2,Australia,MS Wade,AJ Finch,SS Cottrell,0,0,,,,,,caught,MS Wade
+ball,2,0.3,Australia,MR Marsh,AJ Finch,SS Cottrell,4,0,,,,,,"",""
+ball,2,0.4,Australia,MR Marsh,AJ Finch,SS Cottrell,0,1,1,,,,,"",""
+ball,2,0.5,Australia,MR Marsh,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.6,Australia,MR Marsh,AJ Finch,SS Cottrell,4,0,,,,,,"",""
+ball,2,0.7,Australia,MR Marsh,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,1.1,Australia,AJ Finch,MR Marsh,FH Edwards,0,0,,,,,,"",""
+ball,2,1.2,Australia,AJ Finch,MR Marsh,FH Edwards,2,0,,,,,,"",""
+ball,2,1.3,Australia,AJ Finch,MR Marsh,FH Edwards,0,0,,,,,,"",""
+ball,2,1.4,Australia,AJ Finch,MR Marsh,FH Edwards,1,0,,,,,,"",""
+ball,2,1.5,Australia,MR Marsh,AJ Finch,FH Edwards,1,0,,,,,,"",""
+ball,2,1.6,Australia,AJ Finch,MR Marsh,FH Edwards,1,0,,,,,,"",""
+ball,2,2.1,Australia,AJ Finch,MR Marsh,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.2,Australia,MR Marsh,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.3,Australia,MR Marsh,AJ Finch,SS Cottrell,0,1,1,,,,,"",""
+ball,2,2.4,Australia,MR Marsh,AJ Finch,SS Cottrell,0,1,1,,,,,"",""
+ball,2,2.5,Australia,MR Marsh,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.6,Australia,MR Marsh,AJ Finch,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.7,Australia,MR Marsh,AJ Finch,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.8,Australia,AJ Finch,MR Marsh,SS Cottrell,1,0,,,,,,"",""
+ball,2,3.1,Australia,AJ Finch,MR Marsh,FH Edwards,0,0,,,,,,bowled,AJ Finch
+ball,2,3.2,Australia,JR Philippe,MR Marsh,FH Edwards,0,1,1,,,,,"",""
+ball,2,3.3,Australia,JR Philippe,MR Marsh,FH Edwards,1,0,,,,,,"",""
+ball,2,3.4,Australia,MR Marsh,JR Philippe,FH Edwards,0,0,,,,,,"",""
+ball,2,3.5,Australia,MR Marsh,JR Philippe,FH Edwards,1,0,,,,,,"",""
+ball,2,3.6,Australia,JR Philippe,MR Marsh,FH Edwards,0,0,,,,,,"",""
+ball,2,3.7,Australia,JR Philippe,MR Marsh,LMP Simmons,1,0,,,,,,"",""
+ball,2,4.1,Australia,JR Philippe,MR Marsh,AD Russell,1,0,,,,,,"",""
+ball,2,4.2,Australia,MR Marsh,JR Philippe,AD Russell,6,0,,,,,,"",""
+ball,2,4.3,Australia,MR Marsh,JR Philippe,AD Russell,0,0,,,,,,"",""
+ball,2,4.4,Australia,MR Marsh,JR Philippe,AD Russell,0,0,,,,,,"",""
+ball,2,4.5,Australia,MR Marsh,JR Philippe,AD Russell,1,0,,,,,,"",""
+ball,2,4.6,Australia,JR Philippe,MR Marsh,AD Russell,1,0,,,,,,"",""
+ball,2,5.1,Australia,JR Philippe,MR Marsh,DJ Bravo,1,0,,,,,,"",""
+ball,2,5.2,Australia,MR Marsh,JR Philippe,DJ Bravo,4,0,,,,,,"",""
+ball,2,5.3,Australia,MR Marsh,JR Philippe,DJ Bravo,1,0,,,,,,"",""
+ball,2,5.4,Australia,JR Philippe,MR Marsh,DJ Bravo,1,0,,,,,,"",""
+ball,2,5.5,Australia,MR Marsh,JR Philippe,DJ Bravo,2,0,,,,,,"",""
+ball,2,5.6,Australia,MR Marsh,JR Philippe,DJ Bravo,1,0,,,,,,"",""
+ball,2,6.1,Australia,MR Marsh,JR Philippe,FA Allen,1,0,,,,,,"",""
+ball,2,6.2,Australia,JR Philippe,MR Marsh,FA Allen,0,0,,,,,,"",""
+ball,2,6.3,Australia,JR Philippe,MR Marsh,FA Allen,1,0,,,,,,"",""
+ball,2,6.4,Australia,MR Marsh,JR Philippe,FA Allen,1,0,,,,,,"",""
+ball,2,6.5,Australia,JR Philippe,MR Marsh,FA Allen,2,0,,,,,,"",""
+ball,2,6.6,Australia,JR Philippe,MR Marsh,FA Allen,4,0,,,,,,"",""
+ball,2,7.1,Australia,MR Marsh,JR Philippe,HR Walsh,2,0,,,,,,"",""
+ball,2,7.2,Australia,MR Marsh,JR Philippe,HR Walsh,4,0,,,,,,"",""
+ball,2,7.3,Australia,MR Marsh,JR Philippe,HR Walsh,0,0,,,,,,"",""
+ball,2,7.4,Australia,MR Marsh,JR Philippe,HR Walsh,1,0,,,,,,"",""
+ball,2,7.5,Australia,JR Philippe,MR Marsh,HR Walsh,0,0,,,,,,bowled,JR Philippe
+ball,2,7.6,Australia,MC Henriques,MR Marsh,HR Walsh,1,0,,,,,,"",""
+ball,2,8.1,Australia,MC Henriques,MR Marsh,FA Allen,0,4,,,4,,,"",""
+ball,2,8.2,Australia,MC Henriques,MR Marsh,FA Allen,1,0,,,,,,"",""
+ball,2,8.3,Australia,MR Marsh,MC Henriques,FA Allen,1,0,,,,,,"",""
+ball,2,8.4,Australia,MC Henriques,MR Marsh,FA Allen,0,0,,,,,,"",""
+ball,2,8.5,Australia,MC Henriques,MR Marsh,FA Allen,0,1,,,,1,,"",""
+ball,2,8.6,Australia,MR Marsh,MC Henriques,FA Allen,1,0,,,,,,"",""
+ball,2,9.1,Australia,MR Marsh,MC Henriques,HR Walsh,1,0,,,,,,"",""
+ball,2,9.2,Australia,MC Henriques,MR Marsh,HR Walsh,6,0,,,,,,"",""
+ball,2,9.3,Australia,MC Henriques,MR Marsh,HR Walsh,1,0,,,,,,"",""
+ball,2,9.4,Australia,MR Marsh,MC Henriques,HR Walsh,0,0,,,,,,"",""
+ball,2,9.5,Australia,MR Marsh,MC Henriques,HR Walsh,0,1,1,,,,,"",""
+ball,2,9.6,Australia,MR Marsh,MC Henriques,HR Walsh,1,0,,,,,,"",""
+ball,2,9.7,Australia,MC Henriques,MR Marsh,HR Walsh,1,0,,,,,,"",""
+ball,2,10.1,Australia,MC Henriques,MR Marsh,FA Allen,0,0,,,,,,"",""
+ball,2,10.2,Australia,MC Henriques,MR Marsh,FA Allen,2,0,,,,,,"",""
+ball,2,10.3,Australia,MC Henriques,MR Marsh,FA Allen,1,0,,,,,,"",""
+ball,2,10.4,Australia,MR Marsh,MC Henriques,FA Allen,1,0,,,,,,"",""
+ball,2,10.5,Australia,MC Henriques,MR Marsh,FA Allen,1,0,,,,,,"",""
+ball,2,10.6,Australia,MR Marsh,MC Henriques,FA Allen,1,0,,,,,,"",""
+ball,2,11.1,Australia,MR Marsh,MC Henriques,DJ Bravo,2,0,,,,,,"",""
+ball,2,11.2,Australia,MR Marsh,MC Henriques,DJ Bravo,1,0,,,,,,"",""
+ball,2,11.3,Australia,MC Henriques,MR Marsh,DJ Bravo,1,0,,,,,,"",""
+ball,2,11.4,Australia,MR Marsh,MC Henriques,DJ Bravo,2,0,,,,,,"",""
+ball,2,11.5,Australia,MR Marsh,MC Henriques,DJ Bravo,4,0,,,,,,"",""
+ball,2,11.6,Australia,MR Marsh,MC Henriques,DJ Bravo,0,1,1,,,,,"",""
+ball,2,11.7,Australia,MR Marsh,MC Henriques,DJ Bravo,1,0,,,,,,"",""
+ball,2,12.1,Australia,MR Marsh,MC Henriques,FA Allen,1,0,,,,,,"",""
+ball,2,12.2,Australia,MC Henriques,MR Marsh,FA Allen,0,0,,,,,,"",""
+ball,2,12.3,Australia,MC Henriques,MR Marsh,FA Allen,0,1,,,,1,,"",""
+ball,2,12.4,Australia,MR Marsh,MC Henriques,FA Allen,1,0,,,,,,"",""
+ball,2,12.5,Australia,MC Henriques,MR Marsh,FA Allen,1,0,,,,,,"",""
+ball,2,12.6,Australia,MR Marsh,MC Henriques,FA Allen,1,0,,,,,,"",""
+ball,2,13.1,Australia,MR Marsh,MC Henriques,HR Walsh,0,0,,,,,,"",""
+ball,2,13.2,Australia,MR Marsh,MC Henriques,HR Walsh,0,0,,,,,,caught,MR Marsh
+ball,2,13.3,Australia,MC Henriques,BR McDermott,HR Walsh,0,0,,,,,,"",""
+ball,2,13.4,Australia,MC Henriques,BR McDermott,HR Walsh,1,0,,,,,,"",""
+ball,2,13.5,Australia,BR McDermott,MC Henriques,HR Walsh,4,0,,,,,,"",""
+ball,2,13.6,Australia,BR McDermott,MC Henriques,HR Walsh,1,0,,,,,,"",""
+ball,2,14.1,Australia,BR McDermott,MC Henriques,AD Russell,0,0,,,,,,"",""
+ball,2,14.2,Australia,BR McDermott,MC Henriques,AD Russell,1,0,,,,,,"",""
+ball,2,14.3,Australia,MC Henriques,BR McDermott,AD Russell,1,0,,,,,,"",""
+ball,2,14.4,Australia,BR McDermott,MC Henriques,AD Russell,1,0,,,,,,"",""
+ball,2,14.5,Australia,MC Henriques,BR McDermott,AD Russell,1,0,,,,,,"",""
+ball,2,14.6,Australia,BR McDermott,MC Henriques,AD Russell,0,0,,,,,,caught,BR McDermott
+ball,2,15.1,Australia,DT Christian,MC Henriques,HR Walsh,1,0,,,,,,"",""
+ball,2,15.2,Australia,MC Henriques,DT Christian,HR Walsh,0,0,,,,,,caught,MC Henriques
+ball,2,15.3,Australia,AC Agar,DT Christian,HR Walsh,1,0,,,,,,"",""
+ball,2,15.4,Australia,DT Christian,AC Agar,HR Walsh,0,0,,,,,,run out,AC Agar
+ball,2,15.5,Australia,MA Starc,DT Christian,HR Walsh,1,0,,,,,,"",""
+ball,2,15.6,Australia,DT Christian,MA Starc,HR Walsh,1,0,,,,,,"",""
+ball,2,16.1,Australia,DT Christian,MA Starc,AD Russell,0,0,,,,,,"",""
+ball,2,16.2,Australia,DT Christian,MA Starc,AD Russell,0,1,1,,,,,"",""
+ball,2,16.3,Australia,DT Christian,MA Starc,AD Russell,0,1,1,,,,,"",""
+ball,2,16.4,Australia,DT Christian,MA Starc,AD Russell,0,0,,,,,,"",""
+ball,2,16.5,Australia,DT Christian,MA Starc,AD Russell,4,0,,,,,,"",""
+ball,2,16.6,Australia,DT Christian,MA Starc,AD Russell,0,0,,,,,,"",""
+ball,2,16.7,Australia,DT Christian,MA Starc,AD Russell,2,0,,,,,,"",""
+ball,2,16.8,Australia,DT Christian,MA Starc,AD Russell,1,0,,,,,,"",""
+ball,2,17.1,Australia,DT Christian,MA Starc,DJ Bravo,0,0,,,,,,bowled,DT Christian
+ball,2,17.2,Australia,A Zampa,MA Starc,DJ Bravo,1,0,,,,,,"",""
+ball,2,17.3,Australia,MA Starc,A Zampa,DJ Bravo,1,0,,,,,,"",""
+ball,2,17.4,Australia,A Zampa,MA Starc,DJ Bravo,1,0,,,,,,"",""
+ball,2,17.5,Australia,MA Starc,A Zampa,DJ Bravo,0,1,1,,,,,"",""
+ball,2,17.6,Australia,MA Starc,A Zampa,DJ Bravo,2,0,,,,,,"",""
+ball,2,17.7,Australia,MA Starc,A Zampa,DJ Bravo,1,0,,,,,,"",""
+ball,2,18.1,Australia,MA Starc,A Zampa,SS Cottrell,0,0,,,,,,"",""
+ball,2,18.2,Australia,MA Starc,A Zampa,SS Cottrell,1,0,,,,,,"",""
+ball,2,18.3,Australia,A Zampa,MA Starc,SS Cottrell,1,0,,,,,,"",""
+ball,2,18.4,Australia,MA Starc,A Zampa,SS Cottrell,1,0,,,,,,"",""
+ball,2,18.5,Australia,A Zampa,MA Starc,SS Cottrell,0,0,,,,,,caught,A Zampa
+ball,2,18.6,Australia,JR Hazlewood,MA Starc,SS Cottrell,0,1,1,,,,,"",""
+ball,2,18.7,Australia,JR Hazlewood,MA Starc,SS Cottrell,4,0,,,,,,"",""
+ball,2,19.1,Australia,MA Starc,JR Hazlewood,CH Gayle,1,0,,,,,,"",""
+ball,2,19.2,Australia,JR Hazlewood,MA Starc,CH Gayle,0,0,,,,,,bowled,JR Hazlewood

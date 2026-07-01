@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Argentina
+info,gender,male
+info,season,2021/22
+info,date,2021/11/08
+info,event,ICC Men's T20 World Cup Americas Region Qualifier
+info,match_number,5
+info,venue,"Sir Vivian Richards Stadium, North Sound, Antigua"
+info,city,North Sound
+info,toss_winner,Bahamas
+info,toss_decision,bat
+info,player_of_match,M Taylor
+info,umpire,AR Maddela
+info,umpire,Emmerson Carrington
+info,reserve_umpire,LS Reifer
+info,match_referee,Denavon Hayles
+info,winner,Bahamas
+info,winner_runs,12
+info,player,Bahamas,M Taylor
+info,player,Bahamas,J Jagroo
+info,player,Bahamas,MS Graham
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,JR Barry
+info,player,Bahamas,R Davson
+info,player,Bahamas,K Hinds
+info,player,Bahamas,O Stewart
+info,player,Bahamas,E Haven
+info,player,Bahamas,Bhumeshswar Jagroo
+info,player,Bahamas,RP Mitchell
+info,player,Argentina,P Baron
+info,player,Argentina,LA Musiani
+info,player,Argentina,A Ferguson
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,RM Siri
+info,player,Argentina,T Rossi
+info,player,Argentina,PL Bruno
+info,player,Argentina,R Escobar
+info,player,Argentina,J Hurley
+info,player,Argentina,H Fennell
+info,player,Argentina,A Husain
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Husain,034d3c52
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Bhumeshswar Jagroo,6a986c7c
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,E Haven,5190900f
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,GT Taylor,c674f722
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,J Hurley,a1aeb715
+info,registry,people,J Jagroo,a0a27cd4
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,K Hinds,a268c07b
+info,registry,people,LA Musiani,efbd35a9
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Taylor,92075cdc
+info,registry,people,MS Graham,7f2cb055
+info,registry,people,O Stewart,e8637dc9
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,PL Bruno,4ed0bf6a
+info,registry,people,R Davson,7804d401
+info,registry,people,R Escobar,9fa5496f
+info,registry,people,RM Siri,f1737607
+info,registry,people,RP Mitchell,fc30a5b7
+info,registry,people,T Rossi,5470418a
+ball,1,0.1,Bahamas,M Taylor,J Jagroo,T Rossi,0,0,,,,,,"",""
+ball,1,0.2,Bahamas,M Taylor,J Jagroo,T Rossi,2,0,,,,,,"",""
+ball,1,0.3,Bahamas,M Taylor,J Jagroo,T Rossi,0,1,1,,,,,"",""
+ball,1,0.4,Bahamas,M Taylor,J Jagroo,T Rossi,1,0,,,,,,"",""
+ball,1,0.5,Bahamas,J Jagroo,M Taylor,T Rossi,0,0,,,,,,"",""
+ball,1,0.6,Bahamas,J Jagroo,M Taylor,T Rossi,0,0,,,,,,caught,J Jagroo
+ball,1,0.7,Bahamas,MS Graham,M Taylor,T Rossi,0,1,1,,,,,"",""
+ball,1,0.8,Bahamas,MS Graham,M Taylor,T Rossi,0,0,,,,,,"",""
+ball,1,1.1,Bahamas,M Taylor,MS Graham,H Fennell,0,0,,,,,,"",""
+ball,1,1.2,Bahamas,M Taylor,MS Graham,H Fennell,1,0,,,,,,"",""
+ball,1,1.3,Bahamas,MS Graham,M Taylor,H Fennell,1,0,,,,,,"",""
+ball,1,1.4,Bahamas,M Taylor,MS Graham,H Fennell,0,0,,,,,,"",""
+ball,1,1.5,Bahamas,GT Taylor,MS Graham,H Fennell,1,0,,,,,,"",""
+ball,1,1.6,Bahamas,MS Graham,GT Taylor,H Fennell,0,0,,,,,,"",""
+ball,1,2.1,Bahamas,GT Taylor,MS Graham,T Rossi,1,0,,,,,,"",""
+ball,1,2.2,Bahamas,MS Graham,GT Taylor,T Rossi,0,0,,,,,,lbw,MS Graham
+ball,1,2.3,Bahamas,JR Barry,GT Taylor,T Rossi,0,0,,,,,,"",""
+ball,1,2.4,Bahamas,JR Barry,GT Taylor,T Rossi,0,0,,,,,,"",""
+ball,1,2.5,Bahamas,JR Barry,GT Taylor,T Rossi,0,1,1,,,,,"",""
+ball,1,2.6,Bahamas,JR Barry,GT Taylor,T Rossi,1,0,,,,,,"",""
+ball,1,2.7,Bahamas,GT Taylor,JR Barry,T Rossi,0,0,,,,,,"",""
+ball,1,3.1,Bahamas,JR Barry,GT Taylor,H Fennell,0,0,,,,,,"",""
+ball,1,3.2,Bahamas,JR Barry,GT Taylor,H Fennell,4,0,,,,,,"",""
+ball,1,3.3,Bahamas,JR Barry,GT Taylor,H Fennell,1,0,,,,,,"",""
+ball,1,3.4,Bahamas,GT Taylor,JR Barry,H Fennell,0,0,,,,,,"",""
+ball,1,3.5,Bahamas,GT Taylor,JR Barry,H Fennell,0,0,,,,,,"",""
+ball,1,3.6,Bahamas,GT Taylor,JR Barry,H Fennell,0,0,,,,,,"",""
+ball,1,4.1,Bahamas,JR Barry,GT Taylor,T Rossi,0,0,,,,,,"",""
+ball,1,4.2,Bahamas,JR Barry,GT Taylor,T Rossi,0,1,1,,,,,"",""
+ball,1,4.3,Bahamas,JR Barry,GT Taylor,T Rossi,0,0,,,,,,"",""
+ball,1,4.4,Bahamas,JR Barry,GT Taylor,T Rossi,1,0,,,,,,"",""
+ball,1,4.5,Bahamas,GT Taylor,JR Barry,T Rossi,0,0,,,,,,"",""
+ball,1,4.6,Bahamas,GT Taylor,JR Barry,T Rossi,1,0,,,,,,"",""
+ball,1,4.7,Bahamas,JR Barry,GT Taylor,T Rossi,0,1,1,,,,,"",""
+ball,1,4.8,Bahamas,JR Barry,GT Taylor,T Rossi,0,1,1,,,,,"",""
+ball,1,4.9,Bahamas,JR Barry,GT Taylor,T Rossi,0,0,,,,,,"",""
+ball,1,5.1,Bahamas,GT Taylor,JR Barry,A Kirschbaum,0,0,,,,,,"",""
+ball,1,5.2,Bahamas,GT Taylor,JR Barry,A Kirschbaum,0,0,,,,,,"",""
+ball,1,5.3,Bahamas,GT Taylor,JR Barry,A Kirschbaum,0,0,,,,,,"",""
+ball,1,5.4,Bahamas,GT Taylor,JR Barry,A Kirschbaum,1,0,,,,,,"",""
+ball,1,5.5,Bahamas,JR Barry,GT Taylor,A Kirschbaum,1,0,,,,,,"",""
+ball,1,5.6,Bahamas,GT Taylor,JR Barry,A Kirschbaum,1,0,,,,,,"",""
+ball,1,6.1,Bahamas,GT Taylor,JR Barry,J Hurley,0,0,,,,,,caught,GT Taylor
+ball,1,6.2,Bahamas,JR Barry,R Davson,J Hurley,0,0,,,,,,"",""
+ball,1,6.3,Bahamas,JR Barry,R Davson,J Hurley,0,0,,,,,,"",""
+ball,1,6.4,Bahamas,JR Barry,R Davson,J Hurley,1,0,,,,,,"",""
+ball,1,6.5,Bahamas,R Davson,JR Barry,J Hurley,1,0,,,,,,"",""
+ball,1,6.6,Bahamas,JR Barry,R Davson,J Hurley,1,0,,,,,,"",""
+ball,1,7.1,Bahamas,JR Barry,R Davson,A Kirschbaum,4,0,,,,,,"",""
+ball,1,7.2,Bahamas,JR Barry,R Davson,A Kirschbaum,1,0,,,,,,"",""
+ball,1,7.3,Bahamas,R Davson,JR Barry,A Kirschbaum,0,2,,,2,,,"",""
+ball,1,7.4,Bahamas,R Davson,JR Barry,A Kirschbaum,0,0,,,,,,"",""
+ball,1,7.5,Bahamas,R Davson,JR Barry,A Kirschbaum,3,0,,,,,,"",""
+ball,1,7.6,Bahamas,JR Barry,R Davson,A Kirschbaum,4,0,,,,,,"",""
+ball,1,8.1,Bahamas,R Davson,JR Barry,J Hurley,1,0,,,,,,"",""
+ball,1,8.2,Bahamas,JR Barry,R Davson,J Hurley,1,0,,,,,,"",""
+ball,1,8.3,Bahamas,R Davson,JR Barry,J Hurley,0,0,,,,,,run out,JR Barry
+ball,1,8.4,Bahamas,K Hinds,R Davson,J Hurley,2,0,,,,,,"",""
+ball,1,8.5,Bahamas,K Hinds,R Davson,J Hurley,1,0,,,,,,"",""
+ball,1,8.6,Bahamas,R Davson,K Hinds,J Hurley,2,0,,,,,,"",""
+ball,1,9.1,Bahamas,K Hinds,R Davson,A Husain,0,1,,,,1,,"",""
+ball,1,9.2,Bahamas,R Davson,K Hinds,A Husain,0,0,,,,,,"",""
+ball,1,9.3,Bahamas,R Davson,K Hinds,A Husain,0,0,,,,,,caught,R Davson
+ball,1,9.4,Bahamas,K Hinds,M Taylor,A Husain,1,0,,,,,,"",""
+ball,1,9.5,Bahamas,M Taylor,K Hinds,A Husain,0,0,,,,,,"",""
+ball,1,9.6,Bahamas,M Taylor,K Hinds,A Husain,0,1,1,,,,,"",""
+ball,1,9.7,Bahamas,M Taylor,K Hinds,A Husain,1,0,,,,,,"",""
+ball,1,10.1,Bahamas,M Taylor,K Hinds,J Hurley,0,0,,,,,,"",""
+ball,1,10.2,Bahamas,M Taylor,K Hinds,J Hurley,6,0,,,,,,"",""
+ball,1,10.3,Bahamas,M Taylor,K Hinds,J Hurley,0,0,,,,,,"",""
+ball,1,10.4,Bahamas,M Taylor,K Hinds,J Hurley,6,0,,,,,,"",""
+ball,1,10.5,Bahamas,M Taylor,K Hinds,J Hurley,1,0,,,,,,"",""
+ball,1,10.6,Bahamas,K Hinds,M Taylor,J Hurley,0,0,,,,,,caught,K Hinds
+ball,1,11.1,Bahamas,M Taylor,O Stewart,A Husain,1,0,,,,,,"",""
+ball,1,11.2,Bahamas,O Stewart,M Taylor,A Husain,0,0,,,,,,caught,O Stewart
+ball,1,11.3,Bahamas,M Taylor,E Haven,A Husain,0,0,,,,,,"",""
+ball,1,11.4,Bahamas,M Taylor,E Haven,A Husain,1,0,,,,,,"",""
+ball,1,11.5,Bahamas,E Haven,M Taylor,A Husain,0,0,,,,,,"",""
+ball,1,11.6,Bahamas,E Haven,M Taylor,A Husain,0,0,,,,,,"",""
+ball,1,12.1,Bahamas,M Taylor,E Haven,J Hurley,4,0,,,,,,"",""
+ball,1,12.2,Bahamas,M Taylor,E Haven,J Hurley,0,0,,,,,,"",""
+ball,1,12.3,Bahamas,M Taylor,E Haven,J Hurley,1,0,,,,,,"",""
+ball,1,12.4,Bahamas,E Haven,M Taylor,J Hurley,0,0,,,,,,"",""
+ball,1,12.5,Bahamas,E Haven,M Taylor,J Hurley,0,0,,,,,,"",""
+ball,1,12.6,Bahamas,E Haven,M Taylor,J Hurley,0,0,,,,,,"",""
+ball,1,13.1,Bahamas,M Taylor,E Haven,A Husain,0,0,,,,,,"",""
+ball,1,13.2,Bahamas,M Taylor,E Haven,A Husain,6,0,,,,,,"",""
+ball,1,13.3,Bahamas,M Taylor,E Haven,A Husain,0,0,,,,,,"",""
+ball,1,13.4,Bahamas,M Taylor,E Haven,A Husain,1,0,,,,,,"",""
+ball,1,13.5,Bahamas,E Haven,M Taylor,A Husain,1,0,,,,,,"",""
+ball,1,13.6,Bahamas,M Taylor,E Haven,A Husain,1,0,,,,,,"",""
+ball,1,14.1,Bahamas,M Taylor,E Haven,LA Musiani,0,0,,,,,,"",""
+ball,1,14.2,Bahamas,M Taylor,E Haven,LA Musiani,0,1,1,,,,,"",""
+ball,1,14.3,Bahamas,M Taylor,E Haven,LA Musiani,1,0,,,,,,"",""
+ball,1,14.4,Bahamas,E Haven,M Taylor,LA Musiani,0,0,,,,,,"",""
+ball,1,14.5,Bahamas,E Haven,M Taylor,LA Musiani,0,1,1,,,,,"",""
+ball,1,14.6,Bahamas,E Haven,M Taylor,LA Musiani,0,0,,,,,,"",""
+ball,1,14.7,Bahamas,E Haven,M Taylor,LA Musiani,1,0,,,,,,"",""
+ball,1,14.8,Bahamas,M Taylor,E Haven,LA Musiani,4,0,,,,,,"",""
+ball,1,15.1,Bahamas,E Haven,M Taylor,A Husain,1,0,,,,,,"",""
+ball,1,15.2,Bahamas,M Taylor,E Haven,A Husain,1,0,,,,,,"",""
+ball,1,15.3,Bahamas,E Haven,M Taylor,A Husain,0,1,1,,,,,"",""
+ball,1,15.4,Bahamas,E Haven,M Taylor,A Husain,0,0,,,,,,"",""
+ball,1,15.5,Bahamas,E Haven,M Taylor,A Husain,2,0,,,,,,"",""
+ball,1,15.6,Bahamas,E Haven,M Taylor,A Husain,1,1,,1,,,,"",""
+ball,1,15.7,Bahamas,M Taylor,E Haven,A Husain,6,0,,,,,,"",""
+ball,1,15.8,Bahamas,M Taylor,E Haven,A Husain,1,0,,,,,,"",""
+ball,1,16.1,Bahamas,M Taylor,E Haven,LA Musiani,0,1,1,,,,,"",""
+ball,1,16.2,Bahamas,M Taylor,E Haven,LA Musiani,1,0,,,,,,"",""
+ball,1,16.3,Bahamas,E Haven,M Taylor,LA Musiani,0,0,,,,,,caught,E Haven
+ball,1,16.4,Bahamas,Bhumeshswar Jagroo,M Taylor,LA Musiani,0,0,,,,,,"",""
+ball,1,16.5,Bahamas,Bhumeshswar Jagroo,M Taylor,LA Musiani,0,0,,,,,,"",""
+ball,1,16.6,Bahamas,Bhumeshswar Jagroo,M Taylor,LA Musiani,0,0,,,,,,"",""
+ball,1,16.7,Bahamas,Bhumeshswar Jagroo,M Taylor,LA Musiani,0,0,,,,,,"",""
+ball,1,17.1,Bahamas,M Taylor,Bhumeshswar Jagroo,H Fennell,1,0,,,,,,"",""
+ball,1,17.2,Bahamas,Bhumeshswar Jagroo,M Taylor,H Fennell,0,0,,,,,,lbw,Bhumeshswar Jagroo
+ball,1,17.3,Bahamas,RP Mitchell,M Taylor,H Fennell,1,0,,,,,,"",""
+ball,1,17.4,Bahamas,M Taylor,RP Mitchell,H Fennell,6,0,,,,,,"",""
+ball,1,17.5,Bahamas,M Taylor,RP Mitchell,H Fennell,0,1,1,,,,,"",""
+ball,1,17.6,Bahamas,M Taylor,RP Mitchell,H Fennell,0,0,,,,,,"",""
+ball,1,17.7,Bahamas,M Taylor,RP Mitchell,H Fennell,0,1,,,,1,,"",""
+ball,1,18.1,Bahamas,M Taylor,RP Mitchell,T Rossi,6,0,,,,,,"",""
+ball,1,18.2,Bahamas,M Taylor,RP Mitchell,T Rossi,0,0,,,,,,caught,M Taylor
+ball,2,0.1,Argentina,P Baron,LA Musiani,RP Mitchell,4,0,,,,,,"",""
+ball,2,0.2,Argentina,P Baron,LA Musiani,RP Mitchell,1,0,,,,,,"",""
+ball,2,0.3,Argentina,LA Musiani,P Baron,RP Mitchell,1,0,,,,,,"",""
+ball,2,0.4,Argentina,P Baron,LA Musiani,RP Mitchell,0,0,,,,,,"",""
+ball,2,0.5,Argentina,P Baron,LA Musiani,RP Mitchell,0,0,,,,,,"",""
+ball,2,0.6,Argentina,P Baron,LA Musiani,RP Mitchell,1,0,,,,,,"",""
+ball,2,1.1,Argentina,P Baron,LA Musiani,MS Graham,0,1,1,,,,,"",""
+ball,2,1.2,Argentina,P Baron,LA Musiani,MS Graham,2,0,,,,,,"",""
+ball,2,1.3,Argentina,P Baron,LA Musiani,MS Graham,4,0,,,,,,"",""
+ball,2,1.4,Argentina,P Baron,LA Musiani,MS Graham,0,0,,,,,,"",""
+ball,2,1.5,Argentina,P Baron,LA Musiani,MS Graham,1,0,,,,,,"",""
+ball,2,1.6,Argentina,LA Musiani,P Baron,MS Graham,2,0,,,,,,"",""
+ball,2,1.7,Argentina,LA Musiani,P Baron,MS Graham,0,0,,,,,,"",""
+ball,2,2.1,Argentina,P Baron,LA Musiani,RP Mitchell,0,0,,,,,,"",""
+ball,2,2.2,Argentina,P Baron,LA Musiani,RP Mitchell,1,0,,,,,,"",""
+ball,2,2.3,Argentina,LA Musiani,P Baron,RP Mitchell,0,0,,,,,,"",""
+ball,2,2.4,Argentina,LA Musiani,P Baron,RP Mitchell,0,0,,,,,,"",""
+ball,2,2.5,Argentina,LA Musiani,P Baron,RP Mitchell,4,0,,,,,,"",""
+ball,2,2.6,Argentina,LA Musiani,P Baron,RP Mitchell,1,0,,,,,,"",""
+ball,2,3.1,Argentina,LA Musiani,P Baron,J Jagroo,0,0,,,,,,"",""
+ball,2,3.2,Argentina,LA Musiani,P Baron,J Jagroo,4,0,,,,,,"",""
+ball,2,3.3,Argentina,LA Musiani,P Baron,J Jagroo,1,0,,,,,,"",""
+ball,2,3.4,Argentina,P Baron,LA Musiani,J Jagroo,0,0,,,,,,"",""
+ball,2,3.5,Argentina,P Baron,LA Musiani,J Jagroo,0,0,,,,,,"",""
+ball,2,3.6,Argentina,P Baron,LA Musiani,J Jagroo,4,0,,,,,,"",""
+ball,2,4.1,Argentina,LA Musiani,P Baron,JR Barry,1,0,,,,,,"",""
+ball,2,4.2,Argentina,P Baron,LA Musiani,JR Barry,0,0,,,,,,"",""
+ball,2,4.3,Argentina,P Baron,LA Musiani,JR Barry,0,0,,,,,,"",""
+ball,2,4.4,Argentina,P Baron,LA Musiani,JR Barry,1,0,,,,,,"",""
+ball,2,4.5,Argentina,LA Musiani,P Baron,JR Barry,1,0,,,,,,"",""
+ball,2,4.6,Argentina,P Baron,LA Musiani,JR Barry,3,0,,,,,,"",""
+ball,2,5.1,Argentina,P Baron,LA Musiani,K Hinds,0,0,,,,,,"",""
+ball,2,5.2,Argentina,P Baron,LA Musiani,K Hinds,1,0,,,,,,"",""
+ball,2,5.3,Argentina,LA Musiani,P Baron,K Hinds,1,0,,,,,,"",""
+ball,2,5.4,Argentina,P Baron,LA Musiani,K Hinds,0,0,,,,,,"",""
+ball,2,5.5,Argentina,P Baron,LA Musiani,K Hinds,0,0,,,,,,"",""
+ball,2,5.6,Argentina,P Baron,LA Musiani,K Hinds,1,0,,,,,,"",""
+ball,2,6.1,Argentina,P Baron,LA Musiani,JR Barry,4,0,,,,,,"",""
+ball,2,6.2,Argentina,P Baron,LA Musiani,JR Barry,0,0,,,,,,"",""
+ball,2,6.3,Argentina,P Baron,LA Musiani,JR Barry,1,0,,,,,,"",""
+ball,2,6.4,Argentina,LA Musiani,P Baron,JR Barry,0,0,,,,,,"",""
+ball,2,6.5,Argentina,LA Musiani,P Baron,JR Barry,2,0,,,,,,"",""
+ball,2,6.6,Argentina,LA Musiani,P Baron,JR Barry,0,0,,,,,,"",""
+ball,2,7.1,Argentina,P Baron,LA Musiani,K Hinds,0,0,,,,,,"",""
+ball,2,7.2,Argentina,P Baron,LA Musiani,K Hinds,0,0,,,,,,"",""
+ball,2,7.3,Argentina,P Baron,LA Musiani,K Hinds,2,0,,,,,,"",""
+ball,2,7.4,Argentina,P Baron,LA Musiani,K Hinds,1,0,,,,,,"",""
+ball,2,7.5,Argentina,LA Musiani,P Baron,K Hinds,0,0,,,,,,lbw,LA Musiani
+ball,2,7.6,Argentina,A Ferguson,P Baron,K Hinds,0,0,,,,,,"",""
+ball,2,8.1,Argentina,P Baron,A Ferguson,Bhumeshswar Jagroo,0,0,,,,,,"",""
+ball,2,8.2,Argentina,P Baron,A Ferguson,Bhumeshswar Jagroo,1,0,,,,,,"",""
+ball,2,8.3,Argentina,A Ferguson,P Baron,Bhumeshswar Jagroo,0,0,,,,,,"",""
+ball,2,8.4,Argentina,A Ferguson,P Baron,Bhumeshswar Jagroo,0,0,,,,,,"",""
+ball,2,8.5,Argentina,A Ferguson,P Baron,Bhumeshswar Jagroo,1,0,,,,,,"",""
+ball,2,8.6,Argentina,P Baron,A Ferguson,Bhumeshswar Jagroo,1,0,,,,,,"",""
+ball,2,9.1,Argentina,P Baron,A Ferguson,K Hinds,1,0,,,,,,"",""
+ball,2,9.2,Argentina,A Ferguson,P Baron,K Hinds,0,0,,,,,,"",""
+ball,2,9.3,Argentina,A Ferguson,P Baron,K Hinds,0,0,,,,,,"",""
+ball,2,9.4,Argentina,A Ferguson,P Baron,K Hinds,0,0,,,,,,"",""
+ball,2,9.5,Argentina,A Ferguson,P Baron,K Hinds,0,0,,,,,,"",""
+ball,2,9.6,Argentina,A Ferguson,P Baron,K Hinds,0,0,,,,,,"",""
+ball,2,10.1,Argentina,P Baron,A Ferguson,Bhumeshswar Jagroo,1,0,,,,,,"",""
+ball,2,10.2,Argentina,A Ferguson,P Baron,Bhumeshswar Jagroo,0,0,,,,,,"",""
+ball,2,10.3,Argentina,A Ferguson,P Baron,Bhumeshswar Jagroo,0,0,,,,,,"",""
+ball,2,10.4,Argentina,A Ferguson,P Baron,Bhumeshswar Jagroo,1,0,,,,,,"",""
+ball,2,10.5,Argentina,P Baron,A Ferguson,Bhumeshswar Jagroo,2,0,,,,,,"",""
+ball,2,10.6,Argentina,P Baron,A Ferguson,Bhumeshswar Jagroo,1,0,,,,,,"",""
+ball,2,11.1,Argentina,P Baron,A Ferguson,K Hinds,1,0,,,,,,"",""
+ball,2,11.2,Argentina,A Ferguson,P Baron,K Hinds,1,0,,,,,,"",""
+ball,2,11.3,Argentina,P Baron,A Ferguson,K Hinds,1,0,,,,,,"",""
+ball,2,11.4,Argentina,A Ferguson,P Baron,K Hinds,1,0,,,,,,"",""
+ball,2,11.5,Argentina,P Baron,A Ferguson,K Hinds,0,0,,,,,,"",""
+ball,2,11.6,Argentina,P Baron,A Ferguson,K Hinds,1,0,,,,,,"",""
+ball,2,12.1,Argentina,P Baron,A Ferguson,JR Barry,0,0,,,,,,"",""
+ball,2,12.2,Argentina,P Baron,A Ferguson,JR Barry,1,0,,,,,,"",""
+ball,2,12.3,Argentina,A Ferguson,P Baron,JR Barry,0,0,,,,,,"",""
+ball,2,12.4,Argentina,A Ferguson,P Baron,JR Barry,0,0,,,,,,caught,A Ferguson
+ball,2,12.5,Argentina,P Baron,A Kirschbaum,JR Barry,4,0,,,,,,"",""
+ball,2,12.6,Argentina,P Baron,A Kirschbaum,JR Barry,0,0,,,,,,"",""
+ball,2,13.1,Argentina,A Kirschbaum,P Baron,J Jagroo,0,0,,,,,,"",""
+ball,2,13.2,Argentina,A Kirschbaum,P Baron,J Jagroo,0,0,,,,,,"",""
+ball,2,13.3,Argentina,A Kirschbaum,P Baron,J Jagroo,0,0,,,,,,"",""
+ball,2,13.4,Argentina,A Kirschbaum,P Baron,J Jagroo,0,0,,,,,,"",""
+ball,2,13.5,Argentina,A Kirschbaum,P Baron,J Jagroo,0,0,,,,,,"",""
+ball,2,13.6,Argentina,A Kirschbaum,P Baron,J Jagroo,1,0,,,,,,"",""
+ball,2,14.1,Argentina,A Kirschbaum,P Baron,JR Barry,0,0,,,,,,"",""
+ball,2,14.2,Argentina,A Kirschbaum,P Baron,JR Barry,0,0,,,,,,"",""
+ball,2,14.3,Argentina,A Kirschbaum,P Baron,JR Barry,0,0,,,,,,caught,A Kirschbaum
+ball,2,14.4,Argentina,RM Siri,P Baron,JR Barry,1,0,,,,,,"",""
+ball,2,14.5,Argentina,P Baron,RM Siri,JR Barry,1,0,,,,,,"",""
+ball,2,14.6,Argentina,RM Siri,P Baron,JR Barry,0,0,,,,,,"",""
+ball,2,15.1,Argentina,P Baron,RM Siri,J Jagroo,1,0,,,,,,"",""
+ball,2,15.2,Argentina,RM Siri,P Baron,J Jagroo,0,0,,,,,,"",""
+ball,2,15.3,Argentina,RM Siri,P Baron,J Jagroo,1,0,,,,,,"",""
+ball,2,15.4,Argentina,P Baron,RM Siri,J Jagroo,1,0,,,,,,"",""
+ball,2,15.5,Argentina,RM Siri,P Baron,J Jagroo,1,0,,,,,,"",""
+ball,2,15.6,Argentina,P Baron,RM Siri,J Jagroo,2,0,,,,,,"",""
+ball,2,16.1,Argentina,RM Siri,P Baron,RP Mitchell,0,0,,,,,,"",""
+ball,2,16.2,Argentina,RM Siri,P Baron,RP Mitchell,4,0,,,,,,"",""
+ball,2,16.3,Argentina,RM Siri,P Baron,RP Mitchell,1,0,,,,,,"",""
+ball,2,16.4,Argentina,P Baron,RM Siri,RP Mitchell,1,0,,,,,,"",""
+ball,2,16.5,Argentina,RM Siri,P Baron,RP Mitchell,1,0,,,,,,"",""
+ball,2,16.6,Argentina,P Baron,RM Siri,RP Mitchell,1,0,,,,,,"",""
+ball,2,17.1,Argentina,P Baron,RM Siri,J Jagroo,2,0,,,,,,"",""
+ball,2,17.2,Argentina,P Baron,RM Siri,J Jagroo,1,0,,,,,,"",""
+ball,2,17.3,Argentina,RM Siri,P Baron,J Jagroo,1,0,,,,,,"",""
+ball,2,17.4,Argentina,P Baron,RM Siri,J Jagroo,0,0,,,,,,"",""
+ball,2,17.5,Argentina,P Baron,RM Siri,J Jagroo,2,0,,,,,,"",""
+ball,2,17.6,Argentina,P Baron,RM Siri,J Jagroo,1,0,,,,,,"",""
+ball,2,18.1,Argentina,P Baron,RM Siri,RP Mitchell,2,0,,,,,,"",""
+ball,2,18.2,Argentina,P Baron,RM Siri,RP Mitchell,1,0,,,,,,"",""
+ball,2,18.3,Argentina,RM Siri,P Baron,RP Mitchell,4,0,,,,,,"",""
+ball,2,18.4,Argentina,RM Siri,P Baron,RP Mitchell,1,0,,,,,,"",""
+ball,2,18.5,Argentina,P Baron,RM Siri,RP Mitchell,1,0,,,,,,"",""
+ball,2,18.6,Argentina,RM Siri,P Baron,RP Mitchell,0,0,,,,,,"",""
+ball,2,19.1,Argentina,P Baron,RM Siri,MS Graham,1,0,,,,,,"",""
+ball,2,19.2,Argentina,RM Siri,P Baron,MS Graham,2,0,,,,,,"",""
+ball,2,19.3,Argentina,RM Siri,P Baron,MS Graham,1,0,,,,,,run out,RM Siri
+ball,2,19.4,Argentina,T Rossi,P Baron,MS Graham,0,0,,,,,,bowled,T Rossi
+ball,2,19.5,Argentina,PL Bruno,P Baron,MS Graham,1,0,,,,,,"",""
+ball,2,19.6,Argentina,P Baron,PL Bruno,MS Graham,1,0,,,,,,"",""

@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,United States of America
+info,gender,female
+info,season,2022
+info,date,2022/09/18
+info,event,ICC Women's T20 World Cup Qualifier
+info,match_number,4
+info,venue,"Tolerance Oval, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,SJ Bryce
+info,umpire,Lauren Agenbag
+info,umpire,VG Rathi
+info,reserve_umpire,Sharfuddoula
+info,match_referee,SA Fritz
+info,winner,Scotland
+info,winner_runs,79
+info,player,Scotland,A Lister
+info,player,Scotland,EL Watson
+info,player,Scotland,KE Bryce
+info,player,Scotland,S Horley
+info,player,Scotland,SJ Bryce
+info,player,Scotland,PA Chatterji
+info,player,Scotland,L Jack
+info,player,Scotland,K Fraser
+info,player,Scotland,R Slater
+info,player,Scotland,AH Maqsood
+info,player,Scotland,HRA Rainey
+info,player,United States of America,M Kandanala
+info,player,United States of America,D Dhingra
+info,player,United States of America,RP Singh
+info,player,United States of America,Snigdha Paul
+info,player,United States of America,S Sriharsha
+info,player,United States of America,L Ramjit
+info,player,United States of America,IM Vaghela
+info,player,United States of America,T Chopra
+info,player,United States of America,G Kodali
+info,player,United States of America,B Bhadriraju
+info,player,United States of America,ST Eyyunni
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,B Bhadriraju,8d5580a7
+info,registry,people,D Dhingra,b0dc5d0d
+info,registry,people,EL Watson,45dd7433
+info,registry,people,G Kodali,f606177e
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,IM Vaghela,8d62fc14
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,L Ramjit,69950546
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Kandanala,8bdf7777
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Slater,8a452195
+info,registry,people,RP Singh,0ab3c788
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,S Sriharsha,89f6c26f
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,ST Eyyunni,3da7a16e
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Snigdha Paul,efa8eae7
+info,registry,people,T Chopra,73df1fe8
+info,registry,people,VG Rathi,144e5b16
+ball,1,0.1,Scotland,A Lister,EL Watson,RP Singh,2,0,,,,,,"",""
+ball,1,0.2,Scotland,A Lister,EL Watson,RP Singh,2,0,,,,,,"",""
+ball,1,0.3,Scotland,A Lister,EL Watson,RP Singh,1,0,,,,,,"",""
+ball,1,0.4,Scotland,EL Watson,A Lister,RP Singh,0,1,,,,1,,"",""
+ball,1,0.5,Scotland,A Lister,EL Watson,RP Singh,1,0,,,,,,"",""
+ball,1,0.6,Scotland,EL Watson,A Lister,RP Singh,0,0,,,,,,"",""
+ball,1,1.1,Scotland,A Lister,EL Watson,D Dhingra,1,0,,,,,,"",""
+ball,1,1.2,Scotland,EL Watson,A Lister,D Dhingra,0,0,,,,,,"",""
+ball,1,1.3,Scotland,EL Watson,A Lister,D Dhingra,0,0,,,,,,"",""
+ball,1,1.4,Scotland,EL Watson,A Lister,D Dhingra,0,0,,,,,,"",""
+ball,1,1.5,Scotland,EL Watson,A Lister,D Dhingra,0,0,,,,,,"",""
+ball,1,1.6,Scotland,EL Watson,A Lister,D Dhingra,0,0,,,,,,"",""
+ball,1,2.1,Scotland,A Lister,EL Watson,Snigdha Paul,1,0,,,,,,"",""
+ball,1,2.2,Scotland,EL Watson,A Lister,Snigdha Paul,0,0,,,,,,"",""
+ball,1,2.3,Scotland,EL Watson,A Lister,Snigdha Paul,1,0,,,,,,"",""
+ball,1,2.4,Scotland,A Lister,EL Watson,Snigdha Paul,4,0,,,,,,"",""
+ball,1,2.5,Scotland,A Lister,EL Watson,Snigdha Paul,0,0,,,,,,bowled,A Lister
+ball,1,2.6,Scotland,KE Bryce,EL Watson,Snigdha Paul,4,0,,,,,,"",""
+ball,1,3.1,Scotland,EL Watson,KE Bryce,D Dhingra,0,0,,,,,,"",""
+ball,1,3.2,Scotland,EL Watson,KE Bryce,D Dhingra,0,0,,,,,,"",""
+ball,1,3.3,Scotland,EL Watson,KE Bryce,D Dhingra,1,0,,,,,,"",""
+ball,1,3.4,Scotland,KE Bryce,EL Watson,D Dhingra,1,0,,,,,,"",""
+ball,1,3.5,Scotland,EL Watson,KE Bryce,D Dhingra,0,0,,,,,,"",""
+ball,1,3.6,Scotland,EL Watson,KE Bryce,D Dhingra,1,0,,,,,,"",""
+ball,1,4.1,Scotland,EL Watson,KE Bryce,RP Singh,0,0,,,,,,"",""
+ball,1,4.2,Scotland,EL Watson,KE Bryce,RP Singh,0,0,,,,,,bowled,EL Watson
+ball,1,4.3,Scotland,S Horley,KE Bryce,RP Singh,0,0,,,,,,"",""
+ball,1,4.4,Scotland,S Horley,KE Bryce,RP Singh,1,0,,,,,,"",""
+ball,1,4.5,Scotland,KE Bryce,S Horley,RP Singh,0,0,,,,,,"",""
+ball,1,4.6,Scotland,KE Bryce,S Horley,RP Singh,1,0,,,,,,"",""
+ball,1,5.1,Scotland,KE Bryce,S Horley,IM Vaghela,1,0,,,,,,"",""
+ball,1,5.2,Scotland,S Horley,KE Bryce,IM Vaghela,0,0,,,,,,"",""
+ball,1,5.3,Scotland,S Horley,KE Bryce,IM Vaghela,1,0,,,,,,"",""
+ball,1,5.4,Scotland,KE Bryce,S Horley,IM Vaghela,0,0,,,,,,"",""
+ball,1,5.5,Scotland,KE Bryce,S Horley,IM Vaghela,1,0,,,,,,"",""
+ball,1,5.6,Scotland,S Horley,KE Bryce,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.1,Scotland,KE Bryce,S Horley,B Bhadriraju,1,0,,,,,,"",""
+ball,1,6.2,Scotland,S Horley,KE Bryce,B Bhadriraju,2,0,,,,,,"",""
+ball,1,6.3,Scotland,S Horley,KE Bryce,B Bhadriraju,1,0,,,,,,"",""
+ball,1,6.4,Scotland,KE Bryce,S Horley,B Bhadriraju,0,0,,,,,,"",""
+ball,1,6.5,Scotland,KE Bryce,S Horley,B Bhadriraju,1,0,,,,,,"",""
+ball,1,6.6,Scotland,S Horley,KE Bryce,B Bhadriraju,0,0,,,,,,"",""
+ball,1,7.1,Scotland,KE Bryce,S Horley,IM Vaghela,0,0,,,,,,"",""
+ball,1,7.2,Scotland,KE Bryce,S Horley,IM Vaghela,4,0,,,,,,"",""
+ball,1,7.3,Scotland,KE Bryce,S Horley,IM Vaghela,0,1,1,,,,,"",""
+ball,1,7.4,Scotland,KE Bryce,S Horley,IM Vaghela,0,0,,,,,,"",""
+ball,1,7.5,Scotland,KE Bryce,S Horley,IM Vaghela,0,0,,,,,,"",""
+ball,1,7.6,Scotland,KE Bryce,S Horley,IM Vaghela,1,0,,,,,,"",""
+ball,1,7.7,Scotland,S Horley,KE Bryce,IM Vaghela,0,0,,,,,,"",""
+ball,1,8.1,Scotland,KE Bryce,S Horley,B Bhadriraju,2,0,,,,,,"",""
+ball,1,8.2,Scotland,KE Bryce,S Horley,B Bhadriraju,0,0,,,,,,caught,KE Bryce
+ball,1,8.3,Scotland,S Horley,SJ Bryce,B Bhadriraju,1,0,,,,,,"",""
+ball,1,8.4,Scotland,SJ Bryce,S Horley,B Bhadriraju,1,0,,,,,,"",""
+ball,1,8.5,Scotland,S Horley,SJ Bryce,B Bhadriraju,4,0,,,,,,"",""
+ball,1,8.6,Scotland,S Horley,SJ Bryce,B Bhadriraju,0,0,,,,,,bowled,S Horley
+ball,1,9.1,Scotland,SJ Bryce,PA Chatterji,G Kodali,0,0,,,,,,"",""
+ball,1,9.2,Scotland,SJ Bryce,PA Chatterji,G Kodali,1,0,,,,,,"",""
+ball,1,9.3,Scotland,PA Chatterji,SJ Bryce,G Kodali,0,0,,,,,,"",""
+ball,1,9.4,Scotland,PA Chatterji,SJ Bryce,G Kodali,0,0,,,,,,"",""
+ball,1,9.5,Scotland,PA Chatterji,SJ Bryce,G Kodali,0,0,,,,,,"",""
+ball,1,9.6,Scotland,PA Chatterji,SJ Bryce,G Kodali,0,0,,,,,,"",""
+ball,1,10.1,Scotland,SJ Bryce,PA Chatterji,T Chopra,1,0,,,,,,"",""
+ball,1,10.2,Scotland,PA Chatterji,SJ Bryce,T Chopra,1,0,,,,,,"",""
+ball,1,10.3,Scotland,SJ Bryce,PA Chatterji,T Chopra,0,0,,,,,,"",""
+ball,1,10.4,Scotland,SJ Bryce,PA Chatterji,T Chopra,1,0,,,,,,"",""
+ball,1,10.5,Scotland,PA Chatterji,SJ Bryce,T Chopra,2,0,,,,,,"",""
+ball,1,10.6,Scotland,PA Chatterji,SJ Bryce,T Chopra,0,0,,,,,,"",""
+ball,1,11.1,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,2,0,,,,,,"",""
+ball,1,11.2,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,0,0,,,,,,"",""
+ball,1,11.3,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,1,0,,,,,,"",""
+ball,1,11.4,Scotland,PA Chatterji,SJ Bryce,IM Vaghela,0,1,1,,,,,"",""
+ball,1,11.5,Scotland,PA Chatterji,SJ Bryce,IM Vaghela,1,0,,,,,,"",""
+ball,1,11.6,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,1,0,,,,,,"",""
+ball,1,11.7,Scotland,PA Chatterji,SJ Bryce,IM Vaghela,1,0,,,,,,"",""
+ball,1,12.1,Scotland,PA Chatterji,SJ Bryce,RP Singh,1,0,,,,,,"",""
+ball,1,12.2,Scotland,SJ Bryce,PA Chatterji,RP Singh,1,0,,,,,,"",""
+ball,1,12.3,Scotland,PA Chatterji,SJ Bryce,RP Singh,4,0,,,,,,"",""
+ball,1,12.4,Scotland,PA Chatterji,SJ Bryce,RP Singh,0,0,,,,,,"",""
+ball,1,12.5,Scotland,PA Chatterji,SJ Bryce,RP Singh,4,0,,,,,,"",""
+ball,1,12.6,Scotland,PA Chatterji,SJ Bryce,RP Singh,0,0,,,,,,"",""
+ball,1,13.1,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,0,1,1,,,,,"",""
+ball,1,13.2,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,0,0,,,,,,"",""
+ball,1,13.3,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,0,0,,,,,,"",""
+ball,1,13.4,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,1,0,,,,,,"",""
+ball,1,13.5,Scotland,PA Chatterji,SJ Bryce,IM Vaghela,1,0,,,,,,"",""
+ball,1,13.6,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,0,0,,,,,,"",""
+ball,1,13.7,Scotland,SJ Bryce,PA Chatterji,IM Vaghela,0,0,,,,,,"",""
+ball,1,14.1,Scotland,PA Chatterji,SJ Bryce,G Kodali,0,0,,,,,,"",""
+ball,1,14.2,Scotland,PA Chatterji,SJ Bryce,G Kodali,1,0,,,,,,"",""
+ball,1,14.3,Scotland,SJ Bryce,PA Chatterji,G Kodali,1,0,,,,,,"",""
+ball,1,14.4,Scotland,PA Chatterji,SJ Bryce,G Kodali,0,0,,,,,,"",""
+ball,1,14.5,Scotland,PA Chatterji,SJ Bryce,G Kodali,2,0,,,,,,"",""
+ball,1,14.6,Scotland,PA Chatterji,SJ Bryce,G Kodali,1,0,,,,,,"",""
+ball,1,15.1,Scotland,PA Chatterji,SJ Bryce,T Chopra,0,0,,,,,,"",""
+ball,1,15.2,Scotland,PA Chatterji,SJ Bryce,T Chopra,1,0,,,,,,"",""
+ball,1,15.3,Scotland,SJ Bryce,PA Chatterji,T Chopra,1,0,,,,,,"",""
+ball,1,15.4,Scotland,PA Chatterji,SJ Bryce,T Chopra,1,0,,,,,,"",""
+ball,1,15.5,Scotland,SJ Bryce,PA Chatterji,T Chopra,1,0,,,,,,"",""
+ball,1,15.6,Scotland,PA Chatterji,SJ Bryce,T Chopra,4,0,,,,,,"",""
+ball,1,16.1,Scotland,SJ Bryce,PA Chatterji,G Kodali,0,0,,,,,,"",""
+ball,1,16.2,Scotland,SJ Bryce,PA Chatterji,G Kodali,0,0,,,,,,"",""
+ball,1,16.3,Scotland,SJ Bryce,PA Chatterji,G Kodali,0,0,,,,,,"",""
+ball,1,16.4,Scotland,SJ Bryce,PA Chatterji,G Kodali,4,0,,,,,,"",""
+ball,1,16.5,Scotland,SJ Bryce,PA Chatterji,G Kodali,2,0,,,,,,"",""
+ball,1,16.6,Scotland,SJ Bryce,PA Chatterji,G Kodali,2,0,,,,,,"",""
+ball,1,17.1,Scotland,PA Chatterji,SJ Bryce,D Dhingra,1,0,,,,,,"",""
+ball,1,17.2,Scotland,SJ Bryce,PA Chatterji,D Dhingra,4,0,,,,,,"",""
+ball,1,17.3,Scotland,SJ Bryce,PA Chatterji,D Dhingra,4,0,,,,,,"",""
+ball,1,17.4,Scotland,SJ Bryce,PA Chatterji,D Dhingra,4,0,,,,,,"",""
+ball,1,17.5,Scotland,SJ Bryce,PA Chatterji,D Dhingra,4,0,,,,,,"",""
+ball,1,17.6,Scotland,SJ Bryce,PA Chatterji,D Dhingra,2,0,,,,,,"",""
+ball,1,18.1,Scotland,PA Chatterji,SJ Bryce,G Kodali,1,0,,,,,,"",""
+ball,1,18.2,Scotland,SJ Bryce,PA Chatterji,G Kodali,6,0,,,,,,"",""
+ball,1,18.3,Scotland,SJ Bryce,PA Chatterji,G Kodali,0,0,,,,,,caught,SJ Bryce
+ball,1,18.4,Scotland,PA Chatterji,L Jack,G Kodali,1,0,,,,,,"",""
+ball,1,18.5,Scotland,L Jack,PA Chatterji,G Kodali,2,0,,,,,,"",""
+ball,1,18.6,Scotland,L Jack,PA Chatterji,G Kodali,0,0,,,,,,"",""
+ball,1,19.1,Scotland,PA Chatterji,L Jack,Snigdha Paul,3,0,,,,,,"",""
+ball,1,19.2,Scotland,L Jack,PA Chatterji,Snigdha Paul,1,0,,,,,,"",""
+ball,1,19.3,Scotland,PA Chatterji,L Jack,Snigdha Paul,1,0,,,,,,"",""
+ball,1,19.4,Scotland,L Jack,PA Chatterji,Snigdha Paul,2,0,,,,,,"",""
+ball,1,19.5,Scotland,L Jack,PA Chatterji,Snigdha Paul,2,0,,,,,,"",""
+ball,1,19.6,Scotland,L Jack,PA Chatterji,Snigdha Paul,0,0,,,,,,"",""
+ball,2,0.1,United States of America,M Kandanala,D Dhingra,KE Bryce,0,0,,,,,,"",""
+ball,2,0.2,United States of America,M Kandanala,D Dhingra,KE Bryce,2,0,,,,,,"",""
+ball,2,0.3,United States of America,M Kandanala,D Dhingra,KE Bryce,1,0,,,,,,"",""
+ball,2,0.4,United States of America,D Dhingra,M Kandanala,KE Bryce,0,0,,,,,,"",""
+ball,2,0.5,United States of America,D Dhingra,M Kandanala,KE Bryce,0,0,,,,,,"",""
+ball,2,0.6,United States of America,D Dhingra,M Kandanala,KE Bryce,0,0,,,,,,"",""
+ball,2,1.1,United States of America,M Kandanala,D Dhingra,R Slater,0,1,1,,,,,"",""
+ball,2,1.2,United States of America,M Kandanala,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,1.3,United States of America,M Kandanala,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,1.4,United States of America,M Kandanala,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,1.5,United States of America,M Kandanala,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,1.6,United States of America,M Kandanala,D Dhingra,R Slater,2,0,,,,,,"",""
+ball,2,1.7,United States of America,M Kandanala,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,2.1,United States of America,D Dhingra,M Kandanala,KE Bryce,0,0,,,,,,"",""
+ball,2,2.2,United States of America,D Dhingra,M Kandanala,KE Bryce,2,0,,,,,,"",""
+ball,2,2.3,United States of America,D Dhingra,M Kandanala,KE Bryce,0,0,,,,,,"",""
+ball,2,2.4,United States of America,D Dhingra,M Kandanala,KE Bryce,0,0,,,,,,run out,D Dhingra
+ball,2,2.5,United States of America,M Kandanala,RP Singh,KE Bryce,0,0,,,,,,"",""
+ball,2,2.6,United States of America,M Kandanala,RP Singh,KE Bryce,4,0,,,,,,"",""
+ball,2,3.1,United States of America,RP Singh,M Kandanala,R Slater,0,1,1,,,,,"",""
+ball,2,3.2,United States of America,RP Singh,M Kandanala,R Slater,0,0,,,,,,"",""
+ball,2,3.3,United States of America,RP Singh,M Kandanala,R Slater,0,0,,,,,,bowled,RP Singh
+ball,2,3.4,United States of America,Snigdha Paul,M Kandanala,R Slater,0,0,,,,,,"",""
+ball,2,3.5,United States of America,Snigdha Paul,M Kandanala,R Slater,0,0,,,,,,"",""
+ball,2,3.6,United States of America,Snigdha Paul,M Kandanala,R Slater,2,0,,,,,,"",""
+ball,2,3.7,United States of America,Snigdha Paul,M Kandanala,R Slater,0,1,1,,,,,"",""
+ball,2,3.8,United States of America,Snigdha Paul,M Kandanala,R Slater,1,0,,,,,,"",""
+ball,2,4.1,United States of America,Snigdha Paul,M Kandanala,K Fraser,0,0,,,,,,"",""
+ball,2,4.2,United States of America,Snigdha Paul,M Kandanala,K Fraser,0,0,,,,,,"",""
+ball,2,4.3,United States of America,Snigdha Paul,M Kandanala,K Fraser,0,0,,,,,,"",""
+ball,2,4.4,United States of America,Snigdha Paul,M Kandanala,K Fraser,0,1,1,,,,,"",""
+ball,2,4.5,United States of America,Snigdha Paul,M Kandanala,K Fraser,0,0,,,,,,caught,Snigdha Paul
+ball,2,4.6,United States of America,S Sriharsha,M Kandanala,K Fraser,0,0,,,,,,"",""
+ball,2,4.7,United States of America,S Sriharsha,M Kandanala,K Fraser,0,0,,,,,,"",""
+ball,2,5.1,United States of America,M Kandanala,S Sriharsha,R Slater,0,0,,,,,,"",""
+ball,2,5.2,United States of America,M Kandanala,S Sriharsha,R Slater,1,0,,,,,,"",""
+ball,2,5.3,United States of America,S Sriharsha,M Kandanala,R Slater,0,0,,,,,,"",""
+ball,2,5.4,United States of America,S Sriharsha,M Kandanala,R Slater,0,0,,,,,,run out,M Kandanala
+ball,2,5.5,United States of America,L Ramjit,S Sriharsha,R Slater,1,0,,,,,,"",""
+ball,2,5.6,United States of America,S Sriharsha,L Ramjit,R Slater,0,0,,,,,,"",""
+ball,2,6.1,United States of America,L Ramjit,S Sriharsha,K Fraser,0,0,,,,,,"",""
+ball,2,6.2,United States of America,L Ramjit,S Sriharsha,K Fraser,0,0,,,,,,"",""
+ball,2,6.3,United States of America,L Ramjit,S Sriharsha,K Fraser,0,0,,,,,,"",""
+ball,2,6.4,United States of America,L Ramjit,S Sriharsha,K Fraser,0,0,,,,,,"",""
+ball,2,6.5,United States of America,L Ramjit,S Sriharsha,K Fraser,0,0,,,,,,"",""
+ball,2,6.6,United States of America,L Ramjit,S Sriharsha,K Fraser,1,0,,,,,,run out,L Ramjit
+ball,2,7.1,United States of America,S Sriharsha,IM Vaghela,R Slater,1,0,,,,,,"",""
+ball,2,7.2,United States of America,IM Vaghela,S Sriharsha,R Slater,2,0,,,,,,"",""
+ball,2,7.3,United States of America,IM Vaghela,S Sriharsha,R Slater,0,0,,,,,,"",""
+ball,2,7.4,United States of America,IM Vaghela,S Sriharsha,R Slater,0,0,,,,,,"",""
+ball,2,7.5,United States of America,IM Vaghela,S Sriharsha,R Slater,1,0,,,,,,"",""
+ball,2,7.6,United States of America,S Sriharsha,IM Vaghela,R Slater,1,0,,,,,,"",""
+ball,2,8.1,United States of America,S Sriharsha,IM Vaghela,K Fraser,1,0,,,,,,"",""
+ball,2,8.2,United States of America,IM Vaghela,S Sriharsha,K Fraser,0,0,,,,,,"",""
+ball,2,8.3,United States of America,IM Vaghela,S Sriharsha,K Fraser,0,0,,,,,,"",""
+ball,2,8.4,United States of America,IM Vaghela,S Sriharsha,K Fraser,2,0,,,,,,"",""
+ball,2,8.5,United States of America,IM Vaghela,S Sriharsha,K Fraser,1,0,,,,,,"",""
+ball,2,8.6,United States of America,S Sriharsha,IM Vaghela,K Fraser,0,0,,,,,,"",""
+ball,2,9.1,United States of America,IM Vaghela,S Sriharsha,AH Maqsood,1,0,,,,,,"",""
+ball,2,9.2,United States of America,S Sriharsha,IM Vaghela,AH Maqsood,1,0,,,,,,"",""
+ball,2,9.3,United States of America,IM Vaghela,S Sriharsha,AH Maqsood,0,0,,,,,,"",""
+ball,2,9.4,United States of America,IM Vaghela,S Sriharsha,AH Maqsood,0,0,,,,,,"",""
+ball,2,9.5,United States of America,IM Vaghela,S Sriharsha,AH Maqsood,1,0,,,,,,"",""
+ball,2,9.6,United States of America,S Sriharsha,IM Vaghela,AH Maqsood,0,0,,,,,,"",""
+ball,2,10.1,United States of America,IM Vaghela,S Sriharsha,S Horley,0,0,,,,,,bowled,IM Vaghela
+ball,2,10.2,United States of America,T Chopra,S Sriharsha,S Horley,0,0,,,,,,"",""
+ball,2,10.3,United States of America,T Chopra,S Sriharsha,S Horley,0,0,,,,,,"",""
+ball,2,10.4,United States of America,T Chopra,S Sriharsha,S Horley,2,0,,,,,,"",""
+ball,2,10.5,United States of America,T Chopra,S Sriharsha,S Horley,0,1,1,,,,,"",""
+ball,2,10.6,United States of America,T Chopra,S Sriharsha,S Horley,0,0,,,,,,"",""
+ball,2,10.7,United States of America,T Chopra,S Sriharsha,S Horley,0,0,,,,,,"",""
+ball,2,11.1,United States of America,S Sriharsha,T Chopra,AH Maqsood,1,0,,,,,,"",""
+ball,2,11.2,United States of America,T Chopra,S Sriharsha,AH Maqsood,0,0,,,,,,"",""
+ball,2,11.3,United States of America,T Chopra,S Sriharsha,AH Maqsood,0,1,1,,,,,"",""
+ball,2,11.4,United States of America,T Chopra,S Sriharsha,AH Maqsood,0,0,,,,,,"",""
+ball,2,11.5,United States of America,T Chopra,S Sriharsha,AH Maqsood,0,0,,,,,,lbw,T Chopra
+ball,2,11.6,United States of America,G Kodali,S Sriharsha,AH Maqsood,1,0,,,,,,"",""
+ball,2,11.7,United States of America,S Sriharsha,G Kodali,AH Maqsood,0,0,,,,,,"",""
+ball,2,12.1,United States of America,G Kodali,S Sriharsha,S Horley,0,0,,,,,,"",""
+ball,2,12.2,United States of America,G Kodali,S Sriharsha,S Horley,1,0,,,,,,"",""
+ball,2,12.3,United States of America,S Sriharsha,G Kodali,S Horley,0,0,,,,,,bowled,S Sriharsha
+ball,2,12.4,United States of America,B Bhadriraju,G Kodali,S Horley,0,0,,,,,,"",""
+ball,2,12.5,United States of America,B Bhadriraju,G Kodali,S Horley,0,0,,,,,,"",""
+ball,2,12.6,United States of America,B Bhadriraju,G Kodali,S Horley,0,1,1,,,,,"",""
+ball,2,12.7,United States of America,B Bhadriraju,G Kodali,S Horley,0,0,,,,,,"",""
+ball,2,13.1,United States of America,G Kodali,B Bhadriraju,HRA Rainey,1,0,,,,,,"",""
+ball,2,13.2,United States of America,B Bhadriraju,G Kodali,HRA Rainey,0,0,,,,,,bowled,B Bhadriraju
+ball,2,13.3,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,13.4,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,13.5,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,13.6,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,14.1,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,14.2,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,14.3,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,14.4,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,14.5,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,14.6,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,15.1,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,15.2,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,15.3,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,15.4,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,15.5,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,15.6,United States of America,ST Eyyunni,G Kodali,HRA Rainey,1,0,,,,,,"",""
+ball,2,16.1,United States of America,ST Eyyunni,G Kodali,S Horley,0,0,,,,,,"",""
+ball,2,16.2,United States of America,ST Eyyunni,G Kodali,S Horley,1,0,,,,,,"",""
+ball,2,16.3,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,16.4,United States of America,G Kodali,ST Eyyunni,S Horley,1,0,,,,,,"",""
+ball,2,16.5,United States of America,ST Eyyunni,G Kodali,S Horley,1,0,,,,,,"",""
+ball,2,16.6,United States of America,G Kodali,ST Eyyunni,S Horley,0,0,,,,,,"",""
+ball,2,17.1,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,17.2,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,17.3,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,17.4,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,17.5,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,17.6,United States of America,ST Eyyunni,G Kodali,HRA Rainey,0,0,,,,,,"",""
+ball,2,18.1,United States of America,G Kodali,ST Eyyunni,AH Maqsood,0,0,,,,,,"",""
+ball,2,18.2,United States of America,G Kodali,ST Eyyunni,AH Maqsood,0,0,,,,,,"",""
+ball,2,18.3,United States of America,G Kodali,ST Eyyunni,AH Maqsood,0,0,,,,,,"",""
+ball,2,18.4,United States of America,G Kodali,ST Eyyunni,AH Maqsood,0,0,,,,,,"",""
+ball,2,18.5,United States of America,G Kodali,ST Eyyunni,AH Maqsood,0,0,,,,,,"",""
+ball,2,18.6,United States of America,G Kodali,ST Eyyunni,AH Maqsood,0,3,3,,,,,"",""
+ball,2,18.7,United States of America,G Kodali,ST Eyyunni,AH Maqsood,1,0,,,,,,"",""
+ball,2,19.1,United States of America,G Kodali,ST Eyyunni,K Fraser,0,1,1,,,,,"",""
+ball,2,19.2,United States of America,G Kodali,ST Eyyunni,K Fraser,0,0,,,,,,caught,G Kodali

@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2024
+info,date,2024/05/23
+info,event,South Africa tour of West Indies
+info,match_number,1
+info,venue,"Sabina Park, Kingston, Jamaica"
+info,city,Kingston
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,BA King
+info,umpire,GO Brathwaite
+info,umpire,JS Wilson
+info,reserve_umpire,N Duguid
+info,tv_umpire,LS Reifer
+info,match_referee,RB Richardson
+info,winner,West Indies
+info,winner_runs,28
+info,player,West Indies,BA King
+info,player,West Indies,J Charles
+info,player,West Indies,KR Mayers
+info,player,West Indies,RL Chase
+info,player,West Indies,ADS Fletcher
+info,player,West Indies,FA Allen
+info,player,West Indies,AJ Hosein
+info,player,West Indies,MW Forde
+info,player,West Indies,G Motie
+info,player,West Indies,S Joseph
+info,player,West Indies,OC McCoy
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,RD Rickelton
+info,player,South Africa,MP Breetzke
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,PWA Mulder
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,BC Fortuin
+info,player,South Africa,G Coetzee
+info,player,South Africa,L Ngidi
+info,player,South Africa,OEG Baartman
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BA King,7fca84b7
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Charles,09a9d073
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,N Duguid,64495506
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Joseph,97290faf
+ball,1,0.1,West Indies,BA King,J Charles,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.2,West Indies,BA King,J Charles,BC Fortuin,4,0,,,,,,"",""
+ball,1,0.3,West Indies,BA King,J Charles,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.4,West Indies,BA King,J Charles,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.5,West Indies,J Charles,BA King,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.6,West Indies,J Charles,BA King,BC Fortuin,0,0,,,,,,"",""
+ball,1,1.1,West Indies,BA King,J Charles,L Ngidi,0,1,1,,,,,"",""
+ball,1,1.2,West Indies,BA King,J Charles,L Ngidi,4,0,,,,,,"",""
+ball,1,1.3,West Indies,BA King,J Charles,L Ngidi,0,0,,,,,,"",""
+ball,1,1.4,West Indies,BA King,J Charles,L Ngidi,0,0,,,,,,"",""
+ball,1,1.5,West Indies,BA King,J Charles,L Ngidi,0,0,,,,,,"",""
+ball,1,1.6,West Indies,BA King,J Charles,L Ngidi,6,0,,,,,,"",""
+ball,1,1.7,West Indies,BA King,J Charles,L Ngidi,1,0,,,,,,"",""
+ball,1,2.1,West Indies,BA King,J Charles,G Coetzee,0,0,,,,,,"",""
+ball,1,2.2,West Indies,BA King,J Charles,G Coetzee,0,0,,,,,,"",""
+ball,1,2.3,West Indies,BA King,J Charles,G Coetzee,0,4,,,,4,,"",""
+ball,1,2.4,West Indies,BA King,J Charles,G Coetzee,6,0,,,,,,"",""
+ball,1,2.5,West Indies,BA King,J Charles,G Coetzee,4,0,,,,,,"",""
+ball,1,2.6,West Indies,BA King,J Charles,G Coetzee,0,1,1,,,,,"",""
+ball,1,2.7,West Indies,BA King,J Charles,G Coetzee,2,0,,,,,,"",""
+ball,1,3.1,West Indies,J Charles,BA King,OEG Baartman,1,0,,,,,,"",""
+ball,1,3.2,West Indies,BA King,J Charles,OEG Baartman,1,0,,,,,,"",""
+ball,1,3.3,West Indies,J Charles,BA King,OEG Baartman,0,0,,,,,,"",""
+ball,1,3.4,West Indies,J Charles,BA King,OEG Baartman,0,0,,,,,,caught,J Charles
+ball,1,3.5,West Indies,KR Mayers,BA King,OEG Baartman,4,0,,,,,,"",""
+ball,1,3.6,West Indies,KR Mayers,BA King,OEG Baartman,0,0,,,,,,"",""
+ball,1,4.1,West Indies,BA King,KR Mayers,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,4.2,West Indies,KR Mayers,BA King,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,4.3,West Indies,BA King,KR Mayers,AL Phehlukwayo,4,0,,,,,,"",""
+ball,1,4.4,West Indies,BA King,KR Mayers,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,4.5,West Indies,BA King,KR Mayers,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,4.6,West Indies,BA King,KR Mayers,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,5.1,West Indies,BA King,KR Mayers,L Ngidi,4,0,,,,,,"",""
+ball,1,5.2,West Indies,BA King,KR Mayers,L Ngidi,0,0,,,,,,"",""
+ball,1,5.3,West Indies,BA King,KR Mayers,L Ngidi,1,0,,,,,,"",""
+ball,1,5.4,West Indies,KR Mayers,BA King,L Ngidi,1,0,,,,,,"",""
+ball,1,5.5,West Indies,BA King,KR Mayers,L Ngidi,4,0,,,,,,"",""
+ball,1,5.6,West Indies,BA King,KR Mayers,L Ngidi,1,0,,,,,,"",""
+ball,1,6.1,West Indies,BA King,KR Mayers,BC Fortuin,0,0,,,,,,"",""
+ball,1,6.2,West Indies,BA King,KR Mayers,BC Fortuin,0,0,,,,,,"",""
+ball,1,6.3,West Indies,BA King,KR Mayers,BC Fortuin,6,0,,,,,,"",""
+ball,1,6.4,West Indies,BA King,KR Mayers,BC Fortuin,2,0,,,,,,"",""
+ball,1,6.5,West Indies,BA King,KR Mayers,BC Fortuin,1,0,,,,,,"",""
+ball,1,6.6,West Indies,KR Mayers,BA King,BC Fortuin,0,0,,,,,,"",""
+ball,1,7.1,West Indies,BA King,KR Mayers,G Coetzee,0,0,,,,,,"",""
+ball,1,7.2,West Indies,BA King,KR Mayers,G Coetzee,6,0,,,,,,"",""
+ball,1,7.3,West Indies,BA King,KR Mayers,G Coetzee,0,0,,,,,,"",""
+ball,1,7.4,West Indies,BA King,KR Mayers,G Coetzee,0,0,,,,,,"",""
+ball,1,7.5,West Indies,BA King,KR Mayers,G Coetzee,0,2,2,,,,,"",""
+ball,1,7.6,West Indies,KR Mayers,BA King,G Coetzee,1,0,,,,,,"",""
+ball,1,7.7,West Indies,BA King,KR Mayers,G Coetzee,0,0,,,,,,"",""
+ball,1,8.1,West Indies,KR Mayers,BA King,OEG Baartman,1,0,,,,,,"",""
+ball,1,8.2,West Indies,BA King,KR Mayers,OEG Baartman,6,0,,,,,,"",""
+ball,1,8.3,West Indies,BA King,KR Mayers,OEG Baartman,1,0,,,,,,"",""
+ball,1,8.4,West Indies,KR Mayers,BA King,OEG Baartman,1,0,,,,,,"",""
+ball,1,8.5,West Indies,BA King,KR Mayers,OEG Baartman,1,0,,,,,,"",""
+ball,1,8.6,West Indies,KR Mayers,BA King,OEG Baartman,1,0,,,,,,"",""
+ball,1,9.1,West Indies,KR Mayers,BA King,PWA Mulder,6,0,,,,,,"",""
+ball,1,9.2,West Indies,KR Mayers,BA King,PWA Mulder,0,0,,,,,,"",""
+ball,1,9.3,West Indies,KR Mayers,BA King,PWA Mulder,0,0,,,,,,"",""
+ball,1,9.4,West Indies,KR Mayers,BA King,PWA Mulder,0,1,1,,,,,"",""
+ball,1,9.5,West Indies,KR Mayers,BA King,PWA Mulder,6,0,,,,,,"",""
+ball,1,9.6,West Indies,KR Mayers,BA King,PWA Mulder,1,0,,,,,,"",""
+ball,1,9.7,West Indies,BA King,KR Mayers,PWA Mulder,2,0,,,,,,"",""
+ball,1,10.1,West Indies,KR Mayers,BA King,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,10.2,West Indies,BA King,KR Mayers,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,10.3,West Indies,BA King,KR Mayers,AL Phehlukwayo,2,0,,,,,,"",""
+ball,1,10.4,West Indies,BA King,KR Mayers,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,10.5,West Indies,BA King,KR Mayers,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,10.6,West Indies,KR Mayers,BA King,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,10.7,West Indies,BA King,KR Mayers,AL Phehlukwayo,0,0,,,,,,caught,BA King
+ball,1,11.1,West Indies,KR Mayers,RL Chase,RR Hendricks,1,0,,,,,,"",""
+ball,1,11.2,West Indies,RL Chase,KR Mayers,RR Hendricks,0,4,,,,4,,"",""
+ball,1,11.3,West Indies,RL Chase,KR Mayers,RR Hendricks,1,0,,,,,,"",""
+ball,1,11.4,West Indies,KR Mayers,RL Chase,RR Hendricks,0,0,,,,,,"",""
+ball,1,11.5,West Indies,KR Mayers,RL Chase,RR Hendricks,0,0,,,,,,"",""
+ball,1,11.6,West Indies,KR Mayers,RL Chase,RR Hendricks,6,0,,,,,,"",""
+ball,1,12.1,West Indies,RL Chase,KR Mayers,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.2,West Indies,KR Mayers,RL Chase,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,12.3,West Indies,KR Mayers,RL Chase,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.4,West Indies,RL Chase,KR Mayers,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.5,West Indies,KR Mayers,RL Chase,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.6,West Indies,RL Chase,KR Mayers,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,13.1,West Indies,RL Chase,KR Mayers,G Coetzee,0,1,1,,,,,"",""
+ball,1,13.2,West Indies,RL Chase,KR Mayers,G Coetzee,1,0,,,,,,"",""
+ball,1,13.3,West Indies,KR Mayers,RL Chase,G Coetzee,0,0,,,,,,"",""
+ball,1,13.4,West Indies,KR Mayers,RL Chase,G Coetzee,0,0,,,,,,caught,KR Mayers
+ball,1,13.5,West Indies,ADS Fletcher,RL Chase,G Coetzee,1,0,,,,,,"",""
+ball,1,13.6,West Indies,RL Chase,ADS Fletcher,G Coetzee,0,0,,,,,,"",""
+ball,1,13.7,West Indies,RL Chase,ADS Fletcher,G Coetzee,0,0,,,,,,"",""
+ball,1,14.1,West Indies,ADS Fletcher,RL Chase,AL Phehlukwayo,0,0,,,,,,bowled,ADS Fletcher
+ball,1,14.2,West Indies,FA Allen,RL Chase,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,14.3,West Indies,RL Chase,FA Allen,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,14.4,West Indies,FA Allen,RL Chase,AL Phehlukwayo,0,0,,,,,,lbw,FA Allen
+ball,1,14.5,West Indies,AJ Hosein,RL Chase,AL Phehlukwayo,0,4,,,4,,,"",""
+ball,1,14.6,West Indies,AJ Hosein,RL Chase,AL Phehlukwayo,2,0,,,,,,"",""
+ball,1,15.1,West Indies,RL Chase,AJ Hosein,L Ngidi,4,0,,,,,,"",""
+ball,1,15.2,West Indies,RL Chase,AJ Hosein,L Ngidi,4,0,,,,,,"",""
+ball,1,15.3,West Indies,RL Chase,AJ Hosein,L Ngidi,0,0,,,,,,"",""
+ball,1,15.4,West Indies,RL Chase,AJ Hosein,L Ngidi,0,0,,,,,,"",""
+ball,1,15.5,West Indies,RL Chase,AJ Hosein,L Ngidi,0,0,,,,,,"",""
+ball,1,15.6,West Indies,RL Chase,AJ Hosein,L Ngidi,0,0,,,,,,"",""
+ball,1,16.1,West Indies,AJ Hosein,RL Chase,OEG Baartman,0,0,,,,,,bowled,AJ Hosein
+ball,1,16.2,West Indies,MW Forde,RL Chase,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.3,West Indies,MW Forde,RL Chase,OEG Baartman,1,0,,,,,,"",""
+ball,1,16.4,West Indies,RL Chase,MW Forde,OEG Baartman,2,0,,,,,,"",""
+ball,1,16.5,West Indies,RL Chase,MW Forde,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.6,West Indies,RL Chase,MW Forde,OEG Baartman,1,0,,,,,,"",""
+ball,1,17.1,West Indies,RL Chase,MW Forde,G Coetzee,0,0,,,,,,"",""
+ball,1,17.2,West Indies,RL Chase,MW Forde,G Coetzee,1,0,,,,,,"",""
+ball,1,17.3,West Indies,MW Forde,RL Chase,G Coetzee,1,0,,,,,,"",""
+ball,1,17.4,West Indies,RL Chase,MW Forde,G Coetzee,1,0,,,,,,"",""
+ball,1,17.5,West Indies,MW Forde,RL Chase,G Coetzee,1,0,,,,,,"",""
+ball,1,17.6,West Indies,RL Chase,MW Forde,G Coetzee,1,0,,,,,,"",""
+ball,1,18.1,West Indies,RL Chase,MW Forde,OEG Baartman,1,0,,,,,,"",""
+ball,1,18.2,West Indies,MW Forde,RL Chase,OEG Baartman,1,0,,,,,,"",""
+ball,1,18.3,West Indies,RL Chase,MW Forde,OEG Baartman,1,0,,,,,,"",""
+ball,1,18.4,West Indies,MW Forde,RL Chase,OEG Baartman,1,0,,,,,,"",""
+ball,1,18.5,West Indies,RL Chase,MW Forde,OEG Baartman,1,0,,,,,,"",""
+ball,1,18.6,West Indies,MW Forde,RL Chase,OEG Baartman,0,0,,,,,,caught,MW Forde
+ball,1,19.1,West Indies,RL Chase,G Motie,L Ngidi,1,0,,,,,,"",""
+ball,1,19.2,West Indies,G Motie,RL Chase,L Ngidi,1,0,,,,,,"",""
+ball,1,19.3,West Indies,RL Chase,G Motie,L Ngidi,0,0,,,,,,"",""
+ball,1,19.4,West Indies,RL Chase,G Motie,L Ngidi,6,0,,,,,,"",""
+ball,1,19.5,West Indies,RL Chase,G Motie,L Ngidi,1,0,,,,,,run out,G Motie
+ball,1,19.6,West Indies,RL Chase,S Joseph,L Ngidi,1,0,,,,,,"",""
+ball,2,0.1,South Africa,Q de Kock,RR Hendricks,MW Forde,4,0,,,,,,"",""
+ball,2,0.2,South Africa,Q de Kock,RR Hendricks,MW Forde,0,0,,,,,,caught,Q de Kock
+ball,2,0.3,South Africa,RD Rickelton,RR Hendricks,MW Forde,2,0,,,,,,"",""
+ball,2,0.4,South Africa,RD Rickelton,RR Hendricks,MW Forde,0,0,,,,,,"",""
+ball,2,0.5,South Africa,RD Rickelton,RR Hendricks,MW Forde,2,0,,,,,,"",""
+ball,2,0.6,South Africa,RD Rickelton,RR Hendricks,MW Forde,1,0,,,,,,"",""
+ball,2,1.1,South Africa,RD Rickelton,RR Hendricks,RL Chase,0,0,,,,,,"",""
+ball,2,1.2,South Africa,RD Rickelton,RR Hendricks,RL Chase,1,0,,,,,,"",""
+ball,2,1.3,South Africa,RR Hendricks,RD Rickelton,RL Chase,1,0,,,,,,"",""
+ball,2,1.4,South Africa,RD Rickelton,RR Hendricks,RL Chase,0,0,,,,,,stumped,RD Rickelton
+ball,2,1.5,South Africa,MP Breetzke,RR Hendricks,RL Chase,0,0,,,,,,"",""
+ball,2,1.6,South Africa,MP Breetzke,RR Hendricks,RL Chase,0,0,,,,,,"",""
+ball,2,2.1,South Africa,RR Hendricks,MP Breetzke,S Joseph,0,1,1,,,,,"",""
+ball,2,2.2,South Africa,RR Hendricks,MP Breetzke,S Joseph,1,0,,,,,,"",""
+ball,2,2.3,South Africa,MP Breetzke,RR Hendricks,S Joseph,0,0,,,,,,"",""
+ball,2,2.4,South Africa,MP Breetzke,RR Hendricks,S Joseph,0,0,,,,,,"",""
+ball,2,2.5,South Africa,MP Breetzke,RR Hendricks,S Joseph,1,0,,,,,,"",""
+ball,2,2.6,South Africa,RR Hendricks,MP Breetzke,S Joseph,0,0,,,,,,"",""
+ball,2,2.7,South Africa,RR Hendricks,MP Breetzke,S Joseph,1,0,,,,,,"",""
+ball,2,3.1,South Africa,RR Hendricks,MP Breetzke,AJ Hosein,1,0,,,,,,"",""
+ball,2,3.2,South Africa,MP Breetzke,RR Hendricks,AJ Hosein,0,0,,,,,,"",""
+ball,2,3.3,South Africa,MP Breetzke,RR Hendricks,AJ Hosein,4,0,,,,,,"",""
+ball,2,3.4,South Africa,MP Breetzke,RR Hendricks,AJ Hosein,4,0,,,,,,"",""
+ball,2,3.5,South Africa,MP Breetzke,RR Hendricks,AJ Hosein,4,0,,,,,,"",""
+ball,2,3.6,South Africa,MP Breetzke,RR Hendricks,AJ Hosein,1,0,,,,,,"",""
+ball,2,4.1,South Africa,MP Breetzke,RR Hendricks,S Joseph,4,0,,,,,,"",""
+ball,2,4.2,South Africa,MP Breetzke,RR Hendricks,S Joseph,1,0,,,,,,"",""
+ball,2,4.3,South Africa,RR Hendricks,MP Breetzke,S Joseph,1,0,,,,,,"",""
+ball,2,4.4,South Africa,MP Breetzke,RR Hendricks,S Joseph,0,0,,,,,,lbw,MP Breetzke
+ball,2,4.5,South Africa,HE van der Dussen,RR Hendricks,S Joseph,0,0,,,,,,"",""
+ball,2,4.6,South Africa,HE van der Dussen,RR Hendricks,S Joseph,1,0,,,,,,"",""
+ball,2,5.1,South Africa,HE van der Dussen,RR Hendricks,FA Allen,1,0,,,,,,"",""
+ball,2,5.2,South Africa,RR Hendricks,HE van der Dussen,FA Allen,4,0,,,,,,"",""
+ball,2,5.3,South Africa,RR Hendricks,HE van der Dussen,FA Allen,2,0,,,,,,"",""
+ball,2,5.4,South Africa,RR Hendricks,HE van der Dussen,FA Allen,1,0,,,,,,"",""
+ball,2,5.5,South Africa,HE van der Dussen,RR Hendricks,FA Allen,1,0,,,,,,"",""
+ball,2,5.6,South Africa,RR Hendricks,HE van der Dussen,FA Allen,1,0,,,,,,"",""
+ball,2,6.1,South Africa,RR Hendricks,HE van der Dussen,OC McCoy,0,0,,,,,,"",""
+ball,2,6.2,South Africa,RR Hendricks,HE van der Dussen,OC McCoy,6,0,,,,,,"",""
+ball,2,6.3,South Africa,RR Hendricks,HE van der Dussen,OC McCoy,1,0,,,,,,"",""
+ball,2,6.4,South Africa,HE van der Dussen,RR Hendricks,OC McCoy,0,0,,,,,,"",""
+ball,2,6.5,South Africa,HE van der Dussen,RR Hendricks,OC McCoy,2,0,,,,,,"",""
+ball,2,6.6,South Africa,HE van der Dussen,RR Hendricks,OC McCoy,0,0,,,,,,"",""
+ball,2,7.1,South Africa,RR Hendricks,HE van der Dussen,G Motie,0,0,,,,,,"",""
+ball,2,7.2,South Africa,RR Hendricks,HE van der Dussen,G Motie,4,0,,,,,,"",""
+ball,2,7.3,South Africa,RR Hendricks,HE van der Dussen,G Motie,1,0,,,,,,"",""
+ball,2,7.4,South Africa,HE van der Dussen,RR Hendricks,G Motie,1,0,,,,,,"",""
+ball,2,7.5,South Africa,RR Hendricks,HE van der Dussen,G Motie,1,0,,,,,,"",""
+ball,2,7.6,South Africa,HE van der Dussen,RR Hendricks,G Motie,1,0,,,,,,"",""
+ball,2,8.1,South Africa,HE van der Dussen,RR Hendricks,FA Allen,2,0,,,,,,"",""
+ball,2,8.2,South Africa,HE van der Dussen,RR Hendricks,FA Allen,0,0,,,,,,"",""
+ball,2,8.3,South Africa,HE van der Dussen,RR Hendricks,FA Allen,0,0,,,,,,"",""
+ball,2,8.4,South Africa,HE van der Dussen,RR Hendricks,FA Allen,1,0,,,,,,"",""
+ball,2,8.5,South Africa,RR Hendricks,HE van der Dussen,FA Allen,0,0,,,,,,"",""
+ball,2,8.6,South Africa,RR Hendricks,HE van der Dussen,FA Allen,1,0,,,,,,"",""
+ball,2,9.1,South Africa,RR Hendricks,HE van der Dussen,RL Chase,2,0,,,,,,"",""
+ball,2,9.2,South Africa,RR Hendricks,HE van der Dussen,RL Chase,1,0,,,,,,"",""
+ball,2,9.3,South Africa,HE van der Dussen,RR Hendricks,RL Chase,4,0,,,,,,"",""
+ball,2,9.4,South Africa,HE van der Dussen,RR Hendricks,RL Chase,2,0,,,,,,"",""
+ball,2,9.5,South Africa,HE van der Dussen,RR Hendricks,RL Chase,1,0,,,,,,"",""
+ball,2,9.6,South Africa,RR Hendricks,HE van der Dussen,RL Chase,0,0,,,,,,"",""
+ball,2,10.1,South Africa,HE van der Dussen,RR Hendricks,G Motie,0,0,,,,,,lbw,HE van der Dussen
+ball,2,10.2,South Africa,PWA Mulder,RR Hendricks,G Motie,0,1,1,,,,,"",""
+ball,2,10.3,South Africa,PWA Mulder,RR Hendricks,G Motie,0,0,,,,,,"",""
+ball,2,10.4,South Africa,PWA Mulder,RR Hendricks,G Motie,0,0,,,,,,"",""
+ball,2,10.5,South Africa,PWA Mulder,RR Hendricks,G Motie,0,0,,,,,,"",""
+ball,2,10.6,South Africa,PWA Mulder,RR Hendricks,G Motie,0,0,,,,,,caught,PWA Mulder
+ball,2,10.7,South Africa,AL Phehlukwayo,RR Hendricks,G Motie,1,0,,,,,,"",""
+ball,2,11.1,South Africa,AL Phehlukwayo,RR Hendricks,MW Forde,0,0,,,,,,"",""
+ball,2,11.2,South Africa,AL Phehlukwayo,RR Hendricks,MW Forde,0,0,,,,,,"",""
+ball,2,11.3,South Africa,AL Phehlukwayo,RR Hendricks,MW Forde,1,0,,,,,,"",""
+ball,2,11.4,South Africa,RR Hendricks,AL Phehlukwayo,MW Forde,6,0,,,,,,"",""
+ball,2,11.5,South Africa,RR Hendricks,AL Phehlukwayo,MW Forde,1,0,,,,,,"",""
+ball,2,11.6,South Africa,AL Phehlukwayo,RR Hendricks,MW Forde,0,0,,,,,,"",""
+ball,2,12.1,South Africa,RR Hendricks,AL Phehlukwayo,G Motie,0,0,,,,,,"",""
+ball,2,12.2,South Africa,RR Hendricks,AL Phehlukwayo,G Motie,1,0,,,,,,"",""
+ball,2,12.3,South Africa,AL Phehlukwayo,RR Hendricks,G Motie,1,0,,,,,,"",""
+ball,2,12.4,South Africa,RR Hendricks,AL Phehlukwayo,G Motie,1,0,,,,,,"",""
+ball,2,12.5,South Africa,AL Phehlukwayo,RR Hendricks,G Motie,0,1,,,1,,,"",""
+ball,2,12.6,South Africa,RR Hendricks,AL Phehlukwayo,G Motie,1,0,,,,,,"",""
+ball,2,13.1,South Africa,RR Hendricks,AL Phehlukwayo,OC McCoy,0,1,,,,1,,"",""
+ball,2,13.2,South Africa,AL Phehlukwayo,RR Hendricks,OC McCoy,0,0,,,,,,"",""
+ball,2,13.3,South Africa,AL Phehlukwayo,RR Hendricks,OC McCoy,0,0,,,,,,"",""
+ball,2,13.4,South Africa,AL Phehlukwayo,RR Hendricks,OC McCoy,0,1,1,,,,,"",""
+ball,2,13.5,South Africa,AL Phehlukwayo,RR Hendricks,OC McCoy,1,0,,,,,,"",""
+ball,2,13.6,South Africa,RR Hendricks,AL Phehlukwayo,OC McCoy,1,0,,,,,,"",""
+ball,2,13.7,South Africa,AL Phehlukwayo,RR Hendricks,OC McCoy,0,0,,,,,,caught,AL Phehlukwayo
+ball,2,14.1,South Africa,RR Hendricks,BC Fortuin,G Motie,4,0,,,,,,"",""
+ball,2,14.2,South Africa,RR Hendricks,BC Fortuin,G Motie,6,0,,,,,,"",""
+ball,2,14.3,South Africa,RR Hendricks,BC Fortuin,G Motie,1,0,,,,,,"",""
+ball,2,14.4,South Africa,BC Fortuin,RR Hendricks,G Motie,0,0,,,,,,bowled,BC Fortuin
+ball,2,14.5,South Africa,G Coetzee,RR Hendricks,G Motie,0,0,,,,,,"",""
+ball,2,14.6,South Africa,G Coetzee,RR Hendricks,G Motie,0,0,,,,,,"",""
+ball,2,15.1,South Africa,RR Hendricks,G Coetzee,OC McCoy,0,0,,,,,,"",""
+ball,2,15.2,South Africa,RR Hendricks,G Coetzee,OC McCoy,1,0,,,,,,"",""
+ball,2,15.3,South Africa,G Coetzee,RR Hendricks,OC McCoy,0,0,,,,,,"",""
+ball,2,15.4,South Africa,G Coetzee,RR Hendricks,OC McCoy,0,0,,,,,,caught,G Coetzee
+ball,2,15.5,South Africa,L Ngidi,RR Hendricks,OC McCoy,1,0,,,,,,"",""
+ball,2,15.6,South Africa,RR Hendricks,L Ngidi,OC McCoy,1,0,,,,,,"",""
+ball,2,16.1,South Africa,RR Hendricks,L Ngidi,FA Allen,1,0,,,,,,"",""
+ball,2,16.2,South Africa,L Ngidi,RR Hendricks,FA Allen,0,0,,,,,,"",""
+ball,2,16.3,South Africa,L Ngidi,RR Hendricks,FA Allen,0,0,,,,,,"",""
+ball,2,16.4,South Africa,L Ngidi,RR Hendricks,FA Allen,4,0,,,,,,"",""
+ball,2,16.5,South Africa,L Ngidi,RR Hendricks,FA Allen,0,0,,,,,,"",""
+ball,2,16.6,South Africa,L Ngidi,RR Hendricks,FA Allen,0,0,,,,,,"",""
+ball,2,17.1,South Africa,RR Hendricks,L Ngidi,S Joseph,4,0,,,,,,"",""
+ball,2,17.2,South Africa,RR Hendricks,L Ngidi,S Joseph,0,0,,,,,,"",""
+ball,2,17.3,South Africa,RR Hendricks,L Ngidi,S Joseph,0,0,,,,,,"",""
+ball,2,17.4,South Africa,RR Hendricks,L Ngidi,S Joseph,4,0,,,,,,"",""
+ball,2,17.5,South Africa,RR Hendricks,L Ngidi,S Joseph,1,0,,,,,,"",""
+ball,2,17.6,South Africa,L Ngidi,RR Hendricks,S Joseph,0,0,,,,,,"",""
+ball,2,18.1,South Africa,RR Hendricks,L Ngidi,FA Allen,0,0,,,,,,"",""
+ball,2,18.2,South Africa,RR Hendricks,L Ngidi,FA Allen,0,0,,,,,,"",""
+ball,2,18.3,South Africa,RR Hendricks,L Ngidi,FA Allen,6,0,,,,,,"",""
+ball,2,18.4,South Africa,RR Hendricks,L Ngidi,FA Allen,6,0,,,,,,"",""
+ball,2,18.5,South Africa,RR Hendricks,L Ngidi,FA Allen,1,0,,,,,,"",""
+ball,2,18.6,South Africa,L Ngidi,RR Hendricks,FA Allen,0,0,,,,,,"",""
+ball,2,19.1,South Africa,RR Hendricks,L Ngidi,MW Forde,4,0,,,,,,"",""
+ball,2,19.2,South Africa,RR Hendricks,L Ngidi,MW Forde,6,0,,,,,,"",""
+ball,2,19.3,South Africa,RR Hendricks,L Ngidi,MW Forde,0,0,,,,,,"",""
+ball,2,19.4,South Africa,RR Hendricks,L Ngidi,MW Forde,0,0,,,,,,caught,RR Hendricks
+ball,2,19.5,South Africa,OEG Baartman,L Ngidi,MW Forde,0,0,,,,,,bowled,OEG Baartman

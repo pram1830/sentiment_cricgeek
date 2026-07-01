@@ -1,0 +1,354 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Turkey
+info,gender,female
+info,season,2025/26
+info,date,2025/10/10
+info,event,Women's Continental Cup
+info,match_number,3
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,P Sabu
+info,winner,Austria
+info,winner_runs,9
+info,player,Austria,P Sabu
+info,player,Austria,H Bhullar
+info,player,Austria,AM Zepeda
+info,player,Austria,S Bhardwaj
+info,player,Austria,MPM Pathirannehelage
+info,player,Austria,SM Ariyasinghage
+info,player,Austria,Ashi Chopla
+info,player,Austria,A Nookala
+info,player,Austria,Hadia Siddiqui
+info,player,Austria,A Saifee
+info,player,Austria,P Ganeshan
+info,player,Turkey,D Tekyildirim
+info,player,Turkey,S Ozkunduz
+info,player,Turkey,H Celik
+info,player,Turkey,M Bayram
+info,player,Turkey,G Ayan
+info,player,Turkey,Ezgi Nur Kilic
+info,player,Turkey,K Canavarci
+info,player,Turkey,S Yildirim
+info,player,Turkey,G Cengiz
+info,player,Turkey,G Keles
+info,player,Turkey,R Cenik
+info,registry,people,A Nookala,57922f7c
+info,registry,people,A Saifee,7efe9059
+info,registry,people,AM Zepeda,c9f95a16
+info,registry,people,Ashi Chopla,89d6902b
+info,registry,people,D Tekyildirim,ae5f7b63
+info,registry,people,Ezgi Nur Kilic,ec8132b2
+info,registry,people,G Ayan,66d258e2
+info,registry,people,G Cengiz,be59ed3f
+info,registry,people,G Keles,3e84a803
+info,registry,people,H Bhullar,c9ffb93d
+info,registry,people,H Celik,266f372c
+info,registry,people,Hadia Siddiqui,14bc5d2d
+info,registry,people,K Canavarci,556ad437
+info,registry,people,M Bayram,4867ffbf
+info,registry,people,MPM Pathirannehelage,0c142594
+info,registry,people,P Ganeshan,3829c5ea
+info,registry,people,P Sabu,a38da707
+info,registry,people,R Cenik,050009d9
+info,registry,people,S Bhardwaj,83e9173e
+info,registry,people,S Ozkunduz,25850e31
+info,registry,people,S Yildirim,aae9b47b
+info,registry,people,SM Ariyasinghage,64ddc3e7
+ball,1,0.1,Austria,P Sabu,H Bhullar,K Canavarci,0,0,,,,,,"",""
+ball,1,0.2,Austria,P Sabu,H Bhullar,K Canavarci,2,0,,,,,,"",""
+ball,1,0.3,Austria,P Sabu,H Bhullar,K Canavarci,0,0,,,,,,"",""
+ball,1,0.4,Austria,P Sabu,H Bhullar,K Canavarci,4,0,,,,,,"",""
+ball,1,0.5,Austria,P Sabu,H Bhullar,K Canavarci,1,0,,,,,,"",""
+ball,1,0.6,Austria,H Bhullar,P Sabu,K Canavarci,1,0,,,,,,"",""
+ball,1,1.1,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,1,1,,,,,"",""
+ball,1,1.2,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,1.3,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,1,1,,,,,"",""
+ball,1,1.4,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,1.5,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,1,1,,,,,"",""
+ball,1,1.6,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,1,0,,,,,,"",""
+ball,1,1.7,Austria,P Sabu,H Bhullar,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,1.8,Austria,P Sabu,H Bhullar,Ezgi Nur Kilic,1,0,,,,,,"",""
+ball,1,1.9,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,2,2,,,,,"",""
+ball,1,1.10,Austria,P Sabu,H Bhullar,Ezgi Nur Kilic,1,0,,,,,,"",""
+ball,1,2.1,Austria,P Sabu,H Bhullar,K Canavarci,1,0,,,,,,"",""
+ball,1,2.2,Austria,H Bhullar,P Sabu,K Canavarci,0,0,,,,,,"",""
+ball,1,2.3,Austria,H Bhullar,P Sabu,K Canavarci,0,1,1,,,,,"",""
+ball,1,2.4,Austria,H Bhullar,P Sabu,K Canavarci,1,0,,,,,,"",""
+ball,1,2.5,Austria,P Sabu,H Bhullar,K Canavarci,1,0,,,,,,"",""
+ball,1,2.6,Austria,H Bhullar,P Sabu,K Canavarci,1,0,,,,,,"",""
+ball,1,2.7,Austria,P Sabu,H Bhullar,K Canavarci,1,0,,,,,,"",""
+ball,1,3.1,Austria,P Sabu,H Bhullar,Ezgi Nur Kilic,0,1,1,,,,,"",""
+ball,1,3.2,Austria,P Sabu,H Bhullar,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,3.3,Austria,P Sabu,H Bhullar,Ezgi Nur Kilic,0,1,,,1,,,"",""
+ball,1,3.4,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,1,1,,,,,"",""
+ball,1,3.5,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,3.6,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,3.7,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,3.8,Austria,H Bhullar,P Sabu,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,4.1,Austria,P Sabu,H Bhullar,H Celik,2,0,,,,,,"",""
+ball,1,4.2,Austria,P Sabu,H Bhullar,H Celik,2,0,,,,,,"",""
+ball,1,4.3,Austria,P Sabu,H Bhullar,H Celik,0,1,1,,,,,"",""
+ball,1,4.4,Austria,P Sabu,H Bhullar,H Celik,0,0,,,,,,bowled,P Sabu
+ball,1,4.5,Austria,AM Zepeda,H Bhullar,H Celik,1,0,,,,,,"",""
+ball,1,4.6,Austria,H Bhullar,AM Zepeda,H Celik,0,0,,,,,,"",""
+ball,1,4.7,Austria,H Bhullar,AM Zepeda,H Celik,0,0,,,,,,"",""
+ball,1,5.1,Austria,AM Zepeda,H Bhullar,G Ayan,0,2,2,,,,,"",""
+ball,1,5.2,Austria,H Bhullar,AM Zepeda,G Ayan,0,0,,,,,,"",""
+ball,1,5.3,Austria,H Bhullar,AM Zepeda,G Ayan,0,1,1,,,,,"",""
+ball,1,5.4,Austria,H Bhullar,AM Zepeda,G Ayan,0,1,1,,,,,"",""
+ball,1,5.5,Austria,H Bhullar,AM Zepeda,G Ayan,0,1,1,,,,,"",""
+ball,1,5.6,Austria,H Bhullar,AM Zepeda,G Ayan,1,0,,,,,,"",""
+ball,1,5.7,Austria,AM Zepeda,H Bhullar,G Ayan,0,0,,,,,,"",""
+ball,1,5.8,Austria,AM Zepeda,H Bhullar,G Ayan,0,1,1,,,,,"",""
+ball,1,5.9,Austria,AM Zepeda,H Bhullar,G Ayan,0,0,,,,,,"",""
+ball,1,5.10,Austria,AM Zepeda,H Bhullar,G Ayan,1,0,,,,,,"",""
+ball,1,5.11,Austria,H Bhullar,AM Zepeda,G Ayan,0,0,,,,,,"",""
+ball,1,6.1,Austria,AM Zepeda,H Bhullar,H Celik,1,0,,,,,,"",""
+ball,1,6.2,Austria,H Bhullar,AM Zepeda,H Celik,1,0,,,,,,"",""
+ball,1,6.3,Austria,AM Zepeda,H Bhullar,H Celik,0,0,,,,,,"",""
+ball,1,6.4,Austria,AM Zepeda,H Bhullar,H Celik,0,0,,,,,,"",""
+ball,1,6.5,Austria,AM Zepeda,H Bhullar,H Celik,1,0,,,,,,"",""
+ball,1,6.6,Austria,H Bhullar,AM Zepeda,H Celik,1,0,,,,,,"",""
+ball,1,7.1,Austria,H Bhullar,AM Zepeda,G Ayan,0,0,,,,,,"",""
+ball,1,7.2,Austria,H Bhullar,AM Zepeda,G Ayan,0,0,,,,,,"",""
+ball,1,7.3,Austria,H Bhullar,AM Zepeda,G Ayan,1,0,,,,,,"",""
+ball,1,7.4,Austria,AM Zepeda,H Bhullar,G Ayan,0,1,1,,,,,"",""
+ball,1,7.5,Austria,AM Zepeda,H Bhullar,G Ayan,0,0,,,,,,"",""
+ball,1,7.6,Austria,AM Zepeda,H Bhullar,G Ayan,1,0,,,,,,"",""
+ball,1,7.7,Austria,H Bhullar,AM Zepeda,G Ayan,0,0,,,,,,"",""
+ball,1,8.1,Austria,AM Zepeda,H Bhullar,S Ozkunduz,0,1,1,,,,,"",""
+ball,1,8.2,Austria,AM Zepeda,H Bhullar,S Ozkunduz,1,0,,,,,,"",""
+ball,1,8.3,Austria,H Bhullar,AM Zepeda,S Ozkunduz,0,0,,,,,,"",""
+ball,1,8.4,Austria,H Bhullar,AM Zepeda,S Ozkunduz,1,0,,,,,,"",""
+ball,1,8.5,Austria,AM Zepeda,H Bhullar,S Ozkunduz,0,1,1,,,,,"",""
+ball,1,8.6,Austria,AM Zepeda,H Bhullar,S Ozkunduz,1,0,,,,,,"",""
+ball,1,8.7,Austria,H Bhullar,AM Zepeda,S Ozkunduz,1,0,,,,,,"",""
+ball,1,8.8,Austria,AM Zepeda,H Bhullar,S Ozkunduz,0,1,1,,,,,"",""
+ball,1,8.9,Austria,AM Zepeda,H Bhullar,S Ozkunduz,0,1,1,,,,,"",""
+ball,1,8.10,Austria,AM Zepeda,H Bhullar,S Ozkunduz,1,0,,,,,,"",""
+ball,1,9.1,Austria,AM Zepeda,H Bhullar,G Cengiz,1,0,,,,,,"",""
+ball,1,9.2,Austria,H Bhullar,AM Zepeda,G Cengiz,1,0,,,,,,"",""
+ball,1,9.3,Austria,AM Zepeda,H Bhullar,G Cengiz,1,0,,,,,,"",""
+ball,1,9.4,Austria,H Bhullar,AM Zepeda,G Cengiz,0,2,2,,,,,"",""
+ball,1,9.5,Austria,AM Zepeda,H Bhullar,G Cengiz,0,0,,,,,,"",""
+ball,1,9.6,Austria,AM Zepeda,H Bhullar,G Cengiz,2,0,,,,,,"",""
+ball,1,9.7,Austria,AM Zepeda,H Bhullar,G Cengiz,0,1,1,,,,,"",""
+ball,1,9.8,Austria,AM Zepeda,H Bhullar,G Cengiz,2,0,,,,,,"",""
+ball,1,10.1,Austria,H Bhullar,AM Zepeda,G Ayan,1,0,,,,,,"",""
+ball,1,10.2,Austria,AM Zepeda,H Bhullar,G Ayan,0,0,,,,,,"",""
+ball,1,10.3,Austria,AM Zepeda,H Bhullar,G Ayan,0,0,,,,,,"",""
+ball,1,10.4,Austria,AM Zepeda,H Bhullar,G Ayan,0,0,,,,,,"",""
+ball,1,10.5,Austria,AM Zepeda,H Bhullar,G Ayan,1,0,,,,,,"",""
+ball,1,10.6,Austria,H Bhullar,AM Zepeda,G Ayan,1,0,,,,,,"",""
+ball,1,11.1,Austria,H Bhullar,AM Zepeda,S Ozkunduz,0,1,1,,,,,"",""
+ball,1,11.2,Austria,H Bhullar,AM Zepeda,S Ozkunduz,1,0,,,,,,"",""
+ball,1,11.3,Austria,AM Zepeda,H Bhullar,S Ozkunduz,1,0,,,,,,"",""
+ball,1,11.4,Austria,H Bhullar,AM Zepeda,S Ozkunduz,0,1,1,,,,,"",""
+ball,1,11.5,Austria,H Bhullar,AM Zepeda,S Ozkunduz,0,1,1,,,,,"",""
+ball,1,11.6,Austria,H Bhullar,AM Zepeda,S Ozkunduz,1,0,,,,,,"",""
+ball,1,11.7,Austria,AM Zepeda,H Bhullar,S Ozkunduz,0,0,,,,,,"",""
+ball,1,11.8,Austria,AM Zepeda,H Bhullar,S Ozkunduz,4,1,,1,,,,"",""
+ball,1,11.9,Austria,AM Zepeda,H Bhullar,S Ozkunduz,1,0,,,,,,"",""
+ball,1,11.10,Austria,H Bhullar,AM Zepeda,S Ozkunduz,1,0,,,,,,"",""
+ball,1,12.1,Austria,H Bhullar,AM Zepeda,H Celik,0,2,,1,1,,,"",""
+ball,1,12.2,Austria,AM Zepeda,H Bhullar,H Celik,4,0,,,,,,"",""
+ball,1,12.3,Austria,AM Zepeda,H Bhullar,H Celik,2,0,,,,,,"",""
+ball,1,12.4,Austria,AM Zepeda,H Bhullar,H Celik,0,0,,,,,,"",""
+ball,1,12.5,Austria,AM Zepeda,H Bhullar,H Celik,1,0,,,,,,"",""
+ball,1,12.6,Austria,H Bhullar,AM Zepeda,H Celik,0,0,,,,,,bowled,H Bhullar
+ball,1,12.7,Austria,S Bhardwaj,AM Zepeda,H Celik,0,0,,,,,,"",""
+ball,1,13.1,Austria,AM Zepeda,S Bhardwaj,K Canavarci,1,0,,,,,,"",""
+ball,1,13.2,Austria,S Bhardwaj,AM Zepeda,K Canavarci,0,1,1,,,,,"",""
+ball,1,13.3,Austria,S Bhardwaj,AM Zepeda,K Canavarci,0,1,1,,,,,"",""
+ball,1,13.4,Austria,S Bhardwaj,AM Zepeda,K Canavarci,1,0,,,,,,"",""
+ball,1,13.5,Austria,AM Zepeda,S Bhardwaj,K Canavarci,0,0,,,,,,"",""
+ball,1,13.6,Austria,AM Zepeda,S Bhardwaj,K Canavarci,1,0,,,,,,"",""
+ball,1,13.7,Austria,S Bhardwaj,AM Zepeda,K Canavarci,0,0,,,,,,caught,S Bhardwaj
+ball,1,13.8,Austria,MPM Pathirannehelage,AM Zepeda,K Canavarci,0,0,,,,,,"",""
+ball,1,14.1,Austria,AM Zepeda,MPM Pathirannehelage,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,14.2,Austria,AM Zepeda,MPM Pathirannehelage,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,14.3,Austria,AM Zepeda,MPM Pathirannehelage,Ezgi Nur Kilic,1,0,,,,,,"",""
+ball,1,14.4,Austria,MPM Pathirannehelage,AM Zepeda,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,14.5,Austria,MPM Pathirannehelage,AM Zepeda,Ezgi Nur Kilic,2,0,,,,,,"",""
+ball,1,14.6,Austria,MPM Pathirannehelage,AM Zepeda,Ezgi Nur Kilic,2,0,,,,,,"",""
+ball,1,15.1,Austria,AM Zepeda,MPM Pathirannehelage,G Ayan,1,0,,,,,,"",""
+ball,1,15.2,Austria,MPM Pathirannehelage,AM Zepeda,G Ayan,0,1,1,,,,,"",""
+ball,1,15.3,Austria,MPM Pathirannehelage,AM Zepeda,G Ayan,0,2,2,,,,,"",""
+ball,1,15.4,Austria,AM Zepeda,MPM Pathirannehelage,G Ayan,0,0,,,,,,"",""
+ball,1,15.5,Austria,AM Zepeda,MPM Pathirannehelage,G Ayan,1,0,,,,,,"",""
+ball,1,15.6,Austria,MPM Pathirannehelage,AM Zepeda,G Ayan,0,0,,,,,,"",""
+ball,1,15.7,Austria,MPM Pathirannehelage,AM Zepeda,G Ayan,1,0,,,,,,"",""
+ball,1,15.8,Austria,AM Zepeda,MPM Pathirannehelage,G Ayan,0,0,,,,,,"",""
+ball,1,16.1,Austria,MPM Pathirannehelage,AM Zepeda,H Celik,0,0,,,,,,bowled,MPM Pathirannehelage
+ball,1,16.2,Austria,SM Ariyasinghage,AM Zepeda,H Celik,0,1,1,,,,,"",""
+ball,1,16.3,Austria,SM Ariyasinghage,AM Zepeda,H Celik,1,0,,,,,,"",""
+ball,1,16.4,Austria,AM Zepeda,SM Ariyasinghage,H Celik,0,2,,1,1,,,"",""
+ball,1,16.5,Austria,SM Ariyasinghage,AM Zepeda,H Celik,0,2,2,,,,,"",""
+ball,1,16.6,Austria,AM Zepeda,SM Ariyasinghage,H Celik,0,1,,1,,,,"",""
+ball,1,16.7,Austria,AM Zepeda,SM Ariyasinghage,H Celik,0,1,,1,,,,"",""
+ball,1,16.8,Austria,AM Zepeda,SM Ariyasinghage,H Celik,1,0,,,,,,"",""
+ball,1,16.9,Austria,SM Ariyasinghage,AM Zepeda,H Celik,0,0,,,,,,bowled,SM Ariyasinghage
+ball,1,16.10,Austria,Ashi Chopla,AM Zepeda,H Celik,1,0,,,,,,"",""
+ball,1,16.11,Austria,AM Zepeda,Ashi Chopla,H Celik,1,0,,,,,,"",""
+ball,1,17.1,Austria,AM Zepeda,Ashi Chopla,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,17.2,Austria,AM Zepeda,Ashi Chopla,Ezgi Nur Kilic,1,0,,,,,,"",""
+ball,1,17.3,Austria,Ashi Chopla,AM Zepeda,Ezgi Nur Kilic,0,2,2,,,,,"",""
+ball,1,17.4,Austria,AM Zepeda,Ashi Chopla,Ezgi Nur Kilic,1,0,,,,,,"",""
+ball,1,17.5,Austria,Ashi Chopla,AM Zepeda,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,17.6,Austria,Ashi Chopla,AM Zepeda,Ezgi Nur Kilic,0,0,,,,,,bowled,Ashi Chopla
+ball,1,17.7,Austria,A Nookala,AM Zepeda,Ezgi Nur Kilic,0,0,,,,,,"",""
+ball,1,18.1,Austria,AM Zepeda,A Nookala,K Canavarci,4,1,,1,,,,"",""
+ball,1,18.2,Austria,AM Zepeda,A Nookala,K Canavarci,1,0,,,,,,"",""
+ball,1,18.3,Austria,A Nookala,AM Zepeda,K Canavarci,0,0,,,,,,"",""
+ball,1,18.4,Austria,A Nookala,AM Zepeda,K Canavarci,1,0,,,,,,"",""
+ball,1,18.5,Austria,AM Zepeda,A Nookala,K Canavarci,0,1,1,,,,,"",""
+ball,1,18.6,Austria,AM Zepeda,A Nookala,K Canavarci,1,0,,,,,,"",""
+ball,1,18.7,Austria,A Nookala,AM Zepeda,K Canavarci,0,1,1,,,,,"",""
+ball,1,18.8,Austria,A Nookala,AM Zepeda,K Canavarci,0,1,,,1,,,"",""
+ball,1,18.9,Austria,AM Zepeda,A Nookala,K Canavarci,0,1,,,1,,,"",""
+ball,1,19.1,Austria,AM Zepeda,A Nookala,G Cengiz,4,1,,1,,,,"",""
+ball,1,19.2,Austria,AM Zepeda,A Nookala,G Cengiz,4,0,,,,,,"",""
+ball,1,19.3,Austria,AM Zepeda,A Nookala,G Cengiz,0,0,,,,,,"",""
+ball,1,19.4,Austria,AM Zepeda,A Nookala,G Cengiz,0,0,,,,,,"",""
+ball,1,19.5,Austria,AM Zepeda,A Nookala,G Cengiz,1,0,,,,,,"",""
+ball,1,19.6,Austria,A Nookala,AM Zepeda,G Cengiz,0,0,,,,,,"",""
+ball,1,19.7,Austria,A Nookala,AM Zepeda,G Cengiz,0,1,,,1,,,"",""
+ball,2,0.1,Turkey,D Tekyildirim,S Ozkunduz,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,0.2,Turkey,S Ozkunduz,D Tekyildirim,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,0.3,Turkey,S Ozkunduz,D Tekyildirim,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,0.4,Turkey,S Ozkunduz,D Tekyildirim,MPM Pathirannehelage,4,0,,,,,,"",""
+ball,2,0.5,Turkey,S Ozkunduz,D Tekyildirim,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,0.6,Turkey,D Tekyildirim,S Ozkunduz,MPM Pathirannehelage,0,1,,,1,,,"",""
+ball,2,1.1,Turkey,D Tekyildirim,S Ozkunduz,Ashi Chopla,0,0,,,,,,"",""
+ball,2,1.2,Turkey,D Tekyildirim,S Ozkunduz,Ashi Chopla,0,1,1,,,,,"",""
+ball,2,1.3,Turkey,D Tekyildirim,S Ozkunduz,Ashi Chopla,0,1,1,,,,,"",""
+ball,2,1.4,Turkey,D Tekyildirim,S Ozkunduz,Ashi Chopla,0,0,,,,,,"",""
+ball,2,1.5,Turkey,D Tekyildirim,S Ozkunduz,Ashi Chopla,1,0,,,,,,"",""
+ball,2,1.6,Turkey,S Ozkunduz,D Tekyildirim,Ashi Chopla,0,0,,,,,,"",""
+ball,2,1.7,Turkey,H Celik,D Tekyildirim,Ashi Chopla,0,0,,,,,,"",""
+ball,2,1.8,Turkey,H Celik,D Tekyildirim,Ashi Chopla,1,0,,,,,,"",""
+ball,2,2.1,Turkey,H Celik,D Tekyildirim,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,2.2,Turkey,H Celik,D Tekyildirim,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,2.3,Turkey,D Tekyildirim,H Celik,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,2.4,Turkey,H Celik,D Tekyildirim,MPM Pathirannehelage,0,1,,,,1,,"",""
+ball,2,2.5,Turkey,D Tekyildirim,H Celik,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,2.6,Turkey,D Tekyildirim,H Celik,MPM Pathirannehelage,0,0,,,,,,bowled,D Tekyildirim
+ball,2,3.1,Turkey,H Celik,M Bayram,Ashi Chopla,0,0,,,,,,"",""
+ball,2,3.2,Turkey,H Celik,M Bayram,Ashi Chopla,1,0,,,,,,"",""
+ball,2,3.3,Turkey,M Bayram,H Celik,Ashi Chopla,2,0,,,,,,"",""
+ball,2,3.4,Turkey,M Bayram,H Celik,Ashi Chopla,0,0,,,,,,"",""
+ball,2,3.5,Turkey,M Bayram,H Celik,Ashi Chopla,2,0,,,,,,"",""
+ball,2,3.6,Turkey,M Bayram,H Celik,Ashi Chopla,4,0,,,,,,"",""
+ball,2,4.1,Turkey,H Celik,M Bayram,P Sabu,2,0,,,,,,"",""
+ball,2,4.2,Turkey,H Celik,M Bayram,P Sabu,0,1,1,,,,,"",""
+ball,2,4.3,Turkey,H Celik,M Bayram,P Sabu,4,0,,,,,,"",""
+ball,2,4.4,Turkey,H Celik,M Bayram,P Sabu,0,0,,,,,,"",""
+ball,2,4.5,Turkey,H Celik,M Bayram,P Sabu,0,0,,,,,,run out,M Bayram
+ball,2,4.6,Turkey,G Ayan,H Celik,P Sabu,0,1,1,,,,,"",""
+ball,2,4.7,Turkey,G Ayan,H Celik,P Sabu,1,0,,,,,,"",""
+ball,2,4.8,Turkey,H Celik,G Ayan,P Sabu,1,0,,,,,,"",""
+ball,2,5.1,Turkey,H Celik,G Ayan,AM Zepeda,0,0,,,,,,"",""
+ball,2,5.2,Turkey,H Celik,G Ayan,AM Zepeda,1,0,,,,,,"",""
+ball,2,5.3,Turkey,G Ayan,H Celik,AM Zepeda,0,0,,,,,,"",""
+ball,2,5.4,Turkey,G Ayan,H Celik,AM Zepeda,0,1,1,,,,,"",""
+ball,2,5.5,Turkey,G Ayan,H Celik,AM Zepeda,0,0,,,,,,"",""
+ball,2,5.6,Turkey,G Ayan,H Celik,AM Zepeda,1,0,,,,,,"",""
+ball,2,5.7,Turkey,H Celik,G Ayan,AM Zepeda,2,0,,,,,,"",""
+ball,2,6.1,Turkey,G Ayan,H Celik,P Sabu,0,1,1,,,,,"",""
+ball,2,6.2,Turkey,G Ayan,H Celik,P Sabu,0,0,,,,,,bowled,G Ayan
+ball,2,6.3,Turkey,Ezgi Nur Kilic,H Celik,P Sabu,0,0,,,,,,"",""
+ball,2,6.4,Turkey,Ezgi Nur Kilic,H Celik,P Sabu,0,0,,,,,,"",""
+ball,2,6.5,Turkey,Ezgi Nur Kilic,H Celik,P Sabu,0,1,1,,,,,"",""
+ball,2,6.6,Turkey,Ezgi Nur Kilic,H Celik,P Sabu,0,0,,,,,,"",""
+ball,2,6.7,Turkey,Ezgi Nur Kilic,H Celik,P Sabu,0,2,,,,2,,"",""
+ball,2,6.8,Turkey,Ezgi Nur Kilic,H Celik,P Sabu,0,1,,1,,,,"",""
+ball,2,6.9,Turkey,Ezgi Nur Kilic,H Celik,P Sabu,1,0,,,,,,"",""
+ball,2,7.1,Turkey,Ezgi Nur Kilic,H Celik,AM Zepeda,4,0,,,,,,"",""
+ball,2,7.2,Turkey,Ezgi Nur Kilic,H Celik,AM Zepeda,0,0,,,,,,"",""
+ball,2,7.3,Turkey,Ezgi Nur Kilic,H Celik,AM Zepeda,0,0,,,,,,"",""
+ball,2,7.4,Turkey,Ezgi Nur Kilic,H Celik,AM Zepeda,0,0,,,,,,"",""
+ball,2,7.5,Turkey,Ezgi Nur Kilic,H Celik,AM Zepeda,1,0,,,,,,"",""
+ball,2,7.6,Turkey,H Celik,Ezgi Nur Kilic,AM Zepeda,0,0,,,,,,"",""
+ball,2,8.1,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,8.2,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,8.3,Turkey,H Celik,Ezgi Nur Kilic,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,8.4,Turkey,H Celik,Ezgi Nur Kilic,Hadia Siddiqui,2,0,,,,,,"",""
+ball,2,8.5,Turkey,H Celik,Ezgi Nur Kilic,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,8.6,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,9.1,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,2,0,,,,,,"",""
+ball,2,9.2,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,0,0,,,,,,"",""
+ball,2,9.3,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,4,0,,,,,,"",""
+ball,2,9.4,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,0,1,1,,,,,"",""
+ball,2,9.5,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,2,0,,,,,,"",""
+ball,2,9.6,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,0,1,1,,,,,"",""
+ball,2,9.7,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,0,0,,,,,,"",""
+ball,2,9.8,Turkey,H Celik,Ezgi Nur Kilic,S Bhardwaj,0,0,,,,,,"",""
+ball,2,10.1,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,10.2,Turkey,H Celik,Ezgi Nur Kilic,Hadia Siddiqui,2,0,,,,,,"",""
+ball,2,10.3,Turkey,H Celik,Ezgi Nur Kilic,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,10.4,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,4,0,,,,,,"",""
+ball,2,10.5,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,1,1,,,,,"",""
+ball,2,10.6,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,1,1,,,,,"",""
+ball,2,10.7,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,10.8,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,11.1,Turkey,H Celik,Ezgi Nur Kilic,Ashi Chopla,0,0,,,,,,"",""
+ball,2,11.2,Turkey,H Celik,Ezgi Nur Kilic,Ashi Chopla,0,0,,,,,,"",""
+ball,2,11.3,Turkey,H Celik,Ezgi Nur Kilic,Ashi Chopla,0,0,,,,,,"",""
+ball,2,11.4,Turkey,H Celik,Ezgi Nur Kilic,Ashi Chopla,2,0,,,,,,"",""
+ball,2,11.5,Turkey,H Celik,Ezgi Nur Kilic,Ashi Chopla,1,0,,,,,,"",""
+ball,2,11.6,Turkey,Ezgi Nur Kilic,H Celik,Ashi Chopla,0,1,1,,,,,"",""
+ball,2,11.7,Turkey,Ezgi Nur Kilic,H Celik,Ashi Chopla,0,1,,,1,,,"",""
+ball,2,12.1,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,1,1,,,,,"",""
+ball,2,12.2,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,12.3,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,12.4,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,2,0,,,,,,"",""
+ball,2,12.5,Turkey,Ezgi Nur Kilic,H Celik,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,12.6,Turkey,H Celik,Ezgi Nur Kilic,Hadia Siddiqui,2,0,,,,,,"",""
+ball,2,12.7,Turkey,H Celik,Ezgi Nur Kilic,Hadia Siddiqui,2,0,,,,,,"",""
+ball,2,13.1,Turkey,Ezgi Nur Kilic,H Celik,AM Zepeda,0,0,,,,,,"",""
+ball,2,13.2,Turkey,Ezgi Nur Kilic,H Celik,AM Zepeda,1,0,,,,,,"",""
+ball,2,13.3,Turkey,H Celik,Ezgi Nur Kilic,AM Zepeda,0,0,,,,,,"",""
+ball,2,13.4,Turkey,H Celik,Ezgi Nur Kilic,AM Zepeda,2,0,,,,,,"",""
+ball,2,13.5,Turkey,H Celik,Ezgi Nur Kilic,AM Zepeda,2,0,,,,,,"",""
+ball,2,13.6,Turkey,H Celik,Ezgi Nur Kilic,AM Zepeda,0,0,,,,,,retired hurt,H Celik
+ball,2,14.1,Turkey,Ezgi Nur Kilic,K Canavarci,Ashi Chopla,0,0,,,,,,"",""
+ball,2,14.2,Turkey,Ezgi Nur Kilic,K Canavarci,Ashi Chopla,4,1,,1,,,,"",""
+ball,2,14.3,Turkey,Ezgi Nur Kilic,K Canavarci,Ashi Chopla,0,0,,,,,,"",""
+ball,2,14.4,Turkey,Ezgi Nur Kilic,K Canavarci,Ashi Chopla,1,0,,,,,,"",""
+ball,2,14.5,Turkey,K Canavarci,Ezgi Nur Kilic,Ashi Chopla,0,0,,,,,,"",""
+ball,2,14.6,Turkey,K Canavarci,Ezgi Nur Kilic,Ashi Chopla,0,0,,,,,,"",""
+ball,2,14.7,Turkey,K Canavarci,Ezgi Nur Kilic,Ashi Chopla,1,0,,,,,,"",""
+ball,2,15.1,Turkey,K Canavarci,Ezgi Nur Kilic,AM Zepeda,0,0,,,,,,"",""
+ball,2,15.2,Turkey,K Canavarci,Ezgi Nur Kilic,AM Zepeda,4,0,,,,,,"",""
+ball,2,15.3,Turkey,K Canavarci,Ezgi Nur Kilic,AM Zepeda,0,0,,,,,,"",""
+ball,2,15.4,Turkey,K Canavarci,Ezgi Nur Kilic,AM Zepeda,2,0,,,,,,"",""
+ball,2,15.5,Turkey,K Canavarci,Ezgi Nur Kilic,AM Zepeda,1,0,,,,,,"",""
+ball,2,15.6,Turkey,Ezgi Nur Kilic,K Canavarci,AM Zepeda,0,0,,,,,,"",""
+ball,2,16.1,Turkey,K Canavarci,Ezgi Nur Kilic,P Sabu,2,0,,,,,,"",""
+ball,2,16.2,Turkey,K Canavarci,Ezgi Nur Kilic,P Sabu,2,0,,,,,,"",""
+ball,2,16.3,Turkey,K Canavarci,Ezgi Nur Kilic,P Sabu,2,0,,,,,,"",""
+ball,2,16.4,Turkey,K Canavarci,Ezgi Nur Kilic,P Sabu,0,0,,,,,,"",""
+ball,2,16.5,Turkey,K Canavarci,Ezgi Nur Kilic,P Sabu,4,0,,,,,,"",""
+ball,2,16.6,Turkey,K Canavarci,Ezgi Nur Kilic,P Sabu,2,0,,,,,,"",""
+ball,2,17.1,Turkey,Ezgi Nur Kilic,K Canavarci,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,17.2,Turkey,K Canavarci,Ezgi Nur Kilic,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,17.3,Turkey,Ezgi Nur Kilic,K Canavarci,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,17.4,Turkey,K Canavarci,Ezgi Nur Kilic,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,17.5,Turkey,Ezgi Nur Kilic,K Canavarci,MPM Pathirannehelage,0,1,,,,1,,"",""
+ball,2,17.6,Turkey,K Canavarci,Ezgi Nur Kilic,MPM Pathirannehelage,2,0,,,,,,"",""
+ball,2,18.1,Turkey,Ezgi Nur Kilic,K Canavarci,P Sabu,0,0,,,,,,"",""
+ball,2,18.2,Turkey,Ezgi Nur Kilic,K Canavarci,P Sabu,0,2,,,2,,,"",""
+ball,2,18.3,Turkey,Ezgi Nur Kilic,K Canavarci,P Sabu,0,0,,,,,,lbw,Ezgi Nur Kilic
+ball,2,18.4,Turkey,S Yildirim,K Canavarci,P Sabu,1,0,,,,,,"",""
+ball,2,18.5,Turkey,K Canavarci,S Yildirim,P Sabu,4,0,,,,,,"",""
+ball,2,18.6,Turkey,K Canavarci,S Yildirim,P Sabu,0,0,,,,,,"",""
+ball,2,19.1,Turkey,S Yildirim,K Canavarci,MPM Pathirannehelage,0,0,,,,,,run out,K Canavarci
+ball,2,19.2,Turkey,G Cengiz,S Yildirim,MPM Pathirannehelage,0,0,,,,,,run out,G Cengiz
+ball,2,19.3,Turkey,S Yildirim,G Keles,MPM Pathirannehelage,0,0,,,,,,run out,S Yildirim
+ball,2,19.4,Turkey,S Ozkunduz,G Keles,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,19.5,Turkey,G Keles,S Ozkunduz,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,19.6,Turkey,S Ozkunduz,G Keles,MPM Pathirannehelage,2,0,,,,,,"",""

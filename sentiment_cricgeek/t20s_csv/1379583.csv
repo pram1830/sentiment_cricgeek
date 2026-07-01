@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Botswana
+info,gender,male
+info,season,2023
+info,date,2023/06/14
+info,event,Africa Continental Cup
+info,match_number,9
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,AR Ramjani
+info,umpire,IO Oyieko
+info,umpire,J Karuri
+info,reserve_umpire,R D'Mello
+info,winner,Uganda
+info,winner_runs,64
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Obuya
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,AR Ramjani
+info,player,Uganda,K Waiswa
+info,player,Uganda,P Murungi
+info,player,Uganda,B Masaba
+info,player,Uganda,S Nsubuga
+info,player,Uganda,H Ssenyondo
+info,player,Botswana,Ameer Saiyed
+info,player,Botswana,K Motlanka
+info,player,Botswana,R Nehonde
+info,player,Botswana,V Mbazo
+info,player,Botswana,P Silas
+info,player,Botswana,T Tshose
+info,player,Botswana,R Mbaiwa
+info,player,Botswana,D Maisuria
+info,player,Botswana,M Mooketsi
+info,player,Botswana,K Piet
+info,player,Botswana,B Kgosiemang
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Ameer Saiyed,2f22325f
+info,registry,people,B Kgosiemang,059ec7a5
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Karuri,5a9b694c
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,P Silas,9f2e1944
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,R Mbaiwa,5f789ff9
+info,registry,people,R Nehonde,4393e047
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Nsubuga,58cb36aa
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Mbazo,a2317d14
+ball,1,0.1,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,4,0,,,,,,"",""
+ball,1,0.2,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,2,0,,,,,,"",""
+ball,1,0.3,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,1,0,,,,,,"",""
+ball,1,0.4,Uganda,S Sesazi,RG Mukasa,B Kgosiemang,1,0,,,,,,"",""
+ball,1,0.5,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,0,4,,,,4,,"",""
+ball,1,0.6,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,0,0,,,,,,"",""
+ball,1,1.1,Uganda,S Sesazi,RG Mukasa,T Tshose,0,1,1,,,,,"",""
+ball,1,1.2,Uganda,S Sesazi,RG Mukasa,T Tshose,0,0,,,,,,"",""
+ball,1,1.3,Uganda,S Sesazi,RG Mukasa,T Tshose,2,0,,,,,,"",""
+ball,1,1.4,Uganda,S Sesazi,RG Mukasa,T Tshose,0,0,,,,,,"",""
+ball,1,1.5,Uganda,S Sesazi,RG Mukasa,T Tshose,0,0,,,,,,"",""
+ball,1,1.6,Uganda,S Sesazi,RG Mukasa,T Tshose,2,0,,,,,,"",""
+ball,1,1.7,Uganda,S Sesazi,RG Mukasa,T Tshose,0,0,,,,,,"",""
+ball,1,2.1,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,2,0,,,,,,"",""
+ball,1,2.2,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,0,0,,,,,,"",""
+ball,1,2.3,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,4,0,,,,,,"",""
+ball,1,2.4,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,0,0,,,,,,"",""
+ball,1,2.5,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,1,0,,,,,,"",""
+ball,1,2.6,Uganda,S Sesazi,RG Mukasa,B Kgosiemang,1,0,,,,,,"",""
+ball,1,3.1,Uganda,S Sesazi,RG Mukasa,T Tshose,0,0,,,,,,"",""
+ball,1,3.2,Uganda,S Sesazi,RG Mukasa,T Tshose,2,0,,,,,,"",""
+ball,1,3.3,Uganda,S Sesazi,RG Mukasa,T Tshose,6,0,,,,,,"",""
+ball,1,3.4,Uganda,S Sesazi,RG Mukasa,T Tshose,1,0,,,,,,"",""
+ball,1,3.5,Uganda,RG Mukasa,S Sesazi,T Tshose,1,0,,,,,,"",""
+ball,1,3.6,Uganda,S Sesazi,RG Mukasa,T Tshose,2,0,,,,,,"",""
+ball,1,4.1,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,6,0,,,,,,"",""
+ball,1,4.2,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,4,0,,,,,,"",""
+ball,1,4.3,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,0,0,,,,,,"",""
+ball,1,4.4,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,0,0,,,,,,"",""
+ball,1,4.5,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,0,0,,,,,,"",""
+ball,1,4.6,Uganda,RG Mukasa,S Sesazi,B Kgosiemang,1,0,,,,,,"",""
+ball,1,5.1,Uganda,RG Mukasa,S Sesazi,K Piet,4,0,,,,,,"",""
+ball,1,5.2,Uganda,RG Mukasa,S Sesazi,K Piet,1,0,,,,,,"",""
+ball,1,5.3,Uganda,S Sesazi,RG Mukasa,K Piet,4,0,,,,,,"",""
+ball,1,5.4,Uganda,S Sesazi,RG Mukasa,K Piet,0,0,,,,,,"",""
+ball,1,5.5,Uganda,S Sesazi,RG Mukasa,K Piet,0,0,,,,,,"",""
+ball,1,5.6,Uganda,S Sesazi,RG Mukasa,K Piet,1,0,,,,,,"",""
+ball,1,6.1,Uganda,S Sesazi,RG Mukasa,D Maisuria,1,0,,,,,,"",""
+ball,1,6.2,Uganda,RG Mukasa,S Sesazi,D Maisuria,0,0,,,,,,lbw,RG Mukasa
+ball,1,6.3,Uganda,R Obuya,S Sesazi,D Maisuria,0,0,,,,,,"",""
+ball,1,6.4,Uganda,R Obuya,S Sesazi,D Maisuria,0,0,,,,,,"",""
+ball,1,6.5,Uganda,R Obuya,S Sesazi,D Maisuria,1,0,,,,,,"",""
+ball,1,6.6,Uganda,S Sesazi,R Obuya,D Maisuria,0,0,,,,,,"",""
+ball,1,7.1,Uganda,R Obuya,S Sesazi,K Piet,0,0,,,,,,"",""
+ball,1,7.2,Uganda,R Obuya,S Sesazi,K Piet,1,0,,,,,,"",""
+ball,1,7.3,Uganda,S Sesazi,R Obuya,K Piet,6,0,,,,,,"",""
+ball,1,7.4,Uganda,S Sesazi,R Obuya,K Piet,1,0,,,,,,"",""
+ball,1,7.5,Uganda,R Obuya,S Sesazi,K Piet,1,0,,,,,,"",""
+ball,1,7.6,Uganda,S Sesazi,R Obuya,K Piet,0,0,,,,,,caught,S Sesazi
+ball,1,8.1,Uganda,R Obuya,Riazat Ali Shah,D Maisuria,2,0,,,,,,"",""
+ball,1,8.2,Uganda,R Obuya,Riazat Ali Shah,D Maisuria,0,0,,,,,,"",""
+ball,1,8.3,Uganda,R Obuya,Riazat Ali Shah,D Maisuria,0,0,,,,,,"",""
+ball,1,8.4,Uganda,R Obuya,Riazat Ali Shah,D Maisuria,0,0,,,,,,"",""
+ball,1,8.5,Uganda,R Obuya,Riazat Ali Shah,D Maisuria,2,0,,,,,,"",""
+ball,1,8.6,Uganda,R Obuya,Riazat Ali Shah,D Maisuria,1,0,,,,,,"",""
+ball,1,9.1,Uganda,R Obuya,Riazat Ali Shah,K Piet,1,0,,,,,,"",""
+ball,1,9.2,Uganda,Riazat Ali Shah,R Obuya,K Piet,1,0,,,,,,"",""
+ball,1,9.3,Uganda,R Obuya,Riazat Ali Shah,K Piet,0,0,,,,,,"",""
+ball,1,9.4,Uganda,R Obuya,Riazat Ali Shah,K Piet,2,0,,,,,,"",""
+ball,1,9.5,Uganda,R Obuya,Riazat Ali Shah,K Piet,0,0,,,,,,bowled,R Obuya
+ball,1,9.6,Uganda,DM Nakrani,Riazat Ali Shah,K Piet,1,0,,,,,,"",""
+ball,1,10.1,Uganda,DM Nakrani,Riazat Ali Shah,M Mooketsi,0,0,,,,,,"",""
+ball,1,10.2,Uganda,DM Nakrani,Riazat Ali Shah,M Mooketsi,0,0,,,,,,"",""
+ball,1,10.3,Uganda,DM Nakrani,Riazat Ali Shah,M Mooketsi,1,0,,,,,,"",""
+ball,1,10.4,Uganda,Riazat Ali Shah,DM Nakrani,M Mooketsi,0,0,,,,,,"",""
+ball,1,10.5,Uganda,Riazat Ali Shah,DM Nakrani,M Mooketsi,0,1,1,,,,,"",""
+ball,1,10.6,Uganda,Riazat Ali Shah,DM Nakrani,M Mooketsi,3,0,,,,,,"",""
+ball,1,10.7,Uganda,DM Nakrani,Riazat Ali Shah,M Mooketsi,0,0,,,,,,"",""
+ball,1,11.1,Uganda,Riazat Ali Shah,DM Nakrani,K Piet,1,0,,,,,,"",""
+ball,1,11.2,Uganda,DM Nakrani,Riazat Ali Shah,K Piet,6,0,,,,,,"",""
+ball,1,11.3,Uganda,DM Nakrani,Riazat Ali Shah,K Piet,0,0,,,,,,"",""
+ball,1,11.4,Uganda,DM Nakrani,Riazat Ali Shah,K Piet,1,0,,,,,,"",""
+ball,1,11.5,Uganda,Riazat Ali Shah,DM Nakrani,K Piet,1,0,,,,,,"",""
+ball,1,11.6,Uganda,DM Nakrani,Riazat Ali Shah,K Piet,0,0,,,,,,caught,DM Nakrani
+ball,1,12.1,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,0,0,,,,,,"",""
+ball,1,12.2,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,1,0,,,,,,"",""
+ball,1,12.3,Uganda,AR Ramjani,Riazat Ali Shah,M Mooketsi,0,0,,,,,,"",""
+ball,1,12.4,Uganda,AR Ramjani,Riazat Ali Shah,M Mooketsi,1,0,,,,,,"",""
+ball,1,12.5,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,4,0,,,,,,"",""
+ball,1,12.6,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,0,0,,,,,,"",""
+ball,1,13.1,Uganda,AR Ramjani,Riazat Ali Shah,Ameer Saiyed,0,0,,,,,,"",""
+ball,1,13.2,Uganda,AR Ramjani,Riazat Ali Shah,Ameer Saiyed,0,0,,,,,,"",""
+ball,1,13.3,Uganda,AR Ramjani,Riazat Ali Shah,Ameer Saiyed,0,0,,,,,,"",""
+ball,1,13.4,Uganda,AR Ramjani,Riazat Ali Shah,Ameer Saiyed,0,0,,,,,,"",""
+ball,1,13.5,Uganda,AR Ramjani,Riazat Ali Shah,Ameer Saiyed,1,0,,,,,,"",""
+ball,1,13.6,Uganda,Riazat Ali Shah,AR Ramjani,Ameer Saiyed,0,0,,,,,,"",""
+ball,1,14.1,Uganda,AR Ramjani,Riazat Ali Shah,D Maisuria,1,0,,,,,,"",""
+ball,1,14.2,Uganda,Riazat Ali Shah,AR Ramjani,D Maisuria,6,0,,,,,,"",""
+ball,1,14.3,Uganda,Riazat Ali Shah,AR Ramjani,D Maisuria,0,0,,,,,,"",""
+ball,1,14.4,Uganda,Riazat Ali Shah,AR Ramjani,D Maisuria,1,0,,,,,,"",""
+ball,1,14.5,Uganda,AR Ramjani,Riazat Ali Shah,D Maisuria,0,0,,,,,,"",""
+ball,1,14.6,Uganda,AR Ramjani,Riazat Ali Shah,D Maisuria,0,0,,,,,,"",""
+ball,1,15.1,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,1,0,,,,,,"",""
+ball,1,15.2,Uganda,AR Ramjani,Riazat Ali Shah,M Mooketsi,1,0,,,,,,"",""
+ball,1,15.3,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,1,0,,,,,,"",""
+ball,1,15.4,Uganda,AR Ramjani,Riazat Ali Shah,M Mooketsi,1,0,,,,,,"",""
+ball,1,15.5,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,0,0,,,,,,"",""
+ball,1,15.6,Uganda,Riazat Ali Shah,AR Ramjani,M Mooketsi,1,0,,,,,,"",""
+ball,1,16.1,Uganda,Riazat Ali Shah,AR Ramjani,D Maisuria,1,0,,,,,,"",""
+ball,1,16.2,Uganda,AR Ramjani,Riazat Ali Shah,D Maisuria,0,0,,,,,,"",""
+ball,1,16.3,Uganda,AR Ramjani,Riazat Ali Shah,D Maisuria,1,0,,,,,,"",""
+ball,1,16.4,Uganda,Riazat Ali Shah,AR Ramjani,D Maisuria,6,0,,,,,,"",""
+ball,1,16.5,Uganda,Riazat Ali Shah,AR Ramjani,D Maisuria,0,0,,,,,,caught and bowled,Riazat Ali Shah
+ball,1,16.6,Uganda,K Waiswa,AR Ramjani,D Maisuria,2,0,,,,,,"",""
+ball,1,17.1,Uganda,AR Ramjani,K Waiswa,M Mooketsi,0,0,,,,,,caught,AR Ramjani
+ball,1,17.2,Uganda,P Murungi,K Waiswa,M Mooketsi,4,0,,,,,,"",""
+ball,1,17.3,Uganda,P Murungi,K Waiswa,M Mooketsi,0,0,,,,,,"",""
+ball,1,17.4,Uganda,P Murungi,K Waiswa,M Mooketsi,6,0,,,,,,"",""
+ball,1,17.5,Uganda,P Murungi,K Waiswa,M Mooketsi,0,0,,,,,,"",""
+ball,1,17.6,Uganda,P Murungi,K Waiswa,M Mooketsi,1,0,,,,,,"",""
+ball,1,18.1,Uganda,P Murungi,K Waiswa,Ameer Saiyed,1,0,,,,,,"",""
+ball,1,18.2,Uganda,K Waiswa,P Murungi,Ameer Saiyed,2,0,,,,,,"",""
+ball,1,18.3,Uganda,K Waiswa,P Murungi,Ameer Saiyed,0,0,,,,,,"",""
+ball,1,18.4,Uganda,K Waiswa,P Murungi,Ameer Saiyed,2,0,,,,,,"",""
+ball,1,18.5,Uganda,K Waiswa,P Murungi,Ameer Saiyed,0,0,,,,,,caught,K Waiswa
+ball,1,18.6,Uganda,B Masaba,P Murungi,Ameer Saiyed,6,0,,,,,,"",""
+ball,1,19.1,Uganda,P Murungi,B Masaba,T Tshose,0,0,,,,,,"",""
+ball,1,19.2,Uganda,P Murungi,B Masaba,T Tshose,0,0,,,,,,"",""
+ball,1,19.3,Uganda,P Murungi,B Masaba,T Tshose,2,0,,,,,,"",""
+ball,1,19.4,Uganda,P Murungi,B Masaba,T Tshose,1,0,,,,,,"",""
+ball,1,19.5,Uganda,B Masaba,P Murungi,T Tshose,0,1,,,1,,,"",""
+ball,1,19.6,Uganda,P Murungi,B Masaba,T Tshose,4,0,,,,,,"",""
+ball,2,0.1,Botswana,Ameer Saiyed,K Motlanka,DM Nakrani,0,0,,,,,,"",""
+ball,2,0.2,Botswana,Ameer Saiyed,K Motlanka,DM Nakrani,0,0,,,,,,"",""
+ball,2,0.3,Botswana,Ameer Saiyed,K Motlanka,DM Nakrani,2,0,,,,,,"",""
+ball,2,0.4,Botswana,Ameer Saiyed,K Motlanka,DM Nakrani,0,0,,,,,,"",""
+ball,2,0.5,Botswana,Ameer Saiyed,K Motlanka,DM Nakrani,0,0,,,,,,"",""
+ball,2,0.6,Botswana,Ameer Saiyed,K Motlanka,DM Nakrani,2,0,,,,,,"",""
+ball,2,1.1,Botswana,K Motlanka,Ameer Saiyed,P Murungi,0,0,,,,,,"",""
+ball,2,1.2,Botswana,K Motlanka,Ameer Saiyed,P Murungi,0,0,,,,,,bowled,K Motlanka
+ball,2,1.3,Botswana,R Nehonde,Ameer Saiyed,P Murungi,1,0,,,,,,"",""
+ball,2,1.4,Botswana,Ameer Saiyed,R Nehonde,P Murungi,0,0,,,,,,"",""
+ball,2,1.5,Botswana,Ameer Saiyed,R Nehonde,P Murungi,1,0,,,,,,"",""
+ball,2,1.6,Botswana,R Nehonde,Ameer Saiyed,P Murungi,0,0,,,,,,"",""
+ball,2,2.1,Botswana,Ameer Saiyed,R Nehonde,DM Nakrani,0,1,,,,1,,"",""
+ball,2,2.2,Botswana,R Nehonde,Ameer Saiyed,DM Nakrani,1,0,,,,,,"",""
+ball,2,2.3,Botswana,Ameer Saiyed,R Nehonde,DM Nakrani,0,0,,,,,,"",""
+ball,2,2.4,Botswana,Ameer Saiyed,R Nehonde,DM Nakrani,0,0,,,,,,caught,Ameer Saiyed
+ball,2,2.5,Botswana,V Mbazo,R Nehonde,DM Nakrani,0,0,,,,,,"",""
+ball,2,2.6,Botswana,V Mbazo,R Nehonde,DM Nakrani,0,0,,,,,,"",""
+ball,2,3.1,Botswana,R Nehonde,V Mbazo,P Murungi,0,0,,,,,,"",""
+ball,2,3.2,Botswana,R Nehonde,V Mbazo,P Murungi,1,0,,,,,,"",""
+ball,2,3.3,Botswana,V Mbazo,R Nehonde,P Murungi,1,0,,,,,,"",""
+ball,2,3.4,Botswana,R Nehonde,V Mbazo,P Murungi,0,1,1,,,,,"",""
+ball,2,3.5,Botswana,R Nehonde,V Mbazo,P Murungi,1,0,,,,,,"",""
+ball,2,3.6,Botswana,V Mbazo,R Nehonde,P Murungi,1,0,,,,,,"",""
+ball,2,3.7,Botswana,R Nehonde,V Mbazo,P Murungi,0,0,,,,,,"",""
+ball,2,4.1,Botswana,V Mbazo,R Nehonde,K Waiswa,0,0,,,,,,"",""
+ball,2,4.2,Botswana,V Mbazo,R Nehonde,K Waiswa,4,0,,,,,,"",""
+ball,2,4.3,Botswana,V Mbazo,R Nehonde,K Waiswa,0,1,1,,,,,"",""
+ball,2,4.4,Botswana,V Mbazo,R Nehonde,K Waiswa,0,0,,,,,,"",""
+ball,2,4.5,Botswana,V Mbazo,R Nehonde,K Waiswa,0,1,1,,,,,"",""
+ball,2,4.6,Botswana,V Mbazo,R Nehonde,K Waiswa,0,0,,,,,,"",""
+ball,2,4.7,Botswana,V Mbazo,R Nehonde,K Waiswa,0,0,,,,,,"",""
+ball,2,4.8,Botswana,V Mbazo,R Nehonde,K Waiswa,0,1,,,,1,,"",""
+ball,2,5.1,Botswana,V Mbazo,R Nehonde,P Murungi,0,0,,,,,,"",""
+ball,2,5.2,Botswana,V Mbazo,R Nehonde,P Murungi,1,0,,,,,,"",""
+ball,2,5.3,Botswana,R Nehonde,V Mbazo,P Murungi,0,0,,,,,,caught,R Nehonde
+ball,2,5.4,Botswana,P Silas,V Mbazo,P Murungi,0,0,,,,,,"",""
+ball,2,5.5,Botswana,P Silas,V Mbazo,P Murungi,1,0,,,,,,"",""
+ball,2,5.6,Botswana,V Mbazo,P Silas,P Murungi,1,0,,,,,,"",""
+ball,2,6.1,Botswana,V Mbazo,P Silas,H Ssenyondo,0,0,,,,,,"",""
+ball,2,6.2,Botswana,V Mbazo,P Silas,H Ssenyondo,0,0,,,,,,"",""
+ball,2,6.3,Botswana,V Mbazo,P Silas,H Ssenyondo,0,0,,,,,,"",""
+ball,2,6.4,Botswana,V Mbazo,P Silas,H Ssenyondo,1,0,,,,,,"",""
+ball,2,6.5,Botswana,P Silas,V Mbazo,H Ssenyondo,1,0,,,,,,"",""
+ball,2,6.6,Botswana,V Mbazo,P Silas,H Ssenyondo,1,0,,,,,,"",""
+ball,2,7.1,Botswana,V Mbazo,P Silas,P Murungi,0,0,,,,,,"",""
+ball,2,7.2,Botswana,V Mbazo,P Silas,P Murungi,0,0,,,,,,"",""
+ball,2,7.3,Botswana,V Mbazo,P Silas,P Murungi,2,0,,,,,,"",""
+ball,2,7.4,Botswana,V Mbazo,P Silas,P Murungi,1,0,,,,,,"",""
+ball,2,7.5,Botswana,P Silas,V Mbazo,P Murungi,1,0,,,,,,"",""
+ball,2,7.6,Botswana,V Mbazo,P Silas,P Murungi,2,0,,,,,,"",""
+ball,2,8.1,Botswana,P Silas,V Mbazo,H Ssenyondo,0,0,,,,,,"",""
+ball,2,8.2,Botswana,P Silas,V Mbazo,H Ssenyondo,1,0,,,,,,"",""
+ball,2,8.3,Botswana,V Mbazo,P Silas,H Ssenyondo,1,0,,,,,,"",""
+ball,2,8.4,Botswana,P Silas,V Mbazo,H Ssenyondo,0,0,,,,,,"",""
+ball,2,8.5,Botswana,P Silas,V Mbazo,H Ssenyondo,1,0,,,,,,"",""
+ball,2,8.6,Botswana,V Mbazo,P Silas,H Ssenyondo,0,0,,,,,,"",""
+ball,2,9.1,Botswana,P Silas,V Mbazo,S Nsubuga,0,0,,,,,,"",""
+ball,2,9.2,Botswana,P Silas,V Mbazo,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.3,Botswana,V Mbazo,P Silas,S Nsubuga,0,0,,,,,,"",""
+ball,2,9.4,Botswana,V Mbazo,P Silas,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.5,Botswana,P Silas,V Mbazo,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.6,Botswana,V Mbazo,P Silas,S Nsubuga,6,0,,,,,,"",""
+ball,2,10.1,Botswana,P Silas,V Mbazo,H Ssenyondo,0,0,,,,,,"",""
+ball,2,10.2,Botswana,P Silas,V Mbazo,H Ssenyondo,2,0,,,,,,"",""
+ball,2,10.3,Botswana,P Silas,V Mbazo,H Ssenyondo,2,0,,,,,,"",""
+ball,2,10.4,Botswana,P Silas,V Mbazo,H Ssenyondo,2,0,,,,,,"",""
+ball,2,10.5,Botswana,P Silas,V Mbazo,H Ssenyondo,1,0,,,,,,"",""
+ball,2,10.6,Botswana,V Mbazo,P Silas,H Ssenyondo,0,0,,,,,,"",""
+ball,2,11.1,Botswana,P Silas,V Mbazo,S Nsubuga,1,0,,,,,,"",""
+ball,2,11.2,Botswana,V Mbazo,P Silas,S Nsubuga,0,0,,,,,,"",""
+ball,2,11.3,Botswana,V Mbazo,P Silas,S Nsubuga,0,0,,,,,,caught,V Mbazo
+ball,2,11.4,Botswana,T Tshose,P Silas,S Nsubuga,2,0,,,,,,"",""
+ball,2,11.5,Botswana,T Tshose,P Silas,S Nsubuga,0,0,,,,,,"",""
+ball,2,11.6,Botswana,T Tshose,P Silas,S Nsubuga,0,0,,,,,,"",""
+ball,2,12.1,Botswana,P Silas,T Tshose,H Ssenyondo,0,0,,,,,,"",""
+ball,2,12.2,Botswana,P Silas,T Tshose,H Ssenyondo,0,0,,,,,,"",""
+ball,2,12.3,Botswana,P Silas,T Tshose,H Ssenyondo,1,0,,,,,,"",""
+ball,2,12.4,Botswana,T Tshose,P Silas,H Ssenyondo,1,0,,,,,,"",""
+ball,2,12.5,Botswana,P Silas,T Tshose,H Ssenyondo,1,0,,,,,,"",""
+ball,2,12.6,Botswana,T Tshose,P Silas,H Ssenyondo,1,0,,,,,,"",""
+ball,2,13.1,Botswana,T Tshose,P Silas,S Nsubuga,2,0,,,,,,"",""
+ball,2,13.2,Botswana,T Tshose,P Silas,S Nsubuga,2,0,,,,,,"",""
+ball,2,13.3,Botswana,T Tshose,P Silas,S Nsubuga,1,0,,,,,,"",""
+ball,2,13.4,Botswana,P Silas,T Tshose,S Nsubuga,1,0,,,,,,"",""
+ball,2,13.5,Botswana,T Tshose,P Silas,S Nsubuga,1,0,,,,,,"",""
+ball,2,13.6,Botswana,P Silas,T Tshose,S Nsubuga,1,0,,,,,,"",""
+ball,2,14.1,Botswana,P Silas,T Tshose,AR Ramjani,1,0,,,,,,"",""
+ball,2,14.2,Botswana,T Tshose,P Silas,AR Ramjani,1,0,,,,,,"",""
+ball,2,14.3,Botswana,P Silas,T Tshose,AR Ramjani,0,0,,,,,,caught and bowled,P Silas
+ball,2,14.4,Botswana,R Mbaiwa,T Tshose,AR Ramjani,0,0,,,,,,"",""
+ball,2,14.5,Botswana,R Mbaiwa,T Tshose,AR Ramjani,1,0,,,,,,"",""
+ball,2,14.6,Botswana,T Tshose,R Mbaiwa,AR Ramjani,0,0,,,,,,"",""
+ball,2,15.1,Botswana,R Mbaiwa,T Tshose,S Nsubuga,0,0,,,,,,"",""
+ball,2,15.2,Botswana,R Mbaiwa,T Tshose,S Nsubuga,0,0,,,,,,"",""
+ball,2,15.3,Botswana,R Mbaiwa,T Tshose,S Nsubuga,1,0,,,,,,"",""
+ball,2,15.4,Botswana,T Tshose,R Mbaiwa,S Nsubuga,2,0,,,,,,"",""
+ball,2,15.5,Botswana,T Tshose,R Mbaiwa,S Nsubuga,2,0,,,,,,"",""
+ball,2,15.6,Botswana,T Tshose,R Mbaiwa,S Nsubuga,0,0,,,,,,caught,T Tshose
+ball,2,16.1,Botswana,R Mbaiwa,D Maisuria,AR Ramjani,1,0,,,,,,"",""
+ball,2,16.2,Botswana,D Maisuria,R Mbaiwa,AR Ramjani,0,0,,,,,,"",""
+ball,2,16.3,Botswana,D Maisuria,R Mbaiwa,AR Ramjani,1,0,,,,,,"",""
+ball,2,16.4,Botswana,R Mbaiwa,D Maisuria,AR Ramjani,0,0,,,,,,"",""
+ball,2,16.5,Botswana,R Mbaiwa,D Maisuria,AR Ramjani,0,0,,,,,,caught,R Mbaiwa
+ball,2,16.6,Botswana,M Mooketsi,D Maisuria,AR Ramjani,1,0,,,,,,"",""
+ball,2,17.1,Botswana,M Mooketsi,D Maisuria,B Masaba,0,0,,,,,,"",""
+ball,2,17.2,Botswana,M Mooketsi,D Maisuria,B Masaba,0,0,,,,,,"",""
+ball,2,17.3,Botswana,M Mooketsi,D Maisuria,B Masaba,1,0,,,,,,"",""
+ball,2,17.4,Botswana,D Maisuria,M Mooketsi,B Masaba,1,0,,,,,,"",""
+ball,2,17.5,Botswana,M Mooketsi,D Maisuria,B Masaba,0,0,,,,,,bowled,M Mooketsi
+ball,2,17.6,Botswana,K Piet,D Maisuria,B Masaba,0,0,,,,,,"",""
+ball,2,18.1,Botswana,D Maisuria,K Piet,AR Ramjani,2,0,,,,,,"",""
+ball,2,18.2,Botswana,D Maisuria,K Piet,AR Ramjani,0,0,,,,,,"",""
+ball,2,18.3,Botswana,D Maisuria,K Piet,AR Ramjani,0,0,,,,,,caught,D Maisuria
+ball,2,18.4,Botswana,B Kgosiemang,K Piet,AR Ramjani,0,0,,,,,,"",""
+ball,2,18.5,Botswana,B Kgosiemang,K Piet,AR Ramjani,0,0,,,,,,"",""
+ball,2,18.6,Botswana,B Kgosiemang,K Piet,AR Ramjani,1,0,,,,,,"",""
+ball,2,19.1,Botswana,B Kgosiemang,K Piet,B Masaba,1,0,,,,,,"",""
+ball,2,19.2,Botswana,K Piet,B Kgosiemang,B Masaba,1,0,,,,,,"",""
+ball,2,19.3,Botswana,B Kgosiemang,K Piet,B Masaba,1,0,,,,,,"",""
+ball,2,19.4,Botswana,K Piet,B Kgosiemang,B Masaba,2,0,,,,,,"",""
+ball,2,19.5,Botswana,K Piet,B Kgosiemang,B Masaba,0,0,,,,,,"",""
+ball,2,19.6,Botswana,K Piet,B Kgosiemang,B Masaba,2,0,,,,,,"",""

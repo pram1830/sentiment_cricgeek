@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Philippines
+info,team,South Korea
+info,gender,male
+info,season,2025
+info,date,2025/07/12
+info,event,Indonesia Tri-Nation T20I Series
+info,match_number,10
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Philippines
+info,toss_decision,bat
+info,player_of_match,A Donovan
+info,umpire,Anwesh Bose
+info,umpire,Yousuf Wadu
+info,match_referee,F Shony
+info,winner,Philippines
+info,winner_runs,85
+info,player,Philippines,AS Samra
+info,player,Philippines,ASF Sirah
+info,player,Philippines,M Podosky
+info,player,Philippines,A Donovan
+info,player,Philippines,N Tanner
+info,player,Philippines,J Tuffin
+info,player,Philippines,HER Tyler
+info,player,Philippines,G Chohan
+info,player,Philippines,GR Russ
+info,player,Philippines,FN Walsh
+info,player,Philippines,KDA Lukies
+info,player,South Korea,DVD Madampage
+info,player,South Korea,BI Dilruksha
+info,player,South Korea,HMHE Parsons
+info,player,South Korea,Nishat Sakib
+info,player,South Korea,S Maduranga
+info,player,South Korea,Bilal Ahmad Mir
+info,player,South Korea,Kuldeep Gurjar
+info,player,South Korea,Saurabh Kumar
+info,player,South Korea,Kim Daeyeon
+info,player,South Korea,K Babu
+info,player,South Korea,Basharat Hussain
+info,registry,people,A Donovan,02888f23
+info,registry,people,AS Samra,bf976fb0
+info,registry,people,ASF Sirah,06bcade5
+info,registry,people,Anwesh Bose,3bdae121
+info,registry,people,BI Dilruksha,bf60e1d2
+info,registry,people,Basharat Hussain,dcdc9b49
+info,registry,people,Bilal Ahmad Mir,2237eb05
+info,registry,people,DVD Madampage,f681fa6e
+info,registry,people,F Shony,85712af4
+info,registry,people,FN Walsh,da738783
+info,registry,people,G Chohan,b978780e
+info,registry,people,GR Russ,1f28fdfd
+info,registry,people,HER Tyler,0ba9de33
+info,registry,people,HMHE Parsons,0ca1ea55
+info,registry,people,J Tuffin,8069f81f
+info,registry,people,K Babu,34e10659
+info,registry,people,KDA Lukies,14af45c4
+info,registry,people,Kim Daeyeon,4a51c045
+info,registry,people,Kuldeep Gurjar,2306b48a
+info,registry,people,M Podosky,c46999c7
+info,registry,people,N Tanner,5f5efae1
+info,registry,people,Nishat Sakib,554f19e4
+info,registry,people,S Maduranga,68f24545
+info,registry,people,Saurabh Kumar,afb1e61d
+info,registry,people,Yousuf Wadu,cf41005c
+ball,1,0.1,Philippines,AS Samra,ASF Sirah,DVD Madampage,1,0,,,,,,"",""
+ball,1,0.2,Philippines,ASF Sirah,AS Samra,DVD Madampage,2,0,,,,,,"",""
+ball,1,0.3,Philippines,ASF Sirah,AS Samra,DVD Madampage,0,0,,,,,,caught,ASF Sirah
+ball,1,0.4,Philippines,M Podosky,AS Samra,DVD Madampage,1,0,,,,,,"",""
+ball,1,0.5,Philippines,AS Samra,M Podosky,DVD Madampage,1,0,,,,,,"",""
+ball,1,0.6,Philippines,M Podosky,AS Samra,DVD Madampage,0,0,,,,,,"",""
+ball,1,1.1,Philippines,AS Samra,M Podosky,S Maduranga,0,1,1,,,,,"",""
+ball,1,1.2,Philippines,AS Samra,M Podosky,S Maduranga,0,3,3,,,,,"",""
+ball,1,1.3,Philippines,AS Samra,M Podosky,S Maduranga,1,0,,,,,,"",""
+ball,1,1.4,Philippines,M Podosky,AS Samra,S Maduranga,0,0,,,,,,"",""
+ball,1,1.5,Philippines,M Podosky,AS Samra,S Maduranga,0,0,,,,,,"",""
+ball,1,1.6,Philippines,M Podosky,AS Samra,S Maduranga,4,0,,,,,,"",""
+ball,1,1.7,Philippines,M Podosky,AS Samra,S Maduranga,1,0,,,,,,"",""
+ball,1,1.8,Philippines,AS Samra,M Podosky,S Maduranga,0,0,,,,,,caught,AS Samra
+ball,1,2.1,Philippines,M Podosky,A Donovan,DVD Madampage,0,0,,,,,,caught,M Podosky
+ball,1,2.2,Philippines,N Tanner,A Donovan,DVD Madampage,1,0,,,,,,"",""
+ball,1,2.3,Philippines,A Donovan,N Tanner,DVD Madampage,1,0,,,,,,"",""
+ball,1,2.4,Philippines,N Tanner,A Donovan,DVD Madampage,0,0,,,,,,"",""
+ball,1,2.5,Philippines,N Tanner,A Donovan,DVD Madampage,0,0,,,,,,"",""
+ball,1,2.6,Philippines,N Tanner,A Donovan,DVD Madampage,0,0,,,,,,"",""
+ball,1,3.1,Philippines,A Donovan,N Tanner,S Maduranga,0,1,,,,1,,"",""
+ball,1,3.2,Philippines,N Tanner,A Donovan,S Maduranga,0,0,,,,,,"",""
+ball,1,3.3,Philippines,N Tanner,A Donovan,S Maduranga,6,0,,,,,,"",""
+ball,1,3.4,Philippines,N Tanner,A Donovan,S Maduranga,1,0,,,,,,"",""
+ball,1,3.5,Philippines,A Donovan,N Tanner,S Maduranga,1,0,,,,,,"",""
+ball,1,3.6,Philippines,N Tanner,A Donovan,S Maduranga,0,0,,,,,,"",""
+ball,1,4.1,Philippines,A Donovan,N Tanner,DVD Madampage,0,0,,,,,,"",""
+ball,1,4.2,Philippines,A Donovan,N Tanner,DVD Madampage,1,0,,,,,,"",""
+ball,1,4.3,Philippines,N Tanner,A Donovan,DVD Madampage,1,0,,,,,,"",""
+ball,1,4.4,Philippines,A Donovan,N Tanner,DVD Madampage,1,0,,,,,,"",""
+ball,1,4.5,Philippines,N Tanner,A Donovan,DVD Madampage,1,0,,,,,,"",""
+ball,1,4.6,Philippines,A Donovan,N Tanner,DVD Madampage,0,0,,,,,,"",""
+ball,1,5.1,Philippines,N Tanner,A Donovan,Bilal Ahmad Mir,2,0,,,,,,"",""
+ball,1,5.2,Philippines,N Tanner,A Donovan,Bilal Ahmad Mir,1,0,,,,,,"",""
+ball,1,5.3,Philippines,A Donovan,N Tanner,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,5.4,Philippines,A Donovan,N Tanner,Bilal Ahmad Mir,1,0,,,,,,"",""
+ball,1,5.5,Philippines,N Tanner,A Donovan,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,5.6,Philippines,N Tanner,A Donovan,Bilal Ahmad Mir,1,0,,,,,,"",""
+ball,1,6.1,Philippines,N Tanner,A Donovan,Basharat Hussain,1,0,,,,,,"",""
+ball,1,6.2,Philippines,A Donovan,N Tanner,Basharat Hussain,1,0,,,,,,"",""
+ball,1,6.3,Philippines,N Tanner,A Donovan,Basharat Hussain,1,0,,,,,,"",""
+ball,1,6.4,Philippines,A Donovan,N Tanner,Basharat Hussain,4,0,,,,,,"",""
+ball,1,6.5,Philippines,A Donovan,N Tanner,Basharat Hussain,4,0,,,,,,"",""
+ball,1,6.6,Philippines,A Donovan,N Tanner,Basharat Hussain,2,0,,,,,,"",""
+ball,1,7.1,Philippines,N Tanner,A Donovan,Bilal Ahmad Mir,1,0,,,,,,"",""
+ball,1,7.2,Philippines,A Donovan,N Tanner,Bilal Ahmad Mir,1,0,,,,,,"",""
+ball,1,7.3,Philippines,N Tanner,A Donovan,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,7.4,Philippines,N Tanner,A Donovan,Bilal Ahmad Mir,0,0,,,,,,caught,N Tanner
+ball,1,7.5,Philippines,J Tuffin,A Donovan,Bilal Ahmad Mir,2,0,,,,,,"",""
+ball,1,7.6,Philippines,J Tuffin,A Donovan,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,8.1,Philippines,A Donovan,J Tuffin,Basharat Hussain,0,1,1,,,,,"",""
+ball,1,8.2,Philippines,A Donovan,J Tuffin,Basharat Hussain,6,0,,,,,,"",""
+ball,1,8.3,Philippines,A Donovan,J Tuffin,Basharat Hussain,6,0,,,,,,"",""
+ball,1,8.4,Philippines,A Donovan,J Tuffin,Basharat Hussain,6,0,,,,,,"",""
+ball,1,8.5,Philippines,A Donovan,J Tuffin,Basharat Hussain,1,0,,,,,,"",""
+ball,1,8.6,Philippines,J Tuffin,A Donovan,Basharat Hussain,0,0,,,,,,"",""
+ball,1,8.7,Philippines,J Tuffin,A Donovan,Basharat Hussain,1,0,,,,,,"",""
+ball,1,9.1,Philippines,J Tuffin,A Donovan,Bilal Ahmad Mir,0,1,1,,,,,"",""
+ball,1,9.2,Philippines,J Tuffin,A Donovan,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,9.3,Philippines,J Tuffin,A Donovan,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,9.4,Philippines,J Tuffin,A Donovan,Bilal Ahmad Mir,0,1,,,,1,,"",""
+ball,1,9.5,Philippines,A Donovan,J Tuffin,Bilal Ahmad Mir,6,0,,,,,,"",""
+ball,1,9.6,Philippines,A Donovan,J Tuffin,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,9.7,Philippines,A Donovan,J Tuffin,Bilal Ahmad Mir,4,0,,,,,,"",""
+ball,1,10.1,Philippines,J Tuffin,A Donovan,DVD Madampage,1,0,,,,,,"",""
+ball,1,10.2,Philippines,A Donovan,J Tuffin,DVD Madampage,1,0,,,,,,"",""
+ball,1,10.3,Philippines,J Tuffin,A Donovan,DVD Madampage,1,0,,,,,,"",""
+ball,1,10.4,Philippines,A Donovan,J Tuffin,DVD Madampage,6,0,,,,,,"",""
+ball,1,10.5,Philippines,A Donovan,J Tuffin,DVD Madampage,1,0,,,,,,run out,J Tuffin
+ball,1,10.6,Philippines,HER Tyler,A Donovan,DVD Madampage,0,0,,,,,,"",""
+ball,1,11.1,Philippines,A Donovan,HER Tyler,Saurabh Kumar,4,0,,,,,,"",""
+ball,1,11.2,Philippines,A Donovan,HER Tyler,Saurabh Kumar,2,0,,,,,,"",""
+ball,1,11.3,Philippines,A Donovan,HER Tyler,Saurabh Kumar,1,0,,,,,,"",""
+ball,1,11.4,Philippines,HER Tyler,A Donovan,Saurabh Kumar,1,0,,,,,,"",""
+ball,1,11.5,Philippines,A Donovan,HER Tyler,Saurabh Kumar,2,0,,,,,,"",""
+ball,1,11.6,Philippines,A Donovan,HER Tyler,Saurabh Kumar,1,0,,,,,,"",""
+ball,1,12.1,Philippines,A Donovan,HER Tyler,Kuldeep Gurjar,0,0,,,,,,"",""
+ball,1,12.2,Philippines,A Donovan,HER Tyler,Kuldeep Gurjar,2,0,,,,,,"",""
+ball,1,12.3,Philippines,A Donovan,HER Tyler,Kuldeep Gurjar,0,0,,,,,,"",""
+ball,1,12.4,Philippines,A Donovan,HER Tyler,Kuldeep Gurjar,1,0,,,,,,"",""
+ball,1,12.5,Philippines,HER Tyler,A Donovan,Kuldeep Gurjar,4,0,,,,,,"",""
+ball,1,12.6,Philippines,HER Tyler,A Donovan,Kuldeep Gurjar,0,0,,,,,,lbw,HER Tyler
+ball,1,13.1,Philippines,A Donovan,G Chohan,Saurabh Kumar,4,0,,,,,,"",""
+ball,1,13.2,Philippines,A Donovan,G Chohan,Saurabh Kumar,1,0,,,,,,"",""
+ball,1,13.3,Philippines,G Chohan,A Donovan,Saurabh Kumar,1,0,,,,,,"",""
+ball,1,13.4,Philippines,A Donovan,G Chohan,Saurabh Kumar,4,0,,,,,,"",""
+ball,1,13.5,Philippines,A Donovan,G Chohan,Saurabh Kumar,1,0,,,,,,"",""
+ball,1,13.6,Philippines,G Chohan,A Donovan,Saurabh Kumar,1,0,,,,,,"",""
+ball,1,14.1,Philippines,G Chohan,A Donovan,Kuldeep Gurjar,0,0,,,,,,"",""
+ball,1,14.2,Philippines,G Chohan,A Donovan,Kuldeep Gurjar,0,1,1,,,,,"",""
+ball,1,14.3,Philippines,G Chohan,A Donovan,Kuldeep Gurjar,4,0,,,,,,"",""
+ball,1,14.4,Philippines,G Chohan,A Donovan,Kuldeep Gurjar,0,0,,,,,,lbw,G Chohan
+ball,1,14.5,Philippines,GR Russ,A Donovan,Kuldeep Gurjar,0,0,,,,,,"",""
+ball,1,14.6,Philippines,GR Russ,A Donovan,Kuldeep Gurjar,0,0,,,,,,"",""
+ball,1,14.7,Philippines,GR Russ,A Donovan,Kuldeep Gurjar,1,0,,,,,,"",""
+ball,1,15.1,Philippines,GR Russ,A Donovan,S Maduranga,1,0,,,,,,"",""
+ball,1,15.2,Philippines,A Donovan,GR Russ,S Maduranga,3,0,,,,,,"",""
+ball,1,15.3,Philippines,GR Russ,A Donovan,S Maduranga,0,0,,,,,,caught,GR Russ
+ball,1,15.4,Philippines,FN Walsh,A Donovan,S Maduranga,0,0,,,,,,"",""
+ball,1,15.5,Philippines,FN Walsh,A Donovan,S Maduranga,1,0,,,,,,"",""
+ball,1,15.6,Philippines,A Donovan,FN Walsh,S Maduranga,0,0,,,,,,"",""
+ball,1,16.1,Philippines,FN Walsh,A Donovan,Kuldeep Gurjar,1,0,,,,,,"",""
+ball,1,16.2,Philippines,A Donovan,FN Walsh,Kuldeep Gurjar,6,0,,,,,,"",""
+ball,1,16.3,Philippines,A Donovan,FN Walsh,Kuldeep Gurjar,4,0,,,,,,"",""
+ball,1,16.4,Philippines,A Donovan,FN Walsh,Kuldeep Gurjar,1,0,,,,,,"",""
+ball,1,16.5,Philippines,FN Walsh,A Donovan,Kuldeep Gurjar,1,0,,,,,,"",""
+ball,1,16.6,Philippines,A Donovan,FN Walsh,Kuldeep Gurjar,2,0,,,,,,"",""
+ball,1,17.1,Philippines,FN Walsh,A Donovan,Bilal Ahmad Mir,0,0,,,,,,run out,FN Walsh
+ball,1,17.2,Philippines,KDA Lukies,A Donovan,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,17.3,Philippines,KDA Lukies,A Donovan,Bilal Ahmad Mir,0,0,,,,,,"",""
+ball,1,17.4,Philippines,KDA Lukies,A Donovan,Bilal Ahmad Mir,1,0,,,,,,"",""
+ball,1,17.5,Philippines,A Donovan,KDA Lukies,Bilal Ahmad Mir,6,0,,,,,,"",""
+ball,1,17.6,Philippines,A Donovan,KDA Lukies,Bilal Ahmad Mir,4,0,,,,,,"",""
+ball,1,18.1,Philippines,KDA Lukies,A Donovan,S Maduranga,1,0,,,,,,"",""
+ball,1,18.2,Philippines,A Donovan,KDA Lukies,S Maduranga,4,0,,,,,,"",""
+ball,1,18.3,Philippines,A Donovan,KDA Lukies,S Maduranga,1,0,,,,,,"",""
+ball,1,18.4,Philippines,KDA Lukies,A Donovan,S Maduranga,0,1,1,,,,,"",""
+ball,1,18.5,Philippines,KDA Lukies,A Donovan,S Maduranga,1,0,,,,,,"",""
+ball,1,18.6,Philippines,A Donovan,KDA Lukies,S Maduranga,1,0,,,,,,"",""
+ball,1,18.7,Philippines,KDA Lukies,A Donovan,S Maduranga,0,0,,,,,,"",""
+ball,1,19.1,Philippines,A Donovan,KDA Lukies,Saurabh Kumar,4,0,,,,,,"",""
+ball,1,19.2,Philippines,A Donovan,KDA Lukies,Saurabh Kumar,4,0,,,,,,"",""
+ball,1,19.3,Philippines,A Donovan,KDA Lukies,Saurabh Kumar,0,0,,,,,,"",""
+ball,1,19.4,Philippines,A Donovan,KDA Lukies,Saurabh Kumar,2,0,,,,,,"",""
+ball,1,19.5,Philippines,A Donovan,KDA Lukies,Saurabh Kumar,2,0,,,,,,"",""
+ball,1,19.6,Philippines,A Donovan,KDA Lukies,Saurabh Kumar,1,0,,,,,,"",""
+ball,2,0.1,South Korea,DVD Madampage,BI Dilruksha,J Tuffin,0,0,,,,,,"",""
+ball,2,0.2,South Korea,DVD Madampage,BI Dilruksha,J Tuffin,4,0,,,,,,"",""
+ball,2,0.3,South Korea,DVD Madampage,BI Dilruksha,J Tuffin,0,1,1,,,,,"",""
+ball,2,0.4,South Korea,DVD Madampage,BI Dilruksha,J Tuffin,1,0,,,,,,"",""
+ball,2,0.5,South Korea,BI Dilruksha,DVD Madampage,J Tuffin,0,1,1,,,,,"",""
+ball,2,0.6,South Korea,BI Dilruksha,DVD Madampage,J Tuffin,1,0,,,,,,"",""
+ball,2,0.7,South Korea,DVD Madampage,BI Dilruksha,J Tuffin,0,0,,,,,,"",""
+ball,2,0.8,South Korea,DVD Madampage,BI Dilruksha,J Tuffin,0,0,,,,,,"",""
+ball,2,1.1,South Korea,BI Dilruksha,DVD Madampage,KDA Lukies,0,0,,,,,,"",""
+ball,2,1.2,South Korea,BI Dilruksha,DVD Madampage,KDA Lukies,0,0,,,,,,"",""
+ball,2,1.3,South Korea,BI Dilruksha,DVD Madampage,KDA Lukies,0,1,,,1,,,"",""
+ball,2,1.4,South Korea,DVD Madampage,BI Dilruksha,KDA Lukies,0,0,,,,,,"",""
+ball,2,1.5,South Korea,DVD Madampage,BI Dilruksha,KDA Lukies,1,0,,,,,,"",""
+ball,2,1.6,South Korea,BI Dilruksha,DVD Madampage,KDA Lukies,0,0,,,,,,bowled,BI Dilruksha
+ball,2,2.1,South Korea,DVD Madampage,HMHE Parsons,J Tuffin,0,0,,,,,,caught,DVD Madampage
+ball,2,2.2,South Korea,Nishat Sakib,HMHE Parsons,J Tuffin,0,1,,,1,,,"",""
+ball,2,2.3,South Korea,HMHE Parsons,Nishat Sakib,J Tuffin,0,1,1,,,,,"",""
+ball,2,2.4,South Korea,HMHE Parsons,Nishat Sakib,J Tuffin,0,0,,,,,,"",""
+ball,2,2.5,South Korea,HMHE Parsons,Nishat Sakib,J Tuffin,0,0,,,,,,"",""
+ball,2,2.6,South Korea,HMHE Parsons,Nishat Sakib,J Tuffin,0,0,,,,,,"",""
+ball,2,2.7,South Korea,HMHE Parsons,Nishat Sakib,J Tuffin,1,0,,,,,,"",""
+ball,2,3.1,South Korea,HMHE Parsons,Nishat Sakib,KDA Lukies,1,0,,,,,,"",""
+ball,2,3.2,South Korea,Nishat Sakib,HMHE Parsons,KDA Lukies,1,0,,,,,,"",""
+ball,2,3.3,South Korea,HMHE Parsons,Nishat Sakib,KDA Lukies,1,0,,,,,,"",""
+ball,2,3.4,South Korea,Nishat Sakib,HMHE Parsons,KDA Lukies,0,0,,,,,,"",""
+ball,2,3.5,South Korea,Nishat Sakib,HMHE Parsons,KDA Lukies,0,0,,,,,,"",""
+ball,2,3.6,South Korea,Nishat Sakib,HMHE Parsons,KDA Lukies,1,0,,,,,,"",""
+ball,2,4.1,South Korea,Nishat Sakib,HMHE Parsons,J Tuffin,0,0,,,,,,"",""
+ball,2,4.2,South Korea,Nishat Sakib,HMHE Parsons,J Tuffin,4,0,,,,,,"",""
+ball,2,4.3,South Korea,Nishat Sakib,HMHE Parsons,J Tuffin,4,0,,,,,,"",""
+ball,2,4.4,South Korea,Nishat Sakib,HMHE Parsons,J Tuffin,0,0,,,,,,"",""
+ball,2,4.5,South Korea,Nishat Sakib,HMHE Parsons,J Tuffin,0,0,,,,,,"",""
+ball,2,4.6,South Korea,Nishat Sakib,HMHE Parsons,J Tuffin,1,0,,,,,,"",""
+ball,2,5.1,South Korea,Nishat Sakib,HMHE Parsons,KDA Lukies,0,0,,,,,,"",""
+ball,2,5.2,South Korea,Nishat Sakib,HMHE Parsons,KDA Lukies,1,0,,,,,,"",""
+ball,2,5.3,South Korea,HMHE Parsons,Nishat Sakib,KDA Lukies,0,0,,,,,,"",""
+ball,2,5.4,South Korea,HMHE Parsons,Nishat Sakib,KDA Lukies,0,0,,,,,,"",""
+ball,2,5.5,South Korea,HMHE Parsons,Nishat Sakib,KDA Lukies,1,0,,,,,,"",""
+ball,2,5.6,South Korea,Nishat Sakib,HMHE Parsons,KDA Lukies,0,1,,,,1,,"",""
+ball,2,6.1,South Korea,Nishat Sakib,HMHE Parsons,A Donovan,0,0,,,,,,"",""
+ball,2,6.2,South Korea,Nishat Sakib,HMHE Parsons,A Donovan,0,0,,,,,,"",""
+ball,2,6.3,South Korea,Nishat Sakib,HMHE Parsons,A Donovan,4,0,,,,,,"",""
+ball,2,6.4,South Korea,Nishat Sakib,HMHE Parsons,A Donovan,0,0,,,,,,"",""
+ball,2,6.5,South Korea,Nishat Sakib,HMHE Parsons,A Donovan,0,0,,,,,,"",""
+ball,2,6.6,South Korea,Nishat Sakib,HMHE Parsons,A Donovan,0,0,,,,,,"",""
+ball,2,7.1,South Korea,HMHE Parsons,Nishat Sakib,G Chohan,1,0,,,,,,"",""
+ball,2,7.2,South Korea,Nishat Sakib,HMHE Parsons,G Chohan,1,0,,,,,,"",""
+ball,2,7.3,South Korea,HMHE Parsons,Nishat Sakib,G Chohan,6,0,,,,,,"",""
+ball,2,7.4,South Korea,HMHE Parsons,Nishat Sakib,G Chohan,0,0,,,,,,"",""
+ball,2,7.5,South Korea,HMHE Parsons,Nishat Sakib,G Chohan,4,0,,,,,,"",""
+ball,2,7.6,South Korea,HMHE Parsons,Nishat Sakib,G Chohan,1,0,,,,,,"",""
+ball,2,8.1,South Korea,HMHE Parsons,Nishat Sakib,N Tanner,1,0,,,,,,"",""
+ball,2,8.2,South Korea,Nishat Sakib,HMHE Parsons,N Tanner,1,0,,,,,,"",""
+ball,2,8.3,South Korea,HMHE Parsons,Nishat Sakib,N Tanner,0,0,,,,,,caught,HMHE Parsons
+ball,2,8.4,South Korea,S Maduranga,Nishat Sakib,N Tanner,0,1,1,,,,,"",""
+ball,2,8.5,South Korea,S Maduranga,Nishat Sakib,N Tanner,0,0,,,,,,"",""
+ball,2,8.6,South Korea,S Maduranga,Nishat Sakib,N Tanner,2,0,,,,,,"",""
+ball,2,8.7,South Korea,S Maduranga,Nishat Sakib,N Tanner,1,0,,,,,,"",""
+ball,2,9.1,South Korea,S Maduranga,Nishat Sakib,HER Tyler,0,0,,,,,,lbw,S Maduranga
+ball,2,9.2,South Korea,Bilal Ahmad Mir,Nishat Sakib,HER Tyler,0,0,,,,,,"",""
+ball,2,9.3,South Korea,Bilal Ahmad Mir,Nishat Sakib,HER Tyler,4,0,,,,,,"",""
+ball,2,9.4,South Korea,Bilal Ahmad Mir,Nishat Sakib,HER Tyler,0,0,,,,,,"",""
+ball,2,9.5,South Korea,Bilal Ahmad Mir,Nishat Sakib,HER Tyler,1,0,,,,,,"",""
+ball,2,9.6,South Korea,Nishat Sakib,Bilal Ahmad Mir,HER Tyler,1,0,,,,,,"",""
+ball,2,10.1,South Korea,Nishat Sakib,Bilal Ahmad Mir,N Tanner,4,0,,,,,,"",""
+ball,2,10.2,South Korea,Nishat Sakib,Bilal Ahmad Mir,N Tanner,1,0,,,,,,"",""
+ball,2,10.3,South Korea,Bilal Ahmad Mir,Nishat Sakib,N Tanner,0,0,,,,,,"",""
+ball,2,10.4,South Korea,Bilal Ahmad Mir,Nishat Sakib,N Tanner,4,0,,,,,,"",""
+ball,2,10.5,South Korea,Bilal Ahmad Mir,Nishat Sakib,N Tanner,1,0,,,,,,"",""
+ball,2,10.6,South Korea,Nishat Sakib,Bilal Ahmad Mir,N Tanner,1,0,,,,,,"",""
+ball,2,11.1,South Korea,Nishat Sakib,Bilal Ahmad Mir,HER Tyler,1,0,,,,,,"",""
+ball,2,11.2,South Korea,Bilal Ahmad Mir,Nishat Sakib,HER Tyler,1,0,,,,,,"",""
+ball,2,11.3,South Korea,Nishat Sakib,Bilal Ahmad Mir,HER Tyler,1,0,,,,,,"",""
+ball,2,11.4,South Korea,Bilal Ahmad Mir,Nishat Sakib,HER Tyler,0,0,,,,,,caught,Bilal Ahmad Mir
+ball,2,11.5,South Korea,Kuldeep Gurjar,Nishat Sakib,HER Tyler,0,0,,,,,,"",""
+ball,2,11.6,South Korea,Kuldeep Gurjar,Nishat Sakib,HER Tyler,1,0,,,,,,"",""
+ball,2,12.1,South Korea,Kuldeep Gurjar,Nishat Sakib,N Tanner,0,0,,,,,,"",""
+ball,2,12.2,South Korea,Kuldeep Gurjar,Nishat Sakib,N Tanner,1,0,,,,,,"",""
+ball,2,12.3,South Korea,Nishat Sakib,Kuldeep Gurjar,N Tanner,0,1,,,,1,,"",""
+ball,2,12.4,South Korea,Kuldeep Gurjar,Nishat Sakib,N Tanner,0,0,,,,,,"",""
+ball,2,12.5,South Korea,Kuldeep Gurjar,Nishat Sakib,N Tanner,6,0,,,,,,"",""
+ball,2,12.6,South Korea,Kuldeep Gurjar,Nishat Sakib,N Tanner,1,0,,,,,,"",""
+ball,2,13.1,South Korea,Kuldeep Gurjar,Nishat Sakib,HER Tyler,0,0,,,,,,caught,Kuldeep Gurjar
+ball,2,13.2,South Korea,Saurabh Kumar,Nishat Sakib,HER Tyler,0,0,,,,,,"",""
+ball,2,13.3,South Korea,Saurabh Kumar,Nishat Sakib,HER Tyler,0,0,,,,,,"",""
+ball,2,13.4,South Korea,Saurabh Kumar,Nishat Sakib,HER Tyler,0,0,,,,,,caught,Saurabh Kumar
+ball,2,13.5,South Korea,Kim Daeyeon,Nishat Sakib,HER Tyler,0,0,,,,,,"",""
+ball,2,13.6,South Korea,Kim Daeyeon,Nishat Sakib,HER Tyler,1,0,,,,,,"",""
+ball,2,14.1,South Korea,Kim Daeyeon,Nishat Sakib,N Tanner,0,0,,,,,,"",""
+ball,2,14.2,South Korea,Kim Daeyeon,Nishat Sakib,N Tanner,4,0,,,,,,"",""
+ball,2,14.3,South Korea,Kim Daeyeon,Nishat Sakib,N Tanner,1,0,,,,,,"",""
+ball,2,14.4,South Korea,Nishat Sakib,Kim Daeyeon,N Tanner,0,0,,,,,,lbw,Nishat Sakib
+ball,2,14.5,South Korea,K Babu,Kim Daeyeon,N Tanner,1,0,,,,,,"",""
+ball,2,14.6,South Korea,Kim Daeyeon,K Babu,N Tanner,1,0,,,,,,"",""
+ball,2,15.1,South Korea,Kim Daeyeon,K Babu,HER Tyler,1,0,,,,,,"",""
+ball,2,15.2,South Korea,K Babu,Kim Daeyeon,HER Tyler,0,0,,,,,,"",""
+ball,2,15.3,South Korea,K Babu,Kim Daeyeon,HER Tyler,1,0,,,,,,"",""
+ball,2,15.4,South Korea,Kim Daeyeon,K Babu,HER Tyler,0,0,,,,,,"",""
+ball,2,15.5,South Korea,Kim Daeyeon,K Babu,HER Tyler,4,0,,,,,,"",""
+ball,2,15.6,South Korea,Kim Daeyeon,K Babu,HER Tyler,1,0,,,,,,"",""
+ball,2,16.1,South Korea,Kim Daeyeon,K Babu,A Donovan,1,0,,,,,,"",""
+ball,2,16.2,South Korea,K Babu,Kim Daeyeon,A Donovan,0,0,,,,,,bowled,K Babu
+ball,2,16.3,South Korea,Basharat Hussain,Kim Daeyeon,A Donovan,0,1,1,,,,,"",""
+ball,2,16.4,South Korea,Basharat Hussain,Kim Daeyeon,A Donovan,0,0,,,,,,"",""
+ball,2,16.5,South Korea,Basharat Hussain,Kim Daeyeon,A Donovan,0,0,,,,,,"",""
+ball,2,16.6,South Korea,Basharat Hussain,Kim Daeyeon,A Donovan,0,0,,,,,,"",""
+ball,2,16.7,South Korea,Basharat Hussain,Kim Daeyeon,A Donovan,0,0,,,,,,"",""
+ball,2,17.1,South Korea,Kim Daeyeon,Basharat Hussain,G Chohan,0,0,,,,,,"",""
+ball,2,17.2,South Korea,Kim Daeyeon,Basharat Hussain,G Chohan,0,0,,,,,,caught and bowled,Kim Daeyeon

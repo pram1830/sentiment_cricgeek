@@ -1,0 +1,285 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Rwanda
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,East Africa Cup
+info,match_number,1
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,K Waiswa
+info,umpire,Gaston Niyibizi
+info,umpire,Norbert Abii
+info,reserve_umpire,V Iriho
+info,winner,Uganda
+info,winner_runs,40
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Lutaaya
+info,player,Uganda,K Waiswa
+info,player,Uganda,AR Ramjani
+info,player,Uganda,B Masaba
+info,player,Uganda,CN Kakuru
+info,player,Uganda,P Murungi
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,S Nsubuga
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,Norbert Abii,ed06cf51
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Nsubuga,58cb36aa
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,V Iriho,2853eafb
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08
+ball,1,0.1,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,0.2,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,4,0,,,,,,"",""
+ball,1,0.3,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,0.4,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,0.5,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,0,1,1,,,,,"",""
+ball,1,0.6,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,0.7,Uganda,S Sesazi,RG Mukasa,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,1.1,Uganda,RG Mukasa,S Sesazi,E Sebareme,0,2,,,2,,,"",""
+ball,1,1.2,Uganda,RG Mukasa,S Sesazi,E Sebareme,0,0,,,,,,"",""
+ball,1,1.3,Uganda,RG Mukasa,S Sesazi,E Sebareme,0,4,,,4,,,"",""
+ball,1,1.4,Uganda,RG Mukasa,S Sesazi,E Sebareme,0,0,,,,,,"",""
+ball,1,1.5,Uganda,RG Mukasa,S Sesazi,E Sebareme,4,0,,,,,,"",""
+ball,1,1.6,Uganda,RG Mukasa,S Sesazi,E Sebareme,1,0,,,,,,"",""
+ball,1,2.1,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,0,0,,,,,,caught,RG Mukasa
+ball,1,2.2,Uganda,R Lutaaya,S Sesazi,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,2.3,Uganda,R Lutaaya,S Sesazi,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,2.4,Uganda,S Sesazi,R Lutaaya,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,2.5,Uganda,S Sesazi,R Lutaaya,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,2.6,Uganda,S Sesazi,R Lutaaya,Z Bimenyimana,0,0,,,,,,caught,S Sesazi
+ball,1,3.1,Uganda,R Lutaaya,K Waiswa,E Sebareme,1,0,,,,,,"",""
+ball,1,3.2,Uganda,K Waiswa,R Lutaaya,E Sebareme,0,0,,,,,,"",""
+ball,1,3.3,Uganda,K Waiswa,R Lutaaya,E Sebareme,0,0,,,,,,"",""
+ball,1,3.4,Uganda,K Waiswa,R Lutaaya,E Sebareme,4,0,,,,,,"",""
+ball,1,3.5,Uganda,K Waiswa,R Lutaaya,E Sebareme,0,0,,,,,,"",""
+ball,1,3.6,Uganda,K Waiswa,R Lutaaya,E Sebareme,0,0,,,,,,"",""
+ball,1,4.1,Uganda,R Lutaaya,K Waiswa,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,4.2,Uganda,R Lutaaya,K Waiswa,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,4.3,Uganda,R Lutaaya,K Waiswa,Z Bimenyimana,4,0,,,,,,"",""
+ball,1,4.4,Uganda,R Lutaaya,K Waiswa,Z Bimenyimana,3,0,,,,,,"",""
+ball,1,4.5,Uganda,K Waiswa,R Lutaaya,Z Bimenyimana,4,0,,,,,,"",""
+ball,1,4.6,Uganda,K Waiswa,R Lutaaya,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,5.1,Uganda,K Waiswa,R Lutaaya,E Sebareme,4,0,,,,,,"",""
+ball,1,5.2,Uganda,K Waiswa,R Lutaaya,E Sebareme,2,0,,,,,,"",""
+ball,1,5.3,Uganda,K Waiswa,R Lutaaya,E Sebareme,1,0,,,,,,"",""
+ball,1,5.4,Uganda,R Lutaaya,K Waiswa,E Sebareme,1,0,,,,,,"",""
+ball,1,5.5,Uganda,K Waiswa,R Lutaaya,E Sebareme,0,0,,,,,,"",""
+ball,1,5.6,Uganda,K Waiswa,R Lutaaya,E Sebareme,2,0,,,,,,"",""
+ball,1,6.1,Uganda,R Lutaaya,K Waiswa,K Irakoze,0,0,,,,,,"",""
+ball,1,6.2,Uganda,R Lutaaya,K Waiswa,K Irakoze,1,0,,,,,,"",""
+ball,1,6.3,Uganda,K Waiswa,R Lutaaya,K Irakoze,1,0,,,,,,"",""
+ball,1,6.4,Uganda,R Lutaaya,K Waiswa,K Irakoze,1,0,,,,,,"",""
+ball,1,6.5,Uganda,K Waiswa,R Lutaaya,K Irakoze,1,0,,,,,,"",""
+ball,1,6.6,Uganda,R Lutaaya,K Waiswa,K Irakoze,0,0,,,,,,"",""
+ball,1,7.1,Uganda,K Waiswa,R Lutaaya,E Rukiriza,1,0,,,,,,"",""
+ball,1,7.2,Uganda,R Lutaaya,K Waiswa,E Rukiriza,0,0,,,,,,"",""
+ball,1,7.3,Uganda,R Lutaaya,K Waiswa,E Rukiriza,0,0,,,,,,"",""
+ball,1,7.4,Uganda,R Lutaaya,K Waiswa,E Rukiriza,6,0,,,,,,"",""
+ball,1,7.5,Uganda,R Lutaaya,K Waiswa,E Rukiriza,1,0,,,,,,"",""
+ball,1,7.6,Uganda,K Waiswa,R Lutaaya,E Rukiriza,1,0,,,,,,"",""
+ball,1,8.1,Uganda,K Waiswa,R Lutaaya,K Irakoze,0,0,,,,,,bowled,K Waiswa
+ball,1,8.2,Uganda,AR Ramjani,R Lutaaya,K Irakoze,1,0,,,,,,"",""
+ball,1,8.3,Uganda,R Lutaaya,AR Ramjani,K Irakoze,2,0,,,,,,"",""
+ball,1,8.4,Uganda,R Lutaaya,AR Ramjani,K Irakoze,0,0,,,,,,"",""
+ball,1,8.5,Uganda,R Lutaaya,AR Ramjani,K Irakoze,0,0,,,,,,"",""
+ball,1,8.6,Uganda,R Lutaaya,AR Ramjani,K Irakoze,1,0,,,,,,"",""
+ball,1,9.1,Uganda,R Lutaaya,AR Ramjani,E Rukiriza,0,0,,,,,,"",""
+ball,1,9.2,Uganda,R Lutaaya,AR Ramjani,E Rukiriza,6,0,,,,,,"",""
+ball,1,9.3,Uganda,R Lutaaya,AR Ramjani,E Rukiriza,0,0,,,,,,"",""
+ball,1,9.4,Uganda,R Lutaaya,AR Ramjani,E Rukiriza,0,0,,,,,,"",""
+ball,1,9.5,Uganda,R Lutaaya,AR Ramjani,E Rukiriza,1,0,,,,,,"",""
+ball,1,9.6,Uganda,AR Ramjani,R Lutaaya,E Rukiriza,0,0,,,,,,"",""
+ball,1,10.1,Uganda,R Lutaaya,AR Ramjani,K Irakoze,1,0,,,,,,"",""
+ball,1,10.2,Uganda,AR Ramjani,R Lutaaya,K Irakoze,0,0,,,,,,"",""
+ball,1,10.3,Uganda,AR Ramjani,R Lutaaya,K Irakoze,1,0,,,,,,"",""
+ball,1,10.4,Uganda,R Lutaaya,AR Ramjani,K Irakoze,2,0,,,,,,"",""
+ball,1,10.5,Uganda,R Lutaaya,AR Ramjani,K Irakoze,1,0,,,,,,"",""
+ball,1,10.6,Uganda,AR Ramjani,R Lutaaya,K Irakoze,0,0,,,,,,"",""
+ball,1,11.1,Uganda,R Lutaaya,AR Ramjani,I Ntirenganya,2,0,,,,,,"",""
+ball,1,11.2,Uganda,R Lutaaya,AR Ramjani,I Ntirenganya,1,0,,,,,,"",""
+ball,1,11.3,Uganda,AR Ramjani,R Lutaaya,I Ntirenganya,1,0,,,,,,"",""
+ball,1,11.4,Uganda,R Lutaaya,AR Ramjani,I Ntirenganya,1,0,,,,,,"",""
+ball,1,11.5,Uganda,AR Ramjani,R Lutaaya,I Ntirenganya,1,0,,,,,,"",""
+ball,1,11.6,Uganda,R Lutaaya,AR Ramjani,I Ntirenganya,1,0,,,,,,"",""
+ball,1,12.1,Uganda,R Lutaaya,AR Ramjani,K Irakoze,1,0,,,,,,"",""
+ball,1,12.2,Uganda,AR Ramjani,R Lutaaya,K Irakoze,0,0,,,,,,"",""
+ball,1,12.3,Uganda,AR Ramjani,R Lutaaya,K Irakoze,6,0,,,,,,"",""
+ball,1,12.4,Uganda,AR Ramjani,R Lutaaya,K Irakoze,1,0,,,,,,"",""
+ball,1,12.5,Uganda,R Lutaaya,AR Ramjani,K Irakoze,0,1,1,,,,,"",""
+ball,1,12.6,Uganda,R Lutaaya,AR Ramjani,K Irakoze,1,0,,,,,,"",""
+ball,1,12.7,Uganda,AR Ramjani,R Lutaaya,K Irakoze,1,0,,,,,,"",""
+ball,1,13.1,Uganda,AR Ramjani,R Lutaaya,I Ntirenganya,0,1,,,,1,,"",""
+ball,1,13.2,Uganda,R Lutaaya,AR Ramjani,I Ntirenganya,1,0,,,,,,"",""
+ball,1,13.3,Uganda,AR Ramjani,R Lutaaya,I Ntirenganya,0,0,,,,,,caught,AR Ramjani
+ball,1,13.4,Uganda,B Masaba,R Lutaaya,I Ntirenganya,2,0,,,,,,"",""
+ball,1,13.5,Uganda,B Masaba,R Lutaaya,I Ntirenganya,0,0,,,,,,"",""
+ball,1,13.6,Uganda,B Masaba,R Lutaaya,I Ntirenganya,1,0,,,,,,"",""
+ball,1,14.1,Uganda,B Masaba,R Lutaaya,E Rukiriza,0,0,,,,,,"",""
+ball,1,14.2,Uganda,B Masaba,R Lutaaya,E Rukiriza,1,0,,,,,,"",""
+ball,1,14.3,Uganda,R Lutaaya,B Masaba,E Rukiriza,0,0,,,,,,"",""
+ball,1,14.4,Uganda,R Lutaaya,B Masaba,E Rukiriza,2,0,,,,,,"",""
+ball,1,14.5,Uganda,R Lutaaya,B Masaba,E Rukiriza,0,0,,,,,,caught,R Lutaaya
+ball,1,14.6,Uganda,CN Kakuru,B Masaba,E Rukiriza,0,0,,,,,,"",""
+ball,1,15.1,Uganda,B Masaba,CN Kakuru,E Sebareme,1,0,,,,,,"",""
+ball,1,15.2,Uganda,CN Kakuru,B Masaba,E Sebareme,1,0,,,,,,"",""
+ball,1,15.3,Uganda,B Masaba,CN Kakuru,E Sebareme,1,0,,,,,,"",""
+ball,1,15.4,Uganda,CN Kakuru,B Masaba,E Sebareme,0,0,,,,,,"",""
+ball,1,15.5,Uganda,CN Kakuru,B Masaba,E Sebareme,0,0,,,,,,"",""
+ball,1,15.6,Uganda,CN Kakuru,B Masaba,E Sebareme,4,0,,,,,,"",""
+ball,1,16.1,Uganda,B Masaba,CN Kakuru,E Rukiriza,0,0,,,,,,"",""
+ball,1,16.2,Uganda,B Masaba,CN Kakuru,E Rukiriza,1,0,,,,,,"",""
+ball,1,16.3,Uganda,CN Kakuru,B Masaba,E Rukiriza,2,0,,,,,,"",""
+ball,1,16.4,Uganda,CN Kakuru,B Masaba,E Rukiriza,0,1,,,1,,,"",""
+ball,1,16.5,Uganda,B Masaba,CN Kakuru,E Rukiriza,2,0,,,,,,"",""
+ball,1,16.6,Uganda,B Masaba,CN Kakuru,E Rukiriza,1,0,,,,,,"",""
+ball,1,17.1,Uganda,B Masaba,CN Kakuru,C Rububagumya,2,0,,,,,,"",""
+ball,1,17.2,Uganda,B Masaba,CN Kakuru,C Rububagumya,0,1,1,,,,,"",""
+ball,1,17.3,Uganda,B Masaba,CN Kakuru,C Rububagumya,1,0,,,,,,"",""
+ball,1,17.4,Uganda,CN Kakuru,B Masaba,C Rububagumya,0,0,,,,,,"",""
+ball,1,17.5,Uganda,CN Kakuru,B Masaba,C Rububagumya,1,0,,,,,,"",""
+ball,1,17.6,Uganda,B Masaba,CN Kakuru,C Rububagumya,2,0,,,,,,"",""
+ball,1,17.7,Uganda,B Masaba,CN Kakuru,C Rububagumya,1,0,,,,,,"",""
+ball,1,18.1,Uganda,B Masaba,CN Kakuru,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,18.2,Uganda,CN Kakuru,B Masaba,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,18.3,Uganda,CN Kakuru,B Masaba,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,18.4,Uganda,B Masaba,CN Kakuru,Z Bimenyimana,4,0,,,,,,"",""
+ball,1,18.5,Uganda,B Masaba,CN Kakuru,Z Bimenyimana,6,0,,,,,,"",""
+ball,1,18.6,Uganda,B Masaba,CN Kakuru,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,19.1,Uganda,B Masaba,CN Kakuru,C Rububagumya,1,0,,,,,,"",""
+ball,1,19.2,Uganda,CN Kakuru,B Masaba,C Rububagumya,0,0,,,,,,caught,CN Kakuru
+ball,1,19.3,Uganda,P Murungi,B Masaba,C Rububagumya,0,0,,,,,,"",""
+ball,1,19.4,Uganda,P Murungi,B Masaba,C Rububagumya,0,2,2,,,,,"",""
+ball,1,19.5,Uganda,B Masaba,P Murungi,C Rububagumya,2,0,,,,,,"",""
+ball,1,19.6,Uganda,B Masaba,P Murungi,C Rububagumya,4,0,,,,,,"",""
+ball,1,19.7,Uganda,B Masaba,P Murungi,C Rububagumya,2,0,,,,,,"",""
+ball,2,0.1,Rwanda,D Ndikubwimana,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,0.2,Rwanda,D Ndikubwimana,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,0.3,Rwanda,D Ndikubwimana,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,0.4,Rwanda,D Ndikubwimana,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,0.5,Rwanda,D Ndikubwimana,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,0.6,Rwanda,D Ndikubwimana,E Dusingizimana,AR Ramjani,1,0,,,,,,"",""
+ball,2,1.1,Rwanda,D Ndikubwimana,E Dusingizimana,Bilal Hassun,0,0,,,,,,"",""
+ball,2,1.2,Rwanda,D Ndikubwimana,E Dusingizimana,Bilal Hassun,4,0,,,,,,"",""
+ball,2,1.3,Rwanda,D Ndikubwimana,E Dusingizimana,Bilal Hassun,0,0,,,,,,"",""
+ball,2,1.4,Rwanda,D Ndikubwimana,E Dusingizimana,Bilal Hassun,0,1,,,,1,,"",""
+ball,2,1.5,Rwanda,E Dusingizimana,D Ndikubwimana,Bilal Hassun,2,0,,,,,,"",""
+ball,2,1.6,Rwanda,E Dusingizimana,D Ndikubwimana,Bilal Hassun,1,0,,,,,,"",""
+ball,2,2.1,Rwanda,E Dusingizimana,D Ndikubwimana,AR Ramjani,1,0,,,,,,"",""
+ball,2,2.2,Rwanda,D Ndikubwimana,E Dusingizimana,AR Ramjani,0,0,,,,,,caught,D Ndikubwimana
+ball,2,2.3,Rwanda,W Niyitanga,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,2.4,Rwanda,W Niyitanga,E Dusingizimana,AR Ramjani,2,0,,,,,,"",""
+ball,2,2.5,Rwanda,W Niyitanga,E Dusingizimana,AR Ramjani,1,0,,,,,,"",""
+ball,2,2.6,Rwanda,E Dusingizimana,W Niyitanga,AR Ramjani,0,0,,,,,,"",""
+ball,2,3.1,Rwanda,W Niyitanga,E Dusingizimana,Bilal Hassun,0,0,,,,,,lbw,W Niyitanga
+ball,2,3.2,Rwanda,O Tuyisenge,E Dusingizimana,Bilal Hassun,0,0,,,,,,"",""
+ball,2,3.3,Rwanda,O Tuyisenge,E Dusingizimana,Bilal Hassun,0,0,,,,,,"",""
+ball,2,3.4,Rwanda,O Tuyisenge,E Dusingizimana,Bilal Hassun,0,0,,,,,,"",""
+ball,2,3.5,Rwanda,O Tuyisenge,E Dusingizimana,Bilal Hassun,1,0,,,,,,"",""
+ball,2,3.6,Rwanda,E Dusingizimana,O Tuyisenge,Bilal Hassun,0,0,,,,,,"",""
+ball,2,4.1,Rwanda,O Tuyisenge,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,4.2,Rwanda,O Tuyisenge,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,4.3,Rwanda,O Tuyisenge,E Dusingizimana,AR Ramjani,6,0,,,,,,"",""
+ball,2,4.4,Rwanda,O Tuyisenge,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,4.5,Rwanda,O Tuyisenge,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,4.6,Rwanda,O Tuyisenge,E Dusingizimana,AR Ramjani,0,0,,,,,,"",""
+ball,2,5.1,Rwanda,E Dusingizimana,O Tuyisenge,K Waiswa,0,0,,,,,,"",""
+ball,2,5.2,Rwanda,E Dusingizimana,O Tuyisenge,K Waiswa,0,0,,,,,,"",""
+ball,2,5.3,Rwanda,E Dusingizimana,O Tuyisenge,K Waiswa,6,0,,,,,,"",""
+ball,2,5.4,Rwanda,E Dusingizimana,O Tuyisenge,K Waiswa,2,0,,,,,,"",""
+ball,2,5.5,Rwanda,E Dusingizimana,O Tuyisenge,K Waiswa,4,0,,,,,,"",""
+ball,2,5.6,Rwanda,E Dusingizimana,O Tuyisenge,K Waiswa,1,0,,,,,,"",""
+ball,2,6.1,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,0,0,,,,,,"",""
+ball,2,6.2,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,6,0,,,,,,"",""
+ball,2,6.3,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,1,0,,,,,,"",""
+ball,2,6.4,Rwanda,O Tuyisenge,E Dusingizimana,H Ssenyondo,0,4,,,4,,,"",""
+ball,2,6.5,Rwanda,O Tuyisenge,E Dusingizimana,H Ssenyondo,0,0,,,,,,"",""
+ball,2,6.6,Rwanda,O Tuyisenge,E Dusingizimana,H Ssenyondo,1,0,,,,,,"",""
+ball,2,7.1,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,2,0,,,,,,"",""
+ball,2,7.2,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,0,0,,,,,,"",""
+ball,2,7.3,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,0,0,,,,,,"",""
+ball,2,7.4,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,2,0,,,,,,"",""
+ball,2,7.5,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,0,0,,,,,,"",""
+ball,2,7.6,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,2,0,,,,,,"",""
+ball,2,8.1,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,1,0,,,,,,"",""
+ball,2,8.2,Rwanda,O Tuyisenge,E Dusingizimana,H Ssenyondo,1,0,,,,,,"",""
+ball,2,8.3,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,0,0,,,,,,"",""
+ball,2,8.4,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,6,0,,,,,,"",""
+ball,2,8.5,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,6,0,,,,,,"",""
+ball,2,8.6,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,1,0,,,,,,"",""
+ball,2,9.1,Rwanda,E Dusingizimana,O Tuyisenge,S Nsubuga,0,0,,,,,,"",""
+ball,2,9.2,Rwanda,E Dusingizimana,O Tuyisenge,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.3,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.4,Rwanda,E Dusingizimana,O Tuyisenge,S Nsubuga,0,0,,,,,,"",""
+ball,2,9.5,Rwanda,E Dusingizimana,O Tuyisenge,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.6,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,1,0,,,,,,"",""
+ball,2,10.1,Rwanda,O Tuyisenge,E Dusingizimana,H Ssenyondo,1,0,,,,,,"",""
+ball,2,10.2,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,4,0,,,,,,"",""
+ball,2,10.3,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,1,0,,,,,,"",""
+ball,2,10.4,Rwanda,O Tuyisenge,E Dusingizimana,H Ssenyondo,1,0,,,,,,"",""
+ball,2,10.5,Rwanda,E Dusingizimana,O Tuyisenge,H Ssenyondo,1,0,,,,,,"",""
+ball,2,10.6,Rwanda,O Tuyisenge,E Dusingizimana,H Ssenyondo,1,0,,,,,,"",""
+ball,2,11.1,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,1,0,,,,,,"",""
+ball,2,11.2,Rwanda,E Dusingizimana,O Tuyisenge,S Nsubuga,1,0,,,,,,"",""
+ball,2,11.3,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,0,0,,,,,,"",""
+ball,2,11.4,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,1,0,,,,,,"",""
+ball,2,11.5,Rwanda,E Dusingizimana,O Tuyisenge,S Nsubuga,1,0,,,,,,"",""
+ball,2,11.6,Rwanda,O Tuyisenge,E Dusingizimana,S Nsubuga,4,0,,,,,,"",""
+ball,2,12.1,Rwanda,E Dusingizimana,O Tuyisenge,K Waiswa,1,0,,,,,,"",""
+ball,2,12.2,Rwanda,O Tuyisenge,E Dusingizimana,K Waiswa,4,0,,,,,,"",""
+ball,2,12.3,Rwanda,O Tuyisenge,E Dusingizimana,K Waiswa,4,0,,,,,,"",""
+ball,2,12.4,Rwanda,O Tuyisenge,E Dusingizimana,K Waiswa,0,0,,,,,,caught,O Tuyisenge
+ball,2,12.5,Rwanda,C Rububagumya,E Dusingizimana,K Waiswa,0,0,,,,,,lbw,C Rububagumya
+ball,2,12.6,Rwanda,O Manishimwe,E Dusingizimana,K Waiswa,0,0,,,,,,bowled,O Manishimwe
+ball,2,13.1,Rwanda,E Dusingizimana,K Irakoze,S Nsubuga,1,0,,,,,,"",""
+ball,2,13.2,Rwanda,K Irakoze,E Dusingizimana,S Nsubuga,1,0,,,,,,"",""
+ball,2,13.3,Rwanda,E Dusingizimana,K Irakoze,S Nsubuga,0,0,,,,,,caught,E Dusingizimana
+ball,2,13.4,Rwanda,E Sebareme,K Irakoze,S Nsubuga,1,0,,,,,,"",""
+ball,2,13.5,Rwanda,K Irakoze,E Sebareme,S Nsubuga,0,0,,,,,,"",""
+ball,2,13.6,Rwanda,K Irakoze,E Sebareme,S Nsubuga,0,0,,,,,,"",""
+ball,2,14.1,Rwanda,E Sebareme,K Irakoze,K Waiswa,0,0,,,,,,"",""
+ball,2,14.2,Rwanda,E Sebareme,K Irakoze,K Waiswa,1,0,,,,,,run out,K Irakoze
+ball,2,14.3,Rwanda,E Rukiriza,E Sebareme,K Waiswa,0,1,1,,,,,"",""
+ball,2,14.4,Rwanda,E Rukiriza,E Sebareme,K Waiswa,0,0,,,,,,"",""
+ball,2,14.5,Rwanda,E Rukiriza,E Sebareme,K Waiswa,1,0,,,,,,"",""
+ball,2,14.6,Rwanda,E Sebareme,E Rukiriza,K Waiswa,2,0,,,,,,"",""
+ball,2,14.7,Rwanda,E Sebareme,E Rukiriza,K Waiswa,1,0,,,,,,"",""
+ball,2,15.1,Rwanda,E Sebareme,E Rukiriza,AR Ramjani,0,0,,,,,,"",""
+ball,2,15.2,Rwanda,E Sebareme,E Rukiriza,AR Ramjani,1,0,,,,,,"",""
+ball,2,15.3,Rwanda,E Rukiriza,E Sebareme,AR Ramjani,0,0,,,,,,run out,E Sebareme
+ball,2,15.4,Rwanda,E Rukiriza,Z Bimenyimana,AR Ramjani,0,0,,,,,,caught,E Rukiriza

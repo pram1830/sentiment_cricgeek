@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Malaysia
+info,gender,male
+info,season,2024/25
+info,date,2025/03/13
+info,event,Malaysia Tri-Nation T20I Series
+info,match_number,4
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,Sohail Ahmed
+info,umpire,Rudy Ismandy
+info,umpire,V Kalidas
+info,reserve_umpire,N Sivan
+info,match_referee,B Ramani
+info,winner,Bahrain
+info,winner_runs,35
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Imran Khan
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Muhammad Wafiq
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Muhammad Amir
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,B Ramani,92ad5353
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Muhammad Wafiq,f104c434
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Virandeep Singh,415d30b6
+ball,1,0.1,Bahrain,Fiaz Ahmed,P Kurup,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,0.2,Bahrain,Fiaz Ahmed,P Kurup,Pavandeep Singh,0,2,2,,,,,"",""
+ball,1,0.3,Bahrain,P Kurup,Fiaz Ahmed,Pavandeep Singh,0,0,,,,,,bowled,P Kurup
+ball,1,0.4,Bahrain,Asif Ali,Fiaz Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,0.5,Bahrain,Asif Ali,Fiaz Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,0.6,Bahrain,Asif Ali,Fiaz Ahmed,Pavandeep Singh,0,1,,,1,,,"",""
+ball,1,0.7,Bahrain,Fiaz Ahmed,Asif Ali,Pavandeep Singh,1,0,,,,,,"",""
+ball,1,1.1,Bahrain,Fiaz Ahmed,Asif Ali,Syed Aziz,0,0,,,,,,"",""
+ball,1,1.2,Bahrain,Fiaz Ahmed,Asif Ali,Syed Aziz,0,0,,,,,,"",""
+ball,1,1.3,Bahrain,Fiaz Ahmed,Asif Ali,Syed Aziz,0,0,,,,,,"",""
+ball,1,1.4,Bahrain,Fiaz Ahmed,Asif Ali,Syed Aziz,0,0,,,,,,"",""
+ball,1,1.5,Bahrain,Fiaz Ahmed,Asif Ali,Syed Aziz,0,0,,,,,,"",""
+ball,1,1.6,Bahrain,Fiaz Ahmed,Asif Ali,Syed Aziz,0,0,,,,,,"",""
+ball,1,2.1,Bahrain,Asif Ali,Fiaz Ahmed,Pavandeep Singh,0,0,,,,,,caught,Asif Ali
+ball,1,2.2,Bahrain,Sohail Ahmed,Fiaz Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,2.3,Bahrain,Sohail Ahmed,Fiaz Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,2.4,Bahrain,Sohail Ahmed,Fiaz Ahmed,Pavandeep Singh,6,0,,,,,,"",""
+ball,1,2.5,Bahrain,Sohail Ahmed,Fiaz Ahmed,Pavandeep Singh,1,0,,,,,,"",""
+ball,1,2.6,Bahrain,Fiaz Ahmed,Sohail Ahmed,Pavandeep Singh,1,0,,,,,,"",""
+ball,1,3.1,Bahrain,Fiaz Ahmed,Sohail Ahmed,Syed Aziz,0,0,,,,,,"",""
+ball,1,3.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,Syed Aziz,4,0,,,,,,"",""
+ball,1,3.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,Syed Aziz,1,0,,,,,,"",""
+ball,1,3.4,Bahrain,Sohail Ahmed,Fiaz Ahmed,Syed Aziz,0,0,,,,,,"",""
+ball,1,3.5,Bahrain,Sohail Ahmed,Fiaz Ahmed,Syed Aziz,1,0,,,,,,"",""
+ball,1,3.6,Bahrain,Fiaz Ahmed,Sohail Ahmed,Syed Aziz,0,1,1,,,,,"",""
+ball,1,3.7,Bahrain,Fiaz Ahmed,Sohail Ahmed,Syed Aziz,1,0,,,,,,"",""
+ball,1,4.1,Bahrain,Fiaz Ahmed,Sohail Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,4.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,Pavandeep Singh,2,0,,,,,,"",""
+ball,1,4.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,4.4,Bahrain,Fiaz Ahmed,Sohail Ahmed,Pavandeep Singh,2,0,,,,,,"",""
+ball,1,4.5,Bahrain,Fiaz Ahmed,Sohail Ahmed,Pavandeep Singh,1,0,,,,,,"",""
+ball,1,4.6,Bahrain,Sohail Ahmed,Fiaz Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,5.1,Bahrain,Fiaz Ahmed,Sohail Ahmed,S Vijay Unni,1,0,,,,,,run out,Fiaz Ahmed
+ball,1,5.2,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,S Vijay Unni,2,0,,,,,,"",""
+ball,1,5.3,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,S Vijay Unni,4,0,,,,,,"",""
+ball,1,5.4,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,S Vijay Unni,0,0,,,,,,"",""
+ball,1,5.5,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,S Vijay Unni,0,0,,,,,,caught,Ahmer Bin Nisar
+ball,1,5.6,Bahrain,Junaid Aziz,Sohail Ahmed,S Vijay Unni,0,0,,,,,,"",""
+ball,1,6.1,Bahrain,Sohail Ahmed,Junaid Aziz,Pavandeep Singh,1,0,,,,,,"",""
+ball,1,6.2,Bahrain,Junaid Aziz,Sohail Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,6.3,Bahrain,Junaid Aziz,Sohail Ahmed,Pavandeep Singh,0,1,1,,,,,"",""
+ball,1,6.4,Bahrain,Junaid Aziz,Sohail Ahmed,Pavandeep Singh,0,1,1,,,,,"",""
+ball,1,6.5,Bahrain,Junaid Aziz,Sohail Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,6.6,Bahrain,Junaid Aziz,Sohail Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,6.7,Bahrain,Junaid Aziz,Sohail Ahmed,Pavandeep Singh,0,0,,,,,,"",""
+ball,1,6.8,Bahrain,Junaid Aziz,Sohail Ahmed,Pavandeep Singh,1,0,,,,,,"",""
+ball,1,7.1,Bahrain,Junaid Aziz,Sohail Ahmed,S Vijay Unni,0,0,,,,,,"",""
+ball,1,7.2,Bahrain,Junaid Aziz,Sohail Ahmed,S Vijay Unni,0,0,,,,,,"",""
+ball,1,7.3,Bahrain,Junaid Aziz,Sohail Ahmed,S Vijay Unni,1,0,,,,,,"",""
+ball,1,7.4,Bahrain,Sohail Ahmed,Junaid Aziz,S Vijay Unni,0,0,,,,,,"",""
+ball,1,7.5,Bahrain,Sohail Ahmed,Junaid Aziz,S Vijay Unni,0,0,,,,,,"",""
+ball,1,7.6,Bahrain,Sohail Ahmed,Junaid Aziz,S Vijay Unni,1,0,,,,,,"",""
+ball,1,8.1,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,8.2,Bahrain,Junaid Aziz,Sohail Ahmed,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,8.3,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,8.4,Bahrain,Junaid Aziz,Sohail Ahmed,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,8.5,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,8.6,Bahrain,Junaid Aziz,Sohail Ahmed,Muhammad Wafiq,0,0,,,,,,"",""
+ball,1,9.1,Bahrain,Sohail Ahmed,Junaid Aziz,S Vijay Unni,1,0,,,,,,"",""
+ball,1,9.2,Bahrain,Junaid Aziz,Sohail Ahmed,S Vijay Unni,1,0,,,,,,"",""
+ball,1,9.3,Bahrain,Sohail Ahmed,Junaid Aziz,S Vijay Unni,2,0,,,,,,"",""
+ball,1,9.4,Bahrain,Sohail Ahmed,Junaid Aziz,S Vijay Unni,1,0,,,,,,"",""
+ball,1,9.5,Bahrain,Junaid Aziz,Sohail Ahmed,S Vijay Unni,1,0,,,,,,"",""
+ball,1,9.6,Bahrain,Sohail Ahmed,Junaid Aziz,S Vijay Unni,1,0,,,,,,"",""
+ball,1,10.1,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,0,2,,,,2,,"",""
+ball,1,10.2,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,0,0,,,,,,"",""
+ball,1,10.3,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,10.4,Bahrain,Junaid Aziz,Sohail Ahmed,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,10.5,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,10.6,Bahrain,Junaid Aziz,Sohail Ahmed,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,11.1,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,0,0,,,,,,"",""
+ball,1,11.2,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,0,0,,,,,,"",""
+ball,1,11.3,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,0,0,,,,,,"",""
+ball,1,11.4,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,0,0,,,,,,"",""
+ball,1,11.5,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,0,0,,,,,,"",""
+ball,1,11.6,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,1,0,,,,,,"",""
+ball,1,12.1,Bahrain,Junaid Aziz,Sohail Ahmed,Khizar Hayat,1,0,,,,,,"",""
+ball,1,12.2,Bahrain,Sohail Ahmed,Junaid Aziz,Khizar Hayat,2,0,,,,,,"",""
+ball,1,12.3,Bahrain,Sohail Ahmed,Junaid Aziz,Khizar Hayat,1,0,,,,,,"",""
+ball,1,12.4,Bahrain,Junaid Aziz,Sohail Ahmed,Khizar Hayat,1,0,,,,,,"",""
+ball,1,12.5,Bahrain,Sohail Ahmed,Junaid Aziz,Khizar Hayat,1,0,,,,,,"",""
+ball,1,12.6,Bahrain,Junaid Aziz,Sohail Ahmed,Khizar Hayat,0,0,,,,,,"",""
+ball,1,13.1,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,0,0,,,,,,"",""
+ball,1,13.2,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,0,0,,,,,,"",""
+ball,1,13.3,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,1,0,,,,,,"",""
+ball,1,13.4,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,1,0,,,,,,"",""
+ball,1,13.5,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,1,0,,,,,,"",""
+ball,1,13.6,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,0,0,,,,,,"",""
+ball,1,14.1,Bahrain,Sohail Ahmed,Junaid Aziz,Khizar Hayat,6,0,,,,,,"",""
+ball,1,14.2,Bahrain,Sohail Ahmed,Junaid Aziz,Khizar Hayat,1,0,,,,,,"",""
+ball,1,14.3,Bahrain,Junaid Aziz,Sohail Ahmed,Khizar Hayat,6,0,,,,,,"",""
+ball,1,14.4,Bahrain,Junaid Aziz,Sohail Ahmed,Khizar Hayat,2,0,,,,,,"",""
+ball,1,14.5,Bahrain,Junaid Aziz,Sohail Ahmed,Khizar Hayat,1,0,,,,,,"",""
+ball,1,14.6,Bahrain,Sohail Ahmed,Junaid Aziz,Khizar Hayat,0,0,,,,,,"",""
+ball,1,15.1,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,6,0,,,,,,"",""
+ball,1,15.2,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,1,0,,,,,,"",""
+ball,1,15.3,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,1,0,,,,,,"",""
+ball,1,15.4,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,1,0,,,,,,"",""
+ball,1,15.5,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,1,0,,,,,,"",""
+ball,1,15.6,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,2,0,,,,,,"",""
+ball,1,16.1,Bahrain,Sohail Ahmed,Junaid Aziz,Syed Aziz,1,0,,,,,,"",""
+ball,1,16.2,Bahrain,Junaid Aziz,Sohail Ahmed,Syed Aziz,1,0,,,,,,"",""
+ball,1,16.3,Bahrain,Sohail Ahmed,Junaid Aziz,Syed Aziz,4,0,,,,,,"",""
+ball,1,16.4,Bahrain,Sohail Ahmed,Junaid Aziz,Syed Aziz,6,0,,,,,,"",""
+ball,1,16.5,Bahrain,Sohail Ahmed,Junaid Aziz,Syed Aziz,1,0,,,,,,"",""
+ball,1,16.6,Bahrain,Junaid Aziz,Sohail Ahmed,Syed Aziz,1,0,,,,,,"",""
+ball,1,17.1,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,1,0,,,,,,"",""
+ball,1,17.2,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,0,0,,,,,,"",""
+ball,1,17.3,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,1,0,,,,,,"",""
+ball,1,17.4,Bahrain,Junaid Aziz,Sohail Ahmed,Virandeep Singh,1,0,,,,,,"",""
+ball,1,17.5,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,0,0,,,,,,"",""
+ball,1,17.6,Bahrain,Sohail Ahmed,Junaid Aziz,Virandeep Singh,1,0,,,,,,"",""
+ball,1,18.1,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,18.2,Bahrain,Junaid Aziz,Sohail Ahmed,Muhammad Wafiq,1,0,,,,,,"",""
+ball,1,18.3,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,2,0,,,,,,"",""
+ball,1,18.4,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,2,0,,,,,,"",""
+ball,1,18.5,Bahrain,Sohail Ahmed,Junaid Aziz,Muhammad Wafiq,0,0,,,,,,bowled,Sohail Ahmed
+ball,1,18.6,Bahrain,Imran Anwar,Junaid Aziz,Muhammad Wafiq,4,0,,,,,,"",""
+ball,1,19.1,Bahrain,Junaid Aziz,Imran Anwar,Syed Aziz,0,0,,,,,,caught,Junaid Aziz
+ball,1,19.2,Bahrain,Rizwan Butt,Imran Anwar,Syed Aziz,0,0,,,,,,caught,Rizwan Butt
+ball,1,19.3,Bahrain,Imran Khan,Imran Anwar,Syed Aziz,1,0,,,,,,"",""
+ball,1,19.4,Bahrain,Imran Anwar,Imran Khan,Syed Aziz,2,0,,,,,,"",""
+ball,1,19.5,Bahrain,Imran Anwar,Imran Khan,Syed Aziz,1,0,,,,,,run out,Imran Khan
+ball,1,19.6,Bahrain,Imran Anwar,Ali Dawood,Syed Aziz,0,0,,,,,,caught,Imran Anwar
+ball,2,0.1,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.2,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.3,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.4,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.5,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,1,0,,,,,,"",""
+ball,2,0.6,Malaysia,Ahmed Faiz,Syed Aziz,Ali Dawood,1,0,,,,,,"",""
+ball,2,1.1,Malaysia,Ahmed Faiz,Syed Aziz,Imran Khan,0,1,,,,1,,"",""
+ball,2,1.2,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,0,0,,,,,,"",""
+ball,2,1.3,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,0,0,,,,,,"",""
+ball,2,1.4,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,0,1,1,,,,,"",""
+ball,2,1.5,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,0,0,,,,,,"",""
+ball,2,1.6,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,1,0,,,,,,"",""
+ball,2,1.7,Malaysia,Ahmed Faiz,Syed Aziz,Imran Khan,1,0,,,,,,"",""
+ball,2,2.1,Malaysia,Ahmed Faiz,Syed Aziz,Ali Dawood,0,0,,,,,,"",""
+ball,2,2.2,Malaysia,Ahmed Faiz,Syed Aziz,Ali Dawood,0,0,,,,,,"",""
+ball,2,2.3,Malaysia,Ahmed Faiz,Syed Aziz,Ali Dawood,0,2,2,,,,,"",""
+ball,2,2.4,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,1,1,,,,,"",""
+ball,2,2.5,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,1,,,,1,,"",""
+ball,2,2.6,Malaysia,Ahmed Faiz,Syed Aziz,Ali Dawood,0,1,,,,1,,"",""
+ball,2,2.7,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,0,,,,,,"",""
+ball,2,2.8,Malaysia,Syed Aziz,Ahmed Faiz,Ali Dawood,0,0,,,,,,"",""
+ball,2,3.1,Malaysia,Ahmed Faiz,Syed Aziz,Imran Anwar,0,0,,,,,,"",""
+ball,2,3.2,Malaysia,Ahmed Faiz,Syed Aziz,Imran Anwar,0,0,,,,,,"",""
+ball,2,3.3,Malaysia,Ahmed Faiz,Syed Aziz,Imran Anwar,0,1,1,,,,,"",""
+ball,2,3.4,Malaysia,Ahmed Faiz,Syed Aziz,Imran Anwar,1,0,,,,,,"",""
+ball,2,3.5,Malaysia,Syed Aziz,Ahmed Faiz,Imran Anwar,0,1,1,,,,,"",""
+ball,2,3.6,Malaysia,Syed Aziz,Ahmed Faiz,Imran Anwar,0,0,,,,,,"",""
+ball,2,3.7,Malaysia,Syed Aziz,Ahmed Faiz,Imran Anwar,0,0,,,,,,"",""
+ball,2,3.8,Malaysia,Syed Aziz,Ahmed Faiz,Imran Anwar,0,0,,,,,,"",""
+ball,2,4.1,Malaysia,Ahmed Faiz,Syed Aziz,Imran Khan,0,0,,,,,,"",""
+ball,2,4.2,Malaysia,Ahmed Faiz,Syed Aziz,Imran Khan,1,0,,,,,,"",""
+ball,2,4.3,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,4,0,,,,,,"",""
+ball,2,4.4,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,4,0,,,,,,"",""
+ball,2,4.5,Malaysia,Syed Aziz,Ahmed Faiz,Imran Khan,0,0,,,,,,bowled,Syed Aziz
+ball,2,4.6,Malaysia,Virandeep Singh,Ahmed Faiz,Imran Khan,0,0,,,,,,"",""
+ball,2,5.1,Malaysia,Ahmed Faiz,Virandeep Singh,Imran Anwar,0,0,,,,,,caught,Ahmed Faiz
+ball,2,5.2,Malaysia,Ahmed Aqeel,Virandeep Singh,Imran Anwar,0,0,,,,,,"",""
+ball,2,5.3,Malaysia,Ahmed Aqeel,Virandeep Singh,Imran Anwar,0,0,,,,,,"",""
+ball,2,5.4,Malaysia,Ahmed Aqeel,Virandeep Singh,Imran Anwar,1,0,,,,,,"",""
+ball,2,5.5,Malaysia,Virandeep Singh,Ahmed Aqeel,Imran Anwar,0,0,,,,,,"",""
+ball,2,5.6,Malaysia,Virandeep Singh,Ahmed Aqeel,Imran Anwar,1,0,,,,,,"",""
+ball,2,6.1,Malaysia,Virandeep Singh,Ahmed Aqeel,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,6.2,Malaysia,Virandeep Singh,Ahmed Aqeel,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,6.3,Malaysia,Ahmed Aqeel,Virandeep Singh,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,6.4,Malaysia,Ahmed Aqeel,Virandeep Singh,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,6.5,Malaysia,Virandeep Singh,Ahmed Aqeel,Abdul Majid Abbasi,0,0,,,,,,caught,Virandeep Singh
+ball,2,6.6,Malaysia,S Muniandy,Ahmed Aqeel,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,7.1,Malaysia,Ahmed Aqeel,S Muniandy,Imran Anwar,1,0,,,,,,"",""
+ball,2,7.2,Malaysia,S Muniandy,Ahmed Aqeel,Imran Anwar,0,0,,,,,,"",""
+ball,2,7.3,Malaysia,S Muniandy,Ahmed Aqeel,Imran Anwar,1,0,,,,,,"",""
+ball,2,7.4,Malaysia,Ahmed Aqeel,S Muniandy,Imran Anwar,1,0,,,,,,"",""
+ball,2,7.5,Malaysia,S Muniandy,Ahmed Aqeel,Imran Anwar,1,0,,,,,,"",""
+ball,2,7.6,Malaysia,Ahmed Aqeel,S Muniandy,Imran Anwar,0,0,,,,,,"",""
+ball,2,8.1,Malaysia,S Muniandy,Ahmed Aqeel,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,8.2,Malaysia,Ahmed Aqeel,S Muniandy,Abdul Majid Abbasi,0,0,,,,,,caught,Ahmed Aqeel
+ball,2,8.3,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,8.4,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,8.5,Malaysia,S Muniandy,S Vijay Unni,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,8.6,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,2,0,,,,,,"",""
+ball,2,9.1,Malaysia,S Muniandy,S Vijay Unni,Imran Khan,1,0,,,,,,"",""
+ball,2,9.2,Malaysia,S Vijay Unni,S Muniandy,Imran Khan,0,0,,,,,,"",""
+ball,2,9.3,Malaysia,S Vijay Unni,S Muniandy,Imran Khan,0,0,,,,,,"",""
+ball,2,9.4,Malaysia,S Vijay Unni,S Muniandy,Imran Khan,1,0,,,,,,"",""
+ball,2,9.5,Malaysia,S Muniandy,S Vijay Unni,Imran Khan,1,0,,,,,,"",""
+ball,2,9.6,Malaysia,S Vijay Unni,S Muniandy,Imran Khan,1,0,,,,,,"",""
+ball,2,10.1,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,10.2,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,10.3,Malaysia,S Muniandy,S Vijay Unni,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,10.4,Malaysia,S Muniandy,S Vijay Unni,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,10.5,Malaysia,S Muniandy,S Vijay Unni,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,10.6,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,11.1,Malaysia,S Muniandy,S Vijay Unni,Rizwan Butt,0,0,,,,,,"",""
+ball,2,11.2,Malaysia,S Muniandy,S Vijay Unni,Rizwan Butt,0,0,,,,,,"",""
+ball,2,11.3,Malaysia,S Muniandy,S Vijay Unni,Rizwan Butt,0,0,,,,,,"",""
+ball,2,11.4,Malaysia,S Muniandy,S Vijay Unni,Rizwan Butt,1,0,,,,,,"",""
+ball,2,11.5,Malaysia,S Vijay Unni,S Muniandy,Rizwan Butt,0,0,,,,,,"",""
+ball,2,11.6,Malaysia,S Vijay Unni,S Muniandy,Rizwan Butt,4,0,,,,,,"",""
+ball,2,12.1,Malaysia,S Muniandy,S Vijay Unni,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,12.2,Malaysia,S Muniandy,S Vijay Unni,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,12.3,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,12.4,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,12.5,Malaysia,S Vijay Unni,S Muniandy,Abdul Majid Abbasi,3,0,,,,,,"",""
+ball,2,12.6,Malaysia,S Muniandy,S Vijay Unni,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,13.1,Malaysia,S Vijay Unni,S Muniandy,Rizwan Butt,0,0,,,,,,"",""
+ball,2,13.2,Malaysia,S Vijay Unni,S Muniandy,Rizwan Butt,0,0,,,,,,"",""
+ball,2,13.3,Malaysia,S Vijay Unni,S Muniandy,Rizwan Butt,4,0,,,,,,"",""
+ball,2,13.4,Malaysia,S Vijay Unni,S Muniandy,Rizwan Butt,4,0,,,,,,"",""
+ball,2,13.5,Malaysia,S Vijay Unni,S Muniandy,Rizwan Butt,1,0,,,,,,"",""
+ball,2,13.6,Malaysia,S Muniandy,S Vijay Unni,Rizwan Butt,4,0,,,,,,"",""
+ball,2,14.1,Malaysia,S Vijay Unni,S Muniandy,Asif Ali,0,0,,,,,,"",""
+ball,2,14.2,Malaysia,S Vijay Unni,S Muniandy,Asif Ali,6,0,,,,,,"",""
+ball,2,14.3,Malaysia,S Vijay Unni,S Muniandy,Asif Ali,0,0,,,,,,"",""
+ball,2,14.4,Malaysia,S Vijay Unni,S Muniandy,Asif Ali,0,0,,,,,,caught,S Vijay Unni
+ball,2,14.5,Malaysia,Khizar Hayat,S Muniandy,Asif Ali,0,0,,,,,,"",""
+ball,2,14.6,Malaysia,Khizar Hayat,S Muniandy,Asif Ali,1,0,,,,,,"",""
+ball,2,15.1,Malaysia,Khizar Hayat,S Muniandy,Imran Anwar,0,0,,,,,,"",""
+ball,2,15.2,Malaysia,Khizar Hayat,S Muniandy,Imran Anwar,1,0,,,,,,"",""
+ball,2,15.3,Malaysia,S Muniandy,Khizar Hayat,Imran Anwar,0,0,,,,,,"",""
+ball,2,15.4,Malaysia,S Muniandy,Khizar Hayat,Imran Anwar,6,0,,,,,,"",""
+ball,2,15.5,Malaysia,S Muniandy,Khizar Hayat,Imran Anwar,0,0,,,,,,"",""
+ball,2,15.6,Malaysia,S Muniandy,Khizar Hayat,Imran Anwar,0,0,,,,,,caught,S Muniandy
+ball,2,16.1,Malaysia,Khizar Hayat,Ainool Hafizs,Ali Dawood,0,0,,,,,,caught,Khizar Hayat
+ball,2,16.2,Malaysia,Muhammad Wafiq,Ainool Hafizs,Ali Dawood,0,0,,,,,,lbw,Muhammad Wafiq
+ball,2,16.3,Malaysia,Pavandeep Singh,Ainool Hafizs,Ali Dawood,1,0,,,,,,"",""
+ball,2,16.4,Malaysia,Ainool Hafizs,Pavandeep Singh,Ali Dawood,0,0,,,,,,"",""
+ball,2,16.5,Malaysia,Ainool Hafizs,Pavandeep Singh,Ali Dawood,0,0,,,,,,"",""
+ball,2,16.6,Malaysia,Ainool Hafizs,Pavandeep Singh,Ali Dawood,0,0,,,,,,"",""
+ball,2,17.1,Malaysia,Pavandeep Singh,Ainool Hafizs,Rizwan Butt,0,0,,,,,,"",""
+ball,2,17.2,Malaysia,Pavandeep Singh,Ainool Hafizs,Rizwan Butt,0,0,,,,,,"",""
+ball,2,17.3,Malaysia,Pavandeep Singh,Ainool Hafizs,Rizwan Butt,1,0,,,,,,"",""
+ball,2,17.4,Malaysia,Ainool Hafizs,Pavandeep Singh,Rizwan Butt,2,0,,,,,,"",""
+ball,2,17.5,Malaysia,Ainool Hafizs,Pavandeep Singh,Rizwan Butt,1,0,,,,,,"",""
+ball,2,17.6,Malaysia,Pavandeep Singh,Ainool Hafizs,Rizwan Butt,1,0,,,,,,"",""
+ball,2,18.1,Malaysia,Pavandeep Singh,Ainool Hafizs,Ali Dawood,1,0,,,,,,"",""
+ball,2,18.2,Malaysia,Ainool Hafizs,Pavandeep Singh,Ali Dawood,0,0,,,,,,"",""
+ball,2,18.3,Malaysia,Ainool Hafizs,Pavandeep Singh,Ali Dawood,6,0,,,,,,"",""
+ball,2,18.4,Malaysia,Ainool Hafizs,Pavandeep Singh,Ali Dawood,0,0,,,,,,caught,Ainool Hafizs

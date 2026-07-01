@@ -1,0 +1,332 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2023/24
+info,date,2023/11/28
+info,event,Australia tour of India
+info,match_number,3
+info,venue,"Barsapara Cricket Stadium, Guwahati"
+info,city,Guwahati
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,R Pandit
+info,umpire,VK Sharma
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,J Srinath
+info,winner,Australia
+info,winner_wickets,5
+info,player,India,YBK Jaiswal
+info,player,India,RD Gaikwad
+info,player,India,Ishan Kishan
+info,player,India,SA Yadav
+info,player,India,Tilak Varma
+info,player,India,RK Singh
+info,player,India,AR Patel
+info,player,India,Ravi Bishnoi
+info,player,India,Arshdeep Singh
+info,player,India,Avesh Khan
+info,player,India,M Prasidh Krishna
+info,player,Australia,TM Head
+info,player,Australia,AM Hardie
+info,player,Australia,JP Inglis
+info,player,Australia,GJ Maxwell
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,NT Ellis
+info,player,Australia,JP Behrendorff
+info,player,Australia,T Sangha
+info,player,Australia,KW Richardson
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,R Pandit,8a604384
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,T Sangha,52c952d9
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,YBK Jaiswal,6c19c6e5
+ball,1,0.1,India,YBK Jaiswal,RD Gaikwad,KW Richardson,0,1,1,,,,,"",""
+ball,1,0.2,India,YBK Jaiswal,RD Gaikwad,KW Richardson,1,0,,,,,,"",""
+ball,1,0.3,India,RD Gaikwad,YBK Jaiswal,KW Richardson,0,0,,,,,,"",""
+ball,1,0.4,India,RD Gaikwad,YBK Jaiswal,KW Richardson,0,2,2,,,,,"",""
+ball,1,0.5,India,YBK Jaiswal,RD Gaikwad,KW Richardson,0,1,1,,,,,"",""
+ball,1,0.6,India,YBK Jaiswal,RD Gaikwad,KW Richardson,0,0,,,,,,"",""
+ball,1,0.7,India,YBK Jaiswal,RD Gaikwad,KW Richardson,4,0,,,,,,"",""
+ball,1,0.8,India,YBK Jaiswal,RD Gaikwad,KW Richardson,1,0,,,,,,"",""
+ball,1,0.9,India,RD Gaikwad,YBK Jaiswal,KW Richardson,4,0,,,,,,"",""
+ball,1,1.1,India,YBK Jaiswal,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,1.2,India,YBK Jaiswal,RD Gaikwad,JP Behrendorff,0,0,,,,,,caught,YBK Jaiswal
+ball,1,1.3,India,Ishan Kishan,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,1.4,India,Ishan Kishan,RD Gaikwad,JP Behrendorff,0,4,,,,4,,"",""
+ball,1,1.5,India,Ishan Kishan,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,1.6,India,Ishan Kishan,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,2.1,India,RD Gaikwad,Ishan Kishan,KW Richardson,0,5,5,,,,,"",""
+ball,1,2.2,India,RD Gaikwad,Ishan Kishan,KW Richardson,0,0,,,,,,"",""
+ball,1,2.3,India,RD Gaikwad,Ishan Kishan,KW Richardson,1,0,,,,,,"",""
+ball,1,2.4,India,Ishan Kishan,RD Gaikwad,KW Richardson,0,0,,,,,,caught,Ishan Kishan
+ball,1,2.5,India,SA Yadav,RD Gaikwad,KW Richardson,0,0,,,,,,"",""
+ball,1,2.6,India,SA Yadav,RD Gaikwad,KW Richardson,0,0,,,,,,"",""
+ball,1,2.7,India,SA Yadav,RD Gaikwad,KW Richardson,1,0,,,,,,"",""
+ball,1,3.1,India,SA Yadav,RD Gaikwad,JP Behrendorff,0,1,1,,,,,"",""
+ball,1,3.2,India,SA Yadav,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.3,India,SA Yadav,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.4,India,SA Yadav,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.5,India,SA Yadav,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.6,India,SA Yadav,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.7,India,SA Yadav,RD Gaikwad,JP Behrendorff,0,0,,,,,,"",""
+ball,1,4.1,India,RD Gaikwad,SA Yadav,NT Ellis,0,0,,,,,,"",""
+ball,1,4.2,India,RD Gaikwad,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,1,4.3,India,SA Yadav,RD Gaikwad,NT Ellis,6,0,,,,,,"",""
+ball,1,4.4,India,SA Yadav,RD Gaikwad,NT Ellis,0,0,,,,,,"",""
+ball,1,4.5,India,SA Yadav,RD Gaikwad,NT Ellis,0,0,,,,,,"",""
+ball,1,4.6,India,SA Yadav,RD Gaikwad,NT Ellis,6,0,,,,,,"",""
+ball,1,5.1,India,RD Gaikwad,SA Yadav,JP Behrendorff,0,0,,,,,,"",""
+ball,1,5.2,India,RD Gaikwad,SA Yadav,JP Behrendorff,0,0,,,,,,"",""
+ball,1,5.3,India,RD Gaikwad,SA Yadav,JP Behrendorff,4,0,,,,,,"",""
+ball,1,5.4,India,RD Gaikwad,SA Yadav,JP Behrendorff,0,0,,,,,,"",""
+ball,1,5.5,India,RD Gaikwad,SA Yadav,JP Behrendorff,0,0,,,,,,"",""
+ball,1,5.6,India,RD Gaikwad,SA Yadav,JP Behrendorff,0,0,,,,,,"",""
+ball,1,6.1,India,SA Yadav,RD Gaikwad,T Sangha,4,0,,,,,,"",""
+ball,1,6.2,India,SA Yadav,RD Gaikwad,T Sangha,1,0,,,,,,"",""
+ball,1,6.3,India,RD Gaikwad,SA Yadav,T Sangha,1,0,,,,,,"",""
+ball,1,6.4,India,SA Yadav,RD Gaikwad,T Sangha,0,0,,,,,,"",""
+ball,1,6.5,India,SA Yadav,RD Gaikwad,T Sangha,4,0,,,,,,"",""
+ball,1,6.6,India,SA Yadav,RD Gaikwad,T Sangha,1,0,,,,,,"",""
+ball,1,7.1,India,SA Yadav,RD Gaikwad,AM Hardie,1,0,,,,,,"",""
+ball,1,7.2,India,RD Gaikwad,SA Yadav,AM Hardie,1,0,,,,,,"",""
+ball,1,7.3,India,SA Yadav,RD Gaikwad,AM Hardie,4,0,,,,,,"",""
+ball,1,7.4,India,SA Yadav,RD Gaikwad,AM Hardie,4,0,,,,,,"",""
+ball,1,7.5,India,SA Yadav,RD Gaikwad,AM Hardie,1,0,,,,,,"",""
+ball,1,7.6,India,RD Gaikwad,SA Yadav,AM Hardie,1,0,,,,,,"",""
+ball,1,8.1,India,RD Gaikwad,SA Yadav,T Sangha,1,0,,,,,,"",""
+ball,1,8.2,India,SA Yadav,RD Gaikwad,T Sangha,0,0,,,,,,"",""
+ball,1,8.3,India,SA Yadav,RD Gaikwad,T Sangha,1,0,,,,,,"",""
+ball,1,8.4,India,RD Gaikwad,SA Yadav,T Sangha,0,0,,,,,,"",""
+ball,1,8.5,India,RD Gaikwad,SA Yadav,T Sangha,4,0,,,,,,"",""
+ball,1,8.6,India,RD Gaikwad,SA Yadav,T Sangha,2,0,,,,,,"",""
+ball,1,9.1,India,SA Yadav,RD Gaikwad,NT Ellis,0,0,,,,,,"",""
+ball,1,9.2,India,SA Yadav,RD Gaikwad,NT Ellis,4,0,,,,,,"",""
+ball,1,9.3,India,SA Yadav,RD Gaikwad,NT Ellis,1,0,,,,,,"",""
+ball,1,9.4,India,RD Gaikwad,SA Yadav,NT Ellis,0,0,,,,,,"",""
+ball,1,9.5,India,RD Gaikwad,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,1,9.6,India,SA Yadav,RD Gaikwad,NT Ellis,0,0,,,,,,"",""
+ball,1,10.1,India,RD Gaikwad,SA Yadav,AM Hardie,1,0,,,,,,"",""
+ball,1,10.2,India,SA Yadav,RD Gaikwad,AM Hardie,0,0,,,,,,caught,SA Yadav
+ball,1,10.3,India,Tilak Varma,RD Gaikwad,AM Hardie,0,0,,,,,,"",""
+ball,1,10.4,India,Tilak Varma,RD Gaikwad,AM Hardie,1,0,,,,,,"",""
+ball,1,10.5,India,RD Gaikwad,Tilak Varma,AM Hardie,2,0,,,,,,"",""
+ball,1,10.6,India,RD Gaikwad,Tilak Varma,AM Hardie,4,0,,,,,,"",""
+ball,1,11.1,India,Tilak Varma,RD Gaikwad,KW Richardson,4,0,,,,,,"",""
+ball,1,11.2,India,Tilak Varma,RD Gaikwad,KW Richardson,0,0,,,,,,"",""
+ball,1,11.3,India,Tilak Varma,RD Gaikwad,KW Richardson,4,0,,,,,,"",""
+ball,1,11.4,India,Tilak Varma,RD Gaikwad,KW Richardson,1,0,,,,,,"",""
+ball,1,11.5,India,RD Gaikwad,Tilak Varma,KW Richardson,0,0,,,,,,"",""
+ball,1,11.6,India,RD Gaikwad,Tilak Varma,KW Richardson,4,0,,,,,,"",""
+ball,1,12.1,India,Tilak Varma,RD Gaikwad,T Sangha,1,0,,,,,,"",""
+ball,1,12.2,India,RD Gaikwad,Tilak Varma,T Sangha,1,0,,,,,,"",""
+ball,1,12.3,India,Tilak Varma,RD Gaikwad,T Sangha,0,0,,,,,,"",""
+ball,1,12.4,India,Tilak Varma,RD Gaikwad,T Sangha,0,1,1,,,,,"",""
+ball,1,12.5,India,Tilak Varma,RD Gaikwad,T Sangha,1,0,,,,,,"",""
+ball,1,12.6,India,RD Gaikwad,Tilak Varma,T Sangha,4,0,,,,,,"",""
+ball,1,12.7,India,RD Gaikwad,Tilak Varma,T Sangha,4,0,,,,,,"",""
+ball,1,13.1,India,Tilak Varma,RD Gaikwad,AM Hardie,1,0,,,,,,"",""
+ball,1,13.2,India,RD Gaikwad,Tilak Varma,AM Hardie,2,0,,,,,,"",""
+ball,1,13.3,India,RD Gaikwad,Tilak Varma,AM Hardie,4,0,,,,,,"",""
+ball,1,13.4,India,RD Gaikwad,Tilak Varma,AM Hardie,0,1,1,,,,,"",""
+ball,1,13.5,India,RD Gaikwad,Tilak Varma,AM Hardie,0,1,1,,,,,"",""
+ball,1,13.6,India,RD Gaikwad,Tilak Varma,AM Hardie,4,0,,,,,,"",""
+ball,1,13.7,India,RD Gaikwad,Tilak Varma,AM Hardie,1,0,,,,,,"",""
+ball,1,13.8,India,Tilak Varma,RD Gaikwad,AM Hardie,0,1,1,,,,,"",""
+ball,1,13.9,India,Tilak Varma,RD Gaikwad,AM Hardie,4,0,,,,,,"",""
+ball,1,14.1,India,RD Gaikwad,Tilak Varma,T Sangha,0,0,,,,,,"",""
+ball,1,14.2,India,RD Gaikwad,Tilak Varma,T Sangha,4,0,,,,,,"",""
+ball,1,14.3,India,RD Gaikwad,Tilak Varma,T Sangha,6,0,,,,,,"",""
+ball,1,14.4,India,RD Gaikwad,Tilak Varma,T Sangha,1,0,,,,,,"",""
+ball,1,14.5,India,Tilak Varma,RD Gaikwad,T Sangha,0,0,,,,,,"",""
+ball,1,14.6,India,Tilak Varma,RD Gaikwad,T Sangha,0,0,,,,,,"",""
+ball,1,15.1,India,RD Gaikwad,Tilak Varma,NT Ellis,1,0,,,,,,"",""
+ball,1,15.2,India,Tilak Varma,RD Gaikwad,NT Ellis,1,0,,,,,,"",""
+ball,1,15.3,India,RD Gaikwad,Tilak Varma,NT Ellis,1,0,,,,,,"",""
+ball,1,15.4,India,Tilak Varma,RD Gaikwad,NT Ellis,0,0,,,,,,"",""
+ball,1,15.5,India,Tilak Varma,RD Gaikwad,NT Ellis,1,0,,,,,,"",""
+ball,1,15.6,India,RD Gaikwad,Tilak Varma,NT Ellis,1,0,,,,,,"",""
+ball,1,16.1,India,RD Gaikwad,Tilak Varma,JP Behrendorff,2,0,,,,,,"",""
+ball,1,16.2,India,RD Gaikwad,Tilak Varma,JP Behrendorff,1,0,,,,,,"",""
+ball,1,16.3,India,Tilak Varma,RD Gaikwad,JP Behrendorff,1,0,,,,,,"",""
+ball,1,16.4,India,RD Gaikwad,Tilak Varma,JP Behrendorff,1,0,,,,,,"",""
+ball,1,16.5,India,Tilak Varma,RD Gaikwad,JP Behrendorff,1,0,,,,,,"",""
+ball,1,16.6,India,RD Gaikwad,Tilak Varma,JP Behrendorff,1,0,,,,,,"",""
+ball,1,17.1,India,RD Gaikwad,Tilak Varma,AM Hardie,6,0,,,,,,"",""
+ball,1,17.2,India,RD Gaikwad,Tilak Varma,AM Hardie,0,1,1,,,,,"",""
+ball,1,17.3,India,RD Gaikwad,Tilak Varma,AM Hardie,6,0,,,,,,"",""
+ball,1,17.4,India,RD Gaikwad,Tilak Varma,AM Hardie,4,0,,,,,,"",""
+ball,1,17.5,India,RD Gaikwad,Tilak Varma,AM Hardie,0,0,,,,,,"",""
+ball,1,17.6,India,RD Gaikwad,Tilak Varma,AM Hardie,6,0,,,,,,"",""
+ball,1,17.7,India,RD Gaikwad,Tilak Varma,AM Hardie,2,0,,,,,,"",""
+ball,1,18.1,India,Tilak Varma,RD Gaikwad,NT Ellis,0,1,1,,,,,"",""
+ball,1,18.2,India,Tilak Varma,RD Gaikwad,NT Ellis,0,1,1,,,,,"",""
+ball,1,18.3,India,Tilak Varma,RD Gaikwad,NT Ellis,1,0,,,,,,"",""
+ball,1,18.4,India,RD Gaikwad,Tilak Varma,NT Ellis,1,0,,,,,,"",""
+ball,1,18.5,India,Tilak Varma,RD Gaikwad,NT Ellis,0,0,,,,,,"",""
+ball,1,18.6,India,Tilak Varma,RD Gaikwad,NT Ellis,2,0,,,,,,"",""
+ball,1,18.7,India,Tilak Varma,RD Gaikwad,NT Ellis,4,0,,,,,,"",""
+ball,1,18.8,India,Tilak Varma,RD Gaikwad,NT Ellis,2,0,,,,,,"",""
+ball,1,19.1,India,RD Gaikwad,Tilak Varma,GJ Maxwell,6,0,,,,,,"",""
+ball,1,19.2,India,RD Gaikwad,Tilak Varma,GJ Maxwell,4,1,,1,,,,"",""
+ball,1,19.3,India,RD Gaikwad,Tilak Varma,GJ Maxwell,1,0,,,,,,"",""
+ball,1,19.4,India,Tilak Varma,RD Gaikwad,GJ Maxwell,1,0,,,,,,"",""
+ball,1,19.5,India,RD Gaikwad,Tilak Varma,GJ Maxwell,0,1,1,,,,,"",""
+ball,1,19.6,India,RD Gaikwad,Tilak Varma,GJ Maxwell,6,0,,,,,,"",""
+ball,1,19.7,India,RD Gaikwad,Tilak Varma,GJ Maxwell,6,0,,,,,,"",""
+ball,1,19.8,India,RD Gaikwad,Tilak Varma,GJ Maxwell,4,0,,,,,,"",""
+ball,2,0.1,Australia,TM Head,AM Hardie,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,0.2,Australia,TM Head,AM Hardie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,0.3,Australia,TM Head,AM Hardie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,0.4,Australia,TM Head,AM Hardie,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,0.5,Australia,TM Head,AM Hardie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,0.6,Australia,TM Head,AM Hardie,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.1,Australia,TM Head,AM Hardie,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,1.2,Australia,TM Head,AM Hardie,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.3,Australia,TM Head,AM Hardie,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,1.4,Australia,TM Head,AM Hardie,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,1.5,Australia,TM Head,AM Hardie,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,1.6,Australia,TM Head,AM Hardie,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,2.1,Australia,AM Hardie,TM Head,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,2.2,Australia,AM Hardie,TM Head,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,2.3,Australia,AM Hardie,TM Head,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,2.4,Australia,AM Hardie,TM Head,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,2.5,Australia,AM Hardie,TM Head,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,2.6,Australia,AM Hardie,TM Head,Ravi Bishnoi,0,2,,,,2,,"",""
+ball,2,2.7,Australia,AM Hardie,TM Head,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,3.1,Australia,TM Head,AM Hardie,Avesh Khan,1,0,,,,,,"",""
+ball,2,3.2,Australia,AM Hardie,TM Head,Avesh Khan,0,0,,,,,,"",""
+ball,2,3.3,Australia,AM Hardie,TM Head,Avesh Khan,0,0,,,,,,"",""
+ball,2,3.4,Australia,AM Hardie,TM Head,Avesh Khan,0,1,1,,,,,"",""
+ball,2,3.5,Australia,AM Hardie,TM Head,Avesh Khan,0,0,,,,,,"",""
+ball,2,3.6,Australia,AM Hardie,TM Head,Avesh Khan,4,0,,,,,,"",""
+ball,2,3.7,Australia,AM Hardie,TM Head,Avesh Khan,0,0,,,,,,"",""
+ball,2,4.1,Australia,TM Head,AM Hardie,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,4.2,Australia,AM Hardie,TM Head,Arshdeep Singh,0,0,,,,,,caught,AM Hardie
+ball,2,4.3,Australia,JP Inglis,TM Head,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,4.4,Australia,JP Inglis,TM Head,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,4.5,Australia,TM Head,JP Inglis,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,4.6,Australia,TM Head,JP Inglis,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,5.1,Australia,JP Inglis,TM Head,Avesh Khan,4,0,,,,,,"",""
+ball,2,5.2,Australia,JP Inglis,TM Head,Avesh Khan,0,1,1,,,,,"",""
+ball,2,5.3,Australia,JP Inglis,TM Head,Avesh Khan,1,0,,,,,,"",""
+ball,2,5.4,Australia,TM Head,JP Inglis,Avesh Khan,4,0,,,,,,"",""
+ball,2,5.5,Australia,TM Head,JP Inglis,Avesh Khan,0,0,,,,,,caught,TM Head
+ball,2,5.6,Australia,GJ Maxwell,JP Inglis,Avesh Khan,1,0,,,,,,"",""
+ball,2,5.7,Australia,JP Inglis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,2,6.1,Australia,GJ Maxwell,JP Inglis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,6.2,Australia,JP Inglis,GJ Maxwell,Ravi Bishnoi,0,0,,,,,,bowled,JP Inglis
+ball,2,6.3,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,6.4,Australia,GJ Maxwell,MP Stoinis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,6.5,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,6.6,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,6.7,Australia,GJ Maxwell,MP Stoinis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.1,Australia,GJ Maxwell,MP Stoinis,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,7.2,Australia,GJ Maxwell,MP Stoinis,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,7.3,Australia,MP Stoinis,GJ Maxwell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,7.4,Australia,GJ Maxwell,MP Stoinis,M Prasidh Krishna,0,1,,1,,,,"",""
+ball,2,7.5,Australia,GJ Maxwell,MP Stoinis,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,7.6,Australia,GJ Maxwell,MP Stoinis,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,7.7,Australia,GJ Maxwell,MP Stoinis,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,8.1,Australia,MP Stoinis,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,2,8.2,Australia,GJ Maxwell,MP Stoinis,AR Patel,0,0,,,,,,"",""
+ball,2,8.3,Australia,GJ Maxwell,MP Stoinis,AR Patel,1,0,,,,,,"",""
+ball,2,8.4,Australia,MP Stoinis,GJ Maxwell,AR Patel,0,0,,,,,,"",""
+ball,2,8.5,Australia,MP Stoinis,GJ Maxwell,AR Patel,0,0,,,,,,"",""
+ball,2,8.6,Australia,MP Stoinis,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,2,9.1,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,9.2,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,9.3,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,0,1,,,,1,,"",""
+ball,2,9.4,Australia,GJ Maxwell,MP Stoinis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.5,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,9.6,Australia,MP Stoinis,GJ Maxwell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,10.1,Australia,GJ Maxwell,MP Stoinis,AR Patel,4,0,,,,,,"",""
+ball,2,10.2,Australia,GJ Maxwell,MP Stoinis,AR Patel,0,0,,,,,,"",""
+ball,2,10.3,Australia,GJ Maxwell,MP Stoinis,AR Patel,1,0,,,,,,"",""
+ball,2,10.4,Australia,MP Stoinis,GJ Maxwell,AR Patel,0,0,,,,,,"",""
+ball,2,10.5,Australia,MP Stoinis,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,2,10.6,Australia,GJ Maxwell,MP Stoinis,AR Patel,0,0,,,,,,"",""
+ball,2,11.1,Australia,MP Stoinis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,2,11.2,Australia,MP Stoinis,GJ Maxwell,Avesh Khan,1,0,,,,,,"",""
+ball,2,11.3,Australia,GJ Maxwell,MP Stoinis,Avesh Khan,1,0,,,,,,"",""
+ball,2,11.4,Australia,MP Stoinis,GJ Maxwell,Avesh Khan,0,0,,,,,,"",""
+ball,2,11.5,Australia,MP Stoinis,GJ Maxwell,Avesh Khan,4,0,,,,,,"",""
+ball,2,11.6,Australia,MP Stoinis,GJ Maxwell,Avesh Khan,1,0,,,,,,"",""
+ball,2,12.1,Australia,MP Stoinis,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,2,12.2,Australia,GJ Maxwell,MP Stoinis,AR Patel,6,0,,,,,,"",""
+ball,2,12.3,Australia,GJ Maxwell,MP Stoinis,AR Patel,0,0,,,,,,"",""
+ball,2,12.4,Australia,GJ Maxwell,MP Stoinis,AR Patel,2,0,,,,,,"",""
+ball,2,12.5,Australia,GJ Maxwell,MP Stoinis,AR Patel,1,0,,,,,,"",""
+ball,2,12.6,Australia,MP Stoinis,GJ Maxwell,AR Patel,0,0,,,,,,caught,MP Stoinis
+ball,2,13.1,Australia,GJ Maxwell,TH David,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,13.2,Australia,GJ Maxwell,TH David,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,13.3,Australia,GJ Maxwell,TH David,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,13.4,Australia,TH David,GJ Maxwell,Ravi Bishnoi,0,0,,,,,,caught,TH David
+ball,2,13.5,Australia,MS Wade,GJ Maxwell,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,13.6,Australia,GJ Maxwell,MS Wade,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,13.7,Australia,MS Wade,GJ Maxwell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,14.1,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.2,Australia,MS Wade,GJ Maxwell,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.3,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,14.4,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,14.5,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.6,Australia,MS Wade,GJ Maxwell,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,15.1,Australia,GJ Maxwell,MS Wade,Avesh Khan,6,0,,,,,,"",""
+ball,2,15.2,Australia,GJ Maxwell,MS Wade,Avesh Khan,0,0,,,,,,"",""
+ball,2,15.3,Australia,GJ Maxwell,MS Wade,Avesh Khan,0,0,,,,,,"",""
+ball,2,15.4,Australia,GJ Maxwell,MS Wade,Avesh Khan,2,0,,,,,,"",""
+ball,2,15.5,Australia,GJ Maxwell,MS Wade,Avesh Khan,4,0,,,,,,"",""
+ball,2,15.6,Australia,GJ Maxwell,MS Wade,Avesh Khan,1,0,,,,,,"",""
+ball,2,16.1,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,16.2,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,16.3,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,16.4,Australia,MS Wade,GJ Maxwell,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,16.5,Australia,GJ Maxwell,MS Wade,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,16.6,Australia,MS Wade,GJ Maxwell,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,17.1,Australia,MS Wade,GJ Maxwell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,17.2,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,2,0,,,,,,"",""
+ball,2,17.3,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,17.4,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,17.5,Australia,MS Wade,GJ Maxwell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,17.6,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,2,17.7,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,18.1,Australia,MS Wade,GJ Maxwell,AR Patel,4,0,,,,,,"",""
+ball,2,18.2,Australia,MS Wade,GJ Maxwell,AR Patel,2,0,,,,,,"",""
+ball,2,18.3,Australia,MS Wade,GJ Maxwell,AR Patel,4,0,,,,,,"",""
+ball,2,18.4,Australia,MS Wade,GJ Maxwell,AR Patel,0,1,,1,,,,"",""
+ball,2,18.5,Australia,MS Wade,GJ Maxwell,AR Patel,6,0,,,,,,"",""
+ball,2,18.6,Australia,MS Wade,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,2,18.7,Australia,GJ Maxwell,MS Wade,AR Patel,0,4,,,4,,,"",""
+ball,2,19.1,Australia,MS Wade,GJ Maxwell,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,19.2,Australia,MS Wade,GJ Maxwell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,19.3,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,19.4,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,19.5,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,4,0,,,,,,"",""
+ball,2,19.6,Australia,GJ Maxwell,MS Wade,M Prasidh Krishna,4,0,,,,,,"",""

@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,United States of America
+info,gender,female
+info,season,2024
+info,date,2024/04/29
+info,event,ICC Women's T20 World Cup Qualifier
+info,match_number,9
+info,venue,"Tolerance Oval, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,KE Bryce
+info,umpire,S Dambanevana
+info,umpire,SB Haig
+info,reserve_umpire,N Janani
+info,match_referee,SM Bartlett
+info,winner,Scotland
+info,winner_runs,44
+info,player,Scotland,S Horley
+info,player,Scotland,M McColl
+info,player,Scotland,KE Bryce
+info,player,Scotland,SJ Bryce
+info,player,Scotland,A Lister
+info,player,Scotland,L Jack
+info,player,Scotland,K Fraser
+info,player,Scotland,PA Chatterji
+info,player,Scotland,R Slater
+info,player,Scotland,C Abel
+info,player,Scotland,AH Maqsood
+info,player,United States of America,GC Bhogle
+info,player,United States of America,D Dhingra
+info,player,United States of America,A Kolan
+info,player,United States of America,S Sriharsha
+info,player,United States of America,AI Chudasama
+info,player,United States of America,JM Willathgamuwa
+info,player,United States of America,G Kodali
+info,player,United States of America,IM Vaghela
+info,player,United States of America,JL Aras
+info,player,United States of America,SR Thadani
+info,player,United States of America,S Immadi
+info,registry,people,A Kolan,85f5735b
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AI Chudasama,9414a81c
+info,registry,people,C Abel,d92d3563
+info,registry,people,D Dhingra,b0dc5d0d
+info,registry,people,G Kodali,f606177e
+info,registry,people,GC Bhogle,a1965ce2
+info,registry,people,IM Vaghela,8d62fc14
+info,registry,people,JL Aras,e21475a5
+info,registry,people,JM Willathgamuwa,0a10b268
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,N Janani,d06a665d
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Slater,8a452195
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,S Immadi,a6dd06d6
+info,registry,people,S Sriharsha,89f6c26f
+info,registry,people,SB Haig,811655b3
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SR Thadani,76bda023
+ball,1,0.1,Scotland,S Horley,M McColl,G Kodali,0,0,,,,,,"",""
+ball,1,0.2,Scotland,S Horley,M McColl,G Kodali,1,0,,,,,,"",""
+ball,1,0.3,Scotland,M McColl,S Horley,G Kodali,1,0,,,,,,"",""
+ball,1,0.4,Scotland,S Horley,M McColl,G Kodali,0,0,,,,,,"",""
+ball,1,0.5,Scotland,S Horley,M McColl,G Kodali,1,0,,,,,,"",""
+ball,1,0.6,Scotland,M McColl,S Horley,G Kodali,0,0,,,,,,"",""
+ball,1,1.1,Scotland,S Horley,M McColl,AI Chudasama,4,0,,,,,,"",""
+ball,1,1.2,Scotland,S Horley,M McColl,AI Chudasama,0,0,,,,,,"",""
+ball,1,1.3,Scotland,S Horley,M McColl,AI Chudasama,1,0,,,,,,"",""
+ball,1,1.4,Scotland,M McColl,S Horley,AI Chudasama,1,0,,,,,,"",""
+ball,1,1.5,Scotland,S Horley,M McColl,AI Chudasama,1,0,,,,,,"",""
+ball,1,1.6,Scotland,M McColl,S Horley,AI Chudasama,1,0,,,,,,"",""
+ball,1,2.1,Scotland,M McColl,S Horley,G Kodali,0,0,,,,,,caught,M McColl
+ball,1,2.2,Scotland,KE Bryce,S Horley,G Kodali,0,0,,,,,,"",""
+ball,1,2.3,Scotland,KE Bryce,S Horley,G Kodali,4,0,,,,,,"",""
+ball,1,2.4,Scotland,KE Bryce,S Horley,G Kodali,0,0,,,,,,"",""
+ball,1,2.5,Scotland,KE Bryce,S Horley,G Kodali,1,0,,,,,,"",""
+ball,1,2.6,Scotland,S Horley,KE Bryce,G Kodali,0,0,,,,,,"",""
+ball,1,3.1,Scotland,KE Bryce,S Horley,IM Vaghela,0,0,,,,,,"",""
+ball,1,3.2,Scotland,KE Bryce,S Horley,IM Vaghela,0,0,,,,,,"",""
+ball,1,3.3,Scotland,KE Bryce,S Horley,IM Vaghela,0,0,,,,,,"",""
+ball,1,3.4,Scotland,KE Bryce,S Horley,IM Vaghela,1,0,,,,,,"",""
+ball,1,3.5,Scotland,S Horley,KE Bryce,IM Vaghela,0,0,,,,,,bowled,S Horley
+ball,1,3.6,Scotland,SJ Bryce,KE Bryce,IM Vaghela,0,0,,,,,,"",""
+ball,1,4.1,Scotland,KE Bryce,SJ Bryce,SR Thadani,0,1,1,,,,,"",""
+ball,1,4.2,Scotland,KE Bryce,SJ Bryce,SR Thadani,4,0,,,,,,"",""
+ball,1,4.3,Scotland,KE Bryce,SJ Bryce,SR Thadani,0,0,,,,,,"",""
+ball,1,4.4,Scotland,KE Bryce,SJ Bryce,SR Thadani,1,0,,,,,,"",""
+ball,1,4.5,Scotland,SJ Bryce,KE Bryce,SR Thadani,1,0,,,,,,"",""
+ball,1,4.6,Scotland,KE Bryce,SJ Bryce,SR Thadani,1,0,,,,,,"",""
+ball,1,4.7,Scotland,SJ Bryce,KE Bryce,SR Thadani,1,0,,,,,,"",""
+ball,1,5.1,Scotland,SJ Bryce,KE Bryce,IM Vaghela,0,0,,,,,,"",""
+ball,1,5.2,Scotland,SJ Bryce,KE Bryce,IM Vaghela,0,4,,,,4,,"",""
+ball,1,5.3,Scotland,SJ Bryce,KE Bryce,IM Vaghela,1,0,,,,,,"",""
+ball,1,5.4,Scotland,KE Bryce,SJ Bryce,IM Vaghela,0,0,,,,,,"",""
+ball,1,5.5,Scotland,KE Bryce,SJ Bryce,IM Vaghela,1,0,,,,,,"",""
+ball,1,5.6,Scotland,SJ Bryce,KE Bryce,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.1,Scotland,KE Bryce,SJ Bryce,S Immadi,1,0,,,,,,"",""
+ball,1,6.2,Scotland,SJ Bryce,KE Bryce,S Immadi,1,0,,,,,,"",""
+ball,1,6.3,Scotland,KE Bryce,SJ Bryce,S Immadi,0,0,,,,,,"",""
+ball,1,6.4,Scotland,KE Bryce,SJ Bryce,S Immadi,0,0,,,,,,"",""
+ball,1,6.5,Scotland,KE Bryce,SJ Bryce,S Immadi,0,0,,,,,,"",""
+ball,1,6.6,Scotland,KE Bryce,SJ Bryce,S Immadi,4,0,,,,,,"",""
+ball,1,7.1,Scotland,SJ Bryce,KE Bryce,AI Chudasama,0,0,,,,,,"",""
+ball,1,7.2,Scotland,SJ Bryce,KE Bryce,AI Chudasama,0,0,,,,,,caught,SJ Bryce
+ball,1,7.3,Scotland,A Lister,KE Bryce,AI Chudasama,2,0,,,,,,"",""
+ball,1,7.4,Scotland,A Lister,KE Bryce,AI Chudasama,2,0,,,,,,"",""
+ball,1,7.5,Scotland,A Lister,KE Bryce,AI Chudasama,1,0,,,,,,"",""
+ball,1,7.6,Scotland,KE Bryce,A Lister,AI Chudasama,2,0,,,,,,"",""
+ball,1,8.1,Scotland,A Lister,KE Bryce,S Immadi,1,0,,,,,,"",""
+ball,1,8.2,Scotland,KE Bryce,A Lister,S Immadi,1,0,,,,,,"",""
+ball,1,8.3,Scotland,A Lister,KE Bryce,S Immadi,4,0,,,,,,"",""
+ball,1,8.4,Scotland,A Lister,KE Bryce,S Immadi,0,0,,,,,,"",""
+ball,1,8.5,Scotland,A Lister,KE Bryce,S Immadi,1,0,,,,,,"",""
+ball,1,8.6,Scotland,KE Bryce,A Lister,S Immadi,0,0,,,,,,"",""
+ball,1,9.1,Scotland,A Lister,KE Bryce,JM Willathgamuwa,1,0,,,,,,"",""
+ball,1,9.2,Scotland,KE Bryce,A Lister,JM Willathgamuwa,0,0,,,,,,"",""
+ball,1,9.3,Scotland,KE Bryce,A Lister,JM Willathgamuwa,1,0,,,,,,"",""
+ball,1,9.4,Scotland,A Lister,KE Bryce,JM Willathgamuwa,4,0,,,,,,"",""
+ball,1,9.5,Scotland,A Lister,KE Bryce,JM Willathgamuwa,0,0,,,,,,"",""
+ball,1,9.6,Scotland,A Lister,KE Bryce,JM Willathgamuwa,4,0,,,,,,"",""
+ball,1,10.1,Scotland,KE Bryce,A Lister,SR Thadani,0,4,,,4,,,"",""
+ball,1,10.2,Scotland,KE Bryce,A Lister,SR Thadani,0,0,,,,,,"",""
+ball,1,10.3,Scotland,KE Bryce,A Lister,SR Thadani,4,0,,,,,,"",""
+ball,1,10.4,Scotland,KE Bryce,A Lister,SR Thadani,4,0,,,,,,"",""
+ball,1,10.5,Scotland,KE Bryce,A Lister,SR Thadani,1,0,,,,,,"",""
+ball,1,10.6,Scotland,A Lister,KE Bryce,SR Thadani,1,0,,,,,,"",""
+ball,1,11.1,Scotland,A Lister,KE Bryce,JM Willathgamuwa,1,0,,,,,,"",""
+ball,1,11.2,Scotland,KE Bryce,A Lister,JM Willathgamuwa,4,0,,,,,,"",""
+ball,1,11.3,Scotland,KE Bryce,A Lister,JM Willathgamuwa,2,0,,,,,,"",""
+ball,1,11.4,Scotland,KE Bryce,A Lister,JM Willathgamuwa,0,1,,,,1,,"",""
+ball,1,11.5,Scotland,A Lister,KE Bryce,JM Willathgamuwa,4,0,,,,,,"",""
+ball,1,11.6,Scotland,A Lister,KE Bryce,JM Willathgamuwa,0,0,,,,,,"",""
+ball,1,12.1,Scotland,KE Bryce,A Lister,JL Aras,1,0,,,,,,"",""
+ball,1,12.2,Scotland,A Lister,KE Bryce,JL Aras,0,0,,,,,,"",""
+ball,1,12.3,Scotland,A Lister,KE Bryce,JL Aras,6,0,,,,,,"",""
+ball,1,12.4,Scotland,A Lister,KE Bryce,JL Aras,1,0,,,,,,"",""
+ball,1,12.5,Scotland,KE Bryce,A Lister,JL Aras,4,0,,,,,,"",""
+ball,1,12.6,Scotland,KE Bryce,A Lister,JL Aras,0,1,1,,,,,"",""
+ball,1,12.7,Scotland,KE Bryce,A Lister,JL Aras,0,0,,,,,,"",""
+ball,1,13.1,Scotland,A Lister,KE Bryce,AI Chudasama,0,0,,,,,,"",""
+ball,1,13.2,Scotland,A Lister,KE Bryce,AI Chudasama,0,0,,,,,,"",""
+ball,1,13.3,Scotland,A Lister,KE Bryce,AI Chudasama,1,0,,,,,,"",""
+ball,1,13.4,Scotland,KE Bryce,A Lister,AI Chudasama,1,0,,,,,,"",""
+ball,1,13.5,Scotland,A Lister,KE Bryce,AI Chudasama,0,1,1,,,,,"",""
+ball,1,13.6,Scotland,A Lister,KE Bryce,AI Chudasama,0,0,,,,,,stumped,A Lister
+ball,1,13.7,Scotland,L Jack,KE Bryce,AI Chudasama,0,0,,,,,,"",""
+ball,1,14.1,Scotland,KE Bryce,L Jack,S Immadi,1,0,,,,,,"",""
+ball,1,14.2,Scotland,L Jack,KE Bryce,S Immadi,0,0,,,,,,"",""
+ball,1,14.3,Scotland,L Jack,KE Bryce,S Immadi,0,0,,,,,,"",""
+ball,1,14.4,Scotland,L Jack,KE Bryce,S Immadi,1,0,,,,,,"",""
+ball,1,14.5,Scotland,KE Bryce,L Jack,S Immadi,2,0,,,,,,"",""
+ball,1,14.6,Scotland,KE Bryce,L Jack,S Immadi,0,0,,,,,,"",""
+ball,1,15.1,Scotland,L Jack,KE Bryce,AI Chudasama,0,0,,,,,,"",""
+ball,1,15.2,Scotland,L Jack,KE Bryce,AI Chudasama,0,0,,,,,,"",""
+ball,1,15.3,Scotland,L Jack,KE Bryce,AI Chudasama,1,0,,,,,,"",""
+ball,1,15.4,Scotland,KE Bryce,L Jack,AI Chudasama,1,0,,,,,,"",""
+ball,1,15.5,Scotland,L Jack,KE Bryce,AI Chudasama,0,0,,,,,,"",""
+ball,1,15.6,Scotland,L Jack,KE Bryce,AI Chudasama,0,1,1,,,,,"",""
+ball,1,15.7,Scotland,L Jack,KE Bryce,AI Chudasama,4,0,,,,,,"",""
+ball,1,16.1,Scotland,KE Bryce,L Jack,G Kodali,1,0,,,,,,"",""
+ball,1,16.2,Scotland,L Jack,KE Bryce,G Kodali,2,0,,,,,,"",""
+ball,1,16.3,Scotland,L Jack,KE Bryce,G Kodali,4,0,,,,,,"",""
+ball,1,16.4,Scotland,L Jack,KE Bryce,G Kodali,1,0,,,,,,"",""
+ball,1,16.5,Scotland,KE Bryce,L Jack,G Kodali,4,0,,,,,,"",""
+ball,1,16.6,Scotland,KE Bryce,L Jack,G Kodali,1,0,,,,,,"",""
+ball,1,17.1,Scotland,KE Bryce,L Jack,IM Vaghela,1,0,,,,,,"",""
+ball,1,17.2,Scotland,L Jack,KE Bryce,IM Vaghela,4,0,,,,,,"",""
+ball,1,17.3,Scotland,L Jack,KE Bryce,IM Vaghela,0,1,,,,1,,"",""
+ball,1,17.4,Scotland,KE Bryce,L Jack,IM Vaghela,0,0,,,,,,"",""
+ball,1,17.5,Scotland,KE Bryce,L Jack,IM Vaghela,1,0,,,,,,"",""
+ball,1,17.6,Scotland,L Jack,KE Bryce,IM Vaghela,2,0,,,,,,"",""
+ball,1,18.1,Scotland,KE Bryce,L Jack,S Immadi,0,0,,,,,,"",""
+ball,1,18.2,Scotland,KE Bryce,L Jack,S Immadi,1,0,,,,,,"",""
+ball,1,18.3,Scotland,L Jack,KE Bryce,S Immadi,1,0,,,,,,"",""
+ball,1,18.4,Scotland,KE Bryce,L Jack,S Immadi,0,1,,,,1,,"",""
+ball,1,18.5,Scotland,L Jack,KE Bryce,S Immadi,0,0,,,,,,stumped,L Jack
+ball,1,18.6,Scotland,K Fraser,KE Bryce,S Immadi,2,0,,,,,,"",""
+ball,1,19.1,Scotland,KE Bryce,K Fraser,IM Vaghela,0,1,,,,1,,"",""
+ball,1,19.2,Scotland,K Fraser,KE Bryce,IM Vaghela,1,0,,,,,,"",""
+ball,1,19.3,Scotland,KE Bryce,K Fraser,IM Vaghela,1,0,,,,,,"",""
+ball,1,19.4,Scotland,K Fraser,KE Bryce,IM Vaghela,0,0,,,,,,bowled,K Fraser
+ball,1,19.5,Scotland,PA Chatterji,KE Bryce,IM Vaghela,2,0,,,,,,"",""
+ball,1,19.6,Scotland,PA Chatterji,KE Bryce,IM Vaghela,2,0,,,,,,"",""
+ball,2,0.1,United States of America,GC Bhogle,D Dhingra,KE Bryce,0,0,,,,,,caught,GC Bhogle
+ball,2,0.2,United States of America,A Kolan,D Dhingra,KE Bryce,0,0,,,,,,"",""
+ball,2,0.3,United States of America,A Kolan,D Dhingra,KE Bryce,0,1,1,,,,,"",""
+ball,2,0.4,United States of America,A Kolan,D Dhingra,KE Bryce,0,0,,,,,,"",""
+ball,2,0.5,United States of America,A Kolan,D Dhingra,KE Bryce,0,0,,,,,,"",""
+ball,2,0.6,United States of America,A Kolan,D Dhingra,KE Bryce,0,0,,,,,,"",""
+ball,2,0.7,United States of America,A Kolan,D Dhingra,KE Bryce,1,0,,,,,,"",""
+ball,2,1.1,United States of America,A Kolan,D Dhingra,R Slater,0,1,1,,,,,"",""
+ball,2,1.2,United States of America,A Kolan,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,1.3,United States of America,A Kolan,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,1.4,United States of America,A Kolan,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,1.5,United States of America,A Kolan,D Dhingra,R Slater,1,0,,,,,,"",""
+ball,2,1.6,United States of America,D Dhingra,A Kolan,R Slater,0,1,,,,1,,"",""
+ball,2,1.7,United States of America,A Kolan,D Dhingra,R Slater,0,0,,,,,,"",""
+ball,2,2.1,United States of America,D Dhingra,A Kolan,KE Bryce,0,0,,,,,,bowled,D Dhingra
+ball,2,2.2,United States of America,S Sriharsha,A Kolan,KE Bryce,0,1,1,,,,,"",""
+ball,2,2.3,United States of America,S Sriharsha,A Kolan,KE Bryce,0,0,,,,,,"",""
+ball,2,2.4,United States of America,S Sriharsha,A Kolan,KE Bryce,0,0,,,,,,lbw,S Sriharsha
+ball,2,2.5,United States of America,AI Chudasama,A Kolan,KE Bryce,1,0,,,,,,"",""
+ball,2,2.6,United States of America,A Kolan,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,2.7,United States of America,A Kolan,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,3.1,United States of America,AI Chudasama,A Kolan,R Slater,1,0,,,,,,"",""
+ball,2,3.2,United States of America,A Kolan,AI Chudasama,R Slater,1,0,,,,,,"",""
+ball,2,3.3,United States of America,AI Chudasama,A Kolan,R Slater,0,0,,,,,,"",""
+ball,2,3.4,United States of America,AI Chudasama,A Kolan,R Slater,4,0,,,,,,"",""
+ball,2,3.5,United States of America,AI Chudasama,A Kolan,R Slater,0,1,1,,,,,"",""
+ball,2,3.6,United States of America,AI Chudasama,A Kolan,R Slater,0,1,1,,,,,"",""
+ball,2,3.7,United States of America,AI Chudasama,A Kolan,R Slater,4,0,,,,,,"",""
+ball,2,3.8,United States of America,AI Chudasama,A Kolan,R Slater,1,0,,,,,,"",""
+ball,2,4.1,United States of America,AI Chudasama,A Kolan,KE Bryce,0,0,,,,,,"",""
+ball,2,4.2,United States of America,AI Chudasama,A Kolan,KE Bryce,0,2,2,,,,,"",""
+ball,2,4.3,United States of America,A Kolan,AI Chudasama,KE Bryce,0,0,,,,,,bowled,A Kolan
+ball,2,4.4,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,4.5,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,4.6,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,4.7,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,5.1,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,0,0,,,,,,"",""
+ball,2,5.2,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,2,0,,,,,,"",""
+ball,2,5.3,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,0,0,,,,,,"",""
+ball,2,5.4,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,0,0,,,,,,"",""
+ball,2,5.5,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,1,0,,,,,,"",""
+ball,2,5.6,United States of America,JM Willathgamuwa,AI Chudasama,PA Chatterji,1,0,,,,,,"",""
+ball,2,6.1,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,2,0,,,,,,"",""
+ball,2,6.2,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,4,0,,,,,,"",""
+ball,2,6.3,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,3,0,,,,,,"",""
+ball,2,6.4,United States of America,AI Chudasama,JM Willathgamuwa,KE Bryce,0,1,1,,,,,"",""
+ball,2,6.5,United States of America,AI Chudasama,JM Willathgamuwa,KE Bryce,1,0,,,,,,"",""
+ball,2,6.6,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,6.7,United States of America,JM Willathgamuwa,AI Chudasama,KE Bryce,0,0,,,,,,"",""
+ball,2,7.1,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,2,0,,,,,,"",""
+ball,2,7.2,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,0,0,,,,,,"",""
+ball,2,7.3,United States of America,AI Chudasama,JM Willathgamuwa,PA Chatterji,1,0,,,,,,"",""
+ball,2,7.4,United States of America,JM Willathgamuwa,AI Chudasama,PA Chatterji,0,0,,,,,,"",""
+ball,2,7.5,United States of America,JM Willathgamuwa,AI Chudasama,PA Chatterji,0,1,1,,,,,"",""
+ball,2,7.6,United States of America,JM Willathgamuwa,AI Chudasama,PA Chatterji,0,0,,,,,,"",""
+ball,2,7.7,United States of America,JM Willathgamuwa,AI Chudasama,PA Chatterji,0,0,,,,,,"",""
+ball,2,8.1,United States of America,AI Chudasama,JM Willathgamuwa,AH Maqsood,1,0,,,,,,"",""
+ball,2,8.2,United States of America,JM Willathgamuwa,AI Chudasama,AH Maqsood,0,0,,,,,,stumped,JM Willathgamuwa
+ball,2,8.3,United States of America,G Kodali,AI Chudasama,AH Maqsood,0,0,,,,,,"",""
+ball,2,8.4,United States of America,G Kodali,AI Chudasama,AH Maqsood,1,0,,,,,,"",""
+ball,2,8.5,United States of America,AI Chudasama,G Kodali,AH Maqsood,1,0,,,,,,"",""
+ball,2,8.6,United States of America,G Kodali,AI Chudasama,AH Maqsood,1,0,,,,,,"",""
+ball,2,9.1,United States of America,G Kodali,AI Chudasama,K Fraser,0,0,,,,,,"",""
+ball,2,9.2,United States of America,G Kodali,AI Chudasama,K Fraser,1,0,,,,,,"",""
+ball,2,9.3,United States of America,AI Chudasama,G Kodali,K Fraser,0,0,,,,,,"",""
+ball,2,9.4,United States of America,AI Chudasama,G Kodali,K Fraser,0,0,,,,,,caught,AI Chudasama
+ball,2,9.5,United States of America,IM Vaghela,G Kodali,K Fraser,3,0,,,,,,"",""
+ball,2,9.6,United States of America,G Kodali,IM Vaghela,K Fraser,0,0,,,,,,"",""
+ball,2,10.1,United States of America,IM Vaghela,G Kodali,AH Maqsood,1,0,,,,,,"",""
+ball,2,10.2,United States of America,G Kodali,IM Vaghela,AH Maqsood,0,0,,,,,,"",""
+ball,2,10.3,United States of America,G Kodali,IM Vaghela,AH Maqsood,0,0,,,,,,caught,G Kodali
+ball,2,10.4,United States of America,JL Aras,IM Vaghela,AH Maqsood,0,0,,,,,,"",""
+ball,2,10.5,United States of America,JL Aras,IM Vaghela,AH Maqsood,1,0,,,,,,"",""
+ball,2,10.6,United States of America,IM Vaghela,JL Aras,AH Maqsood,0,0,,,,,,"",""
+ball,2,11.1,United States of America,JL Aras,IM Vaghela,K Fraser,1,0,,,,,,"",""
+ball,2,11.2,United States of America,IM Vaghela,JL Aras,K Fraser,1,0,,,,,,"",""
+ball,2,11.3,United States of America,JL Aras,IM Vaghela,K Fraser,0,0,,,,,,"",""
+ball,2,11.4,United States of America,JL Aras,IM Vaghela,K Fraser,1,0,,,,,,"",""
+ball,2,11.5,United States of America,IM Vaghela,JL Aras,K Fraser,0,0,,,,,,"",""
+ball,2,11.6,United States of America,IM Vaghela,JL Aras,K Fraser,1,0,,,,,,"",""
+ball,2,12.1,United States of America,IM Vaghela,JL Aras,AH Maqsood,1,0,,,,,,"",""
+ball,2,12.2,United States of America,JL Aras,IM Vaghela,AH Maqsood,0,0,,,,,,"",""
+ball,2,12.3,United States of America,JL Aras,IM Vaghela,AH Maqsood,1,0,,,,,,"",""
+ball,2,12.4,United States of America,IM Vaghela,JL Aras,AH Maqsood,2,0,,,,,,"",""
+ball,2,12.5,United States of America,IM Vaghela,JL Aras,AH Maqsood,2,0,,,,,,"",""
+ball,2,12.6,United States of America,IM Vaghela,JL Aras,AH Maqsood,4,0,,,,,,"",""
+ball,2,13.1,United States of America,JL Aras,IM Vaghela,K Fraser,0,0,,,,,,"",""
+ball,2,13.2,United States of America,JL Aras,IM Vaghela,K Fraser,0,0,,,,,,"",""
+ball,2,13.3,United States of America,JL Aras,IM Vaghela,K Fraser,0,0,,,,,,"",""
+ball,2,13.4,United States of America,JL Aras,IM Vaghela,K Fraser,0,0,,,,,,"",""
+ball,2,13.5,United States of America,JL Aras,IM Vaghela,K Fraser,1,0,,,,,,"",""
+ball,2,13.6,United States of America,IM Vaghela,JL Aras,K Fraser,1,0,,,,,,"",""
+ball,2,14.1,United States of America,IM Vaghela,JL Aras,R Slater,0,0,,,,,,"",""
+ball,2,14.2,United States of America,IM Vaghela,JL Aras,R Slater,1,0,,,,,,"",""
+ball,2,14.3,United States of America,JL Aras,IM Vaghela,R Slater,0,0,,,,,,"",""
+ball,2,14.4,United States of America,JL Aras,IM Vaghela,R Slater,1,0,,,,,,"",""
+ball,2,14.5,United States of America,IM Vaghela,JL Aras,R Slater,1,0,,,,,,"",""
+ball,2,14.6,United States of America,JL Aras,IM Vaghela,R Slater,1,0,,,,,,"",""
+ball,2,15.1,United States of America,JL Aras,IM Vaghela,C Abel,1,0,,,,,,"",""
+ball,2,15.2,United States of America,IM Vaghela,JL Aras,C Abel,0,2,2,,,,,"",""
+ball,2,15.3,United States of America,JL Aras,IM Vaghela,C Abel,1,0,,,,,,"",""
+ball,2,15.4,United States of America,IM Vaghela,JL Aras,C Abel,0,0,,,,,,"",""
+ball,2,15.5,United States of America,IM Vaghela,JL Aras,C Abel,1,0,,,,,,"",""
+ball,2,15.6,United States of America,JL Aras,IM Vaghela,C Abel,0,0,,,,,,"",""
+ball,2,15.7,United States of America,JL Aras,IM Vaghela,C Abel,1,0,,,,,,"",""
+ball,2,16.1,United States of America,JL Aras,IM Vaghela,PA Chatterji,1,0,,,,,,"",""
+ball,2,16.2,United States of America,IM Vaghela,JL Aras,PA Chatterji,2,0,,,,,,"",""
+ball,2,16.3,United States of America,IM Vaghela,JL Aras,PA Chatterji,0,0,,,,,,"",""
+ball,2,16.4,United States of America,IM Vaghela,JL Aras,PA Chatterji,0,0,,,,,,"",""
+ball,2,16.5,United States of America,IM Vaghela,JL Aras,PA Chatterji,1,0,,,,,,"",""
+ball,2,16.6,United States of America,JL Aras,IM Vaghela,PA Chatterji,0,0,,,,,,"",""
+ball,2,17.1,United States of America,IM Vaghela,JL Aras,C Abel,4,0,,,,,,"",""
+ball,2,17.2,United States of America,IM Vaghela,JL Aras,C Abel,2,0,,,,,,"",""
+ball,2,17.3,United States of America,IM Vaghela,JL Aras,C Abel,0,0,,,,,,"",""
+ball,2,17.4,United States of America,IM Vaghela,JL Aras,C Abel,0,0,,,,,,"",""
+ball,2,17.5,United States of America,IM Vaghela,JL Aras,C Abel,2,0,,,,,,"",""
+ball,2,17.6,United States of America,IM Vaghela,JL Aras,C Abel,0,0,,,,,,caught,IM Vaghela
+ball,2,18.1,United States of America,JL Aras,SR Thadani,PA Chatterji,2,0,,,,,,"",""
+ball,2,18.2,United States of America,JL Aras,SR Thadani,PA Chatterji,4,0,,,,,,"",""
+ball,2,18.3,United States of America,JL Aras,SR Thadani,PA Chatterji,0,0,,,,,,"",""
+ball,2,18.4,United States of America,JL Aras,SR Thadani,PA Chatterji,1,0,,,,,,"",""
+ball,2,18.5,United States of America,SR Thadani,JL Aras,PA Chatterji,1,0,,,,,,"",""
+ball,2,18.6,United States of America,JL Aras,SR Thadani,PA Chatterji,4,0,,,,,,"",""
+ball,2,19.1,United States of America,SR Thadani,JL Aras,R Slater,1,0,,,,,,"",""
+ball,2,19.2,United States of America,JL Aras,SR Thadani,R Slater,1,0,,,,,,"",""
+ball,2,19.3,United States of America,SR Thadani,JL Aras,R Slater,0,0,,,,,,"",""
+ball,2,19.4,United States of America,SR Thadani,JL Aras,R Slater,0,0,,,,,,"",""
+ball,2,19.5,United States of America,SR Thadani,JL Aras,R Slater,0,1,,,,1,,"",""
+ball,2,19.6,United States of America,JL Aras,SR Thadani,R Slater,1,0,,,,,,"",""

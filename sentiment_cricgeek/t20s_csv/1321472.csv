@@ -1,0 +1,292 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Papua New Guinea
+info,gender,male
+info,season,2022
+info,date,2022/07/12
+info,event,ICC Men's T20 World Cup Qualifier
+info,match_number,8
+info,venue,Bulawayo Athletic Club
+info,city,Bulawayo
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,player_of_match,A Vala
+info,umpire,I Chabi
+info,umpire,L Rusere
+info,reserve_umpire,F Mutizwa
+info,match_referee,S Wadvalla
+info,winner,Papua New Guinea
+info,winner_wickets,8
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,RB Patel
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,F Akankwasa
+info,player,Uganda,K Waiswa
+info,player,Uganda,F Achelam
+info,player,Uganda,F Nsubuga
+info,player,Uganda,C Kyewuta
+info,player,Uganda,H Ssenyondo
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,HGV Vare
+info,player,Papua New Guinea,SK Atai
+info,player,Papua New Guinea,D Ravu
+info,player,Papua New Guinea,SI Kamea
+info,registry,people,A Vala,72e60730
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,D Ravu,053f3ce3
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,F Akankwasa,0d0f0385
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,HGV Vare,98299b67
+info,registry,people,I Chabi,5e39110e
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,N Vanua,a36915ce
+info,registry,people,R Hekure,c70448aa
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Bau,9a95bebb
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SI Kamea,0730a707
+info,registry,people,SK Atai,a64e3b89
+info,registry,people,TP Ura,a82eb3fb
+ball,1,0.1,Uganda,RG Mukasa,S Sesazi,SI Kamea,0,0,,,,,,"",""
+ball,1,0.2,Uganda,RG Mukasa,S Sesazi,SI Kamea,2,0,,,,,,"",""
+ball,1,0.3,Uganda,RG Mukasa,S Sesazi,SI Kamea,1,0,,,,,,"",""
+ball,1,0.4,Uganda,S Sesazi,RG Mukasa,SI Kamea,1,0,,,,,,"",""
+ball,1,0.5,Uganda,RG Mukasa,S Sesazi,SI Kamea,0,0,,,,,,"",""
+ball,1,0.6,Uganda,RG Mukasa,S Sesazi,SI Kamea,0,0,,,,,,"",""
+ball,1,1.1,Uganda,S Sesazi,RG Mukasa,D Ravu,0,0,,,,,,"",""
+ball,1,1.2,Uganda,S Sesazi,RG Mukasa,D Ravu,0,0,,,,,,"",""
+ball,1,1.3,Uganda,S Sesazi,RG Mukasa,D Ravu,1,0,,,,,,"",""
+ball,1,1.4,Uganda,RG Mukasa,S Sesazi,D Ravu,0,0,,,,,,"",""
+ball,1,1.5,Uganda,RG Mukasa,S Sesazi,D Ravu,0,0,,,,,,"",""
+ball,1,1.6,Uganda,RG Mukasa,S Sesazi,D Ravu,1,0,,,,,,"",""
+ball,1,2.1,Uganda,RG Mukasa,S Sesazi,SI Kamea,4,0,,,,,,"",""
+ball,1,2.2,Uganda,RG Mukasa,S Sesazi,SI Kamea,1,0,,,,,,"",""
+ball,1,2.3,Uganda,S Sesazi,RG Mukasa,SI Kamea,1,0,,,,,,"",""
+ball,1,2.4,Uganda,RG Mukasa,S Sesazi,SI Kamea,0,0,,,,,,"",""
+ball,1,2.5,Uganda,RG Mukasa,S Sesazi,SI Kamea,0,0,,,,,,caught,RG Mukasa
+ball,1,2.6,Uganda,RB Patel,S Sesazi,SI Kamea,0,0,,,,,,"",""
+ball,1,3.1,Uganda,S Sesazi,RB Patel,D Ravu,2,0,,,,,,"",""
+ball,1,3.2,Uganda,S Sesazi,RB Patel,D Ravu,0,0,,,,,,"",""
+ball,1,3.3,Uganda,S Sesazi,RB Patel,D Ravu,2,0,,,,,,"",""
+ball,1,3.4,Uganda,S Sesazi,RB Patel,D Ravu,4,0,,,,,,"",""
+ball,1,3.5,Uganda,S Sesazi,RB Patel,D Ravu,4,0,,,,,,"",""
+ball,1,3.6,Uganda,S Sesazi,RB Patel,D Ravu,0,0,,,,,,"",""
+ball,1,4.1,Uganda,RB Patel,S Sesazi,N Vanua,1,0,,,,,,"",""
+ball,1,4.2,Uganda,S Sesazi,RB Patel,N Vanua,0,0,,,,,,"",""
+ball,1,4.3,Uganda,S Sesazi,RB Patel,N Vanua,0,0,,,,,,"",""
+ball,1,4.4,Uganda,S Sesazi,RB Patel,N Vanua,2,0,,,,,,"",""
+ball,1,4.5,Uganda,S Sesazi,RB Patel,N Vanua,0,0,,,,,,"",""
+ball,1,4.6,Uganda,S Sesazi,RB Patel,N Vanua,0,0,,,,,,"",""
+ball,1,5.1,Uganda,RB Patel,S Sesazi,R Hekure,0,0,,,,,,"",""
+ball,1,5.2,Uganda,RB Patel,S Sesazi,R Hekure,0,0,,,,,,"",""
+ball,1,5.3,Uganda,RB Patel,S Sesazi,R Hekure,1,0,,,,,,"",""
+ball,1,5.4,Uganda,S Sesazi,RB Patel,R Hekure,0,0,,,,,,"",""
+ball,1,5.5,Uganda,S Sesazi,RB Patel,R Hekure,4,0,,,,,,"",""
+ball,1,5.6,Uganda,S Sesazi,RB Patel,R Hekure,0,0,,,,,,"",""
+ball,1,6.1,Uganda,RB Patel,S Sesazi,N Vanua,0,0,,,,,,lbw,RB Patel
+ball,1,6.2,Uganda,Riazat Ali Shah,S Sesazi,N Vanua,0,0,,,,,,"",""
+ball,1,6.3,Uganda,Riazat Ali Shah,S Sesazi,N Vanua,0,0,,,,,,"",""
+ball,1,6.4,Uganda,Riazat Ali Shah,S Sesazi,N Vanua,1,0,,,,,,"",""
+ball,1,6.5,Uganda,S Sesazi,Riazat Ali Shah,N Vanua,6,0,,,,,,"",""
+ball,1,6.6,Uganda,S Sesazi,Riazat Ali Shah,N Vanua,2,0,,,,,,"",""
+ball,1,7.1,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,0,0,,,,,,"",""
+ball,1,7.2,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,0,0,,,,,,"",""
+ball,1,7.3,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,1,0,,,,,,"",""
+ball,1,7.4,Uganda,S Sesazi,Riazat Ali Shah,R Hekure,1,0,,,,,,"",""
+ball,1,7.5,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,0,0,,,,,,"",""
+ball,1,7.6,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,1,0,,,,,,"",""
+ball,1,8.1,Uganda,Riazat Ali Shah,S Sesazi,CJA Amini,1,0,,,,,,"",""
+ball,1,8.2,Uganda,S Sesazi,Riazat Ali Shah,CJA Amini,1,0,,,,,,"",""
+ball,1,8.3,Uganda,Riazat Ali Shah,S Sesazi,CJA Amini,0,0,,,,,,"",""
+ball,1,8.4,Uganda,Riazat Ali Shah,S Sesazi,CJA Amini,1,0,,,,,,"",""
+ball,1,8.5,Uganda,S Sesazi,Riazat Ali Shah,CJA Amini,0,0,,,,,,"",""
+ball,1,8.6,Uganda,S Sesazi,Riazat Ali Shah,CJA Amini,0,0,,,,,,"",""
+ball,1,9.1,Uganda,Riazat Ali Shah,S Sesazi,A Vala,0,0,,,,,,"",""
+ball,1,9.2,Uganda,Riazat Ali Shah,S Sesazi,A Vala,1,0,,,,,,"",""
+ball,1,9.3,Uganda,S Sesazi,Riazat Ali Shah,A Vala,0,0,,,,,,"",""
+ball,1,9.4,Uganda,S Sesazi,Riazat Ali Shah,A Vala,4,0,,,,,,"",""
+ball,1,9.5,Uganda,S Sesazi,Riazat Ali Shah,A Vala,1,0,,,,,,"",""
+ball,1,9.6,Uganda,Riazat Ali Shah,S Sesazi,A Vala,0,1,1,,,,,"",""
+ball,1,9.7,Uganda,Riazat Ali Shah,S Sesazi,A Vala,1,0,,,,,,"",""
+ball,1,10.1,Uganda,Riazat Ali Shah,S Sesazi,CJA Amini,1,0,,,,,,"",""
+ball,1,10.2,Uganda,S Sesazi,Riazat Ali Shah,CJA Amini,6,0,,,,,,"",""
+ball,1,10.3,Uganda,S Sesazi,Riazat Ali Shah,CJA Amini,1,0,,,,,,"",""
+ball,1,10.4,Uganda,Riazat Ali Shah,S Sesazi,CJA Amini,0,0,,,,,,"",""
+ball,1,10.5,Uganda,Riazat Ali Shah,S Sesazi,CJA Amini,0,0,,,,,,"",""
+ball,1,10.6,Uganda,Riazat Ali Shah,S Sesazi,CJA Amini,0,0,,,,,,"",""
+ball,1,11.1,Uganda,S Sesazi,Riazat Ali Shah,R Hekure,1,0,,,,,,"",""
+ball,1,11.2,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,0,0,,,,,,"",""
+ball,1,11.3,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,0,0,,,,,,"",""
+ball,1,11.4,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,1,0,,,,,,"",""
+ball,1,11.5,Uganda,S Sesazi,Riazat Ali Shah,R Hekure,1,0,,,,,,"",""
+ball,1,11.6,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,2,0,,,,,,"",""
+ball,1,12.1,Uganda,S Sesazi,Riazat Ali Shah,SI Kamea,0,1,1,,,,,"",""
+ball,1,12.2,Uganda,S Sesazi,Riazat Ali Shah,SI Kamea,1,0,,,,,,"",""
+ball,1,12.3,Uganda,Riazat Ali Shah,S Sesazi,SI Kamea,1,0,,,,,,"",""
+ball,1,12.4,Uganda,S Sesazi,Riazat Ali Shah,SI Kamea,4,0,,,,,,"",""
+ball,1,12.5,Uganda,S Sesazi,Riazat Ali Shah,SI Kamea,1,0,,,,,,"",""
+ball,1,12.6,Uganda,Riazat Ali Shah,S Sesazi,SI Kamea,1,0,,,,,,"",""
+ball,1,12.7,Uganda,S Sesazi,Riazat Ali Shah,SI Kamea,1,0,,,,,,"",""
+ball,1,13.1,Uganda,S Sesazi,Riazat Ali Shah,R Hekure,1,0,,,,,,"",""
+ball,1,13.2,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,1,0,,,,,,"",""
+ball,1,13.3,Uganda,S Sesazi,Riazat Ali Shah,R Hekure,1,0,,,,,,"",""
+ball,1,13.4,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,1,0,,,,,,"",""
+ball,1,13.5,Uganda,S Sesazi,Riazat Ali Shah,R Hekure,1,0,,,,,,"",""
+ball,1,13.6,Uganda,Riazat Ali Shah,S Sesazi,R Hekure,1,0,,,,,,"",""
+ball,1,14.1,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,6,0,,,,,,"",""
+ball,1,14.2,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,0,0,,,,,,"",""
+ball,1,14.3,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,4,0,,,,,,"",""
+ball,1,14.4,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,1,0,,,,,,"",""
+ball,1,14.5,Uganda,S Sesazi,Riazat Ali Shah,D Ravu,0,0,,,,,,"",""
+ball,1,14.6,Uganda,S Sesazi,Riazat Ali Shah,D Ravu,4,0,,,,,,"",""
+ball,1,15.1,Uganda,Riazat Ali Shah,S Sesazi,N Vanua,1,0,,,,,,"",""
+ball,1,15.2,Uganda,S Sesazi,Riazat Ali Shah,N Vanua,1,0,,,,,,"",""
+ball,1,15.3,Uganda,Riazat Ali Shah,S Sesazi,N Vanua,4,0,,,,,,"",""
+ball,1,15.4,Uganda,Riazat Ali Shah,S Sesazi,N Vanua,4,0,,,,,,"",""
+ball,1,15.5,Uganda,Riazat Ali Shah,S Sesazi,N Vanua,1,0,,,,,,"",""
+ball,1,15.6,Uganda,S Sesazi,Riazat Ali Shah,N Vanua,6,0,,,,,,"",""
+ball,1,16.1,Uganda,Riazat Ali Shah,S Sesazi,SI Kamea,0,0,,,,,,"",""
+ball,1,16.2,Uganda,Riazat Ali Shah,S Sesazi,SI Kamea,2,0,,,,,,"",""
+ball,1,16.3,Uganda,Riazat Ali Shah,S Sesazi,SI Kamea,0,1,1,,,,,"",""
+ball,1,16.4,Uganda,Riazat Ali Shah,S Sesazi,SI Kamea,1,0,,,,,,"",""
+ball,1,16.5,Uganda,S Sesazi,Riazat Ali Shah,SI Kamea,4,0,,,,,,"",""
+ball,1,16.6,Uganda,S Sesazi,Riazat Ali Shah,SI Kamea,1,0,,,,,,"",""
+ball,1,16.7,Uganda,Riazat Ali Shah,S Sesazi,SI Kamea,1,0,,,,,,"",""
+ball,1,17.1,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,0,0,,,,,,"",""
+ball,1,17.2,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,6,0,,,,,,"",""
+ball,1,17.3,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,0,0,,,,,,"",""
+ball,1,17.4,Uganda,Riazat Ali Shah,S Sesazi,D Ravu,1,0,,,,,,"",""
+ball,1,17.5,Uganda,S Sesazi,Riazat Ali Shah,D Ravu,6,0,,,,,,"",""
+ball,1,17.6,Uganda,S Sesazi,Riazat Ali Shah,D Ravu,1,0,,,,,,"",""
+ball,1,18.1,Uganda,S Sesazi,Riazat Ali Shah,CJA Amini,0,0,,,,,,caught,S Sesazi
+ball,1,18.2,Uganda,DM Nakrani,Riazat Ali Shah,CJA Amini,1,0,,,,,,"",""
+ball,1,18.3,Uganda,Riazat Ali Shah,DM Nakrani,CJA Amini,0,0,,,,,,caught,Riazat Ali Shah
+ball,1,18.4,Uganda,F Akankwasa,DM Nakrani,CJA Amini,1,0,,,,,,"",""
+ball,1,18.5,Uganda,DM Nakrani,F Akankwasa,CJA Amini,6,0,,,,,,"",""
+ball,1,18.6,Uganda,DM Nakrani,F Akankwasa,CJA Amini,1,0,,,,,,"",""
+ball,1,19.1,Uganda,DM Nakrani,F Akankwasa,N Vanua,1,0,,,,,,"",""
+ball,1,19.2,Uganda,F Akankwasa,DM Nakrani,N Vanua,1,0,,,,,,"",""
+ball,1,19.3,Uganda,DM Nakrani,F Akankwasa,N Vanua,4,0,,,,,,"",""
+ball,1,19.4,Uganda,DM Nakrani,F Akankwasa,N Vanua,0,0,,,,,,"",""
+ball,1,19.5,Uganda,DM Nakrani,F Akankwasa,N Vanua,0,1,,,1,,,"",""
+ball,1,19.6,Uganda,F Akankwasa,DM Nakrani,N Vanua,4,0,,,,,,"",""
+ball,2,0.1,Papua New Guinea,L Siaka,A Vala,C Kyewuta,2,0,,,,,,"",""
+ball,2,0.2,Papua New Guinea,L Siaka,A Vala,C Kyewuta,0,0,,,,,,"",""
+ball,2,0.3,Papua New Guinea,L Siaka,A Vala,C Kyewuta,6,0,,,,,,"",""
+ball,2,0.4,Papua New Guinea,L Siaka,A Vala,C Kyewuta,1,0,,,,,,"",""
+ball,2,0.5,Papua New Guinea,A Vala,L Siaka,C Kyewuta,0,0,,,,,,"",""
+ball,2,0.6,Papua New Guinea,A Vala,L Siaka,C Kyewuta,1,0,,,,,,"",""
+ball,2,1.1,Papua New Guinea,A Vala,L Siaka,F Nsubuga,0,0,,,,,,"",""
+ball,2,1.2,Papua New Guinea,A Vala,L Siaka,F Nsubuga,0,0,,,,,,"",""
+ball,2,1.3,Papua New Guinea,A Vala,L Siaka,F Nsubuga,0,3,,,,3,,"",""
+ball,2,1.4,Papua New Guinea,L Siaka,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,1.5,Papua New Guinea,L Siaka,A Vala,F Nsubuga,4,0,,,,,,"",""
+ball,2,1.6,Papua New Guinea,L Siaka,A Vala,F Nsubuga,1,0,,,,,,"",""
+ball,2,2.1,Papua New Guinea,L Siaka,A Vala,C Kyewuta,1,0,,,,,,"",""
+ball,2,2.2,Papua New Guinea,A Vala,L Siaka,C Kyewuta,1,0,,,,,,"",""
+ball,2,2.3,Papua New Guinea,L Siaka,A Vala,C Kyewuta,0,4,,,,4,,"",""
+ball,2,2.4,Papua New Guinea,L Siaka,A Vala,C Kyewuta,3,0,,,,,,"",""
+ball,2,2.5,Papua New Guinea,A Vala,L Siaka,C Kyewuta,2,0,,,,,,"",""
+ball,2,2.6,Papua New Guinea,A Vala,L Siaka,C Kyewuta,0,0,,,,,,"",""
+ball,2,3.1,Papua New Guinea,L Siaka,A Vala,F Nsubuga,0,0,,,,,,lbw,L Siaka
+ball,2,3.2,Papua New Guinea,CJA Amini,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.3,Papua New Guinea,CJA Amini,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.4,Papua New Guinea,CJA Amini,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.5,Papua New Guinea,CJA Amini,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.6,Papua New Guinea,CJA Amini,A Vala,F Nsubuga,0,0,,,,,,lbw,CJA Amini
+ball,2,4.1,Papua New Guinea,A Vala,S Bau,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,4.2,Papua New Guinea,S Bau,A Vala,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,4.3,Papua New Guinea,S Bau,A Vala,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,4.4,Papua New Guinea,S Bau,A Vala,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,4.5,Papua New Guinea,A Vala,S Bau,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,4.6,Papua New Guinea,S Bau,A Vala,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,5.1,Papua New Guinea,S Bau,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,5.2,Papua New Guinea,S Bau,A Vala,F Nsubuga,1,0,,,,,,"",""
+ball,2,5.3,Papua New Guinea,A Vala,S Bau,F Nsubuga,0,0,,,,,,"",""
+ball,2,5.4,Papua New Guinea,A Vala,S Bau,F Nsubuga,1,0,,,,,,"",""
+ball,2,5.5,Papua New Guinea,S Bau,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,5.6,Papua New Guinea,S Bau,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,6.1,Papua New Guinea,A Vala,S Bau,F Akankwasa,0,0,,,,,,"",""
+ball,2,6.2,Papua New Guinea,A Vala,S Bau,F Akankwasa,1,0,,,,,,"",""
+ball,2,6.3,Papua New Guinea,S Bau,A Vala,F Akankwasa,4,0,,,,,,"",""
+ball,2,6.4,Papua New Guinea,S Bau,A Vala,F Akankwasa,1,0,,,,,,"",""
+ball,2,6.5,Papua New Guinea,A Vala,S Bau,F Akankwasa,2,0,,,,,,"",""
+ball,2,6.6,Papua New Guinea,A Vala,S Bau,F Akankwasa,0,0,,,,,,"",""
+ball,2,7.1,Papua New Guinea,S Bau,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,7.2,Papua New Guinea,S Bau,A Vala,F Nsubuga,0,0,,,,,,"",""
+ball,2,7.3,Papua New Guinea,S Bau,A Vala,F Nsubuga,1,0,,,,,,"",""
+ball,2,7.4,Papua New Guinea,A Vala,S Bau,F Nsubuga,6,0,,,,,,"",""
+ball,2,7.5,Papua New Guinea,A Vala,S Bau,F Nsubuga,1,0,,,,,,"",""
+ball,2,7.6,Papua New Guinea,S Bau,A Vala,F Nsubuga,1,0,,,,,,"",""
+ball,2,8.1,Papua New Guinea,S Bau,A Vala,F Akankwasa,1,0,,,,,,"",""
+ball,2,8.2,Papua New Guinea,A Vala,S Bau,F Akankwasa,0,0,,,,,,"",""
+ball,2,8.3,Papua New Guinea,A Vala,S Bau,F Akankwasa,2,0,,,,,,"",""
+ball,2,8.4,Papua New Guinea,A Vala,S Bau,F Akankwasa,6,0,,,,,,"",""
+ball,2,8.5,Papua New Guinea,A Vala,S Bau,F Akankwasa,1,0,,,,,,"",""
+ball,2,8.6,Papua New Guinea,S Bau,A Vala,F Akankwasa,6,0,,,,,,"",""
+ball,2,9.1,Papua New Guinea,A Vala,S Bau,Riazat Ali Shah,6,0,,,,,,"",""
+ball,2,9.2,Papua New Guinea,A Vala,S Bau,Riazat Ali Shah,2,0,,,,,,"",""
+ball,2,9.3,Papua New Guinea,A Vala,S Bau,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,9.4,Papua New Guinea,S Bau,A Vala,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,9.5,Papua New Guinea,A Vala,S Bau,Riazat Ali Shah,4,0,,,,,,"",""
+ball,2,9.6,Papua New Guinea,A Vala,S Bau,Riazat Ali Shah,4,0,,,,,,"",""
+ball,2,10.1,Papua New Guinea,S Bau,A Vala,DM Nakrani,0,0,,,,,,"",""
+ball,2,10.2,Papua New Guinea,S Bau,A Vala,DM Nakrani,1,0,,,,,,"",""
+ball,2,10.3,Papua New Guinea,A Vala,S Bau,DM Nakrani,1,0,,,,,,"",""
+ball,2,10.4,Papua New Guinea,S Bau,A Vala,DM Nakrani,1,0,,,,,,"",""
+ball,2,10.5,Papua New Guinea,A Vala,S Bau,DM Nakrani,1,0,,,,,,"",""
+ball,2,10.6,Papua New Guinea,S Bau,A Vala,DM Nakrani,1,0,,,,,,"",""
+ball,2,11.1,Papua New Guinea,S Bau,A Vala,K Waiswa,0,0,,,,,,"",""
+ball,2,11.2,Papua New Guinea,S Bau,A Vala,K Waiswa,0,0,,,,,,"",""
+ball,2,11.3,Papua New Guinea,S Bau,A Vala,K Waiswa,4,0,,,,,,"",""
+ball,2,11.4,Papua New Guinea,S Bau,A Vala,K Waiswa,1,0,,,,,,"",""
+ball,2,11.5,Papua New Guinea,A Vala,S Bau,K Waiswa,1,0,,,,,,"",""
+ball,2,11.6,Papua New Guinea,S Bau,A Vala,K Waiswa,1,0,,,,,,"",""
+ball,2,12.1,Papua New Guinea,S Bau,A Vala,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.2,Papua New Guinea,A Vala,S Bau,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.3,Papua New Guinea,S Bau,A Vala,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.4,Papua New Guinea,A Vala,S Bau,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.5,Papua New Guinea,S Bau,A Vala,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.6,Papua New Guinea,A Vala,S Bau,DM Nakrani,1,0,,,,,,"",""
+ball,2,13.1,Papua New Guinea,A Vala,S Bau,K Waiswa,4,0,,,,,,"",""
+ball,2,13.2,Papua New Guinea,A Vala,S Bau,K Waiswa,6,0,,,,,,"",""
+ball,2,13.3,Papua New Guinea,A Vala,S Bau,K Waiswa,6,0,,,,,,"",""
+ball,2,13.4,Papua New Guinea,A Vala,S Bau,K Waiswa,2,0,,,,,,"",""
+ball,2,13.5,Papua New Guinea,A Vala,S Bau,K Waiswa,6,0,,,,,,"",""
+ball,2,13.6,Papua New Guinea,A Vala,S Bau,K Waiswa,1,0,,,,,,"",""
+ball,2,14.1,Papua New Guinea,A Vala,S Bau,H Ssenyondo,0,1,1,,,,,"",""
+ball,2,14.2,Papua New Guinea,A Vala,S Bau,H Ssenyondo,4,0,,,,,,"",""
+ball,2,14.3,Papua New Guinea,A Vala,S Bau,H Ssenyondo,1,0,,,,,,"",""
+ball,2,14.4,Papua New Guinea,S Bau,A Vala,H Ssenyondo,1,0,,,,,,"",""
+ball,2,14.5,Papua New Guinea,A Vala,S Bau,H Ssenyondo,4,0,,,,,,"",""
+ball,2,14.6,Papua New Guinea,A Vala,S Bau,H Ssenyondo,1,0,,,,,,"",""
+ball,2,14.7,Papua New Guinea,S Bau,A Vala,H Ssenyondo,1,0,,,,,,"",""
+ball,2,15.1,Papua New Guinea,S Bau,A Vala,C Kyewuta,1,0,,,,,,"",""
+ball,2,15.2,Papua New Guinea,A Vala,S Bau,C Kyewuta,4,0,,,,,,"",""
+ball,2,15.3,Papua New Guinea,A Vala,S Bau,C Kyewuta,4,0,,,,,,"",""
+ball,2,15.4,Papua New Guinea,A Vala,S Bau,C Kyewuta,1,0,,,,,,"",""
+ball,2,15.5,Papua New Guinea,S Bau,A Vala,C Kyewuta,0,0,,,,,,"",""
+ball,2,15.6,Papua New Guinea,S Bau,A Vala,C Kyewuta,0,0,,,,,,"",""
+ball,2,16.1,Papua New Guinea,A Vala,S Bau,DM Nakrani,0,1,,,1,,,"",""
+ball,2,16.2,Papua New Guinea,S Bau,A Vala,DM Nakrani,6,0,,,,,,"",""
+ball,2,16.3,Papua New Guinea,S Bau,A Vala,DM Nakrani,0,0,,,,,,"",""
+ball,2,16.4,Papua New Guinea,S Bau,A Vala,DM Nakrani,2,0,,,,,,"",""

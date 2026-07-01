@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Tanzania
+info,gender,male
+info,season,2025/26
+info,date,2025/10/02
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,JJ Smit
+info,umpire,BP Jele
+info,umpire,L Rusere
+info,reserve_umpire,A Louw
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_runs,63
+info,player,Namibia,MB Kruger
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,L Steenkamp
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,ZE Green
+info,player,Namibia,JI de Villiers
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,A Augastin
+info,player,Tanzania,MS Maker
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,K Juma
+info,player,Tanzania,S Selvaraj
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,K Nassoro
+info,registry,people,A Augastin,056e3558
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JI de Villiers,3847ec84
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Steenkamp,8bd9fd13
+info,registry,people,LS Barkania,073126d6
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MS Maker,14318ae4
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,S Selvaraj,f70f8dbb
+info,registry,people,SA Jumbe,91056862
+info,registry,people,ZE Green,8716233e
+ball,1,0.1,Namibia,MB Kruger,JN Frylinck,K Juma,0,0,,,,,,"",""
+ball,1,0.2,Namibia,MB Kruger,JN Frylinck,K Juma,4,0,,,,,,"",""
+ball,1,0.3,Namibia,MB Kruger,JN Frylinck,K Juma,1,0,,,,,,"",""
+ball,1,0.4,Namibia,JN Frylinck,MB Kruger,K Juma,0,1,,,,1,,"",""
+ball,1,0.5,Namibia,MB Kruger,JN Frylinck,K Juma,0,0,,,,,,"",""
+ball,1,0.6,Namibia,MB Kruger,JN Frylinck,K Juma,4,0,,,,,,"",""
+ball,1,1.1,Namibia,JN Frylinck,MB Kruger,A Augastin,0,0,,,,,,bowled,JN Frylinck
+ball,1,1.2,Namibia,JN Loftie-Eaton,MB Kruger,A Augastin,1,0,,,,,,"",""
+ball,1,1.3,Namibia,MB Kruger,JN Loftie-Eaton,A Augastin,6,0,,,,,,"",""
+ball,1,1.4,Namibia,MB Kruger,JN Loftie-Eaton,A Augastin,1,0,,,,,,"",""
+ball,1,1.5,Namibia,JN Loftie-Eaton,MB Kruger,A Augastin,0,0,,,,,,"",""
+ball,1,1.6,Namibia,JN Loftie-Eaton,MB Kruger,A Augastin,6,0,,,,,,"",""
+ball,1,2.1,Namibia,MB Kruger,JN Loftie-Eaton,K Juma,0,0,,,,,,"",""
+ball,1,2.2,Namibia,MB Kruger,JN Loftie-Eaton,K Juma,2,0,,,,,,"",""
+ball,1,2.3,Namibia,MB Kruger,JN Loftie-Eaton,K Juma,0,0,,,,,,"",""
+ball,1,2.4,Namibia,MB Kruger,JN Loftie-Eaton,K Juma,4,0,,,,,,"",""
+ball,1,2.5,Namibia,MB Kruger,JN Loftie-Eaton,K Juma,2,0,,,,,,"",""
+ball,1,2.6,Namibia,MB Kruger,JN Loftie-Eaton,K Juma,0,0,,,,,,"",""
+ball,1,3.1,Namibia,JN Loftie-Eaton,MB Kruger,SA Jumbe,0,0,,,,,,"",""
+ball,1,3.2,Namibia,JN Loftie-Eaton,MB Kruger,SA Jumbe,3,0,,,,,,"",""
+ball,1,3.3,Namibia,MB Kruger,JN Loftie-Eaton,SA Jumbe,4,0,,,,,,"",""
+ball,1,3.4,Namibia,MB Kruger,JN Loftie-Eaton,SA Jumbe,0,0,,,,,,caught,MB Kruger
+ball,1,3.5,Namibia,L Steenkamp,JN Loftie-Eaton,SA Jumbe,0,0,,,,,,"",""
+ball,1,3.6,Namibia,L Steenkamp,JN Loftie-Eaton,SA Jumbe,1,0,,,,,,"",""
+ball,1,4.1,Namibia,L Steenkamp,JN Loftie-Eaton,AM Kimote,0,0,,,,,,caught and bowled,L Steenkamp
+ball,1,4.2,Namibia,MG Erasmus,JN Loftie-Eaton,AM Kimote,1,0,,,,,,"",""
+ball,1,4.3,Namibia,JN Loftie-Eaton,MG Erasmus,AM Kimote,0,0,,,,,,"",""
+ball,1,4.4,Namibia,JN Loftie-Eaton,MG Erasmus,AM Kimote,0,0,,,,,,caught,JN Loftie-Eaton
+ball,1,4.5,Namibia,JJ Smit,MG Erasmus,AM Kimote,1,0,,,,,,"",""
+ball,1,4.6,Namibia,MG Erasmus,JJ Smit,AM Kimote,0,0,,,,,,"",""
+ball,1,5.1,Namibia,JJ Smit,MG Erasmus,SA Jumbe,0,0,,,,,,"",""
+ball,1,5.2,Namibia,JJ Smit,MG Erasmus,SA Jumbe,2,0,,,,,,"",""
+ball,1,5.3,Namibia,JJ Smit,MG Erasmus,SA Jumbe,0,4,,,,4,,"",""
+ball,1,5.4,Namibia,JJ Smit,MG Erasmus,SA Jumbe,0,0,,,,,,"",""
+ball,1,5.5,Namibia,JJ Smit,MG Erasmus,SA Jumbe,0,0,,,,,,"",""
+ball,1,5.6,Namibia,JJ Smit,MG Erasmus,SA Jumbe,0,0,,,,,,"",""
+ball,1,6.1,Namibia,MG Erasmus,JJ Smit,S Selvaraj,1,0,,,,,,"",""
+ball,1,6.2,Namibia,JJ Smit,MG Erasmus,S Selvaraj,0,0,,,,,,"",""
+ball,1,6.3,Namibia,JJ Smit,MG Erasmus,S Selvaraj,1,0,,,,,,"",""
+ball,1,6.4,Namibia,MG Erasmus,JJ Smit,S Selvaraj,0,0,,,,,,"",""
+ball,1,6.5,Namibia,MG Erasmus,JJ Smit,S Selvaraj,4,0,,,,,,"",""
+ball,1,6.6,Namibia,MG Erasmus,JJ Smit,S Selvaraj,0,0,,,,,,"",""
+ball,1,7.1,Namibia,JJ Smit,MG Erasmus,LS Barkania,2,0,,,,,,"",""
+ball,1,7.2,Namibia,JJ Smit,MG Erasmus,LS Barkania,1,0,,,,,,"",""
+ball,1,7.3,Namibia,MG Erasmus,JJ Smit,LS Barkania,0,0,,,,,,"",""
+ball,1,7.4,Namibia,MG Erasmus,JJ Smit,LS Barkania,1,0,,,,,,"",""
+ball,1,7.5,Namibia,JJ Smit,MG Erasmus,LS Barkania,0,0,,,,,,"",""
+ball,1,7.6,Namibia,JJ Smit,MG Erasmus,LS Barkania,1,0,,,,,,"",""
+ball,1,8.1,Namibia,JJ Smit,MG Erasmus,S Selvaraj,0,0,,,,,,"",""
+ball,1,8.2,Namibia,JJ Smit,MG Erasmus,S Selvaraj,1,0,,,,,,"",""
+ball,1,8.3,Namibia,MG Erasmus,JJ Smit,S Selvaraj,2,0,,,,,,"",""
+ball,1,8.4,Namibia,MG Erasmus,JJ Smit,S Selvaraj,2,0,,,,,,"",""
+ball,1,8.5,Namibia,MG Erasmus,JJ Smit,S Selvaraj,1,0,,,,,,"",""
+ball,1,8.6,Namibia,JJ Smit,MG Erasmus,S Selvaraj,0,0,,,,,,"",""
+ball,1,9.1,Namibia,MG Erasmus,JJ Smit,LS Barkania,0,0,,,,,,"",""
+ball,1,9.2,Namibia,MG Erasmus,JJ Smit,LS Barkania,2,0,,,,,,"",""
+ball,1,9.3,Namibia,MG Erasmus,JJ Smit,LS Barkania,1,0,,,,,,"",""
+ball,1,9.4,Namibia,JJ Smit,MG Erasmus,LS Barkania,2,0,,,,,,"",""
+ball,1,9.5,Namibia,JJ Smit,MG Erasmus,LS Barkania,1,0,,,,,,"",""
+ball,1,9.6,Namibia,MG Erasmus,JJ Smit,LS Barkania,4,0,,,,,,"",""
+ball,1,10.1,Namibia,JJ Smit,MG Erasmus,S Selvaraj,1,0,,,,,,"",""
+ball,1,10.2,Namibia,MG Erasmus,JJ Smit,S Selvaraj,0,0,,,,,,"",""
+ball,1,10.3,Namibia,MG Erasmus,JJ Smit,S Selvaraj,1,0,,,,,,"",""
+ball,1,10.4,Namibia,JJ Smit,MG Erasmus,S Selvaraj,1,0,,,,,,"",""
+ball,1,10.5,Namibia,MG Erasmus,JJ Smit,S Selvaraj,1,1,,1,,,,"",""
+ball,1,10.6,Namibia,JJ Smit,MG Erasmus,S Selvaraj,1,0,,,,,,"",""
+ball,1,10.7,Namibia,MG Erasmus,JJ Smit,S Selvaraj,0,0,,,,,,"",""
+ball,1,11.1,Namibia,JJ Smit,MG Erasmus,A Augastin,1,0,,,,,,"",""
+ball,1,11.2,Namibia,MG Erasmus,JJ Smit,A Augastin,2,0,,,,,,"",""
+ball,1,11.3,Namibia,MG Erasmus,JJ Smit,A Augastin,2,0,,,,,,"",""
+ball,1,11.4,Namibia,MG Erasmus,JJ Smit,A Augastin,0,0,,,,,,"",""
+ball,1,11.5,Namibia,MG Erasmus,JJ Smit,A Augastin,2,0,,,,,,"",""
+ball,1,11.6,Namibia,MG Erasmus,JJ Smit,A Augastin,4,0,,,,,,"",""
+ball,1,12.1,Namibia,JJ Smit,MG Erasmus,SA Jumbe,1,0,,,,,,"",""
+ball,1,12.2,Namibia,MG Erasmus,JJ Smit,SA Jumbe,0,0,,,,,,"",""
+ball,1,12.3,Namibia,MG Erasmus,JJ Smit,SA Jumbe,0,0,,,,,,"",""
+ball,1,12.4,Namibia,MG Erasmus,JJ Smit,SA Jumbe,0,0,,,,,,"",""
+ball,1,12.5,Namibia,MG Erasmus,JJ Smit,SA Jumbe,1,0,,,,,,"",""
+ball,1,12.6,Namibia,JJ Smit,MG Erasmus,SA Jumbe,1,0,,,,,,"",""
+ball,1,13.1,Namibia,JJ Smit,MG Erasmus,LS Barkania,0,0,,,,,,"",""
+ball,1,13.2,Namibia,JJ Smit,MG Erasmus,LS Barkania,2,0,,,,,,"",""
+ball,1,13.3,Namibia,JJ Smit,MG Erasmus,LS Barkania,1,0,,,,,,"",""
+ball,1,13.4,Namibia,MG Erasmus,JJ Smit,LS Barkania,4,0,,,,,,"",""
+ball,1,13.5,Namibia,MG Erasmus,JJ Smit,LS Barkania,4,0,,,,,,"",""
+ball,1,13.6,Namibia,MG Erasmus,JJ Smit,LS Barkania,1,0,,,,,,"",""
+ball,1,14.1,Namibia,MG Erasmus,JJ Smit,AM Kimote,2,0,,,,,,"",""
+ball,1,14.2,Namibia,MG Erasmus,JJ Smit,AM Kimote,0,0,,,,,,"",""
+ball,1,14.3,Namibia,MG Erasmus,JJ Smit,AM Kimote,3,0,,,,,,"",""
+ball,1,14.4,Namibia,JJ Smit,MG Erasmus,AM Kimote,1,0,,,,,,"",""
+ball,1,14.5,Namibia,MG Erasmus,JJ Smit,AM Kimote,0,0,,,,,,"",""
+ball,1,14.6,Namibia,MG Erasmus,JJ Smit,AM Kimote,1,0,,,,,,"",""
+ball,1,15.1,Namibia,MG Erasmus,JJ Smit,SA Jumbe,4,0,,,,,,"",""
+ball,1,15.2,Namibia,MG Erasmus,JJ Smit,SA Jumbe,1,0,,,,,,"",""
+ball,1,15.3,Namibia,JJ Smit,MG Erasmus,SA Jumbe,0,0,,,,,,"",""
+ball,1,15.4,Namibia,JJ Smit,MG Erasmus,SA Jumbe,1,0,,,,,,"",""
+ball,1,15.5,Namibia,MG Erasmus,JJ Smit,SA Jumbe,1,0,,,,,,"",""
+ball,1,15.6,Namibia,JJ Smit,MG Erasmus,SA Jumbe,6,0,,,,,,"",""
+ball,1,16.1,Namibia,MG Erasmus,JJ Smit,K Juma,2,0,,,,,,"",""
+ball,1,16.2,Namibia,MG Erasmus,JJ Smit,K Juma,0,0,,,,,,caught,MG Erasmus
+ball,1,16.3,Namibia,R Trumpelmann,JJ Smit,K Juma,0,0,,,,,,lbw,R Trumpelmann
+ball,1,16.4,Namibia,ZE Green,JJ Smit,K Juma,0,0,,,,,,"",""
+ball,1,16.5,Namibia,ZE Green,JJ Smit,K Juma,1,0,,,,,,"",""
+ball,1,16.6,Namibia,JJ Smit,ZE Green,K Juma,1,0,,,,,,"",""
+ball,1,17.1,Namibia,JJ Smit,ZE Green,AM Kimote,4,0,,,,,,"",""
+ball,1,17.2,Namibia,JJ Smit,ZE Green,AM Kimote,0,0,,,,,,"",""
+ball,1,17.3,Namibia,JJ Smit,ZE Green,AM Kimote,2,0,,,,,,"",""
+ball,1,17.4,Namibia,JJ Smit,ZE Green,AM Kimote,2,0,,,,,,"",""
+ball,1,17.5,Namibia,JJ Smit,ZE Green,AM Kimote,1,0,,,,,,"",""
+ball,1,17.6,Namibia,ZE Green,JJ Smit,AM Kimote,1,0,,,,,,"",""
+ball,1,18.1,Namibia,ZE Green,JJ Smit,K Juma,4,0,,,,,,"",""
+ball,1,18.2,Namibia,ZE Green,JJ Smit,K Juma,0,0,,,,,,"",""
+ball,1,18.3,Namibia,ZE Green,JJ Smit,K Juma,0,0,,,,,,"",""
+ball,1,18.4,Namibia,ZE Green,JJ Smit,K Juma,0,0,,,,,,"",""
+ball,1,18.5,Namibia,ZE Green,JJ Smit,K Juma,0,2,,,,2,,"",""
+ball,1,18.6,Namibia,ZE Green,JJ Smit,K Juma,4,0,,,,,,"",""
+ball,1,19.1,Namibia,JJ Smit,ZE Green,AM Kimote,6,0,,,,,,"",""
+ball,1,19.2,Namibia,JJ Smit,ZE Green,AM Kimote,2,0,,,,,,"",""
+ball,1,19.3,Namibia,JJ Smit,ZE Green,AM Kimote,6,0,,,,,,"",""
+ball,1,19.4,Namibia,JJ Smit,ZE Green,AM Kimote,6,0,,,,,,"",""
+ball,1,19.5,Namibia,JJ Smit,ZE Green,AM Kimote,2,0,,,,,,"",""
+ball,1,19.6,Namibia,JJ Smit,ZE Green,AM Kimote,0,1,,,1,,,"",""
+ball,2,0.1,Tanzania,Arun Yadav,AR Patwa,BM Scholtz,0,0,,,,,,"",""
+ball,2,0.2,Tanzania,Arun Yadav,AR Patwa,BM Scholtz,0,0,,,,,,"",""
+ball,2,0.3,Tanzania,Arun Yadav,AR Patwa,BM Scholtz,1,0,,,,,,"",""
+ball,2,0.4,Tanzania,AR Patwa,Arun Yadav,BM Scholtz,1,0,,,,,,"",""
+ball,2,0.5,Tanzania,Arun Yadav,AR Patwa,BM Scholtz,1,0,,,,,,"",""
+ball,2,0.6,Tanzania,AR Patwa,Arun Yadav,BM Scholtz,2,0,,,,,,"",""
+ball,2,1.1,Tanzania,Arun Yadav,AR Patwa,JJ Smit,0,0,,,,,,"",""
+ball,2,1.2,Tanzania,Arun Yadav,AR Patwa,JJ Smit,4,0,,,,,,"",""
+ball,2,1.3,Tanzania,Arun Yadav,AR Patwa,JJ Smit,0,0,,,,,,"",""
+ball,2,1.4,Tanzania,Arun Yadav,AR Patwa,JJ Smit,0,0,,,,,,"",""
+ball,2,1.5,Tanzania,Arun Yadav,AR Patwa,JJ Smit,0,0,,,,,,"",""
+ball,2,1.6,Tanzania,Arun Yadav,AR Patwa,JJ Smit,1,0,,,,,,"",""
+ball,2,2.1,Tanzania,Arun Yadav,AR Patwa,R Trumpelmann,0,0,,,,,,"",""
+ball,2,2.2,Tanzania,Arun Yadav,AR Patwa,R Trumpelmann,6,0,,,,,,"",""
+ball,2,2.3,Tanzania,Arun Yadav,AR Patwa,R Trumpelmann,0,0,,,,,,"",""
+ball,2,2.4,Tanzania,Arun Yadav,AR Patwa,R Trumpelmann,1,0,,,,,,"",""
+ball,2,2.5,Tanzania,AR Patwa,Arun Yadav,R Trumpelmann,0,0,,,,,,"",""
+ball,2,2.6,Tanzania,AR Patwa,Arun Yadav,R Trumpelmann,0,0,,,,,,"",""
+ball,2,3.1,Tanzania,Arun Yadav,AR Patwa,B Shikongo,0,1,,,,1,,"",""
+ball,2,3.2,Tanzania,AR Patwa,Arun Yadav,B Shikongo,0,0,,,,,,"",""
+ball,2,3.3,Tanzania,AR Patwa,Arun Yadav,B Shikongo,0,0,,,,,,"",""
+ball,2,3.4,Tanzania,AR Patwa,Arun Yadav,B Shikongo,0,0,,,,,,"",""
+ball,2,3.5,Tanzania,AR Patwa,Arun Yadav,B Shikongo,0,1,,,,1,,"",""
+ball,2,3.6,Tanzania,Arun Yadav,AR Patwa,B Shikongo,2,0,,,,,,"",""
+ball,2,4.1,Tanzania,AR Patwa,Arun Yadav,R Trumpelmann,4,0,,,,,,"",""
+ball,2,4.2,Tanzania,AR Patwa,Arun Yadav,R Trumpelmann,0,0,,,,,,"",""
+ball,2,4.3,Tanzania,AR Patwa,Arun Yadav,R Trumpelmann,1,0,,,,,,"",""
+ball,2,4.4,Tanzania,Arun Yadav,AR Patwa,R Trumpelmann,0,0,,,,,,"",""
+ball,2,4.5,Tanzania,Arun Yadav,AR Patwa,R Trumpelmann,1,0,,,,,,"",""
+ball,2,4.6,Tanzania,AR Patwa,Arun Yadav,R Trumpelmann,1,0,,,,,,"",""
+ball,2,5.1,Tanzania,AR Patwa,Arun Yadav,JJ Smit,0,0,,,,,,"",""
+ball,2,5.2,Tanzania,AR Patwa,Arun Yadav,JJ Smit,1,0,,,,,,"",""
+ball,2,5.3,Tanzania,Arun Yadav,AR Patwa,JJ Smit,0,0,,,,,,caught,Arun Yadav
+ball,2,5.4,Tanzania,DA Mehta,AR Patwa,JJ Smit,0,0,,,,,,"",""
+ball,2,5.5,Tanzania,DA Mehta,AR Patwa,JJ Smit,0,0,,,,,,caught,DA Mehta
+ball,2,5.6,Tanzania,A Augastin,AR Patwa,JJ Smit,0,0,,,,,,"",""
+ball,2,6.1,Tanzania,AR Patwa,A Augastin,BM Scholtz,0,0,,,,,,"",""
+ball,2,6.2,Tanzania,AR Patwa,A Augastin,BM Scholtz,1,0,,,,,,"",""
+ball,2,6.3,Tanzania,A Augastin,AR Patwa,BM Scholtz,0,0,,,,,,"",""
+ball,2,6.4,Tanzania,A Augastin,AR Patwa,BM Scholtz,1,0,,,,,,"",""
+ball,2,6.5,Tanzania,AR Patwa,A Augastin,BM Scholtz,1,0,,,,,,"",""
+ball,2,6.6,Tanzania,A Augastin,AR Patwa,BM Scholtz,1,0,,,,,,"",""
+ball,2,7.1,Tanzania,A Augastin,AR Patwa,MG Erasmus,1,0,,,,,,"",""
+ball,2,7.2,Tanzania,AR Patwa,A Augastin,MG Erasmus,1,0,,,,,,"",""
+ball,2,7.3,Tanzania,A Augastin,AR Patwa,MG Erasmus,0,0,,,,,,"",""
+ball,2,7.4,Tanzania,A Augastin,AR Patwa,MG Erasmus,2,0,,,,,,"",""
+ball,2,7.5,Tanzania,A Augastin,AR Patwa,MG Erasmus,1,0,,,,,,"",""
+ball,2,7.6,Tanzania,AR Patwa,A Augastin,MG Erasmus,1,0,,,,,,"",""
+ball,2,8.1,Tanzania,AR Patwa,A Augastin,BM Scholtz,0,0,,,,,,"",""
+ball,2,8.2,Tanzania,AR Patwa,A Augastin,BM Scholtz,1,0,,,,,,"",""
+ball,2,8.3,Tanzania,A Augastin,AR Patwa,BM Scholtz,1,0,,,,,,"",""
+ball,2,8.4,Tanzania,AR Patwa,A Augastin,BM Scholtz,0,0,,,,,,"",""
+ball,2,8.5,Tanzania,AR Patwa,A Augastin,BM Scholtz,6,0,,,,,,"",""
+ball,2,8.6,Tanzania,AR Patwa,A Augastin,BM Scholtz,0,0,,,,,,"",""
+ball,2,9.1,Tanzania,A Augastin,AR Patwa,MG Erasmus,1,0,,,,,,"",""
+ball,2,9.2,Tanzania,AR Patwa,A Augastin,MG Erasmus,0,0,,,,,,"",""
+ball,2,9.3,Tanzania,AR Patwa,A Augastin,MG Erasmus,1,0,,,,,,"",""
+ball,2,9.4,Tanzania,A Augastin,AR Patwa,MG Erasmus,1,0,,,,,,"",""
+ball,2,9.5,Tanzania,AR Patwa,A Augastin,MG Erasmus,4,0,,,,,,"",""
+ball,2,9.6,Tanzania,AR Patwa,A Augastin,MG Erasmus,1,0,,,,,,"",""
+ball,2,10.1,Tanzania,AR Patwa,A Augastin,B Shikongo,4,0,,,,,,"",""
+ball,2,10.2,Tanzania,AR Patwa,A Augastin,B Shikongo,0,0,,,,,,"",""
+ball,2,10.3,Tanzania,AR Patwa,A Augastin,B Shikongo,0,0,,,,,,caught,AR Patwa
+ball,2,10.4,Tanzania,MS Maker,A Augastin,B Shikongo,0,0,,,,,,"",""
+ball,2,10.5,Tanzania,MS Maker,A Augastin,B Shikongo,0,0,,,,,,"",""
+ball,2,10.6,Tanzania,MS Maker,A Augastin,B Shikongo,1,0,,,,,,"",""
+ball,2,11.1,Tanzania,MS Maker,A Augastin,JI de Villiers,0,0,,,,,,"",""
+ball,2,11.2,Tanzania,MS Maker,A Augastin,JI de Villiers,1,0,,,,,,"",""
+ball,2,11.3,Tanzania,A Augastin,MS Maker,JI de Villiers,1,0,,,,,,"",""
+ball,2,11.4,Tanzania,MS Maker,A Augastin,JI de Villiers,6,0,,,,,,"",""
+ball,2,11.5,Tanzania,MS Maker,A Augastin,JI de Villiers,1,0,,,,,,"",""
+ball,2,11.6,Tanzania,A Augastin,MS Maker,JI de Villiers,1,0,,,,,,"",""
+ball,2,12.1,Tanzania,A Augastin,MS Maker,B Shikongo,0,0,,,,,,bowled,A Augastin
+ball,2,12.2,Tanzania,AP Rajeevan,MS Maker,B Shikongo,1,0,,,,,,"",""
+ball,2,12.3,Tanzania,MS Maker,AP Rajeevan,B Shikongo,2,0,,,,,,"",""
+ball,2,12.4,Tanzania,MS Maker,AP Rajeevan,B Shikongo,4,0,,,,,,"",""
+ball,2,12.5,Tanzania,MS Maker,AP Rajeevan,B Shikongo,1,0,,,,,,"",""
+ball,2,12.6,Tanzania,AP Rajeevan,MS Maker,B Shikongo,0,0,,,,,,"",""
+ball,2,13.1,Tanzania,MS Maker,AP Rajeevan,BM Scholtz,0,0,,,,,,"",""
+ball,2,13.2,Tanzania,MS Maker,AP Rajeevan,BM Scholtz,0,1,1,,,,,"",""
+ball,2,13.3,Tanzania,MS Maker,AP Rajeevan,BM Scholtz,1,0,,,,,,"",""
+ball,2,13.4,Tanzania,AP Rajeevan,MS Maker,BM Scholtz,2,0,,,,,,"",""
+ball,2,13.5,Tanzania,AP Rajeevan,MS Maker,BM Scholtz,1,0,,,,,,"",""
+ball,2,13.6,Tanzania,MS Maker,AP Rajeevan,BM Scholtz,0,1,1,,,,,"",""
+ball,2,13.7,Tanzania,MS Maker,AP Rajeevan,BM Scholtz,0,0,,,,,,"",""
+ball,2,13.8,Tanzania,MS Maker,AP Rajeevan,BM Scholtz,1,0,,,,,,"",""
+ball,2,14.1,Tanzania,MS Maker,AP Rajeevan,R Trumpelmann,1,0,,,,,,"",""
+ball,2,14.2,Tanzania,AP Rajeevan,MS Maker,R Trumpelmann,1,0,,,,,,"",""
+ball,2,14.3,Tanzania,MS Maker,AP Rajeevan,R Trumpelmann,0,0,,,,,,"",""
+ball,2,14.4,Tanzania,MS Maker,AP Rajeevan,R Trumpelmann,1,0,,,,,,"",""
+ball,2,14.5,Tanzania,AP Rajeevan,MS Maker,R Trumpelmann,1,0,,,,,,"",""
+ball,2,14.6,Tanzania,MS Maker,AP Rajeevan,R Trumpelmann,0,0,,,,,,"",""
+ball,2,15.1,Tanzania,AP Rajeevan,MS Maker,JJ Smit,0,1,1,,,,,"",""
+ball,2,15.2,Tanzania,AP Rajeevan,MS Maker,JJ Smit,0,0,,,,,,"",""
+ball,2,15.3,Tanzania,AP Rajeevan,MS Maker,JJ Smit,1,0,,,,,,"",""
+ball,2,15.4,Tanzania,MS Maker,AP Rajeevan,JJ Smit,4,0,,,,,,"",""
+ball,2,15.5,Tanzania,MS Maker,AP Rajeevan,JJ Smit,0,0,,,,,,caught,MS Maker
+ball,2,15.6,Tanzania,SA Jumbe,AP Rajeevan,JJ Smit,0,0,,,,,,"",""
+ball,2,15.7,Tanzania,SA Jumbe,AP Rajeevan,JJ Smit,0,0,,,,,,"",""
+ball,2,16.1,Tanzania,AP Rajeevan,SA Jumbe,R Trumpelmann,1,0,,,,,,"",""
+ball,2,16.2,Tanzania,SA Jumbe,AP Rajeevan,R Trumpelmann,0,0,,,,,,caught,SA Jumbe
+ball,2,16.3,Tanzania,AM Kimote,AP Rajeevan,R Trumpelmann,1,0,,,,,,"",""
+ball,2,16.4,Tanzania,AP Rajeevan,AM Kimote,R Trumpelmann,1,0,,,,,,"",""
+ball,2,16.5,Tanzania,AM Kimote,AP Rajeevan,R Trumpelmann,0,0,,,,,,"",""
+ball,2,16.6,Tanzania,AM Kimote,AP Rajeevan,R Trumpelmann,0,0,,,,,,"",""
+ball,2,17.1,Tanzania,AP Rajeevan,AM Kimote,JJ Smit,0,0,,,,,,"",""
+ball,2,17.2,Tanzania,AP Rajeevan,AM Kimote,JJ Smit,0,0,,,,,,"",""
+ball,2,17.3,Tanzania,AP Rajeevan,AM Kimote,JJ Smit,2,0,,,,,,"",""
+ball,2,17.4,Tanzania,AP Rajeevan,AM Kimote,JJ Smit,0,0,,,,,,"",""
+ball,2,17.5,Tanzania,AP Rajeevan,AM Kimote,JJ Smit,2,0,,,,,,"",""
+ball,2,17.6,Tanzania,AP Rajeevan,AM Kimote,JJ Smit,0,0,,,,,,"",""
+ball,2,18.1,Tanzania,AM Kimote,AP Rajeevan,B Shikongo,4,0,,,,,,"",""
+ball,2,18.2,Tanzania,AM Kimote,AP Rajeevan,B Shikongo,1,0,,,,,,"",""
+ball,2,18.3,Tanzania,AP Rajeevan,AM Kimote,B Shikongo,0,0,,,,,,"",""
+ball,2,18.4,Tanzania,AP Rajeevan,AM Kimote,B Shikongo,0,0,,,,,,"",""
+ball,2,18.5,Tanzania,AP Rajeevan,AM Kimote,B Shikongo,1,0,,,,,,"",""
+ball,2,18.6,Tanzania,AM Kimote,AP Rajeevan,B Shikongo,0,0,,,,,,caught,AM Kimote
+ball,2,19.1,Tanzania,AP Rajeevan,K Juma,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,19.2,Tanzania,K Juma,AP Rajeevan,JN Loftie-Eaton,0,0,,,,,,bowled,K Juma
+ball,2,19.3,Tanzania,S Selvaraj,AP Rajeevan,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,19.4,Tanzania,S Selvaraj,AP Rajeevan,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,19.5,Tanzania,AP Rajeevan,S Selvaraj,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,19.6,Tanzania,AP Rajeevan,S Selvaraj,JN Loftie-Eaton,1,0,,,,,,"",""

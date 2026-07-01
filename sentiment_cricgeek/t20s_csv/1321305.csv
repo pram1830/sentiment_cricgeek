@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Austria
+info,gender,male
+info,season,2022
+info,date,2022/07/08
+info,event,Central Europe Cup
+info,match_number,1
+info,venue,"Scott Page Field, Vinor"
+info,city,Prague
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,Razmal Shigiwal
+info,umpire,A Ganeshan
+info,umpire,RM Eames
+info,winner,Austria
+info,winner_wickets,5
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,G Venkateswaran
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,A Dhingra
+info,player,Luxembourg,WJ Cope
+info,player,Austria,M Simpson-Parker
+info,player,Austria,Mirza Ahsan
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,Habib Ahmadzai
+info,player,Austria,Shahil Momin
+info,player,Austria,MPS Cheema
+info,player,Austria,N Wijesekera
+info,player,Austria,Jaweed Sadran
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Sahel Zadran
+info,player,Austria,Itibarshah Deedar
+info,registry,people,A Dhingra,753ada66
+info,registry,people,A Ganeshan,d72a2d32
+info,registry,people,A Nanda,704e0160
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,G Venkateswaran,a4bcaba7
+info,registry,people,Habib Ahmadzai,fa794790
+info,registry,people,Itibarshah Deedar,711e73ac
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Mees,ab1445ea
+info,registry,people,Jaweed Sadran,c1f05d1d
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,M Simpson-Parker,fecd828e
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,Mirza Ahsan,6b74c13b
+info,registry,people,N Wijesekera,85dcc96d
+info,registry,people,RM Eames,fa1c618e
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,SKS Gill,faef026c
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Shahil Momin,46821fbd
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+info,registry,people,WJ Cope,fb34b0ec
+ball,1,0.1,Luxembourg,TC Barker,G Venkateswaran,Aqib Iqbal,0,1,,,,1,,"",""
+ball,1,0.2,Luxembourg,G Venkateswaran,TC Barker,Aqib Iqbal,0,0,,,,,,"",""
+ball,1,0.3,Luxembourg,G Venkateswaran,TC Barker,Aqib Iqbal,0,1,,,1,,,"",""
+ball,1,0.4,Luxembourg,TC Barker,G Venkateswaran,Aqib Iqbal,0,0,,,,,,"",""
+ball,1,0.5,Luxembourg,TC Barker,G Venkateswaran,Aqib Iqbal,0,0,,,,,,bowled,TC Barker
+ball,1,0.6,Luxembourg,J Mees,G Venkateswaran,Aqib Iqbal,0,0,,,,,,"",""
+ball,1,1.1,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,0,0,,,,,,"",""
+ball,1,1.2,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,0,1,1,,,,,"",""
+ball,1,1.3,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,0,0,,,,,,"",""
+ball,1,1.4,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,0,0,,,,,,"",""
+ball,1,1.5,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,1,0,,,,,,"",""
+ball,1,1.6,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,0,0,,,,,,"",""
+ball,1,1.7,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,0,0,,,,,,"",""
+ball,1,2.1,Luxembourg,G Venkateswaran,J Mees,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,2.2,Luxembourg,J Mees,G Venkateswaran,Aqib Iqbal,4,0,,,,,,"",""
+ball,1,2.3,Luxembourg,J Mees,G Venkateswaran,Aqib Iqbal,0,0,,,,,,"",""
+ball,1,2.4,Luxembourg,J Mees,G Venkateswaran,Aqib Iqbal,2,0,,,,,,"",""
+ball,1,2.5,Luxembourg,J Mees,G Venkateswaran,Aqib Iqbal,4,0,,,,,,"",""
+ball,1,2.6,Luxembourg,J Mees,G Venkateswaran,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,3.1,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,1,0,,,,,,"",""
+ball,1,3.2,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,1,0,,,,,,"",""
+ball,1,3.3,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,0,1,1,,,,,"",""
+ball,1,3.4,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,1,0,,,,,,"",""
+ball,1,3.5,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,0,0,,,,,,"",""
+ball,1,3.6,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,0,0,,,,,,"",""
+ball,1,3.7,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,1,0,,,,,,"",""
+ball,1,4.1,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,4.2,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,4.3,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,4,0,,,,,,"",""
+ball,1,4.4,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,0,1,1,,,,,"",""
+ball,1,4.5,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,1,0,,,,,,"",""
+ball,1,4.6,Luxembourg,J Mees,G Venkateswaran,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,4.7,Luxembourg,J Mees,G Venkateswaran,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,5.1,Luxembourg,G Venkateswaran,J Mees,Sahel Zadran,1,0,,,,,,"",""
+ball,1,5.2,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,0,0,,,,,,"",""
+ball,1,5.3,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,4,0,,,,,,"",""
+ball,1,5.4,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,0,0,,,,,,"",""
+ball,1,5.5,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,0,0,,,,,,"",""
+ball,1,5.6,Luxembourg,J Mees,G Venkateswaran,Sahel Zadran,0,0,,,,,,"",""
+ball,1,6.1,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,4,0,,,,,,"",""
+ball,1,6.2,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,1,0,,,,,,"",""
+ball,1,6.3,Luxembourg,J Mees,G Venkateswaran,Itibarshah Deedar,0,1,,,,1,,"",""
+ball,1,6.4,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,2,0,,,,,,"",""
+ball,1,6.5,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,2,0,,,,,,"",""
+ball,1,6.6,Luxembourg,G Venkateswaran,J Mees,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,7.1,Luxembourg,J Mees,G Venkateswaran,Shahil Momin,2,0,,,,,,"",""
+ball,1,7.2,Luxembourg,J Mees,G Venkateswaran,Shahil Momin,0,0,,,,,,"",""
+ball,1,7.3,Luxembourg,J Mees,G Venkateswaran,Shahil Momin,4,0,,,,,,"",""
+ball,1,7.4,Luxembourg,J Mees,G Venkateswaran,Shahil Momin,0,0,,,,,,"",""
+ball,1,7.5,Luxembourg,J Mees,G Venkateswaran,Shahil Momin,0,0,,,,,,"",""
+ball,1,7.6,Luxembourg,J Mees,G Venkateswaran,Shahil Momin,1,0,,,,,,"",""
+ball,1,8.1,Luxembourg,J Mees,G Venkateswaran,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,8.2,Luxembourg,G Venkateswaran,J Mees,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,8.3,Luxembourg,J Mees,G Venkateswaran,Jaweed Sadran,0,0,,,,,,bowled,J Mees
+ball,1,8.4,Luxembourg,SKS Gill,G Venkateswaran,Jaweed Sadran,0,1,1,,,,,"",""
+ball,1,8.5,Luxembourg,SKS Gill,G Venkateswaran,Jaweed Sadran,4,0,,,,,,"",""
+ball,1,8.6,Luxembourg,SKS Gill,G Venkateswaran,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,8.7,Luxembourg,G Venkateswaran,SKS Gill,Jaweed Sadran,0,1,,,,1,,"",""
+ball,1,9.1,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,0,0,,,,,,"",""
+ball,1,9.2,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,0,0,,,,,,"",""
+ball,1,9.3,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,0,0,,,,,,"",""
+ball,1,9.4,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,1,0,,,,,,"",""
+ball,1,9.5,Luxembourg,SKS Gill,G Venkateswaran,Shahil Momin,2,0,,,,,,"",""
+ball,1,9.6,Luxembourg,SKS Gill,G Venkateswaran,Shahil Momin,0,0,,,,,,"",""
+ball,1,10.1,Luxembourg,G Venkateswaran,SKS Gill,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,10.2,Luxembourg,G Venkateswaran,SKS Gill,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,10.3,Luxembourg,SKS Gill,G Venkateswaran,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,10.4,Luxembourg,SKS Gill,G Venkateswaran,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,10.5,Luxembourg,SKS Gill,G Venkateswaran,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,10.6,Luxembourg,G Venkateswaran,SKS Gill,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,11.1,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,1,0,,,,,,"",""
+ball,1,11.2,Luxembourg,SKS Gill,G Venkateswaran,Shahil Momin,1,0,,,,,,"",""
+ball,1,11.3,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,1,0,,,,,,"",""
+ball,1,11.4,Luxembourg,SKS Gill,G Venkateswaran,Shahil Momin,1,0,,,,,,"",""
+ball,1,11.5,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,0,0,,,,,,"",""
+ball,1,11.6,Luxembourg,G Venkateswaran,SKS Gill,Shahil Momin,0,0,,,,,,caught and bowled,G Venkateswaran
+ball,1,12.1,Luxembourg,SKS Gill,V Vijh,Jaweed Sadran,2,0,,,,,,"",""
+ball,1,12.2,Luxembourg,SKS Gill,V Vijh,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,12.3,Luxembourg,SKS Gill,V Vijh,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,12.4,Luxembourg,V Vijh,SKS Gill,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,12.5,Luxembourg,V Vijh,SKS Gill,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,12.6,Luxembourg,V Vijh,SKS Gill,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,13.1,Luxembourg,V Vijh,SKS Gill,Itibarshah Deedar,0,1,,1,,,,"",""
+ball,1,13.2,Luxembourg,V Vijh,SKS Gill,Itibarshah Deedar,0,1,1,,,,,"",""
+ball,1,13.3,Luxembourg,V Vijh,SKS Gill,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,13.4,Luxembourg,V Vijh,SKS Gill,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,13.5,Luxembourg,V Vijh,SKS Gill,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,13.6,Luxembourg,V Vijh,SKS Gill,Itibarshah Deedar,1,0,,,,,,"",""
+ball,1,13.7,Luxembourg,SKS Gill,V Vijh,Itibarshah Deedar,0,1,1,,,,,"",""
+ball,1,13.8,Luxembourg,SKS Gill,V Vijh,Itibarshah Deedar,1,0,,,,,,"",""
+ball,1,13.9,Luxembourg,V Vijh,SKS Gill,Itibarshah Deedar,0,0,,,,,,"",""
+ball,1,14.1,Luxembourg,SKS Gill,V Vijh,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,14.2,Luxembourg,SKS Gill,V Vijh,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,14.3,Luxembourg,V Vijh,SKS Gill,Jaweed Sadran,0,0,,,,,,caught,V Vijh
+ball,1,14.4,Luxembourg,Anoop Orsu,SKS Gill,Jaweed Sadran,0,0,,,,,,"",""
+ball,1,14.5,Luxembourg,Anoop Orsu,SKS Gill,Jaweed Sadran,0,0,,,,,,bowled,Anoop Orsu
+ball,1,14.6,Luxembourg,J Barker,SKS Gill,Jaweed Sadran,1,0,,,,,,"",""
+ball,1,15.1,Luxembourg,J Barker,SKS Gill,Shahil Momin,0,2,2,,,,,"",""
+ball,1,15.2,Luxembourg,SKS Gill,J Barker,Shahil Momin,4,0,,,,,,"",""
+ball,1,15.3,Luxembourg,SKS Gill,J Barker,Shahil Momin,0,0,,,,,,"",""
+ball,1,15.4,Luxembourg,SKS Gill,J Barker,Shahil Momin,2,0,,,,,,"",""
+ball,1,15.5,Luxembourg,SKS Gill,J Barker,Shahil Momin,0,0,,,,,,"",""
+ball,1,15.6,Luxembourg,SKS Gill,J Barker,Shahil Momin,0,0,,,,,,"",""
+ball,1,15.7,Luxembourg,SKS Gill,J Barker,Shahil Momin,0,0,,,,,,"",""
+ball,1,16.1,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,16.2,Luxembourg,SKS Gill,J Barker,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,16.3,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,16.4,Luxembourg,SKS Gill,J Barker,Aqib Iqbal,0,0,,,,,,"",""
+ball,1,16.5,Luxembourg,SKS Gill,J Barker,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,16.6,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,17.1,Luxembourg,J Barker,SKS Gill,Sahel Zadran,0,1,,,,1,,"",""
+ball,1,17.2,Luxembourg,SKS Gill,J Barker,Sahel Zadran,0,0,,,,,,"",""
+ball,1,17.3,Luxembourg,SKS Gill,J Barker,Sahel Zadran,1,0,,,,,,"",""
+ball,1,17.4,Luxembourg,J Barker,SKS Gill,Sahel Zadran,2,0,,,,,,"",""
+ball,1,17.5,Luxembourg,J Barker,SKS Gill,Sahel Zadran,1,0,,,,,,"",""
+ball,1,17.6,Luxembourg,SKS Gill,J Barker,Sahel Zadran,1,0,,,,,,"",""
+ball,1,18.1,Luxembourg,SKS Gill,J Barker,Aqib Iqbal,1,0,,,,,,"",""
+ball,1,18.2,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,2,0,,,,,,"",""
+ball,1,18.3,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,0,0,,,,,,"",""
+ball,1,18.4,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,2,0,,,,,,"",""
+ball,1,18.5,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,4,0,,,,,,"",""
+ball,1,18.6,Luxembourg,J Barker,SKS Gill,Aqib Iqbal,2,0,,,,,,"",""
+ball,1,19.1,Luxembourg,SKS Gill,J Barker,Itibarshah Deedar,1,0,,,,,,"",""
+ball,1,19.2,Luxembourg,J Barker,SKS Gill,Itibarshah Deedar,0,1,1,,,,,"",""
+ball,1,19.3,Luxembourg,J Barker,SKS Gill,Itibarshah Deedar,0,1,1,,,,,"",""
+ball,1,19.4,Luxembourg,J Barker,SKS Gill,Itibarshah Deedar,2,0,,,,,,"",""
+ball,1,19.5,Luxembourg,J Barker,SKS Gill,Itibarshah Deedar,1,0,,,,,,"",""
+ball,1,19.6,Luxembourg,SKS Gill,J Barker,Itibarshah Deedar,1,0,,,,,,"",""
+ball,1,19.7,Luxembourg,J Barker,SKS Gill,Itibarshah Deedar,2,0,,,,,,"",""
+ball,1,19.8,Luxembourg,J Barker,SKS Gill,Itibarshah Deedar,0,1,,,,1,,"",""
+ball,2,0.1,Austria,M Simpson-Parker,Mirza Ahsan,WJ Cope,0,0,,,,,,"",""
+ball,2,0.2,Austria,M Simpson-Parker,Mirza Ahsan,WJ Cope,1,0,,,,,,"",""
+ball,2,0.3,Austria,Mirza Ahsan,M Simpson-Parker,WJ Cope,0,1,1,,,,,"",""
+ball,2,0.4,Austria,Mirza Ahsan,M Simpson-Parker,WJ Cope,0,0,,,,,,caught,Mirza Ahsan
+ball,2,0.5,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,0,0,,,,,,"",""
+ball,2,0.6,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,4,0,,,,,,"",""
+ball,2,0.7,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,0,0,,,,,,"",""
+ball,2,1.1,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,0,1,1,,,,,"",""
+ball,2,1.2,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,0,0,,,,,,"",""
+ball,2,1.3,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,1,0,,,,,,"",""
+ball,2,1.4,Austria,Razmal Shigiwal,M Simpson-Parker,A Nanda,0,1,1,,,,,"",""
+ball,2,1.5,Austria,Razmal Shigiwal,M Simpson-Parker,A Nanda,0,1,1,,,,,"",""
+ball,2,1.6,Austria,Razmal Shigiwal,M Simpson-Parker,A Nanda,2,0,,,,,,"",""
+ball,2,1.7,Austria,Razmal Shigiwal,M Simpson-Parker,A Nanda,2,0,,,,,,"",""
+ball,2,1.8,Austria,Razmal Shigiwal,M Simpson-Parker,A Nanda,0,0,,,,,,"",""
+ball,2,1.9,Austria,Razmal Shigiwal,M Simpson-Parker,A Nanda,1,0,,,,,,"",""
+ball,2,2.1,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,2,0,,,,,,"",""
+ball,2,2.2,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,0,1,1,,,,,"",""
+ball,2,2.3,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,4,0,,,,,,"",""
+ball,2,2.4,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,2,0,,,,,,"",""
+ball,2,2.5,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,1,0,,,,,,"",""
+ball,2,2.6,Austria,M Simpson-Parker,Razmal Shigiwal,WJ Cope,1,0,,,,,,"",""
+ball,2,2.7,Austria,Razmal Shigiwal,M Simpson-Parker,WJ Cope,1,0,,,,,,"",""
+ball,2,3.1,Austria,Razmal Shigiwal,M Simpson-Parker,A Nanda,1,0,,,,,,"",""
+ball,2,3.2,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,0,0,,,,,,"",""
+ball,2,3.3,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,4,0,,,,,,"",""
+ball,2,3.4,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,0,0,,,,,,"",""
+ball,2,3.5,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,0,0,,,,,,"",""
+ball,2,3.6,Austria,M Simpson-Parker,Razmal Shigiwal,A Nanda,1,0,,,,,,"",""
+ball,2,4.1,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,0,0,,,,,,"",""
+ball,2,4.2,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,0,2,2,,,,,"",""
+ball,2,4.3,Austria,Razmal Shigiwal,M Simpson-Parker,A Dhingra,0,1,,,,1,,"",""
+ball,2,4.4,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,1,0,,,,,,"",""
+ball,2,4.5,Austria,Razmal Shigiwal,M Simpson-Parker,A Dhingra,0,1,,,,1,,"",""
+ball,2,4.6,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,0,1,1,,,,,"",""
+ball,2,4.7,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,0,1,1,,,,,"",""
+ball,2,4.8,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,4,0,,,,,,"",""
+ball,2,4.9,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,0,0,,,,,,"",""
+ball,2,5.1,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,1,0,,,,,,"",""
+ball,2,5.2,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,0,0,,,,,,"",""
+ball,2,5.3,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,1,0,,,,,,"",""
+ball,2,5.4,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,1,0,,,,,,"",""
+ball,2,5.5,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,1,0,,,,,,"",""
+ball,2,5.6,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,1,0,,,,,,"",""
+ball,2,6.1,Austria,Razmal Shigiwal,M Simpson-Parker,A Dhingra,1,0,,,,,,"",""
+ball,2,6.2,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,0,0,,,,,,"",""
+ball,2,6.3,Austria,M Simpson-Parker,Razmal Shigiwal,A Dhingra,1,0,,,,,,"",""
+ball,2,6.4,Austria,Razmal Shigiwal,M Simpson-Parker,A Dhingra,2,0,,,,,,"",""
+ball,2,6.5,Austria,Razmal Shigiwal,M Simpson-Parker,A Dhingra,4,0,,,,,,"",""
+ball,2,6.6,Austria,Razmal Shigiwal,M Simpson-Parker,A Dhingra,1,0,,,,,,"",""
+ball,2,7.1,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,0,0,,,,,,"",""
+ball,2,7.2,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,2,0,,,,,,"",""
+ball,2,7.3,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,0,0,,,,,,"",""
+ball,2,7.4,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,1,0,,,,,,"",""
+ball,2,7.5,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,4,0,,,,,,"",""
+ball,2,7.6,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,0,0,,,,,,"",""
+ball,2,8.1,Austria,Razmal Shigiwal,M Simpson-Parker,V Vijh,6,0,,,,,,"",""
+ball,2,8.2,Austria,Razmal Shigiwal,M Simpson-Parker,V Vijh,4,0,,,,,,"",""
+ball,2,8.3,Austria,Razmal Shigiwal,M Simpson-Parker,V Vijh,1,0,,,,,,"",""
+ball,2,8.4,Austria,M Simpson-Parker,Razmal Shigiwal,V Vijh,1,0,,,,,,"",""
+ball,2,8.5,Austria,Razmal Shigiwal,M Simpson-Parker,V Vijh,1,0,,,,,,"",""
+ball,2,8.6,Austria,M Simpson-Parker,Razmal Shigiwal,V Vijh,0,0,,,,,,"",""
+ball,2,9.1,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,1,0,,,,,,"",""
+ball,2,9.2,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,0,0,,,,,,"",""
+ball,2,9.3,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,0,0,,,,,,"",""
+ball,2,9.4,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,0,0,,,,,,"",""
+ball,2,9.5,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,1,0,,,,,,"",""
+ball,2,9.6,Austria,Razmal Shigiwal,M Simpson-Parker,M Dixit,0,1,,,,1,,"",""
+ball,2,10.1,Austria,Razmal Shigiwal,M Simpson-Parker,V Vijh,1,0,,,,,,"",""
+ball,2,10.2,Austria,M Simpson-Parker,Razmal Shigiwal,V Vijh,2,0,,,,,,"",""
+ball,2,10.3,Austria,M Simpson-Parker,Razmal Shigiwal,V Vijh,0,0,,,,,,"",""
+ball,2,10.4,Austria,M Simpson-Parker,Razmal Shigiwal,V Vijh,1,0,,,,,,"",""
+ball,2,10.5,Austria,Razmal Shigiwal,M Simpson-Parker,V Vijh,1,0,,,,,,"",""
+ball,2,10.6,Austria,M Simpson-Parker,Razmal Shigiwal,V Vijh,1,0,,,,,,"",""
+ball,2,11.1,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,0,0,,,,,,"",""
+ball,2,11.2,Austria,M Simpson-Parker,Razmal Shigiwal,M Dixit,0,0,,,,,,caught,M Simpson-Parker
+ball,2,11.3,Austria,Razmal Shigiwal,Habib Ahmadzai,M Dixit,0,0,,,,,,"",""
+ball,2,11.4,Austria,Razmal Shigiwal,Habib Ahmadzai,M Dixit,2,0,,,,,,"",""
+ball,2,11.5,Austria,Razmal Shigiwal,Habib Ahmadzai,M Dixit,0,0,,,,,,"",""
+ball,2,11.6,Austria,Razmal Shigiwal,Habib Ahmadzai,M Dixit,1,0,,,,,,"",""
+ball,2,12.1,Austria,Razmal Shigiwal,Habib Ahmadzai,A Nanda,0,0,,,,,,"",""
+ball,2,12.2,Austria,Razmal Shigiwal,Habib Ahmadzai,A Nanda,1,0,,,,,,"",""
+ball,2,12.3,Austria,Habib Ahmadzai,Razmal Shigiwal,A Nanda,1,0,,,,,,"",""
+ball,2,12.4,Austria,Razmal Shigiwal,Habib Ahmadzai,A Nanda,4,0,,,,,,"",""
+ball,2,12.5,Austria,Razmal Shigiwal,Habib Ahmadzai,A Nanda,1,0,,,,,,"",""
+ball,2,12.6,Austria,Habib Ahmadzai,Razmal Shigiwal,A Nanda,1,0,,,,,,"",""
+ball,2,13.1,Austria,Habib Ahmadzai,Razmal Shigiwal,SKS Gill,0,0,,,,,,"",""
+ball,2,13.2,Austria,Habib Ahmadzai,Razmal Shigiwal,SKS Gill,1,0,,,,,,"",""
+ball,2,13.3,Austria,Razmal Shigiwal,Habib Ahmadzai,SKS Gill,6,0,,,,,,"",""
+ball,2,13.4,Austria,Razmal Shigiwal,Habib Ahmadzai,SKS Gill,1,0,,,,,,"",""
+ball,2,13.5,Austria,Habib Ahmadzai,Razmal Shigiwal,SKS Gill,0,0,,,,,,"",""
+ball,2,13.6,Austria,Habib Ahmadzai,Razmal Shigiwal,SKS Gill,1,0,,,,,,"",""
+ball,2,14.1,Austria,Habib Ahmadzai,Razmal Shigiwal,G Venkateswaran,2,0,,,,,,"",""
+ball,2,14.2,Austria,Habib Ahmadzai,Razmal Shigiwal,G Venkateswaran,0,0,,,,,,"",""
+ball,2,14.3,Austria,Habib Ahmadzai,Razmal Shigiwal,G Venkateswaran,2,0,,,,,,"",""
+ball,2,14.4,Austria,Habib Ahmadzai,Razmal Shigiwal,G Venkateswaran,0,1,1,,,,,"",""
+ball,2,14.5,Austria,Habib Ahmadzai,Razmal Shigiwal,G Venkateswaran,0,0,,,,,,"",""
+ball,2,14.6,Austria,Habib Ahmadzai,Razmal Shigiwal,G Venkateswaran,0,0,,,,,,caught,Habib Ahmadzai
+ball,2,14.7,Austria,Shahil Momin,Razmal Shigiwal,G Venkateswaran,0,0,,,,,,"",""
+ball,2,15.1,Austria,Razmal Shigiwal,Shahil Momin,SKS Gill,0,0,,,,,,caught,Razmal Shigiwal
+ball,2,15.2,Austria,Shahil Momin,MPS Cheema,SKS Gill,0,0,,,,,,"",""
+ball,2,15.3,Austria,Shahil Momin,MPS Cheema,SKS Gill,0,0,,,,,,"",""
+ball,2,15.4,Austria,Shahil Momin,MPS Cheema,SKS Gill,2,0,,,,,,"",""
+ball,2,15.5,Austria,Shahil Momin,MPS Cheema,SKS Gill,0,0,,,,,,lbw,Shahil Momin
+ball,2,15.6,Austria,N Wijesekera,MPS Cheema,SKS Gill,3,0,,,,,,"",""
+ball,2,16.1,Austria,N Wijesekera,MPS Cheema,G Venkateswaran,2,0,,,,,,"",""
+ball,2,16.2,Austria,N Wijesekera,MPS Cheema,G Venkateswaran,4,0,,,,,,"",""

@@ -1,0 +1,275 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Nepal
+info,gender,male
+info,season,2023/24
+info,date,2023/10/19
+info,event,Nepal Tri-Nation T20I Series
+info,match_number,2
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,Karan KC
+info,umpire,Sanjay Gurung
+info,umpire,VK Jha
+info,reserve_umpire,DN Subedi
+info,match_referee,Muhammad Javed
+info,winner,Nepal
+info,winner_wickets,6
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,A Gorawara
+info,player,Hong Kong,Haroon Arshad
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,Kushal Malla
+info,player,Nepal,S Jora
+info,player,Nepal,RK Paudel
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Karan KC
+info,player,Nepal,DS Airee
+info,player,Nepal,SM Dhakal
+info,player,Nepal,A Bohara
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,A Gorawara,c6b11959
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Haroon Arshad,be0f9ce9
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Jora,156378d8
+info,registry,people,SM Dhakal,9db1b072
+info,registry,people,Sanjay Gurung,0ef792dc
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9
+ball,1,0.1,Hong Kong,Nizakat Khan,Anshuman Rath,Karan KC,0,0,,,,,,bowled,Nizakat Khan
+ball,1,0.2,Hong Kong,Babar Hayat,Anshuman Rath,Karan KC,1,0,,,,,,"",""
+ball,1,0.3,Hong Kong,Anshuman Rath,Babar Hayat,Karan KC,0,0,,,,,,"",""
+ball,1,0.4,Hong Kong,Anshuman Rath,Babar Hayat,Karan KC,2,0,,,,,,"",""
+ball,1,0.5,Hong Kong,Anshuman Rath,Babar Hayat,Karan KC,0,0,,,,,,"",""
+ball,1,0.6,Hong Kong,Anshuman Rath,Babar Hayat,Karan KC,4,0,,,,,,"",""
+ball,1,1.1,Hong Kong,Babar Hayat,Anshuman Rath,Sompal Kami,1,0,,,,,,"",""
+ball,1,1.2,Hong Kong,Anshuman Rath,Babar Hayat,Sompal Kami,0,0,,,,,,"",""
+ball,1,1.3,Hong Kong,Anshuman Rath,Babar Hayat,Sompal Kami,0,0,,,,,,"",""
+ball,1,1.4,Hong Kong,Anshuman Rath,Babar Hayat,Sompal Kami,1,0,,,,,,"",""
+ball,1,1.5,Hong Kong,Babar Hayat,Anshuman Rath,Sompal Kami,1,0,,,,,,"",""
+ball,1,1.6,Hong Kong,Anshuman Rath,Babar Hayat,Sompal Kami,0,0,,,,,,"",""
+ball,1,2.1,Hong Kong,Babar Hayat,Anshuman Rath,Karan KC,0,0,,,,,,"",""
+ball,1,2.2,Hong Kong,Babar Hayat,Anshuman Rath,Karan KC,1,0,,,,,,"",""
+ball,1,2.3,Hong Kong,Anshuman Rath,Babar Hayat,Karan KC,0,0,,,,,,caught,Anshuman Rath
+ball,1,2.4,Hong Kong,M Coetzee,Babar Hayat,Karan KC,0,0,,,,,,"",""
+ball,1,2.5,Hong Kong,M Coetzee,Babar Hayat,Karan KC,0,0,,,,,,"",""
+ball,1,2.6,Hong Kong,M Coetzee,Babar Hayat,Karan KC,1,0,,,,,,"",""
+ball,1,3.1,Hong Kong,M Coetzee,Babar Hayat,Sompal Kami,0,0,,,,,,"",""
+ball,1,3.2,Hong Kong,M Coetzee,Babar Hayat,Sompal Kami,0,0,,,,,,"",""
+ball,1,3.3,Hong Kong,M Coetzee,Babar Hayat,Sompal Kami,0,0,,,,,,"",""
+ball,1,3.4,Hong Kong,M Coetzee,Babar Hayat,Sompal Kami,1,0,,,,,,"",""
+ball,1,3.5,Hong Kong,Babar Hayat,M Coetzee,Sompal Kami,1,0,,,,,,"",""
+ball,1,3.6,Hong Kong,M Coetzee,Babar Hayat,Sompal Kami,0,0,,,,,,bowled,M Coetzee
+ball,1,4.1,Hong Kong,Babar Hayat,Aizaz Khan,Karan KC,0,0,,,,,,"",""
+ball,1,4.2,Hong Kong,Babar Hayat,Aizaz Khan,Karan KC,0,0,,,,,,"",""
+ball,1,4.3,Hong Kong,Babar Hayat,Aizaz Khan,Karan KC,0,0,,,,,,caught,Babar Hayat
+ball,1,4.4,Hong Kong,Yasim Murtaza,Aizaz Khan,Karan KC,1,0,,,,,,"",""
+ball,1,4.5,Hong Kong,Aizaz Khan,Yasim Murtaza,Karan KC,0,0,,,,,,"",""
+ball,1,4.6,Hong Kong,Aizaz Khan,Yasim Murtaza,Karan KC,0,0,,,,,,"",""
+ball,1,5.1,Hong Kong,Yasim Murtaza,Aizaz Khan,Gulsan Jha,4,0,,,,,,"",""
+ball,1,5.2,Hong Kong,Yasim Murtaza,Aizaz Khan,Gulsan Jha,0,0,,,,,,"",""
+ball,1,5.3,Hong Kong,Yasim Murtaza,Aizaz Khan,Gulsan Jha,0,1,,,,1,,"",""
+ball,1,5.4,Hong Kong,Aizaz Khan,Yasim Murtaza,Gulsan Jha,0,0,,,,,,"",""
+ball,1,5.5,Hong Kong,Aizaz Khan,Yasim Murtaza,Gulsan Jha,0,0,,,,,,"",""
+ball,1,5.6,Hong Kong,Aizaz Khan,Yasim Murtaza,Gulsan Jha,0,0,,,,,,"",""
+ball,1,6.1,Hong Kong,Yasim Murtaza,Aizaz Khan,Kushal Malla,1,0,,,,,,"",""
+ball,1,6.2,Hong Kong,Aizaz Khan,Yasim Murtaza,Kushal Malla,1,0,,,,,,"",""
+ball,1,6.3,Hong Kong,Yasim Murtaza,Aizaz Khan,Kushal Malla,1,0,,,,,,"",""
+ball,1,6.4,Hong Kong,Aizaz Khan,Yasim Murtaza,Kushal Malla,0,0,,,,,,"",""
+ball,1,6.5,Hong Kong,Aizaz Khan,Yasim Murtaza,Kushal Malla,1,0,,,,,,"",""
+ball,1,6.6,Hong Kong,Yasim Murtaza,Aizaz Khan,Kushal Malla,1,0,,,,,,"",""
+ball,1,7.1,Hong Kong,Yasim Murtaza,Aizaz Khan,Gulsan Jha,0,0,,,,,,"",""
+ball,1,7.2,Hong Kong,Yasim Murtaza,Aizaz Khan,Gulsan Jha,0,0,,,,,,"",""
+ball,1,7.3,Hong Kong,Yasim Murtaza,Aizaz Khan,Gulsan Jha,1,0,,,,,,"",""
+ball,1,7.4,Hong Kong,Aizaz Khan,Yasim Murtaza,Gulsan Jha,4,0,,,,,,"",""
+ball,1,7.5,Hong Kong,Aizaz Khan,Yasim Murtaza,Gulsan Jha,1,0,,,,,,"",""
+ball,1,7.6,Hong Kong,Yasim Murtaza,Aizaz Khan,Gulsan Jha,1,0,,,,,,"",""
+ball,1,8.1,Hong Kong,Yasim Murtaza,Aizaz Khan,Kushal Malla,1,0,,,,,,"",""
+ball,1,8.2,Hong Kong,Aizaz Khan,Yasim Murtaza,Kushal Malla,0,0,,,,,,caught,Aizaz Khan
+ball,1,8.3,Hong Kong,Zeeshan Ali,Yasim Murtaza,Kushal Malla,1,0,,,,,,"",""
+ball,1,8.4,Hong Kong,Yasim Murtaza,Zeeshan Ali,Kushal Malla,1,0,,,,,,"",""
+ball,1,8.5,Hong Kong,Zeeshan Ali,Yasim Murtaza,Kushal Malla,0,0,,,,,,"",""
+ball,1,8.6,Hong Kong,Zeeshan Ali,Yasim Murtaza,Kushal Malla,1,0,,,,,,"",""
+ball,1,9.1,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,0,0,,,,,,"",""
+ball,1,9.2,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,0,0,,,,,,"",""
+ball,1,9.3,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,0,0,,,,,,"",""
+ball,1,9.4,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,0,1,,,,1,,"",""
+ball,1,9.5,Hong Kong,Yasim Murtaza,Zeeshan Ali,SM Dhakal,1,0,,,,,,"",""
+ball,1,9.6,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,1,0,,,,,,"",""
+ball,1,10.1,Hong Kong,Zeeshan Ali,Yasim Murtaza,A Bohara,1,0,,,,,,"",""
+ball,1,10.2,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Bohara,1,0,,,,,,"",""
+ball,1,10.3,Hong Kong,Zeeshan Ali,Yasim Murtaza,A Bohara,1,0,,,,,,"",""
+ball,1,10.4,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Bohara,0,0,,,,,,"",""
+ball,1,10.5,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Bohara,0,0,,,,,,"",""
+ball,1,10.6,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Bohara,0,1,1,,,,,"",""
+ball,1,10.7,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Bohara,1,0,,,,,,"",""
+ball,1,11.1,Hong Kong,Yasim Murtaza,Zeeshan Ali,SM Dhakal,0,0,,,,,,"",""
+ball,1,11.2,Hong Kong,Yasim Murtaza,Zeeshan Ali,SM Dhakal,1,0,,,,,,"",""
+ball,1,11.3,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,2,0,,,,,,"",""
+ball,1,11.4,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,0,0,,,,,,"",""
+ball,1,11.5,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,4,0,,,,,,"",""
+ball,1,11.6,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,1,0,,,,,,"",""
+ball,1,12.1,Hong Kong,Zeeshan Ali,Yasim Murtaza,A Bohara,0,0,,,,,,"",""
+ball,1,12.2,Hong Kong,Zeeshan Ali,Yasim Murtaza,A Bohara,4,0,,,,,,"",""
+ball,1,12.3,Hong Kong,Zeeshan Ali,Yasim Murtaza,A Bohara,0,0,,,,,,"",""
+ball,1,12.4,Hong Kong,Zeeshan Ali,Yasim Murtaza,A Bohara,0,0,,,,,,"",""
+ball,1,12.5,Hong Kong,Zeeshan Ali,Yasim Murtaza,A Bohara,1,0,,,,,,"",""
+ball,1,12.6,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Bohara,1,0,,,,,,"",""
+ball,1,13.1,Hong Kong,Yasim Murtaza,Zeeshan Ali,SM Dhakal,2,0,,,,,,"",""
+ball,1,13.2,Hong Kong,Yasim Murtaza,Zeeshan Ali,SM Dhakal,2,0,,,,,,"",""
+ball,1,13.3,Hong Kong,Yasim Murtaza,Zeeshan Ali,SM Dhakal,0,0,,,,,,"",""
+ball,1,13.4,Hong Kong,Yasim Murtaza,Zeeshan Ali,SM Dhakal,1,0,,,,,,"",""
+ball,1,13.5,Hong Kong,Zeeshan Ali,Yasim Murtaza,SM Dhakal,0,0,,,,,,caught,Zeeshan Ali
+ball,1,13.6,Hong Kong,A Gorawara,Yasim Murtaza,SM Dhakal,1,0,,,,,,"",""
+ball,1,14.1,Hong Kong,A Gorawara,Yasim Murtaza,Sompal Kami,0,0,,,,,,"",""
+ball,1,14.2,Hong Kong,A Gorawara,Yasim Murtaza,Sompal Kami,1,0,,,,,,"",""
+ball,1,14.3,Hong Kong,Yasim Murtaza,A Gorawara,Sompal Kami,1,0,,,,,,"",""
+ball,1,14.4,Hong Kong,A Gorawara,Yasim Murtaza,Sompal Kami,1,0,,,,,,"",""
+ball,1,14.5,Hong Kong,Yasim Murtaza,A Gorawara,Sompal Kami,0,0,,,,,,"",""
+ball,1,14.6,Hong Kong,Yasim Murtaza,A Gorawara,Sompal Kami,1,0,,,,,,"",""
+ball,1,15.1,Hong Kong,Yasim Murtaza,A Gorawara,SM Dhakal,6,0,,,,,,"",""
+ball,1,15.2,Hong Kong,Yasim Murtaza,A Gorawara,SM Dhakal,4,0,,,,,,"",""
+ball,1,15.3,Hong Kong,Yasim Murtaza,A Gorawara,SM Dhakal,0,0,,,,,,"",""
+ball,1,15.4,Hong Kong,Yasim Murtaza,A Gorawara,SM Dhakal,1,0,,,,,,"",""
+ball,1,15.5,Hong Kong,A Gorawara,Yasim Murtaza,SM Dhakal,1,0,,,,,,"",""
+ball,1,15.6,Hong Kong,Yasim Murtaza,A Gorawara,SM Dhakal,1,0,,,,,,"",""
+ball,1,16.1,Hong Kong,Yasim Murtaza,A Gorawara,A Bohara,0,0,,,,,,"",""
+ball,1,16.2,Hong Kong,Yasim Murtaza,A Gorawara,A Bohara,0,0,,,,,,"",""
+ball,1,16.3,Hong Kong,Yasim Murtaza,A Gorawara,A Bohara,0,0,,,,,,caught,Yasim Murtaza
+ball,1,16.4,Hong Kong,Haroon Arshad,A Gorawara,A Bohara,1,0,,,,,,"",""
+ball,1,16.5,Hong Kong,A Gorawara,Haroon Arshad,A Bohara,2,0,,,,,,"",""
+ball,1,16.6,Hong Kong,A Gorawara,Haroon Arshad,A Bohara,0,0,,,,,,"",""
+ball,1,17.1,Hong Kong,Haroon Arshad,A Gorawara,Karan KC,1,0,,,,,,"",""
+ball,1,17.2,Hong Kong,A Gorawara,Haroon Arshad,Karan KC,1,0,,,,,,"",""
+ball,1,17.3,Hong Kong,Haroon Arshad,A Gorawara,Karan KC,0,0,,,,,,bowled,Haroon Arshad
+ball,1,17.4,Hong Kong,Ehsan Khan,A Gorawara,Karan KC,1,0,,,,,,"",""
+ball,1,17.5,Hong Kong,A Gorawara,Ehsan Khan,Karan KC,1,0,,,,,,"",""
+ball,1,17.6,Hong Kong,Ehsan Khan,A Gorawara,Karan KC,1,0,,,,,,"",""
+ball,1,18.1,Hong Kong,Ehsan Khan,A Gorawara,A Bohara,1,0,,,,,,"",""
+ball,1,18.2,Hong Kong,A Gorawara,Ehsan Khan,A Bohara,0,0,,,,,,"",""
+ball,1,18.3,Hong Kong,A Gorawara,Ehsan Khan,A Bohara,0,0,,,,,,"",""
+ball,1,18.4,Hong Kong,A Gorawara,Ehsan Khan,A Bohara,0,0,,,,,,caught,A Gorawara
+ball,1,18.5,Hong Kong,A Shukla,Ehsan Khan,A Bohara,1,0,,,,,,"",""
+ball,1,18.6,Hong Kong,Ehsan Khan,A Shukla,A Bohara,1,0,,,,,,"",""
+ball,1,19.1,Hong Kong,Ehsan Khan,A Shukla,Sompal Kami,0,1,,,,1,,"",""
+ball,1,19.2,Hong Kong,A Shukla,Ehsan Khan,Sompal Kami,1,0,,,,,,"",""
+ball,1,19.3,Hong Kong,Ehsan Khan,A Shukla,Sompal Kami,0,0,,,,,,caught,Ehsan Khan
+ball,2,0.1,Nepal,K Bhurtel,Aasif Sheikh,A Shukla,1,0,,,,,,"",""
+ball,2,0.2,Nepal,Aasif Sheikh,K Bhurtel,A Shukla,0,0,,,,,,"",""
+ball,2,0.3,Nepal,Aasif Sheikh,K Bhurtel,A Shukla,2,0,,,,,,"",""
+ball,2,0.4,Nepal,Aasif Sheikh,K Bhurtel,A Shukla,0,1,1,,,,,"",""
+ball,2,0.5,Nepal,Aasif Sheikh,K Bhurtel,A Shukla,1,0,,,,,,"",""
+ball,2,0.6,Nepal,K Bhurtel,Aasif Sheikh,A Shukla,0,0,,,,,,"",""
+ball,2,0.7,Nepal,K Bhurtel,Aasif Sheikh,A Shukla,0,0,,,,,,"",""
+ball,2,1.1,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,4,0,,,,,,"",""
+ball,2,1.2,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,4,0,,,,,,"",""
+ball,2,1.3,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,0,0,,,,,,"",""
+ball,2,1.4,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,0,1,1,,,,,"",""
+ball,2,1.5,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,0,1,1,,,,,"",""
+ball,2,1.6,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,0,0,,,,,,"",""
+ball,2,1.7,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,4,0,,,,,,"",""
+ball,2,1.8,Nepal,Aasif Sheikh,K Bhurtel,Haroon Arshad,0,0,,,,,,"",""
+ball,2,2.1,Nepal,K Bhurtel,Aasif Sheikh,A Shukla,1,0,,,,,,"",""
+ball,2,2.2,Nepal,Aasif Sheikh,K Bhurtel,A Shukla,0,0,,,,,,"",""
+ball,2,2.3,Nepal,Aasif Sheikh,K Bhurtel,A Shukla,1,0,,,,,,"",""
+ball,2,2.4,Nepal,K Bhurtel,Aasif Sheikh,A Shukla,4,0,,,,,,"",""
+ball,2,2.5,Nepal,K Bhurtel,Aasif Sheikh,A Shukla,2,0,,,,,,"",""
+ball,2,2.6,Nepal,K Bhurtel,Aasif Sheikh,A Shukla,0,0,,,,,,"",""
+ball,2,3.1,Nepal,Aasif Sheikh,K Bhurtel,Ehsan Khan,1,0,,,,,,"",""
+ball,2,3.2,Nepal,K Bhurtel,Aasif Sheikh,Ehsan Khan,0,0,,,,,,bowled,K Bhurtel
+ball,2,3.3,Nepal,Kushal Malla,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,3.4,Nepal,Kushal Malla,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,3.5,Nepal,Kushal Malla,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,3.6,Nepal,Kushal Malla,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,4.1,Nepal,Aasif Sheikh,Kushal Malla,Aizaz Khan,4,1,,1,,,,"",""
+ball,2,4.2,Nepal,Aasif Sheikh,Kushal Malla,Aizaz Khan,1,0,,,,,,"",""
+ball,2,4.3,Nepal,Kushal Malla,Aasif Sheikh,Aizaz Khan,1,0,,,,,,"",""
+ball,2,4.4,Nepal,Aasif Sheikh,Kushal Malla,Aizaz Khan,4,0,,,,,,"",""
+ball,2,4.5,Nepal,Aasif Sheikh,Kushal Malla,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,4.6,Nepal,Aasif Sheikh,Kushal Malla,Aizaz Khan,0,0,,,,,,"",""
+ball,2,4.7,Nepal,Aasif Sheikh,Kushal Malla,Aizaz Khan,0,0,,,,,,"",""
+ball,2,4.8,Nepal,Aasif Sheikh,Kushal Malla,Aizaz Khan,0,0,,,,,,"",""
+ball,2,5.1,Nepal,Kushal Malla,Aasif Sheikh,Ehsan Khan,0,0,,,,,,bowled,Kushal Malla
+ball,2,5.2,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,5.3,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,5.4,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,1,0,,,,,,"",""
+ball,2,5.5,Nepal,Aasif Sheikh,S Jora,Ehsan Khan,1,0,,,,,,"",""
+ball,2,5.6,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,6.1,Nepal,Aasif Sheikh,S Jora,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,6.2,Nepal,S Jora,Aasif Sheikh,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,6.3,Nepal,S Jora,Aasif Sheikh,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,6.4,Nepal,S Jora,Aasif Sheikh,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,6.5,Nepal,Aasif Sheikh,S Jora,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,6.6,Nepal,S Jora,Aasif Sheikh,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.1,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,7.2,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,7.3,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,0,1,1,,,,,"",""
+ball,2,7.4,Nepal,S Jora,Aasif Sheikh,Ehsan Khan,0,0,,,,,,bowled,S Jora
+ball,2,7.5,Nepal,RK Paudel,Aasif Sheikh,Ehsan Khan,0,0,,,,,,"",""
+ball,2,7.6,Nepal,RK Paudel,Aasif Sheikh,Ehsan Khan,1,0,,,,,,"",""
+ball,2,7.7,Nepal,Aasif Sheikh,RK Paudel,Ehsan Khan,1,0,,,,,,"",""
+ball,2,8.1,Nepal,Aasif Sheikh,RK Paudel,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,8.2,Nepal,RK Paudel,Aasif Sheikh,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,8.3,Nepal,RK Paudel,Aasif Sheikh,Yasim Murtaza,6,0,,,,,,"",""
+ball,2,8.4,Nepal,RK Paudel,Aasif Sheikh,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,8.5,Nepal,Aasif Sheikh,RK Paudel,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,8.6,Nepal,RK Paudel,Aasif Sheikh,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,9.1,Nepal,RK Paudel,Aasif Sheikh,Ehsan Khan,1,0,,,,,,"",""
+ball,2,9.2,Nepal,Aasif Sheikh,RK Paudel,Ehsan Khan,1,0,,,,,,"",""
+ball,2,9.3,Nepal,RK Paudel,Aasif Sheikh,Ehsan Khan,1,0,,,,,,"",""
+ball,2,9.4,Nepal,Aasif Sheikh,RK Paudel,Ehsan Khan,0,0,,,,,,"",""
+ball,2,9.5,Nepal,Aasif Sheikh,RK Paudel,Ehsan Khan,0,0,,,,,,"",""
+ball,2,9.6,Nepal,Aasif Sheikh,RK Paudel,Ehsan Khan,1,0,,,,,,"",""
+ball,2,10.1,Nepal,Aasif Sheikh,RK Paudel,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,10.2,Nepal,Aasif Sheikh,RK Paudel,Yasim Murtaza,2,0,,,,,,"",""
+ball,2,10.3,Nepal,Aasif Sheikh,RK Paudel,Yasim Murtaza,4,0,,,,,,"",""
+ball,2,10.4,Nepal,Aasif Sheikh,RK Paudel,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,10.5,Nepal,RK Paudel,Aasif Sheikh,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,10.6,Nepal,RK Paudel,Aasif Sheikh,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,11.1,Nepal,RK Paudel,Aasif Sheikh,Nizakat Khan,0,0,,,,,,"",""
+ball,2,11.2,Nepal,RK Paudel,Aasif Sheikh,Nizakat Khan,0,0,,,,,,"",""
+ball,2,11.3,Nepal,RK Paudel,Aasif Sheikh,Nizakat Khan,0,0,,,,,,"",""
+ball,2,11.4,Nepal,RK Paudel,Aasif Sheikh,Nizakat Khan,1,0,,,,,,"",""
+ball,2,11.5,Nepal,Aasif Sheikh,RK Paudel,Nizakat Khan,1,0,,,,,,"",""
+ball,2,11.6,Nepal,RK Paudel,Aasif Sheikh,Nizakat Khan,4,0,,,,,,"",""
+ball,2,12.1,Nepal,Aasif Sheikh,RK Paudel,Yasim Murtaza,0,0,,,,,,caught,Aasif Sheikh
+ball,2,12.2,Nepal,Gulsan Jha,RK Paudel,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,12.3,Nepal,Gulsan Jha,RK Paudel,Yasim Murtaza,6,0,,,,,,"",""
+ball,2,12.4,Nepal,Gulsan Jha,RK Paudel,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,12.5,Nepal,RK Paudel,Gulsan Jha,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,12.6,Nepal,Gulsan Jha,RK Paudel,Yasim Murtaza,6,0,,,,,,"",""
+ball,2,13.1,Nepal,RK Paudel,Gulsan Jha,Nizakat Khan,0,0,,,,,,"",""
+ball,2,13.2,Nepal,RK Paudel,Gulsan Jha,Nizakat Khan,1,0,,,,,,"",""
+ball,2,13.3,Nepal,Gulsan Jha,RK Paudel,Nizakat Khan,1,0,,,,,,"",""
+ball,2,13.4,Nepal,RK Paudel,Gulsan Jha,Nizakat Khan,0,0,,,,,,"",""
+ball,2,13.5,Nepal,RK Paudel,Gulsan Jha,Nizakat Khan,6,0,,,,,,"",""

@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Greece
+info,gender,male
+info,season,2022
+info,date,2022/07/15
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,11
+info,venue,Tikkurila Cricket Ground
+info,city,Vantaa
+info,toss_winner,Greece
+info,toss_decision,field
+info,player_of_match,DJ Turkich
+info,umpire,Adriaan van den Dries
+info,umpire,SB Ravindra
+info,reserve_umpire,Adnan Khan
+info,match_referee,GH Pienaar
+info,winner,Croatia
+info,winner_runs,3
+info,player,Croatia,SD Valjalo
+info,player,Croatia,CP Turkich
+info,player,Croatia,JD Newton
+info,player,Croatia,JM Vujinovich
+info,player,Croatia,DJ Turkich
+info,player,Croatia,A Maheshwari
+info,player,Croatia,N Davidovic
+info,player,Croatia,Sohail Ahmad
+info,player,Croatia,D Marsic
+info,player,Croatia,J Grzinic
+info,player,Croatia,B Jerkovic
+info,player,Greece,Alexandros Karvelas
+info,player,Greece,P Magafas
+info,player,Greece,G Fatouros
+info,player,Greece,A Manousis
+info,player,Greece,S Bogdos
+info,player,Greece,C Bogdanos
+info,player,Greece,AS Mehmi
+info,player,Greece,Aslam Mohammad
+info,player,Greece,A Gasteratos
+info,player,Greece,GC Galanis
+info,player,Greece,T Zotos
+info,registry,people,A Gasteratos,e87c009a
+info,registry,people,A Maheshwari,3ec513ea
+info,registry,people,A Manousis,b672e825
+info,registry,people,AS Mehmi,4612619b
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,Alexandros Karvelas,13f21a98
+info,registry,people,Aslam Mohammad,67ae5a56
+info,registry,people,B Jerkovic,63bd7086
+info,registry,people,C Bogdanos,ecdfdd3c
+info,registry,people,CP Turkich,6264d645
+info,registry,people,D Marsic,16fa34cf
+info,registry,people,DJ Turkich,96013995
+info,registry,people,G Fatouros,b388d623
+info,registry,people,GC Galanis,db218528
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,J Grzinic,03c94c2f
+info,registry,people,JD Newton,ec201565
+info,registry,people,JM Vujinovich,99ad98b0
+info,registry,people,N Davidovic,e48c6ec7
+info,registry,people,P Magafas,c25be68d
+info,registry,people,S Bogdos,268ec1d6
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,SD Valjalo,62d3f506
+info,registry,people,Sohail Ahmad,7e439c80
+info,registry,people,T Zotos,4c4d245a
+ball,1,0.1,Croatia,SD Valjalo,CP Turkich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,0.2,Croatia,SD Valjalo,CP Turkich,Alexandros Karvelas,0,1,1,,,,,"",""
+ball,1,0.3,Croatia,SD Valjalo,CP Turkich,Alexandros Karvelas,4,0,,,,,,"",""
+ball,1,0.4,Croatia,SD Valjalo,CP Turkich,Alexandros Karvelas,0,0,,,,,,caught,SD Valjalo
+ball,1,0.5,Croatia,JD Newton,CP Turkich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,0.6,Croatia,JD Newton,CP Turkich,Alexandros Karvelas,0,1,,,,1,,"",""
+ball,1,0.7,Croatia,CP Turkich,JD Newton,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,1.1,Croatia,CP Turkich,JD Newton,AS Mehmi,0,1,,,,1,,"",""
+ball,1,1.2,Croatia,JD Newton,CP Turkich,AS Mehmi,0,0,,,,,,"",""
+ball,1,1.3,Croatia,JD Newton,CP Turkich,AS Mehmi,0,0,,,,,,"",""
+ball,1,1.4,Croatia,JD Newton,CP Turkich,AS Mehmi,0,0,,,,,,"",""
+ball,1,1.5,Croatia,JD Newton,CP Turkich,AS Mehmi,0,0,,,,,,"",""
+ball,1,1.6,Croatia,JD Newton,CP Turkich,AS Mehmi,1,0,,,,,,"",""
+ball,1,2.1,Croatia,JD Newton,CP Turkich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,2.2,Croatia,JD Newton,CP Turkich,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,2.3,Croatia,CP Turkich,JD Newton,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,2.4,Croatia,JD Newton,CP Turkich,Alexandros Karvelas,2,0,,,,,,"",""
+ball,1,2.5,Croatia,JD Newton,CP Turkich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,2.6,Croatia,JD Newton,CP Turkich,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,3.1,Croatia,JD Newton,CP Turkich,AS Mehmi,1,0,,,,,,"",""
+ball,1,3.2,Croatia,CP Turkich,JD Newton,AS Mehmi,0,0,,,,,,"",""
+ball,1,3.3,Croatia,CP Turkich,JD Newton,AS Mehmi,1,0,,,,,,"",""
+ball,1,3.4,Croatia,JD Newton,CP Turkich,AS Mehmi,1,0,,,,,,"",""
+ball,1,3.5,Croatia,CP Turkich,JD Newton,AS Mehmi,1,0,,,,,,"",""
+ball,1,3.6,Croatia,JD Newton,CP Turkich,AS Mehmi,0,0,,,,,,"",""
+ball,1,4.1,Croatia,CP Turkich,JD Newton,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,4.2,Croatia,CP Turkich,JD Newton,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,4.3,Croatia,CP Turkich,JD Newton,Aslam Mohammad,0,2,2,,,,,"",""
+ball,1,4.4,Croatia,JD Newton,CP Turkich,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,4.5,Croatia,JD Newton,CP Turkich,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,4.6,Croatia,JD Newton,CP Turkich,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,4.7,Croatia,JD Newton,CP Turkich,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,5.1,Croatia,CP Turkich,JD Newton,AS Mehmi,1,0,,,,,,"",""
+ball,1,5.2,Croatia,JD Newton,CP Turkich,AS Mehmi,0,0,,,,,,"",""
+ball,1,5.3,Croatia,JD Newton,CP Turkich,AS Mehmi,1,0,,,,,,"",""
+ball,1,5.4,Croatia,CP Turkich,JD Newton,AS Mehmi,1,0,,,,,,"",""
+ball,1,5.5,Croatia,JD Newton,CP Turkich,AS Mehmi,1,0,,,,,,"",""
+ball,1,5.6,Croatia,CP Turkich,JD Newton,AS Mehmi,0,0,,,,,,"",""
+ball,1,6.1,Croatia,JD Newton,CP Turkich,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,6.2,Croatia,CP Turkich,JD Newton,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,6.3,Croatia,JD Newton,CP Turkich,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,6.4,Croatia,JD Newton,CP Turkich,Aslam Mohammad,4,0,,,,,,"",""
+ball,1,6.5,Croatia,JD Newton,CP Turkich,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,6.6,Croatia,JD Newton,CP Turkich,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,7.1,Croatia,JD Newton,CP Turkich,A Manousis,0,0,,,,,,"",""
+ball,1,7.2,Croatia,JD Newton,CP Turkich,A Manousis,1,0,,,,,,"",""
+ball,1,7.3,Croatia,CP Turkich,JD Newton,A Manousis,4,0,,,,,,"",""
+ball,1,7.4,Croatia,CP Turkich,JD Newton,A Manousis,0,0,,,,,,"",""
+ball,1,7.5,Croatia,CP Turkich,JD Newton,A Manousis,1,0,,,,,,"",""
+ball,1,7.6,Croatia,JD Newton,CP Turkich,A Manousis,1,0,,,,,,"",""
+ball,1,8.1,Croatia,JD Newton,CP Turkich,GC Galanis,1,0,,,,,,"",""
+ball,1,8.2,Croatia,CP Turkich,JD Newton,GC Galanis,0,1,,,,1,,"",""
+ball,1,8.3,Croatia,JD Newton,CP Turkich,GC Galanis,0,0,,,,,,"",""
+ball,1,8.4,Croatia,JD Newton,CP Turkich,GC Galanis,1,0,,,,,,"",""
+ball,1,8.5,Croatia,CP Turkich,JD Newton,GC Galanis,1,0,,,,,,"",""
+ball,1,8.6,Croatia,JD Newton,CP Turkich,GC Galanis,1,0,,,,,,"",""
+ball,1,9.1,Croatia,JD Newton,CP Turkich,A Manousis,6,0,,,,,,"",""
+ball,1,9.2,Croatia,JD Newton,CP Turkich,A Manousis,0,0,,,,,,caught,JD Newton
+ball,1,9.3,Croatia,CP Turkich,JM Vujinovich,A Manousis,0,1,1,,,,,"",""
+ball,1,9.4,Croatia,CP Turkich,JM Vujinovich,A Manousis,1,0,,,,,,"",""
+ball,1,9.5,Croatia,JM Vujinovich,CP Turkich,A Manousis,1,0,,,,,,"",""
+ball,1,9.6,Croatia,CP Turkich,JM Vujinovich,A Manousis,0,0,,,,,,"",""
+ball,1,9.7,Croatia,CP Turkich,JM Vujinovich,A Manousis,1,0,,,,,,"",""
+ball,1,10.1,Croatia,CP Turkich,JM Vujinovich,GC Galanis,1,0,,,,,,"",""
+ball,1,10.2,Croatia,JM Vujinovich,CP Turkich,GC Galanis,0,1,,,,1,,"",""
+ball,1,10.3,Croatia,CP Turkich,JM Vujinovich,GC Galanis,0,0,,,,,,"",""
+ball,1,10.4,Croatia,CP Turkich,JM Vujinovich,GC Galanis,0,1,1,,,,,stumped,CP Turkich
+ball,1,10.5,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,1,0,,,,,,"",""
+ball,1,10.6,Croatia,JM Vujinovich,DJ Turkich,GC Galanis,0,0,,,,,,"",""
+ball,1,10.7,Croatia,JM Vujinovich,DJ Turkich,GC Galanis,1,0,,,,,,"",""
+ball,1,11.1,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,0,,,,,,"",""
+ball,1,11.2,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,1,0,,,,,,"",""
+ball,1,11.3,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,0,0,,,,,,"",""
+ball,1,11.4,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,1,0,,,,,,"",""
+ball,1,11.5,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,0,,,,,,"",""
+ball,1,11.6,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,1,1,,,,,"",""
+ball,1,11.7,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,0,,,,,,"",""
+ball,1,12.1,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,1,0,,,,,,"",""
+ball,1,12.2,Croatia,JM Vujinovich,DJ Turkich,GC Galanis,1,0,,,,,,"",""
+ball,1,12.3,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,0,0,,,,,,"",""
+ball,1,12.4,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,1,0,,,,,,"",""
+ball,1,12.5,Croatia,JM Vujinovich,DJ Turkich,GC Galanis,1,0,,,,,,"",""
+ball,1,12.6,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,1,0,,,,,,"",""
+ball,1,13.1,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,0,0,,,,,,"",""
+ball,1,13.2,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,1,0,,,,,,"",""
+ball,1,13.3,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,1,0,,,,,,"",""
+ball,1,13.4,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,1,0,,,,,,"",""
+ball,1,13.5,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,0,,,,,,"",""
+ball,1,13.6,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,0,,,,,,"",""
+ball,1,14.1,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,1,0,,,,,,"",""
+ball,1,14.2,Croatia,JM Vujinovich,DJ Turkich,GC Galanis,3,0,,,,,,"",""
+ball,1,14.3,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,0,0,,,,,,"",""
+ball,1,14.4,Croatia,DJ Turkich,JM Vujinovich,GC Galanis,1,0,,,,,,"",""
+ball,1,14.5,Croatia,JM Vujinovich,DJ Turkich,GC Galanis,0,0,,,,,,"",""
+ball,1,14.6,Croatia,JM Vujinovich,DJ Turkich,GC Galanis,1,0,,,,,,"",""
+ball,1,15.1,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,1,0,,,,,,"",""
+ball,1,15.2,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,1,0,,,,,,"",""
+ball,1,15.3,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,1,0,,,,,,"",""
+ball,1,15.4,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,0,0,,,,,,"",""
+ball,1,15.5,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,0,0,,,,,,"",""
+ball,1,15.6,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,1,0,,,,,,"",""
+ball,1,16.1,Croatia,DJ Turkich,JM Vujinovich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,16.2,Croatia,DJ Turkich,JM Vujinovich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,16.3,Croatia,DJ Turkich,JM Vujinovich,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,16.4,Croatia,JM Vujinovich,DJ Turkich,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,16.5,Croatia,DJ Turkich,JM Vujinovich,Alexandros Karvelas,4,0,,,,,,"",""
+ball,1,16.6,Croatia,DJ Turkich,JM Vujinovich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,17.1,Croatia,JM Vujinovich,DJ Turkich,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,17.2,Croatia,DJ Turkich,JM Vujinovich,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,17.3,Croatia,DJ Turkich,JM Vujinovich,Aslam Mohammad,4,0,,,,,,"",""
+ball,1,17.4,Croatia,DJ Turkich,JM Vujinovich,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,17.5,Croatia,JM Vujinovich,DJ Turkich,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,17.6,Croatia,DJ Turkich,JM Vujinovich,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,18.1,Croatia,DJ Turkich,JM Vujinovich,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,18.2,Croatia,JM Vujinovich,DJ Turkich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,18.3,Croatia,JM Vujinovich,DJ Turkich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,18.4,Croatia,JM Vujinovich,DJ Turkich,Alexandros Karvelas,0,0,,,,,,"",""
+ball,1,18.5,Croatia,JM Vujinovich,DJ Turkich,Alexandros Karvelas,1,0,,,,,,"",""
+ball,1,18.6,Croatia,DJ Turkich,JM Vujinovich,Alexandros Karvelas,6,0,,,,,,"",""
+ball,1,19.1,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,0,,,,,,"",""
+ball,1,19.2,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,0,0,,,,,,"",""
+ball,1,19.3,Croatia,JM Vujinovich,DJ Turkich,G Fatouros,1,0,,,,,,"",""
+ball,1,19.4,Croatia,DJ Turkich,JM Vujinovich,G Fatouros,0,0,,,,,,caught,DJ Turkich
+ball,1,19.5,Croatia,JM Vujinovich,A Maheshwari,G Fatouros,1,0,,,,,,run out,A Maheshwari
+ball,1,19.6,Croatia,JM Vujinovich,N Davidovic,G Fatouros,1,0,,,,,,run out,N Davidovic
+ball,2,0.1,Greece,Alexandros Karvelas,P Magafas,JD Newton,0,0,,,,,,"",""
+ball,2,0.2,Greece,Alexandros Karvelas,P Magafas,JD Newton,0,1,,,1,,,"",""
+ball,2,0.3,Greece,P Magafas,Alexandros Karvelas,JD Newton,0,0,,,,,,"",""
+ball,2,0.4,Greece,P Magafas,Alexandros Karvelas,JD Newton,0,1,1,,,,,"",""
+ball,2,0.5,Greece,P Magafas,Alexandros Karvelas,JD Newton,1,0,,,,,,"",""
+ball,2,0.6,Greece,Alexandros Karvelas,P Magafas,JD Newton,0,0,,,,,,"",""
+ball,2,0.7,Greece,Alexandros Karvelas,P Magafas,JD Newton,0,0,,,,,,"",""
+ball,2,1.1,Greece,P Magafas,Alexandros Karvelas,SD Valjalo,1,0,,,,,,"",""
+ball,2,1.2,Greece,Alexandros Karvelas,P Magafas,SD Valjalo,1,0,,,,,,"",""
+ball,2,1.3,Greece,P Magafas,Alexandros Karvelas,SD Valjalo,1,0,,,,,,"",""
+ball,2,1.4,Greece,Alexandros Karvelas,P Magafas,SD Valjalo,1,0,,,,,,"",""
+ball,2,1.5,Greece,P Magafas,Alexandros Karvelas,SD Valjalo,0,0,,,,,,"",""
+ball,2,1.6,Greece,P Magafas,Alexandros Karvelas,SD Valjalo,1,0,,,,,,"",""
+ball,2,2.1,Greece,P Magafas,Alexandros Karvelas,JD Newton,0,1,1,,,,,"",""
+ball,2,2.2,Greece,P Magafas,Alexandros Karvelas,JD Newton,0,0,,,,,,"",""
+ball,2,2.3,Greece,P Magafas,Alexandros Karvelas,JD Newton,0,1,,,,1,,"",""
+ball,2,2.4,Greece,Alexandros Karvelas,P Magafas,JD Newton,0,0,,,,,,"",""
+ball,2,2.5,Greece,Alexandros Karvelas,P Magafas,JD Newton,1,0,,,,,,"",""
+ball,2,2.6,Greece,P Magafas,Alexandros Karvelas,JD Newton,0,0,,,,,,"",""
+ball,2,2.7,Greece,P Magafas,Alexandros Karvelas,JD Newton,4,0,,,,,,"",""
+ball,2,3.1,Greece,Alexandros Karvelas,P Magafas,SD Valjalo,1,0,,,,,,"",""
+ball,2,3.2,Greece,P Magafas,Alexandros Karvelas,SD Valjalo,0,0,,,,,,"",""
+ball,2,3.3,Greece,P Magafas,Alexandros Karvelas,SD Valjalo,2,0,,,,,,"",""
+ball,2,3.4,Greece,P Magafas,Alexandros Karvelas,SD Valjalo,0,1,,,1,,,"",""
+ball,2,3.5,Greece,Alexandros Karvelas,P Magafas,SD Valjalo,2,0,,,,,,"",""
+ball,2,3.6,Greece,Alexandros Karvelas,P Magafas,SD Valjalo,4,0,,,,,,"",""
+ball,2,4.1,Greece,P Magafas,Alexandros Karvelas,B Jerkovic,1,0,,,,,,"",""
+ball,2,4.2,Greece,Alexandros Karvelas,P Magafas,B Jerkovic,0,2,2,,,,,"",""
+ball,2,4.3,Greece,P Magafas,Alexandros Karvelas,B Jerkovic,4,0,,,,,,"",""
+ball,2,4.4,Greece,P Magafas,Alexandros Karvelas,B Jerkovic,0,0,,,,,,"",""
+ball,2,4.5,Greece,P Magafas,Alexandros Karvelas,B Jerkovic,1,0,,,,,,"",""
+ball,2,4.6,Greece,Alexandros Karvelas,P Magafas,B Jerkovic,1,0,,,,,,"",""
+ball,2,4.7,Greece,P Magafas,Alexandros Karvelas,B Jerkovic,0,0,,,,,,"",""
+ball,2,5.1,Greece,Alexandros Karvelas,P Magafas,JM Vujinovich,0,0,,,,,,"",""
+ball,2,5.2,Greece,Alexandros Karvelas,P Magafas,JM Vujinovich,0,0,,,,,,caught and bowled,Alexandros Karvelas
+ball,2,5.3,Greece,P Magafas,G Fatouros,JM Vujinovich,0,1,1,,,,,"",""
+ball,2,5.4,Greece,P Magafas,G Fatouros,JM Vujinovich,0,0,,,,,,"",""
+ball,2,5.5,Greece,P Magafas,G Fatouros,JM Vujinovich,1,0,,,,,,"",""
+ball,2,5.6,Greece,G Fatouros,P Magafas,JM Vujinovich,0,0,,,,,,"",""
+ball,2,5.7,Greece,G Fatouros,P Magafas,JM Vujinovich,1,0,,,,,,"",""
+ball,2,6.1,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,6.2,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,6.3,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,6.4,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,6.5,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,6.6,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,7.1,Greece,P Magafas,G Fatouros,JM Vujinovich,0,0,,,,,,"",""
+ball,2,7.2,Greece,P Magafas,G Fatouros,JM Vujinovich,2,0,,,,,,"",""
+ball,2,7.3,Greece,P Magafas,G Fatouros,JM Vujinovich,1,0,,,,,,"",""
+ball,2,7.4,Greece,G Fatouros,P Magafas,JM Vujinovich,4,0,,,,,,"",""
+ball,2,7.5,Greece,G Fatouros,P Magafas,JM Vujinovich,0,0,,,,,,"",""
+ball,2,7.6,Greece,G Fatouros,P Magafas,JM Vujinovich,1,0,,,,,,"",""
+ball,2,8.1,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,8.2,Greece,G Fatouros,P Magafas,DJ Turkich,1,0,,,,,,"",""
+ball,2,8.3,Greece,P Magafas,G Fatouros,DJ Turkich,1,0,,,,,,"",""
+ball,2,8.4,Greece,G Fatouros,P Magafas,DJ Turkich,1,0,,,,,,"",""
+ball,2,8.5,Greece,P Magafas,G Fatouros,DJ Turkich,4,0,,,,,,"",""
+ball,2,8.6,Greece,P Magafas,G Fatouros,DJ Turkich,1,0,,,,,,"",""
+ball,2,9.1,Greece,P Magafas,G Fatouros,JM Vujinovich,0,0,,,,,,"",""
+ball,2,9.2,Greece,P Magafas,G Fatouros,JM Vujinovich,1,0,,,,,,"",""
+ball,2,9.3,Greece,G Fatouros,P Magafas,JM Vujinovich,0,0,,,,,,"",""
+ball,2,9.4,Greece,G Fatouros,P Magafas,JM Vujinovich,4,0,,,,,,"",""
+ball,2,9.5,Greece,G Fatouros,P Magafas,JM Vujinovich,0,0,,,,,,"",""
+ball,2,9.6,Greece,G Fatouros,P Magafas,JM Vujinovich,4,0,,,,,,"",""
+ball,2,10.1,Greece,P Magafas,G Fatouros,DJ Turkich,1,0,,,,,,"",""
+ball,2,10.2,Greece,G Fatouros,P Magafas,DJ Turkich,2,0,,,,,,"",""
+ball,2,10.3,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,10.4,Greece,G Fatouros,P Magafas,DJ Turkich,0,0,,,,,,bowled,G Fatouros
+ball,2,10.5,Greece,A Manousis,P Magafas,DJ Turkich,0,0,,,,,,lbw,A Manousis
+ball,2,10.6,Greece,S Bogdos,P Magafas,DJ Turkich,0,0,,,,,,"",""
+ball,2,11.1,Greece,P Magafas,S Bogdos,Sohail Ahmad,0,0,,,,,,"",""
+ball,2,11.2,Greece,P Magafas,S Bogdos,Sohail Ahmad,2,0,,,,,,"",""
+ball,2,11.3,Greece,P Magafas,S Bogdos,Sohail Ahmad,0,0,,,,,,caught,P Magafas
+ball,2,11.4,Greece,C Bogdanos,S Bogdos,Sohail Ahmad,0,0,,,,,,"",""
+ball,2,11.5,Greece,C Bogdanos,S Bogdos,Sohail Ahmad,1,1,,1,,,,"",""
+ball,2,11.6,Greece,S Bogdos,C Bogdanos,Sohail Ahmad,1,0,,,,,,"",""
+ball,2,11.7,Greece,C Bogdanos,S Bogdos,Sohail Ahmad,2,0,,,,,,"",""
+ball,2,12.1,Greece,S Bogdos,C Bogdanos,DJ Turkich,0,0,,,,,,"",""
+ball,2,12.2,Greece,S Bogdos,C Bogdanos,DJ Turkich,1,0,,,,,,"",""
+ball,2,12.3,Greece,C Bogdanos,S Bogdos,DJ Turkich,0,0,,,,,,"",""
+ball,2,12.4,Greece,C Bogdanos,S Bogdos,DJ Turkich,1,0,,,,,,"",""
+ball,2,12.5,Greece,S Bogdos,C Bogdanos,DJ Turkich,0,0,,,,,,"",""
+ball,2,12.6,Greece,S Bogdos,C Bogdanos,DJ Turkich,0,0,,,,,,"",""
+ball,2,13.1,Greece,C Bogdanos,S Bogdos,JM Vujinovich,1,0,,,,,,"",""
+ball,2,13.2,Greece,S Bogdos,C Bogdanos,JM Vujinovich,0,0,,,,,,caught,S Bogdos
+ball,2,13.3,Greece,AS Mehmi,C Bogdanos,JM Vujinovich,0,0,,,,,,"",""
+ball,2,13.4,Greece,AS Mehmi,C Bogdanos,JM Vujinovich,0,0,,,,,,"",""
+ball,2,13.5,Greece,AS Mehmi,C Bogdanos,JM Vujinovich,2,0,,,,,,"",""
+ball,2,13.6,Greece,AS Mehmi,C Bogdanos,JM Vujinovich,0,0,,,,,,"",""
+ball,2,14.1,Greece,C Bogdanos,AS Mehmi,B Jerkovic,4,0,,,,,,"",""
+ball,2,14.2,Greece,C Bogdanos,AS Mehmi,B Jerkovic,1,0,,,,,,"",""
+ball,2,14.3,Greece,AS Mehmi,C Bogdanos,B Jerkovic,0,0,,,,,,caught,AS Mehmi
+ball,2,14.4,Greece,Aslam Mohammad,C Bogdanos,B Jerkovic,1,0,,,,,,"",""
+ball,2,14.5,Greece,C Bogdanos,Aslam Mohammad,B Jerkovic,0,0,,,,,,"",""
+ball,2,14.6,Greece,C Bogdanos,Aslam Mohammad,B Jerkovic,0,0,,,,,,"",""
+ball,2,15.1,Greece,Aslam Mohammad,C Bogdanos,SD Valjalo,0,0,,,,,,"",""
+ball,2,15.2,Greece,Aslam Mohammad,C Bogdanos,SD Valjalo,0,0,,,,,,"",""
+ball,2,15.3,Greece,Aslam Mohammad,C Bogdanos,SD Valjalo,0,0,,,,,,bowled,Aslam Mohammad
+ball,2,15.4,Greece,A Gasteratos,C Bogdanos,SD Valjalo,0,0,,,,,,"",""
+ball,2,15.5,Greece,A Gasteratos,C Bogdanos,SD Valjalo,0,0,,,,,,"",""
+ball,2,15.6,Greece,A Gasteratos,C Bogdanos,SD Valjalo,0,0,,,,,,"",""
+ball,2,16.1,Greece,C Bogdanos,A Gasteratos,JD Newton,0,0,,,,,,"",""
+ball,2,16.2,Greece,C Bogdanos,A Gasteratos,JD Newton,1,0,,,,,,"",""
+ball,2,16.3,Greece,A Gasteratos,C Bogdanos,JD Newton,0,0,,,,,,"",""
+ball,2,16.4,Greece,A Gasteratos,C Bogdanos,JD Newton,0,0,,,,,,"",""
+ball,2,16.5,Greece,A Gasteratos,C Bogdanos,JD Newton,2,0,,,,,,"",""
+ball,2,16.6,Greece,A Gasteratos,C Bogdanos,JD Newton,0,0,,,,,,"",""
+ball,2,17.1,Greece,C Bogdanos,A Gasteratos,SD Valjalo,4,0,,,,,,"",""
+ball,2,17.2,Greece,C Bogdanos,A Gasteratos,SD Valjalo,0,0,,,,,,"",""
+ball,2,17.3,Greece,C Bogdanos,A Gasteratos,SD Valjalo,0,0,,,,,,"",""
+ball,2,17.4,Greece,C Bogdanos,A Gasteratos,SD Valjalo,1,0,,,,,,"",""
+ball,2,17.5,Greece,A Gasteratos,C Bogdanos,SD Valjalo,1,0,,,,,,"",""
+ball,2,17.6,Greece,C Bogdanos,A Gasteratos,SD Valjalo,2,0,,,,,,"",""
+ball,2,18.1,Greece,A Gasteratos,C Bogdanos,JD Newton,1,0,,,,,,"",""
+ball,2,18.2,Greece,C Bogdanos,A Gasteratos,JD Newton,0,0,,,,,,"",""
+ball,2,18.3,Greece,C Bogdanos,A Gasteratos,JD Newton,0,0,,,,,,"",""
+ball,2,18.4,Greece,C Bogdanos,A Gasteratos,JD Newton,0,1,,,,1,,"",""
+ball,2,18.5,Greece,A Gasteratos,C Bogdanos,JD Newton,0,0,,,,,,caught,A Gasteratos
+ball,2,18.6,Greece,GC Galanis,C Bogdanos,JD Newton,0,1,1,,,,,"",""
+ball,2,18.7,Greece,GC Galanis,C Bogdanos,JD Newton,0,0,,,,,,"",""
+ball,2,19.1,Greece,C Bogdanos,GC Galanis,B Jerkovic,1,0,,,,,,"",""
+ball,2,19.2,Greece,GC Galanis,C Bogdanos,B Jerkovic,1,0,,,,,,"",""
+ball,2,19.3,Greece,C Bogdanos,GC Galanis,B Jerkovic,1,0,,,,,,"",""
+ball,2,19.4,Greece,GC Galanis,C Bogdanos,B Jerkovic,1,0,,,,,,"",""
+ball,2,19.5,Greece,C Bogdanos,GC Galanis,B Jerkovic,0,0,,,,,,caught,C Bogdanos
+ball,2,19.6,Greece,T Zotos,GC Galanis,B Jerkovic,0,0,,,,,,bowled,T Zotos

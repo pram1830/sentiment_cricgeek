@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Singapore
+info,gender,female
+info,season,2022
+info,date,2022/07/09
+info,event,Saudari Cup
+info,match_number,2
+info,venue,"Indian Association Ground, Singapore"
+info,city,Singapore
+info,toss_winner,Singapore
+info,toss_decision,field
+info,player_of_match,Siow Tzin Yee
+info,umpire,Foyes Ahmed
+info,umpire,Pramesh Parab
+info,reserve_umpire,Ravi Putcha
+info,match_referee,Sarika Prasad
+info,winner,Malaysia
+info,winner_runs,75
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Siow Tzin Yee
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Sasha Azmi
+info,player,Malaysia,J Intan
+info,player,Malaysia,Nik Nur Atiela
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,Zumika Azmi
+info,player,Singapore,RR Seth
+info,player,Singapore,CH Abeyratne
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,GK Diviya
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,H Dhavina
+info,player,Singapore,Zay Hua Tan
+info,player,Singapore,JS Pooranakaran
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,CH Abeyratne,ef423744
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,J Intan,2dfdd316
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,Nik Nur Atiela,cfdfe39c
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,Pramesh Parab,ef69619a
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Ravi Putcha,ffecc5bc
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sasha Azmi,9e4f6851
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Siow Tzin Yee,686b7194
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c
+info,registry,people,Zay Hua Tan,b0576916
+info,registry,people,Zumika Azmi,d35c1fc7
+ball,1,0.1,Malaysia,WA Duraisingam,Wan Julia,GK Diviya,3,0,,,,,,"",""
+ball,1,0.2,Malaysia,Wan Julia,WA Duraisingam,GK Diviya,3,0,,,,,,"",""
+ball,1,0.3,Malaysia,WA Duraisingam,Wan Julia,GK Diviya,0,0,,,,,,"",""
+ball,1,0.4,Malaysia,WA Duraisingam,Wan Julia,GK Diviya,0,1,,,1,,,"",""
+ball,1,0.5,Malaysia,Wan Julia,WA Duraisingam,GK Diviya,0,0,,,,,,"",""
+ball,1,0.6,Malaysia,Wan Julia,WA Duraisingam,GK Diviya,1,0,,,,,,"",""
+ball,1,1.1,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,2,0,,,,,,"",""
+ball,1,1.2,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,4,0,,,,,,"",""
+ball,1,1.3,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,0,0,,,,,,"",""
+ball,1,1.4,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,0,0,,,,,,"",""
+ball,1,1.5,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,2,0,,,,,,"",""
+ball,1,1.6,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,0,1,,,1,,,"",""
+ball,1,2.1,Malaysia,Wan Julia,WA Duraisingam,GK Diviya,0,0,,,,,,"",""
+ball,1,2.2,Malaysia,Wan Julia,WA Duraisingam,GK Diviya,0,0,,,,,,"",""
+ball,1,2.3,Malaysia,Wan Julia,WA Duraisingam,GK Diviya,1,0,,,,,,"",""
+ball,1,2.4,Malaysia,WA Duraisingam,Wan Julia,GK Diviya,0,0,,,,,,"",""
+ball,1,2.5,Malaysia,WA Duraisingam,Wan Julia,GK Diviya,1,0,,,,,,"",""
+ball,1,2.6,Malaysia,Wan Julia,WA Duraisingam,GK Diviya,0,0,,,,,,"",""
+ball,1,3.1,Malaysia,WA Duraisingam,Wan Julia,Ada Bhasin,0,1,,,,1,,"",""
+ball,1,3.2,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,0,0,,,,,,"",""
+ball,1,3.3,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,0,0,,,,,,"",""
+ball,1,3.4,Malaysia,Wan Julia,WA Duraisingam,Ada Bhasin,0,0,,,,,,caught,Wan Julia
+ball,1,3.5,Malaysia,WA Duraisingam,Mas Elysa,Ada Bhasin,0,0,,,,,,"",""
+ball,1,3.6,Malaysia,WA Duraisingam,Mas Elysa,Ada Bhasin,0,1,1,,,,,"",""
+ball,1,3.7,Malaysia,WA Duraisingam,Mas Elysa,Ada Bhasin,0,1,,,,1,,"",""
+ball,1,4.1,Malaysia,WA Duraisingam,Mas Elysa,Shafina Mahesh,2,1,,1,,,,"",""
+ball,1,4.2,Malaysia,WA Duraisingam,Mas Elysa,Shafina Mahesh,3,0,,,,,,"",""
+ball,1,4.3,Malaysia,Mas Elysa,WA Duraisingam,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,4.4,Malaysia,WA Duraisingam,Mas Elysa,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,4.5,Malaysia,WA Duraisingam,Mas Elysa,Shafina Mahesh,2,0,,,,,,"",""
+ball,1,4.6,Malaysia,WA Duraisingam,Mas Elysa,Shafina Mahesh,0,0,,,,,,caught,WA Duraisingam
+ball,1,4.7,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,4.8,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,5.1,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,0,1,1,,,,,"",""
+ball,1,5.2,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,2,0,,,,,,"",""
+ball,1,5.3,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,1,0,,,,,,"",""
+ball,1,5.4,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,0,0,,,,,,"",""
+ball,1,5.5,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,0,0,,,,,,"",""
+ball,1,5.6,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,2,0,,,,,,"",""
+ball,1,5.7,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,4,0,,,,,,"",""
+ball,1,6.1,Malaysia,Mas Elysa,Siow Tzin Yee,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,6.2,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,2,0,,,,,,"",""
+ball,1,6.3,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,3,0,,,,,,"",""
+ball,1,6.4,Malaysia,Mas Elysa,Siow Tzin Yee,Shafina Mahesh,2,0,,,,,,"",""
+ball,1,6.5,Malaysia,Mas Elysa,Siow Tzin Yee,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,6.6,Malaysia,Mas Elysa,Siow Tzin Yee,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,7.1,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,0,0,,,,,,"",""
+ball,1,7.2,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,3,0,,,,,,"",""
+ball,1,7.3,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,2,0,,,,,,"",""
+ball,1,7.4,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,2,0,,,,,,"",""
+ball,1,7.5,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,0,0,,,,,,"",""
+ball,1,7.6,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,0,0,,,,,,"",""
+ball,1,8.1,Malaysia,Mas Elysa,Siow Tzin Yee,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,8.2,Malaysia,Mas Elysa,Siow Tzin Yee,JS Pooranakaran,3,0,,,,,,"",""
+ball,1,8.3,Malaysia,Siow Tzin Yee,Mas Elysa,JS Pooranakaran,0,2,2,,,,,"",""
+ball,1,8.4,Malaysia,Mas Elysa,Siow Tzin Yee,JS Pooranakaran,0,1,1,,,,,"",""
+ball,1,8.5,Malaysia,Mas Elysa,Siow Tzin Yee,JS Pooranakaran,2,0,,,,,,"",""
+ball,1,8.6,Malaysia,Mas Elysa,Siow Tzin Yee,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,8.7,Malaysia,Mas Elysa,Siow Tzin Yee,JS Pooranakaran,1,1,,1,,,,"",""
+ball,1,8.8,Malaysia,Siow Tzin Yee,Mas Elysa,JS Pooranakaran,4,0,,,,,,"",""
+ball,1,8.9,Malaysia,Siow Tzin Yee,Mas Elysa,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,9.1,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,0,0,,,,,,"",""
+ball,1,9.2,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,1,0,,,,,,"",""
+ball,1,9.3,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,4,0,,,,,,"",""
+ball,1,9.4,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,9.5,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,1,0,,,,,,"",""
+ball,1,9.6,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,1,0,,,,,,"",""
+ball,1,10.1,Malaysia,Siow Tzin Yee,Mas Elysa,CH Abeyratne,0,2,2,,,,,"",""
+ball,1,10.2,Malaysia,Mas Elysa,Siow Tzin Yee,CH Abeyratne,2,0,,,,,,"",""
+ball,1,10.3,Malaysia,Mas Elysa,Siow Tzin Yee,CH Abeyratne,1,0,,,,,,"",""
+ball,1,10.4,Malaysia,Siow Tzin Yee,Mas Elysa,CH Abeyratne,4,0,,,,,,"",""
+ball,1,10.5,Malaysia,Siow Tzin Yee,Mas Elysa,CH Abeyratne,2,0,,,,,,"",""
+ball,1,10.6,Malaysia,Siow Tzin Yee,Mas Elysa,CH Abeyratne,0,0,,,,,,"",""
+ball,1,10.7,Malaysia,Siow Tzin Yee,Mas Elysa,CH Abeyratne,2,0,,,,,,"",""
+ball,1,11.1,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,11.2,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,11.3,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,11.4,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,11.5,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,11.6,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,2,0,,,,,,"",""
+ball,1,12.1,Malaysia,Siow Tzin Yee,Mas Elysa,Ada Bhasin,0,0,,,,,,"",""
+ball,1,12.2,Malaysia,Siow Tzin Yee,Mas Elysa,Ada Bhasin,1,0,,,,,,"",""
+ball,1,12.3,Malaysia,Mas Elysa,Siow Tzin Yee,Ada Bhasin,1,0,,,,,,"",""
+ball,1,12.4,Malaysia,Siow Tzin Yee,Mas Elysa,Ada Bhasin,0,0,,,,,,"",""
+ball,1,12.5,Malaysia,Siow Tzin Yee,Mas Elysa,Ada Bhasin,0,0,,,,,,"",""
+ball,1,12.6,Malaysia,Siow Tzin Yee,Mas Elysa,Ada Bhasin,2,0,,,,,,"",""
+ball,1,13.1,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,1,0,,,,,,"",""
+ball,1,13.2,Malaysia,Siow Tzin Yee,Mas Elysa,Vinu Kumar,1,0,,,,,,"",""
+ball,1,13.3,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,0,0,,,,,,"",""
+ball,1,13.4,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,0,1,1,,,,,"",""
+ball,1,13.5,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,2,0,,,,,,"",""
+ball,1,13.6,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,4,0,,,,,,"",""
+ball,1,13.7,Malaysia,Mas Elysa,Siow Tzin Yee,Vinu Kumar,1,0,,,,,,"",""
+ball,1,14.1,Malaysia,Mas Elysa,Siow Tzin Yee,GK Diviya,1,0,,,,,,"",""
+ball,1,14.2,Malaysia,Siow Tzin Yee,Mas Elysa,GK Diviya,0,0,,,,,,"",""
+ball,1,14.3,Malaysia,Siow Tzin Yee,Mas Elysa,GK Diviya,1,0,,,,,,"",""
+ball,1,14.4,Malaysia,Mas Elysa,Siow Tzin Yee,GK Diviya,0,0,,,,,,"",""
+ball,1,14.5,Malaysia,Mas Elysa,Siow Tzin Yee,GK Diviya,0,0,,,,,,"",""
+ball,1,14.6,Malaysia,Mas Elysa,Siow Tzin Yee,GK Diviya,0,0,,,,,,"",""
+ball,1,15.1,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,2,0,,,,,,"",""
+ball,1,15.2,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,1,0,,,,,,"",""
+ball,1,15.3,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,15.4,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,4,0,,,,,,"",""
+ball,1,15.5,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,15.6,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,2,0,,,,,,"",""
+ball,1,16.1,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,16.2,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,16.3,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,2,0,,,,,,"",""
+ball,1,16.4,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,16.5,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,16.6,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,16.7,Malaysia,Siow Tzin Yee,Mas Elysa,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,17.1,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,2,0,,,,,,"",""
+ball,1,17.2,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,1,0,,,,,,"",""
+ball,1,17.3,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,1,0,,,,,,"",""
+ball,1,17.4,Malaysia,Siow Tzin Yee,Mas Elysa,H Dhavina,1,0,,,,,,"",""
+ball,1,17.5,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,0,0,,,,,,"",""
+ball,1,17.6,Malaysia,Mas Elysa,Siow Tzin Yee,H Dhavina,1,0,,,,,,"",""
+ball,1,18.1,Malaysia,Mas Elysa,Siow Tzin Yee,GK Diviya,1,0,,,,,,"",""
+ball,1,18.2,Malaysia,Siow Tzin Yee,Mas Elysa,GK Diviya,3,0,,,,,,"",""
+ball,1,18.3,Malaysia,Mas Elysa,Siow Tzin Yee,GK Diviya,0,0,,,,,,"",""
+ball,1,18.4,Malaysia,Mas Elysa,Siow Tzin Yee,GK Diviya,3,0,,,,,,"",""
+ball,1,18.5,Malaysia,Siow Tzin Yee,Mas Elysa,GK Diviya,2,0,,,,,,"",""
+ball,1,18.6,Malaysia,Siow Tzin Yee,Mas Elysa,GK Diviya,0,0,,,,,,"",""
+ball,1,19.1,Malaysia,Mas Elysa,Siow Tzin Yee,Ada Bhasin,0,1,1,,,,,"",""
+ball,1,19.2,Malaysia,Mas Elysa,Siow Tzin Yee,Ada Bhasin,1,0,,,,,,"",""
+ball,1,19.3,Malaysia,Siow Tzin Yee,Mas Elysa,Ada Bhasin,1,0,,,,,,"",""
+ball,1,19.4,Malaysia,Mas Elysa,Siow Tzin Yee,Ada Bhasin,1,0,,,,,,"",""
+ball,1,19.5,Malaysia,Siow Tzin Yee,Mas Elysa,Ada Bhasin,1,0,,,,,,"",""
+ball,1,19.6,Malaysia,Mas Elysa,Siow Tzin Yee,Ada Bhasin,0,0,,,,,,caught,Mas Elysa
+ball,1,19.7,Malaysia,Siow Tzin Yee,Ainna Hamizah Hashim,Ada Bhasin,1,0,,,,,,"",""
+ball,2,0.1,Singapore,RR Seth,CH Abeyratne,WA Duraisingam,0,0,,,,,,"",""
+ball,2,0.2,Singapore,RR Seth,CH Abeyratne,WA Duraisingam,4,0,,,,,,"",""
+ball,2,0.3,Singapore,RR Seth,CH Abeyratne,WA Duraisingam,0,0,,,,,,"",""
+ball,2,0.4,Singapore,RR Seth,CH Abeyratne,WA Duraisingam,0,0,,,,,,"",""
+ball,2,0.5,Singapore,RR Seth,CH Abeyratne,WA Duraisingam,0,0,,,,,,"",""
+ball,2,0.6,Singapore,RR Seth,CH Abeyratne,WA Duraisingam,0,0,,,,,,"",""
+ball,2,1.1,Singapore,CH Abeyratne,RR Seth,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,1.2,Singapore,CH Abeyratne,RR Seth,Nur Dania Syuhada,0,0,,,,,,caught,CH Abeyratne
+ball,2,1.3,Singapore,Shafina Mahesh,RR Seth,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,1.4,Singapore,Shafina Mahesh,RR Seth,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,1.5,Singapore,Shafina Mahesh,RR Seth,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,1.6,Singapore,Shafina Mahesh,RR Seth,Nur Dania Syuhada,0,0,,,,,,caught,Shafina Mahesh
+ball,2,2.1,Singapore,RR Seth,Riyaa Bhasin,WA Duraisingam,2,0,,,,,,"",""
+ball,2,2.2,Singapore,RR Seth,Riyaa Bhasin,WA Duraisingam,0,0,,,,,,"",""
+ball,2,2.3,Singapore,RR Seth,Riyaa Bhasin,WA Duraisingam,0,0,,,,,,"",""
+ball,2,2.4,Singapore,RR Seth,Riyaa Bhasin,WA Duraisingam,2,0,,,,,,"",""
+ball,2,2.5,Singapore,RR Seth,Riyaa Bhasin,WA Duraisingam,4,0,,,,,,"",""
+ball,2,2.6,Singapore,RR Seth,Riyaa Bhasin,WA Duraisingam,0,0,,,,,,"",""
+ball,2,3.1,Singapore,Riyaa Bhasin,RR Seth,Nur Dania Syuhada,2,0,,,,,,"",""
+ball,2,3.2,Singapore,Riyaa Bhasin,RR Seth,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,3.3,Singapore,RR Seth,Riyaa Bhasin,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,3.4,Singapore,RR Seth,Riyaa Bhasin,Nur Dania Syuhada,0,0,,,,,,stumped,RR Seth
+ball,2,3.5,Singapore,Ada Bhasin,Riyaa Bhasin,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,3.6,Singapore,Ada Bhasin,Riyaa Bhasin,Nur Dania Syuhada,2,0,,,,,,"",""
+ball,2,4.1,Singapore,Riyaa Bhasin,Ada Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,4.2,Singapore,Riyaa Bhasin,Ada Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,4.3,Singapore,Riyaa Bhasin,Ada Bhasin,Sasha Azmi,1,0,,,,,,"",""
+ball,2,4.4,Singapore,Ada Bhasin,Riyaa Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,4.5,Singapore,Ada Bhasin,Riyaa Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,4.6,Singapore,Ada Bhasin,Riyaa Bhasin,Sasha Azmi,0,1,1,,,,,"",""
+ball,2,4.7,Singapore,Ada Bhasin,Riyaa Bhasin,Sasha Azmi,4,0,,,,,,"",""
+ball,2,5.1,Singapore,Riyaa Bhasin,Ada Bhasin,Nur Dania Syuhada,2,0,,,,,,"",""
+ball,2,5.2,Singapore,Riyaa Bhasin,Ada Bhasin,Nur Dania Syuhada,0,0,,,,,,caught,Riyaa Bhasin
+ball,2,5.3,Singapore,Ada Bhasin,Vinu Kumar,Nur Dania Syuhada,2,0,,,,,,"",""
+ball,2,5.4,Singapore,Ada Bhasin,Vinu Kumar,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,5.5,Singapore,Ada Bhasin,Vinu Kumar,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,5.6,Singapore,Vinu Kumar,Ada Bhasin,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,6.1,Singapore,Ada Bhasin,Vinu Kumar,Sasha Azmi,1,0,,,,,,"",""
+ball,2,6.2,Singapore,Vinu Kumar,Ada Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,6.3,Singapore,Vinu Kumar,Ada Bhasin,Sasha Azmi,0,0,,,,,,caught,Vinu Kumar
+ball,2,6.4,Singapore,GK Diviya,Ada Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,6.5,Singapore,GK Diviya,Ada Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,6.6,Singapore,GK Diviya,Ada Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,7.1,Singapore,Ada Bhasin,GK Diviya,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,7.2,Singapore,GK Diviya,Ada Bhasin,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,7.3,Singapore,GK Diviya,Ada Bhasin,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,7.4,Singapore,Ada Bhasin,GK Diviya,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,7.5,Singapore,GK Diviya,Ada Bhasin,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,7.6,Singapore,Ada Bhasin,GK Diviya,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,8.1,Singapore,GK Diviya,Ada Bhasin,Sasha Azmi,0,0,,,,,,"",""
+ball,2,8.2,Singapore,GK Diviya,Ada Bhasin,Sasha Azmi,0,1,,,,1,,"",""
+ball,2,8.3,Singapore,Ada Bhasin,GK Diviya,Sasha Azmi,0,0,,,,,,"",""
+ball,2,8.4,Singapore,Ada Bhasin,GK Diviya,Sasha Azmi,2,0,,,,,,"",""
+ball,2,8.5,Singapore,Ada Bhasin,GK Diviya,Sasha Azmi,0,0,,,,,,"",""
+ball,2,8.6,Singapore,Ada Bhasin,GK Diviya,Sasha Azmi,0,0,,,,,,"",""
+ball,2,9.1,Singapore,GK Diviya,Ada Bhasin,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,9.2,Singapore,Ada Bhasin,GK Diviya,Nur Arianna Natsya,0,2,2,,,,,"",""
+ball,2,9.3,Singapore,GK Diviya,Ada Bhasin,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,9.4,Singapore,GK Diviya,Ada Bhasin,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,9.5,Singapore,Ada Bhasin,GK Diviya,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,9.6,Singapore,Ada Bhasin,GK Diviya,Nur Arianna Natsya,0,1,1,,,,,"",""
+ball,2,9.7,Singapore,Ada Bhasin,GK Diviya,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,9.8,Singapore,GK Diviya,Ada Bhasin,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,10.1,Singapore,Ada Bhasin,GK Diviya,Sasha Azmi,0,0,,,,,,bowled,Ada Bhasin
+ball,2,10.2,Singapore,PSR Gurusinghe,GK Diviya,Sasha Azmi,0,0,,,,,,bowled,PSR Gurusinghe
+ball,2,10.3,Singapore,H Dhavina,GK Diviya,Sasha Azmi,0,1,,1,,,,"",""
+ball,2,10.4,Singapore,H Dhavina,GK Diviya,Sasha Azmi,0,0,,,,,,"",""
+ball,2,10.5,Singapore,H Dhavina,GK Diviya,Sasha Azmi,0,0,,,,,,"",""
+ball,2,10.6,Singapore,H Dhavina,GK Diviya,Sasha Azmi,0,0,,,,,,"",""
+ball,2,10.7,Singapore,H Dhavina,GK Diviya,Sasha Azmi,0,0,,,,,,"",""
+ball,2,11.1,Singapore,GK Diviya,H Dhavina,Zumika Azmi,0,0,,,,,,"",""
+ball,2,11.2,Singapore,GK Diviya,H Dhavina,Zumika Azmi,0,0,,,,,,"",""
+ball,2,11.3,Singapore,GK Diviya,H Dhavina,Zumika Azmi,1,0,,,,,,"",""
+ball,2,11.4,Singapore,H Dhavina,GK Diviya,Zumika Azmi,0,0,,,,,,"",""
+ball,2,11.5,Singapore,H Dhavina,GK Diviya,Zumika Azmi,0,0,,,,,,"",""
+ball,2,11.6,Singapore,H Dhavina,GK Diviya,Zumika Azmi,0,0,,,,,,"",""
+ball,2,12.1,Singapore,GK Diviya,H Dhavina,Ainna Hamizah Hashim,0,0,,,,,,run out,H Dhavina
+ball,2,12.2,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,1,0,,,,,,"",""
+ball,2,12.3,Singapore,GK Diviya,Zay Hua Tan,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,12.4,Singapore,GK Diviya,Zay Hua Tan,Ainna Hamizah Hashim,1,0,,,,,,"",""
+ball,2,12.5,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,12.6,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,0,1,1,,,,,"",""
+ball,2,12.7,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,13.1,Singapore,GK Diviya,Zay Hua Tan,Zumika Azmi,1,0,,,,,,"",""
+ball,2,13.2,Singapore,Zay Hua Tan,GK Diviya,Zumika Azmi,1,0,,,,,,"",""
+ball,2,13.3,Singapore,GK Diviya,Zay Hua Tan,Zumika Azmi,0,3,,1,2,,,"",""
+ball,2,13.4,Singapore,GK Diviya,Zay Hua Tan,Zumika Azmi,2,0,,,,,,"",""
+ball,2,13.5,Singapore,GK Diviya,Zay Hua Tan,Zumika Azmi,0,0,,,,,,"",""
+ball,2,13.6,Singapore,GK Diviya,Zay Hua Tan,Zumika Azmi,1,0,,,,,,"",""
+ball,2,13.7,Singapore,Zay Hua Tan,GK Diviya,Zumika Azmi,0,1,1,,,,,"",""
+ball,2,13.8,Singapore,Zay Hua Tan,GK Diviya,Zumika Azmi,1,0,,,,,,"",""
+ball,2,14.1,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,1,0,,,,,,"",""
+ball,2,14.2,Singapore,GK Diviya,Zay Hua Tan,Ainna Hamizah Hashim,1,0,,,,,,"",""
+ball,2,14.3,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,14.4,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,14.5,Singapore,Zay Hua Tan,GK Diviya,Ainna Hamizah Hashim,1,0,,,,,,"",""
+ball,2,14.6,Singapore,GK Diviya,Zay Hua Tan,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,15.1,Singapore,Zay Hua Tan,GK Diviya,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,15.2,Singapore,GK Diviya,Zay Hua Tan,Nur Arianna Natsya,2,0,,,,,,"",""
+ball,2,15.3,Singapore,GK Diviya,Zay Hua Tan,Nur Arianna Natsya,0,1,1,,,,,"",""
+ball,2,15.4,Singapore,GK Diviya,Zay Hua Tan,Nur Arianna Natsya,0,1,1,,,,,"",""
+ball,2,15.5,Singapore,GK Diviya,Zay Hua Tan,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,15.6,Singapore,GK Diviya,Zay Hua Tan,Nur Arianna Natsya,0,0,,,,,,lbw,GK Diviya
+ball,2,15.7,Singapore,JS Pooranakaran,Zay Hua Tan,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,15.8,Singapore,JS Pooranakaran,Zay Hua Tan,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,16.1,Singapore,Zay Hua Tan,JS Pooranakaran,Siow Tzin Yee,0,0,,,,,,"",""
+ball,2,16.2,Singapore,Zay Hua Tan,JS Pooranakaran,Siow Tzin Yee,1,0,,,,,,"",""
+ball,2,16.3,Singapore,JS Pooranakaran,Zay Hua Tan,Siow Tzin Yee,0,0,,,,,,"",""
+ball,2,16.4,Singapore,JS Pooranakaran,Zay Hua Tan,Siow Tzin Yee,0,0,,,,,,"",""
+ball,2,16.5,Singapore,JS Pooranakaran,Zay Hua Tan,Siow Tzin Yee,0,0,,,,,,"",""
+ball,2,16.6,Singapore,JS Pooranakaran,Zay Hua Tan,Siow Tzin Yee,0,1,1,,,,,"",""
+ball,2,16.7,Singapore,JS Pooranakaran,Zay Hua Tan,Siow Tzin Yee,0,0,,,,,,"",""
+ball,2,17.1,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,0,,,,,,"",""
+ball,2,17.2,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,0,,,,,,"",""
+ball,2,17.3,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,0,,,,,,"",""
+ball,2,17.4,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,1,1,,,,,"",""
+ball,2,17.5,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,0,,,,,,"",""
+ball,2,17.6,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,1,1,,,,,"",""
+ball,2,17.7,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,1,1,,,,,"",""
+ball,2,17.8,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,0,,,,,,"",""
+ball,2,17.9,Singapore,Zay Hua Tan,JS Pooranakaran,Nik Nur Atiela,0,0,,,,,,bowled,Zay Hua Tan

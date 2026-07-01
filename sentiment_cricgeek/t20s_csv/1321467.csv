@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Papua New Guinea
+info,gender,male
+info,season,2022
+info,date,2022/07/11
+info,event,ICC Men's T20 World Cup Qualifier
+info,match_number,3
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,BFW de Leede
+info,umpire,BP Jele
+info,umpire,Gazi Sohel
+info,reserve_umpire,S George
+info,match_referee,S Wadvalla
+info,winner,Netherlands
+info,winner_runs,52
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,SJ Myburgh
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,TLW Cooper
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,TJG Pringle
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,FJ Klaassen
+info,player,Netherlands,PA van Meekeren
+info,player,Netherlands,Shariz Ahmad
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,HGV Vare
+info,player,Papua New Guinea,SK Atai
+info,player,Papua New Guinea,D Ravu
+info,player,Papua New Guinea,SI Kamea
+info,registry,people,A Vala,72e60730
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,D Ravu,053f3ce3
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,HGV Vare,98299b67
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,N Vanua,a36915ce
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,R Hekure,c70448aa
+info,registry,people,S Bau,9a95bebb
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SI Kamea,0730a707
+info,registry,people,SJ Myburgh,18261c22
+info,registry,people,SK Atai,a64e3b89
+info,registry,people,Shariz Ahmad,7595b47f
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,TLW Cooper,2318ba22
+info,registry,people,TP Ura,a82eb3fb
+ball,1,0.1,Netherlands,MP O'Dowd,SJ Myburgh,A Vala,1,0,,,,,,"",""
+ball,1,0.2,Netherlands,SJ Myburgh,MP O'Dowd,A Vala,0,1,1,,,,,"",""
+ball,1,0.3,Netherlands,SJ Myburgh,MP O'Dowd,A Vala,0,0,,,,,,"",""
+ball,1,0.4,Netherlands,SJ Myburgh,MP O'Dowd,A Vala,0,0,,,,,,"",""
+ball,1,0.5,Netherlands,SJ Myburgh,MP O'Dowd,A Vala,2,0,,,,,,"",""
+ball,1,0.6,Netherlands,SJ Myburgh,MP O'Dowd,A Vala,1,0,,,,,,"",""
+ball,1,0.7,Netherlands,MP O'Dowd,SJ Myburgh,A Vala,4,0,,,,,,"",""
+ball,1,1.1,Netherlands,SJ Myburgh,MP O'Dowd,SI Kamea,0,0,,,,,,"",""
+ball,1,1.2,Netherlands,SJ Myburgh,MP O'Dowd,SI Kamea,0,1,1,,,,,"",""
+ball,1,1.3,Netherlands,SJ Myburgh,MP O'Dowd,SI Kamea,1,0,,,,,,"",""
+ball,1,1.4,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,0,0,,,,,,"",""
+ball,1,1.5,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,0,1,,,,1,,"",""
+ball,1,1.6,Netherlands,SJ Myburgh,MP O'Dowd,SI Kamea,4,0,,,,,,"",""
+ball,1,1.7,Netherlands,SJ Myburgh,MP O'Dowd,SI Kamea,1,0,,,,,,"",""
+ball,1,2.1,Netherlands,SJ Myburgh,MP O'Dowd,D Ravu,2,0,,,,,,"",""
+ball,1,2.2,Netherlands,SJ Myburgh,MP O'Dowd,D Ravu,1,0,,,,,,"",""
+ball,1,2.3,Netherlands,MP O'Dowd,SJ Myburgh,D Ravu,0,1,1,,,,,"",""
+ball,1,2.4,Netherlands,MP O'Dowd,SJ Myburgh,D Ravu,0,0,,,,,,"",""
+ball,1,2.5,Netherlands,MP O'Dowd,SJ Myburgh,D Ravu,1,0,,,,,,"",""
+ball,1,2.6,Netherlands,SJ Myburgh,MP O'Dowd,D Ravu,2,0,,,,,,"",""
+ball,1,2.7,Netherlands,SJ Myburgh,MP O'Dowd,D Ravu,4,0,,,,,,"",""
+ball,1,3.1,Netherlands,MP O'Dowd,SJ Myburgh,N Vanua,0,1,,,,1,,"",""
+ball,1,3.2,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,4,0,,,,,,"",""
+ball,1,3.4,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,1,0,,,,,,"",""
+ball,1,3.5,Netherlands,MP O'Dowd,SJ Myburgh,N Vanua,1,0,,,,,,"",""
+ball,1,3.6,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,0,0,,,,,,"",""
+ball,1,4.1,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,4,0,,,,,,"",""
+ball,1,4.2,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,0,0,,,,,,"",""
+ball,1,4.3,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,0,0,,,,,,"",""
+ball,1,4.4,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,0,4,,,4,,,"",""
+ball,1,4.5,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,0,0,,,,,,"",""
+ball,1,4.6,Netherlands,MP O'Dowd,SJ Myburgh,SI Kamea,4,0,,,,,,"",""
+ball,1,5.1,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,4,0,,,,,,"",""
+ball,1,5.2,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,6,0,,,,,,"",""
+ball,1,5.3,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,1,0,,,,,,"",""
+ball,1,5.4,Netherlands,MP O'Dowd,SJ Myburgh,N Vanua,2,0,,,,,,"",""
+ball,1,5.5,Netherlands,MP O'Dowd,SJ Myburgh,N Vanua,1,0,,,,,,"",""
+ball,1,5.6,Netherlands,SJ Myburgh,MP O'Dowd,N Vanua,1,0,,,,,,"",""
+ball,1,6.1,Netherlands,SJ Myburgh,MP O'Dowd,CJA Amini,2,0,,,,,,"",""
+ball,1,6.2,Netherlands,SJ Myburgh,MP O'Dowd,CJA Amini,1,0,,,,,,"",""
+ball,1,6.3,Netherlands,MP O'Dowd,SJ Myburgh,CJA Amini,1,0,,,,,,"",""
+ball,1,6.4,Netherlands,SJ Myburgh,MP O'Dowd,CJA Amini,1,0,,,,,,"",""
+ball,1,6.5,Netherlands,MP O'Dowd,SJ Myburgh,CJA Amini,0,1,1,,,,,"",""
+ball,1,6.6,Netherlands,MP O'Dowd,SJ Myburgh,CJA Amini,4,0,,,,,,"",""
+ball,1,6.7,Netherlands,MP O'Dowd,SJ Myburgh,CJA Amini,1,0,,,,,,"",""
+ball,1,7.1,Netherlands,MP O'Dowd,SJ Myburgh,R Hekure,4,0,,,,,,"",""
+ball,1,7.2,Netherlands,MP O'Dowd,SJ Myburgh,R Hekure,1,0,,,,,,"",""
+ball,1,7.3,Netherlands,SJ Myburgh,MP O'Dowd,R Hekure,0,0,,,,,,bowled,SJ Myburgh
+ball,1,7.4,Netherlands,SA Edwards,MP O'Dowd,R Hekure,1,0,,,,,,"",""
+ball,1,7.5,Netherlands,MP O'Dowd,SA Edwards,R Hekure,0,0,,,,,,"",""
+ball,1,7.6,Netherlands,MP O'Dowd,SA Edwards,R Hekure,1,0,,,,,,"",""
+ball,1,8.1,Netherlands,MP O'Dowd,SA Edwards,CJA Amini,0,0,,,,,,"",""
+ball,1,8.2,Netherlands,MP O'Dowd,SA Edwards,CJA Amini,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,SA Edwards,MP O'Dowd,CJA Amini,1,0,,,,,,"",""
+ball,1,8.4,Netherlands,MP O'Dowd,SA Edwards,CJA Amini,1,0,,,,,,"",""
+ball,1,8.5,Netherlands,SA Edwards,MP O'Dowd,CJA Amini,1,0,,,,,,"",""
+ball,1,8.6,Netherlands,MP O'Dowd,SA Edwards,CJA Amini,0,0,,,,,,bowled,MP O'Dowd
+ball,1,9.1,Netherlands,SA Edwards,TLW Cooper,D Ravu,1,0,,,,,,"",""
+ball,1,9.2,Netherlands,TLW Cooper,SA Edwards,D Ravu,4,0,,,,,,"",""
+ball,1,9.3,Netherlands,TLW Cooper,SA Edwards,D Ravu,1,0,,,,,,"",""
+ball,1,9.4,Netherlands,SA Edwards,TLW Cooper,D Ravu,1,0,,,,,,"",""
+ball,1,9.5,Netherlands,TLW Cooper,SA Edwards,D Ravu,0,1,,,,1,,"",""
+ball,1,9.6,Netherlands,SA Edwards,TLW Cooper,D Ravu,1,0,,,,,,"",""
+ball,1,10.1,Netherlands,SA Edwards,TLW Cooper,CJA Amini,0,0,,,,,,bowled,SA Edwards
+ball,1,10.2,Netherlands,BFW de Leede,TLW Cooper,CJA Amini,1,0,,,,,,"",""
+ball,1,10.3,Netherlands,TLW Cooper,BFW de Leede,CJA Amini,1,0,,,,,,"",""
+ball,1,10.4,Netherlands,BFW de Leede,TLW Cooper,CJA Amini,1,0,,,,,,"",""
+ball,1,10.5,Netherlands,TLW Cooper,BFW de Leede,CJA Amini,1,0,,,,,,run out,TLW Cooper
+ball,1,10.6,Netherlands,AT Nidamanuru,BFW de Leede,CJA Amini,0,0,,,,,,"",""
+ball,1,11.1,Netherlands,BFW de Leede,AT Nidamanuru,D Ravu,1,0,,,,,,"",""
+ball,1,11.2,Netherlands,AT Nidamanuru,BFW de Leede,D Ravu,0,0,,,,,,"",""
+ball,1,11.3,Netherlands,AT Nidamanuru,BFW de Leede,D Ravu,0,0,,,,,,"",""
+ball,1,11.4,Netherlands,AT Nidamanuru,BFW de Leede,D Ravu,0,0,,,,,,"",""
+ball,1,11.5,Netherlands,AT Nidamanuru,BFW de Leede,D Ravu,1,0,,,,,,"",""
+ball,1,11.6,Netherlands,BFW de Leede,AT Nidamanuru,D Ravu,1,0,,,,,,"",""
+ball,1,12.1,Netherlands,BFW de Leede,AT Nidamanuru,CJA Amini,1,0,,,,,,"",""
+ball,1,12.2,Netherlands,AT Nidamanuru,BFW de Leede,CJA Amini,4,0,,,,,,"",""
+ball,1,12.3,Netherlands,AT Nidamanuru,BFW de Leede,CJA Amini,2,0,,,,,,"",""
+ball,1,12.4,Netherlands,AT Nidamanuru,BFW de Leede,CJA Amini,1,0,,,,,,"",""
+ball,1,12.5,Netherlands,BFW de Leede,AT Nidamanuru,CJA Amini,0,0,,,,,,"",""
+ball,1,12.6,Netherlands,BFW de Leede,AT Nidamanuru,CJA Amini,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,BFW de Leede,AT Nidamanuru,SI Kamea,2,0,,,,,,"",""
+ball,1,13.2,Netherlands,BFW de Leede,AT Nidamanuru,SI Kamea,1,0,,,,,,"",""
+ball,1,13.3,Netherlands,AT Nidamanuru,BFW de Leede,SI Kamea,1,0,,,,,,"",""
+ball,1,13.4,Netherlands,BFW de Leede,AT Nidamanuru,SI Kamea,1,0,,,,,,"",""
+ball,1,13.5,Netherlands,AT Nidamanuru,BFW de Leede,SI Kamea,0,0,,,,,,"",""
+ball,1,13.6,Netherlands,AT Nidamanuru,BFW de Leede,SI Kamea,0,1,1,,,,,"",""
+ball,1,13.7,Netherlands,AT Nidamanuru,BFW de Leede,SI Kamea,0,0,,,,,,bowled,AT Nidamanuru
+ball,1,14.1,Netherlands,BFW de Leede,TJG Pringle,R Hekure,1,0,,,,,,"",""
+ball,1,14.2,Netherlands,TJG Pringle,BFW de Leede,R Hekure,1,0,,,,,,"",""
+ball,1,14.3,Netherlands,BFW de Leede,TJG Pringle,R Hekure,0,0,,,,,,"",""
+ball,1,14.4,Netherlands,BFW de Leede,TJG Pringle,R Hekure,1,0,,,,,,"",""
+ball,1,14.5,Netherlands,TJG Pringle,BFW de Leede,R Hekure,1,0,,,,,,"",""
+ball,1,14.6,Netherlands,BFW de Leede,TJG Pringle,R Hekure,0,0,,,,,,"",""
+ball,1,15.1,Netherlands,TJG Pringle,BFW de Leede,SI Kamea,1,0,,,,,,"",""
+ball,1,15.2,Netherlands,BFW de Leede,TJG Pringle,SI Kamea,2,0,,,,,,"",""
+ball,1,15.3,Netherlands,BFW de Leede,TJG Pringle,SI Kamea,1,0,,,,,,"",""
+ball,1,15.4,Netherlands,TJG Pringle,BFW de Leede,SI Kamea,0,0,,,,,,bowled,TJG Pringle
+ball,1,15.5,Netherlands,LV van Beek,BFW de Leede,SI Kamea,0,0,,,,,,"",""
+ball,1,15.6,Netherlands,LV van Beek,BFW de Leede,SI Kamea,0,2,,,,2,,"",""
+ball,1,16.1,Netherlands,BFW de Leede,LV van Beek,R Hekure,1,0,,,,,,"",""
+ball,1,16.2,Netherlands,LV van Beek,BFW de Leede,R Hekure,1,0,,,,,,"",""
+ball,1,16.3,Netherlands,BFW de Leede,LV van Beek,R Hekure,1,0,,,,,,"",""
+ball,1,16.4,Netherlands,LV van Beek,BFW de Leede,R Hekure,1,0,,,,,,"",""
+ball,1,16.5,Netherlands,BFW de Leede,LV van Beek,R Hekure,4,0,,,,,,"",""
+ball,1,16.6,Netherlands,BFW de Leede,LV van Beek,R Hekure,1,0,,,,,,"",""
+ball,1,17.1,Netherlands,BFW de Leede,LV van Beek,N Vanua,2,0,,,,,,"",""
+ball,1,17.2,Netherlands,BFW de Leede,LV van Beek,N Vanua,0,0,,,,,,"",""
+ball,1,17.3,Netherlands,BFW de Leede,LV van Beek,N Vanua,1,0,,,,,,"",""
+ball,1,17.4,Netherlands,LV van Beek,BFW de Leede,N Vanua,1,0,,,,,,"",""
+ball,1,17.5,Netherlands,BFW de Leede,LV van Beek,N Vanua,2,0,,,,,,"",""
+ball,1,17.6,Netherlands,BFW de Leede,LV van Beek,N Vanua,2,0,,,,,,"",""
+ball,1,18.1,Netherlands,LV van Beek,BFW de Leede,D Ravu,0,0,,,,,,"",""
+ball,1,18.2,Netherlands,LV van Beek,BFW de Leede,D Ravu,6,0,,,,,,"",""
+ball,1,18.3,Netherlands,LV van Beek,BFW de Leede,D Ravu,1,0,,,,,,"",""
+ball,1,18.4,Netherlands,BFW de Leede,LV van Beek,D Ravu,4,0,,,,,,"",""
+ball,1,18.5,Netherlands,BFW de Leede,LV van Beek,D Ravu,0,0,,,,,,caught,BFW de Leede
+ball,1,18.6,Netherlands,LV van Beek,FJ Klaassen,D Ravu,0,0,,,,,,"",""
+ball,1,19.1,Netherlands,FJ Klaassen,LV van Beek,N Vanua,1,0,,,,,,"",""
+ball,1,19.2,Netherlands,LV van Beek,FJ Klaassen,N Vanua,2,0,,,,,,"",""
+ball,1,19.3,Netherlands,LV van Beek,FJ Klaassen,N Vanua,2,0,,,,,,"",""
+ball,1,19.4,Netherlands,LV van Beek,FJ Klaassen,N Vanua,0,0,,,,,,"",""
+ball,1,19.5,Netherlands,LV van Beek,FJ Klaassen,N Vanua,2,0,,,,,,"",""
+ball,1,19.6,Netherlands,LV van Beek,FJ Klaassen,N Vanua,3,0,,,,,,"",""
+ball,2,0.1,Papua New Guinea,L Siaka,A Vala,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.2,Papua New Guinea,L Siaka,A Vala,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.3,Papua New Guinea,L Siaka,A Vala,FJ Klaassen,1,0,,,,,,"",""
+ball,2,0.4,Papua New Guinea,A Vala,L Siaka,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.5,Papua New Guinea,A Vala,L Siaka,FJ Klaassen,2,0,,,,,,"",""
+ball,2,0.6,Papua New Guinea,A Vala,L Siaka,FJ Klaassen,4,0,,,,,,"",""
+ball,2,1.1,Papua New Guinea,L Siaka,A Vala,TJG Pringle,0,0,,,,,,"",""
+ball,2,1.2,Papua New Guinea,L Siaka,A Vala,TJG Pringle,4,0,,,,,,"",""
+ball,2,1.3,Papua New Guinea,L Siaka,A Vala,TJG Pringle,0,0,,,,,,"",""
+ball,2,1.4,Papua New Guinea,L Siaka,A Vala,TJG Pringle,0,0,,,,,,"",""
+ball,2,1.5,Papua New Guinea,L Siaka,A Vala,TJG Pringle,0,0,,,,,,"",""
+ball,2,1.6,Papua New Guinea,L Siaka,A Vala,TJG Pringle,0,0,,,,,,"",""
+ball,2,2.1,Papua New Guinea,A Vala,L Siaka,LV van Beek,0,0,,,,,,bowled,A Vala
+ball,2,2.2,Papua New Guinea,CJA Amini,L Siaka,LV van Beek,0,0,,,,,,"",""
+ball,2,2.3,Papua New Guinea,CJA Amini,L Siaka,LV van Beek,0,1,,,,1,,"",""
+ball,2,2.4,Papua New Guinea,L Siaka,CJA Amini,LV van Beek,0,0,,,,,,"",""
+ball,2,2.5,Papua New Guinea,L Siaka,CJA Amini,LV van Beek,2,0,,,,,,"",""
+ball,2,2.6,Papua New Guinea,L Siaka,CJA Amini,LV van Beek,1,0,,,,,,"",""
+ball,2,3.1,Papua New Guinea,L Siaka,CJA Amini,BFW de Leede,1,0,,,,,,"",""
+ball,2,3.2,Papua New Guinea,CJA Amini,L Siaka,BFW de Leede,0,1,,,,1,,"",""
+ball,2,3.3,Papua New Guinea,L Siaka,CJA Amini,BFW de Leede,2,0,,,,,,"",""
+ball,2,3.4,Papua New Guinea,L Siaka,CJA Amini,BFW de Leede,0,0,,,,,,"",""
+ball,2,3.5,Papua New Guinea,L Siaka,CJA Amini,BFW de Leede,0,0,,,,,,"",""
+ball,2,3.6,Papua New Guinea,L Siaka,CJA Amini,BFW de Leede,0,0,,,,,,caught,L Siaka
+ball,2,4.1,Papua New Guinea,S Bau,CJA Amini,FJ Klaassen,0,1,1,,,,,"",""
+ball,2,4.2,Papua New Guinea,S Bau,CJA Amini,FJ Klaassen,0,0,,,,,,"",""
+ball,2,4.3,Papua New Guinea,S Bau,CJA Amini,FJ Klaassen,0,0,,,,,,"",""
+ball,2,4.4,Papua New Guinea,S Bau,CJA Amini,FJ Klaassen,1,0,,,,,,"",""
+ball,2,4.5,Papua New Guinea,CJA Amini,S Bau,FJ Klaassen,0,0,,,,,,"",""
+ball,2,4.6,Papua New Guinea,CJA Amini,S Bau,FJ Klaassen,0,1,1,,,,,"",""
+ball,2,4.7,Papua New Guinea,CJA Amini,S Bau,FJ Klaassen,1,0,,,,,,"",""
+ball,2,4.8,Papua New Guinea,S Bau,CJA Amini,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.1,Papua New Guinea,CJA Amini,S Bau,LV van Beek,0,0,,,,,,"",""
+ball,2,5.2,Papua New Guinea,CJA Amini,S Bau,LV van Beek,6,0,,,,,,"",""
+ball,2,5.3,Papua New Guinea,CJA Amini,S Bau,LV van Beek,0,0,,,,,,"",""
+ball,2,5.4,Papua New Guinea,CJA Amini,S Bau,LV van Beek,0,0,,,,,,"",""
+ball,2,5.5,Papua New Guinea,CJA Amini,S Bau,LV van Beek,0,0,,,,,,"",""
+ball,2,5.6,Papua New Guinea,CJA Amini,S Bau,LV van Beek,0,0,,,,,,"",""
+ball,2,6.1,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,6.2,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,1,0,,,,,,"",""
+ball,2,6.3,Papua New Guinea,CJA Amini,S Bau,Shariz Ahmad,1,0,,,,,,"",""
+ball,2,6.4,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,6.5,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,2,0,,,,,,"",""
+ball,2,6.6,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,7.1,Papua New Guinea,CJA Amini,S Bau,PA van Meekeren,0,3,,,,3,,"",""
+ball,2,7.2,Papua New Guinea,S Bau,CJA Amini,PA van Meekeren,0,1,1,,,,,"",""
+ball,2,7.3,Papua New Guinea,S Bau,CJA Amini,PA van Meekeren,4,0,,,,,,"",""
+ball,2,7.4,Papua New Guinea,S Bau,CJA Amini,PA van Meekeren,0,0,,,,,,"",""
+ball,2,7.5,Papua New Guinea,S Bau,CJA Amini,PA van Meekeren,1,0,,,,,,"",""
+ball,2,7.6,Papua New Guinea,CJA Amini,S Bau,PA van Meekeren,1,0,,,,,,"",""
+ball,2,7.7,Papua New Guinea,S Bau,CJA Amini,PA van Meekeren,0,0,,,,,,"",""
+ball,2,8.1,Papua New Guinea,CJA Amini,S Bau,TJG Pringle,1,0,,,,,,"",""
+ball,2,8.2,Papua New Guinea,S Bau,CJA Amini,TJG Pringle,1,0,,,,,,"",""
+ball,2,8.3,Papua New Guinea,CJA Amini,S Bau,TJG Pringle,0,0,,,,,,"",""
+ball,2,8.4,Papua New Guinea,CJA Amini,S Bau,TJG Pringle,4,0,,,,,,"",""
+ball,2,8.5,Papua New Guinea,CJA Amini,S Bau,TJG Pringle,0,0,,,,,,"",""
+ball,2,8.6,Papua New Guinea,CJA Amini,S Bau,TJG Pringle,1,0,,,,,,"",""
+ball,2,9.1,Papua New Guinea,CJA Amini,S Bau,BFW de Leede,0,0,,,,,,"",""
+ball,2,9.2,Papua New Guinea,CJA Amini,S Bau,BFW de Leede,1,0,,,,,,"",""
+ball,2,9.3,Papua New Guinea,S Bau,CJA Amini,BFW de Leede,0,1,1,,,,,"",""
+ball,2,9.4,Papua New Guinea,S Bau,CJA Amini,BFW de Leede,1,0,,,,,,"",""
+ball,2,9.5,Papua New Guinea,CJA Amini,S Bau,BFW de Leede,1,0,,,,,,"",""
+ball,2,9.6,Papua New Guinea,S Bau,CJA Amini,BFW de Leede,1,0,,,,,,"",""
+ball,2,9.7,Papua New Guinea,CJA Amini,S Bau,BFW de Leede,0,0,,,,,,"",""
+ball,2,10.1,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,2,0,,,,,,"",""
+ball,2,10.2,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,10.3,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,4,0,,,,,,"",""
+ball,2,10.4,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,4,0,,,,,,"",""
+ball,2,10.5,Papua New Guinea,S Bau,CJA Amini,Shariz Ahmad,1,0,,,,,,"",""
+ball,2,10.6,Papua New Guinea,CJA Amini,S Bau,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,11.1,Papua New Guinea,S Bau,CJA Amini,PA van Meekeren,0,1,,,,1,,"",""
+ball,2,11.2,Papua New Guinea,CJA Amini,S Bau,PA van Meekeren,4,0,,,,,,"",""
+ball,2,11.3,Papua New Guinea,CJA Amini,S Bau,PA van Meekeren,0,0,,,,,,caught,CJA Amini
+ball,2,11.4,Papua New Guinea,TP Ura,S Bau,PA van Meekeren,0,0,,,,,,"",""
+ball,2,11.5,Papua New Guinea,TP Ura,S Bau,PA van Meekeren,1,0,,,,,,"",""
+ball,2,11.6,Papua New Guinea,S Bau,TP Ura,PA van Meekeren,1,0,,,,,,"",""
+ball,2,12.1,Papua New Guinea,S Bau,TP Ura,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,12.2,Papua New Guinea,S Bau,TP Ura,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,12.3,Papua New Guinea,S Bau,TP Ura,Shariz Ahmad,1,0,,,,,,"",""
+ball,2,12.4,Papua New Guinea,TP Ura,S Bau,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,12.5,Papua New Guinea,TP Ura,S Bau,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,12.6,Papua New Guinea,TP Ura,S Bau,Shariz Ahmad,0,0,,,,,,"",""
+ball,2,13.1,Papua New Guinea,S Bau,TP Ura,BFW de Leede,2,0,,,,,,"",""
+ball,2,13.2,Papua New Guinea,S Bau,TP Ura,BFW de Leede,1,0,,,,,,"",""
+ball,2,13.3,Papua New Guinea,TP Ura,S Bau,BFW de Leede,1,0,,,,,,"",""
+ball,2,13.4,Papua New Guinea,TP Ura,S Bau,BFW de Leede,0,0,,,,,,caught,TP Ura
+ball,2,13.5,Papua New Guinea,N Vanua,S Bau,BFW de Leede,0,0,,,,,,"",""
+ball,2,13.6,Papua New Guinea,N Vanua,S Bau,BFW de Leede,1,0,,,,,,"",""
+ball,2,14.1,Papua New Guinea,N Vanua,S Bau,TJG Pringle,0,0,,,,,,"",""
+ball,2,14.2,Papua New Guinea,N Vanua,S Bau,TJG Pringle,2,0,,,,,,"",""
+ball,2,14.3,Papua New Guinea,N Vanua,S Bau,TJG Pringle,0,0,,,,,,"",""
+ball,2,14.4,Papua New Guinea,N Vanua,S Bau,TJG Pringle,2,0,,,,,,"",""
+ball,2,14.5,Papua New Guinea,N Vanua,S Bau,TJG Pringle,1,0,,,,,,"",""
+ball,2,14.6,Papua New Guinea,S Bau,N Vanua,TJG Pringle,1,0,,,,,,"",""
+ball,2,15.1,Papua New Guinea,S Bau,N Vanua,PA van Meekeren,2,0,,,,,,"",""
+ball,2,15.2,Papua New Guinea,S Bau,N Vanua,PA van Meekeren,1,0,,,,,,"",""
+ball,2,15.3,Papua New Guinea,N Vanua,S Bau,PA van Meekeren,1,0,,,,,,"",""
+ball,2,15.4,Papua New Guinea,S Bau,N Vanua,PA van Meekeren,0,1,1,,,,,"",""
+ball,2,15.5,Papua New Guinea,S Bau,N Vanua,PA van Meekeren,2,0,,,,,,"",""
+ball,2,15.6,Papua New Guinea,S Bau,N Vanua,PA van Meekeren,0,1,1,,,,,"",""
+ball,2,15.7,Papua New Guinea,S Bau,N Vanua,PA van Meekeren,1,0,,,,,,"",""
+ball,2,15.8,Papua New Guinea,N Vanua,S Bau,PA van Meekeren,0,0,,,,,,caught,N Vanua
+ball,2,16.1,Papua New Guinea,S Bau,R Hekure,FJ Klaassen,0,0,,,,,,caught,S Bau
+ball,2,16.2,Papua New Guinea,R Hekure,HGV Vare,FJ Klaassen,0,0,,,,,,bowled,R Hekure
+ball,2,16.3,Papua New Guinea,SK Atai,HGV Vare,FJ Klaassen,0,0,,,,,,"",""
+ball,2,16.4,Papua New Guinea,SK Atai,HGV Vare,FJ Klaassen,2,0,,,,,,"",""
+ball,2,16.5,Papua New Guinea,SK Atai,HGV Vare,FJ Klaassen,0,0,,,,,,"",""
+ball,2,16.6,Papua New Guinea,SK Atai,HGV Vare,FJ Klaassen,0,0,,,,,,"",""
+ball,2,17.1,Papua New Guinea,HGV Vare,SK Atai,LV van Beek,0,0,,,,,,"",""
+ball,2,17.2,Papua New Guinea,HGV Vare,SK Atai,LV van Beek,1,0,,,,,,"",""
+ball,2,17.3,Papua New Guinea,SK Atai,HGV Vare,LV van Beek,0,0,,,,,,caught,SK Atai
+ball,2,17.4,Papua New Guinea,HGV Vare,D Ravu,LV van Beek,0,0,,,,,,"",""
+ball,2,17.5,Papua New Guinea,HGV Vare,D Ravu,LV van Beek,3,0,,,,,,"",""
+ball,2,17.6,Papua New Guinea,D Ravu,HGV Vare,LV van Beek,0,0,,,,,,"",""
+ball,2,18.1,Papua New Guinea,HGV Vare,D Ravu,FJ Klaassen,1,0,,,,,,"",""
+ball,2,18.2,Papua New Guinea,D Ravu,HGV Vare,FJ Klaassen,0,0,,,,,,"",""
+ball,2,18.3,Papua New Guinea,D Ravu,HGV Vare,FJ Klaassen,0,0,,,,,,"",""
+ball,2,18.4,Papua New Guinea,D Ravu,HGV Vare,FJ Klaassen,0,2,,,,2,,"",""
+ball,2,18.5,Papua New Guinea,D Ravu,HGV Vare,FJ Klaassen,4,0,,,,,,"",""
+ball,2,18.6,Papua New Guinea,D Ravu,HGV Vare,FJ Klaassen,0,0,,,,,,"",""
+ball,2,19.1,Papua New Guinea,HGV Vare,D Ravu,LV van Beek,0,0,,,,,,"",""
+ball,2,19.2,Papua New Guinea,HGV Vare,D Ravu,LV van Beek,4,0,,,,,,"",""
+ball,2,19.3,Papua New Guinea,HGV Vare,D Ravu,LV van Beek,0,0,,,,,,bowled,HGV Vare
+ball,2,19.4,Papua New Guinea,SI Kamea,D Ravu,LV van Beek,0,0,,,,,,run out,SI Kamea

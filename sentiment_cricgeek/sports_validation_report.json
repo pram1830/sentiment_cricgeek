@@ -1,0 +1,1287 @@
+{
+  "metrics": {
+    "total_evaluated_samples": 120,
+    "constructiveness_detection_accuracy_percent": 62.5,
+    "toxicity_detection_accuracy_percent": 99.17,
+    "false_positive_toxicity_percent": 0.0,
+    "false_negative_toxicity_percent": 100.0,
+    "toxicity_target_count": 1,
+    "non_toxicity_target_count": 119,
+    "average_score_deviation_estimate": 7.35,
+    "writer_type_detection_distribution": {
+      "Passionate Fan": 94,
+      "Debater": 4,
+      "Storyteller": 13,
+      "All-Rounder": 6,
+      "Analyst": 3
+    }
+  },
+  "sample_predictions": [
+    {
+      "id": 1,
+      "text": "\"Moving in tomorrow. Go Tesco near me... And all the takeaways, bars and DMU gym is like just there. No more excuses for me tho. #TeamGetFit\"",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3388,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0121,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2675,
+        "toxicity": 0.9759
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 2,
+      "text": "@user I have a date with Christian Kane and the Leverage team that I recorded tues\\u002c then The Finder\\u002c sexy!\\u002c have fun\\u002c night night xx",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4173,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0681,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1335,
+        "toxicity": 0.8638
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 3,
+      "text": "\"I may not be a fan of the Spurs, but they play some amazing basketball.\"",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4254,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1203,
+        "toxicity": 0.9987
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 4,
+      "text": "Monday night RAW opens up with Paul Heyman and Brock Lesnar in the ring and Paul calling for a rematch.  Live...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4025,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0031,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.158,
+        "toxicity": 0.9937
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 5,
+      "text": "Today was an awesome day but it is quite sad for me and my teammates :) . Qian \\u002c Yue \\u002c Ying and Jun :)",
+      "dataset_sentiment": "positive",
+      "writer_type": "Debater",
+      "final_score": 80.0,
+      "constructiveness_score": 0.3176,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.002,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3059,
+        "toxicity": 0.996
+      },
+      "score_deviation_estimate": 2.0
+    },
+    {
+      "id": 6,
+      "text": "@user in Europe country comes 1st b4 club. Incase in missed it Welbeck is on 7goals in all competition.",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5565,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0093,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0908,
+        "toxicity": 0.9815
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 7,
+      "text": "Snoop Dogg  was one of the stars to support Matt Barnes charity football game in LA on Sunday",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4953,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0012,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0076,
+        "toxicity": 0.9975
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 8,
+      "text": "Ajax caretaker coach Jan Pruijn jokes he needs to sideline top talent  Billiat and Manyama played best after...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Storyteller",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3586,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0009,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2326,
+        "toxicity": 0.9981
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 9,
+      "text": "@user in London for Boro match Saturday... let me know what night you\\u2019re out... Friday may suit me better like if optional",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3999,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0009,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1623,
+        "toxicity": 0.9983
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 10,
+      "text": "Also @user gets into town tmrw! Sunday + Monday I'm going up to Hannibal to see her (and various other friends) at the steampunk expo.",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.484,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0026,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0255,
+        "toxicity": 0.9949
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 11,
+      "text": "\"JohnCena,u have ur rematch 4 the US Title Match at NOC,but Seth Rollins may make sure u don't win that title back anew. He's desperate.\"",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3718,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0267,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2098,
+        "toxicity": 0.9467
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 12,
+      "text": "1st goal for Milan  this season by  Bacca . And it's his 1st goal with Milan .  #MILEMP",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3412,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0007,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2631,
+        "toxicity": 0.9987
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 13,
+      "text": "\"Wait, they (MYSA) actually have a pretty good record at the 2nd largest tournament... the Norway Cup.",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4549,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0724,
+        "toxicity": 0.9988
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 14,
+      "text": "@user You\\u2019ll find out Sunday! He\\u2019s in a match! Then an Elimination Chamber match for the IC title the week after!",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Storyteller",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3165,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.027,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3079,
+        "toxicity": 0.9461
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 15,
+      "text": "@user I though we were playing the 1st place AL East team. Looks like we're playing the Red Sox from right after the all star game",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4302,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0009,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1124,
+        "toxicity": 0.9983
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 16,
+      "text": "\"Carlo Ancelotti: \"\"\"\"Isco is a very important player. Tomorrow, James Rodriguez will start - he rested Wednesday.\"",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4578,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0677,
+        "toxicity": 0.9989
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 17,
+      "text": "#Broncos Peyton Manning named AFC Offensive Player of the month. It\\u2019s his 5th such honor\\u002c second to Tom Brady\\u2019s 6\\u002c tied w/ TD.",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.2557,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0011,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.4275,
+        "toxicity": 0.9979
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 18,
+      "text": "\"David Wright's night is done. Played 3rd base for 6 innings, fielded 3 balls and went 1-for-3 with a strikeout. Slowly but surely... #Mets\"",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Debater",
+      "final_score": 80.0,
+      "constructiveness_score": 0.5899,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0011,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1454,
+        "toxicity": 0.9977
+      },
+      "score_deviation_estimate": 14.0
+    },
+    {
+      "id": 19,
+      "text": "\"This is the last Sunday w/o football .....,NFL is back baby\"",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3238,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0108,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2946,
+        "toxicity": 0.9785
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 20,
+      "text": "Staying up 2 watch the Anderson v Murray match was so worth it. Only missed some of the 4th set when my eyes couldn't anymore!",
+      "dataset_sentiment": "positive",
+      "writer_type": "Storyteller",
+      "final_score": 75.0,
+      "constructiveness_score": 0.302,
+      "constructive_target": 1,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0017,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3351,
+        "toxicity": 0.9965
+      },
+      "score_deviation_estimate": 13.0
+    },
+    {
+      "id": 21,
+      "text": "West Liberty goes for it on 4th & goal with seconds remaining in the half.  Isaiah Moody runs 2 yards in. FSU leads 19-13 at the half.",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5563,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0015,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0905,
+        "toxicity": 0.997
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 22,
+      "text": "@user @user @user Bias is prevalent at all levels. You don't want 2 find yourself on the Bubble on Selection Sunday #NCAA",
+      "dataset_sentiment": "negative",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4909,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0014,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0145,
+        "toxicity": 0.9973
+      },
+      "score_deviation_estimate": 17.0
+    },
+    {
+      "id": 23,
+      "text": "Seth Rollins broke John Cena nose during the match WWE July 27 2015: via @user",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.2857,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0096,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3666,
+        "toxicity": 0.9808
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 24,
+      "text": "Come out to the @user Rising Stars game being held here at 5:10pm THIS Saturday! See prospects from all 30 @user teams! #AFL12",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.471,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.001,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0464,
+        "toxicity": 0.998
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 25,
+      "text": "\"Join the team at Eldora Speedway on Saturday for Family Fun Night #2!! Matt Westfall, Brad Hess, and Jeff Babcock...",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4072,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0007,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1502,
+        "toxicity": 0.9986
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 26,
+      "text": "Chase Headley's RBI double in the 8th inning off David Price snapped a Yankees streak of 33 consecutive scoreless innings against Blue Jays",
+      "dataset_sentiment": "neutral",
+      "writer_type": "All-Rounder",
+      "final_score": 74.0,
+      "constructiveness_score": 0.7173,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0029,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3724,
+        "toxicity": 0.9943
+      },
+      "score_deviation_estimate": 8.0
+    },
+    {
+      "id": 27,
+      "text": "@user  Lets have a poll - Was replacing Frank Gifford with Al Michaels on Monday Night Football a good or bad decision?",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5385,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0011,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0617,
+        "toxicity": 0.9978
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 28,
+      "text": "Capello: I\\u2019ll Tweak Lineup for Azerbaijan Game: Coach Fabio Capello said Monday he will tweak the Russian lineup...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5445,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0714,
+        "toxicity": 0.9985
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 29,
+      "text": "Is Dustin Johnson the best 1st round player of all time? @user",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3499,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2477,
+        "toxicity": 0.9985
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 30,
+      "text": "MYSA annual girls tournament final preparations underway... Join us at the Nairobi Technical field from Tuesday...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6764,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.295,
+        "toxicity": 0.9988
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 31,
+      "text": "Video of the 1st points for Anthony Davis\\u002c Lin\\u002c Harden\\u002c Rivers\\u002c Drummond\\u002c Harrison Barnes & JRich on their new teams",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4215,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.002,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1267,
+        "toxicity": 0.996
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 32,
+      "text": "The new Super Eagles goalkeeper is the reason i'm watching this game.  He is so super cute. Tanzania'a sun is too hot for him abeg.",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 50.43,
+      "constructiveness_score": 0.4422,
+      "constructive_target": 1,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.006,
+      "toxicity_target": 1,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0929,
+        "toxicity": 0.988
+      },
+      "score_deviation_estimate": 15.57
+    },
+    {
+      "id": 33,
+      "text": "@user obama's goal is to lead us into 3rd world status, so you're absolutely right, \\\"\"obama doesn't care\\\"\"\"",
+      "dataset_sentiment": "negative",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3202,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0196,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3012,
+        "toxicity": 0.9607
+      },
+      "score_deviation_estimate": 17.0
+    },
+    {
+      "id": 34,
+      "text": "@user Work colleague of mine on Thursday night: \"\"oh, look, they're showing the Bee Gees on video.\"\" 23-yr old colleague: \"\"who?\"\"\"",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3161,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3086,
+        "toxicity": 0.9984
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 35,
+      "text": "Sunday Oliseh Arrives Nigeria To Resume Eagles Job-Former Super Eagles captain Sunday Oliseh arriived the Nnamdi A",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6048,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0015,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1703,
+        "toxicity": 0.997
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 36,
+      "text": "[(VHL) American Hockey League] MON APR 23 2012 10PM: Devils 3 at Americans 4: i dont know if the game stats are ...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4396,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0007,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0971,
+        "toxicity": 0.9985
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 37,
+      "text": "Wahhh I forgot the 2nd goal was so pretty in the Final. Saad to Richards to Kane. #cryingforever",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.3504,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0038,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2469,
+        "toxicity": 0.9923
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 38,
+      "text": "@user @user As far as I know Rick Perry hasn't tried to illegally bond for a second football stadium while still paying on the 1st 1",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5003,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0009,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0005,
+        "toxicity": 0.9982
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 39,
+      "text": "Tottenham are without several big names for tonight\\u2019s [Thursday] match at Stadion Ljudski vrt. Emmanuel Adebayor (cont)",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.373,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0007,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2077,
+        "toxicity": 0.9985
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 40,
+      "text": "Thursday night at Spices Negril it's Football Thursday.  Food and Drink Specials all night.    Tom Brady is Back vs Ben Rothlesburger in...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.4213,
+      "constructive_target": 0,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.001,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1269,
+        "toxicity": 0.9981
+      },
+      "score_deviation_estimate": 9.0
+    }
+  ],
+  "error_examples": [
+    {
+      "id": 6,
+      "text": "@user in Europe country comes 1st b4 club. Incase in missed it Welbeck is on 7goals in all competition.",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5565,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0093,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0908,
+        "toxicity": 0.9815
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 18,
+      "text": "\"David Wright's night is done. Played 3rd base for 6 innings, fielded 3 balls and went 1-for-3 with a strikeout. Slowly but surely... #Mets\"",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Debater",
+      "final_score": 80.0,
+      "constructiveness_score": 0.5899,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0011,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1454,
+        "toxicity": 0.9977
+      },
+      "score_deviation_estimate": 14.0
+    },
+    {
+      "id": 20,
+      "text": "Staying up 2 watch the Anderson v Murray match was so worth it. Only missed some of the 4th set when my eyes couldn't anymore!",
+      "dataset_sentiment": "positive",
+      "writer_type": "Storyteller",
+      "final_score": 75.0,
+      "constructiveness_score": 0.302,
+      "constructive_target": 1,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.0017,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3351,
+        "toxicity": 0.9965
+      },
+      "score_deviation_estimate": 13.0
+    },
+    {
+      "id": 21,
+      "text": "West Liberty goes for it on 4th & goal with seconds remaining in the half.  Isaiah Moody runs 2 yards in. FSU leads 19-13 at the half.",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5563,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0015,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0905,
+        "toxicity": 0.997
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 26,
+      "text": "Chase Headley's RBI double in the 8th inning off David Price snapped a Yankees streak of 33 consecutive scoreless innings against Blue Jays",
+      "dataset_sentiment": "neutral",
+      "writer_type": "All-Rounder",
+      "final_score": 74.0,
+      "constructiveness_score": 0.7173,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0029,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3724,
+        "toxicity": 0.9943
+      },
+      "score_deviation_estimate": 8.0
+    },
+    {
+      "id": 27,
+      "text": "@user  Lets have a poll - Was replacing Frank Gifford with Al Michaels on Monday Night Football a good or bad decision?",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5385,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0011,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0617,
+        "toxicity": 0.9978
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 28,
+      "text": "Capello: I\\u2019ll Tweak Lineup for Azerbaijan Game: Coach Fabio Capello said Monday he will tweak the Russian lineup...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5445,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0714,
+        "toxicity": 0.9985
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 30,
+      "text": "MYSA annual girls tournament final preparations underway... Join us at the Nairobi Technical field from Tuesday...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6764,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.295,
+        "toxicity": 0.9988
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 32,
+      "text": "The new Super Eagles goalkeeper is the reason i'm watching this game.  He is so super cute. Tanzania'a sun is too hot for him abeg.",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 50.43,
+      "constructiveness_score": 0.4422,
+      "constructive_target": 1,
+      "constructive_prediction": 0,
+      "toxicity_score": 0.006,
+      "toxicity_target": 1,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0929,
+        "toxicity": 0.988
+      },
+      "score_deviation_estimate": 15.57
+    },
+    {
+      "id": 35,
+      "text": "Sunday Oliseh Arrives Nigeria To Resume Eagles Job-Former Super Eagles captain Sunday Oliseh arriived the Nnamdi A",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6048,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0015,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1703,
+        "toxicity": 0.997
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 38,
+      "text": "@user @user As far as I know Rick Perry hasn't tried to illegally bond for a second football stadium while still paying on the 1st 1",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5003,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0009,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0005,
+        "toxicity": 0.9982
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 41,
+      "text": "This is really going to hurt Virginia Tech on Selection Sunday",
+      "dataset_sentiment": "negative",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5379,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0147,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0608,
+        "toxicity": 0.9706
+      },
+      "score_deviation_estimate": 17.0
+    },
+    {
+      "id": 42,
+      "text": "\"Taijuan Walker improved to 9-7 in Sunday's win over the White Sox, though he also surrendered five runs on seven hits over 5 2/3 innings.\"",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Analyst",
+      "final_score": 80.0,
+      "constructiveness_score": 0.716,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.001,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3699,
+        "toxicity": 0.9981
+      },
+      "score_deviation_estimate": 14.0
+    },
+    {
+      "id": 43,
+      "text": "A player appearance will be taking place tomorrow at Westfield Parramatta. All the details are here: #GoWanderers",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6283,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2099,
+        "toxicity": 0.9988
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 46,
+      "text": "Biggest game of the match. Even bigger than the 3rd set tie-break. Murray simply had to hold. Please Andy.",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5123,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0009,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0197,
+        "toxicity": 0.9983
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 47,
+      "text": "Tough loss for @user today. Good luck on Monday with selection Sunday",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.514,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0225,
+        "toxicity": 0.9987
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 48,
+      "text": "Hector Nuris's error from a David Wright dribbler plates Daniel Murphy as the Mets extend the lead to 8-5 in the 13th inning.",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Analyst",
+      "final_score": 80.0,
+      "constructiveness_score": 0.7141,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3662,
+        "toxicity": 0.9985
+      },
+      "score_deviation_estimate": 14.0
+    },
+    {
+      "id": 49,
+      "text": ".@richardgasquet1 honing his game on P3 Court for his match with Federer tomorrow. #USOpen",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6168,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.001,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1904,
+        "toxicity": 0.9979
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 50,
+      "text": "Lance McCullers strikes out Josh Hamilton - his first out of the inning.  Now on pace to throw 96 pitches in the 1st. #onpaceguy",
+      "dataset_sentiment": "positive",
+      "writer_type": "All-Rounder",
+      "final_score": 74.0,
+      "constructiveness_score": 0.65,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0042,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2476,
+        "toxicity": 0.9915
+      },
+      "score_deviation_estimate": 4.0
+    },
+    {
+      "id": 52,
+      "text": "Creighton Volleyball leads 8-5 early in 2nd set. Match becomes even bigger with both Wichita St. & Missouri State down 0-1 at home tonight.",
+      "dataset_sentiment": "positive",
+      "writer_type": "Debater",
+      "final_score": 80.0,
+      "constructiveness_score": 0.6753,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0009,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2929,
+        "toxicity": 0.9983
+      },
+      "score_deviation_estimate": 2.0
+    },
+    {
+      "id": 53,
+      "text": "Heading to Zimmerman on the 9th grade football bus... #different",
+      "dataset_sentiment": "neutral",
+      "writer_type": "All-Rounder",
+      "final_score": 74.0,
+      "constructiveness_score": 0.5001,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0002,
+        "toxicity": 0.9985
+      },
+      "score_deviation_estimate": 8.0
+    },
+    {
+      "id": 54,
+      "text": "Federer is about to be done with his match in the same time the 5th set of the Hewitt vs. Tomic match takes!",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.7199,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0012,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.3776,
+        "toxicity": 0.9975
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 58,
+      "text": "Quick question: Has anyone seen or heard of Dustin Johnson recently? He was last seen at the beginning of Friday's second round. #bbcgolf",
+      "dataset_sentiment": "neutral",
+      "writer_type": "All-Rounder",
+      "final_score": 74.0,
+      "constructiveness_score": 0.5648,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1043,
+        "toxicity": 0.9988
+      },
+      "score_deviation_estimate": 8.0
+    },
+    {
+      "id": 60,
+      "text": "Scott Walker &amp; team Ringleader are in 1st place in overall points &amp; for most releases in the MidAtlantic Tournament!",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6416,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2329,
+        "toxicity": 0.9983
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 61,
+      "text": "\"Who do you reckon will start upfront tomorrow for England? Rooney, Kane or the highest English premier league goal scorer?\"",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5807,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0008,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1302,
+        "toxicity": 0.9984
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 62,
+      "text": "\"What a difference not having Sterling on the pitch makes! Welbeck dragged wide 1st half, the Ox replaces Sterling, Welbeck down middle, goal\"",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.5942,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0022,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1526,
+        "toxicity": 0.9955
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 65,
+      "text": "\"I don't normally share personal stuff, BUT, It's after 11:00pm, it's the top of the 9th inning, at the White Sox...",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Storyteller",
+      "final_score": 75.0,
+      "constructiveness_score": 0.518,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0288,
+        "toxicity": 0.9988
+      },
+      "score_deviation_estimate": 9.0
+    },
+    {
+      "id": 66,
+      "text": "AC Milan reportedly want Miralem Pjanic to join the San Siro in January #FootballFanatic",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.01,
+      "constructiveness_score": 0.544,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0011,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.0706,
+        "toxicity": 0.9978
+      },
+      "score_deviation_estimate": 9.01
+    },
+    {
+      "id": 68,
+      "text": "David wright first at coming back from going on DL in April = a upper deck home run! Welcome back Captain!",
+      "dataset_sentiment": "positive",
+      "writer_type": "Passionate Fan",
+      "final_score": 75.0,
+      "constructiveness_score": 0.606,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0016,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.1722,
+        "toxicity": 0.9968
+      },
+      "score_deviation_estimate": 3.0
+    },
+    {
+      "id": 70,
+      "text": "\"Murray is so flat atm, if Anderson can get inspired at the start of the 2nd he can take control of this match.\"",
+      "dataset_sentiment": "neutral",
+      "writer_type": "Storyteller",
+      "final_score": 75.0,
+      "constructiveness_score": 0.6694,
+      "constructive_target": 0,
+      "constructive_prediction": 1,
+      "toxicity_score": 0.0006,
+      "toxicity_target": 0,
+      "toxicity_prediction": 0,
+      "confidence_estimates": {
+        "constructiveness": 0.2822,
+        "toxicity": 0.9987
+      },
+      "score_deviation_estimate": 9.0
+    }
+  ],
+  "confidence_estimates": {
+    "average_constructiveness_confidence": 0.1884,
+    "average_toxicity_confidence": 0.9879
+  }
+}

@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Kenya
+info,gender,male
+info,season,2025
+info,date,2025/07/27
+info,event,Pearl of Africa T20I Series
+info,match_number,17
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,umpire,Charles Kariuki
+info,umpire,S Kintu
+info,reserve_umpire,J Bamulese
+info,match_referee,O Chirombe
+info,winner,Kenya
+info,winner_wickets,6
+info,player,Nigeria,S Chilemanya
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,I Danladi
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,DNA Ankrah
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,AA Jimoh
+info,player,Nigeria,P Aho
+info,player,Kenya,P Sharma
+info,player,Kenya,JS Kundi
+info,player,Kenya,S Gill
+info,player,Kenya,S Singh
+info,player,Kenya,RR Patel
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,SO Ngoche
+info,player,Kenya,F Mutua
+info,player,Kenya,GM Muthui
+info,player,Kenya,Vraj Patel
+info,player,Kenya,Vishil Patel
+info,registry,people,AA Jimoh,b506636b
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,DNA Ankrah,c6614fc0
+info,registry,people,F Mutua,21b67523
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,J Bamulese,e8c8f086
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Sharma,d047f983
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Chilemanya,e1fe58ad
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Kintu,ff387f93
+info,registry,people,S Singh,612a395c
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,VD Adewoye,45a34a2d
+info,registry,people,Vishil Patel,3df8f9d5
+info,registry,people,Vraj Patel,2af28253
+ball,1,0.1,Nigeria,S Chilemanya,Sulaimon Runsewe,S Gill,0,1,,,,1,,"",""
+ball,1,0.2,Nigeria,Sulaimon Runsewe,S Chilemanya,S Gill,0,0,,,,,,"",""
+ball,1,0.3,Nigeria,Sulaimon Runsewe,S Chilemanya,S Gill,0,4,,,,4,,"",""
+ball,1,0.4,Nigeria,Sulaimon Runsewe,S Chilemanya,S Gill,1,0,,,,,,"",""
+ball,1,0.5,Nigeria,S Chilemanya,Sulaimon Runsewe,S Gill,0,0,,,,,,lbw,S Chilemanya
+ball,1,0.6,Nigeria,I Danladi,Sulaimon Runsewe,S Gill,0,0,,,,,,"",""
+ball,1,1.1,Nigeria,Sulaimon Runsewe,I Danladi,GM Muthui,0,0,,,,,,"",""
+ball,1,1.2,Nigeria,Sulaimon Runsewe,I Danladi,GM Muthui,0,0,,,,,,run out,Sulaimon Runsewe
+ball,1,1.3,Nigeria,AE Isesele,I Danladi,GM Muthui,4,0,,,,,,"",""
+ball,1,1.4,Nigeria,AE Isesele,I Danladi,GM Muthui,1,0,,,,,,"",""
+ball,1,1.5,Nigeria,I Danladi,AE Isesele,GM Muthui,0,0,,,,,,"",""
+ball,1,1.6,Nigeria,I Danladi,AE Isesele,GM Muthui,2,0,,,,,,"",""
+ball,1,2.1,Nigeria,AE Isesele,I Danladi,S Gill,0,0,,,,,,bowled,AE Isesele
+ball,1,2.2,Nigeria,VD Adewoye,I Danladi,S Gill,0,0,,,,,,"",""
+ball,1,2.3,Nigeria,VD Adewoye,I Danladi,S Gill,0,0,,,,,,"",""
+ball,1,2.4,Nigeria,VD Adewoye,I Danladi,S Gill,0,1,,,,1,,"",""
+ball,1,2.5,Nigeria,I Danladi,VD Adewoye,S Gill,2,0,,,,,,"",""
+ball,1,2.6,Nigeria,I Danladi,VD Adewoye,S Gill,0,0,,,,,,"",""
+ball,1,3.1,Nigeria,VD Adewoye,I Danladi,GM Muthui,0,0,,,,,,"",""
+ball,1,3.2,Nigeria,VD Adewoye,I Danladi,GM Muthui,1,0,,,,,,"",""
+ball,1,3.3,Nigeria,I Danladi,VD Adewoye,GM Muthui,0,4,,,,4,,"",""
+ball,1,3.4,Nigeria,I Danladi,VD Adewoye,GM Muthui,0,0,,,,,,"",""
+ball,1,3.5,Nigeria,I Danladi,VD Adewoye,GM Muthui,1,0,,,,,,"",""
+ball,1,3.6,Nigeria,VD Adewoye,I Danladi,GM Muthui,0,0,,,,,,caught,VD Adewoye
+ball,1,4.1,Nigeria,I Danladi,DNA Ankrah,S Gill,0,0,,,,,,run out,I Danladi
+ball,1,4.2,Nigeria,Mohameed Taiwo,DNA Ankrah,S Gill,0,0,,,,,,"",""
+ball,1,4.3,Nigeria,Mohameed Taiwo,DNA Ankrah,S Gill,0,0,,,,,,"",""
+ball,1,4.4,Nigeria,Mohameed Taiwo,DNA Ankrah,S Gill,0,0,,,,,,"",""
+ball,1,4.5,Nigeria,Mohameed Taiwo,DNA Ankrah,S Gill,0,0,,,,,,"",""
+ball,1,4.6,Nigeria,Mohameed Taiwo,DNA Ankrah,S Gill,1,0,,,,,,"",""
+ball,1,5.1,Nigeria,Mohameed Taiwo,DNA Ankrah,GM Muthui,0,0,,,,,,"",""
+ball,1,5.2,Nigeria,Mohameed Taiwo,DNA Ankrah,GM Muthui,0,0,,,,,,"",""
+ball,1,5.3,Nigeria,Mohameed Taiwo,DNA Ankrah,GM Muthui,1,0,,,,,,"",""
+ball,1,5.4,Nigeria,DNA Ankrah,Mohameed Taiwo,GM Muthui,0,0,,,,,,bowled,DNA Ankrah
+ball,1,5.5,Nigeria,SA Okpe,Mohameed Taiwo,GM Muthui,0,0,,,,,,"",""
+ball,1,5.6,Nigeria,SA Okpe,Mohameed Taiwo,GM Muthui,0,0,,,,,,"",""
+ball,1,6.1,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,1,0,,,,,,"",""
+ball,1,6.2,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,6.3,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,6.4,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,6.5,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,6.6,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,7.1,Nigeria,Mohameed Taiwo,SA Okpe,GM Muthui,2,0,,,,,,"",""
+ball,1,7.2,Nigeria,Mohameed Taiwo,SA Okpe,GM Muthui,4,0,,,,,,"",""
+ball,1,7.3,Nigeria,Mohameed Taiwo,SA Okpe,GM Muthui,2,0,,,,,,"",""
+ball,1,7.4,Nigeria,Mohameed Taiwo,SA Okpe,GM Muthui,2,0,,,,,,"",""
+ball,1,7.5,Nigeria,Mohameed Taiwo,SA Okpe,GM Muthui,1,0,,,,,,"",""
+ball,1,7.6,Nigeria,SA Okpe,Mohameed Taiwo,GM Muthui,0,1,,,,1,,"",""
+ball,1,8.1,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,1,0,,,,,,"",""
+ball,1,8.2,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,8.3,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,8.4,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,8.5,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,4,0,,,,,,"",""
+ball,1,8.6,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,9.1,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,0,0,,,,,,"",""
+ball,1,9.2,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,0,0,,,,,,"",""
+ball,1,9.3,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,0,0,,,,,,"",""
+ball,1,9.4,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,0,0,,,,,,"",""
+ball,1,9.5,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,1,0,,,,,,"",""
+ball,1,9.6,Nigeria,Mohameed Taiwo,SA Okpe,Vishil Patel,1,0,,,,,,"",""
+ball,1,10.1,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,10.2,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,10.3,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,1,0,,,,,,"",""
+ball,1,10.4,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,10.5,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,1,0,,,,,,"",""
+ball,1,10.6,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,11.1,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,2,0,,,,,,"",""
+ball,1,11.2,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,4,0,,,,,,"",""
+ball,1,11.3,Nigeria,SA Okpe,Mohameed Taiwo,Vishil Patel,0,1,,,,1,,"",""
+ball,1,11.4,Nigeria,Mohameed Taiwo,SA Okpe,Vishil Patel,0,0,,,,,,"",""
+ball,1,11.5,Nigeria,Mohameed Taiwo,SA Okpe,Vishil Patel,0,0,,,,,,"",""
+ball,1,11.6,Nigeria,Mohameed Taiwo,SA Okpe,Vishil Patel,4,0,,,,,,"",""
+ball,1,12.1,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,12.2,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,1,0,,,,,,"",""
+ball,1,12.3,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,12.4,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,0,0,,,,,,"",""
+ball,1,12.5,Nigeria,Mohameed Taiwo,SA Okpe,Vraj Patel,1,0,,,,,,"",""
+ball,1,12.6,Nigeria,SA Okpe,Mohameed Taiwo,Vraj Patel,0,0,,,,,,"",""
+ball,1,13.1,Nigeria,Mohameed Taiwo,SA Okpe,RR Patel,0,0,,,,,,"",""
+ball,1,13.2,Nigeria,Mohameed Taiwo,SA Okpe,RR Patel,1,0,,,,,,"",""
+ball,1,13.3,Nigeria,SA Okpe,Mohameed Taiwo,RR Patel,1,0,,,,,,"",""
+ball,1,13.4,Nigeria,Mohameed Taiwo,SA Okpe,RR Patel,0,0,,,,,,caught,Mohameed Taiwo
+ball,1,13.5,Nigeria,IO Okpe,SA Okpe,RR Patel,1,0,,,,,,"",""
+ball,1,13.6,Nigeria,SA Okpe,IO Okpe,RR Patel,1,0,,,,,,"",""
+ball,1,14.1,Nigeria,SA Okpe,IO Okpe,SO Ngoche,4,0,,,,,,"",""
+ball,1,14.2,Nigeria,SA Okpe,IO Okpe,SO Ngoche,0,0,,,,,,"",""
+ball,1,14.3,Nigeria,SA Okpe,IO Okpe,SO Ngoche,1,0,,,,,,"",""
+ball,1,14.4,Nigeria,IO Okpe,SA Okpe,SO Ngoche,2,0,,,,,,"",""
+ball,1,14.5,Nigeria,IO Okpe,SA Okpe,SO Ngoche,0,0,,,,,,"",""
+ball,1,14.6,Nigeria,IO Okpe,SA Okpe,SO Ngoche,1,0,,,,,,"",""
+ball,1,15.1,Nigeria,IO Okpe,SA Okpe,RR Patel,1,0,,,,,,"",""
+ball,1,15.2,Nigeria,SA Okpe,IO Okpe,RR Patel,6,0,,,,,,"",""
+ball,1,15.3,Nigeria,SA Okpe,IO Okpe,RR Patel,2,0,,,,,,"",""
+ball,1,15.4,Nigeria,SA Okpe,IO Okpe,RR Patel,1,0,,,,,,"",""
+ball,1,15.5,Nigeria,IO Okpe,SA Okpe,RR Patel,0,0,,,,,,"",""
+ball,1,15.6,Nigeria,IO Okpe,SA Okpe,RR Patel,0,0,,,,,,"",""
+ball,1,16.1,Nigeria,SA Okpe,IO Okpe,SO Ngoche,1,0,,,,,,"",""
+ball,1,16.2,Nigeria,IO Okpe,SA Okpe,SO Ngoche,2,0,,,,,,"",""
+ball,1,16.3,Nigeria,IO Okpe,SA Okpe,SO Ngoche,0,0,,,,,,"",""
+ball,1,16.4,Nigeria,IO Okpe,SA Okpe,SO Ngoche,1,0,,,,,,"",""
+ball,1,16.5,Nigeria,SA Okpe,IO Okpe,SO Ngoche,4,0,,,,,,"",""
+ball,1,16.6,Nigeria,SA Okpe,IO Okpe,SO Ngoche,0,0,,,,,,"",""
+ball,1,17.1,Nigeria,IO Okpe,SA Okpe,F Mutua,1,0,,,,,,"",""
+ball,1,17.2,Nigeria,SA Okpe,IO Okpe,F Mutua,2,0,,,,,,"",""
+ball,1,17.3,Nigeria,SA Okpe,IO Okpe,F Mutua,2,0,,,,,,"",""
+ball,1,17.4,Nigeria,SA Okpe,IO Okpe,F Mutua,0,0,,,,,,"",""
+ball,1,17.5,Nigeria,SA Okpe,IO Okpe,F Mutua,0,1,1,,,,,"",""
+ball,1,17.6,Nigeria,SA Okpe,IO Okpe,F Mutua,0,0,,,,,,caught,SA Okpe
+ball,1,17.7,Nigeria,AA Jimoh,IO Okpe,F Mutua,0,1,1,,,,,"",""
+ball,1,17.8,Nigeria,AA Jimoh,IO Okpe,F Mutua,1,0,,,,,,"",""
+ball,1,18.1,Nigeria,AA Jimoh,IO Okpe,S Gill,0,0,,,,,,"",""
+ball,1,18.2,Nigeria,AA Jimoh,IO Okpe,S Gill,0,1,1,,,,,"",""
+ball,1,18.3,Nigeria,AA Jimoh,IO Okpe,S Gill,0,0,,,,,,"",""
+ball,1,18.4,Nigeria,AA Jimoh,IO Okpe,S Gill,2,0,,,,,,"",""
+ball,1,18.5,Nigeria,AA Jimoh,IO Okpe,S Gill,2,0,,,,,,"",""
+ball,1,18.6,Nigeria,AA Jimoh,IO Okpe,S Gill,0,0,,,,,,"",""
+ball,1,18.7,Nigeria,AA Jimoh,IO Okpe,S Gill,1,0,,,,,,"",""
+ball,1,19.1,Nigeria,AA Jimoh,IO Okpe,F Mutua,1,0,,,,,,"",""
+ball,1,19.2,Nigeria,IO Okpe,AA Jimoh,F Mutua,4,0,,,,,,"",""
+ball,1,19.3,Nigeria,IO Okpe,AA Jimoh,F Mutua,0,0,,,,,,"",""
+ball,1,19.4,Nigeria,IO Okpe,AA Jimoh,F Mutua,0,0,,,,,,bowled,IO Okpe
+ball,1,19.5,Nigeria,P Aho,AA Jimoh,F Mutua,4,0,,,,,,"",""
+ball,1,19.6,Nigeria,P Aho,AA Jimoh,F Mutua,1,0,,,,,,"",""
+ball,2,0.1,Kenya,P Sharma,JS Kundi,P Aho,0,1,1,,,,,"",""
+ball,2,0.2,Kenya,P Sharma,JS Kundi,P Aho,0,1,1,,,,,"",""
+ball,2,0.3,Kenya,P Sharma,JS Kundi,P Aho,0,0,,,,,,"",""
+ball,2,0.4,Kenya,P Sharma,JS Kundi,P Aho,3,0,,,,,,"",""
+ball,2,0.5,Kenya,JS Kundi,P Sharma,P Aho,0,0,,,,,,"",""
+ball,2,0.6,Kenya,JS Kundi,P Sharma,P Aho,4,0,,,,,,"",""
+ball,2,0.7,Kenya,JS Kundi,P Sharma,P Aho,0,0,,,,,,"",""
+ball,2,0.8,Kenya,JS Kundi,P Sharma,P Aho,1,0,,,,,,"",""
+ball,2,1.1,Kenya,JS Kundi,P Sharma,Mohameed Taiwo,0,0,,,,,,caught,JS Kundi
+ball,2,1.2,Kenya,S Gill,P Sharma,Mohameed Taiwo,0,0,,,,,,"",""
+ball,2,1.3,Kenya,S Gill,P Sharma,Mohameed Taiwo,1,0,,,,,,"",""
+ball,2,1.4,Kenya,P Sharma,S Gill,Mohameed Taiwo,1,0,,,,,,"",""
+ball,2,1.5,Kenya,S Gill,P Sharma,Mohameed Taiwo,0,0,,,,,,"",""
+ball,2,1.6,Kenya,S Gill,P Sharma,Mohameed Taiwo,4,0,,,,,,"",""
+ball,2,2.1,Kenya,P Sharma,S Gill,AA Jimoh,0,0,,,,,,bowled,P Sharma
+ball,2,2.2,Kenya,S Singh,S Gill,AA Jimoh,0,0,,,,,,"",""
+ball,2,2.3,Kenya,S Singh,S Gill,AA Jimoh,1,0,,,,,,"",""
+ball,2,2.4,Kenya,S Gill,S Singh,AA Jimoh,0,0,,,,,,"",""
+ball,2,2.5,Kenya,S Gill,S Singh,AA Jimoh,1,0,,,,,,"",""
+ball,2,2.6,Kenya,S Singh,S Gill,AA Jimoh,0,0,,,,,,"",""
+ball,2,3.1,Kenya,S Gill,S Singh,IO Okpe,1,0,,,,,,"",""
+ball,2,3.2,Kenya,S Singh,S Gill,IO Okpe,1,0,,,,,,"",""
+ball,2,3.3,Kenya,S Gill,S Singh,IO Okpe,0,0,,,,,,"",""
+ball,2,3.4,Kenya,S Gill,S Singh,IO Okpe,0,0,,,,,,"",""
+ball,2,3.5,Kenya,S Gill,S Singh,IO Okpe,0,0,,,,,,"",""
+ball,2,3.6,Kenya,S Gill,S Singh,IO Okpe,0,0,,,,,,"",""
+ball,2,4.1,Kenya,S Singh,S Gill,AA Jimoh,0,0,,,,,,"",""
+ball,2,4.2,Kenya,S Singh,S Gill,AA Jimoh,0,0,,,,,,"",""
+ball,2,4.3,Kenya,S Singh,S Gill,AA Jimoh,0,0,,,,,,"",""
+ball,2,4.4,Kenya,S Singh,S Gill,AA Jimoh,0,0,,,,,,"",""
+ball,2,4.5,Kenya,S Singh,S Gill,AA Jimoh,1,0,,,,,,"",""
+ball,2,4.6,Kenya,S Gill,S Singh,AA Jimoh,0,0,,,,,,"",""
+ball,2,5.1,Kenya,S Singh,S Gill,IO Okpe,2,0,,,,,,"",""
+ball,2,5.2,Kenya,S Singh,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,5.3,Kenya,S Singh,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,5.4,Kenya,S Singh,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,5.5,Kenya,S Singh,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,5.6,Kenya,S Singh,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,6.1,Kenya,S Gill,S Singh,P Aho,0,0,,,,,,"",""
+ball,2,6.2,Kenya,S Gill,S Singh,P Aho,1,0,,,,,,"",""
+ball,2,6.3,Kenya,S Singh,S Gill,P Aho,0,0,,,,,,"",""
+ball,2,6.4,Kenya,S Singh,S Gill,P Aho,1,0,,,,,,"",""
+ball,2,6.5,Kenya,S Gill,S Singh,P Aho,4,0,,,,,,"",""
+ball,2,6.6,Kenya,S Gill,S Singh,P Aho,0,0,,,,,,"",""
+ball,2,7.1,Kenya,S Singh,S Gill,SA Okpe,0,0,,,,,,"",""
+ball,2,7.2,Kenya,S Singh,S Gill,SA Okpe,0,0,,,,,,"",""
+ball,2,7.3,Kenya,S Singh,S Gill,SA Okpe,1,0,,,,,,"",""
+ball,2,7.4,Kenya,S Gill,S Singh,SA Okpe,0,0,,,,,,"",""
+ball,2,7.5,Kenya,S Gill,S Singh,SA Okpe,1,0,,,,,,"",""
+ball,2,7.6,Kenya,S Singh,S Gill,SA Okpe,1,0,,,,,,"",""
+ball,2,8.1,Kenya,S Singh,S Gill,I Danladi,0,2,,,2,,,"",""
+ball,2,8.2,Kenya,S Singh,S Gill,I Danladi,1,0,,,,,,"",""
+ball,2,8.3,Kenya,S Gill,S Singh,I Danladi,1,0,,,,,,"",""
+ball,2,8.4,Kenya,S Singh,S Gill,I Danladi,1,0,,,,,,"",""
+ball,2,8.5,Kenya,S Gill,S Singh,I Danladi,0,0,,,,,,"",""
+ball,2,8.6,Kenya,S Gill,S Singh,I Danladi,1,0,,,,,,"",""
+ball,2,9.1,Kenya,S Gill,S Singh,SA Okpe,2,0,,,,,,"",""
+ball,2,9.2,Kenya,S Gill,S Singh,SA Okpe,1,0,,,,,,"",""
+ball,2,9.3,Kenya,S Singh,S Gill,SA Okpe,0,0,,,,,,"",""
+ball,2,9.4,Kenya,S Singh,S Gill,SA Okpe,1,0,,,,,,"",""
+ball,2,9.5,Kenya,S Gill,S Singh,SA Okpe,1,0,,,,,,"",""
+ball,2,9.6,Kenya,S Singh,S Gill,SA Okpe,1,0,,,,,,"",""
+ball,2,10.1,Kenya,S Singh,S Gill,I Danladi,2,0,,,,,,"",""
+ball,2,10.2,Kenya,S Singh,S Gill,I Danladi,1,0,,,,,,"",""
+ball,2,10.3,Kenya,S Gill,S Singh,I Danladi,1,0,,,,,,"",""
+ball,2,10.4,Kenya,S Singh,S Gill,I Danladi,1,0,,,,,,"",""
+ball,2,10.5,Kenya,S Gill,S Singh,I Danladi,0,0,,,,,,"",""
+ball,2,10.6,Kenya,S Gill,S Singh,I Danladi,2,0,,,,,,"",""
+ball,2,11.1,Kenya,S Singh,S Gill,SA Okpe,4,0,,,,,,"",""
+ball,2,11.2,Kenya,S Singh,S Gill,SA Okpe,2,0,,,,,,"",""
+ball,2,11.3,Kenya,S Singh,S Gill,SA Okpe,1,0,,,,,,"",""
+ball,2,11.4,Kenya,S Gill,S Singh,SA Okpe,2,0,,,,,,"",""
+ball,2,11.5,Kenya,S Gill,S Singh,SA Okpe,1,0,,,,,,"",""
+ball,2,11.6,Kenya,S Singh,S Gill,SA Okpe,0,0,,,,,,"",""
+ball,2,12.1,Kenya,S Gill,S Singh,AE Isesele,1,0,,,,,,"",""
+ball,2,12.2,Kenya,S Singh,S Gill,AE Isesele,4,0,,,,,,"",""
+ball,2,12.3,Kenya,S Singh,S Gill,AE Isesele,4,0,,,,,,"",""
+ball,2,12.4,Kenya,S Singh,S Gill,AE Isesele,0,0,,,,,,"",""
+ball,2,12.5,Kenya,S Singh,S Gill,AE Isesele,0,0,,,,,,caught,S Singh
+ball,2,12.6,Kenya,RR Patel,S Gill,AE Isesele,0,0,,,,,,"",""
+ball,2,13.1,Kenya,S Gill,RR Patel,IO Okpe,0,0,,,,,,"",""
+ball,2,13.2,Kenya,S Gill,RR Patel,IO Okpe,1,0,,,,,,"",""
+ball,2,13.3,Kenya,RR Patel,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,13.4,Kenya,RR Patel,S Gill,IO Okpe,1,0,,,,,,"",""
+ball,2,13.5,Kenya,S Gill,RR Patel,IO Okpe,1,0,,,,,,"",""
+ball,2,13.6,Kenya,RR Patel,S Gill,IO Okpe,2,0,,,,,,"",""
+ball,2,14.1,Kenya,S Gill,RR Patel,P Aho,0,0,,,,,,"",""
+ball,2,14.2,Kenya,S Gill,RR Patel,P Aho,1,0,,,,,,"",""
+ball,2,14.3,Kenya,RR Patel,S Gill,P Aho,1,0,,,,,,"",""
+ball,2,14.4,Kenya,S Gill,RR Patel,P Aho,0,0,,,,,,"",""
+ball,2,14.5,Kenya,S Gill,RR Patel,P Aho,0,1,1,,,,,"",""
+ball,2,14.6,Kenya,S Gill,RR Patel,P Aho,1,0,,,,,,"",""
+ball,2,14.7,Kenya,RR Patel,S Gill,P Aho,0,0,,,,,,"",""
+ball,2,15.1,Kenya,S Gill,RR Patel,AA Jimoh,0,0,,,,,,"",""
+ball,2,15.2,Kenya,S Gill,RR Patel,AA Jimoh,1,0,,,,,,"",""
+ball,2,15.3,Kenya,RR Patel,S Gill,AA Jimoh,0,1,,,,1,,"",""
+ball,2,15.4,Kenya,S Gill,RR Patel,AA Jimoh,1,0,,,,,,"",""
+ball,2,15.5,Kenya,RR Patel,S Gill,AA Jimoh,0,0,,,,,,"",""
+ball,2,15.6,Kenya,RR Patel,S Gill,AA Jimoh,1,0,,,,,,"",""
+ball,2,16.1,Kenya,RR Patel,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,16.2,Kenya,RR Patel,S Gill,IO Okpe,0,0,,,,,,"",""
+ball,2,16.3,Kenya,RR Patel,S Gill,IO Okpe,1,0,,,,,,"",""
+ball,2,16.4,Kenya,S Gill,RR Patel,IO Okpe,1,0,,,,,,"",""
+ball,2,16.5,Kenya,RR Patel,S Gill,IO Okpe,1,0,,,,,,"",""
+ball,2,16.6,Kenya,S Gill,RR Patel,IO Okpe,2,0,,,,,,"",""
+ball,2,17.1,Kenya,RR Patel,S Gill,AE Isesele,6,0,,,,,,"",""
+ball,2,17.2,Kenya,RR Patel,S Gill,AE Isesele,0,0,,,,,,"",""
+ball,2,17.3,Kenya,RR Patel,S Gill,AE Isesele,6,0,,,,,,"",""
+ball,2,17.4,Kenya,RR Patel,S Gill,AE Isesele,4,0,,,,,,"",""
+ball,2,17.5,Kenya,RR Patel,S Gill,AE Isesele,0,0,,,,,,run out,S Gill
+ball,2,17.6,Kenya,RR Patel,Tanzeel Sheikh,AE Isesele,1,0,,,,,,"",""
+ball,2,18.1,Kenya,RR Patel,Tanzeel Sheikh,P Aho,4,0,,,,,,"",""
+ball,2,18.2,Kenya,RR Patel,Tanzeel Sheikh,P Aho,0,0,,,,,,"",""
+ball,2,18.3,Kenya,RR Patel,Tanzeel Sheikh,P Aho,0,0,,,,,,"",""
+ball,2,18.4,Kenya,RR Patel,Tanzeel Sheikh,P Aho,1,0,,,,,,"",""
+ball,2,18.5,Kenya,Tanzeel Sheikh,RR Patel,P Aho,2,0,,,,,,"",""
+ball,2,18.6,Kenya,Tanzeel Sheikh,RR Patel,P Aho,0,0,,,,,,"",""
+ball,2,19.1,Kenya,RR Patel,Tanzeel Sheikh,AA Jimoh,4,0,,,,,,"",""

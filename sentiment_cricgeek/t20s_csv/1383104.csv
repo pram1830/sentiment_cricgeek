@@ -1,0 +1,324 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Bhutan
+info,gender,male
+info,season,2023
+info,date,2023/07/27
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,4
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,Virandeep Singh
+info,umpire,Ramasamy Venkatesh
+info,umpire,VG Rathi
+info,reserve_umpire,V Kalidas
+info,match_referee,JM Pereira
+info,winner,Malaysia
+info,winner_runs,75
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Sharveen Surendran
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Pavandeep Singh
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,S Loday
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,K Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,S Chophel
+info,player,Bhutan,S Yeshi
+info,player,Bhutan,Tashi Phuntsho
+info,player,Bhutan,Karma Dorji
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Ghalley,55d07946
+info,registry,people,Karma Dorji,80058153
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Chophel,45f4af74
+info,registry,people,S Loday,448dab1a
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Sharveen Surendran,aa3a7285
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tashi Phuntsho,43d365ca
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d
+ball,1,0.1,Malaysia,Syed Aziz,Muhammad Amir,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,0.2,Malaysia,Syed Aziz,Muhammad Amir,Tashi Phuntsho,2,0,,,,,,"",""
+ball,1,0.3,Malaysia,Syed Aziz,Muhammad Amir,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,0.4,Malaysia,Muhammad Amir,Syed Aziz,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,0.5,Malaysia,Muhammad Amir,Syed Aziz,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,0.6,Malaysia,Syed Aziz,Muhammad Amir,Tashi Phuntsho,4,0,,,,,,"",""
+ball,1,1.1,Malaysia,Muhammad Amir,Syed Aziz,S Pradhan,4,0,,,,,,"",""
+ball,1,1.2,Malaysia,Muhammad Amir,Syed Aziz,S Pradhan,4,0,,,,,,"",""
+ball,1,1.3,Malaysia,Muhammad Amir,Syed Aziz,S Pradhan,1,0,,,,,,"",""
+ball,1,1.4,Malaysia,Syed Aziz,Muhammad Amir,S Pradhan,6,0,,,,,,"",""
+ball,1,1.5,Malaysia,Syed Aziz,Muhammad Amir,S Pradhan,0,0,,,,,,"",""
+ball,1,1.6,Malaysia,Syed Aziz,Muhammad Amir,S Pradhan,0,0,,,,,,caught,Syed Aziz
+ball,1,2.1,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,2.2,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,2.3,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,0,1,1,,,,,"",""
+ball,1,2.4,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,2.5,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,2.6,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,2.7,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,3.1,Malaysia,Muhammad Amir,Zubaidi Zulkifle,S Yeshi,2,0,,,,,,"",""
+ball,1,3.2,Malaysia,Muhammad Amir,Zubaidi Zulkifle,S Yeshi,1,0,,,,,,"",""
+ball,1,3.3,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,2,0,,,,,,"",""
+ball,1,3.4,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,0,0,,,,,,"",""
+ball,1,3.5,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,0,0,,,,,,"",""
+ball,1,3.6,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,6,0,,,,,,"",""
+ball,1,4.1,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,4.2,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,4.3,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Tashi Phuntsho,2,0,,,,,,"",""
+ball,1,4.4,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,4.5,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,4.6,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Tashi Phuntsho,4,0,,,,,,"",""
+ball,1,5.1,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,0,0,,,,,,"",""
+ball,1,5.2,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,4,0,,,,,,"",""
+ball,1,5.3,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,4,0,,,,,,"",""
+ball,1,5.4,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,4,0,,,,,,"",""
+ball,1,5.5,Malaysia,Zubaidi Zulkifle,Muhammad Amir,S Yeshi,1,0,,,,,,"",""
+ball,1,5.6,Malaysia,Muhammad Amir,Zubaidi Zulkifle,S Yeshi,0,0,,,,,,"",""
+ball,1,6.1,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Namgay Thinley,0,0,,,,,,"",""
+ball,1,6.2,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Namgay Thinley,6,0,,,,,,"",""
+ball,1,6.3,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Namgay Thinley,1,0,,,,,,"",""
+ball,1,6.4,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Namgay Thinley,2,0,,,,,,"",""
+ball,1,6.5,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Namgay Thinley,4,0,,,,,,"",""
+ball,1,6.6,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Namgay Thinley,0,3,3,,,,,"",""
+ball,1,6.7,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Namgay Thinley,1,0,,,,,,"",""
+ball,1,7.1,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Karma Dorji,0,1,1,,,,,"",""
+ball,1,7.2,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Karma Dorji,4,0,,,,,,"",""
+ball,1,7.3,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Karma Dorji,1,0,,,,,,"",""
+ball,1,7.4,Malaysia,Zubaidi Zulkifle,Muhammad Amir,Karma Dorji,1,0,,,,,,"",""
+ball,1,7.5,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Karma Dorji,0,0,,,,,,"",""
+ball,1,7.6,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Karma Dorji,0,0,,,,,,"",""
+ball,1,7.7,Malaysia,Muhammad Amir,Zubaidi Zulkifle,Karma Dorji,1,0,,,,,,"",""
+ball,1,8.1,Malaysia,Muhammad Amir,Zubaidi Zulkifle,T Wangchuk,0,0,,,,,,"",""
+ball,1,8.2,Malaysia,Muhammad Amir,Zubaidi Zulkifle,T Wangchuk,2,0,,,,,,"",""
+ball,1,8.3,Malaysia,Muhammad Amir,Zubaidi Zulkifle,T Wangchuk,0,0,,,,,,bowled,Muhammad Amir
+ball,1,8.4,Malaysia,Virandeep Singh,Zubaidi Zulkifle,T Wangchuk,0,0,,,,,,"",""
+ball,1,8.5,Malaysia,Virandeep Singh,Zubaidi Zulkifle,T Wangchuk,0,0,,,,,,"",""
+ball,1,8.6,Malaysia,Virandeep Singh,Zubaidi Zulkifle,T Wangchuk,0,0,,,,,,"",""
+ball,1,9.1,Malaysia,Zubaidi Zulkifle,Virandeep Singh,Karma Dorji,0,1,1,,,,,"",""
+ball,1,9.2,Malaysia,Zubaidi Zulkifle,Virandeep Singh,Karma Dorji,4,0,,,,,,"",""
+ball,1,9.3,Malaysia,Zubaidi Zulkifle,Virandeep Singh,Karma Dorji,0,0,,,,,,bowled,Zubaidi Zulkifle
+ball,1,9.4,Malaysia,Sharveen Surendran,Virandeep Singh,Karma Dorji,0,1,1,,,,,"",""
+ball,1,9.5,Malaysia,Sharveen Surendran,Virandeep Singh,Karma Dorji,2,0,,,,,,"",""
+ball,1,9.6,Malaysia,Sharveen Surendran,Virandeep Singh,Karma Dorji,0,1,1,,,,,"",""
+ball,1,9.7,Malaysia,Sharveen Surendran,Virandeep Singh,Karma Dorji,2,0,,,,,,"",""
+ball,1,9.8,Malaysia,Sharveen Surendran,Virandeep Singh,Karma Dorji,3,0,,,,,,"",""
+ball,1,9.9,Malaysia,Virandeep Singh,Sharveen Surendran,Karma Dorji,0,0,,,,,,"",""
+ball,1,10.1,Malaysia,Sharveen Surendran,Virandeep Singh,T Wangchuk,0,1,1,,,,,"",""
+ball,1,10.2,Malaysia,Sharveen Surendran,Virandeep Singh,T Wangchuk,1,0,,,,,,"",""
+ball,1,10.3,Malaysia,Virandeep Singh,Sharveen Surendran,T Wangchuk,1,0,,,,,,"",""
+ball,1,10.4,Malaysia,Sharveen Surendran,Virandeep Singh,T Wangchuk,0,0,,,,,,"",""
+ball,1,10.5,Malaysia,Sharveen Surendran,Virandeep Singh,T Wangchuk,0,1,1,,,,,"",""
+ball,1,10.6,Malaysia,Sharveen Surendran,Virandeep Singh,T Wangchuk,1,0,,,,,,"",""
+ball,1,10.7,Malaysia,Virandeep Singh,Sharveen Surendran,T Wangchuk,0,0,,,,,,"",""
+ball,1,10.8,Malaysia,Virandeep Singh,Sharveen Surendran,T Wangchuk,4,0,,,,,,"",""
+ball,1,11.1,Malaysia,Sharveen Surendran,Virandeep Singh,GK Ghalley,0,1,1,,,,,"",""
+ball,1,11.2,Malaysia,Sharveen Surendran,Virandeep Singh,GK Ghalley,1,0,,,,,,"",""
+ball,1,11.3,Malaysia,Virandeep Singh,Sharveen Surendran,GK Ghalley,0,1,1,,,,,"",""
+ball,1,11.4,Malaysia,Virandeep Singh,Sharveen Surendran,GK Ghalley,1,0,,,,,,"",""
+ball,1,11.5,Malaysia,Sharveen Surendran,Virandeep Singh,GK Ghalley,4,0,,,,,,"",""
+ball,1,11.6,Malaysia,Sharveen Surendran,Virandeep Singh,GK Ghalley,2,0,,,,,,"",""
+ball,1,11.7,Malaysia,Sharveen Surendran,Virandeep Singh,GK Ghalley,1,0,,,,,,"",""
+ball,1,11.8,Malaysia,Virandeep Singh,Sharveen Surendran,GK Ghalley,0,1,1,,,,,"",""
+ball,1,11.9,Malaysia,Virandeep Singh,Sharveen Surendran,GK Ghalley,1,0,,,,,,"",""
+ball,1,12.1,Malaysia,Virandeep Singh,Sharveen Surendran,Namgay Thinley,1,0,,,,,,"",""
+ball,1,12.2,Malaysia,Sharveen Surendran,Virandeep Singh,Namgay Thinley,0,1,1,,,,,"",""
+ball,1,12.3,Malaysia,Sharveen Surendran,Virandeep Singh,Namgay Thinley,1,0,,,,,,"",""
+ball,1,12.4,Malaysia,Virandeep Singh,Sharveen Surendran,Namgay Thinley,1,0,,,,,,"",""
+ball,1,12.5,Malaysia,Sharveen Surendran,Virandeep Singh,Namgay Thinley,1,0,,,,,,"",""
+ball,1,12.6,Malaysia,Virandeep Singh,Sharveen Surendran,Namgay Thinley,0,0,,,,,,"",""
+ball,1,12.7,Malaysia,Virandeep Singh,Sharveen Surendran,Namgay Thinley,6,0,,,,,,"",""
+ball,1,13.1,Malaysia,Sharveen Surendran,Virandeep Singh,S Pradhan,0,0,,,,,,"",""
+ball,1,13.2,Malaysia,Sharveen Surendran,Virandeep Singh,S Pradhan,0,0,,,,,,"",""
+ball,1,13.3,Malaysia,Sharveen Surendran,Virandeep Singh,S Pradhan,0,0,,,,,,"",""
+ball,1,13.4,Malaysia,Sharveen Surendran,Virandeep Singh,S Pradhan,1,0,,,,,,"",""
+ball,1,13.5,Malaysia,Virandeep Singh,Sharveen Surendran,S Pradhan,0,0,,,,,,"",""
+ball,1,13.6,Malaysia,Virandeep Singh,Sharveen Surendran,S Pradhan,6,0,,,,,,"",""
+ball,1,14.1,Malaysia,Sharveen Surendran,Virandeep Singh,Namgay Thinley,1,0,,,,,,"",""
+ball,1,14.2,Malaysia,Virandeep Singh,Sharveen Surendran,Namgay Thinley,0,0,,,,,,"",""
+ball,1,14.3,Malaysia,Virandeep Singh,Sharveen Surendran,Namgay Thinley,1,0,,,,,,"",""
+ball,1,14.4,Malaysia,Sharveen Surendran,Virandeep Singh,Namgay Thinley,1,0,,,,,,"",""
+ball,1,14.5,Malaysia,Virandeep Singh,Sharveen Surendran,Namgay Thinley,0,0,,,,,,caught,Virandeep Singh
+ball,1,14.6,Malaysia,Khizar Hayat,Sharveen Surendran,Namgay Thinley,2,0,,,,,,"",""
+ball,1,15.1,Malaysia,Sharveen Surendran,Khizar Hayat,S Pradhan,1,0,,,,,,"",""
+ball,1,15.2,Malaysia,Khizar Hayat,Sharveen Surendran,S Pradhan,1,0,,,,,,"",""
+ball,1,15.3,Malaysia,Sharveen Surendran,Khizar Hayat,S Pradhan,0,0,,,,,,caught,Sharveen Surendran
+ball,1,15.4,Malaysia,S Vijay Unni,Khizar Hayat,S Pradhan,0,0,,,,,,"",""
+ball,1,15.5,Malaysia,S Vijay Unni,Khizar Hayat,S Pradhan,0,0,,,,,,"",""
+ball,1,15.6,Malaysia,S Vijay Unni,Khizar Hayat,S Pradhan,0,0,,,,,,"",""
+ball,1,16.1,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,1,0,,,,,,"",""
+ball,1,16.2,Malaysia,S Vijay Unni,Khizar Hayat,T Wangchuk,1,0,,,,,,"",""
+ball,1,16.3,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,0,0,,,,,,"",""
+ball,1,16.4,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,2,0,,,,,,"",""
+ball,1,16.5,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,1,0,,,,,,"",""
+ball,1,16.6,Malaysia,S Vijay Unni,Khizar Hayat,T Wangchuk,2,0,,,,,,"",""
+ball,1,17.1,Malaysia,Khizar Hayat,S Vijay Unni,S Pradhan,1,0,,,,,,"",""
+ball,1,17.2,Malaysia,S Vijay Unni,Khizar Hayat,S Pradhan,1,0,,,,,,"",""
+ball,1,17.3,Malaysia,Khizar Hayat,S Vijay Unni,S Pradhan,0,0,,,,,,"",""
+ball,1,17.4,Malaysia,Khizar Hayat,S Vijay Unni,S Pradhan,1,0,,,,,,"",""
+ball,1,17.5,Malaysia,S Vijay Unni,Khizar Hayat,S Pradhan,1,0,,,,,,"",""
+ball,1,17.6,Malaysia,Khizar Hayat,S Vijay Unni,S Pradhan,1,0,,,,,,"",""
+ball,1,18.1,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,0,0,,,,,,"",""
+ball,1,18.2,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,6,0,,,,,,"",""
+ball,1,18.3,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,4,0,,,,,,"",""
+ball,1,18.4,Malaysia,Khizar Hayat,S Vijay Unni,T Wangchuk,0,0,,,,,,bowled,Khizar Hayat
+ball,1,18.5,Malaysia,Syazrul Idrus,S Vijay Unni,T Wangchuk,0,0,,,,,,"",""
+ball,1,18.6,Malaysia,Syazrul Idrus,S Vijay Unni,T Wangchuk,0,1,,,,1,,"",""
+ball,1,19.1,Malaysia,Syazrul Idrus,S Vijay Unni,Karma Dorji,1,0,,,,,,"",""
+ball,1,19.2,Malaysia,S Vijay Unni,Syazrul Idrus,Karma Dorji,3,0,,,,,,"",""
+ball,1,19.3,Malaysia,Syazrul Idrus,S Vijay Unni,Karma Dorji,1,0,,,,,,"",""
+ball,1,19.4,Malaysia,S Vijay Unni,Syazrul Idrus,Karma Dorji,0,0,,,,,,bowled,S Vijay Unni
+ball,1,19.5,Malaysia,Rizwan Haider,Syazrul Idrus,Karma Dorji,1,0,,,,,,"",""
+ball,1,19.6,Malaysia,Syazrul Idrus,Rizwan Haider,Karma Dorji,6,0,,,,,,"",""
+ball,2,0.1,Bhutan,Tenjin Rabgey,S Pradhan,Rizwan Haider,0,1,,,,1,,"",""
+ball,2,0.2,Bhutan,S Pradhan,Tenjin Rabgey,Rizwan Haider,1,0,,,,,,"",""
+ball,2,0.3,Bhutan,Tenjin Rabgey,S Pradhan,Rizwan Haider,0,0,,,,,,"",""
+ball,2,0.4,Bhutan,Tenjin Rabgey,S Pradhan,Rizwan Haider,3,0,,,,,,"",""
+ball,2,0.5,Bhutan,S Pradhan,Tenjin Rabgey,Rizwan Haider,4,0,,,,,,"",""
+ball,2,0.6,Bhutan,S Pradhan,Tenjin Rabgey,Rizwan Haider,2,0,,,,,,"",""
+ball,2,1.1,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,3,0,,,,,,"",""
+ball,2,1.2,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,0,1,,,,1,,"",""
+ball,2,1.3,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,1.4,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,1,1,,,,,"",""
+ball,2,1.5,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,1.6,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,1.7,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,2.1,Bhutan,S Pradhan,Tenjin Rabgey,Syazrul Idrus,1,0,,,,,,"",""
+ball,2,2.2,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,1,0,,,,,,"",""
+ball,2,2.3,Bhutan,S Pradhan,Tenjin Rabgey,Syazrul Idrus,0,0,,,,,,"",""
+ball,2,2.4,Bhutan,S Pradhan,Tenjin Rabgey,Syazrul Idrus,0,0,,,,,,"",""
+ball,2,2.5,Bhutan,S Pradhan,Tenjin Rabgey,Syazrul Idrus,3,0,,,,,,"",""
+ball,2,2.6,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,0,0,,,,,,"",""
+ball,2,3.1,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,3.2,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,3.3,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,3.4,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,3.5,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,1,0,,,,,,"",""
+ball,2,3.6,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,4.1,Bhutan,S Pradhan,Tenjin Rabgey,Syazrul Idrus,1,0,,,,,,"",""
+ball,2,4.2,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,6,0,,,,,,"",""
+ball,2,4.3,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,4,0,,,,,,"",""
+ball,2,4.4,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,0,1,1,,,,,"",""
+ball,2,4.5,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,0,0,,,,,,"",""
+ball,2,4.6,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,0,0,,,,,,"",""
+ball,2,4.7,Bhutan,Tenjin Rabgey,S Pradhan,Syazrul Idrus,0,0,,,,,,"",""
+ball,2,5.1,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,0,0,,,,,,"",""
+ball,2,5.2,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,0,0,,,,,,"",""
+ball,2,5.3,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,0,0,,,,,,"",""
+ball,2,5.4,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,2,0,,,,,,"",""
+ball,2,5.5,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,0,0,,,,,,"",""
+ball,2,5.6,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,1,0,,,,,,"",""
+ball,2,6.1,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,1,0,,,,,,"",""
+ball,2,6.2,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,1,0,,,,,,"",""
+ball,2,6.3,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,1,0,,,,,,"",""
+ball,2,6.4,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,6.5,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,6.6,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,1,1,,,,,"",""
+ball,2,6.7,Bhutan,Tenjin Rabgey,S Pradhan,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,7.1,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,1,0,,,,,,"",""
+ball,2,7.2,Bhutan,Tenjin Rabgey,S Pradhan,Khizar Hayat,1,0,,,,,,"",""
+ball,2,7.3,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,0,0,,,,,,"",""
+ball,2,7.4,Bhutan,S Pradhan,Tenjin Rabgey,Khizar Hayat,1,0,,,,,,"",""
+ball,2,7.5,Bhutan,Tenjin Rabgey,S Pradhan,Khizar Hayat,0,0,,,,,,"",""
+ball,2,7.6,Bhutan,Tenjin Rabgey,S Pradhan,Khizar Hayat,0,0,,,,,,"",""
+ball,2,8.1,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,2,0,,,,,,"",""
+ball,2,8.2,Bhutan,S Pradhan,Tenjin Rabgey,Pavandeep Singh,0,0,,,,,,caught,S Pradhan
+ball,2,8.3,Bhutan,Namgay Thinley,Tenjin Rabgey,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,8.4,Bhutan,Namgay Thinley,Tenjin Rabgey,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,8.5,Bhutan,Namgay Thinley,Tenjin Rabgey,Pavandeep Singh,1,0,,,,,,"",""
+ball,2,8.6,Bhutan,Tenjin Rabgey,Namgay Thinley,Pavandeep Singh,0,0,,,,,,"",""
+ball,2,9.1,Bhutan,Namgay Thinley,Tenjin Rabgey,Khizar Hayat,0,0,,,,,,"",""
+ball,2,9.2,Bhutan,Namgay Thinley,Tenjin Rabgey,Khizar Hayat,0,1,,,,1,,"",""
+ball,2,9.3,Bhutan,Tenjin Rabgey,Namgay Thinley,Khizar Hayat,0,0,,,,,,caught and bowled,Tenjin Rabgey
+ball,2,9.4,Bhutan,S Loday,Namgay Thinley,Khizar Hayat,0,0,,,,,,"",""
+ball,2,9.5,Bhutan,S Loday,Namgay Thinley,Khizar Hayat,2,0,,,,,,"",""
+ball,2,9.6,Bhutan,S Loday,Namgay Thinley,Khizar Hayat,0,0,,,,,,"",""
+ball,2,10.1,Bhutan,Namgay Thinley,S Loday,S Vijay Unni,1,0,,,,,,"",""
+ball,2,10.2,Bhutan,S Loday,Namgay Thinley,S Vijay Unni,1,0,,,,,,"",""
+ball,2,10.3,Bhutan,Namgay Thinley,S Loday,S Vijay Unni,0,1,,,,1,,"",""
+ball,2,10.4,Bhutan,S Loday,Namgay Thinley,S Vijay Unni,1,0,,,,,,"",""
+ball,2,10.5,Bhutan,Namgay Thinley,S Loday,S Vijay Unni,6,0,,,,,,"",""
+ball,2,10.6,Bhutan,Namgay Thinley,S Loday,S Vijay Unni,1,0,,,,,,"",""
+ball,2,11.1,Bhutan,Namgay Thinley,S Loday,Khizar Hayat,1,0,,,,,,"",""
+ball,2,11.2,Bhutan,S Loday,Namgay Thinley,Khizar Hayat,1,0,,,,,,"",""
+ball,2,11.3,Bhutan,Namgay Thinley,S Loday,Khizar Hayat,1,0,,,,,,"",""
+ball,2,11.4,Bhutan,S Loday,Namgay Thinley,Khizar Hayat,1,0,,,,,,"",""
+ball,2,11.5,Bhutan,Namgay Thinley,S Loday,Khizar Hayat,1,0,,,,,,"",""
+ball,2,11.6,Bhutan,S Loday,Namgay Thinley,Khizar Hayat,0,0,,,,,,"",""
+ball,2,12.1,Bhutan,Namgay Thinley,S Loday,Virandeep Singh,2,0,,,,,,"",""
+ball,2,12.2,Bhutan,Namgay Thinley,S Loday,Virandeep Singh,0,0,,,,,,"",""
+ball,2,12.3,Bhutan,Namgay Thinley,S Loday,Virandeep Singh,0,0,,,,,,"",""
+ball,2,12.4,Bhutan,Namgay Thinley,S Loday,Virandeep Singh,0,1,1,,,,,stumped,Namgay Thinley
+ball,2,12.5,Bhutan,GK Ghalley,S Loday,Virandeep Singh,2,0,,,,,,"",""
+ball,2,12.6,Bhutan,GK Ghalley,S Loday,Virandeep Singh,0,0,,,,,,"",""
+ball,2,12.7,Bhutan,GK Ghalley,S Loday,Virandeep Singh,1,0,,,,,,"",""
+ball,2,13.1,Bhutan,GK Ghalley,S Loday,S Vijay Unni,0,0,,,,,,"",""
+ball,2,13.2,Bhutan,GK Ghalley,S Loday,S Vijay Unni,1,0,,,,,,"",""
+ball,2,13.3,Bhutan,S Loday,GK Ghalley,S Vijay Unni,0,0,,,,,,"",""
+ball,2,13.4,Bhutan,S Loday,GK Ghalley,S Vijay Unni,0,0,,,,,,"",""
+ball,2,13.5,Bhutan,S Loday,GK Ghalley,S Vijay Unni,1,0,,,,,,"",""
+ball,2,13.6,Bhutan,GK Ghalley,S Loday,S Vijay Unni,0,0,,,,,,"",""
+ball,2,14.1,Bhutan,S Loday,GK Ghalley,Virandeep Singh,0,0,,,,,,bowled,S Loday
+ball,2,14.2,Bhutan,K Ghalley,GK Ghalley,Virandeep Singh,1,0,,,,,,"",""
+ball,2,14.3,Bhutan,GK Ghalley,K Ghalley,Virandeep Singh,0,0,,,,,,"",""
+ball,2,14.4,Bhutan,GK Ghalley,K Ghalley,Virandeep Singh,0,0,,,,,,"",""
+ball,2,14.5,Bhutan,GK Ghalley,K Ghalley,Virandeep Singh,0,0,,,,,,"",""
+ball,2,14.6,Bhutan,GK Ghalley,K Ghalley,Virandeep Singh,0,1,,,,1,,"",""
+ball,2,15.1,Bhutan,GK Ghalley,K Ghalley,S Vijay Unni,4,0,,,,,,"",""
+ball,2,15.2,Bhutan,GK Ghalley,K Ghalley,S Vijay Unni,0,0,,,,,,"",""
+ball,2,15.3,Bhutan,GK Ghalley,K Ghalley,S Vijay Unni,0,0,,,,,,"",""
+ball,2,15.4,Bhutan,GK Ghalley,K Ghalley,S Vijay Unni,1,0,,,,,,"",""
+ball,2,15.5,Bhutan,K Ghalley,GK Ghalley,S Vijay Unni,2,0,,,,,,"",""
+ball,2,15.6,Bhutan,K Ghalley,GK Ghalley,S Vijay Unni,1,0,,,,,,"",""
+ball,2,16.1,Bhutan,K Ghalley,GK Ghalley,Virandeep Singh,0,0,,,,,,"",""
+ball,2,16.2,Bhutan,K Ghalley,GK Ghalley,Virandeep Singh,0,0,,,,,,"",""
+ball,2,16.3,Bhutan,K Ghalley,GK Ghalley,Virandeep Singh,0,1,,,,1,,"",""
+ball,2,16.4,Bhutan,GK Ghalley,K Ghalley,Virandeep Singh,2,0,,,,,,"",""
+ball,2,16.5,Bhutan,GK Ghalley,K Ghalley,Virandeep Singh,1,0,,,,,,"",""
+ball,2,16.6,Bhutan,K Ghalley,GK Ghalley,Virandeep Singh,2,0,,,,,,"",""
+ball,2,17.1,Bhutan,GK Ghalley,K Ghalley,S Vijay Unni,0,0,,,,,,stumped,GK Ghalley
+ball,2,17.2,Bhutan,T Wangchuk,K Ghalley,S Vijay Unni,0,0,,,,,,"",""
+ball,2,17.3,Bhutan,T Wangchuk,K Ghalley,S Vijay Unni,0,0,,,,,,bowled,T Wangchuk
+ball,2,17.4,Bhutan,S Chophel,K Ghalley,S Vijay Unni,0,0,,,,,,"",""
+ball,2,17.5,Bhutan,S Chophel,K Ghalley,S Vijay Unni,1,0,,,,,,"",""
+ball,2,17.6,Bhutan,K Ghalley,S Chophel,S Vijay Unni,1,0,,,,,,"",""
+ball,2,18.1,Bhutan,K Ghalley,S Chophel,Virandeep Singh,0,0,,,,,,"",""
+ball,2,18.2,Bhutan,K Ghalley,S Chophel,Virandeep Singh,1,0,,,,,,"",""
+ball,2,18.3,Bhutan,S Chophel,K Ghalley,Virandeep Singh,0,0,,,,,,run out,S Chophel
+ball,2,18.4,Bhutan,K Ghalley,S Yeshi,Virandeep Singh,0,0,,,,,,"",""
+ball,2,18.5,Bhutan,K Ghalley,S Yeshi,Virandeep Singh,1,0,,,,,,"",""
+ball,2,18.6,Bhutan,S Yeshi,K Ghalley,Virandeep Singh,0,0,,,,,,"",""
+ball,2,19.1,Bhutan,K Ghalley,S Yeshi,Syazrul Idrus,4,0,,,,,,"",""
+ball,2,19.2,Bhutan,K Ghalley,S Yeshi,Syazrul Idrus,4,0,,,,,,"",""
+ball,2,19.3,Bhutan,K Ghalley,S Yeshi,Syazrul Idrus,1,0,,,,,,"",""
+ball,2,19.4,Bhutan,S Yeshi,K Ghalley,Syazrul Idrus,1,0,,,,,,"",""
+ball,2,19.5,Bhutan,K Ghalley,S Yeshi,Syazrul Idrus,1,0,,,,,,"",""
+ball,2,19.6,Bhutan,S Yeshi,K Ghalley,Syazrul Idrus,0,0,,,,,,bowled,S Yeshi

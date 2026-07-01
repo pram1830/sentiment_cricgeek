@@ -1,0 +1,357 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Norway
+info,gender,female
+info,season,2025
+info,date,2025/08/29
+info,event,Nordic Women T20 Cup
+info,match_number,2
+info,venue,Albertslund Cricket Club
+info,city,Copenhagen
+info,toss_winner,Norway
+info,toss_decision,field
+info,player_of_match,Kanchan Rana
+info,winner,Sweden
+info,winner_runs,94
+info,player,Sweden,A Vaidya
+info,player,Sweden,E Bogdanova
+info,player,Sweden,Kanchan Rana
+info,player,Sweden,E Thelander
+info,player,Sweden,Jayasooriya
+info,player,Sweden,H Chamto
+info,player,Sweden,Zara Mohammad
+info,player,Sweden,Malyun Yusuf
+info,player,Sweden,D Chamto
+info,player,Sweden,RG Somashekhar
+info,player,Sweden,P Bilimoria
+info,player,Norway,AS Gorad
+info,player,Norway,Mirab Sajjad
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,Ayesha Hasan
+info,player,Norway,R Immadi
+info,player,Norway,Alina Aslam
+info,player,Norway,VB Viyala
+info,player,Norway,Mirab Razwan
+info,player,Norway,Purvi Kumari
+info,player,Norway,Lopamudra
+info,player,Norway,Prachi Kumari
+info,registry,people,A Vaidya,b7d8c07d
+info,registry,people,AS Gorad,2c8d0953
+info,registry,people,Alina Aslam,fbffb752
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,D Chamto,4de33485
+info,registry,people,E Bogdanova,c7859708
+info,registry,people,E Thelander,45cb4feb
+info,registry,people,H Chamto,5e181be6
+info,registry,people,Jayasooriya,39183970
+info,registry,people,Kanchan Rana,d5d87f3f
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,Malyun Yusuf,436527cd
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,Mirab Sajjad,41db4d1f
+info,registry,people,P Bilimoria,ae5f7cc9
+info,registry,people,Prachi Kumari,dc4f97bf
+info,registry,people,Purvi Kumari,68339baa
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,RG Somashekhar,881cb071
+info,registry,people,VB Viyala,228a747d
+info,registry,people,Zara Mohammad,c9ca2bd7
+ball,1,0.1,Sweden,A Vaidya,E Bogdanova,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.2,Sweden,A Vaidya,E Bogdanova,Alina Aslam,0,1,1,,,,,"",""
+ball,1,0.3,Sweden,A Vaidya,E Bogdanova,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.4,Sweden,A Vaidya,E Bogdanova,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.5,Sweden,A Vaidya,E Bogdanova,Alina Aslam,1,0,,,,,,"",""
+ball,1,0.6,Sweden,E Bogdanova,A Vaidya,Alina Aslam,0,0,,,,,,caught,E Bogdanova
+ball,1,0.7,Sweden,Kanchan Rana,A Vaidya,Alina Aslam,1,0,,,,,,"",""
+ball,1,1.1,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,1,1,,,,,"",""
+ball,1,1.2,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,1,1,,,,,"",""
+ball,1,1.3,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,0,,,,,,"",""
+ball,1,1.4,Sweden,Kanchan Rana,A Vaidya,R Immadi,2,0,,,,,,"",""
+ball,1,1.5,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,0,,,,,,"",""
+ball,1,1.6,Sweden,Kanchan Rana,A Vaidya,R Immadi,1,0,,,,,,"",""
+ball,1,1.7,Sweden,A Vaidya,Kanchan Rana,R Immadi,0,1,1,,,,,"",""
+ball,1,1.8,Sweden,A Vaidya,Kanchan Rana,R Immadi,0,0,,,,,,"",""
+ball,1,1.9,Sweden,A Vaidya,Kanchan Rana,R Immadi,0,0,,,,,,"",""
+ball,1,2.1,Sweden,Kanchan Rana,A Vaidya,Alina Aslam,2,0,,,,,,"",""
+ball,1,2.2,Sweden,Kanchan Rana,A Vaidya,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.3,Sweden,Kanchan Rana,A Vaidya,Alina Aslam,1,0,,,,,,"",""
+ball,1,2.4,Sweden,A Vaidya,Kanchan Rana,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.5,Sweden,A Vaidya,Kanchan Rana,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.6,Sweden,A Vaidya,Kanchan Rana,Alina Aslam,2,0,,,,,,"",""
+ball,1,3.1,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,1,1,,,,,"",""
+ball,1,3.2,Sweden,Kanchan Rana,A Vaidya,R Immadi,2,0,,,,,,"",""
+ball,1,3.3,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,0,,,,,,"",""
+ball,1,3.4,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,0,,,,,,"",""
+ball,1,3.5,Sweden,Kanchan Rana,A Vaidya,R Immadi,0,1,1,,,,,"",""
+ball,1,3.6,Sweden,Kanchan Rana,A Vaidya,R Immadi,1,0,,,,,,"",""
+ball,1,3.7,Sweden,A Vaidya,Kanchan Rana,R Immadi,0,0,,,,,,"",""
+ball,1,3.8,Sweden,A Vaidya,Kanchan Rana,R Immadi,0,0,,,,,,"",""
+ball,1,4.1,Sweden,Kanchan Rana,A Vaidya,VB Viyala,0,1,1,,,,,"",""
+ball,1,4.2,Sweden,Kanchan Rana,A Vaidya,VB Viyala,0,0,,,,,,"",""
+ball,1,4.3,Sweden,Kanchan Rana,A Vaidya,VB Viyala,1,0,,,,,,"",""
+ball,1,4.4,Sweden,A Vaidya,Kanchan Rana,VB Viyala,1,0,,,,,,"",""
+ball,1,4.5,Sweden,Kanchan Rana,A Vaidya,VB Viyala,4,1,,1,,,,"",""
+ball,1,4.6,Sweden,Kanchan Rana,A Vaidya,VB Viyala,4,0,,,,,,"",""
+ball,1,4.7,Sweden,Kanchan Rana,A Vaidya,VB Viyala,4,0,,,,,,"",""
+ball,1,4.8,Sweden,Kanchan Rana,A Vaidya,VB Viyala,0,2,2,,,,,"",""
+ball,1,4.9,Sweden,A Vaidya,Kanchan Rana,VB Viyala,1,0,,,,,,"",""
+ball,1,5.1,Sweden,A Vaidya,Kanchan Rana,Lopamudra,4,0,,,,,,"",""
+ball,1,5.2,Sweden,A Vaidya,Kanchan Rana,Lopamudra,0,0,,,,,,"",""
+ball,1,5.3,Sweden,A Vaidya,Kanchan Rana,Lopamudra,0,0,,,,,,"",""
+ball,1,5.4,Sweden,A Vaidya,Kanchan Rana,Lopamudra,4,0,,,,,,"",""
+ball,1,5.5,Sweden,A Vaidya,Kanchan Rana,Lopamudra,0,0,,,,,,"",""
+ball,1,5.6,Sweden,A Vaidya,Kanchan Rana,Lopamudra,4,0,,,,,,"",""
+ball,1,6.1,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,2,0,,,,,,"",""
+ball,1,6.2,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,0,0,,,,,,"",""
+ball,1,6.3,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,0,1,1,,,,,"",""
+ball,1,6.4,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,0,1,1,,,,,"",""
+ball,1,6.5,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,0,0,,,,,,"",""
+ball,1,6.6,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,1,0,,,,,,"",""
+ball,1,6.7,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,0,1,1,,,,,"",""
+ball,1,6.8,Sweden,Kanchan Rana,A Vaidya,Mirab Razwan,1,0,,,,,,"",""
+ball,1,6.9,Sweden,A Vaidya,Kanchan Rana,Mirab Razwan,0,0,,,,,,"",""
+ball,1,7.1,Sweden,Kanchan Rana,A Vaidya,Prachi Kumari,0,0,,,,,,"",""
+ball,1,7.2,Sweden,Kanchan Rana,A Vaidya,Prachi Kumari,0,0,,,,,,run out,A Vaidya
+ball,1,7.3,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,1,0,,,,,,"",""
+ball,1,7.4,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,1,0,,,,,,"",""
+ball,1,7.5,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,7.6,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,1,0,,,,,,"",""
+ball,1,7.7,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,1,0,,,,,,"",""
+ball,1,8.1,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,4,0,,,,,,"",""
+ball,1,8.2,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,0,0,,,,,,"",""
+ball,1,8.3,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,0,1,1,,,,,"",""
+ball,1,8.4,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,2,0,,,,,,"",""
+ball,1,8.5,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,0,0,,,,,,"",""
+ball,1,8.6,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,4,0,,,,,,"",""
+ball,1,8.7,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,0,0,,,,,,"",""
+ball,1,9.1,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,9.2,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,0,0,,,,,,"",""
+ball,1,9.3,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,1,0,,,,,,"",""
+ball,1,9.4,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,9.5,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,0,0,,,,,,"",""
+ball,1,9.6,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,2,0,,,,,,"",""
+ball,1,9.7,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,9.8,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,1,0,,,,,,"",""
+ball,1,9.9,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,2,0,,,,,,"",""
+ball,1,10.1,Sweden,Kanchan Rana,E Thelander,Alina Aslam,1,0,,,,,,"",""
+ball,1,10.2,Sweden,E Thelander,Kanchan Rana,Alina Aslam,1,0,,,,,,"",""
+ball,1,10.3,Sweden,Kanchan Rana,E Thelander,Alina Aslam,1,0,,,,,,"",""
+ball,1,10.4,Sweden,E Thelander,Kanchan Rana,Alina Aslam,1,0,,,,,,"",""
+ball,1,10.5,Sweden,Kanchan Rana,E Thelander,Alina Aslam,2,0,,,,,,"",""
+ball,1,10.6,Sweden,Kanchan Rana,E Thelander,Alina Aslam,0,0,,,,,,"",""
+ball,1,11.1,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,1,0,,,,,,"",""
+ball,1,11.2,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,2,0,,,,,,"",""
+ball,1,11.3,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,2,0,,,,,,"",""
+ball,1,11.4,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,1,0,,,,,,"",""
+ball,1,11.5,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,2,0,,,,,,"",""
+ball,1,11.6,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,0,0,,,,,,"",""
+ball,1,12.1,Sweden,Kanchan Rana,E Thelander,Lopamudra,2,0,,,,,,"",""
+ball,1,12.2,Sweden,Kanchan Rana,E Thelander,Lopamudra,4,0,,,,,,"",""
+ball,1,12.3,Sweden,Kanchan Rana,E Thelander,Lopamudra,0,0,,,,,,"",""
+ball,1,12.4,Sweden,Kanchan Rana,E Thelander,Lopamudra,4,0,,,,,,"",""
+ball,1,12.5,Sweden,Kanchan Rana,E Thelander,Lopamudra,1,0,,,,,,"",""
+ball,1,12.6,Sweden,E Thelander,Kanchan Rana,Lopamudra,1,0,,,,,,"",""
+ball,1,13.1,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.2,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,2,0,,,,,,"",""
+ball,1,13.3,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,0,0,,,,,,"",""
+ball,1,13.4,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.5,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,13.6,Sweden,E Thelander,Kanchan Rana,Prachi Kumari,1,0,,,,,,"",""
+ball,1,13.7,Sweden,Kanchan Rana,E Thelander,Prachi Kumari,1,0,,,,,,"",""
+ball,1,14.1,Sweden,Kanchan Rana,E Thelander,R Immadi,2,0,,,,,,"",""
+ball,1,14.2,Sweden,Kanchan Rana,E Thelander,R Immadi,0,0,,,,,,"",""
+ball,1,14.3,Sweden,Kanchan Rana,E Thelander,R Immadi,1,0,,,,,,"",""
+ball,1,14.4,Sweden,E Thelander,Kanchan Rana,R Immadi,0,1,1,,,,,"",""
+ball,1,14.5,Sweden,E Thelander,Kanchan Rana,R Immadi,1,0,,,,,,"",""
+ball,1,14.6,Sweden,Kanchan Rana,E Thelander,R Immadi,1,0,,,,,,"",""
+ball,1,14.7,Sweden,E Thelander,Kanchan Rana,R Immadi,2,0,,,,,,"",""
+ball,1,15.1,Sweden,Kanchan Rana,E Thelander,Purvi Kumari,4,1,,1,,,,"",""
+ball,1,15.2,Sweden,Kanchan Rana,E Thelander,Purvi Kumari,0,1,1,,,,,"",""
+ball,1,15.3,Sweden,Kanchan Rana,E Thelander,Purvi Kumari,2,0,,,,,,"",""
+ball,1,15.4,Sweden,Kanchan Rana,E Thelander,Purvi Kumari,1,0,,,,,,"",""
+ball,1,15.5,Sweden,E Thelander,Kanchan Rana,Purvi Kumari,1,0,,,,,,"",""
+ball,1,15.6,Sweden,Kanchan Rana,E Thelander,Purvi Kumari,1,0,,,,,,"",""
+ball,1,15.7,Sweden,E Thelander,Kanchan Rana,Purvi Kumari,2,0,,,,,,"",""
+ball,1,15.8,Sweden,E Thelander,Kanchan Rana,Purvi Kumari,1,0,,,,,,"",""
+ball,1,16.1,Sweden,E Thelander,Kanchan Rana,Mirab Razwan,4,0,,,,,,"",""
+ball,1,16.2,Sweden,E Thelander,Kanchan Rana,Mirab Razwan,0,0,,,,,,"",""
+ball,1,16.3,Sweden,E Thelander,Kanchan Rana,Mirab Razwan,0,1,1,,,,,"",""
+ball,1,16.4,Sweden,E Thelander,Kanchan Rana,Mirab Razwan,1,0,,,,,,"",""
+ball,1,16.5,Sweden,Kanchan Rana,E Thelander,Mirab Razwan,0,0,,,,,,bowled,Kanchan Rana
+ball,1,16.6,Sweden,Jayasooriya,E Thelander,Mirab Razwan,0,0,,,,,,"",""
+ball,1,16.7,Sweden,Jayasooriya,E Thelander,Mirab Razwan,1,0,,,,,,"",""
+ball,1,17.1,Sweden,Jayasooriya,E Thelander,Alina Aslam,0,2,2,,,,,"",""
+ball,1,17.2,Sweden,E Thelander,Jayasooriya,Alina Aslam,0,0,,,,,,"",""
+ball,1,17.3,Sweden,E Thelander,Jayasooriya,Alina Aslam,0,0,,,,,,"",""
+ball,1,17.4,Sweden,E Thelander,Jayasooriya,Alina Aslam,0,0,,,,,,"",""
+ball,1,17.5,Sweden,E Thelander,Jayasooriya,Alina Aslam,1,0,,,,,,"",""
+ball,1,17.6,Sweden,Jayasooriya,E Thelander,Alina Aslam,1,0,,,,,,"",""
+ball,1,17.7,Sweden,E Thelander,Jayasooriya,Alina Aslam,0,1,1,,,,,"",""
+ball,1,17.8,Sweden,E Thelander,Jayasooriya,Alina Aslam,0,0,,,,,,"",""
+ball,1,18.1,Sweden,Jayasooriya,E Thelander,R Immadi,0,3,3,,,,,"",""
+ball,1,18.2,Sweden,Jayasooriya,E Thelander,R Immadi,1,0,,,,,,"",""
+ball,1,18.3,Sweden,E Thelander,Jayasooriya,R Immadi,0,2,2,,,,,"",""
+ball,1,18.4,Sweden,Jayasooriya,E Thelander,R Immadi,4,0,,,,,,"",""
+ball,1,18.5,Sweden,Jayasooriya,E Thelander,R Immadi,4,0,,,,,,"",""
+ball,1,18.6,Sweden,Jayasooriya,E Thelander,R Immadi,1,0,,,,,,"",""
+ball,1,18.7,Sweden,E Thelander,Jayasooriya,R Immadi,0,1,1,,,,,"",""
+ball,1,18.8,Sweden,E Thelander,Jayasooriya,R Immadi,0,0,,,,,,"",""
+ball,1,18.9,Sweden,E Thelander,Jayasooriya,R Immadi,4,0,,,,,,"",""
+ball,1,19.1,Sweden,Jayasooriya,E Thelander,Mirab Razwan,2,0,,,,,,"",""
+ball,1,19.2,Sweden,Jayasooriya,E Thelander,Mirab Razwan,1,0,,,,,,"",""
+ball,1,19.3,Sweden,E Thelander,Jayasooriya,Mirab Razwan,1,0,,,,,,"",""
+ball,1,19.4,Sweden,Jayasooriya,E Thelander,Mirab Razwan,0,0,,,,,,bowled,Jayasooriya
+ball,1,19.5,Sweden,H Chamto,E Thelander,Mirab Razwan,2,0,,,,,,"",""
+ball,1,19.6,Sweden,H Chamto,E Thelander,Mirab Razwan,0,0,,,,,,"",""
+ball,2,0.1,Norway,AS Gorad,Mirab Sajjad,Zara Mohammad,2,0,,,,,,"",""
+ball,2,0.2,Norway,AS Gorad,Mirab Sajjad,Zara Mohammad,0,2,2,,,,,"",""
+ball,2,0.3,Norway,Mirab Sajjad,AS Gorad,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,0.4,Norway,Mirab Sajjad,AS Gorad,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,0.5,Norway,Mirab Sajjad,AS Gorad,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,0.6,Norway,Mirab Sajjad,AS Gorad,Zara Mohammad,0,0,,,,,,"",""
+ball,2,0.7,Norway,Mirab Sajjad,AS Gorad,Zara Mohammad,0,0,,,,,,"",""
+ball,2,0.8,Norway,Mirab Sajjad,AS Gorad,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,0.9,Norway,Mirab Sajjad,AS Gorad,Zara Mohammad,0,0,,,,,,run out,AS Gorad
+ball,2,0.10,Norway,Mirab Sajjad,Bijeyata Kumari,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,0.11,Norway,Mirab Sajjad,Bijeyata Kumari,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,0.12,Norway,Mirab Sajjad,Bijeyata Kumari,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,0.13,Norway,Mirab Sajjad,Bijeyata Kumari,Zara Mohammad,0,0,,,,,,"",""
+ball,2,0.14,Norway,Mirab Sajjad,Bijeyata Kumari,Zara Mohammad,0,0,,,,,,"",""
+ball,2,1.1,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,1.2,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,1.3,Norway,Mirab Sajjad,Bijeyata Kumari,A Vaidya,0,0,,,,,,"",""
+ball,2,1.4,Norway,Mirab Sajjad,Bijeyata Kumari,A Vaidya,0,0,,,,,,"",""
+ball,2,1.5,Norway,Mirab Sajjad,Bijeyata Kumari,A Vaidya,0,1,1,,,,,"",""
+ball,2,1.6,Norway,Mirab Sajjad,Bijeyata Kumari,A Vaidya,1,0,,,,,,"",""
+ball,2,1.7,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,2.1,Norway,Mirab Sajjad,Bijeyata Kumari,Jayasooriya,0,0,,,,,,"",""
+ball,2,2.2,Norway,Mirab Sajjad,Bijeyata Kumari,Jayasooriya,0,0,,,,,,"",""
+ball,2,2.3,Norway,Mirab Sajjad,Bijeyata Kumari,Jayasooriya,1,0,,,,,,"",""
+ball,2,2.4,Norway,Bijeyata Kumari,Mirab Sajjad,Jayasooriya,0,0,,,,,,"",""
+ball,2,2.5,Norway,Bijeyata Kumari,Mirab Sajjad,Jayasooriya,0,0,,,,,,"",""
+ball,2,2.6,Norway,Bijeyata Kumari,Mirab Sajjad,Jayasooriya,0,1,,,,1,,"",""
+ball,2,3.1,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,1,1,,,,,"",""
+ball,2,3.2,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,3.3,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,3.4,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,3.5,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,3.6,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,3.7,Norway,Bijeyata Kumari,Mirab Sajjad,A Vaidya,0,0,,,,,,"",""
+ball,2,4.1,Norway,Mirab Sajjad,Bijeyata Kumari,Jayasooriya,1,0,,,,,,"",""
+ball,2,4.2,Norway,Bijeyata Kumari,Mirab Sajjad,Jayasooriya,0,0,,,,,,"",""
+ball,2,4.3,Norway,Bijeyata Kumari,Mirab Sajjad,Jayasooriya,2,0,,,,,,"",""
+ball,2,4.4,Norway,Bijeyata Kumari,Mirab Sajjad,Jayasooriya,0,0,,,,,,"",""
+ball,2,4.5,Norway,Bijeyata Kumari,Mirab Sajjad,Jayasooriya,0,0,,,,,,caught,Bijeyata Kumari
+ball,2,4.6,Norway,Ayesha Hasan,Mirab Sajjad,Jayasooriya,0,0,,,,,,"",""
+ball,2,5.1,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,1,1,,,,,"",""
+ball,2,5.2,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,0,,,,,,"",""
+ball,2,5.3,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,0,,,,,,"",""
+ball,2,5.4,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,1,,1,,,,"",""
+ball,2,5.5,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,0,,,,,,"",""
+ball,2,5.6,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,2,2,,,,,"",""
+ball,2,5.7,Norway,Ayesha Hasan,Mirab Sajjad,A Vaidya,1,0,,,,,,"",""
+ball,2,5.8,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,1,1,,,,,"",""
+ball,2,5.9,Norway,Mirab Sajjad,Ayesha Hasan,A Vaidya,0,0,,,,,,run out,Mirab Sajjad
+ball,2,5.10,Norway,R Immadi,Ayesha Hasan,A Vaidya,0,0,,,,,,"",""
+ball,2,6.1,Norway,Ayesha Hasan,R Immadi,Jayasooriya,2,0,,,,,,"",""
+ball,2,6.2,Norway,Ayesha Hasan,R Immadi,Jayasooriya,0,0,,,,,,"",""
+ball,2,6.3,Norway,Ayesha Hasan,R Immadi,Jayasooriya,1,0,,,,,,"",""
+ball,2,6.4,Norway,R Immadi,Ayesha Hasan,Jayasooriya,0,0,,,,,,"",""
+ball,2,6.5,Norway,R Immadi,Ayesha Hasan,Jayasooriya,0,0,,,,,,"",""
+ball,2,6.6,Norway,R Immadi,Ayesha Hasan,Jayasooriya,2,0,,,,,,"",""
+ball,2,7.1,Norway,Ayesha Hasan,R Immadi,Zara Mohammad,0,0,,,,,,"",""
+ball,2,7.2,Norway,Ayesha Hasan,R Immadi,Zara Mohammad,0,0,,,,,,"",""
+ball,2,7.3,Norway,Ayesha Hasan,R Immadi,Zara Mohammad,1,0,,,,,,"",""
+ball,2,7.4,Norway,R Immadi,Ayesha Hasan,Zara Mohammad,0,0,,,,,,"",""
+ball,2,7.5,Norway,R Immadi,Ayesha Hasan,Zara Mohammad,1,0,,,,,,"",""
+ball,2,7.6,Norway,Ayesha Hasan,R Immadi,Zara Mohammad,0,0,,,,,,"",""
+ball,2,8.1,Norway,R Immadi,Ayesha Hasan,H Chamto,1,0,,,,,,"",""
+ball,2,8.2,Norway,Ayesha Hasan,R Immadi,H Chamto,0,1,1,,,,,"",""
+ball,2,8.3,Norway,Ayesha Hasan,R Immadi,H Chamto,1,0,,,,,,"",""
+ball,2,8.4,Norway,R Immadi,Ayesha Hasan,H Chamto,0,0,,,,,,"",""
+ball,2,8.5,Norway,R Immadi,Ayesha Hasan,H Chamto,2,0,,,,,,"",""
+ball,2,8.6,Norway,R Immadi,Ayesha Hasan,H Chamto,1,0,,,,,,"",""
+ball,2,8.7,Norway,Ayesha Hasan,R Immadi,H Chamto,0,0,,,,,,"",""
+ball,2,9.1,Norway,R Immadi,Ayesha Hasan,Zara Mohammad,0,0,,,,,,"",""
+ball,2,9.2,Norway,R Immadi,Ayesha Hasan,Zara Mohammad,1,0,,,,,,"",""
+ball,2,9.3,Norway,Ayesha Hasan,R Immadi,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,9.4,Norway,Ayesha Hasan,R Immadi,Zara Mohammad,1,0,,,,,,"",""
+ball,2,9.5,Norway,R Immadi,Ayesha Hasan,Zara Mohammad,0,0,,,,,,caught,R Immadi
+ball,2,9.6,Norway,Alina Aslam,Ayesha Hasan,Zara Mohammad,1,0,,,,,,"",""
+ball,2,9.7,Norway,Ayesha Hasan,Alina Aslam,Zara Mohammad,0,0,,,,,,"",""
+ball,2,10.1,Norway,Alina Aslam,Ayesha Hasan,H Chamto,0,0,,,,,,"",""
+ball,2,10.2,Norway,Alina Aslam,Ayesha Hasan,H Chamto,0,0,,,,,,"",""
+ball,2,10.3,Norway,Alina Aslam,Ayesha Hasan,H Chamto,0,0,,,,,,"",""
+ball,2,10.4,Norway,Alina Aslam,Ayesha Hasan,H Chamto,0,1,,,1,,,"",""
+ball,2,10.5,Norway,Ayesha Hasan,Alina Aslam,H Chamto,3,0,,,,,,"",""
+ball,2,10.6,Norway,Alina Aslam,Ayesha Hasan,H Chamto,1,0,,,,,,"",""
+ball,2,11.1,Norway,Alina Aslam,Ayesha Hasan,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,11.2,Norway,Alina Aslam,Ayesha Hasan,Zara Mohammad,1,0,,,,,,"",""
+ball,2,11.3,Norway,Ayesha Hasan,Alina Aslam,Zara Mohammad,2,0,,,,,,"",""
+ball,2,11.4,Norway,Ayesha Hasan,Alina Aslam,Zara Mohammad,0,0,,,,,,"",""
+ball,2,11.5,Norway,Ayesha Hasan,Alina Aslam,Zara Mohammad,0,0,,,,,,"",""
+ball,2,11.6,Norway,Ayesha Hasan,Alina Aslam,Zara Mohammad,0,0,,,,,,run out,Ayesha Hasan
+ball,2,11.7,Norway,VB Viyala,Alina Aslam,Zara Mohammad,0,1,1,,,,,"",""
+ball,2,11.8,Norway,VB Viyala,Alina Aslam,Zara Mohammad,0,0,,,,,,"",""
+ball,2,12.1,Norway,Alina Aslam,VB Viyala,H Chamto,0,1,1,,,,,"",""
+ball,2,12.2,Norway,Alina Aslam,VB Viyala,H Chamto,0,0,,,,,,"",""
+ball,2,12.3,Norway,Alina Aslam,VB Viyala,H Chamto,1,0,,,,,,"",""
+ball,2,12.4,Norway,VB Viyala,Alina Aslam,H Chamto,1,0,,,,,,"",""
+ball,2,12.5,Norway,Alina Aslam,VB Viyala,H Chamto,0,0,,,,,,"",""
+ball,2,12.6,Norway,Alina Aslam,VB Viyala,H Chamto,1,0,,,,,,"",""
+ball,2,12.7,Norway,VB Viyala,Alina Aslam,H Chamto,0,0,,,,,,"",""
+ball,2,13.1,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,13.2,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,13.3,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,13.4,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,13.5,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,13.6,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,2,0,,,,,,"",""
+ball,2,14.1,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,1,1,,,,,"",""
+ball,2,14.2,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,0,,,,,,"",""
+ball,2,14.3,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,0,,,,,,"",""
+ball,2,14.4,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,1,1,,,,,"",""
+ball,2,14.5,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,0,,,,,,"",""
+ball,2,14.6,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,1,1,,,,,"",""
+ball,2,14.7,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,1,1,,,,,"",""
+ball,2,14.8,Norway,VB Viyala,Alina Aslam,Kanchan Rana,2,0,,,,,,"",""
+ball,2,14.9,Norway,VB Viyala,Alina Aslam,Kanchan Rana,0,0,,,,,,"",""
+ball,2,14.10,Norway,VB Viyala,Alina Aslam,Kanchan Rana,2,0,,,,,,"",""
+ball,2,15.1,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,2,0,,,,,,"",""
+ball,2,15.2,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,15.3,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,1,1,,,,,"",""
+ball,2,15.4,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,15.5,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,15.6,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,2,0,,,,,,"",""
+ball,2,15.7,Norway,Alina Aslam,VB Viyala,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,16.1,Norway,VB Viyala,Alina Aslam,Kanchan Rana,1,0,,,,,,"",""
+ball,2,16.2,Norway,Alina Aslam,VB Viyala,Kanchan Rana,0,1,1,,,,,"",""
+ball,2,16.3,Norway,Alina Aslam,VB Viyala,Kanchan Rana,0,0,,,,,,"",""
+ball,2,16.4,Norway,Alina Aslam,VB Viyala,Kanchan Rana,0,0,,,,,,caught,Alina Aslam
+ball,2,16.5,Norway,Mirab Razwan,VB Viyala,Kanchan Rana,0,0,,,,,,bowled,Mirab Razwan
+ball,2,16.6,Norway,Purvi Kumari,VB Viyala,Kanchan Rana,2,0,,,,,,"",""
+ball,2,16.7,Norway,Purvi Kumari,VB Viyala,Kanchan Rana,0,0,,,,,,"",""
+ball,2,17.1,Norway,VB Viyala,Purvi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,17.2,Norway,VB Viyala,Purvi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,17.3,Norway,VB Viyala,Purvi Kumari,Malyun Yusuf,0,1,1,,,,,"",""
+ball,2,17.4,Norway,VB Viyala,Purvi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,17.5,Norway,VB Viyala,Purvi Kumari,Malyun Yusuf,0,0,,,,,,caught,VB Viyala
+ball,2,17.6,Norway,Lopamudra,Purvi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,17.7,Norway,Lopamudra,Purvi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,18.1,Norway,Purvi Kumari,Lopamudra,Jayasooriya,0,1,,,,1,,"",""
+ball,2,18.2,Norway,Lopamudra,Purvi Kumari,Jayasooriya,0,0,,,,,,"",""
+ball,2,18.3,Norway,Lopamudra,Purvi Kumari,Jayasooriya,0,0,,,,,,"",""
+ball,2,18.4,Norway,Lopamudra,Purvi Kumari,Jayasooriya,0,0,,,,,,"",""
+ball,2,18.5,Norway,Lopamudra,Purvi Kumari,Jayasooriya,0,1,1,,,,,"",""
+ball,2,18.6,Norway,Lopamudra,Purvi Kumari,Jayasooriya,0,0,,,,,,bowled,Lopamudra
+ball,2,18.7,Norway,Prachi Kumari,Purvi Kumari,Jayasooriya,0,0,,,,,,"",""
+ball,2,19.1,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,19.2,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,1,1,,,,,"",""
+ball,2,19.3,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,1,1,,,,,"",""
+ball,2,19.4,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,19.5,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,1,1,,,,,"",""
+ball,2,19.6,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,19.7,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,19.8,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,0,,,,,,"",""
+ball,2,19.9,Norway,Purvi Kumari,Prachi Kumari,Malyun Yusuf,0,0,,,,,,"",""

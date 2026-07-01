@@ -1,0 +1,323 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,female
+info,season,2019/20
+info,date,2020/02/28
+info,event,ICC Women's T20 World Cup
+info,match_number,12
+info,venue,Manuka Oval
+info,city,Canberra
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,HC Knight
+info,umpire,CM Brown
+info,umpire,Nitin Menon
+info,reserve_umpire,Kim Cotton
+info,tv_umpire,JM Williams
+info,match_referee,SR Bernard
+info,winner,England
+info,winner_runs,42
+info,player,England,DN Wyatt
+info,player,England,AE Jones
+info,player,England,NR Sciver
+info,player,England,HC Knight
+info,player,England,FC Wilson
+info,player,England,TT Beaumont
+info,player,England,KH Brunt
+info,player,England,L Winfield
+info,player,England,S Ecclestone
+info,player,England,A Shrubsole
+info,player,England,S Glenn
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Javeria Khan
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Iram Javed
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Sidra Nawaz
+info,player,Pakistan,Aiman Anwer
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,Aiman Anwer,c736a96b
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,Iram Javed,dc596fac
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,Javeria Khan,d921449d
+info,registry,people,KH Brunt,6a434bd3
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Winfield,5230a33d
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SR Bernard,800187dc
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sidra Nawaz,ca3ded6f
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,Umaima Sohail,821d7d46
+ball,1,0.1,England,DN Wyatt,AE Jones,Diana Baig,0,0,,,,,,"",""
+ball,1,0.2,England,DN Wyatt,AE Jones,Diana Baig,1,1,,1,,,,"",""
+ball,1,0.3,England,AE Jones,DN Wyatt,Diana Baig,0,0,,,,,,"",""
+ball,1,0.4,England,AE Jones,DN Wyatt,Diana Baig,0,0,,,,,,"",""
+ball,1,0.5,England,AE Jones,DN Wyatt,Diana Baig,2,0,,,,,,"",""
+ball,1,0.6,England,AE Jones,DN Wyatt,Diana Baig,0,0,,,,,,lbw,AE Jones
+ball,1,0.7,England,NR Sciver,DN Wyatt,Diana Baig,4,0,,,,,,"",""
+ball,1,1.1,England,DN Wyatt,NR Sciver,Aiman Anwer,4,0,,,,,,"",""
+ball,1,1.2,England,DN Wyatt,NR Sciver,Aiman Anwer,0,1,1,,,,,"",""
+ball,1,1.3,England,DN Wyatt,NR Sciver,Aiman Anwer,0,1,1,,,,,"",""
+ball,1,1.4,England,DN Wyatt,NR Sciver,Aiman Anwer,1,0,,,,,,"",""
+ball,1,1.5,England,NR Sciver,DN Wyatt,Aiman Anwer,1,0,,,,,,"",""
+ball,1,1.6,England,DN Wyatt,NR Sciver,Aiman Anwer,0,0,,,,,,"",""
+ball,1,1.7,England,DN Wyatt,NR Sciver,Aiman Anwer,4,0,,,,,,"",""
+ball,1,1.8,England,DN Wyatt,NR Sciver,Aiman Anwer,4,0,,,,,,"",""
+ball,1,2.1,England,NR Sciver,DN Wyatt,Diana Baig,0,1,1,,,,,"",""
+ball,1,2.2,England,NR Sciver,DN Wyatt,Diana Baig,0,0,,,,,,"",""
+ball,1,2.3,England,NR Sciver,DN Wyatt,Diana Baig,1,0,,,,,,"",""
+ball,1,2.4,England,DN Wyatt,NR Sciver,Diana Baig,0,1,,,,1,,"",""
+ball,1,2.5,England,NR Sciver,DN Wyatt,Diana Baig,0,0,,,,,,"",""
+ball,1,2.6,England,NR Sciver,DN Wyatt,Diana Baig,1,0,,,,,,"",""
+ball,1,2.7,England,DN Wyatt,NR Sciver,Diana Baig,0,0,,,,,,"",""
+ball,1,3.1,England,NR Sciver,DN Wyatt,Nida Dar,0,0,,,,,,"",""
+ball,1,3.2,England,NR Sciver,DN Wyatt,Nida Dar,0,0,,,,,,"",""
+ball,1,3.3,England,NR Sciver,DN Wyatt,Nida Dar,4,0,,,,,,"",""
+ball,1,3.4,England,NR Sciver,DN Wyatt,Nida Dar,0,0,,,,,,"",""
+ball,1,3.5,England,NR Sciver,DN Wyatt,Nida Dar,4,0,,,,,,"",""
+ball,1,3.6,England,NR Sciver,DN Wyatt,Nida Dar,4,0,,,,,,"",""
+ball,1,4.1,England,DN Wyatt,NR Sciver,Diana Baig,1,0,,,,,,"",""
+ball,1,4.2,England,NR Sciver,DN Wyatt,Diana Baig,0,0,,,,,,"",""
+ball,1,4.3,England,NR Sciver,DN Wyatt,Diana Baig,3,0,,,,,,"",""
+ball,1,4.4,England,DN Wyatt,NR Sciver,Diana Baig,1,0,,,,,,"",""
+ball,1,4.5,England,NR Sciver,DN Wyatt,Diana Baig,1,0,,,,,,"",""
+ball,1,4.6,England,DN Wyatt,NR Sciver,Diana Baig,0,0,,,,,,"",""
+ball,1,5.1,England,NR Sciver,DN Wyatt,Aiman Anwer,1,0,,,,,,"",""
+ball,1,5.2,England,DN Wyatt,NR Sciver,Aiman Anwer,0,0,,,,,,caught,DN Wyatt
+ball,1,5.3,England,HC Knight,NR Sciver,Aiman Anwer,0,0,,,,,,"",""
+ball,1,5.4,England,HC Knight,NR Sciver,Aiman Anwer,0,0,,,,,,"",""
+ball,1,5.5,England,HC Knight,NR Sciver,Aiman Anwer,0,0,,,,,,"",""
+ball,1,5.6,England,HC Knight,NR Sciver,Aiman Anwer,1,0,,,,,,"",""
+ball,1,6.1,England,HC Knight,NR Sciver,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,6.2,England,NR Sciver,HC Knight,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,6.3,England,NR Sciver,HC Knight,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,6.4,England,NR Sciver,HC Knight,Sadia Iqbal,2,0,,,,,,"",""
+ball,1,6.5,England,NR Sciver,HC Knight,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,6.6,England,HC Knight,NR Sciver,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,7.1,England,NR Sciver,HC Knight,Aliya Riaz,1,0,,,,,,"",""
+ball,1,7.2,England,HC Knight,NR Sciver,Aliya Riaz,4,0,,,,,,"",""
+ball,1,7.3,England,HC Knight,NR Sciver,Aliya Riaz,0,0,,,,,,"",""
+ball,1,7.4,England,HC Knight,NR Sciver,Aliya Riaz,4,0,,,,,,"",""
+ball,1,7.5,England,HC Knight,NR Sciver,Aliya Riaz,0,0,,,,,,"",""
+ball,1,7.6,England,HC Knight,NR Sciver,Aliya Riaz,1,0,,,,,,"",""
+ball,1,8.1,England,HC Knight,NR Sciver,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,8.2,England,NR Sciver,HC Knight,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,8.3,England,HC Knight,NR Sciver,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,8.4,England,HC Knight,NR Sciver,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,8.5,England,NR Sciver,HC Knight,Sadia Iqbal,4,0,,,,,,"",""
+ball,1,8.6,England,NR Sciver,HC Knight,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,9.1,England,HC Knight,NR Sciver,Nida Dar,1,0,,,,,,"",""
+ball,1,9.2,England,NR Sciver,HC Knight,Nida Dar,1,0,,,,,,"",""
+ball,1,9.3,England,HC Knight,NR Sciver,Nida Dar,1,0,,,,,,"",""
+ball,1,9.4,England,NR Sciver,HC Knight,Nida Dar,1,0,,,,,,"",""
+ball,1,9.5,England,HC Knight,NR Sciver,Nida Dar,0,0,,,,,,"",""
+ball,1,9.6,England,HC Knight,NR Sciver,Nida Dar,1,0,,,,,,"",""
+ball,1,10.1,England,HC Knight,NR Sciver,Sadia Iqbal,4,0,,,,,,"",""
+ball,1,10.2,England,HC Knight,NR Sciver,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,10.3,England,HC Knight,NR Sciver,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,10.4,England,NR Sciver,HC Knight,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,10.5,England,NR Sciver,HC Knight,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,10.6,England,NR Sciver,HC Knight,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,11.1,England,NR Sciver,HC Knight,Aliya Riaz,0,1,1,,,,,stumped,NR Sciver
+ball,1,11.2,England,FC Wilson,HC Knight,Aliya Riaz,0,0,,,,,,"",""
+ball,1,11.3,England,FC Wilson,HC Knight,Aliya Riaz,0,0,,,,,,"",""
+ball,1,11.4,England,FC Wilson,HC Knight,Aliya Riaz,1,0,,,,,,"",""
+ball,1,11.5,England,HC Knight,FC Wilson,Aliya Riaz,4,0,,,,,,"",""
+ball,1,11.6,England,HC Knight,FC Wilson,Aliya Riaz,1,0,,,,,,"",""
+ball,1,11.7,England,FC Wilson,HC Knight,Aliya Riaz,0,0,,,,,,"",""
+ball,1,12.1,England,HC Knight,FC Wilson,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,12.2,England,FC Wilson,HC Knight,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,12.3,England,HC Knight,FC Wilson,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,12.4,England,FC Wilson,HC Knight,Sadia Iqbal,2,0,,,,,,"",""
+ball,1,12.5,England,FC Wilson,HC Knight,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,12.6,England,HC Knight,FC Wilson,Sadia Iqbal,4,0,,,,,,"",""
+ball,1,13.1,England,FC Wilson,HC Knight,Nida Dar,4,0,,,,,,"",""
+ball,1,13.2,England,FC Wilson,HC Knight,Nida Dar,1,0,,,,,,"",""
+ball,1,13.3,England,HC Knight,FC Wilson,Nida Dar,4,0,,,,,,"",""
+ball,1,13.4,England,HC Knight,FC Wilson,Nida Dar,1,0,,,,,,"",""
+ball,1,13.5,England,FC Wilson,HC Knight,Nida Dar,0,1,,1,,,,"",""
+ball,1,13.6,England,FC Wilson,HC Knight,Nida Dar,1,0,,,,,,"",""
+ball,1,13.7,England,HC Knight,FC Wilson,Nida Dar,1,0,,,,,,"",""
+ball,1,14.1,England,HC Knight,FC Wilson,Bismah Maroof,1,0,,,,,,"",""
+ball,1,14.2,England,FC Wilson,HC Knight,Bismah Maroof,1,0,,,,,,"",""
+ball,1,14.3,England,HC Knight,FC Wilson,Bismah Maroof,1,0,,,,,,"",""
+ball,1,14.4,England,FC Wilson,HC Knight,Bismah Maroof,1,0,,,,,,"",""
+ball,1,14.5,England,HC Knight,FC Wilson,Bismah Maroof,0,0,,,,,,"",""
+ball,1,14.6,England,HC Knight,FC Wilson,Bismah Maroof,1,0,,,,,,"",""
+ball,1,15.1,England,HC Knight,FC Wilson,Diana Baig,4,0,,,,,,"",""
+ball,1,15.2,England,HC Knight,FC Wilson,Diana Baig,0,0,,,,,,"",""
+ball,1,15.3,England,HC Knight,FC Wilson,Diana Baig,0,0,,,,,,"",""
+ball,1,15.4,England,HC Knight,FC Wilson,Diana Baig,4,0,,,,,,"",""
+ball,1,15.5,England,HC Knight,FC Wilson,Diana Baig,0,0,,,,,,"",""
+ball,1,15.6,England,HC Knight,FC Wilson,Diana Baig,1,0,,,,,,"",""
+ball,1,16.1,England,HC Knight,FC Wilson,Bismah Maroof,1,0,,,,,,"",""
+ball,1,16.2,England,FC Wilson,HC Knight,Bismah Maroof,1,0,,,,,,"",""
+ball,1,16.3,England,HC Knight,FC Wilson,Bismah Maroof,1,0,,,,,,"",""
+ball,1,16.4,England,FC Wilson,HC Knight,Bismah Maroof,4,0,,,,,,"",""
+ball,1,16.5,England,FC Wilson,HC Knight,Bismah Maroof,1,0,,,,,,"",""
+ball,1,16.6,England,HC Knight,FC Wilson,Bismah Maroof,1,0,,,,,,"",""
+ball,1,17.1,England,HC Knight,FC Wilson,Aiman Anwer,1,0,,,,,,"",""
+ball,1,17.2,England,FC Wilson,HC Knight,Aiman Anwer,1,0,,,,,,"",""
+ball,1,17.3,England,HC Knight,FC Wilson,Aiman Anwer,1,0,,,,,,"",""
+ball,1,17.4,England,FC Wilson,HC Knight,Aiman Anwer,2,0,,,,,,"",""
+ball,1,17.5,England,FC Wilson,HC Knight,Aiman Anwer,0,0,,,,,,bowled,FC Wilson
+ball,1,17.6,England,TT Beaumont,HC Knight,Aiman Anwer,1,0,,,,,,"",""
+ball,1,18.1,England,TT Beaumont,HC Knight,Nida Dar,0,1,1,,,,,"",""
+ball,1,18.2,England,TT Beaumont,HC Knight,Nida Dar,1,0,,,,,,"",""
+ball,1,18.3,England,HC Knight,TT Beaumont,Nida Dar,6,0,,,,,,"",""
+ball,1,18.4,England,HC Knight,TT Beaumont,Nida Dar,1,0,,,,,,"",""
+ball,1,18.5,England,TT Beaumont,HC Knight,Nida Dar,4,0,,,,,,"",""
+ball,1,18.6,England,TT Beaumont,HC Knight,Nida Dar,0,0,,,,,,caught,TT Beaumont
+ball,1,18.7,England,HC Knight,KH Brunt,Nida Dar,0,0,,,,,,caught,HC Knight
+ball,1,19.1,England,L Winfield,KH Brunt,Aiman Anwer,1,0,,,,,,"",""
+ball,1,19.2,England,KH Brunt,L Winfield,Aiman Anwer,0,0,,,,,,stumped,KH Brunt
+ball,1,19.3,England,S Ecclestone,L Winfield,Aiman Anwer,1,0,,,,,,"",""
+ball,1,19.4,England,L Winfield,S Ecclestone,Aiman Anwer,1,0,,,,,,"",""
+ball,1,19.5,England,S Ecclestone,L Winfield,Aiman Anwer,1,0,,,,,,"",""
+ball,1,19.6,England,L Winfield,S Ecclestone,Aiman Anwer,2,0,,,,,,"",""
+ball,2,0.1,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,0,0,,,,,,"",""
+ball,2,0.2,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,0,0,,,,,,"",""
+ball,2,0.3,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,1,0,,,,,,"",""
+ball,2,0.4,Pakistan,Javeria Khan,Muneeba Ali,A Shrubsole,0,0,,,,,,"",""
+ball,2,0.5,Pakistan,Javeria Khan,Muneeba Ali,A Shrubsole,0,0,,,,,,"",""
+ball,2,0.6,Pakistan,Javeria Khan,Muneeba Ali,A Shrubsole,0,0,,,,,,"",""
+ball,2,1.1,Pakistan,Muneeba Ali,Javeria Khan,KH Brunt,0,0,,,,,,"",""
+ball,2,1.2,Pakistan,Muneeba Ali,Javeria Khan,KH Brunt,0,0,,,,,,"",""
+ball,2,1.3,Pakistan,Muneeba Ali,Javeria Khan,KH Brunt,0,0,,,,,,"",""
+ball,2,1.4,Pakistan,Muneeba Ali,Javeria Khan,KH Brunt,4,0,,,,,,"",""
+ball,2,1.5,Pakistan,Muneeba Ali,Javeria Khan,KH Brunt,0,1,1,,,,,"",""
+ball,2,1.6,Pakistan,Muneeba Ali,Javeria Khan,KH Brunt,1,0,,,,,,"",""
+ball,2,1.7,Pakistan,Javeria Khan,Muneeba Ali,KH Brunt,0,0,,,,,,"",""
+ball,2,2.1,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,0,0,,,,,,"",""
+ball,2,2.2,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,0,0,,,,,,"",""
+ball,2,2.3,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,0,0,,,,,,"",""
+ball,2,2.4,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,4,0,,,,,,"",""
+ball,2,2.5,Pakistan,Muneeba Ali,Javeria Khan,A Shrubsole,0,0,,,,,,bowled,Muneeba Ali
+ball,2,2.6,Pakistan,Bismah Maroof,Javeria Khan,A Shrubsole,0,5,5,,,,,"",""
+ball,2,2.7,Pakistan,Bismah Maroof,Javeria Khan,A Shrubsole,0,0,,,,,,"",""
+ball,2,3.1,Pakistan,Javeria Khan,Bismah Maroof,NR Sciver,0,0,,,,,,"",""
+ball,2,3.2,Pakistan,Javeria Khan,Bismah Maroof,NR Sciver,0,0,,,,,,"",""
+ball,2,3.3,Pakistan,Javeria Khan,Bismah Maroof,NR Sciver,0,0,,,,,,"",""
+ball,2,3.4,Pakistan,Javeria Khan,Bismah Maroof,NR Sciver,0,0,,,,,,"",""
+ball,2,3.5,Pakistan,Javeria Khan,Bismah Maroof,NR Sciver,4,0,,,,,,"",""
+ball,2,3.6,Pakistan,Javeria Khan,Bismah Maroof,NR Sciver,4,0,,,,,,"",""
+ball,2,4.1,Pakistan,Bismah Maroof,Javeria Khan,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.2,Pakistan,Bismah Maroof,Javeria Khan,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.3,Pakistan,Bismah Maroof,Javeria Khan,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.4,Pakistan,Bismah Maroof,Javeria Khan,S Ecclestone,0,1,,,1,,,"",""
+ball,2,4.5,Pakistan,Javeria Khan,Bismah Maroof,S Ecclestone,4,0,,,,,,"",""
+ball,2,4.6,Pakistan,Javeria Khan,Bismah Maroof,S Ecclestone,0,1,1,,,,,"",""
+ball,2,4.7,Pakistan,Javeria Khan,Bismah Maroof,S Ecclestone,0,0,,,,,,"",""
+ball,2,5.1,Pakistan,Bismah Maroof,Javeria Khan,KH Brunt,0,1,1,,,,,"",""
+ball,2,5.2,Pakistan,Bismah Maroof,Javeria Khan,KH Brunt,4,0,,,,,,"",""
+ball,2,5.3,Pakistan,Bismah Maroof,Javeria Khan,KH Brunt,0,0,,,,,,"",""
+ball,2,5.4,Pakistan,Bismah Maroof,Javeria Khan,KH Brunt,0,0,,,,,,"",""
+ball,2,5.5,Pakistan,Bismah Maroof,Javeria Khan,KH Brunt,0,0,,,,,,caught,Bismah Maroof
+ball,2,5.6,Pakistan,Nida Dar,Javeria Khan,KH Brunt,0,0,,,,,,"",""
+ball,2,5.7,Pakistan,Nida Dar,Javeria Khan,KH Brunt,0,0,,,,,,"",""
+ball,2,6.1,Pakistan,Javeria Khan,Nida Dar,S Glenn,0,0,,,,,,"",""
+ball,2,6.2,Pakistan,Javeria Khan,Nida Dar,S Glenn,4,0,,,,,,"",""
+ball,2,6.3,Pakistan,Javeria Khan,Nida Dar,S Glenn,0,0,,,,,,bowled,Javeria Khan
+ball,2,6.4,Pakistan,Iram Javed,Nida Dar,S Glenn,1,0,,,,,,"",""
+ball,2,6.5,Pakistan,Nida Dar,Iram Javed,S Glenn,0,0,,,,,,"",""
+ball,2,6.6,Pakistan,Nida Dar,Iram Javed,S Glenn,1,0,,,,,,"",""
+ball,2,7.1,Pakistan,Nida Dar,Iram Javed,HC Knight,1,0,,,,,,"",""
+ball,2,7.2,Pakistan,Iram Javed,Nida Dar,HC Knight,1,0,,,,,,"",""
+ball,2,7.3,Pakistan,Nida Dar,Iram Javed,HC Knight,0,1,1,,,,,"",""
+ball,2,7.4,Pakistan,Nida Dar,Iram Javed,HC Knight,1,0,,,,,,"",""
+ball,2,7.5,Pakistan,Iram Javed,Nida Dar,HC Knight,1,0,,,,,,"",""
+ball,2,7.6,Pakistan,Nida Dar,Iram Javed,HC Knight,1,0,,,,,,"",""
+ball,2,7.7,Pakistan,Iram Javed,Nida Dar,HC Knight,1,0,,,,,,"",""
+ball,2,8.1,Pakistan,Iram Javed,Nida Dar,S Glenn,0,0,,,,,,bowled,Iram Javed
+ball,2,8.2,Pakistan,Umaima Sohail,Nida Dar,S Glenn,0,0,,,,,,"",""
+ball,2,8.3,Pakistan,Umaima Sohail,Nida Dar,S Glenn,1,0,,,,,,"",""
+ball,2,8.4,Pakistan,Nida Dar,Umaima Sohail,S Glenn,0,0,,,,,,"",""
+ball,2,8.5,Pakistan,Nida Dar,Umaima Sohail,S Glenn,1,0,,,,,,"",""
+ball,2,8.6,Pakistan,Umaima Sohail,Nida Dar,S Glenn,0,0,,,,,,"",""
+ball,2,9.1,Pakistan,Nida Dar,Umaima Sohail,S Ecclestone,0,0,,,,,,"",""
+ball,2,9.2,Pakistan,Nida Dar,Umaima Sohail,S Ecclestone,0,0,,,,,,lbw,Nida Dar
+ball,2,9.3,Pakistan,Aliya Riaz,Umaima Sohail,S Ecclestone,0,0,,,,,,"",""
+ball,2,9.4,Pakistan,Aliya Riaz,Umaima Sohail,S Ecclestone,0,0,,,,,,"",""
+ball,2,9.5,Pakistan,Aliya Riaz,Umaima Sohail,S Ecclestone,1,0,,,,,,"",""
+ball,2,9.6,Pakistan,Umaima Sohail,Aliya Riaz,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.1,Pakistan,Aliya Riaz,Umaima Sohail,S Glenn,1,0,,,,,,"",""
+ball,2,10.2,Pakistan,Umaima Sohail,Aliya Riaz,S Glenn,0,0,,,,,,"",""
+ball,2,10.3,Pakistan,Umaima Sohail,Aliya Riaz,S Glenn,2,0,,,,,,"",""
+ball,2,10.4,Pakistan,Umaima Sohail,Aliya Riaz,S Glenn,1,0,,,,,,"",""
+ball,2,10.5,Pakistan,Aliya Riaz,Umaima Sohail,S Glenn,0,0,,,,,,"",""
+ball,2,10.6,Pakistan,Aliya Riaz,Umaima Sohail,S Glenn,0,0,,,,,,"",""
+ball,2,11.1,Pakistan,Umaima Sohail,Aliya Riaz,S Ecclestone,1,0,,,,,,"",""
+ball,2,11.2,Pakistan,Aliya Riaz,Umaima Sohail,S Ecclestone,1,0,,,,,,"",""
+ball,2,11.3,Pakistan,Umaima Sohail,Aliya Riaz,S Ecclestone,0,0,,,,,,"",""
+ball,2,11.4,Pakistan,Umaima Sohail,Aliya Riaz,S Ecclestone,1,0,,,,,,"",""
+ball,2,11.5,Pakistan,Aliya Riaz,Umaima Sohail,S Ecclestone,0,0,,,,,,"",""
+ball,2,11.6,Pakistan,Aliya Riaz,Umaima Sohail,S Ecclestone,1,0,,,,,,"",""
+ball,2,12.1,Pakistan,Aliya Riaz,Umaima Sohail,S Glenn,1,0,,,,,,"",""
+ball,2,12.2,Pakistan,Umaima Sohail,Aliya Riaz,S Glenn,1,0,,,,,,"",""
+ball,2,12.3,Pakistan,Aliya Riaz,Umaima Sohail,S Glenn,0,0,,,,,,"",""
+ball,2,12.4,Pakistan,Aliya Riaz,Umaima Sohail,S Glenn,1,0,,,,,,"",""
+ball,2,12.5,Pakistan,Umaima Sohail,Aliya Riaz,S Glenn,0,0,,,,,,caught,Umaima Sohail
+ball,2,12.6,Pakistan,Aliya Riaz,Sidra Nawaz,S Glenn,0,0,,,,,,"",""
+ball,2,13.1,Pakistan,Sidra Nawaz,Aliya Riaz,NR Sciver,1,0,,,,,,"",""
+ball,2,13.2,Pakistan,Aliya Riaz,Sidra Nawaz,NR Sciver,6,0,,,,,,"",""
+ball,2,13.3,Pakistan,Aliya Riaz,Sidra Nawaz,NR Sciver,1,0,,,,,,"",""
+ball,2,13.4,Pakistan,Sidra Nawaz,Aliya Riaz,NR Sciver,0,0,,,,,,"",""
+ball,2,13.5,Pakistan,Sidra Nawaz,Aliya Riaz,NR Sciver,1,0,,,,,,"",""
+ball,2,13.6,Pakistan,Aliya Riaz,Sidra Nawaz,NR Sciver,0,0,,,,,,"",""
+ball,2,14.1,Pakistan,Sidra Nawaz,Aliya Riaz,A Shrubsole,1,0,,,,,,"",""
+ball,2,14.2,Pakistan,Aliya Riaz,Sidra Nawaz,A Shrubsole,1,0,,,,,,"",""
+ball,2,14.3,Pakistan,Sidra Nawaz,Aliya Riaz,A Shrubsole,0,0,,,,,,"",""
+ball,2,14.4,Pakistan,Sidra Nawaz,Aliya Riaz,A Shrubsole,1,0,,,,,,"",""
+ball,2,14.5,Pakistan,Aliya Riaz,Sidra Nawaz,A Shrubsole,0,0,,,,,,"",""
+ball,2,14.6,Pakistan,Aliya Riaz,Sidra Nawaz,A Shrubsole,4,0,,,,,,"",""
+ball,2,15.1,Pakistan,Sidra Nawaz,Aliya Riaz,HC Knight,0,0,,,,,,"",""
+ball,2,15.2,Pakistan,Sidra Nawaz,Aliya Riaz,HC Knight,1,0,,,,,,"",""
+ball,2,15.3,Pakistan,Aliya Riaz,Sidra Nawaz,HC Knight,0,0,,,,,,"",""
+ball,2,15.4,Pakistan,Aliya Riaz,Sidra Nawaz,HC Knight,4,0,,,,,,"",""
+ball,2,15.5,Pakistan,Aliya Riaz,Sidra Nawaz,HC Knight,0,0,,,,,,"",""
+ball,2,15.6,Pakistan,Aliya Riaz,Sidra Nawaz,HC Knight,1,0,,,,,,"",""
+ball,2,16.1,Pakistan,Aliya Riaz,Sidra Nawaz,KH Brunt,0,5,5,,,,,"",""
+ball,2,16.2,Pakistan,Aliya Riaz,Sidra Nawaz,KH Brunt,1,0,,,,,,"",""
+ball,2,16.3,Pakistan,Sidra Nawaz,Aliya Riaz,KH Brunt,1,0,,,,,,"",""
+ball,2,16.4,Pakistan,Aliya Riaz,Sidra Nawaz,KH Brunt,4,0,,,,,,"",""
+ball,2,16.5,Pakistan,Aliya Riaz,Sidra Nawaz,KH Brunt,2,0,,,,,,"",""
+ball,2,16.6,Pakistan,Aliya Riaz,Sidra Nawaz,KH Brunt,0,0,,,,,,"",""
+ball,2,16.7,Pakistan,Aliya Riaz,Sidra Nawaz,KH Brunt,4,0,,,,,,"",""
+ball,2,17.1,Pakistan,Sidra Nawaz,Aliya Riaz,S Ecclestone,0,0,,,,,,bowled,Sidra Nawaz
+ball,2,17.2,Pakistan,Aiman Anwer,Aliya Riaz,S Ecclestone,0,0,,,,,,"",""
+ball,2,17.3,Pakistan,Aiman Anwer,Aliya Riaz,S Ecclestone,1,0,,,,,,"",""
+ball,2,17.4,Pakistan,Aliya Riaz,Aiman Anwer,S Ecclestone,1,0,,,,,,"",""
+ball,2,17.5,Pakistan,Aiman Anwer,Aliya Riaz,S Ecclestone,0,0,,,,,,"",""
+ball,2,17.6,Pakistan,Aiman Anwer,Aliya Riaz,S Ecclestone,0,0,,,,,,"",""
+ball,2,18.1,Pakistan,Aliya Riaz,Aiman Anwer,A Shrubsole,2,0,,,,,,"",""
+ball,2,18.2,Pakistan,Aliya Riaz,Aiman Anwer,A Shrubsole,4,0,,,,,,"",""
+ball,2,18.3,Pakistan,Aliya Riaz,Aiman Anwer,A Shrubsole,0,1,1,,,,,"",""
+ball,2,18.4,Pakistan,Aliya Riaz,Aiman Anwer,A Shrubsole,0,1,,,,1,,"",""
+ball,2,18.5,Pakistan,Aiman Anwer,Aliya Riaz,A Shrubsole,1,0,,,,,,"",""
+ball,2,18.6,Pakistan,Aliya Riaz,Aiman Anwer,A Shrubsole,0,0,,,,,,bowled,Aliya Riaz
+ball,2,18.7,Pakistan,Diana Baig,Aiman Anwer,A Shrubsole,0,0,,,,,,caught and bowled,Diana Baig
+ball,2,19.1,Pakistan,Aiman Anwer,Sadia Iqbal,KH Brunt,0,2,2,,,,,"",""
+ball,2,19.2,Pakistan,Sadia Iqbal,Aiman Anwer,KH Brunt,0,0,,,,,,"",""
+ball,2,19.3,Pakistan,Sadia Iqbal,Aiman Anwer,KH Brunt,1,0,,,,,,"",""
+ball,2,19.4,Pakistan,Aiman Anwer,Sadia Iqbal,KH Brunt,1,0,,,,,,"",""
+ball,2,19.5,Pakistan,Sadia Iqbal,Aiman Anwer,KH Brunt,0,0,,,,,,lbw,Sadia Iqbal

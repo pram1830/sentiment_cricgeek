@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Cayman Islands
+info,gender,male
+info,season,2024/25
+info,date,2024/12/16
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,33
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,player_of_match,Z Burgess
+info,umpire,AR Maddela
+info,umpire,Vijaya Mallela
+info,reserve_umpire,R Shah
+info,match_referee,Phil Whitticase
+info,winner,Bermuda
+info,winner_runs,13
+info,player,Bermuda,TS Fray
+info,player,Bermuda,T Manders
+info,player,Bermuda,AD Dore
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,DC Stovell
+info,player,Bermuda,D Sabir
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,Jonte Smith
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,S Smith
+info,player,Bermuda,K Fubler
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,D Johnson
+info,player,Cayman Islands,Ronald Ebanks
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,AF Ifill
+info,registry,people,A Morris,04cf2e94
+info,registry,people,AD Dore,aa867444
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Maddela,5c861579
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Johnson,d406e303
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DC Stovell,7f6c2dae
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,J Baker,a12672e0
+info,registry,people,Jonte Smith,ae4d0b45
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Shah,3424e050
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Ronald Ebanks,e21ef7ec
+info,registry,people,S Foster,3595ad3b
+info,registry,people,S Smith,18a0ba24
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,YSD Seneveratne,0f71478c
+info,registry,people,Z Burgess,d0042e16
+ball,1,0.1,Bermuda,TS Fray,T Manders,C Wright,2,0,,,,,,"",""
+ball,1,0.2,Bermuda,TS Fray,T Manders,C Wright,0,0,,,,,,"",""
+ball,1,0.3,Bermuda,TS Fray,T Manders,C Wright,0,0,,,,,,"",""
+ball,1,0.4,Bermuda,TS Fray,T Manders,C Wright,0,0,,,,,,"",""
+ball,1,0.5,Bermuda,TS Fray,T Manders,C Wright,0,1,,,,1,,"",""
+ball,1,0.6,Bermuda,T Manders,TS Fray,C Wright,0,2,2,,,,,"",""
+ball,1,0.7,Bermuda,TS Fray,T Manders,C Wright,1,0,,,,,,"",""
+ball,1,1.1,Bermuda,TS Fray,T Manders,ROC Dunka,0,0,,,,,,"",""
+ball,1,1.2,Bermuda,TS Fray,T Manders,ROC Dunka,1,0,,,,,,"",""
+ball,1,1.3,Bermuda,T Manders,TS Fray,ROC Dunka,0,1,1,,,,,"",""
+ball,1,1.4,Bermuda,T Manders,TS Fray,ROC Dunka,1,0,,,,,,"",""
+ball,1,1.5,Bermuda,TS Fray,T Manders,ROC Dunka,1,0,,,,,,"",""
+ball,1,1.6,Bermuda,T Manders,TS Fray,ROC Dunka,0,0,,,,,,"",""
+ball,1,1.7,Bermuda,T Manders,TS Fray,ROC Dunka,6,0,,,,,,"",""
+ball,1,2.1,Bermuda,TS Fray,T Manders,C Wright,0,0,,,,,,"",""
+ball,1,2.2,Bermuda,TS Fray,T Manders,C Wright,0,0,,,,,,"",""
+ball,1,2.3,Bermuda,TS Fray,T Manders,C Wright,2,0,,,,,,"",""
+ball,1,2.4,Bermuda,TS Fray,T Manders,C Wright,1,0,,,,,,"",""
+ball,1,2.5,Bermuda,T Manders,TS Fray,C Wright,0,0,,,,,,"",""
+ball,1,2.6,Bermuda,T Manders,TS Fray,C Wright,4,0,,,,,,"",""
+ball,1,3.1,Bermuda,TS Fray,T Manders,D Johnson,1,0,,,,,,"",""
+ball,1,3.2,Bermuda,T Manders,TS Fray,D Johnson,0,0,,,,,,bowled,T Manders
+ball,1,3.3,Bermuda,AD Dore,TS Fray,D Johnson,0,0,,,,,,"",""
+ball,1,3.4,Bermuda,AD Dore,TS Fray,D Johnson,1,0,,,,,,"",""
+ball,1,3.5,Bermuda,TS Fray,AD Dore,D Johnson,4,0,,,,,,"",""
+ball,1,3.6,Bermuda,TS Fray,AD Dore,D Johnson,1,0,,,,,,"",""
+ball,1,4.1,Bermuda,TS Fray,AD Dore,A Morris,0,0,,,,,,"",""
+ball,1,4.2,Bermuda,TS Fray,AD Dore,A Morris,1,0,,,,,,"",""
+ball,1,4.3,Bermuda,AD Dore,TS Fray,A Morris,0,0,,,,,,"",""
+ball,1,4.4,Bermuda,AD Dore,TS Fray,A Morris,0,0,,,,,,"",""
+ball,1,4.5,Bermuda,AD Dore,TS Fray,A Morris,0,0,,,,,,"",""
+ball,1,4.6,Bermuda,AD Dore,TS Fray,A Morris,4,0,,,,,,"",""
+ball,1,5.1,Bermuda,TS Fray,AD Dore,D Johnson,0,0,,,,,,"",""
+ball,1,5.2,Bermuda,TS Fray,AD Dore,D Johnson,1,0,,,,,,"",""
+ball,1,5.3,Bermuda,AD Dore,TS Fray,D Johnson,0,1,,,,1,,"",""
+ball,1,5.4,Bermuda,TS Fray,AD Dore,D Johnson,0,0,,,,,,"",""
+ball,1,5.5,Bermuda,TS Fray,AD Dore,D Johnson,5,0,,,,,,"",""
+ball,1,5.6,Bermuda,AD Dore,TS Fray,D Johnson,0,0,,,,,,"",""
+ball,1,6.1,Bermuda,TS Fray,AD Dore,A Morris,2,0,,,,,,"",""
+ball,1,6.2,Bermuda,TS Fray,AD Dore,A Morris,0,0,,,,,,"",""
+ball,1,6.3,Bermuda,TS Fray,AD Dore,A Morris,1,0,,,,,,"",""
+ball,1,6.4,Bermuda,AD Dore,TS Fray,A Morris,1,0,,,,,,"",""
+ball,1,6.5,Bermuda,TS Fray,AD Dore,A Morris,0,0,,,,,,"",""
+ball,1,6.6,Bermuda,TS Fray,AD Dore,A Morris,1,0,,,,,,"",""
+ball,1,7.1,Bermuda,TS Fray,AD Dore,Ronald Ebanks,2,0,,,,,,"",""
+ball,1,7.2,Bermuda,TS Fray,AD Dore,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,7.3,Bermuda,AD Dore,TS Fray,Ronald Ebanks,0,0,,,,,,"",""
+ball,1,7.4,Bermuda,AD Dore,TS Fray,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,7.5,Bermuda,TS Fray,AD Dore,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,7.6,Bermuda,AD Dore,TS Fray,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,8.1,Bermuda,AD Dore,TS Fray,AF Ifill,0,0,,,,,,"",""
+ball,1,8.2,Bermuda,AD Dore,TS Fray,AF Ifill,0,0,,,,,,caught,AD Dore
+ball,1,8.3,Bermuda,OGL Bascome,TS Fray,AF Ifill,0,0,,,,,,"",""
+ball,1,8.4,Bermuda,OGL Bascome,TS Fray,AF Ifill,0,0,,,,,,"",""
+ball,1,8.5,Bermuda,OGL Bascome,TS Fray,AF Ifill,2,0,,,,,,"",""
+ball,1,8.6,Bermuda,OGL Bascome,TS Fray,AF Ifill,0,0,,,,,,"",""
+ball,1,9.1,Bermuda,TS Fray,OGL Bascome,Ronald Ebanks,0,1,,,,1,,"",""
+ball,1,9.2,Bermuda,OGL Bascome,TS Fray,Ronald Ebanks,0,0,,,,,,"",""
+ball,1,9.3,Bermuda,OGL Bascome,TS Fray,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,9.4,Bermuda,TS Fray,OGL Bascome,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,9.5,Bermuda,OGL Bascome,TS Fray,Ronald Ebanks,0,0,,,,,,"",""
+ball,1,9.6,Bermuda,OGL Bascome,TS Fray,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,10.1,Bermuda,OGL Bascome,TS Fray,AF Ifill,0,0,,,,,,"",""
+ball,1,10.2,Bermuda,OGL Bascome,TS Fray,AF Ifill,1,0,,,,,,"",""
+ball,1,10.3,Bermuda,TS Fray,OGL Bascome,AF Ifill,2,0,,,,,,"",""
+ball,1,10.4,Bermuda,TS Fray,OGL Bascome,AF Ifill,0,0,,,,,,"",""
+ball,1,10.5,Bermuda,TS Fray,OGL Bascome,AF Ifill,0,0,,,,,,bowled,TS Fray
+ball,1,10.6,Bermuda,DC Stovell,OGL Bascome,AF Ifill,0,0,,,,,,"",""
+ball,1,11.1,Bermuda,OGL Bascome,DC Stovell,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,11.2,Bermuda,DC Stovell,OGL Bascome,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,11.3,Bermuda,OGL Bascome,DC Stovell,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,11.4,Bermuda,DC Stovell,OGL Bascome,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,11.5,Bermuda,OGL Bascome,DC Stovell,Ronald Ebanks,4,0,,,,,,"",""
+ball,1,11.6,Bermuda,OGL Bascome,DC Stovell,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,12.1,Bermuda,OGL Bascome,DC Stovell,AF Ifill,1,0,,,,,,"",""
+ball,1,12.2,Bermuda,DC Stovell,OGL Bascome,AF Ifill,0,0,,,,,,"",""
+ball,1,12.3,Bermuda,DC Stovell,OGL Bascome,AF Ifill,0,0,,,,,,"",""
+ball,1,12.4,Bermuda,DC Stovell,OGL Bascome,AF Ifill,0,0,,,,,,"",""
+ball,1,12.5,Bermuda,DC Stovell,OGL Bascome,AF Ifill,3,0,,,,,,"",""
+ball,1,12.6,Bermuda,OGL Bascome,DC Stovell,AF Ifill,1,0,,,,,,"",""
+ball,1,13.1,Bermuda,OGL Bascome,DC Stovell,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,13.2,Bermuda,DC Stovell,OGL Bascome,Ronald Ebanks,0,0,,,,,,caught,DC Stovell
+ball,1,13.3,Bermuda,D Sabir,OGL Bascome,Ronald Ebanks,1,0,,,,,,"",""
+ball,1,13.4,Bermuda,OGL Bascome,D Sabir,Ronald Ebanks,2,0,,,,,,"",""
+ball,1,13.5,Bermuda,OGL Bascome,D Sabir,Ronald Ebanks,2,0,,,,,,"",""
+ball,1,13.6,Bermuda,OGL Bascome,D Sabir,Ronald Ebanks,0,0,,,,,,"",""
+ball,1,14.1,Bermuda,D Sabir,OGL Bascome,AF Ifill,0,0,,,,,,"",""
+ball,1,14.2,Bermuda,D Sabir,OGL Bascome,AF Ifill,1,0,,,,,,"",""
+ball,1,14.3,Bermuda,OGL Bascome,D Sabir,AF Ifill,1,0,,,,,,"",""
+ball,1,14.4,Bermuda,D Sabir,OGL Bascome,AF Ifill,1,0,,,,,,"",""
+ball,1,14.5,Bermuda,OGL Bascome,D Sabir,AF Ifill,6,0,,,,,,"",""
+ball,1,14.6,Bermuda,OGL Bascome,D Sabir,AF Ifill,1,0,,,,,,"",""
+ball,1,15.1,Bermuda,OGL Bascome,D Sabir,ROC Dunka,4,0,,,,,,"",""
+ball,1,15.2,Bermuda,OGL Bascome,D Sabir,ROC Dunka,2,0,,,,,,"",""
+ball,1,15.3,Bermuda,OGL Bascome,D Sabir,ROC Dunka,0,0,,,,,,"",""
+ball,1,15.4,Bermuda,OGL Bascome,D Sabir,ROC Dunka,1,1,,1,,,,"",""
+ball,1,15.5,Bermuda,D Sabir,OGL Bascome,ROC Dunka,4,0,,,,,,"",""
+ball,1,15.6,Bermuda,D Sabir,OGL Bascome,ROC Dunka,1,0,,,,,,"",""
+ball,1,15.7,Bermuda,OGL Bascome,D Sabir,ROC Dunka,0,0,,,,,,"",""
+ball,1,16.1,Bermuda,D Sabir,OGL Bascome,A Morris,0,0,,,,,,"",""
+ball,1,16.2,Bermuda,D Sabir,OGL Bascome,A Morris,1,0,,,,,,"",""
+ball,1,16.3,Bermuda,OGL Bascome,D Sabir,A Morris,2,0,,,,,,"",""
+ball,1,16.4,Bermuda,OGL Bascome,D Sabir,A Morris,2,0,,,,,,"",""
+ball,1,16.5,Bermuda,OGL Bascome,D Sabir,A Morris,1,0,,,,,,"",""
+ball,1,16.6,Bermuda,D Sabir,OGL Bascome,A Morris,1,0,,,,,,"",""
+ball,1,17.1,Bermuda,D Sabir,OGL Bascome,D Johnson,1,0,,,,,,"",""
+ball,1,17.2,Bermuda,OGL Bascome,D Sabir,D Johnson,0,0,,,,,,"",""
+ball,1,17.3,Bermuda,OGL Bascome,D Sabir,D Johnson,1,0,,,,,,"",""
+ball,1,17.4,Bermuda,D Sabir,OGL Bascome,D Johnson,2,0,,,,,,"",""
+ball,1,17.5,Bermuda,D Sabir,OGL Bascome,D Johnson,6,0,,,,,,"",""
+ball,1,17.6,Bermuda,D Sabir,OGL Bascome,D Johnson,1,0,,,,,,"",""
+ball,1,18.1,Bermuda,D Sabir,OGL Bascome,A Morris,0,0,,,,,,caught,D Sabir
+ball,1,18.2,Bermuda,Z Burgess,OGL Bascome,A Morris,1,0,,,,,,"",""
+ball,1,18.3,Bermuda,OGL Bascome,Z Burgess,A Morris,1,0,,,,,,"",""
+ball,1,18.4,Bermuda,Z Burgess,OGL Bascome,A Morris,6,0,,,,,,"",""
+ball,1,18.5,Bermuda,Z Burgess,OGL Bascome,A Morris,0,0,,,,,,"",""
+ball,1,18.6,Bermuda,Z Burgess,OGL Bascome,A Morris,0,0,,,,,,"",""
+ball,1,19.1,Bermuda,OGL Bascome,Z Burgess,D Johnson,1,0,,,,,,"",""
+ball,1,19.2,Bermuda,Z Burgess,OGL Bascome,D Johnson,2,0,,,,,,"",""
+ball,1,19.3,Bermuda,Z Burgess,OGL Bascome,D Johnson,0,0,,,,,,"",""
+ball,1,19.4,Bermuda,Z Burgess,OGL Bascome,D Johnson,1,0,,,,,,run out,OGL Bascome
+ball,1,19.5,Bermuda,Z Burgess,Jonte Smith,D Johnson,2,0,,,,,,"",""
+ball,1,19.6,Bermuda,Z Burgess,Jonte Smith,D Johnson,2,0,,,,,,"",""
+ball,2,0.1,Cayman Islands,J Baker,YSD Seneveratne,Z Burgess,1,0,,,,,,"",""
+ball,2,0.2,Cayman Islands,YSD Seneveratne,J Baker,Z Burgess,0,0,,,,,,"",""
+ball,2,0.3,Cayman Islands,YSD Seneveratne,J Baker,Z Burgess,0,0,,,,,,"",""
+ball,2,0.4,Cayman Islands,YSD Seneveratne,J Baker,Z Burgess,1,0,,,,,,"",""
+ball,2,0.5,Cayman Islands,J Baker,YSD Seneveratne,Z Burgess,0,0,,,,,,"",""
+ball,2,0.6,Cayman Islands,J Baker,YSD Seneveratne,Z Burgess,4,0,,,,,,"",""
+ball,2,1.1,Cayman Islands,YSD Seneveratne,J Baker,DC Stovell,1,0,,,,,,"",""
+ball,2,1.2,Cayman Islands,J Baker,YSD Seneveratne,DC Stovell,0,0,,,,,,"",""
+ball,2,1.3,Cayman Islands,J Baker,YSD Seneveratne,DC Stovell,0,0,,,,,,caught,J Baker
+ball,2,1.4,Cayman Islands,AR Naidoo,YSD Seneveratne,DC Stovell,0,0,,,,,,"",""
+ball,2,1.5,Cayman Islands,AR Naidoo,YSD Seneveratne,DC Stovell,0,0,,,,,,"",""
+ball,2,1.6,Cayman Islands,AR Naidoo,YSD Seneveratne,DC Stovell,1,0,,,,,,"",""
+ball,2,2.1,Cayman Islands,AR Naidoo,YSD Seneveratne,Z Burgess,0,0,,,,,,"",""
+ball,2,2.2,Cayman Islands,AR Naidoo,YSD Seneveratne,Z Burgess,0,0,,,,,,"",""
+ball,2,2.3,Cayman Islands,AR Naidoo,YSD Seneveratne,Z Burgess,0,0,,,,,,"",""
+ball,2,2.4,Cayman Islands,AR Naidoo,YSD Seneveratne,Z Burgess,1,0,,,,,,"",""
+ball,2,2.5,Cayman Islands,YSD Seneveratne,AR Naidoo,Z Burgess,0,0,,,,,,"",""
+ball,2,2.6,Cayman Islands,YSD Seneveratne,AR Naidoo,Z Burgess,1,0,,,,,,"",""
+ball,2,3.1,Cayman Islands,YSD Seneveratne,AR Naidoo,DC Stovell,0,0,,,,,,"",""
+ball,2,3.2,Cayman Islands,YSD Seneveratne,AR Naidoo,DC Stovell,4,0,,,,,,"",""
+ball,2,3.3,Cayman Islands,YSD Seneveratne,AR Naidoo,DC Stovell,0,0,,,,,,"",""
+ball,2,3.4,Cayman Islands,YSD Seneveratne,AR Naidoo,DC Stovell,0,0,,,,,,"",""
+ball,2,3.5,Cayman Islands,YSD Seneveratne,AR Naidoo,DC Stovell,0,0,,,,,,"",""
+ball,2,3.6,Cayman Islands,YSD Seneveratne,AR Naidoo,DC Stovell,0,0,,,,,,"",""
+ball,2,4.1,Cayman Islands,AR Naidoo,YSD Seneveratne,DL Brangman,1,0,,,,,,"",""
+ball,2,4.2,Cayman Islands,YSD Seneveratne,AR Naidoo,DL Brangman,6,0,,,,,,"",""
+ball,2,4.3,Cayman Islands,YSD Seneveratne,AR Naidoo,DL Brangman,0,0,,,,,,"",""
+ball,2,4.4,Cayman Islands,YSD Seneveratne,AR Naidoo,DL Brangman,0,0,,,,,,caught,YSD Seneveratne
+ball,2,4.5,Cayman Islands,RA Sealy,AR Naidoo,DL Brangman,0,0,,,,,,"",""
+ball,2,4.6,Cayman Islands,RA Sealy,AR Naidoo,DL Brangman,0,0,,,,,,"",""
+ball,2,5.1,Cayman Islands,AR Naidoo,RA Sealy,Jonte Smith,1,0,,,,,,"",""
+ball,2,5.2,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,0,0,,,,,,"",""
+ball,2,5.3,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,6,0,,,,,,"",""
+ball,2,5.4,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,1,0,,,,,,"",""
+ball,2,5.5,Cayman Islands,AR Naidoo,RA Sealy,Jonte Smith,0,0,,,,,,"",""
+ball,2,5.6,Cayman Islands,AR Naidoo,RA Sealy,Jonte Smith,1,0,,,,,,"",""
+ball,2,6.1,Cayman Islands,AR Naidoo,RA Sealy,DL Brangman,1,0,,,,,,"",""
+ball,2,6.2,Cayman Islands,RA Sealy,AR Naidoo,DL Brangman,1,0,,,,,,"",""
+ball,2,6.3,Cayman Islands,AR Naidoo,RA Sealy,DL Brangman,1,0,,,,,,"",""
+ball,2,6.4,Cayman Islands,RA Sealy,AR Naidoo,DL Brangman,2,0,,,,,,"",""
+ball,2,6.5,Cayman Islands,RA Sealy,AR Naidoo,DL Brangman,0,0,,,,,,"",""
+ball,2,6.6,Cayman Islands,RA Sealy,AR Naidoo,DL Brangman,0,0,,,,,,"",""
+ball,2,7.1,Cayman Islands,AR Naidoo,RA Sealy,K Fubler,1,0,,,,,,"",""
+ball,2,7.2,Cayman Islands,RA Sealy,AR Naidoo,K Fubler,2,0,,,,,,"",""
+ball,2,7.3,Cayman Islands,RA Sealy,AR Naidoo,K Fubler,0,0,,,,,,"",""
+ball,2,7.4,Cayman Islands,RA Sealy,AR Naidoo,K Fubler,0,1,1,,,,,"",""
+ball,2,7.5,Cayman Islands,RA Sealy,AR Naidoo,K Fubler,0,0,,,,,,"",""
+ball,2,7.6,Cayman Islands,RA Sealy,AR Naidoo,K Fubler,1,0,,,,,,"",""
+ball,2,7.7,Cayman Islands,AR Naidoo,RA Sealy,K Fubler,0,0,,,,,,"",""
+ball,2,8.1,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,0,0,,,,,,"",""
+ball,2,8.2,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,2,0,,,,,,"",""
+ball,2,8.3,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,0,0,,,,,,"",""
+ball,2,8.4,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,0,1,1,,,,,"",""
+ball,2,8.5,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,1,0,,,,,,"",""
+ball,2,8.6,Cayman Islands,AR Naidoo,RA Sealy,Jonte Smith,1,0,,,,,,"",""
+ball,2,8.7,Cayman Islands,RA Sealy,AR Naidoo,Jonte Smith,1,0,,,,,,"",""
+ball,2,9.1,Cayman Islands,RA Sealy,AR Naidoo,K Fubler,1,0,,,,,,"",""
+ball,2,9.2,Cayman Islands,AR Naidoo,RA Sealy,K Fubler,0,0,,,,,,"",""
+ball,2,9.3,Cayman Islands,AR Naidoo,RA Sealy,K Fubler,1,0,,,,,,"",""
+ball,2,9.4,Cayman Islands,RA Sealy,AR Naidoo,K Fubler,0,0,,,,,,caught,RA Sealy
+ball,2,9.5,Cayman Islands,S Foster,AR Naidoo,K Fubler,2,0,,,,,,"",""
+ball,2,9.6,Cayman Islands,S Foster,AR Naidoo,K Fubler,1,0,,,,,,"",""
+ball,2,10.1,Cayman Islands,S Foster,AR Naidoo,Jonte Smith,1,0,,,,,,"",""
+ball,2,10.2,Cayman Islands,AR Naidoo,S Foster,Jonte Smith,0,0,,,,,,"",""
+ball,2,10.3,Cayman Islands,AR Naidoo,S Foster,Jonte Smith,4,0,,,,,,"",""
+ball,2,10.4,Cayman Islands,AR Naidoo,S Foster,Jonte Smith,1,0,,,,,,"",""
+ball,2,10.5,Cayman Islands,S Foster,AR Naidoo,Jonte Smith,1,0,,,,,,"",""
+ball,2,10.6,Cayman Islands,AR Naidoo,S Foster,Jonte Smith,0,1,1,,,,,"",""
+ball,2,10.7,Cayman Islands,AR Naidoo,S Foster,Jonte Smith,1,0,,,,,,"",""
+ball,2,11.1,Cayman Islands,AR Naidoo,S Foster,K Fubler,1,0,,,,,,"",""
+ball,2,11.2,Cayman Islands,S Foster,AR Naidoo,K Fubler,0,0,,,,,,"",""
+ball,2,11.3,Cayman Islands,S Foster,AR Naidoo,K Fubler,1,0,,,,,,"",""
+ball,2,11.4,Cayman Islands,AR Naidoo,S Foster,K Fubler,1,0,,,,,,"",""
+ball,2,11.5,Cayman Islands,S Foster,AR Naidoo,K Fubler,1,0,,,,,,"",""
+ball,2,11.6,Cayman Islands,AR Naidoo,S Foster,K Fubler,1,0,,,,,,"",""
+ball,2,12.1,Cayman Islands,AR Naidoo,S Foster,DL Brangman,0,0,,,,,,"",""
+ball,2,12.2,Cayman Islands,AR Naidoo,S Foster,DL Brangman,1,0,,,,,,"",""
+ball,2,12.3,Cayman Islands,S Foster,AR Naidoo,DL Brangman,2,0,,,,,,"",""
+ball,2,12.4,Cayman Islands,S Foster,AR Naidoo,DL Brangman,1,0,,,,,,"",""
+ball,2,12.5,Cayman Islands,AR Naidoo,S Foster,DL Brangman,1,0,,,,,,"",""
+ball,2,12.6,Cayman Islands,S Foster,AR Naidoo,DL Brangman,0,0,,,,,,"",""
+ball,2,13.1,Cayman Islands,AR Naidoo,S Foster,DC Stovell,4,0,,,,,,"",""
+ball,2,13.2,Cayman Islands,AR Naidoo,S Foster,DC Stovell,1,0,,,,,,"",""
+ball,2,13.3,Cayman Islands,S Foster,AR Naidoo,DC Stovell,4,0,,,,,,"",""
+ball,2,13.4,Cayman Islands,S Foster,AR Naidoo,DC Stovell,0,0,,,,,,"",""
+ball,2,13.5,Cayman Islands,S Foster,AR Naidoo,DC Stovell,0,1,,,1,,,"",""
+ball,2,13.6,Cayman Islands,AR Naidoo,S Foster,DC Stovell,0,0,,,,,,"",""
+ball,2,14.1,Cayman Islands,S Foster,AR Naidoo,Z Burgess,4,0,,,,,,"",""
+ball,2,14.2,Cayman Islands,S Foster,AR Naidoo,Z Burgess,0,0,,,,,,"",""
+ball,2,14.3,Cayman Islands,S Foster,AR Naidoo,Z Burgess,4,0,,,,,,"",""
+ball,2,14.4,Cayman Islands,S Foster,AR Naidoo,Z Burgess,0,0,,,,,,bowled,S Foster
+ball,2,14.5,Cayman Islands,ROC Dunka,AR Naidoo,Z Burgess,1,0,,,,,,"",""
+ball,2,14.6,Cayman Islands,AR Naidoo,ROC Dunka,Z Burgess,0,0,,,,,,"",""
+ball,2,15.1,Cayman Islands,ROC Dunka,AR Naidoo,DC Stovell,1,0,,,,,,"",""
+ball,2,15.2,Cayman Islands,AR Naidoo,ROC Dunka,DC Stovell,1,0,,,,,,"",""
+ball,2,15.3,Cayman Islands,ROC Dunka,AR Naidoo,DC Stovell,0,0,,,,,,"",""
+ball,2,15.4,Cayman Islands,ROC Dunka,AR Naidoo,DC Stovell,1,0,,,,,,"",""
+ball,2,15.5,Cayman Islands,AR Naidoo,ROC Dunka,DC Stovell,1,0,,,,,,"",""
+ball,2,15.6,Cayman Islands,ROC Dunka,AR Naidoo,DC Stovell,2,0,,,,,,"",""
+ball,2,16.1,Cayman Islands,AR Naidoo,ROC Dunka,DL Brangman,1,0,,,,,,"",""
+ball,2,16.2,Cayman Islands,ROC Dunka,AR Naidoo,DL Brangman,1,0,,,,,,"",""
+ball,2,16.3,Cayman Islands,AR Naidoo,ROC Dunka,DL Brangman,4,0,,,,,,"",""
+ball,2,16.4,Cayman Islands,AR Naidoo,ROC Dunka,DL Brangman,0,0,,,,,,caught,AR Naidoo
+ball,2,16.5,Cayman Islands,C Wright,ROC Dunka,DL Brangman,0,0,,,,,,"",""
+ball,2,16.6,Cayman Islands,C Wright,ROC Dunka,DL Brangman,0,0,,,,,,"",""
+ball,2,17.1,Cayman Islands,ROC Dunka,C Wright,K Fubler,6,0,,,,,,"",""
+ball,2,17.2,Cayman Islands,ROC Dunka,C Wright,K Fubler,0,0,,,,,,"",""
+ball,2,17.3,Cayman Islands,ROC Dunka,C Wright,K Fubler,0,0,,,,,,"",""
+ball,2,17.4,Cayman Islands,ROC Dunka,C Wright,K Fubler,2,0,,,,,,"",""
+ball,2,17.5,Cayman Islands,ROC Dunka,C Wright,K Fubler,2,0,,,,,,"",""
+ball,2,17.6,Cayman Islands,ROC Dunka,C Wright,K Fubler,2,0,,,,,,"",""
+ball,2,18.1,Cayman Islands,C Wright,ROC Dunka,Z Burgess,0,0,,,,,,bowled,C Wright
+ball,2,18.2,Cayman Islands,D Johnson,ROC Dunka,Z Burgess,0,0,,,,,,bowled,D Johnson
+ball,2,18.3,Cayman Islands,Ronald Ebanks,ROC Dunka,Z Burgess,0,0,,,,,,"",""
+ball,2,18.4,Cayman Islands,Ronald Ebanks,ROC Dunka,Z Burgess,0,1,,,1,,,"",""
+ball,2,18.5,Cayman Islands,ROC Dunka,Ronald Ebanks,Z Burgess,1,0,,,,,,"",""
+ball,2,18.6,Cayman Islands,Ronald Ebanks,ROC Dunka,Z Burgess,2,0,,,,,,"",""
+ball,2,19.1,Cayman Islands,ROC Dunka,Ronald Ebanks,Jonte Smith,4,0,,,,,,"",""
+ball,2,19.2,Cayman Islands,ROC Dunka,Ronald Ebanks,Jonte Smith,0,0,,,,,,caught,ROC Dunka
+ball,2,19.3,Cayman Islands,A Morris,Ronald Ebanks,Jonte Smith,2,0,,,,,,"",""
+ball,2,19.4,Cayman Islands,A Morris,Ronald Ebanks,Jonte Smith,1,0,,,,,,"",""
+ball,2,19.5,Cayman Islands,Ronald Ebanks,A Morris,Jonte Smith,0,0,,,,,,run out,Ronald Ebanks
+ball,2,19.6,Cayman Islands,A Morris,AF Ifill,Jonte Smith,2,0,,,,,,"",""

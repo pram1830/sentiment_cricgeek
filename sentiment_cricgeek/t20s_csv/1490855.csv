@@ -1,0 +1,329 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Serbia
+info,gender,female
+info,season,2025
+info,date,2025/07/07
+info,event,Women's T20 Quadrangular Series (in Bulgaria)
+info,match_number,2
+info,venue,"Vassil Levski National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Serbia
+info,toss_decision,field
+info,player_of_match,N Nojic
+info,winner,Serbia
+info,winner_wickets,8
+info,player,Bulgaria,T Dissanayake
+info,player,Bulgaria,S Sarandeva
+info,player,Bulgaria,V Nikolova
+info,player,Bulgaria,D Ruynekova
+info,player,Bulgaria,S Galabova
+info,player,Bulgaria,B Shotorova
+info,player,Bulgaria,K Srandeva
+info,player,Bulgaria,G Ilarionova
+info,player,Bulgaria,A Stoilova
+info,player,Bulgaria,M Abadjieva
+info,player,Bulgaria,N Toleva
+info,player,Serbia,T Trajkovic
+info,player,Serbia,M Perisic
+info,player,Serbia,A Mesarovic
+info,player,Serbia,M Nikolic
+info,player,Serbia,E Prokic
+info,player,Serbia,M Trajkovi
+info,player,Serbia,N Nojic
+info,player,Serbia,S Matijevic
+info,player,Serbia,M Jevdjenovic
+info,player,Serbia,B Ercegovcevic
+info,player,Serbia,D Demic
+info,registry,people,A Mesarovic,15404b57
+info,registry,people,A Stoilova,c602c725
+info,registry,people,B Ercegovcevic,be5b6d0d
+info,registry,people,B Shotorova,cbef9f64
+info,registry,people,D Demic,618327de
+info,registry,people,D Ruynekova,c3890e1e
+info,registry,people,E Prokic,6153ce0d
+info,registry,people,G Ilarionova,b56786e5
+info,registry,people,K Srandeva,38602b15
+info,registry,people,M Abadjieva,f37f1c61
+info,registry,people,M Jevdjenovic,3be2b0a3
+info,registry,people,M Nikolic,852f74c8
+info,registry,people,M Perisic,81599c08
+info,registry,people,M Trajkovi,2f208ab6
+info,registry,people,N Nojic,ef537c2e
+info,registry,people,N Toleva,d381938d
+info,registry,people,S Galabova,21bcbbdd
+info,registry,people,S Matijevic,eae6959b
+info,registry,people,S Sarandeva,dacecca3
+info,registry,people,T Dissanayake,5fb4c015
+info,registry,people,T Trajkovic,1e630426
+info,registry,people,V Nikolova,078d1eb5
+ball,1,0.1,Bulgaria,T Dissanayake,S Sarandeva,N Nojic,1,0,,,,,,"",""
+ball,1,0.2,Bulgaria,S Sarandeva,T Dissanayake,N Nojic,0,0,,,,,,"",""
+ball,1,0.3,Bulgaria,S Sarandeva,T Dissanayake,N Nojic,1,0,,,,,,"",""
+ball,1,0.4,Bulgaria,T Dissanayake,S Sarandeva,N Nojic,4,0,,,,,,"",""
+ball,1,0.5,Bulgaria,T Dissanayake,S Sarandeva,N Nojic,0,1,1,,,,,"",""
+ball,1,0.6,Bulgaria,T Dissanayake,S Sarandeva,N Nojic,1,0,,,,,,"",""
+ball,1,0.7,Bulgaria,S Sarandeva,T Dissanayake,N Nojic,0,0,,,,,,"",""
+ball,1,1.1,Bulgaria,T Dissanayake,S Sarandeva,M Jevdjenovic,0,1,,,1,,,"",""
+ball,1,1.2,Bulgaria,S Sarandeva,T Dissanayake,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,1.3,Bulgaria,S Sarandeva,T Dissanayake,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,1.4,Bulgaria,S Sarandeva,T Dissanayake,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,1.5,Bulgaria,S Sarandeva,T Dissanayake,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,1.6,Bulgaria,S Sarandeva,T Dissanayake,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,1.7,Bulgaria,T Dissanayake,S Sarandeva,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,1.8,Bulgaria,T Dissanayake,S Sarandeva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,2.1,Bulgaria,S Sarandeva,T Dissanayake,N Nojic,1,0,,,,,,"",""
+ball,1,2.2,Bulgaria,T Dissanayake,S Sarandeva,N Nojic,0,0,,,,,,caught,T Dissanayake
+ball,1,2.3,Bulgaria,V Nikolova,S Sarandeva,N Nojic,0,1,1,,,,,"",""
+ball,1,2.4,Bulgaria,V Nikolova,S Sarandeva,N Nojic,0,0,,,,,,"",""
+ball,1,2.5,Bulgaria,V Nikolova,S Sarandeva,N Nojic,0,0,,,,,,"",""
+ball,1,2.6,Bulgaria,V Nikolova,S Sarandeva,N Nojic,0,1,1,,,,,"",""
+ball,1,2.7,Bulgaria,V Nikolova,S Sarandeva,N Nojic,2,0,,,,,,"",""
+ball,1,2.8,Bulgaria,V Nikolova,S Sarandeva,N Nojic,0,0,,,,,,"",""
+ball,1,3.1,Bulgaria,S Sarandeva,V Nikolova,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,3.2,Bulgaria,S Sarandeva,V Nikolova,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,3.3,Bulgaria,V Nikolova,S Sarandeva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,3.4,Bulgaria,V Nikolova,S Sarandeva,M Jevdjenovic,2,0,,,,,,"",""
+ball,1,3.5,Bulgaria,V Nikolova,S Sarandeva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,3.6,Bulgaria,V Nikolova,S Sarandeva,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,3.7,Bulgaria,S Sarandeva,V Nikolova,M Jevdjenovic,4,0,,,,,,"",""
+ball,1,4.1,Bulgaria,V Nikolova,S Sarandeva,N Nojic,1,0,,,,,,"",""
+ball,1,4.2,Bulgaria,S Sarandeva,V Nikolova,N Nojic,0,0,,,,,,"",""
+ball,1,4.3,Bulgaria,S Sarandeva,V Nikolova,N Nojic,0,1,1,,,,,"",""
+ball,1,4.4,Bulgaria,S Sarandeva,V Nikolova,N Nojic,0,0,,,,,,bowled,S Sarandeva
+ball,1,4.5,Bulgaria,D Ruynekova,V Nikolova,N Nojic,1,0,,,,,,"",""
+ball,1,4.6,Bulgaria,V Nikolova,D Ruynekova,N Nojic,1,0,,,,,,"",""
+ball,1,4.7,Bulgaria,D Ruynekova,V Nikolova,N Nojic,1,0,,,,,,"",""
+ball,1,5.1,Bulgaria,D Ruynekova,V Nikolova,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,5.2,Bulgaria,D Ruynekova,V Nikolova,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,5.3,Bulgaria,D Ruynekova,V Nikolova,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,5.4,Bulgaria,V Nikolova,D Ruynekova,M Jevdjenovic,2,0,,,,,,"",""
+ball,1,5.5,Bulgaria,V Nikolova,D Ruynekova,M Jevdjenovic,0,0,,,,,,bowled,V Nikolova
+ball,1,5.6,Bulgaria,S Galabova,D Ruynekova,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,5.7,Bulgaria,S Galabova,D Ruynekova,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,6.1,Bulgaria,S Galabova,D Ruynekova,E Prokic,0,0,,,,,,"",""
+ball,1,6.2,Bulgaria,S Galabova,D Ruynekova,E Prokic,1,0,,,,,,"",""
+ball,1,6.3,Bulgaria,D Ruynekova,S Galabova,E Prokic,1,0,,,,,,"",""
+ball,1,6.4,Bulgaria,S Galabova,D Ruynekova,E Prokic,0,1,1,,,,,"",""
+ball,1,6.5,Bulgaria,S Galabova,D Ruynekova,E Prokic,2,0,,,,,,"",""
+ball,1,6.6,Bulgaria,S Galabova,D Ruynekova,E Prokic,1,0,,,,,,"",""
+ball,1,6.7,Bulgaria,D Ruynekova,S Galabova,E Prokic,1,0,,,,,,"",""
+ball,1,7.1,Bulgaria,D Ruynekova,S Galabova,M Trajkovi,0,0,,,,,,"",""
+ball,1,7.2,Bulgaria,D Ruynekova,S Galabova,M Trajkovi,0,1,1,,,,,"",""
+ball,1,7.3,Bulgaria,D Ruynekova,S Galabova,M Trajkovi,0,0,,,,,,caught,D Ruynekova
+ball,1,7.4,Bulgaria,B Shotorova,S Galabova,M Trajkovi,0,1,1,,,,,"",""
+ball,1,7.5,Bulgaria,B Shotorova,S Galabova,M Trajkovi,1,0,,,,,,"",""
+ball,1,7.6,Bulgaria,S Galabova,B Shotorova,M Trajkovi,1,0,,,,,,"",""
+ball,1,7.7,Bulgaria,B Shotorova,S Galabova,M Trajkovi,0,0,,,,,,"",""
+ball,1,7.8,Bulgaria,B Shotorova,S Galabova,M Trajkovi,0,1,1,,,,,"",""
+ball,1,7.9,Bulgaria,B Shotorova,S Galabova,M Trajkovi,1,0,,,,,,"",""
+ball,1,8.1,Bulgaria,B Shotorova,S Galabova,E Prokic,0,0,,,,,,"",""
+ball,1,8.2,Bulgaria,B Shotorova,S Galabova,E Prokic,0,1,1,,,,,"",""
+ball,1,8.3,Bulgaria,B Shotorova,S Galabova,E Prokic,0,0,,,,,,"",""
+ball,1,8.4,Bulgaria,B Shotorova,S Galabova,E Prokic,1,0,,,,,,"",""
+ball,1,8.5,Bulgaria,S Galabova,B Shotorova,E Prokic,1,0,,,,,,"",""
+ball,1,8.6,Bulgaria,B Shotorova,S Galabova,E Prokic,1,0,,,,,,"",""
+ball,1,8.7,Bulgaria,S Galabova,B Shotorova,E Prokic,0,0,,,,,,"",""
+ball,1,9.1,Bulgaria,B Shotorova,S Galabova,A Mesarovic,0,0,,,,,,"",""
+ball,1,9.2,Bulgaria,B Shotorova,S Galabova,A Mesarovic,1,0,,,,,,"",""
+ball,1,9.3,Bulgaria,S Galabova,B Shotorova,A Mesarovic,0,0,,,,,,"",""
+ball,1,9.4,Bulgaria,S Galabova,B Shotorova,A Mesarovic,1,0,,,,,,"",""
+ball,1,9.5,Bulgaria,B Shotorova,S Galabova,A Mesarovic,1,0,,,,,,"",""
+ball,1,9.6,Bulgaria,S Galabova,B Shotorova,A Mesarovic,1,0,,,,,,"",""
+ball,1,10.1,Bulgaria,S Galabova,B Shotorova,E Prokic,2,0,,,,,,"",""
+ball,1,10.2,Bulgaria,S Galabova,B Shotorova,E Prokic,4,0,,,,,,"",""
+ball,1,10.3,Bulgaria,S Galabova,B Shotorova,E Prokic,1,0,,,,,,"",""
+ball,1,10.4,Bulgaria,B Shotorova,S Galabova,E Prokic,1,0,,,,,,"",""
+ball,1,10.5,Bulgaria,S Galabova,B Shotorova,E Prokic,0,1,1,,,,,"",""
+ball,1,10.6,Bulgaria,S Galabova,B Shotorova,E Prokic,4,0,,,,,,"",""
+ball,1,10.7,Bulgaria,S Galabova,B Shotorova,E Prokic,0,1,1,,,,,"",""
+ball,1,10.8,Bulgaria,S Galabova,B Shotorova,E Prokic,1,0,,,,,,"",""
+ball,1,11.1,Bulgaria,S Galabova,B Shotorova,A Mesarovic,0,0,,,,,,"",""
+ball,1,11.2,Bulgaria,S Galabova,B Shotorova,A Mesarovic,0,1,1,,,,,"",""
+ball,1,11.3,Bulgaria,S Galabova,B Shotorova,A Mesarovic,0,0,,,,,,"",""
+ball,1,11.4,Bulgaria,S Galabova,B Shotorova,A Mesarovic,0,0,,,,,,"",""
+ball,1,11.5,Bulgaria,S Galabova,B Shotorova,A Mesarovic,1,0,,,,,,"",""
+ball,1,11.6,Bulgaria,B Shotorova,S Galabova,A Mesarovic,1,0,,,,,,"",""
+ball,1,11.7,Bulgaria,S Galabova,B Shotorova,A Mesarovic,0,1,1,,,,,"",""
+ball,1,11.8,Bulgaria,S Galabova,B Shotorova,A Mesarovic,0,0,,,,,,"",""
+ball,1,12.1,Bulgaria,B Shotorova,S Galabova,S Matijevic,0,0,,,,,,"",""
+ball,1,12.2,Bulgaria,B Shotorova,S Galabova,S Matijevic,1,0,,,,,,"",""
+ball,1,12.3,Bulgaria,S Galabova,B Shotorova,S Matijevic,0,0,,,,,,"",""
+ball,1,12.4,Bulgaria,S Galabova,B Shotorova,S Matijevic,1,0,,,,,,"",""
+ball,1,12.5,Bulgaria,B Shotorova,S Galabova,S Matijevic,0,0,,,,,,caught and bowled,B Shotorova
+ball,1,12.6,Bulgaria,K Srandeva,S Galabova,S Matijevic,1,0,,,,,,"",""
+ball,1,13.1,Bulgaria,K Srandeva,S Galabova,A Mesarovic,0,0,,,,,,"",""
+ball,1,13.2,Bulgaria,K Srandeva,S Galabova,A Mesarovic,0,0,,,,,,"",""
+ball,1,13.3,Bulgaria,K Srandeva,S Galabova,A Mesarovic,0,0,,,,,,"",""
+ball,1,13.4,Bulgaria,K Srandeva,S Galabova,A Mesarovic,1,0,,,,,,"",""
+ball,1,13.5,Bulgaria,S Galabova,K Srandeva,A Mesarovic,1,0,,,,,,"",""
+ball,1,13.6,Bulgaria,K Srandeva,S Galabova,A Mesarovic,0,0,,,,,,"",""
+ball,1,14.1,Bulgaria,S Galabova,K Srandeva,S Matijevic,1,0,,,,,,"",""
+ball,1,14.2,Bulgaria,K Srandeva,S Galabova,S Matijevic,1,0,,,,,,"",""
+ball,1,14.3,Bulgaria,S Galabova,K Srandeva,S Matijevic,1,0,,,,,,"",""
+ball,1,14.4,Bulgaria,K Srandeva,S Galabova,S Matijevic,0,0,,,,,,"",""
+ball,1,14.5,Bulgaria,K Srandeva,S Galabova,S Matijevic,0,0,,,,,,"",""
+ball,1,14.6,Bulgaria,K Srandeva,S Galabova,S Matijevic,1,0,,,,,,"",""
+ball,1,15.1,Bulgaria,K Srandeva,S Galabova,A Mesarovic,1,0,,,,,,"",""
+ball,1,15.2,Bulgaria,S Galabova,K Srandeva,A Mesarovic,4,0,,,,,,"",""
+ball,1,15.3,Bulgaria,S Galabova,K Srandeva,A Mesarovic,0,0,,,,,,"",""
+ball,1,15.4,Bulgaria,S Galabova,K Srandeva,A Mesarovic,0,0,,,,,,bowled,S Galabova
+ball,1,15.5,Bulgaria,G Ilarionova,K Srandeva,A Mesarovic,0,0,,,,,,"",""
+ball,1,15.6,Bulgaria,G Ilarionova,K Srandeva,A Mesarovic,0,0,,,,,,"",""
+ball,1,16.1,Bulgaria,K Srandeva,G Ilarionova,S Matijevic,0,1,1,,,,,"",""
+ball,1,16.2,Bulgaria,K Srandeva,G Ilarionova,S Matijevic,0,0,,,,,,"",""
+ball,1,16.3,Bulgaria,K Srandeva,G Ilarionova,S Matijevic,0,0,,,,,,"",""
+ball,1,16.4,Bulgaria,K Srandeva,G Ilarionova,S Matijevic,4,0,,,,,,"",""
+ball,1,16.5,Bulgaria,K Srandeva,G Ilarionova,S Matijevic,0,0,,,,,,"",""
+ball,1,16.6,Bulgaria,K Srandeva,G Ilarionova,S Matijevic,1,0,,,,,,"",""
+ball,1,16.7,Bulgaria,G Ilarionova,K Srandeva,S Matijevic,0,0,,,,,,"",""
+ball,1,17.1,Bulgaria,K Srandeva,G Ilarionova,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,17.2,Bulgaria,K Srandeva,G Ilarionova,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,17.3,Bulgaria,G Ilarionova,K Srandeva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,17.4,Bulgaria,G Ilarionova,K Srandeva,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,17.5,Bulgaria,K Srandeva,G Ilarionova,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,17.6,Bulgaria,G Ilarionova,K Srandeva,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,17.7,Bulgaria,K Srandeva,G Ilarionova,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,17.8,Bulgaria,K Srandeva,G Ilarionova,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,18.1,Bulgaria,G Ilarionova,K Srandeva,S Matijevic,0,0,,,,,,"",""
+ball,1,18.2,Bulgaria,G Ilarionova,K Srandeva,S Matijevic,2,0,,,,,,"",""
+ball,1,18.3,Bulgaria,G Ilarionova,K Srandeva,S Matijevic,2,0,,,,,,"",""
+ball,1,18.4,Bulgaria,G Ilarionova,K Srandeva,S Matijevic,0,0,,,,,,hit wicket,G Ilarionova
+ball,1,18.5,Bulgaria,A Stoilova,K Srandeva,S Matijevic,0,0,,,,,,"",""
+ball,1,18.6,Bulgaria,A Stoilova,K Srandeva,S Matijevic,0,0,,,,,,"",""
+ball,1,19.1,Bulgaria,K Srandeva,A Stoilova,N Nojic,0,0,,,,,,"",""
+ball,1,19.2,Bulgaria,K Srandeva,A Stoilova,N Nojic,1,0,,,,,,"",""
+ball,1,19.3,Bulgaria,A Stoilova,K Srandeva,N Nojic,0,0,,,,,,"",""
+ball,1,19.4,Bulgaria,A Stoilova,K Srandeva,N Nojic,0,0,,,,,,bowled,A Stoilova
+ball,1,19.5,Bulgaria,M Abadjieva,K Srandeva,N Nojic,2,0,,,,,,"",""
+ball,1,19.6,Bulgaria,M Abadjieva,K Srandeva,N Nojic,4,0,,,,,,"",""
+ball,2,0.1,Serbia,T Trajkovic,M Perisic,B Shotorova,0,0,,,,,,"",""
+ball,2,0.2,Serbia,T Trajkovic,M Perisic,B Shotorova,0,1,1,,,,,"",""
+ball,2,0.3,Serbia,T Trajkovic,M Perisic,B Shotorova,0,0,,,,,,"",""
+ball,2,0.4,Serbia,T Trajkovic,M Perisic,B Shotorova,1,0,,,,,,"",""
+ball,2,0.5,Serbia,M Perisic,T Trajkovic,B Shotorova,1,0,,,,,,"",""
+ball,2,0.6,Serbia,T Trajkovic,M Perisic,B Shotorova,1,0,,,,,,"",""
+ball,2,0.7,Serbia,M Perisic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,1.1,Serbia,T Trajkovic,M Perisic,T Dissanayake,0,2,2,,,,,"",""
+ball,2,1.2,Serbia,M Perisic,T Trajkovic,T Dissanayake,0,0,,,,,,"",""
+ball,2,1.3,Serbia,M Perisic,T Trajkovic,T Dissanayake,1,0,,,,,,"",""
+ball,2,1.4,Serbia,T Trajkovic,M Perisic,T Dissanayake,0,0,,,,,,"",""
+ball,2,1.5,Serbia,T Trajkovic,M Perisic,T Dissanayake,0,1,1,,,,,"",""
+ball,2,1.6,Serbia,T Trajkovic,M Perisic,T Dissanayake,0,0,,,,,,"",""
+ball,2,1.7,Serbia,T Trajkovic,M Perisic,T Dissanayake,2,0,,,,,,"",""
+ball,2,1.8,Serbia,T Trajkovic,M Perisic,T Dissanayake,0,0,,,,,,"",""
+ball,2,2.1,Serbia,M Perisic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,2.2,Serbia,M Perisic,T Trajkovic,B Shotorova,0,1,1,,,,,"",""
+ball,2,2.3,Serbia,M Perisic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,2.4,Serbia,M Perisic,T Trajkovic,B Shotorova,0,1,,1,,,,"",""
+ball,2,2.5,Serbia,M Perisic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,2.6,Serbia,M Perisic,T Trajkovic,B Shotorova,0,1,1,,,,,"",""
+ball,2,2.7,Serbia,M Perisic,T Trajkovic,B Shotorova,0,1,1,,,,,"",""
+ball,2,2.8,Serbia,M Perisic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,2.9,Serbia,M Perisic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,2.10,Serbia,M Perisic,T Trajkovic,B Shotorova,1,0,,,,,,"",""
+ball,2,3.1,Serbia,M Perisic,T Trajkovic,T Dissanayake,0,0,,,,,,"",""
+ball,2,3.2,Serbia,M Perisic,T Trajkovic,T Dissanayake,1,0,,,,,,"",""
+ball,2,3.3,Serbia,T Trajkovic,M Perisic,T Dissanayake,0,1,1,,,,,"",""
+ball,2,3.4,Serbia,T Trajkovic,M Perisic,T Dissanayake,1,0,,,,,,"",""
+ball,2,3.5,Serbia,M Perisic,T Trajkovic,T Dissanayake,0,0,,,,,,"",""
+ball,2,3.6,Serbia,M Perisic,T Trajkovic,T Dissanayake,1,0,,,,,,"",""
+ball,2,3.7,Serbia,T Trajkovic,M Perisic,T Dissanayake,1,0,,,,,,"",""
+ball,2,4.1,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,0,,,,,,"",""
+ball,2,4.2,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,0,,,,,,"",""
+ball,2,4.3,Serbia,T Trajkovic,M Perisic,G Ilarionova,1,0,,,,,,"",""
+ball,2,4.4,Serbia,M Perisic,T Trajkovic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,4.5,Serbia,M Perisic,T Trajkovic,G Ilarionova,0,0,,,,,,"",""
+ball,2,4.6,Serbia,M Perisic,T Trajkovic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,4.7,Serbia,M Perisic,T Trajkovic,G Ilarionova,0,0,,,,,,"",""
+ball,2,4.8,Serbia,M Perisic,T Trajkovic,G Ilarionova,0,0,,,,,,"",""
+ball,2,5.1,Serbia,T Trajkovic,M Perisic,K Srandeva,1,1,,1,,,,"",""
+ball,2,5.2,Serbia,M Perisic,T Trajkovic,K Srandeva,1,0,,,,,,"",""
+ball,2,5.3,Serbia,T Trajkovic,M Perisic,K Srandeva,0,0,,,,,,"",""
+ball,2,5.4,Serbia,T Trajkovic,M Perisic,K Srandeva,0,0,,,,,,"",""
+ball,2,5.5,Serbia,T Trajkovic,M Perisic,K Srandeva,0,1,1,,,,,"",""
+ball,2,5.6,Serbia,T Trajkovic,M Perisic,K Srandeva,2,0,,,,,,"",""
+ball,2,5.7,Serbia,T Trajkovic,M Perisic,K Srandeva,0,1,1,,,,,"",""
+ball,2,5.8,Serbia,T Trajkovic,M Perisic,K Srandeva,1,0,,,,,,"",""
+ball,2,5.9,Serbia,M Perisic,T Trajkovic,K Srandeva,0,1,1,,,,,"",""
+ball,2,5.10,Serbia,M Perisic,T Trajkovic,K Srandeva,0,0,,,,,,"",""
+ball,2,6.1,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,6.2,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,6.3,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,6.4,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,0,,,,,,"",""
+ball,2,6.5,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,6.6,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,0,,,,,,"",""
+ball,2,6.7,Serbia,T Trajkovic,M Perisic,G Ilarionova,4,0,,,,,,"",""
+ball,2,6.8,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,0,,,,,,"",""
+ball,2,6.9,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,6.10,Serbia,T Trajkovic,M Perisic,G Ilarionova,0,0,,,,,,"",""
+ball,2,6.11,Serbia,T Trajkovic,M Perisic,G Ilarionova,4,0,,,,,,"",""
+ball,2,7.1,Serbia,M Perisic,T Trajkovic,K Srandeva,0,0,,,,,,"",""
+ball,2,7.2,Serbia,M Perisic,T Trajkovic,K Srandeva,0,1,,1,,,,"",""
+ball,2,7.3,Serbia,M Perisic,T Trajkovic,K Srandeva,1,0,,,,,,"",""
+ball,2,7.4,Serbia,T Trajkovic,M Perisic,K Srandeva,0,1,,1,,,,"",""
+ball,2,7.5,Serbia,T Trajkovic,M Perisic,K Srandeva,0,0,,,,,,"",""
+ball,2,7.6,Serbia,T Trajkovic,M Perisic,K Srandeva,0,0,,,,,,"",""
+ball,2,7.7,Serbia,T Trajkovic,M Perisic,K Srandeva,1,0,,,,,,"",""
+ball,2,7.8,Serbia,M Perisic,T Trajkovic,K Srandeva,0,1,1,,,,,"",""
+ball,2,7.9,Serbia,M Perisic,T Trajkovic,K Srandeva,0,0,,,,,,"",""
+ball,2,8.1,Serbia,T Trajkovic,M Perisic,B Shotorova,4,0,,,,,,"",""
+ball,2,8.2,Serbia,T Trajkovic,M Perisic,B Shotorova,4,0,,,,,,"",""
+ball,2,8.3,Serbia,T Trajkovic,M Perisic,B Shotorova,1,0,,,,,,"",""
+ball,2,8.4,Serbia,M Perisic,T Trajkovic,B Shotorova,0,0,,,,,,lbw,M Perisic
+ball,2,8.5,Serbia,A Mesarovic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,8.6,Serbia,A Mesarovic,T Trajkovic,B Shotorova,0,0,,,,,,"",""
+ball,2,9.1,Serbia,T Trajkovic,A Mesarovic,G Ilarionova,1,0,,,,,,"",""
+ball,2,9.2,Serbia,A Mesarovic,T Trajkovic,G Ilarionova,0,0,,,,,,caught and bowled,A Mesarovic
+ball,2,9.3,Serbia,M Nikolic,T Trajkovic,G Ilarionova,0,1,1,,,,,"",""
+ball,2,9.4,Serbia,M Nikolic,T Trajkovic,G Ilarionova,1,0,,,,,,"",""
+ball,2,9.5,Serbia,T Trajkovic,M Nikolic,G Ilarionova,0,0,,,,,,"",""
+ball,2,9.6,Serbia,T Trajkovic,M Nikolic,G Ilarionova,1,0,,,,,,"",""
+ball,2,9.7,Serbia,M Nikolic,T Trajkovic,G Ilarionova,0,0,,,,,,"",""
+ball,2,10.1,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,0,,,,,,"",""
+ball,2,10.2,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,0,,,,,,"",""
+ball,2,10.3,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,1,1,,,,,"",""
+ball,2,10.4,Serbia,T Trajkovic,M Nikolic,S Sarandeva,1,0,,,,,,"",""
+ball,2,10.5,Serbia,M Nikolic,T Trajkovic,S Sarandeva,1,0,,,,,,"",""
+ball,2,10.6,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,1,1,,,,,"",""
+ball,2,10.7,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,0,,,,,,"",""
+ball,2,10.8,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,1,1,,,,,"",""
+ball,2,10.9,Serbia,T Trajkovic,M Nikolic,S Sarandeva,4,0,,,,,,"",""
+ball,2,11.1,Serbia,M Nikolic,T Trajkovic,G Ilarionova,1,0,,,,,,"",""
+ball,2,11.2,Serbia,T Trajkovic,M Nikolic,G Ilarionova,1,0,,,,,,"",""
+ball,2,11.3,Serbia,M Nikolic,T Trajkovic,G Ilarionova,0,0,,,,,,"",""
+ball,2,11.4,Serbia,M Nikolic,T Trajkovic,G Ilarionova,4,0,,,,,,"",""
+ball,2,11.5,Serbia,M Nikolic,T Trajkovic,G Ilarionova,0,1,,1,,,,"",""
+ball,2,11.6,Serbia,M Nikolic,T Trajkovic,G Ilarionova,1,0,,,,,,"",""
+ball,2,11.7,Serbia,T Trajkovic,M Nikolic,G Ilarionova,1,0,,,,,,"",""
+ball,2,12.1,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,1,1,,,,,"",""
+ball,2,12.2,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,0,,,,,,"",""
+ball,2,12.3,Serbia,T Trajkovic,M Nikolic,S Sarandeva,4,0,,,,,,"",""
+ball,2,12.4,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,1,1,,,,,"",""
+ball,2,12.5,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,0,,,,,,"",""
+ball,2,12.6,Serbia,T Trajkovic,M Nikolic,S Sarandeva,0,0,,,,,,"",""
+ball,2,12.7,Serbia,T Trajkovic,M Nikolic,S Sarandeva,1,0,,,,,,"",""
+ball,2,12.8,Serbia,M Nikolic,T Trajkovic,S Sarandeva,1,0,,,,,,"",""
+ball,2,13.1,Serbia,M Nikolic,T Trajkovic,T Dissanayake,4,0,,,,,,"",""
+ball,2,13.2,Serbia,M Nikolic,T Trajkovic,T Dissanayake,4,0,,,,,,"",""
+ball,2,13.3,Serbia,M Nikolic,T Trajkovic,T Dissanayake,1,0,,,,,,"",""
+ball,2,13.4,Serbia,T Trajkovic,M Nikolic,T Dissanayake,1,0,,,,,,"",""
+ball,2,13.5,Serbia,M Nikolic,T Trajkovic,T Dissanayake,0,1,1,,,,,"",""
+ball,2,13.6,Serbia,M Nikolic,T Trajkovic,T Dissanayake,4,0,,,,,,"",""
+ball,2,13.7,Serbia,M Nikolic,T Trajkovic,T Dissanayake,0,0,,,,,,"",""
+ball,2,14.1,Serbia,T Trajkovic,M Nikolic,N Toleva,0,1,,1,,,,"",""
+ball,2,14.2,Serbia,T Trajkovic,M Nikolic,N Toleva,0,0,,,,,,"",""
+ball,2,14.3,Serbia,T Trajkovic,M Nikolic,N Toleva,1,0,,,,,,"",""
+ball,2,14.4,Serbia,M Nikolic,T Trajkovic,N Toleva,0,1,1,,,,,"",""
+ball,2,14.5,Serbia,M Nikolic,T Trajkovic,N Toleva,1,0,,,,,,"",""
+ball,2,14.6,Serbia,T Trajkovic,M Nikolic,N Toleva,0,1,,1,,,,"",""
+ball,2,14.7,Serbia,T Trajkovic,M Nikolic,N Toleva,0,1,1,,,,,"",""
+ball,2,14.8,Serbia,T Trajkovic,M Nikolic,N Toleva,0,0,,,,,,"",""
+ball,2,14.9,Serbia,T Trajkovic,M Nikolic,N Toleva,0,1,,1,,,,"",""
+ball,2,14.10,Serbia,T Trajkovic,M Nikolic,N Toleva,0,0,,,,,,"",""
+ball,2,14.11,Serbia,T Trajkovic,M Nikolic,N Toleva,0,0,,,,,,"",""
+ball,2,15.1,Serbia,M Nikolic,T Trajkovic,D Ruynekova,0,0,,,,,,"",""
+ball,2,15.2,Serbia,M Nikolic,T Trajkovic,D Ruynekova,1,0,,,,,,"",""
+ball,2,15.3,Serbia,T Trajkovic,M Nikolic,D Ruynekova,0,1,1,,,,,"",""
+ball,2,15.4,Serbia,T Trajkovic,M Nikolic,D Ruynekova,1,0,,,,,,"",""

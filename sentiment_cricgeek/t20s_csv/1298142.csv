@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Zimbabwe
+info,gender,male
+info,season,2022/23
+info,date,2022/10/19
+info,event,ICC Men's T20 World Cup
+info,match_number,8
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,AS Joseph
+info,umpire,Aleem Dar
+info,umpire,P Wilson
+info,reserve_umpire,CM Brown
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,BC Broad
+info,winner,West Indies
+info,winner_runs,31
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Charles
+info,player,West Indies,E Lewis
+info,player,West Indies,N Pooran
+info,player,West Indies,R Powell
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,JO Holder
+info,player,West Indies,AJ Hosein
+info,player,West Indies,OF Smith
+info,player,West Indies,AS Joseph
+info,player,West Indies,OC McCoy
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,M Shumba
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,B Muzarabani
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AS Joseph,b0946605
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Charles,09a9d073
+info,registry,people,JO Holder,0f721006
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M Shumba,6766ca00
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,OF Smith,23cca426
+info,registry,people,P Wilson,68304a36
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,R Powell,650d5e49
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c
+ball,1,0.1,West Indies,KR Mayers,J Charles,R Ngarava,0,0,,,,,,"",""
+ball,1,0.2,West Indies,KR Mayers,J Charles,R Ngarava,0,0,,,,,,"",""
+ball,1,0.3,West Indies,KR Mayers,J Charles,R Ngarava,1,0,,,,,,"",""
+ball,1,0.4,West Indies,J Charles,KR Mayers,R Ngarava,0,4,,,,4,,"",""
+ball,1,0.5,West Indies,J Charles,KR Mayers,R Ngarava,0,0,,,,,,"",""
+ball,1,0.6,West Indies,J Charles,KR Mayers,R Ngarava,0,0,,,,,,"",""
+ball,1,1.1,West Indies,KR Mayers,J Charles,TL Chatara,0,0,,,,,,"",""
+ball,1,1.2,West Indies,KR Mayers,J Charles,TL Chatara,4,0,,,,,,"",""
+ball,1,1.3,West Indies,KR Mayers,J Charles,TL Chatara,0,1,1,,,,,"",""
+ball,1,1.4,West Indies,KR Mayers,J Charles,TL Chatara,1,0,,,,,,"",""
+ball,1,1.5,West Indies,J Charles,KR Mayers,TL Chatara,1,0,,,,,,"",""
+ball,1,1.6,West Indies,KR Mayers,J Charles,TL Chatara,1,0,,,,,,"",""
+ball,1,1.7,West Indies,J Charles,KR Mayers,TL Chatara,0,1,1,,,,,"",""
+ball,1,1.8,West Indies,J Charles,KR Mayers,TL Chatara,0,0,,,,,,"",""
+ball,1,2.1,West Indies,KR Mayers,J Charles,R Ngarava,1,0,,,,,,"",""
+ball,1,2.2,West Indies,J Charles,KR Mayers,R Ngarava,0,0,,,,,,"",""
+ball,1,2.3,West Indies,J Charles,KR Mayers,R Ngarava,0,1,1,,,,,"",""
+ball,1,2.4,West Indies,J Charles,KR Mayers,R Ngarava,0,0,,,,,,"",""
+ball,1,2.5,West Indies,J Charles,KR Mayers,R Ngarava,6,0,,,,,,"",""
+ball,1,2.6,West Indies,J Charles,KR Mayers,R Ngarava,0,1,,,,1,,"",""
+ball,1,2.7,West Indies,KR Mayers,J Charles,R Ngarava,1,0,,,,,,"",""
+ball,1,3.1,West Indies,KR Mayers,J Charles,B Muzarabani,0,0,,,,,,"",""
+ball,1,3.2,West Indies,KR Mayers,J Charles,B Muzarabani,4,0,,,,,,"",""
+ball,1,3.3,West Indies,KR Mayers,J Charles,B Muzarabani,0,0,,,,,,caught,KR Mayers
+ball,1,3.4,West Indies,E Lewis,J Charles,B Muzarabani,1,0,,,,,,"",""
+ball,1,3.5,West Indies,J Charles,E Lewis,B Muzarabani,1,0,,,,,,"",""
+ball,1,3.6,West Indies,E Lewis,J Charles,B Muzarabani,0,0,,,,,,"",""
+ball,1,4.1,West Indies,J Charles,E Lewis,TL Chatara,1,0,,,,,,"",""
+ball,1,4.2,West Indies,E Lewis,J Charles,TL Chatara,0,0,,,,,,"",""
+ball,1,4.3,West Indies,E Lewis,J Charles,TL Chatara,4,0,,,,,,"",""
+ball,1,4.4,West Indies,E Lewis,J Charles,TL Chatara,1,0,,,,,,"",""
+ball,1,4.5,West Indies,J Charles,E Lewis,TL Chatara,0,1,,,,1,,"",""
+ball,1,4.6,West Indies,E Lewis,J Charles,TL Chatara,1,0,,,,,,"",""
+ball,1,5.1,West Indies,E Lewis,J Charles,B Muzarabani,0,0,,,,,,"",""
+ball,1,5.2,West Indies,E Lewis,J Charles,B Muzarabani,0,1,1,,,,,"",""
+ball,1,5.3,West Indies,E Lewis,J Charles,B Muzarabani,1,0,,,,,,"",""
+ball,1,5.4,West Indies,J Charles,E Lewis,B Muzarabani,4,0,,,,,,"",""
+ball,1,5.5,West Indies,J Charles,E Lewis,B Muzarabani,2,0,,,,,,"",""
+ball,1,5.6,West Indies,J Charles,E Lewis,B Muzarabani,3,0,,,,,,"",""
+ball,1,5.7,West Indies,E Lewis,J Charles,B Muzarabani,0,0,,,,,,"",""
+ball,1,6.1,West Indies,J Charles,E Lewis,RP Burl,1,0,,,,,,"",""
+ball,1,6.2,West Indies,E Lewis,J Charles,RP Burl,1,0,,,,,,"",""
+ball,1,6.3,West Indies,J Charles,E Lewis,RP Burl,0,0,,,,,,"",""
+ball,1,6.4,West Indies,J Charles,E Lewis,RP Burl,1,0,,,,,,"",""
+ball,1,6.5,West Indies,E Lewis,J Charles,RP Burl,1,0,,,,,,"",""
+ball,1,6.6,West Indies,J Charles,E Lewis,RP Burl,0,0,,,,,,"",""
+ball,1,7.1,West Indies,E Lewis,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,7.2,West Indies,J Charles,E Lewis,Sikandar Raza,1,0,,,,,,"",""
+ball,1,7.3,West Indies,E Lewis,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,7.4,West Indies,J Charles,E Lewis,Sikandar Raza,0,0,,,,,,"",""
+ball,1,7.5,West Indies,J Charles,E Lewis,Sikandar Raza,1,0,,,,,,"",""
+ball,1,7.6,West Indies,E Lewis,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,8.1,West Indies,E Lewis,J Charles,RP Burl,0,0,,,,,,"",""
+ball,1,8.2,West Indies,E Lewis,J Charles,RP Burl,1,0,,,,,,"",""
+ball,1,8.3,West Indies,J Charles,E Lewis,RP Burl,6,0,,,,,,"",""
+ball,1,8.4,West Indies,J Charles,E Lewis,RP Burl,4,0,,,,,,"",""
+ball,1,8.5,West Indies,J Charles,E Lewis,RP Burl,4,0,,,,,,"",""
+ball,1,8.6,West Indies,J Charles,E Lewis,RP Burl,1,0,,,,,,"",""
+ball,1,9.1,West Indies,J Charles,E Lewis,Sikandar Raza,0,0,,,,,,"",""
+ball,1,9.2,West Indies,J Charles,E Lewis,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.3,West Indies,E Lewis,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.4,West Indies,J Charles,E Lewis,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.5,West Indies,E Lewis,J Charles,Sikandar Raza,0,0,,,,,,caught,E Lewis
+ball,1,9.6,West Indies,N Pooran,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.1,West Indies,N Pooran,J Charles,SC Williams,1,0,,,,,,"",""
+ball,1,10.2,West Indies,J Charles,N Pooran,SC Williams,0,1,,,,1,,"",""
+ball,1,10.3,West Indies,N Pooran,J Charles,SC Williams,0,0,,,,,,"",""
+ball,1,10.4,West Indies,N Pooran,J Charles,SC Williams,1,0,,,,,,"",""
+ball,1,10.5,West Indies,J Charles,N Pooran,SC Williams,1,0,,,,,,"",""
+ball,1,10.6,West Indies,N Pooran,J Charles,SC Williams,1,0,,,,,,"",""
+ball,1,11.1,West Indies,N Pooran,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.2,West Indies,J Charles,N Pooran,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.3,West Indies,N Pooran,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.4,West Indies,J Charles,N Pooran,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.5,West Indies,N Pooran,J Charles,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.6,West Indies,J Charles,N Pooran,Sikandar Raza,1,0,,,,,,"",""
+ball,1,12.1,West Indies,J Charles,N Pooran,SC Williams,1,0,,,,,,"",""
+ball,1,12.2,West Indies,N Pooran,J Charles,SC Williams,0,0,,,,,,caught and bowled,N Pooran
+ball,1,12.3,West Indies,R Powell,J Charles,SC Williams,0,0,,,,,,"",""
+ball,1,12.4,West Indies,R Powell,J Charles,SC Williams,4,0,,,,,,"",""
+ball,1,12.5,West Indies,R Powell,J Charles,SC Williams,1,1,,1,,,,"",""
+ball,1,12.6,West Indies,J Charles,R Powell,SC Williams,1,0,,,,,,"",""
+ball,1,12.7,West Indies,R Powell,J Charles,SC Williams,0,0,,,,,,run out,J Charles
+ball,1,13.1,West Indies,SSJ Brooks,R Powell,Sikandar Raza,0,0,,,,,,"",""
+ball,1,13.2,West Indies,SSJ Brooks,R Powell,Sikandar Raza,0,0,,,,,,"",""
+ball,1,13.3,West Indies,SSJ Brooks,R Powell,Sikandar Raza,0,0,,,,,,lbw,SSJ Brooks
+ball,1,13.4,West Indies,JO Holder,R Powell,Sikandar Raza,2,0,,,,,,"",""
+ball,1,13.5,West Indies,JO Holder,R Powell,Sikandar Raza,2,0,,,,,,"",""
+ball,1,13.6,West Indies,JO Holder,R Powell,Sikandar Raza,0,0,,,,,,caught and bowled,JO Holder
+ball,1,14.1,West Indies,R Powell,AJ Hosein,SC Williams,0,0,,,,,,"",""
+ball,1,14.2,West Indies,R Powell,AJ Hosein,SC Williams,0,0,,,,,,"",""
+ball,1,14.3,West Indies,R Powell,AJ Hosein,SC Williams,1,0,,,,,,"",""
+ball,1,14.4,West Indies,AJ Hosein,R Powell,SC Williams,1,0,,,,,,"",""
+ball,1,14.5,West Indies,R Powell,AJ Hosein,SC Williams,1,0,,,,,,"",""
+ball,1,14.6,West Indies,AJ Hosein,R Powell,SC Williams,2,0,,,,,,"",""
+ball,1,15.1,West Indies,R Powell,AJ Hosein,RP Burl,1,0,,,,,,"",""
+ball,1,15.2,West Indies,AJ Hosein,R Powell,RP Burl,1,0,,,,,,"",""
+ball,1,15.3,West Indies,R Powell,AJ Hosein,RP Burl,1,0,,,,,,"",""
+ball,1,15.4,West Indies,AJ Hosein,R Powell,RP Burl,4,0,,,,,,"",""
+ball,1,15.5,West Indies,AJ Hosein,R Powell,RP Burl,0,0,,,,,,"",""
+ball,1,15.6,West Indies,AJ Hosein,R Powell,RP Burl,0,0,,,,,,"",""
+ball,1,16.1,West Indies,R Powell,AJ Hosein,TL Chatara,1,0,,,,,,"",""
+ball,1,16.2,West Indies,AJ Hosein,R Powell,TL Chatara,1,0,,,,,,"",""
+ball,1,16.3,West Indies,R Powell,AJ Hosein,TL Chatara,0,1,,,,1,,"",""
+ball,1,16.4,West Indies,AJ Hosein,R Powell,TL Chatara,1,0,,,,,,"",""
+ball,1,16.5,West Indies,R Powell,AJ Hosein,TL Chatara,1,0,,,,,,"",""
+ball,1,16.6,West Indies,AJ Hosein,R Powell,TL Chatara,2,0,,,,,,"",""
+ball,1,17.1,West Indies,R Powell,AJ Hosein,B Muzarabani,1,1,,1,,,,"",""
+ball,1,17.2,West Indies,AJ Hosein,R Powell,B Muzarabani,0,0,,,,,,"",""
+ball,1,17.3,West Indies,AJ Hosein,R Powell,B Muzarabani,1,0,,,,,,"",""
+ball,1,17.4,West Indies,R Powell,AJ Hosein,B Muzarabani,1,0,,,,,,"",""
+ball,1,17.5,West Indies,AJ Hosein,R Powell,B Muzarabani,2,0,,,,,,"",""
+ball,1,17.6,West Indies,AJ Hosein,R Powell,B Muzarabani,0,0,,,,,,"",""
+ball,1,17.7,West Indies,AJ Hosein,R Powell,B Muzarabani,1,0,,,,,,"",""
+ball,1,18.1,West Indies,AJ Hosein,R Powell,R Ngarava,0,0,,,,,,"",""
+ball,1,18.2,West Indies,AJ Hosein,R Powell,R Ngarava,4,0,,,,,,"",""
+ball,1,18.3,West Indies,AJ Hosein,R Powell,R Ngarava,1,0,,,,,,"",""
+ball,1,18.4,West Indies,R Powell,AJ Hosein,R Ngarava,2,0,,,,,,"",""
+ball,1,18.5,West Indies,R Powell,AJ Hosein,R Ngarava,1,0,,,,,,"",""
+ball,1,18.6,West Indies,AJ Hosein,R Powell,R Ngarava,2,0,,,,,,"",""
+ball,1,19.1,West Indies,R Powell,AJ Hosein,B Muzarabani,6,0,,,,,,"",""
+ball,1,19.2,West Indies,R Powell,AJ Hosein,B Muzarabani,0,0,,,,,,"",""
+ball,1,19.3,West Indies,R Powell,AJ Hosein,B Muzarabani,0,1,1,,,,,"",""
+ball,1,19.4,West Indies,R Powell,AJ Hosein,B Muzarabani,6,0,,,,,,"",""
+ball,1,19.5,West Indies,R Powell,AJ Hosein,B Muzarabani,0,0,,,,,,caught,R Powell
+ball,1,19.6,West Indies,OF Smith,AJ Hosein,B Muzarabani,0,2,,,,2,,"",""
+ball,1,19.7,West Indies,OF Smith,AJ Hosein,B Muzarabani,1,0,,,,,,"",""
+ball,2,0.1,Zimbabwe,W Madhevere,RW Chakabva,KR Mayers,0,1,,,,1,,"",""
+ball,2,0.2,Zimbabwe,RW Chakabva,W Madhevere,KR Mayers,4,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,RW Chakabva,W Madhevere,KR Mayers,0,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,RW Chakabva,W Madhevere,KR Mayers,0,5,5,,,,,"",""
+ball,2,0.5,Zimbabwe,RW Chakabva,W Madhevere,KR Mayers,0,0,,,,,,"",""
+ball,2,0.6,Zimbabwe,RW Chakabva,W Madhevere,KR Mayers,4,0,,,,,,"",""
+ball,2,0.7,Zimbabwe,RW Chakabva,W Madhevere,KR Mayers,4,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,W Madhevere,RW Chakabva,AJ Hosein,4,1,,1,,,,"",""
+ball,2,1.2,Zimbabwe,W Madhevere,RW Chakabva,AJ Hosein,1,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,RW Chakabva,W Madhevere,AJ Hosein,0,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,RW Chakabva,W Madhevere,AJ Hosein,1,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,W Madhevere,RW Chakabva,AJ Hosein,2,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,W Madhevere,RW Chakabva,AJ Hosein,0,0,,,,,,"",""
+ball,2,1.7,Zimbabwe,W Madhevere,RW Chakabva,AJ Hosein,2,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,RW Chakabva,W Madhevere,AS Joseph,0,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,RW Chakabva,W Madhevere,AS Joseph,0,0,,,,,,bowled,RW Chakabva
+ball,2,2.3,Zimbabwe,T Munyonga,W Madhevere,AS Joseph,0,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,T Munyonga,W Madhevere,AS Joseph,1,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,W Madhevere,T Munyonga,AS Joseph,0,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,W Madhevere,T Munyonga,AS Joseph,0,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,T Munyonga,W Madhevere,OC McCoy,1,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,W Madhevere,T Munyonga,OC McCoy,0,0,,,,,,"",""
+ball,2,3.3,Zimbabwe,W Madhevere,T Munyonga,OC McCoy,4,0,,,,,,"",""
+ball,2,3.4,Zimbabwe,W Madhevere,T Munyonga,OC McCoy,1,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,T Munyonga,W Madhevere,OC McCoy,0,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,T Munyonga,W Madhevere,OC McCoy,0,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,W Madhevere,T Munyonga,AS Joseph,4,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,W Madhevere,T Munyonga,AS Joseph,0,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,W Madhevere,T Munyonga,AS Joseph,6,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,W Madhevere,T Munyonga,AS Joseph,1,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,T Munyonga,W Madhevere,AS Joseph,0,0,,,,,,bowled,T Munyonga
+ball,2,4.6,Zimbabwe,SC Williams,W Madhevere,AS Joseph,1,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,SC Williams,W Madhevere,OC McCoy,0,0,,,,,,caught,SC Williams
+ball,2,5.2,Zimbabwe,Sikandar Raza,W Madhevere,OC McCoy,4,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,Sikandar Raza,W Madhevere,OC McCoy,1,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,W Madhevere,Sikandar Raza,OC McCoy,2,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,W Madhevere,Sikandar Raza,OC McCoy,0,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,W Madhevere,Sikandar Raza,OC McCoy,0,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,Sikandar Raza,W Madhevere,JO Holder,0,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,Sikandar Raza,W Madhevere,JO Holder,2,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,Sikandar Raza,W Madhevere,JO Holder,0,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,Sikandar Raza,W Madhevere,JO Holder,1,0,,,,,,"",""
+ball,2,6.5,Zimbabwe,W Madhevere,Sikandar Raza,JO Holder,0,0,,,,,,caught,W Madhevere
+ball,2,6.6,Zimbabwe,M Shumba,Sikandar Raza,JO Holder,0,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,Sikandar Raza,M Shumba,OF Smith,6,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,Sikandar Raza,M Shumba,OF Smith,0,0,,,,,,caught,Sikandar Raza
+ball,2,7.3,Zimbabwe,RP Burl,M Shumba,OF Smith,0,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,RP Burl,M Shumba,OF Smith,0,1,1,,,,,"",""
+ball,2,7.5,Zimbabwe,RP Burl,M Shumba,OF Smith,0,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,RP Burl,M Shumba,OF Smith,0,0,,,,,,"",""
+ball,2,7.7,Zimbabwe,RP Burl,M Shumba,OF Smith,1,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,RP Burl,M Shumba,JO Holder,1,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,M Shumba,RP Burl,JO Holder,0,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,M Shumba,RP Burl,JO Holder,1,0,,,,,,"",""
+ball,2,8.4,Zimbabwe,RP Burl,M Shumba,JO Holder,4,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,RP Burl,M Shumba,JO Holder,0,0,,,,,,"",""
+ball,2,8.6,Zimbabwe,RP Burl,M Shumba,JO Holder,0,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,M Shumba,RP Burl,OF Smith,0,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,M Shumba,RP Burl,OF Smith,0,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,M Shumba,RP Burl,OF Smith,1,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,RP Burl,M Shumba,OF Smith,0,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,RP Burl,M Shumba,OF Smith,4,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,RP Burl,M Shumba,OF Smith,1,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,RP Burl,M Shumba,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,M Shumba,RP Burl,AJ Hosein,0,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,M Shumba,RP Burl,AJ Hosein,0,0,,,,,,"",""
+ball,2,10.4,Zimbabwe,M Shumba,RP Burl,AJ Hosein,0,0,,,,,,caught,M Shumba
+ball,2,10.5,Zimbabwe,LM Jongwe,RP Burl,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,RP Burl,LM Jongwe,AJ Hosein,0,1,1,,,,,"",""
+ball,2,10.7,Zimbabwe,RP Burl,LM Jongwe,AJ Hosein,0,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,LM Jongwe,RP Burl,OC McCoy,1,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,RP Burl,LM Jongwe,OC McCoy,0,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,RP Burl,LM Jongwe,OC McCoy,0,1,,,,1,,"",""
+ball,2,11.4,Zimbabwe,LM Jongwe,RP Burl,OC McCoy,1,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,RP Burl,LM Jongwe,OC McCoy,4,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,RP Burl,LM Jongwe,OC McCoy,0,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,LM Jongwe,RP Burl,AJ Hosein,0,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,LM Jongwe,RP Burl,AJ Hosein,0,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,LM Jongwe,RP Burl,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,RP Burl,LM Jongwe,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,LM Jongwe,RP Burl,AJ Hosein,0,0,,,,,,"",""
+ball,2,12.6,Zimbabwe,LM Jongwe,RP Burl,AJ Hosein,1,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,LM Jongwe,RP Burl,JO Holder,0,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,LM Jongwe,RP Burl,JO Holder,1,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,RP Burl,LM Jongwe,JO Holder,0,0,,,,,,lbw,RP Burl
+ball,2,13.4,Zimbabwe,R Ngarava,LM Jongwe,JO Holder,0,0,,,,,,"",""
+ball,2,13.5,Zimbabwe,R Ngarava,LM Jongwe,JO Holder,1,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,LM Jongwe,R Ngarava,JO Holder,1,0,,,,,,"",""
+ball,2,14.1,Zimbabwe,LM Jongwe,R Ngarava,AJ Hosein,6,0,,,,,,"",""
+ball,2,14.2,Zimbabwe,LM Jongwe,R Ngarava,AJ Hosein,0,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,LM Jongwe,R Ngarava,AJ Hosein,0,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,LM Jongwe,R Ngarava,AJ Hosein,0,0,,,,,,"",""
+ball,2,14.5,Zimbabwe,LM Jongwe,R Ngarava,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.6,Zimbabwe,R Ngarava,LM Jongwe,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.1,Zimbabwe,R Ngarava,LM Jongwe,AS Joseph,0,0,,,,,,"",""
+ball,2,15.2,Zimbabwe,R Ngarava,LM Jongwe,AS Joseph,0,0,,,,,,"",""
+ball,2,15.3,Zimbabwe,R Ngarava,LM Jongwe,AS Joseph,0,0,,,,,,bowled,R Ngarava
+ball,2,15.4,Zimbabwe,TL Chatara,LM Jongwe,AS Joseph,0,0,,,,,,"",""
+ball,2,15.5,Zimbabwe,TL Chatara,LM Jongwe,AS Joseph,0,0,,,,,,"",""
+ball,2,15.6,Zimbabwe,TL Chatara,LM Jongwe,AS Joseph,1,0,,,,,,"",""
+ball,2,16.1,Zimbabwe,TL Chatara,LM Jongwe,OF Smith,1,0,,,,,,"",""
+ball,2,16.2,Zimbabwe,LM Jongwe,TL Chatara,OF Smith,4,1,,1,,,,"",""
+ball,2,16.3,Zimbabwe,LM Jongwe,TL Chatara,OF Smith,2,0,,,,,,"",""
+ball,2,16.4,Zimbabwe,LM Jongwe,TL Chatara,OF Smith,4,0,,,,,,"",""
+ball,2,16.5,Zimbabwe,LM Jongwe,TL Chatara,OF Smith,4,0,,,,,,"",""
+ball,2,16.6,Zimbabwe,LM Jongwe,TL Chatara,OF Smith,1,0,,,,,,"",""
+ball,2,16.7,Zimbabwe,TL Chatara,LM Jongwe,OF Smith,0,0,,,,,,"",""
+ball,2,17.1,Zimbabwe,LM Jongwe,TL Chatara,AS Joseph,0,0,,,,,,bowled,LM Jongwe
+ball,2,17.2,Zimbabwe,B Muzarabani,TL Chatara,AS Joseph,0,0,,,,,,"",""
+ball,2,17.3,Zimbabwe,B Muzarabani,TL Chatara,AS Joseph,0,0,,,,,,"",""
+ball,2,17.4,Zimbabwe,B Muzarabani,TL Chatara,AS Joseph,0,0,,,,,,"",""
+ball,2,17.5,Zimbabwe,B Muzarabani,TL Chatara,AS Joseph,1,0,,,,,,"",""
+ball,2,17.6,Zimbabwe,TL Chatara,B Muzarabani,AS Joseph,1,0,,,,,,"",""
+ball,2,18.1,Zimbabwe,TL Chatara,B Muzarabani,JO Holder,0,0,,,,,,"",""
+ball,2,18.2,Zimbabwe,TL Chatara,B Muzarabani,JO Holder,0,0,,,,,,bowled,TL Chatara

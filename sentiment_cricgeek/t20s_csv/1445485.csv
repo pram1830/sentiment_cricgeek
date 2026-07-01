@@ -1,0 +1,362 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Norway
+info,gender,female
+info,season,2024
+info,date,2024/08/11
+info,event,Nordic Women T20 Cup
+info,match_number,8
+info,venue,"Ekeberg Cricket Ground 1, Oslo"
+info,city,Oslo
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,L Ostergaard
+info,winner,Denmark
+info,winner_runs,38
+info,player,Denmark,L Ostergaard
+info,player,Denmark,ML Karlsen
+info,player,Denmark,TS Erichsen
+info,player,Denmark,L Leisner
+info,player,Denmark,K Pandya
+info,player,Denmark,NP Dalgaard
+info,player,Denmark,C Ostergaard
+info,player,Denmark,K Brock-Nielsen
+info,player,Denmark,D Golechha
+info,player,Denmark,S Ostergaard
+info,player,Denmark,AB Slebsager
+info,player,Norway,Nayab Razwan
+info,player,Norway,Nayab Alizai
+info,player,Norway,Ayesha Hasan
+info,player,Norway,R Immadi
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,AS Gorad
+info,player,Norway,Mirab Razwan
+info,player,Norway,Alina Aslam
+info,player,Norway,Lopamudra
+info,player,Norway,P Agrawal
+info,player,Norway,Prachi Kumari
+info,registry,people,AB Slebsager,4ae7048b
+info,registry,people,AS Gorad,2c8d0953
+info,registry,people,Alina Aslam,fbffb752
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,C Ostergaard,e212b0fd
+info,registry,people,D Golechha,c2c12f2a
+info,registry,people,K Brock-Nielsen,c14ba87c
+info,registry,people,K Pandya,75b4acc8
+info,registry,people,L Leisner,ed614ded
+info,registry,people,L Ostergaard,3a5160d9
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,ML Karlsen,4302af3d
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,NP Dalgaard,40283617
+info,registry,people,Nayab Alizai,7861375e
+info,registry,people,Nayab Razwan,f12e21a0
+info,registry,people,P Agrawal,bb1fcd51
+info,registry,people,Prachi Kumari,dc4f97bf
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,S Ostergaard,a19e799b
+info,registry,people,TS Erichsen,9894e7b9
+ball,1,0.1,Denmark,L Ostergaard,ML Karlsen,Alina Aslam,0,2,2,,,,,"",""
+ball,1,0.2,Denmark,ML Karlsen,L Ostergaard,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.3,Denmark,ML Karlsen,L Ostergaard,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.4,Denmark,ML Karlsen,L Ostergaard,Alina Aslam,0,2,2,,,,,"",""
+ball,1,0.5,Denmark,L Ostergaard,ML Karlsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.6,Denmark,L Ostergaard,ML Karlsen,Alina Aslam,1,0,,,,,,"",""
+ball,1,0.7,Denmark,ML Karlsen,L Ostergaard,Alina Aslam,0,1,1,,,,,"",""
+ball,1,0.8,Denmark,ML Karlsen,L Ostergaard,Alina Aslam,0,0,,,,,,"",""
+ball,1,0.9,Denmark,ML Karlsen,L Ostergaard,Alina Aslam,0,2,2,,,,,"",""
+ball,1,0.10,Denmark,L Ostergaard,ML Karlsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,1.1,Denmark,ML Karlsen,L Ostergaard,R Immadi,4,0,,,,,,"",""
+ball,1,1.2,Denmark,ML Karlsen,L Ostergaard,R Immadi,0,0,,,,,,"",""
+ball,1,1.3,Denmark,ML Karlsen,L Ostergaard,R Immadi,0,0,,,,,,"",""
+ball,1,1.4,Denmark,ML Karlsen,L Ostergaard,R Immadi,1,0,,,,,,"",""
+ball,1,1.5,Denmark,L Ostergaard,ML Karlsen,R Immadi,0,0,,,,,,lbw,L Ostergaard
+ball,1,1.6,Denmark,TS Erichsen,ML Karlsen,R Immadi,0,0,,,,,,"",""
+ball,1,2.1,Denmark,ML Karlsen,TS Erichsen,Alina Aslam,0,1,1,,,,,"",""
+ball,1,2.2,Denmark,ML Karlsen,TS Erichsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.3,Denmark,ML Karlsen,TS Erichsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.4,Denmark,ML Karlsen,TS Erichsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.5,Denmark,ML Karlsen,TS Erichsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,2.6,Denmark,ML Karlsen,TS Erichsen,Alina Aslam,1,0,,,,,,"",""
+ball,1,2.7,Denmark,TS Erichsen,ML Karlsen,Alina Aslam,0,1,1,,,,,"",""
+ball,1,2.8,Denmark,TS Erichsen,ML Karlsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,3.1,Denmark,ML Karlsen,TS Erichsen,R Immadi,1,0,,,,,,"",""
+ball,1,3.2,Denmark,TS Erichsen,ML Karlsen,R Immadi,0,1,1,,,,,"",""
+ball,1,3.3,Denmark,TS Erichsen,ML Karlsen,R Immadi,0,0,,,,,,"",""
+ball,1,3.4,Denmark,TS Erichsen,ML Karlsen,R Immadi,0,0,,,,,,"",""
+ball,1,3.5,Denmark,TS Erichsen,ML Karlsen,R Immadi,1,0,,,,,,"",""
+ball,1,3.6,Denmark,ML Karlsen,TS Erichsen,R Immadi,0,0,,,,,,"",""
+ball,1,3.7,Denmark,ML Karlsen,TS Erichsen,R Immadi,1,0,,,,,,"",""
+ball,1,4.1,Denmark,ML Karlsen,TS Erichsen,Lopamudra,4,0,,,,,,"",""
+ball,1,4.2,Denmark,ML Karlsen,TS Erichsen,Lopamudra,0,2,2,,,,,"",""
+ball,1,4.3,Denmark,TS Erichsen,ML Karlsen,Lopamudra,0,1,1,,,,,"",""
+ball,1,4.4,Denmark,TS Erichsen,ML Karlsen,Lopamudra,4,0,,,,,,"",""
+ball,1,4.5,Denmark,TS Erichsen,ML Karlsen,Lopamudra,0,1,1,,,,,"",""
+ball,1,4.6,Denmark,TS Erichsen,ML Karlsen,Lopamudra,0,0,,,,,,"",""
+ball,1,4.7,Denmark,TS Erichsen,ML Karlsen,Lopamudra,0,1,1,,,,,"",""
+ball,1,4.8,Denmark,TS Erichsen,ML Karlsen,Lopamudra,0,0,,,,,,"",""
+ball,1,4.9,Denmark,TS Erichsen,ML Karlsen,Lopamudra,2,0,,,,,,"",""
+ball,1,4.10,Denmark,TS Erichsen,ML Karlsen,Lopamudra,0,0,,,,,,"",""
+ball,1,5.1,Denmark,ML Karlsen,TS Erichsen,P Agrawal,2,0,,,,,,"",""
+ball,1,5.2,Denmark,ML Karlsen,TS Erichsen,P Agrawal,0,0,,,,,,"",""
+ball,1,5.3,Denmark,ML Karlsen,TS Erichsen,P Agrawal,0,0,,,,,,"",""
+ball,1,5.4,Denmark,ML Karlsen,TS Erichsen,P Agrawal,2,0,,,,,,"",""
+ball,1,5.5,Denmark,ML Karlsen,TS Erichsen,P Agrawal,0,0,,,,,,"",""
+ball,1,5.6,Denmark,ML Karlsen,TS Erichsen,P Agrawal,0,0,,,,,,"",""
+ball,1,6.1,Denmark,TS Erichsen,ML Karlsen,Mirab Razwan,0,1,1,,,,,"",""
+ball,1,6.2,Denmark,TS Erichsen,ML Karlsen,Mirab Razwan,0,0,,,,,,"",""
+ball,1,6.3,Denmark,TS Erichsen,ML Karlsen,Mirab Razwan,4,0,,,,,,"",""
+ball,1,6.4,Denmark,TS Erichsen,ML Karlsen,Mirab Razwan,0,0,,,,,,"",""
+ball,1,6.5,Denmark,TS Erichsen,ML Karlsen,Mirab Razwan,0,0,,,,,,"",""
+ball,1,6.6,Denmark,TS Erichsen,ML Karlsen,Mirab Razwan,2,0,,,,,,"",""
+ball,1,6.7,Denmark,TS Erichsen,ML Karlsen,Mirab Razwan,0,1,,,1,,,"",""
+ball,1,7.1,Denmark,TS Erichsen,ML Karlsen,P Agrawal,0,0,,,,,,"",""
+ball,1,7.2,Denmark,TS Erichsen,ML Karlsen,P Agrawal,1,0,,,,,,"",""
+ball,1,7.3,Denmark,ML Karlsen,TS Erichsen,P Agrawal,1,0,,,,,,"",""
+ball,1,7.4,Denmark,TS Erichsen,ML Karlsen,P Agrawal,0,0,,,,,,"",""
+ball,1,7.5,Denmark,TS Erichsen,ML Karlsen,P Agrawal,0,2,2,,,,,"",""
+ball,1,7.6,Denmark,ML Karlsen,TS Erichsen,P Agrawal,0,0,,,,,,caught,ML Karlsen
+ball,1,7.7,Denmark,L Leisner,TS Erichsen,P Agrawal,1,0,,,,,,"",""
+ball,1,8.1,Denmark,L Leisner,TS Erichsen,Mirab Razwan,1,0,,,,,,"",""
+ball,1,8.2,Denmark,TS Erichsen,L Leisner,Mirab Razwan,1,0,,,,,,"",""
+ball,1,8.3,Denmark,L Leisner,TS Erichsen,Mirab Razwan,1,0,,,,,,"",""
+ball,1,8.4,Denmark,TS Erichsen,L Leisner,Mirab Razwan,1,0,,,,,,"",""
+ball,1,8.5,Denmark,L Leisner,TS Erichsen,Mirab Razwan,1,0,,,,,,"",""
+ball,1,8.6,Denmark,TS Erichsen,L Leisner,Mirab Razwan,0,0,,,,,,"",""
+ball,1,9.1,Denmark,L Leisner,TS Erichsen,Prachi Kumari,0,1,,1,,,,"",""
+ball,1,9.2,Denmark,L Leisner,TS Erichsen,Prachi Kumari,0,0,,,,,,"",""
+ball,1,9.3,Denmark,L Leisner,TS Erichsen,Prachi Kumari,0,0,,,,,,"",""
+ball,1,9.4,Denmark,L Leisner,TS Erichsen,Prachi Kumari,1,0,,,,,,"",""
+ball,1,9.5,Denmark,TS Erichsen,L Leisner,Prachi Kumari,2,0,,,,,,"",""
+ball,1,9.6,Denmark,TS Erichsen,L Leisner,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,9.7,Denmark,TS Erichsen,L Leisner,Prachi Kumari,1,0,,,,,,"",""
+ball,1,9.8,Denmark,L Leisner,TS Erichsen,Prachi Kumari,0,0,,,,,,"",""
+ball,1,10.1,Denmark,TS Erichsen,L Leisner,Mirab Razwan,0,0,,,,,,"",""
+ball,1,10.2,Denmark,TS Erichsen,L Leisner,Mirab Razwan,2,0,,,,,,"",""
+ball,1,10.3,Denmark,TS Erichsen,L Leisner,Mirab Razwan,4,0,,,,,,"",""
+ball,1,10.4,Denmark,TS Erichsen,L Leisner,Mirab Razwan,1,0,,,,,,"",""
+ball,1,10.5,Denmark,L Leisner,TS Erichsen,Mirab Razwan,0,0,,,,,,"",""
+ball,1,10.6,Denmark,L Leisner,TS Erichsen,Mirab Razwan,0,0,,,,,,"",""
+ball,1,11.1,Denmark,TS Erichsen,L Leisner,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,11.2,Denmark,TS Erichsen,L Leisner,Prachi Kumari,4,0,,,,,,"",""
+ball,1,11.3,Denmark,TS Erichsen,L Leisner,Prachi Kumari,1,0,,,,,,"",""
+ball,1,11.4,Denmark,L Leisner,TS Erichsen,Prachi Kumari,0,0,,,,,,"",""
+ball,1,11.5,Denmark,L Leisner,TS Erichsen,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,11.6,Denmark,L Leisner,TS Erichsen,Prachi Kumari,1,0,,,,,,"",""
+ball,1,11.7,Denmark,TS Erichsen,L Leisner,Prachi Kumari,1,0,,,,,,"",""
+ball,1,11.8,Denmark,L Leisner,TS Erichsen,Prachi Kumari,1,0,,,,,,"",""
+ball,1,12.1,Denmark,L Leisner,TS Erichsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,12.2,Denmark,L Leisner,TS Erichsen,Alina Aslam,0,1,1,,,,,"",""
+ball,1,12.3,Denmark,L Leisner,TS Erichsen,Alina Aslam,0,1,1,,,,,"",""
+ball,1,12.4,Denmark,L Leisner,TS Erichsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,12.5,Denmark,L Leisner,TS Erichsen,Alina Aslam,0,0,,,,,,"",""
+ball,1,12.6,Denmark,L Leisner,TS Erichsen,Alina Aslam,0,1,1,,,,,"",""
+ball,1,12.7,Denmark,L Leisner,TS Erichsen,Alina Aslam,1,0,,,,,,"",""
+ball,1,12.8,Denmark,TS Erichsen,L Leisner,Alina Aslam,4,0,,,,,,"",""
+ball,1,12.9,Denmark,TS Erichsen,L Leisner,Alina Aslam,0,1,1,,,,,"",""
+ball,1,12.10,Denmark,TS Erichsen,L Leisner,Alina Aslam,0,0,,,,,,lbw,TS Erichsen
+ball,1,13.1,Denmark,L Leisner,K Pandya,R Immadi,0,1,1,,,,,"",""
+ball,1,13.2,Denmark,L Leisner,K Pandya,R Immadi,1,0,,,,,,"",""
+ball,1,13.3,Denmark,K Pandya,L Leisner,R Immadi,2,0,,,,,,"",""
+ball,1,13.4,Denmark,K Pandya,L Leisner,R Immadi,0,0,,,,,,"",""
+ball,1,13.5,Denmark,K Pandya,L Leisner,R Immadi,1,0,,,,,,"",""
+ball,1,13.6,Denmark,L Leisner,K Pandya,R Immadi,0,1,1,,,,,"",""
+ball,1,13.7,Denmark,L Leisner,K Pandya,R Immadi,0,1,1,,,,,"",""
+ball,1,13.8,Denmark,L Leisner,K Pandya,R Immadi,0,0,,,,,,"",""
+ball,1,13.9,Denmark,L Leisner,K Pandya,R Immadi,2,0,,,,,,"",""
+ball,1,14.1,Denmark,K Pandya,L Leisner,Prachi Kumari,1,1,,1,,,,"",""
+ball,1,14.2,Denmark,L Leisner,K Pandya,Prachi Kumari,2,0,,,,,,"",""
+ball,1,14.3,Denmark,L Leisner,K Pandya,Prachi Kumari,0,1,1,,,,,"",""
+ball,1,14.4,Denmark,L Leisner,K Pandya,Prachi Kumari,4,0,,,,,,"",""
+ball,1,14.5,Denmark,L Leisner,K Pandya,Prachi Kumari,1,0,,,,,,"",""
+ball,1,14.6,Denmark,K Pandya,L Leisner,Prachi Kumari,1,0,,,,,,"",""
+ball,1,14.7,Denmark,L Leisner,K Pandya,Prachi Kumari,1,0,,,,,,"",""
+ball,1,14.8,Denmark,K Pandya,L Leisner,Prachi Kumari,1,0,,,,,,"",""
+ball,1,15.1,Denmark,K Pandya,L Leisner,P Agrawal,2,0,,,,,,"",""
+ball,1,15.2,Denmark,K Pandya,L Leisner,P Agrawal,2,0,,,,,,"",""
+ball,1,15.3,Denmark,K Pandya,L Leisner,P Agrawal,0,0,,,,,,bowled,K Pandya
+ball,1,15.4,Denmark,NP Dalgaard,L Leisner,P Agrawal,1,0,,,,,,"",""
+ball,1,15.5,Denmark,L Leisner,NP Dalgaard,P Agrawal,2,0,,,,,,"",""
+ball,1,15.6,Denmark,L Leisner,NP Dalgaard,P Agrawal,0,0,,,,,,"",""
+ball,1,16.1,Denmark,NP Dalgaard,L Leisner,Mirab Razwan,0,0,,,,,,"",""
+ball,1,16.2,Denmark,NP Dalgaard,L Leisner,Mirab Razwan,4,0,,,,,,"",""
+ball,1,16.3,Denmark,NP Dalgaard,L Leisner,Mirab Razwan,0,1,,,,1,,"",""
+ball,1,16.4,Denmark,L Leisner,NP Dalgaard,Mirab Razwan,1,0,,,,,,"",""
+ball,1,16.5,Denmark,NP Dalgaard,L Leisner,Mirab Razwan,1,0,,,,,,"",""
+ball,1,16.6,Denmark,L Leisner,NP Dalgaard,Mirab Razwan,0,0,,,,,,"",""
+ball,1,17.1,Denmark,NP Dalgaard,L Leisner,P Agrawal,4,0,,,,,,"",""
+ball,1,17.2,Denmark,NP Dalgaard,L Leisner,P Agrawal,0,0,,,,,,bowled,NP Dalgaard
+ball,1,17.3,Denmark,C Ostergaard,L Leisner,P Agrawal,0,0,,,,,,"",""
+ball,1,17.4,Denmark,C Ostergaard,L Leisner,P Agrawal,0,0,,,,,,"",""
+ball,1,17.5,Denmark,C Ostergaard,L Leisner,P Agrawal,1,0,,,,,,"",""
+ball,1,17.6,Denmark,L Leisner,C Ostergaard,P Agrawal,1,0,,,,,,"",""
+ball,1,18.1,Denmark,L Leisner,C Ostergaard,Alina Aslam,1,0,,,,,,"",""
+ball,1,18.2,Denmark,C Ostergaard,L Leisner,Alina Aslam,1,0,,,,,,"",""
+ball,1,18.3,Denmark,L Leisner,C Ostergaard,Alina Aslam,1,0,,,,,,"",""
+ball,1,18.4,Denmark,C Ostergaard,L Leisner,Alina Aslam,1,0,,,,,,"",""
+ball,1,18.5,Denmark,L Leisner,C Ostergaard,Alina Aslam,0,0,,,,,,"",""
+ball,1,18.6,Denmark,L Leisner,C Ostergaard,Alina Aslam,1,0,,,,,,"",""
+ball,1,19.1,Denmark,L Leisner,C Ostergaard,R Immadi,1,0,,,,,,"",""
+ball,1,19.2,Denmark,C Ostergaard,L Leisner,R Immadi,0,0,,,,,,"",""
+ball,1,19.3,Denmark,C Ostergaard,L Leisner,R Immadi,1,0,,,,,,"",""
+ball,1,19.4,Denmark,L Leisner,C Ostergaard,R Immadi,0,0,,,,,,"",""
+ball,1,19.5,Denmark,L Leisner,C Ostergaard,R Immadi,2,0,,,,,,"",""
+ball,1,19.6,Denmark,L Leisner,C Ostergaard,R Immadi,0,2,2,,,,,"",""
+ball,1,19.7,Denmark,C Ostergaard,L Leisner,R Immadi,0,1,1,,,,,"",""
+ball,1,19.8,Denmark,C Ostergaard,L Leisner,R Immadi,0,1,1,,,,,"",""
+ball,1,19.9,Denmark,C Ostergaard,L Leisner,R Immadi,4,0,,,,,,"",""
+ball,2,0.1,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,0.2,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,0.3,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,0.4,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,1,1,,,,,"",""
+ball,2,0.5,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,0.6,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,0.7,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,1,1,,,,,"",""
+ball,2,0.8,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,1.1,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,0,,,,,,"",""
+ball,2,1.2,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,2,0,,,,,,"",""
+ball,2,1.3,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,1,1,,,,,"",""
+ball,2,1.4,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,1,1,,,,,"",""
+ball,2,1.5,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,2,0,,,,,,"",""
+ball,2,1.6,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,1,1,,,,,"",""
+ball,2,1.7,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,1,1,,,,,"",""
+ball,2,1.8,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,0,,,,,,"",""
+ball,2,1.9,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,0,,,,,,"",""
+ball,2,1.10,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,1,1,,,,,"",""
+ball,2,1.11,Norway,Nayab Alizai,Nayab Razwan,C Ostergaard,0,0,,,,,,"",""
+ball,2,2.1,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,2.2,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,2.3,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,2.4,Norway,Nayab Razwan,Nayab Alizai,D Golechha,1,0,,,,,,"",""
+ball,2,2.5,Norway,Nayab Alizai,Nayab Razwan,D Golechha,0,0,,,,,,"",""
+ball,2,2.6,Norway,Nayab Alizai,Nayab Razwan,D Golechha,0,0,,,,,,"",""
+ball,2,3.1,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,3.2,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,3.3,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,3.4,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,3.5,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,3.6,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,1,0,,,,,,"",""
+ball,2,4.1,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,4.2,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,4.3,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,4.4,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,4.5,Norway,Nayab Razwan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,4.6,Norway,Nayab Razwan,Nayab Alizai,D Golechha,1,0,,,,,,"",""
+ball,2,5.1,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,1,0,,,,,,"",""
+ball,2,5.2,Norway,Nayab Alizai,Nayab Razwan,NP Dalgaard,1,0,,,,,,"",""
+ball,2,5.3,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,5.4,Norway,Nayab Razwan,Nayab Alizai,NP Dalgaard,0,0,,,,,,stumped,Nayab Razwan
+ball,2,5.5,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,5.6,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,6.1,Norway,Nayab Alizai,Ayesha Hasan,D Golechha,1,0,,,,,,"",""
+ball,2,6.2,Norway,Ayesha Hasan,Nayab Alizai,D Golechha,0,0,,,,,,"",""
+ball,2,6.3,Norway,Ayesha Hasan,Nayab Alizai,D Golechha,1,0,,,,,,"",""
+ball,2,6.4,Norway,Nayab Alizai,Ayesha Hasan,D Golechha,4,0,,,,,,"",""
+ball,2,6.5,Norway,Nayab Alizai,Ayesha Hasan,D Golechha,1,0,,,,,,"",""
+ball,2,6.6,Norway,Ayesha Hasan,Nayab Alizai,D Golechha,1,0,,,,,,"",""
+ball,2,7.1,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,4,0,,,,,,"",""
+ball,2,7.2,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,1,1,,,,,"",""
+ball,2,7.3,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,7.4,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,1,0,,,,,,"",""
+ball,2,7.5,Norway,Nayab Alizai,Ayesha Hasan,NP Dalgaard,1,0,,,,,,"",""
+ball,2,7.6,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,1,1,,,,,"",""
+ball,2,7.7,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,7.8,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,0,,,,,,"",""
+ball,2,8.1,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,0,1,1,,,,,"",""
+ball,2,8.2,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,0,1,1,,,,,"",""
+ball,2,8.3,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,0,0,,,,,,"",""
+ball,2,8.4,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,0,0,,,,,,"",""
+ball,2,8.5,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,1,0,,,,,,"",""
+ball,2,8.6,Norway,Ayesha Hasan,Nayab Alizai,L Ostergaard,0,0,,,,,,"",""
+ball,2,8.7,Norway,Ayesha Hasan,Nayab Alizai,L Ostergaard,1,0,,,,,,"",""
+ball,2,8.8,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,0,1,1,,,,,"",""
+ball,2,8.9,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,2,0,,,,,,"",""
+ball,2,9.1,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,0,1,,1,,,,"",""
+ball,2,9.2,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,1,0,,,,,,"",""
+ball,2,9.3,Norway,Nayab Alizai,Ayesha Hasan,NP Dalgaard,2,0,,,,,,"",""
+ball,2,9.4,Norway,Nayab Alizai,Ayesha Hasan,NP Dalgaard,1,0,,,,,,"",""
+ball,2,9.5,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,1,0,,,,,,"",""
+ball,2,9.6,Norway,Nayab Alizai,Ayesha Hasan,NP Dalgaard,1,0,,,,,,"",""
+ball,2,9.7,Norway,Ayesha Hasan,Nayab Alizai,NP Dalgaard,1,0,,,,,,"",""
+ball,2,10.1,Norway,Ayesha Hasan,Nayab Alizai,L Ostergaard,0,0,,,,,,"",""
+ball,2,10.2,Norway,Ayesha Hasan,Nayab Alizai,L Ostergaard,1,0,,,,,,"",""
+ball,2,10.3,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,0,0,,,,,,"",""
+ball,2,10.4,Norway,Nayab Alizai,Ayesha Hasan,L Ostergaard,1,0,,,,,,"",""
+ball,2,10.5,Norway,Ayesha Hasan,Nayab Alizai,L Ostergaard,0,0,,,,,,caught,Ayesha Hasan
+ball,2,10.6,Norway,R Immadi,Nayab Alizai,L Ostergaard,2,0,,,,,,"",""
+ball,2,11.1,Norway,Nayab Alizai,R Immadi,S Ostergaard,0,1,1,,,,,"",""
+ball,2,11.2,Norway,Nayab Alizai,R Immadi,S Ostergaard,0,0,,,,,,"",""
+ball,2,11.3,Norway,Nayab Alizai,R Immadi,S Ostergaard,0,1,1,,,,,run out,R Immadi
+ball,2,11.4,Norway,Bijeyata Kumari,Nayab Alizai,S Ostergaard,0,1,1,,,,,"",""
+ball,2,11.5,Norway,Bijeyata Kumari,Nayab Alizai,S Ostergaard,1,0,,,,,,"",""
+ball,2,11.6,Norway,Nayab Alizai,Bijeyata Kumari,S Ostergaard,0,0,,,,,,run out,Bijeyata Kumari
+ball,2,11.7,Norway,AS Gorad,Nayab Alizai,S Ostergaard,4,0,,,,,,"",""
+ball,2,11.8,Norway,AS Gorad,Nayab Alizai,S Ostergaard,1,0,,,,,,"",""
+ball,2,11.9,Norway,Nayab Alizai,AS Gorad,S Ostergaard,2,0,,,,,,"",""
+ball,2,12.1,Norway,AS Gorad,Nayab Alizai,L Ostergaard,1,0,,,,,,"",""
+ball,2,12.2,Norway,Nayab Alizai,AS Gorad,L Ostergaard,2,0,,,,,,"",""
+ball,2,12.3,Norway,Nayab Alizai,AS Gorad,L Ostergaard,0,0,,,,,,"",""
+ball,2,12.4,Norway,Nayab Alizai,AS Gorad,L Ostergaard,0,0,,,,,,"",""
+ball,2,12.5,Norway,Nayab Alizai,AS Gorad,L Ostergaard,0,1,1,,,,,"",""
+ball,2,12.6,Norway,Nayab Alizai,AS Gorad,L Ostergaard,1,0,,,,,,"",""
+ball,2,12.7,Norway,AS Gorad,Nayab Alizai,L Ostergaard,0,0,,,,,,"",""
+ball,2,13.1,Norway,Nayab Alizai,AS Gorad,S Ostergaard,0,1,1,,,,,"",""
+ball,2,13.2,Norway,Nayab Alizai,AS Gorad,S Ostergaard,0,1,1,,,,,"",""
+ball,2,13.3,Norway,Nayab Alizai,AS Gorad,S Ostergaard,0,1,,1,,,,"",""
+ball,2,13.4,Norway,Nayab Alizai,AS Gorad,S Ostergaard,1,0,,,,,,"",""
+ball,2,13.5,Norway,AS Gorad,Nayab Alizai,S Ostergaard,1,0,,,,,,"",""
+ball,2,13.6,Norway,Nayab Alizai,AS Gorad,S Ostergaard,1,0,,,,,,"",""
+ball,2,13.7,Norway,AS Gorad,Nayab Alizai,S Ostergaard,0,0,,,,,,bowled,AS Gorad
+ball,2,13.8,Norway,Mirab Razwan,Nayab Alizai,S Ostergaard,0,1,1,,,,,"",""
+ball,2,13.9,Norway,Mirab Razwan,Nayab Alizai,S Ostergaard,0,1,,1,,,,"",""
+ball,2,13.10,Norway,Mirab Razwan,Nayab Alizai,S Ostergaard,2,0,,,,,,"",""
+ball,2,13.11,Norway,Mirab Razwan,Nayab Alizai,S Ostergaard,0,0,,,,,,"",""
+ball,2,14.1,Norway,Nayab Alizai,Mirab Razwan,L Ostergaard,0,0,,,,,,"",""
+ball,2,14.2,Norway,Nayab Alizai,Mirab Razwan,L Ostergaard,0,0,,,,,,run out,Nayab Alizai
+ball,2,14.3,Norway,Mirab Razwan,Alina Aslam,L Ostergaard,0,0,,,,,,"",""
+ball,2,14.4,Norway,Mirab Razwan,Alina Aslam,L Ostergaard,0,0,,,,,,"",""
+ball,2,14.5,Norway,Mirab Razwan,Alina Aslam,L Ostergaard,1,0,,,,,,"",""
+ball,2,14.6,Norway,Mirab Razwan,Alina Aslam,L Ostergaard,0,0,,,,,,"",""
+ball,2,15.1,Norway,Alina Aslam,Mirab Razwan,S Ostergaard,0,0,,,,,,"",""
+ball,2,15.2,Norway,Alina Aslam,Mirab Razwan,S Ostergaard,0,0,,,,,,"",""
+ball,2,15.3,Norway,Alina Aslam,Mirab Razwan,S Ostergaard,1,0,,,,,,"",""
+ball,2,15.4,Norway,Mirab Razwan,Alina Aslam,S Ostergaard,0,2,2,,,,,"",""
+ball,2,15.5,Norway,Alina Aslam,Mirab Razwan,S Ostergaard,2,0,,,,,,"",""
+ball,2,15.6,Norway,Alina Aslam,Mirab Razwan,S Ostergaard,0,0,,,,,,"",""
+ball,2,15.7,Norway,Alina Aslam,Mirab Razwan,S Ostergaard,1,0,,,,,,"",""
+ball,2,16.1,Norway,Alina Aslam,Mirab Razwan,AB Slebsager,0,1,1,,,,,"",""
+ball,2,16.2,Norway,Alina Aslam,Mirab Razwan,AB Slebsager,0,0,,,,,,"",""
+ball,2,16.3,Norway,Alina Aslam,Mirab Razwan,AB Slebsager,1,0,,,,,,"",""
+ball,2,16.4,Norway,Mirab Razwan,Alina Aslam,AB Slebsager,1,0,,,,,,"",""
+ball,2,16.5,Norway,Alina Aslam,Mirab Razwan,AB Slebsager,1,0,,,,,,"",""
+ball,2,16.6,Norway,Mirab Razwan,Alina Aslam,AB Slebsager,0,1,1,,,,,"",""
+ball,2,16.7,Norway,Mirab Razwan,Alina Aslam,AB Slebsager,0,0,,,,,,"",""
+ball,2,16.8,Norway,Mirab Razwan,Alina Aslam,AB Slebsager,1,0,,,,,,"",""
+ball,2,17.1,Norway,Mirab Razwan,Alina Aslam,K Brock-Nielsen,0,0,,,,,,"",""
+ball,2,17.2,Norway,Mirab Razwan,Alina Aslam,K Brock-Nielsen,3,0,,,,,,"",""
+ball,2,17.3,Norway,Alina Aslam,Mirab Razwan,K Brock-Nielsen,1,0,,,,,,"",""
+ball,2,17.4,Norway,Mirab Razwan,Alina Aslam,K Brock-Nielsen,0,0,,,,,,bowled,Mirab Razwan
+ball,2,17.5,Norway,Lopamudra,Alina Aslam,K Brock-Nielsen,1,0,,,,,,"",""
+ball,2,17.6,Norway,Alina Aslam,Lopamudra,K Brock-Nielsen,0,1,,1,,,,"",""
+ball,2,17.7,Norway,Alina Aslam,Lopamudra,K Brock-Nielsen,0,0,,,,,,"",""
+ball,2,18.1,Norway,Lopamudra,Alina Aslam,AB Slebsager,0,0,,,,,,"",""
+ball,2,18.2,Norway,Lopamudra,Alina Aslam,AB Slebsager,0,0,,,,,,bowled,Lopamudra
+ball,2,18.3,Norway,P Agrawal,Alina Aslam,AB Slebsager,1,0,,,,,,"",""
+ball,2,18.4,Norway,Alina Aslam,P Agrawal,AB Slebsager,0,0,,,,,,"",""
+ball,2,18.5,Norway,Alina Aslam,P Agrawal,AB Slebsager,0,1,1,,,,,"",""
+ball,2,18.6,Norway,Alina Aslam,P Agrawal,AB Slebsager,0,0,,,,,,"",""
+ball,2,18.7,Norway,Alina Aslam,P Agrawal,AB Slebsager,0,1,,1,,,,"",""
+ball,2,18.8,Norway,Alina Aslam,P Agrawal,AB Slebsager,0,0,,,,,,"",""
+ball,2,19.1,Norway,P Agrawal,Alina Aslam,K Brock-Nielsen,0,0,,,,,,"",""
+ball,2,19.2,Norway,P Agrawal,Alina Aslam,K Brock-Nielsen,0,1,,1,,,,"",""
+ball,2,19.3,Norway,P Agrawal,Alina Aslam,K Brock-Nielsen,1,0,,,,,,"",""
+ball,2,19.4,Norway,Alina Aslam,P Agrawal,K Brock-Nielsen,0,1,,1,,,,"",""
+ball,2,19.5,Norway,Alina Aslam,P Agrawal,K Brock-Nielsen,0,0,,,,,,"",""
+ball,2,19.6,Norway,Alina Aslam,P Agrawal,K Brock-Nielsen,2,0,,,,,,"",""
+ball,2,19.7,Norway,Alina Aslam,P Agrawal,K Brock-Nielsen,0,1,1,,,,,"",""
+ball,2,19.8,Norway,Alina Aslam,P Agrawal,K Brock-Nielsen,0,1,1,,,,,"",""
+ball,2,19.9,Norway,Alina Aslam,P Agrawal,K Brock-Nielsen,1,0,,,,,,"",""
+ball,2,19.10,Norway,P Agrawal,Alina Aslam,K Brock-Nielsen,1,1,,1,,,,"",""
+ball,2,19.11,Norway,Alina Aslam,P Agrawal,K Brock-Nielsen,1,0,,,,,,"",""

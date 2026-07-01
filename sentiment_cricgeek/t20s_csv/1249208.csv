@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,Sri Lanka
+info,gender,male
+info,season,2021
+info,date,2021/06/26
+info,event,Sri Lanka tour of England
+info,match_number,3
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,DJ Malan
+info,umpire,AG Wharf
+info,umpire,MJ Saggers
+info,reserve_umpire,M Burns
+info,tv_umpire,DJ Millns
+info,match_referee,Phil Whitticase
+info,winner,England
+info,winner_runs,89
+info,player,England,JM Bairstow
+info,player,England,DJ Malan
+info,player,England,LS Livingstone
+info,player,England,SW Billings
+info,player,England,EJG Morgan
+info,player,England,MM Ali
+info,player,England,SM Curran
+info,player,England,CJ Jordan
+info,player,England,CR Woakes
+info,player,England,DJ Willey
+info,player,England,AU Rashid
+info,player,Sri Lanka,MD Gunathilaka
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,BOP Fernando
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,I Udana
+info,player,Sri Lanka,B Fernando
+info,player,Sri Lanka,PADLR Sandakan
+info,player,Sri Lanka,PVD Chameera
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BOP Fernando,1d048deb
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Willey,7f048519
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SW Billings,c16d4035
+ball,1,0.1,England,JM Bairstow,DJ Malan,PVD Chameera,0,0,,,,,,"",""
+ball,1,0.2,England,JM Bairstow,DJ Malan,PVD Chameera,1,0,,,,,,"",""
+ball,1,0.3,England,DJ Malan,JM Bairstow,PVD Chameera,1,0,,,,,,"",""
+ball,1,0.4,England,JM Bairstow,DJ Malan,PVD Chameera,0,0,,,,,,"",""
+ball,1,0.5,England,JM Bairstow,DJ Malan,PVD Chameera,0,0,,,,,,"",""
+ball,1,0.6,England,JM Bairstow,DJ Malan,PVD Chameera,1,0,,,,,,"",""
+ball,1,1.1,England,JM Bairstow,DJ Malan,B Fernando,0,0,,,,,,"",""
+ball,1,1.2,England,JM Bairstow,DJ Malan,B Fernando,0,0,,,,,,"",""
+ball,1,1.3,England,JM Bairstow,DJ Malan,B Fernando,2,0,,,,,,"",""
+ball,1,1.4,England,JM Bairstow,DJ Malan,B Fernando,1,0,,,,,,"",""
+ball,1,1.5,England,DJ Malan,JM Bairstow,B Fernando,0,0,,,,,,"",""
+ball,1,1.6,England,DJ Malan,JM Bairstow,B Fernando,0,0,,,,,,"",""
+ball,1,2.1,England,JM Bairstow,DJ Malan,PVD Chameera,4,0,,,,,,"",""
+ball,1,2.2,England,JM Bairstow,DJ Malan,PVD Chameera,1,0,,,,,,"",""
+ball,1,2.3,England,DJ Malan,JM Bairstow,PVD Chameera,1,0,,,,,,"",""
+ball,1,2.4,England,JM Bairstow,DJ Malan,PVD Chameera,0,0,,,,,,"",""
+ball,1,2.5,England,JM Bairstow,DJ Malan,PVD Chameera,1,0,,,,,,"",""
+ball,1,2.6,England,DJ Malan,JM Bairstow,PVD Chameera,1,0,,,,,,"",""
+ball,1,3.1,England,DJ Malan,JM Bairstow,B Fernando,6,0,,,,,,"",""
+ball,1,3.2,England,DJ Malan,JM Bairstow,B Fernando,1,0,,,,,,"",""
+ball,1,3.3,England,JM Bairstow,DJ Malan,B Fernando,1,0,,,,,,"",""
+ball,1,3.4,England,DJ Malan,JM Bairstow,B Fernando,0,0,,,,,,"",""
+ball,1,3.5,England,DJ Malan,JM Bairstow,B Fernando,0,0,,,,,,"",""
+ball,1,3.6,England,DJ Malan,JM Bairstow,B Fernando,0,0,,,,,,"",""
+ball,1,4.1,England,JM Bairstow,DJ Malan,I Udana,0,1,1,,,,,"",""
+ball,1,4.2,England,JM Bairstow,DJ Malan,I Udana,4,0,,,,,,"",""
+ball,1,4.3,England,JM Bairstow,DJ Malan,I Udana,0,5,5,,,,,"",""
+ball,1,4.4,England,JM Bairstow,DJ Malan,I Udana,0,0,,,,,,"",""
+ball,1,4.5,England,JM Bairstow,DJ Malan,I Udana,0,0,,,,,,"",""
+ball,1,4.6,England,JM Bairstow,DJ Malan,I Udana,1,0,,,,,,"",""
+ball,1,4.7,England,DJ Malan,JM Bairstow,I Udana,0,1,1,,,,,"",""
+ball,1,4.8,England,DJ Malan,JM Bairstow,I Udana,0,1,1,,,,,"",""
+ball,1,4.9,England,DJ Malan,JM Bairstow,I Udana,4,0,,,,,,"",""
+ball,1,4.10,England,DJ Malan,JM Bairstow,I Udana,0,0,,,,,,"",""
+ball,1,5.1,England,JM Bairstow,DJ Malan,PADLR Sandakan,4,0,,,,,,"",""
+ball,1,5.2,England,JM Bairstow,DJ Malan,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,5.3,England,JM Bairstow,DJ Malan,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,5.4,England,JM Bairstow,DJ Malan,PADLR Sandakan,4,0,,,,,,"",""
+ball,1,5.5,England,JM Bairstow,DJ Malan,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,5.6,England,JM Bairstow,DJ Malan,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,6.1,England,JM Bairstow,DJ Malan,PWH de Silva,2,0,,,,,,"",""
+ball,1,6.2,England,JM Bairstow,DJ Malan,PWH de Silva,1,0,,,,,,"",""
+ball,1,6.3,England,DJ Malan,JM Bairstow,PWH de Silva,1,0,,,,,,"",""
+ball,1,6.4,England,JM Bairstow,DJ Malan,PWH de Silva,0,0,,,,,,"",""
+ball,1,6.5,England,JM Bairstow,DJ Malan,PWH de Silva,1,0,,,,,,"",""
+ball,1,6.6,England,DJ Malan,JM Bairstow,PWH de Silva,2,0,,,,,,"",""
+ball,1,7.1,England,JM Bairstow,DJ Malan,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,7.2,England,JM Bairstow,DJ Malan,PADLR Sandakan,2,0,,,,,,"",""
+ball,1,7.3,England,JM Bairstow,DJ Malan,PADLR Sandakan,2,0,,,,,,"",""
+ball,1,7.4,England,JM Bairstow,DJ Malan,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,7.5,England,DJ Malan,JM Bairstow,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,7.6,England,JM Bairstow,DJ Malan,PADLR Sandakan,0,1,,,,1,,"",""
+ball,1,8.1,England,JM Bairstow,DJ Malan,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.2,England,DJ Malan,JM Bairstow,PWH de Silva,4,0,,,,,,"",""
+ball,1,8.3,England,DJ Malan,JM Bairstow,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.4,England,JM Bairstow,DJ Malan,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.5,England,DJ Malan,JM Bairstow,PWH de Silva,6,0,,,,,,"",""
+ball,1,8.6,England,DJ Malan,JM Bairstow,PWH de Silva,4,0,,,,,,"",""
+ball,1,9.1,England,JM Bairstow,DJ Malan,I Udana,6,0,,,,,,"",""
+ball,1,9.2,England,JM Bairstow,DJ Malan,I Udana,2,0,,,,,,"",""
+ball,1,9.3,England,JM Bairstow,DJ Malan,I Udana,0,0,,,,,,"",""
+ball,1,9.4,England,JM Bairstow,DJ Malan,I Udana,0,0,,,,,,"",""
+ball,1,9.5,England,JM Bairstow,DJ Malan,I Udana,2,0,,,,,,"",""
+ball,1,9.6,England,JM Bairstow,DJ Malan,I Udana,4,0,,,,,,"",""
+ball,1,10.1,England,DJ Malan,JM Bairstow,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,10.2,England,DJ Malan,JM Bairstow,PADLR Sandakan,4,0,,,,,,"",""
+ball,1,10.3,England,DJ Malan,JM Bairstow,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,10.4,England,DJ Malan,JM Bairstow,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,10.5,England,DJ Malan,JM Bairstow,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,10.6,England,JM Bairstow,DJ Malan,PADLR Sandakan,0,0,,,,,,"",""
+ball,1,11.1,England,DJ Malan,JM Bairstow,I Udana,4,0,,,,,,"",""
+ball,1,11.2,England,DJ Malan,JM Bairstow,I Udana,2,0,,,,,,"",""
+ball,1,11.3,England,DJ Malan,JM Bairstow,I Udana,1,0,,,,,,"",""
+ball,1,11.4,England,JM Bairstow,DJ Malan,I Udana,0,0,,,,,,bowled,JM Bairstow
+ball,1,11.5,England,LS Livingstone,DJ Malan,I Udana,0,0,,,,,,"",""
+ball,1,11.6,England,LS Livingstone,DJ Malan,I Udana,1,0,,,,,,"",""
+ball,1,12.1,England,LS Livingstone,DJ Malan,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,12.2,England,DJ Malan,LS Livingstone,PADLR Sandakan,2,0,,,,,,"",""
+ball,1,12.3,England,DJ Malan,LS Livingstone,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,12.4,England,LS Livingstone,DJ Malan,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,12.5,England,DJ Malan,LS Livingstone,PADLR Sandakan,2,0,,,,,,"",""
+ball,1,12.6,England,DJ Malan,LS Livingstone,PADLR Sandakan,1,0,,,,,,"",""
+ball,1,13.1,England,DJ Malan,LS Livingstone,B Fernando,0,0,,,,,,"",""
+ball,1,13.2,England,DJ Malan,LS Livingstone,B Fernando,1,0,,,,,,"",""
+ball,1,13.3,England,LS Livingstone,DJ Malan,B Fernando,4,0,,,,,,"",""
+ball,1,13.4,England,LS Livingstone,DJ Malan,B Fernando,1,0,,,,,,"",""
+ball,1,13.5,England,DJ Malan,LS Livingstone,B Fernando,1,0,,,,,,"",""
+ball,1,13.6,England,LS Livingstone,DJ Malan,B Fernando,4,0,,,,,,"",""
+ball,1,14.1,England,DJ Malan,LS Livingstone,PWH de Silva,6,0,,,,,,"",""
+ball,1,14.2,England,DJ Malan,LS Livingstone,PWH de Silva,3,0,,,,,,"",""
+ball,1,14.3,England,LS Livingstone,DJ Malan,PWH de Silva,1,0,,,,,,"",""
+ball,1,14.4,England,DJ Malan,LS Livingstone,PWH de Silva,6,0,,,,,,"",""
+ball,1,14.5,England,DJ Malan,LS Livingstone,PWH de Silva,1,0,,,,,,"",""
+ball,1,14.6,England,LS Livingstone,DJ Malan,PWH de Silva,1,0,,,,,,"",""
+ball,1,15.1,England,LS Livingstone,DJ Malan,B Fernando,0,0,,,,,,caught,LS Livingstone
+ball,1,15.2,England,SW Billings,DJ Malan,B Fernando,1,0,,,,,,"",""
+ball,1,15.3,England,DJ Malan,SW Billings,B Fernando,1,0,,,,,,"",""
+ball,1,15.4,England,SW Billings,DJ Malan,B Fernando,1,0,,,,,,"",""
+ball,1,15.5,England,DJ Malan,SW Billings,B Fernando,0,0,,,,,,"",""
+ball,1,15.6,England,DJ Malan,SW Billings,B Fernando,1,0,,,,,,"",""
+ball,1,16.1,England,DJ Malan,SW Billings,PVD Chameera,0,1,,,,1,,"",""
+ball,1,16.2,England,SW Billings,DJ Malan,PVD Chameera,0,0,,,,,,caught,SW Billings
+ball,1,16.3,England,DJ Malan,EJG Morgan,PVD Chameera,1,0,,,,,,"",""
+ball,1,16.4,England,EJG Morgan,DJ Malan,PVD Chameera,1,0,,,,,,"",""
+ball,1,16.5,England,DJ Malan,EJG Morgan,PVD Chameera,1,0,,,,,,"",""
+ball,1,16.6,England,EJG Morgan,DJ Malan,PVD Chameera,0,0,,,,,,caught,EJG Morgan
+ball,1,17.1,England,MM Ali,DJ Malan,MD Shanaka,1,0,,,,,,"",""
+ball,1,17.2,England,DJ Malan,MM Ali,MD Shanaka,1,0,,,,,,"",""
+ball,1,17.3,England,MM Ali,DJ Malan,MD Shanaka,0,1,1,,,,,"",""
+ball,1,17.4,England,MM Ali,DJ Malan,MD Shanaka,0,0,,,,,,"",""
+ball,1,17.5,England,MM Ali,DJ Malan,MD Shanaka,4,0,,,,,,"",""
+ball,1,17.6,England,MM Ali,DJ Malan,MD Shanaka,0,0,,,,,,"",""
+ball,1,17.7,England,MM Ali,DJ Malan,MD Shanaka,2,0,,,,,,"",""
+ball,1,18.1,England,DJ Malan,MM Ali,PVD Chameera,2,0,,,,,,"",""
+ball,1,18.2,England,DJ Malan,MM Ali,PVD Chameera,0,0,,,,,,"",""
+ball,1,18.3,England,DJ Malan,MM Ali,PVD Chameera,0,0,,,,,,caught,DJ Malan
+ball,1,18.4,England,MM Ali,SM Curran,PVD Chameera,0,0,,,,,,"",""
+ball,1,18.5,England,MM Ali,SM Curran,PVD Chameera,0,0,,,,,,caught,MM Ali
+ball,1,18.6,England,SM Curran,CJ Jordan,PVD Chameera,1,0,,,,,,"",""
+ball,1,19.1,England,SM Curran,CJ Jordan,I Udana,4,0,,,,,,"",""
+ball,1,19.2,England,SM Curran,CJ Jordan,I Udana,2,0,,,,,,"",""
+ball,1,19.3,England,SM Curran,CJ Jordan,I Udana,2,0,,,,,,"",""
+ball,1,19.4,England,SM Curran,CJ Jordan,I Udana,0,1,,,,1,,"",""
+ball,1,19.5,England,CJ Jordan,SM Curran,I Udana,4,0,,,,,,"",""
+ball,1,19.6,England,CJ Jordan,SM Curran,I Udana,4,0,,,,,,"",""
+ball,2,0.1,Sri Lanka,MD Gunathilaka,MDKJ Perera,DJ Willey,4,0,,,,,,"",""
+ball,2,0.2,Sri Lanka,MD Gunathilaka,MDKJ Perera,DJ Willey,0,0,,,,,,caught,MD Gunathilaka
+ball,2,0.3,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,2,0,,,,,,"",""
+ball,2,0.4,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,0,3,3,,,,,"",""
+ball,2,0.5,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,2,0,,,,,,"",""
+ball,2,0.6,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,0,0,,,,,,"",""
+ball,2,0.7,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,0,1,,,,1,,"",""
+ball,2,1.1,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,1.2,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,1.3,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,1.4,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,1.5,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,1.6,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,2,0,,,,,,"",""
+ball,2,2.1,Sri Lanka,MDKJ Perera,BOP Fernando,DJ Willey,0,0,,,,,,"",""
+ball,2,2.2,Sri Lanka,MDKJ Perera,BOP Fernando,DJ Willey,0,1,,,,1,,"",""
+ball,2,2.3,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,0,0,,,,,,"",""
+ball,2,2.4,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,2,0,,,,,,"",""
+ball,2,2.5,Sri Lanka,BOP Fernando,MDKJ Perera,DJ Willey,1,0,,,,,,"",""
+ball,2,2.6,Sri Lanka,MDKJ Perera,BOP Fernando,DJ Willey,2,0,,,,,,"",""
+ball,2,3.1,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,1,0,,,,,,"",""
+ball,2,3.2,Sri Lanka,MDKJ Perera,BOP Fernando,CR Woakes,0,0,,,,,,"",""
+ball,2,3.3,Sri Lanka,MDKJ Perera,BOP Fernando,CR Woakes,1,0,,,,,,"",""
+ball,2,3.4,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,3.5,Sri Lanka,BOP Fernando,MDKJ Perera,CR Woakes,1,0,,,,,,"",""
+ball,2,3.6,Sri Lanka,MDKJ Perera,BOP Fernando,CR Woakes,0,0,,,,,,caught,MDKJ Perera
+ball,2,4.1,Sri Lanka,BKG Mendis,BOP Fernando,DJ Willey,0,0,,,,,,"",""
+ball,2,4.2,Sri Lanka,BKG Mendis,BOP Fernando,DJ Willey,0,0,,,,,,"",""
+ball,2,4.3,Sri Lanka,BKG Mendis,BOP Fernando,DJ Willey,6,0,,,,,,"",""
+ball,2,4.4,Sri Lanka,BKG Mendis,BOP Fernando,DJ Willey,0,0,,,,,,caught,BKG Mendis
+ball,2,4.5,Sri Lanka,N Dickwella,BOP Fernando,DJ Willey,0,0,,,,,,"",""
+ball,2,4.6,Sri Lanka,N Dickwella,BOP Fernando,DJ Willey,4,0,,,,,,"",""
+ball,2,5.1,Sri Lanka,BOP Fernando,N Dickwella,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.2,Sri Lanka,BOP Fernando,N Dickwella,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.3,Sri Lanka,BOP Fernando,N Dickwella,CJ Jordan,6,0,,,,,,"",""
+ball,2,5.4,Sri Lanka,BOP Fernando,N Dickwella,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.5,Sri Lanka,BOP Fernando,N Dickwella,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.6,Sri Lanka,BOP Fernando,N Dickwella,CJ Jordan,0,0,,,,,,"",""
+ball,2,6.1,Sri Lanka,N Dickwella,BOP Fernando,SM Curran,0,1,,,,1,,"",""
+ball,2,6.2,Sri Lanka,BOP Fernando,N Dickwella,SM Curran,1,0,,,,,,"",""
+ball,2,6.3,Sri Lanka,N Dickwella,BOP Fernando,SM Curran,0,0,,,,,,"",""
+ball,2,6.4,Sri Lanka,N Dickwella,BOP Fernando,SM Curran,1,0,,,,,,"",""
+ball,2,6.5,Sri Lanka,BOP Fernando,N Dickwella,SM Curran,0,1,1,,,,,"",""
+ball,2,6.6,Sri Lanka,BOP Fernando,N Dickwella,SM Curran,0,0,,,,,,"",""
+ball,2,6.7,Sri Lanka,BOP Fernando,N Dickwella,SM Curran,0,0,,,,,,"",""
+ball,2,7.1,Sri Lanka,N Dickwella,BOP Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,7.2,Sri Lanka,N Dickwella,BOP Fernando,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.3,Sri Lanka,BOP Fernando,N Dickwella,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.4,Sri Lanka,N Dickwella,BOP Fernando,CJ Jordan,0,1,1,,,,,"",""
+ball,2,7.5,Sri Lanka,N Dickwella,BOP Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,7.6,Sri Lanka,N Dickwella,BOP Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,7.7,Sri Lanka,N Dickwella,BOP Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,8.1,Sri Lanka,BOP Fernando,N Dickwella,SM Curran,0,0,,,,,,caught,BOP Fernando
+ball,2,8.2,Sri Lanka,N Dickwella,MD Shanaka,SM Curran,1,0,,,,,,"",""
+ball,2,8.3,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,0,1,,,,1,,"",""
+ball,2,8.4,Sri Lanka,N Dickwella,MD Shanaka,SM Curran,1,0,,,,,,"",""
+ball,2,8.5,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,0,0,,,,,,"",""
+ball,2,8.6,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,0,0,,,,,,"",""
+ball,2,9.1,Sri Lanka,N Dickwella,MD Shanaka,CR Woakes,0,1,,,,1,,"",""
+ball,2,9.2,Sri Lanka,MD Shanaka,N Dickwella,CR Woakes,1,0,,,,,,"",""
+ball,2,9.3,Sri Lanka,N Dickwella,MD Shanaka,CR Woakes,1,0,,,,,,"",""
+ball,2,9.4,Sri Lanka,MD Shanaka,N Dickwella,CR Woakes,0,0,,,,,,"",""
+ball,2,9.5,Sri Lanka,MD Shanaka,N Dickwella,CR Woakes,0,1,1,,,,,"",""
+ball,2,9.6,Sri Lanka,MD Shanaka,N Dickwella,CR Woakes,0,0,,,,,,"",""
+ball,2,9.7,Sri Lanka,MD Shanaka,N Dickwella,CR Woakes,0,0,,,,,,"",""
+ball,2,10.1,Sri Lanka,N Dickwella,MD Shanaka,SM Curran,1,0,,,,,,"",""
+ball,2,10.2,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,0,0,,,,,,"",""
+ball,2,10.3,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,0,0,,,,,,"",""
+ball,2,10.4,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,0,0,,,,,,"",""
+ball,2,10.5,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,4,0,,,,,,"",""
+ball,2,10.6,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,0,1,,1,,,,"",""
+ball,2,10.7,Sri Lanka,MD Shanaka,N Dickwella,SM Curran,1,0,,,,,,"",""
+ball,2,11.1,Sri Lanka,MD Shanaka,N Dickwella,CR Woakes,0,0,,,,,,"",""
+ball,2,11.2,Sri Lanka,MD Shanaka,N Dickwella,CR Woakes,1,0,,,,,,run out,MD Shanaka
+ball,2,11.3,Sri Lanka,N Dickwella,PWH de Silva,CR Woakes,0,1,,,1,,,"",""
+ball,2,11.4,Sri Lanka,PWH de Silva,N Dickwella,CR Woakes,0,0,,,,,,"",""
+ball,2,11.5,Sri Lanka,PWH de Silva,N Dickwella,CR Woakes,0,0,,,,,,"",""
+ball,2,11.6,Sri Lanka,PWH de Silva,N Dickwella,CR Woakes,0,0,,,,,,"",""
+ball,2,12.1,Sri Lanka,N Dickwella,PWH de Silva,SM Curran,0,0,,,,,,"",""
+ball,2,12.2,Sri Lanka,N Dickwella,PWH de Silva,SM Curran,1,0,,,,,,"",""
+ball,2,12.3,Sri Lanka,PWH de Silva,N Dickwella,SM Curran,1,0,,,,,,"",""
+ball,2,12.4,Sri Lanka,N Dickwella,PWH de Silva,SM Curran,0,0,,,,,,caught,N Dickwella
+ball,2,12.5,Sri Lanka,I Udana,PWH de Silva,SM Curran,0,0,,,,,,"",""
+ball,2,12.6,Sri Lanka,I Udana,PWH de Silva,SM Curran,0,0,,,,,,"",""
+ball,2,13.1,Sri Lanka,PWH de Silva,I Udana,CJ Jordan,0,0,,,,,,"",""
+ball,2,13.2,Sri Lanka,PWH de Silva,I Udana,CJ Jordan,0,0,,,,,,"",""
+ball,2,13.3,Sri Lanka,PWH de Silva,I Udana,CJ Jordan,0,0,,,,,,"",""
+ball,2,13.4,Sri Lanka,PWH de Silva,I Udana,CJ Jordan,0,0,,,,,,caught,PWH de Silva
+ball,2,13.5,Sri Lanka,B Fernando,I Udana,CJ Jordan,0,0,,,,,,"",""
+ball,2,13.6,Sri Lanka,B Fernando,I Udana,CJ Jordan,0,0,,,,,,"",""
+ball,2,14.1,Sri Lanka,I Udana,B Fernando,DJ Willey,0,0,,,,,,"",""
+ball,2,14.2,Sri Lanka,I Udana,B Fernando,DJ Willey,0,0,,,,,,caught,I Udana
+ball,2,14.3,Sri Lanka,B Fernando,PADLR Sandakan,DJ Willey,0,2,,,,2,,"",""
+ball,2,14.4,Sri Lanka,B Fernando,PADLR Sandakan,DJ Willey,1,0,,,,,,"",""
+ball,2,14.5,Sri Lanka,PADLR Sandakan,B Fernando,DJ Willey,0,0,,,,,,"",""
+ball,2,14.6,Sri Lanka,PADLR Sandakan,B Fernando,DJ Willey,0,0,,,,,,"",""
+ball,2,15.1,Sri Lanka,B Fernando,PADLR Sandakan,CJ Jordan,3,0,,,,,,"",""
+ball,2,15.2,Sri Lanka,PADLR Sandakan,B Fernando,CJ Jordan,0,1,1,,,,,"",""
+ball,2,15.3,Sri Lanka,PADLR Sandakan,B Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,15.4,Sri Lanka,PADLR Sandakan,B Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,15.5,Sri Lanka,PADLR Sandakan,B Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,15.6,Sri Lanka,PADLR Sandakan,B Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,15.7,Sri Lanka,PADLR Sandakan,B Fernando,CJ Jordan,0,0,,,,,,"",""
+ball,2,16.1,Sri Lanka,B Fernando,PADLR Sandakan,AU Rashid,0,0,,,,,,"",""
+ball,2,16.2,Sri Lanka,B Fernando,PADLR Sandakan,AU Rashid,0,0,,,,,,"",""
+ball,2,16.3,Sri Lanka,B Fernando,PADLR Sandakan,AU Rashid,2,0,,,,,,"",""
+ball,2,16.4,Sri Lanka,B Fernando,PADLR Sandakan,AU Rashid,4,0,,,,,,"",""
+ball,2,16.5,Sri Lanka,B Fernando,PADLR Sandakan,AU Rashid,2,0,,,,,,"",""
+ball,2,16.6,Sri Lanka,B Fernando,PADLR Sandakan,AU Rashid,1,0,,,,,,"",""
+ball,2,17.1,Sri Lanka,B Fernando,PADLR Sandakan,LS Livingstone,1,0,,,,,,"",""
+ball,2,17.2,Sri Lanka,PADLR Sandakan,B Fernando,LS Livingstone,1,0,,,,,,"",""
+ball,2,17.3,Sri Lanka,B Fernando,PADLR Sandakan,LS Livingstone,6,0,,,,,,"",""
+ball,2,17.4,Sri Lanka,B Fernando,PADLR Sandakan,LS Livingstone,0,0,,,,,,bowled,B Fernando
+ball,2,17.5,Sri Lanka,PVD Chameera,PADLR Sandakan,LS Livingstone,0,0,,,,,,"",""
+ball,2,17.6,Sri Lanka,PVD Chameera,PADLR Sandakan,LS Livingstone,0,0,,,,,,"",""
+ball,2,18.1,Sri Lanka,PADLR Sandakan,PVD Chameera,MM Ali,1,0,,,,,,"",""
+ball,2,18.2,Sri Lanka,PVD Chameera,PADLR Sandakan,MM Ali,1,0,,,,,,"",""
+ball,2,18.3,Sri Lanka,PADLR Sandakan,PVD Chameera,MM Ali,0,0,,,,,,"",""
+ball,2,18.4,Sri Lanka,PADLR Sandakan,PVD Chameera,MM Ali,1,0,,,,,,"",""
+ball,2,18.5,Sri Lanka,PVD Chameera,PADLR Sandakan,MM Ali,0,0,,,,,,lbw,PVD Chameera

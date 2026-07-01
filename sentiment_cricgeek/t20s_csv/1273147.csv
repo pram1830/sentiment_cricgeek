@@ -1,0 +1,304 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Finland
+info,gender,male
+info,season,2021
+info,date,2021/08/21
+info,event,Sweden tour of Finland
+info,match_number,2
+info,venue,Kerava National Cricket Ground
+info,city,Kerava
+info,toss_winner,Sweden
+info,toss_decision,bat
+info,winner,Finland
+info,winner_wickets,4
+info,player,Sweden,Rahel Khan
+info,player,Sweden,W Boshoff
+info,player,Sweden,A Venkatesh
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Dipanjan Dey
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Hassan Mehmood
+info,player,Sweden,Qudratullah Mir Afzail
+info,player,Sweden,L Karlsson
+info,player,Sweden,Lemar Momand
+info,player,Sweden,Baz Aybui
+info,player,Finland,NG Collins
+info,player,Finland,PF Gallagher
+info,player,Finland,A Pusthay
+info,player,Finland,AK Mohan
+info,player,Finland,VS Padhaal
+info,player,Finland,JOP Scamans
+info,player,Finland,Amjad Sher
+info,player,Finland,MB Tambe
+info,player,Finland,H Dandapani
+info,player,Finland,Naveed Shahid
+info,player,Finland,Raaz Mohammad
+info,registry,people,A Pusthay,0393fbdc
+info,registry,people,A Venkatesh,06b45b20
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Baz Aybui,58a7f842
+info,registry,people,Dipanjan Dey,fa180043
+info,registry,people,H Dandapani,9960a421
+info,registry,people,Hassan Mehmood,0331c99a
+info,registry,people,Humayun Kabir,452024ef
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,JOP Scamans,4e56e796
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,L Karlsson,90a41671
+info,registry,people,Lemar Momand,249fe400
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,NG Collins,be3bdc15
+info,registry,people,Naveed Shahid,9e51462f
+info,registry,people,PF Gallagher,8e9d3dc4
+info,registry,people,Qudratullah Mir Afzail,bd021695
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,Rahel Khan,c443b748
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,W Boshoff,cad11a02
+ball,1,0.1,Sweden,Rahel Khan,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,0.2,Sweden,Rahel Khan,W Boshoff,Amjad Sher,2,0,,,,,,"",""
+ball,1,0.3,Sweden,Rahel Khan,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,0.4,Sweden,Rahel Khan,W Boshoff,Amjad Sher,0,1,1,,,,,"",""
+ball,1,0.5,Sweden,Rahel Khan,W Boshoff,Amjad Sher,0,0,,,,,,caught,Rahel Khan
+ball,1,0.6,Sweden,W Boshoff,A Venkatesh,Amjad Sher,1,0,,,,,,"",""
+ball,1,0.7,Sweden,A Venkatesh,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,1.1,Sweden,W Boshoff,A Venkatesh,Naveed Shahid,1,0,,,,,,"",""
+ball,1,1.2,Sweden,A Venkatesh,W Boshoff,Naveed Shahid,0,1,1,,,,,"",""
+ball,1,1.3,Sweden,A Venkatesh,W Boshoff,Naveed Shahid,0,0,,,,,,"",""
+ball,1,1.4,Sweden,A Venkatesh,W Boshoff,Naveed Shahid,6,0,,,,,,"",""
+ball,1,1.5,Sweden,A Venkatesh,W Boshoff,Naveed Shahid,1,0,,,,,,"",""
+ball,1,1.6,Sweden,W Boshoff,A Venkatesh,Naveed Shahid,4,0,,,,,,"",""
+ball,1,1.7,Sweden,W Boshoff,A Venkatesh,Naveed Shahid,0,0,,,,,,"",""
+ball,1,2.1,Sweden,A Venkatesh,W Boshoff,Amjad Sher,0,0,,,,,,caught,A Venkatesh
+ball,1,2.2,Sweden,Imal Zuwak,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,2.3,Sweden,Imal Zuwak,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,2.4,Sweden,Imal Zuwak,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,2.5,Sweden,Imal Zuwak,W Boshoff,Amjad Sher,1,0,,,,,,"",""
+ball,1,2.6,Sweden,W Boshoff,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,3.1,Sweden,Imal Zuwak,W Boshoff,Naveed Shahid,0,0,,,,,,"",""
+ball,1,3.2,Sweden,Imal Zuwak,W Boshoff,Naveed Shahid,1,0,,,,,,"",""
+ball,1,3.3,Sweden,W Boshoff,Imal Zuwak,Naveed Shahid,4,0,,,,,,"",""
+ball,1,3.4,Sweden,W Boshoff,Imal Zuwak,Naveed Shahid,0,0,,,,,,"",""
+ball,1,3.5,Sweden,W Boshoff,Imal Zuwak,Naveed Shahid,0,0,,,,,,"",""
+ball,1,3.6,Sweden,W Boshoff,Imal Zuwak,Naveed Shahid,0,0,,,,,,"",""
+ball,1,4.1,Sweden,Imal Zuwak,W Boshoff,Amjad Sher,0,0,,,,,,caught,Imal Zuwak
+ball,1,4.2,Sweden,Dipanjan Dey,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,4.3,Sweden,Dipanjan Dey,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,4.4,Sweden,Dipanjan Dey,W Boshoff,Amjad Sher,1,0,,,,,,"",""
+ball,1,4.5,Sweden,W Boshoff,Dipanjan Dey,Amjad Sher,0,0,,,,,,"",""
+ball,1,4.6,Sweden,W Boshoff,Dipanjan Dey,Amjad Sher,0,0,,,,,,"",""
+ball,1,5.1,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,1,0,,,,,,"",""
+ball,1,5.2,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,1,0,,,,,,"",""
+ball,1,5.3,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,0,0,,,,,,"",""
+ball,1,5.4,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,0,0,,,,,,"",""
+ball,1,5.5,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,4,0,,,,,,"",""
+ball,1,5.6,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,4,0,,,,,,"",""
+ball,1,6.1,Sweden,W Boshoff,Dipanjan Dey,Amjad Sher,2,0,,,,,,"",""
+ball,1,6.2,Sweden,W Boshoff,Dipanjan Dey,Amjad Sher,1,0,,,,,,"",""
+ball,1,6.3,Sweden,Dipanjan Dey,W Boshoff,Amjad Sher,1,0,,,,,,"",""
+ball,1,6.4,Sweden,W Boshoff,Dipanjan Dey,Amjad Sher,0,1,1,,,,,"",""
+ball,1,6.5,Sweden,W Boshoff,Dipanjan Dey,Amjad Sher,0,0,,,,,,"",""
+ball,1,6.6,Sweden,W Boshoff,Dipanjan Dey,Amjad Sher,3,0,,,,,,"",""
+ball,1,6.7,Sweden,Dipanjan Dey,W Boshoff,Amjad Sher,0,0,,,,,,"",""
+ball,1,7.1,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,1,0,,,,,,"",""
+ball,1,7.2,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,1,0,,,,,,"",""
+ball,1,7.3,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,0,0,,,,,,"",""
+ball,1,7.4,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,1,0,,,,,,"",""
+ball,1,7.5,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,1,0,,,,,,"",""
+ball,1,7.6,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,1,0,,,,,,"",""
+ball,1,8.1,Sweden,W Boshoff,Dipanjan Dey,MB Tambe,0,0,,,,,,"",""
+ball,1,8.2,Sweden,W Boshoff,Dipanjan Dey,MB Tambe,1,0,,,,,,"",""
+ball,1,8.3,Sweden,Dipanjan Dey,W Boshoff,MB Tambe,1,0,,,,,,"",""
+ball,1,8.4,Sweden,W Boshoff,Dipanjan Dey,MB Tambe,0,0,,,,,,"",""
+ball,1,8.5,Sweden,W Boshoff,Dipanjan Dey,MB Tambe,0,0,,,,,,"",""
+ball,1,8.6,Sweden,W Boshoff,Dipanjan Dey,MB Tambe,1,0,,,,,,"",""
+ball,1,9.1,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,1,0,,,,,,"",""
+ball,1,9.2,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,1,0,,,,,,"",""
+ball,1,9.3,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,0,0,,,,,,"",""
+ball,1,9.4,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,4,0,,,,,,"",""
+ball,1,9.5,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,0,1,1,,,,,"",""
+ball,1,9.6,Sweden,W Boshoff,Dipanjan Dey,PF Gallagher,1,0,,,,,,"",""
+ball,1,9.7,Sweden,Dipanjan Dey,W Boshoff,PF Gallagher,1,0,,,,,,"",""
+ball,1,10.1,Sweden,Dipanjan Dey,W Boshoff,MB Tambe,1,0,,,,,,"",""
+ball,1,10.2,Sweden,W Boshoff,Dipanjan Dey,MB Tambe,1,0,,,,,,"",""
+ball,1,10.3,Sweden,Dipanjan Dey,W Boshoff,MB Tambe,0,0,,,,,,run out,W Boshoff
+ball,1,10.4,Sweden,Dipanjan Dey,Khalid Zahid,MB Tambe,1,0,,,,,,"",""
+ball,1,10.5,Sweden,Khalid Zahid,Dipanjan Dey,MB Tambe,1,0,,,,,,"",""
+ball,1,10.6,Sweden,Dipanjan Dey,Khalid Zahid,MB Tambe,0,0,,,,,,"",""
+ball,1,11.1,Sweden,Khalid Zahid,Dipanjan Dey,H Dandapani,1,0,,,,,,"",""
+ball,1,11.2,Sweden,Dipanjan Dey,Khalid Zahid,H Dandapani,1,0,,,,,,"",""
+ball,1,11.3,Sweden,Khalid Zahid,Dipanjan Dey,H Dandapani,1,0,,,,,,"",""
+ball,1,11.4,Sweden,Dipanjan Dey,Khalid Zahid,H Dandapani,1,0,,,,,,"",""
+ball,1,11.5,Sweden,Khalid Zahid,Dipanjan Dey,H Dandapani,4,0,,,,,,"",""
+ball,1,11.6,Sweden,Khalid Zahid,Dipanjan Dey,H Dandapani,0,0,,,,,,caught,Khalid Zahid
+ball,1,12.1,Sweden,Hassan Mehmood,Dipanjan Dey,Raaz Mohammad,0,1,1,,,,,"",""
+ball,1,12.2,Sweden,Hassan Mehmood,Dipanjan Dey,Raaz Mohammad,0,0,,,,,,"",""
+ball,1,12.3,Sweden,Hassan Mehmood,Dipanjan Dey,Raaz Mohammad,0,0,,,,,,"",""
+ball,1,12.4,Sweden,Hassan Mehmood,Dipanjan Dey,Raaz Mohammad,1,0,,,,,,"",""
+ball,1,12.5,Sweden,Dipanjan Dey,Hassan Mehmood,Raaz Mohammad,3,0,,,,,,"",""
+ball,1,12.6,Sweden,Hassan Mehmood,Dipanjan Dey,Raaz Mohammad,1,0,,,,,,"",""
+ball,1,12.7,Sweden,Dipanjan Dey,Hassan Mehmood,Raaz Mohammad,2,0,,,,,,"",""
+ball,1,13.1,Sweden,Hassan Mehmood,Dipanjan Dey,H Dandapani,1,0,,,,,,"",""
+ball,1,13.2,Sweden,Dipanjan Dey,Hassan Mehmood,H Dandapani,0,0,,,,,,"",""
+ball,1,13.3,Sweden,Dipanjan Dey,Hassan Mehmood,H Dandapani,6,0,,,,,,"",""
+ball,1,13.4,Sweden,Dipanjan Dey,Hassan Mehmood,H Dandapani,1,0,,,,,,"",""
+ball,1,13.5,Sweden,Hassan Mehmood,Dipanjan Dey,H Dandapani,0,1,1,,,,,"",""
+ball,1,13.6,Sweden,Hassan Mehmood,Dipanjan Dey,H Dandapani,1,0,,,,,,"",""
+ball,1,13.7,Sweden,Dipanjan Dey,Hassan Mehmood,H Dandapani,0,0,,,,,,"",""
+ball,1,14.1,Sweden,Hassan Mehmood,Dipanjan Dey,Raaz Mohammad,1,0,,,,,,"",""
+ball,1,14.2,Sweden,Dipanjan Dey,Hassan Mehmood,Raaz Mohammad,0,0,,,,,,"",""
+ball,1,14.3,Sweden,Dipanjan Dey,Hassan Mehmood,Raaz Mohammad,0,0,,,,,,"",""
+ball,1,14.4,Sweden,Dipanjan Dey,Hassan Mehmood,Raaz Mohammad,4,0,,,,,,"",""
+ball,1,14.5,Sweden,Dipanjan Dey,Hassan Mehmood,Raaz Mohammad,1,0,,,,,,"",""
+ball,1,14.6,Sweden,Hassan Mehmood,Dipanjan Dey,Raaz Mohammad,0,1,,,,1,,"",""
+ball,1,15.1,Sweden,Hassan Mehmood,Dipanjan Dey,PF Gallagher,0,0,,,,,,"",""
+ball,1,15.2,Sweden,Hassan Mehmood,Dipanjan Dey,PF Gallagher,1,0,,,,,,"",""
+ball,1,15.3,Sweden,Dipanjan Dey,Hassan Mehmood,PF Gallagher,0,0,,,,,,"",""
+ball,1,15.4,Sweden,Dipanjan Dey,Hassan Mehmood,PF Gallagher,0,1,,,,1,,"",""
+ball,1,15.5,Sweden,Hassan Mehmood,Dipanjan Dey,PF Gallagher,0,0,,,,,,"",""
+ball,1,15.6,Sweden,Hassan Mehmood,Dipanjan Dey,PF Gallagher,0,0,,,,,,caught,Hassan Mehmood
+ball,1,16.1,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,Naveed Shahid,0,0,,,,,,"",""
+ball,1,16.2,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,Naveed Shahid,1,0,,,,,,"",""
+ball,1,16.3,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,Naveed Shahid,0,0,,,,,,"",""
+ball,1,16.4,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,Naveed Shahid,0,0,,,,,,"",""
+ball,1,16.5,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,Naveed Shahid,0,0,,,,,,"",""
+ball,1,16.6,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,Naveed Shahid,1,0,,,,,,"",""
+ball,1,17.1,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,MB Tambe,0,0,,,,,,"",""
+ball,1,17.2,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,MB Tambe,1,0,,,,,,"",""
+ball,1,17.3,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,MB Tambe,2,0,,,,,,"",""
+ball,1,17.4,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,MB Tambe,2,0,,,,,,"",""
+ball,1,17.5,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,MB Tambe,4,0,,,,,,"",""
+ball,1,17.6,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,MB Tambe,2,1,,1,,,,"",""
+ball,1,17.7,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,MB Tambe,3,0,,,,,,"",""
+ball,1,18.1,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,Naveed Shahid,6,0,,,,,,"",""
+ball,1,18.2,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,Naveed Shahid,1,0,,,,,,"",""
+ball,1,18.3,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,Naveed Shahid,1,0,,,,,,"",""
+ball,1,18.4,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,Naveed Shahid,4,0,,,,,,"",""
+ball,1,18.5,Sweden,Dipanjan Dey,Qudratullah Mir Afzail,Naveed Shahid,0,1,,,,1,,"",""
+ball,1,18.6,Sweden,Qudratullah Mir Afzail,Dipanjan Dey,Naveed Shahid,0,0,,,,,,bowled,Qudratullah Mir Afzail
+ball,1,19.1,Sweden,Dipanjan Dey,L Karlsson,MB Tambe,4,0,,,,,,"",""
+ball,1,19.2,Sweden,Dipanjan Dey,L Karlsson,MB Tambe,4,0,,,,,,"",""
+ball,1,19.3,Sweden,Dipanjan Dey,L Karlsson,MB Tambe,2,0,,,,,,"",""
+ball,1,19.4,Sweden,Dipanjan Dey,L Karlsson,MB Tambe,2,0,,,,,,"",""
+ball,1,19.5,Sweden,Dipanjan Dey,L Karlsson,MB Tambe,1,0,,,,,,"",""
+ball,1,19.6,Sweden,L Karlsson,Dipanjan Dey,MB Tambe,0,0,,,,,,caught,L Karlsson
+ball,2,0.1,Finland,NG Collins,PF Gallagher,Khalid Zahid,0,0,,,,,,"",""
+ball,2,0.2,Finland,NG Collins,PF Gallagher,Khalid Zahid,0,0,,,,,,"",""
+ball,2,0.3,Finland,NG Collins,PF Gallagher,Khalid Zahid,1,0,,,,,,"",""
+ball,2,0.4,Finland,PF Gallagher,NG Collins,Khalid Zahid,0,0,,,,,,"",""
+ball,2,0.5,Finland,PF Gallagher,NG Collins,Khalid Zahid,1,0,,,,,,"",""
+ball,2,0.6,Finland,NG Collins,PF Gallagher,Khalid Zahid,2,0,,,,,,"",""
+ball,2,1.1,Finland,PF Gallagher,NG Collins,Qudratullah Mir Afzail,0,1,,,,1,,"",""
+ball,2,1.2,Finland,NG Collins,PF Gallagher,Qudratullah Mir Afzail,4,0,,,,,,"",""
+ball,2,1.3,Finland,NG Collins,PF Gallagher,Qudratullah Mir Afzail,0,0,,,,,,"",""
+ball,2,1.4,Finland,NG Collins,PF Gallagher,Qudratullah Mir Afzail,4,0,,,,,,"",""
+ball,2,1.5,Finland,NG Collins,PF Gallagher,Qudratullah Mir Afzail,0,0,,,,,,"",""
+ball,2,1.6,Finland,NG Collins,PF Gallagher,Qudratullah Mir Afzail,0,0,,,,,,"",""
+ball,2,2.1,Finland,PF Gallagher,NG Collins,Khalid Zahid,6,0,,,,,,"",""
+ball,2,2.2,Finland,PF Gallagher,NG Collins,Khalid Zahid,0,0,,,,,,"",""
+ball,2,2.3,Finland,PF Gallagher,NG Collins,Khalid Zahid,0,0,,,,,,caught,PF Gallagher
+ball,2,2.4,Finland,A Pusthay,NG Collins,Khalid Zahid,1,0,,,,,,"",""
+ball,2,2.5,Finland,NG Collins,A Pusthay,Khalid Zahid,3,0,,,,,,"",""
+ball,2,2.6,Finland,A Pusthay,NG Collins,Khalid Zahid,0,1,1,,,,,"",""
+ball,2,2.7,Finland,A Pusthay,NG Collins,Khalid Zahid,0,1,1,,,,,"",""
+ball,2,2.8,Finland,A Pusthay,NG Collins,Khalid Zahid,0,0,,,,,,"",""
+ball,2,3.1,Finland,NG Collins,A Pusthay,Qudratullah Mir Afzail,0,0,,,,,,"",""
+ball,2,3.2,Finland,NG Collins,A Pusthay,Qudratullah Mir Afzail,4,0,,,,,,"",""
+ball,2,3.3,Finland,NG Collins,A Pusthay,Qudratullah Mir Afzail,0,0,,,,,,caught,NG Collins
+ball,2,3.4,Finland,AK Mohan,A Pusthay,Qudratullah Mir Afzail,0,0,,,,,,"",""
+ball,2,3.5,Finland,AK Mohan,A Pusthay,Qudratullah Mir Afzail,0,0,,,,,,"",""
+ball,2,3.6,Finland,AK Mohan,A Pusthay,Qudratullah Mir Afzail,1,0,,,,,,"",""
+ball,2,4.1,Finland,AK Mohan,A Pusthay,Lemar Momand,0,0,,,,,,"",""
+ball,2,4.2,Finland,AK Mohan,A Pusthay,Lemar Momand,0,0,,,,,,"",""
+ball,2,4.3,Finland,AK Mohan,A Pusthay,Lemar Momand,0,0,,,,,,"",""
+ball,2,4.4,Finland,AK Mohan,A Pusthay,Lemar Momand,1,0,,,,,,"",""
+ball,2,4.5,Finland,A Pusthay,AK Mohan,Lemar Momand,0,0,,,,,,"",""
+ball,2,4.6,Finland,A Pusthay,AK Mohan,Lemar Momand,0,0,,,,,,"",""
+ball,2,5.1,Finland,AK Mohan,A Pusthay,L Karlsson,0,0,,,,,,"",""
+ball,2,5.2,Finland,AK Mohan,A Pusthay,L Karlsson,0,0,,,,,,"",""
+ball,2,5.3,Finland,AK Mohan,A Pusthay,L Karlsson,6,0,,,,,,"",""
+ball,2,5.4,Finland,AK Mohan,A Pusthay,L Karlsson,0,0,,,,,,"",""
+ball,2,5.5,Finland,AK Mohan,A Pusthay,L Karlsson,0,0,,,,,,"",""
+ball,2,5.6,Finland,AK Mohan,A Pusthay,L Karlsson,6,0,,,,,,"",""
+ball,2,6.1,Finland,A Pusthay,AK Mohan,Lemar Momand,4,0,,,,,,"",""
+ball,2,6.2,Finland,A Pusthay,AK Mohan,Lemar Momand,0,0,,,,,,"",""
+ball,2,6.3,Finland,A Pusthay,AK Mohan,Lemar Momand,1,0,,,,,,"",""
+ball,2,6.4,Finland,AK Mohan,A Pusthay,Lemar Momand,1,0,,,,,,"",""
+ball,2,6.5,Finland,A Pusthay,AK Mohan,Lemar Momand,1,0,,,,,,"",""
+ball,2,6.6,Finland,AK Mohan,A Pusthay,Lemar Momand,0,0,,,,,,"",""
+ball,2,7.1,Finland,A Pusthay,AK Mohan,A Venkatesh,1,0,,,,,,"",""
+ball,2,7.2,Finland,AK Mohan,A Pusthay,A Venkatesh,0,0,,,,,,"",""
+ball,2,7.3,Finland,AK Mohan,A Pusthay,A Venkatesh,0,0,,,,,,"",""
+ball,2,7.4,Finland,AK Mohan,A Pusthay,A Venkatesh,0,0,,,,,,"",""
+ball,2,7.5,Finland,AK Mohan,A Pusthay,A Venkatesh,0,0,,,,,,"",""
+ball,2,7.6,Finland,AK Mohan,A Pusthay,A Venkatesh,1,0,,,,,,"",""
+ball,2,8.1,Finland,AK Mohan,A Pusthay,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,8.2,Finland,A Pusthay,AK Mohan,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,8.3,Finland,AK Mohan,A Pusthay,Hassan Mehmood,2,0,,,,,,"",""
+ball,2,8.4,Finland,AK Mohan,A Pusthay,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,8.5,Finland,A Pusthay,AK Mohan,Hassan Mehmood,0,0,,,,,,"",""
+ball,2,8.6,Finland,A Pusthay,AK Mohan,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,9.1,Finland,A Pusthay,AK Mohan,A Venkatesh,0,0,,,,,,"",""
+ball,2,9.2,Finland,A Pusthay,AK Mohan,A Venkatesh,0,0,,,,,,"",""
+ball,2,9.3,Finland,A Pusthay,AK Mohan,A Venkatesh,0,0,,,,,,"",""
+ball,2,9.4,Finland,A Pusthay,AK Mohan,A Venkatesh,0,1,1,,,,,"",""
+ball,2,9.5,Finland,A Pusthay,AK Mohan,A Venkatesh,0,0,,,,,,"",""
+ball,2,9.6,Finland,A Pusthay,AK Mohan,A Venkatesh,1,0,,,,,,"",""
+ball,2,9.7,Finland,AK Mohan,A Pusthay,A Venkatesh,1,0,,,,,,"",""
+ball,2,10.1,Finland,AK Mohan,A Pusthay,Hassan Mehmood,0,0,,,,,,"",""
+ball,2,10.2,Finland,AK Mohan,A Pusthay,Hassan Mehmood,4,0,,,,,,"",""
+ball,2,10.3,Finland,AK Mohan,A Pusthay,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,10.4,Finland,A Pusthay,AK Mohan,Hassan Mehmood,0,0,,,,,,"",""
+ball,2,10.5,Finland,A Pusthay,AK Mohan,Hassan Mehmood,2,0,,,,,,"",""
+ball,2,10.6,Finland,A Pusthay,AK Mohan,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,11.1,Finland,A Pusthay,AK Mohan,Baz Aybui,0,0,,,,,,caught,A Pusthay
+ball,2,11.2,Finland,VS Padhaal,AK Mohan,Baz Aybui,1,0,,,,,,"",""
+ball,2,11.3,Finland,AK Mohan,VS Padhaal,Baz Aybui,0,0,,,,,,"",""
+ball,2,11.4,Finland,AK Mohan,VS Padhaal,Baz Aybui,0,0,,,,,,"",""
+ball,2,11.5,Finland,AK Mohan,VS Padhaal,Baz Aybui,2,0,,,,,,"",""
+ball,2,11.6,Finland,AK Mohan,VS Padhaal,Baz Aybui,0,1,1,,,,,"",""
+ball,2,11.7,Finland,AK Mohan,VS Padhaal,Baz Aybui,6,0,,,,,,"",""
+ball,2,12.1,Finland,VS Padhaal,AK Mohan,Khalid Zahid,0,0,,,,,,"",""
+ball,2,12.2,Finland,VS Padhaal,AK Mohan,Khalid Zahid,2,0,,,,,,"",""
+ball,2,12.3,Finland,VS Padhaal,AK Mohan,Khalid Zahid,2,0,,,,,,"",""
+ball,2,12.4,Finland,VS Padhaal,AK Mohan,Khalid Zahid,0,0,,,,,,"",""
+ball,2,12.5,Finland,VS Padhaal,AK Mohan,Khalid Zahid,1,0,,,,,,"",""
+ball,2,12.6,Finland,AK Mohan,VS Padhaal,Khalid Zahid,1,0,,,,,,"",""
+ball,2,13.1,Finland,AK Mohan,VS Padhaal,Qudratullah Mir Afzail,1,0,,,,,,"",""
+ball,2,13.2,Finland,VS Padhaal,AK Mohan,Qudratullah Mir Afzail,1,0,,,,,,"",""
+ball,2,13.3,Finland,AK Mohan,VS Padhaal,Qudratullah Mir Afzail,0,1,,,,1,,"",""
+ball,2,13.4,Finland,VS Padhaal,AK Mohan,Qudratullah Mir Afzail,0,0,,,,,,caught,VS Padhaal
+ball,2,13.5,Finland,AK Mohan,JOP Scamans,Qudratullah Mir Afzail,0,0,,,,,,caught,AK Mohan
+ball,2,13.6,Finland,JOP Scamans,Amjad Sher,Qudratullah Mir Afzail,1,0,,,,,,"",""
+ball,2,14.1,Finland,JOP Scamans,Amjad Sher,Khalid Zahid,0,0,,,,,,"",""
+ball,2,14.2,Finland,JOP Scamans,Amjad Sher,Khalid Zahid,0,0,,,,,,"",""
+ball,2,14.3,Finland,JOP Scamans,Amjad Sher,Khalid Zahid,1,0,,,,,,"",""
+ball,2,14.4,Finland,Amjad Sher,JOP Scamans,Khalid Zahid,1,0,,,,,,"",""
+ball,2,14.5,Finland,JOP Scamans,Amjad Sher,Khalid Zahid,3,0,,,,,,"",""
+ball,2,14.6,Finland,Amjad Sher,JOP Scamans,Khalid Zahid,6,0,,,,,,"",""
+ball,2,15.1,Finland,JOP Scamans,Amjad Sher,A Venkatesh,0,0,,,,,,caught,JOP Scamans
+ball,2,15.2,Finland,Amjad Sher,MB Tambe,A Venkatesh,1,0,,,,,,"",""
+ball,2,15.3,Finland,MB Tambe,Amjad Sher,A Venkatesh,4,0,,,,,,"",""
+ball,2,15.4,Finland,MB Tambe,Amjad Sher,A Venkatesh,2,0,,,,,,"",""
+ball,2,15.5,Finland,MB Tambe,Amjad Sher,A Venkatesh,0,0,,,,,,"",""
+ball,2,15.6,Finland,MB Tambe,Amjad Sher,A Venkatesh,1,0,,,,,,"",""
+ball,2,16.1,Finland,MB Tambe,Amjad Sher,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,16.2,Finland,Amjad Sher,MB Tambe,Hassan Mehmood,2,0,,,,,,"",""
+ball,2,16.3,Finland,Amjad Sher,MB Tambe,Hassan Mehmood,6,0,,,,,,"",""
+ball,2,16.4,Finland,Amjad Sher,MB Tambe,Hassan Mehmood,4,0,,,,,,"",""
+ball,2,16.5,Finland,Amjad Sher,MB Tambe,Hassan Mehmood,2,0,,,,,,"",""
+ball,2,16.6,Finland,Amjad Sher,MB Tambe,Hassan Mehmood,1,0,,,,,,"",""
+ball,2,17.1,Finland,Amjad Sher,MB Tambe,A Venkatesh,1,0,,,,,,"",""
+ball,2,17.2,Finland,MB Tambe,Amjad Sher,A Venkatesh,1,0,,,,,,"",""
+ball,2,17.3,Finland,Amjad Sher,MB Tambe,A Venkatesh,1,0,,,,,,"",""
+ball,2,17.4,Finland,MB Tambe,Amjad Sher,A Venkatesh,0,1,,,1,,,"",""
+ball,2,17.5,Finland,Amjad Sher,MB Tambe,A Venkatesh,1,0,,,,,,"",""
+ball,2,17.6,Finland,MB Tambe,Amjad Sher,A Venkatesh,1,0,,,,,,"",""
+ball,2,18.1,Finland,MB Tambe,Amjad Sher,Qudratullah Mir Afzail,1,0,,,,,,"",""
+ball,2,18.2,Finland,Amjad Sher,MB Tambe,Qudratullah Mir Afzail,0,0,,,,,,"",""
+ball,2,18.3,Finland,Amjad Sher,MB Tambe,Qudratullah Mir Afzail,4,0,,,,,,"",""
+ball,2,18.4,Finland,Amjad Sher,MB Tambe,Qudratullah Mir Afzail,6,0,,,,,,"",""
+ball,2,18.5,Finland,Amjad Sher,MB Tambe,Qudratullah Mir Afzail,1,0,,,,,,"",""

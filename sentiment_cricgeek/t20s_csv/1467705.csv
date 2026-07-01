@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Zimbabwe
+info,gender,male
+info,season,2024/25
+info,date,2025/02/23
+info,event,Ireland tour of Zimbabwe
+info,match_number,2
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,T Munyonga
+info,umpire,F Mutizwa
+info,umpire,I Chabi
+info,reserve_umpire,L Rusere
+info,tv_umpire,P Sizara
+info,match_referee,RB Richardson
+info,winner,Zimbabwe
+info,winner_wickets,3
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,NA Rock
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,GI Hume
+info,player,Ireland,CA Young
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,T Gwandu
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,B White,1a448be0
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,I Chabi,5e39110e
+info,registry,people,J Little,9061a703
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,NA Rock,43f4087c
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378
+ball,1,0.1,Ireland,PR Stirling,L Tucker,R Ngarava,0,0,,,,,,"",""
+ball,1,0.2,Ireland,PR Stirling,L Tucker,R Ngarava,0,0,,,,,,"",""
+ball,1,0.3,Ireland,PR Stirling,L Tucker,R Ngarava,1,0,,,,,,"",""
+ball,1,0.4,Ireland,L Tucker,PR Stirling,R Ngarava,4,0,,,,,,"",""
+ball,1,0.5,Ireland,L Tucker,PR Stirling,R Ngarava,1,0,,,,,,"",""
+ball,1,0.6,Ireland,PR Stirling,L Tucker,R Ngarava,0,0,,,,,,caught,PR Stirling
+ball,1,1.1,Ireland,L Tucker,HT Tector,WP Masakadza,0,0,,,,,,"",""
+ball,1,1.2,Ireland,L Tucker,HT Tector,WP Masakadza,0,0,,,,,,"",""
+ball,1,1.3,Ireland,L Tucker,HT Tector,WP Masakadza,0,0,,,,,,"",""
+ball,1,1.4,Ireland,L Tucker,HT Tector,WP Masakadza,0,0,,,,,,"",""
+ball,1,1.5,Ireland,L Tucker,HT Tector,WP Masakadza,1,0,,,,,,"",""
+ball,1,1.6,Ireland,HT Tector,L Tucker,WP Masakadza,0,0,,,,,,"",""
+ball,1,2.1,Ireland,L Tucker,HT Tector,R Ngarava,6,0,,,,,,"",""
+ball,1,2.2,Ireland,L Tucker,HT Tector,R Ngarava,2,0,,,,,,"",""
+ball,1,2.3,Ireland,L Tucker,HT Tector,R Ngarava,1,0,,,,,,"",""
+ball,1,2.4,Ireland,HT Tector,L Tucker,R Ngarava,1,0,,,,,,"",""
+ball,1,2.5,Ireland,L Tucker,HT Tector,R Ngarava,1,0,,,,,,"",""
+ball,1,2.6,Ireland,HT Tector,L Tucker,R Ngarava,1,0,,,,,,"",""
+ball,1,3.1,Ireland,HT Tector,L Tucker,WP Masakadza,4,0,,,,,,"",""
+ball,1,3.2,Ireland,HT Tector,L Tucker,WP Masakadza,4,0,,,,,,"",""
+ball,1,3.3,Ireland,HT Tector,L Tucker,WP Masakadza,2,0,,,,,,"",""
+ball,1,3.4,Ireland,HT Tector,L Tucker,WP Masakadza,0,1,,,1,,,"",""
+ball,1,3.5,Ireland,L Tucker,HT Tector,WP Masakadza,2,0,,,,,,"",""
+ball,1,3.6,Ireland,L Tucker,HT Tector,WP Masakadza,2,0,,,,,,"",""
+ball,1,4.1,Ireland,HT Tector,L Tucker,B Muzarabani,4,0,,,,,,"",""
+ball,1,4.2,Ireland,HT Tector,L Tucker,B Muzarabani,0,1,,,,1,,"",""
+ball,1,4.3,Ireland,L Tucker,HT Tector,B Muzarabani,0,0,,,,,,"",""
+ball,1,4.4,Ireland,L Tucker,HT Tector,B Muzarabani,1,0,,,,,,"",""
+ball,1,4.5,Ireland,HT Tector,L Tucker,B Muzarabani,0,0,,,,,,"",""
+ball,1,4.6,Ireland,HT Tector,L Tucker,B Muzarabani,1,0,,,,,,"",""
+ball,1,5.1,Ireland,HT Tector,L Tucker,T Gwandu,4,0,,,,,,"",""
+ball,1,5.2,Ireland,HT Tector,L Tucker,T Gwandu,0,0,,,,,,"",""
+ball,1,5.3,Ireland,HT Tector,L Tucker,T Gwandu,1,0,,,,,,"",""
+ball,1,5.4,Ireland,L Tucker,HT Tector,T Gwandu,0,0,,,,,,"",""
+ball,1,5.5,Ireland,L Tucker,HT Tector,T Gwandu,4,0,,,,,,"",""
+ball,1,5.6,Ireland,L Tucker,HT Tector,T Gwandu,1,0,,,,,,"",""
+ball,1,6.1,Ireland,L Tucker,HT Tector,B Muzarabani,1,0,,,,,,"",""
+ball,1,6.2,Ireland,HT Tector,L Tucker,B Muzarabani,1,0,,,,,,"",""
+ball,1,6.3,Ireland,L Tucker,HT Tector,B Muzarabani,1,0,,,,,,"",""
+ball,1,6.4,Ireland,HT Tector,L Tucker,B Muzarabani,2,0,,,,,,"",""
+ball,1,6.5,Ireland,HT Tector,L Tucker,B Muzarabani,1,0,,,,,,"",""
+ball,1,6.6,Ireland,L Tucker,HT Tector,B Muzarabani,0,0,,,,,,"",""
+ball,1,7.1,Ireland,HT Tector,L Tucker,Sikandar Raza,2,0,,,,,,"",""
+ball,1,7.2,Ireland,HT Tector,L Tucker,Sikandar Raza,0,0,,,,,,"",""
+ball,1,7.3,Ireland,HT Tector,L Tucker,Sikandar Raza,0,0,,,,,,caught,HT Tector
+ball,1,7.4,Ireland,C Campher,L Tucker,Sikandar Raza,1,0,,,,,,"",""
+ball,1,7.5,Ireland,L Tucker,C Campher,Sikandar Raza,0,0,,,,,,"",""
+ball,1,7.6,Ireland,L Tucker,C Campher,Sikandar Raza,1,0,,,,,,"",""
+ball,1,8.1,Ireland,L Tucker,C Campher,WP Masakadza,0,0,,,,,,"",""
+ball,1,8.2,Ireland,L Tucker,C Campher,WP Masakadza,4,0,,,,,,"",""
+ball,1,8.3,Ireland,L Tucker,C Campher,WP Masakadza,2,0,,,,,,"",""
+ball,1,8.4,Ireland,L Tucker,C Campher,WP Masakadza,0,0,,,,,,"",""
+ball,1,8.5,Ireland,L Tucker,C Campher,WP Masakadza,1,0,,,,,,"",""
+ball,1,8.6,Ireland,C Campher,L Tucker,WP Masakadza,1,0,,,,,,"",""
+ball,1,9.1,Ireland,C Campher,L Tucker,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.2,Ireland,L Tucker,C Campher,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.3,Ireland,C Campher,L Tucker,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.4,Ireland,L Tucker,C Campher,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.5,Ireland,C Campher,L Tucker,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.6,Ireland,L Tucker,C Campher,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.1,Ireland,L Tucker,C Campher,T Gwandu,2,0,,,,,,"",""
+ball,1,10.2,Ireland,L Tucker,C Campher,T Gwandu,0,1,,,1,,,"",""
+ball,1,10.3,Ireland,C Campher,L Tucker,T Gwandu,1,0,,,,,,"",""
+ball,1,10.4,Ireland,L Tucker,C Campher,T Gwandu,1,0,,,,,,"",""
+ball,1,10.5,Ireland,C Campher,L Tucker,T Gwandu,0,1,1,,,,,"",""
+ball,1,10.6,Ireland,C Campher,L Tucker,T Gwandu,2,0,,,,,,"",""
+ball,1,10.7,Ireland,C Campher,L Tucker,T Gwandu,1,0,,,,,,"",""
+ball,1,11.1,Ireland,C Campher,L Tucker,Sikandar Raza,2,0,,,,,,"",""
+ball,1,11.2,Ireland,C Campher,L Tucker,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.3,Ireland,L Tucker,C Campher,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.4,Ireland,C Campher,L Tucker,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.5,Ireland,L Tucker,C Campher,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.6,Ireland,C Campher,L Tucker,Sikandar Raza,2,0,,,,,,"",""
+ball,1,12.1,Ireland,L Tucker,C Campher,WP Masakadza,1,0,,,,,,"",""
+ball,1,12.2,Ireland,C Campher,L Tucker,WP Masakadza,1,0,,,,,,"",""
+ball,1,12.3,Ireland,L Tucker,C Campher,WP Masakadza,1,0,,,,,,"",""
+ball,1,12.4,Ireland,C Campher,L Tucker,WP Masakadza,2,0,,,,,,"",""
+ball,1,12.5,Ireland,C Campher,L Tucker,WP Masakadza,1,0,,,,,,"",""
+ball,1,12.6,Ireland,L Tucker,C Campher,WP Masakadza,0,0,,,,,,"",""
+ball,1,13.1,Ireland,C Campher,L Tucker,T Gwandu,1,0,,,,,,"",""
+ball,1,13.2,Ireland,L Tucker,C Campher,T Gwandu,0,0,,,,,,caught,L Tucker
+ball,1,13.3,Ireland,NA Rock,C Campher,T Gwandu,1,0,,,,,,"",""
+ball,1,13.4,Ireland,C Campher,NA Rock,T Gwandu,0,0,,,,,,"",""
+ball,1,13.5,Ireland,C Campher,NA Rock,T Gwandu,2,0,,,,,,"",""
+ball,1,13.6,Ireland,C Campher,NA Rock,T Gwandu,0,0,,,,,,"",""
+ball,1,14.1,Ireland,NA Rock,C Campher,B Muzarabani,0,0,,,,,,"",""
+ball,1,14.2,Ireland,NA Rock,C Campher,B Muzarabani,0,0,,,,,,"",""
+ball,1,14.3,Ireland,NA Rock,C Campher,B Muzarabani,1,0,,,,,,"",""
+ball,1,14.4,Ireland,C Campher,NA Rock,B Muzarabani,0,0,,,,,,"",""
+ball,1,14.5,Ireland,C Campher,NA Rock,B Muzarabani,1,0,,,,,,"",""
+ball,1,14.6,Ireland,NA Rock,C Campher,B Muzarabani,0,0,,,,,,"",""
+ball,1,15.1,Ireland,C Campher,NA Rock,Sikandar Raza,0,0,,,,,,"",""
+ball,1,15.2,Ireland,C Campher,NA Rock,Sikandar Raza,2,0,,,,,,"",""
+ball,1,15.3,Ireland,C Campher,NA Rock,Sikandar Raza,1,0,,,,,,"",""
+ball,1,15.4,Ireland,NA Rock,C Campher,Sikandar Raza,1,0,,,,,,"",""
+ball,1,15.5,Ireland,C Campher,NA Rock,Sikandar Raza,0,0,,,,,,caught,C Campher
+ball,1,15.6,Ireland,GH Dockrell,NA Rock,Sikandar Raza,0,0,,,,,,"",""
+ball,1,16.1,Ireland,NA Rock,GH Dockrell,R Ngarava,3,0,,,,,,"",""
+ball,1,16.2,Ireland,GH Dockrell,NA Rock,R Ngarava,4,0,,,,,,"",""
+ball,1,16.3,Ireland,GH Dockrell,NA Rock,R Ngarava,1,0,,,,,,"",""
+ball,1,16.4,Ireland,NA Rock,GH Dockrell,R Ngarava,0,0,,,,,,"",""
+ball,1,16.5,Ireland,NA Rock,GH Dockrell,R Ngarava,1,0,,,,,,"",""
+ball,1,16.6,Ireland,GH Dockrell,NA Rock,R Ngarava,4,0,,,,,,"",""
+ball,1,17.1,Ireland,NA Rock,GH Dockrell,T Gwandu,1,0,,,,,,"",""
+ball,1,17.2,Ireland,GH Dockrell,NA Rock,T Gwandu,0,0,,,,,,bowled,GH Dockrell
+ball,1,17.3,Ireland,GJ Delany,NA Rock,T Gwandu,1,0,,,,,,"",""
+ball,1,17.4,Ireland,NA Rock,GJ Delany,T Gwandu,0,0,,,,,,"",""
+ball,1,17.5,Ireland,NA Rock,GJ Delany,T Gwandu,0,0,,,,,,"",""
+ball,1,17.6,Ireland,NA Rock,GJ Delany,T Gwandu,0,0,,,,,,caught,NA Rock
+ball,1,18.1,Ireland,GJ Delany,GI Hume,B Muzarabani,0,0,,,,,,"",""
+ball,1,18.2,Ireland,GJ Delany,GI Hume,B Muzarabani,1,0,,,,,,"",""
+ball,1,18.3,Ireland,GI Hume,GJ Delany,B Muzarabani,1,0,,,,,,"",""
+ball,1,18.4,Ireland,GJ Delany,GI Hume,B Muzarabani,0,0,,,,,,caught,GJ Delany
+ball,1,18.5,Ireland,CA Young,GI Hume,B Muzarabani,1,0,,,,,,"",""
+ball,1,18.6,Ireland,GI Hume,CA Young,B Muzarabani,4,0,,,,,,"",""
+ball,1,19.1,Ireland,CA Young,GI Hume,R Ngarava,4,0,,,,,,"",""
+ball,1,19.2,Ireland,CA Young,GI Hume,R Ngarava,0,0,,,,,,"",""
+ball,1,19.3,Ireland,CA Young,GI Hume,R Ngarava,1,0,,,,,,"",""
+ball,1,19.4,Ireland,GI Hume,CA Young,R Ngarava,0,0,,,,,,lbw,GI Hume
+ball,1,19.5,Ireland,J Little,CA Young,R Ngarava,1,0,,,,,,"",""
+ball,1,19.6,Ireland,CA Young,J Little,R Ngarava,1,0,,,,,,"",""
+ball,2,0.1,Zimbabwe,BJ Bennett,T Marumani,GI Hume,4,0,,,,,,"",""
+ball,2,0.2,Zimbabwe,BJ Bennett,T Marumani,GI Hume,1,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,T Marumani,BJ Bennett,GI Hume,1,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,BJ Bennett,T Marumani,GI Hume,0,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,BJ Bennett,T Marumani,GI Hume,0,0,,,,,,"",""
+ball,2,0.6,Zimbabwe,BJ Bennett,T Marumani,GI Hume,2,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,T Marumani,BJ Bennett,CA Young,0,0,,,,,,caught,T Marumani
+ball,2,1.2,Zimbabwe,W Madhevere,BJ Bennett,CA Young,1,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,BJ Bennett,W Madhevere,CA Young,1,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,W Madhevere,BJ Bennett,CA Young,0,1,1,,,,,"",""
+ball,2,1.5,Zimbabwe,W Madhevere,BJ Bennett,CA Young,0,0,,,,,,caught,W Madhevere
+ball,2,1.6,Zimbabwe,Sikandar Raza,BJ Bennett,CA Young,0,0,,,,,,"",""
+ball,2,1.7,Zimbabwe,Sikandar Raza,BJ Bennett,CA Young,3,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,Sikandar Raza,BJ Bennett,GI Hume,0,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,Sikandar Raza,BJ Bennett,GI Hume,0,0,,,,,,"",""
+ball,2,2.3,Zimbabwe,Sikandar Raza,BJ Bennett,GI Hume,0,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,Sikandar Raza,BJ Bennett,GI Hume,0,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,Sikandar Raza,BJ Bennett,GI Hume,0,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,Sikandar Raza,BJ Bennett,GI Hume,0,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,BJ Bennett,Sikandar Raza,CA Young,0,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,BJ Bennett,Sikandar Raza,CA Young,0,0,,,,,,caught,BJ Bennett
+ball,2,3.3,Zimbabwe,RP Burl,Sikandar Raza,CA Young,1,0,,,,,,"",""
+ball,2,3.4,Zimbabwe,Sikandar Raza,RP Burl,CA Young,0,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,Sikandar Raza,RP Burl,CA Young,1,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,RP Burl,Sikandar Raza,CA Young,1,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,RP Burl,Sikandar Raza,C Campher,0,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,RP Burl,Sikandar Raza,C Campher,4,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,RP Burl,Sikandar Raza,C Campher,0,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,RP Burl,Sikandar Raza,C Campher,4,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,RP Burl,Sikandar Raza,C Campher,1,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,Sikandar Raza,RP Burl,C Campher,1,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,Sikandar Raza,RP Burl,J Little,0,0,,,,,,"",""
+ball,2,5.2,Zimbabwe,Sikandar Raza,RP Burl,J Little,4,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,Sikandar Raza,RP Burl,J Little,0,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,Sikandar Raza,RP Burl,J Little,1,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,RP Burl,Sikandar Raza,J Little,1,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,Sikandar Raza,RP Burl,J Little,4,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,RP Burl,Sikandar Raza,C Campher,0,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,RP Burl,Sikandar Raza,C Campher,4,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,RP Burl,Sikandar Raza,C Campher,0,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,RP Burl,Sikandar Raza,C Campher,1,0,,,,,,"",""
+ball,2,6.5,Zimbabwe,Sikandar Raza,RP Burl,C Campher,0,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,Sikandar Raza,RP Burl,C Campher,1,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,Sikandar Raza,RP Burl,J Little,0,1,1,,,,,"",""
+ball,2,7.2,Zimbabwe,Sikandar Raza,RP Burl,J Little,0,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,Sikandar Raza,RP Burl,J Little,1,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,RP Burl,Sikandar Raza,J Little,1,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,Sikandar Raza,RP Burl,J Little,1,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,RP Burl,Sikandar Raza,J Little,4,0,,,,,,"",""
+ball,2,7.7,Zimbabwe,RP Burl,Sikandar Raza,J Little,0,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,Sikandar Raza,RP Burl,B White,1,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,RP Burl,Sikandar Raza,B White,2,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,RP Burl,Sikandar Raza,B White,0,0,,,,,,"",""
+ball,2,8.4,Zimbabwe,RP Burl,Sikandar Raza,B White,2,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,RP Burl,Sikandar Raza,B White,1,0,,,,,,"",""
+ball,2,8.6,Zimbabwe,Sikandar Raza,RP Burl,B White,1,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,Sikandar Raza,RP Burl,HT Tector,2,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,Sikandar Raza,RP Burl,HT Tector,0,1,1,,,,,"",""
+ball,2,9.3,Zimbabwe,Sikandar Raza,RP Burl,HT Tector,0,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,Sikandar Raza,RP Burl,HT Tector,1,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,RP Burl,Sikandar Raza,HT Tector,0,0,,,,,,caught,RP Burl
+ball,2,9.6,Zimbabwe,T Munyonga,Sikandar Raza,HT Tector,0,0,,,,,,"",""
+ball,2,9.7,Zimbabwe,T Munyonga,Sikandar Raza,HT Tector,1,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,T Munyonga,Sikandar Raza,B White,0,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,T Munyonga,Sikandar Raza,B White,1,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,Sikandar Raza,T Munyonga,B White,0,0,,,,,,caught,Sikandar Raza
+ball,2,10.4,Zimbabwe,T Musekiwa,T Munyonga,B White,0,0,,,,,,"",""
+ball,2,10.5,Zimbabwe,T Musekiwa,T Munyonga,B White,2,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,T Musekiwa,T Munyonga,B White,1,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,T Musekiwa,T Munyonga,GJ Delany,1,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,T Munyonga,T Musekiwa,GJ Delany,2,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,T Munyonga,T Musekiwa,GJ Delany,4,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,T Munyonga,T Musekiwa,GJ Delany,1,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,T Musekiwa,T Munyonga,GJ Delany,1,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,T Munyonga,T Musekiwa,GJ Delany,0,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,T Musekiwa,T Munyonga,B White,1,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,T Munyonga,T Musekiwa,B White,2,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,T Munyonga,T Musekiwa,B White,2,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,T Munyonga,T Musekiwa,B White,4,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,T Munyonga,T Musekiwa,B White,0,0,,,,,,"",""
+ball,2,12.6,Zimbabwe,T Munyonga,T Musekiwa,B White,1,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,T Munyonga,T Musekiwa,J Little,0,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,T Munyonga,T Musekiwa,J Little,1,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,T Musekiwa,T Munyonga,J Little,0,0,,,,,,"",""
+ball,2,13.4,Zimbabwe,T Musekiwa,T Munyonga,J Little,4,0,,,,,,"",""
+ball,2,13.5,Zimbabwe,T Musekiwa,T Munyonga,J Little,4,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,T Musekiwa,T Munyonga,J Little,0,1,1,,,,,"",""
+ball,2,13.7,Zimbabwe,T Musekiwa,T Munyonga,J Little,1,0,,,,,,"",""
+ball,2,14.1,Zimbabwe,T Musekiwa,T Munyonga,CA Young,0,0,,,,,,caught,T Musekiwa
+ball,2,14.2,Zimbabwe,WP Masakadza,T Munyonga,CA Young,0,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,WP Masakadza,T Munyonga,CA Young,0,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,WP Masakadza,T Munyonga,CA Young,0,1,1,,,,,"",""
+ball,2,14.5,Zimbabwe,WP Masakadza,T Munyonga,CA Young,0,0,,,,,,"",""
+ball,2,14.6,Zimbabwe,WP Masakadza,T Munyonga,CA Young,2,0,,,,,,"",""
+ball,2,14.7,Zimbabwe,WP Masakadza,T Munyonga,CA Young,1,0,,,,,,"",""
+ball,2,15.1,Zimbabwe,WP Masakadza,T Munyonga,C Campher,1,0,,,,,,"",""
+ball,2,15.2,Zimbabwe,T Munyonga,WP Masakadza,C Campher,2,0,,,,,,"",""
+ball,2,15.3,Zimbabwe,T Munyonga,WP Masakadza,C Campher,1,0,,,,,,"",""
+ball,2,15.4,Zimbabwe,WP Masakadza,T Munyonga,C Campher,1,0,,,,,,"",""
+ball,2,15.5,Zimbabwe,T Munyonga,WP Masakadza,C Campher,0,0,,,,,,"",""
+ball,2,15.6,Zimbabwe,T Munyonga,WP Masakadza,C Campher,1,0,,,,,,"",""
+ball,2,16.1,Zimbabwe,T Munyonga,WP Masakadza,J Little,0,0,,,,,,"",""
+ball,2,16.2,Zimbabwe,T Munyonga,WP Masakadza,J Little,1,0,,,,,,"",""
+ball,2,16.3,Zimbabwe,WP Masakadza,T Munyonga,J Little,1,0,,,,,,"",""
+ball,2,16.4,Zimbabwe,T Munyonga,WP Masakadza,J Little,2,0,,,,,,"",""
+ball,2,16.5,Zimbabwe,T Munyonga,WP Masakadza,J Little,1,0,,,,,,"",""
+ball,2,16.6,Zimbabwe,WP Masakadza,T Munyonga,J Little,0,0,,,,,,caught,WP Masakadza
+ball,2,17.1,Zimbabwe,T Munyonga,R Ngarava,GI Hume,1,0,,,,,,"",""
+ball,2,17.2,Zimbabwe,R Ngarava,T Munyonga,GI Hume,1,0,,,,,,"",""
+ball,2,17.3,Zimbabwe,T Munyonga,R Ngarava,GI Hume,4,0,,,,,,"",""
+ball,2,17.4,Zimbabwe,T Munyonga,R Ngarava,GI Hume,0,1,1,,,,,"",""
+ball,2,17.5,Zimbabwe,T Munyonga,R Ngarava,GI Hume,4,0,,,,,,"",""
+ball,2,17.6,Zimbabwe,T Munyonga,R Ngarava,GI Hume,2,0,,,,,,"",""
+ball,2,17.7,Zimbabwe,T Munyonga,R Ngarava,GI Hume,0,0,,,,,,"",""
+ball,2,18.1,Zimbabwe,R Ngarava,T Munyonga,CA Young,4,0,,,,,,"",""
+ball,2,18.2,Zimbabwe,R Ngarava,T Munyonga,CA Young,0,0,,,,,,"",""
+ball,2,18.3,Zimbabwe,R Ngarava,T Munyonga,CA Young,4,0,,,,,,"",""
+ball,2,18.4,Zimbabwe,R Ngarava,T Munyonga,CA Young,1,0,,,,,,"",""
+ball,2,18.5,Zimbabwe,T Munyonga,R Ngarava,CA Young,1,0,,,,,,"",""
+ball,2,18.6,Zimbabwe,R Ngarava,T Munyonga,CA Young,1,0,,,,,,"",""
+ball,2,19.1,Zimbabwe,R Ngarava,T Munyonga,GI Hume,1,0,,,,,,"",""
+ball,2,19.2,Zimbabwe,T Munyonga,R Ngarava,GI Hume,4,0,,,,,,"",""

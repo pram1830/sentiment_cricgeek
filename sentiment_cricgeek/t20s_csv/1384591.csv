@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,France
+info,team,Romania
+info,gender,male
+info,season,2023
+info,date,2023/07/13
+info,event,Valletta Cup
+info,match_number,4
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,L Canessane
+info,umpire,S Gowda
+info,umpire,V Sridhar
+info,reserve_umpire,J Hilhorst
+info,match_referee,S Harnal
+info,winner,France
+info,winner_runs,88
+info,player,France,G Mckeon
+info,player,France,HA Jackson
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Usman Khan
+info,player,France,Zain Ahmad
+info,player,France,Dawood Ahmadzai
+info,player,France,Noman Amjad
+info,player,France,Rahmatullah Mangal
+info,player,France,R Mangal
+info,player,France,SM Warnakulasuriya
+info,player,Romania,R Satheesan
+info,player,Romania,Taranjeet Singh
+info,player,Romania,S Nadigotla
+info,player,Romania,V Saini
+info,player,Romania,S Periyalwar
+info,player,Romania,Abdul Shakoor
+info,player,Romania,R Kumar
+info,player,Romania,S Vashisht
+info,player,Romania,S Thakur
+info,player,Romania,M Koli
+info,player,Romania,P Hingorani
+info,registry,people,Abdul Shakoor,d52b13a6
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,J Hilhorst,8a1350d4
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Koli,eb0f2802
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,R Kumar,2df874e6
+info,registry,people,R Mangal,5360c9be
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Thakur,a073f2ff
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,SM Warnakulasuriya,8a5a8cf0
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,V Saini,0fa81719
+info,registry,people,V Sridhar,42314166
+info,registry,people,Zain Ahmad,ea2c0aff
+ball,1,0.1,France,G Mckeon,HA Jackson,S Vashisht,0,3,,1,2,,,"",""
+ball,1,0.2,France,G Mckeon,HA Jackson,S Vashisht,4,0,,,,,,"",""
+ball,1,0.3,France,G Mckeon,HA Jackson,S Vashisht,0,0,,,,,,"",""
+ball,1,0.4,France,G Mckeon,HA Jackson,S Vashisht,0,0,,,,,,caught,G Mckeon
+ball,1,0.5,France,Mukhtar Ghulami,HA Jackson,S Vashisht,0,0,,,,,,"",""
+ball,1,0.6,France,Mukhtar Ghulami,HA Jackson,S Vashisht,1,0,,,,,,"",""
+ball,1,0.7,France,HA Jackson,Mukhtar Ghulami,S Vashisht,0,0,,,,,,"",""
+ball,1,1.1,France,Mukhtar Ghulami,HA Jackson,M Koli,1,0,,,,,,"",""
+ball,1,1.2,France,HA Jackson,Mukhtar Ghulami,M Koli,0,1,1,,,,,"",""
+ball,1,1.3,France,HA Jackson,Mukhtar Ghulami,M Koli,4,0,,,,,,"",""
+ball,1,1.4,France,HA Jackson,Mukhtar Ghulami,M Koli,0,1,,,,1,,"",""
+ball,1,1.5,France,Mukhtar Ghulami,HA Jackson,M Koli,0,1,1,,,,,"",""
+ball,1,1.6,France,Mukhtar Ghulami,HA Jackson,M Koli,0,0,,,,,,"",""
+ball,1,1.7,France,Mukhtar Ghulami,HA Jackson,M Koli,0,1,1,,,,,"",""
+ball,1,1.8,France,Mukhtar Ghulami,HA Jackson,M Koli,0,0,,,,,,"",""
+ball,1,1.9,France,Mukhtar Ghulami,HA Jackson,M Koli,0,1,1,,,,,"",""
+ball,1,1.10,France,Mukhtar Ghulami,HA Jackson,M Koli,0,0,,,,,,"",""
+ball,1,2.1,France,HA Jackson,Mukhtar Ghulami,S Vashisht,0,0,,,,,,"",""
+ball,1,2.2,France,HA Jackson,Mukhtar Ghulami,S Vashisht,4,0,,,,,,"",""
+ball,1,2.3,France,HA Jackson,Mukhtar Ghulami,S Vashisht,1,0,,,,,,"",""
+ball,1,2.4,France,Mukhtar Ghulami,HA Jackson,S Vashisht,4,0,,,,,,"",""
+ball,1,2.5,France,Mukhtar Ghulami,HA Jackson,S Vashisht,0,0,,,,,,"",""
+ball,1,2.6,France,Mukhtar Ghulami,HA Jackson,S Vashisht,0,0,,,,,,caught,Mukhtar Ghulami
+ball,1,3.1,France,HA Jackson,L Canessane,M Koli,0,0,,,,,,bowled,HA Jackson
+ball,1,3.2,France,Usman Khan,L Canessane,M Koli,0,0,,,,,,"",""
+ball,1,3.3,France,Usman Khan,L Canessane,M Koli,1,0,,,,,,"",""
+ball,1,3.4,France,L Canessane,Usman Khan,M Koli,1,0,,,,,,"",""
+ball,1,3.5,France,Usman Khan,L Canessane,M Koli,4,0,,,,,,"",""
+ball,1,3.6,France,Usman Khan,L Canessane,M Koli,0,0,,,,,,"",""
+ball,1,4.1,France,L Canessane,Usman Khan,S Vashisht,0,1,,,,1,,"",""
+ball,1,4.2,France,Usman Khan,L Canessane,S Vashisht,0,0,,,,,,"",""
+ball,1,4.3,France,Usman Khan,L Canessane,S Vashisht,1,0,,,,,,"",""
+ball,1,4.4,France,L Canessane,Usman Khan,S Vashisht,0,0,,,,,,"",""
+ball,1,4.5,France,L Canessane,Usman Khan,S Vashisht,0,1,1,,,,,"",""
+ball,1,4.6,France,L Canessane,Usman Khan,S Vashisht,1,0,,,,,,"",""
+ball,1,4.7,France,Usman Khan,L Canessane,S Vashisht,0,0,,,,,,"",""
+ball,1,5.1,France,L Canessane,Usman Khan,M Koli,0,0,,,,,,"",""
+ball,1,5.2,France,L Canessane,Usman Khan,M Koli,0,0,,,,,,"",""
+ball,1,5.3,France,L Canessane,Usman Khan,M Koli,0,0,,,,,,"",""
+ball,1,5.4,France,L Canessane,Usman Khan,M Koli,0,1,1,,,,,"",""
+ball,1,5.5,France,L Canessane,Usman Khan,M Koli,0,0,,,,,,"",""
+ball,1,5.6,France,L Canessane,Usman Khan,M Koli,0,5,5,,,,,"",""
+ball,1,5.7,France,L Canessane,Usman Khan,M Koli,1,0,,,,,,"",""
+ball,1,5.8,France,Usman Khan,L Canessane,M Koli,1,0,,,,,,"",""
+ball,1,6.1,France,Usman Khan,L Canessane,S Vashisht,0,0,,,,,,"",""
+ball,1,6.2,France,Usman Khan,L Canessane,S Vashisht,0,0,,,,,,"",""
+ball,1,6.3,France,Usman Khan,L Canessane,S Vashisht,1,0,,,,,,"",""
+ball,1,6.4,France,L Canessane,Usman Khan,S Vashisht,4,0,,,,,,"",""
+ball,1,6.5,France,L Canessane,Usman Khan,S Vashisht,0,0,,,,,,"",""
+ball,1,6.6,France,L Canessane,Usman Khan,S Vashisht,1,0,,,,,,"",""
+ball,1,7.1,France,L Canessane,Usman Khan,Taranjeet Singh,0,0,,,,,,"",""
+ball,1,7.2,France,L Canessane,Usman Khan,Taranjeet Singh,1,0,,,,,,"",""
+ball,1,7.3,France,Usman Khan,L Canessane,Taranjeet Singh,0,0,,,,,,"",""
+ball,1,7.4,France,Usman Khan,L Canessane,Taranjeet Singh,1,0,,,,,,"",""
+ball,1,7.5,France,L Canessane,Usman Khan,Taranjeet Singh,1,0,,,,,,"",""
+ball,1,7.6,France,Usman Khan,L Canessane,Taranjeet Singh,2,0,,,,,,"",""
+ball,1,8.1,France,L Canessane,Usman Khan,S Thakur,0,0,,,,,,"",""
+ball,1,8.2,France,L Canessane,Usman Khan,S Thakur,1,0,,,,,,"",""
+ball,1,8.3,France,Usman Khan,L Canessane,S Thakur,0,0,,,,,,"",""
+ball,1,8.4,France,Usman Khan,L Canessane,S Thakur,1,0,,,,,,"",""
+ball,1,8.5,France,L Canessane,Usman Khan,S Thakur,1,0,,,,,,"",""
+ball,1,8.6,France,Usman Khan,L Canessane,S Thakur,0,0,,,,,,"",""
+ball,1,9.1,France,L Canessane,Usman Khan,Taranjeet Singh,1,0,,,,,,"",""
+ball,1,9.2,France,Usman Khan,L Canessane,Taranjeet Singh,1,0,,,,,,"",""
+ball,1,9.3,France,L Canessane,Usman Khan,Taranjeet Singh,6,0,,,,,,"",""
+ball,1,9.4,France,L Canessane,Usman Khan,Taranjeet Singh,0,0,,,,,,"",""
+ball,1,9.5,France,L Canessane,Usman Khan,Taranjeet Singh,4,0,,,,,,"",""
+ball,1,9.6,France,L Canessane,Usman Khan,Taranjeet Singh,1,0,,,,,,"",""
+ball,1,10.1,France,L Canessane,Usman Khan,S Thakur,1,0,,,,,,"",""
+ball,1,10.2,France,Usman Khan,L Canessane,S Thakur,0,1,,,,1,,"",""
+ball,1,10.3,France,L Canessane,Usman Khan,S Thakur,1,0,,,,,,"",""
+ball,1,10.4,France,Usman Khan,L Canessane,S Thakur,0,0,,,,,,"",""
+ball,1,10.5,France,Usman Khan,L Canessane,S Thakur,1,0,,,,,,"",""
+ball,1,10.6,France,L Canessane,Usman Khan,S Thakur,0,0,,,,,,"",""
+ball,1,11.1,France,Usman Khan,L Canessane,V Saini,0,0,,,,,,"",""
+ball,1,11.2,France,Usman Khan,L Canessane,V Saini,2,0,,,,,,"",""
+ball,1,11.3,France,Usman Khan,L Canessane,V Saini,6,0,,,,,,"",""
+ball,1,11.4,France,Usman Khan,L Canessane,V Saini,1,0,,,,,,"",""
+ball,1,11.5,France,L Canessane,Usman Khan,V Saini,4,0,,,,,,"",""
+ball,1,11.6,France,L Canessane,Usman Khan,V Saini,1,0,,,,,,"",""
+ball,1,12.1,France,L Canessane,Usman Khan,P Hingorani,0,0,,,,,,"",""
+ball,1,12.2,France,L Canessane,Usman Khan,P Hingorani,4,0,,,,,,"",""
+ball,1,12.3,France,L Canessane,Usman Khan,P Hingorani,1,0,,,,,,"",""
+ball,1,12.4,France,Usman Khan,L Canessane,P Hingorani,0,0,,,,,,"",""
+ball,1,12.5,France,Usman Khan,L Canessane,P Hingorani,1,0,,,,,,"",""
+ball,1,12.6,France,L Canessane,Usman Khan,P Hingorani,0,0,,,,,,"",""
+ball,1,13.1,France,Usman Khan,L Canessane,R Kumar,1,0,,,,,,"",""
+ball,1,13.2,France,L Canessane,Usman Khan,R Kumar,4,0,,,,,,"",""
+ball,1,13.3,France,L Canessane,Usman Khan,R Kumar,0,0,,,,,,"",""
+ball,1,13.4,France,L Canessane,Usman Khan,R Kumar,4,0,,,,,,"",""
+ball,1,13.5,France,L Canessane,Usman Khan,R Kumar,1,0,,,,,,"",""
+ball,1,13.6,France,Usman Khan,L Canessane,R Kumar,1,0,,,,,,"",""
+ball,1,14.1,France,Usman Khan,L Canessane,P Hingorani,1,0,,,,,,"",""
+ball,1,14.2,France,L Canessane,Usman Khan,P Hingorani,0,1,1,,,,,"",""
+ball,1,14.3,France,L Canessane,Usman Khan,P Hingorani,4,0,,,,,,"",""
+ball,1,14.4,France,L Canessane,Usman Khan,P Hingorani,1,0,,,,,,"",""
+ball,1,14.5,France,Usman Khan,L Canessane,P Hingorani,1,0,,,,,,"",""
+ball,1,14.6,France,L Canessane,Usman Khan,P Hingorani,1,0,,,,,,"",""
+ball,1,14.7,France,Usman Khan,L Canessane,P Hingorani,1,0,,,,,,"",""
+ball,1,15.1,France,Usman Khan,L Canessane,R Kumar,4,0,,,,,,"",""
+ball,1,15.2,France,Usman Khan,L Canessane,R Kumar,2,0,,,,,,"",""
+ball,1,15.3,France,Usman Khan,L Canessane,R Kumar,0,0,,,,,,"",""
+ball,1,15.4,France,Usman Khan,L Canessane,R Kumar,4,0,,,,,,"",""
+ball,1,15.5,France,Usman Khan,L Canessane,R Kumar,1,0,,,,,,"",""
+ball,1,15.6,France,L Canessane,Usman Khan,R Kumar,6,0,,,,,,"",""
+ball,1,16.1,France,Usman Khan,L Canessane,S Thakur,1,0,,,,,,"",""
+ball,1,16.2,France,L Canessane,Usman Khan,S Thakur,1,0,,,,,,"",""
+ball,1,16.3,France,Usman Khan,L Canessane,S Thakur,0,0,,,,,,"",""
+ball,1,16.4,France,Usman Khan,L Canessane,S Thakur,1,0,,,,,,"",""
+ball,1,16.5,France,L Canessane,Usman Khan,S Thakur,1,0,,,,,,"",""
+ball,1,16.6,France,Usman Khan,L Canessane,S Thakur,0,0,,,,,,"",""
+ball,1,17.1,France,L Canessane,Usman Khan,M Koli,2,0,,,,,,"",""
+ball,1,17.2,France,L Canessane,Usman Khan,M Koli,0,0,,,,,,"",""
+ball,1,17.3,France,L Canessane,Usman Khan,M Koli,1,0,,,,,,"",""
+ball,1,17.4,France,Usman Khan,L Canessane,M Koli,0,1,1,,,,,"",""
+ball,1,17.5,France,Usman Khan,L Canessane,M Koli,0,1,1,,,,,"",""
+ball,1,17.6,France,Usman Khan,L Canessane,M Koli,1,0,,,,,,"",""
+ball,1,17.7,France,L Canessane,Usman Khan,M Koli,1,0,,,,,,"",""
+ball,1,17.8,France,Usman Khan,L Canessane,M Koli,2,0,,,,,,"",""
+ball,1,18.1,France,L Canessane,Usman Khan,S Thakur,6,0,,,,,,"",""
+ball,1,18.2,France,L Canessane,Usman Khan,S Thakur,4,0,,,,,,"",""
+ball,1,18.3,France,L Canessane,Usman Khan,S Thakur,2,0,,,,,,"",""
+ball,1,18.4,France,L Canessane,Usman Khan,S Thakur,6,0,,,,,,"",""
+ball,1,18.5,France,L Canessane,Usman Khan,S Thakur,6,0,,,,,,"",""
+ball,1,18.6,France,L Canessane,Usman Khan,S Thakur,2,0,,,,,,"",""
+ball,1,19.1,France,Usman Khan,L Canessane,V Saini,4,0,,,,,,"",""
+ball,1,19.2,France,Usman Khan,L Canessane,V Saini,2,0,,,,,,"",""
+ball,1,19.3,France,Usman Khan,L Canessane,V Saini,0,0,,,,,,"",""
+ball,1,19.4,France,Usman Khan,L Canessane,V Saini,2,0,,,,,,"",""
+ball,1,19.5,France,Usman Khan,L Canessane,V Saini,4,0,,,,,,"",""
+ball,1,19.6,France,Usman Khan,L Canessane,V Saini,6,0,,,,,,"",""
+ball,2,0.1,Romania,R Satheesan,Taranjeet Singh,Noman Amjad,0,0,,,,,,"",""
+ball,2,0.2,Romania,R Satheesan,Taranjeet Singh,Noman Amjad,0,0,,,,,,"",""
+ball,2,0.3,Romania,R Satheesan,Taranjeet Singh,Noman Amjad,4,0,,,,,,"",""
+ball,2,0.4,Romania,R Satheesan,Taranjeet Singh,Noman Amjad,0,0,,,,,,caught,R Satheesan
+ball,2,0.5,Romania,S Nadigotla,Taranjeet Singh,Noman Amjad,0,0,,,,,,"",""
+ball,2,0.6,Romania,S Nadigotla,Taranjeet Singh,Noman Amjad,1,0,,,,,,"",""
+ball,2,1.1,Romania,S Nadigotla,Taranjeet Singh,SM Warnakulasuriya,0,0,,,,,,"",""
+ball,2,1.2,Romania,S Nadigotla,Taranjeet Singh,SM Warnakulasuriya,0,0,,,,,,"",""
+ball,2,1.3,Romania,S Nadigotla,Taranjeet Singh,SM Warnakulasuriya,1,0,,,,,,"",""
+ball,2,1.4,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,0,1,,,,1,,"",""
+ball,2,1.5,Romania,S Nadigotla,Taranjeet Singh,SM Warnakulasuriya,1,0,,,,,,"",""
+ball,2,1.6,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,0,0,,,,,,"",""
+ball,2,2.1,Romania,S Nadigotla,Taranjeet Singh,Noman Amjad,0,0,,,,,,"",""
+ball,2,2.2,Romania,S Nadigotla,Taranjeet Singh,Noman Amjad,1,0,,,,,,"",""
+ball,2,2.3,Romania,Taranjeet Singh,S Nadigotla,Noman Amjad,6,0,,,,,,"",""
+ball,2,2.4,Romania,Taranjeet Singh,S Nadigotla,Noman Amjad,4,0,,,,,,"",""
+ball,2,2.5,Romania,Taranjeet Singh,S Nadigotla,Noman Amjad,1,0,,,,,,"",""
+ball,2,2.6,Romania,S Nadigotla,Taranjeet Singh,Noman Amjad,0,0,,,,,,"",""
+ball,2,3.1,Romania,Taranjeet Singh,S Nadigotla,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,2,3.2,Romania,Taranjeet Singh,S Nadigotla,Rahmatullah Mangal,6,0,,,,,,"",""
+ball,2,3.3,Romania,Taranjeet Singh,S Nadigotla,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,2,3.4,Romania,Taranjeet Singh,S Nadigotla,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,2,3.5,Romania,Taranjeet Singh,S Nadigotla,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,2,3.6,Romania,S Nadigotla,Taranjeet Singh,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,2,4.1,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,4,0,,,,,,"",""
+ball,2,4.2,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,4,0,,,,,,"",""
+ball,2,4.3,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,0,0,,,,,,"",""
+ball,2,4.4,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,6,0,,,,,,"",""
+ball,2,4.5,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,4,0,,,,,,"",""
+ball,2,4.6,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,0,1,1,,,,,"",""
+ball,2,4.7,Romania,Taranjeet Singh,S Nadigotla,SM Warnakulasuriya,6,0,,,,,,"",""
+ball,2,5.1,Romania,S Nadigotla,Taranjeet Singh,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,2,5.2,Romania,Taranjeet Singh,S Nadigotla,Rahmatullah Mangal,0,0,,,,,,caught,Taranjeet Singh
+ball,2,5.3,Romania,V Saini,S Nadigotla,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,2,5.4,Romania,S Nadigotla,V Saini,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,2,5.5,Romania,V Saini,S Nadigotla,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,2,5.6,Romania,V Saini,S Nadigotla,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,2,6.1,Romania,S Nadigotla,V Saini,Dawood Ahmadzai,0,1,,,,1,,"",""
+ball,2,6.2,Romania,V Saini,S Nadigotla,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.3,Romania,V Saini,S Nadigotla,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.4,Romania,V Saini,S Nadigotla,Dawood Ahmadzai,0,0,,,,,,caught,V Saini
+ball,2,6.5,Romania,S Periyalwar,S Nadigotla,Dawood Ahmadzai,0,0,,,,,,lbw,S Periyalwar
+ball,2,6.6,Romania,Abdul Shakoor,S Nadigotla,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,7.1,Romania,S Nadigotla,Abdul Shakoor,Zain Ahmad,0,0,,,,,,"",""
+ball,2,7.2,Romania,S Nadigotla,Abdul Shakoor,Zain Ahmad,1,0,,,,,,"",""
+ball,2,7.3,Romania,Abdul Shakoor,S Nadigotla,Zain Ahmad,1,0,,,,,,"",""
+ball,2,7.4,Romania,S Nadigotla,Abdul Shakoor,Zain Ahmad,1,0,,,,,,"",""
+ball,2,7.5,Romania,Abdul Shakoor,S Nadigotla,Zain Ahmad,0,0,,,,,,"",""
+ball,2,7.6,Romania,Abdul Shakoor,S Nadigotla,Zain Ahmad,1,0,,,,,,"",""
+ball,2,8.1,Romania,Abdul Shakoor,S Nadigotla,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.2,Romania,Abdul Shakoor,S Nadigotla,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,8.3,Romania,S Nadigotla,Abdul Shakoor,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,8.4,Romania,Abdul Shakoor,S Nadigotla,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.5,Romania,Abdul Shakoor,S Nadigotla,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,8.6,Romania,S Nadigotla,Abdul Shakoor,Dawood Ahmadzai,0,0,,,,,,caught,S Nadigotla
+ball,2,9.1,Romania,Abdul Shakoor,R Kumar,Zain Ahmad,1,0,,,,,,"",""
+ball,2,9.2,Romania,R Kumar,Abdul Shakoor,Zain Ahmad,0,0,,,,,,"",""
+ball,2,9.3,Romania,R Kumar,Abdul Shakoor,Zain Ahmad,0,0,,,,,,"",""
+ball,2,9.4,Romania,R Kumar,Abdul Shakoor,Zain Ahmad,0,0,,,,,,caught,R Kumar
+ball,2,9.5,Romania,S Vashisht,Abdul Shakoor,Zain Ahmad,0,0,,,,,,"",""
+ball,2,9.6,Romania,S Vashisht,Abdul Shakoor,Zain Ahmad,0,0,,,,,,caught and bowled,S Vashisht
+ball,2,10.1,Romania,Abdul Shakoor,S Thakur,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,10.2,Romania,Abdul Shakoor,S Thakur,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,10.3,Romania,S Thakur,Abdul Shakoor,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,10.4,Romania,S Thakur,Abdul Shakoor,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,10.5,Romania,Abdul Shakoor,S Thakur,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,10.6,Romania,S Thakur,Abdul Shakoor,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,11.1,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,2,0,,,,,,"",""
+ball,2,11.2,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,0,0,,,,,,"",""
+ball,2,11.3,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,1,0,,,,,,"",""
+ball,2,11.4,Romania,S Thakur,Abdul Shakoor,Zain Ahmad,1,0,,,,,,"",""
+ball,2,11.5,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,1,0,,,,,,"",""
+ball,2,11.6,Romania,S Thakur,Abdul Shakoor,Zain Ahmad,0,0,,,,,,"",""
+ball,2,12.1,Romania,Abdul Shakoor,S Thakur,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,12.2,Romania,S Thakur,Abdul Shakoor,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,12.3,Romania,S Thakur,Abdul Shakoor,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,12.4,Romania,Abdul Shakoor,S Thakur,Dawood Ahmadzai,2,0,,,,,,"",""
+ball,2,12.5,Romania,Abdul Shakoor,S Thakur,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,12.6,Romania,S Thakur,Abdul Shakoor,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,13.1,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,0,0,,,,,,"",""
+ball,2,13.2,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,0,0,,,,,,"",""
+ball,2,13.3,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,0,0,,,,,,"",""
+ball,2,13.4,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,0,0,,,,,,"",""
+ball,2,13.5,Romania,Abdul Shakoor,S Thakur,Zain Ahmad,1,0,,,,,,"",""
+ball,2,13.6,Romania,S Thakur,Abdul Shakoor,Zain Ahmad,0,1,1,,,,,"",""
+ball,2,13.7,Romania,S Thakur,Abdul Shakoor,Zain Ahmad,1,0,,,,,,"",""
+ball,2,14.1,Romania,S Thakur,Abdul Shakoor,G Mckeon,0,0,,,,,,"",""
+ball,2,14.2,Romania,S Thakur,Abdul Shakoor,G Mckeon,0,0,,,,,,"",""
+ball,2,14.3,Romania,S Thakur,Abdul Shakoor,G Mckeon,0,1,,,,1,,"",""
+ball,2,14.4,Romania,Abdul Shakoor,S Thakur,G Mckeon,0,0,,,,,,"",""
+ball,2,14.5,Romania,Abdul Shakoor,S Thakur,G Mckeon,0,0,,,,,,"",""
+ball,2,14.6,Romania,Abdul Shakoor,S Thakur,G Mckeon,0,0,,,,,,"",""
+ball,2,15.1,Romania,S Thakur,Abdul Shakoor,R Mangal,0,0,,,,,,caught,S Thakur
+ball,2,15.2,Romania,M Koli,Abdul Shakoor,R Mangal,0,1,1,,,,,"",""
+ball,2,15.3,Romania,M Koli,Abdul Shakoor,R Mangal,1,0,,,,,,"",""
+ball,2,15.4,Romania,Abdul Shakoor,M Koli,R Mangal,0,0,,,,,,"",""
+ball,2,15.5,Romania,Abdul Shakoor,M Koli,R Mangal,0,0,,,,,,"",""
+ball,2,15.6,Romania,Abdul Shakoor,M Koli,R Mangal,0,1,1,,,,,"",""
+ball,2,15.7,Romania,Abdul Shakoor,M Koli,R Mangal,1,0,,,,,,"",""
+ball,2,15.8,Romania,M Koli,Abdul Shakoor,R Mangal,0,0,,,,,,"",""
+ball,2,16.1,Romania,Abdul Shakoor,M Koli,G Mckeon,2,0,,,,,,"",""
+ball,2,16.2,Romania,Abdul Shakoor,M Koli,G Mckeon,0,1,1,,,,,"",""
+ball,2,16.3,Romania,Abdul Shakoor,M Koli,G Mckeon,1,0,,,,,,"",""
+ball,2,16.4,Romania,M Koli,Abdul Shakoor,G Mckeon,1,0,,,,,,"",""
+ball,2,16.5,Romania,Abdul Shakoor,M Koli,G Mckeon,1,0,,,,,,"",""
+ball,2,16.6,Romania,M Koli,Abdul Shakoor,G Mckeon,0,0,,,,,,"",""
+ball,2,16.7,Romania,M Koli,Abdul Shakoor,G Mckeon,1,0,,,,,,"",""
+ball,2,17.1,Romania,M Koli,Abdul Shakoor,R Mangal,1,0,,,,,,"",""
+ball,2,17.2,Romania,Abdul Shakoor,M Koli,R Mangal,6,0,,,,,,"",""
+ball,2,17.3,Romania,Abdul Shakoor,M Koli,R Mangal,0,0,,,,,,"",""
+ball,2,17.4,Romania,Abdul Shakoor,M Koli,R Mangal,0,1,1,,,,,"",""
+ball,2,17.5,Romania,Abdul Shakoor,M Koli,R Mangal,0,0,,,,,,caught,Abdul Shakoor
+ball,2,17.6,Romania,P Hingorani,M Koli,R Mangal,1,0,,,,,,"",""
+ball,2,17.7,Romania,M Koli,P Hingorani,R Mangal,2,0,,,,,,"",""
+ball,2,18.1,Romania,P Hingorani,M Koli,G Mckeon,0,0,,,,,,bowled,P Hingorani

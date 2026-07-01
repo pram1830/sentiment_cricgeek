@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Scotland
+info,gender,female
+info,season,2023
+info,date,2023/09/07
+info,event,ICC Women's T20 World Cup Europe Region Qualifier
+info,match_number,3
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Scotland
+info,toss_decision,field
+info,player_of_match,SL Kalis
+info,umpire,Adnan Khan
+info,umpire,Rizwan Akram
+info,reserve_umpire,HE Kearns
+info,match_referee,DT Jukes
+info,winner,Netherlands
+info,winner_runs,35
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,CH van Koolwijk
+info,player,Netherlands,C de Lange
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,MM Dekeling
+info,player,Scotland,A Lister
+info,player,Scotland,KE Bryce
+info,player,Scotland,DEM Carter
+info,player,Scotland,SJ Bryce
+info,player,Scotland,PA Chatterji
+info,player,Scotland,L Jack
+info,player,Scotland,M Faisal
+info,player,Scotland,C Abel
+info,player,Scotland,M McColl
+info,player,Scotland,AH Maqsood
+info,player,Scotland,HRA Rainey
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Abel,d92d3563
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CH van Koolwijk,27d5901c
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M Faisal,48b74dc2
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Rijke,42e4b276
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,SL Kalis,2b150c6b
+ball,1,0.1,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,2,0,,,,,,"",""
+ball,1,0.2,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,1,0.3,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,1,0.4,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,1,0.5,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,2,2,,,,,"",""
+ball,1,0.6,Netherlands,SL Kalis,IJR Zwilling,PA Chatterji,0,0,,,,,,"",""
+ball,1,0.7,Netherlands,SL Kalis,IJR Zwilling,PA Chatterji,0,0,,,,,,"",""
+ball,1,1.1,Netherlands,IJR Zwilling,SL Kalis,KE Bryce,0,0,,,,,,lbw,IJR Zwilling
+ball,1,1.2,Netherlands,B de Leede,SL Kalis,KE Bryce,0,0,,,,,,"",""
+ball,1,1.3,Netherlands,B de Leede,SL Kalis,KE Bryce,0,0,,,,,,"",""
+ball,1,1.4,Netherlands,B de Leede,SL Kalis,KE Bryce,0,1,,,,1,,"",""
+ball,1,1.5,Netherlands,SL Kalis,B de Leede,KE Bryce,4,0,,,,,,"",""
+ball,1,1.6,Netherlands,SL Kalis,B de Leede,KE Bryce,0,0,,,,,,"",""
+ball,1,2.1,Netherlands,B de Leede,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,1,2.2,Netherlands,SL Kalis,B de Leede,PA Chatterji,0,0,,,,,,"",""
+ball,1,2.3,Netherlands,SL Kalis,B de Leede,PA Chatterji,0,1,1,,,,,"",""
+ball,1,2.4,Netherlands,SL Kalis,B de Leede,PA Chatterji,0,0,,,,,,"",""
+ball,1,2.5,Netherlands,SL Kalis,B de Leede,PA Chatterji,0,0,,,,,,"",""
+ball,1,2.6,Netherlands,SL Kalis,B de Leede,PA Chatterji,0,0,,,,,,"",""
+ball,1,2.7,Netherlands,SL Kalis,B de Leede,PA Chatterji,0,1,1,,,,,"",""
+ball,1,2.8,Netherlands,SL Kalis,B de Leede,PA Chatterji,1,0,,,,,,"",""
+ball,1,3.1,Netherlands,SL Kalis,B de Leede,KE Bryce,4,0,,,,,,"",""
+ball,1,3.2,Netherlands,SL Kalis,B de Leede,KE Bryce,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,SL Kalis,B de Leede,KE Bryce,1,0,,,,,,"",""
+ball,1,3.4,Netherlands,B de Leede,SL Kalis,KE Bryce,0,0,,,,,,"",""
+ball,1,3.5,Netherlands,B de Leede,SL Kalis,KE Bryce,0,1,1,,,,,"",""
+ball,1,3.6,Netherlands,B de Leede,SL Kalis,KE Bryce,1,0,,,,,,"",""
+ball,1,3.7,Netherlands,SL Kalis,B de Leede,KE Bryce,4,0,,,,,,"",""
+ball,1,4.1,Netherlands,B de Leede,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,1,4.2,Netherlands,B de Leede,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,1,4.3,Netherlands,B de Leede,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,1,4.4,Netherlands,B de Leede,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,1,4.5,Netherlands,SL Kalis,B de Leede,PA Chatterji,0,0,,,,,,"",""
+ball,1,4.6,Netherlands,SL Kalis,B de Leede,PA Chatterji,1,0,,,,,,"",""
+ball,1,5.1,Netherlands,SL Kalis,B de Leede,HRA Rainey,0,0,,,,,,"",""
+ball,1,5.2,Netherlands,SL Kalis,B de Leede,HRA Rainey,0,1,1,,,,,"",""
+ball,1,5.3,Netherlands,SL Kalis,B de Leede,HRA Rainey,0,0,,,,,,"",""
+ball,1,5.4,Netherlands,SL Kalis,B de Leede,HRA Rainey,2,0,,,,,,"",""
+ball,1,5.5,Netherlands,SL Kalis,B de Leede,HRA Rainey,4,0,,,,,,"",""
+ball,1,5.6,Netherlands,SL Kalis,B de Leede,HRA Rainey,1,0,,,,,,"",""
+ball,1,5.7,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,6.1,Netherlands,SL Kalis,B de Leede,DEM Carter,0,1,1,,,,,"",""
+ball,1,6.2,Netherlands,SL Kalis,B de Leede,DEM Carter,1,0,,,,,,"",""
+ball,1,6.3,Netherlands,B de Leede,SL Kalis,DEM Carter,1,0,,,,,,"",""
+ball,1,6.4,Netherlands,SL Kalis,B de Leede,DEM Carter,6,0,,,,,,"",""
+ball,1,6.5,Netherlands,SL Kalis,B de Leede,DEM Carter,0,0,,,,,,"",""
+ball,1,6.6,Netherlands,SL Kalis,B de Leede,DEM Carter,1,0,,,,,,"",""
+ball,1,6.7,Netherlands,B de Leede,SL Kalis,DEM Carter,1,0,,,,,,"",""
+ball,1,7.1,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,7.2,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,7.3,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,7.4,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,7.5,Netherlands,B de Leede,SL Kalis,HRA Rainey,1,0,,,,,,"",""
+ball,1,7.6,Netherlands,SL Kalis,B de Leede,HRA Rainey,0,1,,,,1,,"",""
+ball,1,8.1,Netherlands,SL Kalis,B de Leede,DEM Carter,2,0,,,,,,"",""
+ball,1,8.2,Netherlands,SL Kalis,B de Leede,DEM Carter,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,B de Leede,SL Kalis,DEM Carter,1,0,,,,,,"",""
+ball,1,8.4,Netherlands,SL Kalis,B de Leede,DEM Carter,1,0,,,,,,"",""
+ball,1,8.5,Netherlands,B de Leede,SL Kalis,DEM Carter,1,0,,,,,,"",""
+ball,1,8.6,Netherlands,SL Kalis,B de Leede,DEM Carter,0,1,,,,1,,"",""
+ball,1,9.1,Netherlands,SL Kalis,B de Leede,HRA Rainey,2,0,,,,,,"",""
+ball,1,9.2,Netherlands,SL Kalis,B de Leede,HRA Rainey,0,1,1,,,,,"",""
+ball,1,9.3,Netherlands,SL Kalis,B de Leede,HRA Rainey,0,1,1,,,,,"",""
+ball,1,9.4,Netherlands,SL Kalis,B de Leede,HRA Rainey,1,0,,,,,,"",""
+ball,1,9.5,Netherlands,B de Leede,SL Kalis,HRA Rainey,2,0,,,,,,"",""
+ball,1,9.6,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,9.7,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,9.8,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,1,1,,,,,"",""
+ball,1,9.9,Netherlands,B de Leede,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,1,10.1,Netherlands,SL Kalis,B de Leede,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.2,Netherlands,B de Leede,SL Kalis,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.3,Netherlands,SL Kalis,B de Leede,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.4,Netherlands,B de Leede,SL Kalis,AH Maqsood,4,0,,,,,,"",""
+ball,1,10.5,Netherlands,B de Leede,SL Kalis,AH Maqsood,0,0,,,,,,"",""
+ball,1,10.6,Netherlands,B de Leede,SL Kalis,AH Maqsood,1,0,,,,,,"",""
+ball,1,11.1,Netherlands,B de Leede,SL Kalis,C Abel,1,0,,,,,,"",""
+ball,1,11.2,Netherlands,SL Kalis,B de Leede,C Abel,1,0,,,,,,"",""
+ball,1,11.3,Netherlands,B de Leede,SL Kalis,C Abel,0,0,,,,,,caught,B de Leede
+ball,1,11.4,Netherlands,R Rijke,SL Kalis,C Abel,0,0,,,,,,"",""
+ball,1,11.5,Netherlands,R Rijke,SL Kalis,C Abel,0,1,1,,,,,"",""
+ball,1,11.6,Netherlands,R Rijke,SL Kalis,C Abel,0,0,,,,,,"",""
+ball,1,11.7,Netherlands,R Rijke,SL Kalis,C Abel,0,0,,,,,,"",""
+ball,1,12.1,Netherlands,SL Kalis,R Rijke,AH Maqsood,1,0,,,,,,"",""
+ball,1,12.2,Netherlands,R Rijke,SL Kalis,AH Maqsood,1,0,,,,,,"",""
+ball,1,12.3,Netherlands,SL Kalis,R Rijke,AH Maqsood,6,0,,,,,,"",""
+ball,1,12.4,Netherlands,SL Kalis,R Rijke,AH Maqsood,0,0,,,,,,"",""
+ball,1,12.5,Netherlands,SL Kalis,R Rijke,AH Maqsood,2,0,,,,,,"",""
+ball,1,12.6,Netherlands,SL Kalis,R Rijke,AH Maqsood,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,SL Kalis,R Rijke,C Abel,1,0,,,,,,"",""
+ball,1,13.2,Netherlands,R Rijke,SL Kalis,C Abel,1,0,,,,,,"",""
+ball,1,13.3,Netherlands,SL Kalis,R Rijke,C Abel,0,0,,,,,,"",""
+ball,1,13.4,Netherlands,SL Kalis,R Rijke,C Abel,1,0,,,,,,"",""
+ball,1,13.5,Netherlands,R Rijke,SL Kalis,C Abel,0,0,,,,,,"",""
+ball,1,13.6,Netherlands,R Rijke,SL Kalis,C Abel,2,0,,,,,,"",""
+ball,1,14.1,Netherlands,SL Kalis,R Rijke,KE Bryce,1,0,,,,,,"",""
+ball,1,14.2,Netherlands,R Rijke,SL Kalis,KE Bryce,1,0,,,,,,"",""
+ball,1,14.3,Netherlands,SL Kalis,R Rijke,KE Bryce,1,0,,,,,,"",""
+ball,1,14.4,Netherlands,R Rijke,SL Kalis,KE Bryce,0,0,,,,,,bowled,R Rijke
+ball,1,14.5,Netherlands,HDJ Siegers,SL Kalis,KE Bryce,0,0,,,,,,"",""
+ball,1,14.6,Netherlands,HDJ Siegers,SL Kalis,KE Bryce,4,0,,,,,,"",""
+ball,1,15.1,Netherlands,SL Kalis,HDJ Siegers,C Abel,0,0,,,,,,"",""
+ball,1,15.2,Netherlands,SL Kalis,HDJ Siegers,C Abel,0,0,,,,,,"",""
+ball,1,15.3,Netherlands,SL Kalis,HDJ Siegers,C Abel,1,0,,,,,,"",""
+ball,1,15.4,Netherlands,HDJ Siegers,SL Kalis,C Abel,1,1,,1,,,,"",""
+ball,1,15.5,Netherlands,SL Kalis,HDJ Siegers,C Abel,0,0,,,,,,"",""
+ball,1,15.6,Netherlands,SL Kalis,HDJ Siegers,C Abel,4,0,,,,,,"",""
+ball,1,15.7,Netherlands,SL Kalis,HDJ Siegers,C Abel,1,0,,,,,,"",""
+ball,1,16.1,Netherlands,SL Kalis,HDJ Siegers,PA Chatterji,1,0,,,,,,"",""
+ball,1,16.2,Netherlands,HDJ Siegers,SL Kalis,PA Chatterji,4,0,,,,,,"",""
+ball,1,16.3,Netherlands,HDJ Siegers,SL Kalis,PA Chatterji,0,1,1,,,,,"",""
+ball,1,16.4,Netherlands,HDJ Siegers,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,1,16.5,Netherlands,SL Kalis,HDJ Siegers,PA Chatterji,4,0,,,,,,"",""
+ball,1,16.6,Netherlands,SL Kalis,HDJ Siegers,PA Chatterji,2,0,,,,,,"",""
+ball,1,16.7,Netherlands,SL Kalis,HDJ Siegers,PA Chatterji,1,0,,,,,,"",""
+ball,1,17.1,Netherlands,SL Kalis,HDJ Siegers,HRA Rainey,0,0,,,,,,bowled,SL Kalis
+ball,1,17.2,Netherlands,P Molkenboer,HDJ Siegers,HRA Rainey,1,0,,,,,,"",""
+ball,1,17.3,Netherlands,HDJ Siegers,P Molkenboer,HRA Rainey,0,0,,,,,,"",""
+ball,1,17.4,Netherlands,HDJ Siegers,P Molkenboer,HRA Rainey,0,0,,,,,,"",""
+ball,1,17.5,Netherlands,HDJ Siegers,P Molkenboer,HRA Rainey,0,0,,,,,,bowled,HDJ Siegers
+ball,1,17.6,Netherlands,EN Lynch,P Molkenboer,HRA Rainey,4,0,,,,,,"",""
+ball,1,18.1,Netherlands,P Molkenboer,EN Lynch,KE Bryce,1,0,,,,,,"",""
+ball,1,18.2,Netherlands,EN Lynch,P Molkenboer,KE Bryce,1,0,,,,,,"",""
+ball,1,18.3,Netherlands,P Molkenboer,EN Lynch,KE Bryce,1,0,,,,,,"",""
+ball,1,18.4,Netherlands,EN Lynch,P Molkenboer,KE Bryce,0,0,,,,,,"",""
+ball,1,18.5,Netherlands,EN Lynch,P Molkenboer,KE Bryce,1,0,,,,,,"",""
+ball,1,18.6,Netherlands,P Molkenboer,EN Lynch,KE Bryce,1,0,,,,,,"",""
+ball,1,19.1,Netherlands,P Molkenboer,EN Lynch,C Abel,1,0,,,,,,"",""
+ball,1,19.2,Netherlands,EN Lynch,P Molkenboer,C Abel,1,0,,,,,,"",""
+ball,1,19.3,Netherlands,P Molkenboer,EN Lynch,C Abel,1,0,,,,,,"",""
+ball,1,19.4,Netherlands,EN Lynch,P Molkenboer,C Abel,1,0,,,,,,"",""
+ball,1,19.5,Netherlands,P Molkenboer,EN Lynch,C Abel,1,0,,,,,,run out,P Molkenboer
+ball,1,19.6,Netherlands,CH van Koolwijk,EN Lynch,C Abel,0,1,1,,,,,"",""
+ball,1,19.7,Netherlands,CH van Koolwijk,EN Lynch,C Abel,0,0,,,,,,caught,CH van Koolwijk
+ball,2,0.1,Scotland,A Lister,KE Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.2,Scotland,A Lister,KE Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.3,Scotland,A Lister,KE Bryce,IJR Zwilling,0,0,,,,,,caught,A Lister
+ball,2,0.4,Scotland,DEM Carter,KE Bryce,IJR Zwilling,4,0,,,,,,"",""
+ball,2,0.5,Scotland,DEM Carter,KE Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.6,Scotland,DEM Carter,KE Bryce,IJR Zwilling,1,0,,,,,,"",""
+ball,2,1.1,Scotland,DEM Carter,KE Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,1.2,Scotland,DEM Carter,KE Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,1.3,Scotland,DEM Carter,KE Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,1.4,Scotland,DEM Carter,KE Bryce,R Rijke,1,0,,,,,,"",""
+ball,2,1.5,Scotland,KE Bryce,DEM Carter,R Rijke,0,0,,,,,,"",""
+ball,2,1.6,Scotland,KE Bryce,DEM Carter,R Rijke,0,0,,,,,,"",""
+ball,2,2.1,Scotland,DEM Carter,KE Bryce,IJR Zwilling,4,0,,,,,,"",""
+ball,2,2.2,Scotland,DEM Carter,KE Bryce,IJR Zwilling,2,0,,,,,,"",""
+ball,2,2.3,Scotland,DEM Carter,KE Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.4,Scotland,DEM Carter,KE Bryce,IJR Zwilling,0,0,,,,,,caught,DEM Carter
+ball,2,2.5,Scotland,SJ Bryce,KE Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.6,Scotland,SJ Bryce,KE Bryce,IJR Zwilling,1,0,,,,,,"",""
+ball,2,3.1,Scotland,SJ Bryce,KE Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,3.2,Scotland,SJ Bryce,KE Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,3.3,Scotland,SJ Bryce,KE Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,3.4,Scotland,SJ Bryce,KE Bryce,R Rijke,1,0,,,,,,"",""
+ball,2,3.5,Scotland,KE Bryce,SJ Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,3.6,Scotland,KE Bryce,SJ Bryce,R Rijke,1,0,,,,,,"",""
+ball,2,4.1,Scotland,KE Bryce,SJ Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.2,Scotland,KE Bryce,SJ Bryce,IJR Zwilling,4,0,,,,,,"",""
+ball,2,4.3,Scotland,KE Bryce,SJ Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.4,Scotland,KE Bryce,SJ Bryce,IJR Zwilling,1,0,,,,,,"",""
+ball,2,4.5,Scotland,SJ Bryce,KE Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.6,Scotland,SJ Bryce,KE Bryce,IJR Zwilling,0,0,,,,,,"",""
+ball,2,5.1,Scotland,KE Bryce,SJ Bryce,R Rijke,4,0,,,,,,"",""
+ball,2,5.2,Scotland,KE Bryce,SJ Bryce,R Rijke,1,0,,,,,,"",""
+ball,2,5.3,Scotland,SJ Bryce,KE Bryce,R Rijke,1,0,,,,,,"",""
+ball,2,5.4,Scotland,KE Bryce,SJ Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,5.5,Scotland,KE Bryce,SJ Bryce,R Rijke,0,0,,,,,,"",""
+ball,2,5.6,Scotland,KE Bryce,SJ Bryce,R Rijke,1,0,,,,,,"",""
+ball,2,6.1,Scotland,KE Bryce,SJ Bryce,EN Lynch,4,0,,,,,,"",""
+ball,2,6.2,Scotland,KE Bryce,SJ Bryce,EN Lynch,0,0,,,,,,caught and bowled,KE Bryce
+ball,2,6.3,Scotland,PA Chatterji,SJ Bryce,EN Lynch,1,0,,,,,,"",""
+ball,2,6.4,Scotland,SJ Bryce,PA Chatterji,EN Lynch,2,0,,,,,,"",""
+ball,2,6.5,Scotland,SJ Bryce,PA Chatterji,EN Lynch,0,0,,,,,,"",""
+ball,2,6.6,Scotland,SJ Bryce,PA Chatterji,EN Lynch,1,0,,,,,,"",""
+ball,2,7.1,Scotland,SJ Bryce,PA Chatterji,C de Lange,2,0,,,,,,"",""
+ball,2,7.2,Scotland,SJ Bryce,PA Chatterji,C de Lange,1,0,,,,,,"",""
+ball,2,7.3,Scotland,PA Chatterji,SJ Bryce,C de Lange,0,0,,,,,,bowled,PA Chatterji
+ball,2,7.4,Scotland,L Jack,SJ Bryce,C de Lange,1,0,,,,,,"",""
+ball,2,7.5,Scotland,SJ Bryce,L Jack,C de Lange,1,0,,,,,,"",""
+ball,2,7.6,Scotland,L Jack,SJ Bryce,C de Lange,0,0,,,,,,"",""
+ball,2,8.1,Scotland,SJ Bryce,L Jack,EN Lynch,1,0,,,,,,"",""
+ball,2,8.2,Scotland,L Jack,SJ Bryce,EN Lynch,1,0,,,,,,"",""
+ball,2,8.3,Scotland,SJ Bryce,L Jack,EN Lynch,0,0,,,,,,"",""
+ball,2,8.4,Scotland,SJ Bryce,L Jack,EN Lynch,0,0,,,,,,"",""
+ball,2,8.5,Scotland,SJ Bryce,L Jack,EN Lynch,4,0,,,,,,"",""
+ball,2,8.6,Scotland,SJ Bryce,L Jack,EN Lynch,1,0,,,,,,"",""
+ball,2,9.1,Scotland,SJ Bryce,L Jack,C de Lange,0,1,1,,,,,"",""
+ball,2,9.2,Scotland,SJ Bryce,L Jack,C de Lange,0,0,,,,,,"",""
+ball,2,9.3,Scotland,SJ Bryce,L Jack,C de Lange,0,0,,,,,,"",""
+ball,2,9.4,Scotland,SJ Bryce,L Jack,C de Lange,1,0,,,,,,"",""
+ball,2,9.5,Scotland,L Jack,SJ Bryce,C de Lange,0,0,,,,,,stumped,L Jack
+ball,2,9.6,Scotland,M Faisal,SJ Bryce,C de Lange,1,0,,,,,,"",""
+ball,2,9.7,Scotland,SJ Bryce,M Faisal,C de Lange,1,0,,,,,,"",""
+ball,2,10.1,Scotland,SJ Bryce,M Faisal,EN Lynch,1,0,,,,,,"",""
+ball,2,10.2,Scotland,M Faisal,SJ Bryce,EN Lynch,1,0,,,,,,"",""
+ball,2,10.3,Scotland,SJ Bryce,M Faisal,EN Lynch,1,0,,,,,,"",""
+ball,2,10.4,Scotland,M Faisal,SJ Bryce,EN Lynch,0,0,,,,,,caught,M Faisal
+ball,2,10.5,Scotland,C Abel,SJ Bryce,EN Lynch,1,0,,,,,,"",""
+ball,2,10.6,Scotland,SJ Bryce,C Abel,EN Lynch,1,0,,,,,,"",""
+ball,2,11.1,Scotland,SJ Bryce,C Abel,C de Lange,1,0,,,,,,"",""
+ball,2,11.2,Scotland,C Abel,SJ Bryce,C de Lange,1,0,,,,,,"",""
+ball,2,11.3,Scotland,SJ Bryce,C Abel,C de Lange,0,0,,,,,,"",""
+ball,2,11.4,Scotland,SJ Bryce,C Abel,C de Lange,1,0,,,,,,"",""
+ball,2,11.5,Scotland,C Abel,SJ Bryce,C de Lange,1,0,,,,,,"",""
+ball,2,11.6,Scotland,SJ Bryce,C Abel,C de Lange,0,0,,,,,,stumped,SJ Bryce
+ball,2,12.1,Scotland,C Abel,M McColl,EN Lynch,0,0,,,,,,"",""
+ball,2,12.2,Scotland,C Abel,M McColl,EN Lynch,0,0,,,,,,"",""
+ball,2,12.3,Scotland,C Abel,M McColl,EN Lynch,0,0,,,,,,"",""
+ball,2,12.4,Scotland,C Abel,M McColl,EN Lynch,0,0,,,,,,"",""
+ball,2,12.5,Scotland,C Abel,M McColl,EN Lynch,1,0,,,,,,"",""
+ball,2,12.6,Scotland,M McColl,C Abel,EN Lynch,1,0,,,,,,"",""
+ball,2,13.1,Scotland,M McColl,C Abel,C de Lange,1,0,,,,,,"",""
+ball,2,13.2,Scotland,C Abel,M McColl,C de Lange,1,0,,,,,,"",""
+ball,2,13.3,Scotland,M McColl,C Abel,C de Lange,1,0,,,,,,"",""
+ball,2,13.4,Scotland,C Abel,M McColl,C de Lange,1,0,,,,,,"",""
+ball,2,13.5,Scotland,M McColl,C Abel,C de Lange,0,0,,,,,,"",""
+ball,2,13.6,Scotland,M McColl,C Abel,C de Lange,1,0,,,,,,"",""
+ball,2,14.1,Scotland,M McColl,C Abel,P Molkenboer,0,0,,,,,,"",""
+ball,2,14.2,Scotland,M McColl,C Abel,P Molkenboer,0,0,,,,,,"",""
+ball,2,14.3,Scotland,M McColl,C Abel,P Molkenboer,1,0,,,,,,"",""
+ball,2,14.4,Scotland,C Abel,M McColl,P Molkenboer,1,0,,,,,,"",""
+ball,2,14.5,Scotland,M McColl,C Abel,P Molkenboer,1,0,,,,,,"",""
+ball,2,14.6,Scotland,C Abel,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,2,15.1,Scotland,M McColl,C Abel,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.2,Scotland,C Abel,M McColl,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.3,Scotland,M McColl,C Abel,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.4,Scotland,C Abel,M McColl,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.5,Scotland,M McColl,C Abel,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.6,Scotland,C Abel,M McColl,MM Dekeling,1,0,,,,,,"",""
+ball,2,16.1,Scotland,C Abel,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,2,16.2,Scotland,C Abel,M McColl,P Molkenboer,2,0,,,,,,"",""
+ball,2,16.3,Scotland,C Abel,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,2,16.4,Scotland,C Abel,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,2,16.5,Scotland,C Abel,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,2,16.6,Scotland,C Abel,M McColl,P Molkenboer,1,0,,,,,,"",""
+ball,2,17.1,Scotland,C Abel,M McColl,MM Dekeling,1,0,,,,,,"",""
+ball,2,17.2,Scotland,M McColl,C Abel,MM Dekeling,1,0,,,,,,"",""
+ball,2,17.3,Scotland,C Abel,M McColl,MM Dekeling,6,0,,,,,,"",""
+ball,2,17.4,Scotland,C Abel,M McColl,MM Dekeling,1,0,,,,,,"",""
+ball,2,17.5,Scotland,M McColl,C Abel,MM Dekeling,4,0,,,,,,"",""
+ball,2,17.6,Scotland,M McColl,C Abel,MM Dekeling,2,0,,,,,,"",""
+ball,2,18.1,Scotland,C Abel,M McColl,P Molkenboer,4,0,,,,,,"",""
+ball,2,18.2,Scotland,C Abel,M McColl,P Molkenboer,0,0,,,,,,stumped,C Abel
+ball,2,18.3,Scotland,AH Maqsood,M McColl,P Molkenboer,1,0,,,,,,"",""
+ball,2,18.4,Scotland,M McColl,AH Maqsood,P Molkenboer,0,0,,,,,,caught,M McColl
+ball,2,18.5,Scotland,HRA Rainey,AH Maqsood,P Molkenboer,0,0,,,,,,"",""
+ball,2,18.6,Scotland,HRA Rainey,AH Maqsood,P Molkenboer,0,0,,,,,,caught,HRA Rainey

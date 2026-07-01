@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,female
+info,season,2022/23
+info,date,2023/01/19
+info,event,South Africa Women's T20I Tri-Series
+info,match_number,1
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,AB Kaur
+info,umpire,Lauren Agenbag
+info,umpire,TC Mokorosi
+info,reserve_umpire,RN Hendricks
+info,tv_umpire,PJ Vosloo
+info,match_referee,SA Fritz
+info,winner,India
+info,winner_runs,27
+info,player,India,YH Bhatia
+info,player,India,S Mandhana
+info,player,India,H Deol
+info,player,India,JI Rodrigues
+info,player,India,DP Vaidya
+info,player,India,DB Sharma
+info,player,India,AB Kaur
+info,player,India,S Rana
+info,player,India,RP Yadav
+info,player,India,RS Gayakwad
+info,player,India,K Anjali Sarvani
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,A Bosch
+info,player,South Africa,M Kapp
+info,player,South Africa,S Luus
+info,player,South Africa,CL Tryon
+info,player,South Africa,D Tucker
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Jafta
+info,player,South Africa,M Klaas
+info,player,South Africa,A Khaka
+info,player,South Africa,N Mlaba
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AB Kaur,9565fda6
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Tucker,2b425403
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DP Vaidya,f9ded29b
+info,registry,people,H Deol,3664712e
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,K Anjali Sarvani,fa0bf9d9
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Rana,c4c374d9
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,YH Bhatia,9c3d4e8a
+ball,1,0.1,India,YH Bhatia,S Mandhana,M Kapp,0,5,5,,,,,"",""
+ball,1,0.2,India,YH Bhatia,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,1,0.3,India,YH Bhatia,S Mandhana,M Kapp,2,0,,,,,,"",""
+ball,1,0.4,India,YH Bhatia,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,1,0.5,India,YH Bhatia,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,1,0.6,India,YH Bhatia,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,1,0.7,India,YH Bhatia,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,1,1.1,India,S Mandhana,YH Bhatia,N Mlaba,2,0,,,,,,"",""
+ball,1,1.2,India,S Mandhana,YH Bhatia,N Mlaba,0,0,,,,,,"",""
+ball,1,1.3,India,S Mandhana,YH Bhatia,N Mlaba,1,0,,,,,,"",""
+ball,1,1.4,India,YH Bhatia,S Mandhana,N Mlaba,0,0,,,,,,"",""
+ball,1,1.5,India,YH Bhatia,S Mandhana,N Mlaba,0,0,,,,,,"",""
+ball,1,1.6,India,YH Bhatia,S Mandhana,N Mlaba,0,0,,,,,,"",""
+ball,1,2.1,India,S Mandhana,YH Bhatia,A Khaka,0,0,,,,,,"",""
+ball,1,2.2,India,S Mandhana,YH Bhatia,A Khaka,4,0,,,,,,"",""
+ball,1,2.3,India,S Mandhana,YH Bhatia,A Khaka,0,0,,,,,,"",""
+ball,1,2.4,India,S Mandhana,YH Bhatia,A Khaka,0,0,,,,,,caught,S Mandhana
+ball,1,2.5,India,H Deol,YH Bhatia,A Khaka,1,0,,,,,,"",""
+ball,1,2.6,India,YH Bhatia,H Deol,A Khaka,1,0,,,,,,"",""
+ball,1,3.1,India,YH Bhatia,H Deol,M Klaas,0,1,1,,,,,"",""
+ball,1,3.2,India,YH Bhatia,H Deol,M Klaas,0,0,,,,,,"",""
+ball,1,3.3,India,YH Bhatia,H Deol,M Klaas,1,0,,,,,,"",""
+ball,1,3.4,India,H Deol,YH Bhatia,M Klaas,0,0,,,,,,"",""
+ball,1,3.5,India,H Deol,YH Bhatia,M Klaas,0,0,,,,,,"",""
+ball,1,3.6,India,H Deol,YH Bhatia,M Klaas,1,0,,,,,,"",""
+ball,1,3.7,India,YH Bhatia,H Deol,M Klaas,2,0,,,,,,"",""
+ball,1,4.1,India,H Deol,YH Bhatia,M Kapp,1,0,,,,,,"",""
+ball,1,4.2,India,YH Bhatia,H Deol,M Kapp,0,0,,,,,,"",""
+ball,1,4.3,India,YH Bhatia,H Deol,M Kapp,2,0,,,,,,"",""
+ball,1,4.4,India,YH Bhatia,H Deol,M Kapp,0,0,,,,,,"",""
+ball,1,4.5,India,YH Bhatia,H Deol,M Kapp,1,0,,,,,,"",""
+ball,1,4.6,India,H Deol,YH Bhatia,M Kapp,0,0,,,,,,"",""
+ball,1,5.1,India,YH Bhatia,H Deol,A Khaka,0,0,,,,,,"",""
+ball,1,5.2,India,YH Bhatia,H Deol,A Khaka,0,0,,,,,,"",""
+ball,1,5.3,India,YH Bhatia,H Deol,A Khaka,2,0,,,,,,"",""
+ball,1,5.4,India,YH Bhatia,H Deol,A Khaka,1,0,,,,,,"",""
+ball,1,5.5,India,H Deol,YH Bhatia,A Khaka,1,0,,,,,,"",""
+ball,1,5.6,India,YH Bhatia,H Deol,A Khaka,0,0,,,,,,"",""
+ball,1,6.1,India,H Deol,YH Bhatia,N Mlaba,4,0,,,,,,"",""
+ball,1,6.2,India,H Deol,YH Bhatia,N Mlaba,0,1,,,,1,,run out,H Deol
+ball,1,6.3,India,JI Rodrigues,YH Bhatia,N Mlaba,0,0,,,,,,caught,JI Rodrigues
+ball,1,6.4,India,DP Vaidya,YH Bhatia,N Mlaba,1,0,,,,,,"",""
+ball,1,6.5,India,YH Bhatia,DP Vaidya,N Mlaba,4,0,,,,,,"",""
+ball,1,6.6,India,YH Bhatia,DP Vaidya,N Mlaba,1,0,,,,,,"",""
+ball,1,7.1,India,YH Bhatia,DP Vaidya,N de Klerk,4,0,,,,,,"",""
+ball,1,7.2,India,YH Bhatia,DP Vaidya,N de Klerk,0,0,,,,,,"",""
+ball,1,7.3,India,YH Bhatia,DP Vaidya,N de Klerk,0,0,,,,,,"",""
+ball,1,7.4,India,YH Bhatia,DP Vaidya,N de Klerk,0,0,,,,,,"",""
+ball,1,7.5,India,YH Bhatia,DP Vaidya,N de Klerk,2,0,,,,,,"",""
+ball,1,7.6,India,YH Bhatia,DP Vaidya,N de Klerk,0,0,,,,,,"",""
+ball,1,8.1,India,DP Vaidya,YH Bhatia,M Klaas,0,0,,,,,,"",""
+ball,1,8.2,India,DP Vaidya,YH Bhatia,M Klaas,0,0,,,,,,"",""
+ball,1,8.3,India,DP Vaidya,YH Bhatia,M Klaas,0,0,,,,,,"",""
+ball,1,8.4,India,DP Vaidya,YH Bhatia,M Klaas,1,0,,,,,,"",""
+ball,1,8.5,India,YH Bhatia,DP Vaidya,M Klaas,6,0,,,,,,"",""
+ball,1,8.6,India,YH Bhatia,DP Vaidya,M Klaas,4,0,,,,,,"",""
+ball,1,9.1,India,DP Vaidya,YH Bhatia,D Tucker,0,0,,,,,,"",""
+ball,1,9.2,India,DP Vaidya,YH Bhatia,D Tucker,1,0,,,,,,"",""
+ball,1,9.3,India,YH Bhatia,DP Vaidya,D Tucker,2,0,,,,,,"",""
+ball,1,9.4,India,YH Bhatia,DP Vaidya,D Tucker,0,0,,,,,,bowled,YH Bhatia
+ball,1,9.5,India,DB Sharma,DP Vaidya,D Tucker,1,0,,,,,,"",""
+ball,1,9.6,India,DP Vaidya,DB Sharma,D Tucker,1,0,,,,,,"",""
+ball,1,10.1,India,DP Vaidya,DB Sharma,S Luus,0,0,,,,,,"",""
+ball,1,10.2,India,DP Vaidya,DB Sharma,S Luus,1,0,,,,,,"",""
+ball,1,10.3,India,DB Sharma,DP Vaidya,S Luus,1,0,,,,,,"",""
+ball,1,10.4,India,DP Vaidya,DB Sharma,S Luus,1,0,,,,,,"",""
+ball,1,10.5,India,DB Sharma,DP Vaidya,S Luus,1,0,,,,,,"",""
+ball,1,10.6,India,DP Vaidya,DB Sharma,S Luus,1,0,,,,,,"",""
+ball,1,11.1,India,DP Vaidya,DB Sharma,N Mlaba,2,0,,,,,,"",""
+ball,1,11.2,India,DP Vaidya,DB Sharma,N Mlaba,0,0,,,,,,"",""
+ball,1,11.3,India,DP Vaidya,DB Sharma,N Mlaba,0,0,,,,,,"",""
+ball,1,11.4,India,DP Vaidya,DB Sharma,N Mlaba,0,0,,,,,,caught,DP Vaidya
+ball,1,11.5,India,AB Kaur,DB Sharma,N Mlaba,0,0,,,,,,"",""
+ball,1,11.6,India,AB Kaur,DB Sharma,N Mlaba,0,0,,,,,,"",""
+ball,1,12.1,India,DB Sharma,AB Kaur,S Luus,1,0,,,,,,"",""
+ball,1,12.2,India,AB Kaur,DB Sharma,S Luus,0,1,,1,,,,"",""
+ball,1,12.3,India,AB Kaur,DB Sharma,S Luus,0,0,,,,,,"",""
+ball,1,12.4,India,AB Kaur,DB Sharma,S Luus,1,0,,,,,,"",""
+ball,1,12.5,India,DB Sharma,AB Kaur,S Luus,1,0,,,,,,"",""
+ball,1,12.6,India,AB Kaur,DB Sharma,S Luus,1,0,,,,,,"",""
+ball,1,12.7,India,DB Sharma,AB Kaur,S Luus,0,3,3,,,,,"",""
+ball,1,12.8,India,DB Sharma,AB Kaur,S Luus,2,0,,,,,,"",""
+ball,1,13.1,India,AB Kaur,DB Sharma,D Tucker,1,0,,,,,,"",""
+ball,1,13.2,India,DB Sharma,AB Kaur,D Tucker,1,0,,,,,,"",""
+ball,1,13.3,India,AB Kaur,DB Sharma,D Tucker,0,0,,,,,,"",""
+ball,1,13.4,India,AB Kaur,DB Sharma,D Tucker,0,0,,,,,,"",""
+ball,1,13.5,India,AB Kaur,DB Sharma,D Tucker,1,0,,,,,,"",""
+ball,1,13.6,India,DB Sharma,AB Kaur,D Tucker,6,0,,,,,,"",""
+ball,1,14.1,India,AB Kaur,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,14.2,India,DB Sharma,AB Kaur,N de Klerk,1,0,,,,,,"",""
+ball,1,14.3,India,AB Kaur,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,14.4,India,DB Sharma,AB Kaur,N de Klerk,0,0,,,,,,"",""
+ball,1,14.5,India,DB Sharma,AB Kaur,N de Klerk,1,0,,,,,,"",""
+ball,1,14.6,India,AB Kaur,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,15.1,India,AB Kaur,DB Sharma,A Khaka,4,0,,,,,,"",""
+ball,1,15.2,India,AB Kaur,DB Sharma,A Khaka,4,0,,,,,,"",""
+ball,1,15.3,India,AB Kaur,DB Sharma,A Khaka,0,0,,,,,,"",""
+ball,1,15.4,India,AB Kaur,DB Sharma,A Khaka,0,0,,,,,,"",""
+ball,1,15.5,India,AB Kaur,DB Sharma,A Khaka,0,0,,,,,,"",""
+ball,1,15.6,India,AB Kaur,DB Sharma,A Khaka,2,0,,,,,,"",""
+ball,1,16.1,India,DB Sharma,AB Kaur,M Kapp,1,0,,,,,,"",""
+ball,1,16.2,India,AB Kaur,DB Sharma,M Kapp,0,0,,,,,,"",""
+ball,1,16.3,India,AB Kaur,DB Sharma,M Kapp,4,0,,,,,,"",""
+ball,1,16.4,India,AB Kaur,DB Sharma,M Kapp,4,0,,,,,,"",""
+ball,1,16.5,India,AB Kaur,DB Sharma,M Kapp,1,0,,,,,,"",""
+ball,1,16.6,India,DB Sharma,AB Kaur,M Kapp,1,0,,,,,,"",""
+ball,1,17.1,India,DB Sharma,AB Kaur,N de Klerk,1,0,,,,,,"",""
+ball,1,17.2,India,AB Kaur,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,17.3,India,DB Sharma,AB Kaur,N de Klerk,1,0,,,,,,"",""
+ball,1,17.4,India,AB Kaur,DB Sharma,N de Klerk,0,1,1,,,,,"",""
+ball,1,17.5,India,AB Kaur,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,17.6,India,DB Sharma,AB Kaur,N de Klerk,4,0,,,,,,"",""
+ball,1,17.7,India,DB Sharma,AB Kaur,N de Klerk,1,0,,,,,,"",""
+ball,1,18.1,India,DB Sharma,AB Kaur,A Khaka,2,0,,,,,,"",""
+ball,1,18.2,India,DB Sharma,AB Kaur,A Khaka,1,0,,,,,,"",""
+ball,1,18.3,India,AB Kaur,DB Sharma,A Khaka,4,0,,,,,,"",""
+ball,1,18.4,India,AB Kaur,DB Sharma,A Khaka,0,0,,,,,,"",""
+ball,1,18.5,India,AB Kaur,DB Sharma,A Khaka,4,0,,,,,,"",""
+ball,1,18.6,India,AB Kaur,DB Sharma,A Khaka,4,0,,,,,,"",""
+ball,1,19.1,India,DB Sharma,AB Kaur,M Kapp,1,0,,,,,,"",""
+ball,1,19.2,India,AB Kaur,DB Sharma,M Kapp,1,0,,,,,,"",""
+ball,1,19.3,India,DB Sharma,AB Kaur,M Kapp,2,0,,,,,,"",""
+ball,1,19.4,India,DB Sharma,AB Kaur,M Kapp,2,0,,,,,,"",""
+ball,1,19.5,India,DB Sharma,AB Kaur,M Kapp,0,0,,,,,,caught,DB Sharma
+ball,1,19.6,India,S Rana,AB Kaur,M Kapp,2,0,,,,,,"",""
+ball,2,0.1,South Africa,L Wolvaardt,A Bosch,K Anjali Sarvani,1,0,,,,,,"",""
+ball,2,0.2,South Africa,A Bosch,L Wolvaardt,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,0.3,South Africa,A Bosch,L Wolvaardt,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,2,0.4,South Africa,A Bosch,L Wolvaardt,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,0.5,South Africa,A Bosch,L Wolvaardt,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,2,0.6,South Africa,A Bosch,L Wolvaardt,K Anjali Sarvani,1,0,,,,,,"",""
+ball,2,0.7,South Africa,L Wolvaardt,A Bosch,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,0.8,South Africa,L Wolvaardt,A Bosch,K Anjali Sarvani,1,0,,,,,,"",""
+ball,2,1.1,South Africa,L Wolvaardt,A Bosch,DB Sharma,4,0,,,,,,"",""
+ball,2,1.2,South Africa,L Wolvaardt,A Bosch,DB Sharma,0,0,,,,,,"",""
+ball,2,1.3,South Africa,L Wolvaardt,A Bosch,DB Sharma,0,0,,,,,,"",""
+ball,2,1.4,South Africa,L Wolvaardt,A Bosch,DB Sharma,0,0,,,,,,caught and bowled,L Wolvaardt
+ball,2,1.5,South Africa,M Kapp,A Bosch,DB Sharma,2,0,,,,,,"",""
+ball,2,1.6,South Africa,M Kapp,A Bosch,DB Sharma,1,0,,,,,,"",""
+ball,2,2.1,South Africa,M Kapp,A Bosch,K Anjali Sarvani,4,0,,,,,,"",""
+ball,2,2.2,South Africa,M Kapp,A Bosch,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,2.3,South Africa,M Kapp,A Bosch,K Anjali Sarvani,2,0,,,,,,"",""
+ball,2,2.4,South Africa,M Kapp,A Bosch,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,2.5,South Africa,M Kapp,A Bosch,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,2.6,South Africa,M Kapp,A Bosch,K Anjali Sarvani,6,0,,,,,,"",""
+ball,2,3.1,South Africa,A Bosch,M Kapp,DB Sharma,0,0,,,,,,"",""
+ball,2,3.2,South Africa,A Bosch,M Kapp,DB Sharma,1,0,,,,,,"",""
+ball,2,3.3,South Africa,M Kapp,A Bosch,DB Sharma,1,0,,,,,,"",""
+ball,2,3.4,South Africa,A Bosch,M Kapp,DB Sharma,0,0,,,,,,"",""
+ball,2,3.5,South Africa,A Bosch,M Kapp,DB Sharma,0,0,,,,,,"",""
+ball,2,3.6,South Africa,A Bosch,M Kapp,DB Sharma,0,0,,,,,,"",""
+ball,2,4.1,South Africa,M Kapp,A Bosch,RS Gayakwad,1,0,,,,,,"",""
+ball,2,4.2,South Africa,A Bosch,M Kapp,RS Gayakwad,0,0,,,,,,caught,A Bosch
+ball,2,4.3,South Africa,S Luus,M Kapp,RS Gayakwad,0,0,,,,,,"",""
+ball,2,4.4,South Africa,S Luus,M Kapp,RS Gayakwad,0,0,,,,,,"",""
+ball,2,4.5,South Africa,S Luus,M Kapp,RS Gayakwad,0,0,,,,,,"",""
+ball,2,4.6,South Africa,S Luus,M Kapp,RS Gayakwad,0,0,,,,,,"",""
+ball,2,5.1,South Africa,M Kapp,S Luus,S Rana,0,0,,,,,,"",""
+ball,2,5.2,South Africa,M Kapp,S Luus,S Rana,1,0,,,,,,"",""
+ball,2,5.3,South Africa,S Luus,M Kapp,S Rana,0,1,,1,,,,"",""
+ball,2,5.4,South Africa,S Luus,M Kapp,S Rana,1,0,,,,,,"",""
+ball,2,5.5,South Africa,M Kapp,S Luus,S Rana,0,0,,,,,,"",""
+ball,2,5.6,South Africa,M Kapp,S Luus,S Rana,0,0,,,,,,"",""
+ball,2,5.7,South Africa,M Kapp,S Luus,S Rana,0,0,,,,,,"",""
+ball,2,6.1,South Africa,S Luus,M Kapp,RS Gayakwad,4,0,,,,,,"",""
+ball,2,6.2,South Africa,S Luus,M Kapp,RS Gayakwad,1,0,,,,,,"",""
+ball,2,6.3,South Africa,M Kapp,S Luus,RS Gayakwad,1,0,,,,,,"",""
+ball,2,6.4,South Africa,S Luus,M Kapp,RS Gayakwad,1,0,,,,,,"",""
+ball,2,6.5,South Africa,M Kapp,S Luus,RS Gayakwad,0,0,,,,,,"",""
+ball,2,6.6,South Africa,M Kapp,S Luus,RS Gayakwad,0,0,,,,,,"",""
+ball,2,7.1,South Africa,S Luus,M Kapp,S Rana,0,0,,,,,,"",""
+ball,2,7.2,South Africa,S Luus,M Kapp,S Rana,4,0,,,,,,"",""
+ball,2,7.3,South Africa,S Luus,M Kapp,S Rana,0,0,,,,,,"",""
+ball,2,7.4,South Africa,S Luus,M Kapp,S Rana,0,0,,,,,,"",""
+ball,2,7.5,South Africa,S Luus,M Kapp,S Rana,0,0,,,,,,"",""
+ball,2,7.6,South Africa,S Luus,M Kapp,S Rana,1,0,,,,,,"",""
+ball,2,8.1,South Africa,S Luus,M Kapp,RP Yadav,0,0,,,,,,"",""
+ball,2,8.2,South Africa,S Luus,M Kapp,RP Yadav,4,0,,,,,,"",""
+ball,2,8.3,South Africa,S Luus,M Kapp,RP Yadav,1,0,,,,,,"",""
+ball,2,8.4,South Africa,M Kapp,S Luus,RP Yadav,1,0,,,,,,"",""
+ball,2,8.5,South Africa,S Luus,M Kapp,RP Yadav,1,0,,,,,,"",""
+ball,2,8.6,South Africa,M Kapp,S Luus,RP Yadav,1,0,,,,,,"",""
+ball,2,9.1,South Africa,M Kapp,S Luus,DP Vaidya,1,0,,,,,,"",""
+ball,2,9.2,South Africa,S Luus,M Kapp,DP Vaidya,2,0,,,,,,"",""
+ball,2,9.3,South Africa,S Luus,M Kapp,DP Vaidya,0,0,,,,,,"",""
+ball,2,9.4,South Africa,S Luus,M Kapp,DP Vaidya,0,0,,,,,,"",""
+ball,2,9.5,South Africa,S Luus,M Kapp,DP Vaidya,1,0,,,,,,"",""
+ball,2,9.6,South Africa,M Kapp,S Luus,DP Vaidya,0,0,,,,,,caught,M Kapp
+ball,2,10.1,South Africa,S Luus,CL Tryon,AB Kaur,1,0,,,,,,"",""
+ball,2,10.2,South Africa,CL Tryon,S Luus,AB Kaur,1,0,,,,,,"",""
+ball,2,10.3,South Africa,S Luus,CL Tryon,AB Kaur,2,0,,,,,,"",""
+ball,2,10.4,South Africa,S Luus,CL Tryon,AB Kaur,0,0,,,,,,"",""
+ball,2,10.5,South Africa,S Luus,CL Tryon,AB Kaur,0,0,,,,,,"",""
+ball,2,10.6,South Africa,S Luus,CL Tryon,AB Kaur,2,0,,,,,,"",""
+ball,2,11.1,South Africa,CL Tryon,S Luus,DP Vaidya,1,0,,,,,,"",""
+ball,2,11.2,South Africa,S Luus,CL Tryon,DP Vaidya,2,0,,,,,,"",""
+ball,2,11.3,South Africa,S Luus,CL Tryon,DP Vaidya,1,0,,,,,,"",""
+ball,2,11.4,South Africa,CL Tryon,S Luus,DP Vaidya,0,0,,,,,,run out,S Luus
+ball,2,11.5,South Africa,D Tucker,CL Tryon,DP Vaidya,0,0,,,,,,bowled,D Tucker
+ball,2,11.6,South Africa,N de Klerk,CL Tryon,DP Vaidya,0,0,,,,,,"",""
+ball,2,12.1,South Africa,CL Tryon,N de Klerk,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,2,12.2,South Africa,CL Tryon,N de Klerk,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,12.3,South Africa,CL Tryon,N de Klerk,K Anjali Sarvani,1,0,,,,,,"",""
+ball,2,12.4,South Africa,N de Klerk,CL Tryon,K Anjali Sarvani,4,0,,,,,,"",""
+ball,2,12.5,South Africa,N de Klerk,CL Tryon,K Anjali Sarvani,2,0,,,,,,"",""
+ball,2,12.6,South Africa,N de Klerk,CL Tryon,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,12.7,South Africa,N de Klerk,CL Tryon,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,13.1,South Africa,CL Tryon,N de Klerk,DP Vaidya,4,0,,,,,,"",""
+ball,2,13.2,South Africa,CL Tryon,N de Klerk,DP Vaidya,1,0,,,,,,"",""
+ball,2,13.3,South Africa,N de Klerk,CL Tryon,DP Vaidya,1,0,,,,,,"",""
+ball,2,13.4,South Africa,CL Tryon,N de Klerk,DP Vaidya,4,0,,,,,,"",""
+ball,2,13.5,South Africa,CL Tryon,N de Klerk,DP Vaidya,0,0,,,,,,"",""
+ball,2,13.6,South Africa,CL Tryon,N de Klerk,DP Vaidya,1,0,,,,,,"",""
+ball,2,14.1,South Africa,CL Tryon,N de Klerk,RP Yadav,0,0,,,,,,"",""
+ball,2,14.2,South Africa,CL Tryon,N de Klerk,RP Yadav,1,0,,,,,,"",""
+ball,2,14.3,South Africa,N de Klerk,CL Tryon,RP Yadav,0,0,,,,,,"",""
+ball,2,14.4,South Africa,N de Klerk,CL Tryon,RP Yadav,1,0,,,,,,"",""
+ball,2,14.5,South Africa,CL Tryon,N de Klerk,RP Yadav,0,0,,,,,,"",""
+ball,2,14.6,South Africa,CL Tryon,N de Klerk,RP Yadav,1,0,,,,,,"",""
+ball,2,15.1,South Africa,CL Tryon,N de Klerk,DB Sharma,0,0,,,,,,"",""
+ball,2,15.2,South Africa,CL Tryon,N de Klerk,DB Sharma,4,0,,,,,,"",""
+ball,2,15.3,South Africa,CL Tryon,N de Klerk,DB Sharma,2,0,,,,,,"",""
+ball,2,15.4,South Africa,CL Tryon,N de Klerk,DB Sharma,1,0,,,,,,"",""
+ball,2,15.5,South Africa,N de Klerk,CL Tryon,DB Sharma,1,0,,,,,,"",""
+ball,2,15.6,South Africa,CL Tryon,N de Klerk,DB Sharma,4,0,,,,,,"",""
+ball,2,16.1,South Africa,N de Klerk,CL Tryon,RP Yadav,4,0,,,,,,"",""
+ball,2,16.2,South Africa,N de Klerk,CL Tryon,RP Yadav,0,0,,,,,,"",""
+ball,2,16.3,South Africa,N de Klerk,CL Tryon,RP Yadav,1,0,,,,,,"",""
+ball,2,16.4,South Africa,CL Tryon,N de Klerk,RP Yadav,0,0,,,,,,lbw,CL Tryon
+ball,2,16.5,South Africa,S Jafta,N de Klerk,RP Yadav,0,0,,,,,,"",""
+ball,2,16.6,South Africa,S Jafta,N de Klerk,RP Yadav,1,0,,,,,,"",""
+ball,2,17.1,South Africa,S Jafta,N de Klerk,RS Gayakwad,1,0,,,,,,"",""
+ball,2,17.2,South Africa,N de Klerk,S Jafta,RS Gayakwad,0,0,,,,,,"",""
+ball,2,17.3,South Africa,N de Klerk,S Jafta,RS Gayakwad,0,0,,,,,,"",""
+ball,2,17.4,South Africa,N de Klerk,S Jafta,RS Gayakwad,2,0,,,,,,"",""
+ball,2,17.5,South Africa,N de Klerk,S Jafta,RS Gayakwad,0,0,,,,,,"",""
+ball,2,17.6,South Africa,N de Klerk,S Jafta,RS Gayakwad,0,0,,,,,,"",""
+ball,2,18.1,South Africa,S Jafta,N de Klerk,S Rana,1,0,,,,,,"",""
+ball,2,18.2,South Africa,N de Klerk,S Jafta,S Rana,0,0,,,,,,bowled,N de Klerk
+ball,2,18.3,South Africa,M Klaas,S Jafta,S Rana,0,0,,,,,,"",""
+ball,2,18.4,South Africa,M Klaas,S Jafta,S Rana,0,0,,,,,,"",""
+ball,2,18.5,South Africa,M Klaas,S Jafta,S Rana,0,1,1,,,,,"",""
+ball,2,18.6,South Africa,M Klaas,S Jafta,S Rana,2,0,,,,,,"",""
+ball,2,18.7,South Africa,M Klaas,S Jafta,S Rana,0,0,,,,,,"",""
+ball,2,19.1,South Africa,S Jafta,M Klaas,DB Sharma,2,0,,,,,,"",""
+ball,2,19.2,South Africa,S Jafta,M Klaas,DB Sharma,4,0,,,,,,"",""
+ball,2,19.3,South Africa,S Jafta,M Klaas,DB Sharma,2,0,,,,,,"",""
+ball,2,19.4,South Africa,S Jafta,M Klaas,DB Sharma,0,0,,,,,,caught and bowled,S Jafta
+ball,2,19.5,South Africa,A Khaka,M Klaas,DB Sharma,1,0,,,,,,"",""
+ball,2,19.6,South Africa,M Klaas,A Khaka,DB Sharma,0,0,,,,,,stumped,M Klaas

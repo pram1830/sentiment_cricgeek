@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,Sri Lanka
+info,gender,male
+info,season,2021/22
+info,date,2021/11/01
+info,event,ICC Men's T20 World Cup
+info,match_number,29
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,JC Buttler
+info,umpire,AT Holdstock
+info,umpire,RJ Tucker
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,JS Wilson
+info,match_referee,DC Boon
+info,winner,England
+info,winner_runs,26
+info,player,England,JJ Roy
+info,player,England,JC Buttler
+info,player,England,DJ Malan
+info,player,England,JM Bairstow
+info,player,England,EJG Morgan
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,CR Woakes
+info,player,England,CJ Jordan
+info,player,England,AU Rashid
+info,player,England,TS Mills
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,WIA Fernando
+info,player,Sri Lanka,PBB Rajapaksa
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,C Karunaratne
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CBRLS Kumara
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WIA Fernando,9550470d
+ball,1,0.1,England,JJ Roy,JC Buttler,PVD Chameera,2,0,,,,,,"",""
+ball,1,0.2,England,JJ Roy,JC Buttler,PVD Chameera,0,0,,,,,,"",""
+ball,1,0.3,England,JJ Roy,JC Buttler,PVD Chameera,4,0,,,,,,"",""
+ball,1,0.4,England,JJ Roy,JC Buttler,PVD Chameera,1,0,,,,,,"",""
+ball,1,0.5,England,JC Buttler,JJ Roy,PVD Chameera,3,0,,,,,,"",""
+ball,1,0.6,England,JJ Roy,JC Buttler,PVD Chameera,2,0,,,,,,"",""
+ball,1,1.1,England,JC Buttler,JJ Roy,PWH de Silva,1,0,,,,,,"",""
+ball,1,1.2,England,JJ Roy,JC Buttler,PWH de Silva,0,0,,,,,,bowled,JJ Roy
+ball,1,1.3,England,DJ Malan,JC Buttler,PWH de Silva,0,0,,,,,,"",""
+ball,1,1.4,England,DJ Malan,JC Buttler,PWH de Silva,1,0,,,,,,"",""
+ball,1,1.5,England,JC Buttler,DJ Malan,PWH de Silva,0,0,,,,,,"",""
+ball,1,1.6,England,JC Buttler,DJ Malan,PWH de Silva,1,0,,,,,,"",""
+ball,1,2.1,England,JC Buttler,DJ Malan,CBRLS Kumara,4,0,,,,,,"",""
+ball,1,2.2,England,JC Buttler,DJ Malan,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,2.3,England,JC Buttler,DJ Malan,CBRLS Kumara,4,0,,,,,,"",""
+ball,1,2.4,England,JC Buttler,DJ Malan,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,2.5,England,JC Buttler,DJ Malan,CBRLS Kumara,2,0,,,,,,"",""
+ball,1,2.6,England,JC Buttler,DJ Malan,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,3.1,England,DJ Malan,JC Buttler,M Theekshana,1,0,,,,,,"",""
+ball,1,3.2,England,JC Buttler,DJ Malan,M Theekshana,0,0,,,,,,"",""
+ball,1,3.3,England,JC Buttler,DJ Malan,M Theekshana,0,0,,,,,,"",""
+ball,1,3.4,England,JC Buttler,DJ Malan,M Theekshana,0,0,,,,,,"",""
+ball,1,3.5,England,JC Buttler,DJ Malan,M Theekshana,1,0,,,,,,"",""
+ball,1,3.6,England,DJ Malan,JC Buttler,M Theekshana,0,1,1,,,,,"",""
+ball,1,3.7,England,DJ Malan,JC Buttler,M Theekshana,0,1,1,,,,,"",""
+ball,1,3.8,England,DJ Malan,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,1,4.1,England,JC Buttler,DJ Malan,PVD Chameera,0,0,,,,,,"",""
+ball,1,4.2,England,JC Buttler,DJ Malan,PVD Chameera,1,0,,,,,,"",""
+ball,1,4.3,England,DJ Malan,JC Buttler,PVD Chameera,4,0,,,,,,"",""
+ball,1,4.4,England,DJ Malan,JC Buttler,PVD Chameera,0,0,,,,,,"",""
+ball,1,4.5,England,DJ Malan,JC Buttler,PVD Chameera,0,0,,,,,,"",""
+ball,1,4.6,England,DJ Malan,JC Buttler,PVD Chameera,0,0,,,,,,bowled,DJ Malan
+ball,1,5.1,England,JC Buttler,JM Bairstow,PWH de Silva,1,0,,,,,,"",""
+ball,1,5.2,England,JM Bairstow,JC Buttler,PWH de Silva,0,0,,,,,,lbw,JM Bairstow
+ball,1,5.3,England,EJG Morgan,JC Buttler,PWH de Silva,0,0,,,,,,"",""
+ball,1,5.4,England,EJG Morgan,JC Buttler,PWH de Silva,1,0,,,,,,"",""
+ball,1,5.5,England,JC Buttler,EJG Morgan,PWH de Silva,0,0,,,,,,"",""
+ball,1,5.6,England,JC Buttler,EJG Morgan,PWH de Silva,0,0,,,,,,"",""
+ball,1,6.1,England,EJG Morgan,JC Buttler,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,6.2,England,EJG Morgan,JC Buttler,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,6.3,England,EJG Morgan,JC Buttler,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,6.4,England,EJG Morgan,JC Buttler,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,6.5,England,EJG Morgan,JC Buttler,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,6.6,England,JC Buttler,EJG Morgan,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,7.1,England,EJG Morgan,JC Buttler,M Theekshana,1,0,,,,,,"",""
+ball,1,7.2,England,JC Buttler,EJG Morgan,M Theekshana,1,0,,,,,,"",""
+ball,1,7.3,England,EJG Morgan,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,1,7.4,England,EJG Morgan,JC Buttler,M Theekshana,1,0,,,,,,"",""
+ball,1,7.5,England,JC Buttler,EJG Morgan,M Theekshana,0,0,,,,,,"",""
+ball,1,7.6,England,JC Buttler,EJG Morgan,M Theekshana,1,0,,,,,,"",""
+ball,1,8.1,England,JC Buttler,EJG Morgan,C Karunaratne,0,0,,,,,,"",""
+ball,1,8.2,England,JC Buttler,EJG Morgan,C Karunaratne,1,0,,,,,,"",""
+ball,1,8.3,England,EJG Morgan,JC Buttler,C Karunaratne,1,0,,,,,,"",""
+ball,1,8.4,England,JC Buttler,EJG Morgan,C Karunaratne,0,0,,,,,,"",""
+ball,1,8.5,England,JC Buttler,EJG Morgan,C Karunaratne,1,0,,,,,,"",""
+ball,1,8.6,England,EJG Morgan,JC Buttler,C Karunaratne,0,0,,,,,,"",""
+ball,1,9.1,England,JC Buttler,EJG Morgan,M Theekshana,0,0,,,,,,"",""
+ball,1,9.2,England,JC Buttler,EJG Morgan,M Theekshana,1,0,,,,,,"",""
+ball,1,9.3,England,EJG Morgan,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,1,9.4,England,EJG Morgan,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,1,9.5,England,EJG Morgan,JC Buttler,M Theekshana,1,0,,,,,,"",""
+ball,1,9.6,England,JC Buttler,EJG Morgan,M Theekshana,1,0,,,,,,"",""
+ball,1,10.1,England,JC Buttler,EJG Morgan,CBRLS Kumara,4,0,,,,,,"",""
+ball,1,10.2,England,JC Buttler,EJG Morgan,CBRLS Kumara,2,0,,,,,,"",""
+ball,1,10.3,England,JC Buttler,EJG Morgan,CBRLS Kumara,0,1,1,,,,,"",""
+ball,1,10.4,England,JC Buttler,EJG Morgan,CBRLS Kumara,2,0,,,,,,"",""
+ball,1,10.5,England,JC Buttler,EJG Morgan,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,10.6,England,EJG Morgan,JC Buttler,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,10.7,England,JC Buttler,EJG Morgan,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,11.1,England,JC Buttler,EJG Morgan,M Theekshana,0,0,,,,,,"",""
+ball,1,11.2,England,JC Buttler,EJG Morgan,M Theekshana,0,0,,,,,,"",""
+ball,1,11.3,England,JC Buttler,EJG Morgan,M Theekshana,1,0,,,,,,"",""
+ball,1,11.4,England,EJG Morgan,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,1,11.5,England,EJG Morgan,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,1,11.6,England,EJG Morgan,JC Buttler,M Theekshana,1,0,,,,,,"",""
+ball,1,12.1,England,EJG Morgan,JC Buttler,C Karunaratne,1,0,,,,,,"",""
+ball,1,12.2,England,JC Buttler,EJG Morgan,C Karunaratne,4,0,,,,,,"",""
+ball,1,12.3,England,JC Buttler,EJG Morgan,C Karunaratne,6,0,,,,,,"",""
+ball,1,12.4,England,JC Buttler,EJG Morgan,C Karunaratne,2,0,,,,,,"",""
+ball,1,12.5,England,JC Buttler,EJG Morgan,C Karunaratne,0,0,,,,,,"",""
+ball,1,12.6,England,JC Buttler,EJG Morgan,C Karunaratne,1,0,,,,,,"",""
+ball,1,13.1,England,JC Buttler,EJG Morgan,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.2,England,EJG Morgan,JC Buttler,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.3,England,JC Buttler,EJG Morgan,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.4,England,EJG Morgan,JC Buttler,PWH de Silva,4,0,,,,,,"",""
+ball,1,13.5,England,EJG Morgan,JC Buttler,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.6,England,JC Buttler,EJG Morgan,PWH de Silva,0,0,,,,,,"",""
+ball,1,14.1,England,EJG Morgan,JC Buttler,CBRLS Kumara,6,0,,,,,,"",""
+ball,1,14.2,England,EJG Morgan,JC Buttler,CBRLS Kumara,0,1,,,,1,,"",""
+ball,1,14.3,England,JC Buttler,EJG Morgan,CBRLS Kumara,6,0,,,,,,"",""
+ball,1,14.4,England,JC Buttler,EJG Morgan,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,14.5,England,EJG Morgan,JC Buttler,CBRLS Kumara,0,1,1,,,,,"",""
+ball,1,14.6,England,EJG Morgan,JC Buttler,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,14.7,England,JC Buttler,EJG Morgan,CBRLS Kumara,6,0,,,,,,"",""
+ball,1,15.1,England,EJG Morgan,JC Buttler,MD Shanaka,0,0,,,,,,"",""
+ball,1,15.2,England,EJG Morgan,JC Buttler,MD Shanaka,1,0,,,,,,"",""
+ball,1,15.3,England,JC Buttler,EJG Morgan,MD Shanaka,2,0,,,,,,"",""
+ball,1,15.4,England,JC Buttler,EJG Morgan,MD Shanaka,0,0,,,,,,"",""
+ball,1,15.5,England,JC Buttler,EJG Morgan,MD Shanaka,1,0,,,,,,"",""
+ball,1,15.6,England,EJG Morgan,JC Buttler,MD Shanaka,1,0,,,,,,"",""
+ball,1,16.1,England,EJG Morgan,JC Buttler,PVD Chameera,6,0,,,,,,"",""
+ball,1,16.2,England,EJG Morgan,JC Buttler,PVD Chameera,1,0,,,,,,"",""
+ball,1,16.3,England,JC Buttler,EJG Morgan,PVD Chameera,0,1,1,,,,,"",""
+ball,1,16.4,England,JC Buttler,EJG Morgan,PVD Chameera,2,0,,,,,,"",""
+ball,1,16.5,England,JC Buttler,EJG Morgan,PVD Chameera,0,0,,,,,,"",""
+ball,1,16.6,England,JC Buttler,EJG Morgan,PVD Chameera,1,0,,,,,,"",""
+ball,1,16.7,England,EJG Morgan,JC Buttler,PVD Chameera,1,0,,,,,,"",""
+ball,1,17.1,England,EJG Morgan,JC Buttler,MD Shanaka,1,0,,,,,,"",""
+ball,1,17.2,England,JC Buttler,EJG Morgan,MD Shanaka,6,0,,,,,,"",""
+ball,1,17.3,England,JC Buttler,EJG Morgan,MD Shanaka,6,0,,,,,,"",""
+ball,1,17.4,England,JC Buttler,EJG Morgan,MD Shanaka,4,0,,,,,,"",""
+ball,1,17.5,England,JC Buttler,EJG Morgan,MD Shanaka,1,0,,,,,,"",""
+ball,1,17.6,England,EJG Morgan,JC Buttler,MD Shanaka,1,0,,,,,,"",""
+ball,1,18.1,England,EJG Morgan,JC Buttler,PWH de Silva,6,0,,,,,,"",""
+ball,1,18.2,England,EJG Morgan,JC Buttler,PWH de Silva,0,0,,,,,,bowled,EJG Morgan
+ball,1,18.3,England,MM Ali,JC Buttler,PWH de Silva,0,0,,,,,,"",""
+ball,1,18.4,England,MM Ali,JC Buttler,PWH de Silva,1,0,,,,,,"",""
+ball,1,18.5,England,JC Buttler,MM Ali,PWH de Silva,0,0,,,,,,"",""
+ball,1,18.6,England,JC Buttler,MM Ali,PWH de Silva,1,0,,,,,,"",""
+ball,1,19.1,England,JC Buttler,MM Ali,PVD Chameera,4,0,,,,,,"",""
+ball,1,19.2,England,JC Buttler,MM Ali,PVD Chameera,2,0,,,,,,"",""
+ball,1,19.3,England,JC Buttler,MM Ali,PVD Chameera,2,0,,,,,,"",""
+ball,1,19.4,England,JC Buttler,MM Ali,PVD Chameera,0,0,,,,,,"",""
+ball,1,19.5,England,JC Buttler,MM Ali,PVD Chameera,0,0,,,,,,"",""
+ball,1,19.6,England,JC Buttler,MM Ali,PVD Chameera,6,0,,,,,,"",""
+ball,2,0.1,Sri Lanka,P Nissanka,MDKJ Perera,MM Ali,1,0,,,,,,"",""
+ball,2,0.2,Sri Lanka,MDKJ Perera,P Nissanka,MM Ali,0,0,,,,,,"",""
+ball,2,0.3,Sri Lanka,MDKJ Perera,P Nissanka,MM Ali,0,0,,,,,,run out,P Nissanka
+ball,2,0.4,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,0,0,,,,,,"",""
+ball,2,0.5,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,0,0,,,,,,"",""
+ball,2,0.6,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,1,0,,,,,,"",""
+ball,2,1.1,Sri Lanka,KIC Asalanka,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,1.2,Sri Lanka,KIC Asalanka,MDKJ Perera,CR Woakes,0,0,,,,,,"",""
+ball,2,1.3,Sri Lanka,KIC Asalanka,MDKJ Perera,CR Woakes,6,0,,,,,,"",""
+ball,2,1.4,Sri Lanka,KIC Asalanka,MDKJ Perera,CR Woakes,4,0,,,,,,"",""
+ball,2,1.5,Sri Lanka,KIC Asalanka,MDKJ Perera,CR Woakes,1,0,,,,,,"",""
+ball,2,1.6,Sri Lanka,MDKJ Perera,KIC Asalanka,CR Woakes,1,0,,,,,,"",""
+ball,2,2.1,Sri Lanka,MDKJ Perera,KIC Asalanka,MM Ali,1,0,,,,,,"",""
+ball,2,2.2,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,4,0,,,,,,"",""
+ball,2,2.3,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,0,0,,,,,,"",""
+ball,2,2.4,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,4,0,,,,,,"",""
+ball,2,2.5,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,0,0,,,,,,"",""
+ball,2,2.6,Sri Lanka,KIC Asalanka,MDKJ Perera,MM Ali,1,0,,,,,,"",""
+ball,2,3.1,Sri Lanka,KIC Asalanka,MDKJ Perera,AU Rashid,0,0,,,,,,"",""
+ball,2,3.2,Sri Lanka,KIC Asalanka,MDKJ Perera,AU Rashid,0,0,,,,,,"",""
+ball,2,3.3,Sri Lanka,KIC Asalanka,MDKJ Perera,AU Rashid,0,0,,,,,,caught,KIC Asalanka
+ball,2,3.4,Sri Lanka,MDKJ Perera,WIA Fernando,AU Rashid,2,0,,,,,,"",""
+ball,2,3.5,Sri Lanka,MDKJ Perera,WIA Fernando,AU Rashid,0,0,,,,,,"",""
+ball,2,3.6,Sri Lanka,MDKJ Perera,WIA Fernando,AU Rashid,2,0,,,,,,"",""
+ball,2,4.1,Sri Lanka,WIA Fernando,MDKJ Perera,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.2,Sri Lanka,WIA Fernando,MDKJ Perera,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.3,Sri Lanka,WIA Fernando,MDKJ Perera,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.4,Sri Lanka,WIA Fernando,MDKJ Perera,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.5,Sri Lanka,WIA Fernando,MDKJ Perera,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.6,Sri Lanka,MDKJ Perera,WIA Fernando,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.1,Sri Lanka,MDKJ Perera,WIA Fernando,AU Rashid,0,0,,,,,,caught,MDKJ Perera
+ball,2,5.2,Sri Lanka,WIA Fernando,PBB Rajapaksa,AU Rashid,1,0,,,,,,"",""
+ball,2,5.3,Sri Lanka,PBB Rajapaksa,WIA Fernando,AU Rashid,0,0,,,,,,"",""
+ball,2,5.4,Sri Lanka,PBB Rajapaksa,WIA Fernando,AU Rashid,4,0,,,,,,"",""
+ball,2,5.5,Sri Lanka,PBB Rajapaksa,WIA Fernando,AU Rashid,0,0,,,,,,"",""
+ball,2,5.6,Sri Lanka,PBB Rajapaksa,WIA Fernando,AU Rashid,1,0,,,,,,"",""
+ball,2,6.1,Sri Lanka,PBB Rajapaksa,WIA Fernando,LS Livingstone,1,0,,,,,,"",""
+ball,2,6.2,Sri Lanka,WIA Fernando,PBB Rajapaksa,LS Livingstone,1,0,,,,,,"",""
+ball,2,6.3,Sri Lanka,PBB Rajapaksa,WIA Fernando,LS Livingstone,6,0,,,,,,"",""
+ball,2,6.4,Sri Lanka,PBB Rajapaksa,WIA Fernando,LS Livingstone,0,0,,,,,,"",""
+ball,2,6.5,Sri Lanka,PBB Rajapaksa,WIA Fernando,LS Livingstone,1,0,,,,,,"",""
+ball,2,6.6,Sri Lanka,WIA Fernando,PBB Rajapaksa,LS Livingstone,1,0,,,,,,"",""
+ball,2,7.1,Sri Lanka,WIA Fernando,PBB Rajapaksa,AU Rashid,0,0,,,,,,"",""
+ball,2,7.2,Sri Lanka,WIA Fernando,PBB Rajapaksa,AU Rashid,1,0,,,,,,"",""
+ball,2,7.3,Sri Lanka,PBB Rajapaksa,WIA Fernando,AU Rashid,0,0,,,,,,"",""
+ball,2,7.4,Sri Lanka,PBB Rajapaksa,WIA Fernando,AU Rashid,1,0,,,,,,"",""
+ball,2,7.5,Sri Lanka,WIA Fernando,PBB Rajapaksa,AU Rashid,0,0,,,,,,"",""
+ball,2,7.6,Sri Lanka,WIA Fernando,PBB Rajapaksa,AU Rashid,2,0,,,,,,"",""
+ball,2,8.1,Sri Lanka,PBB Rajapaksa,WIA Fernando,CJ Jordan,1,0,,,,,,"",""
+ball,2,8.2,Sri Lanka,WIA Fernando,PBB Rajapaksa,CJ Jordan,2,0,,,,,,"",""
+ball,2,8.3,Sri Lanka,WIA Fernando,PBB Rajapaksa,CJ Jordan,0,0,,,,,,lbw,WIA Fernando
+ball,2,8.4,Sri Lanka,MD Shanaka,PBB Rajapaksa,CJ Jordan,0,0,,,,,,"",""
+ball,2,8.5,Sri Lanka,MD Shanaka,PBB Rajapaksa,CJ Jordan,0,0,,,,,,"",""
+ball,2,8.6,Sri Lanka,MD Shanaka,PBB Rajapaksa,CJ Jordan,1,0,,,,,,"",""
+ball,2,9.1,Sri Lanka,MD Shanaka,PBB Rajapaksa,TS Mills,1,0,,,,,,"",""
+ball,2,9.2,Sri Lanka,PBB Rajapaksa,MD Shanaka,TS Mills,0,1,,,,1,,"",""
+ball,2,9.3,Sri Lanka,MD Shanaka,PBB Rajapaksa,TS Mills,0,0,,,,,,"",""
+ball,2,9.4,Sri Lanka,MD Shanaka,PBB Rajapaksa,TS Mills,4,0,,,,,,"",""
+ball,2,9.5,Sri Lanka,MD Shanaka,PBB Rajapaksa,TS Mills,1,0,,,,,,"",""
+ball,2,9.6,Sri Lanka,PBB Rajapaksa,MD Shanaka,TS Mills,1,0,,,,,,"",""
+ball,2,10.1,Sri Lanka,PBB Rajapaksa,MD Shanaka,CR Woakes,0,0,,,,,,"",""
+ball,2,10.2,Sri Lanka,PBB Rajapaksa,MD Shanaka,CR Woakes,0,0,,,,,,"",""
+ball,2,10.3,Sri Lanka,PBB Rajapaksa,MD Shanaka,CR Woakes,6,0,,,,,,"",""
+ball,2,10.4,Sri Lanka,PBB Rajapaksa,MD Shanaka,CR Woakes,4,0,,,,,,"",""
+ball,2,10.5,Sri Lanka,PBB Rajapaksa,MD Shanaka,CR Woakes,0,0,,,,,,caught,PBB Rajapaksa
+ball,2,10.6,Sri Lanka,PWH de Silva,MD Shanaka,CR Woakes,1,0,,,,,,"",""
+ball,2,11.1,Sri Lanka,PWH de Silva,MD Shanaka,AU Rashid,1,0,,,,,,"",""
+ball,2,11.2,Sri Lanka,MD Shanaka,PWH de Silva,AU Rashid,0,0,,,,,,"",""
+ball,2,11.3,Sri Lanka,MD Shanaka,PWH de Silva,AU Rashid,1,0,,,,,,"",""
+ball,2,11.4,Sri Lanka,PWH de Silva,MD Shanaka,AU Rashid,2,0,,,,,,"",""
+ball,2,11.5,Sri Lanka,PWH de Silva,MD Shanaka,AU Rashid,0,0,,,,,,"",""
+ball,2,11.6,Sri Lanka,PWH de Silva,MD Shanaka,AU Rashid,1,0,,,,,,"",""
+ball,2,12.1,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,4,0,,,,,,"",""
+ball,2,12.2,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.3,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.4,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.5,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,0,0,,,,,,"",""
+ball,2,12.6,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,0,0,,,,,,"",""
+ball,2,13.1,Sri Lanka,PWH de Silva,MD Shanaka,TS Mills,6,0,,,,,,"",""
+ball,2,13.2,Sri Lanka,PWH de Silva,MD Shanaka,TS Mills,1,0,,,,,,"",""
+ball,2,13.3,Sri Lanka,MD Shanaka,PWH de Silva,TS Mills,0,1,1,,,,,"",""
+ball,2,13.4,Sri Lanka,MD Shanaka,PWH de Silva,TS Mills,4,0,,,,,,"",""
+ball,2,13.5,Sri Lanka,MD Shanaka,PWH de Silva,CR Woakes,1,0,,,,,,"",""
+ball,2,13.6,Sri Lanka,PWH de Silva,MD Shanaka,CR Woakes,1,0,,,,,,"",""
+ball,2,13.7,Sri Lanka,MD Shanaka,PWH de Silva,CR Woakes,0,0,,,,,,"",""
+ball,2,14.1,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,1,0,,,,,,"",""
+ball,2,14.2,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,0,0,,,,,,"",""
+ball,2,14.3,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,1,0,,,,,,"",""
+ball,2,14.4,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,1,0,,,,,,"",""
+ball,2,14.5,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,6,0,,,,,,"",""
+ball,2,14.6,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,1,0,,,,,,"",""
+ball,2,15.1,Sri Lanka,MD Shanaka,PWH de Silva,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.2,Sri Lanka,PWH de Silva,MD Shanaka,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.3,Sri Lanka,MD Shanaka,PWH de Silva,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.4,Sri Lanka,PWH de Silva,MD Shanaka,CJ Jordan,2,0,,,,,,"",""
+ball,2,15.5,Sri Lanka,PWH de Silva,MD Shanaka,CJ Jordan,4,0,,,,,,"",""
+ball,2,15.6,Sri Lanka,PWH de Silva,MD Shanaka,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.1,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,0,0,,,,,,"",""
+ball,2,16.2,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,1,0,,,,,,"",""
+ball,2,16.3,Sri Lanka,MD Shanaka,PWH de Silva,LS Livingstone,1,0,,,,,,"",""
+ball,2,16.4,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,4,0,,,,,,"",""
+ball,2,16.5,Sri Lanka,PWH de Silva,MD Shanaka,LS Livingstone,0,0,,,,,,caught,PWH de Silva
+ball,2,16.6,Sri Lanka,MD Shanaka,C Karunaratne,LS Livingstone,1,0,,,,,,"",""
+ball,2,17.1,Sri Lanka,MD Shanaka,C Karunaratne,CJ Jordan,0,0,,,,,,"",""
+ball,2,17.2,Sri Lanka,MD Shanaka,C Karunaratne,CJ Jordan,0,0,,,,,,run out,MD Shanaka
+ball,2,17.3,Sri Lanka,PVD Chameera,C Karunaratne,CJ Jordan,0,0,,,,,,"",""
+ball,2,17.4,Sri Lanka,PVD Chameera,C Karunaratne,CJ Jordan,0,0,,,,,,"",""
+ball,2,17.5,Sri Lanka,PVD Chameera,C Karunaratne,CJ Jordan,4,0,,,,,,"",""
+ball,2,17.6,Sri Lanka,PVD Chameera,C Karunaratne,CJ Jordan,0,0,,,,,,caught,PVD Chameera
+ball,2,18.1,Sri Lanka,C Karunaratne,M Theekshana,MM Ali,0,0,,,,,,"",""
+ball,2,18.2,Sri Lanka,C Karunaratne,M Theekshana,MM Ali,0,0,,,,,,caught,C Karunaratne
+ball,2,18.3,Sri Lanka,CBRLS Kumara,M Theekshana,MM Ali,0,0,,,,,,"",""
+ball,2,18.4,Sri Lanka,CBRLS Kumara,M Theekshana,MM Ali,1,0,,,,,,"",""
+ball,2,18.5,Sri Lanka,M Theekshana,CBRLS Kumara,MM Ali,2,0,,,,,,"",""
+ball,2,18.6,Sri Lanka,M Theekshana,CBRLS Kumara,MM Ali,0,0,,,,,,caught,M Theekshana

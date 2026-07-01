@@ -1,0 +1,304 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Zimbabwe
+info,gender,female
+info,season,2025
+info,date,2025/09/04
+info,event,ICC Women's T20 World Cup Africa Region Division One Qualifier
+info,venue,"Namibia Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,N Gwanzura
+info,umpire,IO Oyieko
+info,umpire,K Klaaste
+info,reserve_umpire,D Odhiambo
+info,match_referee,SA Fritz
+info,winner,Zimbabwe
+info,winner_wickets,5
+info,player,Uganda,J Mbabazi
+info,player,Uganda,E Iloku
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,R Musamali
+info,player,Uganda,S Nampiina
+info,player,Uganda,P Alako
+info,player,Uganda,M Ariokot
+info,player,Uganda,K Awino
+info,player,Uganda,I Mutoni
+info,player,Uganda,C Aweko
+info,player,Uganda,S Akiteng
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,B Biza
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,F Chipare
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,L Mabhero
+info,registry,people,B Biza,8a522c6c
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,D Odhiambo,45994517
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,I Mutoni,284604cf
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,P Alako,fcf37e14
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,SA Fritz,d15e60c8
+ball,1,0.1,Uganda,J Mbabazi,E Iloku,N Sibanda,2,0,,,,,,"",""
+ball,1,0.2,Uganda,J Mbabazi,E Iloku,N Sibanda,0,1,1,,,,,"",""
+ball,1,0.3,Uganda,J Mbabazi,E Iloku,N Sibanda,0,0,,,,,,"",""
+ball,1,0.4,Uganda,J Mbabazi,E Iloku,N Sibanda,1,0,,,,,,"",""
+ball,1,0.5,Uganda,E Iloku,J Mbabazi,N Sibanda,0,0,,,,,,"",""
+ball,1,0.6,Uganda,E Iloku,J Mbabazi,N Sibanda,0,0,,,,,,"",""
+ball,1,0.7,Uganda,E Iloku,J Mbabazi,N Sibanda,0,0,,,,,,"",""
+ball,1,1.1,Uganda,J Mbabazi,E Iloku,J Nkomo,4,0,,,,,,"",""
+ball,1,1.2,Uganda,J Mbabazi,E Iloku,J Nkomo,0,0,,,,,,"",""
+ball,1,1.3,Uganda,J Mbabazi,E Iloku,J Nkomo,0,0,,,,,,"",""
+ball,1,1.4,Uganda,J Mbabazi,E Iloku,J Nkomo,4,0,,,,,,"",""
+ball,1,1.5,Uganda,J Mbabazi,E Iloku,J Nkomo,0,0,,,,,,"",""
+ball,1,1.6,Uganda,J Mbabazi,E Iloku,J Nkomo,3,0,,,,,,"",""
+ball,1,2.1,Uganda,J Mbabazi,E Iloku,N Sibanda,1,1,,1,,,,"",""
+ball,1,2.2,Uganda,E Iloku,J Mbabazi,N Sibanda,0,0,,,,,,"",""
+ball,1,2.3,Uganda,E Iloku,J Mbabazi,N Sibanda,0,0,,,,,,"",""
+ball,1,2.4,Uganda,E Iloku,J Mbabazi,N Sibanda,0,0,,,,,,bowled,E Iloku
+ball,1,2.5,Uganda,I Nakisuuyi,J Mbabazi,N Sibanda,2,0,,,,,,"",""
+ball,1,2.6,Uganda,I Nakisuuyi,J Mbabazi,N Sibanda,1,0,,,,,,"",""
+ball,1,2.7,Uganda,J Mbabazi,I Nakisuuyi,N Sibanda,1,0,,,,,,"",""
+ball,1,3.1,Uganda,J Mbabazi,I Nakisuuyi,L Mabhero,1,0,,,,,,"",""
+ball,1,3.2,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,2,0,,,,,,"",""
+ball,1,3.3,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,1,0,,,,,,"",""
+ball,1,3.4,Uganda,J Mbabazi,I Nakisuuyi,L Mabhero,4,0,,,,,,"",""
+ball,1,3.5,Uganda,J Mbabazi,I Nakisuuyi,L Mabhero,1,0,,,,,,"",""
+ball,1,3.6,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,0,0,,,,,,"",""
+ball,1,4.1,Uganda,J Mbabazi,I Nakisuuyi,N Sibanda,2,0,,,,,,"",""
+ball,1,4.2,Uganda,J Mbabazi,I Nakisuuyi,N Sibanda,0,0,,,,,,"",""
+ball,1,4.3,Uganda,J Mbabazi,I Nakisuuyi,N Sibanda,0,0,,,,,,"",""
+ball,1,4.4,Uganda,J Mbabazi,I Nakisuuyi,N Sibanda,1,0,,,,,,"",""
+ball,1,4.5,Uganda,I Nakisuuyi,J Mbabazi,N Sibanda,0,0,,,,,,"",""
+ball,1,4.6,Uganda,I Nakisuuyi,J Mbabazi,N Sibanda,1,0,,,,,,"",""
+ball,1,5.1,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,0,0,,,,,,"",""
+ball,1,5.2,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,0,0,,,,,,"",""
+ball,1,5.3,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,0,0,,,,,,"",""
+ball,1,5.4,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,2,0,,,,,,"",""
+ball,1,5.5,Uganda,I Nakisuuyi,J Mbabazi,L Mabhero,1,0,,,,,,"",""
+ball,1,5.6,Uganda,J Mbabazi,I Nakisuuyi,L Mabhero,4,0,,,,,,"",""
+ball,1,6.1,Uganda,I Nakisuuyi,J Mbabazi,N Gwanzura,4,0,,,,,,"",""
+ball,1,6.2,Uganda,I Nakisuuyi,J Mbabazi,N Gwanzura,1,0,,,,,,"",""
+ball,1,6.3,Uganda,J Mbabazi,I Nakisuuyi,N Gwanzura,0,0,,,,,,"",""
+ball,1,6.4,Uganda,J Mbabazi,I Nakisuuyi,N Gwanzura,0,0,,,,,,"",""
+ball,1,6.5,Uganda,J Mbabazi,I Nakisuuyi,N Gwanzura,0,0,,,,,,"",""
+ball,1,6.6,Uganda,J Mbabazi,I Nakisuuyi,N Gwanzura,0,0,,,,,,lbw,J Mbabazi
+ball,1,7.1,Uganda,I Nakisuuyi,R Musamali,F Chipare,4,0,,,,,,"",""
+ball,1,7.2,Uganda,I Nakisuuyi,R Musamali,F Chipare,1,0,,,,,,"",""
+ball,1,7.3,Uganda,R Musamali,I Nakisuuyi,F Chipare,1,0,,,,,,"",""
+ball,1,7.4,Uganda,I Nakisuuyi,R Musamali,F Chipare,2,0,,,,,,"",""
+ball,1,7.5,Uganda,I Nakisuuyi,R Musamali,F Chipare,0,0,,,,,,"",""
+ball,1,7.6,Uganda,I Nakisuuyi,R Musamali,F Chipare,4,0,,,,,,"",""
+ball,1,8.1,Uganda,R Musamali,I Nakisuuyi,N Gwanzura,0,0,,,,,,"",""
+ball,1,8.2,Uganda,R Musamali,I Nakisuuyi,N Gwanzura,1,0,,,,,,"",""
+ball,1,8.3,Uganda,I Nakisuuyi,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,8.4,Uganda,I Nakisuuyi,R Musamali,N Gwanzura,0,0,,,,,,bowled,I Nakisuuyi
+ball,1,8.5,Uganda,S Nampiina,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,8.6,Uganda,S Nampiina,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,9.1,Uganda,R Musamali,S Nampiina,L Tshuma,1,0,,,,,,"",""
+ball,1,9.2,Uganda,S Nampiina,R Musamali,L Tshuma,1,0,,,,,,"",""
+ball,1,9.3,Uganda,R Musamali,S Nampiina,L Tshuma,1,0,,,,,,"",""
+ball,1,9.4,Uganda,S Nampiina,R Musamali,L Tshuma,4,0,,,,,,"",""
+ball,1,9.5,Uganda,S Nampiina,R Musamali,L Tshuma,0,0,,,,,,"",""
+ball,1,9.6,Uganda,S Nampiina,R Musamali,L Tshuma,0,0,,,,,,"",""
+ball,1,10.1,Uganda,R Musamali,S Nampiina,N Gwanzura,0,0,,,,,,"",""
+ball,1,10.2,Uganda,R Musamali,S Nampiina,N Gwanzura,0,0,,,,,,"",""
+ball,1,10.3,Uganda,R Musamali,S Nampiina,N Gwanzura,1,0,,,,,,"",""
+ball,1,10.4,Uganda,S Nampiina,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,10.5,Uganda,S Nampiina,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,10.6,Uganda,S Nampiina,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,11.1,Uganda,R Musamali,S Nampiina,L Tshuma,1,0,,,,,,"",""
+ball,1,11.2,Uganda,S Nampiina,R Musamali,L Tshuma,0,0,,,,,,"",""
+ball,1,11.3,Uganda,S Nampiina,R Musamali,L Tshuma,1,0,,,,,,"",""
+ball,1,11.4,Uganda,R Musamali,S Nampiina,L Tshuma,0,0,,,,,,"",""
+ball,1,11.5,Uganda,R Musamali,S Nampiina,L Tshuma,2,0,,,,,,"",""
+ball,1,11.6,Uganda,R Musamali,S Nampiina,L Tshuma,0,0,,,,,,"",""
+ball,1,12.1,Uganda,S Nampiina,R Musamali,N Gwanzura,1,0,,,,,,"",""
+ball,1,12.2,Uganda,R Musamali,S Nampiina,N Gwanzura,0,1,,,1,,,"",""
+ball,1,12.3,Uganda,S Nampiina,R Musamali,N Gwanzura,4,0,,,,,,"",""
+ball,1,12.4,Uganda,S Nampiina,R Musamali,N Gwanzura,0,3,3,,,,,"",""
+ball,1,12.5,Uganda,S Nampiina,R Musamali,N Gwanzura,2,0,,,,,,"",""
+ball,1,12.6,Uganda,S Nampiina,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,12.7,Uganda,S Nampiina,R Musamali,N Gwanzura,0,0,,,,,,"",""
+ball,1,13.1,Uganda,R Musamali,S Nampiina,L Tshuma,1,0,,,,,,"",""
+ball,1,13.2,Uganda,S Nampiina,R Musamali,L Tshuma,0,0,,,,,,"",""
+ball,1,13.3,Uganda,S Nampiina,R Musamali,L Tshuma,0,0,,,,,,caught,S Nampiina
+ball,1,13.4,Uganda,P Alako,R Musamali,L Tshuma,1,0,,,,,,"",""
+ball,1,13.5,Uganda,R Musamali,P Alako,L Tshuma,1,0,,,,,,"",""
+ball,1,13.6,Uganda,P Alako,R Musamali,L Tshuma,1,0,,,,,,"",""
+ball,1,14.1,Uganda,P Alako,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,14.2,Uganda,P Alako,R Musamali,B Biza,1,0,,,,,,"",""
+ball,1,14.3,Uganda,R Musamali,P Alako,B Biza,1,0,,,,,,"",""
+ball,1,14.4,Uganda,P Alako,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,14.5,Uganda,P Alako,R Musamali,B Biza,1,0,,,,,,"",""
+ball,1,14.6,Uganda,R Musamali,P Alako,B Biza,0,0,,,,,,"",""
+ball,1,15.1,Uganda,P Alako,R Musamali,L Tshuma,0,0,,,,,,"",""
+ball,1,15.2,Uganda,P Alako,R Musamali,L Tshuma,0,0,,,,,,"",""
+ball,1,15.3,Uganda,P Alako,R Musamali,L Tshuma,4,0,,,,,,"",""
+ball,1,15.4,Uganda,P Alako,R Musamali,L Tshuma,1,0,,,,,,"",""
+ball,1,15.5,Uganda,R Musamali,P Alako,L Tshuma,2,0,,,,,,"",""
+ball,1,15.6,Uganda,R Musamali,P Alako,L Tshuma,1,0,,,,,,"",""
+ball,1,16.1,Uganda,R Musamali,P Alako,B Biza,0,0,,,,,,"",""
+ball,1,16.2,Uganda,R Musamali,P Alako,B Biza,0,0,,,,,,"",""
+ball,1,16.3,Uganda,R Musamali,P Alako,B Biza,1,0,,,,,,"",""
+ball,1,16.4,Uganda,P Alako,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,16.5,Uganda,P Alako,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,16.6,Uganda,P Alako,R Musamali,B Biza,1,0,,,,,,"",""
+ball,1,17.1,Uganda,P Alako,R Musamali,L Mabhero,0,0,,,,,,"",""
+ball,1,17.2,Uganda,P Alako,R Musamali,L Mabhero,0,0,,,,,,lbw,P Alako
+ball,1,17.3,Uganda,M Ariokot,R Musamali,L Mabhero,0,1,1,,,,,"",""
+ball,1,17.4,Uganda,M Ariokot,R Musamali,L Mabhero,1,0,,,,,,"",""
+ball,1,17.5,Uganda,R Musamali,M Ariokot,L Mabhero,1,0,,,,,,"",""
+ball,1,17.6,Uganda,M Ariokot,R Musamali,L Mabhero,1,0,,,,,,"",""
+ball,1,17.7,Uganda,R Musamali,M Ariokot,L Mabhero,0,0,,,,,,"",""
+ball,1,18.1,Uganda,M Ariokot,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,18.2,Uganda,M Ariokot,R Musamali,B Biza,4,0,,,,,,"",""
+ball,1,18.3,Uganda,M Ariokot,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,18.4,Uganda,M Ariokot,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,18.5,Uganda,M Ariokot,R Musamali,B Biza,0,1,1,,,,,"",""
+ball,1,18.6,Uganda,M Ariokot,R Musamali,B Biza,0,0,,,,,,"",""
+ball,1,18.7,Uganda,M Ariokot,R Musamali,B Biza,1,0,,,,,,"",""
+ball,1,19.1,Uganda,M Ariokot,R Musamali,L Mabhero,0,1,1,,,,,"",""
+ball,1,19.2,Uganda,M Ariokot,R Musamali,L Mabhero,0,0,,,,,,lbw,M Ariokot
+ball,1,19.3,Uganda,K Awino,R Musamali,L Mabhero,1,0,,,,,,"",""
+ball,1,19.4,Uganda,R Musamali,K Awino,L Mabhero,4,0,,,,,,"",""
+ball,1,19.5,Uganda,R Musamali,K Awino,L Mabhero,2,0,,,,,,"",""
+ball,1,19.6,Uganda,R Musamali,K Awino,L Mabhero,1,0,,,,,,"",""
+ball,1,19.7,Uganda,K Awino,R Musamali,L Mabhero,1,0,,,,,,run out,K Awino
+ball,2,0.1,Zimbabwe,M Mupachikwa,K Ndlovu,I Mutoni,0,0,,,,,,"",""
+ball,2,0.2,Zimbabwe,M Mupachikwa,K Ndlovu,I Mutoni,0,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,M Mupachikwa,K Ndlovu,I Mutoni,1,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,0,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,0,0,,,,,,"",""
+ball,2,0.6,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,3,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,K Ndlovu,M Mupachikwa,C Aweko,1,0,,,,,,"",""
+ball,2,1.2,Zimbabwe,M Mupachikwa,K Ndlovu,C Aweko,1,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,K Ndlovu,M Mupachikwa,C Aweko,0,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,K Ndlovu,M Mupachikwa,C Aweko,0,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,K Ndlovu,M Mupachikwa,C Aweko,0,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,K Ndlovu,M Mupachikwa,C Aweko,4,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,M Mupachikwa,K Ndlovu,I Mutoni,1,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,4,0,,,,,,"",""
+ball,2,2.3,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,0,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,0,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,0,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,0,1,1,,,,,"",""
+ball,2,2.7,Zimbabwe,K Ndlovu,M Mupachikwa,I Mutoni,0,4,,,4,,,"",""
+ball,2,3.1,Zimbabwe,M Mupachikwa,K Ndlovu,C Aweko,4,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,M Mupachikwa,K Ndlovu,C Aweko,0,0,,,,,,"",""
+ball,2,3.3,Zimbabwe,M Mupachikwa,K Ndlovu,C Aweko,1,0,,,,,,"",""
+ball,2,3.4,Zimbabwe,K Ndlovu,M Mupachikwa,C Aweko,1,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,M Mupachikwa,K Ndlovu,C Aweko,4,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,M Mupachikwa,K Ndlovu,C Aweko,0,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,M Mupachikwa,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,5.2,Zimbabwe,M Mupachikwa,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,M Mupachikwa,K Ndlovu,S Akiteng,2,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,M Mupachikwa,K Ndlovu,S Akiteng,4,1,,1,,,,"",""
+ball,2,5.5,Zimbabwe,M Mupachikwa,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,M Mupachikwa,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,5.7,Zimbabwe,M Mupachikwa,K Ndlovu,S Akiteng,4,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,M Mupachikwa,K Ndlovu,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,6.5,Zimbabwe,K Ndlovu,M Mupachikwa,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,M Mupachikwa,K Ndlovu,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,M Mupachikwa,K Ndlovu,J Mbabazi,0,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,M Mupachikwa,K Ndlovu,J Mbabazi,0,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,M Mupachikwa,K Ndlovu,J Mbabazi,0,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,M Mupachikwa,K Ndlovu,J Mbabazi,0,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,M Mupachikwa,K Ndlovu,J Mbabazi,1,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,K Ndlovu,M Mupachikwa,J Mbabazi,0,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,M Mupachikwa,K Ndlovu,I Nakisuuyi,0,0,,,,,,caught,M Mupachikwa
+ball,2,8.2,Zimbabwe,L Tshuma,K Ndlovu,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,L Tshuma,K Ndlovu,I Nakisuuyi,0,1,1,,,,,"",""
+ball,2,8.4,Zimbabwe,L Tshuma,K Ndlovu,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,L Tshuma,K Ndlovu,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.6,Zimbabwe,L Tshuma,K Ndlovu,I Nakisuuyi,6,0,,,,,,"",""
+ball,2,8.7,Zimbabwe,L Tshuma,K Ndlovu,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,K Ndlovu,L Tshuma,J Mbabazi,0,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,K Ndlovu,L Tshuma,J Mbabazi,1,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,L Tshuma,K Ndlovu,J Mbabazi,0,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,L Tshuma,K Ndlovu,J Mbabazi,0,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,L Tshuma,K Ndlovu,J Mbabazi,1,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,K Ndlovu,L Tshuma,J Mbabazi,1,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,K Ndlovu,L Tshuma,S Akiteng,0,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,K Ndlovu,L Tshuma,S Akiteng,1,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,L Tshuma,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,10.4,Zimbabwe,L Tshuma,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,10.5,Zimbabwe,L Tshuma,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,L Tshuma,K Ndlovu,S Akiteng,0,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,K Ndlovu,L Tshuma,J Mbabazi,0,0,,,,,,stumped,K Ndlovu
+ball,2,11.2,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,J Mbabazi,0,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,J Mbabazi,1,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,J Mbabazi,2,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,J Mbabazi,0,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,J Mbabazi,1,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,S Akiteng,0,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,S Akiteng,1,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,S Akiteng,0,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,S Akiteng,0,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,S Akiteng,1,0,,,,,,"",""
+ball,2,12.6,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,S Akiteng,6,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,C Aweko,2,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,C Aweko,0,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,C Aweko,1,0,,,,,,"",""
+ball,2,13.4,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,C Aweko,0,0,,,,,,"",""
+ball,2,13.5,Zimbabwe,L Tshuma,CS Mugeri-Tiripano,C Aweko,1,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,CS Mugeri-Tiripano,L Tshuma,C Aweko,0,0,,,,,,run out,L Tshuma
+ball,2,14.1,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,14.2,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,N Gwanzura,CS Mugeri-Tiripano,I Nakisuuyi,3,0,,,,,,"",""
+ball,2,14.5,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,I Nakisuuyi,2,0,,,,,,"",""
+ball,2,14.6,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,15.1,Zimbabwe,N Gwanzura,CS Mugeri-Tiripano,J Mbabazi,1,0,,,,,,"",""
+ball,2,15.2,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,J Mbabazi,0,0,,,,,,"",""
+ball,2,15.3,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,J Mbabazi,4,0,,,,,,"",""
+ball,2,15.4,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,J Mbabazi,2,0,,,,,,"",""
+ball,2,15.5,Zimbabwe,CS Mugeri-Tiripano,N Gwanzura,J Mbabazi,0,0,,,,,,caught and bowled,CS Mugeri-Tiripano
+ball,2,15.6,Zimbabwe,B Biza,N Gwanzura,J Mbabazi,2,0,,,,,,"",""
+ball,2,16.1,Zimbabwe,N Gwanzura,B Biza,S Akiteng,6,0,,,,,,"",""
+ball,2,16.2,Zimbabwe,N Gwanzura,B Biza,S Akiteng,6,0,,,,,,"",""
+ball,2,16.3,Zimbabwe,N Gwanzura,B Biza,S Akiteng,1,0,,,,,,"",""
+ball,2,16.4,Zimbabwe,B Biza,N Gwanzura,S Akiteng,6,0,,,,,,"",""
+ball,2,16.5,Zimbabwe,B Biza,N Gwanzura,S Akiteng,4,0,,,,,,"",""
+ball,2,16.6,Zimbabwe,B Biza,N Gwanzura,S Akiteng,0,1,,1,,,,"",""
+ball,2,16.7,Zimbabwe,B Biza,N Gwanzura,S Akiteng,4,0,,,,,,"",""
+ball,2,17.1,Zimbabwe,N Gwanzura,B Biza,M Ariokot,0,0,,,,,,bowled,N Gwanzura
+ball,2,17.2,Zimbabwe,CT Dhururu,B Biza,M Ariokot,0,0,,,,,,"",""
+ball,2,17.3,Zimbabwe,CT Dhururu,B Biza,M Ariokot,0,1,1,,,,,"",""
+ball,2,17.4,Zimbabwe,CT Dhururu,B Biza,M Ariokot,0,0,,,,,,"",""
+ball,2,17.5,Zimbabwe,CT Dhururu,B Biza,M Ariokot,3,0,,,,,,"",""

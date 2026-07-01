@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gambia
+info,team,Eswatini
+info,gender,male
+info,season,2022/23
+info,date,2022/12/01
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,4
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Eswatini
+info,toss_decision,field
+info,player_of_match,T Sandeep
+info,umpire,BP Jele
+info,umpire,Gasana Christian
+info,reserve_umpire,C Phiri
+info,match_referee,SA Fritz
+info,winner,Eswatini
+info,winner_wickets,5
+info,player,Gambia,Andre Jarju
+info,player,Gambia,Mustapha Suwareh
+info,player,Gambia,Muhammed Manga
+info,player,Gambia,A Conteh
+info,player,Gambia,G Riley
+info,player,Gambia,Ismaila Tanba
+info,player,Gambia,F Campbell
+info,player,Gambia,Ousman Bah
+info,player,Gambia,ML Bojang
+info,player,Gambia,P Campbell
+info,player,Gambia,M Jobarteh
+info,player,Eswatini,T Sandeep
+info,player,Eswatini,C Forbes
+info,player,Eswatini,Naeem Gull
+info,player,Eswatini,Adil Butt
+info,player,Eswatini,W Dlamini
+info,player,Eswatini,H Rashid
+info,player,Eswatini,Umair Qasim
+info,player,Eswatini,M Jele
+info,player,Eswatini,Mohammed Alamgir
+info,player,Eswatini,M Magagula
+info,player,Eswatini,D Polpitiya
+info,registry,people,A Conteh,97b9cb64
+info,registry,people,Adil Butt,fde53ec1
+info,registry,people,Andre Jarju,53dd7d8e
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Forbes,8a9e3cd0
+info,registry,people,C Phiri,ade73404
+info,registry,people,D Polpitiya,b7062209
+info,registry,people,F Campbell,02c3024c
+info,registry,people,G Riley,af16cd9e
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,H Rashid,725c73f2
+info,registry,people,Ismaila Tanba,180e2c15
+info,registry,people,M Jele,1a8cedc8
+info,registry,people,M Jobarteh,4a2ce060
+info,registry,people,M Magagula,7a787b98
+info,registry,people,ML Bojang,c2409632
+info,registry,people,Mohammed Alamgir,e0f12392
+info,registry,people,Muhammed Manga,6084f6ee
+info,registry,people,Mustapha Suwareh,44116edc
+info,registry,people,Naeem Gull,4c49c917
+info,registry,people,Ousman Bah,95c214dd
+info,registry,people,P Campbell,3caaf69e
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Sandeep,b794a78d
+info,registry,people,Umair Qasim,e086735b
+info,registry,people,W Dlamini,d2ac882a
+ball,1,0.1,Gambia,Andre Jarju,Mustapha Suwareh,Adil Butt,0,0,,,,,,"",""
+ball,1,0.2,Gambia,Andre Jarju,Mustapha Suwareh,Adil Butt,0,0,,,,,,"",""
+ball,1,0.3,Gambia,Andre Jarju,Mustapha Suwareh,Adil Butt,0,0,,,,,,"",""
+ball,1,0.4,Gambia,Andre Jarju,Mustapha Suwareh,Adil Butt,1,0,,,,,,"",""
+ball,1,0.5,Gambia,Mustapha Suwareh,Andre Jarju,Adil Butt,0,0,,,,,,"",""
+ball,1,0.6,Gambia,Mustapha Suwareh,Andre Jarju,Adil Butt,1,0,,,,,,"",""
+ball,1,1.1,Gambia,Mustapha Suwareh,Andre Jarju,M Jele,0,0,,,,,,bowled,Mustapha Suwareh
+ball,1,1.2,Gambia,Muhammed Manga,Andre Jarju,M Jele,0,0,,,,,,"",""
+ball,1,1.3,Gambia,Muhammed Manga,Andre Jarju,M Jele,0,4,,,,4,,"",""
+ball,1,1.4,Gambia,Muhammed Manga,Andre Jarju,M Jele,0,1,,,,1,,"",""
+ball,1,1.5,Gambia,Andre Jarju,Muhammed Manga,M Jele,1,0,,,,,,"",""
+ball,1,1.6,Gambia,Muhammed Manga,Andre Jarju,M Jele,0,1,1,,,,,"",""
+ball,1,1.7,Gambia,Muhammed Manga,Andre Jarju,M Jele,4,0,,,,,,"",""
+ball,1,2.1,Gambia,Andre Jarju,Muhammed Manga,Adil Butt,0,0,,,,,,bowled,Andre Jarju
+ball,1,2.2,Gambia,A Conteh,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,2.3,Gambia,A Conteh,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,2.4,Gambia,A Conteh,Muhammed Manga,Adil Butt,1,0,,,,,,"",""
+ball,1,2.5,Gambia,Muhammed Manga,A Conteh,Adil Butt,0,0,,,,,,"",""
+ball,1,2.6,Gambia,Muhammed Manga,A Conteh,Adil Butt,0,0,,,,,,"",""
+ball,1,3.1,Gambia,A Conteh,Muhammed Manga,M Jele,4,0,,,,,,"",""
+ball,1,3.2,Gambia,A Conteh,Muhammed Manga,M Jele,0,0,,,,,,"",""
+ball,1,3.3,Gambia,A Conteh,Muhammed Manga,M Jele,0,0,,,,,,caught,A Conteh
+ball,1,3.4,Gambia,G Riley,Muhammed Manga,M Jele,0,0,,,,,,"",""
+ball,1,3.5,Gambia,G Riley,Muhammed Manga,M Jele,0,0,,,,,,"",""
+ball,1,3.6,Gambia,G Riley,Muhammed Manga,M Jele,0,0,,,,,,"",""
+ball,1,4.1,Gambia,Muhammed Manga,G Riley,Adil Butt,0,0,,,,,,"",""
+ball,1,4.2,Gambia,Muhammed Manga,G Riley,Adil Butt,0,0,,,,,,"",""
+ball,1,4.3,Gambia,Muhammed Manga,G Riley,Adil Butt,2,0,,,,,,"",""
+ball,1,4.4,Gambia,Muhammed Manga,G Riley,Adil Butt,1,0,,,,,,"",""
+ball,1,4.5,Gambia,G Riley,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,4.6,Gambia,G Riley,Muhammed Manga,Adil Butt,0,1,1,,,,,"",""
+ball,1,4.7,Gambia,G Riley,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,5.1,Gambia,Muhammed Manga,G Riley,M Jele,0,0,,,,,,"",""
+ball,1,5.2,Gambia,Muhammed Manga,G Riley,M Jele,0,2,,,,2,,"",""
+ball,1,5.3,Gambia,Muhammed Manga,G Riley,M Jele,0,0,,,,,,"",""
+ball,1,5.4,Gambia,Muhammed Manga,G Riley,M Jele,0,0,,,,,,"",""
+ball,1,5.5,Gambia,Muhammed Manga,G Riley,M Jele,0,0,,,,,,"",""
+ball,1,5.6,Gambia,Muhammed Manga,G Riley,M Jele,0,0,,,,,,"",""
+ball,1,6.1,Gambia,G Riley,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,6.2,Gambia,G Riley,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,6.3,Gambia,G Riley,Muhammed Manga,Adil Butt,0,0,,,,,,bowled,G Riley
+ball,1,6.4,Gambia,Ismaila Tanba,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,6.5,Gambia,Ismaila Tanba,Muhammed Manga,Adil Butt,4,0,,,,,,"",""
+ball,1,6.6,Gambia,Ismaila Tanba,Muhammed Manga,Adil Butt,0,0,,,,,,"",""
+ball,1,7.1,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,7.2,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,7.3,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,7.4,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,7.5,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,7.6,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,2,0,,,,,,"",""
+ball,1,8.1,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,0,0,,,,,,"",""
+ball,1,8.2,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,0,0,,,,,,"",""
+ball,1,8.3,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,0,1,1,,,,,"",""
+ball,1,8.4,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,6,0,,,,,,"",""
+ball,1,8.5,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,0,0,,,,,,"",""
+ball,1,8.6,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,0,0,,,,,,"",""
+ball,1,8.7,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,0,0,,,,,,"",""
+ball,1,9.1,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,1,0,,,,,,"",""
+ball,1,9.2,Gambia,Ismaila Tanba,Muhammed Manga,H Rashid,2,0,,,,,,"",""
+ball,1,9.3,Gambia,Ismaila Tanba,Muhammed Manga,H Rashid,6,0,,,,,,"",""
+ball,1,9.4,Gambia,Ismaila Tanba,Muhammed Manga,H Rashid,0,0,,,,,,"",""
+ball,1,9.5,Gambia,Ismaila Tanba,Muhammed Manga,H Rashid,1,0,,,,,,"",""
+ball,1,9.6,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,10.1,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,4,0,,,,,,"",""
+ball,1,10.2,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,2,0,,,,,,"",""
+ball,1,10.3,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,1,0,,,,,,"",""
+ball,1,10.4,Gambia,Muhammed Manga,Ismaila Tanba,Umair Qasim,0,0,,,,,,"",""
+ball,1,10.5,Gambia,Muhammed Manga,Ismaila Tanba,Umair Qasim,0,1,1,,,,,"",""
+ball,1,10.6,Gambia,Muhammed Manga,Ismaila Tanba,Umair Qasim,1,0,,,,,,"",""
+ball,1,10.7,Gambia,Ismaila Tanba,Muhammed Manga,Umair Qasim,4,0,,,,,,"",""
+ball,1,11.1,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,1,0,,,,,,"",""
+ball,1,11.2,Gambia,Ismaila Tanba,Muhammed Manga,H Rashid,1,0,,,,,,"",""
+ball,1,11.3,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,11.4,Gambia,Muhammed Manga,Ismaila Tanba,H Rashid,1,0,,,,,,"",""
+ball,1,11.5,Gambia,Ismaila Tanba,Muhammed Manga,H Rashid,0,0,,,,,,"",""
+ball,1,11.6,Gambia,Ismaila Tanba,Muhammed Manga,H Rashid,4,0,,,,,,"",""
+ball,1,12.1,Gambia,Muhammed Manga,Ismaila Tanba,M Magagula,0,0,,,,,,"",""
+ball,1,12.2,Gambia,Muhammed Manga,Ismaila Tanba,M Magagula,0,1,1,,,,,"",""
+ball,1,12.3,Gambia,Muhammed Manga,Ismaila Tanba,M Magagula,4,0,,,,,,"",""
+ball,1,12.4,Gambia,Muhammed Manga,Ismaila Tanba,M Magagula,4,0,,,,,,"",""
+ball,1,12.5,Gambia,Muhammed Manga,Ismaila Tanba,M Magagula,0,1,1,,,,,"",""
+ball,1,12.6,Gambia,Muhammed Manga,Ismaila Tanba,M Magagula,0,0,,,,,,caught,Muhammed Manga
+ball,1,12.7,Gambia,F Campbell,Ismaila Tanba,M Magagula,0,1,1,,,,,"",""
+ball,1,12.8,Gambia,F Campbell,Ismaila Tanba,M Magagula,0,0,,,,,,"",""
+ball,1,12.9,Gambia,F Campbell,Ismaila Tanba,M Magagula,0,0,,,,,,"",""
+ball,1,13.1,Gambia,Ismaila Tanba,F Campbell,H Rashid,1,0,,,,,,"",""
+ball,1,13.2,Gambia,F Campbell,Ismaila Tanba,H Rashid,0,0,,,,,,"",""
+ball,1,13.3,Gambia,F Campbell,Ismaila Tanba,H Rashid,0,0,,,,,,bowled,F Campbell
+ball,1,13.4,Gambia,Ousman Bah,Ismaila Tanba,H Rashid,1,0,,,,,,"",""
+ball,1,13.5,Gambia,Ismaila Tanba,Ousman Bah,H Rashid,4,0,,,,,,"",""
+ball,1,13.6,Gambia,Ismaila Tanba,Ousman Bah,H Rashid,0,0,,,,,,"",""
+ball,1,14.1,Gambia,Ousman Bah,Ismaila Tanba,M Magagula,1,0,,,,,,"",""
+ball,1,14.2,Gambia,Ismaila Tanba,Ousman Bah,M Magagula,0,0,,,,,,"",""
+ball,1,14.3,Gambia,Ismaila Tanba,Ousman Bah,M Magagula,2,0,,,,,,"",""
+ball,1,14.4,Gambia,Ismaila Tanba,Ousman Bah,M Magagula,1,0,,,,,,"",""
+ball,1,14.5,Gambia,Ousman Bah,Ismaila Tanba,M Magagula,0,1,1,,,,,"",""
+ball,1,14.6,Gambia,Ousman Bah,Ismaila Tanba,M Magagula,0,0,,,,,,"",""
+ball,1,14.7,Gambia,Ousman Bah,Ismaila Tanba,M Magagula,0,1,1,,,,,"",""
+ball,1,14.8,Gambia,Ousman Bah,Ismaila Tanba,M Magagula,1,0,,,,,,"",""
+ball,1,15.1,Gambia,Ousman Bah,Ismaila Tanba,D Polpitiya,2,0,,,,,,"",""
+ball,1,15.2,Gambia,Ousman Bah,Ismaila Tanba,D Polpitiya,1,0,,,,,,"",""
+ball,1,15.3,Gambia,Ismaila Tanba,Ousman Bah,D Polpitiya,0,0,,,,,,lbw,Ismaila Tanba
+ball,1,15.4,Gambia,ML Bojang,Ousman Bah,D Polpitiya,0,0,,,,,,"",""
+ball,1,15.5,Gambia,ML Bojang,Ousman Bah,D Polpitiya,2,0,,,,,,"",""
+ball,1,15.6,Gambia,ML Bojang,Ousman Bah,D Polpitiya,1,0,,,,,,"",""
+ball,1,16.1,Gambia,ML Bojang,Ousman Bah,Mohammed Alamgir,0,0,,,,,,"",""
+ball,1,16.2,Gambia,ML Bojang,Ousman Bah,Mohammed Alamgir,2,0,,,,,,"",""
+ball,1,16.3,Gambia,ML Bojang,Ousman Bah,Mohammed Alamgir,0,1,,,,1,,"",""
+ball,1,16.4,Gambia,Ousman Bah,ML Bojang,Mohammed Alamgir,0,0,,,,,,"",""
+ball,1,16.5,Gambia,Ousman Bah,ML Bojang,Mohammed Alamgir,0,0,,,,,,"",""
+ball,1,16.6,Gambia,Ousman Bah,ML Bojang,Mohammed Alamgir,0,4,,,4,,,"",""
+ball,1,17.1,Gambia,ML Bojang,Ousman Bah,D Polpitiya,0,1,,,1,,,"",""
+ball,1,17.2,Gambia,Ousman Bah,ML Bojang,D Polpitiya,1,0,,,,,,"",""
+ball,1,17.3,Gambia,ML Bojang,Ousman Bah,D Polpitiya,0,0,,,,,,"",""
+ball,1,17.4,Gambia,ML Bojang,Ousman Bah,D Polpitiya,0,0,,,,,,"",""
+ball,1,17.5,Gambia,ML Bojang,Ousman Bah,D Polpitiya,1,0,,,,,,"",""
+ball,1,17.6,Gambia,Ousman Bah,ML Bojang,D Polpitiya,0,0,,,,,,"",""
+ball,1,18.1,Gambia,ML Bojang,Ousman Bah,Mohammed Alamgir,0,4,,,4,,,"",""
+ball,1,18.2,Gambia,ML Bojang,Ousman Bah,Mohammed Alamgir,4,0,,,,,,"",""
+ball,1,18.3,Gambia,ML Bojang,Ousman Bah,Mohammed Alamgir,0,0,,,,,,"",""
+ball,1,18.4,Gambia,ML Bojang,Ousman Bah,Mohammed Alamgir,0,0,,,,,,bowled,ML Bojang
+ball,1,18.5,Gambia,P Campbell,Ousman Bah,Mohammed Alamgir,0,0,,,,,,"",""
+ball,1,18.6,Gambia,P Campbell,Ousman Bah,Mohammed Alamgir,0,0,,,,,,"",""
+ball,1,19.1,Gambia,Ousman Bah,P Campbell,D Polpitiya,1,0,,,,,,"",""
+ball,1,19.2,Gambia,P Campbell,Ousman Bah,D Polpitiya,0,0,,,,,,lbw,P Campbell
+ball,1,19.3,Gambia,M Jobarteh,Ousman Bah,D Polpitiya,2,0,,,,,,"",""
+ball,1,19.4,Gambia,M Jobarteh,Ousman Bah,D Polpitiya,4,0,,,,,,"",""
+ball,1,19.5,Gambia,M Jobarteh,Ousman Bah,D Polpitiya,0,0,,,,,,"",""
+ball,1,19.6,Gambia,M Jobarteh,Ousman Bah,D Polpitiya,0,0,,,,,,bowled,M Jobarteh
+ball,2,0.1,Eswatini,T Sandeep,C Forbes,Andre Jarju,0,0,,,,,,"",""
+ball,2,0.2,Eswatini,T Sandeep,C Forbes,Andre Jarju,1,0,,,,,,"",""
+ball,2,0.3,Eswatini,C Forbes,T Sandeep,Andre Jarju,0,0,,,,,,"",""
+ball,2,0.4,Eswatini,C Forbes,T Sandeep,Andre Jarju,0,0,,,,,,"",""
+ball,2,0.5,Eswatini,C Forbes,T Sandeep,Andre Jarju,1,0,,,,,,"",""
+ball,2,0.6,Eswatini,T Sandeep,C Forbes,Andre Jarju,0,2,2,,,,,"",""
+ball,2,0.7,Eswatini,C Forbes,T Sandeep,Andre Jarju,1,0,,,,,,"",""
+ball,2,1.1,Eswatini,C Forbes,T Sandeep,M Jobarteh,1,0,,,,,,"",""
+ball,2,1.2,Eswatini,T Sandeep,C Forbes,M Jobarteh,1,0,,,,,,"",""
+ball,2,1.3,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,0,,,,,,"",""
+ball,2,1.4,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,1,,,,1,,"",""
+ball,2,1.5,Eswatini,T Sandeep,C Forbes,M Jobarteh,0,0,,,,,,"",""
+ball,2,1.6,Eswatini,T Sandeep,C Forbes,M Jobarteh,0,0,,,,,,"",""
+ball,2,2.1,Eswatini,C Forbes,T Sandeep,Andre Jarju,0,0,,,,,,"",""
+ball,2,2.2,Eswatini,C Forbes,T Sandeep,Andre Jarju,0,0,,,,,,"",""
+ball,2,2.3,Eswatini,C Forbes,T Sandeep,Andre Jarju,1,0,,,,,,"",""
+ball,2,2.4,Eswatini,T Sandeep,C Forbes,Andre Jarju,4,0,,,,,,"",""
+ball,2,2.5,Eswatini,T Sandeep,C Forbes,Andre Jarju,4,0,,,,,,"",""
+ball,2,2.6,Eswatini,T Sandeep,C Forbes,Andre Jarju,0,0,,,,,,"",""
+ball,2,3.1,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,1,1,,,,,"",""
+ball,2,3.2,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,1,1,,,,,"",""
+ball,2,3.3,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,0,,,,,,"",""
+ball,2,3.4,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,0,,,,,,"",""
+ball,2,3.5,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,1,1,,,,,"",""
+ball,2,3.6,Eswatini,C Forbes,T Sandeep,M Jobarteh,2,0,,,,,,"",""
+ball,2,3.7,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,0,,,,,,"",""
+ball,2,3.8,Eswatini,C Forbes,T Sandeep,M Jobarteh,0,0,,,,,,"",""
+ball,2,3.9,Eswatini,C Forbes,T Sandeep,M Jobarteh,1,0,,,,,,"",""
+ball,2,4.1,Eswatini,C Forbes,T Sandeep,Andre Jarju,1,0,,,,,,"",""
+ball,2,4.2,Eswatini,T Sandeep,C Forbes,Andre Jarju,0,0,,,,,,"",""
+ball,2,4.3,Eswatini,T Sandeep,C Forbes,Andre Jarju,1,0,,,,,,"",""
+ball,2,4.4,Eswatini,C Forbes,T Sandeep,Andre Jarju,0,0,,,,,,caught,C Forbes
+ball,2,4.5,Eswatini,Naeem Gull,T Sandeep,Andre Jarju,4,0,,,,,,"",""
+ball,2,4.6,Eswatini,Naeem Gull,T Sandeep,Andre Jarju,4,0,,,,,,"",""
+ball,2,5.1,Eswatini,T Sandeep,Naeem Gull,M Jobarteh,0,1,1,,,,,"",""
+ball,2,5.2,Eswatini,T Sandeep,Naeem Gull,M Jobarteh,0,0,,,,,,"",""
+ball,2,5.3,Eswatini,T Sandeep,Naeem Gull,M Jobarteh,0,0,,,,,,"",""
+ball,2,5.4,Eswatini,T Sandeep,Naeem Gull,M Jobarteh,4,0,,,,,,"",""
+ball,2,5.5,Eswatini,T Sandeep,Naeem Gull,M Jobarteh,1,0,,,,,,"",""
+ball,2,5.6,Eswatini,Naeem Gull,T Sandeep,M Jobarteh,0,0,,,,,,"",""
+ball,2,5.7,Eswatini,Naeem Gull,T Sandeep,M Jobarteh,0,0,,,,,,"",""
+ball,2,6.1,Eswatini,T Sandeep,Naeem Gull,ML Bojang,1,0,,,,,,"",""
+ball,2,6.2,Eswatini,Naeem Gull,T Sandeep,ML Bojang,0,1,,,,1,,"",""
+ball,2,6.3,Eswatini,T Sandeep,Naeem Gull,ML Bojang,0,0,,,,,,"",""
+ball,2,6.4,Eswatini,T Sandeep,Naeem Gull,ML Bojang,0,0,,,,,,"",""
+ball,2,6.5,Eswatini,T Sandeep,Naeem Gull,ML Bojang,0,0,,,,,,"",""
+ball,2,6.6,Eswatini,T Sandeep,Naeem Gull,ML Bojang,1,0,,,,,,"",""
+ball,2,7.1,Eswatini,T Sandeep,Naeem Gull,A Conteh,0,0,,,,,,"",""
+ball,2,7.2,Eswatini,T Sandeep,Naeem Gull,A Conteh,1,0,,,,,,"",""
+ball,2,7.3,Eswatini,Naeem Gull,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,7.4,Eswatini,T Sandeep,Naeem Gull,A Conteh,1,1,,1,,,,"",""
+ball,2,7.5,Eswatini,Naeem Gull,T Sandeep,A Conteh,0,1,,1,,,,"",""
+ball,2,7.6,Eswatini,Naeem Gull,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,7.7,Eswatini,T Sandeep,Naeem Gull,A Conteh,1,0,,,,,,"",""
+ball,2,7.8,Eswatini,Naeem Gull,T Sandeep,A Conteh,0,0,,,,,,"",""
+ball,2,8.1,Eswatini,T Sandeep,Naeem Gull,ML Bojang,1,0,,,,,,"",""
+ball,2,8.2,Eswatini,Naeem Gull,T Sandeep,ML Bojang,1,0,,,,,,"",""
+ball,2,8.3,Eswatini,T Sandeep,Naeem Gull,ML Bojang,0,0,,,,,,"",""
+ball,2,8.4,Eswatini,T Sandeep,Naeem Gull,ML Bojang,0,1,,,,1,,"",""
+ball,2,8.5,Eswatini,Naeem Gull,T Sandeep,ML Bojang,0,0,,,,,,bowled,Naeem Gull
+ball,2,8.6,Eswatini,Adil Butt,T Sandeep,ML Bojang,0,0,,,,,,"",""
+ball,2,9.1,Eswatini,T Sandeep,Adil Butt,A Conteh,0,0,,,,,,"",""
+ball,2,9.2,Eswatini,T Sandeep,Adil Butt,A Conteh,1,0,,,,,,"",""
+ball,2,9.3,Eswatini,Adil Butt,T Sandeep,A Conteh,0,0,,,,,,bowled,Adil Butt
+ball,2,9.4,Eswatini,W Dlamini,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,9.5,Eswatini,T Sandeep,W Dlamini,A Conteh,1,0,,,,,,"",""
+ball,2,9.6,Eswatini,W Dlamini,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,10.1,Eswatini,W Dlamini,T Sandeep,ML Bojang,0,0,,,,,,"",""
+ball,2,10.2,Eswatini,W Dlamini,T Sandeep,ML Bojang,0,1,,,,1,,"",""
+ball,2,10.3,Eswatini,T Sandeep,W Dlamini,ML Bojang,0,0,,,,,,"",""
+ball,2,10.4,Eswatini,T Sandeep,W Dlamini,ML Bojang,4,0,,,,,,"",""
+ball,2,10.5,Eswatini,T Sandeep,W Dlamini,ML Bojang,1,0,,,,,,"",""
+ball,2,10.6,Eswatini,W Dlamini,T Sandeep,ML Bojang,1,0,,,,,,"",""
+ball,2,11.1,Eswatini,W Dlamini,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,11.2,Eswatini,T Sandeep,W Dlamini,A Conteh,1,0,,,,,,"",""
+ball,2,11.3,Eswatini,W Dlamini,T Sandeep,A Conteh,0,0,,,,,,caught,W Dlamini
+ball,2,11.4,Eswatini,H Rashid,T Sandeep,A Conteh,0,0,,,,,,"",""
+ball,2,11.5,Eswatini,H Rashid,T Sandeep,A Conteh,0,0,,,,,,"",""
+ball,2,11.6,Eswatini,H Rashid,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,12.1,Eswatini,H Rashid,T Sandeep,ML Bojang,1,0,,,,,,"",""
+ball,2,12.2,Eswatini,T Sandeep,H Rashid,ML Bojang,0,1,1,,,,,"",""
+ball,2,12.3,Eswatini,T Sandeep,H Rashid,ML Bojang,0,0,,,,,,"",""
+ball,2,12.4,Eswatini,T Sandeep,H Rashid,ML Bojang,0,0,,,,,,"",""
+ball,2,12.5,Eswatini,T Sandeep,H Rashid,ML Bojang,1,0,,,,,,"",""
+ball,2,12.6,Eswatini,H Rashid,T Sandeep,ML Bojang,0,0,,,,,,"",""
+ball,2,12.7,Eswatini,H Rashid,T Sandeep,ML Bojang,1,0,,,,,,"",""
+ball,2,13.1,Eswatini,H Rashid,T Sandeep,A Conteh,0,0,,,,,,"",""
+ball,2,13.2,Eswatini,H Rashid,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,13.3,Eswatini,T Sandeep,H Rashid,A Conteh,4,0,,,,,,"",""
+ball,2,13.4,Eswatini,T Sandeep,H Rashid,A Conteh,0,1,1,,,,,"",""
+ball,2,13.5,Eswatini,T Sandeep,H Rashid,A Conteh,1,0,,,,,,"",""
+ball,2,13.6,Eswatini,H Rashid,T Sandeep,A Conteh,1,0,,,,,,"",""
+ball,2,13.7,Eswatini,T Sandeep,H Rashid,A Conteh,4,0,,,,,,"",""
+ball,2,14.1,Eswatini,H Rashid,T Sandeep,Mustapha Suwareh,1,0,,,,,,"",""
+ball,2,14.2,Eswatini,T Sandeep,H Rashid,Mustapha Suwareh,1,0,,,,,,"",""
+ball,2,14.3,Eswatini,H Rashid,T Sandeep,Mustapha Suwareh,1,0,,,,,,"",""
+ball,2,14.4,Eswatini,T Sandeep,H Rashid,Mustapha Suwareh,1,0,,,,,,"",""
+ball,2,14.5,Eswatini,H Rashid,T Sandeep,Mustapha Suwareh,0,0,,,,,,caught,H Rashid
+ball,2,14.6,Eswatini,Umair Qasim,T Sandeep,Mustapha Suwareh,2,0,,,,,,"",""
+ball,2,15.1,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,4,0,,,,,,"",""
+ball,2,15.2,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,4,0,,,,,,"",""
+ball,2,15.3,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,0,5,5,,,,,"",""
+ball,2,15.4,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,0,1,1,,,,,"",""
+ball,2,15.5,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,2,0,,,,,,"",""
+ball,2,15.6,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,0,0,,,,,,"",""
+ball,2,15.7,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,0,0,,,,,,"",""
+ball,2,15.8,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,1,0,,,,,,"",""
+ball,2,16.1,Eswatini,T Sandeep,Umair Qasim,Andre Jarju,0,1,1,,,,,"",""
+ball,2,16.2,Eswatini,T Sandeep,Umair Qasim,Andre Jarju,4,0,,,,,,"",""
+ball,2,16.3,Eswatini,T Sandeep,Umair Qasim,Andre Jarju,1,0,,,,,,"",""
+ball,2,16.4,Eswatini,Umair Qasim,T Sandeep,Andre Jarju,1,0,,,,,,"",""
+ball,2,16.5,Eswatini,T Sandeep,Umair Qasim,Andre Jarju,0,1,1,,,,,"",""
+ball,2,16.6,Eswatini,T Sandeep,Umair Qasim,Andre Jarju,0,2,2,,,,,"",""
+ball,2,16.7,Eswatini,Umair Qasim,T Sandeep,Andre Jarju,1,0,,,,,,"",""
+ball,2,16.8,Eswatini,T Sandeep,Umair Qasim,Andre Jarju,4,0,,,,,,"",""
+ball,2,16.9,Eswatini,T Sandeep,Umair Qasim,Andre Jarju,0,0,,,,,,"",""
+ball,2,17.1,Eswatini,Umair Qasim,T Sandeep,Muhammed Manga,1,1,,1,,,,"",""
+ball,2,17.2,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,0,0,,,,,,"",""
+ball,2,17.3,Eswatini,T Sandeep,Umair Qasim,Muhammed Manga,0,1,,,,1,,"",""

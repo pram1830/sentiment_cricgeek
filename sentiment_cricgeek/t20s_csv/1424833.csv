@@ -1,0 +1,324 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,New Zealand
+info,gender,male
+info,season,2024
+info,date,2024/04/27
+info,event,New Zealand tour of Pakistan
+info,match_number,5
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,Shaheen Shah Afridi
+info,umpire,Faisal Afridi
+info,umpire,Rashid Riaz
+info,reserve_umpire,Asif Yaqoob
+info,tv_umpire,Aleem Dar
+info,match_referee,AJ Pycroft
+info,winner,Pakistan
+info,winner_runs,9
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Imad Wasim
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Usama Mir
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Abbas Afridi
+info,player,New Zealand,TL Seifert
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,CE McConchie
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,JA Clarkson
+info,player,New Zealand,ZGF Foulkes
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,BV Sears
+info,player,New Zealand,W O'Rourke
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BV Sears,e1891e00
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,ZGF Foulkes,30f92334
+ball,1,0.1,Pakistan,Saim Ayub,Babar Azam,ZGF Foulkes,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Saim Ayub,Babar Azam,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,0.3,Pakistan,Babar Azam,Saim Ayub,ZGF Foulkes,0,0,,,,,,"",""
+ball,1,0.4,Pakistan,Babar Azam,Saim Ayub,ZGF Foulkes,0,1,1,,,,,"",""
+ball,1,0.5,Pakistan,Babar Azam,Saim Ayub,ZGF Foulkes,0,1,1,,,,,"",""
+ball,1,0.6,Pakistan,Babar Azam,Saim Ayub,ZGF Foulkes,0,0,,,,,,"",""
+ball,1,0.7,Pakistan,Babar Azam,Saim Ayub,ZGF Foulkes,0,1,1,,,,,"",""
+ball,1,0.8,Pakistan,Babar Azam,Saim Ayub,ZGF Foulkes,0,0,,,,,,"",""
+ball,1,0.9,Pakistan,Babar Azam,Saim Ayub,ZGF Foulkes,4,0,,,,,,"",""
+ball,1,1.1,Pakistan,Saim Ayub,Babar Azam,W O'Rourke,0,0,,,,,,"",""
+ball,1,1.2,Pakistan,Saim Ayub,Babar Azam,W O'Rourke,0,0,,,,,,"",""
+ball,1,1.3,Pakistan,Saim Ayub,Babar Azam,W O'Rourke,0,0,,,,,,caught,Saim Ayub
+ball,1,1.4,Pakistan,Usman Khan,Babar Azam,W O'Rourke,0,0,,,,,,"",""
+ball,1,1.5,Pakistan,Usman Khan,Babar Azam,W O'Rourke,1,0,,,,,,"",""
+ball,1,1.6,Pakistan,Babar Azam,Usman Khan,W O'Rourke,1,0,,,,,,"",""
+ball,1,2.1,Pakistan,Babar Azam,Usman Khan,ZGF Foulkes,4,0,,,,,,"",""
+ball,1,2.2,Pakistan,Babar Azam,Usman Khan,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,2.3,Pakistan,Usman Khan,Babar Azam,ZGF Foulkes,0,0,,,,,,"",""
+ball,1,2.4,Pakistan,Usman Khan,Babar Azam,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,2.5,Pakistan,Babar Azam,Usman Khan,ZGF Foulkes,6,0,,,,,,"",""
+ball,1,2.6,Pakistan,Babar Azam,Usman Khan,ZGF Foulkes,0,1,,1,,,,"",""
+ball,1,2.7,Pakistan,Babar Azam,Usman Khan,ZGF Foulkes,0,0,,,,,,"",""
+ball,1,3.1,Pakistan,Usman Khan,Babar Azam,BV Sears,1,0,,,,,,"",""
+ball,1,3.2,Pakistan,Babar Azam,Usman Khan,BV Sears,4,0,,,,,,"",""
+ball,1,3.3,Pakistan,Babar Azam,Usman Khan,BV Sears,2,0,,,,,,"",""
+ball,1,3.4,Pakistan,Babar Azam,Usman Khan,BV Sears,4,0,,,,,,"",""
+ball,1,3.5,Pakistan,Babar Azam,Usman Khan,BV Sears,0,0,,,,,,"",""
+ball,1,3.6,Pakistan,Babar Azam,Usman Khan,BV Sears,4,0,,,,,,"",""
+ball,1,4.1,Pakistan,Usman Khan,Babar Azam,W O'Rourke,0,1,,,,1,,"",""
+ball,1,4.2,Pakistan,Babar Azam,Usman Khan,W O'Rourke,0,1,1,,,,,"",""
+ball,1,4.3,Pakistan,Babar Azam,Usman Khan,W O'Rourke,1,0,,,,,,"",""
+ball,1,4.4,Pakistan,Usman Khan,Babar Azam,W O'Rourke,4,0,,,,,,"",""
+ball,1,4.5,Pakistan,Usman Khan,Babar Azam,W O'Rourke,0,0,,,,,,"",""
+ball,1,4.6,Pakistan,Usman Khan,Babar Azam,W O'Rourke,1,0,,,,,,"",""
+ball,1,4.7,Pakistan,Babar Azam,Usman Khan,W O'Rourke,0,0,,,,,,"",""
+ball,1,5.1,Pakistan,Usman Khan,Babar Azam,MG Bracewell,1,0,,,,,,"",""
+ball,1,5.2,Pakistan,Babar Azam,Usman Khan,MG Bracewell,1,0,,,,,,"",""
+ball,1,5.3,Pakistan,Usman Khan,Babar Azam,MG Bracewell,0,0,,,,,,"",""
+ball,1,5.4,Pakistan,Usman Khan,Babar Azam,MG Bracewell,0,0,,,,,,"",""
+ball,1,5.5,Pakistan,Usman Khan,Babar Azam,MG Bracewell,1,0,,,,,,"",""
+ball,1,5.6,Pakistan,Babar Azam,Usman Khan,MG Bracewell,2,0,,,,,,"",""
+ball,1,6.1,Pakistan,Usman Khan,Babar Azam,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.2,Pakistan,Babar Azam,Usman Khan,IS Sodhi,2,0,,,,,,"",""
+ball,1,6.3,Pakistan,Babar Azam,Usman Khan,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.4,Pakistan,Usman Khan,Babar Azam,IS Sodhi,0,0,,,,,,"",""
+ball,1,6.5,Pakistan,Usman Khan,Babar Azam,IS Sodhi,4,0,,,,,,"",""
+ball,1,6.6,Pakistan,Usman Khan,Babar Azam,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.1,Pakistan,Usman Khan,Babar Azam,MG Bracewell,6,0,,,,,,"",""
+ball,1,7.2,Pakistan,Usman Khan,Babar Azam,MG Bracewell,1,0,,,,,,"",""
+ball,1,7.3,Pakistan,Babar Azam,Usman Khan,MG Bracewell,1,0,,,,,,"",""
+ball,1,7.4,Pakistan,Usman Khan,Babar Azam,MG Bracewell,2,0,,,,,,"",""
+ball,1,7.5,Pakistan,Usman Khan,Babar Azam,MG Bracewell,4,0,,,,,,"",""
+ball,1,7.6,Pakistan,Usman Khan,Babar Azam,MG Bracewell,1,0,,,,,,"",""
+ball,1,8.1,Pakistan,Usman Khan,Babar Azam,IS Sodhi,1,0,,,,,,"",""
+ball,1,8.2,Pakistan,Babar Azam,Usman Khan,IS Sodhi,2,0,,,,,,"",""
+ball,1,8.3,Pakistan,Babar Azam,Usman Khan,IS Sodhi,2,0,,,,,,"",""
+ball,1,8.4,Pakistan,Babar Azam,Usman Khan,IS Sodhi,1,0,,,,,,"",""
+ball,1,8.5,Pakistan,Usman Khan,Babar Azam,IS Sodhi,0,0,,,,,,caught,Usman Khan
+ball,1,8.6,Pakistan,Fakhar Zaman,Babar Azam,IS Sodhi,0,0,,,,,,"",""
+ball,1,9.1,Pakistan,Babar Azam,Fakhar Zaman,BV Sears,1,0,,,,,,"",""
+ball,1,9.2,Pakistan,Fakhar Zaman,Babar Azam,BV Sears,0,0,,,,,,"",""
+ball,1,9.3,Pakistan,Fakhar Zaman,Babar Azam,BV Sears,1,0,,,,,,"",""
+ball,1,9.4,Pakistan,Babar Azam,Fakhar Zaman,BV Sears,0,0,,,,,,"",""
+ball,1,9.5,Pakistan,Babar Azam,Fakhar Zaman,BV Sears,0,1,1,,,,,"",""
+ball,1,9.6,Pakistan,Babar Azam,Fakhar Zaman,BV Sears,1,0,,,,,,"",""
+ball,1,9.7,Pakistan,Fakhar Zaman,Babar Azam,BV Sears,1,0,,,,,,"",""
+ball,1,10.1,Pakistan,Fakhar Zaman,Babar Azam,IS Sodhi,1,0,,,,,,"",""
+ball,1,10.2,Pakistan,Babar Azam,Fakhar Zaman,IS Sodhi,0,0,,,,,,"",""
+ball,1,10.3,Pakistan,Babar Azam,Fakhar Zaman,IS Sodhi,0,0,,,,,,"",""
+ball,1,10.4,Pakistan,Babar Azam,Fakhar Zaman,IS Sodhi,1,0,,,,,,"",""
+ball,1,10.5,Pakistan,Fakhar Zaman,Babar Azam,IS Sodhi,1,0,,,,,,"",""
+ball,1,10.6,Pakistan,Babar Azam,Fakhar Zaman,IS Sodhi,1,0,,,,,,"",""
+ball,1,11.1,Pakistan,Babar Azam,Fakhar Zaman,MG Bracewell,1,0,,,,,,"",""
+ball,1,11.2,Pakistan,Fakhar Zaman,Babar Azam,MG Bracewell,1,0,,,,,,"",""
+ball,1,11.3,Pakistan,Babar Azam,Fakhar Zaman,MG Bracewell,1,0,,,,,,"",""
+ball,1,11.4,Pakistan,Fakhar Zaman,Babar Azam,MG Bracewell,1,0,,,,,,"",""
+ball,1,11.5,Pakistan,Babar Azam,Fakhar Zaman,MG Bracewell,2,0,,,,,,"",""
+ball,1,11.6,Pakistan,Babar Azam,Fakhar Zaman,MG Bracewell,2,0,,,,,,"",""
+ball,1,12.1,Pakistan,Fakhar Zaman,Babar Azam,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.2,Pakistan,Babar Azam,Fakhar Zaman,IS Sodhi,2,0,,,,,,"",""
+ball,1,12.3,Pakistan,Babar Azam,Fakhar Zaman,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.4,Pakistan,Fakhar Zaman,Babar Azam,IS Sodhi,0,0,,,,,,"",""
+ball,1,12.5,Pakistan,Fakhar Zaman,Babar Azam,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.6,Pakistan,Babar Azam,Fakhar Zaman,IS Sodhi,6,0,,,,,,"",""
+ball,1,13.1,Pakistan,Fakhar Zaman,Babar Azam,W O'Rourke,0,0,,,,,,"",""
+ball,1,13.2,Pakistan,Fakhar Zaman,Babar Azam,W O'Rourke,0,0,,,,,,"",""
+ball,1,13.3,Pakistan,Fakhar Zaman,Babar Azam,W O'Rourke,1,0,,,,,,"",""
+ball,1,13.4,Pakistan,Babar Azam,Fakhar Zaman,W O'Rourke,1,0,,,,,,"",""
+ball,1,13.5,Pakistan,Fakhar Zaman,Babar Azam,W O'Rourke,1,0,,,,,,"",""
+ball,1,13.6,Pakistan,Babar Azam,Fakhar Zaman,W O'Rourke,4,0,,,,,,"",""
+ball,1,14.1,Pakistan,Fakhar Zaman,Babar Azam,BV Sears,0,0,,,,,,"",""
+ball,1,14.2,Pakistan,Fakhar Zaman,Babar Azam,BV Sears,4,0,,,,,,"",""
+ball,1,14.3,Pakistan,Fakhar Zaman,Babar Azam,BV Sears,1,0,,,,,,"",""
+ball,1,14.4,Pakistan,Babar Azam,Fakhar Zaman,BV Sears,0,0,,,,,,"",""
+ball,1,14.5,Pakistan,Babar Azam,Fakhar Zaman,BV Sears,2,0,,,,,,"",""
+ball,1,14.6,Pakistan,Babar Azam,Fakhar Zaman,BV Sears,0,0,,,,,,bowled,Babar Azam
+ball,1,15.1,Pakistan,Fakhar Zaman,Iftikhar Ahmed,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,15.2,Pakistan,Iftikhar Ahmed,Fakhar Zaman,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,15.3,Pakistan,Fakhar Zaman,Iftikhar Ahmed,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,15.4,Pakistan,Iftikhar Ahmed,Fakhar Zaman,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,15.5,Pakistan,Fakhar Zaman,Iftikhar Ahmed,ZGF Foulkes,2,0,,,,,,"",""
+ball,1,15.6,Pakistan,Fakhar Zaman,Iftikhar Ahmed,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,16.1,Pakistan,Fakhar Zaman,Iftikhar Ahmed,W O'Rourke,0,0,,,,,,"",""
+ball,1,16.2,Pakistan,Fakhar Zaman,Iftikhar Ahmed,W O'Rourke,1,0,,,,,,"",""
+ball,1,16.3,Pakistan,Iftikhar Ahmed,Fakhar Zaman,W O'Rourke,1,0,,,,,,"",""
+ball,1,16.4,Pakistan,Fakhar Zaman,Iftikhar Ahmed,W O'Rourke,4,0,,,,,,"",""
+ball,1,16.5,Pakistan,Fakhar Zaman,Iftikhar Ahmed,W O'Rourke,2,0,,,,,,"",""
+ball,1,16.6,Pakistan,Fakhar Zaman,Iftikhar Ahmed,W O'Rourke,0,1,1,,,,,"",""
+ball,1,16.7,Pakistan,Fakhar Zaman,Iftikhar Ahmed,W O'Rourke,0,0,,,,,,"",""
+ball,1,17.1,Pakistan,Iftikhar Ahmed,Fakhar Zaman,BV Sears,1,0,,,,,,"",""
+ball,1,17.2,Pakistan,Fakhar Zaman,Iftikhar Ahmed,BV Sears,0,1,1,,,,,"",""
+ball,1,17.3,Pakistan,Fakhar Zaman,Iftikhar Ahmed,BV Sears,4,0,,,,,,"",""
+ball,1,17.4,Pakistan,Fakhar Zaman,Iftikhar Ahmed,BV Sears,4,0,,,,,,"",""
+ball,1,17.5,Pakistan,Fakhar Zaman,Iftikhar Ahmed,BV Sears,6,0,,,,,,"",""
+ball,1,17.6,Pakistan,Fakhar Zaman,Iftikhar Ahmed,BV Sears,1,0,,,,,,"",""
+ball,1,17.7,Pakistan,Iftikhar Ahmed,Fakhar Zaman,BV Sears,2,0,,,,,,"",""
+ball,1,18.1,Pakistan,Fakhar Zaman,Iftikhar Ahmed,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.2,Pakistan,Iftikhar Ahmed,Fakhar Zaman,JDS Neesham,0,0,,,,,,"",""
+ball,1,18.3,Pakistan,Iftikhar Ahmed,Fakhar Zaman,JDS Neesham,0,0,,,,,,caught,Iftikhar Ahmed
+ball,1,18.4,Pakistan,Shadab Khan,Fakhar Zaman,JDS Neesham,6,0,,,,,,"",""
+ball,1,18.5,Pakistan,Shadab Khan,Fakhar Zaman,JDS Neesham,2,0,,,,,,"",""
+ball,1,18.6,Pakistan,Shadab Khan,Fakhar Zaman,JDS Neesham,4,0,,,,,,"",""
+ball,1,19.1,Pakistan,Fakhar Zaman,Shadab Khan,ZGF Foulkes,0,0,,,,,,caught,Fakhar Zaman
+ball,1,19.2,Pakistan,Imad Wasim,Shadab Khan,ZGF Foulkes,2,0,,,,,,"",""
+ball,1,19.3,Pakistan,Imad Wasim,Shadab Khan,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,19.4,Pakistan,Shadab Khan,Imad Wasim,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,19.5,Pakistan,Imad Wasim,Shadab Khan,ZGF Foulkes,1,0,,,,,,"",""
+ball,1,19.6,Pakistan,Shadab Khan,Imad Wasim,ZGF Foulkes,2,0,,,,,,"",""
+ball,2,0.1,New Zealand,TL Seifert,TA Blundell,Shaheen Shah Afridi,0,1,,,,1,,"",""
+ball,2,0.2,New Zealand,TA Blundell,TL Seifert,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.3,New Zealand,TA Blundell,TL Seifert,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.4,New Zealand,TA Blundell,TL Seifert,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,0.5,New Zealand,TA Blundell,TL Seifert,Shaheen Shah Afridi,0,0,,,,,,bowled,TA Blundell
+ball,2,0.6,New Zealand,MG Bracewell,TL Seifert,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,1.1,New Zealand,TL Seifert,MG Bracewell,Saim Ayub,0,0,,,,,,"",""
+ball,2,1.2,New Zealand,TL Seifert,MG Bracewell,Saim Ayub,0,0,,,,,,"",""
+ball,2,1.3,New Zealand,TL Seifert,MG Bracewell,Saim Ayub,4,0,,,,,,"",""
+ball,2,1.4,New Zealand,TL Seifert,MG Bracewell,Saim Ayub,1,0,,,,,,"",""
+ball,2,1.5,New Zealand,MG Bracewell,TL Seifert,Saim Ayub,0,0,,,,,,"",""
+ball,2,1.6,New Zealand,MG Bracewell,TL Seifert,Saim Ayub,0,0,,,,,,"",""
+ball,2,2.1,New Zealand,TL Seifert,MG Bracewell,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.2,New Zealand,MG Bracewell,TL Seifert,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.3,New Zealand,TL Seifert,MG Bracewell,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,2.4,New Zealand,TL Seifert,MG Bracewell,Shaheen Shah Afridi,0,1,1,,,,,"",""
+ball,2,2.5,New Zealand,TL Seifert,MG Bracewell,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.6,New Zealand,TL Seifert,MG Bracewell,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.7,New Zealand,MG Bracewell,TL Seifert,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,3.1,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,6,0,,,,,,"",""
+ball,2,3.2,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,4,0,,,,,,"",""
+ball,2,3.3,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,0,0,,,,,,"",""
+ball,2,3.4,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,4,0,,,,,,"",""
+ball,2,3.5,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,0,0,,,,,,"",""
+ball,2,3.6,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,1,0,,,,,,"",""
+ball,2,4.1,New Zealand,TL Seifert,MG Bracewell,Abbas Afridi,6,0,,,,,,"",""
+ball,2,4.2,New Zealand,TL Seifert,MG Bracewell,Abbas Afridi,1,0,,,,,,"",""
+ball,2,4.3,New Zealand,MG Bracewell,TL Seifert,Abbas Afridi,1,0,,,,,,"",""
+ball,2,4.4,New Zealand,TL Seifert,MG Bracewell,Abbas Afridi,4,0,,,,,,"",""
+ball,2,4.5,New Zealand,TL Seifert,MG Bracewell,Abbas Afridi,0,0,,,,,,"",""
+ball,2,4.6,New Zealand,TL Seifert,MG Bracewell,Abbas Afridi,0,1,1,,,,,"",""
+ball,2,4.7,New Zealand,TL Seifert,MG Bracewell,Abbas Afridi,1,0,,,,,,"",""
+ball,2,5.1,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,4,0,,,,,,"",""
+ball,2,5.2,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,5.3,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,5.4,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,4,0,,,,,,"",""
+ball,2,5.5,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,0,0,,,,,,"",""
+ball,2,5.6,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,0,0,,,,,,"",""
+ball,2,5.7,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,4,0,,,,,,"",""
+ball,2,5.8,New Zealand,TL Seifert,MG Bracewell,Mohammad Amir,0,0,,,,,,"",""
+ball,2,6.1,New Zealand,MG Bracewell,TL Seifert,Usama Mir,0,0,,,,,,"",""
+ball,2,6.2,New Zealand,MG Bracewell,TL Seifert,Usama Mir,1,0,,,,,,"",""
+ball,2,6.3,New Zealand,TL Seifert,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,6.4,New Zealand,TL Seifert,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,6.5,New Zealand,TL Seifert,MG Bracewell,Usama Mir,2,0,,,,,,"",""
+ball,2,6.6,New Zealand,TL Seifert,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,7.1,New Zealand,MG Bracewell,TL Seifert,Saim Ayub,1,0,,,,,,"",""
+ball,2,7.2,New Zealand,TL Seifert,MG Bracewell,Saim Ayub,1,0,,,,,,"",""
+ball,2,7.3,New Zealand,MG Bracewell,TL Seifert,Saim Ayub,4,0,,,,,,"",""
+ball,2,7.4,New Zealand,MG Bracewell,TL Seifert,Saim Ayub,1,0,,,,,,"",""
+ball,2,7.5,New Zealand,TL Seifert,MG Bracewell,Saim Ayub,1,0,,,,,,"",""
+ball,2,7.6,New Zealand,MG Bracewell,TL Seifert,Saim Ayub,0,1,,1,,,,"",""
+ball,2,7.7,New Zealand,MG Bracewell,TL Seifert,Saim Ayub,6,0,,,,,,"",""
+ball,2,8.1,New Zealand,TL Seifert,MG Bracewell,Usama Mir,0,0,,,,,,bowled,TL Seifert
+ball,2,8.2,New Zealand,MS Chapman,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,8.3,New Zealand,MS Chapman,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,8.4,New Zealand,MS Chapman,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,8.5,New Zealand,MS Chapman,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,8.6,New Zealand,MS Chapman,MG Bracewell,Usama Mir,0,0,,,,,,"",""
+ball,2,9.1,New Zealand,MG Bracewell,MS Chapman,Iftikhar Ahmed,1,0,,,,,,"",""
+ball,2,9.2,New Zealand,MS Chapman,MG Bracewell,Iftikhar Ahmed,1,0,,,,,,"",""
+ball,2,9.3,New Zealand,MG Bracewell,MS Chapman,Iftikhar Ahmed,1,0,,,,,,"",""
+ball,2,9.4,New Zealand,MS Chapman,MG Bracewell,Iftikhar Ahmed,4,0,,,,,,"",""
+ball,2,9.5,New Zealand,MS Chapman,MG Bracewell,Iftikhar Ahmed,2,0,,,,,,"",""
+ball,2,9.6,New Zealand,MS Chapman,MG Bracewell,Iftikhar Ahmed,2,0,,,,,,"",""
+ball,2,10.1,New Zealand,MG Bracewell,MS Chapman,Usama Mir,0,0,,,,,,"",""
+ball,2,10.2,New Zealand,MG Bracewell,MS Chapman,Usama Mir,1,0,,,,,,"",""
+ball,2,10.3,New Zealand,MS Chapman,MG Bracewell,Usama Mir,1,0,,,,,,"",""
+ball,2,10.4,New Zealand,MG Bracewell,MS Chapman,Usama Mir,1,0,,,,,,"",""
+ball,2,10.5,New Zealand,MS Chapman,MG Bracewell,Usama Mir,2,0,,,,,,"",""
+ball,2,10.6,New Zealand,MS Chapman,MG Bracewell,Usama Mir,0,0,,,,,,bowled,MS Chapman
+ball,2,11.1,New Zealand,MG Bracewell,CE McConchie,Shadab Khan,0,0,,,,,,"",""
+ball,2,11.2,New Zealand,MG Bracewell,CE McConchie,Shadab Khan,0,0,,,,,,"",""
+ball,2,11.3,New Zealand,MG Bracewell,CE McConchie,Shadab Khan,0,0,,,,,,caught,MG Bracewell
+ball,2,11.4,New Zealand,JDS Neesham,CE McConchie,Shadab Khan,1,0,,,,,,"",""
+ball,2,11.5,New Zealand,CE McConchie,JDS Neesham,Shadab Khan,1,0,,,,,,"",""
+ball,2,11.6,New Zealand,JDS Neesham,CE McConchie,Shadab Khan,4,0,,,,,,"",""
+ball,2,12.1,New Zealand,CE McConchie,JDS Neesham,Imad Wasim,0,0,,,,,,lbw,CE McConchie
+ball,2,12.2,New Zealand,JA Clarkson,JDS Neesham,Imad Wasim,0,0,,,,,,"",""
+ball,2,12.3,New Zealand,JA Clarkson,JDS Neesham,Imad Wasim,0,0,,,,,,"",""
+ball,2,12.4,New Zealand,JA Clarkson,JDS Neesham,Imad Wasim,1,0,,,,,,"",""
+ball,2,12.5,New Zealand,JDS Neesham,JA Clarkson,Imad Wasim,4,0,,,,,,"",""
+ball,2,12.6,New Zealand,JDS Neesham,JA Clarkson,Imad Wasim,0,0,,,,,,"",""
+ball,2,13.1,New Zealand,JA Clarkson,JDS Neesham,Usama Mir,4,0,,,,,,"",""
+ball,2,13.2,New Zealand,JA Clarkson,JDS Neesham,Usama Mir,1,0,,,,,,"",""
+ball,2,13.3,New Zealand,JDS Neesham,JA Clarkson,Usama Mir,0,1,1,,,,,"",""
+ball,2,13.4,New Zealand,JDS Neesham,JA Clarkson,Usama Mir,2,0,,,,,,"",""
+ball,2,13.5,New Zealand,JDS Neesham,JA Clarkson,Usama Mir,1,0,,,,,,"",""
+ball,2,13.6,New Zealand,JA Clarkson,JDS Neesham,Usama Mir,2,0,,,,,,"",""
+ball,2,13.7,New Zealand,JA Clarkson,JDS Neesham,Usama Mir,2,0,,,,,,"",""
+ball,2,14.1,New Zealand,JDS Neesham,JA Clarkson,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,14.2,New Zealand,JDS Neesham,JA Clarkson,Shaheen Shah Afridi,0,0,,,,,,caught,JDS Neesham
+ball,2,14.3,New Zealand,ZGF Foulkes,JA Clarkson,Shaheen Shah Afridi,0,0,,,,,,bowled,ZGF Foulkes
+ball,2,14.4,New Zealand,IS Sodhi,JA Clarkson,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,14.5,New Zealand,JA Clarkson,IS Sodhi,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,14.6,New Zealand,JA Clarkson,IS Sodhi,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,15.1,New Zealand,IS Sodhi,JA Clarkson,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.2,New Zealand,JA Clarkson,IS Sodhi,Shadab Khan,0,0,,,,,,"",""
+ball,2,15.3,New Zealand,JA Clarkson,IS Sodhi,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.4,New Zealand,IS Sodhi,JA Clarkson,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.5,New Zealand,JA Clarkson,IS Sodhi,Shadab Khan,0,0,,,,,,"",""
+ball,2,15.6,New Zealand,JA Clarkson,IS Sodhi,Shadab Khan,6,0,,,,,,"",""
+ball,2,16.1,New Zealand,IS Sodhi,JA Clarkson,Shaheen Shah Afridi,0,0,,,,,,lbw,IS Sodhi
+ball,2,16.2,New Zealand,BV Sears,JA Clarkson,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,16.3,New Zealand,BV Sears,JA Clarkson,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,16.4,New Zealand,BV Sears,JA Clarkson,Shaheen Shah Afridi,0,2,2,,,,,"",""
+ball,2,16.5,New Zealand,JA Clarkson,BV Sears,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,16.6,New Zealand,JA Clarkson,BV Sears,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,16.7,New Zealand,JA Clarkson,BV Sears,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,17.1,New Zealand,JA Clarkson,BV Sears,Mohammad Amir,0,0,,,,,,"",""
+ball,2,17.2,New Zealand,JA Clarkson,BV Sears,Mohammad Amir,0,0,,,,,,"",""
+ball,2,17.3,New Zealand,JA Clarkson,BV Sears,Mohammad Amir,0,1,,,,1,,"",""
+ball,2,17.4,New Zealand,BV Sears,JA Clarkson,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,17.5,New Zealand,BV Sears,JA Clarkson,Mohammad Amir,4,0,,,,,,"",""
+ball,2,17.6,New Zealand,BV Sears,JA Clarkson,Mohammad Amir,1,0,,,,,,"",""
+ball,2,17.7,New Zealand,JA Clarkson,BV Sears,Mohammad Amir,4,0,,,,,,"",""
+ball,2,18.1,New Zealand,BV Sears,JA Clarkson,Abbas Afridi,1,0,,,,,,"",""
+ball,2,18.2,New Zealand,JA Clarkson,BV Sears,Abbas Afridi,6,0,,,,,,"",""
+ball,2,18.3,New Zealand,JA Clarkson,BV Sears,Abbas Afridi,0,0,,,,,,"",""
+ball,2,18.4,New Zealand,JA Clarkson,BV Sears,Abbas Afridi,1,0,,,,,,"",""
+ball,2,18.5,New Zealand,BV Sears,JA Clarkson,Abbas Afridi,0,1,1,,,,,"",""
+ball,2,18.6,New Zealand,BV Sears,JA Clarkson,Abbas Afridi,1,0,,,,,,"",""
+ball,2,18.7,New Zealand,JA Clarkson,BV Sears,Abbas Afridi,0,0,,,,,,"",""
+ball,2,19.1,New Zealand,BV Sears,JA Clarkson,Mohammad Amir,0,1,1,,,,,run out,BV Sears
+ball,2,19.2,New Zealand,JA Clarkson,W O'Rourke,Mohammad Amir,0,0,,,,,,"",""
+ball,2,19.3,New Zealand,JA Clarkson,W O'Rourke,Mohammad Amir,1,0,,,,,,run out,W O'Rourke

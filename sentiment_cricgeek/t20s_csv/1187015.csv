@@ -1,0 +1,310 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,male
+info,season,2019/20
+info,date,2019/11/10
+info,event,Bangladesh tour of India
+info,match_number,3
+info,venue,"Vidarbha Cricket Association Stadium, Jamtha"
+info,city,Nagpur
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,DL Chahar
+info,umpire,AK Chaudhary
+info,umpire,CK Nandan
+info,reserve_umpire,C Shamshuddin
+info,tv_umpire,Nitin Menon
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_runs,30
+info,player,India,RG Sharma
+info,player,India,S Dhawan
+info,player,India,KL Rahul
+info,player,India,SS Iyer
+info,player,India,RR Pant
+info,player,India,MK Pandey
+info,player,India,S Dube
+info,player,India,Washington Sundar
+info,player,India,YS Chahal
+info,player,India,DL Chahar
+info,player,India,KK Ahmed
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mohammad Naim
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mohammad Mithun
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Aminul Islam Biplob
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Al-Amin Hossain
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Aminul Islam Biplob,f8ce577b
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Dhawan,0a476045
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,India,RG Sharma,S Dhawan,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,0.2,India,RG Sharma,S Dhawan,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,0.3,India,S Dhawan,RG Sharma,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,0.4,India,S Dhawan,RG Sharma,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,0.5,India,RG Sharma,S Dhawan,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,0.6,India,S Dhawan,RG Sharma,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,1.1,India,RG Sharma,S Dhawan,Shafiul Islam,0,0,,,,,,"",""
+ball,1,1.2,India,RG Sharma,S Dhawan,Shafiul Islam,0,0,,,,,,"",""
+ball,1,1.3,India,RG Sharma,S Dhawan,Shafiul Islam,0,0,,,,,,bowled,RG Sharma
+ball,1,1.4,India,KL Rahul,S Dhawan,Shafiul Islam,0,0,,,,,,"",""
+ball,1,1.5,India,KL Rahul,S Dhawan,Shafiul Islam,0,0,,,,,,"",""
+ball,1,1.6,India,KL Rahul,S Dhawan,Shafiul Islam,0,0,,,,,,"",""
+ball,1,2.1,India,S Dhawan,KL Rahul,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,2.2,India,S Dhawan,KL Rahul,Al-Amin Hossain,4,0,,,,,,"",""
+ball,1,2.3,India,S Dhawan,KL Rahul,Al-Amin Hossain,4,0,,,,,,"",""
+ball,1,2.4,India,S Dhawan,KL Rahul,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,2.5,India,KL Rahul,S Dhawan,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,2.6,India,S Dhawan,KL Rahul,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,3.1,India,KL Rahul,S Dhawan,Shafiul Islam,4,0,,,,,,"",""
+ball,1,3.2,India,KL Rahul,S Dhawan,Shafiul Islam,4,0,,,,,,"",""
+ball,1,3.3,India,KL Rahul,S Dhawan,Shafiul Islam,2,0,,,,,,"",""
+ball,1,3.4,India,KL Rahul,S Dhawan,Shafiul Islam,1,0,,,,,,"",""
+ball,1,3.5,India,S Dhawan,KL Rahul,Shafiul Islam,1,0,,,,,,"",""
+ball,1,3.6,India,KL Rahul,S Dhawan,Shafiul Islam,0,0,,,,,,"",""
+ball,1,4.1,India,S Dhawan,KL Rahul,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,4.2,India,S Dhawan,KL Rahul,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,4.3,India,S Dhawan,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,4.4,India,S Dhawan,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,4.5,India,S Dhawan,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,4.6,India,S Dhawan,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,4.7,India,S Dhawan,KL Rahul,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,5.1,India,KL Rahul,S Dhawan,Shafiul Islam,1,0,,,,,,"",""
+ball,1,5.2,India,S Dhawan,KL Rahul,Shafiul Islam,0,0,,,,,,caught,S Dhawan
+ball,1,5.3,India,KL Rahul,SS Iyer,Shafiul Islam,1,0,,,,,,"",""
+ball,1,5.4,India,SS Iyer,KL Rahul,Shafiul Islam,0,0,,,,,,"",""
+ball,1,5.5,India,SS Iyer,KL Rahul,Shafiul Islam,1,0,,,,,,"",""
+ball,1,5.6,India,KL Rahul,SS Iyer,Shafiul Islam,4,0,,,,,,"",""
+ball,1,6.1,India,SS Iyer,KL Rahul,Aminul Islam Biplob,0,0,,,,,,"",""
+ball,1,6.2,India,SS Iyer,KL Rahul,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,6.3,India,KL Rahul,SS Iyer,Aminul Islam Biplob,4,0,,,,,,"",""
+ball,1,6.4,India,KL Rahul,SS Iyer,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,6.5,India,SS Iyer,KL Rahul,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,6.6,India,KL Rahul,SS Iyer,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,7.1,India,KL Rahul,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,7.2,India,SS Iyer,KL Rahul,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,7.3,India,KL Rahul,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,7.4,India,SS Iyer,KL Rahul,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,7.5,India,KL Rahul,SS Iyer,Soumya Sarkar,0,0,,,,,,"",""
+ball,1,7.6,India,KL Rahul,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,8.1,India,KL Rahul,SS Iyer,Aminul Islam Biplob,0,0,,,,,,"",""
+ball,1,8.2,India,KL Rahul,SS Iyer,Aminul Islam Biplob,2,0,,,,,,"",""
+ball,1,8.3,India,KL Rahul,SS Iyer,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,8.4,India,SS Iyer,KL Rahul,Aminul Islam Biplob,0,0,,,,,,"",""
+ball,1,8.5,India,SS Iyer,KL Rahul,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,8.6,India,KL Rahul,SS Iyer,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,9.1,India,KL Rahul,SS Iyer,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,9.2,India,KL Rahul,SS Iyer,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,9.3,India,SS Iyer,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,9.4,India,KL Rahul,SS Iyer,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,9.5,India,KL Rahul,SS Iyer,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,9.6,India,SS Iyer,KL Rahul,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,10.1,India,SS Iyer,KL Rahul,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,10.2,India,KL Rahul,SS Iyer,Aminul Islam Biplob,4,0,,,,,,"",""
+ball,1,10.3,India,KL Rahul,SS Iyer,Aminul Islam Biplob,1,0,,,,,,"",""
+ball,1,10.4,India,SS Iyer,KL Rahul,Aminul Islam Biplob,6,0,,,,,,"",""
+ball,1,10.5,India,SS Iyer,KL Rahul,Aminul Islam Biplob,4,0,,,,,,"",""
+ball,1,10.6,India,SS Iyer,KL Rahul,Aminul Islam Biplob,0,0,,,,,,"",""
+ball,1,11.1,India,KL Rahul,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,11.2,India,SS Iyer,KL Rahul,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,11.3,India,KL Rahul,SS Iyer,Soumya Sarkar,0,0,,,,,,"",""
+ball,1,11.4,India,KL Rahul,SS Iyer,Soumya Sarkar,2,0,,,,,,"",""
+ball,1,11.5,India,KL Rahul,SS Iyer,Soumya Sarkar,2,0,,,,,,"",""
+ball,1,11.6,India,KL Rahul,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,12.1,India,KL Rahul,SS Iyer,Al-Amin Hossain,0,0,,,,,,caught,KL Rahul
+ball,1,12.2,India,RR Pant,SS Iyer,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,12.3,India,SS Iyer,RR Pant,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,12.4,India,SS Iyer,RR Pant,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,12.5,India,RR Pant,SS Iyer,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,12.6,India,RR Pant,SS Iyer,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,13.1,India,RR Pant,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,13.2,India,SS Iyer,RR Pant,Soumya Sarkar,6,0,,,,,,"",""
+ball,1,13.3,India,SS Iyer,RR Pant,Soumya Sarkar,2,0,,,,,,"",""
+ball,1,13.4,India,SS Iyer,RR Pant,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,13.5,India,RR Pant,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,13.6,India,SS Iyer,RR Pant,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,14.1,India,SS Iyer,RR Pant,Afif Hossain,6,0,,,,,,"",""
+ball,1,14.2,India,SS Iyer,RR Pant,Afif Hossain,6,0,,,,,,"",""
+ball,1,14.3,India,SS Iyer,RR Pant,Afif Hossain,6,0,,,,,,"",""
+ball,1,14.4,India,SS Iyer,RR Pant,Afif Hossain,0,0,,,,,,"",""
+ball,1,14.5,India,SS Iyer,RR Pant,Afif Hossain,1,0,,,,,,"",""
+ball,1,14.6,India,RR Pant,SS Iyer,Afif Hossain,1,0,,,,,,"",""
+ball,1,15.1,India,RR Pant,SS Iyer,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,15.2,India,RR Pant,SS Iyer,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,15.3,India,RR Pant,SS Iyer,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,15.4,India,SS Iyer,RR Pant,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,15.5,India,SS Iyer,RR Pant,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,15.6,India,SS Iyer,RR Pant,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,15.7,India,SS Iyer,RR Pant,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,16.1,India,RR Pant,SS Iyer,Soumya Sarkar,0,0,,,,,,bowled,RR Pant
+ball,1,16.2,India,MK Pandey,SS Iyer,Soumya Sarkar,0,0,,,,,,"",""
+ball,1,16.3,India,MK Pandey,SS Iyer,Soumya Sarkar,1,0,,,,,,"",""
+ball,1,16.4,India,SS Iyer,MK Pandey,Soumya Sarkar,4,0,,,,,,"",""
+ball,1,16.5,India,SS Iyer,MK Pandey,Soumya Sarkar,0,0,,,,,,caught,SS Iyer
+ball,1,16.6,India,MK Pandey,S Dube,Soumya Sarkar,0,0,,,,,,"",""
+ball,1,17.1,India,S Dube,MK Pandey,Shafiul Islam,1,0,,,,,,"",""
+ball,1,17.2,India,MK Pandey,S Dube,Shafiul Islam,1,0,,,,,,"",""
+ball,1,17.3,India,S Dube,MK Pandey,Shafiul Islam,1,0,,,,,,"",""
+ball,1,17.4,India,MK Pandey,S Dube,Shafiul Islam,4,0,,,,,,"",""
+ball,1,17.5,India,MK Pandey,S Dube,Shafiul Islam,4,0,,,,,,"",""
+ball,1,17.6,India,MK Pandey,S Dube,Shafiul Islam,2,0,,,,,,"",""
+ball,1,18.1,India,S Dube,MK Pandey,Al-Amin Hossain,0,0,,,,,,"",""
+ball,1,18.2,India,S Dube,MK Pandey,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,18.3,India,MK Pandey,S Dube,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,18.4,India,S Dube,MK Pandey,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,18.5,India,MK Pandey,S Dube,Al-Amin Hossain,1,0,,,,,,"",""
+ball,1,18.6,India,S Dube,MK Pandey,Al-Amin Hossain,2,0,,,,,,"",""
+ball,1,19.1,India,MK Pandey,S Dube,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,19.2,India,MK Pandey,S Dube,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,19.3,India,MK Pandey,S Dube,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,19.4,India,S Dube,MK Pandey,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,19.5,India,MK Pandey,S Dube,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,19.6,India,S Dube,MK Pandey,Mustafizur Rahman,2,0,,,,,,"",""
+ball,2,0.1,Bangladesh,Liton Das,Mohammad Naim,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Liton Das,Mohammad Naim,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Liton Das,Mohammad Naim,KK Ahmed,4,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Liton Das,Mohammad Naim,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Liton Das,Mohammad Naim,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Liton Das,Mohammad Naim,KK Ahmed,4,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Mohammad Naim,Liton Das,Washington Sundar,0,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Mohammad Naim,Liton Das,Washington Sundar,0,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Mohammad Naim,Liton Das,Washington Sundar,0,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Mohammad Naim,Liton Das,Washington Sundar,1,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Liton Das,Mohammad Naim,Washington Sundar,1,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Mohammad Naim,Liton Das,Washington Sundar,1,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Mohammad Naim,Liton Das,DL Chahar,0,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Mohammad Naim,Liton Das,DL Chahar,0,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Mohammad Naim,Liton Das,DL Chahar,1,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Liton Das,Mohammad Naim,DL Chahar,0,0,,,,,,caught,Liton Das
+ball,2,2.5,Bangladesh,Soumya Sarkar,Mohammad Naim,DL Chahar,0,0,,,,,,caught,Soumya Sarkar
+ball,2,2.6,Bangladesh,Mohammad Mithun,Mohammad Naim,DL Chahar,0,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Mohammad Naim,Mohammad Mithun,KK Ahmed,0,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Mohammad Naim,Mohammad Mithun,KK Ahmed,0,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Mohammad Naim,Mohammad Mithun,KK Ahmed,0,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Mohammad Naim,Mohammad Mithun,KK Ahmed,1,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Mohammad Mithun,Mohammad Naim,KK Ahmed,0,0,,,,,,"",""
+ball,2,3.6,Bangladesh,Mohammad Mithun,Mohammad Naim,KK Ahmed,0,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,1,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,0,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,1,0,,,,,,"",""
+ball,2,4.4,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,2,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,1,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,0,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,4,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,4,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,4,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,1,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Mohammad Mithun,Mohammad Naim,YS Chahal,1,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,1,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Mohammad Naim,Mohammad Mithun,S Dube,4,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Mohammad Naim,Mohammad Mithun,S Dube,4,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Mohammad Naim,Mohammad Mithun,S Dube,1,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Mohammad Mithun,Mohammad Naim,S Dube,1,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Mohammad Naim,Mohammad Mithun,S Dube,1,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Mohammad Mithun,Mohammad Naim,S Dube,1,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Mohammad Mithun,Mohammad Naim,YS Chahal,0,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Mohammad Mithun,Mohammad Naim,YS Chahal,4,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Mohammad Mithun,Mohammad Naim,YS Chahal,1,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,1,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Mohammad Mithun,Mohammad Naim,YS Chahal,1,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,1,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,6,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,1,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,0,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,0,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,1,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,1,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Mohammad Naim,Mohammad Mithun,S Dube,4,0,,,,,,"",""
+ball,2,9.2,Bangladesh,Mohammad Naim,Mohammad Mithun,S Dube,1,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Mohammad Mithun,Mohammad Naim,S Dube,4,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Mohammad Mithun,Mohammad Naim,S Dube,1,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Mohammad Naim,Mohammad Mithun,S Dube,1,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Mohammad Mithun,Mohammad Naim,S Dube,0,1,,,,1,,"",""
+ball,2,10.1,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,1,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,1,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,6,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Mohammad Mithun,Mohammad Naim,Washington Sundar,1,0,,,,,,"",""
+ball,2,10.5,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,4,0,,,,,,"",""
+ball,2,10.6,Bangladesh,Mohammad Naim,Mohammad Mithun,Washington Sundar,4,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Mohammad Mithun,Mohammad Naim,YS Chahal,1,0,,,,,,"",""
+ball,2,11.2,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,1,0,,,,,,"",""
+ball,2,11.3,Bangladesh,Mohammad Mithun,Mohammad Naim,YS Chahal,1,0,,,,,,"",""
+ball,2,11.4,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,4,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,2,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Mohammad Naim,Mohammad Mithun,YS Chahal,6,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Mohammad Mithun,Mohammad Naim,DL Chahar,0,2,,,,2,,"",""
+ball,2,12.2,Bangladesh,Mohammad Mithun,Mohammad Naim,DL Chahar,0,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Mohammad Mithun,Mohammad Naim,DL Chahar,1,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Mohammad Naim,Mohammad Mithun,DL Chahar,1,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Mohammad Mithun,Mohammad Naim,DL Chahar,0,0,,,,,,"",""
+ball,2,12.6,Bangladesh,Mohammad Mithun,Mohammad Naim,DL Chahar,0,0,,,,,,caught,Mohammad Mithun
+ball,2,13.1,Bangladesh,Mushfiqur Rahim,Mohammad Naim,S Dube,0,0,,,,,,bowled,Mushfiqur Rahim
+ball,2,13.2,Bangladesh,Mahmudullah,Mohammad Naim,S Dube,1,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Mohammad Naim,Mahmudullah,S Dube,1,0,,,,,,"",""
+ball,2,13.4,Bangladesh,Mahmudullah,Mohammad Naim,S Dube,1,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Mohammad Naim,Mahmudullah,S Dube,2,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Mohammad Naim,Mahmudullah,S Dube,1,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Mohammad Naim,Mahmudullah,KK Ahmed,1,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Mahmudullah,Mohammad Naim,KK Ahmed,1,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Mohammad Naim,Mahmudullah,KK Ahmed,1,0,,,,,,"",""
+ball,2,14.4,Bangladesh,Mahmudullah,Mohammad Naim,KK Ahmed,1,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Mohammad Naim,Mahmudullah,KK Ahmed,0,1,1,,,,,"",""
+ball,2,14.6,Bangladesh,Mohammad Naim,Mahmudullah,KK Ahmed,4,0,,,,,,"",""
+ball,2,14.7,Bangladesh,Mohammad Naim,Mahmudullah,KK Ahmed,0,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Mahmudullah,Mohammad Naim,S Dube,0,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Mahmudullah,Mohammad Naim,S Dube,1,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Mohammad Naim,Mahmudullah,S Dube,0,0,,,,,,bowled,Mohammad Naim
+ball,2,15.4,Bangladesh,Afif Hossain,Mahmudullah,S Dube,0,0,,,,,,caught and bowled,Afif Hossain
+ball,2,15.5,Bangladesh,Aminul Islam Biplob,Mahmudullah,S Dube,0,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Aminul Islam Biplob,Mahmudullah,S Dube,0,0,,,,,,"",""
+ball,2,16.1,Bangladesh,Mahmudullah,Aminul Islam Biplob,YS Chahal,2,0,,,,,,"",""
+ball,2,16.2,Bangladesh,Mahmudullah,Aminul Islam Biplob,YS Chahal,1,0,,,,,,"",""
+ball,2,16.3,Bangladesh,Aminul Islam Biplob,Mahmudullah,YS Chahal,1,0,,,,,,"",""
+ball,2,16.4,Bangladesh,Mahmudullah,Aminul Islam Biplob,YS Chahal,0,0,,,,,,"",""
+ball,2,16.5,Bangladesh,Mahmudullah,Aminul Islam Biplob,YS Chahal,0,0,,,,,,bowled,Mahmudullah
+ball,2,16.6,Bangladesh,Shafiul Islam,Aminul Islam Biplob,YS Chahal,1,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Shafiul Islam,Aminul Islam Biplob,DL Chahar,1,0,,,,,,"",""
+ball,2,17.2,Bangladesh,Aminul Islam Biplob,Shafiul Islam,DL Chahar,1,0,,,,,,"",""
+ball,2,17.3,Bangladesh,Shafiul Islam,Aminul Islam Biplob,DL Chahar,0,0,,,,,,"",""
+ball,2,17.4,Bangladesh,Shafiul Islam,Aminul Islam Biplob,DL Chahar,0,0,,,,,,"",""
+ball,2,17.5,Bangladesh,Shafiul Islam,Aminul Islam Biplob,DL Chahar,2,0,,,,,,"",""
+ball,2,17.6,Bangladesh,Shafiul Islam,Aminul Islam Biplob,DL Chahar,0,0,,,,,,caught,Shafiul Islam
+ball,2,18.1,Bangladesh,Aminul Islam Biplob,Mustafizur Rahman,KK Ahmed,2,0,,,,,,"",""
+ball,2,18.2,Bangladesh,Aminul Islam Biplob,Mustafizur Rahman,KK Ahmed,0,1,1,,,,,"",""
+ball,2,18.3,Bangladesh,Aminul Islam Biplob,Mustafizur Rahman,KK Ahmed,4,0,,,,,,"",""
+ball,2,18.4,Bangladesh,Aminul Islam Biplob,Mustafizur Rahman,KK Ahmed,0,0,,,,,,"",""
+ball,2,18.5,Bangladesh,Aminul Islam Biplob,Mustafizur Rahman,KK Ahmed,1,0,,,,,,"",""
+ball,2,18.6,Bangladesh,Mustafizur Rahman,Aminul Islam Biplob,KK Ahmed,0,0,,,,,,"",""
+ball,2,18.7,Bangladesh,Mustafizur Rahman,Aminul Islam Biplob,KK Ahmed,1,0,,,,,,"",""
+ball,2,19.1,Bangladesh,Mustafizur Rahman,Aminul Islam Biplob,DL Chahar,0,0,,,,,,caught,Mustafizur Rahman
+ball,2,19.2,Bangladesh,Aminul Islam Biplob,Al-Amin Hossain,DL Chahar,0,0,,,,,,bowled,Aminul Islam Biplob

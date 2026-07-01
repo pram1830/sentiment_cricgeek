@@ -1,0 +1,262 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Costa Rica
+info,gender,male
+info,season,2025
+info,date,2025/04/17
+info,event,Central American Cricket Championships
+info,match_number,1
+info,venue,"Clayton Panama, Panama City"
+info,city,Panama City
+info,toss_winner,Costa Rica
+info,toss_decision,field
+info,player_of_match,D Panda
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,winner,Mexico
+info,winner_runs,124
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,SB Wagh
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,D Panda
+info,player,Mexico,A Tripathi
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,R Poojary
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,R Ankad
+info,player,Costa Rica,S Ravikumar
+info,player,Costa Rica,D Rawat
+info,player,Costa Rica,K Shivam
+info,player,Costa Rica,S Pillai
+info,player,Costa Rica,D Ganesh
+info,player,Costa Rica,RR Saun
+info,player,Costa Rica,O Sam Arthur
+info,player,Costa Rica,PV Naringrekar
+info,player,Costa Rica,JR Lucky
+info,player,Costa Rica,ARH Patel
+info,registry,people,A Tripathi,07160156
+info,registry,people,AR Maddela,5c861579
+info,registry,people,ARH Patel,c5147782
+info,registry,people,D Ganesh,84624717
+info,registry,people,D Panda,bad1af65
+info,registry,people,D Rawat,cda3625c
+info,registry,people,JR Lucky,4a3cbbf2
+info,registry,people,K Shivam,f46fbe60
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,O Sam Arthur,11c35bf1
+info,registry,people,PV Naringrekar,b0ff13d6
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Poojary,d05e9052
+info,registry,people,R Shah,3424e050
+info,registry,people,RR Saun,acb6ee37
+info,registry,people,S Pillai,927b34c9
+info,registry,people,S Ravikumar,5597338d
+info,registry,people,SB Wagh,acf06e10
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+ball,1,0.1,Mexico,Shashikant Laxman,Kaushal Kumar,S Pillai,0,1,1,,,,,"",""
+ball,1,0.2,Mexico,Shashikant Laxman,Kaushal Kumar,S Pillai,0,0,,,,,,lbw,Shashikant Laxman
+ball,1,0.3,Mexico,SB Wagh,Kaushal Kumar,S Pillai,0,0,,,,,,"",""
+ball,1,0.4,Mexico,SB Wagh,Kaushal Kumar,S Pillai,0,0,,,,,,"",""
+ball,1,0.5,Mexico,SB Wagh,Kaushal Kumar,S Pillai,2,0,,,,,,"",""
+ball,1,0.6,Mexico,SB Wagh,Kaushal Kumar,S Pillai,0,0,,,,,,"",""
+ball,1,0.7,Mexico,SB Wagh,Kaushal Kumar,S Pillai,1,0,,,,,,"",""
+ball,1,1.1,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,4,0,,,,,,"",""
+ball,1,1.2,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,2,0,,,,,,"",""
+ball,1,1.3,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,1,0,,,,,,"",""
+ball,1,1.4,Mexico,Kaushal Kumar,SB Wagh,D Ganesh,0,0,,,,,,"",""
+ball,1,1.5,Mexico,Kaushal Kumar,SB Wagh,D Ganesh,0,0,,,,,,"",""
+ball,1,1.6,Mexico,Kaushal Kumar,SB Wagh,D Ganesh,1,0,,,,,,"",""
+ball,1,2.1,Mexico,Kaushal Kumar,SB Wagh,S Pillai,0,0,,,,,,"",""
+ball,1,2.2,Mexico,Kaushal Kumar,SB Wagh,S Pillai,0,0,,,,,,"",""
+ball,1,2.3,Mexico,Kaushal Kumar,SB Wagh,S Pillai,2,0,,,,,,"",""
+ball,1,2.4,Mexico,Kaushal Kumar,SB Wagh,S Pillai,0,0,,,,,,"",""
+ball,1,2.5,Mexico,Kaushal Kumar,SB Wagh,S Pillai,4,0,,,,,,"",""
+ball,1,2.6,Mexico,Kaushal Kumar,SB Wagh,S Pillai,0,0,,,,,,"",""
+ball,1,3.1,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,2,0,,,,,,"",""
+ball,1,3.2,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,0,0,,,,,,"",""
+ball,1,3.3,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,1,0,,,,,,"",""
+ball,1,3.4,Mexico,Kaushal Kumar,SB Wagh,D Ganesh,1,0,,,,,,"",""
+ball,1,3.5,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,2,0,,,,,,"",""
+ball,1,3.6,Mexico,SB Wagh,Kaushal Kumar,D Ganesh,1,0,,,,,,"",""
+ball,1,4.1,Mexico,SB Wagh,Kaushal Kumar,D Rawat,0,2,2,,,,,"",""
+ball,1,4.2,Mexico,Kaushal Kumar,SB Wagh,D Rawat,1,0,,,,,,"",""
+ball,1,4.3,Mexico,SB Wagh,Kaushal Kumar,D Rawat,1,0,,,,,,"",""
+ball,1,4.4,Mexico,Kaushal Kumar,SB Wagh,D Rawat,4,0,,,,,,"",""
+ball,1,4.5,Mexico,Kaushal Kumar,SB Wagh,D Rawat,1,0,,,,,,"",""
+ball,1,4.6,Mexico,SB Wagh,Kaushal Kumar,D Rawat,4,0,,,,,,"",""
+ball,1,4.7,Mexico,SB Wagh,Kaushal Kumar,D Rawat,1,0,,,,,,"",""
+ball,1,5.1,Mexico,SB Wagh,Kaushal Kumar,S Ravikumar,0,1,,,1,,,"",""
+ball,1,5.2,Mexico,Kaushal Kumar,SB Wagh,S Ravikumar,0,0,,,,,,caught,Kaushal Kumar
+ball,1,5.3,Mexico,Luis Hermida,SB Wagh,S Ravikumar,2,0,,,,,,"",""
+ball,1,5.4,Mexico,Luis Hermida,SB Wagh,S Ravikumar,1,0,,,,,,"",""
+ball,1,5.5,Mexico,SB Wagh,Luis Hermida,S Ravikumar,1,0,,,,,,"",""
+ball,1,5.6,Mexico,Luis Hermida,SB Wagh,S Ravikumar,2,0,,,,,,"",""
+ball,1,6.1,Mexico,SB Wagh,Luis Hermida,D Rawat,4,0,,,,,,"",""
+ball,1,6.2,Mexico,SB Wagh,Luis Hermida,D Rawat,1,0,,,,,,"",""
+ball,1,6.3,Mexico,Luis Hermida,SB Wagh,D Rawat,1,0,,,,,,"",""
+ball,1,6.4,Mexico,SB Wagh,Luis Hermida,D Rawat,4,0,,,,,,"",""
+ball,1,6.5,Mexico,SB Wagh,Luis Hermida,D Rawat,1,0,,,,,,"",""
+ball,1,6.6,Mexico,Luis Hermida,SB Wagh,D Rawat,0,0,,,,,,"",""
+ball,1,7.1,Mexico,SB Wagh,Luis Hermida,S Ravikumar,1,0,,,,,,"",""
+ball,1,7.2,Mexico,Luis Hermida,SB Wagh,S Ravikumar,1,1,,1,,,,"",""
+ball,1,7.3,Mexico,SB Wagh,Luis Hermida,S Ravikumar,1,0,,,,,,"",""
+ball,1,7.4,Mexico,Luis Hermida,SB Wagh,S Ravikumar,1,0,,,,,,"",""
+ball,1,7.5,Mexico,SB Wagh,Luis Hermida,S Ravikumar,0,0,,,,,,"",""
+ball,1,7.6,Mexico,SB Wagh,Luis Hermida,S Ravikumar,1,0,,,,,,"",""
+ball,1,7.7,Mexico,Luis Hermida,SB Wagh,S Ravikumar,1,0,,,,,,"",""
+ball,1,8.1,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,1,0,,,,,,"",""
+ball,1,8.2,Mexico,SB Wagh,Luis Hermida,O Sam Arthur,1,0,,,,,,"",""
+ball,1,8.3,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,1,0,,,,,,"",""
+ball,1,8.4,Mexico,SB Wagh,Luis Hermida,O Sam Arthur,1,0,,,,,,"",""
+ball,1,8.5,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,0,1,1,,,,,"",""
+ball,1,8.6,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,0,0,,,,,,"",""
+ball,1,8.7,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,1,0,,,,,,"",""
+ball,1,9.1,Mexico,Luis Hermida,SB Wagh,RR Saun,1,0,,,,,,"",""
+ball,1,9.2,Mexico,SB Wagh,Luis Hermida,RR Saun,1,0,,,,,,"",""
+ball,1,9.3,Mexico,Luis Hermida,SB Wagh,RR Saun,1,0,,,,,,"",""
+ball,1,9.4,Mexico,SB Wagh,Luis Hermida,RR Saun,1,0,,,,,,"",""
+ball,1,9.5,Mexico,Luis Hermida,SB Wagh,RR Saun,1,0,,,,,,"",""
+ball,1,9.6,Mexico,SB Wagh,Luis Hermida,RR Saun,1,0,,,,,,"",""
+ball,1,10.1,Mexico,SB Wagh,Luis Hermida,S Pillai,0,0,,,,,,"",""
+ball,1,10.2,Mexico,SB Wagh,Luis Hermida,S Pillai,0,1,,,,1,,"",""
+ball,1,10.3,Mexico,Luis Hermida,SB Wagh,S Pillai,0,0,,,,,,"",""
+ball,1,10.4,Mexico,Luis Hermida,SB Wagh,S Pillai,1,0,,,,,,"",""
+ball,1,10.5,Mexico,SB Wagh,Luis Hermida,S Pillai,1,0,,,,,,"",""
+ball,1,10.6,Mexico,Luis Hermida,SB Wagh,S Pillai,2,0,,,,,,"",""
+ball,1,11.1,Mexico,SB Wagh,Luis Hermida,RR Saun,0,3,3,,,,,"",""
+ball,1,11.2,Mexico,SB Wagh,Luis Hermida,RR Saun,0,0,,,,,,"",""
+ball,1,11.3,Mexico,SB Wagh,Luis Hermida,RR Saun,4,0,,,,,,"",""
+ball,1,11.4,Mexico,SB Wagh,Luis Hermida,RR Saun,1,0,,,,,,"",""
+ball,1,11.5,Mexico,Luis Hermida,SB Wagh,RR Saun,2,0,,,,,,"",""
+ball,1,11.6,Mexico,Luis Hermida,SB Wagh,RR Saun,0,1,,,,1,,"",""
+ball,1,11.7,Mexico,SB Wagh,Luis Hermida,RR Saun,1,0,,,,,,"",""
+ball,1,12.1,Mexico,SB Wagh,Luis Hermida,O Sam Arthur,1,0,,,,,,"",""
+ball,1,12.2,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,0,0,,,,,,"",""
+ball,1,12.3,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,1,0,,,,,,"",""
+ball,1,12.4,Mexico,SB Wagh,Luis Hermida,O Sam Arthur,1,0,,,,,,"",""
+ball,1,12.5,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,4,0,,,,,,"",""
+ball,1,12.6,Mexico,Luis Hermida,SB Wagh,O Sam Arthur,4,0,,,,,,"",""
+ball,1,13.1,Mexico,SB Wagh,Luis Hermida,D Ganesh,1,0,,,,,,"",""
+ball,1,13.2,Mexico,Luis Hermida,SB Wagh,D Ganesh,0,0,,,,,,"",""
+ball,1,13.3,Mexico,Luis Hermida,SB Wagh,D Ganesh,1,0,,,,,,"",""
+ball,1,13.4,Mexico,SB Wagh,Luis Hermida,D Ganesh,0,1,,,,1,,"",""
+ball,1,13.5,Mexico,Luis Hermida,SB Wagh,D Ganesh,0,0,,,,,,caught,Luis Hermida
+ball,1,13.6,Mexico,Praveen Santhanakrishnan,SB Wagh,D Ganesh,0,0,,,,,,"",""
+ball,1,14.1,Mexico,SB Wagh,Praveen Santhanakrishnan,S Ravikumar,0,0,,,,,,caught,SB Wagh
+ball,1,14.2,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,1,0,,,,,,"",""
+ball,1,14.3,Mexico,Praveen Santhanakrishnan,D Panda,S Ravikumar,4,0,,,,,,"",""
+ball,1,14.4,Mexico,Praveen Santhanakrishnan,D Panda,S Ravikumar,4,0,,,,,,"",""
+ball,1,14.5,Mexico,Praveen Santhanakrishnan,D Panda,S Ravikumar,1,0,,,,,,"",""
+ball,1,14.6,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,2,0,,,,,,"",""
+ball,1,15.1,Mexico,Praveen Santhanakrishnan,D Panda,D Rawat,1,0,,,,,,"",""
+ball,1,15.2,Mexico,D Panda,Praveen Santhanakrishnan,D Rawat,2,0,,,,,,"",""
+ball,1,15.3,Mexico,D Panda,Praveen Santhanakrishnan,D Rawat,1,0,,,,,,"",""
+ball,1,15.4,Mexico,Praveen Santhanakrishnan,D Panda,D Rawat,6,0,,,,,,"",""
+ball,1,15.5,Mexico,Praveen Santhanakrishnan,D Panda,D Rawat,0,0,,,,,,"",""
+ball,1,15.6,Mexico,Praveen Santhanakrishnan,D Panda,D Rawat,0,0,,,,,,"",""
+ball,1,16.1,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,2,0,,,,,,"",""
+ball,1,16.2,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,0,0,,,,,,"",""
+ball,1,16.3,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,0,0,,,,,,"",""
+ball,1,16.4,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,0,5,5,,,,,"",""
+ball,1,16.5,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,0,0,,,,,,"",""
+ball,1,16.6,Mexico,D Panda,Praveen Santhanakrishnan,S Ravikumar,0,1,,,1,,,"",""
+ball,1,16.7,Mexico,Praveen Santhanakrishnan,D Panda,S Ravikumar,1,0,,,,,,"",""
+ball,1,17.1,Mexico,Praveen Santhanakrishnan,D Panda,D Rawat,1,0,,,,,,"",""
+ball,1,17.2,Mexico,D Panda,Praveen Santhanakrishnan,D Rawat,0,0,,,,,,"",""
+ball,1,17.3,Mexico,D Panda,Praveen Santhanakrishnan,D Rawat,2,0,,,,,,"",""
+ball,1,17.4,Mexico,D Panda,Praveen Santhanakrishnan,D Rawat,1,0,,,,,,"",""
+ball,1,17.5,Mexico,Praveen Santhanakrishnan,D Panda,D Rawat,1,0,,,,,,"",""
+ball,1,17.6,Mexico,D Panda,Praveen Santhanakrishnan,D Rawat,2,0,,,,,,"",""
+ball,1,18.1,Mexico,Praveen Santhanakrishnan,D Panda,S Pillai,0,0,,,,,,"",""
+ball,1,18.2,Mexico,Praveen Santhanakrishnan,D Panda,S Pillai,0,0,,,,,,"",""
+ball,1,18.3,Mexico,Praveen Santhanakrishnan,D Panda,S Pillai,2,0,,,,,,"",""
+ball,1,18.4,Mexico,Praveen Santhanakrishnan,D Panda,S Pillai,2,0,,,,,,"",""
+ball,1,18.5,Mexico,Praveen Santhanakrishnan,D Panda,S Pillai,1,0,,,,,,"",""
+ball,1,18.6,Mexico,D Panda,Praveen Santhanakrishnan,S Pillai,4,0,,,,,,"",""
+ball,1,19.1,Mexico,Praveen Santhanakrishnan,D Panda,D Ganesh,6,0,,,,,,"",""
+ball,1,19.2,Mexico,Praveen Santhanakrishnan,D Panda,D Ganesh,4,0,,,,,,"",""
+ball,1,19.3,Mexico,Praveen Santhanakrishnan,D Panda,D Ganesh,6,0,,,,,,"",""
+ball,1,19.4,Mexico,Praveen Santhanakrishnan,D Panda,D Ganesh,0,0,,,,,,"",""
+ball,1,19.5,Mexico,Praveen Santhanakrishnan,D Panda,D Ganesh,0,0,,,,,,"",""
+ball,1,19.6,Mexico,Praveen Santhanakrishnan,D Panda,D Ganesh,4,0,,,,,,"",""
+ball,2,0.1,Costa Rica,S Ravikumar,D Rawat,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.2,Costa Rica,S Ravikumar,D Rawat,Pratik Singh Bais,4,0,,,,,,"",""
+ball,2,0.3,Costa Rica,S Ravikumar,D Rawat,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.4,Costa Rica,S Ravikumar,D Rawat,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.5,Costa Rica,S Ravikumar,D Rawat,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.6,Costa Rica,S Ravikumar,D Rawat,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,1.1,Costa Rica,D Rawat,S Ravikumar,R Ankad,4,0,,,,,,"",""
+ball,2,1.2,Costa Rica,D Rawat,S Ravikumar,R Ankad,0,0,,,,,,"",""
+ball,2,1.3,Costa Rica,D Rawat,S Ravikumar,R Ankad,2,0,,,,,,"",""
+ball,2,1.4,Costa Rica,D Rawat,S Ravikumar,R Ankad,1,0,,,,,,"",""
+ball,2,1.5,Costa Rica,S Ravikumar,D Rawat,R Ankad,0,0,,,,,,"",""
+ball,2,1.6,Costa Rica,S Ravikumar,D Rawat,R Ankad,0,0,,,,,,lbw,S Ravikumar
+ball,2,2.1,Costa Rica,D Rawat,K Shivam,Pratik Singh Bais,4,0,,,,,,"",""
+ball,2,2.2,Costa Rica,D Rawat,K Shivam,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.3,Costa Rica,D Rawat,K Shivam,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.4,Costa Rica,D Rawat,K Shivam,Pratik Singh Bais,0,0,,,,,,caught,D Rawat
+ball,2,2.5,Costa Rica,S Pillai,K Shivam,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.6,Costa Rica,S Pillai,K Shivam,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,3.1,Costa Rica,K Shivam,S Pillai,R Ankad,0,0,,,,,,"",""
+ball,2,3.2,Costa Rica,K Shivam,S Pillai,R Ankad,2,0,,,,,,"",""
+ball,2,3.3,Costa Rica,K Shivam,S Pillai,R Ankad,0,0,,,,,,"",""
+ball,2,3.4,Costa Rica,K Shivam,S Pillai,R Ankad,0,0,,,,,,"",""
+ball,2,3.5,Costa Rica,K Shivam,S Pillai,R Ankad,2,0,,,,,,"",""
+ball,2,3.6,Costa Rica,K Shivam,S Pillai,R Ankad,0,1,,,1,,,"",""
+ball,2,4.1,Costa Rica,K Shivam,S Pillai,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,4.2,Costa Rica,K Shivam,S Pillai,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,4.3,Costa Rica,K Shivam,S Pillai,Pratik Singh Bais,0,0,,,,,,run out,K Shivam
+ball,2,4.4,Costa Rica,D Ganesh,S Pillai,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,4.5,Costa Rica,D Ganesh,S Pillai,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,4.6,Costa Rica,D Ganesh,S Pillai,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,5.1,Costa Rica,S Pillai,D Ganesh,R Ankad,1,0,,,,,,"",""
+ball,2,5.2,Costa Rica,D Ganesh,S Pillai,R Ankad,0,0,,,,,,"",""
+ball,2,5.3,Costa Rica,D Ganesh,S Pillai,R Ankad,0,0,,,,,,"",""
+ball,2,5.4,Costa Rica,D Ganesh,S Pillai,R Ankad,0,0,,,,,,"",""
+ball,2,5.5,Costa Rica,D Ganesh,S Pillai,R Ankad,0,0,,,,,,"",""
+ball,2,5.6,Costa Rica,D Ganesh,S Pillai,R Ankad,0,1,1,,,,,"",""
+ball,2,5.7,Costa Rica,D Ganesh,S Pillai,R Ankad,1,0,,,,,,"",""
+ball,2,6.1,Costa Rica,D Ganesh,S Pillai,D Panda,0,0,,,,,,bowled,D Ganesh
+ball,2,6.2,Costa Rica,RR Saun,S Pillai,D Panda,0,0,,,,,,"",""
+ball,2,6.3,Costa Rica,RR Saun,S Pillai,D Panda,4,0,,,,,,"",""
+ball,2,6.4,Costa Rica,RR Saun,S Pillai,D Panda,0,0,,,,,,"",""
+ball,2,6.5,Costa Rica,RR Saun,S Pillai,D Panda,0,0,,,,,,caught,RR Saun
+ball,2,6.6,Costa Rica,O Sam Arthur,S Pillai,D Panda,0,0,,,,,,"",""
+ball,2,7.1,Costa Rica,S Pillai,O Sam Arthur,Luis Hermida,0,2,2,,,,,"",""
+ball,2,7.2,Costa Rica,O Sam Arthur,S Pillai,Luis Hermida,4,0,,,,,,"",""
+ball,2,7.3,Costa Rica,O Sam Arthur,S Pillai,Luis Hermida,0,0,,,,,,"",""
+ball,2,7.4,Costa Rica,O Sam Arthur,S Pillai,Luis Hermida,0,0,,,,,,"",""
+ball,2,7.5,Costa Rica,O Sam Arthur,S Pillai,Luis Hermida,0,0,,,,,,"",""
+ball,2,7.6,Costa Rica,O Sam Arthur,S Pillai,Luis Hermida,0,1,1,,,,,"",""
+ball,2,7.7,Costa Rica,O Sam Arthur,S Pillai,Luis Hermida,2,0,,,,,,"",""
+ball,2,7.8,Costa Rica,O Sam Arthur,S Pillai,Luis Hermida,4,0,,,,,,"",""
+ball,2,8.1,Costa Rica,S Pillai,O Sam Arthur,D Panda,0,0,,,,,,lbw,S Pillai
+ball,2,8.2,Costa Rica,PV Naringrekar,O Sam Arthur,D Panda,0,0,,,,,,caught,PV Naringrekar
+ball,2,8.3,Costa Rica,JR Lucky,O Sam Arthur,D Panda,0,0,,,,,,"",""
+ball,2,8.4,Costa Rica,JR Lucky,O Sam Arthur,D Panda,0,1,1,,,,,"",""
+ball,2,8.5,Costa Rica,JR Lucky,O Sam Arthur,D Panda,0,1,1,,,,,"",""
+ball,2,8.6,Costa Rica,JR Lucky,O Sam Arthur,D Panda,0,0,,,,,,"",""
+ball,2,8.7,Costa Rica,JR Lucky,O Sam Arthur,D Panda,0,0,,,,,,"",""
+ball,2,8.8,Costa Rica,JR Lucky,O Sam Arthur,D Panda,0,0,,,,,,"",""
+ball,2,9.1,Costa Rica,O Sam Arthur,JR Lucky,A Tripathi,1,0,,,,,,"",""
+ball,2,9.2,Costa Rica,JR Lucky,O Sam Arthur,A Tripathi,0,0,,,,,,"",""
+ball,2,9.3,Costa Rica,JR Lucky,O Sam Arthur,A Tripathi,1,0,,,,,,"",""
+ball,2,9.4,Costa Rica,O Sam Arthur,JR Lucky,A Tripathi,1,0,,,,,,"",""
+ball,2,9.5,Costa Rica,JR Lucky,O Sam Arthur,A Tripathi,0,0,,,,,,lbw,JR Lucky
+ball,2,9.6,Costa Rica,ARH Patel,O Sam Arthur,A Tripathi,0,0,,,,,,"",""
+ball,2,10.1,Costa Rica,O Sam Arthur,ARH Patel,Shashikant Laxman,0,0,,,,,,"",""
+ball,2,10.2,Costa Rica,O Sam Arthur,ARH Patel,Shashikant Laxman,0,0,,,,,,"",""
+ball,2,10.3,Costa Rica,O Sam Arthur,ARH Patel,Shashikant Laxman,0,0,,,,,,"",""
+ball,2,10.4,Costa Rica,O Sam Arthur,ARH Patel,Shashikant Laxman,0,0,,,,,,"",""
+ball,2,10.5,Costa Rica,O Sam Arthur,ARH Patel,Shashikant Laxman,4,0,,,,,,"",""
+ball,2,10.6,Costa Rica,O Sam Arthur,ARH Patel,Shashikant Laxman,0,0,,,,,,"",""
+ball,2,11.1,Costa Rica,ARH Patel,O Sam Arthur,A Tripathi,0,0,,,,,,"",""
+ball,2,11.2,Costa Rica,ARH Patel,O Sam Arthur,A Tripathi,0,1,1,,,,,"",""
+ball,2,11.3,Costa Rica,ARH Patel,O Sam Arthur,A Tripathi,0,0,,,,,,caught,ARH Patel

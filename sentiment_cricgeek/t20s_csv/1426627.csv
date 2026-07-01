@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,female
+info,season,2024/25
+info,date,2025/01/23
+info,event,Women's Ashes
+info,match_number,2
+info,venue,"Manuka Oval, Canberra"
+info,city,Canberra
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,TM McGrath
+info,umpire,BC Treloar
+info,umpire,Eloise Sheridan
+info,reserve_umpire,Roberto Howard
+info,tv_umpire,CA Polosak
+info,match_referee,Kent Hannam
+info,winner,Australia
+info,winner_runs,6
+info,method,D/L
+info,player,Australia,BL Mooney
+info,player,Australia,G Voll
+info,player,Australia,P Litchfield
+info,player,Australia,EA Perry
+info,player,Australia,A Sutherland
+info,player,Australia,TM McGrath
+info,player,Australia,GM Harris
+info,player,Australia,G Wareham
+info,player,Australia,A King
+info,player,Australia,KJ Garth
+info,player,Australia,ML Schutt
+info,player,England,ME Bouchier
+info,player,England,DN Wyatt
+info,player,England,SIR Dunkley
+info,player,England,NR Sciver-Brunt
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,FG Kemp
+info,player,England,S Ecclestone
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,LK Bell
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,G Voll,5c30d455
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GM Harris,72166006
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,LK Bell,38b4583c
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,Roberto Howard,eec90c4b
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,TM McGrath,ca5acfa4
+ball,1,0.1,Australia,BL Mooney,G Voll,FG Kemp,0,0,,,,,,"",""
+ball,1,0.2,Australia,BL Mooney,G Voll,FG Kemp,0,0,,,,,,"",""
+ball,1,0.3,Australia,BL Mooney,G Voll,FG Kemp,1,0,,,,,,"",""
+ball,1,0.4,Australia,G Voll,BL Mooney,FG Kemp,0,1,,,,1,,"",""
+ball,1,0.5,Australia,BL Mooney,G Voll,FG Kemp,0,1,1,,,,,"",""
+ball,1,0.6,Australia,BL Mooney,G Voll,FG Kemp,0,0,,,,,,"",""
+ball,1,0.7,Australia,BL Mooney,G Voll,FG Kemp,1,0,,,,,,"",""
+ball,1,1.1,Australia,BL Mooney,G Voll,LK Bell,4,0,,,,,,"",""
+ball,1,1.2,Australia,BL Mooney,G Voll,LK Bell,0,0,,,,,,"",""
+ball,1,1.3,Australia,BL Mooney,G Voll,LK Bell,0,0,,,,,,"",""
+ball,1,1.4,Australia,BL Mooney,G Voll,LK Bell,4,1,,1,,,,"",""
+ball,1,1.5,Australia,BL Mooney,G Voll,LK Bell,4,0,,,,,,"",""
+ball,1,1.6,Australia,BL Mooney,G Voll,LK Bell,1,0,,,,,,"",""
+ball,1,1.7,Australia,G Voll,BL Mooney,LK Bell,0,0,,,,,,"",""
+ball,1,2.1,Australia,BL Mooney,G Voll,FG Kemp,0,0,,,,,,"",""
+ball,1,2.2,Australia,BL Mooney,G Voll,FG Kemp,0,0,,,,,,"",""
+ball,1,2.3,Australia,BL Mooney,G Voll,FG Kemp,0,0,,,,,,"",""
+ball,1,2.4,Australia,BL Mooney,G Voll,FG Kemp,4,0,,,,,,"",""
+ball,1,2.5,Australia,BL Mooney,G Voll,FG Kemp,0,1,1,,,,,"",""
+ball,1,2.6,Australia,BL Mooney,G Voll,FG Kemp,4,0,,,,,,"",""
+ball,1,2.7,Australia,BL Mooney,G Voll,FG Kemp,1,0,,,,,,"",""
+ball,1,3.1,Australia,BL Mooney,G Voll,CE Dean,0,0,,,,,,"",""
+ball,1,3.2,Australia,BL Mooney,G Voll,CE Dean,0,0,,,,,,"",""
+ball,1,3.3,Australia,BL Mooney,G Voll,CE Dean,4,0,,,,,,"",""
+ball,1,3.4,Australia,BL Mooney,G Voll,CE Dean,0,0,,,,,,"",""
+ball,1,3.5,Australia,BL Mooney,G Voll,CE Dean,4,0,,,,,,"",""
+ball,1,3.6,Australia,BL Mooney,G Voll,CE Dean,0,0,,,,,,"",""
+ball,1,4.1,Australia,G Voll,BL Mooney,LK Bell,0,0,,,,,,"",""
+ball,1,4.2,Australia,G Voll,BL Mooney,LK Bell,4,0,,,,,,"",""
+ball,1,4.3,Australia,G Voll,BL Mooney,LK Bell,1,0,,,,,,"",""
+ball,1,4.4,Australia,BL Mooney,G Voll,LK Bell,2,0,,,,,,"",""
+ball,1,4.5,Australia,BL Mooney,G Voll,LK Bell,2,0,,,,,,"",""
+ball,1,4.6,Australia,BL Mooney,G Voll,LK Bell,2,0,,,,,,run out,G Voll
+ball,1,5.1,Australia,BL Mooney,P Litchfield,CE Dean,2,0,,,,,,"",""
+ball,1,5.2,Australia,BL Mooney,P Litchfield,CE Dean,1,0,,,,,,"",""
+ball,1,5.3,Australia,P Litchfield,BL Mooney,CE Dean,0,0,,,,,,"",""
+ball,1,5.4,Australia,P Litchfield,BL Mooney,CE Dean,0,0,,,,,,"",""
+ball,1,5.5,Australia,P Litchfield,BL Mooney,CE Dean,4,0,,,,,,"",""
+ball,1,5.6,Australia,P Litchfield,BL Mooney,CE Dean,0,0,,,,,,"",""
+ball,1,6.1,Australia,BL Mooney,P Litchfield,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,6.2,Australia,P Litchfield,BL Mooney,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,6.3,Australia,BL Mooney,P Litchfield,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,6.4,Australia,P Litchfield,BL Mooney,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,6.5,Australia,P Litchfield,BL Mooney,NR Sciver-Brunt,4,0,,,,,,"",""
+ball,1,6.6,Australia,P Litchfield,BL Mooney,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,7.1,Australia,P Litchfield,BL Mooney,S Ecclestone,1,0,,,,,,"",""
+ball,1,7.2,Australia,BL Mooney,P Litchfield,S Ecclestone,1,0,,,,,,"",""
+ball,1,7.3,Australia,P Litchfield,BL Mooney,S Ecclestone,1,0,,,,,,"",""
+ball,1,7.4,Australia,BL Mooney,P Litchfield,S Ecclestone,0,1,1,,,,,stumped,BL Mooney
+ball,1,7.5,Australia,EA Perry,P Litchfield,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.6,Australia,EA Perry,P Litchfield,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.7,Australia,EA Perry,P Litchfield,S Ecclestone,0,1,,,,1,,"",""
+ball,1,8.1,Australia,EA Perry,P Litchfield,S Glenn,1,0,,,,,,"",""
+ball,1,8.2,Australia,P Litchfield,EA Perry,S Glenn,0,0,,,,,,"",""
+ball,1,8.3,Australia,P Litchfield,EA Perry,S Glenn,1,0,,,,,,"",""
+ball,1,8.4,Australia,EA Perry,P Litchfield,S Glenn,1,0,,,,,,"",""
+ball,1,8.5,Australia,P Litchfield,EA Perry,S Glenn,0,0,,,,,,"",""
+ball,1,8.6,Australia,P Litchfield,EA Perry,S Glenn,4,0,,,,,,"",""
+ball,1,9.1,Australia,EA Perry,P Litchfield,CE Dean,0,0,,,,,,"",""
+ball,1,9.2,Australia,EA Perry,P Litchfield,CE Dean,0,0,,,,,,caught,EA Perry
+ball,1,9.3,Australia,A Sutherland,P Litchfield,CE Dean,1,0,,,,,,"",""
+ball,1,9.4,Australia,P Litchfield,A Sutherland,CE Dean,0,0,,,,,,bowled,P Litchfield
+ball,1,9.5,Australia,TM McGrath,A Sutherland,CE Dean,2,0,,,,,,"",""
+ball,1,9.6,Australia,TM McGrath,A Sutherland,CE Dean,1,0,,,,,,"",""
+ball,1,10.1,Australia,TM McGrath,A Sutherland,S Glenn,0,0,,,,,,"",""
+ball,1,10.2,Australia,TM McGrath,A Sutherland,S Glenn,1,0,,,,,,"",""
+ball,1,10.3,Australia,A Sutherland,TM McGrath,S Glenn,1,0,,,,,,"",""
+ball,1,10.4,Australia,TM McGrath,A Sutherland,S Glenn,1,0,,,,,,"",""
+ball,1,10.5,Australia,A Sutherland,TM McGrath,S Glenn,1,0,,,,,,"",""
+ball,1,10.6,Australia,TM McGrath,A Sutherland,S Glenn,1,0,,,,,,"",""
+ball,1,11.1,Australia,TM McGrath,A Sutherland,S Ecclestone,1,0,,,,,,"",""
+ball,1,11.2,Australia,A Sutherland,TM McGrath,S Ecclestone,1,0,,,,,,"",""
+ball,1,11.3,Australia,TM McGrath,A Sutherland,S Ecclestone,4,0,,,,,,"",""
+ball,1,11.4,Australia,TM McGrath,A Sutherland,S Ecclestone,0,0,,,,,,"",""
+ball,1,11.5,Australia,TM McGrath,A Sutherland,S Ecclestone,0,0,,,,,,"",""
+ball,1,11.6,Australia,TM McGrath,A Sutherland,S Ecclestone,0,0,,,,,,"",""
+ball,1,12.1,Australia,A Sutherland,TM McGrath,NR Sciver-Brunt,0,1,1,,,,,"",""
+ball,1,12.2,Australia,A Sutherland,TM McGrath,NR Sciver-Brunt,4,0,,,,,,"",""
+ball,1,12.3,Australia,A Sutherland,TM McGrath,NR Sciver-Brunt,6,0,,,,,,"",""
+ball,1,12.4,Australia,A Sutherland,TM McGrath,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,12.5,Australia,TM McGrath,A Sutherland,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,12.6,Australia,A Sutherland,TM McGrath,NR Sciver-Brunt,2,0,,,,,,"",""
+ball,1,12.7,Australia,A Sutherland,TM McGrath,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,13.1,Australia,TM McGrath,A Sutherland,S Glenn,0,0,,,,,,"",""
+ball,1,13.2,Australia,TM McGrath,A Sutherland,S Glenn,4,0,,,,,,"",""
+ball,1,13.3,Australia,TM McGrath,A Sutherland,S Glenn,4,0,,,,,,"",""
+ball,1,13.4,Australia,TM McGrath,A Sutherland,S Glenn,0,0,,,,,,"",""
+ball,1,13.5,Australia,TM McGrath,A Sutherland,S Glenn,1,0,,,,,,"",""
+ball,1,13.6,Australia,A Sutherland,TM McGrath,S Glenn,1,0,,,,,,"",""
+ball,1,14.1,Australia,A Sutherland,TM McGrath,FG Kemp,0,0,,,,,,caught,A Sutherland
+ball,1,14.2,Australia,GM Harris,TM McGrath,FG Kemp,0,0,,,,,,"",""
+ball,1,14.3,Australia,GM Harris,TM McGrath,FG Kemp,1,0,,,,,,"",""
+ball,1,14.4,Australia,TM McGrath,GM Harris,FG Kemp,0,0,,,,,,"",""
+ball,1,14.5,Australia,TM McGrath,GM Harris,FG Kemp,0,5,5,,,,,"",""
+ball,1,14.6,Australia,TM McGrath,GM Harris,FG Kemp,1,0,,,,,,"",""
+ball,1,14.7,Australia,GM Harris,TM McGrath,FG Kemp,1,0,,,,,,"",""
+ball,1,15.1,Australia,GM Harris,TM McGrath,CE Dean,0,0,,,,,,"",""
+ball,1,15.2,Australia,GM Harris,TM McGrath,CE Dean,6,0,,,,,,"",""
+ball,1,15.3,Australia,GM Harris,TM McGrath,CE Dean,0,1,,,,1,,"",""
+ball,1,15.4,Australia,TM McGrath,GM Harris,CE Dean,0,0,,,,,,"",""
+ball,1,15.5,Australia,TM McGrath,GM Harris,CE Dean,1,0,,,,,,"",""
+ball,1,15.6,Australia,GM Harris,TM McGrath,CE Dean,2,0,,,,,,"",""
+ball,1,16.1,Australia,TM McGrath,GM Harris,S Ecclestone,0,0,,,,,,"",""
+ball,1,16.2,Australia,TM McGrath,GM Harris,S Ecclestone,4,0,,,,,,"",""
+ball,1,16.3,Australia,TM McGrath,GM Harris,S Ecclestone,0,0,,,,,,"",""
+ball,1,16.4,Australia,TM McGrath,GM Harris,S Ecclestone,0,0,,,,,,"",""
+ball,1,16.5,Australia,TM McGrath,GM Harris,S Ecclestone,0,0,,,,,,"",""
+ball,1,16.6,Australia,TM McGrath,GM Harris,S Ecclestone,1,0,,,,,,"",""
+ball,1,17.1,Australia,TM McGrath,GM Harris,S Glenn,0,1,1,,,,,"",""
+ball,1,17.2,Australia,TM McGrath,GM Harris,S Glenn,1,0,,,,,,"",""
+ball,1,17.3,Australia,GM Harris,TM McGrath,S Glenn,1,0,,,,,,"",""
+ball,1,17.4,Australia,TM McGrath,GM Harris,S Glenn,0,1,1,,,,,"",""
+ball,1,17.5,Australia,TM McGrath,GM Harris,S Glenn,1,0,,,,,,"",""
+ball,1,17.6,Australia,GM Harris,TM McGrath,S Glenn,6,0,,,,,,"",""
+ball,1,17.7,Australia,GM Harris,TM McGrath,S Glenn,6,0,,,,,,"",""
+ball,1,17.8,Australia,GM Harris,TM McGrath,S Glenn,0,0,,,,,,"",""
+ball,1,18.1,Australia,TM McGrath,GM Harris,S Ecclestone,4,0,,,,,,"",""
+ball,1,18.2,Australia,TM McGrath,GM Harris,S Ecclestone,4,0,,,,,,"",""
+ball,1,18.3,Australia,TM McGrath,GM Harris,S Ecclestone,4,0,,,,,,"",""
+ball,1,18.4,Australia,TM McGrath,GM Harris,S Ecclestone,2,0,,,,,,"",""
+ball,1,18.5,Australia,TM McGrath,GM Harris,S Ecclestone,0,0,,,,,,"",""
+ball,1,18.6,Australia,TM McGrath,GM Harris,S Ecclestone,4,0,,,,,,"",""
+ball,1,19.1,Australia,GM Harris,TM McGrath,LK Bell,0,1,1,,,,,"",""
+ball,1,19.2,Australia,GM Harris,TM McGrath,LK Bell,2,0,,,,,,"",""
+ball,1,19.3,Australia,GM Harris,TM McGrath,LK Bell,0,0,,,,,,"",""
+ball,1,19.4,Australia,GM Harris,TM McGrath,LK Bell,4,0,,,,,,"",""
+ball,1,19.5,Australia,GM Harris,TM McGrath,LK Bell,0,0,,,,,,"",""
+ball,1,19.6,Australia,GM Harris,TM McGrath,LK Bell,4,0,,,,,,"",""
+ball,1,19.7,Australia,GM Harris,TM McGrath,LK Bell,2,0,,,,,,"",""
+ball,2,0.1,England,ME Bouchier,DN Wyatt,ML Schutt,2,0,,,,,,"",""
+ball,2,0.2,England,ME Bouchier,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,0.3,England,ME Bouchier,DN Wyatt,ML Schutt,1,0,,,,,,"",""
+ball,2,0.4,England,DN Wyatt,ME Bouchier,ML Schutt,0,0,,,,,,"",""
+ball,2,0.5,England,DN Wyatt,ME Bouchier,ML Schutt,1,0,,,,,,"",""
+ball,2,0.6,England,ME Bouchier,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,1.1,England,DN Wyatt,ME Bouchier,KJ Garth,4,0,,,,,,"",""
+ball,2,1.2,England,DN Wyatt,ME Bouchier,KJ Garth,0,0,,,,,,"",""
+ball,2,1.3,England,DN Wyatt,ME Bouchier,KJ Garth,0,0,,,,,,"",""
+ball,2,1.4,England,DN Wyatt,ME Bouchier,KJ Garth,2,0,,,,,,"",""
+ball,2,1.5,England,DN Wyatt,ME Bouchier,KJ Garth,4,0,,,,,,"",""
+ball,2,1.6,England,DN Wyatt,ME Bouchier,KJ Garth,1,0,,,,,,"",""
+ball,2,2.1,England,DN Wyatt,ME Bouchier,A King,0,0,,,,,,"",""
+ball,2,2.2,England,DN Wyatt,ME Bouchier,A King,4,0,,,,,,"",""
+ball,2,2.3,England,DN Wyatt,ME Bouchier,A King,4,0,,,,,,"",""
+ball,2,2.4,England,DN Wyatt,ME Bouchier,A King,0,0,,,,,,"",""
+ball,2,2.5,England,DN Wyatt,ME Bouchier,A King,0,1,1,,,,,"",""
+ball,2,2.6,England,DN Wyatt,ME Bouchier,A King,0,0,,,,,,"",""
+ball,2,2.7,England,DN Wyatt,ME Bouchier,A King,1,0,,,,,,"",""
+ball,2,3.1,England,DN Wyatt,ME Bouchier,ML Schutt,1,0,,,,,,"",""
+ball,2,3.2,England,ME Bouchier,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,3.3,England,ME Bouchier,DN Wyatt,ML Schutt,1,0,,,,,,"",""
+ball,2,3.4,England,DN Wyatt,ME Bouchier,ML Schutt,4,0,,,,,,"",""
+ball,2,3.5,England,DN Wyatt,ME Bouchier,ML Schutt,4,0,,,,,,"",""
+ball,2,3.6,England,DN Wyatt,ME Bouchier,ML Schutt,0,0,,,,,,"",""
+ball,2,4.1,England,ME Bouchier,DN Wyatt,EA Perry,0,0,,,,,,"",""
+ball,2,4.2,England,ME Bouchier,DN Wyatt,EA Perry,4,0,,,,,,"",""
+ball,2,4.3,England,ME Bouchier,DN Wyatt,EA Perry,0,0,,,,,,"",""
+ball,2,4.4,England,ME Bouchier,DN Wyatt,EA Perry,1,0,,,,,,"",""
+ball,2,4.5,England,DN Wyatt,ME Bouchier,EA Perry,0,0,,,,,,"",""
+ball,2,4.6,England,DN Wyatt,ME Bouchier,EA Perry,1,0,,,,,,"",""
+ball,2,5.1,England,DN Wyatt,ME Bouchier,A Sutherland,1,0,,,,,,"",""
+ball,2,5.2,England,ME Bouchier,DN Wyatt,A Sutherland,0,0,,,,,,"",""
+ball,2,5.3,England,ME Bouchier,DN Wyatt,A Sutherland,0,0,,,,,,"",""
+ball,2,5.4,England,ME Bouchier,DN Wyatt,A Sutherland,4,0,,,,,,"",""
+ball,2,5.5,England,ME Bouchier,DN Wyatt,A Sutherland,0,0,,,,,,caught and bowled,ME Bouchier
+ball,2,5.6,England,SIR Dunkley,DN Wyatt,A Sutherland,2,0,,,,,,"",""
+ball,2,6.1,England,DN Wyatt,SIR Dunkley,G Wareham,0,0,,,,,,"",""
+ball,2,6.2,England,DN Wyatt,SIR Dunkley,G Wareham,1,0,,,,,,"",""
+ball,2,6.3,England,SIR Dunkley,DN Wyatt,G Wareham,0,0,,,,,,"",""
+ball,2,6.4,England,SIR Dunkley,DN Wyatt,G Wareham,0,0,,,,,,"",""
+ball,2,6.5,England,SIR Dunkley,DN Wyatt,G Wareham,1,0,,,,,,"",""
+ball,2,6.6,England,DN Wyatt,SIR Dunkley,G Wareham,0,0,,,,,,"",""
+ball,2,7.1,England,SIR Dunkley,DN Wyatt,EA Perry,4,0,,,,,,"",""
+ball,2,7.2,England,SIR Dunkley,DN Wyatt,EA Perry,1,0,,,,,,"",""
+ball,2,7.3,England,DN Wyatt,SIR Dunkley,EA Perry,1,0,,,,,,"",""
+ball,2,7.4,England,SIR Dunkley,DN Wyatt,EA Perry,6,0,,,,,,"",""
+ball,2,7.5,England,SIR Dunkley,DN Wyatt,EA Perry,0,0,,,,,,"",""
+ball,2,7.6,England,SIR Dunkley,DN Wyatt,EA Perry,0,0,,,,,,"",""
+ball,2,8.1,England,DN Wyatt,SIR Dunkley,A King,2,0,,,,,,"",""
+ball,2,8.2,England,DN Wyatt,SIR Dunkley,A King,1,0,,,,,,"",""
+ball,2,8.3,England,SIR Dunkley,DN Wyatt,A King,0,0,,,,,,"",""
+ball,2,8.4,England,SIR Dunkley,DN Wyatt,A King,4,0,,,,,,"",""
+ball,2,8.5,England,SIR Dunkley,DN Wyatt,A King,4,0,,,,,,"",""
+ball,2,8.6,England,SIR Dunkley,DN Wyatt,A King,1,0,,,,,,"",""
+ball,2,9.1,England,SIR Dunkley,DN Wyatt,A Sutherland,0,0,,,,,,"",""
+ball,2,9.2,England,SIR Dunkley,DN Wyatt,A Sutherland,1,0,,,,,,"",""
+ball,2,9.3,England,DN Wyatt,SIR Dunkley,A Sutherland,2,0,,,,,,"",""
+ball,2,9.4,England,DN Wyatt,SIR Dunkley,A Sutherland,0,0,,,,,,"",""
+ball,2,9.5,England,DN Wyatt,SIR Dunkley,A Sutherland,1,0,,,,,,"",""
+ball,2,9.6,England,SIR Dunkley,DN Wyatt,A Sutherland,4,0,,,,,,"",""
+ball,2,10.1,England,DN Wyatt,SIR Dunkley,G Wareham,0,0,,,,,,"",""
+ball,2,10.2,England,DN Wyatt,SIR Dunkley,G Wareham,0,0,,,,,,"",""
+ball,2,10.3,England,DN Wyatt,SIR Dunkley,G Wareham,1,0,,,,,,"",""
+ball,2,10.4,England,SIR Dunkley,DN Wyatt,G Wareham,1,0,,,,,,"",""
+ball,2,10.5,England,DN Wyatt,SIR Dunkley,G Wareham,4,0,,,,,,"",""
+ball,2,10.6,England,DN Wyatt,SIR Dunkley,G Wareham,4,0,,,,,,"",""
+ball,2,11.1,England,SIR Dunkley,DN Wyatt,TM McGrath,1,0,,,,,,"",""
+ball,2,11.2,England,DN Wyatt,SIR Dunkley,TM McGrath,1,0,,,,,,"",""
+ball,2,11.3,England,SIR Dunkley,DN Wyatt,TM McGrath,1,0,,,,,,"",""
+ball,2,11.4,England,DN Wyatt,SIR Dunkley,TM McGrath,1,0,,,,,,"",""
+ball,2,11.5,England,SIR Dunkley,DN Wyatt,TM McGrath,1,0,,,,,,"",""
+ball,2,11.6,England,DN Wyatt,SIR Dunkley,TM McGrath,1,0,,,,,,"",""
+ball,2,12.1,England,DN Wyatt,SIR Dunkley,ML Schutt,0,0,,,,,,"",""
+ball,2,12.2,England,DN Wyatt,SIR Dunkley,ML Schutt,0,0,,,,,,caught,DN Wyatt
+ball,2,12.3,England,NR Sciver-Brunt,SIR Dunkley,ML Schutt,1,0,,,,,,"",""
+ball,2,12.4,England,SIR Dunkley,NR Sciver-Brunt,ML Schutt,0,0,,,,,,"",""
+ball,2,12.5,England,SIR Dunkley,NR Sciver-Brunt,ML Schutt,0,0,,,,,,bowled,SIR Dunkley
+ball,2,12.6,England,HC Knight,NR Sciver-Brunt,ML Schutt,0,0,,,,,,"",""
+ball,2,13.1,England,NR Sciver-Brunt,HC Knight,A Sutherland,0,1,,,,1,,"",""
+ball,2,13.2,England,HC Knight,NR Sciver-Brunt,A Sutherland,1,0,,,,,,"",""
+ball,2,13.3,England,NR Sciver-Brunt,HC Knight,A Sutherland,0,0,,,,,,"",""
+ball,2,13.4,England,NR Sciver-Brunt,HC Knight,A Sutherland,0,0,,,,,,"",""
+ball,2,13.5,England,NR Sciver-Brunt,HC Knight,A Sutherland,0,0,,,,,,"",""
+ball,2,13.6,England,NR Sciver-Brunt,HC Knight,A Sutherland,1,0,,,,,,"",""
+ball,2,14.1,England,NR Sciver-Brunt,HC Knight,G Wareham,0,0,,,,,,"",""
+ball,2,14.2,England,NR Sciver-Brunt,HC Knight,G Wareham,0,4,,,4,,,"",""
+ball,2,14.3,England,NR Sciver-Brunt,HC Knight,G Wareham,4,0,,,,,,"",""
+ball,2,14.4,England,NR Sciver-Brunt,HC Knight,G Wareham,1,0,,,,,,"",""
+ball,2,14.5,England,HC Knight,NR Sciver-Brunt,G Wareham,4,0,,,,,,"",""
+ball,2,14.6,England,HC Knight,NR Sciver-Brunt,G Wareham,0,0,,,,,,"",""
+ball,2,15.1,England,NR Sciver-Brunt,HC Knight,KJ Garth,1,0,,,,,,"",""
+ball,2,15.2,England,HC Knight,NR Sciver-Brunt,KJ Garth,4,0,,,,,,"",""
+ball,2,15.3,England,HC Knight,NR Sciver-Brunt,KJ Garth,1,0,,,,,,"",""
+ball,2,15.4,England,NR Sciver-Brunt,HC Knight,KJ Garth,1,0,,,,,,"",""
+ball,2,15.5,England,HC Knight,NR Sciver-Brunt,KJ Garth,1,0,,,,,,"",""
+ball,2,15.6,England,NR Sciver-Brunt,HC Knight,KJ Garth,2,0,,,,,,"",""
+ball,2,16.1,England,HC Knight,NR Sciver-Brunt,ML Schutt,2,0,,,,,,"",""
+ball,2,16.2,England,HC Knight,NR Sciver-Brunt,ML Schutt,4,0,,,,,,"",""
+ball,2,16.3,England,HC Knight,NR Sciver-Brunt,ML Schutt,2,0,,,,,,"",""
+ball,2,16.4,England,HC Knight,NR Sciver-Brunt,ML Schutt,4,0,,,,,,"",""
+ball,2,16.5,England,HC Knight,NR Sciver-Brunt,ML Schutt,1,0,,,,,,"",""
+ball,2,16.6,England,NR Sciver-Brunt,HC Knight,ML Schutt,4,0,,,,,,"",""
+ball,2,17.1,England,HC Knight,NR Sciver-Brunt,TM McGrath,1,0,,,,,,"",""
+ball,2,17.2,England,NR Sciver-Brunt,HC Knight,TM McGrath,2,0,,,,,,"",""
+ball,2,17.3,England,NR Sciver-Brunt,HC Knight,TM McGrath,1,0,,,,,,"",""
+ball,2,17.4,England,HC Knight,NR Sciver-Brunt,TM McGrath,1,0,,,,,,"",""
+ball,2,17.5,England,NR Sciver-Brunt,HC Knight,TM McGrath,1,0,,,,,,"",""
+ball,2,17.6,England,HC Knight,NR Sciver-Brunt,TM McGrath,6,0,,,,,,"",""
+ball,2,18.1,England,NR Sciver-Brunt,HC Knight,KJ Garth,2,0,,,,,,"",""
+ball,2,18.2,England,NR Sciver-Brunt,HC Knight,KJ Garth,1,0,,,,,,"",""
+ball,2,18.3,England,HC Knight,NR Sciver-Brunt,KJ Garth,2,0,,,,,,"",""
+ball,2,18.4,England,HC Knight,NR Sciver-Brunt,KJ Garth,4,0,,,,,,"",""
+ball,2,18.5,England,HC Knight,NR Sciver-Brunt,KJ Garth,1,0,,,,,,"",""
+ball,2,18.6,England,NR Sciver-Brunt,HC Knight,KJ Garth,0,0,,,,,,bowled,NR Sciver-Brunt
+ball,2,19.1,England,HC Knight,AE Jones,A Sutherland,4,0,,,,,,"",""

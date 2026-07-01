@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Italy
+info,gender,male
+info,season,2021/22
+info,date,2021/10/15
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,2
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,GP Meade
+info,umpire,HE Kearns
+info,umpire,N Bathi
+info,reserve_umpire,DA Haggo
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_wickets,6
+info,player,Denmark,SA Ahmad
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Lucky Ali
+info,player,Denmark,FA Klokker
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,Anique Uddin
+info,player,Denmark,Surya Anand
+info,player,Denmark,A Khan
+info,player,Denmark,Delawar Khan
+info,player,Denmark,Shakerullah Safi
+info,player,Denmark,Bashir Shah
+info,player,Italy,NL Smith
+info,player,Italy,BBJL Perera
+info,player,Italy,GP Meade
+info,player,Italy,J Grassi
+info,player,Italy,Manpreet Singh
+info,player,Italy,GK Berg
+info,player,Italy,MGSM Fernando
+info,player,Italy,JW Dernbach
+info,player,Italy,G Stewart
+info,player,Italy,Jaspreet Singh
+info,player,Italy,DKD Warnakulasuriya
+info,registry,people,A Khan,e27cff77
+info,registry,people,Anique Uddin,1f41b702
+info,registry,people,BBJL Perera,c8c9d60b
+info,registry,people,Bashir Shah,3b282e51
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,DKD Warnakulasuriya,832b77c6
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,FA Klokker,821a412e
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,J Grassi,913b4b9f
+info,registry,people,JW Dernbach,7be8a0ed
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,MGSM Fernando,658c2e71
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NL Smith,547408c8
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Shakerullah Safi,05cf8905
+info,registry,people,Surya Anand,ef141f36
+ball,1,0.1,Denmark,SA Ahmad,S Thanikaithasan,MGSM Fernando,0,0,,,,,,"",""
+ball,1,0.2,Denmark,SA Ahmad,S Thanikaithasan,MGSM Fernando,0,1,,,,1,,"",""
+ball,1,0.3,Denmark,S Thanikaithasan,SA Ahmad,MGSM Fernando,1,0,,,,,,"",""
+ball,1,0.4,Denmark,SA Ahmad,S Thanikaithasan,MGSM Fernando,1,0,,,,,,"",""
+ball,1,0.5,Denmark,S Thanikaithasan,SA Ahmad,MGSM Fernando,4,0,,,,,,"",""
+ball,1,0.6,Denmark,S Thanikaithasan,SA Ahmad,MGSM Fernando,1,0,,,,,,"",""
+ball,1,1.1,Denmark,S Thanikaithasan,SA Ahmad,JW Dernbach,4,0,,,,,,"",""
+ball,1,1.2,Denmark,S Thanikaithasan,SA Ahmad,JW Dernbach,0,0,,,,,,"",""
+ball,1,1.3,Denmark,S Thanikaithasan,SA Ahmad,JW Dernbach,0,1,,,,1,,"",""
+ball,1,1.4,Denmark,SA Ahmad,S Thanikaithasan,JW Dernbach,0,0,,,,,,"",""
+ball,1,1.5,Denmark,SA Ahmad,S Thanikaithasan,JW Dernbach,0,0,,,,,,"",""
+ball,1,1.6,Denmark,SA Ahmad,S Thanikaithasan,JW Dernbach,0,0,,,,,,"",""
+ball,1,2.1,Denmark,S Thanikaithasan,SA Ahmad,G Stewart,2,0,,,,,,"",""
+ball,1,2.2,Denmark,S Thanikaithasan,SA Ahmad,G Stewart,0,0,,,,,,"",""
+ball,1,2.3,Denmark,S Thanikaithasan,SA Ahmad,G Stewart,1,0,,,,,,"",""
+ball,1,2.4,Denmark,SA Ahmad,S Thanikaithasan,G Stewart,2,0,,,,,,"",""
+ball,1,2.5,Denmark,SA Ahmad,S Thanikaithasan,G Stewart,1,0,,,,,,"",""
+ball,1,2.6,Denmark,S Thanikaithasan,SA Ahmad,G Stewart,0,0,,,,,,"",""
+ball,1,3.1,Denmark,SA Ahmad,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,caught,SA Ahmad
+ball,1,3.2,Denmark,Lucky Ali,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,3.3,Denmark,Lucky Ali,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,3.4,Denmark,Lucky Ali,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,3.5,Denmark,Lucky Ali,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,3.6,Denmark,Lucky Ali,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,4.1,Denmark,S Thanikaithasan,Lucky Ali,G Stewart,0,0,,,,,,caught,S Thanikaithasan
+ball,1,4.2,Denmark,Lucky Ali,FA Klokker,G Stewart,0,0,,,,,,"",""
+ball,1,4.3,Denmark,Lucky Ali,FA Klokker,G Stewart,1,0,,,,,,"",""
+ball,1,4.4,Denmark,FA Klokker,Lucky Ali,G Stewart,1,0,,,,,,"",""
+ball,1,4.5,Denmark,Lucky Ali,FA Klokker,G Stewart,0,1,1,,,,,"",""
+ball,1,4.6,Denmark,Lucky Ali,FA Klokker,G Stewart,0,0,,,,,,"",""
+ball,1,4.7,Denmark,Lucky Ali,FA Klokker,G Stewart,0,0,,,,,,"",""
+ball,1,5.1,Denmark,FA Klokker,Lucky Ali,JW Dernbach,1,0,,,,,,"",""
+ball,1,5.2,Denmark,Lucky Ali,FA Klokker,JW Dernbach,1,0,,,,,,"",""
+ball,1,5.3,Denmark,FA Klokker,Lucky Ali,JW Dernbach,0,0,,,,,,"",""
+ball,1,5.4,Denmark,FA Klokker,Lucky Ali,JW Dernbach,0,0,,,,,,"",""
+ball,1,5.5,Denmark,FA Klokker,Lucky Ali,JW Dernbach,1,0,,,,,,"",""
+ball,1,5.6,Denmark,Lucky Ali,FA Klokker,JW Dernbach,1,0,,,,,,"",""
+ball,1,6.1,Denmark,Lucky Ali,FA Klokker,Jaspreet Singh,1,0,,,,,,"",""
+ball,1,6.2,Denmark,FA Klokker,Lucky Ali,Jaspreet Singh,0,0,,,,,,caught,FA Klokker
+ball,1,6.3,Denmark,Musa Shaheen,Lucky Ali,Jaspreet Singh,1,0,,,,,,"",""
+ball,1,6.4,Denmark,Lucky Ali,Musa Shaheen,Jaspreet Singh,1,0,,,,,,"",""
+ball,1,6.5,Denmark,Musa Shaheen,Lucky Ali,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,6.6,Denmark,Musa Shaheen,Lucky Ali,Jaspreet Singh,1,0,,,,,,"",""
+ball,1,7.1,Denmark,Musa Shaheen,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,7.2,Denmark,Musa Shaheen,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,7.3,Denmark,Musa Shaheen,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,7.4,Denmark,Musa Shaheen,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,7.5,Denmark,Musa Shaheen,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,7.6,Denmark,Musa Shaheen,Lucky Ali,GP Meade,1,0,,,,,,"",""
+ball,1,8.1,Denmark,Musa Shaheen,Lucky Ali,DKD Warnakulasuriya,0,0,,,,,,caught,Musa Shaheen
+ball,1,8.2,Denmark,Lucky Ali,Anique Uddin,DKD Warnakulasuriya,0,0,,,,,,"",""
+ball,1,8.3,Denmark,Lucky Ali,Anique Uddin,DKD Warnakulasuriya,0,0,,,,,,"",""
+ball,1,8.4,Denmark,Lucky Ali,Anique Uddin,DKD Warnakulasuriya,2,0,,,,,,"",""
+ball,1,8.5,Denmark,Lucky Ali,Anique Uddin,DKD Warnakulasuriya,2,0,,,,,,"",""
+ball,1,8.6,Denmark,Lucky Ali,Anique Uddin,DKD Warnakulasuriya,0,0,,,,,,"",""
+ball,1,9.1,Denmark,Anique Uddin,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,9.2,Denmark,Anique Uddin,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,9.3,Denmark,Anique Uddin,Lucky Ali,GP Meade,1,0,,,,,,"",""
+ball,1,9.4,Denmark,Lucky Ali,Anique Uddin,GP Meade,1,0,,,,,,"",""
+ball,1,9.5,Denmark,Anique Uddin,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,9.6,Denmark,Anique Uddin,Lucky Ali,GP Meade,0,0,,,,,,"",""
+ball,1,10.1,Denmark,Lucky Ali,Anique Uddin,MGSM Fernando,0,0,,,,,,"",""
+ball,1,10.2,Denmark,Lucky Ali,Anique Uddin,MGSM Fernando,1,0,,,,,,"",""
+ball,1,10.3,Denmark,Anique Uddin,Lucky Ali,MGSM Fernando,1,0,,,,,,"",""
+ball,1,10.4,Denmark,Lucky Ali,Anique Uddin,MGSM Fernando,2,0,,,,,,"",""
+ball,1,10.5,Denmark,Lucky Ali,Anique Uddin,MGSM Fernando,0,0,,,,,,"",""
+ball,1,10.6,Denmark,Lucky Ali,Anique Uddin,MGSM Fernando,0,0,,,,,,bowled,Lucky Ali
+ball,1,11.1,Denmark,Anique Uddin,Surya Anand,G Stewart,0,0,,,,,,"",""
+ball,1,11.2,Denmark,Anique Uddin,Surya Anand,G Stewart,0,1,,,,1,,"",""
+ball,1,11.3,Denmark,Surya Anand,Anique Uddin,G Stewart,0,0,,,,,,"",""
+ball,1,11.4,Denmark,Surya Anand,Anique Uddin,G Stewart,1,0,,,,,,"",""
+ball,1,11.5,Denmark,Anique Uddin,Surya Anand,G Stewart,1,0,,,,,,"",""
+ball,1,11.6,Denmark,Surya Anand,Anique Uddin,G Stewart,1,0,,,,,,"",""
+ball,1,12.1,Denmark,Surya Anand,Anique Uddin,MGSM Fernando,1,0,,,,,,"",""
+ball,1,12.2,Denmark,Anique Uddin,Surya Anand,MGSM Fernando,0,0,,,,,,"",""
+ball,1,12.3,Denmark,Anique Uddin,Surya Anand,MGSM Fernando,1,0,,,,,,"",""
+ball,1,12.4,Denmark,Surya Anand,Anique Uddin,MGSM Fernando,2,0,,,,,,"",""
+ball,1,12.5,Denmark,Surya Anand,Anique Uddin,MGSM Fernando,2,0,,,,,,"",""
+ball,1,12.6,Denmark,Surya Anand,Anique Uddin,MGSM Fernando,2,0,,,,,,"",""
+ball,1,13.1,Denmark,Anique Uddin,Surya Anand,JW Dernbach,1,0,,,,,,"",""
+ball,1,13.2,Denmark,Surya Anand,Anique Uddin,JW Dernbach,0,1,1,,,,,"",""
+ball,1,13.3,Denmark,Surya Anand,Anique Uddin,JW Dernbach,0,0,,,,,,"",""
+ball,1,13.4,Denmark,Surya Anand,Anique Uddin,JW Dernbach,1,0,,,,,,"",""
+ball,1,13.5,Denmark,Anique Uddin,Surya Anand,JW Dernbach,0,0,,,,,,"",""
+ball,1,13.6,Denmark,Anique Uddin,Surya Anand,JW Dernbach,1,0,,,,,,"",""
+ball,1,13.7,Denmark,Surya Anand,Anique Uddin,JW Dernbach,1,0,,,,,,"",""
+ball,1,14.1,Denmark,Surya Anand,Anique Uddin,MGSM Fernando,1,0,,,,,,"",""
+ball,1,14.2,Denmark,Anique Uddin,Surya Anand,MGSM Fernando,0,0,,,,,,"",""
+ball,1,14.3,Denmark,Anique Uddin,Surya Anand,MGSM Fernando,1,0,,,,,,"",""
+ball,1,14.4,Denmark,Surya Anand,Anique Uddin,MGSM Fernando,1,0,,,,,,"",""
+ball,1,14.5,Denmark,Anique Uddin,Surya Anand,MGSM Fernando,0,0,,,,,,"",""
+ball,1,14.6,Denmark,Anique Uddin,Surya Anand,MGSM Fernando,4,0,,,,,,"",""
+ball,1,15.1,Denmark,Surya Anand,Anique Uddin,GP Meade,1,0,,,,,,"",""
+ball,1,15.2,Denmark,Anique Uddin,Surya Anand,GP Meade,1,0,,,,,,"",""
+ball,1,15.3,Denmark,Surya Anand,Anique Uddin,GP Meade,4,0,,,,,,"",""
+ball,1,15.4,Denmark,Surya Anand,Anique Uddin,GP Meade,1,0,,,,,,"",""
+ball,1,15.5,Denmark,Anique Uddin,Surya Anand,GP Meade,4,0,,,,,,"",""
+ball,1,15.6,Denmark,Anique Uddin,Surya Anand,GP Meade,0,0,,,,,,stumped,Anique Uddin
+ball,1,16.1,Denmark,Surya Anand,A Khan,Jaspreet Singh,1,0,,,,,,"",""
+ball,1,16.2,Denmark,A Khan,Surya Anand,Jaspreet Singh,1,0,,,,,,"",""
+ball,1,16.3,Denmark,Surya Anand,A Khan,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,16.4,Denmark,Surya Anand,A Khan,Jaspreet Singh,1,0,,,,,,"",""
+ball,1,16.5,Denmark,A Khan,Surya Anand,Jaspreet Singh,2,0,,,,,,"",""
+ball,1,16.6,Denmark,A Khan,Surya Anand,Jaspreet Singh,0,1,1,,,,,"",""
+ball,1,16.7,Denmark,A Khan,Surya Anand,Jaspreet Singh,0,0,,,,,,"",""
+ball,1,17.1,Denmark,Surya Anand,A Khan,GP Meade,1,0,,,,,,"",""
+ball,1,17.2,Denmark,A Khan,Surya Anand,GP Meade,0,0,,,,,,"",""
+ball,1,17.3,Denmark,A Khan,Surya Anand,GP Meade,1,0,,,,,,"",""
+ball,1,17.4,Denmark,Surya Anand,A Khan,GP Meade,1,0,,,,,,"",""
+ball,1,17.5,Denmark,A Khan,Surya Anand,GP Meade,0,0,,,,,,caught,A Khan
+ball,1,17.6,Denmark,Surya Anand,Delawar Khan,GP Meade,6,0,,,,,,"",""
+ball,1,18.1,Denmark,Delawar Khan,Surya Anand,JW Dernbach,0,0,,,,,,"",""
+ball,1,18.2,Denmark,Delawar Khan,Surya Anand,JW Dernbach,0,1,1,,,,,"",""
+ball,1,18.3,Denmark,Delawar Khan,Surya Anand,JW Dernbach,1,0,,,,,,"",""
+ball,1,18.4,Denmark,Surya Anand,Delawar Khan,JW Dernbach,2,0,,,,,,"",""
+ball,1,18.5,Denmark,Surya Anand,Delawar Khan,JW Dernbach,0,0,,,,,,"",""
+ball,1,18.6,Denmark,Surya Anand,Delawar Khan,JW Dernbach,0,0,,,,,,bowled,Surya Anand
+ball,1,18.7,Denmark,Shakerullah Safi,Delawar Khan,JW Dernbach,0,0,,,,,,"",""
+ball,1,19.1,Denmark,Delawar Khan,Shakerullah Safi,G Stewart,0,0,,,,,,"",""
+ball,1,19.2,Denmark,Delawar Khan,Shakerullah Safi,G Stewart,0,0,,,,,,"",""
+ball,1,19.3,Denmark,Delawar Khan,Shakerullah Safi,G Stewart,2,0,,,,,,"",""
+ball,1,19.4,Denmark,Delawar Khan,Shakerullah Safi,G Stewart,0,1,1,,,,,"",""
+ball,1,19.5,Denmark,Delawar Khan,Shakerullah Safi,G Stewart,0,1,1,,,,,"",""
+ball,1,19.6,Denmark,Delawar Khan,Shakerullah Safi,G Stewart,0,0,,,,,,"",""
+ball,1,19.7,Denmark,Delawar Khan,Shakerullah Safi,G Stewart,0,0,,,,,,bowled,Delawar Khan
+ball,1,19.8,Denmark,Bashir Shah,Shakerullah Safi,G Stewart,1,0,,,,,,"",""
+ball,2,0.1,Italy,NL Smith,BBJL Perera,Bashir Shah,0,0,,,,,,"",""
+ball,2,0.2,Italy,NL Smith,BBJL Perera,Bashir Shah,0,0,,,,,,"",""
+ball,2,0.3,Italy,NL Smith,BBJL Perera,Bashir Shah,0,0,,,,,,"",""
+ball,2,0.4,Italy,NL Smith,BBJL Perera,Bashir Shah,0,0,,,,,,"",""
+ball,2,0.5,Italy,NL Smith,BBJL Perera,Bashir Shah,0,0,,,,,,"",""
+ball,2,0.6,Italy,NL Smith,BBJL Perera,Bashir Shah,6,0,,,,,,"",""
+ball,2,1.1,Italy,BBJL Perera,NL Smith,A Khan,0,0,,,,,,"",""
+ball,2,1.2,Italy,BBJL Perera,NL Smith,A Khan,0,0,,,,,,"",""
+ball,2,1.3,Italy,BBJL Perera,NL Smith,A Khan,0,0,,,,,,"",""
+ball,2,1.4,Italy,BBJL Perera,NL Smith,A Khan,0,0,,,,,,"",""
+ball,2,1.5,Italy,BBJL Perera,NL Smith,A Khan,0,0,,,,,,"",""
+ball,2,1.6,Italy,BBJL Perera,NL Smith,A Khan,0,0,,,,,,"",""
+ball,2,2.1,Italy,NL Smith,BBJL Perera,Bashir Shah,1,0,,,,,,"",""
+ball,2,2.2,Italy,BBJL Perera,NL Smith,Bashir Shah,1,0,,,,,,"",""
+ball,2,2.3,Italy,NL Smith,BBJL Perera,Bashir Shah,0,0,,,,,,"",""
+ball,2,2.4,Italy,NL Smith,BBJL Perera,Bashir Shah,6,0,,,,,,"",""
+ball,2,2.5,Italy,NL Smith,BBJL Perera,Bashir Shah,3,0,,,,,,"",""
+ball,2,2.6,Italy,BBJL Perera,NL Smith,Bashir Shah,0,0,,,,,,"",""
+ball,2,3.1,Italy,NL Smith,BBJL Perera,A Khan,1,0,,,,,,"",""
+ball,2,3.2,Italy,BBJL Perera,NL Smith,A Khan,0,0,,,,,,bowled,BBJL Perera
+ball,2,3.3,Italy,GP Meade,NL Smith,A Khan,4,0,,,,,,"",""
+ball,2,3.4,Italy,GP Meade,NL Smith,A Khan,0,0,,,,,,"",""
+ball,2,3.5,Italy,GP Meade,NL Smith,A Khan,1,0,,,,,,"",""
+ball,2,3.6,Italy,NL Smith,GP Meade,A Khan,0,0,,,,,,"",""
+ball,2,4.1,Italy,GP Meade,NL Smith,Surya Anand,0,0,,,,,,"",""
+ball,2,4.2,Italy,GP Meade,NL Smith,Surya Anand,0,0,,,,,,"",""
+ball,2,4.3,Italy,GP Meade,NL Smith,Surya Anand,4,0,,,,,,"",""
+ball,2,4.4,Italy,GP Meade,NL Smith,Surya Anand,0,0,,,,,,"",""
+ball,2,4.5,Italy,GP Meade,NL Smith,Surya Anand,2,0,,,,,,"",""
+ball,2,4.6,Italy,GP Meade,NL Smith,Surya Anand,1,0,,,,,,"",""
+ball,2,5.1,Italy,GP Meade,NL Smith,SA Ahmad,0,0,,,,,,"",""
+ball,2,5.2,Italy,GP Meade,NL Smith,SA Ahmad,0,0,,,,,,"",""
+ball,2,5.3,Italy,GP Meade,NL Smith,SA Ahmad,1,0,,,,,,"",""
+ball,2,5.4,Italy,NL Smith,GP Meade,SA Ahmad,1,0,,,,,,"",""
+ball,2,5.5,Italy,GP Meade,NL Smith,SA Ahmad,1,0,,,,,,"",""
+ball,2,5.6,Italy,NL Smith,GP Meade,SA Ahmad,0,0,,,,,,"",""
+ball,2,6.1,Italy,GP Meade,NL Smith,Shakerullah Safi,0,0,,,,,,"",""
+ball,2,6.2,Italy,GP Meade,NL Smith,Shakerullah Safi,0,0,,,,,,"",""
+ball,2,6.3,Italy,GP Meade,NL Smith,Shakerullah Safi,1,0,,,,,,"",""
+ball,2,6.4,Italy,NL Smith,GP Meade,Shakerullah Safi,6,0,,,,,,"",""
+ball,2,6.5,Italy,NL Smith,GP Meade,Shakerullah Safi,0,0,,,,,,"",""
+ball,2,6.6,Italy,NL Smith,GP Meade,Shakerullah Safi,1,0,,,,,,"",""
+ball,2,7.1,Italy,NL Smith,GP Meade,SA Ahmad,1,0,,,,,,"",""
+ball,2,7.2,Italy,GP Meade,NL Smith,SA Ahmad,2,0,,,,,,"",""
+ball,2,7.3,Italy,GP Meade,NL Smith,SA Ahmad,1,0,,,,,,"",""
+ball,2,7.4,Italy,NL Smith,GP Meade,SA Ahmad,0,0,,,,,,"",""
+ball,2,7.5,Italy,NL Smith,GP Meade,SA Ahmad,0,0,,,,,,bowled,NL Smith
+ball,2,7.6,Italy,J Grassi,GP Meade,SA Ahmad,0,0,,,,,,"",""
+ball,2,8.1,Italy,GP Meade,J Grassi,Shakerullah Safi,0,1,,,,1,,"",""
+ball,2,8.2,Italy,J Grassi,GP Meade,Shakerullah Safi,4,0,,,,,,"",""
+ball,2,8.3,Italy,J Grassi,GP Meade,Shakerullah Safi,1,0,,,,,,"",""
+ball,2,8.4,Italy,GP Meade,J Grassi,Shakerullah Safi,6,0,,,,,,"",""
+ball,2,8.5,Italy,GP Meade,J Grassi,Shakerullah Safi,0,0,,,,,,"",""
+ball,2,8.6,Italy,GP Meade,J Grassi,Shakerullah Safi,1,0,,,,,,"",""
+ball,2,9.1,Italy,GP Meade,J Grassi,SA Ahmad,1,0,,,,,,"",""
+ball,2,9.2,Italy,J Grassi,GP Meade,SA Ahmad,4,0,,,,,,"",""
+ball,2,9.3,Italy,J Grassi,GP Meade,SA Ahmad,1,0,,,,,,"",""
+ball,2,9.4,Italy,GP Meade,J Grassi,SA Ahmad,1,0,,,,,,"",""
+ball,2,9.5,Italy,J Grassi,GP Meade,SA Ahmad,0,0,,,,,,"",""
+ball,2,9.6,Italy,J Grassi,GP Meade,SA Ahmad,1,0,,,,,,"",""
+ball,2,10.1,Italy,J Grassi,GP Meade,Delawar Khan,1,0,,,,,,"",""
+ball,2,10.2,Italy,GP Meade,J Grassi,Delawar Khan,0,0,,,,,,"",""
+ball,2,10.3,Italy,GP Meade,J Grassi,Delawar Khan,1,0,,,,,,"",""
+ball,2,10.4,Italy,J Grassi,GP Meade,Delawar Khan,1,0,,,,,,"",""
+ball,2,10.5,Italy,GP Meade,J Grassi,Delawar Khan,0,0,,,,,,"",""
+ball,2,10.6,Italy,GP Meade,J Grassi,Delawar Khan,0,0,,,,,,caught,GP Meade
+ball,2,11.1,Italy,Manpreet Singh,J Grassi,A Khan,0,0,,,,,,"",""
+ball,2,11.2,Italy,Manpreet Singh,J Grassi,A Khan,2,0,,,,,,"",""
+ball,2,11.3,Italy,Manpreet Singh,J Grassi,A Khan,0,0,,,,,,"",""
+ball,2,11.4,Italy,Manpreet Singh,J Grassi,A Khan,0,0,,,,,,"",""
+ball,2,11.5,Italy,Manpreet Singh,J Grassi,A Khan,4,0,,,,,,"",""
+ball,2,11.6,Italy,Manpreet Singh,J Grassi,A Khan,2,0,,,,,,"",""
+ball,2,12.1,Italy,J Grassi,Manpreet Singh,Delawar Khan,0,0,,,,,,caught,J Grassi
+ball,2,12.2,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,12.3,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,12.4,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,12.5,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,12.6,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,13.1,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,13.2,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,13.3,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,13.4,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,0,0,,,,,,"",""
+ball,2,13.5,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,0,0,,,,,,"",""
+ball,2,13.6,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,14.1,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,14.2,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,14.3,Italy,GK Berg,Manpreet Singh,Delawar Khan,1,0,,,,,,"",""
+ball,2,14.4,Italy,Manpreet Singh,GK Berg,Delawar Khan,1,0,,,,,,"",""
+ball,2,14.5,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,14.6,Italy,GK Berg,Manpreet Singh,Delawar Khan,0,0,,,,,,"",""
+ball,2,15.1,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,2,0,,,,,,"",""
+ball,2,15.2,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,15.3,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,15.4,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,0,0,,,,,,"",""
+ball,2,15.5,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,15.6,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,16.1,Italy,GK Berg,Manpreet Singh,Bashir Shah,0,0,,,,,,"",""
+ball,2,16.2,Italy,GK Berg,Manpreet Singh,Bashir Shah,1,0,,,,,,"",""
+ball,2,16.3,Italy,Manpreet Singh,GK Berg,Bashir Shah,1,0,,,,,,"",""
+ball,2,16.4,Italy,GK Berg,Manpreet Singh,Bashir Shah,1,0,,,,,,"",""
+ball,2,16.5,Italy,Manpreet Singh,GK Berg,Bashir Shah,0,0,,,,,,"",""
+ball,2,16.6,Italy,Manpreet Singh,GK Berg,Bashir Shah,1,0,,,,,,"",""
+ball,2,17.1,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,17.2,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,4,0,,,,,,"",""
+ball,2,17.3,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,0,0,,,,,,"",""
+ball,2,17.4,Italy,GK Berg,Manpreet Singh,S Thanikaithasan,1,0,,,,,,"",""
+ball,2,17.5,Italy,Manpreet Singh,GK Berg,S Thanikaithasan,2,0,,,,,,"",""

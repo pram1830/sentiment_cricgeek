@@ -1,0 +1,288 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,South Africa
+info,gender,female
+info,season,2022
+info,date,2022/06/06
+info,event,South Africa Women tour of Ireland
+info,match_number,2
+info,venue,"Pembroke Cricket Club, Sandymount, Dublin"
+info,city,Dublin
+info,toss_winner,Ireland
+info,toss_decision,bat
+info,player_of_match,S Ismail
+info,umpire,AA Baig
+info,umpire,Jareth McCready
+info,reserve_umpire,Jonathan Kennedy
+info,match_referee,G McCrea
+info,winner,South Africa
+info,winner_wickets,8
+info,player,Ireland,L Paul
+info,player,Ireland,GH Lewis
+info,player,Ireland,MV Waldron
+info,player,Ireland,SM Kavanagh
+info,player,Ireland,AN Kelly
+info,player,Ireland,S MacMahon
+info,player,Ireland,Rachel Delaney
+info,player,Ireland,G Dempsey
+info,player,Ireland,C Raack
+info,player,Ireland,C Murray
+info,player,Ireland,J Maguire
+info,player,South Africa,L Goodall
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,S Luus
+info,player,South Africa,CL Tryon
+info,player,South Africa,N de Klerk
+info,player,South Africa,T Chetty
+info,player,South Africa,S Ismail
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,N Mlaba
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AN Kelly,397369e0
+info,registry,people,C Murray,5a50471c
+info,registry,people,C Raack,28aba384
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,G Dempsey,940feccc
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,L Goodall,0bb32e98
+info,registry,people,L Paul,07248d8e
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,Rachel Delaney,d284ef29
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S MacMahon,ef2bcebf
+info,registry,people,SM Kavanagh,7e9b3b60
+info,registry,people,T Brits,06659caa
+info,registry,people,T Chetty,53a5767d
+info,registry,people,TS Sekhukhune,6e28e586
+ball,1,0.1,Ireland,L Paul,GH Lewis,N Mlaba,0,0,,,,,,"",""
+ball,1,0.2,Ireland,L Paul,GH Lewis,N Mlaba,1,0,,,,,,"",""
+ball,1,0.3,Ireland,GH Lewis,L Paul,N Mlaba,0,0,,,,,,"",""
+ball,1,0.4,Ireland,GH Lewis,L Paul,N Mlaba,4,0,,,,,,"",""
+ball,1,0.5,Ireland,GH Lewis,L Paul,N Mlaba,4,0,,,,,,"",""
+ball,1,0.6,Ireland,GH Lewis,L Paul,N Mlaba,0,0,,,,,,"",""
+ball,1,1.1,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,1.2,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,1.3,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,1.4,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,1.5,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,1.6,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,2.1,Ireland,GH Lewis,L Paul,N de Klerk,1,0,,,,,,"",""
+ball,1,2.2,Ireland,L Paul,GH Lewis,N de Klerk,0,0,,,,,,"",""
+ball,1,2.3,Ireland,L Paul,GH Lewis,N de Klerk,0,0,,,,,,"",""
+ball,1,2.4,Ireland,L Paul,GH Lewis,N de Klerk,4,0,,,,,,"",""
+ball,1,2.5,Ireland,L Paul,GH Lewis,N de Klerk,4,0,,,,,,"",""
+ball,1,2.6,Ireland,L Paul,GH Lewis,N de Klerk,0,0,,,,,,"",""
+ball,1,3.1,Ireland,GH Lewis,L Paul,S Ismail,0,0,,,,,,"",""
+ball,1,3.2,Ireland,GH Lewis,L Paul,S Ismail,1,0,,,,,,"",""
+ball,1,3.3,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,3.4,Ireland,L Paul,GH Lewis,S Ismail,0,0,,,,,,lbw,L Paul
+ball,1,3.5,Ireland,MV Waldron,GH Lewis,S Ismail,1,1,,1,,,,"",""
+ball,1,3.6,Ireland,GH Lewis,MV Waldron,S Ismail,1,0,,,,,,"",""
+ball,1,3.7,Ireland,MV Waldron,GH Lewis,S Ismail,0,0,,,,,,"",""
+ball,1,4.1,Ireland,GH Lewis,MV Waldron,N de Klerk,0,0,,,,,,"",""
+ball,1,4.2,Ireland,GH Lewis,MV Waldron,N de Klerk,0,0,,,,,,"",""
+ball,1,4.3,Ireland,GH Lewis,MV Waldron,N de Klerk,2,0,,,,,,"",""
+ball,1,4.4,Ireland,GH Lewis,MV Waldron,N de Klerk,0,0,,,,,,"",""
+ball,1,4.5,Ireland,GH Lewis,MV Waldron,N de Klerk,6,0,,,,,,"",""
+ball,1,4.6,Ireland,GH Lewis,MV Waldron,N de Klerk,0,0,,,,,,"",""
+ball,1,5.1,Ireland,MV Waldron,GH Lewis,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,5.2,Ireland,MV Waldron,GH Lewis,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,5.3,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,5.4,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,4,0,,,,,,"",""
+ball,1,5.5,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,5.6,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,6.1,Ireland,MV Waldron,GH Lewis,N Mlaba,1,0,,,,,,"",""
+ball,1,6.2,Ireland,GH Lewis,MV Waldron,N Mlaba,2,0,,,,,,"",""
+ball,1,6.3,Ireland,GH Lewis,MV Waldron,N Mlaba,1,0,,,,,,"",""
+ball,1,6.4,Ireland,MV Waldron,GH Lewis,N Mlaba,1,0,,,,,,"",""
+ball,1,6.5,Ireland,GH Lewis,MV Waldron,N Mlaba,0,0,,,,,,"",""
+ball,1,6.6,Ireland,GH Lewis,MV Waldron,N Mlaba,1,0,,,,,,"",""
+ball,1,7.1,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,7.2,Ireland,MV Waldron,GH Lewis,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,7.3,Ireland,MV Waldron,GH Lewis,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,7.4,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,7.5,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,7.6,Ireland,GH Lewis,MV Waldron,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,8.1,Ireland,MV Waldron,GH Lewis,N Mlaba,1,0,,,,,,"",""
+ball,1,8.2,Ireland,GH Lewis,MV Waldron,N Mlaba,1,0,,,,,,"",""
+ball,1,8.3,Ireland,MV Waldron,GH Lewis,N Mlaba,1,0,,,,,,"",""
+ball,1,8.4,Ireland,GH Lewis,MV Waldron,N Mlaba,2,0,,,,,,"",""
+ball,1,8.5,Ireland,GH Lewis,MV Waldron,N Mlaba,0,0,,,,,,caught,GH Lewis
+ball,1,8.6,Ireland,MV Waldron,SM Kavanagh,N Mlaba,1,0,,,,,,"",""
+ball,1,9.1,Ireland,MV Waldron,SM Kavanagh,CL Tryon,1,0,,,,,,"",""
+ball,1,9.2,Ireland,SM Kavanagh,MV Waldron,CL Tryon,0,0,,,,,,"",""
+ball,1,9.3,Ireland,SM Kavanagh,MV Waldron,CL Tryon,0,1,1,,,,,"",""
+ball,1,9.4,Ireland,SM Kavanagh,MV Waldron,CL Tryon,0,0,,,,,,"",""
+ball,1,9.5,Ireland,SM Kavanagh,MV Waldron,CL Tryon,1,0,,,,,,"",""
+ball,1,9.6,Ireland,MV Waldron,SM Kavanagh,CL Tryon,1,0,,,,,,"",""
+ball,1,9.7,Ireland,SM Kavanagh,MV Waldron,CL Tryon,0,0,,,,,,"",""
+ball,1,10.1,Ireland,MV Waldron,SM Kavanagh,N Mlaba,0,0,,,,,,"",""
+ball,1,10.2,Ireland,MV Waldron,SM Kavanagh,N Mlaba,1,0,,,,,,"",""
+ball,1,10.3,Ireland,SM Kavanagh,MV Waldron,N Mlaba,0,0,,,,,,"",""
+ball,1,10.4,Ireland,SM Kavanagh,MV Waldron,N Mlaba,1,0,,,,,,"",""
+ball,1,10.5,Ireland,MV Waldron,SM Kavanagh,N Mlaba,0,0,,,,,,"",""
+ball,1,10.6,Ireland,MV Waldron,SM Kavanagh,N Mlaba,1,0,,,,,,"",""
+ball,1,11.1,Ireland,MV Waldron,SM Kavanagh,CL Tryon,4,0,,,,,,"",""
+ball,1,11.2,Ireland,MV Waldron,SM Kavanagh,CL Tryon,2,0,,,,,,"",""
+ball,1,11.3,Ireland,MV Waldron,SM Kavanagh,CL Tryon,1,0,,,,,,"",""
+ball,1,11.4,Ireland,SM Kavanagh,MV Waldron,CL Tryon,0,0,,,,,,"",""
+ball,1,11.5,Ireland,SM Kavanagh,MV Waldron,CL Tryon,1,0,,,,,,"",""
+ball,1,11.6,Ireland,MV Waldron,SM Kavanagh,CL Tryon,0,0,,,,,,"",""
+ball,1,12.1,Ireland,SM Kavanagh,MV Waldron,N de Klerk,0,0,,,,,,bowled,SM Kavanagh
+ball,1,12.2,Ireland,AN Kelly,MV Waldron,N de Klerk,0,1,,,1,,,"",""
+ball,1,12.3,Ireland,MV Waldron,AN Kelly,N de Klerk,1,0,,,,,,"",""
+ball,1,12.4,Ireland,AN Kelly,MV Waldron,N de Klerk,0,0,,,,,,"",""
+ball,1,12.5,Ireland,AN Kelly,MV Waldron,N de Klerk,0,0,,,,,,"",""
+ball,1,12.6,Ireland,AN Kelly,MV Waldron,N de Klerk,0,0,,,,,,"",""
+ball,1,13.1,Ireland,MV Waldron,AN Kelly,S Ismail,0,0,,,,,,"",""
+ball,1,13.2,Ireland,MV Waldron,AN Kelly,S Ismail,1,0,,,,,,"",""
+ball,1,13.3,Ireland,AN Kelly,MV Waldron,S Ismail,0,0,,,,,,"",""
+ball,1,13.4,Ireland,AN Kelly,MV Waldron,S Ismail,0,0,,,,,,"",""
+ball,1,13.5,Ireland,AN Kelly,MV Waldron,S Ismail,1,0,,,,,,"",""
+ball,1,13.6,Ireland,MV Waldron,AN Kelly,S Ismail,0,0,,,,,,"",""
+ball,1,14.1,Ireland,AN Kelly,MV Waldron,A Bosch,2,0,,,,,,"",""
+ball,1,14.2,Ireland,AN Kelly,MV Waldron,A Bosch,0,1,1,,,,,"",""
+ball,1,14.3,Ireland,AN Kelly,MV Waldron,A Bosch,0,0,,,,,,"",""
+ball,1,14.4,Ireland,AN Kelly,MV Waldron,A Bosch,1,0,,,,,,"",""
+ball,1,14.5,Ireland,MV Waldron,AN Kelly,A Bosch,1,0,,,,,,"",""
+ball,1,14.6,Ireland,AN Kelly,MV Waldron,A Bosch,2,0,,,,,,"",""
+ball,1,14.7,Ireland,AN Kelly,MV Waldron,A Bosch,0,0,,,,,,"",""
+ball,1,15.1,Ireland,MV Waldron,AN Kelly,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,15.2,Ireland,MV Waldron,AN Kelly,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,15.3,Ireland,AN Kelly,MV Waldron,TS Sekhukhune,0,0,,,,,,caught,AN Kelly
+ball,1,15.4,Ireland,MV Waldron,S MacMahon,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,15.5,Ireland,S MacMahon,MV Waldron,TS Sekhukhune,2,0,,,,,,"",""
+ball,1,15.6,Ireland,S MacMahon,MV Waldron,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,16.1,Ireland,S MacMahon,MV Waldron,A Bosch,1,0,,,,,,"",""
+ball,1,16.2,Ireland,MV Waldron,S MacMahon,A Bosch,0,0,,,,,,"",""
+ball,1,16.3,Ireland,MV Waldron,S MacMahon,A Bosch,0,0,,,,,,caught,MV Waldron
+ball,1,16.4,Ireland,Rachel Delaney,S MacMahon,A Bosch,2,0,,,,,,"",""
+ball,1,16.5,Ireland,Rachel Delaney,S MacMahon,A Bosch,0,0,,,,,,"",""
+ball,1,16.6,Ireland,Rachel Delaney,S MacMahon,A Bosch,1,0,,,,,,"",""
+ball,1,17.1,Ireland,Rachel Delaney,S MacMahon,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,17.2,Ireland,S MacMahon,Rachel Delaney,TS Sekhukhune,0,0,,,,,,caught and bowled,S MacMahon
+ball,1,17.3,Ireland,G Dempsey,Rachel Delaney,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,17.4,Ireland,G Dempsey,Rachel Delaney,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,17.5,Ireland,Rachel Delaney,G Dempsey,TS Sekhukhune,2,0,,,,,,"",""
+ball,1,17.6,Ireland,Rachel Delaney,G Dempsey,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,18.1,Ireland,Rachel Delaney,G Dempsey,N de Klerk,0,1,1,,,,,"",""
+ball,1,18.2,Ireland,Rachel Delaney,G Dempsey,N de Klerk,1,0,,,,,,"",""
+ball,1,18.3,Ireland,G Dempsey,Rachel Delaney,N de Klerk,1,0,,,,,,"",""
+ball,1,18.4,Ireland,Rachel Delaney,G Dempsey,N de Klerk,4,0,,,,,,"",""
+ball,1,18.5,Ireland,Rachel Delaney,G Dempsey,N de Klerk,0,0,,,,,,caught,Rachel Delaney
+ball,1,18.6,Ireland,C Raack,G Dempsey,N de Klerk,0,0,,,,,,"",""
+ball,1,18.7,Ireland,C Raack,G Dempsey,N de Klerk,1,0,,,,,,"",""
+ball,1,19.1,Ireland,C Raack,G Dempsey,S Ismail,0,1,,,,1,,"",""
+ball,1,19.2,Ireland,G Dempsey,C Raack,S Ismail,1,0,,,,,,"",""
+ball,1,19.3,Ireland,C Raack,G Dempsey,S Ismail,4,0,,,,,,"",""
+ball,1,19.4,Ireland,C Raack,G Dempsey,S Ismail,2,0,,,,,,"",""
+ball,1,19.5,Ireland,C Raack,G Dempsey,S Ismail,0,0,,,,,,"",""
+ball,1,19.6,Ireland,C Raack,G Dempsey,S Ismail,0,1,,,1,,,"",""
+ball,2,0.1,South Africa,L Goodall,T Brits,C Raack,0,0,,,,,,"",""
+ball,2,0.2,South Africa,L Goodall,T Brits,C Raack,0,0,,,,,,"",""
+ball,2,0.3,South Africa,L Goodall,T Brits,C Raack,0,1,,1,,,,"",""
+ball,2,0.4,South Africa,L Goodall,T Brits,C Raack,6,0,,,,,,"",""
+ball,2,0.5,South Africa,L Goodall,T Brits,C Raack,4,0,,,,,,"",""
+ball,2,0.6,South Africa,L Goodall,T Brits,C Raack,1,0,,,,,,"",""
+ball,2,0.7,South Africa,T Brits,L Goodall,C Raack,1,0,,,,,,"",""
+ball,2,1.1,South Africa,T Brits,L Goodall,J Maguire,1,0,,,,,,"",""
+ball,2,1.2,South Africa,L Goodall,T Brits,J Maguire,0,0,,,,,,"",""
+ball,2,1.3,South Africa,L Goodall,T Brits,J Maguire,0,1,1,,,,,"",""
+ball,2,1.4,South Africa,L Goodall,T Brits,J Maguire,0,1,,,,1,,"",""
+ball,2,1.5,South Africa,T Brits,L Goodall,J Maguire,0,0,,,,,,"",""
+ball,2,1.6,South Africa,T Brits,L Goodall,J Maguire,4,0,,,,,,"",""
+ball,2,1.7,South Africa,T Brits,L Goodall,J Maguire,1,0,,,,,,"",""
+ball,2,2.1,South Africa,T Brits,L Goodall,AN Kelly,4,0,,,,,,"",""
+ball,2,2.2,South Africa,T Brits,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,2.3,South Africa,T Brits,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,2.4,South Africa,T Brits,L Goodall,AN Kelly,4,0,,,,,,"",""
+ball,2,2.5,South Africa,T Brits,L Goodall,AN Kelly,0,0,,,,,,bowled,T Brits
+ball,2,2.6,South Africa,A Bosch,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,3.1,South Africa,L Goodall,A Bosch,J Maguire,0,1,1,,,,,"",""
+ball,2,3.2,South Africa,L Goodall,A Bosch,J Maguire,0,1,1,,,,,"",""
+ball,2,3.3,South Africa,L Goodall,A Bosch,J Maguire,1,0,,,,,,"",""
+ball,2,3.4,South Africa,A Bosch,L Goodall,J Maguire,1,0,,,,,,"",""
+ball,2,3.5,South Africa,L Goodall,A Bosch,J Maguire,0,0,,,,,,"",""
+ball,2,3.6,South Africa,L Goodall,A Bosch,J Maguire,2,0,,,,,,"",""
+ball,2,3.7,South Africa,L Goodall,A Bosch,J Maguire,0,1,1,,,,,"",""
+ball,2,3.8,South Africa,L Goodall,A Bosch,J Maguire,0,0,,,,,,"",""
+ball,2,3.9,South Africa,L Goodall,A Bosch,J Maguire,4,0,,,,,,"",""
+ball,2,4.1,South Africa,A Bosch,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,4.2,South Africa,A Bosch,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,4.3,South Africa,A Bosch,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,4.4,South Africa,A Bosch,L Goodall,AN Kelly,1,0,,,,,,"",""
+ball,2,4.5,South Africa,L Goodall,A Bosch,AN Kelly,1,0,,,,,,"",""
+ball,2,4.6,South Africa,A Bosch,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,5.1,South Africa,L Goodall,A Bosch,J Maguire,1,0,,,,,,"",""
+ball,2,5.2,South Africa,A Bosch,L Goodall,J Maguire,0,0,,,,,,"",""
+ball,2,5.3,South Africa,A Bosch,L Goodall,J Maguire,2,0,,,,,,"",""
+ball,2,5.4,South Africa,A Bosch,L Goodall,J Maguire,1,0,,,,,,"",""
+ball,2,5.5,South Africa,L Goodall,A Bosch,J Maguire,4,0,,,,,,"",""
+ball,2,5.6,South Africa,L Goodall,A Bosch,J Maguire,0,0,,,,,,"",""
+ball,2,6.1,South Africa,A Bosch,L Goodall,Rachel Delaney,0,0,,,,,,"",""
+ball,2,6.2,South Africa,A Bosch,L Goodall,Rachel Delaney,1,0,,,,,,"",""
+ball,2,6.3,South Africa,L Goodall,A Bosch,Rachel Delaney,0,0,,,,,,"",""
+ball,2,6.4,South Africa,L Goodall,A Bosch,Rachel Delaney,1,0,,,,,,"",""
+ball,2,6.5,South Africa,A Bosch,L Goodall,Rachel Delaney,1,0,,,,,,"",""
+ball,2,6.6,South Africa,L Goodall,A Bosch,Rachel Delaney,1,0,,,,,,"",""
+ball,2,7.1,South Africa,L Goodall,A Bosch,C Murray,1,0,,,,,,"",""
+ball,2,7.2,South Africa,A Bosch,L Goodall,C Murray,0,0,,,,,,"",""
+ball,2,7.3,South Africa,A Bosch,L Goodall,C Murray,0,0,,,,,,"",""
+ball,2,7.4,South Africa,A Bosch,L Goodall,C Murray,1,0,,,,,,"",""
+ball,2,7.5,South Africa,L Goodall,A Bosch,C Murray,1,0,,,,,,"",""
+ball,2,7.6,South Africa,A Bosch,L Goodall,C Murray,0,0,,,,,,"",""
+ball,2,8.1,South Africa,L Goodall,A Bosch,L Paul,1,0,,,,,,"",""
+ball,2,8.2,South Africa,A Bosch,L Goodall,L Paul,1,0,,,,,,"",""
+ball,2,8.3,South Africa,L Goodall,A Bosch,L Paul,1,0,,,,,,"",""
+ball,2,8.4,South Africa,A Bosch,L Goodall,L Paul,4,0,,,,,,"",""
+ball,2,8.5,South Africa,A Bosch,L Goodall,L Paul,1,0,,,,,,"",""
+ball,2,8.6,South Africa,L Goodall,A Bosch,L Paul,0,0,,,,,,"",""
+ball,2,9.1,South Africa,A Bosch,L Goodall,C Murray,0,0,,,,,,"",""
+ball,2,9.2,South Africa,A Bosch,L Goodall,C Murray,1,0,,,,,,"",""
+ball,2,9.3,South Africa,L Goodall,A Bosch,C Murray,4,0,,,,,,"",""
+ball,2,9.4,South Africa,L Goodall,A Bosch,C Murray,1,0,,,,,,"",""
+ball,2,9.5,South Africa,A Bosch,L Goodall,C Murray,0,0,,,,,,"",""
+ball,2,9.6,South Africa,A Bosch,L Goodall,C Murray,1,0,,,,,,"",""
+ball,2,10.1,South Africa,A Bosch,L Goodall,L Paul,4,0,,,,,,"",""
+ball,2,10.2,South Africa,A Bosch,L Goodall,L Paul,2,0,,,,,,"",""
+ball,2,10.3,South Africa,A Bosch,L Goodall,L Paul,1,0,,,,,,"",""
+ball,2,10.4,South Africa,L Goodall,A Bosch,L Paul,4,0,,,,,,"",""
+ball,2,10.5,South Africa,L Goodall,A Bosch,L Paul,1,0,,,,,,"",""
+ball,2,10.6,South Africa,A Bosch,L Goodall,L Paul,0,0,,,,,,"",""
+ball,2,11.1,South Africa,L Goodall,A Bosch,C Murray,4,0,,,,,,"",""
+ball,2,11.2,South Africa,L Goodall,A Bosch,C Murray,0,0,,,,,,"",""
+ball,2,11.3,South Africa,L Goodall,A Bosch,C Murray,1,0,,,,,,"",""
+ball,2,11.4,South Africa,A Bosch,L Goodall,C Murray,0,0,,,,,,"",""
+ball,2,11.5,South Africa,A Bosch,L Goodall,C Murray,2,0,,,,,,"",""
+ball,2,11.6,South Africa,A Bosch,L Goodall,C Murray,0,0,,,,,,"",""
+ball,2,12.1,South Africa,L Goodall,A Bosch,AN Kelly,0,0,,,,,,"",""
+ball,2,12.2,South Africa,L Goodall,A Bosch,AN Kelly,0,0,,,,,,"",""
+ball,2,12.3,South Africa,L Goodall,A Bosch,AN Kelly,1,0,,,,,,"",""
+ball,2,12.4,South Africa,A Bosch,L Goodall,AN Kelly,1,0,,,,,,"",""
+ball,2,12.5,South Africa,L Goodall,A Bosch,AN Kelly,1,0,,,,,,"",""
+ball,2,12.6,South Africa,A Bosch,L Goodall,AN Kelly,0,0,,,,,,"",""
+ball,2,13.1,South Africa,L Goodall,A Bosch,J Maguire,0,1,1,,,,,"",""
+ball,2,13.2,South Africa,L Goodall,A Bosch,J Maguire,1,0,,,,,,"",""
+ball,2,13.3,South Africa,A Bosch,L Goodall,J Maguire,1,0,,,,,,"",""
+ball,2,13.4,South Africa,L Goodall,A Bosch,J Maguire,4,0,,,,,,"",""
+ball,2,13.5,South Africa,L Goodall,A Bosch,J Maguire,0,0,,,,,,"",""
+ball,2,13.6,South Africa,L Goodall,A Bosch,J Maguire,0,0,,,,,,bowled,L Goodall
+ball,2,13.7,South Africa,L Wolvaardt,A Bosch,J Maguire,0,0,,,,,,"",""
+ball,2,14.1,South Africa,A Bosch,L Wolvaardt,C Raack,1,0,,,,,,"",""
+ball,2,14.2,South Africa,L Wolvaardt,A Bosch,C Raack,0,0,,,,,,"",""
+ball,2,14.3,South Africa,L Wolvaardt,A Bosch,C Raack,0,0,,,,,,"",""
+ball,2,14.4,South Africa,L Wolvaardt,A Bosch,C Raack,1,0,,,,,,"",""
+ball,2,14.5,South Africa,A Bosch,L Wolvaardt,C Raack,0,0,,,,,,"",""
+ball,2,14.6,South Africa,A Bosch,L Wolvaardt,C Raack,4,0,,,,,,"",""

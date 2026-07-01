@@ -1,0 +1,75 @@
+version: '3.9'
+
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: cricgeek_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:?Set MYSQL_ROOT_PASSWORD in .env}
+      MYSQL_DATABASE: cricgeek_dev
+      MYSQL_USER: cricgeek
+      MYSQL_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in .env}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "cricgeek", "-p${DB_PASSWORD}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks:
+      - cricgeek_network
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: cricgeek_api
+    environment:
+      ENVIRONMENT: ${ENVIRONMENT:-development}
+      DATABASE_URL: mysql+pymysql://cricgeek:${DB_PASSWORD:?Set DB_PASSWORD in .env}@mysql:3306/cricgeek_dev?charset=utf8mb4
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:?Set JWT_SECRET_KEY in .env}
+      ENCRYPTION_KEY: ${ENCRYPTION_KEY:?Set ENCRYPTION_KEY in .env}
+      QWEN_API_KEY: ${QWEN_API_KEY}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-http://localhost:8000,http://localhost:8501}
+    ports:
+      - "8000:8000"
+    depends_on:
+      mysql:
+        condition: service_healthy
+    volumes:
+      - ./:/app
+    command: >
+      bash -c "
+        python database.py init &&
+        python database.py seed &&
+        uvicorn main_api:app --host 0.0.0.0 --port 8000 --reload
+      "
+    networks:
+      - cricgeek_network
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    container_name: cricgeek_app
+    environment:
+      API_BASE_URL: http://api:8000/api
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    volumes:
+      - ./:/app
+    command: streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+    networks:
+      - cricgeek_network
+
+networks:
+  cricgeek_network:
+    driver: bridge
+
+volumes:
+  mysql_data:
+    driver: local

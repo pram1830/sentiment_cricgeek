@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,France
+info,team,Malta
+info,gender,male
+info,season,2024
+info,date,2024/05/09
+info,event,Mdina Cup
+info,match_number,1
+info,venue,Dreux Sport Cricket Club
+info,city,Dreux
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,L Canessane
+info,winner,France
+info,winner_runs,9
+info,player,France,G Mckeon
+info,player,France,H Niaz
+info,player,France,Mukhtar Ghulami
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,HA Jackson
+info,player,France,Usman Khan
+info,player,France,Kamran Ahmadzai
+info,player,France,Dawood Ahmadzai
+info,player,France,Zaheer Zahiri
+info,player,France,S Stanikzay
+info,player,Malta,Zeeshan Khan
+info,player,Malta,B George
+info,player,Malta,DR Patankar
+info,player,Malta,Jaspal Singh
+info,player,Malta,SSM Stanislaus
+info,player,Malta,VP Thamotharam
+info,player,Malta,Fanyan Mughal
+info,player,Malta,B Arora
+info,player,Malta,Washeem Abbas
+info,player,Malta,C Sudarsanan
+info,player,Malta,J Shaju
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,DR Patankar,e661915c
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,SSM Stanislaus,34dd3fd9
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zeeshan Khan,3f9b1a96
+ball,1,0.1,France,G Mckeon,H Niaz,Washeem Abbas,0,1,1,,,,,"",""
+ball,1,0.2,France,G Mckeon,H Niaz,Washeem Abbas,0,0,,,,,,"",""
+ball,1,0.3,France,G Mckeon,H Niaz,Washeem Abbas,6,0,,,,,,"",""
+ball,1,0.4,France,G Mckeon,H Niaz,Washeem Abbas,1,0,,,,,,"",""
+ball,1,0.5,France,H Niaz,G Mckeon,Washeem Abbas,0,0,,,,,,caught,H Niaz
+ball,1,0.6,France,Mukhtar Ghulami,G Mckeon,Washeem Abbas,0,0,,,,,,"",""
+ball,1,0.7,France,Mukhtar Ghulami,G Mckeon,Washeem Abbas,0,0,,,,,,"",""
+ball,1,1.1,France,G Mckeon,Mukhtar Ghulami,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,1.2,France,G Mckeon,Mukhtar Ghulami,Fanyan Mughal,4,0,,,,,,"",""
+ball,1,1.3,France,G Mckeon,Mukhtar Ghulami,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,1.4,France,G Mckeon,Mukhtar Ghulami,Fanyan Mughal,4,0,,,,,,"",""
+ball,1,1.5,France,G Mckeon,Mukhtar Ghulami,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,1.6,France,Mukhtar Ghulami,G Mckeon,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,2.1,France,G Mckeon,Mukhtar Ghulami,Washeem Abbas,0,1,1,,,,,"",""
+ball,1,2.2,France,G Mckeon,Mukhtar Ghulami,Washeem Abbas,0,0,,,,,,"",""
+ball,1,2.3,France,G Mckeon,Mukhtar Ghulami,Washeem Abbas,2,0,,,,,,"",""
+ball,1,2.4,France,G Mckeon,Mukhtar Ghulami,Washeem Abbas,0,0,,,,,,caught,G Mckeon
+ball,1,2.5,France,C Roberts,Mukhtar Ghulami,Washeem Abbas,1,0,,,,,,"",""
+ball,1,2.6,France,Mukhtar Ghulami,C Roberts,Washeem Abbas,0,0,,,,,,"",""
+ball,1,2.7,France,Mukhtar Ghulami,C Roberts,Washeem Abbas,0,0,,,,,,"",""
+ball,1,3.1,France,C Roberts,Mukhtar Ghulami,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,3.2,France,C Roberts,Mukhtar Ghulami,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,3.3,France,C Roberts,Mukhtar Ghulami,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,3.4,France,C Roberts,Mukhtar Ghulami,Fanyan Mughal,2,0,,,,,,"",""
+ball,1,3.5,France,C Roberts,Mukhtar Ghulami,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,3.6,France,C Roberts,Mukhtar Ghulami,Fanyan Mughal,2,0,,,,,,"",""
+ball,1,4.1,France,Mukhtar Ghulami,C Roberts,J Shaju,0,0,,,,,,"",""
+ball,1,4.2,France,Mukhtar Ghulami,C Roberts,J Shaju,0,0,,,,,,bowled,Mukhtar Ghulami
+ball,1,4.3,France,L Canessane,C Roberts,J Shaju,0,0,,,,,,"",""
+ball,1,4.4,France,L Canessane,C Roberts,J Shaju,1,0,,,,,,"",""
+ball,1,4.5,France,C Roberts,L Canessane,J Shaju,0,0,,,,,,"",""
+ball,1,4.6,France,C Roberts,L Canessane,J Shaju,0,0,,,,,,bowled,C Roberts
+ball,1,5.1,France,L Canessane,HA Jackson,Jaspal Singh,0,0,,,,,,"",""
+ball,1,5.2,France,L Canessane,HA Jackson,Jaspal Singh,1,0,,,,,,"",""
+ball,1,5.3,France,HA Jackson,L Canessane,Jaspal Singh,0,0,,,,,,"",""
+ball,1,5.4,France,HA Jackson,L Canessane,Jaspal Singh,0,0,,,,,,"",""
+ball,1,5.5,France,HA Jackson,L Canessane,Jaspal Singh,0,0,,,,,,"",""
+ball,1,5.6,France,HA Jackson,L Canessane,Jaspal Singh,0,0,,,,,,"",""
+ball,1,6.1,France,L Canessane,HA Jackson,J Shaju,0,0,,,,,,"",""
+ball,1,6.2,France,L Canessane,HA Jackson,J Shaju,1,0,,,,,,"",""
+ball,1,6.3,France,HA Jackson,L Canessane,J Shaju,1,0,,,,,,"",""
+ball,1,6.4,France,L Canessane,HA Jackson,J Shaju,1,1,,1,,,,"",""
+ball,1,6.5,France,HA Jackson,L Canessane,J Shaju,4,0,,,,,,"",""
+ball,1,6.6,France,HA Jackson,L Canessane,J Shaju,1,0,,,,,,"",""
+ball,1,6.7,France,L Canessane,HA Jackson,J Shaju,0,0,,,,,,"",""
+ball,1,7.1,France,HA Jackson,L Canessane,Jaspal Singh,2,0,,,,,,"",""
+ball,1,7.2,France,HA Jackson,L Canessane,Jaspal Singh,1,0,,,,,,"",""
+ball,1,7.3,France,L Canessane,HA Jackson,Jaspal Singh,2,0,,,,,,"",""
+ball,1,7.4,France,L Canessane,HA Jackson,Jaspal Singh,0,1,1,,,,,"",""
+ball,1,7.5,France,L Canessane,HA Jackson,Jaspal Singh,1,0,,,,,,"",""
+ball,1,7.6,France,HA Jackson,L Canessane,Jaspal Singh,1,0,,,,,,"",""
+ball,1,7.7,France,L Canessane,HA Jackson,Jaspal Singh,0,1,1,,,,,"",""
+ball,1,7.8,France,L Canessane,HA Jackson,Jaspal Singh,1,0,,,,,,"",""
+ball,1,8.1,France,L Canessane,HA Jackson,VP Thamotharam,1,0,,,,,,"",""
+ball,1,8.2,France,HA Jackson,L Canessane,VP Thamotharam,1,0,,,,,,"",""
+ball,1,8.3,France,L Canessane,HA Jackson,VP Thamotharam,0,0,,,,,,"",""
+ball,1,8.4,France,L Canessane,HA Jackson,VP Thamotharam,1,0,,,,,,"",""
+ball,1,8.5,France,HA Jackson,L Canessane,VP Thamotharam,1,0,,,,,,"",""
+ball,1,8.6,France,L Canessane,HA Jackson,VP Thamotharam,0,0,,,,,,"",""
+ball,1,9.1,France,HA Jackson,L Canessane,B Arora,0,1,1,,,,,"",""
+ball,1,9.2,France,HA Jackson,L Canessane,B Arora,0,0,,,,,,"",""
+ball,1,9.3,France,HA Jackson,L Canessane,B Arora,1,0,,,,,,"",""
+ball,1,9.4,France,L Canessane,HA Jackson,B Arora,1,0,,,,,,"",""
+ball,1,9.5,France,HA Jackson,L Canessane,B Arora,0,0,,,,,,"",""
+ball,1,9.6,France,HA Jackson,L Canessane,B Arora,0,1,,,,1,,"",""
+ball,1,9.7,France,L Canessane,HA Jackson,B Arora,0,0,,,,,,"",""
+ball,1,10.1,France,HA Jackson,L Canessane,VP Thamotharam,1,0,,,,,,"",""
+ball,1,10.2,France,L Canessane,HA Jackson,VP Thamotharam,1,0,,,,,,"",""
+ball,1,10.3,France,HA Jackson,L Canessane,VP Thamotharam,0,0,,,,,,bowled,HA Jackson
+ball,1,10.4,France,Usman Khan,L Canessane,VP Thamotharam,0,0,,,,,,run out,Usman Khan
+ball,1,10.5,France,Kamran Ahmadzai,L Canessane,VP Thamotharam,0,0,,,,,,"",""
+ball,1,10.6,France,Kamran Ahmadzai,L Canessane,VP Thamotharam,0,0,,,,,,"",""
+ball,1,11.1,France,L Canessane,Kamran Ahmadzai,B Arora,4,0,,,,,,"",""
+ball,1,11.2,France,L Canessane,Kamran Ahmadzai,B Arora,0,0,,,,,,"",""
+ball,1,11.3,France,L Canessane,Kamran Ahmadzai,B Arora,4,0,,,,,,"",""
+ball,1,11.4,France,L Canessane,Kamran Ahmadzai,B Arora,0,0,,,,,,"",""
+ball,1,11.5,France,L Canessane,Kamran Ahmadzai,B Arora,4,0,,,,,,"",""
+ball,1,11.6,France,L Canessane,Kamran Ahmadzai,B Arora,0,0,,,,,,"",""
+ball,1,12.1,France,Kamran Ahmadzai,L Canessane,VP Thamotharam,0,0,,,,,,"",""
+ball,1,12.2,France,Kamran Ahmadzai,L Canessane,VP Thamotharam,1,0,,,,,,"",""
+ball,1,12.3,France,L Canessane,Kamran Ahmadzai,VP Thamotharam,0,0,,,,,,"",""
+ball,1,12.4,France,L Canessane,Kamran Ahmadzai,VP Thamotharam,4,0,,,,,,"",""
+ball,1,12.5,France,L Canessane,Kamran Ahmadzai,VP Thamotharam,4,0,,,,,,"",""
+ball,1,12.6,France,L Canessane,Kamran Ahmadzai,VP Thamotharam,0,0,,,,,,"",""
+ball,1,13.1,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,4,0,,,,,,"",""
+ball,1,13.2,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,13.3,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,2,0,,,,,,"",""
+ball,1,13.4,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,0,1,1,,,,,"",""
+ball,1,13.5,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,0,1,1,,,,,"",""
+ball,1,13.6,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,4,0,,,,,,"",""
+ball,1,13.7,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,6,0,,,,,,"",""
+ball,1,13.8,France,Kamran Ahmadzai,L Canessane,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,14.1,France,L Canessane,Kamran Ahmadzai,Washeem Abbas,6,0,,,,,,"",""
+ball,1,14.2,France,L Canessane,Kamran Ahmadzai,Washeem Abbas,1,0,,,,,,"",""
+ball,1,14.3,France,Kamran Ahmadzai,L Canessane,Washeem Abbas,0,0,,,,,,"",""
+ball,1,14.4,France,Kamran Ahmadzai,L Canessane,Washeem Abbas,0,1,1,,,,,"",""
+ball,1,14.5,France,Kamran Ahmadzai,L Canessane,Washeem Abbas,0,0,,,,,,"",""
+ball,1,14.6,France,Kamran Ahmadzai,L Canessane,Washeem Abbas,0,0,,,,,,caught,Kamran Ahmadzai
+ball,1,14.7,France,Dawood Ahmadzai,L Canessane,Washeem Abbas,0,1,1,,,,,"",""
+ball,1,14.8,France,Dawood Ahmadzai,L Canessane,Washeem Abbas,1,0,,,,,,"",""
+ball,1,15.1,France,Dawood Ahmadzai,L Canessane,VP Thamotharam,0,0,,,,,,lbw,Dawood Ahmadzai
+ball,1,15.2,France,Zaheer Zahiri,L Canessane,VP Thamotharam,0,0,,,,,,"",""
+ball,1,15.3,France,Zaheer Zahiri,L Canessane,VP Thamotharam,1,0,,,,,,"",""
+ball,1,15.4,France,L Canessane,Zaheer Zahiri,VP Thamotharam,6,0,,,,,,"",""
+ball,1,15.5,France,L Canessane,Zaheer Zahiri,VP Thamotharam,1,0,,,,,,"",""
+ball,1,15.6,France,Zaheer Zahiri,L Canessane,VP Thamotharam,0,0,,,,,,"",""
+ball,1,16.1,France,L Canessane,Zaheer Zahiri,Washeem Abbas,0,0,,,,,,"",""
+ball,1,16.2,France,L Canessane,Zaheer Zahiri,Washeem Abbas,0,0,,,,,,"",""
+ball,1,16.3,France,L Canessane,Zaheer Zahiri,Washeem Abbas,1,0,,,,,,"",""
+ball,1,16.4,France,Zaheer Zahiri,L Canessane,Washeem Abbas,1,0,,,,,,"",""
+ball,1,16.5,France,L Canessane,Zaheer Zahiri,Washeem Abbas,4,0,,,,,,"",""
+ball,1,16.6,France,L Canessane,Zaheer Zahiri,Washeem Abbas,1,0,,,,,,"",""
+ball,1,17.1,France,L Canessane,Zaheer Zahiri,J Shaju,2,0,,,,,,"",""
+ball,1,17.2,France,L Canessane,Zaheer Zahiri,J Shaju,0,0,,,,,,"",""
+ball,1,17.3,France,L Canessane,Zaheer Zahiri,J Shaju,1,0,,,,,,"",""
+ball,1,17.4,France,Zaheer Zahiri,L Canessane,J Shaju,0,0,,,,,,"",""
+ball,1,17.5,France,Zaheer Zahiri,L Canessane,J Shaju,0,0,,,,,,"",""
+ball,1,17.6,France,Zaheer Zahiri,L Canessane,J Shaju,0,0,,,,,,"",""
+ball,1,18.1,France,L Canessane,Zaheer Zahiri,Fanyan Mughal,4,0,,,,,,"",""
+ball,1,18.2,France,L Canessane,Zaheer Zahiri,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,18.3,France,Zaheer Zahiri,L Canessane,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,18.4,France,Zaheer Zahiri,L Canessane,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,18.5,France,L Canessane,Zaheer Zahiri,Fanyan Mughal,6,0,,,,,,"",""
+ball,1,18.6,France,L Canessane,Zaheer Zahiri,Fanyan Mughal,0,0,,,,,,bowled,L Canessane
+ball,1,19.1,France,Zaheer Zahiri,S Stanikzay,J Shaju,1,0,,,,,,"",""
+ball,1,19.2,France,S Stanikzay,Zaheer Zahiri,J Shaju,0,0,,,,,,caught,S Stanikzay
+ball,2,0.1,Malta,Zeeshan Khan,B George,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,0.2,Malta,Zeeshan Khan,B George,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,0.3,Malta,B George,Zeeshan Khan,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,0.4,Malta,B George,Zeeshan Khan,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,0.5,Malta,Zeeshan Khan,B George,Zaheer Zahiri,0,1,1,,,,,"",""
+ball,2,0.6,Malta,Zeeshan Khan,B George,Zaheer Zahiri,0,0,,,,,,caught,Zeeshan Khan
+ball,2,0.7,Malta,DR Patankar,B George,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,1.1,Malta,DR Patankar,B George,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,1.2,Malta,DR Patankar,B George,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,1.3,Malta,DR Patankar,B George,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,1.4,Malta,B George,DR Patankar,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,1.5,Malta,B George,DR Patankar,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,1.6,Malta,DR Patankar,B George,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,2.1,Malta,B George,DR Patankar,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.2,Malta,B George,DR Patankar,Zaheer Zahiri,2,0,,,,,,"",""
+ball,2,2.3,Malta,B George,DR Patankar,Zaheer Zahiri,0,1,,,,1,,"",""
+ball,2,2.4,Malta,DR Patankar,B George,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.5,Malta,DR Patankar,B George,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.6,Malta,DR Patankar,B George,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,3.1,Malta,B George,DR Patankar,Kamran Ahmadzai,0,0,,,,,,run out,DR Patankar
+ball,2,3.2,Malta,B George,Jaspal Singh,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,3.3,Malta,Jaspal Singh,B George,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,3.4,Malta,Jaspal Singh,B George,Kamran Ahmadzai,0,1,1,,,,,"",""
+ball,2,3.5,Malta,Jaspal Singh,B George,Kamran Ahmadzai,4,0,,,,,,"",""
+ball,2,3.6,Malta,Jaspal Singh,B George,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,3.7,Malta,B George,Jaspal Singh,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,4.1,Malta,Jaspal Singh,B George,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,4.2,Malta,Jaspal Singh,B George,Zaheer Zahiri,0,0,,,,,,lbw,Jaspal Singh
+ball,2,4.3,Malta,SSM Stanislaus,B George,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,4.4,Malta,B George,SSM Stanislaus,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,4.5,Malta,B George,SSM Stanislaus,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,4.6,Malta,SSM Stanislaus,B George,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,5.1,Malta,B George,SSM Stanislaus,Kamran Ahmadzai,0,1,1,,,,,"",""
+ball,2,5.2,Malta,B George,SSM Stanislaus,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,5.3,Malta,B George,SSM Stanislaus,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,5.4,Malta,B George,SSM Stanislaus,Kamran Ahmadzai,0,1,1,,,,,"",""
+ball,2,5.5,Malta,B George,SSM Stanislaus,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,5.6,Malta,SSM Stanislaus,B George,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,5.7,Malta,SSM Stanislaus,B George,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,5.8,Malta,SSM Stanislaus,B George,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,6.1,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.2,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.3,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,6.4,Malta,SSM Stanislaus,B George,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,6.5,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.6,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,6,0,,,,,,"",""
+ball,2,7.1,Malta,SSM Stanislaus,B George,Usman Khan,0,0,,,,,,"",""
+ball,2,7.2,Malta,SSM Stanislaus,B George,Usman Khan,1,0,,,,,,"",""
+ball,2,7.3,Malta,B George,SSM Stanislaus,Usman Khan,1,0,,,,,,"",""
+ball,2,7.4,Malta,SSM Stanislaus,B George,Usman Khan,0,0,,,,,,"",""
+ball,2,7.5,Malta,SSM Stanislaus,B George,Usman Khan,1,0,,,,,,"",""
+ball,2,7.6,Malta,B George,SSM Stanislaus,Usman Khan,0,0,,,,,,"",""
+ball,2,8.1,Malta,SSM Stanislaus,B George,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,8.2,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.3,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.4,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.5,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.6,Malta,B George,SSM Stanislaus,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,9.1,Malta,B George,SSM Stanislaus,Usman Khan,0,0,,,,,,caught,B George
+ball,2,9.2,Malta,VP Thamotharam,SSM Stanislaus,Usman Khan,4,0,,,,,,"",""
+ball,2,9.3,Malta,VP Thamotharam,SSM Stanislaus,Usman Khan,1,0,,,,,,"",""
+ball,2,9.4,Malta,SSM Stanislaus,VP Thamotharam,Usman Khan,2,0,,,,,,"",""
+ball,2,9.5,Malta,SSM Stanislaus,VP Thamotharam,Usman Khan,1,0,,,,,,"",""
+ball,2,9.6,Malta,VP Thamotharam,SSM Stanislaus,Usman Khan,0,0,,,,,,"",""
+ball,2,10.1,Malta,SSM Stanislaus,VP Thamotharam,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,10.2,Malta,SSM Stanislaus,VP Thamotharam,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,10.3,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,0,1,1,,,,,"",""
+ball,2,10.4,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,10.5,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,10.6,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,2,10.7,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,11.1,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,2,0,,,,,,"",""
+ball,2,11.2,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,2,0,,,,,,"",""
+ball,2,11.3,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,0,0,,,,,,"",""
+ball,2,11.4,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,1,0,,,,,,"",""
+ball,2,11.5,Malta,VP Thamotharam,SSM Stanislaus,S Stanikzay,1,0,,,,,,"",""
+ball,2,11.6,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,0,0,,,,,,"",""
+ball,2,12.1,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,12.2,Malta,SSM Stanislaus,VP Thamotharam,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,12.3,Malta,SSM Stanislaus,VP Thamotharam,Dawood Ahmadzai,2,0,,,,,,"",""
+ball,2,12.4,Malta,SSM Stanislaus,VP Thamotharam,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,12.5,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,6,0,,,,,,"",""
+ball,2,12.6,Malta,VP Thamotharam,SSM Stanislaus,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,13.1,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,1,0,,,,,,"",""
+ball,2,13.2,Malta,VP Thamotharam,SSM Stanislaus,S Stanikzay,0,1,1,,,,,"",""
+ball,2,13.3,Malta,VP Thamotharam,SSM Stanislaus,S Stanikzay,1,0,,,,,,"",""
+ball,2,13.4,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,1,0,,,,,,"",""
+ball,2,13.5,Malta,VP Thamotharam,SSM Stanislaus,S Stanikzay,1,0,,,,,,"",""
+ball,2,13.6,Malta,SSM Stanislaus,VP Thamotharam,S Stanikzay,1,0,,,,,,"",""
+ball,2,13.7,Malta,VP Thamotharam,SSM Stanislaus,S Stanikzay,0,0,,,,,,"",""
+ball,2,14.1,Malta,SSM Stanislaus,VP Thamotharam,G Mckeon,0,1,1,,,,,"",""
+ball,2,14.2,Malta,SSM Stanislaus,VP Thamotharam,G Mckeon,4,0,,,,,,"",""
+ball,2,14.3,Malta,SSM Stanislaus,VP Thamotharam,G Mckeon,1,0,,,,,,"",""
+ball,2,14.4,Malta,VP Thamotharam,SSM Stanislaus,G Mckeon,1,0,,,,,,"",""
+ball,2,14.5,Malta,SSM Stanislaus,VP Thamotharam,G Mckeon,0,0,,,,,,caught,SSM Stanislaus
+ball,2,14.6,Malta,Fanyan Mughal,VP Thamotharam,G Mckeon,0,0,,,,,,"",""
+ball,2,14.7,Malta,Fanyan Mughal,VP Thamotharam,G Mckeon,0,1,,,,1,,"",""
+ball,2,15.1,Malta,Fanyan Mughal,VP Thamotharam,S Stanikzay,1,0,,,,,,"",""
+ball,2,15.2,Malta,VP Thamotharam,Fanyan Mughal,S Stanikzay,0,0,,,,,,"",""
+ball,2,15.3,Malta,VP Thamotharam,Fanyan Mughal,S Stanikzay,6,0,,,,,,"",""
+ball,2,15.4,Malta,VP Thamotharam,Fanyan Mughal,S Stanikzay,1,0,,,,,,"",""
+ball,2,15.5,Malta,Fanyan Mughal,VP Thamotharam,S Stanikzay,1,0,,,,,,"",""
+ball,2,15.6,Malta,VP Thamotharam,Fanyan Mughal,S Stanikzay,6,0,,,,,,"",""
+ball,2,16.1,Malta,Fanyan Mughal,VP Thamotharam,G Mckeon,0,0,,,,,,caught,Fanyan Mughal
+ball,2,16.2,Malta,B Arora,VP Thamotharam,G Mckeon,1,0,,,,,,"",""
+ball,2,16.3,Malta,VP Thamotharam,B Arora,G Mckeon,0,1,1,,,,,"",""
+ball,2,16.4,Malta,VP Thamotharam,B Arora,G Mckeon,0,0,,,,,,"",""
+ball,2,16.5,Malta,VP Thamotharam,B Arora,G Mckeon,0,0,,,,,,"",""
+ball,2,16.6,Malta,VP Thamotharam,B Arora,G Mckeon,1,0,,,,,,"",""
+ball,2,16.7,Malta,B Arora,VP Thamotharam,G Mckeon,1,0,,,,,,"",""
+ball,2,17.1,Malta,B Arora,VP Thamotharam,Usman Khan,1,0,,,,,,"",""
+ball,2,17.2,Malta,VP Thamotharam,B Arora,Usman Khan,0,1,,,,1,,"",""
+ball,2,17.3,Malta,B Arora,VP Thamotharam,Usman Khan,0,0,,,,,,"",""
+ball,2,17.4,Malta,B Arora,VP Thamotharam,Usman Khan,2,0,,,,,,"",""
+ball,2,17.5,Malta,B Arora,VP Thamotharam,Usman Khan,1,0,,,,,,"",""
+ball,2,17.6,Malta,VP Thamotharam,B Arora,Usman Khan,1,0,,,,,,"",""
+ball,2,18.1,Malta,VP Thamotharam,B Arora,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,18.2,Malta,VP Thamotharam,B Arora,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,18.3,Malta,VP Thamotharam,B Arora,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,18.4,Malta,B Arora,VP Thamotharam,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,18.5,Malta,B Arora,VP Thamotharam,Kamran Ahmadzai,6,0,,,,,,"",""
+ball,2,18.6,Malta,B Arora,VP Thamotharam,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,19.1,Malta,B Arora,VP Thamotharam,Usman Khan,0,0,,,,,,lbw,B Arora
+ball,2,19.2,Malta,Washeem Abbas,VP Thamotharam,Usman Khan,0,1,,,1,,,"",""
+ball,2,19.3,Malta,VP Thamotharam,Washeem Abbas,Usman Khan,2,0,,,,,,"",""
+ball,2,19.4,Malta,VP Thamotharam,Washeem Abbas,Usman Khan,6,0,,,,,,"",""
+ball,2,19.5,Malta,VP Thamotharam,Washeem Abbas,Usman Khan,6,0,,,,,,"",""
+ball,2,19.6,Malta,VP Thamotharam,Washeem Abbas,Usman Khan,0,0,,,,,,"",""

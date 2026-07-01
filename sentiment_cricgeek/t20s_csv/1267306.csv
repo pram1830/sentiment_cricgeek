@@ -1,0 +1,295 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Greece
+info,gender,male
+info,season,2021
+info,date,2021/06/25
+info,event,Sofia Twenty20
+info,match_number,3
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Greece
+info,toss_decision,field
+info,player_of_match,Aslam Mohammad
+info,umpire,I Dimitrov
+info,umpire,Nisarg Shah
+info,winner,Greece
+info,winner_wickets,5
+info,player,Serbia,S Tosic
+info,player,Serbia,WAE Burton
+info,player,Serbia,LA Dunbar
+info,player,Serbia,Apon Mustafizur
+info,player,Serbia,NR Johns-Wickberg
+info,player,Serbia,J Reb
+info,player,Serbia,BJ Davidson
+info,player,Serbia,V Zimonjic
+info,player,Serbia,MR Dorgan
+info,player,Serbia,A Djorovic
+info,player,Serbia,M Sarenac
+info,player,Greece,S Gasteratos
+info,player,Greece,Aslam Mohammad
+info,player,Greece,A Manousis
+info,player,Greece,AS Mehmi
+info,player,Greece,Arsalan Ahmed
+info,player,Greece,Asrar Ahmed
+info,player,Greece,GC Galanis
+info,player,Greece,A Manatos
+info,player,Greece,Syed Amanullah
+info,player,Greece,S Siriotis
+info,player,Greece,T Zotos
+info,registry,people,A Djorovic,677c18f9
+info,registry,people,A Manatos,eebc0141
+info,registry,people,A Manousis,b672e825
+info,registry,people,AS Mehmi,4612619b
+info,registry,people,Apon Mustafizur,1558c83d
+info,registry,people,Arsalan Ahmed,e0febd97
+info,registry,people,Aslam Mohammad,67ae5a56
+info,registry,people,Asrar Ahmed,88251c6c
+info,registry,people,BJ Davidson,5b658677
+info,registry,people,GC Galanis,db218528
+info,registry,people,I Dimitrov,62724040
+info,registry,people,J Reb,880eca04
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,MR Dorgan,842b7388
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,NR Johns-Wickberg,3924b2ee
+info,registry,people,Nisarg Shah,7d1254b0
+info,registry,people,S Gasteratos,11174f6d
+info,registry,people,S Siriotis,ff8b37cb
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,Syed Amanullah,ae4006ad
+info,registry,people,T Zotos,4c4d245a
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,WAE Burton,b0358c6d
+ball,1,0.1,Serbia,S Tosic,WAE Burton,Asrar Ahmed,0,0,,,,,,"",""
+ball,1,0.2,Serbia,S Tosic,WAE Burton,Asrar Ahmed,0,0,,,,,,"",""
+ball,1,0.3,Serbia,S Tosic,WAE Burton,Asrar Ahmed,1,0,,,,,,"",""
+ball,1,0.4,Serbia,WAE Burton,S Tosic,Asrar Ahmed,4,0,,,,,,"",""
+ball,1,0.5,Serbia,WAE Burton,S Tosic,Asrar Ahmed,4,0,,,,,,"",""
+ball,1,0.6,Serbia,WAE Burton,S Tosic,Asrar Ahmed,0,0,,,,,,"",""
+ball,1,1.1,Serbia,S Tosic,WAE Burton,Arsalan Ahmed,0,0,,,,,,"",""
+ball,1,1.2,Serbia,S Tosic,WAE Burton,Arsalan Ahmed,0,0,,,,,,"",""
+ball,1,1.3,Serbia,S Tosic,WAE Burton,Arsalan Ahmed,1,0,,,,,,"",""
+ball,1,1.4,Serbia,WAE Burton,S Tosic,Arsalan Ahmed,4,0,,,,,,"",""
+ball,1,1.5,Serbia,WAE Burton,S Tosic,Arsalan Ahmed,1,0,,,,,,"",""
+ball,1,1.6,Serbia,S Tosic,WAE Burton,Arsalan Ahmed,0,0,,,,,,"",""
+ball,1,2.1,Serbia,WAE Burton,S Tosic,Asrar Ahmed,4,0,,,,,,"",""
+ball,1,2.2,Serbia,WAE Burton,S Tosic,Asrar Ahmed,0,0,,,,,,"",""
+ball,1,2.3,Serbia,WAE Burton,S Tosic,Asrar Ahmed,4,0,,,,,,"",""
+ball,1,2.4,Serbia,WAE Burton,S Tosic,Asrar Ahmed,1,0,,,,,,"",""
+ball,1,2.5,Serbia,S Tosic,WAE Burton,Asrar Ahmed,0,0,,,,,,"",""
+ball,1,2.6,Serbia,S Tosic,WAE Burton,Asrar Ahmed,0,0,,,,,,"",""
+ball,1,3.1,Serbia,WAE Burton,S Tosic,S Gasteratos,0,4,,,,4,,"",""
+ball,1,3.2,Serbia,WAE Burton,S Tosic,S Gasteratos,0,0,,,,,,run out,WAE Burton
+ball,1,3.3,Serbia,LA Dunbar,S Tosic,S Gasteratos,1,0,,,,,,"",""
+ball,1,3.4,Serbia,S Tosic,LA Dunbar,S Gasteratos,0,1,1,,,,,"",""
+ball,1,3.5,Serbia,S Tosic,LA Dunbar,S Gasteratos,0,0,,,,,,"",""
+ball,1,3.6,Serbia,S Tosic,LA Dunbar,S Gasteratos,1,0,,,,,,"",""
+ball,1,3.7,Serbia,LA Dunbar,S Tosic,S Gasteratos,1,0,,,,,,"",""
+ball,1,4.1,Serbia,LA Dunbar,S Tosic,Asrar Ahmed,1,0,,,,,,"",""
+ball,1,4.2,Serbia,S Tosic,LA Dunbar,Asrar Ahmed,1,0,,,,,,"",""
+ball,1,4.3,Serbia,LA Dunbar,S Tosic,Asrar Ahmed,0,0,,,,,,"",""
+ball,1,4.4,Serbia,LA Dunbar,S Tosic,Asrar Ahmed,6,0,,,,,,"",""
+ball,1,4.5,Serbia,LA Dunbar,S Tosic,Asrar Ahmed,6,0,,,,,,"",""
+ball,1,4.6,Serbia,LA Dunbar,S Tosic,Asrar Ahmed,0,5,5,,,,,"",""
+ball,1,4.7,Serbia,LA Dunbar,S Tosic,Asrar Ahmed,1,0,,,,,,"",""
+ball,1,5.1,Serbia,LA Dunbar,S Tosic,S Gasteratos,0,0,,,,,,"",""
+ball,1,5.2,Serbia,LA Dunbar,S Tosic,S Gasteratos,0,0,,,,,,"",""
+ball,1,5.3,Serbia,LA Dunbar,S Tosic,S Gasteratos,0,0,,,,,,bowled,LA Dunbar
+ball,1,5.4,Serbia,Apon Mustafizur,S Tosic,S Gasteratos,0,0,,,,,,"",""
+ball,1,5.5,Serbia,Apon Mustafizur,S Tosic,S Gasteratos,0,0,,,,,,"",""
+ball,1,5.6,Serbia,Apon Mustafizur,S Tosic,S Gasteratos,0,0,,,,,,bowled,Apon Mustafizur
+ball,1,6.1,Serbia,S Tosic,NR Johns-Wickberg,GC Galanis,0,0,,,,,,"",""
+ball,1,6.2,Serbia,S Tosic,NR Johns-Wickberg,GC Galanis,0,0,,,,,,"",""
+ball,1,6.3,Serbia,S Tosic,NR Johns-Wickberg,GC Galanis,0,0,,,,,,"",""
+ball,1,6.4,Serbia,S Tosic,NR Johns-Wickberg,GC Galanis,0,0,,,,,,"",""
+ball,1,6.5,Serbia,S Tosic,NR Johns-Wickberg,GC Galanis,0,4,,,,4,,"",""
+ball,1,6.6,Serbia,S Tosic,NR Johns-Wickberg,GC Galanis,0,0,,,,,,"",""
+ball,1,7.1,Serbia,NR Johns-Wickberg,S Tosic,S Gasteratos,0,0,,,,,,"",""
+ball,1,7.2,Serbia,NR Johns-Wickberg,S Tosic,S Gasteratos,0,0,,,,,,"",""
+ball,1,7.3,Serbia,NR Johns-Wickberg,S Tosic,S Gasteratos,1,0,,,,,,"",""
+ball,1,7.4,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,0,0,,,,,,"",""
+ball,1,7.5,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,0,0,,,,,,"",""
+ball,1,7.6,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,0,0,,,,,,"",""
+ball,1,8.1,Serbia,NR Johns-Wickberg,S Tosic,GC Galanis,4,0,,,,,,"",""
+ball,1,8.2,Serbia,NR Johns-Wickberg,S Tosic,GC Galanis,0,0,,,,,,"",""
+ball,1,8.3,Serbia,NR Johns-Wickberg,S Tosic,GC Galanis,4,0,,,,,,"",""
+ball,1,8.4,Serbia,NR Johns-Wickberg,S Tosic,GC Galanis,4,0,,,,,,"",""
+ball,1,8.5,Serbia,NR Johns-Wickberg,S Tosic,GC Galanis,0,1,1,,,,,"",""
+ball,1,8.6,Serbia,NR Johns-Wickberg,S Tosic,GC Galanis,2,0,,,,,,"",""
+ball,1,8.7,Serbia,NR Johns-Wickberg,S Tosic,GC Galanis,0,0,,,,,,"",""
+ball,1,9.1,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,0,0,,,,,,"",""
+ball,1,9.2,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,0,0,,,,,,"",""
+ball,1,9.3,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,0,0,,,,,,"",""
+ball,1,9.4,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,0,1,1,,,,,"",""
+ball,1,9.5,Serbia,S Tosic,NR Johns-Wickberg,S Gasteratos,1,0,,,,,,"",""
+ball,1,9.6,Serbia,NR Johns-Wickberg,S Tosic,S Gasteratos,4,0,,,,,,"",""
+ball,1,9.7,Serbia,NR Johns-Wickberg,S Tosic,S Gasteratos,1,0,,,,,,"",""
+ball,1,10.1,Serbia,NR Johns-Wickberg,S Tosic,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,10.2,Serbia,NR Johns-Wickberg,S Tosic,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,10.3,Serbia,S Tosic,NR Johns-Wickberg,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,10.4,Serbia,NR Johns-Wickberg,S Tosic,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,10.5,Serbia,S Tosic,NR Johns-Wickberg,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,10.6,Serbia,S Tosic,NR Johns-Wickberg,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,11.1,Serbia,NR Johns-Wickberg,S Tosic,T Zotos,1,1,,1,,,,"",""
+ball,1,11.2,Serbia,S Tosic,NR Johns-Wickberg,T Zotos,1,0,,,,,,"",""
+ball,1,11.3,Serbia,NR Johns-Wickberg,S Tosic,T Zotos,1,0,,,,,,"",""
+ball,1,11.4,Serbia,S Tosic,NR Johns-Wickberg,T Zotos,1,0,,,,,,"",""
+ball,1,11.5,Serbia,NR Johns-Wickberg,S Tosic,T Zotos,0,0,,,,,,caught,NR Johns-Wickberg
+ball,1,11.6,Serbia,S Tosic,J Reb,T Zotos,0,0,,,,,,"",""
+ball,1,11.7,Serbia,S Tosic,J Reb,T Zotos,0,0,,,,,,"",""
+ball,1,12.1,Serbia,J Reb,S Tosic,Aslam Mohammad,4,0,,,,,,"",""
+ball,1,12.2,Serbia,J Reb,S Tosic,Aslam Mohammad,0,1,,,1,,,"",""
+ball,1,12.3,Serbia,S Tosic,J Reb,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,12.4,Serbia,S Tosic,J Reb,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,12.5,Serbia,J Reb,S Tosic,Aslam Mohammad,0,1,,,1,,,"",""
+ball,1,12.6,Serbia,S Tosic,J Reb,Aslam Mohammad,4,0,,,,,,"",""
+ball,1,13.1,Serbia,J Reb,S Tosic,T Zotos,0,0,,,,,,"",""
+ball,1,13.2,Serbia,J Reb,S Tosic,T Zotos,0,1,,,,1,,"",""
+ball,1,13.3,Serbia,S Tosic,J Reb,T Zotos,0,1,1,,,,,"",""
+ball,1,13.4,Serbia,S Tosic,J Reb,T Zotos,2,0,,,,,,"",""
+ball,1,13.5,Serbia,S Tosic,J Reb,T Zotos,0,0,,,,,,"",""
+ball,1,13.6,Serbia,S Tosic,J Reb,T Zotos,0,0,,,,,,"",""
+ball,1,13.7,Serbia,S Tosic,J Reb,T Zotos,0,0,,,,,,"",""
+ball,1,14.1,Serbia,J Reb,S Tosic,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,14.2,Serbia,S Tosic,J Reb,Aslam Mohammad,0,0,,,,,,caught and bowled,S Tosic
+ball,1,14.3,Serbia,BJ Davidson,J Reb,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,14.4,Serbia,BJ Davidson,J Reb,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,14.5,Serbia,J Reb,BJ Davidson,Aslam Mohammad,6,0,,,,,,"",""
+ball,1,14.6,Serbia,J Reb,BJ Davidson,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,15.1,Serbia,BJ Davidson,J Reb,T Zotos,0,0,,,,,,"",""
+ball,1,15.2,Serbia,BJ Davidson,J Reb,T Zotos,0,1,,1,,,,"",""
+ball,1,15.3,Serbia,BJ Davidson,J Reb,T Zotos,0,4,,,,4,,"",""
+ball,1,15.4,Serbia,BJ Davidson,J Reb,T Zotos,0,0,,,,,,"",""
+ball,1,15.5,Serbia,BJ Davidson,J Reb,T Zotos,0,1,1,,,,,"",""
+ball,1,15.6,Serbia,BJ Davidson,J Reb,T Zotos,0,1,1,,,,,"",""
+ball,1,15.7,Serbia,BJ Davidson,J Reb,T Zotos,1,0,,,,,,"",""
+ball,1,15.8,Serbia,J Reb,BJ Davidson,T Zotos,0,0,,,,,,caught,J Reb
+ball,1,15.9,Serbia,BJ Davidson,V Zimonjic,T Zotos,0,1,,1,,,,"",""
+ball,1,15.10,Serbia,BJ Davidson,V Zimonjic,T Zotos,1,0,,,,,,"",""
+ball,1,16.1,Serbia,BJ Davidson,V Zimonjic,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,16.2,Serbia,BJ Davidson,V Zimonjic,Aslam Mohammad,0,0,,,,,,caught,BJ Davidson
+ball,1,16.3,Serbia,MR Dorgan,V Zimonjic,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,16.4,Serbia,MR Dorgan,V Zimonjic,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,16.5,Serbia,V Zimonjic,MR Dorgan,Aslam Mohammad,0,0,,,,,,"",""
+ball,1,16.6,Serbia,V Zimonjic,MR Dorgan,Aslam Mohammad,1,0,,,,,,"",""
+ball,1,17.1,Serbia,V Zimonjic,MR Dorgan,AS Mehmi,1,0,,,,,,"",""
+ball,1,17.2,Serbia,MR Dorgan,V Zimonjic,AS Mehmi,0,0,,,,,,"",""
+ball,1,17.3,Serbia,MR Dorgan,V Zimonjic,AS Mehmi,0,0,,,,,,"",""
+ball,1,17.4,Serbia,MR Dorgan,V Zimonjic,AS Mehmi,2,0,,,,,,"",""
+ball,1,17.5,Serbia,MR Dorgan,V Zimonjic,AS Mehmi,1,0,,,,,,"",""
+ball,1,17.6,Serbia,V Zimonjic,MR Dorgan,AS Mehmi,0,1,1,,,,,"",""
+ball,1,17.7,Serbia,V Zimonjic,MR Dorgan,AS Mehmi,1,0,,,,,,"",""
+ball,1,18.1,Serbia,V Zimonjic,MR Dorgan,Syed Amanullah,0,1,1,,,,,"",""
+ball,1,18.2,Serbia,V Zimonjic,MR Dorgan,Syed Amanullah,0,0,,,,,,"",""
+ball,1,18.3,Serbia,V Zimonjic,MR Dorgan,Syed Amanullah,0,1,1,,,,,"",""
+ball,1,18.4,Serbia,V Zimonjic,MR Dorgan,Syed Amanullah,6,0,,,,,,"",""
+ball,1,18.5,Serbia,V Zimonjic,MR Dorgan,Syed Amanullah,1,0,,,,,,"",""
+ball,1,18.6,Serbia,MR Dorgan,V Zimonjic,Syed Amanullah,0,0,,,,,,"",""
+ball,1,18.7,Serbia,MR Dorgan,V Zimonjic,Syed Amanullah,0,0,,,,,,"",""
+ball,1,18.8,Serbia,MR Dorgan,V Zimonjic,Syed Amanullah,0,0,,,,,,caught,MR Dorgan
+ball,1,19.1,Serbia,V Zimonjic,A Djorovic,AS Mehmi,4,0,,,,,,"",""
+ball,1,19.2,Serbia,V Zimonjic,A Djorovic,AS Mehmi,1,0,,,,,,run out,V Zimonjic
+ball,1,19.3,Serbia,M Sarenac,A Djorovic,AS Mehmi,1,0,,,,,,"",""
+ball,1,19.4,Serbia,A Djorovic,M Sarenac,AS Mehmi,0,0,,,,,,"",""
+ball,1,19.5,Serbia,A Djorovic,M Sarenac,AS Mehmi,1,0,,,,,,"",""
+ball,1,19.6,Serbia,M Sarenac,A Djorovic,AS Mehmi,0,0,,,,,,bowled,M Sarenac
+ball,2,0.1,Greece,S Gasteratos,Aslam Mohammad,A Djorovic,0,0,,,,,,"",""
+ball,2,0.2,Greece,S Gasteratos,Aslam Mohammad,A Djorovic,0,0,,,,,,"",""
+ball,2,0.3,Greece,S Gasteratos,Aslam Mohammad,A Djorovic,1,0,,,,,,"",""
+ball,2,0.4,Greece,Aslam Mohammad,S Gasteratos,A Djorovic,4,0,,,,,,"",""
+ball,2,0.5,Greece,Aslam Mohammad,S Gasteratos,A Djorovic,0,0,,,,,,"",""
+ball,2,0.6,Greece,Aslam Mohammad,S Gasteratos,A Djorovic,0,0,,,,,,"",""
+ball,2,1.1,Greece,S Gasteratos,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,1.2,Greece,S Gasteratos,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,1.3,Greece,S Gasteratos,Aslam Mohammad,V Zimonjic,1,0,,,,,,"",""
+ball,2,1.4,Greece,Aslam Mohammad,S Gasteratos,V Zimonjic,0,0,,,,,,"",""
+ball,2,1.5,Greece,Aslam Mohammad,S Gasteratos,V Zimonjic,0,0,,,,,,run out,S Gasteratos
+ball,2,1.6,Greece,Aslam Mohammad,A Manousis,V Zimonjic,0,0,,,,,,"",""
+ball,2,2.1,Greece,A Manousis,Aslam Mohammad,J Reb,1,1,,1,,,,"",""
+ball,2,2.2,Greece,Aslam Mohammad,A Manousis,J Reb,6,0,,,,,,"",""
+ball,2,2.3,Greece,Aslam Mohammad,A Manousis,J Reb,6,0,,,,,,"",""
+ball,2,2.4,Greece,Aslam Mohammad,A Manousis,J Reb,1,0,,,,,,"",""
+ball,2,2.5,Greece,A Manousis,Aslam Mohammad,J Reb,4,0,,,,,,"",""
+ball,2,2.6,Greece,A Manousis,Aslam Mohammad,J Reb,1,0,,,,,,"",""
+ball,2,2.7,Greece,Aslam Mohammad,A Manousis,J Reb,0,0,,,,,,"",""
+ball,2,3.1,Greece,A Manousis,Aslam Mohammad,V Zimonjic,4,0,,,,,,"",""
+ball,2,3.2,Greece,A Manousis,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,3.3,Greece,A Manousis,Aslam Mohammad,V Zimonjic,1,0,,,,,,"",""
+ball,2,3.4,Greece,Aslam Mohammad,A Manousis,V Zimonjic,6,0,,,,,,"",""
+ball,2,3.5,Greece,Aslam Mohammad,A Manousis,V Zimonjic,1,0,,,,,,"",""
+ball,2,3.6,Greece,A Manousis,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,4.1,Greece,Aslam Mohammad,A Manousis,J Reb,4,0,,,,,,"",""
+ball,2,4.2,Greece,Aslam Mohammad,A Manousis,J Reb,0,1,1,,,,,"",""
+ball,2,4.3,Greece,Aslam Mohammad,A Manousis,J Reb,0,0,,,,,,"",""
+ball,2,4.4,Greece,Aslam Mohammad,A Manousis,J Reb,6,0,,,,,,"",""
+ball,2,4.5,Greece,Aslam Mohammad,A Manousis,J Reb,4,0,,,,,,"",""
+ball,2,4.6,Greece,Aslam Mohammad,A Manousis,J Reb,0,0,,,,,,"",""
+ball,2,4.7,Greece,Aslam Mohammad,A Manousis,J Reb,6,0,,,,,,"",""
+ball,2,5.1,Greece,A Manousis,Aslam Mohammad,V Zimonjic,0,0,,,,,,caught,A Manousis
+ball,2,5.2,Greece,AS Mehmi,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,5.3,Greece,AS Mehmi,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,5.4,Greece,AS Mehmi,Aslam Mohammad,V Zimonjic,0,0,,,,,,lbw,AS Mehmi
+ball,2,5.5,Greece,Arsalan Ahmed,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,5.6,Greece,Arsalan Ahmed,Aslam Mohammad,V Zimonjic,0,0,,,,,,"",""
+ball,2,6.1,Greece,Aslam Mohammad,Arsalan Ahmed,WAE Burton,0,1,1,,,,,"",""
+ball,2,6.2,Greece,Aslam Mohammad,Arsalan Ahmed,WAE Burton,4,0,,,,,,"",""
+ball,2,6.3,Greece,Aslam Mohammad,Arsalan Ahmed,WAE Burton,4,0,,,,,,"",""
+ball,2,6.4,Greece,Aslam Mohammad,Arsalan Ahmed,WAE Burton,0,2,,,2,,,"",""
+ball,2,6.5,Greece,Aslam Mohammad,Arsalan Ahmed,WAE Burton,1,0,,,,,,"",""
+ball,2,6.6,Greece,Arsalan Ahmed,Aslam Mohammad,WAE Burton,0,0,,,,,,"",""
+ball,2,6.7,Greece,Arsalan Ahmed,Aslam Mohammad,WAE Burton,2,0,,,,,,"",""
+ball,2,7.1,Greece,Aslam Mohammad,Arsalan Ahmed,M Sarenac,0,0,,,,,,"",""
+ball,2,7.2,Greece,Aslam Mohammad,Arsalan Ahmed,M Sarenac,0,1,1,,,,,"",""
+ball,2,7.3,Greece,Aslam Mohammad,Arsalan Ahmed,M Sarenac,1,0,,,,,,"",""
+ball,2,7.4,Greece,Arsalan Ahmed,Aslam Mohammad,M Sarenac,0,1,1,,,,,"",""
+ball,2,7.5,Greece,Arsalan Ahmed,Aslam Mohammad,M Sarenac,4,0,,,,,,"",""
+ball,2,7.6,Greece,Arsalan Ahmed,Aslam Mohammad,M Sarenac,1,0,,,,,,"",""
+ball,2,7.7,Greece,Aslam Mohammad,Arsalan Ahmed,M Sarenac,0,0,,,,,,lbw,Aslam Mohammad
+ball,2,7.8,Greece,Asrar Ahmed,Arsalan Ahmed,M Sarenac,1,0,,,,,,"",""
+ball,2,8.1,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,4,0,,,,,,"",""
+ball,2,8.2,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,1,1,,,,,"",""
+ball,2,8.3,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,4,0,,,,,,"",""
+ball,2,8.4,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,0,,,,,,"",""
+ball,2,8.5,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,0,,,,,,"",""
+ball,2,8.6,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,1,0,,,,,,"",""
+ball,2,8.7,Greece,Arsalan Ahmed,Asrar Ahmed,WAE Burton,1,0,,,,,,"",""
+ball,2,9.1,Greece,Arsalan Ahmed,Asrar Ahmed,A Djorovic,0,0,,,,,,"",""
+ball,2,9.2,Greece,Arsalan Ahmed,Asrar Ahmed,A Djorovic,0,0,,,,,,"",""
+ball,2,9.3,Greece,Arsalan Ahmed,Asrar Ahmed,A Djorovic,4,0,,,,,,"",""
+ball,2,9.4,Greece,Arsalan Ahmed,Asrar Ahmed,A Djorovic,0,5,5,,,,,"",""
+ball,2,9.5,Greece,Arsalan Ahmed,Asrar Ahmed,A Djorovic,1,0,,,,,,"",""
+ball,2,9.6,Greece,Asrar Ahmed,Arsalan Ahmed,A Djorovic,0,0,,,,,,"",""
+ball,2,9.7,Greece,Asrar Ahmed,Arsalan Ahmed,A Djorovic,1,0,,,,,,"",""
+ball,2,10.1,Greece,Asrar Ahmed,Arsalan Ahmed,M Sarenac,0,0,,,,,,"",""
+ball,2,10.2,Greece,Asrar Ahmed,Arsalan Ahmed,M Sarenac,1,0,,,,,,"",""
+ball,2,10.3,Greece,Arsalan Ahmed,Asrar Ahmed,M Sarenac,0,1,1,,,,,"",""
+ball,2,10.4,Greece,Arsalan Ahmed,Asrar Ahmed,M Sarenac,1,0,,,,,,"",""
+ball,2,10.5,Greece,Asrar Ahmed,Arsalan Ahmed,M Sarenac,1,0,,,,,,"",""
+ball,2,10.6,Greece,Arsalan Ahmed,Asrar Ahmed,M Sarenac,4,0,,,,,,"",""
+ball,2,10.7,Greece,Arsalan Ahmed,Asrar Ahmed,M Sarenac,0,0,,,,,,"",""
+ball,2,11.1,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,0,,,,,,"",""
+ball,2,11.2,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,0,,,,,,"",""
+ball,2,11.3,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,4,0,,,,,,"",""
+ball,2,11.4,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,0,,,,,,"",""
+ball,2,11.5,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,0,,,,,,"",""
+ball,2,11.6,Greece,Asrar Ahmed,Arsalan Ahmed,WAE Burton,0,0,,,,,,"",""
+ball,2,12.1,Greece,Arsalan Ahmed,Asrar Ahmed,MR Dorgan,4,0,,,,,,"",""
+ball,2,12.2,Greece,Arsalan Ahmed,Asrar Ahmed,MR Dorgan,0,1,1,,,,,"",""
+ball,2,12.3,Greece,Arsalan Ahmed,Asrar Ahmed,MR Dorgan,0,0,,,,,,bowled,Arsalan Ahmed
+ball,2,12.4,Greece,GC Galanis,Asrar Ahmed,MR Dorgan,4,0,,,,,,"",""
+ball,2,12.5,Greece,GC Galanis,Asrar Ahmed,MR Dorgan,1,0,,,,,,"",""
+ball,2,12.6,Greece,Asrar Ahmed,GC Galanis,MR Dorgan,0,0,,,,,,"",""
+ball,2,12.7,Greece,Asrar Ahmed,GC Galanis,MR Dorgan,0,2,2,,,,,"",""
+ball,2,12.8,Greece,GC Galanis,Asrar Ahmed,MR Dorgan,1,0,,,,,,"",""
+ball,2,13.1,Greece,GC Galanis,Asrar Ahmed,V Zimonjic,6,0,,,,,,"",""
+ball,2,13.2,Greece,GC Galanis,Asrar Ahmed,V Zimonjic,0,0,,,,,,"",""
+ball,2,13.3,Greece,GC Galanis,Asrar Ahmed,V Zimonjic,6,0,,,,,,"",""
+ball,2,13.4,Greece,GC Galanis,Asrar Ahmed,V Zimonjic,1,0,,,,,,"",""
+ball,2,13.5,Greece,Asrar Ahmed,GC Galanis,V Zimonjic,0,0,,,,,,"",""
+ball,2,13.6,Greece,Asrar Ahmed,GC Galanis,V Zimonjic,1,0,,,,,,"",""
+ball,2,14.1,Greece,Asrar Ahmed,GC Galanis,A Djorovic,0,0,,,,,,"",""
+ball,2,14.2,Greece,Asrar Ahmed,GC Galanis,A Djorovic,0,0,,,,,,"",""
+ball,2,14.3,Greece,Asrar Ahmed,GC Galanis,A Djorovic,4,0,,,,,,"",""

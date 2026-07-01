@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Germany
+info,gender,male
+info,season,2021/22
+info,date,2021/10/15
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,1
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,H Carlyon
+info,umpire,DA Haggo
+info,umpire,HE Kearns
+info,reserve_umpire,N Bathi
+info,match_referee,G McCrea
+info,winner,Jersey
+info,winner_runs,4
+info,player,Jersey,H Carlyon
+info,player,Jersey,NJ Ferraby
+info,player,Jersey,ZM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,AM Tribe
+info,player,Jersey,B Ward
+info,player,Jersey,J Sumerauer
+info,player,Jersey,DG Blampied
+info,player,Jersey,JE Dunford
+info,player,Jersey,EJB Miles
+info,player,Jersey,CW Perchard
+info,player,Germany,VB Chikkannaiah
+info,player,Germany,Talha Khan
+info,player,Germany,MJ Richardson
+info,player,Germany,Faisal Mubashir
+info,player,Germany,DA Blignaut
+info,player,Germany,H Singh
+info,player,Germany,D Klein
+info,player,Germany,SVE Bharathi
+info,player,Germany,Ghulam Ahmadi
+info,player,Germany,V Ganesan
+info,player,Germany,Sahir Naqash
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,B Ward,9e0bd203
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Klein,aeab0d4f
+info,registry,people,DA Blignaut,cfcf189f
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,Faisal Mubashir,ad5342dc
+info,registry,people,G McCrea,46f4a901
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,H Singh,8209da53
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,MJ Richardson,22176fe7
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NJ Ferraby,c149b9ca
+info,registry,people,SVE Bharathi,6a63c29c
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,Talha Khan,8e5a1a7a
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,VB Chikkannaiah,8e81b773
+info,registry,people,ZM Tribe,96fe3e9f
+ball,1,0.1,Jersey,H Carlyon,NJ Ferraby,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,0.2,Jersey,H Carlyon,NJ Ferraby,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,0.3,Jersey,H Carlyon,NJ Ferraby,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,0.4,Jersey,NJ Ferraby,H Carlyon,Ghulam Ahmadi,4,0,,,,,,"",""
+ball,1,0.5,Jersey,NJ Ferraby,H Carlyon,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,0.6,Jersey,NJ Ferraby,H Carlyon,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.1,Jersey,H Carlyon,NJ Ferraby,D Klein,0,0,,,,,,"",""
+ball,1,1.2,Jersey,H Carlyon,NJ Ferraby,D Klein,0,0,,,,,,"",""
+ball,1,1.3,Jersey,H Carlyon,NJ Ferraby,D Klein,1,0,,,,,,"",""
+ball,1,1.4,Jersey,NJ Ferraby,H Carlyon,D Klein,0,0,,,,,,"",""
+ball,1,1.5,Jersey,NJ Ferraby,H Carlyon,D Klein,0,0,,,,,,"",""
+ball,1,1.6,Jersey,NJ Ferraby,H Carlyon,D Klein,1,0,,,,,,"",""
+ball,1,2.1,Jersey,NJ Ferraby,H Carlyon,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,2.2,Jersey,NJ Ferraby,H Carlyon,Ghulam Ahmadi,0,0,,,,,,caught,NJ Ferraby
+ball,1,2.3,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,2.4,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,2.5,Jersey,ZM Tribe,H Carlyon,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,2.6,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,3.1,Jersey,H Carlyon,ZM Tribe,D Klein,4,0,,,,,,"",""
+ball,1,3.2,Jersey,H Carlyon,ZM Tribe,D Klein,4,0,,,,,,"",""
+ball,1,3.3,Jersey,H Carlyon,ZM Tribe,D Klein,0,0,,,,,,"",""
+ball,1,3.4,Jersey,H Carlyon,ZM Tribe,D Klein,1,0,,,,,,"",""
+ball,1,3.5,Jersey,ZM Tribe,H Carlyon,D Klein,1,0,,,,,,"",""
+ball,1,3.6,Jersey,H Carlyon,ZM Tribe,D Klein,1,0,,,,,,"",""
+ball,1,4.1,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,4.2,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,4,0,,,,,,"",""
+ball,1,4.3,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,4.4,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,4,0,,,,,,"",""
+ball,1,4.5,Jersey,H Carlyon,ZM Tribe,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,4.6,Jersey,ZM Tribe,H Carlyon,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,5.1,Jersey,ZM Tribe,H Carlyon,DA Blignaut,0,1,1,,,,,"",""
+ball,1,5.2,Jersey,ZM Tribe,H Carlyon,DA Blignaut,0,0,,,,,,"",""
+ball,1,5.3,Jersey,ZM Tribe,H Carlyon,DA Blignaut,1,0,,,,,,"",""
+ball,1,5.4,Jersey,H Carlyon,ZM Tribe,DA Blignaut,1,0,,,,,,"",""
+ball,1,5.5,Jersey,ZM Tribe,H Carlyon,DA Blignaut,0,0,,,,,,"",""
+ball,1,5.6,Jersey,ZM Tribe,H Carlyon,DA Blignaut,0,0,,,,,,"",""
+ball,1,5.7,Jersey,ZM Tribe,H Carlyon,DA Blignaut,0,1,1,,,,,"",""
+ball,1,5.8,Jersey,ZM Tribe,H Carlyon,DA Blignaut,0,0,,,,,,"",""
+ball,1,6.1,Jersey,H Carlyon,ZM Tribe,V Ganesan,1,0,,,,,,"",""
+ball,1,6.2,Jersey,ZM Tribe,H Carlyon,V Ganesan,1,0,,,,,,"",""
+ball,1,6.3,Jersey,H Carlyon,ZM Tribe,V Ganesan,0,0,,,,,,"",""
+ball,1,6.4,Jersey,H Carlyon,ZM Tribe,V Ganesan,1,0,,,,,,"",""
+ball,1,6.5,Jersey,ZM Tribe,H Carlyon,V Ganesan,4,0,,,,,,"",""
+ball,1,6.6,Jersey,ZM Tribe,H Carlyon,V Ganesan,2,0,,,,,,"",""
+ball,1,7.1,Jersey,H Carlyon,ZM Tribe,DA Blignaut,0,0,,,,,,"",""
+ball,1,7.2,Jersey,H Carlyon,ZM Tribe,DA Blignaut,0,0,,,,,,"",""
+ball,1,7.3,Jersey,H Carlyon,ZM Tribe,DA Blignaut,0,0,,,,,,"",""
+ball,1,7.4,Jersey,H Carlyon,ZM Tribe,DA Blignaut,1,0,,,,,,"",""
+ball,1,7.5,Jersey,ZM Tribe,H Carlyon,DA Blignaut,1,0,,,,,,"",""
+ball,1,7.6,Jersey,H Carlyon,ZM Tribe,DA Blignaut,4,0,,,,,,"",""
+ball,1,8.1,Jersey,ZM Tribe,H Carlyon,SVE Bharathi,1,0,,,,,,"",""
+ball,1,8.2,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,0,0,,,,,,"",""
+ball,1,8.3,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,6,0,,,,,,"",""
+ball,1,8.4,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,0,0,,,,,,"",""
+ball,1,8.5,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,0,0,,,,,,"",""
+ball,1,8.6,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,1,0,,,,,,"",""
+ball,1,9.1,Jersey,H Carlyon,ZM Tribe,V Ganesan,0,0,,,,,,"",""
+ball,1,9.2,Jersey,H Carlyon,ZM Tribe,V Ganesan,0,0,,,,,,"",""
+ball,1,9.3,Jersey,H Carlyon,ZM Tribe,V Ganesan,6,0,,,,,,"",""
+ball,1,9.4,Jersey,H Carlyon,ZM Tribe,V Ganesan,1,0,,,,,,"",""
+ball,1,9.5,Jersey,ZM Tribe,H Carlyon,V Ganesan,1,0,,,,,,"",""
+ball,1,9.6,Jersey,H Carlyon,ZM Tribe,V Ganesan,1,0,,,,,,"",""
+ball,1,10.1,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,1,0,,,,,,"",""
+ball,1,10.2,Jersey,ZM Tribe,H Carlyon,SVE Bharathi,2,0,,,,,,"",""
+ball,1,10.3,Jersey,ZM Tribe,H Carlyon,SVE Bharathi,1,0,,,,,,"",""
+ball,1,10.4,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,1,0,,,,,,"",""
+ball,1,10.5,Jersey,ZM Tribe,H Carlyon,SVE Bharathi,1,0,,,,,,"",""
+ball,1,10.6,Jersey,H Carlyon,ZM Tribe,SVE Bharathi,1,0,,,,,,"",""
+ball,1,11.1,Jersey,H Carlyon,ZM Tribe,Sahir Naqash,0,0,,,,,,"",""
+ball,1,11.2,Jersey,H Carlyon,ZM Tribe,Sahir Naqash,1,0,,,,,,"",""
+ball,1,11.3,Jersey,ZM Tribe,H Carlyon,Sahir Naqash,0,0,,,,,,caught and bowled,ZM Tribe
+ball,1,11.4,Jersey,JW Jenner,H Carlyon,Sahir Naqash,1,0,,,,,,"",""
+ball,1,11.5,Jersey,H Carlyon,JW Jenner,Sahir Naqash,0,0,,,,,,bowled,H Carlyon
+ball,1,11.6,Jersey,AM Tribe,JW Jenner,Sahir Naqash,1,0,,,,,,"",""
+ball,1,12.1,Jersey,AM Tribe,JW Jenner,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,12.2,Jersey,JW Jenner,AM Tribe,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,12.3,Jersey,AM Tribe,JW Jenner,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,12.4,Jersey,JW Jenner,AM Tribe,Ghulam Ahmadi,2,0,,,,,,"",""
+ball,1,12.5,Jersey,JW Jenner,AM Tribe,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,12.6,Jersey,AM Tribe,JW Jenner,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,13.1,Jersey,JW Jenner,AM Tribe,Sahir Naqash,1,0,,,,,,"",""
+ball,1,13.2,Jersey,AM Tribe,JW Jenner,Sahir Naqash,1,0,,,,,,"",""
+ball,1,13.3,Jersey,JW Jenner,AM Tribe,Sahir Naqash,2,0,,,,,,"",""
+ball,1,13.4,Jersey,JW Jenner,AM Tribe,Sahir Naqash,4,0,,,,,,"",""
+ball,1,13.5,Jersey,JW Jenner,AM Tribe,Sahir Naqash,1,0,,,,,,"",""
+ball,1,13.6,Jersey,AM Tribe,JW Jenner,Sahir Naqash,1,0,,,,,,"",""
+ball,1,14.1,Jersey,AM Tribe,JW Jenner,DA Blignaut,0,0,,,,,,run out,AM Tribe
+ball,1,14.2,Jersey,JW Jenner,B Ward,DA Blignaut,0,0,,,,,,"",""
+ball,1,14.3,Jersey,JW Jenner,B Ward,DA Blignaut,0,1,1,,,,,"",""
+ball,1,14.4,Jersey,JW Jenner,B Ward,DA Blignaut,1,0,,,,,,"",""
+ball,1,14.5,Jersey,B Ward,JW Jenner,DA Blignaut,0,0,,,,,,"",""
+ball,1,14.6,Jersey,B Ward,JW Jenner,DA Blignaut,0,0,,,,,,"",""
+ball,1,14.7,Jersey,B Ward,JW Jenner,DA Blignaut,1,0,,,,,,"",""
+ball,1,15.1,Jersey,B Ward,JW Jenner,Sahir Naqash,1,0,,,,,,"",""
+ball,1,15.2,Jersey,JW Jenner,B Ward,Sahir Naqash,2,0,,,,,,"",""
+ball,1,15.3,Jersey,JW Jenner,B Ward,Sahir Naqash,1,0,,,,,,"",""
+ball,1,15.4,Jersey,B Ward,JW Jenner,Sahir Naqash,0,0,,,,,,"",""
+ball,1,15.5,Jersey,B Ward,JW Jenner,Sahir Naqash,4,0,,,,,,"",""
+ball,1,15.6,Jersey,B Ward,JW Jenner,Sahir Naqash,2,0,,,,,,"",""
+ball,1,16.1,Jersey,JW Jenner,B Ward,D Klein,1,0,,,,,,"",""
+ball,1,16.2,Jersey,B Ward,JW Jenner,D Klein,0,1,1,,,,,"",""
+ball,1,16.3,Jersey,B Ward,JW Jenner,D Klein,4,0,,,,,,"",""
+ball,1,16.4,Jersey,B Ward,JW Jenner,D Klein,2,0,,,,,,"",""
+ball,1,16.5,Jersey,B Ward,JW Jenner,D Klein,0,0,,,,,,"",""
+ball,1,16.6,Jersey,B Ward,JW Jenner,D Klein,0,0,,,,,,"",""
+ball,1,16.7,Jersey,B Ward,JW Jenner,D Klein,0,0,,,,,,"",""
+ball,1,17.1,Jersey,JW Jenner,B Ward,Sahir Naqash,4,0,,,,,,"",""
+ball,1,17.2,Jersey,JW Jenner,B Ward,Sahir Naqash,0,1,,,,1,,"",""
+ball,1,17.3,Jersey,B Ward,JW Jenner,Sahir Naqash,1,0,,,,,,run out,B Ward
+ball,1,17.4,Jersey,J Sumerauer,JW Jenner,Sahir Naqash,1,0,,,,,,"",""
+ball,1,17.5,Jersey,JW Jenner,J Sumerauer,Sahir Naqash,0,0,,,,,,caught,JW Jenner
+ball,1,17.6,Jersey,DG Blampied,J Sumerauer,Sahir Naqash,1,0,,,,,,"",""
+ball,1,18.1,Jersey,DG Blampied,J Sumerauer,DA Blignaut,2,0,,,,,,"",""
+ball,1,18.2,Jersey,DG Blampied,J Sumerauer,DA Blignaut,1,0,,,,,,"",""
+ball,1,18.3,Jersey,J Sumerauer,DG Blampied,DA Blignaut,1,0,,,,,,"",""
+ball,1,18.4,Jersey,DG Blampied,J Sumerauer,DA Blignaut,1,0,,,,,,run out,J Sumerauer
+ball,1,18.5,Jersey,DG Blampied,JE Dunford,DA Blignaut,2,0,,,,,,"",""
+ball,1,18.6,Jersey,DG Blampied,JE Dunford,DA Blignaut,1,0,,,,,,"",""
+ball,1,19.1,Jersey,DG Blampied,JE Dunford,D Klein,2,0,,,,,,"",""
+ball,1,19.2,Jersey,DG Blampied,JE Dunford,D Klein,1,0,,,,,,"",""
+ball,1,19.3,Jersey,JE Dunford,DG Blampied,D Klein,0,0,,,,,,"",""
+ball,1,19.4,Jersey,JE Dunford,DG Blampied,D Klein,1,0,,,,,,"",""
+ball,1,19.5,Jersey,DG Blampied,JE Dunford,D Klein,2,0,,,,,,"",""
+ball,1,19.6,Jersey,DG Blampied,JE Dunford,D Klein,0,1,,,1,,,"",""
+ball,2,0.1,Germany,VB Chikkannaiah,Talha Khan,H Carlyon,1,0,,,,,,"",""
+ball,2,0.2,Germany,Talha Khan,VB Chikkannaiah,H Carlyon,1,0,,,,,,"",""
+ball,2,0.3,Germany,VB Chikkannaiah,Talha Khan,H Carlyon,1,0,,,,,,"",""
+ball,2,0.4,Germany,Talha Khan,VB Chikkannaiah,H Carlyon,0,0,,,,,,"",""
+ball,2,0.5,Germany,Talha Khan,VB Chikkannaiah,H Carlyon,0,0,,,,,,"",""
+ball,2,0.6,Germany,Talha Khan,VB Chikkannaiah,H Carlyon,0,0,,,,,,"",""
+ball,2,1.1,Germany,VB Chikkannaiah,Talha Khan,DG Blampied,0,0,,,,,,"",""
+ball,2,1.2,Germany,VB Chikkannaiah,Talha Khan,DG Blampied,0,0,,,,,,"",""
+ball,2,1.3,Germany,VB Chikkannaiah,Talha Khan,DG Blampied,1,0,,,,,,"",""
+ball,2,1.4,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,0,0,,,,,,"",""
+ball,2,1.5,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,0,0,,,,,,"",""
+ball,2,1.6,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,1,0,,,,,,"",""
+ball,2,2.1,Germany,Talha Khan,VB Chikkannaiah,J Sumerauer,2,0,,,,,,"",""
+ball,2,2.2,Germany,Talha Khan,VB Chikkannaiah,J Sumerauer,1,0,,,,,,"",""
+ball,2,2.3,Germany,VB Chikkannaiah,Talha Khan,J Sumerauer,6,0,,,,,,"",""
+ball,2,2.4,Germany,VB Chikkannaiah,Talha Khan,J Sumerauer,3,0,,,,,,"",""
+ball,2,2.5,Germany,Talha Khan,VB Chikkannaiah,J Sumerauer,0,0,,,,,,"",""
+ball,2,2.6,Germany,Talha Khan,VB Chikkannaiah,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.1,Germany,VB Chikkannaiah,Talha Khan,CW Perchard,0,0,,,,,,"",""
+ball,2,3.2,Germany,VB Chikkannaiah,Talha Khan,CW Perchard,2,0,,,,,,"",""
+ball,2,3.3,Germany,VB Chikkannaiah,Talha Khan,CW Perchard,0,0,,,,,,"",""
+ball,2,3.4,Germany,VB Chikkannaiah,Talha Khan,CW Perchard,1,0,,,,,,"",""
+ball,2,3.5,Germany,Talha Khan,VB Chikkannaiah,CW Perchard,4,0,,,,,,"",""
+ball,2,3.6,Germany,Talha Khan,VB Chikkannaiah,CW Perchard,6,0,,,,,,"",""
+ball,2,4.1,Germany,VB Chikkannaiah,Talha Khan,EJB Miles,1,0,,,,,,"",""
+ball,2,4.2,Germany,Talha Khan,VB Chikkannaiah,EJB Miles,4,0,,,,,,"",""
+ball,2,4.3,Germany,Talha Khan,VB Chikkannaiah,EJB Miles,0,0,,,,,,"",""
+ball,2,4.4,Germany,Talha Khan,VB Chikkannaiah,EJB Miles,1,0,,,,,,"",""
+ball,2,4.5,Germany,VB Chikkannaiah,Talha Khan,EJB Miles,0,5,5,,,,,"",""
+ball,2,4.6,Germany,VB Chikkannaiah,Talha Khan,EJB Miles,0,1,1,,,,,"",""
+ball,2,4.7,Germany,VB Chikkannaiah,Talha Khan,EJB Miles,0,0,,,,,,"",""
+ball,2,4.8,Germany,VB Chikkannaiah,Talha Khan,EJB Miles,0,0,,,,,,"",""
+ball,2,5.1,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,0,0,,,,,,"",""
+ball,2,5.2,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,6,0,,,,,,"",""
+ball,2,5.3,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,2,0,,,,,,"",""
+ball,2,5.4,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,0,0,,,,,,"",""
+ball,2,5.5,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,0,0,,,,,,"",""
+ball,2,5.6,Germany,Talha Khan,VB Chikkannaiah,DG Blampied,0,0,,,,,,"",""
+ball,2,6.1,Germany,VB Chikkannaiah,Talha Khan,B Ward,1,0,,,,,,"",""
+ball,2,6.2,Germany,Talha Khan,VB Chikkannaiah,B Ward,0,0,,,,,,"",""
+ball,2,6.3,Germany,Talha Khan,VB Chikkannaiah,B Ward,1,0,,,,,,"",""
+ball,2,6.4,Germany,VB Chikkannaiah,Talha Khan,B Ward,0,0,,,,,,"",""
+ball,2,6.5,Germany,VB Chikkannaiah,Talha Khan,B Ward,0,0,,,,,,"",""
+ball,2,6.6,Germany,VB Chikkannaiah,Talha Khan,B Ward,1,0,,,,,,"",""
+ball,2,7.1,Germany,VB Chikkannaiah,Talha Khan,H Carlyon,0,0,,,,,,"",""
+ball,2,7.2,Germany,VB Chikkannaiah,Talha Khan,H Carlyon,2,0,,,,,,"",""
+ball,2,7.3,Germany,VB Chikkannaiah,Talha Khan,H Carlyon,1,0,,,,,,"",""
+ball,2,7.4,Germany,Talha Khan,VB Chikkannaiah,H Carlyon,1,0,,,,,,"",""
+ball,2,7.5,Germany,VB Chikkannaiah,Talha Khan,H Carlyon,0,0,,,,,,stumped,VB Chikkannaiah
+ball,2,7.6,Germany,MJ Richardson,Talha Khan,H Carlyon,0,0,,,,,,"",""
+ball,2,8.1,Germany,Talha Khan,MJ Richardson,B Ward,1,0,,,,,,"",""
+ball,2,8.2,Germany,MJ Richardson,Talha Khan,B Ward,1,0,,,,,,"",""
+ball,2,8.3,Germany,Talha Khan,MJ Richardson,B Ward,1,0,,,,,,"",""
+ball,2,8.4,Germany,MJ Richardson,Talha Khan,B Ward,0,1,,,1,,,"",""
+ball,2,8.5,Germany,Talha Khan,MJ Richardson,B Ward,0,0,,,,,,run out,Talha Khan
+ball,2,8.6,Germany,MJ Richardson,Faisal Mubashir,B Ward,1,0,,,,,,"",""
+ball,2,9.1,Germany,MJ Richardson,Faisal Mubashir,H Carlyon,0,0,,,,,,"",""
+ball,2,9.2,Germany,MJ Richardson,Faisal Mubashir,H Carlyon,4,0,,,,,,"",""
+ball,2,9.3,Germany,MJ Richardson,Faisal Mubashir,H Carlyon,2,0,,,,,,"",""
+ball,2,9.4,Germany,MJ Richardson,Faisal Mubashir,H Carlyon,0,2,,,,2,,"",""
+ball,2,9.5,Germany,MJ Richardson,Faisal Mubashir,H Carlyon,1,0,,,,,,"",""
+ball,2,9.6,Germany,Faisal Mubashir,MJ Richardson,H Carlyon,1,0,,,,,,"",""
+ball,2,10.1,Germany,Faisal Mubashir,MJ Richardson,EJB Miles,1,0,,,,,,"",""
+ball,2,10.2,Germany,MJ Richardson,Faisal Mubashir,EJB Miles,0,0,,,,,,"",""
+ball,2,10.3,Germany,MJ Richardson,Faisal Mubashir,EJB Miles,1,0,,,,,,"",""
+ball,2,10.4,Germany,Faisal Mubashir,MJ Richardson,EJB Miles,2,0,,,,,,"",""
+ball,2,10.5,Germany,Faisal Mubashir,MJ Richardson,EJB Miles,0,0,,,,,,"",""
+ball,2,10.6,Germany,Faisal Mubashir,MJ Richardson,EJB Miles,1,0,,,,,,"",""
+ball,2,11.1,Germany,Faisal Mubashir,MJ Richardson,B Ward,1,0,,,,,,"",""
+ball,2,11.2,Germany,MJ Richardson,Faisal Mubashir,B Ward,1,0,,,,,,"",""
+ball,2,11.3,Germany,Faisal Mubashir,MJ Richardson,B Ward,0,0,,,,,,"",""
+ball,2,11.4,Germany,Faisal Mubashir,MJ Richardson,B Ward,0,0,,,,,,"",""
+ball,2,11.5,Germany,Faisal Mubashir,MJ Richardson,B Ward,1,0,,,,,,"",""
+ball,2,11.6,Germany,MJ Richardson,Faisal Mubashir,B Ward,0,0,,,,,,"",""
+ball,2,12.1,Germany,Faisal Mubashir,MJ Richardson,CW Perchard,0,0,,,,,,"",""
+ball,2,12.2,Germany,Faisal Mubashir,MJ Richardson,CW Perchard,1,0,,,,,,"",""
+ball,2,12.3,Germany,MJ Richardson,Faisal Mubashir,CW Perchard,2,0,,,,,,"",""
+ball,2,12.4,Germany,MJ Richardson,Faisal Mubashir,CW Perchard,1,0,,,,,,"",""
+ball,2,12.5,Germany,Faisal Mubashir,MJ Richardson,CW Perchard,1,0,,,,,,"",""
+ball,2,12.6,Germany,MJ Richardson,Faisal Mubashir,CW Perchard,1,0,,,,,,"",""
+ball,2,13.1,Germany,MJ Richardson,Faisal Mubashir,DG Blampied,1,0,,,,,,"",""
+ball,2,13.2,Germany,Faisal Mubashir,MJ Richardson,DG Blampied,1,0,,,,,,"",""
+ball,2,13.3,Germany,MJ Richardson,Faisal Mubashir,DG Blampied,1,0,,,,,,"",""
+ball,2,13.4,Germany,Faisal Mubashir,MJ Richardson,DG Blampied,0,0,,,,,,"",""
+ball,2,13.5,Germany,Faisal Mubashir,MJ Richardson,DG Blampied,1,0,,,,,,"",""
+ball,2,13.6,Germany,MJ Richardson,Faisal Mubashir,DG Blampied,1,0,,,,,,"",""
+ball,2,14.1,Germany,MJ Richardson,Faisal Mubashir,CW Perchard,0,0,,,,,,"",""
+ball,2,14.2,Germany,MJ Richardson,Faisal Mubashir,CW Perchard,0,0,,,,,,bowled,MJ Richardson
+ball,2,14.3,Germany,DA Blignaut,Faisal Mubashir,CW Perchard,0,0,,,,,,"",""
+ball,2,14.4,Germany,DA Blignaut,Faisal Mubashir,CW Perchard,1,0,,,,,,"",""
+ball,2,14.5,Germany,Faisal Mubashir,DA Blignaut,CW Perchard,1,0,,,,,,"",""
+ball,2,14.6,Germany,DA Blignaut,Faisal Mubashir,CW Perchard,0,0,,,,,,bowled,DA Blignaut
+ball,2,15.1,Germany,Faisal Mubashir,H Singh,B Ward,1,0,,,,,,"",""
+ball,2,15.2,Germany,H Singh,Faisal Mubashir,B Ward,1,0,,,,,,"",""
+ball,2,15.3,Germany,Faisal Mubashir,H Singh,B Ward,0,0,,,,,,"",""
+ball,2,15.4,Germany,Faisal Mubashir,H Singh,B Ward,1,0,,,,,,"",""
+ball,2,15.5,Germany,H Singh,Faisal Mubashir,B Ward,1,0,,,,,,"",""
+ball,2,15.6,Germany,Faisal Mubashir,H Singh,B Ward,1,0,,,,,,"",""
+ball,2,16.1,Germany,Faisal Mubashir,H Singh,DG Blampied,0,0,,,,,,"",""
+ball,2,16.2,Germany,Faisal Mubashir,H Singh,DG Blampied,0,0,,,,,,"",""
+ball,2,16.3,Germany,Faisal Mubashir,H Singh,DG Blampied,1,0,,,,,,"",""
+ball,2,16.4,Germany,H Singh,Faisal Mubashir,DG Blampied,4,0,,,,,,"",""
+ball,2,16.5,Germany,H Singh,Faisal Mubashir,DG Blampied,0,0,,,,,,caught,H Singh
+ball,2,16.6,Germany,Faisal Mubashir,D Klein,DG Blampied,1,0,,,,,,"",""
+ball,2,17.1,Germany,Faisal Mubashir,D Klein,EJB Miles,0,1,1,,,,,"",""
+ball,2,17.2,Germany,Faisal Mubashir,D Klein,EJB Miles,1,0,,,,,,"",""
+ball,2,17.3,Germany,D Klein,Faisal Mubashir,EJB Miles,0,0,,,,,,"",""
+ball,2,17.4,Germany,D Klein,Faisal Mubashir,EJB Miles,4,0,,,,,,"",""
+ball,2,17.5,Germany,D Klein,Faisal Mubashir,EJB Miles,1,0,,,,,,"",""
+ball,2,17.6,Germany,Faisal Mubashir,D Klein,EJB Miles,1,0,,,,,,"",""
+ball,2,17.7,Germany,D Klein,Faisal Mubashir,EJB Miles,0,1,1,,,,,"",""
+ball,2,17.8,Germany,D Klein,Faisal Mubashir,EJB Miles,0,0,,,,,,"",""
+ball,2,18.1,Germany,Faisal Mubashir,D Klein,CW Perchard,6,0,,,,,,"",""
+ball,2,18.2,Germany,Faisal Mubashir,D Klein,CW Perchard,0,0,,,,,,"",""
+ball,2,18.3,Germany,Faisal Mubashir,D Klein,CW Perchard,1,0,,,,,,"",""
+ball,2,18.4,Germany,D Klein,Faisal Mubashir,CW Perchard,0,1,1,,,,,"",""
+ball,2,18.5,Germany,D Klein,Faisal Mubashir,CW Perchard,1,0,,,,,,"",""
+ball,2,18.6,Germany,Faisal Mubashir,D Klein,CW Perchard,1,0,,,,,,"",""
+ball,2,18.7,Germany,D Klein,Faisal Mubashir,CW Perchard,1,0,,,,,,"",""
+ball,2,19.1,Germany,D Klein,Faisal Mubashir,J Sumerauer,1,0,,,,,,"",""
+ball,2,19.2,Germany,Faisal Mubashir,D Klein,J Sumerauer,4,0,,,,,,"",""
+ball,2,19.3,Germany,Faisal Mubashir,D Klein,J Sumerauer,0,1,,,1,,,"",""
+ball,2,19.4,Germany,D Klein,Faisal Mubashir,J Sumerauer,1,0,,,,,,"",""
+ball,2,19.5,Germany,Faisal Mubashir,D Klein,J Sumerauer,0,1,,,1,,,"",""
+ball,2,19.6,Germany,D Klein,Faisal Mubashir,J Sumerauer,1,0,,,,,,"",""

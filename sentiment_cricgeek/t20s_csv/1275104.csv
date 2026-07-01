@@ -1,0 +1,137 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Rwanda
+info,gender,female
+info,season,2021
+info,date,2021/09/09
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,match_number,1
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Rwanda
+info,toss_decision,field
+info,player_of_match,I Muhawenimana
+info,umpire,S Bhargava
+info,umpire,S George
+info,reserve_umpire,IO Oyieko
+info,winner,Rwanda
+info,winner_wickets,10
+info,player,Mozambique,O Matsolo
+info,player,Mozambique,C Murrombe
+info,player,Mozambique,P Cuinica
+info,player,Mozambique,C Magaia
+info,player,Mozambique,TJE Chiracheque
+info,player,Mozambique,A Cossa
+info,player,Mozambique,I Chuma
+info,player,Mozambique,R Haiong
+info,player,Mozambique,OC Moiane
+info,player,Mozambique,HR Ponja
+info,player,Mozambique,AL Mangue
+info,player,Rwanda,S Uwera
+info,player,Rwanda,G Ishimwe
+info,player,Rwanda,I Muhawenimana
+info,player,Rwanda,A Ikuzwe
+info,player,Rwanda,MD Bimenyimana
+info,player,Rwanda,H Ishimwe
+info,player,Rwanda,M Vumiliya
+info,player,Rwanda,S Ingabire
+info,player,Rwanda,B Murekatete
+info,player,Rwanda,C Uwamahoro
+info,player,Rwanda,A Uwimbabazi
+info,registry,people,A Cossa,ef160d73
+info,registry,people,A Ikuzwe,6762a445
+info,registry,people,A Uwimbabazi,ef27e290
+info,registry,people,AL Mangue,7e8cd083
+info,registry,people,B Murekatete,2d4317da
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,C Murrombe,2cf802eb
+info,registry,people,C Uwamahoro,81dfc700
+info,registry,people,G Ishimwe,b5ae57ee
+info,registry,people,H Ishimwe,ffa296f7
+info,registry,people,HR Ponja,6114eaf4
+info,registry,people,I Chuma,b1021056
+info,registry,people,I Muhawenimana,2f37396f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,M Vumiliya,0c00286e
+info,registry,people,MD Bimenyimana,c1a0cebe
+info,registry,people,O Matsolo,3c4a62c4
+info,registry,people,OC Moiane,b74a1124
+info,registry,people,P Cuinica,efca38df
+info,registry,people,R Haiong,2832fbba
+info,registry,people,S Bhargava,81ce2e0e
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Ingabire,25a2755a
+info,registry,people,S Uwera,1ef174b8
+info,registry,people,TJE Chiracheque,078c4e60
+ball,1,0.1,Mozambique,O Matsolo,C Murrombe,I Muhawenimana,0,1,1,,,,,"",""
+ball,1,0.2,Mozambique,O Matsolo,C Murrombe,I Muhawenimana,0,0,,,,,,bowled,O Matsolo
+ball,1,0.3,Mozambique,P Cuinica,C Murrombe,I Muhawenimana,0,0,,,,,,"",""
+ball,1,0.4,Mozambique,P Cuinica,C Murrombe,I Muhawenimana,0,0,,,,,,"",""
+ball,1,0.5,Mozambique,P Cuinica,C Murrombe,I Muhawenimana,0,1,,,,1,,"",""
+ball,1,0.6,Mozambique,C Murrombe,P Cuinica,I Muhawenimana,0,0,,,,,,"",""
+ball,1,0.7,Mozambique,C Murrombe,P Cuinica,I Muhawenimana,0,0,,,,,,"",""
+ball,1,1.1,Mozambique,P Cuinica,C Murrombe,B Murekatete,0,2,2,,,,,"",""
+ball,1,1.2,Mozambique,C Murrombe,P Cuinica,B Murekatete,0,0,,,,,,"",""
+ball,1,1.3,Mozambique,C Murrombe,P Cuinica,B Murekatete,0,0,,,,,,"",""
+ball,1,1.4,Mozambique,C Murrombe,P Cuinica,B Murekatete,0,0,,,,,,caught and bowled,C Murrombe
+ball,1,1.5,Mozambique,C Magaia,P Cuinica,B Murekatete,0,1,1,,,,,"",""
+ball,1,1.6,Mozambique,C Magaia,P Cuinica,B Murekatete,0,0,,,,,,"",""
+ball,1,1.7,Mozambique,C Magaia,P Cuinica,B Murekatete,0,0,,,,,,"",""
+ball,1,1.8,Mozambique,C Magaia,P Cuinica,B Murekatete,0,0,,,,,,"",""
+ball,1,2.1,Mozambique,P Cuinica,C Magaia,I Muhawenimana,0,0,,,,,,"",""
+ball,1,2.2,Mozambique,P Cuinica,C Magaia,I Muhawenimana,0,0,,,,,,"",""
+ball,1,2.3,Mozambique,P Cuinica,C Magaia,I Muhawenimana,1,0,,,,,,"",""
+ball,1,2.4,Mozambique,C Magaia,P Cuinica,I Muhawenimana,0,0,,,,,,lbw,C Magaia
+ball,1,2.5,Mozambique,TJE Chiracheque,P Cuinica,I Muhawenimana,0,1,,1,,,,"",""
+ball,1,2.6,Mozambique,TJE Chiracheque,P Cuinica,I Muhawenimana,0,0,,,,,,"",""
+ball,1,2.7,Mozambique,TJE Chiracheque,P Cuinica,I Muhawenimana,0,1,,1,,,,"",""
+ball,1,2.8,Mozambique,TJE Chiracheque,P Cuinica,I Muhawenimana,0,0,,,,,,"",""
+ball,1,3.1,Mozambique,P Cuinica,TJE Chiracheque,B Murekatete,0,0,,,,,,"",""
+ball,1,3.2,Mozambique,P Cuinica,TJE Chiracheque,B Murekatete,0,0,,,,,,bowled,P Cuinica
+ball,1,3.3,Mozambique,A Cossa,TJE Chiracheque,B Murekatete,0,0,,,,,,"",""
+ball,1,3.4,Mozambique,A Cossa,TJE Chiracheque,B Murekatete,0,0,,,,,,"",""
+ball,1,3.5,Mozambique,A Cossa,TJE Chiracheque,B Murekatete,1,0,,,,,,"",""
+ball,1,3.6,Mozambique,TJE Chiracheque,A Cossa,B Murekatete,0,0,,,,,,"",""
+ball,1,4.1,Mozambique,A Cossa,TJE Chiracheque,I Muhawenimana,0,0,,,,,,"",""
+ball,1,4.2,Mozambique,A Cossa,TJE Chiracheque,I Muhawenimana,0,0,,,,,,"",""
+ball,1,4.3,Mozambique,A Cossa,TJE Chiracheque,I Muhawenimana,0,0,,,,,,bowled,A Cossa
+ball,1,4.4,Mozambique,I Chuma,TJE Chiracheque,I Muhawenimana,1,0,,,,,,"",""
+ball,1,4.5,Mozambique,TJE Chiracheque,I Chuma,I Muhawenimana,0,1,1,,,,,"",""
+ball,1,4.6,Mozambique,TJE Chiracheque,I Chuma,I Muhawenimana,0,0,,,,,,lbw,TJE Chiracheque
+ball,1,4.7,Mozambique,R Haiong,I Chuma,I Muhawenimana,0,0,,,,,,run out,I Chuma
+ball,1,5.1,Mozambique,R Haiong,OC Moiane,B Murekatete,0,0,,,,,,"",""
+ball,1,5.2,Mozambique,R Haiong,OC Moiane,B Murekatete,0,0,,,,,,"",""
+ball,1,5.3,Mozambique,R Haiong,OC Moiane,B Murekatete,1,0,,,,,,"",""
+ball,1,5.4,Mozambique,OC Moiane,R Haiong,B Murekatete,0,0,,,,,,"",""
+ball,1,5.5,Mozambique,OC Moiane,R Haiong,B Murekatete,0,1,1,,,,,"",""
+ball,1,5.6,Mozambique,OC Moiane,R Haiong,B Murekatete,2,0,,,,,,"",""
+ball,1,5.7,Mozambique,OC Moiane,R Haiong,B Murekatete,1,0,,,,,,run out,OC Moiane
+ball,1,6.1,Mozambique,R Haiong,HR Ponja,H Ishimwe,0,0,,,,,,caught,R Haiong
+ball,1,6.2,Mozambique,HR Ponja,AL Mangue,H Ishimwe,0,0,,,,,,"",""
+ball,1,6.3,Mozambique,HR Ponja,AL Mangue,H Ishimwe,0,0,,,,,,"",""
+ball,1,6.4,Mozambique,HR Ponja,AL Mangue,H Ishimwe,0,0,,,,,,"",""
+ball,1,6.5,Mozambique,HR Ponja,AL Mangue,H Ishimwe,0,0,,,,,,"",""
+ball,1,6.6,Mozambique,HR Ponja,AL Mangue,H Ishimwe,0,0,,,,,,"",""
+ball,1,7.1,Mozambique,AL Mangue,HR Ponja,A Ikuzwe,0,0,,,,,,"",""
+ball,1,7.2,Mozambique,AL Mangue,HR Ponja,A Ikuzwe,0,1,1,,,,,"",""
+ball,1,7.3,Mozambique,AL Mangue,HR Ponja,A Ikuzwe,0,0,,,,,,"",""
+ball,1,7.4,Mozambique,AL Mangue,HR Ponja,A Ikuzwe,0,0,,,,,,bowled,AL Mangue
+ball,2,0.1,Rwanda,S Uwera,G Ishimwe,O Matsolo,0,1,1,,,,,"",""
+ball,2,0.2,Rwanda,S Uwera,G Ishimwe,O Matsolo,1,0,,,,,,"",""
+ball,2,0.3,Rwanda,G Ishimwe,S Uwera,O Matsolo,0,1,1,,,,,"",""
+ball,2,0.4,Rwanda,G Ishimwe,S Uwera,O Matsolo,0,1,1,,,,,"",""
+ball,2,0.5,Rwanda,G Ishimwe,S Uwera,O Matsolo,0,1,1,,,,,"",""
+ball,2,0.6,Rwanda,G Ishimwe,S Uwera,O Matsolo,0,0,,,,,,"",""
+ball,2,0.7,Rwanda,G Ishimwe,S Uwera,O Matsolo,4,0,,,,,,"",""
+ball,2,0.8,Rwanda,G Ishimwe,S Uwera,O Matsolo,0,0,,,,,,"",""
+ball,2,0.9,Rwanda,G Ishimwe,S Uwera,O Matsolo,0,0,,,,,,"",""
+ball,2,0.10,Rwanda,G Ishimwe,S Uwera,O Matsolo,2,0,,,,,,"",""
+ball,2,1.1,Rwanda,S Uwera,G Ishimwe,I Chuma,0,0,,,,,,"",""
+ball,2,1.2,Rwanda,S Uwera,G Ishimwe,I Chuma,0,0,,,,,,"",""
+ball,2,1.3,Rwanda,S Uwera,G Ishimwe,I Chuma,0,0,,,,,,"",""
+ball,2,1.4,Rwanda,S Uwera,G Ishimwe,I Chuma,4,0,,,,,,"",""
+ball,2,1.5,Rwanda,S Uwera,G Ishimwe,I Chuma,2,0,,,,,,"",""
+ball,2,1.6,Rwanda,S Uwera,G Ishimwe,I Chuma,0,0,,,,,,"",""
+ball,2,2.1,Rwanda,G Ishimwe,S Uwera,A Cossa,0,0,,,,,,"",""
+ball,2,2.2,Rwanda,G Ishimwe,S Uwera,A Cossa,0,1,1,,,,,"",""

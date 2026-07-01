@@ -1,0 +1,329 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Tanzania
+info,gender,female
+info,season,2025/26
+info,date,2025/11/21
+info,event,ICC Women's Emerging Nations Trophy
+info,match_number,8
+info,venue,"Asian Institute of Technology Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,DEM Carter
+info,umpire,M Abbott
+info,umpire,T Semmens
+info,reserve_umpire,AS Guha
+info,match_referee,SM Bartlett
+info,winner,Scotland
+info,winner_runs,5
+info,player,Scotland,DEM Carter
+info,player,Scotland,A Lister
+info,player,Scotland,EL Watson
+info,player,Scotland,SJ Bryce
+info,player,Scotland,M McColl
+info,player,Scotland,PA Chatterji
+info,player,Scotland,R Slater
+info,player,Scotland,C Abel
+info,player,Scotland,AH Maqsood
+info,player,Scotland,HRA Rainey
+info,player,Scotland,N Robertson-Jack
+info,player,Tanzania,S Mtae
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,HM Omary
+info,player,Tanzania,JG Kimaro
+info,player,Tanzania,Nasra Mohamedi
+info,player,Tanzania,NN Saidi
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,MH Ushanga
+info,player,Tanzania,S Kizito
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AS Guha,c21b184d
+info,registry,people,C Abel,d92d3563
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,EL Watson,45dd7433
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,JG Kimaro,3f0be08f
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,N Robertson-Jack,a8c78834
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,NN Saidi,16610c7b
+info,registry,people,Nasra Mohamedi,754c719b
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,R Slater,8a452195
+info,registry,people,S Kizito,d91a936b
+info,registry,people,S Mtae,bb641155
+info,registry,people,SH Mohamedi,10ab6a37
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,T Semmens,3b471aa4
+ball,1,0.1,Scotland,DEM Carter,A Lister,PZ Kamunya,0,0,,,,,,"",""
+ball,1,0.2,Scotland,DEM Carter,A Lister,PZ Kamunya,0,0,,,,,,"",""
+ball,1,0.3,Scotland,DEM Carter,A Lister,PZ Kamunya,0,0,,,,,,"",""
+ball,1,0.4,Scotland,DEM Carter,A Lister,PZ Kamunya,0,0,,,,,,"",""
+ball,1,0.5,Scotland,DEM Carter,A Lister,PZ Kamunya,0,0,,,,,,"",""
+ball,1,0.6,Scotland,DEM Carter,A Lister,PZ Kamunya,1,0,,,,,,"",""
+ball,1,1.1,Scotland,DEM Carter,A Lister,S Kizito,0,0,,,,,,"",""
+ball,1,1.2,Scotland,DEM Carter,A Lister,S Kizito,0,0,,,,,,"",""
+ball,1,1.3,Scotland,DEM Carter,A Lister,S Kizito,1,0,,,,,,"",""
+ball,1,1.4,Scotland,A Lister,DEM Carter,S Kizito,4,0,,,,,,"",""
+ball,1,1.5,Scotland,A Lister,DEM Carter,S Kizito,0,0,,,,,,"",""
+ball,1,1.6,Scotland,A Lister,DEM Carter,S Kizito,0,0,,,,,,"",""
+ball,1,2.1,Scotland,DEM Carter,A Lister,PZ Kamunya,1,0,,,,,,"",""
+ball,1,2.2,Scotland,A Lister,DEM Carter,PZ Kamunya,0,0,,,,,,"",""
+ball,1,2.3,Scotland,A Lister,DEM Carter,PZ Kamunya,1,0,,,,,,"",""
+ball,1,2.4,Scotland,DEM Carter,A Lister,PZ Kamunya,1,0,,,,,,"",""
+ball,1,2.5,Scotland,A Lister,DEM Carter,PZ Kamunya,0,1,1,,,,,"",""
+ball,1,2.6,Scotland,A Lister,DEM Carter,PZ Kamunya,1,0,,,,,,"",""
+ball,1,2.7,Scotland,DEM Carter,A Lister,PZ Kamunya,6,0,,,,,,"",""
+ball,1,3.1,Scotland,A Lister,DEM Carter,S Kizito,4,0,,,,,,"",""
+ball,1,3.2,Scotland,A Lister,DEM Carter,S Kizito,0,0,,,,,,"",""
+ball,1,3.3,Scotland,A Lister,DEM Carter,S Kizito,4,0,,,,,,"",""
+ball,1,3.4,Scotland,A Lister,DEM Carter,S Kizito,0,0,,,,,,"",""
+ball,1,3.5,Scotland,A Lister,DEM Carter,S Kizito,0,0,,,,,,run out,A Lister
+ball,1,3.6,Scotland,DEM Carter,EL Watson,S Kizito,0,0,,,,,,"",""
+ball,1,4.1,Scotland,EL Watson,DEM Carter,NN Saidi,0,1,1,,,,,"",""
+ball,1,4.2,Scotland,EL Watson,DEM Carter,NN Saidi,0,0,,,,,,"",""
+ball,1,4.3,Scotland,EL Watson,DEM Carter,NN Saidi,1,0,,,,,,"",""
+ball,1,4.4,Scotland,DEM Carter,EL Watson,NN Saidi,0,0,,,,,,"",""
+ball,1,4.5,Scotland,DEM Carter,EL Watson,NN Saidi,4,0,,,,,,"",""
+ball,1,4.6,Scotland,DEM Carter,EL Watson,NN Saidi,1,0,,,,,,"",""
+ball,1,4.7,Scotland,EL Watson,DEM Carter,NN Saidi,0,0,,,,,,"",""
+ball,1,5.1,Scotland,DEM Carter,EL Watson,S Kizito,4,0,,,,,,"",""
+ball,1,5.2,Scotland,DEM Carter,EL Watson,S Kizito,0,0,,,,,,"",""
+ball,1,5.3,Scotland,DEM Carter,EL Watson,S Kizito,0,0,,,,,,"",""
+ball,1,5.4,Scotland,DEM Carter,EL Watson,S Kizito,4,0,,,,,,"",""
+ball,1,5.5,Scotland,DEM Carter,EL Watson,S Kizito,0,0,,,,,,"",""
+ball,1,5.6,Scotland,DEM Carter,EL Watson,S Kizito,0,0,,,,,,"",""
+ball,1,6.1,Scotland,EL Watson,DEM Carter,NN Saidi,0,1,1,,,,,"",""
+ball,1,6.2,Scotland,EL Watson,DEM Carter,NN Saidi,0,0,,,,,,"",""
+ball,1,6.3,Scotland,EL Watson,DEM Carter,NN Saidi,1,1,,1,,,,"",""
+ball,1,6.4,Scotland,DEM Carter,EL Watson,NN Saidi,1,0,,,,,,"",""
+ball,1,6.5,Scotland,EL Watson,DEM Carter,NN Saidi,0,0,,,,,,"",""
+ball,1,6.6,Scotland,EL Watson,DEM Carter,NN Saidi,0,0,,,,,,"",""
+ball,1,6.7,Scotland,EL Watson,DEM Carter,NN Saidi,1,0,,,,,,"",""
+ball,1,6.8,Scotland,DEM Carter,EL Watson,NN Saidi,1,0,,,,,,"",""
+ball,1,7.1,Scotland,DEM Carter,EL Watson,MH Ushanga,0,0,,,,,,"",""
+ball,1,7.2,Scotland,DEM Carter,EL Watson,MH Ushanga,1,0,,,,,,"",""
+ball,1,7.3,Scotland,EL Watson,DEM Carter,MH Ushanga,0,0,,,,,,"",""
+ball,1,7.4,Scotland,EL Watson,DEM Carter,MH Ushanga,0,0,,,,,,"",""
+ball,1,7.5,Scotland,EL Watson,DEM Carter,MH Ushanga,0,0,,,,,,"",""
+ball,1,7.6,Scotland,EL Watson,DEM Carter,MH Ushanga,1,0,,,,,,"",""
+ball,1,8.1,Scotland,EL Watson,DEM Carter,JG Kimaro,1,0,,,,,,"",""
+ball,1,8.2,Scotland,DEM Carter,EL Watson,JG Kimaro,0,0,,,,,,"",""
+ball,1,8.3,Scotland,DEM Carter,EL Watson,JG Kimaro,1,0,,,,,,"",""
+ball,1,8.4,Scotland,EL Watson,DEM Carter,JG Kimaro,2,0,,,,,,"",""
+ball,1,8.5,Scotland,EL Watson,DEM Carter,JG Kimaro,0,1,1,,,,,"",""
+ball,1,8.6,Scotland,EL Watson,DEM Carter,JG Kimaro,0,1,,1,,,,"",""
+ball,1,8.7,Scotland,EL Watson,DEM Carter,JG Kimaro,0,0,,,,,,"",""
+ball,1,8.8,Scotland,EL Watson,DEM Carter,JG Kimaro,1,0,,,,,,"",""
+ball,1,9.1,Scotland,EL Watson,DEM Carter,MH Ushanga,1,0,,,,,,"",""
+ball,1,9.2,Scotland,DEM Carter,EL Watson,MH Ushanga,2,0,,,,,,"",""
+ball,1,9.3,Scotland,DEM Carter,EL Watson,MH Ushanga,1,0,,,,,,"",""
+ball,1,9.4,Scotland,EL Watson,DEM Carter,MH Ushanga,1,0,,,,,,"",""
+ball,1,9.5,Scotland,DEM Carter,EL Watson,MH Ushanga,0,0,,,,,,"",""
+ball,1,9.6,Scotland,DEM Carter,EL Watson,MH Ushanga,1,0,,,,,,"",""
+ball,1,10.1,Scotland,DEM Carter,EL Watson,JG Kimaro,0,1,1,,,,,"",""
+ball,1,10.2,Scotland,DEM Carter,EL Watson,JG Kimaro,0,0,,,,,,"",""
+ball,1,10.3,Scotland,DEM Carter,EL Watson,JG Kimaro,4,0,,,,,,"",""
+ball,1,10.4,Scotland,DEM Carter,EL Watson,JG Kimaro,1,0,,,,,,"",""
+ball,1,10.5,Scotland,EL Watson,DEM Carter,JG Kimaro,2,0,,,,,,"",""
+ball,1,10.6,Scotland,EL Watson,DEM Carter,JG Kimaro,0,0,,,,,,"",""
+ball,1,10.7,Scotland,EL Watson,DEM Carter,JG Kimaro,0,1,1,,,,,"",""
+ball,1,10.8,Scotland,EL Watson,DEM Carter,JG Kimaro,1,0,,,,,,"",""
+ball,1,11.1,Scotland,EL Watson,DEM Carter,MH Ushanga,0,0,,,,,,"",""
+ball,1,11.2,Scotland,EL Watson,DEM Carter,MH Ushanga,1,0,,,,,,"",""
+ball,1,11.3,Scotland,DEM Carter,EL Watson,MH Ushanga,1,0,,,,,,"",""
+ball,1,11.4,Scotland,EL Watson,DEM Carter,MH Ushanga,1,0,,,,,,"",""
+ball,1,11.5,Scotland,DEM Carter,EL Watson,MH Ushanga,1,0,,,,,,"",""
+ball,1,11.6,Scotland,EL Watson,DEM Carter,MH Ushanga,4,0,,,,,,"",""
+ball,1,12.1,Scotland,DEM Carter,EL Watson,NJ Pius,1,0,,,,,,"",""
+ball,1,12.2,Scotland,EL Watson,DEM Carter,NJ Pius,1,0,,,,,,"",""
+ball,1,12.3,Scotland,DEM Carter,EL Watson,NJ Pius,4,0,,,,,,"",""
+ball,1,12.4,Scotland,DEM Carter,EL Watson,NJ Pius,4,0,,,,,,"",""
+ball,1,12.5,Scotland,DEM Carter,EL Watson,NJ Pius,1,0,,,,,,"",""
+ball,1,12.6,Scotland,EL Watson,DEM Carter,NJ Pius,1,0,,,,,,"",""
+ball,1,13.1,Scotland,EL Watson,DEM Carter,MH Ushanga,1,0,,,,,,"",""
+ball,1,13.2,Scotland,DEM Carter,EL Watson,MH Ushanga,1,0,,,,,,"",""
+ball,1,13.3,Scotland,EL Watson,DEM Carter,MH Ushanga,1,0,,,,,,"",""
+ball,1,13.4,Scotland,DEM Carter,EL Watson,MH Ushanga,0,0,,,,,,"",""
+ball,1,13.5,Scotland,DEM Carter,EL Watson,MH Ushanga,1,0,,,,,,"",""
+ball,1,13.6,Scotland,EL Watson,DEM Carter,MH Ushanga,0,0,,,,,,caught,EL Watson
+ball,1,14.1,Scotland,DEM Carter,SJ Bryce,PZ Kamunya,1,0,,,,,,"",""
+ball,1,14.2,Scotland,SJ Bryce,DEM Carter,PZ Kamunya,4,0,,,,,,"",""
+ball,1,14.3,Scotland,SJ Bryce,DEM Carter,PZ Kamunya,0,0,,,,,,bowled,SJ Bryce
+ball,1,14.4,Scotland,M McColl,DEM Carter,PZ Kamunya,1,0,,,,,,"",""
+ball,1,14.5,Scotland,DEM Carter,M McColl,PZ Kamunya,1,0,,,,,,"",""
+ball,1,14.6,Scotland,M McColl,DEM Carter,PZ Kamunya,0,0,,,,,,caught,M McColl
+ball,1,15.1,Scotland,DEM Carter,PA Chatterji,S Kizito,0,0,,,,,,"",""
+ball,1,15.2,Scotland,DEM Carter,PA Chatterji,S Kizito,1,0,,,,,,"",""
+ball,1,15.3,Scotland,PA Chatterji,DEM Carter,S Kizito,1,0,,,,,,"",""
+ball,1,15.4,Scotland,DEM Carter,PA Chatterji,S Kizito,1,0,,,,,,"",""
+ball,1,15.5,Scotland,PA Chatterji,DEM Carter,S Kizito,0,0,,,,,,"",""
+ball,1,15.6,Scotland,PA Chatterji,DEM Carter,S Kizito,1,0,,,,,,"",""
+ball,1,16.1,Scotland,PA Chatterji,DEM Carter,PZ Kamunya,1,0,,,,,,"",""
+ball,1,16.2,Scotland,DEM Carter,PA Chatterji,PZ Kamunya,2,0,,,,,,"",""
+ball,1,16.3,Scotland,DEM Carter,PA Chatterji,PZ Kamunya,0,0,,,,,,"",""
+ball,1,16.4,Scotland,DEM Carter,PA Chatterji,PZ Kamunya,4,0,,,,,,"",""
+ball,1,16.5,Scotland,DEM Carter,PA Chatterji,PZ Kamunya,1,0,,,,,,"",""
+ball,1,16.6,Scotland,PA Chatterji,DEM Carter,PZ Kamunya,6,0,,,,,,"",""
+ball,1,17.1,Scotland,DEM Carter,PA Chatterji,NN Saidi,1,0,,,,,,"",""
+ball,1,17.2,Scotland,PA Chatterji,DEM Carter,NN Saidi,4,0,,,,,,"",""
+ball,1,17.3,Scotland,PA Chatterji,DEM Carter,NN Saidi,4,0,,,,,,"",""
+ball,1,17.4,Scotland,PA Chatterji,DEM Carter,NN Saidi,1,0,,,,,,"",""
+ball,1,17.5,Scotland,DEM Carter,PA Chatterji,NN Saidi,0,0,,,,,,"",""
+ball,1,17.6,Scotland,DEM Carter,PA Chatterji,NN Saidi,0,0,,,,,,"",""
+ball,1,18.1,Scotland,PA Chatterji,DEM Carter,JG Kimaro,0,0,,,,,,"",""
+ball,1,18.2,Scotland,PA Chatterji,DEM Carter,JG Kimaro,1,0,,,,,,"",""
+ball,1,18.3,Scotland,DEM Carter,PA Chatterji,JG Kimaro,0,1,1,,,,,"",""
+ball,1,18.4,Scotland,DEM Carter,PA Chatterji,JG Kimaro,4,0,,,,,,"",""
+ball,1,18.5,Scotland,DEM Carter,PA Chatterji,JG Kimaro,1,0,,,,,,"",""
+ball,1,18.6,Scotland,PA Chatterji,DEM Carter,JG Kimaro,0,0,,,,,,lbw,PA Chatterji
+ball,1,18.7,Scotland,R Slater,DEM Carter,JG Kimaro,2,0,,,,,,"",""
+ball,1,19.1,Scotland,DEM Carter,R Slater,NN Saidi,4,0,,,,,,"",""
+ball,1,19.2,Scotland,DEM Carter,R Slater,NN Saidi,2,0,,,,,,"",""
+ball,1,19.3,Scotland,DEM Carter,R Slater,NN Saidi,1,0,,,,,,"",""
+ball,1,19.4,Scotland,R Slater,DEM Carter,NN Saidi,4,0,,,,,,"",""
+ball,1,19.5,Scotland,R Slater,DEM Carter,NN Saidi,1,0,,,,,,"",""
+ball,1,19.6,Scotland,DEM Carter,R Slater,NN Saidi,2,0,,,,,,"",""
+ball,2,0.1,Tanzania,S Mtae,FO Kibasu,DEM Carter,0,0,,,,,,"",""
+ball,2,0.2,Tanzania,S Mtae,FO Kibasu,DEM Carter,1,0,,,,,,"",""
+ball,2,0.3,Tanzania,FO Kibasu,S Mtae,DEM Carter,4,0,,,,,,"",""
+ball,2,0.4,Tanzania,FO Kibasu,S Mtae,DEM Carter,0,0,,,,,,"",""
+ball,2,0.5,Tanzania,FO Kibasu,S Mtae,DEM Carter,4,0,,,,,,"",""
+ball,2,0.6,Tanzania,FO Kibasu,S Mtae,DEM Carter,1,0,,,,,,"",""
+ball,2,1.1,Tanzania,FO Kibasu,S Mtae,HRA Rainey,0,0,,,,,,"",""
+ball,2,1.2,Tanzania,FO Kibasu,S Mtae,HRA Rainey,0,0,,,,,,"",""
+ball,2,1.3,Tanzania,FO Kibasu,S Mtae,HRA Rainey,4,0,,,,,,"",""
+ball,2,1.4,Tanzania,FO Kibasu,S Mtae,HRA Rainey,4,0,,,,,,"",""
+ball,2,1.5,Tanzania,FO Kibasu,S Mtae,HRA Rainey,4,0,,,,,,"",""
+ball,2,1.6,Tanzania,FO Kibasu,S Mtae,HRA Rainey,2,0,,,,,,"",""
+ball,2,2.1,Tanzania,S Mtae,FO Kibasu,R Slater,0,1,1,,,,,"",""
+ball,2,2.2,Tanzania,S Mtae,FO Kibasu,R Slater,0,0,,,,,,"",""
+ball,2,2.3,Tanzania,S Mtae,FO Kibasu,R Slater,0,0,,,,,,"",""
+ball,2,2.4,Tanzania,S Mtae,FO Kibasu,R Slater,0,1,1,,,,,"",""
+ball,2,2.5,Tanzania,S Mtae,FO Kibasu,R Slater,1,0,,,,,,"",""
+ball,2,2.6,Tanzania,FO Kibasu,S Mtae,R Slater,0,0,,,,,,"",""
+ball,2,2.7,Tanzania,FO Kibasu,S Mtae,R Slater,0,0,,,,,,"",""
+ball,2,2.8,Tanzania,FO Kibasu,S Mtae,R Slater,0,1,1,,,,,"",""
+ball,2,2.9,Tanzania,FO Kibasu,S Mtae,R Slater,0,0,,,,,,"",""
+ball,2,3.1,Tanzania,S Mtae,FO Kibasu,C Abel,0,1,1,,,,,"",""
+ball,2,3.2,Tanzania,S Mtae,FO Kibasu,C Abel,4,0,,,,,,"",""
+ball,2,3.3,Tanzania,S Mtae,FO Kibasu,C Abel,4,0,,,,,,"",""
+ball,2,3.4,Tanzania,S Mtae,FO Kibasu,C Abel,1,0,,,,,,"",""
+ball,2,3.5,Tanzania,FO Kibasu,S Mtae,C Abel,0,0,,,,,,"",""
+ball,2,3.6,Tanzania,FO Kibasu,S Mtae,C Abel,0,0,,,,,,"",""
+ball,2,3.7,Tanzania,FO Kibasu,S Mtae,C Abel,0,0,,,,,,"",""
+ball,2,4.1,Tanzania,S Mtae,FO Kibasu,R Slater,0,0,,,,,,"",""
+ball,2,4.2,Tanzania,S Mtae,FO Kibasu,R Slater,4,0,,,,,,"",""
+ball,2,4.3,Tanzania,S Mtae,FO Kibasu,R Slater,0,0,,,,,,"",""
+ball,2,4.4,Tanzania,S Mtae,FO Kibasu,R Slater,1,0,,,,,,"",""
+ball,2,4.5,Tanzania,FO Kibasu,S Mtae,R Slater,0,0,,,,,,"",""
+ball,2,4.6,Tanzania,FO Kibasu,S Mtae,R Slater,0,0,,,,,,"",""
+ball,2,5.1,Tanzania,S Mtae,FO Kibasu,C Abel,4,0,,,,,,"",""
+ball,2,5.2,Tanzania,S Mtae,FO Kibasu,C Abel,1,0,,,,,,"",""
+ball,2,5.3,Tanzania,FO Kibasu,S Mtae,C Abel,0,0,,,,,,"",""
+ball,2,5.4,Tanzania,FO Kibasu,S Mtae,C Abel,1,0,,,,,,"",""
+ball,2,5.5,Tanzania,S Mtae,FO Kibasu,C Abel,0,0,,,,,,"",""
+ball,2,5.6,Tanzania,S Mtae,FO Kibasu,C Abel,0,1,1,,,,,"",""
+ball,2,5.7,Tanzania,S Mtae,FO Kibasu,C Abel,0,0,,,,,,"",""
+ball,2,6.1,Tanzania,FO Kibasu,S Mtae,AH Maqsood,1,0,,,,,,"",""
+ball,2,6.2,Tanzania,S Mtae,FO Kibasu,AH Maqsood,0,0,,,,,,"",""
+ball,2,6.3,Tanzania,S Mtae,FO Kibasu,AH Maqsood,4,0,,,,,,"",""
+ball,2,6.4,Tanzania,S Mtae,FO Kibasu,AH Maqsood,1,0,,,,,,"",""
+ball,2,6.5,Tanzania,FO Kibasu,S Mtae,AH Maqsood,1,0,,,,,,"",""
+ball,2,6.6,Tanzania,S Mtae,FO Kibasu,AH Maqsood,1,0,,,,,,"",""
+ball,2,7.1,Tanzania,S Mtae,FO Kibasu,DEM Carter,0,0,,,,,,"",""
+ball,2,7.2,Tanzania,S Mtae,FO Kibasu,DEM Carter,0,0,,,,,,"",""
+ball,2,7.3,Tanzania,S Mtae,FO Kibasu,DEM Carter,0,0,,,,,,bowled,S Mtae
+ball,2,7.4,Tanzania,NJ Pius,FO Kibasu,DEM Carter,0,0,,,,,,"",""
+ball,2,7.5,Tanzania,NJ Pius,FO Kibasu,DEM Carter,0,0,,,,,,"",""
+ball,2,7.6,Tanzania,NJ Pius,FO Kibasu,DEM Carter,0,0,,,,,,caught,NJ Pius
+ball,2,8.1,Tanzania,FO Kibasu,HM Omary,AH Maqsood,0,0,,,,,,"",""
+ball,2,8.2,Tanzania,FO Kibasu,HM Omary,AH Maqsood,0,1,1,,,,,"",""
+ball,2,8.3,Tanzania,FO Kibasu,HM Omary,AH Maqsood,1,0,,,,,,"",""
+ball,2,8.4,Tanzania,HM Omary,FO Kibasu,AH Maqsood,1,0,,,,,,"",""
+ball,2,8.5,Tanzania,FO Kibasu,HM Omary,AH Maqsood,1,0,,,,,,"",""
+ball,2,8.6,Tanzania,HM Omary,FO Kibasu,AH Maqsood,1,0,,,,,,"",""
+ball,2,8.7,Tanzania,FO Kibasu,HM Omary,AH Maqsood,0,0,,,,,,"",""
+ball,2,9.1,Tanzania,HM Omary,FO Kibasu,N Robertson-Jack,0,0,,,,,,"",""
+ball,2,9.2,Tanzania,HM Omary,FO Kibasu,N Robertson-Jack,0,0,,,,,,"",""
+ball,2,9.3,Tanzania,HM Omary,FO Kibasu,N Robertson-Jack,4,0,,,,,,"",""
+ball,2,9.4,Tanzania,HM Omary,FO Kibasu,N Robertson-Jack,1,0,,,,,,"",""
+ball,2,9.5,Tanzania,FO Kibasu,HM Omary,N Robertson-Jack,0,0,,,,,,"",""
+ball,2,9.6,Tanzania,FO Kibasu,HM Omary,N Robertson-Jack,0,0,,,,,,caught,FO Kibasu
+ball,2,10.1,Tanzania,HM Omary,JG Kimaro,HRA Rainey,4,0,,,,,,"",""
+ball,2,10.2,Tanzania,HM Omary,JG Kimaro,HRA Rainey,1,0,,,,,,"",""
+ball,2,10.3,Tanzania,JG Kimaro,HM Omary,HRA Rainey,1,0,,,,,,"",""
+ball,2,10.4,Tanzania,HM Omary,JG Kimaro,HRA Rainey,1,0,,,,,,"",""
+ball,2,10.5,Tanzania,JG Kimaro,HM Omary,HRA Rainey,1,0,,,,,,"",""
+ball,2,10.6,Tanzania,HM Omary,JG Kimaro,HRA Rainey,0,1,,,1,,,"",""
+ball,2,11.1,Tanzania,HM Omary,JG Kimaro,N Robertson-Jack,1,0,,,,,,"",""
+ball,2,11.2,Tanzania,JG Kimaro,HM Omary,N Robertson-Jack,1,0,,,,,,"",""
+ball,2,11.3,Tanzania,HM Omary,JG Kimaro,N Robertson-Jack,4,0,,,,,,"",""
+ball,2,11.4,Tanzania,HM Omary,JG Kimaro,N Robertson-Jack,1,0,,,,,,"",""
+ball,2,11.5,Tanzania,JG Kimaro,HM Omary,N Robertson-Jack,1,0,,,,,,"",""
+ball,2,11.6,Tanzania,HM Omary,JG Kimaro,N Robertson-Jack,0,0,,,,,,"",""
+ball,2,12.1,Tanzania,JG Kimaro,HM Omary,HRA Rainey,2,0,,,,,,"",""
+ball,2,12.2,Tanzania,JG Kimaro,HM Omary,HRA Rainey,2,0,,,,,,"",""
+ball,2,12.3,Tanzania,JG Kimaro,HM Omary,HRA Rainey,4,0,,,,,,"",""
+ball,2,12.4,Tanzania,JG Kimaro,HM Omary,HRA Rainey,0,1,1,,,,,"",""
+ball,2,12.5,Tanzania,JG Kimaro,HM Omary,HRA Rainey,2,0,,,,,,"",""
+ball,2,12.6,Tanzania,JG Kimaro,HM Omary,HRA Rainey,1,0,,,,,,"",""
+ball,2,12.7,Tanzania,HM Omary,JG Kimaro,HRA Rainey,1,0,,,,,,"",""
+ball,2,13.1,Tanzania,HM Omary,JG Kimaro,DEM Carter,1,0,,,,,,"",""
+ball,2,13.2,Tanzania,JG Kimaro,HM Omary,DEM Carter,0,0,,,,,,"",""
+ball,2,13.3,Tanzania,JG Kimaro,HM Omary,DEM Carter,1,0,,,,,,"",""
+ball,2,13.4,Tanzania,HM Omary,JG Kimaro,DEM Carter,4,0,,,,,,"",""
+ball,2,13.5,Tanzania,HM Omary,JG Kimaro,DEM Carter,1,0,,,,,,"",""
+ball,2,13.6,Tanzania,JG Kimaro,HM Omary,DEM Carter,4,0,,,,,,"",""
+ball,2,14.1,Tanzania,HM Omary,JG Kimaro,AH Maqsood,0,0,,,,,,"",""
+ball,2,14.2,Tanzania,HM Omary,JG Kimaro,AH Maqsood,1,0,,,,,,"",""
+ball,2,14.3,Tanzania,JG Kimaro,HM Omary,AH Maqsood,1,1,,1,,,,"",""
+ball,2,14.4,Tanzania,HM Omary,JG Kimaro,AH Maqsood,4,1,,1,,,,"",""
+ball,2,14.5,Tanzania,HM Omary,JG Kimaro,AH Maqsood,0,0,,,,,,"",""
+ball,2,14.6,Tanzania,HM Omary,JG Kimaro,AH Maqsood,1,0,,,,,,"",""
+ball,2,14.7,Tanzania,JG Kimaro,HM Omary,AH Maqsood,1,0,,,,,,"",""
+ball,2,14.8,Tanzania,HM Omary,JG Kimaro,AH Maqsood,0,0,,,,,,"",""
+ball,2,15.1,Tanzania,JG Kimaro,HM Omary,C Abel,0,1,,,,1,,"",""
+ball,2,15.2,Tanzania,HM Omary,JG Kimaro,C Abel,1,0,,,,,,"",""
+ball,2,15.3,Tanzania,JG Kimaro,HM Omary,C Abel,1,0,,,,,,run out,JG Kimaro
+ball,2,15.4,Tanzania,Nasra Mohamedi,HM Omary,C Abel,0,1,1,,,,,"",""
+ball,2,15.5,Tanzania,Nasra Mohamedi,HM Omary,C Abel,0,1,1,,,,,"",""
+ball,2,15.6,Tanzania,Nasra Mohamedi,HM Omary,C Abel,0,0,,,,,,"",""
+ball,2,15.7,Tanzania,Nasra Mohamedi,HM Omary,C Abel,1,0,,,,,,"",""
+ball,2,15.8,Tanzania,HM Omary,Nasra Mohamedi,C Abel,0,0,,,,,,"",""
+ball,2,16.1,Tanzania,Nasra Mohamedi,HM Omary,R Slater,1,0,,,,,,"",""
+ball,2,16.2,Tanzania,HM Omary,Nasra Mohamedi,R Slater,1,0,,,,,,"",""
+ball,2,16.3,Tanzania,Nasra Mohamedi,HM Omary,R Slater,1,0,,,,,,"",""
+ball,2,16.4,Tanzania,HM Omary,Nasra Mohamedi,R Slater,0,1,1,,,,,"",""
+ball,2,16.5,Tanzania,HM Omary,Nasra Mohamedi,R Slater,0,0,,,,,,"",""
+ball,2,16.6,Tanzania,HM Omary,Nasra Mohamedi,R Slater,1,0,,,,,,"",""
+ball,2,16.7,Tanzania,Nasra Mohamedi,HM Omary,R Slater,1,0,,,,,,"",""
+ball,2,17.1,Tanzania,Nasra Mohamedi,HM Omary,DEM Carter,1,0,,,,,,"",""
+ball,2,17.2,Tanzania,HM Omary,Nasra Mohamedi,DEM Carter,0,0,,,,,,run out,Nasra Mohamedi
+ball,2,17.3,Tanzania,NN Saidi,HM Omary,DEM Carter,0,0,,,,,,"",""
+ball,2,17.4,Tanzania,NN Saidi,HM Omary,DEM Carter,0,0,,,,,,caught and bowled,NN Saidi
+ball,2,17.5,Tanzania,PZ Kamunya,HM Omary,DEM Carter,1,0,,,,,,"",""
+ball,2,17.6,Tanzania,HM Omary,PZ Kamunya,DEM Carter,0,0,,,,,,"",""
+ball,2,18.1,Tanzania,PZ Kamunya,HM Omary,R Slater,0,0,,,,,,caught,PZ Kamunya
+ball,2,18.2,Tanzania,SH Mohamedi,HM Omary,R Slater,1,0,,,,,,"",""
+ball,2,18.3,Tanzania,HM Omary,SH Mohamedi,R Slater,1,0,,,,,,"",""
+ball,2,18.4,Tanzania,SH Mohamedi,HM Omary,R Slater,1,0,,,,,,"",""
+ball,2,18.5,Tanzania,HM Omary,SH Mohamedi,R Slater,1,0,,,,,,"",""
+ball,2,18.6,Tanzania,SH Mohamedi,HM Omary,R Slater,1,0,,,,,,"",""
+ball,2,19.1,Tanzania,SH Mohamedi,HM Omary,C Abel,0,0,,,,,,bowled,SH Mohamedi
+ball,2,19.2,Tanzania,MH Ushanga,HM Omary,C Abel,2,0,,,,,,"",""
+ball,2,19.3,Tanzania,MH Ushanga,HM Omary,C Abel,4,0,,,,,,"",""
+ball,2,19.4,Tanzania,MH Ushanga,HM Omary,C Abel,1,0,,,,,,"",""
+ball,2,19.5,Tanzania,HM Omary,MH Ushanga,C Abel,1,0,,,,,,"",""
+ball,2,19.6,Tanzania,MH Ushanga,HM Omary,C Abel,2,0,,,,,,"",""

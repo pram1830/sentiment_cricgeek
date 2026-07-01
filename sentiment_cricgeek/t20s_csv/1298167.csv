@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2022/23
+info,date,2022/11/01
+info,event,ICC Men's T20 World Cup
+info,match_number,33
+info,venue,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+info,city,Brisbane
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JC Buttler
+info,umpire,L Rusere
+info,umpire,Nitin Menon
+info,reserve_umpire,Ahsan Raza
+info,tv_umpire,RJ Tucker
+info,match_referee,AJ Pycroft
+info,winner,England
+info,winner_runs,20
+info,player,England,JC Buttler
+info,player,England,AD Hales
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,HC Brook
+info,player,England,BA Stokes
+info,player,England,SM Curran
+info,player,England,DJ Malan
+info,player,England,CR Woakes
+info,player,England,MA Wood
+info,player,England,AU Rashid
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,TG Southee
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+ball,1,0.1,England,JC Buttler,AD Hales,TA Boult,0,0,,,,,,"",""
+ball,1,0.2,England,JC Buttler,AD Hales,TA Boult,3,0,,,,,,"",""
+ball,1,0.3,England,AD Hales,JC Buttler,TA Boult,0,0,,,,,,"",""
+ball,1,0.4,England,AD Hales,JC Buttler,TA Boult,0,0,,,,,,"",""
+ball,1,0.5,England,AD Hales,JC Buttler,TA Boult,4,0,,,,,,"",""
+ball,1,0.6,England,AD Hales,JC Buttler,TA Boult,2,0,,,,,,"",""
+ball,1,1.1,England,JC Buttler,AD Hales,TG Southee,1,0,,,,,,"",""
+ball,1,1.2,England,AD Hales,JC Buttler,TG Southee,0,0,,,,,,"",""
+ball,1,1.3,England,AD Hales,JC Buttler,TG Southee,0,0,,,,,,"",""
+ball,1,1.4,England,AD Hales,JC Buttler,TG Southee,4,0,,,,,,"",""
+ball,1,1.5,England,AD Hales,JC Buttler,TG Southee,2,0,,,,,,"",""
+ball,1,1.6,England,AD Hales,JC Buttler,TG Southee,0,0,,,,,,"",""
+ball,1,2.1,England,JC Buttler,AD Hales,TA Boult,0,0,,,,,,"",""
+ball,1,2.2,England,JC Buttler,AD Hales,TA Boult,0,0,,,,,,"",""
+ball,1,2.3,England,JC Buttler,AD Hales,TA Boult,1,0,,,,,,"",""
+ball,1,2.4,England,AD Hales,JC Buttler,TA Boult,0,0,,,,,,"",""
+ball,1,2.5,England,AD Hales,JC Buttler,TA Boult,0,0,,,,,,"",""
+ball,1,2.6,England,AD Hales,JC Buttler,TA Boult,4,0,,,,,,"",""
+ball,1,3.1,England,JC Buttler,AD Hales,MJ Santner,1,0,,,,,,"",""
+ball,1,3.2,England,AD Hales,JC Buttler,MJ Santner,0,0,,,,,,"",""
+ball,1,3.3,England,AD Hales,JC Buttler,MJ Santner,0,0,,,,,,"",""
+ball,1,3.4,England,AD Hales,JC Buttler,MJ Santner,0,0,,,,,,"",""
+ball,1,3.5,England,AD Hales,JC Buttler,MJ Santner,0,1,,,,1,,"",""
+ball,1,3.6,England,JC Buttler,AD Hales,MJ Santner,2,0,,,,,,"",""
+ball,1,4.1,England,AD Hales,JC Buttler,TG Southee,6,0,,,,,,"",""
+ball,1,4.2,England,AD Hales,JC Buttler,TG Southee,0,0,,,,,,"",""
+ball,1,4.3,England,AD Hales,JC Buttler,TG Southee,4,0,,,,,,"",""
+ball,1,4.4,England,AD Hales,JC Buttler,TG Southee,4,0,,,,,,"",""
+ball,1,4.5,England,AD Hales,JC Buttler,TG Southee,0,0,,,,,,"",""
+ball,1,4.6,England,AD Hales,JC Buttler,TG Southee,1,0,,,,,,"",""
+ball,1,5.1,England,AD Hales,JC Buttler,MJ Santner,4,0,,,,,,"",""
+ball,1,5.2,England,AD Hales,JC Buttler,MJ Santner,1,0,,,,,,"",""
+ball,1,5.3,England,JC Buttler,AD Hales,MJ Santner,0,0,,,,,,"",""
+ball,1,5.4,England,JC Buttler,AD Hales,MJ Santner,1,0,,,,,,"",""
+ball,1,5.5,England,AD Hales,JC Buttler,MJ Santner,1,0,,,,,,"",""
+ball,1,5.6,England,JC Buttler,AD Hales,MJ Santner,1,0,,,,,,"",""
+ball,1,6.1,England,JC Buttler,AD Hales,LH Ferguson,1,0,,,,,,"",""
+ball,1,6.2,England,AD Hales,JC Buttler,LH Ferguson,1,0,,,,,,"",""
+ball,1,6.3,England,JC Buttler,AD Hales,LH Ferguson,6,0,,,,,,"",""
+ball,1,6.4,England,JC Buttler,AD Hales,LH Ferguson,1,0,,,,,,"",""
+ball,1,6.5,England,AD Hales,JC Buttler,LH Ferguson,0,0,,,,,,"",""
+ball,1,6.6,England,AD Hales,JC Buttler,LH Ferguson,1,0,,,,,,"",""
+ball,1,7.1,England,AD Hales,JC Buttler,IS Sodhi,0,0,,,,,,"",""
+ball,1,7.2,England,AD Hales,JC Buttler,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.3,England,JC Buttler,AD Hales,IS Sodhi,0,1,,,,1,,"",""
+ball,1,7.4,England,AD Hales,JC Buttler,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.5,England,JC Buttler,AD Hales,IS Sodhi,0,0,,,,,,"",""
+ball,1,7.6,England,JC Buttler,AD Hales,IS Sodhi,0,0,,,,,,"",""
+ball,1,8.1,England,AD Hales,JC Buttler,MJ Santner,2,0,,,,,,"",""
+ball,1,8.2,England,AD Hales,JC Buttler,MJ Santner,0,0,,,,,,"",""
+ball,1,8.3,England,AD Hales,JC Buttler,MJ Santner,0,0,,,,,,"",""
+ball,1,8.4,England,AD Hales,JC Buttler,MJ Santner,1,0,,,,,,"",""
+ball,1,8.5,England,JC Buttler,AD Hales,MJ Santner,1,0,,,,,,"",""
+ball,1,8.6,England,AD Hales,JC Buttler,MJ Santner,2,0,,,,,,"",""
+ball,1,9.1,England,JC Buttler,AD Hales,IS Sodhi,2,0,,,,,,"",""
+ball,1,9.2,England,JC Buttler,AD Hales,IS Sodhi,4,0,,,,,,"",""
+ball,1,9.3,England,JC Buttler,AD Hales,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.4,England,AD Hales,JC Buttler,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.5,England,JC Buttler,AD Hales,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.6,England,AD Hales,JC Buttler,IS Sodhi,1,0,,,,,,"",""
+ball,1,10.1,England,AD Hales,JC Buttler,MJ Santner,4,0,,,,,,"",""
+ball,1,10.2,England,AD Hales,JC Buttler,MJ Santner,0,0,,,,,,stumped,AD Hales
+ball,1,10.3,England,MM Ali,JC Buttler,MJ Santner,1,0,,,,,,"",""
+ball,1,10.4,England,JC Buttler,MM Ali,MJ Santner,1,0,,,,,,"",""
+ball,1,10.5,England,MM Ali,JC Buttler,MJ Santner,1,0,,,,,,"",""
+ball,1,10.6,England,JC Buttler,MM Ali,MJ Santner,1,0,,,,,,"",""
+ball,1,11.1,England,JC Buttler,MM Ali,IS Sodhi,0,0,,,,,,"",""
+ball,1,11.2,England,JC Buttler,MM Ali,IS Sodhi,2,0,,,,,,"",""
+ball,1,11.3,England,JC Buttler,MM Ali,IS Sodhi,4,0,,,,,,"",""
+ball,1,11.4,England,JC Buttler,MM Ali,IS Sodhi,1,0,,,,,,"",""
+ball,1,11.5,England,MM Ali,JC Buttler,IS Sodhi,2,0,,,,,,"",""
+ball,1,11.6,England,MM Ali,JC Buttler,IS Sodhi,0,0,,,,,,"",""
+ball,1,12.1,England,JC Buttler,MM Ali,LH Ferguson,0,0,,,,,,"",""
+ball,1,12.2,England,JC Buttler,MM Ali,LH Ferguson,4,0,,,,,,"",""
+ball,1,12.3,England,JC Buttler,MM Ali,LH Ferguson,1,0,,,,,,"",""
+ball,1,12.4,England,MM Ali,JC Buttler,LH Ferguson,1,0,,,,,,"",""
+ball,1,12.5,England,JC Buttler,MM Ali,LH Ferguson,4,0,,,,,,"",""
+ball,1,12.6,England,JC Buttler,MM Ali,LH Ferguson,4,0,,,,,,"",""
+ball,1,13.1,England,MM Ali,JC Buttler,IS Sodhi,0,0,,,,,,caught,MM Ali
+ball,1,13.2,England,LS Livingstone,JC Buttler,IS Sodhi,0,0,,,,,,"",""
+ball,1,13.3,England,LS Livingstone,JC Buttler,IS Sodhi,0,0,,,,,,"",""
+ball,1,13.4,England,LS Livingstone,JC Buttler,IS Sodhi,1,0,,,,,,"",""
+ball,1,13.5,England,JC Buttler,LS Livingstone,IS Sodhi,0,0,,,,,,"",""
+ball,1,13.6,England,JC Buttler,LS Livingstone,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.1,England,JC Buttler,LS Livingstone,TA Boult,2,0,,,,,,"",""
+ball,1,14.2,England,JC Buttler,LS Livingstone,TA Boult,4,0,,,,,,"",""
+ball,1,14.3,England,JC Buttler,LS Livingstone,TA Boult,4,0,,,,,,"",""
+ball,1,14.4,England,JC Buttler,LS Livingstone,TA Boult,0,1,1,,,,,"",""
+ball,1,14.5,England,JC Buttler,LS Livingstone,TA Boult,1,0,,,,,,"",""
+ball,1,14.6,England,LS Livingstone,JC Buttler,TA Boult,2,0,,,,,,"",""
+ball,1,14.7,England,LS Livingstone,JC Buttler,TA Boult,1,0,,,,,,"",""
+ball,1,15.1,England,LS Livingstone,JC Buttler,TG Southee,1,0,,,,,,"",""
+ball,1,15.2,England,JC Buttler,LS Livingstone,TG Southee,2,0,,,,,,"",""
+ball,1,15.3,England,JC Buttler,LS Livingstone,TG Southee,1,0,,,,,,"",""
+ball,1,15.4,England,LS Livingstone,JC Buttler,TG Southee,0,0,,,,,,"",""
+ball,1,15.5,England,LS Livingstone,JC Buttler,TG Southee,6,0,,,,,,"",""
+ball,1,15.6,England,LS Livingstone,JC Buttler,TG Southee,2,0,,,,,,"",""
+ball,1,16.1,England,JC Buttler,LS Livingstone,TA Boult,1,0,,,,,,"",""
+ball,1,16.2,England,LS Livingstone,JC Buttler,TA Boult,1,0,,,,,,"",""
+ball,1,16.3,England,JC Buttler,LS Livingstone,TA Boult,6,0,,,,,,"",""
+ball,1,16.4,England,JC Buttler,LS Livingstone,TA Boult,0,0,,,,,,"",""
+ball,1,16.5,England,JC Buttler,LS Livingstone,TA Boult,1,0,,,,,,"",""
+ball,1,16.6,England,LS Livingstone,JC Buttler,TA Boult,2,0,,,,,,"",""
+ball,1,17.1,England,JC Buttler,LS Livingstone,LH Ferguson,1,0,,,,,,"",""
+ball,1,17.2,England,LS Livingstone,JC Buttler,LH Ferguson,0,0,,,,,,"",""
+ball,1,17.3,England,LS Livingstone,JC Buttler,LH Ferguson,4,0,,,,,,"",""
+ball,1,17.4,England,LS Livingstone,JC Buttler,LH Ferguson,0,0,,,,,,bowled,LS Livingstone
+ball,1,17.5,England,HC Brook,JC Buttler,LH Ferguson,1,0,,,,,,"",""
+ball,1,17.6,England,JC Buttler,HC Brook,LH Ferguson,0,0,,,,,,"",""
+ball,1,18.1,England,HC Brook,JC Buttler,TG Southee,6,0,,,,,,"",""
+ball,1,18.2,England,HC Brook,JC Buttler,TG Southee,0,0,,,,,,caught,HC Brook
+ball,1,18.3,England,BA Stokes,JC Buttler,TG Southee,2,0,,,,,,"",""
+ball,1,18.4,England,BA Stokes,JC Buttler,TG Southee,0,0,,,,,,run out,JC Buttler
+ball,1,18.5,England,BA Stokes,SM Curran,TG Southee,1,0,,,,,,"",""
+ball,1,18.6,England,SM Curran,BA Stokes,TG Southee,0,0,,,,,,"",""
+ball,1,19.1,England,BA Stokes,SM Curran,LH Ferguson,2,0,,,,,,"",""
+ball,1,19.2,England,BA Stokes,SM Curran,LH Ferguson,1,0,,,,,,"",""
+ball,1,19.3,England,SM Curran,BA Stokes,LH Ferguson,6,0,,,,,,"",""
+ball,1,19.4,England,SM Curran,BA Stokes,LH Ferguson,0,2,,1,1,,,"",""
+ball,1,19.5,England,BA Stokes,SM Curran,LH Ferguson,2,0,,,,,,"",""
+ball,1,19.6,England,BA Stokes,SM Curran,LH Ferguson,0,0,,,,,,lbw,BA Stokes
+ball,1,19.7,England,DJ Malan,SM Curran,LH Ferguson,3,0,,,,,,"",""
+ball,2,0.1,New Zealand,FH Allen,DP Conway,MM Ali,2,0,,,,,,"",""
+ball,2,0.2,New Zealand,FH Allen,DP Conway,MM Ali,1,0,,,,,,"",""
+ball,2,0.3,New Zealand,DP Conway,FH Allen,MM Ali,0,0,,,,,,"",""
+ball,2,0.4,New Zealand,DP Conway,FH Allen,MM Ali,0,0,,,,,,"",""
+ball,2,0.5,New Zealand,DP Conway,FH Allen,MM Ali,0,0,,,,,,"",""
+ball,2,0.6,New Zealand,DP Conway,FH Allen,MM Ali,1,0,,,,,,"",""
+ball,2,1.1,New Zealand,DP Conway,FH Allen,CR Woakes,0,0,,,,,,"",""
+ball,2,1.2,New Zealand,DP Conway,FH Allen,CR Woakes,2,0,,,,,,"",""
+ball,2,1.3,New Zealand,DP Conway,FH Allen,CR Woakes,0,1,,,,1,,"",""
+ball,2,1.4,New Zealand,FH Allen,DP Conway,CR Woakes,1,0,,,,,,"",""
+ball,2,1.5,New Zealand,DP Conway,FH Allen,CR Woakes,0,0,,,,,,"",""
+ball,2,1.6,New Zealand,DP Conway,FH Allen,CR Woakes,0,0,,,,,,caught,DP Conway
+ball,2,2.1,New Zealand,FH Allen,KS Williamson,AU Rashid,1,0,,,,,,"",""
+ball,2,2.2,New Zealand,KS Williamson,FH Allen,AU Rashid,0,0,,,,,,"",""
+ball,2,2.3,New Zealand,KS Williamson,FH Allen,AU Rashid,1,0,,,,,,"",""
+ball,2,2.4,New Zealand,FH Allen,KS Williamson,AU Rashid,3,0,,,,,,"",""
+ball,2,2.5,New Zealand,KS Williamson,FH Allen,AU Rashid,0,0,,,,,,"",""
+ball,2,2.6,New Zealand,KS Williamson,FH Allen,AU Rashid,1,0,,,,,,"",""
+ball,2,3.1,New Zealand,KS Williamson,FH Allen,CR Woakes,1,0,,,,,,"",""
+ball,2,3.2,New Zealand,FH Allen,KS Williamson,CR Woakes,6,0,,,,,,"",""
+ball,2,3.3,New Zealand,FH Allen,KS Williamson,CR Woakes,1,0,,,,,,"",""
+ball,2,3.4,New Zealand,KS Williamson,FH Allen,CR Woakes,0,0,,,,,,"",""
+ball,2,3.5,New Zealand,KS Williamson,FH Allen,CR Woakes,0,0,,,,,,"",""
+ball,2,3.6,New Zealand,KS Williamson,FH Allen,CR Woakes,4,0,,,,,,"",""
+ball,2,4.1,New Zealand,FH Allen,KS Williamson,SM Curran,0,0,,,,,,"",""
+ball,2,4.2,New Zealand,FH Allen,KS Williamson,SM Curran,1,0,,,,,,"",""
+ball,2,4.3,New Zealand,KS Williamson,FH Allen,SM Curran,0,0,,,,,,"",""
+ball,2,4.4,New Zealand,KS Williamson,FH Allen,SM Curran,1,0,,,,,,"",""
+ball,2,4.5,New Zealand,FH Allen,KS Williamson,SM Curran,0,0,,,,,,"",""
+ball,2,4.6,New Zealand,FH Allen,KS Williamson,SM Curran,0,0,,,,,,caught,FH Allen
+ball,2,5.1,New Zealand,KS Williamson,GD Phillips,MA Wood,2,0,,,,,,"",""
+ball,2,5.2,New Zealand,KS Williamson,GD Phillips,MA Wood,0,1,1,,,,,"",""
+ball,2,5.3,New Zealand,KS Williamson,GD Phillips,MA Wood,0,0,,,,,,"",""
+ball,2,5.4,New Zealand,KS Williamson,GD Phillips,MA Wood,4,0,,,,,,"",""
+ball,2,5.5,New Zealand,KS Williamson,GD Phillips,MA Wood,0,0,,,,,,"",""
+ball,2,5.6,New Zealand,KS Williamson,GD Phillips,MA Wood,1,0,,,,,,"",""
+ball,2,5.7,New Zealand,GD Phillips,KS Williamson,MA Wood,4,0,,,,,,"",""
+ball,2,6.1,New Zealand,KS Williamson,GD Phillips,LS Livingstone,0,0,,,,,,"",""
+ball,2,6.2,New Zealand,KS Williamson,GD Phillips,LS Livingstone,1,0,,,,,,"",""
+ball,2,6.3,New Zealand,GD Phillips,KS Williamson,LS Livingstone,0,0,,,,,,"",""
+ball,2,6.4,New Zealand,GD Phillips,KS Williamson,LS Livingstone,1,0,,,,,,"",""
+ball,2,6.5,New Zealand,KS Williamson,GD Phillips,LS Livingstone,1,0,,,,,,"",""
+ball,2,6.6,New Zealand,GD Phillips,KS Williamson,LS Livingstone,4,0,,,,,,"",""
+ball,2,7.1,New Zealand,KS Williamson,GD Phillips,AU Rashid,0,0,,,,,,"",""
+ball,2,7.2,New Zealand,KS Williamson,GD Phillips,AU Rashid,1,0,,,,,,"",""
+ball,2,7.3,New Zealand,GD Phillips,KS Williamson,AU Rashid,2,0,,,,,,"",""
+ball,2,7.4,New Zealand,GD Phillips,KS Williamson,AU Rashid,1,0,,,,,,"",""
+ball,2,7.5,New Zealand,KS Williamson,GD Phillips,AU Rashid,0,0,,,,,,"",""
+ball,2,7.6,New Zealand,KS Williamson,GD Phillips,AU Rashid,2,0,,,,,,"",""
+ball,2,8.1,New Zealand,GD Phillips,KS Williamson,LS Livingstone,1,0,,,,,,"",""
+ball,2,8.2,New Zealand,KS Williamson,GD Phillips,LS Livingstone,2,0,,,,,,"",""
+ball,2,8.3,New Zealand,KS Williamson,GD Phillips,LS Livingstone,1,0,,,,,,"",""
+ball,2,8.4,New Zealand,GD Phillips,KS Williamson,LS Livingstone,1,0,,,,,,"",""
+ball,2,8.5,New Zealand,KS Williamson,GD Phillips,LS Livingstone,0,0,,,,,,"",""
+ball,2,8.6,New Zealand,KS Williamson,GD Phillips,LS Livingstone,4,0,,,,,,"",""
+ball,2,9.1,New Zealand,GD Phillips,KS Williamson,AU Rashid,0,0,,,,,,"",""
+ball,2,9.2,New Zealand,GD Phillips,KS Williamson,AU Rashid,1,0,,,,,,"",""
+ball,2,9.3,New Zealand,KS Williamson,GD Phillips,AU Rashid,0,0,,,,,,"",""
+ball,2,9.4,New Zealand,KS Williamson,GD Phillips,AU Rashid,1,0,,,,,,"",""
+ball,2,9.5,New Zealand,GD Phillips,KS Williamson,AU Rashid,1,0,,,,,,"",""
+ball,2,9.6,New Zealand,KS Williamson,GD Phillips,AU Rashid,1,0,,,,,,"",""
+ball,2,10.1,New Zealand,KS Williamson,GD Phillips,LS Livingstone,2,0,,,,,,"",""
+ball,2,10.2,New Zealand,KS Williamson,GD Phillips,LS Livingstone,1,0,,,,,,"",""
+ball,2,10.3,New Zealand,GD Phillips,KS Williamson,LS Livingstone,4,0,,,,,,"",""
+ball,2,10.4,New Zealand,GD Phillips,KS Williamson,LS Livingstone,1,0,,,,,,"",""
+ball,2,10.5,New Zealand,KS Williamson,GD Phillips,LS Livingstone,2,0,,,,,,"",""
+ball,2,10.6,New Zealand,KS Williamson,GD Phillips,LS Livingstone,0,0,,,,,,"",""
+ball,2,11.1,New Zealand,GD Phillips,KS Williamson,MA Wood,2,0,,,,,,"",""
+ball,2,11.2,New Zealand,GD Phillips,KS Williamson,MA Wood,0,0,,,,,,"",""
+ball,2,11.3,New Zealand,GD Phillips,KS Williamson,MA Wood,6,0,,,,,,"",""
+ball,2,11.4,New Zealand,GD Phillips,KS Williamson,MA Wood,0,0,,,,,,"",""
+ball,2,11.5,New Zealand,GD Phillips,KS Williamson,MA Wood,1,0,,,,,,"",""
+ball,2,11.6,New Zealand,KS Williamson,GD Phillips,MA Wood,1,0,,,,,,"",""
+ball,2,12.1,New Zealand,KS Williamson,GD Phillips,SM Curran,1,0,,,,,,"",""
+ball,2,12.2,New Zealand,GD Phillips,KS Williamson,SM Curran,0,2,2,,,,,"",""
+ball,2,12.3,New Zealand,KS Williamson,GD Phillips,SM Curran,1,0,,,,,,"",""
+ball,2,12.4,New Zealand,GD Phillips,KS Williamson,SM Curran,2,0,,,,,,"",""
+ball,2,12.5,New Zealand,GD Phillips,KS Williamson,SM Curran,0,0,,,,,,"",""
+ball,2,12.6,New Zealand,GD Phillips,KS Williamson,SM Curran,2,0,,,,,,"",""
+ball,2,12.7,New Zealand,GD Phillips,KS Williamson,SM Curran,2,0,,,,,,"",""
+ball,2,13.1,New Zealand,KS Williamson,GD Phillips,AU Rashid,1,0,,,,,,"",""
+ball,2,13.2,New Zealand,GD Phillips,KS Williamson,AU Rashid,6,0,,,,,,"",""
+ball,2,13.3,New Zealand,GD Phillips,KS Williamson,AU Rashid,6,0,,,,,,"",""
+ball,2,13.4,New Zealand,GD Phillips,KS Williamson,AU Rashid,2,0,,,,,,"",""
+ball,2,13.5,New Zealand,GD Phillips,KS Williamson,AU Rashid,1,0,,,,,,"",""
+ball,2,13.6,New Zealand,KS Williamson,GD Phillips,AU Rashid,1,0,,,,,,"",""
+ball,2,14.1,New Zealand,KS Williamson,GD Phillips,BA Stokes,1,0,,,,,,"",""
+ball,2,14.2,New Zealand,GD Phillips,KS Williamson,BA Stokes,4,0,,,,,,"",""
+ball,2,14.3,New Zealand,GD Phillips,KS Williamson,BA Stokes,0,0,,,,,,"",""
+ball,2,14.4,New Zealand,GD Phillips,KS Williamson,BA Stokes,1,0,,,,,,"",""
+ball,2,14.5,New Zealand,KS Williamson,GD Phillips,BA Stokes,0,0,,,,,,caught,KS Williamson
+ball,2,14.6,New Zealand,JDS Neesham,GD Phillips,BA Stokes,4,0,,,,,,"",""
+ball,2,15.1,New Zealand,GD Phillips,JDS Neesham,MA Wood,0,0,,,,,,"",""
+ball,2,15.2,New Zealand,GD Phillips,JDS Neesham,MA Wood,1,0,,,,,,"",""
+ball,2,15.3,New Zealand,JDS Neesham,GD Phillips,MA Wood,2,0,,,,,,"",""
+ball,2,15.4,New Zealand,JDS Neesham,GD Phillips,MA Wood,0,0,,,,,,caught,JDS Neesham
+ball,2,15.5,New Zealand,DJ Mitchell,GD Phillips,MA Wood,0,0,,,,,,"",""
+ball,2,15.6,New Zealand,DJ Mitchell,GD Phillips,MA Wood,0,0,,,,,,"",""
+ball,2,16.1,New Zealand,GD Phillips,DJ Mitchell,CR Woakes,1,0,,,,,,"",""
+ball,2,16.2,New Zealand,DJ Mitchell,GD Phillips,CR Woakes,2,0,,,,,,"",""
+ball,2,16.3,New Zealand,DJ Mitchell,GD Phillips,CR Woakes,1,0,,,,,,"",""
+ball,2,16.4,New Zealand,GD Phillips,DJ Mitchell,CR Woakes,0,0,,,,,,"",""
+ball,2,16.5,New Zealand,GD Phillips,DJ Mitchell,CR Woakes,1,0,,,,,,"",""
+ball,2,16.6,New Zealand,DJ Mitchell,GD Phillips,CR Woakes,0,0,,,,,,caught,DJ Mitchell
+ball,2,17.1,New Zealand,GD Phillips,MJ Santner,SM Curran,3,0,,,,,,"",""
+ball,2,17.2,New Zealand,MJ Santner,GD Phillips,SM Curran,1,0,,,,,,"",""
+ball,2,17.3,New Zealand,GD Phillips,MJ Santner,SM Curran,0,0,,,,,,caught,GD Phillips
+ball,2,17.4,New Zealand,IS Sodhi,MJ Santner,SM Curran,3,0,,,,,,"",""
+ball,2,17.5,New Zealand,MJ Santner,IS Sodhi,SM Curran,1,0,,,,,,"",""
+ball,2,17.6,New Zealand,IS Sodhi,MJ Santner,SM Curran,1,0,,,,,,"",""
+ball,2,18.1,New Zealand,IS Sodhi,MJ Santner,CR Woakes,1,0,,,,,,"",""
+ball,2,18.2,New Zealand,MJ Santner,IS Sodhi,CR Woakes,1,0,,,,,,"",""
+ball,2,18.3,New Zealand,IS Sodhi,MJ Santner,CR Woakes,0,1,,,,1,,"",""
+ball,2,18.4,New Zealand,MJ Santner,IS Sodhi,CR Woakes,2,0,,,,,,"",""
+ball,2,18.5,New Zealand,MJ Santner,IS Sodhi,CR Woakes,2,0,,,,,,"",""
+ball,2,18.6,New Zealand,MJ Santner,IS Sodhi,CR Woakes,0,1,1,,,,,"",""
+ball,2,18.7,New Zealand,MJ Santner,IS Sodhi,CR Woakes,6,0,,,,,,"",""
+ball,2,19.1,New Zealand,IS Sodhi,MJ Santner,SM Curran,0,0,,,,,,"",""
+ball,2,19.2,New Zealand,IS Sodhi,MJ Santner,SM Curran,1,0,,,,,,"",""
+ball,2,19.3,New Zealand,MJ Santner,IS Sodhi,SM Curran,0,1,1,,,,,"",""
+ball,2,19.4,New Zealand,MJ Santner,IS Sodhi,SM Curran,2,0,,,,,,"",""
+ball,2,19.5,New Zealand,MJ Santner,IS Sodhi,SM Curran,0,0,,,,,,"",""
+ball,2,19.6,New Zealand,MJ Santner,IS Sodhi,SM Curran,0,0,,,,,,"",""
+ball,2,19.7,New Zealand,MJ Santner,IS Sodhi,SM Curran,1,0,,,,,,"",""

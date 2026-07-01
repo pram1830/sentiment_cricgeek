@@ -1,0 +1,231 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Qatar
+info,gender,female
+info,season,2022
+info,date,2022/06/21
+info,event,Asian Cricket Council Women's T20 Championship
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,A Mare
+info,umpire,DN Subedi
+info,umpire,Tabarak Dar
+info,reserve_umpire,Samad Akbar
+info,match_referee,Edwin Seah
+info,winner,Qatar
+info,winner_wickets,5
+info,player,Singapore,Zay Hua Tan
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,GK Diviya
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,CH Abeyratne
+info,player,Singapore,AP Venkata
+info,player,Singapore,I Shukla
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,Damini Ramesh
+info,player,Qatar,Shahreeennawab
+info,player,Qatar,SK Rana
+info,player,Qatar,Aysha
+info,player,Qatar,A Mare
+info,player,Qatar,S Dhadwal
+info,player,Qatar,Aleena Khan
+info,player,Qatar,H Agarwal
+info,player,Qatar,T Kale
+info,player,Qatar,Rizpha Bano
+info,player,Qatar,Khadija Imtiaz
+info,player,Qatar,RS Quyn
+info,registry,people,A Mare,57a25400
+info,registry,people,AP Venkata,7d8c58c4
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Aleena Khan,97f2faf0
+info,registry,people,Aysha,37ceee4e
+info,registry,people,CH Abeyratne,ef423744
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Agarwal,3f886270
+info,registry,people,I Shukla,ce490298
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,Khadija Imtiaz,1438d928
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,RS Quyn,41721f6b
+info,registry,people,Rizpha Bano,c7832845
+info,registry,people,S Dhadwal,7e2c16a3
+info,registry,people,SK Rana,47884f8e
+info,registry,people,Samad Akbar,f05bd21b
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Shahreeennawab,faa8843f
+info,registry,people,T Kale,bc9bd4c6
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,Zay Hua Tan,b0576916
+ball,1,0.1,Singapore,Zay Hua Tan,PSR Gurusinghe,Aysha,0,0,,,,,,"",""
+ball,1,0.2,Singapore,Zay Hua Tan,PSR Gurusinghe,Aysha,0,0,,,,,,"",""
+ball,1,0.3,Singapore,Zay Hua Tan,PSR Gurusinghe,Aysha,2,0,,,,,,"",""
+ball,1,0.4,Singapore,Zay Hua Tan,PSR Gurusinghe,Aysha,0,0,,,,,,"",""
+ball,1,0.5,Singapore,Zay Hua Tan,PSR Gurusinghe,Aysha,1,0,,,,,,"",""
+ball,1,0.6,Singapore,Zay Hua Tan,PSR Gurusinghe,Aysha,0,0,,,,,,"",""
+ball,1,1.1,Singapore,PSR Gurusinghe,Zay Hua Tan,A Mare,0,0,,,,,,"",""
+ball,1,1.2,Singapore,PSR Gurusinghe,Zay Hua Tan,A Mare,1,0,,,,,,"",""
+ball,1,1.3,Singapore,Zay Hua Tan,PSR Gurusinghe,A Mare,0,1,1,,,,,"",""
+ball,1,1.4,Singapore,Zay Hua Tan,PSR Gurusinghe,A Mare,0,0,,,,,,bowled,Zay Hua Tan
+ball,1,1.5,Singapore,Shafina Mahesh,PSR Gurusinghe,A Mare,0,0,,,,,,"",""
+ball,1,1.6,Singapore,Shafina Mahesh,PSR Gurusinghe,A Mare,0,0,,,,,,"",""
+ball,1,1.7,Singapore,Shafina Mahesh,PSR Gurusinghe,A Mare,2,0,,,,,,"",""
+ball,1,2.1,Singapore,PSR Gurusinghe,Shafina Mahesh,Aysha,0,0,,,,,,lbw,PSR Gurusinghe
+ball,1,2.2,Singapore,GK Diviya,Shafina Mahesh,Aysha,0,0,,,,,,"",""
+ball,1,2.3,Singapore,GK Diviya,Shafina Mahesh,Aysha,4,0,,,,,,"",""
+ball,1,2.4,Singapore,GK Diviya,Shafina Mahesh,Aysha,1,0,,,,,,"",""
+ball,1,2.5,Singapore,Shafina Mahesh,GK Diviya,Aysha,0,0,,,,,,"",""
+ball,1,2.6,Singapore,Shafina Mahesh,GK Diviya,Aysha,0,0,,,,,,"",""
+ball,1,3.1,Singapore,GK Diviya,Shafina Mahesh,A Mare,1,0,,,,,,"",""
+ball,1,3.2,Singapore,Shafina Mahesh,GK Diviya,A Mare,0,1,1,,,,,"",""
+ball,1,3.3,Singapore,Shafina Mahesh,GK Diviya,A Mare,0,0,,,,,,"",""
+ball,1,3.4,Singapore,Shafina Mahesh,GK Diviya,A Mare,0,0,,,,,,"",""
+ball,1,3.5,Singapore,Shafina Mahesh,GK Diviya,A Mare,1,0,,,,,,"",""
+ball,1,3.6,Singapore,GK Diviya,Shafina Mahesh,A Mare,0,0,,,,,,"",""
+ball,1,3.7,Singapore,GK Diviya,Shafina Mahesh,A Mare,0,0,,,,,,"",""
+ball,1,4.1,Singapore,Shafina Mahesh,GK Diviya,Aysha,0,0,,,,,,"",""
+ball,1,4.2,Singapore,Shafina Mahesh,GK Diviya,Aysha,1,0,,,,,,"",""
+ball,1,4.3,Singapore,GK Diviya,Shafina Mahesh,Aysha,0,0,,,,,,"",""
+ball,1,4.4,Singapore,GK Diviya,Shafina Mahesh,Aysha,1,0,,,,,,"",""
+ball,1,4.5,Singapore,Shafina Mahesh,GK Diviya,Aysha,2,0,,,,,,"",""
+ball,1,4.6,Singapore,Shafina Mahesh,GK Diviya,Aysha,0,0,,,,,,"",""
+ball,1,5.1,Singapore,GK Diviya,Shafina Mahesh,A Mare,0,0,,,,,,"",""
+ball,1,5.2,Singapore,GK Diviya,Shafina Mahesh,A Mare,0,0,,,,,,caught,GK Diviya
+ball,1,5.3,Singapore,Vinu Kumar,Shafina Mahesh,A Mare,0,0,,,,,,"",""
+ball,1,5.4,Singapore,Vinu Kumar,Shafina Mahesh,A Mare,0,0,,,,,,run out,Shafina Mahesh
+ball,1,5.5,Singapore,Vinu Kumar,CH Abeyratne,A Mare,4,0,,,,,,"",""
+ball,1,5.6,Singapore,Vinu Kumar,CH Abeyratne,A Mare,0,0,,,,,,"",""
+ball,1,6.1,Singapore,CH Abeyratne,Vinu Kumar,H Agarwal,0,0,,,,,,"",""
+ball,1,6.2,Singapore,CH Abeyratne,Vinu Kumar,H Agarwal,0,0,,,,,,"",""
+ball,1,6.3,Singapore,CH Abeyratne,Vinu Kumar,H Agarwal,0,1,1,,,,,"",""
+ball,1,6.4,Singapore,CH Abeyratne,Vinu Kumar,H Agarwal,1,0,,,,,,"",""
+ball,1,6.5,Singapore,Vinu Kumar,CH Abeyratne,H Agarwal,0,0,,,,,,"",""
+ball,1,6.6,Singapore,Vinu Kumar,CH Abeyratne,H Agarwal,2,0,,,,,,"",""
+ball,1,6.7,Singapore,Vinu Kumar,CH Abeyratne,H Agarwal,0,1,1,,,,,"",""
+ball,1,6.8,Singapore,Vinu Kumar,CH Abeyratne,H Agarwal,1,0,,,,,,"",""
+ball,1,7.1,Singapore,Vinu Kumar,CH Abeyratne,A Mare,0,0,,,,,,caught,Vinu Kumar
+ball,1,7.2,Singapore,AP Venkata,CH Abeyratne,A Mare,0,0,,,,,,"",""
+ball,1,7.3,Singapore,AP Venkata,CH Abeyratne,A Mare,0,0,,,,,,"",""
+ball,1,7.4,Singapore,AP Venkata,CH Abeyratne,A Mare,1,0,,,,,,"",""
+ball,1,7.5,Singapore,CH Abeyratne,AP Venkata,A Mare,0,0,,,,,,"",""
+ball,1,7.6,Singapore,CH Abeyratne,AP Venkata,A Mare,0,0,,,,,,"",""
+ball,1,8.1,Singapore,AP Venkata,CH Abeyratne,H Agarwal,0,1,1,,,,,"",""
+ball,1,8.2,Singapore,AP Venkata,CH Abeyratne,H Agarwal,0,0,,,,,,"",""
+ball,1,8.3,Singapore,AP Venkata,CH Abeyratne,H Agarwal,0,0,,,,,,"",""
+ball,1,8.4,Singapore,AP Venkata,CH Abeyratne,H Agarwal,1,0,,,,,,"",""
+ball,1,8.5,Singapore,CH Abeyratne,AP Venkata,H Agarwal,0,0,,,,,,"",""
+ball,1,8.6,Singapore,CH Abeyratne,AP Venkata,H Agarwal,0,0,,,,,,"",""
+ball,1,8.7,Singapore,CH Abeyratne,AP Venkata,H Agarwal,2,0,,,,,,"",""
+ball,1,9.1,Singapore,AP Venkata,CH Abeyratne,S Dhadwal,0,0,,,,,,"",""
+ball,1,9.2,Singapore,AP Venkata,CH Abeyratne,S Dhadwal,0,0,,,,,,"",""
+ball,1,9.3,Singapore,AP Venkata,CH Abeyratne,S Dhadwal,0,1,1,,,,,"",""
+ball,1,9.4,Singapore,AP Venkata,CH Abeyratne,S Dhadwal,0,1,1,,,,,"",""
+ball,1,9.5,Singapore,AP Venkata,CH Abeyratne,S Dhadwal,0,0,,,,,,caught,AP Venkata
+ball,1,9.6,Singapore,I Shukla,CH Abeyratne,S Dhadwal,0,0,,,,,,"",""
+ball,1,9.7,Singapore,I Shukla,CH Abeyratne,S Dhadwal,0,0,,,,,,"",""
+ball,1,9.8,Singapore,I Shukla,CH Abeyratne,S Dhadwal,0,0,,,,,,"",""
+ball,1,10.1,Singapore,CH Abeyratne,I Shukla,H Agarwal,0,0,,,,,,bowled,CH Abeyratne
+ball,1,10.2,Singapore,Ada Bhasin,I Shukla,H Agarwal,0,0,,,,,,"",""
+ball,1,10.3,Singapore,Ada Bhasin,I Shukla,H Agarwal,0,0,,,,,,"",""
+ball,1,10.4,Singapore,Ada Bhasin,I Shukla,H Agarwal,0,0,,,,,,"",""
+ball,1,10.5,Singapore,Ada Bhasin,I Shukla,H Agarwal,0,0,,,,,,"",""
+ball,1,10.6,Singapore,Ada Bhasin,I Shukla,H Agarwal,2,0,,,,,,"",""
+ball,1,11.1,Singapore,I Shukla,Ada Bhasin,S Dhadwal,0,0,,,,,,"",""
+ball,1,11.2,Singapore,I Shukla,Ada Bhasin,S Dhadwal,0,0,,,,,,"",""
+ball,1,11.3,Singapore,I Shukla,Ada Bhasin,S Dhadwal,1,0,,,,,,"",""
+ball,1,11.4,Singapore,Ada Bhasin,I Shukla,S Dhadwal,0,0,,,,,,"",""
+ball,1,11.5,Singapore,Ada Bhasin,I Shukla,S Dhadwal,2,0,,,,,,"",""
+ball,1,11.6,Singapore,Ada Bhasin,I Shukla,S Dhadwal,2,0,,,,,,"",""
+ball,1,12.1,Singapore,I Shukla,Ada Bhasin,H Agarwal,0,0,,,,,,"",""
+ball,1,12.2,Singapore,I Shukla,Ada Bhasin,H Agarwal,1,0,,,,,,"",""
+ball,1,12.3,Singapore,Ada Bhasin,I Shukla,H Agarwal,0,0,,,,,,lbw,Ada Bhasin
+ball,1,12.4,Singapore,JS Pooranakaran,I Shukla,H Agarwal,0,0,,,,,,"",""
+ball,1,12.5,Singapore,JS Pooranakaran,I Shukla,H Agarwal,0,0,,,,,,"",""
+ball,1,12.6,Singapore,JS Pooranakaran,I Shukla,H Agarwal,0,0,,,,,,"",""
+ball,1,13.1,Singapore,I Shukla,JS Pooranakaran,S Dhadwal,0,0,,,,,,"",""
+ball,1,13.2,Singapore,I Shukla,JS Pooranakaran,S Dhadwal,0,0,,,,,,"",""
+ball,1,13.3,Singapore,I Shukla,JS Pooranakaran,S Dhadwal,2,0,,,,,,"",""
+ball,1,13.4,Singapore,I Shukla,JS Pooranakaran,S Dhadwal,0,0,,,,,,"",""
+ball,1,13.5,Singapore,I Shukla,JS Pooranakaran,S Dhadwal,0,0,,,,,,"",""
+ball,1,13.6,Singapore,I Shukla,JS Pooranakaran,S Dhadwal,0,0,,,,,,bowled,I Shukla
+ball,1,14.1,Singapore,JS Pooranakaran,Damini Ramesh,Aysha,0,0,,,,,,"",""
+ball,1,14.2,Singapore,JS Pooranakaran,Damini Ramesh,Aysha,0,0,,,,,,"",""
+ball,1,14.3,Singapore,JS Pooranakaran,Damini Ramesh,Aysha,0,0,,,,,,stumped,JS Pooranakaran
+ball,2,0.1,Qatar,Shahreeennawab,SK Rana,GK Diviya,0,0,,,,,,"",""
+ball,2,0.2,Qatar,Shahreeennawab,SK Rana,GK Diviya,0,0,,,,,,"",""
+ball,2,0.3,Qatar,Shahreeennawab,SK Rana,GK Diviya,1,0,,,,,,"",""
+ball,2,0.4,Qatar,SK Rana,Shahreeennawab,GK Diviya,0,0,,,,,,"",""
+ball,2,0.5,Qatar,SK Rana,Shahreeennawab,GK Diviya,2,0,,,,,,"",""
+ball,2,0.6,Qatar,SK Rana,Shahreeennawab,GK Diviya,4,0,,,,,,"",""
+ball,2,1.1,Qatar,Shahreeennawab,SK Rana,I Shukla,0,1,1,,,,,"",""
+ball,2,1.2,Qatar,Shahreeennawab,SK Rana,I Shukla,0,1,1,,,,,"",""
+ball,2,1.3,Qatar,Shahreeennawab,SK Rana,I Shukla,0,2,2,,,,,"",""
+ball,2,1.4,Qatar,SK Rana,Shahreeennawab,I Shukla,0,0,,,,,,bowled,SK Rana
+ball,2,1.5,Qatar,Aysha,Shahreeennawab,I Shukla,0,0,,,,,,"",""
+ball,2,1.6,Qatar,Aysha,Shahreeennawab,I Shukla,0,0,,,,,,"",""
+ball,2,1.7,Qatar,Aysha,Shahreeennawab,I Shukla,0,0,,,,,,"",""
+ball,2,1.8,Qatar,Aysha,Shahreeennawab,I Shukla,1,0,,,,,,"",""
+ball,2,1.9,Qatar,Shahreeennawab,Aysha,I Shukla,0,0,,,,,,"",""
+ball,2,2.1,Qatar,Aysha,Shahreeennawab,GK Diviya,1,0,,,,,,"",""
+ball,2,2.2,Qatar,Shahreeennawab,Aysha,GK Diviya,0,0,,,,,,"",""
+ball,2,2.3,Qatar,Shahreeennawab,Aysha,GK Diviya,1,0,,,,,,"",""
+ball,2,2.4,Qatar,Aysha,Shahreeennawab,GK Diviya,3,0,,,,,,"",""
+ball,2,2.5,Qatar,Shahreeennawab,Aysha,GK Diviya,0,0,,,,,,"",""
+ball,2,2.6,Qatar,Shahreeennawab,Aysha,GK Diviya,0,0,,,,,,"",""
+ball,2,3.1,Qatar,Aysha,Shahreeennawab,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,3.2,Qatar,Aysha,Shahreeennawab,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,3.3,Qatar,Aysha,Shahreeennawab,Shafina Mahesh,0,1,1,,,,,"",""
+ball,2,3.4,Qatar,Aysha,Shahreeennawab,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,3.5,Qatar,Aysha,Shahreeennawab,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,3.6,Qatar,Aysha,Shahreeennawab,Shafina Mahesh,2,0,,,,,,"",""
+ball,2,3.7,Qatar,Aysha,Shahreeennawab,Shafina Mahesh,0,0,,,,,,caught and bowled,Aysha
+ball,2,4.1,Qatar,Shahreeennawab,A Mare,GK Diviya,0,0,,,,,,"",""
+ball,2,4.2,Qatar,Shahreeennawab,A Mare,GK Diviya,0,0,,,,,,"",""
+ball,2,4.3,Qatar,Shahreeennawab,A Mare,GK Diviya,0,0,,,,,,caught,Shahreeennawab
+ball,2,4.4,Qatar,A Mare,S Dhadwal,GK Diviya,1,0,,,,,,"",""
+ball,2,4.5,Qatar,S Dhadwal,A Mare,GK Diviya,0,0,,,,,,"",""
+ball,2,4.6,Qatar,S Dhadwal,A Mare,GK Diviya,0,0,,,,,,"",""
+ball,2,5.1,Qatar,A Mare,S Dhadwal,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,5.2,Qatar,S Dhadwal,A Mare,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,5.3,Qatar,S Dhadwal,A Mare,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,5.4,Qatar,S Dhadwal,A Mare,Shafina Mahesh,2,0,,,,,,"",""
+ball,2,5.5,Qatar,S Dhadwal,A Mare,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,5.6,Qatar,A Mare,S Dhadwal,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,6.1,Qatar,A Mare,S Dhadwal,Vinu Kumar,0,0,,,,,,"",""
+ball,2,6.2,Qatar,A Mare,S Dhadwal,Vinu Kumar,0,0,,,,,,"",""
+ball,2,6.3,Qatar,A Mare,S Dhadwal,Vinu Kumar,0,0,,,,,,"",""
+ball,2,6.4,Qatar,A Mare,S Dhadwal,Vinu Kumar,0,0,,,,,,"",""
+ball,2,6.5,Qatar,A Mare,S Dhadwal,Vinu Kumar,1,0,,,,,,"",""
+ball,2,6.6,Qatar,S Dhadwal,A Mare,Vinu Kumar,1,0,,,,,,"",""
+ball,2,7.1,Qatar,S Dhadwal,A Mare,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,7.2,Qatar,S Dhadwal,A Mare,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,7.3,Qatar,A Mare,S Dhadwal,Shafina Mahesh,0,1,1,,,,,"",""
+ball,2,7.4,Qatar,A Mare,S Dhadwal,Shafina Mahesh,4,0,,,,,,"",""
+ball,2,7.5,Qatar,A Mare,S Dhadwal,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,7.6,Qatar,A Mare,S Dhadwal,Shafina Mahesh,0,1,1,,,,,"",""
+ball,2,7.7,Qatar,A Mare,S Dhadwal,Shafina Mahesh,0,0,,,,,,caught,A Mare
+ball,2,7.8,Qatar,Aleena Khan,S Dhadwal,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,8.1,Qatar,S Dhadwal,Aleena Khan,Vinu Kumar,2,0,,,,,,"",""
+ball,2,8.2,Qatar,S Dhadwal,Aleena Khan,Vinu Kumar,0,0,,,,,,"",""
+ball,2,8.3,Qatar,S Dhadwal,Aleena Khan,Vinu Kumar,0,0,,,,,,run out,Aleena Khan
+ball,2,8.4,Qatar,S Dhadwal,H Agarwal,Vinu Kumar,1,0,,,,,,"",""
+ball,2,8.5,Qatar,H Agarwal,S Dhadwal,Vinu Kumar,0,0,,,,,,"",""
+ball,2,8.6,Qatar,H Agarwal,S Dhadwal,Vinu Kumar,0,0,,,,,,"",""
+ball,2,9.1,Qatar,S Dhadwal,H Agarwal,Shafina Mahesh,2,0,,,,,,"",""
+ball,2,9.2,Qatar,S Dhadwal,H Agarwal,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,9.3,Qatar,S Dhadwal,H Agarwal,Shafina Mahesh,2,0,,,,,,"",""
+ball,2,9.4,Qatar,S Dhadwal,H Agarwal,Shafina Mahesh,0,1,1,,,,,"",""
+ball,2,9.5,Qatar,S Dhadwal,H Agarwal,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,9.6,Qatar,S Dhadwal,H Agarwal,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,9.7,Qatar,S Dhadwal,H Agarwal,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,10.1,Qatar,S Dhadwal,H Agarwal,GK Diviya,1,0,,,,,,"",""
+ball,2,10.2,Qatar,H Agarwal,S Dhadwal,GK Diviya,0,0,,,,,,"",""
+ball,2,10.3,Qatar,H Agarwal,S Dhadwal,GK Diviya,2,0,,,,,,"",""

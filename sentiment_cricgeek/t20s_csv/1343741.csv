@@ -1,0 +1,332 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lesotho
+info,team,Mali
+info,gender,male
+info,season,2022/23
+info,date,2022/11/17
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,2
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Mali
+info,toss_decision,field
+info,player_of_match,LM Gabriel
+info,umpire,IO Oyieko
+info,umpire,R D'Mello
+info,reserve_umpire,D Odhiambo
+info,match_referee,S Wadvalla
+info,winner,Lesotho
+info,winner_runs,31
+info,player,Lesotho,Maaz Khan
+info,player,Lesotho,C Tlali
+info,player,Lesotho,Sameer Patel
+info,player,Lesotho,LM Gabriel
+info,player,Lesotho,Waseem Yaqoob
+info,player,Lesotho,Khan Arbaaz
+info,player,Lesotho,YYM Jakda
+info,player,Lesotho,ME Leoela
+info,player,Lesotho,TD Chaoana
+info,player,Lesotho,MV Matsau
+info,player,Lesotho,TG Thamae
+info,player,Mali,M Sidibe
+info,player,Mali,Mohamed Coulibaly
+info,player,Mali,D Traore
+info,player,Mali,MS Diawara
+info,player,Mali,MT Diaby
+info,player,Mali,CA Keita
+info,player,Mali,TM Macalou
+info,player,Mali,SG Diaby
+info,player,Mali,MS Diakite
+info,player,Mali,S Kamate
+info,player,Mali,L Sanogo
+info,registry,people,C Tlali,70841eab
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,D Odhiambo,45994517
+info,registry,people,D Traore,273be75a
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,Khan Arbaaz,b84be97f
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,LM Gabriel,88a5adcf
+info,registry,people,M Sidibe,78091b14
+info,registry,people,ME Leoela,3b107df5
+info,registry,people,MS Diakite,69795fcd
+info,registry,people,MS Diawara,8c95e2dd
+info,registry,people,MT Diaby,5d00cd6f
+info,registry,people,MV Matsau,dad64776
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,Mohamed Coulibaly,86ea6123
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SG Diaby,fe3e9880
+info,registry,people,Sameer Patel,2bae86b6
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,TG Thamae,d08fe309
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,Waseem Yaqoob,06b387f1
+info,registry,people,YYM Jakda,2e3dc859
+ball,1,0.1,Lesotho,Maaz Khan,C Tlali,SG Diaby,0,0,,,,,,"",""
+ball,1,0.2,Lesotho,Maaz Khan,C Tlali,SG Diaby,0,0,,,,,,caught,Maaz Khan
+ball,1,0.3,Lesotho,Sameer Patel,C Tlali,SG Diaby,0,1,1,,,,,"",""
+ball,1,0.4,Lesotho,Sameer Patel,C Tlali,SG Diaby,1,0,,,,,,"",""
+ball,1,0.5,Lesotho,C Tlali,Sameer Patel,SG Diaby,0,1,1,,,,,"",""
+ball,1,0.6,Lesotho,C Tlali,Sameer Patel,SG Diaby,0,1,1,,,,,"",""
+ball,1,0.7,Lesotho,C Tlali,Sameer Patel,SG Diaby,0,0,,,,,,"",""
+ball,1,0.8,Lesotho,C Tlali,Sameer Patel,SG Diaby,0,0,,,,,,"",""
+ball,1,0.9,Lesotho,C Tlali,Sameer Patel,SG Diaby,0,0,,,,,,"",""
+ball,1,1.1,Lesotho,Sameer Patel,C Tlali,L Sanogo,2,0,,,,,,"",""
+ball,1,1.2,Lesotho,Sameer Patel,C Tlali,L Sanogo,0,1,,,,1,,"",""
+ball,1,1.3,Lesotho,C Tlali,Sameer Patel,L Sanogo,1,0,,,,,,"",""
+ball,1,1.4,Lesotho,Sameer Patel,C Tlali,L Sanogo,0,0,,,,,,"",""
+ball,1,1.5,Lesotho,Sameer Patel,C Tlali,L Sanogo,0,0,,,,,,"",""
+ball,1,1.6,Lesotho,Sameer Patel,C Tlali,L Sanogo,0,0,,,,,,"",""
+ball,1,2.1,Lesotho,C Tlali,Sameer Patel,SG Diaby,0,0,,,,,,"",""
+ball,1,2.2,Lesotho,C Tlali,Sameer Patel,SG Diaby,0,1,1,,,,,"",""
+ball,1,2.3,Lesotho,C Tlali,Sameer Patel,SG Diaby,1,0,,,,,,"",""
+ball,1,2.4,Lesotho,Sameer Patel,C Tlali,SG Diaby,0,0,,,,,,"",""
+ball,1,2.5,Lesotho,Sameer Patel,C Tlali,SG Diaby,0,1,1,,,,,"",""
+ball,1,2.6,Lesotho,Sameer Patel,C Tlali,SG Diaby,0,0,,,,,,"",""
+ball,1,2.7,Lesotho,Sameer Patel,C Tlali,SG Diaby,0,0,,,,,,"",""
+ball,1,2.8,Lesotho,Sameer Patel,C Tlali,SG Diaby,1,0,,,,,,"",""
+ball,1,3.1,Lesotho,Sameer Patel,C Tlali,L Sanogo,4,0,,,,,,"",""
+ball,1,3.2,Lesotho,Sameer Patel,C Tlali,L Sanogo,0,5,5,,,,,"",""
+ball,1,3.3,Lesotho,Sameer Patel,C Tlali,L Sanogo,0,0,,,,,,"",""
+ball,1,3.4,Lesotho,Sameer Patel,C Tlali,L Sanogo,0,0,,,,,,"",""
+ball,1,3.5,Lesotho,Sameer Patel,C Tlali,L Sanogo,1,0,,,,,,"",""
+ball,1,3.6,Lesotho,C Tlali,Sameer Patel,L Sanogo,1,0,,,,,,"",""
+ball,1,3.7,Lesotho,Sameer Patel,C Tlali,L Sanogo,2,0,,,,,,"",""
+ball,1,4.1,Lesotho,C Tlali,Sameer Patel,Mohamed Coulibaly,0,1,1,,,,,"",""
+ball,1,4.2,Lesotho,C Tlali,Sameer Patel,Mohamed Coulibaly,1,0,,,,,,"",""
+ball,1,4.3,Lesotho,Sameer Patel,C Tlali,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,4.4,Lesotho,Sameer Patel,C Tlali,Mohamed Coulibaly,0,0,,,,,,caught,Sameer Patel
+ball,1,4.5,Lesotho,LM Gabriel,C Tlali,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,4.6,Lesotho,LM Gabriel,C Tlali,Mohamed Coulibaly,4,0,,,,,,"",""
+ball,1,4.7,Lesotho,LM Gabriel,C Tlali,Mohamed Coulibaly,4,0,,,,,,"",""
+ball,1,5.1,Lesotho,C Tlali,LM Gabriel,MS Diawara,2,0,,,,,,"",""
+ball,1,5.2,Lesotho,C Tlali,LM Gabriel,MS Diawara,2,0,,,,,,"",""
+ball,1,5.3,Lesotho,C Tlali,LM Gabriel,MS Diawara,2,0,,,,,,"",""
+ball,1,5.4,Lesotho,C Tlali,LM Gabriel,MS Diawara,0,0,,,,,,"",""
+ball,1,5.5,Lesotho,C Tlali,LM Gabriel,MS Diawara,0,0,,,,,,caught,C Tlali
+ball,1,5.6,Lesotho,Waseem Yaqoob,LM Gabriel,MS Diawara,0,0,,,,,,"",""
+ball,1,6.1,Lesotho,LM Gabriel,Waseem Yaqoob,Mohamed Coulibaly,0,3,3,,,,,"",""
+ball,1,6.2,Lesotho,LM Gabriel,Waseem Yaqoob,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,6.3,Lesotho,LM Gabriel,Waseem Yaqoob,Mohamed Coulibaly,0,1,1,,,,,"",""
+ball,1,6.4,Lesotho,LM Gabriel,Waseem Yaqoob,Mohamed Coulibaly,1,0,,,,,,"",""
+ball,1,6.5,Lesotho,Waseem Yaqoob,LM Gabriel,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,6.6,Lesotho,Waseem Yaqoob,LM Gabriel,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,6.7,Lesotho,Waseem Yaqoob,LM Gabriel,Mohamed Coulibaly,4,0,,,,,,"",""
+ball,1,6.8,Lesotho,Waseem Yaqoob,LM Gabriel,Mohamed Coulibaly,1,0,,,,,,"",""
+ball,1,7.1,Lesotho,Waseem Yaqoob,LM Gabriel,MS Diawara,0,0,,,,,,"",""
+ball,1,7.2,Lesotho,Waseem Yaqoob,LM Gabriel,MS Diawara,1,0,,,,,,"",""
+ball,1,7.3,Lesotho,LM Gabriel,Waseem Yaqoob,MS Diawara,1,0,,,,,,"",""
+ball,1,7.4,Lesotho,Waseem Yaqoob,LM Gabriel,MS Diawara,2,0,,,,,,"",""
+ball,1,7.5,Lesotho,Waseem Yaqoob,LM Gabriel,MS Diawara,1,0,,,,,,"",""
+ball,1,7.6,Lesotho,LM Gabriel,Waseem Yaqoob,MS Diawara,1,0,,,,,,"",""
+ball,1,8.1,Lesotho,LM Gabriel,Waseem Yaqoob,S Kamate,1,0,,,,,,"",""
+ball,1,8.2,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,2,0,,,,,,"",""
+ball,1,8.3,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,0,1,,1,,,,"",""
+ball,1,8.4,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,0,1,1,,,,,"",""
+ball,1,8.5,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,0,2,2,,,,,"",""
+ball,1,8.6,Lesotho,LM Gabriel,Waseem Yaqoob,S Kamate,4,0,,,,,,"",""
+ball,1,8.7,Lesotho,LM Gabriel,Waseem Yaqoob,S Kamate,2,0,,,,,,"",""
+ball,1,8.8,Lesotho,LM Gabriel,Waseem Yaqoob,S Kamate,2,0,,,,,,"",""
+ball,1,8.9,Lesotho,LM Gabriel,Waseem Yaqoob,S Kamate,1,0,,,,,,"",""
+ball,1,9.1,Lesotho,LM Gabriel,Waseem Yaqoob,TM Macalou,1,0,,,,,,"",""
+ball,1,9.2,Lesotho,Waseem Yaqoob,LM Gabriel,TM Macalou,0,0,,,,,,"",""
+ball,1,9.3,Lesotho,Waseem Yaqoob,LM Gabriel,TM Macalou,1,0,,,,,,"",""
+ball,1,9.4,Lesotho,LM Gabriel,Waseem Yaqoob,TM Macalou,0,0,,,,,,"",""
+ball,1,9.5,Lesotho,LM Gabriel,Waseem Yaqoob,TM Macalou,0,0,,,,,,"",""
+ball,1,9.6,Lesotho,LM Gabriel,Waseem Yaqoob,TM Macalou,0,0,,,,,,"",""
+ball,1,10.1,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,0,1,1,,,,,"",""
+ball,1,10.2,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,0,0,,,,,,"",""
+ball,1,10.3,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,0,0,,,,,,"",""
+ball,1,10.4,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,1,0,,,,,,"",""
+ball,1,10.5,Lesotho,LM Gabriel,Waseem Yaqoob,S Kamate,0,0,,,,,,"",""
+ball,1,10.6,Lesotho,LM Gabriel,Waseem Yaqoob,S Kamate,1,0,,,,,,"",""
+ball,1,10.7,Lesotho,Waseem Yaqoob,LM Gabriel,S Kamate,4,0,,,,,,"",""
+ball,1,11.1,Lesotho,LM Gabriel,Waseem Yaqoob,TM Macalou,0,0,,,,,,"",""
+ball,1,11.2,Lesotho,LM Gabriel,Waseem Yaqoob,TM Macalou,1,0,,,,,,"",""
+ball,1,11.3,Lesotho,Waseem Yaqoob,LM Gabriel,TM Macalou,0,0,,,,,,"",""
+ball,1,11.4,Lesotho,Waseem Yaqoob,LM Gabriel,TM Macalou,0,0,,,,,,"",""
+ball,1,11.5,Lesotho,Waseem Yaqoob,LM Gabriel,TM Macalou,0,0,,,,,,"",""
+ball,1,11.6,Lesotho,Waseem Yaqoob,LM Gabriel,TM Macalou,4,0,,,,,,"",""
+ball,1,12.1,Lesotho,LM Gabriel,Waseem Yaqoob,L Sanogo,1,0,,,,,,"",""
+ball,1,12.2,Lesotho,Waseem Yaqoob,LM Gabriel,L Sanogo,0,0,,,,,,bowled,Waseem Yaqoob
+ball,1,12.3,Lesotho,Khan Arbaaz,LM Gabriel,L Sanogo,0,0,,,,,,"",""
+ball,1,12.4,Lesotho,Khan Arbaaz,LM Gabriel,L Sanogo,0,0,,,,,,"",""
+ball,1,12.5,Lesotho,Khan Arbaaz,LM Gabriel,L Sanogo,0,1,,,,1,,"",""
+ball,1,12.6,Lesotho,LM Gabriel,Khan Arbaaz,L Sanogo,0,0,,,,,,"",""
+ball,1,13.1,Lesotho,Khan Arbaaz,LM Gabriel,SG Diaby,1,0,,,,,,"",""
+ball,1,13.2,Lesotho,LM Gabriel,Khan Arbaaz,SG Diaby,1,0,,,,,,"",""
+ball,1,13.3,Lesotho,Khan Arbaaz,LM Gabriel,SG Diaby,0,0,,,,,,"",""
+ball,1,13.4,Lesotho,Khan Arbaaz,LM Gabriel,SG Diaby,0,1,,,,1,,"",""
+ball,1,13.5,Lesotho,LM Gabriel,Khan Arbaaz,SG Diaby,1,0,,,,,,"",""
+ball,1,13.6,Lesotho,Khan Arbaaz,LM Gabriel,SG Diaby,1,0,,,,,,"",""
+ball,1,14.1,Lesotho,Khan Arbaaz,LM Gabriel,L Sanogo,1,0,,,,,,"",""
+ball,1,14.2,Lesotho,LM Gabriel,Khan Arbaaz,L Sanogo,1,0,,,,,,"",""
+ball,1,14.3,Lesotho,Khan Arbaaz,LM Gabriel,L Sanogo,0,0,,,,,,"",""
+ball,1,14.4,Lesotho,Khan Arbaaz,LM Gabriel,L Sanogo,1,0,,,,,,"",""
+ball,1,14.5,Lesotho,LM Gabriel,Khan Arbaaz,L Sanogo,1,0,,,,,,"",""
+ball,1,14.6,Lesotho,Khan Arbaaz,LM Gabriel,L Sanogo,1,0,,,,,,"",""
+ball,1,15.1,Lesotho,Khan Arbaaz,LM Gabriel,MS Diawara,4,0,,,,,,"",""
+ball,1,15.2,Lesotho,Khan Arbaaz,LM Gabriel,MS Diawara,1,0,,,,,,"",""
+ball,1,15.3,Lesotho,LM Gabriel,Khan Arbaaz,MS Diawara,2,0,,,,,,"",""
+ball,1,15.4,Lesotho,LM Gabriel,Khan Arbaaz,MS Diawara,1,0,,,,,,"",""
+ball,1,15.5,Lesotho,Khan Arbaaz,LM Gabriel,MS Diawara,0,0,,,,,,"",""
+ball,1,15.6,Lesotho,Khan Arbaaz,LM Gabriel,MS Diawara,1,0,,,,,,"",""
+ball,1,16.1,Lesotho,Khan Arbaaz,LM Gabriel,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,16.2,Lesotho,Khan Arbaaz,LM Gabriel,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,16.3,Lesotho,Khan Arbaaz,LM Gabriel,Mohamed Coulibaly,1,0,,,,,,"",""
+ball,1,16.4,Lesotho,LM Gabriel,Khan Arbaaz,Mohamed Coulibaly,0,1,1,,,,,"",""
+ball,1,16.5,Lesotho,LM Gabriel,Khan Arbaaz,Mohamed Coulibaly,4,0,,,,,,"",""
+ball,1,16.6,Lesotho,LM Gabriel,Khan Arbaaz,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,1,16.7,Lesotho,LM Gabriel,Khan Arbaaz,Mohamed Coulibaly,2,0,,,,,,"",""
+ball,1,17.1,Lesotho,Khan Arbaaz,LM Gabriel,TM Macalou,4,0,,,,,,"",""
+ball,1,17.2,Lesotho,Khan Arbaaz,LM Gabriel,TM Macalou,1,0,,,,,,"",""
+ball,1,17.3,Lesotho,LM Gabriel,Khan Arbaaz,TM Macalou,0,0,,,,,,"",""
+ball,1,17.4,Lesotho,LM Gabriel,Khan Arbaaz,TM Macalou,1,0,,,,,,"",""
+ball,1,17.5,Lesotho,Khan Arbaaz,LM Gabriel,TM Macalou,0,0,,,,,,bowled,Khan Arbaaz
+ball,1,17.6,Lesotho,YYM Jakda,LM Gabriel,TM Macalou,0,0,,,,,,lbw,YYM Jakda
+ball,1,18.1,Lesotho,LM Gabriel,ME Leoela,MS Diawara,1,0,,,,,,"",""
+ball,1,18.2,Lesotho,ME Leoela,LM Gabriel,MS Diawara,0,0,,,,,,"",""
+ball,1,18.3,Lesotho,ME Leoela,LM Gabriel,MS Diawara,0,0,,,,,,"",""
+ball,1,18.4,Lesotho,ME Leoela,LM Gabriel,MS Diawara,0,1,1,,,,,"",""
+ball,1,18.5,Lesotho,ME Leoela,LM Gabriel,MS Diawara,0,1,1,,,,,"",""
+ball,1,18.6,Lesotho,ME Leoela,LM Gabriel,MS Diawara,2,0,,,,,,"",""
+ball,1,18.7,Lesotho,ME Leoela,LM Gabriel,MS Diawara,0,1,1,,,,,"",""
+ball,1,18.8,Lesotho,ME Leoela,LM Gabriel,MS Diawara,0,0,,,,,,"",""
+ball,1,18.9,Lesotho,ME Leoela,LM Gabriel,MS Diawara,1,1,,1,,,,"",""
+ball,1,18.10,Lesotho,LM Gabriel,ME Leoela,MS Diawara,0,0,,,,,,"",""
+ball,1,19.1,Lesotho,ME Leoela,LM Gabriel,SG Diaby,0,1,1,,,,,"",""
+ball,1,19.2,Lesotho,ME Leoela,LM Gabriel,SG Diaby,0,0,,,,,,"",""
+ball,1,19.3,Lesotho,ME Leoela,LM Gabriel,SG Diaby,0,0,,,,,,"",""
+ball,1,19.4,Lesotho,ME Leoela,LM Gabriel,SG Diaby,0,1,1,,,,,"",""
+ball,1,19.5,Lesotho,ME Leoela,LM Gabriel,SG Diaby,0,0,,,,,,"",""
+ball,1,19.6,Lesotho,ME Leoela,LM Gabriel,SG Diaby,0,1,,,,1,,"",""
+ball,1,19.7,Lesotho,LM Gabriel,ME Leoela,SG Diaby,2,0,,,,,,"",""
+ball,1,19.8,Lesotho,LM Gabriel,ME Leoela,SG Diaby,3,0,,,,,,"",""
+ball,2,0.1,Mali,M Sidibe,Mohamed Coulibaly,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,0.2,Mali,M Sidibe,Mohamed Coulibaly,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,0.3,Mali,M Sidibe,Mohamed Coulibaly,Waseem Yaqoob,0,0,,,,,,caught,M Sidibe
+ball,2,0.4,Mali,D Traore,Mohamed Coulibaly,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,0.5,Mali,D Traore,Mohamed Coulibaly,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,0.6,Mali,D Traore,Mohamed Coulibaly,Waseem Yaqoob,0,1,1,,,,,"",""
+ball,2,0.7,Mali,D Traore,Mohamed Coulibaly,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,1.1,Mali,Mohamed Coulibaly,D Traore,Khan Arbaaz,1,1,,1,,,,"",""
+ball,2,1.2,Mali,D Traore,Mohamed Coulibaly,Khan Arbaaz,1,0,,,,,,run out,Mohamed Coulibaly
+ball,2,1.3,Mali,D Traore,MS Diawara,Khan Arbaaz,1,0,,,,,,"",""
+ball,2,1.4,Mali,MS Diawara,D Traore,Khan Arbaaz,1,0,,,,,,"",""
+ball,2,1.5,Mali,D Traore,MS Diawara,Khan Arbaaz,0,0,,,,,,"",""
+ball,2,1.6,Mali,D Traore,MS Diawara,Khan Arbaaz,0,0,,,,,,"",""
+ball,2,1.7,Mali,D Traore,MS Diawara,Khan Arbaaz,1,0,,,,,,"",""
+ball,2,2.1,Mali,D Traore,MS Diawara,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,2.2,Mali,D Traore,MS Diawara,Waseem Yaqoob,0,1,1,,,,,"",""
+ball,2,2.3,Mali,D Traore,MS Diawara,Waseem Yaqoob,1,0,,,,,,"",""
+ball,2,2.4,Mali,MS Diawara,D Traore,Waseem Yaqoob,0,1,1,,,,,"",""
+ball,2,2.5,Mali,MS Diawara,D Traore,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,2.6,Mali,MS Diawara,D Traore,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,2.7,Mali,MS Diawara,D Traore,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,2.8,Mali,MS Diawara,D Traore,Waseem Yaqoob,1,0,,,,,,"",""
+ball,2,3.1,Mali,MS Diawara,D Traore,Khan Arbaaz,1,0,,,,,,"",""
+ball,2,3.2,Mali,D Traore,MS Diawara,Khan Arbaaz,2,0,,,,,,"",""
+ball,2,3.3,Mali,D Traore,MS Diawara,Khan Arbaaz,0,0,,,,,,lbw,D Traore
+ball,2,3.4,Mali,MT Diaby,MS Diawara,Khan Arbaaz,1,0,,,,,,"",""
+ball,2,3.5,Mali,MS Diawara,MT Diaby,Khan Arbaaz,0,0,,,,,,"",""
+ball,2,3.6,Mali,MS Diawara,MT Diaby,Khan Arbaaz,0,0,,,,,,"",""
+ball,2,4.1,Mali,MT Diaby,MS Diawara,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,4.2,Mali,MT Diaby,MS Diawara,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,4.3,Mali,MT Diaby,MS Diawara,Waseem Yaqoob,0,0,,,,,,bowled,MT Diaby
+ball,2,4.4,Mali,CA Keita,MS Diawara,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,4.5,Mali,CA Keita,MS Diawara,Waseem Yaqoob,2,0,,,,,,"",""
+ball,2,4.6,Mali,CA Keita,MS Diawara,Waseem Yaqoob,0,0,,,,,,"",""
+ball,2,5.1,Mali,MS Diawara,CA Keita,LM Gabriel,0,1,1,,,,,"",""
+ball,2,5.2,Mali,MS Diawara,CA Keita,LM Gabriel,1,0,,,,,,"",""
+ball,2,5.3,Mali,CA Keita,MS Diawara,LM Gabriel,0,0,,,,,,"",""
+ball,2,5.4,Mali,CA Keita,MS Diawara,LM Gabriel,1,0,,,,,,"",""
+ball,2,5.5,Mali,MS Diawara,CA Keita,LM Gabriel,1,0,,,,,,"",""
+ball,2,5.6,Mali,CA Keita,MS Diawara,LM Gabriel,0,1,1,,,,,"",""
+ball,2,5.7,Mali,CA Keita,MS Diawara,LM Gabriel,4,0,,,,,,"",""
+ball,2,5.8,Mali,CA Keita,MS Diawara,LM Gabriel,0,0,,,,,,"",""
+ball,2,6.1,Mali,MS Diawara,CA Keita,MV Matsau,0,0,,,,,,"",""
+ball,2,6.2,Mali,MS Diawara,CA Keita,MV Matsau,2,0,,,,,,"",""
+ball,2,6.3,Mali,MS Diawara,CA Keita,MV Matsau,0,0,,,,,,"",""
+ball,2,6.4,Mali,MS Diawara,CA Keita,MV Matsau,1,0,,,,,,"",""
+ball,2,6.5,Mali,CA Keita,MS Diawara,MV Matsau,0,0,,,,,,"",""
+ball,2,6.6,Mali,CA Keita,MS Diawara,MV Matsau,4,0,,,,,,"",""
+ball,2,7.1,Mali,MS Diawara,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,7.2,Mali,MS Diawara,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,7.3,Mali,TM Macalou,CA Keita,TD Chaoana,4,0,,,,,,"",""
+ball,2,7.4,Mali,TM Macalou,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,7.5,Mali,TM Macalou,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,7.6,Mali,TM Macalou,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,8.1,Mali,CA Keita,TM Macalou,MV Matsau,0,0,,,,,,"",""
+ball,2,8.2,Mali,CA Keita,TM Macalou,MV Matsau,0,0,,,,,,"",""
+ball,2,8.3,Mali,CA Keita,TM Macalou,MV Matsau,0,1,,,,1,,"",""
+ball,2,8.4,Mali,TM Macalou,CA Keita,MV Matsau,2,0,,,,,,"",""
+ball,2,8.5,Mali,TM Macalou,CA Keita,MV Matsau,0,1,1,,,,,"",""
+ball,2,8.6,Mali,TM Macalou,CA Keita,MV Matsau,4,1,,1,,,,"",""
+ball,2,8.7,Mali,TM Macalou,CA Keita,MV Matsau,1,0,,,,,,"",""
+ball,2,8.8,Mali,CA Keita,TM Macalou,MV Matsau,1,0,,,,,,"",""
+ball,2,9.1,Mali,CA Keita,TM Macalou,TD Chaoana,0,4,,,4,,,"",""
+ball,2,9.2,Mali,CA Keita,TM Macalou,TD Chaoana,1,0,,,,,,"",""
+ball,2,9.3,Mali,TM Macalou,CA Keita,TD Chaoana,0,1,1,,,,,"",""
+ball,2,9.4,Mali,TM Macalou,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,9.5,Mali,TM Macalou,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,9.6,Mali,TM Macalou,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,9.7,Mali,TM Macalou,CA Keita,TD Chaoana,1,0,,,,,,"",""
+ball,2,10.1,Mali,TM Macalou,CA Keita,TG Thamae,0,0,,,,,,"",""
+ball,2,10.2,Mali,TM Macalou,CA Keita,TG Thamae,0,0,,,,,,"",""
+ball,2,10.3,Mali,TM Macalou,CA Keita,TG Thamae,0,0,,,,,,bowled,TM Macalou
+ball,2,10.4,Mali,SG Diaby,CA Keita,TG Thamae,0,0,,,,,,"",""
+ball,2,10.5,Mali,SG Diaby,CA Keita,TG Thamae,1,0,,,,,,"",""
+ball,2,10.6,Mali,CA Keita,SG Diaby,TG Thamae,0,0,,,,,,"",""
+ball,2,11.1,Mali,SG Diaby,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,11.2,Mali,SG Diaby,CA Keita,TD Chaoana,2,0,,,,,,"",""
+ball,2,11.3,Mali,SG Diaby,CA Keita,TD Chaoana,1,0,,,,,,"",""
+ball,2,11.4,Mali,CA Keita,SG Diaby,TD Chaoana,2,0,,,,,,"",""
+ball,2,11.5,Mali,CA Keita,SG Diaby,TD Chaoana,4,0,,,,,,"",""
+ball,2,11.6,Mali,CA Keita,SG Diaby,TD Chaoana,0,0,,,,,,"",""
+ball,2,12.1,Mali,SG Diaby,CA Keita,TG Thamae,1,0,,,,,,"",""
+ball,2,12.2,Mali,CA Keita,SG Diaby,TG Thamae,0,0,,,,,,"",""
+ball,2,12.3,Mali,CA Keita,SG Diaby,TG Thamae,4,0,,,,,,"",""
+ball,2,12.4,Mali,CA Keita,SG Diaby,TG Thamae,6,0,,,,,,"",""
+ball,2,12.5,Mali,CA Keita,SG Diaby,TG Thamae,6,0,,,,,,"",""
+ball,2,12.6,Mali,CA Keita,SG Diaby,TG Thamae,0,0,,,,,,"",""
+ball,2,13.1,Mali,SG Diaby,CA Keita,YYM Jakda,0,1,1,,,,,"",""
+ball,2,13.2,Mali,SG Diaby,CA Keita,YYM Jakda,0,0,,,,,,"",""
+ball,2,13.3,Mali,SG Diaby,CA Keita,YYM Jakda,0,1,1,,,,,"",""
+ball,2,13.4,Mali,SG Diaby,CA Keita,YYM Jakda,0,0,,,,,,"",""
+ball,2,13.5,Mali,SG Diaby,CA Keita,YYM Jakda,0,0,,,,,,"",""
+ball,2,13.6,Mali,SG Diaby,CA Keita,YYM Jakda,0,0,,,,,,"",""
+ball,2,13.7,Mali,SG Diaby,CA Keita,YYM Jakda,1,0,,,,,,"",""
+ball,2,13.8,Mali,CA Keita,SG Diaby,YYM Jakda,0,1,,1,,,,"",""
+ball,2,13.9,Mali,CA Keita,SG Diaby,YYM Jakda,0,0,,,,,,"",""
+ball,2,14.1,Mali,SG Diaby,CA Keita,TD Chaoana,2,0,,,,,,"",""
+ball,2,14.2,Mali,SG Diaby,CA Keita,TD Chaoana,0,0,,,,,,bowled,SG Diaby
+ball,2,14.3,Mali,MS Diawara,CA Keita,TD Chaoana,0,0,,,,,,"",""
+ball,2,14.4,Mali,MS Diawara,CA Keita,TD Chaoana,1,0,,,,,,"",""
+ball,2,14.5,Mali,CA Keita,MS Diawara,TD Chaoana,0,1,1,,,,,"",""
+ball,2,14.6,Mali,CA Keita,MS Diawara,TD Chaoana,0,0,,,,,,"",""
+ball,2,14.7,Mali,CA Keita,MS Diawara,TD Chaoana,0,0,,,,,,bowled,CA Keita
+ball,2,15.1,Mali,MS Diawara,MS Diakite,YYM Jakda,0,1,1,,,,,"",""
+ball,2,15.2,Mali,MS Diawara,MS Diakite,YYM Jakda,0,0,,,,,,"",""
+ball,2,15.3,Mali,MS Diawara,MS Diakite,YYM Jakda,0,0,,,,,,bowled,MS Diawara
+ball,2,15.4,Mali,S Kamate,MS Diakite,YYM Jakda,0,0,,,,,,"",""
+ball,2,15.5,Mali,S Kamate,MS Diakite,YYM Jakda,0,1,1,,,,,"",""
+ball,2,15.6,Mali,S Kamate,MS Diakite,YYM Jakda,0,0,,,,,,"",""
+ball,2,15.7,Mali,S Kamate,MS Diakite,YYM Jakda,2,0,,,,,,"",""
+ball,2,15.8,Mali,S Kamate,MS Diakite,YYM Jakda,1,0,,,,,,"",""
+ball,2,16.1,Mali,S Kamate,MS Diakite,MV Matsau,2,0,,,,,,"",""
+ball,2,16.2,Mali,S Kamate,MS Diakite,MV Matsau,1,0,,,,,,"",""
+ball,2,16.3,Mali,MS Diakite,S Kamate,MV Matsau,1,0,,,,,,"",""
+ball,2,16.4,Mali,S Kamate,MS Diakite,MV Matsau,0,1,1,,,,,"",""
+ball,2,16.5,Mali,S Kamate,MS Diakite,MV Matsau,1,0,,,,,,"",""
+ball,2,16.6,Mali,MS Diakite,S Kamate,MV Matsau,2,0,,,,,,"",""
+ball,2,16.7,Mali,MS Diakite,S Kamate,MV Matsau,0,0,,,,,,caught and bowled,MS Diakite
+ball,2,17.1,Mali,L Sanogo,S Kamate,YYM Jakda,2,0,,,,,,"",""
+ball,2,17.2,Mali,L Sanogo,S Kamate,YYM Jakda,0,0,,,,,,"",""
+ball,2,17.3,Mali,L Sanogo,S Kamate,YYM Jakda,0,0,,,,,,"",""
+ball,2,17.4,Mali,L Sanogo,S Kamate,YYM Jakda,0,1,,,,1,,"",""
+ball,2,17.5,Mali,S Kamate,L Sanogo,YYM Jakda,0,1,1,,,,,"",""
+ball,2,17.6,Mali,S Kamate,L Sanogo,YYM Jakda,0,0,,,,,,caught,S Kamate

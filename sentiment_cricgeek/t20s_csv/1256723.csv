@@ -1,0 +1,323 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,male
+info,season,2021/22
+info,date,2022/01/29
+info,event,England tour of West Indies
+info,match_number,4
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,MM Ali
+info,umpire,LS Reifer
+info,umpire,PA Gustard
+info,reserve_umpire,N Duguid
+info,tv_umpire,GO Brathwaite
+info,match_referee,RB Richardson
+info,winner,England
+info,winner_runs,34
+info,player,England,JJ Roy
+info,player,England,T Banton
+info,player,England,JM Vince
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,SW Billings
+info,player,England,PD Salt
+info,player,England,CJ Jordan
+info,player,England,AU Rashid
+info,player,England,TS Mills
+info,player,England,RJW Topley
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,N Pooran
+info,player,West Indies,R Powell
+info,player,West Indies,JO Holder
+info,player,West Indies,KA Pollard
+info,player,West Indies,DM Bravo
+info,player,West Indies,R Shepherd
+info,player,West Indies,DC Drakes
+info,player,West Indies,AJ Hosein
+info,player,West Indies,SS Cottrell
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA King,7fca84b7
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Duguid,64495506
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.2,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.3,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.4,England,JJ Roy,T Banton,SS Cottrell,3,0,,,,,,"",""
+ball,1,0.5,England,T Banton,JJ Roy,SS Cottrell,0,0,,,,,,"",""
+ball,1,0.6,England,T Banton,JJ Roy,SS Cottrell,4,0,,,,,,"",""
+ball,1,1.1,England,JJ Roy,T Banton,JO Holder,0,0,,,,,,"",""
+ball,1,1.2,England,JJ Roy,T Banton,JO Holder,0,0,,,,,,"",""
+ball,1,1.3,England,JJ Roy,T Banton,JO Holder,0,0,,,,,,"",""
+ball,1,1.4,England,JJ Roy,T Banton,JO Holder,1,0,,,,,,"",""
+ball,1,1.5,England,T Banton,JJ Roy,JO Holder,0,0,,,,,,"",""
+ball,1,1.6,England,T Banton,JJ Roy,JO Holder,0,0,,,,,,caught,T Banton
+ball,1,2.1,England,JJ Roy,JM Vince,SS Cottrell,4,0,,,,,,"",""
+ball,1,2.2,England,JJ Roy,JM Vince,SS Cottrell,0,0,,,,,,"",""
+ball,1,2.3,England,JJ Roy,JM Vince,SS Cottrell,0,0,,,,,,"",""
+ball,1,2.4,England,JJ Roy,JM Vince,SS Cottrell,1,0,,,,,,"",""
+ball,1,2.5,England,JM Vince,JJ Roy,SS Cottrell,0,0,,,,,,"",""
+ball,1,2.6,England,JM Vince,JJ Roy,SS Cottrell,0,0,,,,,,"",""
+ball,1,3.1,England,JJ Roy,JM Vince,JO Holder,0,0,,,,,,"",""
+ball,1,3.2,England,JJ Roy,JM Vince,JO Holder,2,0,,,,,,"",""
+ball,1,3.3,England,JJ Roy,JM Vince,JO Holder,0,0,,,,,,"",""
+ball,1,3.4,England,JJ Roy,JM Vince,JO Holder,0,0,,,,,,"",""
+ball,1,3.5,England,JJ Roy,JM Vince,JO Holder,0,0,,,,,,"",""
+ball,1,3.6,England,JJ Roy,JM Vince,JO Holder,0,0,,,,,,"",""
+ball,1,4.1,England,JM Vince,JJ Roy,SS Cottrell,4,0,,,,,,"",""
+ball,1,4.2,England,JM Vince,JJ Roy,SS Cottrell,1,0,,,,,,"",""
+ball,1,4.3,England,JJ Roy,JM Vince,SS Cottrell,0,0,,,,,,"",""
+ball,1,4.4,England,JJ Roy,JM Vince,SS Cottrell,4,0,,,,,,"",""
+ball,1,4.5,England,JJ Roy,JM Vince,SS Cottrell,2,0,,,,,,"",""
+ball,1,4.6,England,JJ Roy,JM Vince,SS Cottrell,6,0,,,,,,"",""
+ball,1,5.1,England,JM Vince,JJ Roy,R Shepherd,1,0,,,,,,"",""
+ball,1,5.2,England,JJ Roy,JM Vince,R Shepherd,4,0,,,,,,"",""
+ball,1,5.3,England,JJ Roy,JM Vince,R Shepherd,0,0,,,,,,"",""
+ball,1,5.4,England,JJ Roy,JM Vince,R Shepherd,1,0,,,,,,"",""
+ball,1,5.5,England,JM Vince,JJ Roy,R Shepherd,1,0,,,,,,"",""
+ball,1,5.6,England,JJ Roy,JM Vince,R Shepherd,6,0,,,,,,"",""
+ball,1,6.1,England,JM Vince,JJ Roy,DC Drakes,1,0,,,,,,"",""
+ball,1,6.2,England,JJ Roy,JM Vince,DC Drakes,4,0,,,,,,"",""
+ball,1,6.3,England,JJ Roy,JM Vince,DC Drakes,1,0,,,,,,"",""
+ball,1,6.4,England,JM Vince,JJ Roy,DC Drakes,0,0,,,,,,"",""
+ball,1,6.5,England,JM Vince,JJ Roy,DC Drakes,6,0,,,,,,"",""
+ball,1,6.6,England,JM Vince,JJ Roy,DC Drakes,0,0,,,,,,"",""
+ball,1,7.1,England,JJ Roy,JM Vince,AJ Hosein,0,0,,,,,,"",""
+ball,1,7.2,England,JJ Roy,JM Vince,AJ Hosein,1,0,,,,,,"",""
+ball,1,7.3,England,JM Vince,JJ Roy,AJ Hosein,2,0,,,,,,"",""
+ball,1,7.4,England,JM Vince,JJ Roy,AJ Hosein,1,0,,,,,,"",""
+ball,1,7.5,England,JJ Roy,JM Vince,AJ Hosein,0,0,,,,,,"",""
+ball,1,7.6,England,JJ Roy,JM Vince,AJ Hosein,4,0,,,,,,"",""
+ball,1,8.1,England,JM Vince,JJ Roy,DC Drakes,6,0,,,,,,"",""
+ball,1,8.2,England,JM Vince,JJ Roy,DC Drakes,0,0,,,,,,"",""
+ball,1,8.3,England,JM Vince,JJ Roy,DC Drakes,1,0,,,,,,"",""
+ball,1,8.4,England,JJ Roy,JM Vince,DC Drakes,0,1,,,,1,,"",""
+ball,1,8.5,England,JM Vince,JJ Roy,DC Drakes,1,0,,,,,,"",""
+ball,1,8.6,England,JJ Roy,JM Vince,DC Drakes,6,0,,,,,,"",""
+ball,1,9.1,England,JM Vince,JJ Roy,KA Pollard,1,0,,,,,,"",""
+ball,1,9.2,England,JJ Roy,JM Vince,KA Pollard,0,0,,,,,,"",""
+ball,1,9.3,England,JJ Roy,JM Vince,KA Pollard,0,0,,,,,,"",""
+ball,1,9.4,England,JJ Roy,JM Vince,KA Pollard,0,1,,,,1,,"",""
+ball,1,9.5,England,JM Vince,JJ Roy,KA Pollard,1,0,,,,,,"",""
+ball,1,9.6,England,JJ Roy,JM Vince,KA Pollard,1,0,,,,,,"",""
+ball,1,10.1,England,JJ Roy,JM Vince,R Shepherd,0,1,1,,,,,"",""
+ball,1,10.2,England,JJ Roy,JM Vince,R Shepherd,0,1,1,,,,,"",""
+ball,1,10.3,England,JJ Roy,JM Vince,R Shepherd,1,0,,,,,,"",""
+ball,1,10.4,England,JM Vince,JJ Roy,R Shepherd,4,0,,,,,,"",""
+ball,1,10.5,England,JM Vince,JJ Roy,R Shepherd,0,0,,,,,,"",""
+ball,1,10.6,England,JM Vince,JJ Roy,R Shepherd,0,0,,,,,,"",""
+ball,1,10.7,England,JM Vince,JJ Roy,R Shepherd,0,0,,,,,,"",""
+ball,1,10.8,England,JM Vince,JJ Roy,R Shepherd,2,0,,,,,,"",""
+ball,1,11.1,England,JJ Roy,JM Vince,KA Pollard,0,0,,,,,,"",""
+ball,1,11.2,England,JJ Roy,JM Vince,KA Pollard,0,0,,,,,,"",""
+ball,1,11.3,England,JJ Roy,JM Vince,KA Pollard,0,0,,,,,,caught,JJ Roy
+ball,1,11.4,England,MM Ali,JM Vince,KA Pollard,1,0,,,,,,"",""
+ball,1,11.5,England,JM Vince,MM Ali,KA Pollard,1,0,,,,,,"",""
+ball,1,11.6,England,MM Ali,JM Vince,KA Pollard,1,0,,,,,,"",""
+ball,1,12.1,England,MM Ali,JM Vince,AJ Hosein,1,0,,,,,,"",""
+ball,1,12.2,England,JM Vince,MM Ali,AJ Hosein,0,0,,,,,,"",""
+ball,1,12.3,England,JM Vince,MM Ali,AJ Hosein,0,0,,,,,,caught,JM Vince
+ball,1,12.4,England,LS Livingstone,MM Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,12.5,England,MM Ali,LS Livingstone,AJ Hosein,0,1,1,,,,,"",""
+ball,1,12.6,England,MM Ali,LS Livingstone,AJ Hosein,4,0,,,,,,"",""
+ball,1,12.7,England,MM Ali,LS Livingstone,AJ Hosein,0,0,,,,,,"",""
+ball,1,13.1,England,LS Livingstone,MM Ali,KA Pollard,1,0,,,,,,"",""
+ball,1,13.2,England,MM Ali,LS Livingstone,KA Pollard,1,0,,,,,,"",""
+ball,1,13.3,England,LS Livingstone,MM Ali,KA Pollard,1,0,,,,,,"",""
+ball,1,13.4,England,MM Ali,LS Livingstone,KA Pollard,0,1,1,,,,,"",""
+ball,1,13.5,England,MM Ali,LS Livingstone,KA Pollard,0,0,,,,,,"",""
+ball,1,13.6,England,MM Ali,LS Livingstone,KA Pollard,1,0,,,,,,"",""
+ball,1,13.7,England,LS Livingstone,MM Ali,KA Pollard,1,0,,,,,,"",""
+ball,1,14.1,England,LS Livingstone,MM Ali,AJ Hosein,0,0,,,,,,"",""
+ball,1,14.2,England,LS Livingstone,MM Ali,AJ Hosein,0,0,,,,,,"",""
+ball,1,14.3,England,LS Livingstone,MM Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.4,England,MM Ali,LS Livingstone,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.5,England,LS Livingstone,MM Ali,AJ Hosein,0,1,,,1,,,"",""
+ball,1,14.6,England,MM Ali,LS Livingstone,AJ Hosein,6,0,,,,,,"",""
+ball,1,15.1,England,LS Livingstone,MM Ali,KA Pollard,0,0,,,,,,"",""
+ball,1,15.2,England,LS Livingstone,MM Ali,KA Pollard,6,0,,,,,,"",""
+ball,1,15.3,England,LS Livingstone,MM Ali,KA Pollard,2,0,,,,,,"",""
+ball,1,15.4,England,LS Livingstone,MM Ali,KA Pollard,1,0,,,,,,"",""
+ball,1,15.5,England,MM Ali,LS Livingstone,KA Pollard,2,0,,,,,,"",""
+ball,1,15.6,England,MM Ali,LS Livingstone,KA Pollard,0,0,,,,,,"",""
+ball,1,16.1,England,LS Livingstone,MM Ali,SS Cottrell,1,0,,,,,,"",""
+ball,1,16.2,England,MM Ali,LS Livingstone,SS Cottrell,0,0,,,,,,"",""
+ball,1,16.3,England,MM Ali,LS Livingstone,SS Cottrell,1,0,,,,,,"",""
+ball,1,16.4,England,LS Livingstone,MM Ali,SS Cottrell,0,1,1,,,,,"",""
+ball,1,16.5,England,LS Livingstone,MM Ali,SS Cottrell,1,0,,,,,,"",""
+ball,1,16.6,England,MM Ali,LS Livingstone,SS Cottrell,0,0,,,,,,"",""
+ball,1,16.7,England,MM Ali,LS Livingstone,SS Cottrell,1,0,,,,,,"",""
+ball,1,17.1,England,MM Ali,LS Livingstone,JO Holder,2,0,,,,,,"",""
+ball,1,17.2,England,MM Ali,LS Livingstone,JO Holder,6,0,,,,,,"",""
+ball,1,17.3,England,MM Ali,LS Livingstone,JO Holder,6,0,,,,,,"",""
+ball,1,17.4,England,MM Ali,LS Livingstone,JO Holder,6,0,,,,,,"",""
+ball,1,17.5,England,MM Ali,LS Livingstone,JO Holder,6,0,,,,,,"",""
+ball,1,17.6,England,MM Ali,LS Livingstone,JO Holder,2,0,,,,,,"",""
+ball,1,18.1,England,LS Livingstone,MM Ali,R Shepherd,0,0,,,,,,caught,LS Livingstone
+ball,1,18.2,England,MM Ali,SW Billings,R Shepherd,0,1,1,,,,,"",""
+ball,1,18.3,England,MM Ali,SW Billings,R Shepherd,2,0,,,,,,"",""
+ball,1,18.4,England,MM Ali,SW Billings,R Shepherd,6,0,,,,,,"",""
+ball,1,18.5,England,MM Ali,SW Billings,R Shepherd,0,1,1,,,,,"",""
+ball,1,18.6,England,MM Ali,SW Billings,R Shepherd,0,0,,,,,,"",""
+ball,1,18.7,England,MM Ali,SW Billings,R Shepherd,0,1,1,,,,,"",""
+ball,1,18.8,England,MM Ali,SW Billings,R Shepherd,6,0,,,,,,"",""
+ball,1,18.9,England,MM Ali,SW Billings,R Shepherd,1,0,,,,,,"",""
+ball,1,19.1,England,MM Ali,SW Billings,JO Holder,0,0,,,,,,caught,MM Ali
+ball,1,19.2,England,SW Billings,PD Salt,JO Holder,1,0,,,,,,"",""
+ball,1,19.3,England,PD Salt,SW Billings,JO Holder,0,0,,,,,,caught,PD Salt
+ball,1,19.4,England,SW Billings,CJ Jordan,JO Holder,0,0,,,,,,"",""
+ball,1,19.5,England,SW Billings,CJ Jordan,JO Holder,6,0,,,,,,"",""
+ball,1,19.6,England,SW Billings,CJ Jordan,JO Holder,6,0,,,,,,"",""
+ball,2,0.1,West Indies,BA King,KR Mayers,RJW Topley,0,0,,,,,,"",""
+ball,2,0.2,West Indies,BA King,KR Mayers,RJW Topley,4,0,,,,,,"",""
+ball,2,0.3,West Indies,BA King,KR Mayers,RJW Topley,1,0,,,,,,"",""
+ball,2,0.4,West Indies,KR Mayers,BA King,RJW Topley,1,0,,,,,,"",""
+ball,2,0.5,West Indies,BA King,KR Mayers,RJW Topley,0,0,,,,,,"",""
+ball,2,0.6,West Indies,BA King,KR Mayers,RJW Topley,0,0,,,,,,"",""
+ball,2,1.1,West Indies,KR Mayers,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,1.2,West Indies,KR Mayers,BA King,MM Ali,6,0,,,,,,"",""
+ball,2,1.3,West Indies,KR Mayers,BA King,MM Ali,1,0,,,,,,"",""
+ball,2,1.4,West Indies,BA King,KR Mayers,MM Ali,0,0,,,,,,"",""
+ball,2,1.5,West Indies,BA King,KR Mayers,MM Ali,1,0,,,,,,"",""
+ball,2,1.6,West Indies,KR Mayers,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,2.1,West Indies,BA King,KR Mayers,RJW Topley,0,0,,,,,,"",""
+ball,2,2.2,West Indies,BA King,KR Mayers,RJW Topley,1,0,,,,,,"",""
+ball,2,2.3,West Indies,KR Mayers,BA King,RJW Topley,1,0,,,,,,"",""
+ball,2,2.4,West Indies,BA King,KR Mayers,RJW Topley,1,0,,,,,,"",""
+ball,2,2.5,West Indies,KR Mayers,BA King,RJW Topley,4,0,,,,,,"",""
+ball,2,2.6,West Indies,KR Mayers,BA King,RJW Topley,0,0,,,,,,"",""
+ball,2,3.1,West Indies,BA King,KR Mayers,MM Ali,1,0,,,,,,"",""
+ball,2,3.2,West Indies,KR Mayers,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,3.3,West Indies,KR Mayers,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,3.4,West Indies,KR Mayers,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,3.5,West Indies,KR Mayers,BA King,MM Ali,6,0,,,,,,"",""
+ball,2,3.6,West Indies,KR Mayers,BA King,MM Ali,3,0,,,,,,"",""
+ball,2,4.1,West Indies,KR Mayers,BA King,TS Mills,4,0,,,,,,"",""
+ball,2,4.2,West Indies,KR Mayers,BA King,TS Mills,6,0,,,,,,"",""
+ball,2,4.3,West Indies,KR Mayers,BA King,TS Mills,6,0,,,,,,"",""
+ball,2,4.4,West Indies,KR Mayers,BA King,TS Mills,0,0,,,,,,"",""
+ball,2,4.5,West Indies,KR Mayers,BA King,TS Mills,0,0,,,,,,"",""
+ball,2,4.6,West Indies,KR Mayers,BA King,TS Mills,0,0,,,,,,"",""
+ball,2,5.1,West Indies,BA King,KR Mayers,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.2,West Indies,BA King,KR Mayers,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.3,West Indies,BA King,KR Mayers,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.4,West Indies,BA King,KR Mayers,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.5,West Indies,BA King,KR Mayers,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.6,West Indies,KR Mayers,BA King,CJ Jordan,0,0,,,,,,"",""
+ball,2,6.1,West Indies,BA King,KR Mayers,AU Rashid,4,0,,,,,,"",""
+ball,2,6.2,West Indies,BA King,KR Mayers,AU Rashid,0,0,,,,,,"",""
+ball,2,6.3,West Indies,BA King,KR Mayers,AU Rashid,0,0,,,,,,"",""
+ball,2,6.4,West Indies,BA King,KR Mayers,AU Rashid,1,0,,,,,,"",""
+ball,2,6.5,West Indies,KR Mayers,BA King,AU Rashid,2,0,,,,,,"",""
+ball,2,6.6,West Indies,KR Mayers,BA King,AU Rashid,0,0,,,,,,"",""
+ball,2,7.1,West Indies,BA King,KR Mayers,MM Ali,1,0,,,,,,"",""
+ball,2,7.2,West Indies,KR Mayers,BA King,MM Ali,0,0,,,,,,caught,KR Mayers
+ball,2,7.3,West Indies,N Pooran,BA King,MM Ali,2,0,,,,,,"",""
+ball,2,7.4,West Indies,N Pooran,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,7.5,West Indies,N Pooran,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,7.6,West Indies,N Pooran,BA King,MM Ali,0,0,,,,,,"",""
+ball,2,8.1,West Indies,BA King,N Pooran,AU Rashid,1,0,,,,,,"",""
+ball,2,8.2,West Indies,N Pooran,BA King,AU Rashid,1,0,,,,,,"",""
+ball,2,8.3,West Indies,BA King,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,2,8.4,West Indies,BA King,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,2,8.5,West Indies,BA King,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,2,8.6,West Indies,BA King,N Pooran,AU Rashid,1,0,,,,,,"",""
+ball,2,9.1,West Indies,BA King,N Pooran,MM Ali,0,0,,,,,,caught,BA King
+ball,2,9.2,West Indies,N Pooran,R Powell,MM Ali,1,0,,,,,,"",""
+ball,2,9.3,West Indies,R Powell,N Pooran,MM Ali,3,0,,,,,,"",""
+ball,2,9.4,West Indies,N Pooran,R Powell,MM Ali,1,0,,,,,,"",""
+ball,2,9.5,West Indies,R Powell,N Pooran,MM Ali,0,1,1,,,,,"",""
+ball,2,9.6,West Indies,R Powell,N Pooran,MM Ali,0,0,,,,,,"",""
+ball,2,9.7,West Indies,R Powell,N Pooran,MM Ali,1,0,,,,,,"",""
+ball,2,10.1,West Indies,R Powell,N Pooran,AU Rashid,1,0,,,,,,"",""
+ball,2,10.2,West Indies,N Pooran,R Powell,AU Rashid,1,0,,,,,,"",""
+ball,2,10.3,West Indies,R Powell,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,2,10.4,West Indies,R Powell,N Pooran,AU Rashid,0,0,,,,,,bowled,R Powell
+ball,2,10.5,West Indies,JO Holder,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,2,10.6,West Indies,JO Holder,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,2,11.1,West Indies,N Pooran,JO Holder,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.2,West Indies,JO Holder,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,2,11.3,West Indies,JO Holder,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,2,11.4,West Indies,JO Holder,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,2,11.5,West Indies,JO Holder,N Pooran,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.6,West Indies,N Pooran,JO Holder,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.1,West Indies,N Pooran,JO Holder,CJ Jordan,0,0,,,,,,"",""
+ball,2,12.2,West Indies,N Pooran,JO Holder,CJ Jordan,1,0,,,,,,"",""
+ball,2,12.3,West Indies,JO Holder,N Pooran,CJ Jordan,1,0,,,,,,"",""
+ball,2,12.4,West Indies,N Pooran,JO Holder,CJ Jordan,1,0,,,,,,"",""
+ball,2,12.5,West Indies,JO Holder,N Pooran,CJ Jordan,0,0,,,,,,"",""
+ball,2,12.6,West Indies,JO Holder,N Pooran,CJ Jordan,0,0,,,,,,"",""
+ball,2,13.1,West Indies,N Pooran,JO Holder,LS Livingstone,6,0,,,,,,"",""
+ball,2,13.2,West Indies,N Pooran,JO Holder,LS Livingstone,0,1,1,,,,,"",""
+ball,2,13.3,West Indies,N Pooran,JO Holder,LS Livingstone,6,0,,,,,,"",""
+ball,2,13.4,West Indies,N Pooran,JO Holder,LS Livingstone,0,0,,,,,,caught,N Pooran
+ball,2,13.5,West Indies,KA Pollard,JO Holder,LS Livingstone,1,0,,,,,,"",""
+ball,2,13.6,West Indies,JO Holder,KA Pollard,LS Livingstone,1,0,,,,,,"",""
+ball,2,13.7,West Indies,KA Pollard,JO Holder,LS Livingstone,0,4,,,4,,,"",""
+ball,2,14.1,West Indies,JO Holder,KA Pollard,AU Rashid,6,0,,,,,,"",""
+ball,2,14.2,West Indies,JO Holder,KA Pollard,AU Rashid,0,0,,,,,,"",""
+ball,2,14.3,West Indies,JO Holder,KA Pollard,AU Rashid,6,0,,,,,,"",""
+ball,2,14.4,West Indies,JO Holder,KA Pollard,AU Rashid,0,1,1,,,,,"",""
+ball,2,14.5,West Indies,JO Holder,KA Pollard,AU Rashid,1,0,,,,,,"",""
+ball,2,14.6,West Indies,KA Pollard,JO Holder,AU Rashid,1,0,,,,,,"",""
+ball,2,14.7,West Indies,JO Holder,KA Pollard,AU Rashid,1,0,,,,,,"",""
+ball,2,15.1,West Indies,JO Holder,KA Pollard,TS Mills,1,0,,,,,,"",""
+ball,2,15.2,West Indies,KA Pollard,JO Holder,TS Mills,1,0,,,,,,"",""
+ball,2,15.3,West Indies,JO Holder,KA Pollard,TS Mills,4,0,,,,,,"",""
+ball,2,15.4,West Indies,JO Holder,KA Pollard,TS Mills,0,1,1,,,,,"",""
+ball,2,15.5,West Indies,JO Holder,KA Pollard,TS Mills,6,0,,,,,,"",""
+ball,2,15.6,West Indies,JO Holder,KA Pollard,TS Mills,1,0,,,,,,"",""
+ball,2,15.7,West Indies,KA Pollard,JO Holder,TS Mills,0,0,,,,,,"",""
+ball,2,16.1,West Indies,JO Holder,KA Pollard,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.2,West Indies,KA Pollard,JO Holder,CJ Jordan,2,0,,,,,,"",""
+ball,2,16.3,West Indies,KA Pollard,JO Holder,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.4,West Indies,JO Holder,KA Pollard,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.5,West Indies,KA Pollard,JO Holder,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.6,West Indies,JO Holder,KA Pollard,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.1,West Indies,JO Holder,KA Pollard,RJW Topley,4,0,,,,,,"",""
+ball,2,17.2,West Indies,JO Holder,KA Pollard,RJW Topley,0,0,,,,,,caught,JO Holder
+ball,2,17.3,West Indies,KA Pollard,DM Bravo,RJW Topley,1,0,,,,,,"",""
+ball,2,17.4,West Indies,DM Bravo,KA Pollard,RJW Topley,0,0,,,,,,"",""
+ball,2,17.5,West Indies,DM Bravo,KA Pollard,RJW Topley,0,0,,,,,,"",""
+ball,2,17.6,West Indies,DM Bravo,KA Pollard,RJW Topley,0,0,,,,,,"",""
+ball,2,18.1,West Indies,KA Pollard,DM Bravo,CJ Jordan,0,0,,,,,,"",""
+ball,2,18.2,West Indies,KA Pollard,DM Bravo,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.3,West Indies,DM Bravo,KA Pollard,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.4,West Indies,KA Pollard,DM Bravo,CJ Jordan,4,0,,,,,,"",""
+ball,2,18.5,West Indies,KA Pollard,DM Bravo,CJ Jordan,0,1,1,,,,,"",""
+ball,2,18.6,West Indies,KA Pollard,DM Bravo,CJ Jordan,4,0,,,,,,"",""
+ball,2,18.7,West Indies,KA Pollard,DM Bravo,CJ Jordan,0,0,,,,,,"",""
+ball,2,19.1,West Indies,DM Bravo,KA Pollard,RJW Topley,0,0,,,,,,"",""
+ball,2,19.2,West Indies,DM Bravo,KA Pollard,RJW Topley,1,0,,,,,,"",""
+ball,2,19.3,West Indies,KA Pollard,DM Bravo,RJW Topley,1,0,,,,,,"",""
+ball,2,19.4,West Indies,DM Bravo,KA Pollard,RJW Topley,0,0,,,,,,"",""
+ball,2,19.5,West Indies,DM Bravo,KA Pollard,RJW Topley,1,0,,,,,,"",""
+ball,2,19.6,West Indies,KA Pollard,DM Bravo,RJW Topley,0,0,,,,,,"",""

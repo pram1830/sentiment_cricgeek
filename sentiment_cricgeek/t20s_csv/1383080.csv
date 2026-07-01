@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Denmark
+info,gender,male
+info,season,2023
+info,date,2023/07/25
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,13
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,HJ Manenti
+info,umpire,N Bathi
+info,umpire,R Black
+info,reserve_umpire,DH Mclean
+info,match_referee,Phil Whitticase
+info,winner,Italy
+info,winner_runs,26
+info,player,Italy,BAD Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,WL Madsen
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,G Stewart
+info,player,Italy,Jaspreet Singh
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,Manpreet Singh
+info,player,Italy,S di Bartolomeo
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,T Bharaj
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,SA Ahmad
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Lucky Ali
+info,player,Denmark,Saran Aslam
+info,player,Denmark,Surya Anand
+info,player,Denmark,Saud Munir
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,E Karimi
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,DH Mclean,281d4749
+info,registry,people,E Karimi,95bd9407
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Black,156c8fb1
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Saran Aslam,2a00735b
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,WL Madsen,86e0f3f0
+ball,1,0.1,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,"",""
+ball,1,0.2,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,"",""
+ball,1,0.3,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,"",""
+ball,1,0.4,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,"",""
+ball,1,0.5,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,"",""
+ball,1,0.6,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,"",""
+ball,1,1.1,Italy,M Campopiano,BAD Manenti,E Karimi,0,0,,,,,,"",""
+ball,1,1.2,Italy,M Campopiano,BAD Manenti,E Karimi,0,0,,,,,,"",""
+ball,1,1.3,Italy,M Campopiano,BAD Manenti,E Karimi,0,0,,,,,,"",""
+ball,1,1.4,Italy,M Campopiano,BAD Manenti,E Karimi,1,0,,,,,,"",""
+ball,1,1.5,Italy,BAD Manenti,M Campopiano,E Karimi,1,0,,,,,,"",""
+ball,1,1.6,Italy,M Campopiano,BAD Manenti,E Karimi,0,0,,,,,,"",""
+ball,1,2.1,Italy,BAD Manenti,M Campopiano,Surya Anand,6,0,,,,,,"",""
+ball,1,2.2,Italy,BAD Manenti,M Campopiano,Surya Anand,4,0,,,,,,"",""
+ball,1,2.3,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,"",""
+ball,1,2.4,Italy,BAD Manenti,M Campopiano,Surya Anand,1,0,,,,,,"",""
+ball,1,2.5,Italy,M Campopiano,BAD Manenti,Surya Anand,0,0,,,,,,"",""
+ball,1,2.6,Italy,M Campopiano,BAD Manenti,Surya Anand,1,0,,,,,,"",""
+ball,1,3.1,Italy,M Campopiano,BAD Manenti,E Karimi,1,0,,,,,,"",""
+ball,1,3.2,Italy,BAD Manenti,M Campopiano,E Karimi,0,0,,,,,,"",""
+ball,1,3.3,Italy,BAD Manenti,M Campopiano,E Karimi,4,0,,,,,,"",""
+ball,1,3.4,Italy,BAD Manenti,M Campopiano,E Karimi,4,0,,,,,,"",""
+ball,1,3.5,Italy,BAD Manenti,M Campopiano,E Karimi,1,0,,,,,,"",""
+ball,1,3.6,Italy,M Campopiano,BAD Manenti,E Karimi,0,0,,,,,,"",""
+ball,1,4.1,Italy,BAD Manenti,M Campopiano,Surya Anand,0,0,,,,,,caught,BAD Manenti
+ball,1,4.2,Italy,WL Madsen,M Campopiano,Surya Anand,0,0,,,,,,caught,WL Madsen
+ball,1,4.3,Italy,AJ Mosca,M Campopiano,Surya Anand,1,0,,,,,,"",""
+ball,1,4.4,Italy,M Campopiano,AJ Mosca,Surya Anand,4,0,,,,,,"",""
+ball,1,4.5,Italy,M Campopiano,AJ Mosca,Surya Anand,1,0,,,,,,"",""
+ball,1,4.6,Italy,AJ Mosca,M Campopiano,Surya Anand,0,1,,,,1,,"",""
+ball,1,5.1,Italy,AJ Mosca,M Campopiano,E Karimi,0,0,,,,,,"",""
+ball,1,5.2,Italy,AJ Mosca,M Campopiano,E Karimi,3,0,,,,,,"",""
+ball,1,5.3,Italy,M Campopiano,AJ Mosca,E Karimi,1,0,,,,,,"",""
+ball,1,5.4,Italy,AJ Mosca,M Campopiano,E Karimi,0,0,,,,,,"",""
+ball,1,5.5,Italy,AJ Mosca,M Campopiano,E Karimi,1,0,,,,,,"",""
+ball,1,5.6,Italy,M Campopiano,AJ Mosca,E Karimi,1,0,,,,,,"",""
+ball,1,6.1,Italy,M Campopiano,AJ Mosca,Surya Anand,0,1,,,,1,,"",""
+ball,1,6.2,Italy,AJ Mosca,M Campopiano,Surya Anand,1,0,,,,,,"",""
+ball,1,6.3,Italy,M Campopiano,AJ Mosca,Surya Anand,4,0,,,,,,"",""
+ball,1,6.4,Italy,M Campopiano,AJ Mosca,Surya Anand,0,1,1,,,,,"",""
+ball,1,6.5,Italy,M Campopiano,AJ Mosca,Surya Anand,0,0,,,,,,"",""
+ball,1,6.6,Italy,M Campopiano,AJ Mosca,Surya Anand,2,0,,,,,,"",""
+ball,1,6.7,Italy,M Campopiano,AJ Mosca,Surya Anand,2,0,,,,,,"",""
+ball,1,7.1,Italy,AJ Mosca,M Campopiano,ND Laegsgaard,4,0,,,,,,"",""
+ball,1,7.2,Italy,AJ Mosca,M Campopiano,ND Laegsgaard,2,0,,,,,,"",""
+ball,1,7.3,Italy,AJ Mosca,M Campopiano,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,7.4,Italy,M Campopiano,AJ Mosca,ND Laegsgaard,0,0,,,,,,caught and bowled,M Campopiano
+ball,1,7.5,Italy,HJ Manenti,AJ Mosca,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,7.6,Italy,AJ Mosca,HJ Manenti,ND Laegsgaard,0,1,1,,,,,"",""
+ball,1,7.7,Italy,AJ Mosca,HJ Manenti,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,8.1,Italy,HJ Manenti,AJ Mosca,Saud Munir,0,0,,,,,,"",""
+ball,1,8.2,Italy,HJ Manenti,AJ Mosca,Saud Munir,1,0,,,,,,"",""
+ball,1,8.3,Italy,AJ Mosca,HJ Manenti,Saud Munir,1,0,,,,,,"",""
+ball,1,8.4,Italy,HJ Manenti,AJ Mosca,Saud Munir,1,0,,,,,,"",""
+ball,1,8.5,Italy,AJ Mosca,HJ Manenti,Saud Munir,0,1,,,,1,,"",""
+ball,1,8.6,Italy,HJ Manenti,AJ Mosca,Saud Munir,1,0,,,,,,"",""
+ball,1,9.1,Italy,HJ Manenti,AJ Mosca,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,9.2,Italy,HJ Manenti,AJ Mosca,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,9.3,Italy,AJ Mosca,HJ Manenti,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,9.4,Italy,HJ Manenti,AJ Mosca,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,9.5,Italy,HJ Manenti,AJ Mosca,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,9.6,Italy,HJ Manenti,AJ Mosca,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,10.1,Italy,HJ Manenti,AJ Mosca,Saud Munir,3,0,,,,,,"",""
+ball,1,10.2,Italy,AJ Mosca,HJ Manenti,Saud Munir,0,0,,,,,,"",""
+ball,1,10.3,Italy,AJ Mosca,HJ Manenti,Saud Munir,1,0,,,,,,"",""
+ball,1,10.4,Italy,HJ Manenti,AJ Mosca,Saud Munir,1,0,,,,,,"",""
+ball,1,10.5,Italy,AJ Mosca,HJ Manenti,Saud Munir,1,0,,,,,,"",""
+ball,1,10.6,Italy,HJ Manenti,AJ Mosca,Saud Munir,0,1,1,,,,,"",""
+ball,1,10.7,Italy,HJ Manenti,AJ Mosca,Saud Munir,4,0,,,,,,"",""
+ball,1,11.1,Italy,AJ Mosca,HJ Manenti,Abdullah Mahmood,4,0,,,,,,"",""
+ball,1,11.2,Italy,AJ Mosca,HJ Manenti,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,11.3,Italy,HJ Manenti,AJ Mosca,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,11.4,Italy,AJ Mosca,HJ Manenti,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,11.5,Italy,HJ Manenti,AJ Mosca,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,11.6,Italy,AJ Mosca,HJ Manenti,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,12.1,Italy,HJ Manenti,AJ Mosca,E Karimi,4,0,,,,,,"",""
+ball,1,12.2,Italy,HJ Manenti,AJ Mosca,E Karimi,1,0,,,,,,"",""
+ball,1,12.3,Italy,AJ Mosca,HJ Manenti,E Karimi,1,0,,,,,,"",""
+ball,1,12.4,Italy,HJ Manenti,AJ Mosca,E Karimi,0,0,,,,,,"",""
+ball,1,12.5,Italy,HJ Manenti,AJ Mosca,E Karimi,1,0,,,,,,"",""
+ball,1,12.6,Italy,AJ Mosca,HJ Manenti,E Karimi,0,0,,,,,,"",""
+ball,1,13.1,Italy,HJ Manenti,AJ Mosca,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,13.2,Italy,AJ Mosca,HJ Manenti,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,13.3,Italy,HJ Manenti,AJ Mosca,Abdullah Mahmood,6,0,,,,,,"",""
+ball,1,13.4,Italy,HJ Manenti,AJ Mosca,Abdullah Mahmood,4,0,,,,,,"",""
+ball,1,13.5,Italy,HJ Manenti,AJ Mosca,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,13.6,Italy,AJ Mosca,HJ Manenti,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,14.1,Italy,AJ Mosca,HJ Manenti,SA Ahmad,0,0,,,,,,"",""
+ball,1,14.2,Italy,AJ Mosca,HJ Manenti,SA Ahmad,1,0,,,,,,"",""
+ball,1,14.3,Italy,HJ Manenti,AJ Mosca,SA Ahmad,1,0,,,,,,"",""
+ball,1,14.4,Italy,AJ Mosca,HJ Manenti,SA Ahmad,1,0,,,,,,"",""
+ball,1,14.5,Italy,HJ Manenti,AJ Mosca,SA Ahmad,1,0,,,,,,"",""
+ball,1,14.6,Italy,AJ Mosca,HJ Manenti,SA Ahmad,1,0,,,,,,"",""
+ball,1,15.1,Italy,AJ Mosca,HJ Manenti,Abdullah Mahmood,0,0,,,,,,caught,AJ Mosca
+ball,1,15.2,Italy,G Stewart,HJ Manenti,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,15.3,Italy,HJ Manenti,G Stewart,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,15.4,Italy,G Stewart,HJ Manenti,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,15.5,Italy,HJ Manenti,G Stewart,Abdullah Mahmood,4,0,,,,,,"",""
+ball,1,15.6,Italy,HJ Manenti,G Stewart,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,16.1,Italy,G Stewart,HJ Manenti,SA Ahmad,0,1,1,,,,,"",""
+ball,1,16.2,Italy,G Stewart,HJ Manenti,SA Ahmad,0,0,,,,,,caught,G Stewart
+ball,1,16.3,Italy,Jaspreet Singh,HJ Manenti,SA Ahmad,0,0,,,,,,"",""
+ball,1,16.4,Italy,Jaspreet Singh,HJ Manenti,SA Ahmad,4,0,,,,,,"",""
+ball,1,16.5,Italy,Jaspreet Singh,HJ Manenti,SA Ahmad,0,1,1,,,,,"",""
+ball,1,16.6,Italy,Jaspreet Singh,HJ Manenti,SA Ahmad,2,0,,,,,,"",""
+ball,1,16.7,Italy,Jaspreet Singh,HJ Manenti,SA Ahmad,0,0,,,,,,"",""
+ball,1,16.8,Italy,Jaspreet Singh,HJ Manenti,SA Ahmad,1,0,,,,,,"",""
+ball,1,17.1,Italy,Jaspreet Singh,HJ Manenti,Saud Munir,1,0,,,,,,"",""
+ball,1,17.2,Italy,HJ Manenti,Jaspreet Singh,Saud Munir,2,0,,,,,,"",""
+ball,1,17.3,Italy,HJ Manenti,Jaspreet Singh,Saud Munir,4,0,,,,,,"",""
+ball,1,17.4,Italy,HJ Manenti,Jaspreet Singh,Saud Munir,1,0,,,,,,"",""
+ball,1,17.5,Italy,Jaspreet Singh,HJ Manenti,Saud Munir,2,0,,,,,,"",""
+ball,1,17.6,Italy,Jaspreet Singh,HJ Manenti,Saud Munir,1,0,,,,,,"",""
+ball,1,18.1,Italy,Jaspreet Singh,HJ Manenti,SA Ahmad,0,0,,,,,,caught,Jaspreet Singh
+ball,1,18.2,Italy,GP Meade,HJ Manenti,SA Ahmad,1,0,,,,,,"",""
+ball,1,18.3,Italy,HJ Manenti,GP Meade,SA Ahmad,1,0,,,,,,"",""
+ball,1,18.4,Italy,GP Meade,HJ Manenti,SA Ahmad,0,0,,,,,,"",""
+ball,1,18.5,Italy,GP Meade,HJ Manenti,SA Ahmad,0,1,1,,,,,"",""
+ball,1,18.6,Italy,GP Meade,HJ Manenti,SA Ahmad,1,0,,,,,,"",""
+ball,1,18.7,Italy,HJ Manenti,GP Meade,SA Ahmad,1,0,,,,,,"",""
+ball,1,19.1,Italy,HJ Manenti,GP Meade,Saud Munir,1,0,,,,,,"",""
+ball,1,19.2,Italy,GP Meade,HJ Manenti,Saud Munir,2,0,,,,,,"",""
+ball,1,19.3,Italy,GP Meade,HJ Manenti,Saud Munir,3,0,,,,,,"",""
+ball,1,19.4,Italy,HJ Manenti,GP Meade,Saud Munir,0,0,,,,,,run out,HJ Manenti
+ball,1,19.5,Italy,GK Berg,GP Meade,Saud Munir,0,0,,,,,,caught,GK Berg
+ball,1,19.6,Italy,Manpreet Singh,GP Meade,Saud Munir,2,0,,,,,,"",""
+ball,2,0.1,Denmark,ND Laegsgaard,T Bharaj,GK Berg,0,0,,,,,,"",""
+ball,2,0.2,Denmark,ND Laegsgaard,T Bharaj,GK Berg,4,0,,,,,,"",""
+ball,2,0.3,Denmark,ND Laegsgaard,T Bharaj,GK Berg,1,0,,,,,,"",""
+ball,2,0.4,Denmark,T Bharaj,ND Laegsgaard,GK Berg,0,0,,,,,,"",""
+ball,2,0.5,Denmark,T Bharaj,ND Laegsgaard,GK Berg,0,0,,,,,,"",""
+ball,2,0.6,Denmark,T Bharaj,ND Laegsgaard,GK Berg,0,1,,,,1,,"",""
+ball,2,1.1,Denmark,T Bharaj,ND Laegsgaard,HJ Manenti,0,1,1,,,,,"",""
+ball,2,1.2,Denmark,T Bharaj,ND Laegsgaard,HJ Manenti,1,0,,,,,,"",""
+ball,2,1.3,Denmark,ND Laegsgaard,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,1.4,Denmark,ND Laegsgaard,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,1.5,Denmark,ND Laegsgaard,T Bharaj,HJ Manenti,0,0,,,,,,caught,ND Laegsgaard
+ball,2,1.6,Denmark,Abdul Hashim,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,1.7,Denmark,Abdul Hashim,T Bharaj,HJ Manenti,0,0,,,,,,caught,Abdul Hashim
+ball,2,2.1,Denmark,T Bharaj,SA Ahmad,GK Berg,0,0,,,,,,"",""
+ball,2,2.2,Denmark,T Bharaj,SA Ahmad,GK Berg,0,1,1,,,,,"",""
+ball,2,2.3,Denmark,T Bharaj,SA Ahmad,GK Berg,1,0,,,,,,"",""
+ball,2,2.4,Denmark,SA Ahmad,T Bharaj,GK Berg,0,0,,,,,,"",""
+ball,2,2.5,Denmark,SA Ahmad,T Bharaj,GK Berg,2,0,,,,,,"",""
+ball,2,2.6,Denmark,SA Ahmad,T Bharaj,GK Berg,0,0,,,,,,"",""
+ball,2,2.7,Denmark,SA Ahmad,T Bharaj,GK Berg,1,0,,,,,,"",""
+ball,2,3.1,Denmark,SA Ahmad,T Bharaj,HJ Manenti,1,0,,,,,,"",""
+ball,2,3.2,Denmark,T Bharaj,SA Ahmad,HJ Manenti,4,0,,,,,,"",""
+ball,2,3.3,Denmark,T Bharaj,SA Ahmad,HJ Manenti,1,0,,,,,,"",""
+ball,2,3.4,Denmark,SA Ahmad,T Bharaj,HJ Manenti,4,0,,,,,,"",""
+ball,2,3.5,Denmark,SA Ahmad,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,3.6,Denmark,SA Ahmad,T Bharaj,HJ Manenti,1,0,,,,,,"",""
+ball,2,4.1,Denmark,SA Ahmad,T Bharaj,S di Bartolomeo,0,0,,,,,,caught,SA Ahmad
+ball,2,4.2,Denmark,S Thanikaithasan,T Bharaj,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,4.3,Denmark,S Thanikaithasan,T Bharaj,S di Bartolomeo,1,0,,,,,,"",""
+ball,2,4.4,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,4,0,,,,,,"",""
+ball,2,4.5,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,4.6,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,1,1,,,,,"",""
+ball,2,4.7,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,1,0,,,,,,"",""
+ball,2,5.1,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,4,0,,,,,,"",""
+ball,2,5.2,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,5.3,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,2,0,,,,,,"",""
+ball,2,5.4,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,5.5,Denmark,S Thanikaithasan,T Bharaj,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,5.6,Denmark,S Thanikaithasan,T Bharaj,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,6.1,Denmark,S Thanikaithasan,T Bharaj,S di Bartolomeo,1,0,,,,,,"",""
+ball,2,6.2,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,1,0,,,,,,"",""
+ball,2,6.3,Denmark,S Thanikaithasan,T Bharaj,S di Bartolomeo,2,0,,,,,,"",""
+ball,2,6.4,Denmark,S Thanikaithasan,T Bharaj,S di Bartolomeo,1,0,,,,,,"",""
+ball,2,6.5,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,6.6,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,7.1,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,7.2,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,1,1,,,,,"",""
+ball,2,7.3,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,1,1,,,,,"",""
+ball,2,7.4,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,7.5,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,1,0,,,,,,"",""
+ball,2,7.6,Denmark,T Bharaj,S Thanikaithasan,BAD Manenti,1,0,,,,,,"",""
+ball,2,7.7,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,2,0,,,,,,"",""
+ball,2,7.8,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,8.1,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,4,0,,,,,,"",""
+ball,2,8.2,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,4,0,,,,,,"",""
+ball,2,8.3,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,8.4,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,8.5,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,2,0,,,,,,"",""
+ball,2,8.6,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,9.1,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,1,1,,,,,"",""
+ball,2,9.2,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,9.3,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,9.4,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,9.5,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,9.6,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,1,0,,,,,,"",""
+ball,2,9.7,Denmark,T Bharaj,S Thanikaithasan,BAD Manenti,1,0,,,,,,"",""
+ball,2,10.1,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,10.2,Denmark,S Thanikaithasan,T Bharaj,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,10.3,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,6,0,,,,,,"",""
+ball,2,10.4,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,10.5,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,0,1,1,,,,,"",""
+ball,2,10.6,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,10.7,Denmark,S Thanikaithasan,T Bharaj,Jaspreet Singh,4,0,,,,,,"",""
+ball,2,11.1,Denmark,T Bharaj,S Thanikaithasan,BAD Manenti,1,0,,,,,,"",""
+ball,2,11.2,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,1,0,,,,,,"",""
+ball,2,11.3,Denmark,T Bharaj,S Thanikaithasan,BAD Manenti,1,0,,,,,,"",""
+ball,2,11.4,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,2,0,,,,,,"",""
+ball,2,11.5,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,11.6,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,12.1,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,12.2,Denmark,S Thanikaithasan,T Bharaj,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,12.3,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,6,0,,,,,,"",""
+ball,2,12.4,Denmark,T Bharaj,S Thanikaithasan,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,12.5,Denmark,S Thanikaithasan,T Bharaj,Jaspreet Singh,2,0,,,,,,"",""
+ball,2,12.6,Denmark,S Thanikaithasan,T Bharaj,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,13.1,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,2,0,,,,,,"",""
+ball,2,13.2,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,0,0,,,,,,"",""
+ball,2,13.3,Denmark,S Thanikaithasan,T Bharaj,BAD Manenti,1,0,,,,,,"",""
+ball,2,13.4,Denmark,T Bharaj,S Thanikaithasan,BAD Manenti,0,0,,,,,,"",""
+ball,2,13.5,Denmark,T Bharaj,S Thanikaithasan,BAD Manenti,0,0,,,,,,"",""
+ball,2,13.6,Denmark,T Bharaj,S Thanikaithasan,BAD Manenti,0,0,,,,,,"",""
+ball,2,14.1,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,2,0,,,,,,"",""
+ball,2,14.2,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,14.3,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,14.4,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,14.5,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,0,1,1,,,,,"",""
+ball,2,14.6,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,2,0,,,,,,"",""
+ball,2,14.7,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,0,1,1,,,,,"",""
+ball,2,14.8,Denmark,S Thanikaithasan,T Bharaj,HJ Manenti,0,0,,,,,,"",""
+ball,2,15.1,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,15.2,Denmark,T Bharaj,S Thanikaithasan,S di Bartolomeo,1,0,,,,,,run out,S Thanikaithasan
+ball,2,15.3,Denmark,T Bharaj,Lucky Ali,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,15.4,Denmark,T Bharaj,Lucky Ali,S di Bartolomeo,1,0,,,,,,"",""
+ball,2,15.5,Denmark,Lucky Ali,T Bharaj,S di Bartolomeo,0,0,,,,,,"",""
+ball,2,15.6,Denmark,Lucky Ali,T Bharaj,S di Bartolomeo,1,0,,,,,,"",""
+ball,2,16.1,Denmark,Lucky Ali,T Bharaj,GK Berg,0,0,,,,,,caught,Lucky Ali
+ball,2,16.2,Denmark,Saran Aslam,T Bharaj,GK Berg,0,0,,,,,,"",""
+ball,2,16.3,Denmark,Saran Aslam,T Bharaj,GK Berg,0,0,,,,,,caught,Saran Aslam
+ball,2,16.4,Denmark,Surya Anand,T Bharaj,GK Berg,1,0,,,,,,"",""
+ball,2,16.5,Denmark,T Bharaj,Surya Anand,GK Berg,0,0,,,,,,caught,T Bharaj
+ball,2,16.6,Denmark,Saud Munir,Surya Anand,GK Berg,1,0,,,,,,"",""
+ball,2,17.1,Denmark,Saud Munir,Surya Anand,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,17.2,Denmark,Surya Anand,Saud Munir,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,17.3,Denmark,Saud Munir,Surya Anand,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,17.4,Denmark,Surya Anand,Saud Munir,Jaspreet Singh,6,0,,,,,,"",""
+ball,2,17.5,Denmark,Surya Anand,Saud Munir,Jaspreet Singh,0,0,,,,,,caught,Surya Anand
+ball,2,17.6,Denmark,Abdullah Mahmood,Saud Munir,Jaspreet Singh,2,0,,,,,,"",""
+ball,2,18.1,Denmark,Saud Munir,Abdullah Mahmood,GK Berg,0,0,,,,,,"",""
+ball,2,18.2,Denmark,Saud Munir,Abdullah Mahmood,GK Berg,1,0,,,,,,"",""
+ball,2,18.3,Denmark,Abdullah Mahmood,Saud Munir,GK Berg,0,0,,,,,,caught,Abdullah Mahmood
+ball,2,18.4,Denmark,E Karimi,Saud Munir,GK Berg,0,0,,,,,,"",""
+ball,2,18.5,Denmark,E Karimi,Saud Munir,GK Berg,0,0,,,,,,"",""
+ball,2,18.6,Denmark,E Karimi,Saud Munir,GK Berg,0,1,1,,,,,"",""
+ball,2,18.7,Denmark,E Karimi,Saud Munir,GK Berg,0,0,,,,,,"",""
+ball,2,19.1,Denmark,Saud Munir,E Karimi,HJ Manenti,1,0,,,,,,"",""
+ball,2,19.2,Denmark,E Karimi,Saud Munir,HJ Manenti,2,0,,,,,,"",""
+ball,2,19.3,Denmark,E Karimi,Saud Munir,HJ Manenti,0,0,,,,,,bowled,E Karimi

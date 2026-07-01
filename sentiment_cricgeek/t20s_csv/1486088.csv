@@ -1,0 +1,324 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Italy
+info,gender,female
+info,season,2025
+info,date,2025/05/25
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,1
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Italy
+info,toss_decision,field
+info,player_of_match,D Nanayakkara
+info,umpire,DH Mclean
+info,umpire,M Jameson
+info,winner,Italy
+info,winner_wickets,7
+info,player,Jersey,A Merritt
+info,player,Jersey,A Aikenhead
+info,player,Jersey,G Wetherall
+info,player,Jersey,T Smith
+info,player,Jersey,F Tanguy
+info,player,Jersey,M Maguire
+info,player,Jersey,CM Greechan
+info,player,Jersey,L Greig
+info,player,Jersey,A Mossop
+info,player,Jersey,N Greig
+info,player,Jersey,O Bastin
+info,player,Italy,M Rathnayake
+info,player,Italy,D Nanayakkara
+info,player,Italy,Ilenia Sims
+info,player,Italy,C Piparo
+info,player,Italy,AS Wikman
+info,player,Italy,EL Bartram
+info,player,Italy,S Kanankege
+info,player,Italy,A Kontopirakis
+info,player,Italy,K Peddrick
+info,player,Italy,C Mahamalage
+info,player,Italy,T Araliya
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Kontopirakis,4f05f64e
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,A Mossop,006b0d25
+info,registry,people,AS Wikman,a3b7bcbd
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,C Piparo,276f3dde
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,DH Mclean,281d4749
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,F Tanguy,c46400b7
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,Ilenia Sims,03c98aa6
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,L Greig,0e3e8ce3
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,N Greig,4dd104cf
+info,registry,people,O Bastin,9b6dde07
+info,registry,people,S Kanankege,01815edc
+info,registry,people,T Araliya,d423f390
+info,registry,people,T Smith,f24ffaab
+ball,1,0.1,Jersey,A Merritt,A Aikenhead,C Mahamalage,2,0,,,,,,"",""
+ball,1,0.2,Jersey,A Merritt,A Aikenhead,C Mahamalage,1,0,,,,,,"",""
+ball,1,0.3,Jersey,A Aikenhead,A Merritt,C Mahamalage,1,0,,,,,,"",""
+ball,1,0.4,Jersey,A Merritt,A Aikenhead,C Mahamalage,2,0,,,,,,"",""
+ball,1,0.5,Jersey,A Merritt,A Aikenhead,C Mahamalage,0,0,,,,,,"",""
+ball,1,0.6,Jersey,A Merritt,A Aikenhead,C Mahamalage,1,0,,,,,,"",""
+ball,1,1.1,Jersey,A Merritt,A Aikenhead,S Kanankege,1,0,,,,,,"",""
+ball,1,1.2,Jersey,A Aikenhead,A Merritt,S Kanankege,0,0,,,,,,"",""
+ball,1,1.3,Jersey,A Aikenhead,A Merritt,S Kanankege,4,0,,,,,,"",""
+ball,1,1.4,Jersey,A Aikenhead,A Merritt,S Kanankege,2,0,,,,,,"",""
+ball,1,1.5,Jersey,A Aikenhead,A Merritt,S Kanankege,0,1,1,,,,,"",""
+ball,1,1.6,Jersey,A Aikenhead,A Merritt,S Kanankege,0,0,,,,,,"",""
+ball,1,1.7,Jersey,A Aikenhead,A Merritt,S Kanankege,1,0,,,,,,"",""
+ball,1,2.1,Jersey,A Aikenhead,A Merritt,C Mahamalage,1,0,,,,,,"",""
+ball,1,2.2,Jersey,A Merritt,A Aikenhead,C Mahamalage,1,0,,,,,,"",""
+ball,1,2.3,Jersey,A Aikenhead,A Merritt,C Mahamalage,0,0,,,,,,caught,A Aikenhead
+ball,1,2.4,Jersey,G Wetherall,A Merritt,C Mahamalage,0,0,,,,,,"",""
+ball,1,2.5,Jersey,G Wetherall,A Merritt,C Mahamalage,0,0,,,,,,"",""
+ball,1,2.6,Jersey,G Wetherall,A Merritt,C Mahamalage,0,0,,,,,,"",""
+ball,1,3.1,Jersey,A Merritt,G Wetherall,S Kanankege,4,0,,,,,,"",""
+ball,1,3.2,Jersey,A Merritt,G Wetherall,S Kanankege,0,1,1,,,,,"",""
+ball,1,3.3,Jersey,A Merritt,G Wetherall,S Kanankege,0,5,,1,4,,,"",""
+ball,1,3.4,Jersey,A Merritt,G Wetherall,S Kanankege,4,0,,,,,,"",""
+ball,1,3.5,Jersey,A Merritt,G Wetherall,S Kanankege,0,0,,,,,,"",""
+ball,1,3.6,Jersey,A Merritt,G Wetherall,S Kanankege,4,0,,,,,,"",""
+ball,1,3.7,Jersey,A Merritt,G Wetherall,S Kanankege,0,0,,,,,,"",""
+ball,1,3.8,Jersey,A Merritt,G Wetherall,S Kanankege,0,0,,,,,,"",""
+ball,1,4.1,Jersey,G Wetherall,A Merritt,C Mahamalage,4,0,,,,,,"",""
+ball,1,4.2,Jersey,G Wetherall,A Merritt,C Mahamalage,1,0,,,,,,"",""
+ball,1,4.3,Jersey,A Merritt,G Wetherall,C Mahamalage,1,0,,,,,,"",""
+ball,1,4.4,Jersey,G Wetherall,A Merritt,C Mahamalage,2,0,,,,,,"",""
+ball,1,4.5,Jersey,G Wetherall,A Merritt,C Mahamalage,4,0,,,,,,"",""
+ball,1,4.6,Jersey,G Wetherall,A Merritt,C Mahamalage,0,1,1,,,,,"",""
+ball,1,4.7,Jersey,G Wetherall,A Merritt,C Mahamalage,0,0,,,,,,"",""
+ball,1,5.1,Jersey,A Merritt,G Wetherall,EL Bartram,0,2,2,,,,,"",""
+ball,1,5.2,Jersey,G Wetherall,A Merritt,EL Bartram,0,1,1,,,,,"",""
+ball,1,5.3,Jersey,G Wetherall,A Merritt,EL Bartram,0,0,,,,,,"",""
+ball,1,5.4,Jersey,G Wetherall,A Merritt,EL Bartram,0,0,,,,,,"",""
+ball,1,5.5,Jersey,G Wetherall,A Merritt,EL Bartram,4,0,,,,,,"",""
+ball,1,5.6,Jersey,G Wetherall,A Merritt,EL Bartram,0,0,,,,,,"",""
+ball,1,5.7,Jersey,G Wetherall,A Merritt,EL Bartram,6,0,,,,,,"",""
+ball,1,5.8,Jersey,G Wetherall,A Merritt,EL Bartram,6,0,,,,,,"",""
+ball,1,6.1,Jersey,A Merritt,G Wetherall,K Peddrick,0,0,,,,,,"",""
+ball,1,6.2,Jersey,A Merritt,G Wetherall,K Peddrick,0,0,,,,,,"",""
+ball,1,6.3,Jersey,A Merritt,G Wetherall,K Peddrick,1,0,,,,,,"",""
+ball,1,6.4,Jersey,G Wetherall,A Merritt,K Peddrick,0,1,1,,,,,"",""
+ball,1,6.5,Jersey,G Wetherall,A Merritt,K Peddrick,1,0,,,,,,"",""
+ball,1,6.6,Jersey,A Merritt,G Wetherall,K Peddrick,1,0,,,,,,"",""
+ball,1,6.7,Jersey,G Wetherall,A Merritt,K Peddrick,0,0,,,,,,"",""
+ball,1,7.1,Jersey,A Merritt,G Wetherall,Ilenia Sims,1,0,,,,,,"",""
+ball,1,7.2,Jersey,G Wetherall,A Merritt,Ilenia Sims,0,0,,,,,,"",""
+ball,1,7.3,Jersey,G Wetherall,A Merritt,Ilenia Sims,1,0,,,,,,"",""
+ball,1,7.4,Jersey,A Merritt,G Wetherall,Ilenia Sims,4,0,,,,,,"",""
+ball,1,7.5,Jersey,A Merritt,G Wetherall,Ilenia Sims,1,0,,,,,,"",""
+ball,1,7.6,Jersey,G Wetherall,A Merritt,Ilenia Sims,1,0,,,,,,"",""
+ball,1,8.1,Jersey,G Wetherall,A Merritt,K Peddrick,1,0,,,,,,"",""
+ball,1,8.2,Jersey,A Merritt,G Wetherall,K Peddrick,4,0,,,,,,"",""
+ball,1,8.3,Jersey,A Merritt,G Wetherall,K Peddrick,1,0,,,,,,"",""
+ball,1,8.4,Jersey,G Wetherall,A Merritt,K Peddrick,4,0,,,,,,"",""
+ball,1,8.5,Jersey,G Wetherall,A Merritt,K Peddrick,0,0,,,,,,"",""
+ball,1,8.6,Jersey,G Wetherall,A Merritt,K Peddrick,0,1,,,1,,,"",""
+ball,1,9.1,Jersey,G Wetherall,A Merritt,Ilenia Sims,1,0,,,,,,"",""
+ball,1,9.2,Jersey,A Merritt,G Wetherall,Ilenia Sims,0,0,,,,,,"",""
+ball,1,9.3,Jersey,A Merritt,G Wetherall,Ilenia Sims,0,0,,,,,,run out,G Wetherall
+ball,1,9.4,Jersey,T Smith,A Merritt,Ilenia Sims,0,0,,,,,,"",""
+ball,1,9.5,Jersey,T Smith,A Merritt,Ilenia Sims,0,0,,,,,,bowled,T Smith
+ball,1,9.6,Jersey,F Tanguy,A Merritt,Ilenia Sims,0,1,,1,,,,"",""
+ball,1,9.7,Jersey,F Tanguy,A Merritt,Ilenia Sims,0,0,,,,,,"",""
+ball,1,10.1,Jersey,A Merritt,F Tanguy,K Peddrick,1,0,,,,,,"",""
+ball,1,10.2,Jersey,F Tanguy,A Merritt,K Peddrick,1,0,,,,,,"",""
+ball,1,10.3,Jersey,A Merritt,F Tanguy,K Peddrick,1,0,,,,,,"",""
+ball,1,10.4,Jersey,F Tanguy,A Merritt,K Peddrick,4,0,,,,,,"",""
+ball,1,10.5,Jersey,F Tanguy,A Merritt,K Peddrick,0,0,,,,,,caught,F Tanguy
+ball,1,10.6,Jersey,M Maguire,A Merritt,K Peddrick,0,2,2,,,,,"",""
+ball,1,10.7,Jersey,A Merritt,M Maguire,K Peddrick,1,0,,,,,,"",""
+ball,1,11.1,Jersey,A Merritt,M Maguire,Ilenia Sims,1,0,,,,,,"",""
+ball,1,11.2,Jersey,M Maguire,A Merritt,Ilenia Sims,1,0,,,,,,"",""
+ball,1,11.3,Jersey,A Merritt,M Maguire,Ilenia Sims,2,0,,,,,,"",""
+ball,1,11.4,Jersey,A Merritt,M Maguire,Ilenia Sims,1,0,,,,,,"",""
+ball,1,11.5,Jersey,M Maguire,A Merritt,Ilenia Sims,0,0,,,,,,"",""
+ball,1,11.6,Jersey,M Maguire,A Merritt,Ilenia Sims,0,0,,,,,,"",""
+ball,1,12.1,Jersey,A Merritt,M Maguire,T Araliya,1,0,,,,,,"",""
+ball,1,12.2,Jersey,M Maguire,A Merritt,T Araliya,1,0,,,,,,"",""
+ball,1,12.3,Jersey,A Merritt,M Maguire,T Araliya,1,0,,,,,,"",""
+ball,1,12.4,Jersey,M Maguire,A Merritt,T Araliya,0,0,,,,,,run out,M Maguire
+ball,1,12.5,Jersey,A Merritt,CM Greechan,T Araliya,1,0,,,,,,"",""
+ball,1,12.6,Jersey,CM Greechan,A Merritt,T Araliya,1,0,,,,,,"",""
+ball,1,13.1,Jersey,CM Greechan,A Merritt,Ilenia Sims,0,1,1,,,,,"",""
+ball,1,13.2,Jersey,CM Greechan,A Merritt,Ilenia Sims,1,0,,,,,,"",""
+ball,1,13.3,Jersey,A Merritt,CM Greechan,Ilenia Sims,0,1,,1,,,,"",""
+ball,1,13.4,Jersey,A Merritt,CM Greechan,Ilenia Sims,1,0,,,,,,"",""
+ball,1,13.5,Jersey,CM Greechan,A Merritt,Ilenia Sims,0,0,,,,,,"",""
+ball,1,13.6,Jersey,CM Greechan,A Merritt,Ilenia Sims,0,0,,,,,,bowled,CM Greechan
+ball,1,13.7,Jersey,L Greig,A Merritt,Ilenia Sims,0,0,,,,,,"",""
+ball,1,13.8,Jersey,L Greig,A Merritt,Ilenia Sims,1,0,,,,,,"",""
+ball,1,14.1,Jersey,L Greig,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,14.2,Jersey,L Greig,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,14.3,Jersey,L Greig,A Merritt,T Araliya,1,0,,,,,,"",""
+ball,1,14.4,Jersey,A Merritt,L Greig,T Araliya,0,0,,,,,,"",""
+ball,1,14.5,Jersey,A Merritt,L Greig,T Araliya,1,0,,,,,,"",""
+ball,1,14.6,Jersey,L Greig,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,15.1,Jersey,A Merritt,L Greig,D Nanayakkara,0,0,,,,,,"",""
+ball,1,15.2,Jersey,A Merritt,L Greig,D Nanayakkara,4,1,,1,,,,"",""
+ball,1,15.3,Jersey,A Merritt,L Greig,D Nanayakkara,1,0,,,,,,"",""
+ball,1,15.4,Jersey,L Greig,A Merritt,D Nanayakkara,1,0,,,,,,"",""
+ball,1,15.5,Jersey,A Merritt,L Greig,D Nanayakkara,6,0,,,,,,"",""
+ball,1,15.6,Jersey,A Merritt,L Greig,D Nanayakkara,1,0,,,,,,"",""
+ball,1,15.7,Jersey,L Greig,A Merritt,D Nanayakkara,1,0,,,,,,"",""
+ball,1,16.1,Jersey,L Greig,A Merritt,T Araliya,0,0,,,,,,lbw,L Greig
+ball,1,16.2,Jersey,A Mossop,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,16.3,Jersey,A Mossop,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,16.4,Jersey,A Mossop,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,16.5,Jersey,A Mossop,A Merritt,T Araliya,0,1,1,,,,,"",""
+ball,1,16.6,Jersey,A Mossop,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,16.7,Jersey,A Mossop,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,17.1,Jersey,A Merritt,A Mossop,C Mahamalage,1,0,,,,,,"",""
+ball,1,17.2,Jersey,A Mossop,A Merritt,C Mahamalage,1,0,,,,,,"",""
+ball,1,17.3,Jersey,A Merritt,A Mossop,C Mahamalage,0,0,,,,,,"",""
+ball,1,17.4,Jersey,A Merritt,A Mossop,C Mahamalage,6,0,,,,,,"",""
+ball,1,17.5,Jersey,A Merritt,A Mossop,C Mahamalage,4,0,,,,,,"",""
+ball,1,17.6,Jersey,A Merritt,A Mossop,C Mahamalage,1,0,,,,,,"",""
+ball,1,18.1,Jersey,A Merritt,A Mossop,T Araliya,0,0,,,,,,"",""
+ball,1,18.2,Jersey,A Merritt,A Mossop,T Araliya,0,1,,1,,,,"",""
+ball,1,18.3,Jersey,A Merritt,A Mossop,T Araliya,0,1,1,,,,,"",""
+ball,1,18.4,Jersey,A Merritt,A Mossop,T Araliya,6,0,,,,,,"",""
+ball,1,18.5,Jersey,A Merritt,A Mossop,T Araliya,0,0,,,,,,"",""
+ball,1,18.6,Jersey,A Merritt,A Mossop,T Araliya,0,0,,,,,,"",""
+ball,1,18.7,Jersey,A Merritt,A Mossop,T Araliya,1,0,,,,,,"",""
+ball,1,18.8,Jersey,A Mossop,A Merritt,T Araliya,0,0,,,,,,"",""
+ball,1,19.1,Jersey,A Merritt,A Mossop,K Peddrick,0,0,,,,,,bowled,A Merritt
+ball,1,19.2,Jersey,N Greig,A Mossop,K Peddrick,0,0,,,,,,caught,N Greig
+ball,1,19.3,Jersey,O Bastin,A Mossop,K Peddrick,0,0,,,,,,"",""
+ball,1,19.4,Jersey,O Bastin,A Mossop,K Peddrick,0,0,,,,,,"",""
+ball,1,19.5,Jersey,O Bastin,A Mossop,K Peddrick,0,1,1,,,,,"",""
+ball,1,19.6,Jersey,O Bastin,A Mossop,K Peddrick,2,0,,,,,,"",""
+ball,1,19.7,Jersey,O Bastin,A Mossop,K Peddrick,1,0,,,,,,"",""
+ball,2,0.1,Italy,M Rathnayake,D Nanayakkara,G Wetherall,0,0,,,,,,"",""
+ball,2,0.2,Italy,M Rathnayake,D Nanayakkara,G Wetherall,1,0,,,,,,"",""
+ball,2,0.3,Italy,D Nanayakkara,M Rathnayake,G Wetherall,0,1,1,,,,,"",""
+ball,2,0.4,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,0.5,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,0.6,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,0.7,Italy,D Nanayakkara,M Rathnayake,G Wetherall,1,0,,,,,,"",""
+ball,2,1.1,Italy,D Nanayakkara,M Rathnayake,A Merritt,0,1,1,,,,,"",""
+ball,2,1.2,Italy,D Nanayakkara,M Rathnayake,A Merritt,0,1,1,,,,,"",""
+ball,2,1.3,Italy,D Nanayakkara,M Rathnayake,A Merritt,0,0,,,,,,"",""
+ball,2,1.4,Italy,D Nanayakkara,M Rathnayake,A Merritt,0,1,1,,,,,"",""
+ball,2,1.5,Italy,D Nanayakkara,M Rathnayake,A Merritt,1,0,,,,,,"",""
+ball,2,1.6,Italy,M Rathnayake,D Nanayakkara,A Merritt,0,2,2,,,,,"",""
+ball,2,1.7,Italy,D Nanayakkara,M Rathnayake,A Merritt,0,3,3,,,,,"",""
+ball,2,1.8,Italy,D Nanayakkara,M Rathnayake,A Merritt,1,0,,,,,,"",""
+ball,2,1.9,Italy,M Rathnayake,D Nanayakkara,A Merritt,0,0,,,,,,"",""
+ball,2,1.10,Italy,M Rathnayake,D Nanayakkara,A Merritt,0,1,1,,,,,"",""
+ball,2,1.11,Italy,M Rathnayake,D Nanayakkara,A Merritt,0,0,,,,,,"",""
+ball,2,1.12,Italy,M Rathnayake,D Nanayakkara,A Merritt,0,0,,,,,,"",""
+ball,2,2.1,Italy,D Nanayakkara,M Rathnayake,CM Greechan,1,0,,,,,,"",""
+ball,2,2.2,Italy,M Rathnayake,D Nanayakkara,CM Greechan,0,0,,,,,,"",""
+ball,2,2.3,Italy,M Rathnayake,D Nanayakkara,CM Greechan,0,0,,,,,,"",""
+ball,2,2.4,Italy,M Rathnayake,D Nanayakkara,CM Greechan,0,0,,,,,,"",""
+ball,2,2.5,Italy,M Rathnayake,D Nanayakkara,CM Greechan,0,0,,,,,,"",""
+ball,2,2.6,Italy,M Rathnayake,D Nanayakkara,CM Greechan,0,0,,,,,,"",""
+ball,2,3.1,Italy,D Nanayakkara,M Rathnayake,G Wetherall,0,1,1,,,,,"",""
+ball,2,3.2,Italy,D Nanayakkara,M Rathnayake,G Wetherall,0,0,,,,,,"",""
+ball,2,3.3,Italy,D Nanayakkara,M Rathnayake,G Wetherall,0,0,,,,,,"",""
+ball,2,3.4,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,3.5,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,3.6,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,3.7,Italy,D Nanayakkara,M Rathnayake,G Wetherall,1,0,,,,,,"",""
+ball,2,4.1,Italy,D Nanayakkara,M Rathnayake,CM Greechan,1,0,,,,,,"",""
+ball,2,4.2,Italy,M Rathnayake,D Nanayakkara,CM Greechan,1,0,,,,,,"",""
+ball,2,4.3,Italy,D Nanayakkara,M Rathnayake,CM Greechan,1,0,,,,,,"",""
+ball,2,4.4,Italy,M Rathnayake,D Nanayakkara,CM Greechan,1,0,,,,,,"",""
+ball,2,4.5,Italy,D Nanayakkara,M Rathnayake,CM Greechan,1,0,,,,,,"",""
+ball,2,4.6,Italy,M Rathnayake,D Nanayakkara,CM Greechan,4,0,,,,,,"",""
+ball,2,5.1,Italy,D Nanayakkara,M Rathnayake,F Tanguy,4,0,,,,,,"",""
+ball,2,5.2,Italy,D Nanayakkara,M Rathnayake,F Tanguy,4,0,,,,,,"",""
+ball,2,5.3,Italy,D Nanayakkara,M Rathnayake,F Tanguy,0,0,,,,,,"",""
+ball,2,5.4,Italy,D Nanayakkara,M Rathnayake,F Tanguy,0,0,,,,,,"",""
+ball,2,5.5,Italy,D Nanayakkara,M Rathnayake,F Tanguy,1,0,,,,,,"",""
+ball,2,5.6,Italy,M Rathnayake,D Nanayakkara,F Tanguy,0,0,,,,,,"",""
+ball,2,6.1,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,6.2,Italy,D Nanayakkara,M Rathnayake,G Wetherall,0,0,,,,,,"",""
+ball,2,6.3,Italy,D Nanayakkara,M Rathnayake,G Wetherall,4,0,,,,,,"",""
+ball,2,6.4,Italy,D Nanayakkara,M Rathnayake,G Wetherall,0,0,,,,,,"",""
+ball,2,6.5,Italy,D Nanayakkara,M Rathnayake,G Wetherall,1,0,,,,,,"",""
+ball,2,6.6,Italy,M Rathnayake,D Nanayakkara,G Wetherall,0,0,,,,,,"",""
+ball,2,7.1,Italy,D Nanayakkara,M Rathnayake,F Tanguy,1,0,,,,,,"",""
+ball,2,7.2,Italy,M Rathnayake,D Nanayakkara,F Tanguy,1,0,,,,,,"",""
+ball,2,7.3,Italy,D Nanayakkara,M Rathnayake,F Tanguy,0,0,,,,,,"",""
+ball,2,7.4,Italy,D Nanayakkara,M Rathnayake,F Tanguy,1,0,,,,,,"",""
+ball,2,7.5,Italy,M Rathnayake,D Nanayakkara,F Tanguy,1,0,,,,,,"",""
+ball,2,7.6,Italy,D Nanayakkara,M Rathnayake,F Tanguy,1,0,,,,,,"",""
+ball,2,8.1,Italy,D Nanayakkara,M Rathnayake,CM Greechan,1,0,,,,,,"",""
+ball,2,8.2,Italy,M Rathnayake,D Nanayakkara,CM Greechan,1,0,,,,,,"",""
+ball,2,8.3,Italy,D Nanayakkara,M Rathnayake,CM Greechan,0,0,,,,,,"",""
+ball,2,8.4,Italy,D Nanayakkara,M Rathnayake,CM Greechan,0,0,,,,,,"",""
+ball,2,8.5,Italy,D Nanayakkara,M Rathnayake,CM Greechan,4,0,,,,,,"",""
+ball,2,8.6,Italy,D Nanayakkara,M Rathnayake,CM Greechan,0,0,,,,,,"",""
+ball,2,9.1,Italy,M Rathnayake,D Nanayakkara,F Tanguy,0,0,,,,,,"",""
+ball,2,9.2,Italy,M Rathnayake,D Nanayakkara,F Tanguy,0,1,1,,,,,"",""
+ball,2,9.3,Italy,M Rathnayake,D Nanayakkara,F Tanguy,0,0,,,,,,caught,M Rathnayake
+ball,2,9.4,Italy,Ilenia Sims,D Nanayakkara,F Tanguy,4,0,,,,,,"",""
+ball,2,9.5,Italy,Ilenia Sims,D Nanayakkara,F Tanguy,2,0,,,,,,"",""
+ball,2,9.6,Italy,Ilenia Sims,D Nanayakkara,F Tanguy,2,0,,,,,,"",""
+ball,2,9.7,Italy,Ilenia Sims,D Nanayakkara,F Tanguy,0,0,,,,,,"",""
+ball,2,10.1,Italy,D Nanayakkara,Ilenia Sims,A Merritt,4,0,,,,,,"",""
+ball,2,10.2,Italy,D Nanayakkara,Ilenia Sims,A Merritt,1,0,,,,,,"",""
+ball,2,10.3,Italy,Ilenia Sims,D Nanayakkara,A Merritt,1,0,,,,,,"",""
+ball,2,10.4,Italy,D Nanayakkara,Ilenia Sims,A Merritt,0,1,,,,1,,"",""
+ball,2,10.5,Italy,Ilenia Sims,D Nanayakkara,A Merritt,0,0,,,,,,"",""
+ball,2,10.6,Italy,Ilenia Sims,D Nanayakkara,A Merritt,4,0,,,,,,"",""
+ball,2,11.1,Italy,D Nanayakkara,Ilenia Sims,O Bastin,0,0,,,,,,"",""
+ball,2,11.2,Italy,D Nanayakkara,Ilenia Sims,O Bastin,0,1,1,,,,,"",""
+ball,2,11.3,Italy,D Nanayakkara,Ilenia Sims,O Bastin,1,0,,,,,,"",""
+ball,2,11.4,Italy,Ilenia Sims,D Nanayakkara,O Bastin,0,0,,,,,,"",""
+ball,2,11.5,Italy,Ilenia Sims,D Nanayakkara,O Bastin,1,0,,,,,,"",""
+ball,2,11.6,Italy,D Nanayakkara,Ilenia Sims,O Bastin,2,0,,,,,,"",""
+ball,2,11.7,Italy,D Nanayakkara,Ilenia Sims,O Bastin,1,0,,,,,,"",""
+ball,2,12.1,Italy,D Nanayakkara,Ilenia Sims,CM Greechan,0,0,,,,,,"",""
+ball,2,12.2,Italy,D Nanayakkara,Ilenia Sims,CM Greechan,1,0,,,,,,"",""
+ball,2,12.3,Italy,Ilenia Sims,D Nanayakkara,CM Greechan,1,0,,,,,,"",""
+ball,2,12.4,Italy,D Nanayakkara,Ilenia Sims,CM Greechan,4,0,,,,,,"",""
+ball,2,12.5,Italy,D Nanayakkara,Ilenia Sims,CM Greechan,1,0,,,,,,"",""
+ball,2,12.6,Italy,Ilenia Sims,D Nanayakkara,CM Greechan,1,0,,,,,,"",""
+ball,2,13.1,Italy,Ilenia Sims,D Nanayakkara,O Bastin,0,0,,,,,,"",""
+ball,2,13.2,Italy,Ilenia Sims,D Nanayakkara,O Bastin,2,0,,,,,,"",""
+ball,2,13.3,Italy,Ilenia Sims,D Nanayakkara,O Bastin,0,0,,,,,,"",""
+ball,2,13.4,Italy,Ilenia Sims,D Nanayakkara,O Bastin,1,0,,,,,,"",""
+ball,2,13.5,Italy,D Nanayakkara,Ilenia Sims,O Bastin,1,0,,,,,,"",""
+ball,2,13.6,Italy,Ilenia Sims,D Nanayakkara,O Bastin,2,0,,,,,,"",""
+ball,2,14.1,Italy,D Nanayakkara,Ilenia Sims,A Merritt,4,0,,,,,,"",""
+ball,2,14.2,Italy,D Nanayakkara,Ilenia Sims,A Merritt,4,0,,,,,,"",""
+ball,2,14.3,Italy,D Nanayakkara,Ilenia Sims,A Merritt,2,0,,,,,,"",""
+ball,2,14.4,Italy,D Nanayakkara,Ilenia Sims,A Merritt,1,0,,,,,,"",""
+ball,2,14.5,Italy,Ilenia Sims,D Nanayakkara,A Merritt,1,0,,,,,,"",""
+ball,2,14.6,Italy,D Nanayakkara,Ilenia Sims,A Merritt,1,0,,,,,,"",""
+ball,2,15.1,Italy,D Nanayakkara,Ilenia Sims,F Tanguy,0,0,,,,,,stumped,D Nanayakkara
+ball,2,15.2,Italy,C Piparo,Ilenia Sims,F Tanguy,1,0,,,,,,"",""
+ball,2,15.3,Italy,Ilenia Sims,C Piparo,F Tanguy,0,0,,,,,,"",""
+ball,2,15.4,Italy,Ilenia Sims,C Piparo,F Tanguy,0,0,,,,,,"",""
+ball,2,15.5,Italy,Ilenia Sims,C Piparo,F Tanguy,1,0,,,,,,"",""
+ball,2,15.6,Italy,C Piparo,Ilenia Sims,F Tanguy,1,0,,,,,,"",""
+ball,2,16.1,Italy,C Piparo,Ilenia Sims,A Merritt,2,0,,,,,,"",""
+ball,2,16.2,Italy,C Piparo,Ilenia Sims,A Merritt,2,0,,,,,,"",""
+ball,2,16.3,Italy,C Piparo,Ilenia Sims,A Merritt,1,0,,,,,,"",""
+ball,2,16.4,Italy,Ilenia Sims,C Piparo,A Merritt,0,0,,,,,,"",""
+ball,2,16.5,Italy,Ilenia Sims,C Piparo,A Merritt,1,0,,,,,,"",""
+ball,2,16.6,Italy,C Piparo,Ilenia Sims,A Merritt,2,0,,,,,,"",""
+ball,2,17.1,Italy,Ilenia Sims,C Piparo,O Bastin,4,0,,,,,,"",""
+ball,2,17.2,Italy,Ilenia Sims,C Piparo,O Bastin,1,0,,,,,,"",""
+ball,2,17.3,Italy,C Piparo,Ilenia Sims,O Bastin,2,0,,,,,,"",""
+ball,2,17.4,Italy,C Piparo,Ilenia Sims,O Bastin,2,0,,,,,,"",""
+ball,2,17.5,Italy,C Piparo,Ilenia Sims,O Bastin,1,0,,,,,,"",""
+ball,2,17.6,Italy,Ilenia Sims,C Piparo,O Bastin,1,0,,,,,,"",""
+ball,2,18.1,Italy,Ilenia Sims,C Piparo,G Wetherall,2,0,,,,,,"",""
+ball,2,18.2,Italy,Ilenia Sims,C Piparo,G Wetherall,0,0,,,,,,"",""
+ball,2,18.3,Italy,Ilenia Sims,C Piparo,G Wetherall,0,0,,,,,,caught,Ilenia Sims
+ball,2,18.4,Italy,AS Wikman,C Piparo,G Wetherall,2,0,,,,,,"",""
+ball,2,18.5,Italy,AS Wikman,C Piparo,G Wetherall,4,0,,,,,,"",""
+ball,2,18.6,Italy,AS Wikman,C Piparo,G Wetherall,1,0,,,,,,"",""

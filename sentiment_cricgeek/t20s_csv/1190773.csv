@@ -1,0 +1,266 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Malaysia
+info,gender,male
+info,season,2019
+info,date,2019/07/26
+info,event,ICC Men's T20 World Cup Asia Region Final
+info,match_number,7
+info,venue,Indian Association Ground
+info,city,Singapore
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,S Chandramohan
+info,umpire,Tabarak Dar
+info,umpire,BB Pradhan
+info,reserve_umpire,V Kalidas
+info,match_referee,M Nayyar
+info,winner,Singapore
+info,winner_wickets,8
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Anwar Arudin
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Shafiq Sharif
+info,player,Malaysia,Ahmed Faiz Mohammad Noor
+info,player,Malaysia,M Syahadat Ramli
+info,player,Malaysia,Aminuddin Ramly
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Fitri Sham
+info,player,Malaysia,NCK Liyanage
+info,player,Malaysia,Anwar Rahman
+info,player,Singapore,R Rohan
+info,player,Singapore,S Chandramohan
+info,player,Singapore,TH David
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,CR Suryawanshi
+info,player,Singapore,Janak Prakash
+info,player,Singapore,A Krishna
+info,player,Singapore,AE Paraam
+info,player,Singapore,V Baskaran
+info,player,Singapore,Amjad Mahboob
+info,player,Singapore,S Vijayakumar
+info,registry,people,A Krishna,13598ebc
+info,registry,people,AE Paraam,b56f5b6f
+info,registry,people,Ahmed Faiz Mohammad Noor,f6b4f746
+info,registry,people,Aminuddin Ramly,8cae5b48
+info,registry,people,Amjad Mahboob,48f25627
+info,registry,people,Anwar Arudin,6d24561a
+info,registry,people,Anwar Rahman,28adcce9
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,CR Suryawanshi,8a3756a0
+info,registry,people,Fitri Sham,d2ec068c
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Syahadat Ramli,5efa8af3
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,NCK Liyanage,d1b5efdf
+info,registry,people,R Rohan,baf0fc26
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijayakumar,44c69e2b
+info,registry,people,Shafiq Sharif,033ac24e
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,TH David,f1f99156
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Baskaran,dd5a9067
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Virandeep Singh,415d30b6
+ball,1,0.1,Malaysia,Virandeep Singh,Anwar Arudin,V Baskaran,1,0,,,,,,"",""
+ball,1,0.2,Malaysia,Anwar Arudin,Virandeep Singh,V Baskaran,0,0,,,,,,"",""
+ball,1,0.3,Malaysia,Anwar Arudin,Virandeep Singh,V Baskaran,0,0,,,,,,"",""
+ball,1,0.4,Malaysia,Anwar Arudin,Virandeep Singh,V Baskaran,0,0,,,,,,"",""
+ball,1,0.5,Malaysia,Anwar Arudin,Virandeep Singh,V Baskaran,1,0,,,,,,"",""
+ball,1,0.6,Malaysia,Virandeep Singh,Anwar Arudin,V Baskaran,1,0,,,,,,"",""
+ball,1,1.1,Malaysia,Virandeep Singh,Anwar Arudin,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,1.2,Malaysia,Virandeep Singh,Anwar Arudin,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,1.3,Malaysia,Anwar Arudin,Virandeep Singh,Amjad Mahboob,0,1,1,,,,,"",""
+ball,1,1.4,Malaysia,Anwar Arudin,Virandeep Singh,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,1.5,Malaysia,Anwar Arudin,Virandeep Singh,Amjad Mahboob,0,0,,,,,,caught,Anwar Arudin
+ball,1,1.6,Malaysia,Virandeep Singh,Syed Aziz,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,1.7,Malaysia,Virandeep Singh,Syed Aziz,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,2.1,Malaysia,Syed Aziz,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,2.2,Malaysia,Syed Aziz,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,2.3,Malaysia,Syed Aziz,Virandeep Singh,S Vijayakumar,0,0,,,,,,caught,Syed Aziz
+ball,1,2.4,Malaysia,Shafiq Sharif,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,2.5,Malaysia,Shafiq Sharif,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,2.6,Malaysia,Shafiq Sharif,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,3.1,Malaysia,Virandeep Singh,Shafiq Sharif,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,3.2,Malaysia,Shafiq Sharif,Virandeep Singh,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,3.3,Malaysia,Shafiq Sharif,Virandeep Singh,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,3.4,Malaysia,Shafiq Sharif,Virandeep Singh,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,3.5,Malaysia,Virandeep Singh,Shafiq Sharif,Amjad Mahboob,4,0,,,,,,"",""
+ball,1,3.6,Malaysia,Virandeep Singh,Shafiq Sharif,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,4.1,Malaysia,Virandeep Singh,Shafiq Sharif,V Baskaran,1,0,,,,,,"",""
+ball,1,4.2,Malaysia,Shafiq Sharif,Virandeep Singh,V Baskaran,4,0,,,,,,"",""
+ball,1,4.3,Malaysia,Shafiq Sharif,Virandeep Singh,V Baskaran,0,0,,,,,,"",""
+ball,1,4.4,Malaysia,Shafiq Sharif,Virandeep Singh,V Baskaran,1,0,,,,,,"",""
+ball,1,4.5,Malaysia,Virandeep Singh,Shafiq Sharif,V Baskaran,1,0,,,,,,"",""
+ball,1,4.6,Malaysia,Shafiq Sharif,Virandeep Singh,V Baskaran,4,0,,,,,,"",""
+ball,1,5.1,Malaysia,Virandeep Singh,Shafiq Sharif,Janak Prakash,0,2,2,,,,,"",""
+ball,1,5.2,Malaysia,Shafiq Sharif,Virandeep Singh,Janak Prakash,1,0,,,,,,"",""
+ball,1,5.3,Malaysia,Virandeep Singh,Shafiq Sharif,Janak Prakash,0,0,,,,,,"",""
+ball,1,5.4,Malaysia,Virandeep Singh,Shafiq Sharif,Janak Prakash,0,0,,,,,,"",""
+ball,1,5.5,Malaysia,Virandeep Singh,Shafiq Sharif,Janak Prakash,0,0,,,,,,"",""
+ball,1,5.6,Malaysia,Virandeep Singh,Shafiq Sharif,Janak Prakash,1,0,,,,,,"",""
+ball,1,5.7,Malaysia,Shafiq Sharif,Virandeep Singh,Janak Prakash,1,0,,,,,,"",""
+ball,1,6.1,Malaysia,Shafiq Sharif,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,6.2,Malaysia,Shafiq Sharif,Virandeep Singh,S Vijayakumar,0,0,,,,,,caught,Shafiq Sharif
+ball,1,6.3,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,S Vijayakumar,1,0,,,,,,"",""
+ball,1,6.4,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,S Vijayakumar,1,0,,,,,,"",""
+ball,1,6.5,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,6.6,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,S Vijayakumar,0,0,,,,,,"",""
+ball,1,7.1,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,A Krishna,1,0,,,,,,"",""
+ball,1,7.2,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,A Krishna,0,0,,,,,,"",""
+ball,1,7.3,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,A Krishna,1,0,,,,,,"",""
+ball,1,7.4,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,A Krishna,1,0,,,,,,"",""
+ball,1,7.5,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,A Krishna,1,0,,,,,,"",""
+ball,1,7.6,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,A Krishna,0,0,,,,,,"",""
+ball,1,8.1,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,S Vijayakumar,1,0,,,,,,"",""
+ball,1,8.2,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,S Vijayakumar,0,0,,,,,,"",""
+ball,1,8.3,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,S Vijayakumar,0,0,,,,,,"",""
+ball,1,8.4,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,S Vijayakumar,1,0,,,,,,"",""
+ball,1,8.5,Malaysia,Ahmed Faiz Mohammad Noor,Virandeep Singh,S Vijayakumar,1,0,,,,,,"",""
+ball,1,8.6,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,S Vijayakumar,1,0,,,,,,"",""
+ball,1,9.1,Malaysia,Virandeep Singh,Ahmed Faiz Mohammad Noor,A Krishna,0,0,,,,,,caught,Virandeep Singh
+ball,1,9.2,Malaysia,Ahmed Faiz Mohammad Noor,M Syahadat Ramli,A Krishna,0,0,,,,,,"",""
+ball,1,9.3,Malaysia,Ahmed Faiz Mohammad Noor,M Syahadat Ramli,A Krishna,1,0,,,,,,"",""
+ball,1,9.4,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,0,0,,,,,,"",""
+ball,1,9.5,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,6,0,,,,,,"",""
+ball,1,9.6,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,1,0,,,,,,"",""
+ball,1,10.1,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,V Baskaran,0,0,,,,,,"",""
+ball,1,10.2,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,V Baskaran,1,0,,,,,,"",""
+ball,1,10.3,Malaysia,Ahmed Faiz Mohammad Noor,M Syahadat Ramli,V Baskaran,0,0,,,,,,"",""
+ball,1,10.4,Malaysia,Ahmed Faiz Mohammad Noor,M Syahadat Ramli,V Baskaran,1,0,,,,,,"",""
+ball,1,10.5,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,V Baskaran,0,0,,,,,,"",""
+ball,1,10.6,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,V Baskaran,0,1,1,,,,,"",""
+ball,1,10.7,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,V Baskaran,1,0,,,,,,"",""
+ball,1,11.1,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,0,0,,,,,,"",""
+ball,1,11.2,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,6,0,,,,,,"",""
+ball,1,11.3,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,0,0,,,,,,"",""
+ball,1,11.4,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,0,0,,,,,,"",""
+ball,1,11.5,Malaysia,M Syahadat Ramli,Ahmed Faiz Mohammad Noor,A Krishna,1,0,,,,,,"",""
+ball,1,11.6,Malaysia,Ahmed Faiz Mohammad Noor,M Syahadat Ramli,A Krishna,0,0,,,,,,stumped,Ahmed Faiz Mohammad Noor
+ball,1,12.1,Malaysia,M Syahadat Ramli,Aminuddin Ramly,S Vijayakumar,1,0,,,,,,"",""
+ball,1,12.2,Malaysia,Aminuddin Ramly,M Syahadat Ramli,S Vijayakumar,1,0,,,,,,"",""
+ball,1,12.3,Malaysia,M Syahadat Ramli,Aminuddin Ramly,S Vijayakumar,0,0,,,,,,"",""
+ball,1,12.4,Malaysia,M Syahadat Ramli,Aminuddin Ramly,S Vijayakumar,2,0,,,,,,"",""
+ball,1,12.5,Malaysia,M Syahadat Ramli,Aminuddin Ramly,S Vijayakumar,0,0,,,,,,"",""
+ball,1,12.6,Malaysia,M Syahadat Ramli,Aminuddin Ramly,S Vijayakumar,1,0,,,,,,"",""
+ball,1,13.1,Malaysia,M Syahadat Ramli,Aminuddin Ramly,Janak Prakash,1,0,,,,,,"",""
+ball,1,13.2,Malaysia,Aminuddin Ramly,M Syahadat Ramli,Janak Prakash,0,0,,,,,,"",""
+ball,1,13.3,Malaysia,Aminuddin Ramly,M Syahadat Ramli,Janak Prakash,0,0,,,,,,"",""
+ball,1,13.4,Malaysia,Aminuddin Ramly,M Syahadat Ramli,Janak Prakash,1,0,,,,,,"",""
+ball,1,13.5,Malaysia,M Syahadat Ramli,Aminuddin Ramly,Janak Prakash,1,0,,,,,,"",""
+ball,1,13.6,Malaysia,Aminuddin Ramly,M Syahadat Ramli,Janak Prakash,1,0,,,,,,"",""
+ball,1,14.1,Malaysia,Aminuddin Ramly,M Syahadat Ramli,V Baskaran,0,0,,,,,,"",""
+ball,1,14.2,Malaysia,Aminuddin Ramly,M Syahadat Ramli,V Baskaran,1,0,,,,,,"",""
+ball,1,14.3,Malaysia,M Syahadat Ramli,Aminuddin Ramly,V Baskaran,0,0,,,,,,caught,M Syahadat Ramli
+ball,1,14.4,Malaysia,S Muniandy,Aminuddin Ramly,V Baskaran,1,0,,,,,,"",""
+ball,1,14.5,Malaysia,Aminuddin Ramly,S Muniandy,V Baskaran,2,0,,,,,,"",""
+ball,1,14.6,Malaysia,Aminuddin Ramly,S Muniandy,V Baskaran,0,0,,,,,,"",""
+ball,1,15.1,Malaysia,S Muniandy,Aminuddin Ramly,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,15.2,Malaysia,S Muniandy,Aminuddin Ramly,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,15.3,Malaysia,Aminuddin Ramly,S Muniandy,Amjad Mahboob,6,0,,,,,,"",""
+ball,1,15.4,Malaysia,Aminuddin Ramly,S Muniandy,Amjad Mahboob,0,0,,,,,,caught,Aminuddin Ramly
+ball,1,15.5,Malaysia,S Muniandy,Fitri Sham,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,15.6,Malaysia,Fitri Sham,S Muniandy,Amjad Mahboob,0,0,,,,,,"",""
+ball,1,16.1,Malaysia,S Muniandy,Fitri Sham,A Krishna,0,0,,,,,,caught,S Muniandy
+ball,1,16.2,Malaysia,NCK Liyanage,Fitri Sham,A Krishna,1,0,,,,,,"",""
+ball,1,16.3,Malaysia,Fitri Sham,NCK Liyanage,A Krishna,1,0,,,,,,"",""
+ball,1,16.4,Malaysia,NCK Liyanage,Fitri Sham,A Krishna,4,0,,,,,,"",""
+ball,1,16.5,Malaysia,NCK Liyanage,Fitri Sham,A Krishna,1,0,,,,,,"",""
+ball,1,16.6,Malaysia,Fitri Sham,NCK Liyanage,A Krishna,1,0,,,,,,"",""
+ball,1,17.1,Malaysia,Fitri Sham,NCK Liyanage,Janak Prakash,1,0,,,,,,"",""
+ball,1,17.2,Malaysia,NCK Liyanage,Fitri Sham,Janak Prakash,0,0,,,,,,"",""
+ball,1,17.3,Malaysia,NCK Liyanage,Fitri Sham,Janak Prakash,1,0,,,,,,"",""
+ball,1,17.4,Malaysia,Fitri Sham,NCK Liyanage,Janak Prakash,0,0,,,,,,"",""
+ball,1,17.5,Malaysia,Fitri Sham,NCK Liyanage,Janak Prakash,0,0,,,,,,bowled,Fitri Sham
+ball,1,17.6,Malaysia,Anwar Rahman,NCK Liyanage,Janak Prakash,1,0,,,,,,"",""
+ball,1,18.1,Malaysia,Anwar Rahman,NCK Liyanage,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,18.2,Malaysia,NCK Liyanage,Anwar Rahman,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,18.3,Malaysia,Anwar Rahman,NCK Liyanage,Amjad Mahboob,1,0,,,,,,"",""
+ball,1,18.4,Malaysia,NCK Liyanage,Anwar Rahman,Amjad Mahboob,0,0,,,,,,caught,NCK Liyanage
+ball,2,0.1,Singapore,R Rohan,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,0.2,Singapore,R Rohan,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,0.3,Singapore,R Rohan,S Chandramohan,NCK Liyanage,0,0,,,,,,bowled,R Rohan
+ball,2,0.4,Singapore,TH David,S Chandramohan,NCK Liyanage,4,0,,,,,,"",""
+ball,2,0.5,Singapore,TH David,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,0.6,Singapore,TH David,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,1.1,Singapore,S Chandramohan,TH David,Syed Aziz,0,0,,,,,,"",""
+ball,2,1.2,Singapore,S Chandramohan,TH David,Syed Aziz,0,0,,,,,,"",""
+ball,2,1.3,Singapore,S Chandramohan,TH David,Syed Aziz,0,0,,,,,,"",""
+ball,2,1.4,Singapore,S Chandramohan,TH David,Syed Aziz,1,0,,,,,,"",""
+ball,2,1.5,Singapore,TH David,S Chandramohan,Syed Aziz,1,0,,,,,,"",""
+ball,2,1.6,Singapore,S Chandramohan,TH David,Syed Aziz,0,0,,,,,,"",""
+ball,2,2.1,Singapore,TH David,S Chandramohan,NCK Liyanage,4,0,,,,,,"",""
+ball,2,2.2,Singapore,TH David,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,2.3,Singapore,TH David,S Chandramohan,NCK Liyanage,4,1,,1,,,,"",""
+ball,2,2.4,Singapore,TH David,S Chandramohan,NCK Liyanage,1,0,,,,,,"",""
+ball,2,2.5,Singapore,S Chandramohan,TH David,NCK Liyanage,2,0,,,,,,"",""
+ball,2,2.6,Singapore,S Chandramohan,TH David,NCK Liyanage,0,0,,,,,,run out,TH David
+ball,2,2.7,Singapore,S Chandramohan,Manpreet Singh,NCK Liyanage,0,0,,,,,,"",""
+ball,2,3.1,Singapore,Manpreet Singh,S Chandramohan,Fitri Sham,1,0,,,,,,"",""
+ball,2,3.2,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,0,0,,,,,,"",""
+ball,2,3.3,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,4,0,,,,,,"",""
+ball,2,3.4,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,1,0,,,,,,"",""
+ball,2,3.5,Singapore,Manpreet Singh,S Chandramohan,Fitri Sham,1,0,,,,,,"",""
+ball,2,3.6,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,1,0,,,,,,"",""
+ball,2,4.1,Singapore,S Chandramohan,Manpreet Singh,NCK Liyanage,0,2,2,,,,,"",""
+ball,2,4.2,Singapore,Manpreet Singh,S Chandramohan,NCK Liyanage,1,0,,,,,,"",""
+ball,2,4.3,Singapore,S Chandramohan,Manpreet Singh,NCK Liyanage,0,0,,,,,,"",""
+ball,2,4.4,Singapore,S Chandramohan,Manpreet Singh,NCK Liyanage,0,1,,,,1,,"",""
+ball,2,4.5,Singapore,Manpreet Singh,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,4.6,Singapore,Manpreet Singh,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,4.7,Singapore,Manpreet Singh,S Chandramohan,NCK Liyanage,0,0,,,,,,"",""
+ball,2,5.1,Singapore,S Chandramohan,Manpreet Singh,Syed Aziz,1,0,,,,,,"",""
+ball,2,5.2,Singapore,Manpreet Singh,S Chandramohan,Syed Aziz,0,0,,,,,,"",""
+ball,2,5.3,Singapore,Manpreet Singh,S Chandramohan,Syed Aziz,1,0,,,,,,"",""
+ball,2,5.4,Singapore,S Chandramohan,Manpreet Singh,Syed Aziz,0,0,,,,,,"",""
+ball,2,5.5,Singapore,S Chandramohan,Manpreet Singh,Syed Aziz,6,0,,,,,,"",""
+ball,2,5.6,Singapore,S Chandramohan,Manpreet Singh,Syed Aziz,0,0,,,,,,"",""
+ball,2,6.1,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,0,0,,,,,,"",""
+ball,2,6.2,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,0,0,,,,,,"",""
+ball,2,6.3,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,0,0,,,,,,"",""
+ball,2,6.4,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,1,0,,,,,,"",""
+ball,2,6.5,Singapore,S Chandramohan,Manpreet Singh,Anwar Rahman,0,0,,,,,,"",""
+ball,2,6.6,Singapore,S Chandramohan,Manpreet Singh,Anwar Rahman,0,0,,,,,,"",""
+ball,2,7.1,Singapore,Manpreet Singh,S Chandramohan,M Syahadat Ramli,1,0,,,,,,"",""
+ball,2,7.2,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,1,0,,,,,,"",""
+ball,2,7.3,Singapore,Manpreet Singh,S Chandramohan,M Syahadat Ramli,1,0,,,,,,"",""
+ball,2,7.4,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,0,1,,,,1,,"",""
+ball,2,7.5,Singapore,Manpreet Singh,S Chandramohan,M Syahadat Ramli,1,0,,,,,,"",""
+ball,2,7.6,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,0,0,,,,,,"",""
+ball,2,8.1,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,2,0,,,,,,"",""
+ball,2,8.2,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,1,0,,,,,,"",""
+ball,2,8.3,Singapore,S Chandramohan,Manpreet Singh,Anwar Rahman,0,0,,,,,,"",""
+ball,2,8.4,Singapore,S Chandramohan,Manpreet Singh,Anwar Rahman,1,0,,,,,,"",""
+ball,2,8.5,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,0,0,,,,,,"",""
+ball,2,8.6,Singapore,Manpreet Singh,S Chandramohan,Anwar Rahman,0,0,,,,,,"",""
+ball,2,9.1,Singapore,S Chandramohan,Manpreet Singh,Virandeep Singh,1,0,,,,,,"",""
+ball,2,9.2,Singapore,Manpreet Singh,S Chandramohan,Virandeep Singh,1,0,,,,,,"",""
+ball,2,9.3,Singapore,S Chandramohan,Manpreet Singh,Virandeep Singh,0,0,,,,,,"",""
+ball,2,9.4,Singapore,S Chandramohan,Manpreet Singh,Virandeep Singh,1,0,,,,,,"",""
+ball,2,9.5,Singapore,Manpreet Singh,S Chandramohan,Virandeep Singh,2,0,,,,,,"",""
+ball,2,9.6,Singapore,Manpreet Singh,S Chandramohan,Virandeep Singh,4,0,,,,,,"",""
+ball,2,10.1,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,4,0,,,,,,"",""
+ball,2,10.2,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,0,0,,,,,,"",""
+ball,2,10.3,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,6,0,,,,,,"",""
+ball,2,10.4,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,0,0,,,,,,"",""
+ball,2,10.5,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,0,0,,,,,,"",""
+ball,2,10.6,Singapore,S Chandramohan,Manpreet Singh,M Syahadat Ramli,1,0,,,,,,"",""
+ball,2,11.1,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,4,0,,,,,,"",""
+ball,2,11.2,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,1,0,,,,,,"",""
+ball,2,11.3,Singapore,Manpreet Singh,S Chandramohan,Fitri Sham,0,0,,,,,,"",""
+ball,2,11.4,Singapore,Manpreet Singh,S Chandramohan,Fitri Sham,1,0,,,,,,"",""
+ball,2,11.5,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,4,0,,,,,,"",""
+ball,2,11.6,Singapore,S Chandramohan,Manpreet Singh,Fitri Sham,1,0,,,,,,"",""
+ball,2,12.1,Singapore,S Chandramohan,Manpreet Singh,S Muniandy,0,1,1,,,,,"",""
+ball,2,12.2,Singapore,S Chandramohan,Manpreet Singh,S Muniandy,6,0,,,,,,"",""
+ball,2,12.3,Singapore,S Chandramohan,Manpreet Singh,S Muniandy,1,0,,,,,,"",""
+ball,2,12.4,Singapore,Manpreet Singh,S Chandramohan,S Muniandy,1,0,,,,,,"",""
+ball,2,12.5,Singapore,S Chandramohan,Manpreet Singh,S Muniandy,1,0,,,,,,"",""
+ball,2,12.6,Singapore,Manpreet Singh,S Chandramohan,S Muniandy,0,0,,,,,,"",""
+ball,2,12.7,Singapore,Manpreet Singh,S Chandramohan,S Muniandy,2,0,,,,,,"",""
+ball,2,13.1,Singapore,S Chandramohan,Manpreet Singh,Syed Aziz,1,0,,,,,,"",""
+ball,2,13.2,Singapore,Manpreet Singh,S Chandramohan,Syed Aziz,4,0,,,,,,"",""

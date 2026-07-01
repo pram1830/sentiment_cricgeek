@@ -1,0 +1,178 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,China
+info,team,Hong Kong
+info,gender,male
+info,season,2023/24
+info,date,2024/02/16
+info,event,East Asia Cup
+info,match_number,5
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,China
+info,toss_decision,bat
+info,player_of_match,Haroon Arshad
+info,umpire,SJ D'Cruz
+info,umpire,S Vachha
+info,reserve_umpire,H Tukrul
+info,match_referee,Hasnain Kiani
+info,winner,Hong Kong
+info,winner_wickets,10
+info,player,China,Huang Junjie
+info,player,China,Wei Guo Lei
+info,player,China,Zou Kui
+info,player,China,Zhuang Zelin
+info,player,China,Tian Sen Qun
+info,player,China,Zong Yuechao
+info,player,China,Shenjian Zheng
+info,player,China,Chen Zhuo Yue
+info,player,China,Zhao Tianle
+info,player,China,Ma Qiancheng
+info,player,China,Luo Shilin
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Jason Lui
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Haroon Arshad
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,JJ Atkinson
+info,player,Hong Kong,Mohammad Ghazanfar
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,H Tukrul,a2880cb1
+info,registry,people,Haroon Arshad,be0f9ce9
+info,registry,people,Hasnain Kiani,9cce25b7
+info,registry,people,Huang Junjie,7a25958c
+info,registry,people,JJ Atkinson,bf2d865c
+info,registry,people,Jason Lui,9206e859
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,Mohammad Ghazanfar,00321fff
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,S Vachha,4d156994
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,Shenjian Zheng,a127e6f5
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Zeeshan Ali,987187b9
+info,registry,people,Zhao Tianle,023c40b8
+info,registry,people,Zhuang Zelin,a03ee6e1
+info,registry,people,Zong Yuechao,f5932ad2
+info,registry,people,Zou Kui,d5ca4759
+ball,1,0.1,China,Huang Junjie,Wei Guo Lei,Haroon Arshad,0,0,,,,,,"",""
+ball,1,0.2,China,Huang Junjie,Wei Guo Lei,Haroon Arshad,0,0,,,,,,"",""
+ball,1,0.3,China,Huang Junjie,Wei Guo Lei,Haroon Arshad,0,1,,,,1,,"",""
+ball,1,0.4,China,Wei Guo Lei,Huang Junjie,Haroon Arshad,0,0,,,,,,bowled,Wei Guo Lei
+ball,1,0.5,China,Zou Kui,Huang Junjie,Haroon Arshad,0,0,,,,,,bowled,Zou Kui
+ball,1,0.6,China,Zhuang Zelin,Huang Junjie,Haroon Arshad,1,0,,,,,,"",""
+ball,1,1.1,China,Zhuang Zelin,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,1.2,China,Zhuang Zelin,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,1.3,China,Zhuang Zelin,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,1.4,China,Zhuang Zelin,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,1.5,China,Zhuang Zelin,Huang Junjie,Ateeq Iqbal,1,0,,,,,,"",""
+ball,1,1.6,China,Huang Junjie,Zhuang Zelin,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,2.1,China,Zhuang Zelin,Huang Junjie,Haroon Arshad,0,0,,,,,,lbw,Zhuang Zelin
+ball,1,2.2,China,Tian Sen Qun,Huang Junjie,Haroon Arshad,0,0,,,,,,"",""
+ball,1,2.3,China,Tian Sen Qun,Huang Junjie,Haroon Arshad,1,0,,,,,,"",""
+ball,1,2.4,China,Huang Junjie,Tian Sen Qun,Haroon Arshad,0,0,,,,,,"",""
+ball,1,2.5,China,Huang Junjie,Tian Sen Qun,Haroon Arshad,0,1,,,,1,,"",""
+ball,1,2.6,China,Tian Sen Qun,Huang Junjie,Haroon Arshad,1,0,,,,,,"",""
+ball,1,3.1,China,Tian Sen Qun,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,3.2,China,Tian Sen Qun,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,3.3,China,Tian Sen Qun,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,3.4,China,Tian Sen Qun,Huang Junjie,Ateeq Iqbal,2,0,,,,,,"",""
+ball,1,3.5,China,Tian Sen Qun,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,3.6,China,Tian Sen Qun,Huang Junjie,Ateeq Iqbal,0,0,,,,,,"",""
+ball,1,4.1,China,Huang Junjie,Tian Sen Qun,Haroon Arshad,0,0,,,,,,"",""
+ball,1,4.2,China,Huang Junjie,Tian Sen Qun,Haroon Arshad,0,0,,,,,,"",""
+ball,1,4.3,China,Huang Junjie,Tian Sen Qun,Haroon Arshad,0,0,,,,,,bowled,Huang Junjie
+ball,1,4.4,China,Zong Yuechao,Tian Sen Qun,Haroon Arshad,0,0,,,,,,"",""
+ball,1,4.5,China,Zong Yuechao,Tian Sen Qun,Haroon Arshad,0,0,,,,,,"",""
+ball,1,4.6,China,Zong Yuechao,Tian Sen Qun,Haroon Arshad,4,0,,,,,,"",""
+ball,1,5.1,China,Tian Sen Qun,Zong Yuechao,Ehsan Khan,0,0,,,,,,"",""
+ball,1,5.2,China,Tian Sen Qun,Zong Yuechao,Ehsan Khan,1,0,,,,,,"",""
+ball,1,5.3,China,Zong Yuechao,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,5.4,China,Zong Yuechao,Tian Sen Qun,Ehsan Khan,0,0,,,,,,caught,Zong Yuechao
+ball,1,5.5,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,5.6,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,6.1,China,Tian Sen Qun,Shenjian Zheng,Haroon Arshad,0,0,,,,,,"",""
+ball,1,6.2,China,Tian Sen Qun,Shenjian Zheng,Haroon Arshad,0,0,,,,,,"",""
+ball,1,6.3,China,Tian Sen Qun,Shenjian Zheng,Haroon Arshad,0,0,,,,,,"",""
+ball,1,6.4,China,Tian Sen Qun,Shenjian Zheng,Haroon Arshad,0,0,,,,,,"",""
+ball,1,6.5,China,Tian Sen Qun,Shenjian Zheng,Haroon Arshad,0,2,,,,2,,"",""
+ball,1,6.6,China,Tian Sen Qun,Shenjian Zheng,Haroon Arshad,0,0,,,,,,"",""
+ball,1,7.1,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,7.2,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,4,0,,,,,,"",""
+ball,1,7.3,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,7.4,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,7.5,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,7.6,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,4,0,,,,,,"",""
+ball,1,8.1,China,Tian Sen Qun,Shenjian Zheng,Anas Khan,0,0,,,,,,"",""
+ball,1,8.2,China,Tian Sen Qun,Shenjian Zheng,Anas Khan,1,0,,,,,,"",""
+ball,1,8.3,China,Shenjian Zheng,Tian Sen Qun,Anas Khan,6,0,,,,,,"",""
+ball,1,8.4,China,Shenjian Zheng,Tian Sen Qun,Anas Khan,6,0,,,,,,"",""
+ball,1,8.5,China,Shenjian Zheng,Tian Sen Qun,Anas Khan,1,0,,,,,,"",""
+ball,1,8.6,China,Tian Sen Qun,Shenjian Zheng,Anas Khan,0,0,,,,,,"",""
+ball,1,9.1,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,9.2,China,Shenjian Zheng,Tian Sen Qun,Ehsan Khan,0,0,,,,,,bowled,Shenjian Zheng
+ball,1,9.3,China,Chen Zhuo Yue,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,9.4,China,Chen Zhuo Yue,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,9.5,China,Chen Zhuo Yue,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,9.6,China,Chen Zhuo Yue,Tian Sen Qun,Ehsan Khan,0,0,,,,,,"",""
+ball,1,10.1,China,Tian Sen Qun,Chen Zhuo Yue,Anas Khan,0,0,,,,,,"",""
+ball,1,10.2,China,Tian Sen Qun,Chen Zhuo Yue,Anas Khan,0,0,,,,,,"",""
+ball,1,10.3,China,Tian Sen Qun,Chen Zhuo Yue,Anas Khan,0,0,,,,,,bowled,Tian Sen Qun
+ball,1,10.4,China,Zhao Tianle,Chen Zhuo Yue,Anas Khan,0,0,,,,,,lbw,Zhao Tianle
+ball,1,10.5,China,Ma Qiancheng,Chen Zhuo Yue,Anas Khan,0,0,,,,,,"",""
+ball,1,10.6,China,Ma Qiancheng,Chen Zhuo Yue,Anas Khan,1,0,,,,,,"",""
+ball,1,11.1,China,Ma Qiancheng,Chen Zhuo Yue,Ehsan Khan,0,0,,,,,,"",""
+ball,1,11.2,China,Ma Qiancheng,Chen Zhuo Yue,Ehsan Khan,0,0,,,,,,bowled,Ma Qiancheng
+ball,1,11.3,China,Luo Shilin,Chen Zhuo Yue,Ehsan Khan,0,0,,,,,,"",""
+ball,1,11.4,China,Luo Shilin,Chen Zhuo Yue,Ehsan Khan,0,0,,,,,,"",""
+ball,1,11.5,China,Luo Shilin,Chen Zhuo Yue,Ehsan Khan,0,0,,,,,,"",""
+ball,1,11.6,China,Luo Shilin,Chen Zhuo Yue,Ehsan Khan,0,0,,,,,,"",""
+ball,1,12.1,China,Chen Zhuo Yue,Luo Shilin,Anas Khan,1,0,,,,,,"",""
+ball,1,12.2,China,Luo Shilin,Chen Zhuo Yue,Anas Khan,1,0,,,,,,"",""
+ball,1,12.3,China,Chen Zhuo Yue,Luo Shilin,Anas Khan,1,0,,,,,,"",""
+ball,1,12.4,China,Luo Shilin,Chen Zhuo Yue,Anas Khan,0,0,,,,,,lbw,Luo Shilin
+ball,2,0.1,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,0,1,1,,,,,"",""
+ball,2,0.2,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,0,0,,,,,,"",""
+ball,2,0.3,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,0,0,,,,,,"",""
+ball,2,0.4,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,1,0,,,,,,"",""
+ball,2,0.5,Hong Kong,Jason Lui,Aizaz Khan,Tian Sen Qun,0,0,,,,,,"",""
+ball,2,0.6,Hong Kong,Jason Lui,Aizaz Khan,Tian Sen Qun,0,0,,,,,,"",""
+ball,2,0.7,Hong Kong,Jason Lui,Aizaz Khan,Tian Sen Qun,0,0,,,,,,"",""
+ball,2,1.1,Hong Kong,Aizaz Khan,Jason Lui,Ma Qiancheng,0,0,,,,,,"",""
+ball,2,1.2,Hong Kong,Aizaz Khan,Jason Lui,Ma Qiancheng,0,2,2,,,,,"",""
+ball,2,1.3,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,0,0,,,,,,"",""
+ball,2,1.4,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,0,1,1,,,,,"",""
+ball,2,1.5,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,2,0,,,,,,"",""
+ball,2,1.6,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,0,0,,,,,,"",""
+ball,2,1.7,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,4,0,,,,,,"",""
+ball,2,1.8,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,0,0,,,,,,"",""
+ball,2,2.1,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,4,0,,,,,,"",""
+ball,2,2.2,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,0,0,,,,,,"",""
+ball,2,2.3,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,4,0,,,,,,"",""
+ball,2,2.4,Hong Kong,Aizaz Khan,Jason Lui,Tian Sen Qun,1,0,,,,,,"",""
+ball,2,2.5,Hong Kong,Jason Lui,Aizaz Khan,Tian Sen Qun,0,4,,,,4,,"",""
+ball,2,2.6,Hong Kong,Jason Lui,Aizaz Khan,Tian Sen Qun,0,0,,,,,,"",""
+ball,2,3.1,Hong Kong,Aizaz Khan,Jason Lui,Ma Qiancheng,0,0,,,,,,"",""
+ball,2,3.2,Hong Kong,Aizaz Khan,Jason Lui,Ma Qiancheng,4,0,,,,,,"",""
+ball,2,3.3,Hong Kong,Aizaz Khan,Jason Lui,Ma Qiancheng,1,0,,,,,,"",""
+ball,2,3.4,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,0,0,,,,,,"",""
+ball,2,3.5,Hong Kong,Jason Lui,Aizaz Khan,Ma Qiancheng,1,0,,,,,,"",""
+ball,2,3.6,Hong Kong,Aizaz Khan,Jason Lui,Ma Qiancheng,1,0,,,,,,"",""
+ball,2,4.1,Hong Kong,Aizaz Khan,Jason Lui,Chen Zhuo Yue,1,0,,,,,,"",""
+ball,2,4.2,Hong Kong,Jason Lui,Aizaz Khan,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,2,4.3,Hong Kong,Jason Lui,Aizaz Khan,Chen Zhuo Yue,0,1,1,,,,,"",""
+ball,2,4.4,Hong Kong,Jason Lui,Aizaz Khan,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,2,4.5,Hong Kong,Jason Lui,Aizaz Khan,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,2,4.6,Hong Kong,Jason Lui,Aizaz Khan,Chen Zhuo Yue,1,0,,,,,,"",""
+ball,2,4.7,Hong Kong,Aizaz Khan,Jason Lui,Chen Zhuo Yue,4,0,,,,,,"",""

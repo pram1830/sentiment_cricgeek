@@ -1,0 +1,264 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Papua New Guinea
+info,gender,male
+info,season,2023/24
+info,date,2024/03/12
+info,event,Hong Kong Men's T20I Series
+info,match_number,3
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,S Bau
+info,umpire,John Prakash
+info,umpire,SJ D'Cruz
+info,reserve_umpire,H Tukrul
+info,match_referee,G Sankaranarayanan
+info,winner,Papua New Guinea
+info,winner_wickets,10
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,CA Soper
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,HGV Vare
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,A Vala,72e60730
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,CA Soper,9920dd86
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,H Tukrul,a2880cb1
+info,registry,people,HGV Vare,98299b67
+info,registry,people,J Kariko,cde067e1
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,K Doriga,365229a8
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,S Bau,9a95bebb
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9
+ball,1,0.1,Hong Kong,M Coetzee,Nizakat Khan,KV Morea,0,0,,,,,,"",""
+ball,1,0.2,Hong Kong,M Coetzee,Nizakat Khan,KV Morea,1,0,,,,,,"",""
+ball,1,0.3,Hong Kong,Nizakat Khan,M Coetzee,KV Morea,0,1,,1,,,,"",""
+ball,1,0.4,Hong Kong,Nizakat Khan,M Coetzee,KV Morea,1,0,,,,,,"",""
+ball,1,0.5,Hong Kong,M Coetzee,Nizakat Khan,KV Morea,0,0,,,,,,"",""
+ball,1,0.6,Hong Kong,M Coetzee,Nizakat Khan,KV Morea,1,0,,,,,,"",""
+ball,1,0.7,Hong Kong,Nizakat Khan,M Coetzee,KV Morea,0,0,,,,,,"",""
+ball,1,1.1,Hong Kong,M Coetzee,Nizakat Khan,A Nao,0,0,,,,,,"",""
+ball,1,1.2,Hong Kong,M Coetzee,Nizakat Khan,A Nao,0,1,1,,,,,"",""
+ball,1,1.3,Hong Kong,M Coetzee,Nizakat Khan,A Nao,0,0,,,,,,"",""
+ball,1,1.4,Hong Kong,M Coetzee,Nizakat Khan,A Nao,1,0,,,,,,"",""
+ball,1,1.5,Hong Kong,Nizakat Khan,M Coetzee,A Nao,0,0,,,,,,"",""
+ball,1,1.6,Hong Kong,Nizakat Khan,M Coetzee,A Nao,1,0,,,,,,"",""
+ball,1,1.7,Hong Kong,M Coetzee,Nizakat Khan,A Nao,0,0,,,,,,caught,M Coetzee
+ball,1,2.1,Hong Kong,Nizakat Khan,Anshuman Rath,KV Morea,0,0,,,,,,bowled,Nizakat Khan
+ball,1,2.2,Hong Kong,Babar Hayat,Anshuman Rath,KV Morea,1,0,,,,,,"",""
+ball,1,2.3,Hong Kong,Anshuman Rath,Babar Hayat,KV Morea,1,0,,,,,,"",""
+ball,1,2.4,Hong Kong,Babar Hayat,Anshuman Rath,KV Morea,6,0,,,,,,"",""
+ball,1,2.5,Hong Kong,Babar Hayat,Anshuman Rath,KV Morea,1,0,,,,,,"",""
+ball,1,2.6,Hong Kong,Anshuman Rath,Babar Hayat,KV Morea,0,0,,,,,,bowled,Anshuman Rath
+ball,1,3.1,Hong Kong,Babar Hayat,Aizaz Khan,A Nao,0,0,,,,,,"",""
+ball,1,3.2,Hong Kong,Babar Hayat,Aizaz Khan,A Nao,0,0,,,,,,"",""
+ball,1,3.3,Hong Kong,Babar Hayat,Aizaz Khan,A Nao,1,0,,,,,,"",""
+ball,1,3.4,Hong Kong,Aizaz Khan,Babar Hayat,A Nao,0,0,,,,,,"",""
+ball,1,3.5,Hong Kong,Aizaz Khan,Babar Hayat,A Nao,0,0,,,,,,"",""
+ball,1,3.6,Hong Kong,Aizaz Khan,Babar Hayat,A Nao,0,0,,,,,,caught,Aizaz Khan
+ball,1,4.1,Hong Kong,Babar Hayat,Yasim Murtaza,KV Morea,0,0,,,,,,"",""
+ball,1,4.2,Hong Kong,Babar Hayat,Yasim Murtaza,KV Morea,0,1,1,,,,,"",""
+ball,1,4.3,Hong Kong,Babar Hayat,Yasim Murtaza,KV Morea,0,0,,,,,,"",""
+ball,1,4.4,Hong Kong,Babar Hayat,Yasim Murtaza,KV Morea,0,0,,,,,,"",""
+ball,1,4.5,Hong Kong,Babar Hayat,Yasim Murtaza,KV Morea,1,0,,,,,,"",""
+ball,1,4.6,Hong Kong,Yasim Murtaza,Babar Hayat,KV Morea,0,0,,,,,,"",""
+ball,1,4.7,Hong Kong,Yasim Murtaza,Babar Hayat,KV Morea,1,0,,,,,,"",""
+ball,1,5.1,Hong Kong,Yasim Murtaza,Babar Hayat,A Nao,0,1,1,,,,,"",""
+ball,1,5.2,Hong Kong,Yasim Murtaza,Babar Hayat,A Nao,4,0,,,,,,"",""
+ball,1,5.3,Hong Kong,Yasim Murtaza,Babar Hayat,A Nao,0,0,,,,,,"",""
+ball,1,5.4,Hong Kong,Yasim Murtaza,Babar Hayat,A Nao,1,0,,,,,,"",""
+ball,1,5.5,Hong Kong,Babar Hayat,Yasim Murtaza,A Nao,0,0,,,,,,"",""
+ball,1,5.6,Hong Kong,Babar Hayat,Yasim Murtaza,A Nao,0,0,,,,,,"",""
+ball,1,5.7,Hong Kong,Babar Hayat,Yasim Murtaza,A Nao,0,0,,,,,,"",""
+ball,1,6.1,Hong Kong,Yasim Murtaza,Babar Hayat,CA Soper,1,0,,,,,,"",""
+ball,1,6.2,Hong Kong,Babar Hayat,Yasim Murtaza,CA Soper,1,0,,,,,,"",""
+ball,1,6.3,Hong Kong,Yasim Murtaza,Babar Hayat,CA Soper,0,0,,,,,,"",""
+ball,1,6.4,Hong Kong,Yasim Murtaza,Babar Hayat,CA Soper,1,0,,,,,,"",""
+ball,1,6.5,Hong Kong,Babar Hayat,Yasim Murtaza,CA Soper,1,0,,,,,,"",""
+ball,1,6.6,Hong Kong,Yasim Murtaza,Babar Hayat,CA Soper,0,0,,,,,,run out,Babar Hayat
+ball,1,7.1,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,7.2,Hong Kong,Yasim Murtaza,Zeeshan Ali,A Vala,0,0,,,,,,bowled,Yasim Murtaza
+ball,1,7.3,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,7.4,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,7.5,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,7.6,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,8.1,Hong Kong,Zeeshan Ali,Nasrulla Rana,CA Soper,0,0,,,,,,"",""
+ball,1,8.2,Hong Kong,Zeeshan Ali,Nasrulla Rana,CA Soper,0,0,,,,,,"",""
+ball,1,8.3,Hong Kong,Zeeshan Ali,Nasrulla Rana,CA Soper,1,0,,,,,,"",""
+ball,1,8.4,Hong Kong,Nasrulla Rana,Zeeshan Ali,CA Soper,0,0,,,,,,"",""
+ball,1,8.5,Hong Kong,Nasrulla Rana,Zeeshan Ali,CA Soper,1,0,,,,,,"",""
+ball,1,8.6,Hong Kong,Zeeshan Ali,Nasrulla Rana,CA Soper,1,0,,,,,,"",""
+ball,1,9.1,Hong Kong,Zeeshan Ali,Nasrulla Rana,A Vala,0,0,,,,,,"",""
+ball,1,9.2,Hong Kong,Zeeshan Ali,Nasrulla Rana,A Vala,1,0,,,,,,"",""
+ball,1,9.3,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,9.4,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,9.5,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,9.6,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,1,,,,1,,"",""
+ball,1,10.1,Hong Kong,Nasrulla Rana,Zeeshan Ali,J Kariko,4,0,,,,,,"",""
+ball,1,10.2,Hong Kong,Nasrulla Rana,Zeeshan Ali,J Kariko,6,0,,,,,,"",""
+ball,1,10.3,Hong Kong,Nasrulla Rana,Zeeshan Ali,J Kariko,4,0,,,,,,"",""
+ball,1,10.4,Hong Kong,Nasrulla Rana,Zeeshan Ali,J Kariko,0,0,,,,,,"",""
+ball,1,10.5,Hong Kong,Nasrulla Rana,Zeeshan Ali,J Kariko,0,0,,,,,,"",""
+ball,1,10.6,Hong Kong,Nasrulla Rana,Zeeshan Ali,J Kariko,1,0,,,,,,"",""
+ball,1,11.1,Hong Kong,Nasrulla Rana,Zeeshan Ali,A Vala,0,1,1,,,,,stumped,Nasrulla Rana
+ball,1,11.2,Hong Kong,Ehsan Khan,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,11.3,Hong Kong,Ehsan Khan,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,11.4,Hong Kong,Ehsan Khan,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,11.5,Hong Kong,Ehsan Khan,Zeeshan Ali,A Vala,0,0,,,,,,"",""
+ball,1,11.6,Hong Kong,Ehsan Khan,Zeeshan Ali,A Vala,1,0,,,,,,"",""
+ball,1,11.7,Hong Kong,Zeeshan Ali,Ehsan Khan,A Vala,4,0,,,,,,"",""
+ball,1,12.1,Hong Kong,Ehsan Khan,Zeeshan Ali,CA Soper,1,0,,,,,,"",""
+ball,1,12.2,Hong Kong,Zeeshan Ali,Ehsan Khan,CA Soper,6,0,,,,,,"",""
+ball,1,12.3,Hong Kong,Zeeshan Ali,Ehsan Khan,CA Soper,1,0,,,,,,"",""
+ball,1,12.4,Hong Kong,Ehsan Khan,Zeeshan Ali,CA Soper,1,0,,,,,,"",""
+ball,1,12.5,Hong Kong,Zeeshan Ali,Ehsan Khan,CA Soper,1,0,,,,,,"",""
+ball,1,12.6,Hong Kong,Ehsan Khan,Zeeshan Ali,CA Soper,2,0,,,,,,"",""
+ball,1,13.1,Hong Kong,Zeeshan Ali,Ehsan Khan,A Vala,0,0,,,,,,"",""
+ball,1,13.2,Hong Kong,Zeeshan Ali,Ehsan Khan,A Vala,2,0,,,,,,"",""
+ball,1,13.3,Hong Kong,Zeeshan Ali,Ehsan Khan,A Vala,1,0,,,,,,"",""
+ball,1,13.4,Hong Kong,Ehsan Khan,Zeeshan Ali,A Vala,1,0,,,,,,"",""
+ball,1,13.5,Hong Kong,Zeeshan Ali,Ehsan Khan,A Vala,1,0,,,,,,"",""
+ball,1,13.6,Hong Kong,Ehsan Khan,Zeeshan Ali,A Vala,1,0,,,,,,"",""
+ball,1,14.1,Hong Kong,Ehsan Khan,Zeeshan Ali,CA Soper,1,0,,,,,,"",""
+ball,1,14.2,Hong Kong,Zeeshan Ali,Ehsan Khan,CA Soper,6,0,,,,,,"",""
+ball,1,14.3,Hong Kong,Zeeshan Ali,Ehsan Khan,CA Soper,1,0,,,,,,"",""
+ball,1,14.4,Hong Kong,Ehsan Khan,Zeeshan Ali,CA Soper,1,0,,,,,,"",""
+ball,1,14.5,Hong Kong,Zeeshan Ali,Ehsan Khan,CA Soper,0,0,,,,,,"",""
+ball,1,14.6,Hong Kong,Zeeshan Ali,Ehsan Khan,CA Soper,1,0,,,,,,"",""
+ball,1,15.1,Hong Kong,Zeeshan Ali,Ehsan Khan,S Bau,1,0,,,,,,"",""
+ball,1,15.2,Hong Kong,Ehsan Khan,Zeeshan Ali,S Bau,0,0,,,,,,"",""
+ball,1,15.3,Hong Kong,Ehsan Khan,Zeeshan Ali,S Bau,6,0,,,,,,"",""
+ball,1,15.4,Hong Kong,Ehsan Khan,Zeeshan Ali,S Bau,1,0,,,,,,"",""
+ball,1,15.5,Hong Kong,Zeeshan Ali,Ehsan Khan,S Bau,1,0,,,,,,"",""
+ball,1,15.6,Hong Kong,Ehsan Khan,Zeeshan Ali,S Bau,0,0,,,,,,bowled,Ehsan Khan
+ball,1,16.1,Hong Kong,Zeeshan Ali,A Shukla,KV Morea,0,0,,,,,,"",""
+ball,1,16.2,Hong Kong,Zeeshan Ali,A Shukla,KV Morea,6,0,,,,,,"",""
+ball,1,16.3,Hong Kong,Zeeshan Ali,A Shukla,KV Morea,6,0,,,,,,"",""
+ball,1,16.4,Hong Kong,Zeeshan Ali,A Shukla,KV Morea,6,0,,,,,,"",""
+ball,1,16.5,Hong Kong,Zeeshan Ali,A Shukla,KV Morea,1,0,,,,,,"",""
+ball,1,16.6,Hong Kong,A Shukla,Zeeshan Ali,KV Morea,0,2,,,2,,,"",""
+ball,1,17.1,Hong Kong,Zeeshan Ali,A Shukla,S Bau,1,0,,,,,,"",""
+ball,1,17.2,Hong Kong,A Shukla,Zeeshan Ali,S Bau,0,0,,,,,,"",""
+ball,1,17.3,Hong Kong,A Shukla,Zeeshan Ali,S Bau,0,0,,,,,,"",""
+ball,1,17.4,Hong Kong,A Shukla,Zeeshan Ali,S Bau,0,0,,,,,,"",""
+ball,1,17.5,Hong Kong,A Shukla,Zeeshan Ali,S Bau,0,0,,,,,,"",""
+ball,1,17.6,Hong Kong,A Shukla,Zeeshan Ali,S Bau,0,0,,,,,,caught,A Shukla
+ball,1,18.1,Hong Kong,Zeeshan Ali,Ateeq Iqbal,A Nao,6,0,,,,,,"",""
+ball,1,18.2,Hong Kong,Zeeshan Ali,Ateeq Iqbal,A Nao,0,0,,,,,,"",""
+ball,1,18.3,Hong Kong,Zeeshan Ali,Ateeq Iqbal,A Nao,0,0,,,,,,run out,Ateeq Iqbal
+ball,2,0.1,Papua New Guinea,TP Ura,S Bau,A Shukla,0,0,,,,,,"",""
+ball,2,0.2,Papua New Guinea,TP Ura,S Bau,A Shukla,4,0,,,,,,"",""
+ball,2,0.3,Papua New Guinea,TP Ura,S Bau,A Shukla,0,0,,,,,,"",""
+ball,2,0.4,Papua New Guinea,TP Ura,S Bau,A Shukla,1,0,,,,,,"",""
+ball,2,0.5,Papua New Guinea,S Bau,TP Ura,A Shukla,0,0,,,,,,"",""
+ball,2,0.6,Papua New Guinea,S Bau,TP Ura,A Shukla,2,0,,,,,,"",""
+ball,2,1.1,Papua New Guinea,TP Ura,S Bau,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,1.2,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,0,0,,,,,,"",""
+ball,2,1.3,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,0,1,1,,,,,"",""
+ball,2,1.4,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,0,1,,,,1,,"",""
+ball,2,1.5,Papua New Guinea,TP Ura,S Bau,Ateeq Iqbal,4,0,,,,,,"",""
+ball,2,1.6,Papua New Guinea,TP Ura,S Bau,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,1.7,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,2.1,Papua New Guinea,S Bau,TP Ura,A Shukla,0,0,,,,,,"",""
+ball,2,2.2,Papua New Guinea,S Bau,TP Ura,A Shukla,1,0,,,,,,"",""
+ball,2,2.3,Papua New Guinea,TP Ura,S Bau,A Shukla,6,0,,,,,,"",""
+ball,2,2.4,Papua New Guinea,TP Ura,S Bau,A Shukla,0,0,,,,,,"",""
+ball,2,2.5,Papua New Guinea,TP Ura,S Bau,A Shukla,1,0,,,,,,"",""
+ball,2,2.6,Papua New Guinea,S Bau,TP Ura,A Shukla,1,0,,,,,,"",""
+ball,2,3.1,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,1,0,,,,,,"",""
+ball,2,3.2,Papua New Guinea,TP Ura,S Bau,Ehsan Khan,1,0,,,,,,"",""
+ball,2,3.3,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,6,0,,,,,,"",""
+ball,2,3.4,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,0,0,,,,,,"",""
+ball,2,3.5,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,1,0,,,,,,"",""
+ball,2,3.6,Papua New Guinea,TP Ura,S Bau,Ehsan Khan,1,0,,,,,,"",""
+ball,2,4.1,Papua New Guinea,TP Ura,S Bau,Ateeq Iqbal,0,1,,,,1,,"",""
+ball,2,4.2,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,4,0,,,,,,"",""
+ball,2,4.3,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,0,5,5,,,,,"",""
+ball,2,4.4,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,0,0,,,,,,"",""
+ball,2,4.5,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,4,0,,,,,,"",""
+ball,2,4.6,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,2,0,,,,,,"",""
+ball,2,4.7,Papua New Guinea,S Bau,TP Ura,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,5.1,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,2,0,,,,,,"",""
+ball,2,5.2,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,0,0,,,,,,"",""
+ball,2,5.3,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,0,0,,,,,,"",""
+ball,2,5.4,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,4,0,,,,,,"",""
+ball,2,5.5,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,2,0,,,,,,"",""
+ball,2,5.6,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,4,0,,,,,,"",""
+ball,2,6.1,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,2,0,,,,,,"",""
+ball,2,6.2,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,4,0,,,,,,"",""
+ball,2,6.3,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,6.4,Papua New Guinea,S Bau,TP Ura,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,6.5,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,0,0,,,,,,"",""
+ball,2,6.6,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,0,2,2,,,,,"",""
+ball,2,6.7,Papua New Guinea,S Bau,TP Ura,Nasrulla Rana,4,0,,,,,,"",""
+ball,2,7.1,Papua New Guinea,TP Ura,S Bau,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.2,Papua New Guinea,S Bau,TP Ura,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.3,Papua New Guinea,TP Ura,S Bau,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,7.4,Papua New Guinea,TP Ura,S Bau,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.5,Papua New Guinea,S Bau,TP Ura,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.6,Papua New Guinea,TP Ura,S Bau,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,8.1,Papua New Guinea,S Bau,TP Ura,Aizaz Khan,0,0,,,,,,"",""
+ball,2,8.2,Papua New Guinea,S Bau,TP Ura,Aizaz Khan,1,0,,,,,,"",""
+ball,2,8.3,Papua New Guinea,TP Ura,S Bau,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,8.4,Papua New Guinea,TP Ura,S Bau,Aizaz Khan,1,0,,,,,,"",""
+ball,2,8.5,Papua New Guinea,S Bau,TP Ura,Aizaz Khan,1,0,,,,,,"",""
+ball,2,8.6,Papua New Guinea,TP Ura,S Bau,Aizaz Khan,1,0,,,,,,"",""
+ball,2,8.7,Papua New Guinea,S Bau,TP Ura,Aizaz Khan,0,0,,,,,,"",""
+ball,2,9.1,Papua New Guinea,TP Ura,S Bau,Yasim Murtaza,0,1,,,,1,,"",""
+ball,2,9.2,Papua New Guinea,S Bau,TP Ura,Yasim Murtaza,4,0,,,,,,"",""
+ball,2,9.3,Papua New Guinea,S Bau,TP Ura,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,9.4,Papua New Guinea,S Bau,TP Ura,Yasim Murtaza,6,0,,,,,,"",""
+ball,2,9.5,Papua New Guinea,S Bau,TP Ura,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,9.6,Papua New Guinea,TP Ura,S Bau,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,10.1,Papua New Guinea,TP Ura,S Bau,Aizaz Khan,1,0,,,,,,"",""
+ball,2,10.2,Papua New Guinea,S Bau,TP Ura,Aizaz Khan,0,0,,,,,,"",""
+ball,2,10.3,Papua New Guinea,S Bau,TP Ura,Aizaz Khan,1,0,,,,,,"",""
+ball,2,10.4,Papua New Guinea,TP Ura,S Bau,Aizaz Khan,6,0,,,,,,"",""
+ball,2,10.5,Papua New Guinea,TP Ura,S Bau,Aizaz Khan,1,0,,,,,,"",""
+ball,2,10.6,Papua New Guinea,S Bau,TP Ura,Aizaz Khan,1,0,,,,,,"",""
+ball,2,11.1,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,1,0,,,,,,"",""
+ball,2,11.2,Papua New Guinea,TP Ura,S Bau,Ehsan Khan,1,0,,,,,,"",""
+ball,2,11.3,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,0,0,,,,,,"",""
+ball,2,11.4,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,1,0,,,,,,"",""
+ball,2,11.5,Papua New Guinea,TP Ura,S Bau,Ehsan Khan,1,0,,,,,,"",""
+ball,2,11.6,Papua New Guinea,S Bau,TP Ura,Ehsan Khan,0,0,,,,,,"",""
+ball,2,12.1,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,12.2,Papua New Guinea,S Bau,TP Ura,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,12.3,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,4,0,,,,,,"",""
+ball,2,12.4,Papua New Guinea,TP Ura,S Bau,Nasrulla Rana,4,0,,,,,,"",""

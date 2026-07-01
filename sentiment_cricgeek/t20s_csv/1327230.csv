@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,male
+info,season,2022
+info,date,2022/09/23
+info,event,England tour of Pakistan
+info,match_number,3
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,HC Brook
+info,umpire,Aleem Dar
+info,umpire,Faisal Afridi
+info,reserve_umpire,Asif Yaqoob
+info,tv_umpire,Rashid Riaz
+info,match_referee,Muhammad Javed
+info,winner,England
+info,winner_runs,63
+info,player,England,PD Salt
+info,player,England,WG Jacks
+info,player,England,DJ Malan
+info,player,England,BM Duckett
+info,player,England,HC Brook
+info,player,England,MM Ali
+info,player,England,SM Curran
+info,player,England,LA Dawson
+info,player,England,AU Rashid
+info,player,England,MA Wood
+info,player,England,RJW Topley
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Haider Ali
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Khushdil Shah
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Usman Qadir
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Mohammad Hasnain
+info,player,Pakistan,Shahnawaz Dhani
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Shahnawaz Dhani,7ccbb09f
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Usman Qadir,33742f04
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,England,PD Salt,WG Jacks,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,0.2,England,WG Jacks,PD Salt,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,0.3,England,PD Salt,WG Jacks,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,0.4,England,WG Jacks,PD Salt,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,0.5,England,WG Jacks,PD Salt,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,0.6,England,WG Jacks,PD Salt,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,1.1,England,PD Salt,WG Jacks,Mohammad Nawaz,4,0,,,,,,"",""
+ball,1,1.2,England,PD Salt,WG Jacks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,1.3,England,WG Jacks,PD Salt,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,1.4,England,PD Salt,WG Jacks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,1.5,England,WG Jacks,PD Salt,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,1.6,England,WG Jacks,PD Salt,Mohammad Nawaz,4,0,,,,,,"",""
+ball,1,2.1,England,PD Salt,WG Jacks,Mohammad Hasnain,0,0,,,,,,caught,PD Salt
+ball,1,2.2,England,WG Jacks,DJ Malan,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,2.3,England,DJ Malan,WG Jacks,Mohammad Hasnain,0,1,1,,,,,"",""
+ball,1,2.4,England,DJ Malan,WG Jacks,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,2.5,England,DJ Malan,WG Jacks,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,2.6,England,WG Jacks,DJ Malan,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,2.7,England,WG Jacks,DJ Malan,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,3.1,England,DJ Malan,WG Jacks,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,3.2,England,DJ Malan,WG Jacks,Shahnawaz Dhani,0,0,,,,,,"",""
+ball,1,3.3,England,DJ Malan,WG Jacks,Shahnawaz Dhani,0,0,,,,,,"",""
+ball,1,3.4,England,DJ Malan,WG Jacks,Shahnawaz Dhani,3,0,,,,,,"",""
+ball,1,3.5,England,WG Jacks,DJ Malan,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,3.6,England,WG Jacks,DJ Malan,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,4.1,England,DJ Malan,WG Jacks,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.2,England,DJ Malan,WG Jacks,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.3,England,DJ Malan,WG Jacks,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.4,England,DJ Malan,WG Jacks,Haris Rauf,0,1,,,,1,,"",""
+ball,1,4.5,England,WG Jacks,DJ Malan,Haris Rauf,4,0,,,,,,"",""
+ball,1,4.6,England,WG Jacks,DJ Malan,Haris Rauf,4,0,,,,,,"",""
+ball,1,5.1,England,DJ Malan,WG Jacks,Shahnawaz Dhani,0,0,,,,,,"",""
+ball,1,5.2,England,DJ Malan,WG Jacks,Shahnawaz Dhani,1,0,,,,,,"",""
+ball,1,5.3,England,WG Jacks,DJ Malan,Shahnawaz Dhani,1,0,,,,,,"",""
+ball,1,5.4,England,DJ Malan,WG Jacks,Shahnawaz Dhani,0,1,1,,,,,"",""
+ball,1,5.5,England,DJ Malan,WG Jacks,Shahnawaz Dhani,1,0,,,,,,"",""
+ball,1,5.6,England,WG Jacks,DJ Malan,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,5.7,England,WG Jacks,DJ Malan,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,6.1,England,DJ Malan,WG Jacks,Usman Qadir,4,0,,,,,,"",""
+ball,1,6.2,England,DJ Malan,WG Jacks,Usman Qadir,0,0,,,,,,caught,DJ Malan
+ball,1,6.3,England,BM Duckett,WG Jacks,Usman Qadir,4,0,,,,,,"",""
+ball,1,6.4,England,BM Duckett,WG Jacks,Usman Qadir,1,0,,,,,,"",""
+ball,1,6.5,England,WG Jacks,BM Duckett,Usman Qadir,1,0,,,,,,"",""
+ball,1,6.6,England,BM Duckett,WG Jacks,Usman Qadir,4,0,,,,,,"",""
+ball,1,7.1,England,WG Jacks,BM Duckett,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,7.2,England,BM Duckett,WG Jacks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,7.3,England,WG Jacks,BM Duckett,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,7.4,England,BM Duckett,WG Jacks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,7.5,England,WG Jacks,BM Duckett,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,7.6,England,BM Duckett,WG Jacks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,8.1,England,BM Duckett,WG Jacks,Usman Qadir,4,0,,,,,,"",""
+ball,1,8.2,England,BM Duckett,WG Jacks,Usman Qadir,1,0,,,,,,"",""
+ball,1,8.3,England,WG Jacks,BM Duckett,Usman Qadir,0,0,,,,,,caught,WG Jacks
+ball,1,8.4,England,HC Brook,BM Duckett,Usman Qadir,1,0,,,,,,"",""
+ball,1,8.5,England,BM Duckett,HC Brook,Usman Qadir,0,0,,,,,,"",""
+ball,1,8.6,England,BM Duckett,HC Brook,Usman Qadir,1,0,,,,,,"",""
+ball,1,9.1,England,BM Duckett,HC Brook,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,9.2,England,BM Duckett,HC Brook,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,9.3,England,HC Brook,BM Duckett,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,9.4,England,HC Brook,BM Duckett,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,9.5,England,BM Duckett,HC Brook,Mohammad Nawaz,2,0,,,,,,"",""
+ball,1,9.6,England,BM Duckett,HC Brook,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,10.1,England,BM Duckett,HC Brook,Usman Qadir,1,0,,,,,,"",""
+ball,1,10.2,England,HC Brook,BM Duckett,Usman Qadir,0,0,,,,,,"",""
+ball,1,10.3,England,HC Brook,BM Duckett,Usman Qadir,6,0,,,,,,"",""
+ball,1,10.4,England,HC Brook,BM Duckett,Usman Qadir,1,0,,,,,,"",""
+ball,1,10.5,England,BM Duckett,HC Brook,Usman Qadir,1,0,,,,,,"",""
+ball,1,10.6,England,HC Brook,BM Duckett,Usman Qadir,6,0,,,,,,"",""
+ball,1,11.1,England,BM Duckett,HC Brook,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,11.2,England,HC Brook,BM Duckett,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,11.3,England,BM Duckett,HC Brook,Mohammad Nawaz,4,0,,,,,,"",""
+ball,1,11.4,England,BM Duckett,HC Brook,Mohammad Nawaz,4,0,,,,,,"",""
+ball,1,11.5,England,BM Duckett,HC Brook,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,11.6,England,HC Brook,BM Duckett,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,12.1,England,HC Brook,BM Duckett,Usman Qadir,1,0,,,,,,"",""
+ball,1,12.2,England,BM Duckett,HC Brook,Usman Qadir,4,0,,,,,,"",""
+ball,1,12.3,England,BM Duckett,HC Brook,Usman Qadir,1,0,,,,,,"",""
+ball,1,12.4,England,HC Brook,BM Duckett,Usman Qadir,1,0,,,,,,"",""
+ball,1,12.5,England,BM Duckett,HC Brook,Usman Qadir,1,0,,,,,,"",""
+ball,1,12.6,England,HC Brook,BM Duckett,Usman Qadir,4,0,,,,,,"",""
+ball,1,13.1,England,BM Duckett,HC Brook,Haris Rauf,1,0,,,,,,"",""
+ball,1,13.2,England,HC Brook,BM Duckett,Haris Rauf,6,0,,,,,,"",""
+ball,1,13.3,England,HC Brook,BM Duckett,Haris Rauf,1,0,,,,,,"",""
+ball,1,13.4,England,BM Duckett,HC Brook,Haris Rauf,1,0,,,,,,"",""
+ball,1,13.5,England,HC Brook,BM Duckett,Haris Rauf,1,0,,,,,,"",""
+ball,1,13.6,England,BM Duckett,HC Brook,Haris Rauf,1,0,,,,,,"",""
+ball,1,14.1,England,BM Duckett,HC Brook,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,14.2,England,BM Duckett,HC Brook,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,14.3,England,HC Brook,BM Duckett,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,14.4,England,BM Duckett,HC Brook,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,14.5,England,HC Brook,BM Duckett,Mohammad Hasnain,0,1,1,,,,,"",""
+ball,1,14.6,England,HC Brook,BM Duckett,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,14.7,England,HC Brook,BM Duckett,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,15.1,England,HC Brook,BM Duckett,Shahnawaz Dhani,2,0,,,,,,"",""
+ball,1,15.2,England,HC Brook,BM Duckett,Shahnawaz Dhani,0,0,,,,,,"",""
+ball,1,15.3,England,HC Brook,BM Duckett,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,15.4,England,HC Brook,BM Duckett,Shahnawaz Dhani,0,0,,,,,,"",""
+ball,1,15.5,England,HC Brook,BM Duckett,Shahnawaz Dhani,6,0,,,,,,"",""
+ball,1,15.6,England,HC Brook,BM Duckett,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,16.1,England,BM Duckett,HC Brook,Haris Rauf,0,0,,,,,,"",""
+ball,1,16.2,England,BM Duckett,HC Brook,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.3,England,HC Brook,BM Duckett,Haris Rauf,0,2,2,,,,,"",""
+ball,1,16.4,England,BM Duckett,HC Brook,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.5,England,HC Brook,BM Duckett,Haris Rauf,0,0,,,,,,"",""
+ball,1,16.6,England,HC Brook,BM Duckett,Haris Rauf,4,0,,,,,,"",""
+ball,1,16.7,England,HC Brook,BM Duckett,Haris Rauf,2,0,,,,,,"",""
+ball,1,17.1,England,BM Duckett,HC Brook,Mohammad Hasnain,6,0,,,,,,"",""
+ball,1,17.2,England,BM Duckett,HC Brook,Mohammad Hasnain,2,0,,,,,,"",""
+ball,1,17.3,England,BM Duckett,HC Brook,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,17.4,England,HC Brook,BM Duckett,Mohammad Hasnain,0,1,,,,1,,"",""
+ball,1,17.5,England,BM Duckett,HC Brook,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,17.6,England,BM Duckett,HC Brook,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,18.1,England,HC Brook,BM Duckett,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,18.2,England,HC Brook,BM Duckett,Shahnawaz Dhani,0,1,1,,,,,"",""
+ball,1,18.3,England,HC Brook,BM Duckett,Shahnawaz Dhani,2,0,,,,,,"",""
+ball,1,18.4,England,HC Brook,BM Duckett,Shahnawaz Dhani,6,0,,,,,,"",""
+ball,1,18.5,England,HC Brook,BM Duckett,Shahnawaz Dhani,4,0,,,,,,"",""
+ball,1,18.6,England,HC Brook,BM Duckett,Shahnawaz Dhani,1,0,,,,,,"",""
+ball,1,18.7,England,BM Duckett,HC Brook,Shahnawaz Dhani,1,0,,,,,,"",""
+ball,1,19.1,England,BM Duckett,HC Brook,Haris Rauf,0,0,,,,,,"",""
+ball,1,19.2,England,BM Duckett,HC Brook,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.3,England,HC Brook,BM Duckett,Haris Rauf,4,0,,,,,,"",""
+ball,1,19.4,England,HC Brook,BM Duckett,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.5,England,BM Duckett,HC Brook,Haris Rauf,2,0,,,,,,"",""
+ball,1,19.6,England,BM Duckett,HC Brook,Haris Rauf,2,0,,,,,,"",""
+ball,2,0.1,Pakistan,Mohammad Rizwan,Babar Azam,LA Dawson,0,0,,,,,,"",""
+ball,2,0.2,Pakistan,Mohammad Rizwan,Babar Azam,LA Dawson,1,0,,,,,,"",""
+ball,2,0.3,Pakistan,Babar Azam,Mohammad Rizwan,LA Dawson,1,0,,,,,,"",""
+ball,2,0.4,Pakistan,Mohammad Rizwan,Babar Azam,LA Dawson,4,0,,,,,,"",""
+ball,2,0.5,Pakistan,Mohammad Rizwan,Babar Azam,LA Dawson,0,0,,,,,,"",""
+ball,2,0.6,Pakistan,Mohammad Rizwan,Babar Azam,LA Dawson,1,0,,,,,,"",""
+ball,2,1.1,Pakistan,Mohammad Rizwan,Babar Azam,RJW Topley,0,0,,,,,,"",""
+ball,2,1.2,Pakistan,Mohammad Rizwan,Babar Azam,RJW Topley,0,0,,,,,,"",""
+ball,2,1.3,Pakistan,Mohammad Rizwan,Babar Azam,RJW Topley,1,0,,,,,,"",""
+ball,2,1.4,Pakistan,Babar Azam,Mohammad Rizwan,RJW Topley,2,0,,,,,,"",""
+ball,2,1.5,Pakistan,Babar Azam,Mohammad Rizwan,RJW Topley,1,0,,,,,,"",""
+ball,2,1.6,Pakistan,Mohammad Rizwan,Babar Azam,RJW Topley,0,1,,,,1,,"",""
+ball,2,2.1,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,0,1,,,,1,,"",""
+ball,2,2.2,Pakistan,Babar Azam,Mohammad Rizwan,MA Wood,4,0,,,,,,"",""
+ball,2,2.3,Pakistan,Babar Azam,Mohammad Rizwan,MA Wood,0,0,,,,,,"",""
+ball,2,2.4,Pakistan,Babar Azam,Mohammad Rizwan,MA Wood,0,0,,,,,,caught,Babar Azam
+ball,2,2.5,Pakistan,Haider Ali,Mohammad Rizwan,MA Wood,0,0,,,,,,"",""
+ball,2,2.6,Pakistan,Haider Ali,Mohammad Rizwan,MA Wood,1,0,,,,,,"",""
+ball,2,3.1,Pakistan,Haider Ali,Mohammad Rizwan,RJW Topley,1,0,,,,,,"",""
+ball,2,3.2,Pakistan,Mohammad Rizwan,Haider Ali,RJW Topley,1,0,,,,,,"",""
+ball,2,3.3,Pakistan,Haider Ali,Mohammad Rizwan,RJW Topley,1,0,,,,,,"",""
+ball,2,3.4,Pakistan,Mohammad Rizwan,Haider Ali,RJW Topley,0,0,,,,,,"",""
+ball,2,3.5,Pakistan,Mohammad Rizwan,Haider Ali,RJW Topley,0,0,,,,,,"",""
+ball,2,3.6,Pakistan,Mohammad Rizwan,Haider Ali,RJW Topley,0,0,,,,,,bowled,Mohammad Rizwan
+ball,2,4.1,Pakistan,Haider Ali,Shan Masood,MA Wood,0,0,,,,,,caught,Haider Ali
+ball,2,4.2,Pakistan,Iftikhar Ahmed,Shan Masood,MA Wood,0,0,,,,,,"",""
+ball,2,4.3,Pakistan,Iftikhar Ahmed,Shan Masood,MA Wood,0,0,,,,,,"",""
+ball,2,4.4,Pakistan,Iftikhar Ahmed,Shan Masood,MA Wood,1,0,,,,,,"",""
+ball,2,4.5,Pakistan,Shan Masood,Iftikhar Ahmed,MA Wood,1,0,,,,,,"",""
+ball,2,4.6,Pakistan,Iftikhar Ahmed,Shan Masood,MA Wood,1,0,,,,,,"",""
+ball,2,5.1,Pakistan,Iftikhar Ahmed,Shan Masood,SM Curran,0,0,,,,,,"",""
+ball,2,5.2,Pakistan,Iftikhar Ahmed,Shan Masood,SM Curran,4,0,,,,,,"",""
+ball,2,5.3,Pakistan,Iftikhar Ahmed,Shan Masood,SM Curran,0,0,,,,,,caught,Iftikhar Ahmed
+ball,2,5.4,Pakistan,Khushdil Shah,Shan Masood,SM Curran,0,0,,,,,,"",""
+ball,2,5.5,Pakistan,Khushdil Shah,Shan Masood,SM Curran,0,0,,,,,,"",""
+ball,2,5.6,Pakistan,Khushdil Shah,Shan Masood,SM Curran,1,0,,,,,,"",""
+ball,2,6.1,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,0,0,,,,,,"",""
+ball,2,6.2,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,1,0,,,,,,"",""
+ball,2,6.3,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,0,0,,,,,,"",""
+ball,2,6.4,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,0,0,,,,,,"",""
+ball,2,6.5,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,1,0,,,,,,"",""
+ball,2,6.6,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,4,0,,,,,,"",""
+ball,2,7.1,Pakistan,Shan Masood,Khushdil Shah,MM Ali,1,0,,,,,,"",""
+ball,2,7.2,Pakistan,Khushdil Shah,Shan Masood,MM Ali,0,0,,,,,,"",""
+ball,2,7.3,Pakistan,Khushdil Shah,Shan Masood,MM Ali,1,0,,,,,,"",""
+ball,2,7.4,Pakistan,Shan Masood,Khushdil Shah,MM Ali,1,0,,,,,,"",""
+ball,2,7.5,Pakistan,Khushdil Shah,Shan Masood,MM Ali,6,0,,,,,,"",""
+ball,2,7.6,Pakistan,Khushdil Shah,Shan Masood,MM Ali,2,0,,,,,,"",""
+ball,2,8.1,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,2,0,,,,,,"",""
+ball,2,8.2,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,4,0,,,,,,"",""
+ball,2,8.3,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,6,0,,,,,,"",""
+ball,2,8.4,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,1,0,,,,,,"",""
+ball,2,8.5,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,0,0,,,,,,"",""
+ball,2,8.6,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,1,0,,,,,,"",""
+ball,2,9.1,Pakistan,Khushdil Shah,Shan Masood,SM Curran,1,0,,,,,,"",""
+ball,2,9.2,Pakistan,Shan Masood,Khushdil Shah,SM Curran,2,0,,,,,,"",""
+ball,2,9.3,Pakistan,Shan Masood,Khushdil Shah,SM Curran,1,0,,,,,,"",""
+ball,2,9.4,Pakistan,Khushdil Shah,Shan Masood,SM Curran,6,0,,,,,,"",""
+ball,2,9.5,Pakistan,Khushdil Shah,Shan Masood,SM Curran,1,0,,,,,,"",""
+ball,2,9.6,Pakistan,Shan Masood,Khushdil Shah,SM Curran,4,0,,,,,,"",""
+ball,2,10.1,Pakistan,Khushdil Shah,Shan Masood,MM Ali,1,0,,,,,,"",""
+ball,2,10.2,Pakistan,Shan Masood,Khushdil Shah,MM Ali,1,0,,,,,,"",""
+ball,2,10.3,Pakistan,Khushdil Shah,Shan Masood,MM Ali,1,0,,,,,,"",""
+ball,2,10.4,Pakistan,Shan Masood,Khushdil Shah,MM Ali,0,1,,,,1,,"",""
+ball,2,10.5,Pakistan,Khushdil Shah,Shan Masood,MM Ali,1,0,,,,,,"",""
+ball,2,10.6,Pakistan,Shan Masood,Khushdil Shah,MM Ali,6,0,,,,,,"",""
+ball,2,11.1,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,1,0,,,,,,"",""
+ball,2,11.2,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,1,0,,,,,,"",""
+ball,2,11.3,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,1,0,,,,,,"",""
+ball,2,11.4,Pakistan,Shan Masood,Khushdil Shah,AU Rashid,0,1,,,,1,,"",""
+ball,2,11.5,Pakistan,Khushdil Shah,Shan Masood,AU Rashid,0,0,,,,,,caught,Khushdil Shah
+ball,2,11.6,Pakistan,Shan Masood,Mohammad Nawaz,AU Rashid,1,0,,,,,,"",""
+ball,2,12.1,Pakistan,Shan Masood,Mohammad Nawaz,MM Ali,4,0,,,,,,"",""
+ball,2,12.2,Pakistan,Shan Masood,Mohammad Nawaz,MM Ali,1,0,,,,,,"",""
+ball,2,12.3,Pakistan,Mohammad Nawaz,Shan Masood,MM Ali,0,0,,,,,,"",""
+ball,2,12.4,Pakistan,Mohammad Nawaz,Shan Masood,MM Ali,1,0,,,,,,"",""
+ball,2,12.5,Pakistan,Shan Masood,Mohammad Nawaz,MM Ali,1,1,,1,,,,"",""
+ball,2,12.6,Pakistan,Mohammad Nawaz,Shan Masood,MM Ali,0,0,,,,,,"",""
+ball,2,12.7,Pakistan,Mohammad Nawaz,Shan Masood,MM Ali,1,0,,,,,,"",""
+ball,2,13.1,Pakistan,Mohammad Nawaz,Shan Masood,SM Curran,0,0,,,,,,"",""
+ball,2,13.2,Pakistan,Mohammad Nawaz,Shan Masood,SM Curran,1,0,,,,,,"",""
+ball,2,13.3,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,1,0,,,,,,"",""
+ball,2,13.4,Pakistan,Mohammad Nawaz,Shan Masood,SM Curran,1,0,,,,,,"",""
+ball,2,13.5,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,1,0,,,,,,"",""
+ball,2,13.6,Pakistan,Mohammad Nawaz,Shan Masood,SM Curran,1,0,,,,,,"",""
+ball,2,14.1,Pakistan,Mohammad Nawaz,Shan Masood,MA Wood,0,0,,,,,,"",""
+ball,2,14.2,Pakistan,Mohammad Nawaz,Shan Masood,MA Wood,2,0,,,,,,"",""
+ball,2,14.3,Pakistan,Mohammad Nawaz,Shan Masood,MA Wood,4,0,,,,,,"",""
+ball,2,14.4,Pakistan,Mohammad Nawaz,Shan Masood,MA Wood,0,0,,,,,,"",""
+ball,2,14.5,Pakistan,Mohammad Nawaz,Shan Masood,MA Wood,0,0,,,,,,"",""
+ball,2,14.6,Pakistan,Mohammad Nawaz,Shan Masood,MA Wood,4,0,,,,,,"",""
+ball,2,15.1,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,0,1,1,,,,,"",""
+ball,2,15.2,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,0,0,,,,,,"",""
+ball,2,15.3,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,2,0,,,,,,"",""
+ball,2,15.4,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,0,1,1,,,,,"",""
+ball,2,15.5,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,1,0,,,,,,"",""
+ball,2,15.6,Pakistan,Mohammad Nawaz,Shan Masood,SM Curran,1,0,,,,,,"",""
+ball,2,15.7,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,6,0,,,,,,"",""
+ball,2,15.8,Pakistan,Shan Masood,Mohammad Nawaz,SM Curran,0,0,,,,,,"",""
+ball,2,16.1,Pakistan,Mohammad Nawaz,Shan Masood,RJW Topley,1,0,,,,,,"",""
+ball,2,16.2,Pakistan,Shan Masood,Mohammad Nawaz,RJW Topley,2,0,,,,,,"",""
+ball,2,16.3,Pakistan,Shan Masood,Mohammad Nawaz,RJW Topley,1,0,,,,,,"",""
+ball,2,16.4,Pakistan,Mohammad Nawaz,Shan Masood,RJW Topley,0,0,,,,,,"",""
+ball,2,16.5,Pakistan,Mohammad Nawaz,Shan Masood,RJW Topley,1,0,,,,,,"",""
+ball,2,16.6,Pakistan,Shan Masood,Mohammad Nawaz,RJW Topley,1,0,,,,,,"",""
+ball,2,17.1,Pakistan,Shan Masood,Mohammad Nawaz,AU Rashid,1,0,,,,,,"",""
+ball,2,17.2,Pakistan,Mohammad Nawaz,Shan Masood,AU Rashid,1,0,,,,,,"",""
+ball,2,17.3,Pakistan,Shan Masood,Mohammad Nawaz,AU Rashid,6,0,,,,,,"",""
+ball,2,17.4,Pakistan,Shan Masood,Mohammad Nawaz,AU Rashid,0,1,,,,1,,"",""
+ball,2,17.5,Pakistan,Mohammad Nawaz,Shan Masood,AU Rashid,0,0,,,,,,"",""
+ball,2,17.6,Pakistan,Mohammad Nawaz,Shan Masood,AU Rashid,0,0,,,,,,caught,Mohammad Nawaz
+ball,2,18.1,Pakistan,Shan Masood,Usman Qadir,MA Wood,1,0,,,,,,"",""
+ball,2,18.2,Pakistan,Usman Qadir,Shan Masood,MA Wood,0,0,,,,,,run out,Usman Qadir
+ball,2,18.3,Pakistan,Shan Masood,Haris Rauf,MA Wood,0,1,1,,,,,"",""
+ball,2,18.4,Pakistan,Shan Masood,Haris Rauf,MA Wood,0,1,,,,1,,"",""
+ball,2,18.5,Pakistan,Haris Rauf,Shan Masood,MA Wood,4,0,,,,,,"",""
+ball,2,18.6,Pakistan,Haris Rauf,Shan Masood,MA Wood,0,0,,,,,,caught,Haris Rauf
+ball,2,18.7,Pakistan,Mohammad Hasnain,Shan Masood,MA Wood,0,0,,,,,,"",""
+ball,2,19.1,Pakistan,Shan Masood,Mohammad Hasnain,RJW Topley,1,0,,,,,,"",""
+ball,2,19.2,Pakistan,Mohammad Hasnain,Shan Masood,RJW Topley,1,0,,,,,,"",""
+ball,2,19.3,Pakistan,Shan Masood,Mohammad Hasnain,RJW Topley,1,0,,,,,,"",""
+ball,2,19.4,Pakistan,Mohammad Hasnain,Shan Masood,RJW Topley,1,0,,,,,,"",""
+ball,2,19.5,Pakistan,Shan Masood,Mohammad Hasnain,RJW Topley,1,0,,,,,,"",""
+ball,2,19.6,Pakistan,Mohammad Hasnain,Shan Masood,RJW Topley,4,0,,,,,,"",""

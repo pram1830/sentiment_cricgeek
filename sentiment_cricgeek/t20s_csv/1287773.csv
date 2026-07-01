@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,West Indies
+info,gender,male
+info,season,2021/22
+info,date,2021/12/13
+info,event,West Indies tour of Pakistan
+info,match_number,1
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,Haider Ali
+info,umpire,Ahsan Raza
+info,umpire,Aleem Dar
+info,reserve_umpire,Rashid Riaz
+info,tv_umpire,Asif Yaqoob
+info,match_referee,Muhammad Javed
+info,winner,Pakistan
+info,winner_runs,63
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Haider Ali
+info,player,Pakistan,Asif Ali
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Wasim
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,West Indies,SD Hope
+info,player,West Indies,BA King
+info,player,West Indies,N Pooran
+info,player,West Indies,DC Thomas
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,R Powell
+info,player,West Indies,DC Drakes
+info,player,West Indies,R Shepherd
+info,player,West Indies,OF Smith
+info,player,West Indies,AJ Hosein
+info,player,West Indies,O Thomas
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BA King,7fca84b7
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DC Thomas,08a4f9ad
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,O Thomas,c6097d68
+info,registry,people,OF Smith,23cca426
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+ball,1,0.1,Pakistan,Mohammad Rizwan,Babar Azam,AJ Hosein,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Mohammad Rizwan,Babar Azam,AJ Hosein,1,0,,,,,,"",""
+ball,1,0.3,Pakistan,Babar Azam,Mohammad Rizwan,AJ Hosein,0,0,,,,,,"",""
+ball,1,0.4,Pakistan,Babar Azam,Mohammad Rizwan,AJ Hosein,0,0,,,,,,caught,Babar Azam
+ball,1,0.5,Pakistan,Fakhar Zaman,Mohammad Rizwan,AJ Hosein,2,0,,,,,,"",""
+ball,1,0.6,Pakistan,Fakhar Zaman,Mohammad Rizwan,AJ Hosein,0,0,,,,,,"",""
+ball,1,1.1,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,0,0,,,,,,"",""
+ball,1,1.2,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,1,0,,,,,,"",""
+ball,1,1.3,Pakistan,Fakhar Zaman,Mohammad Rizwan,O Thomas,0,0,,,,,,"",""
+ball,1,1.4,Pakistan,Fakhar Zaman,Mohammad Rizwan,O Thomas,0,0,,,,,,"",""
+ball,1,1.5,Pakistan,Fakhar Zaman,Mohammad Rizwan,O Thomas,0,0,,,,,,"",""
+ball,1,1.6,Pakistan,Fakhar Zaman,Mohammad Rizwan,O Thomas,4,0,,,,,,"",""
+ball,1,2.1,Pakistan,Mohammad Rizwan,Fakhar Zaman,DC Drakes,2,0,,,,,,"",""
+ball,1,2.2,Pakistan,Mohammad Rizwan,Fakhar Zaman,DC Drakes,4,0,,,,,,"",""
+ball,1,2.3,Pakistan,Mohammad Rizwan,Fakhar Zaman,DC Drakes,1,0,,,,,,"",""
+ball,1,2.4,Pakistan,Fakhar Zaman,Mohammad Rizwan,DC Drakes,2,0,,,,,,"",""
+ball,1,2.5,Pakistan,Fakhar Zaman,Mohammad Rizwan,DC Drakes,1,0,,,,,,"",""
+ball,1,2.6,Pakistan,Mohammad Rizwan,Fakhar Zaman,DC Drakes,1,0,,,,,,"",""
+ball,1,3.1,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,0,0,,,,,,"",""
+ball,1,3.2,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,4,0,,,,,,"",""
+ball,1,3.3,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,4,0,,,,,,"",""
+ball,1,3.4,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,0,0,,,,,,"",""
+ball,1,3.5,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,2,0,,,,,,"",""
+ball,1,3.6,Pakistan,Mohammad Rizwan,Fakhar Zaman,O Thomas,1,0,,,,,,"",""
+ball,1,4.1,Pakistan,Mohammad Rizwan,Fakhar Zaman,R Shepherd,2,0,,,,,,"",""
+ball,1,4.2,Pakistan,Mohammad Rizwan,Fakhar Zaman,R Shepherd,1,0,,,,,,"",""
+ball,1,4.3,Pakistan,Fakhar Zaman,Mohammad Rizwan,R Shepherd,1,0,,,,,,"",""
+ball,1,4.4,Pakistan,Mohammad Rizwan,Fakhar Zaman,R Shepherd,1,0,,,,,,"",""
+ball,1,4.5,Pakistan,Fakhar Zaman,Mohammad Rizwan,R Shepherd,0,0,,,,,,caught,Fakhar Zaman
+ball,1,4.6,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,1,0,,,,,,"",""
+ball,1,5.1,Pakistan,Mohammad Rizwan,Haider Ali,DC Drakes,1,0,,,,,,"",""
+ball,1,5.2,Pakistan,Haider Ali,Mohammad Rizwan,DC Drakes,1,0,,,,,,"",""
+ball,1,5.3,Pakistan,Mohammad Rizwan,Haider Ali,DC Drakes,4,0,,,,,,"",""
+ball,1,5.4,Pakistan,Mohammad Rizwan,Haider Ali,DC Drakes,1,0,,,,,,"",""
+ball,1,5.5,Pakistan,Haider Ali,Mohammad Rizwan,DC Drakes,0,0,,,,,,"",""
+ball,1,5.6,Pakistan,Haider Ali,Mohammad Rizwan,DC Drakes,1,0,,,,,,"",""
+ball,1,6.1,Pakistan,Haider Ali,Mohammad Rizwan,AJ Hosein,0,0,,,,,,"",""
+ball,1,6.2,Pakistan,Haider Ali,Mohammad Rizwan,AJ Hosein,0,0,,,,,,"",""
+ball,1,6.3,Pakistan,Haider Ali,Mohammad Rizwan,AJ Hosein,1,0,,,,,,"",""
+ball,1,6.4,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,0,0,,,,,,"",""
+ball,1,6.5,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,6.6,Pakistan,Haider Ali,Mohammad Rizwan,AJ Hosein,1,0,,,,,,"",""
+ball,1,7.1,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,1,0,,,,,,"",""
+ball,1,7.2,Pakistan,Mohammad Rizwan,Haider Ali,OF Smith,4,0,,,,,,"",""
+ball,1,7.3,Pakistan,Mohammad Rizwan,Haider Ali,OF Smith,1,0,,,,,,"",""
+ball,1,7.4,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,0,0,,,,,,"",""
+ball,1,7.5,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,0,0,,,,,,"",""
+ball,1,7.6,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,4,0,,,,,,"",""
+ball,1,8.1,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,8.2,Pakistan,Haider Ali,Mohammad Rizwan,AJ Hosein,1,0,,,,,,"",""
+ball,1,8.3,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,0,0,,,,,,"",""
+ball,1,8.4,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,0,0,,,,,,"",""
+ball,1,8.5,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,2,0,,,,,,"",""
+ball,1,8.6,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,9.1,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,0,0,,,,,,"",""
+ball,1,9.2,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,4,0,,,,,,"",""
+ball,1,9.3,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,2,0,,,,,,"",""
+ball,1,9.4,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,2,0,,,,,,"",""
+ball,1,9.5,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,4,0,,,,,,"",""
+ball,1,9.6,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,1,0,,,,,,"",""
+ball,1,10.1,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,0,0,,,,,,"",""
+ball,1,10.2,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,10.3,Pakistan,Haider Ali,Mohammad Rizwan,AJ Hosein,1,0,,,,,,"",""
+ball,1,10.4,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,4,0,,,,,,"",""
+ball,1,10.5,Pakistan,Mohammad Rizwan,Haider Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,10.6,Pakistan,Haider Ali,Mohammad Rizwan,AJ Hosein,1,0,,,,,,"",""
+ball,1,11.1,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,4,0,,,,,,"",""
+ball,1,11.2,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,1,0,,,,,,"",""
+ball,1,11.3,Pakistan,Mohammad Rizwan,Haider Ali,OF Smith,4,0,,,,,,"",""
+ball,1,11.4,Pakistan,Mohammad Rizwan,Haider Ali,OF Smith,1,0,,,,,,"",""
+ball,1,11.5,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,6,0,,,,,,"",""
+ball,1,11.6,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,4,0,,,,,,"",""
+ball,1,12.1,Pakistan,Mohammad Rizwan,Haider Ali,O Thomas,0,1,,1,,,,"",""
+ball,1,12.2,Pakistan,Mohammad Rizwan,Haider Ali,O Thomas,4,0,,,,,,"",""
+ball,1,12.3,Pakistan,Mohammad Rizwan,Haider Ali,O Thomas,2,0,,,,,,"",""
+ball,1,12.4,Pakistan,Mohammad Rizwan,Haider Ali,O Thomas,0,1,1,,,,,"",""
+ball,1,12.5,Pakistan,Mohammad Rizwan,Haider Ali,O Thomas,1,0,,,,,,"",""
+ball,1,12.6,Pakistan,Haider Ali,Mohammad Rizwan,O Thomas,1,0,,,,,,"",""
+ball,1,12.7,Pakistan,Mohammad Rizwan,Haider Ali,O Thomas,1,0,,,,,,"",""
+ball,1,12.8,Pakistan,Haider Ali,Mohammad Rizwan,O Thomas,0,0,,,,,,"",""
+ball,1,13.1,Pakistan,Mohammad Rizwan,Haider Ali,DC Drakes,1,0,,,,,,"",""
+ball,1,13.2,Pakistan,Haider Ali,Mohammad Rizwan,DC Drakes,6,0,,,,,,"",""
+ball,1,13.3,Pakistan,Haider Ali,Mohammad Rizwan,DC Drakes,0,0,,,,,,"",""
+ball,1,13.4,Pakistan,Haider Ali,Mohammad Rizwan,DC Drakes,1,0,,,,,,"",""
+ball,1,13.5,Pakistan,Mohammad Rizwan,Haider Ali,DC Drakes,1,0,,,,,,"",""
+ball,1,13.6,Pakistan,Haider Ali,Mohammad Rizwan,DC Drakes,4,0,,,,,,"",""
+ball,1,14.1,Pakistan,Mohammad Rizwan,Haider Ali,OF Smith,1,0,,,,,,"",""
+ball,1,14.2,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,1,0,,,,,,"",""
+ball,1,14.3,Pakistan,Mohammad Rizwan,Haider Ali,OF Smith,1,0,,,,,,"",""
+ball,1,14.4,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,4,0,,,,,,"",""
+ball,1,14.5,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,0,0,,,,,,"",""
+ball,1,14.6,Pakistan,Haider Ali,Mohammad Rizwan,OF Smith,6,0,,,,,,"",""
+ball,1,15.1,Pakistan,Mohammad Rizwan,Haider Ali,R Shepherd,0,0,,,,,,caught,Mohammad Rizwan
+ball,1,15.2,Pakistan,Haider Ali,Asif Ali,R Shepherd,1,0,,,,,,"",""
+ball,1,15.3,Pakistan,Asif Ali,Haider Ali,R Shepherd,1,0,,,,,,"",""
+ball,1,15.4,Pakistan,Haider Ali,Asif Ali,R Shepherd,0,1,1,,,,,"",""
+ball,1,15.5,Pakistan,Haider Ali,Asif Ali,R Shepherd,1,0,,,,,,"",""
+ball,1,15.6,Pakistan,Asif Ali,Haider Ali,R Shepherd,0,0,,,,,,"",""
+ball,1,15.7,Pakistan,Asif Ali,Haider Ali,R Shepherd,0,0,,,,,,"",""
+ball,1,16.1,Pakistan,Haider Ali,Asif Ali,O Thomas,2,0,,,,,,"",""
+ball,1,16.2,Pakistan,Haider Ali,Asif Ali,O Thomas,1,0,,,,,,"",""
+ball,1,16.3,Pakistan,Asif Ali,Haider Ali,O Thomas,0,0,,,,,,caught,Asif Ali
+ball,1,16.4,Pakistan,Iftikhar Ahmed,Haider Ali,O Thomas,1,0,,,,,,"",""
+ball,1,16.5,Pakistan,Haider Ali,Iftikhar Ahmed,O Thomas,1,1,,1,,,,"",""
+ball,1,16.6,Pakistan,Iftikhar Ahmed,Haider Ali,O Thomas,1,0,,,,,,"",""
+ball,1,16.7,Pakistan,Haider Ali,Iftikhar Ahmed,O Thomas,4,0,,,,,,"",""
+ball,1,17.1,Pakistan,Iftikhar Ahmed,Haider Ali,OF Smith,4,0,,,,,,"",""
+ball,1,17.2,Pakistan,Iftikhar Ahmed,Haider Ali,OF Smith,1,0,,,,,,"",""
+ball,1,17.3,Pakistan,Haider Ali,Iftikhar Ahmed,OF Smith,1,0,,,,,,"",""
+ball,1,17.4,Pakistan,Iftikhar Ahmed,Haider Ali,OF Smith,0,0,,,,,,caught,Iftikhar Ahmed
+ball,1,17.5,Pakistan,Mohammad Nawaz,Haider Ali,OF Smith,1,0,,,,,,"",""
+ball,1,17.6,Pakistan,Haider Ali,Mohammad Nawaz,OF Smith,6,0,,,,,,"",""
+ball,1,18.1,Pakistan,Mohammad Nawaz,Haider Ali,R Shepherd,4,0,,,,,,"",""
+ball,1,18.2,Pakistan,Mohammad Nawaz,Haider Ali,R Shepherd,1,0,,,,,,"",""
+ball,1,18.3,Pakistan,Haider Ali,Mohammad Nawaz,R Shepherd,0,1,,,,1,,"",""
+ball,1,18.4,Pakistan,Mohammad Nawaz,Haider Ali,R Shepherd,4,0,,,,,,"",""
+ball,1,18.5,Pakistan,Mohammad Nawaz,Haider Ali,R Shepherd,0,1,1,,,,,"",""
+ball,1,18.6,Pakistan,Mohammad Nawaz,Haider Ali,R Shepherd,4,0,,,,,,"",""
+ball,1,18.7,Pakistan,Mohammad Nawaz,Haider Ali,R Shepherd,6,0,,,,,,"",""
+ball,1,19.1,Pakistan,Haider Ali,Mohammad Nawaz,DC Drakes,1,0,,,,,,"",""
+ball,1,19.2,Pakistan,Mohammad Nawaz,Haider Ali,DC Drakes,1,0,,,,,,"",""
+ball,1,19.3,Pakistan,Haider Ali,Mohammad Nawaz,DC Drakes,0,0,,,,,,caught,Haider Ali
+ball,1,19.4,Pakistan,Mohammad Nawaz,Shadab Khan,DC Drakes,2,0,,,,,,"",""
+ball,1,19.5,Pakistan,Mohammad Nawaz,Shadab Khan,DC Drakes,6,0,,,,,,"",""
+ball,1,19.6,Pakistan,Mohammad Nawaz,Shadab Khan,DC Drakes,1,0,,,,,,"",""
+ball,2,0.1,West Indies,SD Hope,BA King,Shaheen Shah Afridi,0,1,1,,,,,"",""
+ball,2,0.2,West Indies,SD Hope,BA King,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.3,West Indies,SD Hope,BA King,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.4,West Indies,BA King,SD Hope,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.5,West Indies,SD Hope,BA King,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.6,West Indies,SD Hope,BA King,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.7,West Indies,SD Hope,BA King,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,1.1,West Indies,BA King,SD Hope,Mohammad Nawaz,0,0,,,,,,caught,BA King
+ball,2,1.2,West Indies,N Pooran,SD Hope,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,1.3,West Indies,N Pooran,SD Hope,Mohammad Nawaz,6,0,,,,,,"",""
+ball,2,1.4,West Indies,N Pooran,SD Hope,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,1.5,West Indies,SD Hope,N Pooran,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,1.6,West Indies,SD Hope,N Pooran,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,2.1,West Indies,SD Hope,N Pooran,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.2,West Indies,N Pooran,SD Hope,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.3,West Indies,SD Hope,N Pooran,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.4,West Indies,N Pooran,SD Hope,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.5,West Indies,N Pooran,SD Hope,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,2.6,West Indies,N Pooran,SD Hope,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,3.1,West Indies,SD Hope,N Pooran,Mohammad Wasim,4,0,,,,,,"",""
+ball,2,3.2,West Indies,SD Hope,N Pooran,Mohammad Wasim,1,0,,,,,,"",""
+ball,2,3.3,West Indies,N Pooran,SD Hope,Mohammad Wasim,6,0,,,,,,"",""
+ball,2,3.4,West Indies,N Pooran,SD Hope,Mohammad Wasim,0,0,,,,,,"",""
+ball,2,3.5,West Indies,N Pooran,SD Hope,Mohammad Wasim,0,0,,,,,,bowled,N Pooran
+ball,2,3.6,West Indies,DC Thomas,SD Hope,Mohammad Wasim,0,0,,,,,,"",""
+ball,2,4.1,West Indies,SD Hope,DC Thomas,Haris Rauf,0,0,,,,,,"",""
+ball,2,4.2,West Indies,SD Hope,DC Thomas,Haris Rauf,1,0,,,,,,"",""
+ball,2,4.3,West Indies,DC Thomas,SD Hope,Haris Rauf,1,0,,,,,,"",""
+ball,2,4.4,West Indies,SD Hope,DC Thomas,Haris Rauf,1,0,,,,,,"",""
+ball,2,4.5,West Indies,DC Thomas,SD Hope,Haris Rauf,1,0,,,,,,"",""
+ball,2,4.6,West Indies,SD Hope,DC Thomas,Haris Rauf,1,0,,,,,,"",""
+ball,2,5.1,West Indies,SD Hope,DC Thomas,Mohammad Wasim,0,1,1,,,,,"",""
+ball,2,5.2,West Indies,SD Hope,DC Thomas,Mohammad Wasim,1,0,,,,,,"",""
+ball,2,5.3,West Indies,DC Thomas,SD Hope,Mohammad Wasim,0,0,,,,,,lbw,DC Thomas
+ball,2,5.4,West Indies,SSJ Brooks,SD Hope,Mohammad Wasim,1,0,,,,,,"",""
+ball,2,5.5,West Indies,SD Hope,SSJ Brooks,Mohammad Wasim,4,0,,,,,,"",""
+ball,2,5.6,West Indies,SD Hope,SSJ Brooks,Mohammad Wasim,1,0,,,,,,"",""
+ball,2,5.7,West Indies,SSJ Brooks,SD Hope,Mohammad Wasim,0,0,,,,,,"",""
+ball,2,6.1,West Indies,SD Hope,SSJ Brooks,Mohammad Nawaz,4,0,,,,,,"",""
+ball,2,6.2,West Indies,SD Hope,SSJ Brooks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,6.3,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,6.4,West Indies,SD Hope,SSJ Brooks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,6.5,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,6.6,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,7.1,West Indies,SD Hope,SSJ Brooks,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.2,West Indies,SSJ Brooks,SD Hope,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.3,West Indies,SD Hope,SSJ Brooks,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.4,West Indies,SSJ Brooks,SD Hope,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.5,West Indies,SSJ Brooks,SD Hope,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.6,West Indies,SD Hope,SSJ Brooks,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.1,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,8.2,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,8.3,West Indies,SD Hope,SSJ Brooks,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,8.4,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,8.5,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,8.6,West Indies,SSJ Brooks,SD Hope,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,9.1,West Indies,SD Hope,SSJ Brooks,Shadab Khan,0,0,,,,,,lbw,SD Hope
+ball,2,9.2,West Indies,R Powell,SSJ Brooks,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.3,West Indies,SSJ Brooks,R Powell,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.4,West Indies,SSJ Brooks,R Powell,Shadab Khan,0,0,,,,,,bowled,SSJ Brooks
+ball,2,9.5,West Indies,DC Drakes,R Powell,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.6,West Indies,DC Drakes,R Powell,Shadab Khan,0,0,,,,,,"",""
+ball,2,10.1,West Indies,R Powell,DC Drakes,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,10.2,West Indies,DC Drakes,R Powell,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,10.3,West Indies,DC Drakes,R Powell,Mohammad Nawaz,4,0,,,,,,"",""
+ball,2,10.4,West Indies,DC Drakes,R Powell,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,10.5,West Indies,R Powell,DC Drakes,Mohammad Nawaz,0,0,,,,,,"",""
+ball,2,10.6,West Indies,R Powell,DC Drakes,Mohammad Nawaz,1,0,,,,,,"",""
+ball,2,11.1,West Indies,R Powell,DC Drakes,Shadab Khan,0,0,,,,,,"",""
+ball,2,11.2,West Indies,R Powell,DC Drakes,Shadab Khan,0,0,,,,,,"",""
+ball,2,11.3,West Indies,R Powell,DC Drakes,Shadab Khan,4,0,,,,,,"",""
+ball,2,11.4,West Indies,R Powell,DC Drakes,Shadab Khan,2,0,,,,,,"",""
+ball,2,11.5,West Indies,R Powell,DC Drakes,Shadab Khan,6,0,,,,,,"",""
+ball,2,11.6,West Indies,R Powell,DC Drakes,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.1,West Indies,DC Drakes,R Powell,Haris Rauf,0,0,,,,,,caught,DC Drakes
+ball,2,12.2,West Indies,R Powell,R Shepherd,Haris Rauf,1,0,,,,,,"",""
+ball,2,12.3,West Indies,R Shepherd,R Powell,Haris Rauf,0,0,,,,,,"",""
+ball,2,12.4,West Indies,R Shepherd,R Powell,Haris Rauf,1,0,,,,,,"",""
+ball,2,12.5,West Indies,R Powell,R Shepherd,Haris Rauf,6,0,,,,,,"",""
+ball,2,12.6,West Indies,R Powell,R Shepherd,Haris Rauf,1,0,,,,,,"",""
+ball,2,13.1,West Indies,R Powell,R Shepherd,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.2,West Indies,R Powell,R Shepherd,Shadab Khan,0,0,,,,,,caught,R Powell
+ball,2,13.3,West Indies,OF Smith,R Shepherd,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.4,West Indies,OF Smith,R Shepherd,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.5,West Indies,OF Smith,R Shepherd,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.6,West Indies,OF Smith,R Shepherd,Shadab Khan,0,0,,,,,,"",""
+ball,2,14.1,West Indies,R Shepherd,OF Smith,Mohammad Wasim,0,0,,,,,,"",""
+ball,2,14.2,West Indies,R Shepherd,OF Smith,Mohammad Wasim,4,0,,,,,,"",""
+ball,2,14.3,West Indies,R Shepherd,OF Smith,Mohammad Wasim,6,0,,,,,,"",""
+ball,2,14.4,West Indies,R Shepherd,OF Smith,Mohammad Wasim,4,0,,,,,,"",""
+ball,2,14.5,West Indies,R Shepherd,OF Smith,Mohammad Wasim,0,1,1,,,,,"",""
+ball,2,14.6,West Indies,R Shepherd,OF Smith,Mohammad Wasim,2,0,,,,,,"",""
+ball,2,14.7,West Indies,R Shepherd,OF Smith,Mohammad Wasim,1,0,,,,,,"",""
+ball,2,15.1,West Indies,R Shepherd,OF Smith,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,15.2,West Indies,R Shepherd,OF Smith,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,15.3,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,15.4,West Indies,R Shepherd,OF Smith,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,15.5,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,0,1,1,,,,,"",""
+ball,2,15.6,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,15.7,West Indies,R Shepherd,OF Smith,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,16.1,West Indies,OF Smith,R Shepherd,Haris Rauf,0,0,,,,,,"",""
+ball,2,16.2,West Indies,OF Smith,R Shepherd,Haris Rauf,0,0,,,,,,"",""
+ball,2,16.3,West Indies,OF Smith,R Shepherd,Haris Rauf,6,0,,,,,,"",""
+ball,2,16.4,West Indies,OF Smith,R Shepherd,Haris Rauf,0,0,,,,,,"",""
+ball,2,16.5,West Indies,OF Smith,R Shepherd,Haris Rauf,1,0,,,,,,"",""
+ball,2,16.6,West Indies,R Shepherd,OF Smith,Haris Rauf,0,0,,,,,,"",""
+ball,2,17.1,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,17.2,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,17.3,West Indies,R Shepherd,OF Smith,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,17.4,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,17.5,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,6,0,,,,,,"",""
+ball,2,17.6,West Indies,OF Smith,R Shepherd,Shaheen Shah Afridi,0,0,,,,,,bowled,OF Smith
+ball,2,18.1,West Indies,R Shepherd,AJ Hosein,Mohammad Wasim,0,0,,,,,,"",""
+ball,2,18.2,West Indies,R Shepherd,AJ Hosein,Mohammad Wasim,0,0,,,,,,bowled,R Shepherd
+ball,2,18.3,West Indies,O Thomas,AJ Hosein,Mohammad Wasim,0,0,,,,,,"",""
+ball,2,18.4,West Indies,O Thomas,AJ Hosein,Mohammad Wasim,1,0,,,,,,"",""
+ball,2,18.5,West Indies,AJ Hosein,O Thomas,Mohammad Wasim,1,0,,,,,,"",""
+ball,2,18.6,West Indies,O Thomas,AJ Hosein,Mohammad Wasim,0,1,1,,,,,"",""
+ball,2,18.7,West Indies,O Thomas,AJ Hosein,Mohammad Wasim,0,0,,,,,,bowled,O Thomas

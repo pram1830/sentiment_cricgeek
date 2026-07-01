@@ -1,0 +1,177 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,female
+info,season,2019/20
+info,date,2019/11/17
+info,event,India Women tour of West Indies
+info,match_number,4
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,HK Matthews
+info,umpire,JM Williams
+info,umpire,Zahid Bassarath
+info,reserve_umpire,PA Gustard
+info,match_referee,Reon King
+info,winner,India
+info,winner_runs,5
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,V Krishnamurthy
+info,player,India,H Kaur
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,H Deol
+info,player,India,T Bhatia
+info,player,India,AA Patil
+info,player,India,RP Yadav
+info,player,India,M Joshi
+info,player,West Indies,HK Matthews
+info,player,West Indies,CN Nation
+info,player,West Indies,CA Henry
+info,player,West Indies,NY McLean
+info,player,West Indies,SA Campbelle
+info,player,West Indies,SS Grimmond
+info,player,West Indies,SACA King
+info,player,West Indies,A Mohammed
+info,player,West Indies,S Gajnabi
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,Kyshona A Knight
+info,registry,people,A Mohammed,a49985e6
+info,registry,people,AA Patil,7c1ba524
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,CA Henry,75820733
+info,registry,people,CN Nation,639000b6
+info,registry,people,DB Sharma,201fef33
+info,registry,people,H Deol,3664712e
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,Kyshona A Knight,d85a1960
+info,registry,people,M Joshi,47fb8d80
+info,registry,people,NY McLean,1d39dc61
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SACA King,77851c2d
+info,registry,people,SS Grimmond,6bebf334
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,T Bhatia,211dc1ce
+info,registry,people,V Krishnamurthy,c3f21798
+info,registry,people,Zahid Bassarath,ca6bf044
+ball,1,0.1,India,Shafali Verma,JI Rodrigues,HK Matthews,0,0,,,,,,"",""
+ball,1,0.2,India,Shafali Verma,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,0.3,India,JI Rodrigues,Shafali Verma,HK Matthews,0,1,,,,1,,"",""
+ball,1,0.4,India,Shafali Verma,JI Rodrigues,HK Matthews,6,0,,,,,,"",""
+ball,1,0.5,India,Shafali Verma,JI Rodrigues,HK Matthews,0,0,,,,,,caught,Shafali Verma
+ball,1,0.6,India,JI Rodrigues,V Krishnamurthy,HK Matthews,0,0,,,,,,"",""
+ball,1,1.1,India,V Krishnamurthy,JI Rodrigues,A Mohammed,0,1,,,,1,,"",""
+ball,1,1.2,India,JI Rodrigues,V Krishnamurthy,A Mohammed,2,0,,,,,,"",""
+ball,1,1.3,India,JI Rodrigues,V Krishnamurthy,A Mohammed,0,0,,,,,,"",""
+ball,1,1.4,India,JI Rodrigues,V Krishnamurthy,A Mohammed,1,0,,,,,,"",""
+ball,1,1.5,India,V Krishnamurthy,JI Rodrigues,A Mohammed,1,0,,,,,,"",""
+ball,1,1.6,India,JI Rodrigues,V Krishnamurthy,A Mohammed,3,0,,,,,,"",""
+ball,1,2.1,India,JI Rodrigues,V Krishnamurthy,HK Matthews,0,0,,,,,,caught,JI Rodrigues
+ball,1,2.2,India,V Krishnamurthy,H Kaur,HK Matthews,4,0,,,,,,"",""
+ball,1,2.3,India,V Krishnamurthy,H Kaur,HK Matthews,0,0,,,,,,"",""
+ball,1,2.4,India,V Krishnamurthy,H Kaur,HK Matthews,0,0,,,,,,caught,V Krishnamurthy
+ball,1,2.5,India,H Kaur,DB Sharma,HK Matthews,0,0,,,,,,"",""
+ball,1,2.6,India,H Kaur,DB Sharma,HK Matthews,2,0,,,,,,"",""
+ball,1,3.1,India,DB Sharma,H Kaur,A Mohammed,1,0,,,,,,"",""
+ball,1,3.2,India,H Kaur,DB Sharma,A Mohammed,0,0,,,,,,"",""
+ball,1,3.3,India,H Kaur,DB Sharma,A Mohammed,1,0,,,,,,"",""
+ball,1,3.4,India,DB Sharma,H Kaur,A Mohammed,1,0,,,,,,"",""
+ball,1,3.5,India,H Kaur,DB Sharma,A Mohammed,1,0,,,,,,"",""
+ball,1,3.6,India,DB Sharma,H Kaur,A Mohammed,2,0,,,,,,"",""
+ball,1,4.1,India,H Kaur,DB Sharma,ASS Fletcher,0,0,,,,,,"",""
+ball,1,4.2,India,H Kaur,DB Sharma,ASS Fletcher,0,0,,,,,,"",""
+ball,1,4.3,India,H Kaur,DB Sharma,ASS Fletcher,0,0,,,,,,"",""
+ball,1,4.4,India,H Kaur,DB Sharma,ASS Fletcher,1,0,,,,,,"",""
+ball,1,4.5,India,DB Sharma,H Kaur,ASS Fletcher,0,0,,,,,,"",""
+ball,1,4.6,India,DB Sharma,H Kaur,ASS Fletcher,0,0,,,,,,"",""
+ball,1,5.1,India,H Kaur,DB Sharma,SS Grimmond,0,0,,,,,,"",""
+ball,1,5.2,India,H Kaur,DB Sharma,SS Grimmond,1,0,,,,,,"",""
+ball,1,5.3,India,DB Sharma,H Kaur,SS Grimmond,0,0,,,,,,"",""
+ball,1,5.4,India,DB Sharma,H Kaur,SS Grimmond,0,0,,,,,,bowled,DB Sharma
+ball,1,5.5,India,P Vastrakar,H Kaur,SS Grimmond,0,0,,,,,,"",""
+ball,1,5.6,India,P Vastrakar,H Kaur,SS Grimmond,1,0,,,,,,"",""
+ball,1,6.1,India,P Vastrakar,H Kaur,ASS Fletcher,1,0,,,,,,"",""
+ball,1,6.2,India,H Kaur,P Vastrakar,ASS Fletcher,0,0,,,,,,stumped,H Kaur
+ball,1,6.3,India,H Deol,P Vastrakar,ASS Fletcher,0,0,,,,,,caught,H Deol
+ball,1,6.4,India,T Bhatia,P Vastrakar,ASS Fletcher,0,0,,,,,,"",""
+ball,1,6.5,India,T Bhatia,P Vastrakar,ASS Fletcher,0,0,,,,,,"",""
+ball,1,6.6,India,T Bhatia,P Vastrakar,ASS Fletcher,0,0,,,,,,"",""
+ball,1,7.1,India,P Vastrakar,T Bhatia,SS Grimmond,4,0,,,,,,"",""
+ball,1,7.2,India,P Vastrakar,T Bhatia,SS Grimmond,2,0,,,,,,"",""
+ball,1,7.3,India,P Vastrakar,T Bhatia,SS Grimmond,0,0,,,,,,"",""
+ball,1,7.4,India,P Vastrakar,T Bhatia,SS Grimmond,2,0,,,,,,"",""
+ball,1,7.5,India,P Vastrakar,T Bhatia,SS Grimmond,0,0,,,,,,caught,P Vastrakar
+ball,1,7.6,India,T Bhatia,AA Patil,SS Grimmond,0,0,,,,,,"",""
+ball,1,8.1,India,AA Patil,T Bhatia,SACA King,1,0,,,,,,"",""
+ball,1,8.2,India,T Bhatia,AA Patil,SACA King,1,0,,,,,,"",""
+ball,1,8.3,India,AA Patil,T Bhatia,SACA King,1,0,,,,,,"",""
+ball,1,8.4,India,T Bhatia,AA Patil,SACA King,4,0,,,,,,"",""
+ball,1,8.5,India,T Bhatia,AA Patil,SACA King,2,0,,,,,,"",""
+ball,1,8.6,India,T Bhatia,AA Patil,SACA King,1,0,,,,,,"",""
+ball,2,0.1,West Indies,HK Matthews,CN Nation,DB Sharma,0,0,,,,,,"",""
+ball,2,0.2,West Indies,HK Matthews,CN Nation,DB Sharma,1,0,,,,,,"",""
+ball,2,0.3,West Indies,HK Matthews,CN Nation,DB Sharma,1,0,,,,,,"",""
+ball,2,0.4,West Indies,CN Nation,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,0.5,West Indies,CN Nation,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,0.6,West Indies,HK Matthews,CN Nation,DB Sharma,2,0,,,,,,"",""
+ball,2,1.1,West Indies,CN Nation,HK Matthews,RP Yadav,0,0,,,,,,"",""
+ball,2,1.2,West Indies,CN Nation,HK Matthews,RP Yadav,1,0,,,,,,"",""
+ball,2,1.3,West Indies,HK Matthews,CN Nation,RP Yadav,0,0,,,,,,"",""
+ball,2,1.4,West Indies,HK Matthews,CN Nation,RP Yadav,0,0,,,,,,"",""
+ball,2,1.5,West Indies,HK Matthews,CN Nation,RP Yadav,0,0,,,,,,"",""
+ball,2,1.6,West Indies,HK Matthews,CN Nation,RP Yadav,0,0,,,,,,"",""
+ball,2,2.1,West Indies,CN Nation,HK Matthews,DB Sharma,0,1,,,,1,,"",""
+ball,2,2.2,West Indies,HK Matthews,CN Nation,DB Sharma,0,1,1,,,,,"",""
+ball,2,2.3,West Indies,HK Matthews,CN Nation,DB Sharma,1,0,,,,,,"",""
+ball,2,2.4,West Indies,CN Nation,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,2.5,West Indies,CN Nation,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,2.6,West Indies,CN Nation,HK Matthews,DB Sharma,0,0,,,,,,bowled,CN Nation
+ball,2,2.7,West Indies,CA Henry,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,3.1,West Indies,HK Matthews,CA Henry,H Deol,1,0,,,,,,"",""
+ball,2,3.2,West Indies,CA Henry,HK Matthews,H Deol,1,0,,,,,,"",""
+ball,2,3.3,West Indies,HK Matthews,CA Henry,H Deol,0,0,,,,,,"",""
+ball,2,3.4,West Indies,HK Matthews,CA Henry,H Deol,4,0,,,,,,"",""
+ball,2,3.5,West Indies,HK Matthews,CA Henry,H Deol,1,0,,,,,,"",""
+ball,2,3.6,West Indies,CA Henry,HK Matthews,H Deol,1,0,,,,,,"",""
+ball,2,4.1,West Indies,CA Henry,HK Matthews,AA Patil,0,0,,,,,,"",""
+ball,2,4.2,West Indies,CA Henry,HK Matthews,AA Patil,0,0,,,,,,"",""
+ball,2,4.3,West Indies,CA Henry,HK Matthews,AA Patil,0,0,,,,,,"",""
+ball,2,4.4,West Indies,CA Henry,HK Matthews,AA Patil,0,0,,,,,,"",""
+ball,2,4.5,West Indies,CA Henry,HK Matthews,AA Patil,1,0,,,,,,"",""
+ball,2,4.6,West Indies,HK Matthews,CA Henry,AA Patil,0,0,,,,,,bowled,HK Matthews
+ball,2,5.1,West Indies,CA Henry,NY McLean,M Joshi,4,0,,,,,,"",""
+ball,2,5.2,West Indies,CA Henry,NY McLean,M Joshi,0,0,,,,,,"",""
+ball,2,5.3,West Indies,CA Henry,NY McLean,M Joshi,1,0,,,,,,"",""
+ball,2,5.4,West Indies,NY McLean,CA Henry,M Joshi,0,0,,,,,,"",""
+ball,2,5.5,West Indies,NY McLean,CA Henry,M Joshi,1,0,,,,,,"",""
+ball,2,5.6,West Indies,CA Henry,NY McLean,M Joshi,0,0,,,,,,"",""
+ball,2,6.1,West Indies,NY McLean,CA Henry,H Deol,1,0,,,,,,"",""
+ball,2,6.2,West Indies,CA Henry,NY McLean,H Deol,1,0,,,,,,"",""
+ball,2,6.3,West Indies,NY McLean,CA Henry,H Deol,1,0,,,,,,"",""
+ball,2,6.4,West Indies,CA Henry,NY McLean,H Deol,1,0,,,,,,"",""
+ball,2,6.5,West Indies,NY McLean,CA Henry,H Deol,1,0,,,,,,"",""
+ball,2,6.6,West Indies,CA Henry,NY McLean,H Deol,1,0,,,,,,"",""
+ball,2,7.1,West Indies,CA Henry,NY McLean,RP Yadav,0,0,,,,,,bowled,CA Henry
+ball,2,7.2,West Indies,SA Campbelle,NY McLean,RP Yadav,1,0,,,,,,"",""
+ball,2,7.3,West Indies,NY McLean,SA Campbelle,RP Yadav,2,0,,,,,,"",""
+ball,2,7.4,West Indies,NY McLean,SA Campbelle,RP Yadav,0,0,,,,,,"",""
+ball,2,7.5,West Indies,NY McLean,SA Campbelle,RP Yadav,4,0,,,,,,"",""
+ball,2,7.6,West Indies,NY McLean,SA Campbelle,RP Yadav,0,0,,,,,,"",""
+ball,2,8.1,West Indies,SA Campbelle,NY McLean,AA Patil,2,0,,,,,,"",""
+ball,2,8.2,West Indies,SA Campbelle,NY McLean,AA Patil,1,0,,,,,,run out,NY McLean
+ball,2,8.3,West Indies,SA Campbelle,SS Grimmond,AA Patil,1,0,,,,,,"",""
+ball,2,8.4,West Indies,SS Grimmond,SA Campbelle,AA Patil,2,0,,,,,,"",""
+ball,2,8.5,West Indies,SS Grimmond,SA Campbelle,AA Patil,0,0,,,,,,caught,SS Grimmond
+ball,2,8.6,West Indies,SACA King,SA Campbelle,AA Patil,1,0,,,,,,"",""

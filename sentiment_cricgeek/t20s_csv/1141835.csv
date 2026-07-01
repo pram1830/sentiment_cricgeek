@@ -1,0 +1,168 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Nepal
+info,gender,male
+info,season,2018
+info,date,2018/07/29
+info,event,Marylebone Cricket Club Tri-Nation T20 Series
+info,match_number,3
+info,venue,Lord's
+info,city,London
+info,toss_winner,Nepal
+info,toss_decision,field
+info,umpire,Rizwan Akram
+info,umpire,DA Haggo
+info,reserve_umpire,BJ Debenham
+info,match_referee,DT Jukes
+info,outcome,no result
+info,player,Netherlands,TP Visee
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,W Barresi
+info,player,Netherlands,RN ten Doeschate
+info,player,Netherlands,MJG Rippon
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,PM Seelaar
+info,player,Netherlands,S Snater
+info,player,Netherlands,HC Overdijk
+info,player,Netherlands,PA van Meekeren
+info,player,Netherlands,FJ Klaassen
+info,player,Nepal,AK Sah
+info,player,Nepal,G Malla
+info,player,Nepal,P Khadka
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,DS Airee
+info,player,Nepal,Sompal Kami
+info,player,Nepal,B Regmi
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,player,Nepal,LN Rajbanshi
+info,player,Nepal,S Vesawkar
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,B Regmi,98d05440
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,DS Airee,1747ea18
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Malla,b2e1d224
+info,registry,people,HC Overdijk,2c01f21a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,P Khadka,12c3ba4d
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,PM Seelaar,abbdca1a
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,S Snater,a790df98
+info,registry,people,S Vesawkar,3de06845
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,TP Visee,881b3f8e
+info,registry,people,W Barresi,0d677597
+ball,1,0.1,Netherlands,TP Visee,MP O'Dowd,Sompal Kami,0,0,,,,,,"",""
+ball,1,0.2,Netherlands,TP Visee,MP O'Dowd,Sompal Kami,4,0,,,,,,"",""
+ball,1,0.3,Netherlands,TP Visee,MP O'Dowd,Sompal Kami,0,0,,,,,,"",""
+ball,1,0.4,Netherlands,TP Visee,MP O'Dowd,Sompal Kami,2,0,,,,,,"",""
+ball,1,0.5,Netherlands,TP Visee,MP O'Dowd,Sompal Kami,0,0,,,,,,"",""
+ball,1,0.6,Netherlands,TP Visee,MP O'Dowd,Sompal Kami,0,1,1,,,,,"",""
+ball,1,0.7,Netherlands,TP Visee,MP O'Dowd,Sompal Kami,4,0,,,,,,"",""
+ball,1,1.1,Netherlands,MP O'Dowd,TP Visee,B Regmi,1,0,,,,,,"",""
+ball,1,1.2,Netherlands,TP Visee,MP O'Dowd,B Regmi,1,0,,,,,,"",""
+ball,1,1.3,Netherlands,MP O'Dowd,TP Visee,B Regmi,0,0,,,,,,"",""
+ball,1,1.4,Netherlands,MP O'Dowd,TP Visee,B Regmi,1,0,,,,,,"",""
+ball,1,1.5,Netherlands,TP Visee,MP O'Dowd,B Regmi,0,0,,,,,,bowled,TP Visee
+ball,1,1.6,Netherlands,W Barresi,MP O'Dowd,B Regmi,0,0,,,,,,"",""
+ball,1,2.1,Netherlands,MP O'Dowd,W Barresi,Karan KC,3,0,,,,,,"",""
+ball,1,2.2,Netherlands,W Barresi,MP O'Dowd,Karan KC,4,0,,,,,,"",""
+ball,1,2.3,Netherlands,W Barresi,MP O'Dowd,Karan KC,2,0,,,,,,"",""
+ball,1,2.4,Netherlands,W Barresi,MP O'Dowd,Karan KC,1,0,,,,,,"",""
+ball,1,2.5,Netherlands,MP O'Dowd,W Barresi,Karan KC,0,0,,,,,,caught,MP O'Dowd
+ball,1,2.6,Netherlands,W Barresi,RN ten Doeschate,Karan KC,0,0,,,,,,"",""
+ball,1,3.1,Netherlands,RN ten Doeschate,W Barresi,S Lamichhane,0,0,,,,,,"",""
+ball,1,3.2,Netherlands,RN ten Doeschate,W Barresi,S Lamichhane,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,RN ten Doeschate,W Barresi,S Lamichhane,1,0,,,,,,"",""
+ball,1,3.4,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,0,0,,,,,,"",""
+ball,1,3.5,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,4,0,,,,,,"",""
+ball,1,3.6,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,1,0,,,,,,"",""
+ball,1,4.1,Netherlands,W Barresi,RN ten Doeschate,Sompal Kami,4,0,,,,,,"",""
+ball,1,4.2,Netherlands,W Barresi,RN ten Doeschate,Sompal Kami,6,0,,,,,,"",""
+ball,1,4.3,Netherlands,W Barresi,RN ten Doeschate,Sompal Kami,1,0,,,,,,"",""
+ball,1,4.4,Netherlands,RN ten Doeschate,W Barresi,Sompal Kami,0,1,,,,1,,"",""
+ball,1,4.5,Netherlands,W Barresi,RN ten Doeschate,Sompal Kami,1,0,,,,,,"",""
+ball,1,4.6,Netherlands,RN ten Doeschate,W Barresi,Sompal Kami,1,0,,,,,,"",""
+ball,1,5.1,Netherlands,RN ten Doeschate,W Barresi,B Regmi,6,0,,,,,,"",""
+ball,1,5.2,Netherlands,RN ten Doeschate,W Barresi,B Regmi,1,0,,,,,,"",""
+ball,1,5.3,Netherlands,W Barresi,RN ten Doeschate,B Regmi,3,0,,,,,,"",""
+ball,1,5.4,Netherlands,RN ten Doeschate,W Barresi,B Regmi,1,0,,,,,,"",""
+ball,1,5.5,Netherlands,W Barresi,RN ten Doeschate,B Regmi,4,0,,,,,,"",""
+ball,1,5.6,Netherlands,W Barresi,RN ten Doeschate,B Regmi,1,0,,,,,,"",""
+ball,1,6.1,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,1,0,,,,,,"",""
+ball,1,6.2,Netherlands,RN ten Doeschate,W Barresi,S Lamichhane,1,0,,,,,,"",""
+ball,1,6.3,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,0,0,,,,,,"",""
+ball,1,6.4,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,4,0,,,,,,"",""
+ball,1,6.5,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,0,0,,,,,,"",""
+ball,1,6.6,Netherlands,W Barresi,RN ten Doeschate,S Lamichhane,4,0,,,,,,"",""
+ball,1,7.1,Netherlands,RN ten Doeschate,W Barresi,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,7.2,Netherlands,W Barresi,RN ten Doeschate,LN Rajbanshi,0,2,2,,,,,"",""
+ball,1,7.3,Netherlands,RN ten Doeschate,W Barresi,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,7.4,Netherlands,RN ten Doeschate,W Barresi,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,7.5,Netherlands,RN ten Doeschate,W Barresi,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,7.6,Netherlands,W Barresi,RN ten Doeschate,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,7.7,Netherlands,RN ten Doeschate,W Barresi,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,8.1,Netherlands,W Barresi,RN ten Doeschate,Sompal Kami,1,0,,,,,,"",""
+ball,1,8.2,Netherlands,RN ten Doeschate,W Barresi,Sompal Kami,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,W Barresi,RN ten Doeschate,Sompal Kami,1,0,,,,,,"",""
+ball,1,8.4,Netherlands,RN ten Doeschate,W Barresi,Sompal Kami,1,0,,,,,,"",""
+ball,1,8.5,Netherlands,W Barresi,RN ten Doeschate,Sompal Kami,0,0,,,,,,bowled,W Barresi
+ball,1,8.6,Netherlands,MJG Rippon,RN ten Doeschate,Sompal Kami,1,0,,,,,,"",""
+ball,1,9.1,Netherlands,MJG Rippon,RN ten Doeschate,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,9.2,Netherlands,RN ten Doeschate,MJG Rippon,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,9.3,Netherlands,MJG Rippon,RN ten Doeschate,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,9.4,Netherlands,MJG Rippon,RN ten Doeschate,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,9.5,Netherlands,MJG Rippon,RN ten Doeschate,LN Rajbanshi,2,0,,,,,,"",""
+ball,1,9.6,Netherlands,MJG Rippon,RN ten Doeschate,LN Rajbanshi,2,0,,,,,,"",""
+ball,1,10.1,Netherlands,RN ten Doeschate,MJG Rippon,P Khadka,2,0,,,,,,"",""
+ball,1,10.2,Netherlands,RN ten Doeschate,MJG Rippon,P Khadka,2,0,,,,,,"",""
+ball,1,10.3,Netherlands,RN ten Doeschate,MJG Rippon,P Khadka,6,0,,,,,,"",""
+ball,1,10.4,Netherlands,RN ten Doeschate,MJG Rippon,P Khadka,1,0,,,,,,"",""
+ball,1,10.5,Netherlands,MJG Rippon,RN ten Doeschate,P Khadka,0,0,,,,,,"",""
+ball,1,10.6,Netherlands,MJG Rippon,RN ten Doeschate,P Khadka,4,0,,,,,,"",""
+ball,1,11.1,Netherlands,RN ten Doeschate,MJG Rippon,B Regmi,0,0,,,,,,"",""
+ball,1,11.2,Netherlands,RN ten Doeschate,MJG Rippon,B Regmi,2,0,,,,,,"",""
+ball,1,11.3,Netherlands,RN ten Doeschate,MJG Rippon,B Regmi,4,0,,,,,,"",""
+ball,1,11.4,Netherlands,RN ten Doeschate,MJG Rippon,B Regmi,1,0,,,,,,"",""
+ball,1,11.5,Netherlands,MJG Rippon,RN ten Doeschate,B Regmi,1,0,,,,,,"",""
+ball,1,11.6,Netherlands,RN ten Doeschate,MJG Rippon,B Regmi,3,0,,,,,,"",""
+ball,1,12.1,Netherlands,RN ten Doeschate,MJG Rippon,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.2,Netherlands,MJG Rippon,RN ten Doeschate,S Lamichhane,0,0,,,,,,run out,RN ten Doeschate
+ball,1,12.3,Netherlands,SA Edwards,MJG Rippon,S Lamichhane,2,0,,,,,,"",""
+ball,1,12.4,Netherlands,SA Edwards,MJG Rippon,S Lamichhane,2,0,,,,,,"",""
+ball,1,12.5,Netherlands,SA Edwards,MJG Rippon,S Lamichhane,4,0,,,,,,"",""
+ball,1,12.6,Netherlands,SA Edwards,MJG Rippon,S Lamichhane,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,SA Edwards,MJG Rippon,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,13.2,Netherlands,MJG Rippon,SA Edwards,LN Rajbanshi,6,0,,,,,,"",""
+ball,1,13.3,Netherlands,MJG Rippon,SA Edwards,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,13.4,Netherlands,SA Edwards,MJG Rippon,LN Rajbanshi,4,0,,,,,,"",""
+ball,1,13.5,Netherlands,SA Edwards,MJG Rippon,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,13.6,Netherlands,MJG Rippon,SA Edwards,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,14.1,Netherlands,MJG Rippon,SA Edwards,Sompal Kami,2,0,,,,,,"",""
+ball,1,14.2,Netherlands,MJG Rippon,SA Edwards,Sompal Kami,1,0,,,,,,"",""
+ball,1,14.3,Netherlands,SA Edwards,MJG Rippon,Sompal Kami,0,0,,,,,,"",""
+ball,1,14.4,Netherlands,SA Edwards,MJG Rippon,Sompal Kami,4,0,,,,,,"",""
+ball,1,14.5,Netherlands,SA Edwards,MJG Rippon,Sompal Kami,1,0,,,,,,"",""
+ball,1,14.6,Netherlands,MJG Rippon,SA Edwards,Sompal Kami,6,0,,,,,,"",""
+ball,1,15.1,Netherlands,SA Edwards,MJG Rippon,S Lamichhane,6,0,,,,,,"",""
+ball,1,15.2,Netherlands,SA Edwards,MJG Rippon,S Lamichhane,6,0,,,,,,"",""
+ball,1,15.3,Netherlands,SA Edwards,MJG Rippon,S Lamichhane,1,0,,,,,,"",""
+ball,1,15.4,Netherlands,MJG Rippon,SA Edwards,S Lamichhane,4,0,,,,,,"",""
+ball,1,15.5,Netherlands,MJG Rippon,SA Edwards,S Lamichhane,0,0,,,,,,"",""
+ball,1,15.6,Netherlands,MJG Rippon,SA Edwards,S Lamichhane,0,0,,,,,,"",""
+ball,1,16.1,Netherlands,SA Edwards,MJG Rippon,Karan KC,1,0,,,,,,"",""
+ball,1,16.2,Netherlands,MJG Rippon,SA Edwards,Karan KC,4,0,,,,,,"",""
+ball,1,16.3,Netherlands,MJG Rippon,SA Edwards,Karan KC,0,0,,,,,,"",""
+ball,1,16.4,Netherlands,MJG Rippon,SA Edwards,Karan KC,2,0,,,,,,"",""

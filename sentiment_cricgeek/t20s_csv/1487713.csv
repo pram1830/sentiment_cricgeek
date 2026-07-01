@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Malawi
+info,gender,female
+info,season,2025
+info,date,2025/06/08
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,21
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Malawi
+info,toss_decision,field
+info,player_of_match,S Nampiina
+info,umpire,F Mutizwa
+info,umpire,S Kintu
+info,reserve_umpire,V Iriho
+info,match_referee,ET Dube
+info,winner,Uganda
+info,winner_runs,50
+info,player,Uganda,J Mbabazi
+info,player,Uganda,E Iloku
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,K Awino
+info,player,Uganda,R Musamali
+info,player,Uganda,S Nampiina
+info,player,Uganda,P Alako
+info,player,Uganda,PE Kulume
+info,player,Uganda,T Oyella
+info,player,Uganda,S Walaza
+info,player,Uganda,S Tino
+info,player,Malawi,LL Dimba
+info,player,Malawi,S Chinawa
+info,player,Malawi,S Kananji
+info,player,Malawi,F Malefula
+info,player,Malawi,P Maziya
+info,player,Malawi,T Luka
+info,player,Malawi,A Alfonso
+info,player,Malawi,E Richard
+info,player,Malawi,C Bwanali
+info,player,Malawi,L Malino
+info,player,Malawi,E Kabwere
+info,registry,people,A Alfonso,5088c217
+info,registry,people,C Bwanali,b26a30f9
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,E Kabwere,b6358ee8
+info,registry,people,E Richard,8d76816e
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Malefula,6a405883
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,L Malino,7a81836e
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Maziya,4f85f02c
+info,registry,people,PE Kulume,bb1a5f8a
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,S Kintu,ff387f93
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Tino,e2a702e3
+info,registry,people,S Walaza,f67ea6d2
+info,registry,people,T Luka,44e008a5
+info,registry,people,T Oyella,5f03af45
+info,registry,people,V Iriho,2853eafb
+ball,1,0.1,Uganda,J Mbabazi,E Iloku,S Kananji,1,0,,,,,,"",""
+ball,1,0.2,Uganda,E Iloku,J Mbabazi,S Kananji,0,0,,,,,,run out,J Mbabazi
+ball,1,0.3,Uganda,E Iloku,I Nakisuuyi,S Kananji,0,0,,,,,,"",""
+ball,1,0.4,Uganda,E Iloku,I Nakisuuyi,S Kananji,0,0,,,,,,"",""
+ball,1,0.5,Uganda,E Iloku,I Nakisuuyi,S Kananji,0,0,,,,,,"",""
+ball,1,0.6,Uganda,E Iloku,I Nakisuuyi,S Kananji,2,0,,,,,,"",""
+ball,1,1.1,Uganda,I Nakisuuyi,E Iloku,E Kabwere,1,0,,,,,,"",""
+ball,1,1.2,Uganda,E Iloku,I Nakisuuyi,E Kabwere,0,1,,,,1,,"",""
+ball,1,1.3,Uganda,I Nakisuuyi,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,1.4,Uganda,I Nakisuuyi,E Iloku,E Kabwere,0,0,,,,,,run out,I Nakisuuyi
+ball,1,1.5,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,1.6,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,2.1,Uganda,E Iloku,K Awino,S Kananji,1,0,,,,,,"",""
+ball,1,2.2,Uganda,K Awino,E Iloku,S Kananji,0,1,1,,,,,"",""
+ball,1,2.3,Uganda,K Awino,E Iloku,S Kananji,0,0,,,,,,"",""
+ball,1,2.4,Uganda,K Awino,E Iloku,S Kananji,0,0,,,,,,"",""
+ball,1,2.5,Uganda,K Awino,E Iloku,S Kananji,1,0,,,,,,"",""
+ball,1,2.6,Uganda,E Iloku,K Awino,S Kananji,0,0,,,,,,"",""
+ball,1,2.7,Uganda,E Iloku,K Awino,S Kananji,0,0,,,,,,"",""
+ball,1,3.1,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,3.2,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,3.3,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,3.4,Uganda,K Awino,E Iloku,E Kabwere,2,0,,,,,,"",""
+ball,1,3.5,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,3.6,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,4.1,Uganda,E Iloku,K Awino,S Kananji,0,1,,,1,,,"",""
+ball,1,4.2,Uganda,K Awino,E Iloku,S Kananji,0,0,,,,,,"",""
+ball,1,4.3,Uganda,K Awino,E Iloku,S Kananji,1,0,,,,,,"",""
+ball,1,4.4,Uganda,E Iloku,K Awino,S Kananji,0,0,,,,,,"",""
+ball,1,4.5,Uganda,E Iloku,K Awino,S Kananji,1,0,,,,,,"",""
+ball,1,4.6,Uganda,K Awino,E Iloku,S Kananji,0,0,,,,,,"",""
+ball,1,5.1,Uganda,E Iloku,K Awino,E Kabwere,0,0,,,,,,"",""
+ball,1,5.2,Uganda,E Iloku,K Awino,E Kabwere,0,0,,,,,,"",""
+ball,1,5.3,Uganda,E Iloku,K Awino,E Kabwere,1,0,,,,,,"",""
+ball,1,5.4,Uganda,K Awino,E Iloku,E Kabwere,1,0,,,,,,"",""
+ball,1,5.5,Uganda,E Iloku,K Awino,E Kabwere,1,0,,,,,,"",""
+ball,1,5.6,Uganda,K Awino,E Iloku,E Kabwere,0,0,,,,,,"",""
+ball,1,6.1,Uganda,E Iloku,K Awino,LL Dimba,1,0,,,,,,"",""
+ball,1,6.2,Uganda,K Awino,E Iloku,LL Dimba,0,0,,,,,,"",""
+ball,1,6.3,Uganda,K Awino,E Iloku,LL Dimba,2,0,,,,,,"",""
+ball,1,6.4,Uganda,K Awino,E Iloku,LL Dimba,1,0,,,,,,"",""
+ball,1,6.5,Uganda,E Iloku,K Awino,LL Dimba,0,0,,,,,,"",""
+ball,1,6.6,Uganda,E Iloku,K Awino,LL Dimba,0,0,,,,,,"",""
+ball,1,7.1,Uganda,K Awino,E Iloku,P Maziya,1,0,,,,,,"",""
+ball,1,7.2,Uganda,E Iloku,K Awino,P Maziya,2,0,,,,,,"",""
+ball,1,7.3,Uganda,E Iloku,K Awino,P Maziya,1,0,,,,,,"",""
+ball,1,7.4,Uganda,K Awino,E Iloku,P Maziya,0,0,,,,,,"",""
+ball,1,7.5,Uganda,K Awino,E Iloku,P Maziya,2,0,,,,,,"",""
+ball,1,7.6,Uganda,K Awino,E Iloku,P Maziya,2,1,,1,,,,"",""
+ball,1,7.7,Uganda,K Awino,E Iloku,P Maziya,2,0,,,,,,"",""
+ball,1,8.1,Uganda,E Iloku,K Awino,LL Dimba,1,0,,,,,,"",""
+ball,1,8.2,Uganda,K Awino,E Iloku,LL Dimba,1,0,,,,,,"",""
+ball,1,8.3,Uganda,E Iloku,K Awino,LL Dimba,0,0,,,,,,"",""
+ball,1,8.4,Uganda,E Iloku,K Awino,LL Dimba,0,0,,,,,,bowled,E Iloku
+ball,1,8.5,Uganda,R Musamali,K Awino,LL Dimba,1,0,,,,,,"",""
+ball,1,8.6,Uganda,K Awino,R Musamali,LL Dimba,1,0,,,,,,"",""
+ball,1,9.1,Uganda,K Awino,R Musamali,P Maziya,0,0,,,,,,"",""
+ball,1,9.2,Uganda,K Awino,R Musamali,P Maziya,1,0,,,,,,"",""
+ball,1,9.3,Uganda,R Musamali,K Awino,P Maziya,0,2,2,,,,,"",""
+ball,1,9.4,Uganda,K Awino,R Musamali,P Maziya,0,0,,,,,,"",""
+ball,1,9.5,Uganda,K Awino,R Musamali,P Maziya,2,0,,,,,,"",""
+ball,1,9.6,Uganda,K Awino,R Musamali,P Maziya,0,0,,,,,,"",""
+ball,1,9.7,Uganda,K Awino,R Musamali,P Maziya,1,0,,,,,,"",""
+ball,1,10.1,Uganda,K Awino,R Musamali,LL Dimba,0,0,,,,,,"",""
+ball,1,10.2,Uganda,K Awino,R Musamali,LL Dimba,1,0,,,,,,"",""
+ball,1,10.3,Uganda,R Musamali,K Awino,LL Dimba,1,0,,,,,,"",""
+ball,1,10.4,Uganda,K Awino,R Musamali,LL Dimba,0,0,,,,,,"",""
+ball,1,10.5,Uganda,K Awino,R Musamali,LL Dimba,1,0,,,,,,"",""
+ball,1,10.6,Uganda,R Musamali,K Awino,LL Dimba,0,0,,,,,,"",""
+ball,1,11.1,Uganda,K Awino,R Musamali,P Maziya,0,0,,,,,,"",""
+ball,1,11.2,Uganda,K Awino,R Musamali,P Maziya,1,0,,,,,,"",""
+ball,1,11.3,Uganda,R Musamali,K Awino,P Maziya,0,0,,,,,,"",""
+ball,1,11.4,Uganda,R Musamali,K Awino,P Maziya,1,0,,,,,,"",""
+ball,1,11.5,Uganda,K Awino,R Musamali,P Maziya,0,0,,,,,,"",""
+ball,1,11.6,Uganda,K Awino,R Musamali,P Maziya,4,0,,,,,,"",""
+ball,1,12.1,Uganda,R Musamali,K Awino,LL Dimba,2,0,,,,,,"",""
+ball,1,12.2,Uganda,R Musamali,K Awino,LL Dimba,0,0,,,,,,"",""
+ball,1,12.3,Uganda,R Musamali,K Awino,LL Dimba,1,0,,,,,,"",""
+ball,1,12.4,Uganda,K Awino,R Musamali,LL Dimba,0,0,,,,,,"",""
+ball,1,12.5,Uganda,K Awino,R Musamali,LL Dimba,1,0,,,,,,"",""
+ball,1,12.6,Uganda,R Musamali,K Awino,LL Dimba,1,0,,,,,,"",""
+ball,1,13.1,Uganda,R Musamali,K Awino,C Bwanali,2,0,,,,,,"",""
+ball,1,13.2,Uganda,R Musamali,K Awino,C Bwanali,2,0,,,,,,"",""
+ball,1,13.3,Uganda,R Musamali,K Awino,C Bwanali,2,0,,,,,,"",""
+ball,1,13.4,Uganda,R Musamali,K Awino,C Bwanali,0,0,,,,,,"",""
+ball,1,13.5,Uganda,R Musamali,K Awino,C Bwanali,0,0,,,,,,"",""
+ball,1,13.6,Uganda,R Musamali,K Awino,C Bwanali,1,0,,,,,,"",""
+ball,1,14.1,Uganda,R Musamali,K Awino,L Malino,2,0,,,,,,"",""
+ball,1,14.2,Uganda,R Musamali,K Awino,L Malino,0,0,,,,,,"",""
+ball,1,14.3,Uganda,R Musamali,K Awino,L Malino,0,0,,,,,,"",""
+ball,1,14.4,Uganda,R Musamali,K Awino,L Malino,1,0,,,,,,"",""
+ball,1,14.5,Uganda,K Awino,R Musamali,L Malino,0,0,,,,,,"",""
+ball,1,14.6,Uganda,K Awino,R Musamali,L Malino,1,0,,,,,,"",""
+ball,1,15.1,Uganda,K Awino,R Musamali,C Bwanali,0,0,,,,,,"",""
+ball,1,15.2,Uganda,K Awino,R Musamali,C Bwanali,1,0,,,,,,"",""
+ball,1,15.3,Uganda,R Musamali,K Awino,C Bwanali,2,0,,,,,,"",""
+ball,1,15.4,Uganda,R Musamali,K Awino,C Bwanali,1,0,,,,,,"",""
+ball,1,15.5,Uganda,K Awino,R Musamali,C Bwanali,0,0,,,,,,stumped,K Awino
+ball,1,15.6,Uganda,S Nampiina,R Musamali,C Bwanali,0,0,,,,,,"",""
+ball,1,16.1,Uganda,R Musamali,S Nampiina,L Malino,0,0,,,,,,"",""
+ball,1,16.2,Uganda,R Musamali,S Nampiina,L Malino,1,0,,,,,,"",""
+ball,1,16.3,Uganda,S Nampiina,R Musamali,L Malino,2,0,,,,,,"",""
+ball,1,16.4,Uganda,S Nampiina,R Musamali,L Malino,0,0,,,,,,"",""
+ball,1,16.5,Uganda,S Nampiina,R Musamali,L Malino,0,1,1,,,,,"",""
+ball,1,16.6,Uganda,S Nampiina,R Musamali,L Malino,0,0,,,,,,caught,S Nampiina
+ball,1,16.7,Uganda,P Alako,R Musamali,L Malino,0,0,,,,,,"",""
+ball,1,17.1,Uganda,R Musamali,P Alako,C Bwanali,0,1,1,,,,,"",""
+ball,1,17.2,Uganda,R Musamali,P Alako,C Bwanali,1,0,,,,,,"",""
+ball,1,17.3,Uganda,P Alako,R Musamali,C Bwanali,0,0,,,,,,"",""
+ball,1,17.4,Uganda,P Alako,R Musamali,C Bwanali,0,1,1,,,,,"",""
+ball,1,17.5,Uganda,P Alako,R Musamali,C Bwanali,1,0,,,,,,"",""
+ball,1,17.6,Uganda,R Musamali,P Alako,C Bwanali,1,0,,,,,,"",""
+ball,1,17.7,Uganda,P Alako,R Musamali,C Bwanali,2,0,,,,,,"",""
+ball,1,17.8,Uganda,P Alako,R Musamali,C Bwanali,0,0,,,,,,"",""
+ball,1,18.1,Uganda,R Musamali,P Alako,L Malino,4,0,,,,,,"",""
+ball,1,18.2,Uganda,R Musamali,P Alako,L Malino,1,0,,,,,,"",""
+ball,1,18.3,Uganda,P Alako,R Musamali,L Malino,1,0,,,,,,"",""
+ball,1,18.4,Uganda,R Musamali,P Alako,L Malino,0,0,,,,,,caught,R Musamali
+ball,1,18.5,Uganda,PE Kulume,P Alako,L Malino,0,0,,,,,,"",""
+ball,1,18.6,Uganda,PE Kulume,P Alako,L Malino,0,0,,,,,,"",""
+ball,1,19.1,Uganda,P Alako,PE Kulume,P Maziya,4,0,,,,,,"",""
+ball,1,19.2,Uganda,P Alako,PE Kulume,P Maziya,6,0,,,,,,"",""
+ball,1,19.3,Uganda,P Alako,PE Kulume,P Maziya,2,0,,,,,,"",""
+ball,1,19.4,Uganda,P Alako,PE Kulume,P Maziya,0,0,,,,,,"",""
+ball,1,19.5,Uganda,P Alako,PE Kulume,P Maziya,2,0,,,,,,"",""
+ball,1,19.6,Uganda,P Alako,PE Kulume,P Maziya,2,0,,,,,,"",""
+ball,2,0.1,Malawi,LL Dimba,S Chinawa,S Walaza,0,0,,,,,,"",""
+ball,2,0.2,Malawi,LL Dimba,S Chinawa,S Walaza,0,0,,,,,,"",""
+ball,2,0.3,Malawi,LL Dimba,S Chinawa,S Walaza,0,0,,,,,,"",""
+ball,2,0.4,Malawi,LL Dimba,S Chinawa,S Walaza,0,0,,,,,,"",""
+ball,2,0.5,Malawi,LL Dimba,S Chinawa,S Walaza,0,0,,,,,,"",""
+ball,2,0.6,Malawi,LL Dimba,S Chinawa,S Walaza,4,0,,,,,,"",""
+ball,2,1.1,Malawi,S Chinawa,LL Dimba,PE Kulume,0,0,,,,,,"",""
+ball,2,1.2,Malawi,S Chinawa,LL Dimba,PE Kulume,0,0,,,,,,"",""
+ball,2,1.3,Malawi,S Chinawa,LL Dimba,PE Kulume,0,0,,,,,,"",""
+ball,2,1.4,Malawi,S Chinawa,LL Dimba,PE Kulume,2,0,,,,,,"",""
+ball,2,1.5,Malawi,S Chinawa,LL Dimba,PE Kulume,0,0,,,,,,bowled,S Chinawa
+ball,2,1.6,Malawi,S Kananji,LL Dimba,PE Kulume,0,0,,,,,,"",""
+ball,2,2.1,Malawi,LL Dimba,S Kananji,S Walaza,1,0,,,,,,"",""
+ball,2,2.2,Malawi,S Kananji,LL Dimba,S Walaza,0,0,,,,,,"",""
+ball,2,2.3,Malawi,S Kananji,LL Dimba,S Walaza,0,0,,,,,,caught,S Kananji
+ball,2,2.4,Malawi,F Malefula,LL Dimba,S Walaza,1,0,,,,,,"",""
+ball,2,2.5,Malawi,LL Dimba,F Malefula,S Walaza,0,0,,,,,,"",""
+ball,2,2.6,Malawi,LL Dimba,F Malefula,S Walaza,0,0,,,,,,"",""
+ball,2,3.1,Malawi,F Malefula,LL Dimba,PE Kulume,1,0,,,,,,"",""
+ball,2,3.2,Malawi,LL Dimba,F Malefula,PE Kulume,0,0,,,,,,"",""
+ball,2,3.3,Malawi,LL Dimba,F Malefula,PE Kulume,4,0,,,,,,"",""
+ball,2,3.4,Malawi,LL Dimba,F Malefula,PE Kulume,0,0,,,,,,"",""
+ball,2,3.5,Malawi,LL Dimba,F Malefula,PE Kulume,0,0,,,,,,"",""
+ball,2,3.6,Malawi,LL Dimba,F Malefula,PE Kulume,0,0,,,,,,"",""
+ball,2,4.1,Malawi,F Malefula,LL Dimba,S Tino,0,1,1,,,,,"",""
+ball,2,4.2,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,4.3,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,4.4,Malawi,F Malefula,LL Dimba,S Tino,1,0,,,,,,"",""
+ball,2,4.5,Malawi,LL Dimba,F Malefula,S Tino,0,0,,,,,,"",""
+ball,2,4.6,Malawi,LL Dimba,F Malefula,S Tino,0,0,,,,,,"",""
+ball,2,4.7,Malawi,LL Dimba,F Malefula,S Tino,1,0,,,,,,"",""
+ball,2,5.1,Malawi,LL Dimba,F Malefula,J Mbabazi,0,0,,,,,,"",""
+ball,2,5.2,Malawi,LL Dimba,F Malefula,J Mbabazi,0,0,,,,,,"",""
+ball,2,5.3,Malawi,LL Dimba,F Malefula,J Mbabazi,0,0,,,,,,"",""
+ball,2,5.4,Malawi,LL Dimba,F Malefula,J Mbabazi,0,0,,,,,,"",""
+ball,2,5.5,Malawi,LL Dimba,F Malefula,J Mbabazi,4,0,,,,,,"",""
+ball,2,5.6,Malawi,LL Dimba,F Malefula,J Mbabazi,0,0,,,,,,"",""
+ball,2,6.1,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,6.2,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,6.3,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,6.4,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,6.5,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,6.6,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,7.1,Malawi,LL Dimba,F Malefula,T Oyella,0,0,,,,,,"",""
+ball,2,7.2,Malawi,LL Dimba,F Malefula,T Oyella,0,0,,,,,,"",""
+ball,2,7.3,Malawi,LL Dimba,F Malefula,T Oyella,2,0,,,,,,"",""
+ball,2,7.4,Malawi,LL Dimba,F Malefula,T Oyella,0,0,,,,,,"",""
+ball,2,7.5,Malawi,LL Dimba,F Malefula,T Oyella,0,0,,,,,,"",""
+ball,2,7.6,Malawi,LL Dimba,F Malefula,T Oyella,1,0,,,,,,"",""
+ball,2,8.1,Malawi,LL Dimba,F Malefula,S Tino,1,0,,,,,,"",""
+ball,2,8.2,Malawi,F Malefula,LL Dimba,S Tino,1,0,,,,,,"",""
+ball,2,8.3,Malawi,LL Dimba,F Malefula,S Tino,0,1,1,,,,,"",""
+ball,2,8.4,Malawi,LL Dimba,F Malefula,S Tino,4,0,,,,,,"",""
+ball,2,8.5,Malawi,LL Dimba,F Malefula,S Tino,1,0,,,,,,"",""
+ball,2,8.6,Malawi,F Malefula,LL Dimba,S Tino,0,0,,,,,,"",""
+ball,2,8.7,Malawi,F Malefula,LL Dimba,S Tino,2,0,,,,,,"",""
+ball,2,9.1,Malawi,LL Dimba,F Malefula,T Oyella,0,0,,,,,,"",""
+ball,2,9.2,Malawi,LL Dimba,F Malefula,T Oyella,4,0,,,,,,"",""
+ball,2,9.3,Malawi,LL Dimba,F Malefula,T Oyella,1,0,,,,,,"",""
+ball,2,9.4,Malawi,F Malefula,LL Dimba,T Oyella,1,0,,,,,,"",""
+ball,2,9.5,Malawi,LL Dimba,F Malefula,T Oyella,1,0,,,,,,"",""
+ball,2,9.6,Malawi,F Malefula,LL Dimba,T Oyella,0,0,,,,,,caught,F Malefula
+ball,2,10.1,Malawi,LL Dimba,P Maziya,S Nampiina,0,0,,,,,,caught,LL Dimba
+ball,2,10.2,Malawi,T Luka,P Maziya,S Nampiina,0,1,1,,,,,"",""
+ball,2,10.3,Malawi,T Luka,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,10.4,Malawi,T Luka,P Maziya,S Nampiina,0,0,,,,,,caught and bowled,T Luka
+ball,2,10.5,Malawi,A Alfonso,P Maziya,S Nampiina,0,0,,,,,,lbw,A Alfonso
+ball,2,10.6,Malawi,E Richard,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,10.7,Malawi,E Richard,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,11.1,Malawi,P Maziya,E Richard,R Musamali,0,0,,,,,,"",""
+ball,2,11.2,Malawi,P Maziya,E Richard,R Musamali,0,0,,,,,,"",""
+ball,2,11.3,Malawi,P Maziya,E Richard,R Musamali,0,0,,,,,,"",""
+ball,2,11.4,Malawi,P Maziya,E Richard,R Musamali,1,0,,,,,,"",""
+ball,2,11.5,Malawi,E Richard,P Maziya,R Musamali,0,0,,,,,,"",""
+ball,2,11.6,Malawi,E Richard,P Maziya,R Musamali,0,0,,,,,,"",""
+ball,2,12.1,Malawi,P Maziya,E Richard,S Nampiina,2,0,,,,,,"",""
+ball,2,12.2,Malawi,P Maziya,E Richard,S Nampiina,1,0,,,,,,"",""
+ball,2,12.3,Malawi,E Richard,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,12.4,Malawi,E Richard,P Maziya,S Nampiina,0,0,,,,,,caught,E Richard
+ball,2,12.5,Malawi,C Bwanali,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,12.6,Malawi,C Bwanali,P Maziya,S Nampiina,0,0,,,,,,run out,C Bwanali
+ball,2,13.1,Malawi,P Maziya,L Malino,R Musamali,0,0,,,,,,"",""
+ball,2,13.2,Malawi,P Maziya,L Malino,R Musamali,0,0,,,,,,"",""
+ball,2,13.3,Malawi,P Maziya,L Malino,R Musamali,1,0,,,,,,"",""
+ball,2,13.4,Malawi,L Malino,P Maziya,R Musamali,0,0,,,,,,"",""
+ball,2,13.5,Malawi,L Malino,P Maziya,R Musamali,0,0,,,,,,"",""
+ball,2,13.6,Malawi,L Malino,P Maziya,R Musamali,1,0,,,,,,"",""
+ball,2,14.1,Malawi,L Malino,P Maziya,T Oyella,0,0,,,,,,"",""
+ball,2,14.2,Malawi,L Malino,P Maziya,T Oyella,0,0,,,,,,"",""
+ball,2,14.3,Malawi,L Malino,P Maziya,T Oyella,0,1,,,,1,,"",""
+ball,2,14.4,Malawi,P Maziya,L Malino,T Oyella,0,0,,,,,,"",""
+ball,2,14.5,Malawi,P Maziya,L Malino,T Oyella,0,0,,,,,,"",""
+ball,2,14.6,Malawi,P Maziya,L Malino,T Oyella,0,0,,,,,,"",""
+ball,2,15.1,Malawi,L Malino,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,15.2,Malawi,L Malino,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,15.3,Malawi,L Malino,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,15.4,Malawi,L Malino,P Maziya,S Nampiina,0,0,,,,,,"",""
+ball,2,15.5,Malawi,L Malino,P Maziya,S Nampiina,1,0,,,,,,"",""
+ball,2,15.6,Malawi,P Maziya,L Malino,S Nampiina,1,0,,,,,,"",""
+ball,2,16.1,Malawi,P Maziya,L Malino,T Oyella,0,0,,,,,,"",""
+ball,2,16.2,Malawi,P Maziya,L Malino,T Oyella,1,0,,,,,,"",""
+ball,2,16.3,Malawi,L Malino,P Maziya,T Oyella,0,0,,,,,,"",""
+ball,2,16.4,Malawi,L Malino,P Maziya,T Oyella,0,0,,,,,,"",""
+ball,2,16.5,Malawi,L Malino,P Maziya,T Oyella,0,0,,,,,,"",""
+ball,2,16.6,Malawi,L Malino,P Maziya,T Oyella,0,0,,,,,,"",""
+ball,2,17.1,Malawi,P Maziya,L Malino,S Nampiina,0,0,,,,,,bowled,P Maziya
+ball,2,17.2,Malawi,E Kabwere,L Malino,S Nampiina,0,0,,,,,,"",""
+ball,2,17.3,Malawi,E Kabwere,L Malino,S Nampiina,1,0,,,,,,"",""
+ball,2,17.4,Malawi,L Malino,E Kabwere,S Nampiina,0,0,,,,,,"",""
+ball,2,17.5,Malawi,L Malino,E Kabwere,S Nampiina,0,1,1,,,,,"",""
+ball,2,17.6,Malawi,L Malino,E Kabwere,S Nampiina,0,0,,,,,,"",""
+ball,2,17.7,Malawi,L Malino,E Kabwere,S Nampiina,0,0,,,,,,caught,L Malino

@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Australia
+info,gender,male
+info,season,2021
+info,date,2021/08/06
+info,event,Australia tour of Bangladesh
+info,match_number,3
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Mahmudullah
+info,umpire,Gazi Sohel
+info,umpire,Sharfuddoula
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,Masudur Rahman
+info,match_referee,Neeyamur Rashid
+info,winner,Bangladesh
+info,winner_runs,10
+info,player,Bangladesh,Mohammad Naim
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Nurul Hasan
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Nasum Ahmed
+info,player,Australia,BR McDermott
+info,player,Australia,MS Wade
+info,player,Australia,MR Marsh
+info,player,Australia,MC Henriques
+info,player,Australia,AT Carey
+info,player,Australia,DT Christian
+info,player,Australia,AJ Turner
+info,player,Australia,AC Agar
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Zampa,14f96089
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AT Carey,69d03465
+info,registry,people,Afif Hossain,37138918
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tanvir Ahmed,ea2df1f1
+ball,1,0.1,Bangladesh,Mohammad Naim,Soumya Sarkar,AJ Turner,1,0,,,,,,"",""
+ball,1,0.2,Bangladesh,Soumya Sarkar,Mohammad Naim,AJ Turner,0,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Soumya Sarkar,Mohammad Naim,AJ Turner,0,0,,,,,,"",""
+ball,1,0.4,Bangladesh,Soumya Sarkar,Mohammad Naim,AJ Turner,0,0,,,,,,"",""
+ball,1,0.5,Bangladesh,Soumya Sarkar,Mohammad Naim,AJ Turner,0,0,,,,,,"",""
+ball,1,0.6,Bangladesh,Soumya Sarkar,Mohammad Naim,AJ Turner,1,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.2,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.3,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.5,Bangladesh,Soumya Sarkar,Mohammad Naim,JR Hazlewood,1,0,,,,,,"",""
+ball,1,1.6,Bangladesh,Mohammad Naim,Soumya Sarkar,JR Hazlewood,0,0,,,,,,caught,Mohammad Naim
+ball,1,2.1,Bangladesh,Soumya Sarkar,Shakib Al Hasan,A Zampa,0,0,,,,,,lbw,Soumya Sarkar
+ball,1,2.2,Bangladesh,Mahmudullah,Shakib Al Hasan,A Zampa,0,0,,,,,,"",""
+ball,1,2.3,Bangladesh,Mahmudullah,Shakib Al Hasan,A Zampa,2,0,,,,,,"",""
+ball,1,2.4,Bangladesh,Mahmudullah,Shakib Al Hasan,A Zampa,0,1,1,,,,,"",""
+ball,1,2.5,Bangladesh,Mahmudullah,Shakib Al Hasan,A Zampa,1,0,,,,,,"",""
+ball,1,2.6,Bangladesh,Shakib Al Hasan,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,2.7,Bangladesh,Mahmudullah,Shakib Al Hasan,A Zampa,1,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Mahmudullah,Shakib Al Hasan,JR Hazlewood,1,0,,,,,,"",""
+ball,1,3.2,Bangladesh,Shakib Al Hasan,Mahmudullah,JR Hazlewood,0,1,,,,1,,"",""
+ball,1,3.3,Bangladesh,Mahmudullah,Shakib Al Hasan,JR Hazlewood,1,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Shakib Al Hasan,Mahmudullah,JR Hazlewood,0,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Shakib Al Hasan,Mahmudullah,JR Hazlewood,1,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Mahmudullah,Shakib Al Hasan,JR Hazlewood,2,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Shakib Al Hasan,Mahmudullah,AC Agar,4,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Shakib Al Hasan,Mahmudullah,AC Agar,1,0,,,,,,"",""
+ball,1,4.3,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,0,0,,,,,,"",""
+ball,1,4.4,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,0,0,,,,,,"",""
+ball,1,4.5,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,0,0,,,,,,"",""
+ball,1,4.6,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,0,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Shakib Al Hasan,Mahmudullah,NT Ellis,1,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Mahmudullah,Shakib Al Hasan,NT Ellis,0,0,,,,,,"",""
+ball,1,5.3,Bangladesh,Mahmudullah,Shakib Al Hasan,NT Ellis,1,0,,,,,,"",""
+ball,1,5.4,Bangladesh,Shakib Al Hasan,Mahmudullah,NT Ellis,2,0,,,,,,"",""
+ball,1,5.5,Bangladesh,Shakib Al Hasan,Mahmudullah,NT Ellis,0,0,,,,,,"",""
+ball,1,5.6,Bangladesh,Shakib Al Hasan,Mahmudullah,NT Ellis,4,0,,,,,,"",""
+ball,1,6.1,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,0,0,,,,,,"",""
+ball,1,6.2,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,1,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Shakib Al Hasan,Mahmudullah,AC Agar,1,0,,,,,,"",""
+ball,1,6.4,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,0,0,,,,,,"",""
+ball,1,6.5,Bangladesh,Mahmudullah,Shakib Al Hasan,AC Agar,1,0,,,,,,"",""
+ball,1,6.6,Bangladesh,Shakib Al Hasan,Mahmudullah,AC Agar,1,0,,,,,,"",""
+ball,1,7.1,Bangladesh,Shakib Al Hasan,Mahmudullah,MR Marsh,1,0,,,,,,"",""
+ball,1,7.2,Bangladesh,Mahmudullah,Shakib Al Hasan,MR Marsh,4,0,,,,,,"",""
+ball,1,7.3,Bangladesh,Mahmudullah,Shakib Al Hasan,MR Marsh,1,0,,,,,,"",""
+ball,1,7.4,Bangladesh,Shakib Al Hasan,Mahmudullah,MR Marsh,4,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Shakib Al Hasan,Mahmudullah,MR Marsh,4,0,,,,,,"",""
+ball,1,7.6,Bangladesh,Shakib Al Hasan,Mahmudullah,MR Marsh,1,0,,,,,,"",""
+ball,1,8.1,Bangladesh,Shakib Al Hasan,Mahmudullah,A Zampa,0,0,,,,,,caught,Shakib Al Hasan
+ball,1,8.2,Bangladesh,Mahmudullah,Afif Hossain,A Zampa,1,0,,,,,,"",""
+ball,1,8.3,Bangladesh,Afif Hossain,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Mahmudullah,Afif Hossain,A Zampa,0,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Mahmudullah,Afif Hossain,A Zampa,1,0,,,,,,"",""
+ball,1,8.6,Bangladesh,Afif Hossain,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,9.1,Bangladesh,Mahmudullah,Afif Hossain,AC Agar,0,1,,,,1,,"",""
+ball,1,9.2,Bangladesh,Afif Hossain,Mahmudullah,AC Agar,0,0,,,,,,"",""
+ball,1,9.3,Bangladesh,Afif Hossain,Mahmudullah,AC Agar,6,0,,,,,,"",""
+ball,1,9.4,Bangladesh,Afif Hossain,Mahmudullah,AC Agar,0,1,1,,,,,"",""
+ball,1,9.5,Bangladesh,Afif Hossain,Mahmudullah,AC Agar,0,0,,,,,,"",""
+ball,1,9.6,Bangladesh,Afif Hossain,Mahmudullah,AC Agar,2,0,,,,,,"",""
+ball,1,9.7,Bangladesh,Afif Hossain,Mahmudullah,AC Agar,0,0,,,,,,"",""
+ball,1,10.1,Bangladesh,Mahmudullah,Afif Hossain,NT Ellis,1,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Afif Hossain,Mahmudullah,NT Ellis,1,0,,,,,,"",""
+ball,1,10.3,Bangladesh,Mahmudullah,Afif Hossain,NT Ellis,1,0,,,,,,"",""
+ball,1,10.4,Bangladesh,Afif Hossain,Mahmudullah,NT Ellis,2,0,,,,,,"",""
+ball,1,10.5,Bangladesh,Afif Hossain,Mahmudullah,NT Ellis,4,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Afif Hossain,Mahmudullah,NT Ellis,2,0,,,,,,"",""
+ball,1,11.1,Bangladesh,Mahmudullah,Afif Hossain,DT Christian,0,0,,,,,,"",""
+ball,1,11.2,Bangladesh,Mahmudullah,Afif Hossain,DT Christian,2,0,,,,,,"",""
+ball,1,11.3,Bangladesh,Mahmudullah,Afif Hossain,DT Christian,1,0,,,,,,"",""
+ball,1,11.4,Bangladesh,Afif Hossain,Mahmudullah,DT Christian,1,0,,,,,,"",""
+ball,1,11.5,Bangladesh,Mahmudullah,Afif Hossain,DT Christian,0,1,,,,1,,"",""
+ball,1,11.6,Bangladesh,Afif Hossain,Mahmudullah,DT Christian,0,0,,,,,,run out,Afif Hossain
+ball,1,12.1,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,12.2,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,12.3,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,12.4,Bangladesh,Mahmudullah,Shamim Hossain,A Zampa,1,0,,,,,,"",""
+ball,1,12.5,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,12.6,Bangladesh,Shamim Hossain,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,13.1,Bangladesh,Shamim Hossain,Mahmudullah,JR Hazlewood,1,0,,,,,,"",""
+ball,1,13.2,Bangladesh,Mahmudullah,Shamim Hossain,JR Hazlewood,1,0,,,,,,"",""
+ball,1,13.3,Bangladesh,Shamim Hossain,Mahmudullah,JR Hazlewood,0,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Shamim Hossain,Mahmudullah,JR Hazlewood,0,0,,,,,,caught,Shamim Hossain
+ball,1,13.5,Bangladesh,Mahmudullah,Nurul Hasan,JR Hazlewood,0,0,,,,,,"",""
+ball,1,13.6,Bangladesh,Mahmudullah,Nurul Hasan,JR Hazlewood,0,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Nurul Hasan,Mahmudullah,A Zampa,1,0,,,,,,"",""
+ball,1,14.2,Bangladesh,Mahmudullah,Nurul Hasan,A Zampa,1,0,,,,,,"",""
+ball,1,14.3,Bangladesh,Nurul Hasan,Mahmudullah,A Zampa,3,0,,,,,,"",""
+ball,1,14.4,Bangladesh,Mahmudullah,Nurul Hasan,A Zampa,1,0,,,,,,"",""
+ball,1,14.5,Bangladesh,Nurul Hasan,Mahmudullah,A Zampa,6,0,,,,,,"",""
+ball,1,14.6,Bangladesh,Nurul Hasan,Mahmudullah,A Zampa,0,0,,,,,,"",""
+ball,1,15.1,Bangladesh,Mahmudullah,Nurul Hasan,DT Christian,1,0,,,,,,"",""
+ball,1,15.2,Bangladesh,Nurul Hasan,Mahmudullah,DT Christian,1,0,,,,,,"",""
+ball,1,15.3,Bangladesh,Mahmudullah,Nurul Hasan,DT Christian,2,0,,,,,,"",""
+ball,1,15.4,Bangladesh,Mahmudullah,Nurul Hasan,DT Christian,0,0,,,,,,run out,Nurul Hasan
+ball,1,15.5,Bangladesh,Mahedi Hasan,Mahmudullah,DT Christian,0,0,,,,,,"",""
+ball,1,15.6,Bangladesh,Mahedi Hasan,Mahmudullah,DT Christian,1,0,,,,,,"",""
+ball,1,16.1,Bangladesh,Mahedi Hasan,Mahmudullah,AC Agar,1,0,,,,,,"",""
+ball,1,16.2,Bangladesh,Mahmudullah,Mahedi Hasan,AC Agar,2,0,,,,,,"",""
+ball,1,16.3,Bangladesh,Mahmudullah,Mahedi Hasan,AC Agar,1,0,,,,,,"",""
+ball,1,16.4,Bangladesh,Mahedi Hasan,Mahmudullah,AC Agar,0,1,,,,1,,"",""
+ball,1,16.5,Bangladesh,Mahmudullah,Mahedi Hasan,AC Agar,1,0,,,,,,"",""
+ball,1,16.6,Bangladesh,Mahedi Hasan,Mahmudullah,AC Agar,0,0,,,,,,"",""
+ball,1,17.1,Bangladesh,Mahmudullah,Mahedi Hasan,NT Ellis,2,0,,,,,,"",""
+ball,1,17.2,Bangladesh,Mahmudullah,Mahedi Hasan,NT Ellis,0,0,,,,,,"",""
+ball,1,17.3,Bangladesh,Mahmudullah,Mahedi Hasan,NT Ellis,1,0,,,,,,"",""
+ball,1,17.4,Bangladesh,Mahedi Hasan,Mahmudullah,NT Ellis,1,0,,,,,,"",""
+ball,1,17.5,Bangladesh,Mahmudullah,Mahedi Hasan,NT Ellis,2,0,,,,,,"",""
+ball,1,17.6,Bangladesh,Mahmudullah,Mahedi Hasan,NT Ellis,4,0,,,,,,"",""
+ball,1,18.1,Bangladesh,Mahedi Hasan,Mahmudullah,JR Hazlewood,1,0,,,,,,"",""
+ball,1,18.2,Bangladesh,Mahmudullah,Mahedi Hasan,JR Hazlewood,0,1,,1,,,,"",""
+ball,1,18.3,Bangladesh,Mahmudullah,Mahedi Hasan,JR Hazlewood,1,0,,,,,,"",""
+ball,1,18.4,Bangladesh,Mahedi Hasan,Mahmudullah,JR Hazlewood,1,0,,,,,,"",""
+ball,1,18.5,Bangladesh,Mahmudullah,Mahedi Hasan,JR Hazlewood,0,0,,,,,,"",""
+ball,1,18.6,Bangladesh,Mahmudullah,Mahedi Hasan,JR Hazlewood,4,0,,,,,,"",""
+ball,1,18.7,Bangladesh,Mahmudullah,Mahedi Hasan,JR Hazlewood,0,0,,,,,,"",""
+ball,1,19.1,Bangladesh,Mahedi Hasan,Mahmudullah,NT Ellis,0,0,,,,,,"",""
+ball,1,19.2,Bangladesh,Mahedi Hasan,Mahmudullah,NT Ellis,1,0,,,,,,"",""
+ball,1,19.3,Bangladesh,Mahmudullah,Mahedi Hasan,NT Ellis,4,0,,,,,,"",""
+ball,1,19.4,Bangladesh,Mahmudullah,Mahedi Hasan,NT Ellis,0,0,,,,,,bowled,Mahmudullah
+ball,1,19.5,Bangladesh,Mustafizur Rahman,Mahedi Hasan,NT Ellis,0,0,,,,,,caught,Mustafizur Rahman
+ball,1,19.6,Bangladesh,Mahedi Hasan,Shoriful Islam,NT Ellis,0,0,,,,,,caught,Mahedi Hasan
+ball,2,0.1,Australia,BR McDermott,MS Wade,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,0.2,Australia,MS Wade,BR McDermott,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,0.3,Australia,MS Wade,BR McDermott,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,0.4,Australia,BR McDermott,MS Wade,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,0.5,Australia,BR McDermott,MS Wade,Mahedi Hasan,6,0,,,,,,"",""
+ball,2,0.6,Australia,BR McDermott,MS Wade,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,1.1,Australia,MS Wade,BR McDermott,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,1.2,Australia,MS Wade,BR McDermott,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,1.3,Australia,MS Wade,BR McDermott,Nasum Ahmed,0,0,,,,,,caught,MS Wade
+ball,2,1.4,Australia,MR Marsh,BR McDermott,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,1.5,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,1.6,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,2.1,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,2.2,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,2.3,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,2.4,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,2.5,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,2.6,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.1,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,3.2,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,3.3,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,3.4,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,3.5,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,3.6,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,4.1,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,4.2,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,4,0,,,,,,"",""
+ball,2,4.3,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,4.4,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,4.5,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,4.6,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,5.1,Australia,BR McDermott,MR Marsh,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.2,Australia,BR McDermott,MR Marsh,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,5.3,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,5.4,Australia,BR McDermott,MR Marsh,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,5.5,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.6,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,6.1,Australia,BR McDermott,MR Marsh,Nasum Ahmed,2,0,,,,,,"",""
+ball,2,6.2,Australia,BR McDermott,MR Marsh,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,6.3,Australia,MR Marsh,BR McDermott,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,6.4,Australia,MR Marsh,BR McDermott,Nasum Ahmed,4,0,,,,,,"",""
+ball,2,6.5,Australia,MR Marsh,BR McDermott,Nasum Ahmed,6,0,,,,,,"",""
+ball,2,6.6,Australia,MR Marsh,BR McDermott,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,7.1,Australia,BR McDermott,MR Marsh,Shoriful Islam,0,0,,,,,,"",""
+ball,2,7.2,Australia,BR McDermott,MR Marsh,Shoriful Islam,1,0,,,,,,"",""
+ball,2,7.3,Australia,MR Marsh,BR McDermott,Shoriful Islam,0,0,,,,,,"",""
+ball,2,7.4,Australia,MR Marsh,BR McDermott,Shoriful Islam,0,0,,,,,,"",""
+ball,2,7.5,Australia,MR Marsh,BR McDermott,Shoriful Islam,1,0,,,,,,"",""
+ball,2,7.6,Australia,BR McDermott,MR Marsh,Shoriful Islam,1,0,,,,,,"",""
+ball,2,8.1,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,8.2,Australia,MR Marsh,BR McDermott,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,8.3,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,6,0,,,,,,"",""
+ball,2,8.4,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,8.5,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,8.6,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,9.1,Australia,BR McDermott,MR Marsh,Shoriful Islam,1,0,,,,,,"",""
+ball,2,9.2,Australia,MR Marsh,BR McDermott,Shoriful Islam,4,0,,,,,,"",""
+ball,2,9.3,Australia,MR Marsh,BR McDermott,Shoriful Islam,0,0,,,,,,"",""
+ball,2,9.4,Australia,MR Marsh,BR McDermott,Shoriful Islam,4,0,,,,,,"",""
+ball,2,9.5,Australia,MR Marsh,BR McDermott,Shoriful Islam,0,0,,,,,,"",""
+ball,2,9.6,Australia,MR Marsh,BR McDermott,Shoriful Islam,0,0,,,,,,"",""
+ball,2,10.1,Australia,BR McDermott,MR Marsh,Soumya Sarkar,1,0,,,,,,"",""
+ball,2,10.2,Australia,MR Marsh,BR McDermott,Soumya Sarkar,1,0,,,,,,"",""
+ball,2,10.3,Australia,BR McDermott,MR Marsh,Soumya Sarkar,1,0,,,,,,"",""
+ball,2,10.4,Australia,MR Marsh,BR McDermott,Soumya Sarkar,4,0,,,,,,"",""
+ball,2,10.5,Australia,MR Marsh,BR McDermott,Soumya Sarkar,1,0,,,,,,"",""
+ball,2,10.6,Australia,BR McDermott,MR Marsh,Soumya Sarkar,1,0,,,,,,"",""
+ball,2,11.1,Australia,BR McDermott,MR Marsh,Nasum Ahmed,2,0,,,,,,"",""
+ball,2,11.2,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,11.3,Australia,BR McDermott,MR Marsh,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,11.4,Australia,BR McDermott,MR Marsh,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,11.5,Australia,MR Marsh,BR McDermott,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,11.6,Australia,BR McDermott,MR Marsh,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,12.1,Australia,BR McDermott,MR Marsh,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,12.2,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,12.3,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,12.4,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,12.5,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,12.6,Australia,MR Marsh,BR McDermott,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,13.1,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,2,0,,,,,,"",""
+ball,2,13.2,Australia,BR McDermott,MR Marsh,Shakib Al Hasan,0,0,,,,,,bowled,BR McDermott
+ball,2,13.3,Australia,MC Henriques,MR Marsh,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,13.4,Australia,MR Marsh,MC Henriques,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,13.5,Australia,MR Marsh,MC Henriques,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,13.6,Australia,MC Henriques,MR Marsh,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,14.1,Australia,MC Henriques,MR Marsh,Shoriful Islam,0,0,,,,,,caught,MC Henriques
+ball,2,14.2,Australia,AT Carey,MR Marsh,Shoriful Islam,1,0,,,,,,"",""
+ball,2,14.3,Australia,MR Marsh,AT Carey,Shoriful Islam,1,0,,,,,,"",""
+ball,2,14.4,Australia,AT Carey,MR Marsh,Shoriful Islam,1,0,,,,,,"",""
+ball,2,14.5,Australia,MR Marsh,AT Carey,Shoriful Islam,2,0,,,,,,"",""
+ball,2,14.6,Australia,MR Marsh,AT Carey,Shoriful Islam,1,0,,,,,,"",""
+ball,2,15.1,Australia,MR Marsh,AT Carey,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,15.2,Australia,MR Marsh,AT Carey,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,15.3,Australia,AT Carey,MR Marsh,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,15.4,Australia,MR Marsh,AT Carey,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,15.5,Australia,MR Marsh,AT Carey,Mahedi Hasan,2,0,,,,,,"",""
+ball,2,15.6,Australia,MR Marsh,AT Carey,Mahedi Hasan,2,0,,,,,,"",""
+ball,2,16.1,Australia,AT Carey,MR Marsh,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,16.2,Australia,AT Carey,MR Marsh,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,16.3,Australia,MR Marsh,AT Carey,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,16.4,Australia,AT Carey,MR Marsh,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,16.5,Australia,MR Marsh,AT Carey,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,16.6,Australia,AT Carey,MR Marsh,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,17.1,Australia,MR Marsh,AT Carey,Shoriful Islam,0,0,,,,,,caught,MR Marsh
+ball,2,17.2,Australia,AT Carey,DT Christian,Shoriful Islam,1,0,,,,,,"",""
+ball,2,17.3,Australia,DT Christian,AT Carey,Shoriful Islam,1,0,,,,,,"",""
+ball,2,17.4,Australia,AT Carey,DT Christian,Shoriful Islam,4,0,,,,,,"",""
+ball,2,17.5,Australia,AT Carey,DT Christian,Shoriful Islam,1,0,,,,,,"",""
+ball,2,17.6,Australia,DT Christian,AT Carey,Shoriful Islam,4,0,,,,,,"",""
+ball,2,18.1,Australia,AT Carey,DT Christian,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,18.2,Australia,AT Carey,DT Christian,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,18.3,Australia,DT Christian,AT Carey,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,18.4,Australia,DT Christian,AT Carey,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,18.5,Australia,DT Christian,AT Carey,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,18.6,Australia,DT Christian,AT Carey,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,19.1,Australia,AT Carey,DT Christian,Mahedi Hasan,6,0,,,,,,"",""
+ball,2,19.2,Australia,AT Carey,DT Christian,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,19.3,Australia,DT Christian,AT Carey,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,19.4,Australia,DT Christian,AT Carey,Mahedi Hasan,1,1,,1,,,,"",""
+ball,2,19.5,Australia,AT Carey,DT Christian,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,19.6,Australia,DT Christian,AT Carey,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,19.7,Australia,DT Christian,AT Carey,Mahedi Hasan,1,0,,,,,,"",""

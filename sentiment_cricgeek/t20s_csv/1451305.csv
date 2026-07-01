@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Singapore
+info,gender,female
+info,season,2024/25
+info,date,2024/10/04
+info,event,Singapore Women tour of Japan
+info,match_number,3
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,Vinu Kumar
+info,umpire,Adam Birss
+info,umpire,Vipin Sukhwal
+info,winner,Japan
+info,winner_runs,17
+info,player,Japan,A Kano
+info,player,Japan,M Yanagida
+info,player,Japan,S Kato
+info,player,Japan,H Goto
+info,player,Japan,K Ota
+info,player,Japan,A Chandel
+info,player,Japan,R Morita
+info,player,Japan,Seika Sumi
+info,player,Japan,M Ogawa
+info,player,Japan,Nonoha Yasumoto
+info,player,Japan,E Kusuda-Nairn
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,GK Diviya
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,RR Seth
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,DA Galia
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,C Boyle
+info,player,Singapore,I Shukla
+info,player,Singapore,LAR Bommareddy
+info,player,Singapore,Smriti Anand
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Kano,e92841c0
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,C Boyle,11374353
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Goto,b3af5bff
+info,registry,people,I Shukla,ce490298
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,K Ota,211f48fe
+info,registry,people,LAR Bommareddy,3da8cd3a
+info,registry,people,M Ogawa,93d65d0f
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,R Morita,d745c1db
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,S Kato,ef9ff861
+info,registry,people,Seika Sumi,704b4c30
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Smriti Anand,6a532414
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,Vipin Sukhwal,f7094357
+ball,1,0.1,Japan,A Kano,M Yanagida,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,0.2,Japan,M Yanagida,A Kano,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,0.3,Japan,M Yanagida,A Kano,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,0.4,Japan,M Yanagida,A Kano,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,0.5,Japan,M Yanagida,A Kano,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,0.6,Japan,M Yanagida,A Kano,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,1.1,Japan,A Kano,M Yanagida,GK Diviya,1,0,,,,,,"",""
+ball,1,1.2,Japan,M Yanagida,A Kano,GK Diviya,0,0,,,,,,"",""
+ball,1,1.3,Japan,M Yanagida,A Kano,GK Diviya,0,0,,,,,,"",""
+ball,1,1.4,Japan,M Yanagida,A Kano,GK Diviya,1,0,,,,,,"",""
+ball,1,1.5,Japan,A Kano,M Yanagida,GK Diviya,0,0,,,,,,"",""
+ball,1,1.6,Japan,A Kano,M Yanagida,GK Diviya,1,0,,,,,,"",""
+ball,1,2.1,Japan,A Kano,M Yanagida,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,2.2,Japan,A Kano,M Yanagida,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,2.3,Japan,M Yanagida,A Kano,JS Pooranakaran,4,1,,1,,,,"",""
+ball,1,2.4,Japan,M Yanagida,A Kano,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,2.5,Japan,A Kano,M Yanagida,JS Pooranakaran,0,0,,,,,,bowled,A Kano
+ball,1,2.6,Japan,S Kato,M Yanagida,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,2.7,Japan,S Kato,M Yanagida,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,3.1,Japan,S Kato,M Yanagida,GK Diviya,1,0,,,,,,"",""
+ball,1,3.2,Japan,M Yanagida,S Kato,GK Diviya,1,0,,,,,,"",""
+ball,1,3.3,Japan,S Kato,M Yanagida,GK Diviya,0,0,,,,,,"",""
+ball,1,3.4,Japan,S Kato,M Yanagida,GK Diviya,0,0,,,,,,"",""
+ball,1,3.5,Japan,S Kato,M Yanagida,GK Diviya,0,0,,,,,,"",""
+ball,1,3.6,Japan,S Kato,M Yanagida,GK Diviya,1,0,,,,,,"",""
+ball,1,4.1,Japan,S Kato,M Yanagida,C Boyle,1,0,,,,,,"",""
+ball,1,4.2,Japan,M Yanagida,S Kato,C Boyle,0,1,1,,,,,"",""
+ball,1,4.3,Japan,M Yanagida,S Kato,C Boyle,0,0,,,,,,"",""
+ball,1,4.4,Japan,M Yanagida,S Kato,C Boyle,0,0,,,,,,"",""
+ball,1,4.5,Japan,M Yanagida,S Kato,C Boyle,0,0,,,,,,"",""
+ball,1,4.6,Japan,M Yanagida,S Kato,C Boyle,1,0,,,,,,"",""
+ball,1,4.7,Japan,S Kato,M Yanagida,C Boyle,0,0,,,,,,"",""
+ball,1,5.1,Japan,M Yanagida,S Kato,I Shukla,0,0,,,,,,"",""
+ball,1,5.2,Japan,M Yanagida,S Kato,I Shukla,2,0,,,,,,"",""
+ball,1,5.3,Japan,M Yanagida,S Kato,I Shukla,3,0,,,,,,"",""
+ball,1,5.4,Japan,S Kato,M Yanagida,I Shukla,4,0,,,,,,"",""
+ball,1,5.5,Japan,S Kato,M Yanagida,I Shukla,1,0,,,,,,"",""
+ball,1,5.6,Japan,M Yanagida,S Kato,I Shukla,1,0,,,,,,"",""
+ball,1,6.1,Japan,M Yanagida,S Kato,C Boyle,1,0,,,,,,"",""
+ball,1,6.2,Japan,S Kato,M Yanagida,C Boyle,0,1,1,,,,,"",""
+ball,1,6.3,Japan,S Kato,M Yanagida,C Boyle,1,0,,,,,,"",""
+ball,1,6.4,Japan,M Yanagida,S Kato,C Boyle,1,0,,,,,,"",""
+ball,1,6.5,Japan,S Kato,M Yanagida,C Boyle,0,0,,,,,,"",""
+ball,1,6.6,Japan,S Kato,M Yanagida,C Boyle,4,0,,,,,,"",""
+ball,1,6.7,Japan,S Kato,M Yanagida,C Boyle,2,0,,,,,,"",""
+ball,1,7.1,Japan,M Yanagida,S Kato,Smriti Anand,0,0,,,,,,"",""
+ball,1,7.2,Japan,M Yanagida,S Kato,Smriti Anand,1,0,,,,,,"",""
+ball,1,7.3,Japan,S Kato,M Yanagida,Smriti Anand,1,1,,1,,,,"",""
+ball,1,7.4,Japan,M Yanagida,S Kato,Smriti Anand,1,0,,,,,,"",""
+ball,1,7.5,Japan,S Kato,M Yanagida,Smriti Anand,0,0,,,,,,"",""
+ball,1,7.6,Japan,S Kato,M Yanagida,Smriti Anand,1,0,,,,,,"",""
+ball,1,7.7,Japan,M Yanagida,S Kato,Smriti Anand,4,0,,,,,,"",""
+ball,1,8.1,Japan,S Kato,M Yanagida,Vinu Kumar,0,0,,,,,,caught and bowled,S Kato
+ball,1,8.2,Japan,H Goto,M Yanagida,Vinu Kumar,1,0,,,,,,"",""
+ball,1,8.3,Japan,M Yanagida,H Goto,Vinu Kumar,0,0,,,,,,"",""
+ball,1,8.4,Japan,M Yanagida,H Goto,Vinu Kumar,4,0,,,,,,"",""
+ball,1,8.5,Japan,M Yanagida,H Goto,Vinu Kumar,1,0,,,,,,"",""
+ball,1,8.6,Japan,H Goto,M Yanagida,Vinu Kumar,0,0,,,,,,"",""
+ball,1,9.1,Japan,M Yanagida,H Goto,Smriti Anand,2,0,,,,,,"",""
+ball,1,9.2,Japan,M Yanagida,H Goto,Smriti Anand,0,0,,,,,,"",""
+ball,1,9.3,Japan,M Yanagida,H Goto,Smriti Anand,1,0,,,,,,"",""
+ball,1,9.4,Japan,H Goto,M Yanagida,Smriti Anand,0,0,,,,,,"",""
+ball,1,9.5,Japan,H Goto,M Yanagida,Smriti Anand,0,0,,,,,,"",""
+ball,1,9.6,Japan,H Goto,M Yanagida,Smriti Anand,0,0,,,,,,"",""
+ball,1,10.1,Japan,M Yanagida,H Goto,Vinu Kumar,2,0,,,,,,"",""
+ball,1,10.2,Japan,M Yanagida,H Goto,Vinu Kumar,4,0,,,,,,"",""
+ball,1,10.3,Japan,M Yanagida,H Goto,Vinu Kumar,1,0,,,,,,"",""
+ball,1,10.4,Japan,H Goto,M Yanagida,Vinu Kumar,0,0,,,,,,caught,H Goto
+ball,1,10.5,Japan,K Ota,M Yanagida,Vinu Kumar,1,0,,,,,,"",""
+ball,1,10.6,Japan,M Yanagida,K Ota,Vinu Kumar,0,0,,,,,,"",""
+ball,1,11.1,Japan,K Ota,M Yanagida,JS Pooranakaran,0,1,1,,,,,"",""
+ball,1,11.2,Japan,K Ota,M Yanagida,JS Pooranakaran,0,1,,,,1,,"",""
+ball,1,11.3,Japan,M Yanagida,K Ota,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,11.4,Japan,M Yanagida,K Ota,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,11.5,Japan,K Ota,M Yanagida,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,11.6,Japan,K Ota,M Yanagida,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,11.7,Japan,K Ota,M Yanagida,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,12.1,Japan,M Yanagida,K Ota,I Shukla,0,0,,,,,,"",""
+ball,1,12.2,Japan,M Yanagida,K Ota,I Shukla,1,0,,,,,,"",""
+ball,1,12.3,Japan,K Ota,M Yanagida,I Shukla,1,0,,,,,,"",""
+ball,1,12.4,Japan,M Yanagida,K Ota,I Shukla,2,0,,,,,,"",""
+ball,1,12.5,Japan,M Yanagida,K Ota,I Shukla,2,0,,,,,,"",""
+ball,1,12.6,Japan,M Yanagida,K Ota,I Shukla,4,0,,,,,,"",""
+ball,1,13.1,Japan,K Ota,M Yanagida,Vinu Kumar,2,0,,,,,,"",""
+ball,1,13.2,Japan,K Ota,M Yanagida,Vinu Kumar,0,0,,,,,,"",""
+ball,1,13.3,Japan,K Ota,M Yanagida,Vinu Kumar,0,0,,,,,,"",""
+ball,1,13.4,Japan,K Ota,M Yanagida,Vinu Kumar,1,0,,,,,,"",""
+ball,1,13.5,Japan,M Yanagida,K Ota,Vinu Kumar,0,0,,,,,,"",""
+ball,1,13.6,Japan,M Yanagida,K Ota,Vinu Kumar,1,0,,,,,,"",""
+ball,1,14.1,Japan,M Yanagida,K Ota,GK Diviya,0,0,,,,,,bowled,M Yanagida
+ball,1,14.2,Japan,A Chandel,K Ota,GK Diviya,0,0,,,,,,"",""
+ball,1,14.3,Japan,A Chandel,K Ota,GK Diviya,0,0,,,,,,"",""
+ball,1,14.4,Japan,A Chandel,K Ota,GK Diviya,0,0,,,,,,"",""
+ball,1,14.5,Japan,A Chandel,K Ota,GK Diviya,0,0,,,,,,"",""
+ball,1,14.6,Japan,A Chandel,K Ota,GK Diviya,2,0,,,,,,"",""
+ball,1,15.1,Japan,K Ota,A Chandel,Vinu Kumar,0,1,1,,,,,"",""
+ball,1,15.2,Japan,K Ota,A Chandel,Vinu Kumar,0,1,1,,,,,"",""
+ball,1,15.3,Japan,K Ota,A Chandel,Vinu Kumar,0,1,1,,,,,"",""
+ball,1,15.4,Japan,K Ota,A Chandel,Vinu Kumar,1,0,,,,,,"",""
+ball,1,15.5,Japan,A Chandel,K Ota,Vinu Kumar,0,0,,,,,,"",""
+ball,1,15.6,Japan,A Chandel,K Ota,Vinu Kumar,0,1,1,,,,,"",""
+ball,1,15.7,Japan,A Chandel,K Ota,Vinu Kumar,0,0,,,,,,"",""
+ball,1,15.8,Japan,A Chandel,K Ota,Vinu Kumar,0,0,,,,,,"",""
+ball,1,15.9,Japan,A Chandel,K Ota,Vinu Kumar,2,0,,,,,,"",""
+ball,1,15.10,Japan,A Chandel,K Ota,Vinu Kumar,0,0,,,,,,"",""
+ball,1,16.1,Japan,K Ota,A Chandel,C Boyle,0,0,,,,,,"",""
+ball,1,16.2,Japan,K Ota,A Chandel,C Boyle,0,0,,,,,,caught,K Ota
+ball,1,16.3,Japan,R Morita,A Chandel,C Boyle,0,0,,,,,,"",""
+ball,1,16.4,Japan,R Morita,A Chandel,C Boyle,0,0,,,,,,"",""
+ball,1,16.5,Japan,R Morita,A Chandel,C Boyle,0,0,,,,,,"",""
+ball,1,16.6,Japan,R Morita,A Chandel,C Boyle,0,0,,,,,,"",""
+ball,1,17.1,Japan,A Chandel,R Morita,JS Pooranakaran,0,1,1,,,,,"",""
+ball,1,17.2,Japan,A Chandel,R Morita,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,17.3,Japan,A Chandel,R Morita,JS Pooranakaran,2,0,,,,,,"",""
+ball,1,17.4,Japan,A Chandel,R Morita,JS Pooranakaran,4,0,,,,,,"",""
+ball,1,17.5,Japan,A Chandel,R Morita,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,17.6,Japan,R Morita,A Chandel,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,17.7,Japan,R Morita,A Chandel,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,18.1,Japan,A Chandel,R Morita,C Boyle,0,1,1,,,,,"",""
+ball,1,18.2,Japan,A Chandel,R Morita,C Boyle,0,0,,,,,,caught,A Chandel
+ball,1,18.3,Japan,Seika Sumi,R Morita,C Boyle,2,0,,,,,,"",""
+ball,1,18.4,Japan,Seika Sumi,R Morita,C Boyle,1,0,,,,,,"",""
+ball,1,18.5,Japan,R Morita,Seika Sumi,C Boyle,2,0,,,,,,"",""
+ball,1,18.6,Japan,R Morita,Seika Sumi,C Boyle,1,0,,,,,,"",""
+ball,1,18.7,Japan,Seika Sumi,R Morita,C Boyle,0,0,,,,,,"",""
+ball,1,19.1,Japan,R Morita,Seika Sumi,GK Diviya,0,0,,,,,,"",""
+ball,1,19.2,Japan,R Morita,Seika Sumi,GK Diviya,1,0,,,,,,"",""
+ball,1,19.3,Japan,Seika Sumi,R Morita,GK Diviya,1,0,,,,,,"",""
+ball,1,19.4,Japan,R Morita,Seika Sumi,GK Diviya,1,0,,,,,,"",""
+ball,1,19.5,Japan,Seika Sumi,R Morita,GK Diviya,2,0,,,,,,"",""
+ball,1,19.6,Japan,Seika Sumi,R Morita,GK Diviya,0,0,,,,,,"",""
+ball,2,0.1,Singapore,PSR Gurusinghe,GK Diviya,S Kato,0,1,1,,,,,"",""
+ball,2,0.2,Singapore,PSR Gurusinghe,GK Diviya,S Kato,1,0,,,,,,"",""
+ball,2,0.3,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,0.4,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,0.5,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,1,1,,,,,"",""
+ball,2,0.6,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,0.7,Singapore,GK Diviya,PSR Gurusinghe,S Kato,1,0,,,,,,"",""
+ball,2,0.8,Singapore,PSR Gurusinghe,GK Diviya,S Kato,1,0,,,,,,"",""
+ball,2,1.1,Singapore,PSR Gurusinghe,GK Diviya,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,1.2,Singapore,PSR Gurusinghe,GK Diviya,Nonoha Yasumoto,2,0,,,,,,"",""
+ball,2,1.3,Singapore,PSR Gurusinghe,GK Diviya,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,1.4,Singapore,PSR Gurusinghe,GK Diviya,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,2,1.5,Singapore,GK Diviya,PSR Gurusinghe,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,1.6,Singapore,GK Diviya,PSR Gurusinghe,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,2,2.1,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,2.2,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,2.3,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,2.4,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,2.5,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,2.6,Singapore,GK Diviya,PSR Gurusinghe,S Kato,0,0,,,,,,"",""
+ball,2,3.1,Singapore,PSR Gurusinghe,GK Diviya,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,2,3.2,Singapore,GK Diviya,PSR Gurusinghe,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,3.3,Singapore,GK Diviya,PSR Gurusinghe,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,3.4,Singapore,GK Diviya,PSR Gurusinghe,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,3.5,Singapore,GK Diviya,PSR Gurusinghe,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,3.6,Singapore,GK Diviya,PSR Gurusinghe,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,4.1,Singapore,PSR Gurusinghe,GK Diviya,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,4.2,Singapore,PSR Gurusinghe,GK Diviya,E Kusuda-Nairn,0,0,,,,,,run out,PSR Gurusinghe
+ball,2,4.3,Singapore,GK Diviya,Vinu Kumar,E Kusuda-Nairn,0,1,,,,1,,"",""
+ball,2,4.4,Singapore,Vinu Kumar,GK Diviya,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,4.5,Singapore,Vinu Kumar,GK Diviya,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,4.6,Singapore,Vinu Kumar,GK Diviya,E Kusuda-Nairn,1,0,,,,,,"",""
+ball,2,5.1,Singapore,Vinu Kumar,GK Diviya,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,5.2,Singapore,Vinu Kumar,GK Diviya,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,5.3,Singapore,Vinu Kumar,GK Diviya,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,5.4,Singapore,Vinu Kumar,GK Diviya,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,5.5,Singapore,Vinu Kumar,GK Diviya,Nonoha Yasumoto,4,0,,,,,,"",""
+ball,2,5.6,Singapore,Vinu Kumar,GK Diviya,Nonoha Yasumoto,2,0,,,,,,"",""
+ball,2,6.1,Singapore,GK Diviya,Vinu Kumar,E Kusuda-Nairn,0,0,,,,,,caught,GK Diviya
+ball,2,6.2,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,6.3,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,6.4,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,2,0,,,,,,"",""
+ball,2,6.5,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,6.6,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,7.1,Singapore,Vinu Kumar,RR Seth,A Chandel,2,0,,,,,,"",""
+ball,2,7.2,Singapore,Vinu Kumar,RR Seth,A Chandel,1,0,,,,,,"",""
+ball,2,7.3,Singapore,RR Seth,Vinu Kumar,A Chandel,1,0,,,,,,"",""
+ball,2,7.4,Singapore,Vinu Kumar,RR Seth,A Chandel,1,0,,,,,,"",""
+ball,2,7.5,Singapore,RR Seth,Vinu Kumar,A Chandel,1,0,,,,,,"",""
+ball,2,7.6,Singapore,Vinu Kumar,RR Seth,A Chandel,0,0,,,,,,"",""
+ball,2,8.1,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,1,0,,,,,,"",""
+ball,2,8.2,Singapore,Vinu Kumar,RR Seth,E Kusuda-Nairn,1,0,,,,,,"",""
+ball,2,8.3,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,8.4,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,2,0,,,,,,"",""
+ball,2,8.5,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,1,1,,,,,"",""
+ball,2,8.6,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,1,0,,,,,,"",""
+ball,2,8.7,Singapore,Vinu Kumar,RR Seth,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,9.1,Singapore,RR Seth,Vinu Kumar,A Chandel,0,1,1,,,,,"",""
+ball,2,9.2,Singapore,RR Seth,Vinu Kumar,A Chandel,0,0,,,,,,"",""
+ball,2,9.3,Singapore,RR Seth,Vinu Kumar,A Chandel,1,0,,,,,,"",""
+ball,2,9.4,Singapore,Vinu Kumar,RR Seth,A Chandel,1,0,,,,,,"",""
+ball,2,9.5,Singapore,RR Seth,Vinu Kumar,A Chandel,4,0,,,,,,"",""
+ball,2,9.6,Singapore,RR Seth,Vinu Kumar,A Chandel,0,0,,,,,,"",""
+ball,2,9.7,Singapore,RR Seth,Vinu Kumar,A Chandel,1,0,,,,,,"",""
+ball,2,10.1,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,10.2,Singapore,RR Seth,Vinu Kumar,M Yanagida,1,0,,,,,,"",""
+ball,2,10.3,Singapore,Vinu Kumar,RR Seth,M Yanagida,1,0,,,,,,"",""
+ball,2,10.4,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,10.5,Singapore,RR Seth,Vinu Kumar,M Yanagida,1,0,,,,,,"",""
+ball,2,10.6,Singapore,Vinu Kumar,RR Seth,M Yanagida,0,0,,,,,,"",""
+ball,2,11.1,Singapore,RR Seth,Vinu Kumar,K Ota,1,0,,,,,,"",""
+ball,2,11.2,Singapore,Vinu Kumar,RR Seth,K Ota,1,0,,,,,,"",""
+ball,2,11.3,Singapore,RR Seth,Vinu Kumar,K Ota,1,0,,,,,,"",""
+ball,2,11.4,Singapore,Vinu Kumar,RR Seth,K Ota,0,1,1,,,,,"",""
+ball,2,11.5,Singapore,Vinu Kumar,RR Seth,K Ota,0,0,,,,,,"",""
+ball,2,11.6,Singapore,Vinu Kumar,RR Seth,K Ota,4,0,,,,,,"",""
+ball,2,11.7,Singapore,Vinu Kumar,RR Seth,K Ota,0,0,,,,,,"",""
+ball,2,12.1,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,12.2,Singapore,RR Seth,Vinu Kumar,M Yanagida,1,0,,,,,,"",""
+ball,2,12.3,Singapore,Vinu Kumar,RR Seth,M Yanagida,1,0,,,,,,"",""
+ball,2,12.4,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,12.5,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,12.6,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,13.1,Singapore,Vinu Kumar,RR Seth,K Ota,1,0,,,,,,"",""
+ball,2,13.2,Singapore,RR Seth,Vinu Kumar,K Ota,1,0,,,,,,"",""
+ball,2,13.3,Singapore,Vinu Kumar,RR Seth,K Ota,0,0,,,,,,"",""
+ball,2,13.4,Singapore,Vinu Kumar,RR Seth,K Ota,1,0,,,,,,"",""
+ball,2,13.5,Singapore,RR Seth,Vinu Kumar,K Ota,1,0,,,,,,"",""
+ball,2,13.6,Singapore,Vinu Kumar,RR Seth,K Ota,4,0,,,,,,"",""
+ball,2,14.1,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,14.2,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,14.3,Singapore,RR Seth,Vinu Kumar,M Yanagida,1,0,,,,,,"",""
+ball,2,14.4,Singapore,Vinu Kumar,RR Seth,M Yanagida,0,1,,1,,,,"",""
+ball,2,14.5,Singapore,Vinu Kumar,RR Seth,M Yanagida,0,0,,,,,,"",""
+ball,2,14.6,Singapore,Vinu Kumar,RR Seth,M Yanagida,0,1,,,,1,,"",""
+ball,2,14.7,Singapore,RR Seth,Vinu Kumar,M Yanagida,0,0,,,,,,"",""
+ball,2,15.1,Singapore,Vinu Kumar,RR Seth,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,2,15.2,Singapore,RR Seth,Vinu Kumar,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,15.3,Singapore,RR Seth,Vinu Kumar,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,2,15.4,Singapore,Vinu Kumar,RR Seth,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,2,15.5,Singapore,Vinu Kumar,RR Seth,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,2,15.6,Singapore,RR Seth,Vinu Kumar,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,2,16.1,Singapore,RR Seth,Vinu Kumar,M Ogawa,1,0,,,,,,"",""
+ball,2,16.2,Singapore,Vinu Kumar,RR Seth,M Ogawa,0,0,,,,,,"",""
+ball,2,16.3,Singapore,Vinu Kumar,RR Seth,M Ogawa,4,0,,,,,,"",""
+ball,2,16.4,Singapore,Vinu Kumar,RR Seth,M Ogawa,1,1,,1,,,,"",""
+ball,2,16.5,Singapore,RR Seth,Vinu Kumar,M Ogawa,0,0,,,,,,"",""
+ball,2,16.6,Singapore,RR Seth,Vinu Kumar,M Ogawa,1,0,,,,,,"",""
+ball,2,16.7,Singapore,Vinu Kumar,RR Seth,M Ogawa,1,0,,,,,,"",""
+ball,2,17.1,Singapore,Vinu Kumar,RR Seth,A Chandel,1,0,,,,,,"",""
+ball,2,17.2,Singapore,RR Seth,Vinu Kumar,A Chandel,0,0,,,,,,"",""
+ball,2,17.3,Singapore,RR Seth,Vinu Kumar,A Chandel,2,0,,,,,,"",""
+ball,2,17.4,Singapore,RR Seth,Vinu Kumar,A Chandel,2,0,,,,,,"",""
+ball,2,17.5,Singapore,RR Seth,Vinu Kumar,A Chandel,1,0,,,,,,"",""
+ball,2,17.6,Singapore,Vinu Kumar,RR Seth,A Chandel,1,0,,,,,,"",""
+ball,2,18.1,Singapore,Vinu Kumar,RR Seth,E Kusuda-Nairn,1,0,,,,,,"",""
+ball,2,18.2,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,0,,,,,,"",""
+ball,2,18.3,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,0,1,,,,1,,"",""
+ball,2,18.4,Singapore,Vinu Kumar,RR Seth,E Kusuda-Nairn,1,0,,,,,,"",""
+ball,2,18.5,Singapore,RR Seth,Vinu Kumar,E Kusuda-Nairn,1,0,,,,,,"",""
+ball,2,18.6,Singapore,Vinu Kumar,RR Seth,E Kusuda-Nairn,2,0,,,,,,"",""
+ball,2,19.1,Singapore,RR Seth,Vinu Kumar,S Kato,1,0,,,,,,run out,Vinu Kumar
+ball,2,19.2,Singapore,RR Seth,Shafina Mahesh,S Kato,0,2,,,,2,,"",""
+ball,2,19.3,Singapore,RR Seth,Shafina Mahesh,S Kato,0,0,,,,,,"",""
+ball,2,19.4,Singapore,RR Seth,Shafina Mahesh,S Kato,1,0,,,,,,"",""
+ball,2,19.5,Singapore,Shafina Mahesh,RR Seth,S Kato,0,0,,,,,,lbw,Shafina Mahesh
+ball,2,19.6,Singapore,DA Galia,RR Seth,S Kato,0,0,,,,,,run out,RR Seth

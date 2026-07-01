@@ -1,0 +1,347 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Nepal
+info,gender,male
+info,season,2025
+info,date,2025/06/16
+info,event,Scotland T20 Tri-Series
+info,match_number,2
+info,venue,"Titwood, Glasgow"
+info,city,Glasgow
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,ZB Lion-Cachet
+info,umpire,I McDonald
+info,umpire,Ryan Milne
+info,tv_umpire,DH Mclean
+info,match_referee,Philip Thompson
+info,outcome,tie
+info,eliminator,Netherlands
+info,player,Netherlands,M Levitt
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,NRJ Croes
+info,player,Netherlands,ZB Lion-Cachet
+info,player,Netherlands,Saqib Zulfiqar
+info,player,Netherlands,K Klein
+info,player,Netherlands,BE Fletcher
+info,player,Netherlands,DT Doram
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Lokesh Bam
+info,player,Nepal,AK Sah
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,K Thagunna
+info,player,Nepal,Rupesh Singh
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,player,Nepal,NK Yadav
+info,player,Nepal,LN Rajbanshi
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,BE Fletcher,abd82f3b
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DS Airee,1747ea18
+info,registry,people,DT Doram,3bea1983
+info,registry,people,I McDonald,37b55799
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Klein,374bb5e7
+info,registry,people,K Thagunna,97d86e77
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,NK Yadav,737e595d
+info,registry,people,NRJ Croes,f427e63e
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rupesh Singh,30b93df1
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Saqib Zulfiqar,5d38476c
+info,registry,people,Vikramjit Singh,2a9eee66
+info,registry,people,ZB Lion-Cachet,d99de998
+ball,1,0.1,Netherlands,M Levitt,MP O'Dowd,NK Yadav,0,0,,,,,,"",""
+ball,1,0.2,Netherlands,M Levitt,MP O'Dowd,NK Yadav,1,0,,,,,,"",""
+ball,1,0.3,Netherlands,MP O'Dowd,M Levitt,NK Yadav,0,0,,,,,,"",""
+ball,1,0.4,Netherlands,MP O'Dowd,M Levitt,NK Yadav,4,0,,,,,,"",""
+ball,1,0.5,Netherlands,MP O'Dowd,M Levitt,NK Yadav,4,0,,,,,,"",""
+ball,1,0.6,Netherlands,MP O'Dowd,M Levitt,NK Yadav,1,0,,,,,,"",""
+ball,1,1.1,Netherlands,MP O'Dowd,M Levitt,Karan KC,0,0,,,,,,"",""
+ball,1,1.2,Netherlands,MP O'Dowd,M Levitt,Karan KC,0,0,,,,,,"",""
+ball,1,1.3,Netherlands,MP O'Dowd,M Levitt,Karan KC,2,0,,,,,,"",""
+ball,1,1.4,Netherlands,MP O'Dowd,M Levitt,Karan KC,1,0,,,,,,"",""
+ball,1,1.5,Netherlands,M Levitt,MP O'Dowd,Karan KC,1,0,,,,,,"",""
+ball,1,1.6,Netherlands,MP O'Dowd,M Levitt,Karan KC,6,0,,,,,,"",""
+ball,1,2.1,Netherlands,M Levitt,MP O'Dowd,Rupesh Singh,0,0,,,,,,"",""
+ball,1,2.2,Netherlands,M Levitt,MP O'Dowd,Rupesh Singh,6,0,,,,,,"",""
+ball,1,2.3,Netherlands,M Levitt,MP O'Dowd,Rupesh Singh,0,1,,,,1,,"",""
+ball,1,2.4,Netherlands,MP O'Dowd,M Levitt,Rupesh Singh,1,0,,,,,,"",""
+ball,1,2.5,Netherlands,M Levitt,MP O'Dowd,Rupesh Singh,0,0,,,,,,"",""
+ball,1,2.6,Netherlands,M Levitt,MP O'Dowd,Rupesh Singh,0,0,,,,,,"",""
+ball,1,3.1,Netherlands,MP O'Dowd,M Levitt,LN Rajbanshi,0,0,,,,,,caught,MP O'Dowd
+ball,1,3.2,Netherlands,Vikramjit Singh,M Levitt,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,Vikramjit Singh,M Levitt,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,3.4,Netherlands,M Levitt,Vikramjit Singh,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,3.5,Netherlands,Vikramjit Singh,M Levitt,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,3.6,Netherlands,Vikramjit Singh,M Levitt,LN Rajbanshi,6,0,,,,,,"",""
+ball,1,4.1,Netherlands,M Levitt,Vikramjit Singh,Rupesh Singh,0,0,,,,,,"",""
+ball,1,4.2,Netherlands,M Levitt,Vikramjit Singh,Rupesh Singh,3,0,,,,,,"",""
+ball,1,4.3,Netherlands,Vikramjit Singh,M Levitt,Rupesh Singh,0,0,,,,,,"",""
+ball,1,4.4,Netherlands,Vikramjit Singh,M Levitt,Rupesh Singh,0,1,,,,1,,"",""
+ball,1,4.5,Netherlands,M Levitt,Vikramjit Singh,Rupesh Singh,0,1,1,,,,,"",""
+ball,1,4.6,Netherlands,M Levitt,Vikramjit Singh,Rupesh Singh,4,0,,,,,,"",""
+ball,1,4.7,Netherlands,M Levitt,Vikramjit Singh,Rupesh Singh,0,0,,,,,,"",""
+ball,1,5.1,Netherlands,Vikramjit Singh,M Levitt,DS Airee,1,0,,,,,,"",""
+ball,1,5.2,Netherlands,M Levitt,Vikramjit Singh,DS Airee,1,0,,,,,,"",""
+ball,1,5.3,Netherlands,Vikramjit Singh,M Levitt,DS Airee,0,0,,,,,,"",""
+ball,1,5.4,Netherlands,Vikramjit Singh,M Levitt,DS Airee,1,0,,,,,,"",""
+ball,1,5.5,Netherlands,M Levitt,Vikramjit Singh,DS Airee,3,0,,,,,,"",""
+ball,1,5.6,Netherlands,Vikramjit Singh,M Levitt,DS Airee,1,0,,,,,,"",""
+ball,1,6.1,Netherlands,Vikramjit Singh,M Levitt,S Lamichhane,1,0,,,,,,"",""
+ball,1,6.2,Netherlands,M Levitt,Vikramjit Singh,S Lamichhane,0,0,,,,,,bowled,M Levitt
+ball,1,6.3,Netherlands,SA Edwards,Vikramjit Singh,S Lamichhane,1,0,,,,,,"",""
+ball,1,6.4,Netherlands,Vikramjit Singh,SA Edwards,S Lamichhane,0,0,,,,,,"",""
+ball,1,6.5,Netherlands,Vikramjit Singh,SA Edwards,S Lamichhane,1,0,,,,,,"",""
+ball,1,6.6,Netherlands,SA Edwards,Vikramjit Singh,S Lamichhane,0,0,,,,,,caught,SA Edwards
+ball,1,7.1,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,1,0,,,,,,"",""
+ball,1,7.2,Netherlands,AT Nidamanuru,Vikramjit Singh,DS Airee,1,0,,,,,,"",""
+ball,1,7.3,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,0,0,,,,,,"",""
+ball,1,7.4,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,1,0,,,,,,"",""
+ball,1,7.5,Netherlands,AT Nidamanuru,Vikramjit Singh,DS Airee,1,0,,,,,,"",""
+ball,1,7.6,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,0,0,,,,,,"",""
+ball,1,8.1,Netherlands,AT Nidamanuru,Vikramjit Singh,S Lamichhane,1,0,,,,,,"",""
+ball,1,8.2,Netherlands,Vikramjit Singh,AT Nidamanuru,S Lamichhane,0,0,,,,,,"",""
+ball,1,8.3,Netherlands,Vikramjit Singh,AT Nidamanuru,S Lamichhane,2,0,,,,,,"",""
+ball,1,8.4,Netherlands,Vikramjit Singh,AT Nidamanuru,S Lamichhane,0,0,,,,,,"",""
+ball,1,8.5,Netherlands,Vikramjit Singh,AT Nidamanuru,S Lamichhane,1,0,,,,,,"",""
+ball,1,8.6,Netherlands,AT Nidamanuru,Vikramjit Singh,S Lamichhane,0,0,,,,,,"",""
+ball,1,9.1,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,6,0,,,,,,"",""
+ball,1,9.2,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,0,0,,,,,,"",""
+ball,1,9.3,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,2,0,,,,,,"",""
+ball,1,9.4,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,2,0,,,,,,"",""
+ball,1,9.5,Netherlands,Vikramjit Singh,AT Nidamanuru,DS Airee,1,0,,,,,,"",""
+ball,1,9.6,Netherlands,AT Nidamanuru,Vikramjit Singh,DS Airee,1,0,,,,,,"",""
+ball,1,10.1,Netherlands,AT Nidamanuru,Vikramjit Singh,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,10.2,Netherlands,Vikramjit Singh,AT Nidamanuru,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,10.3,Netherlands,AT Nidamanuru,Vikramjit Singh,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,10.4,Netherlands,AT Nidamanuru,Vikramjit Singh,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,10.5,Netherlands,Vikramjit Singh,AT Nidamanuru,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,10.6,Netherlands,AT Nidamanuru,Vikramjit Singh,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,11.1,Netherlands,AT Nidamanuru,Vikramjit Singh,NK Yadav,2,0,,,,,,"",""
+ball,1,11.2,Netherlands,AT Nidamanuru,Vikramjit Singh,NK Yadav,1,0,,,,,,"",""
+ball,1,11.3,Netherlands,Vikramjit Singh,AT Nidamanuru,NK Yadav,0,0,,,,,,caught,Vikramjit Singh
+ball,1,11.4,Netherlands,NRJ Croes,AT Nidamanuru,NK Yadav,1,0,,,,,,"",""
+ball,1,11.5,Netherlands,AT Nidamanuru,NRJ Croes,NK Yadav,1,0,,,,,,"",""
+ball,1,11.6,Netherlands,NRJ Croes,AT Nidamanuru,NK Yadav,0,1,,,,1,,"",""
+ball,1,12.1,Netherlands,NRJ Croes,AT Nidamanuru,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.2,Netherlands,AT Nidamanuru,NRJ Croes,S Lamichhane,2,0,,,,,,"",""
+ball,1,12.3,Netherlands,AT Nidamanuru,NRJ Croes,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.4,Netherlands,NRJ Croes,AT Nidamanuru,S Lamichhane,0,0,,,,,,caught,NRJ Croes
+ball,1,12.5,Netherlands,ZB Lion-Cachet,AT Nidamanuru,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.6,Netherlands,AT Nidamanuru,ZB Lion-Cachet,S Lamichhane,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,AT Nidamanuru,ZB Lion-Cachet,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,13.2,Netherlands,ZB Lion-Cachet,AT Nidamanuru,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,13.3,Netherlands,AT Nidamanuru,ZB Lion-Cachet,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,13.4,Netherlands,AT Nidamanuru,ZB Lion-Cachet,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,13.5,Netherlands,ZB Lion-Cachet,AT Nidamanuru,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,13.6,Netherlands,AT Nidamanuru,ZB Lion-Cachet,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,14.1,Netherlands,AT Nidamanuru,ZB Lion-Cachet,S Lamichhane,1,0,,,,,,"",""
+ball,1,14.2,Netherlands,ZB Lion-Cachet,AT Nidamanuru,S Lamichhane,1,0,,,,,,"",""
+ball,1,14.3,Netherlands,AT Nidamanuru,ZB Lion-Cachet,S Lamichhane,1,0,,,,,,"",""
+ball,1,14.4,Netherlands,ZB Lion-Cachet,AT Nidamanuru,S Lamichhane,1,0,,,,,,"",""
+ball,1,14.5,Netherlands,AT Nidamanuru,ZB Lion-Cachet,S Lamichhane,0,0,,,,,,"",""
+ball,1,14.6,Netherlands,AT Nidamanuru,ZB Lion-Cachet,S Lamichhane,1,0,,,,,,"",""
+ball,1,15.1,Netherlands,AT Nidamanuru,ZB Lion-Cachet,K Bhurtel,2,0,,,,,,"",""
+ball,1,15.2,Netherlands,AT Nidamanuru,ZB Lion-Cachet,K Bhurtel,1,0,,,,,,"",""
+ball,1,15.3,Netherlands,ZB Lion-Cachet,AT Nidamanuru,K Bhurtel,0,1,,,,1,,"",""
+ball,1,15.4,Netherlands,AT Nidamanuru,ZB Lion-Cachet,K Bhurtel,1,0,,,,,,"",""
+ball,1,15.5,Netherlands,ZB Lion-Cachet,AT Nidamanuru,K Bhurtel,6,0,,,,,,"",""
+ball,1,15.6,Netherlands,ZB Lion-Cachet,AT Nidamanuru,K Bhurtel,0,0,,,,,,caught,ZB Lion-Cachet
+ball,1,16.1,Netherlands,AT Nidamanuru,Saqib Zulfiqar,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,16.2,Netherlands,AT Nidamanuru,Saqib Zulfiqar,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,16.3,Netherlands,AT Nidamanuru,Saqib Zulfiqar,LN Rajbanshi,2,0,,,,,,"",""
+ball,1,16.4,Netherlands,AT Nidamanuru,Saqib Zulfiqar,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,16.5,Netherlands,Saqib Zulfiqar,AT Nidamanuru,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,16.6,Netherlands,AT Nidamanuru,Saqib Zulfiqar,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,17.1,Netherlands,Saqib Zulfiqar,AT Nidamanuru,K Bhurtel,2,0,,,,,,"",""
+ball,1,17.2,Netherlands,Saqib Zulfiqar,AT Nidamanuru,K Bhurtel,4,0,,,,,,"",""
+ball,1,17.3,Netherlands,Saqib Zulfiqar,AT Nidamanuru,K Bhurtel,0,1,1,,,,,"",""
+ball,1,17.4,Netherlands,Saqib Zulfiqar,AT Nidamanuru,K Bhurtel,0,0,,,,,,"",""
+ball,1,17.5,Netherlands,Saqib Zulfiqar,AT Nidamanuru,K Bhurtel,6,0,,,,,,"",""
+ball,1,17.6,Netherlands,Saqib Zulfiqar,AT Nidamanuru,K Bhurtel,1,0,,,,,,"",""
+ball,1,17.7,Netherlands,AT Nidamanuru,Saqib Zulfiqar,K Bhurtel,0,0,,,,,,"",""
+ball,1,18.1,Netherlands,Saqib Zulfiqar,AT Nidamanuru,Rupesh Singh,0,1,1,,,,,"",""
+ball,1,18.2,Netherlands,Saqib Zulfiqar,AT Nidamanuru,Rupesh Singh,6,0,,,,,,"",""
+ball,1,18.3,Netherlands,Saqib Zulfiqar,AT Nidamanuru,Rupesh Singh,1,0,,,,,,"",""
+ball,1,18.4,Netherlands,AT Nidamanuru,Saqib Zulfiqar,Rupesh Singh,1,0,,,,,,"",""
+ball,1,18.5,Netherlands,Saqib Zulfiqar,AT Nidamanuru,Rupesh Singh,1,0,,,,,,"",""
+ball,1,18.6,Netherlands,AT Nidamanuru,Saqib Zulfiqar,Rupesh Singh,0,0,,,,,,"",""
+ball,1,18.7,Netherlands,AT Nidamanuru,Saqib Zulfiqar,Rupesh Singh,6,0,,,,,,"",""
+ball,1,19.1,Netherlands,Saqib Zulfiqar,AT Nidamanuru,NK Yadav,0,1,,,,1,,"",""
+ball,1,19.2,Netherlands,AT Nidamanuru,Saqib Zulfiqar,NK Yadav,0,0,,,,,,"",""
+ball,1,19.3,Netherlands,AT Nidamanuru,Saqib Zulfiqar,NK Yadav,0,0,,,,,,bowled,AT Nidamanuru
+ball,1,19.4,Netherlands,K Klein,Saqib Zulfiqar,NK Yadav,1,0,,,,,,"",""
+ball,1,19.5,Netherlands,Saqib Zulfiqar,K Klein,NK Yadav,2,0,,,,,,"",""
+ball,1,19.6,Netherlands,Saqib Zulfiqar,K Klein,Karan KC,1,0,,,,,,"",""
+ball,2,0.1,Nepal,K Bhurtel,Lokesh Bam,K Klein,0,0,,,,,,"",""
+ball,2,0.2,Nepal,K Bhurtel,Lokesh Bam,K Klein,0,0,,,,,,"",""
+ball,2,0.3,Nepal,K Bhurtel,Lokesh Bam,K Klein,0,0,,,,,,"",""
+ball,2,0.4,Nepal,K Bhurtel,Lokesh Bam,K Klein,2,0,,,,,,"",""
+ball,2,0.5,Nepal,K Bhurtel,Lokesh Bam,K Klein,0,0,,,,,,"",""
+ball,2,0.6,Nepal,K Bhurtel,Lokesh Bam,K Klein,0,0,,,,,,"",""
+ball,2,1.1,Nepal,Lokesh Bam,K Bhurtel,BE Fletcher,0,0,,,,,,caught,Lokesh Bam
+ball,2,1.2,Nepal,AK Sah,K Bhurtel,BE Fletcher,1,0,,,,,,"",""
+ball,2,1.3,Nepal,K Bhurtel,AK Sah,BE Fletcher,1,0,,,,,,"",""
+ball,2,1.4,Nepal,AK Sah,K Bhurtel,BE Fletcher,0,1,,,,1,,"",""
+ball,2,1.5,Nepal,K Bhurtel,AK Sah,BE Fletcher,2,0,,,,,,"",""
+ball,2,1.6,Nepal,K Bhurtel,AK Sah,BE Fletcher,2,0,,,,,,"",""
+ball,2,2.1,Nepal,AK Sah,K Bhurtel,K Klein,0,0,,,,,,caught,AK Sah
+ball,2,2.2,Nepal,RK Paudel,K Bhurtel,K Klein,0,0,,,,,,"",""
+ball,2,2.3,Nepal,RK Paudel,K Bhurtel,K Klein,1,0,,,,,,"",""
+ball,2,2.4,Nepal,K Bhurtel,RK Paudel,K Klein,4,0,,,,,,"",""
+ball,2,2.5,Nepal,K Bhurtel,RK Paudel,K Klein,0,2,2,,,,,"",""
+ball,2,2.6,Nepal,RK Paudel,K Bhurtel,K Klein,6,0,,,,,,"",""
+ball,2,2.7,Nepal,RK Paudel,K Bhurtel,K Klein,2,0,,,,,,"",""
+ball,2,3.1,Nepal,K Bhurtel,RK Paudel,BE Fletcher,0,1,1,,,,,"",""
+ball,2,3.2,Nepal,K Bhurtel,RK Paudel,BE Fletcher,0,1,1,,,,,"",""
+ball,2,3.3,Nepal,K Bhurtel,RK Paudel,BE Fletcher,0,1,1,,,,,"",""
+ball,2,3.4,Nepal,K Bhurtel,RK Paudel,BE Fletcher,4,0,,,,,,"",""
+ball,2,3.5,Nepal,K Bhurtel,RK Paudel,BE Fletcher,0,1,1,,,,,"",""
+ball,2,3.6,Nepal,K Bhurtel,RK Paudel,BE Fletcher,4,0,,,,,,"",""
+ball,2,3.7,Nepal,K Bhurtel,RK Paudel,BE Fletcher,1,0,,,,,,"",""
+ball,2,3.8,Nepal,RK Paudel,K Bhurtel,BE Fletcher,1,0,,,,,,"",""
+ball,2,3.9,Nepal,K Bhurtel,RK Paudel,BE Fletcher,4,0,,,,,,"",""
+ball,2,3.10,Nepal,K Bhurtel,RK Paudel,BE Fletcher,1,0,,,,,,"",""
+ball,2,4.1,Nepal,K Bhurtel,RK Paudel,ZB Lion-Cachet,2,0,,,,,,"",""
+ball,2,4.2,Nepal,K Bhurtel,RK Paudel,ZB Lion-Cachet,4,0,,,,,,"",""
+ball,2,4.3,Nepal,K Bhurtel,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,4.4,Nepal,K Bhurtel,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,4.5,Nepal,K Bhurtel,RK Paudel,ZB Lion-Cachet,2,0,,,,,,"",""
+ball,2,4.6,Nepal,K Bhurtel,RK Paudel,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,5.1,Nepal,K Bhurtel,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,5.2,Nepal,K Bhurtel,RK Paudel,DT Doram,0,0,,,,,,caught,K Bhurtel
+ball,2,5.3,Nepal,DS Airee,RK Paudel,DT Doram,1,0,,,,,,"",""
+ball,2,5.4,Nepal,RK Paudel,DS Airee,DT Doram,1,0,,,,,,"",""
+ball,2,5.5,Nepal,DS Airee,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,5.6,Nepal,DS Airee,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,6.1,Nepal,RK Paudel,DS Airee,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,6.2,Nepal,DS Airee,RK Paudel,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,6.3,Nepal,RK Paudel,DS Airee,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,6.4,Nepal,DS Airee,RK Paudel,ZB Lion-Cachet,0,1,1,,,,,"",""
+ball,2,6.5,Nepal,DS Airee,RK Paudel,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,6.6,Nepal,RK Paudel,DS Airee,ZB Lion-Cachet,2,0,,,,,,"",""
+ball,2,6.7,Nepal,RK Paudel,DS Airee,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,7.1,Nepal,RK Paudel,DS Airee,DT Doram,0,0,,,,,,"",""
+ball,2,7.2,Nepal,RK Paudel,DS Airee,DT Doram,1,0,,,,,,"",""
+ball,2,7.3,Nepal,DS Airee,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,7.4,Nepal,DS Airee,RK Paudel,DT Doram,0,0,,,,,,caught,DS Airee
+ball,2,7.5,Nepal,K Thagunna,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,7.6,Nepal,K Thagunna,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,8.1,Nepal,RK Paudel,K Thagunna,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,8.2,Nepal,K Thagunna,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,8.3,Nepal,K Thagunna,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,8.4,Nepal,K Thagunna,RK Paudel,ZB Lion-Cachet,2,0,,,,,,"",""
+ball,2,8.5,Nepal,K Thagunna,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,8.6,Nepal,K Thagunna,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,9.1,Nepal,RK Paudel,K Thagunna,Saqib Zulfiqar,0,0,,,,,,"",""
+ball,2,9.2,Nepal,RK Paudel,K Thagunna,Saqib Zulfiqar,1,0,,,,,,"",""
+ball,2,9.3,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,0,0,,,,,,"",""
+ball,2,9.4,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,1,0,,,,,,"",""
+ball,2,9.5,Nepal,RK Paudel,K Thagunna,Saqib Zulfiqar,1,0,,,,,,"",""
+ball,2,9.6,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,1,0,,,,,,"",""
+ball,2,10.1,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,0,0,,,,,,"",""
+ball,2,10.2,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,10.3,Nepal,RK Paudel,K Thagunna,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,10.4,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,10.5,Nepal,RK Paudel,K Thagunna,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,10.6,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,11.1,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,0,0,,,,,,"",""
+ball,2,11.2,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,2,0,,,,,,"",""
+ball,2,11.3,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,2,0,,,,,,"",""
+ball,2,11.4,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,0,0,,,,,,"",""
+ball,2,11.5,Nepal,K Thagunna,RK Paudel,Saqib Zulfiqar,1,0,,,,,,"",""
+ball,2,11.6,Nepal,RK Paudel,K Thagunna,Saqib Zulfiqar,4,0,,,,,,"",""
+ball,2,12.1,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,2,0,,,,,,"",""
+ball,2,12.2,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,0,0,,,,,,"",""
+ball,2,12.3,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,0,0,,,,,,"",""
+ball,2,12.4,Nepal,K Thagunna,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,12.5,Nepal,RK Paudel,K Thagunna,Vikramjit Singh,0,0,,,,,,"",""
+ball,2,12.6,Nepal,RK Paudel,K Thagunna,Vikramjit Singh,0,0,,,,,,"",""
+ball,2,13.1,Nepal,K Thagunna,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,13.2,Nepal,K Thagunna,RK Paudel,DT Doram,0,0,,,,,,bowled,K Thagunna
+ball,2,13.3,Nepal,Rupesh Singh,RK Paudel,DT Doram,1,0,,,,,,"",""
+ball,2,13.4,Nepal,RK Paudel,Rupesh Singh,DT Doram,1,0,,,,,,"",""
+ball,2,13.5,Nepal,Rupesh Singh,RK Paudel,DT Doram,0,0,,,,,,"",""
+ball,2,13.6,Nepal,Rupesh Singh,RK Paudel,DT Doram,1,0,,,,,,"",""
+ball,2,14.1,Nepal,Rupesh Singh,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,14.2,Nepal,RK Paudel,Rupesh Singh,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,14.3,Nepal,Rupesh Singh,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,14.4,Nepal,RK Paudel,Rupesh Singh,Vikramjit Singh,2,0,,,,,,"",""
+ball,2,14.5,Nepal,RK Paudel,Rupesh Singh,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,14.6,Nepal,Rupesh Singh,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,15.1,Nepal,Rupesh Singh,RK Paudel,BE Fletcher,2,0,,,,,,"",""
+ball,2,15.2,Nepal,Rupesh Singh,RK Paudel,BE Fletcher,4,0,,,,,,"",""
+ball,2,15.3,Nepal,Rupesh Singh,RK Paudel,BE Fletcher,1,0,,,,,,"",""
+ball,2,15.4,Nepal,RK Paudel,Rupesh Singh,BE Fletcher,1,0,,,,,,"",""
+ball,2,15.5,Nepal,Rupesh Singh,RK Paudel,BE Fletcher,6,0,,,,,,"",""
+ball,2,15.6,Nepal,Rupesh Singh,RK Paudel,BE Fletcher,1,0,,,,,,"",""
+ball,2,16.1,Nepal,Rupesh Singh,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,16.2,Nepal,Rupesh Singh,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,16.3,Nepal,Rupesh Singh,RK Paudel,ZB Lion-Cachet,0,0,,,,,,caught,Rupesh Singh
+ball,2,16.4,Nepal,Karan KC,RK Paudel,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,16.5,Nepal,RK Paudel,Karan KC,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,2,16.6,Nepal,Karan KC,RK Paudel,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,2,17.1,Nepal,RK Paudel,Karan KC,DT Doram,0,0,,,,,,"",""
+ball,2,17.2,Nepal,RK Paudel,Karan KC,DT Doram,6,0,,,,,,"",""
+ball,2,17.3,Nepal,RK Paudel,Karan KC,DT Doram,1,0,,,,,,"",""
+ball,2,17.4,Nepal,Karan KC,RK Paudel,DT Doram,1,0,,,,,,"",""
+ball,2,17.5,Nepal,RK Paudel,Karan KC,DT Doram,0,0,,,,,,"",""
+ball,2,17.6,Nepal,RK Paudel,Karan KC,DT Doram,0,0,,,,,,"",""
+ball,2,18.1,Nepal,Karan KC,RK Paudel,Vikramjit Singh,6,0,,,,,,"",""
+ball,2,18.2,Nepal,Karan KC,RK Paudel,Vikramjit Singh,0,0,,,,,,caught,Karan KC
+ball,2,18.3,Nepal,S Lamichhane,RK Paudel,Vikramjit Singh,1,0,,,,,,"",""
+ball,2,18.4,Nepal,RK Paudel,S Lamichhane,Vikramjit Singh,4,0,,,,,,"",""
+ball,2,18.5,Nepal,RK Paudel,S Lamichhane,Vikramjit Singh,4,0,,,,,,"",""
+ball,2,18.6,Nepal,RK Paudel,S Lamichhane,Vikramjit Singh,0,0,,,,,,caught,RK Paudel
+ball,2,19.1,Nepal,S Lamichhane,NK Yadav,K Klein,2,0,,,,,,"",""
+ball,2,19.2,Nepal,S Lamichhane,NK Yadav,K Klein,1,0,,,,,,"",""
+ball,2,19.3,Nepal,NK Yadav,S Lamichhane,K Klein,4,0,,,,,,"",""
+ball,2,19.4,Nepal,NK Yadav,S Lamichhane,K Klein,2,0,,,,,,"",""
+ball,2,19.5,Nepal,NK Yadav,S Lamichhane,K Klein,2,0,,,,,,"",""
+ball,2,19.6,Nepal,NK Yadav,S Lamichhane,K Klein,4,0,,,,,,"",""
+ball,3,0.1,Nepal,RK Paudel,K Bhurtel,DT Doram,1,0,,,,,,"",""
+ball,3,0.2,Nepal,K Bhurtel,RK Paudel,DT Doram,4,0,,,,,,"",""
+ball,3,0.3,Nepal,K Bhurtel,RK Paudel,DT Doram,6,0,,,,,,"",""
+ball,3,0.4,Nepal,K Bhurtel,RK Paudel,DT Doram,2,0,,,,,,"",""
+ball,3,0.5,Nepal,K Bhurtel,RK Paudel,DT Doram,6,0,,,,,,"",""
+ball,3,0.6,Nepal,K Bhurtel,RK Paudel,DT Doram,0,0,,,,,,caught,K Bhurtel
+ball,4,0.1,Netherlands,M Levitt,MP O'Dowd,Karan KC,6,0,,,,,,"",""
+ball,4,0.2,Netherlands,M Levitt,MP O'Dowd,Karan KC,0,0,,,,,,"",""
+ball,4,0.3,Netherlands,M Levitt,MP O'Dowd,Karan KC,0,1,,,1,,,"",""
+ball,4,0.4,Netherlands,MP O'Dowd,M Levitt,Karan KC,2,0,,,,,,"",""
+ball,4,0.5,Netherlands,MP O'Dowd,M Levitt,Karan KC,6,0,,,,,,"",""
+ball,4,0.6,Netherlands,MP O'Dowd,M Levitt,Karan KC,4,0,,,,,,"",""
+ball,5,0.1,Netherlands,SA Edwards,MP O'Dowd,LN Rajbanshi,6,0,,,,,,"",""
+ball,5,0.2,Netherlands,SA Edwards,MP O'Dowd,LN Rajbanshi,1,0,,,,,,"",""
+ball,5,0.3,Netherlands,MP O'Dowd,SA Edwards,LN Rajbanshi,6,0,,,,,,"",""
+ball,5,0.4,Netherlands,MP O'Dowd,SA Edwards,LN Rajbanshi,0,1,1,,,,,"",""
+ball,5,0.5,Netherlands,MP O'Dowd,SA Edwards,LN Rajbanshi,1,0,,,,,,"",""
+ball,5,0.6,Netherlands,SA Edwards,MP O'Dowd,LN Rajbanshi,2,0,,,,,,"",""
+ball,5,0.7,Netherlands,SA Edwards,MP O'Dowd,LN Rajbanshi,0,0,,,,,,caught,SA Edwards
+ball,6,0.1,Nepal,RK Paudel,DS Airee,K Klein,6,0,,,,,,"",""
+ball,6,0.2,Nepal,RK Paudel,DS Airee,K Klein,1,0,,,,,,"",""
+ball,6,0.3,Nepal,DS Airee,RK Paudel,K Klein,4,0,,,,,,"",""
+ball,6,0.4,Nepal,DS Airee,RK Paudel,K Klein,0,0,,,,,,"",""
+ball,6,0.5,Nepal,DS Airee,RK Paudel,K Klein,0,0,,,,,,"",""
+ball,6,0.6,Nepal,DS Airee,RK Paudel,K Klein,6,0,,,,,,"",""
+ball,7,0.1,Nepal,RK Paudel,DS Airee,ZB Lion-Cachet,0,0,,,,,,caught,RK Paudel
+ball,7,0.2,Nepal,Rupesh Singh,DS Airee,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,7,0.3,Nepal,Rupesh Singh,DS Airee,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,7,0.4,Nepal,Rupesh Singh,DS Airee,ZB Lion-Cachet,0,0,,,,,,caught,Rupesh Singh
+ball,8,0.1,Netherlands,M Levitt,ZB Lion-Cachet,S Lamichhane,6,0,,,,,,"",""

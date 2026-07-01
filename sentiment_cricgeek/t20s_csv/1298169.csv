@@ -1,0 +1,294 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,male
+info,season,2022/23
+info,date,2022/11/02
+info,event,ICC Men's T20 World Cup
+info,match_number,35
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,V Kohli
+info,umpire,CM Brown
+info,umpire,M Erasmus
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,RK Illingworth
+info,match_referee,DC Boon
+info,winner,India
+info,winner_runs,5
+info,method,D/L
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,KD Karthik
+info,player,India,AR Patel
+info,player,India,R Ashwin
+info,player,India,B Kumar
+info,player,India,Mohammed Shami
+info,player,India,Arshdeep Singh
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Yasir Ali Chowdhury
+info,player,Bangladesh,Nurul Hasan
+info,player,Bangladesh,Mosaddek Hossain
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Hasan Mahmud
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,AR Patel,2e171977
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Yasir Ali Chowdhury,5791b840
+ball,1,0.1,India,KL Rahul,RG Sharma,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,0.2,India,KL Rahul,RG Sharma,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,0.3,India,KL Rahul,RG Sharma,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,0.4,India,KL Rahul,RG Sharma,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,0.5,India,KL Rahul,RG Sharma,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,0.6,India,RG Sharma,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.1,India,KL Rahul,RG Sharma,Shoriful Islam,0,0,,,,,,"",""
+ball,1,1.2,India,KL Rahul,RG Sharma,Shoriful Islam,0,1,,1,,,,"",""
+ball,1,1.3,India,KL Rahul,RG Sharma,Shoriful Islam,0,0,,,,,,"",""
+ball,1,1.4,India,KL Rahul,RG Sharma,Shoriful Islam,1,0,,,,,,"",""
+ball,1,1.5,India,RG Sharma,KL Rahul,Shoriful Islam,1,0,,,,,,"",""
+ball,1,1.6,India,KL Rahul,RG Sharma,Shoriful Islam,6,0,,,,,,"",""
+ball,1,1.7,India,KL Rahul,RG Sharma,Shoriful Islam,0,0,,,,,,"",""
+ball,1,2.1,India,RG Sharma,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,2.2,India,RG Sharma,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,2.3,India,RG Sharma,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,2.4,India,RG Sharma,KL Rahul,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,2.5,India,KL Rahul,RG Sharma,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,2.6,India,KL Rahul,RG Sharma,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.1,India,RG Sharma,KL Rahul,Hasan Mahmud,0,0,,,,,,"",""
+ball,1,3.2,India,RG Sharma,KL Rahul,Hasan Mahmud,0,0,,,,,,caught,RG Sharma
+ball,1,3.3,India,V Kohli,KL Rahul,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,3.4,India,KL Rahul,V Kohli,Hasan Mahmud,4,0,,,,,,"",""
+ball,1,3.5,India,KL Rahul,V Kohli,Hasan Mahmud,6,0,,,,,,"",""
+ball,1,3.6,India,KL Rahul,V Kohli,Hasan Mahmud,0,0,,,,,,"",""
+ball,1,4.1,India,V Kohli,KL Rahul,Taskin Ahmed,4,0,,,,,,"",""
+ball,1,4.2,India,V Kohli,KL Rahul,Taskin Ahmed,4,0,,,,,,"",""
+ball,1,4.3,India,V Kohli,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,4.4,India,V Kohli,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,4.5,India,V Kohli,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,4.6,India,V Kohli,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,5.1,India,KL Rahul,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,5.2,India,KL Rahul,V Kohli,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,5.3,India,KL Rahul,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,5.4,India,KL Rahul,V Kohli,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,5.5,India,V Kohli,KL Rahul,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,5.6,India,V Kohli,KL Rahul,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,6.1,India,KL Rahul,V Kohli,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,6.2,India,V Kohli,KL Rahul,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,6.3,India,V Kohli,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,6.4,India,V Kohli,KL Rahul,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,6.5,India,V Kohli,KL Rahul,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,6.6,India,KL Rahul,V Kohli,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,7.1,India,KL Rahul,V Kohli,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,7.2,India,KL Rahul,V Kohli,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,7.3,India,V Kohli,KL Rahul,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,7.4,India,KL Rahul,V Kohli,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,7.5,India,KL Rahul,V Kohli,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,7.6,India,V Kohli,KL Rahul,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.1,India,V Kohli,KL Rahul,Shoriful Islam,4,0,,,,,,"",""
+ball,1,8.2,India,V Kohli,KL Rahul,Shoriful Islam,0,0,,,,,,"",""
+ball,1,8.3,India,V Kohli,KL Rahul,Shoriful Islam,1,0,,,,,,"",""
+ball,1,8.4,India,KL Rahul,V Kohli,Shoriful Islam,6,1,,1,,,,"",""
+ball,1,8.5,India,KL Rahul,V Kohli,Shoriful Islam,0,1,1,,,,,"",""
+ball,1,8.6,India,KL Rahul,V Kohli,Shoriful Islam,6,0,,,,,,"",""
+ball,1,8.7,India,KL Rahul,V Kohli,Shoriful Islam,4,0,,,,,,"",""
+ball,1,8.8,India,KL Rahul,V Kohli,Shoriful Islam,1,0,,,,,,"",""
+ball,1,9.1,India,KL Rahul,V Kohli,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,9.2,India,KL Rahul,V Kohli,Shakib Al Hasan,0,0,,,,,,caught,KL Rahul
+ball,1,9.3,India,SA Yadav,V Kohli,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,9.4,India,V Kohli,SA Yadav,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,9.5,India,SA Yadav,V Kohli,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,9.6,India,SA Yadav,V Kohli,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,10.1,India,V Kohli,SA Yadav,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,10.2,India,SA Yadav,V Kohli,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,10.3,India,V Kohli,SA Yadav,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,10.4,India,V Kohli,SA Yadav,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,10.5,India,SA Yadav,V Kohli,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,10.6,India,SA Yadav,V Kohli,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,11.1,India,SA Yadav,V Kohli,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,11.2,India,SA Yadav,V Kohli,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.3,India,V Kohli,SA Yadav,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,11.4,India,V Kohli,SA Yadav,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.5,India,SA Yadav,V Kohli,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,11.6,India,SA Yadav,V Kohli,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,12.1,India,SA Yadav,V Kohli,Hasan Mahmud,0,0,,,,,,"",""
+ball,1,12.2,India,SA Yadav,V Kohli,Hasan Mahmud,4,0,,,,,,"",""
+ball,1,12.3,India,SA Yadav,V Kohli,Hasan Mahmud,4,0,,,,,,"",""
+ball,1,12.4,India,SA Yadav,V Kohli,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,12.5,India,V Kohli,SA Yadav,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,12.6,India,SA Yadav,V Kohli,Hasan Mahmud,4,0,,,,,,"",""
+ball,1,13.1,India,V Kohli,SA Yadav,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,13.2,India,V Kohli,SA Yadav,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.3,India,SA Yadav,V Kohli,Shakib Al Hasan,0,0,,,,,,bowled,SA Yadav
+ball,1,13.4,India,HH Pandya,V Kohli,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.5,India,V Kohli,HH Pandya,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.6,India,HH Pandya,V Kohli,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,14.1,India,HH Pandya,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,14.2,India,HH Pandya,V Kohli,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,14.3,India,HH Pandya,V Kohli,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,14.4,India,V Kohli,HH Pandya,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,14.5,India,V Kohli,HH Pandya,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,14.6,India,V Kohli,HH Pandya,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,15.1,India,HH Pandya,V Kohli,Hasan Mahmud,0,0,,,,,,caught,HH Pandya
+ball,1,15.2,India,KD Karthik,V Kohli,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,15.3,India,V Kohli,KD Karthik,Hasan Mahmud,4,0,,,,,,"",""
+ball,1,15.4,India,V Kohli,KD Karthik,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,15.5,India,KD Karthik,V Kohli,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,15.6,India,V Kohli,KD Karthik,Hasan Mahmud,1,1,,1,,,,"",""
+ball,1,15.7,India,KD Karthik,V Kohli,Hasan Mahmud,0,1,,,,1,,"",""
+ball,1,16.1,India,KD Karthik,V Kohli,Shoriful Islam,4,0,,,,,,"",""
+ball,1,16.2,India,KD Karthik,V Kohli,Shoriful Islam,1,0,,,,,,"",""
+ball,1,16.3,India,V Kohli,KD Karthik,Shoriful Islam,0,1,1,,,,,"",""
+ball,1,16.4,India,V Kohli,KD Karthik,Shoriful Islam,2,0,,,,,,"",""
+ball,1,16.5,India,V Kohli,KD Karthik,Shoriful Islam,0,0,,,,,,"",""
+ball,1,16.6,India,V Kohli,KD Karthik,Shoriful Islam,2,0,,,,,,"",""
+ball,1,16.7,India,V Kohli,KD Karthik,Shoriful Islam,0,0,,,,,,run out,KD Karthik
+ball,1,17.1,India,AR Patel,V Kohli,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,17.2,India,AR Patel,V Kohli,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,17.3,India,AR Patel,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,17.4,India,AR Patel,V Kohli,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,17.5,India,AR Patel,V Kohli,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,17.6,India,V Kohli,AR Patel,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,18.1,India,AR Patel,V Kohli,Hasan Mahmud,0,0,,,,,,caught,AR Patel
+ball,1,18.2,India,R Ashwin,V Kohli,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,18.3,India,V Kohli,R Ashwin,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,18.4,India,R Ashwin,V Kohli,Hasan Mahmud,1,0,,,,,,"",""
+ball,1,18.5,India,V Kohli,R Ashwin,Hasan Mahmud,4,0,,,,,,"",""
+ball,1,18.6,India,V Kohli,R Ashwin,Hasan Mahmud,6,0,,,,,,"",""
+ball,1,19.1,India,R Ashwin,V Kohli,Shoriful Islam,0,0,,,,,,"",""
+ball,1,19.2,India,R Ashwin,V Kohli,Shoriful Islam,6,0,,,,,,"",""
+ball,1,19.3,India,R Ashwin,V Kohli,Shoriful Islam,4,0,,,,,,"",""
+ball,1,19.4,India,R Ashwin,V Kohli,Shoriful Islam,1,0,,,,,,"",""
+ball,1,19.5,India,V Kohli,R Ashwin,Shoriful Islam,2,0,,,,,,"",""
+ball,1,19.6,India,V Kohli,R Ashwin,Shoriful Islam,1,0,,,,,,"",""
+ball,2,0.1,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,0,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,0,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,1,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,1,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,0,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,0,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Liton Das,Nazmul Hossain Shanto,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Liton Das,Nazmul Hossain Shanto,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Liton Das,Nazmul Hossain Shanto,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,1,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,6,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,4,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,4,0,,,,,,"",""
+ball,2,2.5,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,1,0,,,,,,"",""
+ball,2,2.6,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,0,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,2,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,3,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Nazmul Hossain Shanto,Liton Das,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Nazmul Hossain Shanto,Liton Das,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.6,Bangladesh,Nazmul Hossain Shanto,Liton Das,Mohammed Shami,0,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,0,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,1,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Nazmul Hossain Shanto,Liton Das,B Kumar,1,0,,,,,,"",""
+ball,2,4.4,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,0,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,6,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Liton Das,Nazmul Hossain Shanto,B Kumar,1,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,4,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,6,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,0,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,4,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Liton Das,Nazmul Hossain Shanto,Mohammed Shami,1,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Nazmul Hossain Shanto,Liton Das,Mohammed Shami,1,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Nazmul Hossain Shanto,Liton Das,AR Patel,1,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Liton Das,Nazmul Hossain Shanto,AR Patel,2,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Liton Das,Nazmul Hossain Shanto,AR Patel,1,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Nazmul Hossain Shanto,Liton Das,AR Patel,0,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Nazmul Hossain Shanto,Liton Das,AR Patel,2,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Nazmul Hossain Shanto,Liton Das,AR Patel,0,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Liton Das,Nazmul Hossain Shanto,R Ashwin,1,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Nazmul Hossain Shanto,Liton Das,R Ashwin,1,0,,,,,,run out,Liton Das
+ball,2,7.3,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,R Ashwin,0,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,R Ashwin,4,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,R Ashwin,1,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Shakib Al Hasan,Nazmul Hossain Shanto,R Ashwin,1,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Shakib Al Hasan,Nazmul Hossain Shanto,HH Pandya,1,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,HH Pandya,6,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,HH Pandya,0,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,HH Pandya,1,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Shakib Al Hasan,Nazmul Hossain Shanto,HH Pandya,1,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,HH Pandya,1,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Nazmul Hossain Shanto,Shakib Al Hasan,Mohammed Shami,0,0,,,,,,caught,Nazmul Hossain Shanto
+ball,2,9.2,Bangladesh,Afif Hossain,Shakib Al Hasan,Mohammed Shami,1,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Shakib Al Hasan,Afif Hossain,Mohammed Shami,1,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Afif Hossain,Shakib Al Hasan,Mohammed Shami,1,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Shakib Al Hasan,Afif Hossain,Mohammed Shami,0,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Shakib Al Hasan,Afif Hossain,Mohammed Shami,1,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Shakib Al Hasan,Afif Hossain,R Ashwin,0,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Shakib Al Hasan,Afif Hossain,R Ashwin,0,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Shakib Al Hasan,Afif Hossain,R Ashwin,4,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Shakib Al Hasan,Afif Hossain,R Ashwin,4,0,,,,,,"",""
+ball,2,10.5,Bangladesh,Shakib Al Hasan,Afif Hossain,R Ashwin,0,2,2,,,,,"",""
+ball,2,10.6,Bangladesh,Afif Hossain,Shakib Al Hasan,R Ashwin,0,0,,,,,,"",""
+ball,2,10.7,Bangladesh,Afif Hossain,Shakib Al Hasan,R Ashwin,1,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Afif Hossain,Shakib Al Hasan,Arshdeep Singh,0,0,,,,,,caught,Afif Hossain
+ball,2,11.2,Bangladesh,Yasir Ali Chowdhury,Shakib Al Hasan,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,11.3,Bangladesh,Yasir Ali Chowdhury,Shakib Al Hasan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,11.4,Bangladesh,Shakib Al Hasan,Yasir Ali Chowdhury,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Shakib Al Hasan,Yasir Ali Chowdhury,Arshdeep Singh,0,0,,,,,,caught,Shakib Al Hasan
+ball,2,11.6,Bangladesh,Nurul Hasan,Yasir Ali Chowdhury,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Nurul Hasan,Yasir Ali Chowdhury,HH Pandya,1,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Yasir Ali Chowdhury,Nurul Hasan,HH Pandya,0,0,,,,,,caught,Yasir Ali Chowdhury
+ball,2,12.3,Bangladesh,Mosaddek Hossain,Nurul Hasan,HH Pandya,6,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Mosaddek Hossain,Nurul Hasan,HH Pandya,0,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Mosaddek Hossain,Nurul Hasan,HH Pandya,0,0,,,,,,bowled,Mosaddek Hossain
+ball,2,12.6,Bangladesh,Taskin Ahmed,Nurul Hasan,HH Pandya,0,0,,,,,,"",""
+ball,2,13.1,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,0,1,,,,1,,"",""
+ball,2,13.4,Bangladesh,Taskin Ahmed,Nurul Hasan,Arshdeep Singh,0,1,,,,1,,"",""
+ball,2,13.5,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Taskin Ahmed,Nurul Hasan,HH Pandya,4,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Taskin Ahmed,Nurul Hasan,HH Pandya,0,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Taskin Ahmed,Nurul Hasan,HH Pandya,6,0,,,,,,"",""
+ball,2,14.4,Bangladesh,Taskin Ahmed,Nurul Hasan,HH Pandya,1,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Nurul Hasan,Taskin Ahmed,HH Pandya,0,0,,,,,,"",""
+ball,2,14.6,Bangladesh,Nurul Hasan,Taskin Ahmed,HH Pandya,0,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Taskin Ahmed,Nurul Hasan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,15.5,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Nurul Hasan,Taskin Ahmed,Arshdeep Singh,1,0,,,,,,"",""

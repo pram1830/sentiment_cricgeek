@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Singapore
+info,gender,female
+info,season,2025/26
+info,date,2025/12/17
+info,event,SEA Games Women's Twenty20 Cricket Competition
+info,match_number,6
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Myanmar
+info,toss_decision,bat
+info,umpire,Anwesh Bose
+info,umpire,AK Rana
+info,reserve_umpire,Peerawat Duangtip
+info,tv_umpire,A Natarajan
+info,match_referee,Suresh Singh
+info,winner,Myanmar
+info,winner_runs,72
+info,player,Myanmar,TT Soe
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,MPP San
+info,player,Myanmar,ZL Win
+info,player,Myanmar,LL Htun
+info,player,Myanmar,TT Aung
+info,player,Myanmar,Thae Thae Po
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,HH Aung
+info,player,Myanmar,TS Shwe
+info,player,Myanmar,Pan Ei Phyu
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,LAR Bommareddy
+info,player,Singapore,RR Seth
+info,player,Singapore,GK Diviya
+info,player,Singapore,S Merican
+info,player,Singapore,NL Jacinta Si Ping
+info,player,Singapore,Ananya Sarma
+info,player,Singapore,H Dhavina
+info,player,Singapore,Pushpa Murali
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,CH Abeyratne
+info,registry,people,A Natarajan,a2b73ae0
+info,registry,people,AK Rana,562d74d0
+info,registry,people,Ananya Sarma,0bb03efc
+info,registry,people,Anwesh Bose,3bdae121
+info,registry,people,CH Abeyratne,ef423744
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,HH Aung,860042f6
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,LAR Bommareddy,3da8cd3a
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,MPP San,5bc290a2
+info,registry,people,NL Jacinta Si Ping,68c9a36f
+info,registry,people,Pan Ei Phyu,9fcaeb60
+info,registry,people,Peerawat Duangtip,af5820b5
+info,registry,people,Pushpa Murali,459d974f
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,S Merican,f3f6f5a0
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Suresh Singh,073de6f9
+info,registry,people,TS Shwe,9e9d50b9
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d
+ball,1,0.1,Myanmar,TT Soe,Zon Lin,Shafina Mahesh,0,4,,,4,,,"",""
+ball,1,0.2,Myanmar,TT Soe,Zon Lin,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,0.3,Myanmar,TT Soe,Zon Lin,Shafina Mahesh,2,0,,,,,,"",""
+ball,1,0.4,Myanmar,TT Soe,Zon Lin,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,0.5,Myanmar,TT Soe,Zon Lin,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,0.6,Myanmar,TT Soe,Zon Lin,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,1.1,Myanmar,TT Soe,Zon Lin,RR Seth,1,0,,,,,,"",""
+ball,1,1.2,Myanmar,Zon Lin,TT Soe,RR Seth,0,0,,,,,,bowled,Zon Lin
+ball,1,1.3,Myanmar,MPP San,TT Soe,RR Seth,0,0,,,,,,"",""
+ball,1,1.4,Myanmar,MPP San,TT Soe,RR Seth,0,0,,,,,,"",""
+ball,1,1.5,Myanmar,MPP San,TT Soe,RR Seth,0,0,,,,,,"",""
+ball,1,1.6,Myanmar,MPP San,TT Soe,RR Seth,0,0,,,,,,"",""
+ball,1,2.1,Myanmar,TT Soe,MPP San,GK Diviya,0,0,,,,,,"",""
+ball,1,2.2,Myanmar,TT Soe,MPP San,GK Diviya,0,0,,,,,,"",""
+ball,1,2.3,Myanmar,TT Soe,MPP San,GK Diviya,0,0,,,,,,"",""
+ball,1,2.4,Myanmar,TT Soe,MPP San,GK Diviya,0,0,,,,,,bowled,TT Soe
+ball,1,2.5,Myanmar,ZL Win,MPP San,GK Diviya,0,0,,,,,,"",""
+ball,1,2.6,Myanmar,ZL Win,MPP San,GK Diviya,0,0,,,,,,"",""
+ball,1,3.1,Myanmar,MPP San,ZL Win,RR Seth,0,0,,,,,,"",""
+ball,1,3.2,Myanmar,MPP San,ZL Win,RR Seth,0,0,,,,,,"",""
+ball,1,3.3,Myanmar,MPP San,ZL Win,RR Seth,0,3,3,,,,,"",""
+ball,1,3.4,Myanmar,MPP San,ZL Win,RR Seth,1,0,,,,,,"",""
+ball,1,3.5,Myanmar,ZL Win,MPP San,RR Seth,2,0,,,,,,"",""
+ball,1,3.6,Myanmar,ZL Win,MPP San,RR Seth,0,1,1,,,,,"",""
+ball,1,3.7,Myanmar,ZL Win,MPP San,RR Seth,0,0,,,,,,"",""
+ball,1,3.8,Myanmar,ZL Win,MPP San,RR Seth,0,0,,,,,,"",""
+ball,1,4.1,Myanmar,MPP San,ZL Win,GK Diviya,0,0,,,,,,"",""
+ball,1,4.2,Myanmar,MPP San,ZL Win,GK Diviya,0,0,,,,,,"",""
+ball,1,4.3,Myanmar,MPP San,ZL Win,GK Diviya,1,0,,,,,,"",""
+ball,1,4.4,Myanmar,ZL Win,MPP San,GK Diviya,1,0,,,,,,"",""
+ball,1,4.5,Myanmar,MPP San,ZL Win,GK Diviya,0,0,,,,,,"",""
+ball,1,4.6,Myanmar,MPP San,ZL Win,GK Diviya,0,0,,,,,,caught,MPP San
+ball,1,5.1,Myanmar,ZL Win,LL Htun,Shafina Mahesh,0,0,,,,,,bowled,ZL Win
+ball,1,5.2,Myanmar,TT Aung,LL Htun,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,5.3,Myanmar,TT Aung,LL Htun,Shafina Mahesh,4,1,,1,,,,"",""
+ball,1,5.4,Myanmar,TT Aung,LL Htun,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,5.5,Myanmar,LL Htun,TT Aung,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,5.6,Myanmar,LL Htun,TT Aung,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,5.7,Myanmar,LL Htun,TT Aung,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,5.8,Myanmar,LL Htun,TT Aung,Shafina Mahesh,4,1,,1,,,,"",""
+ball,1,5.9,Myanmar,LL Htun,TT Aung,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,6.1,Myanmar,TT Aung,LL Htun,RR Seth,1,0,,,,,,"",""
+ball,1,6.2,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,6.3,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,6.4,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,6.5,Myanmar,LL Htun,TT Aung,RR Seth,4,0,,,,,,"",""
+ball,1,6.6,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,7.1,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,7.2,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,1,1,,,,,"",""
+ball,1,7.3,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,1,1,,,,,"",""
+ball,1,7.4,Myanmar,TT Aung,LL Htun,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,7.5,Myanmar,LL Htun,TT Aung,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,7.6,Myanmar,LL Htun,TT Aung,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,7.7,Myanmar,LL Htun,TT Aung,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,7.8,Myanmar,TT Aung,LL Htun,JS Pooranakaran,4,0,,,,,,"",""
+ball,1,8.1,Myanmar,LL Htun,TT Aung,H Dhavina,0,0,,,,,,"",""
+ball,1,8.2,Myanmar,LL Htun,TT Aung,H Dhavina,0,1,1,,,,,"",""
+ball,1,8.3,Myanmar,LL Htun,TT Aung,H Dhavina,0,0,,,,,,"",""
+ball,1,8.4,Myanmar,LL Htun,TT Aung,H Dhavina,3,0,,,,,,"",""
+ball,1,8.5,Myanmar,TT Aung,LL Htun,H Dhavina,1,0,,,,,,"",""
+ball,1,8.6,Myanmar,LL Htun,TT Aung,H Dhavina,0,0,,,,,,"",""
+ball,1,8.7,Myanmar,LL Htun,TT Aung,H Dhavina,1,0,,,,,,"",""
+ball,1,9.1,Myanmar,LL Htun,TT Aung,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,9.2,Myanmar,TT Aung,LL Htun,JS Pooranakaran,2,0,,,,,,"",""
+ball,1,9.3,Myanmar,TT Aung,LL Htun,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,9.4,Myanmar,LL Htun,TT Aung,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,9.5,Myanmar,LL Htun,TT Aung,JS Pooranakaran,4,0,,,,,,"",""
+ball,1,9.6,Myanmar,LL Htun,TT Aung,JS Pooranakaran,2,0,,,,,,"",""
+ball,1,10.1,Myanmar,TT Aung,LL Htun,GK Diviya,0,0,,,,,,"",""
+ball,1,10.2,Myanmar,TT Aung,LL Htun,GK Diviya,1,0,,,,,,"",""
+ball,1,10.3,Myanmar,LL Htun,TT Aung,GK Diviya,0,0,,,,,,"",""
+ball,1,10.4,Myanmar,LL Htun,TT Aung,GK Diviya,0,1,,,,1,,"",""
+ball,1,10.5,Myanmar,TT Aung,LL Htun,GK Diviya,1,0,,,,,,"",""
+ball,1,10.6,Myanmar,LL Htun,TT Aung,GK Diviya,4,0,,,,,,"",""
+ball,1,11.1,Myanmar,TT Aung,LL Htun,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,11.2,Myanmar,LL Htun,TT Aung,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,11.3,Myanmar,LL Htun,TT Aung,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,11.4,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,11.5,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,11.6,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,12.1,Myanmar,LL Htun,TT Aung,H Dhavina,4,0,,,,,,"",""
+ball,1,12.2,Myanmar,LL Htun,TT Aung,H Dhavina,0,0,,,,,,"",""
+ball,1,12.3,Myanmar,LL Htun,TT Aung,H Dhavina,1,0,,,,,,"",""
+ball,1,12.4,Myanmar,TT Aung,LL Htun,H Dhavina,0,0,,,,,,"",""
+ball,1,12.5,Myanmar,TT Aung,LL Htun,H Dhavina,1,0,,,,,,"",""
+ball,1,12.6,Myanmar,LL Htun,TT Aung,H Dhavina,1,0,,,,,,"",""
+ball,1,13.1,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,13.2,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,13.3,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,13.4,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,13.5,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,13.6,Myanmar,LL Htun,TT Aung,RR Seth,0,0,,,,,,"",""
+ball,1,14.1,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,14.2,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,1,1,,,,,"",""
+ball,1,14.3,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,14.4,Myanmar,TT Aung,LL Htun,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,14.5,Myanmar,TT Aung,LL Htun,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,14.6,Myanmar,LL Htun,TT Aung,JS Pooranakaran,0,1,1,,,,,"",""
+ball,1,14.7,Myanmar,LL Htun,TT Aung,JS Pooranakaran,0,0,,,,,,"",""
+ball,1,14.8,Myanmar,LL Htun,TT Aung,JS Pooranakaran,1,0,,,,,,"",""
+ball,1,15.1,Myanmar,LL Htun,TT Aung,H Dhavina,1,0,,,,,,"",""
+ball,1,15.2,Myanmar,TT Aung,LL Htun,H Dhavina,1,1,,1,,,,"",""
+ball,1,15.3,Myanmar,LL Htun,TT Aung,H Dhavina,0,0,,,,,,"",""
+ball,1,15.4,Myanmar,LL Htun,TT Aung,H Dhavina,0,0,,,,,,"",""
+ball,1,15.5,Myanmar,LL Htun,TT Aung,H Dhavina,1,0,,,,,,"",""
+ball,1,15.6,Myanmar,TT Aung,LL Htun,H Dhavina,0,0,,,,,,"",""
+ball,1,15.7,Myanmar,TT Aung,LL Htun,H Dhavina,4,0,,,,,,"",""
+ball,1,16.1,Myanmar,LL Htun,TT Aung,Shafina Mahesh,0,0,,,,,,bowled,LL Htun
+ball,1,16.2,Myanmar,Thae Thae Po,TT Aung,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,16.3,Myanmar,TT Aung,Thae Thae Po,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,16.4,Myanmar,TT Aung,Thae Thae Po,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,16.5,Myanmar,Thae Thae Po,TT Aung,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,16.6,Myanmar,Thae Thae Po,TT Aung,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,16.7,Myanmar,Thae Thae Po,TT Aung,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,17.1,Myanmar,TT Aung,Thae Thae Po,H Dhavina,1,0,,,,,,"",""
+ball,1,17.2,Myanmar,Thae Thae Po,TT Aung,H Dhavina,1,0,,,,,,"",""
+ball,1,17.3,Myanmar,TT Aung,Thae Thae Po,H Dhavina,1,0,,,,,,"",""
+ball,1,17.4,Myanmar,Thae Thae Po,TT Aung,H Dhavina,1,0,,,,,,"",""
+ball,1,17.5,Myanmar,TT Aung,Thae Thae Po,H Dhavina,0,1,1,,,,,"",""
+ball,1,17.6,Myanmar,TT Aung,Thae Thae Po,H Dhavina,1,0,,,,,,"",""
+ball,1,17.7,Myanmar,Thae Thae Po,TT Aung,H Dhavina,0,0,,,,,,"",""
+ball,1,18.1,Myanmar,TT Aung,Thae Thae Po,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,18.2,Myanmar,TT Aung,Thae Thae Po,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,18.3,Myanmar,TT Aung,Thae Thae Po,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,18.4,Myanmar,TT Aung,Thae Thae Po,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,18.5,Myanmar,Thae Thae Po,TT Aung,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,18.6,Myanmar,Thae Thae Po,TT Aung,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,19.1,Myanmar,Thae Thae Po,TT Aung,GK Diviya,1,0,,,,,,"",""
+ball,1,19.2,Myanmar,TT Aung,Thae Thae Po,GK Diviya,0,0,,,,,,bowled,TT Aung
+ball,1,19.3,Myanmar,ZT Kyaw,Thae Thae Po,GK Diviya,0,1,1,,,,,"",""
+ball,1,19.4,Myanmar,ZT Kyaw,Thae Thae Po,GK Diviya,0,0,,,,,,"",""
+ball,1,19.5,Myanmar,ZT Kyaw,Thae Thae Po,GK Diviya,0,0,,,,,,"",""
+ball,1,19.6,Myanmar,ZT Kyaw,Thae Thae Po,GK Diviya,4,0,,,,,,"",""
+ball,1,19.7,Myanmar,ZT Kyaw,Thae Thae Po,GK Diviya,0,0,,,,,,caught,ZT Kyaw
+ball,2,0.1,Singapore,Shafina Mahesh,LAR Bommareddy,ZL Win,0,0,,,,,,"",""
+ball,2,0.2,Singapore,Shafina Mahesh,LAR Bommareddy,ZL Win,1,0,,,,,,"",""
+ball,2,0.3,Singapore,LAR Bommareddy,Shafina Mahesh,ZL Win,0,0,,,,,,"",""
+ball,2,0.4,Singapore,LAR Bommareddy,Shafina Mahesh,ZL Win,0,0,,,,,,bowled,LAR Bommareddy
+ball,2,0.5,Singapore,RR Seth,Shafina Mahesh,ZL Win,0,0,,,,,,"",""
+ball,2,0.6,Singapore,RR Seth,Shafina Mahesh,ZL Win,0,0,,,,,,"",""
+ball,2,1.1,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,1.2,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,1.3,Singapore,Shafina Mahesh,RR Seth,HH Aung,1,0,,,,,,"",""
+ball,2,1.4,Singapore,RR Seth,Shafina Mahesh,HH Aung,1,0,,,,,,"",""
+ball,2,1.5,Singapore,Shafina Mahesh,RR Seth,HH Aung,1,0,,,,,,"",""
+ball,2,1.6,Singapore,RR Seth,Shafina Mahesh,HH Aung,0,0,,,,,,"",""
+ball,2,2.1,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,0,,,,,,"",""
+ball,2,2.2,Singapore,Shafina Mahesh,RR Seth,ZL Win,1,0,,,,,,"",""
+ball,2,2.3,Singapore,RR Seth,Shafina Mahesh,ZL Win,0,0,,,,,,"",""
+ball,2,2.4,Singapore,RR Seth,Shafina Mahesh,ZL Win,1,0,,,,,,"",""
+ball,2,2.5,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,0,,,,,,"",""
+ball,2,2.6,Singapore,Shafina Mahesh,RR Seth,ZL Win,1,0,,,,,,"",""
+ball,2,3.1,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,3.2,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,3.3,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,1,1,,,,,"",""
+ball,2,3.4,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,3.5,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,1,1,,,,,"",""
+ball,2,3.6,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,3.7,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,3.8,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,1,1,,,,,"",""
+ball,2,3.9,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,1,1,,,,,"",""
+ball,2,3.10,Singapore,Shafina Mahesh,RR Seth,HH Aung,0,0,,,,,,"",""
+ball,2,4.1,Singapore,RR Seth,Shafina Mahesh,ZL Win,1,0,,,,,,"",""
+ball,2,4.2,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,0,,,,,,"",""
+ball,2,4.3,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,1,,1,,,,"",""
+ball,2,4.4,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,0,,,,,,"",""
+ball,2,4.5,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,0,,,,,,"",""
+ball,2,4.6,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,0,,,,,,"",""
+ball,2,4.7,Singapore,Shafina Mahesh,RR Seth,ZL Win,0,0,,,,,,"",""
+ball,2,5.1,Singapore,RR Seth,Shafina Mahesh,LL Htun,2,0,,,,,,"",""
+ball,2,5.2,Singapore,RR Seth,Shafina Mahesh,LL Htun,0,0,,,,,,"",""
+ball,2,5.3,Singapore,RR Seth,Shafina Mahesh,LL Htun,0,0,,,,,,"",""
+ball,2,5.4,Singapore,RR Seth,Shafina Mahesh,LL Htun,0,0,,,,,,"",""
+ball,2,5.5,Singapore,RR Seth,Shafina Mahesh,LL Htun,4,0,,,,,,"",""
+ball,2,5.6,Singapore,RR Seth,Shafina Mahesh,LL Htun,0,1,1,,,,,"",""
+ball,2,5.7,Singapore,RR Seth,Shafina Mahesh,LL Htun,0,0,,,,,,"",""
+ball,2,6.1,Singapore,Shafina Mahesh,RR Seth,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,6.2,Singapore,Shafina Mahesh,RR Seth,Pan Ei Phyu,0,0,,,,,,caught,Shafina Mahesh
+ball,2,6.3,Singapore,GK Diviya,RR Seth,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,6.4,Singapore,GK Diviya,RR Seth,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,6.5,Singapore,GK Diviya,RR Seth,Pan Ei Phyu,1,0,,,,,,"",""
+ball,2,6.6,Singapore,RR Seth,GK Diviya,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,7.1,Singapore,GK Diviya,RR Seth,MPP San,1,0,,,,,,"",""
+ball,2,7.2,Singapore,RR Seth,GK Diviya,MPP San,1,0,,,,,,"",""
+ball,2,7.3,Singapore,GK Diviya,RR Seth,MPP San,0,0,,,,,,"",""
+ball,2,7.4,Singapore,GK Diviya,RR Seth,MPP San,1,0,,,,,,"",""
+ball,2,7.5,Singapore,RR Seth,GK Diviya,MPP San,1,0,,,,,,"",""
+ball,2,7.6,Singapore,GK Diviya,RR Seth,MPP San,0,0,,,,,,"",""
+ball,2,8.1,Singapore,RR Seth,GK Diviya,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,8.2,Singapore,RR Seth,GK Diviya,Pan Ei Phyu,0,0,,,,,,bowled,RR Seth
+ball,2,8.3,Singapore,S Merican,GK Diviya,Pan Ei Phyu,0,1,1,,,,,"",""
+ball,2,8.4,Singapore,S Merican,GK Diviya,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,8.5,Singapore,S Merican,GK Diviya,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,8.6,Singapore,S Merican,GK Diviya,Pan Ei Phyu,1,0,,,,,,"",""
+ball,2,8.7,Singapore,GK Diviya,S Merican,Pan Ei Phyu,1,0,,,,,,"",""
+ball,2,9.1,Singapore,GK Diviya,S Merican,MPP San,1,0,,,,,,"",""
+ball,2,9.2,Singapore,S Merican,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,9.3,Singapore,S Merican,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,9.4,Singapore,S Merican,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,9.5,Singapore,S Merican,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,9.6,Singapore,S Merican,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,10.1,Singapore,GK Diviya,S Merican,Pan Ei Phyu,1,0,,,,,,"",""
+ball,2,10.2,Singapore,S Merican,GK Diviya,Pan Ei Phyu,0,0,,,,,,stumped,S Merican
+ball,2,10.3,Singapore,NL Jacinta Si Ping,GK Diviya,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,10.4,Singapore,NL Jacinta Si Ping,GK Diviya,Pan Ei Phyu,2,0,,,,,,"",""
+ball,2,10.5,Singapore,NL Jacinta Si Ping,GK Diviya,Pan Ei Phyu,2,0,,,,,,"",""
+ball,2,10.6,Singapore,NL Jacinta Si Ping,GK Diviya,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,11.1,Singapore,GK Diviya,NL Jacinta Si Ping,MPP San,0,0,,,,,,"",""
+ball,2,11.2,Singapore,GK Diviya,NL Jacinta Si Ping,MPP San,1,0,,,,,,"",""
+ball,2,11.3,Singapore,NL Jacinta Si Ping,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,11.4,Singapore,NL Jacinta Si Ping,GK Diviya,MPP San,1,0,,,,,,"",""
+ball,2,11.5,Singapore,GK Diviya,NL Jacinta Si Ping,MPP San,1,0,,,,,,"",""
+ball,2,11.6,Singapore,NL Jacinta Si Ping,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,12.1,Singapore,GK Diviya,NL Jacinta Si Ping,Pan Ei Phyu,1,0,,,,,,"",""
+ball,2,12.2,Singapore,NL Jacinta Si Ping,GK Diviya,Pan Ei Phyu,0,0,,,,,,"",""
+ball,2,12.3,Singapore,NL Jacinta Si Ping,GK Diviya,Pan Ei Phyu,2,0,,,,,,"",""
+ball,2,12.4,Singapore,NL Jacinta Si Ping,GK Diviya,Pan Ei Phyu,0,0,,,,,,run out,NL Jacinta Si Ping
+ball,2,12.5,Singapore,GK Diviya,Ananya Sarma,Pan Ei Phyu,1,0,,,,,,"",""
+ball,2,12.6,Singapore,Ananya Sarma,GK Diviya,Pan Ei Phyu,0,0,,,,,,stumped,Ananya Sarma
+ball,2,13.1,Singapore,GK Diviya,H Dhavina,MPP San,0,1,1,,,,,"",""
+ball,2,13.2,Singapore,GK Diviya,H Dhavina,MPP San,1,0,,,,,,"",""
+ball,2,13.3,Singapore,H Dhavina,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,13.4,Singapore,H Dhavina,GK Diviya,MPP San,0,0,,,,,,"",""
+ball,2,13.5,Singapore,H Dhavina,GK Diviya,MPP San,1,0,,,,,,"",""
+ball,2,13.6,Singapore,GK Diviya,H Dhavina,MPP San,0,0,,,,,,"",""
+ball,2,13.7,Singapore,GK Diviya,H Dhavina,MPP San,1,0,,,,,,"",""
+ball,2,14.1,Singapore,GK Diviya,H Dhavina,TT Soe,0,0,,,,,,"",""
+ball,2,14.2,Singapore,GK Diviya,H Dhavina,TT Soe,0,1,1,,,,,"",""
+ball,2,14.3,Singapore,GK Diviya,H Dhavina,TT Soe,0,1,1,,,,,"",""
+ball,2,14.4,Singapore,GK Diviya,H Dhavina,TT Soe,0,0,,,,,,caught,GK Diviya
+ball,2,14.5,Singapore,Pushpa Murali,H Dhavina,TT Soe,0,0,,,,,,"",""
+ball,2,14.6,Singapore,Pushpa Murali,H Dhavina,TT Soe,1,0,,,,,,"",""
+ball,2,14.7,Singapore,H Dhavina,Pushpa Murali,TT Soe,0,0,,,,,,"",""
+ball,2,14.8,Singapore,H Dhavina,Pushpa Murali,TT Soe,0,0,,,,,,"",""
+ball,2,15.1,Singapore,Pushpa Murali,H Dhavina,Zon Lin,0,0,,,,,,bowled,Pushpa Murali
+ball,2,15.2,Singapore,JS Pooranakaran,H Dhavina,Zon Lin,0,0,,,,,,"",""
+ball,2,15.3,Singapore,JS Pooranakaran,H Dhavina,Zon Lin,0,0,,,,,,bowled,JS Pooranakaran
+ball,2,15.4,Singapore,CH Abeyratne,H Dhavina,Zon Lin,0,2,2,,,,,"",""
+ball,2,15.5,Singapore,H Dhavina,CH Abeyratne,Zon Lin,0,0,,,,,,"",""
+ball,2,15.6,Singapore,H Dhavina,CH Abeyratne,Zon Lin,0,1,1,,,,,"",""
+ball,2,15.7,Singapore,H Dhavina,CH Abeyratne,Zon Lin,0,0,,,,,,bowled,H Dhavina

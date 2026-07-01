@@ -1,0 +1,238 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Tanzania
+info,gender,male
+info,season,2025
+info,date,2025/07/13
+info,event,Quadrangular Twenty20 Series (Malawi)
+info,venue,"TCA Oval, Blantyre"
+info,city,Blantyre
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,SA Jumbe
+info,winner,Tanzania
+info,winner_wickets,10
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,SS Shukla
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,A Augastin
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,K Juma
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,MS Maker
+info,player,Tanzania,RE Francis
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,Shaik Basha
+info,registry,people,A Augastin,056e3558
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LS Barkania,073126d6
+info,registry,people,MS Maker,14318ae4
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,RE Francis,20ca18bc
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SS Shukla,576d6fdf
+info,registry,people,Shaik Basha,1b77c4c6
+info,registry,people,Sohail Ahmed,4db71b2e
+ball,1,0.1,Bahrain,Asif Ali,P Kurup,K Juma,1,0,,,,,,"",""
+ball,1,0.2,Bahrain,P Kurup,Asif Ali,K Juma,0,0,,,,,,"",""
+ball,1,0.3,Bahrain,P Kurup,Asif Ali,K Juma,1,0,,,,,,"",""
+ball,1,0.4,Bahrain,Asif Ali,P Kurup,K Juma,4,0,,,,,,"",""
+ball,1,0.5,Bahrain,Asif Ali,P Kurup,K Juma,0,0,,,,,,"",""
+ball,1,0.6,Bahrain,Asif Ali,P Kurup,K Juma,1,0,,,,,,"",""
+ball,1,1.1,Bahrain,Asif Ali,P Kurup,SA Jumbe,0,0,,,,,,bowled,Asif Ali
+ball,1,1.2,Bahrain,Fiaz Ahmed,P Kurup,SA Jumbe,0,0,,,,,,caught and bowled,Fiaz Ahmed
+ball,1,1.3,Bahrain,Sohail Ahmed,P Kurup,SA Jumbe,0,0,,,,,,"",""
+ball,1,1.4,Bahrain,Sohail Ahmed,P Kurup,SA Jumbe,0,0,,,,,,"",""
+ball,1,1.5,Bahrain,Sohail Ahmed,P Kurup,SA Jumbe,0,0,,,,,,"",""
+ball,1,1.6,Bahrain,Sohail Ahmed,P Kurup,SA Jumbe,4,0,,,,,,"",""
+ball,1,2.1,Bahrain,P Kurup,Sohail Ahmed,K Juma,2,0,,,,,,"",""
+ball,1,2.2,Bahrain,P Kurup,Sohail Ahmed,K Juma,4,0,,,,,,"",""
+ball,1,2.3,Bahrain,P Kurup,Sohail Ahmed,K Juma,0,0,,,,,,"",""
+ball,1,2.4,Bahrain,P Kurup,Sohail Ahmed,K Juma,4,0,,,,,,"",""
+ball,1,2.5,Bahrain,P Kurup,Sohail Ahmed,K Juma,0,0,,,,,,"",""
+ball,1,2.6,Bahrain,P Kurup,Sohail Ahmed,K Juma,0,0,,,,,,"",""
+ball,1,3.1,Bahrain,Sohail Ahmed,P Kurup,SA Jumbe,1,0,,,,,,"",""
+ball,1,3.2,Bahrain,P Kurup,Sohail Ahmed,SA Jumbe,0,0,,,,,,"",""
+ball,1,3.3,Bahrain,P Kurup,Sohail Ahmed,SA Jumbe,0,0,,,,,,"",""
+ball,1,3.4,Bahrain,P Kurup,Sohail Ahmed,SA Jumbe,1,0,,,,,,"",""
+ball,1,3.5,Bahrain,Sohail Ahmed,P Kurup,SA Jumbe,0,0,,,,,,"",""
+ball,1,3.6,Bahrain,Sohail Ahmed,P Kurup,SA Jumbe,0,0,,,,,,"",""
+ball,1,4.1,Bahrain,P Kurup,Sohail Ahmed,AM Kimote,0,0,,,,,,bowled,P Kurup
+ball,1,4.2,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,AM Kimote,1,0,,,,,,"",""
+ball,1,4.3,Bahrain,Sohail Ahmed,Ahmer Bin Nisar,AM Kimote,0,1,1,,,,,"",""
+ball,1,4.4,Bahrain,Sohail Ahmed,Ahmer Bin Nisar,AM Kimote,0,0,,,,,,"",""
+ball,1,4.5,Bahrain,Sohail Ahmed,Ahmer Bin Nisar,AM Kimote,1,0,,,,,,"",""
+ball,1,4.6,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,AM Kimote,0,0,,,,,,"",""
+ball,1,4.7,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,AM Kimote,1,0,,,,,,"",""
+ball,1,5.1,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,SA Jumbe,0,0,,,,,,"",""
+ball,1,5.2,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,SA Jumbe,0,0,,,,,,caught,Ahmer Bin Nisar
+ball,1,5.3,Bahrain,Junaid Aziz,Sohail Ahmed,SA Jumbe,0,0,,,,,,"",""
+ball,1,5.4,Bahrain,Junaid Aziz,Sohail Ahmed,SA Jumbe,1,0,,,,,,"",""
+ball,1,5.5,Bahrain,Sohail Ahmed,Junaid Aziz,SA Jumbe,0,0,,,,,,"",""
+ball,1,5.6,Bahrain,Sohail Ahmed,Junaid Aziz,SA Jumbe,1,0,,,,,,"",""
+ball,1,6.1,Bahrain,Sohail Ahmed,Junaid Aziz,LS Barkania,1,0,,,,,,"",""
+ball,1,6.2,Bahrain,Junaid Aziz,Sohail Ahmed,LS Barkania,0,0,,,,,,"",""
+ball,1,6.3,Bahrain,Junaid Aziz,Sohail Ahmed,LS Barkania,1,0,,,,,,"",""
+ball,1,6.4,Bahrain,Sohail Ahmed,Junaid Aziz,LS Barkania,4,0,,,,,,"",""
+ball,1,6.5,Bahrain,Sohail Ahmed,Junaid Aziz,LS Barkania,4,0,,,,,,"",""
+ball,1,6.6,Bahrain,Sohail Ahmed,Junaid Aziz,LS Barkania,0,0,,,,,,caught and bowled,Sohail Ahmed
+ball,1,7.1,Bahrain,Junaid Aziz,SS Shukla,SA Jumbe,0,0,,,,,,"",""
+ball,1,7.2,Bahrain,Junaid Aziz,SS Shukla,SA Jumbe,1,0,,,,,,"",""
+ball,1,7.3,Bahrain,SS Shukla,Junaid Aziz,SA Jumbe,0,2,,1,,1,,"",""
+ball,1,7.4,Bahrain,Junaid Aziz,SS Shukla,SA Jumbe,0,5,5,,,,,"",""
+ball,1,7.5,Bahrain,Junaid Aziz,SS Shukla,SA Jumbe,1,0,,,,,,"",""
+ball,1,7.6,Bahrain,SS Shukla,Junaid Aziz,SA Jumbe,0,0,,,,,,"",""
+ball,1,7.7,Bahrain,SS Shukla,Junaid Aziz,SA Jumbe,0,0,,,,,,"",""
+ball,1,7.8,Bahrain,SS Shukla,Junaid Aziz,SA Jumbe,2,0,,,,,,"",""
+ball,1,8.1,Bahrain,Junaid Aziz,SS Shukla,LS Barkania,0,0,,,,,,"",""
+ball,1,8.2,Bahrain,Junaid Aziz,SS Shukla,LS Barkania,0,0,,,,,,"",""
+ball,1,8.3,Bahrain,Junaid Aziz,SS Shukla,LS Barkania,1,0,,,,,,"",""
+ball,1,8.4,Bahrain,SS Shukla,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,8.5,Bahrain,SS Shukla,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,8.6,Bahrain,SS Shukla,Junaid Aziz,LS Barkania,1,0,,,,,,"",""
+ball,1,9.1,Bahrain,SS Shukla,Junaid Aziz,K Nassoro,0,0,,,,,,"",""
+ball,1,9.2,Bahrain,SS Shukla,Junaid Aziz,K Nassoro,0,0,,,,,,run out,SS Shukla
+ball,1,9.3,Bahrain,Imran Anwar,Junaid Aziz,K Nassoro,0,0,,,,,,"",""
+ball,1,9.4,Bahrain,Imran Anwar,Junaid Aziz,K Nassoro,0,0,,,,,,"",""
+ball,1,9.5,Bahrain,Imran Anwar,Junaid Aziz,K Nassoro,0,0,,,,,,"",""
+ball,1,9.6,Bahrain,Imran Anwar,Junaid Aziz,K Nassoro,0,0,,,,,,"",""
+ball,1,10.1,Bahrain,Junaid Aziz,Imran Anwar,LS Barkania,1,0,,,,,,"",""
+ball,1,10.2,Bahrain,Imran Anwar,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,10.3,Bahrain,Imran Anwar,Junaid Aziz,LS Barkania,1,0,,,,,,"",""
+ball,1,10.4,Bahrain,Junaid Aziz,Imran Anwar,LS Barkania,1,0,,,,,,"",""
+ball,1,10.5,Bahrain,Imran Anwar,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,10.6,Bahrain,Imran Anwar,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,11.1,Bahrain,Junaid Aziz,Imran Anwar,RE Francis,0,0,,,,,,"",""
+ball,1,11.2,Bahrain,Junaid Aziz,Imran Anwar,RE Francis,1,0,,,,,,"",""
+ball,1,11.3,Bahrain,Imran Anwar,Junaid Aziz,RE Francis,1,0,,,,,,"",""
+ball,1,11.4,Bahrain,Junaid Aziz,Imran Anwar,RE Francis,0,0,,,,,,"",""
+ball,1,11.5,Bahrain,Junaid Aziz,Imran Anwar,RE Francis,0,0,,,,,,"",""
+ball,1,11.6,Bahrain,Junaid Aziz,Imran Anwar,RE Francis,1,0,,,,,,"",""
+ball,1,12.1,Bahrain,Junaid Aziz,Imran Anwar,LS Barkania,0,0,,,,,,"",""
+ball,1,12.2,Bahrain,Junaid Aziz,Imran Anwar,LS Barkania,1,0,,,,,,"",""
+ball,1,12.3,Bahrain,Imran Anwar,Junaid Aziz,LS Barkania,0,0,,,,,,caught,Imran Anwar
+ball,1,12.4,Bahrain,Rizwan Butt,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,12.5,Bahrain,Rizwan Butt,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,12.6,Bahrain,Rizwan Butt,Junaid Aziz,LS Barkania,0,0,,,,,,"",""
+ball,1,13.1,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,0,0,,,,,,"",""
+ball,1,13.2,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,4,0,,,,,,"",""
+ball,1,13.3,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,0,0,,,,,,"",""
+ball,1,13.4,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,0,0,,,,,,"",""
+ball,1,13.5,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,0,0,,,,,,"",""
+ball,1,13.6,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,1,0,,,,,,"",""
+ball,1,14.1,Bahrain,Junaid Aziz,Rizwan Butt,AM Kimote,1,0,,,,,,"",""
+ball,1,14.2,Bahrain,Rizwan Butt,Junaid Aziz,AM Kimote,1,0,,,,,,"",""
+ball,1,14.3,Bahrain,Junaid Aziz,Rizwan Butt,AM Kimote,1,0,,,,,,"",""
+ball,1,14.4,Bahrain,Rizwan Butt,Junaid Aziz,AM Kimote,0,0,,,,,,"",""
+ball,1,14.5,Bahrain,Rizwan Butt,Junaid Aziz,AM Kimote,1,0,,,,,,"",""
+ball,1,14.6,Bahrain,Junaid Aziz,Rizwan Butt,AM Kimote,1,0,,,,,,"",""
+ball,1,15.1,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,6,0,,,,,,"",""
+ball,1,15.2,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,0,0,,,,,,"",""
+ball,1,15.3,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,0,0,,,,,,"",""
+ball,1,15.4,Bahrain,Junaid Aziz,Rizwan Butt,RE Francis,1,0,,,,,,"",""
+ball,1,15.5,Bahrain,Rizwan Butt,Junaid Aziz,RE Francis,0,0,,,,,,"",""
+ball,1,15.6,Bahrain,Rizwan Butt,Junaid Aziz,RE Francis,0,0,,,,,,"",""
+ball,1,16.1,Bahrain,Junaid Aziz,Rizwan Butt,K Juma,1,0,,,,,,"",""
+ball,1,16.2,Bahrain,Rizwan Butt,Junaid Aziz,K Juma,1,0,,,,,,"",""
+ball,1,16.3,Bahrain,Junaid Aziz,Rizwan Butt,K Juma,1,0,,,,,,"",""
+ball,1,16.4,Bahrain,Rizwan Butt,Junaid Aziz,K Juma,1,0,,,,,,"",""
+ball,1,16.5,Bahrain,Junaid Aziz,Rizwan Butt,K Juma,1,0,,,,,,"",""
+ball,1,16.6,Bahrain,Rizwan Butt,Junaid Aziz,K Juma,1,0,,,,,,"",""
+ball,1,17.1,Bahrain,Rizwan Butt,Junaid Aziz,AM Kimote,1,0,,,,,,"",""
+ball,1,17.2,Bahrain,Junaid Aziz,Rizwan Butt,AM Kimote,0,0,,,,,,caught,Junaid Aziz
+ball,1,17.3,Bahrain,Ali Dawood,Rizwan Butt,AM Kimote,1,0,,,,,,"",""
+ball,1,17.4,Bahrain,Rizwan Butt,Ali Dawood,AM Kimote,0,0,,,,,,caught,Rizwan Butt
+ball,1,17.5,Bahrain,Abdul Majid Abbasi,Ali Dawood,AM Kimote,0,0,,,,,,"",""
+ball,1,17.6,Bahrain,Abdul Majid Abbasi,Ali Dawood,AM Kimote,0,1,1,,,,,"",""
+ball,1,17.7,Bahrain,Abdul Majid Abbasi,Ali Dawood,AM Kimote,0,0,,,,,,"",""
+ball,1,18.1,Bahrain,Ali Dawood,Abdul Majid Abbasi,K Juma,0,0,,,,,,"",""
+ball,1,18.2,Bahrain,Ali Dawood,Abdul Majid Abbasi,K Juma,1,0,,,,,,"",""
+ball,1,18.3,Bahrain,Abdul Majid Abbasi,Ali Dawood,K Juma,1,0,,,,,,"",""
+ball,1,18.4,Bahrain,Ali Dawood,Abdul Majid Abbasi,K Juma,1,0,,,,,,"",""
+ball,1,18.5,Bahrain,Abdul Majid Abbasi,Ali Dawood,K Juma,1,0,,,,,,"",""
+ball,1,18.6,Bahrain,Ali Dawood,Abdul Majid Abbasi,K Juma,0,0,,,,,,caught,Ali Dawood
+ball,2,0.1,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.2,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,1,0,,,,,,"",""
+ball,2,0.3,Tanzania,DA Mehta,Arun Yadav,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.4,Tanzania,DA Mehta,Arun Yadav,Ali Dawood,1,0,,,,,,"",""
+ball,2,0.5,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,1,0,,,,,,"",""
+ball,2,0.6,Tanzania,DA Mehta,Arun Yadav,Ali Dawood,4,0,,,,,,"",""
+ball,2,1.1,Tanzania,Arun Yadav,DA Mehta,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.2,Tanzania,Arun Yadav,DA Mehta,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.3,Tanzania,Arun Yadav,DA Mehta,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.4,Tanzania,Arun Yadav,DA Mehta,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.5,Tanzania,Arun Yadav,DA Mehta,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,1.6,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,2.1,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,4,0,,,,,,"",""
+ball,2,2.2,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,0,0,,,,,,"",""
+ball,2,2.3,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,6,0,,,,,,"",""
+ball,2,2.4,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,0,0,,,,,,"",""
+ball,2,2.5,Tanzania,Arun Yadav,DA Mehta,Ali Dawood,1,0,,,,,,"",""
+ball,2,2.6,Tanzania,DA Mehta,Arun Yadav,Ali Dawood,0,1,,,1,,,"",""
+ball,2,3.1,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,4,0,,,,,,"",""
+ball,2,3.2,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.3,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,0,4,,,4,,,"",""
+ball,2,3.4,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.5,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.6,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,4,0,,,,,,"",""
+ball,2,4.1,Tanzania,Arun Yadav,DA Mehta,SS Shukla,0,0,,,,,,"",""
+ball,2,4.2,Tanzania,Arun Yadav,DA Mehta,SS Shukla,0,0,,,,,,"",""
+ball,2,4.3,Tanzania,Arun Yadav,DA Mehta,SS Shukla,0,0,,,,,,"",""
+ball,2,4.4,Tanzania,Arun Yadav,DA Mehta,SS Shukla,1,0,,,,,,"",""
+ball,2,4.5,Tanzania,DA Mehta,Arun Yadav,SS Shukla,4,0,,,,,,"",""
+ball,2,4.6,Tanzania,DA Mehta,Arun Yadav,SS Shukla,0,0,,,,,,"",""
+ball,2,5.1,Tanzania,Arun Yadav,DA Mehta,Imran Anwar,6,0,,,,,,"",""
+ball,2,5.2,Tanzania,Arun Yadav,DA Mehta,Imran Anwar,1,0,,,,,,"",""
+ball,2,5.3,Tanzania,DA Mehta,Arun Yadav,Imran Anwar,1,0,,,,,,"",""
+ball,2,5.4,Tanzania,Arun Yadav,DA Mehta,Imran Anwar,0,0,,,,,,"",""
+ball,2,5.5,Tanzania,Arun Yadav,DA Mehta,Imran Anwar,1,0,,,,,,"",""
+ball,2,5.6,Tanzania,DA Mehta,Arun Yadav,Imran Anwar,0,0,,,,,,"",""
+ball,2,6.1,Tanzania,Arun Yadav,DA Mehta,Rizwan Butt,4,0,,,,,,"",""
+ball,2,6.2,Tanzania,Arun Yadav,DA Mehta,Rizwan Butt,1,0,,,,,,"",""
+ball,2,6.3,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,4,0,,,,,,"",""
+ball,2,6.4,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,2,0,,,,,,"",""
+ball,2,6.5,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,0,0,,,,,,"",""
+ball,2,6.6,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,0,0,,,,,,"",""
+ball,2,7.1,Tanzania,Arun Yadav,DA Mehta,SS Shukla,0,0,,,,,,"",""
+ball,2,7.2,Tanzania,Arun Yadav,DA Mehta,SS Shukla,1,0,,,,,,"",""
+ball,2,7.3,Tanzania,DA Mehta,Arun Yadav,SS Shukla,1,0,,,,,,"",""
+ball,2,7.4,Tanzania,Arun Yadav,DA Mehta,SS Shukla,4,0,,,,,,"",""
+ball,2,7.5,Tanzania,Arun Yadav,DA Mehta,SS Shukla,6,0,,,,,,"",""
+ball,2,7.6,Tanzania,Arun Yadav,DA Mehta,SS Shukla,2,0,,,,,,"",""
+ball,2,8.1,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,0,0,,,,,,"",""
+ball,2,8.2,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,4,0,,,,,,"",""
+ball,2,8.3,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,0,0,,,,,,"",""
+ball,2,8.4,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,1,0,,,,,,"",""
+ball,2,8.5,Tanzania,Arun Yadav,DA Mehta,Rizwan Butt,0,1,,,1,,,"",""
+ball,2,8.6,Tanzania,DA Mehta,Arun Yadav,Rizwan Butt,1,0,,,,,,"",""
+ball,2,9.1,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,9.2,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,4,0,,,,,,"",""
+ball,2,9.3,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,9.4,Tanzania,DA Mehta,Arun Yadav,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,9.5,Tanzania,Arun Yadav,DA Mehta,Abdul Majid Abbasi,4,0,,,,,,"",""
+ball,2,9.6,Tanzania,Arun Yadav,DA Mehta,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,10.1,Tanzania,Arun Yadav,DA Mehta,SS Shukla,2,0,,,,,,"",""

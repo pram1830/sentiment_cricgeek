@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Guernsey
+info,gender,male
+info,season,2024
+info,date,2024/06/23
+info,event,Jersey tour of Guernsey
+info,match_number,3
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Guernsey
+info,toss_decision,field
+info,player_of_match,T Nightingale
+info,umpire,J Vosser
+info,reserve_umpire,C Brooks
+info,winner,Guernsey
+info,winner_wickets,4
+info,player,Jersey,C Brennan
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JW Jenner
+info,player,Jersey,JAD Lawrenson
+info,player,Jersey,H Carlyon
+info,player,Jersey,ZM Tribe
+info,player,Jersey,B Ward
+info,player,Jersey,J Kemp
+info,player,Jersey,D Birrell
+info,player,Jersey,S Simpson
+info,player,Jersey,T Britton
+info,player,Guernsey,B Fitchet
+info,player,Guernsey,A Martel
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,MWR Stokes
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,OB Nightingale
+info,player,Guernsey,M Dale-Bradley
+info,player,Guernsey,LB Ferbrache
+info,player,Guernsey,D Mullen
+info,player,Guernsey,LT Bichard
+info,player,Guernsey,C Forshaw
+info,registry,people,A Martel,65cd62a9
+info,registry,people,B Fitchet,d77ecd14
+info,registry,people,B Ward,9e0bd203
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,C Brooks,53e855df
+info,registry,people,C Forshaw,0ed66ce6
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,D Mullen,61da7440
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Kemp,0ab42b8d
+info,registry,people,J Vosser,d1b1eba7
+info,registry,people,JAD Lawrenson,c810b349
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,LB Ferbrache,0f72f582
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Dale-Bradley,62b2aa65
+info,registry,people,MWR Stokes,c573d173
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,OB Nightingale,1deb4c0c
+info,registry,people,S Simpson,c8ea9add
+info,registry,people,T Britton,f91c322b
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,ZM Tribe,96fe3e9f
+ball,1,0.1,Jersey,C Brennan,NA Greenwood,D Mullen,0,0,,,,,,"",""
+ball,1,0.2,Jersey,C Brennan,NA Greenwood,D Mullen,2,0,,,,,,"",""
+ball,1,0.3,Jersey,C Brennan,NA Greenwood,D Mullen,0,0,,,,,,caught and bowled,C Brennan
+ball,1,0.4,Jersey,JW Jenner,NA Greenwood,D Mullen,0,0,,,,,,"",""
+ball,1,0.5,Jersey,JW Jenner,NA Greenwood,D Mullen,0,0,,,,,,"",""
+ball,1,0.6,Jersey,JW Jenner,NA Greenwood,D Mullen,0,0,,,,,,"",""
+ball,1,1.1,Jersey,NA Greenwood,JW Jenner,LT Bichard,1,0,,,,,,"",""
+ball,1,1.2,Jersey,JW Jenner,NA Greenwood,LT Bichard,0,0,,,,,,"",""
+ball,1,1.3,Jersey,JW Jenner,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,1.4,Jersey,NA Greenwood,JW Jenner,LT Bichard,0,0,,,,,,"",""
+ball,1,1.5,Jersey,NA Greenwood,JW Jenner,LT Bichard,1,0,,,,,,"",""
+ball,1,1.6,Jersey,JW Jenner,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,2.1,Jersey,JW Jenner,NA Greenwood,D Mullen,1,0,,,,,,"",""
+ball,1,2.2,Jersey,NA Greenwood,JW Jenner,D Mullen,0,0,,,,,,"",""
+ball,1,2.3,Jersey,NA Greenwood,JW Jenner,D Mullen,1,0,,,,,,"",""
+ball,1,2.4,Jersey,JW Jenner,NA Greenwood,D Mullen,6,0,,,,,,"",""
+ball,1,2.5,Jersey,JW Jenner,NA Greenwood,D Mullen,6,0,,,,,,"",""
+ball,1,2.6,Jersey,JW Jenner,NA Greenwood,D Mullen,1,0,,,,,,"",""
+ball,1,3.1,Jersey,JW Jenner,NA Greenwood,LT Bichard,0,1,1,,,,,"",""
+ball,1,3.2,Jersey,JW Jenner,NA Greenwood,LT Bichard,0,0,,,,,,"",""
+ball,1,3.3,Jersey,JW Jenner,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,3.4,Jersey,NA Greenwood,JW Jenner,LT Bichard,1,0,,,,,,"",""
+ball,1,3.5,Jersey,JW Jenner,NA Greenwood,LT Bichard,4,0,,,,,,"",""
+ball,1,3.6,Jersey,JW Jenner,NA Greenwood,LT Bichard,4,0,,,,,,"",""
+ball,1,3.7,Jersey,JW Jenner,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,4.1,Jersey,JW Jenner,NA Greenwood,M Dale-Bradley,0,0,,,,,,"",""
+ball,1,4.2,Jersey,JW Jenner,NA Greenwood,M Dale-Bradley,0,0,,,,,,lbw,JW Jenner
+ball,1,4.3,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,0,0,,,,,,"",""
+ball,1,4.4,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,4.5,Jersey,NA Greenwood,JAD Lawrenson,M Dale-Bradley,0,1,1,,,,,"",""
+ball,1,4.6,Jersey,NA Greenwood,JAD Lawrenson,M Dale-Bradley,4,0,,,,,,"",""
+ball,1,4.7,Jersey,NA Greenwood,JAD Lawrenson,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,5.1,Jersey,NA Greenwood,JAD Lawrenson,C Forshaw,0,0,,,,,,"",""
+ball,1,5.2,Jersey,NA Greenwood,JAD Lawrenson,C Forshaw,1,0,,,,,,"",""
+ball,1,5.3,Jersey,JAD Lawrenson,NA Greenwood,C Forshaw,0,0,,,,,,"",""
+ball,1,5.4,Jersey,JAD Lawrenson,NA Greenwood,C Forshaw,2,0,,,,,,"",""
+ball,1,5.5,Jersey,JAD Lawrenson,NA Greenwood,C Forshaw,1,0,,,,,,"",""
+ball,1,5.6,Jersey,NA Greenwood,JAD Lawrenson,C Forshaw,1,0,,,,,,"",""
+ball,1,6.1,Jersey,NA Greenwood,JAD Lawrenson,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,6.2,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,4,0,,,,,,"",""
+ball,1,6.3,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,6.4,Jersey,NA Greenwood,JAD Lawrenson,M Dale-Bradley,0,0,,,,,,"",""
+ball,1,6.5,Jersey,NA Greenwood,JAD Lawrenson,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,6.6,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,7.1,Jersey,JAD Lawrenson,NA Greenwood,A Martel,2,0,,,,,,"",""
+ball,1,7.2,Jersey,JAD Lawrenson,NA Greenwood,A Martel,0,0,,,,,,"",""
+ball,1,7.3,Jersey,JAD Lawrenson,NA Greenwood,A Martel,4,0,,,,,,"",""
+ball,1,7.4,Jersey,JAD Lawrenson,NA Greenwood,A Martel,0,0,,,,,,"",""
+ball,1,7.5,Jersey,JAD Lawrenson,NA Greenwood,A Martel,1,0,,,,,,"",""
+ball,1,7.6,Jersey,NA Greenwood,JAD Lawrenson,A Martel,4,0,,,,,,"",""
+ball,1,8.1,Jersey,JAD Lawrenson,NA Greenwood,MWR Stokes,1,0,,,,,,"",""
+ball,1,8.2,Jersey,NA Greenwood,JAD Lawrenson,MWR Stokes,0,0,,,,,,"",""
+ball,1,8.3,Jersey,NA Greenwood,JAD Lawrenson,MWR Stokes,1,0,,,,,,"",""
+ball,1,8.4,Jersey,JAD Lawrenson,NA Greenwood,MWR Stokes,0,0,,,,,,"",""
+ball,1,8.5,Jersey,JAD Lawrenson,NA Greenwood,MWR Stokes,2,0,,,,,,"",""
+ball,1,8.6,Jersey,JAD Lawrenson,NA Greenwood,MWR Stokes,1,0,,,,,,"",""
+ball,1,9.1,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,9.2,Jersey,NA Greenwood,JAD Lawrenson,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,9.3,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,0,0,,,,,,"",""
+ball,1,9.4,Jersey,JAD Lawrenson,NA Greenwood,M Dale-Bradley,0,0,,,,,,caught,JAD Lawrenson
+ball,1,9.5,Jersey,H Carlyon,NA Greenwood,M Dale-Bradley,0,0,,,,,,"",""
+ball,1,9.6,Jersey,H Carlyon,NA Greenwood,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,10.1,Jersey,H Carlyon,NA Greenwood,MWR Stokes,0,0,,,,,,"",""
+ball,1,10.2,Jersey,H Carlyon,NA Greenwood,MWR Stokes,2,0,,,,,,"",""
+ball,1,10.3,Jersey,H Carlyon,NA Greenwood,MWR Stokes,1,0,,,,,,"",""
+ball,1,10.4,Jersey,NA Greenwood,H Carlyon,MWR Stokes,2,0,,,,,,"",""
+ball,1,10.5,Jersey,NA Greenwood,H Carlyon,MWR Stokes,0,0,,,,,,"",""
+ball,1,10.6,Jersey,NA Greenwood,H Carlyon,MWR Stokes,0,0,,,,,,"",""
+ball,1,11.1,Jersey,H Carlyon,NA Greenwood,M Dale-Bradley,0,0,,,,,,caught,H Carlyon
+ball,1,11.2,Jersey,ZM Tribe,NA Greenwood,M Dale-Bradley,0,0,,,,,,"",""
+ball,1,11.3,Jersey,ZM Tribe,NA Greenwood,M Dale-Bradley,0,0,,,,,,"",""
+ball,1,11.4,Jersey,ZM Tribe,NA Greenwood,M Dale-Bradley,2,0,,,,,,"",""
+ball,1,11.5,Jersey,ZM Tribe,NA Greenwood,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,11.6,Jersey,NA Greenwood,ZM Tribe,M Dale-Bradley,1,0,,,,,,"",""
+ball,1,12.1,Jersey,NA Greenwood,ZM Tribe,A Martel,0,1,1,,,,,stumped,NA Greenwood
+ball,1,12.2,Jersey,B Ward,ZM Tribe,A Martel,1,0,,,,,,"",""
+ball,1,12.3,Jersey,ZM Tribe,B Ward,A Martel,2,0,,,,,,"",""
+ball,1,12.4,Jersey,ZM Tribe,B Ward,A Martel,0,0,,,,,,"",""
+ball,1,12.5,Jersey,ZM Tribe,B Ward,A Martel,6,0,,,,,,"",""
+ball,1,12.6,Jersey,ZM Tribe,B Ward,A Martel,0,0,,,,,,"",""
+ball,1,12.7,Jersey,ZM Tribe,B Ward,A Martel,1,0,,,,,,"",""
+ball,1,13.1,Jersey,ZM Tribe,B Ward,D Mullen,0,0,,,,,,"",""
+ball,1,13.2,Jersey,ZM Tribe,B Ward,D Mullen,1,0,,,,,,"",""
+ball,1,13.3,Jersey,B Ward,ZM Tribe,D Mullen,1,0,,,,,,"",""
+ball,1,13.4,Jersey,ZM Tribe,B Ward,D Mullen,1,0,,,,,,"",""
+ball,1,13.5,Jersey,B Ward,ZM Tribe,D Mullen,2,0,,,,,,"",""
+ball,1,13.6,Jersey,B Ward,ZM Tribe,D Mullen,0,0,,,,,,"",""
+ball,1,14.1,Jersey,ZM Tribe,B Ward,A Martel,1,0,,,,,,"",""
+ball,1,14.2,Jersey,B Ward,ZM Tribe,A Martel,0,0,,,,,,"",""
+ball,1,14.3,Jersey,B Ward,ZM Tribe,A Martel,2,0,,,,,,"",""
+ball,1,14.4,Jersey,B Ward,ZM Tribe,A Martel,4,0,,,,,,"",""
+ball,1,14.5,Jersey,B Ward,ZM Tribe,A Martel,1,0,,,,,,"",""
+ball,1,14.6,Jersey,ZM Tribe,B Ward,A Martel,2,0,,,,,,"",""
+ball,1,15.1,Jersey,B Ward,ZM Tribe,C Forshaw,2,0,,,,,,"",""
+ball,1,15.2,Jersey,B Ward,ZM Tribe,C Forshaw,0,0,,,,,,caught,B Ward
+ball,1,15.3,Jersey,J Kemp,ZM Tribe,C Forshaw,1,0,,,,,,"",""
+ball,1,15.4,Jersey,ZM Tribe,J Kemp,C Forshaw,3,0,,,,,,"",""
+ball,1,15.5,Jersey,J Kemp,ZM Tribe,C Forshaw,0,0,,,,,,caught,J Kemp
+ball,1,15.6,Jersey,D Birrell,ZM Tribe,C Forshaw,0,0,,,,,,"",""
+ball,1,16.1,Jersey,ZM Tribe,D Birrell,LT Bichard,1,0,,,,,,"",""
+ball,1,16.2,Jersey,D Birrell,ZM Tribe,LT Bichard,2,0,,,,,,"",""
+ball,1,16.3,Jersey,D Birrell,ZM Tribe,LT Bichard,1,0,,,,,,"",""
+ball,1,16.4,Jersey,ZM Tribe,D Birrell,LT Bichard,2,0,,,,,,"",""
+ball,1,16.5,Jersey,ZM Tribe,D Birrell,LT Bichard,4,0,,,,,,"",""
+ball,1,16.6,Jersey,ZM Tribe,D Birrell,LT Bichard,2,0,,,,,,"",""
+ball,1,17.1,Jersey,D Birrell,ZM Tribe,C Forshaw,0,0,,,,,,caught,D Birrell
+ball,1,17.2,Jersey,S Simpson,ZM Tribe,C Forshaw,0,0,,,,,,"",""
+ball,1,17.3,Jersey,S Simpson,ZM Tribe,C Forshaw,1,0,,,,,,"",""
+ball,1,17.4,Jersey,ZM Tribe,S Simpson,C Forshaw,1,0,,,,,,"",""
+ball,1,17.5,Jersey,S Simpson,ZM Tribe,C Forshaw,4,0,,,,,,"",""
+ball,1,17.6,Jersey,S Simpson,ZM Tribe,C Forshaw,0,0,,,,,,"",""
+ball,1,18.1,Jersey,ZM Tribe,S Simpson,D Mullen,1,0,,,,,,"",""
+ball,1,18.2,Jersey,S Simpson,ZM Tribe,D Mullen,0,1,,,,1,,"",""
+ball,1,18.3,Jersey,ZM Tribe,S Simpson,D Mullen,1,0,,,,,,"",""
+ball,1,18.4,Jersey,S Simpson,ZM Tribe,D Mullen,1,0,,,,,,"",""
+ball,1,18.5,Jersey,ZM Tribe,S Simpson,D Mullen,1,0,,,,,,"",""
+ball,1,18.6,Jersey,S Simpson,ZM Tribe,D Mullen,1,0,,,,,,"",""
+ball,1,19.1,Jersey,S Simpson,ZM Tribe,LT Bichard,0,0,,,,,,"",""
+ball,1,19.2,Jersey,S Simpson,ZM Tribe,LT Bichard,1,0,,,,,,"",""
+ball,1,19.3,Jersey,ZM Tribe,S Simpson,LT Bichard,4,0,,,,,,"",""
+ball,1,19.4,Jersey,ZM Tribe,S Simpson,LT Bichard,0,0,,,,,,"",""
+ball,1,19.5,Jersey,ZM Tribe,S Simpson,LT Bichard,2,0,,,,,,"",""
+ball,1,19.6,Jersey,ZM Tribe,S Simpson,LT Bichard,4,0,,,,,,"",""
+ball,2,0.1,Guernsey,B Fitchet,A Martel,D Birrell,0,0,,,,,,"",""
+ball,2,0.2,Guernsey,B Fitchet,A Martel,D Birrell,4,0,,,,,,"",""
+ball,2,0.3,Guernsey,B Fitchet,A Martel,D Birrell,0,0,,,,,,"",""
+ball,2,0.4,Guernsey,B Fitchet,A Martel,D Birrell,1,0,,,,,,"",""
+ball,2,0.5,Guernsey,A Martel,B Fitchet,D Birrell,0,0,,,,,,"",""
+ball,2,0.6,Guernsey,A Martel,B Fitchet,D Birrell,0,0,,,,,,"",""
+ball,2,1.1,Guernsey,B Fitchet,A Martel,S Simpson,0,0,,,,,,"",""
+ball,2,1.2,Guernsey,B Fitchet,A Martel,S Simpson,4,0,,,,,,"",""
+ball,2,1.3,Guernsey,B Fitchet,A Martel,S Simpson,4,0,,,,,,"",""
+ball,2,1.4,Guernsey,B Fitchet,A Martel,S Simpson,4,0,,,,,,"",""
+ball,2,1.5,Guernsey,B Fitchet,A Martel,S Simpson,0,0,,,,,,"",""
+ball,2,1.6,Guernsey,B Fitchet,A Martel,S Simpson,0,0,,,,,,"",""
+ball,2,2.1,Guernsey,A Martel,B Fitchet,D Birrell,0,0,,,,,,"",""
+ball,2,2.2,Guernsey,A Martel,B Fitchet,D Birrell,6,0,,,,,,"",""
+ball,2,2.3,Guernsey,A Martel,B Fitchet,D Birrell,6,0,,,,,,"",""
+ball,2,2.4,Guernsey,A Martel,B Fitchet,D Birrell,4,0,,,,,,"",""
+ball,2,2.5,Guernsey,A Martel,B Fitchet,D Birrell,4,0,,,,,,"",""
+ball,2,2.6,Guernsey,A Martel,B Fitchet,D Birrell,0,0,,,,,,"",""
+ball,2,3.1,Guernsey,B Fitchet,A Martel,NA Greenwood,1,0,,,,,,"",""
+ball,2,3.2,Guernsey,A Martel,B Fitchet,NA Greenwood,0,0,,,,,,"",""
+ball,2,3.3,Guernsey,A Martel,B Fitchet,NA Greenwood,0,0,,,,,,"",""
+ball,2,3.4,Guernsey,A Martel,B Fitchet,NA Greenwood,0,0,,,,,,"",""
+ball,2,3.5,Guernsey,A Martel,B Fitchet,NA Greenwood,0,0,,,,,,"",""
+ball,2,3.6,Guernsey,A Martel,B Fitchet,NA Greenwood,0,0,,,,,,"",""
+ball,2,4.1,Guernsey,B Fitchet,A Martel,S Simpson,0,0,,,,,,caught,B Fitchet
+ball,2,4.2,Guernsey,T Nightingale,A Martel,S Simpson,0,0,,,,,,"",""
+ball,2,4.3,Guernsey,T Nightingale,A Martel,S Simpson,1,0,,,,,,"",""
+ball,2,4.4,Guernsey,A Martel,T Nightingale,S Simpson,0,0,,,,,,bowled,A Martel
+ball,2,4.5,Guernsey,MWR Stokes,T Nightingale,S Simpson,0,0,,,,,,"",""
+ball,2,4.6,Guernsey,MWR Stokes,T Nightingale,S Simpson,0,0,,,,,,"",""
+ball,2,5.1,Guernsey,T Nightingale,MWR Stokes,NA Greenwood,0,0,,,,,,"",""
+ball,2,5.2,Guernsey,T Nightingale,MWR Stokes,NA Greenwood,0,0,,,,,,"",""
+ball,2,5.3,Guernsey,T Nightingale,MWR Stokes,NA Greenwood,4,0,,,,,,"",""
+ball,2,5.4,Guernsey,T Nightingale,MWR Stokes,NA Greenwood,0,0,,,,,,"",""
+ball,2,5.5,Guernsey,T Nightingale,MWR Stokes,NA Greenwood,4,0,,,,,,"",""
+ball,2,5.6,Guernsey,T Nightingale,MWR Stokes,NA Greenwood,4,0,,,,,,"",""
+ball,2,6.1,Guernsey,MWR Stokes,T Nightingale,B Ward,1,0,,,,,,"",""
+ball,2,6.2,Guernsey,T Nightingale,MWR Stokes,B Ward,2,0,,,,,,"",""
+ball,2,6.3,Guernsey,T Nightingale,MWR Stokes,B Ward,1,0,,,,,,"",""
+ball,2,6.4,Guernsey,MWR Stokes,T Nightingale,B Ward,1,0,,,,,,"",""
+ball,2,6.5,Guernsey,T Nightingale,MWR Stokes,B Ward,1,0,,,,,,"",""
+ball,2,6.6,Guernsey,MWR Stokes,T Nightingale,B Ward,0,0,,,,,,"",""
+ball,2,7.1,Guernsey,T Nightingale,MWR Stokes,T Britton,0,1,1,,,,,"",""
+ball,2,7.2,Guernsey,T Nightingale,MWR Stokes,T Britton,4,0,,,,,,"",""
+ball,2,7.3,Guernsey,T Nightingale,MWR Stokes,T Britton,0,0,,,,,,"",""
+ball,2,7.4,Guernsey,T Nightingale,MWR Stokes,T Britton,1,0,,,,,,"",""
+ball,2,7.5,Guernsey,MWR Stokes,T Nightingale,T Britton,1,0,,,,,,"",""
+ball,2,7.6,Guernsey,T Nightingale,MWR Stokes,T Britton,0,0,,,,,,"",""
+ball,2,7.7,Guernsey,T Nightingale,MWR Stokes,T Britton,0,0,,,,,,"",""
+ball,2,8.1,Guernsey,MWR Stokes,T Nightingale,B Ward,2,0,,,,,,"",""
+ball,2,8.2,Guernsey,MWR Stokes,T Nightingale,B Ward,4,0,,,,,,"",""
+ball,2,8.3,Guernsey,MWR Stokes,T Nightingale,B Ward,1,0,,,,,,"",""
+ball,2,8.4,Guernsey,T Nightingale,MWR Stokes,B Ward,1,0,,,,,,"",""
+ball,2,8.5,Guernsey,MWR Stokes,T Nightingale,B Ward,0,0,,,,,,"",""
+ball,2,8.6,Guernsey,MWR Stokes,T Nightingale,B Ward,0,0,,,,,,caught,MWR Stokes
+ball,2,9.1,Guernsey,T Nightingale,IDA Damarell,T Britton,4,0,,,,,,"",""
+ball,2,9.2,Guernsey,T Nightingale,IDA Damarell,T Britton,0,0,,,,,,"",""
+ball,2,9.3,Guernsey,T Nightingale,IDA Damarell,T Britton,1,0,,,,,,"",""
+ball,2,9.4,Guernsey,IDA Damarell,T Nightingale,T Britton,1,0,,,,,,"",""
+ball,2,9.5,Guernsey,T Nightingale,IDA Damarell,T Britton,1,0,,,,,,"",""
+ball,2,9.6,Guernsey,IDA Damarell,T Nightingale,T Britton,1,0,,,,,,"",""
+ball,2,10.1,Guernsey,IDA Damarell,T Nightingale,H Carlyon,1,0,,,,,,"",""
+ball,2,10.2,Guernsey,T Nightingale,IDA Damarell,H Carlyon,1,0,,,,,,"",""
+ball,2,10.3,Guernsey,IDA Damarell,T Nightingale,H Carlyon,1,0,,,,,,"",""
+ball,2,10.4,Guernsey,T Nightingale,IDA Damarell,H Carlyon,1,0,,,,,,"",""
+ball,2,10.5,Guernsey,IDA Damarell,T Nightingale,H Carlyon,2,0,,,,,,"",""
+ball,2,10.6,Guernsey,IDA Damarell,T Nightingale,H Carlyon,0,1,1,,,,,"",""
+ball,2,10.7,Guernsey,IDA Damarell,T Nightingale,H Carlyon,3,0,,,,,,"",""
+ball,2,11.1,Guernsey,IDA Damarell,T Nightingale,NA Greenwood,1,0,,,,,,"",""
+ball,2,11.2,Guernsey,T Nightingale,IDA Damarell,NA Greenwood,1,0,,,,,,"",""
+ball,2,11.3,Guernsey,IDA Damarell,T Nightingale,NA Greenwood,0,0,,,,,,"",""
+ball,2,11.4,Guernsey,IDA Damarell,T Nightingale,NA Greenwood,0,0,,,,,,"",""
+ball,2,11.5,Guernsey,IDA Damarell,T Nightingale,NA Greenwood,1,0,,,,,,"",""
+ball,2,11.6,Guernsey,T Nightingale,IDA Damarell,NA Greenwood,1,0,,,,,,"",""
+ball,2,12.1,Guernsey,T Nightingale,IDA Damarell,B Ward,1,0,,,,,,"",""
+ball,2,12.2,Guernsey,IDA Damarell,T Nightingale,B Ward,0,1,,,,1,,"",""
+ball,2,12.3,Guernsey,T Nightingale,IDA Damarell,B Ward,0,0,,,,,,"",""
+ball,2,12.4,Guernsey,T Nightingale,IDA Damarell,B Ward,1,0,,,,,,"",""
+ball,2,12.5,Guernsey,IDA Damarell,T Nightingale,B Ward,1,0,,,,,,"",""
+ball,2,12.6,Guernsey,T Nightingale,IDA Damarell,B Ward,4,0,,,,,,"",""
+ball,2,13.1,Guernsey,IDA Damarell,T Nightingale,S Simpson,1,0,,,,,,"",""
+ball,2,13.2,Guernsey,T Nightingale,IDA Damarell,S Simpson,1,0,,,,,,"",""
+ball,2,13.3,Guernsey,IDA Damarell,T Nightingale,S Simpson,4,0,,,,,,"",""
+ball,2,13.4,Guernsey,IDA Damarell,T Nightingale,S Simpson,0,0,,,,,,"",""
+ball,2,13.5,Guernsey,IDA Damarell,T Nightingale,S Simpson,1,0,,,,,,"",""
+ball,2,13.6,Guernsey,T Nightingale,IDA Damarell,S Simpson,1,0,,,,,,"",""
+ball,2,14.1,Guernsey,T Nightingale,IDA Damarell,B Ward,2,0,,,,,,"",""
+ball,2,14.2,Guernsey,T Nightingale,IDA Damarell,B Ward,6,0,,,,,,"",""
+ball,2,14.3,Guernsey,T Nightingale,IDA Damarell,B Ward,6,0,,,,,,"",""
+ball,2,14.4,Guernsey,T Nightingale,IDA Damarell,B Ward,6,0,,,,,,"",""
+ball,2,14.5,Guernsey,T Nightingale,IDA Damarell,B Ward,0,0,,,,,,caught,T Nightingale
+ball,2,14.6,Guernsey,OB Nightingale,IDA Damarell,B Ward,0,0,,,,,,"",""
+ball,2,15.1,Guernsey,IDA Damarell,OB Nightingale,S Simpson,2,0,,,,,,"",""
+ball,2,15.2,Guernsey,IDA Damarell,OB Nightingale,S Simpson,0,0,,,,,,"",""
+ball,2,15.3,Guernsey,IDA Damarell,OB Nightingale,S Simpson,1,0,,,,,,"",""
+ball,2,15.4,Guernsey,OB Nightingale,IDA Damarell,S Simpson,1,0,,,,,,"",""
+ball,2,15.5,Guernsey,IDA Damarell,OB Nightingale,S Simpson,1,0,,,,,,"",""
+ball,2,15.6,Guernsey,OB Nightingale,IDA Damarell,S Simpson,0,1,1,,,,,"",""
+ball,2,15.7,Guernsey,OB Nightingale,IDA Damarell,S Simpson,2,0,,,,,,"",""
+ball,2,16.1,Guernsey,IDA Damarell,OB Nightingale,T Britton,1,0,,,,,,"",""
+ball,2,16.2,Guernsey,OB Nightingale,IDA Damarell,T Britton,1,0,,,,,,"",""
+ball,2,16.3,Guernsey,IDA Damarell,OB Nightingale,T Britton,0,0,,,,,,stumped,IDA Damarell
+ball,2,16.4,Guernsey,M Dale-Bradley,OB Nightingale,T Britton,1,0,,,,,,"",""
+ball,2,16.5,Guernsey,OB Nightingale,M Dale-Bradley,T Britton,2,0,,,,,,"",""
+ball,2,16.6,Guernsey,OB Nightingale,M Dale-Bradley,T Britton,0,0,,,,,,caught,OB Nightingale
+ball,2,17.1,Guernsey,M Dale-Bradley,LB Ferbrache,D Birrell,0,0,,,,,,"",""
+ball,2,17.2,Guernsey,M Dale-Bradley,LB Ferbrache,D Birrell,1,0,,,,,,"",""
+ball,2,17.3,Guernsey,LB Ferbrache,M Dale-Bradley,D Birrell,0,0,,,,,,"",""
+ball,2,17.4,Guernsey,LB Ferbrache,M Dale-Bradley,D Birrell,1,0,,,,,,"",""
+ball,2,17.5,Guernsey,M Dale-Bradley,LB Ferbrache,D Birrell,0,0,,,,,,"",""
+ball,2,17.6,Guernsey,M Dale-Bradley,LB Ferbrache,D Birrell,1,0,,,,,,"",""
+ball,2,18.1,Guernsey,M Dale-Bradley,LB Ferbrache,T Britton,0,0,,,,,,"",""
+ball,2,18.2,Guernsey,M Dale-Bradley,LB Ferbrache,T Britton,0,0,,,,,,"",""
+ball,2,18.3,Guernsey,M Dale-Bradley,LB Ferbrache,T Britton,0,0,,,,,,"",""
+ball,2,18.4,Guernsey,M Dale-Bradley,LB Ferbrache,T Britton,1,0,,,,,,"",""
+ball,2,18.5,Guernsey,LB Ferbrache,M Dale-Bradley,T Britton,0,0,,,,,,"",""
+ball,2,18.6,Guernsey,LB Ferbrache,M Dale-Bradley,T Britton,0,0,,,,,,"",""
+ball,2,19.1,Guernsey,M Dale-Bradley,LB Ferbrache,D Birrell,2,0,,,,,,"",""

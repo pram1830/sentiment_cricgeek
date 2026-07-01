@@ -1,0 +1,326 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2025/26
+info,date,2025/12/19
+info,event,South Africa tour of India
+info,match_number,5
+info,venue,"Narendra Modi Stadium, Ahmedabad"
+info,city,Ahmedabad
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,HH Pandya
+info,umpire,R Pandit
+info,umpire,VK Sharma
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,J Madanagopal
+info,match_referee,RB Richardson
+info,winner,India
+info,winner_runs,30
+info,player,India,SV Samson
+info,player,India,Abhishek Sharma
+info,player,India,Tilak Varma
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,S Dube
+info,player,India,JM Sharma
+info,player,India,Washington Sundar
+info,player,India,CV Varun
+info,player,India,Arshdeep Singh
+info,player,India,JJ Bumrah
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,D Brevis
+info,player,South Africa,DA Miller
+info,player,South Africa,AK Markram
+info,player,South Africa,D Ferreira
+info,player,South Africa,GF Linde
+info,player,South Africa,M Jansen
+info,player,South Africa,C Bosch
+info,player,South Africa,L Ngidi
+info,player,South Africa,OEG Baartman
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,C Bosch,172dff15
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,GF Linde,e5437608
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Pandit,8a604384
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,India,SV Samson,Abhishek Sharma,L Ngidi,0,0,,,,,,"",""
+ball,1,0.2,India,SV Samson,Abhishek Sharma,L Ngidi,0,0,,,,,,"",""
+ball,1,0.3,India,SV Samson,Abhishek Sharma,L Ngidi,1,0,,,,,,"",""
+ball,1,0.4,India,Abhishek Sharma,SV Samson,L Ngidi,4,0,,,,,,"",""
+ball,1,0.5,India,Abhishek Sharma,SV Samson,L Ngidi,0,0,,,,,,"",""
+ball,1,0.6,India,Abhishek Sharma,SV Samson,L Ngidi,1,0,,,,,,"",""
+ball,1,1.1,India,Abhishek Sharma,SV Samson,M Jansen,4,0,,,,,,"",""
+ball,1,1.2,India,Abhishek Sharma,SV Samson,M Jansen,4,0,,,,,,"",""
+ball,1,1.3,India,Abhishek Sharma,SV Samson,M Jansen,4,0,,,,,,"",""
+ball,1,1.4,India,Abhishek Sharma,SV Samson,M Jansen,0,0,,,,,,"",""
+ball,1,1.5,India,Abhishek Sharma,SV Samson,M Jansen,1,0,,,,,,"",""
+ball,1,1.6,India,SV Samson,Abhishek Sharma,M Jansen,6,0,,,,,,"",""
+ball,1,2.1,India,Abhishek Sharma,SV Samson,L Ngidi,1,0,,,,,,"",""
+ball,1,2.2,India,SV Samson,Abhishek Sharma,L Ngidi,1,0,,,,,,"",""
+ball,1,2.3,India,Abhishek Sharma,SV Samson,L Ngidi,0,0,,,,,,"",""
+ball,1,2.4,India,Abhishek Sharma,SV Samson,L Ngidi,0,0,,,,,,"",""
+ball,1,2.5,India,Abhishek Sharma,SV Samson,L Ngidi,0,0,,,,,,"",""
+ball,1,2.6,India,Abhishek Sharma,SV Samson,L Ngidi,0,0,,,,,,"",""
+ball,1,3.1,India,SV Samson,Abhishek Sharma,OEG Baartman,4,0,,,,,,"",""
+ball,1,3.2,India,SV Samson,Abhishek Sharma,OEG Baartman,0,0,,,,,,"",""
+ball,1,3.3,India,SV Samson,Abhishek Sharma,OEG Baartman,4,0,,,,,,"",""
+ball,1,3.4,India,SV Samson,Abhishek Sharma,OEG Baartman,2,0,,,,,,"",""
+ball,1,3.5,India,SV Samson,Abhishek Sharma,OEG Baartman,0,0,,,,,,"",""
+ball,1,3.6,India,SV Samson,Abhishek Sharma,OEG Baartman,4,0,,,,,,"",""
+ball,1,4.1,India,Abhishek Sharma,SV Samson,M Jansen,0,1,,,,1,,"",""
+ball,1,4.2,India,SV Samson,Abhishek Sharma,M Jansen,4,0,,,,,,"",""
+ball,1,4.3,India,SV Samson,Abhishek Sharma,M Jansen,1,0,,,,,,"",""
+ball,1,4.4,India,Abhishek Sharma,SV Samson,M Jansen,4,0,,,,,,"",""
+ball,1,4.5,India,Abhishek Sharma,SV Samson,M Jansen,4,0,,,,,,"",""
+ball,1,4.6,India,Abhishek Sharma,SV Samson,M Jansen,1,0,,,,,,"",""
+ball,1,5.1,India,Abhishek Sharma,SV Samson,C Bosch,0,0,,,,,,"",""
+ball,1,5.2,India,Abhishek Sharma,SV Samson,C Bosch,0,0,,,,,,"",""
+ball,1,5.3,India,Abhishek Sharma,SV Samson,C Bosch,0,1,1,,,,,"",""
+ball,1,5.4,India,Abhishek Sharma,SV Samson,C Bosch,6,0,,,,,,"",""
+ball,1,5.5,India,Abhishek Sharma,SV Samson,C Bosch,0,0,,,,,,caught,Abhishek Sharma
+ball,1,5.6,India,Tilak Varma,SV Samson,C Bosch,4,0,,,,,,"",""
+ball,1,5.7,India,Tilak Varma,SV Samson,C Bosch,0,0,,,,,,"",""
+ball,1,6.1,India,SV Samson,Tilak Varma,D Ferreira,0,1,,,,1,,"",""
+ball,1,6.2,India,Tilak Varma,SV Samson,D Ferreira,4,0,,,,,,"",""
+ball,1,6.3,India,Tilak Varma,SV Samson,D Ferreira,0,0,,,,,,"",""
+ball,1,6.4,India,Tilak Varma,SV Samson,D Ferreira,0,1,1,,,,,"",""
+ball,1,6.5,India,Tilak Varma,SV Samson,D Ferreira,1,0,,,,,,"",""
+ball,1,6.6,India,SV Samson,Tilak Varma,D Ferreira,1,0,,,,,,"",""
+ball,1,6.7,India,Tilak Varma,SV Samson,D Ferreira,1,0,,,,,,"",""
+ball,1,7.1,India,Tilak Varma,SV Samson,GF Linde,1,0,,,,,,"",""
+ball,1,7.2,India,SV Samson,Tilak Varma,GF Linde,0,0,,,,,,"",""
+ball,1,7.3,India,SV Samson,Tilak Varma,GF Linde,1,0,,,,,,"",""
+ball,1,7.4,India,Tilak Varma,SV Samson,GF Linde,1,0,,,,,,"",""
+ball,1,7.5,India,SV Samson,Tilak Varma,GF Linde,0,0,,,,,,"",""
+ball,1,7.6,India,SV Samson,Tilak Varma,GF Linde,6,0,,,,,,"",""
+ball,1,8.1,India,Tilak Varma,SV Samson,D Ferreira,4,0,,,,,,"",""
+ball,1,8.2,India,Tilak Varma,SV Samson,D Ferreira,4,0,,,,,,"",""
+ball,1,8.3,India,Tilak Varma,SV Samson,D Ferreira,1,0,,,,,,"",""
+ball,1,8.4,India,SV Samson,Tilak Varma,D Ferreira,1,0,,,,,,"",""
+ball,1,8.5,India,Tilak Varma,SV Samson,D Ferreira,1,0,,,,,,"",""
+ball,1,8.6,India,SV Samson,Tilak Varma,D Ferreira,1,0,,,,,,"",""
+ball,1,9.1,India,SV Samson,Tilak Varma,GF Linde,0,0,,,,,,bowled,SV Samson
+ball,1,9.2,India,SA Yadav,Tilak Varma,GF Linde,1,0,,,,,,"",""
+ball,1,9.3,India,Tilak Varma,SA Yadav,GF Linde,0,0,,,,,,"",""
+ball,1,9.4,India,Tilak Varma,SA Yadav,GF Linde,1,0,,,,,,"",""
+ball,1,9.5,India,SA Yadav,Tilak Varma,GF Linde,1,0,,,,,,"",""
+ball,1,9.6,India,Tilak Varma,SA Yadav,GF Linde,1,0,,,,,,"",""
+ball,1,10.1,India,Tilak Varma,SA Yadav,OEG Baartman,4,0,,,,,,"",""
+ball,1,10.2,India,Tilak Varma,SA Yadav,OEG Baartman,0,0,,,,,,"",""
+ball,1,10.3,India,Tilak Varma,SA Yadav,OEG Baartman,1,0,,,,,,"",""
+ball,1,10.4,India,SA Yadav,Tilak Varma,OEG Baartman,0,1,1,,,,,"",""
+ball,1,10.5,India,SA Yadav,Tilak Varma,OEG Baartman,0,0,,,,,,"",""
+ball,1,10.6,India,SA Yadav,Tilak Varma,OEG Baartman,1,0,,,,,,"",""
+ball,1,10.7,India,Tilak Varma,SA Yadav,OEG Baartman,1,0,,,,,,"",""
+ball,1,11.1,India,Tilak Varma,SA Yadav,GF Linde,0,0,,,,,,"",""
+ball,1,11.2,India,Tilak Varma,SA Yadav,GF Linde,1,0,,,,,,"",""
+ball,1,11.3,India,SA Yadav,Tilak Varma,GF Linde,1,0,,,,,,"",""
+ball,1,11.4,India,Tilak Varma,SA Yadav,GF Linde,2,0,,,,,,"",""
+ball,1,11.5,India,Tilak Varma,SA Yadav,GF Linde,1,0,,,,,,"",""
+ball,1,11.6,India,SA Yadav,Tilak Varma,GF Linde,1,0,,,,,,"",""
+ball,1,12.1,India,SA Yadav,Tilak Varma,C Bosch,0,0,,,,,,caught,SA Yadav
+ball,1,12.2,India,HH Pandya,Tilak Varma,C Bosch,6,0,,,,,,"",""
+ball,1,12.3,India,HH Pandya,Tilak Varma,C Bosch,1,0,,,,,,"",""
+ball,1,12.4,India,Tilak Varma,HH Pandya,C Bosch,4,0,,,,,,"",""
+ball,1,12.5,India,Tilak Varma,HH Pandya,C Bosch,1,0,,,,,,"",""
+ball,1,12.6,India,HH Pandya,Tilak Varma,C Bosch,4,0,,,,,,"",""
+ball,1,13.1,India,Tilak Varma,HH Pandya,GF Linde,6,0,,,,,,"",""
+ball,1,13.2,India,Tilak Varma,HH Pandya,GF Linde,1,0,,,,,,"",""
+ball,1,13.3,India,HH Pandya,Tilak Varma,GF Linde,4,0,,,,,,"",""
+ball,1,13.4,India,HH Pandya,Tilak Varma,GF Linde,6,0,,,,,,"",""
+ball,1,13.5,India,HH Pandya,Tilak Varma,GF Linde,6,0,,,,,,"",""
+ball,1,13.6,India,HH Pandya,Tilak Varma,GF Linde,4,0,,,,,,"",""
+ball,1,14.1,India,Tilak Varma,HH Pandya,L Ngidi,1,0,,,,,,"",""
+ball,1,14.2,India,HH Pandya,Tilak Varma,L Ngidi,1,0,,,,,,"",""
+ball,1,14.3,India,Tilak Varma,HH Pandya,L Ngidi,2,0,,,,,,"",""
+ball,1,14.4,India,Tilak Varma,HH Pandya,L Ngidi,4,0,,,,,,"",""
+ball,1,14.5,India,Tilak Varma,HH Pandya,L Ngidi,0,0,,,,,,"",""
+ball,1,14.6,India,Tilak Varma,HH Pandya,L Ngidi,4,0,,,,,,"",""
+ball,1,15.1,India,HH Pandya,Tilak Varma,M Jansen,2,0,,,,,,"",""
+ball,1,15.2,India,HH Pandya,Tilak Varma,M Jansen,1,0,,,,,,"",""
+ball,1,15.3,India,Tilak Varma,HH Pandya,M Jansen,1,0,,,,,,"",""
+ball,1,15.4,India,HH Pandya,Tilak Varma,M Jansen,1,0,,,,,,"",""
+ball,1,15.5,India,Tilak Varma,HH Pandya,M Jansen,1,0,,,,,,"",""
+ball,1,15.6,India,HH Pandya,Tilak Varma,M Jansen,2,0,,,,,,"",""
+ball,1,16.1,India,Tilak Varma,HH Pandya,C Bosch,1,0,,,,,,"",""
+ball,1,16.2,India,HH Pandya,Tilak Varma,C Bosch,6,0,,,,,,"",""
+ball,1,16.3,India,HH Pandya,Tilak Varma,C Bosch,4,0,,,,,,"",""
+ball,1,16.4,India,HH Pandya,Tilak Varma,C Bosch,0,0,,,,,,"",""
+ball,1,16.5,India,HH Pandya,Tilak Varma,C Bosch,6,0,,,,,,"",""
+ball,1,16.6,India,HH Pandya,Tilak Varma,C Bosch,0,0,,,,,,"",""
+ball,1,17.1,India,Tilak Varma,HH Pandya,L Ngidi,2,0,,,,,,"",""
+ball,1,17.2,India,Tilak Varma,HH Pandya,L Ngidi,0,1,,,,1,,"",""
+ball,1,17.3,India,HH Pandya,Tilak Varma,L Ngidi,0,0,,,,,,"",""
+ball,1,17.4,India,HH Pandya,Tilak Varma,L Ngidi,4,0,,,,,,"",""
+ball,1,17.5,India,HH Pandya,Tilak Varma,L Ngidi,0,1,1,,,,,"",""
+ball,1,17.6,India,HH Pandya,Tilak Varma,L Ngidi,1,0,,,,,,"",""
+ball,1,17.7,India,Tilak Varma,HH Pandya,L Ngidi,1,0,,,,,,"",""
+ball,1,18.1,India,Tilak Varma,HH Pandya,M Jansen,4,0,,,,,,"",""
+ball,1,18.2,India,Tilak Varma,HH Pandya,M Jansen,1,0,,,,,,"",""
+ball,1,18.3,India,HH Pandya,Tilak Varma,M Jansen,2,0,,,,,,"",""
+ball,1,18.4,India,HH Pandya,Tilak Varma,M Jansen,0,0,,,,,,"",""
+ball,1,18.5,India,HH Pandya,Tilak Varma,M Jansen,0,0,,,,,,"",""
+ball,1,18.6,India,HH Pandya,Tilak Varma,M Jansen,2,0,,,,,,"",""
+ball,1,19.1,India,Tilak Varma,HH Pandya,OEG Baartman,0,1,1,,,,,"",""
+ball,1,19.2,India,Tilak Varma,HH Pandya,OEG Baartman,4,0,,,,,,"",""
+ball,1,19.3,India,Tilak Varma,HH Pandya,OEG Baartman,1,0,,,,,,"",""
+ball,1,19.4,India,HH Pandya,Tilak Varma,OEG Baartman,0,0,,,,,,caught,HH Pandya
+ball,1,19.5,India,S Dube,Tilak Varma,OEG Baartman,6,0,,,,,,"",""
+ball,1,19.6,India,S Dube,Tilak Varma,OEG Baartman,0,0,,,,,,"",""
+ball,1,19.7,India,S Dube,Tilak Varma,OEG Baartman,0,1,1,,,,,run out,Tilak Varma
+ball,1,19.8,India,S Dube,JM Sharma,OEG Baartman,4,0,,,,,,"",""
+ball,2,0.1,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,0.2,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,0.3,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,0.4,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,0.5,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,0.6,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.1,South Africa,RR Hendricks,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,1.2,South Africa,Q de Kock,RR Hendricks,Washington Sundar,1,0,,,,,,"",""
+ball,2,1.3,South Africa,RR Hendricks,Q de Kock,Washington Sundar,4,0,,,,,,"",""
+ball,2,1.4,South Africa,RR Hendricks,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,1.5,South Africa,Q de Kock,RR Hendricks,Washington Sundar,1,0,,,,,,"",""
+ball,2,1.6,South Africa,RR Hendricks,Q de Kock,Washington Sundar,0,0,,,,,,"",""
+ball,2,2.1,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,2.2,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,2.3,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,2.4,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,2.5,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,2.6,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,2.7,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,2.8,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,2.9,South Africa,Q de Kock,RR Hendricks,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,3.1,South Africa,RR Hendricks,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,3.2,South Africa,Q de Kock,RR Hendricks,Washington Sundar,0,0,,,,,,"",""
+ball,2,3.3,South Africa,Q de Kock,RR Hendricks,Washington Sundar,6,0,,,,,,"",""
+ball,2,3.4,South Africa,Q de Kock,RR Hendricks,Washington Sundar,0,0,,,,,,"",""
+ball,2,3.5,South Africa,Q de Kock,RR Hendricks,Washington Sundar,1,0,,,,,,"",""
+ball,2,3.6,South Africa,RR Hendricks,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,4.1,South Africa,RR Hendricks,Q de Kock,JJ Bumrah,1,0,,,,,,"",""
+ball,2,4.2,South Africa,Q de Kock,RR Hendricks,JJ Bumrah,0,5,5,,,,,"",""
+ball,2,4.3,South Africa,Q de Kock,RR Hendricks,JJ Bumrah,0,0,,,,,,"",""
+ball,2,4.4,South Africa,Q de Kock,RR Hendricks,JJ Bumrah,0,0,,,,,,"",""
+ball,2,4.5,South Africa,Q de Kock,RR Hendricks,JJ Bumrah,0,0,,,,,,"",""
+ball,2,4.6,South Africa,Q de Kock,RR Hendricks,JJ Bumrah,1,0,,,,,,"",""
+ball,2,4.7,South Africa,RR Hendricks,Q de Kock,JJ Bumrah,1,0,,,,,,"",""
+ball,2,5.1,South Africa,RR Hendricks,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,5.2,South Africa,Q de Kock,RR Hendricks,Washington Sundar,0,0,,,,,,"",""
+ball,2,5.3,South Africa,Q de Kock,RR Hendricks,Washington Sundar,4,0,,,,,,"",""
+ball,2,5.4,South Africa,Q de Kock,RR Hendricks,Washington Sundar,0,0,,,,,,"",""
+ball,2,5.5,South Africa,Q de Kock,RR Hendricks,Washington Sundar,1,0,,,,,,"",""
+ball,2,5.6,South Africa,RR Hendricks,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,6.1,South Africa,RR Hendricks,Q de Kock,CV Varun,1,0,,,,,,"",""
+ball,2,6.2,South Africa,Q de Kock,RR Hendricks,CV Varun,1,0,,,,,,"",""
+ball,2,6.3,South Africa,RR Hendricks,Q de Kock,CV Varun,0,0,,,,,,caught,RR Hendricks
+ball,2,6.4,South Africa,D Brevis,Q de Kock,CV Varun,0,0,,,,,,"",""
+ball,2,6.5,South Africa,D Brevis,Q de Kock,CV Varun,0,0,,,,,,"",""
+ball,2,6.6,South Africa,D Brevis,Q de Kock,CV Varun,1,0,,,,,,"",""
+ball,2,7.1,South Africa,D Brevis,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,7.2,South Africa,Q de Kock,D Brevis,Washington Sundar,1,0,,,,,,"",""
+ball,2,7.3,South Africa,D Brevis,Q de Kock,Washington Sundar,0,0,,,,,,"",""
+ball,2,7.4,South Africa,D Brevis,Q de Kock,Washington Sundar,0,1,1,,,,,"",""
+ball,2,7.5,South Africa,D Brevis,Q de Kock,Washington Sundar,0,1,1,,,,,"",""
+ball,2,7.6,South Africa,D Brevis,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,2,7.7,South Africa,Q de Kock,D Brevis,Washington Sundar,0,0,,,,,,"",""
+ball,2,7.8,South Africa,Q de Kock,D Brevis,Washington Sundar,1,0,,,,,,"",""
+ball,2,8.1,South Africa,Q de Kock,D Brevis,CV Varun,6,0,,,,,,"",""
+ball,2,8.2,South Africa,Q de Kock,D Brevis,CV Varun,0,1,1,,,,,"",""
+ball,2,8.3,South Africa,Q de Kock,D Brevis,CV Varun,4,0,,,,,,"",""
+ball,2,8.4,South Africa,Q de Kock,D Brevis,CV Varun,1,0,,,,,,"",""
+ball,2,8.5,South Africa,D Brevis,Q de Kock,CV Varun,6,0,,,,,,"",""
+ball,2,8.6,South Africa,D Brevis,Q de Kock,CV Varun,4,0,,,,,,"",""
+ball,2,8.7,South Africa,D Brevis,Q de Kock,CV Varun,1,0,,,,,,"",""
+ball,2,9.1,South Africa,D Brevis,Q de Kock,HH Pandya,4,0,,,,,,"",""
+ball,2,9.2,South Africa,D Brevis,Q de Kock,HH Pandya,6,0,,,,,,"",""
+ball,2,9.3,South Africa,D Brevis,Q de Kock,HH Pandya,4,0,,,,,,"",""
+ball,2,9.4,South Africa,D Brevis,Q de Kock,HH Pandya,0,0,,,,,,"",""
+ball,2,9.5,South Africa,D Brevis,Q de Kock,HH Pandya,1,0,,,,,,"",""
+ball,2,9.6,South Africa,Q de Kock,D Brevis,HH Pandya,4,0,,,,,,"",""
+ball,2,10.1,South Africa,D Brevis,Q de Kock,JJ Bumrah,1,0,,,,,,"",""
+ball,2,10.2,South Africa,Q de Kock,D Brevis,JJ Bumrah,0,1,1,,,,,"",""
+ball,2,10.3,South Africa,Q de Kock,D Brevis,JJ Bumrah,0,0,,,,,,caught and bowled,Q de Kock
+ball,2,10.4,South Africa,DA Miller,D Brevis,JJ Bumrah,0,0,,,,,,"",""
+ball,2,10.5,South Africa,DA Miller,D Brevis,JJ Bumrah,0,0,,,,,,"",""
+ball,2,10.6,South Africa,DA Miller,D Brevis,JJ Bumrah,1,0,,,,,,"",""
+ball,2,10.7,South Africa,D Brevis,DA Miller,JJ Bumrah,1,0,,,,,,"",""
+ball,2,11.1,South Africa,D Brevis,DA Miller,HH Pandya,0,0,,,,,,caught,D Brevis
+ball,2,11.2,South Africa,AK Markram,DA Miller,HH Pandya,1,0,,,,,,"",""
+ball,2,11.3,South Africa,DA Miller,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,2,11.4,South Africa,AK Markram,DA Miller,HH Pandya,1,0,,,,,,"",""
+ball,2,11.5,South Africa,DA Miller,AK Markram,HH Pandya,4,0,,,,,,"",""
+ball,2,11.6,South Africa,DA Miller,AK Markram,HH Pandya,1,0,,,,,,"",""
+ball,2,12.1,South Africa,DA Miller,AK Markram,CV Varun,1,0,,,,,,"",""
+ball,2,12.2,South Africa,AK Markram,DA Miller,CV Varun,4,0,,,,,,"",""
+ball,2,12.3,South Africa,AK Markram,DA Miller,CV Varun,0,0,,,,,,lbw,AK Markram
+ball,2,12.4,South Africa,D Ferreira,DA Miller,CV Varun,0,0,,,,,,bowled,D Ferreira
+ball,2,12.5,South Africa,GF Linde,DA Miller,CV Varun,0,0,,,,,,"",""
+ball,2,12.6,South Africa,GF Linde,DA Miller,CV Varun,1,0,,,,,,"",""
+ball,2,13.1,South Africa,GF Linde,DA Miller,HH Pandya,6,0,,,,,,"",""
+ball,2,13.2,South Africa,GF Linde,DA Miller,HH Pandya,1,0,,,,,,"",""
+ball,2,13.3,South Africa,DA Miller,GF Linde,HH Pandya,0,0,,,,,,"",""
+ball,2,13.4,South Africa,DA Miller,GF Linde,HH Pandya,4,0,,,,,,"",""
+ball,2,13.5,South Africa,DA Miller,GF Linde,HH Pandya,2,0,,,,,,"",""
+ball,2,13.6,South Africa,DA Miller,GF Linde,HH Pandya,1,0,,,,,,"",""
+ball,2,14.1,South Africa,DA Miller,GF Linde,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.2,South Africa,GF Linde,DA Miller,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.3,South Africa,DA Miller,GF Linde,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,14.4,South Africa,DA Miller,GF Linde,Arshdeep Singh,0,0,,,,,,caught,DA Miller
+ball,2,14.5,South Africa,M Jansen,GF Linde,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.6,South Africa,GF Linde,M Jansen,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,15.1,South Africa,GF Linde,M Jansen,CV Varun,0,1,1,,,,,"",""
+ball,2,15.2,South Africa,GF Linde,M Jansen,CV Varun,6,0,,,,,,"",""
+ball,2,15.3,South Africa,GF Linde,M Jansen,CV Varun,0,0,,,,,,bowled,GF Linde
+ball,2,15.4,South Africa,C Bosch,M Jansen,CV Varun,1,0,,,,,,"",""
+ball,2,15.5,South Africa,M Jansen,C Bosch,CV Varun,6,0,,,,,,"",""
+ball,2,15.6,South Africa,M Jansen,C Bosch,CV Varun,6,0,,,,,,"",""
+ball,2,15.7,South Africa,M Jansen,C Bosch,CV Varun,1,0,,,,,,"",""
+ball,2,16.1,South Africa,M Jansen,C Bosch,JJ Bumrah,0,0,,,,,,caught,M Jansen
+ball,2,16.2,South Africa,L Ngidi,C Bosch,JJ Bumrah,0,0,,,,,,"",""
+ball,2,16.3,South Africa,L Ngidi,C Bosch,JJ Bumrah,0,0,,,,,,"",""
+ball,2,16.4,South Africa,L Ngidi,C Bosch,JJ Bumrah,0,0,,,,,,"",""
+ball,2,16.5,South Africa,L Ngidi,C Bosch,JJ Bumrah,0,0,,,,,,"",""
+ball,2,16.6,South Africa,L Ngidi,C Bosch,JJ Bumrah,2,0,,,,,,"",""
+ball,2,17.1,South Africa,C Bosch,L Ngidi,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.2,South Africa,C Bosch,L Ngidi,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,17.3,South Africa,C Bosch,L Ngidi,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.4,South Africa,C Bosch,L Ngidi,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.5,South Africa,C Bosch,L Ngidi,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,17.6,South Africa,C Bosch,L Ngidi,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,17.7,South Africa,L Ngidi,C Bosch,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,18.1,South Africa,C Bosch,L Ngidi,JJ Bumrah,0,0,,,,,,"",""
+ball,2,18.2,South Africa,C Bosch,L Ngidi,JJ Bumrah,0,0,,,,,,"",""
+ball,2,18.3,South Africa,C Bosch,L Ngidi,JJ Bumrah,0,0,,,,,,"",""
+ball,2,18.4,South Africa,C Bosch,L Ngidi,JJ Bumrah,2,0,,,,,,"",""
+ball,2,18.5,South Africa,C Bosch,L Ngidi,JJ Bumrah,0,0,,,,,,"",""
+ball,2,18.6,South Africa,C Bosch,L Ngidi,JJ Bumrah,1,0,,,,,,"",""
+ball,2,19.1,South Africa,C Bosch,L Ngidi,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,19.2,South Africa,L Ngidi,C Bosch,Abhishek Sharma,4,0,,,,,,"",""
+ball,2,19.3,South Africa,L Ngidi,C Bosch,Abhishek Sharma,0,0,,,,,,"",""
+ball,2,19.4,South Africa,L Ngidi,C Bosch,Abhishek Sharma,1,0,,,,,,"",""
+ball,2,19.5,South Africa,C Bosch,L Ngidi,Abhishek Sharma,6,0,,,,,,"",""
+ball,2,19.6,South Africa,C Bosch,L Ngidi,Abhishek Sharma,1,0,,,,,,"",""

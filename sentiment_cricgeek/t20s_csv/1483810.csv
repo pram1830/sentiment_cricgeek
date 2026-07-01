@@ -1,0 +1,254 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Switzerland
+info,gender,female
+info,season,2025
+info,date,2025/05/29
+info,event,Switzerland Women tour of Belgium
+info,match_number,3
+info,venue,"Stars Arena Hofstade, Zemst"
+info,city,Zemst
+info,toss_winner,Switzerland
+info,toss_decision,field
+info,player_of_match,Sejal Vinod
+info,winner,Switzerland
+info,winner_wickets,8
+info,player,Belgium,S Kaneria
+info,player,Belgium,Aashita Gupta
+info,player,Belgium,V Redkar
+info,player,Belgium,RA Lister
+info,player,Belgium,S Bhandari
+info,player,Belgium,A Ilahi
+info,player,Belgium,SD Diwan Ali
+info,player,Belgium,Tripti Gore
+info,player,Belgium,S Yenamandra
+info,player,Belgium,Attia Diwan Ali
+info,player,Belgium,AD Diwan Ali
+info,player,Switzerland,J Edmiston
+info,player,Switzerland,Ramya Krishnamurthy
+info,player,Switzerland,Sejal Vinod
+info,player,Switzerland,F Kuenburg
+info,player,Switzerland,Meghna Rajan
+info,player,Switzerland,Ananya Srinivasan
+info,player,Switzerland,M Holmes
+info,player,Switzerland,D Medagoda
+info,player,Switzerland,Metty Fernandes
+info,player,Switzerland,Saranya Kotha
+info,player,Switzerland,Naina Saju
+info,registry,people,A Ilahi,feb75c84
+info,registry,people,AD Diwan Ali,e9879e9c
+info,registry,people,Aashita Gupta,5792f4e0
+info,registry,people,Ananya Srinivasan,74d9909b
+info,registry,people,Attia Diwan Ali,3cf0ab34
+info,registry,people,D Medagoda,77b49bd9
+info,registry,people,F Kuenburg,07c1fd15
+info,registry,people,J Edmiston,5af47874
+info,registry,people,M Holmes,ba69926f
+info,registry,people,Meghna Rajan,97ae78b7
+info,registry,people,Metty Fernandes,17881e49
+info,registry,people,Naina Saju,756989cf
+info,registry,people,RA Lister,cbf39bc7
+info,registry,people,Ramya Krishnamurthy,c1c931f5
+info,registry,people,S Bhandari,1c28fde6
+info,registry,people,S Kaneria,295e3c13
+info,registry,people,S Yenamandra,adef2d7b
+info,registry,people,SD Diwan Ali,74699499
+info,registry,people,Saranya Kotha,d27caa9c
+info,registry,people,Sejal Vinod,4ec107c8
+info,registry,people,Tripti Gore,a626d864
+info,registry,people,V Redkar,6c4ed095
+ball,1,0.1,Belgium,S Kaneria,Aashita Gupta,Naina Saju,1,0,,,,,,"",""
+ball,1,0.2,Belgium,Aashita Gupta,S Kaneria,Naina Saju,0,0,,,,,,"",""
+ball,1,0.3,Belgium,Aashita Gupta,S Kaneria,Naina Saju,1,0,,,,,,"",""
+ball,1,0.4,Belgium,S Kaneria,Aashita Gupta,Naina Saju,0,1,,1,,,,"",""
+ball,1,0.5,Belgium,S Kaneria,Aashita Gupta,Naina Saju,2,0,,,,,,"",""
+ball,1,0.6,Belgium,S Kaneria,Aashita Gupta,Naina Saju,0,0,,,,,,"",""
+ball,1,0.7,Belgium,S Kaneria,Aashita Gupta,Naina Saju,0,1,1,,,,,"",""
+ball,1,0.8,Belgium,S Kaneria,Aashita Gupta,Naina Saju,1,0,,,,,,"",""
+ball,1,1.1,Belgium,S Kaneria,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,1.2,Belgium,S Kaneria,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,1.3,Belgium,S Kaneria,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,1.4,Belgium,S Kaneria,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,1.5,Belgium,S Kaneria,Aashita Gupta,Meghna Rajan,1,0,,,,,,"",""
+ball,1,1.6,Belgium,Aashita Gupta,S Kaneria,Meghna Rajan,0,0,,,,,,"",""
+ball,1,2.1,Belgium,S Kaneria,Aashita Gupta,Naina Saju,0,1,1,,,,,"",""
+ball,1,2.2,Belgium,S Kaneria,Aashita Gupta,Naina Saju,4,0,,,,,,"",""
+ball,1,2.3,Belgium,S Kaneria,Aashita Gupta,Naina Saju,1,0,,,,,,"",""
+ball,1,2.4,Belgium,Aashita Gupta,S Kaneria,Naina Saju,1,0,,,,,,"",""
+ball,1,2.5,Belgium,S Kaneria,Aashita Gupta,Naina Saju,0,0,,,,,,caught,S Kaneria
+ball,1,2.6,Belgium,V Redkar,Aashita Gupta,Naina Saju,0,0,,,,,,"",""
+ball,1,2.7,Belgium,V Redkar,Aashita Gupta,Naina Saju,0,0,,,,,,"",""
+ball,1,3.1,Belgium,Aashita Gupta,V Redkar,Meghna Rajan,0,0,,,,,,"",""
+ball,1,3.2,Belgium,Aashita Gupta,V Redkar,Meghna Rajan,0,0,,,,,,"",""
+ball,1,3.3,Belgium,Aashita Gupta,V Redkar,Meghna Rajan,0,0,,,,,,"",""
+ball,1,3.4,Belgium,Aashita Gupta,V Redkar,Meghna Rajan,0,0,,,,,,"",""
+ball,1,3.5,Belgium,Aashita Gupta,V Redkar,Meghna Rajan,1,0,,,,,,"",""
+ball,1,3.6,Belgium,V Redkar,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,4.1,Belgium,Aashita Gupta,V Redkar,D Medagoda,0,1,1,,,,,"",""
+ball,1,4.2,Belgium,Aashita Gupta,V Redkar,D Medagoda,0,0,,,,,,"",""
+ball,1,4.3,Belgium,Aashita Gupta,V Redkar,D Medagoda,4,0,,,,,,"",""
+ball,1,4.4,Belgium,Aashita Gupta,V Redkar,D Medagoda,0,1,1,,,,,"",""
+ball,1,4.5,Belgium,Aashita Gupta,V Redkar,D Medagoda,1,0,,,,,,"",""
+ball,1,4.6,Belgium,V Redkar,Aashita Gupta,D Medagoda,0,0,,,,,,"",""
+ball,1,4.7,Belgium,V Redkar,Aashita Gupta,D Medagoda,0,1,1,,,,,"",""
+ball,1,4.8,Belgium,V Redkar,Aashita Gupta,D Medagoda,0,1,1,,,,,"",""
+ball,1,4.9,Belgium,V Redkar,Aashita Gupta,D Medagoda,0,0,,,,,,"",""
+ball,1,4.10,Belgium,V Redkar,Aashita Gupta,D Medagoda,0,0,,,,,,caught,V Redkar
+ball,1,5.1,Belgium,Aashita Gupta,RA Lister,Meghna Rajan,1,0,,,,,,"",""
+ball,1,5.2,Belgium,RA Lister,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,5.3,Belgium,RA Lister,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,5.4,Belgium,RA Lister,Aashita Gupta,Meghna Rajan,0,0,,,,,,"",""
+ball,1,5.5,Belgium,RA Lister,Aashita Gupta,Meghna Rajan,1,0,,,,,,"",""
+ball,1,5.6,Belgium,Aashita Gupta,RA Lister,Meghna Rajan,0,0,,,,,,"",""
+ball,1,6.1,Belgium,RA Lister,Aashita Gupta,D Medagoda,0,0,,,,,,"",""
+ball,1,6.2,Belgium,RA Lister,Aashita Gupta,D Medagoda,0,0,,,,,,"",""
+ball,1,6.3,Belgium,RA Lister,Aashita Gupta,D Medagoda,0,0,,,,,,"",""
+ball,1,6.4,Belgium,RA Lister,Aashita Gupta,D Medagoda,1,0,,,,,,"",""
+ball,1,6.5,Belgium,Aashita Gupta,RA Lister,D Medagoda,0,1,1,,,,,"",""
+ball,1,6.6,Belgium,Aashita Gupta,RA Lister,D Medagoda,0,0,,,,,,"",""
+ball,1,6.7,Belgium,Aashita Gupta,RA Lister,D Medagoda,0,0,,,,,,"",""
+ball,1,7.1,Belgium,RA Lister,Aashita Gupta,Sejal Vinod,0,0,,,,,,"",""
+ball,1,7.2,Belgium,RA Lister,Aashita Gupta,Sejal Vinod,0,0,,,,,,"",""
+ball,1,7.3,Belgium,RA Lister,Aashita Gupta,Sejal Vinod,0,1,1,,,,,"",""
+ball,1,7.4,Belgium,RA Lister,Aashita Gupta,Sejal Vinod,1,0,,,,,,"",""
+ball,1,7.5,Belgium,Aashita Gupta,RA Lister,Sejal Vinod,4,0,,,,,,"",""
+ball,1,7.6,Belgium,Aashita Gupta,RA Lister,Sejal Vinod,0,0,,,,,,lbw,Aashita Gupta
+ball,1,7.7,Belgium,S Bhandari,RA Lister,Sejal Vinod,0,1,1,,,,,"",""
+ball,1,7.8,Belgium,S Bhandari,RA Lister,Sejal Vinod,0,0,,,,,,caught,S Bhandari
+ball,1,8.1,Belgium,RA Lister,A Ilahi,Metty Fernandes,0,0,,,,,,"",""
+ball,1,8.2,Belgium,RA Lister,A Ilahi,Metty Fernandes,0,1,1,,,,,"",""
+ball,1,8.3,Belgium,RA Lister,A Ilahi,Metty Fernandes,1,0,,,,,,"",""
+ball,1,8.4,Belgium,A Ilahi,RA Lister,Metty Fernandes,0,0,,,,,,"",""
+ball,1,8.5,Belgium,A Ilahi,RA Lister,Metty Fernandes,1,0,,,,,,"",""
+ball,1,8.6,Belgium,RA Lister,A Ilahi,Metty Fernandes,0,0,,,,,,"",""
+ball,1,8.7,Belgium,RA Lister,A Ilahi,Metty Fernandes,0,0,,,,,,"",""
+ball,1,9.1,Belgium,A Ilahi,RA Lister,Sejal Vinod,0,1,,1,,,,"",""
+ball,1,9.2,Belgium,A Ilahi,RA Lister,Sejal Vinod,0,0,,,,,,"",""
+ball,1,9.3,Belgium,A Ilahi,RA Lister,Sejal Vinod,0,0,,,,,,caught,A Ilahi
+ball,1,9.4,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,0,,,,,,"",""
+ball,1,9.5,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,1,1,,,,,"",""
+ball,1,9.6,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,0,,,,,,"",""
+ball,1,9.7,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,0,,,,,,"",""
+ball,1,9.8,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,0,,,,,,"",""
+ball,1,10.1,Belgium,RA Lister,SD Diwan Ali,Metty Fernandes,0,1,1,,,,,"",""
+ball,1,10.2,Belgium,RA Lister,SD Diwan Ali,Metty Fernandes,0,0,,,,,,"",""
+ball,1,10.3,Belgium,RA Lister,SD Diwan Ali,Metty Fernandes,0,1,1,,,,,"",""
+ball,1,10.4,Belgium,RA Lister,SD Diwan Ali,Metty Fernandes,0,0,,,,,,"",""
+ball,1,10.5,Belgium,RA Lister,SD Diwan Ali,Metty Fernandes,1,0,,,,,,"",""
+ball,1,10.6,Belgium,SD Diwan Ali,RA Lister,Metty Fernandes,0,0,,,,,,"",""
+ball,1,10.7,Belgium,SD Diwan Ali,RA Lister,Metty Fernandes,0,1,,,1,,,"",""
+ball,1,10.8,Belgium,RA Lister,SD Diwan Ali,Metty Fernandes,0,1,1,,,,,"",""
+ball,1,10.9,Belgium,RA Lister,SD Diwan Ali,Metty Fernandes,0,0,,,,,,"",""
+ball,1,11.1,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,0,,,,,,"",""
+ball,1,11.2,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,1,1,,,,,"",""
+ball,1,11.3,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,0,0,,,,,,"",""
+ball,1,11.4,Belgium,SD Diwan Ali,RA Lister,Sejal Vinod,1,0,,,,,,"",""
+ball,1,11.5,Belgium,RA Lister,SD Diwan Ali,Sejal Vinod,0,0,,,,,,"",""
+ball,1,11.6,Belgium,RA Lister,SD Diwan Ali,Sejal Vinod,0,0,,,,,,"",""
+ball,1,11.7,Belgium,RA Lister,SD Diwan Ali,Sejal Vinod,0,0,,,,,,"",""
+ball,1,12.1,Belgium,SD Diwan Ali,RA Lister,Saranya Kotha,0,0,,,,,,caught,SD Diwan Ali
+ball,1,12.2,Belgium,Tripti Gore,RA Lister,Saranya Kotha,0,0,,,,,,"",""
+ball,1,12.3,Belgium,Tripti Gore,RA Lister,Saranya Kotha,0,0,,,,,,"",""
+ball,1,12.4,Belgium,Tripti Gore,RA Lister,Saranya Kotha,0,0,,,,,,lbw,Tripti Gore
+ball,1,12.5,Belgium,S Yenamandra,RA Lister,Saranya Kotha,0,0,,,,,,"",""
+ball,1,12.6,Belgium,S Yenamandra,RA Lister,Saranya Kotha,0,0,,,,,,"",""
+ball,1,13.1,Belgium,RA Lister,S Yenamandra,M Holmes,0,0,,,,,,"",""
+ball,1,13.2,Belgium,RA Lister,S Yenamandra,M Holmes,0,0,,,,,,bowled,RA Lister
+ball,1,13.3,Belgium,Attia Diwan Ali,S Yenamandra,M Holmes,0,0,,,,,,"",""
+ball,1,13.4,Belgium,Attia Diwan Ali,S Yenamandra,M Holmes,0,0,,,,,,"",""
+ball,1,13.5,Belgium,Attia Diwan Ali,S Yenamandra,M Holmes,0,0,,,,,,"",""
+ball,1,13.6,Belgium,Attia Diwan Ali,S Yenamandra,M Holmes,1,0,,,,,,"",""
+ball,1,14.1,Belgium,Attia Diwan Ali,S Yenamandra,Saranya Kotha,0,1,1,,,,,"",""
+ball,1,14.2,Belgium,Attia Diwan Ali,S Yenamandra,Saranya Kotha,1,0,,,,,,"",""
+ball,1,14.3,Belgium,S Yenamandra,Attia Diwan Ali,Saranya Kotha,0,0,,,,,,"",""
+ball,1,14.4,Belgium,S Yenamandra,Attia Diwan Ali,Saranya Kotha,0,1,1,,,,,"",""
+ball,1,14.5,Belgium,S Yenamandra,Attia Diwan Ali,Saranya Kotha,0,0,,,,,,"",""
+ball,1,14.6,Belgium,S Yenamandra,Attia Diwan Ali,Saranya Kotha,0,0,,,,,,"",""
+ball,1,14.7,Belgium,S Yenamandra,Attia Diwan Ali,Saranya Kotha,0,0,,,,,,caught,S Yenamandra
+ball,1,14.8,Belgium,AD Diwan Ali,Attia Diwan Ali,Saranya Kotha,1,0,,,,,,"",""
+ball,1,15.1,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,0,,,,,,"",""
+ball,1,15.2,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,0,,,,,,"",""
+ball,1,15.3,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,1,1,,,,,"",""
+ball,1,15.4,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,1,1,,,,,"",""
+ball,1,15.5,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,1,1,,,,,"",""
+ball,1,15.6,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,0,,,,,,"",""
+ball,1,15.7,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,0,,,,,,"",""
+ball,1,15.8,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,0,,,,,,"",""
+ball,1,15.9,Belgium,AD Diwan Ali,Attia Diwan Ali,M Holmes,0,0,,,,,,"",""
+ball,1,16.1,Belgium,Attia Diwan Ali,AD Diwan Ali,D Medagoda,0,0,,,,,,"",""
+ball,1,16.2,Belgium,Attia Diwan Ali,AD Diwan Ali,D Medagoda,0,0,,,,,,"",""
+ball,1,16.3,Belgium,Attia Diwan Ali,AD Diwan Ali,D Medagoda,0,0,,,,,,caught and bowled,Attia Diwan Ali
+ball,2,0.1,Switzerland,J Edmiston,Ramya Krishnamurthy,S Kaneria,0,0,,,,,,"",""
+ball,2,0.2,Switzerland,J Edmiston,Ramya Krishnamurthy,S Kaneria,0,0,,,,,,"",""
+ball,2,0.3,Switzerland,J Edmiston,Ramya Krishnamurthy,S Kaneria,0,0,,,,,,"",""
+ball,2,0.4,Switzerland,J Edmiston,Ramya Krishnamurthy,S Kaneria,0,0,,,,,,"",""
+ball,2,0.5,Switzerland,J Edmiston,Ramya Krishnamurthy,S Kaneria,0,0,,,,,,"",""
+ball,2,0.6,Switzerland,J Edmiston,Ramya Krishnamurthy,S Kaneria,1,0,,,,,,"",""
+ball,2,1.1,Switzerland,J Edmiston,Ramya Krishnamurthy,A Ilahi,1,0,,,,,,"",""
+ball,2,1.2,Switzerland,Ramya Krishnamurthy,J Edmiston,A Ilahi,0,0,,,,,,"",""
+ball,2,1.3,Switzerland,Ramya Krishnamurthy,J Edmiston,A Ilahi,2,0,,,,,,"",""
+ball,2,1.4,Switzerland,Ramya Krishnamurthy,J Edmiston,A Ilahi,0,1,1,,,,,"",""
+ball,2,1.5,Switzerland,Ramya Krishnamurthy,J Edmiston,A Ilahi,4,0,,,,,,"",""
+ball,2,1.6,Switzerland,Ramya Krishnamurthy,J Edmiston,A Ilahi,0,0,,,,,,lbw,Ramya Krishnamurthy
+ball,2,1.7,Switzerland,Sejal Vinod,J Edmiston,A Ilahi,0,0,,,,,,"",""
+ball,2,2.1,Switzerland,J Edmiston,Sejal Vinod,S Kaneria,0,0,,,,,,"",""
+ball,2,2.2,Switzerland,J Edmiston,Sejal Vinod,S Kaneria,0,0,,,,,,"",""
+ball,2,2.3,Switzerland,J Edmiston,Sejal Vinod,S Kaneria,0,0,,,,,,"",""
+ball,2,2.4,Switzerland,J Edmiston,Sejal Vinod,S Kaneria,0,0,,,,,,"",""
+ball,2,2.5,Switzerland,J Edmiston,Sejal Vinod,S Kaneria,2,0,,,,,,"",""
+ball,2,2.6,Switzerland,J Edmiston,Sejal Vinod,S Kaneria,0,0,,,,,,"",""
+ball,2,3.1,Switzerland,Sejal Vinod,J Edmiston,A Ilahi,0,0,,,,,,caught,Sejal Vinod
+ball,2,3.2,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,1,1,,,,,"",""
+ball,2,3.3,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,0,,,,,,"",""
+ball,2,3.4,Switzerland,F Kuenburg,J Edmiston,A Ilahi,1,0,,,,,,"",""
+ball,2,3.5,Switzerland,J Edmiston,F Kuenburg,A Ilahi,1,0,,,,,,"",""
+ball,2,3.6,Switzerland,F Kuenburg,J Edmiston,A Ilahi,2,0,,,,,,"",""
+ball,2,3.7,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,0,,,,,,"",""
+ball,2,4.1,Switzerland,J Edmiston,F Kuenburg,S Kaneria,2,0,,,,,,"",""
+ball,2,4.2,Switzerland,J Edmiston,F Kuenburg,S Kaneria,0,0,,,,,,"",""
+ball,2,4.3,Switzerland,J Edmiston,F Kuenburg,S Kaneria,0,0,,,,,,"",""
+ball,2,4.4,Switzerland,J Edmiston,F Kuenburg,S Kaneria,0,0,,,,,,"",""
+ball,2,4.5,Switzerland,J Edmiston,F Kuenburg,S Kaneria,0,1,1,,,,,"",""
+ball,2,4.6,Switzerland,J Edmiston,F Kuenburg,S Kaneria,0,0,,,,,,"",""
+ball,2,4.7,Switzerland,J Edmiston,F Kuenburg,S Kaneria,0,0,,,,,,"",""
+ball,2,5.1,Switzerland,F Kuenburg,J Edmiston,AD Diwan Ali,1,0,,,,,,"",""
+ball,2,5.2,Switzerland,J Edmiston,F Kuenburg,AD Diwan Ali,0,1,1,,,,,"",""
+ball,2,5.3,Switzerland,J Edmiston,F Kuenburg,AD Diwan Ali,1,0,,,,,,"",""
+ball,2,5.4,Switzerland,F Kuenburg,J Edmiston,AD Diwan Ali,1,0,,,,,,"",""
+ball,2,5.5,Switzerland,J Edmiston,F Kuenburg,AD Diwan Ali,2,0,,,,,,"",""
+ball,2,5.6,Switzerland,J Edmiston,F Kuenburg,AD Diwan Ali,0,0,,,,,,"",""
+ball,2,5.7,Switzerland,J Edmiston,F Kuenburg,AD Diwan Ali,0,1,1,,,,,"",""
+ball,2,5.8,Switzerland,J Edmiston,F Kuenburg,AD Diwan Ali,1,0,,,,,,"",""
+ball,2,6.1,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,0,0,,,,,,"",""
+ball,2,6.2,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,0,0,,,,,,"",""
+ball,2,6.3,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,1,0,,,,,,"",""
+ball,2,6.4,Switzerland,F Kuenburg,J Edmiston,Tripti Gore,4,0,,,,,,"",""
+ball,2,6.5,Switzerland,F Kuenburg,J Edmiston,Tripti Gore,0,0,,,,,,"",""
+ball,2,6.6,Switzerland,F Kuenburg,J Edmiston,Tripti Gore,0,0,,,,,,"",""
+ball,2,7.1,Switzerland,J Edmiston,F Kuenburg,A Ilahi,1,0,,,,,,"",""
+ball,2,7.2,Switzerland,F Kuenburg,J Edmiston,A Ilahi,2,0,,,,,,"",""
+ball,2,7.3,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,0,,,,,,"",""
+ball,2,7.4,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,0,,,,,,"",""
+ball,2,7.5,Switzerland,F Kuenburg,J Edmiston,A Ilahi,2,0,,,,,,"",""
+ball,2,7.6,Switzerland,F Kuenburg,J Edmiston,A Ilahi,1,0,,,,,,"",""
+ball,2,8.1,Switzerland,F Kuenburg,J Edmiston,S Kaneria,0,0,,,,,,"",""
+ball,2,8.2,Switzerland,F Kuenburg,J Edmiston,S Kaneria,0,0,,,,,,"",""
+ball,2,8.3,Switzerland,F Kuenburg,J Edmiston,S Kaneria,0,0,,,,,,"",""
+ball,2,8.4,Switzerland,F Kuenburg,J Edmiston,S Kaneria,0,0,,,,,,"",""
+ball,2,8.5,Switzerland,F Kuenburg,J Edmiston,S Kaneria,0,0,,,,,,"",""
+ball,2,8.6,Switzerland,F Kuenburg,J Edmiston,S Kaneria,0,2,2,,,,,"",""
+ball,2,8.7,Switzerland,J Edmiston,F Kuenburg,S Kaneria,0,0,,,,,,"",""
+ball,2,9.1,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,1,1,,,,,"",""
+ball,2,9.2,Switzerland,F Kuenburg,J Edmiston,A Ilahi,1,0,,,,,,"",""
+ball,2,9.3,Switzerland,J Edmiston,F Kuenburg,A Ilahi,0,0,,,,,,"",""
+ball,2,9.4,Switzerland,J Edmiston,F Kuenburg,A Ilahi,0,0,,,,,,"",""
+ball,2,9.5,Switzerland,J Edmiston,F Kuenburg,A Ilahi,1,0,,,,,,"",""
+ball,2,9.6,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,1,1,,,,,"",""
+ball,2,9.7,Switzerland,F Kuenburg,J Edmiston,A Ilahi,0,0,,,,,,"",""
+ball,2,9.8,Switzerland,F Kuenburg,J Edmiston,A Ilahi,4,0,,,,,,"",""
+ball,2,10.1,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,0,1,,1,,,,"",""
+ball,2,10.2,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,0,0,,,,,,"",""
+ball,2,10.3,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,0,0,,,,,,"",""
+ball,2,10.4,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,4,0,,,,,,"",""
+ball,2,10.5,Switzerland,J Edmiston,F Kuenburg,Tripti Gore,4,0,,,,,,"",""

@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canada
+info,team,United States of America
+info,gender,male
+info,season,2025
+info,date,2025/04/27
+info,event,North America T20 Cup
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,MD Patel
+info,umpire,L Watson
+info,umpire,P Manning
+info,reserve_umpire,NH Ekanayake
+info,winner,United States of America
+info,winner_wickets,6
+info,player,Canada,Ali Nadeem
+info,player,Canada,NS Dhaliwal
+info,player,Canada,YS Samra
+info,player,Canada,S Movva
+info,player,Canada,H Thaker
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Jaskaran Singh
+info,player,Canada,Kaleem Sana
+info,player,Canada,Akhil Kumar
+info,player,Canada,Sukhjinder Singh
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,MD Patel
+info,player,United States of America,Milind Kumar
+info,player,United States of America,Aaron Jones
+info,player,United States of America,SP Krishnamurthi
+info,player,United States of America,Ali Sheikh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,Yasir Mohammad
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,A Desai
+info,registry,people,A Desai,9c1b1f4b
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Akhil Kumar,2feb5b8d
+info,registry,people,Ali Nadeem,02802468
+info,registry,people,Ali Sheikh,fa4f5a0b
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,L Watson,f6f4b730
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,P Manning,f06b5585
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Movva,ee229588
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,Sukhjinder Singh,ada72696
+info,registry,people,YS Samra,d02c40ab
+info,registry,people,Yasir Mohammad,fe5175ce
+ball,1,0.1,Canada,Ali Nadeem,NS Dhaliwal,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,0.2,Canada,NS Dhaliwal,Ali Nadeem,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,0.3,Canada,NS Dhaliwal,Ali Nadeem,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,0.4,Canada,Ali Nadeem,NS Dhaliwal,Jasdeep Singh,0,0,,,,,,caught,Ali Nadeem
+ball,1,0.5,Canada,YS Samra,NS Dhaliwal,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,0.6,Canada,YS Samra,NS Dhaliwal,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,1.1,Canada,NS Dhaliwal,YS Samra,Milind Kumar,0,0,,,,,,"",""
+ball,1,1.2,Canada,NS Dhaliwal,YS Samra,Milind Kumar,0,0,,,,,,"",""
+ball,1,1.3,Canada,NS Dhaliwal,YS Samra,Milind Kumar,0,0,,,,,,caught,NS Dhaliwal
+ball,1,1.4,Canada,S Movva,YS Samra,Milind Kumar,1,0,,,,,,"",""
+ball,1,1.5,Canada,YS Samra,S Movva,Milind Kumar,1,0,,,,,,"",""
+ball,1,1.6,Canada,S Movva,YS Samra,Milind Kumar,1,0,,,,,,"",""
+ball,1,2.1,Canada,S Movva,YS Samra,Jasdeep Singh,1,1,,1,,,,"",""
+ball,1,2.2,Canada,YS Samra,S Movva,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,2.3,Canada,YS Samra,S Movva,Jasdeep Singh,4,0,,,,,,"",""
+ball,1,2.4,Canada,YS Samra,S Movva,Jasdeep Singh,0,1,,1,,,,"",""
+ball,1,2.5,Canada,YS Samra,S Movva,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,2.6,Canada,YS Samra,S Movva,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,2.7,Canada,S Movva,YS Samra,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,2.8,Canada,YS Samra,S Movva,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,3.1,Canada,S Movva,YS Samra,Milind Kumar,0,0,,,,,,"",""
+ball,1,3.2,Canada,S Movva,YS Samra,Milind Kumar,2,0,,,,,,"",""
+ball,1,3.3,Canada,S Movva,YS Samra,Milind Kumar,0,0,,,,,,"",""
+ball,1,3.4,Canada,S Movva,YS Samra,Milind Kumar,4,0,,,,,,"",""
+ball,1,3.5,Canada,S Movva,YS Samra,Milind Kumar,1,0,,,,,,"",""
+ball,1,3.6,Canada,YS Samra,S Movva,Milind Kumar,0,1,1,,,,,"",""
+ball,1,3.7,Canada,YS Samra,S Movva,Milind Kumar,1,0,,,,,,"",""
+ball,1,4.1,Canada,YS Samra,S Movva,SN Netravalkar,0,1,1,,,,,"",""
+ball,1,4.2,Canada,YS Samra,S Movva,SN Netravalkar,2,0,,,,,,"",""
+ball,1,4.3,Canada,YS Samra,S Movva,SN Netravalkar,4,0,,,,,,"",""
+ball,1,4.4,Canada,YS Samra,S Movva,SN Netravalkar,6,0,,,,,,"",""
+ball,1,4.5,Canada,YS Samra,S Movva,SN Netravalkar,1,0,,,,,,"",""
+ball,1,4.6,Canada,S Movva,YS Samra,SN Netravalkar,1,0,,,,,,"",""
+ball,1,4.7,Canada,YS Samra,S Movva,SN Netravalkar,2,0,,,,,,"",""
+ball,1,5.1,Canada,S Movva,YS Samra,Milind Kumar,1,0,,,,,,"",""
+ball,1,5.2,Canada,YS Samra,S Movva,Milind Kumar,0,0,,,,,,"",""
+ball,1,5.3,Canada,YS Samra,S Movva,Milind Kumar,1,0,,,,,,"",""
+ball,1,5.4,Canada,S Movva,YS Samra,Milind Kumar,1,0,,,,,,"",""
+ball,1,5.5,Canada,YS Samra,S Movva,Milind Kumar,0,0,,,,,,"",""
+ball,1,5.6,Canada,YS Samra,S Movva,Milind Kumar,0,0,,,,,,bowled,YS Samra
+ball,1,6.1,Canada,S Movva,H Thaker,A Desai,1,0,,,,,,"",""
+ball,1,6.2,Canada,H Thaker,S Movva,A Desai,0,0,,,,,,"",""
+ball,1,6.3,Canada,H Thaker,S Movva,A Desai,1,0,,,,,,"",""
+ball,1,6.4,Canada,S Movva,H Thaker,A Desai,1,0,,,,,,"",""
+ball,1,6.5,Canada,H Thaker,S Movva,A Desai,1,0,,,,,,"",""
+ball,1,6.6,Canada,S Movva,H Thaker,A Desai,0,0,,,,,,"",""
+ball,1,7.1,Canada,H Thaker,S Movva,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,7.2,Canada,S Movva,H Thaker,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,7.3,Canada,H Thaker,S Movva,Yasir Mohammad,0,0,,,,,,"",""
+ball,1,7.4,Canada,H Thaker,S Movva,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,7.5,Canada,S Movva,H Thaker,Yasir Mohammad,0,0,,,,,,"",""
+ball,1,7.6,Canada,S Movva,H Thaker,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,8.1,Canada,S Movva,H Thaker,A Desai,1,0,,,,,,"",""
+ball,1,8.2,Canada,H Thaker,S Movva,A Desai,1,0,,,,,,"",""
+ball,1,8.3,Canada,S Movva,H Thaker,A Desai,0,0,,,,,,caught,S Movva
+ball,1,8.4,Canada,Saad Bin Zafar,H Thaker,A Desai,2,0,,,,,,"",""
+ball,1,8.5,Canada,Saad Bin Zafar,H Thaker,A Desai,1,0,,,,,,"",""
+ball,1,8.6,Canada,H Thaker,Saad Bin Zafar,A Desai,1,0,,,,,,"",""
+ball,1,9.1,Canada,H Thaker,Saad Bin Zafar,Milind Kumar,1,0,,,,,,"",""
+ball,1,9.2,Canada,Saad Bin Zafar,H Thaker,Milind Kumar,0,0,,,,,,"",""
+ball,1,9.3,Canada,Saad Bin Zafar,H Thaker,Milind Kumar,1,0,,,,,,"",""
+ball,1,9.4,Canada,H Thaker,Saad Bin Zafar,Milind Kumar,1,0,,,,,,"",""
+ball,1,9.5,Canada,Saad Bin Zafar,H Thaker,Milind Kumar,2,0,,,,,,"",""
+ball,1,9.6,Canada,Saad Bin Zafar,H Thaker,Milind Kumar,1,0,,,,,,"",""
+ball,1,10.1,Canada,Saad Bin Zafar,H Thaker,A Desai,6,0,,,,,,"",""
+ball,1,10.2,Canada,Saad Bin Zafar,H Thaker,A Desai,1,0,,,,,,"",""
+ball,1,10.3,Canada,H Thaker,Saad Bin Zafar,A Desai,2,0,,,,,,"",""
+ball,1,10.4,Canada,H Thaker,Saad Bin Zafar,A Desai,0,0,,,,,,bowled,H Thaker
+ball,1,10.5,Canada,Ravinderpal Singh,Saad Bin Zafar,A Desai,0,0,,,,,,"",""
+ball,1,10.6,Canada,Ravinderpal Singh,Saad Bin Zafar,A Desai,1,0,,,,,,"",""
+ball,1,11.1,Canada,Ravinderpal Singh,Saad Bin Zafar,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,11.2,Canada,Saad Bin Zafar,Ravinderpal Singh,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,11.3,Canada,Ravinderpal Singh,Saad Bin Zafar,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,11.4,Canada,Saad Bin Zafar,Ravinderpal Singh,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,11.5,Canada,Ravinderpal Singh,Saad Bin Zafar,Yasir Mohammad,6,0,,,,,,"",""
+ball,1,11.6,Canada,Ravinderpal Singh,Saad Bin Zafar,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,12.1,Canada,Ravinderpal Singh,Saad Bin Zafar,A Desai,0,1,,,,1,,"",""
+ball,1,12.2,Canada,Saad Bin Zafar,Ravinderpal Singh,A Desai,0,1,,1,,,,"",""
+ball,1,12.3,Canada,Saad Bin Zafar,Ravinderpal Singh,A Desai,1,0,,,,,,"",""
+ball,1,12.4,Canada,Ravinderpal Singh,Saad Bin Zafar,A Desai,1,0,,,,,,"",""
+ball,1,12.5,Canada,Saad Bin Zafar,Ravinderpal Singh,A Desai,1,0,,,,,,"",""
+ball,1,12.6,Canada,Ravinderpal Singh,Saad Bin Zafar,A Desai,4,0,,,,,,"",""
+ball,1,12.7,Canada,Ravinderpal Singh,Saad Bin Zafar,A Desai,1,0,,,,,,"",""
+ball,1,13.1,Canada,Ravinderpal Singh,Saad Bin Zafar,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,13.2,Canada,Saad Bin Zafar,Ravinderpal Singh,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,13.3,Canada,Ravinderpal Singh,Saad Bin Zafar,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,13.4,Canada,Saad Bin Zafar,Ravinderpal Singh,Yasir Mohammad,0,0,,,,,,caught,Saad Bin Zafar
+ball,1,13.5,Canada,Jaskaran Singh,Ravinderpal Singh,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,13.6,Canada,Ravinderpal Singh,Jaskaran Singh,Yasir Mohammad,0,0,,,,,,"",""
+ball,1,14.1,Canada,Jaskaran Singh,Ravinderpal Singh,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,14.2,Canada,Jaskaran Singh,Ravinderpal Singh,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,14.3,Canada,Ravinderpal Singh,Jaskaran Singh,Jasdeep Singh,0,0,,,,,,lbw,Ravinderpal Singh
+ball,1,14.4,Canada,Kaleem Sana,Jaskaran Singh,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,14.5,Canada,Kaleem Sana,Jaskaran Singh,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,14.6,Canada,Kaleem Sana,Jaskaran Singh,Jasdeep Singh,6,0,,,,,,"",""
+ball,1,15.1,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,4,0,,,,,,"",""
+ball,1,15.2,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,2,0,,,,,,"",""
+ball,1,15.3,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,4,0,,,,,,"",""
+ball,1,15.4,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,0,0,,,,,,"",""
+ball,1,15.5,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,1,0,,,,,,"",""
+ball,1,15.6,Canada,Kaleem Sana,Jaskaran Singh,SN Netravalkar,0,0,,,,,,"",""
+ball,1,16.1,Canada,Jaskaran Singh,Kaleem Sana,Yasir Mohammad,0,0,,,,,,"",""
+ball,1,16.2,Canada,Jaskaran Singh,Kaleem Sana,Yasir Mohammad,6,0,,,,,,"",""
+ball,1,16.3,Canada,Jaskaran Singh,Kaleem Sana,Yasir Mohammad,6,0,,,,,,"",""
+ball,1,16.4,Canada,Jaskaran Singh,Kaleem Sana,Yasir Mohammad,6,0,,,,,,"",""
+ball,1,16.5,Canada,Jaskaran Singh,Kaleem Sana,Yasir Mohammad,6,0,,,,,,"",""
+ball,1,16.6,Canada,Jaskaran Singh,Kaleem Sana,Yasir Mohammad,1,0,,,,,,"",""
+ball,1,17.1,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,2,0,,,,,,"",""
+ball,1,17.2,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,2,0,,,,,,"",""
+ball,1,17.3,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,2,0,,,,,,"",""
+ball,1,17.4,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,1,0,,,,,,"",""
+ball,1,17.5,Canada,Kaleem Sana,Jaskaran Singh,SN Netravalkar,1,0,,,,,,"",""
+ball,1,17.6,Canada,Jaskaran Singh,Kaleem Sana,SN Netravalkar,4,0,,,,,,"",""
+ball,1,18.1,Canada,Kaleem Sana,Jaskaran Singh,Jasdeep Singh,0,0,,,,,,bowled,Kaleem Sana
+ball,1,18.2,Canada,Akhil Kumar,Jaskaran Singh,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,18.3,Canada,Jaskaran Singh,Akhil Kumar,Jasdeep Singh,1,0,,,,,,run out,Akhil Kumar
+ball,1,18.4,Canada,Sukhjinder Singh,Jaskaran Singh,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,18.5,Canada,Sukhjinder Singh,Jaskaran Singh,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,18.6,Canada,Jaskaran Singh,Sukhjinder Singh,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,19.1,Canada,Jaskaran Singh,Sukhjinder Singh,SN Netravalkar,4,0,,,,,,"",""
+ball,1,19.2,Canada,Jaskaran Singh,Sukhjinder Singh,SN Netravalkar,1,0,,,,,,"",""
+ball,1,19.3,Canada,Sukhjinder Singh,Jaskaran Singh,SN Netravalkar,0,0,,,,,,"",""
+ball,1,19.4,Canada,Sukhjinder Singh,Jaskaran Singh,SN Netravalkar,0,1,,,1,,,"",""
+ball,1,19.5,Canada,Jaskaran Singh,Sukhjinder Singh,SN Netravalkar,0,0,,,,,,"",""
+ball,1,19.6,Canada,Jaskaran Singh,Sukhjinder Singh,SN Netravalkar,0,1,,1,,,,"",""
+ball,1,19.7,Canada,Jaskaran Singh,Sukhjinder Singh,SN Netravalkar,4,0,,,,,,"",""
+ball,2,0.1,United States of America,SR Mukkamalla,Shayan Jahangir,Kaleem Sana,0,1,1,,,,,"",""
+ball,2,0.2,United States of America,SR Mukkamalla,Shayan Jahangir,Kaleem Sana,1,0,,,,,,"",""
+ball,2,0.3,United States of America,Shayan Jahangir,SR Mukkamalla,Kaleem Sana,0,0,,,,,,"",""
+ball,2,0.4,United States of America,Shayan Jahangir,SR Mukkamalla,Kaleem Sana,2,0,,,,,,"",""
+ball,2,0.5,United States of America,Shayan Jahangir,SR Mukkamalla,Kaleem Sana,0,0,,,,,,"",""
+ball,2,0.6,United States of America,Shayan Jahangir,SR Mukkamalla,Kaleem Sana,0,0,,,,,,caught,Shayan Jahangir
+ball,2,0.7,United States of America,MD Patel,SR Mukkamalla,Kaleem Sana,1,0,,,,,,"",""
+ball,2,1.1,United States of America,MD Patel,SR Mukkamalla,H Thaker,3,0,,,,,,"",""
+ball,2,1.2,United States of America,SR Mukkamalla,MD Patel,H Thaker,4,0,,,,,,"",""
+ball,2,1.3,United States of America,SR Mukkamalla,MD Patel,H Thaker,1,0,,,,,,"",""
+ball,2,1.4,United States of America,MD Patel,SR Mukkamalla,H Thaker,0,0,,,,,,"",""
+ball,2,1.5,United States of America,MD Patel,SR Mukkamalla,H Thaker,0,0,,,,,,"",""
+ball,2,1.6,United States of America,MD Patel,SR Mukkamalla,H Thaker,0,0,,,,,,"",""
+ball,2,2.1,United States of America,SR Mukkamalla,MD Patel,Kaleem Sana,0,0,,,,,,"",""
+ball,2,2.2,United States of America,SR Mukkamalla,MD Patel,Kaleem Sana,1,0,,,,,,"",""
+ball,2,2.3,United States of America,MD Patel,SR Mukkamalla,Kaleem Sana,1,0,,,,,,"",""
+ball,2,2.4,United States of America,SR Mukkamalla,MD Patel,Kaleem Sana,1,0,,,,,,"",""
+ball,2,2.5,United States of America,MD Patel,SR Mukkamalla,Kaleem Sana,4,0,,,,,,"",""
+ball,2,2.6,United States of America,MD Patel,SR Mukkamalla,Kaleem Sana,1,0,,,,,,"",""
+ball,2,3.1,United States of America,MD Patel,SR Mukkamalla,H Thaker,4,0,,,,,,"",""
+ball,2,3.2,United States of America,MD Patel,SR Mukkamalla,H Thaker,2,0,,,,,,"",""
+ball,2,3.3,United States of America,MD Patel,SR Mukkamalla,H Thaker,4,0,,,,,,"",""
+ball,2,3.4,United States of America,MD Patel,SR Mukkamalla,H Thaker,1,0,,,,,,"",""
+ball,2,3.5,United States of America,SR Mukkamalla,MD Patel,H Thaker,1,0,,,,,,"",""
+ball,2,3.6,United States of America,MD Patel,SR Mukkamalla,H Thaker,1,0,,,,,,"",""
+ball,2,4.1,United States of America,MD Patel,SR Mukkamalla,Akhil Kumar,4,0,,,,,,"",""
+ball,2,4.2,United States of America,MD Patel,SR Mukkamalla,Akhil Kumar,4,0,,,,,,"",""
+ball,2,4.3,United States of America,MD Patel,SR Mukkamalla,Akhil Kumar,6,0,,,,,,"",""
+ball,2,4.4,United States of America,MD Patel,SR Mukkamalla,Akhil Kumar,0,0,,,,,,"",""
+ball,2,4.5,United States of America,MD Patel,SR Mukkamalla,Akhil Kumar,1,0,,,,,,"",""
+ball,2,4.6,United States of America,SR Mukkamalla,MD Patel,Akhil Kumar,2,0,,,,,,"",""
+ball,2,5.1,United States of America,MD Patel,SR Mukkamalla,Jaskaran Singh,4,0,,,,,,"",""
+ball,2,5.2,United States of America,MD Patel,SR Mukkamalla,Jaskaran Singh,0,0,,,,,,"",""
+ball,2,5.3,United States of America,MD Patel,SR Mukkamalla,Jaskaran Singh,4,1,,1,,,,"",""
+ball,2,5.4,United States of America,MD Patel,SR Mukkamalla,Jaskaran Singh,1,0,,,,,,"",""
+ball,2,5.5,United States of America,SR Mukkamalla,MD Patel,Jaskaran Singh,0,0,,,,,,"",""
+ball,2,5.6,United States of America,SR Mukkamalla,MD Patel,Jaskaran Singh,6,0,,,,,,"",""
+ball,2,5.7,United States of America,SR Mukkamalla,MD Patel,Jaskaran Singh,4,0,,,,,,"",""
+ball,2,6.1,United States of America,MD Patel,SR Mukkamalla,Saad Bin Zafar,0,1,1,,,,,"",""
+ball,2,6.2,United States of America,MD Patel,SR Mukkamalla,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,6.3,United States of America,SR Mukkamalla,MD Patel,Saad Bin Zafar,0,1,1,,,,,stumped,SR Mukkamalla
+ball,2,6.4,United States of America,Milind Kumar,MD Patel,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,6.5,United States of America,Milind Kumar,MD Patel,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,6.6,United States of America,Milind Kumar,MD Patel,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,6.7,United States of America,MD Patel,Milind Kumar,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,6.8,United States of America,Milind Kumar,MD Patel,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,7.1,United States of America,MD Patel,Milind Kumar,H Thaker,1,0,,,,,,"",""
+ball,2,7.2,United States of America,Milind Kumar,MD Patel,H Thaker,1,0,,,,,,"",""
+ball,2,7.3,United States of America,MD Patel,Milind Kumar,H Thaker,1,0,,,,,,"",""
+ball,2,7.4,United States of America,Milind Kumar,MD Patel,H Thaker,0,0,,,,,,"",""
+ball,2,7.5,United States of America,Milind Kumar,MD Patel,H Thaker,1,0,,,,,,"",""
+ball,2,7.6,United States of America,MD Patel,Milind Kumar,H Thaker,4,0,,,,,,"",""
+ball,2,8.1,United States of America,Milind Kumar,MD Patel,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,8.2,United States of America,Milind Kumar,MD Patel,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,8.3,United States of America,MD Patel,Milind Kumar,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,8.4,United States of America,Milind Kumar,MD Patel,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,8.5,United States of America,MD Patel,Milind Kumar,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,8.6,United States of America,MD Patel,Milind Kumar,Saad Bin Zafar,0,1,1,,,,,"",""
+ball,2,8.7,United States of America,MD Patel,Milind Kumar,Saad Bin Zafar,2,0,,,,,,"",""
+ball,2,9.1,United States of America,Milind Kumar,MD Patel,Akhil Kumar,1,0,,,,,,"",""
+ball,2,9.2,United States of America,MD Patel,Milind Kumar,Akhil Kumar,1,0,,,,,,"",""
+ball,2,9.3,United States of America,Milind Kumar,MD Patel,Akhil Kumar,0,1,1,,,,,"",""
+ball,2,9.4,United States of America,Milind Kumar,MD Patel,Akhil Kumar,1,0,,,,,,"",""
+ball,2,9.5,United States of America,MD Patel,Milind Kumar,Akhil Kumar,1,0,,,,,,"",""
+ball,2,9.6,United States of America,Milind Kumar,MD Patel,Akhil Kumar,1,0,,,,,,"",""
+ball,2,9.7,United States of America,MD Patel,Milind Kumar,Akhil Kumar,1,0,,,,,,"",""
+ball,2,10.1,United States of America,MD Patel,Milind Kumar,Jaskaran Singh,0,1,,,,1,,"",""
+ball,2,10.2,United States of America,Milind Kumar,MD Patel,Jaskaran Singh,1,0,,,,,,"",""
+ball,2,10.3,United States of America,MD Patel,Milind Kumar,Jaskaran Singh,0,1,1,,,,,"",""
+ball,2,10.4,United States of America,MD Patel,Milind Kumar,Jaskaran Singh,0,0,,,,,,"",""
+ball,2,10.5,United States of America,MD Patel,Milind Kumar,Jaskaran Singh,0,0,,,,,,"",""
+ball,2,10.6,United States of America,MD Patel,Milind Kumar,Jaskaran Singh,2,0,,,,,,"",""
+ball,2,10.7,United States of America,MD Patel,Milind Kumar,Jaskaran Singh,0,0,,,,,,"",""
+ball,2,11.1,United States of America,Milind Kumar,MD Patel,Akhil Kumar,1,0,,,,,,"",""
+ball,2,11.2,United States of America,MD Patel,Milind Kumar,Akhil Kumar,1,0,,,,,,"",""
+ball,2,11.3,United States of America,Milind Kumar,MD Patel,Akhil Kumar,1,0,,,,,,"",""
+ball,2,11.4,United States of America,MD Patel,Milind Kumar,Akhil Kumar,2,0,,,,,,"",""
+ball,2,11.5,United States of America,MD Patel,Milind Kumar,Akhil Kumar,2,0,,,,,,"",""
+ball,2,11.6,United States of America,MD Patel,Milind Kumar,Akhil Kumar,1,0,,,,,,"",""
+ball,2,12.1,United States of America,MD Patel,Milind Kumar,Saad Bin Zafar,2,0,,,,,,"",""
+ball,2,12.2,United States of America,MD Patel,Milind Kumar,Saad Bin Zafar,0,0,,,,,,caught,MD Patel
+ball,2,12.3,United States of America,Aaron Jones,Milind Kumar,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,12.4,United States of America,Milind Kumar,Aaron Jones,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,12.5,United States of America,Milind Kumar,Aaron Jones,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,12.6,United States of America,Aaron Jones,Milind Kumar,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,13.1,United States of America,Milind Kumar,Aaron Jones,Akhil Kumar,1,0,,,,,,"",""
+ball,2,13.2,United States of America,Aaron Jones,Milind Kumar,Akhil Kumar,1,0,,,,,,"",""
+ball,2,13.3,United States of America,Milind Kumar,Aaron Jones,Akhil Kumar,1,0,,,,,,"",""
+ball,2,13.4,United States of America,Aaron Jones,Milind Kumar,Akhil Kumar,1,0,,,,,,run out,Aaron Jones
+ball,2,13.5,United States of America,Milind Kumar,SP Krishnamurthi,Akhil Kumar,0,1,1,,,,,"",""
+ball,2,13.6,United States of America,Milind Kumar,SP Krishnamurthi,Akhil Kumar,1,0,,,,,,"",""
+ball,2,13.7,United States of America,SP Krishnamurthi,Milind Kumar,Akhil Kumar,0,0,,,,,,"",""
+ball,2,14.1,United States of America,Milind Kumar,SP Krishnamurthi,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,14.2,United States of America,SP Krishnamurthi,Milind Kumar,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,14.3,United States of America,Milind Kumar,SP Krishnamurthi,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,14.4,United States of America,SP Krishnamurthi,Milind Kumar,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,14.5,United States of America,Milind Kumar,SP Krishnamurthi,Saad Bin Zafar,0,1,,,1,,,"",""
+ball,2,14.6,United States of America,SP Krishnamurthi,Milind Kumar,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,15.1,United States of America,SP Krishnamurthi,Milind Kumar,H Thaker,1,0,,,,,,"",""
+ball,2,15.2,United States of America,Milind Kumar,SP Krishnamurthi,H Thaker,1,0,,,,,,"",""
+ball,2,15.3,United States of America,SP Krishnamurthi,Milind Kumar,H Thaker,6,0,,,,,,"",""
+ball,2,15.4,United States of America,SP Krishnamurthi,Milind Kumar,H Thaker,1,0,,,,,,"",""
+ball,2,15.5,United States of America,Milind Kumar,SP Krishnamurthi,H Thaker,2,0,,,,,,"",""
+ball,2,15.6,United States of America,Milind Kumar,SP Krishnamurthi,H Thaker,0,1,1,,,,,"",""
+ball,2,15.7,United States of America,Milind Kumar,SP Krishnamurthi,H Thaker,1,0,,,,,,"",""
+ball,2,16.1,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,2,0,,,,,,"",""
+ball,2,16.2,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,0,0,,,,,,"",""
+ball,2,16.3,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,4,0,,,,,,"",""
+ball,2,16.4,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,1,0,,,,,,"",""
+ball,2,16.5,United States of America,SP Krishnamurthi,Milind Kumar,Kaleem Sana,0,0,,,,,,"",""
+ball,2,16.6,United States of America,SP Krishnamurthi,Milind Kumar,Kaleem Sana,2,0,,,,,,"",""
+ball,2,17.1,United States of America,Milind Kumar,SP Krishnamurthi,Jaskaran Singh,1,0,,,,,,"",""
+ball,2,17.2,United States of America,SP Krishnamurthi,Milind Kumar,Jaskaran Singh,1,0,,,,,,"",""
+ball,2,17.3,United States of America,Milind Kumar,SP Krishnamurthi,Jaskaran Singh,0,0,,,,,,"",""
+ball,2,17.4,United States of America,Milind Kumar,SP Krishnamurthi,Jaskaran Singh,1,0,,,,,,"",""
+ball,2,17.5,United States of America,SP Krishnamurthi,Milind Kumar,Jaskaran Singh,6,0,,,,,,"",""
+ball,2,17.6,United States of America,SP Krishnamurthi,Milind Kumar,Jaskaran Singh,0,1,1,,,,,"",""
+ball,2,17.7,United States of America,SP Krishnamurthi,Milind Kumar,Jaskaran Singh,4,0,,,,,,"",""
+ball,2,18.1,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,1,0,,,,,,"",""
+ball,2,18.2,United States of America,SP Krishnamurthi,Milind Kumar,Kaleem Sana,4,0,,,,,,"",""
+ball,2,18.3,United States of America,SP Krishnamurthi,Milind Kumar,Kaleem Sana,1,0,,,,,,"",""
+ball,2,18.4,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,0,0,,,,,,"",""
+ball,2,18.5,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,0,0,,,,,,"",""
+ball,2,18.6,United States of America,Milind Kumar,SP Krishnamurthi,Kaleem Sana,0,0,,,,,,"",""
+ball,2,19.1,United States of America,SP Krishnamurthi,Milind Kumar,Jaskaran Singh,0,0,,,,,,"",""
+ball,2,19.2,United States of America,SP Krishnamurthi,Milind Kumar,Jaskaran Singh,0,1,,1,,,,"",""

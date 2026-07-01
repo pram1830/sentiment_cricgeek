@@ -1,0 +1,275 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Canada
+info,gender,male
+info,season,2024
+info,date,2024/10/03
+info,event,Canada T20 Tri-Series
+info,match_number,6
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Canada
+info,toss_decision,field
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,reserve_umpire,V Sudhakar
+info,match_referee,Neeyamur Rashid
+info,winner,Canada
+info,winner_wickets,5
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Jatinder Singh
+info,player,Oman,Shoaib Khan
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Khalid Kail
+info,player,Oman,Hammad Mirza
+info,player,Oman,B Siddharth
+info,player,Oman,Mehran Khan
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Rafiullah
+info,player,Oman,Kaleemullah
+info,player,Canada,K Tathgur
+info,player,Canada,DS Bajwa
+info,player,Canada,NS Dhaliwal
+info,player,Canada,H Thaker
+info,player,Canada,S Movva
+info,player,Canada,NR Kirton
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Parveen Kumar
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Kaleem Sana
+info,player,Canada,Akhil Kumar
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Akhil Kumar,2feb5b8d
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,B Siddharth,80de053e
+info,registry,people,DS Bajwa,e3540b8c
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,K Tathgur,f190c775
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,Khalid Kail,3ee90b67
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Parveen Kumar,e6b3c3cc
+info,registry,people,R Shah,3424e050
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Movva,ee229588
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,V Sudhakar,816e48f6
+info,registry,people,Zeeshan Maqsood,34464143
+ball,1,0.1,Oman,Aqib Ilyas,Jatinder Singh,Kaleem Sana,0,0,,,,,,"",""
+ball,1,0.2,Oman,Aqib Ilyas,Jatinder Singh,Kaleem Sana,4,0,,,,,,"",""
+ball,1,0.3,Oman,Aqib Ilyas,Jatinder Singh,Kaleem Sana,0,0,,,,,,"",""
+ball,1,0.4,Oman,Aqib Ilyas,Jatinder Singh,Kaleem Sana,0,0,,,,,,"",""
+ball,1,0.5,Oman,Aqib Ilyas,Jatinder Singh,Kaleem Sana,0,1,1,,,,,"",""
+ball,1,0.6,Oman,Aqib Ilyas,Jatinder Singh,Kaleem Sana,1,0,,,,,,"",""
+ball,1,0.7,Oman,Jatinder Singh,Aqib Ilyas,Kaleem Sana,0,0,,,,,,run out,Jatinder Singh
+ball,1,1.1,Oman,Aqib Ilyas,Shoaib Khan,Akhil Kumar,0,0,,,,,,"",""
+ball,1,1.2,Oman,Aqib Ilyas,Shoaib Khan,Akhil Kumar,6,0,,,,,,"",""
+ball,1,1.3,Oman,Aqib Ilyas,Shoaib Khan,Akhil Kumar,0,0,,,,,,"",""
+ball,1,1.4,Oman,Aqib Ilyas,Shoaib Khan,Akhil Kumar,1,0,,,,,,"",""
+ball,1,1.5,Oman,Shoaib Khan,Aqib Ilyas,Akhil Kumar,0,0,,,,,,"",""
+ball,1,1.6,Oman,Shoaib Khan,Aqib Ilyas,Akhil Kumar,0,0,,,,,,caught,Shoaib Khan
+ball,1,2.1,Oman,Aqib Ilyas,Zeeshan Maqsood,Kaleem Sana,0,0,,,,,,"",""
+ball,1,2.2,Oman,Aqib Ilyas,Zeeshan Maqsood,Kaleem Sana,0,0,,,,,,"",""
+ball,1,2.3,Oman,Aqib Ilyas,Zeeshan Maqsood,Kaleem Sana,0,0,,,,,,"",""
+ball,1,2.4,Oman,Aqib Ilyas,Zeeshan Maqsood,Kaleem Sana,0,0,,,,,,"",""
+ball,1,2.5,Oman,Aqib Ilyas,Zeeshan Maqsood,Kaleem Sana,0,1,1,,,,,"",""
+ball,1,2.6,Oman,Aqib Ilyas,Zeeshan Maqsood,Kaleem Sana,4,0,,,,,,"",""
+ball,1,2.7,Oman,Aqib Ilyas,Zeeshan Maqsood,Kaleem Sana,0,0,,,,,,"",""
+ball,1,3.1,Oman,Zeeshan Maqsood,Aqib Ilyas,Akhil Kumar,0,0,,,,,,"",""
+ball,1,3.2,Oman,Zeeshan Maqsood,Aqib Ilyas,Akhil Kumar,0,0,,,,,,"",""
+ball,1,3.3,Oman,Zeeshan Maqsood,Aqib Ilyas,Akhil Kumar,4,0,,,,,,"",""
+ball,1,3.4,Oman,Zeeshan Maqsood,Aqib Ilyas,Akhil Kumar,0,0,,,,,,"",""
+ball,1,3.5,Oman,Zeeshan Maqsood,Aqib Ilyas,Akhil Kumar,0,0,,,,,,caught,Zeeshan Maqsood
+ball,1,3.6,Oman,Khalid Kail,Aqib Ilyas,Akhil Kumar,2,0,,,,,,"",""
+ball,1,4.1,Oman,Aqib Ilyas,Khalid Kail,Parveen Kumar,0,1,,,,1,,"",""
+ball,1,4.2,Oman,Khalid Kail,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,4.3,Oman,Khalid Kail,Aqib Ilyas,Parveen Kumar,4,0,,,,,,"",""
+ball,1,4.4,Oman,Khalid Kail,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,4.5,Oman,Khalid Kail,Aqib Ilyas,Parveen Kumar,0,0,,,,,,lbw,Khalid Kail
+ball,1,4.6,Oman,Hammad Mirza,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,5.1,Oman,Aqib Ilyas,Hammad Mirza,Saad Bin Zafar,4,0,,,,,,"",""
+ball,1,5.2,Oman,Aqib Ilyas,Hammad Mirza,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,5.3,Oman,Aqib Ilyas,Hammad Mirza,Saad Bin Zafar,2,0,,,,,,"",""
+ball,1,5.4,Oman,Aqib Ilyas,Hammad Mirza,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,5.5,Oman,Aqib Ilyas,Hammad Mirza,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,5.6,Oman,Aqib Ilyas,Hammad Mirza,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,6.1,Oman,Hammad Mirza,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,6.2,Oman,Hammad Mirza,Aqib Ilyas,Parveen Kumar,1,0,,,,,,"",""
+ball,1,6.3,Oman,Aqib Ilyas,Hammad Mirza,Parveen Kumar,1,0,,,,,,"",""
+ball,1,6.4,Oman,Hammad Mirza,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,6.5,Oman,Hammad Mirza,Aqib Ilyas,Parveen Kumar,0,0,,,,,,lbw,Hammad Mirza
+ball,1,6.6,Oman,B Siddharth,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,7.1,Oman,Aqib Ilyas,B Siddharth,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,7.2,Oman,B Siddharth,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,7.3,Oman,B Siddharth,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,7.4,Oman,B Siddharth,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,7.5,Oman,B Siddharth,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,bowled,B Siddharth
+ball,1,7.6,Oman,Mehran Khan,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,8.1,Oman,Aqib Ilyas,Mehran Khan,Parveen Kumar,0,0,,,,,,"",""
+ball,1,8.2,Oman,Aqib Ilyas,Mehran Khan,Parveen Kumar,0,0,,,,,,"",""
+ball,1,8.3,Oman,Aqib Ilyas,Mehran Khan,Parveen Kumar,1,0,,,,,,"",""
+ball,1,8.4,Oman,Mehran Khan,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,8.5,Oman,Mehran Khan,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,8.6,Oman,Mehran Khan,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,9.1,Oman,Aqib Ilyas,Mehran Khan,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,9.2,Oman,Mehran Khan,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,9.3,Oman,Mehran Khan,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,9.4,Oman,Mehran Khan,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,9.5,Oman,Mehran Khan,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,9.6,Oman,Mehran Khan,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,10.1,Oman,Aqib Ilyas,Mehran Khan,Parveen Kumar,0,0,,,,,,"",""
+ball,1,10.2,Oman,Aqib Ilyas,Mehran Khan,Parveen Kumar,0,0,,,,,,"",""
+ball,1,10.3,Oman,Aqib Ilyas,Mehran Khan,Parveen Kumar,1,0,,,,,,"",""
+ball,1,10.4,Oman,Mehran Khan,Aqib Ilyas,Parveen Kumar,0,0,,,,,,caught,Mehran Khan
+ball,1,10.5,Oman,Shakeel Ahmed,Aqib Ilyas,Parveen Kumar,0,0,,,,,,"",""
+ball,1,10.6,Oman,Shakeel Ahmed,Aqib Ilyas,Parveen Kumar,1,0,,,,,,"",""
+ball,1,11.1,Oman,Shakeel Ahmed,Aqib Ilyas,H Thaker,0,0,,,,,,"",""
+ball,1,11.2,Oman,Shakeel Ahmed,Aqib Ilyas,H Thaker,1,0,,,,,,"",""
+ball,1,11.3,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,0,0,,,,,,"",""
+ball,1,11.4,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,2,0,,,,,,"",""
+ball,1,11.5,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,0,0,,,,,,"",""
+ball,1,11.6,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,1,0,,,,,,"",""
+ball,1,12.1,Oman,Aqib Ilyas,Shakeel Ahmed,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,12.2,Oman,Aqib Ilyas,Shakeel Ahmed,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,12.3,Oman,Shakeel Ahmed,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,12.4,Oman,Shakeel Ahmed,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,12.5,Oman,Shakeel Ahmed,Aqib Ilyas,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,12.6,Oman,Shakeel Ahmed,Aqib Ilyas,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,13.1,Oman,Shakeel Ahmed,Aqib Ilyas,H Thaker,0,0,,,,,,"",""
+ball,1,13.2,Oman,Shakeel Ahmed,Aqib Ilyas,H Thaker,1,0,,,,,,"",""
+ball,1,13.3,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,0,0,,,,,,"",""
+ball,1,13.4,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,1,0,,,,,,"",""
+ball,1,13.5,Oman,Shakeel Ahmed,Aqib Ilyas,H Thaker,1,0,,,,,,"",""
+ball,1,13.6,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,1,0,,,,,,"",""
+ball,1,14.1,Oman,Aqib Ilyas,Shakeel Ahmed,Akhil Kumar,1,0,,,,,,"",""
+ball,1,14.2,Oman,Shakeel Ahmed,Aqib Ilyas,Akhil Kumar,0,0,,,,,,"",""
+ball,1,14.3,Oman,Shakeel Ahmed,Aqib Ilyas,Akhil Kumar,1,0,,,,,,"",""
+ball,1,14.4,Oman,Aqib Ilyas,Shakeel Ahmed,Akhil Kumar,0,0,,,,,,"",""
+ball,1,14.5,Oman,Aqib Ilyas,Shakeel Ahmed,Akhil Kumar,1,0,,,,,,"",""
+ball,1,14.6,Oman,Shakeel Ahmed,Aqib Ilyas,Akhil Kumar,0,0,,,,,,"",""
+ball,1,15.1,Oman,Aqib Ilyas,Shakeel Ahmed,H Thaker,0,0,,,,,,caught,Aqib Ilyas
+ball,1,15.2,Oman,Rafiullah,Shakeel Ahmed,H Thaker,0,0,,,,,,"",""
+ball,1,15.3,Oman,Rafiullah,Shakeel Ahmed,H Thaker,1,0,,,,,,"",""
+ball,1,15.4,Oman,Shakeel Ahmed,Rafiullah,H Thaker,1,0,,,,,,"",""
+ball,1,15.5,Oman,Rafiullah,Shakeel Ahmed,H Thaker,0,0,,,,,,"",""
+ball,1,15.6,Oman,Rafiullah,Shakeel Ahmed,H Thaker,0,1,1,,,,,"",""
+ball,1,15.7,Oman,Rafiullah,Shakeel Ahmed,H Thaker,1,0,,,,,,"",""
+ball,1,16.1,Oman,Rafiullah,Shakeel Ahmed,Kaleem Sana,0,0,,,,,,"",""
+ball,1,16.2,Oman,Rafiullah,Shakeel Ahmed,Kaleem Sana,1,0,,,,,,"",""
+ball,1,16.3,Oman,Shakeel Ahmed,Rafiullah,Kaleem Sana,0,0,,,,,,"",""
+ball,1,16.4,Oman,Shakeel Ahmed,Rafiullah,Kaleem Sana,4,0,,,,,,"",""
+ball,1,16.5,Oman,Shakeel Ahmed,Rafiullah,Kaleem Sana,0,0,,,,,,"",""
+ball,1,16.6,Oman,Shakeel Ahmed,Rafiullah,Kaleem Sana,2,0,,,,,,"",""
+ball,1,17.1,Oman,Rafiullah,Shakeel Ahmed,H Thaker,0,0,,,,,,"",""
+ball,1,17.2,Oman,Rafiullah,Shakeel Ahmed,H Thaker,6,0,,,,,,"",""
+ball,1,17.3,Oman,Rafiullah,Shakeel Ahmed,H Thaker,0,0,,,,,,caught,Rafiullah
+ball,1,17.4,Oman,Kaleemullah,Shakeel Ahmed,H Thaker,1,0,,,,,,"",""
+ball,1,17.5,Oman,Shakeel Ahmed,Kaleemullah,H Thaker,0,1,,,,1,,"",""
+ball,1,17.6,Oman,Kaleemullah,Shakeel Ahmed,H Thaker,1,0,,,,,,"",""
+ball,1,18.1,Oman,Kaleemullah,Shakeel Ahmed,Kaleem Sana,0,0,,,,,,"",""
+ball,1,18.2,Oman,Kaleemullah,Shakeel Ahmed,Kaleem Sana,0,0,,,,,,"",""
+ball,1,18.3,Oman,Kaleemullah,Shakeel Ahmed,Kaleem Sana,0,0,,,,,,"",""
+ball,1,18.4,Oman,Kaleemullah,Shakeel Ahmed,Kaleem Sana,1,0,,,,,,"",""
+ball,1,18.5,Oman,Shakeel Ahmed,Kaleemullah,Kaleem Sana,0,0,,,,,,"",""
+ball,1,18.6,Oman,Shakeel Ahmed,Kaleemullah,Kaleem Sana,1,0,,,,,,"",""
+ball,1,19.1,Oman,Shakeel Ahmed,Kaleemullah,Akhil Kumar,4,0,,,,,,"",""
+ball,1,19.2,Oman,Shakeel Ahmed,Kaleemullah,Akhil Kumar,0,1,,,,1,,"",""
+ball,1,19.3,Oman,Kaleemullah,Shakeel Ahmed,Akhil Kumar,0,0,,,,,,"",""
+ball,1,19.4,Oman,Kaleemullah,Shakeel Ahmed,Akhil Kumar,0,0,,,,,,caught,Kaleemullah
+ball,2,0.1,Canada,K Tathgur,DS Bajwa,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,0.2,Canada,K Tathgur,DS Bajwa,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,0.3,Canada,K Tathgur,DS Bajwa,Shakeel Ahmed,1,0,,,,,,"",""
+ball,2,0.4,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,0.5,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,0.6,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,1,0,,,,,,"",""
+ball,2,1.1,Canada,DS Bajwa,K Tathgur,Kaleemullah,0,0,,,,,,"",""
+ball,2,1.2,Canada,DS Bajwa,K Tathgur,Kaleemullah,0,0,,,,,,"",""
+ball,2,1.3,Canada,DS Bajwa,K Tathgur,Kaleemullah,4,0,,,,,,"",""
+ball,2,1.4,Canada,DS Bajwa,K Tathgur,Kaleemullah,4,0,,,,,,"",""
+ball,2,1.5,Canada,DS Bajwa,K Tathgur,Kaleemullah,1,0,,,,,,"",""
+ball,2,1.6,Canada,K Tathgur,DS Bajwa,Kaleemullah,2,0,,,,,,"",""
+ball,2,2.1,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,2,0,,,,,,"",""
+ball,2,2.2,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,2.3,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,2.4,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,2,0,,,,,,"",""
+ball,2,2.5,Canada,DS Bajwa,K Tathgur,Shakeel Ahmed,0,2,2,,,,,"",""
+ball,2,2.6,Canada,K Tathgur,DS Bajwa,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,2.7,Canada,K Tathgur,DS Bajwa,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,3.1,Canada,DS Bajwa,K Tathgur,Kaleemullah,0,0,,,,,,caught,DS Bajwa
+ball,2,3.2,Canada,NS Dhaliwal,K Tathgur,Kaleemullah,1,0,,,,,,"",""
+ball,2,3.3,Canada,K Tathgur,NS Dhaliwal,Kaleemullah,0,0,,,,,,"",""
+ball,2,3.4,Canada,K Tathgur,NS Dhaliwal,Kaleemullah,0,0,,,,,,caught,K Tathgur
+ball,2,3.5,Canada,H Thaker,NS Dhaliwal,Kaleemullah,0,0,,,,,,"",""
+ball,2,3.6,Canada,H Thaker,NS Dhaliwal,Kaleemullah,1,0,,,,,,"",""
+ball,2,4.1,Canada,H Thaker,NS Dhaliwal,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,4.2,Canada,H Thaker,NS Dhaliwal,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,4.3,Canada,H Thaker,NS Dhaliwal,Shakeel Ahmed,2,0,,,,,,"",""
+ball,2,4.4,Canada,H Thaker,NS Dhaliwal,Shakeel Ahmed,2,0,,,,,,"",""
+ball,2,4.5,Canada,H Thaker,NS Dhaliwal,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,4.6,Canada,H Thaker,NS Dhaliwal,Shakeel Ahmed,1,0,,,,,,"",""
+ball,2,5.1,Canada,H Thaker,NS Dhaliwal,Kaleemullah,0,0,,,,,,"",""
+ball,2,5.2,Canada,H Thaker,NS Dhaliwal,Kaleemullah,0,0,,,,,,"",""
+ball,2,5.3,Canada,H Thaker,NS Dhaliwal,Kaleemullah,1,0,,,,,,"",""
+ball,2,5.4,Canada,NS Dhaliwal,H Thaker,Kaleemullah,0,0,,,,,,"",""
+ball,2,5.5,Canada,NS Dhaliwal,H Thaker,Kaleemullah,0,0,,,,,,"",""
+ball,2,5.6,Canada,NS Dhaliwal,H Thaker,Kaleemullah,1,0,,,,,,"",""
+ball,2,6.1,Canada,NS Dhaliwal,H Thaker,Zeeshan Maqsood,4,0,,,,,,"",""
+ball,2,6.2,Canada,NS Dhaliwal,H Thaker,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,2,6.3,Canada,H Thaker,NS Dhaliwal,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,6.4,Canada,H Thaker,NS Dhaliwal,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,6.5,Canada,H Thaker,NS Dhaliwal,Zeeshan Maqsood,6,0,,,,,,"",""
+ball,2,6.6,Canada,H Thaker,NS Dhaliwal,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,2,7.1,Canada,H Thaker,NS Dhaliwal,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,7.2,Canada,H Thaker,NS Dhaliwal,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,7.3,Canada,NS Dhaliwal,H Thaker,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,7.4,Canada,H Thaker,NS Dhaliwal,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,7.5,Canada,NS Dhaliwal,H Thaker,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,7.6,Canada,H Thaker,NS Dhaliwal,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,8.1,Canada,H Thaker,NS Dhaliwal,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,2,8.2,Canada,NS Dhaliwal,H Thaker,Zeeshan Maqsood,0,2,,,,2,,"",""
+ball,2,8.3,Canada,NS Dhaliwal,H Thaker,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,8.4,Canada,NS Dhaliwal,H Thaker,Zeeshan Maqsood,2,0,,,,,,"",""
+ball,2,8.5,Canada,NS Dhaliwal,H Thaker,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,8.6,Canada,NS Dhaliwal,H Thaker,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,9.1,Canada,H Thaker,NS Dhaliwal,Aqib Ilyas,0,0,,,,,,lbw,H Thaker
+ball,2,9.2,Canada,S Movva,NS Dhaliwal,Aqib Ilyas,2,0,,,,,,"",""
+ball,2,9.3,Canada,S Movva,NS Dhaliwal,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,9.4,Canada,S Movva,NS Dhaliwal,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,9.5,Canada,S Movva,NS Dhaliwal,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,9.6,Canada,NS Dhaliwal,S Movva,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,10.1,Canada,S Movva,NS Dhaliwal,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,10.2,Canada,S Movva,NS Dhaliwal,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,2,10.3,Canada,NS Dhaliwal,S Movva,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,10.4,Canada,NS Dhaliwal,S Movva,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,10.5,Canada,NS Dhaliwal,S Movva,Zeeshan Maqsood,0,0,,,,,,stumped,NS Dhaliwal
+ball,2,10.6,Canada,NR Kirton,S Movva,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,2,11.1,Canada,S Movva,NR Kirton,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,11.2,Canada,NR Kirton,S Movva,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,11.3,Canada,NR Kirton,S Movva,Aqib Ilyas,2,0,,,,,,"",""
+ball,2,11.4,Canada,NR Kirton,S Movva,Aqib Ilyas,2,0,,,,,,"",""
+ball,2,11.5,Canada,NR Kirton,S Movva,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,11.6,Canada,NR Kirton,S Movva,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,12.1,Canada,NR Kirton,S Movva,B Siddharth,6,0,,,,,,"",""
+ball,2,12.2,Canada,NR Kirton,S Movva,B Siddharth,0,0,,,,,,"",""
+ball,2,12.3,Canada,NR Kirton,S Movva,B Siddharth,0,0,,,,,,"",""
+ball,2,12.4,Canada,NR Kirton,S Movva,B Siddharth,2,0,,,,,,"",""
+ball,2,12.5,Canada,NR Kirton,S Movva,B Siddharth,1,0,,,,,,"",""
+ball,2,12.6,Canada,S Movva,NR Kirton,B Siddharth,0,0,,,,,,"",""
+ball,2,13.1,Canada,NR Kirton,S Movva,Aqib Ilyas,6,0,,,,,,"",""
+ball,2,13.2,Canada,NR Kirton,S Movva,Aqib Ilyas,0,0,,,,,,caught,NR Kirton
+ball,2,13.3,Canada,Ravinderpal Singh,S Movva,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,13.4,Canada,Ravinderpal Singh,S Movva,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,13.5,Canada,Ravinderpal Singh,S Movva,Aqib Ilyas,1,0,,,,,,"",""
+ball,2,13.6,Canada,S Movva,Ravinderpal Singh,Aqib Ilyas,0,0,,,,,,"",""
+ball,2,14.1,Canada,Ravinderpal Singh,S Movva,B Siddharth,4,0,,,,,,"",""
+ball,2,14.2,Canada,Ravinderpal Singh,S Movva,B Siddharth,0,3,3,,,,,"",""

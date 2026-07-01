@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,male
+info,season,2024/25
+info,date,2024/12/10
+info,event,Pakistan tour of South Africa
+info,match_number,1
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,GF Linde
+info,umpire,A Paleker
+info,umpire,Stephen Harris
+info,reserve_umpire,BP Jele
+info,tv_umpire,LB Gcuma
+info,match_referee,RB Richardson
+info,winner,South Africa
+info,winner_runs,11
+info,player,South Africa,RR Hendricks
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,MP Breetzke
+info,player,South Africa,DA Miller
+info,player,South Africa,H Klaasen
+info,player,South Africa,D Ferreira
+info,player,South Africa,GF Linde
+info,player,South Africa,A Simelane
+info,player,South Africa,N Peter
+info,player,South Africa,KT Maphaka
+info,player,South Africa,OEG Baartman
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Tayyab Tahir
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Irfan Khan
+info,player,Pakistan,Abbas Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Sufiyan Muqeem
+info,player,Pakistan,Abrar Ahmed
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Simelane,ebb74564
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,N Peter,212aeedd
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usman Khan,bafb9238
+ball,1,0.1,South Africa,RR Hendricks,HE van der Dussen,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,0.2,South Africa,RR Hendricks,HE van der Dussen,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,0.3,South Africa,HE van der Dussen,RR Hendricks,Shaheen Shah Afridi,0,0,,,,,,bowled,HE van der Dussen
+ball,1,0.4,South Africa,MP Breetzke,RR Hendricks,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,0.5,South Africa,RR Hendricks,MP Breetzke,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,0.6,South Africa,MP Breetzke,RR Hendricks,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,1.1,South Africa,MP Breetzke,RR Hendricks,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,1.2,South Africa,MP Breetzke,RR Hendricks,Abrar Ahmed,6,0,,,,,,"",""
+ball,1,1.3,South Africa,MP Breetzke,RR Hendricks,Abrar Ahmed,0,0,,,,,,caught,MP Breetzke
+ball,1,1.4,South Africa,DA Miller,RR Hendricks,Abrar Ahmed,0,1,1,,,,,"",""
+ball,1,1.5,South Africa,DA Miller,RR Hendricks,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,1.6,South Africa,RR Hendricks,DA Miller,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,1.7,South Africa,RR Hendricks,DA Miller,Abrar Ahmed,4,0,,,,,,"",""
+ball,1,2.1,South Africa,DA Miller,RR Hendricks,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,2.2,South Africa,DA Miller,RR Hendricks,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,2.3,South Africa,DA Miller,RR Hendricks,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,2.4,South Africa,DA Miller,RR Hendricks,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,2.5,South Africa,DA Miller,RR Hendricks,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,2.6,South Africa,RR Hendricks,DA Miller,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,3.1,South Africa,RR Hendricks,DA Miller,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,3.2,South Africa,DA Miller,RR Hendricks,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,3.3,South Africa,RR Hendricks,DA Miller,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,3.4,South Africa,RR Hendricks,DA Miller,Abrar Ahmed,0,0,,,,,,bowled,RR Hendricks
+ball,1,3.5,South Africa,H Klaasen,DA Miller,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,3.6,South Africa,H Klaasen,DA Miller,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,4.1,South Africa,DA Miller,H Klaasen,Haris Rauf,4,0,,,,,,"",""
+ball,1,4.2,South Africa,DA Miller,H Klaasen,Haris Rauf,1,0,,,,,,"",""
+ball,1,4.3,South Africa,H Klaasen,DA Miller,Haris Rauf,1,0,,,,,,"",""
+ball,1,4.4,South Africa,DA Miller,H Klaasen,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.5,South Africa,DA Miller,H Klaasen,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.6,South Africa,DA Miller,H Klaasen,Haris Rauf,2,0,,,,,,"",""
+ball,1,5.1,South Africa,H Klaasen,DA Miller,Abbas Afridi,0,0,,,,,,"",""
+ball,1,5.2,South Africa,H Klaasen,DA Miller,Abbas Afridi,0,0,,,,,,"",""
+ball,1,5.3,South Africa,H Klaasen,DA Miller,Abbas Afridi,6,0,,,,,,"",""
+ball,1,5.4,South Africa,H Klaasen,DA Miller,Abbas Afridi,0,0,,,,,,"",""
+ball,1,5.5,South Africa,H Klaasen,DA Miller,Abbas Afridi,1,0,,,,,,"",""
+ball,1,5.6,South Africa,DA Miller,H Klaasen,Abbas Afridi,0,0,,,,,,"",""
+ball,1,6.1,South Africa,H Klaasen,DA Miller,Haris Rauf,1,0,,,,,,"",""
+ball,1,6.2,South Africa,DA Miller,H Klaasen,Haris Rauf,0,0,,,,,,"",""
+ball,1,6.3,South Africa,DA Miller,H Klaasen,Haris Rauf,1,0,,,,,,"",""
+ball,1,6.4,South Africa,H Klaasen,DA Miller,Haris Rauf,1,0,,,,,,"",""
+ball,1,6.5,South Africa,DA Miller,H Klaasen,Haris Rauf,6,0,,,,,,"",""
+ball,1,6.6,South Africa,DA Miller,H Klaasen,Haris Rauf,1,0,,,,,,"",""
+ball,1,7.1,South Africa,DA Miller,H Klaasen,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,7.2,South Africa,DA Miller,H Klaasen,Sufiyan Muqeem,6,0,,,,,,"",""
+ball,1,7.3,South Africa,DA Miller,H Klaasen,Sufiyan Muqeem,2,0,,,,,,"",""
+ball,1,7.4,South Africa,DA Miller,H Klaasen,Sufiyan Muqeem,6,0,,,,,,"",""
+ball,1,7.5,South Africa,DA Miller,H Klaasen,Sufiyan Muqeem,1,0,,,,,,"",""
+ball,1,7.6,South Africa,H Klaasen,DA Miller,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,8.1,South Africa,DA Miller,H Klaasen,Abbas Afridi,1,0,,,,,,"",""
+ball,1,8.2,South Africa,H Klaasen,DA Miller,Abbas Afridi,2,0,,,,,,"",""
+ball,1,8.3,South Africa,H Klaasen,DA Miller,Abbas Afridi,0,0,,,,,,caught,H Klaasen
+ball,1,8.4,South Africa,D Ferreira,DA Miller,Abbas Afridi,1,0,,,,,,"",""
+ball,1,8.5,South Africa,DA Miller,D Ferreira,Abbas Afridi,0,0,,,,,,"",""
+ball,1,8.6,South Africa,DA Miller,D Ferreira,Abbas Afridi,0,0,,,,,,"",""
+ball,1,9.1,South Africa,D Ferreira,DA Miller,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,9.2,South Africa,DA Miller,D Ferreira,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,9.3,South Africa,DA Miller,D Ferreira,Abrar Ahmed,6,0,,,,,,"",""
+ball,1,9.4,South Africa,DA Miller,D Ferreira,Abrar Ahmed,6,0,,,,,,"",""
+ball,1,9.5,South Africa,DA Miller,D Ferreira,Abrar Ahmed,6,0,,,,,,"",""
+ball,1,9.6,South Africa,DA Miller,D Ferreira,Abrar Ahmed,2,0,,,,,,"",""
+ball,1,10.1,South Africa,D Ferreira,DA Miller,Haris Rauf,2,0,,,,,,"",""
+ball,1,10.2,South Africa,D Ferreira,DA Miller,Haris Rauf,2,0,,,,,,"",""
+ball,1,10.3,South Africa,D Ferreira,DA Miller,Haris Rauf,1,0,,,,,,"",""
+ball,1,10.4,South Africa,DA Miller,D Ferreira,Haris Rauf,0,0,,,,,,"",""
+ball,1,10.5,South Africa,DA Miller,D Ferreira,Haris Rauf,0,0,,,,,,"",""
+ball,1,10.6,South Africa,DA Miller,D Ferreira,Haris Rauf,6,0,,,,,,"",""
+ball,1,11.1,South Africa,D Ferreira,DA Miller,Abbas Afridi,0,0,,,,,,caught,D Ferreira
+ball,1,11.2,South Africa,GF Linde,DA Miller,Abbas Afridi,1,0,,,,,,"",""
+ball,1,11.3,South Africa,DA Miller,GF Linde,Abbas Afridi,2,0,,,,,,"",""
+ball,1,11.4,South Africa,DA Miller,GF Linde,Abbas Afridi,0,0,,,,,,"",""
+ball,1,11.5,South Africa,DA Miller,GF Linde,Abbas Afridi,6,0,,,,,,"",""
+ball,1,11.6,South Africa,DA Miller,GF Linde,Abbas Afridi,4,0,,,,,,"",""
+ball,1,12.1,South Africa,GF Linde,DA Miller,Sufiyan Muqeem,2,0,,,,,,"",""
+ball,1,12.2,South Africa,GF Linde,DA Miller,Sufiyan Muqeem,4,0,,,,,,"",""
+ball,1,12.3,South Africa,GF Linde,DA Miller,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,12.4,South Africa,GF Linde,DA Miller,Sufiyan Muqeem,1,0,,,,,,"",""
+ball,1,12.5,South Africa,DA Miller,GF Linde,Sufiyan Muqeem,1,0,,,,,,"",""
+ball,1,12.6,South Africa,GF Linde,DA Miller,Sufiyan Muqeem,6,0,,,,,,"",""
+ball,1,13.1,South Africa,DA Miller,GF Linde,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,13.2,South Africa,GF Linde,DA Miller,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,13.3,South Africa,GF Linde,DA Miller,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,13.4,South Africa,GF Linde,DA Miller,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,13.5,South Africa,DA Miller,GF Linde,Shaheen Shah Afridi,0,0,,,,,,caught,DA Miller
+ball,1,13.6,South Africa,A Simelane,GF Linde,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,14.1,South Africa,A Simelane,GF Linde,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,14.2,South Africa,A Simelane,GF Linde,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,14.3,South Africa,A Simelane,GF Linde,Abrar Ahmed,0,0,,,,,,stumped,A Simelane
+ball,1,14.4,South Africa,N Peter,GF Linde,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,14.5,South Africa,GF Linde,N Peter,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,14.6,South Africa,N Peter,GF Linde,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,15.1,South Africa,GF Linde,N Peter,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,15.2,South Africa,N Peter,GF Linde,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,15.3,South Africa,N Peter,GF Linde,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,15.4,South Africa,N Peter,GF Linde,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,15.5,South Africa,N Peter,GF Linde,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,15.6,South Africa,N Peter,GF Linde,Shaheen Shah Afridi,0,0,,,,,,lbw,N Peter
+ball,1,16.1,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,16.2,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,4,0,,,,,,"",""
+ball,1,16.3,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,1,0,,,,,,"",""
+ball,1,16.4,South Africa,KT Maphaka,GF Linde,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,16.5,South Africa,KT Maphaka,GF Linde,Sufiyan Muqeem,1,0,,,,,,"",""
+ball,1,16.6,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,17.1,South Africa,KT Maphaka,GF Linde,Abbas Afridi,0,0,,,,,,"",""
+ball,1,17.2,South Africa,KT Maphaka,GF Linde,Abbas Afridi,0,0,,,,,,"",""
+ball,1,17.3,South Africa,KT Maphaka,GF Linde,Abbas Afridi,4,0,,,,,,"",""
+ball,1,17.4,South Africa,KT Maphaka,GF Linde,Abbas Afridi,2,0,,,,,,"",""
+ball,1,17.5,South Africa,KT Maphaka,GF Linde,Abbas Afridi,0,0,,,,,,"",""
+ball,1,17.6,South Africa,KT Maphaka,GF Linde,Abbas Afridi,0,0,,,,,,"",""
+ball,1,18.1,South Africa,GF Linde,KT Maphaka,Haris Rauf,1,0,,,,,,"",""
+ball,1,18.2,South Africa,KT Maphaka,GF Linde,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.3,South Africa,KT Maphaka,GF Linde,Haris Rauf,4,0,,,,,,"",""
+ball,1,18.4,South Africa,KT Maphaka,GF Linde,Haris Rauf,1,0,,,,,,"",""
+ball,1,18.5,South Africa,GF Linde,KT Maphaka,Haris Rauf,4,0,,,,,,"",""
+ball,1,18.6,South Africa,GF Linde,KT Maphaka,Haris Rauf,0,1,1,,,,,"",""
+ball,1,18.7,South Africa,GF Linde,KT Maphaka,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.1,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,19.2,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,6,0,,,,,,"",""
+ball,1,19.3,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,6,0,,,,,,"",""
+ball,1,19.4,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,0,0,,,,,,"",""
+ball,1,19.5,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,6,0,,,,,,"",""
+ball,1,19.6,South Africa,GF Linde,KT Maphaka,Sufiyan Muqeem,0,0,,,,,,caught,GF Linde
+ball,2,0.1,Pakistan,Mohammad Rizwan,Babar Azam,KT Maphaka,0,0,,,,,,"",""
+ball,2,0.2,Pakistan,Mohammad Rizwan,Babar Azam,KT Maphaka,0,0,,,,,,"",""
+ball,2,0.3,Pakistan,Mohammad Rizwan,Babar Azam,KT Maphaka,0,4,,,,4,,"",""
+ball,2,0.4,Pakistan,Mohammad Rizwan,Babar Azam,KT Maphaka,4,0,,,,,,"",""
+ball,2,0.5,Pakistan,Mohammad Rizwan,Babar Azam,KT Maphaka,1,0,,,,,,"",""
+ball,2,0.6,Pakistan,Babar Azam,Mohammad Rizwan,KT Maphaka,0,0,,,,,,"",""
+ball,2,1.1,Pakistan,Mohammad Rizwan,Babar Azam,OEG Baartman,0,4,,,,4,,"",""
+ball,2,1.2,Pakistan,Mohammad Rizwan,Babar Azam,OEG Baartman,0,1,1,,,,,"",""
+ball,2,1.3,Pakistan,Mohammad Rizwan,Babar Azam,OEG Baartman,0,0,,,,,,"",""
+ball,2,1.4,Pakistan,Mohammad Rizwan,Babar Azam,OEG Baartman,0,0,,,,,,"",""
+ball,2,1.5,Pakistan,Mohammad Rizwan,Babar Azam,OEG Baartman,1,0,,,,,,"",""
+ball,2,1.6,Pakistan,Babar Azam,Mohammad Rizwan,OEG Baartman,0,0,,,,,,"",""
+ball,2,1.7,Pakistan,Babar Azam,Mohammad Rizwan,OEG Baartman,0,0,,,,,,"",""
+ball,2,2.1,Pakistan,Mohammad Rizwan,Babar Azam,KT Maphaka,0,0,,,,,,"",""
+ball,2,2.2,Pakistan,Mohammad Rizwan,Babar Azam,KT Maphaka,1,0,,,,,,"",""
+ball,2,2.3,Pakistan,Babar Azam,Mohammad Rizwan,KT Maphaka,0,0,,,,,,caught,Babar Azam
+ball,2,2.4,Pakistan,Saim Ayub,Mohammad Rizwan,KT Maphaka,2,0,,,,,,"",""
+ball,2,2.5,Pakistan,Saim Ayub,Mohammad Rizwan,KT Maphaka,0,0,,,,,,"",""
+ball,2,2.6,Pakistan,Saim Ayub,Mohammad Rizwan,KT Maphaka,0,0,,,,,,"",""
+ball,2,3.1,Pakistan,Mohammad Rizwan,Saim Ayub,A Simelane,0,0,,,,,,"",""
+ball,2,3.2,Pakistan,Mohammad Rizwan,Saim Ayub,A Simelane,0,0,,,,,,"",""
+ball,2,3.3,Pakistan,Mohammad Rizwan,Saim Ayub,A Simelane,1,0,,,,,,"",""
+ball,2,3.4,Pakistan,Saim Ayub,Mohammad Rizwan,A Simelane,4,0,,,,,,"",""
+ball,2,3.5,Pakistan,Saim Ayub,Mohammad Rizwan,A Simelane,4,0,,,,,,"",""
+ball,2,3.6,Pakistan,Saim Ayub,Mohammad Rizwan,A Simelane,4,0,,,,,,"",""
+ball,2,4.1,Pakistan,Mohammad Rizwan,Saim Ayub,OEG Baartman,4,0,,,,,,"",""
+ball,2,4.2,Pakistan,Mohammad Rizwan,Saim Ayub,OEG Baartman,0,0,,,,,,"",""
+ball,2,4.3,Pakistan,Mohammad Rizwan,Saim Ayub,OEG Baartman,1,0,,,,,,"",""
+ball,2,4.4,Pakistan,Saim Ayub,Mohammad Rizwan,OEG Baartman,0,0,,,,,,"",""
+ball,2,4.5,Pakistan,Saim Ayub,Mohammad Rizwan,OEG Baartman,4,0,,,,,,"",""
+ball,2,4.6,Pakistan,Saim Ayub,Mohammad Rizwan,OEG Baartman,0,0,,,,,,"",""
+ball,2,5.1,Pakistan,Mohammad Rizwan,Saim Ayub,N Peter,1,0,,,,,,"",""
+ball,2,5.2,Pakistan,Saim Ayub,Mohammad Rizwan,N Peter,4,0,,,,,,"",""
+ball,2,5.3,Pakistan,Saim Ayub,Mohammad Rizwan,N Peter,1,0,,,,,,"",""
+ball,2,5.4,Pakistan,Mohammad Rizwan,Saim Ayub,N Peter,1,0,,,,,,"",""
+ball,2,5.5,Pakistan,Saim Ayub,Mohammad Rizwan,N Peter,4,0,,,,,,"",""
+ball,2,5.6,Pakistan,Saim Ayub,Mohammad Rizwan,N Peter,4,0,,,,,,"",""
+ball,2,6.1,Pakistan,Mohammad Rizwan,Saim Ayub,A Simelane,1,0,,,,,,"",""
+ball,2,6.2,Pakistan,Saim Ayub,Mohammad Rizwan,A Simelane,0,0,,,,,,"",""
+ball,2,6.3,Pakistan,Saim Ayub,Mohammad Rizwan,A Simelane,0,0,,,,,,caught,Saim Ayub
+ball,2,6.4,Pakistan,Usman Khan,Mohammad Rizwan,A Simelane,4,0,,,,,,"",""
+ball,2,6.5,Pakistan,Usman Khan,Mohammad Rizwan,A Simelane,1,0,,,,,,"",""
+ball,2,6.6,Pakistan,Mohammad Rizwan,Usman Khan,A Simelane,1,0,,,,,,"",""
+ball,2,7.1,Pakistan,Mohammad Rizwan,Usman Khan,GF Linde,0,0,,,,,,"",""
+ball,2,7.2,Pakistan,Mohammad Rizwan,Usman Khan,GF Linde,0,0,,,,,,"",""
+ball,2,7.3,Pakistan,Mohammad Rizwan,Usman Khan,GF Linde,1,0,,,,,,"",""
+ball,2,7.4,Pakistan,Usman Khan,Mohammad Rizwan,GF Linde,0,0,,,,,,"",""
+ball,2,7.5,Pakistan,Usman Khan,Mohammad Rizwan,GF Linde,1,0,,,,,,"",""
+ball,2,7.6,Pakistan,Mohammad Rizwan,Usman Khan,GF Linde,1,0,,,,,,"",""
+ball,2,8.1,Pakistan,Mohammad Rizwan,Usman Khan,N Peter,1,0,,,,,,"",""
+ball,2,8.2,Pakistan,Usman Khan,Mohammad Rizwan,N Peter,1,0,,,,,,"",""
+ball,2,8.3,Pakistan,Mohammad Rizwan,Usman Khan,N Peter,1,0,,,,,,"",""
+ball,2,8.4,Pakistan,Usman Khan,Mohammad Rizwan,N Peter,1,0,,,,,,"",""
+ball,2,8.5,Pakistan,Mohammad Rizwan,Usman Khan,N Peter,0,4,,,4,,,"",""
+ball,2,8.6,Pakistan,Mohammad Rizwan,Usman Khan,N Peter,0,0,,,,,,"",""
+ball,2,9.1,Pakistan,Usman Khan,Mohammad Rizwan,GF Linde,1,0,,,,,,"",""
+ball,2,9.2,Pakistan,Mohammad Rizwan,Usman Khan,GF Linde,1,0,,,,,,"",""
+ball,2,9.3,Pakistan,Usman Khan,Mohammad Rizwan,GF Linde,0,0,,,,,,caught,Usman Khan
+ball,2,9.4,Pakistan,Tayyab Tahir,Mohammad Rizwan,GF Linde,0,0,,,,,,"",""
+ball,2,9.5,Pakistan,Tayyab Tahir,Mohammad Rizwan,GF Linde,1,0,,,,,,"",""
+ball,2,9.6,Pakistan,Mohammad Rizwan,Tayyab Tahir,GF Linde,2,0,,,,,,"",""
+ball,2,10.1,Pakistan,Tayyab Tahir,Mohammad Rizwan,N Peter,1,0,,,,,,"",""
+ball,2,10.2,Pakistan,Mohammad Rizwan,Tayyab Tahir,N Peter,0,0,,,,,,"",""
+ball,2,10.3,Pakistan,Mohammad Rizwan,Tayyab Tahir,N Peter,3,0,,,,,,"",""
+ball,2,10.4,Pakistan,Tayyab Tahir,Mohammad Rizwan,N Peter,0,0,,,,,,"",""
+ball,2,10.5,Pakistan,Tayyab Tahir,Mohammad Rizwan,N Peter,1,0,,,,,,"",""
+ball,2,10.6,Pakistan,Mohammad Rizwan,Tayyab Tahir,N Peter,0,1,1,,,,,"",""
+ball,2,10.7,Pakistan,Mohammad Rizwan,Tayyab Tahir,N Peter,0,0,,,,,,"",""
+ball,2,11.1,Pakistan,Tayyab Tahir,Mohammad Rizwan,GF Linde,1,0,,,,,,"",""
+ball,2,11.2,Pakistan,Mohammad Rizwan,Tayyab Tahir,GF Linde,1,0,,,,,,"",""
+ball,2,11.3,Pakistan,Tayyab Tahir,Mohammad Rizwan,GF Linde,0,0,,,,,,"",""
+ball,2,11.4,Pakistan,Tayyab Tahir,Mohammad Rizwan,GF Linde,6,0,,,,,,"",""
+ball,2,11.5,Pakistan,Tayyab Tahir,Mohammad Rizwan,GF Linde,0,0,,,,,,"",""
+ball,2,11.6,Pakistan,Tayyab Tahir,Mohammad Rizwan,GF Linde,1,0,,,,,,"",""
+ball,2,12.1,Pakistan,Tayyab Tahir,Mohammad Rizwan,A Simelane,0,1,1,,,,,"",""
+ball,2,12.2,Pakistan,Tayyab Tahir,Mohammad Rizwan,A Simelane,1,0,,,,,,"",""
+ball,2,12.3,Pakistan,Mohammad Rizwan,Tayyab Tahir,A Simelane,2,0,,,,,,"",""
+ball,2,12.4,Pakistan,Mohammad Rizwan,Tayyab Tahir,A Simelane,1,0,,,,,,"",""
+ball,2,12.5,Pakistan,Tayyab Tahir,Mohammad Rizwan,A Simelane,4,0,,,,,,"",""
+ball,2,12.6,Pakistan,Tayyab Tahir,Mohammad Rizwan,A Simelane,1,0,,,,,,"",""
+ball,2,12.7,Pakistan,Mohammad Rizwan,Tayyab Tahir,A Simelane,1,0,,,,,,"",""
+ball,2,13.1,Pakistan,Mohammad Rizwan,Tayyab Tahir,N Peter,1,0,,,,,,"",""
+ball,2,13.2,Pakistan,Tayyab Tahir,Mohammad Rizwan,N Peter,0,1,1,,,,,"",""
+ball,2,13.3,Pakistan,Tayyab Tahir,Mohammad Rizwan,N Peter,0,0,,,,,,"",""
+ball,2,13.4,Pakistan,Tayyab Tahir,Mohammad Rizwan,N Peter,0,0,,,,,,"",""
+ball,2,13.5,Pakistan,Tayyab Tahir,Mohammad Rizwan,N Peter,1,0,,,,,,"",""
+ball,2,13.6,Pakistan,Mohammad Rizwan,Tayyab Tahir,N Peter,0,0,,,,,,"",""
+ball,2,13.7,Pakistan,Mohammad Rizwan,Tayyab Tahir,N Peter,1,0,,,,,,"",""
+ball,2,14.1,Pakistan,Mohammad Rizwan,Tayyab Tahir,OEG Baartman,0,0,,,,,,"",""
+ball,2,14.2,Pakistan,Mohammad Rizwan,Tayyab Tahir,OEG Baartman,1,0,,,,,,"",""
+ball,2,14.3,Pakistan,Tayyab Tahir,Mohammad Rizwan,OEG Baartman,0,0,,,,,,"",""
+ball,2,14.4,Pakistan,Tayyab Tahir,Mohammad Rizwan,OEG Baartman,0,0,,,,,,caught,Tayyab Tahir
+ball,2,14.5,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,OEG Baartman,1,0,,,,,,"",""
+ball,2,14.6,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,OEG Baartman,1,0,,,,,,"",""
+ball,2,15.1,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,A Simelane,6,0,,,,,,"",""
+ball,2,15.2,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,A Simelane,1,0,,,,,,"",""
+ball,2,15.3,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,A Simelane,1,0,,,,,,"",""
+ball,2,15.4,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,A Simelane,0,0,,,,,,"",""
+ball,2,15.5,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,A Simelane,2,0,,,,,,"",""
+ball,2,15.6,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,A Simelane,1,1,,1,,,,"",""
+ball,2,15.7,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,A Simelane,1,0,,,,,,"",""
+ball,2,16.1,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,KT Maphaka,0,0,,,,,,"",""
+ball,2,16.2,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,KT Maphaka,4,0,,,,,,"",""
+ball,2,16.3,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,KT Maphaka,2,0,,,,,,"",""
+ball,2,16.4,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,KT Maphaka,0,2,2,,,,,"",""
+ball,2,16.5,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,KT Maphaka,6,0,,,,,,"",""
+ball,2,16.6,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,KT Maphaka,2,1,,1,,,,"",""
+ball,2,16.7,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,KT Maphaka,6,0,,,,,,"",""
+ball,2,16.8,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,KT Maphaka,1,0,,,,,,"",""
+ball,2,17.1,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,GF Linde,0,1,1,,,,,"",""
+ball,2,17.2,Pakistan,Mohammad Rizwan,Shaheen Shah Afridi,GF Linde,1,0,,,,,,"",""
+ball,2,17.3,Pakistan,Shaheen Shah Afridi,Mohammad Rizwan,GF Linde,0,1,1,,,,,stumped,Shaheen Shah Afridi
+ball,2,17.4,Pakistan,Irfan Khan,Mohammad Rizwan,GF Linde,1,0,,,,,,"",""
+ball,2,17.5,Pakistan,Mohammad Rizwan,Irfan Khan,GF Linde,0,1,,,,1,,"",""
+ball,2,17.6,Pakistan,Irfan Khan,Mohammad Rizwan,GF Linde,0,0,,,,,,caught,Irfan Khan
+ball,2,17.7,Pakistan,Abbas Afridi,Mohammad Rizwan,GF Linde,0,0,,,,,,lbw,Abbas Afridi
+ball,2,17.8,Pakistan,Haris Rauf,Mohammad Rizwan,GF Linde,0,0,,,,,,"",""
+ball,2,18.1,Pakistan,Mohammad Rizwan,Haris Rauf,OEG Baartman,0,0,,,,,,"",""
+ball,2,18.2,Pakistan,Mohammad Rizwan,Haris Rauf,OEG Baartman,0,0,,,,,,"",""
+ball,2,18.3,Pakistan,Mohammad Rizwan,Haris Rauf,OEG Baartman,4,0,,,,,,"",""
+ball,2,18.4,Pakistan,Mohammad Rizwan,Haris Rauf,OEG Baartman,0,0,,,,,,"",""
+ball,2,18.5,Pakistan,Mohammad Rizwan,Haris Rauf,OEG Baartman,4,0,,,,,,"",""
+ball,2,18.6,Pakistan,Mohammad Rizwan,Haris Rauf,OEG Baartman,4,0,,,,,,"",""
+ball,2,19.1,Pakistan,Haris Rauf,Mohammad Rizwan,KT Maphaka,1,0,,,,,,"",""
+ball,2,19.2,Pakistan,Mohammad Rizwan,Haris Rauf,KT Maphaka,0,0,,,,,,caught,Mohammad Rizwan
+ball,2,19.3,Pakistan,Sufiyan Muqeem,Haris Rauf,KT Maphaka,2,0,,,,,,"",""
+ball,2,19.4,Pakistan,Sufiyan Muqeem,Haris Rauf,KT Maphaka,2,0,,,,,,"",""
+ball,2,19.5,Pakistan,Sufiyan Muqeem,Haris Rauf,KT Maphaka,1,0,,,,,,"",""
+ball,2,19.6,Pakistan,Haris Rauf,Sufiyan Muqeem,KT Maphaka,1,0,,,,,,"",""

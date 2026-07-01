@@ -1,0 +1,200 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,France
+info,team,Ireland
+info,gender,female
+info,season,2021
+info,date,2021/08/29
+info,event,ICC Women's T20 World Cup Europe Region Qualifier
+info,match_number,7
+info,venue,La Manga Club Bottom Ground
+info,city,Murcia
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,EAJ Richardson
+info,umpire,Adnan Khan
+info,umpire,Rizwan Akram
+info,reserve_umpire,M Jameson
+info,match_referee,DT Jukes
+info,winner,Ireland
+info,winner_wickets,10
+info,player,France,TE Britton
+info,player,France,AC Brodin
+info,player,France,J King
+info,player,France,PC McGeown
+info,player,France,DL Graham
+info,player,France,ME Violleau
+info,player,France,E Brelivet
+info,player,France,T Rodriguez
+info,player,France,M Marchello
+info,player,France,E Chance
+info,player,France,I Vrignaud
+info,player,Ireland,R Stokell
+info,player,Ireland,L Little
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,G Dempsey
+info,player,Ireland,L Maritz
+info,player,Ireland,L Delany
+info,player,Ireland,L Paul
+info,player,Ireland,C Murray
+info,player,Ireland,MV Waldron
+info,player,Ireland,A Hunter
+info,player,Ireland,S MacMahon
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AC Brodin,95569cde
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,C Murray,5a50471c
+info,registry,people,DL Graham,907e30d9
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,E Brelivet,f2eb0e99
+info,registry,people,E Chance,865ff0b2
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,G Dempsey,940feccc
+info,registry,people,I Vrignaud,bb472ec7
+info,registry,people,J King,f7ad6448
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Little,4f86926b
+info,registry,people,L Maritz,ac8bca8d
+info,registry,people,L Paul,07248d8e
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Marchello,362e44f9
+info,registry,people,ME Violleau,69f47625
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,PC McGeown,1aabd6fc
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S MacMahon,ef2bcebf
+info,registry,people,T Rodriguez,185e37e0
+info,registry,people,TE Britton,5eceeb7f
+ball,1,0.1,France,TE Britton,AC Brodin,S MacMahon,0,1,1,,,,,"",""
+ball,1,0.2,France,TE Britton,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,0.3,France,TE Britton,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,0.4,France,TE Britton,AC Brodin,S MacMahon,0,0,,,,,,caught and bowled,TE Britton
+ball,1,0.5,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,0.6,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,0.7,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,1.1,France,AC Brodin,J King,L Paul,0,0,,,,,,"",""
+ball,1,1.2,France,AC Brodin,J King,L Paul,1,0,,,,,,"",""
+ball,1,1.3,France,J King,AC Brodin,L Paul,0,0,,,,,,"",""
+ball,1,1.4,France,J King,AC Brodin,L Paul,0,0,,,,,,"",""
+ball,1,1.5,France,J King,AC Brodin,L Paul,1,0,,,,,,"",""
+ball,1,1.6,France,AC Brodin,J King,L Paul,0,0,,,,,,"",""
+ball,1,2.1,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,2.2,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,2.3,France,J King,AC Brodin,S MacMahon,0,1,1,,,,,"",""
+ball,1,2.4,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,2.5,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,2.6,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,2.7,France,J King,AC Brodin,S MacMahon,0,0,,,,,,"",""
+ball,1,3.1,France,AC Brodin,J King,L Maritz,0,0,,,,,,"",""
+ball,1,3.2,France,AC Brodin,J King,L Maritz,0,0,,,,,,"",""
+ball,1,3.3,France,AC Brodin,J King,L Maritz,0,0,,,,,,"",""
+ball,1,3.4,France,AC Brodin,J King,L Maritz,0,0,,,,,,"",""
+ball,1,3.5,France,AC Brodin,J King,L Maritz,0,1,1,,,,,"",""
+ball,1,3.6,France,AC Brodin,J King,L Maritz,0,0,,,,,,"",""
+ball,1,3.7,France,AC Brodin,J King,L Maritz,0,0,,,,,,bowled,AC Brodin
+ball,1,4.1,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,4.2,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,4.3,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,4.4,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,4.5,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,4.6,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,5.1,France,PC McGeown,J King,L Maritz,0,0,,,,,,"",""
+ball,1,5.2,France,PC McGeown,J King,L Maritz,0,0,,,,,,"",""
+ball,1,5.3,France,PC McGeown,J King,L Maritz,0,0,,,,,,"",""
+ball,1,5.4,France,PC McGeown,J King,L Maritz,0,1,1,,,,,"",""
+ball,1,5.5,France,PC McGeown,J King,L Maritz,0,0,,,,,,"",""
+ball,1,5.6,France,PC McGeown,J King,L Maritz,0,0,,,,,,"",""
+ball,1,5.7,France,PC McGeown,J King,L Maritz,0,1,1,,,,,"",""
+ball,1,5.8,France,PC McGeown,J King,L Maritz,0,0,,,,,,"",""
+ball,1,6.1,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,6.2,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,6.3,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,6.4,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,6.5,France,J King,PC McGeown,L Paul,0,0,,,,,,"",""
+ball,1,6.6,France,J King,PC McGeown,L Paul,1,0,,,,,,"",""
+ball,1,7.1,France,J King,PC McGeown,C Murray,0,0,,,,,,"",""
+ball,1,7.2,France,J King,PC McGeown,C Murray,0,0,,,,,,"",""
+ball,1,7.3,France,J King,PC McGeown,C Murray,0,0,,,,,,"",""
+ball,1,7.4,France,J King,PC McGeown,C Murray,0,0,,,,,,"",""
+ball,1,7.5,France,J King,PC McGeown,C Murray,0,0,,,,,,"",""
+ball,1,7.6,France,J King,PC McGeown,C Murray,0,0,,,,,,"",""
+ball,1,8.1,France,PC McGeown,J King,EAJ Richardson,0,0,,,,,,"",""
+ball,1,8.2,France,PC McGeown,J King,EAJ Richardson,0,0,,,,,,"",""
+ball,1,8.3,France,PC McGeown,J King,EAJ Richardson,0,0,,,,,,"",""
+ball,1,8.4,France,PC McGeown,J King,EAJ Richardson,0,0,,,,,,"",""
+ball,1,8.5,France,PC McGeown,J King,EAJ Richardson,0,0,,,,,,"",""
+ball,1,8.6,France,PC McGeown,J King,EAJ Richardson,0,0,,,,,,lbw,PC McGeown
+ball,1,9.1,France,J King,DL Graham,C Murray,1,0,,,,,,"",""
+ball,1,9.2,France,DL Graham,J King,C Murray,0,0,,,,,,"",""
+ball,1,9.3,France,DL Graham,J King,C Murray,0,0,,,,,,"",""
+ball,1,9.4,France,DL Graham,J King,C Murray,0,0,,,,,,"",""
+ball,1,9.5,France,DL Graham,J King,C Murray,0,0,,,,,,caught,DL Graham
+ball,1,9.6,France,ME Violleau,J King,C Murray,0,0,,,,,,"",""
+ball,1,10.1,France,J King,ME Violleau,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.2,France,J King,ME Violleau,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.3,France,J King,ME Violleau,EAJ Richardson,0,0,,,,,,bowled,J King
+ball,1,10.4,France,E Brelivet,ME Violleau,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.5,France,E Brelivet,ME Violleau,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.6,France,E Brelivet,ME Violleau,EAJ Richardson,0,0,,,,,,"",""
+ball,1,11.1,France,ME Violleau,E Brelivet,C Murray,1,0,,,,,,"",""
+ball,1,11.2,France,E Brelivet,ME Violleau,C Murray,0,1,1,,,,,"",""
+ball,1,11.3,France,E Brelivet,ME Violleau,C Murray,0,0,,,,,,"",""
+ball,1,11.4,France,E Brelivet,ME Violleau,C Murray,0,0,,,,,,"",""
+ball,1,11.5,France,E Brelivet,ME Violleau,C Murray,0,0,,,,,,"",""
+ball,1,11.6,France,E Brelivet,ME Violleau,C Murray,0,1,1,,,,,"",""
+ball,1,11.7,France,E Brelivet,ME Violleau,C Murray,0,1,1,,,,,"",""
+ball,1,11.8,France,E Brelivet,ME Violleau,C Murray,0,0,,,,,,run out,ME Violleau
+ball,1,11.9,France,T Rodriguez,E Brelivet,C Murray,0,0,,,,,,"",""
+ball,1,12.1,France,E Brelivet,T Rodriguez,G Dempsey,0,1,1,,,,,"",""
+ball,1,12.2,France,E Brelivet,T Rodriguez,G Dempsey,0,0,,,,,,"",""
+ball,1,12.3,France,E Brelivet,T Rodriguez,G Dempsey,0,1,,1,,,,"",""
+ball,1,12.4,France,E Brelivet,T Rodriguez,G Dempsey,0,1,1,,,,,"",""
+ball,1,12.5,France,E Brelivet,T Rodriguez,G Dempsey,1,0,,,,,,"",""
+ball,1,12.6,France,T Rodriguez,E Brelivet,G Dempsey,0,0,,,,,,"",""
+ball,1,12.7,France,T Rodriguez,E Brelivet,G Dempsey,0,1,1,,,,,"",""
+ball,1,12.8,France,T Rodriguez,E Brelivet,G Dempsey,0,0,,,,,,"",""
+ball,1,12.9,France,T Rodriguez,E Brelivet,G Dempsey,0,0,,,,,,"",""
+ball,1,12.10,France,T Rodriguez,E Brelivet,G Dempsey,1,0,,,,,,"",""
+ball,1,13.1,France,T Rodriguez,E Brelivet,L Maritz,0,0,,,,,,"",""
+ball,1,13.2,France,T Rodriguez,E Brelivet,L Maritz,1,0,,,,,,"",""
+ball,1,13.3,France,E Brelivet,T Rodriguez,L Maritz,1,0,,,,,,"",""
+ball,1,13.4,France,T Rodriguez,E Brelivet,L Maritz,0,0,,,,,,"",""
+ball,1,13.5,France,T Rodriguez,E Brelivet,L Maritz,0,0,,,,,,"",""
+ball,1,13.6,France,T Rodriguez,E Brelivet,L Maritz,0,0,,,,,,"",""
+ball,1,14.1,France,E Brelivet,T Rodriguez,G Dempsey,0,1,1,,,,,"",""
+ball,1,14.2,France,E Brelivet,T Rodriguez,G Dempsey,0,0,,,,,,"",""
+ball,1,14.3,France,E Brelivet,T Rodriguez,G Dempsey,0,0,,,,,,"",""
+ball,1,14.4,France,E Brelivet,T Rodriguez,G Dempsey,0,0,,,,,,"",""
+ball,1,14.5,France,E Brelivet,T Rodriguez,G Dempsey,0,0,,,,,,"",""
+ball,1,14.6,France,E Brelivet,T Rodriguez,G Dempsey,0,0,,,,,,"",""
+ball,1,14.7,France,E Brelivet,T Rodriguez,G Dempsey,0,0,,,,,,bowled,E Brelivet
+ball,1,15.1,France,T Rodriguez,M Marchello,L Paul,1,0,,,,,,"",""
+ball,1,15.2,France,M Marchello,T Rodriguez,L Paul,0,0,,,,,,"",""
+ball,1,15.3,France,M Marchello,T Rodriguez,L Paul,1,0,,,,,,"",""
+ball,1,15.4,France,T Rodriguez,M Marchello,L Paul,0,0,,,,,,caught,T Rodriguez
+ball,1,15.5,France,E Chance,M Marchello,L Paul,0,0,,,,,,"",""
+ball,1,15.6,France,E Chance,M Marchello,L Paul,0,0,,,,,,lbw,E Chance
+ball,1,16.1,France,M Marchello,I Vrignaud,EAJ Richardson,0,0,,,,,,run out,I Vrignaud
+ball,2,0.1,Ireland,R Stokell,L Little,DL Graham,1,0,,,,,,"",""
+ball,2,0.2,Ireland,L Little,R Stokell,DL Graham,0,1,1,,,,,"",""
+ball,2,0.3,Ireland,L Little,R Stokell,DL Graham,0,1,1,,,,,"",""
+ball,2,0.4,Ireland,L Little,R Stokell,DL Graham,3,0,,,,,,"",""
+ball,2,0.5,Ireland,R Stokell,L Little,DL Graham,0,0,,,,,,"",""
+ball,2,0.6,Ireland,R Stokell,L Little,DL Graham,0,0,,,,,,"",""
+ball,2,0.7,Ireland,R Stokell,L Little,DL Graham,0,0,,,,,,"",""
+ball,2,0.8,Ireland,R Stokell,L Little,DL Graham,1,0,,,,,,"",""
+ball,2,1.1,Ireland,R Stokell,L Little,E Chance,1,1,,1,,,,"",""
+ball,2,1.2,Ireland,L Little,R Stokell,E Chance,2,0,,,,,,"",""
+ball,2,1.3,Ireland,L Little,R Stokell,E Chance,0,1,1,,,,,"",""
+ball,2,1.4,Ireland,L Little,R Stokell,E Chance,0,0,,,,,,"",""
+ball,2,1.5,Ireland,L Little,R Stokell,E Chance,4,0,,,,,,"",""
+ball,2,1.6,Ireland,L Little,R Stokell,E Chance,1,0,,,,,,"",""
+ball,2,1.7,Ireland,R Stokell,L Little,E Chance,1,1,,1,,,,"",""
+ball,2,1.8,Ireland,L Little,R Stokell,E Chance,1,0,,,,,,"",""
+ball,2,1.9,Ireland,R Stokell,L Little,E Chance,0,1,,1,,,,"",""
+ball,2,1.10,Ireland,R Stokell,L Little,E Chance,2,0,,,,,,"",""
+ball,2,2.1,Ireland,L Little,R Stokell,ME Violleau,1,0,,,,,,"",""
+ball,2,2.2,Ireland,R Stokell,L Little,ME Violleau,0,0,,,,,,"",""
+ball,2,2.3,Ireland,R Stokell,L Little,ME Violleau,0,0,,,,,,"",""
+ball,2,2.4,Ireland,R Stokell,L Little,ME Violleau,1,0,,,,,,"",""

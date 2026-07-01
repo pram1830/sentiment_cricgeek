@@ -1,0 +1,317 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Scotland
+info,gender,female
+info,season,2019
+info,date,2019/08/10
+info,event,Women's T20I Quadrangular Series (in Netherlands)
+info,match_number,6
+info,venue,Sportpark Het Schootsveld
+info,city,Deventer
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,umpire,Ryan Milne
+info,umpire,WPM van Liemt
+info,reserve_umpire,PA Reynolds
+info,match_referee,R Kemming
+info,winner,Scotland
+info,winner_runs,11
+info,player,Scotland,SJ Bryce
+info,player,Scotland,L Jack
+info,player,Scotland,RS Glen
+info,player,Scotland,PA Chatterji
+info,player,Scotland,RV Hawkins
+info,player,Scotland,RK Willis
+info,player,Scotland,EL Watson
+info,player,Scotland,K McGill
+info,player,Scotland,HRA Rainey
+info,player,Scotland,M McColl
+info,player,Scotland,K Fraser
+info,player,Ireland,GH Lewis
+info,player,Ireland,L Paul
+info,player,Ireland,KJ Garth
+info,player,Ireland,U Raymond-Hoey
+info,player,Ireland,L Delany
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,MV Waldron
+info,player,Ireland,S MacMahon
+info,player,Ireland,L Maritz
+info,player,Ireland,H Little
+info,player,Ireland,C Raack
+info,registry,people,C Raack,28aba384
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,EL Watson,45dd7433
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,H Little,ad75e88d
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,K Fraser,a0a65375
+info,registry,people,K McGill,bba7558e
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Jack,e565ceb7
+info,registry,people,L Maritz,ac8bca8d
+info,registry,people,L Paul,07248d8e
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,R Kemming,30fd5378
+info,registry,people,RK Willis,fff4e348
+info,registry,people,RS Glen,45c2db15
+info,registry,people,RV Hawkins,2dc78362
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S MacMahon,ef2bcebf
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,U Raymond-Hoey,1a510809
+info,registry,people,WPM van Liemt,2bd48588
+ball,1,0.1,Scotland,SJ Bryce,L Jack,H Little,0,1,1,,,,,"",""
+ball,1,0.2,Scotland,SJ Bryce,L Jack,H Little,0,0,,,,,,"",""
+ball,1,0.3,Scotland,SJ Bryce,L Jack,H Little,1,0,,,,,,"",""
+ball,1,0.4,Scotland,L Jack,SJ Bryce,H Little,0,0,,,,,,"",""
+ball,1,0.5,Scotland,L Jack,SJ Bryce,H Little,1,0,,,,,,"",""
+ball,1,0.6,Scotland,SJ Bryce,L Jack,H Little,4,0,,,,,,"",""
+ball,1,0.7,Scotland,SJ Bryce,L Jack,H Little,1,0,,,,,,"",""
+ball,1,1.1,Scotland,SJ Bryce,L Jack,EAJ Richardson,1,0,,,,,,"",""
+ball,1,1.2,Scotland,L Jack,SJ Bryce,EAJ Richardson,0,1,,,,1,,"",""
+ball,1,1.3,Scotland,SJ Bryce,L Jack,EAJ Richardson,0,0,,,,,,"",""
+ball,1,1.4,Scotland,SJ Bryce,L Jack,EAJ Richardson,1,0,,,,,,"",""
+ball,1,1.5,Scotland,L Jack,SJ Bryce,EAJ Richardson,1,0,,,,,,"",""
+ball,1,1.6,Scotland,SJ Bryce,L Jack,EAJ Richardson,0,0,,,,,,caught,SJ Bryce
+ball,1,2.1,Scotland,RS Glen,L Jack,H Little,0,0,,,,,,"",""
+ball,1,2.2,Scotland,RS Glen,L Jack,H Little,0,0,,,,,,"",""
+ball,1,2.3,Scotland,RS Glen,L Jack,H Little,0,0,,,,,,"",""
+ball,1,2.4,Scotland,RS Glen,L Jack,H Little,1,0,,,,,,"",""
+ball,1,2.5,Scotland,L Jack,RS Glen,H Little,0,0,,,,,,"",""
+ball,1,2.6,Scotland,L Jack,RS Glen,H Little,0,0,,,,,,"",""
+ball,1,3.1,Scotland,RS Glen,L Jack,EAJ Richardson,0,0,,,,,,"",""
+ball,1,3.2,Scotland,RS Glen,L Jack,EAJ Richardson,1,0,,,,,,"",""
+ball,1,3.3,Scotland,L Jack,RS Glen,EAJ Richardson,0,0,,,,,,"",""
+ball,1,3.4,Scotland,L Jack,RS Glen,EAJ Richardson,0,0,,,,,,"",""
+ball,1,3.5,Scotland,L Jack,RS Glen,EAJ Richardson,0,1,,,,1,,"",""
+ball,1,3.6,Scotland,RS Glen,L Jack,EAJ Richardson,0,0,,,,,,"",""
+ball,1,4.1,Scotland,L Jack,RS Glen,H Little,0,0,,,,,,"",""
+ball,1,4.2,Scotland,L Jack,RS Glen,H Little,0,0,,,,,,"",""
+ball,1,4.3,Scotland,L Jack,RS Glen,H Little,1,0,,,,,,"",""
+ball,1,4.4,Scotland,RS Glen,L Jack,H Little,0,1,1,,,,,"",""
+ball,1,4.5,Scotland,RS Glen,L Jack,H Little,0,0,,,,,,"",""
+ball,1,4.6,Scotland,RS Glen,L Jack,H Little,4,0,,,,,,"",""
+ball,1,4.7,Scotland,RS Glen,L Jack,H Little,0,0,,,,,,"",""
+ball,1,5.1,Scotland,L Jack,RS Glen,L Maritz,0,0,,,,,,"",""
+ball,1,5.2,Scotland,L Jack,RS Glen,L Maritz,1,0,,,,,,"",""
+ball,1,5.3,Scotland,RS Glen,L Jack,L Maritz,2,0,,,,,,"",""
+ball,1,5.4,Scotland,RS Glen,L Jack,L Maritz,0,0,,,,,,caught,RS Glen
+ball,1,5.5,Scotland,L Jack,PA Chatterji,L Maritz,0,0,,,,,,"",""
+ball,1,5.6,Scotland,L Jack,PA Chatterji,L Maritz,0,0,,,,,,"",""
+ball,1,6.1,Scotland,PA Chatterji,L Jack,C Raack,1,0,,,,,,"",""
+ball,1,6.2,Scotland,L Jack,PA Chatterji,C Raack,1,0,,,,,,"",""
+ball,1,6.3,Scotland,PA Chatterji,L Jack,C Raack,0,0,,,,,,"",""
+ball,1,6.4,Scotland,PA Chatterji,L Jack,C Raack,0,2,,1,1,,,"",""
+ball,1,6.5,Scotland,L Jack,PA Chatterji,C Raack,4,0,,,,,,"",""
+ball,1,6.6,Scotland,L Jack,PA Chatterji,C Raack,0,0,,,,,,"",""
+ball,1,6.7,Scotland,L Jack,PA Chatterji,C Raack,0,0,,,,,,"",""
+ball,1,7.1,Scotland,PA Chatterji,L Jack,L Maritz,1,0,,,,,,"",""
+ball,1,7.2,Scotland,L Jack,PA Chatterji,L Maritz,1,0,,,,,,"",""
+ball,1,7.3,Scotland,PA Chatterji,L Jack,L Maritz,1,0,,,,,,"",""
+ball,1,7.4,Scotland,L Jack,PA Chatterji,L Maritz,0,0,,,,,,"",""
+ball,1,7.5,Scotland,L Jack,PA Chatterji,L Maritz,1,0,,,,,,"",""
+ball,1,7.6,Scotland,PA Chatterji,L Jack,L Maritz,0,0,,,,,,"",""
+ball,1,8.1,Scotland,L Jack,PA Chatterji,C Raack,0,0,,,,,,"",""
+ball,1,8.2,Scotland,L Jack,PA Chatterji,C Raack,0,0,,,,,,"",""
+ball,1,8.3,Scotland,L Jack,PA Chatterji,C Raack,1,0,,,,,,"",""
+ball,1,8.4,Scotland,PA Chatterji,L Jack,C Raack,0,0,,,,,,"",""
+ball,1,8.5,Scotland,PA Chatterji,L Jack,C Raack,1,0,,,,,,"",""
+ball,1,8.6,Scotland,L Jack,PA Chatterji,C Raack,0,0,,,,,,"",""
+ball,1,9.1,Scotland,PA Chatterji,L Jack,S MacMahon,4,0,,,,,,"",""
+ball,1,9.2,Scotland,PA Chatterji,L Jack,S MacMahon,4,0,,,,,,"",""
+ball,1,9.3,Scotland,PA Chatterji,L Jack,S MacMahon,1,0,,,,,,"",""
+ball,1,9.4,Scotland,L Jack,PA Chatterji,S MacMahon,1,0,,,,,,"",""
+ball,1,9.5,Scotland,PA Chatterji,L Jack,S MacMahon,0,0,,,,,,"",""
+ball,1,9.6,Scotland,PA Chatterji,L Jack,S MacMahon,2,0,,,,,,"",""
+ball,1,10.1,Scotland,L Jack,PA Chatterji,C Raack,0,0,,,,,,"",""
+ball,1,10.2,Scotland,L Jack,PA Chatterji,C Raack,0,0,,,,,,"",""
+ball,1,10.3,Scotland,L Jack,PA Chatterji,C Raack,1,0,,,,,,"",""
+ball,1,10.4,Scotland,PA Chatterji,L Jack,C Raack,1,0,,,,,,"",""
+ball,1,10.5,Scotland,L Jack,PA Chatterji,C Raack,1,0,,,,,,"",""
+ball,1,10.6,Scotland,PA Chatterji,L Jack,C Raack,0,0,,,,,,"",""
+ball,1,11.1,Scotland,L Jack,PA Chatterji,S MacMahon,1,0,,,,,,"",""
+ball,1,11.2,Scotland,PA Chatterji,L Jack,S MacMahon,0,0,,,,,,"",""
+ball,1,11.3,Scotland,PA Chatterji,L Jack,S MacMahon,1,0,,,,,,"",""
+ball,1,11.4,Scotland,L Jack,PA Chatterji,S MacMahon,2,0,,,,,,"",""
+ball,1,11.5,Scotland,L Jack,PA Chatterji,S MacMahon,0,0,,,,,,"",""
+ball,1,11.6,Scotland,L Jack,PA Chatterji,S MacMahon,1,0,,,,,,"",""
+ball,1,12.1,Scotland,L Jack,PA Chatterji,L Delany,0,0,,,,,,"",""
+ball,1,12.2,Scotland,L Jack,PA Chatterji,L Delany,1,0,,,,,,"",""
+ball,1,12.3,Scotland,PA Chatterji,L Jack,L Delany,0,0,,,,,,"",""
+ball,1,12.4,Scotland,PA Chatterji,L Jack,L Delany,3,0,,,,,,"",""
+ball,1,12.5,Scotland,L Jack,PA Chatterji,L Delany,0,1,1,,,,,"",""
+ball,1,12.6,Scotland,L Jack,PA Chatterji,L Delany,0,0,,,,,,"",""
+ball,1,12.7,Scotland,L Jack,PA Chatterji,L Delany,0,1,1,,,,,"",""
+ball,1,12.8,Scotland,L Jack,PA Chatterji,L Delany,1,0,,,,,,"",""
+ball,1,13.1,Scotland,L Jack,PA Chatterji,L Maritz,0,0,,,,,,"",""
+ball,1,13.2,Scotland,L Jack,PA Chatterji,L Maritz,2,0,,,,,,"",""
+ball,1,13.3,Scotland,L Jack,PA Chatterji,L Maritz,1,0,,,,,,"",""
+ball,1,13.4,Scotland,PA Chatterji,L Jack,L Maritz,0,0,,,,,,caught and bowled,PA Chatterji
+ball,1,13.5,Scotland,RV Hawkins,L Jack,L Maritz,0,0,,,,,,"",""
+ball,1,13.6,Scotland,RV Hawkins,L Jack,L Maritz,4,0,,,,,,"",""
+ball,1,14.1,Scotland,L Jack,RV Hawkins,L Delany,1,0,,,,,,"",""
+ball,1,14.2,Scotland,RV Hawkins,L Jack,L Delany,1,0,,,,,,"",""
+ball,1,14.3,Scotland,L Jack,RV Hawkins,L Delany,0,0,,,,,,"",""
+ball,1,14.4,Scotland,L Jack,RV Hawkins,L Delany,0,0,,,,,,"",""
+ball,1,14.5,Scotland,L Jack,RV Hawkins,L Delany,0,2,,,,2,,"",""
+ball,1,14.6,Scotland,L Jack,RV Hawkins,L Delany,0,0,,,,,,"",""
+ball,1,15.1,Scotland,RV Hawkins,L Jack,EAJ Richardson,0,1,1,,,,,"",""
+ball,1,15.2,Scotland,RV Hawkins,L Jack,EAJ Richardson,1,0,,,,,,"",""
+ball,1,15.3,Scotland,L Jack,RV Hawkins,EAJ Richardson,1,0,,,,,,"",""
+ball,1,15.4,Scotland,RV Hawkins,L Jack,EAJ Richardson,0,0,,,,,,caught,RV Hawkins
+ball,1,15.5,Scotland,L Jack,RK Willis,EAJ Richardson,1,0,,,,,,"",""
+ball,1,15.6,Scotland,RK Willis,L Jack,EAJ Richardson,0,0,,,,,,"",""
+ball,1,15.7,Scotland,RK Willis,L Jack,EAJ Richardson,0,0,,,,,,bowled,RK Willis
+ball,1,16.1,Scotland,L Jack,EL Watson,L Delany,2,0,,,,,,"",""
+ball,1,16.2,Scotland,L Jack,EL Watson,L Delany,1,0,,,,,,"",""
+ball,1,16.3,Scotland,EL Watson,L Jack,L Delany,0,0,,,,,,"",""
+ball,1,16.4,Scotland,EL Watson,L Jack,L Delany,1,0,,,,,,"",""
+ball,1,16.5,Scotland,L Jack,EL Watson,L Delany,1,0,,,,,,"",""
+ball,1,16.6,Scotland,EL Watson,L Jack,L Delany,1,0,,,,,,"",""
+ball,1,17.1,Scotland,EL Watson,L Jack,EAJ Richardson,0,0,,,,,,"",""
+ball,1,17.2,Scotland,EL Watson,L Jack,EAJ Richardson,0,0,,,,,,"",""
+ball,1,17.3,Scotland,EL Watson,L Jack,EAJ Richardson,0,0,,,,,,"",""
+ball,1,17.4,Scotland,EL Watson,L Jack,EAJ Richardson,4,0,,,,,,"",""
+ball,1,17.5,Scotland,EL Watson,L Jack,EAJ Richardson,1,0,,,,,,"",""
+ball,1,17.6,Scotland,L Jack,EL Watson,EAJ Richardson,1,0,,,,,,"",""
+ball,1,18.1,Scotland,L Jack,EL Watson,L Delany,0,0,,,,,,caught,L Jack
+ball,1,18.2,Scotland,K McGill,EL Watson,L Delany,1,0,,,,,,"",""
+ball,1,18.3,Scotland,EL Watson,K McGill,L Delany,1,0,,,,,,"",""
+ball,1,18.4,Scotland,K McGill,EL Watson,L Delany,1,0,,,,,,"",""
+ball,1,18.5,Scotland,EL Watson,K McGill,L Delany,0,1,,,1,,,"",""
+ball,1,18.6,Scotland,K McGill,EL Watson,L Delany,1,0,,,,,,"",""
+ball,1,19.1,Scotland,K McGill,EL Watson,S MacMahon,1,0,,,,,,"",""
+ball,1,19.2,Scotland,EL Watson,K McGill,S MacMahon,2,0,,,,,,"",""
+ball,1,19.3,Scotland,EL Watson,K McGill,S MacMahon,2,0,,,,,,"",""
+ball,1,19.4,Scotland,EL Watson,K McGill,S MacMahon,0,0,,,,,,"",""
+ball,1,19.5,Scotland,EL Watson,K McGill,S MacMahon,0,2,2,,,,,"",""
+ball,1,19.6,Scotland,K McGill,EL Watson,S MacMahon,0,0,,,,,,"",""
+ball,1,19.7,Scotland,K McGill,EL Watson,S MacMahon,1,0,,,,,,"",""
+ball,2,0.1,Ireland,GH Lewis,L Paul,RV Hawkins,2,0,,,,,,"",""
+ball,2,0.2,Ireland,GH Lewis,L Paul,RV Hawkins,1,0,,,,,,"",""
+ball,2,0.3,Ireland,L Paul,GH Lewis,RV Hawkins,1,0,,,,,,"",""
+ball,2,0.4,Ireland,GH Lewis,L Paul,RV Hawkins,0,0,,,,,,"",""
+ball,2,0.5,Ireland,GH Lewis,L Paul,RV Hawkins,0,0,,,,,,"",""
+ball,2,0.6,Ireland,GH Lewis,L Paul,RV Hawkins,0,0,,,,,,"",""
+ball,2,1.1,Ireland,L Paul,GH Lewis,PA Chatterji,0,0,,,,,,"",""
+ball,2,1.2,Ireland,L Paul,GH Lewis,PA Chatterji,0,0,,,,,,"",""
+ball,2,1.3,Ireland,L Paul,GH Lewis,PA Chatterji,0,1,1,,,,,"",""
+ball,2,1.4,Ireland,L Paul,GH Lewis,PA Chatterji,0,0,,,,,,lbw,L Paul
+ball,2,1.5,Ireland,KJ Garth,GH Lewis,PA Chatterji,0,0,,,,,,"",""
+ball,2,1.6,Ireland,KJ Garth,GH Lewis,PA Chatterji,0,0,,,,,,"",""
+ball,2,1.7,Ireland,KJ Garth,GH Lewis,PA Chatterji,2,0,,,,,,"",""
+ball,2,2.1,Ireland,GH Lewis,KJ Garth,RV Hawkins,1,0,,,,,,"",""
+ball,2,2.2,Ireland,KJ Garth,GH Lewis,RV Hawkins,0,0,,,,,,"",""
+ball,2,2.3,Ireland,KJ Garth,GH Lewis,RV Hawkins,0,0,,,,,,"",""
+ball,2,2.4,Ireland,KJ Garth,GH Lewis,RV Hawkins,1,0,,,,,,"",""
+ball,2,2.5,Ireland,GH Lewis,KJ Garth,RV Hawkins,0,0,,,,,,"",""
+ball,2,2.6,Ireland,GH Lewis,KJ Garth,RV Hawkins,0,0,,,,,,"",""
+ball,2,3.1,Ireland,KJ Garth,GH Lewis,PA Chatterji,0,2,2,,,,,"",""
+ball,2,3.2,Ireland,GH Lewis,KJ Garth,PA Chatterji,0,0,,,,,,"",""
+ball,2,3.3,Ireland,GH Lewis,KJ Garth,PA Chatterji,0,2,2,,,,,"",""
+ball,2,3.4,Ireland,KJ Garth,GH Lewis,PA Chatterji,0,0,,,,,,"",""
+ball,2,3.5,Ireland,KJ Garth,GH Lewis,PA Chatterji,1,0,,,,,,"",""
+ball,2,3.6,Ireland,GH Lewis,KJ Garth,PA Chatterji,0,0,,,,,,"",""
+ball,2,3.7,Ireland,GH Lewis,KJ Garth,PA Chatterji,4,0,,,,,,"",""
+ball,2,3.8,Ireland,GH Lewis,KJ Garth,PA Chatterji,4,0,,,,,,"",""
+ball,2,4.1,Ireland,KJ Garth,GH Lewis,HRA Rainey,2,0,,,,,,"",""
+ball,2,4.2,Ireland,KJ Garth,GH Lewis,HRA Rainey,0,0,,,,,,"",""
+ball,2,4.3,Ireland,KJ Garth,GH Lewis,HRA Rainey,0,0,,,,,,"",""
+ball,2,4.4,Ireland,KJ Garth,GH Lewis,HRA Rainey,0,0,,,,,,"",""
+ball,2,4.5,Ireland,KJ Garth,GH Lewis,HRA Rainey,0,0,,,,,,"",""
+ball,2,4.6,Ireland,KJ Garth,GH Lewis,HRA Rainey,4,0,,,,,,"",""
+ball,2,5.1,Ireland,GH Lewis,KJ Garth,M McColl,2,0,,,,,,"",""
+ball,2,5.2,Ireland,GH Lewis,KJ Garth,M McColl,0,0,,,,,,run out,GH Lewis
+ball,2,5.3,Ireland,KJ Garth,U Raymond-Hoey,M McColl,0,0,,,,,,"",""
+ball,2,5.4,Ireland,KJ Garth,U Raymond-Hoey,M McColl,0,0,,,,,,"",""
+ball,2,5.5,Ireland,KJ Garth,U Raymond-Hoey,M McColl,2,0,,,,,,"",""
+ball,2,5.6,Ireland,KJ Garth,U Raymond-Hoey,M McColl,0,0,,,,,,"",""
+ball,2,6.1,Ireland,U Raymond-Hoey,KJ Garth,HRA Rainey,0,0,,,,,,"",""
+ball,2,6.2,Ireland,U Raymond-Hoey,KJ Garth,HRA Rainey,0,0,,,,,,"",""
+ball,2,6.3,Ireland,U Raymond-Hoey,KJ Garth,HRA Rainey,1,0,,,,,,"",""
+ball,2,6.4,Ireland,KJ Garth,U Raymond-Hoey,HRA Rainey,1,0,,,,,,"",""
+ball,2,6.5,Ireland,U Raymond-Hoey,KJ Garth,HRA Rainey,1,0,,,,,,"",""
+ball,2,6.6,Ireland,KJ Garth,U Raymond-Hoey,HRA Rainey,1,0,,,,,,"",""
+ball,2,7.1,Ireland,KJ Garth,U Raymond-Hoey,M McColl,1,0,,,,,,"",""
+ball,2,7.2,Ireland,U Raymond-Hoey,KJ Garth,M McColl,0,0,,,,,,"",""
+ball,2,7.3,Ireland,U Raymond-Hoey,KJ Garth,M McColl,0,0,,,,,,"",""
+ball,2,7.4,Ireland,U Raymond-Hoey,KJ Garth,M McColl,1,0,,,,,,"",""
+ball,2,7.5,Ireland,KJ Garth,U Raymond-Hoey,M McColl,1,0,,,,,,"",""
+ball,2,7.6,Ireland,U Raymond-Hoey,KJ Garth,M McColl,1,0,,,,,,"",""
+ball,2,8.1,Ireland,U Raymond-Hoey,KJ Garth,K McGill,1,0,,,,,,"",""
+ball,2,8.2,Ireland,KJ Garth,U Raymond-Hoey,K McGill,1,0,,,,,,"",""
+ball,2,8.3,Ireland,U Raymond-Hoey,KJ Garth,K McGill,1,0,,,,,,"",""
+ball,2,8.4,Ireland,KJ Garth,U Raymond-Hoey,K McGill,0,0,,,,,,"",""
+ball,2,8.5,Ireland,KJ Garth,U Raymond-Hoey,K McGill,2,0,,,,,,"",""
+ball,2,8.6,Ireland,KJ Garth,U Raymond-Hoey,K McGill,1,0,,,,,,"",""
+ball,2,9.1,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,0,0,,,,,,"",""
+ball,2,9.2,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,1,0,,,,,,"",""
+ball,2,9.3,Ireland,U Raymond-Hoey,KJ Garth,K Fraser,0,0,,,,,,"",""
+ball,2,9.4,Ireland,U Raymond-Hoey,KJ Garth,K Fraser,1,0,,,,,,"",""
+ball,2,9.5,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,0,0,,,,,,"",""
+ball,2,9.6,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,2,0,,,,,,"",""
+ball,2,10.1,Ireland,U Raymond-Hoey,KJ Garth,RS Glen,1,0,,,,,,"",""
+ball,2,10.2,Ireland,KJ Garth,U Raymond-Hoey,RS Glen,0,0,,,,,,"",""
+ball,2,10.3,Ireland,KJ Garth,U Raymond-Hoey,RS Glen,1,0,,,,,,"",""
+ball,2,10.4,Ireland,U Raymond-Hoey,KJ Garth,RS Glen,0,0,,,,,,"",""
+ball,2,10.5,Ireland,U Raymond-Hoey,KJ Garth,RS Glen,1,0,,,,,,"",""
+ball,2,10.6,Ireland,KJ Garth,U Raymond-Hoey,RS Glen,1,0,,,,,,"",""
+ball,2,11.1,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,0,0,,,,,,"",""
+ball,2,11.2,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,4,0,,,,,,"",""
+ball,2,11.3,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,1,0,,,,,,"",""
+ball,2,11.4,Ireland,U Raymond-Hoey,KJ Garth,K Fraser,0,1,,,,1,,"",""
+ball,2,11.5,Ireland,KJ Garth,U Raymond-Hoey,K Fraser,0,0,,,,,,caught,KJ Garth
+ball,2,11.6,Ireland,L Delany,U Raymond-Hoey,K Fraser,0,0,,,,,,"",""
+ball,2,12.1,Ireland,U Raymond-Hoey,L Delany,RV Hawkins,0,0,,,,,,"",""
+ball,2,12.2,Ireland,U Raymond-Hoey,L Delany,RV Hawkins,1,0,,,,,,"",""
+ball,2,12.3,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,0,0,,,,,,"",""
+ball,2,12.4,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,2,0,,,,,,"",""
+ball,2,12.5,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,0,0,,,,,,"",""
+ball,2,12.6,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,0,0,,,,,,"",""
+ball,2,13.1,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,13.2,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,13.3,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,13.4,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,13.5,Ireland,U Raymond-Hoey,L Delany,K Fraser,1,0,,,,,,"",""
+ball,2,13.6,Ireland,L Delany,U Raymond-Hoey,K Fraser,1,0,,,,,,"",""
+ball,2,14.1,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,0,0,,,,,,"",""
+ball,2,14.2,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,0,0,,,,,,"",""
+ball,2,14.3,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,1,0,,,,,,"",""
+ball,2,14.4,Ireland,U Raymond-Hoey,L Delany,RV Hawkins,0,0,,,,,,"",""
+ball,2,14.5,Ireland,U Raymond-Hoey,L Delany,RV Hawkins,1,0,,,,,,"",""
+ball,2,14.6,Ireland,L Delany,U Raymond-Hoey,RV Hawkins,0,0,,,,,,"",""
+ball,2,15.1,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,15.2,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,15.3,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,15.4,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,15.5,Ireland,U Raymond-Hoey,L Delany,K Fraser,0,0,,,,,,"",""
+ball,2,15.6,Ireland,U Raymond-Hoey,L Delany,K Fraser,1,0,,,,,,"",""
+ball,2,16.1,Ireland,U Raymond-Hoey,L Delany,RS Glen,1,0,,,,,,"",""
+ball,2,16.2,Ireland,L Delany,U Raymond-Hoey,RS Glen,1,0,,,,,,"",""
+ball,2,16.3,Ireland,U Raymond-Hoey,L Delany,RS Glen,1,0,,,,,,"",""
+ball,2,16.4,Ireland,L Delany,U Raymond-Hoey,RS Glen,1,0,,,,,,"",""
+ball,2,16.5,Ireland,U Raymond-Hoey,L Delany,RS Glen,1,0,,,,,,"",""
+ball,2,16.6,Ireland,L Delany,U Raymond-Hoey,RS Glen,1,0,,,,,,"",""
+ball,2,17.1,Ireland,L Delany,U Raymond-Hoey,K McGill,0,0,,,,,,"",""
+ball,2,17.2,Ireland,L Delany,U Raymond-Hoey,K McGill,1,0,,,,,,"",""
+ball,2,17.3,Ireland,U Raymond-Hoey,L Delany,K McGill,1,0,,,,,,"",""
+ball,2,17.4,Ireland,L Delany,U Raymond-Hoey,K McGill,0,0,,,,,,"",""
+ball,2,17.5,Ireland,L Delany,U Raymond-Hoey,K McGill,2,0,,,,,,"",""
+ball,2,17.6,Ireland,L Delany,U Raymond-Hoey,K McGill,0,0,,,,,,"",""
+ball,2,18.1,Ireland,U Raymond-Hoey,L Delany,RS Glen,0,0,,,,,,caught,U Raymond-Hoey
+ball,2,18.2,Ireland,EAJ Richardson,L Delany,RS Glen,0,1,,,,1,,"",""
+ball,2,18.3,Ireland,L Delany,EAJ Richardson,RS Glen,1,0,,,,,,"",""
+ball,2,18.4,Ireland,EAJ Richardson,L Delany,RS Glen,1,0,,,,,,"",""
+ball,2,18.5,Ireland,L Delany,EAJ Richardson,RS Glen,4,0,,,,,,"",""
+ball,2,18.6,Ireland,L Delany,EAJ Richardson,RS Glen,1,0,,,,,,"",""
+ball,2,19.1,Ireland,L Delany,EAJ Richardson,K McGill,1,0,,,,,,run out,EAJ Richardson
+ball,2,19.2,Ireland,L Delany,MV Waldron,K McGill,2,0,,,,,,"",""
+ball,2,19.3,Ireland,L Delany,MV Waldron,K McGill,2,0,,,,,,"",""
+ball,2,19.4,Ireland,L Delany,MV Waldron,K McGill,2,0,,,,,,"",""
+ball,2,19.5,Ireland,L Delany,MV Waldron,K McGill,1,0,,,,,,run out,L Delany
+ball,2,19.6,Ireland,S MacMahon,MV Waldron,K McGill,0,0,,,,,,bowled,S MacMahon

@@ -1,0 +1,280 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,India
+info,team,Ireland
+info,gender,male
+info,season,2018
+info,date,2018/06/29
+info,event,India tour of Ireland and England
+info,match_number,2
+info,venue,"The Village, Malahide"
+info,city,Dublin
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,KL Rahul
+info,umpire,R Black
+info,umpire,AJ Neill
+info,reserve_umpire,PA Reynolds
+info,tv_umpire,M Hawthorne
+info,match_referee,BC Broad
+info,winner,India
+info,winner_runs,143
+info,player,India,KL Rahul
+info,player,India,V Kohli
+info,player,India,SK Raina
+info,player,India,RG Sharma
+info,player,India,MK Pandey
+info,player,India,HH Pandya
+info,player,India,KD Karthik
+info,player,India,Kuldeep Yadav
+info,player,India,S Kaul
+info,player,India,UT Yadav
+info,player,India,YS Chahal
+info,player,Ireland,PR Stirling
+info,player,Ireland,JNK Shannon
+info,player,Ireland,WTS Porterfield
+info,player,Ireland,A Balbirnie
+info,player,Ireland,GC Wilson
+info,player,Ireland,KJ O'Brien
+info,player,Ireland,Simi Singh
+info,player,Ireland,SR Thompson
+info,player,Ireland,GH Dockrell
+info,player,Ireland,WB Rankin
+info,player,Ireland,PKD Chase
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Neill,7ffe0ce3
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,GC Wilson,05de1a5a
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JNK Shannon,6e161a33
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PKD Chase,8c2aa0f9
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SR Thompson,7f3ad1ed
+info,registry,people,Simi Singh,c9945bdf
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WB Rankin,29b89ae8
+info,registry,people,WTS Porterfield,ec02b798
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,India,KL Rahul,V Kohli,Simi Singh,0,0,,,,,,"",""
+ball,1,0.2,India,KL Rahul,V Kohli,Simi Singh,1,0,,,,,,"",""
+ball,1,0.3,India,V Kohli,KL Rahul,Simi Singh,1,0,,,,,,"",""
+ball,1,0.4,India,KL Rahul,V Kohli,Simi Singh,4,0,,,,,,"",""
+ball,1,0.5,India,KL Rahul,V Kohli,Simi Singh,0,1,1,,,,,"",""
+ball,1,0.6,India,KL Rahul,V Kohli,Simi Singh,4,0,,,,,,"",""
+ball,1,0.7,India,KL Rahul,V Kohli,Simi Singh,1,0,,,,,,"",""
+ball,1,1.1,India,KL Rahul,V Kohli,WB Rankin,1,0,,,,,,"",""
+ball,1,1.2,India,V Kohli,KL Rahul,WB Rankin,0,0,,,,,,"",""
+ball,1,1.3,India,V Kohli,KL Rahul,WB Rankin,2,0,,,,,,"",""
+ball,1,1.4,India,V Kohli,KL Rahul,WB Rankin,4,0,,,,,,"",""
+ball,1,1.5,India,V Kohli,KL Rahul,WB Rankin,0,0,,,,,,"",""
+ball,1,1.6,India,V Kohli,KL Rahul,WB Rankin,1,0,,,,,,"",""
+ball,1,2.1,India,V Kohli,KL Rahul,PKD Chase,1,0,,,,,,"",""
+ball,1,2.2,India,KL Rahul,V Kohli,PKD Chase,0,0,,,,,,"",""
+ball,1,2.3,India,KL Rahul,V Kohli,PKD Chase,1,0,,,,,,"",""
+ball,1,2.4,India,V Kohli,KL Rahul,PKD Chase,0,0,,,,,,caught,V Kohli
+ball,1,2.5,India,KL Rahul,SK Raina,PKD Chase,1,0,,,,,,"",""
+ball,1,2.6,India,SK Raina,KL Rahul,PKD Chase,1,0,,,,,,"",""
+ball,1,3.1,India,SK Raina,KL Rahul,WB Rankin,1,0,,,,,,"",""
+ball,1,3.2,India,KL Rahul,SK Raina,WB Rankin,1,0,,,,,,"",""
+ball,1,3.3,India,SK Raina,KL Rahul,WB Rankin,1,0,,,,,,"",""
+ball,1,3.4,India,KL Rahul,SK Raina,WB Rankin,6,0,,,,,,"",""
+ball,1,3.5,India,KL Rahul,SK Raina,WB Rankin,0,0,,,,,,"",""
+ball,1,3.6,India,KL Rahul,SK Raina,WB Rankin,0,0,,,,,,"",""
+ball,1,4.1,India,SK Raina,KL Rahul,SR Thompson,6,0,,,,,,"",""
+ball,1,4.2,India,SK Raina,KL Rahul,SR Thompson,0,0,,,,,,"",""
+ball,1,4.3,India,SK Raina,KL Rahul,SR Thompson,6,0,,,,,,"",""
+ball,1,4.4,India,SK Raina,KL Rahul,SR Thompson,0,1,1,,,,,"",""
+ball,1,4.5,India,SK Raina,KL Rahul,SR Thompson,0,1,1,,,,,"",""
+ball,1,4.6,India,SK Raina,KL Rahul,SR Thompson,0,1,1,,,,,"",""
+ball,1,4.7,India,SK Raina,KL Rahul,SR Thompson,1,0,,,,,,"",""
+ball,1,4.8,India,KL Rahul,SK Raina,SR Thompson,1,0,,,,,,"",""
+ball,1,4.9,India,SK Raina,KL Rahul,SR Thompson,0,0,,,,,,"",""
+ball,1,5.1,India,KL Rahul,SK Raina,PKD Chase,1,0,,,,,,"",""
+ball,1,5.2,India,SK Raina,KL Rahul,PKD Chase,0,0,,,,,,"",""
+ball,1,5.3,India,SK Raina,KL Rahul,PKD Chase,0,0,,,,,,"",""
+ball,1,5.4,India,SK Raina,KL Rahul,PKD Chase,4,0,,,,,,"",""
+ball,1,5.5,India,SK Raina,KL Rahul,PKD Chase,1,0,,,,,,"",""
+ball,1,5.6,India,KL Rahul,SK Raina,PKD Chase,1,0,,,,,,"",""
+ball,1,6.1,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,6.2,India,SK Raina,KL Rahul,GH Dockrell,1,0,,,,,,"",""
+ball,1,6.3,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,6.4,India,SK Raina,KL Rahul,GH Dockrell,1,0,,,,,,"",""
+ball,1,6.5,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,6.6,India,SK Raina,KL Rahul,GH Dockrell,1,0,,,,,,"",""
+ball,1,7.1,India,SK Raina,KL Rahul,Simi Singh,1,0,,,,,,"",""
+ball,1,7.2,India,KL Rahul,SK Raina,Simi Singh,6,0,,,,,,"",""
+ball,1,7.3,India,KL Rahul,SK Raina,Simi Singh,0,1,1,,,,,"",""
+ball,1,7.4,India,KL Rahul,SK Raina,Simi Singh,6,0,,,,,,"",""
+ball,1,7.5,India,KL Rahul,SK Raina,Simi Singh,4,0,,,,,,"",""
+ball,1,7.6,India,KL Rahul,SK Raina,Simi Singh,1,0,,,,,,"",""
+ball,1,7.7,India,SK Raina,KL Rahul,Simi Singh,1,0,,,,,,"",""
+ball,1,8.1,India,SK Raina,KL Rahul,PR Stirling,0,0,,,,,,"",""
+ball,1,8.2,India,SK Raina,KL Rahul,PR Stirling,1,0,,,,,,"",""
+ball,1,8.3,India,KL Rahul,SK Raina,PR Stirling,0,1,1,,,,,"",""
+ball,1,8.4,India,KL Rahul,SK Raina,PR Stirling,1,0,,,,,,"",""
+ball,1,8.5,India,SK Raina,KL Rahul,PR Stirling,1,0,,,,,,"",""
+ball,1,8.6,India,KL Rahul,SK Raina,PR Stirling,1,0,,,,,,"",""
+ball,1,8.7,India,SK Raina,KL Rahul,PR Stirling,4,0,,,,,,"",""
+ball,1,9.1,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,9.2,India,SK Raina,KL Rahul,GH Dockrell,4,0,,,,,,"",""
+ball,1,9.3,India,SK Raina,KL Rahul,GH Dockrell,1,0,,,,,,"",""
+ball,1,9.4,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,9.5,India,SK Raina,KL Rahul,GH Dockrell,0,0,,,,,,"",""
+ball,1,9.6,India,SK Raina,KL Rahul,GH Dockrell,2,0,,,,,,"",""
+ball,1,10.1,India,KL Rahul,SK Raina,WB Rankin,6,0,,,,,,"",""
+ball,1,10.2,India,KL Rahul,SK Raina,WB Rankin,1,0,,,,,,"",""
+ball,1,10.3,India,SK Raina,KL Rahul,WB Rankin,1,0,,,,,,"",""
+ball,1,10.4,India,KL Rahul,SK Raina,WB Rankin,6,0,,,,,,"",""
+ball,1,10.5,India,KL Rahul,SK Raina,WB Rankin,0,1,1,,,,,"",""
+ball,1,10.6,India,KL Rahul,SK Raina,WB Rankin,1,0,,,,,,"",""
+ball,1,10.7,India,SK Raina,KL Rahul,WB Rankin,0,0,,,,,,"",""
+ball,1,11.1,India,KL Rahul,SK Raina,GH Dockrell,6,0,,,,,,"",""
+ball,1,11.2,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,11.3,India,SK Raina,KL Rahul,GH Dockrell,1,0,,,,,,"",""
+ball,1,11.4,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,11.5,India,SK Raina,KL Rahul,GH Dockrell,1,0,,,,,,"",""
+ball,1,11.6,India,KL Rahul,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,12.1,India,KL Rahul,SK Raina,KJ O'Brien,0,0,,,,,,caught and bowled,KL Rahul
+ball,1,12.2,India,RG Sharma,SK Raina,KJ O'Brien,0,0,,,,,,"",""
+ball,1,12.3,India,RG Sharma,SK Raina,KJ O'Brien,0,0,,,,,,caught,RG Sharma
+ball,1,12.4,India,MK Pandey,SK Raina,KJ O'Brien,0,0,,,,,,"",""
+ball,1,12.5,India,MK Pandey,SK Raina,KJ O'Brien,1,0,,,,,,"",""
+ball,1,12.6,India,SK Raina,MK Pandey,KJ O'Brien,0,1,1,,,,,"",""
+ball,1,12.7,India,SK Raina,MK Pandey,KJ O'Brien,1,0,,,,,,"",""
+ball,1,13.1,India,SK Raina,MK Pandey,GH Dockrell,1,0,,,,,,"",""
+ball,1,13.2,India,MK Pandey,SK Raina,GH Dockrell,0,0,,,,,,"",""
+ball,1,13.3,India,MK Pandey,SK Raina,GH Dockrell,0,0,,,,,,"",""
+ball,1,13.4,India,MK Pandey,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,13.5,India,SK Raina,MK Pandey,GH Dockrell,1,0,,,,,,"",""
+ball,1,13.6,India,MK Pandey,SK Raina,GH Dockrell,1,0,,,,,,"",""
+ball,1,14.1,India,MK Pandey,SK Raina,KJ O'Brien,1,0,,,,,,"",""
+ball,1,14.2,India,SK Raina,MK Pandey,KJ O'Brien,1,0,,,,,,"",""
+ball,1,14.3,India,MK Pandey,SK Raina,KJ O'Brien,0,0,,,,,,"",""
+ball,1,14.4,India,MK Pandey,SK Raina,KJ O'Brien,1,0,,,,,,"",""
+ball,1,14.5,India,SK Raina,MK Pandey,KJ O'Brien,0,1,1,,,,,"",""
+ball,1,14.6,India,SK Raina,MK Pandey,KJ O'Brien,4,0,,,,,,"",""
+ball,1,14.7,India,SK Raina,MK Pandey,KJ O'Brien,1,0,,,,,,"",""
+ball,1,15.1,India,SK Raina,MK Pandey,PKD Chase,0,0,,,,,,"",""
+ball,1,15.2,India,SK Raina,MK Pandey,PKD Chase,6,0,,,,,,"",""
+ball,1,15.3,India,SK Raina,MK Pandey,PKD Chase,1,0,,,,,,"",""
+ball,1,15.4,India,MK Pandey,SK Raina,PKD Chase,1,0,,,,,,"",""
+ball,1,15.5,India,SK Raina,MK Pandey,PKD Chase,4,0,,,,,,"",""
+ball,1,15.6,India,SK Raina,MK Pandey,PKD Chase,1,0,,,,,,"",""
+ball,1,16.1,India,SK Raina,MK Pandey,PR Stirling,0,1,1,,,,,"",""
+ball,1,16.2,India,SK Raina,MK Pandey,PR Stirling,3,0,,,,,,"",""
+ball,1,16.3,India,MK Pandey,SK Raina,PR Stirling,2,0,,,,,,"",""
+ball,1,16.4,India,MK Pandey,SK Raina,PR Stirling,1,0,,,,,,"",""
+ball,1,16.5,India,SK Raina,MK Pandey,PR Stirling,1,0,,,,,,"",""
+ball,1,16.6,India,MK Pandey,SK Raina,PR Stirling,1,0,,,,,,"",""
+ball,1,16.7,India,SK Raina,MK Pandey,PR Stirling,1,0,,,,,,"",""
+ball,1,17.1,India,SK Raina,MK Pandey,KJ O'Brien,1,0,,,,,,"",""
+ball,1,17.2,India,MK Pandey,SK Raina,KJ O'Brien,1,0,,,,,,"",""
+ball,1,17.3,India,SK Raina,MK Pandey,KJ O'Brien,0,0,,,,,,caught,SK Raina
+ball,1,17.4,India,MK Pandey,HH Pandya,KJ O'Brien,4,0,,,,,,"",""
+ball,1,17.5,India,MK Pandey,HH Pandya,KJ O'Brien,1,0,,,,,,"",""
+ball,1,17.6,India,HH Pandya,MK Pandey,KJ O'Brien,0,0,,,,,,"",""
+ball,1,18.1,India,MK Pandey,HH Pandya,PKD Chase,1,0,,,,,,"",""
+ball,1,18.2,India,HH Pandya,MK Pandey,PKD Chase,1,0,,,,,,"",""
+ball,1,18.3,India,MK Pandey,HH Pandya,PKD Chase,1,0,,,,,,"",""
+ball,1,18.4,India,HH Pandya,MK Pandey,PKD Chase,0,1,1,,,,,"",""
+ball,1,18.5,India,HH Pandya,MK Pandey,PKD Chase,6,0,,,,,,"",""
+ball,1,18.6,India,HH Pandya,MK Pandey,PKD Chase,6,0,,,,,,"",""
+ball,1,18.7,India,HH Pandya,MK Pandey,PKD Chase,2,0,,,,,,"",""
+ball,1,19.1,India,MK Pandey,HH Pandya,KJ O'Brien,0,1,1,,,,,"",""
+ball,1,19.2,India,MK Pandey,HH Pandya,KJ O'Brien,2,0,,,,,,"",""
+ball,1,19.3,India,MK Pandey,HH Pandya,KJ O'Brien,1,0,,,,,,"",""
+ball,1,19.4,India,HH Pandya,MK Pandey,KJ O'Brien,6,0,,,,,,"",""
+ball,1,19.5,India,HH Pandya,MK Pandey,KJ O'Brien,6,0,,,,,,"",""
+ball,1,19.6,India,HH Pandya,MK Pandey,KJ O'Brien,4,0,,,,,,"",""
+ball,1,19.7,India,HH Pandya,MK Pandey,KJ O'Brien,1,0,,,,,,"",""
+ball,2,0.1,Ireland,PR Stirling,JNK Shannon,UT Yadav,0,0,,,,,,"",""
+ball,2,0.2,Ireland,PR Stirling,JNK Shannon,UT Yadav,0,0,,,,,,caught,PR Stirling
+ball,2,0.3,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,0,0,,,,,,"",""
+ball,2,0.4,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,0,0,,,,,,"",""
+ball,2,0.5,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,0,0,,,,,,"",""
+ball,2,0.6,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,1,0,,,,,,"",""
+ball,2,1.1,Ireland,WTS Porterfield,JNK Shannon,S Kaul,0,0,,,,,,"",""
+ball,2,1.2,Ireland,WTS Porterfield,JNK Shannon,S Kaul,0,0,,,,,,"",""
+ball,2,1.3,Ireland,WTS Porterfield,JNK Shannon,S Kaul,1,0,,,,,,"",""
+ball,2,1.4,Ireland,JNK Shannon,WTS Porterfield,S Kaul,0,0,,,,,,"",""
+ball,2,1.5,Ireland,JNK Shannon,WTS Porterfield,S Kaul,0,0,,,,,,"",""
+ball,2,1.6,Ireland,JNK Shannon,WTS Porterfield,S Kaul,2,0,,,,,,"",""
+ball,2,2.1,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,4,0,,,,,,"",""
+ball,2,2.2,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,2,0,,,,,,"",""
+ball,2,2.3,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,6,0,,,,,,"",""
+ball,2,2.4,Ireland,WTS Porterfield,JNK Shannon,UT Yadav,0,0,,,,,,bowled,WTS Porterfield
+ball,2,2.5,Ireland,A Balbirnie,JNK Shannon,UT Yadav,2,0,,,,,,"",""
+ball,2,2.6,Ireland,A Balbirnie,JNK Shannon,UT Yadav,4,0,,,,,,"",""
+ball,2,3.1,Ireland,JNK Shannon,A Balbirnie,S Kaul,0,0,,,,,,"",""
+ball,2,3.2,Ireland,JNK Shannon,A Balbirnie,S Kaul,0,0,,,,,,"",""
+ball,2,3.3,Ireland,JNK Shannon,A Balbirnie,S Kaul,0,0,,,,,,"",""
+ball,2,3.4,Ireland,JNK Shannon,A Balbirnie,S Kaul,0,0,,,,,,caught,JNK Shannon
+ball,2,3.5,Ireland,GC Wilson,A Balbirnie,S Kaul,0,0,,,,,,"",""
+ball,2,3.6,Ireland,GC Wilson,A Balbirnie,S Kaul,0,1,1,,,,,"",""
+ball,2,3.7,Ireland,GC Wilson,A Balbirnie,S Kaul,0,0,,,,,,"",""
+ball,2,4.1,Ireland,A Balbirnie,GC Wilson,HH Pandya,1,0,,,,,,"",""
+ball,2,4.2,Ireland,GC Wilson,A Balbirnie,HH Pandya,0,0,,,,,,"",""
+ball,2,4.3,Ireland,GC Wilson,A Balbirnie,HH Pandya,1,0,,,,,,"",""
+ball,2,4.4,Ireland,A Balbirnie,GC Wilson,HH Pandya,0,0,,,,,,"",""
+ball,2,4.5,Ireland,A Balbirnie,GC Wilson,HH Pandya,1,0,,,,,,"",""
+ball,2,4.6,Ireland,GC Wilson,A Balbirnie,HH Pandya,1,0,,,,,,"",""
+ball,2,5.1,Ireland,GC Wilson,A Balbirnie,YS Chahal,0,0,,,,,,"",""
+ball,2,5.2,Ireland,GC Wilson,A Balbirnie,YS Chahal,1,0,,,,,,"",""
+ball,2,5.3,Ireland,A Balbirnie,GC Wilson,YS Chahal,1,0,,,,,,"",""
+ball,2,5.4,Ireland,GC Wilson,A Balbirnie,YS Chahal,0,0,,,,,,"",""
+ball,2,5.5,Ireland,GC Wilson,A Balbirnie,YS Chahal,1,0,,,,,,"",""
+ball,2,5.6,Ireland,A Balbirnie,GC Wilson,YS Chahal,0,0,,,,,,bowled,A Balbirnie
+ball,2,6.1,Ireland,GC Wilson,KJ O'Brien,HH Pandya,0,1,1,,,,,"",""
+ball,2,6.2,Ireland,GC Wilson,KJ O'Brien,HH Pandya,1,0,,,,,,"",""
+ball,2,6.3,Ireland,KJ O'Brien,GC Wilson,HH Pandya,0,0,,,,,,"",""
+ball,2,6.4,Ireland,KJ O'Brien,GC Wilson,HH Pandya,0,0,,,,,,caught,KJ O'Brien
+ball,2,6.5,Ireland,GC Wilson,Simi Singh,HH Pandya,4,0,,,,,,"",""
+ball,2,6.6,Ireland,GC Wilson,Simi Singh,HH Pandya,0,0,,,,,,"",""
+ball,2,6.7,Ireland,GC Wilson,Simi Singh,HH Pandya,0,0,,,,,,"",""
+ball,2,7.1,Ireland,Simi Singh,GC Wilson,YS Chahal,0,0,,,,,,"",""
+ball,2,7.2,Ireland,Simi Singh,GC Wilson,YS Chahal,0,0,,,,,,lbw,Simi Singh
+ball,2,7.3,Ireland,SR Thompson,GC Wilson,YS Chahal,1,0,,,,,,"",""
+ball,2,7.4,Ireland,GC Wilson,SR Thompson,YS Chahal,1,0,,,,,,"",""
+ball,2,7.5,Ireland,SR Thompson,GC Wilson,YS Chahal,1,0,,,,,,"",""
+ball,2,7.6,Ireland,GC Wilson,SR Thompson,YS Chahal,1,0,,,,,,"",""
+ball,2,8.1,Ireland,GC Wilson,SR Thompson,Kuldeep Yadav,4,0,,,,,,"",""
+ball,2,8.2,Ireland,GC Wilson,SR Thompson,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,8.3,Ireland,GC Wilson,SR Thompson,Kuldeep Yadav,0,0,,,,,,bowled,GC Wilson
+ball,2,8.4,Ireland,GH Dockrell,SR Thompson,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,8.5,Ireland,GH Dockrell,SR Thompson,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,8.6,Ireland,GH Dockrell,SR Thompson,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,9.1,Ireland,GH Dockrell,SR Thompson,YS Chahal,0,0,,,,,,"",""
+ball,2,9.2,Ireland,GH Dockrell,SR Thompson,YS Chahal,0,0,,,,,,"",""
+ball,2,9.3,Ireland,GH Dockrell,SR Thompson,YS Chahal,0,0,,,,,,"",""
+ball,2,9.4,Ireland,GH Dockrell,SR Thompson,YS Chahal,3,0,,,,,,"",""
+ball,2,9.5,Ireland,SR Thompson,GH Dockrell,YS Chahal,4,0,,,,,,"",""
+ball,2,9.6,Ireland,SR Thompson,GH Dockrell,YS Chahal,4,0,,,,,,"",""
+ball,2,10.1,Ireland,GH Dockrell,SR Thompson,Kuldeep Yadav,0,0,,,,,,caught,GH Dockrell
+ball,2,10.2,Ireland,SR Thompson,WB Rankin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,10.3,Ireland,WB Rankin,SR Thompson,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,10.4,Ireland,WB Rankin,SR Thompson,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,10.5,Ireland,SR Thompson,WB Rankin,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,10.6,Ireland,WB Rankin,SR Thompson,Kuldeep Yadav,6,0,,,,,,"",""
+ball,2,11.1,Ireland,SR Thompson,WB Rankin,YS Chahal,0,0,,,,,,"",""
+ball,2,11.2,Ireland,SR Thompson,WB Rankin,YS Chahal,1,0,,,,,,"",""
+ball,2,11.3,Ireland,WB Rankin,SR Thompson,YS Chahal,0,0,,,,,,"",""
+ball,2,11.4,Ireland,WB Rankin,SR Thompson,YS Chahal,0,1,1,,,,,"",""
+ball,2,11.5,Ireland,WB Rankin,SR Thompson,YS Chahal,1,0,,,,,,"",""
+ball,2,11.6,Ireland,SR Thompson,WB Rankin,YS Chahal,0,0,,,,,,bowled,SR Thompson
+ball,2,11.7,Ireland,PKD Chase,WB Rankin,YS Chahal,0,0,,,,,,"",""
+ball,2,12.1,Ireland,WB Rankin,PKD Chase,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,12.2,Ireland,WB Rankin,PKD Chase,Kuldeep Yadav,2,0,,,,,,"",""
+ball,2,12.3,Ireland,WB Rankin,PKD Chase,Kuldeep Yadav,0,0,,,,,,stumped,WB Rankin

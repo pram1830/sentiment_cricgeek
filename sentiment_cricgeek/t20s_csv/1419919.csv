@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,China
+info,team,Japan
+info,gender,female
+info,season,2023/24
+info,date,2024/02/11
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,14
+info,venue,"Royal Selangor Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,China
+info,toss_decision,bat
+info,player_of_match,A Chandel
+info,umpire,Ramasamy Venkatesh
+info,umpire,Zahid Usman
+info,reserve_umpire,Nur Hijrah
+info,match_referee,Edwin Seah
+info,winner,Japan
+info,winner_wickets,4
+info,player,China,Sun Meng Yao
+info,player,China,Zi Mei
+info,player,China,Han Lili
+info,player,China,Huang Zhuo
+info,player,China,M Zhu
+info,player,China,Zheng Lili
+info,player,China,Wenjing Yin
+info,player,China,Zhi Xinyu
+info,player,China,Mengting Liu
+info,player,China,Xu Qian
+info,player,China,Yang Yu Xuan
+info,player,Japan,H Goto
+info,player,Japan,Erika Oda
+info,player,Japan,S Kato
+info,player,Japan,M Yanagida
+info,player,Japan,H Iwasaki
+info,player,Japan,A Chandel
+info,player,Japan,K Ota
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,A Kano
+info,player,Japan,A Fujikawa
+info,player,Japan,Nonoha Yasumoto
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,Han Lili,cd7134f5
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,K Ota,211f48fe
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,M Zhu,36c3302e
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Kato,ef9ff861
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,Wenjing Yin,1342d7f6
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yang Yu Xuan,1d5273c9
+info,registry,people,Zahid Usman,5ee3b5bd
+info,registry,people,Zheng Lili,9c2bb7da
+info,registry,people,Zhi Xinyu,78ac71b0
+info,registry,people,Zi Mei,72070f05
+ball,1,0.1,China,Sun Meng Yao,Zi Mei,A Chandel,1,0,,,,,,"",""
+ball,1,0.2,China,Zi Mei,Sun Meng Yao,A Chandel,1,0,,,,,,"",""
+ball,1,0.3,China,Sun Meng Yao,Zi Mei,A Chandel,0,0,,,,,,"",""
+ball,1,0.4,China,Sun Meng Yao,Zi Mei,A Chandel,0,0,,,,,,"",""
+ball,1,0.5,China,Sun Meng Yao,Zi Mei,A Chandel,0,0,,,,,,"",""
+ball,1,0.6,China,Sun Meng Yao,Zi Mei,A Chandel,0,0,,,,,,"",""
+ball,1,1.1,China,Zi Mei,Sun Meng Yao,Nonoha Yasumoto,0,1,1,,,,,"",""
+ball,1,1.2,China,Zi Mei,Sun Meng Yao,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,1.3,China,Sun Meng Yao,Zi Mei,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,1.4,China,Sun Meng Yao,Zi Mei,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,1.5,China,Zi Mei,Sun Meng Yao,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,1.6,China,Zi Mei,Sun Meng Yao,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,1.7,China,Zi Mei,Sun Meng Yao,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,2.1,China,Sun Meng Yao,Zi Mei,A Chandel,4,0,,,,,,"",""
+ball,1,2.2,China,Sun Meng Yao,Zi Mei,A Chandel,1,0,,,,,,"",""
+ball,1,2.3,China,Zi Mei,Sun Meng Yao,A Chandel,0,0,,,,,,"",""
+ball,1,2.4,China,Zi Mei,Sun Meng Yao,A Chandel,0,0,,,,,,"",""
+ball,1,2.5,China,Zi Mei,Sun Meng Yao,A Chandel,0,0,,,,,,"",""
+ball,1,2.6,China,Zi Mei,Sun Meng Yao,A Chandel,1,0,,,,,,"",""
+ball,1,3.1,China,Zi Mei,Sun Meng Yao,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,3.2,China,Sun Meng Yao,Zi Mei,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,3.3,China,Sun Meng Yao,Zi Mei,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,3.4,China,Sun Meng Yao,Zi Mei,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,3.5,China,Sun Meng Yao,Zi Mei,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,3.6,China,Sun Meng Yao,Zi Mei,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,4.1,China,Sun Meng Yao,Zi Mei,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,4.2,China,Sun Meng Yao,Zi Mei,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,4.3,China,Zi Mei,Sun Meng Yao,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,4.4,China,Zi Mei,Sun Meng Yao,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,4.5,China,Zi Mei,Sun Meng Yao,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,4.6,China,Sun Meng Yao,Zi Mei,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,5.1,China,Zi Mei,Sun Meng Yao,Nonoha Yasumoto,0,0,,,,,,lbw,Zi Mei
+ball,1,5.2,China,Han Lili,Sun Meng Yao,Nonoha Yasumoto,0,1,1,,,,,"",""
+ball,1,5.3,China,Han Lili,Sun Meng Yao,Nonoha Yasumoto,0,1,1,,,,,"",""
+ball,1,5.4,China,Han Lili,Sun Meng Yao,Nonoha Yasumoto,0,1,1,,,,,"",""
+ball,1,5.5,China,Han Lili,Sun Meng Yao,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,5.6,China,Han Lili,Sun Meng Yao,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,5.7,China,Han Lili,Sun Meng Yao,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,5.8,China,Han Lili,Sun Meng Yao,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,5.9,China,Sun Meng Yao,Han Lili,Nonoha Yasumoto,0,1,,,,1,,"",""
+ball,1,6.1,China,Sun Meng Yao,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,6.2,China,Sun Meng Yao,Han Lili,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,6.3,China,Han Lili,Sun Meng Yao,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,6.4,China,Han Lili,Sun Meng Yao,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,6.5,China,Han Lili,Sun Meng Yao,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,6.6,China,Han Lili,Sun Meng Yao,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,7.1,China,Han Lili,Sun Meng Yao,S Kato,0,1,1,,,,,"",""
+ball,1,7.2,China,Han Lili,Sun Meng Yao,S Kato,1,0,,,,,,"",""
+ball,1,7.3,China,Sun Meng Yao,Han Lili,S Kato,1,0,,,,,,"",""
+ball,1,7.4,China,Han Lili,Sun Meng Yao,S Kato,0,0,,,,,,"",""
+ball,1,7.5,China,Han Lili,Sun Meng Yao,S Kato,0,1,1,,,,,"",""
+ball,1,7.6,China,Han Lili,Sun Meng Yao,S Kato,1,0,,,,,,"",""
+ball,1,7.7,China,Sun Meng Yao,Han Lili,S Kato,4,0,,,,,,"",""
+ball,1,7.8,China,Sun Meng Yao,Han Lili,S Kato,0,0,,,,,,"",""
+ball,1,8.1,China,Han Lili,Sun Meng Yao,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,8.2,China,Sun Meng Yao,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,8.3,China,Sun Meng Yao,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,8.4,China,Sun Meng Yao,Han Lili,E Toguchi-Quinn,0,0,,,,,,caught,Sun Meng Yao
+ball,1,8.5,China,Huang Zhuo,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,8.6,China,Huang Zhuo,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,9.1,China,Han Lili,Huang Zhuo,S Kato,4,0,,,,,,"",""
+ball,1,9.2,China,Han Lili,Huang Zhuo,S Kato,0,0,,,,,,"",""
+ball,1,9.3,China,Han Lili,Huang Zhuo,S Kato,4,0,,,,,,"",""
+ball,1,9.4,China,Han Lili,Huang Zhuo,S Kato,4,0,,,,,,"",""
+ball,1,9.5,China,Han Lili,Huang Zhuo,S Kato,0,0,,,,,,"",""
+ball,1,9.6,China,Han Lili,Huang Zhuo,S Kato,1,0,,,,,,"",""
+ball,1,10.1,China,Han Lili,Huang Zhuo,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,10.2,China,Huang Zhuo,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,10.3,China,Huang Zhuo,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,10.4,China,Huang Zhuo,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,10.5,China,Huang Zhuo,Han Lili,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,10.6,China,Huang Zhuo,Han Lili,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,11.1,China,Huang Zhuo,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,11.2,China,Huang Zhuo,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,11.3,China,Huang Zhuo,Han Lili,K Ota,4,0,,,,,,"",""
+ball,1,11.4,China,Huang Zhuo,Han Lili,K Ota,1,0,,,,,,"",""
+ball,1,11.5,China,Han Lili,Huang Zhuo,K Ota,1,0,,,,,,"",""
+ball,1,11.6,China,Huang Zhuo,Han Lili,K Ota,0,1,1,,,,,"",""
+ball,1,11.7,China,Huang Zhuo,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,12.1,China,Han Lili,Huang Zhuo,A Fujikawa,0,0,,,,,,"",""
+ball,1,12.2,China,Han Lili,Huang Zhuo,A Fujikawa,1,0,,,,,,"",""
+ball,1,12.3,China,Huang Zhuo,Han Lili,A Fujikawa,0,0,,,,,,"",""
+ball,1,12.4,China,Huang Zhuo,Han Lili,A Fujikawa,0,0,,,,,,"",""
+ball,1,12.5,China,Huang Zhuo,Han Lili,A Fujikawa,0,1,,,1,,,"",""
+ball,1,12.6,China,Han Lili,Huang Zhuo,A Fujikawa,1,0,,,,,,"",""
+ball,1,13.1,China,Han Lili,Huang Zhuo,K Ota,0,1,1,,,,,"",""
+ball,1,13.2,China,Han Lili,Huang Zhuo,K Ota,0,0,,,,,,"",""
+ball,1,13.3,China,Han Lili,Huang Zhuo,K Ota,1,0,,,,,,"",""
+ball,1,13.4,China,Huang Zhuo,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,13.5,China,Huang Zhuo,Han Lili,K Ota,0,0,,,,,,caught and bowled,Huang Zhuo
+ball,1,13.6,China,M Zhu,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,13.7,China,M Zhu,Han Lili,K Ota,1,0,,,,,,"",""
+ball,1,14.1,China,M Zhu,Han Lili,A Fujikawa,0,0,,,,,,"",""
+ball,1,14.2,China,M Zhu,Han Lili,A Fujikawa,1,0,,,,,,"",""
+ball,1,14.3,China,Han Lili,M Zhu,A Fujikawa,0,0,,,,,,"",""
+ball,1,14.4,China,Han Lili,M Zhu,A Fujikawa,0,0,,,,,,"",""
+ball,1,14.5,China,Han Lili,M Zhu,A Fujikawa,0,0,,,,,,"",""
+ball,1,14.6,China,Han Lili,M Zhu,A Fujikawa,2,0,,,,,,"",""
+ball,1,15.1,China,M Zhu,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,15.2,China,M Zhu,Han Lili,K Ota,0,0,,,,,,run out,M Zhu
+ball,1,15.3,China,Han Lili,Zheng Lili,K Ota,0,0,,,,,,"",""
+ball,1,15.4,China,Han Lili,Zheng Lili,K Ota,0,0,,,,,,"",""
+ball,1,15.5,China,Han Lili,Zheng Lili,K Ota,1,0,,,,,,"",""
+ball,1,15.6,China,Zheng Lili,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,16.1,China,Han Lili,Zheng Lili,A Fujikawa,0,0,,,,,,"",""
+ball,1,16.2,China,Han Lili,Zheng Lili,A Fujikawa,0,0,,,,,,"",""
+ball,1,16.3,China,Han Lili,Zheng Lili,A Fujikawa,1,0,,,,,,"",""
+ball,1,16.4,China,Zheng Lili,Han Lili,A Fujikawa,0,0,,,,,,bowled,Zheng Lili
+ball,1,16.5,China,Wenjing Yin,Han Lili,A Fujikawa,0,1,1,,,,,"",""
+ball,1,16.6,China,Wenjing Yin,Han Lili,A Fujikawa,0,0,,,,,,"",""
+ball,1,16.7,China,Wenjing Yin,Han Lili,A Fujikawa,1,0,,,,,,"",""
+ball,1,17.1,China,Wenjing Yin,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,17.2,China,Wenjing Yin,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,17.3,China,Wenjing Yin,Han Lili,K Ota,0,0,,,,,,caught,Wenjing Yin
+ball,1,17.4,China,Zhi Xinyu,Han Lili,K Ota,4,0,,,,,,"",""
+ball,1,17.5,China,Zhi Xinyu,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,17.6,China,Zhi Xinyu,Han Lili,K Ota,0,0,,,,,,"",""
+ball,1,18.1,China,Han Lili,Zhi Xinyu,A Fujikawa,0,0,,,,,,"",""
+ball,1,18.2,China,Han Lili,Zhi Xinyu,A Fujikawa,0,0,,,,,,"",""
+ball,1,18.3,China,Han Lili,Zhi Xinyu,A Fujikawa,1,0,,,,,,"",""
+ball,1,18.4,China,Zhi Xinyu,Han Lili,A Fujikawa,1,0,,,,,,"",""
+ball,1,18.5,China,Han Lili,Zhi Xinyu,A Fujikawa,1,0,,,,,,"",""
+ball,1,18.6,China,Zhi Xinyu,Han Lili,A Fujikawa,0,1,1,,,,,"",""
+ball,1,18.7,China,Zhi Xinyu,Han Lili,A Fujikawa,0,0,,,,,,"",""
+ball,1,19.1,China,Han Lili,Zhi Xinyu,A Chandel,0,0,,,,,,"",""
+ball,1,19.2,China,Han Lili,Zhi Xinyu,A Chandel,0,0,,,,,,caught,Han Lili
+ball,1,19.3,China,Mengting Liu,Zhi Xinyu,A Chandel,0,0,,,,,,bowled,Mengting Liu
+ball,1,19.4,China,Xu Qian,Zhi Xinyu,A Chandel,0,0,,,,,,bowled,Xu Qian
+ball,1,19.5,China,Yang Yu Xuan,Zhi Xinyu,A Chandel,0,0,,,,,,lbw,Yang Yu Xuan
+ball,2,0.1,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,0.2,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,0.3,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,0.4,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,0.5,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,0.6,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,1.1,Japan,Erika Oda,H Goto,Yang Yu Xuan,4,0,,,,,,"",""
+ball,2,1.2,Japan,Erika Oda,H Goto,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,1.3,Japan,Erika Oda,H Goto,Yang Yu Xuan,2,0,,,,,,"",""
+ball,2,1.4,Japan,Erika Oda,H Goto,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,1.5,Japan,Erika Oda,H Goto,Yang Yu Xuan,1,0,,,,,,"",""
+ball,2,1.6,Japan,H Goto,Erika Oda,Yang Yu Xuan,1,0,,,,,,"",""
+ball,2,2.1,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,2.2,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,2.3,Japan,H Goto,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,2.4,Japan,H Goto,Erika Oda,Xu Qian,2,0,,,,,,"",""
+ball,2,2.5,Japan,H Goto,Erika Oda,Xu Qian,1,0,,,,,,"",""
+ball,2,2.6,Japan,Erika Oda,H Goto,Xu Qian,0,0,,,,,,"",""
+ball,2,3.1,Japan,H Goto,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,3.2,Japan,H Goto,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,3.3,Japan,H Goto,Erika Oda,Mengting Liu,0,0,,,,,,bowled,H Goto
+ball,2,3.4,Japan,S Kato,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,3.5,Japan,S Kato,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,3.6,Japan,S Kato,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,4.1,Japan,Erika Oda,S Kato,Xu Qian,4,0,,,,,,"",""
+ball,2,4.2,Japan,Erika Oda,S Kato,Xu Qian,1,0,,,,,,"",""
+ball,2,4.3,Japan,S Kato,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,4.4,Japan,S Kato,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,4.5,Japan,S Kato,Erika Oda,Xu Qian,0,0,,,,,,"",""
+ball,2,4.6,Japan,S Kato,Erika Oda,Xu Qian,1,0,,,,,,"",""
+ball,2,5.1,Japan,S Kato,Erika Oda,Mengting Liu,4,0,,,,,,"",""
+ball,2,5.2,Japan,S Kato,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,5.3,Japan,S Kato,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,5.4,Japan,S Kato,Erika Oda,Mengting Liu,2,0,,,,,,"",""
+ball,2,5.5,Japan,S Kato,Erika Oda,Mengting Liu,0,0,,,,,,"",""
+ball,2,5.6,Japan,S Kato,Erika Oda,Mengting Liu,4,0,,,,,,"",""
+ball,2,6.1,Japan,Erika Oda,S Kato,Zheng Lili,1,0,,,,,,"",""
+ball,2,6.2,Japan,S Kato,Erika Oda,Zheng Lili,0,0,,,,,,"",""
+ball,2,6.3,Japan,S Kato,Erika Oda,Zheng Lili,0,0,,,,,,"",""
+ball,2,6.4,Japan,S Kato,Erika Oda,Zheng Lili,0,0,,,,,,"",""
+ball,2,6.5,Japan,S Kato,Erika Oda,Zheng Lili,0,0,,,,,,"",""
+ball,2,6.6,Japan,S Kato,Erika Oda,Zheng Lili,0,0,,,,,,"",""
+ball,2,7.1,Japan,Erika Oda,S Kato,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,7.2,Japan,Erika Oda,S Kato,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,7.3,Japan,Erika Oda,S Kato,Yang Yu Xuan,1,0,,,,,,"",""
+ball,2,7.4,Japan,S Kato,Erika Oda,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,7.5,Japan,S Kato,Erika Oda,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,7.6,Japan,S Kato,Erika Oda,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,8.1,Japan,Erika Oda,S Kato,Zheng Lili,0,0,,,,,,"",""
+ball,2,8.2,Japan,Erika Oda,S Kato,Zheng Lili,4,0,,,,,,"",""
+ball,2,8.3,Japan,Erika Oda,S Kato,Zheng Lili,0,0,,,,,,"",""
+ball,2,8.4,Japan,Erika Oda,S Kato,Zheng Lili,1,0,,,,,,"",""
+ball,2,8.5,Japan,S Kato,Erika Oda,Zheng Lili,0,0,,,,,,"",""
+ball,2,8.6,Japan,S Kato,Erika Oda,Zheng Lili,2,0,,,,,,"",""
+ball,2,9.1,Japan,Erika Oda,S Kato,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,9.2,Japan,Erika Oda,S Kato,Yang Yu Xuan,1,0,,,,,,"",""
+ball,2,9.3,Japan,S Kato,Erika Oda,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,9.4,Japan,S Kato,Erika Oda,Yang Yu Xuan,4,0,,,,,,"",""
+ball,2,9.5,Japan,S Kato,Erika Oda,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,9.6,Japan,S Kato,Erika Oda,Yang Yu Xuan,0,0,,,,,,bowled,S Kato
+ball,2,10.1,Japan,Erika Oda,M Yanagida,M Zhu,4,0,,,,,,"",""
+ball,2,10.2,Japan,Erika Oda,M Yanagida,M Zhu,4,0,,,,,,"",""
+ball,2,10.3,Japan,Erika Oda,M Yanagida,M Zhu,0,0,,,,,,"",""
+ball,2,10.4,Japan,Erika Oda,M Yanagida,M Zhu,0,1,,,1,,,"",""
+ball,2,10.5,Japan,M Yanagida,Erika Oda,M Zhu,1,0,,,,,,"",""
+ball,2,10.6,Japan,Erika Oda,M Yanagida,M Zhu,1,0,,,,,,"",""
+ball,2,11.1,Japan,Erika Oda,M Yanagida,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,11.2,Japan,Erika Oda,M Yanagida,Yang Yu Xuan,2,0,,,,,,"",""
+ball,2,11.3,Japan,Erika Oda,M Yanagida,Yang Yu Xuan,0,0,,,,,,bowled,Erika Oda
+ball,2,11.4,Japan,H Iwasaki,M Yanagida,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,11.5,Japan,H Iwasaki,M Yanagida,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,11.6,Japan,H Iwasaki,M Yanagida,Yang Yu Xuan,0,0,,,,,,"",""
+ball,2,12.1,Japan,M Yanagida,H Iwasaki,Xu Qian,0,1,1,,,,,"",""
+ball,2,12.2,Japan,M Yanagida,H Iwasaki,Xu Qian,1,0,,,,,,"",""
+ball,2,12.3,Japan,H Iwasaki,M Yanagida,Xu Qian,1,0,,,,,,"",""
+ball,2,12.4,Japan,M Yanagida,H Iwasaki,Xu Qian,0,0,,,,,,"",""
+ball,2,12.5,Japan,M Yanagida,H Iwasaki,Xu Qian,2,0,,,,,,"",""
+ball,2,12.6,Japan,M Yanagida,H Iwasaki,Xu Qian,0,0,,,,,,bowled,M Yanagida
+ball,2,12.7,Japan,A Chandel,H Iwasaki,Xu Qian,0,0,,,,,,"",""
+ball,2,13.1,Japan,H Iwasaki,A Chandel,Zheng Lili,0,0,,,,,,"",""
+ball,2,13.2,Japan,H Iwasaki,A Chandel,Zheng Lili,0,0,,,,,,"",""
+ball,2,13.3,Japan,H Iwasaki,A Chandel,Zheng Lili,1,0,,,,,,"",""
+ball,2,13.4,Japan,A Chandel,H Iwasaki,Zheng Lili,0,0,,,,,,"",""
+ball,2,13.5,Japan,A Chandel,H Iwasaki,Zheng Lili,2,0,,,,,,"",""
+ball,2,13.6,Japan,A Chandel,H Iwasaki,Zheng Lili,0,0,,,,,,"",""
+ball,2,14.1,Japan,H Iwasaki,A Chandel,Mengting Liu,1,0,,,,,,"",""
+ball,2,14.2,Japan,A Chandel,H Iwasaki,Mengting Liu,0,0,,,,,,"",""
+ball,2,14.3,Japan,A Chandel,H Iwasaki,Mengting Liu,1,0,,,,,,"",""
+ball,2,14.4,Japan,H Iwasaki,A Chandel,Mengting Liu,0,0,,,,,,caught,H Iwasaki
+ball,2,14.5,Japan,K Ota,A Chandel,Mengting Liu,0,1,1,,,,,"",""
+ball,2,14.6,Japan,K Ota,A Chandel,Mengting Liu,0,0,,,,,,"",""
+ball,2,14.7,Japan,K Ota,A Chandel,Mengting Liu,0,0,,,,,,caught and bowled,K Ota
+ball,2,15.1,Japan,A Chandel,E Toguchi-Quinn,Zheng Lili,0,1,1,,,,,"",""
+ball,2,15.2,Japan,A Chandel,E Toguchi-Quinn,Zheng Lili,0,0,,,,,,"",""
+ball,2,15.3,Japan,A Chandel,E Toguchi-Quinn,Zheng Lili,0,0,,,,,,"",""
+ball,2,15.4,Japan,A Chandel,E Toguchi-Quinn,Zheng Lili,1,0,,,,,,"",""
+ball,2,15.5,Japan,E Toguchi-Quinn,A Chandel,Zheng Lili,0,0,,,,,,"",""
+ball,2,15.6,Japan,E Toguchi-Quinn,A Chandel,Zheng Lili,0,0,,,,,,"",""
+ball,2,15.7,Japan,E Toguchi-Quinn,A Chandel,Zheng Lili,1,0,,,,,,"",""
+ball,2,16.1,Japan,E Toguchi-Quinn,A Chandel,M Zhu,0,0,,,,,,"",""
+ball,2,16.2,Japan,E Toguchi-Quinn,A Chandel,M Zhu,0,0,,,,,,"",""
+ball,2,16.3,Japan,E Toguchi-Quinn,A Chandel,M Zhu,0,0,,,,,,"",""
+ball,2,16.4,Japan,E Toguchi-Quinn,A Chandel,M Zhu,0,0,,,,,,"",""
+ball,2,16.5,Japan,E Toguchi-Quinn,A Chandel,M Zhu,4,0,,,,,,"",""
+ball,2,16.6,Japan,E Toguchi-Quinn,A Chandel,M Zhu,1,0,,,,,,"",""
+ball,2,17.1,Japan,E Toguchi-Quinn,A Chandel,Mengting Liu,0,0,,,,,,"",""
+ball,2,17.2,Japan,E Toguchi-Quinn,A Chandel,Mengting Liu,0,0,,,,,,"",""
+ball,2,17.3,Japan,E Toguchi-Quinn,A Chandel,Mengting Liu,0,0,,,,,,"",""
+ball,2,17.4,Japan,E Toguchi-Quinn,A Chandel,Mengting Liu,1,0,,,,,,"",""
+ball,2,17.5,Japan,A Chandel,E Toguchi-Quinn,Mengting Liu,0,0,,,,,,"",""
+ball,2,17.6,Japan,A Chandel,E Toguchi-Quinn,Mengting Liu,1,0,,,,,,"",""
+ball,2,18.1,Japan,A Chandel,E Toguchi-Quinn,M Zhu,0,0,,,,,,"",""
+ball,2,18.2,Japan,A Chandel,E Toguchi-Quinn,M Zhu,0,0,,,,,,"",""
+ball,2,18.3,Japan,A Chandel,E Toguchi-Quinn,M Zhu,1,0,,,,,,"",""

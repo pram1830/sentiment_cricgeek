@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Uganda
+info,gender,male
+info,season,2022
+info,date,2022/07/11
+info,event,ICC Men's T20 World Cup Qualifier
+info,match_number,4
+info,venue,Bulawayo Athletic Club
+info,city,Bulawayo
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,DM Nakrani
+info,umpire,F Mutizwa
+info,umpire,I Chabi
+info,reserve_umpire,L Rusere
+info,match_referee,S Wadvalla
+info,winner,Uganda
+info,winner_wickets,2
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,KD Shah
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Haroon Arshad
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,SS McKechnie
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Mohammad Ghazanfar
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,RB Patel
+info,player,Uganda,K Waiswa
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,F Akankwasa
+info,player,Uganda,F Achelam
+info,player,Uganda,F Nsubuga
+info,player,Uganda,C Kyewuta
+info,player,Uganda,H Ssenyondo
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,F Akankwasa,0d0f0385
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,Haroon Arshad,be0f9ce9
+info,registry,people,I Chabi,5e39110e
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,KD Shah,d5ae21a2
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,Mohammad Ghazanfar,00321fff
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SS McKechnie,e6dd77bb
+info,registry,people,Shahid Wasif,2cc08c3c
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9
+ball,1,0.1,Hong Kong,Nizakat Khan,Aizaz Khan,C Kyewuta,2,0,,,,,,"",""
+ball,1,0.2,Hong Kong,Nizakat Khan,Aizaz Khan,C Kyewuta,1,0,,,,,,"",""
+ball,1,0.3,Hong Kong,Aizaz Khan,Nizakat Khan,C Kyewuta,0,1,1,,,,,"",""
+ball,1,0.4,Hong Kong,Aizaz Khan,Nizakat Khan,C Kyewuta,4,0,,,,,,"",""
+ball,1,0.5,Hong Kong,Aizaz Khan,Nizakat Khan,C Kyewuta,2,0,,,,,,"",""
+ball,1,0.6,Hong Kong,Aizaz Khan,Nizakat Khan,C Kyewuta,1,0,,,,,,"",""
+ball,1,0.7,Hong Kong,Nizakat Khan,Aizaz Khan,C Kyewuta,1,0,,,,,,"",""
+ball,1,1.1,Hong Kong,Nizakat Khan,Aizaz Khan,F Nsubuga,0,0,,,,,,lbw,Nizakat Khan
+ball,1,1.2,Hong Kong,Babar Hayat,Aizaz Khan,F Nsubuga,0,0,,,,,,"",""
+ball,1,1.3,Hong Kong,Babar Hayat,Aizaz Khan,F Nsubuga,0,0,,,,,,"",""
+ball,1,1.4,Hong Kong,Babar Hayat,Aizaz Khan,F Nsubuga,1,0,,,,,,"",""
+ball,1,1.5,Hong Kong,Aizaz Khan,Babar Hayat,F Nsubuga,0,0,,,,,,"",""
+ball,1,1.6,Hong Kong,Aizaz Khan,Babar Hayat,F Nsubuga,0,0,,,,,,"",""
+ball,1,2.1,Hong Kong,Babar Hayat,Aizaz Khan,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.2,Hong Kong,Babar Hayat,Aizaz Khan,C Kyewuta,1,0,,,,,,"",""
+ball,1,2.3,Hong Kong,Aizaz Khan,Babar Hayat,C Kyewuta,0,0,,,,,,caught,Aizaz Khan
+ball,1,2.4,Hong Kong,Babar Hayat,KD Shah,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.5,Hong Kong,Babar Hayat,KD Shah,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.6,Hong Kong,Babar Hayat,KD Shah,C Kyewuta,0,0,,,,,,"",""
+ball,1,3.1,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,0,0,,,,,,"",""
+ball,1,3.2,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,0,0,,,,,,"",""
+ball,1,3.3,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,1,0,,,,,,"",""
+ball,1,3.4,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,0,0,,,,,,"",""
+ball,1,3.5,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,0,0,,,,,,"",""
+ball,1,3.6,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,1,0,,,,,,"",""
+ball,1,4.1,Hong Kong,Babar Hayat,KD Shah,H Ssenyondo,0,0,,,,,,"",""
+ball,1,4.2,Hong Kong,Babar Hayat,KD Shah,H Ssenyondo,1,0,,,,,,"",""
+ball,1,4.3,Hong Kong,KD Shah,Babar Hayat,H Ssenyondo,0,0,,,,,,"",""
+ball,1,4.4,Hong Kong,KD Shah,Babar Hayat,H Ssenyondo,0,0,,,,,,"",""
+ball,1,4.5,Hong Kong,KD Shah,Babar Hayat,H Ssenyondo,1,0,,,,,,"",""
+ball,1,4.6,Hong Kong,Babar Hayat,KD Shah,H Ssenyondo,0,0,,,,,,"",""
+ball,1,5.1,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,0,0,,,,,,"",""
+ball,1,5.2,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,1,0,,,,,,"",""
+ball,1,5.3,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,0,0,,,,,,"",""
+ball,1,5.4,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,0,0,,,,,,"",""
+ball,1,5.5,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,1,0,,,,,,"",""
+ball,1,5.6,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,1,0,,,,,,"",""
+ball,1,6.1,Hong Kong,KD Shah,Babar Hayat,H Ssenyondo,1,0,,,,,,"",""
+ball,1,6.2,Hong Kong,Babar Hayat,KD Shah,H Ssenyondo,1,0,,,,,,"",""
+ball,1,6.3,Hong Kong,KD Shah,Babar Hayat,H Ssenyondo,1,0,,,,,,"",""
+ball,1,6.4,Hong Kong,Babar Hayat,KD Shah,H Ssenyondo,1,0,,,,,,"",""
+ball,1,6.5,Hong Kong,KD Shah,Babar Hayat,H Ssenyondo,1,0,,,,,,"",""
+ball,1,6.6,Hong Kong,Babar Hayat,KD Shah,H Ssenyondo,0,0,,,,,,"",""
+ball,1,7.1,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,0,0,,,,,,"",""
+ball,1,7.2,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,1,0,,,,,,"",""
+ball,1,7.3,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,0,0,,,,,,"",""
+ball,1,7.4,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,1,0,,,,,,"",""
+ball,1,7.5,Hong Kong,KD Shah,Babar Hayat,F Nsubuga,1,0,,,,,,"",""
+ball,1,7.6,Hong Kong,Babar Hayat,KD Shah,F Nsubuga,1,0,,,,,,"",""
+ball,1,8.1,Hong Kong,Babar Hayat,KD Shah,H Ssenyondo,0,0,,,,,,caught,Babar Hayat
+ball,1,8.2,Hong Kong,Zeeshan Ali,KD Shah,H Ssenyondo,0,0,,,,,,"",""
+ball,1,8.3,Hong Kong,Zeeshan Ali,KD Shah,H Ssenyondo,1,0,,,,,,"",""
+ball,1,8.4,Hong Kong,KD Shah,Zeeshan Ali,H Ssenyondo,1,0,,,,,,"",""
+ball,1,8.5,Hong Kong,Zeeshan Ali,KD Shah,H Ssenyondo,1,0,,,,,,"",""
+ball,1,8.6,Hong Kong,KD Shah,Zeeshan Ali,H Ssenyondo,0,0,,,,,,"",""
+ball,1,9.1,Hong Kong,Zeeshan Ali,KD Shah,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,9.2,Hong Kong,KD Shah,Zeeshan Ali,Riazat Ali Shah,0,1,1,,,,,"",""
+ball,1,9.3,Hong Kong,KD Shah,Zeeshan Ali,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,9.4,Hong Kong,Zeeshan Ali,KD Shah,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,9.5,Hong Kong,KD Shah,Zeeshan Ali,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,9.6,Hong Kong,KD Shah,Zeeshan Ali,Riazat Ali Shah,0,1,1,,,,,"",""
+ball,1,9.7,Hong Kong,KD Shah,Zeeshan Ali,Riazat Ali Shah,4,0,,,,,,"",""
+ball,1,9.8,Hong Kong,KD Shah,Zeeshan Ali,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,10.1,Hong Kong,KD Shah,Zeeshan Ali,H Ssenyondo,0,0,,,,,,"",""
+ball,1,10.2,Hong Kong,KD Shah,Zeeshan Ali,H Ssenyondo,1,0,,,,,,"",""
+ball,1,10.3,Hong Kong,Zeeshan Ali,KD Shah,H Ssenyondo,1,0,,,,,,"",""
+ball,1,10.4,Hong Kong,KD Shah,Zeeshan Ali,H Ssenyondo,0,0,,,,,,"",""
+ball,1,10.5,Hong Kong,KD Shah,Zeeshan Ali,H Ssenyondo,0,0,,,,,,"",""
+ball,1,10.6,Hong Kong,KD Shah,Zeeshan Ali,H Ssenyondo,1,0,,,,,,"",""
+ball,1,11.1,Hong Kong,KD Shah,Zeeshan Ali,F Akankwasa,4,0,,,,,,"",""
+ball,1,11.2,Hong Kong,KD Shah,Zeeshan Ali,F Akankwasa,1,0,,,,,,"",""
+ball,1,11.3,Hong Kong,Zeeshan Ali,KD Shah,F Akankwasa,1,0,,,,,,"",""
+ball,1,11.4,Hong Kong,KD Shah,Zeeshan Ali,F Akankwasa,1,0,,,,,,"",""
+ball,1,11.5,Hong Kong,Zeeshan Ali,KD Shah,F Akankwasa,0,0,,,,,,"",""
+ball,1,11.6,Hong Kong,Zeeshan Ali,KD Shah,F Akankwasa,2,0,,,,,,"",""
+ball,1,12.1,Hong Kong,KD Shah,Zeeshan Ali,DM Nakrani,0,0,,,,,,"",""
+ball,1,12.2,Hong Kong,KD Shah,Zeeshan Ali,DM Nakrani,1,0,,,,,,"",""
+ball,1,12.3,Hong Kong,Zeeshan Ali,KD Shah,DM Nakrani,1,0,,,,,,"",""
+ball,1,12.4,Hong Kong,KD Shah,Zeeshan Ali,DM Nakrani,1,0,,,,,,"",""
+ball,1,12.5,Hong Kong,Zeeshan Ali,KD Shah,DM Nakrani,0,0,,,,,,"",""
+ball,1,12.6,Hong Kong,Zeeshan Ali,KD Shah,DM Nakrani,0,0,,,,,,"",""
+ball,1,13.1,Hong Kong,KD Shah,Zeeshan Ali,C Kyewuta,0,0,,,,,,"",""
+ball,1,13.2,Hong Kong,KD Shah,Zeeshan Ali,C Kyewuta,1,0,,,,,,"",""
+ball,1,13.3,Hong Kong,Zeeshan Ali,KD Shah,C Kyewuta,1,0,,,,,,"",""
+ball,1,13.4,Hong Kong,KD Shah,Zeeshan Ali,C Kyewuta,1,0,,,,,,"",""
+ball,1,13.5,Hong Kong,Zeeshan Ali,KD Shah,C Kyewuta,1,0,,,,,,"",""
+ball,1,13.6,Hong Kong,KD Shah,Zeeshan Ali,C Kyewuta,1,0,,,,,,"",""
+ball,1,14.1,Hong Kong,KD Shah,Zeeshan Ali,DM Nakrani,0,0,,,,,,"",""
+ball,1,14.2,Hong Kong,KD Shah,Zeeshan Ali,DM Nakrani,1,0,,,,,,"",""
+ball,1,14.3,Hong Kong,Zeeshan Ali,KD Shah,DM Nakrani,0,0,,,,,,caught,Zeeshan Ali
+ball,1,14.4,Hong Kong,KD Shah,Haroon Arshad,DM Nakrani,1,0,,,,,,"",""
+ball,1,14.5,Hong Kong,Haroon Arshad,KD Shah,DM Nakrani,1,0,,,,,,"",""
+ball,1,14.6,Hong Kong,KD Shah,Haroon Arshad,DM Nakrani,1,0,,,,,,"",""
+ball,1,15.1,Hong Kong,KD Shah,Haroon Arshad,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,15.2,Hong Kong,Haroon Arshad,KD Shah,Riazat Ali Shah,0,0,,,,,,bowled,Haroon Arshad
+ball,1,15.3,Hong Kong,Yasim Murtaza,KD Shah,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,15.4,Hong Kong,KD Shah,Yasim Murtaza,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,15.5,Hong Kong,Yasim Murtaza,KD Shah,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,15.6,Hong Kong,KD Shah,Yasim Murtaza,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,16.1,Hong Kong,KD Shah,Yasim Murtaza,DM Nakrani,1,0,,,,,,"",""
+ball,1,16.2,Hong Kong,Yasim Murtaza,KD Shah,DM Nakrani,1,0,,,,,,"",""
+ball,1,16.3,Hong Kong,KD Shah,Yasim Murtaza,DM Nakrani,1,0,,,,,,"",""
+ball,1,16.4,Hong Kong,Yasim Murtaza,KD Shah,DM Nakrani,0,0,,,,,,"",""
+ball,1,16.5,Hong Kong,Yasim Murtaza,KD Shah,DM Nakrani,0,0,,,,,,lbw,Yasim Murtaza
+ball,1,16.6,Hong Kong,Ehsan Khan,KD Shah,DM Nakrani,0,0,,,,,,"",""
+ball,1,17.1,Hong Kong,KD Shah,Ehsan Khan,C Kyewuta,0,0,,,,,,caught,KD Shah
+ball,1,17.2,Hong Kong,SS McKechnie,Ehsan Khan,C Kyewuta,0,1,,,,1,,"",""
+ball,1,17.3,Hong Kong,Ehsan Khan,SS McKechnie,C Kyewuta,1,0,,,,,,"",""
+ball,1,17.4,Hong Kong,SS McKechnie,Ehsan Khan,C Kyewuta,1,0,,,,,,"",""
+ball,1,17.5,Hong Kong,Ehsan Khan,SS McKechnie,C Kyewuta,1,0,,,,,,"",""
+ball,1,17.6,Hong Kong,SS McKechnie,Ehsan Khan,C Kyewuta,0,1,,,,1,,"",""
+ball,1,18.1,Hong Kong,SS McKechnie,Ehsan Khan,DM Nakrani,0,0,,,,,,"",""
+ball,1,18.2,Hong Kong,SS McKechnie,Ehsan Khan,DM Nakrani,0,0,,,,,,"",""
+ball,1,18.3,Hong Kong,SS McKechnie,Ehsan Khan,DM Nakrani,1,0,,,,,,"",""
+ball,1,18.4,Hong Kong,Ehsan Khan,SS McKechnie,DM Nakrani,1,0,,,,,,"",""
+ball,1,18.5,Hong Kong,SS McKechnie,Ehsan Khan,DM Nakrani,0,0,,,,,,bowled,SS McKechnie
+ball,1,18.6,Hong Kong,A Shukla,Ehsan Khan,DM Nakrani,0,0,,,,,,bowled,A Shukla
+ball,1,19.1,Hong Kong,Ehsan Khan,Mohammad Ghazanfar,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,19.2,Hong Kong,Mohammad Ghazanfar,Ehsan Khan,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,19.3,Hong Kong,Ehsan Khan,Mohammad Ghazanfar,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,19.4,Hong Kong,Mohammad Ghazanfar,Ehsan Khan,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,19.5,Hong Kong,Mohammad Ghazanfar,Ehsan Khan,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,19.6,Hong Kong,Ehsan Khan,Mohammad Ghazanfar,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,0.1,Uganda,RG Mukasa,S Sesazi,Aizaz Khan,1,0,,,,,,"",""
+ball,2,0.2,Uganda,S Sesazi,RG Mukasa,Aizaz Khan,0,0,,,,,,lbw,S Sesazi
+ball,2,0.3,Uganda,RB Patel,RG Mukasa,Aizaz Khan,4,0,,,,,,"",""
+ball,2,0.4,Uganda,RB Patel,RG Mukasa,Aizaz Khan,2,0,,,,,,"",""
+ball,2,0.5,Uganda,RB Patel,RG Mukasa,Aizaz Khan,0,0,,,,,,"",""
+ball,2,0.6,Uganda,RB Patel,RG Mukasa,Aizaz Khan,4,0,,,,,,"",""
+ball,2,1.1,Uganda,RG Mukasa,RB Patel,Ehsan Khan,0,0,,,,,,"",""
+ball,2,1.2,Uganda,RG Mukasa,RB Patel,Ehsan Khan,1,0,,,,,,"",""
+ball,2,1.3,Uganda,RB Patel,RG Mukasa,Ehsan Khan,0,1,1,,,,,"",""
+ball,2,1.4,Uganda,RB Patel,RG Mukasa,Ehsan Khan,4,0,,,,,,"",""
+ball,2,1.5,Uganda,RB Patel,RG Mukasa,Ehsan Khan,0,0,,,,,,"",""
+ball,2,1.6,Uganda,RB Patel,RG Mukasa,Ehsan Khan,0,0,,,,,,"",""
+ball,2,1.7,Uganda,RB Patel,RG Mukasa,Ehsan Khan,0,0,,,,,,"",""
+ball,2,2.1,Uganda,RG Mukasa,RB Patel,Aizaz Khan,4,0,,,,,,"",""
+ball,2,2.2,Uganda,RG Mukasa,RB Patel,Aizaz Khan,0,0,,,,,,"",""
+ball,2,2.3,Uganda,RG Mukasa,RB Patel,Aizaz Khan,0,0,,,,,,"",""
+ball,2,2.4,Uganda,RG Mukasa,RB Patel,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,2.5,Uganda,RG Mukasa,RB Patel,Aizaz Khan,0,0,,,,,,bowled,RG Mukasa
+ball,2,2.6,Uganda,K Waiswa,RB Patel,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,2.7,Uganda,K Waiswa,RB Patel,Aizaz Khan,0,0,,,,,,bowled,K Waiswa
+ball,2,2.8,Uganda,Riazat Ali Shah,RB Patel,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,2.9,Uganda,Riazat Ali Shah,RB Patel,Aizaz Khan,0,0,,,,,,"",""
+ball,2,3.1,Uganda,RB Patel,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,3.2,Uganda,RB Patel,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,3.3,Uganda,RB Patel,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,3.4,Uganda,RB Patel,Riazat Ali Shah,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,3.5,Uganda,Riazat Ali Shah,RB Patel,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,3.6,Uganda,Riazat Ali Shah,RB Patel,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,4.1,Uganda,RB Patel,Riazat Ali Shah,Aizaz Khan,0,0,,,,,,"",""
+ball,2,4.2,Uganda,RB Patel,Riazat Ali Shah,Aizaz Khan,0,0,,,,,,"",""
+ball,2,4.3,Uganda,RB Patel,Riazat Ali Shah,Aizaz Khan,0,0,,,,,,"",""
+ball,2,4.4,Uganda,RB Patel,Riazat Ali Shah,Aizaz Khan,0,0,,,,,,"",""
+ball,2,4.5,Uganda,RB Patel,Riazat Ali Shah,Aizaz Khan,1,0,,,,,,run out,RB Patel
+ball,2,4.6,Uganda,DM Nakrani,Riazat Ali Shah,Aizaz Khan,0,0,,,,,,"",""
+ball,2,5.1,Uganda,Riazat Ali Shah,DM Nakrani,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,5.2,Uganda,Riazat Ali Shah,DM Nakrani,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,5.3,Uganda,DM Nakrani,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,5.4,Uganda,DM Nakrani,Riazat Ali Shah,Yasim Murtaza,6,0,,,,,,"",""
+ball,2,5.5,Uganda,DM Nakrani,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,5.6,Uganda,DM Nakrani,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,6.1,Uganda,Riazat Ali Shah,DM Nakrani,Ehsan Khan,1,0,,,,,,"",""
+ball,2,6.2,Uganda,DM Nakrani,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,6.3,Uganda,DM Nakrani,Riazat Ali Shah,Ehsan Khan,1,0,,,,,,"",""
+ball,2,6.4,Uganda,Riazat Ali Shah,DM Nakrani,Ehsan Khan,1,0,,,,,,"",""
+ball,2,6.5,Uganda,DM Nakrani,Riazat Ali Shah,Ehsan Khan,4,0,,,,,,"",""
+ball,2,6.6,Uganda,DM Nakrani,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,bowled,DM Nakrani
+ball,2,7.1,Uganda,Riazat Ali Shah,F Akankwasa,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,7.2,Uganda,Riazat Ali Shah,F Akankwasa,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.3,Uganda,F Akankwasa,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,7.4,Uganda,F Akankwasa,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,7.5,Uganda,F Akankwasa,Riazat Ali Shah,Yasim Murtaza,4,0,,,,,,"",""
+ball,2,7.6,Uganda,F Akankwasa,Riazat Ali Shah,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,8.1,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,2,8.2,Uganda,Riazat Ali Shah,F Akankwasa,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,8.3,Uganda,Riazat Ali Shah,F Akankwasa,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,8.4,Uganda,Riazat Ali Shah,F Akankwasa,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,2,8.5,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,8.6,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,9.1,Uganda,Riazat Ali Shah,F Akankwasa,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,9.2,Uganda,F Akankwasa,Riazat Ali Shah,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,9.3,Uganda,F Akankwasa,Riazat Ali Shah,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,9.4,Uganda,Riazat Ali Shah,F Akankwasa,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,9.5,Uganda,Riazat Ali Shah,F Akankwasa,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,9.6,Uganda,Riazat Ali Shah,F Akankwasa,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,10.1,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,10.2,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,10.3,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,10.4,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,10.5,Uganda,F Akankwasa,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,bowled,F Akankwasa
+ball,2,10.6,Uganda,F Achelam,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,11.1,Uganda,Riazat Ali Shah,F Achelam,Ehsan Khan,1,0,,,,,,"",""
+ball,2,11.2,Uganda,F Achelam,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,11.3,Uganda,F Achelam,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,11.4,Uganda,F Achelam,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,11.5,Uganda,F Achelam,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,11.6,Uganda,F Achelam,Riazat Ali Shah,Ehsan Khan,0,1,1,,,,,"",""
+ball,2,11.7,Uganda,F Achelam,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,12.1,Uganda,Riazat Ali Shah,F Achelam,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,12.2,Uganda,Riazat Ali Shah,F Achelam,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,12.3,Uganda,Riazat Ali Shah,F Achelam,Mohammad Ghazanfar,2,0,,,,,,"",""
+ball,2,12.4,Uganda,Riazat Ali Shah,F Achelam,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,2,12.5,Uganda,F Achelam,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,12.6,Uganda,F Achelam,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,13.1,Uganda,Riazat Ali Shah,F Achelam,Haroon Arshad,1,0,,,,,,"",""
+ball,2,13.2,Uganda,F Achelam,Riazat Ali Shah,Haroon Arshad,0,0,,,,,,"",""
+ball,2,13.3,Uganda,F Achelam,Riazat Ali Shah,Haroon Arshad,1,0,,,,,,"",""
+ball,2,13.4,Uganda,Riazat Ali Shah,F Achelam,Haroon Arshad,0,0,,,,,,"",""
+ball,2,13.5,Uganda,Riazat Ali Shah,F Achelam,Haroon Arshad,0,0,,,,,,"",""
+ball,2,13.6,Uganda,Riazat Ali Shah,F Achelam,Haroon Arshad,1,0,,,,,,"",""
+ball,2,14.1,Uganda,Riazat Ali Shah,F Achelam,Mohammad Ghazanfar,4,0,,,,,,"",""
+ball,2,14.2,Uganda,Riazat Ali Shah,F Achelam,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,2,14.3,Uganda,F Achelam,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,lbw,F Achelam
+ball,2,14.4,Uganda,F Nsubuga,Riazat Ali Shah,Mohammad Ghazanfar,2,0,,,,,,"",""
+ball,2,14.5,Uganda,F Nsubuga,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,14.6,Uganda,F Nsubuga,Riazat Ali Shah,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,2,15.1,Uganda,Riazat Ali Shah,F Nsubuga,Haroon Arshad,4,0,,,,,,"",""
+ball,2,15.2,Uganda,Riazat Ali Shah,F Nsubuga,Haroon Arshad,0,0,,,,,,"",""
+ball,2,15.3,Uganda,Riazat Ali Shah,F Nsubuga,Haroon Arshad,0,0,,,,,,"",""
+ball,2,15.4,Uganda,Riazat Ali Shah,F Nsubuga,Haroon Arshad,1,0,,,,,,"",""
+ball,2,15.5,Uganda,F Nsubuga,Riazat Ali Shah,Haroon Arshad,1,0,,,,,,"",""
+ball,2,15.6,Uganda,Riazat Ali Shah,F Nsubuga,Haroon Arshad,1,0,,,,,,"",""
+ball,2,16.1,Uganda,Riazat Ali Shah,F Nsubuga,Ehsan Khan,0,0,,,,,,"",""
+ball,2,16.2,Uganda,Riazat Ali Shah,F Nsubuga,Ehsan Khan,1,0,,,,,,"",""
+ball,2,16.3,Uganda,F Nsubuga,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,16.4,Uganda,F Nsubuga,Riazat Ali Shah,Ehsan Khan,0,0,,,,,,"",""
+ball,2,16.5,Uganda,F Nsubuga,Riazat Ali Shah,Ehsan Khan,1,0,,,,,,"",""
+ball,2,16.6,Uganda,Riazat Ali Shah,F Nsubuga,Ehsan Khan,0,0,,,,,,"",""
+ball,2,17.1,Uganda,F Nsubuga,Riazat Ali Shah,KD Shah,0,0,,,,,,"",""
+ball,2,17.2,Uganda,F Nsubuga,Riazat Ali Shah,KD Shah,0,1,1,,,,,"",""
+ball,2,17.3,Uganda,F Nsubuga,Riazat Ali Shah,KD Shah,0,0,,,,,,"",""
+ball,2,17.4,Uganda,F Nsubuga,Riazat Ali Shah,KD Shah,4,0,,,,,,"",""
+ball,2,17.5,Uganda,F Nsubuga,Riazat Ali Shah,KD Shah,0,0,,,,,,"",""
+ball,2,17.6,Uganda,F Nsubuga,Riazat Ali Shah,KD Shah,1,0,,,,,,"",""
+ball,2,17.7,Uganda,Riazat Ali Shah,F Nsubuga,KD Shah,0,0,,,,,,"",""
+ball,2,18.1,Uganda,F Nsubuga,Riazat Ali Shah,Aizaz Khan,0,0,,,,,,"",""
+ball,2,18.2,Uganda,F Nsubuga,Riazat Ali Shah,Aizaz Khan,1,0,,,,,,"",""
+ball,2,18.3,Uganda,Riazat Ali Shah,F Nsubuga,Aizaz Khan,0,2,,,,2,,"",""
+ball,2,18.4,Uganda,Riazat Ali Shah,F Nsubuga,Aizaz Khan,2,0,,,,,,"",""
+ball,2,18.5,Uganda,Riazat Ali Shah,F Nsubuga,Aizaz Khan,0,0,,,,,,"",""
+ball,2,18.6,Uganda,Riazat Ali Shah,F Nsubuga,Aizaz Khan,0,0,,,,,,"",""
+ball,2,19.1,Uganda,F Nsubuga,Riazat Ali Shah,Haroon Arshad,0,0,,,,,,caught,F Nsubuga
+ball,2,19.2,Uganda,C Kyewuta,Riazat Ali Shah,Haroon Arshad,1,0,,,,,,"",""
+ball,2,19.3,Uganda,Riazat Ali Shah,C Kyewuta,Haroon Arshad,2,0,,,,,,"",""

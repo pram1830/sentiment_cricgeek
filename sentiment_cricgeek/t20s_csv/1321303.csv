@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Switzerland
+info,gender,male
+info,season,2022
+info,date,2022/07/31
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,venue,Tikkurila Cricket Ground
+info,city,Vantaa
+info,toss_winner,Luxembourg
+info,toss_decision,bat
+info,player_of_match,Jai Sinh
+info,umpire,S Fernando
+info,umpire,S Kuchimanchi
+info,reserve_umpire,J Jensen
+info,match_referee,K Gallagher
+info,winner,Luxembourg
+info,winner_runs,7
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Atif Kamal
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,S Kushretha
+info,player,Luxembourg,P Malav
+info,player,Luxembourg,A Dhingra
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Noorkhan Ahmedi
+info,player,Switzerland,Jai Sinh
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Azeem Nazir
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,Sathya Narayanan
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,K Fletcher
+info,player,Switzerland,Ashwin Vinod
+info,registry,people,A Dhingra,753ada66
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,Atif Kamal,f8bd71c9
+info,registry,people,Azeem Nazir,9f3f532a
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Mees,ab1445ea
+info,registry,people,Jai Sinh,10ae134c
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,K Gallagher,704afd47
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Noorkhan Ahmedi,b5417394
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,P Malav,02b078b1
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Kuchimanchi,b0cad015
+info,registry,people,S Kushretha,4e3fd330
+info,registry,people,SKS Gill,faef026c
+info,registry,people,Sathya Narayanan,8ae49076
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+info,registry,people,WJ Cope,fb34b0ec
+ball,1,0.1,Luxembourg,TC Barker,WJ Cope,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,0.2,Luxembourg,TC Barker,WJ Cope,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,0.3,Luxembourg,TC Barker,WJ Cope,Ashwin Vinod,0,0,,,,,,caught,TC Barker
+ball,1,0.4,Luxembourg,J Mees,WJ Cope,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,0.5,Luxembourg,J Mees,WJ Cope,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,0.6,Luxembourg,J Mees,WJ Cope,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,1.1,Luxembourg,WJ Cope,J Mees,K Fletcher,0,0,,,,,,caught,WJ Cope
+ball,1,1.2,Luxembourg,SKS Gill,J Mees,K Fletcher,0,0,,,,,,"",""
+ball,1,1.3,Luxembourg,SKS Gill,J Mees,K Fletcher,0,0,,,,,,"",""
+ball,1,1.4,Luxembourg,SKS Gill,J Mees,K Fletcher,0,0,,,,,,"",""
+ball,1,1.5,Luxembourg,SKS Gill,J Mees,K Fletcher,0,0,,,,,,"",""
+ball,1,1.6,Luxembourg,SKS Gill,J Mees,K Fletcher,0,0,,,,,,"",""
+ball,1,2.1,Luxembourg,J Mees,SKS Gill,Ashwin Vinod,2,0,,,,,,"",""
+ball,1,2.2,Luxembourg,J Mees,SKS Gill,Ashwin Vinod,4,0,,,,,,"",""
+ball,1,2.3,Luxembourg,J Mees,SKS Gill,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,2.4,Luxembourg,SKS Gill,J Mees,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,2.5,Luxembourg,J Mees,SKS Gill,Ashwin Vinod,4,0,,,,,,"",""
+ball,1,2.6,Luxembourg,J Mees,SKS Gill,Ashwin Vinod,0,0,,,,,,caught,J Mees
+ball,1,3.1,Luxembourg,SKS Gill,J Barker,K Fletcher,0,0,,,,,,"",""
+ball,1,3.2,Luxembourg,SKS Gill,J Barker,K Fletcher,0,0,,,,,,"",""
+ball,1,3.3,Luxembourg,SKS Gill,J Barker,K Fletcher,4,0,,,,,,"",""
+ball,1,3.4,Luxembourg,SKS Gill,J Barker,K Fletcher,0,0,,,,,,"",""
+ball,1,3.5,Luxembourg,SKS Gill,J Barker,K Fletcher,4,0,,,,,,"",""
+ball,1,3.6,Luxembourg,SKS Gill,J Barker,K Fletcher,0,0,,,,,,"",""
+ball,1,4.1,Luxembourg,J Barker,SKS Gill,Ashwin Vinod,0,1,1,,,,,"",""
+ball,1,4.2,Luxembourg,J Barker,SKS Gill,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,4.3,Luxembourg,J Barker,SKS Gill,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,4.4,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,4.5,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,4.6,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,4.7,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,5.1,Luxembourg,J Barker,SKS Gill,K Fletcher,0,0,,,,,,"",""
+ball,1,5.2,Luxembourg,J Barker,SKS Gill,K Fletcher,1,0,,,,,,"",""
+ball,1,5.3,Luxembourg,SKS Gill,J Barker,K Fletcher,4,0,,,,,,"",""
+ball,1,5.4,Luxembourg,SKS Gill,J Barker,K Fletcher,4,0,,,,,,"",""
+ball,1,5.5,Luxembourg,SKS Gill,J Barker,K Fletcher,0,0,,,,,,"",""
+ball,1,5.6,Luxembourg,SKS Gill,J Barker,K Fletcher,0,2,,,,2,,"",""
+ball,1,6.1,Luxembourg,J Barker,SKS Gill,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,6.2,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,2,0,,,,,,"",""
+ball,1,6.3,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,1,1,,,,,"",""
+ball,1,6.4,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,6.5,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,6.6,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,6.7,Luxembourg,SKS Gill,J Barker,Ashwin Vinod,4,0,,,,,,"",""
+ball,1,7.1,Luxembourg,J Barker,SKS Gill,Faheem Nazir,0,0,,,,,,"",""
+ball,1,7.2,Luxembourg,J Barker,SKS Gill,Faheem Nazir,1,0,,,,,,"",""
+ball,1,7.3,Luxembourg,SKS Gill,J Barker,Faheem Nazir,0,0,,,,,,caught,SKS Gill
+ball,1,7.4,Luxembourg,V Vijh,J Barker,Faheem Nazir,0,1,1,,,,,"",""
+ball,1,7.5,Luxembourg,V Vijh,J Barker,Faheem Nazir,0,0,,,,,,"",""
+ball,1,7.6,Luxembourg,V Vijh,J Barker,Faheem Nazir,0,0,,,,,,"",""
+ball,1,7.7,Luxembourg,V Vijh,J Barker,Faheem Nazir,0,0,,,,,,"",""
+ball,1,8.1,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,1,,1,,,,"",""
+ball,1,8.2,Luxembourg,J Barker,V Vijh,Ali Nayyer,4,0,,,,,,"",""
+ball,1,8.3,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,8.4,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,8.5,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,8.6,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,1,1,,,,,"",""
+ball,1,8.7,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,8.8,Luxembourg,J Barker,V Vijh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,9.1,Luxembourg,J Barker,V Vijh,Faheem Nazir,0,1,1,,,,,"",""
+ball,1,9.2,Luxembourg,J Barker,V Vijh,Faheem Nazir,0,0,,,,,,"",""
+ball,1,9.3,Luxembourg,J Barker,V Vijh,Faheem Nazir,0,0,,,,,,"",""
+ball,1,9.4,Luxembourg,J Barker,V Vijh,Faheem Nazir,0,0,,,,,,"",""
+ball,1,9.5,Luxembourg,J Barker,V Vijh,Faheem Nazir,1,0,,,,,,"",""
+ball,1,9.6,Luxembourg,V Vijh,J Barker,Faheem Nazir,0,0,,,,,,"",""
+ball,1,9.7,Luxembourg,V Vijh,J Barker,Faheem Nazir,0,0,,,,,,"",""
+ball,1,10.1,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,10.2,Luxembourg,J Barker,V Vijh,Ali Nayyer,4,0,,,,,,"",""
+ball,1,10.3,Luxembourg,J Barker,V Vijh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,10.4,Luxembourg,J Barker,V Vijh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,10.5,Luxembourg,V Vijh,J Barker,Ali Nayyer,1,0,,,,,,"",""
+ball,1,10.6,Luxembourg,J Barker,V Vijh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,11.1,Luxembourg,J Barker,V Vijh,Jai Sinh,2,0,,,,,,"",""
+ball,1,11.2,Luxembourg,J Barker,V Vijh,Jai Sinh,1,0,,,,,,"",""
+ball,1,11.3,Luxembourg,V Vijh,J Barker,Jai Sinh,0,0,,,,,,"",""
+ball,1,11.4,Luxembourg,V Vijh,J Barker,Jai Sinh,1,0,,,,,,"",""
+ball,1,11.5,Luxembourg,J Barker,V Vijh,Jai Sinh,0,1,1,,,,,"",""
+ball,1,11.6,Luxembourg,J Barker,V Vijh,Jai Sinh,0,0,,,,,,caught,J Barker
+ball,1,11.7,Luxembourg,Atif Kamal,V Vijh,Jai Sinh,0,0,,,,,,"",""
+ball,1,12.1,Luxembourg,V Vijh,Atif Kamal,Ali Nayyer,0,1,,1,,,,"",""
+ball,1,12.2,Luxembourg,V Vijh,Atif Kamal,Ali Nayyer,1,0,,,,,,"",""
+ball,1,12.3,Luxembourg,Atif Kamal,V Vijh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,12.4,Luxembourg,V Vijh,Atif Kamal,Ali Nayyer,0,0,,,,,,"",""
+ball,1,12.5,Luxembourg,V Vijh,Atif Kamal,Ali Nayyer,1,0,,,,,,"",""
+ball,1,12.6,Luxembourg,Atif Kamal,V Vijh,Ali Nayyer,6,0,,,,,,"",""
+ball,1,12.7,Luxembourg,Atif Kamal,V Vijh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,13.1,Luxembourg,V Vijh,Atif Kamal,Jai Sinh,1,0,,,,,,"",""
+ball,1,13.2,Luxembourg,Atif Kamal,V Vijh,Jai Sinh,1,0,,,,,,"",""
+ball,1,13.3,Luxembourg,V Vijh,Atif Kamal,Jai Sinh,0,0,,,,,,"",""
+ball,1,13.4,Luxembourg,V Vijh,Atif Kamal,Jai Sinh,1,0,,,,,,"",""
+ball,1,13.5,Luxembourg,Atif Kamal,V Vijh,Jai Sinh,4,0,,,,,,"",""
+ball,1,13.6,Luxembourg,Atif Kamal,V Vijh,Jai Sinh,0,0,,,,,,caught,Atif Kamal
+ball,1,14.1,Luxembourg,Anoop Orsu,V Vijh,Osama Mahmood,0,0,,,,,,"",""
+ball,1,14.2,Luxembourg,Anoop Orsu,V Vijh,Osama Mahmood,0,0,,,,,,"",""
+ball,1,14.3,Luxembourg,Anoop Orsu,V Vijh,Osama Mahmood,0,0,,,,,,"",""
+ball,1,14.4,Luxembourg,Anoop Orsu,V Vijh,Osama Mahmood,0,0,,,,,,"",""
+ball,1,14.5,Luxembourg,Anoop Orsu,V Vijh,Osama Mahmood,0,1,,,,1,,"",""
+ball,1,14.6,Luxembourg,V Vijh,Anoop Orsu,Osama Mahmood,0,0,,,,,,"",""
+ball,1,15.1,Luxembourg,Anoop Orsu,V Vijh,Jai Sinh,1,0,,,,,,"",""
+ball,1,15.2,Luxembourg,V Vijh,Anoop Orsu,Jai Sinh,2,0,,,,,,"",""
+ball,1,15.3,Luxembourg,V Vijh,Anoop Orsu,Jai Sinh,0,0,,,,,,"",""
+ball,1,15.4,Luxembourg,V Vijh,Anoop Orsu,Jai Sinh,0,0,,,,,,caught,V Vijh
+ball,1,15.5,Luxembourg,Anoop Orsu,S Kushretha,Jai Sinh,0,0,,,,,,"",""
+ball,1,15.6,Luxembourg,Anoop Orsu,S Kushretha,Jai Sinh,4,0,,,,,,"",""
+ball,1,16.1,Luxembourg,S Kushretha,Anoop Orsu,Osama Mahmood,0,1,1,,,,,"",""
+ball,1,16.2,Luxembourg,S Kushretha,Anoop Orsu,Osama Mahmood,1,0,,,,,,"",""
+ball,1,16.3,Luxembourg,Anoop Orsu,S Kushretha,Osama Mahmood,1,0,,,,,,"",""
+ball,1,16.4,Luxembourg,S Kushretha,Anoop Orsu,Osama Mahmood,1,0,,,,,,"",""
+ball,1,16.5,Luxembourg,Anoop Orsu,S Kushretha,Osama Mahmood,0,0,,,,,,"",""
+ball,1,16.6,Luxembourg,Anoop Orsu,S Kushretha,Osama Mahmood,6,0,,,,,,"",""
+ball,1,16.7,Luxembourg,Anoop Orsu,S Kushretha,Osama Mahmood,0,1,,,,1,,"",""
+ball,1,17.1,Luxembourg,Anoop Orsu,S Kushretha,K Fletcher,0,0,,,,,,"",""
+ball,1,17.2,Luxembourg,Anoop Orsu,S Kushretha,K Fletcher,1,0,,,,,,"",""
+ball,1,17.3,Luxembourg,S Kushretha,Anoop Orsu,K Fletcher,0,0,,,,,,"",""
+ball,1,17.4,Luxembourg,S Kushretha,Anoop Orsu,K Fletcher,0,0,,,,,,"",""
+ball,1,17.5,Luxembourg,S Kushretha,Anoop Orsu,K Fletcher,1,0,,,,,,"",""
+ball,1,17.6,Luxembourg,Anoop Orsu,S Kushretha,K Fletcher,1,0,,,,,,"",""
+ball,1,18.1,Luxembourg,Anoop Orsu,S Kushretha,Ali Nayyer,1,0,,,,,,"",""
+ball,1,18.2,Luxembourg,S Kushretha,Anoop Orsu,Ali Nayyer,1,0,,,,,,"",""
+ball,1,18.3,Luxembourg,Anoop Orsu,S Kushretha,Ali Nayyer,1,0,,,,,,"",""
+ball,1,18.4,Luxembourg,S Kushretha,Anoop Orsu,Ali Nayyer,0,0,,,,,,"",""
+ball,1,18.5,Luxembourg,S Kushretha,Anoop Orsu,Ali Nayyer,4,0,,,,,,"",""
+ball,1,18.6,Luxembourg,S Kushretha,Anoop Orsu,Ali Nayyer,1,0,,,,,,"",""
+ball,1,19.1,Luxembourg,S Kushretha,Anoop Orsu,Jai Sinh,1,0,,,,,,"",""
+ball,1,19.2,Luxembourg,Anoop Orsu,S Kushretha,Jai Sinh,1,0,,,,,,"",""
+ball,1,19.3,Luxembourg,S Kushretha,Anoop Orsu,Jai Sinh,1,0,,,,,,"",""
+ball,1,19.4,Luxembourg,Anoop Orsu,S Kushretha,Jai Sinh,1,0,,,,,,"",""
+ball,1,19.5,Luxembourg,S Kushretha,Anoop Orsu,Jai Sinh,0,0,,,,,,bowled,S Kushretha
+ball,1,19.6,Luxembourg,P Malav,Anoop Orsu,Jai Sinh,0,0,,,,,,caught,P Malav
+ball,2,0.1,Switzerland,Osama Mahmood,Noorkhan Ahmedi,S Kushretha,0,0,,,,,,bowled,Osama Mahmood
+ball,2,0.2,Switzerland,Jai Sinh,Noorkhan Ahmedi,S Kushretha,0,0,,,,,,"",""
+ball,2,0.3,Switzerland,Jai Sinh,Noorkhan Ahmedi,S Kushretha,0,0,,,,,,"",""
+ball,2,0.4,Switzerland,Jai Sinh,Noorkhan Ahmedi,S Kushretha,0,0,,,,,,"",""
+ball,2,0.5,Switzerland,Jai Sinh,Noorkhan Ahmedi,S Kushretha,1,0,,,,,,"",""
+ball,2,0.6,Switzerland,Noorkhan Ahmedi,Jai Sinh,S Kushretha,0,0,,,,,,"",""
+ball,2,1.1,Switzerland,Jai Sinh,Noorkhan Ahmedi,P Malav,2,0,,,,,,"",""
+ball,2,1.2,Switzerland,Jai Sinh,Noorkhan Ahmedi,P Malav,1,0,,,,,,"",""
+ball,2,1.3,Switzerland,Noorkhan Ahmedi,Jai Sinh,P Malav,1,0,,,,,,"",""
+ball,2,1.4,Switzerland,Jai Sinh,Noorkhan Ahmedi,P Malav,0,0,,,,,,"",""
+ball,2,1.5,Switzerland,Jai Sinh,Noorkhan Ahmedi,P Malav,0,0,,,,,,"",""
+ball,2,1.6,Switzerland,Jai Sinh,Noorkhan Ahmedi,P Malav,1,0,,,,,,"",""
+ball,2,2.1,Switzerland,Jai Sinh,Noorkhan Ahmedi,Atif Kamal,1,0,,,,,,"",""
+ball,2,2.2,Switzerland,Noorkhan Ahmedi,Jai Sinh,Atif Kamal,0,0,,,,,,"",""
+ball,2,2.3,Switzerland,Noorkhan Ahmedi,Jai Sinh,Atif Kamal,4,0,,,,,,"",""
+ball,2,2.4,Switzerland,Noorkhan Ahmedi,Jai Sinh,Atif Kamal,6,0,,,,,,"",""
+ball,2,2.5,Switzerland,Noorkhan Ahmedi,Jai Sinh,Atif Kamal,0,0,,,,,,"",""
+ball,2,2.6,Switzerland,Noorkhan Ahmedi,Jai Sinh,Atif Kamal,2,0,,,,,,"",""
+ball,2,3.1,Switzerland,Jai Sinh,Noorkhan Ahmedi,P Malav,0,0,,,,,,bowled,Jai Sinh
+ball,2,3.2,Switzerland,Faheem Nazir,Noorkhan Ahmedi,P Malav,0,0,,,,,,"",""
+ball,2,3.3,Switzerland,Faheem Nazir,Noorkhan Ahmedi,P Malav,4,0,,,,,,"",""
+ball,2,3.4,Switzerland,Faheem Nazir,Noorkhan Ahmedi,P Malav,4,0,,,,,,"",""
+ball,2,3.5,Switzerland,Faheem Nazir,Noorkhan Ahmedi,P Malav,0,0,,,,,,caught,Faheem Nazir
+ball,2,3.6,Switzerland,Noorkhan Ahmedi,Arjun Vinod,P Malav,4,0,,,,,,"",""
+ball,2,4.1,Switzerland,Arjun Vinod,Noorkhan Ahmedi,S Kushretha,1,0,,,,,,"",""
+ball,2,4.2,Switzerland,Noorkhan Ahmedi,Arjun Vinod,S Kushretha,1,0,,,,,,"",""
+ball,2,4.3,Switzerland,Arjun Vinod,Noorkhan Ahmedi,S Kushretha,1,0,,,,,,"",""
+ball,2,4.4,Switzerland,Noorkhan Ahmedi,Arjun Vinod,S Kushretha,2,0,,,,,,"",""
+ball,2,4.5,Switzerland,Noorkhan Ahmedi,Arjun Vinod,S Kushretha,0,0,,,,,,bowled,Noorkhan Ahmedi
+ball,2,4.6,Switzerland,Azeem Nazir,Arjun Vinod,S Kushretha,0,0,,,,,,"",""
+ball,2,5.1,Switzerland,Arjun Vinod,Azeem Nazir,SKS Gill,0,0,,,,,,"",""
+ball,2,5.2,Switzerland,Arjun Vinod,Azeem Nazir,SKS Gill,0,0,,,,,,lbw,Arjun Vinod
+ball,2,5.3,Switzerland,Ali Nayyer,Azeem Nazir,SKS Gill,0,0,,,,,,"",""
+ball,2,5.4,Switzerland,Ali Nayyer,Azeem Nazir,SKS Gill,1,0,,,,,,"",""
+ball,2,5.5,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,0,0,,,,,,"",""
+ball,2,5.6,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,1,0,,,,,,"",""
+ball,2,6.1,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,1,0,,,,,,"",""
+ball,2,6.2,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,1,0,,,,,,"",""
+ball,2,6.3,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,1,0,,,,,,"",""
+ball,2,6.4,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,0,0,,,,,,"",""
+ball,2,6.5,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,1,0,,,,,,"",""
+ball,2,6.6,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,0,0,,,,,,"",""
+ball,2,7.1,Switzerland,Ali Nayyer,Azeem Nazir,SKS Gill,0,0,,,,,,"",""
+ball,2,7.2,Switzerland,Ali Nayyer,Azeem Nazir,SKS Gill,1,0,,,,,,"",""
+ball,2,7.3,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,4,1,,1,,,,"",""
+ball,2,7.4,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,0,0,,,,,,"",""
+ball,2,7.5,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,0,0,,,,,,"",""
+ball,2,7.6,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,0,0,,,,,,"",""
+ball,2,7.7,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,0,0,,,,,,"",""
+ball,2,8.1,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,2,0,,,,,,"",""
+ball,2,8.2,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,0,0,,,,,,"",""
+ball,2,8.3,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,0,0,,,,,,"",""
+ball,2,8.4,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,1,0,,,,,,"",""
+ball,2,8.5,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,0,0,,,,,,"",""
+ball,2,8.6,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,1,0,,,,,,"",""
+ball,2,9.1,Switzerland,Azeem Nazir,Ali Nayyer,A Dhingra,0,0,,,,,,"",""
+ball,2,9.2,Switzerland,Azeem Nazir,Ali Nayyer,A Dhingra,4,0,,,,,,"",""
+ball,2,9.3,Switzerland,Azeem Nazir,Ali Nayyer,A Dhingra,1,0,,,,,,"",""
+ball,2,9.4,Switzerland,Ali Nayyer,Azeem Nazir,A Dhingra,1,0,,,,,,"",""
+ball,2,9.5,Switzerland,Azeem Nazir,Ali Nayyer,A Dhingra,1,0,,,,,,"",""
+ball,2,9.6,Switzerland,Ali Nayyer,Azeem Nazir,A Dhingra,1,0,,,,,,"",""
+ball,2,10.1,Switzerland,Ali Nayyer,Azeem Nazir,S Kushretha,1,0,,,,,,"",""
+ball,2,10.2,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,2,0,,,,,,"",""
+ball,2,10.3,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,0,0,,,,,,"",""
+ball,2,10.4,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,0,0,,,,,,"",""
+ball,2,10.5,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,0,0,,,,,,"",""
+ball,2,10.6,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,4,0,,,,,,"",""
+ball,2,11.1,Switzerland,Ali Nayyer,Azeem Nazir,P Malav,1,0,,,,,,"",""
+ball,2,11.2,Switzerland,Azeem Nazir,Ali Nayyer,P Malav,0,0,,,,,,"",""
+ball,2,11.3,Switzerland,Azeem Nazir,Ali Nayyer,P Malav,1,0,,,,,,"",""
+ball,2,11.4,Switzerland,Ali Nayyer,Azeem Nazir,P Malav,0,0,,,,,,"",""
+ball,2,11.5,Switzerland,Ali Nayyer,Azeem Nazir,P Malav,1,0,,,,,,"",""
+ball,2,11.6,Switzerland,Azeem Nazir,Ali Nayyer,P Malav,0,0,,,,,,"",""
+ball,2,12.1,Switzerland,Ali Nayyer,Azeem Nazir,SKS Gill,1,0,,,,,,"",""
+ball,2,12.2,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,1,0,,,,,,"",""
+ball,2,12.3,Switzerland,Ali Nayyer,Azeem Nazir,SKS Gill,3,0,,,,,,"",""
+ball,2,12.4,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,2,0,,,,,,"",""
+ball,2,12.5,Switzerland,Azeem Nazir,Ali Nayyer,SKS Gill,1,0,,,,,,"",""
+ball,2,12.6,Switzerland,Ali Nayyer,Azeem Nazir,SKS Gill,0,0,,,,,,"",""
+ball,2,13.1,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,0,0,,,,,,"",""
+ball,2,13.2,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,4,0,,,,,,"",""
+ball,2,13.3,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,0,0,,,,,,"",""
+ball,2,13.4,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,0,0,,,,,,"",""
+ball,2,13.5,Switzerland,Azeem Nazir,Ali Nayyer,S Kushretha,1,0,,,,,,"",""
+ball,2,13.6,Switzerland,Ali Nayyer,Azeem Nazir,S Kushretha,0,0,,,,,,"",""
+ball,2,14.1,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,4,0,,,,,,"",""
+ball,2,14.2,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,0,0,,,,,,"",""
+ball,2,14.3,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,0,0,,,,,,"",""
+ball,2,14.4,Switzerland,Azeem Nazir,Ali Nayyer,V Vijh,1,0,,,,,,"",""
+ball,2,14.5,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,0,0,,,,,,"",""
+ball,2,14.6,Switzerland,Ali Nayyer,Azeem Nazir,V Vijh,0,0,,,,,,"",""
+ball,2,15.1,Switzerland,Azeem Nazir,Ali Nayyer,P Malav,1,0,,,,,,"",""
+ball,2,15.2,Switzerland,Ali Nayyer,Azeem Nazir,P Malav,0,0,,,,,,"",""
+ball,2,15.3,Switzerland,Ali Nayyer,Azeem Nazir,P Malav,1,0,,,,,,"",""
+ball,2,15.4,Switzerland,Azeem Nazir,Ali Nayyer,P Malav,0,0,,,,,,"",""
+ball,2,15.5,Switzerland,Azeem Nazir,Ali Nayyer,P Malav,0,0,,,,,,caught,Azeem Nazir
+ball,2,15.6,Switzerland,Ali Nayyer,Sathya Narayanan,P Malav,0,0,,,,,,"",""
+ball,2,16.1,Switzerland,Sathya Narayanan,Ali Nayyer,Atif Kamal,0,0,,,,,,"",""
+ball,2,16.2,Switzerland,Sathya Narayanan,Ali Nayyer,Atif Kamal,0,0,,,,,,run out,Sathya Narayanan
+ball,2,16.3,Switzerland,NK Aneesh Kumar,Ali Nayyer,Atif Kamal,1,0,,,,,,"",""
+ball,2,16.4,Switzerland,Ali Nayyer,NK Aneesh Kumar,Atif Kamal,1,0,,,,,,"",""
+ball,2,16.5,Switzerland,NK Aneesh Kumar,Ali Nayyer,Atif Kamal,0,0,,,,,,"",""
+ball,2,16.6,Switzerland,NK Aneesh Kumar,Ali Nayyer,Atif Kamal,1,0,,,,,,"",""
+ball,2,17.1,Switzerland,NK Aneesh Kumar,Ali Nayyer,SKS Gill,2,0,,,,,,"",""
+ball,2,17.2,Switzerland,NK Aneesh Kumar,Ali Nayyer,SKS Gill,1,0,,,,,,"",""
+ball,2,17.3,Switzerland,Ali Nayyer,NK Aneesh Kumar,SKS Gill,1,0,,,,,,"",""
+ball,2,17.4,Switzerland,NK Aneesh Kumar,Ali Nayyer,SKS Gill,0,0,,,,,,"",""
+ball,2,17.5,Switzerland,NK Aneesh Kumar,Ali Nayyer,SKS Gill,1,0,,,,,,"",""
+ball,2,17.6,Switzerland,Ali Nayyer,NK Aneesh Kumar,SKS Gill,1,0,,,,,,"",""
+ball,2,18.1,Switzerland,Ali Nayyer,NK Aneesh Kumar,V Vijh,6,0,,,,,,"",""
+ball,2,18.2,Switzerland,Ali Nayyer,NK Aneesh Kumar,V Vijh,0,0,,,,,,"",""
+ball,2,18.3,Switzerland,Ali Nayyer,NK Aneesh Kumar,V Vijh,2,0,,,,,,"",""
+ball,2,18.4,Switzerland,Ali Nayyer,NK Aneesh Kumar,V Vijh,0,0,,,,,,caught,Ali Nayyer
+ball,2,18.5,Switzerland,K Fletcher,NK Aneesh Kumar,V Vijh,0,0,,,,,,"",""
+ball,2,18.6,Switzerland,K Fletcher,NK Aneesh Kumar,V Vijh,0,0,,,,,,"",""
+ball,2,19.1,Switzerland,NK Aneesh Kumar,K Fletcher,A Dhingra,0,0,,,,,,"",""
+ball,2,19.2,Switzerland,NK Aneesh Kumar,K Fletcher,A Dhingra,1,0,,,,,,"",""
+ball,2,19.3,Switzerland,K Fletcher,NK Aneesh Kumar,A Dhingra,0,0,,,,,,"",""
+ball,2,19.4,Switzerland,K Fletcher,NK Aneesh Kumar,A Dhingra,0,0,,,,,,"",""
+ball,2,19.5,Switzerland,K Fletcher,NK Aneesh Kumar,A Dhingra,0,0,,,,,,run out,K Fletcher
+ball,2,19.6,Switzerland,Ashwin Vinod,NK Aneesh Kumar,A Dhingra,0,0,,,,,,bowled,Ashwin Vinod

@@ -1,0 +1,258 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Isle of Man
+info,team,Guernsey
+info,gender,male
+info,season,2020
+info,date,2020/08/21
+info,event,Isle of Man tour of Guernsey
+info,venue,College Field
+info,city,St Peter Port
+info,toss_winner,Isle of Man
+info,toss_decision,bat
+info,player_of_match,IDA Damarell
+info,umpire,C Brooks
+info,umpire,M Savage
+info,winner,Guernsey
+info,winner_wickets,8
+info,player,Isle of Man,A McAuley
+info,player,Isle of Man,N Knights
+info,player,Isle of Man,OJ Webster
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,C Hartmann
+info,player,Isle of Man,MJ Ansell
+info,player,Isle of Man,CJ Langford
+info,player,Isle of Man,JA Burrows
+info,player,Isle of Man,S Mills
+info,player,Isle of Man,C Liebenberg
+info,player,Isle of Man,J Butler
+info,player,Guernsey,LC Le Tissier
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,J Butler
+info,player,Guernsey,LB Ferbrache
+info,player,Guernsey,JC Martin
+info,player,Guernsey,LJ Barker
+info,player,Guernsey,LT Bichard
+info,player,Guernsey,ACF Stokes
+info,player,Guernsey,M Breban
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,W Peatfield
+info,registry,people,A McAuley,39e599c8
+info,registry,people,ACF Stokes,7f74b21d
+info,registry,people,C Brooks,53e855df
+info,registry,people,C Hartmann,467c28f9
+info,registry,people,C Liebenberg,83f0b848
+info,registry,people,CJ Langford,3967b66f
+info,registry,people,G Burrows,8bee668b
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Butler,efcb778e
+info,registry,people,JA Burrows,dba54d8e
+info,registry,people,JC Martin,63f3e7f2
+info,registry,people,LB Ferbrache,0f72f582
+info,registry,people,LC Le Tissier,c471750e
+info,registry,people,LJ Barker,da1f80f8
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Breban,52a0b3ed
+info,registry,people,M Savage,35cdede8
+info,registry,people,MJ Ansell,6e60a792
+info,registry,people,N Knights,b0aadf4f
+info,registry,people,OJ Webster,a69e2964
+info,registry,people,S Mills,86ac0262
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,W Peatfield,609d6c7c
+ball,1,0.1,Isle of Man,A McAuley,N Knights,ACF Stokes,0,0,,,,,,"",""
+ball,1,0.2,Isle of Man,A McAuley,N Knights,ACF Stokes,1,0,,,,,,"",""
+ball,1,0.3,Isle of Man,N Knights,A McAuley,ACF Stokes,0,0,,,,,,"",""
+ball,1,0.4,Isle of Man,N Knights,A McAuley,ACF Stokes,0,0,,,,,,"",""
+ball,1,0.5,Isle of Man,N Knights,A McAuley,ACF Stokes,4,0,,,,,,"",""
+ball,1,0.6,Isle of Man,N Knights,A McAuley,ACF Stokes,0,0,,,,,,"",""
+ball,1,1.1,Isle of Man,A McAuley,N Knights,W Peatfield,0,0,,,,,,"",""
+ball,1,1.2,Isle of Man,A McAuley,N Knights,W Peatfield,1,0,,,,,,"",""
+ball,1,1.3,Isle of Man,N Knights,A McAuley,W Peatfield,4,0,,,,,,"",""
+ball,1,1.4,Isle of Man,N Knights,A McAuley,W Peatfield,0,0,,,,,,"",""
+ball,1,1.5,Isle of Man,N Knights,A McAuley,W Peatfield,1,0,,,,,,"",""
+ball,1,1.6,Isle of Man,A McAuley,N Knights,W Peatfield,0,0,,,,,,"",""
+ball,1,2.1,Isle of Man,N Knights,A McAuley,M Breban,0,0,,,,,,"",""
+ball,1,2.2,Isle of Man,N Knights,A McAuley,M Breban,0,0,,,,,,caught,N Knights
+ball,1,2.3,Isle of Man,A McAuley,OJ Webster,M Breban,0,0,,,,,,"",""
+ball,1,2.4,Isle of Man,A McAuley,OJ Webster,M Breban,4,0,,,,,,"",""
+ball,1,2.5,Isle of Man,A McAuley,OJ Webster,M Breban,4,0,,,,,,"",""
+ball,1,2.6,Isle of Man,A McAuley,OJ Webster,M Breban,0,0,,,,,,"",""
+ball,1,3.1,Isle of Man,OJ Webster,A McAuley,W Peatfield,0,0,,,,,,"",""
+ball,1,3.2,Isle of Man,OJ Webster,A McAuley,W Peatfield,0,1,1,,,,,"",""
+ball,1,3.3,Isle of Man,OJ Webster,A McAuley,W Peatfield,4,0,,,,,,"",""
+ball,1,3.4,Isle of Man,OJ Webster,A McAuley,W Peatfield,0,0,,,,,,"",""
+ball,1,3.5,Isle of Man,OJ Webster,A McAuley,W Peatfield,1,0,,,,,,"",""
+ball,1,3.6,Isle of Man,A McAuley,OJ Webster,W Peatfield,1,0,,,,,,"",""
+ball,1,3.7,Isle of Man,OJ Webster,A McAuley,W Peatfield,0,0,,,,,,"",""
+ball,1,4.1,Isle of Man,A McAuley,OJ Webster,M Breban,0,0,,,,,,"",""
+ball,1,4.2,Isle of Man,A McAuley,OJ Webster,M Breban,1,0,,,,,,"",""
+ball,1,4.3,Isle of Man,OJ Webster,A McAuley,M Breban,0,0,,,,,,"",""
+ball,1,4.4,Isle of Man,OJ Webster,A McAuley,M Breban,0,0,,,,,,caught,OJ Webster
+ball,1,4.5,Isle of Man,A McAuley,G Burrows,M Breban,1,0,,,,,,"",""
+ball,1,4.6,Isle of Man,G Burrows,A McAuley,M Breban,0,0,,,,,,"",""
+ball,1,5.1,Isle of Man,A McAuley,G Burrows,LT Bichard,1,0,,,,,,"",""
+ball,1,5.2,Isle of Man,G Burrows,A McAuley,LT Bichard,1,0,,,,,,"",""
+ball,1,5.3,Isle of Man,A McAuley,G Burrows,LT Bichard,0,0,,,,,,"",""
+ball,1,5.4,Isle of Man,A McAuley,G Burrows,LT Bichard,4,0,,,,,,"",""
+ball,1,5.5,Isle of Man,A McAuley,G Burrows,LT Bichard,0,0,,,,,,"",""
+ball,1,5.6,Isle of Man,A McAuley,G Burrows,LT Bichard,1,0,,,,,,"",""
+ball,1,6.1,Isle of Man,A McAuley,G Burrows,LC Le Tissier,0,1,1,,,,,"",""
+ball,1,6.2,Isle of Man,A McAuley,G Burrows,LC Le Tissier,1,0,,,,,,"",""
+ball,1,6.3,Isle of Man,G Burrows,A McAuley,LC Le Tissier,0,0,,,,,,"",""
+ball,1,6.4,Isle of Man,G Burrows,A McAuley,LC Le Tissier,1,0,,,,,,"",""
+ball,1,6.5,Isle of Man,A McAuley,G Burrows,LC Le Tissier,0,0,,,,,,"",""
+ball,1,6.6,Isle of Man,A McAuley,G Burrows,LC Le Tissier,1,0,,,,,,"",""
+ball,1,6.7,Isle of Man,G Burrows,A McAuley,LC Le Tissier,4,0,,,,,,"",""
+ball,1,7.1,Isle of Man,A McAuley,G Burrows,LT Bichard,1,0,,,,,,"",""
+ball,1,7.2,Isle of Man,G Burrows,A McAuley,LT Bichard,1,0,,,,,,"",""
+ball,1,7.3,Isle of Man,A McAuley,G Burrows,LT Bichard,1,0,,,,,,"",""
+ball,1,7.4,Isle of Man,G Burrows,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,7.5,Isle of Man,G Burrows,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,7.6,Isle of Man,G Burrows,A McAuley,LT Bichard,1,0,,,,,,"",""
+ball,1,8.1,Isle of Man,G Burrows,A McAuley,LC Le Tissier,0,0,,,,,,"",""
+ball,1,8.2,Isle of Man,G Burrows,A McAuley,LC Le Tissier,1,0,,,,,,"",""
+ball,1,8.3,Isle of Man,A McAuley,G Burrows,LC Le Tissier,0,0,,,,,,"",""
+ball,1,8.4,Isle of Man,A McAuley,G Burrows,LC Le Tissier,1,0,,,,,,"",""
+ball,1,8.5,Isle of Man,G Burrows,A McAuley,LC Le Tissier,1,0,,,,,,"",""
+ball,1,8.6,Isle of Man,A McAuley,G Burrows,LC Le Tissier,0,0,,,,,,"",""
+ball,1,9.1,Isle of Man,G Burrows,A McAuley,ACF Stokes,1,0,,,,,,"",""
+ball,1,9.2,Isle of Man,A McAuley,G Burrows,ACF Stokes,0,0,,,,,,"",""
+ball,1,9.3,Isle of Man,A McAuley,G Burrows,ACF Stokes,1,0,,,,,,"",""
+ball,1,9.4,Isle of Man,G Burrows,A McAuley,ACF Stokes,1,0,,,,,,"",""
+ball,1,9.5,Isle of Man,A McAuley,G Burrows,ACF Stokes,0,1,1,,,,,"",""
+ball,1,9.6,Isle of Man,A McAuley,G Burrows,ACF Stokes,1,0,,,,,,"",""
+ball,1,9.7,Isle of Man,G Burrows,A McAuley,ACF Stokes,1,0,,,,,,"",""
+ball,1,10.1,Isle of Man,G Burrows,A McAuley,LC Le Tissier,0,0,,,,,,caught,G Burrows
+ball,1,10.2,Isle of Man,C Hartmann,A McAuley,LC Le Tissier,0,0,,,,,,"",""
+ball,1,10.3,Isle of Man,C Hartmann,A McAuley,LC Le Tissier,0,0,,,,,,"",""
+ball,1,10.4,Isle of Man,C Hartmann,A McAuley,LC Le Tissier,1,0,,,,,,"",""
+ball,1,10.5,Isle of Man,A McAuley,C Hartmann,LC Le Tissier,0,0,,,,,,"",""
+ball,1,10.6,Isle of Man,A McAuley,C Hartmann,LC Le Tissier,1,0,,,,,,"",""
+ball,1,11.1,Isle of Man,A McAuley,C Hartmann,ACF Stokes,0,0,,,,,,"",""
+ball,1,11.2,Isle of Man,A McAuley,C Hartmann,ACF Stokes,1,0,,,,,,"",""
+ball,1,11.3,Isle of Man,C Hartmann,A McAuley,ACF Stokes,0,0,,,,,,"",""
+ball,1,11.4,Isle of Man,C Hartmann,A McAuley,ACF Stokes,1,0,,,,,,"",""
+ball,1,11.5,Isle of Man,A McAuley,C Hartmann,ACF Stokes,0,0,,,,,,"",""
+ball,1,11.6,Isle of Man,A McAuley,C Hartmann,ACF Stokes,1,0,,,,,,"",""
+ball,1,12.1,Isle of Man,A McAuley,C Hartmann,LT Bichard,1,0,,,,,,"",""
+ball,1,12.2,Isle of Man,C Hartmann,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,12.3,Isle of Man,C Hartmann,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,12.4,Isle of Man,C Hartmann,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,12.5,Isle of Man,C Hartmann,A McAuley,LT Bichard,1,0,,,,,,"",""
+ball,1,12.6,Isle of Man,A McAuley,C Hartmann,LT Bichard,1,0,,,,,,"",""
+ball,1,13.1,Isle of Man,A McAuley,C Hartmann,ACF Stokes,1,0,,,,,,"",""
+ball,1,13.2,Isle of Man,C Hartmann,A McAuley,ACF Stokes,0,0,,,,,,"",""
+ball,1,13.3,Isle of Man,C Hartmann,A McAuley,ACF Stokes,1,0,,,,,,"",""
+ball,1,13.4,Isle of Man,A McAuley,C Hartmann,ACF Stokes,0,0,,,,,,"",""
+ball,1,13.5,Isle of Man,A McAuley,C Hartmann,ACF Stokes,1,0,,,,,,"",""
+ball,1,13.6,Isle of Man,C Hartmann,A McAuley,ACF Stokes,2,0,,,,,,"",""
+ball,1,14.1,Isle of Man,A McAuley,C Hartmann,LC Le Tissier,1,0,,,,,,"",""
+ball,1,14.2,Isle of Man,C Hartmann,A McAuley,LC Le Tissier,0,0,,,,,,"",""
+ball,1,14.3,Isle of Man,C Hartmann,A McAuley,LC Le Tissier,0,0,,,,,,caught,C Hartmann
+ball,1,14.4,Isle of Man,A McAuley,MJ Ansell,LC Le Tissier,1,0,,,,,,"",""
+ball,1,14.5,Isle of Man,MJ Ansell,A McAuley,LC Le Tissier,1,0,,,,,,"",""
+ball,1,14.6,Isle of Man,A McAuley,MJ Ansell,LC Le Tissier,1,0,,,,,,"",""
+ball,1,15.1,Isle of Man,A McAuley,MJ Ansell,LT Bichard,0,0,,,,,,"",""
+ball,1,15.2,Isle of Man,A McAuley,MJ Ansell,LT Bichard,1,0,,,,,,"",""
+ball,1,15.3,Isle of Man,MJ Ansell,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,15.4,Isle of Man,MJ Ansell,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,15.5,Isle of Man,MJ Ansell,A McAuley,LT Bichard,0,0,,,,,,"",""
+ball,1,15.6,Isle of Man,MJ Ansell,A McAuley,LT Bichard,1,0,,,,,,"",""
+ball,1,16.1,Isle of Man,MJ Ansell,A McAuley,M Breban,4,0,,,,,,"",""
+ball,1,16.2,Isle of Man,MJ Ansell,A McAuley,M Breban,0,0,,,,,,bowled,MJ Ansell
+ball,1,16.3,Isle of Man,CJ Langford,A McAuley,M Breban,1,0,,,,,,"",""
+ball,1,16.4,Isle of Man,A McAuley,CJ Langford,M Breban,1,0,,,,,,"",""
+ball,1,16.5,Isle of Man,CJ Langford,A McAuley,M Breban,0,1,1,,,,,"",""
+ball,1,16.6,Isle of Man,CJ Langford,A McAuley,M Breban,1,0,,,,,,"",""
+ball,1,16.7,Isle of Man,A McAuley,CJ Langford,M Breban,0,0,,,,,,"",""
+ball,1,17.1,Isle of Man,CJ Langford,A McAuley,W Peatfield,1,0,,,,,,"",""
+ball,1,17.2,Isle of Man,A McAuley,CJ Langford,W Peatfield,1,0,,,,,,"",""
+ball,1,17.3,Isle of Man,CJ Langford,A McAuley,W Peatfield,4,0,,,,,,"",""
+ball,1,17.4,Isle of Man,CJ Langford,A McAuley,W Peatfield,1,0,,,,,,"",""
+ball,1,17.5,Isle of Man,A McAuley,CJ Langford,W Peatfield,1,0,,,,,,"",""
+ball,1,17.6,Isle of Man,CJ Langford,A McAuley,W Peatfield,0,0,,,,,,bowled,CJ Langford
+ball,1,18.1,Isle of Man,A McAuley,JA Burrows,M Breban,1,0,,,,,,"",""
+ball,1,18.2,Isle of Man,JA Burrows,A McAuley,M Breban,1,0,,,,,,"",""
+ball,1,18.3,Isle of Man,A McAuley,JA Burrows,M Breban,1,0,,,,,,"",""
+ball,1,18.4,Isle of Man,JA Burrows,A McAuley,M Breban,1,0,,,,,,"",""
+ball,1,18.5,Isle of Man,A McAuley,JA Burrows,M Breban,1,0,,,,,,"",""
+ball,1,18.6,Isle of Man,JA Burrows,A McAuley,M Breban,1,0,,,,,,"",""
+ball,1,19.1,Isle of Man,JA Burrows,A McAuley,W Peatfield,0,0,,,,,,bowled,JA Burrows
+ball,1,19.2,Isle of Man,S Mills,A McAuley,W Peatfield,0,0,,,,,,"",""
+ball,1,19.3,Isle of Man,S Mills,A McAuley,W Peatfield,0,0,,,,,,"",""
+ball,1,19.4,Isle of Man,S Mills,A McAuley,W Peatfield,0,1,1,,,,,"",""
+ball,1,19.5,Isle of Man,S Mills,A McAuley,W Peatfield,1,0,,,,,,"",""
+ball,1,19.6,Isle of Man,A McAuley,S Mills,W Peatfield,0,0,,,,,,bowled,A McAuley
+ball,1,19.7,Isle of Man,C Liebenberg,S Mills,W Peatfield,1,0,,,,,,run out,C Liebenberg
+ball,2,0.1,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,0,0,,,,,,"",""
+ball,2,0.2,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,1,0,,,,,,"",""
+ball,2,0.3,Guernsey,IDA Damarell,LC Le Tissier,MJ Ansell,0,0,,,,,,"",""
+ball,2,0.4,Guernsey,IDA Damarell,LC Le Tissier,MJ Ansell,1,0,,,,,,"",""
+ball,2,0.5,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,0,0,,,,,,"",""
+ball,2,0.6,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,1,0,,,,,,"",""
+ball,2,1.1,Guernsey,LC Le Tissier,IDA Damarell,CJ Langford,1,0,,,,,,"",""
+ball,2,1.2,Guernsey,IDA Damarell,LC Le Tissier,CJ Langford,0,0,,,,,,"",""
+ball,2,1.3,Guernsey,IDA Damarell,LC Le Tissier,CJ Langford,0,0,,,,,,"",""
+ball,2,1.4,Guernsey,IDA Damarell,LC Le Tissier,CJ Langford,0,0,,,,,,"",""
+ball,2,1.5,Guernsey,IDA Damarell,LC Le Tissier,CJ Langford,4,0,,,,,,"",""
+ball,2,1.6,Guernsey,IDA Damarell,LC Le Tissier,CJ Langford,4,0,,,,,,"",""
+ball,2,2.1,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,0,0,,,,,,"",""
+ball,2,2.2,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,0,0,,,,,,"",""
+ball,2,2.3,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,4,0,,,,,,"",""
+ball,2,2.4,Guernsey,LC Le Tissier,IDA Damarell,MJ Ansell,1,0,,,,,,"",""
+ball,2,2.5,Guernsey,IDA Damarell,LC Le Tissier,MJ Ansell,4,0,,,,,,"",""
+ball,2,2.6,Guernsey,IDA Damarell,LC Le Tissier,MJ Ansell,0,0,,,,,,"",""
+ball,2,3.1,Guernsey,LC Le Tissier,IDA Damarell,CJ Langford,0,0,,,,,,bowled,LC Le Tissier
+ball,2,3.2,Guernsey,J Butler,IDA Damarell,CJ Langford,0,0,,,,,,"",""
+ball,2,3.3,Guernsey,J Butler,IDA Damarell,CJ Langford,2,0,,,,,,"",""
+ball,2,3.4,Guernsey,J Butler,IDA Damarell,CJ Langford,1,0,,,,,,"",""
+ball,2,3.5,Guernsey,IDA Damarell,J Butler,CJ Langford,1,0,,,,,,"",""
+ball,2,3.6,Guernsey,J Butler,IDA Damarell,CJ Langford,4,0,,,,,,"",""
+ball,2,4.1,Guernsey,IDA Damarell,J Butler,JA Burrows,0,0,,,,,,"",""
+ball,2,4.2,Guernsey,IDA Damarell,J Butler,JA Burrows,1,0,,,,,,"",""
+ball,2,4.3,Guernsey,J Butler,IDA Damarell,JA Burrows,0,0,,,,,,"",""
+ball,2,4.4,Guernsey,J Butler,IDA Damarell,JA Burrows,4,0,,,,,,"",""
+ball,2,4.5,Guernsey,J Butler,IDA Damarell,JA Burrows,0,0,,,,,,"",""
+ball,2,4.6,Guernsey,J Butler,IDA Damarell,JA Burrows,2,0,,,,,,"",""
+ball,2,5.1,Guernsey,IDA Damarell,J Butler,C Liebenberg,0,0,,,,,,"",""
+ball,2,5.2,Guernsey,IDA Damarell,J Butler,C Liebenberg,1,0,,,,,,"",""
+ball,2,5.3,Guernsey,J Butler,IDA Damarell,C Liebenberg,4,0,,,,,,"",""
+ball,2,5.4,Guernsey,J Butler,IDA Damarell,C Liebenberg,0,0,,,,,,"",""
+ball,2,5.5,Guernsey,J Butler,IDA Damarell,C Liebenberg,0,0,,,,,,"",""
+ball,2,5.6,Guernsey,J Butler,IDA Damarell,C Liebenberg,0,0,,,,,,"",""
+ball,2,6.1,Guernsey,IDA Damarell,J Butler,J Butler,0,3,3,,,,,"",""
+ball,2,6.2,Guernsey,IDA Damarell,J Butler,J Butler,1,0,,,,,,"",""
+ball,2,6.3,Guernsey,J Butler,IDA Damarell,J Butler,1,0,,,,,,"",""
+ball,2,6.4,Guernsey,IDA Damarell,J Butler,J Butler,1,0,,,,,,"",""
+ball,2,6.5,Guernsey,J Butler,IDA Damarell,J Butler,1,0,,,,,,"",""
+ball,2,6.6,Guernsey,IDA Damarell,J Butler,J Butler,0,1,1,,,,,"",""
+ball,2,6.7,Guernsey,IDA Damarell,J Butler,J Butler,1,0,,,,,,"",""
+ball,2,6.8,Guernsey,J Butler,IDA Damarell,J Butler,1,0,,,,,,"",""
+ball,2,7.1,Guernsey,J Butler,IDA Damarell,C Liebenberg,4,0,,,,,,"",""
+ball,2,7.2,Guernsey,J Butler,IDA Damarell,C Liebenberg,0,0,,,,,,"",""
+ball,2,7.3,Guernsey,J Butler,IDA Damarell,C Liebenberg,1,0,,,,,,"",""
+ball,2,7.4,Guernsey,IDA Damarell,J Butler,C Liebenberg,4,0,,,,,,"",""
+ball,2,7.5,Guernsey,IDA Damarell,J Butler,C Liebenberg,0,0,,,,,,"",""
+ball,2,7.6,Guernsey,IDA Damarell,J Butler,C Liebenberg,0,0,,,,,,"",""
+ball,2,8.1,Guernsey,J Butler,IDA Damarell,J Butler,1,0,,,,,,"",""
+ball,2,8.2,Guernsey,IDA Damarell,J Butler,J Butler,6,0,,,,,,"",""
+ball,2,8.3,Guernsey,IDA Damarell,J Butler,J Butler,1,0,,,,,,"",""
+ball,2,8.4,Guernsey,J Butler,IDA Damarell,J Butler,1,0,,,,,,"",""
+ball,2,8.5,Guernsey,IDA Damarell,J Butler,J Butler,1,0,,,,,,"",""
+ball,2,8.6,Guernsey,J Butler,IDA Damarell,J Butler,0,0,,,,,,"",""
+ball,2,9.1,Guernsey,IDA Damarell,J Butler,MJ Ansell,0,0,,,,,,"",""
+ball,2,9.2,Guernsey,IDA Damarell,J Butler,MJ Ansell,4,0,,,,,,"",""
+ball,2,9.3,Guernsey,IDA Damarell,J Butler,MJ Ansell,0,0,,,,,,"",""
+ball,2,9.4,Guernsey,IDA Damarell,J Butler,MJ Ansell,4,0,,,,,,"",""
+ball,2,9.5,Guernsey,IDA Damarell,J Butler,MJ Ansell,1,0,,,,,,"",""
+ball,2,9.6,Guernsey,J Butler,IDA Damarell,MJ Ansell,3,0,,,,,,"",""
+ball,2,10.1,Guernsey,J Butler,IDA Damarell,J Butler,1,0,,,,,,"",""
+ball,2,10.2,Guernsey,IDA Damarell,J Butler,J Butler,6,0,,,,,,"",""
+ball,2,10.3,Guernsey,IDA Damarell,J Butler,J Butler,6,0,,,,,,"",""
+ball,2,10.4,Guernsey,IDA Damarell,J Butler,J Butler,0,0,,,,,,caught,IDA Damarell
+ball,2,10.5,Guernsey,J Butler,LB Ferbrache,J Butler,1,0,,,,,,"",""
+ball,2,10.6,Guernsey,LB Ferbrache,J Butler,J Butler,0,0,,,,,,"",""
+ball,2,11.1,Guernsey,J Butler,LB Ferbrache,MJ Ansell,4,0,,,,,,"",""
+ball,2,11.2,Guernsey,J Butler,LB Ferbrache,MJ Ansell,0,0,,,,,,"",""
+ball,2,11.3,Guernsey,J Butler,LB Ferbrache,MJ Ansell,1,0,,,,,,"",""

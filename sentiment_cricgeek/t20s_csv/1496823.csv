@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Sweden
+info,gender,male
+info,season,2025
+info,date,2025/08/09
+info,event,Viking Cup
+info,match_number,5
+info,venue,"Botkyrka Cricket Center, Stockholm"
+info,city,Stockholm
+info,toss_winner,Norway
+info,toss_decision,bat
+info,player_of_match,Walid Ghauri
+info,umpire,SB Ravindra
+info,umpire,Usman Afzal
+info,winner,Norway
+info,winner_runs,23
+info,player,Norway,Khizer Ahmed
+info,player,Norway,D Abeyrathna
+info,player,Norway,Walid Ghauri
+info,player,Norway,Vishal Sharma
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,Faisal Raza
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,Adnan Shnwarei
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,A Mundra
+info,player,Sweden,Samarth Shetty
+info,player,Sweden,Ihsanullah Wafa
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,Aritra Bhakat
+info,player,Sweden,Syed Ali Gillani
+info,player,Sweden,A Dhabe
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Adnan Shnwarei,c8281df7
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Aritra Bhakat,380c2700
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Ihsanullah Wafa,75a58f94
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,Samarth Shetty,324e5c36
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Syed Ali Gillani,1ee9a0f6
+info,registry,people,Usman Afzal,63aa66b9
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Vishal Sharma,b9d8abd3
+info,registry,people,Walid Ghauri,331e137f
+ball,1,0.1,Norway,Khizer Ahmed,D Abeyrathna,Khalid Zahid,1,0,,,,,,"",""
+ball,1,0.2,Norway,D Abeyrathna,Khizer Ahmed,Khalid Zahid,4,0,,,,,,"",""
+ball,1,0.3,Norway,D Abeyrathna,Khizer Ahmed,Khalid Zahid,0,0,,,,,,"",""
+ball,1,0.4,Norway,D Abeyrathna,Khizer Ahmed,Khalid Zahid,4,0,,,,,,"",""
+ball,1,0.5,Norway,D Abeyrathna,Khizer Ahmed,Khalid Zahid,0,1,1,,,,,"",""
+ball,1,0.6,Norway,D Abeyrathna,Khizer Ahmed,Khalid Zahid,0,0,,,,,,"",""
+ball,1,0.7,Norway,D Abeyrathna,Khizer Ahmed,Khalid Zahid,4,0,,,,,,"",""
+ball,1,1.1,Norway,Khizer Ahmed,D Abeyrathna,Abdul Naser Baluch,0,1,1,,,,,"",""
+ball,1,1.2,Norway,Khizer Ahmed,D Abeyrathna,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,1.3,Norway,Khizer Ahmed,D Abeyrathna,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,1.4,Norway,Khizer Ahmed,D Abeyrathna,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,1,1.5,Norway,D Abeyrathna,Khizer Ahmed,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,1,1.6,Norway,Khizer Ahmed,D Abeyrathna,Abdul Naser Baluch,2,0,,,,,,"",""
+ball,1,1.7,Norway,Khizer Ahmed,D Abeyrathna,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,2.1,Norway,D Abeyrathna,Khizer Ahmed,Syed Ali Gillani,0,1,1,,,,,"",""
+ball,1,2.2,Norway,D Abeyrathna,Khizer Ahmed,Syed Ali Gillani,4,0,,,,,,"",""
+ball,1,2.3,Norway,D Abeyrathna,Khizer Ahmed,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,2.4,Norway,Khizer Ahmed,D Abeyrathna,Syed Ali Gillani,6,0,,,,,,"",""
+ball,1,2.5,Norway,Khizer Ahmed,D Abeyrathna,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,2.6,Norway,D Abeyrathna,Khizer Ahmed,Syed Ali Gillani,0,0,,,,,,lbw,D Abeyrathna
+ball,1,2.7,Norway,Walid Ghauri,Khizer Ahmed,Syed Ali Gillani,0,0,,,,,,"",""
+ball,1,3.1,Norway,Khizer Ahmed,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,caught,Khizer Ahmed
+ball,1,3.2,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,3.3,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,3.4,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,3.5,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,3.6,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,4.1,Norway,Walid Ghauri,Vishal Sharma,Khalid Zahid,1,0,,,,,,"",""
+ball,1,4.2,Norway,Vishal Sharma,Walid Ghauri,Khalid Zahid,0,1,1,,,,,"",""
+ball,1,4.3,Norway,Vishal Sharma,Walid Ghauri,Khalid Zahid,0,0,,,,,,"",""
+ball,1,4.4,Norway,Vishal Sharma,Walid Ghauri,Khalid Zahid,0,0,,,,,,"",""
+ball,1,4.5,Norway,Vishal Sharma,Walid Ghauri,Khalid Zahid,0,0,,,,,,"",""
+ball,1,4.6,Norway,Vishal Sharma,Walid Ghauri,Khalid Zahid,0,0,,,,,,"",""
+ball,1,4.7,Norway,Vishal Sharma,Walid Ghauri,Khalid Zahid,0,1,1,,,,,"",""
+ball,1,4.8,Norway,Vishal Sharma,Walid Ghauri,Khalid Zahid,1,0,,,,,,"",""
+ball,1,5.1,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,5.2,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,1,5.3,Norway,Walid Ghauri,Vishal Sharma,Abdul Naser Baluch,4,0,,,,,,"",""
+ball,1,5.4,Norway,Walid Ghauri,Vishal Sharma,Abdul Naser Baluch,4,0,,,,,,"",""
+ball,1,5.5,Norway,Walid Ghauri,Vishal Sharma,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,1,5.6,Norway,Vishal Sharma,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,6.1,Norway,Walid Ghauri,Vishal Sharma,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,6.2,Norway,Walid Ghauri,Vishal Sharma,Samiullah Rahmani,6,0,,,,,,"",""
+ball,1,6.3,Norway,Walid Ghauri,Vishal Sharma,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,6.4,Norway,Walid Ghauri,Vishal Sharma,Samiullah Rahmani,4,1,,1,,,,"",""
+ball,1,6.5,Norway,Walid Ghauri,Vishal Sharma,Samiullah Rahmani,4,0,,,,,,"",""
+ball,1,6.6,Norway,Walid Ghauri,Vishal Sharma,Samiullah Rahmani,2,0,,,,,,"",""
+ball,1,6.7,Norway,Walid Ghauri,Vishal Sharma,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,7.1,Norway,Walid Ghauri,Vishal Sharma,A Dhabe,1,0,,,,,,"",""
+ball,1,7.2,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,1,0,,,,,,"",""
+ball,1,7.3,Norway,Walid Ghauri,Vishal Sharma,A Dhabe,1,0,,,,,,"",""
+ball,1,7.4,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,1,0,,,,,,"",""
+ball,1,7.5,Norway,Walid Ghauri,Vishal Sharma,A Dhabe,1,0,,,,,,"",""
+ball,1,7.6,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,0,0,,,,,,"",""
+ball,1,8.1,Norway,Walid Ghauri,Vishal Sharma,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,8.2,Norway,Vishal Sharma,Walid Ghauri,Syed Ali Gillani,2,0,,,,,,"",""
+ball,1,8.3,Norway,Vishal Sharma,Walid Ghauri,Syed Ali Gillani,0,0,,,,,,"",""
+ball,1,8.4,Norway,Vishal Sharma,Walid Ghauri,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,8.5,Norway,Walid Ghauri,Vishal Sharma,Syed Ali Gillani,0,1,1,,,,,"",""
+ball,1,8.6,Norway,Walid Ghauri,Vishal Sharma,Syed Ali Gillani,0,0,,,,,,"",""
+ball,1,8.7,Norway,Walid Ghauri,Vishal Sharma,Syed Ali Gillani,0,0,,,,,,"",""
+ball,1,9.1,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,1,0,,,,,,"",""
+ball,1,9.2,Norway,Walid Ghauri,Vishal Sharma,A Dhabe,1,0,,,,,,"",""
+ball,1,9.3,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,2,0,,,,,,"",""
+ball,1,9.4,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,0,0,,,,,,"",""
+ball,1,9.5,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,0,0,,,,,,"",""
+ball,1,9.6,Norway,Vishal Sharma,Walid Ghauri,A Dhabe,1,0,,,,,,"",""
+ball,1,10.1,Norway,Vishal Sharma,Walid Ghauri,Samarth Shetty,0,0,,,,,,"",""
+ball,1,10.2,Norway,Vishal Sharma,Walid Ghauri,Samarth Shetty,1,0,,,,,,"",""
+ball,1,10.3,Norway,Walid Ghauri,Vishal Sharma,Samarth Shetty,1,0,,,,,,"",""
+ball,1,10.4,Norway,Vishal Sharma,Walid Ghauri,Samarth Shetty,0,0,,,,,,bowled,Vishal Sharma
+ball,1,10.5,Norway,Vinay Ravi,Walid Ghauri,Samarth Shetty,0,0,,,,,,"",""
+ball,1,10.6,Norway,Vinay Ravi,Walid Ghauri,Samarth Shetty,2,0,,,,,,"",""
+ball,1,11.1,Norway,Walid Ghauri,Vinay Ravi,A Dhabe,0,0,,,,,,"",""
+ball,1,11.2,Norway,Walid Ghauri,Vinay Ravi,A Dhabe,0,0,,,,,,"",""
+ball,1,11.3,Norway,Walid Ghauri,Vinay Ravi,A Dhabe,6,0,,,,,,"",""
+ball,1,11.4,Norway,Walid Ghauri,Vinay Ravi,A Dhabe,1,0,,,,,,"",""
+ball,1,11.5,Norway,Vinay Ravi,Walid Ghauri,A Dhabe,1,0,,,,,,"",""
+ball,1,11.6,Norway,Walid Ghauri,Vinay Ravi,A Dhabe,1,0,,,,,,"",""
+ball,1,12.1,Norway,Walid Ghauri,Vinay Ravi,Samarth Shetty,1,0,,,,,,"",""
+ball,1,12.2,Norway,Vinay Ravi,Walid Ghauri,Samarth Shetty,4,0,,,,,,"",""
+ball,1,12.3,Norway,Vinay Ravi,Walid Ghauri,Samarth Shetty,2,0,,,,,,"",""
+ball,1,12.4,Norway,Vinay Ravi,Walid Ghauri,Samarth Shetty,2,0,,,,,,"",""
+ball,1,12.5,Norway,Vinay Ravi,Walid Ghauri,Samarth Shetty,1,0,,,,,,"",""
+ball,1,12.6,Norway,Walid Ghauri,Vinay Ravi,Samarth Shetty,0,0,,,,,,"",""
+ball,1,13.1,Norway,Vinay Ravi,Walid Ghauri,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,13.2,Norway,Vinay Ravi,Walid Ghauri,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,13.3,Norway,Walid Ghauri,Vinay Ravi,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,13.4,Norway,Walid Ghauri,Vinay Ravi,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,13.5,Norway,Vinay Ravi,Walid Ghauri,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,13.6,Norway,Vinay Ravi,Walid Ghauri,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,14.1,Norway,Vinay Ravi,Walid Ghauri,Syed Ali Gillani,2,0,,,,,,"",""
+ball,1,14.2,Norway,Vinay Ravi,Walid Ghauri,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,14.3,Norway,Walid Ghauri,Vinay Ravi,Syed Ali Gillani,4,0,,,,,,"",""
+ball,1,14.4,Norway,Walid Ghauri,Vinay Ravi,Syed Ali Gillani,0,0,,,,,,"",""
+ball,1,14.5,Norway,Walid Ghauri,Vinay Ravi,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,14.6,Norway,Vinay Ravi,Walid Ghauri,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,15.1,Norway,Vinay Ravi,Walid Ghauri,Samiullah Rahmani,0,0,,,,,,caught,Vinay Ravi
+ball,1,15.2,Norway,Ibrahim Rahimi,Walid Ghauri,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,15.3,Norway,Walid Ghauri,Ibrahim Rahimi,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,15.4,Norway,Walid Ghauri,Ibrahim Rahimi,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,15.5,Norway,Ibrahim Rahimi,Walid Ghauri,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,15.6,Norway,Ibrahim Rahimi,Walid Ghauri,Samiullah Rahmani,6,0,,,,,,"",""
+ball,1,16.1,Norway,Walid Ghauri,Ibrahim Rahimi,A Dhabe,4,0,,,,,,"",""
+ball,1,16.2,Norway,Walid Ghauri,Ibrahim Rahimi,A Dhabe,1,0,,,,,,"",""
+ball,1,16.3,Norway,Ibrahim Rahimi,Walid Ghauri,A Dhabe,6,0,,,,,,"",""
+ball,1,16.4,Norway,Ibrahim Rahimi,Walid Ghauri,A Dhabe,6,0,,,,,,"",""
+ball,1,16.5,Norway,Ibrahim Rahimi,Walid Ghauri,A Dhabe,0,0,,,,,,"",""
+ball,1,16.6,Norway,Ibrahim Rahimi,Walid Ghauri,A Dhabe,6,0,,,,,,"",""
+ball,1,17.1,Norway,Walid Ghauri,Ibrahim Rahimi,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,1,17.2,Norway,Ibrahim Rahimi,Walid Ghauri,Abdul Naser Baluch,2,0,,,,,,"",""
+ball,1,17.3,Norway,Ibrahim Rahimi,Walid Ghauri,Abdul Naser Baluch,6,0,,,,,,"",""
+ball,1,17.4,Norway,Ibrahim Rahimi,Walid Ghauri,Abdul Naser Baluch,2,0,,,,,,"",""
+ball,1,17.5,Norway,Ibrahim Rahimi,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,17.6,Norway,Ibrahim Rahimi,Walid Ghauri,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,1,18.1,Norway,Walid Ghauri,Ibrahim Rahimi,Syed Ali Gillani,4,0,,,,,,"",""
+ball,1,18.2,Norway,Walid Ghauri,Ibrahim Rahimi,Syed Ali Gillani,4,0,,,,,,"",""
+ball,1,18.3,Norway,Walid Ghauri,Ibrahim Rahimi,Syed Ali Gillani,0,0,,,,,,"",""
+ball,1,18.4,Norway,Walid Ghauri,Ibrahim Rahimi,Syed Ali Gillani,6,0,,,,,,"",""
+ball,1,18.5,Norway,Walid Ghauri,Ibrahim Rahimi,Syed Ali Gillani,0,0,,,,,,"",""
+ball,1,18.6,Norway,Walid Ghauri,Ibrahim Rahimi,Syed Ali Gillani,1,0,,,,,,"",""
+ball,1,19.1,Norway,Walid Ghauri,Ibrahim Rahimi,Khalid Zahid,0,0,,,,,,"",""
+ball,1,19.2,Norway,Walid Ghauri,Ibrahim Rahimi,Khalid Zahid,4,0,,,,,,"",""
+ball,1,19.3,Norway,Walid Ghauri,Ibrahim Rahimi,Khalid Zahid,1,0,,,,,,"",""
+ball,1,19.4,Norway,Ibrahim Rahimi,Walid Ghauri,Khalid Zahid,0,1,,,,1,,"",""
+ball,1,19.5,Norway,Walid Ghauri,Ibrahim Rahimi,Khalid Zahid,1,0,,,,,,"",""
+ball,1,19.6,Norway,Ibrahim Rahimi,Walid Ghauri,Khalid Zahid,1,0,,,,,,"",""
+ball,2,0.1,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,0,0,,,,,,"",""
+ball,2,0.2,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,4,0,,,,,,"",""
+ball,2,0.3,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,0,1,1,,,,,"",""
+ball,2,0.4,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,0,0,,,,,,"",""
+ball,2,0.5,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,0,1,1,,,,,"",""
+ball,2,0.6,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,6,0,,,,,,"",""
+ball,2,0.7,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,0,0,,,,,,"",""
+ball,2,0.8,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,0,0,,,,,,"",""
+ball,2,1.1,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,1.2,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,1.3,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,1.4,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,1,0,,,,,,"",""
+ball,2,1.5,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,1.6,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,4,0,,,,,,"",""
+ball,2,2.1,Sweden,Awais Ahmad,Imal Zuwak,Vinay Ravi,1,0,,,,,,"",""
+ball,2,2.2,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,0,0,,,,,,"",""
+ball,2,2.3,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,4,0,,,,,,"",""
+ball,2,2.4,Sweden,Imal Zuwak,Awais Ahmad,Vinay Ravi,1,0,,,,,,"",""
+ball,2,2.5,Sweden,Awais Ahmad,Imal Zuwak,Vinay Ravi,0,1,1,,,,,"",""
+ball,2,2.6,Sweden,Awais Ahmad,Imal Zuwak,Vinay Ravi,0,0,,,,,,"",""
+ball,2,2.7,Sweden,Awais Ahmad,Imal Zuwak,Vinay Ravi,2,0,,,,,,"",""
+ball,2,3.1,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,3.2,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,1,0,,,,,,"",""
+ball,2,3.3,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,4,0,,,,,,"",""
+ball,2,3.4,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,0,1,,,,1,,"",""
+ball,2,3.5,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,3.6,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,0,1,1,,,,,"",""
+ball,2,3.7,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,2,0,,,,,,"",""
+ball,2,4.1,Sweden,Awais Ahmad,Imal Zuwak,Qamar Mushtaque,0,0,,,,,,"",""
+ball,2,4.2,Sweden,Awais Ahmad,Imal Zuwak,Qamar Mushtaque,4,0,,,,,,"",""
+ball,2,4.3,Sweden,Awais Ahmad,Imal Zuwak,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,4.4,Sweden,Imal Zuwak,Awais Ahmad,Qamar Mushtaque,0,1,1,,,,,"",""
+ball,2,4.5,Sweden,Imal Zuwak,Awais Ahmad,Qamar Mushtaque,0,1,1,,,,,"",""
+ball,2,4.6,Sweden,Imal Zuwak,Awais Ahmad,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,4.7,Sweden,Awais Ahmad,Imal Zuwak,Qamar Mushtaque,0,0,,,,,,"",""
+ball,2,4.8,Sweden,Awais Ahmad,Imal Zuwak,Qamar Mushtaque,0,0,,,,,,"",""
+ball,2,5.1,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,5.2,Sweden,Imal Zuwak,Awais Ahmad,Ahmadullah Shinwari,1,0,,,,,,"",""
+ball,2,5.3,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,4,0,,,,,,"",""
+ball,2,5.4,Sweden,Awais Ahmad,Imal Zuwak,Ahmadullah Shinwari,0,0,,,,,,caught,Awais Ahmad
+ball,2,5.5,Sweden,A Mundra,Imal Zuwak,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,5.6,Sweden,A Mundra,Imal Zuwak,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,6.1,Sweden,Imal Zuwak,A Mundra,D Abeyrathna,0,0,,,,,,"",""
+ball,2,6.2,Sweden,Imal Zuwak,A Mundra,D Abeyrathna,1,0,,,,,,"",""
+ball,2,6.3,Sweden,A Mundra,Imal Zuwak,D Abeyrathna,0,2,,,2,,,"",""
+ball,2,6.4,Sweden,A Mundra,Imal Zuwak,D Abeyrathna,1,0,,,,,,"",""
+ball,2,6.5,Sweden,Imal Zuwak,A Mundra,D Abeyrathna,2,0,,,,,,"",""
+ball,2,6.6,Sweden,Imal Zuwak,A Mundra,D Abeyrathna,1,0,,,,,,"",""
+ball,2,7.1,Sweden,Imal Zuwak,A Mundra,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,7.2,Sweden,Imal Zuwak,A Mundra,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,7.3,Sweden,A Mundra,Imal Zuwak,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,7.4,Sweden,Imal Zuwak,A Mundra,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,7.5,Sweden,A Mundra,Imal Zuwak,M Shahbaz Butt,4,0,,,,,,"",""
+ball,2,7.6,Sweden,A Mundra,Imal Zuwak,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,8.1,Sweden,A Mundra,Imal Zuwak,D Abeyrathna,0,0,,,,,,caught,A Mundra
+ball,2,8.2,Sweden,Samarth Shetty,Imal Zuwak,D Abeyrathna,0,0,,,,,,"",""
+ball,2,8.3,Sweden,Samarth Shetty,Imal Zuwak,D Abeyrathna,1,0,,,,,,"",""
+ball,2,8.4,Sweden,Imal Zuwak,Samarth Shetty,D Abeyrathna,0,0,,,,,,caught,Imal Zuwak
+ball,2,8.5,Sweden,Ihsanullah Wafa,Samarth Shetty,D Abeyrathna,0,0,,,,,,"",""
+ball,2,8.6,Sweden,Ihsanullah Wafa,Samarth Shetty,D Abeyrathna,1,0,,,,,,"",""
+ball,2,9.1,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,9.2,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,0,1,1,,,,,"",""
+ball,2,9.3,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,9.4,Sweden,Samarth Shetty,Ihsanullah Wafa,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,9.5,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,9.6,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,6,0,,,,,,"",""
+ball,2,9.7,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,10.1,Sweden,Samarth Shetty,Ihsanullah Wafa,D Abeyrathna,1,0,,,,,,"",""
+ball,2,10.2,Sweden,Ihsanullah Wafa,Samarth Shetty,D Abeyrathna,6,0,,,,,,"",""
+ball,2,10.3,Sweden,Ihsanullah Wafa,Samarth Shetty,D Abeyrathna,1,0,,,,,,"",""
+ball,2,10.4,Sweden,Samarth Shetty,Ihsanullah Wafa,D Abeyrathna,0,0,,,,,,"",""
+ball,2,10.5,Sweden,Samarth Shetty,Ihsanullah Wafa,D Abeyrathna,4,0,,,,,,"",""
+ball,2,10.6,Sweden,Samarth Shetty,Ihsanullah Wafa,D Abeyrathna,6,0,,,,,,"",""
+ball,2,11.1,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,11.2,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,11.3,Sweden,Samarth Shetty,Ihsanullah Wafa,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,11.4,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,11.5,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,11.6,Sweden,Samarth Shetty,Ihsanullah Wafa,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,12.1,Sweden,Samarth Shetty,Ihsanullah Wafa,Adnan Shnwarei,1,0,,,,,,"",""
+ball,2,12.2,Sweden,Ihsanullah Wafa,Samarth Shetty,Adnan Shnwarei,6,0,,,,,,"",""
+ball,2,12.3,Sweden,Ihsanullah Wafa,Samarth Shetty,Adnan Shnwarei,1,0,,,,,,"",""
+ball,2,12.4,Sweden,Samarth Shetty,Ihsanullah Wafa,Adnan Shnwarei,0,0,,,,,,"",""
+ball,2,12.5,Sweden,Samarth Shetty,Ihsanullah Wafa,Adnan Shnwarei,0,0,,,,,,"",""
+ball,2,12.6,Sweden,Samarth Shetty,Ihsanullah Wafa,Adnan Shnwarei,0,0,,,,,,"",""
+ball,2,13.1,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,2,0,,,,,,"",""
+ball,2,13.2,Sweden,Ihsanullah Wafa,Samarth Shetty,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,13.3,Sweden,Samarth Shetty,Ihsanullah Wafa,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,13.4,Sweden,Samarth Shetty,Ihsanullah Wafa,M Shahbaz Butt,0,0,,,,,,caught,Samarth Shetty
+ball,2,13.5,Sweden,Samiullah Rahmani,Ihsanullah Wafa,M Shahbaz Butt,0,0,,,,,,"",""
+ball,2,13.6,Sweden,Samiullah Rahmani,Ihsanullah Wafa,M Shahbaz Butt,1,0,,,,,,"",""
+ball,2,14.1,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,14.2,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Qamar Mushtaque,0,0,,,,,,"",""
+ball,2,14.3,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Qamar Mushtaque,0,1,,,,1,,"",""
+ball,2,14.4,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,14.5,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Qamar Mushtaque,0,0,,,,,,"",""
+ball,2,14.6,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Qamar Mushtaque,2,0,,,,,,"",""
+ball,2,15.1,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Vinay Ravi,6,0,,,,,,"",""
+ball,2,15.2,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Vinay Ravi,0,0,,,,,,"",""
+ball,2,15.3,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Vinay Ravi,0,1,1,,,,,"",""
+ball,2,15.4,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Vinay Ravi,6,0,,,,,,"",""
+ball,2,15.5,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Vinay Ravi,6,0,,,,,,"",""
+ball,2,15.6,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Vinay Ravi,1,0,,,,,,"",""
+ball,2,15.7,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Vinay Ravi,0,0,,,,,,"",""
+ball,2,16.1,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Qamar Mushtaque,4,0,,,,,,"",""
+ball,2,16.2,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Qamar Mushtaque,0,1,,,,1,,"",""
+ball,2,16.3,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,16.4,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,16.5,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Qamar Mushtaque,0,0,,,,,,"",""
+ball,2,16.6,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Qamar Mushtaque,2,0,,,,,,"",""
+ball,2,17.1,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,17.2,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Ahmadullah Shinwari,2,0,,,,,,"",""
+ball,2,17.3,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,17.4,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Ahmadullah Shinwari,0,1,1,,,,,"",""
+ball,2,17.5,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Ahmadullah Shinwari,0,1,1,,,,,"",""
+ball,2,17.6,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Ahmadullah Shinwari,0,4,,,4,,,"",""
+ball,2,17.7,Sweden,Samiullah Rahmani,Ihsanullah Wafa,Ahmadullah Shinwari,0,1,,,,1,,"",""
+ball,2,17.8,Sweden,Ihsanullah Wafa,Samiullah Rahmani,Ahmadullah Shinwari,0,0,,,,,,retired hurt,Ihsanullah Wafa
+ball,2,18.1,Sweden,Samiullah Rahmani,Khalid Zahid,Qamar Mushtaque,0,0,,,,,,caught,Samiullah Rahmani
+ball,2,18.2,Sweden,Abdul Naser Baluch,Khalid Zahid,Qamar Mushtaque,0,0,,,,,,caught,Abdul Naser Baluch
+ball,2,18.3,Sweden,Aritra Bhakat,Khalid Zahid,Qamar Mushtaque,2,0,,,,,,"",""
+ball,2,18.4,Sweden,Aritra Bhakat,Khalid Zahid,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,18.5,Sweden,Khalid Zahid,Aritra Bhakat,Qamar Mushtaque,1,0,,,,,,"",""
+ball,2,18.6,Sweden,Aritra Bhakat,Khalid Zahid,Qamar Mushtaque,0,1,1,,,,,"",""
+ball,2,18.7,Sweden,Aritra Bhakat,Khalid Zahid,Qamar Mushtaque,0,0,,,,,,lbw,Aritra Bhakat
+ball,2,19.1,Sweden,Khalid Zahid,Syed Ali Gillani,Vinay Ravi,0,0,,,,,,caught,Khalid Zahid
+ball,2,19.2,Sweden,A Dhabe,Syed Ali Gillani,Vinay Ravi,0,0,,,,,,"",""
+ball,2,19.3,Sweden,A Dhabe,Syed Ali Gillani,Vinay Ravi,0,0,,,,,,"",""
+ball,2,19.4,Sweden,A Dhabe,Syed Ali Gillani,Vinay Ravi,0,0,,,,,,caught,A Dhabe

@@ -1,0 +1,340 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Norway
+info,gender,female
+info,season,2022/23
+info,date,2022/11/13
+info,event,Women's T20 Pentangular Series (in Spain)
+info,match_number,7
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Norway
+info,toss_decision,field
+info,player_of_match,NH Berejo
+info,winner,Spain
+info,winner_runs,35
+info,player,Spain,EMC Fowler
+info,player,Spain,P Chilongia
+info,player,Spain,Uswa Syed
+info,player,Spain,NH Berejo
+info,player,Spain,Wania Malik
+info,player,Spain,A Brown-Carrera
+info,player,Spain,Muskan Naseeb
+info,player,Spain,Rabia Iqbal
+info,player,Spain,Tashiba Mirza
+info,player,Spain,JG Kaur
+info,player,Spain,Zenab Iqbal
+info,player,Norway,Ayesha Hasan
+info,player,Norway,Farial Zia Safdar
+info,player,Norway,Pooja Kumari
+info,player,Norway,R Immadi
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,Mahnoor Akram
+info,player,Norway,Hina Hussain
+info,player,Norway,S Kunaratnam
+info,player,Norway,Lopamudra
+info,player,Norway,A Rautela
+info,player,Norway,Mirab Razwan
+info,registry,people,A Brown-Carrera,9e866d80
+info,registry,people,A Rautela,e113c6c7
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,EMC Fowler,4f88a917
+info,registry,people,Farial Zia Safdar,36f7682b
+info,registry,people,Hina Hussain,6501e421
+info,registry,people,JG Kaur,045e73c2
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,Mahnoor Akram,2b7c2d50
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,Muskan Naseeb,517e1077
+info,registry,people,NH Berejo,a9ec2608
+info,registry,people,P Chilongia,764d8336
+info,registry,people,Pooja Kumari,ff5051bd
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,Rabia Iqbal,a3a5072b
+info,registry,people,S Kunaratnam,911eb7a7
+info,registry,people,Tashiba Mirza,2020d4fd
+info,registry,people,Uswa Syed,cbc0e027
+info,registry,people,Wania Malik,1a35a2d3
+info,registry,people,Zenab Iqbal,4f3b43e2
+ball,1,0.1,Spain,EMC Fowler,P Chilongia,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,0.2,Spain,EMC Fowler,P Chilongia,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,0.3,Spain,EMC Fowler,P Chilongia,Farial Zia Safdar,1,0,,,,,,"",""
+ball,1,0.4,Spain,P Chilongia,EMC Fowler,Farial Zia Safdar,0,1,,1,,,,"",""
+ball,1,0.5,Spain,P Chilongia,EMC Fowler,Farial Zia Safdar,0,1,1,,,,,"",""
+ball,1,0.6,Spain,P Chilongia,EMC Fowler,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,0.7,Spain,P Chilongia,EMC Fowler,Farial Zia Safdar,2,0,,,,,,"",""
+ball,1,0.8,Spain,P Chilongia,EMC Fowler,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,1.1,Spain,EMC Fowler,P Chilongia,Hina Hussain,0,0,,,,,,"",""
+ball,1,1.2,Spain,EMC Fowler,P Chilongia,Hina Hussain,0,0,,,,,,"",""
+ball,1,1.3,Spain,EMC Fowler,P Chilongia,Hina Hussain,0,0,,,,,,"",""
+ball,1,1.4,Spain,EMC Fowler,P Chilongia,Hina Hussain,1,0,,,,,,"",""
+ball,1,1.5,Spain,P Chilongia,EMC Fowler,Hina Hussain,0,0,,,,,,"",""
+ball,1,1.6,Spain,P Chilongia,EMC Fowler,Hina Hussain,0,0,,,,,,run out,P Chilongia
+ball,1,2.1,Spain,Uswa Syed,EMC Fowler,Farial Zia Safdar,2,0,,,,,,"",""
+ball,1,2.2,Spain,Uswa Syed,EMC Fowler,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,2.3,Spain,Uswa Syed,EMC Fowler,Farial Zia Safdar,1,0,,,,,,"",""
+ball,1,2.4,Spain,EMC Fowler,Uswa Syed,Farial Zia Safdar,0,0,,,,,,caught,EMC Fowler
+ball,1,2.5,Spain,NH Berejo,Uswa Syed,Farial Zia Safdar,1,0,,,,,,"",""
+ball,1,2.6,Spain,Uswa Syed,NH Berejo,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,3.1,Spain,NH Berejo,Uswa Syed,Hina Hussain,1,0,,,,,,"",""
+ball,1,3.2,Spain,Uswa Syed,NH Berejo,Hina Hussain,0,0,,,,,,"",""
+ball,1,3.3,Spain,Uswa Syed,NH Berejo,Hina Hussain,1,0,,,,,,"",""
+ball,1,3.4,Spain,NH Berejo,Uswa Syed,Hina Hussain,1,0,,,,,,"",""
+ball,1,3.5,Spain,Uswa Syed,NH Berejo,Hina Hussain,1,0,,,,,,"",""
+ball,1,3.6,Spain,NH Berejo,Uswa Syed,Hina Hussain,4,0,,,,,,"",""
+ball,1,4.1,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,0,1,,1,,,,"",""
+ball,1,4.2,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,0,0,,,,,,"",""
+ball,1,4.3,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,0,2,2,,,,,"",""
+ball,1,4.4,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,0,1,,1,,,,"",""
+ball,1,4.5,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,1,0,,,,,,"",""
+ball,1,4.6,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,0,0,,,,,,"",""
+ball,1,4.7,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,0,0,,,,,,"",""
+ball,1,4.8,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,2,0,,,,,,"",""
+ball,1,4.9,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,0,0,,,,,,"",""
+ball,1,5.1,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,5.2,Spain,NH Berejo,Uswa Syed,R Immadi,1,0,,,,,,"",""
+ball,1,5.3,Spain,Uswa Syed,NH Berejo,R Immadi,2,0,,,,,,"",""
+ball,1,5.4,Spain,Uswa Syed,NH Berejo,R Immadi,1,0,,,,,,"",""
+ball,1,5.5,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,5.6,Spain,NH Berejo,Uswa Syed,R Immadi,1,0,,,,,,"",""
+ball,1,6.1,Spain,NH Berejo,Uswa Syed,Pooja Kumari,1,0,,,,,,"",""
+ball,1,6.2,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,6.3,Spain,Uswa Syed,NH Berejo,Pooja Kumari,2,0,,,,,,"",""
+ball,1,6.4,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,6.5,Spain,Uswa Syed,NH Berejo,Pooja Kumari,1,0,,,,,,"",""
+ball,1,6.6,Spain,NH Berejo,Uswa Syed,Pooja Kumari,0,0,,,,,,"",""
+ball,1,7.1,Spain,Uswa Syed,NH Berejo,R Immadi,0,0,,,,,,"",""
+ball,1,7.2,Spain,Uswa Syed,NH Berejo,R Immadi,1,0,,,,,,"",""
+ball,1,7.3,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,7.4,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,7.5,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,7.6,Spain,NH Berejo,Uswa Syed,R Immadi,1,0,,,,,,"",""
+ball,1,8.1,Spain,NH Berejo,Uswa Syed,Pooja Kumari,1,0,,,,,,"",""
+ball,1,8.2,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,8.3,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,8.4,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,8.5,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,8.6,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,9.1,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,9.2,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,9.3,Spain,NH Berejo,Uswa Syed,R Immadi,1,0,,,,,,"",""
+ball,1,9.4,Spain,Uswa Syed,NH Berejo,R Immadi,1,0,,,,,,"",""
+ball,1,9.5,Spain,NH Berejo,Uswa Syed,R Immadi,1,0,,,,,,"",""
+ball,1,9.6,Spain,Uswa Syed,NH Berejo,R Immadi,1,0,,,,,,"",""
+ball,1,10.1,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,10.2,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,10.3,Spain,Uswa Syed,NH Berejo,Pooja Kumari,1,0,,,,,,"",""
+ball,1,10.4,Spain,NH Berejo,Uswa Syed,Pooja Kumari,0,0,,,,,,"",""
+ball,1,10.5,Spain,NH Berejo,Uswa Syed,Pooja Kumari,1,0,,,,,,"",""
+ball,1,10.6,Spain,Uswa Syed,NH Berejo,Pooja Kumari,4,0,,,,,,"",""
+ball,1,11.1,Spain,NH Berejo,Uswa Syed,Mirab Razwan,1,0,,,,,,"",""
+ball,1,11.2,Spain,Uswa Syed,NH Berejo,Mirab Razwan,1,0,,,,,,"",""
+ball,1,11.3,Spain,NH Berejo,Uswa Syed,Mirab Razwan,2,0,,,,,,"",""
+ball,1,11.4,Spain,NH Berejo,Uswa Syed,Mirab Razwan,0,1,,1,,,,"",""
+ball,1,11.5,Spain,NH Berejo,Uswa Syed,Mirab Razwan,4,0,,,,,,"",""
+ball,1,11.6,Spain,NH Berejo,Uswa Syed,Mirab Razwan,1,0,,,,,,"",""
+ball,1,11.7,Spain,Uswa Syed,NH Berejo,Mirab Razwan,0,0,,,,,,"",""
+ball,1,12.1,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,4,1,,1,,,,"",""
+ball,1,12.2,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,1,0,,,,,,"",""
+ball,1,12.3,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,1,0,,,,,,"",""
+ball,1,12.4,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,1,0,,,,,,"",""
+ball,1,12.5,Spain,Uswa Syed,NH Berejo,Ayesha Hasan,1,0,,,,,,"",""
+ball,1,12.6,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,0,1,1,,,,,"",""
+ball,1,12.7,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,2,0,,,,,,"",""
+ball,1,12.8,Spain,NH Berejo,Uswa Syed,Ayesha Hasan,1,0,,,,,,"",""
+ball,1,13.1,Spain,NH Berejo,Uswa Syed,R Immadi,0,0,,,,,,"",""
+ball,1,13.2,Spain,NH Berejo,Uswa Syed,R Immadi,1,0,,,,,,"",""
+ball,1,13.3,Spain,Uswa Syed,NH Berejo,R Immadi,0,0,,,,,,"",""
+ball,1,13.4,Spain,Uswa Syed,NH Berejo,R Immadi,0,2,2,,,,,"",""
+ball,1,13.5,Spain,NH Berejo,Uswa Syed,R Immadi,1,0,,,,,,"",""
+ball,1,13.6,Spain,Uswa Syed,NH Berejo,R Immadi,0,0,,,,,,"",""
+ball,1,13.7,Spain,Uswa Syed,NH Berejo,R Immadi,0,2,2,,,,,"",""
+ball,1,13.8,Spain,NH Berejo,Uswa Syed,R Immadi,2,1,,1,,,,"",""
+ball,1,13.9,Spain,NH Berejo,Uswa Syed,R Immadi,2,0,,,,,,"",""
+ball,1,14.1,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,"",""
+ball,1,14.2,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,1,1,,,,,"",""
+ball,1,14.3,Spain,Uswa Syed,NH Berejo,Pooja Kumari,0,0,,,,,,caught,Uswa Syed
+ball,1,14.4,Spain,Wania Malik,NH Berejo,Pooja Kumari,1,0,,,,,,"",""
+ball,1,14.5,Spain,NH Berejo,Wania Malik,Pooja Kumari,0,0,,,,,,run out,Wania Malik
+ball,1,14.6,Spain,NH Berejo,A Brown-Carrera,Pooja Kumari,0,0,,,,,,"",""
+ball,1,14.7,Spain,NH Berejo,A Brown-Carrera,Pooja Kumari,4,0,,,,,,"",""
+ball,1,15.1,Spain,A Brown-Carrera,NH Berejo,Hina Hussain,1,0,,,,,,"",""
+ball,1,15.2,Spain,NH Berejo,A Brown-Carrera,Hina Hussain,0,1,1,,,,,"",""
+ball,1,15.3,Spain,NH Berejo,A Brown-Carrera,Hina Hussain,0,0,,,,,,caught and bowled,NH Berejo
+ball,1,15.4,Spain,Muskan Naseeb,A Brown-Carrera,Hina Hussain,0,0,,,,,,"",""
+ball,1,15.5,Spain,Muskan Naseeb,A Brown-Carrera,Hina Hussain,0,2,2,,,,,"",""
+ball,1,15.6,Spain,A Brown-Carrera,Muskan Naseeb,Hina Hussain,0,0,,,,,,"",""
+ball,1,15.7,Spain,A Brown-Carrera,Muskan Naseeb,Hina Hussain,0,2,2,,,,,"",""
+ball,1,15.8,Spain,Muskan Naseeb,A Brown-Carrera,Hina Hussain,0,0,,,,,,"",""
+ball,1,15.9,Spain,Muskan Naseeb,A Brown-Carrera,Hina Hussain,0,0,,,,,,bowled,Muskan Naseeb
+ball,1,16.1,Spain,A Brown-Carrera,Rabia Iqbal,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,16.2,Spain,A Brown-Carrera,Rabia Iqbal,Farial Zia Safdar,0,1,1,,,,,"",""
+ball,1,16.3,Spain,A Brown-Carrera,Rabia Iqbal,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,16.4,Spain,A Brown-Carrera,Rabia Iqbal,Farial Zia Safdar,0,1,1,,,,,"",""
+ball,1,16.5,Spain,A Brown-Carrera,Rabia Iqbal,Farial Zia Safdar,0,1,1,,,,,"",""
+ball,1,16.6,Spain,A Brown-Carrera,Rabia Iqbal,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,16.7,Spain,A Brown-Carrera,Rabia Iqbal,Farial Zia Safdar,1,0,,,,,,"",""
+ball,1,16.8,Spain,Rabia Iqbal,A Brown-Carrera,Farial Zia Safdar,0,0,,,,,,caught,Rabia Iqbal
+ball,1,16.9,Spain,Tashiba Mirza,A Brown-Carrera,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,17.1,Spain,A Brown-Carrera,Tashiba Mirza,Hina Hussain,0,0,,,,,,"",""
+ball,1,17.2,Spain,A Brown-Carrera,Tashiba Mirza,Hina Hussain,1,0,,,,,,"",""
+ball,1,17.3,Spain,Tashiba Mirza,A Brown-Carrera,Hina Hussain,4,1,,1,,,,"",""
+ball,1,17.4,Spain,Tashiba Mirza,A Brown-Carrera,Hina Hussain,0,0,,,,,,"",""
+ball,1,17.5,Spain,Tashiba Mirza,A Brown-Carrera,Hina Hussain,0,0,,,,,,"",""
+ball,1,17.6,Spain,Tashiba Mirza,A Brown-Carrera,Hina Hussain,0,0,,,,,,"",""
+ball,1,17.7,Spain,Tashiba Mirza,A Brown-Carrera,Hina Hussain,0,0,,,,,,"",""
+ball,1,18.1,Spain,A Brown-Carrera,Tashiba Mirza,Lopamudra,1,0,,,,,,"",""
+ball,1,18.2,Spain,Tashiba Mirza,A Brown-Carrera,Lopamudra,0,0,,,,,,"",""
+ball,1,18.3,Spain,Tashiba Mirza,A Brown-Carrera,Lopamudra,1,0,,,,,,"",""
+ball,1,18.4,Spain,A Brown-Carrera,Tashiba Mirza,Lopamudra,1,0,,,,,,"",""
+ball,1,18.5,Spain,Tashiba Mirza,A Brown-Carrera,Lopamudra,0,0,,,,,,"",""
+ball,1,18.6,Spain,Tashiba Mirza,A Brown-Carrera,Lopamudra,0,1,,1,,,,"",""
+ball,1,18.7,Spain,Tashiba Mirza,A Brown-Carrera,Lopamudra,0,0,,,,,,"",""
+ball,1,19.1,Spain,A Brown-Carrera,Tashiba Mirza,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,19.2,Spain,A Brown-Carrera,Tashiba Mirza,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,19.3,Spain,A Brown-Carrera,Tashiba Mirza,Farial Zia Safdar,0,0,,,,,,"",""
+ball,1,19.4,Spain,A Brown-Carrera,Tashiba Mirza,Farial Zia Safdar,4,0,,,,,,"",""
+ball,1,19.5,Spain,A Brown-Carrera,Tashiba Mirza,Farial Zia Safdar,2,0,,,,,,"",""
+ball,1,19.6,Spain,A Brown-Carrera,Tashiba Mirza,Farial Zia Safdar,2,0,,,,,,"",""
+ball,2,0.1,Norway,Ayesha Hasan,Farial Zia Safdar,Uswa Syed,0,0,,,,,,"",""
+ball,2,0.2,Norway,Ayesha Hasan,Farial Zia Safdar,Uswa Syed,2,0,,,,,,"",""
+ball,2,0.3,Norway,Ayesha Hasan,Farial Zia Safdar,Uswa Syed,0,0,,,,,,"",""
+ball,2,0.4,Norway,Ayesha Hasan,Farial Zia Safdar,Uswa Syed,1,0,,,,,,"",""
+ball,2,0.5,Norway,Farial Zia Safdar,Ayesha Hasan,Uswa Syed,0,0,,,,,,caught and bowled,Farial Zia Safdar
+ball,2,0.6,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,1.1,Norway,Ayesha Hasan,Pooja Kumari,A Brown-Carrera,1,0,,,,,,"",""
+ball,2,1.2,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,2,2,,,,,"",""
+ball,2,1.3,Norway,Ayesha Hasan,Pooja Kumari,A Brown-Carrera,4,0,,,,,,"",""
+ball,2,1.4,Norway,Ayesha Hasan,Pooja Kumari,A Brown-Carrera,0,1,,,1,,,"",""
+ball,2,1.5,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,1.6,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,1,0,,,,,,"",""
+ball,2,1.7,Norway,Ayesha Hasan,Pooja Kumari,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,2.1,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,2.2,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,2.3,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,2.4,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,1,0,,,,,,"",""
+ball,2,2.5,Norway,Ayesha Hasan,Pooja Kumari,Uswa Syed,0,0,,,,,,"",""
+ball,2,2.6,Norway,Ayesha Hasan,Pooja Kumari,Uswa Syed,0,0,,,,,,"",""
+ball,2,3.1,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,1,1,,,,,"",""
+ball,2,3.2,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,3.3,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,3.4,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,3.5,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,4,0,,,,,,"",""
+ball,2,3.6,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,1,,1,,,,"",""
+ball,2,3.7,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,1,1,,,,,"",""
+ball,2,3.8,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,3.9,Norway,Pooja Kumari,Ayesha Hasan,A Brown-Carrera,1,0,,,,,,"",""
+ball,2,4.1,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,4.2,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,4.3,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,4.4,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,4.5,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,1,0,,,,,,"",""
+ball,2,4.6,Norway,Ayesha Hasan,Pooja Kumari,Uswa Syed,0,1,1,,,,,"",""
+ball,2,4.7,Norway,Ayesha Hasan,Pooja Kumari,Uswa Syed,0,0,,,,,,"",""
+ball,2,5.1,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,0,0,,,,,,"",""
+ball,2,5.2,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,0,0,,,,,,"",""
+ball,2,5.3,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,0,0,,,,,,"",""
+ball,2,5.4,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,0,0,,,,,,"",""
+ball,2,5.5,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,0,0,,,,,,"",""
+ball,2,5.6,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,0,0,,,,,,"",""
+ball,2,6.1,Norway,Ayesha Hasan,Pooja Kumari,Uswa Syed,4,0,,,,,,"",""
+ball,2,6.2,Norway,Ayesha Hasan,Pooja Kumari,Uswa Syed,1,0,,,,,,"",""
+ball,2,6.3,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,6.4,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,6.5,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,6.6,Norway,Pooja Kumari,Ayesha Hasan,Uswa Syed,0,0,,,,,,"",""
+ball,2,7.1,Norway,Ayesha Hasan,Pooja Kumari,NH Berejo,1,0,,,,,,"",""
+ball,2,7.2,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,1,0,,,,,,"",""
+ball,2,7.3,Norway,Ayesha Hasan,Pooja Kumari,NH Berejo,1,0,,,,,,"",""
+ball,2,7.4,Norway,Pooja Kumari,Ayesha Hasan,NH Berejo,1,0,,,,,,"",""
+ball,2,7.5,Norway,Ayesha Hasan,Pooja Kumari,NH Berejo,0,0,,,,,,"",""
+ball,2,7.6,Norway,Ayesha Hasan,Pooja Kumari,NH Berejo,2,0,,,,,,"",""
+ball,2,8.1,Norway,Pooja Kumari,Ayesha Hasan,P Chilongia,0,0,,,,,,"",""
+ball,2,8.2,Norway,Pooja Kumari,Ayesha Hasan,P Chilongia,0,0,,,,,,bowled,Pooja Kumari
+ball,2,8.3,Norway,R Immadi,Ayesha Hasan,P Chilongia,0,2,2,,,,,"",""
+ball,2,8.4,Norway,Ayesha Hasan,R Immadi,P Chilongia,0,0,,,,,,"",""
+ball,2,8.5,Norway,Ayesha Hasan,R Immadi,P Chilongia,0,0,,,,,,"",""
+ball,2,8.6,Norway,Ayesha Hasan,R Immadi,P Chilongia,2,0,,,,,,"",""
+ball,2,8.7,Norway,Ayesha Hasan,R Immadi,P Chilongia,0,0,,,,,,"",""
+ball,2,9.1,Norway,R Immadi,Ayesha Hasan,JG Kaur,2,0,,,,,,"",""
+ball,2,9.2,Norway,R Immadi,Ayesha Hasan,JG Kaur,1,0,,,,,,"",""
+ball,2,9.3,Norway,Ayesha Hasan,R Immadi,JG Kaur,0,0,,,,,,"",""
+ball,2,9.4,Norway,Ayesha Hasan,R Immadi,JG Kaur,1,0,,,,,,"",""
+ball,2,9.5,Norway,R Immadi,Ayesha Hasan,JG Kaur,0,1,1,,,,,"",""
+ball,2,9.6,Norway,R Immadi,Ayesha Hasan,JG Kaur,0,0,,,,,,"",""
+ball,2,9.7,Norway,R Immadi,Ayesha Hasan,JG Kaur,0,0,,,,,,"",""
+ball,2,10.1,Norway,Ayesha Hasan,R Immadi,P Chilongia,0,0,,,,,,"",""
+ball,2,10.2,Norway,Ayesha Hasan,R Immadi,P Chilongia,1,0,,,,,,"",""
+ball,2,10.3,Norway,R Immadi,Ayesha Hasan,P Chilongia,0,0,,,,,,"",""
+ball,2,10.4,Norway,R Immadi,Ayesha Hasan,P Chilongia,2,0,,,,,,"",""
+ball,2,10.5,Norway,R Immadi,Ayesha Hasan,P Chilongia,0,1,1,,,,,"",""
+ball,2,10.6,Norway,R Immadi,Ayesha Hasan,P Chilongia,0,0,,,,,,"",""
+ball,2,10.7,Norway,R Immadi,Ayesha Hasan,P Chilongia,0,0,,,,,,"",""
+ball,2,11.1,Norway,Ayesha Hasan,R Immadi,JG Kaur,0,1,,,1,,,"",""
+ball,2,11.2,Norway,R Immadi,Ayesha Hasan,JG Kaur,0,1,1,,,,,"",""
+ball,2,11.3,Norway,R Immadi,Ayesha Hasan,JG Kaur,0,0,,,,,,"",""
+ball,2,11.4,Norway,R Immadi,Ayesha Hasan,JG Kaur,1,0,,,,,,"",""
+ball,2,11.5,Norway,Ayesha Hasan,R Immadi,JG Kaur,0,0,,,,,,"",""
+ball,2,11.6,Norway,Ayesha Hasan,R Immadi,JG Kaur,0,0,,,,,,"",""
+ball,2,11.7,Norway,Ayesha Hasan,R Immadi,JG Kaur,1,1,,1,,,,"",""
+ball,2,11.8,Norway,R Immadi,Ayesha Hasan,JG Kaur,0,0,,,,,,"",""
+ball,2,12.1,Norway,Ayesha Hasan,R Immadi,Wania Malik,1,0,,,,,,"",""
+ball,2,12.2,Norway,R Immadi,Ayesha Hasan,Wania Malik,0,1,1,,,,,"",""
+ball,2,12.3,Norway,R Immadi,Ayesha Hasan,Wania Malik,0,0,,,,,,"",""
+ball,2,12.4,Norway,R Immadi,Ayesha Hasan,Wania Malik,0,0,,,,,,lbw,R Immadi
+ball,2,12.5,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,0,,,,,,"",""
+ball,2,12.6,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,0,,,,,,"",""
+ball,2,12.7,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,0,,,,,,"",""
+ball,2,13.1,Norway,Ayesha Hasan,Bijeyata Kumari,JG Kaur,4,0,,,,,,"",""
+ball,2,13.2,Norway,Ayesha Hasan,Bijeyata Kumari,JG Kaur,2,0,,,,,,"",""
+ball,2,13.3,Norway,Ayesha Hasan,Bijeyata Kumari,JG Kaur,0,0,,,,,,"",""
+ball,2,13.4,Norway,Ayesha Hasan,Bijeyata Kumari,JG Kaur,0,0,,,,,,"",""
+ball,2,13.5,Norway,Ayesha Hasan,Bijeyata Kumari,JG Kaur,0,1,1,,,,,"",""
+ball,2,13.6,Norway,Ayesha Hasan,Bijeyata Kumari,JG Kaur,1,0,,,,,,"",""
+ball,2,13.7,Norway,Bijeyata Kumari,Ayesha Hasan,JG Kaur,0,0,,,,,,"",""
+ball,2,14.1,Norway,Ayesha Hasan,Bijeyata Kumari,Wania Malik,0,0,,,,,,"",""
+ball,2,14.2,Norway,Ayesha Hasan,Bijeyata Kumari,Wania Malik,1,0,,,,,,"",""
+ball,2,14.3,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,1,1,,,,,"",""
+ball,2,14.4,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,0,,,,,,"",""
+ball,2,14.5,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,0,,,,,,"",""
+ball,2,14.6,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,1,1,,,,,"",""
+ball,2,14.7,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,0,0,,,,,,"",""
+ball,2,14.8,Norway,Bijeyata Kumari,Ayesha Hasan,Wania Malik,1,0,,,,,,"",""
+ball,2,15.1,Norway,Bijeyata Kumari,Ayesha Hasan,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,15.2,Norway,Bijeyata Kumari,Ayesha Hasan,A Brown-Carrera,1,0,,,,,,"",""
+ball,2,15.3,Norway,Ayesha Hasan,Bijeyata Kumari,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,15.4,Norway,Ayesha Hasan,Bijeyata Kumari,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,15.5,Norway,Ayesha Hasan,Bijeyata Kumari,A Brown-Carrera,0,1,,1,,,,"",""
+ball,2,15.6,Norway,Ayesha Hasan,Bijeyata Kumari,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,15.7,Norway,Ayesha Hasan,Bijeyata Kumari,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,16.1,Norway,Bijeyata Kumari,Ayesha Hasan,P Chilongia,0,1,1,,,,,"",""
+ball,2,16.2,Norway,Bijeyata Kumari,Ayesha Hasan,P Chilongia,0,1,1,,,,,"",""
+ball,2,16.3,Norway,Bijeyata Kumari,Ayesha Hasan,P Chilongia,0,0,,,,,,"",""
+ball,2,16.4,Norway,Bijeyata Kumari,Ayesha Hasan,P Chilongia,0,0,,,,,,bowled,Bijeyata Kumari
+ball,2,16.5,Norway,Mahnoor Akram,Ayesha Hasan,P Chilongia,0,0,,,,,,"",""
+ball,2,16.6,Norway,Mahnoor Akram,Ayesha Hasan,P Chilongia,0,0,,,,,,bowled,Mahnoor Akram
+ball,2,16.7,Norway,Hina Hussain,Ayesha Hasan,P Chilongia,1,0,,,,,,"",""
+ball,2,16.8,Norway,Ayesha Hasan,Hina Hussain,P Chilongia,1,0,,,,,,"",""
+ball,2,17.1,Norway,Ayesha Hasan,Hina Hussain,A Brown-Carrera,1,0,,,,,,run out,Hina Hussain
+ball,2,17.2,Norway,Ayesha Hasan,S Kunaratnam,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,17.3,Norway,Ayesha Hasan,S Kunaratnam,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,17.4,Norway,Ayesha Hasan,S Kunaratnam,A Brown-Carrera,0,0,,,,,,caught and bowled,Ayesha Hasan
+ball,2,17.5,Norway,Lopamudra,S Kunaratnam,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,17.6,Norway,Lopamudra,S Kunaratnam,A Brown-Carrera,0,1,1,,,,,"",""
+ball,2,17.7,Norway,Lopamudra,S Kunaratnam,A Brown-Carrera,0,0,,,,,,"",""
+ball,2,18.1,Norway,S Kunaratnam,Lopamudra,P Chilongia,0,1,1,,,,,"",""
+ball,2,18.2,Norway,S Kunaratnam,Lopamudra,P Chilongia,0,0,,,,,,"",""
+ball,2,18.3,Norway,S Kunaratnam,Lopamudra,P Chilongia,1,0,,,,,,"",""
+ball,2,18.4,Norway,Lopamudra,S Kunaratnam,P Chilongia,0,0,,,,,,"",""
+ball,2,18.5,Norway,Lopamudra,S Kunaratnam,P Chilongia,0,1,1,,,,,"",""
+ball,2,18.6,Norway,Lopamudra,S Kunaratnam,P Chilongia,0,0,,,,,,"",""
+ball,2,18.7,Norway,Lopamudra,S Kunaratnam,P Chilongia,0,0,,,,,,"",""
+ball,2,18.8,Norway,Lopamudra,S Kunaratnam,P Chilongia,2,0,,,,,,"",""
+ball,2,19.1,Norway,S Kunaratnam,Lopamudra,NH Berejo,0,0,,,,,,"",""
+ball,2,19.2,Norway,S Kunaratnam,Lopamudra,NH Berejo,0,0,,,,,,run out,Lopamudra
+ball,2,19.3,Norway,S Kunaratnam,A Rautela,NH Berejo,0,0,,,,,,"",""
+ball,2,19.4,Norway,S Kunaratnam,A Rautela,NH Berejo,0,0,,,,,,"",""
+ball,2,19.5,Norway,S Kunaratnam,A Rautela,NH Berejo,0,0,,,,,,"",""
+ball,2,19.6,Norway,S Kunaratnam,A Rautela,NH Berejo,0,1,,,1,,,"",""

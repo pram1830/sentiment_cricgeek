@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Brazil
+info,gender,male
+info,season,2024/25
+info,date,2024/12/16
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,36
+info,venue,"St George's College Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Brazil
+info,toss_decision,field
+info,player_of_match,AAP Rivero
+info,umpire,A Gajjar
+info,umpire,C La Borde
+info,reserve_umpire,H Grewal
+info,match_referee,Phil Whitticase
+info,winner,Argentina
+info,winner_runs,11
+info,player,Argentina,B Angeltti
+info,player,Argentina,AAP Rivero
+info,player,Argentina,P Baron
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,A Ferguson
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,Guido Angeletti
+info,player,Argentina,H Fennell
+info,player,Argentina,A Mustafa
+info,player,Argentina,Santiago Iturbe
+info,player,Argentina,Santiago Duggan
+info,player,Brazil,G Caisley
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,LF Muller
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,W Maximo
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,L Maximo
+info,player,Brazil,R Avery
+info,player,Brazil,G Oliveira
+info,player,Brazil,IC Simao
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,A Mustafa,a4571ba9
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,B Angeltti,3cdab0cc
+info,registry,people,C La Borde,32157f67
+info,registry,people,G Caisley,0f06d3cd
+info,registry,people,G Oliveira,b4c52f5f
+info,registry,people,Guido Angeletti,6d6f52fc
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,H Grewal,1172f36e
+info,registry,people,IC Simao,dcc76384
+info,registry,people,L Maximo,58c0c30c
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Manuel Iturbe,bddbf5ec
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Avery,094ebfb6
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Santiago Iturbe,851b0636
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Yasar Haroon,5a8dc41e
+ball,1,0.1,Argentina,B Angeltti,AAP Rivero,LH Rodrigues,0,1,1,,,,,"",""
+ball,1,0.2,Argentina,B Angeltti,AAP Rivero,LH Rodrigues,0,0,,,,,,caught and bowled,B Angeltti
+ball,1,0.3,Argentina,P Baron,AAP Rivero,LH Rodrigues,0,0,,,,,,"",""
+ball,1,0.4,Argentina,P Baron,AAP Rivero,LH Rodrigues,0,0,,,,,,"",""
+ball,1,0.5,Argentina,P Baron,AAP Rivero,LH Rodrigues,0,1,1,,,,,"",""
+ball,1,0.6,Argentina,P Baron,AAP Rivero,LH Rodrigues,0,0,,,,,,"",""
+ball,1,0.7,Argentina,P Baron,AAP Rivero,LH Rodrigues,1,0,,,,,,"",""
+ball,1,0.8,Argentina,AAP Rivero,P Baron,LH Rodrigues,0,0,,,,,,"",""
+ball,1,1.1,Argentina,P Baron,AAP Rivero,Yasar Haroon,1,0,,,,,,"",""
+ball,1,1.2,Argentina,AAP Rivero,P Baron,Yasar Haroon,0,0,,,,,,"",""
+ball,1,1.3,Argentina,AAP Rivero,P Baron,Yasar Haroon,0,0,,,,,,"",""
+ball,1,1.4,Argentina,AAP Rivero,P Baron,Yasar Haroon,1,0,,,,,,"",""
+ball,1,1.5,Argentina,P Baron,AAP Rivero,Yasar Haroon,0,0,,,,,,"",""
+ball,1,1.6,Argentina,P Baron,AAP Rivero,Yasar Haroon,0,0,,,,,,caught,P Baron
+ball,1,2.1,Argentina,AAP Rivero,A Kirschbaum,LH Rodrigues,0,0,,,,,,"",""
+ball,1,2.2,Argentina,AAP Rivero,A Kirschbaum,LH Rodrigues,0,0,,,,,,"",""
+ball,1,2.3,Argentina,AAP Rivero,A Kirschbaum,LH Rodrigues,0,0,,,,,,"",""
+ball,1,2.4,Argentina,AAP Rivero,A Kirschbaum,LH Rodrigues,0,0,,,,,,"",""
+ball,1,2.5,Argentina,AAP Rivero,A Kirschbaum,LH Rodrigues,0,0,,,,,,"",""
+ball,1,2.6,Argentina,AAP Rivero,A Kirschbaum,LH Rodrigues,2,0,,,,,,"",""
+ball,1,3.1,Argentina,A Kirschbaum,AAP Rivero,Yasar Haroon,0,0,,,,,,"",""
+ball,1,3.2,Argentina,A Kirschbaum,AAP Rivero,Yasar Haroon,0,0,,,,,,"",""
+ball,1,3.3,Argentina,A Kirschbaum,AAP Rivero,Yasar Haroon,0,0,,,,,,"",""
+ball,1,3.4,Argentina,A Kirschbaum,AAP Rivero,Yasar Haroon,0,4,,,4,,,"",""
+ball,1,3.5,Argentina,A Kirschbaum,AAP Rivero,Yasar Haroon,1,0,,,,,,"",""
+ball,1,3.6,Argentina,AAP Rivero,A Kirschbaum,Yasar Haroon,0,0,,,,,,"",""
+ball,1,4.1,Argentina,A Kirschbaum,AAP Rivero,IC Simao,0,0,,,,,,"",""
+ball,1,4.2,Argentina,A Kirschbaum,AAP Rivero,IC Simao,0,0,,,,,,"",""
+ball,1,4.3,Argentina,A Kirschbaum,AAP Rivero,IC Simao,1,0,,,,,,"",""
+ball,1,4.4,Argentina,AAP Rivero,A Kirschbaum,IC Simao,1,0,,,,,,"",""
+ball,1,4.5,Argentina,A Kirschbaum,AAP Rivero,IC Simao,4,0,,,,,,"",""
+ball,1,4.6,Argentina,A Kirschbaum,AAP Rivero,IC Simao,1,0,,,,,,"",""
+ball,1,5.1,Argentina,A Kirschbaum,AAP Rivero,R Avery,1,0,,,,,,"",""
+ball,1,5.2,Argentina,AAP Rivero,A Kirschbaum,R Avery,0,0,,,,,,"",""
+ball,1,5.3,Argentina,AAP Rivero,A Kirschbaum,R Avery,1,0,,,,,,"",""
+ball,1,5.4,Argentina,A Kirschbaum,AAP Rivero,R Avery,1,0,,,,,,"",""
+ball,1,5.5,Argentina,AAP Rivero,A Kirschbaum,R Avery,1,0,,,,,,"",""
+ball,1,5.6,Argentina,A Kirschbaum,AAP Rivero,R Avery,0,0,,,,,,caught,A Kirschbaum
+ball,1,6.1,Argentina,AAP Rivero,A Ferguson,IC Simao,0,0,,,,,,"",""
+ball,1,6.2,Argentina,AAP Rivero,A Ferguson,IC Simao,4,0,,,,,,"",""
+ball,1,6.3,Argentina,AAP Rivero,A Ferguson,IC Simao,0,0,,,,,,"",""
+ball,1,6.4,Argentina,AAP Rivero,A Ferguson,IC Simao,0,0,,,,,,"",""
+ball,1,6.5,Argentina,AAP Rivero,A Ferguson,IC Simao,0,0,,,,,,"",""
+ball,1,6.6,Argentina,AAP Rivero,A Ferguson,IC Simao,2,0,,,,,,"",""
+ball,1,7.1,Argentina,A Ferguson,AAP Rivero,R Avery,0,0,,,,,,"",""
+ball,1,7.2,Argentina,A Ferguson,AAP Rivero,R Avery,1,0,,,,,,"",""
+ball,1,7.3,Argentina,AAP Rivero,A Ferguson,R Avery,0,0,,,,,,"",""
+ball,1,7.4,Argentina,AAP Rivero,A Ferguson,R Avery,6,0,,,,,,"",""
+ball,1,7.5,Argentina,AAP Rivero,A Ferguson,R Avery,0,0,,,,,,"",""
+ball,1,7.6,Argentina,AAP Rivero,A Ferguson,R Avery,1,0,,,,,,"",""
+ball,1,8.1,Argentina,AAP Rivero,A Ferguson,IC Simao,2,0,,,,,,"",""
+ball,1,8.2,Argentina,AAP Rivero,A Ferguson,IC Simao,2,0,,,,,,"",""
+ball,1,8.3,Argentina,AAP Rivero,A Ferguson,IC Simao,0,1,1,,,,,"",""
+ball,1,8.4,Argentina,AAP Rivero,A Ferguson,IC Simao,0,0,,,,,,"",""
+ball,1,8.5,Argentina,AAP Rivero,A Ferguson,IC Simao,0,1,,,1,,,"",""
+ball,1,8.6,Argentina,A Ferguson,AAP Rivero,IC Simao,0,0,,,,,,"",""
+ball,1,8.7,Argentina,A Ferguson,AAP Rivero,IC Simao,1,0,,,,,,"",""
+ball,1,9.1,Argentina,A Ferguson,AAP Rivero,Muhammad Saleem,1,0,,,,,,"",""
+ball,1,9.2,Argentina,AAP Rivero,A Ferguson,Muhammad Saleem,1,0,,,,,,"",""
+ball,1,9.3,Argentina,A Ferguson,AAP Rivero,Muhammad Saleem,0,0,,,,,,"",""
+ball,1,9.4,Argentina,A Ferguson,AAP Rivero,Muhammad Saleem,0,0,,,,,,"",""
+ball,1,9.5,Argentina,A Ferguson,AAP Rivero,Muhammad Saleem,0,0,,,,,,"",""
+ball,1,9.6,Argentina,A Ferguson,AAP Rivero,Muhammad Saleem,0,0,,,,,,"",""
+ball,1,10.1,Argentina,AAP Rivero,A Ferguson,G Oliveira,0,0,,,,,,"",""
+ball,1,10.2,Argentina,AAP Rivero,A Ferguson,G Oliveira,1,0,,,,,,"",""
+ball,1,10.3,Argentina,A Ferguson,AAP Rivero,G Oliveira,4,0,,,,,,"",""
+ball,1,10.4,Argentina,A Ferguson,AAP Rivero,G Oliveira,0,0,,,,,,"",""
+ball,1,10.5,Argentina,A Ferguson,AAP Rivero,G Oliveira,0,0,,,,,,"",""
+ball,1,10.6,Argentina,A Ferguson,AAP Rivero,G Oliveira,1,0,,,,,,"",""
+ball,1,11.1,Argentina,A Ferguson,AAP Rivero,Muhammad Saleem,0,1,1,,,,,"",""
+ball,1,11.2,Argentina,A Ferguson,AAP Rivero,Muhammad Saleem,1,0,,,,,,"",""
+ball,1,11.3,Argentina,AAP Rivero,A Ferguson,Muhammad Saleem,0,0,,,,,,"",""
+ball,1,11.4,Argentina,AAP Rivero,A Ferguson,Muhammad Saleem,1,0,,,,,,retired hurt,A Ferguson
+ball,1,11.5,Argentina,Lucas Rossi,AAP Rivero,Muhammad Saleem,0,0,,,,,,"",""
+ball,1,11.6,Argentina,Lucas Rossi,AAP Rivero,Muhammad Saleem,1,0,,,,,,"",""
+ball,1,11.7,Argentina,AAP Rivero,Lucas Rossi,Muhammad Saleem,0,0,,,,,,"",""
+ball,1,12.1,Argentina,Lucas Rossi,AAP Rivero,LH Rodrigues,2,0,,,,,,"",""
+ball,1,12.2,Argentina,Lucas Rossi,AAP Rivero,LH Rodrigues,0,0,,,,,,"",""
+ball,1,12.3,Argentina,Lucas Rossi,AAP Rivero,LH Rodrigues,4,0,,,,,,"",""
+ball,1,12.4,Argentina,Lucas Rossi,AAP Rivero,LH Rodrigues,0,0,,,,,,"",""
+ball,1,12.5,Argentina,Lucas Rossi,AAP Rivero,LH Rodrigues,0,0,,,,,,"",""
+ball,1,12.6,Argentina,Lucas Rossi,AAP Rivero,LH Rodrigues,2,0,,,,,,"",""
+ball,1,13.1,Argentina,AAP Rivero,Lucas Rossi,Yasar Haroon,0,0,,,,,,"",""
+ball,1,13.2,Argentina,AAP Rivero,Lucas Rossi,Yasar Haroon,0,0,,,,,,"",""
+ball,1,13.3,Argentina,AAP Rivero,Lucas Rossi,Yasar Haroon,1,0,,,,,,"",""
+ball,1,13.4,Argentina,Lucas Rossi,AAP Rivero,Yasar Haroon,2,0,,,,,,"",""
+ball,1,13.5,Argentina,Lucas Rossi,AAP Rivero,Yasar Haroon,0,0,,,,,,"",""
+ball,1,13.6,Argentina,Lucas Rossi,AAP Rivero,Yasar Haroon,0,0,,,,,,"",""
+ball,1,14.1,Argentina,AAP Rivero,Lucas Rossi,R Avery,2,0,,,,,,"",""
+ball,1,14.2,Argentina,AAP Rivero,Lucas Rossi,R Avery,0,0,,,,,,"",""
+ball,1,14.3,Argentina,AAP Rivero,Lucas Rossi,R Avery,2,0,,,,,,"",""
+ball,1,14.4,Argentina,AAP Rivero,Lucas Rossi,R Avery,0,0,,,,,,bowled,AAP Rivero
+ball,1,14.5,Argentina,Guido Angeletti,Lucas Rossi,R Avery,1,0,,,,,,"",""
+ball,1,14.6,Argentina,Lucas Rossi,Guido Angeletti,R Avery,0,0,,,,,,"",""
+ball,1,15.1,Argentina,Guido Angeletti,Lucas Rossi,Yasar Haroon,0,0,,,,,,"",""
+ball,1,15.2,Argentina,Guido Angeletti,Lucas Rossi,Yasar Haroon,1,0,,,,,,"",""
+ball,1,15.3,Argentina,Lucas Rossi,Guido Angeletti,Yasar Haroon,0,0,,,,,,"",""
+ball,1,15.4,Argentina,Lucas Rossi,Guido Angeletti,Yasar Haroon,1,0,,,,,,"",""
+ball,1,15.5,Argentina,Guido Angeletti,Lucas Rossi,Yasar Haroon,0,0,,,,,,"",""
+ball,1,15.6,Argentina,Guido Angeletti,Lucas Rossi,Yasar Haroon,6,0,,,,,,"",""
+ball,1,16.1,Argentina,Lucas Rossi,Guido Angeletti,R Avery,0,0,,,,,,"",""
+ball,1,16.2,Argentina,Lucas Rossi,Guido Angeletti,R Avery,1,0,,,,,,"",""
+ball,1,16.3,Argentina,Guido Angeletti,Lucas Rossi,R Avery,0,0,,,,,,"",""
+ball,1,16.4,Argentina,Guido Angeletti,Lucas Rossi,R Avery,1,0,,,,,,"",""
+ball,1,16.5,Argentina,Lucas Rossi,Guido Angeletti,R Avery,2,0,,,,,,"",""
+ball,1,16.6,Argentina,Lucas Rossi,Guido Angeletti,R Avery,4,0,,,,,,"",""
+ball,1,17.1,Argentina,Guido Angeletti,Lucas Rossi,LF Muller,2,0,,,,,,"",""
+ball,1,17.2,Argentina,Guido Angeletti,Lucas Rossi,LF Muller,0,0,,,,,,caught,Guido Angeletti
+ball,1,17.3,Argentina,H Fennell,Lucas Rossi,LF Muller,0,0,,,,,,"",""
+ball,1,17.4,Argentina,H Fennell,Lucas Rossi,LF Muller,1,0,,,,,,"",""
+ball,1,17.5,Argentina,Lucas Rossi,H Fennell,LF Muller,1,0,,,,,,"",""
+ball,1,17.6,Argentina,H Fennell,Lucas Rossi,LF Muller,4,0,,,,,,"",""
+ball,1,18.1,Argentina,Lucas Rossi,H Fennell,LH Rodrigues,0,0,,,,,,bowled,Lucas Rossi
+ball,1,18.2,Argentina,A Mustafa,H Fennell,LH Rodrigues,2,0,,,,,,"",""
+ball,1,18.3,Argentina,A Mustafa,H Fennell,LH Rodrigues,1,0,,,,,,"",""
+ball,1,18.4,Argentina,H Fennell,A Mustafa,LH Rodrigues,0,0,,,,,,bowled,H Fennell
+ball,1,18.5,Argentina,Santiago Iturbe,A Mustafa,LH Rodrigues,0,0,,,,,,"",""
+ball,1,18.6,Argentina,Santiago Iturbe,A Mustafa,LH Rodrigues,0,0,,,,,,"",""
+ball,1,19.1,Argentina,A Mustafa,Santiago Iturbe,IC Simao,0,0,,,,,,"",""
+ball,1,19.2,Argentina,A Mustafa,Santiago Iturbe,IC Simao,2,0,,,,,,"",""
+ball,1,19.3,Argentina,A Mustafa,Santiago Iturbe,IC Simao,2,0,,,,,,"",""
+ball,1,19.4,Argentina,A Mustafa,Santiago Iturbe,IC Simao,1,0,,,,,,"",""
+ball,1,19.5,Argentina,Santiago Iturbe,A Mustafa,IC Simao,1,0,,,,,,"",""
+ball,1,19.6,Argentina,A Mustafa,Santiago Iturbe,IC Simao,2,0,,,,,,"",""
+ball,2,0.1,Brazil,G Caisley,LH Rodrigues,A Kirschbaum,0,0,,,,,,"",""
+ball,2,0.2,Brazil,G Caisley,LH Rodrigues,A Kirschbaum,0,1,1,,,,,"",""
+ball,2,0.3,Brazil,G Caisley,LH Rodrigues,A Kirschbaum,0,0,,,,,,"",""
+ball,2,0.4,Brazil,G Caisley,LH Rodrigues,A Kirschbaum,0,0,,,,,,"",""
+ball,2,0.5,Brazil,G Caisley,LH Rodrigues,A Kirschbaum,1,0,,,,,,"",""
+ball,2,0.6,Brazil,LH Rodrigues,G Caisley,A Kirschbaum,0,0,,,,,,"",""
+ball,2,0.7,Brazil,LH Rodrigues,G Caisley,A Kirschbaum,0,0,,,,,,"",""
+ball,2,1.1,Brazil,G Caisley,LH Rodrigues,H Fennell,0,0,,,,,,caught,G Caisley
+ball,2,1.2,Brazil,LF Muller,LH Rodrigues,H Fennell,0,0,,,,,,"",""
+ball,2,1.3,Brazil,LF Muller,LH Rodrigues,H Fennell,4,0,,,,,,"",""
+ball,2,1.4,Brazil,LF Muller,LH Rodrigues,H Fennell,1,0,,,,,,"",""
+ball,2,1.5,Brazil,LH Rodrigues,LF Muller,H Fennell,1,0,,,,,,"",""
+ball,2,1.6,Brazil,LF Muller,LH Rodrigues,H Fennell,0,0,,,,,,caught,LF Muller
+ball,2,2.1,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,0,1,1,,,,,"",""
+ball,2,2.2,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,0,0,,,,,,"",""
+ball,2,2.3,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,1,0,,,,,,"",""
+ball,2,2.4,Brazil,Yasar Haroon,LH Rodrigues,Santiago Duggan,1,0,,,,,,"",""
+ball,2,2.5,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,0,0,,,,,,"",""
+ball,2,2.6,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,0,0,,,,,,"",""
+ball,2,2.7,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,1,0,,,,,,"",""
+ball,2,3.1,Brazil,LH Rodrigues,Yasar Haroon,H Fennell,0,0,,,,,,"",""
+ball,2,3.2,Brazil,LH Rodrigues,Yasar Haroon,H Fennell,0,0,,,,,,"",""
+ball,2,3.3,Brazil,LH Rodrigues,Yasar Haroon,H Fennell,1,0,,,,,,"",""
+ball,2,3.4,Brazil,Yasar Haroon,LH Rodrigues,H Fennell,1,0,,,,,,"",""
+ball,2,3.5,Brazil,LH Rodrigues,Yasar Haroon,H Fennell,1,0,,,,,,"",""
+ball,2,3.6,Brazil,Yasar Haroon,LH Rodrigues,H Fennell,0,0,,,,,,"",""
+ball,2,4.1,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,4,0,,,,,,"",""
+ball,2,4.2,Brazil,LH Rodrigues,Yasar Haroon,Santiago Duggan,0,0,,,,,,caught,LH Rodrigues
+ball,2,4.3,Brazil,W Maximo,Yasar Haroon,Santiago Duggan,1,0,,,,,,"",""
+ball,2,4.4,Brazil,Yasar Haroon,W Maximo,Santiago Duggan,0,0,,,,,,"",""
+ball,2,4.5,Brazil,Yasar Haroon,W Maximo,Santiago Duggan,1,0,,,,,,"",""
+ball,2,4.6,Brazil,W Maximo,Yasar Haroon,Santiago Duggan,0,0,,,,,,"",""
+ball,2,5.1,Brazil,Yasar Haroon,W Maximo,H Fennell,1,0,,,,,,"",""
+ball,2,5.2,Brazil,W Maximo,Yasar Haroon,H Fennell,0,1,1,,,,,"",""
+ball,2,5.3,Brazil,W Maximo,Yasar Haroon,H Fennell,0,0,,,,,,"",""
+ball,2,5.4,Brazil,W Maximo,Yasar Haroon,H Fennell,0,0,,,,,,"",""
+ball,2,5.5,Brazil,W Maximo,Yasar Haroon,H Fennell,0,0,,,,,,"",""
+ball,2,5.6,Brazil,W Maximo,Yasar Haroon,H Fennell,0,0,,,,,,"",""
+ball,2,5.7,Brazil,W Maximo,Yasar Haroon,H Fennell,1,0,,,,,,"",""
+ball,2,6.1,Brazil,W Maximo,Yasar Haroon,A Kirschbaum,0,1,1,,,,,"",""
+ball,2,6.2,Brazil,W Maximo,Yasar Haroon,A Kirschbaum,0,0,,,,,,"",""
+ball,2,6.3,Brazil,W Maximo,Yasar Haroon,A Kirschbaum,0,0,,,,,,"",""
+ball,2,6.4,Brazil,W Maximo,Yasar Haroon,A Kirschbaum,0,0,,,,,,stumped,W Maximo
+ball,2,6.5,Brazil,Muhammad Saleem,Yasar Haroon,A Kirschbaum,1,0,,,,,,"",""
+ball,2,6.6,Brazil,Yasar Haroon,Muhammad Saleem,A Kirschbaum,1,0,,,,,,"",""
+ball,2,6.7,Brazil,Muhammad Saleem,Yasar Haroon,A Kirschbaum,1,0,,,,,,"",""
+ball,2,7.1,Brazil,Muhammad Saleem,Yasar Haroon,Lucas Rossi,0,0,,,,,,"",""
+ball,2,7.2,Brazil,Muhammad Saleem,Yasar Haroon,Lucas Rossi,0,0,,,,,,"",""
+ball,2,7.3,Brazil,Muhammad Saleem,Yasar Haroon,Lucas Rossi,1,0,,,,,,"",""
+ball,2,7.4,Brazil,Yasar Haroon,Muhammad Saleem,Lucas Rossi,0,0,,,,,,"",""
+ball,2,7.5,Brazil,Yasar Haroon,Muhammad Saleem,Lucas Rossi,0,0,,,,,,"",""
+ball,2,7.6,Brazil,Yasar Haroon,Muhammad Saleem,Lucas Rossi,0,0,,,,,,"",""
+ball,2,8.1,Brazil,Muhammad Saleem,Yasar Haroon,A Kirschbaum,0,0,,,,,,"",""
+ball,2,8.2,Brazil,Muhammad Saleem,Yasar Haroon,A Kirschbaum,0,0,,,,,,"",""
+ball,2,8.3,Brazil,Muhammad Saleem,Yasar Haroon,A Kirschbaum,0,1,1,,,,,"",""
+ball,2,8.4,Brazil,Muhammad Saleem,Yasar Haroon,A Kirschbaum,0,0,,,,,,"",""
+ball,2,8.5,Brazil,Muhammad Saleem,Yasar Haroon,A Kirschbaum,1,0,,,,,,"",""
+ball,2,8.6,Brazil,Yasar Haroon,Muhammad Saleem,A Kirschbaum,0,0,,,,,,bowled,Yasar Haroon
+ball,2,8.7,Brazil,MFI Assuncao,Muhammad Saleem,A Kirschbaum,0,0,,,,,,"",""
+ball,2,9.1,Brazil,Muhammad Saleem,MFI Assuncao,Lucas Rossi,1,0,,,,,,"",""
+ball,2,9.2,Brazil,MFI Assuncao,Muhammad Saleem,Lucas Rossi,2,0,,,,,,"",""
+ball,2,9.3,Brazil,MFI Assuncao,Muhammad Saleem,Lucas Rossi,0,0,,,,,,"",""
+ball,2,9.4,Brazil,MFI Assuncao,Muhammad Saleem,Lucas Rossi,0,0,,,,,,"",""
+ball,2,9.5,Brazil,MFI Assuncao,Muhammad Saleem,Lucas Rossi,0,0,,,,,,"",""
+ball,2,9.6,Brazil,MFI Assuncao,Muhammad Saleem,Lucas Rossi,0,0,,,,,,"",""
+ball,2,10.1,Brazil,Muhammad Saleem,MFI Assuncao,A Kirschbaum,0,0,,,,,,"",""
+ball,2,10.2,Brazil,Muhammad Saleem,MFI Assuncao,A Kirschbaum,1,0,,,,,,"",""
+ball,2,10.3,Brazil,MFI Assuncao,Muhammad Saleem,A Kirschbaum,4,0,,,,,,"",""
+ball,2,10.4,Brazil,MFI Assuncao,Muhammad Saleem,A Kirschbaum,1,0,,,,,,"",""
+ball,2,10.5,Brazil,Muhammad Saleem,MFI Assuncao,A Kirschbaum,0,1,1,,,,,"",""
+ball,2,10.6,Brazil,Muhammad Saleem,MFI Assuncao,A Kirschbaum,6,0,,,,,,"",""
+ball,2,10.7,Brazil,Muhammad Saleem,MFI Assuncao,A Kirschbaum,1,0,,,,,,"",""
+ball,2,11.1,Brazil,Muhammad Saleem,MFI Assuncao,Lucas Rossi,0,0,,,,,,"",""
+ball,2,11.2,Brazil,Muhammad Saleem,MFI Assuncao,Lucas Rossi,1,0,,,,,,"",""
+ball,2,11.3,Brazil,MFI Assuncao,Muhammad Saleem,Lucas Rossi,1,0,,,,,,"",""
+ball,2,11.4,Brazil,Muhammad Saleem,MFI Assuncao,Lucas Rossi,6,0,,,,,,"",""
+ball,2,11.5,Brazil,Muhammad Saleem,MFI Assuncao,Lucas Rossi,0,0,,,,,,"",""
+ball,2,11.6,Brazil,Muhammad Saleem,MFI Assuncao,Lucas Rossi,0,0,,,,,,caught,Muhammad Saleem
+ball,2,12.1,Brazil,MFI Assuncao,L Maximo,AAP Rivero,6,0,,,,,,"",""
+ball,2,12.2,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,12.3,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,12.4,Brazil,MFI Assuncao,L Maximo,AAP Rivero,1,0,,,,,,"",""
+ball,2,12.5,Brazil,L Maximo,MFI Assuncao,AAP Rivero,0,0,,,,,,"",""
+ball,2,12.6,Brazil,L Maximo,MFI Assuncao,AAP Rivero,0,0,,,,,,"",""
+ball,2,13.1,Brazil,MFI Assuncao,L Maximo,Lucas Rossi,4,0,,,,,,"",""
+ball,2,13.2,Brazil,MFI Assuncao,L Maximo,Lucas Rossi,2,0,,,,,,"",""
+ball,2,13.3,Brazil,MFI Assuncao,L Maximo,Lucas Rossi,2,0,,,,,,"",""
+ball,2,13.4,Brazil,MFI Assuncao,L Maximo,Lucas Rossi,1,0,,,,,,"",""
+ball,2,13.5,Brazil,L Maximo,MFI Assuncao,Lucas Rossi,0,0,,,,,,"",""
+ball,2,13.6,Brazil,L Maximo,MFI Assuncao,Lucas Rossi,0,0,,,,,,"",""
+ball,2,14.1,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,14.2,Brazil,MFI Assuncao,L Maximo,AAP Rivero,2,0,,,,,,"",""
+ball,2,14.3,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,14.4,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,14.5,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,1,1,,,,,"",""
+ball,2,14.6,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,14.7,Brazil,MFI Assuncao,L Maximo,AAP Rivero,2,0,,,,,,"",""
+ball,2,15.1,Brazil,L Maximo,MFI Assuncao,Santiago Duggan,2,0,,,,,,"",""
+ball,2,15.2,Brazil,L Maximo,MFI Assuncao,Santiago Duggan,0,0,,,,,,"",""
+ball,2,15.3,Brazil,L Maximo,MFI Assuncao,Santiago Duggan,0,0,,,,,,"",""
+ball,2,15.4,Brazil,L Maximo,MFI Assuncao,Santiago Duggan,0,0,,,,,,"",""
+ball,2,15.5,Brazil,L Maximo,MFI Assuncao,Santiago Duggan,1,0,,,,,,"",""
+ball,2,15.6,Brazil,MFI Assuncao,L Maximo,Santiago Duggan,1,0,,,,,,"",""
+ball,2,16.1,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,16.2,Brazil,MFI Assuncao,L Maximo,AAP Rivero,0,0,,,,,,caught,MFI Assuncao
+ball,2,16.3,Brazil,R Avery,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,16.4,Brazil,R Avery,L Maximo,AAP Rivero,2,0,,,,,,"",""
+ball,2,16.5,Brazil,R Avery,L Maximo,AAP Rivero,0,0,,,,,,"",""
+ball,2,16.6,Brazil,R Avery,L Maximo,AAP Rivero,1,0,,,,,,"",""
+ball,2,17.1,Brazil,R Avery,L Maximo,Santiago Duggan,0,1,1,,,,,"",""
+ball,2,17.2,Brazil,R Avery,L Maximo,Santiago Duggan,4,0,,,,,,"",""
+ball,2,17.3,Brazil,R Avery,L Maximo,Santiago Duggan,1,0,,,,,,run out,L Maximo
+ball,2,17.4,Brazil,R Avery,G Oliveira,Santiago Duggan,1,0,,,,,,"",""
+ball,2,17.5,Brazil,G Oliveira,R Avery,Santiago Duggan,0,0,,,,,,"",""
+ball,2,17.6,Brazil,G Oliveira,R Avery,Santiago Duggan,0,0,,,,,,"",""
+ball,2,17.7,Brazil,G Oliveira,R Avery,Santiago Duggan,0,0,,,,,,"",""
+ball,2,18.1,Brazil,R Avery,G Oliveira,AAP Rivero,0,0,,,,,,"",""
+ball,2,18.2,Brazil,R Avery,G Oliveira,AAP Rivero,1,0,,,,,,"",""
+ball,2,18.3,Brazil,G Oliveira,R Avery,AAP Rivero,0,1,1,,,,,"",""
+ball,2,18.4,Brazil,G Oliveira,R Avery,AAP Rivero,1,0,,,,,,"",""
+ball,2,18.5,Brazil,R Avery,G Oliveira,AAP Rivero,1,0,,,,,,"",""
+ball,2,18.6,Brazil,G Oliveira,R Avery,AAP Rivero,0,0,,,,,,caught,G Oliveira
+ball,2,18.7,Brazil,IC Simao,R Avery,AAP Rivero,0,1,1,,,,,"",""
+ball,2,18.8,Brazil,IC Simao,R Avery,AAP Rivero,0,0,,,,,,"",""
+ball,2,19.1,Brazil,R Avery,IC Simao,H Fennell,0,0,,,,,,caught,R Avery

@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Netherlands
+info,gender,female
+info,season,2021
+info,date,2021/08/30
+info,event,ICC Women's T20 World Cup Europe Region Qualifier
+info,match_number,9
+info,venue,La Manga Club Top Ground
+info,city,Murcia
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,EAJ Richardson
+info,umpire,DH Mclean
+info,umpire,M Jameson
+info,reserve_umpire,AJT Dowdalls
+info,match_referee,DT Jukes
+info,winner,Ireland
+info,winner_runs,24
+info,player,Ireland,R Stokell
+info,player,Ireland,GH Lewis
+info,player,Ireland,L Delany
+info,player,Ireland,L Paul
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Maritz
+info,player,Ireland,S MacMahon
+info,player,Ireland,MV Waldron
+info,player,Ireland,C Murray
+info,player,Ireland,A Canning
+info,player,Netherlands,B de Leede
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,R Rijke
+info,player,Netherlands,M Veringmeier
+info,player,Netherlands,J Post
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,C de Lange
+info,player,Netherlands,S Siegers
+info,player,Netherlands,DM Braat
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,AJT Dowdalls,f06852e3
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Murray,5a50471c
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DM Braat,1b61a9fa
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J Post,b58b1ae5
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Maritz,ac8bca8d
+info,registry,people,L Paul,07248d8e
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Veringmeier,3733a317
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,R Rijke,42e4b276
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,S MacMahon,ef2bcebf
+info,registry,people,S Siegers,9a58f2c8
+ball,1,0.1,Ireland,R Stokell,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,0.2,Ireland,R Stokell,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,0.3,Ireland,R Stokell,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,0.4,Ireland,R Stokell,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,0.5,Ireland,R Stokell,GH Lewis,IJR Zwilling,1,0,,,,,,"",""
+ball,1,0.6,Ireland,GH Lewis,R Stokell,IJR Zwilling,1,0,,,,,,"",""
+ball,1,1.1,Ireland,GH Lewis,R Stokell,DM Braat,1,0,,,,,,"",""
+ball,1,1.2,Ireland,R Stokell,GH Lewis,DM Braat,0,0,,,,,,"",""
+ball,1,1.3,Ireland,R Stokell,GH Lewis,DM Braat,2,0,,,,,,"",""
+ball,1,1.4,Ireland,R Stokell,GH Lewis,DM Braat,0,0,,,,,,"",""
+ball,1,1.5,Ireland,R Stokell,GH Lewis,DM Braat,1,0,,,,,,"",""
+ball,1,1.6,Ireland,GH Lewis,R Stokell,DM Braat,2,0,,,,,,"",""
+ball,1,2.1,Ireland,R Stokell,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,2.2,Ireland,R Stokell,GH Lewis,IJR Zwilling,4,0,,,,,,"",""
+ball,1,2.3,Ireland,R Stokell,GH Lewis,IJR Zwilling,0,0,,,,,,lbw,R Stokell
+ball,1,2.4,Ireland,L Delany,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,2.5,Ireland,L Delany,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,2.6,Ireland,L Delany,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,3.1,Ireland,GH Lewis,L Delany,DM Braat,0,0,,,,,,"",""
+ball,1,3.2,Ireland,GH Lewis,L Delany,DM Braat,0,0,,,,,,"",""
+ball,1,3.3,Ireland,GH Lewis,L Delany,DM Braat,0,0,,,,,,"",""
+ball,1,3.4,Ireland,GH Lewis,L Delany,DM Braat,6,0,,,,,,"",""
+ball,1,3.5,Ireland,GH Lewis,L Delany,DM Braat,0,0,,,,,,"",""
+ball,1,3.6,Ireland,GH Lewis,L Delany,DM Braat,0,0,,,,,,"",""
+ball,1,4.1,Ireland,L Delany,GH Lewis,IJR Zwilling,0,1,1,,,,,"",""
+ball,1,4.2,Ireland,L Delany,GH Lewis,IJR Zwilling,0,1,1,,,,,"",""
+ball,1,4.3,Ireland,L Delany,GH Lewis,IJR Zwilling,0,0,,,,,,caught,L Delany
+ball,1,4.4,Ireland,L Paul,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,4.5,Ireland,L Paul,GH Lewis,IJR Zwilling,0,0,,,,,,caught,L Paul
+ball,1,4.6,Ireland,EAJ Richardson,GH Lewis,IJR Zwilling,0,0,,,,,,"",""
+ball,1,4.7,Ireland,EAJ Richardson,GH Lewis,IJR Zwilling,1,0,,,,,,"",""
+ball,1,4.8,Ireland,GH Lewis,EAJ Richardson,IJR Zwilling,1,0,,,,,,"",""
+ball,1,5.1,Ireland,GH Lewis,EAJ Richardson,DM Braat,0,0,,,,,,"",""
+ball,1,5.2,Ireland,GH Lewis,EAJ Richardson,DM Braat,0,0,,,,,,"",""
+ball,1,5.3,Ireland,GH Lewis,EAJ Richardson,DM Braat,2,0,,,,,,"",""
+ball,1,5.4,Ireland,GH Lewis,EAJ Richardson,DM Braat,0,0,,,,,,"",""
+ball,1,5.5,Ireland,GH Lewis,EAJ Richardson,DM Braat,0,1,1,,,,,"",""
+ball,1,5.6,Ireland,GH Lewis,EAJ Richardson,DM Braat,1,0,,,,,,"",""
+ball,1,5.7,Ireland,EAJ Richardson,GH Lewis,DM Braat,0,0,,,,,,"",""
+ball,1,6.1,Ireland,GH Lewis,EAJ Richardson,IJR Zwilling,1,0,,,,,,"",""
+ball,1,6.2,Ireland,EAJ Richardson,GH Lewis,IJR Zwilling,2,0,,,,,,"",""
+ball,1,6.3,Ireland,EAJ Richardson,GH Lewis,IJR Zwilling,0,1,,,,1,,"",""
+ball,1,6.4,Ireland,GH Lewis,EAJ Richardson,IJR Zwilling,0,0,,,,,,"",""
+ball,1,6.5,Ireland,GH Lewis,EAJ Richardson,IJR Zwilling,0,0,,,,,,"",""
+ball,1,6.6,Ireland,GH Lewis,EAJ Richardson,IJR Zwilling,1,0,,,,,,"",""
+ball,1,7.1,Ireland,GH Lewis,EAJ Richardson,DM Braat,1,0,,,,,,"",""
+ball,1,7.2,Ireland,EAJ Richardson,GH Lewis,DM Braat,0,0,,,,,,"",""
+ball,1,7.3,Ireland,EAJ Richardson,GH Lewis,DM Braat,0,0,,,,,,"",""
+ball,1,7.4,Ireland,EAJ Richardson,GH Lewis,DM Braat,4,0,,,,,,"",""
+ball,1,7.5,Ireland,EAJ Richardson,GH Lewis,DM Braat,0,0,,,,,,"",""
+ball,1,7.6,Ireland,EAJ Richardson,GH Lewis,DM Braat,0,0,,,,,,"",""
+ball,1,8.1,Ireland,GH Lewis,EAJ Richardson,F Overdijk,1,0,,,,,,"",""
+ball,1,8.2,Ireland,EAJ Richardson,GH Lewis,F Overdijk,1,0,,,,,,"",""
+ball,1,8.3,Ireland,GH Lewis,EAJ Richardson,F Overdijk,0,0,,,,,,"",""
+ball,1,8.4,Ireland,GH Lewis,EAJ Richardson,F Overdijk,1,0,,,,,,"",""
+ball,1,8.5,Ireland,EAJ Richardson,GH Lewis,F Overdijk,0,0,,,,,,"",""
+ball,1,8.6,Ireland,EAJ Richardson,GH Lewis,F Overdijk,0,0,,,,,,"",""
+ball,1,9.1,Ireland,GH Lewis,EAJ Richardson,C de Lange,0,0,,,,,,"",""
+ball,1,9.2,Ireland,GH Lewis,EAJ Richardson,C de Lange,1,0,,,,,,"",""
+ball,1,9.3,Ireland,EAJ Richardson,GH Lewis,C de Lange,0,1,1,,,,,"",""
+ball,1,9.4,Ireland,EAJ Richardson,GH Lewis,C de Lange,0,0,,,,,,"",""
+ball,1,9.5,Ireland,EAJ Richardson,GH Lewis,C de Lange,0,0,,,,,,"",""
+ball,1,9.6,Ireland,EAJ Richardson,GH Lewis,C de Lange,2,0,,,,,,"",""
+ball,1,9.7,Ireland,EAJ Richardson,GH Lewis,C de Lange,1,0,,,,,,"",""
+ball,1,10.1,Ireland,EAJ Richardson,GH Lewis,F Overdijk,4,0,,,,,,"",""
+ball,1,10.2,Ireland,EAJ Richardson,GH Lewis,F Overdijk,4,0,,,,,,"",""
+ball,1,10.3,Ireland,EAJ Richardson,GH Lewis,F Overdijk,0,0,,,,,,"",""
+ball,1,10.4,Ireland,EAJ Richardson,GH Lewis,F Overdijk,1,0,,,,,,"",""
+ball,1,10.5,Ireland,GH Lewis,EAJ Richardson,F Overdijk,0,0,,,,,,"",""
+ball,1,10.6,Ireland,GH Lewis,EAJ Richardson,F Overdijk,4,0,,,,,,"",""
+ball,1,11.1,Ireland,EAJ Richardson,GH Lewis,C de Lange,2,0,,,,,,"",""
+ball,1,11.2,Ireland,EAJ Richardson,GH Lewis,C de Lange,4,0,,,,,,"",""
+ball,1,11.3,Ireland,EAJ Richardson,GH Lewis,C de Lange,0,0,,,,,,"",""
+ball,1,11.4,Ireland,EAJ Richardson,GH Lewis,C de Lange,0,0,,,,,,"",""
+ball,1,11.5,Ireland,EAJ Richardson,GH Lewis,C de Lange,0,0,,,,,,"",""
+ball,1,11.6,Ireland,EAJ Richardson,GH Lewis,C de Lange,1,0,,,,,,"",""
+ball,1,12.1,Ireland,EAJ Richardson,GH Lewis,S Siegers,4,0,,,,,,"",""
+ball,1,12.2,Ireland,EAJ Richardson,GH Lewis,S Siegers,0,0,,,,,,"",""
+ball,1,12.3,Ireland,EAJ Richardson,GH Lewis,S Siegers,1,0,,,,,,"",""
+ball,1,12.4,Ireland,GH Lewis,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,12.5,Ireland,GH Lewis,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,12.6,Ireland,GH Lewis,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,13.1,Ireland,EAJ Richardson,GH Lewis,EN Lynch,0,0,,,,,,"",""
+ball,1,13.2,Ireland,EAJ Richardson,GH Lewis,EN Lynch,1,0,,,,,,"",""
+ball,1,13.3,Ireland,GH Lewis,EAJ Richardson,EN Lynch,0,0,,,,,,"",""
+ball,1,13.4,Ireland,GH Lewis,EAJ Richardson,EN Lynch,0,0,,,,,,"",""
+ball,1,13.5,Ireland,GH Lewis,EAJ Richardson,EN Lynch,1,0,,,,,,"",""
+ball,1,13.6,Ireland,EAJ Richardson,GH Lewis,EN Lynch,1,0,,,,,,"",""
+ball,1,14.1,Ireland,EAJ Richardson,GH Lewis,S Siegers,1,0,,,,,,"",""
+ball,1,14.2,Ireland,GH Lewis,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,14.3,Ireland,GH Lewis,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,14.4,Ireland,GH Lewis,EAJ Richardson,S Siegers,4,0,,,,,,"",""
+ball,1,14.5,Ireland,GH Lewis,EAJ Richardson,S Siegers,2,0,,,,,,"",""
+ball,1,14.6,Ireland,GH Lewis,EAJ Richardson,S Siegers,1,0,,,,,,"",""
+ball,1,15.1,Ireland,GH Lewis,EAJ Richardson,EN Lynch,0,0,,,,,,caught,GH Lewis
+ball,1,15.2,Ireland,O Prendergast,EAJ Richardson,EN Lynch,0,0,,,,,,caught,O Prendergast
+ball,1,15.3,Ireland,EAJ Richardson,L Maritz,EN Lynch,0,0,,,,,,"",""
+ball,1,15.4,Ireland,EAJ Richardson,L Maritz,EN Lynch,0,1,1,,,,,"",""
+ball,1,15.5,Ireland,EAJ Richardson,L Maritz,EN Lynch,0,1,1,,,,,"",""
+ball,1,15.6,Ireland,EAJ Richardson,L Maritz,EN Lynch,0,0,,,,,,"",""
+ball,1,15.7,Ireland,EAJ Richardson,L Maritz,EN Lynch,0,0,,,,,,"",""
+ball,1,15.8,Ireland,EAJ Richardson,L Maritz,EN Lynch,0,0,,,,,,"",""
+ball,1,16.1,Ireland,L Maritz,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,16.2,Ireland,L Maritz,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,16.3,Ireland,L Maritz,EAJ Richardson,S Siegers,0,0,,,,,,bowled,L Maritz
+ball,1,16.4,Ireland,S MacMahon,EAJ Richardson,S Siegers,1,0,,,,,,"",""
+ball,1,16.5,Ireland,EAJ Richardson,S MacMahon,S Siegers,2,0,,,,,,"",""
+ball,1,16.6,Ireland,EAJ Richardson,S MacMahon,S Siegers,2,0,,,,,,"",""
+ball,1,17.1,Ireland,S MacMahon,EAJ Richardson,EN Lynch,4,0,,,,,,"",""
+ball,1,17.2,Ireland,S MacMahon,EAJ Richardson,EN Lynch,1,0,,,,,,"",""
+ball,1,17.3,Ireland,EAJ Richardson,S MacMahon,EN Lynch,2,0,,,,,,"",""
+ball,1,17.4,Ireland,EAJ Richardson,S MacMahon,EN Lynch,0,0,,,,,,"",""
+ball,1,17.5,Ireland,EAJ Richardson,S MacMahon,EN Lynch,1,0,,,,,,"",""
+ball,1,17.6,Ireland,S MacMahon,EAJ Richardson,EN Lynch,0,0,,,,,,bowled,S MacMahon
+ball,1,18.1,Ireland,EAJ Richardson,MV Waldron,S Siegers,1,0,,,,,,"",""
+ball,1,18.2,Ireland,MV Waldron,EAJ Richardson,S Siegers,0,0,,,,,,"",""
+ball,1,18.3,Ireland,MV Waldron,EAJ Richardson,S Siegers,1,0,,,,,,"",""
+ball,1,18.4,Ireland,EAJ Richardson,MV Waldron,S Siegers,1,0,,,,,,"",""
+ball,1,18.5,Ireland,MV Waldron,EAJ Richardson,S Siegers,0,1,,,,1,,"",""
+ball,1,18.6,Ireland,EAJ Richardson,MV Waldron,S Siegers,1,0,,,,,,"",""
+ball,1,19.1,Ireland,EAJ Richardson,MV Waldron,EN Lynch,6,0,,,,,,"",""
+ball,1,19.2,Ireland,EAJ Richardson,MV Waldron,EN Lynch,2,0,,,,,,"",""
+ball,1,19.3,Ireland,EAJ Richardson,MV Waldron,EN Lynch,0,0,,,,,,bowled,EAJ Richardson
+ball,1,19.4,Ireland,C Murray,MV Waldron,EN Lynch,1,0,,,,,,"",""
+ball,1,19.5,Ireland,MV Waldron,C Murray,EN Lynch,1,0,,,,,,"",""
+ball,1,19.6,Ireland,C Murray,MV Waldron,EN Lynch,1,0,,,,,,run out,C Murray
+ball,2,0.1,Netherlands,B de Leede,HDJ Siegers,A Canning,0,0,,,,,,"",""
+ball,2,0.2,Netherlands,B de Leede,HDJ Siegers,A Canning,1,0,,,,,,"",""
+ball,2,0.3,Netherlands,HDJ Siegers,B de Leede,A Canning,1,0,,,,,,"",""
+ball,2,0.4,Netherlands,B de Leede,HDJ Siegers,A Canning,0,1,1,,,,,"",""
+ball,2,0.5,Netherlands,B de Leede,HDJ Siegers,A Canning,0,0,,,,,,"",""
+ball,2,0.6,Netherlands,B de Leede,HDJ Siegers,A Canning,0,0,,,,,,"",""
+ball,2,0.7,Netherlands,B de Leede,HDJ Siegers,A Canning,0,0,,,,,,"",""
+ball,2,1.1,Netherlands,HDJ Siegers,B de Leede,O Prendergast,4,0,,,,,,"",""
+ball,2,1.2,Netherlands,HDJ Siegers,B de Leede,O Prendergast,0,0,,,,,,"",""
+ball,2,1.3,Netherlands,HDJ Siegers,B de Leede,O Prendergast,0,0,,,,,,"",""
+ball,2,1.4,Netherlands,HDJ Siegers,B de Leede,O Prendergast,0,0,,,,,,"",""
+ball,2,1.5,Netherlands,HDJ Siegers,B de Leede,O Prendergast,1,0,,,,,,"",""
+ball,2,1.6,Netherlands,B de Leede,HDJ Siegers,O Prendergast,1,0,,,,,,"",""
+ball,2,2.1,Netherlands,B de Leede,HDJ Siegers,A Canning,1,0,,,,,,"",""
+ball,2,2.2,Netherlands,HDJ Siegers,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,2.3,Netherlands,HDJ Siegers,B de Leede,A Canning,0,0,,,,,,caught,HDJ Siegers
+ball,2,2.4,Netherlands,R Rijke,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,2.5,Netherlands,R Rijke,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,2.6,Netherlands,R Rijke,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,3.1,Netherlands,B de Leede,R Rijke,O Prendergast,0,0,,,,,,"",""
+ball,2,3.2,Netherlands,B de Leede,R Rijke,O Prendergast,1,0,,,,,,"",""
+ball,2,3.3,Netherlands,R Rijke,B de Leede,O Prendergast,1,0,,,,,,"",""
+ball,2,3.4,Netherlands,B de Leede,R Rijke,O Prendergast,0,0,,,,,,"",""
+ball,2,3.5,Netherlands,B de Leede,R Rijke,O Prendergast,0,0,,,,,,"",""
+ball,2,3.6,Netherlands,B de Leede,R Rijke,O Prendergast,0,0,,,,,,"",""
+ball,2,4.1,Netherlands,R Rijke,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,4.2,Netherlands,R Rijke,B de Leede,A Canning,2,0,,,,,,"",""
+ball,2,4.3,Netherlands,R Rijke,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,4.4,Netherlands,R Rijke,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,4.5,Netherlands,R Rijke,B de Leede,A Canning,0,0,,,,,,"",""
+ball,2,4.6,Netherlands,R Rijke,B de Leede,A Canning,6,0,,,,,,"",""
+ball,2,5.1,Netherlands,B de Leede,R Rijke,O Prendergast,0,1,1,,,,,"",""
+ball,2,5.2,Netherlands,B de Leede,R Rijke,O Prendergast,0,1,1,,,,,"",""
+ball,2,5.3,Netherlands,B de Leede,R Rijke,O Prendergast,0,0,,,,,,"",""
+ball,2,5.4,Netherlands,B de Leede,R Rijke,O Prendergast,0,0,,,,,,"",""
+ball,2,5.5,Netherlands,B de Leede,R Rijke,O Prendergast,1,0,,,,,,"",""
+ball,2,5.6,Netherlands,R Rijke,B de Leede,O Prendergast,0,0,,,,,,"",""
+ball,2,5.7,Netherlands,R Rijke,B de Leede,O Prendergast,0,0,,,,,,"",""
+ball,2,5.8,Netherlands,R Rijke,B de Leede,O Prendergast,0,0,,,,,,"",""
+ball,2,6.1,Netherlands,B de Leede,R Rijke,A Canning,2,0,,,,,,"",""
+ball,2,6.2,Netherlands,B de Leede,R Rijke,A Canning,0,0,,,,,,"",""
+ball,2,6.3,Netherlands,B de Leede,R Rijke,A Canning,0,0,,,,,,"",""
+ball,2,6.4,Netherlands,B de Leede,R Rijke,A Canning,0,0,,,,,,"",""
+ball,2,6.5,Netherlands,B de Leede,R Rijke,A Canning,0,0,,,,,,"",""
+ball,2,6.6,Netherlands,B de Leede,R Rijke,A Canning,0,0,,,,,,"",""
+ball,2,7.1,Netherlands,R Rijke,B de Leede,EAJ Richardson,1,0,,,,,,"",""
+ball,2,7.2,Netherlands,B de Leede,R Rijke,EAJ Richardson,0,0,,,,,,"",""
+ball,2,7.3,Netherlands,B de Leede,R Rijke,EAJ Richardson,1,0,,,,,,"",""
+ball,2,7.4,Netherlands,R Rijke,B de Leede,EAJ Richardson,2,0,,,,,,"",""
+ball,2,7.5,Netherlands,R Rijke,B de Leede,EAJ Richardson,0,1,1,,,,,"",""
+ball,2,7.6,Netherlands,R Rijke,B de Leede,EAJ Richardson,0,0,,,,,,"",""
+ball,2,7.7,Netherlands,R Rijke,B de Leede,EAJ Richardson,1,0,,,,,,"",""
+ball,2,8.1,Netherlands,R Rijke,B de Leede,L Delany,0,0,,,,,,"",""
+ball,2,8.2,Netherlands,R Rijke,B de Leede,L Delany,0,0,,,,,,"",""
+ball,2,8.3,Netherlands,R Rijke,B de Leede,L Delany,0,0,,,,,,"",""
+ball,2,8.4,Netherlands,R Rijke,B de Leede,L Delany,4,0,,,,,,"",""
+ball,2,8.5,Netherlands,R Rijke,B de Leede,L Delany,0,0,,,,,,"",""
+ball,2,8.6,Netherlands,R Rijke,B de Leede,L Delany,0,0,,,,,,"",""
+ball,2,9.1,Netherlands,B de Leede,R Rijke,EAJ Richardson,0,0,,,,,,"",""
+ball,2,9.2,Netherlands,B de Leede,R Rijke,EAJ Richardson,1,0,,,,,,"",""
+ball,2,9.3,Netherlands,R Rijke,B de Leede,EAJ Richardson,0,0,,,,,,"",""
+ball,2,9.4,Netherlands,R Rijke,B de Leede,EAJ Richardson,0,0,,,,,,"",""
+ball,2,9.5,Netherlands,R Rijke,B de Leede,EAJ Richardson,0,0,,,,,,"",""
+ball,2,9.6,Netherlands,R Rijke,B de Leede,EAJ Richardson,0,0,,,,,,"",""
+ball,2,10.1,Netherlands,B de Leede,R Rijke,L Delany,1,0,,,,,,"",""
+ball,2,10.2,Netherlands,R Rijke,B de Leede,L Delany,4,0,,,,,,"",""
+ball,2,10.3,Netherlands,R Rijke,B de Leede,L Delany,0,0,,,,,,"",""
+ball,2,10.4,Netherlands,R Rijke,B de Leede,L Delany,1,0,,,,,,"",""
+ball,2,10.5,Netherlands,B de Leede,R Rijke,L Delany,0,0,,,,,,"",""
+ball,2,10.6,Netherlands,B de Leede,R Rijke,L Delany,0,0,,,,,,"",""
+ball,2,11.1,Netherlands,R Rijke,B de Leede,EAJ Richardson,1,0,,,,,,"",""
+ball,2,11.2,Netherlands,B de Leede,R Rijke,EAJ Richardson,1,0,,,,,,"",""
+ball,2,11.3,Netherlands,R Rijke,B de Leede,EAJ Richardson,2,0,,,,,,"",""
+ball,2,11.4,Netherlands,R Rijke,B de Leede,EAJ Richardson,2,0,,,,,,"",""
+ball,2,11.5,Netherlands,R Rijke,B de Leede,EAJ Richardson,1,0,,,,,,"",""
+ball,2,11.6,Netherlands,B de Leede,R Rijke,EAJ Richardson,1,0,,,,,,"",""
+ball,2,12.1,Netherlands,B de Leede,R Rijke,L Delany,0,0,,,,,,bowled,B de Leede
+ball,2,12.2,Netherlands,M Veringmeier,R Rijke,L Delany,0,0,,,,,,"",""
+ball,2,12.3,Netherlands,M Veringmeier,R Rijke,L Delany,0,0,,,,,,"",""
+ball,2,12.4,Netherlands,M Veringmeier,R Rijke,L Delany,0,0,,,,,,"",""
+ball,2,12.5,Netherlands,M Veringmeier,R Rijke,L Delany,1,0,,,,,,"",""
+ball,2,12.6,Netherlands,R Rijke,M Veringmeier,L Delany,4,0,,,,,,"",""
+ball,2,13.1,Netherlands,M Veringmeier,R Rijke,C Murray,1,0,,,,,,"",""
+ball,2,13.2,Netherlands,R Rijke,M Veringmeier,C Murray,0,0,,,,,,caught,R Rijke
+ball,2,13.3,Netherlands,M Veringmeier,J Post,C Murray,0,0,,,,,,caught,M Veringmeier
+ball,2,13.4,Netherlands,J Post,F Overdijk,C Murray,1,0,,,,,,"",""
+ball,2,13.5,Netherlands,F Overdijk,J Post,C Murray,0,0,,,,,,"",""
+ball,2,13.6,Netherlands,F Overdijk,J Post,C Murray,0,0,,,,,,bowled,F Overdijk
+ball,2,14.1,Netherlands,J Post,IJR Zwilling,L Delany,0,0,,,,,,"",""
+ball,2,14.2,Netherlands,J Post,IJR Zwilling,L Delany,1,0,,,,,,"",""
+ball,2,14.3,Netherlands,IJR Zwilling,J Post,L Delany,1,0,,,,,,"",""
+ball,2,14.4,Netherlands,J Post,IJR Zwilling,L Delany,0,0,,,,,,bowled,J Post
+ball,2,14.5,Netherlands,EN Lynch,IJR Zwilling,L Delany,0,0,,,,,,bowled,EN Lynch
+ball,2,14.6,Netherlands,C de Lange,IJR Zwilling,L Delany,0,0,,,,,,"",""
+ball,2,15.1,Netherlands,IJR Zwilling,C de Lange,C Murray,0,0,,,,,,"",""
+ball,2,15.2,Netherlands,IJR Zwilling,C de Lange,C Murray,0,0,,,,,,"",""
+ball,2,15.3,Netherlands,IJR Zwilling,C de Lange,C Murray,0,0,,,,,,"",""
+ball,2,15.4,Netherlands,IJR Zwilling,C de Lange,C Murray,0,1,,,,1,,"",""
+ball,2,15.5,Netherlands,C de Lange,IJR Zwilling,C Murray,1,0,,,,,,"",""
+ball,2,15.6,Netherlands,IJR Zwilling,C de Lange,C Murray,1,0,,,,,,"",""
+ball,2,16.1,Netherlands,IJR Zwilling,C de Lange,EAJ Richardson,1,0,,,,,,"",""
+ball,2,16.2,Netherlands,C de Lange,IJR Zwilling,EAJ Richardson,0,0,,,,,,bowled,C de Lange
+ball,2,16.3,Netherlands,S Siegers,IJR Zwilling,EAJ Richardson,1,0,,,,,,"",""
+ball,2,16.4,Netherlands,IJR Zwilling,S Siegers,EAJ Richardson,1,0,,,,,,"",""
+ball,2,16.5,Netherlands,S Siegers,IJR Zwilling,EAJ Richardson,0,0,,,,,,"",""
+ball,2,16.6,Netherlands,S Siegers,IJR Zwilling,EAJ Richardson,4,0,,,,,,"",""
+ball,2,17.1,Netherlands,IJR Zwilling,S Siegers,L Paul,1,0,,,,,,"",""
+ball,2,17.2,Netherlands,S Siegers,IJR Zwilling,L Paul,0,0,,,,,,"",""
+ball,2,17.3,Netherlands,S Siegers,IJR Zwilling,L Paul,1,0,,,,,,"",""
+ball,2,17.4,Netherlands,IJR Zwilling,S Siegers,L Paul,0,0,,,,,,"",""
+ball,2,17.5,Netherlands,IJR Zwilling,S Siegers,L Paul,4,0,,,,,,"",""
+ball,2,17.6,Netherlands,IJR Zwilling,S Siegers,L Paul,0,0,,,,,,"",""
+ball,2,18.1,Netherlands,S Siegers,IJR Zwilling,C Murray,0,0,,,,,,"",""
+ball,2,18.2,Netherlands,S Siegers,IJR Zwilling,C Murray,0,0,,,,,,run out,IJR Zwilling
+ball,2,18.3,Netherlands,DM Braat,S Siegers,C Murray,1,0,,,,,,"",""
+ball,2,18.4,Netherlands,S Siegers,DM Braat,C Murray,0,1,1,,,,,"",""
+ball,2,18.5,Netherlands,S Siegers,DM Braat,C Murray,2,0,,,,,,"",""
+ball,2,18.6,Netherlands,S Siegers,DM Braat,C Murray,0,0,,,,,,"",""
+ball,2,18.7,Netherlands,S Siegers,DM Braat,C Murray,1,0,,,,,,"",""
+ball,2,19.1,Netherlands,S Siegers,DM Braat,L Paul,1,0,,,,,,"",""
+ball,2,19.2,Netherlands,DM Braat,S Siegers,L Paul,1,0,,,,,,"",""
+ball,2,19.3,Netherlands,S Siegers,DM Braat,L Paul,1,0,,,,,,"",""
+ball,2,19.4,Netherlands,DM Braat,S Siegers,L Paul,0,1,1,,,,,"",""
+ball,2,19.5,Netherlands,DM Braat,S Siegers,L Paul,1,0,,,,,,"",""
+ball,2,19.6,Netherlands,S Siegers,DM Braat,L Paul,1,0,,,,,,"",""
+ball,2,19.7,Netherlands,DM Braat,S Siegers,L Paul,1,0,,,,,,"",""

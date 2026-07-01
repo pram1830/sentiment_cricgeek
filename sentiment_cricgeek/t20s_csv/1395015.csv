@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Argentina
+info,gender,female
+info,season,2023
+info,date,2023/09/10
+info,event,ICC Women's T20 World Cup Americas Region Qualifier
+info,match_number,9
+info,venue,"Woodley Cricket Field, Los Angeles"
+info,city,Los Angeles
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,D Saxena
+info,umpire,AR Maddela
+info,umpire,Emmerson Carrington
+info,reserve_umpire,BV Taylor
+info,match_referee,G McCrea
+info,winner,Canada
+info,winner_runs,37
+info,player,Canada,D McGahey
+info,player,Canada,A Perera
+info,player,Canada,Amarpal Kaur
+info,player,Canada,D Saxena
+info,player,Canada,Habeeba Bader
+info,player,Canada,R Misra
+info,player,Canada,Saniyah Zia
+info,player,Canada,Rabbjyot Rajput
+info,player,Canada,N Gallagher
+info,player,Canada,K Kapadia
+info,player,Canada,M Hundal
+info,player,Argentina,L Taylor
+info,player,Argentina,V Vasquez
+info,player,Argentina,A Galan
+info,player,Argentina,M Castineiras
+info,player,Argentina,M Martinez
+info,player,Argentina,A Stocks
+info,player,Argentina,M Lollo
+info,player,Argentina,JC Cullen
+info,player,Argentina,C Sosa
+info,player,Argentina,CA Greloni
+info,player,Argentina,T Basile
+info,registry,people,A Galan,ad5165c2
+info,registry,people,A Perera,788afc32
+info,registry,people,A Stocks,c999c416
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Amarpal Kaur,3051fcc6
+info,registry,people,BV Taylor,99760152
+info,registry,people,C Sosa,b2f4cb0d
+info,registry,people,CA Greloni,f758a37b
+info,registry,people,D McGahey,b5ef8f19
+info,registry,people,D Saxena,cc7331d4
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,G McCrea,46f4a901
+info,registry,people,Habeeba Bader,18d53879
+info,registry,people,JC Cullen,22595a2d
+info,registry,people,K Kapadia,52fc5577
+info,registry,people,L Taylor,8af91a3e
+info,registry,people,M Castineiras,b9094958
+info,registry,people,M Hundal,213dc641
+info,registry,people,M Lollo,e6d1f4bb
+info,registry,people,M Martinez,f0ddeafb
+info,registry,people,N Gallagher,98c5ffef
+info,registry,people,R Misra,430f7ef9
+info,registry,people,Rabbjyot Rajput,8b1f5f91
+info,registry,people,Saniyah Zia,ffae3d12
+info,registry,people,T Basile,7a640d66
+info,registry,people,V Vasquez,f898a2c6
+ball,1,0.1,Canada,D McGahey,A Perera,C Sosa,0,0,,,,,,"",""
+ball,1,0.2,Canada,D McGahey,A Perera,C Sosa,1,0,,,,,,"",""
+ball,1,0.3,Canada,A Perera,D McGahey,C Sosa,1,0,,,,,,"",""
+ball,1,0.4,Canada,D McGahey,A Perera,C Sosa,0,0,,,,,,"",""
+ball,1,0.5,Canada,D McGahey,A Perera,C Sosa,0,1,,1,,,,"",""
+ball,1,0.6,Canada,D McGahey,A Perera,C Sosa,4,0,,,,,,"",""
+ball,1,0.7,Canada,D McGahey,A Perera,C Sosa,0,0,,,,,,"",""
+ball,1,1.1,Canada,A Perera,D McGahey,M Martinez,1,0,,,,,,"",""
+ball,1,1.2,Canada,D McGahey,A Perera,M Martinez,4,0,,,,,,"",""
+ball,1,1.3,Canada,D McGahey,A Perera,M Martinez,0,0,,,,,,"",""
+ball,1,1.4,Canada,D McGahey,A Perera,M Martinez,2,0,,,,,,"",""
+ball,1,1.5,Canada,D McGahey,A Perera,M Martinez,4,0,,,,,,"",""
+ball,1,1.6,Canada,D McGahey,A Perera,M Martinez,0,0,,,,,,"",""
+ball,1,2.1,Canada,A Perera,D McGahey,C Sosa,1,0,,,,,,"",""
+ball,1,2.2,Canada,D McGahey,A Perera,C Sosa,0,0,,,,,,"",""
+ball,1,2.3,Canada,D McGahey,A Perera,C Sosa,0,0,,,,,,"",""
+ball,1,2.4,Canada,D McGahey,A Perera,C Sosa,1,0,,,,,,"",""
+ball,1,2.5,Canada,A Perera,D McGahey,C Sosa,1,0,,,,,,"",""
+ball,1,2.6,Canada,D McGahey,A Perera,C Sosa,0,0,,,,,,"",""
+ball,1,3.1,Canada,A Perera,D McGahey,L Taylor,0,0,,,,,,"",""
+ball,1,3.2,Canada,A Perera,D McGahey,L Taylor,1,0,,,,,,"",""
+ball,1,3.3,Canada,D McGahey,A Perera,L Taylor,0,0,,,,,,caught,D McGahey
+ball,1,3.4,Canada,Amarpal Kaur,A Perera,L Taylor,1,0,,,,,,"",""
+ball,1,3.5,Canada,A Perera,Amarpal Kaur,L Taylor,0,0,,,,,,"",""
+ball,1,3.6,Canada,A Perera,Amarpal Kaur,L Taylor,0,1,,,1,,,"",""
+ball,1,4.1,Canada,A Perera,Amarpal Kaur,C Sosa,1,0,,,,,,"",""
+ball,1,4.2,Canada,Amarpal Kaur,A Perera,C Sosa,1,0,,,,,,"",""
+ball,1,4.3,Canada,A Perera,Amarpal Kaur,C Sosa,0,0,,,,,,lbw,A Perera
+ball,1,4.4,Canada,D Saxena,Amarpal Kaur,C Sosa,0,0,,,,,,"",""
+ball,1,4.5,Canada,D Saxena,Amarpal Kaur,C Sosa,0,0,,,,,,"",""
+ball,1,4.6,Canada,D Saxena,Amarpal Kaur,C Sosa,1,0,,,,,,"",""
+ball,1,5.1,Canada,D Saxena,Amarpal Kaur,L Taylor,1,0,,,,,,"",""
+ball,1,5.2,Canada,Amarpal Kaur,D Saxena,L Taylor,0,0,,,,,,"",""
+ball,1,5.3,Canada,Amarpal Kaur,D Saxena,L Taylor,1,0,,,,,,"",""
+ball,1,5.4,Canada,D Saxena,Amarpal Kaur,L Taylor,1,0,,,,,,"",""
+ball,1,5.5,Canada,Amarpal Kaur,D Saxena,L Taylor,2,0,,,,,,"",""
+ball,1,5.6,Canada,Amarpal Kaur,D Saxena,L Taylor,0,0,,,,,,"",""
+ball,1,6.1,Canada,D Saxena,Amarpal Kaur,A Stocks,0,0,,,,,,"",""
+ball,1,6.2,Canada,D Saxena,Amarpal Kaur,A Stocks,2,0,,,,,,"",""
+ball,1,6.3,Canada,D Saxena,Amarpal Kaur,A Stocks,0,0,,,,,,"",""
+ball,1,6.4,Canada,D Saxena,Amarpal Kaur,A Stocks,1,0,,,,,,"",""
+ball,1,6.5,Canada,Amarpal Kaur,D Saxena,A Stocks,0,0,,,,,,"",""
+ball,1,6.6,Canada,Amarpal Kaur,D Saxena,A Stocks,0,0,,,,,,"",""
+ball,1,7.1,Canada,D Saxena,Amarpal Kaur,A Galan,0,0,,,,,,"",""
+ball,1,7.2,Canada,D Saxena,Amarpal Kaur,A Galan,1,0,,,,,,"",""
+ball,1,7.3,Canada,Amarpal Kaur,D Saxena,A Galan,1,0,,,,,,"",""
+ball,1,7.4,Canada,D Saxena,Amarpal Kaur,A Galan,1,0,,,,,,"",""
+ball,1,7.5,Canada,Amarpal Kaur,D Saxena,A Galan,0,0,,,,,,"",""
+ball,1,7.6,Canada,Amarpal Kaur,D Saxena,A Galan,1,0,,,,,,"",""
+ball,1,8.1,Canada,Amarpal Kaur,D Saxena,A Stocks,1,0,,,,,,"",""
+ball,1,8.2,Canada,Amarpal Kaur,D Saxena,A Stocks,4,0,,,,,,"",""
+ball,1,8.3,Canada,Amarpal Kaur,D Saxena,A Stocks,2,0,,,,,,"",""
+ball,1,8.4,Canada,Amarpal Kaur,D Saxena,A Stocks,0,0,,,,,,caught,Amarpal Kaur
+ball,1,8.5,Canada,Habeeba Bader,D Saxena,A Stocks,0,0,,,,,,"",""
+ball,1,8.6,Canada,Habeeba Bader,D Saxena,A Stocks,0,1,1,,,,,"",""
+ball,1,8.7,Canada,Habeeba Bader,D Saxena,A Stocks,0,0,,,,,,"",""
+ball,1,9.1,Canada,D Saxena,Habeeba Bader,A Galan,0,0,,,,,,"",""
+ball,1,9.2,Canada,D Saxena,Habeeba Bader,A Galan,1,0,,,,,,"",""
+ball,1,9.3,Canada,Habeeba Bader,D Saxena,A Galan,0,0,,,,,,"",""
+ball,1,9.4,Canada,Habeeba Bader,D Saxena,A Galan,0,0,,,,,,"",""
+ball,1,9.5,Canada,Habeeba Bader,D Saxena,A Galan,0,0,,,,,,"",""
+ball,1,9.6,Canada,Habeeba Bader,D Saxena,A Galan,2,0,,,,,,"",""
+ball,1,10.1,Canada,D Saxena,Habeeba Bader,JC Cullen,1,0,,,,,,"",""
+ball,1,10.2,Canada,Habeeba Bader,D Saxena,JC Cullen,4,0,,,,,,"",""
+ball,1,10.3,Canada,Habeeba Bader,D Saxena,JC Cullen,0,0,,,,,,"",""
+ball,1,10.4,Canada,Habeeba Bader,D Saxena,JC Cullen,0,0,,,,,,"",""
+ball,1,10.5,Canada,Habeeba Bader,D Saxena,JC Cullen,1,0,,,,,,"",""
+ball,1,10.6,Canada,D Saxena,Habeeba Bader,JC Cullen,1,0,,,,,,"",""
+ball,1,11.1,Canada,D Saxena,Habeeba Bader,A Galan,0,0,,,,,,"",""
+ball,1,11.2,Canada,D Saxena,Habeeba Bader,A Galan,4,0,,,,,,"",""
+ball,1,11.3,Canada,D Saxena,Habeeba Bader,A Galan,4,0,,,,,,"",""
+ball,1,11.4,Canada,D Saxena,Habeeba Bader,A Galan,1,0,,,,,,"",""
+ball,1,11.5,Canada,Habeeba Bader,D Saxena,A Galan,0,0,,,,,,"",""
+ball,1,11.6,Canada,Habeeba Bader,D Saxena,A Galan,0,0,,,,,,"",""
+ball,1,12.1,Canada,D Saxena,Habeeba Bader,JC Cullen,2,0,,,,,,"",""
+ball,1,12.2,Canada,D Saxena,Habeeba Bader,JC Cullen,1,0,,,,,,run out,Habeeba Bader
+ball,1,12.3,Canada,D Saxena,R Misra,JC Cullen,2,0,,,,,,"",""
+ball,1,12.4,Canada,D Saxena,R Misra,JC Cullen,1,0,,,,,,"",""
+ball,1,12.5,Canada,R Misra,D Saxena,JC Cullen,0,1,,,1,,,"",""
+ball,1,12.6,Canada,D Saxena,R Misra,JC Cullen,1,0,,,,,,"",""
+ball,1,13.1,Canada,D Saxena,R Misra,M Martinez,0,0,,,,,,"",""
+ball,1,13.2,Canada,D Saxena,R Misra,M Martinez,3,0,,,,,,"",""
+ball,1,13.3,Canada,R Misra,D Saxena,M Martinez,0,0,,,,,,"",""
+ball,1,13.4,Canada,R Misra,D Saxena,M Martinez,0,1,,1,,,,"",""
+ball,1,13.5,Canada,R Misra,D Saxena,M Martinez,0,0,,,,,,"",""
+ball,1,13.6,Canada,R Misra,D Saxena,M Martinez,0,0,,,,,,"",""
+ball,1,13.7,Canada,R Misra,D Saxena,M Martinez,4,0,,,,,,"",""
+ball,1,14.1,Canada,D Saxena,R Misra,JC Cullen,1,0,,,,,,"",""
+ball,1,14.2,Canada,R Misra,D Saxena,JC Cullen,2,0,,,,,,"",""
+ball,1,14.3,Canada,R Misra,D Saxena,JC Cullen,0,0,,,,,,caught,R Misra
+ball,1,14.4,Canada,Saniyah Zia,D Saxena,JC Cullen,0,1,1,,,,,"",""
+ball,1,14.5,Canada,Saniyah Zia,D Saxena,JC Cullen,2,0,,,,,,"",""
+ball,1,14.6,Canada,Saniyah Zia,D Saxena,JC Cullen,2,0,,,,,,"",""
+ball,1,14.7,Canada,Saniyah Zia,D Saxena,JC Cullen,0,0,,,,,,"",""
+ball,1,15.1,Canada,D Saxena,Saniyah Zia,L Taylor,0,0,,,,,,"",""
+ball,1,15.2,Canada,D Saxena,Saniyah Zia,L Taylor,1,0,,,,,,"",""
+ball,1,15.3,Canada,Saniyah Zia,D Saxena,L Taylor,0,0,,,,,,"",""
+ball,1,15.4,Canada,Saniyah Zia,D Saxena,L Taylor,1,0,,,,,,"",""
+ball,1,15.5,Canada,D Saxena,Saniyah Zia,L Taylor,1,0,,,,,,"",""
+ball,1,15.6,Canada,Saniyah Zia,D Saxena,L Taylor,0,0,,,,,,caught,Saniyah Zia
+ball,1,16.1,Canada,D Saxena,Rabbjyot Rajput,A Stocks,1,0,,,,,,"",""
+ball,1,16.2,Canada,Rabbjyot Rajput,D Saxena,A Stocks,4,1,,1,,,,"",""
+ball,1,16.3,Canada,Rabbjyot Rajput,D Saxena,A Stocks,1,0,,,,,,"",""
+ball,1,16.4,Canada,D Saxena,Rabbjyot Rajput,A Stocks,0,0,,,,,,bowled,D Saxena
+ball,1,16.5,Canada,N Gallagher,Rabbjyot Rajput,A Stocks,2,0,,,,,,"",""
+ball,1,16.6,Canada,N Gallagher,Rabbjyot Rajput,A Stocks,1,0,,,,,,"",""
+ball,1,16.7,Canada,Rabbjyot Rajput,N Gallagher,A Stocks,1,0,,,,,,"",""
+ball,1,17.1,Canada,Rabbjyot Rajput,N Gallagher,L Taylor,0,0,,,,,,"",""
+ball,1,17.2,Canada,Rabbjyot Rajput,N Gallagher,L Taylor,1,0,,,,,,"",""
+ball,1,17.3,Canada,N Gallagher,Rabbjyot Rajput,L Taylor,0,0,,,,,,"",""
+ball,1,17.4,Canada,N Gallagher,Rabbjyot Rajput,L Taylor,0,1,1,,,,,"",""
+ball,1,17.5,Canada,N Gallagher,Rabbjyot Rajput,L Taylor,0,0,,,,,,"",""
+ball,1,17.6,Canada,N Gallagher,Rabbjyot Rajput,L Taylor,0,0,,,,,,"",""
+ball,1,17.7,Canada,N Gallagher,Rabbjyot Rajput,L Taylor,1,0,,,,,,"",""
+ball,1,18.1,Canada,N Gallagher,Rabbjyot Rajput,C Sosa,1,0,,,,,,"",""
+ball,1,18.2,Canada,Rabbjyot Rajput,N Gallagher,C Sosa,0,1,1,,,,,"",""
+ball,1,18.3,Canada,Rabbjyot Rajput,N Gallagher,C Sosa,1,0,,,,,,"",""
+ball,1,18.4,Canada,N Gallagher,Rabbjyot Rajput,C Sosa,0,0,,,,,,"",""
+ball,1,18.5,Canada,N Gallagher,Rabbjyot Rajput,C Sosa,0,0,,,,,,"",""
+ball,1,18.6,Canada,N Gallagher,Rabbjyot Rajput,C Sosa,1,0,,,,,,"",""
+ball,1,18.7,Canada,Rabbjyot Rajput,N Gallagher,C Sosa,0,0,,,,,,"",""
+ball,1,19.1,Canada,N Gallagher,Rabbjyot Rajput,A Stocks,1,0,,,,,,"",""
+ball,1,19.2,Canada,Rabbjyot Rajput,N Gallagher,A Stocks,0,1,1,,,,,"",""
+ball,1,19.3,Canada,Rabbjyot Rajput,N Gallagher,A Stocks,0,0,,,,,,run out,Rabbjyot Rajput
+ball,1,19.4,Canada,N Gallagher,K Kapadia,A Stocks,0,0,,,,,,"",""
+ball,1,19.5,Canada,N Gallagher,K Kapadia,A Stocks,0,0,,,,,,"",""
+ball,1,19.6,Canada,N Gallagher,K Kapadia,A Stocks,0,0,,,,,,caught and bowled,N Gallagher
+ball,1,19.7,Canada,M Hundal,K Kapadia,A Stocks,0,0,,,,,,caught,M Hundal
+ball,2,0.1,Argentina,L Taylor,V Vasquez,Rabbjyot Rajput,0,0,,,,,,caught,L Taylor
+ball,2,0.2,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,0.3,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,0.4,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,0.5,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,0.6,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,1.1,Argentina,V Vasquez,A Galan,Saniyah Zia,0,0,,,,,,"",""
+ball,2,1.2,Argentina,V Vasquez,A Galan,Saniyah Zia,1,0,,,,,,"",""
+ball,2,1.3,Argentina,A Galan,V Vasquez,Saniyah Zia,0,0,,,,,,"",""
+ball,2,1.4,Argentina,A Galan,V Vasquez,Saniyah Zia,0,0,,,,,,"",""
+ball,2,1.5,Argentina,A Galan,V Vasquez,Saniyah Zia,0,1,,,,1,,"",""
+ball,2,1.6,Argentina,V Vasquez,A Galan,Saniyah Zia,0,0,,,,,,"",""
+ball,2,2.1,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,2.2,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,2.3,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,2.4,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,2.5,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,4,0,,,,,,"",""
+ball,2,2.6,Argentina,A Galan,V Vasquez,Rabbjyot Rajput,0,0,,,,,,"",""
+ball,2,3.1,Argentina,V Vasquez,A Galan,Saniyah Zia,2,0,,,,,,"",""
+ball,2,3.2,Argentina,V Vasquez,A Galan,Saniyah Zia,1,0,,,,,,"",""
+ball,2,3.3,Argentina,A Galan,V Vasquez,Saniyah Zia,0,0,,,,,,lbw,A Galan
+ball,2,3.4,Argentina,M Castineiras,V Vasquez,Saniyah Zia,0,0,,,,,,"",""
+ball,2,3.5,Argentina,M Castineiras,V Vasquez,Saniyah Zia,0,0,,,,,,"",""
+ball,2,3.6,Argentina,M Castineiras,V Vasquez,Saniyah Zia,0,0,,,,,,"",""
+ball,2,4.1,Argentina,V Vasquez,M Castineiras,K Kapadia,4,0,,,,,,"",""
+ball,2,4.2,Argentina,V Vasquez,M Castineiras,K Kapadia,0,0,,,,,,"",""
+ball,2,4.3,Argentina,V Vasquez,M Castineiras,K Kapadia,1,0,,,,,,"",""
+ball,2,4.4,Argentina,M Castineiras,V Vasquez,K Kapadia,1,0,,,,,,"",""
+ball,2,4.5,Argentina,V Vasquez,M Castineiras,K Kapadia,0,0,,,,,,"",""
+ball,2,4.6,Argentina,V Vasquez,M Castineiras,K Kapadia,1,0,,,,,,"",""
+ball,2,5.1,Argentina,V Vasquez,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,5.2,Argentina,V Vasquez,M Castineiras,Amarpal Kaur,1,0,,,,,,"",""
+ball,2,5.3,Argentina,M Castineiras,V Vasquez,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,5.4,Argentina,M Castineiras,V Vasquez,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,5.5,Argentina,M Castineiras,V Vasquez,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,5.6,Argentina,M Castineiras,V Vasquez,Amarpal Kaur,1,0,,,,,,"",""
+ball,2,6.1,Argentina,M Castineiras,V Vasquez,D Saxena,0,0,,,,,,"",""
+ball,2,6.2,Argentina,M Castineiras,V Vasquez,D Saxena,0,0,,,,,,"",""
+ball,2,6.3,Argentina,M Castineiras,V Vasquez,D Saxena,0,0,,,,,,"",""
+ball,2,6.4,Argentina,M Castineiras,V Vasquez,D Saxena,0,0,,,,,,"",""
+ball,2,6.5,Argentina,M Castineiras,V Vasquez,D Saxena,0,0,,,,,,"",""
+ball,2,6.6,Argentina,M Castineiras,V Vasquez,D Saxena,0,0,,,,,,"",""
+ball,2,7.1,Argentina,V Vasquez,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,7.2,Argentina,V Vasquez,M Castineiras,Amarpal Kaur,0,0,,,,,,caught,V Vasquez
+ball,2,7.3,Argentina,M Martinez,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,7.4,Argentina,M Martinez,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,7.5,Argentina,M Martinez,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,7.6,Argentina,M Martinez,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,8.1,Argentina,M Castineiras,M Martinez,D Saxena,0,1,1,,,,,"",""
+ball,2,8.2,Argentina,M Castineiras,M Martinez,D Saxena,1,0,,,,,,"",""
+ball,2,8.3,Argentina,M Martinez,M Castineiras,D Saxena,1,0,,,,,,"",""
+ball,2,8.4,Argentina,M Castineiras,M Martinez,D Saxena,1,0,,,,,,"",""
+ball,2,8.5,Argentina,M Martinez,M Castineiras,D Saxena,4,0,,,,,,"",""
+ball,2,8.6,Argentina,M Martinez,M Castineiras,D Saxena,1,0,,,,,,"",""
+ball,2,8.7,Argentina,M Castineiras,M Martinez,D Saxena,2,0,,,,,,"",""
+ball,2,9.1,Argentina,M Martinez,M Castineiras,M Hundal,0,0,,,,,,"",""
+ball,2,9.2,Argentina,M Martinez,M Castineiras,M Hundal,0,0,,,,,,bowled,M Martinez
+ball,2,9.3,Argentina,A Stocks,M Castineiras,M Hundal,1,0,,,,,,"",""
+ball,2,9.4,Argentina,M Castineiras,A Stocks,M Hundal,0,0,,,,,,"",""
+ball,2,9.5,Argentina,M Castineiras,A Stocks,M Hundal,1,0,,,,,,"",""
+ball,2,9.6,Argentina,A Stocks,M Castineiras,M Hundal,0,0,,,,,,"",""
+ball,2,10.1,Argentina,M Castineiras,A Stocks,Amarpal Kaur,1,0,,,,,,"",""
+ball,2,10.2,Argentina,A Stocks,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,10.3,Argentina,A Stocks,M Castineiras,Amarpal Kaur,1,0,,,,,,"",""
+ball,2,10.4,Argentina,M Castineiras,A Stocks,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,10.5,Argentina,M Castineiras,A Stocks,Amarpal Kaur,4,0,,,,,,"",""
+ball,2,10.6,Argentina,M Castineiras,A Stocks,Amarpal Kaur,1,0,,,,,,"",""
+ball,2,11.1,Argentina,M Castineiras,A Stocks,M Hundal,1,0,,,,,,"",""
+ball,2,11.2,Argentina,A Stocks,M Castineiras,M Hundal,0,0,,,,,,"",""
+ball,2,11.3,Argentina,A Stocks,M Castineiras,M Hundal,1,0,,,,,,"",""
+ball,2,11.4,Argentina,M Castineiras,A Stocks,M Hundal,2,0,,,,,,"",""
+ball,2,11.5,Argentina,M Castineiras,A Stocks,M Hundal,2,0,,,,,,"",""
+ball,2,11.6,Argentina,M Castineiras,A Stocks,M Hundal,4,0,,,,,,"",""
+ball,2,12.1,Argentina,A Stocks,M Castineiras,R Misra,0,0,,,,,,"",""
+ball,2,12.2,Argentina,A Stocks,M Castineiras,R Misra,0,0,,,,,,"",""
+ball,2,12.3,Argentina,A Stocks,M Castineiras,R Misra,0,0,,,,,,"",""
+ball,2,12.4,Argentina,A Stocks,M Castineiras,R Misra,2,0,,,,,,"",""
+ball,2,12.5,Argentina,A Stocks,M Castineiras,R Misra,1,0,,,,,,"",""
+ball,2,12.6,Argentina,M Castineiras,A Stocks,R Misra,0,0,,,,,,"",""
+ball,2,13.1,Argentina,A Stocks,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,13.2,Argentina,A Stocks,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,13.3,Argentina,A Stocks,M Castineiras,Amarpal Kaur,0,0,,,,,,"",""
+ball,2,13.4,Argentina,A Stocks,M Castineiras,Amarpal Kaur,1,0,,,,,,"",""
+ball,2,13.5,Argentina,M Castineiras,A Stocks,Amarpal Kaur,0,0,,,,,,bowled,M Castineiras
+ball,2,13.6,Argentina,M Lollo,A Stocks,Amarpal Kaur,0,0,,,,,,lbw,M Lollo
+ball,2,14.1,Argentina,A Stocks,JC Cullen,R Misra,0,1,1,,,,,"",""
+ball,2,14.2,Argentina,A Stocks,JC Cullen,R Misra,0,0,,,,,,"",""
+ball,2,14.3,Argentina,A Stocks,JC Cullen,R Misra,0,0,,,,,,"",""
+ball,2,14.4,Argentina,A Stocks,JC Cullen,R Misra,2,0,,,,,,"",""
+ball,2,14.5,Argentina,A Stocks,JC Cullen,R Misra,0,0,,,,,,"",""
+ball,2,14.6,Argentina,A Stocks,JC Cullen,R Misra,1,0,,,,,,"",""
+ball,2,14.7,Argentina,JC Cullen,A Stocks,R Misra,0,0,,,,,,"",""
+ball,2,15.1,Argentina,A Stocks,JC Cullen,D Saxena,1,0,,,,,,"",""
+ball,2,15.2,Argentina,JC Cullen,A Stocks,D Saxena,0,0,,,,,,"",""
+ball,2,15.3,Argentina,JC Cullen,A Stocks,D Saxena,0,0,,,,,,"",""
+ball,2,15.4,Argentina,JC Cullen,A Stocks,D Saxena,0,0,,,,,,"",""
+ball,2,15.5,Argentina,JC Cullen,A Stocks,D Saxena,1,0,,,,,,"",""
+ball,2,15.6,Argentina,A Stocks,JC Cullen,D Saxena,2,0,,,,,,"",""
+ball,2,16.1,Argentina,JC Cullen,A Stocks,R Misra,1,0,,,,,,"",""
+ball,2,16.2,Argentina,A Stocks,JC Cullen,R Misra,1,0,,,,,,"",""
+ball,2,16.3,Argentina,JC Cullen,A Stocks,R Misra,0,0,,,,,,"",""
+ball,2,16.4,Argentina,JC Cullen,A Stocks,R Misra,0,0,,,,,,"",""
+ball,2,16.5,Argentina,JC Cullen,A Stocks,R Misra,1,0,,,,,,"",""
+ball,2,16.6,Argentina,A Stocks,JC Cullen,R Misra,0,1,1,,,,,"",""
+ball,2,16.7,Argentina,A Stocks,JC Cullen,R Misra,0,0,,,,,,"",""
+ball,2,17.1,Argentina,JC Cullen,A Stocks,D Saxena,0,0,,,,,,"",""
+ball,2,17.2,Argentina,JC Cullen,A Stocks,D Saxena,2,0,,,,,,"",""
+ball,2,17.3,Argentina,JC Cullen,A Stocks,D Saxena,4,0,,,,,,"",""
+ball,2,17.4,Argentina,JC Cullen,A Stocks,D Saxena,1,0,,,,,,"",""
+ball,2,17.5,Argentina,A Stocks,JC Cullen,D Saxena,0,0,,,,,,stumped,A Stocks
+ball,2,17.6,Argentina,C Sosa,JC Cullen,D Saxena,0,0,,,,,,bowled,C Sosa
+ball,2,18.1,Argentina,JC Cullen,CA Greloni,R Misra,2,0,,,,,,"",""
+ball,2,18.2,Argentina,JC Cullen,CA Greloni,R Misra,0,0,,,,,,"",""
+ball,2,18.3,Argentina,JC Cullen,CA Greloni,R Misra,0,0,,,,,,"",""
+ball,2,18.4,Argentina,JC Cullen,CA Greloni,R Misra,0,0,,,,,,"",""
+ball,2,18.5,Argentina,JC Cullen,CA Greloni,R Misra,0,0,,,,,,caught,JC Cullen
+ball,2,18.6,Argentina,T Basile,CA Greloni,R Misra,0,0,,,,,,"",""
+ball,2,19.1,Argentina,CA Greloni,T Basile,A Perera,0,2,,,2,,,"",""
+ball,2,19.2,Argentina,CA Greloni,T Basile,A Perera,0,1,,,,1,,"",""
+ball,2,19.3,Argentina,T Basile,CA Greloni,A Perera,0,0,,,,,,"",""
+ball,2,19.4,Argentina,T Basile,CA Greloni,A Perera,0,0,,,,,,bowled,T Basile

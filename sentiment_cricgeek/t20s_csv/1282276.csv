@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Switzerland
+info,team,Malta
+info,gender,male
+info,season,2021/22
+info,date,2021/10/23
+info,event,Valletta Cup
+info,match_number,5
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Switzerland
+info,toss_decision,bat
+info,winner,Switzerland
+info,winner_runs,8
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,Anser Mehmood
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Asad Mahmood
+info,player,Switzerland,M Martin
+info,player,Switzerland,Noorkhan Ahmedi
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,S Franklin
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Malta,B George
+info,player,Malta,B Arora
+info,player,Malta,HS Gericke
+info,player,Malta,SSM Stanislaus
+info,player,Malta,VP Thamotharam
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,Amar Sharma
+info,player,Malta,N Khanna
+info,player,Malta,Bilal Muhammad
+info,player,Malta,Washeem Abbas
+info,player,Malta,B Kalki Kumar
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Amar Sharma,14e1fdab
+info,registry,people,Anser Mehmood,e871b2f0
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Asad Mahmood,5038c022
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,B Kalki Kumar,7132a1a6
+info,registry,people,Bilal Muhammad,eb5aa5b9
+info,registry,people,HS Gericke,c28a293e
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,M Martin,4d9e5ec8
+info,registry,people,N Khanna,0ec6a7c3
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Noorkhan Ahmedi,b5417394
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,S Franklin,0e3552e2
+info,registry,people,SSM Stanislaus,34dd3fd9
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Washeem Abbas,6de4e430
+ball,1,0.1,Switzerland,Osama Mahmood,Idrees Ul Haque,Bilal Muhammad,0,0,,,,,,"",""
+ball,1,0.2,Switzerland,Osama Mahmood,Idrees Ul Haque,Bilal Muhammad,1,0,,,,,,"",""
+ball,1,0.3,Switzerland,Idrees Ul Haque,Osama Mahmood,Bilal Muhammad,0,0,,,,,,"",""
+ball,1,0.4,Switzerland,Idrees Ul Haque,Osama Mahmood,Bilal Muhammad,2,0,,,,,,"",""
+ball,1,0.5,Switzerland,Idrees Ul Haque,Osama Mahmood,Bilal Muhammad,0,1,,,,1,,"",""
+ball,1,0.6,Switzerland,Osama Mahmood,Idrees Ul Haque,Bilal Muhammad,0,0,,,,,,"",""
+ball,1,1.1,Switzerland,Idrees Ul Haque,Osama Mahmood,Washeem Abbas,0,0,,,,,,caught,Idrees Ul Haque
+ball,1,1.2,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,0,1,1,,,,,"",""
+ball,1,1.3,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,4,0,,,,,,"",""
+ball,1,1.4,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,0,0,,,,,,"",""
+ball,1,1.5,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,0,0,,,,,,"",""
+ball,1,1.6,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,0,0,,,,,,"",""
+ball,1,1.7,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,4,0,,,,,,"",""
+ball,1,2.1,Switzerland,Anser Mehmood,Osama Mahmood,Bilal Muhammad,2,0,,,,,,"",""
+ball,1,2.2,Switzerland,Anser Mehmood,Osama Mahmood,Bilal Muhammad,0,1,,,,1,,"",""
+ball,1,2.3,Switzerland,Osama Mahmood,Anser Mehmood,Bilal Muhammad,1,0,,,,,,"",""
+ball,1,2.4,Switzerland,Anser Mehmood,Osama Mahmood,Bilal Muhammad,6,0,,,,,,"",""
+ball,1,2.5,Switzerland,Anser Mehmood,Osama Mahmood,Bilal Muhammad,0,1,,,,1,,"",""
+ball,1,2.6,Switzerland,Osama Mahmood,Anser Mehmood,Bilal Muhammad,1,0,,,,,,"",""
+ball,1,3.1,Switzerland,Osama Mahmood,Anser Mehmood,B Kalki Kumar,0,0,,,,,,"",""
+ball,1,3.2,Switzerland,Osama Mahmood,Anser Mehmood,B Kalki Kumar,0,0,,,,,,"",""
+ball,1,3.3,Switzerland,Osama Mahmood,Anser Mehmood,B Kalki Kumar,6,0,,,,,,"",""
+ball,1,3.4,Switzerland,Osama Mahmood,Anser Mehmood,B Kalki Kumar,1,0,,,,,,"",""
+ball,1,3.5,Switzerland,Anser Mehmood,Osama Mahmood,B Kalki Kumar,1,0,,,,,,"",""
+ball,1,3.6,Switzerland,Osama Mahmood,Anser Mehmood,B Kalki Kumar,0,1,1,,,,,"",""
+ball,1,3.7,Switzerland,Osama Mahmood,Anser Mehmood,B Kalki Kumar,4,0,,,,,,"",""
+ball,1,4.1,Switzerland,Anser Mehmood,Osama Mahmood,Washeem Abbas,1,0,,,,,,"",""
+ball,1,4.2,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,0,1,1,,,,,"",""
+ball,1,4.3,Switzerland,Osama Mahmood,Anser Mehmood,Washeem Abbas,0,0,,,,,,bowled,Osama Mahmood
+ball,1,4.4,Switzerland,Arjun Vinod,Anser Mehmood,Washeem Abbas,0,0,,,,,,"",""
+ball,1,4.5,Switzerland,Arjun Vinod,Anser Mehmood,Washeem Abbas,1,0,,,,,,"",""
+ball,1,4.6,Switzerland,Anser Mehmood,Arjun Vinod,Washeem Abbas,1,0,,,,,,"",""
+ball,1,4.7,Switzerland,Arjun Vinod,Anser Mehmood,Washeem Abbas,0,0,,,,,,"",""
+ball,1,5.1,Switzerland,Anser Mehmood,Arjun Vinod,VP Thamotharam,0,0,,,,,,"",""
+ball,1,5.2,Switzerland,Anser Mehmood,Arjun Vinod,VP Thamotharam,0,0,,,,,,"",""
+ball,1,5.3,Switzerland,Anser Mehmood,Arjun Vinod,VP Thamotharam,6,0,,,,,,"",""
+ball,1,5.4,Switzerland,Anser Mehmood,Arjun Vinod,VP Thamotharam,0,0,,,,,,"",""
+ball,1,5.5,Switzerland,Anser Mehmood,Arjun Vinod,VP Thamotharam,4,0,,,,,,"",""
+ball,1,5.6,Switzerland,Anser Mehmood,Arjun Vinod,VP Thamotharam,0,0,,,,,,"",""
+ball,1,6.1,Switzerland,Arjun Vinod,Anser Mehmood,B Arora,1,0,,,,,,"",""
+ball,1,6.2,Switzerland,Anser Mehmood,Arjun Vinod,B Arora,0,0,,,,,,"",""
+ball,1,6.3,Switzerland,Anser Mehmood,Arjun Vinod,B Arora,0,0,,,,,,"",""
+ball,1,6.4,Switzerland,Anser Mehmood,Arjun Vinod,B Arora,0,0,,,,,,caught,Anser Mehmood
+ball,1,6.5,Switzerland,Arjun Vinod,Asad Mahmood,B Arora,0,0,,,,,,"",""
+ball,1,6.6,Switzerland,Arjun Vinod,Asad Mahmood,B Arora,1,0,,,,,,"",""
+ball,1,7.1,Switzerland,Arjun Vinod,Asad Mahmood,VP Thamotharam,0,1,1,,,,,"",""
+ball,1,7.2,Switzerland,Arjun Vinod,Asad Mahmood,VP Thamotharam,0,1,1,,,,,"",""
+ball,1,7.3,Switzerland,Arjun Vinod,Asad Mahmood,VP Thamotharam,1,0,,,,,,"",""
+ball,1,7.4,Switzerland,Asad Mahmood,Arjun Vinod,VP Thamotharam,0,0,,,,,,"",""
+ball,1,7.5,Switzerland,Asad Mahmood,Arjun Vinod,VP Thamotharam,1,0,,,,,,"",""
+ball,1,7.6,Switzerland,Arjun Vinod,Asad Mahmood,VP Thamotharam,2,0,,,,,,"",""
+ball,1,7.7,Switzerland,Arjun Vinod,Asad Mahmood,VP Thamotharam,1,0,,,,,,"",""
+ball,1,7.8,Switzerland,Asad Mahmood,Arjun Vinod,VP Thamotharam,4,0,,,,,,"",""
+ball,1,8.1,Switzerland,Arjun Vinod,Asad Mahmood,B Arora,1,0,,,,,,"",""
+ball,1,8.2,Switzerland,Asad Mahmood,Arjun Vinod,B Arora,1,0,,,,,,"",""
+ball,1,8.3,Switzerland,Arjun Vinod,Asad Mahmood,B Arora,0,2,2,,,,,"",""
+ball,1,8.4,Switzerland,Asad Mahmood,Arjun Vinod,B Arora,1,0,,,,,,"",""
+ball,1,8.5,Switzerland,Arjun Vinod,Asad Mahmood,B Arora,0,0,,,,,,"",""
+ball,1,8.6,Switzerland,Arjun Vinod,Asad Mahmood,B Arora,4,0,,,,,,"",""
+ball,1,8.7,Switzerland,Arjun Vinod,Asad Mahmood,B Arora,0,0,,,,,,caught and bowled,Arjun Vinod
+ball,1,9.1,Switzerland,Asad Mahmood,M Martin,Amar Sharma,0,0,,,,,,"",""
+ball,1,9.2,Switzerland,Asad Mahmood,M Martin,Amar Sharma,0,0,,,,,,"",""
+ball,1,9.3,Switzerland,Asad Mahmood,M Martin,Amar Sharma,6,0,,,,,,"",""
+ball,1,9.4,Switzerland,Asad Mahmood,M Martin,Amar Sharma,1,0,,,,,,"",""
+ball,1,9.5,Switzerland,M Martin,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,9.6,Switzerland,M Martin,Asad Mahmood,Amar Sharma,2,0,,,,,,"",""
+ball,1,10.1,Switzerland,Asad Mahmood,M Martin,Bilal Muhammad,0,0,,,,,,"",""
+ball,1,10.2,Switzerland,Asad Mahmood,M Martin,Bilal Muhammad,0,0,,,,,,"",""
+ball,1,10.3,Switzerland,Asad Mahmood,M Martin,Bilal Muhammad,2,0,,,,,,"",""
+ball,1,10.4,Switzerland,Asad Mahmood,M Martin,Bilal Muhammad,0,0,,,,,,"",""
+ball,1,10.5,Switzerland,Asad Mahmood,M Martin,Bilal Muhammad,4,0,,,,,,"",""
+ball,1,10.6,Switzerland,Asad Mahmood,M Martin,Bilal Muhammad,1,0,,,,,,"",""
+ball,1,11.1,Switzerland,Asad Mahmood,M Martin,Amar Sharma,1,0,,,,,,"",""
+ball,1,11.2,Switzerland,M Martin,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,11.3,Switzerland,M Martin,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,11.4,Switzerland,M Martin,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,11.5,Switzerland,M Martin,Asad Mahmood,Amar Sharma,0,0,,,,,,caught,M Martin
+ball,1,11.6,Switzerland,Noorkhan Ahmedi,Asad Mahmood,Amar Sharma,1,0,,,,,,"",""
+ball,1,12.1,Switzerland,Noorkhan Ahmedi,Asad Mahmood,B Arora,0,0,,,,,,"",""
+ball,1,12.2,Switzerland,Noorkhan Ahmedi,Asad Mahmood,B Arora,0,0,,,,,,bowled,Noorkhan Ahmedi
+ball,1,12.3,Switzerland,Ali Nayyer,Asad Mahmood,B Arora,0,0,,,,,,"",""
+ball,1,12.4,Switzerland,Ali Nayyer,Asad Mahmood,B Arora,0,0,,,,,,"",""
+ball,1,12.5,Switzerland,Ali Nayyer,Asad Mahmood,B Arora,1,0,,,,,,"",""
+ball,1,12.6,Switzerland,Asad Mahmood,Ali Nayyer,B Arora,0,1,1,,,,,"",""
+ball,1,12.7,Switzerland,Asad Mahmood,Ali Nayyer,B Arora,0,0,,,,,,"",""
+ball,1,13.1,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,13.2,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,13.3,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,13.4,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,1,0,,,,,,"",""
+ball,1,13.5,Switzerland,Asad Mahmood,Ali Nayyer,Amar Sharma,6,0,,,,,,"",""
+ball,1,13.6,Switzerland,Asad Mahmood,Ali Nayyer,Amar Sharma,1,0,,,,,,"",""
+ball,1,14.1,Switzerland,Asad Mahmood,Ali Nayyer,B Arora,0,2,2,,,,,"",""
+ball,1,14.2,Switzerland,Ali Nayyer,Asad Mahmood,B Arora,1,0,,,,,,"",""
+ball,1,14.3,Switzerland,Asad Mahmood,Ali Nayyer,B Arora,0,0,,,,,,"",""
+ball,1,14.4,Switzerland,Asad Mahmood,Ali Nayyer,B Arora,2,0,,,,,,"",""
+ball,1,14.5,Switzerland,Asad Mahmood,Ali Nayyer,B Arora,1,0,,,,,,"",""
+ball,1,14.6,Switzerland,Ali Nayyer,Asad Mahmood,B Arora,0,0,,,,,,"",""
+ball,1,14.7,Switzerland,Ali Nayyer,Asad Mahmood,B Arora,1,0,,,,,,"",""
+ball,1,15.1,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,15.2,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,15.3,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,0,0,,,,,,"",""
+ball,1,15.4,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,1,0,,,,,,"",""
+ball,1,15.5,Switzerland,Asad Mahmood,Ali Nayyer,Amar Sharma,1,0,,,,,,"",""
+ball,1,15.6,Switzerland,Ali Nayyer,Asad Mahmood,Amar Sharma,6,0,,,,,,"",""
+ball,1,16.1,Switzerland,Asad Mahmood,Ali Nayyer,VP Thamotharam,0,0,,,,,,"",""
+ball,1,16.2,Switzerland,Asad Mahmood,Ali Nayyer,VP Thamotharam,0,0,,,,,,caught,Asad Mahmood
+ball,1,16.3,Switzerland,Ali Nayyer,S Franklin,VP Thamotharam,2,0,,,,,,"",""
+ball,1,16.4,Switzerland,Ali Nayyer,S Franklin,VP Thamotharam,1,0,,,,,,"",""
+ball,1,16.5,Switzerland,S Franklin,Ali Nayyer,VP Thamotharam,0,1,1,,,,,"",""
+ball,1,16.6,Switzerland,S Franklin,Ali Nayyer,VP Thamotharam,1,0,,,,,,"",""
+ball,1,16.7,Switzerland,Ali Nayyer,S Franklin,VP Thamotharam,0,1,,,1,,,"",""
+ball,1,17.1,Switzerland,Ali Nayyer,S Franklin,Washeem Abbas,2,0,,,,,,"",""
+ball,1,17.2,Switzerland,Ali Nayyer,S Franklin,Washeem Abbas,4,0,,,,,,"",""
+ball,1,17.3,Switzerland,Ali Nayyer,S Franklin,Washeem Abbas,1,0,,,,,,"",""
+ball,1,17.4,Switzerland,S Franklin,Ali Nayyer,Washeem Abbas,0,0,,,,,,"",""
+ball,1,17.5,Switzerland,S Franklin,Ali Nayyer,Washeem Abbas,2,0,,,,,,"",""
+ball,1,17.6,Switzerland,S Franklin,Ali Nayyer,Washeem Abbas,1,0,,,,,,"",""
+ball,1,18.1,Switzerland,S Franklin,Ali Nayyer,Bilal Muhammad,1,0,,,,,,"",""
+ball,1,18.2,Switzerland,Ali Nayyer,S Franklin,Bilal Muhammad,6,0,,,,,,"",""
+ball,1,18.3,Switzerland,Ali Nayyer,S Franklin,Bilal Muhammad,0,0,,,,,,bowled,Ali Nayyer
+ball,1,18.4,Switzerland,Ashwin Vinod,S Franklin,Bilal Muhammad,2,0,,,,,,"",""
+ball,1,18.5,Switzerland,Ashwin Vinod,S Franklin,Bilal Muhammad,1,0,,,,,,"",""
+ball,1,18.6,Switzerland,S Franklin,Ashwin Vinod,Bilal Muhammad,0,0,,,,,,lbw,S Franklin
+ball,1,19.1,Switzerland,Ashwin Vinod,NK Aneesh Kumar,Washeem Abbas,0,0,,,,,,"",""
+ball,1,19.2,Switzerland,Ashwin Vinod,NK Aneesh Kumar,Washeem Abbas,4,0,,,,,,"",""
+ball,1,19.3,Switzerland,Ashwin Vinod,NK Aneesh Kumar,Washeem Abbas,1,0,,,,,,"",""
+ball,1,19.4,Switzerland,NK Aneesh Kumar,Ashwin Vinod,Washeem Abbas,0,1,,,,1,,"",""
+ball,1,19.5,Switzerland,Ashwin Vinod,NK Aneesh Kumar,Washeem Abbas,0,0,,,,,,"",""
+ball,1,19.6,Switzerland,Ashwin Vinod,NK Aneesh Kumar,Washeem Abbas,0,1,,,1,,,"",""
+ball,2,0.1,Malta,B George,B Arora,Ashwin Vinod,0,1,,,,1,,"",""
+ball,2,0.2,Malta,B Arora,B George,Ashwin Vinod,4,0,,,,,,"",""
+ball,2,0.3,Malta,B Arora,B George,Ashwin Vinod,0,0,,,,,,"",""
+ball,2,0.4,Malta,B Arora,B George,Ashwin Vinod,0,0,,,,,,"",""
+ball,2,0.5,Malta,B Arora,B George,Ashwin Vinod,0,0,,,,,,"",""
+ball,2,0.6,Malta,B Arora,B George,Ashwin Vinod,1,0,,,,,,"",""
+ball,2,1.1,Malta,B Arora,B George,Ali Nayyer,0,0,,,,,,"",""
+ball,2,1.2,Malta,B Arora,B George,Ali Nayyer,0,0,,,,,,"",""
+ball,2,1.3,Malta,B Arora,B George,Ali Nayyer,0,1,,,,1,,"",""
+ball,2,1.4,Malta,B George,B Arora,Ali Nayyer,0,0,,,,,,"",""
+ball,2,1.5,Malta,B George,B Arora,Ali Nayyer,1,0,,,,,,"",""
+ball,2,1.6,Malta,B Arora,B George,Ali Nayyer,0,0,,,,,,"",""
+ball,2,2.1,Malta,B George,B Arora,Ashwin Vinod,0,0,,,,,,"",""
+ball,2,2.2,Malta,B George,B Arora,Ashwin Vinod,0,0,,,,,,caught,B George
+ball,2,2.3,Malta,HS Gericke,B Arora,Ashwin Vinod,2,0,,,,,,"",""
+ball,2,2.4,Malta,HS Gericke,B Arora,Ashwin Vinod,4,0,,,,,,"",""
+ball,2,2.5,Malta,HS Gericke,B Arora,Ashwin Vinod,4,0,,,,,,"",""
+ball,2,2.6,Malta,HS Gericke,B Arora,Ashwin Vinod,0,0,,,,,,"",""
+ball,2,3.1,Malta,B Arora,HS Gericke,Ali Nayyer,0,0,,,,,,"",""
+ball,2,3.2,Malta,B Arora,HS Gericke,Ali Nayyer,0,0,,,,,,caught,B Arora
+ball,2,3.3,Malta,SSM Stanislaus,HS Gericke,Ali Nayyer,0,0,,,,,,"",""
+ball,2,3.4,Malta,SSM Stanislaus,HS Gericke,Ali Nayyer,0,0,,,,,,"",""
+ball,2,3.5,Malta,SSM Stanislaus,HS Gericke,Ali Nayyer,2,0,,,,,,"",""
+ball,2,3.6,Malta,SSM Stanislaus,HS Gericke,Ali Nayyer,0,1,1,,,,,"",""
+ball,2,3.7,Malta,SSM Stanislaus,HS Gericke,Ali Nayyer,1,0,,,,,,"",""
+ball,2,4.1,Malta,SSM Stanislaus,HS Gericke,Ashwin Vinod,0,0,,,,,,caught,SSM Stanislaus
+ball,2,4.2,Malta,VP Thamotharam,HS Gericke,Ashwin Vinod,6,0,,,,,,"",""
+ball,2,4.3,Malta,VP Thamotharam,HS Gericke,Ashwin Vinod,1,0,,,,,,"",""
+ball,2,4.4,Malta,HS Gericke,VP Thamotharam,Ashwin Vinod,1,0,,,,,,"",""
+ball,2,4.5,Malta,VP Thamotharam,HS Gericke,Ashwin Vinod,0,0,,,,,,"",""
+ball,2,4.6,Malta,VP Thamotharam,HS Gericke,Ashwin Vinod,0,0,,,,,,"",""
+ball,2,5.1,Malta,HS Gericke,VP Thamotharam,Osama Mahmood,2,0,,,,,,"",""
+ball,2,5.2,Malta,HS Gericke,VP Thamotharam,Osama Mahmood,6,0,,,,,,"",""
+ball,2,5.3,Malta,HS Gericke,VP Thamotharam,Osama Mahmood,4,0,,,,,,"",""
+ball,2,5.4,Malta,HS Gericke,VP Thamotharam,Osama Mahmood,0,0,,,,,,caught,HS Gericke
+ball,2,5.5,Malta,VP Thamotharam,Aaftab Alam Khan,Osama Mahmood,0,0,,,,,,"",""
+ball,2,5.6,Malta,VP Thamotharam,Aaftab Alam Khan,Osama Mahmood,1,0,,,,,,"",""
+ball,2,6.1,Malta,VP Thamotharam,Aaftab Alam Khan,S Franklin,1,0,,,,,,"",""
+ball,2,6.2,Malta,Aaftab Alam Khan,VP Thamotharam,S Franklin,1,0,,,,,,"",""
+ball,2,6.3,Malta,VP Thamotharam,Aaftab Alam Khan,S Franklin,0,1,1,,,,,"",""
+ball,2,6.4,Malta,VP Thamotharam,Aaftab Alam Khan,S Franklin,0,2,2,,,,,"",""
+ball,2,6.5,Malta,Aaftab Alam Khan,VP Thamotharam,S Franklin,1,0,,,,,,"",""
+ball,2,6.6,Malta,VP Thamotharam,Aaftab Alam Khan,S Franklin,1,0,,,,,,"",""
+ball,2,6.7,Malta,Aaftab Alam Khan,VP Thamotharam,S Franklin,0,1,1,,,,,"",""
+ball,2,6.8,Malta,Aaftab Alam Khan,VP Thamotharam,S Franklin,1,0,,,,,,"",""
+ball,2,6.9,Malta,VP Thamotharam,Aaftab Alam Khan,S Franklin,1,0,,,,,,"",""
+ball,2,7.1,Malta,VP Thamotharam,Aaftab Alam Khan,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,7.2,Malta,VP Thamotharam,Aaftab Alam Khan,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,7.3,Malta,VP Thamotharam,Aaftab Alam Khan,NK Aneesh Kumar,0,1,,,,1,,"",""
+ball,2,7.4,Malta,Aaftab Alam Khan,VP Thamotharam,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,7.5,Malta,Aaftab Alam Khan,VP Thamotharam,NK Aneesh Kumar,0,1,1,,,,,"",""
+ball,2,7.6,Malta,Aaftab Alam Khan,VP Thamotharam,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,7.7,Malta,Aaftab Alam Khan,VP Thamotharam,NK Aneesh Kumar,0,1,,,,1,,"",""
+ball,2,8.1,Malta,Aaftab Alam Khan,VP Thamotharam,Osama Mahmood,0,1,1,,,,,"",""
+ball,2,8.2,Malta,Aaftab Alam Khan,VP Thamotharam,Osama Mahmood,0,0,,,,,,caught,Aaftab Alam Khan
+ball,2,8.3,Malta,Amar Sharma,VP Thamotharam,Osama Mahmood,0,0,,,,,,"",""
+ball,2,8.4,Malta,Amar Sharma,VP Thamotharam,Osama Mahmood,0,0,,,,,,"",""
+ball,2,8.5,Malta,Amar Sharma,VP Thamotharam,Osama Mahmood,0,1,1,,,,,"",""
+ball,2,8.6,Malta,Amar Sharma,VP Thamotharam,Osama Mahmood,0,0,,,,,,"",""
+ball,2,8.7,Malta,Amar Sharma,VP Thamotharam,Osama Mahmood,1,0,,,,,,"",""
+ball,2,8.8,Malta,VP Thamotharam,Amar Sharma,Osama Mahmood,0,0,,,,,,"",""
+ball,2,9.1,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,2,9.2,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,9.3,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,2,9.4,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,9.5,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,2,0,,,,,,"",""
+ball,2,9.6,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,2,10.1,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,0,0,,,,,,"",""
+ball,2,10.2,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,0,0,,,,,,"",""
+ball,2,10.3,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,0,0,,,,,,"",""
+ball,2,10.4,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,1,0,,,,,,"",""
+ball,2,10.5,Malta,VP Thamotharam,Amar Sharma,Arjun Vinod,6,0,,,,,,"",""
+ball,2,10.6,Malta,VP Thamotharam,Amar Sharma,Arjun Vinod,0,0,,,,,,"",""
+ball,2,11.1,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,2,11.2,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,2,11.3,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,0,2,,,,2,,"",""
+ball,2,11.4,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,11.5,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,11.6,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,12.1,Malta,VP Thamotharam,Amar Sharma,Arjun Vinod,0,0,,,,,,"",""
+ball,2,12.2,Malta,VP Thamotharam,Amar Sharma,Arjun Vinod,1,0,,,,,,"",""
+ball,2,12.3,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,0,0,,,,,,"",""
+ball,2,12.4,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,2,0,,,,,,"",""
+ball,2,12.5,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,4,0,,,,,,"",""
+ball,2,12.6,Malta,Amar Sharma,VP Thamotharam,Arjun Vinod,0,0,,,,,,"",""
+ball,2,13.1,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,13.2,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,13.3,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,0,2,,,,2,,"",""
+ball,2,13.4,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,2,13.5,Malta,Amar Sharma,VP Thamotharam,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,2,13.6,Malta,VP Thamotharam,Amar Sharma,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,2,14.1,Malta,Amar Sharma,VP Thamotharam,Ashwin Vinod,2,0,,,,,,"",""
+ball,2,14.2,Malta,Amar Sharma,VP Thamotharam,Ashwin Vinod,1,0,,,,,,"",""
+ball,2,14.3,Malta,VP Thamotharam,Amar Sharma,Ashwin Vinod,1,0,,,,,,"",""
+ball,2,14.4,Malta,Amar Sharma,VP Thamotharam,Ashwin Vinod,0,0,,,,,,caught,Amar Sharma
+ball,2,14.5,Malta,N Khanna,VP Thamotharam,Ashwin Vinod,2,0,,,,,,"",""
+ball,2,14.6,Malta,N Khanna,VP Thamotharam,Ashwin Vinod,1,0,,,,,,"",""
+ball,2,15.1,Malta,N Khanna,VP Thamotharam,Arjun Vinod,1,0,,,,,,"",""
+ball,2,15.2,Malta,VP Thamotharam,N Khanna,Arjun Vinod,1,0,,,,,,"",""
+ball,2,15.3,Malta,N Khanna,VP Thamotharam,Arjun Vinod,0,0,,,,,,"",""
+ball,2,15.4,Malta,N Khanna,VP Thamotharam,Arjun Vinod,0,0,,,,,,caught,N Khanna
+ball,2,15.5,Malta,VP Thamotharam,Bilal Muhammad,Arjun Vinod,6,0,,,,,,"",""
+ball,2,15.6,Malta,VP Thamotharam,Bilal Muhammad,Arjun Vinod,0,0,,,,,,"",""
+ball,2,16.1,Malta,Bilal Muhammad,VP Thamotharam,Ali Nayyer,0,0,,,,,,"",""
+ball,2,16.2,Malta,Bilal Muhammad,VP Thamotharam,Ali Nayyer,1,0,,,,,,"",""
+ball,2,16.3,Malta,VP Thamotharam,Bilal Muhammad,Ali Nayyer,1,0,,,,,,"",""
+ball,2,16.4,Malta,Bilal Muhammad,VP Thamotharam,Ali Nayyer,3,0,,,,,,"",""
+ball,2,16.5,Malta,VP Thamotharam,Bilal Muhammad,Ali Nayyer,0,0,,,,,,"",""
+ball,2,16.6,Malta,VP Thamotharam,Bilal Muhammad,Ali Nayyer,0,0,,,,,,caught,VP Thamotharam
+ball,2,17.1,Malta,Washeem Abbas,Bilal Muhammad,Osama Mahmood,1,0,,,,,,"",""
+ball,2,17.2,Malta,Bilal Muhammad,Washeem Abbas,Osama Mahmood,0,2,2,,,,,"",""
+ball,2,17.3,Malta,Washeem Abbas,Bilal Muhammad,Osama Mahmood,0,0,,,,,,"",""
+ball,2,17.4,Malta,Washeem Abbas,Bilal Muhammad,Osama Mahmood,0,0,,,,,,"",""
+ball,2,17.5,Malta,Washeem Abbas,Bilal Muhammad,Osama Mahmood,0,0,,,,,,caught,Washeem Abbas
+ball,2,17.6,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,2,0,,,,,,"",""
+ball,2,17.7,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,1,0,,,,,,"",""
+ball,2,18.1,Malta,Bilal Muhammad,B Kalki Kumar,Ali Nayyer,0,0,,,,,,"",""
+ball,2,18.2,Malta,Bilal Muhammad,B Kalki Kumar,Ali Nayyer,6,0,,,,,,"",""
+ball,2,18.3,Malta,Bilal Muhammad,B Kalki Kumar,Ali Nayyer,6,0,,,,,,"",""
+ball,2,18.4,Malta,Bilal Muhammad,B Kalki Kumar,Ali Nayyer,0,0,,,,,,"",""
+ball,2,18.5,Malta,Bilal Muhammad,B Kalki Kumar,Ali Nayyer,0,0,,,,,,"",""
+ball,2,18.6,Malta,Bilal Muhammad,B Kalki Kumar,Ali Nayyer,1,0,,,,,,"",""
+ball,2,19.1,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,0,0,,,,,,"",""
+ball,2,19.2,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,6,0,,,,,,"",""
+ball,2,19.3,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,0,0,,,,,,"",""
+ball,2,19.4,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,0,1,1,,,,,"",""
+ball,2,19.5,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,6,0,,,,,,"",""
+ball,2,19.6,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,0,1,1,,,,,"",""
+ball,2,19.7,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,2,0,,,,,,"",""
+ball,2,19.8,Malta,Bilal Muhammad,B Kalki Kumar,Osama Mahmood,1,0,,,,,,"",""

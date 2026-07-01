@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Bahamas
+info,gender,male
+info,season,2022/23
+info,date,2023/02/26
+info,event,ICC Men's T20 World Cup Americas Region Qualifier
+info,match_number,3
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Panama
+info,toss_decision,bat
+info,player_of_match,M Taylor
+info,umpire,Emmerson Carrington
+info,umpire,N Duguid
+info,reserve_umpire,Jermaine Lindo
+info,match_referee,Reon King
+info,winner,Bahamas
+info,winner_wickets,4
+info,player,Panama,Mahmud Jasat
+info,player,Panama,M Sohel Patel
+info,player,Panama,Irfan Hafejee
+info,player,Panama,Sohel Patel
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,RDB Ahir
+info,player,Panama,HJ Patel
+info,player,Panama,FL Patel
+info,player,Panama,N Ahir
+info,player,Panama,Abdullah Jasat
+info,player,Panama,KB Ahir
+info,player,Bahamas,M Taylor
+info,player,Bahamas,NH Ekanayake
+info,player,Bahamas,K Hinds
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,T Brown
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,JR Barry
+info,player,Bahamas,J Jemison
+info,player,Bahamas,JE Scott
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,Abdullah Jasat,5a42db78
+info,registry,people,D Wheatley,04539335
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,FL Patel,e205ce8b
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GT Taylor,c674f722
+info,registry,people,HJ Patel,2e3c45d3
+info,registry,people,Irfan Hafejee,244009ae
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,JE Scott,732c9016
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hinds,a268c07b
+info,registry,people,KB Ahir,214cf493
+info,registry,people,M Sohel Patel,40a5bcf9
+info,registry,people,M Taylor,92075cdc
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,N Ahir,c2ecd4a7
+info,registry,people,N Duguid,64495506
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,Reon King,20fbf68c
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,Sohel Patel,9ac70727
+info,registry,people,T Brown,e4bc45e0
+ball,1,0.1,Panama,Mahmud Jasat,M Sohel Patel,JE Scott,4,0,,,,,,"",""
+ball,1,0.2,Panama,Mahmud Jasat,M Sohel Patel,JE Scott,0,0,,,,,,"",""
+ball,1,0.3,Panama,Mahmud Jasat,M Sohel Patel,JE Scott,0,0,,,,,,"",""
+ball,1,0.4,Panama,Mahmud Jasat,M Sohel Patel,JE Scott,1,0,,,,,,"",""
+ball,1,0.5,Panama,M Sohel Patel,Mahmud Jasat,JE Scott,0,0,,,,,,"",""
+ball,1,0.6,Panama,M Sohel Patel,Mahmud Jasat,JE Scott,0,0,,,,,,"",""
+ball,1,1.1,Panama,Mahmud Jasat,M Sohel Patel,K Hinds,0,0,,,,,,"",""
+ball,1,1.2,Panama,Mahmud Jasat,M Sohel Patel,K Hinds,1,0,,,,,,"",""
+ball,1,1.3,Panama,M Sohel Patel,Mahmud Jasat,K Hinds,1,0,,,,,,"",""
+ball,1,1.4,Panama,Mahmud Jasat,M Sohel Patel,K Hinds,0,0,,,,,,"",""
+ball,1,1.5,Panama,Mahmud Jasat,M Sohel Patel,K Hinds,4,0,,,,,,"",""
+ball,1,1.6,Panama,Mahmud Jasat,M Sohel Patel,K Hinds,0,0,,,,,,bowled,Mahmud Jasat
+ball,1,2.1,Panama,M Sohel Patel,Irfan Hafejee,JE Scott,4,0,,,,,,"",""
+ball,1,2.2,Panama,M Sohel Patel,Irfan Hafejee,JE Scott,0,0,,,,,,"",""
+ball,1,2.3,Panama,M Sohel Patel,Irfan Hafejee,JE Scott,0,0,,,,,,bowled,M Sohel Patel
+ball,1,2.4,Panama,Sohel Patel,Irfan Hafejee,JE Scott,0,0,,,,,,"",""
+ball,1,2.5,Panama,Sohel Patel,Irfan Hafejee,JE Scott,0,0,,,,,,"",""
+ball,1,2.6,Panama,Sohel Patel,Irfan Hafejee,JE Scott,0,0,,,,,,"",""
+ball,1,3.1,Panama,Irfan Hafejee,Sohel Patel,K Hinds,1,0,,,,,,"",""
+ball,1,3.2,Panama,Sohel Patel,Irfan Hafejee,K Hinds,0,0,,,,,,"",""
+ball,1,3.3,Panama,Sohel Patel,Irfan Hafejee,K Hinds,1,0,,,,,,"",""
+ball,1,3.4,Panama,Irfan Hafejee,Sohel Patel,K Hinds,0,0,,,,,,"",""
+ball,1,3.5,Panama,Irfan Hafejee,Sohel Patel,K Hinds,1,0,,,,,,"",""
+ball,1,3.6,Panama,Sohel Patel,Irfan Hafejee,K Hinds,0,0,,,,,,"",""
+ball,1,4.1,Panama,Irfan Hafejee,Sohel Patel,JE Scott,1,0,,,,,,"",""
+ball,1,4.2,Panama,Sohel Patel,Irfan Hafejee,JE Scott,1,0,,,,,,"",""
+ball,1,4.3,Panama,Irfan Hafejee,Sohel Patel,JE Scott,0,0,,,,,,caught,Irfan Hafejee
+ball,1,4.4,Panama,A Natubhai Ahir,Sohel Patel,JE Scott,1,0,,,,,,"",""
+ball,1,4.5,Panama,Sohel Patel,A Natubhai Ahir,JE Scott,0,0,,,,,,"",""
+ball,1,4.6,Panama,Sohel Patel,A Natubhai Ahir,JE Scott,0,0,,,,,,"",""
+ball,1,5.1,Panama,A Natubhai Ahir,Sohel Patel,JR Barry,0,0,,,,,,"",""
+ball,1,5.2,Panama,A Natubhai Ahir,Sohel Patel,JR Barry,0,0,,,,,,"",""
+ball,1,5.3,Panama,A Natubhai Ahir,Sohel Patel,JR Barry,0,0,,,,,,"",""
+ball,1,5.4,Panama,A Natubhai Ahir,Sohel Patel,JR Barry,0,0,,,,,,caught,A Natubhai Ahir
+ball,1,5.5,Panama,RDB Ahir,Sohel Patel,JR Barry,0,0,,,,,,"",""
+ball,1,5.6,Panama,RDB Ahir,Sohel Patel,JR Barry,0,0,,,,,,caught and bowled,RDB Ahir
+ball,1,6.1,Panama,Sohel Patel,HJ Patel,JE Scott,0,0,,,,,,"",""
+ball,1,6.2,Panama,Sohel Patel,HJ Patel,JE Scott,2,0,,,,,,"",""
+ball,1,6.3,Panama,Sohel Patel,HJ Patel,JE Scott,4,0,,,,,,"",""
+ball,1,6.4,Panama,Sohel Patel,HJ Patel,JE Scott,0,0,,,,,,"",""
+ball,1,6.5,Panama,Sohel Patel,HJ Patel,JE Scott,1,0,,,,,,"",""
+ball,1,6.6,Panama,HJ Patel,Sohel Patel,JE Scott,4,0,,,,,,"",""
+ball,1,7.1,Panama,Sohel Patel,HJ Patel,JR Barry,1,0,,,,,,"",""
+ball,1,7.2,Panama,HJ Patel,Sohel Patel,JR Barry,1,0,,,,,,"",""
+ball,1,7.3,Panama,Sohel Patel,HJ Patel,JR Barry,0,0,,,,,,"",""
+ball,1,7.4,Panama,Sohel Patel,HJ Patel,JR Barry,0,0,,,,,,"",""
+ball,1,7.5,Panama,Sohel Patel,HJ Patel,JR Barry,1,0,,,,,,"",""
+ball,1,7.6,Panama,HJ Patel,Sohel Patel,JR Barry,0,0,,,,,,"",""
+ball,1,8.1,Panama,Sohel Patel,HJ Patel,M Taylor,0,0,,,,,,"",""
+ball,1,8.2,Panama,Sohel Patel,HJ Patel,M Taylor,1,0,,,,,,"",""
+ball,1,8.3,Panama,HJ Patel,Sohel Patel,M Taylor,1,0,,,,,,"",""
+ball,1,8.4,Panama,Sohel Patel,HJ Patel,M Taylor,0,0,,,,,,"",""
+ball,1,8.5,Panama,Sohel Patel,HJ Patel,M Taylor,0,1,1,,,,,"",""
+ball,1,8.6,Panama,Sohel Patel,HJ Patel,M Taylor,4,0,,,,,,"",""
+ball,1,8.7,Panama,Sohel Patel,HJ Patel,M Taylor,0,0,,,,,,"",""
+ball,1,9.1,Panama,HJ Patel,Sohel Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,9.2,Panama,Sohel Patel,HJ Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,9.3,Panama,Sohel Patel,HJ Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,9.4,Panama,HJ Patel,Sohel Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,9.5,Panama,HJ Patel,Sohel Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,9.6,Panama,HJ Patel,Sohel Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,10.1,Panama,HJ Patel,Sohel Patel,M Taylor,0,0,,,,,,"",""
+ball,1,10.2,Panama,HJ Patel,Sohel Patel,M Taylor,2,0,,,,,,"",""
+ball,1,10.3,Panama,HJ Patel,Sohel Patel,M Taylor,2,0,,,,,,"",""
+ball,1,10.4,Panama,HJ Patel,Sohel Patel,M Taylor,0,0,,,,,,"",""
+ball,1,10.5,Panama,HJ Patel,Sohel Patel,M Taylor,3,0,,,,,,"",""
+ball,1,10.6,Panama,Sohel Patel,HJ Patel,M Taylor,1,0,,,,,,"",""
+ball,1,11.1,Panama,Sohel Patel,HJ Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,11.2,Panama,Sohel Patel,HJ Patel,NH Ekanayake,0,0,,,,,,caught,Sohel Patel
+ball,1,11.3,Panama,FL Patel,HJ Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,11.4,Panama,FL Patel,HJ Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,11.5,Panama,HJ Patel,FL Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,11.6,Panama,FL Patel,HJ Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,12.1,Panama,FL Patel,HJ Patel,M Taylor,0,0,,,,,,"",""
+ball,1,12.2,Panama,FL Patel,HJ Patel,M Taylor,0,0,,,,,,"",""
+ball,1,12.3,Panama,FL Patel,HJ Patel,M Taylor,4,0,,,,,,"",""
+ball,1,12.4,Panama,FL Patel,HJ Patel,M Taylor,0,1,1,,,,,"",""
+ball,1,12.5,Panama,FL Patel,HJ Patel,M Taylor,2,0,,,,,,"",""
+ball,1,12.6,Panama,FL Patel,HJ Patel,M Taylor,0,0,,,,,,"",""
+ball,1,12.7,Panama,FL Patel,HJ Patel,M Taylor,0,0,,,,,,"",""
+ball,1,13.1,Panama,HJ Patel,FL Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,13.2,Panama,HJ Patel,FL Patel,NH Ekanayake,0,1,1,,,,,"",""
+ball,1,13.3,Panama,HJ Patel,FL Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,13.4,Panama,HJ Patel,FL Patel,NH Ekanayake,4,0,,,,,,"",""
+ball,1,13.5,Panama,HJ Patel,FL Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,13.6,Panama,HJ Patel,FL Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,13.7,Panama,FL Patel,HJ Patel,NH Ekanayake,1,0,,,,,,"",""
+ball,1,14.1,Panama,FL Patel,HJ Patel,M Taylor,0,1,1,,,,,"",""
+ball,1,14.2,Panama,FL Patel,HJ Patel,M Taylor,2,0,,,,,,"",""
+ball,1,14.3,Panama,FL Patel,HJ Patel,M Taylor,1,0,,,,,,"",""
+ball,1,14.4,Panama,HJ Patel,FL Patel,M Taylor,0,0,,,,,,bowled,HJ Patel
+ball,1,14.5,Panama,N Ahir,FL Patel,M Taylor,0,0,,,,,,"",""
+ball,1,14.6,Panama,N Ahir,FL Patel,M Taylor,0,0,,,,,,"",""
+ball,1,14.7,Panama,N Ahir,FL Patel,M Taylor,0,0,,,,,,"",""
+ball,1,15.1,Panama,FL Patel,N Ahir,NH Ekanayake,0,0,,,,,,"",""
+ball,1,15.2,Panama,FL Patel,N Ahir,NH Ekanayake,4,0,,,,,,"",""
+ball,1,15.3,Panama,FL Patel,N Ahir,NH Ekanayake,1,0,,,,,,"",""
+ball,1,15.4,Panama,N Ahir,FL Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,15.5,Panama,N Ahir,FL Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,15.6,Panama,N Ahir,FL Patel,NH Ekanayake,0,0,,,,,,"",""
+ball,1,16.1,Panama,FL Patel,N Ahir,Festus Benn,1,0,,,,,,"",""
+ball,1,16.2,Panama,N Ahir,FL Patel,Festus Benn,2,0,,,,,,"",""
+ball,1,16.3,Panama,N Ahir,FL Patel,Festus Benn,2,0,,,,,,"",""
+ball,1,16.4,Panama,N Ahir,FL Patel,Festus Benn,0,0,,,,,,"",""
+ball,1,16.5,Panama,N Ahir,FL Patel,Festus Benn,1,0,,,,,,"",""
+ball,1,16.6,Panama,FL Patel,N Ahir,Festus Benn,0,0,,,,,,"",""
+ball,1,17.1,Panama,N Ahir,FL Patel,K Hinds,0,0,,,,,,"",""
+ball,1,17.2,Panama,N Ahir,FL Patel,K Hinds,1,0,,,,,,"",""
+ball,1,17.3,Panama,FL Patel,N Ahir,K Hinds,2,0,,,,,,"",""
+ball,1,17.4,Panama,FL Patel,N Ahir,K Hinds,0,0,,,,,,"",""
+ball,1,17.5,Panama,FL Patel,N Ahir,K Hinds,0,0,,,,,,"",""
+ball,1,17.6,Panama,FL Patel,N Ahir,K Hinds,0,0,,,,,,"",""
+ball,1,18.1,Panama,N Ahir,FL Patel,Festus Benn,1,0,,,,,,"",""
+ball,1,18.2,Panama,FL Patel,N Ahir,Festus Benn,2,0,,,,,,"",""
+ball,1,18.3,Panama,FL Patel,N Ahir,Festus Benn,1,0,,,,,,"",""
+ball,1,18.4,Panama,N Ahir,FL Patel,Festus Benn,2,0,,,,,,"",""
+ball,1,18.5,Panama,N Ahir,FL Patel,Festus Benn,1,0,,,,,,"",""
+ball,1,18.6,Panama,FL Patel,N Ahir,Festus Benn,0,0,,,,,,bowled,FL Patel
+ball,1,19.1,Panama,N Ahir,Abdullah Jasat,K Hinds,1,0,,,,,,"",""
+ball,1,19.2,Panama,Abdullah Jasat,N Ahir,K Hinds,0,0,,,,,,"",""
+ball,1,19.3,Panama,Abdullah Jasat,N Ahir,K Hinds,0,0,,,,,,"",""
+ball,1,19.4,Panama,Abdullah Jasat,N Ahir,K Hinds,0,0,,,,,,caught,Abdullah Jasat
+ball,1,19.5,Panama,KB Ahir,N Ahir,K Hinds,1,0,,,,,,"",""
+ball,1,19.6,Panama,N Ahir,KB Ahir,K Hinds,4,0,,,,,,"",""
+ball,2,0.1,Bahamas,M Taylor,NH Ekanayake,KB Ahir,0,1,1,,,,,"",""
+ball,2,0.2,Bahamas,M Taylor,NH Ekanayake,KB Ahir,0,1,1,,,,,"",""
+ball,2,0.3,Bahamas,M Taylor,NH Ekanayake,KB Ahir,0,0,,,,,,"",""
+ball,2,0.4,Bahamas,M Taylor,NH Ekanayake,KB Ahir,6,0,,,,,,"",""
+ball,2,0.5,Bahamas,M Taylor,NH Ekanayake,KB Ahir,0,0,,,,,,"",""
+ball,2,0.6,Bahamas,M Taylor,NH Ekanayake,KB Ahir,0,0,,,,,,"",""
+ball,2,0.7,Bahamas,M Taylor,NH Ekanayake,KB Ahir,1,0,,,,,,"",""
+ball,2,0.8,Bahamas,NH Ekanayake,M Taylor,KB Ahir,0,0,,,,,,"",""
+ball,2,1.1,Bahamas,M Taylor,NH Ekanayake,Abdullah Jasat,0,0,,,,,,"",""
+ball,2,1.2,Bahamas,M Taylor,NH Ekanayake,Abdullah Jasat,0,0,,,,,,"",""
+ball,2,1.3,Bahamas,M Taylor,NH Ekanayake,Abdullah Jasat,4,0,,,,,,"",""
+ball,2,1.4,Bahamas,M Taylor,NH Ekanayake,Abdullah Jasat,4,0,,,,,,"",""
+ball,2,1.5,Bahamas,M Taylor,NH Ekanayake,Abdullah Jasat,0,0,,,,,,"",""
+ball,2,1.6,Bahamas,M Taylor,NH Ekanayake,Abdullah Jasat,0,0,,,,,,"",""
+ball,2,2.1,Bahamas,NH Ekanayake,M Taylor,N Ahir,0,0,,,,,,"",""
+ball,2,2.2,Bahamas,NH Ekanayake,M Taylor,N Ahir,0,0,,,,,,"",""
+ball,2,2.3,Bahamas,NH Ekanayake,M Taylor,N Ahir,0,0,,,,,,"",""
+ball,2,2.4,Bahamas,NH Ekanayake,M Taylor,N Ahir,0,0,,,,,,"",""
+ball,2,2.5,Bahamas,NH Ekanayake,M Taylor,N Ahir,0,0,,,,,,"",""
+ball,2,2.6,Bahamas,NH Ekanayake,M Taylor,N Ahir,0,0,,,,,,"",""
+ball,2,3.1,Bahamas,M Taylor,NH Ekanayake,FL Patel,0,0,,,,,,"",""
+ball,2,3.2,Bahamas,M Taylor,NH Ekanayake,FL Patel,4,0,,,,,,"",""
+ball,2,3.3,Bahamas,M Taylor,NH Ekanayake,FL Patel,1,0,,,,,,"",""
+ball,2,3.4,Bahamas,NH Ekanayake,M Taylor,FL Patel,4,0,,,,,,"",""
+ball,2,3.5,Bahamas,NH Ekanayake,M Taylor,FL Patel,0,1,1,,,,,"",""
+ball,2,3.6,Bahamas,NH Ekanayake,M Taylor,FL Patel,0,0,,,,,,"",""
+ball,2,3.7,Bahamas,NH Ekanayake,M Taylor,FL Patel,0,0,,,,,,"",""
+ball,2,4.1,Bahamas,M Taylor,NH Ekanayake,N Ahir,0,0,,,,,,"",""
+ball,2,4.2,Bahamas,M Taylor,NH Ekanayake,N Ahir,2,0,,,,,,"",""
+ball,2,4.3,Bahamas,M Taylor,NH Ekanayake,N Ahir,4,0,,,,,,"",""
+ball,2,4.4,Bahamas,M Taylor,NH Ekanayake,N Ahir,6,0,,,,,,"",""
+ball,2,4.5,Bahamas,M Taylor,NH Ekanayake,N Ahir,0,0,,,,,,"",""
+ball,2,4.6,Bahamas,M Taylor,NH Ekanayake,N Ahir,4,0,,,,,,"",""
+ball,2,5.1,Bahamas,NH Ekanayake,M Taylor,RDB Ahir,4,0,,,,,,"",""
+ball,2,5.2,Bahamas,NH Ekanayake,M Taylor,RDB Ahir,1,0,,,,,,"",""
+ball,2,5.3,Bahamas,M Taylor,NH Ekanayake,RDB Ahir,0,0,,,,,,"",""
+ball,2,5.4,Bahamas,M Taylor,NH Ekanayake,RDB Ahir,0,0,,,,,,"",""
+ball,2,5.5,Bahamas,M Taylor,NH Ekanayake,RDB Ahir,1,0,,,,,,"",""
+ball,2,5.6,Bahamas,NH Ekanayake,M Taylor,RDB Ahir,0,0,,,,,,"",""
+ball,2,6.1,Bahamas,M Taylor,NH Ekanayake,Irfan Hafejee,4,0,,,,,,"",""
+ball,2,6.2,Bahamas,M Taylor,NH Ekanayake,Irfan Hafejee,1,0,,,,,,"",""
+ball,2,6.3,Bahamas,NH Ekanayake,M Taylor,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,6.4,Bahamas,NH Ekanayake,M Taylor,Irfan Hafejee,6,0,,,,,,"",""
+ball,2,6.5,Bahamas,NH Ekanayake,M Taylor,Irfan Hafejee,4,0,,,,,,"",""
+ball,2,6.6,Bahamas,NH Ekanayake,M Taylor,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,7.1,Bahamas,M Taylor,NH Ekanayake,RDB Ahir,0,0,,,,,,"",""
+ball,2,7.2,Bahamas,M Taylor,NH Ekanayake,RDB Ahir,0,0,,,,,,"",""
+ball,2,7.3,Bahamas,M Taylor,NH Ekanayake,RDB Ahir,1,0,,,,,,"",""
+ball,2,7.4,Bahamas,NH Ekanayake,M Taylor,RDB Ahir,0,0,,,,,,bowled,NH Ekanayake
+ball,2,7.5,Bahamas,K Hinds,M Taylor,RDB Ahir,0,0,,,,,,"",""
+ball,2,7.6,Bahamas,K Hinds,M Taylor,RDB Ahir,2,0,,,,,,"",""
+ball,2,8.1,Bahamas,M Taylor,K Hinds,Sohel Patel,0,1,1,,,,,"",""
+ball,2,8.2,Bahamas,M Taylor,K Hinds,Sohel Patel,0,0,,,,,,"",""
+ball,2,8.3,Bahamas,M Taylor,K Hinds,Sohel Patel,6,0,,,,,,"",""
+ball,2,8.4,Bahamas,M Taylor,K Hinds,Sohel Patel,0,0,,,,,,"",""
+ball,2,8.5,Bahamas,M Taylor,K Hinds,Sohel Patel,0,0,,,,,,stumped,M Taylor
+ball,2,8.6,Bahamas,GT Taylor,K Hinds,Sohel Patel,0,0,,,,,,lbw,GT Taylor
+ball,2,8.7,Bahamas,Sandeep Goud,K Hinds,Sohel Patel,1,0,,,,,,"",""
+ball,2,9.1,Bahamas,Sandeep Goud,K Hinds,RDB Ahir,0,0,,,,,,"",""
+ball,2,9.2,Bahamas,Sandeep Goud,K Hinds,RDB Ahir,0,0,,,,,,"",""
+ball,2,9.3,Bahamas,Sandeep Goud,K Hinds,RDB Ahir,0,1,1,,,,,"",""
+ball,2,9.4,Bahamas,Sandeep Goud,K Hinds,RDB Ahir,1,0,,,,,,"",""
+ball,2,9.5,Bahamas,K Hinds,Sandeep Goud,RDB Ahir,1,0,,,,,,"",""
+ball,2,9.6,Bahamas,Sandeep Goud,K Hinds,RDB Ahir,0,0,,,,,,caught,Sandeep Goud
+ball,2,9.7,Bahamas,Festus Benn,K Hinds,RDB Ahir,1,0,,,,,,"",""
+ball,2,10.1,Bahamas,Festus Benn,K Hinds,Sohel Patel,0,0,,,,,,"",""
+ball,2,10.2,Bahamas,Festus Benn,K Hinds,Sohel Patel,1,0,,,,,,"",""
+ball,2,10.3,Bahamas,K Hinds,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,10.4,Bahamas,K Hinds,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,10.5,Bahamas,K Hinds,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,10.6,Bahamas,K Hinds,Festus Benn,Sohel Patel,1,0,,,,,,"",""
+ball,2,11.1,Bahamas,K Hinds,Festus Benn,RDB Ahir,0,0,,,,,,"",""
+ball,2,11.2,Bahamas,K Hinds,Festus Benn,RDB Ahir,0,0,,,,,,stumped,K Hinds
+ball,2,11.3,Bahamas,T Brown,Festus Benn,RDB Ahir,0,0,,,,,,"",""
+ball,2,11.4,Bahamas,T Brown,Festus Benn,RDB Ahir,0,0,,,,,,"",""
+ball,2,11.5,Bahamas,T Brown,Festus Benn,RDB Ahir,1,0,,,,,,"",""
+ball,2,11.6,Bahamas,Festus Benn,T Brown,RDB Ahir,0,0,,,,,,"",""
+ball,2,12.1,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,12.2,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,12.3,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,12.4,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,12.5,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,12.6,Bahamas,T Brown,Festus Benn,Sohel Patel,1,0,,,,,,"",""
+ball,2,13.1,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,13.2,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,13.3,Bahamas,T Brown,Festus Benn,Irfan Hafejee,2,0,,,,,,"",""
+ball,2,13.4,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,13.5,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,13.6,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,1,,,,1,,"",""
+ball,2,14.1,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,14.2,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,14.3,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,14.4,Bahamas,T Brown,Festus Benn,Sohel Patel,0,0,,,,,,"",""
+ball,2,14.5,Bahamas,T Brown,Festus Benn,Sohel Patel,1,0,,,,,,"",""
+ball,2,14.6,Bahamas,Festus Benn,T Brown,Sohel Patel,0,0,,,,,,"",""
+ball,2,15.1,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,1,1,,,,,"",""
+ball,2,15.2,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,15.3,Bahamas,T Brown,Festus Benn,Irfan Hafejee,1,0,,,,,,"",""
+ball,2,15.4,Bahamas,Festus Benn,T Brown,Irfan Hafejee,1,0,,,,,,"",""
+ball,2,15.5,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,15.6,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,15.7,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,1,1,,,,,"",""
+ball,2,15.8,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,16.1,Bahamas,Festus Benn,T Brown,A Natubhai Ahir,0,0,,,,,,"",""
+ball,2,16.2,Bahamas,Festus Benn,T Brown,A Natubhai Ahir,0,0,,,,,,"",""
+ball,2,16.3,Bahamas,Festus Benn,T Brown,A Natubhai Ahir,0,0,,,,,,"",""
+ball,2,16.4,Bahamas,Festus Benn,T Brown,A Natubhai Ahir,4,0,,,,,,"",""
+ball,2,16.5,Bahamas,Festus Benn,T Brown,A Natubhai Ahir,0,0,,,,,,"",""
+ball,2,16.6,Bahamas,Festus Benn,T Brown,A Natubhai Ahir,0,0,,,,,,"",""
+ball,2,17.1,Bahamas,T Brown,Festus Benn,Irfan Hafejee,2,0,,,,,,"",""
+ball,2,17.2,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,17.3,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,1,1,,,,,"",""
+ball,2,17.4,Bahamas,T Brown,Festus Benn,Irfan Hafejee,0,0,,,,,,lbw,T Brown
+ball,2,17.5,Bahamas,D Wheatley,Festus Benn,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,17.6,Bahamas,D Wheatley,Festus Benn,Irfan Hafejee,1,0,,,,,,"",""
+ball,2,17.7,Bahamas,Festus Benn,D Wheatley,Irfan Hafejee,0,1,1,,,,,"",""
+ball,2,17.8,Bahamas,Festus Benn,D Wheatley,Irfan Hafejee,0,0,,,,,,"",""
+ball,2,18.1,Bahamas,D Wheatley,Festus Benn,A Natubhai Ahir,0,0,,,,,,"",""
+ball,2,18.2,Bahamas,D Wheatley,Festus Benn,A Natubhai Ahir,1,0,,,,,,"",""
+ball,2,18.3,Bahamas,Festus Benn,D Wheatley,A Natubhai Ahir,4,0,,,,,,"",""

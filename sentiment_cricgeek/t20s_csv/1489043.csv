@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Vanuatu
+info,gender,female
+info,season,2025
+info,date,2025/06/16
+info,event,PacificAus Sports Cricket Invitational
+info,match_number,2
+info,venue,"Amini Park, Port Moresby"
+info,city,Port Moresby
+info,toss_winner,Papua New Guinea
+info,toss_decision,bat
+info,player_of_match,I Toua
+info,umpire,A Kapa
+info,umpire,L Oala
+info,winner,Papua New Guinea
+info,winner_runs,35
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,HL Tau
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,L Rajadurai
+info,player,Papua New Guinea,H Doriga
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,D Lohia
+info,player,Papua New Guinea,GP Tom
+info,player,Papua New Guinea,M Tom
+info,player,Vanuatu,R Andrew
+info,player,Vanuatu,V Langiatu
+info,player,Vanuatu,N Navaika
+info,player,Vanuatu,L Chilia
+info,player,Vanuatu,A Chilia
+info,player,Vanuatu,S Stephen
+info,player,Vanuatu,V Mansale
+info,player,Vanuatu,M Tarimiala
+info,player,Vanuatu,A Griffin
+info,player,Vanuatu,V Vira
+info,player,Vanuatu,R Ova
+info,registry,people,A Chilia,a0d07fd6
+info,registry,people,A Griffin,de1c0045
+info,registry,people,A Kapa,7c9c0f18
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,D Lohia,01341439
+info,registry,people,GP Tom,88bcd09d
+info,registry,people,H Doriga,5aa874da
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,HL Tau,ace63b7f
+info,registry,people,I Toua,83cde44d
+info,registry,people,L Chilia,87ac786c
+info,registry,people,L Oala,48a506ab
+info,registry,people,L Rajadurai,0d0d3eeb
+info,registry,people,M Tarimiala,0030a57d
+info,registry,people,M Tom,cebc1351
+info,registry,people,N Navaika,b0023708
+info,registry,people,N Vare,20ace887
+info,registry,people,P Siaka,595433d2
+info,registry,people,R Andrew,66c1accf
+info,registry,people,R Ova,88bba252
+info,registry,people,S Stephen,b48304b5
+info,registry,people,V Langiatu,fdd18ca0
+info,registry,people,V Mansale,7163637f
+info,registry,people,V Vira,94271647
+ball,1,0.1,Papua New Guinea,N Vare,HL Tau,V Vira,1,0,,,,,,"",""
+ball,1,0.2,Papua New Guinea,HL Tau,N Vare,V Vira,0,0,,,,,,caught,HL Tau
+ball,1,0.3,Papua New Guinea,B Tau,N Vare,V Vira,0,0,,,,,,"",""
+ball,1,0.4,Papua New Guinea,B Tau,N Vare,V Vira,1,0,,,,,,"",""
+ball,1,0.5,Papua New Guinea,N Vare,B Tau,V Vira,0,0,,,,,,"",""
+ball,1,0.6,Papua New Guinea,N Vare,B Tau,V Vira,1,0,,,,,,"",""
+ball,1,1.1,Papua New Guinea,N Vare,B Tau,R Andrew,0,0,,,,,,"",""
+ball,1,1.2,Papua New Guinea,N Vare,B Tau,R Andrew,0,1,,,,1,,"",""
+ball,1,1.3,Papua New Guinea,B Tau,N Vare,R Andrew,2,0,,,,,,"",""
+ball,1,1.4,Papua New Guinea,B Tau,N Vare,R Andrew,0,0,,,,,,"",""
+ball,1,1.5,Papua New Guinea,B Tau,N Vare,R Andrew,0,0,,,,,,lbw,B Tau
+ball,1,1.6,Papua New Guinea,HJ Thomas,N Vare,R Andrew,2,0,,,,,,"",""
+ball,1,2.1,Papua New Guinea,N Vare,HJ Thomas,V Vira,1,0,,,,,,"",""
+ball,1,2.2,Papua New Guinea,HJ Thomas,N Vare,V Vira,1,0,,,,,,"",""
+ball,1,2.3,Papua New Guinea,N Vare,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,2.4,Papua New Guinea,N Vare,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,2.5,Papua New Guinea,N Vare,HJ Thomas,V Vira,0,0,,,,,,lbw,N Vare
+ball,1,2.6,Papua New Guinea,P Siaka,HJ Thomas,V Vira,1,0,,,,,,"",""
+ball,1,3.1,Papua New Guinea,P Siaka,HJ Thomas,R Andrew,0,0,,,,,,"",""
+ball,1,3.2,Papua New Guinea,P Siaka,HJ Thomas,R Andrew,0,0,,,,,,lbw,P Siaka
+ball,1,3.3,Papua New Guinea,L Rajadurai,HJ Thomas,R Andrew,0,0,,,,,,"",""
+ball,1,3.4,Papua New Guinea,L Rajadurai,HJ Thomas,R Andrew,0,0,,,,,,"",""
+ball,1,3.5,Papua New Guinea,L Rajadurai,HJ Thomas,R Andrew,0,0,,,,,,"",""
+ball,1,3.6,Papua New Guinea,L Rajadurai,HJ Thomas,R Andrew,1,0,,,,,,"",""
+ball,1,4.1,Papua New Guinea,L Rajadurai,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,4.2,Papua New Guinea,L Rajadurai,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,4.3,Papua New Guinea,L Rajadurai,HJ Thomas,N Navaika,1,0,,,,,,"",""
+ball,1,4.4,Papua New Guinea,HJ Thomas,L Rajadurai,N Navaika,1,0,,,,,,"",""
+ball,1,4.5,Papua New Guinea,L Rajadurai,HJ Thomas,N Navaika,0,1,1,,,,,"",""
+ball,1,4.6,Papua New Guinea,L Rajadurai,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,4.7,Papua New Guinea,L Rajadurai,HJ Thomas,N Navaika,0,0,,,,,,caught,L Rajadurai
+ball,1,5.1,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,0,0,,,,,,"",""
+ball,1,5.2,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,0,0,,,,,,"",""
+ball,1,5.3,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,0,0,,,,,,"",""
+ball,1,5.4,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,1,0,,,,,,"",""
+ball,1,5.5,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,5.6,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,6.1,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,0,0,,,,,,"",""
+ball,1,6.2,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,1,0,,,,,,"",""
+ball,1,6.3,Papua New Guinea,H Doriga,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,6.4,Papua New Guinea,H Doriga,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,6.5,Papua New Guinea,H Doriga,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,6.6,Papua New Guinea,H Doriga,HJ Thomas,N Navaika,1,0,,,,,,"",""
+ball,1,7.1,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,7.2,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,7.3,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,6,0,,,,,,"",""
+ball,1,7.4,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,7.5,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,7.6,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,8.1,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,0,0,,,,,,"",""
+ball,1,8.2,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,0,2,,,2,,,"",""
+ball,1,8.3,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,0,0,,,,,,"",""
+ball,1,8.4,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,0,1,1,,,,,"",""
+ball,1,8.5,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,0,0,,,,,,"",""
+ball,1,8.6,Papua New Guinea,HJ Thomas,H Doriga,N Navaika,1,0,,,,,,"",""
+ball,1,8.7,Papua New Guinea,H Doriga,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,9.1,Papua New Guinea,HJ Thomas,H Doriga,R Ova,1,0,,,,,,"",""
+ball,1,9.2,Papua New Guinea,H Doriga,HJ Thomas,R Ova,0,0,,,,,,"",""
+ball,1,9.3,Papua New Guinea,H Doriga,HJ Thomas,R Ova,2,0,,,,,,"",""
+ball,1,9.4,Papua New Guinea,H Doriga,HJ Thomas,R Ova,4,0,,,,,,"",""
+ball,1,9.5,Papua New Guinea,H Doriga,HJ Thomas,R Ova,0,0,,,,,,"",""
+ball,1,9.6,Papua New Guinea,H Doriga,HJ Thomas,R Ova,0,0,,,,,,"",""
+ball,1,10.1,Papua New Guinea,HJ Thomas,H Doriga,V Vira,1,0,,,,,,"",""
+ball,1,10.2,Papua New Guinea,H Doriga,HJ Thomas,V Vira,0,1,1,,,,,"",""
+ball,1,10.3,Papua New Guinea,H Doriga,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,10.4,Papua New Guinea,H Doriga,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,10.5,Papua New Guinea,H Doriga,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,10.6,Papua New Guinea,H Doriga,HJ Thomas,V Vira,1,0,,,,,,"",""
+ball,1,10.7,Papua New Guinea,HJ Thomas,H Doriga,V Vira,0,1,1,,,,,"",""
+ball,1,10.8,Papua New Guinea,HJ Thomas,H Doriga,V Vira,2,0,,,,,,"",""
+ball,1,11.1,Papua New Guinea,H Doriga,HJ Thomas,R Ova,1,0,,,,,,"",""
+ball,1,11.2,Papua New Guinea,HJ Thomas,H Doriga,R Ova,1,0,,,,,,"",""
+ball,1,11.3,Papua New Guinea,H Doriga,HJ Thomas,R Ova,2,0,,,,,,"",""
+ball,1,11.4,Papua New Guinea,H Doriga,HJ Thomas,R Ova,0,2,,,2,,,"",""
+ball,1,11.5,Papua New Guinea,H Doriga,HJ Thomas,R Ova,0,0,,,,,,"",""
+ball,1,11.6,Papua New Guinea,H Doriga,HJ Thomas,R Ova,0,0,,,,,,"",""
+ball,1,12.1,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,0,0,,,,,,"",""
+ball,1,12.2,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,0,0,,,,,,"",""
+ball,1,12.3,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,0,0,,,,,,"",""
+ball,1,12.4,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,0,0,,,,,,"",""
+ball,1,12.5,Papua New Guinea,HJ Thomas,H Doriga,V Mansale,3,1,,1,,,,"",""
+ball,1,12.6,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,1,1,,,,,"",""
+ball,1,12.7,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,4,0,,,,,,"",""
+ball,1,12.8,Papua New Guinea,H Doriga,HJ Thomas,V Mansale,0,0,,,,,,"",""
+ball,1,13.1,Papua New Guinea,HJ Thomas,H Doriga,R Andrew,4,0,,,,,,"",""
+ball,1,13.2,Papua New Guinea,HJ Thomas,H Doriga,R Andrew,1,0,,,,,,"",""
+ball,1,13.3,Papua New Guinea,H Doriga,HJ Thomas,R Andrew,1,0,,,,,,"",""
+ball,1,13.4,Papua New Guinea,HJ Thomas,H Doriga,R Andrew,0,0,,,,,,"",""
+ball,1,13.5,Papua New Guinea,HJ Thomas,H Doriga,R Andrew,1,0,,,,,,"",""
+ball,1,13.6,Papua New Guinea,H Doriga,HJ Thomas,R Andrew,0,0,,,,,,caught,H Doriga
+ball,1,14.1,Papua New Guinea,HJ Thomas,I Toua,N Navaika,0,0,,,,,,run out,I Toua
+ball,1,14.2,Papua New Guinea,D Lohia,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,14.3,Papua New Guinea,D Lohia,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,14.4,Papua New Guinea,D Lohia,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,14.5,Papua New Guinea,D Lohia,HJ Thomas,N Navaika,0,1,1,,,,,"",""
+ball,1,14.6,Papua New Guinea,D Lohia,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,14.7,Papua New Guinea,D Lohia,HJ Thomas,N Navaika,0,0,,,,,,"",""
+ball,1,15.1,Papua New Guinea,HJ Thomas,D Lohia,V Mansale,4,0,,,,,,"",""
+ball,1,15.2,Papua New Guinea,HJ Thomas,D Lohia,V Mansale,2,0,,,,,,"",""
+ball,1,15.3,Papua New Guinea,HJ Thomas,D Lohia,V Mansale,0,0,,,,,,"",""
+ball,1,15.4,Papua New Guinea,HJ Thomas,D Lohia,V Mansale,1,0,,,,,,"",""
+ball,1,15.5,Papua New Guinea,D Lohia,HJ Thomas,V Mansale,1,0,,,,,,"",""
+ball,1,15.6,Papua New Guinea,HJ Thomas,D Lohia,V Mansale,3,0,,,,,,"",""
+ball,1,16.1,Papua New Guinea,HJ Thomas,D Lohia,V Vira,0,1,1,,,,,"",""
+ball,1,16.2,Papua New Guinea,HJ Thomas,D Lohia,V Vira,1,0,,,,,,"",""
+ball,1,16.3,Papua New Guinea,D Lohia,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,16.4,Papua New Guinea,D Lohia,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,16.5,Papua New Guinea,D Lohia,HJ Thomas,V Vira,0,0,,,,,,"",""
+ball,1,16.6,Papua New Guinea,D Lohia,HJ Thomas,V Vira,2,0,,,,,,"",""
+ball,1,16.7,Papua New Guinea,D Lohia,HJ Thomas,V Vira,1,0,,,,,,"",""
+ball,1,17.1,Papua New Guinea,D Lohia,HJ Thomas,R Ova,0,1,,,,1,,"",""
+ball,1,17.2,Papua New Guinea,HJ Thomas,D Lohia,R Ova,4,0,,,,,,"",""
+ball,1,17.3,Papua New Guinea,HJ Thomas,D Lohia,R Ova,0,0,,,,,,"",""
+ball,1,17.4,Papua New Guinea,HJ Thomas,D Lohia,R Ova,0,0,,,,,,"",""
+ball,1,17.5,Papua New Guinea,HJ Thomas,D Lohia,R Ova,1,0,,,,,,"",""
+ball,1,17.6,Papua New Guinea,D Lohia,HJ Thomas,R Ova,0,0,,,,,,"",""
+ball,1,18.1,Papua New Guinea,HJ Thomas,D Lohia,R Andrew,1,0,,,,,,"",""
+ball,1,18.2,Papua New Guinea,D Lohia,HJ Thomas,R Andrew,1,0,,,,,,"",""
+ball,1,18.3,Papua New Guinea,HJ Thomas,D Lohia,R Andrew,4,0,,,,,,"",""
+ball,1,18.4,Papua New Guinea,HJ Thomas,D Lohia,R Andrew,0,1,1,,,,,"",""
+ball,1,18.5,Papua New Guinea,HJ Thomas,D Lohia,R Andrew,0,0,,,,,,"",""
+ball,1,18.6,Papua New Guinea,HJ Thomas,D Lohia,R Andrew,0,0,,,,,,"",""
+ball,1,18.7,Papua New Guinea,HJ Thomas,D Lohia,R Andrew,0,0,,,,,,"",""
+ball,1,19.1,Papua New Guinea,D Lohia,HJ Thomas,R Ova,0,0,,,,,,run out,D Lohia
+ball,1,19.2,Papua New Guinea,HJ Thomas,GP Tom,R Ova,2,0,,,,,,"",""
+ball,1,19.3,Papua New Guinea,HJ Thomas,GP Tom,R Ova,1,0,,,,,,run out,GP Tom
+ball,1,19.4,Papua New Guinea,HJ Thomas,M Tom,R Ova,1,0,,,,,,"",""
+ball,1,19.5,Papua New Guinea,M Tom,HJ Thomas,R Ova,1,0,,,,,,"",""
+ball,1,19.6,Papua New Guinea,HJ Thomas,M Tom,R Ova,0,0,,,,,,bowled,HJ Thomas
+ball,2,0.1,Vanuatu,R Andrew,V Langiatu,HJ Thomas,0,0,,,,,,"",""
+ball,2,0.2,Vanuatu,R Andrew,V Langiatu,HJ Thomas,0,1,,,,1,,"",""
+ball,2,0.3,Vanuatu,V Langiatu,R Andrew,HJ Thomas,1,0,,,,,,"",""
+ball,2,0.4,Vanuatu,R Andrew,V Langiatu,HJ Thomas,1,0,,,,,,"",""
+ball,2,0.5,Vanuatu,V Langiatu,R Andrew,HJ Thomas,0,0,,,,,,"",""
+ball,2,0.6,Vanuatu,V Langiatu,R Andrew,HJ Thomas,1,0,,,,,,"",""
+ball,2,1.1,Vanuatu,V Langiatu,R Andrew,M Tom,0,0,,,,,,"",""
+ball,2,1.2,Vanuatu,V Langiatu,R Andrew,M Tom,0,0,,,,,,"",""
+ball,2,1.3,Vanuatu,V Langiatu,R Andrew,M Tom,0,0,,,,,,"",""
+ball,2,1.4,Vanuatu,V Langiatu,R Andrew,M Tom,0,0,,,,,,"",""
+ball,2,1.5,Vanuatu,V Langiatu,R Andrew,M Tom,1,0,,,,,,"",""
+ball,2,1.6,Vanuatu,R Andrew,V Langiatu,M Tom,0,0,,,,,,"",""
+ball,2,2.1,Vanuatu,V Langiatu,R Andrew,HJ Thomas,0,0,,,,,,"",""
+ball,2,2.2,Vanuatu,V Langiatu,R Andrew,HJ Thomas,0,0,,,,,,"",""
+ball,2,2.3,Vanuatu,V Langiatu,R Andrew,HJ Thomas,0,0,,,,,,"",""
+ball,2,2.4,Vanuatu,V Langiatu,R Andrew,HJ Thomas,0,0,,,,,,"",""
+ball,2,2.5,Vanuatu,V Langiatu,R Andrew,HJ Thomas,0,0,,,,,,"",""
+ball,2,2.6,Vanuatu,V Langiatu,R Andrew,HJ Thomas,2,0,,,,,,"",""
+ball,2,3.1,Vanuatu,R Andrew,V Langiatu,M Tom,0,0,,,,,,"",""
+ball,2,3.2,Vanuatu,R Andrew,V Langiatu,M Tom,0,0,,,,,,"",""
+ball,2,3.3,Vanuatu,R Andrew,V Langiatu,M Tom,0,0,,,,,,"",""
+ball,2,3.4,Vanuatu,R Andrew,V Langiatu,M Tom,4,0,,,,,,"",""
+ball,2,3.5,Vanuatu,R Andrew,V Langiatu,M Tom,0,0,,,,,,"",""
+ball,2,3.6,Vanuatu,R Andrew,V Langiatu,M Tom,0,0,,,,,,bowled,R Andrew
+ball,2,4.1,Vanuatu,V Langiatu,N Navaika,GP Tom,0,0,,,,,,"",""
+ball,2,4.2,Vanuatu,V Langiatu,N Navaika,GP Tom,0,1,1,,,,,"",""
+ball,2,4.3,Vanuatu,V Langiatu,N Navaika,GP Tom,0,0,,,,,,"",""
+ball,2,4.4,Vanuatu,V Langiatu,N Navaika,GP Tom,1,0,,,,,,"",""
+ball,2,4.5,Vanuatu,N Navaika,V Langiatu,GP Tom,0,1,1,,,,,"",""
+ball,2,4.6,Vanuatu,N Navaika,V Langiatu,GP Tom,0,1,,,,1,,"",""
+ball,2,4.7,Vanuatu,V Langiatu,N Navaika,GP Tom,0,0,,,,,,"",""
+ball,2,4.8,Vanuatu,V Langiatu,N Navaika,GP Tom,0,0,,,,,,"",""
+ball,2,5.1,Vanuatu,N Navaika,V Langiatu,M Tom,0,0,,,,,,bowled,N Navaika
+ball,2,5.2,Vanuatu,L Chilia,V Langiatu,M Tom,0,0,,,,,,"",""
+ball,2,5.3,Vanuatu,L Chilia,V Langiatu,M Tom,1,0,,,,,,"",""
+ball,2,5.4,Vanuatu,V Langiatu,L Chilia,M Tom,0,0,,,,,,"",""
+ball,2,5.5,Vanuatu,V Langiatu,L Chilia,M Tom,0,0,,,,,,"",""
+ball,2,5.6,Vanuatu,V Langiatu,L Chilia,M Tom,1,0,,,,,,"",""
+ball,2,6.1,Vanuatu,V Langiatu,L Chilia,I Toua,0,0,,,,,,"",""
+ball,2,6.2,Vanuatu,V Langiatu,L Chilia,I Toua,2,0,,,,,,"",""
+ball,2,6.3,Vanuatu,V Langiatu,L Chilia,I Toua,0,0,,,,,,"",""
+ball,2,6.4,Vanuatu,V Langiatu,L Chilia,I Toua,1,0,,,,,,"",""
+ball,2,6.5,Vanuatu,L Chilia,V Langiatu,I Toua,0,0,,,,,,bowled,L Chilia
+ball,2,6.6,Vanuatu,A Chilia,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,7.1,Vanuatu,V Langiatu,A Chilia,H Doriga,4,0,,,,,,"",""
+ball,2,7.2,Vanuatu,V Langiatu,A Chilia,H Doriga,0,0,,,,,,"",""
+ball,2,7.3,Vanuatu,V Langiatu,A Chilia,H Doriga,1,0,,,,,,"",""
+ball,2,7.4,Vanuatu,A Chilia,V Langiatu,H Doriga,0,0,,,,,,"",""
+ball,2,7.5,Vanuatu,A Chilia,V Langiatu,H Doriga,0,0,,,,,,"",""
+ball,2,7.6,Vanuatu,A Chilia,V Langiatu,H Doriga,1,0,,,,,,"",""
+ball,2,8.1,Vanuatu,A Chilia,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,8.2,Vanuatu,A Chilia,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,8.3,Vanuatu,A Chilia,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,8.4,Vanuatu,A Chilia,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,8.5,Vanuatu,A Chilia,V Langiatu,I Toua,1,0,,,,,,"",""
+ball,2,8.6,Vanuatu,V Langiatu,A Chilia,I Toua,1,0,,,,,,"",""
+ball,2,9.1,Vanuatu,V Langiatu,A Chilia,D Lohia,1,0,,,,,,"",""
+ball,2,9.2,Vanuatu,A Chilia,V Langiatu,D Lohia,0,0,,,,,,"",""
+ball,2,9.3,Vanuatu,A Chilia,V Langiatu,D Lohia,0,0,,,,,,"",""
+ball,2,9.4,Vanuatu,A Chilia,V Langiatu,D Lohia,0,0,,,,,,"",""
+ball,2,9.5,Vanuatu,A Chilia,V Langiatu,D Lohia,1,0,,,,,,"",""
+ball,2,9.6,Vanuatu,V Langiatu,A Chilia,D Lohia,2,0,,,,,,"",""
+ball,2,10.1,Vanuatu,A Chilia,V Langiatu,I Toua,0,0,,,,,,bowled,A Chilia
+ball,2,10.2,Vanuatu,S Stephen,V Langiatu,I Toua,0,0,,,,,,caught and bowled,S Stephen
+ball,2,10.3,Vanuatu,V Mansale,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,10.4,Vanuatu,V Mansale,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,10.5,Vanuatu,V Mansale,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,10.6,Vanuatu,V Mansale,V Langiatu,I Toua,0,0,,,,,,"",""
+ball,2,11.1,Vanuatu,V Langiatu,V Mansale,D Lohia,0,0,,,,,,"",""
+ball,2,11.2,Vanuatu,V Langiatu,V Mansale,D Lohia,0,0,,,,,,"",""
+ball,2,11.3,Vanuatu,V Langiatu,V Mansale,D Lohia,0,0,,,,,,"",""
+ball,2,11.4,Vanuatu,V Langiatu,V Mansale,D Lohia,0,0,,,,,,"",""
+ball,2,11.5,Vanuatu,V Langiatu,V Mansale,D Lohia,0,0,,,,,,"",""
+ball,2,11.6,Vanuatu,V Langiatu,V Mansale,D Lohia,0,0,,,,,,"",""
+ball,2,12.1,Vanuatu,V Mansale,V Langiatu,HL Tau,0,1,1,,,,,"",""
+ball,2,12.2,Vanuatu,V Mansale,V Langiatu,HL Tau,1,0,,,,,,"",""
+ball,2,12.3,Vanuatu,V Langiatu,V Mansale,HL Tau,0,0,,,,,,caught,V Langiatu
+ball,2,12.4,Vanuatu,M Tarimiala,V Mansale,HL Tau,0,1,,,,1,,"",""
+ball,2,12.5,Vanuatu,V Mansale,M Tarimiala,HL Tau,1,0,,,,,,"",""
+ball,2,12.6,Vanuatu,M Tarimiala,V Mansale,HL Tau,2,0,,,,,,"",""
+ball,2,12.7,Vanuatu,M Tarimiala,V Mansale,HL Tau,0,0,,,,,,"",""
+ball,2,13.1,Vanuatu,V Mansale,M Tarimiala,D Lohia,0,0,,,,,,lbw,V Mansale
+ball,2,13.2,Vanuatu,A Griffin,M Tarimiala,D Lohia,0,0,,,,,,"",""
+ball,2,13.3,Vanuatu,A Griffin,M Tarimiala,D Lohia,0,0,,,,,,"",""
+ball,2,13.4,Vanuatu,A Griffin,M Tarimiala,D Lohia,1,0,,,,,,"",""
+ball,2,13.5,Vanuatu,M Tarimiala,A Griffin,D Lohia,1,0,,,,,,"",""
+ball,2,13.6,Vanuatu,A Griffin,M Tarimiala,D Lohia,0,0,,,,,,"",""
+ball,2,14.1,Vanuatu,M Tarimiala,A Griffin,HL Tau,0,0,,,,,,"",""
+ball,2,14.2,Vanuatu,M Tarimiala,A Griffin,HL Tau,1,0,,,,,,"",""
+ball,2,14.3,Vanuatu,A Griffin,M Tarimiala,HL Tau,1,0,,,,,,"",""
+ball,2,14.4,Vanuatu,M Tarimiala,A Griffin,HL Tau,4,0,,,,,,"",""
+ball,2,14.5,Vanuatu,M Tarimiala,A Griffin,HL Tau,0,1,,,,1,,"",""
+ball,2,14.6,Vanuatu,A Griffin,M Tarimiala,HL Tau,1,0,,,,,,"",""
+ball,2,15.1,Vanuatu,A Griffin,M Tarimiala,D Lohia,1,0,,,,,,"",""
+ball,2,15.2,Vanuatu,M Tarimiala,A Griffin,D Lohia,1,0,,,,,,"",""
+ball,2,15.3,Vanuatu,A Griffin,M Tarimiala,D Lohia,0,0,,,,,,"",""
+ball,2,15.4,Vanuatu,A Griffin,M Tarimiala,D Lohia,0,0,,,,,,"",""
+ball,2,15.5,Vanuatu,A Griffin,M Tarimiala,D Lohia,1,0,,,,,,"",""
+ball,2,15.6,Vanuatu,M Tarimiala,A Griffin,D Lohia,1,0,,,,,,"",""
+ball,2,16.1,Vanuatu,M Tarimiala,A Griffin,HJ Thomas,0,0,,,,,,"",""
+ball,2,16.2,Vanuatu,M Tarimiala,A Griffin,HJ Thomas,1,0,,,,,,"",""
+ball,2,16.3,Vanuatu,A Griffin,M Tarimiala,HJ Thomas,1,0,,,,,,"",""
+ball,2,16.4,Vanuatu,M Tarimiala,A Griffin,HJ Thomas,0,0,,,,,,"",""
+ball,2,16.5,Vanuatu,M Tarimiala,A Griffin,HJ Thomas,1,0,,,,,,"",""
+ball,2,16.6,Vanuatu,A Griffin,M Tarimiala,HJ Thomas,1,0,,,,,,"",""
+ball,2,17.1,Vanuatu,A Griffin,M Tarimiala,M Tom,0,0,,,,,,run out,A Griffin
+ball,2,17.2,Vanuatu,V Vira,M Tarimiala,M Tom,0,1,1,,,,,"",""
+ball,2,17.3,Vanuatu,V Vira,M Tarimiala,M Tom,1,0,,,,,,"",""
+ball,2,17.4,Vanuatu,M Tarimiala,V Vira,M Tom,0,0,,,,,,"",""
+ball,2,17.5,Vanuatu,M Tarimiala,V Vira,M Tom,1,0,,,,,,"",""
+ball,2,17.6,Vanuatu,V Vira,M Tarimiala,M Tom,0,0,,,,,,run out,V Vira
+ball,2,17.7,Vanuatu,R Ova,M Tarimiala,M Tom,0,2,2,,,,,"",""
+ball,2,17.8,Vanuatu,M Tarimiala,R Ova,M Tom,0,1,1,,,,,"",""
+ball,2,17.9,Vanuatu,M Tarimiala,R Ova,M Tom,1,0,,,,,,"",""
+ball,2,18.1,Vanuatu,M Tarimiala,R Ova,I Toua,0,0,,,,,,"",""
+ball,2,18.2,Vanuatu,M Tarimiala,R Ova,I Toua,0,0,,,,,,bowled,M Tarimiala

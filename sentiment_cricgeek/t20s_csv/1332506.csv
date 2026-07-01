@@ -1,0 +1,184 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Kenya
+info,gender,male
+info,season,2022
+info,date,2022/09/19
+info,event,Africa Cricket Association Cup
+info,match_number,9
+info,venue,"Willowmoore Park, Benoni"
+info,city,Benoni
+info,toss_winner,Kenya
+info,toss_decision,field
+info,player_of_match,Yash Talati
+info,umpire,EA Chitsondzo
+info,umpire,John Mayeku
+info,reserve_umpire,D Odhiambo
+info,tv_umpire,M Moller
+info,match_referee,ZTA Ndamane
+info,winner,Kenya
+info,winner_wickets,9
+info,player,Cameroon,BN Toube
+info,player,Cameroon,KA Jadhav
+info,player,Cameroon,I Tchakou
+info,player,Cameroon,AN Toube
+info,player,Cameroon,DB Loic
+info,player,Cameroon,JB Abega
+info,player,Cameroon,AB Mengoumou
+info,player,Cameroon,RGA Amah
+info,player,Cameroon,AN Aminou
+info,player,Cameroon,FJ Mpegna
+info,player,Cameroon,AR Balla
+info,player,Kenya,RN Patel
+info,player,Kenya,S Singh
+info,player,Kenya,NN Odhiambo
+info,player,Kenya,RR Patel
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,SO Ngoche
+info,player,Kenya,EB Ringera
+info,player,Kenya,IA Karim
+info,player,Kenya,GM Muthui
+info,player,Kenya,LN Oluoch
+info,player,Kenya,Yash Talati
+info,registry,people,AB Mengoumou,8ad3d034
+info,registry,people,AN Aminou,6d9d2de7
+info,registry,people,AN Toube,7f929ebe
+info,registry,people,AR Balla,4b83e65a
+info,registry,people,BN Toube,75f3aa00
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DB Loic,01679383
+info,registry,people,EA Chitsondzo,87521e16
+info,registry,people,EB Ringera,6cedad99
+info,registry,people,FJ Mpegna,d3893060
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,I Tchakou,4d2b96b4
+info,registry,people,IA Karim,ca92a578
+info,registry,people,JB Abega,b7abb123
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,KA Jadhav,6c18c062
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Moller,ebeb2e9f
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,NN Odhiambo,753b5a2d
+info,registry,people,RGA Amah,90f9aedf
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Yash Talati,f992c8da
+info,registry,people,ZTA Ndamane,545cc6db
+ball,1,0.1,Cameroon,BN Toube,KA Jadhav,GM Muthui,0,0,,,,,,"",""
+ball,1,0.2,Cameroon,BN Toube,KA Jadhav,GM Muthui,0,1,1,,,,,"",""
+ball,1,0.3,Cameroon,BN Toube,KA Jadhav,GM Muthui,1,0,,,,,,"",""
+ball,1,0.4,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,0.5,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,0.6,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,0.7,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,1,,,,1,,"",""
+ball,1,1.1,Cameroon,KA Jadhav,BN Toube,EB Ringera,0,0,,,,,,"",""
+ball,1,1.2,Cameroon,KA Jadhav,BN Toube,EB Ringera,1,0,,,,,,"",""
+ball,1,1.3,Cameroon,BN Toube,KA Jadhav,EB Ringera,0,0,,,,,,"",""
+ball,1,1.4,Cameroon,BN Toube,KA Jadhav,EB Ringera,0,0,,,,,,"",""
+ball,1,1.5,Cameroon,BN Toube,KA Jadhav,EB Ringera,0,0,,,,,,"",""
+ball,1,1.6,Cameroon,BN Toube,KA Jadhav,EB Ringera,0,0,,,,,,"",""
+ball,1,2.1,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,2.2,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,2.3,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,2.4,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,2.5,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,2.6,Cameroon,KA Jadhav,BN Toube,GM Muthui,0,0,,,,,,"",""
+ball,1,3.1,Cameroon,BN Toube,KA Jadhav,EB Ringera,4,0,,,,,,"",""
+ball,1,3.2,Cameroon,BN Toube,KA Jadhav,EB Ringera,4,0,,,,,,"",""
+ball,1,3.3,Cameroon,BN Toube,KA Jadhav,EB Ringera,0,1,1,,,,,"",""
+ball,1,3.4,Cameroon,BN Toube,KA Jadhav,EB Ringera,1,0,,,,,,"",""
+ball,1,3.5,Cameroon,KA Jadhav,BN Toube,EB Ringera,1,0,,,,,,"",""
+ball,1,3.6,Cameroon,BN Toube,KA Jadhav,EB Ringera,0,0,,,,,,"",""
+ball,1,3.7,Cameroon,BN Toube,KA Jadhav,EB Ringera,0,1,,,,1,,"",""
+ball,1,4.1,Cameroon,BN Toube,KA Jadhav,GM Muthui,0,0,,,,,,"",""
+ball,1,4.2,Cameroon,BN Toube,KA Jadhav,GM Muthui,0,0,,,,,,"",""
+ball,1,4.3,Cameroon,BN Toube,KA Jadhav,GM Muthui,0,0,,,,,,"",""
+ball,1,4.4,Cameroon,BN Toube,KA Jadhav,GM Muthui,0,0,,,,,,"",""
+ball,1,4.5,Cameroon,BN Toube,KA Jadhav,GM Muthui,4,0,,,,,,"",""
+ball,1,4.6,Cameroon,BN Toube,KA Jadhav,GM Muthui,0,0,,,,,,lbw,BN Toube
+ball,1,5.1,Cameroon,KA Jadhav,I Tchakou,LN Oluoch,0,0,,,,,,caught,KA Jadhav
+ball,1,5.2,Cameroon,I Tchakou,AN Toube,LN Oluoch,1,0,,,,,,"",""
+ball,1,5.3,Cameroon,AN Toube,I Tchakou,LN Oluoch,0,0,,,,,,"",""
+ball,1,5.4,Cameroon,AN Toube,I Tchakou,LN Oluoch,4,0,,,,,,"",""
+ball,1,5.5,Cameroon,AN Toube,I Tchakou,LN Oluoch,0,0,,,,,,"",""
+ball,1,5.6,Cameroon,AN Toube,I Tchakou,LN Oluoch,0,0,,,,,,"",""
+ball,1,6.1,Cameroon,I Tchakou,AN Toube,Yash Talati,0,0,,,,,,"",""
+ball,1,6.2,Cameroon,I Tchakou,AN Toube,Yash Talati,2,0,,,,,,"",""
+ball,1,6.3,Cameroon,I Tchakou,AN Toube,Yash Talati,0,0,,,,,,"",""
+ball,1,6.4,Cameroon,I Tchakou,AN Toube,Yash Talati,0,0,,,,,,"",""
+ball,1,6.5,Cameroon,I Tchakou,AN Toube,Yash Talati,0,0,,,,,,"",""
+ball,1,6.6,Cameroon,I Tchakou,AN Toube,Yash Talati,0,1,1,,,,,"",""
+ball,1,6.7,Cameroon,I Tchakou,AN Toube,Yash Talati,1,0,,,,,,"",""
+ball,1,7.1,Cameroon,I Tchakou,AN Toube,LN Oluoch,0,0,,,,,,"",""
+ball,1,7.2,Cameroon,I Tchakou,AN Toube,LN Oluoch,0,0,,,,,,"",""
+ball,1,7.3,Cameroon,I Tchakou,AN Toube,LN Oluoch,0,0,,,,,,"",""
+ball,1,7.4,Cameroon,I Tchakou,AN Toube,LN Oluoch,4,0,,,,,,"",""
+ball,1,7.5,Cameroon,I Tchakou,AN Toube,LN Oluoch,0,0,,,,,,"",""
+ball,1,7.6,Cameroon,I Tchakou,AN Toube,LN Oluoch,0,0,,,,,,"",""
+ball,1,8.1,Cameroon,AN Toube,I Tchakou,Yash Talati,0,0,,,,,,"",""
+ball,1,8.2,Cameroon,AN Toube,I Tchakou,Yash Talati,0,0,,,,,,"",""
+ball,1,8.3,Cameroon,AN Toube,I Tchakou,Yash Talati,0,0,,,,,,"",""
+ball,1,8.4,Cameroon,AN Toube,I Tchakou,Yash Talati,0,0,,,,,,bowled,AN Toube
+ball,1,8.5,Cameroon,DB Loic,I Tchakou,Yash Talati,0,0,,,,,,"",""
+ball,1,8.6,Cameroon,DB Loic,I Tchakou,Yash Talati,0,0,,,,,,caught,DB Loic
+ball,1,9.1,Cameroon,I Tchakou,JB Abega,LN Oluoch,0,0,,,,,,"",""
+ball,1,9.2,Cameroon,I Tchakou,JB Abega,LN Oluoch,0,0,,,,,,"",""
+ball,1,9.3,Cameroon,I Tchakou,JB Abega,LN Oluoch,0,0,,,,,,caught and bowled,I Tchakou
+ball,1,9.4,Cameroon,AB Mengoumou,JB Abega,LN Oluoch,0,0,,,,,,"",""
+ball,1,9.5,Cameroon,AB Mengoumou,JB Abega,LN Oluoch,0,0,,,,,,"",""
+ball,1,9.6,Cameroon,AB Mengoumou,JB Abega,LN Oluoch,0,0,,,,,,"",""
+ball,1,10.1,Cameroon,JB Abega,AB Mengoumou,Yash Talati,0,0,,,,,,"",""
+ball,1,10.2,Cameroon,JB Abega,AB Mengoumou,Yash Talati,0,0,,,,,,"",""
+ball,1,10.3,Cameroon,JB Abega,AB Mengoumou,Yash Talati,0,0,,,,,,"",""
+ball,1,10.4,Cameroon,JB Abega,AB Mengoumou,Yash Talati,0,0,,,,,,"",""
+ball,1,10.5,Cameroon,JB Abega,AB Mengoumou,Yash Talati,0,0,,,,,,"",""
+ball,1,10.6,Cameroon,JB Abega,AB Mengoumou,Yash Talati,0,0,,,,,,"",""
+ball,1,11.1,Cameroon,AB Mengoumou,JB Abega,SO Ngoche,0,0,,,,,,stumped,AB Mengoumou
+ball,1,11.2,Cameroon,RGA Amah,JB Abega,SO Ngoche,4,0,,,,,,"",""
+ball,1,11.3,Cameroon,RGA Amah,JB Abega,SO Ngoche,0,0,,,,,,"",""
+ball,1,11.4,Cameroon,RGA Amah,JB Abega,SO Ngoche,0,0,,,,,,"",""
+ball,1,11.5,Cameroon,RGA Amah,JB Abega,SO Ngoche,1,0,,,,,,"",""
+ball,1,11.6,Cameroon,JB Abega,RGA Amah,SO Ngoche,0,0,,,,,,stumped,JB Abega
+ball,1,12.1,Cameroon,RGA Amah,AN Aminou,Yash Talati,0,0,,,,,,bowled,RGA Amah
+ball,1,12.2,Cameroon,FJ Mpegna,AN Aminou,Yash Talati,0,0,,,,,,"",""
+ball,1,12.3,Cameroon,FJ Mpegna,AN Aminou,Yash Talati,1,0,,,,,,"",""
+ball,1,12.4,Cameroon,AN Aminou,FJ Mpegna,Yash Talati,0,2,2,,,,,"",""
+ball,1,12.5,Cameroon,FJ Mpegna,AN Aminou,Yash Talati,0,0,,,,,,"",""
+ball,1,12.6,Cameroon,FJ Mpegna,AN Aminou,Yash Talati,0,0,,,,,,"",""
+ball,1,12.7,Cameroon,FJ Mpegna,AN Aminou,Yash Talati,1,0,,,,,,"",""
+ball,1,13.1,Cameroon,FJ Mpegna,AN Aminou,SO Ngoche,0,0,,,,,,"",""
+ball,1,13.2,Cameroon,FJ Mpegna,AN Aminou,SO Ngoche,0,5,5,,,,,"",""
+ball,1,13.3,Cameroon,FJ Mpegna,AN Aminou,SO Ngoche,0,0,,,,,,bowled,FJ Mpegna
+ball,1,13.4,Cameroon,AR Balla,AN Aminou,SO Ngoche,0,0,,,,,,"",""
+ball,1,13.5,Cameroon,AR Balla,AN Aminou,SO Ngoche,0,0,,,,,,"",""
+ball,1,13.6,Cameroon,AR Balla,AN Aminou,SO Ngoche,0,0,,,,,,"",""
+ball,1,13.7,Cameroon,AR Balla,AN Aminou,SO Ngoche,0,0,,,,,,"",""
+ball,1,14.1,Cameroon,AN Aminou,AR Balla,RR Patel,0,0,,,,,,"",""
+ball,1,14.2,Cameroon,AN Aminou,AR Balla,RR Patel,1,0,,,,,,run out,AR Balla
+ball,2,0.1,Kenya,RN Patel,S Singh,AR Balla,4,0,,,,,,"",""
+ball,2,0.2,Kenya,RN Patel,S Singh,AR Balla,4,0,,,,,,"",""
+ball,2,0.3,Kenya,RN Patel,S Singh,AR Balla,1,0,,,,,,"",""
+ball,2,0.4,Kenya,S Singh,RN Patel,AR Balla,0,1,1,,,,,"",""
+ball,2,0.5,Kenya,S Singh,RN Patel,AR Balla,0,1,1,,,,,"",""
+ball,2,0.6,Kenya,S Singh,RN Patel,AR Balla,1,0,,,,,,"",""
+ball,2,0.7,Kenya,RN Patel,S Singh,AR Balla,4,0,,,,,,"",""
+ball,2,0.8,Kenya,RN Patel,S Singh,AR Balla,0,0,,,,,,"",""
+ball,2,1.1,Kenya,S Singh,RN Patel,JB Abega,4,0,,,,,,"",""
+ball,2,1.2,Kenya,S Singh,RN Patel,JB Abega,1,0,,,,,,"",""
+ball,2,1.3,Kenya,RN Patel,S Singh,JB Abega,1,0,,,,,,"",""
+ball,2,1.4,Kenya,S Singh,RN Patel,JB Abega,4,0,,,,,,"",""
+ball,2,1.5,Kenya,S Singh,RN Patel,JB Abega,1,0,,,,,,"",""
+ball,2,1.6,Kenya,RN Patel,S Singh,JB Abega,0,0,,,,,,caught,RN Patel
+ball,2,2.1,Kenya,S Singh,NN Odhiambo,BN Toube,6,0,,,,,,"",""
+ball,2,2.2,Kenya,S Singh,NN Odhiambo,BN Toube,0,1,1,,,,,"",""
+ball,2,2.3,Kenya,S Singh,NN Odhiambo,BN Toube,1,0,,,,,,"",""
+ball,2,2.4,Kenya,NN Odhiambo,S Singh,BN Toube,1,0,,,,,,"",""
+ball,2,2.5,Kenya,S Singh,NN Odhiambo,BN Toube,0,0,,,,,,"",""
+ball,2,2.6,Kenya,S Singh,NN Odhiambo,BN Toube,4,0,,,,,,"",""
+ball,2,2.7,Kenya,S Singh,NN Odhiambo,BN Toube,4,0,,,,,,"",""
+ball,2,3.1,Kenya,NN Odhiambo,S Singh,DB Loic,2,0,,,,,,"",""
+ball,2,3.2,Kenya,NN Odhiambo,S Singh,DB Loic,4,0,,,,,,"",""

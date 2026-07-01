@@ -1,0 +1,310 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Kenya
+info,gender,male
+info,season,2019/20
+info,date,2019/10/21
+info,event,ICC Men's T20 World Cup Qualifier
+info,match_number,17
+info,venue,ICC Academy
+info,city,Dubai
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,DM Gondaria
+info,umpire,Ahmed Shah Pakteen
+info,umpire,RR Wimalasiri
+info,reserve_umpire,R Black
+info,match_referee,JJ Crowe
+info,winner,Kenya
+info,winner_runs,45
+info,player,Kenya,IA Karim
+info,player,Kenya,AA Obanda
+info,player,Kenya,DM Gondaria
+info,player,Kenya,CO Obuya
+info,player,Kenya,RR Patel
+info,player,Kenya,RN Patel
+info,player,Kenya,JS Kundi
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,LN Oluoch
+info,player,Kenya,E Otieno
+info,player,Kenya,SO Ngoche
+info,player,Bermuda,O Bascome
+info,player,Bermuda,TS Fray
+info,player,Bermuda,DC Stovell
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,JJ Tucker
+info,player,Bermuda,DAP Darrell
+info,player,Bermuda,KS Leverock
+info,player,Bermuda,AC Douglas
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,RJ Trott
+info,player,Bermuda,GH O'Brien
+info,registry,people,AA Obanda,7081491e
+info,registry,people,AC Douglas,f86ce673
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,DAP Darrell,56f53516
+info,registry,people,DC Stovell,7f6c2dae
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,E Otieno,c57fa67e
+info,registry,people,GH O'Brien,7bbeac6d
+info,registry,people,IA Karim,ca92a578
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JJ Tucker,bceb1b07
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,KS Leverock,e1592949
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,O Bascome,3cc58287
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,R Black,156c8fb1
+info,registry,people,RJ Trott,52f96571
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,TS Fray,c7537f8a
+ball,1,0.1,Kenya,IA Karim,AA Obanda,GH O'Brien,0,0,,,,,,"",""
+ball,1,0.2,Kenya,IA Karim,AA Obanda,GH O'Brien,0,1,1,,,,,"",""
+ball,1,0.3,Kenya,IA Karim,AA Obanda,GH O'Brien,0,0,,,,,,"",""
+ball,1,0.4,Kenya,IA Karim,AA Obanda,GH O'Brien,1,0,,,,,,"",""
+ball,1,0.5,Kenya,AA Obanda,IA Karim,GH O'Brien,0,0,,,,,,caught,AA Obanda
+ball,1,0.6,Kenya,IA Karim,DM Gondaria,GH O'Brien,0,0,,,,,,"",""
+ball,1,0.7,Kenya,IA Karim,DM Gondaria,GH O'Brien,4,0,,,,,,"",""
+ball,1,1.1,Kenya,DM Gondaria,IA Karim,DMW Rawlins,3,0,,,,,,"",""
+ball,1,1.2,Kenya,IA Karim,DM Gondaria,DMW Rawlins,1,0,,,,,,"",""
+ball,1,1.3,Kenya,DM Gondaria,IA Karim,DMW Rawlins,0,0,,,,,,"",""
+ball,1,1.4,Kenya,DM Gondaria,IA Karim,DMW Rawlins,0,0,,,,,,"",""
+ball,1,1.5,Kenya,DM Gondaria,IA Karim,DMW Rawlins,1,0,,,,,,"",""
+ball,1,1.6,Kenya,IA Karim,DM Gondaria,DMW Rawlins,0,0,,,,,,"",""
+ball,1,2.1,Kenya,DM Gondaria,IA Karim,GH O'Brien,0,0,,,,,,"",""
+ball,1,2.2,Kenya,DM Gondaria,IA Karim,GH O'Brien,0,0,,,,,,"",""
+ball,1,2.3,Kenya,DM Gondaria,IA Karim,GH O'Brien,0,1,1,,,,,"",""
+ball,1,2.4,Kenya,DM Gondaria,IA Karim,GH O'Brien,0,0,,,,,,"",""
+ball,1,2.5,Kenya,DM Gondaria,IA Karim,GH O'Brien,1,0,,,,,,"",""
+ball,1,2.6,Kenya,IA Karim,DM Gondaria,GH O'Brien,0,1,1,,,,,"",""
+ball,1,2.7,Kenya,IA Karim,DM Gondaria,GH O'Brien,4,0,,,,,,"",""
+ball,1,2.8,Kenya,IA Karim,DM Gondaria,GH O'Brien,0,0,,,,,,"",""
+ball,1,3.1,Kenya,DM Gondaria,IA Karim,DMW Rawlins,1,0,,,,,,"",""
+ball,1,3.2,Kenya,IA Karim,DM Gondaria,DMW Rawlins,1,0,,,,,,"",""
+ball,1,3.3,Kenya,DM Gondaria,IA Karim,DMW Rawlins,0,0,,,,,,"",""
+ball,1,3.4,Kenya,DM Gondaria,IA Karim,DMW Rawlins,0,0,,,,,,"",""
+ball,1,3.5,Kenya,DM Gondaria,IA Karim,DMW Rawlins,0,0,,,,,,"",""
+ball,1,3.6,Kenya,DM Gondaria,IA Karim,DMW Rawlins,4,0,,,,,,"",""
+ball,1,4.1,Kenya,IA Karim,DM Gondaria,KS Leverock,0,0,,,,,,"",""
+ball,1,4.2,Kenya,IA Karim,DM Gondaria,KS Leverock,0,1,1,,,,,"",""
+ball,1,4.3,Kenya,IA Karim,DM Gondaria,KS Leverock,0,0,,,,,,"",""
+ball,1,4.4,Kenya,IA Karim,DM Gondaria,KS Leverock,4,0,,,,,,"",""
+ball,1,4.5,Kenya,IA Karim,DM Gondaria,KS Leverock,0,0,,,,,,caught,IA Karim
+ball,1,4.6,Kenya,CO Obuya,DM Gondaria,KS Leverock,1,0,,,,,,"",""
+ball,1,4.7,Kenya,DM Gondaria,CO Obuya,KS Leverock,1,0,,,,,,"",""
+ball,1,5.1,Kenya,DM Gondaria,CO Obuya,DC Stovell,0,0,,,,,,"",""
+ball,1,5.2,Kenya,DM Gondaria,CO Obuya,DC Stovell,0,0,,,,,,"",""
+ball,1,5.3,Kenya,DM Gondaria,CO Obuya,DC Stovell,0,0,,,,,,"",""
+ball,1,5.4,Kenya,DM Gondaria,CO Obuya,DC Stovell,4,0,,,,,,"",""
+ball,1,5.5,Kenya,DM Gondaria,CO Obuya,DC Stovell,0,0,,,,,,"",""
+ball,1,5.6,Kenya,DM Gondaria,CO Obuya,DC Stovell,1,0,,,,,,"",""
+ball,1,6.1,Kenya,DM Gondaria,CO Obuya,KS Leverock,1,0,,,,,,"",""
+ball,1,6.2,Kenya,CO Obuya,DM Gondaria,KS Leverock,2,0,,,,,,"",""
+ball,1,6.3,Kenya,CO Obuya,DM Gondaria,KS Leverock,0,0,,,,,,"",""
+ball,1,6.4,Kenya,CO Obuya,DM Gondaria,KS Leverock,1,0,,,,,,"",""
+ball,1,6.5,Kenya,DM Gondaria,CO Obuya,KS Leverock,1,0,,,,,,"",""
+ball,1,6.6,Kenya,CO Obuya,DM Gondaria,KS Leverock,0,0,,,,,,lbw,CO Obuya
+ball,1,7.1,Kenya,DM Gondaria,RR Patel,DC Stovell,2,0,,,,,,"",""
+ball,1,7.2,Kenya,DM Gondaria,RR Patel,DC Stovell,1,0,,,,,,"",""
+ball,1,7.3,Kenya,RR Patel,DM Gondaria,DC Stovell,0,0,,,,,,"",""
+ball,1,7.4,Kenya,RR Patel,DM Gondaria,DC Stovell,1,0,,,,,,"",""
+ball,1,7.5,Kenya,DM Gondaria,RR Patel,DC Stovell,1,0,,,,,,"",""
+ball,1,7.6,Kenya,RR Patel,DM Gondaria,DC Stovell,0,0,,,,,,"",""
+ball,1,8.1,Kenya,DM Gondaria,RR Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,8.2,Kenya,RR Patel,DM Gondaria,JJ Tucker,0,0,,,,,,"",""
+ball,1,8.3,Kenya,RR Patel,DM Gondaria,JJ Tucker,1,0,,,,,,"",""
+ball,1,8.4,Kenya,DM Gondaria,RR Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,8.5,Kenya,RR Patel,DM Gondaria,JJ Tucker,1,0,,,,,,"",""
+ball,1,8.6,Kenya,DM Gondaria,RR Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,9.1,Kenya,DM Gondaria,RR Patel,DC Stovell,1,0,,,,,,"",""
+ball,1,9.2,Kenya,RR Patel,DM Gondaria,DC Stovell,0,0,,,,,,"",""
+ball,1,9.3,Kenya,RR Patel,DM Gondaria,DC Stovell,1,0,,,,,,"",""
+ball,1,9.4,Kenya,DM Gondaria,RR Patel,DC Stovell,1,0,,,,,,"",""
+ball,1,9.5,Kenya,RR Patel,DM Gondaria,DC Stovell,1,0,,,,,,"",""
+ball,1,9.6,Kenya,DM Gondaria,RR Patel,DC Stovell,1,0,,,,,,"",""
+ball,1,10.1,Kenya,DM Gondaria,RR Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,10.2,Kenya,RR Patel,DM Gondaria,JJ Tucker,1,0,,,,,,"",""
+ball,1,10.3,Kenya,DM Gondaria,RR Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,10.4,Kenya,RR Patel,DM Gondaria,JJ Tucker,1,0,,,,,,"",""
+ball,1,10.5,Kenya,DM Gondaria,RR Patel,JJ Tucker,0,0,,,,,,"",""
+ball,1,10.6,Kenya,DM Gondaria,RR Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,11.1,Kenya,DM Gondaria,RR Patel,RJ Trott,0,0,,,,,,"",""
+ball,1,11.2,Kenya,DM Gondaria,RR Patel,RJ Trott,1,0,,,,,,"",""
+ball,1,11.3,Kenya,RR Patel,DM Gondaria,RJ Trott,0,0,,,,,,"",""
+ball,1,11.4,Kenya,RR Patel,DM Gondaria,RJ Trott,4,0,,,,,,"",""
+ball,1,11.5,Kenya,RR Patel,DM Gondaria,RJ Trott,0,0,,,,,,"",""
+ball,1,11.6,Kenya,RR Patel,DM Gondaria,RJ Trott,0,0,,,,,,caught,RR Patel
+ball,1,12.1,Kenya,DM Gondaria,RN Patel,JJ Tucker,0,0,,,,,,"",""
+ball,1,12.2,Kenya,DM Gondaria,RN Patel,JJ Tucker,6,0,,,,,,"",""
+ball,1,12.3,Kenya,DM Gondaria,RN Patel,JJ Tucker,2,0,,,,,,"",""
+ball,1,12.4,Kenya,DM Gondaria,RN Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,12.5,Kenya,RN Patel,DM Gondaria,JJ Tucker,1,0,,,,,,"",""
+ball,1,12.6,Kenya,DM Gondaria,RN Patel,JJ Tucker,1,0,,,,,,"",""
+ball,1,13.1,Kenya,DM Gondaria,RN Patel,RJ Trott,0,0,,,,,,"",""
+ball,1,13.2,Kenya,DM Gondaria,RN Patel,RJ Trott,1,0,,,,,,"",""
+ball,1,13.3,Kenya,RN Patel,DM Gondaria,RJ Trott,0,0,,,,,,"",""
+ball,1,13.4,Kenya,RN Patel,DM Gondaria,RJ Trott,1,0,,,,,,"",""
+ball,1,13.5,Kenya,DM Gondaria,RN Patel,RJ Trott,2,0,,,,,,"",""
+ball,1,13.6,Kenya,DM Gondaria,RN Patel,RJ Trott,2,0,,,,,,"",""
+ball,1,14.1,Kenya,RN Patel,DM Gondaria,GH O'Brien,1,0,,,,,,"",""
+ball,1,14.2,Kenya,DM Gondaria,RN Patel,GH O'Brien,1,0,,,,,,"",""
+ball,1,14.3,Kenya,RN Patel,DM Gondaria,GH O'Brien,0,0,,,,,,"",""
+ball,1,14.4,Kenya,RN Patel,DM Gondaria,GH O'Brien,0,0,,,,,,"",""
+ball,1,14.5,Kenya,RN Patel,DM Gondaria,GH O'Brien,0,2,,,,2,,"",""
+ball,1,14.6,Kenya,RN Patel,DM Gondaria,GH O'Brien,2,0,,,,,,"",""
+ball,1,15.1,Kenya,DM Gondaria,RN Patel,DMW Rawlins,2,0,,,,,,"",""
+ball,1,15.2,Kenya,DM Gondaria,RN Patel,DMW Rawlins,4,0,,,,,,"",""
+ball,1,15.3,Kenya,DM Gondaria,RN Patel,DMW Rawlins,4,0,,,,,,"",""
+ball,1,15.4,Kenya,DM Gondaria,RN Patel,DMW Rawlins,1,0,,,,,,"",""
+ball,1,15.5,Kenya,RN Patel,DM Gondaria,DMW Rawlins,0,0,,,,,,"",""
+ball,1,15.6,Kenya,RN Patel,DM Gondaria,DMW Rawlins,0,0,,,,,,"",""
+ball,1,16.1,Kenya,DM Gondaria,RN Patel,KS Leverock,0,1,1,,,,,"",""
+ball,1,16.2,Kenya,DM Gondaria,RN Patel,KS Leverock,1,0,,,,,,"",""
+ball,1,16.3,Kenya,RN Patel,DM Gondaria,KS Leverock,1,0,,,,,,"",""
+ball,1,16.4,Kenya,DM Gondaria,RN Patel,KS Leverock,0,0,,,,,,"",""
+ball,1,16.5,Kenya,DM Gondaria,RN Patel,KS Leverock,1,0,,,,,,"",""
+ball,1,16.6,Kenya,RN Patel,DM Gondaria,KS Leverock,1,0,,,,,,"",""
+ball,1,16.7,Kenya,DM Gondaria,RN Patel,KS Leverock,1,0,,,,,,"",""
+ball,1,17.1,Kenya,DM Gondaria,RN Patel,RJ Trott,2,0,,,,,,"",""
+ball,1,17.2,Kenya,DM Gondaria,RN Patel,RJ Trott,2,0,,,,,,"",""
+ball,1,17.3,Kenya,DM Gondaria,RN Patel,RJ Trott,4,0,,,,,,"",""
+ball,1,17.4,Kenya,DM Gondaria,RN Patel,RJ Trott,1,0,,,,,,"",""
+ball,1,17.5,Kenya,RN Patel,DM Gondaria,RJ Trott,0,0,,,,,,"",""
+ball,1,17.6,Kenya,RN Patel,DM Gondaria,RJ Trott,2,0,,,,,,"",""
+ball,1,18.1,Kenya,DM Gondaria,RN Patel,KS Leverock,1,0,,,,,,"",""
+ball,1,18.2,Kenya,RN Patel,DM Gondaria,KS Leverock,4,0,,,,,,"",""
+ball,1,18.3,Kenya,RN Patel,DM Gondaria,KS Leverock,1,0,,,,,,"",""
+ball,1,18.4,Kenya,DM Gondaria,RN Patel,KS Leverock,4,0,,,,,,"",""
+ball,1,18.5,Kenya,DM Gondaria,RN Patel,KS Leverock,0,0,,,,,,"",""
+ball,1,18.6,Kenya,DM Gondaria,RN Patel,KS Leverock,2,0,,,,,,"",""
+ball,1,19.1,Kenya,RN Patel,DM Gondaria,DMW Rawlins,0,1,,,1,,,"",""
+ball,1,19.2,Kenya,DM Gondaria,RN Patel,DMW Rawlins,1,0,,,,,,"",""
+ball,1,19.3,Kenya,RN Patel,DM Gondaria,DMW Rawlins,1,0,,,,,,"",""
+ball,1,19.4,Kenya,DM Gondaria,RN Patel,DMW Rawlins,2,0,,,,,,"",""
+ball,1,19.5,Kenya,DM Gondaria,RN Patel,DMW Rawlins,2,0,,,,,,"",""
+ball,1,19.6,Kenya,DM Gondaria,RN Patel,DMW Rawlins,2,0,,,,,,"",""
+ball,2,0.1,Bermuda,O Bascome,TS Fray,E Otieno,0,0,,,,,,caught,O Bascome
+ball,2,0.2,Bermuda,DC Stovell,TS Fray,E Otieno,0,0,,,,,,"",""
+ball,2,0.3,Bermuda,DC Stovell,TS Fray,E Otieno,3,0,,,,,,"",""
+ball,2,0.4,Bermuda,TS Fray,DC Stovell,E Otieno,1,0,,,,,,"",""
+ball,2,0.5,Bermuda,DC Stovell,TS Fray,E Otieno,1,0,,,,,,"",""
+ball,2,0.6,Bermuda,TS Fray,DC Stovell,E Otieno,1,0,,,,,,"",""
+ball,2,1.1,Bermuda,TS Fray,DC Stovell,SO Ngoche,0,0,,,,,,"",""
+ball,2,1.2,Bermuda,TS Fray,DC Stovell,SO Ngoche,0,0,,,,,,"",""
+ball,2,1.3,Bermuda,TS Fray,DC Stovell,SO Ngoche,0,0,,,,,,"",""
+ball,2,1.4,Bermuda,TS Fray,DC Stovell,SO Ngoche,1,0,,,,,,"",""
+ball,2,1.5,Bermuda,DC Stovell,TS Fray,SO Ngoche,0,0,,,,,,"",""
+ball,2,1.6,Bermuda,DC Stovell,TS Fray,SO Ngoche,0,0,,,,,,bowled,DC Stovell
+ball,2,2.1,Bermuda,TS Fray,DMW Rawlins,LN Oluoch,0,0,,,,,,run out,TS Fray
+ball,2,2.2,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,0,0,,,,,,"",""
+ball,2,2.3,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,0,0,,,,,,"",""
+ball,2,2.4,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,0,0,,,,,,"",""
+ball,2,2.5,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,4,0,,,,,,"",""
+ball,2,2.6,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,1,0,,,,,,"",""
+ball,2,3.1,Bermuda,JJ Tucker,DMW Rawlins,E Otieno,1,0,,,,,,"",""
+ball,2,3.2,Bermuda,DMW Rawlins,JJ Tucker,E Otieno,0,0,,,,,,"",""
+ball,2,3.3,Bermuda,DMW Rawlins,JJ Tucker,E Otieno,0,0,,,,,,"",""
+ball,2,3.4,Bermuda,DMW Rawlins,JJ Tucker,E Otieno,0,0,,,,,,"",""
+ball,2,3.5,Bermuda,DMW Rawlins,JJ Tucker,E Otieno,0,0,,,,,,"",""
+ball,2,3.6,Bermuda,DMW Rawlins,JJ Tucker,E Otieno,1,0,,,,,,"",""
+ball,2,4.1,Bermuda,DMW Rawlins,JJ Tucker,SO Ngoche,1,0,,,,,,"",""
+ball,2,4.2,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,1,0,,,,,,"",""
+ball,2,4.3,Bermuda,DMW Rawlins,JJ Tucker,SO Ngoche,4,0,,,,,,"",""
+ball,2,4.4,Bermuda,DMW Rawlins,JJ Tucker,SO Ngoche,1,0,,,,,,"",""
+ball,2,4.5,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,1,0,,,,,,"",""
+ball,2,4.6,Bermuda,DMW Rawlins,JJ Tucker,SO Ngoche,0,0,,,,,,"",""
+ball,2,5.1,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,0,0,,,,,,"",""
+ball,2,5.2,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,0,0,,,,,,"",""
+ball,2,5.3,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,0,0,,,,,,"",""
+ball,2,5.4,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,0,0,,,,,,"",""
+ball,2,5.5,Bermuda,JJ Tucker,DMW Rawlins,LN Oluoch,1,0,,,,,,"",""
+ball,2,5.6,Bermuda,DMW Rawlins,JJ Tucker,LN Oluoch,0,0,,,,,,"",""
+ball,2,6.1,Bermuda,JJ Tucker,DMW Rawlins,CO Obuya,0,0,,,,,,"",""
+ball,2,6.2,Bermuda,JJ Tucker,DMW Rawlins,CO Obuya,0,0,,,,,,"",""
+ball,2,6.3,Bermuda,JJ Tucker,DMW Rawlins,CO Obuya,1,0,,,,,,"",""
+ball,2,6.4,Bermuda,DMW Rawlins,JJ Tucker,CO Obuya,4,0,,,,,,"",""
+ball,2,6.5,Bermuda,DMW Rawlins,JJ Tucker,CO Obuya,4,0,,,,,,"",""
+ball,2,6.6,Bermuda,DMW Rawlins,JJ Tucker,CO Obuya,4,0,,,,,,"",""
+ball,2,7.1,Bermuda,JJ Tucker,DMW Rawlins,NM Odhiambo,0,0,,,,,,"",""
+ball,2,7.2,Bermuda,JJ Tucker,DMW Rawlins,NM Odhiambo,0,0,,,,,,"",""
+ball,2,7.3,Bermuda,JJ Tucker,DMW Rawlins,NM Odhiambo,1,0,,,,,,"",""
+ball,2,7.4,Bermuda,DMW Rawlins,JJ Tucker,NM Odhiambo,1,0,,,,,,"",""
+ball,2,7.5,Bermuda,JJ Tucker,DMW Rawlins,NM Odhiambo,1,0,,,,,,"",""
+ball,2,7.6,Bermuda,DMW Rawlins,JJ Tucker,NM Odhiambo,6,0,,,,,,"",""
+ball,2,8.1,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,0,0,,,,,,"",""
+ball,2,8.2,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,0,0,,,,,,"",""
+ball,2,8.3,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,0,0,,,,,,"",""
+ball,2,8.4,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,2,0,,,,,,"",""
+ball,2,8.5,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,2,0,,,,,,"",""
+ball,2,8.6,Bermuda,JJ Tucker,DMW Rawlins,SO Ngoche,1,0,,,,,,"",""
+ball,2,9.1,Bermuda,JJ Tucker,DMW Rawlins,RR Patel,0,0,,,,,,"",""
+ball,2,9.2,Bermuda,JJ Tucker,DMW Rawlins,RR Patel,1,0,,,,,,"",""
+ball,2,9.3,Bermuda,DMW Rawlins,JJ Tucker,RR Patel,0,0,,,,,,"",""
+ball,2,9.4,Bermuda,DMW Rawlins,JJ Tucker,RR Patel,0,0,,,,,,"",""
+ball,2,9.5,Bermuda,DMW Rawlins,JJ Tucker,RR Patel,0,0,,,,,,"",""
+ball,2,9.6,Bermuda,DMW Rawlins,JJ Tucker,RR Patel,0,0,,,,,,"",""
+ball,2,10.1,Bermuda,JJ Tucker,DMW Rawlins,NM Odhiambo,1,0,,,,,,"",""
+ball,2,10.2,Bermuda,DMW Rawlins,JJ Tucker,NM Odhiambo,0,0,,,,,,"",""
+ball,2,10.3,Bermuda,DMW Rawlins,JJ Tucker,NM Odhiambo,0,0,,,,,,"",""
+ball,2,10.4,Bermuda,DMW Rawlins,JJ Tucker,NM Odhiambo,0,0,,,,,,"",""
+ball,2,10.5,Bermuda,DMW Rawlins,JJ Tucker,NM Odhiambo,1,0,,,,,,"",""
+ball,2,10.6,Bermuda,JJ Tucker,DMW Rawlins,NM Odhiambo,2,0,,,,,,"",""
+ball,2,11.1,Bermuda,DMW Rawlins,JJ Tucker,RR Patel,4,0,,,,,,"",""
+ball,2,11.2,Bermuda,DMW Rawlins,JJ Tucker,RR Patel,6,0,,,,,,"",""
+ball,2,11.3,Bermuda,DMW Rawlins,JJ Tucker,RR Patel,0,0,,,,,,caught,DMW Rawlins
+ball,2,11.4,Bermuda,JJ Tucker,DAP Darrell,RR Patel,0,0,,,,,,"",""
+ball,2,11.5,Bermuda,JJ Tucker,DAP Darrell,RR Patel,0,1,1,,,,,"",""
+ball,2,11.6,Bermuda,JJ Tucker,DAP Darrell,RR Patel,1,0,,,,,,"",""
+ball,2,11.7,Bermuda,DAP Darrell,JJ Tucker,RR Patel,0,0,,,,,,"",""
+ball,2,12.1,Bermuda,JJ Tucker,DAP Darrell,CO Obuya,0,0,,,,,,caught,JJ Tucker
+ball,2,12.2,Bermuda,KS Leverock,DAP Darrell,CO Obuya,2,0,,,,,,"",""
+ball,2,12.3,Bermuda,KS Leverock,DAP Darrell,CO Obuya,1,0,,,,,,"",""
+ball,2,12.4,Bermuda,DAP Darrell,KS Leverock,CO Obuya,1,0,,,,,,"",""
+ball,2,12.5,Bermuda,KS Leverock,DAP Darrell,CO Obuya,0,0,,,,,,"",""
+ball,2,12.6,Bermuda,KS Leverock,DAP Darrell,CO Obuya,0,0,,,,,,caught,KS Leverock
+ball,2,13.1,Bermuda,DAP Darrell,AC Douglas,RR Patel,1,0,,,,,,"",""
+ball,2,13.2,Bermuda,AC Douglas,DAP Darrell,RR Patel,1,0,,,,,,"",""
+ball,2,13.3,Bermuda,DAP Darrell,AC Douglas,RR Patel,1,0,,,,,,"",""
+ball,2,13.4,Bermuda,AC Douglas,DAP Darrell,RR Patel,1,0,,,,,,"",""
+ball,2,13.5,Bermuda,DAP Darrell,AC Douglas,RR Patel,1,0,,,,,,"",""
+ball,2,13.6,Bermuda,AC Douglas,DAP Darrell,RR Patel,0,0,,,,,,"",""
+ball,2,14.1,Bermuda,DAP Darrell,AC Douglas,SO Ngoche,0,0,,,,,,bowled,DAP Darrell
+ball,2,14.2,Bermuda,OGL Bascome,AC Douglas,SO Ngoche,1,0,,,,,,"",""
+ball,2,14.3,Bermuda,AC Douglas,OGL Bascome,SO Ngoche,0,0,,,,,,"",""
+ball,2,14.4,Bermuda,AC Douglas,OGL Bascome,SO Ngoche,0,0,,,,,,"",""
+ball,2,14.5,Bermuda,AC Douglas,OGL Bascome,SO Ngoche,0,0,,,,,,"",""
+ball,2,14.6,Bermuda,AC Douglas,OGL Bascome,SO Ngoche,0,0,,,,,,"",""
+ball,2,15.1,Bermuda,OGL Bascome,AC Douglas,RR Patel,0,0,,,,,,"",""
+ball,2,15.2,Bermuda,OGL Bascome,AC Douglas,RR Patel,1,0,,,,,,"",""
+ball,2,15.3,Bermuda,AC Douglas,OGL Bascome,RR Patel,0,0,,,,,,"",""
+ball,2,15.4,Bermuda,AC Douglas,OGL Bascome,RR Patel,0,0,,,,,,caught,AC Douglas
+ball,2,15.5,Bermuda,RJ Trott,OGL Bascome,RR Patel,0,0,,,,,,"",""
+ball,2,15.6,Bermuda,RJ Trott,OGL Bascome,RR Patel,0,0,,,,,,"",""
+ball,2,16.1,Bermuda,OGL Bascome,RJ Trott,CO Obuya,0,0,,,,,,lbw,OGL Bascome
+ball,2,16.2,Bermuda,GH O'Brien,RJ Trott,CO Obuya,0,0,,,,,,"",""
+ball,2,16.3,Bermuda,GH O'Brien,RJ Trott,CO Obuya,2,0,,,,,,"",""
+ball,2,16.4,Bermuda,GH O'Brien,RJ Trott,CO Obuya,0,0,,,,,,"",""
+ball,2,16.5,Bermuda,GH O'Brien,RJ Trott,CO Obuya,1,0,,,,,,"",""
+ball,2,16.6,Bermuda,RJ Trott,GH O'Brien,CO Obuya,4,0,,,,,,"",""
+ball,2,17.1,Bermuda,GH O'Brien,RJ Trott,NM Odhiambo,0,0,,,,,,"",""
+ball,2,17.2,Bermuda,GH O'Brien,RJ Trott,NM Odhiambo,2,0,,,,,,"",""
+ball,2,17.3,Bermuda,GH O'Brien,RJ Trott,NM Odhiambo,0,0,,,,,,"",""
+ball,2,17.4,Bermuda,GH O'Brien,RJ Trott,NM Odhiambo,0,1,1,,,,,"",""
+ball,2,17.5,Bermuda,GH O'Brien,RJ Trott,NM Odhiambo,1,0,,,,,,"",""
+ball,2,17.6,Bermuda,RJ Trott,GH O'Brien,NM Odhiambo,0,0,,,,,,"",""
+ball,2,17.7,Bermuda,RJ Trott,GH O'Brien,NM Odhiambo,1,0,,,,,,"",""
+ball,2,18.1,Bermuda,RJ Trott,GH O'Brien,CO Obuya,0,0,,,,,,"",""
+ball,2,18.2,Bermuda,RJ Trott,GH O'Brien,CO Obuya,0,2,2,,,,,"",""
+ball,2,18.3,Bermuda,GH O'Brien,RJ Trott,CO Obuya,0,0,,,,,,"",""
+ball,2,18.4,Bermuda,GH O'Brien,RJ Trott,CO Obuya,0,0,,,,,,"",""
+ball,2,18.5,Bermuda,GH O'Brien,RJ Trott,CO Obuya,0,0,,,,,,"",""
+ball,2,18.6,Bermuda,GH O'Brien,RJ Trott,CO Obuya,0,1,1,,,,,"",""
+ball,2,18.7,Bermuda,GH O'Brien,RJ Trott,CO Obuya,0,0,,,,,,bowled,GH O'Brien

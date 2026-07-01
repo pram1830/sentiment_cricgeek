@@ -1,0 +1,363 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Estonia
+info,gender,female
+info,season,2024
+info,date,2024/06/19
+info,event,Estonia Women tour of Cyprus
+info,match_number,6
+info,venue,Happy Valley Ground
+info,city,Episkopi
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,I Chathurani
+info,umpire,P Burdekin
+info,umpire,T Pasquill
+info,winner,Cyprus
+info,winner_runs,27
+info,player,Cyprus,T Gedarage
+info,player,Cyprus,S Jayakodi
+info,player,Cyprus,I Chathurani
+info,player,Cyprus,A Dirannehelage
+info,player,Cyprus,T De Silva
+info,player,Cyprus,A Taylor
+info,player,Cyprus,D Koralalage
+info,player,Cyprus,N Liyanage
+info,player,Cyprus,S Dunukedeniya
+info,player,Cyprus,C Wijesinghe
+info,player,Cyprus,A Hewage
+info,player,Estonia,M Valner
+info,player,Estonia,N Zholudz
+info,player,Estonia,L Dalbina
+info,player,Estonia,L Sormus
+info,player,Estonia,H Kerge
+info,player,Estonia,M Frey
+info,player,Estonia,Viktoria Frey
+info,player,Estonia,A Vessik
+info,player,Estonia,N Tykhonravova
+info,player,Estonia,E Ellermaa
+info,player,Estonia,M Pugi
+info,registry,people,A Dirannehelage,039168c7
+info,registry,people,A Hewage,be53a6a2
+info,registry,people,A Taylor,723f9bee
+info,registry,people,A Vessik,d30d4a0c
+info,registry,people,C Wijesinghe,db86ac96
+info,registry,people,D Koralalage,5e6041a4
+info,registry,people,E Ellermaa,37c085d2
+info,registry,people,H Kerge,76207d36
+info,registry,people,I Chathurani,85364088
+info,registry,people,L Dalbina,2b661b53
+info,registry,people,L Sormus,3486a171
+info,registry,people,M Frey,4b5debcd
+info,registry,people,M Pugi,4641d20b
+info,registry,people,M Valner,b5472435
+info,registry,people,N Liyanage,2ee5997e
+info,registry,people,N Tykhonravova,b9f09828
+info,registry,people,N Zholudz,a60bff88
+info,registry,people,P Burdekin,de27f4f9
+info,registry,people,S Dunukedeniya,3134e4a4
+info,registry,people,S Jayakodi,64875d5c
+info,registry,people,T De Silva,31821596
+info,registry,people,T Gedarage,5be7eb8a
+info,registry,people,T Pasquill,ff74218b
+info,registry,people,Viktoria Frey,fed9a316
+ball,1,0.1,Cyprus,T Gedarage,S Jayakodi,A Vessik,0,2,2,,,,,"",""
+ball,1,0.2,Cyprus,S Jayakodi,T Gedarage,A Vessik,1,0,,,,,,"",""
+ball,1,0.3,Cyprus,T Gedarage,S Jayakodi,A Vessik,0,0,,,,,,"",""
+ball,1,0.4,Cyprus,T Gedarage,S Jayakodi,A Vessik,0,0,,,,,,"",""
+ball,1,0.5,Cyprus,T Gedarage,S Jayakodi,A Vessik,0,0,,,,,,"",""
+ball,1,0.6,Cyprus,T Gedarage,S Jayakodi,A Vessik,0,0,,,,,,bowled,T Gedarage
+ball,1,0.7,Cyprus,I Chathurani,S Jayakodi,A Vessik,0,1,1,,,,,"",""
+ball,1,0.8,Cyprus,I Chathurani,S Jayakodi,A Vessik,0,0,,,,,,"",""
+ball,1,1.1,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,1.2,Cyprus,S Jayakodi,I Chathurani,L Sormus,1,0,,,,,,"",""
+ball,1,1.3,Cyprus,I Chathurani,S Jayakodi,L Sormus,1,0,,,,,,"",""
+ball,1,1.4,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,1.5,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,1.6,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,1,1,,,,,"",""
+ball,1,1.7,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,2.1,Cyprus,I Chathurani,S Jayakodi,M Valner,1,0,,,,,,"",""
+ball,1,2.2,Cyprus,S Jayakodi,I Chathurani,M Valner,1,0,,,,,,"",""
+ball,1,2.3,Cyprus,I Chathurani,S Jayakodi,M Valner,0,1,1,,,,,"",""
+ball,1,2.4,Cyprus,I Chathurani,S Jayakodi,M Valner,1,0,,,,,,"",""
+ball,1,2.5,Cyprus,S Jayakodi,I Chathurani,M Valner,1,0,,,,,,"",""
+ball,1,2.6,Cyprus,I Chathurani,S Jayakodi,M Valner,0,0,,,,,,"",""
+ball,1,2.7,Cyprus,I Chathurani,S Jayakodi,M Valner,0,0,,,,,,"",""
+ball,1,3.1,Cyprus,S Jayakodi,I Chathurani,L Sormus,1,0,,,,,,"",""
+ball,1,3.2,Cyprus,I Chathurani,S Jayakodi,L Sormus,0,1,,1,,,,"",""
+ball,1,3.3,Cyprus,I Chathurani,S Jayakodi,L Sormus,1,0,,,,,,"",""
+ball,1,3.4,Cyprus,S Jayakodi,I Chathurani,L Sormus,1,0,,,,,,"",""
+ball,1,3.5,Cyprus,I Chathurani,S Jayakodi,L Sormus,0,1,,1,,,,"",""
+ball,1,3.6,Cyprus,I Chathurani,S Jayakodi,L Sormus,1,0,,,,,,"",""
+ball,1,3.7,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,3.8,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,4.1,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,4.2,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,1,0,,,,,,"",""
+ball,1,4.3,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,4.4,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,4.5,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,4.6,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,4.7,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,1,0,,,,,,"",""
+ball,1,4.8,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,1,0,,,,,,"",""
+ball,1,5.1,Cyprus,I Chathurani,S Jayakodi,L Sormus,1,0,,,,,,"",""
+ball,1,5.2,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,5.3,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,5.4,Cyprus,S Jayakodi,I Chathurani,L Sormus,1,0,,,,,,"",""
+ball,1,5.5,Cyprus,I Chathurani,S Jayakodi,L Sormus,0,1,,1,,,,"",""
+ball,1,5.6,Cyprus,I Chathurani,S Jayakodi,L Sormus,2,0,,,,,,"",""
+ball,1,5.7,Cyprus,I Chathurani,S Jayakodi,L Sormus,0,1,1,,,,,"",""
+ball,1,5.8,Cyprus,I Chathurani,S Jayakodi,L Sormus,1,0,,,,,,"",""
+ball,1,6.1,Cyprus,I Chathurani,S Jayakodi,A Vessik,0,0,,,,,,"",""
+ball,1,6.2,Cyprus,I Chathurani,S Jayakodi,A Vessik,1,0,,,,,,"",""
+ball,1,6.3,Cyprus,S Jayakodi,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,6.4,Cyprus,S Jayakodi,I Chathurani,A Vessik,1,0,,,,,,"",""
+ball,1,6.5,Cyprus,I Chathurani,S Jayakodi,A Vessik,2,0,,,,,,"",""
+ball,1,6.6,Cyprus,I Chathurani,S Jayakodi,A Vessik,1,0,,,,,,"",""
+ball,1,7.1,Cyprus,I Chathurani,S Jayakodi,L Dalbina,1,0,,,,,,"",""
+ball,1,7.2,Cyprus,S Jayakodi,I Chathurani,L Dalbina,0,0,,,,,,"",""
+ball,1,7.3,Cyprus,S Jayakodi,I Chathurani,L Dalbina,1,0,,,,,,"",""
+ball,1,7.4,Cyprus,I Chathurani,S Jayakodi,L Dalbina,0,0,,,,,,"",""
+ball,1,7.5,Cyprus,I Chathurani,S Jayakodi,L Dalbina,0,0,,,,,,"",""
+ball,1,7.6,Cyprus,I Chathurani,S Jayakodi,L Dalbina,4,0,,,,,,"",""
+ball,1,8.1,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,8.2,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,8.3,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,2,,1,1,,,"",""
+ball,1,8.4,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,8.5,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,8.6,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,2,0,,,,,,"",""
+ball,1,8.7,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,8.8,Cyprus,I Chathurani,S Jayakodi,Viktoria Frey,1,0,,,,,,"",""
+ball,1,8.9,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,8.10,Cyprus,S Jayakodi,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,9.1,Cyprus,I Chathurani,S Jayakodi,M Valner,0,1,1,,,,,"",""
+ball,1,9.2,Cyprus,I Chathurani,S Jayakodi,M Valner,0,0,,,,,,"",""
+ball,1,9.3,Cyprus,I Chathurani,S Jayakodi,M Valner,1,0,,,,,,"",""
+ball,1,9.4,Cyprus,S Jayakodi,I Chathurani,M Valner,0,0,,,,,,"",""
+ball,1,9.5,Cyprus,S Jayakodi,I Chathurani,M Valner,1,0,,,,,,"",""
+ball,1,9.6,Cyprus,I Chathurani,S Jayakodi,M Valner,0,0,,,,,,"",""
+ball,1,9.7,Cyprus,I Chathurani,S Jayakodi,M Valner,0,0,,,,,,"",""
+ball,1,10.1,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,10.2,Cyprus,S Jayakodi,I Chathurani,L Sormus,1,0,,,,,,"",""
+ball,1,10.3,Cyprus,I Chathurani,S Jayakodi,L Sormus,1,0,,,,,,"",""
+ball,1,10.4,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,10.5,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,1,,1,,,,"",""
+ball,1,10.6,Cyprus,S Jayakodi,I Chathurani,L Sormus,0,0,,,,,,"",""
+ball,1,10.7,Cyprus,S Jayakodi,I Chathurani,L Sormus,1,0,,,,,,retired out,S Jayakodi
+ball,1,11.1,Cyprus,A Dirannehelage,I Chathurani,L Dalbina,0,0,,,,,,"",""
+ball,1,11.2,Cyprus,A Dirannehelage,I Chathurani,L Dalbina,0,0,,,,,,"",""
+ball,1,11.3,Cyprus,A Dirannehelage,I Chathurani,L Dalbina,0,1,1,,,,,"",""
+ball,1,11.4,Cyprus,A Dirannehelage,I Chathurani,L Dalbina,1,0,,,,,,"",""
+ball,1,11.5,Cyprus,I Chathurani,A Dirannehelage,L Dalbina,2,0,,,,,,"",""
+ball,1,11.6,Cyprus,I Chathurani,A Dirannehelage,L Dalbina,0,0,,,,,,"",""
+ball,1,11.7,Cyprus,I Chathurani,A Dirannehelage,L Dalbina,0,0,,,,,,"",""
+ball,1,12.1,Cyprus,A Dirannehelage,I Chathurani,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,12.2,Cyprus,A Dirannehelage,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,12.3,Cyprus,A Dirannehelage,I Chathurani,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,12.4,Cyprus,A Dirannehelage,I Chathurani,Viktoria Frey,2,0,,,,,,"",""
+ball,1,12.5,Cyprus,A Dirannehelage,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,12.6,Cyprus,A Dirannehelage,I Chathurani,Viktoria Frey,0,0,,,,,,caught,A Dirannehelage
+ball,1,12.7,Cyprus,T De Silva,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,12.8,Cyprus,T De Silva,I Chathurani,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,12.9,Cyprus,T De Silva,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,13.1,Cyprus,I Chathurani,T De Silva,M Valner,0,0,,,,,,"",""
+ball,1,13.2,Cyprus,I Chathurani,T De Silva,M Valner,0,0,,,,,,"",""
+ball,1,13.3,Cyprus,I Chathurani,T De Silva,M Valner,1,0,,,,,,"",""
+ball,1,13.4,Cyprus,T De Silva,I Chathurani,M Valner,0,0,,,,,,"",""
+ball,1,13.5,Cyprus,T De Silva,I Chathurani,M Valner,1,0,,,,,,"",""
+ball,1,13.6,Cyprus,I Chathurani,T De Silva,M Valner,2,0,,,,,,"",""
+ball,1,14.1,Cyprus,T De Silva,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,14.2,Cyprus,T De Silva,I Chathurani,A Vessik,0,0,,,,,,caught,T De Silva
+ball,1,14.3,Cyprus,A Taylor,I Chathurani,A Vessik,0,1,1,,,,,"",""
+ball,1,14.4,Cyprus,A Taylor,I Chathurani,A Vessik,0,1,1,,,,,"",""
+ball,1,14.5,Cyprus,A Taylor,I Chathurani,A Vessik,0,1,1,,,,,"",""
+ball,1,14.6,Cyprus,A Taylor,I Chathurani,A Vessik,1,0,,,,,,"",""
+ball,1,14.7,Cyprus,I Chathurani,A Taylor,A Vessik,1,0,,,,,,"",""
+ball,1,14.8,Cyprus,A Taylor,I Chathurani,A Vessik,0,1,1,,,,,"",""
+ball,1,14.9,Cyprus,A Taylor,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,14.10,Cyprus,A Taylor,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,15.1,Cyprus,I Chathurani,A Taylor,L Dalbina,2,0,,,,,,"",""
+ball,1,15.2,Cyprus,I Chathurani,A Taylor,L Dalbina,4,0,,,,,,"",""
+ball,1,15.3,Cyprus,I Chathurani,A Taylor,L Dalbina,2,0,,,,,,"",""
+ball,1,15.4,Cyprus,I Chathurani,A Taylor,L Dalbina,0,0,,,,,,"",""
+ball,1,15.5,Cyprus,I Chathurani,A Taylor,L Dalbina,1,0,,,,,,"",""
+ball,1,15.6,Cyprus,A Taylor,I Chathurani,L Dalbina,0,0,,,,,,"",""
+ball,1,16.1,Cyprus,I Chathurani,A Taylor,Viktoria Frey,2,0,,,,,,"",""
+ball,1,16.2,Cyprus,I Chathurani,A Taylor,Viktoria Frey,4,0,,,,,,"",""
+ball,1,16.3,Cyprus,I Chathurani,A Taylor,Viktoria Frey,4,0,,,,,,"",""
+ball,1,16.4,Cyprus,I Chathurani,A Taylor,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.5,Cyprus,I Chathurani,A Taylor,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.6,Cyprus,I Chathurani,A Taylor,Viktoria Frey,1,0,,,,,,"",""
+ball,1,16.7,Cyprus,A Taylor,I Chathurani,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.8,Cyprus,A Taylor,I Chathurani,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.9,Cyprus,A Taylor,I Chathurani,Viktoria Frey,0,1,,1,,,,"",""
+ball,1,16.10,Cyprus,A Taylor,I Chathurani,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.11,Cyprus,A Taylor,I Chathurani,Viktoria Frey,2,0,,,,,,"",""
+ball,1,16.12,Cyprus,A Taylor,I Chathurani,Viktoria Frey,0,0,,,,,,"",""
+ball,1,17.1,Cyprus,I Chathurani,A Taylor,L Dalbina,1,0,,,,,,"",""
+ball,1,17.2,Cyprus,A Taylor,I Chathurani,L Dalbina,0,1,1,,,,,"",""
+ball,1,17.3,Cyprus,A Taylor,I Chathurani,L Dalbina,0,0,,,,,,"",""
+ball,1,17.4,Cyprus,A Taylor,I Chathurani,L Dalbina,1,0,,,,,,"",""
+ball,1,17.5,Cyprus,I Chathurani,A Taylor,L Dalbina,2,0,,,,,,"",""
+ball,1,17.6,Cyprus,I Chathurani,A Taylor,L Dalbina,0,1,1,,,,,"",""
+ball,1,17.7,Cyprus,I Chathurani,A Taylor,L Dalbina,0,0,,,,,,"",""
+ball,1,17.8,Cyprus,I Chathurani,A Taylor,L Dalbina,1,0,,,,,,"",""
+ball,1,18.1,Cyprus,I Chathurani,A Taylor,A Vessik,0,0,,,,,,"",""
+ball,1,18.2,Cyprus,I Chathurani,A Taylor,A Vessik,1,0,,,,,,"",""
+ball,1,18.3,Cyprus,A Taylor,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,18.4,Cyprus,A Taylor,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,18.5,Cyprus,A Taylor,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,18.6,Cyprus,A Taylor,I Chathurani,A Vessik,0,0,,,,,,"",""
+ball,1,19.1,Cyprus,I Chathurani,A Taylor,M Valner,0,1,1,,,,,"",""
+ball,1,19.2,Cyprus,I Chathurani,A Taylor,M Valner,2,0,,,,,,"",""
+ball,1,19.3,Cyprus,I Chathurani,A Taylor,M Valner,2,0,,,,,,"",""
+ball,1,19.4,Cyprus,I Chathurani,A Taylor,M Valner,0,0,,,,,,"",""
+ball,1,19.5,Cyprus,I Chathurani,A Taylor,M Valner,0,1,,1,,,,"",""
+ball,1,19.6,Cyprus,I Chathurani,A Taylor,M Valner,2,0,,,,,,"",""
+ball,1,19.7,Cyprus,I Chathurani,A Taylor,M Valner,4,0,,,,,,"",""
+ball,1,19.8,Cyprus,I Chathurani,A Taylor,M Valner,2,0,,,,,,"",""
+ball,2,0.1,Estonia,M Valner,N Zholudz,D Koralalage,1,0,,,,,,"",""
+ball,2,0.2,Estonia,N Zholudz,M Valner,D Koralalage,0,0,,,,,,"",""
+ball,2,0.3,Estonia,N Zholudz,M Valner,D Koralalage,0,0,,,,,,"",""
+ball,2,0.4,Estonia,N Zholudz,M Valner,D Koralalage,1,0,,,,,,"",""
+ball,2,0.5,Estonia,M Valner,N Zholudz,D Koralalage,1,0,,,,,,"",""
+ball,2,0.6,Estonia,N Zholudz,M Valner,D Koralalage,0,0,,,,,,"",""
+ball,2,1.1,Estonia,M Valner,N Zholudz,S Dunukedeniya,2,0,,,,,,"",""
+ball,2,1.2,Estonia,M Valner,N Zholudz,S Dunukedeniya,0,0,,,,,,bowled,M Valner
+ball,2,1.3,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,1.4,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,1.5,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,1.6,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,1.7,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,0,2,,1,1,,,"",""
+ball,2,1.8,Estonia,N Zholudz,L Dalbina,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,2.1,Estonia,N Zholudz,L Dalbina,D Koralalage,0,1,1,,,,,"",""
+ball,2,2.2,Estonia,N Zholudz,L Dalbina,D Koralalage,0,0,,,,,,"",""
+ball,2,2.3,Estonia,N Zholudz,L Dalbina,D Koralalage,0,0,,,,,,"",""
+ball,2,2.4,Estonia,N Zholudz,L Dalbina,D Koralalage,0,0,,,,,,"",""
+ball,2,2.5,Estonia,N Zholudz,L Dalbina,D Koralalage,0,0,,,,,,"",""
+ball,2,2.6,Estonia,N Zholudz,L Dalbina,D Koralalage,0,1,1,,,,,"",""
+ball,2,2.7,Estonia,N Zholudz,L Dalbina,D Koralalage,1,0,,,,,,"",""
+ball,2,2.8,Estonia,L Dalbina,N Zholudz,D Koralalage,1,0,,,,,,"",""
+ball,2,3.1,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,3.2,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,3.3,Estonia,N Zholudz,L Dalbina,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,3.4,Estonia,N Zholudz,L Dalbina,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,3.5,Estonia,L Dalbina,N Zholudz,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,3.6,Estonia,N Zholudz,L Dalbina,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,3.7,Estonia,N Zholudz,L Dalbina,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,3.8,Estonia,N Zholudz,L Dalbina,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,4.1,Estonia,L Dalbina,N Zholudz,A Taylor,1,0,,,,,,"",""
+ball,2,4.2,Estonia,N Zholudz,L Dalbina,A Taylor,0,0,,,,,,"",""
+ball,2,4.3,Estonia,N Zholudz,L Dalbina,A Taylor,0,1,1,,,,,"",""
+ball,2,4.4,Estonia,N Zholudz,L Dalbina,A Taylor,0,0,,,,,,"",""
+ball,2,4.5,Estonia,N Zholudz,L Dalbina,A Taylor,0,0,,,,,,"",""
+ball,2,4.6,Estonia,N Zholudz,L Dalbina,A Taylor,1,0,,,,,,"",""
+ball,2,4.7,Estonia,L Dalbina,N Zholudz,A Taylor,1,0,,,,,,"",""
+ball,2,5.1,Estonia,L Dalbina,N Zholudz,A Dirannehelage,0,1,1,,,,,"",""
+ball,2,5.2,Estonia,L Dalbina,N Zholudz,A Dirannehelage,0,0,,,,,,"",""
+ball,2,5.3,Estonia,L Dalbina,N Zholudz,A Dirannehelage,0,0,,,,,,"",""
+ball,2,5.4,Estonia,L Dalbina,N Zholudz,A Dirannehelage,1,0,,,,,,"",""
+ball,2,5.5,Estonia,N Zholudz,L Dalbina,A Dirannehelage,0,1,,1,,,,"",""
+ball,2,5.6,Estonia,N Zholudz,L Dalbina,A Dirannehelage,1,0,,,,,,"",""
+ball,2,5.7,Estonia,L Dalbina,N Zholudz,A Dirannehelage,0,0,,,,,,"",""
+ball,2,5.8,Estonia,L Dalbina,N Zholudz,A Dirannehelage,1,0,,,,,,"",""
+ball,2,6.1,Estonia,L Dalbina,N Zholudz,A Taylor,1,0,,,,,,"",""
+ball,2,6.2,Estonia,N Zholudz,L Dalbina,A Taylor,1,0,,,,,,"",""
+ball,2,6.3,Estonia,L Dalbina,N Zholudz,A Taylor,0,1,1,,,,,"",""
+ball,2,6.4,Estonia,L Dalbina,N Zholudz,A Taylor,1,0,,,,,,"",""
+ball,2,6.5,Estonia,N Zholudz,L Dalbina,A Taylor,1,0,,,,,,"",""
+ball,2,6.6,Estonia,L Dalbina,N Zholudz,A Taylor,1,0,,,,,,"",""
+ball,2,6.7,Estonia,N Zholudz,L Dalbina,A Taylor,0,1,1,,,,,"",""
+ball,2,6.8,Estonia,N Zholudz,L Dalbina,A Taylor,1,0,,,,,,"",""
+ball,2,7.1,Estonia,N Zholudz,L Dalbina,A Dirannehelage,0,0,,,,,,"",""
+ball,2,7.2,Estonia,N Zholudz,L Dalbina,A Dirannehelage,0,0,,,,,,"",""
+ball,2,7.3,Estonia,N Zholudz,L Dalbina,A Dirannehelage,2,0,,,,,,"",""
+ball,2,7.4,Estonia,N Zholudz,L Dalbina,A Dirannehelage,1,0,,,,,,"",""
+ball,2,7.5,Estonia,L Dalbina,N Zholudz,A Dirannehelage,1,0,,,,,,"",""
+ball,2,7.6,Estonia,N Zholudz,L Dalbina,A Dirannehelage,0,1,1,,,,,"",""
+ball,2,7.7,Estonia,N Zholudz,L Dalbina,A Dirannehelage,0,0,,,,,,"",""
+ball,2,8.1,Estonia,L Dalbina,N Zholudz,N Liyanage,2,0,,,,,,"",""
+ball,2,8.2,Estonia,L Dalbina,N Zholudz,N Liyanage,0,0,,,,,,"",""
+ball,2,8.3,Estonia,L Dalbina,N Zholudz,N Liyanage,0,0,,,,,,"",""
+ball,2,8.4,Estonia,L Dalbina,N Zholudz,N Liyanage,0,0,,,,,,run out,N Zholudz
+ball,2,8.5,Estonia,L Sormus,L Dalbina,N Liyanage,0,0,,,,,,"",""
+ball,2,8.6,Estonia,L Sormus,L Dalbina,N Liyanage,1,0,,,,,,"",""
+ball,2,9.1,Estonia,L Sormus,L Dalbina,I Chathurani,3,0,,,,,,"",""
+ball,2,9.2,Estonia,L Dalbina,L Sormus,I Chathurani,0,1,1,,,,,"",""
+ball,2,9.3,Estonia,L Dalbina,L Sormus,I Chathurani,1,0,,,,,,"",""
+ball,2,9.4,Estonia,L Sormus,L Dalbina,I Chathurani,1,0,,,,,,"",""
+ball,2,9.5,Estonia,L Dalbina,L Sormus,I Chathurani,0,0,,,,,,run out,L Sormus
+ball,2,9.6,Estonia,H Kerge,L Dalbina,I Chathurani,0,0,,,,,,"",""
+ball,2,9.7,Estonia,H Kerge,L Dalbina,I Chathurani,0,0,,,,,,"",""
+ball,2,10.1,Estonia,L Dalbina,H Kerge,N Liyanage,1,0,,,,,,"",""
+ball,2,10.2,Estonia,H Kerge,L Dalbina,N Liyanage,1,0,,,,,,"",""
+ball,2,10.3,Estonia,L Dalbina,H Kerge,N Liyanage,1,0,,,,,,"",""
+ball,2,10.4,Estonia,H Kerge,L Dalbina,N Liyanage,2,0,,,,,,"",""
+ball,2,10.5,Estonia,H Kerge,L Dalbina,N Liyanage,0,0,,,,,,"",""
+ball,2,10.6,Estonia,H Kerge,L Dalbina,N Liyanage,0,0,,,,,,"",""
+ball,2,11.1,Estonia,L Dalbina,H Kerge,I Chathurani,1,0,,,,,,"",""
+ball,2,11.2,Estonia,H Kerge,L Dalbina,I Chathurani,1,0,,,,,,"",""
+ball,2,11.3,Estonia,L Dalbina,H Kerge,I Chathurani,2,0,,,,,,"",""
+ball,2,11.4,Estonia,L Dalbina,H Kerge,I Chathurani,0,0,,,,,,"",""
+ball,2,11.5,Estonia,L Dalbina,H Kerge,I Chathurani,1,0,,,,,,"",""
+ball,2,11.6,Estonia,H Kerge,L Dalbina,I Chathurani,0,1,1,,,,,"",""
+ball,2,11.7,Estonia,H Kerge,L Dalbina,I Chathurani,0,0,,,,,,"",""
+ball,2,12.1,Estonia,L Dalbina,H Kerge,N Liyanage,1,0,,,,,,"",""
+ball,2,12.2,Estonia,H Kerge,L Dalbina,N Liyanage,1,0,,,,,,"",""
+ball,2,12.3,Estonia,L Dalbina,H Kerge,N Liyanage,0,0,,,,,,"",""
+ball,2,12.4,Estonia,L Dalbina,H Kerge,N Liyanage,1,0,,,,,,"",""
+ball,2,12.5,Estonia,H Kerge,L Dalbina,N Liyanage,0,0,,,,,,"",""
+ball,2,12.6,Estonia,H Kerge,L Dalbina,N Liyanage,0,1,1,,,,,"",""
+ball,2,12.7,Estonia,H Kerge,L Dalbina,N Liyanage,0,0,,,,,,"",""
+ball,2,13.1,Estonia,L Dalbina,H Kerge,I Chathurani,1,0,,,,,,"",""
+ball,2,13.2,Estonia,H Kerge,L Dalbina,I Chathurani,1,0,,,,,,"",""
+ball,2,13.3,Estonia,L Dalbina,H Kerge,I Chathurani,1,0,,,,,,"",""
+ball,2,13.4,Estonia,H Kerge,L Dalbina,I Chathurani,0,0,,,,,,"",""
+ball,2,13.5,Estonia,H Kerge,L Dalbina,I Chathurani,0,0,,,,,,"",""
+ball,2,13.6,Estonia,H Kerge,L Dalbina,I Chathurani,0,0,,,,,,bowled,H Kerge
+ball,2,14.1,Estonia,L Dalbina,M Frey,N Liyanage,1,0,,,,,,"",""
+ball,2,14.2,Estonia,M Frey,L Dalbina,N Liyanage,0,0,,,,,,caught,M Frey
+ball,2,14.3,Estonia,Viktoria Frey,L Dalbina,N Liyanage,1,0,,,,,,"",""
+ball,2,14.4,Estonia,L Dalbina,Viktoria Frey,N Liyanage,0,0,,,,,,"",""
+ball,2,14.5,Estonia,L Dalbina,Viktoria Frey,N Liyanage,1,0,,,,,,"",""
+ball,2,14.6,Estonia,Viktoria Frey,L Dalbina,N Liyanage,0,1,1,,,,,"",""
+ball,2,14.7,Estonia,Viktoria Frey,L Dalbina,N Liyanage,1,0,,,,,,run out,L Dalbina
+ball,2,15.1,Estonia,A Vessik,Viktoria Frey,I Chathurani,0,0,,,,,,"",""
+ball,2,15.2,Estonia,A Vessik,Viktoria Frey,I Chathurani,1,0,,,,,,"",""
+ball,2,15.3,Estonia,Viktoria Frey,A Vessik,I Chathurani,1,0,,,,,,"",""
+ball,2,15.4,Estonia,A Vessik,Viktoria Frey,I Chathurani,1,0,,,,,,"",""
+ball,2,15.5,Estonia,Viktoria Frey,A Vessik,I Chathurani,0,0,,,,,,"",""
+ball,2,15.6,Estonia,Viktoria Frey,A Vessik,I Chathurani,0,0,,,,,,lbw,Viktoria Frey
+ball,2,16.1,Estonia,A Vessik,N Tykhonravova,A Dirannehelage,1,0,,,,,,"",""
+ball,2,16.2,Estonia,N Tykhonravova,A Vessik,A Dirannehelage,0,1,1,,,,,"",""
+ball,2,16.3,Estonia,N Tykhonravova,A Vessik,A Dirannehelage,2,0,,,,,,"",""
+ball,2,16.4,Estonia,N Tykhonravova,A Vessik,A Dirannehelage,0,0,,,,,,"",""
+ball,2,16.5,Estonia,N Tykhonravova,A Vessik,A Dirannehelage,0,0,,,,,,"",""
+ball,2,16.6,Estonia,N Tykhonravova,A Vessik,A Dirannehelage,1,0,,,,,,"",""
+ball,2,16.7,Estonia,A Vessik,N Tykhonravova,A Dirannehelage,1,0,,,,,,"",""
+ball,2,16.8,Estonia,N Tykhonravova,A Vessik,A Dirannehelage,0,0,,,,,,"",""
+ball,2,17.1,Estonia,A Vessik,N Tykhonravova,D Koralalage,0,1,1,,,,,"",""
+ball,2,17.2,Estonia,A Vessik,N Tykhonravova,D Koralalage,1,0,,,,,,"",""
+ball,2,17.3,Estonia,N Tykhonravova,A Vessik,D Koralalage,0,0,,,,,,run out,N Tykhonravova
+ball,2,17.4,Estonia,A Vessik,E Ellermaa,D Koralalage,1,0,,,,,,"",""
+ball,2,17.5,Estonia,E Ellermaa,A Vessik,D Koralalage,0,1,1,,,,,"",""
+ball,2,17.6,Estonia,E Ellermaa,A Vessik,D Koralalage,0,1,1,,,,,"",""
+ball,2,17.7,Estonia,E Ellermaa,A Vessik,D Koralalage,0,0,,,,,,"",""
+ball,2,17.8,Estonia,E Ellermaa,A Vessik,D Koralalage,0,0,,,,,,"",""
+ball,2,17.9,Estonia,E Ellermaa,A Vessik,D Koralalage,0,1,1,,,,,"",""
+ball,2,17.10,Estonia,E Ellermaa,A Vessik,D Koralalage,0,0,,,,,,"",""
+ball,2,18.1,Estonia,A Vessik,E Ellermaa,A Dirannehelage,1,0,,,,,,"",""
+ball,2,18.2,Estonia,E Ellermaa,A Vessik,A Dirannehelage,0,0,,,,,,"",""
+ball,2,18.3,Estonia,E Ellermaa,A Vessik,A Dirannehelage,0,1,1,,,,,"",""
+ball,2,18.4,Estonia,E Ellermaa,A Vessik,A Dirannehelage,2,0,,,,,,"",""
+ball,2,18.5,Estonia,E Ellermaa,A Vessik,A Dirannehelage,0,0,,,,,,"",""
+ball,2,18.6,Estonia,E Ellermaa,A Vessik,A Dirannehelage,0,0,,,,,,"",""
+ball,2,18.7,Estonia,E Ellermaa,A Vessik,A Dirannehelage,1,0,,,,,,"",""
+ball,2,19.1,Estonia,E Ellermaa,A Vessik,D Koralalage,0,1,1,,,,,"",""
+ball,2,19.2,Estonia,E Ellermaa,A Vessik,D Koralalage,0,0,,,,,,"",""
+ball,2,19.3,Estonia,E Ellermaa,A Vessik,D Koralalage,0,0,,,,,,"",""
+ball,2,19.4,Estonia,E Ellermaa,A Vessik,D Koralalage,2,0,,,,,,"",""
+ball,2,19.5,Estonia,E Ellermaa,A Vessik,D Koralalage,0,0,,,,,,lbw,E Ellermaa
+ball,2,19.6,Estonia,M Pugi,A Vessik,D Koralalage,0,1,1,,,,,"",""
+ball,2,19.7,Estonia,M Pugi,A Vessik,D Koralalage,1,0,,,,,,"",""
+ball,2,19.8,Estonia,A Vessik,M Pugi,D Koralalage,1,0,,,,,,run out,M Pugi

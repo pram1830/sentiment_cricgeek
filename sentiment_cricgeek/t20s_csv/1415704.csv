@@ -1,0 +1,289 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,South Africa
+info,gender,male
+info,season,2024
+info,date,2024/06/03
+info,event,ICC Men's T20 World Cup
+info,match_number,4
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,A Nortje
+info,umpire,CM Brown
+info,umpire,RA Kettleborough
+info,reserve_umpire,AG Wharf
+info,tv_umpire,PR Reiffel
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_wickets,6
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,N Thushara
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,OEG Baartman
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,T Stubbs,85b3fab2
+ball,1,0.1,Sri Lanka,P Nissanka,BKG Mendis,M Jansen,1,0,,,,,,"",""
+ball,1,0.2,Sri Lanka,BKG Mendis,P Nissanka,M Jansen,0,0,,,,,,"",""
+ball,1,0.3,Sri Lanka,BKG Mendis,P Nissanka,M Jansen,1,0,,,,,,"",""
+ball,1,0.4,Sri Lanka,P Nissanka,BKG Mendis,M Jansen,0,0,,,,,,"",""
+ball,1,0.5,Sri Lanka,P Nissanka,BKG Mendis,M Jansen,0,0,,,,,,"",""
+ball,1,0.6,Sri Lanka,P Nissanka,BKG Mendis,M Jansen,0,0,,,,,,"",""
+ball,1,1.1,Sri Lanka,BKG Mendis,P Nissanka,K Rabada,4,0,,,,,,"",""
+ball,1,1.2,Sri Lanka,BKG Mendis,P Nissanka,K Rabada,1,0,,,,,,"",""
+ball,1,1.3,Sri Lanka,P Nissanka,BKG Mendis,K Rabada,1,0,,,,,,"",""
+ball,1,1.4,Sri Lanka,BKG Mendis,P Nissanka,K Rabada,0,0,,,,,,"",""
+ball,1,1.5,Sri Lanka,BKG Mendis,P Nissanka,K Rabada,0,0,,,,,,"",""
+ball,1,1.6,Sri Lanka,BKG Mendis,P Nissanka,K Rabada,0,1,1,,,,,"",""
+ball,1,1.7,Sri Lanka,BKG Mendis,P Nissanka,K Rabada,0,0,,,,,,"",""
+ball,1,2.1,Sri Lanka,P Nissanka,BKG Mendis,M Jansen,0,0,,,,,,"",""
+ball,1,2.2,Sri Lanka,P Nissanka,BKG Mendis,M Jansen,1,0,,,,,,"",""
+ball,1,2.3,Sri Lanka,BKG Mendis,P Nissanka,M Jansen,0,1,1,,,,,"",""
+ball,1,2.4,Sri Lanka,BKG Mendis,P Nissanka,M Jansen,0,0,,,,,,"",""
+ball,1,2.5,Sri Lanka,BKG Mendis,P Nissanka,M Jansen,0,0,,,,,,"",""
+ball,1,2.6,Sri Lanka,BKG Mendis,P Nissanka,M Jansen,2,0,,,,,,"",""
+ball,1,2.7,Sri Lanka,BKG Mendis,P Nissanka,M Jansen,0,0,,,,,,"",""
+ball,1,3.1,Sri Lanka,P Nissanka,BKG Mendis,OEG Baartman,0,0,,,,,,caught,P Nissanka
+ball,1,3.2,Sri Lanka,PHKD Mendis,BKG Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,3.3,Sri Lanka,PHKD Mendis,BKG Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,3.4,Sri Lanka,PHKD Mendis,BKG Mendis,OEG Baartman,0,1,,,,1,,"",""
+ball,1,3.5,Sri Lanka,BKG Mendis,PHKD Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,3.6,Sri Lanka,BKG Mendis,PHKD Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,4.1,Sri Lanka,PHKD Mendis,BKG Mendis,K Rabada,0,0,,,,,,"",""
+ball,1,4.2,Sri Lanka,PHKD Mendis,BKG Mendis,K Rabada,0,0,,,,,,"",""
+ball,1,4.3,Sri Lanka,PHKD Mendis,BKG Mendis,K Rabada,1,0,,,,,,"",""
+ball,1,4.4,Sri Lanka,BKG Mendis,PHKD Mendis,K Rabada,1,0,,,,,,"",""
+ball,1,4.5,Sri Lanka,PHKD Mendis,BKG Mendis,K Rabada,4,0,,,,,,"",""
+ball,1,4.6,Sri Lanka,PHKD Mendis,BKG Mendis,K Rabada,1,0,,,,,,"",""
+ball,1,5.1,Sri Lanka,PHKD Mendis,BKG Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.2,Sri Lanka,PHKD Mendis,BKG Mendis,OEG Baartman,1,0,,,,,,"",""
+ball,1,5.3,Sri Lanka,BKG Mendis,PHKD Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.4,Sri Lanka,BKG Mendis,PHKD Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.5,Sri Lanka,BKG Mendis,PHKD Mendis,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.6,Sri Lanka,BKG Mendis,PHKD Mendis,OEG Baartman,2,0,,,,,,"",""
+ball,1,6.1,Sri Lanka,PHKD Mendis,BKG Mendis,KA Maharaj,0,0,,,,,,"",""
+ball,1,6.2,Sri Lanka,PHKD Mendis,BKG Mendis,KA Maharaj,2,0,,,,,,"",""
+ball,1,6.3,Sri Lanka,PHKD Mendis,BKG Mendis,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.4,Sri Lanka,BKG Mendis,PHKD Mendis,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.5,Sri Lanka,PHKD Mendis,BKG Mendis,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.6,Sri Lanka,BKG Mendis,PHKD Mendis,KA Maharaj,1,0,,,,,,"",""
+ball,1,7.1,Sri Lanka,BKG Mendis,PHKD Mendis,A Nortje,0,0,,,,,,"",""
+ball,1,7.2,Sri Lanka,BKG Mendis,PHKD Mendis,A Nortje,0,0,,,,,,"",""
+ball,1,7.3,Sri Lanka,BKG Mendis,PHKD Mendis,A Nortje,0,0,,,,,,"",""
+ball,1,7.4,Sri Lanka,BKG Mendis,PHKD Mendis,A Nortje,1,0,,,,,,"",""
+ball,1,7.5,Sri Lanka,PHKD Mendis,BKG Mendis,A Nortje,0,0,,,,,,caught,PHKD Mendis
+ball,1,7.6,Sri Lanka,PWH de Silva,BKG Mendis,A Nortje,0,0,,,,,,"",""
+ball,1,8.1,Sri Lanka,BKG Mendis,PWH de Silva,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.2,Sri Lanka,PWH de Silva,BKG Mendis,KA Maharaj,0,0,,,,,,stumped,PWH de Silva
+ball,1,8.3,Sri Lanka,S Samarawickrama,BKG Mendis,KA Maharaj,0,0,,,,,,bowled,S Samarawickrama
+ball,1,8.4,Sri Lanka,KIC Asalanka,BKG Mendis,KA Maharaj,2,0,,,,,,"",""
+ball,1,8.5,Sri Lanka,KIC Asalanka,BKG Mendis,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.6,Sri Lanka,BKG Mendis,KIC Asalanka,KA Maharaj,1,0,,,,,,"",""
+ball,1,9.1,Sri Lanka,BKG Mendis,KIC Asalanka,A Nortje,0,0,,,,,,"",""
+ball,1,9.2,Sri Lanka,BKG Mendis,KIC Asalanka,A Nortje,2,0,,,,,,"",""
+ball,1,9.3,Sri Lanka,BKG Mendis,KIC Asalanka,A Nortje,1,0,,,,,,"",""
+ball,1,9.4,Sri Lanka,KIC Asalanka,BKG Mendis,A Nortje,0,0,,,,,,"",""
+ball,1,9.5,Sri Lanka,KIC Asalanka,BKG Mendis,A Nortje,0,1,,,,1,,"",""
+ball,1,9.6,Sri Lanka,BKG Mendis,KIC Asalanka,A Nortje,0,0,,,,,,caught,BKG Mendis
+ball,1,10.1,Sri Lanka,KIC Asalanka,AD Mathews,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.2,Sri Lanka,KIC Asalanka,AD Mathews,KA Maharaj,1,0,,,,,,"",""
+ball,1,10.3,Sri Lanka,AD Mathews,KIC Asalanka,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.4,Sri Lanka,AD Mathews,KIC Asalanka,KA Maharaj,1,0,,,,,,"",""
+ball,1,10.5,Sri Lanka,KIC Asalanka,AD Mathews,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.6,Sri Lanka,KIC Asalanka,AD Mathews,KA Maharaj,2,0,,,,,,"",""
+ball,1,11.1,Sri Lanka,AD Mathews,KIC Asalanka,A Nortje,1,0,,,,,,"",""
+ball,1,11.2,Sri Lanka,KIC Asalanka,AD Mathews,A Nortje,0,0,,,,,,caught,KIC Asalanka
+ball,1,11.3,Sri Lanka,MD Shanaka,AD Mathews,A Nortje,1,0,,,,,,"",""
+ball,1,11.4,Sri Lanka,AD Mathews,MD Shanaka,A Nortje,0,0,,,,,,"",""
+ball,1,11.5,Sri Lanka,AD Mathews,MD Shanaka,A Nortje,0,0,,,,,,"",""
+ball,1,11.6,Sri Lanka,AD Mathews,MD Shanaka,A Nortje,0,0,,,,,,"",""
+ball,1,12.1,Sri Lanka,MD Shanaka,AD Mathews,KA Maharaj,0,0,,,,,,"",""
+ball,1,12.2,Sri Lanka,MD Shanaka,AD Mathews,KA Maharaj,1,0,,,,,,"",""
+ball,1,12.3,Sri Lanka,AD Mathews,MD Shanaka,KA Maharaj,0,0,,,,,,"",""
+ball,1,12.4,Sri Lanka,AD Mathews,MD Shanaka,KA Maharaj,0,0,,,,,,"",""
+ball,1,12.5,Sri Lanka,AD Mathews,MD Shanaka,KA Maharaj,6,0,,,,,,"",""
+ball,1,12.6,Sri Lanka,AD Mathews,MD Shanaka,KA Maharaj,0,0,,,,,,"",""
+ball,1,13.1,Sri Lanka,MD Shanaka,AD Mathews,M Jansen,1,0,,,,,,"",""
+ball,1,13.2,Sri Lanka,AD Mathews,MD Shanaka,M Jansen,1,0,,,,,,"",""
+ball,1,13.3,Sri Lanka,MD Shanaka,AD Mathews,M Jansen,0,0,,,,,,"",""
+ball,1,13.4,Sri Lanka,MD Shanaka,AD Mathews,M Jansen,6,0,,,,,,"",""
+ball,1,13.5,Sri Lanka,MD Shanaka,AD Mathews,M Jansen,0,0,,,,,,"",""
+ball,1,13.6,Sri Lanka,MD Shanaka,AD Mathews,M Jansen,0,0,,,,,,"",""
+ball,1,14.1,Sri Lanka,AD Mathews,MD Shanaka,K Rabada,6,0,,,,,,"",""
+ball,1,14.2,Sri Lanka,AD Mathews,MD Shanaka,K Rabada,1,0,,,,,,"",""
+ball,1,14.3,Sri Lanka,MD Shanaka,AD Mathews,K Rabada,0,0,,,,,,"",""
+ball,1,14.4,Sri Lanka,MD Shanaka,AD Mathews,K Rabada,0,0,,,,,,bowled,MD Shanaka
+ball,1,14.5,Sri Lanka,M Theekshana,AD Mathews,K Rabada,0,0,,,,,,"",""
+ball,1,14.6,Sri Lanka,M Theekshana,AD Mathews,K Rabada,0,0,,,,,,"",""
+ball,1,15.1,Sri Lanka,AD Mathews,M Theekshana,A Nortje,0,1,,,,1,,"",""
+ball,1,15.2,Sri Lanka,M Theekshana,AD Mathews,A Nortje,1,0,,,,,,"",""
+ball,1,15.3,Sri Lanka,AD Mathews,M Theekshana,A Nortje,0,0,,,,,,"",""
+ball,1,15.4,Sri Lanka,AD Mathews,M Theekshana,A Nortje,0,0,,,,,,caught,AD Mathews
+ball,1,15.5,Sri Lanka,M Pathirana,M Theekshana,A Nortje,0,0,,,,,,"",""
+ball,1,15.6,Sri Lanka,M Pathirana,M Theekshana,A Nortje,0,0,,,,,,"",""
+ball,1,16.1,Sri Lanka,M Theekshana,M Pathirana,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.2,Sri Lanka,M Theekshana,M Pathirana,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.3,Sri Lanka,M Theekshana,M Pathirana,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.4,Sri Lanka,M Theekshana,M Pathirana,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.5,Sri Lanka,M Theekshana,M Pathirana,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.6,Sri Lanka,M Theekshana,M Pathirana,OEG Baartman,0,1,1,,,,,"",""
+ball,1,16.7,Sri Lanka,M Theekshana,M Pathirana,OEG Baartman,0,0,,,,,,"",""
+ball,1,17.1,Sri Lanka,M Pathirana,M Theekshana,K Rabada,0,0,,,,,,"",""
+ball,1,17.2,Sri Lanka,M Pathirana,M Theekshana,K Rabada,0,0,,,,,,caught,M Pathirana
+ball,1,17.3,Sri Lanka,N Thushara,M Theekshana,K Rabada,0,0,,,,,,"",""
+ball,1,17.4,Sri Lanka,N Thushara,M Theekshana,K Rabada,0,0,,,,,,"",""
+ball,1,17.5,Sri Lanka,N Thushara,M Theekshana,K Rabada,0,0,,,,,,"",""
+ball,1,17.6,Sri Lanka,N Thushara,M Theekshana,K Rabada,0,0,,,,,,"",""
+ball,1,18.1,Sri Lanka,M Theekshana,N Thushara,OEG Baartman,0,0,,,,,,"",""
+ball,1,18.2,Sri Lanka,M Theekshana,N Thushara,OEG Baartman,0,0,,,,,,"",""
+ball,1,18.3,Sri Lanka,M Theekshana,N Thushara,OEG Baartman,0,0,,,,,,"",""
+ball,1,18.4,Sri Lanka,M Theekshana,N Thushara,OEG Baartman,4,0,,,,,,"",""
+ball,1,18.5,Sri Lanka,M Theekshana,N Thushara,OEG Baartman,0,0,,,,,,"",""
+ball,1,18.6,Sri Lanka,M Theekshana,N Thushara,OEG Baartman,1,0,,,,,,"",""
+ball,1,19.1,Sri Lanka,M Theekshana,N Thushara,M Jansen,1,0,,,,,,run out,N Thushara
+ball,2,0.1,South Africa,Q de Kock,RR Hendricks,AD Mathews,0,0,,,,,,"",""
+ball,2,0.2,South Africa,Q de Kock,RR Hendricks,AD Mathews,0,0,,,,,,"",""
+ball,2,0.3,South Africa,Q de Kock,RR Hendricks,AD Mathews,0,0,,,,,,"",""
+ball,2,0.4,South Africa,Q de Kock,RR Hendricks,AD Mathews,0,0,,,,,,"",""
+ball,2,0.5,South Africa,Q de Kock,RR Hendricks,AD Mathews,0,1,1,,,,,"",""
+ball,2,0.6,South Africa,Q de Kock,RR Hendricks,AD Mathews,1,0,,,,,,"",""
+ball,2,0.7,South Africa,RR Hendricks,Q de Kock,AD Mathews,4,0,,,,,,"",""
+ball,2,1.1,South Africa,Q de Kock,RR Hendricks,N Thushara,0,1,,1,,,,"",""
+ball,2,1.2,South Africa,Q de Kock,RR Hendricks,N Thushara,2,0,,,,,,"",""
+ball,2,1.3,South Africa,Q de Kock,RR Hendricks,N Thushara,1,0,,,,,,"",""
+ball,2,1.4,South Africa,RR Hendricks,Q de Kock,N Thushara,0,0,,,,,,caught,RR Hendricks
+ball,2,1.5,South Africa,AK Markram,Q de Kock,N Thushara,1,0,,,,,,"",""
+ball,2,1.6,South Africa,Q de Kock,AK Markram,N Thushara,1,0,,,,,,"",""
+ball,2,1.7,South Africa,AK Markram,Q de Kock,N Thushara,1,0,,,,,,"",""
+ball,2,2.1,South Africa,AK Markram,Q de Kock,AD Mathews,0,0,,,,,,"",""
+ball,2,2.2,South Africa,AK Markram,Q de Kock,AD Mathews,0,0,,,,,,"",""
+ball,2,2.3,South Africa,AK Markram,Q de Kock,AD Mathews,0,0,,,,,,"",""
+ball,2,2.4,South Africa,AK Markram,Q de Kock,AD Mathews,0,0,,,,,,"",""
+ball,2,2.5,South Africa,AK Markram,Q de Kock,AD Mathews,0,0,,,,,,"",""
+ball,2,2.6,South Africa,AK Markram,Q de Kock,AD Mathews,1,0,,,,,,"",""
+ball,2,3.1,South Africa,AK Markram,Q de Kock,N Thushara,0,0,,,,,,"",""
+ball,2,3.2,South Africa,AK Markram,Q de Kock,N Thushara,6,0,,,,,,"",""
+ball,2,3.3,South Africa,AK Markram,Q de Kock,N Thushara,2,0,,,,,,"",""
+ball,2,3.4,South Africa,AK Markram,Q de Kock,N Thushara,1,0,,,,,,"",""
+ball,2,3.5,South Africa,Q de Kock,AK Markram,N Thushara,0,0,,,,,,"",""
+ball,2,3.6,South Africa,Q de Kock,AK Markram,N Thushara,0,0,,,,,,"",""
+ball,2,4.1,South Africa,AK Markram,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,4.2,South Africa,AK Markram,Q de Kock,MD Shanaka,0,0,,,,,,caught,AK Markram
+ball,2,4.3,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,4.4,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,4.5,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,4.6,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,5.1,South Africa,Q de Kock,T Stubbs,N Thushara,0,0,,,,,,"",""
+ball,2,5.2,South Africa,Q de Kock,T Stubbs,N Thushara,0,0,,,,,,"",""
+ball,2,5.3,South Africa,Q de Kock,T Stubbs,N Thushara,1,0,,,,,,"",""
+ball,2,5.4,South Africa,T Stubbs,Q de Kock,N Thushara,0,2,,,,2,,"",""
+ball,2,5.5,South Africa,T Stubbs,Q de Kock,N Thushara,0,0,,,,,,"",""
+ball,2,5.6,South Africa,T Stubbs,Q de Kock,N Thushara,1,0,,,,,,"",""
+ball,2,6.1,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.2,South Africa,T Stubbs,Q de Kock,MD Shanaka,1,0,,,,,,"",""
+ball,2,6.3,South Africa,Q de Kock,T Stubbs,MD Shanaka,1,0,,,,,,"",""
+ball,2,6.4,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.5,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.6,South Africa,T Stubbs,Q de Kock,MD Shanaka,1,0,,,,,,"",""
+ball,2,7.1,South Africa,T Stubbs,Q de Kock,AD Mathews,1,0,,,,,,"",""
+ball,2,7.2,South Africa,Q de Kock,T Stubbs,AD Mathews,1,0,,,,,,"",""
+ball,2,7.3,South Africa,T Stubbs,Q de Kock,AD Mathews,0,0,,,,,,"",""
+ball,2,7.4,South Africa,T Stubbs,Q de Kock,AD Mathews,1,0,,,,,,"",""
+ball,2,7.5,South Africa,Q de Kock,T Stubbs,AD Mathews,6,0,,,,,,"",""
+ball,2,7.6,South Africa,Q de Kock,T Stubbs,AD Mathews,0,0,,,,,,"",""
+ball,2,8.1,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,8.2,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,8.3,South Africa,T Stubbs,Q de Kock,MD Shanaka,0,0,,,,,,"",""
+ball,2,8.4,South Africa,T Stubbs,Q de Kock,MD Shanaka,1,0,,,,,,"",""
+ball,2,8.5,South Africa,Q de Kock,T Stubbs,MD Shanaka,1,0,,,,,,"",""
+ball,2,8.6,South Africa,T Stubbs,Q de Kock,MD Shanaka,1,0,,,,,,"",""
+ball,2,9.1,South Africa,T Stubbs,Q de Kock,M Pathirana,1,0,,,,,,"",""
+ball,2,9.2,South Africa,Q de Kock,T Stubbs,M Pathirana,0,0,,,,,,"",""
+ball,2,9.3,South Africa,Q de Kock,T Stubbs,M Pathirana,0,0,,,,,,"",""
+ball,2,9.4,South Africa,Q de Kock,T Stubbs,M Pathirana,1,0,,,,,,"",""
+ball,2,9.5,South Africa,T Stubbs,Q de Kock,M Pathirana,1,0,,,,,,"",""
+ball,2,9.6,South Africa,Q de Kock,T Stubbs,M Pathirana,0,1,1,,,,,"",""
+ball,2,9.7,South Africa,Q de Kock,T Stubbs,M Pathirana,1,0,,,,,,"",""
+ball,2,10.1,South Africa,Q de Kock,T Stubbs,PWH de Silva,1,0,,,,,,"",""
+ball,2,10.2,South Africa,T Stubbs,Q de Kock,PWH de Silva,1,0,,,,,,"",""
+ball,2,10.3,South Africa,Q de Kock,T Stubbs,PWH de Silva,2,0,,,,,,"",""
+ball,2,10.4,South Africa,Q de Kock,T Stubbs,PWH de Silva,0,0,,,,,,"",""
+ball,2,10.5,South Africa,Q de Kock,T Stubbs,PWH de Silva,0,0,,,,,,caught and bowled,Q de Kock
+ball,2,10.6,South Africa,H Klaasen,T Stubbs,PWH de Silva,1,0,,,,,,"",""
+ball,2,11.1,South Africa,H Klaasen,T Stubbs,M Pathirana,0,0,,,,,,"",""
+ball,2,11.2,South Africa,H Klaasen,T Stubbs,M Pathirana,0,1,,,,1,,"",""
+ball,2,11.3,South Africa,T Stubbs,H Klaasen,M Pathirana,1,0,,,,,,"",""
+ball,2,11.4,South Africa,H Klaasen,T Stubbs,M Pathirana,1,0,,,,,,"",""
+ball,2,11.5,South Africa,T Stubbs,H Klaasen,M Pathirana,2,0,,,,,,"",""
+ball,2,11.6,South Africa,T Stubbs,H Klaasen,M Pathirana,0,0,,,,,,"",""
+ball,2,12.1,South Africa,H Klaasen,T Stubbs,PWH de Silva,0,0,,,,,,"",""
+ball,2,12.2,South Africa,H Klaasen,T Stubbs,PWH de Silva,0,0,,,,,,"",""
+ball,2,12.3,South Africa,H Klaasen,T Stubbs,PWH de Silva,1,0,,,,,,"",""
+ball,2,12.4,South Africa,T Stubbs,H Klaasen,PWH de Silva,0,0,,,,,,"",""
+ball,2,12.5,South Africa,T Stubbs,H Klaasen,PWH de Silva,0,0,,,,,,caught,T Stubbs
+ball,2,12.6,South Africa,DA Miller,H Klaasen,PWH de Silva,0,0,,,,,,"",""
+ball,2,13.1,South Africa,H Klaasen,DA Miller,M Pathirana,0,0,,,,,,"",""
+ball,2,13.2,South Africa,H Klaasen,DA Miller,M Pathirana,0,0,,,,,,"",""
+ball,2,13.3,South Africa,H Klaasen,DA Miller,M Pathirana,0,0,,,,,,"",""
+ball,2,13.4,South Africa,H Klaasen,DA Miller,M Pathirana,1,0,,,,,,"",""
+ball,2,13.5,South Africa,DA Miller,H Klaasen,M Pathirana,1,0,,,,,,"",""
+ball,2,13.6,South Africa,H Klaasen,DA Miller,M Pathirana,1,0,,,,,,"",""
+ball,2,14.1,South Africa,H Klaasen,DA Miller,PWH de Silva,0,0,,,,,,"",""
+ball,2,14.2,South Africa,H Klaasen,DA Miller,PWH de Silva,0,0,,,,,,"",""
+ball,2,14.3,South Africa,H Klaasen,DA Miller,PWH de Silva,6,0,,,,,,"",""
+ball,2,14.4,South Africa,H Klaasen,DA Miller,PWH de Silva,4,0,,,,,,"",""
+ball,2,14.5,South Africa,H Klaasen,DA Miller,PWH de Silva,1,0,,,,,,"",""
+ball,2,14.6,South Africa,DA Miller,H Klaasen,PWH de Silva,0,0,,,,,,"",""
+ball,2,15.1,South Africa,H Klaasen,DA Miller,M Theekshana,0,0,,,,,,"",""
+ball,2,15.2,South Africa,H Klaasen,DA Miller,M Theekshana,1,0,,,,,,"",""
+ball,2,15.3,South Africa,DA Miller,H Klaasen,M Theekshana,1,0,,,,,,"",""
+ball,2,15.4,South Africa,H Klaasen,DA Miller,M Theekshana,0,0,,,,,,"",""
+ball,2,15.5,South Africa,H Klaasen,DA Miller,M Theekshana,1,0,,,,,,"",""
+ball,2,15.6,South Africa,DA Miller,H Klaasen,M Theekshana,0,0,,,,,,"",""
+ball,2,16.1,South Africa,H Klaasen,DA Miller,PWH de Silva,1,0,,,,,,"",""
+ball,2,16.2,South Africa,DA Miller,H Klaasen,PWH de Silva,4,0,,,,,,"",""

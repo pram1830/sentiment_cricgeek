@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,France
+info,gender,male
+info,season,2025
+info,date,2025/06/27
+info,event,Continental Cup
+info,match_number,5
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Belgium
+info,toss_decision,bat
+info,player_of_match,Sheraz Sheikh
+info,winner,Belgium
+info,winner_runs,16
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,A Raza
+info,player,Belgium,B Niaz
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,F Khaliq
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Rafiulah Alokozai
+info,player,Belgium,Zaki Ul Hassan
+info,player,Belgium,Iftikhar Kankhel
+info,player,France,Faisal Safi
+info,player,France,Mustafa Omer
+info,player,France,G Mckeon
+info,player,France,L Canessane
+info,player,France,C Roberts
+info,player,France,Jamshid Nasiri
+info,player,France,L Smith
+info,player,France,Usman Khan
+info,player,France,Rahmatullah Mangal
+info,player,France,Dawood Ahmadzai
+info,player,France,HA Jackson
+info,registry,people,A Raza,838bc6ab
+info,registry,people,B Niaz,b7824537
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,F Khaliq,c17dcc29
+info,registry,people,Faisal Safi,5eba6319
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,Jamshid Nasiri,2bc636df
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,L Smith,7e64e33f
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,Mustafa Omer,3bd52be1
+info,registry,people,Rafiulah Alokozai,1f22730e
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,Zaki Ul Hassan,1d6d8a8b
+ball,1,0.1,Belgium,Muhammad Muneeb,A Raza,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,1,0.2,Belgium,Muhammad Muneeb,A Raza,Rahmatullah Mangal,0,0,,,,,,caught,Muhammad Muneeb
+ball,1,0.3,Belgium,B Niaz,A Raza,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,1,0.4,Belgium,A Raza,B Niaz,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,1,0.5,Belgium,A Raza,B Niaz,Rahmatullah Mangal,0,1,1,,,,,"",""
+ball,1,0.6,Belgium,A Raza,B Niaz,Rahmatullah Mangal,6,0,,,,,,"",""
+ball,1,0.7,Belgium,A Raza,B Niaz,Rahmatullah Mangal,4,0,,,,,,"",""
+ball,1,1.1,Belgium,B Niaz,A Raza,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,1,1.2,Belgium,A Raza,B Niaz,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,1,1.3,Belgium,A Raza,B Niaz,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,1,1.4,Belgium,B Niaz,A Raza,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,1,1.5,Belgium,B Niaz,A Raza,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,1.6,Belgium,B Niaz,A Raza,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,1,2.1,Belgium,A Raza,B Niaz,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,1,2.2,Belgium,A Raza,B Niaz,Rahmatullah Mangal,4,0,,,,,,"",""
+ball,1,2.3,Belgium,A Raza,B Niaz,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,1,2.4,Belgium,A Raza,B Niaz,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,1,2.5,Belgium,B Niaz,A Raza,Rahmatullah Mangal,4,0,,,,,,"",""
+ball,1,2.6,Belgium,B Niaz,A Raza,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,1,3.1,Belgium,B Niaz,A Raza,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,1,3.2,Belgium,A Raza,B Niaz,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,1,3.3,Belgium,A Raza,B Niaz,Dawood Ahmadzai,0,4,,,4,,,"",""
+ball,1,3.4,Belgium,A Raza,B Niaz,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,3.5,Belgium,A Raza,B Niaz,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,3.6,Belgium,A Raza,B Niaz,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,1,4.1,Belgium,B Niaz,A Raza,Mustafa Omer,4,0,,,,,,"",""
+ball,1,4.2,Belgium,B Niaz,A Raza,Mustafa Omer,0,1,1,,,,,"",""
+ball,1,4.3,Belgium,B Niaz,A Raza,Mustafa Omer,0,0,,,,,,"",""
+ball,1,4.4,Belgium,B Niaz,A Raza,Mustafa Omer,0,0,,,,,,"",""
+ball,1,4.5,Belgium,B Niaz,A Raza,Mustafa Omer,4,0,,,,,,"",""
+ball,1,4.6,Belgium,B Niaz,A Raza,Mustafa Omer,0,0,,,,,,"",""
+ball,1,4.7,Belgium,B Niaz,A Raza,Mustafa Omer,0,0,,,,,,"",""
+ball,1,5.1,Belgium,A Raza,B Niaz,Usman Khan,0,0,,,,,,"",""
+ball,1,5.2,Belgium,A Raza,B Niaz,Usman Khan,1,0,,,,,,"",""
+ball,1,5.3,Belgium,B Niaz,A Raza,Usman Khan,4,0,,,,,,"",""
+ball,1,5.4,Belgium,B Niaz,A Raza,Usman Khan,1,0,,,,,,"",""
+ball,1,5.5,Belgium,A Raza,B Niaz,Usman Khan,0,0,,,,,,"",""
+ball,1,5.6,Belgium,A Raza,B Niaz,Usman Khan,1,0,,,,,,"",""
+ball,1,6.1,Belgium,A Raza,B Niaz,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,6.2,Belgium,B Niaz,A Raza,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,6.3,Belgium,A Raza,B Niaz,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,6.4,Belgium,A Raza,B Niaz,Jamshid Nasiri,0,0,,,,,,caught,A Raza
+ball,1,6.5,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,6.6,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,7.1,Belgium,B Niaz,Sheraz Sheikh,Usman Khan,1,0,,,,,,"",""
+ball,1,7.2,Belgium,Sheraz Sheikh,B Niaz,Usman Khan,0,0,,,,,,"",""
+ball,1,7.3,Belgium,Sheraz Sheikh,B Niaz,Usman Khan,0,0,,,,,,"",""
+ball,1,7.4,Belgium,Sheraz Sheikh,B Niaz,Usman Khan,0,0,,,,,,"",""
+ball,1,7.5,Belgium,Sheraz Sheikh,B Niaz,Usman Khan,1,0,,,,,,"",""
+ball,1,7.6,Belgium,B Niaz,Sheraz Sheikh,Usman Khan,1,0,,,,,,"",""
+ball,1,8.1,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,8.2,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,8.3,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,4,0,,,,,,"",""
+ball,1,8.4,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,8.5,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,8.6,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,9.1,Belgium,B Niaz,Sheraz Sheikh,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,9.2,Belgium,B Niaz,Sheraz Sheikh,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,1,9.3,Belgium,Sheraz Sheikh,B Niaz,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,9.4,Belgium,Sheraz Sheikh,B Niaz,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,9.5,Belgium,Sheraz Sheikh,B Niaz,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,1,9.6,Belgium,Sheraz Sheikh,B Niaz,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,1,10.1,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,10.2,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,0,0,,,,,,"",""
+ball,1,10.3,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,10.4,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,0,1,1,,,,,"",""
+ball,1,10.5,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,10.6,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,10.7,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,6,0,,,,,,"",""
+ball,1,11.1,Belgium,B Niaz,Sheraz Sheikh,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,1,11.2,Belgium,B Niaz,Sheraz Sheikh,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,11.3,Belgium,B Niaz,Sheraz Sheikh,Dawood Ahmadzai,6,0,,,,,,"",""
+ball,1,11.4,Belgium,B Niaz,Sheraz Sheikh,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,11.5,Belgium,B Niaz,Sheraz Sheikh,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,1,11.6,Belgium,Sheraz Sheikh,B Niaz,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,1,12.1,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,12.2,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,6,0,,,,,,"",""
+ball,1,12.3,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,12.4,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,12.5,Belgium,Sheraz Sheikh,B Niaz,Jamshid Nasiri,1,0,,,,,,"",""
+ball,1,12.6,Belgium,B Niaz,Sheraz Sheikh,Jamshid Nasiri,0,0,,,,,,caught,B Niaz
+ball,1,13.1,Belgium,Sheraz Sheikh,Shaheryar Butt,C Roberts,6,1,,1,,,,"",""
+ball,1,13.2,Belgium,Sheraz Sheikh,Shaheryar Butt,C Roberts,0,0,,,,,,"",""
+ball,1,13.3,Belgium,Sheraz Sheikh,Shaheryar Butt,C Roberts,0,0,,,,,,caught,Sheraz Sheikh
+ball,1,13.4,Belgium,Saber Zakhil,Shaheryar Butt,C Roberts,0,0,,,,,,caught,Saber Zakhil
+ball,1,13.5,Belgium,F Khaliq,Shaheryar Butt,C Roberts,0,0,,,,,,"",""
+ball,1,13.6,Belgium,F Khaliq,Shaheryar Butt,C Roberts,4,0,,,,,,"",""
+ball,1,13.7,Belgium,F Khaliq,Shaheryar Butt,C Roberts,0,0,,,,,,"",""
+ball,1,14.1,Belgium,Shaheryar Butt,F Khaliq,Mustafa Omer,0,1,,,,1,,"",""
+ball,1,14.2,Belgium,F Khaliq,Shaheryar Butt,Mustafa Omer,1,0,,,,,,"",""
+ball,1,14.3,Belgium,Shaheryar Butt,F Khaliq,Mustafa Omer,0,0,,,,,,"",""
+ball,1,14.4,Belgium,Shaheryar Butt,F Khaliq,Mustafa Omer,0,0,,,,,,"",""
+ball,1,14.5,Belgium,Shaheryar Butt,F Khaliq,Mustafa Omer,1,0,,,,,,"",""
+ball,1,14.6,Belgium,F Khaliq,Shaheryar Butt,Mustafa Omer,1,0,,,,,,"",""
+ball,1,15.1,Belgium,F Khaliq,Shaheryar Butt,C Roberts,0,0,,,,,,"",""
+ball,1,15.2,Belgium,F Khaliq,Shaheryar Butt,C Roberts,1,0,,,,,,"",""
+ball,1,15.3,Belgium,Shaheryar Butt,F Khaliq,C Roberts,1,0,,,,,,"",""
+ball,1,15.4,Belgium,F Khaliq,Shaheryar Butt,C Roberts,0,0,,,,,,lbw,F Khaliq
+ball,1,15.5,Belgium,Khalid Ahmadi,Shaheryar Butt,C Roberts,1,0,,,,,,"",""
+ball,1,15.6,Belgium,Shaheryar Butt,Khalid Ahmadi,C Roberts,0,0,,,,,,"",""
+ball,1,16.1,Belgium,Khalid Ahmadi,Shaheryar Butt,Mustafa Omer,0,0,,,,,,"",""
+ball,1,16.2,Belgium,Khalid Ahmadi,Shaheryar Butt,Mustafa Omer,6,0,,,,,,"",""
+ball,1,16.3,Belgium,Khalid Ahmadi,Shaheryar Butt,Mustafa Omer,6,0,,,,,,"",""
+ball,1,16.4,Belgium,Khalid Ahmadi,Shaheryar Butt,Mustafa Omer,4,0,,,,,,"",""
+ball,1,16.5,Belgium,Khalid Ahmadi,Shaheryar Butt,Mustafa Omer,0,0,,,,,,"",""
+ball,1,16.6,Belgium,Khalid Ahmadi,Shaheryar Butt,Mustafa Omer,0,0,,,,,,"",""
+ball,1,17.1,Belgium,Shaheryar Butt,Khalid Ahmadi,Usman Khan,1,0,,,,,,"",""
+ball,1,17.2,Belgium,Khalid Ahmadi,Shaheryar Butt,Usman Khan,6,0,,,,,,"",""
+ball,1,17.3,Belgium,Khalid Ahmadi,Shaheryar Butt,Usman Khan,1,0,,,,,,"",""
+ball,1,17.4,Belgium,Shaheryar Butt,Khalid Ahmadi,Usman Khan,0,0,,,,,,"",""
+ball,1,17.5,Belgium,Shaheryar Butt,Khalid Ahmadi,Usman Khan,1,0,,,,,,"",""
+ball,1,17.6,Belgium,Khalid Ahmadi,Shaheryar Butt,Usman Khan,0,1,1,,,,,"",""
+ball,1,17.7,Belgium,Khalid Ahmadi,Shaheryar Butt,Usman Khan,0,0,,,,,,caught,Khalid Ahmadi
+ball,1,18.1,Belgium,Shaheryar Butt,Rafiulah Alokozai,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,1,18.2,Belgium,Rafiulah Alokozai,Shaheryar Butt,Rahmatullah Mangal,0,0,,,,,,"",""
+ball,1,18.3,Belgium,Rafiulah Alokozai,Shaheryar Butt,Rahmatullah Mangal,1,0,,,,,,"",""
+ball,1,18.4,Belgium,Shaheryar Butt,Rafiulah Alokozai,Rahmatullah Mangal,4,0,,,,,,"",""
+ball,1,18.5,Belgium,Shaheryar Butt,Rafiulah Alokozai,Rahmatullah Mangal,4,0,,,,,,"",""
+ball,1,18.6,Belgium,Shaheryar Butt,Rafiulah Alokozai,Rahmatullah Mangal,2,0,,,,,,"",""
+ball,1,19.1,Belgium,Rafiulah Alokozai,Shaheryar Butt,Usman Khan,0,0,,,,,,"",""
+ball,1,19.2,Belgium,Rafiulah Alokozai,Shaheryar Butt,Usman Khan,0,0,,,,,,"",""
+ball,1,19.3,Belgium,Rafiulah Alokozai,Shaheryar Butt,Usman Khan,0,0,,,,,,bowled,Rafiulah Alokozai
+ball,1,19.4,Belgium,Zaki Ul Hassan,Shaheryar Butt,Usman Khan,1,0,,,,,,"",""
+ball,1,19.5,Belgium,Shaheryar Butt,Zaki Ul Hassan,Usman Khan,6,0,,,,,,"",""
+ball,1,19.6,Belgium,Shaheryar Butt,Zaki Ul Hassan,Usman Khan,2,0,,,,,,"",""
+ball,2,0.1,France,Faisal Safi,Mustafa Omer,F Khaliq,0,0,,,,,,"",""
+ball,2,0.2,France,Faisal Safi,Mustafa Omer,F Khaliq,4,0,,,,,,"",""
+ball,2,0.3,France,Faisal Safi,Mustafa Omer,F Khaliq,0,2,,,,2,,"",""
+ball,2,0.4,France,Faisal Safi,Mustafa Omer,F Khaliq,4,0,,,,,,"",""
+ball,2,0.5,France,Faisal Safi,Mustafa Omer,F Khaliq,0,0,,,,,,"",""
+ball,2,0.6,France,Faisal Safi,Mustafa Omer,F Khaliq,1,0,,,,,,"",""
+ball,2,1.1,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,1.2,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,1.3,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,1.4,France,Mustafa Omer,Faisal Safi,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,1.5,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,1.6,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,0,2,2,,,,,"",""
+ball,2,1.7,France,Mustafa Omer,Faisal Safi,Iftikhar Kankhel,0,1,,,,1,,"",""
+ball,2,2.1,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,2.2,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,2.3,France,Faisal Safi,Mustafa Omer,Khalid Ahmadi,0,1,1,,,,,"",""
+ball,2,2.4,France,Faisal Safi,Mustafa Omer,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,2.5,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,2.6,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,4,0,,,,,,"",""
+ball,2,2.7,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,3.1,France,Mustafa Omer,Faisal Safi,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,3.2,France,Mustafa Omer,Faisal Safi,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,3.3,France,Mustafa Omer,Faisal Safi,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,3.4,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,0,1,1,,,,,"",""
+ball,2,3.5,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,3.6,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,3.7,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,0,1,,1,,,,"",""
+ball,2,3.8,France,Faisal Safi,Mustafa Omer,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,4.1,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,4.2,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,0,1,1,,,,,"",""
+ball,2,4.3,France,Mustafa Omer,Faisal Safi,Khalid Ahmadi,0,0,,,,,,caught,Mustafa Omer
+ball,2,4.4,France,G Mckeon,Faisal Safi,Khalid Ahmadi,0,1,1,,,,,"",""
+ball,2,4.5,France,G Mckeon,Faisal Safi,Khalid Ahmadi,4,0,,,,,,"",""
+ball,2,4.6,France,G Mckeon,Faisal Safi,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,4.7,France,G Mckeon,Faisal Safi,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,4.8,France,G Mckeon,Faisal Safi,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,5.1,France,Faisal Safi,G Mckeon,F Khaliq,1,0,,,,,,"",""
+ball,2,5.2,France,G Mckeon,Faisal Safi,F Khaliq,0,0,,,,,,"",""
+ball,2,5.3,France,G Mckeon,Faisal Safi,F Khaliq,4,0,,,,,,"",""
+ball,2,5.4,France,G Mckeon,Faisal Safi,F Khaliq,0,0,,,,,,"",""
+ball,2,5.5,France,G Mckeon,Faisal Safi,F Khaliq,4,0,,,,,,"",""
+ball,2,5.6,France,G Mckeon,Faisal Safi,F Khaliq,4,0,,,,,,"",""
+ball,2,6.1,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,6.2,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,6.3,France,G Mckeon,Faisal Safi,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,6.4,France,G Mckeon,Faisal Safi,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,6.5,France,G Mckeon,Faisal Safi,Zaki Ul Hassan,4,0,,,,,,"",""
+ball,2,6.6,France,G Mckeon,Faisal Safi,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,7.1,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,7.2,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,7.3,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,2,0,,,,,,"",""
+ball,2,7.4,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,7.5,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,4,0,,,,,,"",""
+ball,2,7.6,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,7.7,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,6,0,,,,,,"",""
+ball,2,7.8,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,0,4,,,4,,,"",""
+ball,2,7.9,France,G Mckeon,Faisal Safi,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,8.1,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,8.2,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,4,0,,,,,,"",""
+ball,2,8.3,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,4,0,,,,,,"",""
+ball,2,8.4,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,8.5,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,2,0,,,,,,"",""
+ball,2,8.6,France,Faisal Safi,G Mckeon,Zaki Ul Hassan,4,0,,,,,,"",""
+ball,2,9.1,France,G Mckeon,Faisal Safi,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,9.2,France,G Mckeon,Faisal Safi,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,9.3,France,Faisal Safi,G Mckeon,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,9.4,France,Faisal Safi,G Mckeon,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,9.5,France,Faisal Safi,G Mckeon,Sheraz Sheikh,0,0,,,,,,stumped,Faisal Safi
+ball,2,9.6,France,L Canessane,G Mckeon,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,10.1,France,G Mckeon,L Canessane,Khalid Ahmadi,2,0,,,,,,"",""
+ball,2,10.2,France,G Mckeon,L Canessane,Khalid Ahmadi,2,0,,,,,,"",""
+ball,2,10.3,France,G Mckeon,L Canessane,Khalid Ahmadi,0,1,1,,,,,"",""
+ball,2,10.4,France,G Mckeon,L Canessane,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,10.5,France,L Canessane,G Mckeon,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,10.6,France,L Canessane,G Mckeon,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,10.7,France,G Mckeon,L Canessane,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,11.1,France,G Mckeon,L Canessane,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,11.2,France,L Canessane,G Mckeon,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,11.3,France,L Canessane,G Mckeon,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,11.4,France,G Mckeon,L Canessane,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,11.5,France,L Canessane,G Mckeon,Sheraz Sheikh,2,0,,,,,,"",""
+ball,2,11.6,France,L Canessane,G Mckeon,Sheraz Sheikh,0,0,,,,,,bowled,L Canessane
+ball,2,12.1,France,G Mckeon,C Roberts,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,12.2,France,C Roberts,G Mckeon,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,12.3,France,C Roberts,G Mckeon,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,12.4,France,G Mckeon,C Roberts,Khalid Ahmadi,0,0,,,,,,caught,G Mckeon
+ball,2,12.5,France,Jamshid Nasiri,C Roberts,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,12.6,France,Jamshid Nasiri,C Roberts,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,13.1,France,Jamshid Nasiri,C Roberts,Sheraz Sheikh,2,0,,,,,,"",""
+ball,2,13.2,France,Jamshid Nasiri,C Roberts,Sheraz Sheikh,0,0,,,,,,run out,Jamshid Nasiri
+ball,2,13.3,France,L Smith,C Roberts,Sheraz Sheikh,2,0,,,,,,"",""
+ball,2,13.4,France,L Smith,C Roberts,Sheraz Sheikh,0,0,,,,,,caught,L Smith
+ball,2,13.5,France,Usman Khan,C Roberts,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,13.6,France,Usman Khan,C Roberts,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,14.1,France,C Roberts,Usman Khan,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,14.2,France,Usman Khan,C Roberts,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,14.3,France,Usman Khan,C Roberts,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,14.4,France,C Roberts,Usman Khan,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,14.5,France,C Roberts,Usman Khan,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,14.6,France,C Roberts,Usman Khan,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,15.1,France,C Roberts,Usman Khan,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,15.2,France,Usman Khan,C Roberts,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,15.3,France,Usman Khan,C Roberts,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,15.4,France,Usman Khan,C Roberts,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,15.5,France,Usman Khan,C Roberts,Sheraz Sheikh,0,1,1,,,,,"",""
+ball,2,15.6,France,Usman Khan,C Roberts,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,15.7,France,C Roberts,Usman Khan,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,16.1,France,Usman Khan,C Roberts,Zaki Ul Hassan,4,0,,,,,,"",""
+ball,2,16.2,France,Usman Khan,C Roberts,Zaki Ul Hassan,0,0,,,,,,caught,Usman Khan
+ball,2,16.3,France,Rahmatullah Mangal,C Roberts,Zaki Ul Hassan,2,0,,,,,,"",""
+ball,2,16.4,France,Rahmatullah Mangal,C Roberts,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,16.5,France,Rahmatullah Mangal,C Roberts,Zaki Ul Hassan,2,0,,,,,,"",""
+ball,2,16.6,France,Rahmatullah Mangal,C Roberts,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,17.1,France,Rahmatullah Mangal,C Roberts,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,17.2,France,C Roberts,Rahmatullah Mangal,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,17.3,France,Rahmatullah Mangal,C Roberts,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,17.4,France,C Roberts,Rahmatullah Mangal,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,17.5,France,Rahmatullah Mangal,C Roberts,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,17.6,France,Rahmatullah Mangal,C Roberts,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,18.1,France,C Roberts,Rahmatullah Mangal,Saber Zakhil,1,0,,,,,,"",""
+ball,2,18.2,France,Rahmatullah Mangal,C Roberts,Saber Zakhil,0,0,,,,,,"",""
+ball,2,18.3,France,Rahmatullah Mangal,C Roberts,Saber Zakhil,0,0,,,,,,bowled,Rahmatullah Mangal
+ball,2,18.4,France,Dawood Ahmadzai,C Roberts,Saber Zakhil,0,0,,,,,,caught,Dawood Ahmadzai
+ball,2,18.5,France,HA Jackson,C Roberts,Saber Zakhil,0,0,,,,,,"",""
+ball,2,18.6,France,HA Jackson,C Roberts,Saber Zakhil,0,0,,,,,,"",""
+ball,2,19.1,France,C Roberts,HA Jackson,Iftikhar Kankhel,0,0,,,,,,caught,C Roberts

@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Barbados
+info,gender,female
+info,season,2022
+info,date,2022/08/03
+info,event,Commonwealth Games Women's Cricket Competition
+info,match_number,10
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Barbados
+info,toss_decision,field
+info,umpire,Kim Cotton
+info,umpire,Shivani Mishra
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,S Redfern
+info,match_referee,SA Fritz
+info,winner,India
+info,winner_runs,100
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,H Kaur
+info,player,India,T Bhatia
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,S Rana
+info,player,India,Meghna Singh
+info,player,India,RP Yadav
+info,player,India,Renuka Singh
+info,player,Barbados,DJS Dottin
+info,player,Barbados,HK Matthews
+info,player,Barbados,Kycia A Knight
+info,player,Barbados,Kyshona A Knight
+info,player,Barbados,AA Alleyne
+info,player,Barbados,T Holder
+info,player,Barbados,A Scantlebury
+info,player,Barbados,S Carrington
+info,player,Barbados,SC Selman
+info,player,Barbados,SS Connell
+info,player,Barbados,SJ Bruce
+info,registry,people,A Scantlebury,99aec976
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,Kycia A Knight,552f664a
+info,registry,people,Kyshona A Knight,d85a1960
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,Meghna Singh,f176e421
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Carrington,9087d74c
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Rana,c4c374d9
+info,registry,people,S Redfern,5b038989
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SC Selman,c29ada99
+info,registry,people,SJ Bruce,aeccf5cc
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,T Bhatia,211dc1ce
+info,registry,people,T Holder,41fd2907
+ball,1,0.1,India,S Mandhana,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,0.2,India,S Mandhana,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,0.3,India,S Mandhana,Shafali Verma,SS Connell,4,0,,,,,,"",""
+ball,1,0.4,India,S Mandhana,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,0.5,India,S Mandhana,Shafali Verma,SS Connell,1,0,,,,,,"",""
+ball,1,0.6,India,Shafali Verma,S Mandhana,SS Connell,0,0,,,,,,"",""
+ball,1,1.1,India,S Mandhana,Shafali Verma,SJ Bruce,0,0,,,,,,"",""
+ball,1,1.2,India,S Mandhana,Shafali Verma,SJ Bruce,0,0,,,,,,lbw,S Mandhana
+ball,1,1.3,India,JI Rodrigues,Shafali Verma,SJ Bruce,0,3,3,,,,,"",""
+ball,1,1.4,India,JI Rodrigues,Shafali Verma,SJ Bruce,0,0,,,,,,"",""
+ball,1,1.5,India,JI Rodrigues,Shafali Verma,SJ Bruce,0,0,,,,,,"",""
+ball,1,1.6,India,JI Rodrigues,Shafali Verma,SJ Bruce,4,0,,,,,,"",""
+ball,1,1.7,India,JI Rodrigues,Shafali Verma,SJ Bruce,0,0,,,,,,"",""
+ball,1,2.1,India,Shafali Verma,JI Rodrigues,SS Connell,1,0,,,,,,"",""
+ball,1,2.2,India,JI Rodrigues,Shafali Verma,SS Connell,4,0,,,,,,"",""
+ball,1,2.3,India,JI Rodrigues,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,2.4,India,JI Rodrigues,Shafali Verma,SS Connell,1,0,,,,,,"",""
+ball,1,2.5,India,Shafali Verma,JI Rodrigues,SS Connell,4,0,,,,,,"",""
+ball,1,2.6,India,Shafali Verma,JI Rodrigues,SS Connell,2,0,,,,,,"",""
+ball,1,3.1,India,JI Rodrigues,Shafali Verma,SJ Bruce,1,0,,,,,,"",""
+ball,1,3.2,India,Shafali Verma,JI Rodrigues,SJ Bruce,0,0,,,,,,"",""
+ball,1,3.3,India,Shafali Verma,JI Rodrigues,SJ Bruce,4,0,,,,,,"",""
+ball,1,3.4,India,Shafali Verma,JI Rodrigues,SJ Bruce,0,1,1,,,,,"",""
+ball,1,3.5,India,Shafali Verma,JI Rodrigues,SJ Bruce,4,0,,,,,,"",""
+ball,1,3.6,India,Shafali Verma,JI Rodrigues,SJ Bruce,0,4,,,4,,,"",""
+ball,1,3.7,India,Shafali Verma,JI Rodrigues,SJ Bruce,0,0,,,,,,"",""
+ball,1,4.1,India,JI Rodrigues,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,4.2,India,JI Rodrigues,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,4.3,India,JI Rodrigues,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,4.4,India,JI Rodrigues,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,4.5,India,JI Rodrigues,Shafali Verma,SS Connell,1,0,,,,,,"",""
+ball,1,4.6,India,Shafali Verma,JI Rodrigues,SS Connell,0,0,,,,,,"",""
+ball,1,5.1,India,JI Rodrigues,Shafali Verma,AA Alleyne,1,0,,,,,,"",""
+ball,1,5.2,India,Shafali Verma,JI Rodrigues,AA Alleyne,0,0,,,,,,"",""
+ball,1,5.3,India,Shafali Verma,JI Rodrigues,AA Alleyne,0,0,,,,,,"",""
+ball,1,5.4,India,Shafali Verma,JI Rodrigues,AA Alleyne,4,0,,,,,,"",""
+ball,1,5.5,India,Shafali Verma,JI Rodrigues,AA Alleyne,0,1,1,,,,,"",""
+ball,1,5.6,India,Shafali Verma,JI Rodrigues,AA Alleyne,4,0,,,,,,"",""
+ball,1,5.7,India,Shafali Verma,JI Rodrigues,AA Alleyne,1,0,,,,,,"",""
+ball,1,6.1,India,Shafali Verma,JI Rodrigues,SS Connell,6,0,,,,,,"",""
+ball,1,6.2,India,Shafali Verma,JI Rodrigues,SS Connell,0,1,1,,,,,"",""
+ball,1,6.3,India,Shafali Verma,JI Rodrigues,SS Connell,0,0,,,,,,"",""
+ball,1,6.4,India,Shafali Verma,JI Rodrigues,SS Connell,4,0,,,,,,"",""
+ball,1,6.5,India,Shafali Verma,JI Rodrigues,SS Connell,0,1,1,,,,,"",""
+ball,1,6.6,India,Shafali Verma,JI Rodrigues,SS Connell,0,0,,,,,,"",""
+ball,1,6.7,India,Shafali Verma,JI Rodrigues,SS Connell,1,0,,,,,,"",""
+ball,1,6.8,India,JI Rodrigues,Shafali Verma,SS Connell,0,0,,,,,,"",""
+ball,1,7.1,India,Shafali Verma,JI Rodrigues,AA Alleyne,1,0,,,,,,"",""
+ball,1,7.2,India,JI Rodrigues,Shafali Verma,AA Alleyne,0,0,,,,,,"",""
+ball,1,7.3,India,JI Rodrigues,Shafali Verma,AA Alleyne,1,0,,,,,,"",""
+ball,1,7.4,India,Shafali Verma,JI Rodrigues,AA Alleyne,1,0,,,,,,"",""
+ball,1,7.5,India,JI Rodrigues,Shafali Verma,AA Alleyne,0,0,,,,,,"",""
+ball,1,7.6,India,JI Rodrigues,Shafali Verma,AA Alleyne,2,0,,,,,,"",""
+ball,1,8.1,India,Shafali Verma,JI Rodrigues,HK Matthews,0,0,,,,,,"",""
+ball,1,8.2,India,Shafali Verma,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,8.3,India,JI Rodrigues,Shafali Verma,HK Matthews,1,0,,,,,,"",""
+ball,1,8.4,India,Shafali Verma,JI Rodrigues,HK Matthews,4,0,,,,,,"",""
+ball,1,8.5,India,Shafali Verma,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,8.6,India,JI Rodrigues,Shafali Verma,HK Matthews,1,0,,,,,,run out,Shafali Verma
+ball,1,9.1,India,JI Rodrigues,H Kaur,SC Selman,0,0,,,,,,"",""
+ball,1,9.2,India,JI Rodrigues,H Kaur,SC Selman,1,0,,,,,,"",""
+ball,1,9.3,India,H Kaur,JI Rodrigues,SC Selman,0,0,,,,,,lbw,H Kaur
+ball,1,9.4,India,T Bhatia,JI Rodrigues,SC Selman,1,0,,,,,,"",""
+ball,1,9.5,India,JI Rodrigues,T Bhatia,SC Selman,0,0,,,,,,"",""
+ball,1,9.6,India,JI Rodrigues,T Bhatia,SC Selman,0,0,,,,,,"",""
+ball,1,10.1,India,T Bhatia,JI Rodrigues,HK Matthews,0,0,,,,,,"",""
+ball,1,10.2,India,T Bhatia,JI Rodrigues,HK Matthews,0,0,,,,,,"",""
+ball,1,10.3,India,T Bhatia,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,10.4,India,JI Rodrigues,T Bhatia,HK Matthews,1,0,,,,,,"",""
+ball,1,10.5,India,T Bhatia,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,10.6,India,JI Rodrigues,T Bhatia,HK Matthews,1,0,,,,,,"",""
+ball,1,11.1,India,JI Rodrigues,T Bhatia,SC Selman,1,0,,,,,,"",""
+ball,1,11.2,India,T Bhatia,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,11.3,India,T Bhatia,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,11.4,India,T Bhatia,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,11.5,India,T Bhatia,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,11.6,India,T Bhatia,JI Rodrigues,SC Selman,1,0,,,,,,"",""
+ball,1,12.1,India,T Bhatia,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,12.2,India,JI Rodrigues,T Bhatia,HK Matthews,4,0,,,,,,"",""
+ball,1,12.3,India,JI Rodrigues,T Bhatia,HK Matthews,1,0,,,,,,"",""
+ball,1,12.4,India,T Bhatia,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,12.5,India,JI Rodrigues,T Bhatia,HK Matthews,1,0,,,,,,"",""
+ball,1,12.6,India,T Bhatia,JI Rodrigues,HK Matthews,0,0,,,,,,caught,T Bhatia
+ball,1,13.1,India,DB Sharma,JI Rodrigues,SC Selman,1,0,,,,,,"",""
+ball,1,13.2,India,JI Rodrigues,DB Sharma,SC Selman,1,0,,,,,,"",""
+ball,1,13.3,India,DB Sharma,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,13.4,India,DB Sharma,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,13.5,India,DB Sharma,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,13.6,India,DB Sharma,JI Rodrigues,SC Selman,1,0,,,,,,"",""
+ball,1,14.1,India,DB Sharma,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,14.2,India,JI Rodrigues,DB Sharma,HK Matthews,1,0,,,,,,"",""
+ball,1,14.3,India,DB Sharma,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,14.4,India,JI Rodrigues,DB Sharma,HK Matthews,4,0,,,,,,"",""
+ball,1,14.5,India,JI Rodrigues,DB Sharma,HK Matthews,1,0,,,,,,"",""
+ball,1,14.6,India,DB Sharma,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,15.1,India,DB Sharma,JI Rodrigues,SC Selman,1,0,,,,,,"",""
+ball,1,15.2,India,JI Rodrigues,DB Sharma,SC Selman,6,0,,,,,,"",""
+ball,1,15.3,India,JI Rodrigues,DB Sharma,SC Selman,0,0,,,,,,"",""
+ball,1,15.4,India,JI Rodrigues,DB Sharma,SC Selman,4,0,,,,,,"",""
+ball,1,15.5,India,JI Rodrigues,DB Sharma,SC Selman,1,0,,,,,,"",""
+ball,1,15.6,India,DB Sharma,JI Rodrigues,SC Selman,0,1,1,,,,,"",""
+ball,1,15.7,India,DB Sharma,JI Rodrigues,SC Selman,0,0,,,,,,"",""
+ball,1,16.1,India,JI Rodrigues,DB Sharma,DJS Dottin,0,0,,,,,,"",""
+ball,1,16.2,India,JI Rodrigues,DB Sharma,DJS Dottin,0,2,2,,,,,"",""
+ball,1,16.3,India,DB Sharma,JI Rodrigues,DJS Dottin,0,0,,,,,,"",""
+ball,1,16.4,India,DB Sharma,JI Rodrigues,DJS Dottin,4,0,,,,,,"",""
+ball,1,16.5,India,DB Sharma,JI Rodrigues,DJS Dottin,0,0,,,,,,"",""
+ball,1,16.6,India,DB Sharma,JI Rodrigues,DJS Dottin,2,0,,,,,,"",""
+ball,1,16.7,India,DB Sharma,JI Rodrigues,DJS Dottin,0,0,,,,,,"",""
+ball,1,17.1,India,JI Rodrigues,DB Sharma,AA Alleyne,1,0,,,,,,"",""
+ball,1,17.2,India,DB Sharma,JI Rodrigues,AA Alleyne,0,0,,,,,,"",""
+ball,1,17.3,India,DB Sharma,JI Rodrigues,AA Alleyne,6,0,,,,,,"",""
+ball,1,17.4,India,DB Sharma,JI Rodrigues,AA Alleyne,2,0,,,,,,"",""
+ball,1,17.5,India,DB Sharma,JI Rodrigues,AA Alleyne,1,0,,,,,,"",""
+ball,1,17.6,India,JI Rodrigues,DB Sharma,AA Alleyne,2,0,,,,,,"",""
+ball,1,18.1,India,DB Sharma,JI Rodrigues,DJS Dottin,2,0,,,,,,"",""
+ball,1,18.2,India,DB Sharma,JI Rodrigues,DJS Dottin,1,0,,,,,,"",""
+ball,1,18.3,India,JI Rodrigues,DB Sharma,DJS Dottin,1,0,,,,,,"",""
+ball,1,18.4,India,DB Sharma,JI Rodrigues,DJS Dottin,2,0,,,,,,"",""
+ball,1,18.5,India,DB Sharma,JI Rodrigues,DJS Dottin,0,0,,,,,,"",""
+ball,1,18.6,India,DB Sharma,JI Rodrigues,DJS Dottin,1,0,,,,,,"",""
+ball,1,19.1,India,DB Sharma,JI Rodrigues,AA Alleyne,0,1,1,,,,,"",""
+ball,1,19.2,India,DB Sharma,JI Rodrigues,AA Alleyne,4,0,,,,,,"",""
+ball,1,19.3,India,DB Sharma,JI Rodrigues,AA Alleyne,2,0,,,,,,"",""
+ball,1,19.4,India,DB Sharma,JI Rodrigues,AA Alleyne,1,0,,,,,,"",""
+ball,1,19.5,India,JI Rodrigues,DB Sharma,AA Alleyne,0,1,1,,,,,"",""
+ball,1,19.6,India,JI Rodrigues,DB Sharma,AA Alleyne,1,1,,1,,,,"",""
+ball,1,19.7,India,DB Sharma,JI Rodrigues,AA Alleyne,0,1,,,,1,,"",""
+ball,1,19.8,India,JI Rodrigues,DB Sharma,AA Alleyne,2,0,,,,,,"",""
+ball,1,19.9,India,JI Rodrigues,DB Sharma,AA Alleyne,4,0,,,,,,"",""
+ball,2,0.1,Barbados,DJS Dottin,HK Matthews,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.2,Barbados,DJS Dottin,HK Matthews,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.3,Barbados,DJS Dottin,HK Matthews,Renuka Singh,0,0,,,,,,bowled,DJS Dottin
+ball,2,0.4,Barbados,Kycia A Knight,HK Matthews,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.5,Barbados,Kycia A Knight,HK Matthews,Renuka Singh,0,1,1,,,,,"",""
+ball,2,0.6,Barbados,Kycia A Knight,HK Matthews,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.7,Barbados,Kycia A Knight,HK Matthews,Renuka Singh,0,0,,,,,,"",""
+ball,2,1.1,Barbados,HK Matthews,Kycia A Knight,Meghna Singh,4,0,,,,,,"",""
+ball,2,1.2,Barbados,HK Matthews,Kycia A Knight,Meghna Singh,4,0,,,,,,"",""
+ball,2,1.3,Barbados,HK Matthews,Kycia A Knight,Meghna Singh,0,0,,,,,,"",""
+ball,2,1.4,Barbados,HK Matthews,Kycia A Knight,Meghna Singh,0,0,,,,,,"",""
+ball,2,1.5,Barbados,HK Matthews,Kycia A Knight,Meghna Singh,1,0,,,,,,"",""
+ball,2,1.6,Barbados,Kycia A Knight,HK Matthews,Meghna Singh,0,0,,,,,,"",""
+ball,2,2.1,Barbados,HK Matthews,Kycia A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,2.2,Barbados,HK Matthews,Kycia A Knight,Renuka Singh,0,0,,,,,,caught,HK Matthews
+ball,2,2.3,Barbados,Kyshona A Knight,Kycia A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,2.4,Barbados,Kyshona A Knight,Kycia A Knight,Renuka Singh,1,0,,,,,,"",""
+ball,2,2.5,Barbados,Kycia A Knight,Kyshona A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,2.6,Barbados,Kycia A Knight,Kyshona A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,3.1,Barbados,Kyshona A Knight,Kycia A Knight,DB Sharma,0,0,,,,,,"",""
+ball,2,3.2,Barbados,Kyshona A Knight,Kycia A Knight,DB Sharma,1,0,,,,,,"",""
+ball,2,3.3,Barbados,Kycia A Knight,Kyshona A Knight,DB Sharma,1,0,,,,,,"",""
+ball,2,3.4,Barbados,Kyshona A Knight,Kycia A Knight,DB Sharma,1,0,,,,,,"",""
+ball,2,3.5,Barbados,Kycia A Knight,Kyshona A Knight,DB Sharma,0,0,,,,,,"",""
+ball,2,3.6,Barbados,Kycia A Knight,Kyshona A Knight,DB Sharma,2,0,,,,,,"",""
+ball,2,4.1,Barbados,Kyshona A Knight,Kycia A Knight,Renuka Singh,3,0,,,,,,"",""
+ball,2,4.2,Barbados,Kycia A Knight,Kyshona A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,4.3,Barbados,Kycia A Knight,Kyshona A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,4.4,Barbados,Kycia A Knight,Kyshona A Knight,Renuka Singh,0,0,,,,,,bowled,Kycia A Knight
+ball,2,4.5,Barbados,AA Alleyne,Kyshona A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,4.6,Barbados,AA Alleyne,Kyshona A Knight,Renuka Singh,0,0,,,,,,bowled,AA Alleyne
+ball,2,5.1,Barbados,Kyshona A Knight,T Holder,DB Sharma,0,0,,,,,,"",""
+ball,2,5.2,Barbados,Kyshona A Knight,T Holder,DB Sharma,0,0,,,,,,"",""
+ball,2,5.3,Barbados,Kyshona A Knight,T Holder,DB Sharma,1,0,,,,,,"",""
+ball,2,5.4,Barbados,T Holder,Kyshona A Knight,DB Sharma,0,0,,,,,,"",""
+ball,2,5.5,Barbados,T Holder,Kyshona A Knight,DB Sharma,0,0,,,,,,"",""
+ball,2,5.6,Barbados,T Holder,Kyshona A Knight,DB Sharma,0,0,,,,,,"",""
+ball,2,6.1,Barbados,Kyshona A Knight,T Holder,Renuka Singh,0,0,,,,,,"",""
+ball,2,6.2,Barbados,Kyshona A Knight,T Holder,Renuka Singh,1,0,,,,,,"",""
+ball,2,6.3,Barbados,T Holder,Kyshona A Knight,Renuka Singh,1,0,,,,,,"",""
+ball,2,6.4,Barbados,Kyshona A Knight,T Holder,Renuka Singh,2,0,,,,,,"",""
+ball,2,6.5,Barbados,Kyshona A Knight,T Holder,Renuka Singh,1,0,,,,,,"",""
+ball,2,6.6,Barbados,T Holder,Kyshona A Knight,Renuka Singh,0,0,,,,,,"",""
+ball,2,7.1,Barbados,Kyshona A Knight,T Holder,P Vastrakar,0,0,,,,,,"",""
+ball,2,7.2,Barbados,Kyshona A Knight,T Holder,P Vastrakar,0,0,,,,,,"",""
+ball,2,7.3,Barbados,Kyshona A Knight,T Holder,P Vastrakar,0,0,,,,,,"",""
+ball,2,7.4,Barbados,Kyshona A Knight,T Holder,P Vastrakar,1,0,,,,,,"",""
+ball,2,7.5,Barbados,T Holder,Kyshona A Knight,P Vastrakar,1,0,,,,,,"",""
+ball,2,7.6,Barbados,Kyshona A Knight,T Holder,P Vastrakar,4,0,,,,,,"",""
+ball,2,8.1,Barbados,T Holder,Kyshona A Knight,S Rana,0,0,,,,,,"",""
+ball,2,8.2,Barbados,T Holder,Kyshona A Knight,S Rana,1,0,,,,,,"",""
+ball,2,8.3,Barbados,Kyshona A Knight,T Holder,S Rana,0,0,,,,,,"",""
+ball,2,8.4,Barbados,Kyshona A Knight,T Holder,S Rana,0,0,,,,,,bowled,Kyshona A Knight
+ball,2,8.5,Barbados,A Scantlebury,T Holder,S Rana,0,0,,,,,,"",""
+ball,2,8.6,Barbados,A Scantlebury,T Holder,S Rana,0,0,,,,,,"",""
+ball,2,9.1,Barbados,T Holder,A Scantlebury,P Vastrakar,0,0,,,,,,"",""
+ball,2,9.2,Barbados,T Holder,A Scantlebury,P Vastrakar,0,0,,,,,,"",""
+ball,2,9.3,Barbados,T Holder,A Scantlebury,P Vastrakar,0,1,,,,1,,"",""
+ball,2,9.4,Barbados,A Scantlebury,T Holder,P Vastrakar,0,1,1,,,,,"",""
+ball,2,9.5,Barbados,A Scantlebury,T Holder,P Vastrakar,0,0,,,,,,"",""
+ball,2,9.6,Barbados,A Scantlebury,T Holder,P Vastrakar,0,0,,,,,,"",""
+ball,2,9.7,Barbados,A Scantlebury,T Holder,P Vastrakar,0,0,,,,,,"",""
+ball,2,10.1,Barbados,T Holder,A Scantlebury,S Rana,0,0,,,,,,"",""
+ball,2,10.2,Barbados,T Holder,A Scantlebury,S Rana,0,0,,,,,,"",""
+ball,2,10.3,Barbados,T Holder,A Scantlebury,S Rana,1,0,,,,,,"",""
+ball,2,10.4,Barbados,A Scantlebury,T Holder,S Rana,4,0,,,,,,"",""
+ball,2,10.5,Barbados,A Scantlebury,T Holder,S Rana,0,0,,,,,,"",""
+ball,2,10.6,Barbados,A Scantlebury,T Holder,S Rana,0,0,,,,,,"",""
+ball,2,11.1,Barbados,T Holder,A Scantlebury,Meghna Singh,1,0,,,,,,"",""
+ball,2,11.2,Barbados,A Scantlebury,T Holder,Meghna Singh,0,0,,,,,,"",""
+ball,2,11.3,Barbados,A Scantlebury,T Holder,Meghna Singh,1,0,,,,,,"",""
+ball,2,11.4,Barbados,T Holder,A Scantlebury,Meghna Singh,0,0,,,,,,"",""
+ball,2,11.5,Barbados,T Holder,A Scantlebury,Meghna Singh,0,0,,,,,,"",""
+ball,2,11.6,Barbados,T Holder,A Scantlebury,Meghna Singh,0,0,,,,,,"",""
+ball,2,12.1,Barbados,A Scantlebury,T Holder,RP Yadav,0,0,,,,,,"",""
+ball,2,12.2,Barbados,A Scantlebury,T Holder,RP Yadav,1,0,,,,,,"",""
+ball,2,12.3,Barbados,T Holder,A Scantlebury,RP Yadav,0,0,,,,,,"",""
+ball,2,12.4,Barbados,T Holder,A Scantlebury,RP Yadav,0,0,,,,,,"",""
+ball,2,12.5,Barbados,T Holder,A Scantlebury,RP Yadav,1,0,,,,,,"",""
+ball,2,12.6,Barbados,A Scantlebury,T Holder,RP Yadav,1,0,,,,,,"",""
+ball,2,13.1,Barbados,A Scantlebury,T Holder,Meghna Singh,1,0,,,,,,"",""
+ball,2,13.2,Barbados,T Holder,A Scantlebury,Meghna Singh,0,0,,,,,,"",""
+ball,2,13.3,Barbados,T Holder,A Scantlebury,Meghna Singh,0,0,,,,,,"",""
+ball,2,13.4,Barbados,T Holder,A Scantlebury,Meghna Singh,0,0,,,,,,caught,T Holder
+ball,2,13.5,Barbados,S Carrington,A Scantlebury,Meghna Singh,0,0,,,,,,"",""
+ball,2,13.6,Barbados,S Carrington,A Scantlebury,Meghna Singh,0,0,,,,,,"",""
+ball,2,14.1,Barbados,A Scantlebury,S Carrington,RP Yadav,0,0,,,,,,caught,A Scantlebury
+ball,2,14.2,Barbados,SC Selman,S Carrington,RP Yadav,4,0,,,,,,"",""
+ball,2,14.3,Barbados,SC Selman,S Carrington,RP Yadav,0,0,,,,,,"",""
+ball,2,14.4,Barbados,SC Selman,S Carrington,RP Yadav,0,0,,,,,,"",""
+ball,2,14.5,Barbados,SC Selman,S Carrington,RP Yadav,1,0,,,,,,"",""
+ball,2,14.6,Barbados,S Carrington,SC Selman,RP Yadav,0,0,,,,,,"",""
+ball,2,15.1,Barbados,SC Selman,S Carrington,H Kaur,0,0,,,,,,"",""
+ball,2,15.2,Barbados,SC Selman,S Carrington,H Kaur,0,0,,,,,,"",""
+ball,2,15.3,Barbados,SC Selman,S Carrington,H Kaur,0,0,,,,,,"",""
+ball,2,15.4,Barbados,SC Selman,S Carrington,H Kaur,0,0,,,,,,"",""
+ball,2,15.5,Barbados,SC Selman,S Carrington,H Kaur,0,0,,,,,,"",""
+ball,2,15.6,Barbados,SC Selman,S Carrington,H Kaur,4,0,,,,,,"",""
+ball,2,16.1,Barbados,S Carrington,SC Selman,Shafali Verma,1,0,,,,,,"",""
+ball,2,16.2,Barbados,SC Selman,S Carrington,Shafali Verma,0,0,,,,,,"",""
+ball,2,16.3,Barbados,SC Selman,S Carrington,Shafali Verma,1,0,,,,,,"",""
+ball,2,16.4,Barbados,S Carrington,SC Selman,Shafali Verma,0,0,,,,,,"",""
+ball,2,16.5,Barbados,S Carrington,SC Selman,Shafali Verma,0,0,,,,,,"",""
+ball,2,16.6,Barbados,S Carrington,SC Selman,Shafali Verma,1,0,,,,,,"",""
+ball,2,17.1,Barbados,S Carrington,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,17.2,Barbados,S Carrington,SC Selman,H Kaur,1,0,,,,,,"",""
+ball,2,17.3,Barbados,SC Selman,S Carrington,H Kaur,1,0,,,,,,"",""
+ball,2,17.4,Barbados,S Carrington,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,17.5,Barbados,S Carrington,SC Selman,H Kaur,0,0,,,,,,caught,S Carrington
+ball,2,17.6,Barbados,SS Connell,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,18.1,Barbados,SC Selman,SS Connell,RP Yadav,1,0,,,,,,"",""
+ball,2,18.2,Barbados,SS Connell,SC Selman,RP Yadav,0,0,,,,,,"",""
+ball,2,18.3,Barbados,SS Connell,SC Selman,RP Yadav,0,0,,,,,,"",""
+ball,2,18.4,Barbados,SS Connell,SC Selman,RP Yadav,1,0,,,,,,"",""
+ball,2,18.5,Barbados,SC Selman,SS Connell,RP Yadav,0,0,,,,,,"",""
+ball,2,18.6,Barbados,SC Selman,SS Connell,RP Yadav,0,0,,,,,,"",""
+ball,2,19.1,Barbados,SS Connell,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,19.2,Barbados,SS Connell,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,19.3,Barbados,SS Connell,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,19.4,Barbados,SS Connell,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,19.5,Barbados,SS Connell,SC Selman,H Kaur,0,0,,,,,,"",""
+ball,2,19.6,Barbados,SS Connell,SC Selman,H Kaur,1,0,,,,,,"",""

@@ -1,0 +1,247 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Norway
+info,gender,male
+info,season,2023
+info,date,2023/05/20
+info,event,Nordic T20 Cup
+info,match_number,9
+info,venue,"Solvangs Park, Glostrup"
+info,city,Copenhagen
+info,toss_winner,Finland
+info,toss_decision,bat
+info,player_of_match,Raza Iqbal
+info,umpire,A From-Hansen
+info,umpire,AK Saini
+info,winner,Norway
+info,winner_wickets,7
+info,player,Finland,PF Gallagher
+info,player,Finland,Atif Rasheed
+info,player,Finland,AK Mohan
+info,player,Finland,Jordan O'Brien
+info,player,Finland,VS Padhaal
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,Amjad Sher
+info,player,Finland,Areeb Quadir
+info,player,Finland,Parveen Kumar
+info,player,Finland,Raaz Mohammad
+info,player,Finland,M Brasier
+info,player,Norway,Chaudhary Akram
+info,player,Norway,Raza Iqbal
+info,player,Norway,D Abeyrathna
+info,player,Norway,Sher Sahak
+info,player,Norway,Tafseer Ali
+info,player,Norway,Rafaqat Ali
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,Junaid Mehmood
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ali Saleem
+info,registry,people,A From-Hansen,d60640f9
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,AK Saini,894ebe7e
+info,registry,people,Ali Saleem,661e8a03
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Areeb Quadir,19845ff5
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,Chaudhary Akram,3e697d4a
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,M Brasier,fda4150a
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,PF Gallagher,8e9d3dc4
+info,registry,people,Parveen Kumar,babc65d3
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,Rafaqat Ali,b3f90695
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Tafseer Ali,b9c3ffcd
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Vinay Ravi,9c181b99
+ball,1,0.1,Finland,PF Gallagher,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,0.2,Finland,PF Gallagher,Atif Rasheed,Vinay Ravi,1,0,,,,,,"",""
+ball,1,0.3,Finland,Atif Rasheed,PF Gallagher,Vinay Ravi,0,0,,,,,,"",""
+ball,1,0.4,Finland,Atif Rasheed,PF Gallagher,Vinay Ravi,2,0,,,,,,"",""
+ball,1,0.5,Finland,Atif Rasheed,PF Gallagher,Vinay Ravi,0,1,,,,1,,"",""
+ball,1,0.6,Finland,PF Gallagher,Atif Rasheed,Vinay Ravi,1,0,,,,,,"",""
+ball,1,1.1,Finland,PF Gallagher,Atif Rasheed,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,1.2,Finland,PF Gallagher,Atif Rasheed,Qamar Mushtaque,0,1,1,,,,,"",""
+ball,1,1.3,Finland,PF Gallagher,Atif Rasheed,Qamar Mushtaque,4,0,,,,,,"",""
+ball,1,1.4,Finland,PF Gallagher,Atif Rasheed,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,1.5,Finland,Atif Rasheed,PF Gallagher,Qamar Mushtaque,2,0,,,,,,"",""
+ball,1,1.6,Finland,Atif Rasheed,PF Gallagher,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,1.7,Finland,Atif Rasheed,PF Gallagher,Qamar Mushtaque,6,0,,,,,,"",""
+ball,1,2.1,Finland,PF Gallagher,Atif Rasheed,Vinay Ravi,0,0,,,,,,caught,PF Gallagher
+ball,1,2.2,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,2.3,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,2.4,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,2.5,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,2.6,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,3.1,Finland,Atif Rasheed,AK Mohan,Rafaqat Ali,3,0,,,,,,"",""
+ball,1,3.2,Finland,AK Mohan,Atif Rasheed,Rafaqat Ali,0,1,1,,,,,"",""
+ball,1,3.3,Finland,AK Mohan,Atif Rasheed,Rafaqat Ali,0,1,1,,,,,"",""
+ball,1,3.4,Finland,AK Mohan,Atif Rasheed,Rafaqat Ali,1,0,,,,,,"",""
+ball,1,3.5,Finland,Atif Rasheed,AK Mohan,Rafaqat Ali,1,1,,1,,,,"",""
+ball,1,3.6,Finland,AK Mohan,Atif Rasheed,Rafaqat Ali,6,0,,,,,,"",""
+ball,1,3.7,Finland,AK Mohan,Atif Rasheed,Rafaqat Ali,1,0,,,,,,"",""
+ball,1,3.8,Finland,Atif Rasheed,AK Mohan,Rafaqat Ali,4,0,,,,,,"",""
+ball,1,3.9,Finland,Atif Rasheed,AK Mohan,Rafaqat Ali,6,0,,,,,,"",""
+ball,1,4.1,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,2,0,,,,,,"",""
+ball,1,4.2,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,4.3,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,4.4,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,4.5,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,4,0,,,,,,"",""
+ball,1,4.6,Finland,AK Mohan,Atif Rasheed,Vinay Ravi,0,0,,,,,,"",""
+ball,1,5.1,Finland,Atif Rasheed,AK Mohan,Sher Sahak,0,0,,,,,,"",""
+ball,1,5.2,Finland,Atif Rasheed,AK Mohan,Sher Sahak,0,0,,,,,,"",""
+ball,1,5.3,Finland,Atif Rasheed,AK Mohan,Sher Sahak,2,0,,,,,,"",""
+ball,1,5.4,Finland,Atif Rasheed,AK Mohan,Sher Sahak,2,0,,,,,,"",""
+ball,1,5.5,Finland,Atif Rasheed,AK Mohan,Sher Sahak,1,0,,,,,,"",""
+ball,1,5.6,Finland,AK Mohan,Atif Rasheed,Sher Sahak,0,0,,,,,,"",""
+ball,1,6.1,Finland,Atif Rasheed,AK Mohan,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,6.2,Finland,Atif Rasheed,AK Mohan,M Shahbaz Butt,0,0,,,,,,caught,Atif Rasheed
+ball,1,6.3,Finland,Jordan O'Brien,AK Mohan,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,6.4,Finland,Jordan O'Brien,AK Mohan,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,6.5,Finland,Jordan O'Brien,AK Mohan,M Shahbaz Butt,4,0,,,,,,"",""
+ball,1,6.6,Finland,Jordan O'Brien,AK Mohan,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,7.1,Finland,Jordan O'Brien,AK Mohan,Sher Sahak,2,0,,,,,,"",""
+ball,1,7.2,Finland,Jordan O'Brien,AK Mohan,Sher Sahak,0,0,,,,,,"",""
+ball,1,7.3,Finland,Jordan O'Brien,AK Mohan,Sher Sahak,0,0,,,,,,"",""
+ball,1,7.4,Finland,Jordan O'Brien,AK Mohan,Sher Sahak,1,0,,,,,,"",""
+ball,1,7.5,Finland,AK Mohan,Jordan O'Brien,Sher Sahak,0,0,,,,,,"",""
+ball,1,7.6,Finland,AK Mohan,Jordan O'Brien,Sher Sahak,0,0,,,,,,lbw,AK Mohan
+ball,1,8.1,Finland,Jordan O'Brien,VS Padhaal,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,8.2,Finland,Jordan O'Brien,VS Padhaal,M Shahbaz Butt,0,0,,,,,,caught,Jordan O'Brien
+ball,1,8.3,Finland,Faheem Nellancheri,VS Padhaal,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,8.4,Finland,Faheem Nellancheri,VS Padhaal,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,8.5,Finland,VS Padhaal,Faheem Nellancheri,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,8.6,Finland,VS Padhaal,Faheem Nellancheri,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,9.1,Finland,Faheem Nellancheri,VS Padhaal,Sher Sahak,0,5,5,,,,,"",""
+ball,1,9.2,Finland,Faheem Nellancheri,VS Padhaal,Sher Sahak,0,1,1,,,,,"",""
+ball,1,9.3,Finland,Faheem Nellancheri,VS Padhaal,Sher Sahak,4,0,,,,,,"",""
+ball,1,9.4,Finland,Faheem Nellancheri,VS Padhaal,Sher Sahak,0,1,1,,,,,"",""
+ball,1,9.5,Finland,Faheem Nellancheri,VS Padhaal,Sher Sahak,0,0,,,,,,bowled,Faheem Nellancheri
+ball,1,9.6,Finland,Amjad Sher,VS Padhaal,Sher Sahak,1,0,,,,,,"",""
+ball,1,9.7,Finland,VS Padhaal,Amjad Sher,Sher Sahak,0,0,,,,,,"",""
+ball,1,9.8,Finland,VS Padhaal,Amjad Sher,Sher Sahak,1,0,,,,,,"",""
+ball,1,9.9,Finland,Amjad Sher,VS Padhaal,Sher Sahak,0,0,,,,,,"",""
+ball,1,10.1,Finland,VS Padhaal,Amjad Sher,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,10.2,Finland,VS Padhaal,Amjad Sher,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,10.3,Finland,Amjad Sher,VS Padhaal,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,10.4,Finland,Amjad Sher,VS Padhaal,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,10.5,Finland,Amjad Sher,VS Padhaal,M Shahbaz Butt,0,0,,,,,,caught,Amjad Sher
+ball,1,10.6,Finland,Areeb Quadir,VS Padhaal,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,11.1,Finland,Areeb Quadir,VS Padhaal,Raza Iqbal,1,0,,,,,,"",""
+ball,1,11.2,Finland,VS Padhaal,Areeb Quadir,Raza Iqbal,0,0,,,,,,"",""
+ball,1,11.3,Finland,VS Padhaal,Areeb Quadir,Raza Iqbal,1,0,,,,,,"",""
+ball,1,11.4,Finland,Areeb Quadir,VS Padhaal,Raza Iqbal,1,0,,,,,,"",""
+ball,1,11.5,Finland,VS Padhaal,Areeb Quadir,Raza Iqbal,1,0,,,,,,"",""
+ball,1,11.6,Finland,Areeb Quadir,VS Padhaal,Raza Iqbal,1,0,,,,,,"",""
+ball,1,12.1,Finland,Areeb Quadir,VS Padhaal,M Shahbaz Butt,2,0,,,,,,"",""
+ball,1,12.2,Finland,Areeb Quadir,VS Padhaal,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,12.3,Finland,VS Padhaal,Areeb Quadir,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,12.4,Finland,Areeb Quadir,VS Padhaal,M Shahbaz Butt,3,0,,,,,,"",""
+ball,1,12.5,Finland,VS Padhaal,Areeb Quadir,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,12.6,Finland,Areeb Quadir,VS Padhaal,M Shahbaz Butt,2,0,,,,,,"",""
+ball,1,13.1,Finland,VS Padhaal,Areeb Quadir,Raza Iqbal,0,0,,,,,,"",""
+ball,1,13.2,Finland,VS Padhaal,Areeb Quadir,Raza Iqbal,1,0,,,,,,"",""
+ball,1,13.3,Finland,Areeb Quadir,VS Padhaal,Raza Iqbal,0,0,,,,,,"",""
+ball,1,13.4,Finland,Areeb Quadir,VS Padhaal,Raza Iqbal,1,0,,,,,,"",""
+ball,1,13.5,Finland,VS Padhaal,Areeb Quadir,Raza Iqbal,0,0,,,,,,caught,VS Padhaal
+ball,1,13.6,Finland,Parveen Kumar,Areeb Quadir,Raza Iqbal,1,0,,,,,,"",""
+ball,1,14.1,Finland,Parveen Kumar,Areeb Quadir,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,14.2,Finland,Parveen Kumar,Areeb Quadir,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,14.3,Finland,Areeb Quadir,Parveen Kumar,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,14.4,Finland,Parveen Kumar,Areeb Quadir,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,14.5,Finland,Parveen Kumar,Areeb Quadir,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,14.6,Finland,Parveen Kumar,Areeb Quadir,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,15.1,Finland,Parveen Kumar,Areeb Quadir,Raza Iqbal,0,0,,,,,,caught,Parveen Kumar
+ball,1,15.2,Finland,Raaz Mohammad,Areeb Quadir,Raza Iqbal,0,0,,,,,,"",""
+ball,1,15.3,Finland,Raaz Mohammad,Areeb Quadir,Raza Iqbal,0,0,,,,,,"",""
+ball,1,15.4,Finland,Raaz Mohammad,Areeb Quadir,Raza Iqbal,1,0,,,,,,"",""
+ball,1,15.5,Finland,Areeb Quadir,Raaz Mohammad,Raza Iqbal,0,0,,,,,,"",""
+ball,1,15.6,Finland,Areeb Quadir,Raaz Mohammad,Raza Iqbal,0,0,,,,,,"",""
+ball,1,16.1,Finland,Raaz Mohammad,Areeb Quadir,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,16.2,Finland,Areeb Quadir,Raaz Mohammad,Qamar Mushtaque,0,0,,,,,,bowled,Areeb Quadir
+ball,1,16.3,Finland,M Brasier,Raaz Mohammad,Qamar Mushtaque,0,0,,,,,,caught,M Brasier
+ball,2,0.1,Norway,Chaudhary Akram,Raza Iqbal,Amjad Sher,0,0,,,,,,"",""
+ball,2,0.2,Norway,Chaudhary Akram,Raza Iqbal,Amjad Sher,0,0,,,,,,"",""
+ball,2,0.3,Norway,Chaudhary Akram,Raza Iqbal,Amjad Sher,0,0,,,,,,"",""
+ball,2,0.4,Norway,Chaudhary Akram,Raza Iqbal,Amjad Sher,0,0,,,,,,"",""
+ball,2,0.5,Norway,Chaudhary Akram,Raza Iqbal,Amjad Sher,0,0,,,,,,"",""
+ball,2,0.6,Norway,Chaudhary Akram,Raza Iqbal,Amjad Sher,0,0,,,,,,"",""
+ball,2,1.1,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,0,0,,,,,,"",""
+ball,2,1.2,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,4,0,,,,,,"",""
+ball,2,1.3,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,2,0,,,,,,"",""
+ball,2,1.4,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,2,0,,,,,,"",""
+ball,2,1.5,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,1,0,,,,,,"",""
+ball,2,1.6,Norway,Chaudhary Akram,Raza Iqbal,Raaz Mohammad,4,0,,,,,,"",""
+ball,2,2.1,Norway,Raza Iqbal,Chaudhary Akram,Amjad Sher,0,1,1,,,,,"",""
+ball,2,2.2,Norway,Raza Iqbal,Chaudhary Akram,Amjad Sher,4,0,,,,,,"",""
+ball,2,2.3,Norway,Raza Iqbal,Chaudhary Akram,Amjad Sher,1,0,,,,,,"",""
+ball,2,2.4,Norway,Chaudhary Akram,Raza Iqbal,Amjad Sher,1,0,,,,,,"",""
+ball,2,2.5,Norway,Raza Iqbal,Chaudhary Akram,Amjad Sher,2,0,,,,,,"",""
+ball,2,2.6,Norway,Raza Iqbal,Chaudhary Akram,Amjad Sher,6,0,,,,,,"",""
+ball,2,2.7,Norway,Raza Iqbal,Chaudhary Akram,Amjad Sher,1,0,,,,,,"",""
+ball,2,3.1,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,0,1,1,,,,,"",""
+ball,2,3.2,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,0,0,,,,,,"",""
+ball,2,3.3,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,4,0,,,,,,"",""
+ball,2,3.4,Norway,Raza Iqbal,Chaudhary Akram,Raaz Mohammad,1,0,,,,,,"",""
+ball,2,3.5,Norway,Chaudhary Akram,Raza Iqbal,Raaz Mohammad,4,0,,,,,,"",""
+ball,2,3.6,Norway,Chaudhary Akram,Raza Iqbal,Raaz Mohammad,0,0,,,,,,"",""
+ball,2,3.7,Norway,Chaudhary Akram,Raza Iqbal,Raaz Mohammad,1,0,,,,,,"",""
+ball,2,4.1,Norway,Chaudhary Akram,Raza Iqbal,PF Gallagher,0,0,,,,,,caught,Chaudhary Akram
+ball,2,4.2,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,0,0,,,,,,"",""
+ball,2,4.3,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,0,0,,,,,,"",""
+ball,2,4.4,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,0,0,,,,,,"",""
+ball,2,4.5,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,1,0,,,,,,"",""
+ball,2,4.6,Norway,Raza Iqbal,D Abeyrathna,PF Gallagher,1,0,,,,,,"",""
+ball,2,5.1,Norway,Raza Iqbal,D Abeyrathna,Parveen Kumar,4,0,,,,,,"",""
+ball,2,5.2,Norway,Raza Iqbal,D Abeyrathna,Parveen Kumar,4,0,,,,,,"",""
+ball,2,5.3,Norway,Raza Iqbal,D Abeyrathna,Parveen Kumar,4,0,,,,,,"",""
+ball,2,5.4,Norway,Raza Iqbal,D Abeyrathna,Parveen Kumar,2,0,,,,,,"",""
+ball,2,5.5,Norway,Raza Iqbal,D Abeyrathna,Parveen Kumar,0,0,,,,,,"",""
+ball,2,5.6,Norway,Raza Iqbal,D Abeyrathna,Parveen Kumar,0,0,,,,,,"",""
+ball,2,6.1,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,1,0,,,,,,"",""
+ball,2,6.2,Norway,Raza Iqbal,D Abeyrathna,PF Gallagher,2,0,,,,,,"",""
+ball,2,6.3,Norway,Raza Iqbal,D Abeyrathna,PF Gallagher,1,0,,,,,,"",""
+ball,2,6.4,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,2,0,,,,,,"",""
+ball,2,6.5,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,4,0,,,,,,"",""
+ball,2,6.6,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,0,0,,,,,,"",""
+ball,2,7.1,Norway,Raza Iqbal,D Abeyrathna,M Brasier,0,2,2,,,,,"",""
+ball,2,7.2,Norway,D Abeyrathna,Raza Iqbal,M Brasier,4,0,,,,,,"",""
+ball,2,7.3,Norway,D Abeyrathna,Raza Iqbal,M Brasier,0,0,,,,,,"",""
+ball,2,7.4,Norway,D Abeyrathna,Raza Iqbal,M Brasier,4,0,,,,,,"",""
+ball,2,7.5,Norway,D Abeyrathna,Raza Iqbal,M Brasier,1,0,,,,,,"",""
+ball,2,7.6,Norway,Raza Iqbal,D Abeyrathna,M Brasier,0,0,,,,,,"",""
+ball,2,7.7,Norway,Raza Iqbal,D Abeyrathna,M Brasier,4,0,,,,,,"",""
+ball,2,8.1,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,0,0,,,,,,"",""
+ball,2,8.2,Norway,D Abeyrathna,Raza Iqbal,PF Gallagher,1,0,,,,,,"",""
+ball,2,8.3,Norway,Raza Iqbal,D Abeyrathna,PF Gallagher,0,0,,,,,,lbw,Raza Iqbal
+ball,2,8.4,Norway,Sher Sahak,D Abeyrathna,PF Gallagher,0,0,,,,,,"",""
+ball,2,8.5,Norway,Sher Sahak,D Abeyrathna,PF Gallagher,1,0,,,,,,"",""
+ball,2,8.6,Norway,D Abeyrathna,Sher Sahak,PF Gallagher,1,0,,,,,,"",""
+ball,2,9.1,Norway,D Abeyrathna,Sher Sahak,M Brasier,1,0,,,,,,"",""
+ball,2,9.2,Norway,Sher Sahak,D Abeyrathna,M Brasier,0,1,1,,,,,stumped,Sher Sahak
+ball,2,9.3,Norway,Tafseer Ali,D Abeyrathna,M Brasier,1,0,,,,,,"",""
+ball,2,9.4,Norway,D Abeyrathna,Tafseer Ali,M Brasier,0,3,3,,,,,"",""
+ball,2,9.5,Norway,D Abeyrathna,Tafseer Ali,M Brasier,2,0,,,,,,"",""
+ball,2,9.6,Norway,D Abeyrathna,Tafseer Ali,M Brasier,0,1,1,,,,,"",""
+ball,2,9.7,Norway,D Abeyrathna,Tafseer Ali,M Brasier,0,0,,,,,,"",""
+ball,2,9.8,Norway,D Abeyrathna,Tafseer Ali,M Brasier,1,0,,,,,,"",""
+ball,2,9.9,Norway,Tafseer Ali,D Abeyrathna,M Brasier,1,0,,,,,,"",""
+ball,2,10.1,Norway,Tafseer Ali,D Abeyrathna,PF Gallagher,0,0,,,,,,"",""
+ball,2,10.2,Norway,Tafseer Ali,D Abeyrathna,PF Gallagher,1,0,,,,,,"",""
+ball,2,10.3,Norway,D Abeyrathna,Tafseer Ali,PF Gallagher,0,0,,,,,,"",""
+ball,2,10.4,Norway,D Abeyrathna,Tafseer Ali,PF Gallagher,0,0,,,,,,"",""
+ball,2,10.5,Norway,D Abeyrathna,Tafseer Ali,PF Gallagher,1,0,,,,,,"",""
+ball,2,10.6,Norway,Tafseer Ali,D Abeyrathna,PF Gallagher,1,0,,,,,,"",""
+ball,2,11.1,Norway,Tafseer Ali,D Abeyrathna,M Brasier,0,0,,,,,,"",""
+ball,2,11.2,Norway,Tafseer Ali,D Abeyrathna,M Brasier,1,0,,,,,,"",""
+ball,2,11.3,Norway,D Abeyrathna,Tafseer Ali,M Brasier,1,0,,,,,,"",""
+ball,2,11.4,Norway,Tafseer Ali,D Abeyrathna,M Brasier,2,0,,,,,,"",""
+ball,2,11.5,Norway,Tafseer Ali,D Abeyrathna,M Brasier,4,0,,,,,,"",""

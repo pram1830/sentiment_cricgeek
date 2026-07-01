@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Seychelles
+info,gender,male
+info,season,2024/25
+info,date,2024/10/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,13
+info,venue,"Ruaraka Sports Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,Yves Cyusa
+info,umpire,F Mutizwa
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Charles Kariuki
+info,match_referee,ET Dube
+info,winner,Rwanda
+info,winner_runs,73
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,I Niyomugabo
+info,player,Rwanda,D Gumyusenge
+info,player,Rwanda,Yves Cyusa
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,I Mugisha
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,player,Seychelles,T Horpinitch
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,M Mariyappan
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,SKDT Madusanka
+info,player,Seychelles,HL Harji
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,N Krishna
+info,player,Seychelles,S Rukmal
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Gumyusenge,eeb78e0a
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,HL Harji,29663fda
+info,registry,people,I Mugisha,d3eedb51
+info,registry,people,I Niyomugabo,72bf5103
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,M Mariyappan,69cbd850
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,N Krishna,c62a0327
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SKDT Madusanka,95c2d309
+info,registry,people,SR Mohan,58533699
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,T Horpinitch,90c734f8
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,Yves Cyusa,b5aa28ce
+info,registry,people,Z Bimenyimana,ba57fb08
+ball,1,0.1,Rwanda,O Manishimwe,D Ndikubwimana,HL Harji,1,0,,,,,,"",""
+ball,1,0.2,Rwanda,D Ndikubwimana,O Manishimwe,HL Harji,1,0,,,,,,"",""
+ball,1,0.3,Rwanda,O Manishimwe,D Ndikubwimana,HL Harji,1,0,,,,,,"",""
+ball,1,0.4,Rwanda,D Ndikubwimana,O Manishimwe,HL Harji,0,0,,,,,,"",""
+ball,1,0.5,Rwanda,D Ndikubwimana,O Manishimwe,HL Harji,0,0,,,,,,"",""
+ball,1,0.6,Rwanda,D Ndikubwimana,O Manishimwe,HL Harji,0,0,,,,,,"",""
+ball,1,1.1,Rwanda,O Manishimwe,D Ndikubwimana,Jobayer Hossen,0,0,,,,,,caught,O Manishimwe
+ball,1,1.2,Rwanda,I Niyomugabo,D Ndikubwimana,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,1.3,Rwanda,I Niyomugabo,D Ndikubwimana,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,1.4,Rwanda,I Niyomugabo,D Ndikubwimana,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,1.5,Rwanda,I Niyomugabo,D Ndikubwimana,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,1.6,Rwanda,D Ndikubwimana,I Niyomugabo,Jobayer Hossen,0,0,,,,,,caught,D Ndikubwimana
+ball,1,1.7,Rwanda,D Gumyusenge,I Niyomugabo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,1.8,Rwanda,D Gumyusenge,I Niyomugabo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,2.1,Rwanda,I Niyomugabo,D Gumyusenge,HL Harji,4,0,,,,,,"",""
+ball,1,2.2,Rwanda,I Niyomugabo,D Gumyusenge,HL Harji,1,0,,,,,,"",""
+ball,1,2.3,Rwanda,D Gumyusenge,I Niyomugabo,HL Harji,0,0,,,,,,"",""
+ball,1,2.4,Rwanda,D Gumyusenge,I Niyomugabo,HL Harji,0,0,,,,,,"",""
+ball,1,2.5,Rwanda,D Gumyusenge,I Niyomugabo,HL Harji,1,0,,,,,,"",""
+ball,1,2.6,Rwanda,I Niyomugabo,D Gumyusenge,HL Harji,4,0,,,,,,"",""
+ball,1,3.1,Rwanda,D Gumyusenge,I Niyomugabo,Jobayer Hossen,0,0,,,,,,caught,D Gumyusenge
+ball,1,3.2,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,3.3,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,3.4,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,3.5,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,3.6,Rwanda,I Niyomugabo,Yves Cyusa,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,3.7,Rwanda,I Niyomugabo,Yves Cyusa,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,4.1,Rwanda,Yves Cyusa,I Niyomugabo,S Rukmal,0,1,,,,1,,"",""
+ball,1,4.2,Rwanda,I Niyomugabo,Yves Cyusa,S Rukmal,0,1,1,,,,,"",""
+ball,1,4.3,Rwanda,I Niyomugabo,Yves Cyusa,S Rukmal,0,0,,,,,,"",""
+ball,1,4.4,Rwanda,I Niyomugabo,Yves Cyusa,S Rukmal,0,0,,,,,,"",""
+ball,1,4.5,Rwanda,I Niyomugabo,Yves Cyusa,S Rukmal,1,0,,,,,,"",""
+ball,1,4.6,Rwanda,Yves Cyusa,I Niyomugabo,S Rukmal,0,1,1,,,,,"",""
+ball,1,4.7,Rwanda,Yves Cyusa,I Niyomugabo,S Rukmal,4,0,,,,,,"",""
+ball,1,4.8,Rwanda,Yves Cyusa,I Niyomugabo,S Rukmal,1,0,,,,,,"",""
+ball,1,5.1,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,5.2,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,5.3,Rwanda,I Niyomugabo,Yves Cyusa,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,5.4,Rwanda,I Niyomugabo,Yves Cyusa,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,5.5,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,5.6,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,5.7,Rwanda,Yves Cyusa,I Niyomugabo,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,6.1,Rwanda,I Niyomugabo,Yves Cyusa,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,6.2,Rwanda,Yves Cyusa,I Niyomugabo,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,6.3,Rwanda,I Niyomugabo,Yves Cyusa,SKDT Madusanka,0,0,,,,,,"",""
+ball,1,6.4,Rwanda,I Niyomugabo,Yves Cyusa,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,6.5,Rwanda,Yves Cyusa,I Niyomugabo,SKDT Madusanka,0,0,,,,,,"",""
+ball,1,6.6,Rwanda,Yves Cyusa,I Niyomugabo,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,7.1,Rwanda,Yves Cyusa,I Niyomugabo,TKP Rajapaksha,0,3,3,,,,,"",""
+ball,1,7.2,Rwanda,Yves Cyusa,I Niyomugabo,TKP Rajapaksha,2,0,,,,,,"",""
+ball,1,7.3,Rwanda,Yves Cyusa,I Niyomugabo,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,7.4,Rwanda,Yves Cyusa,I Niyomugabo,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,7.5,Rwanda,I Niyomugabo,Yves Cyusa,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,7.6,Rwanda,I Niyomugabo,Yves Cyusa,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,7.7,Rwanda,Yves Cyusa,I Niyomugabo,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,8.1,Rwanda,I Niyomugabo,Yves Cyusa,SKDT Madusanka,2,0,,,,,,"",""
+ball,1,8.2,Rwanda,I Niyomugabo,Yves Cyusa,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,8.3,Rwanda,Yves Cyusa,I Niyomugabo,SKDT Madusanka,2,0,,,,,,"",""
+ball,1,8.4,Rwanda,Yves Cyusa,I Niyomugabo,SKDT Madusanka,4,0,,,,,,"",""
+ball,1,8.5,Rwanda,Yves Cyusa,I Niyomugabo,SKDT Madusanka,4,0,,,,,,"",""
+ball,1,8.6,Rwanda,Yves Cyusa,I Niyomugabo,SKDT Madusanka,0,0,,,,,,"",""
+ball,1,9.1,Rwanda,I Niyomugabo,Yves Cyusa,TKP Rajapaksha,0,0,,,,,,run out,Yves Cyusa
+ball,1,9.2,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,4,0,,,,,,"",""
+ball,1,9.3,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,2,0,,,,,,"",""
+ball,1,9.4,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,9.5,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,9.6,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,0,1,1,,,,,"",""
+ball,1,9.7,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,10.1,Rwanda,I Niyomugabo,C Rububagumya,STRA de Silva,4,0,,,,,,"",""
+ball,1,10.2,Rwanda,I Niyomugabo,C Rububagumya,STRA de Silva,2,0,,,,,,"",""
+ball,1,10.3,Rwanda,I Niyomugabo,C Rububagumya,STRA de Silva,1,0,,,,,,"",""
+ball,1,10.4,Rwanda,C Rububagumya,I Niyomugabo,STRA de Silva,2,0,,,,,,"",""
+ball,1,10.5,Rwanda,C Rububagumya,I Niyomugabo,STRA de Silva,2,0,,,,,,"",""
+ball,1,10.6,Rwanda,C Rububagumya,I Niyomugabo,STRA de Silva,0,0,,,,,,"",""
+ball,1,11.1,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,11.2,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,11.3,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,2,0,,,,,,"",""
+ball,1,11.4,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,2,0,,,,,,"",""
+ball,1,11.5,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,11.6,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,12.1,Rwanda,C Rububagumya,I Niyomugabo,S Rukmal,0,0,,,,,,"",""
+ball,1,12.2,Rwanda,C Rububagumya,I Niyomugabo,S Rukmal,1,0,,,,,,"",""
+ball,1,12.3,Rwanda,I Niyomugabo,C Rububagumya,S Rukmal,4,0,,,,,,"",""
+ball,1,12.4,Rwanda,I Niyomugabo,C Rububagumya,S Rukmal,1,0,,,,,,"",""
+ball,1,12.5,Rwanda,C Rububagumya,I Niyomugabo,S Rukmal,0,0,,,,,,"",""
+ball,1,12.6,Rwanda,C Rububagumya,I Niyomugabo,S Rukmal,2,0,,,,,,"",""
+ball,1,13.1,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,13.2,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,13.3,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,4,0,,,,,,"",""
+ball,1,13.4,Rwanda,C Rububagumya,I Niyomugabo,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,13.5,Rwanda,I Niyomugabo,C Rububagumya,TKP Rajapaksha,0,0,,,,,,bowled,I Niyomugabo
+ball,1,13.6,Rwanda,E Rukiriza,C Rububagumya,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,14.1,Rwanda,C Rububagumya,E Rukiriza,HL Harji,0,0,,,,,,"",""
+ball,1,14.2,Rwanda,C Rububagumya,E Rukiriza,HL Harji,2,0,,,,,,"",""
+ball,1,14.3,Rwanda,C Rububagumya,E Rukiriza,HL Harji,1,0,,,,,,"",""
+ball,1,14.4,Rwanda,E Rukiriza,C Rububagumya,HL Harji,1,0,,,,,,"",""
+ball,1,14.5,Rwanda,C Rububagumya,E Rukiriza,HL Harji,4,0,,,,,,"",""
+ball,1,14.6,Rwanda,C Rububagumya,E Rukiriza,HL Harji,1,0,,,,,,"",""
+ball,1,15.1,Rwanda,C Rububagumya,E Rukiriza,S Rukmal,0,0,,,,,,"",""
+ball,1,15.2,Rwanda,C Rububagumya,E Rukiriza,S Rukmal,1,0,,,,,,"",""
+ball,1,15.3,Rwanda,E Rukiriza,C Rububagumya,S Rukmal,0,0,,,,,,"",""
+ball,1,15.4,Rwanda,E Rukiriza,C Rububagumya,S Rukmal,1,0,,,,,,"",""
+ball,1,15.5,Rwanda,C Rububagumya,E Rukiriza,S Rukmal,4,0,,,,,,"",""
+ball,1,15.6,Rwanda,C Rububagumya,E Rukiriza,S Rukmal,0,1,1,,,,,"",""
+ball,1,15.7,Rwanda,C Rububagumya,E Rukiriza,S Rukmal,0,0,,,,,,"",""
+ball,1,16.1,Rwanda,E Rukiriza,C Rububagumya,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,16.2,Rwanda,C Rububagumya,E Rukiriza,SKDT Madusanka,0,0,,,,,,"",""
+ball,1,16.3,Rwanda,C Rububagumya,E Rukiriza,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,16.4,Rwanda,E Rukiriza,C Rububagumya,SKDT Madusanka,2,0,,,,,,"",""
+ball,1,16.5,Rwanda,E Rukiriza,C Rububagumya,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,16.6,Rwanda,C Rububagumya,E Rukiriza,SKDT Madusanka,0,0,,,,,,lbw,C Rububagumya
+ball,1,17.1,Rwanda,E Rukiriza,Muhammad Nadir,S Rukmal,1,0,,,,,,"",""
+ball,1,17.2,Rwanda,Muhammad Nadir,E Rukiriza,S Rukmal,1,0,,,,,,"",""
+ball,1,17.3,Rwanda,E Rukiriza,Muhammad Nadir,S Rukmal,1,0,,,,,,"",""
+ball,1,17.4,Rwanda,Muhammad Nadir,E Rukiriza,S Rukmal,1,0,,,,,,"",""
+ball,1,17.5,Rwanda,E Rukiriza,Muhammad Nadir,S Rukmal,0,0,,,,,,caught,E Rukiriza
+ball,1,17.6,Rwanda,I Mugisha,Muhammad Nadir,S Rukmal,0,0,,,,,,"",""
+ball,1,18.1,Rwanda,Muhammad Nadir,I Mugisha,SKDT Madusanka,0,0,,,,,,"",""
+ball,1,18.2,Rwanda,Muhammad Nadir,I Mugisha,SKDT Madusanka,0,0,,,,,,"",""
+ball,1,18.3,Rwanda,Muhammad Nadir,I Mugisha,SKDT Madusanka,6,0,,,,,,"",""
+ball,1,18.4,Rwanda,Muhammad Nadir,I Mugisha,SKDT Madusanka,1,0,,,,,,"",""
+ball,1,18.5,Rwanda,I Mugisha,Muhammad Nadir,SKDT Madusanka,0,0,,,,,,"",""
+ball,1,18.6,Rwanda,I Mugisha,Muhammad Nadir,SKDT Madusanka,4,0,,,,,,"",""
+ball,1,19.1,Rwanda,Muhammad Nadir,I Mugisha,Jobayer Hossen,3,0,,,,,,"",""
+ball,1,19.2,Rwanda,I Mugisha,Muhammad Nadir,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,19.3,Rwanda,Muhammad Nadir,I Mugisha,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,19.4,Rwanda,Muhammad Nadir,I Mugisha,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,19.5,Rwanda,I Mugisha,Muhammad Nadir,Jobayer Hossen,0,0,,,,,,caught,I Mugisha
+ball,1,19.6,Rwanda,Z Bimenyimana,Muhammad Nadir,Jobayer Hossen,0,0,,,,,,bowled,Z Bimenyimana
+ball,2,0.1,Seychelles,T Horpinitch,TKP Rajapaksha,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,0.2,Seychelles,T Horpinitch,TKP Rajapaksha,Z Bimenyimana,4,0,,,,,,"",""
+ball,2,0.3,Seychelles,T Horpinitch,TKP Rajapaksha,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,0.4,Seychelles,T Horpinitch,TKP Rajapaksha,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,0.5,Seychelles,T Horpinitch,TKP Rajapaksha,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,0.6,Seychelles,T Horpinitch,TKP Rajapaksha,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,1.1,Seychelles,TKP Rajapaksha,T Horpinitch,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,1.2,Seychelles,TKP Rajapaksha,T Horpinitch,Muhammad Nadir,0,0,,,,,,caught,TKP Rajapaksha
+ball,2,1.3,Seychelles,M Mariyappan,T Horpinitch,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,1.4,Seychelles,M Mariyappan,T Horpinitch,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,1.5,Seychelles,M Mariyappan,T Horpinitch,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,1.6,Seychelles,M Mariyappan,T Horpinitch,Muhammad Nadir,1,0,,,,,,"",""
+ball,2,2.1,Seychelles,M Mariyappan,T Horpinitch,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,2.2,Seychelles,M Mariyappan,T Horpinitch,Z Bimenyimana,1,0,,,,,,"",""
+ball,2,2.3,Seychelles,T Horpinitch,M Mariyappan,Z Bimenyimana,0,0,,,,,,bowled,T Horpinitch
+ball,2,2.4,Seychelles,Mazharul Islam,M Mariyappan,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,2.5,Seychelles,Mazharul Islam,M Mariyappan,Z Bimenyimana,0,0,,,,,,"",""
+ball,2,2.6,Seychelles,Mazharul Islam,M Mariyappan,Z Bimenyimana,1,0,,,,,,"",""
+ball,2,3.1,Seychelles,Mazharul Islam,M Mariyappan,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,3.2,Seychelles,Mazharul Islam,M Mariyappan,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,3.3,Seychelles,Mazharul Islam,M Mariyappan,Muhammad Nadir,2,0,,,,,,"",""
+ball,2,3.4,Seychelles,Mazharul Islam,M Mariyappan,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,3.5,Seychelles,Mazharul Islam,M Mariyappan,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,3.6,Seychelles,Mazharul Islam,M Mariyappan,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,4.1,Seychelles,M Mariyappan,Mazharul Islam,I Ntirenganya,4,0,,,,,,"",""
+ball,2,4.2,Seychelles,M Mariyappan,Mazharul Islam,I Ntirenganya,1,0,,,,,,"",""
+ball,2,4.3,Seychelles,Mazharul Islam,M Mariyappan,I Ntirenganya,0,1,1,,,,,"",""
+ball,2,4.4,Seychelles,Mazharul Islam,M Mariyappan,I Ntirenganya,1,0,,,,,,"",""
+ball,2,4.5,Seychelles,M Mariyappan,Mazharul Islam,I Ntirenganya,1,0,,,,,,"",""
+ball,2,4.6,Seychelles,Mazharul Islam,M Mariyappan,I Ntirenganya,4,0,,,,,,"",""
+ball,2,4.7,Seychelles,Mazharul Islam,M Mariyappan,I Ntirenganya,0,0,,,,,,"",""
+ball,2,5.1,Seychelles,M Mariyappan,Mazharul Islam,I Mugisha,0,0,,,,,,"",""
+ball,2,5.2,Seychelles,M Mariyappan,Mazharul Islam,I Mugisha,1,0,,,,,,"",""
+ball,2,5.3,Seychelles,Mazharul Islam,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,5.4,Seychelles,Mazharul Islam,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,5.5,Seychelles,Mazharul Islam,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,5.6,Seychelles,Mazharul Islam,M Mariyappan,I Mugisha,0,0,,,,,,bowled,Mazharul Islam
+ball,2,6.1,Seychelles,M Mariyappan,SKDT Madusanka,E Rukiriza,0,0,,,,,,"",""
+ball,2,6.2,Seychelles,M Mariyappan,SKDT Madusanka,E Rukiriza,0,1,1,,,,,"",""
+ball,2,6.3,Seychelles,M Mariyappan,SKDT Madusanka,E Rukiriza,1,0,,,,,,"",""
+ball,2,6.4,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,0,0,,,,,,"",""
+ball,2,6.5,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,0,0,,,,,,"",""
+ball,2,6.6,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,1,0,,,,,,"",""
+ball,2,6.7,Seychelles,M Mariyappan,SKDT Madusanka,E Rukiriza,1,0,,,,,,"",""
+ball,2,7.1,Seychelles,M Mariyappan,SKDT Madusanka,I Mugisha,1,0,,,,,,"",""
+ball,2,7.2,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,7.3,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,7.4,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,7.5,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,7.6,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,1,0,,,,,,"",""
+ball,2,8.1,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,0,0,,,,,,"",""
+ball,2,8.2,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,4,0,,,,,,"",""
+ball,2,8.3,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,0,0,,,,,,"",""
+ball,2,8.4,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,0,0,,,,,,"",""
+ball,2,8.5,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,0,0,,,,,,"",""
+ball,2,8.6,Seychelles,SKDT Madusanka,M Mariyappan,E Rukiriza,0,0,,,,,,"",""
+ball,2,9.1,Seychelles,M Mariyappan,SKDT Madusanka,I Mugisha,2,0,,,,,,"",""
+ball,2,9.2,Seychelles,M Mariyappan,SKDT Madusanka,I Mugisha,1,0,,,,,,"",""
+ball,2,9.3,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,1,0,,,,,,"",""
+ball,2,9.4,Seychelles,M Mariyappan,SKDT Madusanka,I Mugisha,1,0,,,,,,"",""
+ball,2,9.5,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,9.6,Seychelles,SKDT Madusanka,M Mariyappan,I Mugisha,0,0,,,,,,"",""
+ball,2,10.1,Seychelles,M Mariyappan,SKDT Madusanka,E Rukiriza,0,1,1,,,,,"",""
+ball,2,10.2,Seychelles,M Mariyappan,SKDT Madusanka,E Rukiriza,0,0,,,,,,"",""
+ball,2,10.3,Seychelles,M Mariyappan,SKDT Madusanka,E Rukiriza,0,0,,,,,,stumped,M Mariyappan
+ball,2,10.4,Seychelles,HL Harji,SKDT Madusanka,E Rukiriza,4,0,,,,,,"",""
+ball,2,10.5,Seychelles,HL Harji,SKDT Madusanka,E Rukiriza,0,0,,,,,,"",""
+ball,2,10.6,Seychelles,HL Harji,SKDT Madusanka,E Rukiriza,0,0,,,,,,caught,HL Harji
+ball,2,10.7,Seychelles,STRA de Silva,SKDT Madusanka,E Rukiriza,1,0,,,,,,"",""
+ball,2,11.1,Seychelles,STRA de Silva,SKDT Madusanka,I Mugisha,1,0,,,,,,"",""
+ball,2,11.2,Seychelles,SKDT Madusanka,STRA de Silva,I Mugisha,1,0,,,,,,"",""
+ball,2,11.3,Seychelles,STRA de Silva,SKDT Madusanka,I Mugisha,1,0,,,,,,"",""
+ball,2,11.4,Seychelles,SKDT Madusanka,STRA de Silva,I Mugisha,0,0,,,,,,"",""
+ball,2,11.5,Seychelles,SKDT Madusanka,STRA de Silva,I Mugisha,4,0,,,,,,"",""
+ball,2,11.6,Seychelles,SKDT Madusanka,STRA de Silva,I Mugisha,0,0,,,,,,"",""
+ball,2,12.1,Seychelles,STRA de Silva,SKDT Madusanka,E Rukiriza,0,0,,,,,,"",""
+ball,2,12.2,Seychelles,STRA de Silva,SKDT Madusanka,E Rukiriza,0,1,,,1,,,"",""
+ball,2,12.3,Seychelles,SKDT Madusanka,STRA de Silva,E Rukiriza,1,0,,,,,,"",""
+ball,2,12.4,Seychelles,STRA de Silva,SKDT Madusanka,E Rukiriza,0,0,,,,,,"",""
+ball,2,12.5,Seychelles,STRA de Silva,SKDT Madusanka,E Rukiriza,1,0,,,,,,"",""
+ball,2,12.6,Seychelles,SKDT Madusanka,STRA de Silva,E Rukiriza,0,1,1,,,,,"",""
+ball,2,12.7,Seychelles,SKDT Madusanka,STRA de Silva,E Rukiriza,1,0,,,,,,"",""
+ball,2,13.1,Seychelles,SKDT Madusanka,STRA de Silva,Muhammad Nadir,1,0,,,,,,"",""
+ball,2,13.2,Seychelles,STRA de Silva,SKDT Madusanka,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,13.3,Seychelles,STRA de Silva,SKDT Madusanka,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,13.4,Seychelles,STRA de Silva,SKDT Madusanka,Muhammad Nadir,1,0,,,,,,"",""
+ball,2,13.5,Seychelles,SKDT Madusanka,STRA de Silva,Muhammad Nadir,0,1,,1,,,,"",""
+ball,2,13.6,Seychelles,SKDT Madusanka,STRA de Silva,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,13.7,Seychelles,SKDT Madusanka,STRA de Silva,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,14.1,Seychelles,STRA de Silva,SKDT Madusanka,Yves Cyusa,1,0,,,,,,"",""
+ball,2,14.2,Seychelles,SKDT Madusanka,STRA de Silva,Yves Cyusa,1,0,,,,,,"",""
+ball,2,14.3,Seychelles,STRA de Silva,SKDT Madusanka,Yves Cyusa,0,0,,,,,,"",""
+ball,2,14.4,Seychelles,STRA de Silva,SKDT Madusanka,Yves Cyusa,0,0,,,,,,"",""
+ball,2,14.5,Seychelles,STRA de Silva,SKDT Madusanka,Yves Cyusa,0,0,,,,,,bowled,STRA de Silva
+ball,2,14.6,Seychelles,Jobayer Hossen,SKDT Madusanka,Yves Cyusa,0,0,,,,,,"",""
+ball,2,15.1,Seychelles,SKDT Madusanka,Jobayer Hossen,Muhammad Nadir,1,0,,,,,,"",""
+ball,2,15.2,Seychelles,Jobayer Hossen,SKDT Madusanka,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,15.3,Seychelles,Jobayer Hossen,SKDT Madusanka,Muhammad Nadir,2,0,,,,,,"",""
+ball,2,15.4,Seychelles,Jobayer Hossen,SKDT Madusanka,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,15.5,Seychelles,Jobayer Hossen,SKDT Madusanka,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,15.6,Seychelles,Jobayer Hossen,SKDT Madusanka,Muhammad Nadir,0,0,,,,,,"",""
+ball,2,16.1,Seychelles,SKDT Madusanka,Jobayer Hossen,Yves Cyusa,0,0,,,,,,caught,SKDT Madusanka
+ball,2,16.2,Seychelles,SR Mohan,Jobayer Hossen,Yves Cyusa,1,0,,,,,,"",""
+ball,2,16.3,Seychelles,Jobayer Hossen,SR Mohan,Yves Cyusa,0,1,,,,1,,"",""
+ball,2,16.4,Seychelles,SR Mohan,Jobayer Hossen,Yves Cyusa,0,0,,,,,,lbw,SR Mohan
+ball,2,16.5,Seychelles,N Krishna,Jobayer Hossen,Yves Cyusa,0,0,,,,,,"",""
+ball,2,16.6,Seychelles,N Krishna,Jobayer Hossen,Yves Cyusa,1,0,,,,,,"",""
+ball,2,17.1,Seychelles,N Krishna,Jobayer Hossen,I Ntirenganya,0,0,,,,,,"",""
+ball,2,17.2,Seychelles,N Krishna,Jobayer Hossen,I Ntirenganya,0,0,,,,,,"",""
+ball,2,17.3,Seychelles,N Krishna,Jobayer Hossen,I Ntirenganya,0,0,,,,,,"",""
+ball,2,17.4,Seychelles,N Krishna,Jobayer Hossen,I Ntirenganya,0,0,,,,,,"",""
+ball,2,17.5,Seychelles,N Krishna,Jobayer Hossen,I Ntirenganya,1,0,,,,,,"",""
+ball,2,17.6,Seychelles,Jobayer Hossen,N Krishna,I Ntirenganya,0,0,,,,,,"",""
+ball,2,18.1,Seychelles,N Krishna,Jobayer Hossen,Yves Cyusa,0,0,,,,,,"",""
+ball,2,18.2,Seychelles,N Krishna,Jobayer Hossen,Yves Cyusa,0,0,,,,,,"",""
+ball,2,18.3,Seychelles,N Krishna,Jobayer Hossen,Yves Cyusa,1,0,,,,,,"",""
+ball,2,18.4,Seychelles,Jobayer Hossen,N Krishna,Yves Cyusa,0,0,,,,,,"",""
+ball,2,18.5,Seychelles,Jobayer Hossen,N Krishna,Yves Cyusa,0,0,,,,,,"",""
+ball,2,18.6,Seychelles,Jobayer Hossen,N Krishna,Yves Cyusa,1,0,,,,,,"",""
+ball,2,19.1,Seychelles,Jobayer Hossen,N Krishna,I Ntirenganya,0,0,,,,,,bowled,Jobayer Hossen
+ball,2,19.2,Seychelles,S Rukmal,N Krishna,I Ntirenganya,0,0,,,,,,"",""
+ball,2,19.3,Seychelles,S Rukmal,N Krishna,I Ntirenganya,0,0,,,,,,"",""
+ball,2,19.4,Seychelles,S Rukmal,N Krishna,I Ntirenganya,0,0,,,,,,"",""
+ball,2,19.5,Seychelles,S Rukmal,N Krishna,I Ntirenganya,0,0,,,,,,"",""
+ball,2,19.6,Seychelles,S Rukmal,N Krishna,I Ntirenganya,4,0,,,,,,"",""

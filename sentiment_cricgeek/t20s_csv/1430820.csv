@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,Ireland
+info,gender,female
+info,season,2024
+info,date,2024/09/14
+info,event,England Women tour of Ireland
+info,match_number,1
+info,venue,"Castle Avenue, Dublin"
+info,city,Dublin
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,BF Smith
+info,umpire,Jonathan Kennedy
+info,umpire,Lauren Agenbag
+info,reserve_umpire,Aidan Seaver
+info,tv_umpire,R Black
+info,match_referee,Philip Thompson
+info,winner,England
+info,winner_runs,67
+info,player,England,BF Smith
+info,player,England,TT Beaumont
+info,player,England,S Smale
+info,player,England,PJ Scholfield
+info,player,England,GL Adams
+info,player,England,HJ Armitage
+info,player,England,MK Villiers
+info,player,England,C Pavely
+info,player,England,IECM Wong
+info,player,England,KL Cross
+info,player,England,M Gaur
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Paul
+info,player,Ireland,R Stokell
+info,player,Ireland,S Forbes
+info,player,Ireland,AN Kelly
+info,player,Ireland,A Canning
+info,player,Ireland,J Maguire
+info,player,Ireland,FA Sargent
+info,player,Ireland,AK Maguire
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AK Maguire,f888a374
+info,registry,people,AN Kelly,397369e0
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,C Pavely,907e5f6c
+info,registry,people,FA Sargent,fa6e2cb3
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Paul,07248d8e
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,S Forbes,5ecfab18
+info,registry,people,S Smale,3247d54e
+info,registry,people,TT Beaumont,b2664905
+ball,1,0.1,England,BF Smith,TT Beaumont,FA Sargent,0,0,,,,,,"",""
+ball,1,0.2,England,BF Smith,TT Beaumont,FA Sargent,1,0,,,,,,"",""
+ball,1,0.3,England,TT Beaumont,BF Smith,FA Sargent,0,0,,,,,,"",""
+ball,1,0.4,England,TT Beaumont,BF Smith,FA Sargent,1,0,,,,,,"",""
+ball,1,0.5,England,BF Smith,TT Beaumont,FA Sargent,4,0,,,,,,"",""
+ball,1,0.6,England,BF Smith,TT Beaumont,FA Sargent,2,0,,,,,,"",""
+ball,1,1.1,England,TT Beaumont,BF Smith,A Canning,0,0,,,,,,"",""
+ball,1,1.2,England,TT Beaumont,BF Smith,A Canning,0,2,,1,1,,,"",""
+ball,1,1.3,England,BF Smith,TT Beaumont,A Canning,1,0,,,,,,"",""
+ball,1,1.4,England,TT Beaumont,BF Smith,A Canning,1,0,,,,,,"",""
+ball,1,1.5,England,BF Smith,TT Beaumont,A Canning,4,0,,,,,,"",""
+ball,1,1.6,England,BF Smith,TT Beaumont,A Canning,0,0,,,,,,"",""
+ball,1,1.7,England,BF Smith,TT Beaumont,A Canning,1,0,,,,,,"",""
+ball,1,2.1,England,BF Smith,TT Beaumont,O Prendergast,1,0,,,,,,"",""
+ball,1,2.2,England,TT Beaumont,BF Smith,O Prendergast,0,0,,,,,,"",""
+ball,1,2.3,England,TT Beaumont,BF Smith,O Prendergast,4,0,,,,,,"",""
+ball,1,2.4,England,TT Beaumont,BF Smith,O Prendergast,1,0,,,,,,"",""
+ball,1,2.5,England,BF Smith,TT Beaumont,O Prendergast,4,0,,,,,,"",""
+ball,1,2.6,England,BF Smith,TT Beaumont,O Prendergast,1,0,,,,,,"",""
+ball,1,3.1,England,BF Smith,TT Beaumont,A Canning,0,0,,,,,,"",""
+ball,1,3.2,England,BF Smith,TT Beaumont,A Canning,0,0,,,,,,"",""
+ball,1,3.3,England,BF Smith,TT Beaumont,A Canning,4,0,,,,,,"",""
+ball,1,3.4,England,BF Smith,TT Beaumont,A Canning,0,0,,,,,,"",""
+ball,1,3.5,England,BF Smith,TT Beaumont,A Canning,4,0,,,,,,"",""
+ball,1,3.6,England,BF Smith,TT Beaumont,A Canning,1,0,,,,,,"",""
+ball,1,4.1,England,BF Smith,TT Beaumont,O Prendergast,4,0,,,,,,"",""
+ball,1,4.2,England,BF Smith,TT Beaumont,O Prendergast,4,0,,,,,,"",""
+ball,1,4.3,England,BF Smith,TT Beaumont,O Prendergast,4,0,,,,,,"",""
+ball,1,4.4,England,BF Smith,TT Beaumont,O Prendergast,4,0,,,,,,"",""
+ball,1,4.5,England,BF Smith,TT Beaumont,O Prendergast,0,0,,,,,,"",""
+ball,1,4.6,England,BF Smith,TT Beaumont,O Prendergast,4,0,,,,,,"",""
+ball,1,5.1,England,TT Beaumont,BF Smith,AN Kelly,1,0,,,,,,"",""
+ball,1,5.2,England,BF Smith,TT Beaumont,AN Kelly,4,0,,,,,,"",""
+ball,1,5.3,England,BF Smith,TT Beaumont,AN Kelly,0,0,,,,,,"",""
+ball,1,5.4,England,BF Smith,TT Beaumont,AN Kelly,0,1,1,,,,,"",""
+ball,1,5.5,England,BF Smith,TT Beaumont,AN Kelly,0,0,,,,,,"",""
+ball,1,5.6,England,BF Smith,TT Beaumont,AN Kelly,1,0,,,,,,"",""
+ball,1,5.7,England,TT Beaumont,BF Smith,AN Kelly,1,0,,,,,,"",""
+ball,1,6.1,England,TT Beaumont,BF Smith,FA Sargent,1,0,,,,,,"",""
+ball,1,6.2,England,BF Smith,TT Beaumont,FA Sargent,1,0,,,,,,"",""
+ball,1,6.3,England,TT Beaumont,BF Smith,FA Sargent,1,0,,,,,,"",""
+ball,1,6.4,England,BF Smith,TT Beaumont,FA Sargent,4,0,,,,,,"",""
+ball,1,6.5,England,BF Smith,TT Beaumont,FA Sargent,0,0,,,,,,caught,BF Smith
+ball,1,6.6,England,S Smale,TT Beaumont,FA Sargent,1,0,,,,,,"",""
+ball,1,7.1,England,S Smale,TT Beaumont,AK Maguire,1,0,,,,,,"",""
+ball,1,7.2,England,TT Beaumont,S Smale,AK Maguire,0,0,,,,,,"",""
+ball,1,7.3,England,TT Beaumont,S Smale,AK Maguire,1,0,,,,,,"",""
+ball,1,7.4,England,S Smale,TT Beaumont,AK Maguire,0,0,,,,,,"",""
+ball,1,7.5,England,S Smale,TT Beaumont,AK Maguire,0,0,,,,,,"",""
+ball,1,7.6,England,S Smale,TT Beaumont,AK Maguire,4,0,,,,,,"",""
+ball,1,8.1,England,TT Beaumont,S Smale,FA Sargent,1,0,,,,,,"",""
+ball,1,8.2,England,S Smale,TT Beaumont,FA Sargent,1,0,,,,,,"",""
+ball,1,8.3,England,TT Beaumont,S Smale,FA Sargent,1,0,,,,,,"",""
+ball,1,8.4,England,S Smale,TT Beaumont,FA Sargent,1,0,,,,,,"",""
+ball,1,8.5,England,TT Beaumont,S Smale,FA Sargent,1,0,,,,,,"",""
+ball,1,8.6,England,S Smale,TT Beaumont,FA Sargent,0,0,,,,,,"",""
+ball,1,9.1,England,TT Beaumont,S Smale,AK Maguire,1,0,,,,,,"",""
+ball,1,9.2,England,S Smale,TT Beaumont,AK Maguire,1,0,,,,,,"",""
+ball,1,9.3,England,TT Beaumont,S Smale,AK Maguire,1,0,,,,,,"",""
+ball,1,9.4,England,S Smale,TT Beaumont,AK Maguire,4,0,,,,,,"",""
+ball,1,9.5,England,S Smale,TT Beaumont,AK Maguire,4,0,,,,,,"",""
+ball,1,9.6,England,S Smale,TT Beaumont,AK Maguire,1,0,,,,,,"",""
+ball,1,10.1,England,S Smale,TT Beaumont,AN Kelly,0,0,,,,,,"",""
+ball,1,10.2,England,S Smale,TT Beaumont,AN Kelly,4,0,,,,,,"",""
+ball,1,10.3,England,S Smale,TT Beaumont,AN Kelly,1,0,,,,,,"",""
+ball,1,10.4,England,TT Beaumont,S Smale,AN Kelly,6,0,,,,,,"",""
+ball,1,10.5,England,TT Beaumont,S Smale,AN Kelly,0,0,,,,,,"",""
+ball,1,10.6,England,TT Beaumont,S Smale,AN Kelly,4,0,,,,,,"",""
+ball,1,11.1,England,S Smale,TT Beaumont,J Maguire,1,0,,,,,,"",""
+ball,1,11.2,England,TT Beaumont,S Smale,J Maguire,0,0,,,,,,bowled,TT Beaumont
+ball,1,11.3,England,PJ Scholfield,S Smale,J Maguire,1,0,,,,,,"",""
+ball,1,11.4,England,S Smale,PJ Scholfield,J Maguire,0,0,,,,,,"",""
+ball,1,11.5,England,S Smale,PJ Scholfield,J Maguire,1,0,,,,,,"",""
+ball,1,11.6,England,PJ Scholfield,S Smale,J Maguire,1,0,,,,,,"",""
+ball,1,12.1,England,PJ Scholfield,S Smale,AK Maguire,0,0,,,,,,caught,PJ Scholfield
+ball,1,12.2,England,GL Adams,S Smale,AK Maguire,1,0,,,,,,"",""
+ball,1,12.3,England,S Smale,GL Adams,AK Maguire,0,0,,,,,,stumped,S Smale
+ball,1,12.4,England,HJ Armitage,GL Adams,AK Maguire,0,0,,,,,,"",""
+ball,1,12.5,England,HJ Armitage,GL Adams,AK Maguire,0,0,,,,,,"",""
+ball,1,12.6,England,HJ Armitage,GL Adams,AK Maguire,0,0,,,,,,"",""
+ball,1,13.1,England,GL Adams,HJ Armitage,J Maguire,1,0,,,,,,"",""
+ball,1,13.2,England,HJ Armitage,GL Adams,J Maguire,2,0,,,,,,"",""
+ball,1,13.3,England,HJ Armitage,GL Adams,J Maguire,1,0,,,,,,"",""
+ball,1,13.4,England,GL Adams,HJ Armitage,J Maguire,0,0,,,,,,"",""
+ball,1,13.5,England,GL Adams,HJ Armitage,J Maguire,0,0,,,,,,"",""
+ball,1,13.6,England,GL Adams,HJ Armitage,J Maguire,1,0,,,,,,"",""
+ball,1,14.1,England,GL Adams,HJ Armitage,AK Maguire,1,0,,,,,,"",""
+ball,1,14.2,England,HJ Armitage,GL Adams,AK Maguire,1,0,,,,,,"",""
+ball,1,14.3,England,GL Adams,HJ Armitage,AK Maguire,4,0,,,,,,"",""
+ball,1,14.4,England,GL Adams,HJ Armitage,AK Maguire,1,0,,,,,,"",""
+ball,1,14.5,England,HJ Armitage,GL Adams,AK Maguire,0,0,,,,,,bowled,HJ Armitage
+ball,1,14.6,England,MK Villiers,GL Adams,AK Maguire,4,0,,,,,,"",""
+ball,1,15.1,England,GL Adams,MK Villiers,A Canning,1,0,,,,,,"",""
+ball,1,15.2,England,MK Villiers,GL Adams,A Canning,0,0,,,,,,"",""
+ball,1,15.3,England,MK Villiers,GL Adams,A Canning,1,0,,,,,,"",""
+ball,1,15.4,England,GL Adams,MK Villiers,A Canning,0,0,,,,,,"",""
+ball,1,15.5,England,GL Adams,MK Villiers,A Canning,1,0,,,,,,"",""
+ball,1,15.6,England,MK Villiers,GL Adams,A Canning,1,0,,,,,,"",""
+ball,1,16.1,England,MK Villiers,GL Adams,J Maguire,1,0,,,,,,"",""
+ball,1,16.2,England,GL Adams,MK Villiers,J Maguire,1,0,,,,,,"",""
+ball,1,16.3,England,MK Villiers,GL Adams,J Maguire,1,0,,,,,,"",""
+ball,1,16.4,England,GL Adams,MK Villiers,J Maguire,1,0,,,,,,"",""
+ball,1,16.5,England,MK Villiers,GL Adams,J Maguire,4,0,,,,,,"",""
+ball,1,16.6,England,MK Villiers,GL Adams,J Maguire,4,0,,,,,,"",""
+ball,1,17.1,England,GL Adams,MK Villiers,A Canning,2,0,,,,,,"",""
+ball,1,17.2,England,GL Adams,MK Villiers,A Canning,1,0,,,,,,"",""
+ball,1,17.3,England,MK Villiers,GL Adams,A Canning,4,0,,,,,,"",""
+ball,1,17.4,England,MK Villiers,GL Adams,A Canning,2,0,,,,,,"",""
+ball,1,17.5,England,MK Villiers,GL Adams,A Canning,4,0,,,,,,"",""
+ball,1,17.6,England,MK Villiers,GL Adams,A Canning,1,0,,,,,,"",""
+ball,1,18.1,England,MK Villiers,GL Adams,FA Sargent,4,0,,,,,,"",""
+ball,1,18.2,England,MK Villiers,GL Adams,FA Sargent,4,0,,,,,,"",""
+ball,1,18.3,England,MK Villiers,GL Adams,FA Sargent,0,0,,,,,,caught,MK Villiers
+ball,1,18.4,England,C Pavely,GL Adams,FA Sargent,0,0,,,,,,"",""
+ball,1,18.5,England,C Pavely,GL Adams,FA Sargent,1,0,,,,,,run out,C Pavely
+ball,1,18.6,England,GL Adams,IECM Wong,FA Sargent,0,0,,,,,,caught,GL Adams
+ball,1,19.1,England,IECM Wong,KL Cross,J Maguire,1,0,,,,,,"",""
+ball,1,19.2,England,KL Cross,IECM Wong,J Maguire,0,0,,,,,,bowled,KL Cross
+ball,1,19.3,England,M Gaur,IECM Wong,J Maguire,0,1,,,,1,,"",""
+ball,1,19.4,England,IECM Wong,M Gaur,J Maguire,1,0,,,,,,"",""
+ball,1,19.5,England,M Gaur,IECM Wong,J Maguire,1,0,,,,,,"",""
+ball,1,19.6,England,IECM Wong,M Gaur,J Maguire,1,0,,,,,,run out,M Gaur
+ball,2,0.1,Ireland,A Hunter,GH Lewis,M Gaur,1,0,,,,,,"",""
+ball,2,0.2,Ireland,GH Lewis,A Hunter,M Gaur,1,0,,,,,,"",""
+ball,2,0.3,Ireland,A Hunter,GH Lewis,M Gaur,0,0,,,,,,"",""
+ball,2,0.4,Ireland,A Hunter,GH Lewis,M Gaur,0,0,,,,,,caught,A Hunter
+ball,2,0.5,Ireland,O Prendergast,GH Lewis,M Gaur,0,0,,,,,,"",""
+ball,2,0.6,Ireland,O Prendergast,GH Lewis,M Gaur,1,0,,,,,,"",""
+ball,2,1.1,Ireland,O Prendergast,GH Lewis,KL Cross,4,0,,,,,,"",""
+ball,2,1.2,Ireland,O Prendergast,GH Lewis,KL Cross,0,0,,,,,,"",""
+ball,2,1.3,Ireland,O Prendergast,GH Lewis,KL Cross,1,0,,,,,,"",""
+ball,2,1.4,Ireland,GH Lewis,O Prendergast,KL Cross,0,0,,,,,,"",""
+ball,2,1.5,Ireland,GH Lewis,O Prendergast,KL Cross,0,0,,,,,,"",""
+ball,2,1.6,Ireland,GH Lewis,O Prendergast,KL Cross,0,0,,,,,,"",""
+ball,2,2.1,Ireland,O Prendergast,GH Lewis,M Gaur,1,0,,,,,,"",""
+ball,2,2.2,Ireland,GH Lewis,O Prendergast,M Gaur,0,0,,,,,,"",""
+ball,2,2.3,Ireland,GH Lewis,O Prendergast,M Gaur,0,2,,,,2,,"",""
+ball,2,2.4,Ireland,GH Lewis,O Prendergast,M Gaur,1,0,,,,,,"",""
+ball,2,2.5,Ireland,O Prendergast,GH Lewis,M Gaur,4,0,,,,,,"",""
+ball,2,2.6,Ireland,O Prendergast,GH Lewis,M Gaur,1,0,,,,,,"",""
+ball,2,3.1,Ireland,O Prendergast,GH Lewis,IECM Wong,1,0,,,,,,"",""
+ball,2,3.2,Ireland,GH Lewis,O Prendergast,IECM Wong,0,0,,,,,,bowled,GH Lewis
+ball,2,3.3,Ireland,L Paul,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,3.4,Ireland,L Paul,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,3.5,Ireland,L Paul,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,3.6,Ireland,L Paul,O Prendergast,IECM Wong,1,0,,,,,,"",""
+ball,2,4.1,Ireland,L Paul,O Prendergast,M Gaur,0,0,,,,,,"",""
+ball,2,4.2,Ireland,L Paul,O Prendergast,M Gaur,1,0,,,,,,"",""
+ball,2,4.3,Ireland,O Prendergast,L Paul,M Gaur,4,0,,,,,,"",""
+ball,2,4.4,Ireland,O Prendergast,L Paul,M Gaur,0,0,,,,,,"",""
+ball,2,4.5,Ireland,O Prendergast,L Paul,M Gaur,4,0,,,,,,"",""
+ball,2,4.6,Ireland,O Prendergast,L Paul,M Gaur,4,0,,,,,,"",""
+ball,2,5.1,Ireland,L Paul,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,5.2,Ireland,L Paul,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,5.3,Ireland,L Paul,O Prendergast,IECM Wong,0,0,,,,,,caught,L Paul
+ball,2,5.4,Ireland,R Stokell,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,5.5,Ireland,R Stokell,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,5.6,Ireland,R Stokell,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,6.1,Ireland,O Prendergast,R Stokell,C Pavely,1,0,,,,,,"",""
+ball,2,6.2,Ireland,R Stokell,O Prendergast,C Pavely,0,1,,,,1,,"",""
+ball,2,6.3,Ireland,O Prendergast,R Stokell,C Pavely,2,0,,,,,,"",""
+ball,2,6.4,Ireland,O Prendergast,R Stokell,C Pavely,1,0,,,,,,"",""
+ball,2,6.5,Ireland,R Stokell,O Prendergast,C Pavely,0,0,,,,,,caught,R Stokell
+ball,2,6.6,Ireland,S Forbes,O Prendergast,C Pavely,1,0,,,,,,"",""
+ball,2,7.1,Ireland,S Forbes,O Prendergast,GL Adams,1,0,,,,,,"",""
+ball,2,7.2,Ireland,O Prendergast,S Forbes,GL Adams,4,0,,,,,,"",""
+ball,2,7.3,Ireland,O Prendergast,S Forbes,GL Adams,2,0,,,,,,"",""
+ball,2,7.4,Ireland,O Prendergast,S Forbes,GL Adams,1,0,,,,,,"",""
+ball,2,7.5,Ireland,S Forbes,O Prendergast,GL Adams,0,0,,,,,,"",""
+ball,2,7.6,Ireland,S Forbes,O Prendergast,GL Adams,0,0,,,,,,"",""
+ball,2,8.1,Ireland,O Prendergast,S Forbes,KL Cross,0,0,,,,,,"",""
+ball,2,8.2,Ireland,O Prendergast,S Forbes,KL Cross,4,0,,,,,,"",""
+ball,2,8.3,Ireland,O Prendergast,S Forbes,KL Cross,4,0,,,,,,"",""
+ball,2,8.4,Ireland,O Prendergast,S Forbes,KL Cross,1,0,,,,,,"",""
+ball,2,8.5,Ireland,S Forbes,O Prendergast,KL Cross,0,0,,,,,,"",""
+ball,2,8.6,Ireland,S Forbes,O Prendergast,KL Cross,0,0,,,,,,stumped,S Forbes
+ball,2,9.1,Ireland,O Prendergast,AN Kelly,C Pavely,0,0,,,,,,"",""
+ball,2,9.2,Ireland,O Prendergast,AN Kelly,C Pavely,0,0,,,,,,"",""
+ball,2,9.3,Ireland,O Prendergast,AN Kelly,C Pavely,1,0,,,,,,"",""
+ball,2,9.4,Ireland,AN Kelly,O Prendergast,C Pavely,1,0,,,,,,"",""
+ball,2,9.5,Ireland,O Prendergast,AN Kelly,C Pavely,1,0,,,,,,"",""
+ball,2,9.6,Ireland,AN Kelly,O Prendergast,C Pavely,0,0,,,,,,bowled,AN Kelly
+ball,2,10.1,Ireland,O Prendergast,A Canning,IECM Wong,0,5,5,,,,,"",""
+ball,2,10.2,Ireland,O Prendergast,A Canning,IECM Wong,0,0,,,,,,"",""
+ball,2,10.3,Ireland,O Prendergast,A Canning,IECM Wong,1,0,,,,,,"",""
+ball,2,10.4,Ireland,A Canning,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,10.5,Ireland,A Canning,O Prendergast,IECM Wong,1,0,,,,,,"",""
+ball,2,10.6,Ireland,O Prendergast,A Canning,IECM Wong,1,0,,,,,,"",""
+ball,2,10.7,Ireland,A Canning,O Prendergast,IECM Wong,0,0,,,,,,"",""
+ball,2,11.1,Ireland,O Prendergast,A Canning,MK Villiers,0,0,,,,,,"",""
+ball,2,11.2,Ireland,O Prendergast,A Canning,MK Villiers,1,0,,,,,,"",""
+ball,2,11.3,Ireland,A Canning,O Prendergast,MK Villiers,0,0,,,,,,"",""
+ball,2,11.4,Ireland,A Canning,O Prendergast,MK Villiers,0,0,,,,,,"",""
+ball,2,11.5,Ireland,A Canning,O Prendergast,MK Villiers,0,0,,,,,,"",""
+ball,2,11.6,Ireland,A Canning,O Prendergast,MK Villiers,1,0,,,,,,"",""
+ball,2,12.1,Ireland,A Canning,O Prendergast,C Pavely,1,0,,,,,,"",""
+ball,2,12.2,Ireland,O Prendergast,A Canning,C Pavely,1,0,,,,,,"",""
+ball,2,12.3,Ireland,A Canning,O Prendergast,C Pavely,0,0,,,,,,"",""
+ball,2,12.4,Ireland,A Canning,O Prendergast,C Pavely,1,0,,,,,,"",""
+ball,2,12.5,Ireland,O Prendergast,A Canning,C Pavely,1,0,,,,,,"",""
+ball,2,12.6,Ireland,A Canning,O Prendergast,C Pavely,1,0,,,,,,run out,O Prendergast
+ball,2,13.1,Ireland,A Canning,J Maguire,KL Cross,2,0,,,,,,"",""
+ball,2,13.2,Ireland,A Canning,J Maguire,KL Cross,4,0,,,,,,"",""
+ball,2,13.3,Ireland,A Canning,J Maguire,KL Cross,4,0,,,,,,"",""
+ball,2,13.4,Ireland,A Canning,J Maguire,KL Cross,1,0,,,,,,"",""
+ball,2,13.5,Ireland,J Maguire,A Canning,KL Cross,1,0,,,,,,"",""
+ball,2,13.6,Ireland,A Canning,J Maguire,KL Cross,1,0,,,,,,"",""
+ball,2,14.1,Ireland,A Canning,J Maguire,MK Villiers,0,0,,,,,,"",""
+ball,2,14.2,Ireland,A Canning,J Maguire,MK Villiers,1,0,,,,,,"",""
+ball,2,14.3,Ireland,J Maguire,A Canning,MK Villiers,0,0,,,,,,lbw,J Maguire
+ball,2,14.4,Ireland,FA Sargent,A Canning,MK Villiers,2,0,,,,,,"",""
+ball,2,14.5,Ireland,FA Sargent,A Canning,MK Villiers,1,0,,,,,,"",""
+ball,2,14.6,Ireland,A Canning,FA Sargent,MK Villiers,1,0,,,,,,"",""
+ball,2,15.1,Ireland,A Canning,FA Sargent,IECM Wong,1,0,,,,,,"",""
+ball,2,15.2,Ireland,FA Sargent,A Canning,IECM Wong,0,0,,,,,,"",""
+ball,2,15.3,Ireland,FA Sargent,A Canning,IECM Wong,0,0,,,,,,"",""
+ball,2,15.4,Ireland,FA Sargent,A Canning,IECM Wong,2,0,,,,,,"",""
+ball,2,15.5,Ireland,FA Sargent,A Canning,IECM Wong,1,0,,,,,,"",""
+ball,2,15.6,Ireland,A Canning,FA Sargent,IECM Wong,0,0,,,,,,"",""
+ball,2,16.1,Ireland,FA Sargent,A Canning,C Pavely,1,0,,,,,,"",""
+ball,2,16.2,Ireland,A Canning,FA Sargent,C Pavely,1,0,,,,,,"",""
+ball,2,16.3,Ireland,FA Sargent,A Canning,C Pavely,0,1,,,1,,,"",""
+ball,2,16.4,Ireland,A Canning,FA Sargent,C Pavely,0,0,,,,,,"",""
+ball,2,16.5,Ireland,A Canning,FA Sargent,C Pavely,4,0,,,,,,"",""
+ball,2,16.6,Ireland,A Canning,FA Sargent,C Pavely,0,0,,,,,,caught and bowled,A Canning
+ball,2,17.1,Ireland,FA Sargent,AK Maguire,GL Adams,1,0,,,,,,"",""
+ball,2,17.2,Ireland,AK Maguire,FA Sargent,GL Adams,0,0,,,,,,"",""
+ball,2,17.3,Ireland,AK Maguire,FA Sargent,GL Adams,0,0,,,,,,"",""
+ball,2,17.4,Ireland,AK Maguire,FA Sargent,GL Adams,0,3,3,,,,,"",""
+ball,2,17.5,Ireland,AK Maguire,FA Sargent,GL Adams,0,0,,,,,,"",""
+ball,2,17.6,Ireland,AK Maguire,FA Sargent,GL Adams,0,0,,,,,,"",""
+ball,2,17.7,Ireland,AK Maguire,FA Sargent,GL Adams,1,0,,,,,,"",""
+ball,2,18.1,Ireland,AK Maguire,FA Sargent,MK Villiers,1,0,,,,,,"",""
+ball,2,18.2,Ireland,FA Sargent,AK Maguire,MK Villiers,1,0,,,,,,"",""
+ball,2,18.3,Ireland,AK Maguire,FA Sargent,MK Villiers,0,0,,,,,,run out,FA Sargent

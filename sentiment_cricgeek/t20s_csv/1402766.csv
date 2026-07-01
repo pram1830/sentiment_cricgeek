@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Chile
+info,gender,female
+info,season,2023/24
+info,date,2023/10/15
+info,event,Chile Women tour of Argentina
+info,match_number,3
+info,venue,San Albano
+info,city,
+info,toss_winner,Argentina
+info,toss_decision,bat
+info,umpire,A Elliott
+info,umpire,Santiago Duggan
+info,winner,Argentina
+info,winner_runs,311
+info,player,Argentina,V Vasquez
+info,player,Argentina,A Galan
+info,player,Argentina,M Castineiras
+info,player,Argentina,A Stocks
+info,player,Argentina,L Taylor
+info,player,Argentina,JC Cullen
+info,player,Argentina,C Sosa
+info,player,Argentina,M Martinez
+info,player,Argentina,Martina Quinn
+info,player,Argentina,A Prince
+info,player,Argentina,N Patron Fuentes
+info,player,Chile,Camila Valdes
+info,player,Chile,Maria Salazar
+info,player,Chile,Yadhira Nunez
+info,player,Chile,Florencia Martinez
+info,player,Chile,Esperanza Rubio
+info,player,Chile,Franchesca Moya
+info,player,Chile,Constanza Oyarce
+info,player,Chile,Constanza Vergara
+info,player,Chile,Emilia Toro
+info,player,Chile,Sofia Araya
+info,player,Chile,Sofia Mardones
+info,registry,people,A Elliott,f48d5563
+info,registry,people,A Galan,ad5165c2
+info,registry,people,A Prince,da994dd7
+info,registry,people,A Stocks,c999c416
+info,registry,people,C Sosa,b2f4cb0d
+info,registry,people,Camila Valdes,dfe8ddeb
+info,registry,people,Constanza Oyarce,9b4b9ce3
+info,registry,people,Constanza Vergara,e712a65b
+info,registry,people,Emilia Toro,777f65cd
+info,registry,people,Esperanza Rubio,ae694554
+info,registry,people,Florencia Martinez,0626d312
+info,registry,people,Franchesca Moya,dd30467d
+info,registry,people,JC Cullen,22595a2d
+info,registry,people,L Taylor,8af91a3e
+info,registry,people,M Castineiras,b9094958
+info,registry,people,M Martinez,f0ddeafb
+info,registry,people,Maria Salazar,0e4abf0c
+info,registry,people,Martina Quinn,de18edc1
+info,registry,people,N Patron Fuentes,b29923b6
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Sofia Araya,e4d4c4e0
+info,registry,people,Sofia Mardones,f4e6469b
+info,registry,people,V Vasquez,f898a2c6
+info,registry,people,Yadhira Nunez,e654fe3d
+ball,1,0.1,Argentina,V Vasquez,A Galan,Esperanza Rubio,2,0,,,,,,"",""
+ball,1,0.2,Argentina,V Vasquez,A Galan,Esperanza Rubio,2,0,,,,,,"",""
+ball,1,0.3,Argentina,V Vasquez,A Galan,Esperanza Rubio,0,0,,,,,,"",""
+ball,1,0.4,Argentina,V Vasquez,A Galan,Esperanza Rubio,0,0,,,,,,"",""
+ball,1,0.5,Argentina,V Vasquez,A Galan,Esperanza Rubio,4,0,,,,,,"",""
+ball,1,0.6,Argentina,V Vasquez,A Galan,Esperanza Rubio,0,0,,,,,,"",""
+ball,1,1.1,Argentina,A Galan,V Vasquez,Camila Valdes,1,0,,,,,,"",""
+ball,1,1.2,Argentina,V Vasquez,A Galan,Camila Valdes,1,0,,,,,,"",""
+ball,1,1.3,Argentina,A Galan,V Vasquez,Camila Valdes,0,1,1,,,,,"",""
+ball,1,1.4,Argentina,A Galan,V Vasquez,Camila Valdes,1,0,,,,,,"",""
+ball,1,1.5,Argentina,V Vasquez,A Galan,Camila Valdes,0,1,,1,,,,"",""
+ball,1,1.6,Argentina,V Vasquez,A Galan,Camila Valdes,4,0,,,,,,"",""
+ball,1,1.7,Argentina,V Vasquez,A Galan,Camila Valdes,1,0,,,,,,"",""
+ball,1,1.8,Argentina,A Galan,V Vasquez,Camila Valdes,2,0,,,,,,"",""
+ball,1,2.1,Argentina,V Vasquez,A Galan,Esperanza Rubio,1,0,,,,,,"",""
+ball,1,2.2,Argentina,A Galan,V Vasquez,Esperanza Rubio,2,0,,,,,,"",""
+ball,1,2.3,Argentina,A Galan,V Vasquez,Esperanza Rubio,1,0,,,,,,"",""
+ball,1,2.4,Argentina,V Vasquez,A Galan,Esperanza Rubio,2,0,,,,,,"",""
+ball,1,2.5,Argentina,V Vasquez,A Galan,Esperanza Rubio,2,0,,,,,,"",""
+ball,1,2.6,Argentina,V Vasquez,A Galan,Esperanza Rubio,2,1,,1,,,,"",""
+ball,1,2.7,Argentina,V Vasquez,A Galan,Esperanza Rubio,3,0,,,,,,"",""
+ball,1,3.1,Argentina,V Vasquez,A Galan,Camila Valdes,1,0,,,,,,"",""
+ball,1,3.2,Argentina,A Galan,V Vasquez,Camila Valdes,4,0,,,,,,"",""
+ball,1,3.3,Argentina,A Galan,V Vasquez,Camila Valdes,4,0,,,,,,"",""
+ball,1,3.4,Argentina,A Galan,V Vasquez,Camila Valdes,0,0,,,,,,bowled,A Galan
+ball,1,3.5,Argentina,M Castineiras,V Vasquez,Camila Valdes,4,1,,1,,,,"",""
+ball,1,3.6,Argentina,M Castineiras,V Vasquez,Camila Valdes,1,0,,,,,,"",""
+ball,1,3.7,Argentina,V Vasquez,M Castineiras,Camila Valdes,0,1,1,,,,,"",""
+ball,1,3.8,Argentina,V Vasquez,M Castineiras,Camila Valdes,3,0,,,,,,"",""
+ball,1,4.1,Argentina,V Vasquez,M Castineiras,Florencia Martinez,3,1,,1,,,,"",""
+ball,1,4.2,Argentina,M Castineiras,V Vasquez,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,4.3,Argentina,M Castineiras,V Vasquez,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,4.4,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,0,,,,,,"",""
+ball,1,4.5,Argentina,M Castineiras,V Vasquez,Florencia Martinez,2,0,,,,,,"",""
+ball,1,4.6,Argentina,M Castineiras,V Vasquez,Florencia Martinez,1,1,,1,,,,"",""
+ball,1,4.7,Argentina,V Vasquez,M Castineiras,Florencia Martinez,1,0,,,,,,"",""
+ball,1,4.8,Argentina,M Castineiras,V Vasquez,Florencia Martinez,1,1,,1,,,,"",""
+ball,1,4.9,Argentina,V Vasquez,M Castineiras,Florencia Martinez,0,0,,,,,,"",""
+ball,1,4.10,Argentina,V Vasquez,M Castineiras,Florencia Martinez,1,1,,1,,,,"",""
+ball,1,4.11,Argentina,M Castineiras,V Vasquez,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,4.12,Argentina,M Castineiras,V Vasquez,Florencia Martinez,0,0,,,,,,"",""
+ball,1,4.13,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,0,,,,,,"",""
+ball,1,5.1,Argentina,V Vasquez,M Castineiras,Sofia Mardones,0,1,,,,1,,"",""
+ball,1,5.2,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,1,1,,,,,"",""
+ball,1,5.3,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,1,1,,,,,"",""
+ball,1,5.4,Argentina,M Castineiras,V Vasquez,Sofia Mardones,3,0,,,,,,"",""
+ball,1,5.5,Argentina,V Vasquez,M Castineiras,Sofia Mardones,4,0,,,,,,"",""
+ball,1,5.6,Argentina,V Vasquez,M Castineiras,Sofia Mardones,1,0,,,,,,"",""
+ball,1,5.7,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,0,,,,,,"",""
+ball,1,5.8,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,0,,,,,,"",""
+ball,1,6.1,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,0,2,,1,1,,,"",""
+ball,1,6.2,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,4,0,,,,,,"",""
+ball,1,6.3,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,4,0,,,,,,"",""
+ball,1,6.4,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,2,0,,,,,,"",""
+ball,1,6.5,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,2,0,,,,,,"",""
+ball,1,6.6,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,1,0,,,,,,"",""
+ball,1,6.7,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,0,1,1,,,,,"",""
+ball,1,6.8,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,0,0,,,,,,"",""
+ball,1,7.1,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,1,1,,,,,"",""
+ball,1,7.2,Argentina,M Castineiras,V Vasquez,Sofia Mardones,4,0,,,,,,"",""
+ball,1,7.3,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,0,,,,,,"",""
+ball,1,7.4,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,0,,,,,,"",""
+ball,1,7.5,Argentina,M Castineiras,V Vasquez,Sofia Mardones,1,0,,,,,,"",""
+ball,1,7.6,Argentina,V Vasquez,M Castineiras,Sofia Mardones,0,0,,,,,,"",""
+ball,1,7.7,Argentina,V Vasquez,M Castineiras,Sofia Mardones,1,0,,,,,,"",""
+ball,1,8.1,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,4,0,,,,,,"",""
+ball,1,8.2,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,2,0,,,,,,"",""
+ball,1,8.3,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,0,2,2,,,,,"",""
+ball,1,8.4,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,0,0,,,,,,"",""
+ball,1,8.5,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,3,0,,,,,,"",""
+ball,1,8.6,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,4,0,,,,,,"",""
+ball,1,8.7,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,1,0,,,,,,"",""
+ball,1,9.1,Argentina,M Castineiras,V Vasquez,Constanza Vergara,4,0,,,,,,"",""
+ball,1,9.2,Argentina,M Castineiras,V Vasquez,Constanza Vergara,0,1,,1,,,,"",""
+ball,1,9.3,Argentina,M Castineiras,V Vasquez,Constanza Vergara,2,0,,,,,,"",""
+ball,1,9.4,Argentina,M Castineiras,V Vasquez,Constanza Vergara,0,2,2,,,,,"",""
+ball,1,9.5,Argentina,V Vasquez,M Castineiras,Constanza Vergara,1,0,,,,,,"",""
+ball,1,9.6,Argentina,M Castineiras,V Vasquez,Constanza Vergara,4,0,,,,,,"",""
+ball,1,9.7,Argentina,M Castineiras,V Vasquez,Constanza Vergara,4,0,,,,,,"",""
+ball,1,9.8,Argentina,M Castineiras,V Vasquez,Constanza Vergara,0,1,,1,,,,"",""
+ball,1,9.9,Argentina,M Castineiras,V Vasquez,Constanza Vergara,0,1,,1,,,,"",""
+ball,1,9.10,Argentina,M Castineiras,V Vasquez,Constanza Vergara,0,1,,1,,,,"",""
+ball,1,9.11,Argentina,M Castineiras,V Vasquez,Constanza Vergara,4,1,,1,,,,"",""
+ball,1,9.12,Argentina,M Castineiras,V Vasquez,Constanza Vergara,4,0,,,,,,"",""
+ball,1,10.1,Argentina,V Vasquez,M Castineiras,Sofia Mardones,0,2,2,,,,,"",""
+ball,1,10.2,Argentina,M Castineiras,V Vasquez,Sofia Mardones,2,0,,,,,,"",""
+ball,1,10.3,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,0,,,,,,"",""
+ball,1,10.4,Argentina,M Castineiras,V Vasquez,Sofia Mardones,2,0,,,,,,"",""
+ball,1,10.5,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,1,1,,,,,"",""
+ball,1,10.6,Argentina,M Castineiras,V Vasquez,Sofia Mardones,1,0,,,,,,"",""
+ball,1,10.7,Argentina,V Vasquez,M Castineiras,Sofia Mardones,1,0,,,,,,"",""
+ball,1,10.8,Argentina,M Castineiras,V Vasquez,Sofia Mardones,2,0,,,,,,"",""
+ball,1,11.1,Argentina,V Vasquez,M Castineiras,Florencia Martinez,0,0,,,,,,"",""
+ball,1,11.2,Argentina,V Vasquez,M Castineiras,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,11.3,Argentina,V Vasquez,M Castineiras,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,11.4,Argentina,V Vasquez,M Castineiras,Florencia Martinez,4,0,,,,,,"",""
+ball,1,11.5,Argentina,V Vasquez,M Castineiras,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,11.6,Argentina,V Vasquez,M Castineiras,Florencia Martinez,4,0,,,,,,"",""
+ball,1,11.7,Argentina,V Vasquez,M Castineiras,Florencia Martinez,1,0,,,,,,"",""
+ball,1,11.8,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,0,,,,,,"",""
+ball,1,11.9,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,0,,,,,,"",""
+ball,1,12.1,Argentina,V Vasquez,M Castineiras,Sofia Mardones,0,0,,,,,,"",""
+ball,1,12.2,Argentina,V Vasquez,M Castineiras,Sofia Mardones,3,0,,,,,,"",""
+ball,1,12.3,Argentina,M Castineiras,V Vasquez,Sofia Mardones,4,0,,,,,,"",""
+ball,1,12.4,Argentina,M Castineiras,V Vasquez,Sofia Mardones,2,0,,,,,,"",""
+ball,1,12.5,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,0,,,,,,"",""
+ball,1,12.6,Argentina,M Castineiras,V Vasquez,Sofia Mardones,0,0,,,,,,"",""
+ball,1,13.1,Argentina,V Vasquez,M Castineiras,Camila Valdes,4,0,,,,,,"",""
+ball,1,13.2,Argentina,V Vasquez,M Castineiras,Camila Valdes,1,0,,,,,,"",""
+ball,1,13.3,Argentina,M Castineiras,V Vasquez,Camila Valdes,4,0,,,,,,"",""
+ball,1,13.4,Argentina,M Castineiras,V Vasquez,Camila Valdes,4,0,,,,,,"",""
+ball,1,13.5,Argentina,M Castineiras,V Vasquez,Camila Valdes,1,0,,,,,,"",""
+ball,1,13.6,Argentina,V Vasquez,M Castineiras,Camila Valdes,2,0,,,,,,"",""
+ball,1,14.1,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,0,1,,1,,,,"",""
+ball,1,14.2,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,0,2,,1,1,,,"",""
+ball,1,14.3,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,0,1,1,,,,,"",""
+ball,1,14.4,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,4,0,,,,,,"",""
+ball,1,14.5,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,1,1,,1,,,,"",""
+ball,1,14.6,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,0,0,,,,,,"",""
+ball,1,14.7,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,4,0,,,,,,"",""
+ball,1,14.8,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,4,1,,1,,,,"",""
+ball,1,14.9,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,3,0,,,,,,"",""
+ball,1,14.10,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,2,0,,,,,,"",""
+ball,1,14.11,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,4,0,,,,,,"",""
+ball,1,15.1,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,3,0,,,,,,"",""
+ball,1,15.2,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,4,0,,,,,,"",""
+ball,1,15.3,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,0,1,,1,,,,"",""
+ball,1,15.4,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,0,0,,,,,,"",""
+ball,1,15.5,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,2,1,,1,,,,"",""
+ball,1,15.6,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,1,0,,,,,,"",""
+ball,1,15.7,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,3,0,,,,,,"",""
+ball,1,15.8,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,2,0,,,,,,"",""
+ball,1,16.1,Argentina,M Castineiras,V Vasquez,Florencia Martinez,2,0,,,,,,"",""
+ball,1,16.2,Argentina,M Castineiras,V Vasquez,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,16.3,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,0,,,,,,"",""
+ball,1,16.4,Argentina,M Castineiras,V Vasquez,Florencia Martinez,1,1,,1,,,,"",""
+ball,1,16.5,Argentina,V Vasquez,M Castineiras,Florencia Martinez,1,0,,,,,,"",""
+ball,1,16.6,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,0,,,,,,"",""
+ball,1,16.7,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,0,,,,,,"",""
+ball,1,16.8,Argentina,M Castineiras,V Vasquez,Florencia Martinez,4,1,,1,,,,"",""
+ball,1,16.9,Argentina,M Castineiras,V Vasquez,Florencia Martinez,2,1,,1,,,,"",""
+ball,1,16.10,Argentina,M Castineiras,V Vasquez,Florencia Martinez,0,1,,1,,,,"",""
+ball,1,16.11,Argentina,M Castineiras,V Vasquez,Florencia Martinez,0,0,,,,,,"",""
+ball,1,17.1,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,2,0,,,,,,"",""
+ball,1,17.2,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,1,0,,,,,,"",""
+ball,1,17.3,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,2,0,,,,,,"",""
+ball,1,17.4,Argentina,M Castineiras,V Vasquez,Constanza Oyarce,0,2,2,,,,,"",""
+ball,1,17.5,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,2,0,,,,,,"",""
+ball,1,17.6,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,4,0,,,,,,"",""
+ball,1,17.7,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,0,1,1,,,,,"",""
+ball,1,17.8,Argentina,V Vasquez,M Castineiras,Constanza Oyarce,3,0,,,,,,"",""
+ball,1,18.1,Argentina,V Vasquez,M Castineiras,Camila Valdes,2,0,,,,,,"",""
+ball,1,18.2,Argentina,V Vasquez,M Castineiras,Camila Valdes,2,0,,,,,,"",""
+ball,1,18.3,Argentina,V Vasquez,M Castineiras,Camila Valdes,2,0,,,,,,"",""
+ball,1,18.4,Argentina,V Vasquez,M Castineiras,Camila Valdes,1,0,,,,,,"",""
+ball,1,18.5,Argentina,M Castineiras,V Vasquez,Camila Valdes,0,1,1,,,,,"",""
+ball,1,18.6,Argentina,M Castineiras,V Vasquez,Camila Valdes,4,0,,,,,,"",""
+ball,1,18.7,Argentina,M Castineiras,V Vasquez,Camila Valdes,3,0,,,,,,"",""
+ball,1,19.1,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,0,1,,1,,,,"",""
+ball,1,19.2,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,2,0,,,,,,"",""
+ball,1,19.3,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,4,0,,,,,,"",""
+ball,1,19.4,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,1,0,,,,,,"",""
+ball,1,19.5,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,0,0,,,,,,"",""
+ball,1,19.6,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,0,2,,1,,1,,"",""
+ball,1,19.7,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,0,1,1,,,,,"",""
+ball,1,19.8,Argentina,M Castineiras,V Vasquez,Esperanza Rubio,0,1,,,1,,,"",""
+ball,1,19.9,Argentina,V Vasquez,M Castineiras,Esperanza Rubio,4,0,,,,,,"",""
+ball,2,0.1,Chile,Camila Valdes,Maria Salazar,C Sosa,0,0,,,,,,"",""
+ball,2,0.2,Chile,Camila Valdes,Maria Salazar,C Sosa,0,0,,,,,,"",""
+ball,2,0.3,Chile,Camila Valdes,Maria Salazar,C Sosa,0,0,,,,,,"",""
+ball,2,0.4,Chile,Camila Valdes,Maria Salazar,C Sosa,0,0,,,,,,"",""
+ball,2,0.5,Chile,Camila Valdes,Maria Salazar,C Sosa,0,0,,,,,,"",""
+ball,2,0.6,Chile,Camila Valdes,Maria Salazar,C Sosa,0,0,,,,,,"",""
+ball,2,1.1,Chile,Maria Salazar,Camila Valdes,M Martinez,0,0,,,,,,"",""
+ball,2,1.2,Chile,Maria Salazar,Camila Valdes,M Martinez,0,1,,,,1,,"",""
+ball,2,1.3,Chile,Camila Valdes,Maria Salazar,M Martinez,0,0,,,,,,"",""
+ball,2,1.4,Chile,Camila Valdes,Maria Salazar,M Martinez,0,0,,,,,,"",""
+ball,2,1.5,Chile,Camila Valdes,Maria Salazar,M Martinez,0,0,,,,,,"",""
+ball,2,1.6,Chile,Camila Valdes,Maria Salazar,M Martinez,0,0,,,,,,"",""
+ball,2,2.1,Chile,Maria Salazar,Camila Valdes,C Sosa,0,4,,,4,,,"",""
+ball,2,2.2,Chile,Maria Salazar,Camila Valdes,C Sosa,0,0,,,,,,"",""
+ball,2,2.3,Chile,Maria Salazar,Camila Valdes,C Sosa,0,0,,,,,,bowled,Maria Salazar
+ball,2,2.4,Chile,Yadhira Nunez,Camila Valdes,C Sosa,0,0,,,,,,bowled,Yadhira Nunez
+ball,2,2.5,Chile,Florencia Martinez,Camila Valdes,C Sosa,0,1,1,,,,,"",""
+ball,2,2.6,Chile,Florencia Martinez,Camila Valdes,C Sosa,0,0,,,,,,"",""
+ball,2,2.7,Chile,Florencia Martinez,Camila Valdes,C Sosa,0,0,,,,,,"",""
+ball,2,3.1,Chile,Camila Valdes,Florencia Martinez,M Martinez,0,0,,,,,,bowled,Camila Valdes
+ball,2,3.2,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,0,,,,,,"",""
+ball,2,3.3,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,0,,,,,,"",""
+ball,2,3.4,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,0,,,,,,"",""
+ball,2,3.5,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,1,1,,,,,"",""
+ball,2,3.6,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,0,,,,,,"",""
+ball,2,3.7,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,1,,1,,,,"",""
+ball,2,3.8,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,1,1,,,,,"",""
+ball,2,3.9,Chile,Esperanza Rubio,Florencia Martinez,M Martinez,0,0,,,,,,"",""
+ball,2,4.1,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,0,,,,,,"",""
+ball,2,4.2,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,1,,,,,"",""
+ball,2,4.3,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,1,,,,,"",""
+ball,2,4.4,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,1,,,,,"",""
+ball,2,4.5,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,1,,,,,"",""
+ball,2,4.6,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,0,,,,,,"",""
+ball,2,4.7,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,0,,,,,,"",""
+ball,2,4.8,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,1,,,,,"",""
+ball,2,4.9,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,,1,,,,"",""
+ball,2,4.10,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,1,,,,,"",""
+ball,2,4.11,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,0,,,,,,"",""
+ball,2,4.12,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,0,,,,,,"",""
+ball,2,4.13,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,1,,,,,"",""
+ball,2,4.14,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,1,,1,,,,"",""
+ball,2,4.15,Chile,Florencia Martinez,Esperanza Rubio,Martina Quinn,0,0,,,,,,"",""
+ball,2,5.1,Chile,Esperanza Rubio,Florencia Martinez,A Prince,0,0,,,,,,"",""
+ball,2,5.2,Chile,Esperanza Rubio,Florencia Martinez,A Prince,0,0,,,,,,"",""
+ball,2,5.3,Chile,Esperanza Rubio,Florencia Martinez,A Prince,0,0,,,,,,"",""
+ball,2,5.4,Chile,Esperanza Rubio,Florencia Martinez,A Prince,0,0,,,,,,"",""
+ball,2,5.5,Chile,Esperanza Rubio,Florencia Martinez,A Prince,0,0,,,,,,"",""
+ball,2,5.6,Chile,Esperanza Rubio,Florencia Martinez,A Prince,0,0,,,,,,"",""
+ball,2,6.1,Chile,Florencia Martinez,Esperanza Rubio,A Galan,0,0,,,,,,bowled,Florencia Martinez
+ball,2,6.2,Chile,Franchesca Moya,Esperanza Rubio,A Galan,0,0,,,,,,"",""
+ball,2,6.3,Chile,Franchesca Moya,Esperanza Rubio,A Galan,0,0,,,,,,"",""
+ball,2,6.4,Chile,Franchesca Moya,Esperanza Rubio,A Galan,0,0,,,,,,caught,Franchesca Moya
+ball,2,6.5,Chile,Constanza Oyarce,Esperanza Rubio,A Galan,0,0,,,,,,bowled,Constanza Oyarce
+ball,2,6.6,Chile,Constanza Vergara,Esperanza Rubio,A Galan,0,0,,,,,,"",""
+ball,2,7.1,Chile,Esperanza Rubio,Constanza Vergara,A Prince,0,0,,,,,,"",""
+ball,2,7.2,Chile,Esperanza Rubio,Constanza Vergara,A Prince,0,0,,,,,,caught,Esperanza Rubio
+ball,2,7.3,Chile,Emilia Toro,Constanza Vergara,A Prince,0,0,,,,,,"",""
+ball,2,7.4,Chile,Emilia Toro,Constanza Vergara,A Prince,0,1,1,,,,,"",""
+ball,2,7.5,Chile,Emilia Toro,Constanza Vergara,A Prince,0,0,,,,,,"",""
+ball,2,7.6,Chile,Emilia Toro,Constanza Vergara,A Prince,0,0,,,,,,"",""
+ball,2,7.7,Chile,Emilia Toro,Constanza Vergara,A Prince,0,1,1,,,,,"",""
+ball,2,7.8,Chile,Emilia Toro,Constanza Vergara,A Prince,0,1,1,,,,,"",""
+ball,2,7.9,Chile,Emilia Toro,Constanza Vergara,A Prince,1,0,,,,,,"",""
+ball,2,8.1,Chile,Emilia Toro,Constanza Vergara,A Galan,0,0,,,,,,"",""
+ball,2,8.2,Chile,Emilia Toro,Constanza Vergara,A Galan,0,0,,,,,,"",""
+ball,2,8.3,Chile,Emilia Toro,Constanza Vergara,A Galan,0,0,,,,,,"",""
+ball,2,8.4,Chile,Emilia Toro,Constanza Vergara,A Galan,0,0,,,,,,"",""
+ball,2,8.5,Chile,Emilia Toro,Constanza Vergara,A Galan,0,0,,,,,,"",""
+ball,2,8.6,Chile,Emilia Toro,Constanza Vergara,A Galan,0,0,,,,,,"",""
+ball,2,9.1,Chile,Constanza Vergara,Emilia Toro,L Taylor,0,0,,,,,,"",""
+ball,2,9.2,Chile,Constanza Vergara,Emilia Toro,L Taylor,0,0,,,,,,"",""
+ball,2,9.3,Chile,Constanza Vergara,Emilia Toro,L Taylor,0,0,,,,,,"",""
+ball,2,9.4,Chile,Constanza Vergara,Emilia Toro,L Taylor,0,0,,,,,,"",""
+ball,2,9.5,Chile,Constanza Vergara,Emilia Toro,L Taylor,0,0,,,,,,"",""
+ball,2,9.6,Chile,Constanza Vergara,Emilia Toro,L Taylor,0,0,,,,,,bowled,Constanza Vergara
+ball,2,10.1,Chile,Emilia Toro,Sofia Araya,A Stocks,0,0,,,,,,"",""
+ball,2,10.2,Chile,Emilia Toro,Sofia Araya,A Stocks,0,0,,,,,,"",""
+ball,2,10.3,Chile,Emilia Toro,Sofia Araya,A Stocks,0,0,,,,,,"",""
+ball,2,10.4,Chile,Emilia Toro,Sofia Araya,A Stocks,0,0,,,,,,bowled,Emilia Toro

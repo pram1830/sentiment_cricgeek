@@ -1,0 +1,341 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Philippines
+info,gender,female
+info,season,2024/25
+info,date,2024/12/24
+info,event,Philippines Women tour of Singapore
+info,match_number,2
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Philippines
+info,toss_decision,field
+info,player_of_match,E Ungerman
+info,umpire,S Ramesh
+info,umpire,KSVP Venu Madhav
+info,reserve_umpire,Seetharaman Pakirisamy
+info,match_referee,T Senthil Kumar
+info,winner,Singapore
+info,winner_runs,8
+info,player,Singapore,R Gnanaraj
+info,player,Singapore,A Tomar
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,RR Seth
+info,player,Singapore,DA Galia
+info,player,Singapore,S Merican
+info,player,Singapore,Damini Ramesh
+info,player,Singapore,E Ungerman
+info,player,Singapore,H Dhavina
+info,player,Singapore,NL Jacinta Si Ping
+info,player,Philippines,AR Valdez
+info,player,Philippines,ABY Smith
+info,player,Philippines,Angela Busa
+info,player,Philippines,KK Donovan
+info,player,Philippines,SF Sirah
+info,player,Philippines,AS Miranda
+info,player,Philippines,Karri Gullem Keen
+info,player,Philippines,Kyte Gullem Keen
+info,player,Philippines,R Castillo
+info,player,Philippines,JKD Andreano
+info,player,Philippines,JR Medianesta
+info,registry,people,A Tomar,2af2427a
+info,registry,people,ABY Smith,fcb4448f
+info,registry,people,AR Valdez,3c3f34b0
+info,registry,people,AS Miranda,283e47fa
+info,registry,people,Angela Busa,cbef5af4
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,E Ungerman,3959c505
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,JKD Andreano,757baa30
+info,registry,people,JR Medianesta,538cb58a
+info,registry,people,KK Donovan,ef2a7af4
+info,registry,people,KSVP Venu Madhav,8c7fb752
+info,registry,people,Karri Gullem Keen,bb7b014a
+info,registry,people,Kyte Gullem Keen,f3f654c2
+info,registry,people,NL Jacinta Si Ping,68c9a36f
+info,registry,people,R Castillo,716ba9ef
+info,registry,people,R Gnanaraj,6ab0658d
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,S Merican,f3f6f5a0
+info,registry,people,S Ramesh,6055237d
+info,registry,people,SF Sirah,48bd237f
+info,registry,people,Seetharaman Pakirisamy,61a3ec23
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,T Senthil Kumar,961ddfac
+info,registry,people,Vinu Kumar,3775b9f9
+ball,1,0.1,Singapore,R Gnanaraj,A Tomar,KK Donovan,0,2,2,,,,,"",""
+ball,1,0.2,Singapore,A Tomar,R Gnanaraj,KK Donovan,0,0,,,,,,"",""
+ball,1,0.3,Singapore,A Tomar,R Gnanaraj,KK Donovan,0,0,,,,,,"",""
+ball,1,0.4,Singapore,A Tomar,R Gnanaraj,KK Donovan,0,1,,,1,,,"",""
+ball,1,0.5,Singapore,R Gnanaraj,A Tomar,KK Donovan,0,0,,,,,,"",""
+ball,1,0.6,Singapore,R Gnanaraj,A Tomar,KK Donovan,1,0,,,,,,"",""
+ball,1,0.7,Singapore,A Tomar,R Gnanaraj,KK Donovan,1,0,,,,,,"",""
+ball,1,1.1,Singapore,A Tomar,R Gnanaraj,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,1.2,Singapore,R Gnanaraj,A Tomar,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,1.3,Singapore,R Gnanaraj,A Tomar,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,1.4,Singapore,A Tomar,R Gnanaraj,Karri Gullem Keen,0,1,1,,,,,"",""
+ball,1,1.5,Singapore,A Tomar,R Gnanaraj,Karri Gullem Keen,0,0,,,,,,caught,A Tomar
+ball,1,1.6,Singapore,Vinu Kumar,R Gnanaraj,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,1.7,Singapore,Vinu Kumar,R Gnanaraj,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,2.1,Singapore,Vinu Kumar,R Gnanaraj,KK Donovan,1,0,,,,,,"",""
+ball,1,2.2,Singapore,R Gnanaraj,Vinu Kumar,KK Donovan,0,0,,,,,,"",""
+ball,1,2.3,Singapore,R Gnanaraj,Vinu Kumar,KK Donovan,0,0,,,,,,"",""
+ball,1,2.4,Singapore,R Gnanaraj,Vinu Kumar,KK Donovan,0,0,,,,,,"",""
+ball,1,2.5,Singapore,R Gnanaraj,Vinu Kumar,KK Donovan,2,0,,,,,,"",""
+ball,1,2.6,Singapore,R Gnanaraj,Vinu Kumar,KK Donovan,0,1,,,1,,,"",""
+ball,1,3.1,Singapore,R Gnanaraj,Vinu Kumar,Karri Gullem Keen,0,0,,,,,,caught,R Gnanaraj
+ball,1,3.2,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,3.3,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,3.4,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,3.5,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,0,1,,,1,,,"",""
+ball,1,3.6,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,4,0,,,,,,"",""
+ball,1,4.1,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,1,1,,,,,"",""
+ball,1,4.2,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,4.3,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,2,2,,,,,"",""
+ball,1,4.4,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,1,0,,,,,,"",""
+ball,1,4.5,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,4,0,,,,,,"",""
+ball,1,4.6,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,4.7,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,4.8,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,5.1,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,1,0,,,,,,"",""
+ball,1,5.2,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,1,0,,,,,,"",""
+ball,1,5.3,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,0,0,,,,,,"",""
+ball,1,5.4,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,0,0,,,,,,"",""
+ball,1,5.5,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,3,0,,,,,,"",""
+ball,1,5.6,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,1,0,,,,,,"",""
+ball,1,6.1,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,1,0,,,,,,"",""
+ball,1,6.2,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,1,0,,,,,,"",""
+ball,1,6.3,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,2,0,,,,,,"",""
+ball,1,6.4,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,6.5,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,1,1,,,,,"",""
+ball,1,6.6,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,6.7,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,7.1,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,1,0,,,,,,"",""
+ball,1,7.2,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,0,1,1,,,,,"",""
+ball,1,7.3,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,0,0,,,,,,"",""
+ball,1,7.4,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,1,0,,,,,,"",""
+ball,1,7.5,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,1,0,,,,,,"",""
+ball,1,7.6,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,2,0,,,,,,"",""
+ball,1,7.7,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,0,0,,,,,,"",""
+ball,1,8.1,Singapore,Shafina Mahesh,Vinu Kumar,R Castillo,0,1,1,,,,,"",""
+ball,1,8.2,Singapore,Shafina Mahesh,Vinu Kumar,R Castillo,0,1,1,,,,,"",""
+ball,1,8.3,Singapore,Shafina Mahesh,Vinu Kumar,R Castillo,1,0,,,,,,"",""
+ball,1,8.4,Singapore,Vinu Kumar,Shafina Mahesh,R Castillo,1,0,,,,,,"",""
+ball,1,8.5,Singapore,Shafina Mahesh,Vinu Kumar,R Castillo,1,0,,,,,,"",""
+ball,1,8.6,Singapore,Vinu Kumar,Shafina Mahesh,R Castillo,0,0,,,,,,"",""
+ball,1,8.7,Singapore,Vinu Kumar,Shafina Mahesh,R Castillo,0,1,1,,,,,"",""
+ball,1,8.8,Singapore,Vinu Kumar,Shafina Mahesh,R Castillo,0,0,,,,,,"",""
+ball,1,8.9,Singapore,Vinu Kumar,Shafina Mahesh,R Castillo,2,0,,,,,,"",""
+ball,1,9.1,Singapore,Shafina Mahesh,Vinu Kumar,JKD Andreano,0,0,,,,,,"",""
+ball,1,9.2,Singapore,Shafina Mahesh,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,9.3,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,1,0,,,,,,"",""
+ball,1,9.4,Singapore,Shafina Mahesh,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,9.5,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,0,1,1,,,,,"",""
+ball,1,9.6,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,1,0,,,,,,"",""
+ball,1,9.7,Singapore,Shafina Mahesh,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,10.1,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,1,0,,,,,,"",""
+ball,1,10.2,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,2,0,,,,,,"",""
+ball,1,10.3,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,1,0,,,,,,"",""
+ball,1,10.4,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,1,0,,,,,,"",""
+ball,1,10.5,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,1,0,,,,,,"",""
+ball,1,10.6,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,0,0,,,,,,"",""
+ball,1,11.1,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,1,0,,,,,,"",""
+ball,1,11.2,Singapore,Shafina Mahesh,Vinu Kumar,JKD Andreano,0,1,1,,,,,"",""
+ball,1,11.3,Singapore,Shafina Mahesh,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,11.4,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,1,0,,,,,,"",""
+ball,1,11.5,Singapore,Shafina Mahesh,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,11.6,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,0,0,,,,,,"",""
+ball,1,11.7,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,0,1,1,,,,,"",""
+ball,1,11.8,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,0,1,1,,,,,"",""
+ball,1,11.9,Singapore,Vinu Kumar,Shafina Mahesh,JKD Andreano,0,0,,,,,,"",""
+ball,1,12.1,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,2,0,,,,,,"",""
+ball,1,12.2,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,0,1,1,,,,,"",""
+ball,1,12.3,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,0,1,1,,,,,"",""
+ball,1,12.4,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,0,0,,,,,,"",""
+ball,1,12.5,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,4,0,,,,,,"",""
+ball,1,12.6,Singapore,Shafina Mahesh,Vinu Kumar,AR Valdez,1,0,,,,,,"",""
+ball,1,12.7,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,2,0,,,,,,"",""
+ball,1,12.8,Singapore,Vinu Kumar,Shafina Mahesh,AR Valdez,0,0,,,,,,"",""
+ball,1,13.1,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,1,0,,,,,,"",""
+ball,1,13.2,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,2,0,,,,,,"",""
+ball,1,13.3,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,0,0,,,,,,"",""
+ball,1,13.4,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,0,0,,,,,,"",""
+ball,1,13.5,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,0,0,,,,,,"",""
+ball,1,13.6,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,0,1,1,,,,,"",""
+ball,1,13.7,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,1,0,,,,,,"",""
+ball,1,14.1,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,2,0,,,,,,"",""
+ball,1,14.2,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,14.3,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,14.4,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,0,2,2,,,,,"",""
+ball,1,14.5,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,14.6,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,2,0,,,,,,"",""
+ball,1,14.7,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,0,0,,,,,,"",""
+ball,1,15.1,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,1,0,,,,,,"",""
+ball,1,15.2,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,0,0,,,,,,"",""
+ball,1,15.3,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,0,1,1,,,,,"",""
+ball,1,15.4,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,1,0,,,,,,"",""
+ball,1,15.5,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,1,0,,,,,,"",""
+ball,1,15.6,Singapore,Shafina Mahesh,Vinu Kumar,ABY Smith,1,0,,,,,,"",""
+ball,1,15.7,Singapore,Vinu Kumar,Shafina Mahesh,ABY Smith,1,0,,,,,,"",""
+ball,1,16.1,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,16.2,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,16.3,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,0,1,1,,,,,"",""
+ball,1,16.4,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,0,1,1,,,,,"",""
+ball,1,16.5,Singapore,Vinu Kumar,Shafina Mahesh,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,16.6,Singapore,Shafina Mahesh,Vinu Kumar,Karri Gullem Keen,0,0,,,,,,caught and bowled,Shafina Mahesh
+ball,1,16.7,Singapore,RR Seth,Vinu Kumar,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,16.8,Singapore,Vinu Kumar,RR Seth,Karri Gullem Keen,1,0,,,,,,"",""
+ball,1,17.1,Singapore,Vinu Kumar,RR Seth,JKD Andreano,0,1,1,,,,,"",""
+ball,1,17.2,Singapore,Vinu Kumar,RR Seth,JKD Andreano,0,0,,,,,,"",""
+ball,1,17.3,Singapore,Vinu Kumar,RR Seth,JKD Andreano,1,0,,,,,,"",""
+ball,1,17.4,Singapore,RR Seth,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,17.5,Singapore,Vinu Kumar,RR Seth,JKD Andreano,1,0,,,,,,"",""
+ball,1,17.6,Singapore,RR Seth,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,17.7,Singapore,Vinu Kumar,RR Seth,JKD Andreano,1,0,,,,,,"",""
+ball,1,18.1,Singapore,Vinu Kumar,RR Seth,KK Donovan,2,0,,,,,,"",""
+ball,1,18.2,Singapore,Vinu Kumar,RR Seth,KK Donovan,0,0,,,,,,"",""
+ball,1,18.3,Singapore,Vinu Kumar,RR Seth,KK Donovan,0,0,,,,,,"",""
+ball,1,18.4,Singapore,Vinu Kumar,RR Seth,KK Donovan,1,0,,,,,,"",""
+ball,1,18.5,Singapore,RR Seth,Vinu Kumar,KK Donovan,0,0,,,,,,"",""
+ball,1,18.6,Singapore,RR Seth,Vinu Kumar,KK Donovan,0,0,,,,,,bowled,RR Seth
+ball,1,19.1,Singapore,Vinu Kumar,DA Galia,JKD Andreano,3,0,,,,,,"",""
+ball,1,19.2,Singapore,DA Galia,Vinu Kumar,JKD Andreano,1,0,,,,,,"",""
+ball,1,19.3,Singapore,Vinu Kumar,DA Galia,JKD Andreano,2,0,,,,,,"",""
+ball,1,19.4,Singapore,Vinu Kumar,DA Galia,JKD Andreano,0,0,,,,,,"",""
+ball,1,19.5,Singapore,Vinu Kumar,DA Galia,JKD Andreano,0,1,1,,,,,"",""
+ball,1,19.6,Singapore,Vinu Kumar,DA Galia,JKD Andreano,2,0,,,,,,"",""
+ball,1,19.7,Singapore,Vinu Kumar,DA Galia,JKD Andreano,0,0,,,,,,stumped,Vinu Kumar
+ball,2,0.1,Philippines,AR Valdez,ABY Smith,E Ungerman,0,0,,,,,,"",""
+ball,2,0.2,Philippines,AR Valdez,ABY Smith,E Ungerman,1,0,,,,,,"",""
+ball,2,0.3,Philippines,ABY Smith,AR Valdez,E Ungerman,1,0,,,,,,"",""
+ball,2,0.4,Philippines,AR Valdez,ABY Smith,E Ungerman,0,0,,,,,,"",""
+ball,2,0.5,Philippines,AR Valdez,ABY Smith,E Ungerman,0,0,,,,,,caught,AR Valdez
+ball,2,0.6,Philippines,Angela Busa,ABY Smith,E Ungerman,0,0,,,,,,"",""
+ball,2,1.1,Philippines,ABY Smith,Angela Busa,Damini Ramesh,0,0,,,,,,"",""
+ball,2,1.2,Philippines,ABY Smith,Angela Busa,Damini Ramesh,1,0,,,,,,"",""
+ball,2,1.3,Philippines,Angela Busa,ABY Smith,Damini Ramesh,1,0,,,,,,"",""
+ball,2,1.4,Philippines,ABY Smith,Angela Busa,Damini Ramesh,2,0,,,,,,"",""
+ball,2,1.5,Philippines,ABY Smith,Angela Busa,Damini Ramesh,0,0,,,,,,"",""
+ball,2,1.6,Philippines,ABY Smith,Angela Busa,Damini Ramesh,2,0,,,,,,"",""
+ball,2,2.1,Philippines,Angela Busa,ABY Smith,E Ungerman,1,0,,,,,,"",""
+ball,2,2.2,Philippines,ABY Smith,Angela Busa,E Ungerman,0,0,,,,,,"",""
+ball,2,2.3,Philippines,ABY Smith,Angela Busa,E Ungerman,0,1,1,,,,,"",""
+ball,2,2.4,Philippines,ABY Smith,Angela Busa,E Ungerman,0,0,,,,,,"",""
+ball,2,2.5,Philippines,ABY Smith,Angela Busa,E Ungerman,2,0,,,,,,"",""
+ball,2,2.6,Philippines,ABY Smith,Angela Busa,E Ungerman,1,0,,,,,,"",""
+ball,2,2.7,Philippines,Angela Busa,ABY Smith,E Ungerman,0,0,,,,,,"",""
+ball,2,3.1,Philippines,ABY Smith,Angela Busa,Damini Ramesh,0,0,,,,,,"",""
+ball,2,3.2,Philippines,ABY Smith,Angela Busa,Damini Ramesh,2,0,,,,,,"",""
+ball,2,3.3,Philippines,ABY Smith,Angela Busa,Damini Ramesh,1,0,,,,,,"",""
+ball,2,3.4,Philippines,Angela Busa,ABY Smith,Damini Ramesh,0,0,,,,,,"",""
+ball,2,3.5,Philippines,Angela Busa,ABY Smith,Damini Ramesh,0,1,1,,,,,"",""
+ball,2,3.6,Philippines,Angela Busa,ABY Smith,Damini Ramesh,0,0,,,,,,"",""
+ball,2,3.7,Philippines,Angela Busa,ABY Smith,Damini Ramesh,0,0,,,,,,"",""
+ball,2,4.1,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,2,0,,,,,,"",""
+ball,2,4.2,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,4.3,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,4.4,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,4.5,Philippines,Angela Busa,ABY Smith,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,4.6,Philippines,Angela Busa,ABY Smith,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,5.1,Philippines,ABY Smith,Angela Busa,Vinu Kumar,2,0,,,,,,"",""
+ball,2,5.2,Philippines,ABY Smith,Angela Busa,Vinu Kumar,4,0,,,,,,"",""
+ball,2,5.3,Philippines,ABY Smith,Angela Busa,Vinu Kumar,3,0,,,,,,"",""
+ball,2,5.4,Philippines,Angela Busa,ABY Smith,Vinu Kumar,2,0,,,,,,"",""
+ball,2,5.5,Philippines,Angela Busa,ABY Smith,Vinu Kumar,0,0,,,,,,"",""
+ball,2,5.6,Philippines,Angela Busa,ABY Smith,Vinu Kumar,0,0,,,,,,"",""
+ball,2,6.1,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,6.2,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,0,1,1,,,,,"",""
+ball,2,6.3,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,6.4,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,6.5,Philippines,Angela Busa,ABY Smith,Shafina Mahesh,0,1,1,,,,,"",""
+ball,2,6.6,Philippines,Angela Busa,ABY Smith,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,6.7,Philippines,Angela Busa,ABY Smith,Shafina Mahesh,0,1,,1,,,,"",""
+ball,2,6.8,Philippines,Angela Busa,ABY Smith,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,6.9,Philippines,ABY Smith,Angela Busa,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,7.1,Philippines,Angela Busa,ABY Smith,RR Seth,0,0,,,,,,caught,Angela Busa
+ball,2,7.2,Philippines,KK Donovan,ABY Smith,RR Seth,0,0,,,,,,"",""
+ball,2,7.3,Philippines,KK Donovan,ABY Smith,RR Seth,0,0,,,,,,"",""
+ball,2,7.4,Philippines,KK Donovan,ABY Smith,RR Seth,0,3,3,,,,,"",""
+ball,2,7.5,Philippines,KK Donovan,ABY Smith,RR Seth,0,0,,,,,,"",""
+ball,2,7.6,Philippines,KK Donovan,ABY Smith,RR Seth,0,0,,,,,,"",""
+ball,2,7.7,Philippines,KK Donovan,ABY Smith,RR Seth,0,1,,,,1,,"",""
+ball,2,8.1,Philippines,KK Donovan,ABY Smith,Vinu Kumar,0,0,,,,,,"",""
+ball,2,8.2,Philippines,KK Donovan,ABY Smith,Vinu Kumar,1,0,,,,,,"",""
+ball,2,8.3,Philippines,ABY Smith,KK Donovan,Vinu Kumar,1,0,,,,,,"",""
+ball,2,8.4,Philippines,KK Donovan,ABY Smith,Vinu Kumar,1,0,,,,,,"",""
+ball,2,8.5,Philippines,ABY Smith,KK Donovan,Vinu Kumar,4,0,,,,,,"",""
+ball,2,8.6,Philippines,ABY Smith,KK Donovan,Vinu Kumar,2,0,,,,,,"",""
+ball,2,9.1,Philippines,KK Donovan,ABY Smith,RR Seth,0,0,,,,,,"",""
+ball,2,9.2,Philippines,KK Donovan,ABY Smith,RR Seth,0,1,,,,1,,"",""
+ball,2,9.3,Philippines,ABY Smith,KK Donovan,RR Seth,0,1,1,,,,,"",""
+ball,2,9.4,Philippines,ABY Smith,KK Donovan,RR Seth,0,0,,,,,,"",""
+ball,2,9.5,Philippines,ABY Smith,KK Donovan,RR Seth,0,0,,,,,,"",""
+ball,2,9.6,Philippines,ABY Smith,KK Donovan,RR Seth,0,0,,,,,,"",""
+ball,2,9.7,Philippines,ABY Smith,KK Donovan,RR Seth,0,0,,,,,,"",""
+ball,2,10.1,Philippines,KK Donovan,ABY Smith,H Dhavina,0,0,,,,,,"",""
+ball,2,10.2,Philippines,KK Donovan,ABY Smith,H Dhavina,2,0,,,,,,"",""
+ball,2,10.3,Philippines,KK Donovan,ABY Smith,H Dhavina,1,0,,,,,,"",""
+ball,2,10.4,Philippines,ABY Smith,KK Donovan,H Dhavina,1,0,,,,,,"",""
+ball,2,10.5,Philippines,KK Donovan,ABY Smith,H Dhavina,0,0,,,,,,"",""
+ball,2,10.6,Philippines,KK Donovan,ABY Smith,H Dhavina,0,0,,,,,,"",""
+ball,2,11.1,Philippines,ABY Smith,KK Donovan,R Gnanaraj,2,0,,,,,,"",""
+ball,2,11.2,Philippines,ABY Smith,KK Donovan,R Gnanaraj,4,0,,,,,,"",""
+ball,2,11.3,Philippines,ABY Smith,KK Donovan,R Gnanaraj,1,0,,,,,,"",""
+ball,2,11.4,Philippines,KK Donovan,ABY Smith,R Gnanaraj,4,0,,,,,,"",""
+ball,2,11.5,Philippines,KK Donovan,ABY Smith,R Gnanaraj,1,0,,,,,,"",""
+ball,2,11.6,Philippines,ABY Smith,KK Donovan,R Gnanaraj,1,0,,,,,,"",""
+ball,2,12.1,Philippines,ABY Smith,KK Donovan,H Dhavina,1,0,,,,,,"",""
+ball,2,12.2,Philippines,KK Donovan,ABY Smith,H Dhavina,0,0,,,,,,"",""
+ball,2,12.3,Philippines,KK Donovan,ABY Smith,H Dhavina,1,0,,,,,,"",""
+ball,2,12.4,Philippines,ABY Smith,KK Donovan,H Dhavina,1,0,,,,,,"",""
+ball,2,12.5,Philippines,KK Donovan,ABY Smith,H Dhavina,1,0,,,,,,"",""
+ball,2,12.6,Philippines,ABY Smith,KK Donovan,H Dhavina,4,0,,,,,,"",""
+ball,2,13.1,Philippines,KK Donovan,ABY Smith,RR Seth,0,1,1,,,,,"",""
+ball,2,13.2,Philippines,KK Donovan,ABY Smith,RR Seth,2,0,,,,,,"",""
+ball,2,13.3,Philippines,KK Donovan,ABY Smith,RR Seth,0,0,,,,,,"",""
+ball,2,13.4,Philippines,KK Donovan,ABY Smith,RR Seth,2,0,,,,,,"",""
+ball,2,13.5,Philippines,KK Donovan,ABY Smith,RR Seth,3,0,,,,,,"",""
+ball,2,13.6,Philippines,ABY Smith,KK Donovan,RR Seth,1,0,,,,,,"",""
+ball,2,13.7,Philippines,KK Donovan,ABY Smith,RR Seth,1,0,,,,,,"",""
+ball,2,14.1,Philippines,KK Donovan,ABY Smith,E Ungerman,0,0,,,,,,caught,KK Donovan
+ball,2,14.2,Philippines,SF Sirah,ABY Smith,E Ungerman,0,0,,,,,,bowled,SF Sirah
+ball,2,14.3,Philippines,AS Miranda,ABY Smith,E Ungerman,0,0,,,,,,"",""
+ball,2,14.4,Philippines,AS Miranda,ABY Smith,E Ungerman,0,0,,,,,,"",""
+ball,2,14.5,Philippines,AS Miranda,ABY Smith,E Ungerman,1,0,,,,,,"",""
+ball,2,14.6,Philippines,ABY Smith,AS Miranda,E Ungerman,0,0,,,,,,"",""
+ball,2,15.1,Philippines,AS Miranda,ABY Smith,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,15.2,Philippines,ABY Smith,AS Miranda,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,15.3,Philippines,AS Miranda,ABY Smith,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,15.4,Philippines,AS Miranda,ABY Smith,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,15.5,Philippines,ABY Smith,AS Miranda,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,15.6,Philippines,ABY Smith,AS Miranda,Shafina Mahesh,0,1,1,,,,,"",""
+ball,2,15.7,Philippines,ABY Smith,AS Miranda,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,16.1,Philippines,ABY Smith,AS Miranda,RR Seth,2,0,,,,,,"",""
+ball,2,16.2,Philippines,ABY Smith,AS Miranda,RR Seth,1,0,,,,,,"",""
+ball,2,16.3,Philippines,AS Miranda,ABY Smith,RR Seth,0,0,,,,,,caught and bowled,AS Miranda
+ball,2,16.4,Philippines,Karri Gullem Keen,ABY Smith,RR Seth,1,0,,,,,,"",""
+ball,2,16.5,Philippines,ABY Smith,Karri Gullem Keen,RR Seth,1,0,,,,,,"",""
+ball,2,16.6,Philippines,Karri Gullem Keen,ABY Smith,RR Seth,0,0,,,,,,"",""
+ball,2,17.1,Philippines,ABY Smith,Karri Gullem Keen,Shafina Mahesh,3,0,,,,,,"",""
+ball,2,17.2,Philippines,Karri Gullem Keen,ABY Smith,Shafina Mahesh,2,0,,,,,,"",""
+ball,2,17.3,Philippines,Karri Gullem Keen,ABY Smith,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,17.4,Philippines,ABY Smith,Karri Gullem Keen,Shafina Mahesh,0,0,,,,,,"",""
+ball,2,17.5,Philippines,ABY Smith,Karri Gullem Keen,Shafina Mahesh,1,0,,,,,,"",""
+ball,2,17.6,Philippines,Karri Gullem Keen,ABY Smith,Shafina Mahesh,0,2,2,,,,,"",""
+ball,2,17.7,Philippines,ABY Smith,Karri Gullem Keen,Shafina Mahesh,4,0,,,,,,"",""
+ball,2,18.1,Philippines,Karri Gullem Keen,ABY Smith,E Ungerman,0,2,,,2,,,"",""
+ball,2,18.2,Philippines,Karri Gullem Keen,ABY Smith,E Ungerman,1,0,,,,,,"",""
+ball,2,18.3,Philippines,ABY Smith,Karri Gullem Keen,E Ungerman,2,0,,,,,,run out,ABY Smith
+ball,2,18.4,Philippines,Karri Gullem Keen,Kyte Gullem Keen,E Ungerman,0,0,,,,,,"",""
+ball,2,18.5,Philippines,Karri Gullem Keen,Kyte Gullem Keen,E Ungerman,0,0,,,,,,caught,Karri Gullem Keen
+ball,2,18.6,Philippines,R Castillo,Kyte Gullem Keen,E Ungerman,0,0,,,,,,"",""
+ball,2,19.1,Philippines,Kyte Gullem Keen,R Castillo,Damini Ramesh,0,1,1,,,,,"",""
+ball,2,19.2,Philippines,Kyte Gullem Keen,R Castillo,Damini Ramesh,0,0,,,,,,"",""
+ball,2,19.3,Philippines,Kyte Gullem Keen,R Castillo,Damini Ramesh,0,0,,,,,,"",""
+ball,2,19.4,Philippines,Kyte Gullem Keen,R Castillo,Damini Ramesh,1,0,,,,,,"",""
+ball,2,19.5,Philippines,R Castillo,Kyte Gullem Keen,Damini Ramesh,0,0,,,,,,"",""
+ball,2,19.6,Philippines,R Castillo,Kyte Gullem Keen,Damini Ramesh,1,0,,,,,,"",""
+ball,2,19.7,Philippines,Kyte Gullem Keen,R Castillo,Damini Ramesh,0,0,,,,,,"",""

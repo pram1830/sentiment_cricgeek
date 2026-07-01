@@ -1,0 +1,332 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Guernsey
+info,gender,female
+info,season,2022
+info,date,2022/06/25
+info,event,Inter-Insular Women's Twenty20 Series
+info,match_number,2
+info,venue,"Grainville, St Saviour"
+info,city,St Saviour
+info,toss_winner,Guernsey
+info,toss_decision,field
+info,winner,Jersey
+info,winner_runs,69
+info,player,Jersey,C Miles
+info,player,Jersey,M Maguire
+info,player,Jersey,L Greig
+info,player,Jersey,CM Greechan
+info,player,Jersey,A Merritt
+info,player,Jersey,G Wetherall
+info,player,Jersey,RM Hill
+info,player,Jersey,E Gouge
+info,player,Jersey,E Duffy
+info,player,Jersey,T Smith
+info,player,Jersey,F Copley
+info,player,Guernsey,PJ Stahelin
+info,player,Guernsey,F Bulpitt
+info,player,Guernsey,Emily Merrien
+info,player,Guernsey,H Eulenkamp
+info,player,Guernsey,C Milner
+info,player,Guernsey,R Hubbard
+info,player,Guernsey,C Jennings
+info,player,Guernsey,M Robinson
+info,player,Guernsey,M Le Ray
+info,player,Guernsey,J Savage
+info,player,Guernsey,O Morgan
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,C Jennings,463e127a
+info,registry,people,C Miles,80f16d29
+info,registry,people,C Milner,a83bd4c3
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,E Duffy,52bbb9e5
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,Emily Merrien,5257e839
+info,registry,people,F Bulpitt,4f1f5bdd
+info,registry,people,F Copley,637680bc
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,H Eulenkamp,17751f98
+info,registry,people,J Savage,83544e25
+info,registry,people,L Greig,0e3e8ce3
+info,registry,people,M Le Ray,ae9c4c29
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,M Robinson,262b1d7d
+info,registry,people,O Morgan,a9b7e3e6
+info,registry,people,PJ Stahelin,472a8672
+info,registry,people,R Hubbard,a1d4bc51
+info,registry,people,RM Hill,9353d2fc
+info,registry,people,T Smith,f24ffaab
+ball,1,0.1,Jersey,C Miles,M Maguire,C Jennings,0,1,1,,,,,"",""
+ball,1,0.2,Jersey,C Miles,M Maguire,C Jennings,0,1,,,1,,,"",""
+ball,1,0.3,Jersey,M Maguire,C Miles,C Jennings,0,0,,,,,,"",""
+ball,1,0.4,Jersey,M Maguire,C Miles,C Jennings,0,0,,,,,,"",""
+ball,1,0.5,Jersey,M Maguire,C Miles,C Jennings,0,0,,,,,,"",""
+ball,1,0.6,Jersey,M Maguire,C Miles,C Jennings,0,0,,,,,,"",""
+ball,1,0.7,Jersey,M Maguire,C Miles,C Jennings,1,0,,,,,,"",""
+ball,1,1.1,Jersey,M Maguire,C Miles,H Eulenkamp,1,0,,,,,,"",""
+ball,1,1.2,Jersey,C Miles,M Maguire,H Eulenkamp,1,0,,,,,,"",""
+ball,1,1.3,Jersey,M Maguire,C Miles,H Eulenkamp,0,0,,,,,,"",""
+ball,1,1.4,Jersey,M Maguire,C Miles,H Eulenkamp,0,0,,,,,,"",""
+ball,1,1.5,Jersey,M Maguire,C Miles,H Eulenkamp,0,0,,,,,,"",""
+ball,1,1.6,Jersey,M Maguire,C Miles,H Eulenkamp,0,0,,,,,,"",""
+ball,1,2.1,Jersey,C Miles,M Maguire,C Jennings,0,1,1,,,,,"",""
+ball,1,2.2,Jersey,C Miles,M Maguire,C Jennings,0,0,,,,,,"",""
+ball,1,2.3,Jersey,C Miles,M Maguire,C Jennings,1,0,,,,,,"",""
+ball,1,2.4,Jersey,M Maguire,C Miles,C Jennings,0,0,,,,,,"",""
+ball,1,2.5,Jersey,M Maguire,C Miles,C Jennings,1,0,,,,,,"",""
+ball,1,2.6,Jersey,C Miles,M Maguire,C Jennings,0,0,,,,,,"",""
+ball,1,2.7,Jersey,C Miles,M Maguire,C Jennings,2,0,,,,,,"",""
+ball,1,3.1,Jersey,M Maguire,C Miles,H Eulenkamp,0,0,,,,,,"",""
+ball,1,3.2,Jersey,M Maguire,C Miles,H Eulenkamp,0,1,1,,,,,"",""
+ball,1,3.3,Jersey,M Maguire,C Miles,H Eulenkamp,1,0,,,,,,"",""
+ball,1,3.4,Jersey,C Miles,M Maguire,H Eulenkamp,0,0,,,,,,"",""
+ball,1,3.5,Jersey,C Miles,M Maguire,H Eulenkamp,0,1,1,,,,,"",""
+ball,1,3.6,Jersey,C Miles,M Maguire,H Eulenkamp,0,1,1,,,,,"",""
+ball,1,3.7,Jersey,C Miles,M Maguire,H Eulenkamp,0,2,2,,,,,"",""
+ball,1,3.8,Jersey,M Maguire,C Miles,H Eulenkamp,1,0,,,,,,"",""
+ball,1,3.9,Jersey,C Miles,M Maguire,H Eulenkamp,4,0,,,,,,"",""
+ball,1,3.10,Jersey,C Miles,M Maguire,H Eulenkamp,0,0,,,,,,"",""
+ball,1,4.1,Jersey,M Maguire,C Miles,C Milner,2,0,,,,,,"",""
+ball,1,4.2,Jersey,M Maguire,C Miles,C Milner,0,3,3,,,,,"",""
+ball,1,4.3,Jersey,M Maguire,C Miles,C Milner,0,0,,,,,,"",""
+ball,1,4.4,Jersey,M Maguire,C Miles,C Milner,0,0,,,,,,"",""
+ball,1,4.5,Jersey,M Maguire,C Miles,C Milner,4,0,,,,,,"",""
+ball,1,4.6,Jersey,M Maguire,C Miles,C Milner,0,0,,,,,,"",""
+ball,1,4.7,Jersey,M Maguire,C Miles,C Milner,1,0,,,,,,"",""
+ball,1,5.1,Jersey,M Maguire,C Miles,Emily Merrien,0,0,,,,,,"",""
+ball,1,5.2,Jersey,M Maguire,C Miles,Emily Merrien,0,0,,,,,,caught and bowled,M Maguire
+ball,1,5.3,Jersey,L Greig,C Miles,Emily Merrien,1,0,,,,,,"",""
+ball,1,5.4,Jersey,C Miles,L Greig,Emily Merrien,1,0,,,,,,"",""
+ball,1,5.5,Jersey,L Greig,C Miles,Emily Merrien,1,0,,,,,,"",""
+ball,1,5.6,Jersey,C Miles,L Greig,Emily Merrien,4,1,,1,,,,"",""
+ball,1,5.7,Jersey,C Miles,L Greig,Emily Merrien,0,0,,,,,,"",""
+ball,1,6.1,Jersey,L Greig,C Miles,C Milner,0,1,,1,,,,"",""
+ball,1,6.2,Jersey,L Greig,C Miles,C Milner,0,0,,,,,,"",""
+ball,1,6.3,Jersey,L Greig,C Miles,C Milner,0,0,,,,,,"",""
+ball,1,6.4,Jersey,L Greig,C Miles,C Milner,0,1,,1,,,,"",""
+ball,1,6.5,Jersey,L Greig,C Miles,C Milner,1,0,,,,,,"",""
+ball,1,6.6,Jersey,C Miles,L Greig,C Milner,1,0,,,,,,"",""
+ball,1,6.7,Jersey,L Greig,C Miles,C Milner,0,1,1,,,,,"",""
+ball,1,6.8,Jersey,L Greig,C Miles,C Milner,1,0,,,,,,"",""
+ball,1,6.9,Jersey,C Miles,L Greig,C Milner,0,1,,1,,,,"",""
+ball,1,6.10,Jersey,C Miles,L Greig,C Milner,2,0,,,,,,"",""
+ball,1,7.1,Jersey,L Greig,C Miles,Emily Merrien,1,0,,,,,,"",""
+ball,1,7.2,Jersey,C Miles,L Greig,Emily Merrien,1,0,,,,,,"",""
+ball,1,7.3,Jersey,L Greig,C Miles,Emily Merrien,0,0,,,,,,"",""
+ball,1,7.4,Jersey,L Greig,C Miles,Emily Merrien,0,1,1,,,,,"",""
+ball,1,7.5,Jersey,L Greig,C Miles,Emily Merrien,0,0,,,,,,"",""
+ball,1,7.6,Jersey,L Greig,C Miles,Emily Merrien,1,0,,,,,,"",""
+ball,1,7.7,Jersey,C Miles,L Greig,Emily Merrien,0,1,,,1,,,"",""
+ball,1,8.1,Jersey,C Miles,L Greig,R Hubbard,0,0,,,,,,"",""
+ball,1,8.2,Jersey,C Miles,L Greig,R Hubbard,2,0,,,,,,"",""
+ball,1,8.3,Jersey,C Miles,L Greig,R Hubbard,0,0,,,,,,bowled,C Miles
+ball,1,8.4,Jersey,CM Greechan,L Greig,R Hubbard,0,0,,,,,,"",""
+ball,1,8.5,Jersey,CM Greechan,L Greig,R Hubbard,0,0,,,,,,"",""
+ball,1,8.6,Jersey,CM Greechan,L Greig,R Hubbard,0,0,,,,,,"",""
+ball,1,9.1,Jersey,L Greig,CM Greechan,M Robinson,0,0,,,,,,"",""
+ball,1,9.2,Jersey,L Greig,CM Greechan,M Robinson,0,0,,,,,,"",""
+ball,1,9.3,Jersey,L Greig,CM Greechan,M Robinson,1,0,,,,,,"",""
+ball,1,9.4,Jersey,CM Greechan,L Greig,M Robinson,0,0,,,,,,"",""
+ball,1,9.5,Jersey,CM Greechan,L Greig,M Robinson,1,0,,,,,,"",""
+ball,1,9.6,Jersey,L Greig,CM Greechan,M Robinson,2,0,,,,,,"",""
+ball,1,10.1,Jersey,CM Greechan,L Greig,R Hubbard,1,0,,,,,,"",""
+ball,1,10.2,Jersey,L Greig,CM Greechan,R Hubbard,0,2,2,,,,,"",""
+ball,1,10.3,Jersey,CM Greechan,L Greig,R Hubbard,0,0,,,,,,"",""
+ball,1,10.4,Jersey,CM Greechan,L Greig,R Hubbard,0,2,2,,,,,"",""
+ball,1,10.5,Jersey,L Greig,CM Greechan,R Hubbard,1,0,,,,,,"",""
+ball,1,10.6,Jersey,CM Greechan,L Greig,R Hubbard,0,2,2,,,,,"",""
+ball,1,10.7,Jersey,L Greig,CM Greechan,R Hubbard,0,0,,,,,,"",""
+ball,1,10.8,Jersey,L Greig,CM Greechan,R Hubbard,0,0,,,,,,"",""
+ball,1,10.9,Jersey,L Greig,CM Greechan,R Hubbard,4,0,,,,,,"",""
+ball,1,11.1,Jersey,CM Greechan,L Greig,M Robinson,0,1,1,,,,,"",""
+ball,1,11.2,Jersey,CM Greechan,L Greig,M Robinson,1,0,,,,,,"",""
+ball,1,11.3,Jersey,L Greig,CM Greechan,M Robinson,1,0,,,,,,"",""
+ball,1,11.4,Jersey,CM Greechan,L Greig,M Robinson,0,0,,,,,,"",""
+ball,1,11.5,Jersey,CM Greechan,L Greig,M Robinson,0,1,1,,,,,"",""
+ball,1,11.6,Jersey,CM Greechan,L Greig,M Robinson,1,0,,,,,,"",""
+ball,1,11.7,Jersey,L Greig,CM Greechan,M Robinson,2,0,,,,,,"",""
+ball,1,11.8,Jersey,L Greig,CM Greechan,M Robinson,1,0,,,,,,"",""
+ball,1,12.1,Jersey,L Greig,CM Greechan,C Milner,0,1,,,1,,,"",""
+ball,1,12.2,Jersey,CM Greechan,L Greig,C Milner,1,0,,,,,,"",""
+ball,1,12.3,Jersey,L Greig,CM Greechan,C Milner,4,0,,,,,,"",""
+ball,1,12.4,Jersey,L Greig,CM Greechan,C Milner,1,0,,,,,,"",""
+ball,1,12.5,Jersey,CM Greechan,L Greig,C Milner,1,0,,,,,,"",""
+ball,1,12.6,Jersey,L Greig,CM Greechan,C Milner,0,0,,,,,,"",""
+ball,1,13.1,Jersey,CM Greechan,L Greig,Emily Merrien,0,0,,,,,,"",""
+ball,1,13.2,Jersey,CM Greechan,L Greig,Emily Merrien,0,0,,,,,,"",""
+ball,1,13.3,Jersey,CM Greechan,L Greig,Emily Merrien,0,1,,,1,,,"",""
+ball,1,13.4,Jersey,L Greig,CM Greechan,Emily Merrien,0,0,,,,,,"",""
+ball,1,13.5,Jersey,L Greig,CM Greechan,Emily Merrien,0,0,,,,,,"",""
+ball,1,13.6,Jersey,L Greig,CM Greechan,Emily Merrien,0,0,,,,,,lbw,L Greig
+ball,1,14.1,Jersey,CM Greechan,A Merritt,C Milner,1,0,,,,,,"",""
+ball,1,14.2,Jersey,A Merritt,CM Greechan,C Milner,4,0,,,,,,"",""
+ball,1,14.3,Jersey,A Merritt,CM Greechan,C Milner,1,1,,1,,,,"",""
+ball,1,14.4,Jersey,CM Greechan,A Merritt,C Milner,0,0,,,,,,"",""
+ball,1,14.5,Jersey,CM Greechan,A Merritt,C Milner,1,0,,,,,,"",""
+ball,1,14.6,Jersey,A Merritt,CM Greechan,C Milner,4,0,,,,,,"",""
+ball,1,14.7,Jersey,A Merritt,CM Greechan,C Milner,2,0,,,,,,"",""
+ball,1,15.1,Jersey,CM Greechan,A Merritt,Emily Merrien,0,0,,,,,,"",""
+ball,1,15.2,Jersey,CM Greechan,A Merritt,Emily Merrien,1,0,,,,,,"",""
+ball,1,15.3,Jersey,A Merritt,CM Greechan,Emily Merrien,0,0,,,,,,"",""
+ball,1,15.4,Jersey,A Merritt,CM Greechan,Emily Merrien,0,0,,,,,,"",""
+ball,1,15.5,Jersey,A Merritt,CM Greechan,Emily Merrien,0,0,,,,,,"",""
+ball,1,15.6,Jersey,A Merritt,CM Greechan,Emily Merrien,0,0,,,,,,"",""
+ball,1,16.1,Jersey,CM Greechan,A Merritt,C Jennings,1,0,,,,,,"",""
+ball,1,16.2,Jersey,A Merritt,CM Greechan,C Jennings,0,0,,,,,,"",""
+ball,1,16.3,Jersey,A Merritt,CM Greechan,C Jennings,0,0,,,,,,bowled,A Merritt
+ball,1,16.4,Jersey,G Wetherall,CM Greechan,C Jennings,0,1,1,,,,,"",""
+ball,1,16.5,Jersey,G Wetherall,CM Greechan,C Jennings,0,0,,,,,,"",""
+ball,1,16.6,Jersey,G Wetherall,CM Greechan,C Jennings,0,0,,,,,,"",""
+ball,1,16.7,Jersey,G Wetherall,CM Greechan,C Jennings,0,1,1,,,,,"",""
+ball,1,16.8,Jersey,G Wetherall,CM Greechan,C Jennings,1,0,,,,,,"",""
+ball,1,17.1,Jersey,G Wetherall,CM Greechan,H Eulenkamp,4,0,,,,,,"",""
+ball,1,17.2,Jersey,G Wetherall,CM Greechan,H Eulenkamp,4,0,,,,,,"",""
+ball,1,17.3,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,0,,,,,,"",""
+ball,1,17.4,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,0,,,,,,"",""
+ball,1,17.5,Jersey,G Wetherall,CM Greechan,H Eulenkamp,2,0,,,,,,"",""
+ball,1,17.6,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,1,1,,,,,"",""
+ball,1,17.7,Jersey,G Wetherall,CM Greechan,H Eulenkamp,4,0,,,,,,"",""
+ball,1,18.1,Jersey,CM Greechan,G Wetherall,C Jennings,1,0,,,,,,"",""
+ball,1,18.2,Jersey,G Wetherall,CM Greechan,C Jennings,0,0,,,,,,"",""
+ball,1,18.3,Jersey,G Wetherall,CM Greechan,C Jennings,1,0,,,,,,"",""
+ball,1,18.4,Jersey,CM Greechan,G Wetherall,C Jennings,4,0,,,,,,"",""
+ball,1,18.5,Jersey,CM Greechan,G Wetherall,C Jennings,1,0,,,,,,"",""
+ball,1,18.6,Jersey,G Wetherall,CM Greechan,C Jennings,3,0,,,,,,"",""
+ball,1,19.1,Jersey,G Wetherall,CM Greechan,H Eulenkamp,2,0,,,,,,"",""
+ball,1,19.2,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,0,,,,,,"",""
+ball,1,19.3,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,1,,1,,,,"",""
+ball,1,19.4,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,0,,,,,,"",""
+ball,1,19.5,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,0,,,,,,"",""
+ball,1,19.6,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,0,,,,,,"",""
+ball,1,19.7,Jersey,G Wetherall,CM Greechan,H Eulenkamp,0,1,,,1,,,"",""
+ball,2,0.1,Guernsey,PJ Stahelin,F Bulpitt,CM Greechan,0,1,1,,,,,"",""
+ball,2,0.2,Guernsey,PJ Stahelin,F Bulpitt,CM Greechan,0,0,,,,,,"",""
+ball,2,0.3,Guernsey,PJ Stahelin,F Bulpitt,CM Greechan,0,0,,,,,,"",""
+ball,2,0.4,Guernsey,PJ Stahelin,F Bulpitt,CM Greechan,0,0,,,,,,"",""
+ball,2,0.5,Guernsey,PJ Stahelin,F Bulpitt,CM Greechan,1,0,,,,,,"",""
+ball,2,0.6,Guernsey,F Bulpitt,PJ Stahelin,CM Greechan,0,0,,,,,,"",""
+ball,2,0.7,Guernsey,F Bulpitt,PJ Stahelin,CM Greechan,0,0,,,,,,caught,F Bulpitt
+ball,2,1.1,Guernsey,PJ Stahelin,Emily Merrien,E Duffy,0,0,,,,,,"",""
+ball,2,1.2,Guernsey,PJ Stahelin,Emily Merrien,E Duffy,0,0,,,,,,"",""
+ball,2,1.3,Guernsey,PJ Stahelin,Emily Merrien,E Duffy,0,0,,,,,,"",""
+ball,2,1.4,Guernsey,PJ Stahelin,Emily Merrien,E Duffy,0,0,,,,,,"",""
+ball,2,1.5,Guernsey,PJ Stahelin,Emily Merrien,E Duffy,0,0,,,,,,"",""
+ball,2,1.6,Guernsey,PJ Stahelin,Emily Merrien,E Duffy,1,0,,,,,,"",""
+ball,2,2.1,Guernsey,PJ Stahelin,Emily Merrien,CM Greechan,0,0,,,,,,"",""
+ball,2,2.2,Guernsey,PJ Stahelin,Emily Merrien,CM Greechan,0,0,,,,,,run out,Emily Merrien
+ball,2,2.3,Guernsey,H Eulenkamp,PJ Stahelin,CM Greechan,1,0,,,,,,"",""
+ball,2,2.4,Guernsey,PJ Stahelin,H Eulenkamp,CM Greechan,1,0,,,,,,"",""
+ball,2,2.5,Guernsey,H Eulenkamp,PJ Stahelin,CM Greechan,1,0,,,,,,"",""
+ball,2,2.6,Guernsey,PJ Stahelin,H Eulenkamp,CM Greechan,0,0,,,,,,"",""
+ball,2,3.1,Guernsey,H Eulenkamp,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,3.2,Guernsey,H Eulenkamp,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,3.3,Guernsey,H Eulenkamp,PJ Stahelin,E Duffy,0,1,1,,,,,"",""
+ball,2,3.4,Guernsey,H Eulenkamp,PJ Stahelin,E Duffy,0,0,,,,,,caught,H Eulenkamp
+ball,2,3.5,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,3.6,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,3.7,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,4.1,Guernsey,PJ Stahelin,C Milner,F Copley,1,0,,,,,,"",""
+ball,2,4.2,Guernsey,C Milner,PJ Stahelin,F Copley,1,0,,,,,,"",""
+ball,2,4.3,Guernsey,PJ Stahelin,C Milner,F Copley,0,1,1,,,,,"",""
+ball,2,4.4,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,4.5,Guernsey,PJ Stahelin,C Milner,F Copley,1,0,,,,,,"",""
+ball,2,4.6,Guernsey,C Milner,PJ Stahelin,F Copley,0,0,,,,,,"",""
+ball,2,4.7,Guernsey,C Milner,PJ Stahelin,F Copley,1,0,,,,,,"",""
+ball,2,5.1,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,5.2,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,5.3,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,5.4,Guernsey,C Milner,PJ Stahelin,E Duffy,2,0,,,,,,"",""
+ball,2,5.5,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,5.6,Guernsey,C Milner,PJ Stahelin,E Duffy,0,0,,,,,,"",""
+ball,2,6.1,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,6.2,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,6.3,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,6.4,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,6.5,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,6.6,Guernsey,PJ Stahelin,C Milner,F Copley,1,0,,,,,,"",""
+ball,2,7.1,Guernsey,PJ Stahelin,C Milner,E Gouge,1,0,,,,,,"",""
+ball,2,7.2,Guernsey,C Milner,PJ Stahelin,E Gouge,0,0,,,,,,"",""
+ball,2,7.3,Guernsey,C Milner,PJ Stahelin,E Gouge,0,0,,,,,,"",""
+ball,2,7.4,Guernsey,C Milner,PJ Stahelin,E Gouge,1,0,,,,,,"",""
+ball,2,7.5,Guernsey,PJ Stahelin,C Milner,E Gouge,1,0,,,,,,"",""
+ball,2,7.6,Guernsey,C Milner,PJ Stahelin,E Gouge,0,0,,,,,,"",""
+ball,2,8.1,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,8.2,Guernsey,PJ Stahelin,C Milner,F Copley,1,0,,,,,,"",""
+ball,2,8.3,Guernsey,C Milner,PJ Stahelin,F Copley,0,0,,,,,,"",""
+ball,2,8.4,Guernsey,C Milner,PJ Stahelin,F Copley,0,0,,,,,,"",""
+ball,2,8.5,Guernsey,C Milner,PJ Stahelin,F Copley,0,0,,,,,,"",""
+ball,2,8.6,Guernsey,C Milner,PJ Stahelin,F Copley,2,0,,,,,,"",""
+ball,2,9.1,Guernsey,PJ Stahelin,C Milner,E Gouge,0,0,,,,,,"",""
+ball,2,9.2,Guernsey,PJ Stahelin,C Milner,E Gouge,0,1,,,1,,,"",""
+ball,2,9.3,Guernsey,C Milner,PJ Stahelin,E Gouge,0,0,,,,,,"",""
+ball,2,9.4,Guernsey,C Milner,PJ Stahelin,E Gouge,2,0,,,,,,"",""
+ball,2,9.5,Guernsey,C Milner,PJ Stahelin,E Gouge,0,1,1,,,,,"",""
+ball,2,9.6,Guernsey,C Milner,PJ Stahelin,E Gouge,1,0,,,,,,"",""
+ball,2,9.7,Guernsey,PJ Stahelin,C Milner,E Gouge,1,0,,,,,,"",""
+ball,2,10.1,Guernsey,PJ Stahelin,C Milner,F Copley,1,0,,,,,,"",""
+ball,2,10.2,Guernsey,C Milner,PJ Stahelin,F Copley,0,1,,,,1,,"",""
+ball,2,10.3,Guernsey,PJ Stahelin,C Milner,F Copley,0,1,1,,,,,"",""
+ball,2,10.4,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,10.5,Guernsey,PJ Stahelin,C Milner,F Copley,1,0,,,,,,"",""
+ball,2,10.6,Guernsey,C Milner,PJ Stahelin,F Copley,1,0,,,,,,"",""
+ball,2,10.7,Guernsey,PJ Stahelin,C Milner,F Copley,0,1,1,,,,,"",""
+ball,2,10.8,Guernsey,PJ Stahelin,C Milner,F Copley,0,1,1,,,,,"",""
+ball,2,10.9,Guernsey,PJ Stahelin,C Milner,F Copley,0,0,,,,,,"",""
+ball,2,11.1,Guernsey,C Milner,PJ Stahelin,E Gouge,0,0,,,,,,caught,C Milner
+ball,2,11.2,Guernsey,PJ Stahelin,R Hubbard,E Gouge,1,0,,,,,,"",""
+ball,2,11.3,Guernsey,R Hubbard,PJ Stahelin,E Gouge,0,0,,,,,,"",""
+ball,2,11.4,Guernsey,R Hubbard,PJ Stahelin,E Gouge,0,0,,,,,,"",""
+ball,2,11.5,Guernsey,R Hubbard,PJ Stahelin,E Gouge,0,1,,,,1,,"",""
+ball,2,11.6,Guernsey,PJ Stahelin,R Hubbard,E Gouge,1,0,,,,,,"",""
+ball,2,12.1,Guernsey,PJ Stahelin,R Hubbard,RM Hill,0,0,,,,,,caught,PJ Stahelin
+ball,2,12.2,Guernsey,C Jennings,R Hubbard,RM Hill,1,0,,,,,,"",""
+ball,2,12.3,Guernsey,R Hubbard,C Jennings,RM Hill,1,0,,,,,,"",""
+ball,2,12.4,Guernsey,C Jennings,R Hubbard,RM Hill,0,0,,,,,,"",""
+ball,2,12.5,Guernsey,C Jennings,R Hubbard,RM Hill,1,0,,,,,,"",""
+ball,2,12.6,Guernsey,R Hubbard,C Jennings,RM Hill,1,0,,,,,,"",""
+ball,2,13.1,Guernsey,R Hubbard,C Jennings,E Gouge,0,0,,,,,,"",""
+ball,2,13.2,Guernsey,R Hubbard,C Jennings,E Gouge,1,0,,,,,,"",""
+ball,2,13.3,Guernsey,C Jennings,R Hubbard,E Gouge,0,1,,,1,,,"",""
+ball,2,13.4,Guernsey,R Hubbard,C Jennings,E Gouge,0,1,1,,,,,"",""
+ball,2,13.5,Guernsey,R Hubbard,C Jennings,E Gouge,0,0,,,,,,"",""
+ball,2,13.6,Guernsey,R Hubbard,C Jennings,E Gouge,0,0,,,,,,"",""
+ball,2,13.7,Guernsey,R Hubbard,C Jennings,E Gouge,0,0,,,,,,"",""
+ball,2,14.1,Guernsey,C Jennings,R Hubbard,RM Hill,0,1,1,,,,,"",""
+ball,2,14.2,Guernsey,C Jennings,R Hubbard,RM Hill,0,0,,,,,,bowled,C Jennings
+ball,2,14.3,Guernsey,M Robinson,R Hubbard,RM Hill,0,0,,,,,,"",""
+ball,2,14.4,Guernsey,M Robinson,R Hubbard,RM Hill,1,0,,,,,,"",""
+ball,2,14.5,Guernsey,R Hubbard,M Robinson,RM Hill,2,0,,,,,,"",""
+ball,2,14.6,Guernsey,R Hubbard,M Robinson,RM Hill,1,0,,,,,,"",""
+ball,2,14.7,Guernsey,M Robinson,R Hubbard,RM Hill,0,0,,,,,,"",""
+ball,2,15.1,Guernsey,R Hubbard,M Robinson,T Smith,1,0,,,,,,"",""
+ball,2,15.2,Guernsey,M Robinson,R Hubbard,T Smith,0,0,,,,,,"",""
+ball,2,15.3,Guernsey,M Robinson,R Hubbard,T Smith,0,1,,,,1,,"",""
+ball,2,15.4,Guernsey,R Hubbard,M Robinson,T Smith,0,0,,,,,,"",""
+ball,2,15.5,Guernsey,R Hubbard,M Robinson,T Smith,1,0,,,,,,"",""
+ball,2,15.6,Guernsey,M Robinson,R Hubbard,T Smith,0,1,1,,,,,"",""
+ball,2,15.7,Guernsey,M Robinson,R Hubbard,T Smith,0,0,,,,,,"",""
+ball,2,16.1,Guernsey,R Hubbard,M Robinson,CM Greechan,1,0,,,,,,"",""
+ball,2,16.2,Guernsey,M Robinson,R Hubbard,CM Greechan,1,0,,,,,,"",""
+ball,2,16.3,Guernsey,R Hubbard,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,16.4,Guernsey,R Hubbard,M Robinson,CM Greechan,4,0,,,,,,"",""
+ball,2,16.5,Guernsey,R Hubbard,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,16.6,Guernsey,R Hubbard,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,17.1,Guernsey,M Robinson,R Hubbard,T Smith,1,0,,,,,,"",""
+ball,2,17.2,Guernsey,R Hubbard,M Robinson,T Smith,1,0,,,,,,"",""
+ball,2,17.3,Guernsey,M Robinson,R Hubbard,T Smith,1,0,,,,,,"",""
+ball,2,17.4,Guernsey,R Hubbard,M Robinson,T Smith,1,0,,,,,,"",""
+ball,2,17.5,Guernsey,M Robinson,R Hubbard,T Smith,1,0,,,,,,"",""
+ball,2,17.6,Guernsey,R Hubbard,M Robinson,T Smith,0,0,,,,,,bowled,R Hubbard
+ball,2,18.1,Guernsey,M Robinson,M Le Ray,CM Greechan,1,0,,,,,,"",""
+ball,2,18.2,Guernsey,M Le Ray,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,18.3,Guernsey,M Le Ray,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,18.4,Guernsey,M Le Ray,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,18.5,Guernsey,M Le Ray,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,18.6,Guernsey,M Le Ray,M Robinson,CM Greechan,0,0,,,,,,"",""
+ball,2,19.1,Guernsey,M Robinson,M Le Ray,E Duffy,0,0,,,,,,"",""
+ball,2,19.2,Guernsey,M Robinson,M Le Ray,E Duffy,1,0,,,,,,"",""
+ball,2,19.3,Guernsey,M Le Ray,M Robinson,E Duffy,0,0,,,,,,"",""
+ball,2,19.4,Guernsey,M Le Ray,M Robinson,E Duffy,0,0,,,,,,"",""
+ball,2,19.5,Guernsey,M Le Ray,M Robinson,E Duffy,1,0,,,,,,"",""
+ball,2,19.6,Guernsey,M Robinson,M Le Ray,E Duffy,0,0,,,,,,"",""

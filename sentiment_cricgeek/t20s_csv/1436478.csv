@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,France
+info,team,Italy
+info,gender,male
+info,season,2024
+info,date,2024/06/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,8
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Italy
+info,toss_decision,field
+info,umpire,J Jensen
+info,umpire,WPM van Liemt
+info,reserve_umpire,MJ Saggers
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_wickets,5
+info,player,France,H Niaz
+info,player,France,Zain Ahmad
+info,player,France,G Mckeon
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,Kamran Ahmadzai
+info,player,France,Usman Khan
+info,player,France,Noman Amjad
+info,player,France,Zaheer Zahiri
+info,player,France,Dawood Ahmadzai
+info,player,France,S Stanikzay
+info,player,Italy,J Mosca
+info,player,Italy,Syed Naqvi
+info,player,Italy,JA Burns
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,TJ Draca
+info,player,Italy,S di Bartolomeo
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,Syed Naqvi,c520c3b9
+info,registry,people,TJ Draca,88fac705
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zain Ahmad,ea2c0aff
+ball,1,0.1,France,H Niaz,Zain Ahmad,HJ Manenti,2,0,,,,,,"",""
+ball,1,0.2,France,H Niaz,Zain Ahmad,HJ Manenti,4,0,,,,,,"",""
+ball,1,0.3,France,H Niaz,Zain Ahmad,HJ Manenti,0,0,,,,,,"",""
+ball,1,0.4,France,H Niaz,Zain Ahmad,HJ Manenti,0,0,,,,,,"",""
+ball,1,0.5,France,H Niaz,Zain Ahmad,HJ Manenti,4,0,,,,,,"",""
+ball,1,0.6,France,H Niaz,Zain Ahmad,HJ Manenti,0,0,,,,,,"",""
+ball,1,1.1,France,Zain Ahmad,H Niaz,TJ Draca,0,0,,,,,,"",""
+ball,1,1.2,France,Zain Ahmad,H Niaz,TJ Draca,0,0,,,,,,"",""
+ball,1,1.3,France,Zain Ahmad,H Niaz,TJ Draca,0,1,1,,,,,"",""
+ball,1,1.4,France,Zain Ahmad,H Niaz,TJ Draca,0,0,,,,,,caught,Zain Ahmad
+ball,1,1.5,France,G Mckeon,H Niaz,TJ Draca,0,1,1,,,,,"",""
+ball,1,1.6,France,G Mckeon,H Niaz,TJ Draca,0,0,,,,,,"",""
+ball,1,1.7,France,G Mckeon,H Niaz,TJ Draca,1,0,,,,,,"",""
+ball,1,1.8,France,H Niaz,G Mckeon,TJ Draca,1,0,,,,,,"",""
+ball,1,2.1,France,H Niaz,G Mckeon,GK Berg,0,0,,,,,,"",""
+ball,1,2.2,France,H Niaz,G Mckeon,GK Berg,1,0,,,,,,"",""
+ball,1,2.3,France,G Mckeon,H Niaz,GK Berg,0,0,,,,,,"",""
+ball,1,2.4,France,G Mckeon,H Niaz,GK Berg,0,0,,,,,,"",""
+ball,1,2.5,France,G Mckeon,H Niaz,GK Berg,0,0,,,,,,"",""
+ball,1,2.6,France,G Mckeon,H Niaz,GK Berg,4,0,,,,,,"",""
+ball,1,3.1,France,H Niaz,G Mckeon,TJ Draca,6,0,,,,,,"",""
+ball,1,3.2,France,H Niaz,G Mckeon,TJ Draca,4,0,,,,,,"",""
+ball,1,3.3,France,H Niaz,G Mckeon,TJ Draca,0,0,,,,,,"",""
+ball,1,3.4,France,H Niaz,G Mckeon,TJ Draca,0,0,,,,,,"",""
+ball,1,3.5,France,H Niaz,G Mckeon,TJ Draca,4,0,,,,,,"",""
+ball,1,3.6,France,H Niaz,G Mckeon,TJ Draca,2,0,,,,,,"",""
+ball,1,4.1,France,G Mckeon,H Niaz,GK Berg,0,0,,,,,,"",""
+ball,1,4.2,France,G Mckeon,H Niaz,GK Berg,0,0,,,,,,"",""
+ball,1,4.3,France,G Mckeon,H Niaz,GK Berg,0,0,,,,,,"",""
+ball,1,4.4,France,G Mckeon,H Niaz,GK Berg,0,0,,,,,,"",""
+ball,1,4.5,France,G Mckeon,H Niaz,GK Berg,3,0,,,,,,"",""
+ball,1,4.6,France,H Niaz,G Mckeon,GK Berg,0,0,,,,,,"",""
+ball,1,5.1,France,G Mckeon,H Niaz,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,5.2,France,G Mckeon,H Niaz,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,5.3,France,G Mckeon,H Niaz,S di Bartolomeo,4,0,,,,,,"",""
+ball,1,5.4,France,G Mckeon,H Niaz,S di Bartolomeo,1,0,,,,,,"",""
+ball,1,5.5,France,H Niaz,G Mckeon,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,5.6,France,H Niaz,G Mckeon,S di Bartolomeo,0,0,,,,,,caught,H Niaz
+ball,1,6.1,France,G Mckeon,C Roberts,GK Berg,0,0,,,,,,"",""
+ball,1,6.2,France,G Mckeon,C Roberts,GK Berg,1,0,,,,,,"",""
+ball,1,6.3,France,C Roberts,G Mckeon,GK Berg,1,0,,,,,,"",""
+ball,1,6.4,France,G Mckeon,C Roberts,GK Berg,0,0,,,,,,caught,G Mckeon
+ball,1,6.5,France,L Canessane,C Roberts,GK Berg,1,0,,,,,,"",""
+ball,1,6.6,France,C Roberts,L Canessane,GK Berg,2,0,,,,,,"",""
+ball,1,7.1,France,L Canessane,C Roberts,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,7.2,France,L Canessane,C Roberts,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,7.3,France,L Canessane,C Roberts,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,7.4,France,C Roberts,L Canessane,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,7.5,France,L Canessane,C Roberts,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,7.6,France,L Canessane,C Roberts,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,8.1,France,C Roberts,L Canessane,S di Bartolomeo,4,0,,,,,,"",""
+ball,1,8.2,France,C Roberts,L Canessane,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,8.3,France,C Roberts,L Canessane,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,8.4,France,C Roberts,L Canessane,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,8.5,France,C Roberts,L Canessane,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,8.6,France,C Roberts,L Canessane,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,9.1,France,L Canessane,C Roberts,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,9.2,France,C Roberts,L Canessane,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,9.3,France,C Roberts,L Canessane,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,9.4,France,C Roberts,L Canessane,CJPF Kalugamage,6,0,,,,,,"",""
+ball,1,9.5,France,C Roberts,L Canessane,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,9.6,France,L Canessane,C Roberts,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,10.1,France,L Canessane,C Roberts,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,10.2,France,L Canessane,C Roberts,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,10.3,France,L Canessane,C Roberts,S di Bartolomeo,1,0,,,,,,"",""
+ball,1,10.4,France,C Roberts,L Canessane,S di Bartolomeo,1,0,,,,,,"",""
+ball,1,10.5,France,L Canessane,C Roberts,S di Bartolomeo,2,0,,,,,,"",""
+ball,1,10.6,France,L Canessane,C Roberts,S di Bartolomeo,1,0,,,,,,"",""
+ball,1,11.1,France,L Canessane,C Roberts,HJ Manenti,0,0,,,,,,"",""
+ball,1,11.2,France,L Canessane,C Roberts,HJ Manenti,4,0,,,,,,"",""
+ball,1,11.3,France,L Canessane,C Roberts,HJ Manenti,1,0,,,,,,"",""
+ball,1,11.4,France,C Roberts,L Canessane,HJ Manenti,1,0,,,,,,"",""
+ball,1,11.5,France,L Canessane,C Roberts,HJ Manenti,1,0,,,,,,"",""
+ball,1,11.6,France,C Roberts,L Canessane,HJ Manenti,1,0,,,,,,"",""
+ball,1,12.1,France,C Roberts,L Canessane,TJ Draca,0,0,,,,,,"",""
+ball,1,12.2,France,C Roberts,L Canessane,TJ Draca,1,0,,,,,,"",""
+ball,1,12.3,France,L Canessane,C Roberts,TJ Draca,0,0,,,,,,"",""
+ball,1,12.4,France,L Canessane,C Roberts,TJ Draca,1,0,,,,,,"",""
+ball,1,12.5,France,C Roberts,L Canessane,TJ Draca,1,0,,,,,,"",""
+ball,1,12.6,France,L Canessane,C Roberts,TJ Draca,1,0,,,,,,"",""
+ball,1,13.1,France,L Canessane,C Roberts,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,13.2,France,C Roberts,L Canessane,CJPF Kalugamage,2,0,,,,,,"",""
+ball,1,13.3,France,C Roberts,L Canessane,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,13.4,France,L Canessane,C Roberts,CJPF Kalugamage,0,0,,,,,,caught,L Canessane
+ball,1,13.5,France,Kamran Ahmadzai,C Roberts,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,13.6,France,Kamran Ahmadzai,C Roberts,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,14.1,France,C Roberts,Kamran Ahmadzai,S di Bartolomeo,4,0,,,,,,"",""
+ball,1,14.2,France,C Roberts,Kamran Ahmadzai,S di Bartolomeo,1,0,,,,,,"",""
+ball,1,14.3,France,Kamran Ahmadzai,C Roberts,S di Bartolomeo,0,0,,,,,,"",""
+ball,1,14.4,France,Kamran Ahmadzai,C Roberts,S di Bartolomeo,1,0,,,,,,"",""
+ball,1,14.5,France,C Roberts,Kamran Ahmadzai,S di Bartolomeo,0,0,,,,,,caught and bowled,C Roberts
+ball,1,14.6,France,Usman Khan,Kamran Ahmadzai,S di Bartolomeo,1,0,,,,,,"",""
+ball,1,15.1,France,Usman Khan,Kamran Ahmadzai,HJ Manenti,1,0,,,,,,"",""
+ball,1,15.2,France,Kamran Ahmadzai,Usman Khan,HJ Manenti,1,0,,,,,,"",""
+ball,1,15.3,France,Usman Khan,Kamran Ahmadzai,HJ Manenti,0,0,,,,,,"",""
+ball,1,15.4,France,Usman Khan,Kamran Ahmadzai,HJ Manenti,1,0,,,,,,"",""
+ball,1,15.5,France,Kamran Ahmadzai,Usman Khan,HJ Manenti,1,0,,,,,,"",""
+ball,1,15.6,France,Usman Khan,Kamran Ahmadzai,HJ Manenti,1,0,,,,,,"",""
+ball,1,16.1,France,Kamran Ahmadzai,Usman Khan,GK Berg,6,0,,,,,,"",""
+ball,1,16.2,France,Kamran Ahmadzai,Usman Khan,GK Berg,0,0,,,,,,"",""
+ball,1,16.3,France,Kamran Ahmadzai,Usman Khan,GK Berg,1,0,,,,,,"",""
+ball,1,16.4,France,Usman Khan,Kamran Ahmadzai,GK Berg,1,0,,,,,,"",""
+ball,1,16.5,France,Kamran Ahmadzai,Usman Khan,GK Berg,2,0,,,,,,"",""
+ball,1,16.6,France,Kamran Ahmadzai,Usman Khan,GK Berg,1,0,,,,,,"",""
+ball,1,17.1,France,Kamran Ahmadzai,Usman Khan,CJPF Kalugamage,0,0,,,,,,caught,Kamran Ahmadzai
+ball,1,17.2,France,Noman Amjad,Usman Khan,CJPF Kalugamage,2,0,,,,,,"",""
+ball,1,17.3,France,Noman Amjad,Usman Khan,CJPF Kalugamage,0,0,,,,,,caught and bowled,Noman Amjad
+ball,1,17.4,France,Zaheer Zahiri,Usman Khan,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,17.5,France,Zaheer Zahiri,Usman Khan,CJPF Kalugamage,0,0,,,,,,caught,Zaheer Zahiri
+ball,1,17.6,France,Dawood Ahmadzai,Usman Khan,CJPF Kalugamage,0,1,,,1,,,"",""
+ball,1,18.1,France,Dawood Ahmadzai,Usman Khan,TJ Draca,0,0,,,,,,"",""
+ball,1,18.2,France,Dawood Ahmadzai,Usman Khan,TJ Draca,1,0,,,,,,"",""
+ball,1,18.3,France,Usman Khan,Dawood Ahmadzai,TJ Draca,1,0,,,,,,"",""
+ball,1,18.4,France,Dawood Ahmadzai,Usman Khan,TJ Draca,1,0,,,,,,"",""
+ball,1,18.5,France,Usman Khan,Dawood Ahmadzai,TJ Draca,0,0,,,,,,"",""
+ball,1,18.6,France,Usman Khan,Dawood Ahmadzai,TJ Draca,0,0,,,,,,"",""
+ball,1,19.1,France,Dawood Ahmadzai,Usman Khan,HJ Manenti,1,0,,,,,,"",""
+ball,1,19.2,France,Usman Khan,Dawood Ahmadzai,HJ Manenti,1,0,,,,,,"",""
+ball,1,19.3,France,Dawood Ahmadzai,Usman Khan,HJ Manenti,1,0,,,,,,"",""
+ball,1,19.4,France,Usman Khan,Dawood Ahmadzai,HJ Manenti,0,0,,,,,,caught,Usman Khan
+ball,1,19.5,France,S Stanikzay,Dawood Ahmadzai,HJ Manenti,0,0,,,,,,"",""
+ball,1,19.6,France,S Stanikzay,Dawood Ahmadzai,HJ Manenti,0,0,,,,,,bowled,S Stanikzay
+ball,2,0.1,Italy,J Mosca,Syed Naqvi,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,0.2,Italy,J Mosca,Syed Naqvi,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,0.3,Italy,Syed Naqvi,J Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,0.4,Italy,Syed Naqvi,J Mosca,Zaheer Zahiri,0,0,,,,,,caught,Syed Naqvi
+ball,2,0.5,Italy,JA Burns,J Mosca,Zaheer Zahiri,0,0,,,,,,lbw,JA Burns
+ball,2,0.6,Italy,AJ Mosca,J Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,1.1,Italy,J Mosca,AJ Mosca,Noman Amjad,1,0,,,,,,"",""
+ball,2,1.2,Italy,AJ Mosca,J Mosca,Noman Amjad,0,0,,,,,,"",""
+ball,2,1.3,Italy,AJ Mosca,J Mosca,Noman Amjad,0,0,,,,,,run out,J Mosca
+ball,2,1.4,Italy,HJ Manenti,AJ Mosca,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,1.5,Italy,HJ Manenti,AJ Mosca,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,1.6,Italy,AJ Mosca,HJ Manenti,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,2.1,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,1,1,,,,,"",""
+ball,2,2.2,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.3,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.4,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.5,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,2.6,Italy,AJ Mosca,HJ Manenti,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.7,Italy,AJ Mosca,HJ Manenti,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,3.1,Italy,HJ Manenti,AJ Mosca,Kamran Ahmadzai,4,0,,,,,,"",""
+ball,2,3.2,Italy,HJ Manenti,AJ Mosca,Kamran Ahmadzai,4,0,,,,,,"",""
+ball,2,3.3,Italy,HJ Manenti,AJ Mosca,Kamran Ahmadzai,4,0,,,,,,"",""
+ball,2,3.4,Italy,HJ Manenti,AJ Mosca,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,3.5,Italy,HJ Manenti,AJ Mosca,Kamran Ahmadzai,1,0,,,,,,"",""
+ball,2,3.6,Italy,AJ Mosca,HJ Manenti,Kamran Ahmadzai,0,0,,,,,,"",""
+ball,2,4.1,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,4.2,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,4.3,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,4.4,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,4,0,,,,,,"",""
+ball,2,4.5,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,4,0,,,,,,"",""
+ball,2,4.6,Italy,HJ Manenti,AJ Mosca,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,5.1,Italy,AJ Mosca,HJ Manenti,Usman Khan,0,0,,,,,,"",""
+ball,2,5.2,Italy,AJ Mosca,HJ Manenti,Usman Khan,0,0,,,,,,"",""
+ball,2,5.3,Italy,AJ Mosca,HJ Manenti,Usman Khan,0,0,,,,,,"",""
+ball,2,5.4,Italy,AJ Mosca,HJ Manenti,Usman Khan,6,0,,,,,,"",""
+ball,2,5.5,Italy,AJ Mosca,HJ Manenti,Usman Khan,1,0,,,,,,"",""
+ball,2,5.6,Italy,HJ Manenti,AJ Mosca,Usman Khan,4,0,,,,,,"",""
+ball,2,6.1,Italy,AJ Mosca,HJ Manenti,S Stanikzay,1,0,,,,,,"",""
+ball,2,6.2,Italy,HJ Manenti,AJ Mosca,S Stanikzay,0,0,,,,,,"",""
+ball,2,6.3,Italy,HJ Manenti,AJ Mosca,S Stanikzay,0,0,,,,,,"",""
+ball,2,6.4,Italy,HJ Manenti,AJ Mosca,S Stanikzay,1,0,,,,,,"",""
+ball,2,6.5,Italy,AJ Mosca,HJ Manenti,S Stanikzay,1,0,,,,,,"",""
+ball,2,6.6,Italy,HJ Manenti,AJ Mosca,S Stanikzay,0,0,,,,,,"",""
+ball,2,7.1,Italy,AJ Mosca,HJ Manenti,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,2,7.2,Italy,AJ Mosca,HJ Manenti,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,7.3,Italy,HJ Manenti,AJ Mosca,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,7.4,Italy,AJ Mosca,HJ Manenti,Dawood Ahmadzai,2,0,,,,,,"",""
+ball,2,7.5,Italy,AJ Mosca,HJ Manenti,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,7.6,Italy,HJ Manenti,AJ Mosca,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,2,8.1,Italy,AJ Mosca,HJ Manenti,S Stanikzay,1,0,,,,,,"",""
+ball,2,8.2,Italy,HJ Manenti,AJ Mosca,S Stanikzay,4,0,,,,,,"",""
+ball,2,8.3,Italy,HJ Manenti,AJ Mosca,S Stanikzay,1,0,,,,,,"",""
+ball,2,8.4,Italy,AJ Mosca,HJ Manenti,S Stanikzay,0,0,,,,,,"",""
+ball,2,8.5,Italy,AJ Mosca,HJ Manenti,S Stanikzay,1,0,,,,,,"",""
+ball,2,8.6,Italy,HJ Manenti,AJ Mosca,S Stanikzay,1,0,,,,,,"",""
+ball,2,9.1,Italy,HJ Manenti,AJ Mosca,G Mckeon,0,0,,,,,,"",""
+ball,2,9.2,Italy,HJ Manenti,AJ Mosca,G Mckeon,1,0,,,,,,"",""
+ball,2,9.3,Italy,AJ Mosca,HJ Manenti,G Mckeon,0,1,,,,1,,"",""
+ball,2,9.4,Italy,HJ Manenti,AJ Mosca,G Mckeon,1,0,,,,,,"",""
+ball,2,9.5,Italy,AJ Mosca,HJ Manenti,G Mckeon,1,0,,,,,,"",""
+ball,2,9.6,Italy,HJ Manenti,AJ Mosca,G Mckeon,0,0,,,,,,"",""
+ball,2,10.1,Italy,AJ Mosca,HJ Manenti,S Stanikzay,0,0,,,,,,"",""
+ball,2,10.2,Italy,AJ Mosca,HJ Manenti,S Stanikzay,1,0,,,,,,"",""
+ball,2,10.3,Italy,HJ Manenti,AJ Mosca,S Stanikzay,4,0,,,,,,"",""
+ball,2,10.4,Italy,HJ Manenti,AJ Mosca,S Stanikzay,0,0,,,,,,"",""
+ball,2,10.5,Italy,HJ Manenti,AJ Mosca,S Stanikzay,0,0,,,,,,"",""
+ball,2,10.6,Italy,HJ Manenti,AJ Mosca,S Stanikzay,1,0,,,,,,"",""
+ball,2,11.1,Italy,HJ Manenti,AJ Mosca,G Mckeon,0,0,,,,,,"",""
+ball,2,11.2,Italy,HJ Manenti,AJ Mosca,G Mckeon,2,0,,,,,,"",""
+ball,2,11.3,Italy,HJ Manenti,AJ Mosca,G Mckeon,0,1,1,,,,,"",""
+ball,2,11.4,Italy,HJ Manenti,AJ Mosca,G Mckeon,0,0,,,,,,"",""
+ball,2,11.5,Italy,HJ Manenti,AJ Mosca,G Mckeon,1,0,,,,,,"",""
+ball,2,11.6,Italy,AJ Mosca,HJ Manenti,G Mckeon,0,0,,,,,,"",""
+ball,2,11.7,Italy,AJ Mosca,HJ Manenti,G Mckeon,1,0,,,,,,"",""
+ball,2,12.1,Italy,AJ Mosca,HJ Manenti,S Stanikzay,1,0,,,,,,"",""
+ball,2,12.2,Italy,HJ Manenti,AJ Mosca,S Stanikzay,0,0,,,,,,"",""
+ball,2,12.3,Italy,HJ Manenti,AJ Mosca,S Stanikzay,4,0,,,,,,"",""
+ball,2,12.4,Italy,HJ Manenti,AJ Mosca,S Stanikzay,2,0,,,,,,"",""
+ball,2,12.5,Italy,HJ Manenti,AJ Mosca,S Stanikzay,1,0,,,,,,"",""
+ball,2,12.6,Italy,AJ Mosca,HJ Manenti,S Stanikzay,1,0,,,,,,"",""
+ball,2,13.1,Italy,AJ Mosca,HJ Manenti,Usman Khan,1,0,,,,,,"",""
+ball,2,13.2,Italy,HJ Manenti,AJ Mosca,Usman Khan,0,0,,,,,,"",""
+ball,2,13.3,Italy,HJ Manenti,AJ Mosca,Usman Khan,1,0,,,,,,"",""
+ball,2,13.4,Italy,AJ Mosca,HJ Manenti,Usman Khan,1,0,,,,,,"",""
+ball,2,13.5,Italy,HJ Manenti,AJ Mosca,Usman Khan,4,0,,,,,,"",""
+ball,2,13.6,Italy,HJ Manenti,AJ Mosca,Usman Khan,0,0,,,,,,"",""
+ball,2,14.1,Italy,AJ Mosca,HJ Manenti,Dawood Ahmadzai,0,0,,,,,,caught,AJ Mosca
+ball,2,14.2,Italy,M Campopiano,HJ Manenti,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,14.3,Italy,M Campopiano,HJ Manenti,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,14.4,Italy,M Campopiano,HJ Manenti,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,14.5,Italy,HJ Manenti,M Campopiano,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,14.6,Italy,HJ Manenti,M Campopiano,Dawood Ahmadzai,4,0,,,,,,"",""
+ball,2,15.1,Italy,M Campopiano,HJ Manenti,Usman Khan,0,0,,,,,,"",""
+ball,2,15.2,Italy,M Campopiano,HJ Manenti,Usman Khan,4,0,,,,,,"",""
+ball,2,15.3,Italy,M Campopiano,HJ Manenti,Usman Khan,0,0,,,,,,"",""
+ball,2,15.4,Italy,M Campopiano,HJ Manenti,Usman Khan,1,0,,,,,,"",""
+ball,2,15.5,Italy,HJ Manenti,M Campopiano,Usman Khan,0,0,,,,,,"",""
+ball,2,15.6,Italy,HJ Manenti,M Campopiano,Usman Khan,0,0,,,,,,bowled,HJ Manenti
+ball,2,16.1,Italy,M Campopiano,GP Meade,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,16.2,Italy,GP Meade,M Campopiano,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,16.3,Italy,M Campopiano,GP Meade,Dawood Ahmadzai,2,0,,,,,,"",""
+ball,2,16.4,Italy,M Campopiano,GP Meade,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,16.5,Italy,M Campopiano,GP Meade,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,16.6,Italy,GP Meade,M Campopiano,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,17.1,Italy,M Campopiano,GP Meade,Usman Khan,2,0,,,,,,"",""
+ball,2,17.2,Italy,M Campopiano,GP Meade,Usman Khan,0,0,,,,,,"",""
+ball,2,17.3,Italy,M Campopiano,GP Meade,Usman Khan,1,0,,,,,,"",""
+ball,2,17.4,Italy,GP Meade,M Campopiano,Usman Khan,1,0,,,,,,"",""
+ball,2,17.5,Italy,M Campopiano,GP Meade,Usman Khan,2,0,,,,,,"",""
+ball,2,17.6,Italy,M Campopiano,GP Meade,Usman Khan,1,0,,,,,,"",""
+ball,2,18.1,Italy,M Campopiano,GP Meade,G Mckeon,0,0,,,,,,"",""
+ball,2,18.2,Italy,M Campopiano,GP Meade,G Mckeon,4,0,,,,,,"",""

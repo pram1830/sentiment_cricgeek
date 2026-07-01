@@ -1,0 +1,323 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Netherlands
+info,gender,female
+info,season,2023
+info,date,2023/07/12
+info,event,Netherlands Women's T20I Tri-Series
+info,match_number,3
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,DEM Carter
+info,umpire,M Prabhudesa
+info,umpire,N Bathi
+info,reserve_umpire,M Hancock
+info,match_referee,Adriaan van den Dries
+info,winner,Scotland
+info,winner_runs,6
+info,player,Scotland,A Lister
+info,player,Scotland,DEM Carter
+info,player,Scotland,L Jack
+info,player,Scotland,PA Chatterji
+info,player,Scotland,S Haggo
+info,player,Scotland,EL Watson
+info,player,Scotland,M McColl
+info,player,Scotland,R Slater
+info,player,Scotland,AH Maqsood
+info,player,Scotland,HRA Rainey
+info,player,Scotland,NM Sheikh
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,RM van Oosterom
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,C de Lange
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,EL Watson,45dd7433
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M Hancock,deb8c9a5
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NM Sheikh,23ef9b32
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Rijke,42e4b276
+info,registry,people,R Slater,8a452195
+info,registry,people,RM van Oosterom,3ffeb064
+info,registry,people,S Haggo,35230fa3
+info,registry,people,SL Kalis,2b150c6b
+ball,1,0.1,Scotland,A Lister,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,0.2,Scotland,A Lister,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,0.3,Scotland,A Lister,DEM Carter,IJR Zwilling,4,0,,,,,,"",""
+ball,1,0.4,Scotland,A Lister,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,0.5,Scotland,A Lister,DEM Carter,IJR Zwilling,2,0,,,,,,"",""
+ball,1,0.6,Scotland,A Lister,DEM Carter,IJR Zwilling,0,0,,,,,,bowled,A Lister
+ball,1,1.1,Scotland,DEM Carter,L Jack,EN Lynch,1,0,,,,,,"",""
+ball,1,1.2,Scotland,L Jack,DEM Carter,EN Lynch,0,0,,,,,,lbw,L Jack
+ball,1,1.3,Scotland,PA Chatterji,DEM Carter,EN Lynch,1,0,,,,,,"",""
+ball,1,1.4,Scotland,DEM Carter,PA Chatterji,EN Lynch,0,0,,,,,,"",""
+ball,1,1.5,Scotland,DEM Carter,PA Chatterji,EN Lynch,0,0,,,,,,"",""
+ball,1,1.6,Scotland,DEM Carter,PA Chatterji,EN Lynch,0,0,,,,,,"",""
+ball,1,2.1,Scotland,PA Chatterji,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,2.2,Scotland,PA Chatterji,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,2.3,Scotland,PA Chatterji,DEM Carter,IJR Zwilling,4,0,,,,,,"",""
+ball,1,2.4,Scotland,PA Chatterji,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,2.5,Scotland,PA Chatterji,DEM Carter,IJR Zwilling,1,0,,,,,,"",""
+ball,1,2.6,Scotland,DEM Carter,PA Chatterji,IJR Zwilling,0,0,,,,,,"",""
+ball,1,3.1,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,"",""
+ball,1,3.2,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,"",""
+ball,1,3.3,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,"",""
+ball,1,3.4,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,"",""
+ball,1,3.5,Scotland,PA Chatterji,DEM Carter,EN Lynch,1,0,,,,,,"",""
+ball,1,3.6,Scotland,DEM Carter,PA Chatterji,EN Lynch,1,0,,,,,,"",""
+ball,1,4.1,Scotland,DEM Carter,PA Chatterji,R Rijke,0,0,,,,,,"",""
+ball,1,4.2,Scotland,DEM Carter,PA Chatterji,R Rijke,0,0,,,,,,"",""
+ball,1,4.3,Scotland,DEM Carter,PA Chatterji,R Rijke,2,0,,,,,,"",""
+ball,1,4.4,Scotland,DEM Carter,PA Chatterji,R Rijke,1,0,,,,,,"",""
+ball,1,4.5,Scotland,PA Chatterji,DEM Carter,R Rijke,0,0,,,,,,"",""
+ball,1,4.6,Scotland,PA Chatterji,DEM Carter,R Rijke,0,1,1,,,,,"",""
+ball,1,4.7,Scotland,PA Chatterji,DEM Carter,R Rijke,0,1,1,,,,,"",""
+ball,1,4.8,Scotland,PA Chatterji,DEM Carter,R Rijke,2,0,,,,,,"",""
+ball,1,5.1,Scotland,DEM Carter,PA Chatterji,EN Lynch,0,0,,,,,,"",""
+ball,1,5.2,Scotland,DEM Carter,PA Chatterji,EN Lynch,2,0,,,,,,"",""
+ball,1,5.3,Scotland,DEM Carter,PA Chatterji,EN Lynch,1,0,,,,,,"",""
+ball,1,5.4,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,"",""
+ball,1,5.5,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,"",""
+ball,1,5.6,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,"",""
+ball,1,6.1,Scotland,DEM Carter,PA Chatterji,P Molkenboer,0,0,,,,,,"",""
+ball,1,6.2,Scotland,DEM Carter,PA Chatterji,P Molkenboer,0,0,,,,,,"",""
+ball,1,6.3,Scotland,DEM Carter,PA Chatterji,P Molkenboer,1,0,,,,,,"",""
+ball,1,6.4,Scotland,PA Chatterji,DEM Carter,P Molkenboer,0,0,,,,,,"",""
+ball,1,6.5,Scotland,PA Chatterji,DEM Carter,P Molkenboer,0,0,,,,,,"",""
+ball,1,6.6,Scotland,PA Chatterji,DEM Carter,P Molkenboer,1,0,,,,,,"",""
+ball,1,7.1,Scotland,PA Chatterji,DEM Carter,EN Lynch,1,0,,,,,,"",""
+ball,1,7.2,Scotland,DEM Carter,PA Chatterji,EN Lynch,0,2,2,,,,,"",""
+ball,1,7.3,Scotland,PA Chatterji,DEM Carter,EN Lynch,1,0,,,,,,"",""
+ball,1,7.4,Scotland,DEM Carter,PA Chatterji,EN Lynch,1,0,,,,,,"",""
+ball,1,7.5,Scotland,PA Chatterji,DEM Carter,EN Lynch,0,0,,,,,,bowled,PA Chatterji
+ball,1,7.6,Scotland,S Haggo,DEM Carter,EN Lynch,1,0,,,,,,"",""
+ball,1,7.7,Scotland,DEM Carter,S Haggo,EN Lynch,0,0,,,,,,"",""
+ball,1,8.1,Scotland,S Haggo,DEM Carter,P Molkenboer,0,0,,,,,,"",""
+ball,1,8.2,Scotland,S Haggo,DEM Carter,P Molkenboer,0,0,,,,,,bowled,S Haggo
+ball,1,8.3,Scotland,EL Watson,DEM Carter,P Molkenboer,4,0,,,,,,"",""
+ball,1,8.4,Scotland,EL Watson,DEM Carter,P Molkenboer,1,0,,,,,,"",""
+ball,1,8.5,Scotland,DEM Carter,EL Watson,P Molkenboer,0,0,,,,,,"",""
+ball,1,8.6,Scotland,DEM Carter,EL Watson,P Molkenboer,2,0,,,,,,"",""
+ball,1,9.1,Scotland,EL Watson,DEM Carter,C de Lange,0,0,,,,,,"",""
+ball,1,9.2,Scotland,EL Watson,DEM Carter,C de Lange,0,0,,,,,,"",""
+ball,1,9.3,Scotland,EL Watson,DEM Carter,C de Lange,0,0,,,,,,stumped,EL Watson
+ball,1,9.4,Scotland,M McColl,DEM Carter,C de Lange,0,0,,,,,,"",""
+ball,1,9.5,Scotland,M McColl,DEM Carter,C de Lange,1,0,,,,,,"",""
+ball,1,9.6,Scotland,DEM Carter,M McColl,C de Lange,1,0,,,,,,"",""
+ball,1,10.1,Scotland,DEM Carter,M McColl,F Overdijk,0,0,,,,,,"",""
+ball,1,10.2,Scotland,DEM Carter,M McColl,F Overdijk,0,1,1,,,,,"",""
+ball,1,10.3,Scotland,DEM Carter,M McColl,F Overdijk,2,0,,,,,,"",""
+ball,1,10.4,Scotland,DEM Carter,M McColl,F Overdijk,2,0,,,,,,"",""
+ball,1,10.5,Scotland,DEM Carter,M McColl,F Overdijk,3,0,,,,,,"",""
+ball,1,10.6,Scotland,M McColl,DEM Carter,F Overdijk,0,1,1,,,,,"",""
+ball,1,10.7,Scotland,M McColl,DEM Carter,F Overdijk,2,0,,,,,,"",""
+ball,1,10.8,Scotland,M McColl,DEM Carter,F Overdijk,0,0,,,,,,"",""
+ball,1,11.1,Scotland,DEM Carter,M McColl,C de Lange,0,0,,,,,,"",""
+ball,1,11.2,Scotland,DEM Carter,M McColl,C de Lange,0,0,,,,,,"",""
+ball,1,11.3,Scotland,DEM Carter,M McColl,C de Lange,1,0,,,,,,"",""
+ball,1,11.4,Scotland,M McColl,DEM Carter,C de Lange,1,0,,,,,,"",""
+ball,1,11.5,Scotland,DEM Carter,M McColl,C de Lange,0,0,,,,,,"",""
+ball,1,11.6,Scotland,DEM Carter,M McColl,C de Lange,2,0,,,,,,"",""
+ball,1,12.1,Scotland,M McColl,DEM Carter,P Molkenboer,2,0,,,,,,"",""
+ball,1,12.2,Scotland,M McColl,DEM Carter,P Molkenboer,1,0,,,,,,"",""
+ball,1,12.3,Scotland,DEM Carter,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,1,12.4,Scotland,DEM Carter,M McColl,P Molkenboer,4,0,,,,,,"",""
+ball,1,12.5,Scotland,DEM Carter,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,1,12.6,Scotland,DEM Carter,M McColl,P Molkenboer,0,0,,,,,,"",""
+ball,1,13.1,Scotland,M McColl,DEM Carter,C de Lange,0,0,,,,,,"",""
+ball,1,13.2,Scotland,M McColl,DEM Carter,C de Lange,0,0,,,,,,"",""
+ball,1,13.3,Scotland,M McColl,DEM Carter,C de Lange,1,0,,,,,,"",""
+ball,1,13.4,Scotland,DEM Carter,M McColl,C de Lange,0,0,,,,,,"",""
+ball,1,13.5,Scotland,DEM Carter,M McColl,C de Lange,0,0,,,,,,"",""
+ball,1,13.6,Scotland,DEM Carter,M McColl,C de Lange,4,0,,,,,,"",""
+ball,1,14.1,Scotland,M McColl,DEM Carter,P Molkenboer,0,0,,,,,,"",""
+ball,1,14.2,Scotland,M McColl,DEM Carter,P Molkenboer,0,0,,,,,,"",""
+ball,1,14.3,Scotland,M McColl,DEM Carter,P Molkenboer,2,0,,,,,,"",""
+ball,1,14.4,Scotland,M McColl,DEM Carter,P Molkenboer,1,0,,,,,,"",""
+ball,1,14.5,Scotland,DEM Carter,M McColl,P Molkenboer,1,0,,,,,,"",""
+ball,1,14.6,Scotland,M McColl,DEM Carter,P Molkenboer,0,0,,,,,,"",""
+ball,1,15.1,Scotland,DEM Carter,M McColl,C de Lange,1,0,,,,,,"",""
+ball,1,15.2,Scotland,M McColl,DEM Carter,C de Lange,1,0,,,,,,"",""
+ball,1,15.3,Scotland,DEM Carter,M McColl,C de Lange,2,0,,,,,,"",""
+ball,1,15.4,Scotland,DEM Carter,M McColl,C de Lange,4,0,,,,,,"",""
+ball,1,15.5,Scotland,DEM Carter,M McColl,C de Lange,1,0,,,,,,"",""
+ball,1,15.6,Scotland,M McColl,DEM Carter,C de Lange,2,0,,,,,,"",""
+ball,1,16.1,Scotland,DEM Carter,M McColl,IJR Zwilling,0,1,1,,,,,"",""
+ball,1,16.2,Scotland,DEM Carter,M McColl,IJR Zwilling,1,0,,,,,,"",""
+ball,1,16.3,Scotland,M McColl,DEM Carter,IJR Zwilling,1,0,,,,,,"",""
+ball,1,16.4,Scotland,DEM Carter,M McColl,IJR Zwilling,4,0,,,,,,"",""
+ball,1,16.5,Scotland,DEM Carter,M McColl,IJR Zwilling,1,0,,,,,,"",""
+ball,1,16.6,Scotland,M McColl,DEM Carter,IJR Zwilling,0,5,5,,,,,"",""
+ball,1,16.7,Scotland,M McColl,DEM Carter,IJR Zwilling,1,0,,,,,,"",""
+ball,1,16.8,Scotland,DEM Carter,M McColl,IJR Zwilling,2,0,,,,,,"",""
+ball,1,17.1,Scotland,M McColl,DEM Carter,R Rijke,0,0,,,,,,bowled,M McColl
+ball,1,17.2,Scotland,R Slater,DEM Carter,R Rijke,0,0,,,,,,"",""
+ball,1,17.3,Scotland,R Slater,DEM Carter,R Rijke,0,1,1,,,,,"",""
+ball,1,17.4,Scotland,R Slater,DEM Carter,R Rijke,1,0,,,,,,"",""
+ball,1,17.5,Scotland,DEM Carter,R Slater,R Rijke,0,0,,,,,,"",""
+ball,1,17.6,Scotland,DEM Carter,R Slater,R Rijke,2,0,,,,,,"",""
+ball,1,17.7,Scotland,DEM Carter,R Slater,R Rijke,0,0,,,,,,"",""
+ball,1,18.1,Scotland,R Slater,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,18.2,Scotland,R Slater,DEM Carter,IJR Zwilling,0,0,,,,,,caught,R Slater
+ball,1,18.3,Scotland,AH Maqsood,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,18.4,Scotland,AH Maqsood,DEM Carter,IJR Zwilling,0,0,,,,,,"",""
+ball,1,18.5,Scotland,AH Maqsood,DEM Carter,IJR Zwilling,1,0,,,,,,"",""
+ball,1,18.6,Scotland,DEM Carter,AH Maqsood,IJR Zwilling,0,0,,,,,,"",""
+ball,1,19.1,Scotland,AH Maqsood,DEM Carter,R Rijke,1,0,,,,,,"",""
+ball,1,19.2,Scotland,DEM Carter,AH Maqsood,R Rijke,1,0,,,,,,"",""
+ball,1,19.3,Scotland,AH Maqsood,DEM Carter,R Rijke,0,0,,,,,,"",""
+ball,1,19.4,Scotland,AH Maqsood,DEM Carter,R Rijke,0,0,,,,,,caught,AH Maqsood
+ball,1,19.5,Scotland,HRA Rainey,DEM Carter,R Rijke,1,0,,,,,,"",""
+ball,1,19.6,Scotland,DEM Carter,HRA Rainey,R Rijke,2,0,,,,,,"",""
+ball,2,0.1,Netherlands,HDJ Siegers,SL Kalis,NM Sheikh,2,0,,,,,,"",""
+ball,2,0.2,Netherlands,HDJ Siegers,SL Kalis,NM Sheikh,1,0,,,,,,"",""
+ball,2,0.3,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,0,0,,,,,,"",""
+ball,2,0.4,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,0,0,,,,,,"",""
+ball,2,0.5,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,0,0,,,,,,"",""
+ball,2,0.6,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,0,2,2,,,,,"",""
+ball,2,0.7,Netherlands,HDJ Siegers,SL Kalis,NM Sheikh,1,0,,,,,,"",""
+ball,2,1.1,Netherlands,HDJ Siegers,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,1.2,Netherlands,HDJ Siegers,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,1.3,Netherlands,HDJ Siegers,SL Kalis,R Slater,1,0,,,,,,"",""
+ball,2,1.4,Netherlands,SL Kalis,HDJ Siegers,R Slater,0,0,,,,,,"",""
+ball,2,1.5,Netherlands,SL Kalis,HDJ Siegers,R Slater,1,0,,,,,,"",""
+ball,2,1.6,Netherlands,HDJ Siegers,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,2.1,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,0,0,,,,,,"",""
+ball,2,2.2,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,1,0,,,,,,"",""
+ball,2,2.3,Netherlands,HDJ Siegers,SL Kalis,NM Sheikh,0,1,1,,,,,"",""
+ball,2,2.4,Netherlands,HDJ Siegers,SL Kalis,NM Sheikh,0,0,,,,,,"",""
+ball,2,2.5,Netherlands,HDJ Siegers,SL Kalis,NM Sheikh,1,0,,,,,,"",""
+ball,2,2.6,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,0,0,,,,,,"",""
+ball,2,2.7,Netherlands,SL Kalis,HDJ Siegers,NM Sheikh,4,0,,,,,,"",""
+ball,2,3.1,Netherlands,HDJ Siegers,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,3.2,Netherlands,HDJ Siegers,SL Kalis,R Slater,0,0,,,,,,bowled,HDJ Siegers
+ball,2,3.3,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,3.4,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,3.5,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,3.6,Netherlands,B de Leede,SL Kalis,R Slater,0,3,3,,,,,"",""
+ball,2,3.7,Netherlands,B de Leede,SL Kalis,R Slater,0,1,,,,1,,"",""
+ball,2,4.1,Netherlands,B de Leede,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,2,4.2,Netherlands,B de Leede,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,2,4.3,Netherlands,B de Leede,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,2,4.4,Netherlands,B de Leede,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,2,4.5,Netherlands,SL Kalis,B de Leede,PA Chatterji,1,0,,,,,,"",""
+ball,2,4.6,Netherlands,B de Leede,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,2,5.1,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,5.2,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,5.3,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,5.4,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,5.5,Netherlands,B de Leede,SL Kalis,R Slater,0,0,,,,,,"",""
+ball,2,5.6,Netherlands,B de Leede,SL Kalis,R Slater,2,0,,,,,,"",""
+ball,2,6.1,Netherlands,SL Kalis,B de Leede,M McColl,1,0,,,,,,"",""
+ball,2,6.2,Netherlands,B de Leede,SL Kalis,M McColl,1,0,,,,,,"",""
+ball,2,6.3,Netherlands,SL Kalis,B de Leede,M McColl,0,0,,,,,,"",""
+ball,2,6.4,Netherlands,SL Kalis,B de Leede,M McColl,4,0,,,,,,"",""
+ball,2,6.5,Netherlands,SL Kalis,B de Leede,M McColl,1,0,,,,,,"",""
+ball,2,6.6,Netherlands,B de Leede,SL Kalis,M McColl,0,0,,,,,,"",""
+ball,2,7.1,Netherlands,SL Kalis,B de Leede,AH Maqsood,1,0,,,,,,"",""
+ball,2,7.2,Netherlands,B de Leede,SL Kalis,AH Maqsood,4,0,,,,,,"",""
+ball,2,7.3,Netherlands,B de Leede,SL Kalis,AH Maqsood,0,0,,,,,,"",""
+ball,2,7.4,Netherlands,B de Leede,SL Kalis,AH Maqsood,1,0,,,,,,"",""
+ball,2,7.5,Netherlands,SL Kalis,B de Leede,AH Maqsood,0,0,,,,,,"",""
+ball,2,7.6,Netherlands,SL Kalis,B de Leede,AH Maqsood,2,0,,,,,,"",""
+ball,2,8.1,Netherlands,B de Leede,SL Kalis,DEM Carter,0,0,,,,,,stumped,B de Leede
+ball,2,8.2,Netherlands,R Rijke,SL Kalis,DEM Carter,0,0,,,,,,"",""
+ball,2,8.3,Netherlands,R Rijke,SL Kalis,DEM Carter,2,0,,,,,,"",""
+ball,2,8.4,Netherlands,R Rijke,SL Kalis,DEM Carter,0,0,,,,,,"",""
+ball,2,8.5,Netherlands,R Rijke,SL Kalis,DEM Carter,0,0,,,,,,caught,R Rijke
+ball,2,8.6,Netherlands,IJR Zwilling,SL Kalis,DEM Carter,0,0,,,,,,"",""
+ball,2,9.1,Netherlands,SL Kalis,IJR Zwilling,PA Chatterji,0,0,,,,,,"",""
+ball,2,9.2,Netherlands,SL Kalis,IJR Zwilling,PA Chatterji,1,0,,,,,,"",""
+ball,2,9.3,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,2,9.4,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,2,9.5,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,1,1,,,,,"",""
+ball,2,9.6,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,2,9.7,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,2,10.1,Netherlands,IJR Zwilling,SL Kalis,DEM Carter,1,0,,,,,,"",""
+ball,2,10.2,Netherlands,SL Kalis,IJR Zwilling,DEM Carter,4,0,,,,,,"",""
+ball,2,10.3,Netherlands,SL Kalis,IJR Zwilling,DEM Carter,0,1,1,,,,,"",""
+ball,2,10.4,Netherlands,SL Kalis,IJR Zwilling,DEM Carter,1,0,,,,,,"",""
+ball,2,10.5,Netherlands,IJR Zwilling,SL Kalis,DEM Carter,0,0,,,,,,"",""
+ball,2,10.6,Netherlands,IJR Zwilling,SL Kalis,DEM Carter,1,0,,,,,,"",""
+ball,2,10.7,Netherlands,SL Kalis,IJR Zwilling,DEM Carter,2,0,,,,,,"",""
+ball,2,11.1,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,2,11.2,Netherlands,SL Kalis,IJR Zwilling,PA Chatterji,1,0,,,,,,"",""
+ball,2,11.3,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,4,0,,,,,,"",""
+ball,2,11.4,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,0,0,,,,,,"",""
+ball,2,11.5,Netherlands,IJR Zwilling,SL Kalis,PA Chatterji,1,0,,,,,,"",""
+ball,2,11.6,Netherlands,SL Kalis,IJR Zwilling,PA Chatterji,0,0,,,,,,"",""
+ball,2,12.1,Netherlands,IJR Zwilling,SL Kalis,HRA Rainey,2,0,,,,,,"",""
+ball,2,12.2,Netherlands,IJR Zwilling,SL Kalis,HRA Rainey,0,0,,,,,,bowled,IJR Zwilling
+ball,2,12.3,Netherlands,F Overdijk,SL Kalis,HRA Rainey,0,1,1,,,,,"",""
+ball,2,12.4,Netherlands,F Overdijk,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,2,12.5,Netherlands,F Overdijk,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,2,12.6,Netherlands,F Overdijk,SL Kalis,HRA Rainey,2,0,,,,,,"",""
+ball,2,12.7,Netherlands,F Overdijk,SL Kalis,HRA Rainey,0,0,,,,,,"",""
+ball,2,13.1,Netherlands,SL Kalis,F Overdijk,AH Maqsood,0,0,,,,,,"",""
+ball,2,13.2,Netherlands,SL Kalis,F Overdijk,AH Maqsood,4,0,,,,,,"",""
+ball,2,13.3,Netherlands,SL Kalis,F Overdijk,AH Maqsood,0,0,,,,,,"",""
+ball,2,13.4,Netherlands,SL Kalis,F Overdijk,AH Maqsood,0,0,,,,,,bowled,SL Kalis
+ball,2,13.5,Netherlands,EN Lynch,F Overdijk,AH Maqsood,4,0,,,,,,"",""
+ball,2,13.6,Netherlands,EN Lynch,F Overdijk,AH Maqsood,0,0,,,,,,caught,EN Lynch
+ball,2,14.1,Netherlands,F Overdijk,RM van Oosterom,HRA Rainey,0,0,,,,,,"",""
+ball,2,14.2,Netherlands,F Overdijk,RM van Oosterom,HRA Rainey,0,0,,,,,,"",""
+ball,2,14.3,Netherlands,F Overdijk,RM van Oosterom,HRA Rainey,1,0,,,,,,"",""
+ball,2,14.4,Netherlands,RM van Oosterom,F Overdijk,HRA Rainey,0,0,,,,,,"",""
+ball,2,14.5,Netherlands,RM van Oosterom,F Overdijk,HRA Rainey,0,0,,,,,,"",""
+ball,2,14.6,Netherlands,RM van Oosterom,F Overdijk,HRA Rainey,0,0,,,,,,lbw,RM van Oosterom
+ball,2,15.1,Netherlands,F Overdijk,P Molkenboer,AH Maqsood,0,0,,,,,,"",""
+ball,2,15.2,Netherlands,F Overdijk,P Molkenboer,AH Maqsood,1,0,,,,,,"",""
+ball,2,15.3,Netherlands,P Molkenboer,F Overdijk,AH Maqsood,0,0,,,,,,"",""
+ball,2,15.4,Netherlands,P Molkenboer,F Overdijk,AH Maqsood,1,0,,,,,,"",""
+ball,2,15.5,Netherlands,F Overdijk,P Molkenboer,AH Maqsood,1,0,,,,,,"",""
+ball,2,15.6,Netherlands,P Molkenboer,F Overdijk,AH Maqsood,1,0,,,,,,"",""
+ball,2,16.1,Netherlands,P Molkenboer,F Overdijk,HRA Rainey,1,0,,,,,,"",""
+ball,2,16.2,Netherlands,F Overdijk,P Molkenboer,HRA Rainey,4,0,,,,,,"",""
+ball,2,16.3,Netherlands,F Overdijk,P Molkenboer,HRA Rainey,1,0,,,,,,"",""
+ball,2,16.4,Netherlands,P Molkenboer,F Overdijk,HRA Rainey,0,0,,,,,,"",""
+ball,2,16.5,Netherlands,P Molkenboer,F Overdijk,HRA Rainey,0,0,,,,,,caught,P Molkenboer
+ball,2,16.6,Netherlands,HWA Landheer,F Overdijk,HRA Rainey,1,0,,,,,,"",""
+ball,2,17.1,Netherlands,HWA Landheer,F Overdijk,AH Maqsood,2,0,,,,,,"",""
+ball,2,17.2,Netherlands,HWA Landheer,F Overdijk,AH Maqsood,1,0,,,,,,"",""
+ball,2,17.3,Netherlands,F Overdijk,HWA Landheer,AH Maqsood,1,0,,,,,,"",""
+ball,2,17.4,Netherlands,HWA Landheer,F Overdijk,AH Maqsood,1,0,,,,,,"",""
+ball,2,17.5,Netherlands,F Overdijk,HWA Landheer,AH Maqsood,1,0,,,,,,"",""
+ball,2,17.6,Netherlands,HWA Landheer,F Overdijk,AH Maqsood,1,0,,,,,,"",""
+ball,2,18.1,Netherlands,HWA Landheer,F Overdijk,HRA Rainey,0,0,,,,,,"",""
+ball,2,18.2,Netherlands,HWA Landheer,F Overdijk,HRA Rainey,0,0,,,,,,"",""
+ball,2,18.3,Netherlands,HWA Landheer,F Overdijk,HRA Rainey,0,0,,,,,,"",""
+ball,2,18.4,Netherlands,HWA Landheer,F Overdijk,HRA Rainey,1,0,,,,,,"",""
+ball,2,18.5,Netherlands,F Overdijk,HWA Landheer,HRA Rainey,1,0,,,,,,"",""
+ball,2,18.6,Netherlands,HWA Landheer,F Overdijk,HRA Rainey,0,0,,,,,,"",""
+ball,2,19.1,Netherlands,F Overdijk,HWA Landheer,R Slater,0,1,,,1,,,"",""
+ball,2,19.2,Netherlands,HWA Landheer,F Overdijk,R Slater,2,0,,,,,,"",""
+ball,2,19.3,Netherlands,HWA Landheer,F Overdijk,R Slater,0,0,,,,,,"",""
+ball,2,19.4,Netherlands,HWA Landheer,F Overdijk,R Slater,0,1,1,,,,,"",""
+ball,2,19.5,Netherlands,HWA Landheer,F Overdijk,R Slater,4,0,,,,,,"",""
+ball,2,19.6,Netherlands,HWA Landheer,F Overdijk,R Slater,0,0,,,,,,"",""
+ball,2,19.7,Netherlands,HWA Landheer,F Overdijk,R Slater,1,0,,,,,,"",""

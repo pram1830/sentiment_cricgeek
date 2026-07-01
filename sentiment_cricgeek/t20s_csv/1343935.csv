@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,female
+info,season,2022/23
+info,date,2022/12/14
+info,event,England Women tour of West Indies
+info,match_number,2
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,SIR Dunkley
+info,umpire,LS Reifer
+info,umpire,PA Gustard
+info,tv_umpire,JM Williams
+info,winner,England
+info,winner_runs,16
+info,player,England,DN Wyatt
+info,player,England,SIR Dunkley
+info,player,England,L Winfield-Hill
+info,player,England,HC Knight
+info,player,England,ME Bouchier
+info,player,England,AN Davidson-Richards
+info,player,England,KH Brunt
+info,player,England,S Glenn
+info,player,England,CE Dean
+info,player,England,LK Bell
+info,player,England,FR Davies
+info,player,West Indies,AA Alleyne
+info,player,West Indies,HK Matthews
+info,player,West Indies,Kycia A Knight
+info,player,West Indies,RS Williams
+info,player,West Indies,D Joseph
+info,player,West Indies,SA Campbelle
+info,player,West Indies,CA Henry
+info,player,West Indies,S Gajnabi
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,CS Fraser
+info,player,West Indies,K Ramharack
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,CA Henry,75820733
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CS Fraser,fb9a8cc3
+info,registry,people,D Joseph,6d7ca3e6
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,FR Davies,2479daa6
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,K Ramharack,321c980e
+info,registry,people,KH Brunt,6a434bd3
+info,registry,people,Kycia A Knight,552f664a
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LK Bell,38b4583c
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,RS Williams,406de451
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SIR Dunkley,3a9e9cb2
+ball,1,0.1,England,DN Wyatt,SIR Dunkley,HK Matthews,2,0,,,,,,"",""
+ball,1,0.2,England,DN Wyatt,SIR Dunkley,HK Matthews,1,0,,,,,,"",""
+ball,1,0.3,England,SIR Dunkley,DN Wyatt,HK Matthews,0,0,,,,,,"",""
+ball,1,0.4,England,SIR Dunkley,DN Wyatt,HK Matthews,0,0,,,,,,"",""
+ball,1,0.5,England,SIR Dunkley,DN Wyatt,HK Matthews,1,0,,,,,,"",""
+ball,1,0.6,England,DN Wyatt,SIR Dunkley,HK Matthews,1,0,,,,,,"",""
+ball,1,1.1,England,DN Wyatt,SIR Dunkley,CA Henry,0,0,,,,,,"",""
+ball,1,1.2,England,DN Wyatt,SIR Dunkley,CA Henry,0,0,,,,,,"",""
+ball,1,1.3,England,DN Wyatt,SIR Dunkley,CA Henry,1,0,,,,,,"",""
+ball,1,1.4,England,SIR Dunkley,DN Wyatt,CA Henry,1,0,,,,,,"",""
+ball,1,1.5,England,DN Wyatt,SIR Dunkley,CA Henry,0,0,,,,,,"",""
+ball,1,1.6,England,DN Wyatt,SIR Dunkley,CA Henry,4,0,,,,,,"",""
+ball,1,2.1,England,SIR Dunkley,DN Wyatt,HK Matthews,1,0,,,,,,"",""
+ball,1,2.2,England,DN Wyatt,SIR Dunkley,HK Matthews,0,0,,,,,,"",""
+ball,1,2.3,England,DN Wyatt,SIR Dunkley,HK Matthews,0,0,,,,,,"",""
+ball,1,2.4,England,DN Wyatt,SIR Dunkley,HK Matthews,1,0,,,,,,"",""
+ball,1,2.5,England,SIR Dunkley,DN Wyatt,HK Matthews,1,0,,,,,,"",""
+ball,1,2.6,England,DN Wyatt,SIR Dunkley,HK Matthews,1,0,,,,,,"",""
+ball,1,3.1,England,DN Wyatt,SIR Dunkley,CA Henry,0,1,1,,,,,"",""
+ball,1,3.2,England,DN Wyatt,SIR Dunkley,CA Henry,1,0,,,,,,"",""
+ball,1,3.3,England,SIR Dunkley,DN Wyatt,CA Henry,0,0,,,,,,"",""
+ball,1,3.4,England,SIR Dunkley,DN Wyatt,CA Henry,6,0,,,,,,"",""
+ball,1,3.5,England,SIR Dunkley,DN Wyatt,CA Henry,1,0,,,,,,"",""
+ball,1,3.6,England,DN Wyatt,SIR Dunkley,CA Henry,2,0,,,,,,"",""
+ball,1,3.7,England,DN Wyatt,SIR Dunkley,CA Henry,0,0,,,,,,"",""
+ball,1,4.1,England,SIR Dunkley,DN Wyatt,K Ramharack,2,0,,,,,,"",""
+ball,1,4.2,England,SIR Dunkley,DN Wyatt,K Ramharack,0,0,,,,,,"",""
+ball,1,4.3,England,SIR Dunkley,DN Wyatt,K Ramharack,1,0,,,,,,"",""
+ball,1,4.4,England,DN Wyatt,SIR Dunkley,K Ramharack,0,0,,,,,,"",""
+ball,1,4.5,England,DN Wyatt,SIR Dunkley,K Ramharack,2,0,,,,,,"",""
+ball,1,4.6,England,DN Wyatt,SIR Dunkley,K Ramharack,4,0,,,,,,"",""
+ball,1,5.1,England,SIR Dunkley,DN Wyatt,ASS Fletcher,1,0,,,,,,"",""
+ball,1,5.2,England,DN Wyatt,SIR Dunkley,ASS Fletcher,0,0,,,,,,bowled,DN Wyatt
+ball,1,5.3,England,L Winfield-Hill,SIR Dunkley,ASS Fletcher,0,0,,,,,,"",""
+ball,1,5.4,England,L Winfield-Hill,SIR Dunkley,ASS Fletcher,1,0,,,,,,"",""
+ball,1,5.5,England,SIR Dunkley,L Winfield-Hill,ASS Fletcher,1,0,,,,,,"",""
+ball,1,5.6,England,L Winfield-Hill,SIR Dunkley,ASS Fletcher,1,0,,,,,,"",""
+ball,1,6.1,England,L Winfield-Hill,SIR Dunkley,K Ramharack,1,0,,,,,,"",""
+ball,1,6.2,England,SIR Dunkley,L Winfield-Hill,K Ramharack,0,0,,,,,,"",""
+ball,1,6.3,England,SIR Dunkley,L Winfield-Hill,K Ramharack,1,0,,,,,,"",""
+ball,1,6.4,England,L Winfield-Hill,SIR Dunkley,K Ramharack,1,0,,,,,,"",""
+ball,1,6.5,England,SIR Dunkley,L Winfield-Hill,K Ramharack,0,0,,,,,,"",""
+ball,1,6.6,England,SIR Dunkley,L Winfield-Hill,K Ramharack,1,0,,,,,,"",""
+ball,1,7.1,England,SIR Dunkley,L Winfield-Hill,ASS Fletcher,0,0,,,,,,"",""
+ball,1,7.2,England,SIR Dunkley,L Winfield-Hill,ASS Fletcher,0,0,,,,,,"",""
+ball,1,7.3,England,SIR Dunkley,L Winfield-Hill,ASS Fletcher,2,0,,,,,,"",""
+ball,1,7.4,England,SIR Dunkley,L Winfield-Hill,ASS Fletcher,0,0,,,,,,"",""
+ball,1,7.5,England,SIR Dunkley,L Winfield-Hill,ASS Fletcher,1,0,,,,,,"",""
+ball,1,7.6,England,L Winfield-Hill,SIR Dunkley,ASS Fletcher,0,0,,,,,,"",""
+ball,1,8.1,England,SIR Dunkley,L Winfield-Hill,HK Matthews,1,0,,,,,,"",""
+ball,1,8.2,England,L Winfield-Hill,SIR Dunkley,HK Matthews,0,0,,,,,,"",""
+ball,1,8.3,England,L Winfield-Hill,SIR Dunkley,HK Matthews,0,0,,,,,,caught,L Winfield-Hill
+ball,1,8.4,England,HC Knight,SIR Dunkley,HK Matthews,1,0,,,,,,"",""
+ball,1,8.5,England,SIR Dunkley,HC Knight,HK Matthews,1,0,,,,,,"",""
+ball,1,8.6,England,HC Knight,SIR Dunkley,HK Matthews,0,0,,,,,,"",""
+ball,1,9.1,England,SIR Dunkley,HC Knight,ASS Fletcher,1,0,,,,,,"",""
+ball,1,9.2,England,HC Knight,SIR Dunkley,ASS Fletcher,0,0,,,,,,"",""
+ball,1,9.3,England,HC Knight,SIR Dunkley,ASS Fletcher,1,0,,,,,,"",""
+ball,1,9.4,England,SIR Dunkley,HC Knight,ASS Fletcher,4,0,,,,,,"",""
+ball,1,9.5,England,SIR Dunkley,HC Knight,ASS Fletcher,1,0,,,,,,"",""
+ball,1,9.6,England,HC Knight,SIR Dunkley,ASS Fletcher,1,0,,,,,,"",""
+ball,1,10.1,England,HC Knight,SIR Dunkley,K Ramharack,2,0,,,,,,"",""
+ball,1,10.2,England,HC Knight,SIR Dunkley,K Ramharack,0,0,,,,,,"",""
+ball,1,10.3,England,HC Knight,SIR Dunkley,K Ramharack,1,0,,,,,,"",""
+ball,1,10.4,England,SIR Dunkley,HC Knight,K Ramharack,1,0,,,,,,"",""
+ball,1,10.5,England,HC Knight,SIR Dunkley,K Ramharack,1,0,,,,,,"",""
+ball,1,10.6,England,SIR Dunkley,HC Knight,K Ramharack,0,0,,,,,,"",""
+ball,1,11.1,England,HC Knight,SIR Dunkley,AA Alleyne,1,0,,,,,,"",""
+ball,1,11.2,England,SIR Dunkley,HC Knight,AA Alleyne,1,0,,,,,,"",""
+ball,1,11.3,England,HC Knight,SIR Dunkley,AA Alleyne,2,0,,,,,,"",""
+ball,1,11.4,England,HC Knight,SIR Dunkley,AA Alleyne,0,0,,,,,,"",""
+ball,1,11.5,England,HC Knight,SIR Dunkley,AA Alleyne,4,0,,,,,,"",""
+ball,1,11.6,England,HC Knight,SIR Dunkley,AA Alleyne,4,0,,,,,,"",""
+ball,1,12.1,England,SIR Dunkley,HC Knight,K Ramharack,1,0,,,,,,"",""
+ball,1,12.2,England,HC Knight,SIR Dunkley,K Ramharack,0,1,1,,,,,stumped,HC Knight
+ball,1,12.3,England,ME Bouchier,SIR Dunkley,K Ramharack,1,0,,,,,,"",""
+ball,1,12.4,England,SIR Dunkley,ME Bouchier,K Ramharack,1,0,,,,,,"",""
+ball,1,12.5,England,ME Bouchier,SIR Dunkley,K Ramharack,2,0,,,,,,"",""
+ball,1,12.6,England,ME Bouchier,SIR Dunkley,K Ramharack,0,0,,,,,,"",""
+ball,1,12.7,England,ME Bouchier,SIR Dunkley,K Ramharack,2,0,,,,,,"",""
+ball,1,13.1,England,SIR Dunkley,ME Bouchier,CS Fraser,1,0,,,,,,"",""
+ball,1,13.2,England,ME Bouchier,SIR Dunkley,CS Fraser,2,0,,,,,,"",""
+ball,1,13.3,England,ME Bouchier,SIR Dunkley,CS Fraser,1,0,,,,,,"",""
+ball,1,13.4,England,SIR Dunkley,ME Bouchier,CS Fraser,1,0,,,,,,"",""
+ball,1,13.5,England,ME Bouchier,SIR Dunkley,CS Fraser,4,0,,,,,,"",""
+ball,1,13.6,England,ME Bouchier,SIR Dunkley,CS Fraser,1,0,,,,,,"",""
+ball,1,14.1,England,ME Bouchier,SIR Dunkley,CA Henry,3,0,,,,,,"",""
+ball,1,14.2,England,SIR Dunkley,ME Bouchier,CA Henry,1,0,,,,,,"",""
+ball,1,14.3,England,ME Bouchier,SIR Dunkley,CA Henry,0,1,1,,,,,"",""
+ball,1,14.4,England,ME Bouchier,SIR Dunkley,CA Henry,4,0,,,,,,"",""
+ball,1,14.5,England,ME Bouchier,SIR Dunkley,CA Henry,1,0,,,,,,"",""
+ball,1,14.6,England,SIR Dunkley,ME Bouchier,CA Henry,4,0,,,,,,"",""
+ball,1,14.7,England,SIR Dunkley,ME Bouchier,CA Henry,0,4,,,4,,,"",""
+ball,1,15.1,England,ME Bouchier,SIR Dunkley,ASS Fletcher,1,0,,,,,,"",""
+ball,1,15.2,England,SIR Dunkley,ME Bouchier,ASS Fletcher,0,0,,,,,,"",""
+ball,1,15.3,England,SIR Dunkley,ME Bouchier,ASS Fletcher,1,0,,,,,,"",""
+ball,1,15.4,England,ME Bouchier,SIR Dunkley,ASS Fletcher,1,0,,,,,,"",""
+ball,1,15.5,England,SIR Dunkley,ME Bouchier,ASS Fletcher,2,0,,,,,,"",""
+ball,1,15.6,England,SIR Dunkley,ME Bouchier,ASS Fletcher,0,0,,,,,,"",""
+ball,1,16.1,England,ME Bouchier,SIR Dunkley,HK Matthews,1,0,,,,,,"",""
+ball,1,16.2,England,SIR Dunkley,ME Bouchier,HK Matthews,0,0,,,,,,caught,SIR Dunkley
+ball,1,16.3,England,AN Davidson-Richards,ME Bouchier,HK Matthews,1,0,,,,,,"",""
+ball,1,16.4,England,ME Bouchier,AN Davidson-Richards,HK Matthews,0,0,,,,,,stumped,ME Bouchier
+ball,1,16.5,England,KH Brunt,AN Davidson-Richards,HK Matthews,0,0,,,,,,"",""
+ball,1,16.6,England,KH Brunt,AN Davidson-Richards,HK Matthews,1,0,,,,,,"",""
+ball,1,17.1,England,KH Brunt,AN Davidson-Richards,RS Williams,1,0,,,,,,"",""
+ball,1,17.2,England,AN Davidson-Richards,KH Brunt,RS Williams,0,1,1,,,,,"",""
+ball,1,17.3,England,AN Davidson-Richards,KH Brunt,RS Williams,1,0,,,,,,"",""
+ball,1,17.4,England,KH Brunt,AN Davidson-Richards,RS Williams,0,0,,,,,,"",""
+ball,1,17.5,England,KH Brunt,AN Davidson-Richards,RS Williams,1,0,,,,,,"",""
+ball,1,17.6,England,AN Davidson-Richards,KH Brunt,RS Williams,1,0,,,,,,"",""
+ball,1,17.7,England,KH Brunt,AN Davidson-Richards,RS Williams,2,0,,,,,,"",""
+ball,1,18.1,England,AN Davidson-Richards,KH Brunt,CS Fraser,1,0,,,,,,"",""
+ball,1,18.2,England,KH Brunt,AN Davidson-Richards,CS Fraser,1,0,,,,,,"",""
+ball,1,18.3,England,AN Davidson-Richards,KH Brunt,CS Fraser,1,0,,,,,,"",""
+ball,1,18.4,England,KH Brunt,AN Davidson-Richards,CS Fraser,0,0,,,,,,"",""
+ball,1,18.5,England,KH Brunt,AN Davidson-Richards,CS Fraser,1,0,,,,,,"",""
+ball,1,18.6,England,AN Davidson-Richards,KH Brunt,CS Fraser,1,0,,,,,,"",""
+ball,1,19.1,England,AN Davidson-Richards,KH Brunt,RS Williams,1,0,,,,,,"",""
+ball,1,19.2,England,KH Brunt,AN Davidson-Richards,RS Williams,0,0,,,,,,"",""
+ball,1,19.3,England,KH Brunt,AN Davidson-Richards,RS Williams,0,0,,,,,,caught,KH Brunt
+ball,1,19.4,England,S Glenn,AN Davidson-Richards,RS Williams,4,0,,,,,,"",""
+ball,1,19.5,England,S Glenn,AN Davidson-Richards,RS Williams,2,0,,,,,,"",""
+ball,1,19.6,England,S Glenn,AN Davidson-Richards,RS Williams,4,0,,,,,,"",""
+ball,2,0.1,West Indies,AA Alleyne,HK Matthews,KH Brunt,0,0,,,,,,"",""
+ball,2,0.2,West Indies,AA Alleyne,HK Matthews,KH Brunt,2,0,,,,,,"",""
+ball,2,0.3,West Indies,AA Alleyne,HK Matthews,KH Brunt,0,0,,,,,,"",""
+ball,2,0.4,West Indies,AA Alleyne,HK Matthews,KH Brunt,4,0,,,,,,"",""
+ball,2,0.5,West Indies,AA Alleyne,HK Matthews,KH Brunt,0,0,,,,,,"",""
+ball,2,0.6,West Indies,AA Alleyne,HK Matthews,KH Brunt,1,0,,,,,,"",""
+ball,2,1.1,West Indies,AA Alleyne,HK Matthews,LK Bell,0,0,,,,,,"",""
+ball,2,1.2,West Indies,AA Alleyne,HK Matthews,LK Bell,0,2,,,2,,,"",""
+ball,2,1.3,West Indies,AA Alleyne,HK Matthews,LK Bell,4,0,,,,,,"",""
+ball,2,1.4,West Indies,AA Alleyne,HK Matthews,LK Bell,4,0,,,,,,"",""
+ball,2,1.5,West Indies,AA Alleyne,HK Matthews,LK Bell,0,2,2,,,,,"",""
+ball,2,1.6,West Indies,HK Matthews,AA Alleyne,LK Bell,1,0,,,,,,"",""
+ball,2,1.7,West Indies,AA Alleyne,HK Matthews,LK Bell,1,0,,,,,,"",""
+ball,2,2.1,West Indies,AA Alleyne,HK Matthews,FR Davies,0,0,,,,,,"",""
+ball,2,2.2,West Indies,AA Alleyne,HK Matthews,FR Davies,0,0,,,,,,"",""
+ball,2,2.3,West Indies,AA Alleyne,HK Matthews,FR Davies,0,0,,,,,,caught,AA Alleyne
+ball,2,2.4,West Indies,Kycia A Knight,HK Matthews,FR Davies,1,0,,,,,,"",""
+ball,2,2.5,West Indies,HK Matthews,Kycia A Knight,FR Davies,0,0,,,,,,"",""
+ball,2,2.6,West Indies,HK Matthews,Kycia A Knight,FR Davies,0,0,,,,,,"",""
+ball,2,3.1,West Indies,Kycia A Knight,HK Matthews,CE Dean,0,0,,,,,,"",""
+ball,2,3.2,West Indies,Kycia A Knight,HK Matthews,CE Dean,1,0,,,,,,"",""
+ball,2,3.3,West Indies,HK Matthews,Kycia A Knight,CE Dean,0,0,,,,,,"",""
+ball,2,3.4,West Indies,HK Matthews,Kycia A Knight,CE Dean,0,0,,,,,,"",""
+ball,2,3.5,West Indies,HK Matthews,Kycia A Knight,CE Dean,0,0,,,,,,bowled,HK Matthews
+ball,2,3.6,West Indies,RS Williams,Kycia A Knight,CE Dean,1,0,,,,,,"",""
+ball,2,4.1,West Indies,RS Williams,Kycia A Knight,FR Davies,4,0,,,,,,"",""
+ball,2,4.2,West Indies,RS Williams,Kycia A Knight,FR Davies,0,0,,,,,,"",""
+ball,2,4.3,West Indies,RS Williams,Kycia A Knight,FR Davies,1,0,,,,,,"",""
+ball,2,4.4,West Indies,Kycia A Knight,RS Williams,FR Davies,0,0,,,,,,"",""
+ball,2,4.5,West Indies,Kycia A Knight,RS Williams,FR Davies,0,0,,,,,,"",""
+ball,2,4.6,West Indies,Kycia A Knight,RS Williams,FR Davies,0,0,,,,,,"",""
+ball,2,5.1,West Indies,RS Williams,Kycia A Knight,CE Dean,2,0,,,,,,"",""
+ball,2,5.2,West Indies,RS Williams,Kycia A Knight,CE Dean,0,0,,,,,,"",""
+ball,2,5.3,West Indies,RS Williams,Kycia A Knight,CE Dean,0,0,,,,,,"",""
+ball,2,5.4,West Indies,RS Williams,Kycia A Knight,CE Dean,0,0,,,,,,bowled,RS Williams
+ball,2,5.5,West Indies,D Joseph,Kycia A Knight,CE Dean,0,1,1,,,,,"",""
+ball,2,5.6,West Indies,D Joseph,Kycia A Knight,CE Dean,0,0,,,,,,"",""
+ball,2,5.7,West Indies,D Joseph,Kycia A Knight,CE Dean,0,2,2,,,,,"",""
+ball,2,5.8,West Indies,Kycia A Knight,D Joseph,CE Dean,4,0,,,,,,"",""
+ball,2,6.1,West Indies,D Joseph,Kycia A Knight,S Glenn,0,1,1,,,,,"",""
+ball,2,6.2,West Indies,D Joseph,Kycia A Knight,S Glenn,0,0,,,,,,"",""
+ball,2,6.3,West Indies,D Joseph,Kycia A Knight,S Glenn,1,0,,,,,,"",""
+ball,2,6.4,West Indies,Kycia A Knight,D Joseph,S Glenn,0,0,,,,,,"",""
+ball,2,6.5,West Indies,Kycia A Knight,D Joseph,S Glenn,0,0,,,,,,"",""
+ball,2,6.6,West Indies,Kycia A Knight,D Joseph,S Glenn,0,0,,,,,,"",""
+ball,2,6.7,West Indies,Kycia A Knight,D Joseph,S Glenn,0,0,,,,,,"",""
+ball,2,7.1,West Indies,D Joseph,Kycia A Knight,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,7.2,West Indies,Kycia A Knight,D Joseph,AN Davidson-Richards,0,1,1,,,,,"",""
+ball,2,7.3,West Indies,Kycia A Knight,D Joseph,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,7.4,West Indies,D Joseph,Kycia A Knight,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,7.5,West Indies,D Joseph,Kycia A Knight,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,7.6,West Indies,D Joseph,Kycia A Knight,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,7.7,West Indies,Kycia A Knight,D Joseph,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,8.1,West Indies,Kycia A Knight,D Joseph,S Glenn,2,0,,,,,,"",""
+ball,2,8.2,West Indies,Kycia A Knight,D Joseph,S Glenn,1,0,,,,,,"",""
+ball,2,8.3,West Indies,D Joseph,Kycia A Knight,S Glenn,0,0,,,,,,stumped,D Joseph
+ball,2,8.4,West Indies,SA Campbelle,Kycia A Knight,S Glenn,1,0,,,,,,"",""
+ball,2,8.5,West Indies,Kycia A Knight,SA Campbelle,S Glenn,0,0,,,,,,"",""
+ball,2,8.6,West Indies,Kycia A Knight,SA Campbelle,S Glenn,1,0,,,,,,"",""
+ball,2,9.1,West Indies,Kycia A Knight,SA Campbelle,CE Dean,0,0,,,,,,"",""
+ball,2,9.2,West Indies,Kycia A Knight,SA Campbelle,CE Dean,0,0,,,,,,"",""
+ball,2,9.3,West Indies,Kycia A Knight,SA Campbelle,CE Dean,0,0,,,,,,bowled,Kycia A Knight
+ball,2,9.4,West Indies,CA Henry,SA Campbelle,CE Dean,0,0,,,,,,"",""
+ball,2,9.5,West Indies,CA Henry,SA Campbelle,CE Dean,0,0,,,,,,"",""
+ball,2,9.6,West Indies,CA Henry,SA Campbelle,CE Dean,0,2,2,,,,,"",""
+ball,2,9.7,West Indies,SA Campbelle,CA Henry,CE Dean,0,0,,,,,,"",""
+ball,2,10.1,West Indies,CA Henry,SA Campbelle,S Glenn,0,0,,,,,,"",""
+ball,2,10.2,West Indies,CA Henry,SA Campbelle,S Glenn,1,0,,,,,,"",""
+ball,2,10.3,West Indies,SA Campbelle,CA Henry,S Glenn,0,0,,,,,,"",""
+ball,2,10.4,West Indies,SA Campbelle,CA Henry,S Glenn,4,0,,,,,,"",""
+ball,2,10.5,West Indies,SA Campbelle,CA Henry,S Glenn,0,1,1,,,,,"",""
+ball,2,10.6,West Indies,SA Campbelle,CA Henry,S Glenn,0,0,,,,,,"",""
+ball,2,10.7,West Indies,SA Campbelle,CA Henry,S Glenn,1,0,,,,,,"",""
+ball,2,11.1,West Indies,SA Campbelle,CA Henry,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,11.2,West Indies,CA Henry,SA Campbelle,AN Davidson-Richards,0,1,1,,,,,"",""
+ball,2,11.3,West Indies,CA Henry,SA Campbelle,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,11.4,West Indies,CA Henry,SA Campbelle,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,11.5,West Indies,SA Campbelle,CA Henry,AN Davidson-Richards,2,0,,,,,,"",""
+ball,2,11.6,West Indies,SA Campbelle,CA Henry,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,11.7,West Indies,CA Henry,SA Campbelle,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,12.1,West Indies,CA Henry,SA Campbelle,CE Dean,2,0,,,,,,"",""
+ball,2,12.2,West Indies,CA Henry,SA Campbelle,CE Dean,4,0,,,,,,"",""
+ball,2,12.3,West Indies,CA Henry,SA Campbelle,CE Dean,2,0,,,,,,"",""
+ball,2,12.4,West Indies,CA Henry,SA Campbelle,CE Dean,1,0,,,,,,"",""
+ball,2,12.5,West Indies,SA Campbelle,CA Henry,CE Dean,0,0,,,,,,"",""
+ball,2,12.6,West Indies,SA Campbelle,CA Henry,CE Dean,0,0,,,,,,"",""
+ball,2,13.1,West Indies,CA Henry,SA Campbelle,LK Bell,0,0,,,,,,"",""
+ball,2,13.2,West Indies,CA Henry,SA Campbelle,LK Bell,1,0,,,,,,"",""
+ball,2,13.3,West Indies,SA Campbelle,CA Henry,LK Bell,0,0,,,,,,"",""
+ball,2,13.4,West Indies,SA Campbelle,CA Henry,LK Bell,1,0,,,,,,"",""
+ball,2,13.5,West Indies,CA Henry,SA Campbelle,LK Bell,0,1,1,,,,,"",""
+ball,2,13.6,West Indies,CA Henry,SA Campbelle,LK Bell,0,0,,,,,,caught,CA Henry
+ball,2,13.7,West Indies,S Gajnabi,SA Campbelle,LK Bell,0,0,,,,,,"",""
+ball,2,14.1,West Indies,SA Campbelle,S Gajnabi,KH Brunt,0,0,,,,,,"",""
+ball,2,14.2,West Indies,SA Campbelle,S Gajnabi,KH Brunt,4,0,,,,,,"",""
+ball,2,14.3,West Indies,SA Campbelle,S Gajnabi,KH Brunt,0,0,,,,,,lbw,SA Campbelle
+ball,2,14.4,West Indies,ASS Fletcher,S Gajnabi,KH Brunt,1,0,,,,,,"",""
+ball,2,14.5,West Indies,S Gajnabi,ASS Fletcher,KH Brunt,0,0,,,,,,"",""
+ball,2,14.6,West Indies,S Gajnabi,ASS Fletcher,KH Brunt,0,0,,,,,,"",""
+ball,2,15.1,West Indies,ASS Fletcher,S Gajnabi,S Glenn,0,1,1,,,,,"",""
+ball,2,15.2,West Indies,ASS Fletcher,S Gajnabi,S Glenn,4,0,,,,,,"",""
+ball,2,15.3,West Indies,ASS Fletcher,S Gajnabi,S Glenn,1,0,,,,,,"",""
+ball,2,15.4,West Indies,S Gajnabi,ASS Fletcher,S Glenn,0,0,,,,,,"",""
+ball,2,15.5,West Indies,S Gajnabi,ASS Fletcher,S Glenn,0,0,,,,,,"",""
+ball,2,15.6,West Indies,S Gajnabi,ASS Fletcher,S Glenn,0,0,,,,,,"",""
+ball,2,15.7,West Indies,S Gajnabi,ASS Fletcher,S Glenn,2,0,,,,,,"",""
+ball,2,16.1,West Indies,ASS Fletcher,S Gajnabi,KH Brunt,0,0,,,,,,"",""
+ball,2,16.2,West Indies,ASS Fletcher,S Gajnabi,KH Brunt,1,0,,,,,,"",""
+ball,2,16.3,West Indies,S Gajnabi,ASS Fletcher,KH Brunt,1,0,,,,,,"",""
+ball,2,16.4,West Indies,ASS Fletcher,S Gajnabi,KH Brunt,4,0,,,,,,"",""
+ball,2,16.5,West Indies,ASS Fletcher,S Gajnabi,KH Brunt,0,0,,,,,,"",""
+ball,2,16.6,West Indies,ASS Fletcher,S Gajnabi,KH Brunt,0,0,,,,,,"",""
+ball,2,17.1,West Indies,S Gajnabi,ASS Fletcher,FR Davies,2,0,,,,,,"",""
+ball,2,17.2,West Indies,S Gajnabi,ASS Fletcher,FR Davies,0,1,1,,,,,"",""
+ball,2,17.3,West Indies,S Gajnabi,ASS Fletcher,FR Davies,0,0,,,,,,"",""
+ball,2,17.4,West Indies,S Gajnabi,ASS Fletcher,FR Davies,1,0,,,,,,"",""
+ball,2,17.5,West Indies,ASS Fletcher,S Gajnabi,FR Davies,3,0,,,,,,"",""
+ball,2,17.6,West Indies,S Gajnabi,ASS Fletcher,FR Davies,1,0,,,,,,"",""
+ball,2,17.7,West Indies,ASS Fletcher,S Gajnabi,FR Davies,2,0,,,,,,"",""
+ball,2,18.1,West Indies,S Gajnabi,ASS Fletcher,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,18.2,West Indies,ASS Fletcher,S Gajnabi,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,18.3,West Indies,S Gajnabi,ASS Fletcher,AN Davidson-Richards,2,0,,,,,,"",""
+ball,2,18.4,West Indies,S Gajnabi,ASS Fletcher,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,18.5,West Indies,ASS Fletcher,S Gajnabi,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,18.6,West Indies,S Gajnabi,ASS Fletcher,AN Davidson-Richards,6,0,,,,,,"",""
+ball,2,19.1,West Indies,ASS Fletcher,S Gajnabi,LK Bell,0,0,,,,,,caught,ASS Fletcher
+ball,2,19.2,West Indies,CS Fraser,S Gajnabi,LK Bell,0,0,,,,,,"",""
+ball,2,19.3,West Indies,CS Fraser,S Gajnabi,LK Bell,0,0,,,,,,"",""
+ball,2,19.4,West Indies,CS Fraser,S Gajnabi,LK Bell,6,0,,,,,,"",""
+ball,2,19.5,West Indies,CS Fraser,S Gajnabi,LK Bell,0,0,,,,,,"",""
+ball,2,19.6,West Indies,CS Fraser,S Gajnabi,LK Bell,0,0,,,,,,"",""

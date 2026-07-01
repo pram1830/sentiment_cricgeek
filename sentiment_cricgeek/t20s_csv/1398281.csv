@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,female
+info,season,2024
+info,date,2024/07/17
+info,event,New Zealand Women tour of England
+info,match_number,5
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,HC Knight
+info,umpire,James Middlebrook
+info,umpire,S Redfern
+info,reserve_umpire,G Bambury
+info,tv_umpire,AY Harris
+info,match_referee,SM Bartlett
+info,winner,England
+info,winner_runs,20
+info,player,England,DN Wyatt
+info,player,England,ME Bouchier
+info,player,England,A Capsey
+info,player,England,NR Sciver-Brunt
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,FG Kemp
+info,player,England,CE Dean
+info,player,England,S Ecclestone
+info,player,England,L Filer
+info,player,England,LK Bell
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,ML Green
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,G Bambury,a8e0ed6a
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JM Kerr,9af58032
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,L Filer,31adb911
+info,registry,people,LK Bell,38b4583c
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,ML Green,865eae1f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SW Bates,89bbc67a
+ball,1,0.1,England,DN Wyatt,ME Bouchier,FC Jonas,0,0,,,,,,caught,DN Wyatt
+ball,1,0.2,England,A Capsey,ME Bouchier,FC Jonas,0,0,,,,,,"",""
+ball,1,0.3,England,A Capsey,ME Bouchier,FC Jonas,0,1,1,,,,,"",""
+ball,1,0.4,England,A Capsey,ME Bouchier,FC Jonas,0,0,,,,,,"",""
+ball,1,0.5,England,A Capsey,ME Bouchier,FC Jonas,1,0,,,,,,"",""
+ball,1,0.6,England,ME Bouchier,A Capsey,FC Jonas,0,0,,,,,,"",""
+ball,1,0.7,England,ME Bouchier,A Capsey,FC Jonas,1,0,,,,,,"",""
+ball,1,1.1,England,ME Bouchier,A Capsey,AC Kerr,4,0,,,,,,"",""
+ball,1,1.2,England,ME Bouchier,A Capsey,AC Kerr,1,0,,,,,,"",""
+ball,1,1.3,England,A Capsey,ME Bouchier,AC Kerr,0,0,,,,,,"",""
+ball,1,1.4,England,A Capsey,ME Bouchier,AC Kerr,1,0,,,,,,"",""
+ball,1,1.5,England,ME Bouchier,A Capsey,AC Kerr,1,0,,,,,,"",""
+ball,1,1.6,England,A Capsey,ME Bouchier,AC Kerr,1,0,,,,,,"",""
+ball,1,2.1,England,A Capsey,ME Bouchier,JM Kerr,1,0,,,,,,"",""
+ball,1,2.2,England,ME Bouchier,A Capsey,JM Kerr,0,0,,,,,,"",""
+ball,1,2.3,England,ME Bouchier,A Capsey,JM Kerr,0,0,,,,,,"",""
+ball,1,2.4,England,ME Bouchier,A Capsey,JM Kerr,0,1,1,,,,,"",""
+ball,1,2.5,England,ME Bouchier,A Capsey,JM Kerr,0,0,,,,,,"",""
+ball,1,2.6,England,ME Bouchier,A Capsey,JM Kerr,1,0,,,,,,"",""
+ball,1,2.7,England,A Capsey,ME Bouchier,JM Kerr,0,0,,,,,,"",""
+ball,1,3.1,England,ME Bouchier,A Capsey,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,3.2,England,ME Bouchier,A Capsey,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,3.3,England,A Capsey,ME Bouchier,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,3.4,England,A Capsey,ME Bouchier,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,3.5,England,A Capsey,ME Bouchier,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,3.6,England,A Capsey,ME Bouchier,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,3.7,England,A Capsey,ME Bouchier,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,4.1,England,ME Bouchier,A Capsey,FC Jonas,0,0,,,,,,caught,ME Bouchier
+ball,1,4.2,England,NR Sciver-Brunt,A Capsey,FC Jonas,0,0,,,,,,"",""
+ball,1,4.3,England,NR Sciver-Brunt,A Capsey,FC Jonas,1,0,,,,,,"",""
+ball,1,4.4,England,A Capsey,NR Sciver-Brunt,FC Jonas,0,0,,,,,,"",""
+ball,1,4.5,England,A Capsey,NR Sciver-Brunt,FC Jonas,0,0,,,,,,"",""
+ball,1,4.6,England,A Capsey,NR Sciver-Brunt,FC Jonas,4,0,,,,,,"",""
+ball,1,5.1,England,NR Sciver-Brunt,A Capsey,SFM Devine,2,0,,,,,,"",""
+ball,1,5.2,England,NR Sciver-Brunt,A Capsey,SFM Devine,1,0,,,,,,"",""
+ball,1,5.3,England,A Capsey,NR Sciver-Brunt,SFM Devine,0,0,,,,,,"",""
+ball,1,5.4,England,A Capsey,NR Sciver-Brunt,SFM Devine,0,0,,,,,,"",""
+ball,1,5.5,England,A Capsey,NR Sciver-Brunt,SFM Devine,0,0,,,,,,"",""
+ball,1,5.6,England,A Capsey,NR Sciver-Brunt,SFM Devine,4,0,,,,,,"",""
+ball,1,6.1,England,NR Sciver-Brunt,A Capsey,JM Kerr,1,0,,,,,,"",""
+ball,1,6.2,England,A Capsey,NR Sciver-Brunt,JM Kerr,0,1,,1,,,,"",""
+ball,1,6.3,England,A Capsey,NR Sciver-Brunt,JM Kerr,0,0,,,,,,"",""
+ball,1,6.4,England,A Capsey,NR Sciver-Brunt,JM Kerr,1,0,,,,,,"",""
+ball,1,6.5,England,NR Sciver-Brunt,A Capsey,JM Kerr,4,0,,,,,,"",""
+ball,1,6.6,England,NR Sciver-Brunt,A Capsey,JM Kerr,1,0,,,,,,"",""
+ball,1,6.7,England,A Capsey,NR Sciver-Brunt,JM Kerr,1,0,,,,,,"",""
+ball,1,7.1,England,A Capsey,NR Sciver-Brunt,AC Kerr,1,0,,,,,,"",""
+ball,1,7.2,England,NR Sciver-Brunt,A Capsey,AC Kerr,2,0,,,,,,"",""
+ball,1,7.3,England,NR Sciver-Brunt,A Capsey,AC Kerr,0,0,,,,,,"",""
+ball,1,7.4,England,NR Sciver-Brunt,A Capsey,AC Kerr,0,0,,,,,,"",""
+ball,1,7.5,England,NR Sciver-Brunt,A Capsey,AC Kerr,4,0,,,,,,"",""
+ball,1,7.6,England,NR Sciver-Brunt,A Capsey,AC Kerr,0,0,,,,,,"",""
+ball,1,8.1,England,A Capsey,NR Sciver-Brunt,FC Jonas,1,0,,,,,,"",""
+ball,1,8.2,England,NR Sciver-Brunt,A Capsey,FC Jonas,0,0,,,,,,caught and bowled,NR Sciver-Brunt
+ball,1,8.3,England,HC Knight,A Capsey,FC Jonas,2,0,,,,,,"",""
+ball,1,8.4,England,HC Knight,A Capsey,FC Jonas,0,0,,,,,,"",""
+ball,1,8.5,England,HC Knight,A Capsey,FC Jonas,1,0,,,,,,"",""
+ball,1,8.6,England,A Capsey,HC Knight,FC Jonas,1,0,,,,,,"",""
+ball,1,9.1,England,A Capsey,HC Knight,EJ Carson,0,0,,,,,,stumped,A Capsey
+ball,1,9.2,England,AE Jones,HC Knight,EJ Carson,1,0,,,,,,"",""
+ball,1,9.3,England,HC Knight,AE Jones,EJ Carson,1,0,,,,,,"",""
+ball,1,9.4,England,AE Jones,HC Knight,EJ Carson,0,0,,,,,,"",""
+ball,1,9.5,England,AE Jones,HC Knight,EJ Carson,1,0,,,,,,"",""
+ball,1,9.6,England,HC Knight,AE Jones,EJ Carson,2,0,,,,,,"",""
+ball,1,10.1,England,AE Jones,HC Knight,AC Kerr,2,0,,,,,,"",""
+ball,1,10.2,England,AE Jones,HC Knight,AC Kerr,4,0,,,,,,"",""
+ball,1,10.3,England,AE Jones,HC Knight,AC Kerr,2,0,,,,,,"",""
+ball,1,10.4,England,AE Jones,HC Knight,AC Kerr,0,0,,,,,,"",""
+ball,1,10.5,England,AE Jones,HC Knight,AC Kerr,1,0,,,,,,"",""
+ball,1,10.6,England,HC Knight,AE Jones,AC Kerr,1,0,,,,,,"",""
+ball,1,11.1,England,HC Knight,AE Jones,EJ Carson,1,0,,,,,,"",""
+ball,1,11.2,England,AE Jones,HC Knight,EJ Carson,0,0,,,,,,caught,AE Jones
+ball,1,11.3,England,FG Kemp,HC Knight,EJ Carson,0,1,1,,,,,"",""
+ball,1,11.4,England,FG Kemp,HC Knight,EJ Carson,1,0,,,,,,"",""
+ball,1,11.5,England,HC Knight,FG Kemp,EJ Carson,1,0,,,,,,"",""
+ball,1,11.6,England,FG Kemp,HC Knight,EJ Carson,1,0,,,,,,"",""
+ball,1,11.7,England,HC Knight,FG Kemp,EJ Carson,1,0,,,,,,"",""
+ball,1,12.1,England,HC Knight,FG Kemp,FC Jonas,4,0,,,,,,"",""
+ball,1,12.2,England,HC Knight,FG Kemp,FC Jonas,1,0,,,,,,"",""
+ball,1,12.3,England,FG Kemp,HC Knight,FC Jonas,0,0,,,,,,bowled,FG Kemp
+ball,1,12.4,England,CE Dean,HC Knight,FC Jonas,0,0,,,,,,"",""
+ball,1,12.5,England,CE Dean,HC Knight,FC Jonas,0,0,,,,,,"",""
+ball,1,12.6,England,CE Dean,HC Knight,FC Jonas,4,0,,,,,,"",""
+ball,1,13.1,England,HC Knight,CE Dean,EJ Carson,0,0,,,,,,"",""
+ball,1,13.2,England,HC Knight,CE Dean,EJ Carson,0,0,,,,,,"",""
+ball,1,13.3,England,HC Knight,CE Dean,EJ Carson,0,2,2,,,,,"",""
+ball,1,13.4,England,CE Dean,HC Knight,EJ Carson,1,0,,,,,,"",""
+ball,1,13.5,England,HC Knight,CE Dean,EJ Carson,1,0,,,,,,"",""
+ball,1,13.6,England,CE Dean,HC Knight,EJ Carson,1,0,,,,,,"",""
+ball,1,13.7,England,HC Knight,CE Dean,EJ Carson,4,0,,,,,,"",""
+ball,1,14.1,England,CE Dean,HC Knight,JM Kerr,1,0,,,,,,"",""
+ball,1,14.2,England,HC Knight,CE Dean,JM Kerr,4,0,,,,,,"",""
+ball,1,14.3,England,HC Knight,CE Dean,JM Kerr,1,0,,,,,,"",""
+ball,1,14.4,England,CE Dean,HC Knight,JM Kerr,0,0,,,,,,"",""
+ball,1,14.5,England,CE Dean,HC Knight,JM Kerr,2,0,,,,,,"",""
+ball,1,14.6,England,CE Dean,HC Knight,JM Kerr,1,0,,,,,,"",""
+ball,1,15.1,England,CE Dean,HC Knight,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,15.2,England,CE Dean,HC Knight,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,15.3,England,HC Knight,CE Dean,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,15.4,England,CE Dean,HC Knight,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,15.5,England,CE Dean,HC Knight,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,15.6,England,CE Dean,HC Knight,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,16.1,England,HC Knight,CE Dean,AC Kerr,1,0,,,,,,"",""
+ball,1,16.2,England,CE Dean,HC Knight,AC Kerr,1,0,,,,,,"",""
+ball,1,16.3,England,HC Knight,CE Dean,AC Kerr,1,0,,,,,,"",""
+ball,1,16.4,England,CE Dean,HC Knight,AC Kerr,1,0,,,,,,"",""
+ball,1,16.5,England,HC Knight,CE Dean,AC Kerr,1,0,,,,,,"",""
+ball,1,16.6,England,CE Dean,HC Knight,AC Kerr,2,0,,,,,,"",""
+ball,1,17.1,England,HC Knight,CE Dean,EJ Carson,1,0,,,,,,"",""
+ball,1,17.2,England,CE Dean,HC Knight,EJ Carson,1,0,,,,,,"",""
+ball,1,17.3,England,HC Knight,CE Dean,EJ Carson,4,0,,,,,,"",""
+ball,1,17.4,England,HC Knight,CE Dean,EJ Carson,6,0,,,,,,"",""
+ball,1,17.5,England,HC Knight,CE Dean,EJ Carson,2,0,,,,,,"",""
+ball,1,17.6,England,HC Knight,CE Dean,EJ Carson,1,0,,,,,,"",""
+ball,1,18.1,England,HC Knight,CE Dean,JM Kerr,0,2,,,2,,,"",""
+ball,1,18.2,England,HC Knight,CE Dean,JM Kerr,1,0,,,,,,"",""
+ball,1,18.3,England,CE Dean,HC Knight,JM Kerr,0,0,,,,,,caught and bowled,CE Dean
+ball,1,18.4,England,S Ecclestone,HC Knight,JM Kerr,0,0,,,,,,"",""
+ball,1,18.5,England,S Ecclestone,HC Knight,JM Kerr,1,1,,1,,,,"",""
+ball,1,18.6,England,HC Knight,S Ecclestone,JM Kerr,1,0,,,,,,"",""
+ball,1,18.7,England,S Ecclestone,HC Knight,JM Kerr,0,0,,,,,,"",""
+ball,1,19.1,England,HC Knight,S Ecclestone,SFM Devine,0,0,,,,,,"",""
+ball,1,19.2,England,HC Knight,S Ecclestone,SFM Devine,1,0,,,,,,"",""
+ball,1,19.3,England,S Ecclestone,HC Knight,SFM Devine,4,0,,,,,,"",""
+ball,1,19.4,England,S Ecclestone,HC Knight,SFM Devine,0,0,,,,,,"",""
+ball,1,19.5,England,S Ecclestone,HC Knight,SFM Devine,2,0,,,,,,"",""
+ball,1,19.6,England,S Ecclestone,HC Knight,SFM Devine,1,0,,,,,,"",""
+ball,2,0.1,New Zealand,SW Bates,GE Plimmer,LK Bell,0,0,,,,,,"",""
+ball,2,0.2,New Zealand,SW Bates,GE Plimmer,LK Bell,0,0,,,,,,"",""
+ball,2,0.3,New Zealand,SW Bates,GE Plimmer,LK Bell,1,0,,,,,,"",""
+ball,2,0.4,New Zealand,GE Plimmer,SW Bates,LK Bell,0,0,,,,,,"",""
+ball,2,0.5,New Zealand,GE Plimmer,SW Bates,LK Bell,4,0,,,,,,"",""
+ball,2,0.6,New Zealand,GE Plimmer,SW Bates,LK Bell,0,0,,,,,,"",""
+ball,2,1.1,New Zealand,SW Bates,GE Plimmer,L Filer,0,0,,,,,,"",""
+ball,2,1.2,New Zealand,SW Bates,GE Plimmer,L Filer,0,0,,,,,,"",""
+ball,2,1.3,New Zealand,SW Bates,GE Plimmer,L Filer,4,0,,,,,,"",""
+ball,2,1.4,New Zealand,SW Bates,GE Plimmer,L Filer,0,0,,,,,,"",""
+ball,2,1.5,New Zealand,SW Bates,GE Plimmer,L Filer,0,0,,,,,,"",""
+ball,2,1.6,New Zealand,SW Bates,GE Plimmer,L Filer,0,0,,,,,,"",""
+ball,2,2.1,New Zealand,GE Plimmer,SW Bates,LK Bell,4,0,,,,,,"",""
+ball,2,2.2,New Zealand,GE Plimmer,SW Bates,LK Bell,0,0,,,,,,"",""
+ball,2,2.3,New Zealand,GE Plimmer,SW Bates,LK Bell,0,0,,,,,,"",""
+ball,2,2.4,New Zealand,GE Plimmer,SW Bates,LK Bell,0,0,,,,,,"",""
+ball,2,2.5,New Zealand,GE Plimmer,SW Bates,LK Bell,0,0,,,,,,caught,GE Plimmer
+ball,2,2.6,New Zealand,AC Kerr,SW Bates,LK Bell,1,0,,,,,,"",""
+ball,2,3.1,New Zealand,AC Kerr,SW Bates,FG Kemp,0,0,,,,,,"",""
+ball,2,3.2,New Zealand,AC Kerr,SW Bates,FG Kemp,4,0,,,,,,"",""
+ball,2,3.3,New Zealand,AC Kerr,SW Bates,FG Kemp,0,0,,,,,,"",""
+ball,2,3.4,New Zealand,AC Kerr,SW Bates,FG Kemp,0,0,,,,,,"",""
+ball,2,3.5,New Zealand,AC Kerr,SW Bates,FG Kemp,0,1,,,,1,,"",""
+ball,2,3.6,New Zealand,SW Bates,AC Kerr,FG Kemp,1,0,,,,,,"",""
+ball,2,4.1,New Zealand,SW Bates,AC Kerr,CE Dean,1,0,,,,,,"",""
+ball,2,4.2,New Zealand,AC Kerr,SW Bates,CE Dean,1,0,,,,,,"",""
+ball,2,4.3,New Zealand,SW Bates,AC Kerr,CE Dean,0,0,,,,,,"",""
+ball,2,4.4,New Zealand,SW Bates,AC Kerr,CE Dean,0,0,,,,,,"",""
+ball,2,4.5,New Zealand,SW Bates,AC Kerr,CE Dean,4,0,,,,,,"",""
+ball,2,4.6,New Zealand,SW Bates,AC Kerr,CE Dean,1,0,,,,,,"",""
+ball,2,5.1,New Zealand,SW Bates,AC Kerr,L Filer,4,0,,,,,,"",""
+ball,2,5.2,New Zealand,SW Bates,AC Kerr,L Filer,0,0,,,,,,caught,SW Bates
+ball,2,5.3,New Zealand,SFM Devine,AC Kerr,L Filer,0,0,,,,,,"",""
+ball,2,5.4,New Zealand,SFM Devine,AC Kerr,L Filer,0,0,,,,,,"",""
+ball,2,5.5,New Zealand,SFM Devine,AC Kerr,L Filer,0,0,,,,,,"",""
+ball,2,5.6,New Zealand,SFM Devine,AC Kerr,L Filer,0,0,,,,,,"",""
+ball,2,6.1,New Zealand,AC Kerr,SFM Devine,S Ecclestone,2,0,,,,,,"",""
+ball,2,6.2,New Zealand,AC Kerr,SFM Devine,S Ecclestone,0,0,,,,,,"",""
+ball,2,6.3,New Zealand,AC Kerr,SFM Devine,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.4,New Zealand,SFM Devine,AC Kerr,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.5,New Zealand,AC Kerr,SFM Devine,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.6,New Zealand,SFM Devine,AC Kerr,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.1,New Zealand,AC Kerr,SFM Devine,L Filer,4,0,,,,,,"",""
+ball,2,7.2,New Zealand,AC Kerr,SFM Devine,L Filer,0,0,,,,,,"",""
+ball,2,7.3,New Zealand,AC Kerr,SFM Devine,L Filer,0,0,,,,,,"",""
+ball,2,7.4,New Zealand,AC Kerr,SFM Devine,L Filer,1,0,,,,,,"",""
+ball,2,7.5,New Zealand,SFM Devine,AC Kerr,L Filer,0,1,,1,,,,"",""
+ball,2,7.6,New Zealand,SFM Devine,AC Kerr,L Filer,0,0,,,,,,"",""
+ball,2,7.7,New Zealand,SFM Devine,AC Kerr,L Filer,0,0,,,,,,"",""
+ball,2,8.1,New Zealand,AC Kerr,SFM Devine,CE Dean,2,0,,,,,,"",""
+ball,2,8.2,New Zealand,AC Kerr,SFM Devine,CE Dean,1,0,,,,,,"",""
+ball,2,8.3,New Zealand,SFM Devine,AC Kerr,CE Dean,0,0,,,,,,"",""
+ball,2,8.4,New Zealand,SFM Devine,AC Kerr,CE Dean,4,0,,,,,,"",""
+ball,2,8.5,New Zealand,SFM Devine,AC Kerr,CE Dean,1,0,,,,,,"",""
+ball,2,8.6,New Zealand,AC Kerr,SFM Devine,CE Dean,4,0,,,,,,"",""
+ball,2,9.1,New Zealand,SFM Devine,AC Kerr,S Ecclestone,4,0,,,,,,"",""
+ball,2,9.2,New Zealand,SFM Devine,AC Kerr,S Ecclestone,1,0,,,,,,"",""
+ball,2,9.3,New Zealand,AC Kerr,SFM Devine,S Ecclestone,1,0,,,,,,"",""
+ball,2,9.4,New Zealand,SFM Devine,AC Kerr,S Ecclestone,1,0,,,,,,"",""
+ball,2,9.5,New Zealand,AC Kerr,SFM Devine,S Ecclestone,1,0,,,,,,"",""
+ball,2,9.6,New Zealand,SFM Devine,AC Kerr,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.1,New Zealand,AC Kerr,SFM Devine,FG Kemp,1,0,,,,,,"",""
+ball,2,10.2,New Zealand,SFM Devine,AC Kerr,FG Kemp,0,0,,,,,,"",""
+ball,2,10.3,New Zealand,SFM Devine,AC Kerr,FG Kemp,0,0,,,,,,caught,SFM Devine
+ball,2,10.4,New Zealand,BM Halliday,AC Kerr,FG Kemp,0,1,1,,,,,"",""
+ball,2,10.5,New Zealand,BM Halliday,AC Kerr,FG Kemp,0,0,,,,,,"",""
+ball,2,10.6,New Zealand,BM Halliday,AC Kerr,FG Kemp,0,0,,,,,,"",""
+ball,2,10.7,New Zealand,BM Halliday,AC Kerr,FG Kemp,0,0,,,,,,"",""
+ball,2,11.1,New Zealand,AC Kerr,BM Halliday,S Ecclestone,1,0,,,,,,"",""
+ball,2,11.2,New Zealand,BM Halliday,AC Kerr,S Ecclestone,4,0,,,,,,"",""
+ball,2,11.3,New Zealand,BM Halliday,AC Kerr,S Ecclestone,0,0,,,,,,"",""
+ball,2,11.4,New Zealand,BM Halliday,AC Kerr,S Ecclestone,0,0,,,,,,"",""
+ball,2,11.5,New Zealand,BM Halliday,AC Kerr,S Ecclestone,6,0,,,,,,"",""
+ball,2,11.6,New Zealand,BM Halliday,AC Kerr,S Ecclestone,0,0,,,,,,"",""
+ball,2,12.1,New Zealand,AC Kerr,BM Halliday,CE Dean,1,0,,,,,,"",""
+ball,2,12.2,New Zealand,BM Halliday,AC Kerr,CE Dean,0,0,,,,,,"",""
+ball,2,12.3,New Zealand,BM Halliday,AC Kerr,CE Dean,1,0,,,,,,"",""
+ball,2,12.4,New Zealand,AC Kerr,BM Halliday,CE Dean,1,0,,,,,,"",""
+ball,2,12.5,New Zealand,BM Halliday,AC Kerr,CE Dean,0,0,,,,,,"",""
+ball,2,12.6,New Zealand,BM Halliday,AC Kerr,CE Dean,1,0,,,,,,"",""
+ball,2,13.1,New Zealand,BM Halliday,AC Kerr,L Filer,4,0,,,,,,"",""
+ball,2,13.2,New Zealand,BM Halliday,AC Kerr,L Filer,1,0,,,,,,"",""
+ball,2,13.3,New Zealand,AC Kerr,BM Halliday,L Filer,1,0,,,,,,"",""
+ball,2,13.4,New Zealand,BM Halliday,AC Kerr,L Filer,1,0,,,,,,"",""
+ball,2,13.5,New Zealand,AC Kerr,BM Halliday,L Filer,0,0,,,,,,"",""
+ball,2,13.6,New Zealand,AC Kerr,BM Halliday,L Filer,1,0,,,,,,"",""
+ball,2,14.1,New Zealand,AC Kerr,BM Halliday,FG Kemp,6,0,,,,,,"",""
+ball,2,14.2,New Zealand,AC Kerr,BM Halliday,FG Kemp,1,0,,,,,,"",""
+ball,2,14.3,New Zealand,BM Halliday,AC Kerr,FG Kemp,1,0,,,,,,"",""
+ball,2,14.4,New Zealand,AC Kerr,BM Halliday,FG Kemp,0,0,,,,,,"",""
+ball,2,14.5,New Zealand,AC Kerr,BM Halliday,FG Kemp,1,0,,,,,,"",""
+ball,2,14.6,New Zealand,BM Halliday,AC Kerr,FG Kemp,4,0,,,,,,"",""
+ball,2,15.1,New Zealand,AC Kerr,BM Halliday,LK Bell,1,0,,,,,,"",""
+ball,2,15.2,New Zealand,BM Halliday,AC Kerr,LK Bell,0,0,,,,,,"",""
+ball,2,15.3,New Zealand,BM Halliday,AC Kerr,LK Bell,2,0,,,,,,"",""
+ball,2,15.4,New Zealand,BM Halliday,AC Kerr,LK Bell,0,0,,,,,,caught,BM Halliday
+ball,2,15.5,New Zealand,ML Green,AC Kerr,LK Bell,0,0,,,,,,"",""
+ball,2,15.6,New Zealand,ML Green,AC Kerr,LK Bell,1,0,,,,,,"",""
+ball,2,16.1,New Zealand,ML Green,AC Kerr,S Ecclestone,1,0,,,,,,"",""
+ball,2,16.2,New Zealand,AC Kerr,ML Green,S Ecclestone,1,0,,,,,,"",""
+ball,2,16.3,New Zealand,ML Green,AC Kerr,S Ecclestone,1,0,,,,,,"",""
+ball,2,16.4,New Zealand,AC Kerr,ML Green,S Ecclestone,2,0,,,,,,"",""
+ball,2,16.5,New Zealand,AC Kerr,ML Green,S Ecclestone,1,0,,,,,,"",""
+ball,2,16.6,New Zealand,ML Green,AC Kerr,S Ecclestone,0,1,,,1,,,"",""
+ball,2,17.1,New Zealand,ML Green,AC Kerr,CE Dean,1,0,,,,,,"",""
+ball,2,17.2,New Zealand,AC Kerr,ML Green,CE Dean,0,0,,,,,,stumped,AC Kerr
+ball,2,17.3,New Zealand,IC Gaze,ML Green,CE Dean,1,0,,,,,,"",""
+ball,2,17.4,New Zealand,ML Green,IC Gaze,CE Dean,0,0,,,,,,bowled,ML Green
+ball,2,17.5,New Zealand,JM Kerr,IC Gaze,CE Dean,4,0,,,,,,"",""
+ball,2,17.6,New Zealand,JM Kerr,IC Gaze,CE Dean,0,0,,,,,,"",""
+ball,2,18.1,New Zealand,IC Gaze,JM Kerr,FG Kemp,1,0,,,,,,"",""
+ball,2,18.2,New Zealand,JM Kerr,IC Gaze,FG Kemp,4,0,,,,,,"",""
+ball,2,18.3,New Zealand,JM Kerr,IC Gaze,FG Kemp,0,0,,,,,,caught,JM Kerr
+ball,2,18.4,New Zealand,LMM Tahuhu,IC Gaze,FG Kemp,1,0,,,,,,"",""
+ball,2,18.5,New Zealand,IC Gaze,LMM Tahuhu,FG Kemp,1,0,,,,,,"",""
+ball,2,18.6,New Zealand,LMM Tahuhu,IC Gaze,FG Kemp,4,0,,,,,,"",""
+ball,2,19.1,New Zealand,IC Gaze,LMM Tahuhu,LK Bell,2,0,,,,,,"",""
+ball,2,19.2,New Zealand,IC Gaze,LMM Tahuhu,LK Bell,0,0,,,,,,bowled,IC Gaze
+ball,2,19.3,New Zealand,EJ Carson,LMM Tahuhu,LK Bell,1,0,,,,,,"",""
+ball,2,19.4,New Zealand,LMM Tahuhu,EJ Carson,LK Bell,2,0,,,,,,"",""
+ball,2,19.5,New Zealand,LMM Tahuhu,EJ Carson,LK Bell,0,0,,,,,,"",""
+ball,2,19.6,New Zealand,LMM Tahuhu,EJ Carson,LK Bell,2,0,,,,,,"",""

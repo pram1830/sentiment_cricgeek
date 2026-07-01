@@ -1,0 +1,225 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Bhutan
+info,gender,male
+info,season,2025/26
+info,date,2025/12/23
+info,event,Myanmar tour of Bhutan
+info,match_number,1
+info,venue,Gelephu International Cricket Ground
+info,city,Gelephu
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,S Yeshi
+info,umpire,AK Rai
+info,umpire,U Dorji
+info,reserve_umpire,Subas Lama
+info,tv_umpire,ON Pradhan
+info,winner,Bhutan
+info,winner_wickets,8
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,Nay Lin Htun
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Nyeing Cham Soe
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Myanmar,Myat Thu Aung
+info,player,Myanmar,Kaung Htet Kyaw
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,Karma Dorji
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,Tashi Phuntsho
+info,player,Bhutan,S Yeshi
+info,player,Bhutan,Tashi Dorji
+info,player,Bhutan,Ugyen Dorji
+info,registry,people,AK Rai,1d70834a
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Karma Dorji,80058153
+info,registry,people,Kaung Htet Kyaw,e1bd3e2e
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,Myat Thu Aung,cebbf3c9
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,Nay Lin Htun,5319f95b
+info,registry,people,Nyeing Cham Soe,45b5ce8d
+info,registry,people,ON Pradhan,d41a08d6
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Subas Lama,0a0c48dc
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tashi Dorji,0f05655d
+info,registry,people,Tashi Phuntsho,43d365ca
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,U Dorji,12bba2d4
+info,registry,people,Ugyen Dorji,ffb65f46
+ball,1,0.1,Myanmar,Pyae Phyo Wai,H Lin Oo,T Wangchuk,0,1,1,,,,,"",""
+ball,1,0.2,Myanmar,Pyae Phyo Wai,H Lin Oo,T Wangchuk,0,0,,,,,,"",""
+ball,1,0.3,Myanmar,Pyae Phyo Wai,H Lin Oo,T Wangchuk,1,0,,,,,,"",""
+ball,1,0.4,Myanmar,H Lin Oo,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,0.5,Myanmar,H Lin Oo,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,0.6,Myanmar,H Lin Oo,Pyae Phyo Wai,T Wangchuk,2,0,,,,,,"",""
+ball,1,0.7,Myanmar,H Lin Oo,Pyae Phyo Wai,T Wangchuk,1,0,,,,,,"",""
+ball,1,1.1,Myanmar,H Lin Oo,Pyae Phyo Wai,Tashi Phuntsho,0,0,,,,,,bowled,H Lin Oo
+ball,1,1.2,Myanmar,Nay Lin Htun,Pyae Phyo Wai,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,1.3,Myanmar,Nay Lin Htun,Pyae Phyo Wai,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,1.4,Myanmar,Nay Lin Htun,Pyae Phyo Wai,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,1.5,Myanmar,Pyae Phyo Wai,Nay Lin Htun,Tashi Phuntsho,4,0,,,,,,"",""
+ball,1,1.6,Myanmar,Pyae Phyo Wai,Nay Lin Htun,Tashi Phuntsho,5,0,,,,,,"",""
+ball,1,2.1,Myanmar,Nay Lin Htun,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,2.2,Myanmar,Nay Lin Htun,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,2.3,Myanmar,Nay Lin Htun,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,caught,Nay Lin Htun
+ball,1,2.4,Myanmar,KK Lin Thu,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,2.5,Myanmar,KK Lin Thu,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,bowled,KK Lin Thu
+ball,1,2.6,Myanmar,Khin Aye,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,3.1,Myanmar,Pyae Phyo Wai,Khin Aye,Tashi Phuntsho,3,0,,,,,,"",""
+ball,1,3.2,Myanmar,Khin Aye,Pyae Phyo Wai,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,3.3,Myanmar,Khin Aye,Pyae Phyo Wai,Tashi Phuntsho,0,0,,,,,,"",""
+ball,1,3.4,Myanmar,Khin Aye,Pyae Phyo Wai,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,3.5,Myanmar,Pyae Phyo Wai,Khin Aye,Tashi Phuntsho,4,0,,,,,,"",""
+ball,1,3.6,Myanmar,Pyae Phyo Wai,Khin Aye,Tashi Phuntsho,1,0,,,,,,"",""
+ball,1,4.1,Myanmar,Pyae Phyo Wai,Khin Aye,T Wangchuk,1,0,,,,,,"",""
+ball,1,4.2,Myanmar,Khin Aye,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,4.3,Myanmar,Khin Aye,Pyae Phyo Wai,T Wangchuk,0,1,1,,,,,"",""
+ball,1,4.4,Myanmar,Khin Aye,Pyae Phyo Wai,T Wangchuk,2,0,,,,,,"",""
+ball,1,4.5,Myanmar,Khin Aye,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,4.6,Myanmar,Khin Aye,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,4.7,Myanmar,Khin Aye,Pyae Phyo Wai,T Wangchuk,0,0,,,,,,"",""
+ball,1,5.1,Myanmar,Pyae Phyo Wai,Khin Aye,Ugyen Dorji,1,0,,,,,,"",""
+ball,1,5.2,Myanmar,Khin Aye,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,"",""
+ball,1,5.3,Myanmar,Khin Aye,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,"",""
+ball,1,5.4,Myanmar,Khin Aye,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,caught,Khin Aye
+ball,1,5.5,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,"",""
+ball,1,5.6,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,1,1,,,,,"",""
+ball,1,5.7,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,"",""
+ball,1,6.1,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,1,0,,,,,,"",""
+ball,1,6.2,Myanmar,Thuya Aung,Pyae Phyo Wai,Karma Dorji,1,0,,,,,,"",""
+ball,1,6.3,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,0,0,,,,,,"",""
+ball,1,6.4,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,2,0,,,,,,"",""
+ball,1,6.5,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,0,1,,,,1,,"",""
+ball,1,6.6,Myanmar,Thuya Aung,Pyae Phyo Wai,Karma Dorji,0,0,,,,,,"",""
+ball,1,7.1,Myanmar,Pyae Phyo Wai,Thuya Aung,Ugyen Dorji,1,0,,,,,,"",""
+ball,1,7.2,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,"",""
+ball,1,7.3,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,1,0,,,,,,"",""
+ball,1,7.4,Myanmar,Pyae Phyo Wai,Thuya Aung,Ugyen Dorji,0,1,,,,1,,"",""
+ball,1,7.5,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,1,1,,,,,"",""
+ball,1,7.6,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,1,1,,,,,"",""
+ball,1,7.7,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,"",""
+ball,1,7.8,Myanmar,Thuya Aung,Pyae Phyo Wai,Ugyen Dorji,0,0,,,,,,"",""
+ball,1,8.1,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,1,0,,,,,,"",""
+ball,1,8.2,Myanmar,Thuya Aung,Pyae Phyo Wai,Karma Dorji,0,1,,,,1,,"",""
+ball,1,8.3,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,0,1,1,,,,,"",""
+ball,1,8.4,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,1,0,,,,,,"",""
+ball,1,8.5,Myanmar,Thuya Aung,Pyae Phyo Wai,Karma Dorji,0,0,,,,,,"",""
+ball,1,8.6,Myanmar,Thuya Aung,Pyae Phyo Wai,Karma Dorji,1,0,,,,,,"",""
+ball,1,8.7,Myanmar,Pyae Phyo Wai,Thuya Aung,Karma Dorji,1,0,,,,,,"",""
+ball,1,9.1,Myanmar,Pyae Phyo Wai,Thuya Aung,S Yeshi,1,0,,,,,,"",""
+ball,1,9.2,Myanmar,Thuya Aung,Pyae Phyo Wai,S Yeshi,0,0,,,,,,"",""
+ball,1,9.3,Myanmar,Thuya Aung,Pyae Phyo Wai,S Yeshi,0,0,,,,,,"",""
+ball,1,9.4,Myanmar,Thuya Aung,Pyae Phyo Wai,S Yeshi,0,0,,,,,,bowled,Thuya Aung
+ball,1,9.5,Myanmar,H Lin Aung,Pyae Phyo Wai,S Yeshi,0,0,,,,,,"",""
+ball,1,9.6,Myanmar,H Lin Aung,Pyae Phyo Wai,S Yeshi,0,0,,,,,,"",""
+ball,1,10.1,Myanmar,Pyae Phyo Wai,H Lin Aung,Tashi Dorji,0,0,,,,,,bowled,Pyae Phyo Wai
+ball,1,10.2,Myanmar,Nyeing Cham Soe,H Lin Aung,Tashi Dorji,0,0,,,,,,"",""
+ball,1,10.3,Myanmar,Nyeing Cham Soe,H Lin Aung,Tashi Dorji,1,0,,,,,,"",""
+ball,1,10.4,Myanmar,H Lin Aung,Nyeing Cham Soe,Tashi Dorji,0,0,,,,,,"",""
+ball,1,10.5,Myanmar,H Lin Aung,Nyeing Cham Soe,Tashi Dorji,6,0,,,,,,"",""
+ball,1,10.6,Myanmar,H Lin Aung,Nyeing Cham Soe,Tashi Dorji,0,0,,,,,,"",""
+ball,1,11.1,Myanmar,Nyeing Cham Soe,H Lin Aung,S Yeshi,0,0,,,,,,"",""
+ball,1,11.2,Myanmar,Nyeing Cham Soe,H Lin Aung,S Yeshi,0,0,,,,,,"",""
+ball,1,11.3,Myanmar,Nyeing Cham Soe,H Lin Aung,S Yeshi,6,0,,,,,,"",""
+ball,1,11.4,Myanmar,Nyeing Cham Soe,H Lin Aung,S Yeshi,0,0,,,,,,"",""
+ball,1,11.5,Myanmar,Nyeing Cham Soe,H Lin Aung,S Yeshi,0,0,,,,,,"",""
+ball,1,11.6,Myanmar,Nyeing Cham Soe,H Lin Aung,S Yeshi,0,0,,,,,,bowled,Nyeing Cham Soe
+ball,1,12.1,Myanmar,H Lin Aung,Swann Htet Ko Ko,Tashi Dorji,0,0,,,,,,"",""
+ball,1,12.2,Myanmar,H Lin Aung,Swann Htet Ko Ko,Tashi Dorji,0,0,,,,,,"",""
+ball,1,12.3,Myanmar,H Lin Aung,Swann Htet Ko Ko,Tashi Dorji,0,0,,,,,,"",""
+ball,1,12.4,Myanmar,H Lin Aung,Swann Htet Ko Ko,Tashi Dorji,0,0,,,,,,"",""
+ball,1,12.5,Myanmar,H Lin Aung,Swann Htet Ko Ko,Tashi Dorji,0,0,,,,,,"",""
+ball,1,12.6,Myanmar,H Lin Aung,Swann Htet Ko Ko,Tashi Dorji,0,0,,,,,,"",""
+ball,1,13.1,Myanmar,Swann Htet Ko Ko,H Lin Aung,S Yeshi,0,0,,,,,,bowled,Swann Htet Ko Ko
+ball,1,13.2,Myanmar,Myat Thu Aung,H Lin Aung,S Yeshi,2,0,,,,,,"",""
+ball,1,13.3,Myanmar,Myat Thu Aung,H Lin Aung,S Yeshi,0,0,,,,,,"",""
+ball,1,13.4,Myanmar,Myat Thu Aung,H Lin Aung,S Yeshi,1,0,,,,,,"",""
+ball,1,13.5,Myanmar,H Lin Aung,Myat Thu Aung,S Yeshi,0,0,,,,,,"",""
+ball,1,13.6,Myanmar,H Lin Aung,Myat Thu Aung,S Yeshi,1,0,,,,,,"",""
+ball,1,14.1,Myanmar,H Lin Aung,Myat Thu Aung,Tashi Dorji,1,0,,,,,,"",""
+ball,1,14.2,Myanmar,Myat Thu Aung,H Lin Aung,Tashi Dorji,0,0,,,,,,"",""
+ball,1,14.3,Myanmar,Myat Thu Aung,H Lin Aung,Tashi Dorji,0,0,,,,,,"",""
+ball,1,14.4,Myanmar,Myat Thu Aung,H Lin Aung,Tashi Dorji,0,0,,,,,,"",""
+ball,1,14.5,Myanmar,Myat Thu Aung,H Lin Aung,Tashi Dorji,1,0,,,,,,"",""
+ball,1,14.6,Myanmar,H Lin Aung,Myat Thu Aung,Tashi Dorji,0,0,,,,,,"",""
+ball,1,15.1,Myanmar,Myat Thu Aung,H Lin Aung,Namgay Thinley,1,0,,,,,,"",""
+ball,1,15.2,Myanmar,H Lin Aung,Myat Thu Aung,Namgay Thinley,0,0,,,,,,bowled,H Lin Aung
+ball,1,15.3,Myanmar,Kaung Htet Kyaw,Myat Thu Aung,Namgay Thinley,0,0,,,,,,"",""
+ball,1,15.4,Myanmar,Kaung Htet Kyaw,Myat Thu Aung,Namgay Thinley,1,0,,,,,,"",""
+ball,1,15.5,Myanmar,Myat Thu Aung,Kaung Htet Kyaw,Namgay Thinley,0,0,,,,,,"",""
+ball,1,15.6,Myanmar,Myat Thu Aung,Kaung Htet Kyaw,Namgay Thinley,0,0,,,,,,"",""
+ball,1,16.1,Myanmar,Kaung Htet Kyaw,Myat Thu Aung,Tashi Dorji,1,0,,,,,,"",""
+ball,1,16.2,Myanmar,Myat Thu Aung,Kaung Htet Kyaw,Tashi Dorji,0,0,,,,,,run out,Kaung Htet Kyaw
+ball,2,0.1,Bhutan,Namgay Thinley,Tenjin Rabgey,Khin Aye,0,2,,,2,,,"",""
+ball,2,0.2,Bhutan,Namgay Thinley,Tenjin Rabgey,Khin Aye,1,0,,,,,,"",""
+ball,2,0.3,Bhutan,Tenjin Rabgey,Namgay Thinley,Khin Aye,0,0,,,,,,"",""
+ball,2,0.4,Bhutan,Tenjin Rabgey,Namgay Thinley,Khin Aye,1,0,,,,,,"",""
+ball,2,0.5,Bhutan,Namgay Thinley,Tenjin Rabgey,Khin Aye,1,0,,,,,,"",""
+ball,2,0.6,Bhutan,Tenjin Rabgey,Namgay Thinley,Khin Aye,2,0,,,,,,"",""
+ball,2,1.1,Bhutan,Namgay Thinley,Tenjin Rabgey,Thuya Aung,4,0,,,,,,"",""
+ball,2,1.2,Bhutan,Namgay Thinley,Tenjin Rabgey,Thuya Aung,4,0,,,,,,"",""
+ball,2,1.3,Bhutan,Namgay Thinley,Tenjin Rabgey,Thuya Aung,0,0,,,,,,"",""
+ball,2,1.4,Bhutan,Namgay Thinley,Tenjin Rabgey,Thuya Aung,4,0,,,,,,"",""
+ball,2,1.5,Bhutan,Namgay Thinley,Tenjin Rabgey,Thuya Aung,1,0,,,,,,"",""
+ball,2,1.6,Bhutan,Tenjin Rabgey,Namgay Thinley,Thuya Aung,1,0,,,,,,"",""
+ball,2,2.1,Bhutan,Tenjin Rabgey,Namgay Thinley,KK Lin Thu,1,0,,,,,,"",""
+ball,2,2.2,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,1,1,,,,,"",""
+ball,2,2.3,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,1,0,,,,,,"",""
+ball,2,2.4,Bhutan,Tenjin Rabgey,Namgay Thinley,KK Lin Thu,1,0,,,,,,"",""
+ball,2,2.5,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,6,0,,,,,,"",""
+ball,2,2.6,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,1,1,,,,,"",""
+ball,2,2.7,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,0,,,,,,"",""
+ball,2,2.8,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,0,,,,,,"",""
+ball,2,3.1,Bhutan,Tenjin Rabgey,Namgay Thinley,Kaung Htet Kyaw,1,0,,,,,,"",""
+ball,2,3.2,Bhutan,Namgay Thinley,Tenjin Rabgey,Kaung Htet Kyaw,0,1,1,,,,,"",""
+ball,2,3.3,Bhutan,Namgay Thinley,Tenjin Rabgey,Kaung Htet Kyaw,0,0,,,,,,"",""
+ball,2,3.4,Bhutan,Namgay Thinley,Tenjin Rabgey,Kaung Htet Kyaw,0,1,1,,,,,"",""
+ball,2,3.5,Bhutan,Namgay Thinley,Tenjin Rabgey,Kaung Htet Kyaw,1,0,,,,,,"",""
+ball,2,3.6,Bhutan,Tenjin Rabgey,Namgay Thinley,Kaung Htet Kyaw,4,0,,,,,,"",""
+ball,2,3.7,Bhutan,Tenjin Rabgey,Namgay Thinley,Kaung Htet Kyaw,0,0,,,,,,"",""
+ball,2,3.8,Bhutan,Tenjin Rabgey,Namgay Thinley,Kaung Htet Kyaw,0,0,,,,,,"",""
+ball,2,4.1,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,5,5,,,,,"",""
+ball,2,4.2,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,1,1,,,,,"",""
+ball,2,4.3,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,0,,,,,,"",""
+ball,2,4.4,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,4,0,,,,,,"",""
+ball,2,4.5,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,0,0,,,,,,"",""
+ball,2,4.6,Bhutan,Namgay Thinley,Tenjin Rabgey,KK Lin Thu,1,0,,,,,,"",""
+ball,2,4.7,Bhutan,Tenjin Rabgey,Namgay Thinley,KK Lin Thu,0,0,,,,,,"",""
+ball,2,4.8,Bhutan,Tenjin Rabgey,Namgay Thinley,KK Lin Thu,1,0,,,,,,"",""
+ball,2,5.1,Bhutan,Tenjin Rabgey,Namgay Thinley,Pyae Phyo Wai,0,0,,,,,,caught,Tenjin Rabgey
+ball,2,5.2,Bhutan,RM Dorji,Namgay Thinley,Pyae Phyo Wai,1,0,,,,,,"",""
+ball,2,5.3,Bhutan,Namgay Thinley,RM Dorji,Pyae Phyo Wai,1,0,,,,,,"",""
+ball,2,5.4,Bhutan,RM Dorji,Namgay Thinley,Pyae Phyo Wai,0,0,,,,,,"",""
+ball,2,5.5,Bhutan,RM Dorji,Namgay Thinley,Pyae Phyo Wai,0,0,,,,,,"",""
+ball,2,5.6,Bhutan,RM Dorji,Namgay Thinley,Pyae Phyo Wai,0,0,,,,,,bowled,RM Dorji
+ball,2,6.1,Bhutan,Namgay Thinley,T Jamtsho,H Lin Aung,1,0,,,,,,"",""
+ball,2,6.2,Bhutan,T Jamtsho,Namgay Thinley,H Lin Aung,1,0,,,,,,"",""
+ball,2,6.3,Bhutan,Namgay Thinley,T Jamtsho,H Lin Aung,6,0,,,,,,"",""
+ball,2,6.4,Bhutan,Namgay Thinley,T Jamtsho,H Lin Aung,1,0,,,,,,"",""
+ball,2,6.5,Bhutan,T Jamtsho,Namgay Thinley,H Lin Aung,0,0,,,,,,"",""
+ball,2,6.6,Bhutan,T Jamtsho,Namgay Thinley,H Lin Aung,0,0,,,,,,"",""
+ball,2,7.1,Bhutan,Namgay Thinley,T Jamtsho,Pyae Phyo Wai,1,0,,,,,,"",""
+ball,2,7.2,Bhutan,T Jamtsho,Namgay Thinley,Pyae Phyo Wai,0,0,,,,,,"",""
+ball,2,7.3,Bhutan,T Jamtsho,Namgay Thinley,Pyae Phyo Wai,1,0,,,,,,"",""
+ball,2,7.4,Bhutan,Namgay Thinley,T Jamtsho,Pyae Phyo Wai,4,0,,,,,,"",""
+ball,2,7.5,Bhutan,Namgay Thinley,T Jamtsho,Pyae Phyo Wai,1,0,,,,,,"",""

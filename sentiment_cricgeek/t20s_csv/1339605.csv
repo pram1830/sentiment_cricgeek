@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2022/23
+info,date,2023/03/26
+info,event,West Indies tour of South Africa
+info,match_number,2
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,Q de Kock
+info,umpire,AT Holdstock
+info,umpire,A Paleker
+info,reserve_umpire,S George
+info,tv_umpire,BP Jele
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_wickets,6
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Charles
+info,player,West Indies,N Pooran
+info,player,West Indies,R Powell
+info,player,West Indies,R Shepherd
+info,player,West Indies,OF Smith
+info,player,West Indies,RA Reifer
+info,player,West Indies,JO Holder
+info,player,West Indies,AJ Hosein
+info,player,West Indies,SS Cottrell
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,RR Rossouw
+info,player,South Africa,DA Miller
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,M Jansen
+info,player,South Africa,WD Parnell
+info,player,South Africa,SSB Magala
+info,player,South Africa,K Rabada
+info,player,South Africa,T Shamsi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BA King,7fca84b7
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,J Charles,09a9d073
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KR Mayers,73c18486
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OF Smith,23cca426
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S George,6d9e5a54
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,SSB Magala,8361e524
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,West Indies,BA King,KR Mayers,WD Parnell,1,0,,,,,,"",""
+ball,1,0.2,West Indies,KR Mayers,BA King,WD Parnell,1,0,,,,,,"",""
+ball,1,0.3,West Indies,BA King,KR Mayers,WD Parnell,0,0,,,,,,caught,BA King
+ball,1,0.4,West Indies,J Charles,KR Mayers,WD Parnell,0,0,,,,,,"",""
+ball,1,0.5,West Indies,J Charles,KR Mayers,WD Parnell,4,0,,,,,,"",""
+ball,1,0.6,West Indies,J Charles,KR Mayers,WD Parnell,4,0,,,,,,"",""
+ball,1,1.1,West Indies,KR Mayers,J Charles,AK Markram,0,0,,,,,,"",""
+ball,1,1.2,West Indies,KR Mayers,J Charles,AK Markram,0,0,,,,,,"",""
+ball,1,1.3,West Indies,KR Mayers,J Charles,AK Markram,0,0,,,,,,"",""
+ball,1,1.4,West Indies,KR Mayers,J Charles,AK Markram,0,0,,,,,,"",""
+ball,1,1.5,West Indies,KR Mayers,J Charles,AK Markram,1,0,,,,,,"",""
+ball,1,1.6,West Indies,J Charles,KR Mayers,AK Markram,0,0,,,,,,"",""
+ball,1,2.1,West Indies,KR Mayers,J Charles,WD Parnell,4,0,,,,,,"",""
+ball,1,2.2,West Indies,KR Mayers,J Charles,WD Parnell,1,0,,,,,,"",""
+ball,1,2.3,West Indies,J Charles,KR Mayers,WD Parnell,4,0,,,,,,"",""
+ball,1,2.4,West Indies,J Charles,KR Mayers,WD Parnell,2,0,,,,,,"",""
+ball,1,2.5,West Indies,J Charles,KR Mayers,WD Parnell,4,0,,,,,,"",""
+ball,1,2.6,West Indies,J Charles,KR Mayers,WD Parnell,0,1,1,,,,,"",""
+ball,1,2.7,West Indies,J Charles,KR Mayers,WD Parnell,1,0,,,,,,"",""
+ball,1,3.1,West Indies,J Charles,KR Mayers,K Rabada,4,0,,,,,,"",""
+ball,1,3.2,West Indies,J Charles,KR Mayers,K Rabada,0,0,,,,,,"",""
+ball,1,3.3,West Indies,J Charles,KR Mayers,K Rabada,0,0,,,,,,"",""
+ball,1,3.4,West Indies,J Charles,KR Mayers,K Rabada,0,0,,,,,,"",""
+ball,1,3.5,West Indies,J Charles,KR Mayers,K Rabada,1,0,,,,,,"",""
+ball,1,3.6,West Indies,KR Mayers,J Charles,K Rabada,0,0,,,,,,"",""
+ball,1,4.1,West Indies,J Charles,KR Mayers,M Jansen,6,0,,,,,,"",""
+ball,1,4.2,West Indies,J Charles,KR Mayers,M Jansen,4,0,,,,,,"",""
+ball,1,4.3,West Indies,J Charles,KR Mayers,M Jansen,0,0,,,,,,"",""
+ball,1,4.4,West Indies,J Charles,KR Mayers,M Jansen,6,0,,,,,,"",""
+ball,1,4.5,West Indies,J Charles,KR Mayers,M Jansen,0,0,,,,,,"",""
+ball,1,4.6,West Indies,J Charles,KR Mayers,M Jansen,4,0,,,,,,"",""
+ball,1,5.1,West Indies,KR Mayers,J Charles,K Rabada,4,0,,,,,,"",""
+ball,1,5.2,West Indies,KR Mayers,J Charles,K Rabada,4,0,,,,,,"",""
+ball,1,5.3,West Indies,KR Mayers,J Charles,K Rabada,0,1,,,,1,,"",""
+ball,1,5.4,West Indies,J Charles,KR Mayers,K Rabada,0,0,,,,,,"",""
+ball,1,5.5,West Indies,J Charles,KR Mayers,K Rabada,0,0,,,,,,"",""
+ball,1,5.6,West Indies,J Charles,KR Mayers,K Rabada,0,0,,,,,,"",""
+ball,1,6.1,West Indies,KR Mayers,J Charles,SSB Magala,6,0,,,,,,"",""
+ball,1,6.2,West Indies,KR Mayers,J Charles,SSB Magala,6,0,,,,,,"",""
+ball,1,6.3,West Indies,KR Mayers,J Charles,SSB Magala,0,0,,,,,,"",""
+ball,1,6.4,West Indies,KR Mayers,J Charles,SSB Magala,4,0,,,,,,"",""
+ball,1,6.5,West Indies,KR Mayers,J Charles,SSB Magala,4,0,,,,,,"",""
+ball,1,6.6,West Indies,KR Mayers,J Charles,SSB Magala,1,0,,,,,,"",""
+ball,1,7.1,West Indies,KR Mayers,J Charles,T Shamsi,0,0,,,,,,"",""
+ball,1,7.2,West Indies,KR Mayers,J Charles,T Shamsi,6,0,,,,,,"",""
+ball,1,7.3,West Indies,KR Mayers,J Charles,T Shamsi,0,0,,,,,,"",""
+ball,1,7.4,West Indies,KR Mayers,J Charles,T Shamsi,1,0,,,,,,"",""
+ball,1,7.5,West Indies,J Charles,KR Mayers,T Shamsi,6,0,,,,,,"",""
+ball,1,7.6,West Indies,J Charles,KR Mayers,T Shamsi,1,0,,,,,,"",""
+ball,1,8.1,West Indies,J Charles,KR Mayers,AK Markram,2,0,,,,,,"",""
+ball,1,8.2,West Indies,J Charles,KR Mayers,AK Markram,6,0,,,,,,"",""
+ball,1,8.3,West Indies,J Charles,KR Mayers,AK Markram,0,1,1,,,,,"",""
+ball,1,8.4,West Indies,J Charles,KR Mayers,AK Markram,4,0,,,,,,"",""
+ball,1,8.5,West Indies,J Charles,KR Mayers,AK Markram,6,0,,,,,,"",""
+ball,1,8.6,West Indies,J Charles,KR Mayers,AK Markram,1,0,,,,,,"",""
+ball,1,8.7,West Indies,KR Mayers,J Charles,AK Markram,1,0,,,,,,"",""
+ball,1,9.1,West Indies,KR Mayers,J Charles,T Shamsi,6,0,,,,,,"",""
+ball,1,9.2,West Indies,KR Mayers,J Charles,T Shamsi,0,0,,,,,,"",""
+ball,1,9.3,West Indies,KR Mayers,J Charles,T Shamsi,1,0,,,,,,"",""
+ball,1,9.4,West Indies,J Charles,KR Mayers,T Shamsi,0,0,,,,,,"",""
+ball,1,9.5,West Indies,J Charles,KR Mayers,T Shamsi,6,0,,,,,,"",""
+ball,1,9.6,West Indies,J Charles,KR Mayers,T Shamsi,6,0,,,,,,"",""
+ball,1,10.1,West Indies,KR Mayers,J Charles,M Jansen,0,0,,,,,,caught,KR Mayers
+ball,1,10.2,West Indies,N Pooran,J Charles,M Jansen,0,0,,,,,,"",""
+ball,1,10.3,West Indies,N Pooran,J Charles,M Jansen,2,0,,,,,,"",""
+ball,1,10.4,West Indies,N Pooran,J Charles,M Jansen,0,0,,,,,,caught,N Pooran
+ball,1,10.5,West Indies,R Powell,J Charles,M Jansen,1,0,,,,,,"",""
+ball,1,10.6,West Indies,J Charles,R Powell,M Jansen,0,0,,,,,,"",""
+ball,1,11.1,West Indies,R Powell,J Charles,K Rabada,1,0,,,,,,"",""
+ball,1,11.2,West Indies,J Charles,R Powell,K Rabada,0,0,,,,,,"",""
+ball,1,11.3,West Indies,J Charles,R Powell,K Rabada,6,0,,,,,,"",""
+ball,1,11.4,West Indies,J Charles,R Powell,K Rabada,1,0,,,,,,"",""
+ball,1,11.5,West Indies,R Powell,J Charles,K Rabada,0,0,,,,,,"",""
+ball,1,11.6,West Indies,R Powell,J Charles,K Rabada,0,0,,,,,,"",""
+ball,1,12.1,West Indies,J Charles,R Powell,SSB Magala,4,0,,,,,,"",""
+ball,1,12.2,West Indies,J Charles,R Powell,SSB Magala,1,0,,,,,,"",""
+ball,1,12.3,West Indies,R Powell,J Charles,SSB Magala,0,1,,,,1,,"",""
+ball,1,12.4,West Indies,J Charles,R Powell,SSB Magala,6,0,,,,,,"",""
+ball,1,12.5,West Indies,J Charles,R Powell,SSB Magala,0,0,,,,,,"",""
+ball,1,12.6,West Indies,J Charles,R Powell,SSB Magala,1,0,,,,,,"",""
+ball,1,13.1,West Indies,J Charles,R Powell,M Jansen,6,0,,,,,,"",""
+ball,1,13.2,West Indies,J Charles,R Powell,M Jansen,6,0,,,,,,"",""
+ball,1,13.3,West Indies,J Charles,R Powell,M Jansen,4,0,,,,,,"",""
+ball,1,13.4,West Indies,J Charles,R Powell,M Jansen,1,0,,,,,,"",""
+ball,1,13.5,West Indies,R Powell,J Charles,M Jansen,1,0,,,,,,"",""
+ball,1,13.6,West Indies,J Charles,R Powell,M Jansen,0,0,,,,,,bowled,J Charles
+ball,1,14.1,West Indies,R Powell,R Shepherd,WD Parnell,3,0,,,,,,"",""
+ball,1,14.2,West Indies,R Shepherd,R Powell,WD Parnell,1,0,,,,,,"",""
+ball,1,14.3,West Indies,R Powell,R Shepherd,WD Parnell,1,0,,,,,,"",""
+ball,1,14.4,West Indies,R Shepherd,R Powell,WD Parnell,1,0,,,,,,"",""
+ball,1,14.5,West Indies,R Powell,R Shepherd,WD Parnell,1,0,,,,,,"",""
+ball,1,14.6,West Indies,R Shepherd,R Powell,WD Parnell,4,0,,,,,,"",""
+ball,1,15.1,West Indies,R Powell,R Shepherd,SSB Magala,1,0,,,,,,"",""
+ball,1,15.2,West Indies,R Shepherd,R Powell,SSB Magala,1,0,,,,,,"",""
+ball,1,15.3,West Indies,R Powell,R Shepherd,SSB Magala,1,0,,,,,,"",""
+ball,1,15.4,West Indies,R Shepherd,R Powell,SSB Magala,6,0,,,,,,"",""
+ball,1,15.5,West Indies,R Shepherd,R Powell,SSB Magala,1,0,,,,,,"",""
+ball,1,15.6,West Indies,R Powell,R Shepherd,SSB Magala,6,0,,,,,,"",""
+ball,1,16.1,West Indies,R Shepherd,R Powell,M Jansen,1,0,,,,,,"",""
+ball,1,16.2,West Indies,R Powell,R Shepherd,M Jansen,0,1,1,,,,,"",""
+ball,1,16.3,West Indies,R Powell,R Shepherd,M Jansen,0,0,,,,,,"",""
+ball,1,16.4,West Indies,R Powell,R Shepherd,M Jansen,0,0,,,,,,"",""
+ball,1,16.5,West Indies,R Powell,R Shepherd,M Jansen,6,0,,,,,,"",""
+ball,1,16.6,West Indies,R Powell,R Shepherd,M Jansen,1,0,,,,,,"",""
+ball,1,16.7,West Indies,R Shepherd,R Powell,M Jansen,2,0,,,,,,"",""
+ball,1,17.1,West Indies,R Powell,R Shepherd,K Rabada,4,0,,,,,,"",""
+ball,1,17.2,West Indies,R Powell,R Shepherd,K Rabada,1,0,,,,,,"",""
+ball,1,17.3,West Indies,R Shepherd,R Powell,K Rabada,6,0,,,,,,"",""
+ball,1,17.4,West Indies,R Shepherd,R Powell,K Rabada,6,0,,,,,,"",""
+ball,1,17.5,West Indies,R Shepherd,R Powell,K Rabada,0,0,,,,,,"",""
+ball,1,17.6,West Indies,R Shepherd,R Powell,K Rabada,1,0,,,,,,"",""
+ball,1,18.1,West Indies,R Shepherd,R Powell,WD Parnell,1,0,,,,,,"",""
+ball,1,18.2,West Indies,R Powell,R Shepherd,WD Parnell,0,0,,,,,,caught,R Powell
+ball,1,18.3,West Indies,OF Smith,R Shepherd,WD Parnell,1,0,,,,,,"",""
+ball,1,18.4,West Indies,R Shepherd,OF Smith,WD Parnell,0,1,1,,,,,"",""
+ball,1,18.5,West Indies,R Shepherd,OF Smith,WD Parnell,1,0,,,,,,"",""
+ball,1,18.6,West Indies,OF Smith,R Shepherd,WD Parnell,1,0,,,,,,"",""
+ball,1,18.7,West Indies,R Shepherd,OF Smith,WD Parnell,0,0,,,,,,"",""
+ball,1,19.1,West Indies,OF Smith,R Shepherd,SSB Magala,2,0,,,,,,"",""
+ball,1,19.2,West Indies,OF Smith,R Shepherd,SSB Magala,1,0,,,,,,"",""
+ball,1,19.3,West Indies,R Shepherd,OF Smith,SSB Magala,6,0,,,,,,"",""
+ball,1,19.4,West Indies,R Shepherd,OF Smith,SSB Magala,2,0,,,,,,"",""
+ball,1,19.5,West Indies,R Shepherd,OF Smith,SSB Magala,1,0,,,,,,"",""
+ball,1,19.6,West Indies,OF Smith,R Shepherd,SSB Magala,6,0,,,,,,"",""
+ball,2,0.1,South Africa,Q de Kock,RR Hendricks,AJ Hosein,4,0,,,,,,"",""
+ball,2,0.2,South Africa,Q de Kock,RR Hendricks,AJ Hosein,4,0,,,,,,"",""
+ball,2,0.3,South Africa,Q de Kock,RR Hendricks,AJ Hosein,0,0,,,,,,"",""
+ball,2,0.4,South Africa,Q de Kock,RR Hendricks,AJ Hosein,0,0,,,,,,"",""
+ball,2,0.5,South Africa,Q de Kock,RR Hendricks,AJ Hosein,1,0,,,,,,"",""
+ball,2,0.6,South Africa,RR Hendricks,Q de Kock,AJ Hosein,4,0,,,,,,"",""
+ball,2,1.1,South Africa,Q de Kock,RR Hendricks,SS Cottrell,0,1,1,,,,,"",""
+ball,2,1.2,South Africa,Q de Kock,RR Hendricks,SS Cottrell,6,0,,,,,,"",""
+ball,2,1.3,South Africa,Q de Kock,RR Hendricks,SS Cottrell,6,0,,,,,,"",""
+ball,2,1.4,South Africa,Q de Kock,RR Hendricks,SS Cottrell,6,0,,,,,,"",""
+ball,2,1.5,South Africa,Q de Kock,RR Hendricks,SS Cottrell,0,1,1,,,,,"",""
+ball,2,1.6,South Africa,Q de Kock,RR Hendricks,SS Cottrell,4,0,,,,,,"",""
+ball,2,1.7,South Africa,Q de Kock,RR Hendricks,SS Cottrell,1,0,,,,,,"",""
+ball,2,1.8,South Africa,RR Hendricks,Q de Kock,SS Cottrell,4,0,,,,,,"",""
+ball,2,2.1,South Africa,Q de Kock,RR Hendricks,AJ Hosein,1,0,,,,,,"",""
+ball,2,2.2,South Africa,RR Hendricks,Q de Kock,AJ Hosein,4,0,,,,,,"",""
+ball,2,2.3,South Africa,RR Hendricks,Q de Kock,AJ Hosein,1,0,,,,,,"",""
+ball,2,2.4,South Africa,Q de Kock,RR Hendricks,AJ Hosein,6,0,,,,,,"",""
+ball,2,2.5,South Africa,Q de Kock,RR Hendricks,AJ Hosein,4,0,,,,,,"",""
+ball,2,2.6,South Africa,Q de Kock,RR Hendricks,AJ Hosein,4,0,,,,,,"",""
+ball,2,3.1,South Africa,RR Hendricks,Q de Kock,JO Holder,0,0,,,,,,"",""
+ball,2,3.2,South Africa,RR Hendricks,Q de Kock,JO Holder,4,0,,,,,,"",""
+ball,2,3.3,South Africa,RR Hendricks,Q de Kock,JO Holder,4,0,,,,,,"",""
+ball,2,3.4,South Africa,RR Hendricks,Q de Kock,JO Holder,4,0,,,,,,"",""
+ball,2,3.5,South Africa,RR Hendricks,Q de Kock,JO Holder,0,0,,,,,,"",""
+ball,2,3.6,South Africa,RR Hendricks,Q de Kock,JO Holder,4,0,,,,,,"",""
+ball,2,4.1,South Africa,Q de Kock,RR Hendricks,R Shepherd,6,0,,,,,,"",""
+ball,2,4.2,South Africa,Q de Kock,RR Hendricks,R Shepherd,0,0,,,,,,"",""
+ball,2,4.3,South Africa,Q de Kock,RR Hendricks,R Shepherd,0,0,,,,,,"",""
+ball,2,4.4,South Africa,Q de Kock,RR Hendricks,R Shepherd,1,0,,,,,,"",""
+ball,2,4.5,South Africa,RR Hendricks,Q de Kock,R Shepherd,4,0,,,,,,"",""
+ball,2,4.6,South Africa,RR Hendricks,Q de Kock,R Shepherd,0,1,1,,,,,"",""
+ball,2,4.7,South Africa,RR Hendricks,Q de Kock,R Shepherd,2,0,,,,,,"",""
+ball,2,5.1,South Africa,Q de Kock,RR Hendricks,JO Holder,6,0,,,,,,"",""
+ball,2,5.2,South Africa,Q de Kock,RR Hendricks,JO Holder,0,0,,,,,,"",""
+ball,2,5.3,South Africa,Q de Kock,RR Hendricks,JO Holder,2,0,,,,,,"",""
+ball,2,5.4,South Africa,Q de Kock,RR Hendricks,JO Holder,2,0,,,,,,"",""
+ball,2,5.5,South Africa,Q de Kock,RR Hendricks,JO Holder,0,0,,,,,,"",""
+ball,2,5.6,South Africa,Q de Kock,RR Hendricks,JO Holder,0,0,,,,,,"",""
+ball,2,6.1,South Africa,RR Hendricks,Q de Kock,R Shepherd,1,0,,,,,,"",""
+ball,2,6.2,South Africa,Q de Kock,RR Hendricks,R Shepherd,6,0,,,,,,"",""
+ball,2,6.3,South Africa,Q de Kock,RR Hendricks,R Shepherd,0,0,,,,,,"",""
+ball,2,6.4,South Africa,Q de Kock,RR Hendricks,R Shepherd,4,0,,,,,,"",""
+ball,2,6.5,South Africa,Q de Kock,RR Hendricks,R Shepherd,1,0,,,,,,"",""
+ball,2,6.6,South Africa,RR Hendricks,Q de Kock,R Shepherd,1,0,,,,,,"",""
+ball,2,7.1,South Africa,RR Hendricks,Q de Kock,OF Smith,4,0,,,,,,"",""
+ball,2,7.2,South Africa,RR Hendricks,Q de Kock,OF Smith,1,0,,,,,,"",""
+ball,2,7.3,South Africa,Q de Kock,RR Hendricks,OF Smith,1,0,,,,,,"",""
+ball,2,7.4,South Africa,RR Hendricks,Q de Kock,OF Smith,1,0,,,,,,"",""
+ball,2,7.5,South Africa,Q de Kock,RR Hendricks,OF Smith,4,0,,,,,,"",""
+ball,2,7.6,South Africa,Q de Kock,RR Hendricks,OF Smith,1,0,,,,,,"",""
+ball,2,8.1,South Africa,Q de Kock,RR Hendricks,RA Reifer,6,0,,,,,,"",""
+ball,2,8.2,South Africa,Q de Kock,RR Hendricks,RA Reifer,1,0,,,,,,"",""
+ball,2,8.3,South Africa,RR Hendricks,Q de Kock,RA Reifer,1,0,,,,,,"",""
+ball,2,8.4,South Africa,Q de Kock,RR Hendricks,RA Reifer,1,0,,,,,,"",""
+ball,2,8.5,South Africa,RR Hendricks,Q de Kock,RA Reifer,1,0,,,,,,"",""
+ball,2,8.6,South Africa,Q de Kock,RR Hendricks,RA Reifer,1,0,,,,,,"",""
+ball,2,9.1,South Africa,Q de Kock,RR Hendricks,R Powell,4,0,,,,,,"",""
+ball,2,9.2,South Africa,Q de Kock,RR Hendricks,R Powell,0,1,1,,,,,"",""
+ball,2,9.3,South Africa,Q de Kock,RR Hendricks,R Powell,0,0,,,,,,"",""
+ball,2,9.4,South Africa,Q de Kock,RR Hendricks,R Powell,4,0,,,,,,"",""
+ball,2,9.5,South Africa,Q de Kock,RR Hendricks,R Powell,0,0,,,,,,"",""
+ball,2,9.6,South Africa,Q de Kock,RR Hendricks,R Powell,0,0,,,,,,"",""
+ball,2,9.7,South Africa,Q de Kock,RR Hendricks,R Powell,0,1,1,,,,,"",""
+ball,2,9.8,South Africa,Q de Kock,RR Hendricks,R Powell,1,0,,,,,,"",""
+ball,2,10.1,South Africa,Q de Kock,RR Hendricks,RA Reifer,0,0,,,,,,"",""
+ball,2,10.2,South Africa,Q de Kock,RR Hendricks,RA Reifer,1,0,,,,,,"",""
+ball,2,10.3,South Africa,RR Hendricks,Q de Kock,RA Reifer,0,0,,,,,,"",""
+ball,2,10.4,South Africa,RR Hendricks,Q de Kock,RA Reifer,1,0,,,,,,"",""
+ball,2,10.5,South Africa,Q de Kock,RR Hendricks,RA Reifer,0,1,1,,,,,"",""
+ball,2,10.6,South Africa,Q de Kock,RR Hendricks,RA Reifer,0,0,,,,,,caught,Q de Kock
+ball,2,10.7,South Africa,RR Rossouw,RR Hendricks,RA Reifer,4,0,,,,,,"",""
+ball,2,11.1,South Africa,RR Hendricks,RR Rossouw,OF Smith,6,0,,,,,,"",""
+ball,2,11.2,South Africa,RR Hendricks,RR Rossouw,OF Smith,4,0,,,,,,"",""
+ball,2,11.3,South Africa,RR Hendricks,RR Rossouw,OF Smith,1,0,,,,,,"",""
+ball,2,11.4,South Africa,RR Rossouw,RR Hendricks,OF Smith,6,0,,,,,,"",""
+ball,2,11.5,South Africa,RR Rossouw,RR Hendricks,OF Smith,0,1,1,,,,,"",""
+ball,2,11.6,South Africa,RR Rossouw,RR Hendricks,OF Smith,6,0,,,,,,"",""
+ball,2,11.7,South Africa,RR Rossouw,RR Hendricks,OF Smith,0,0,,,,,,caught,RR Rossouw
+ball,2,12.1,South Africa,RR Hendricks,DA Miller,R Powell,1,0,,,,,,"",""
+ball,2,12.2,South Africa,DA Miller,RR Hendricks,R Powell,1,1,,1,,,,"",""
+ball,2,12.3,South Africa,RR Hendricks,DA Miller,R Powell,6,0,,,,,,"",""
+ball,2,12.4,South Africa,RR Hendricks,DA Miller,R Powell,4,0,,,,,,"",""
+ball,2,12.5,South Africa,RR Hendricks,DA Miller,R Powell,0,0,,,,,,caught,RR Hendricks
+ball,2,12.6,South Africa,AK Markram,DA Miller,R Powell,2,0,,,,,,"",""
+ball,2,12.7,South Africa,AK Markram,DA Miller,R Powell,1,0,,,,,,"",""
+ball,2,13.1,South Africa,AK Markram,DA Miller,R Shepherd,0,0,,,,,,"",""
+ball,2,13.2,South Africa,AK Markram,DA Miller,R Shepherd,1,0,,,,,,"",""
+ball,2,13.3,South Africa,DA Miller,AK Markram,R Shepherd,1,0,,,,,,"",""
+ball,2,13.4,South Africa,AK Markram,DA Miller,R Shepherd,1,0,,,,,,"",""
+ball,2,13.5,South Africa,DA Miller,AK Markram,R Shepherd,1,0,,,,,,"",""
+ball,2,13.6,South Africa,AK Markram,DA Miller,R Shepherd,4,0,,,,,,"",""
+ball,2,14.1,South Africa,DA Miller,AK Markram,RA Reifer,0,0,,,,,,"",""
+ball,2,14.2,South Africa,DA Miller,AK Markram,RA Reifer,1,0,,,,,,"",""
+ball,2,14.3,South Africa,AK Markram,DA Miller,RA Reifer,1,0,,,,,,"",""
+ball,2,14.4,South Africa,DA Miller,AK Markram,RA Reifer,0,0,,,,,,"",""
+ball,2,14.5,South Africa,DA Miller,AK Markram,RA Reifer,0,1,1,,,,,"",""
+ball,2,14.6,South Africa,DA Miller,AK Markram,RA Reifer,1,0,,,,,,"",""
+ball,2,14.7,South Africa,AK Markram,DA Miller,RA Reifer,2,0,,,,,,"",""
+ball,2,15.1,South Africa,DA Miller,AK Markram,JO Holder,4,0,,,,,,"",""
+ball,2,15.2,South Africa,DA Miller,AK Markram,JO Holder,1,0,,,,,,"",""
+ball,2,15.3,South Africa,AK Markram,DA Miller,JO Holder,1,0,,,,,,"",""
+ball,2,15.4,South Africa,DA Miller,AK Markram,JO Holder,0,0,,,,,,caught,DA Miller
+ball,2,15.5,South Africa,H Klaasen,AK Markram,JO Holder,1,0,,,,,,"",""
+ball,2,15.6,South Africa,AK Markram,H Klaasen,JO Holder,1,0,,,,,,"",""
+ball,2,16.1,South Africa,AK Markram,H Klaasen,RA Reifer,1,0,,,,,,"",""
+ball,2,16.2,South Africa,H Klaasen,AK Markram,RA Reifer,1,0,,,,,,"",""
+ball,2,16.3,South Africa,AK Markram,H Klaasen,RA Reifer,4,0,,,,,,"",""
+ball,2,16.4,South Africa,AK Markram,H Klaasen,RA Reifer,6,0,,,,,,"",""
+ball,2,16.5,South Africa,AK Markram,H Klaasen,RA Reifer,4,0,,,,,,"",""
+ball,2,16.6,South Africa,AK Markram,H Klaasen,RA Reifer,2,0,,,,,,"",""
+ball,2,17.1,South Africa,H Klaasen,AK Markram,JO Holder,4,0,,,,,,"",""
+ball,2,17.2,South Africa,H Klaasen,AK Markram,JO Holder,4,0,,,,,,"",""
+ball,2,17.3,South Africa,H Klaasen,AK Markram,JO Holder,1,0,,,,,,"",""
+ball,2,17.4,South Africa,AK Markram,H Klaasen,JO Holder,0,0,,,,,,"",""
+ball,2,17.5,South Africa,AK Markram,H Klaasen,JO Holder,4,0,,,,,,"",""
+ball,2,17.6,South Africa,AK Markram,H Klaasen,JO Holder,1,0,,,,,,"",""
+ball,2,18.1,South Africa,AK Markram,H Klaasen,R Shepherd,0,0,,,,,,"",""
+ball,2,18.2,South Africa,AK Markram,H Klaasen,R Shepherd,0,1,1,,,,,"",""
+ball,2,18.3,South Africa,AK Markram,H Klaasen,R Shepherd,1,0,,,,,,"",""
+ball,2,18.4,South Africa,H Klaasen,AK Markram,R Shepherd,4,0,,,,,,"",""
+ball,2,18.5,South Africa,H Klaasen,AK Markram,R Shepherd,1,0,,,,,,"",""
+ball,2,18.6,South Africa,AK Markram,H Klaasen,R Shepherd,0,1,1,,,,,"",""
+ball,2,18.7,South Africa,AK Markram,H Klaasen,R Shepherd,1,0,,,,,,"",""

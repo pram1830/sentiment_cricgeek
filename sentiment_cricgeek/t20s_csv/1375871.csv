@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,female
+info,season,2023/24
+info,date,2024/01/30
+info,event,South Africa Women tour of Australia
+info,match_number,3
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,BL Mooney
+info,umpire,Eloise Sheridan
+info,umpire,S Redfern
+info,reserve_umpire,D Taylor
+info,tv_umpire,CA Polosak
+info,match_referee,Dave Gilbert
+info,winner,Australia
+info,winner_wickets,5
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,M Kapp
+info,player,South Africa,S Luus
+info,player,South Africa,A Bosch
+info,player,South Africa,CL Tryon
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Jafta
+info,player,South Africa,N Mlaba
+info,player,South Africa,M Klaas
+info,player,South Africa,A Khaka
+info,player,Australia,BL Mooney
+info,player,Australia,AJ Healy
+info,player,Australia,EA Perry
+info,player,Australia,P Litchfield
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,GM Harris
+info,player,Australia,A Sutherland
+info,player,Australia,G Wareham
+info,player,Australia,D Brown
+info,player,Australia,ML Schutt
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Khaka,0d518f89
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AJ Healy,321644de
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Brown,2e81be88
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GM Harris,72166006
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Redfern,5b038989
+info,registry,people,T Brits,06659caa
+info,registry,people,TM McGrath,ca5acfa4
+ball,1,0.1,South Africa,L Wolvaardt,T Brits,A Gardner,0,0,,,,,,"",""
+ball,1,0.2,South Africa,L Wolvaardt,T Brits,A Gardner,1,0,,,,,,"",""
+ball,1,0.3,South Africa,T Brits,L Wolvaardt,A Gardner,0,0,,,,,,"",""
+ball,1,0.4,South Africa,T Brits,L Wolvaardt,A Gardner,0,0,,,,,,"",""
+ball,1,0.5,South Africa,T Brits,L Wolvaardt,A Gardner,0,0,,,,,,"",""
+ball,1,0.6,South Africa,T Brits,L Wolvaardt,A Gardner,0,0,,,,,,caught,T Brits
+ball,1,1.1,South Africa,L Wolvaardt,M Kapp,ML Schutt,0,0,,,,,,"",""
+ball,1,1.2,South Africa,L Wolvaardt,M Kapp,ML Schutt,4,0,,,,,,"",""
+ball,1,1.3,South Africa,L Wolvaardt,M Kapp,ML Schutt,4,0,,,,,,"",""
+ball,1,1.4,South Africa,L Wolvaardt,M Kapp,ML Schutt,0,0,,,,,,"",""
+ball,1,1.5,South Africa,L Wolvaardt,M Kapp,ML Schutt,0,0,,,,,,"",""
+ball,1,1.6,South Africa,L Wolvaardt,M Kapp,ML Schutt,0,0,,,,,,"",""
+ball,1,2.1,South Africa,M Kapp,L Wolvaardt,A Sutherland,0,0,,,,,,"",""
+ball,1,2.2,South Africa,M Kapp,L Wolvaardt,A Sutherland,0,0,,,,,,"",""
+ball,1,2.3,South Africa,M Kapp,L Wolvaardt,A Sutherland,1,0,,,,,,"",""
+ball,1,2.4,South Africa,L Wolvaardt,M Kapp,A Sutherland,4,0,,,,,,"",""
+ball,1,2.5,South Africa,L Wolvaardt,M Kapp,A Sutherland,1,0,,,,,,"",""
+ball,1,2.6,South Africa,M Kapp,L Wolvaardt,A Sutherland,0,0,,,,,,"",""
+ball,1,3.1,South Africa,L Wolvaardt,M Kapp,D Brown,1,0,,,,,,"",""
+ball,1,3.2,South Africa,M Kapp,L Wolvaardt,D Brown,4,0,,,,,,"",""
+ball,1,3.3,South Africa,M Kapp,L Wolvaardt,D Brown,4,0,,,,,,"",""
+ball,1,3.4,South Africa,M Kapp,L Wolvaardt,D Brown,4,0,,,,,,"",""
+ball,1,3.5,South Africa,M Kapp,L Wolvaardt,D Brown,0,0,,,,,,"",""
+ball,1,3.6,South Africa,M Kapp,L Wolvaardt,D Brown,0,0,,,,,,"",""
+ball,1,4.1,South Africa,L Wolvaardt,M Kapp,ML Schutt,0,0,,,,,,"",""
+ball,1,4.2,South Africa,L Wolvaardt,M Kapp,ML Schutt,0,0,,,,,,caught,L Wolvaardt
+ball,1,4.3,South Africa,S Luus,M Kapp,ML Schutt,0,0,,,,,,"",""
+ball,1,4.4,South Africa,S Luus,M Kapp,ML Schutt,0,0,,,,,,run out,S Luus
+ball,1,4.5,South Africa,M Kapp,A Bosch,ML Schutt,0,0,,,,,,"",""
+ball,1,4.6,South Africa,M Kapp,A Bosch,ML Schutt,1,0,,,,,,"",""
+ball,1,5.1,South Africa,M Kapp,A Bosch,A Sutherland,0,0,,,,,,"",""
+ball,1,5.2,South Africa,M Kapp,A Bosch,A Sutherland,1,0,,,,,,"",""
+ball,1,5.3,South Africa,A Bosch,M Kapp,A Sutherland,1,0,,,,,,"",""
+ball,1,5.4,South Africa,M Kapp,A Bosch,A Sutherland,4,0,,,,,,"",""
+ball,1,5.5,South Africa,M Kapp,A Bosch,A Sutherland,0,0,,,,,,"",""
+ball,1,5.6,South Africa,M Kapp,A Bosch,A Sutherland,1,0,,,,,,"",""
+ball,1,6.1,South Africa,M Kapp,A Bosch,TM McGrath,2,0,,,,,,"",""
+ball,1,6.2,South Africa,M Kapp,A Bosch,TM McGrath,2,0,,,,,,"",""
+ball,1,6.3,South Africa,M Kapp,A Bosch,TM McGrath,1,0,,,,,,"",""
+ball,1,6.4,South Africa,A Bosch,M Kapp,TM McGrath,0,0,,,,,,"",""
+ball,1,6.5,South Africa,A Bosch,M Kapp,TM McGrath,1,0,,,,,,"",""
+ball,1,6.6,South Africa,M Kapp,A Bosch,TM McGrath,1,0,,,,,,"",""
+ball,1,7.1,South Africa,M Kapp,A Bosch,G Wareham,0,0,,,,,,"",""
+ball,1,7.2,South Africa,M Kapp,A Bosch,G Wareham,1,0,,,,,,"",""
+ball,1,7.3,South Africa,A Bosch,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,7.4,South Africa,A Bosch,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,7.5,South Africa,A Bosch,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,7.6,South Africa,A Bosch,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,8.1,South Africa,M Kapp,A Bosch,A Sutherland,1,0,,,,,,"",""
+ball,1,8.2,South Africa,A Bosch,M Kapp,A Sutherland,0,0,,,,,,"",""
+ball,1,8.3,South Africa,A Bosch,M Kapp,A Sutherland,1,0,,,,,,"",""
+ball,1,8.4,South Africa,M Kapp,A Bosch,A Sutherland,0,0,,,,,,"",""
+ball,1,8.5,South Africa,M Kapp,A Bosch,A Sutherland,4,0,,,,,,"",""
+ball,1,8.6,South Africa,M Kapp,A Bosch,A Sutherland,4,0,,,,,,"",""
+ball,1,9.1,South Africa,A Bosch,M Kapp,A Gardner,0,0,,,,,,"",""
+ball,1,9.2,South Africa,A Bosch,M Kapp,A Gardner,0,0,,,,,,"",""
+ball,1,9.3,South Africa,A Bosch,M Kapp,A Gardner,4,0,,,,,,"",""
+ball,1,9.4,South Africa,A Bosch,M Kapp,A Gardner,1,0,,,,,,"",""
+ball,1,9.5,South Africa,M Kapp,A Bosch,A Gardner,2,0,,,,,,"",""
+ball,1,9.6,South Africa,M Kapp,A Bosch,A Gardner,1,0,,,,,,"",""
+ball,1,10.1,South Africa,M Kapp,A Bosch,D Brown,0,1,1,,,,,"",""
+ball,1,10.2,South Africa,M Kapp,A Bosch,D Brown,4,0,,,,,,"",""
+ball,1,10.3,South Africa,M Kapp,A Bosch,D Brown,1,0,,,,,,"",""
+ball,1,10.4,South Africa,A Bosch,M Kapp,D Brown,4,0,,,,,,"",""
+ball,1,10.5,South Africa,A Bosch,M Kapp,D Brown,0,0,,,,,,"",""
+ball,1,10.6,South Africa,A Bosch,M Kapp,D Brown,4,0,,,,,,"",""
+ball,1,10.7,South Africa,A Bosch,M Kapp,D Brown,0,0,,,,,,"",""
+ball,1,11.1,South Africa,M Kapp,A Bosch,G Wareham,3,0,,,,,,"",""
+ball,1,11.2,South Africa,A Bosch,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,11.3,South Africa,A Bosch,M Kapp,G Wareham,1,0,,,,,,"",""
+ball,1,11.4,South Africa,M Kapp,A Bosch,G Wareham,0,0,,,,,,"",""
+ball,1,11.5,South Africa,M Kapp,A Bosch,G Wareham,1,0,,,,,,"",""
+ball,1,11.6,South Africa,A Bosch,M Kapp,G Wareham,1,0,,,,,,"",""
+ball,1,12.1,South Africa,A Bosch,M Kapp,ML Schutt,1,0,,,,,,"",""
+ball,1,12.2,South Africa,M Kapp,A Bosch,ML Schutt,4,0,,,,,,"",""
+ball,1,12.3,South Africa,M Kapp,A Bosch,ML Schutt,1,0,,,,,,"",""
+ball,1,12.4,South Africa,A Bosch,M Kapp,ML Schutt,1,0,,,,,,"",""
+ball,1,12.5,South Africa,M Kapp,A Bosch,ML Schutt,6,0,,,,,,"",""
+ball,1,12.6,South Africa,M Kapp,A Bosch,ML Schutt,0,0,,,,,,"",""
+ball,1,13.1,South Africa,A Bosch,M Kapp,A Gardner,1,0,,,,,,"",""
+ball,1,13.2,South Africa,M Kapp,A Bosch,A Gardner,2,0,,,,,,"",""
+ball,1,13.3,South Africa,M Kapp,A Bosch,A Gardner,4,0,,,,,,"",""
+ball,1,13.4,South Africa,M Kapp,A Bosch,A Gardner,2,0,,,,,,"",""
+ball,1,13.5,South Africa,M Kapp,A Bosch,A Gardner,4,0,,,,,,"",""
+ball,1,13.6,South Africa,M Kapp,A Bosch,A Gardner,0,0,,,,,,"",""
+ball,1,14.1,South Africa,A Bosch,M Kapp,A Sutherland,0,0,,,,,,caught,A Bosch
+ball,1,14.2,South Africa,CL Tryon,M Kapp,A Sutherland,1,0,,,,,,"",""
+ball,1,14.3,South Africa,M Kapp,CL Tryon,A Sutherland,1,0,,,,,,"",""
+ball,1,14.4,South Africa,CL Tryon,M Kapp,A Sutherland,1,0,,,,,,"",""
+ball,1,14.5,South Africa,M Kapp,CL Tryon,A Sutherland,1,0,,,,,,"",""
+ball,1,14.6,South Africa,CL Tryon,M Kapp,A Sutherland,0,0,,,,,,"",""
+ball,1,15.1,South Africa,M Kapp,CL Tryon,G Wareham,1,0,,,,,,"",""
+ball,1,15.2,South Africa,CL Tryon,M Kapp,G Wareham,1,0,,,,,,"",""
+ball,1,15.3,South Africa,M Kapp,CL Tryon,G Wareham,0,0,,,,,,"",""
+ball,1,15.4,South Africa,M Kapp,CL Tryon,G Wareham,1,0,,,,,,"",""
+ball,1,15.5,South Africa,CL Tryon,M Kapp,G Wareham,2,0,,,,,,"",""
+ball,1,15.6,South Africa,CL Tryon,M Kapp,G Wareham,3,0,,,,,,"",""
+ball,1,16.1,South Africa,CL Tryon,M Kapp,TM McGrath,4,0,,,,,,"",""
+ball,1,16.2,South Africa,CL Tryon,M Kapp,TM McGrath,2,0,,,,,,"",""
+ball,1,16.3,South Africa,CL Tryon,M Kapp,TM McGrath,1,0,,,,,,"",""
+ball,1,16.4,South Africa,M Kapp,CL Tryon,TM McGrath,0,0,,,,,,bowled,M Kapp
+ball,1,16.5,South Africa,N de Klerk,CL Tryon,TM McGrath,1,0,,,,,,"",""
+ball,1,16.6,South Africa,CL Tryon,N de Klerk,TM McGrath,0,1,,1,,,,"",""
+ball,1,16.7,South Africa,CL Tryon,N de Klerk,TM McGrath,1,0,,,,,,"",""
+ball,1,17.1,South Africa,CL Tryon,N de Klerk,G Wareham,6,0,,,,,,"",""
+ball,1,17.2,South Africa,CL Tryon,N de Klerk,G Wareham,4,0,,,,,,"",""
+ball,1,17.3,South Africa,CL Tryon,N de Klerk,G Wareham,0,0,,,,,,"",""
+ball,1,17.4,South Africa,CL Tryon,N de Klerk,G Wareham,0,0,,,,,,"",""
+ball,1,17.5,South Africa,CL Tryon,N de Klerk,G Wareham,0,0,,,,,,caught and bowled,CL Tryon
+ball,1,17.6,South Africa,S Jafta,N de Klerk,G Wareham,0,0,,,,,,"",""
+ball,1,18.1,South Africa,N de Klerk,S Jafta,ML Schutt,1,0,,,,,,"",""
+ball,1,18.2,South Africa,S Jafta,N de Klerk,ML Schutt,1,0,,,,,,"",""
+ball,1,18.3,South Africa,N de Klerk,S Jafta,ML Schutt,4,0,,,,,,"",""
+ball,1,18.4,South Africa,N de Klerk,S Jafta,ML Schutt,2,0,,,,,,"",""
+ball,1,18.5,South Africa,N de Klerk,S Jafta,ML Schutt,1,0,,,,,,"",""
+ball,1,18.6,South Africa,S Jafta,N de Klerk,ML Schutt,0,0,,,,,,"",""
+ball,1,19.1,South Africa,N de Klerk,S Jafta,A Gardner,1,0,,,,,,run out,S Jafta
+ball,1,19.2,South Africa,N de Klerk,N Mlaba,A Gardner,0,0,,,,,,"",""
+ball,1,19.3,South Africa,N de Klerk,N Mlaba,A Gardner,2,0,,,,,,"",""
+ball,1,19.4,South Africa,N de Klerk,N Mlaba,A Gardner,4,0,,,,,,"",""
+ball,1,19.5,South Africa,N de Klerk,N Mlaba,A Gardner,0,2,,,2,,,"",""
+ball,1,19.6,South Africa,N de Klerk,N Mlaba,A Gardner,4,0,,,,,,"",""
+ball,2,0.1,Australia,BL Mooney,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,0.2,Australia,BL Mooney,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,0.3,Australia,BL Mooney,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,0.4,Australia,BL Mooney,AJ Healy,M Kapp,1,0,,,,,,"",""
+ball,2,0.5,Australia,AJ Healy,BL Mooney,M Kapp,4,0,,,,,,"",""
+ball,2,0.6,Australia,AJ Healy,BL Mooney,M Kapp,1,0,,,,,,"",""
+ball,2,1.1,Australia,AJ Healy,BL Mooney,A Khaka,1,0,,,,,,"",""
+ball,2,1.2,Australia,BL Mooney,AJ Healy,A Khaka,2,0,,,,,,"",""
+ball,2,1.3,Australia,BL Mooney,AJ Healy,A Khaka,1,0,,,,,,"",""
+ball,2,1.4,Australia,AJ Healy,BL Mooney,A Khaka,1,0,,,,,,"",""
+ball,2,1.5,Australia,BL Mooney,AJ Healy,A Khaka,1,0,,,,,,"",""
+ball,2,1.6,Australia,AJ Healy,BL Mooney,A Khaka,2,0,,,,,,"",""
+ball,2,2.1,Australia,BL Mooney,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,2.2,Australia,BL Mooney,AJ Healy,M Kapp,1,0,,,,,,"",""
+ball,2,2.3,Australia,AJ Healy,BL Mooney,M Kapp,1,0,,,,,,"",""
+ball,2,2.4,Australia,BL Mooney,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,2.5,Australia,BL Mooney,AJ Healy,M Kapp,4,0,,,,,,"",""
+ball,2,2.6,Australia,BL Mooney,AJ Healy,M Kapp,0,1,1,,,,,"",""
+ball,2,2.7,Australia,BL Mooney,AJ Healy,M Kapp,0,1,1,,,,,"",""
+ball,2,2.8,Australia,BL Mooney,AJ Healy,M Kapp,3,0,,,,,,"",""
+ball,2,3.1,Australia,BL Mooney,AJ Healy,N Mlaba,6,0,,,,,,"",""
+ball,2,3.2,Australia,BL Mooney,AJ Healy,N Mlaba,0,0,,,,,,"",""
+ball,2,3.3,Australia,BL Mooney,AJ Healy,N Mlaba,1,0,,,,,,"",""
+ball,2,3.4,Australia,AJ Healy,BL Mooney,N Mlaba,0,0,,,,,,caught,AJ Healy
+ball,2,3.5,Australia,EA Perry,BL Mooney,N Mlaba,4,0,,,,,,"",""
+ball,2,3.6,Australia,EA Perry,BL Mooney,N Mlaba,0,0,,,,,,"",""
+ball,2,4.1,Australia,BL Mooney,EA Perry,M Klaas,4,0,,,,,,"",""
+ball,2,4.2,Australia,BL Mooney,EA Perry,M Klaas,0,0,,,,,,"",""
+ball,2,4.3,Australia,BL Mooney,EA Perry,M Klaas,0,0,,,,,,"",""
+ball,2,4.4,Australia,BL Mooney,EA Perry,M Klaas,0,0,,,,,,"",""
+ball,2,4.5,Australia,BL Mooney,EA Perry,M Klaas,0,0,,,,,,"",""
+ball,2,4.6,Australia,BL Mooney,EA Perry,M Klaas,0,0,,,,,,"",""
+ball,2,5.1,Australia,EA Perry,BL Mooney,A Khaka,4,0,,,,,,"",""
+ball,2,5.2,Australia,EA Perry,BL Mooney,A Khaka,0,0,,,,,,"",""
+ball,2,5.3,Australia,EA Perry,BL Mooney,A Khaka,1,0,,,,,,"",""
+ball,2,5.4,Australia,BL Mooney,EA Perry,A Khaka,4,0,,,,,,"",""
+ball,2,5.5,Australia,BL Mooney,EA Perry,A Khaka,4,0,,,,,,"",""
+ball,2,5.6,Australia,BL Mooney,EA Perry,A Khaka,0,0,,,,,,"",""
+ball,2,6.1,Australia,EA Perry,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,6.2,Australia,EA Perry,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,6.3,Australia,EA Perry,BL Mooney,CL Tryon,4,0,,,,,,"",""
+ball,2,6.4,Australia,EA Perry,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,6.5,Australia,EA Perry,BL Mooney,CL Tryon,0,0,,,,,,bowled,EA Perry
+ball,2,6.6,Australia,P Litchfield,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,7.1,Australia,BL Mooney,P Litchfield,M Klaas,4,0,,,,,,"",""
+ball,2,7.2,Australia,BL Mooney,P Litchfield,M Klaas,0,0,,,,,,"",""
+ball,2,7.3,Australia,BL Mooney,P Litchfield,M Klaas,1,0,,,,,,"",""
+ball,2,7.4,Australia,P Litchfield,BL Mooney,M Klaas,4,0,,,,,,"",""
+ball,2,7.5,Australia,P Litchfield,BL Mooney,M Klaas,0,0,,,,,,"",""
+ball,2,7.6,Australia,P Litchfield,BL Mooney,M Klaas,0,0,,,,,,caught,P Litchfield
+ball,2,8.1,Australia,BL Mooney,TM McGrath,CL Tryon,0,0,,,,,,"",""
+ball,2,8.2,Australia,BL Mooney,TM McGrath,CL Tryon,4,0,,,,,,"",""
+ball,2,8.3,Australia,BL Mooney,TM McGrath,CL Tryon,1,0,,,,,,"",""
+ball,2,8.4,Australia,TM McGrath,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,8.5,Australia,TM McGrath,BL Mooney,CL Tryon,1,0,,,,,,"",""
+ball,2,8.6,Australia,BL Mooney,TM McGrath,CL Tryon,1,0,,,,,,"",""
+ball,2,9.1,Australia,BL Mooney,TM McGrath,N Mlaba,1,0,,,,,,"",""
+ball,2,9.2,Australia,TM McGrath,BL Mooney,N Mlaba,1,0,,,,,,"",""
+ball,2,9.3,Australia,BL Mooney,TM McGrath,N Mlaba,1,0,,,,,,"",""
+ball,2,9.4,Australia,TM McGrath,BL Mooney,N Mlaba,0,0,,,,,,"",""
+ball,2,9.5,Australia,TM McGrath,BL Mooney,N Mlaba,0,0,,,,,,"",""
+ball,2,9.6,Australia,TM McGrath,BL Mooney,N Mlaba,1,0,,,,,,"",""
+ball,2,10.1,Australia,TM McGrath,BL Mooney,N de Klerk,1,0,,,,,,"",""
+ball,2,10.2,Australia,BL Mooney,TM McGrath,N de Klerk,0,0,,,,,,"",""
+ball,2,10.3,Australia,BL Mooney,TM McGrath,N de Klerk,1,0,,,,,,"",""
+ball,2,10.4,Australia,TM McGrath,BL Mooney,N de Klerk,6,0,,,,,,"",""
+ball,2,10.5,Australia,TM McGrath,BL Mooney,N de Klerk,1,0,,,,,,"",""
+ball,2,10.6,Australia,BL Mooney,TM McGrath,N de Klerk,1,0,,,,,,"",""
+ball,2,11.1,Australia,BL Mooney,TM McGrath,CL Tryon,1,0,,,,,,"",""
+ball,2,11.2,Australia,TM McGrath,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,11.3,Australia,TM McGrath,BL Mooney,CL Tryon,1,0,,,,,,"",""
+ball,2,11.4,Australia,BL Mooney,TM McGrath,CL Tryon,1,0,,,,,,"",""
+ball,2,11.5,Australia,TM McGrath,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,11.6,Australia,TM McGrath,BL Mooney,CL Tryon,1,0,,,,,,"",""
+ball,2,12.1,Australia,TM McGrath,BL Mooney,N Mlaba,2,0,,,,,,"",""
+ball,2,12.2,Australia,TM McGrath,BL Mooney,N Mlaba,1,0,,,,,,"",""
+ball,2,12.3,Australia,BL Mooney,TM McGrath,N Mlaba,4,0,,,,,,"",""
+ball,2,12.4,Australia,BL Mooney,TM McGrath,N Mlaba,4,0,,,,,,"",""
+ball,2,12.5,Australia,BL Mooney,TM McGrath,N Mlaba,1,0,,,,,,"",""
+ball,2,12.6,Australia,TM McGrath,BL Mooney,N Mlaba,0,0,,,,,,"",""
+ball,2,13.1,Australia,BL Mooney,TM McGrath,N de Klerk,1,0,,,,,,"",""
+ball,2,13.2,Australia,TM McGrath,BL Mooney,N de Klerk,0,0,,,,,,caught,TM McGrath
+ball,2,13.3,Australia,A Gardner,BL Mooney,N de Klerk,2,0,,,,,,"",""
+ball,2,13.4,Australia,A Gardner,BL Mooney,N de Klerk,1,0,,,,,,"",""
+ball,2,13.5,Australia,BL Mooney,A Gardner,N de Klerk,0,1,1,,,,,"",""
+ball,2,13.6,Australia,BL Mooney,A Gardner,N de Klerk,0,1,1,,,,,"",""
+ball,2,13.7,Australia,BL Mooney,A Gardner,N de Klerk,1,0,,,,,,"",""
+ball,2,13.8,Australia,A Gardner,BL Mooney,N de Klerk,0,0,,,,,,"",""
+ball,2,14.1,Australia,BL Mooney,A Gardner,M Kapp,2,0,,,,,,"",""
+ball,2,14.2,Australia,BL Mooney,A Gardner,M Kapp,4,0,,,,,,"",""
+ball,2,14.3,Australia,BL Mooney,A Gardner,M Kapp,1,0,,,,,,"",""
+ball,2,14.4,Australia,A Gardner,BL Mooney,M Kapp,2,0,,,,,,"",""
+ball,2,14.5,Australia,A Gardner,BL Mooney,M Kapp,0,0,,,,,,"",""
+ball,2,14.6,Australia,A Gardner,BL Mooney,M Kapp,0,0,,,,,,"",""
+ball,2,15.1,Australia,BL Mooney,A Gardner,CL Tryon,1,0,,,,,,"",""
+ball,2,15.2,Australia,A Gardner,BL Mooney,CL Tryon,0,0,,,,,,"",""
+ball,2,15.3,Australia,A Gardner,BL Mooney,CL Tryon,1,0,,,,,,"",""
+ball,2,15.4,Australia,BL Mooney,A Gardner,CL Tryon,4,0,,,,,,"",""
+ball,2,15.5,Australia,BL Mooney,A Gardner,CL Tryon,1,0,,,,,,"",""
+ball,2,15.6,Australia,A Gardner,BL Mooney,CL Tryon,1,0,,,,,,"",""
+ball,2,16.1,Australia,A Gardner,BL Mooney,N de Klerk,1,0,,,,,,"",""
+ball,2,16.2,Australia,BL Mooney,A Gardner,N de Klerk,1,0,,,,,,"",""
+ball,2,16.3,Australia,A Gardner,BL Mooney,N de Klerk,6,0,,,,,,"",""
+ball,2,16.4,Australia,A Gardner,BL Mooney,N de Klerk,4,0,,,,,,"",""
+ball,2,16.5,Australia,A Gardner,BL Mooney,N de Klerk,1,0,,,,,,"",""
+ball,2,16.6,Australia,BL Mooney,A Gardner,N de Klerk,1,0,,,,,,"",""
+ball,2,17.1,Australia,BL Mooney,A Gardner,A Khaka,2,0,,,,,,"",""
+ball,2,17.2,Australia,BL Mooney,A Gardner,A Khaka,1,0,,,,,,"",""
+ball,2,17.3,Australia,A Gardner,BL Mooney,A Khaka,1,0,,,,,,"",""
+ball,2,17.4,Australia,BL Mooney,A Gardner,A Khaka,4,0,,,,,,"",""
+ball,2,17.5,Australia,BL Mooney,A Gardner,A Khaka,0,0,,,,,,caught,BL Mooney
+ball,2,17.6,Australia,GM Harris,A Gardner,A Khaka,1,0,,,,,,"",""
+ball,2,18.1,Australia,GM Harris,A Gardner,M Kapp,1,0,,,,,,"",""
+ball,2,18.2,Australia,A Gardner,GM Harris,M Kapp,1,0,,,,,,"",""
+ball,2,18.3,Australia,GM Harris,A Gardner,M Kapp,2,0,,,,,,"",""
+ball,2,18.4,Australia,GM Harris,A Gardner,M Kapp,2,0,,,,,,"",""
+ball,2,18.5,Australia,GM Harris,A Gardner,M Kapp,1,0,,,,,,"",""
+ball,2,18.6,Australia,A Gardner,GM Harris,M Kapp,4,0,,,,,,"",""
+ball,2,19.1,Australia,GM Harris,A Gardner,N de Klerk,1,0,,,,,,"",""
+ball,2,19.2,Australia,A Gardner,GM Harris,N de Klerk,1,0,,,,,,"",""

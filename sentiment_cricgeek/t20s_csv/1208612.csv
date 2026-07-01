@@ -1,0 +1,299 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Maldives
+info,gender,male
+info,season,2019/20
+info,date,2019/12/07
+info,event,South Asian Games Men's Cricket Competition
+info,match_number,9
+info,venue,Tribhuvan University International Cricket Ground
+info,city,Kirtipur
+info,toss_winner,Maldives
+info,toss_decision,field
+info,player_of_match,Ibrahim Hassan
+info,umpire,ID Gunawardene
+info,umpire,BB Pradhan
+info,reserve_umpire,Mahesh Bohara
+info,match_referee,WC Labrooy
+info,winner,Maldives
+info,winner_wickets,8
+info,player,Bhutan,Tenzin Wangchuk jnr
+info,player,Bhutan,JN Dorji
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,J Singye
+info,player,Bhutan,S Tobgay
+info,player,Bhutan,T Singye
+info,player,Bhutan,U Dorji
+info,player,Bhutan,K Nima
+info,player,Bhutan,K Loday
+info,player,Bhutan,J Thinley
+info,player,Bhutan,K Dorji
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,Ahmed Hassan
+info,player,Maldives,Umar Adam
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Ameel Mauroof
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Nazwan Ismail
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Mohamed Mahfooz
+info,registry,people,Ahmed Hassan,7c885103
+info,registry,people,Ameel Mauroof,1579d497
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,ID Gunawardene,63841782
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,J Singye,28574428
+info,registry,people,J Thinley,7714c405
+info,registry,people,JN Dorji,a73251ff
+info,registry,people,K Dorji,f9b9883f
+info,registry,people,K Loday,af76af63
+info,registry,people,K Nima,415ed107
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,Mahesh Bohara,10c8c407
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Mahfooz,44f5a3e4
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,Nazwan Ismail,c8e5012c
+info,registry,people,S Tobgay,d7f1fe76
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Singye,e454c356
+info,registry,people,Tenzin Wangchuk jnr,286fab38
+info,registry,people,U Dorji,12bba2d4
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,WC Labrooy,29d4e29b
+ball,1,0.1,Bhutan,Tenzin Wangchuk jnr,JN Dorji,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,0.2,Bhutan,Tenzin Wangchuk jnr,JN Dorji,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,0.3,Bhutan,Tenzin Wangchuk jnr,JN Dorji,Ibrahim Hassan,0,0,,,,,,bowled,Tenzin Wangchuk jnr
+ball,1,0.4,Bhutan,T Jamtsho,JN Dorji,Ibrahim Hassan,0,0,,,,,,run out,JN Dorji
+ball,1,0.5,Bhutan,J Singye,T Jamtsho,Ibrahim Hassan,0,1,1,,,,,"",""
+ball,1,0.6,Bhutan,J Singye,T Jamtsho,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,0.7,Bhutan,J Singye,T Jamtsho,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,1.1,Bhutan,T Jamtsho,J Singye,L Shafeeg,1,0,,,,,,"",""
+ball,1,1.2,Bhutan,J Singye,T Jamtsho,L Shafeeg,0,0,,,,,,"",""
+ball,1,1.3,Bhutan,J Singye,T Jamtsho,L Shafeeg,1,0,,,,,,"",""
+ball,1,1.4,Bhutan,T Jamtsho,J Singye,L Shafeeg,0,0,,,,,,"",""
+ball,1,1.5,Bhutan,T Jamtsho,J Singye,L Shafeeg,1,0,,,,,,"",""
+ball,1,1.6,Bhutan,J Singye,T Jamtsho,L Shafeeg,1,0,,,,,,"",""
+ball,1,2.1,Bhutan,J Singye,T Jamtsho,Ibrahim Hassan,0,5,5,,,,,"",""
+ball,1,2.2,Bhutan,J Singye,T Jamtsho,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,2.3,Bhutan,T Jamtsho,J Singye,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,2.4,Bhutan,J Singye,T Jamtsho,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,2.5,Bhutan,J Singye,T Jamtsho,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,2.6,Bhutan,T Jamtsho,J Singye,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,2.7,Bhutan,T Jamtsho,J Singye,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,3.1,Bhutan,J Singye,T Jamtsho,L Shafeeg,0,1,1,,,,,"",""
+ball,1,3.2,Bhutan,J Singye,T Jamtsho,L Shafeeg,0,0,,,,,,"",""
+ball,1,3.3,Bhutan,J Singye,T Jamtsho,L Shafeeg,1,0,,,,,,"",""
+ball,1,3.4,Bhutan,T Jamtsho,J Singye,L Shafeeg,1,0,,,,,,"",""
+ball,1,3.5,Bhutan,J Singye,T Jamtsho,L Shafeeg,0,0,,,,,,"",""
+ball,1,3.6,Bhutan,J Singye,T Jamtsho,L Shafeeg,1,0,,,,,,"",""
+ball,1,3.7,Bhutan,T Jamtsho,J Singye,L Shafeeg,1,0,,,,,,"",""
+ball,1,4.1,Bhutan,T Jamtsho,J Singye,Umar Adam,1,0,,,,,,"",""
+ball,1,4.2,Bhutan,J Singye,T Jamtsho,Umar Adam,0,0,,,,,,"",""
+ball,1,4.3,Bhutan,J Singye,T Jamtsho,Umar Adam,2,0,,,,,,"",""
+ball,1,4.4,Bhutan,J Singye,T Jamtsho,Umar Adam,1,0,,,,,,"",""
+ball,1,4.5,Bhutan,T Jamtsho,J Singye,Umar Adam,1,0,,,,,,"",""
+ball,1,4.6,Bhutan,J Singye,T Jamtsho,Umar Adam,4,0,,,,,,"",""
+ball,1,5.1,Bhutan,T Jamtsho,J Singye,Ameel Mauroof,1,0,,,,,,"",""
+ball,1,5.2,Bhutan,J Singye,T Jamtsho,Ameel Mauroof,1,0,,,,,,"",""
+ball,1,5.3,Bhutan,T Jamtsho,J Singye,Ameel Mauroof,6,0,,,,,,"",""
+ball,1,5.4,Bhutan,T Jamtsho,J Singye,Ameel Mauroof,4,0,,,,,,"",""
+ball,1,5.5,Bhutan,T Jamtsho,J Singye,Ameel Mauroof,1,0,,,,,,"",""
+ball,1,5.6,Bhutan,J Singye,T Jamtsho,Ameel Mauroof,0,0,,,,,,"",""
+ball,1,6.1,Bhutan,T Jamtsho,J Singye,Umar Adam,0,0,,,,,,bowled,T Jamtsho
+ball,1,6.2,Bhutan,S Tobgay,J Singye,Umar Adam,0,0,,,,,,"",""
+ball,1,6.3,Bhutan,S Tobgay,J Singye,Umar Adam,0,0,,,,,,"",""
+ball,1,6.4,Bhutan,S Tobgay,J Singye,Umar Adam,1,0,,,,,,"",""
+ball,1,6.5,Bhutan,J Singye,S Tobgay,Umar Adam,1,0,,,,,,"",""
+ball,1,6.6,Bhutan,S Tobgay,J Singye,Umar Adam,2,0,,,,,,"",""
+ball,1,7.1,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,7.2,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,7.3,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,7.4,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,7.5,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,7.6,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,8.1,Bhutan,J Singye,S Tobgay,Umar Adam,2,0,,,,,,"",""
+ball,1,8.2,Bhutan,J Singye,S Tobgay,Umar Adam,1,0,,,,,,"",""
+ball,1,8.3,Bhutan,S Tobgay,J Singye,Umar Adam,0,0,,,,,,"",""
+ball,1,8.4,Bhutan,S Tobgay,J Singye,Umar Adam,0,2,,,2,,,"",""
+ball,1,8.5,Bhutan,S Tobgay,J Singye,Umar Adam,0,0,,,,,,"",""
+ball,1,8.6,Bhutan,S Tobgay,J Singye,Umar Adam,0,0,,,,,,"",""
+ball,1,9.1,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,9.2,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,9.3,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,9.4,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,9.5,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,9.6,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,10.1,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,10.2,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,0,0,,,,,,"",""
+ball,1,10.3,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,10.4,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,0,0,,,,,,"",""
+ball,1,10.5,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,10.6,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,11.1,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,11.2,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,11.3,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,11.4,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,11.5,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,2,0,,,,,,"",""
+ball,1,11.6,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,12.1,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,0,0,,,,,,"",""
+ball,1,12.2,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,0,0,,,,,,"",""
+ball,1,12.3,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,4,0,,,,,,"",""
+ball,1,12.4,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,0,1,,,,1,,"",""
+ball,1,12.5,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,12.6,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,13.1,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,3,0,,,,,,"",""
+ball,1,13.2,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,13.3,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,0,0,,,,,,"",""
+ball,1,13.4,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,2,0,,,,,,"",""
+ball,1,13.5,Bhutan,J Singye,S Tobgay,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,13.6,Bhutan,S Tobgay,J Singye,Mohamed Mahfooz,1,0,,,,,,"",""
+ball,1,14.1,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,2,0,,,,,,"",""
+ball,1,14.2,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,0,0,,,,,,"",""
+ball,1,14.3,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,0,0,,,,,,"",""
+ball,1,14.4,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,14.5,Bhutan,J Singye,S Tobgay,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,14.6,Bhutan,S Tobgay,J Singye,Ibrahim Rizan,0,1,,,1,,,"",""
+ball,1,15.1,Bhutan,S Tobgay,J Singye,Umar Adam,0,1,1,,,,,"",""
+ball,1,15.2,Bhutan,S Tobgay,J Singye,Umar Adam,1,0,,,,,,"",""
+ball,1,15.3,Bhutan,J Singye,S Tobgay,Umar Adam,1,0,,,,,,"",""
+ball,1,15.4,Bhutan,S Tobgay,J Singye,Umar Adam,1,0,,,,,,"",""
+ball,1,15.5,Bhutan,J Singye,S Tobgay,Umar Adam,1,0,,,,,,"",""
+ball,1,15.6,Bhutan,S Tobgay,J Singye,Umar Adam,1,0,,,,,,"",""
+ball,1,15.7,Bhutan,J Singye,S Tobgay,Umar Adam,0,0,,,,,,"",""
+ball,1,16.1,Bhutan,S Tobgay,J Singye,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,16.2,Bhutan,J Singye,S Tobgay,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,16.3,Bhutan,S Tobgay,J Singye,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,16.4,Bhutan,S Tobgay,J Singye,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,16.5,Bhutan,J Singye,S Tobgay,Ibrahim Hassan,0,4,,,4,,,"",""
+ball,1,16.6,Bhutan,J Singye,S Tobgay,Ibrahim Hassan,0,0,,,,,,caught,J Singye
+ball,1,17.1,Bhutan,S Tobgay,T Singye,L Shafeeg,1,0,,,,,,"",""
+ball,1,17.2,Bhutan,T Singye,S Tobgay,L Shafeeg,0,0,,,,,,"",""
+ball,1,17.3,Bhutan,T Singye,S Tobgay,L Shafeeg,1,0,,,,,,"",""
+ball,1,17.4,Bhutan,S Tobgay,T Singye,L Shafeeg,1,0,,,,,,"",""
+ball,1,17.5,Bhutan,T Singye,S Tobgay,L Shafeeg,0,1,1,,,,,"",""
+ball,1,17.6,Bhutan,T Singye,S Tobgay,L Shafeeg,4,0,,,,,,"",""
+ball,1,17.7,Bhutan,T Singye,S Tobgay,L Shafeeg,1,0,,,,,,"",""
+ball,1,18.1,Bhutan,T Singye,S Tobgay,Ibrahim Rizan,0,0,,,,,,stumped,T Singye
+ball,1,18.2,Bhutan,U Dorji,S Tobgay,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,18.3,Bhutan,S Tobgay,U Dorji,Ibrahim Rizan,1,0,,,,,,"",""
+ball,1,18.4,Bhutan,U Dorji,S Tobgay,Ibrahim Rizan,0,0,,,,,,"",""
+ball,1,18.5,Bhutan,U Dorji,S Tobgay,Ibrahim Rizan,2,0,,,,,,"",""
+ball,1,18.6,Bhutan,U Dorji,S Tobgay,Ibrahim Rizan,4,0,,,,,,retired out,S Tobgay
+ball,1,19.1,Bhutan,K Nima,U Dorji,Ibrahim Hassan,0,0,,,,,,"",""
+ball,1,19.2,Bhutan,K Nima,U Dorji,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,19.3,Bhutan,U Dorji,K Nima,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,19.4,Bhutan,K Nima,U Dorji,Ibrahim Hassan,1,0,,,,,,"",""
+ball,1,19.5,Bhutan,U Dorji,K Nima,Ibrahim Hassan,0,0,,,,,,caught,U Dorji
+ball,1,19.6,Bhutan,K Loday,K Nima,Ibrahim Hassan,0,1,,,1,,,"",""
+ball,2,0.1,Maldives,Mohamed Rishwan,Ahmed Hassan,T Jamtsho,1,0,,,,,,"",""
+ball,2,0.2,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,2,2,,,,,"",""
+ball,2,0.3,Maldives,Mohamed Rishwan,Ahmed Hassan,T Jamtsho,0,1,,,,1,,"",""
+ball,2,0.4,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,0,,,,,,"",""
+ball,2,0.5,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,1,1,,,,,"",""
+ball,2,0.6,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,1,1,,,,,"",""
+ball,2,0.7,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,1,1,,,,,"",""
+ball,2,0.8,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,1,1,,,,,"",""
+ball,2,0.9,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,3,3,,,,,"",""
+ball,2,0.10,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,0,,,,,,"",""
+ball,2,0.11,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,0,1,1,,,,,"",""
+ball,2,0.12,Maldives,Ahmed Hassan,Mohamed Rishwan,T Jamtsho,1,0,,,,,,"",""
+ball,2,0.13,Maldives,Mohamed Rishwan,Ahmed Hassan,T Jamtsho,0,1,1,,,,,"",""
+ball,2,0.14,Maldives,Mohamed Rishwan,Ahmed Hassan,T Jamtsho,0,0,,,,,,"",""
+ball,2,1.1,Maldives,Ahmed Hassan,Mohamed Rishwan,K Nima,1,0,,,,,,"",""
+ball,2,1.2,Maldives,Mohamed Rishwan,Ahmed Hassan,K Nima,0,0,,,,,,"",""
+ball,2,1.3,Maldives,Mohamed Rishwan,Ahmed Hassan,K Nima,0,0,,,,,,"",""
+ball,2,1.4,Maldives,Mohamed Rishwan,Ahmed Hassan,K Nima,0,0,,,,,,"",""
+ball,2,1.5,Maldives,Mohamed Rishwan,Ahmed Hassan,K Nima,1,0,,,,,,"",""
+ball,2,1.6,Maldives,Ahmed Hassan,Mohamed Rishwan,K Nima,1,0,,,,,,"",""
+ball,2,2.1,Maldives,Ahmed Hassan,Mohamed Rishwan,J Singye,0,0,,,,,,"",""
+ball,2,2.2,Maldives,Ahmed Hassan,Mohamed Rishwan,J Singye,0,0,,,,,,"",""
+ball,2,2.3,Maldives,Ahmed Hassan,Mohamed Rishwan,J Singye,4,0,,,,,,"",""
+ball,2,2.4,Maldives,Ahmed Hassan,Mohamed Rishwan,J Singye,4,0,,,,,,"",""
+ball,2,2.5,Maldives,Ahmed Hassan,Mohamed Rishwan,J Singye,0,0,,,,,,"",""
+ball,2,2.6,Maldives,Ahmed Hassan,Mohamed Rishwan,J Singye,0,0,,,,,,"",""
+ball,2,3.1,Maldives,Mohamed Rishwan,Ahmed Hassan,K Nima,1,0,,,,,,"",""
+ball,2,3.2,Maldives,Ahmed Hassan,Mohamed Rishwan,K Nima,1,0,,,,,,"",""
+ball,2,3.3,Maldives,Mohamed Rishwan,Ahmed Hassan,K Nima,0,0,,,,,,"",""
+ball,2,3.4,Maldives,Mohamed Rishwan,Ahmed Hassan,K Nima,0,0,,,,,,lbw,Mohamed Rishwan
+ball,2,3.5,Maldives,Umar Adam,Ahmed Hassan,K Nima,1,0,,,,,,"",""
+ball,2,3.6,Maldives,Ahmed Hassan,Umar Adam,K Nima,1,0,,,,,,"",""
+ball,2,4.1,Maldives,Ahmed Hassan,Umar Adam,J Singye,1,0,,,,,,"",""
+ball,2,4.2,Maldives,Umar Adam,Ahmed Hassan,J Singye,0,0,,,,,,"",""
+ball,2,4.3,Maldives,Umar Adam,Ahmed Hassan,J Singye,0,0,,,,,,"",""
+ball,2,4.4,Maldives,Umar Adam,Ahmed Hassan,J Singye,4,0,,,,,,"",""
+ball,2,4.5,Maldives,Umar Adam,Ahmed Hassan,J Singye,0,0,,,,,,"",""
+ball,2,4.6,Maldives,Umar Adam,Ahmed Hassan,J Singye,1,0,,,,,,"",""
+ball,2,5.1,Maldives,Umar Adam,Ahmed Hassan,K Nima,4,0,,,,,,"",""
+ball,2,5.2,Maldives,Umar Adam,Ahmed Hassan,K Nima,1,0,,,,,,"",""
+ball,2,5.3,Maldives,Ahmed Hassan,Umar Adam,K Nima,1,0,,,,,,"",""
+ball,2,5.4,Maldives,Umar Adam,Ahmed Hassan,K Nima,4,0,,,,,,"",""
+ball,2,5.5,Maldives,Umar Adam,Ahmed Hassan,K Nima,1,0,,,,,,"",""
+ball,2,5.6,Maldives,Ahmed Hassan,Umar Adam,K Nima,4,0,,,,,,"",""
+ball,2,6.1,Maldives,Umar Adam,Ahmed Hassan,K Dorji,2,0,,,,,,"",""
+ball,2,6.2,Maldives,Umar Adam,Ahmed Hassan,K Dorji,1,0,,,,,,"",""
+ball,2,6.3,Maldives,Ahmed Hassan,Umar Adam,K Dorji,1,0,,,,,,"",""
+ball,2,6.4,Maldives,Umar Adam,Ahmed Hassan,K Dorji,0,1,1,,,,,"",""
+ball,2,6.5,Maldives,Umar Adam,Ahmed Hassan,K Dorji,1,0,,,,,,"",""
+ball,2,6.6,Maldives,Ahmed Hassan,Umar Adam,K Dorji,0,0,,,,,,"",""
+ball,2,6.7,Maldives,Ahmed Hassan,Umar Adam,K Dorji,0,0,,,,,,"",""
+ball,2,7.1,Maldives,Umar Adam,Ahmed Hassan,T Singye,1,0,,,,,,"",""
+ball,2,7.2,Maldives,Ahmed Hassan,Umar Adam,T Singye,0,0,,,,,,"",""
+ball,2,7.3,Maldives,Ahmed Hassan,Umar Adam,T Singye,1,0,,,,,,"",""
+ball,2,7.4,Maldives,Umar Adam,Ahmed Hassan,T Singye,1,0,,,,,,"",""
+ball,2,7.5,Maldives,Ahmed Hassan,Umar Adam,T Singye,0,0,,,,,,"",""
+ball,2,7.6,Maldives,Ahmed Hassan,Umar Adam,T Singye,0,0,,,,,,"",""
+ball,2,8.1,Maldives,Umar Adam,Ahmed Hassan,K Dorji,2,1,,1,,,,"",""
+ball,2,8.2,Maldives,Umar Adam,Ahmed Hassan,K Dorji,1,0,,,,,,"",""
+ball,2,8.3,Maldives,Ahmed Hassan,Umar Adam,K Dorji,0,0,,,,,,"",""
+ball,2,8.4,Maldives,Ahmed Hassan,Umar Adam,K Dorji,1,0,,,,,,"",""
+ball,2,8.5,Maldives,Umar Adam,Ahmed Hassan,K Dorji,1,0,,,,,,"",""
+ball,2,8.6,Maldives,Ahmed Hassan,Umar Adam,K Dorji,0,0,,,,,,"",""
+ball,2,8.7,Maldives,Ahmed Hassan,Umar Adam,K Dorji,1,0,,,,,,"",""
+ball,2,9.1,Maldives,Ahmed Hassan,Umar Adam,T Singye,0,5,5,,,,,"",""
+ball,2,9.2,Maldives,Ahmed Hassan,Umar Adam,T Singye,0,1,1,,,,,"",""
+ball,2,9.3,Maldives,Ahmed Hassan,Umar Adam,T Singye,0,0,,,,,,"",""
+ball,2,9.4,Maldives,Ahmed Hassan,Umar Adam,T Singye,0,0,,,,,,"",""
+ball,2,9.5,Maldives,Ahmed Hassan,Umar Adam,T Singye,2,0,,,,,,"",""
+ball,2,9.6,Maldives,Ahmed Hassan,Umar Adam,T Singye,1,0,,,,,,"",""
+ball,2,9.7,Maldives,Umar Adam,Ahmed Hassan,T Singye,0,0,,,,,,"",""
+ball,2,9.8,Maldives,Umar Adam,Ahmed Hassan,T Singye,0,0,,,,,,"",""
+ball,2,10.1,Maldives,Ahmed Hassan,Umar Adam,K Dorji,1,0,,,,,,"",""
+ball,2,10.2,Maldives,Umar Adam,Ahmed Hassan,K Dorji,6,0,,,,,,"",""
+ball,2,10.3,Maldives,Umar Adam,Ahmed Hassan,K Dorji,0,1,1,,,,,"",""
+ball,2,10.4,Maldives,Umar Adam,Ahmed Hassan,K Dorji,1,0,,,,,,"",""
+ball,2,10.5,Maldives,Ahmed Hassan,Umar Adam,K Dorji,2,0,,,,,,"",""
+ball,2,10.6,Maldives,Ahmed Hassan,Umar Adam,K Dorji,0,2,,,,2,,"",""
+ball,2,10.7,Maldives,Ahmed Hassan,Umar Adam,K Dorji,0,0,,,,,,"",""
+ball,2,11.1,Maldives,Umar Adam,Ahmed Hassan,J Singye,0,1,,,,1,,"",""
+ball,2,11.2,Maldives,Ahmed Hassan,Umar Adam,J Singye,0,0,,,,,,bowled,Ahmed Hassan
+ball,2,11.3,Maldives,Azyan Farhath,Umar Adam,J Singye,0,2,2,,,,,"",""
+ball,2,11.4,Maldives,Umar Adam,Azyan Farhath,J Singye,1,0,,,,,,"",""
+ball,2,11.5,Maldives,Azyan Farhath,Umar Adam,J Singye,2,0,,,,,,"",""
+ball,2,11.6,Maldives,Azyan Farhath,Umar Adam,J Singye,2,0,,,,,,"",""
+ball,2,11.7,Maldives,Azyan Farhath,Umar Adam,J Singye,1,0,,,,,,"",""
+ball,2,12.1,Maldives,Azyan Farhath,Umar Adam,J Thinley,0,0,,,,,,"",""
+ball,2,12.2,Maldives,Azyan Farhath,Umar Adam,J Thinley,1,0,,,,,,"",""
+ball,2,12.3,Maldives,Umar Adam,Azyan Farhath,J Thinley,1,0,,,,,,"",""
+ball,2,12.4,Maldives,Azyan Farhath,Umar Adam,J Thinley,0,0,,,,,,"",""
+ball,2,12.5,Maldives,Azyan Farhath,Umar Adam,J Thinley,0,0,,,,,,"",""
+ball,2,12.6,Maldives,Azyan Farhath,Umar Adam,J Thinley,1,0,,,,,,"",""
+ball,2,13.1,Maldives,Azyan Farhath,Umar Adam,J Singye,0,0,,,,,,"",""
+ball,2,13.2,Maldives,Azyan Farhath,Umar Adam,J Singye,4,0,,,,,,"",""
+ball,2,13.3,Maldives,Azyan Farhath,Umar Adam,J Singye,0,0,,,,,,"",""
+ball,2,13.4,Maldives,Azyan Farhath,Umar Adam,J Singye,1,0,,,,,,"",""
+ball,2,13.5,Maldives,Umar Adam,Azyan Farhath,J Singye,0,0,,,,,,"",""
+ball,2,13.6,Maldives,Umar Adam,Azyan Farhath,J Singye,1,0,,,,,,"",""
+ball,2,14.1,Maldives,Umar Adam,Azyan Farhath,J Thinley,0,0,,,,,,"",""
+ball,2,14.2,Maldives,Umar Adam,Azyan Farhath,J Thinley,1,0,,,,,,"",""
+ball,2,14.3,Maldives,Azyan Farhath,Umar Adam,J Thinley,0,0,,,,,,"",""
+ball,2,14.4,Maldives,Azyan Farhath,Umar Adam,J Thinley,2,0,,,,,,"",""
+ball,2,14.5,Maldives,Azyan Farhath,Umar Adam,J Thinley,2,0,,,,,,"",""
+ball,2,14.6,Maldives,Azyan Farhath,Umar Adam,J Thinley,1,0,,,,,,"",""
+ball,2,15.1,Maldives,Azyan Farhath,Umar Adam,T Jamtsho,4,1,,1,,,,"",""
+ball,2,15.2,Maldives,Azyan Farhath,Umar Adam,T Jamtsho,1,0,,,,,,"",""

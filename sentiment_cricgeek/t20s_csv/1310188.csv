@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Guernsey
+info,gender,male
+info,season,2022
+info,date,2022/05/20
+info,event,Inter-Insular T20 Series
+info,match_number,1
+info,venue,"College Field, St Peter Port"
+info,city,St Peter Port
+info,toss_winner,Guernsey
+info,toss_decision,field
+info,player_of_match,H Carlyon
+info,umpire,HE Kearns
+info,umpire,J Swift
+info,winner,Jersey
+info,winner_runs,37
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,AM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,J Sumerauer
+info,player,Jersey,DG Blampied
+info,player,Jersey,C Brennan
+info,player,Jersey,CW Perchard
+info,player,Jersey,JE Dunford
+info,player,Jersey,D Birrell
+info,player,Jersey,EJB Miles
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,LC Le Tissier
+info,player,Guernsey,J Butler
+info,player,Guernsey,MWR Stokes
+info,player,Guernsey,LB Ferbrache
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,ACF Stokes
+info,player,Guernsey,DR Hooper
+info,player,Guernsey,W Peatfield
+info,player,Guernsey,LT Bichard
+info,player,Guernsey,BE Johnson
+info,registry,people,ACF Stokes,7f74b21d
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,BE Johnson,f801d963
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,DR Hooper,0ac067e8
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Butler,efcb778e
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,J Swift,962020d0
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,LB Ferbrache,0f72f582
+info,registry,people,LC Le Tissier,c471750e
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,MWR Stokes,c573d173
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,W Peatfield,609d6c7c
+ball,1,0.1,Jersey,H Carlyon,NA Greenwood,MWR Stokes,1,0,,,,,,"",""
+ball,1,0.2,Jersey,NA Greenwood,H Carlyon,MWR Stokes,4,0,,,,,,"",""
+ball,1,0.3,Jersey,NA Greenwood,H Carlyon,MWR Stokes,0,0,,,,,,"",""
+ball,1,0.4,Jersey,NA Greenwood,H Carlyon,MWR Stokes,4,0,,,,,,"",""
+ball,1,0.5,Jersey,NA Greenwood,H Carlyon,MWR Stokes,0,0,,,,,,"",""
+ball,1,0.6,Jersey,NA Greenwood,H Carlyon,MWR Stokes,4,0,,,,,,"",""
+ball,1,1.1,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,1.2,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,1.3,Jersey,H Carlyon,NA Greenwood,W Peatfield,4,0,,,,,,"",""
+ball,1,1.4,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,1.5,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,1.6,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,1,1,,,,,"",""
+ball,1,1.7,Jersey,H Carlyon,NA Greenwood,W Peatfield,6,0,,,,,,"",""
+ball,1,2.1,Jersey,NA Greenwood,H Carlyon,BE Johnson,0,0,,,,,,"",""
+ball,1,2.2,Jersey,NA Greenwood,H Carlyon,BE Johnson,4,0,,,,,,"",""
+ball,1,2.3,Jersey,NA Greenwood,H Carlyon,BE Johnson,0,0,,,,,,"",""
+ball,1,2.4,Jersey,NA Greenwood,H Carlyon,BE Johnson,0,0,,,,,,"",""
+ball,1,2.5,Jersey,NA Greenwood,H Carlyon,BE Johnson,4,0,,,,,,"",""
+ball,1,2.6,Jersey,NA Greenwood,H Carlyon,BE Johnson,4,0,,,,,,"",""
+ball,1,3.1,Jersey,H Carlyon,NA Greenwood,W Peatfield,4,0,,,,,,"",""
+ball,1,3.2,Jersey,H Carlyon,NA Greenwood,W Peatfield,2,0,,,,,,"",""
+ball,1,3.3,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,3.4,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,3.5,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,3.6,Jersey,H Carlyon,NA Greenwood,W Peatfield,0,0,,,,,,"",""
+ball,1,4.1,Jersey,NA Greenwood,H Carlyon,LT Bichard,1,0,,,,,,"",""
+ball,1,4.2,Jersey,H Carlyon,NA Greenwood,LT Bichard,0,0,,,,,,"",""
+ball,1,4.3,Jersey,H Carlyon,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,4.4,Jersey,NA Greenwood,H Carlyon,LT Bichard,0,1,,,,1,,"",""
+ball,1,4.5,Jersey,H Carlyon,NA Greenwood,LT Bichard,0,0,,,,,,"",""
+ball,1,4.6,Jersey,H Carlyon,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,5.1,Jersey,H Carlyon,NA Greenwood,MWR Stokes,4,0,,,,,,"",""
+ball,1,5.2,Jersey,H Carlyon,NA Greenwood,MWR Stokes,0,0,,,,,,"",""
+ball,1,5.3,Jersey,H Carlyon,NA Greenwood,MWR Stokes,0,0,,,,,,caught,H Carlyon
+ball,1,5.4,Jersey,NA Greenwood,AM Tribe,MWR Stokes,1,0,,,,,,"",""
+ball,1,5.5,Jersey,AM Tribe,NA Greenwood,MWR Stokes,1,0,,,,,,"",""
+ball,1,5.6,Jersey,NA Greenwood,AM Tribe,MWR Stokes,4,0,,,,,,"",""
+ball,1,6.1,Jersey,AM Tribe,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,6.2,Jersey,NA Greenwood,AM Tribe,LT Bichard,0,0,,,,,,"",""
+ball,1,6.3,Jersey,NA Greenwood,AM Tribe,LT Bichard,1,0,,,,,,"",""
+ball,1,6.4,Jersey,AM Tribe,NA Greenwood,LT Bichard,1,0,,,,,,"",""
+ball,1,6.5,Jersey,NA Greenwood,AM Tribe,LT Bichard,4,0,,,,,,"",""
+ball,1,6.6,Jersey,NA Greenwood,AM Tribe,LT Bichard,1,0,,,,,,"",""
+ball,1,7.1,Jersey,NA Greenwood,AM Tribe,ACF Stokes,1,0,,,,,,"",""
+ball,1,7.2,Jersey,AM Tribe,NA Greenwood,ACF Stokes,1,0,,,,,,"",""
+ball,1,7.3,Jersey,NA Greenwood,AM Tribe,ACF Stokes,2,0,,,,,,"",""
+ball,1,7.4,Jersey,NA Greenwood,AM Tribe,ACF Stokes,0,0,,,,,,"",""
+ball,1,7.5,Jersey,NA Greenwood,AM Tribe,ACF Stokes,1,0,,,,,,"",""
+ball,1,7.6,Jersey,AM Tribe,NA Greenwood,ACF Stokes,1,0,,,,,,"",""
+ball,1,8.1,Jersey,AM Tribe,NA Greenwood,DR Hooper,0,0,,,,,,"",""
+ball,1,8.2,Jersey,AM Tribe,NA Greenwood,DR Hooper,2,0,,,,,,"",""
+ball,1,8.3,Jersey,AM Tribe,NA Greenwood,DR Hooper,2,0,,,,,,"",""
+ball,1,8.4,Jersey,AM Tribe,NA Greenwood,DR Hooper,1,0,,,,,,"",""
+ball,1,8.5,Jersey,NA Greenwood,AM Tribe,DR Hooper,2,0,,,,,,"",""
+ball,1,8.6,Jersey,NA Greenwood,AM Tribe,DR Hooper,0,0,,,,,,"",""
+ball,1,9.1,Jersey,AM Tribe,NA Greenwood,ACF Stokes,1,0,,,,,,"",""
+ball,1,9.2,Jersey,NA Greenwood,AM Tribe,ACF Stokes,6,0,,,,,,"",""
+ball,1,9.3,Jersey,NA Greenwood,AM Tribe,ACF Stokes,0,0,,,,,,bowled,NA Greenwood
+ball,1,9.4,Jersey,JW Jenner,AM Tribe,ACF Stokes,1,0,,,,,,"",""
+ball,1,9.5,Jersey,AM Tribe,JW Jenner,ACF Stokes,0,0,,,,,,"",""
+ball,1,9.6,Jersey,AM Tribe,JW Jenner,ACF Stokes,1,0,,,,,,"",""
+ball,1,10.1,Jersey,AM Tribe,JW Jenner,DR Hooper,0,0,,,,,,"",""
+ball,1,10.2,Jersey,AM Tribe,JW Jenner,DR Hooper,4,0,,,,,,"",""
+ball,1,10.3,Jersey,AM Tribe,JW Jenner,DR Hooper,1,0,,,,,,"",""
+ball,1,10.4,Jersey,JW Jenner,AM Tribe,DR Hooper,0,0,,,,,,"",""
+ball,1,10.5,Jersey,JW Jenner,AM Tribe,DR Hooper,1,0,,,,,,"",""
+ball,1,10.6,Jersey,AM Tribe,JW Jenner,DR Hooper,1,0,,,,,,"",""
+ball,1,11.1,Jersey,AM Tribe,JW Jenner,ACF Stokes,1,0,,,,,,"",""
+ball,1,11.2,Jersey,JW Jenner,AM Tribe,ACF Stokes,0,0,,,,,,caught,JW Jenner
+ball,1,11.3,Jersey,AM Tribe,J Sumerauer,ACF Stokes,0,0,,,,,,"",""
+ball,1,11.4,Jersey,AM Tribe,J Sumerauer,ACF Stokes,0,0,,,,,,caught,AM Tribe
+ball,1,11.5,Jersey,J Sumerauer,DG Blampied,ACF Stokes,0,0,,,,,,"",""
+ball,1,11.6,Jersey,J Sumerauer,DG Blampied,ACF Stokes,1,0,,,,,,"",""
+ball,1,12.1,Jersey,J Sumerauer,DG Blampied,LC Le Tissier,6,0,,,,,,"",""
+ball,1,12.2,Jersey,J Sumerauer,DG Blampied,LC Le Tissier,2,0,,,,,,"",""
+ball,1,12.3,Jersey,J Sumerauer,DG Blampied,LC Le Tissier,1,0,,,,,,"",""
+ball,1,12.4,Jersey,DG Blampied,J Sumerauer,LC Le Tissier,1,0,,,,,,"",""
+ball,1,12.5,Jersey,J Sumerauer,DG Blampied,LC Le Tissier,0,0,,,,,,"",""
+ball,1,12.6,Jersey,J Sumerauer,DG Blampied,LC Le Tissier,2,0,,,,,,"",""
+ball,1,13.1,Jersey,DG Blampied,J Sumerauer,ACF Stokes,0,0,,,,,,"",""
+ball,1,13.2,Jersey,DG Blampied,J Sumerauer,ACF Stokes,0,0,,,,,,"",""
+ball,1,13.3,Jersey,DG Blampied,J Sumerauer,ACF Stokes,1,0,,,,,,"",""
+ball,1,13.4,Jersey,J Sumerauer,DG Blampied,ACF Stokes,0,0,,,,,,"",""
+ball,1,13.5,Jersey,J Sumerauer,DG Blampied,ACF Stokes,0,0,,,,,,"",""
+ball,1,13.6,Jersey,J Sumerauer,DG Blampied,ACF Stokes,0,0,,,,,,"",""
+ball,1,14.1,Jersey,DG Blampied,J Sumerauer,LT Bichard,0,0,,,,,,"",""
+ball,1,14.2,Jersey,DG Blampied,J Sumerauer,LT Bichard,2,0,,,,,,"",""
+ball,1,14.3,Jersey,DG Blampied,J Sumerauer,LT Bichard,0,0,,,,,,"",""
+ball,1,14.4,Jersey,DG Blampied,J Sumerauer,LT Bichard,1,0,,,,,,"",""
+ball,1,14.5,Jersey,J Sumerauer,DG Blampied,LT Bichard,2,0,,,,,,"",""
+ball,1,14.6,Jersey,J Sumerauer,DG Blampied,LT Bichard,1,0,,,,,,"",""
+ball,1,15.1,Jersey,J Sumerauer,DG Blampied,MWR Stokes,0,1,,,,1,,"",""
+ball,1,15.2,Jersey,DG Blampied,J Sumerauer,MWR Stokes,1,0,,,,,,"",""
+ball,1,15.3,Jersey,J Sumerauer,DG Blampied,MWR Stokes,1,0,,,,,,"",""
+ball,1,15.4,Jersey,DG Blampied,J Sumerauer,MWR Stokes,2,0,,,,,,"",""
+ball,1,15.5,Jersey,DG Blampied,J Sumerauer,MWR Stokes,1,0,,,,,,"",""
+ball,1,15.6,Jersey,J Sumerauer,DG Blampied,MWR Stokes,0,1,,,,1,,"",""
+ball,1,16.1,Jersey,J Sumerauer,DG Blampied,BE Johnson,2,0,,,,,,"",""
+ball,1,16.2,Jersey,J Sumerauer,DG Blampied,BE Johnson,6,0,,,,,,"",""
+ball,1,16.3,Jersey,J Sumerauer,DG Blampied,BE Johnson,6,0,,,,,,"",""
+ball,1,16.4,Jersey,J Sumerauer,DG Blampied,BE Johnson,2,0,,,,,,"",""
+ball,1,16.5,Jersey,J Sumerauer,DG Blampied,BE Johnson,4,0,,,,,,"",""
+ball,1,16.6,Jersey,J Sumerauer,DG Blampied,BE Johnson,0,4,,,,4,,"",""
+ball,1,17.1,Jersey,DG Blampied,J Sumerauer,MWR Stokes,1,0,,,,,,"",""
+ball,1,17.2,Jersey,J Sumerauer,DG Blampied,MWR Stokes,2,0,,,,,,"",""
+ball,1,17.3,Jersey,J Sumerauer,DG Blampied,MWR Stokes,0,1,1,,,,,"",""
+ball,1,17.4,Jersey,J Sumerauer,DG Blampied,MWR Stokes,2,0,,,,,,"",""
+ball,1,17.5,Jersey,J Sumerauer,DG Blampied,MWR Stokes,4,0,,,,,,"",""
+ball,1,17.6,Jersey,J Sumerauer,DG Blampied,MWR Stokes,2,0,,,,,,"",""
+ball,1,17.7,Jersey,J Sumerauer,DG Blampied,MWR Stokes,1,0,,,,,,"",""
+ball,1,18.1,Jersey,J Sumerauer,DG Blampied,DR Hooper,1,0,,,,,,"",""
+ball,1,18.2,Jersey,DG Blampied,J Sumerauer,DR Hooper,4,0,,,,,,"",""
+ball,1,18.3,Jersey,DG Blampied,J Sumerauer,DR Hooper,1,0,,,,,,"",""
+ball,1,18.4,Jersey,J Sumerauer,DG Blampied,DR Hooper,2,0,,,,,,"",""
+ball,1,18.5,Jersey,J Sumerauer,DG Blampied,DR Hooper,1,0,,,,,,"",""
+ball,1,18.6,Jersey,DG Blampied,J Sumerauer,DR Hooper,4,0,,,,,,"",""
+ball,1,19.1,Jersey,J Sumerauer,DG Blampied,W Peatfield,1,0,,,,,,"",""
+ball,1,19.2,Jersey,DG Blampied,J Sumerauer,W Peatfield,1,0,,,,,,"",""
+ball,1,19.3,Jersey,J Sumerauer,DG Blampied,W Peatfield,1,0,,,,,,"",""
+ball,1,19.4,Jersey,DG Blampied,J Sumerauer,W Peatfield,1,0,,,,,,"",""
+ball,1,19.5,Jersey,J Sumerauer,DG Blampied,W Peatfield,0,1,1,,,,,"",""
+ball,1,19.6,Jersey,J Sumerauer,DG Blampied,W Peatfield,1,0,,,,,,"",""
+ball,1,19.7,Jersey,DG Blampied,J Sumerauer,W Peatfield,1,0,,,,,,"",""
+ball,2,0.1,Guernsey,IDA Damarell,LC Le Tissier,H Carlyon,0,0,,,,,,"",""
+ball,2,0.2,Guernsey,IDA Damarell,LC Le Tissier,H Carlyon,0,0,,,,,,"",""
+ball,2,0.3,Guernsey,IDA Damarell,LC Le Tissier,H Carlyon,0,0,,,,,,"",""
+ball,2,0.4,Guernsey,IDA Damarell,LC Le Tissier,H Carlyon,0,0,,,,,,"",""
+ball,2,0.5,Guernsey,IDA Damarell,LC Le Tissier,H Carlyon,1,0,,,,,,"",""
+ball,2,0.6,Guernsey,LC Le Tissier,IDA Damarell,H Carlyon,0,0,,,,,,"",""
+ball,2,1.1,Guernsey,IDA Damarell,LC Le Tissier,D Birrell,0,0,,,,,,"",""
+ball,2,1.2,Guernsey,IDA Damarell,LC Le Tissier,D Birrell,4,0,,,,,,"",""
+ball,2,1.3,Guernsey,IDA Damarell,LC Le Tissier,D Birrell,1,0,,,,,,"",""
+ball,2,1.4,Guernsey,LC Le Tissier,IDA Damarell,D Birrell,0,0,,,,,,"",""
+ball,2,1.5,Guernsey,LC Le Tissier,IDA Damarell,D Birrell,0,0,,,,,,"",""
+ball,2,1.6,Guernsey,LC Le Tissier,IDA Damarell,D Birrell,4,0,,,,,,"",""
+ball,2,2.1,Guernsey,IDA Damarell,LC Le Tissier,H Carlyon,1,0,,,,,,"",""
+ball,2,2.2,Guernsey,LC Le Tissier,IDA Damarell,H Carlyon,0,0,,,,,,caught,LC Le Tissier
+ball,2,2.3,Guernsey,J Butler,IDA Damarell,H Carlyon,0,0,,,,,,"",""
+ball,2,2.4,Guernsey,J Butler,IDA Damarell,H Carlyon,0,0,,,,,,"",""
+ball,2,2.5,Guernsey,J Butler,IDA Damarell,H Carlyon,0,0,,,,,,"",""
+ball,2,2.6,Guernsey,J Butler,IDA Damarell,H Carlyon,4,0,,,,,,"",""
+ball,2,3.1,Guernsey,IDA Damarell,J Butler,DG Blampied,1,0,,,,,,"",""
+ball,2,3.2,Guernsey,J Butler,IDA Damarell,DG Blampied,1,0,,,,,,"",""
+ball,2,3.3,Guernsey,IDA Damarell,J Butler,DG Blampied,0,0,,,,,,"",""
+ball,2,3.4,Guernsey,IDA Damarell,J Butler,DG Blampied,6,0,,,,,,"",""
+ball,2,3.5,Guernsey,IDA Damarell,J Butler,DG Blampied,0,0,,,,,,"",""
+ball,2,3.6,Guernsey,IDA Damarell,J Butler,DG Blampied,1,0,,,,,,"",""
+ball,2,4.1,Guernsey,IDA Damarell,J Butler,H Carlyon,0,0,,,,,,"",""
+ball,2,4.2,Guernsey,IDA Damarell,J Butler,H Carlyon,0,0,,,,,,"",""
+ball,2,4.3,Guernsey,IDA Damarell,J Butler,H Carlyon,1,0,,,,,,"",""
+ball,2,4.4,Guernsey,J Butler,IDA Damarell,H Carlyon,1,0,,,,,,"",""
+ball,2,4.5,Guernsey,IDA Damarell,J Butler,H Carlyon,4,0,,,,,,"",""
+ball,2,4.6,Guernsey,IDA Damarell,J Butler,H Carlyon,0,0,,,,,,bowled,IDA Damarell
+ball,2,5.1,Guernsey,J Butler,MWR Stokes,CW Perchard,1,0,,,,,,"",""
+ball,2,5.2,Guernsey,MWR Stokes,J Butler,CW Perchard,4,0,,,,,,"",""
+ball,2,5.3,Guernsey,MWR Stokes,J Butler,CW Perchard,0,0,,,,,,"",""
+ball,2,5.4,Guernsey,MWR Stokes,J Butler,CW Perchard,1,0,,,,,,"",""
+ball,2,5.5,Guernsey,J Butler,MWR Stokes,CW Perchard,0,1,1,,,,,"",""
+ball,2,5.6,Guernsey,J Butler,MWR Stokes,CW Perchard,0,0,,,,,,"",""
+ball,2,5.7,Guernsey,J Butler,MWR Stokes,CW Perchard,1,0,,,,,,"",""
+ball,2,6.1,Guernsey,J Butler,MWR Stokes,H Carlyon,0,0,,,,,,"",""
+ball,2,6.2,Guernsey,J Butler,MWR Stokes,H Carlyon,0,0,,,,,,lbw,J Butler
+ball,2,6.3,Guernsey,LB Ferbrache,MWR Stokes,H Carlyon,0,0,,,,,,"",""
+ball,2,6.4,Guernsey,LB Ferbrache,MWR Stokes,H Carlyon,0,0,,,,,,"",""
+ball,2,6.5,Guernsey,LB Ferbrache,MWR Stokes,H Carlyon,2,0,,,,,,"",""
+ball,2,6.6,Guernsey,LB Ferbrache,MWR Stokes,H Carlyon,0,0,,,,,,"",""
+ball,2,7.1,Guernsey,MWR Stokes,LB Ferbrache,EJB Miles,1,0,,,,,,"",""
+ball,2,7.2,Guernsey,LB Ferbrache,MWR Stokes,EJB Miles,0,1,,,,1,,"",""
+ball,2,7.3,Guernsey,MWR Stokes,LB Ferbrache,EJB Miles,0,1,1,,,,,"",""
+ball,2,7.4,Guernsey,MWR Stokes,LB Ferbrache,EJB Miles,1,0,,,,,,"",""
+ball,2,7.5,Guernsey,LB Ferbrache,MWR Stokes,EJB Miles,0,0,,,,,,"",""
+ball,2,7.6,Guernsey,LB Ferbrache,MWR Stokes,EJB Miles,0,0,,,,,,"",""
+ball,2,7.7,Guernsey,LB Ferbrache,MWR Stokes,EJB Miles,0,0,,,,,,"",""
+ball,2,8.1,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,0,0,,,,,,"",""
+ball,2,8.2,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,1,0,,,,,,"",""
+ball,2,8.3,Guernsey,LB Ferbrache,MWR Stokes,J Sumerauer,0,1,1,,,,,"",""
+ball,2,8.4,Guernsey,LB Ferbrache,MWR Stokes,J Sumerauer,1,0,,,,,,"",""
+ball,2,8.5,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,6,0,,,,,,"",""
+ball,2,8.6,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,1,0,,,,,,"",""
+ball,2,8.7,Guernsey,LB Ferbrache,MWR Stokes,J Sumerauer,0,0,,,,,,"",""
+ball,2,9.1,Guernsey,MWR Stokes,LB Ferbrache,DG Blampied,6,0,,,,,,"",""
+ball,2,9.2,Guernsey,MWR Stokes,LB Ferbrache,DG Blampied,4,0,,,,,,"",""
+ball,2,9.3,Guernsey,MWR Stokes,LB Ferbrache,DG Blampied,1,0,,,,,,"",""
+ball,2,9.4,Guernsey,LB Ferbrache,MWR Stokes,DG Blampied,1,0,,,,,,"",""
+ball,2,9.5,Guernsey,MWR Stokes,LB Ferbrache,DG Blampied,0,0,,,,,,"",""
+ball,2,9.6,Guernsey,MWR Stokes,LB Ferbrache,DG Blampied,1,0,,,,,,"",""
+ball,2,10.1,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,4,0,,,,,,"",""
+ball,2,10.2,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,6,0,,,,,,"",""
+ball,2,10.3,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,1,0,,,,,,"",""
+ball,2,10.4,Guernsey,LB Ferbrache,MWR Stokes,J Sumerauer,4,0,,,,,,"",""
+ball,2,10.5,Guernsey,LB Ferbrache,MWR Stokes,J Sumerauer,1,0,,,,,,"",""
+ball,2,10.6,Guernsey,MWR Stokes,LB Ferbrache,J Sumerauer,1,0,,,,,,"",""
+ball,2,11.1,Guernsey,MWR Stokes,LB Ferbrache,CW Perchard,1,0,,,,,,"",""
+ball,2,11.2,Guernsey,LB Ferbrache,MWR Stokes,CW Perchard,1,0,,,,,,"",""
+ball,2,11.3,Guernsey,MWR Stokes,LB Ferbrache,CW Perchard,4,0,,,,,,"",""
+ball,2,11.4,Guernsey,MWR Stokes,LB Ferbrache,CW Perchard,1,0,,,,,,"",""
+ball,2,11.5,Guernsey,LB Ferbrache,MWR Stokes,CW Perchard,1,0,,,,,,"",""
+ball,2,11.6,Guernsey,MWR Stokes,LB Ferbrache,CW Perchard,2,0,,,,,,"",""
+ball,2,12.1,Guernsey,LB Ferbrache,MWR Stokes,EJB Miles,2,0,,,,,,"",""
+ball,2,12.2,Guernsey,LB Ferbrache,MWR Stokes,EJB Miles,0,0,,,,,,caught,LB Ferbrache
+ball,2,12.3,Guernsey,MWR Stokes,T Nightingale,EJB Miles,1,0,,,,,,"",""
+ball,2,12.4,Guernsey,T Nightingale,MWR Stokes,EJB Miles,1,0,,,,,,"",""
+ball,2,12.5,Guernsey,MWR Stokes,T Nightingale,EJB Miles,0,0,,,,,,"",""
+ball,2,12.6,Guernsey,MWR Stokes,T Nightingale,EJB Miles,0,0,,,,,,"",""
+ball,2,13.1,Guernsey,T Nightingale,MWR Stokes,CW Perchard,0,0,,,,,,"",""
+ball,2,13.2,Guernsey,T Nightingale,MWR Stokes,CW Perchard,0,0,,,,,,"",""
+ball,2,13.3,Guernsey,T Nightingale,MWR Stokes,CW Perchard,1,0,,,,,,"",""
+ball,2,13.4,Guernsey,MWR Stokes,T Nightingale,CW Perchard,0,0,,,,,,"",""
+ball,2,13.5,Guernsey,MWR Stokes,T Nightingale,CW Perchard,0,0,,,,,,caught,MWR Stokes
+ball,2,13.6,Guernsey,ACF Stokes,T Nightingale,CW Perchard,1,0,,,,,,"",""
+ball,2,14.1,Guernsey,ACF Stokes,T Nightingale,D Birrell,0,0,,,,,,"",""
+ball,2,14.2,Guernsey,ACF Stokes,T Nightingale,D Birrell,0,0,,,,,,"",""
+ball,2,14.3,Guernsey,ACF Stokes,T Nightingale,D Birrell,1,0,,,,,,"",""
+ball,2,14.4,Guernsey,T Nightingale,ACF Stokes,D Birrell,0,0,,,,,,"",""
+ball,2,14.5,Guernsey,T Nightingale,ACF Stokes,D Birrell,4,0,,,,,,"",""
+ball,2,14.6,Guernsey,T Nightingale,ACF Stokes,D Birrell,0,0,,,,,,"",""
+ball,2,15.1,Guernsey,ACF Stokes,T Nightingale,EJB Miles,1,0,,,,,,"",""
+ball,2,15.2,Guernsey,T Nightingale,ACF Stokes,EJB Miles,0,0,,,,,,"",""
+ball,2,15.3,Guernsey,T Nightingale,ACF Stokes,EJB Miles,1,0,,,,,,"",""
+ball,2,15.4,Guernsey,ACF Stokes,T Nightingale,EJB Miles,1,0,,,,,,"",""
+ball,2,15.5,Guernsey,T Nightingale,ACF Stokes,EJB Miles,1,0,,,,,,"",""
+ball,2,15.6,Guernsey,ACF Stokes,T Nightingale,EJB Miles,0,0,,,,,,"",""
+ball,2,16.1,Guernsey,T Nightingale,ACF Stokes,J Sumerauer,1,0,,,,,,"",""
+ball,2,16.2,Guernsey,ACF Stokes,T Nightingale,J Sumerauer,0,0,,,,,,"",""
+ball,2,16.3,Guernsey,ACF Stokes,T Nightingale,J Sumerauer,1,0,,,,,,"",""
+ball,2,16.4,Guernsey,T Nightingale,ACF Stokes,J Sumerauer,4,0,,,,,,"",""
+ball,2,16.5,Guernsey,T Nightingale,ACF Stokes,J Sumerauer,1,1,,1,,,,"",""
+ball,2,16.6,Guernsey,ACF Stokes,T Nightingale,J Sumerauer,0,0,,,,,,"",""
+ball,2,16.7,Guernsey,ACF Stokes,T Nightingale,J Sumerauer,0,0,,,,,,caught,ACF Stokes
+ball,2,17.1,Guernsey,T Nightingale,DR Hooper,CW Perchard,4,0,,,,,,"",""
+ball,2,17.2,Guernsey,T Nightingale,DR Hooper,CW Perchard,1,0,,,,,,"",""
+ball,2,17.3,Guernsey,DR Hooper,T Nightingale,CW Perchard,1,0,,,,,,"",""
+ball,2,17.4,Guernsey,T Nightingale,DR Hooper,CW Perchard,0,0,,,,,,"",""
+ball,2,17.5,Guernsey,T Nightingale,DR Hooper,CW Perchard,0,0,,,,,,"",""
+ball,2,17.6,Guernsey,T Nightingale,DR Hooper,CW Perchard,0,0,,,,,,caught,T Nightingale
+ball,2,18.1,Guernsey,DR Hooper,W Peatfield,D Birrell,1,0,,,,,,"",""
+ball,2,18.2,Guernsey,W Peatfield,DR Hooper,D Birrell,1,0,,,,,,"",""
+ball,2,18.3,Guernsey,DR Hooper,W Peatfield,D Birrell,2,0,,,,,,"",""
+ball,2,18.4,Guernsey,DR Hooper,W Peatfield,D Birrell,0,0,,,,,,"",""
+ball,2,18.5,Guernsey,DR Hooper,W Peatfield,D Birrell,1,0,,,,,,"",""
+ball,2,18.6,Guernsey,W Peatfield,DR Hooper,D Birrell,1,0,,,,,,"",""
+ball,2,19.1,Guernsey,W Peatfield,DR Hooper,EJB Miles,4,0,,,,,,"",""
+ball,2,19.2,Guernsey,W Peatfield,DR Hooper,EJB Miles,1,0,,,,,,"",""
+ball,2,19.3,Guernsey,DR Hooper,W Peatfield,EJB Miles,1,0,,,,,,"",""
+ball,2,19.4,Guernsey,W Peatfield,DR Hooper,EJB Miles,4,0,,,,,,"",""
+ball,2,19.5,Guernsey,W Peatfield,DR Hooper,EJB Miles,1,0,,,,,,"",""
+ball,2,19.6,Guernsey,DR Hooper,W Peatfield,EJB Miles,1,0,,,,,,"",""

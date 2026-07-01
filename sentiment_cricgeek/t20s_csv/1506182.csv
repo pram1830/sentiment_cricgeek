@@ -1,0 +1,362 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Turkey
+info,team,Bulgaria
+info,gender,female
+info,season,2025/26
+info,date,2025/10/09
+info,event,Women's Continental Cup
+info,match_number,2
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Bulgaria
+info,toss_decision,field
+info,player_of_match,S Ozkunduz
+info,winner,Turkey
+info,winner_runs,56
+info,player,Turkey,S Yildirim
+info,player,Turkey,M Bayram
+info,player,Turkey,Suzan Turan
+info,player,Turkey,ZB Ender
+info,player,Turkey,K Canavarci
+info,player,Turkey,G Keles
+info,player,Turkey,G Cengiz
+info,player,Turkey,D Tekyildirim
+info,player,Turkey,H Celik
+info,player,Turkey,S Ozkunduz
+info,player,Turkey,R Cenik
+info,player,Bulgaria,S Galabova
+info,player,Bulgaria,V Nikolova
+info,player,Bulgaria,T Dissanayake
+info,player,Bulgaria,S Sarandeva
+info,player,Bulgaria,K Srandeva
+info,player,Bulgaria,D Ruynekova
+info,player,Bulgaria,M Abadjieva
+info,player,Bulgaria,V Atanasova
+info,player,Bulgaria,N Gocheva
+info,player,Bulgaria,M Zdravkova
+info,player,Bulgaria,N Toleva
+info,registry,people,D Ruynekova,c3890e1e
+info,registry,people,D Tekyildirim,ae5f7b63
+info,registry,people,G Cengiz,be59ed3f
+info,registry,people,G Keles,3e84a803
+info,registry,people,H Celik,266f372c
+info,registry,people,K Canavarci,556ad437
+info,registry,people,K Srandeva,38602b15
+info,registry,people,M Abadjieva,f37f1c61
+info,registry,people,M Bayram,4867ffbf
+info,registry,people,M Zdravkova,d9645cab
+info,registry,people,N Gocheva,1be8f244
+info,registry,people,N Toleva,d381938d
+info,registry,people,R Cenik,050009d9
+info,registry,people,S Galabova,21bcbbdd
+info,registry,people,S Ozkunduz,25850e31
+info,registry,people,S Sarandeva,dacecca3
+info,registry,people,S Yildirim,aae9b47b
+info,registry,people,Suzan Turan,fec8377a
+info,registry,people,T Dissanayake,5fb4c015
+info,registry,people,V Atanasova,b97e474c
+info,registry,people,V Nikolova,078d1eb5
+info,registry,people,ZB Ender,54b592a5
+ball,1,0.1,Turkey,S Yildirim,M Bayram,K Srandeva,4,1,,1,,,,"",""
+ball,1,0.2,Turkey,S Yildirim,M Bayram,K Srandeva,0,0,,,,,,"",""
+ball,1,0.3,Turkey,S Yildirim,M Bayram,K Srandeva,2,0,,,,,,"",""
+ball,1,0.4,Turkey,S Yildirim,M Bayram,K Srandeva,1,0,,,,,,"",""
+ball,1,0.5,Turkey,M Bayram,S Yildirim,K Srandeva,0,2,2,,,,,"",""
+ball,1,0.6,Turkey,S Yildirim,M Bayram,K Srandeva,2,0,,,,,,"",""
+ball,1,0.7,Turkey,S Yildirim,M Bayram,K Srandeva,0,0,,,,,,"",""
+ball,1,0.8,Turkey,S Yildirim,M Bayram,K Srandeva,0,0,,,,,,"",""
+ball,1,1.1,Turkey,M Bayram,S Yildirim,T Dissanayake,1,0,,,,,,"",""
+ball,1,1.2,Turkey,S Yildirim,M Bayram,T Dissanayake,0,1,1,,,,,"",""
+ball,1,1.3,Turkey,S Yildirim,M Bayram,T Dissanayake,0,1,,,,1,,"",""
+ball,1,1.4,Turkey,M Bayram,S Yildirim,T Dissanayake,0,1,1,,,,,"",""
+ball,1,1.5,Turkey,M Bayram,S Yildirim,T Dissanayake,0,0,,,,,,bowled,M Bayram
+ball,1,1.6,Turkey,Suzan Turan,S Yildirim,T Dissanayake,1,0,,,,,,"",""
+ball,1,1.7,Turkey,S Yildirim,Suzan Turan,T Dissanayake,0,0,,,,,,"",""
+ball,1,1.8,Turkey,S Yildirim,Suzan Turan,T Dissanayake,0,1,1,,,,,"",""
+ball,1,1.9,Turkey,S Yildirim,Suzan Turan,T Dissanayake,0,0,,,,,,"",""
+ball,1,2.1,Turkey,Suzan Turan,S Yildirim,K Srandeva,0,0,,,,,,"",""
+ball,1,2.2,Turkey,Suzan Turan,S Yildirim,K Srandeva,0,0,,,,,,lbw,Suzan Turan
+ball,1,2.3,Turkey,ZB Ender,S Yildirim,K Srandeva,0,0,,,,,,"",""
+ball,1,2.4,Turkey,ZB Ender,S Yildirim,K Srandeva,0,0,,,,,,"",""
+ball,1,2.5,Turkey,ZB Ender,S Yildirim,K Srandeva,0,0,,,,,,"",""
+ball,1,2.6,Turkey,ZB Ender,S Yildirim,K Srandeva,0,0,,,,,,"",""
+ball,1,3.1,Turkey,S Yildirim,ZB Ender,T Dissanayake,0,0,,,,,,"",""
+ball,1,3.2,Turkey,S Yildirim,ZB Ender,T Dissanayake,0,0,,,,,,"",""
+ball,1,3.3,Turkey,S Yildirim,ZB Ender,T Dissanayake,0,0,,,,,,"",""
+ball,1,3.4,Turkey,S Yildirim,ZB Ender,T Dissanayake,0,0,,,,,,"",""
+ball,1,3.5,Turkey,S Yildirim,ZB Ender,T Dissanayake,0,0,,,,,,"",""
+ball,1,3.6,Turkey,S Yildirim,ZB Ender,T Dissanayake,0,0,,,,,,"",""
+ball,1,4.1,Turkey,ZB Ender,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,4.2,Turkey,ZB Ender,S Yildirim,S Sarandeva,0,0,,,,,,bowled,ZB Ender
+ball,1,4.3,Turkey,K Canavarci,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,4.4,Turkey,K Canavarci,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,4.5,Turkey,K Canavarci,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,4.6,Turkey,K Canavarci,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,5.1,Turkey,S Yildirim,K Canavarci,T Dissanayake,1,0,,,,,,"",""
+ball,1,5.2,Turkey,K Canavarci,S Yildirim,T Dissanayake,0,1,1,,,,,"",""
+ball,1,5.3,Turkey,K Canavarci,S Yildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,5.4,Turkey,K Canavarci,S Yildirim,T Dissanayake,0,1,1,,,,,"",""
+ball,1,5.5,Turkey,K Canavarci,S Yildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,5.6,Turkey,K Canavarci,S Yildirim,T Dissanayake,1,0,,,,,,"",""
+ball,1,5.7,Turkey,S Yildirim,K Canavarci,T Dissanayake,0,1,1,,,,,"",""
+ball,1,5.8,Turkey,S Yildirim,K Canavarci,T Dissanayake,0,2,2,,,,,"",""
+ball,1,5.9,Turkey,K Canavarci,S Yildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,5.10,Turkey,K Canavarci,S Yildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,6.1,Turkey,S Yildirim,K Canavarci,S Sarandeva,0,0,,,,,,"",""
+ball,1,6.2,Turkey,S Yildirim,K Canavarci,S Sarandeva,1,0,,,,,,"",""
+ball,1,6.3,Turkey,K Canavarci,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,6.4,Turkey,K Canavarci,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,6.5,Turkey,K Canavarci,S Yildirim,S Sarandeva,4,0,,,,,,"",""
+ball,1,6.6,Turkey,K Canavarci,S Yildirim,S Sarandeva,0,0,,,,,,bowled,K Canavarci
+ball,1,7.1,Turkey,S Yildirim,G Keles,V Atanasova,1,0,,,,,,"",""
+ball,1,7.2,Turkey,G Keles,S Yildirim,V Atanasova,0,1,1,,,,,"",""
+ball,1,7.3,Turkey,G Keles,S Yildirim,V Atanasova,0,0,,,,,,bowled,G Keles
+ball,1,7.4,Turkey,G Cengiz,S Yildirim,V Atanasova,0,0,,,,,,"",""
+ball,1,7.5,Turkey,G Cengiz,S Yildirim,V Atanasova,1,0,,,,,,"",""
+ball,1,7.6,Turkey,S Yildirim,G Cengiz,V Atanasova,1,0,,,,,,"",""
+ball,1,7.7,Turkey,G Cengiz,S Yildirim,V Atanasova,0,0,,,,,,"",""
+ball,1,8.1,Turkey,S Yildirim,G Cengiz,S Sarandeva,0,0,,,,,,"",""
+ball,1,8.2,Turkey,S Yildirim,G Cengiz,S Sarandeva,1,1,,1,,,,"",""
+ball,1,8.3,Turkey,G Cengiz,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,8.4,Turkey,G Cengiz,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,8.5,Turkey,G Cengiz,S Yildirim,S Sarandeva,0,0,,,,,,bowled,G Cengiz
+ball,1,8.6,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,1,1,,,,,"",""
+ball,1,8.7,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,8.8,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,9.1,Turkey,S Yildirim,D Tekyildirim,D Ruynekova,3,0,,,,,,"",""
+ball,1,9.2,Turkey,D Tekyildirim,S Yildirim,D Ruynekova,0,1,1,,,,,"",""
+ball,1,9.3,Turkey,D Tekyildirim,S Yildirim,D Ruynekova,0,0,,,,,,"",""
+ball,1,9.4,Turkey,D Tekyildirim,S Yildirim,D Ruynekova,1,0,,,,,,"",""
+ball,1,9.5,Turkey,S Yildirim,D Tekyildirim,D Ruynekova,2,0,,,,,,"",""
+ball,1,9.6,Turkey,S Yildirim,D Tekyildirim,D Ruynekova,0,0,,,,,,"",""
+ball,1,9.7,Turkey,S Yildirim,D Tekyildirim,D Ruynekova,0,0,,,,,,"",""
+ball,1,10.1,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,1,1,,1,,,,"",""
+ball,1,10.2,Turkey,S Yildirim,D Tekyildirim,S Sarandeva,1,0,,,,,,"",""
+ball,1,10.3,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,4,0,,,,,,"",""
+ball,1,10.4,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,1,,1,,,,"",""
+ball,1,10.5,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,10.6,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,10.7,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,10.8,Turkey,D Tekyildirim,S Yildirim,S Sarandeva,0,0,,,,,,"",""
+ball,1,11.1,Turkey,S Yildirim,D Tekyildirim,V Atanasova,1,0,,,,,,"",""
+ball,1,11.2,Turkey,D Tekyildirim,S Yildirim,V Atanasova,4,0,,,,,,"",""
+ball,1,11.3,Turkey,D Tekyildirim,S Yildirim,V Atanasova,0,1,1,,,,,"",""
+ball,1,11.4,Turkey,D Tekyildirim,S Yildirim,V Atanasova,0,1,,1,,,,"",""
+ball,1,11.5,Turkey,D Tekyildirim,S Yildirim,V Atanasova,2,0,,,,,,"",""
+ball,1,11.6,Turkey,D Tekyildirim,S Yildirim,V Atanasova,4,1,,1,,,,"",""
+ball,1,11.7,Turkey,D Tekyildirim,S Yildirim,V Atanasova,1,0,,,,,,"",""
+ball,1,11.8,Turkey,S Yildirim,D Tekyildirim,V Atanasova,2,0,,,,,,"",""
+ball,1,11.9,Turkey,S Yildirim,D Tekyildirim,V Atanasova,0,1,,1,,,,"",""
+ball,1,11.10,Turkey,S Yildirim,D Tekyildirim,V Atanasova,0,1,1,,,,,"",""
+ball,1,11.11,Turkey,S Yildirim,D Tekyildirim,V Atanasova,2,0,,,,,,"",""
+ball,1,12.1,Turkey,S Yildirim,D Tekyildirim,K Srandeva,0,0,,,,,,bowled,S Yildirim
+ball,1,12.2,Turkey,H Celik,D Tekyildirim,K Srandeva,4,0,,,,,,"",""
+ball,1,12.3,Turkey,H Celik,D Tekyildirim,K Srandeva,0,1,,,1,,,"",""
+ball,1,12.4,Turkey,D Tekyildirim,H Celik,K Srandeva,1,0,,,,,,"",""
+ball,1,12.5,Turkey,H Celik,D Tekyildirim,K Srandeva,1,0,,,,,,"",""
+ball,1,12.6,Turkey,D Tekyildirim,H Celik,K Srandeva,0,0,,,,,,"",""
+ball,1,13.1,Turkey,H Celik,D Tekyildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,13.2,Turkey,H Celik,D Tekyildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,13.3,Turkey,H Celik,D Tekyildirim,T Dissanayake,0,1,1,,,,,"",""
+ball,1,13.4,Turkey,H Celik,D Tekyildirim,T Dissanayake,1,0,,,,,,"",""
+ball,1,13.5,Turkey,D Tekyildirim,H Celik,T Dissanayake,0,2,2,,,,,"",""
+ball,1,13.6,Turkey,H Celik,D Tekyildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,13.7,Turkey,H Celik,D Tekyildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,13.8,Turkey,H Celik,D Tekyildirim,T Dissanayake,0,0,,,,,,"",""
+ball,1,14.1,Turkey,D Tekyildirim,H Celik,D Ruynekova,1,0,,,,,,"",""
+ball,1,14.2,Turkey,H Celik,D Tekyildirim,D Ruynekova,0,0,,,,,,bowled,H Celik
+ball,1,14.3,Turkey,S Ozkunduz,D Tekyildirim,D Ruynekova,0,1,1,,,,,"",""
+ball,1,14.4,Turkey,S Ozkunduz,D Tekyildirim,D Ruynekova,1,0,,,,,,"",""
+ball,1,14.5,Turkey,D Tekyildirim,S Ozkunduz,D Ruynekova,2,0,,,,,,"",""
+ball,1,14.6,Turkey,D Tekyildirim,S Ozkunduz,D Ruynekova,2,1,,1,,,,"",""
+ball,1,14.7,Turkey,D Tekyildirim,S Ozkunduz,D Ruynekova,0,0,,,,,,"",""
+ball,1,14.8,Turkey,D Tekyildirim,S Ozkunduz,D Ruynekova,2,0,,,,,,"",""
+ball,1,15.1,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,0,1,1,,,,,"",""
+ball,1,15.2,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,0,1,1,,,,,"",""
+ball,1,15.3,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,0,0,,,,,,"",""
+ball,1,15.4,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,0,0,,,,,,"",""
+ball,1,15.5,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,0,0,,,,,,"",""
+ball,1,15.6,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,0,0,,,,,,"",""
+ball,1,15.7,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,0,0,,,,,,"",""
+ball,1,15.8,Turkey,S Ozkunduz,D Tekyildirim,M Zdravkova,1,0,,,,,,"",""
+ball,1,16.1,Turkey,S Ozkunduz,D Tekyildirim,K Srandeva,2,0,,,,,,"",""
+ball,1,16.2,Turkey,S Ozkunduz,D Tekyildirim,K Srandeva,4,0,,,,,,"",""
+ball,1,16.3,Turkey,S Ozkunduz,D Tekyildirim,K Srandeva,1,0,,,,,,"",""
+ball,1,16.4,Turkey,D Tekyildirim,S Ozkunduz,K Srandeva,0,0,,,,,,"",""
+ball,1,16.5,Turkey,D Tekyildirim,S Ozkunduz,K Srandeva,2,0,,,,,,"",""
+ball,1,16.6,Turkey,D Tekyildirim,S Ozkunduz,K Srandeva,0,0,,,,,,"",""
+ball,1,17.1,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,0,1,,1,,,,"",""
+ball,1,17.2,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,0,1,1,,,,,"",""
+ball,1,17.3,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,0,1,1,,,,,"",""
+ball,1,17.4,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,2,1,,1,,,,"",""
+ball,1,17.5,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,1,0,,,,,,"",""
+ball,1,17.6,Turkey,D Tekyildirim,S Ozkunduz,V Atanasova,4,0,,,,,,"",""
+ball,1,17.7,Turkey,D Tekyildirim,S Ozkunduz,V Atanasova,2,0,,,,,,"",""
+ball,1,17.8,Turkey,D Tekyildirim,S Ozkunduz,V Atanasova,0,2,,1,1,,,"",""
+ball,1,17.9,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,3,0,,,,,,"",""
+ball,1,17.10,Turkey,D Tekyildirim,S Ozkunduz,V Atanasova,0,2,,1,1,,,"",""
+ball,1,17.11,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,0,2,2,,,,,"",""
+ball,1,17.12,Turkey,D Tekyildirim,S Ozkunduz,V Atanasova,4,0,,,,,,"",""
+ball,1,17.13,Turkey,D Tekyildirim,S Ozkunduz,V Atanasova,0,2,2,,,,,"",""
+ball,1,17.14,Turkey,S Ozkunduz,D Tekyildirim,V Atanasova,0,0,,,,,,bowled,S Ozkunduz
+ball,1,18.1,Turkey,D Tekyildirim,R Cenik,D Ruynekova,0,1,1,,,,,"",""
+ball,1,18.2,Turkey,D Tekyildirim,R Cenik,D Ruynekova,0,0,,,,,,"",""
+ball,1,18.3,Turkey,D Tekyildirim,R Cenik,D Ruynekova,1,0,,,,,,"",""
+ball,1,18.4,Turkey,R Cenik,D Tekyildirim,D Ruynekova,0,0,,,,,,"",""
+ball,1,18.5,Turkey,R Cenik,D Tekyildirim,D Ruynekova,0,0,,,,,,"",""
+ball,1,18.6,Turkey,R Cenik,D Tekyildirim,D Ruynekova,0,0,,,,,,"",""
+ball,1,18.7,Turkey,R Cenik,D Tekyildirim,D Ruynekova,0,0,,,,,,"",""
+ball,1,19.1,Turkey,D Tekyildirim,R Cenik,M Zdravkova,0,1,1,,,,,"",""
+ball,1,19.2,Turkey,D Tekyildirim,R Cenik,M Zdravkova,1,0,,,,,,"",""
+ball,1,19.3,Turkey,R Cenik,D Tekyildirim,M Zdravkova,0,1,1,,,,,"",""
+ball,1,19.4,Turkey,R Cenik,D Tekyildirim,M Zdravkova,0,0,,,,,,"",""
+ball,1,19.5,Turkey,R Cenik,D Tekyildirim,M Zdravkova,3,0,,,,,,"",""
+ball,1,19.6,Turkey,D Tekyildirim,R Cenik,M Zdravkova,1,0,,,,,,"",""
+ball,1,19.7,Turkey,R Cenik,D Tekyildirim,M Zdravkova,0,0,,,,,,caught,R Cenik
+ball,2,0.1,Bulgaria,S Galabova,V Nikolova,K Canavarci,1,0,,,,,,"",""
+ball,2,0.2,Bulgaria,V Nikolova,S Galabova,K Canavarci,0,0,,,,,,"",""
+ball,2,0.3,Bulgaria,V Nikolova,S Galabova,K Canavarci,2,0,,,,,,"",""
+ball,2,0.4,Bulgaria,V Nikolova,S Galabova,K Canavarci,0,0,,,,,,"",""
+ball,2,0.5,Bulgaria,V Nikolova,S Galabova,K Canavarci,0,0,,,,,,"",""
+ball,2,0.6,Bulgaria,V Nikolova,S Galabova,K Canavarci,0,0,,,,,,"",""
+ball,2,1.1,Bulgaria,S Galabova,V Nikolova,S Ozkunduz,0,0,,,,,,bowled,S Galabova
+ball,2,1.2,Bulgaria,T Dissanayake,V Nikolova,S Ozkunduz,0,0,,,,,,caught,T Dissanayake
+ball,2,1.3,Bulgaria,S Sarandeva,V Nikolova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,1.4,Bulgaria,S Sarandeva,V Nikolova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,1.5,Bulgaria,S Sarandeva,V Nikolova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,1.6,Bulgaria,S Sarandeva,V Nikolova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,2.1,Bulgaria,V Nikolova,S Sarandeva,K Canavarci,1,0,,,,,,"",""
+ball,2,2.2,Bulgaria,S Sarandeva,V Nikolova,K Canavarci,0,0,,,,,,"",""
+ball,2,2.3,Bulgaria,S Sarandeva,V Nikolova,K Canavarci,0,0,,,,,,"",""
+ball,2,2.4,Bulgaria,S Sarandeva,V Nikolova,K Canavarci,0,0,,,,,,bowled,S Sarandeva
+ball,2,2.5,Bulgaria,K Srandeva,V Nikolova,K Canavarci,0,1,1,,,,,"",""
+ball,2,2.6,Bulgaria,K Srandeva,V Nikolova,K Canavarci,0,0,,,,,,"",""
+ball,2,2.7,Bulgaria,K Srandeva,V Nikolova,K Canavarci,1,0,,,,,,"",""
+ball,2,3.1,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,0,1,1,,,,,"",""
+ball,2,3.2,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,0,1,,1,,,,"",""
+ball,2,3.3,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,0,1,1,,,,,"",""
+ball,2,3.4,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,3.5,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,0,1,1,,,,,"",""
+ball,2,3.6,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,3.7,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,0,1,1,,,,,"",""
+ball,2,3.8,Bulgaria,K Srandeva,V Nikolova,S Ozkunduz,1,0,,,,,,"",""
+ball,2,3.9,Bulgaria,V Nikolova,K Srandeva,S Ozkunduz,0,1,1,,,,,"",""
+ball,2,3.10,Bulgaria,V Nikolova,K Srandeva,S Ozkunduz,0,0,,,,,,lbw,V Nikolova
+ball,2,3.11,Bulgaria,D Ruynekova,K Srandeva,S Ozkunduz,0,0,,,,,,"",""
+ball,2,3.12,Bulgaria,D Ruynekova,K Srandeva,S Ozkunduz,0,0,,,,,,"",""
+ball,2,4.1,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,4.2,Bulgaria,K Srandeva,D Ruynekova,H Celik,2,0,,,,,,"",""
+ball,2,4.3,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,4.4,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,4.5,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,4.6,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,5.1,Bulgaria,D Ruynekova,K Srandeva,ZB Ender,0,0,,,,,,"",""
+ball,2,5.2,Bulgaria,D Ruynekova,K Srandeva,ZB Ender,0,0,,,,,,"",""
+ball,2,5.3,Bulgaria,D Ruynekova,K Srandeva,ZB Ender,1,0,,,,,,"",""
+ball,2,5.4,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,1,0,,,,,,"",""
+ball,2,5.5,Bulgaria,D Ruynekova,K Srandeva,ZB Ender,4,0,,,,,,"",""
+ball,2,5.6,Bulgaria,D Ruynekova,K Srandeva,ZB Ender,0,0,,,,,,"",""
+ball,2,6.1,Bulgaria,K Srandeva,D Ruynekova,H Celik,1,0,,,,,,"",""
+ball,2,6.2,Bulgaria,D Ruynekova,K Srandeva,H Celik,0,1,1,,,,,"",""
+ball,2,6.3,Bulgaria,D Ruynekova,K Srandeva,H Celik,0,0,,,,,,"",""
+ball,2,6.4,Bulgaria,D Ruynekova,K Srandeva,H Celik,1,0,,,,,,"",""
+ball,2,6.5,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,1,,,1,,,"",""
+ball,2,6.6,Bulgaria,D Ruynekova,K Srandeva,H Celik,0,0,,,,,,"",""
+ball,2,6.7,Bulgaria,D Ruynekova,K Srandeva,H Celik,0,0,,,,,,"",""
+ball,2,7.1,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,7.2,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,7.3,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,1,,1,,,,"",""
+ball,2,7.4,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,7.5,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,7.6,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,7.7,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,8.1,Bulgaria,D Ruynekova,K Srandeva,G Cengiz,1,0,,,,,,"",""
+ball,2,8.2,Bulgaria,K Srandeva,D Ruynekova,G Cengiz,1,1,,1,,,,"",""
+ball,2,8.3,Bulgaria,D Ruynekova,K Srandeva,G Cengiz,1,0,,,,,,"",""
+ball,2,8.4,Bulgaria,K Srandeva,D Ruynekova,G Cengiz,0,0,,,,,,"",""
+ball,2,8.5,Bulgaria,K Srandeva,D Ruynekova,G Cengiz,1,0,,,,,,"",""
+ball,2,8.6,Bulgaria,D Ruynekova,K Srandeva,G Cengiz,0,1,1,,,,,"",""
+ball,2,8.7,Bulgaria,D Ruynekova,K Srandeva,G Cengiz,1,0,,,,,,"",""
+ball,2,8.8,Bulgaria,K Srandeva,D Ruynekova,G Cengiz,0,0,,,,,,"",""
+ball,2,9.1,Bulgaria,D Ruynekova,K Srandeva,D Tekyildirim,1,0,,,,,,"",""
+ball,2,9.2,Bulgaria,K Srandeva,D Ruynekova,D Tekyildirim,0,0,,,,,,"",""
+ball,2,9.3,Bulgaria,K Srandeva,D Ruynekova,D Tekyildirim,0,1,,,1,,,"",""
+ball,2,9.4,Bulgaria,D Ruynekova,K Srandeva,D Tekyildirim,0,0,,,,,,"",""
+ball,2,9.5,Bulgaria,D Ruynekova,K Srandeva,D Tekyildirim,4,0,,,,,,"",""
+ball,2,9.6,Bulgaria,D Ruynekova,K Srandeva,D Tekyildirim,0,0,,,,,,"",""
+ball,2,10.1,Bulgaria,K Srandeva,D Ruynekova,K Canavarci,0,0,,,,,,"",""
+ball,2,10.2,Bulgaria,K Srandeva,D Ruynekova,K Canavarci,1,0,,,,,,"",""
+ball,2,10.3,Bulgaria,D Ruynekova,K Srandeva,K Canavarci,2,0,,,,,,"",""
+ball,2,10.4,Bulgaria,D Ruynekova,K Srandeva,K Canavarci,1,0,,,,,,"",""
+ball,2,10.5,Bulgaria,K Srandeva,D Ruynekova,K Canavarci,0,0,,,,,,"",""
+ball,2,10.6,Bulgaria,K Srandeva,D Ruynekova,K Canavarci,2,0,,,,,,"",""
+ball,2,11.1,Bulgaria,D Ruynekova,K Srandeva,S Yildirim,0,1,1,,,,,"",""
+ball,2,11.2,Bulgaria,D Ruynekova,K Srandeva,S Yildirim,1,0,,,,,,"",""
+ball,2,11.3,Bulgaria,K Srandeva,D Ruynekova,S Yildirim,1,0,,,,,,"",""
+ball,2,11.4,Bulgaria,D Ruynekova,K Srandeva,S Yildirim,2,0,,,,,,"",""
+ball,2,11.5,Bulgaria,D Ruynekova,K Srandeva,S Yildirim,0,0,,,,,,"",""
+ball,2,11.6,Bulgaria,D Ruynekova,K Srandeva,S Yildirim,0,1,1,,,,,"",""
+ball,2,11.7,Bulgaria,D Ruynekova,K Srandeva,S Yildirim,2,0,,,,,,"",""
+ball,2,11.8,Bulgaria,D Ruynekova,K Srandeva,S Yildirim,2,0,,,,,,"",""
+ball,2,12.1,Bulgaria,K Srandeva,D Ruynekova,S Ozkunduz,1,0,,,,,,"",""
+ball,2,12.2,Bulgaria,D Ruynekova,K Srandeva,S Ozkunduz,1,0,,,,,,"",""
+ball,2,12.3,Bulgaria,K Srandeva,D Ruynekova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,12.4,Bulgaria,K Srandeva,D Ruynekova,S Ozkunduz,0,1,1,,,,,"",""
+ball,2,12.5,Bulgaria,K Srandeva,D Ruynekova,S Ozkunduz,1,0,,,,,,"",""
+ball,2,12.6,Bulgaria,D Ruynekova,K Srandeva,S Ozkunduz,1,0,,,,,,"",""
+ball,2,12.7,Bulgaria,K Srandeva,D Ruynekova,S Ozkunduz,0,1,1,,,,,"",""
+ball,2,12.8,Bulgaria,K Srandeva,D Ruynekova,S Ozkunduz,0,0,,,,,,"",""
+ball,2,13.1,Bulgaria,D Ruynekova,K Srandeva,H Celik,0,0,,,,,,"",""
+ball,2,13.2,Bulgaria,D Ruynekova,K Srandeva,H Celik,1,1,,1,,,,"",""
+ball,2,13.3,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,13.4,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,13.5,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,13.6,Bulgaria,K Srandeva,D Ruynekova,H Celik,0,0,,,,,,"",""
+ball,2,13.7,Bulgaria,K Srandeva,D Ruynekova,H Celik,1,0,,,,,,"",""
+ball,2,14.1,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,1,1,,,,,"",""
+ball,2,14.2,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,14.3,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,1,1,,,,,"",""
+ball,2,14.4,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,1,,1,,,,"",""
+ball,2,14.5,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,1,1,,,,,"",""
+ball,2,14.6,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,1,1,,,,,"",""
+ball,2,14.7,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,1,1,,,,,"",""
+ball,2,14.8,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,0,0,,,,,,"",""
+ball,2,14.9,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,1,0,,,,,,"",""
+ball,2,14.10,Bulgaria,D Ruynekova,K Srandeva,ZB Ender,1,0,,,,,,"",""
+ball,2,14.11,Bulgaria,K Srandeva,D Ruynekova,ZB Ender,1,0,,,,,,"",""
+ball,2,14.12,Bulgaria,D Ruynekova,K Srandeva,ZB Ender,0,0,,,,,,"",""
+ball,2,15.1,Bulgaria,K Srandeva,D Ruynekova,S Yildirim,0,0,,,,,,"",""
+ball,2,15.2,Bulgaria,K Srandeva,D Ruynekova,S Yildirim,0,0,,,,,,bowled,K Srandeva
+ball,2,15.3,Bulgaria,M Abadjieva,D Ruynekova,S Yildirim,0,0,,,,,,"",""
+ball,2,15.4,Bulgaria,M Abadjieva,D Ruynekova,S Yildirim,0,0,,,,,,bowled,M Abadjieva
+ball,2,15.5,Bulgaria,V Atanasova,D Ruynekova,S Yildirim,0,0,,,,,,"",""
+ball,2,15.6,Bulgaria,V Atanasova,D Ruynekova,S Yildirim,0,0,,,,,,"",""
+ball,2,16.1,Bulgaria,D Ruynekova,V Atanasova,G Cengiz,0,0,,,,,,"",""
+ball,2,16.2,Bulgaria,D Ruynekova,V Atanasova,G Cengiz,1,0,,,,,,"",""
+ball,2,16.3,Bulgaria,V Atanasova,D Ruynekova,G Cengiz,0,0,,,,,,"",""
+ball,2,16.4,Bulgaria,V Atanasova,D Ruynekova,G Cengiz,0,0,,,,,,"",""
+ball,2,16.5,Bulgaria,V Atanasova,D Ruynekova,G Cengiz,0,0,,,,,,"",""
+ball,2,16.6,Bulgaria,V Atanasova,D Ruynekova,G Cengiz,0,0,,,,,,"",""
+ball,2,17.1,Bulgaria,D Ruynekova,V Atanasova,S Yildirim,0,0,,,,,,"",""
+ball,2,17.2,Bulgaria,D Ruynekova,V Atanasova,S Yildirim,0,0,,,,,,"",""
+ball,2,17.3,Bulgaria,D Ruynekova,V Atanasova,S Yildirim,2,0,,,,,,"",""
+ball,2,17.4,Bulgaria,D Ruynekova,V Atanasova,S Yildirim,1,0,,,,,,"",""
+ball,2,17.5,Bulgaria,V Atanasova,D Ruynekova,S Yildirim,0,0,,,,,,"",""
+ball,2,17.6,Bulgaria,V Atanasova,D Ruynekova,S Yildirim,0,0,,,,,,"",""
+ball,2,18.1,Bulgaria,D Ruynekova,V Atanasova,D Tekyildirim,4,0,,,,,,"",""
+ball,2,18.2,Bulgaria,D Ruynekova,V Atanasova,D Tekyildirim,0,1,1,,,,,"",""
+ball,2,18.3,Bulgaria,D Ruynekova,V Atanasova,D Tekyildirim,0,0,,,,,,"",""
+ball,2,18.4,Bulgaria,D Ruynekova,V Atanasova,D Tekyildirim,0,0,,,,,,caught and bowled,D Ruynekova
+ball,2,18.5,Bulgaria,N Gocheva,V Atanasova,D Tekyildirim,0,0,,,,,,"",""
+ball,2,18.6,Bulgaria,N Gocheva,V Atanasova,D Tekyildirim,0,1,1,,,,,"",""
+ball,2,18.7,Bulgaria,N Gocheva,V Atanasova,D Tekyildirim,0,0,,,,,,"",""
+ball,2,18.8,Bulgaria,N Gocheva,V Atanasova,D Tekyildirim,0,0,,,,,,"",""
+ball,2,19.1,Bulgaria,V Atanasova,N Gocheva,K Canavarci,0,0,,,,,,"",""
+ball,2,19.2,Bulgaria,V Atanasova,N Gocheva,K Canavarci,0,0,,,,,,"",""
+ball,2,19.3,Bulgaria,V Atanasova,N Gocheva,K Canavarci,0,0,,,,,,"",""
+ball,2,19.4,Bulgaria,V Atanasova,N Gocheva,K Canavarci,0,1,1,,,,,"",""
+ball,2,19.5,Bulgaria,V Atanasova,N Gocheva,K Canavarci,0,0,,,,,,"",""
+ball,2,19.6,Bulgaria,V Atanasova,N Gocheva,K Canavarci,0,0,,,,,,"",""
+ball,2,19.7,Bulgaria,V Atanasova,N Gocheva,K Canavarci,0,2,,1,1,,,"",""
+ball,2,19.8,Bulgaria,N Gocheva,V Atanasova,K Canavarci,1,0,,,,,,"",""

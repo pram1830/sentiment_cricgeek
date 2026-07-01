@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Bhutan
+info,gender,male
+info,season,2024/25
+info,date,2024/10/24
+info,event,Bhutan Quadrangular T20I Series
+info,venue,Gelephu International Cricket Ground
+info,city,Gelephu
+info,toss_winner,Indonesia
+info,toss_decision,bat
+info,player_of_match,D Dawa
+info,umpire,AK Rai
+info,umpire,ON Pradhan
+info,tv_umpire,U Dorji
+info,match_referee,Sarika Prasad
+info,winner,Bhutan
+info,winner_wickets,1
+info,player,Indonesia,KD Kesuma
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,J Dzulfikar
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,GD Arta
+info,player,Indonesia,RM Koda
+info,player,Indonesia,DGAPD Wiswi
+info,player,Indonesia,AA Rahayu
+info,player,Indonesia,A Alexander
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,J Singye
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,Tshering Tashi
+info,player,Bhutan,S Yeshi
+info,player,Bhutan,D Dawa
+info,registry,people,A Alexander,ef6d6883
+info,registry,people,AA Rahayu,2327fdc7
+info,registry,people,AK Rai,1d70834a
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,D Dawa,676aeb1b
+info,registry,people,DGAPD Wiswi,d3d096f5
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,GD Arta,e969e580
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,J Dzulfikar,05ea0342
+info,registry,people,J Singye,28574428
+info,registry,people,KD Kesuma,4b349dc0
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,ON Pradhan,d41a08d6
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,RM Koda,f0a45427
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Tshering Tashi,596c60cf
+info,registry,people,U Dorji,12bba2d4
+ball,1,0.1,Indonesia,KD Kesuma,Ahmad Ramdoni,T Wangchuk,0,0,,,,,,"",""
+ball,1,0.2,Indonesia,KD Kesuma,Ahmad Ramdoni,T Wangchuk,4,0,,,,,,"",""
+ball,1,0.3,Indonesia,KD Kesuma,Ahmad Ramdoni,T Wangchuk,4,0,,,,,,"",""
+ball,1,0.4,Indonesia,KD Kesuma,Ahmad Ramdoni,T Wangchuk,1,0,,,,,,"",""
+ball,1,0.5,Indonesia,Ahmad Ramdoni,KD Kesuma,T Wangchuk,0,0,,,,,,"",""
+ball,1,0.6,Indonesia,Ahmad Ramdoni,KD Kesuma,T Wangchuk,0,0,,,,,,"",""
+ball,1,1.1,Indonesia,KD Kesuma,Ahmad Ramdoni,D Dawa,0,0,,,,,,bowled,KD Kesuma
+ball,1,1.2,Indonesia,Anjar Tadarus,Ahmad Ramdoni,D Dawa,1,0,,,,,,"",""
+ball,1,1.3,Indonesia,Ahmad Ramdoni,Anjar Tadarus,D Dawa,0,0,,,,,,run out,Anjar Tadarus
+ball,1,1.4,Indonesia,DJ Hawoe,Ahmad Ramdoni,D Dawa,0,0,,,,,,"",""
+ball,1,1.5,Indonesia,DJ Hawoe,Ahmad Ramdoni,D Dawa,0,1,1,,,,,"",""
+ball,1,1.6,Indonesia,DJ Hawoe,Ahmad Ramdoni,D Dawa,0,1,1,,,,,"",""
+ball,1,1.7,Indonesia,DJ Hawoe,Ahmad Ramdoni,D Dawa,0,0,,,,,,caught,DJ Hawoe
+ball,1,1.8,Indonesia,J Dzulfikar,Ahmad Ramdoni,D Dawa,0,0,,,,,,"",""
+ball,1,2.1,Indonesia,Ahmad Ramdoni,J Dzulfikar,RM Dorji,1,0,,,,,,"",""
+ball,1,2.2,Indonesia,J Dzulfikar,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,2.3,Indonesia,J Dzulfikar,Ahmad Ramdoni,RM Dorji,1,0,,,,,,"",""
+ball,1,2.4,Indonesia,Ahmad Ramdoni,J Dzulfikar,RM Dorji,4,0,,,,,,"",""
+ball,1,2.5,Indonesia,Ahmad Ramdoni,J Dzulfikar,RM Dorji,0,0,,,,,,"",""
+ball,1,2.6,Indonesia,Ahmad Ramdoni,J Dzulfikar,RM Dorji,1,0,,,,,,"",""
+ball,1,3.1,Indonesia,Ahmad Ramdoni,J Dzulfikar,D Dawa,1,0,,,,,,"",""
+ball,1,3.2,Indonesia,J Dzulfikar,Ahmad Ramdoni,D Dawa,0,0,,,,,,"",""
+ball,1,3.3,Indonesia,J Dzulfikar,Ahmad Ramdoni,D Dawa,4,0,,,,,,"",""
+ball,1,3.4,Indonesia,J Dzulfikar,Ahmad Ramdoni,D Dawa,0,0,,,,,,"",""
+ball,1,3.5,Indonesia,J Dzulfikar,Ahmad Ramdoni,D Dawa,0,0,,,,,,caught,J Dzulfikar
+ball,1,3.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,D Dawa,0,1,1,,,,,"",""
+ball,1,3.7,Indonesia,IKEG Artawan,Ahmad Ramdoni,D Dawa,0,0,,,,,,"",""
+ball,1,4.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,RM Dorji,0,0,,,,,,"",""
+ball,1,4.2,Indonesia,Ahmad Ramdoni,IKEG Artawan,RM Dorji,1,0,,,,,,"",""
+ball,1,4.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,4.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,4.5,Indonesia,IKEG Artawan,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,4.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,5.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,D Dawa,0,0,,,,,,"",""
+ball,1,5.2,Indonesia,Ahmad Ramdoni,IKEG Artawan,D Dawa,1,0,,,,,,"",""
+ball,1,5.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,D Dawa,1,0,,,,,,"",""
+ball,1,5.4,Indonesia,Ahmad Ramdoni,IKEG Artawan,D Dawa,0,0,,,,,,"",""
+ball,1,5.5,Indonesia,Ahmad Ramdoni,IKEG Artawan,D Dawa,0,0,,,,,,"",""
+ball,1,5.6,Indonesia,Ahmad Ramdoni,IKEG Artawan,D Dawa,2,0,,,,,,"",""
+ball,1,6.1,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,0,0,,,,,,"",""
+ball,1,6.2,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,1,0,,,,,,"",""
+ball,1,6.3,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,6.4,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,6.5,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,6.6,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,7.1,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Yeshi,1,0,,,,,,"",""
+ball,1,7.2,Indonesia,Ahmad Ramdoni,IKEG Artawan,S Yeshi,1,0,,,,,,"",""
+ball,1,7.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Yeshi,0,0,,,,,,"",""
+ball,1,7.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Yeshi,0,0,,,,,,"",""
+ball,1,7.5,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Yeshi,0,0,,,,,,"",""
+ball,1,7.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Yeshi,0,0,,,,,,"",""
+ball,1,8.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,8.2,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,8.3,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,8.4,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,8.5,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,8.6,Indonesia,Ahmad Ramdoni,IKEG Artawan,J Singye,0,0,,,,,,"",""
+ball,1,9.1,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Yeshi,0,0,,,,,,"",""
+ball,1,9.2,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Yeshi,1,0,,,,,,"",""
+ball,1,9.3,Indonesia,Ahmad Ramdoni,IKEG Artawan,S Yeshi,0,0,,,,,,"",""
+ball,1,9.4,Indonesia,Ahmad Ramdoni,IKEG Artawan,S Yeshi,0,0,,,,,,"",""
+ball,1,9.5,Indonesia,Ahmad Ramdoni,IKEG Artawan,S Yeshi,0,0,,,,,,"",""
+ball,1,9.6,Indonesia,Ahmad Ramdoni,IKEG Artawan,S Yeshi,0,0,,,,,,"",""
+ball,1,10.1,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,0,0,,,,,,"",""
+ball,1,10.2,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,0,0,,,,,,"",""
+ball,1,10.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,0,0,,,,,,"",""
+ball,1,10.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,0,0,,,,,,"",""
+ball,1,10.5,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,0,0,,,,,,"",""
+ball,1,10.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,J Singye,4,0,,,,,,"",""
+ball,1,11.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,Namgay Thinley,1,0,,,,,,"",""
+ball,1,11.2,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,1,0,,,,,,"",""
+ball,1,11.3,Indonesia,Ahmad Ramdoni,IKEG Artawan,Namgay Thinley,1,0,,,,,,"",""
+ball,1,11.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,0,,,,,,"",""
+ball,1,11.5,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,2,,,2,,,"",""
+ball,1,11.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,0,,,,,,"",""
+ball,1,12.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,T Jamtsho,0,0,,,,,,"",""
+ball,1,12.2,Indonesia,Ahmad Ramdoni,IKEG Artawan,T Jamtsho,0,1,,1,,,,"",""
+ball,1,12.3,Indonesia,Ahmad Ramdoni,IKEG Artawan,T Jamtsho,1,0,,,,,,"",""
+ball,1,12.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Jamtsho,0,0,,,,,,"",""
+ball,1,12.5,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Jamtsho,0,1,,1,,,,"",""
+ball,1,12.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Jamtsho,0,1,1,,,,,"",""
+ball,1,12.7,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Jamtsho,4,0,,,,,,"",""
+ball,1,12.8,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Jamtsho,0,1,1,,,,,"",""
+ball,1,12.9,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Jamtsho,0,0,,,,,,"",""
+ball,1,12.10,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Jamtsho,0,0,,,,,,"",""
+ball,1,13.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,Namgay Thinley,0,0,,,,,,"",""
+ball,1,13.2,Indonesia,Ahmad Ramdoni,IKEG Artawan,Namgay Thinley,1,0,,,,,,"",""
+ball,1,13.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,0,,,,,,"",""
+ball,1,13.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,0,,,,,,"",""
+ball,1,13.5,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,0,,,,,,"",""
+ball,1,13.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,0,,,,,,"",""
+ball,1,14.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,S Pradhan,2,0,,,,,,"",""
+ball,1,14.2,Indonesia,Ahmad Ramdoni,IKEG Artawan,S Pradhan,1,0,,,,,,"",""
+ball,1,14.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Pradhan,2,0,,,,,,"",""
+ball,1,14.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Pradhan,6,0,,,,,,"",""
+ball,1,14.5,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Pradhan,6,0,,,,,,"",""
+ball,1,14.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,S Pradhan,0,0,,,,,,"",""
+ball,1,15.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,Namgay Thinley,1,0,,,,,,"",""
+ball,1,15.2,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,6,0,,,,,,"",""
+ball,1,15.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,4,0,,,,,,"",""
+ball,1,15.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,1,0,,,,,,"",""
+ball,1,15.5,Indonesia,Ahmad Ramdoni,IKEG Artawan,Namgay Thinley,1,0,,,,,,"",""
+ball,1,15.6,Indonesia,IKEG Artawan,Ahmad Ramdoni,Namgay Thinley,0,0,,,,,,"",""
+ball,1,16.1,Indonesia,Ahmad Ramdoni,IKEG Artawan,T Wangchuk,0,1,,,,1,,"",""
+ball,1,16.2,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Wangchuk,0,0,,,,,,"",""
+ball,1,16.3,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Wangchuk,2,0,,,,,,"",""
+ball,1,16.4,Indonesia,IKEG Artawan,Ahmad Ramdoni,T Wangchuk,1,0,,,,,,"",""
+ball,1,16.5,Indonesia,Ahmad Ramdoni,IKEG Artawan,T Wangchuk,6,0,,,,,,"",""
+ball,1,16.6,Indonesia,Ahmad Ramdoni,IKEG Artawan,T Wangchuk,0,0,,,,,,"",""
+ball,1,17.1,Indonesia,IKEG Artawan,Ahmad Ramdoni,RM Dorji,0,0,,,,,,bowled,IKEG Artawan
+ball,1,17.2,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,17.3,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,17.4,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,17.5,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,1,0,,,,,,"",""
+ball,1,17.6,Indonesia,Ahmad Ramdoni,GD Arta,RM Dorji,0,0,,,,,,"",""
+ball,1,18.1,Indonesia,GD Arta,Ahmad Ramdoni,T Wangchuk,1,0,,,,,,"",""
+ball,1,18.2,Indonesia,Ahmad Ramdoni,GD Arta,T Wangchuk,0,0,,,,,,"",""
+ball,1,18.3,Indonesia,Ahmad Ramdoni,GD Arta,T Wangchuk,1,0,,,,,,"",""
+ball,1,18.4,Indonesia,GD Arta,Ahmad Ramdoni,T Wangchuk,1,0,,,,,,"",""
+ball,1,18.5,Indonesia,Ahmad Ramdoni,GD Arta,T Wangchuk,1,0,,,,,,"",""
+ball,1,18.6,Indonesia,GD Arta,Ahmad Ramdoni,T Wangchuk,1,0,,,,,,"",""
+ball,1,19.1,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,19.2,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,19.3,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,0,0,,,,,,"",""
+ball,1,19.4,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,4,0,,,,,,"",""
+ball,1,19.5,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,2,0,,,,,,"",""
+ball,1,19.6,Indonesia,GD Arta,Ahmad Ramdoni,RM Dorji,0,0,,,,,,run out,GD Arta
+ball,2,0.1,Bhutan,S Pradhan,Tenjin Rabgey,RM Koda,0,0,,,,,,"",""
+ball,2,0.2,Bhutan,S Pradhan,Tenjin Rabgey,RM Koda,0,0,,,,,,"",""
+ball,2,0.3,Bhutan,S Pradhan,Tenjin Rabgey,RM Koda,0,0,,,,,,"",""
+ball,2,0.4,Bhutan,S Pradhan,Tenjin Rabgey,RM Koda,0,0,,,,,,caught,S Pradhan
+ball,2,0.5,Bhutan,RM Dorji,Tenjin Rabgey,RM Koda,4,0,,,,,,"",""
+ball,2,0.6,Bhutan,RM Dorji,Tenjin Rabgey,RM Koda,0,0,,,,,,"",""
+ball,2,1.1,Bhutan,Tenjin Rabgey,RM Dorji,GD Arta,0,0,,,,,,"",""
+ball,2,1.2,Bhutan,Tenjin Rabgey,RM Dorji,GD Arta,0,0,,,,,,"",""
+ball,2,1.3,Bhutan,Tenjin Rabgey,RM Dorji,GD Arta,0,0,,,,,,"",""
+ball,2,1.4,Bhutan,Tenjin Rabgey,RM Dorji,GD Arta,4,0,,,,,,"",""
+ball,2,1.5,Bhutan,Tenjin Rabgey,RM Dorji,GD Arta,0,0,,,,,,"",""
+ball,2,1.6,Bhutan,Tenjin Rabgey,RM Dorji,GD Arta,1,0,,,,,,"",""
+ball,2,2.1,Bhutan,Tenjin Rabgey,RM Dorji,RM Koda,0,0,,,,,,"",""
+ball,2,2.2,Bhutan,Tenjin Rabgey,RM Dorji,RM Koda,0,1,1,,,,,"",""
+ball,2,2.3,Bhutan,Tenjin Rabgey,RM Dorji,RM Koda,0,1,1,,,,,"",""
+ball,2,2.4,Bhutan,Tenjin Rabgey,RM Dorji,RM Koda,0,0,,,,,,"",""
+ball,2,2.5,Bhutan,Tenjin Rabgey,RM Dorji,RM Koda,0,0,,,,,,"",""
+ball,2,2.6,Bhutan,Tenjin Rabgey,RM Dorji,RM Koda,1,0,,,,,,"",""
+ball,2,2.7,Bhutan,RM Dorji,Tenjin Rabgey,RM Koda,0,0,,,,,,"",""
+ball,2,2.8,Bhutan,RM Dorji,Tenjin Rabgey,RM Koda,1,0,,,,,,"",""
+ball,2,3.1,Bhutan,RM Dorji,Tenjin Rabgey,GD Arta,6,0,,,,,,"",""
+ball,2,3.2,Bhutan,RM Dorji,Tenjin Rabgey,GD Arta,0,0,,,,,,"",""
+ball,2,3.3,Bhutan,RM Dorji,Tenjin Rabgey,GD Arta,0,0,,,,,,caught,RM Dorji
+ball,2,3.4,Bhutan,T Jamtsho,Tenjin Rabgey,GD Arta,0,0,,,,,,"",""
+ball,2,3.5,Bhutan,T Jamtsho,Tenjin Rabgey,GD Arta,0,0,,,,,,"",""
+ball,2,3.6,Bhutan,T Jamtsho,Tenjin Rabgey,GD Arta,4,0,,,,,,"",""
+ball,2,4.1,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,0,0,,,,,,"",""
+ball,2,4.2,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,0,1,1,,,,,"",""
+ball,2,4.3,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,0,0,,,,,,"",""
+ball,2,4.4,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,0,1,1,,,,,"",""
+ball,2,4.5,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,0,1,1,,,,,"",""
+ball,2,4.6,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,0,0,,,,,,"",""
+ball,2,4.7,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,6,0,,,,,,"",""
+ball,2,4.8,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,0,0,,,,,,"",""
+ball,2,4.9,Bhutan,Tenjin Rabgey,T Jamtsho,DJ Hawoe,6,0,,,,,,"",""
+ball,2,5.1,Bhutan,T Jamtsho,Tenjin Rabgey,AA Rahayu,0,0,,,,,,"",""
+ball,2,5.2,Bhutan,T Jamtsho,Tenjin Rabgey,AA Rahayu,0,0,,,,,,bowled,T Jamtsho
+ball,2,5.3,Bhutan,J Singye,Tenjin Rabgey,AA Rahayu,1,0,,,,,,"",""
+ball,2,5.4,Bhutan,Tenjin Rabgey,J Singye,AA Rahayu,1,0,,,,,,"",""
+ball,2,5.5,Bhutan,J Singye,Tenjin Rabgey,AA Rahayu,1,0,,,,,,"",""
+ball,2,5.6,Bhutan,Tenjin Rabgey,J Singye,AA Rahayu,6,0,,,,,,"",""
+ball,2,6.1,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,6.2,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,6.3,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,1,0,,,,,,"",""
+ball,2,6.4,Bhutan,Tenjin Rabgey,J Singye,IKEG Artawan,1,0,,,,,,"",""
+ball,2,6.5,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,6.6,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,1,0,,,,,,"",""
+ball,2,7.1,Bhutan,J Singye,Tenjin Rabgey,AA Rahayu,1,0,,,,,,"",""
+ball,2,7.2,Bhutan,Tenjin Rabgey,J Singye,AA Rahayu,1,0,,,,,,"",""
+ball,2,7.3,Bhutan,J Singye,Tenjin Rabgey,AA Rahayu,2,0,,,,,,"",""
+ball,2,7.4,Bhutan,J Singye,Tenjin Rabgey,AA Rahayu,0,0,,,,,,"",""
+ball,2,7.5,Bhutan,J Singye,Tenjin Rabgey,AA Rahayu,0,0,,,,,,"",""
+ball,2,7.6,Bhutan,J Singye,Tenjin Rabgey,AA Rahayu,2,0,,,,,,"",""
+ball,2,8.1,Bhutan,Tenjin Rabgey,J Singye,IKEG Artawan,1,0,,,,,,"",""
+ball,2,8.2,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,8.3,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,8.4,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,1,0,,,,,,"",""
+ball,2,8.5,Bhutan,Tenjin Rabgey,J Singye,IKEG Artawan,1,0,,,,,,"",""
+ball,2,8.6,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,9.1,Bhutan,Tenjin Rabgey,J Singye,GD Arta,0,0,,,,,,"",""
+ball,2,9.2,Bhutan,Tenjin Rabgey,J Singye,GD Arta,0,1,1,,,,,"",""
+ball,2,9.3,Bhutan,Tenjin Rabgey,J Singye,GD Arta,0,0,,,,,,"",""
+ball,2,9.4,Bhutan,Tenjin Rabgey,J Singye,GD Arta,1,0,,,,,,"",""
+ball,2,9.5,Bhutan,J Singye,Tenjin Rabgey,GD Arta,0,0,,,,,,"",""
+ball,2,9.6,Bhutan,J Singye,Tenjin Rabgey,GD Arta,0,0,,,,,,"",""
+ball,2,9.7,Bhutan,J Singye,Tenjin Rabgey,GD Arta,0,0,,,,,,"",""
+ball,2,10.1,Bhutan,Tenjin Rabgey,J Singye,IKEG Artawan,1,0,,,,,,"",""
+ball,2,10.2,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,10.3,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,0,0,,,,,,"",""
+ball,2,10.4,Bhutan,J Singye,Tenjin Rabgey,IKEG Artawan,1,0,,,,,,"",""
+ball,2,10.5,Bhutan,Tenjin Rabgey,J Singye,IKEG Artawan,0,0,,,,,,"",""
+ball,2,10.6,Bhutan,Tenjin Rabgey,J Singye,IKEG Artawan,0,0,,,,,,caught,Tenjin Rabgey
+ball,2,11.1,Bhutan,J Singye,Namgay Thinley,GD Arta,0,1,1,,,,,"",""
+ball,2,11.2,Bhutan,J Singye,Namgay Thinley,GD Arta,0,0,,,,,,"",""
+ball,2,11.3,Bhutan,J Singye,Namgay Thinley,GD Arta,1,0,,,,,,"",""
+ball,2,11.4,Bhutan,Namgay Thinley,J Singye,GD Arta,0,1,,1,,,,"",""
+ball,2,11.5,Bhutan,Namgay Thinley,J Singye,GD Arta,1,0,,,,,,"",""
+ball,2,11.6,Bhutan,J Singye,Namgay Thinley,GD Arta,0,0,,,,,,"",""
+ball,2,11.7,Bhutan,J Singye,Namgay Thinley,GD Arta,0,0,,,,,,"",""
+ball,2,11.8,Bhutan,J Singye,Namgay Thinley,GD Arta,0,0,,,,,,"",""
+ball,2,12.1,Bhutan,Namgay Thinley,J Singye,IKEG Artawan,0,0,,,,,,"",""
+ball,2,12.2,Bhutan,Namgay Thinley,J Singye,IKEG Artawan,1,0,,,,,,"",""
+ball,2,12.3,Bhutan,J Singye,Namgay Thinley,IKEG Artawan,1,0,,,,,,"",""
+ball,2,12.4,Bhutan,Namgay Thinley,J Singye,IKEG Artawan,0,0,,,,,,"",""
+ball,2,12.5,Bhutan,Namgay Thinley,J Singye,IKEG Artawan,0,0,,,,,,"",""
+ball,2,12.6,Bhutan,Namgay Thinley,J Singye,IKEG Artawan,1,0,,,,,,"",""
+ball,2,13.1,Bhutan,Namgay Thinley,J Singye,A Alexander,1,0,,,,,,"",""
+ball,2,13.2,Bhutan,J Singye,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,13.3,Bhutan,J Singye,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,13.4,Bhutan,J Singye,Namgay Thinley,A Alexander,1,0,,,,,,"",""
+ball,2,13.5,Bhutan,Namgay Thinley,J Singye,A Alexander,0,0,,,,,,"",""
+ball,2,13.6,Bhutan,Namgay Thinley,J Singye,A Alexander,1,0,,,,,,"",""
+ball,2,14.1,Bhutan,Namgay Thinley,J Singye,DGAPD Wiswi,2,0,,,,,,"",""
+ball,2,14.2,Bhutan,Namgay Thinley,J Singye,DGAPD Wiswi,1,0,,,,,,"",""
+ball,2,14.3,Bhutan,J Singye,Namgay Thinley,DGAPD Wiswi,1,0,,,,,,"",""
+ball,2,14.4,Bhutan,Namgay Thinley,J Singye,DGAPD Wiswi,1,0,,,,,,"",""
+ball,2,14.5,Bhutan,J Singye,Namgay Thinley,DGAPD Wiswi,0,0,,,,,,caught,J Singye
+ball,2,14.6,Bhutan,GK Ghalley,Namgay Thinley,DGAPD Wiswi,0,0,,,,,,"",""
+ball,2,15.1,Bhutan,Namgay Thinley,GK Ghalley,A Alexander,1,0,,,,,,"",""
+ball,2,15.2,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,15.3,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,15.4,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,15.5,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,15.6,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,16.1,Bhutan,Namgay Thinley,GK Ghalley,RM Koda,0,0,,,,,,"",""
+ball,2,16.2,Bhutan,Namgay Thinley,GK Ghalley,RM Koda,0,0,,,,,,"",""
+ball,2,16.3,Bhutan,Namgay Thinley,GK Ghalley,RM Koda,3,0,,,,,,"",""
+ball,2,16.4,Bhutan,GK Ghalley,Namgay Thinley,RM Koda,0,0,,,,,,"",""
+ball,2,16.5,Bhutan,GK Ghalley,Namgay Thinley,RM Koda,0,0,,,,,,"",""
+ball,2,16.6,Bhutan,GK Ghalley,Namgay Thinley,RM Koda,1,0,,,,,,"",""
+ball,2,17.1,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,1,1,,,,,"",""
+ball,2,17.2,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,0,,,,,,"",""
+ball,2,17.3,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,6,0,,,,,,"",""
+ball,2,17.4,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,2,0,,,,,,"",""
+ball,2,17.5,Bhutan,GK Ghalley,Namgay Thinley,A Alexander,0,0,,,,,,caught,GK Ghalley
+ball,2,17.6,Bhutan,T Wangchuk,Namgay Thinley,A Alexander,0,1,1,,,,,"",""
+ball,2,17.7,Bhutan,T Wangchuk,Namgay Thinley,A Alexander,1,0,,,,,,"",""
+ball,2,17.8,Bhutan,Namgay Thinley,T Wangchuk,A Alexander,0,0,,,,,,"",""
+ball,2,18.1,Bhutan,T Wangchuk,Namgay Thinley,RM Koda,1,0,,,,,,"",""
+ball,2,18.2,Bhutan,Namgay Thinley,T Wangchuk,RM Koda,1,0,,,,,,"",""
+ball,2,18.3,Bhutan,T Wangchuk,Namgay Thinley,RM Koda,0,0,,,,,,"",""
+ball,2,18.4,Bhutan,T Wangchuk,Namgay Thinley,RM Koda,4,0,,,,,,"",""
+ball,2,18.5,Bhutan,T Wangchuk,Namgay Thinley,RM Koda,1,0,,,,,,"",""
+ball,2,18.6,Bhutan,Namgay Thinley,T Wangchuk,RM Koda,1,0,,,,,,run out,Namgay Thinley
+ball,2,19.1,Bhutan,T Wangchuk,Tshering Tashi,A Alexander,1,0,,,,,,run out,Tshering Tashi
+ball,2,19.2,Bhutan,T Wangchuk,S Yeshi,A Alexander,0,0,,,,,,bowled,T Wangchuk
+ball,2,19.3,Bhutan,D Dawa,S Yeshi,A Alexander,1,0,,,,,,"",""
+ball,2,19.4,Bhutan,S Yeshi,D Dawa,A Alexander,1,1,,1,,,,"",""

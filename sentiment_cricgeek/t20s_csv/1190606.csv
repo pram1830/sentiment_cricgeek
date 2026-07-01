@@ -1,0 +1,334 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Netherlands
+info,gender,female
+info,season,2019
+info,date,2019/06/27
+info,event,ICC Women's T20 World Cup Europe Region Qualifier
+info,match_number,3
+info,venue,La Manga Club Top Ground
+info,city,Murcia
+info,toss_winner,Germany
+info,toss_decision,field
+info,umpire,AJT Dowdalls
+info,umpire,R Hassan
+info,reserve_umpire,WPM van Liemt
+info,match_referee,DT Jukes
+info,winner,Netherlands
+info,winner_runs,131
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,D van Deventer
+info,player,Netherlands,M Veringmeier
+info,player,Netherlands,R Rijke
+info,player,Netherlands,B de Leede
+info,player,Netherlands,J Post
+info,player,Netherlands,C de Lange
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,AS van Beuge
+info,player,Germany,JE Ronalds
+info,player,Germany,ST Frohnmayer
+info,player,Germany,AM Healey
+info,player,Germany,CM Gough
+info,player,Germany,K Vijayaraghavan
+info,player,Germany,PA Wadenpohl
+info,player,Germany,A Bierwisch
+info,player,Germany,V Stolle
+info,player,Germany,MS Beresford
+info,player,Germany,SR McAnanama-Brereton
+info,player,Germany,EC Bargna
+info,registry,people,A Bierwisch,b51d654f
+info,registry,people,AJT Dowdalls,f06852e3
+info,registry,people,AM Healey,f3249df1
+info,registry,people,AS van Beuge,623c8835
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CM Gough,f1328a90
+info,registry,people,D van Deventer,2b654eb0
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,EC Bargna,9908d470
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J Post,b58b1ae5
+info,registry,people,JE Ronalds,d4f98302
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,M Veringmeier,3733a317
+info,registry,people,MS Beresford,26eb73f9
+info,registry,people,PA Wadenpohl,11898ffe
+info,registry,people,R Hassan,e303d1cc
+info,registry,people,R Rijke,42e4b276
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SR McAnanama-Brereton,bb1be934
+info,registry,people,ST Frohnmayer,7e8bcfc1
+info,registry,people,V Stolle,0dc4ac6c
+info,registry,people,WPM van Liemt,2bd48588
+ball,1,0.1,Netherlands,SL Kalis,HDJ Siegers,EC Bargna,0,0,,,,,,"",""
+ball,1,0.2,Netherlands,SL Kalis,HDJ Siegers,EC Bargna,0,0,,,,,,"",""
+ball,1,0.3,Netherlands,SL Kalis,HDJ Siegers,EC Bargna,1,0,,,,,,"",""
+ball,1,0.4,Netherlands,HDJ Siegers,SL Kalis,EC Bargna,2,0,,,,,,"",""
+ball,1,0.5,Netherlands,HDJ Siegers,SL Kalis,EC Bargna,0,0,,,,,,"",""
+ball,1,0.6,Netherlands,HDJ Siegers,SL Kalis,EC Bargna,0,1,1,,,,,"",""
+ball,1,0.7,Netherlands,HDJ Siegers,SL Kalis,EC Bargna,4,0,,,,,,"",""
+ball,1,1.1,Netherlands,SL Kalis,HDJ Siegers,ST Frohnmayer,4,0,,,,,,"",""
+ball,1,1.2,Netherlands,SL Kalis,HDJ Siegers,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,1.3,Netherlands,SL Kalis,HDJ Siegers,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,1.4,Netherlands,SL Kalis,HDJ Siegers,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,1.5,Netherlands,SL Kalis,HDJ Siegers,ST Frohnmayer,2,0,,,,,,"",""
+ball,1,1.6,Netherlands,SL Kalis,HDJ Siegers,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,2.1,Netherlands,HDJ Siegers,SL Kalis,EC Bargna,4,0,,,,,,"",""
+ball,1,2.2,Netherlands,HDJ Siegers,SL Kalis,EC Bargna,2,0,,,,,,"",""
+ball,1,2.3,Netherlands,HDJ Siegers,SL Kalis,EC Bargna,1,0,,,,,,"",""
+ball,1,2.4,Netherlands,SL Kalis,HDJ Siegers,EC Bargna,4,0,,,,,,"",""
+ball,1,2.5,Netherlands,SL Kalis,HDJ Siegers,EC Bargna,0,1,1,,,,,"",""
+ball,1,2.6,Netherlands,SL Kalis,HDJ Siegers,EC Bargna,2,0,,,,,,"",""
+ball,1,2.7,Netherlands,SL Kalis,HDJ Siegers,EC Bargna,4,0,,,,,,"",""
+ball,1,3.1,Netherlands,HDJ Siegers,SL Kalis,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,3.2,Netherlands,HDJ Siegers,SL Kalis,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,HDJ Siegers,SL Kalis,ST Frohnmayer,0,0,,,,,,bowled,HDJ Siegers
+ball,1,3.4,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,2,0,,,,,,"",""
+ball,1,3.5,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,4,0,,,,,,"",""
+ball,1,3.6,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,4.1,Netherlands,SL Kalis,D van Deventer,AM Healey,0,0,,,,,,"",""
+ball,1,4.2,Netherlands,SL Kalis,D van Deventer,AM Healey,1,0,,,,,,"",""
+ball,1,4.3,Netherlands,D van Deventer,SL Kalis,AM Healey,1,0,,,,,,"",""
+ball,1,4.4,Netherlands,SL Kalis,D van Deventer,AM Healey,2,0,,,,,,"",""
+ball,1,4.5,Netherlands,SL Kalis,D van Deventer,AM Healey,0,0,,,,,,"",""
+ball,1,4.6,Netherlands,SL Kalis,D van Deventer,AM Healey,0,0,,,,,,"",""
+ball,1,5.1,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,5.2,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,2,0,,,,,,"",""
+ball,1,5.3,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,0,1,1,,,,,"",""
+ball,1,5.4,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,1,0,,,,,,"",""
+ball,1,5.5,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,3,0,,,,,,"",""
+ball,1,5.6,Netherlands,D van Deventer,SL Kalis,ST Frohnmayer,1,0,,,,,,"",""
+ball,1,5.7,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,6.1,Netherlands,D van Deventer,SL Kalis,AM Healey,1,0,,,,,,"",""
+ball,1,6.2,Netherlands,SL Kalis,D van Deventer,AM Healey,2,0,,,,,,"",""
+ball,1,6.3,Netherlands,SL Kalis,D van Deventer,AM Healey,0,0,,,,,,"",""
+ball,1,6.4,Netherlands,SL Kalis,D van Deventer,AM Healey,0,1,1,,,,,"",""
+ball,1,6.5,Netherlands,SL Kalis,D van Deventer,AM Healey,1,0,,,,,,"",""
+ball,1,6.6,Netherlands,D van Deventer,SL Kalis,AM Healey,0,0,,,,,,"",""
+ball,1,6.7,Netherlands,D van Deventer,SL Kalis,AM Healey,2,0,,,,,,"",""
+ball,1,7.1,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,6,0,,,,,,"",""
+ball,1,7.2,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,7.3,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,2,0,,,,,,"",""
+ball,1,7.4,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,7.5,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,7.6,Netherlands,SL Kalis,D van Deventer,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,8.1,Netherlands,D van Deventer,SL Kalis,AM Healey,1,0,,,,,,"",""
+ball,1,8.2,Netherlands,SL Kalis,D van Deventer,AM Healey,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,D van Deventer,SL Kalis,AM Healey,0,0,,,,,,"",""
+ball,1,8.4,Netherlands,D van Deventer,SL Kalis,AM Healey,1,0,,,,,,"",""
+ball,1,8.5,Netherlands,SL Kalis,D van Deventer,AM Healey,0,0,,,,,,"",""
+ball,1,8.6,Netherlands,SL Kalis,D van Deventer,AM Healey,1,0,,,,,,"",""
+ball,1,9.1,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,6,0,,,,,,"",""
+ball,1,9.2,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,0,1,1,,,,,"",""
+ball,1,9.3,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,2,0,,,,,,"",""
+ball,1,9.4,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,0,0,,,,,,"",""
+ball,1,9.5,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,2,0,,,,,,"",""
+ball,1,9.6,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,4,0,,,,,,"",""
+ball,1,9.7,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,6,1,,1,,,,"",""
+ball,1,9.8,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,1,0,,,,,,"",""
+ball,1,10.1,Netherlands,SL Kalis,D van Deventer,AM Healey,0,0,,,,,,"",""
+ball,1,10.2,Netherlands,SL Kalis,D van Deventer,AM Healey,1,0,,,,,,"",""
+ball,1,10.3,Netherlands,D van Deventer,SL Kalis,AM Healey,1,0,,,,,,"",""
+ball,1,10.4,Netherlands,SL Kalis,D van Deventer,AM Healey,0,0,,,,,,"",""
+ball,1,10.5,Netherlands,SL Kalis,D van Deventer,AM Healey,1,0,,,,,,"",""
+ball,1,10.6,Netherlands,D van Deventer,SL Kalis,AM Healey,1,0,,,,,,"",""
+ball,1,11.1,Netherlands,D van Deventer,SL Kalis,SR McAnanama-Brereton,4,0,,,,,,"",""
+ball,1,11.2,Netherlands,D van Deventer,SL Kalis,SR McAnanama-Brereton,2,0,,,,,,"",""
+ball,1,11.3,Netherlands,D van Deventer,SL Kalis,SR McAnanama-Brereton,0,1,1,,,,,"",""
+ball,1,11.4,Netherlands,D van Deventer,SL Kalis,SR McAnanama-Brereton,1,0,,,,,,"",""
+ball,1,11.5,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,0,2,2,,,,,"",""
+ball,1,11.6,Netherlands,D van Deventer,SL Kalis,SR McAnanama-Brereton,2,0,,,,,,"",""
+ball,1,11.7,Netherlands,D van Deventer,SL Kalis,SR McAnanama-Brereton,1,0,,,,,,"",""
+ball,1,11.8,Netherlands,SL Kalis,D van Deventer,SR McAnanama-Brereton,1,0,,,,,,"",""
+ball,1,12.1,Netherlands,SL Kalis,D van Deventer,JE Ronalds,0,2,2,,,,,"",""
+ball,1,12.2,Netherlands,D van Deventer,SL Kalis,JE Ronalds,2,0,,,,,,"",""
+ball,1,12.3,Netherlands,D van Deventer,SL Kalis,JE Ronalds,0,1,,1,,,,"",""
+ball,1,12.4,Netherlands,D van Deventer,SL Kalis,JE Ronalds,0,1,,1,,,,"",""
+ball,1,12.5,Netherlands,D van Deventer,SL Kalis,JE Ronalds,1,0,,,,,,"",""
+ball,1,12.6,Netherlands,SL Kalis,D van Deventer,JE Ronalds,1,0,,,,,,"",""
+ball,1,12.7,Netherlands,D van Deventer,SL Kalis,JE Ronalds,0,0,,,,,,"",""
+ball,1,12.8,Netherlands,D van Deventer,SL Kalis,JE Ronalds,1,0,,,,,,"",""
+ball,1,12.9,Netherlands,SL Kalis,D van Deventer,JE Ronalds,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,SL Kalis,D van Deventer,CM Gough,2,0,,,,,,"",""
+ball,1,13.2,Netherlands,SL Kalis,D van Deventer,CM Gough,1,0,,,,,,"",""
+ball,1,13.3,Netherlands,D van Deventer,SL Kalis,CM Gough,1,0,,,,,,"",""
+ball,1,13.4,Netherlands,SL Kalis,D van Deventer,CM Gough,6,0,,,,,,"",""
+ball,1,13.5,Netherlands,SL Kalis,D van Deventer,CM Gough,2,0,,,,,,"",""
+ball,1,13.6,Netherlands,SL Kalis,D van Deventer,CM Gough,1,0,,,,,,"",""
+ball,1,14.1,Netherlands,SL Kalis,D van Deventer,JE Ronalds,1,0,,,,,,"",""
+ball,1,14.2,Netherlands,D van Deventer,SL Kalis,JE Ronalds,1,0,,,,,,"",""
+ball,1,14.3,Netherlands,SL Kalis,D van Deventer,JE Ronalds,2,0,,,,,,"",""
+ball,1,14.4,Netherlands,SL Kalis,D van Deventer,JE Ronalds,4,0,,,,,,"",""
+ball,1,14.5,Netherlands,SL Kalis,D van Deventer,JE Ronalds,1,0,,,,,,"",""
+ball,1,14.6,Netherlands,D van Deventer,SL Kalis,JE Ronalds,1,0,,,,,,"",""
+ball,1,15.1,Netherlands,D van Deventer,SL Kalis,CM Gough,1,0,,,,,,"",""
+ball,1,15.2,Netherlands,SL Kalis,D van Deventer,CM Gough,1,0,,,,,,"",""
+ball,1,15.3,Netherlands,D van Deventer,SL Kalis,CM Gough,2,0,,,,,,"",""
+ball,1,15.4,Netherlands,D van Deventer,SL Kalis,CM Gough,1,0,,,,,,"",""
+ball,1,15.5,Netherlands,SL Kalis,D van Deventer,CM Gough,2,0,,,,,,"",""
+ball,1,15.6,Netherlands,SL Kalis,D van Deventer,CM Gough,1,0,,,,,,"",""
+ball,1,16.1,Netherlands,SL Kalis,D van Deventer,EC Bargna,0,0,,,,,,"",""
+ball,1,16.2,Netherlands,SL Kalis,D van Deventer,EC Bargna,6,0,,,,,,"",""
+ball,1,16.3,Netherlands,SL Kalis,D van Deventer,EC Bargna,2,0,,,,,,"",""
+ball,1,16.4,Netherlands,SL Kalis,D van Deventer,EC Bargna,0,0,,,,,,"",""
+ball,1,16.5,Netherlands,SL Kalis,D van Deventer,EC Bargna,4,0,,,,,,"",""
+ball,1,16.6,Netherlands,SL Kalis,D van Deventer,EC Bargna,1,0,,,,,,"",""
+ball,1,17.1,Netherlands,SL Kalis,D van Deventer,CM Gough,1,0,,,,,,"",""
+ball,1,17.2,Netherlands,D van Deventer,SL Kalis,CM Gough,1,0,,,,,,"",""
+ball,1,17.3,Netherlands,SL Kalis,D van Deventer,CM Gough,0,0,,,,,,"",""
+ball,1,17.4,Netherlands,SL Kalis,D van Deventer,CM Gough,2,0,,,,,,"",""
+ball,1,17.5,Netherlands,SL Kalis,D van Deventer,CM Gough,4,0,,,,,,"",""
+ball,1,17.6,Netherlands,SL Kalis,D van Deventer,CM Gough,4,0,,,,,,"",""
+ball,1,18.1,Netherlands,D van Deventer,SL Kalis,EC Bargna,0,0,,,,,,run out,D van Deventer
+ball,1,18.2,Netherlands,SL Kalis,M Veringmeier,EC Bargna,4,0,,,,,,"",""
+ball,1,18.3,Netherlands,SL Kalis,M Veringmeier,EC Bargna,4,0,,,,,,"",""
+ball,1,18.4,Netherlands,SL Kalis,M Veringmeier,EC Bargna,2,0,,,,,,"",""
+ball,1,18.5,Netherlands,SL Kalis,M Veringmeier,EC Bargna,0,1,1,,,,,"",""
+ball,1,18.6,Netherlands,SL Kalis,M Veringmeier,EC Bargna,2,0,,,,,,"",""
+ball,1,18.7,Netherlands,SL Kalis,M Veringmeier,EC Bargna,0,0,,,,,,"",""
+ball,1,19.1,Netherlands,M Veringmeier,SL Kalis,CM Gough,1,0,,,,,,"",""
+ball,1,19.2,Netherlands,SL Kalis,M Veringmeier,CM Gough,1,0,,,,,,"",""
+ball,1,19.3,Netherlands,M Veringmeier,SL Kalis,CM Gough,0,0,,,,,,bowled,M Veringmeier
+ball,1,19.4,Netherlands,R Rijke,SL Kalis,CM Gough,0,1,,,1,,,"",""
+ball,1,19.5,Netherlands,SL Kalis,R Rijke,CM Gough,2,0,,,,,,"",""
+ball,1,19.6,Netherlands,SL Kalis,R Rijke,CM Gough,0,1,1,,,,,"",""
+ball,1,19.7,Netherlands,SL Kalis,R Rijke,CM Gough,1,0,,,,,,"",""
+ball,2,0.1,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,1,1,,,,,"",""
+ball,2,0.2,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.3,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.4,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.5,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.6,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,1,0,,,,,,"",""
+ball,2,0.7,Germany,ST Frohnmayer,JE Ronalds,IJR Zwilling,0,0,,,,,,"",""
+ball,2,1.1,Germany,JE Ronalds,ST Frohnmayer,HWA Landheer,0,0,,,,,,"",""
+ball,2,1.2,Germany,JE Ronalds,ST Frohnmayer,HWA Landheer,0,1,1,,,,,"",""
+ball,2,1.3,Germany,JE Ronalds,ST Frohnmayer,HWA Landheer,1,0,,,,,,"",""
+ball,2,1.4,Germany,ST Frohnmayer,JE Ronalds,HWA Landheer,0,1,1,,,,,"",""
+ball,2,1.5,Germany,ST Frohnmayer,JE Ronalds,HWA Landheer,1,0,,,,,,"",""
+ball,2,1.6,Germany,JE Ronalds,ST Frohnmayer,HWA Landheer,1,0,,,,,,"",""
+ball,2,1.7,Germany,ST Frohnmayer,JE Ronalds,HWA Landheer,1,0,,,,,,"",""
+ball,2,1.8,Germany,JE Ronalds,ST Frohnmayer,HWA Landheer,0,0,,,,,,"",""
+ball,2,2.1,Germany,ST Frohnmayer,JE Ronalds,IJR Zwilling,1,0,,,,,,"",""
+ball,2,2.2,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,2,2,,,,,"",""
+ball,2,2.3,Germany,ST Frohnmayer,JE Ronalds,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.4,Germany,ST Frohnmayer,JE Ronalds,IJR Zwilling,1,0,,,,,,"",""
+ball,2,2.5,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.6,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,2,0,,,,,,"",""
+ball,2,2.7,Germany,JE Ronalds,ST Frohnmayer,IJR Zwilling,0,0,,,,,,"",""
+ball,2,3.1,Germany,ST Frohnmayer,JE Ronalds,C de Lange,1,0,,,,,,"",""
+ball,2,3.2,Germany,JE Ronalds,ST Frohnmayer,C de Lange,0,0,,,,,,"",""
+ball,2,3.3,Germany,JE Ronalds,ST Frohnmayer,C de Lange,1,0,,,,,,"",""
+ball,2,3.4,Germany,ST Frohnmayer,JE Ronalds,C de Lange,0,0,,,,,,"",""
+ball,2,3.5,Germany,ST Frohnmayer,JE Ronalds,C de Lange,0,0,,,,,,"",""
+ball,2,3.6,Germany,ST Frohnmayer,JE Ronalds,C de Lange,0,1,1,,,,,"",""
+ball,2,3.7,Germany,ST Frohnmayer,JE Ronalds,C de Lange,1,0,,,,,,"",""
+ball,2,4.1,Germany,ST Frohnmayer,JE Ronalds,AS van Beuge,1,0,,,,,,"",""
+ball,2,4.2,Germany,JE Ronalds,ST Frohnmayer,AS van Beuge,0,0,,,,,,"",""
+ball,2,4.3,Germany,JE Ronalds,ST Frohnmayer,AS van Beuge,0,0,,,,,,"",""
+ball,2,4.4,Germany,JE Ronalds,ST Frohnmayer,AS van Beuge,0,0,,,,,,"",""
+ball,2,4.5,Germany,JE Ronalds,ST Frohnmayer,AS van Beuge,0,0,,,,,,caught,JE Ronalds
+ball,2,4.6,Germany,AM Healey,ST Frohnmayer,AS van Beuge,0,0,,,,,,"",""
+ball,2,5.1,Germany,ST Frohnmayer,AM Healey,C de Lange,0,0,,,,,,"",""
+ball,2,5.2,Germany,ST Frohnmayer,AM Healey,C de Lange,0,0,,,,,,"",""
+ball,2,5.3,Germany,ST Frohnmayer,AM Healey,C de Lange,1,0,,,,,,"",""
+ball,2,5.4,Germany,AM Healey,ST Frohnmayer,C de Lange,0,0,,,,,,"",""
+ball,2,5.5,Germany,AM Healey,ST Frohnmayer,C de Lange,4,0,,,,,,"",""
+ball,2,5.6,Germany,AM Healey,ST Frohnmayer,C de Lange,0,0,,,,,,"",""
+ball,2,6.1,Germany,ST Frohnmayer,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,6.2,Germany,ST Frohnmayer,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,6.3,Germany,ST Frohnmayer,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,6.4,Germany,ST Frohnmayer,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,6.5,Germany,ST Frohnmayer,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,6.6,Germany,ST Frohnmayer,AM Healey,AS van Beuge,0,0,,,,,,stumped,ST Frohnmayer
+ball,2,7.1,Germany,AM Healey,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,7.2,Germany,AM Healey,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,7.3,Germany,AM Healey,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,7.4,Germany,AM Healey,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,7.5,Germany,AM Healey,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,7.6,Germany,AM Healey,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,8.1,Germany,CM Gough,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,8.2,Germany,CM Gough,AM Healey,AS van Beuge,0,1,1,,,,,"",""
+ball,2,8.3,Germany,CM Gough,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,8.4,Germany,CM Gough,AM Healey,AS van Beuge,0,0,,,,,,"",""
+ball,2,8.5,Germany,CM Gough,AM Healey,AS van Beuge,0,0,,,,,,run out,AM Healey
+ball,2,8.6,Germany,K Vijayaraghavan,CM Gough,AS van Beuge,0,0,,,,,,"",""
+ball,2,8.7,Germany,K Vijayaraghavan,CM Gough,AS van Beuge,0,0,,,,,,"",""
+ball,2,9.1,Germany,CM Gough,K Vijayaraghavan,SL Kalis,1,0,,,,,,"",""
+ball,2,9.2,Germany,K Vijayaraghavan,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,9.3,Germany,K Vijayaraghavan,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,9.4,Germany,K Vijayaraghavan,CM Gough,SL Kalis,0,0,,,,,,caught,K Vijayaraghavan
+ball,2,9.5,Germany,PA Wadenpohl,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,9.6,Germany,PA Wadenpohl,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,10.1,Germany,CM Gough,PA Wadenpohl,AS van Beuge,0,0,,,,,,"",""
+ball,2,10.2,Germany,CM Gough,PA Wadenpohl,AS van Beuge,0,0,,,,,,"",""
+ball,2,10.3,Germany,CM Gough,PA Wadenpohl,AS van Beuge,0,0,,,,,,"",""
+ball,2,10.4,Germany,CM Gough,PA Wadenpohl,AS van Beuge,1,0,,,,,,"",""
+ball,2,10.5,Germany,PA Wadenpohl,CM Gough,AS van Beuge,0,0,,,,,,"",""
+ball,2,10.6,Germany,PA Wadenpohl,CM Gough,AS van Beuge,0,1,1,,,,,"",""
+ball,2,10.7,Germany,PA Wadenpohl,CM Gough,AS van Beuge,0,0,,,,,,"",""
+ball,2,11.1,Germany,CM Gough,PA Wadenpohl,SL Kalis,1,0,,,,,,"",""
+ball,2,11.2,Germany,PA Wadenpohl,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,11.3,Germany,PA Wadenpohl,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,11.4,Germany,PA Wadenpohl,CM Gough,SL Kalis,0,0,,,,,,"",""
+ball,2,11.5,Germany,PA Wadenpohl,CM Gough,SL Kalis,1,0,,,,,,"",""
+ball,2,11.6,Germany,CM Gough,PA Wadenpohl,SL Kalis,1,0,,,,,,"",""
+ball,2,12.1,Germany,CM Gough,PA Wadenpohl,HWA Landheer,0,0,,,,,,"",""
+ball,2,12.2,Germany,CM Gough,PA Wadenpohl,HWA Landheer,2,0,,,,,,"",""
+ball,2,12.3,Germany,CM Gough,PA Wadenpohl,HWA Landheer,0,0,,,,,,"",""
+ball,2,12.4,Germany,CM Gough,PA Wadenpohl,HWA Landheer,0,0,,,,,,"",""
+ball,2,12.5,Germany,CM Gough,PA Wadenpohl,HWA Landheer,1,0,,,,,,"",""
+ball,2,12.6,Germany,PA Wadenpohl,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,13.1,Germany,CM Gough,PA Wadenpohl,SL Kalis,0,0,,,,,,"",""
+ball,2,13.2,Germany,CM Gough,PA Wadenpohl,SL Kalis,1,0,,,,,,"",""
+ball,2,13.3,Germany,PA Wadenpohl,CM Gough,SL Kalis,1,0,,,,,,"",""
+ball,2,13.4,Germany,CM Gough,PA Wadenpohl,SL Kalis,1,0,,,,,,"",""
+ball,2,13.5,Germany,PA Wadenpohl,CM Gough,SL Kalis,0,1,1,,,,,"",""
+ball,2,13.6,Germany,PA Wadenpohl,CM Gough,SL Kalis,0,0,,,,,,bowled,PA Wadenpohl
+ball,2,13.7,Germany,A Bierwisch,CM Gough,SL Kalis,0,1,,1,,,,"",""
+ball,2,13.8,Germany,A Bierwisch,CM Gough,SL Kalis,0,1,1,,,,,"",""
+ball,2,13.9,Germany,A Bierwisch,CM Gough,SL Kalis,1,0,,,,,,"",""
+ball,2,14.1,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,14.2,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,14.3,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,14.4,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,14.5,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,14.6,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,15.1,Germany,CM Gough,A Bierwisch,C de Lange,4,0,,,,,,"",""
+ball,2,15.2,Germany,CM Gough,A Bierwisch,C de Lange,1,0,,,,,,"",""
+ball,2,15.3,Germany,A Bierwisch,CM Gough,C de Lange,0,0,,,,,,"",""
+ball,2,15.4,Germany,A Bierwisch,CM Gough,C de Lange,0,0,,,,,,"",""
+ball,2,15.5,Germany,A Bierwisch,CM Gough,C de Lange,1,0,,,,,,"",""
+ball,2,15.6,Germany,CM Gough,A Bierwisch,C de Lange,1,0,,,,,,"",""
+ball,2,16.1,Germany,CM Gough,A Bierwisch,HWA Landheer,0,1,1,,,,,"",""
+ball,2,16.2,Germany,CM Gough,A Bierwisch,HWA Landheer,1,0,,,,,,"",""
+ball,2,16.3,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,16.4,Germany,A Bierwisch,CM Gough,HWA Landheer,0,1,1,,,,,"",""
+ball,2,16.5,Germany,A Bierwisch,CM Gough,HWA Landheer,0,1,1,,,,,"",""
+ball,2,16.6,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,16.7,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,16.8,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,16.9,Germany,A Bierwisch,CM Gough,HWA Landheer,0,0,,,,,,"",""
+ball,2,17.1,Germany,CM Gough,A Bierwisch,IJR Zwilling,0,0,,,,,,"",""
+ball,2,17.2,Germany,CM Gough,A Bierwisch,IJR Zwilling,0,0,,,,,,"",""
+ball,2,17.3,Germany,CM Gough,A Bierwisch,IJR Zwilling,2,0,,,,,,"",""
+ball,2,17.4,Germany,CM Gough,A Bierwisch,IJR Zwilling,0,0,,,,,,"",""
+ball,2,17.5,Germany,CM Gough,A Bierwisch,IJR Zwilling,0,0,,,,,,"",""
+ball,2,17.6,Germany,CM Gough,A Bierwisch,IJR Zwilling,1,0,,,,,,"",""
+ball,2,18.1,Germany,CM Gough,A Bierwisch,C de Lange,1,0,,,,,,"",""
+ball,2,18.2,Germany,A Bierwisch,CM Gough,C de Lange,0,2,2,,,,,"",""
+ball,2,18.3,Germany,CM Gough,A Bierwisch,C de Lange,1,0,,,,,,"",""
+ball,2,18.4,Germany,A Bierwisch,CM Gough,C de Lange,1,0,,,,,,"",""
+ball,2,18.5,Germany,CM Gough,A Bierwisch,C de Lange,1,0,,,,,,"",""
+ball,2,18.6,Germany,A Bierwisch,CM Gough,C de Lange,0,0,,,,,,"",""
+ball,2,18.7,Germany,A Bierwisch,CM Gough,C de Lange,0,0,,,,,,"",""
+ball,2,19.1,Germany,CM Gough,A Bierwisch,IJR Zwilling,0,0,,,,,,bowled,CM Gough
+ball,2,19.2,Germany,V Stolle,A Bierwisch,IJR Zwilling,1,0,,,,,,"",""
+ball,2,19.3,Germany,A Bierwisch,V Stolle,IJR Zwilling,1,0,,,,,,"",""
+ball,2,19.4,Germany,V Stolle,A Bierwisch,IJR Zwilling,0,0,,,,,,"",""
+ball,2,19.5,Germany,V Stolle,A Bierwisch,IJR Zwilling,2,0,,,,,,"",""
+ball,2,19.6,Germany,V Stolle,A Bierwisch,IJR Zwilling,0,0,,,,,,lbw,V Stolle

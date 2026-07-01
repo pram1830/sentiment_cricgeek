@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Bangladesh
+info,gender,male
+info,season,2021/22
+info,date,2021/10/29
+info,event,ICC Men's T20 World Cup
+info,match_number,23
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,N Pooran
+info,umpire,AT Holdstock
+info,umpire,RJ Tucker
+info,reserve_umpire,M Erasmus
+info,tv_umpire,PR Reiffel
+info,match_referee,RS Madugalle
+info,winner,West Indies
+info,winner_runs,3
+info,player,West Indies,CH Gayle
+info,player,West Indies,E Lewis
+info,player,West Indies,RL Chase
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,KA Pollard
+info,player,West Indies,AD Russell
+info,player,West Indies,N Pooran
+info,player,West Indies,DJ Bravo
+info,player,West Indies,JO Holder
+info,player,West Indies,AJ Hosein
+info,player,West Indies,R Rampaul
+info,player,Bangladesh,Mohammad Naim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Afif Hossain,37138918
+info,registry,people,CH Gayle,db584dad
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taskin Ahmed,ef18b66e
+ball,1,0.1,West Indies,CH Gayle,E Lewis,Mahedi Hasan,0,1,1,,,,,"",""
+ball,1,0.2,West Indies,CH Gayle,E Lewis,Mahedi Hasan,0,0,,,,,,"",""
+ball,1,0.3,West Indies,CH Gayle,E Lewis,Mahedi Hasan,0,0,,,,,,"",""
+ball,1,0.4,West Indies,CH Gayle,E Lewis,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,0.5,West Indies,E Lewis,CH Gayle,Mahedi Hasan,0,0,,,,,,"",""
+ball,1,0.6,West Indies,E Lewis,CH Gayle,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,0.7,West Indies,CH Gayle,E Lewis,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,1.1,West Indies,CH Gayle,E Lewis,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.2,West Indies,CH Gayle,E Lewis,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,1.3,West Indies,E Lewis,CH Gayle,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.4,West Indies,E Lewis,CH Gayle,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.5,West Indies,E Lewis,CH Gayle,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,1.6,West Indies,E Lewis,CH Gayle,Taskin Ahmed,4,0,,,,,,"",""
+ball,1,2.1,West Indies,CH Gayle,E Lewis,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,2.2,West Indies,CH Gayle,E Lewis,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,2.3,West Indies,E Lewis,CH Gayle,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,2.4,West Indies,CH Gayle,E Lewis,Mustafizur Rahman,0,1,,,,1,,"",""
+ball,1,2.5,West Indies,E Lewis,CH Gayle,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,2.6,West Indies,E Lewis,CH Gayle,Mustafizur Rahman,0,0,,,,,,caught,E Lewis
+ball,1,3.1,West Indies,RL Chase,CH Gayle,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,3.2,West Indies,RL Chase,CH Gayle,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,3.3,West Indies,RL Chase,CH Gayle,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.4,West Indies,RL Chase,CH Gayle,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.5,West Indies,RL Chase,CH Gayle,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.6,West Indies,RL Chase,CH Gayle,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,4.1,West Indies,RL Chase,CH Gayle,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,4.2,West Indies,CH Gayle,RL Chase,Mahedi Hasan,0,0,,,,,,bowled,CH Gayle
+ball,1,4.3,West Indies,SO Hetmyer,RL Chase,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,4.4,West Indies,RL Chase,SO Hetmyer,Mahedi Hasan,0,0,,,,,,"",""
+ball,1,4.5,West Indies,RL Chase,SO Hetmyer,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,4.6,West Indies,SO Hetmyer,RL Chase,Mahedi Hasan,0,1,,,,1,,"",""
+ball,1,5.1,West Indies,SO Hetmyer,RL Chase,Shoriful Islam,4,0,,,,,,"",""
+ball,1,5.2,West Indies,SO Hetmyer,RL Chase,Shoriful Islam,1,0,,,,,,"",""
+ball,1,5.3,West Indies,RL Chase,SO Hetmyer,Shoriful Islam,0,0,,,,,,"",""
+ball,1,5.4,West Indies,RL Chase,SO Hetmyer,Shoriful Islam,0,0,,,,,,"",""
+ball,1,5.5,West Indies,RL Chase,SO Hetmyer,Shoriful Islam,1,0,,,,,,"",""
+ball,1,5.6,West Indies,SO Hetmyer,RL Chase,Shoriful Islam,2,0,,,,,,"",""
+ball,1,6.1,West Indies,RL Chase,SO Hetmyer,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,6.2,West Indies,SO Hetmyer,RL Chase,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,6.3,West Indies,RL Chase,SO Hetmyer,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,6.4,West Indies,SO Hetmyer,RL Chase,Mahedi Hasan,0,0,,,,,,caught,SO Hetmyer
+ball,1,6.5,West Indies,RL Chase,KA Pollard,Mahedi Hasan,0,0,,,,,,"",""
+ball,1,6.6,West Indies,RL Chase,KA Pollard,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,7.1,West Indies,RL Chase,KA Pollard,Taskin Ahmed,0,1,,,,1,,"",""
+ball,1,7.2,West Indies,KA Pollard,RL Chase,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,7.3,West Indies,KA Pollard,RL Chase,Taskin Ahmed,0,1,,,1,,,"",""
+ball,1,7.4,West Indies,RL Chase,KA Pollard,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,7.5,West Indies,RL Chase,KA Pollard,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,7.6,West Indies,KA Pollard,RL Chase,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,8.1,West Indies,KA Pollard,RL Chase,Shoriful Islam,1,0,,,,,,"",""
+ball,1,8.2,West Indies,RL Chase,KA Pollard,Shoriful Islam,2,0,,,,,,"",""
+ball,1,8.3,West Indies,RL Chase,KA Pollard,Shoriful Islam,0,0,,,,,,"",""
+ball,1,8.4,West Indies,RL Chase,KA Pollard,Shoriful Islam,0,0,,,,,,"",""
+ball,1,8.5,West Indies,RL Chase,KA Pollard,Shoriful Islam,1,0,,,,,,"",""
+ball,1,8.6,West Indies,KA Pollard,RL Chase,Shoriful Islam,0,1,1,,,,,"",""
+ball,1,8.7,West Indies,KA Pollard,RL Chase,Shoriful Islam,0,0,,,,,,"",""
+ball,1,9.1,West Indies,RL Chase,KA Pollard,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,9.2,West Indies,KA Pollard,RL Chase,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,9.3,West Indies,KA Pollard,RL Chase,Shakib Al Hasan,0,1,,,,1,,"",""
+ball,1,9.4,West Indies,RL Chase,KA Pollard,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,9.5,West Indies,KA Pollard,RL Chase,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,9.6,West Indies,RL Chase,KA Pollard,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,10.1,West Indies,KA Pollard,RL Chase,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,10.2,West Indies,RL Chase,KA Pollard,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,10.3,West Indies,RL Chase,KA Pollard,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,10.4,West Indies,RL Chase,KA Pollard,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,10.5,West Indies,RL Chase,KA Pollard,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,10.6,West Indies,KA Pollard,RL Chase,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,10.7,West Indies,RL Chase,KA Pollard,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,11.1,West Indies,KA Pollard,RL Chase,Shakib Al Hasan,0,1,,,,1,,"",""
+ball,1,11.2,West Indies,RL Chase,KA Pollard,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.3,West Indies,KA Pollard,RL Chase,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.4,West Indies,RL Chase,KA Pollard,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.5,West Indies,KA Pollard,RL Chase,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.6,West Indies,RL Chase,KA Pollard,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,12.1,West Indies,KA Pollard,RL Chase,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,12.2,West Indies,KA Pollard,RL Chase,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,12.3,West Indies,KA Pollard,RL Chase,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,12.4,West Indies,RL Chase,AD Russell,Taskin Ahmed,0,0,,,,,,run out,AD Russell
+ball,1,12.5,West Indies,RL Chase,N Pooran,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,12.6,West Indies,N Pooran,RL Chase,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,13.1,West Indies,N Pooran,RL Chase,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.2,West Indies,RL Chase,N Pooran,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.3,West Indies,N Pooran,RL Chase,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,13.4,West Indies,N Pooran,RL Chase,Shakib Al Hasan,0,1,1,,,,,"",""
+ball,1,13.5,West Indies,N Pooran,RL Chase,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.6,West Indies,RL Chase,N Pooran,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.7,West Indies,N Pooran,RL Chase,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,14.1,West Indies,N Pooran,RL Chase,Mustafizur Rahman,2,0,,,,,,"",""
+ball,1,14.2,West Indies,N Pooran,RL Chase,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,14.3,West Indies,RL Chase,N Pooran,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,14.4,West Indies,RL Chase,N Pooran,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,14.5,West Indies,N Pooran,RL Chase,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,1,14.6,West Indies,N Pooran,RL Chase,Mustafizur Rahman,4,0,,,,,,"",""
+ball,1,14.7,West Indies,N Pooran,RL Chase,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,15.1,West Indies,N Pooran,RL Chase,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,15.2,West Indies,N Pooran,RL Chase,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,15.3,West Indies,N Pooran,RL Chase,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,15.4,West Indies,RL Chase,N Pooran,Shakib Al Hasan,0,1,1,,,,,"",""
+ball,1,15.5,West Indies,RL Chase,N Pooran,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,15.6,West Indies,RL Chase,N Pooran,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,15.7,West Indies,N Pooran,RL Chase,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,16.1,West Indies,RL Chase,N Pooran,Shoriful Islam,1,0,,,,,,"",""
+ball,1,16.2,West Indies,N Pooran,RL Chase,Shoriful Islam,0,0,,,,,,"",""
+ball,1,16.3,West Indies,N Pooran,RL Chase,Shoriful Islam,0,0,,,,,,"",""
+ball,1,16.4,West Indies,N Pooran,RL Chase,Shoriful Islam,1,0,,,,,,"",""
+ball,1,16.5,West Indies,RL Chase,N Pooran,Shoriful Islam,0,0,,,,,,"",""
+ball,1,16.6,West Indies,RL Chase,N Pooran,Shoriful Islam,2,0,,,,,,"",""
+ball,1,17.1,West Indies,N Pooran,RL Chase,Mahedi Hasan,6,0,,,,,,"",""
+ball,1,17.2,West Indies,N Pooran,RL Chase,Mahedi Hasan,0,1,1,,,,,"",""
+ball,1,17.3,West Indies,N Pooran,RL Chase,Mahedi Hasan,0,0,,,,,,"",""
+ball,1,17.4,West Indies,N Pooran,RL Chase,Mahedi Hasan,6,0,,,,,,"",""
+ball,1,17.5,West Indies,N Pooran,RL Chase,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,17.6,West Indies,RL Chase,N Pooran,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,17.7,West Indies,N Pooran,RL Chase,Mahedi Hasan,1,0,,,,,,"",""
+ball,1,18.1,West Indies,N Pooran,RL Chase,Shoriful Islam,0,0,,,,,,caught,N Pooran
+ball,1,18.2,West Indies,RL Chase,DJ Bravo,Shoriful Islam,0,0,,,,,,bowled,RL Chase
+ball,1,18.3,West Indies,JO Holder,DJ Bravo,Shoriful Islam,1,0,,,,,,"",""
+ball,1,18.4,West Indies,DJ Bravo,JO Holder,Shoriful Islam,1,0,,,,,,"",""
+ball,1,18.5,West Indies,JO Holder,DJ Bravo,Shoriful Islam,1,0,,,,,,"",""
+ball,1,18.6,West Indies,DJ Bravo,JO Holder,Shoriful Islam,0,1,,,,1,,"",""
+ball,1,19.1,West Indies,DJ Bravo,JO Holder,Mustafizur Rahman,0,0,,,,,,caught,DJ Bravo
+ball,1,19.2,West Indies,JO Holder,KA Pollard,Mustafizur Rahman,6,0,,,,,,"",""
+ball,1,19.3,West Indies,JO Holder,KA Pollard,Mustafizur Rahman,6,0,,,,,,"",""
+ball,1,19.4,West Indies,JO Holder,KA Pollard,Mustafizur Rahman,1,0,,,,,,"",""
+ball,1,19.5,West Indies,KA Pollard,JO Holder,Mustafizur Rahman,0,0,,,,,,"",""
+ball,1,19.6,West Indies,KA Pollard,JO Holder,Mustafizur Rahman,6,0,,,,,,"",""
+ball,2,0.1,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,0,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,1,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Shakib Al Hasan,Mohammad Naim,R Rampaul,1,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,1,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Shakib Al Hasan,Mohammad Naim,R Rampaul,1,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,0,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,0,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,0,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,0,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,4,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,1,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Mohammad Naim,Shakib Al Hasan,JO Holder,1,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,4,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,0,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,0,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,1,0,,,,,,"",""
+ball,2,2.5,Bangladesh,Shakib Al Hasan,Mohammad Naim,R Rampaul,1,0,,,,,,"",""
+ball,2,2.6,Bangladesh,Mohammad Naim,Shakib Al Hasan,R Rampaul,1,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Mohammad Naim,Shakib Al Hasan,JO Holder,1,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,1,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Mohammad Naim,Shakib Al Hasan,JO Holder,0,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Mohammad Naim,Shakib Al Hasan,JO Holder,1,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,0,0,,,,,,"",""
+ball,2,3.6,Bangladesh,Shakib Al Hasan,Mohammad Naim,JO Holder,0,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Mohammad Naim,Shakib Al Hasan,AD Russell,0,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Mohammad Naim,Shakib Al Hasan,AD Russell,1,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Shakib Al Hasan,Mohammad Naim,AD Russell,0,0,,,,,,caught,Shakib Al Hasan
+ball,2,4.4,Bangladesh,Liton Das,Mohammad Naim,AD Russell,1,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Mohammad Naim,Liton Das,AD Russell,4,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Mohammad Naim,Liton Das,AD Russell,0,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Liton Das,Mohammad Naim,JO Holder,0,1,,,,1,,"",""
+ball,2,5.2,Bangladesh,Mohammad Naim,Liton Das,JO Holder,1,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Liton Das,Mohammad Naim,JO Holder,1,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Mohammad Naim,Liton Das,JO Holder,0,0,,,,,,bowled,Mohammad Naim
+ball,2,5.5,Bangladesh,Soumya Sarkar,Liton Das,JO Holder,0,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Soumya Sarkar,Liton Das,JO Holder,0,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Soumya Sarkar,Liton Das,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Soumya Sarkar,Liton Das,AJ Hosein,0,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Soumya Sarkar,Liton Das,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,1,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Liton Das,Soumya Sarkar,AD Russell,1,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Soumya Sarkar,Liton Das,AD Russell,1,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Liton Das,Soumya Sarkar,AD Russell,0,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Liton Das,Soumya Sarkar,AD Russell,1,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Soumya Sarkar,Liton Das,AD Russell,4,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Soumya Sarkar,Liton Das,AD Russell,2,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,0,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,1,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Soumya Sarkar,Liton Das,AJ Hosein,1,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,0,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,0,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,1,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Liton Das,Soumya Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,9.2,Bangladesh,Liton Das,Soumya Sarkar,DJ Bravo,1,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Soumya Sarkar,Liton Das,DJ Bravo,1,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Liton Das,Soumya Sarkar,DJ Bravo,4,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Liton Das,Soumya Sarkar,DJ Bravo,1,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Soumya Sarkar,Liton Das,DJ Bravo,2,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,0,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Liton Das,Soumya Sarkar,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Soumya Sarkar,Liton Das,AJ Hosein,4,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Soumya Sarkar,Liton Das,AJ Hosein,0,0,,,,,,caught,Soumya Sarkar
+ball,2,10.5,Bangladesh,Liton Das,Mushfiqur Rahim,AJ Hosein,4,0,,,,,,"",""
+ball,2,10.6,Bangladesh,Liton Das,Mushfiqur Rahim,AJ Hosein,1,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Liton Das,Mushfiqur Rahim,DJ Bravo,0,5,5,,,,,"",""
+ball,2,11.2,Bangladesh,Liton Das,Mushfiqur Rahim,DJ Bravo,4,0,,,,,,"",""
+ball,2,11.3,Bangladesh,Liton Das,Mushfiqur Rahim,DJ Bravo,0,1,1,,,,,"",""
+ball,2,11.4,Bangladesh,Liton Das,Mushfiqur Rahim,DJ Bravo,0,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Liton Das,Mushfiqur Rahim,DJ Bravo,1,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Mushfiqur Rahim,Liton Das,DJ Bravo,1,0,,,,,,"",""
+ball,2,11.7,Bangladesh,Liton Das,Mushfiqur Rahim,DJ Bravo,2,0,,,,,,"",""
+ball,2,11.8,Bangladesh,Liton Das,Mushfiqur Rahim,DJ Bravo,1,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Liton Das,Mushfiqur Rahim,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Mushfiqur Rahim,Liton Das,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Liton Das,Mushfiqur Rahim,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Mushfiqur Rahim,Liton Das,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Liton Das,Mushfiqur Rahim,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.6,Bangladesh,Mushfiqur Rahim,Liton Das,AJ Hosein,1,0,,,,,,"",""
+ball,2,13.1,Bangladesh,Mushfiqur Rahim,Liton Das,R Rampaul,4,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Mushfiqur Rahim,Liton Das,R Rampaul,0,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Mushfiqur Rahim,Liton Das,R Rampaul,0,0,,,,,,bowled,Mushfiqur Rahim
+ball,2,13.4,Bangladesh,Mahmudullah,Liton Das,R Rampaul,1,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Liton Das,Mahmudullah,R Rampaul,1,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Mahmudullah,Liton Das,R Rampaul,1,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Mahmudullah,Liton Das,AD Russell,0,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Mahmudullah,Liton Das,AD Russell,1,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Liton Das,Mahmudullah,AD Russell,1,0,,,,,,"",""
+ball,2,14.4,Bangladesh,Mahmudullah,Liton Das,AD Russell,0,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Mahmudullah,Liton Das,AD Russell,4,0,,,,,,"",""
+ball,2,14.6,Bangladesh,Mahmudullah,Liton Das,AD Russell,0,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Liton Das,Mahmudullah,JO Holder,1,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Mahmudullah,Liton Das,JO Holder,1,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Liton Das,Mahmudullah,JO Holder,1,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Mahmudullah,Liton Das,JO Holder,0,1,1,,,,,"",""
+ball,2,15.5,Bangladesh,Mahmudullah,Liton Das,JO Holder,0,1,1,,,,,"",""
+ball,2,15.6,Bangladesh,Mahmudullah,Liton Das,JO Holder,2,0,,,,,,"",""
+ball,2,15.7,Bangladesh,Mahmudullah,Liton Das,JO Holder,4,0,,,,,,"",""
+ball,2,15.8,Bangladesh,Mahmudullah,Liton Das,JO Holder,0,0,,,,,,"",""
+ball,2,16.1,Bangladesh,Liton Das,Mahmudullah,DJ Bravo,0,0,,,,,,"",""
+ball,2,16.2,Bangladesh,Liton Das,Mahmudullah,DJ Bravo,0,0,,,,,,"",""
+ball,2,16.3,Bangladesh,Liton Das,Mahmudullah,DJ Bravo,1,0,,,,,,"",""
+ball,2,16.4,Bangladesh,Mahmudullah,Liton Das,DJ Bravo,0,0,,,,,,"",""
+ball,2,16.5,Bangladesh,Mahmudullah,Liton Das,DJ Bravo,2,0,,,,,,"",""
+ball,2,16.6,Bangladesh,Mahmudullah,Liton Das,DJ Bravo,0,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Liton Das,Mahmudullah,R Rampaul,4,0,,,,,,"",""
+ball,2,17.2,Bangladesh,Liton Das,Mahmudullah,R Rampaul,1,0,,,,,,"",""
+ball,2,17.3,Bangladesh,Mahmudullah,Liton Das,R Rampaul,1,0,,,,,,"",""
+ball,2,17.4,Bangladesh,Liton Das,Mahmudullah,R Rampaul,1,0,,,,,,"",""
+ball,2,17.5,Bangladesh,Mahmudullah,Liton Das,R Rampaul,0,1,,,1,,,"",""
+ball,2,17.6,Bangladesh,Liton Das,Mahmudullah,R Rampaul,0,0,,,,,,"",""
+ball,2,18.1,Bangladesh,Mahmudullah,Liton Das,DJ Bravo,6,0,,,,,,"",""
+ball,2,18.2,Bangladesh,Mahmudullah,Liton Das,DJ Bravo,0,0,,,,,,"",""
+ball,2,18.3,Bangladesh,Mahmudullah,Liton Das,DJ Bravo,1,0,,,,,,"",""
+ball,2,18.4,Bangladesh,Liton Das,Mahmudullah,DJ Bravo,1,0,,,,,,"",""
+ball,2,18.5,Bangladesh,Mahmudullah,Liton Das,DJ Bravo,1,0,,,,,,"",""
+ball,2,18.6,Bangladesh,Liton Das,Mahmudullah,DJ Bravo,0,0,,,,,,caught,Liton Das
+ball,2,19.1,Bangladesh,Afif Hossain,Mahmudullah,AD Russell,2,0,,,,,,"",""
+ball,2,19.2,Bangladesh,Afif Hossain,Mahmudullah,AD Russell,0,1,,,1,,,"",""
+ball,2,19.3,Bangladesh,Mahmudullah,Afif Hossain,AD Russell,2,0,,,,,,"",""
+ball,2,19.4,Bangladesh,Mahmudullah,Afif Hossain,AD Russell,2,0,,,,,,"",""
+ball,2,19.5,Bangladesh,Mahmudullah,Afif Hossain,AD Russell,2,0,,,,,,"",""
+ball,2,19.6,Bangladesh,Mahmudullah,Afif Hossain,AD Russell,0,0,,,,,,"",""

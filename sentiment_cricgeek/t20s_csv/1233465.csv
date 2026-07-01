@@ -1,0 +1,287 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Pakistan
+info,gender,male
+info,season,2020/21
+info,date,2020/11/08
+info,event,Zimbabwe tour of Pakistan
+info,match_number,2
+info,venue,Rawalpindi Cricket Stadium
+info,city,
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Haider Ali
+info,umpire,Ahsan Raza
+info,umpire,Rashid Riaz
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,Aleem Dar
+info,match_referee,Muhammad Javed
+info,winner,Pakistan
+info,winner_wickets,8
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,CJ Chibhabha
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,E Chigumbura
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,TS Chisoro
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Haider Ali
+info,player,Pakistan,Khushdil Shah
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Wahab Riaz
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Mohammad Hasnain
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Usman Qadir
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CJ Chibhabha,f32dbc84
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TS Chisoro,4b2d6789
+info,registry,people,Usman Qadir,33742f04
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,Wahab Riaz,b3118300
+ball,1,0.1,Zimbabwe,BRM Taylor,CJ Chibhabha,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,0.2,Zimbabwe,BRM Taylor,CJ Chibhabha,Mohammad Hasnain,2,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,BRM Taylor,CJ Chibhabha,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,BRM Taylor,CJ Chibhabha,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,CJ Chibhabha,BRM Taylor,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,BRM Taylor,CJ Chibhabha,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,CJ Chibhabha,BRM Taylor,Haris Rauf,0,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,CJ Chibhabha,BRM Taylor,Haris Rauf,1,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,BRM Taylor,CJ Chibhabha,Haris Rauf,0,0,,,,,,caught,BRM Taylor
+ball,1,1.4,Zimbabwe,SC Williams,CJ Chibhabha,Haris Rauf,1,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,CJ Chibhabha,SC Williams,Haris Rauf,4,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,CJ Chibhabha,SC Williams,Haris Rauf,0,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,SC Williams,CJ Chibhabha,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,CJ Chibhabha,SC Williams,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,CJ Chibhabha,SC Williams,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,SC Williams,CJ Chibhabha,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,SC Williams,CJ Chibhabha,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,CJ Chibhabha,SC Williams,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,SC Williams,CJ Chibhabha,Haris Rauf,4,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,SC Williams,CJ Chibhabha,Haris Rauf,0,1,,,,1,,"",""
+ball,1,3.3,Zimbabwe,CJ Chibhabha,SC Williams,Haris Rauf,0,0,,,,,,caught,CJ Chibhabha
+ball,1,3.4,Zimbabwe,W Madhevere,SC Williams,Haris Rauf,4,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,W Madhevere,SC Williams,Haris Rauf,1,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,SC Williams,W Madhevere,Haris Rauf,1,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,SC Williams,W Madhevere,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,W Madhevere,SC Williams,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,W Madhevere,SC Williams,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,SC Williams,W Madhevere,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,SC Williams,W Madhevere,Faheem Ashraf,0,0,,,,,,bowled,SC Williams
+ball,1,4.6,Zimbabwe,Sikandar Raza,W Madhevere,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,0,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,4,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,1,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,Sikandar Raza,W Madhevere,Wahab Riaz,1,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,0,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,1,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,W Madhevere,Sikandar Raza,Faheem Ashraf,4,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,W Madhevere,Sikandar Raza,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,Sikandar Raza,W Madhevere,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,W Madhevere,Sikandar Raza,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,Sikandar Raza,W Madhevere,Faheem Ashraf,0,1,1,,,,,"",""
+ball,1,6.6,Zimbabwe,Sikandar Raza,W Madhevere,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,6.7,Zimbabwe,Sikandar Raza,W Madhevere,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,W Madhevere,Sikandar Raza,Usman Qadir,6,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,W Madhevere,Sikandar Raza,Usman Qadir,0,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,W Madhevere,Sikandar Raza,Usman Qadir,0,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,W Madhevere,Sikandar Raza,Usman Qadir,0,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,W Madhevere,Sikandar Raza,Usman Qadir,0,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,W Madhevere,Sikandar Raza,Usman Qadir,0,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,Sikandar Raza,W Madhevere,Wahab Riaz,0,1,1,,,,,"",""
+ball,1,8.2,Zimbabwe,Sikandar Raza,W Madhevere,Wahab Riaz,0,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,Sikandar Raza,W Madhevere,Wahab Riaz,4,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,Sikandar Raza,W Madhevere,Wahab Riaz,1,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,0,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,0,0,,,,,,"",""
+ball,1,8.7,Zimbabwe,W Madhevere,Sikandar Raza,Wahab Riaz,0,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,Sikandar Raza,W Madhevere,Usman Qadir,0,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,Sikandar Raza,W Madhevere,Usman Qadir,0,0,,,,,,bowled,Sikandar Raza
+ball,1,9.3,Zimbabwe,RP Burl,W Madhevere,Usman Qadir,1,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,W Madhevere,RP Burl,Usman Qadir,0,0,,,,,,lbw,W Madhevere
+ball,1,9.5,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,0,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,0,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,RP Burl,E Chigumbura,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,E Chigumbura,RP Burl,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,10.3,Zimbabwe,RP Burl,E Chigumbura,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,E Chigumbura,RP Burl,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,E Chigumbura,RP Burl,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,E Chigumbura,RP Burl,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,2,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,0,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,1,0,,,,,,"",""
+ball,1,11.4,Zimbabwe,RP Burl,E Chigumbura,Usman Qadir,1,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,0,0,,,,,,"",""
+ball,1,11.6,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,0,0,,,,,,"",""
+ball,1,12.1,Zimbabwe,RP Burl,E Chigumbura,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,RP Burl,E Chigumbura,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,E Chigumbura,RP Burl,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,E Chigumbura,RP Burl,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,12.5,Zimbabwe,RP Burl,E Chigumbura,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,E Chigumbura,RP Burl,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,13.1,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,1,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,RP Burl,E Chigumbura,Usman Qadir,1,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,6,0,,,,,,"",""
+ball,1,13.4,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,4,0,,,,,,"",""
+ball,1,13.5,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,0,0,,,,,,"",""
+ball,1,13.6,Zimbabwe,E Chigumbura,RP Burl,Usman Qadir,0,0,,,,,,stumped,E Chigumbura
+ball,1,14.1,Zimbabwe,RP Burl,DT Tiripano,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,14.2,Zimbabwe,DT Tiripano,RP Burl,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,14.3,Zimbabwe,DT Tiripano,RP Burl,Faheem Ashraf,0,0,,,,,,"",""
+ball,1,14.4,Zimbabwe,DT Tiripano,RP Burl,Faheem Ashraf,2,0,,,,,,"",""
+ball,1,14.5,Zimbabwe,DT Tiripano,RP Burl,Faheem Ashraf,0,1,1,,,,,"",""
+ball,1,14.6,Zimbabwe,DT Tiripano,RP Burl,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,14.7,Zimbabwe,RP Burl,DT Tiripano,Faheem Ashraf,1,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,RP Burl,DT Tiripano,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,15.2,Zimbabwe,DT Tiripano,RP Burl,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,DT Tiripano,RP Burl,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,15.4,Zimbabwe,RP Burl,DT Tiripano,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,DT Tiripano,RP Burl,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,RP Burl,DT Tiripano,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,16.1,Zimbabwe,RP Burl,DT Tiripano,Haris Rauf,2,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,RP Burl,DT Tiripano,Haris Rauf,3,0,,,,,,"",""
+ball,1,16.3,Zimbabwe,DT Tiripano,RP Burl,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.4,Zimbabwe,RP Burl,DT Tiripano,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,DT Tiripano,RP Burl,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.6,Zimbabwe,RP Burl,DT Tiripano,Haris Rauf,2,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,DT Tiripano,RP Burl,Wahab Riaz,1,0,,,,,,"",""
+ball,1,17.2,Zimbabwe,RP Burl,DT Tiripano,Wahab Riaz,1,0,,,,,,"",""
+ball,1,17.3,Zimbabwe,DT Tiripano,RP Burl,Wahab Riaz,2,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,DT Tiripano,RP Burl,Wahab Riaz,4,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,DT Tiripano,RP Burl,Wahab Riaz,0,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,DT Tiripano,RP Burl,Wahab Riaz,1,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,DT Tiripano,RP Burl,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.2,Zimbabwe,DT Tiripano,RP Burl,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,DT Tiripano,RP Burl,Haris Rauf,0,0,,,,,,caught,DT Tiripano
+ball,1,18.4,Zimbabwe,TS Chisoro,RP Burl,Haris Rauf,1,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,RP Burl,TS Chisoro,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,RP Burl,TS Chisoro,Haris Rauf,4,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,TS Chisoro,RP Burl,Wahab Riaz,0,0,,,,,,"",""
+ball,1,19.2,Zimbabwe,TS Chisoro,RP Burl,Wahab Riaz,0,0,,,,,,"",""
+ball,1,19.3,Zimbabwe,TS Chisoro,RP Burl,Wahab Riaz,1,0,,,,,,"",""
+ball,1,19.4,Zimbabwe,RP Burl,TS Chisoro,Wahab Riaz,1,0,,,,,,"",""
+ball,1,19.5,Zimbabwe,TS Chisoro,RP Burl,Wahab Riaz,1,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,RP Burl,TS Chisoro,Wahab Riaz,6,0,,,,,,"",""
+ball,2,0.1,Pakistan,Fakhar Zaman,Babar Azam,B Muzarabani,0,0,,,,,,"",""
+ball,2,0.2,Pakistan,Fakhar Zaman,Babar Azam,B Muzarabani,0,0,,,,,,"",""
+ball,2,0.3,Pakistan,Fakhar Zaman,Babar Azam,B Muzarabani,2,0,,,,,,"",""
+ball,2,0.4,Pakistan,Fakhar Zaman,Babar Azam,B Muzarabani,0,0,,,,,,"",""
+ball,2,0.5,Pakistan,Fakhar Zaman,Babar Azam,B Muzarabani,0,0,,,,,,"",""
+ball,2,0.6,Pakistan,Fakhar Zaman,Babar Azam,B Muzarabani,1,0,,,,,,"",""
+ball,2,1.1,Pakistan,Fakhar Zaman,Babar Azam,R Ngarava,0,0,,,,,,"",""
+ball,2,1.2,Pakistan,Fakhar Zaman,Babar Azam,R Ngarava,0,0,,,,,,"",""
+ball,2,1.3,Pakistan,Fakhar Zaman,Babar Azam,R Ngarava,1,0,,,,,,"",""
+ball,2,1.4,Pakistan,Babar Azam,Fakhar Zaman,R Ngarava,1,0,,,,,,"",""
+ball,2,1.5,Pakistan,Fakhar Zaman,Babar Azam,R Ngarava,1,0,,,,,,"",""
+ball,2,1.6,Pakistan,Babar Azam,Fakhar Zaman,R Ngarava,4,0,,,,,,"",""
+ball,2,2.1,Pakistan,Fakhar Zaman,Babar Azam,B Muzarabani,0,0,,,,,,caught,Fakhar Zaman
+ball,2,2.2,Pakistan,Haider Ali,Babar Azam,B Muzarabani,0,0,,,,,,"",""
+ball,2,2.3,Pakistan,Haider Ali,Babar Azam,B Muzarabani,0,0,,,,,,"",""
+ball,2,2.4,Pakistan,Haider Ali,Babar Azam,B Muzarabani,6,0,,,,,,"",""
+ball,2,2.5,Pakistan,Haider Ali,Babar Azam,B Muzarabani,0,1,,,,1,,"",""
+ball,2,2.6,Pakistan,Babar Azam,Haider Ali,B Muzarabani,1,0,,,,,,"",""
+ball,2,3.1,Pakistan,Babar Azam,Haider Ali,DT Tiripano,1,0,,,,,,"",""
+ball,2,3.2,Pakistan,Haider Ali,Babar Azam,DT Tiripano,0,0,,,,,,"",""
+ball,2,3.3,Pakistan,Haider Ali,Babar Azam,DT Tiripano,1,0,,,,,,"",""
+ball,2,3.4,Pakistan,Babar Azam,Haider Ali,DT Tiripano,4,0,,,,,,"",""
+ball,2,3.5,Pakistan,Babar Azam,Haider Ali,DT Tiripano,1,0,,,,,,"",""
+ball,2,3.6,Pakistan,Haider Ali,Babar Azam,DT Tiripano,1,0,,,,,,"",""
+ball,2,4.1,Pakistan,Haider Ali,Babar Azam,R Ngarava,4,0,,,,,,"",""
+ball,2,4.2,Pakistan,Haider Ali,Babar Azam,R Ngarava,0,0,,,,,,"",""
+ball,2,4.3,Pakistan,Haider Ali,Babar Azam,R Ngarava,0,0,,,,,,"",""
+ball,2,4.4,Pakistan,Haider Ali,Babar Azam,R Ngarava,0,0,,,,,,"",""
+ball,2,4.5,Pakistan,Haider Ali,Babar Azam,R Ngarava,1,0,,,,,,"",""
+ball,2,4.6,Pakistan,Babar Azam,Haider Ali,R Ngarava,4,0,,,,,,"",""
+ball,2,5.1,Pakistan,Haider Ali,Babar Azam,DT Tiripano,1,0,,,,,,"",""
+ball,2,5.2,Pakistan,Babar Azam,Haider Ali,DT Tiripano,1,0,,,,,,"",""
+ball,2,5.3,Pakistan,Haider Ali,Babar Azam,DT Tiripano,0,0,,,,,,"",""
+ball,2,5.4,Pakistan,Haider Ali,Babar Azam,DT Tiripano,4,0,,,,,,"",""
+ball,2,5.5,Pakistan,Haider Ali,Babar Azam,DT Tiripano,4,0,,,,,,"",""
+ball,2,5.6,Pakistan,Haider Ali,Babar Azam,DT Tiripano,0,0,,,,,,"",""
+ball,2,6.1,Pakistan,Babar Azam,Haider Ali,TS Chisoro,1,0,,,,,,"",""
+ball,2,6.2,Pakistan,Haider Ali,Babar Azam,TS Chisoro,1,0,,,,,,"",""
+ball,2,6.3,Pakistan,Babar Azam,Haider Ali,TS Chisoro,4,0,,,,,,"",""
+ball,2,6.4,Pakistan,Babar Azam,Haider Ali,TS Chisoro,0,0,,,,,,"",""
+ball,2,6.5,Pakistan,Babar Azam,Haider Ali,TS Chisoro,1,0,,,,,,"",""
+ball,2,6.6,Pakistan,Haider Ali,Babar Azam,TS Chisoro,1,0,,,,,,"",""
+ball,2,7.1,Pakistan,Haider Ali,Babar Azam,SC Williams,0,0,,,,,,"",""
+ball,2,7.2,Pakistan,Haider Ali,Babar Azam,SC Williams,6,0,,,,,,"",""
+ball,2,7.3,Pakistan,Haider Ali,Babar Azam,SC Williams,2,0,,,,,,"",""
+ball,2,7.4,Pakistan,Haider Ali,Babar Azam,SC Williams,0,0,,,,,,"",""
+ball,2,7.5,Pakistan,Haider Ali,Babar Azam,SC Williams,2,0,,,,,,"",""
+ball,2,7.6,Pakistan,Haider Ali,Babar Azam,SC Williams,1,0,,,,,,"",""
+ball,2,8.1,Pakistan,Haider Ali,Babar Azam,Sikandar Raza,1,0,,,,,,"",""
+ball,2,8.2,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,0,1,1,,,,,"",""
+ball,2,8.3,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,1,0,,,,,,"",""
+ball,2,8.4,Pakistan,Haider Ali,Babar Azam,Sikandar Raza,0,0,,,,,,"",""
+ball,2,8.5,Pakistan,Haider Ali,Babar Azam,Sikandar Raza,1,0,,,,,,"",""
+ball,2,8.6,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,4,0,,,,,,"",""
+ball,2,8.7,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,0,0,,,,,,"",""
+ball,2,9.1,Pakistan,Haider Ali,Babar Azam,TS Chisoro,0,0,,,,,,"",""
+ball,2,9.2,Pakistan,Haider Ali,Babar Azam,TS Chisoro,0,0,,,,,,"",""
+ball,2,9.3,Pakistan,Haider Ali,Babar Azam,TS Chisoro,4,0,,,,,,"",""
+ball,2,9.4,Pakistan,Haider Ali,Babar Azam,TS Chisoro,1,0,,,,,,"",""
+ball,2,9.5,Pakistan,Babar Azam,Haider Ali,TS Chisoro,1,0,,,,,,"",""
+ball,2,9.6,Pakistan,Haider Ali,Babar Azam,TS Chisoro,1,0,,,,,,"",""
+ball,2,10.1,Pakistan,Haider Ali,Babar Azam,Sikandar Raza,1,0,,,,,,"",""
+ball,2,10.2,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,4,0,,,,,,"",""
+ball,2,10.3,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,6,0,,,,,,"",""
+ball,2,10.4,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,0,0,,,,,,"",""
+ball,2,10.5,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,0,0,,,,,,"",""
+ball,2,10.6,Pakistan,Babar Azam,Haider Ali,Sikandar Raza,1,0,,,,,,"",""
+ball,2,11.1,Pakistan,Babar Azam,Haider Ali,TS Chisoro,1,0,,,,,,"",""
+ball,2,11.2,Pakistan,Haider Ali,Babar Azam,TS Chisoro,6,0,,,,,,"",""
+ball,2,11.3,Pakistan,Haider Ali,Babar Azam,TS Chisoro,1,0,,,,,,"",""
+ball,2,11.4,Pakistan,Babar Azam,Haider Ali,TS Chisoro,1,0,,,,,,"",""
+ball,2,11.5,Pakistan,Haider Ali,Babar Azam,TS Chisoro,1,0,,,,,,"",""
+ball,2,11.6,Pakistan,Babar Azam,Haider Ali,TS Chisoro,1,0,,,,,,"",""
+ball,2,12.1,Pakistan,Babar Azam,Haider Ali,B Muzarabani,4,0,,,,,,"",""
+ball,2,12.2,Pakistan,Babar Azam,Haider Ali,B Muzarabani,0,0,,,,,,"",""
+ball,2,12.3,Pakistan,Babar Azam,Haider Ali,B Muzarabani,4,0,,,,,,"",""
+ball,2,12.4,Pakistan,Babar Azam,Haider Ali,B Muzarabani,0,0,,,,,,caught,Babar Azam
+ball,2,12.5,Pakistan,Khushdil Shah,Haider Ali,B Muzarabani,0,1,1,,,,,"",""
+ball,2,12.6,Pakistan,Khushdil Shah,Haider Ali,B Muzarabani,0,0,,,,,,"",""
+ball,2,12.7,Pakistan,Khushdil Shah,Haider Ali,B Muzarabani,0,0,,,,,,"",""
+ball,2,13.1,Pakistan,Haider Ali,Khushdil Shah,R Ngarava,1,0,,,,,,"",""
+ball,2,13.2,Pakistan,Khushdil Shah,Haider Ali,R Ngarava,0,0,,,,,,"",""
+ball,2,13.3,Pakistan,Khushdil Shah,Haider Ali,R Ngarava,4,0,,,,,,"",""
+ball,2,13.4,Pakistan,Khushdil Shah,Haider Ali,R Ngarava,1,0,,,,,,"",""
+ball,2,13.5,Pakistan,Haider Ali,Khushdil Shah,R Ngarava,1,0,,,,,,"",""
+ball,2,13.6,Pakistan,Khushdil Shah,Haider Ali,R Ngarava,1,0,,,,,,"",""
+ball,2,14.1,Pakistan,Khushdil Shah,Haider Ali,B Muzarabani,0,0,,,,,,"",""
+ball,2,14.2,Pakistan,Khushdil Shah,Haider Ali,B Muzarabani,1,0,,,,,,"",""
+ball,2,14.3,Pakistan,Haider Ali,Khushdil Shah,B Muzarabani,4,0,,,,,,"",""
+ball,2,14.4,Pakistan,Haider Ali,Khushdil Shah,B Muzarabani,4,0,,,,,,"",""
+ball,2,14.5,Pakistan,Haider Ali,Khushdil Shah,B Muzarabani,0,1,1,,,,,"",""
+ball,2,14.6,Pakistan,Haider Ali,Khushdil Shah,B Muzarabani,2,0,,,,,,"",""
+ball,2,14.7,Pakistan,Haider Ali,Khushdil Shah,B Muzarabani,2,0,,,,,,"",""
+ball,2,15.1,Pakistan,Khushdil Shah,Haider Ali,R Ngarava,4,0,,,,,,"",""

@@ -1,0 +1,302 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2025
+info,date,2025/07/28
+info,event,Australia tour of West Indies
+info,match_number,5
+info,venue,"Warner Park, Basseterre, St Kitts"
+info,city,Basseterre
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,BJ Dwarshuis
+info,umpire,LS Reifer
+info,umpire,Zahid Bassarath
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,DK Butler
+info,match_referee,Reon King
+info,winner,Australia
+info,winner_wickets,3
+info,player,West Indies,BA King
+info,player,West Indies,SD Hope
+info,player,West Indies,KU Carty
+info,player,West Indies,SE Rutherford
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,JO Holder
+info,player,West Indies,R Shepherd
+info,player,West Indies,MW Forde
+info,player,West Indies,AS Joseph
+info,player,West Indies,AJ Hosein
+info,player,West Indies,J Blades
+info,player,Australia,MR Marsh
+info,player,Australia,GJ Maxwell
+info,player,Australia,JP Inglis
+info,player,Australia,C Green
+info,player,Australia,TH David
+info,player,Australia,MJ Owen
+info,player,Australia,AM Hardie
+info,player,Australia,BJ Dwarshuis
+info,player,Australia,SA Abbott
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,registry,people,A Zampa,14f96089
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA King,7fca84b7
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DK Butler,671398e3
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,J Andrew,6b0db726
+info,registry,people,J Blades,af4a9a0a
+info,registry,people,JO Holder,0f721006
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,TH David,f1f99156
+info,registry,people,Zahid Bassarath,ca6bf044
+ball,1,0.1,West Indies,BA King,SD Hope,AM Hardie,1,0,,,,,,"",""
+ball,1,0.2,West Indies,SD Hope,BA King,AM Hardie,0,0,,,,,,"",""
+ball,1,0.3,West Indies,SD Hope,BA King,AM Hardie,0,0,,,,,,"",""
+ball,1,0.4,West Indies,SD Hope,BA King,AM Hardie,1,0,,,,,,"",""
+ball,1,0.5,West Indies,BA King,SD Hope,AM Hardie,4,0,,,,,,"",""
+ball,1,0.6,West Indies,BA King,SD Hope,AM Hardie,0,0,,,,,,"",""
+ball,1,1.1,West Indies,SD Hope,BA King,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,1.2,West Indies,SD Hope,BA King,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,1.3,West Indies,SD Hope,BA King,BJ Dwarshuis,0,0,,,,,,bowled,SD Hope
+ball,1,1.4,West Indies,KU Carty,BA King,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,1.5,West Indies,KU Carty,BA King,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,1.6,West Indies,BA King,KU Carty,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,2.1,West Indies,BA King,KU Carty,AM Hardie,0,0,,,,,,"",""
+ball,1,2.2,West Indies,BA King,KU Carty,AM Hardie,0,0,,,,,,"",""
+ball,1,2.3,West Indies,BA King,KU Carty,AM Hardie,4,0,,,,,,"",""
+ball,1,2.4,West Indies,BA King,KU Carty,AM Hardie,1,0,,,,,,"",""
+ball,1,2.5,West Indies,KU Carty,BA King,AM Hardie,0,0,,,,,,"",""
+ball,1,2.6,West Indies,KU Carty,BA King,AM Hardie,0,0,,,,,,"",""
+ball,1,3.1,West Indies,BA King,KU Carty,BJ Dwarshuis,0,1,1,,,,,"",""
+ball,1,3.2,West Indies,BA King,KU Carty,BJ Dwarshuis,0,0,,,,,,caught,BA King
+ball,1,3.3,West Indies,SE Rutherford,KU Carty,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.4,West Indies,SE Rutherford,KU Carty,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,3.5,West Indies,KU Carty,SE Rutherford,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.6,West Indies,KU Carty,SE Rutherford,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.7,West Indies,KU Carty,SE Rutherford,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,4.1,West Indies,SE Rutherford,KU Carty,AM Hardie,4,0,,,,,,"",""
+ball,1,4.2,West Indies,SE Rutherford,KU Carty,AM Hardie,4,0,,,,,,"",""
+ball,1,4.3,West Indies,SE Rutherford,KU Carty,AM Hardie,1,0,,,,,,"",""
+ball,1,4.4,West Indies,KU Carty,SE Rutherford,AM Hardie,0,0,,,,,,caught,KU Carty
+ball,1,4.5,West Indies,SO Hetmyer,SE Rutherford,AM Hardie,1,0,,,,,,"",""
+ball,1,4.6,West Indies,SE Rutherford,SO Hetmyer,AM Hardie,4,0,,,,,,"",""
+ball,1,5.1,West Indies,SO Hetmyer,SE Rutherford,SA Abbott,1,0,,,,,,"",""
+ball,1,5.2,West Indies,SE Rutherford,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,5.3,West Indies,SE Rutherford,SO Hetmyer,SA Abbott,4,0,,,,,,"",""
+ball,1,5.4,West Indies,SE Rutherford,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,5.5,West Indies,SE Rutherford,SO Hetmyer,SA Abbott,6,0,,,,,,"",""
+ball,1,5.6,West Indies,SE Rutherford,SO Hetmyer,SA Abbott,1,0,,,,,,"",""
+ball,1,6.1,West Indies,SE Rutherford,SO Hetmyer,NT Ellis,0,0,,,,,,"",""
+ball,1,6.2,West Indies,SE Rutherford,SO Hetmyer,NT Ellis,4,0,,,,,,"",""
+ball,1,6.3,West Indies,SE Rutherford,SO Hetmyer,NT Ellis,1,0,,,,,,"",""
+ball,1,6.4,West Indies,SO Hetmyer,SE Rutherford,NT Ellis,2,0,,,,,,"",""
+ball,1,6.5,West Indies,SO Hetmyer,SE Rutherford,NT Ellis,1,0,,,,,,"",""
+ball,1,6.6,West Indies,SE Rutherford,SO Hetmyer,NT Ellis,4,0,,,,,,"",""
+ball,1,7.1,West Indies,SO Hetmyer,SE Rutherford,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.2,West Indies,SE Rutherford,SO Hetmyer,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.3,West Indies,SO Hetmyer,SE Rutherford,GJ Maxwell,0,1,,,,1,,"",""
+ball,1,7.4,West Indies,SE Rutherford,SO Hetmyer,GJ Maxwell,0,0,,,,,,bowled,SE Rutherford
+ball,1,7.5,West Indies,JO Holder,SO Hetmyer,GJ Maxwell,0,0,,,,,,"",""
+ball,1,7.6,West Indies,JO Holder,SO Hetmyer,GJ Maxwell,4,0,,,,,,"",""
+ball,1,8.1,West Indies,SO Hetmyer,JO Holder,SA Abbott,4,0,,,,,,"",""
+ball,1,8.2,West Indies,SO Hetmyer,JO Holder,SA Abbott,1,0,,,,,,"",""
+ball,1,8.3,West Indies,JO Holder,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,8.4,West Indies,JO Holder,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,8.5,West Indies,JO Holder,SO Hetmyer,SA Abbott,1,0,,,,,,"",""
+ball,1,8.6,West Indies,SO Hetmyer,JO Holder,SA Abbott,1,0,,,,,,"",""
+ball,1,9.1,West Indies,SO Hetmyer,JO Holder,A Zampa,0,0,,,,,,"",""
+ball,1,9.2,West Indies,SO Hetmyer,JO Holder,A Zampa,6,0,,,,,,"",""
+ball,1,9.3,West Indies,SO Hetmyer,JO Holder,A Zampa,2,0,,,,,,"",""
+ball,1,9.4,West Indies,SO Hetmyer,JO Holder,A Zampa,1,0,,,,,,"",""
+ball,1,9.5,West Indies,JO Holder,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,9.6,West Indies,JO Holder,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,10.1,West Indies,SO Hetmyer,JO Holder,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,10.2,West Indies,SO Hetmyer,JO Holder,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,10.3,West Indies,JO Holder,SO Hetmyer,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,10.4,West Indies,SO Hetmyer,JO Holder,BJ Dwarshuis,6,0,,,,,,"",""
+ball,1,10.5,West Indies,SO Hetmyer,JO Holder,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,10.6,West Indies,JO Holder,SO Hetmyer,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,11.1,West Indies,SO Hetmyer,JO Holder,AM Hardie,0,0,,,,,,"",""
+ball,1,11.2,West Indies,SO Hetmyer,JO Holder,AM Hardie,1,0,,,,,,"",""
+ball,1,11.3,West Indies,JO Holder,SO Hetmyer,AM Hardie,6,0,,,,,,"",""
+ball,1,11.4,West Indies,JO Holder,SO Hetmyer,AM Hardie,4,0,,,,,,"",""
+ball,1,11.5,West Indies,JO Holder,SO Hetmyer,AM Hardie,0,0,,,,,,"",""
+ball,1,11.6,West Indies,JO Holder,SO Hetmyer,AM Hardie,1,0,,,,,,"",""
+ball,1,11.7,West Indies,SO Hetmyer,JO Holder,AM Hardie,2,0,,,,,,"",""
+ball,1,12.1,West Indies,JO Holder,SO Hetmyer,SA Abbott,1,0,,,,,,"",""
+ball,1,12.2,West Indies,SO Hetmyer,JO Holder,SA Abbott,1,0,,,,,,"",""
+ball,1,12.3,West Indies,JO Holder,SO Hetmyer,SA Abbott,0,0,,,,,,caught,JO Holder
+ball,1,12.4,West Indies,R Shepherd,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,12.5,West Indies,R Shepherd,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,12.6,West Indies,R Shepherd,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,13.1,West Indies,SO Hetmyer,R Shepherd,A Zampa,1,0,,,,,,"",""
+ball,1,13.2,West Indies,R Shepherd,SO Hetmyer,A Zampa,1,0,,,,,,"",""
+ball,1,13.3,West Indies,SO Hetmyer,R Shepherd,A Zampa,1,0,,,,,,"",""
+ball,1,13.4,West Indies,R Shepherd,SO Hetmyer,A Zampa,1,0,,,,,,"",""
+ball,1,13.5,West Indies,SO Hetmyer,R Shepherd,A Zampa,1,0,,,,,,"",""
+ball,1,13.6,West Indies,R Shepherd,SO Hetmyer,A Zampa,0,0,,,,,,"",""
+ball,1,14.1,West Indies,SO Hetmyer,R Shepherd,NT Ellis,1,0,,,,,,"",""
+ball,1,14.2,West Indies,R Shepherd,SO Hetmyer,NT Ellis,6,0,,,,,,"",""
+ball,1,14.3,West Indies,R Shepherd,SO Hetmyer,NT Ellis,0,0,,,,,,bowled,R Shepherd
+ball,1,14.4,West Indies,MW Forde,SO Hetmyer,NT Ellis,0,0,,,,,,"",""
+ball,1,14.5,West Indies,MW Forde,SO Hetmyer,NT Ellis,4,0,,,,,,"",""
+ball,1,14.6,West Indies,MW Forde,SO Hetmyer,NT Ellis,1,0,,,,,,"",""
+ball,1,15.1,West Indies,MW Forde,SO Hetmyer,SA Abbott,6,0,,,,,,"",""
+ball,1,15.2,West Indies,MW Forde,SO Hetmyer,SA Abbott,1,0,,,,,,"",""
+ball,1,15.3,West Indies,SO Hetmyer,MW Forde,SA Abbott,1,0,,,,,,"",""
+ball,1,15.4,West Indies,MW Forde,SO Hetmyer,SA Abbott,0,0,,,,,,"",""
+ball,1,15.5,West Indies,MW Forde,SO Hetmyer,SA Abbott,1,0,,,,,,"",""
+ball,1,15.6,West Indies,SO Hetmyer,MW Forde,SA Abbott,0,0,,,,,,"",""
+ball,1,16.1,West Indies,MW Forde,SO Hetmyer,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,16.2,West Indies,MW Forde,SO Hetmyer,BJ Dwarshuis,0,1,,,,1,,"",""
+ball,1,16.3,West Indies,SO Hetmyer,MW Forde,BJ Dwarshuis,4,1,,1,,,,"",""
+ball,1,16.4,West Indies,SO Hetmyer,MW Forde,BJ Dwarshuis,6,0,,,,,,"",""
+ball,1,16.5,West Indies,SO Hetmyer,MW Forde,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,16.6,West Indies,SO Hetmyer,MW Forde,BJ Dwarshuis,0,0,,,,,,caught,SO Hetmyer
+ball,1,16.7,West Indies,AS Joseph,MW Forde,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,17.1,West Indies,AS Joseph,MW Forde,NT Ellis,1,0,,,,,,"",""
+ball,1,17.2,West Indies,MW Forde,AS Joseph,NT Ellis,0,0,,,,,,caught,MW Forde
+ball,1,17.3,West Indies,AJ Hosein,AS Joseph,NT Ellis,1,0,,,,,,"",""
+ball,1,17.4,West Indies,AS Joseph,AJ Hosein,NT Ellis,1,0,,,,,,"",""
+ball,1,17.5,West Indies,AJ Hosein,AS Joseph,NT Ellis,0,0,,,,,,"",""
+ball,1,17.6,West Indies,AJ Hosein,AS Joseph,NT Ellis,0,0,,,,,,"",""
+ball,1,18.1,West Indies,AS Joseph,AJ Hosein,A Zampa,0,0,,,,,,bowled,AS Joseph
+ball,1,18.2,West Indies,J Blades,AJ Hosein,A Zampa,1,0,,,,,,"",""
+ball,1,18.3,West Indies,AJ Hosein,J Blades,A Zampa,4,0,,,,,,"",""
+ball,1,18.4,West Indies,AJ Hosein,J Blades,A Zampa,0,0,,,,,,"",""
+ball,1,18.5,West Indies,AJ Hosein,J Blades,A Zampa,1,0,,,,,,"",""
+ball,1,18.6,West Indies,J Blades,AJ Hosein,A Zampa,0,0,,,,,,"",""
+ball,1,19.1,West Indies,AJ Hosein,J Blades,NT Ellis,4,0,,,,,,"",""
+ball,1,19.2,West Indies,AJ Hosein,J Blades,NT Ellis,0,0,,,,,,"",""
+ball,1,19.3,West Indies,AJ Hosein,J Blades,NT Ellis,1,0,,,,,,"",""
+ball,1,19.4,West Indies,J Blades,AJ Hosein,NT Ellis,0,0,,,,,,run out,AJ Hosein
+ball,2,0.1,Australia,MR Marsh,GJ Maxwell,J Blades,0,0,,,,,,"",""
+ball,2,0.2,Australia,MR Marsh,GJ Maxwell,J Blades,0,0,,,,,,"",""
+ball,2,0.3,Australia,MR Marsh,GJ Maxwell,J Blades,4,0,,,,,,"",""
+ball,2,0.4,Australia,MR Marsh,GJ Maxwell,J Blades,4,0,,,,,,"",""
+ball,2,0.5,Australia,MR Marsh,GJ Maxwell,J Blades,0,0,,,,,,"",""
+ball,2,0.6,Australia,MR Marsh,GJ Maxwell,J Blades,4,0,,,,,,"",""
+ball,2,1.1,Australia,GJ Maxwell,MR Marsh,JO Holder,0,0,,,,,,caught,GJ Maxwell
+ball,2,1.2,Australia,JP Inglis,MR Marsh,JO Holder,0,0,,,,,,"",""
+ball,2,1.3,Australia,JP Inglis,MR Marsh,JO Holder,2,0,,,,,,"",""
+ball,2,1.4,Australia,JP Inglis,MR Marsh,JO Holder,4,0,,,,,,"",""
+ball,2,1.5,Australia,JP Inglis,MR Marsh,JO Holder,4,0,,,,,,"",""
+ball,2,1.6,Australia,JP Inglis,MR Marsh,JO Holder,0,1,1,,,,,"",""
+ball,2,1.7,Australia,JP Inglis,MR Marsh,JO Holder,0,0,,,,,,caught,JP Inglis
+ball,2,2.1,Australia,MR Marsh,C Green,AS Joseph,2,0,,,,,,"",""
+ball,2,2.2,Australia,MR Marsh,C Green,AS Joseph,0,0,,,,,,bowled,MR Marsh
+ball,2,2.3,Australia,TH David,C Green,AS Joseph,0,0,,,,,,"",""
+ball,2,2.4,Australia,TH David,C Green,AS Joseph,0,0,,,,,,"",""
+ball,2,2.5,Australia,TH David,C Green,AS Joseph,1,0,,,,,,"",""
+ball,2,2.6,Australia,C Green,TH David,AS Joseph,4,0,,,,,,"",""
+ball,2,3.1,Australia,TH David,C Green,JO Holder,4,0,,,,,,"",""
+ball,2,3.2,Australia,TH David,C Green,JO Holder,6,0,,,,,,"",""
+ball,2,3.3,Australia,TH David,C Green,JO Holder,0,0,,,,,,"",""
+ball,2,3.4,Australia,TH David,C Green,JO Holder,6,0,,,,,,"",""
+ball,2,3.5,Australia,TH David,C Green,JO Holder,1,0,,,,,,"",""
+ball,2,3.6,Australia,C Green,TH David,JO Holder,0,0,,,,,,"",""
+ball,2,4.1,Australia,TH David,C Green,AS Joseph,6,0,,,,,,"",""
+ball,2,4.2,Australia,TH David,C Green,AS Joseph,0,0,,,,,,"",""
+ball,2,4.3,Australia,TH David,C Green,AS Joseph,6,0,,,,,,"",""
+ball,2,4.4,Australia,TH David,C Green,AS Joseph,0,1,1,,,,,"",""
+ball,2,4.5,Australia,TH David,C Green,AS Joseph,0,0,,,,,,caught,TH David
+ball,2,4.6,Australia,MJ Owen,C Green,AS Joseph,0,0,,,,,,"",""
+ball,2,4.7,Australia,MJ Owen,C Green,AS Joseph,1,0,,,,,,"",""
+ball,2,5.1,Australia,MJ Owen,C Green,MW Forde,0,0,,,,,,"",""
+ball,2,5.2,Australia,MJ Owen,C Green,MW Forde,0,1,1,,,,,"",""
+ball,2,5.3,Australia,MJ Owen,C Green,MW Forde,1,0,,,,,,"",""
+ball,2,5.4,Australia,C Green,MJ Owen,MW Forde,1,0,,,,,,"",""
+ball,2,5.5,Australia,MJ Owen,C Green,MW Forde,0,0,,,,,,"",""
+ball,2,5.6,Australia,MJ Owen,C Green,MW Forde,0,1,1,,,,,"",""
+ball,2,5.7,Australia,MJ Owen,C Green,MW Forde,1,0,,,,,,"",""
+ball,2,5.8,Australia,C Green,MJ Owen,MW Forde,1,0,,,,,,"",""
+ball,2,6.1,Australia,C Green,MJ Owen,R Shepherd,1,0,,,,,,"",""
+ball,2,6.2,Australia,MJ Owen,C Green,R Shepherd,1,0,,,,,,"",""
+ball,2,6.3,Australia,C Green,MJ Owen,R Shepherd,1,0,,,,,,"",""
+ball,2,6.4,Australia,MJ Owen,C Green,R Shepherd,4,0,,,,,,"",""
+ball,2,6.5,Australia,MJ Owen,C Green,R Shepherd,1,0,,,,,,"",""
+ball,2,6.6,Australia,C Green,MJ Owen,R Shepherd,4,0,,,,,,"",""
+ball,2,7.1,Australia,MJ Owen,C Green,MW Forde,1,0,,,,,,"",""
+ball,2,7.2,Australia,C Green,MJ Owen,MW Forde,4,0,,,,,,"",""
+ball,2,7.3,Australia,C Green,MJ Owen,MW Forde,1,0,,,,,,"",""
+ball,2,7.4,Australia,MJ Owen,C Green,MW Forde,4,0,,,,,,"",""
+ball,2,7.5,Australia,MJ Owen,C Green,MW Forde,6,0,,,,,,"",""
+ball,2,7.6,Australia,MJ Owen,C Green,MW Forde,6,0,,,,,,"",""
+ball,2,8.1,Australia,C Green,MJ Owen,J Blades,0,1,1,,,,,"",""
+ball,2,8.2,Australia,C Green,MJ Owen,J Blades,2,0,,,,,,"",""
+ball,2,8.3,Australia,C Green,MJ Owen,J Blades,4,0,,,,,,"",""
+ball,2,8.4,Australia,C Green,MJ Owen,J Blades,1,0,,,,,,"",""
+ball,2,8.5,Australia,MJ Owen,C Green,J Blades,4,0,,,,,,"",""
+ball,2,8.6,Australia,MJ Owen,C Green,J Blades,1,1,,1,,,,"",""
+ball,2,8.7,Australia,C Green,MJ Owen,J Blades,1,0,,,,,,"",""
+ball,2,8.8,Australia,MJ Owen,C Green,J Blades,6,0,,,,,,"",""
+ball,2,9.1,Australia,C Green,MJ Owen,AJ Hosein,1,0,,,,,,"",""
+ball,2,9.2,Australia,MJ Owen,C Green,AJ Hosein,0,0,,,,,,caught,MJ Owen
+ball,2,9.3,Australia,AM Hardie,C Green,AJ Hosein,0,0,,,,,,"",""
+ball,2,9.4,Australia,AM Hardie,C Green,AJ Hosein,0,0,,,,,,"",""
+ball,2,9.5,Australia,AM Hardie,C Green,AJ Hosein,0,0,,,,,,"",""
+ball,2,9.6,Australia,AM Hardie,C Green,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.1,Australia,AM Hardie,C Green,AS Joseph,0,0,,,,,,"",""
+ball,2,10.2,Australia,AM Hardie,C Green,R Shepherd,0,1,1,,,,,"",""
+ball,2,10.3,Australia,AM Hardie,C Green,R Shepherd,6,0,,,,,,"",""
+ball,2,10.4,Australia,AM Hardie,C Green,R Shepherd,1,0,,,,,,"",""
+ball,2,10.5,Australia,C Green,AM Hardie,R Shepherd,1,0,,,,,,"",""
+ball,2,10.6,Australia,AM Hardie,C Green,R Shepherd,1,0,,,,,,"",""
+ball,2,10.7,Australia,C Green,AM Hardie,R Shepherd,4,0,,,,,,"",""
+ball,2,11.1,Australia,AM Hardie,C Green,AJ Hosein,0,0,,,,,,"",""
+ball,2,11.2,Australia,AM Hardie,C Green,AJ Hosein,0,0,,,,,,"",""
+ball,2,11.3,Australia,AM Hardie,C Green,AJ Hosein,1,0,,,,,,"",""
+ball,2,11.4,Australia,C Green,AM Hardie,AJ Hosein,1,0,,,,,,"",""
+ball,2,11.5,Australia,AM Hardie,C Green,AJ Hosein,1,0,,,,,,"",""
+ball,2,11.6,Australia,C Green,AM Hardie,AJ Hosein,0,0,,,,,,caught,C Green
+ball,2,12.1,Australia,AM Hardie,BJ Dwarshuis,JO Holder,1,0,,,,,,"",""
+ball,2,12.2,Australia,BJ Dwarshuis,AM Hardie,JO Holder,0,0,,,,,,"",""
+ball,2,12.3,Australia,BJ Dwarshuis,AM Hardie,JO Holder,1,0,,,,,,"",""
+ball,2,12.4,Australia,AM Hardie,BJ Dwarshuis,JO Holder,1,0,,,,,,"",""
+ball,2,12.5,Australia,BJ Dwarshuis,AM Hardie,JO Holder,1,0,,,,,,"",""
+ball,2,12.6,Australia,AM Hardie,BJ Dwarshuis,JO Holder,4,0,,,,,,"",""
+ball,2,13.1,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,0,1,1,,,,,"",""
+ball,2,13.2,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,0,0,,,,,,"",""
+ball,2,13.3,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,0,0,,,,,,"",""
+ball,2,13.4,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,1,0,,,,,,"",""
+ball,2,13.5,Australia,AM Hardie,BJ Dwarshuis,AJ Hosein,1,0,,,,,,"",""
+ball,2,13.6,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,1,0,,,,,,"",""
+ball,2,13.7,Australia,AM Hardie,BJ Dwarshuis,AJ Hosein,0,0,,,,,,"",""
+ball,2,14.1,Australia,BJ Dwarshuis,AM Hardie,J Blades,1,0,,,,,,"",""
+ball,2,14.2,Australia,AM Hardie,BJ Dwarshuis,J Blades,1,0,,,,,,"",""
+ball,2,14.3,Australia,BJ Dwarshuis,AM Hardie,J Blades,1,0,,,,,,"",""
+ball,2,14.4,Australia,AM Hardie,BJ Dwarshuis,J Blades,1,0,,,,,,"",""
+ball,2,14.5,Australia,BJ Dwarshuis,AM Hardie,J Blades,0,0,,,,,,"",""
+ball,2,14.6,Australia,BJ Dwarshuis,AM Hardie,J Blades,1,0,,,,,,"",""
+ball,2,15.1,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.2,Australia,AM Hardie,BJ Dwarshuis,AJ Hosein,4,0,,,,,,"",""
+ball,2,15.3,Australia,AM Hardie,BJ Dwarshuis,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.4,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.5,Australia,AM Hardie,BJ Dwarshuis,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.6,Australia,BJ Dwarshuis,AM Hardie,AJ Hosein,0,0,,,,,,caught,BJ Dwarshuis
+ball,2,16.1,Australia,AM Hardie,SA Abbott,MW Forde,1,0,,,,,,"",""
+ball,2,16.2,Australia,SA Abbott,AM Hardie,MW Forde,1,0,,,,,,"",""
+ball,2,16.3,Australia,AM Hardie,SA Abbott,MW Forde,0,0,,,,,,"",""
+ball,2,16.4,Australia,AM Hardie,SA Abbott,MW Forde,1,0,,,,,,"",""
+ball,2,16.5,Australia,SA Abbott,AM Hardie,MW Forde,0,0,,,,,,"",""
+ball,2,16.6,Australia,SA Abbott,AM Hardie,MW Forde,4,0,,,,,,"",""

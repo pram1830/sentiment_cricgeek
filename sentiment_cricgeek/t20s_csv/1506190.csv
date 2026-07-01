@@ -1,0 +1,338 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Bulgaria
+info,gender,female
+info,season,2025/26
+info,date,2025/10/12
+info,event,Women's Continental Cup
+info,match_number,10
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Norway
+info,toss_decision,bat
+info,player_of_match,R Immadi
+info,winner,Norway
+info,winner_runs,98
+info,player,Norway,AS Gorad
+info,player,Norway,A Rautela
+info,player,Norway,Ayesha Hasan
+info,player,Norway,Nayab Razwan
+info,player,Norway,R Immadi
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,Mirab Razwan
+info,player,Norway,VB Viyala
+info,player,Norway,Alina Aslam
+info,player,Norway,Lopamudra
+info,player,Norway,Prachi Kumari
+info,player,Bulgaria,T Dissanayake
+info,player,Bulgaria,S Sarandeva
+info,player,Bulgaria,D Ruynekova
+info,player,Bulgaria,V Nikolova
+info,player,Bulgaria,S Galabova
+info,player,Bulgaria,M Abadjieva
+info,player,Bulgaria,K Srandeva
+info,player,Bulgaria,V Kostova
+info,player,Bulgaria,N Gocheva
+info,player,Bulgaria,N Toleva
+info,player,Bulgaria,V Atanasova
+info,registry,people,A Rautela,e113c6c7
+info,registry,people,AS Gorad,2c8d0953
+info,registry,people,Alina Aslam,fbffb752
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,D Ruynekova,c3890e1e
+info,registry,people,K Srandeva,38602b15
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,M Abadjieva,f37f1c61
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,N Gocheva,1be8f244
+info,registry,people,N Toleva,d381938d
+info,registry,people,Nayab Razwan,f12e21a0
+info,registry,people,Prachi Kumari,dc4f97bf
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,S Galabova,21bcbbdd
+info,registry,people,S Sarandeva,dacecca3
+info,registry,people,T Dissanayake,5fb4c015
+info,registry,people,V Atanasova,b97e474c
+info,registry,people,V Kostova,6df505f4
+info,registry,people,V Nikolova,078d1eb5
+info,registry,people,VB Viyala,228a747d
+ball,1,0.1,Norway,AS Gorad,A Rautela,K Srandeva,0,0,,,,,,"",""
+ball,1,0.2,Norway,AS Gorad,A Rautela,K Srandeva,0,0,,,,,,"",""
+ball,1,0.3,Norway,AS Gorad,A Rautela,K Srandeva,0,0,,,,,,"",""
+ball,1,0.4,Norway,AS Gorad,A Rautela,K Srandeva,1,0,,,,,,"",""
+ball,1,0.5,Norway,A Rautela,AS Gorad,K Srandeva,0,0,,,,,,"",""
+ball,1,0.6,Norway,A Rautela,AS Gorad,K Srandeva,0,1,,1,,,,"",""
+ball,1,0.7,Norway,A Rautela,AS Gorad,K Srandeva,0,0,,,,,,"",""
+ball,1,1.1,Norway,AS Gorad,A Rautela,T Dissanayake,0,0,,,,,,"",""
+ball,1,1.2,Norway,AS Gorad,A Rautela,T Dissanayake,0,0,,,,,,"",""
+ball,1,1.3,Norway,AS Gorad,A Rautela,T Dissanayake,1,0,,,,,,"",""
+ball,1,1.4,Norway,A Rautela,AS Gorad,T Dissanayake,0,0,,,,,,"",""
+ball,1,1.5,Norway,A Rautela,AS Gorad,T Dissanayake,1,0,,,,,,"",""
+ball,1,1.6,Norway,AS Gorad,A Rautela,T Dissanayake,3,0,,,,,,"",""
+ball,1,2.1,Norway,AS Gorad,A Rautela,K Srandeva,0,0,,,,,,"",""
+ball,1,2.2,Norway,AS Gorad,A Rautela,K Srandeva,0,0,,,,,,caught,AS Gorad
+ball,1,2.3,Norway,Ayesha Hasan,A Rautela,K Srandeva,0,1,1,,,,,"",""
+ball,1,2.4,Norway,Ayesha Hasan,A Rautela,K Srandeva,0,0,,,,,,"",""
+ball,1,2.5,Norway,Ayesha Hasan,A Rautela,K Srandeva,4,0,,,,,,"",""
+ball,1,2.6,Norway,Ayesha Hasan,A Rautela,K Srandeva,0,1,1,,,,,"",""
+ball,1,2.7,Norway,Ayesha Hasan,A Rautela,K Srandeva,4,0,,,,,,"",""
+ball,1,2.8,Norway,Ayesha Hasan,A Rautela,K Srandeva,0,0,,,,,,"",""
+ball,1,3.1,Norway,A Rautela,Ayesha Hasan,T Dissanayake,0,0,,,,,,"",""
+ball,1,3.2,Norway,A Rautela,Ayesha Hasan,T Dissanayake,1,0,,,,,,"",""
+ball,1,3.3,Norway,Ayesha Hasan,A Rautela,T Dissanayake,0,0,,,,,,"",""
+ball,1,3.4,Norway,Ayesha Hasan,A Rautela,T Dissanayake,2,0,,,,,,"",""
+ball,1,3.5,Norway,Ayesha Hasan,A Rautela,T Dissanayake,1,0,,,,,,"",""
+ball,1,3.6,Norway,A Rautela,Ayesha Hasan,T Dissanayake,0,0,,,,,,"",""
+ball,1,4.1,Norway,Ayesha Hasan,A Rautela,S Sarandeva,0,0,,,,,,"",""
+ball,1,4.2,Norway,Ayesha Hasan,A Rautela,S Sarandeva,0,0,,,,,,"",""
+ball,1,4.3,Norway,Ayesha Hasan,A Rautela,S Sarandeva,2,0,,,,,,"",""
+ball,1,4.4,Norway,Ayesha Hasan,A Rautela,S Sarandeva,4,0,,,,,,"",""
+ball,1,4.5,Norway,Ayesha Hasan,A Rautela,S Sarandeva,2,0,,,,,,"",""
+ball,1,4.6,Norway,Ayesha Hasan,A Rautela,S Sarandeva,0,1,1,,,,,"",""
+ball,1,4.7,Norway,Ayesha Hasan,A Rautela,S Sarandeva,0,2,2,,,,,"",""
+ball,1,4.8,Norway,A Rautela,Ayesha Hasan,S Sarandeva,0,0,,,,,,"",""
+ball,1,5.1,Norway,Ayesha Hasan,A Rautela,D Ruynekova,1,0,,,,,,"",""
+ball,1,5.2,Norway,A Rautela,Ayesha Hasan,D Ruynekova,1,0,,,,,,"",""
+ball,1,5.3,Norway,Ayesha Hasan,A Rautela,D Ruynekova,0,1,1,,,,,"",""
+ball,1,5.4,Norway,Ayesha Hasan,A Rautela,D Ruynekova,4,0,,,,,,"",""
+ball,1,5.5,Norway,Ayesha Hasan,A Rautela,D Ruynekova,3,0,,,,,,"",""
+ball,1,5.6,Norway,A Rautela,Ayesha Hasan,D Ruynekova,0,0,,,,,,"",""
+ball,1,5.7,Norway,A Rautela,Ayesha Hasan,D Ruynekova,1,0,,,,,,"",""
+ball,1,6.1,Norway,A Rautela,Ayesha Hasan,S Sarandeva,0,0,,,,,,"",""
+ball,1,6.2,Norway,A Rautela,Ayesha Hasan,S Sarandeva,0,0,,,,,,"",""
+ball,1,6.3,Norway,A Rautela,Ayesha Hasan,S Sarandeva,0,0,,,,,,"",""
+ball,1,6.4,Norway,A Rautela,Ayesha Hasan,S Sarandeva,1,0,,,,,,"",""
+ball,1,6.5,Norway,Ayesha Hasan,A Rautela,S Sarandeva,1,0,,,,,,"",""
+ball,1,6.6,Norway,A Rautela,Ayesha Hasan,S Sarandeva,2,0,,,,,,"",""
+ball,1,7.1,Norway,Ayesha Hasan,A Rautela,D Ruynekova,0,0,,,,,,caught,Ayesha Hasan
+ball,1,7.2,Norway,Nayab Razwan,A Rautela,D Ruynekova,0,1,1,,,,,"",""
+ball,1,7.3,Norway,Nayab Razwan,A Rautela,D Ruynekova,0,1,1,,,,,"",""
+ball,1,7.4,Norway,Nayab Razwan,A Rautela,D Ruynekova,0,1,1,,,,,"",""
+ball,1,7.5,Norway,Nayab Razwan,A Rautela,D Ruynekova,0,0,,,,,,"",""
+ball,1,7.6,Norway,Nayab Razwan,A Rautela,D Ruynekova,2,0,,,,,,"",""
+ball,1,7.7,Norway,Nayab Razwan,A Rautela,D Ruynekova,2,0,,,,,,"",""
+ball,1,7.8,Norway,Nayab Razwan,A Rautela,D Ruynekova,0,0,,,,,,"",""
+ball,1,7.9,Norway,Nayab Razwan,A Rautela,D Ruynekova,1,0,,,,,,"",""
+ball,1,8.1,Norway,Nayab Razwan,A Rautela,S Sarandeva,0,0,,,,,,"",""
+ball,1,8.2,Norway,Nayab Razwan,A Rautela,S Sarandeva,0,0,,,,,,caught,Nayab Razwan
+ball,1,8.3,Norway,R Immadi,A Rautela,S Sarandeva,1,0,,,,,,"",""
+ball,1,8.4,Norway,A Rautela,R Immadi,S Sarandeva,0,0,,,,,,caught,A Rautela
+ball,1,8.5,Norway,Bijeyata Kumari,R Immadi,S Sarandeva,1,0,,,,,,"",""
+ball,1,8.6,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,1,1,,,,,"",""
+ball,1,8.7,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,0,,,,,,"",""
+ball,1,9.1,Norway,Bijeyata Kumari,R Immadi,V Atanasova,0,0,,,,,,"",""
+ball,1,9.2,Norway,Bijeyata Kumari,R Immadi,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.3,Norway,Bijeyata Kumari,R Immadi,V Atanasova,0,0,,,,,,"",""
+ball,1,9.4,Norway,Bijeyata Kumari,R Immadi,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.5,Norway,Bijeyata Kumari,R Immadi,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.6,Norway,Bijeyata Kumari,R Immadi,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.7,Norway,Bijeyata Kumari,R Immadi,V Atanasova,1,0,,,,,,"",""
+ball,1,9.8,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.9,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,0,,,,,,"",""
+ball,1,9.10,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.11,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.12,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.13,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,9.14,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,0,,,,,,"",""
+ball,1,9.15,Norway,R Immadi,Bijeyata Kumari,V Atanasova,1,0,,,,,,"",""
+ball,1,10.1,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,1,0,,,,,,"",""
+ball,1,10.2,Norway,Bijeyata Kumari,R Immadi,S Sarandeva,0,1,1,,,,,"",""
+ball,1,10.3,Norway,Bijeyata Kumari,R Immadi,S Sarandeva,0,1,1,,,,,"",""
+ball,1,10.4,Norway,Bijeyata Kumari,R Immadi,S Sarandeva,0,0,,,,,,"",""
+ball,1,10.5,Norway,Bijeyata Kumari,R Immadi,S Sarandeva,1,0,,,,,,"",""
+ball,1,10.6,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,1,1,,,,,"",""
+ball,1,10.7,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,0,,,,,,"",""
+ball,1,10.8,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,1,1,,,,,"",""
+ball,1,10.9,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,0,,,,,,"",""
+ball,1,10.10,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,1,1,,,,,"",""
+ball,1,10.11,Norway,R Immadi,Bijeyata Kumari,S Sarandeva,0,0,,,,,,"",""
+ball,1,11.1,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,1,1,,,,,"",""
+ball,1,11.2,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,0,,,,,,"",""
+ball,1,11.3,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,0,,,,,,"",""
+ball,1,11.4,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,1,0,,,,,,"",""
+ball,1,11.5,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,0,,,,,,"",""
+ball,1,11.6,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,1,1,,,,,"",""
+ball,1,11.7,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,0,,,,,,"",""
+ball,1,11.8,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,1,1,,,,,"",""
+ball,1,11.9,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,1,1,,,,,"",""
+ball,1,11.10,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,1,1,,,,,"",""
+ball,1,11.11,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,1,1,,,,,"",""
+ball,1,11.12,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,1,1,,,,,"",""
+ball,1,11.13,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,0,,,,,,"",""
+ball,1,12.1,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,0,,,,,,"",""
+ball,1,12.2,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,0,,,,,,"",""
+ball,1,12.3,Norway,Bijeyata Kumari,R Immadi,N Toleva,1,0,,,,,,"",""
+ball,1,12.4,Norway,R Immadi,Bijeyata Kumari,N Toleva,2,0,,,,,,"",""
+ball,1,12.5,Norway,R Immadi,Bijeyata Kumari,N Toleva,1,0,,,,,,"",""
+ball,1,12.6,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,1,,,,,"",""
+ball,1,12.7,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,1,,,,,"",""
+ball,1,12.8,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,1,,,,,"",""
+ball,1,12.9,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,1,,,,,"",""
+ball,1,12.10,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,0,,,,,,"",""
+ball,1,13.1,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.2,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.3,Norway,R Immadi,Bijeyata Kumari,V Atanasova,4,0,,,,,,"",""
+ball,1,13.4,Norway,R Immadi,Bijeyata Kumari,V Atanasova,4,0,,,,,,"",""
+ball,1,13.5,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.6,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.7,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,0,,,,,,"",""
+ball,1,13.8,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.9,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.10,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,0,,,,,,"",""
+ball,1,13.11,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.12,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.13,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.14,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.15,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,1,1,,,,,"",""
+ball,1,13.16,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,0,,,,,,"",""
+ball,1,13.17,Norway,R Immadi,Bijeyata Kumari,V Atanasova,0,0,,,,,,"",""
+ball,1,14.1,Norway,Bijeyata Kumari,R Immadi,K Srandeva,0,0,,,,,,"",""
+ball,1,14.2,Norway,Bijeyata Kumari,R Immadi,K Srandeva,0,1,1,,,,,"",""
+ball,1,14.3,Norway,Bijeyata Kumari,R Immadi,K Srandeva,2,0,,,,,,"",""
+ball,1,14.4,Norway,Bijeyata Kumari,R Immadi,K Srandeva,0,0,,,,,,"",""
+ball,1,14.5,Norway,Bijeyata Kumari,R Immadi,K Srandeva,1,0,,,,,,"",""
+ball,1,14.6,Norway,R Immadi,Bijeyata Kumari,K Srandeva,0,0,,,,,,"",""
+ball,1,14.7,Norway,R Immadi,Bijeyata Kumari,K Srandeva,0,2,2,,,,,"",""
+ball,1,14.8,Norway,Bijeyata Kumari,R Immadi,K Srandeva,0,0,,,,,,"",""
+ball,1,15.1,Norway,R Immadi,Bijeyata Kumari,T Dissanayake,1,0,,,,,,"",""
+ball,1,15.2,Norway,Bijeyata Kumari,R Immadi,T Dissanayake,0,0,,,,,,"",""
+ball,1,15.3,Norway,Bijeyata Kumari,R Immadi,T Dissanayake,0,0,,,,,,"",""
+ball,1,15.4,Norway,Bijeyata Kumari,R Immadi,T Dissanayake,0,0,,,,,,"",""
+ball,1,15.5,Norway,Bijeyata Kumari,R Immadi,T Dissanayake,0,0,,,,,,"",""
+ball,1,15.6,Norway,Bijeyata Kumari,R Immadi,T Dissanayake,0,0,,,,,,"",""
+ball,1,16.1,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,0,,,,,,"",""
+ball,1,16.2,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,2,2,,,,,"",""
+ball,1,16.3,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,1,1,,,,,"",""
+ball,1,16.4,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,1,1,,,,,"",""
+ball,1,16.5,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,1,1,,,,,"",""
+ball,1,16.6,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,1,1,,,,,"",""
+ball,1,16.7,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,1,1,,,,,"",""
+ball,1,16.8,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,1,,1,,,,"",""
+ball,1,16.9,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,1,0,,,,,,"",""
+ball,1,16.10,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,0,0,,,,,,"",""
+ball,1,16.11,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,1,0,,,,,,"",""
+ball,1,16.12,Norway,R Immadi,Bijeyata Kumari,D Ruynekova,1,0,,,,,,"",""
+ball,1,16.13,Norway,Bijeyata Kumari,R Immadi,D Ruynekova,0,0,,,,,,"",""
+ball,1,17.1,Norway,R Immadi,Bijeyata Kumari,T Dissanayake,1,0,,,,,,"",""
+ball,1,17.2,Norway,Bijeyata Kumari,R Immadi,T Dissanayake,1,0,,,,,,"",""
+ball,1,17.3,Norway,R Immadi,Bijeyata Kumari,T Dissanayake,0,0,,,,,,"",""
+ball,1,17.4,Norway,R Immadi,Bijeyata Kumari,T Dissanayake,0,0,,,,,,"",""
+ball,1,17.5,Norway,R Immadi,Bijeyata Kumari,T Dissanayake,1,0,,,,,,"",""
+ball,1,17.6,Norway,Bijeyata Kumari,R Immadi,T Dissanayake,1,0,,,,,,"",""
+ball,1,18.1,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,0,,,,,,"",""
+ball,1,18.2,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,1,,,,,"",""
+ball,1,18.3,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,,1,,,,"",""
+ball,1,18.4,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,1,,,,,"",""
+ball,1,18.5,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,,1,,,,"",""
+ball,1,18.6,Norway,Bijeyata Kumari,R Immadi,N Toleva,2,0,,,,,,"",""
+ball,1,18.7,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,,,,1,,"",""
+ball,1,18.8,Norway,R Immadi,Bijeyata Kumari,N Toleva,1,0,,,,,,"",""
+ball,1,18.9,Norway,Bijeyata Kumari,R Immadi,N Toleva,0,1,1,,,,,"",""
+ball,1,18.10,Norway,Bijeyata Kumari,R Immadi,N Toleva,1,0,,,,,,"",""
+ball,1,18.11,Norway,R Immadi,Bijeyata Kumari,N Toleva,0,1,,1,,,,"",""
+ball,1,18.12,Norway,R Immadi,Bijeyata Kumari,N Toleva,0,2,2,,,,,"",""
+ball,1,18.13,Norway,Bijeyata Kumari,R Immadi,N Toleva,1,0,,,,,,"",""
+ball,1,19.1,Norway,Bijeyata Kumari,R Immadi,K Srandeva,1,0,,,,,,"",""
+ball,1,19.2,Norway,R Immadi,Bijeyata Kumari,K Srandeva,1,0,,,,,,"",""
+ball,1,19.3,Norway,Bijeyata Kumari,R Immadi,K Srandeva,2,0,,,,,,"",""
+ball,1,19.4,Norway,Bijeyata Kumari,R Immadi,K Srandeva,3,0,,,,,,"",""
+ball,1,19.5,Norway,R Immadi,Bijeyata Kumari,K Srandeva,0,1,1,,,,,"",""
+ball,1,19.6,Norway,R Immadi,Bijeyata Kumari,K Srandeva,0,1,1,,,,,"",""
+ball,1,19.7,Norway,R Immadi,Bijeyata Kumari,K Srandeva,3,0,,,,,,"",""
+ball,1,19.8,Norway,Bijeyata Kumari,R Immadi,K Srandeva,1,0,,,,,,"",""
+ball,2,0.1,Bulgaria,T Dissanayake,S Sarandeva,Alina Aslam,0,1,1,,,,,"",""
+ball,2,0.2,Bulgaria,T Dissanayake,S Sarandeva,Alina Aslam,0,1,1,,,,,"",""
+ball,2,0.3,Bulgaria,T Dissanayake,S Sarandeva,Alina Aslam,1,0,,,,,,"",""
+ball,2,0.4,Bulgaria,S Sarandeva,T Dissanayake,Alina Aslam,1,0,,,,,,"",""
+ball,2,0.5,Bulgaria,T Dissanayake,S Sarandeva,Alina Aslam,2,0,,,,,,"",""
+ball,2,0.6,Bulgaria,T Dissanayake,S Sarandeva,Alina Aslam,0,0,,,,,,"",""
+ball,2,0.7,Bulgaria,T Dissanayake,S Sarandeva,Alina Aslam,2,0,,,,,,"",""
+ball,2,0.8,Bulgaria,T Dissanayake,S Sarandeva,Alina Aslam,0,0,,,,,,"",""
+ball,2,1.1,Bulgaria,S Sarandeva,T Dissanayake,R Immadi,0,0,,,,,,bowled,S Sarandeva
+ball,2,1.2,Bulgaria,D Ruynekova,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,1.3,Bulgaria,D Ruynekova,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,1.4,Bulgaria,D Ruynekova,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,1.5,Bulgaria,D Ruynekova,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,1.6,Bulgaria,D Ruynekova,T Dissanayake,R Immadi,0,1,1,,,,,"",""
+ball,2,1.7,Bulgaria,D Ruynekova,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,2.1,Bulgaria,T Dissanayake,D Ruynekova,Alina Aslam,2,0,,,,,,"",""
+ball,2,2.2,Bulgaria,T Dissanayake,D Ruynekova,Alina Aslam,0,0,,,,,,"",""
+ball,2,2.3,Bulgaria,T Dissanayake,D Ruynekova,Alina Aslam,0,1,1,,,,,"",""
+ball,2,2.4,Bulgaria,T Dissanayake,D Ruynekova,Alina Aslam,4,0,,,,,,"",""
+ball,2,2.5,Bulgaria,T Dissanayake,D Ruynekova,Alina Aslam,1,0,,,,,,"",""
+ball,2,2.6,Bulgaria,D Ruynekova,T Dissanayake,Alina Aslam,0,0,,,,,,bowled,D Ruynekova
+ball,2,2.7,Bulgaria,V Nikolova,T Dissanayake,Alina Aslam,0,0,,,,,,bowled,V Nikolova
+ball,2,3.1,Bulgaria,T Dissanayake,S Galabova,R Immadi,2,0,,,,,,"",""
+ball,2,3.2,Bulgaria,T Dissanayake,S Galabova,R Immadi,1,0,,,,,,"",""
+ball,2,3.3,Bulgaria,S Galabova,T Dissanayake,R Immadi,0,0,,,,,,caught,S Galabova
+ball,2,3.4,Bulgaria,M Abadjieva,T Dissanayake,R Immadi,0,1,1,,,,,"",""
+ball,2,3.5,Bulgaria,M Abadjieva,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,3.6,Bulgaria,M Abadjieva,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,3.7,Bulgaria,M Abadjieva,T Dissanayake,R Immadi,0,1,1,,,,,"",""
+ball,2,3.8,Bulgaria,M Abadjieva,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,4.1,Bulgaria,T Dissanayake,M Abadjieva,Alina Aslam,1,0,,,,,,"",""
+ball,2,4.2,Bulgaria,M Abadjieva,T Dissanayake,Alina Aslam,0,0,,,,,,"",""
+ball,2,4.3,Bulgaria,M Abadjieva,T Dissanayake,Alina Aslam,0,0,,,,,,"",""
+ball,2,4.4,Bulgaria,M Abadjieva,T Dissanayake,Alina Aslam,0,1,1,,,,,"",""
+ball,2,4.5,Bulgaria,M Abadjieva,T Dissanayake,Alina Aslam,0,0,,,,,,caught,M Abadjieva
+ball,2,4.6,Bulgaria,K Srandeva,T Dissanayake,Alina Aslam,0,1,1,,,,,"",""
+ball,2,4.7,Bulgaria,K Srandeva,T Dissanayake,Alina Aslam,0,1,1,,,,,"",""
+ball,2,4.8,Bulgaria,K Srandeva,T Dissanayake,Alina Aslam,0,0,,,,,,"",""
+ball,2,4.9,Bulgaria,K Srandeva,T Dissanayake,Alina Aslam,0,0,,,,,,"",""
+ball,2,5.1,Bulgaria,T Dissanayake,K Srandeva,R Immadi,1,0,,,,,,"",""
+ball,2,5.2,Bulgaria,K Srandeva,T Dissanayake,R Immadi,1,0,,,,,,"",""
+ball,2,5.3,Bulgaria,T Dissanayake,K Srandeva,R Immadi,1,0,,,,,,"",""
+ball,2,5.4,Bulgaria,K Srandeva,T Dissanayake,R Immadi,0,0,,,,,,bowled,K Srandeva
+ball,2,5.5,Bulgaria,V Kostova,T Dissanayake,R Immadi,0,0,,,,,,bowled,V Kostova
+ball,2,5.6,Bulgaria,N Gocheva,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,6.1,Bulgaria,T Dissanayake,N Gocheva,VB Viyala,2,0,,,,,,"",""
+ball,2,6.2,Bulgaria,T Dissanayake,N Gocheva,VB Viyala,0,0,,,,,,"",""
+ball,2,6.3,Bulgaria,T Dissanayake,N Gocheva,VB Viyala,1,0,,,,,,"",""
+ball,2,6.4,Bulgaria,N Gocheva,T Dissanayake,VB Viyala,0,0,,,,,,bowled,N Gocheva
+ball,2,6.5,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,6.6,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,0,,,,,,"",""
+ball,2,6.7,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,0,,,,,,"",""
+ball,2,7.1,Bulgaria,T Dissanayake,N Toleva,R Immadi,2,0,,,,,,"",""
+ball,2,7.2,Bulgaria,T Dissanayake,N Toleva,R Immadi,0,0,,,,,,"",""
+ball,2,7.3,Bulgaria,T Dissanayake,N Toleva,R Immadi,1,0,,,,,,"",""
+ball,2,7.4,Bulgaria,N Toleva,T Dissanayake,R Immadi,0,1,1,,,,,"",""
+ball,2,7.5,Bulgaria,N Toleva,T Dissanayake,R Immadi,0,0,,,,,,"",""
+ball,2,7.6,Bulgaria,N Toleva,T Dissanayake,R Immadi,1,0,,,,,,"",""
+ball,2,7.7,Bulgaria,T Dissanayake,N Toleva,R Immadi,1,0,,,,,,"",""
+ball,2,8.1,Bulgaria,T Dissanayake,N Toleva,VB Viyala,1,0,,,,,,"",""
+ball,2,8.2,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,8.3,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,8.4,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,0,,,,,,"",""
+ball,2,8.5,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,8.6,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,0,,,,,,"",""
+ball,2,8.7,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,0,,,,,,"",""
+ball,2,8.8,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,0,,,,,,"",""
+ball,2,8.9,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,8.10,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,8.11,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,8.12,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,1,1,,,,,"",""
+ball,2,8.13,Bulgaria,N Toleva,T Dissanayake,VB Viyala,0,0,,,,,,"",""
+ball,2,9.1,Bulgaria,T Dissanayake,N Toleva,Prachi Kumari,0,0,,,,,,"",""
+ball,2,9.2,Bulgaria,T Dissanayake,N Toleva,Prachi Kumari,1,0,,,,,,"",""
+ball,2,9.3,Bulgaria,N Toleva,T Dissanayake,Prachi Kumari,0,0,,,,,,"",""
+ball,2,9.4,Bulgaria,N Toleva,T Dissanayake,Prachi Kumari,0,0,,,,,,"",""
+ball,2,9.5,Bulgaria,N Toleva,T Dissanayake,Prachi Kumari,0,0,,,,,,"",""
+ball,2,9.6,Bulgaria,N Toleva,T Dissanayake,Prachi Kumari,1,0,,,,,,"",""
+ball,2,10.1,Bulgaria,N Toleva,T Dissanayake,Alina Aslam,1,0,,,,,,"",""
+ball,2,10.2,Bulgaria,T Dissanayake,N Toleva,Alina Aslam,1,0,,,,,,"",""
+ball,2,10.3,Bulgaria,N Toleva,T Dissanayake,Alina Aslam,0,0,,,,,,"",""
+ball,2,10.4,Bulgaria,N Toleva,T Dissanayake,Alina Aslam,0,0,,,,,,"",""
+ball,2,10.5,Bulgaria,N Toleva,T Dissanayake,Alina Aslam,0,1,,,,1,,"",""
+ball,2,10.6,Bulgaria,T Dissanayake,N Toleva,Alina Aslam,1,0,,,,,,"",""
+ball,2,11.1,Bulgaria,T Dissanayake,N Toleva,Prachi Kumari,4,0,,,,,,"",""
+ball,2,11.2,Bulgaria,T Dissanayake,N Toleva,Prachi Kumari,0,0,,,,,,"",""
+ball,2,11.3,Bulgaria,T Dissanayake,N Toleva,Prachi Kumari,2,0,,,,,,"",""
+ball,2,11.4,Bulgaria,T Dissanayake,N Toleva,Prachi Kumari,1,0,,,,,,"",""
+ball,2,11.5,Bulgaria,N Toleva,T Dissanayake,Prachi Kumari,0,0,,,,,,"",""
+ball,2,11.6,Bulgaria,N Toleva,T Dissanayake,Prachi Kumari,0,0,,,,,,"",""
+ball,2,12.1,Bulgaria,T Dissanayake,N Toleva,Nayab Razwan,0,0,,,,,,caught,T Dissanayake
+ball,2,12.2,Bulgaria,V Atanasova,N Toleva,Nayab Razwan,0,1,1,,,,,"",""
+ball,2,12.3,Bulgaria,V Atanasova,N Toleva,Nayab Razwan,0,1,1,,,,,"",""
+ball,2,12.4,Bulgaria,V Atanasova,N Toleva,Nayab Razwan,0,0,,,,,,bowled,V Atanasova

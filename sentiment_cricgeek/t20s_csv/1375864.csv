@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,female
+info,season,2023/24
+info,date,2023/10/02
+info,event,West Indies Women tour of Australia
+info,match_number,2
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,HK Matthews
+info,umpire,BC Treloar
+info,umpire,Eloise Sheridan
+info,reserve_umpire,CA Polosak
+info,tv_umpire,PJ Gillespie
+info,match_referee,Kent Hannam
+info,winner,West Indies
+info,winner_wickets,7
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,TM McGrath
+info,player,Australia,EA Perry
+info,player,Australia,A Gardner
+info,player,Australia,P Litchfield
+info,player,Australia,A Sutherland
+info,player,Australia,G Wareham
+info,player,Australia,JL Jonassen
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,player,West Indies,HK Matthews
+info,player,West Indies,S Gajnabi
+info,player,West Indies,SR Taylor
+info,player,West Indies,CA Henry
+info,player,West Indies,SA Campbelle
+info,player,West Indies,RS Williams
+info,player,West Indies,AA Alleyne
+info,player,West Indies,Z James
+info,player,West Indies,SS Connell
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,K Ramharack
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AJ Healy,321644de
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,CA Henry,75820733
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,D Brown,2e81be88
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RS Williams,406de451
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Z James,816af623
+ball,1,0.1,Australia,AJ Healy,BL Mooney,CA Henry,0,0,,,,,,caught,AJ Healy
+ball,1,0.2,Australia,TM McGrath,BL Mooney,CA Henry,0,0,,,,,,"",""
+ball,1,0.3,Australia,TM McGrath,BL Mooney,CA Henry,0,0,,,,,,"",""
+ball,1,0.4,Australia,TM McGrath,BL Mooney,CA Henry,1,0,,,,,,"",""
+ball,1,0.5,Australia,BL Mooney,TM McGrath,CA Henry,1,0,,,,,,"",""
+ball,1,0.6,Australia,TM McGrath,BL Mooney,CA Henry,0,0,,,,,,"",""
+ball,1,1.1,Australia,BL Mooney,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,1,1.2,Australia,TM McGrath,BL Mooney,HK Matthews,1,0,,,,,,"",""
+ball,1,1.3,Australia,BL Mooney,TM McGrath,HK Matthews,0,0,,,,,,"",""
+ball,1,1.4,Australia,BL Mooney,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,1,1.5,Australia,TM McGrath,BL Mooney,HK Matthews,2,0,,,,,,"",""
+ball,1,1.6,Australia,TM McGrath,BL Mooney,HK Matthews,0,0,,,,,,bowled,TM McGrath
+ball,1,2.1,Australia,BL Mooney,EA Perry,CA Henry,0,1,,,,1,,"",""
+ball,1,2.2,Australia,EA Perry,BL Mooney,CA Henry,0,0,,,,,,"",""
+ball,1,2.3,Australia,EA Perry,BL Mooney,CA Henry,1,0,,,,,,"",""
+ball,1,2.4,Australia,BL Mooney,EA Perry,CA Henry,1,0,,,,,,"",""
+ball,1,2.5,Australia,EA Perry,BL Mooney,CA Henry,1,0,,,,,,"",""
+ball,1,2.6,Australia,BL Mooney,EA Perry,CA Henry,0,0,,,,,,"",""
+ball,1,3.1,Australia,EA Perry,BL Mooney,HK Matthews,4,0,,,,,,"",""
+ball,1,3.2,Australia,EA Perry,BL Mooney,HK Matthews,0,0,,,,,,"",""
+ball,1,3.3,Australia,EA Perry,BL Mooney,HK Matthews,0,0,,,,,,"",""
+ball,1,3.4,Australia,EA Perry,BL Mooney,HK Matthews,1,0,,,,,,"",""
+ball,1,3.5,Australia,BL Mooney,EA Perry,HK Matthews,1,0,,,,,,"",""
+ball,1,3.6,Australia,EA Perry,BL Mooney,HK Matthews,1,0,,,,,,"",""
+ball,1,4.1,Australia,EA Perry,BL Mooney,AA Alleyne,0,0,,,,,,"",""
+ball,1,4.2,Australia,EA Perry,BL Mooney,AA Alleyne,0,0,,,,,,"",""
+ball,1,4.3,Australia,EA Perry,BL Mooney,AA Alleyne,0,0,,,,,,"",""
+ball,1,4.4,Australia,EA Perry,BL Mooney,AA Alleyne,6,0,,,,,,"",""
+ball,1,4.5,Australia,EA Perry,BL Mooney,AA Alleyne,0,0,,,,,,"",""
+ball,1,4.6,Australia,EA Perry,BL Mooney,AA Alleyne,1,0,,,,,,"",""
+ball,1,5.1,Australia,EA Perry,BL Mooney,K Ramharack,6,0,,,,,,"",""
+ball,1,5.2,Australia,EA Perry,BL Mooney,K Ramharack,1,0,,,,,,"",""
+ball,1,5.3,Australia,BL Mooney,EA Perry,K Ramharack,1,0,,,,,,"",""
+ball,1,5.4,Australia,EA Perry,BL Mooney,K Ramharack,0,0,,,,,,"",""
+ball,1,5.5,Australia,EA Perry,BL Mooney,K Ramharack,1,0,,,,,,"",""
+ball,1,5.6,Australia,BL Mooney,EA Perry,K Ramharack,4,0,,,,,,"",""
+ball,1,6.1,Australia,EA Perry,BL Mooney,ASS Fletcher,0,0,,,,,,"",""
+ball,1,6.2,Australia,EA Perry,BL Mooney,ASS Fletcher,1,0,,,,,,"",""
+ball,1,6.3,Australia,BL Mooney,EA Perry,ASS Fletcher,0,0,,,,,,"",""
+ball,1,6.4,Australia,BL Mooney,EA Perry,ASS Fletcher,4,0,,,,,,"",""
+ball,1,6.5,Australia,BL Mooney,EA Perry,ASS Fletcher,0,0,,,,,,"",""
+ball,1,6.6,Australia,BL Mooney,EA Perry,ASS Fletcher,0,0,,,,,,"",""
+ball,1,7.1,Australia,EA Perry,BL Mooney,SS Connell,1,0,,,,,,"",""
+ball,1,7.2,Australia,BL Mooney,EA Perry,SS Connell,1,0,,,,,,"",""
+ball,1,7.3,Australia,EA Perry,BL Mooney,SS Connell,1,0,,,,,,"",""
+ball,1,7.4,Australia,BL Mooney,EA Perry,SS Connell,0,1,1,,,,,"",""
+ball,1,7.5,Australia,BL Mooney,EA Perry,SS Connell,1,0,,,,,,"",""
+ball,1,7.6,Australia,EA Perry,BL Mooney,SS Connell,1,0,,,,,,"",""
+ball,1,7.7,Australia,BL Mooney,EA Perry,SS Connell,0,0,,,,,,"",""
+ball,1,8.1,Australia,EA Perry,BL Mooney,Z James,4,0,,,,,,"",""
+ball,1,8.2,Australia,EA Perry,BL Mooney,Z James,2,0,,,,,,"",""
+ball,1,8.3,Australia,EA Perry,BL Mooney,Z James,2,0,,,,,,"",""
+ball,1,8.4,Australia,EA Perry,BL Mooney,Z James,1,0,,,,,,"",""
+ball,1,8.5,Australia,BL Mooney,EA Perry,Z James,4,0,,,,,,"",""
+ball,1,8.6,Australia,BL Mooney,EA Perry,Z James,4,0,,,,,,"",""
+ball,1,9.1,Australia,EA Perry,BL Mooney,HK Matthews,4,0,,,,,,"",""
+ball,1,9.2,Australia,EA Perry,BL Mooney,HK Matthews,1,0,,,,,,"",""
+ball,1,9.3,Australia,BL Mooney,EA Perry,HK Matthews,4,0,,,,,,"",""
+ball,1,9.4,Australia,BL Mooney,EA Perry,HK Matthews,1,0,,,,,,"",""
+ball,1,9.5,Australia,EA Perry,BL Mooney,HK Matthews,1,0,,,,,,"",""
+ball,1,9.6,Australia,BL Mooney,EA Perry,HK Matthews,0,0,,,,,,caught,BL Mooney
+ball,1,10.1,Australia,EA Perry,A Gardner,ASS Fletcher,1,0,,,,,,"",""
+ball,1,10.2,Australia,A Gardner,EA Perry,ASS Fletcher,1,0,,,,,,"",""
+ball,1,10.3,Australia,EA Perry,A Gardner,ASS Fletcher,1,0,,,,,,"",""
+ball,1,10.4,Australia,A Gardner,EA Perry,ASS Fletcher,1,0,,,,,,"",""
+ball,1,10.5,Australia,EA Perry,A Gardner,ASS Fletcher,0,0,,,,,,"",""
+ball,1,10.6,Australia,EA Perry,A Gardner,ASS Fletcher,6,0,,,,,,"",""
+ball,1,11.1,Australia,A Gardner,EA Perry,SS Connell,0,0,,,,,,"",""
+ball,1,11.2,Australia,A Gardner,EA Perry,SS Connell,0,0,,,,,,"",""
+ball,1,11.3,Australia,A Gardner,EA Perry,SS Connell,0,0,,,,,,"",""
+ball,1,11.4,Australia,A Gardner,EA Perry,SS Connell,0,0,,,,,,caught,A Gardner
+ball,1,11.5,Australia,P Litchfield,EA Perry,SS Connell,1,0,,,,,,"",""
+ball,1,11.6,Australia,EA Perry,P Litchfield,SS Connell,1,0,,,,,,"",""
+ball,1,12.1,Australia,EA Perry,P Litchfield,K Ramharack,4,0,,,,,,"",""
+ball,1,12.2,Australia,EA Perry,P Litchfield,K Ramharack,2,0,,,,,,"",""
+ball,1,12.3,Australia,EA Perry,P Litchfield,K Ramharack,0,0,,,,,,"",""
+ball,1,12.4,Australia,EA Perry,P Litchfield,K Ramharack,6,0,,,,,,"",""
+ball,1,12.5,Australia,EA Perry,P Litchfield,K Ramharack,4,0,,,,,,"",""
+ball,1,12.6,Australia,EA Perry,P Litchfield,K Ramharack,1,0,,,,,,"",""
+ball,1,13.1,Australia,EA Perry,P Litchfield,AA Alleyne,1,0,,,,,,"",""
+ball,1,13.2,Australia,P Litchfield,EA Perry,AA Alleyne,6,0,,,,,,"",""
+ball,1,13.3,Australia,P Litchfield,EA Perry,AA Alleyne,1,0,,,,,,"",""
+ball,1,13.4,Australia,EA Perry,P Litchfield,AA Alleyne,1,0,,,,,,"",""
+ball,1,13.5,Australia,P Litchfield,EA Perry,AA Alleyne,2,0,,,,,,"",""
+ball,1,13.6,Australia,P Litchfield,EA Perry,AA Alleyne,1,0,,,,,,"",""
+ball,1,14.1,Australia,P Litchfield,EA Perry,SS Connell,1,0,,,,,,"",""
+ball,1,14.2,Australia,EA Perry,P Litchfield,SS Connell,0,1,1,,,,,"",""
+ball,1,14.3,Australia,EA Perry,P Litchfield,SS Connell,0,0,,,,,,"",""
+ball,1,14.4,Australia,EA Perry,P Litchfield,SS Connell,0,0,,,,,,"",""
+ball,1,14.5,Australia,EA Perry,P Litchfield,SS Connell,0,0,,,,,,caught,EA Perry
+ball,1,14.6,Australia,A Sutherland,P Litchfield,SS Connell,0,0,,,,,,"",""
+ball,1,14.7,Australia,A Sutherland,P Litchfield,SS Connell,4,0,,,,,,"",""
+ball,1,15.1,Australia,P Litchfield,A Sutherland,CA Henry,0,0,,,,,,"",""
+ball,1,15.2,Australia,P Litchfield,A Sutherland,CA Henry,1,0,,,,,,"",""
+ball,1,15.3,Australia,A Sutherland,P Litchfield,CA Henry,4,0,,,,,,"",""
+ball,1,15.4,Australia,A Sutherland,P Litchfield,CA Henry,1,0,,,,,,"",""
+ball,1,15.5,Australia,P Litchfield,A Sutherland,CA Henry,6,0,,,,,,"",""
+ball,1,15.6,Australia,P Litchfield,A Sutherland,CA Henry,6,0,,,,,,"",""
+ball,1,16.1,Australia,A Sutherland,P Litchfield,HK Matthews,4,0,,,,,,"",""
+ball,1,16.2,Australia,A Sutherland,P Litchfield,HK Matthews,0,0,,,,,,caught,A Sutherland
+ball,1,16.3,Australia,G Wareham,P Litchfield,HK Matthews,2,0,,,,,,"",""
+ball,1,16.4,Australia,G Wareham,P Litchfield,HK Matthews,2,0,,,,,,"",""
+ball,1,16.5,Australia,G Wareham,P Litchfield,HK Matthews,4,0,,,,,,"",""
+ball,1,16.6,Australia,G Wareham,P Litchfield,HK Matthews,1,0,,,,,,"",""
+ball,1,17.1,Australia,G Wareham,P Litchfield,AA Alleyne,4,0,,,,,,"",""
+ball,1,17.2,Australia,G Wareham,P Litchfield,AA Alleyne,0,0,,,,,,"",""
+ball,1,17.3,Australia,G Wareham,P Litchfield,AA Alleyne,4,0,,,,,,"",""
+ball,1,17.4,Australia,G Wareham,P Litchfield,AA Alleyne,2,0,,,,,,"",""
+ball,1,17.5,Australia,G Wareham,P Litchfield,AA Alleyne,0,3,3,,,,,"",""
+ball,1,17.6,Australia,G Wareham,P Litchfield,AA Alleyne,0,0,,,,,,"",""
+ball,1,17.7,Australia,G Wareham,P Litchfield,AA Alleyne,0,1,1,,,,,"",""
+ball,1,17.8,Australia,G Wareham,P Litchfield,AA Alleyne,4,0,,,,,,"",""
+ball,1,18.1,Australia,P Litchfield,G Wareham,SS Connell,2,0,,,,,,"",""
+ball,1,18.2,Australia,P Litchfield,G Wareham,SS Connell,4,0,,,,,,"",""
+ball,1,18.3,Australia,P Litchfield,G Wareham,SS Connell,6,0,,,,,,"",""
+ball,1,18.4,Australia,P Litchfield,G Wareham,SS Connell,1,0,,,,,,"",""
+ball,1,18.5,Australia,G Wareham,P Litchfield,SS Connell,4,0,,,,,,"",""
+ball,1,18.6,Australia,G Wareham,P Litchfield,SS Connell,4,0,,,,,,"",""
+ball,1,19.1,Australia,P Litchfield,G Wareham,AA Alleyne,0,1,,,1,,,"",""
+ball,1,19.2,Australia,G Wareham,P Litchfield,AA Alleyne,1,0,,,,,,"",""
+ball,1,19.3,Australia,P Litchfield,G Wareham,AA Alleyne,4,0,,,,,,"",""
+ball,1,19.4,Australia,P Litchfield,G Wareham,AA Alleyne,4,0,,,,,,"",""
+ball,1,19.5,Australia,P Litchfield,G Wareham,AA Alleyne,6,0,,,,,,"",""
+ball,1,19.6,Australia,P Litchfield,G Wareham,AA Alleyne,0,1,1,,,,,"",""
+ball,1,19.7,Australia,P Litchfield,G Wareham,AA Alleyne,0,1,,,1,,,"",""
+ball,2,0.1,West Indies,HK Matthews,S Gajnabi,ML Schutt,0,0,,,,,,"",""
+ball,2,0.2,West Indies,HK Matthews,S Gajnabi,ML Schutt,4,0,,,,,,"",""
+ball,2,0.3,West Indies,HK Matthews,S Gajnabi,ML Schutt,0,0,,,,,,"",""
+ball,2,0.4,West Indies,HK Matthews,S Gajnabi,ML Schutt,0,1,,,,1,,"",""
+ball,2,0.5,West Indies,S Gajnabi,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,0.6,West Indies,S Gajnabi,HK Matthews,ML Schutt,1,0,,,,,,"",""
+ball,2,1.1,West Indies,S Gajnabi,HK Matthews,D Brown,0,1,,,,1,,"",""
+ball,2,1.2,West Indies,HK Matthews,S Gajnabi,D Brown,0,0,,,,,,"",""
+ball,2,1.3,West Indies,HK Matthews,S Gajnabi,D Brown,4,0,,,,,,"",""
+ball,2,1.4,West Indies,HK Matthews,S Gajnabi,D Brown,0,0,,,,,,"",""
+ball,2,1.5,West Indies,HK Matthews,S Gajnabi,D Brown,0,0,,,,,,"",""
+ball,2,1.6,West Indies,HK Matthews,S Gajnabi,D Brown,0,0,,,,,,"",""
+ball,2,2.1,West Indies,S Gajnabi,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,2.2,West Indies,S Gajnabi,HK Matthews,ML Schutt,0,0,,,,,,caught,S Gajnabi
+ball,2,2.3,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,2.4,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,2.5,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,2.6,West Indies,SR Taylor,HK Matthews,ML Schutt,1,0,,,,,,"",""
+ball,2,3.1,West Indies,SR Taylor,HK Matthews,D Brown,0,0,,,,,,"",""
+ball,2,3.2,West Indies,SR Taylor,HK Matthews,D Brown,0,0,,,,,,"",""
+ball,2,3.3,West Indies,SR Taylor,HK Matthews,D Brown,1,0,,,,,,"",""
+ball,2,3.4,West Indies,HK Matthews,SR Taylor,D Brown,0,1,1,,,,,"",""
+ball,2,3.5,West Indies,HK Matthews,SR Taylor,D Brown,4,0,,,,,,"",""
+ball,2,3.6,West Indies,HK Matthews,SR Taylor,D Brown,4,0,,,,,,"",""
+ball,2,3.7,West Indies,HK Matthews,SR Taylor,D Brown,4,0,,,,,,"",""
+ball,2,4.1,West Indies,SR Taylor,HK Matthews,ML Schutt,4,0,,,,,,"",""
+ball,2,4.2,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,4.3,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,4.4,West Indies,SR Taylor,HK Matthews,ML Schutt,4,0,,,,,,"",""
+ball,2,4.5,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,4.6,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,5.1,West Indies,HK Matthews,SR Taylor,A Gardner,4,0,,,,,,"",""
+ball,2,5.2,West Indies,HK Matthews,SR Taylor,A Gardner,4,0,,,,,,"",""
+ball,2,5.3,West Indies,HK Matthews,SR Taylor,A Gardner,0,0,,,,,,"",""
+ball,2,5.4,West Indies,HK Matthews,SR Taylor,A Gardner,1,0,,,,,,"",""
+ball,2,5.5,West Indies,SR Taylor,HK Matthews,A Gardner,0,0,,,,,,"",""
+ball,2,5.6,West Indies,SR Taylor,HK Matthews,A Gardner,1,0,,,,,,"",""
+ball,2,6.1,West Indies,SR Taylor,HK Matthews,A Sutherland,1,0,,,,,,"",""
+ball,2,6.2,West Indies,HK Matthews,SR Taylor,A Sutherland,1,0,,,,,,"",""
+ball,2,6.3,West Indies,SR Taylor,HK Matthews,A Sutherland,1,0,,,,,,"",""
+ball,2,6.4,West Indies,HK Matthews,SR Taylor,A Sutherland,1,0,,,,,,"",""
+ball,2,6.5,West Indies,SR Taylor,HK Matthews,A Sutherland,0,0,,,,,,"",""
+ball,2,6.6,West Indies,SR Taylor,HK Matthews,A Sutherland,4,0,,,,,,"",""
+ball,2,7.1,West Indies,HK Matthews,SR Taylor,G Wareham,1,0,,,,,,"",""
+ball,2,7.2,West Indies,SR Taylor,HK Matthews,G Wareham,0,2,,,,2,,"",""
+ball,2,7.3,West Indies,SR Taylor,HK Matthews,G Wareham,1,0,,,,,,"",""
+ball,2,7.4,West Indies,HK Matthews,SR Taylor,G Wareham,4,0,,,,,,"",""
+ball,2,7.5,West Indies,HK Matthews,SR Taylor,G Wareham,1,0,,,,,,"",""
+ball,2,7.6,West Indies,SR Taylor,HK Matthews,G Wareham,0,1,1,,,,,"",""
+ball,2,7.7,West Indies,SR Taylor,HK Matthews,G Wareham,2,0,,,,,,"",""
+ball,2,8.1,West Indies,HK Matthews,SR Taylor,JL Jonassen,6,0,,,,,,"",""
+ball,2,8.2,West Indies,HK Matthews,SR Taylor,JL Jonassen,2,0,,,,,,"",""
+ball,2,8.3,West Indies,HK Matthews,SR Taylor,JL Jonassen,4,0,,,,,,"",""
+ball,2,8.4,West Indies,HK Matthews,SR Taylor,JL Jonassen,0,0,,,,,,"",""
+ball,2,8.5,West Indies,HK Matthews,SR Taylor,JL Jonassen,4,0,,,,,,"",""
+ball,2,8.6,West Indies,HK Matthews,SR Taylor,JL Jonassen,1,0,,,,,,"",""
+ball,2,9.1,West Indies,HK Matthews,SR Taylor,TM McGrath,0,0,,,,,,"",""
+ball,2,9.2,West Indies,HK Matthews,SR Taylor,TM McGrath,4,0,,,,,,"",""
+ball,2,9.3,West Indies,HK Matthews,SR Taylor,TM McGrath,6,0,,,,,,"",""
+ball,2,9.4,West Indies,HK Matthews,SR Taylor,TM McGrath,4,0,,,,,,"",""
+ball,2,9.5,West Indies,HK Matthews,SR Taylor,TM McGrath,0,0,,,,,,"",""
+ball,2,9.6,West Indies,HK Matthews,SR Taylor,TM McGrath,1,0,,,,,,"",""
+ball,2,10.1,West Indies,HK Matthews,SR Taylor,A Gardner,0,1,1,,,,,"",""
+ball,2,10.2,West Indies,HK Matthews,SR Taylor,A Gardner,1,0,,,,,,"",""
+ball,2,10.3,West Indies,SR Taylor,HK Matthews,A Gardner,1,0,,,,,,"",""
+ball,2,10.4,West Indies,HK Matthews,SR Taylor,A Gardner,1,0,,,,,,"",""
+ball,2,10.5,West Indies,SR Taylor,HK Matthews,A Gardner,4,0,,,,,,"",""
+ball,2,10.6,West Indies,SR Taylor,HK Matthews,A Gardner,0,0,,,,,,"",""
+ball,2,10.7,West Indies,SR Taylor,HK Matthews,A Gardner,4,0,,,,,,"",""
+ball,2,11.1,West Indies,HK Matthews,SR Taylor,A Sutherland,1,0,,,,,,"",""
+ball,2,11.2,West Indies,SR Taylor,HK Matthews,A Sutherland,1,0,,,,,,"",""
+ball,2,11.3,West Indies,HK Matthews,SR Taylor,A Sutherland,0,1,,,,1,,"",""
+ball,2,11.4,West Indies,SR Taylor,HK Matthews,A Sutherland,1,0,,,,,,"",""
+ball,2,11.5,West Indies,HK Matthews,SR Taylor,A Sutherland,1,0,,,,,,"",""
+ball,2,11.6,West Indies,SR Taylor,HK Matthews,A Sutherland,4,0,,,,,,"",""
+ball,2,12.1,West Indies,HK Matthews,SR Taylor,D Brown,6,0,,,,,,"",""
+ball,2,12.2,West Indies,HK Matthews,SR Taylor,D Brown,0,0,,,,,,"",""
+ball,2,12.3,West Indies,HK Matthews,SR Taylor,D Brown,2,0,,,,,,"",""
+ball,2,12.4,West Indies,HK Matthews,SR Taylor,D Brown,6,0,,,,,,"",""
+ball,2,12.5,West Indies,HK Matthews,SR Taylor,D Brown,0,0,,,,,,"",""
+ball,2,12.6,West Indies,HK Matthews,SR Taylor,D Brown,0,0,,,,,,"",""
+ball,2,13.1,West Indies,SR Taylor,HK Matthews,G Wareham,4,0,,,,,,"",""
+ball,2,13.2,West Indies,SR Taylor,HK Matthews,G Wareham,4,0,,,,,,"",""
+ball,2,13.3,West Indies,SR Taylor,HK Matthews,G Wareham,1,0,,,,,,"",""
+ball,2,13.4,West Indies,HK Matthews,SR Taylor,G Wareham,1,0,,,,,,"",""
+ball,2,13.5,West Indies,SR Taylor,HK Matthews,G Wareham,1,0,,,,,,"",""
+ball,2,13.6,West Indies,HK Matthews,SR Taylor,G Wareham,0,1,1,,,,,"",""
+ball,2,13.7,West Indies,HK Matthews,SR Taylor,G Wareham,0,1,1,,,,,"",""
+ball,2,13.8,West Indies,HK Matthews,SR Taylor,G Wareham,0,0,,,,,,"",""
+ball,2,14.1,West Indies,SR Taylor,HK Matthews,A Sutherland,4,0,,,,,,"",""
+ball,2,14.2,West Indies,SR Taylor,HK Matthews,A Sutherland,4,0,,,,,,"",""
+ball,2,14.3,West Indies,SR Taylor,HK Matthews,A Sutherland,4,0,,,,,,"",""
+ball,2,14.4,West Indies,SR Taylor,HK Matthews,A Sutherland,0,0,,,,,,"",""
+ball,2,14.5,West Indies,SR Taylor,HK Matthews,A Sutherland,1,0,,,,,,"",""
+ball,2,14.6,West Indies,HK Matthews,SR Taylor,A Sutherland,2,0,,,,,,"",""
+ball,2,15.1,West Indies,SR Taylor,HK Matthews,A Gardner,1,0,,,,,,"",""
+ball,2,15.2,West Indies,HK Matthews,SR Taylor,A Gardner,0,0,,,,,,"",""
+ball,2,15.3,West Indies,HK Matthews,SR Taylor,A Gardner,4,0,,,,,,"",""
+ball,2,15.4,West Indies,HK Matthews,SR Taylor,A Gardner,0,0,,,,,,"",""
+ball,2,15.5,West Indies,HK Matthews,SR Taylor,A Gardner,4,0,,,,,,"",""
+ball,2,15.6,West Indies,HK Matthews,SR Taylor,A Gardner,1,0,,,,,,"",""
+ball,2,16.1,West Indies,HK Matthews,SR Taylor,ML Schutt,4,0,,,,,,"",""
+ball,2,16.2,West Indies,HK Matthews,SR Taylor,ML Schutt,4,0,,,,,,"",""
+ball,2,16.3,West Indies,HK Matthews,SR Taylor,ML Schutt,6,0,,,,,,"",""
+ball,2,16.4,West Indies,HK Matthews,SR Taylor,ML Schutt,0,1,1,,,,,"",""
+ball,2,16.5,West Indies,HK Matthews,SR Taylor,ML Schutt,1,0,,,,,,"",""
+ball,2,16.6,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,"",""
+ball,2,16.7,West Indies,SR Taylor,HK Matthews,ML Schutt,0,0,,,,,,bowled,SR Taylor
+ball,2,17.1,West Indies,HK Matthews,CA Henry,A Sutherland,1,0,,,,,,"",""
+ball,2,17.2,West Indies,CA Henry,HK Matthews,A Sutherland,0,0,,,,,,"",""
+ball,2,17.3,West Indies,CA Henry,HK Matthews,A Sutherland,1,0,,,,,,"",""
+ball,2,17.4,West Indies,HK Matthews,CA Henry,A Sutherland,0,0,,,,,,"",""
+ball,2,17.5,West Indies,HK Matthews,CA Henry,A Sutherland,1,0,,,,,,"",""
+ball,2,17.6,West Indies,CA Henry,HK Matthews,A Sutherland,0,0,,,,,,"",""
+ball,2,18.1,West Indies,HK Matthews,CA Henry,JL Jonassen,4,0,,,,,,"",""
+ball,2,18.2,West Indies,HK Matthews,CA Henry,JL Jonassen,4,0,,,,,,"",""
+ball,2,18.3,West Indies,HK Matthews,CA Henry,JL Jonassen,4,0,,,,,,"",""
+ball,2,18.4,West Indies,HK Matthews,CA Henry,JL Jonassen,4,0,,,,,,"",""
+ball,2,18.5,West Indies,HK Matthews,CA Henry,JL Jonassen,0,0,,,,,,bowled,HK Matthews
+ball,2,18.6,West Indies,SA Campbelle,CA Henry,JL Jonassen,1,0,,,,,,"",""
+ball,2,19.1,West Indies,SA Campbelle,CA Henry,A Gardner,1,0,,,,,,"",""
+ball,2,19.2,West Indies,CA Henry,SA Campbelle,A Gardner,2,0,,,,,,"",""
+ball,2,19.3,West Indies,CA Henry,SA Campbelle,A Gardner,1,0,,,,,,"",""
+ball,2,19.4,West Indies,SA Campbelle,CA Henry,A Gardner,0,2,,,,2,,"",""
+ball,2,19.5,West Indies,SA Campbelle,CA Henry,A Gardner,2,0,,,,,,"",""

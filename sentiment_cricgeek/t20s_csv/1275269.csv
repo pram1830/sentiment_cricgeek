@@ -1,0 +1,325 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Bulgaria
+info,gender,male
+info,season,2021
+info,date,2021/09/02
+info,event,Continental Cup
+info,match_number,1
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Bulgaria
+info,toss_decision,field
+info,player_of_match,TC Barker
+info,umpire,A Begg
+info,umpire,S Tripp
+info,reserve_umpire,Syed Atif Naqvi
+info,winner,Luxembourg
+info,winner_runs,62
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,M Cope
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,A Manepalli
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,Atif Kamal
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,KC D'Souza
+info,player,Bulgaria,H Lakov
+info,player,Bulgaria,IA De Silva
+info,player,Bulgaria,Omar Rassol
+info,player,Bulgaria,V Hristov
+info,player,Bulgaria,A Ahmadhel
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,M Kadyan
+info,player,Bulgaria,J Albin
+info,player,Bulgaria,DV Varghese
+info,registry,people,A Ahmadhel,55a5cffb
+info,registry,people,A Begg,ef618cab
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Manepalli,36101309
+info,registry,people,A Nanda,704e0160
+info,registry,people,Atif Kamal,f8bd71c9
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,DV Varghese,26f98ea3
+info,registry,people,H Lakov,87a6f411
+info,registry,people,IA De Silva,58973aaf
+info,registry,people,J Albin,a4a53adf
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Mees,ab1445ea
+info,registry,people,KC D'Souza,2687fff2
+info,registry,people,M Cope,c83c594d
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,M Kadyan,c7aae1f0
+info,registry,people,Omar Rassol,6caae2dc
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,S Tripp,6626e257
+info,registry,people,Syed Atif Naqvi,1e2a1dff
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Hristov,20494202
+info,registry,people,V Vijh,b857468a
+info,registry,people,WJ Cope,fb34b0ec
+ball,1,0.1,Luxembourg,TC Barker,A Halbhavi,M Kadyan,0,0,,,,,,"",""
+ball,1,0.2,Luxembourg,TC Barker,A Halbhavi,M Kadyan,1,0,,,,,,"",""
+ball,1,0.3,Luxembourg,A Halbhavi,TC Barker,M Kadyan,0,0,,,,,,"",""
+ball,1,0.4,Luxembourg,A Halbhavi,TC Barker,M Kadyan,4,0,,,,,,"",""
+ball,1,0.5,Luxembourg,A Halbhavi,TC Barker,M Kadyan,0,0,,,,,,"",""
+ball,1,0.6,Luxembourg,A Halbhavi,TC Barker,M Kadyan,0,1,1,,,,,"",""
+ball,1,0.7,Luxembourg,A Halbhavi,TC Barker,M Kadyan,0,0,,,,,,"",""
+ball,1,1.1,Luxembourg,TC Barker,A Halbhavi,P Mishra,0,0,,,,,,"",""
+ball,1,1.2,Luxembourg,TC Barker,A Halbhavi,P Mishra,2,0,,,,,,"",""
+ball,1,1.3,Luxembourg,TC Barker,A Halbhavi,P Mishra,0,0,,,,,,"",""
+ball,1,1.4,Luxembourg,TC Barker,A Halbhavi,P Mishra,0,0,,,,,,"",""
+ball,1,1.5,Luxembourg,TC Barker,A Halbhavi,P Mishra,1,0,,,,,,"",""
+ball,1,1.6,Luxembourg,A Halbhavi,TC Barker,P Mishra,0,0,,,,,,"",""
+ball,1,2.1,Luxembourg,TC Barker,A Halbhavi,M Kadyan,0,1,1,,,,,"",""
+ball,1,2.2,Luxembourg,TC Barker,A Halbhavi,M Kadyan,0,0,,,,,,"",""
+ball,1,2.3,Luxembourg,TC Barker,A Halbhavi,M Kadyan,1,0,,,,,,"",""
+ball,1,2.4,Luxembourg,A Halbhavi,TC Barker,M Kadyan,0,1,1,,,,,"",""
+ball,1,2.5,Luxembourg,A Halbhavi,TC Barker,M Kadyan,0,0,,,,,,bowled,A Halbhavi
+ball,1,2.6,Luxembourg,J Mees,TC Barker,M Kadyan,1,0,,,,,,"",""
+ball,1,2.7,Luxembourg,TC Barker,J Mees,M Kadyan,0,0,,,,,,"",""
+ball,1,2.8,Luxembourg,TC Barker,J Mees,M Kadyan,4,0,,,,,,"",""
+ball,1,3.1,Luxembourg,J Mees,TC Barker,P Mishra,0,0,,,,,,"",""
+ball,1,3.2,Luxembourg,J Mees,TC Barker,P Mishra,4,0,,,,,,"",""
+ball,1,3.3,Luxembourg,J Mees,TC Barker,P Mishra,0,0,,,,,,"",""
+ball,1,3.4,Luxembourg,J Mees,TC Barker,P Mishra,0,0,,,,,,"",""
+ball,1,3.5,Luxembourg,J Mees,TC Barker,P Mishra,2,0,,,,,,"",""
+ball,1,3.6,Luxembourg,J Mees,TC Barker,P Mishra,0,0,,,,,,"",""
+ball,1,4.1,Luxembourg,TC Barker,J Mees,M Kadyan,0,1,1,,,,,"",""
+ball,1,4.2,Luxembourg,TC Barker,J Mees,M Kadyan,1,0,,,,,,"",""
+ball,1,4.3,Luxembourg,J Mees,TC Barker,M Kadyan,1,0,,,,,,"",""
+ball,1,4.4,Luxembourg,TC Barker,J Mees,M Kadyan,0,1,1,,,,,"",""
+ball,1,4.5,Luxembourg,TC Barker,J Mees,M Kadyan,0,0,,,,,,"",""
+ball,1,4.6,Luxembourg,TC Barker,J Mees,M Kadyan,0,1,1,,,,,"",""
+ball,1,4.7,Luxembourg,TC Barker,J Mees,M Kadyan,0,0,,,,,,"",""
+ball,1,4.8,Luxembourg,TC Barker,J Mees,M Kadyan,1,0,,,,,,"",""
+ball,1,4.9,Luxembourg,J Mees,TC Barker,M Kadyan,2,0,,,,,,"",""
+ball,1,5.1,Luxembourg,TC Barker,J Mees,P Mishra,0,0,,,,,,"",""
+ball,1,5.2,Luxembourg,TC Barker,J Mees,P Mishra,1,0,,,,,,"",""
+ball,1,5.3,Luxembourg,J Mees,TC Barker,P Mishra,3,0,,,,,,"",""
+ball,1,5.4,Luxembourg,TC Barker,J Mees,P Mishra,2,0,,,,,,"",""
+ball,1,5.5,Luxembourg,TC Barker,J Mees,P Mishra,2,0,,,,,,"",""
+ball,1,5.6,Luxembourg,TC Barker,J Mees,P Mishra,4,0,,,,,,"",""
+ball,1,6.1,Luxembourg,J Mees,TC Barker,DV Varghese,1,0,,,,,,"",""
+ball,1,6.2,Luxembourg,TC Barker,J Mees,DV Varghese,1,0,,,,,,"",""
+ball,1,6.3,Luxembourg,J Mees,TC Barker,DV Varghese,1,0,,,,,,"",""
+ball,1,6.4,Luxembourg,TC Barker,J Mees,DV Varghese,4,0,,,,,,"",""
+ball,1,6.5,Luxembourg,TC Barker,J Mees,DV Varghese,0,0,,,,,,"",""
+ball,1,6.6,Luxembourg,TC Barker,J Mees,DV Varghese,0,1,1,,,,,"",""
+ball,1,6.7,Luxembourg,TC Barker,J Mees,DV Varghese,0,0,,,,,,"",""
+ball,1,7.1,Luxembourg,J Mees,TC Barker,P Mishra,4,0,,,,,,"",""
+ball,1,7.2,Luxembourg,J Mees,TC Barker,P Mishra,1,0,,,,,,"",""
+ball,1,7.3,Luxembourg,TC Barker,J Mees,P Mishra,4,0,,,,,,"",""
+ball,1,7.4,Luxembourg,TC Barker,J Mees,P Mishra,0,1,,,,1,,"",""
+ball,1,7.5,Luxembourg,J Mees,TC Barker,P Mishra,1,0,,,,,,"",""
+ball,1,7.6,Luxembourg,TC Barker,J Mees,P Mishra,1,0,,,,,,"",""
+ball,1,8.1,Luxembourg,TC Barker,J Mees,DV Varghese,0,1,1,,,,,"",""
+ball,1,8.2,Luxembourg,TC Barker,J Mees,DV Varghese,0,2,2,,,,,"",""
+ball,1,8.3,Luxembourg,J Mees,TC Barker,DV Varghese,0,0,,,,,,"",""
+ball,1,8.4,Luxembourg,J Mees,TC Barker,DV Varghese,0,1,1,,,,,"",""
+ball,1,8.5,Luxembourg,J Mees,TC Barker,DV Varghese,1,0,,,,,,"",""
+ball,1,8.6,Luxembourg,TC Barker,J Mees,DV Varghese,0,0,,,,,,"",""
+ball,1,8.7,Luxembourg,TC Barker,J Mees,DV Varghese,2,0,,,,,,"",""
+ball,1,8.8,Luxembourg,TC Barker,J Mees,DV Varghese,3,0,,,,,,"",""
+ball,1,8.9,Luxembourg,J Mees,TC Barker,DV Varghese,1,0,,,,,,"",""
+ball,1,9.1,Luxembourg,J Mees,TC Barker,H Lakov,1,0,,,,,,"",""
+ball,1,9.2,Luxembourg,TC Barker,J Mees,H Lakov,2,0,,,,,,"",""
+ball,1,9.3,Luxembourg,TC Barker,J Mees,H Lakov,1,0,,,,,,"",""
+ball,1,9.4,Luxembourg,J Mees,TC Barker,H Lakov,1,0,,,,,,"",""
+ball,1,9.5,Luxembourg,J Mees,TC Barker,H Lakov,1,0,,,,,,"",""
+ball,1,9.6,Luxembourg,TC Barker,J Mees,H Lakov,4,0,,,,,,"",""
+ball,1,10.1,Luxembourg,J Mees,TC Barker,DV Varghese,0,0,,,,,,"",""
+ball,1,10.2,Luxembourg,J Mees,TC Barker,DV Varghese,0,1,,,,1,,"",""
+ball,1,10.3,Luxembourg,TC Barker,J Mees,DV Varghese,0,0,,,,,,"",""
+ball,1,10.4,Luxembourg,TC Barker,J Mees,DV Varghese,2,0,,,,,,"",""
+ball,1,10.5,Luxembourg,TC Barker,J Mees,DV Varghese,0,2,,1,1,,,"",""
+ball,1,10.6,Luxembourg,J Mees,TC Barker,DV Varghese,6,0,,,,,,"",""
+ball,1,10.7,Luxembourg,J Mees,TC Barker,DV Varghese,6,0,,,,,,"",""
+ball,1,11.1,Luxembourg,TC Barker,J Mees,H Lakov,0,1,,,,1,,"",""
+ball,1,11.2,Luxembourg,J Mees,TC Barker,H Lakov,2,0,,,,,,"",""
+ball,1,11.3,Luxembourg,J Mees,TC Barker,H Lakov,0,0,,,,,,"",""
+ball,1,11.4,Luxembourg,J Mees,TC Barker,H Lakov,2,0,,,,,,"",""
+ball,1,11.5,Luxembourg,J Mees,TC Barker,H Lakov,1,0,,,,,,"",""
+ball,1,11.6,Luxembourg,TC Barker,J Mees,H Lakov,1,0,,,,,,"",""
+ball,1,12.1,Luxembourg,TC Barker,J Mees,J Albin,0,1,1,,,,,"",""
+ball,1,12.2,Luxembourg,TC Barker,J Mees,J Albin,1,0,,,,,,"",""
+ball,1,12.3,Luxembourg,J Mees,TC Barker,J Albin,1,0,,,,,,"",""
+ball,1,12.4,Luxembourg,TC Barker,J Mees,J Albin,1,0,,,,,,"",""
+ball,1,12.5,Luxembourg,J Mees,TC Barker,J Albin,4,0,,,,,,"",""
+ball,1,12.6,Luxembourg,J Mees,TC Barker,J Albin,2,0,,,,,,"",""
+ball,1,12.7,Luxembourg,J Mees,TC Barker,J Albin,0,0,,,,,,"",""
+ball,1,13.1,Luxembourg,TC Barker,J Mees,H Lakov,1,0,,,,,,"",""
+ball,1,13.2,Luxembourg,J Mees,TC Barker,H Lakov,0,0,,,,,,caught and bowled,J Mees
+ball,1,13.3,Luxembourg,V Vijh,TC Barker,H Lakov,0,0,,,,,,"",""
+ball,1,13.4,Luxembourg,V Vijh,TC Barker,H Lakov,0,0,,,,,,"",""
+ball,1,13.5,Luxembourg,V Vijh,TC Barker,H Lakov,0,0,,,,,,"",""
+ball,1,13.6,Luxembourg,V Vijh,TC Barker,H Lakov,1,0,,,,,,"",""
+ball,1,14.1,Luxembourg,V Vijh,TC Barker,J Albin,0,0,,,,,,"",""
+ball,1,14.2,Luxembourg,V Vijh,TC Barker,J Albin,1,0,,,,,,"",""
+ball,1,14.3,Luxembourg,TC Barker,V Vijh,J Albin,2,0,,,,,,"",""
+ball,1,14.4,Luxembourg,TC Barker,V Vijh,J Albin,0,0,,,,,,"",""
+ball,1,14.5,Luxembourg,TC Barker,V Vijh,J Albin,1,0,,,,,,"",""
+ball,1,14.6,Luxembourg,V Vijh,TC Barker,J Albin,0,0,,,,,,"",""
+ball,1,15.1,Luxembourg,TC Barker,V Vijh,D Nikolov,0,0,,,,,,"",""
+ball,1,15.2,Luxembourg,TC Barker,V Vijh,D Nikolov,0,2,,,,2,,"",""
+ball,1,15.3,Luxembourg,TC Barker,V Vijh,D Nikolov,4,0,,,,,,"",""
+ball,1,15.4,Luxembourg,TC Barker,V Vijh,D Nikolov,4,0,,,,,,"",""
+ball,1,15.5,Luxembourg,TC Barker,V Vijh,D Nikolov,1,0,,,,,,"",""
+ball,1,15.6,Luxembourg,V Vijh,TC Barker,D Nikolov,1,0,,,,,,"",""
+ball,1,16.1,Luxembourg,V Vijh,TC Barker,J Albin,6,0,,,,,,"",""
+ball,1,16.2,Luxembourg,V Vijh,TC Barker,J Albin,1,0,,,,,,"",""
+ball,1,16.3,Luxembourg,TC Barker,V Vijh,J Albin,0,0,,,,,,"",""
+ball,1,16.4,Luxembourg,TC Barker,V Vijh,J Albin,4,0,,,,,,"",""
+ball,1,16.5,Luxembourg,TC Barker,V Vijh,J Albin,1,0,,,,,,"",""
+ball,1,16.6,Luxembourg,V Vijh,TC Barker,J Albin,2,0,,,,,,"",""
+ball,1,17.1,Luxembourg,TC Barker,V Vijh,D Nikolov,2,0,,,,,,"",""
+ball,1,17.2,Luxembourg,TC Barker,V Vijh,D Nikolov,1,0,,,,,,"",""
+ball,1,17.3,Luxembourg,V Vijh,TC Barker,D Nikolov,0,0,,,,,,"",""
+ball,1,17.4,Luxembourg,V Vijh,TC Barker,D Nikolov,4,0,,,,,,"",""
+ball,1,17.5,Luxembourg,V Vijh,TC Barker,D Nikolov,6,0,,,,,,"",""
+ball,1,17.6,Luxembourg,V Vijh,TC Barker,D Nikolov,0,1,1,,,,,"",""
+ball,1,17.7,Luxembourg,V Vijh,TC Barker,D Nikolov,4,0,,,,,,"",""
+ball,1,18.1,Luxembourg,TC Barker,V Vijh,M Kadyan,0,1,,,,1,,"",""
+ball,1,18.2,Luxembourg,V Vijh,TC Barker,M Kadyan,1,0,,,,,,"",""
+ball,1,18.3,Luxembourg,TC Barker,V Vijh,M Kadyan,2,0,,,,,,"",""
+ball,1,18.4,Luxembourg,TC Barker,V Vijh,M Kadyan,0,1,1,,,,,"",""
+ball,1,18.5,Luxembourg,TC Barker,V Vijh,M Kadyan,6,0,,,,,,"",""
+ball,1,18.6,Luxembourg,TC Barker,V Vijh,M Kadyan,2,0,,,,,,"",""
+ball,1,18.7,Luxembourg,TC Barker,V Vijh,M Kadyan,0,0,,,,,,caught,TC Barker
+ball,1,19.1,Luxembourg,WJ Cope,V Vijh,H Lakov,1,0,,,,,,"",""
+ball,1,19.2,Luxembourg,V Vijh,WJ Cope,H Lakov,1,0,,,,,,"",""
+ball,1,19.3,Luxembourg,WJ Cope,V Vijh,H Lakov,0,0,,,,,,"",""
+ball,1,19.4,Luxembourg,WJ Cope,V Vijh,H Lakov,1,0,,,,,,"",""
+ball,1,19.5,Luxembourg,V Vijh,WJ Cope,H Lakov,2,0,,,,,,"",""
+ball,1,19.6,Luxembourg,V Vijh,WJ Cope,H Lakov,1,0,,,,,,run out,V Vijh
+ball,2,0.1,Bulgaria,P Mishra,KC D'Souza,Atif Kamal,0,0,,,,,,"",""
+ball,2,0.2,Bulgaria,P Mishra,KC D'Souza,Atif Kamal,1,0,,,,,,"",""
+ball,2,0.3,Bulgaria,KC D'Souza,P Mishra,Atif Kamal,0,1,1,,,,,"",""
+ball,2,0.4,Bulgaria,KC D'Souza,P Mishra,Atif Kamal,0,0,,,,,,"",""
+ball,2,0.5,Bulgaria,KC D'Souza,P Mishra,Atif Kamal,4,0,,,,,,"",""
+ball,2,0.6,Bulgaria,KC D'Souza,P Mishra,Atif Kamal,4,0,,,,,,"",""
+ball,2,0.7,Bulgaria,KC D'Souza,P Mishra,Atif Kamal,0,0,,,,,,"",""
+ball,2,1.1,Bulgaria,P Mishra,KC D'Souza,WJ Cope,0,1,1,,,,,"",""
+ball,2,1.2,Bulgaria,P Mishra,KC D'Souza,WJ Cope,0,0,,,,,,caught,P Mishra
+ball,2,1.3,Bulgaria,KC D'Souza,H Lakov,WJ Cope,0,0,,,,,,"",""
+ball,2,1.4,Bulgaria,KC D'Souza,H Lakov,WJ Cope,4,0,,,,,,"",""
+ball,2,1.5,Bulgaria,KC D'Souza,H Lakov,WJ Cope,6,0,,,,,,"",""
+ball,2,1.6,Bulgaria,KC D'Souza,H Lakov,WJ Cope,0,1,1,,,,,"",""
+ball,2,1.7,Bulgaria,KC D'Souza,H Lakov,WJ Cope,1,0,,,,,,"",""
+ball,2,1.8,Bulgaria,H Lakov,KC D'Souza,WJ Cope,0,1,,,1,,,"",""
+ball,2,2.1,Bulgaria,H Lakov,KC D'Souza,Atif Kamal,0,1,1,,,,,"",""
+ball,2,2.2,Bulgaria,H Lakov,KC D'Souza,Atif Kamal,1,0,,,,,,"",""
+ball,2,2.3,Bulgaria,KC D'Souza,H Lakov,Atif Kamal,2,0,,,,,,"",""
+ball,2,2.4,Bulgaria,KC D'Souza,H Lakov,Atif Kamal,0,0,,,,,,"",""
+ball,2,2.5,Bulgaria,KC D'Souza,H Lakov,Atif Kamal,0,0,,,,,,"",""
+ball,2,2.6,Bulgaria,KC D'Souza,H Lakov,Atif Kamal,4,0,,,,,,"",""
+ball,2,2.7,Bulgaria,KC D'Souza,H Lakov,Atif Kamal,4,0,,,,,,"",""
+ball,2,3.1,Bulgaria,H Lakov,KC D'Souza,A Nanda,0,0,,,,,,caught,H Lakov
+ball,2,3.2,Bulgaria,IA De Silva,KC D'Souza,A Nanda,2,0,,,,,,"",""
+ball,2,3.3,Bulgaria,IA De Silva,KC D'Souza,A Nanda,0,1,1,,,,,"",""
+ball,2,3.4,Bulgaria,IA De Silva,KC D'Souza,A Nanda,1,0,,,,,,"",""
+ball,2,3.5,Bulgaria,KC D'Souza,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,3.6,Bulgaria,KC D'Souza,IA De Silva,A Nanda,0,1,1,,,,,"",""
+ball,2,3.7,Bulgaria,KC D'Souza,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,3.8,Bulgaria,KC D'Souza,IA De Silva,A Nanda,2,0,,,,,,"",""
+ball,2,4.1,Bulgaria,IA De Silva,KC D'Souza,M Dixit,0,0,,,,,,"",""
+ball,2,4.2,Bulgaria,IA De Silva,KC D'Souza,M Dixit,0,0,,,,,,"",""
+ball,2,4.3,Bulgaria,IA De Silva,KC D'Souza,M Dixit,1,0,,,,,,"",""
+ball,2,4.4,Bulgaria,KC D'Souza,IA De Silva,M Dixit,0,0,,,,,,"",""
+ball,2,4.5,Bulgaria,KC D'Souza,IA De Silva,M Dixit,0,1,1,,,,,"",""
+ball,2,4.6,Bulgaria,KC D'Souza,IA De Silva,M Dixit,0,0,,,,,,"",""
+ball,2,4.7,Bulgaria,KC D'Souza,IA De Silva,M Dixit,0,0,,,,,,caught,KC D'Souza
+ball,2,5.1,Bulgaria,IA De Silva,Omar Rassol,A Nanda,0,1,1,,,,,"",""
+ball,2,5.2,Bulgaria,IA De Silva,Omar Rassol,A Nanda,0,1,,,,1,,"",""
+ball,2,5.3,Bulgaria,Omar Rassol,IA De Silva,A Nanda,1,0,,,,,,"",""
+ball,2,5.4,Bulgaria,IA De Silva,Omar Rassol,A Nanda,0,0,,,,,,"",""
+ball,2,5.5,Bulgaria,IA De Silva,Omar Rassol,A Nanda,1,0,,,,,,"",""
+ball,2,5.6,Bulgaria,Omar Rassol,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,5.7,Bulgaria,Omar Rassol,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,6.1,Bulgaria,IA De Silva,Omar Rassol,M Dixit,0,0,,,,,,run out,Omar Rassol
+ball,2,6.2,Bulgaria,IA De Silva,V Hristov,M Dixit,0,0,,,,,,"",""
+ball,2,6.3,Bulgaria,IA De Silva,V Hristov,M Dixit,1,0,,,,,,"",""
+ball,2,6.4,Bulgaria,V Hristov,IA De Silva,M Dixit,0,0,,,,,,"",""
+ball,2,6.5,Bulgaria,V Hristov,IA De Silva,M Dixit,0,0,,,,,,"",""
+ball,2,6.6,Bulgaria,V Hristov,IA De Silva,M Dixit,2,0,,,,,,"",""
+ball,2,7.1,Bulgaria,IA De Silva,V Hristov,A Nanda,1,0,,,,,,"",""
+ball,2,7.2,Bulgaria,V Hristov,IA De Silva,A Nanda,0,0,,,,,,bowled,V Hristov
+ball,2,7.3,Bulgaria,A Ahmadhel,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,7.4,Bulgaria,A Ahmadhel,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,7.5,Bulgaria,A Ahmadhel,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,7.6,Bulgaria,A Ahmadhel,IA De Silva,A Nanda,4,0,,,,,,"",""
+ball,2,8.1,Bulgaria,IA De Silva,A Ahmadhel,M Dixit,4,0,,,,,,"",""
+ball,2,8.2,Bulgaria,IA De Silva,A Ahmadhel,M Dixit,0,0,,,,,,"",""
+ball,2,8.3,Bulgaria,IA De Silva,A Ahmadhel,M Dixit,1,0,,,,,,"",""
+ball,2,8.4,Bulgaria,A Ahmadhel,IA De Silva,M Dixit,0,1,1,,,,,"",""
+ball,2,8.5,Bulgaria,A Ahmadhel,IA De Silva,M Dixit,0,0,,,,,,bowled,A Ahmadhel
+ball,2,8.6,Bulgaria,D Nikolov,IA De Silva,M Dixit,0,0,,,,,,"",""
+ball,2,8.7,Bulgaria,D Nikolov,IA De Silva,M Dixit,0,0,,,,,,caught,D Nikolov
+ball,2,9.1,Bulgaria,IA De Silva,M Kadyan,A Nanda,0,0,,,,,,"",""
+ball,2,9.2,Bulgaria,IA De Silva,M Kadyan,A Nanda,0,0,,,,,,"",""
+ball,2,9.3,Bulgaria,IA De Silva,M Kadyan,A Nanda,1,0,,,,,,"",""
+ball,2,9.4,Bulgaria,M Kadyan,IA De Silva,A Nanda,0,1,1,,,,,"",""
+ball,2,9.5,Bulgaria,M Kadyan,IA De Silva,A Nanda,0,0,,,,,,"",""
+ball,2,9.6,Bulgaria,M Kadyan,IA De Silva,A Nanda,1,0,,,,,,"",""
+ball,2,9.7,Bulgaria,IA De Silva,M Kadyan,A Nanda,1,0,,,,,,"",""
+ball,2,10.1,Bulgaria,IA De Silva,M Kadyan,M Dixit,0,0,,,,,,"",""
+ball,2,10.2,Bulgaria,IA De Silva,M Kadyan,M Dixit,4,0,,,,,,"",""
+ball,2,10.3,Bulgaria,IA De Silva,M Kadyan,M Dixit,1,0,,,,,,"",""
+ball,2,10.4,Bulgaria,M Kadyan,IA De Silva,M Dixit,0,1,1,,,,,"",""
+ball,2,10.5,Bulgaria,M Kadyan,IA De Silva,M Dixit,2,0,,,,,,"",""
+ball,2,10.6,Bulgaria,M Kadyan,IA De Silva,M Dixit,0,0,,,,,,"",""
+ball,2,10.7,Bulgaria,M Kadyan,IA De Silva,M Dixit,0,0,,,,,,"",""
+ball,2,11.1,Bulgaria,IA De Silva,M Kadyan,Atif Kamal,0,0,,,,,,"",""
+ball,2,11.2,Bulgaria,IA De Silva,M Kadyan,Atif Kamal,1,0,,,,,,"",""
+ball,2,11.3,Bulgaria,M Kadyan,IA De Silva,Atif Kamal,0,0,,,,,,"",""
+ball,2,11.4,Bulgaria,M Kadyan,IA De Silva,Atif Kamal,0,0,,,,,,"",""
+ball,2,11.5,Bulgaria,M Kadyan,IA De Silva,Atif Kamal,1,0,,,,,,"",""
+ball,2,11.6,Bulgaria,IA De Silva,M Kadyan,Atif Kamal,0,0,,,,,,"",""
+ball,2,12.1,Bulgaria,M Kadyan,IA De Silva,M Cope,0,0,,,,,,"",""
+ball,2,12.2,Bulgaria,M Kadyan,IA De Silva,M Cope,4,0,,,,,,"",""
+ball,2,12.3,Bulgaria,M Kadyan,IA De Silva,M Cope,0,0,,,,,,"",""
+ball,2,12.4,Bulgaria,M Kadyan,IA De Silva,M Cope,0,1,1,,,,,"",""
+ball,2,12.5,Bulgaria,M Kadyan,IA De Silva,M Cope,0,0,,,,,,"",""
+ball,2,12.6,Bulgaria,M Kadyan,IA De Silva,M Cope,1,0,,,,,,"",""
+ball,2,12.7,Bulgaria,IA De Silva,M Kadyan,M Cope,4,0,,,,,,"",""
+ball,2,13.1,Bulgaria,M Kadyan,IA De Silva,Atif Kamal,1,0,,,,,,"",""
+ball,2,13.2,Bulgaria,IA De Silva,M Kadyan,Atif Kamal,0,0,,,,,,"",""
+ball,2,13.3,Bulgaria,IA De Silva,M Kadyan,Atif Kamal,0,0,,,,,,"",""
+ball,2,13.4,Bulgaria,IA De Silva,M Kadyan,Atif Kamal,0,0,,,,,,caught,IA De Silva
+ball,2,13.5,Bulgaria,J Albin,M Kadyan,Atif Kamal,0,0,,,,,,"",""
+ball,2,13.6,Bulgaria,J Albin,M Kadyan,Atif Kamal,0,0,,,,,,"",""
+ball,2,14.1,Bulgaria,M Kadyan,J Albin,M Cope,6,0,,,,,,"",""
+ball,2,14.2,Bulgaria,M Kadyan,J Albin,M Cope,6,0,,,,,,"",""
+ball,2,14.3,Bulgaria,M Kadyan,J Albin,M Cope,0,0,,,,,,"",""
+ball,2,14.4,Bulgaria,M Kadyan,J Albin,M Cope,1,0,,,,,,"",""
+ball,2,14.5,Bulgaria,J Albin,M Kadyan,M Cope,0,0,,,,,,"",""
+ball,2,14.6,Bulgaria,J Albin,M Kadyan,M Cope,2,0,,,,,,"",""
+ball,2,15.1,Bulgaria,M Kadyan,J Albin,WJ Cope,1,0,,,,,,"",""
+ball,2,15.2,Bulgaria,J Albin,M Kadyan,WJ Cope,0,0,,,,,,"",""
+ball,2,15.3,Bulgaria,J Albin,M Kadyan,WJ Cope,2,0,,,,,,"",""
+ball,2,15.4,Bulgaria,J Albin,M Kadyan,WJ Cope,0,0,,,,,,"",""
+ball,2,15.5,Bulgaria,J Albin,M Kadyan,WJ Cope,0,0,,,,,,"",""
+ball,2,15.6,Bulgaria,J Albin,M Kadyan,WJ Cope,0,0,,,,,,"",""
+ball,2,16.1,Bulgaria,M Kadyan,J Albin,M Cope,1,0,,,,,,"",""
+ball,2,16.2,Bulgaria,J Albin,M Kadyan,M Cope,1,0,,,,,,"",""
+ball,2,16.3,Bulgaria,M Kadyan,J Albin,M Cope,0,0,,,,,,caught,M Kadyan
+ball,2,16.4,Bulgaria,J Albin,DV Varghese,M Cope,4,0,,,,,,"",""
+ball,2,16.5,Bulgaria,J Albin,DV Varghese,M Cope,0,0,,,,,,"",""
+ball,2,16.6,Bulgaria,J Albin,DV Varghese,M Cope,0,0,,,,,,"",""
+ball,2,17.1,Bulgaria,DV Varghese,J Albin,WJ Cope,0,0,,,,,,"",""
+ball,2,17.2,Bulgaria,DV Varghese,J Albin,WJ Cope,1,0,,,,,,"",""
+ball,2,17.3,Bulgaria,J Albin,DV Varghese,WJ Cope,0,0,,,,,,"",""
+ball,2,17.4,Bulgaria,J Albin,DV Varghese,WJ Cope,0,1,1,,,,,"",""
+ball,2,17.5,Bulgaria,J Albin,DV Varghese,WJ Cope,1,0,,,,,,"",""
+ball,2,17.6,Bulgaria,DV Varghese,J Albin,WJ Cope,2,0,,,,,,"",""
+ball,2,17.7,Bulgaria,DV Varghese,J Albin,WJ Cope,4,0,,,,,,"",""
+ball,2,18.1,Bulgaria,J Albin,DV Varghese,M Cope,1,0,,,,,,"",""
+ball,2,18.2,Bulgaria,DV Varghese,J Albin,M Cope,1,0,,,,,,"",""
+ball,2,18.3,Bulgaria,J Albin,DV Varghese,M Cope,1,0,,,,,,"",""
+ball,2,18.4,Bulgaria,DV Varghese,J Albin,M Cope,1,0,,,,,,run out,J Albin

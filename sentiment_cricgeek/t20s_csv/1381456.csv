@@ -1,0 +1,246 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Turkey
+info,gender,male
+info,season,2023
+info,date,2023/06/24
+info,event,Quadrangular Twenty20 Series (Bulgaria)
+info,match_number,4
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Croatia
+info,toss_decision,bat
+info,player_of_match,Muhammed Turkmen
+info,winner,Turkey
+info,winner_wickets,8
+info,player,Croatia,WK Bitis
+info,player,Croatia,Naseem Khan
+info,player,Croatia,P Bosnjak
+info,player,Croatia,Sohail Ahmad
+info,player,Croatia,A Daxini
+info,player,Croatia,V Zanko
+info,player,Croatia,L Stubbs
+info,player,Croatia,A Magdalenic
+info,player,Croatia,H Hajnic
+info,player,Croatia,D Faletar
+info,player,Croatia,A Faletar
+info,player,Turkey,I Elec
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,A Turkmen
+info,player,Turkey,R Nath
+info,player,Turkey,Muhammed Turkmen
+info,player,Turkey,M Ozturk
+info,player,Turkey,Cihan Altun
+info,player,Turkey,Muhammet Bicer
+info,player,Turkey,Muhammet Kursat
+info,player,Turkey,Murat Ipek
+info,player,Turkey,Murat Yilmaz
+info,registry,people,A Daxini,2f949d55
+info,registry,people,A Faletar,b8889eb7
+info,registry,people,A Magdalenic,d6a2f3a5
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,Cihan Altun,b8396e67
+info,registry,people,D Faletar,8c911414
+info,registry,people,H Hajnic,bcac2e51
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,L Stubbs,b0f332e1
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,Muhammed Turkmen,8e7e982c
+info,registry,people,Muhammet Bicer,7990dc16
+info,registry,people,Muhammet Kursat,dc53a969
+info,registry,people,Murat Ipek,86f471ae
+info,registry,people,Murat Yilmaz,f2990906
+info,registry,people,Naseem Khan,cfbd3998
+info,registry,people,P Bosnjak,fed92736
+info,registry,people,R Nath,126f1e28
+info,registry,people,Sohail Ahmad,7e439c80
+info,registry,people,V Zanko,4a78f962
+info,registry,people,WK Bitis,b34de9a6
+ball,1,0.1,Croatia,WK Bitis,Naseem Khan,A Turkmen,0,0,,,,,,"",""
+ball,1,0.2,Croatia,WK Bitis,Naseem Khan,A Turkmen,0,0,,,,,,"",""
+ball,1,0.3,Croatia,WK Bitis,Naseem Khan,A Turkmen,1,0,,,,,,"",""
+ball,1,0.4,Croatia,Naseem Khan,WK Bitis,A Turkmen,1,0,,,,,,"",""
+ball,1,0.5,Croatia,WK Bitis,Naseem Khan,A Turkmen,0,0,,,,,,"",""
+ball,1,0.6,Croatia,WK Bitis,Naseem Khan,A Turkmen,0,0,,,,,,bowled,WK Bitis
+ball,1,1.1,Croatia,Naseem Khan,P Bosnjak,M Ozturk,0,0,,,,,,"",""
+ball,1,1.2,Croatia,Naseem Khan,P Bosnjak,M Ozturk,0,1,1,,,,,"",""
+ball,1,1.3,Croatia,Naseem Khan,P Bosnjak,M Ozturk,0,0,,,,,,"",""
+ball,1,1.4,Croatia,Naseem Khan,P Bosnjak,M Ozturk,0,1,1,,,,,"",""
+ball,1,1.5,Croatia,Naseem Khan,P Bosnjak,M Ozturk,0,0,,,,,,bowled,Naseem Khan
+ball,1,1.6,Croatia,Sohail Ahmad,P Bosnjak,M Ozturk,0,0,,,,,,"",""
+ball,1,1.7,Croatia,Sohail Ahmad,P Bosnjak,M Ozturk,0,0,,,,,,"",""
+ball,1,1.8,Croatia,Sohail Ahmad,P Bosnjak,M Ozturk,1,0,,,,,,"",""
+ball,1,2.1,Croatia,Sohail Ahmad,P Bosnjak,A Turkmen,1,0,,,,,,"",""
+ball,1,2.2,Croatia,P Bosnjak,Sohail Ahmad,A Turkmen,1,0,,,,,,"",""
+ball,1,2.3,Croatia,Sohail Ahmad,P Bosnjak,A Turkmen,1,0,,,,,,"",""
+ball,1,2.4,Croatia,P Bosnjak,Sohail Ahmad,A Turkmen,4,0,,,,,,"",""
+ball,1,2.5,Croatia,P Bosnjak,Sohail Ahmad,A Turkmen,0,0,,,,,,"",""
+ball,1,2.6,Croatia,P Bosnjak,Sohail Ahmad,A Turkmen,0,0,,,,,,"",""
+ball,1,3.1,Croatia,Sohail Ahmad,P Bosnjak,M Ozturk,1,0,,,,,,"",""
+ball,1,3.2,Croatia,P Bosnjak,Sohail Ahmad,M Ozturk,0,0,,,,,,"",""
+ball,1,3.3,Croatia,P Bosnjak,Sohail Ahmad,M Ozturk,0,0,,,,,,"",""
+ball,1,3.4,Croatia,P Bosnjak,Sohail Ahmad,M Ozturk,2,0,,,,,,"",""
+ball,1,3.5,Croatia,P Bosnjak,Sohail Ahmad,M Ozturk,0,0,,,,,,bowled,P Bosnjak
+ball,1,3.6,Croatia,A Daxini,Sohail Ahmad,M Ozturk,0,0,,,,,,"",""
+ball,1,4.1,Croatia,Sohail Ahmad,A Daxini,A Turkmen,0,1,1,,,,,"",""
+ball,1,4.2,Croatia,Sohail Ahmad,A Daxini,A Turkmen,0,0,,,,,,"",""
+ball,1,4.3,Croatia,Sohail Ahmad,A Daxini,A Turkmen,1,0,,,,,,"",""
+ball,1,4.4,Croatia,A Daxini,Sohail Ahmad,A Turkmen,0,0,,,,,,"",""
+ball,1,4.5,Croatia,A Daxini,Sohail Ahmad,A Turkmen,4,0,,,,,,"",""
+ball,1,4.6,Croatia,A Daxini,Sohail Ahmad,A Turkmen,0,5,5,,,,,"",""
+ball,1,4.7,Croatia,A Daxini,Sohail Ahmad,A Turkmen,0,0,,,,,,"",""
+ball,1,4.8,Croatia,A Daxini,Sohail Ahmad,A Turkmen,0,0,,,,,,"",""
+ball,1,5.1,Croatia,Sohail Ahmad,A Daxini,M Ozturk,6,0,,,,,,"",""
+ball,1,5.2,Croatia,Sohail Ahmad,A Daxini,M Ozturk,1,0,,,,,,"",""
+ball,1,5.3,Croatia,A Daxini,Sohail Ahmad,M Ozturk,1,0,,,,,,"",""
+ball,1,5.4,Croatia,Sohail Ahmad,A Daxini,M Ozturk,0,0,,,,,,"",""
+ball,1,5.5,Croatia,Sohail Ahmad,A Daxini,M Ozturk,6,0,,,,,,"",""
+ball,1,5.6,Croatia,Sohail Ahmad,A Daxini,M Ozturk,1,0,,,,,,"",""
+ball,1,6.1,Croatia,Sohail Ahmad,A Daxini,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,6.2,Croatia,A Daxini,Sohail Ahmad,Muhammed Turkmen,0,0,,,,,,caught,A Daxini
+ball,1,6.3,Croatia,V Zanko,Sohail Ahmad,Muhammed Turkmen,0,1,1,,,,,"",""
+ball,1,6.4,Croatia,V Zanko,Sohail Ahmad,Muhammed Turkmen,0,1,1,,,,,"",""
+ball,1,6.5,Croatia,V Zanko,Sohail Ahmad,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,6.6,Croatia,Sohail Ahmad,V Zanko,Muhammed Turkmen,0,1,1,,,,,"",""
+ball,1,6.7,Croatia,Sohail Ahmad,V Zanko,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,6.8,Croatia,Sohail Ahmad,V Zanko,Muhammed Turkmen,0,0,,,,,,caught,Sohail Ahmad
+ball,1,6.9,Croatia,L Stubbs,V Zanko,Muhammed Turkmen,0,0,,,,,,bowled,L Stubbs
+ball,1,7.1,Croatia,V Zanko,A Magdalenic,A Turkmen,0,0,,,,,,"",""
+ball,1,7.2,Croatia,V Zanko,A Magdalenic,A Turkmen,1,0,,,,,,"",""
+ball,1,7.3,Croatia,A Magdalenic,V Zanko,A Turkmen,4,0,,,,,,"",""
+ball,1,7.4,Croatia,A Magdalenic,V Zanko,A Turkmen,0,0,,,,,,"",""
+ball,1,7.5,Croatia,A Magdalenic,V Zanko,A Turkmen,1,0,,,,,,"",""
+ball,1,7.6,Croatia,V Zanko,A Magdalenic,A Turkmen,1,0,,,,,,"",""
+ball,1,8.1,Croatia,V Zanko,A Magdalenic,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,8.2,Croatia,V Zanko,A Magdalenic,Muhammed Turkmen,0,1,1,,,,,"",""
+ball,1,8.3,Croatia,V Zanko,A Magdalenic,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,8.4,Croatia,V Zanko,A Magdalenic,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,8.5,Croatia,V Zanko,A Magdalenic,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,8.6,Croatia,V Zanko,A Magdalenic,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,8.7,Croatia,V Zanko,A Magdalenic,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,9.1,Croatia,A Magdalenic,V Zanko,M Ozturk,0,0,,,,,,bowled,A Magdalenic
+ball,1,9.2,Croatia,H Hajnic,V Zanko,M Ozturk,0,0,,,,,,"",""
+ball,1,9.3,Croatia,H Hajnic,V Zanko,M Ozturk,0,0,,,,,,"",""
+ball,1,9.4,Croatia,H Hajnic,V Zanko,M Ozturk,1,0,,,,,,"",""
+ball,1,9.5,Croatia,V Zanko,H Hajnic,M Ozturk,0,0,,,,,,"",""
+ball,1,9.6,Croatia,V Zanko,H Hajnic,M Ozturk,0,0,,,,,,"",""
+ball,1,10.1,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,10.2,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,10.3,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,1,1,,,,,"",""
+ball,1,10.4,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,10.5,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,10.6,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,10.7,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,1,1,,,,,"",""
+ball,1,10.8,Croatia,H Hajnic,V Zanko,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,11.1,Croatia,V Zanko,H Hajnic,Muhammet Bicer,0,0,,,,,,"",""
+ball,1,11.2,Croatia,V Zanko,H Hajnic,Muhammet Bicer,0,1,1,,,,,"",""
+ball,1,11.3,Croatia,V Zanko,H Hajnic,Muhammet Bicer,0,1,1,,,,,"",""
+ball,1,11.4,Croatia,V Zanko,H Hajnic,Muhammet Bicer,1,0,,,,,,"",""
+ball,1,11.5,Croatia,H Hajnic,V Zanko,Muhammet Bicer,0,0,,,,,,"",""
+ball,1,11.6,Croatia,H Hajnic,V Zanko,Muhammet Bicer,0,0,,,,,,"",""
+ball,1,11.7,Croatia,H Hajnic,V Zanko,Muhammet Bicer,0,0,,,,,,"",""
+ball,1,11.8,Croatia,H Hajnic,V Zanko,Muhammet Bicer,0,1,1,,,,,"",""
+ball,1,11.9,Croatia,H Hajnic,V Zanko,Muhammet Bicer,1,0,,,,,,"",""
+ball,1,12.1,Croatia,H Hajnic,V Zanko,Murat Ipek,0,0,,,,,,"",""
+ball,1,12.2,Croatia,H Hajnic,V Zanko,Murat Ipek,0,0,,,,,,"",""
+ball,1,12.3,Croatia,H Hajnic,V Zanko,Murat Ipek,0,1,,1,,,,"",""
+ball,1,12.4,Croatia,H Hajnic,V Zanko,Murat Ipek,0,1,,,1,,,"",""
+ball,1,12.5,Croatia,V Zanko,H Hajnic,Murat Ipek,0,0,,,,,,"",""
+ball,1,12.6,Croatia,V Zanko,H Hajnic,Murat Ipek,0,1,1,,,,,"",""
+ball,1,12.7,Croatia,V Zanko,H Hajnic,Murat Ipek,0,0,,,,,,"",""
+ball,1,12.8,Croatia,V Zanko,H Hajnic,Murat Ipek,1,0,,,,,,"",""
+ball,1,13.1,Croatia,V Zanko,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,13.2,Croatia,V Zanko,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,13.3,Croatia,V Zanko,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,13.4,Croatia,V Zanko,H Hajnic,I Elec,1,0,,,,,,"",""
+ball,1,13.5,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,13.6,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,14.1,Croatia,V Zanko,H Hajnic,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,14.2,Croatia,H Hajnic,V Zanko,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,14.3,Croatia,H Hajnic,V Zanko,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,14.4,Croatia,H Hajnic,V Zanko,Murat Yilmaz,0,1,1,,,,,"",""
+ball,1,14.5,Croatia,H Hajnic,V Zanko,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,14.6,Croatia,H Hajnic,V Zanko,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,14.7,Croatia,H Hajnic,V Zanko,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,15.1,Croatia,V Zanko,H Hajnic,I Elec,0,2,2,,,,,"",""
+ball,1,15.2,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,15.3,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,15.4,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,15.5,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,15.6,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,15.7,Croatia,H Hajnic,V Zanko,I Elec,0,0,,,,,,"",""
+ball,1,16.1,Croatia,V Zanko,H Hajnic,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,16.2,Croatia,V Zanko,H Hajnic,Murat Yilmaz,4,0,,,,,,"",""
+ball,1,16.3,Croatia,V Zanko,H Hajnic,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,16.4,Croatia,V Zanko,H Hajnic,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,16.5,Croatia,V Zanko,H Hajnic,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,16.6,Croatia,H Hajnic,V Zanko,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,17.1,Croatia,V Zanko,H Hajnic,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,17.2,Croatia,H Hajnic,V Zanko,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,17.3,Croatia,H Hajnic,V Zanko,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,17.4,Croatia,H Hajnic,V Zanko,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,17.5,Croatia,H Hajnic,V Zanko,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,17.6,Croatia,H Hajnic,V Zanko,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,18.1,Croatia,V Zanko,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,18.2,Croatia,V Zanko,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,18.3,Croatia,V Zanko,H Hajnic,I Elec,0,0,,,,,,hit wicket,V Zanko
+ball,1,18.4,Croatia,D Faletar,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,18.5,Croatia,D Faletar,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,18.6,Croatia,D Faletar,H Hajnic,I Elec,0,0,,,,,,"",""
+ball,1,19.1,Croatia,H Hajnic,D Faletar,Muhammet Kursat,0,1,1,,,,,"",""
+ball,1,19.2,Croatia,H Hajnic,D Faletar,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,19.3,Croatia,H Hajnic,D Faletar,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,19.4,Croatia,H Hajnic,D Faletar,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,19.5,Croatia,H Hajnic,D Faletar,Muhammet Kursat,1,0,,,,,,"",""
+ball,1,19.6,Croatia,D Faletar,H Hajnic,Muhammet Kursat,4,0,,,,,,"",""
+ball,1,19.7,Croatia,D Faletar,H Hajnic,Muhammet Kursat,0,0,,,,,,"",""
+ball,2,0.1,Turkey,I Elec,Ilyas Ataullah,V Zanko,0,0,,,,,,"",""
+ball,2,0.2,Turkey,I Elec,Ilyas Ataullah,V Zanko,0,0,,,,,,"",""
+ball,2,0.3,Turkey,I Elec,Ilyas Ataullah,V Zanko,0,0,,,,,,bowled,I Elec
+ball,2,0.4,Turkey,A Turkmen,Ilyas Ataullah,V Zanko,1,0,,,,,,"",""
+ball,2,0.5,Turkey,Ilyas Ataullah,A Turkmen,V Zanko,0,0,,,,,,"",""
+ball,2,0.6,Turkey,Ilyas Ataullah,A Turkmen,V Zanko,0,1,1,,,,,"",""
+ball,2,0.7,Turkey,Ilyas Ataullah,A Turkmen,V Zanko,0,0,,,,,,"",""
+ball,2,1.1,Turkey,A Turkmen,Ilyas Ataullah,Naseem Khan,4,0,,,,,,"",""
+ball,2,1.2,Turkey,A Turkmen,Ilyas Ataullah,Naseem Khan,0,0,,,,,,"",""
+ball,2,1.3,Turkey,A Turkmen,Ilyas Ataullah,Naseem Khan,0,1,1,,,,,"",""
+ball,2,1.4,Turkey,A Turkmen,Ilyas Ataullah,Naseem Khan,4,0,,,,,,"",""
+ball,2,1.5,Turkey,A Turkmen,Ilyas Ataullah,Naseem Khan,4,0,,,,,,"",""
+ball,2,1.6,Turkey,A Turkmen,Ilyas Ataullah,Naseem Khan,4,0,,,,,,"",""
+ball,2,1.7,Turkey,A Turkmen,Ilyas Ataullah,Naseem Khan,0,0,,,,,,"",""
+ball,2,2.1,Turkey,Ilyas Ataullah,A Turkmen,V Zanko,0,0,,,,,,caught,Ilyas Ataullah
+ball,2,2.2,Turkey,R Nath,A Turkmen,V Zanko,0,0,,,,,,"",""
+ball,2,2.3,Turkey,R Nath,A Turkmen,V Zanko,2,0,,,,,,"",""
+ball,2,2.4,Turkey,R Nath,A Turkmen,V Zanko,0,0,,,,,,"",""
+ball,2,2.5,Turkey,R Nath,A Turkmen,V Zanko,0,1,1,,,,,"",""
+ball,2,2.6,Turkey,R Nath,A Turkmen,V Zanko,4,0,,,,,,"",""
+ball,2,2.7,Turkey,R Nath,A Turkmen,V Zanko,0,0,,,,,,"",""
+ball,2,3.1,Turkey,A Turkmen,R Nath,A Daxini,4,1,,1,,,,"",""
+ball,2,3.2,Turkey,A Turkmen,R Nath,A Daxini,1,0,,,,,,"",""
+ball,2,3.3,Turkey,R Nath,A Turkmen,A Daxini,0,0,,,,,,"",""
+ball,2,3.4,Turkey,R Nath,A Turkmen,A Daxini,6,0,,,,,,"",""
+ball,2,3.5,Turkey,R Nath,A Turkmen,A Daxini,1,0,,,,,,"",""
+ball,2,3.6,Turkey,A Turkmen,R Nath,A Daxini,6,0,,,,,,"",""
+ball,2,3.7,Turkey,A Turkmen,R Nath,A Daxini,0,1,1,,,,,"",""
+ball,2,3.8,Turkey,A Turkmen,R Nath,A Daxini,1,0,,,,,,"",""
+ball,2,4.1,Turkey,A Turkmen,R Nath,Sohail Ahmad,0,0,,,,,,"",""
+ball,2,4.2,Turkey,A Turkmen,R Nath,Sohail Ahmad,0,1,1,,,,,"",""
+ball,2,4.3,Turkey,A Turkmen,R Nath,Sohail Ahmad,0,1,1,,,,,"",""
+ball,2,4.4,Turkey,A Turkmen,R Nath,Sohail Ahmad,4,0,,,,,,"",""
+ball,2,4.5,Turkey,A Turkmen,R Nath,Sohail Ahmad,0,0,,,,,,"",""
+ball,2,4.6,Turkey,A Turkmen,R Nath,Sohail Ahmad,0,4,,,4,,,"",""
+ball,2,4.7,Turkey,A Turkmen,R Nath,Sohail Ahmad,4,0,,,,,,"",""
+ball,2,4.8,Turkey,A Turkmen,R Nath,Sohail Ahmad,2,0,,,,,,"",""
+ball,2,5.1,Turkey,R Nath,A Turkmen,A Magdalenic,0,1,1,,,,,"",""
+ball,2,5.2,Turkey,R Nath,A Turkmen,A Magdalenic,0,1,1,,,,,"",""
+ball,2,5.3,Turkey,R Nath,A Turkmen,A Magdalenic,4,0,,,,,,"",""
+ball,2,5.4,Turkey,R Nath,A Turkmen,A Magdalenic,0,1,1,,,,,"",""
+ball,2,5.5,Turkey,R Nath,A Turkmen,A Magdalenic,0,1,1,,,,,"",""
+ball,2,5.6,Turkey,R Nath,A Turkmen,A Magdalenic,0,1,,1,,,,"",""
+ball,2,5.7,Turkey,R Nath,A Turkmen,A Magdalenic,2,0,,,,,,"",""
+ball,2,5.8,Turkey,R Nath,A Turkmen,A Magdalenic,6,0,,,,,,"",""
+ball,2,5.9,Turkey,R Nath,A Turkmen,A Magdalenic,1,0,,,,,,"",""
+ball,2,5.10,Turkey,A Turkmen,R Nath,A Magdalenic,1,0,,,,,,"",""
+ball,2,5.11,Turkey,R Nath,A Turkmen,A Magdalenic,6,0,,,,,,"",""

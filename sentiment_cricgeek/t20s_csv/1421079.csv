@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023/24
+info,date,2024/03/13
+info,event,Scotland tour of United Arab Emirates
+info,match_number,2
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,J Jarvis
+info,umpire,Aasif Iqbal
+info,umpire,Akbar Ali
+info,reserve_umpire,Nadeem Anjum
+info,tv_umpire,Shiju Sam
+info,match_referee,Muhammad Javed
+info,winner,Scotland
+info,winner_runs,9
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,BJ McMullen
+info,player,Scotland,C Tear
+info,player,Scotland,MH Cross
+info,player,Scotland,J Jarvis
+info,player,Scotland,MA Leask
+info,player,Scotland,J Dickinson
+info,player,Scotland,GT Main
+info,player,Scotland,BJ Currie
+info,player,Scotland,Hamza Tahir
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,T Suri
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,Hazrat Luqman
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Junaid Siddique
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,C Tear,7ffe4817
+info,registry,people,GT Main,4ebc70ca
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Hamza Tahir,34cb2f69
+info,registry,people,Hazrat Luqman,fdc1ac0f
+info,registry,people,J Dickinson,0b37840b
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Nadeem Anjum,7ccbae86
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,T Suri,a76d4082
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c
+ball,1,0.1,Scotland,HG Munsey,OJ Hairs,Junaid Siddique,1,0,,,,,,"",""
+ball,1,0.2,Scotland,OJ Hairs,HG Munsey,Junaid Siddique,0,0,,,,,,"",""
+ball,1,0.3,Scotland,OJ Hairs,HG Munsey,Junaid Siddique,0,0,,,,,,bowled,OJ Hairs
+ball,1,0.4,Scotland,BJ McMullen,HG Munsey,Junaid Siddique,0,0,,,,,,"",""
+ball,1,0.5,Scotland,BJ McMullen,HG Munsey,Junaid Siddique,0,0,,,,,,"",""
+ball,1,0.6,Scotland,BJ McMullen,HG Munsey,Junaid Siddique,0,0,,,,,,"",""
+ball,1,1.1,Scotland,HG Munsey,BJ McMullen,Hazrat Luqman,0,1,1,,,,,"",""
+ball,1,1.2,Scotland,HG Munsey,BJ McMullen,Hazrat Luqman,1,0,,,,,,"",""
+ball,1,1.3,Scotland,BJ McMullen,HG Munsey,Hazrat Luqman,1,0,,,,,,"",""
+ball,1,1.4,Scotland,HG Munsey,BJ McMullen,Hazrat Luqman,0,0,,,,,,"",""
+ball,1,1.5,Scotland,HG Munsey,BJ McMullen,Hazrat Luqman,0,0,,,,,,"",""
+ball,1,1.6,Scotland,HG Munsey,BJ McMullen,Hazrat Luqman,0,0,,,,,,"",""
+ball,1,1.7,Scotland,HG Munsey,BJ McMullen,Hazrat Luqman,0,1,1,,,,,"",""
+ball,1,1.8,Scotland,HG Munsey,BJ McMullen,Hazrat Luqman,1,0,,,,,,"",""
+ball,1,2.1,Scotland,HG Munsey,BJ McMullen,Junaid Siddique,4,0,,,,,,"",""
+ball,1,2.2,Scotland,HG Munsey,BJ McMullen,Junaid Siddique,1,0,,,,,,"",""
+ball,1,2.3,Scotland,BJ McMullen,HG Munsey,Junaid Siddique,0,0,,,,,,caught,BJ McMullen
+ball,1,2.4,Scotland,C Tear,HG Munsey,Junaid Siddique,0,0,,,,,,"",""
+ball,1,2.5,Scotland,C Tear,HG Munsey,Junaid Siddique,0,0,,,,,,"",""
+ball,1,2.6,Scotland,C Tear,HG Munsey,Junaid Siddique,1,0,,,,,,"",""
+ball,1,3.1,Scotland,C Tear,HG Munsey,Hazrat Luqman,1,0,,,,,,"",""
+ball,1,3.2,Scotland,HG Munsey,C Tear,Hazrat Luqman,4,0,,,,,,"",""
+ball,1,3.3,Scotland,HG Munsey,C Tear,Hazrat Luqman,1,0,,,,,,"",""
+ball,1,3.4,Scotland,C Tear,HG Munsey,Hazrat Luqman,2,0,,,,,,"",""
+ball,1,3.5,Scotland,C Tear,HG Munsey,Hazrat Luqman,4,0,,,,,,"",""
+ball,1,3.6,Scotland,C Tear,HG Munsey,Hazrat Luqman,0,0,,,,,,"",""
+ball,1,4.1,Scotland,HG Munsey,C Tear,Akif Raja,1,0,,,,,,"",""
+ball,1,4.2,Scotland,C Tear,HG Munsey,Akif Raja,4,0,,,,,,"",""
+ball,1,4.3,Scotland,C Tear,HG Munsey,Akif Raja,0,0,,,,,,"",""
+ball,1,4.4,Scotland,C Tear,HG Munsey,Akif Raja,4,0,,,,,,"",""
+ball,1,4.5,Scotland,C Tear,HG Munsey,Akif Raja,0,0,,,,,,caught,C Tear
+ball,1,4.6,Scotland,MH Cross,HG Munsey,Akif Raja,1,0,,,,,,"",""
+ball,1,5.1,Scotland,MH Cross,HG Munsey,Hazrat Luqman,1,0,,,,,,"",""
+ball,1,5.2,Scotland,HG Munsey,MH Cross,Hazrat Luqman,4,0,,,,,,"",""
+ball,1,5.3,Scotland,HG Munsey,MH Cross,Hazrat Luqman,2,0,,,,,,"",""
+ball,1,5.4,Scotland,HG Munsey,MH Cross,Hazrat Luqman,6,0,,,,,,"",""
+ball,1,5.5,Scotland,HG Munsey,MH Cross,Hazrat Luqman,0,0,,,,,,caught,HG Munsey
+ball,1,5.6,Scotland,J Jarvis,MH Cross,Hazrat Luqman,0,0,,,,,,"",""
+ball,1,6.1,Scotland,MH Cross,J Jarvis,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,6.2,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,6.3,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,2,0,,,,,,"",""
+ball,1,6.4,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,6.5,Scotland,MH Cross,J Jarvis,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,6.6,Scotland,MH Cross,J Jarvis,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,7.1,Scotland,J Jarvis,MH Cross,Akif Raja,4,0,,,,,,"",""
+ball,1,7.2,Scotland,J Jarvis,MH Cross,Akif Raja,2,0,,,,,,"",""
+ball,1,7.3,Scotland,J Jarvis,MH Cross,Akif Raja,1,0,,,,,,"",""
+ball,1,7.4,Scotland,MH Cross,J Jarvis,Akif Raja,1,0,,,,,,"",""
+ball,1,7.5,Scotland,J Jarvis,MH Cross,Akif Raja,4,0,,,,,,"",""
+ball,1,7.6,Scotland,J Jarvis,MH Cross,Akif Raja,1,0,,,,,,"",""
+ball,1,8.1,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,8.2,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,8.3,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,8.4,Scotland,MH Cross,J Jarvis,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,8.5,Scotland,MH Cross,J Jarvis,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,8.6,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,9.1,Scotland,MH Cross,J Jarvis,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,9.2,Scotland,J Jarvis,MH Cross,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,9.3,Scotland,J Jarvis,MH Cross,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,9.4,Scotland,J Jarvis,MH Cross,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,9.5,Scotland,J Jarvis,MH Cross,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,9.6,Scotland,MH Cross,J Jarvis,Zuhaib Zubair,4,0,,,,,,"",""
+ball,1,10.1,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,10.2,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,10.3,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,10.4,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,10.5,Scotland,J Jarvis,MH Cross,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,10.6,Scotland,MH Cross,J Jarvis,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,11.1,Scotland,J Jarvis,MH Cross,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,11.2,Scotland,MH Cross,J Jarvis,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,11.3,Scotland,MH Cross,J Jarvis,Zuhaib Zubair,2,0,,,,,,"",""
+ball,1,11.4,Scotland,MH Cross,J Jarvis,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,11.5,Scotland,J Jarvis,MH Cross,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,11.6,Scotland,J Jarvis,MH Cross,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,12.1,Scotland,MH Cross,J Jarvis,Basil Hameed,1,0,,,,,,"",""
+ball,1,12.2,Scotland,J Jarvis,MH Cross,Basil Hameed,0,0,,,,,,"",""
+ball,1,12.3,Scotland,J Jarvis,MH Cross,Basil Hameed,1,0,,,,,,"",""
+ball,1,12.4,Scotland,MH Cross,J Jarvis,Basil Hameed,1,0,,,,,,"",""
+ball,1,12.5,Scotland,J Jarvis,MH Cross,Basil Hameed,0,0,,,,,,caught,J Jarvis
+ball,1,12.6,Scotland,MA Leask,MH Cross,Basil Hameed,0,0,,,,,,"",""
+ball,1,13.1,Scotland,MH Cross,MA Leask,Zuhaib Zubair,2,0,,,,,,"",""
+ball,1,13.2,Scotland,MH Cross,MA Leask,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,13.3,Scotland,MH Cross,MA Leask,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,13.4,Scotland,MA Leask,MH Cross,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,13.5,Scotland,MA Leask,MH Cross,Zuhaib Zubair,4,0,,,,,,"",""
+ball,1,13.6,Scotland,MA Leask,MH Cross,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,14.1,Scotland,MA Leask,MH Cross,Basil Hameed,0,0,,,,,,caught,MA Leask
+ball,1,14.2,Scotland,J Dickinson,MH Cross,Basil Hameed,1,0,,,,,,"",""
+ball,1,14.3,Scotland,MH Cross,J Dickinson,Basil Hameed,0,0,,,,,,"",""
+ball,1,14.4,Scotland,MH Cross,J Dickinson,Basil Hameed,2,0,,,,,,"",""
+ball,1,14.5,Scotland,MH Cross,J Dickinson,Basil Hameed,1,0,,,,,,"",""
+ball,1,14.6,Scotland,J Dickinson,MH Cross,Basil Hameed,0,0,,,,,,"",""
+ball,1,15.1,Scotland,MH Cross,J Dickinson,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,15.2,Scotland,J Dickinson,MH Cross,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,15.3,Scotland,MH Cross,J Dickinson,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,15.4,Scotland,J Dickinson,MH Cross,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,15.5,Scotland,MH Cross,J Dickinson,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,15.6,Scotland,J Dickinson,MH Cross,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,16.1,Scotland,J Dickinson,MH Cross,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,16.2,Scotland,MH Cross,J Dickinson,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,16.3,Scotland,J Dickinson,MH Cross,Aayan Afzal Khan,2,0,,,,,,"",""
+ball,1,16.4,Scotland,J Dickinson,MH Cross,Aayan Afzal Khan,4,0,,,,,,"",""
+ball,1,16.5,Scotland,J Dickinson,MH Cross,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,1,16.6,Scotland,J Dickinson,MH Cross,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,1,17.1,Scotland,J Dickinson,MH Cross,Junaid Siddique,0,0,,,,,,"",""
+ball,1,17.2,Scotland,J Dickinson,MH Cross,Junaid Siddique,1,0,,,,,,"",""
+ball,1,17.3,Scotland,MH Cross,J Dickinson,Junaid Siddique,2,0,,,,,,"",""
+ball,1,17.4,Scotland,MH Cross,J Dickinson,Junaid Siddique,1,0,,,,,,"",""
+ball,1,17.5,Scotland,J Dickinson,MH Cross,Junaid Siddique,2,0,,,,,,"",""
+ball,1,17.6,Scotland,J Dickinson,MH Cross,Junaid Siddique,0,1,1,,,,,"",""
+ball,1,17.7,Scotland,J Dickinson,MH Cross,Junaid Siddique,0,0,,,,,,caught,J Dickinson
+ball,1,18.1,Scotland,MH Cross,GT Main,Basil Hameed,0,0,,,,,,"",""
+ball,1,18.2,Scotland,MH Cross,GT Main,Basil Hameed,2,0,,,,,,"",""
+ball,1,18.3,Scotland,MH Cross,GT Main,Basil Hameed,0,0,,,,,,"",""
+ball,1,18.4,Scotland,MH Cross,GT Main,Basil Hameed,1,0,,,,,,"",""
+ball,1,18.5,Scotland,GT Main,MH Cross,Basil Hameed,0,0,,,,,,"",""
+ball,1,18.6,Scotland,GT Main,MH Cross,Basil Hameed,0,0,,,,,,"",""
+ball,1,19.1,Scotland,MH Cross,GT Main,Junaid Siddique,0,0,,,,,,"",""
+ball,1,19.2,Scotland,MH Cross,GT Main,Junaid Siddique,2,0,,,,,,"",""
+ball,1,19.3,Scotland,MH Cross,GT Main,Junaid Siddique,0,0,,,,,,"",""
+ball,1,19.4,Scotland,MH Cross,GT Main,Junaid Siddique,0,0,,,,,,"",""
+ball,1,19.5,Scotland,MH Cross,GT Main,Junaid Siddique,2,0,,,,,,"",""
+ball,1,19.6,Scotland,MH Cross,GT Main,Junaid Siddique,0,0,,,,,,bowled,MH Cross
+ball,2,0.1,United Arab Emirates,Waseem Muhammad,T Suri,BJ Currie,0,0,,,,,,"",""
+ball,2,0.2,United Arab Emirates,Waseem Muhammad,T Suri,BJ Currie,0,1,1,,,,,"",""
+ball,2,0.3,United Arab Emirates,Waseem Muhammad,T Suri,BJ Currie,0,0,,,,,,"",""
+ball,2,0.4,United Arab Emirates,Waseem Muhammad,T Suri,BJ Currie,0,0,,,,,,"",""
+ball,2,0.5,United Arab Emirates,Waseem Muhammad,T Suri,BJ Currie,0,0,,,,,,"",""
+ball,2,0.6,United Arab Emirates,Waseem Muhammad,T Suri,BJ Currie,0,0,,,,,,"",""
+ball,2,0.7,United Arab Emirates,Waseem Muhammad,T Suri,BJ Currie,0,0,,,,,,"",""
+ball,2,1.1,United Arab Emirates,T Suri,Waseem Muhammad,GT Main,0,0,,,,,,"",""
+ball,2,1.2,United Arab Emirates,T Suri,Waseem Muhammad,GT Main,0,0,,,,,,"",""
+ball,2,1.3,United Arab Emirates,T Suri,Waseem Muhammad,GT Main,0,0,,,,,,"",""
+ball,2,1.4,United Arab Emirates,T Suri,Waseem Muhammad,GT Main,0,0,,,,,,"",""
+ball,2,1.5,United Arab Emirates,T Suri,Waseem Muhammad,GT Main,2,0,,,,,,"",""
+ball,2,1.6,United Arab Emirates,T Suri,Waseem Muhammad,GT Main,0,0,,,,,,caught,T Suri
+ball,2,2.1,United Arab Emirates,Waseem Muhammad,Aryan Lakra,BJ Currie,1,0,,,,,,"",""
+ball,2,2.2,United Arab Emirates,Aryan Lakra,Waseem Muhammad,BJ Currie,1,0,,,,,,"",""
+ball,2,2.3,United Arab Emirates,Waseem Muhammad,Aryan Lakra,BJ Currie,2,0,,,,,,"",""
+ball,2,2.4,United Arab Emirates,Waseem Muhammad,Aryan Lakra,BJ Currie,4,0,,,,,,"",""
+ball,2,2.5,United Arab Emirates,Waseem Muhammad,Aryan Lakra,BJ Currie,0,0,,,,,,lbw,Waseem Muhammad
+ball,2,2.6,United Arab Emirates,A Sharafu,Aryan Lakra,BJ Currie,4,0,,,,,,"",""
+ball,2,3.1,United Arab Emirates,Aryan Lakra,A Sharafu,J Jarvis,4,0,,,,,,"",""
+ball,2,3.2,United Arab Emirates,Aryan Lakra,A Sharafu,J Jarvis,0,0,,,,,,caught,Aryan Lakra
+ball,2,3.3,United Arab Emirates,R Chopra,A Sharafu,J Jarvis,1,0,,,,,,"",""
+ball,2,3.4,United Arab Emirates,A Sharafu,R Chopra,J Jarvis,0,0,,,,,,"",""
+ball,2,3.5,United Arab Emirates,A Sharafu,R Chopra,J Jarvis,1,0,,,,,,"",""
+ball,2,3.6,United Arab Emirates,R Chopra,A Sharafu,J Jarvis,0,0,,,,,,"",""
+ball,2,4.1,United Arab Emirates,A Sharafu,R Chopra,BJ Currie,0,0,,,,,,"",""
+ball,2,4.2,United Arab Emirates,A Sharafu,R Chopra,BJ Currie,1,0,,,,,,"",""
+ball,2,4.3,United Arab Emirates,R Chopra,A Sharafu,BJ Currie,0,0,,,,,,"",""
+ball,2,4.4,United Arab Emirates,R Chopra,A Sharafu,BJ Currie,0,1,1,,,,,"",""
+ball,2,4.5,United Arab Emirates,R Chopra,A Sharafu,BJ Currie,0,0,,,,,,"",""
+ball,2,4.6,United Arab Emirates,R Chopra,A Sharafu,BJ Currie,0,0,,,,,,"",""
+ball,2,4.7,United Arab Emirates,R Chopra,A Sharafu,BJ Currie,1,0,,,,,,"",""
+ball,2,5.1,United Arab Emirates,R Chopra,A Sharafu,J Jarvis,0,0,,,,,,"",""
+ball,2,5.2,United Arab Emirates,R Chopra,A Sharafu,J Jarvis,0,0,,,,,,"",""
+ball,2,5.3,United Arab Emirates,R Chopra,A Sharafu,J Jarvis,0,0,,,,,,"",""
+ball,2,5.4,United Arab Emirates,R Chopra,A Sharafu,J Jarvis,0,0,,,,,,"",""
+ball,2,5.5,United Arab Emirates,R Chopra,A Sharafu,J Jarvis,0,0,,,,,,bowled,R Chopra
+ball,2,5.6,United Arab Emirates,Basil Hameed,A Sharafu,J Jarvis,1,0,,,,,,"",""
+ball,2,6.1,United Arab Emirates,Basil Hameed,A Sharafu,GT Main,0,0,,,,,,"",""
+ball,2,6.2,United Arab Emirates,Basil Hameed,A Sharafu,GT Main,0,1,1,,,,,"",""
+ball,2,6.3,United Arab Emirates,Basil Hameed,A Sharafu,GT Main,0,0,,,,,,"",""
+ball,2,6.4,United Arab Emirates,Basil Hameed,A Sharafu,GT Main,2,0,,,,,,"",""
+ball,2,6.5,United Arab Emirates,Basil Hameed,A Sharafu,GT Main,0,0,,,,,,"",""
+ball,2,6.6,United Arab Emirates,Basil Hameed,A Sharafu,GT Main,0,0,,,,,,"",""
+ball,2,6.7,United Arab Emirates,Basil Hameed,A Sharafu,GT Main,1,0,,,,,,"",""
+ball,2,7.1,United Arab Emirates,Basil Hameed,A Sharafu,Hamza Tahir,1,0,,,,,,"",""
+ball,2,7.2,United Arab Emirates,A Sharafu,Basil Hameed,Hamza Tahir,1,0,,,,,,"",""
+ball,2,7.3,United Arab Emirates,Basil Hameed,A Sharafu,Hamza Tahir,0,0,,,,,,"",""
+ball,2,7.4,United Arab Emirates,Basil Hameed,A Sharafu,Hamza Tahir,1,0,,,,,,"",""
+ball,2,7.5,United Arab Emirates,A Sharafu,Basil Hameed,Hamza Tahir,0,0,,,,,,"",""
+ball,2,7.6,United Arab Emirates,A Sharafu,Basil Hameed,Hamza Tahir,0,0,,,,,,"",""
+ball,2,8.1,United Arab Emirates,Basil Hameed,A Sharafu,J Dickinson,1,0,,,,,,"",""
+ball,2,8.2,United Arab Emirates,A Sharafu,Basil Hameed,J Dickinson,0,0,,,,,,"",""
+ball,2,8.3,United Arab Emirates,A Sharafu,Basil Hameed,J Dickinson,1,0,,,,,,"",""
+ball,2,8.4,United Arab Emirates,Basil Hameed,A Sharafu,J Dickinson,1,0,,,,,,"",""
+ball,2,8.5,United Arab Emirates,A Sharafu,Basil Hameed,J Dickinson,1,0,,,,,,"",""
+ball,2,8.6,United Arab Emirates,Basil Hameed,A Sharafu,J Dickinson,0,0,,,,,,caught and bowled,Basil Hameed
+ball,2,9.1,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,0,0,,,,,,"",""
+ball,2,9.2,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,0,0,,,,,,"",""
+ball,2,9.3,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,1,0,,,,,,"",""
+ball,2,9.4,United Arab Emirates,Aayan Afzal Khan,A Sharafu,Hamza Tahir,1,0,,,,,,"",""
+ball,2,9.5,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,1,0,,,,,,"",""
+ball,2,9.6,United Arab Emirates,Aayan Afzal Khan,A Sharafu,Hamza Tahir,0,0,,,,,,"",""
+ball,2,10.1,United Arab Emirates,A Sharafu,Aayan Afzal Khan,J Dickinson,1,0,,,,,,"",""
+ball,2,10.2,United Arab Emirates,Aayan Afzal Khan,A Sharafu,J Dickinson,0,0,,,,,,"",""
+ball,2,10.3,United Arab Emirates,Aayan Afzal Khan,A Sharafu,J Dickinson,1,0,,,,,,"",""
+ball,2,10.4,United Arab Emirates,A Sharafu,Aayan Afzal Khan,J Dickinson,2,0,,,,,,"",""
+ball,2,10.5,United Arab Emirates,A Sharafu,Aayan Afzal Khan,J Dickinson,2,0,,,,,,"",""
+ball,2,10.6,United Arab Emirates,A Sharafu,Aayan Afzal Khan,J Dickinson,1,0,,,,,,"",""
+ball,2,11.1,United Arab Emirates,A Sharafu,Aayan Afzal Khan,GT Main,4,0,,,,,,"",""
+ball,2,11.2,United Arab Emirates,A Sharafu,Aayan Afzal Khan,GT Main,0,0,,,,,,"",""
+ball,2,11.3,United Arab Emirates,A Sharafu,Aayan Afzal Khan,GT Main,0,0,,,,,,"",""
+ball,2,11.4,United Arab Emirates,A Sharafu,Aayan Afzal Khan,GT Main,4,0,,,,,,"",""
+ball,2,11.5,United Arab Emirates,A Sharafu,Aayan Afzal Khan,GT Main,1,0,,,,,,"",""
+ball,2,11.6,United Arab Emirates,Aayan Afzal Khan,A Sharafu,GT Main,0,0,,,,,,"",""
+ball,2,12.1,United Arab Emirates,A Sharafu,Aayan Afzal Khan,J Dickinson,1,0,,,,,,"",""
+ball,2,12.2,United Arab Emirates,Aayan Afzal Khan,A Sharafu,J Dickinson,0,0,,,,,,"",""
+ball,2,12.3,United Arab Emirates,Aayan Afzal Khan,A Sharafu,J Dickinson,2,0,,,,,,"",""
+ball,2,12.4,United Arab Emirates,Aayan Afzal Khan,A Sharafu,J Dickinson,0,0,,,,,,"",""
+ball,2,12.5,United Arab Emirates,Aayan Afzal Khan,A Sharafu,J Dickinson,2,0,,,,,,"",""
+ball,2,12.6,United Arab Emirates,Aayan Afzal Khan,A Sharafu,J Dickinson,0,0,,,,,,"",""
+ball,2,13.1,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,4,0,,,,,,"",""
+ball,2,13.2,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,1,0,,,,,,"",""
+ball,2,13.3,United Arab Emirates,Aayan Afzal Khan,A Sharafu,Hamza Tahir,1,0,,,,,,"",""
+ball,2,13.4,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,0,0,,,,,,"",""
+ball,2,13.5,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,0,0,,,,,,"",""
+ball,2,13.6,United Arab Emirates,A Sharafu,Aayan Afzal Khan,Hamza Tahir,2,0,,,,,,"",""
+ball,2,14.1,United Arab Emirates,Aayan Afzal Khan,A Sharafu,MA Leask,1,0,,,,,,"",""
+ball,2,14.2,United Arab Emirates,A Sharafu,Aayan Afzal Khan,MA Leask,1,0,,,,,,"",""
+ball,2,14.3,United Arab Emirates,Aayan Afzal Khan,A Sharafu,MA Leask,1,0,,,,,,"",""
+ball,2,14.4,United Arab Emirates,A Sharafu,Aayan Afzal Khan,MA Leask,0,0,,,,,,caught,A Sharafu
+ball,2,14.5,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,MA Leask,4,0,,,,,,"",""
+ball,2,14.6,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,MA Leask,2,0,,,,,,"",""
+ball,2,15.1,United Arab Emirates,Aayan Afzal Khan,Zuhaib Zubair,Hamza Tahir,1,0,,,,,,"",""
+ball,2,15.2,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,Hamza Tahir,2,0,,,,,,"",""
+ball,2,15.3,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,Hamza Tahir,0,0,,,,,,"",""
+ball,2,15.4,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,Hamza Tahir,0,0,,,,,,"",""
+ball,2,15.5,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,Hamza Tahir,1,0,,,,,,"",""
+ball,2,15.6,United Arab Emirates,Aayan Afzal Khan,Zuhaib Zubair,Hamza Tahir,1,0,,,,,,"",""
+ball,2,16.1,United Arab Emirates,Aayan Afzal Khan,Zuhaib Zubair,J Dickinson,1,0,,,,,,"",""
+ball,2,16.2,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,J Dickinson,1,0,,,,,,"",""
+ball,2,16.3,United Arab Emirates,Aayan Afzal Khan,Zuhaib Zubair,J Dickinson,1,0,,,,,,"",""
+ball,2,16.4,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,J Dickinson,2,0,,,,,,"",""
+ball,2,16.5,United Arab Emirates,Zuhaib Zubair,Aayan Afzal Khan,J Dickinson,1,0,,,,,,"",""
+ball,2,16.6,United Arab Emirates,Aayan Afzal Khan,Zuhaib Zubair,J Dickinson,1,0,,,,,,"",""
+ball,2,17.1,United Arab Emirates,Aayan Afzal Khan,Zuhaib Zubair,BJ Currie,0,0,,,,,,"",""
+ball,2,17.2,United Arab Emirates,Aayan Afzal Khan,Zuhaib Zubair,BJ Currie,1,0,,,,,,run out,Zuhaib Zubair
+ball,2,17.3,United Arab Emirates,Hazrat Luqman,Aayan Afzal Khan,BJ Currie,2,0,,,,,,"",""
+ball,2,17.4,United Arab Emirates,Hazrat Luqman,Aayan Afzal Khan,BJ Currie,1,0,,,,,,"",""
+ball,2,17.5,United Arab Emirates,Aayan Afzal Khan,Hazrat Luqman,BJ Currie,1,0,,,,,,"",""
+ball,2,17.6,United Arab Emirates,Hazrat Luqman,Aayan Afzal Khan,BJ Currie,1,0,,,,,,"",""
+ball,2,18.1,United Arab Emirates,Hazrat Luqman,Aayan Afzal Khan,J Jarvis,2,0,,,,,,"",""
+ball,2,18.2,United Arab Emirates,Hazrat Luqman,Aayan Afzal Khan,J Jarvis,1,0,,,,,,"",""
+ball,2,18.3,United Arab Emirates,Aayan Afzal Khan,Hazrat Luqman,J Jarvis,0,0,,,,,,caught,Aayan Afzal Khan
+ball,2,18.4,United Arab Emirates,Akif Raja,Hazrat Luqman,J Jarvis,4,0,,,,,,"",""
+ball,2,18.5,United Arab Emirates,Akif Raja,Hazrat Luqman,J Jarvis,6,0,,,,,,"",""
+ball,2,18.6,United Arab Emirates,Akif Raja,Hazrat Luqman,J Jarvis,1,0,,,,,,"",""
+ball,2,19.1,United Arab Emirates,Akif Raja,Hazrat Luqman,GT Main,1,0,,,,,,"",""
+ball,2,19.2,United Arab Emirates,Hazrat Luqman,Akif Raja,GT Main,1,0,,,,,,run out,Hazrat Luqman
+ball,2,19.3,United Arab Emirates,Junaid Siddique,Akif Raja,GT Main,1,0,,,,,,"",""
+ball,2,19.4,United Arab Emirates,Akif Raja,Junaid Siddique,GT Main,0,0,,,,,,"",""
+ball,2,19.5,United Arab Emirates,Akif Raja,Junaid Siddique,GT Main,0,0,,,,,,"",""
+ball,2,19.6,United Arab Emirates,Akif Raja,Junaid Siddique,GT Main,0,0,,,,,,"",""

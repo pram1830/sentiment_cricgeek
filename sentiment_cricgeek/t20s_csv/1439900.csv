@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2024/25
+info,date,2025/01/25
+info,event,England tour of India
+info,match_number,2
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Tilak Varma
+info,umpire,KN Ananthapadmanabhan
+info,umpire,VK Sharma
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,R Pandit
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,2
+info,player,England,PD Salt
+info,player,England,BM Duckett
+info,player,England,JC Buttler
+info,player,England,HC Brook
+info,player,England,LS Livingstone
+info,player,England,JL Smith
+info,player,England,J Overton
+info,player,England,BA Carse
+info,player,England,JC Archer
+info,player,England,AU Rashid
+info,player,England,MA Wood
+info,player,India,SV Samson
+info,player,India,Abhishek Sharma
+info,player,India,Tilak Varma
+info,player,India,SA Yadav
+info,player,India,Dhruv Jurel
+info,player,India,HH Pandya
+info,player,India,Washington Sundar
+info,player,India,AR Patel
+info,player,India,Arshdeep Singh
+info,player,India,Ravi Bishnoi
+info,player,India,CV Varun
+info,registry,people,AR Patel,2e171977
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,J Overton,59559bc2
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JL Smith,c834c290
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Pandit,8a604384
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,England,PD Salt,BM Duckett,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,0.2,England,PD Salt,BM Duckett,Arshdeep Singh,0,1,,,,1,,"",""
+ball,1,0.3,England,BM Duckett,PD Salt,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,0.4,England,PD Salt,BM Duckett,Arshdeep Singh,0,0,,,,,,caught,PD Salt
+ball,1,0.5,England,JC Buttler,BM Duckett,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,0.6,England,BM Duckett,JC Buttler,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,1.1,England,BM Duckett,JC Buttler,HH Pandya,0,0,,,,,,"",""
+ball,1,1.2,England,BM Duckett,JC Buttler,HH Pandya,0,0,,,,,,"",""
+ball,1,1.3,England,BM Duckett,JC Buttler,HH Pandya,1,0,,,,,,"",""
+ball,1,1.4,England,JC Buttler,BM Duckett,HH Pandya,0,0,,,,,,"",""
+ball,1,1.5,England,JC Buttler,BM Duckett,HH Pandya,0,0,,,,,,"",""
+ball,1,1.6,England,JC Buttler,BM Duckett,HH Pandya,1,0,,,,,,"",""
+ball,1,2.1,England,JC Buttler,BM Duckett,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,2.2,England,JC Buttler,BM Duckett,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,2.3,England,JC Buttler,BM Duckett,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,2.4,England,JC Buttler,BM Duckett,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,2.5,England,JC Buttler,BM Duckett,Arshdeep Singh,6,0,,,,,,"",""
+ball,1,2.6,England,JC Buttler,BM Duckett,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,3.1,England,BM Duckett,JC Buttler,Washington Sundar,0,0,,,,,,caught,BM Duckett
+ball,1,3.2,England,HC Brook,JC Buttler,Washington Sundar,1,0,,,,,,"",""
+ball,1,3.3,England,JC Buttler,HC Brook,Washington Sundar,2,0,,,,,,"",""
+ball,1,3.4,England,JC Buttler,HC Brook,Washington Sundar,6,0,,,,,,"",""
+ball,1,3.5,England,JC Buttler,HC Brook,Washington Sundar,0,0,,,,,,"",""
+ball,1,3.6,England,JC Buttler,HC Brook,Washington Sundar,0,0,,,,,,"",""
+ball,1,4.1,England,HC Brook,JC Buttler,AR Patel,1,0,,,,,,"",""
+ball,1,4.2,England,JC Buttler,HC Brook,AR Patel,0,0,,,,,,"",""
+ball,1,4.3,England,JC Buttler,HC Brook,AR Patel,1,0,,,,,,"",""
+ball,1,4.4,England,HC Brook,JC Buttler,AR Patel,6,0,,,,,,"",""
+ball,1,4.5,England,HC Brook,JC Buttler,AR Patel,4,0,,,,,,"",""
+ball,1,4.6,England,HC Brook,JC Buttler,AR Patel,0,0,,,,,,"",""
+ball,1,5.1,England,JC Buttler,HC Brook,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,5.2,England,JC Buttler,HC Brook,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,5.3,England,JC Buttler,HC Brook,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,5.4,England,HC Brook,JC Buttler,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,5.5,England,JC Buttler,HC Brook,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,5.6,England,HC Brook,JC Buttler,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,6.1,England,JC Buttler,HC Brook,CV Varun,0,0,,,,,,"",""
+ball,1,6.2,England,JC Buttler,HC Brook,CV Varun,1,0,,,,,,"",""
+ball,1,6.3,England,HC Brook,JC Buttler,CV Varun,0,0,,,,,,bowled,HC Brook
+ball,1,6.4,England,LS Livingstone,JC Buttler,CV Varun,1,0,,,,,,"",""
+ball,1,6.5,England,JC Buttler,LS Livingstone,CV Varun,1,0,,,,,,"",""
+ball,1,6.6,England,LS Livingstone,JC Buttler,CV Varun,0,0,,,,,,"",""
+ball,1,7.1,England,JC Buttler,LS Livingstone,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.2,England,LS Livingstone,JC Buttler,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.3,England,LS Livingstone,JC Buttler,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.4,England,LS Livingstone,JC Buttler,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.5,England,JC Buttler,LS Livingstone,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,7.6,England,JC Buttler,LS Livingstone,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.1,England,JC Buttler,LS Livingstone,CV Varun,1,0,,,,,,"",""
+ball,1,8.2,England,LS Livingstone,JC Buttler,CV Varun,4,0,,,,,,"",""
+ball,1,8.3,England,LS Livingstone,JC Buttler,CV Varun,1,0,,,,,,"",""
+ball,1,8.4,England,JC Buttler,LS Livingstone,CV Varun,1,0,,,,,,"",""
+ball,1,8.5,England,LS Livingstone,JC Buttler,CV Varun,1,0,,,,,,"",""
+ball,1,8.6,England,JC Buttler,LS Livingstone,CV Varun,0,0,,,,,,"",""
+ball,1,9.1,England,LS Livingstone,JC Buttler,AR Patel,2,0,,,,,,"",""
+ball,1,9.2,England,LS Livingstone,JC Buttler,AR Patel,1,0,,,,,,"",""
+ball,1,9.3,England,JC Buttler,LS Livingstone,AR Patel,0,0,,,,,,caught,JC Buttler
+ball,1,9.4,England,JL Smith,LS Livingstone,AR Patel,0,0,,,,,,"",""
+ball,1,9.5,England,JL Smith,LS Livingstone,AR Patel,1,0,,,,,,"",""
+ball,1,9.6,England,LS Livingstone,JL Smith,AR Patel,0,0,,,,,,"",""
+ball,1,10.1,England,JL Smith,LS Livingstone,CV Varun,2,0,,,,,,"",""
+ball,1,10.2,England,JL Smith,LS Livingstone,CV Varun,6,0,,,,,,"",""
+ball,1,10.3,England,JL Smith,LS Livingstone,CV Varun,1,0,,,,,,"",""
+ball,1,10.4,England,LS Livingstone,JL Smith,CV Varun,1,0,,,,,,"",""
+ball,1,10.5,England,JL Smith,LS Livingstone,CV Varun,1,0,,,,,,"",""
+ball,1,10.6,England,LS Livingstone,JL Smith,CV Varun,1,0,,,,,,"",""
+ball,1,11.1,England,LS Livingstone,JL Smith,AR Patel,0,0,,,,,,caught,LS Livingstone
+ball,1,11.2,England,J Overton,JL Smith,AR Patel,1,0,,,,,,"",""
+ball,1,11.3,England,JL Smith,J Overton,AR Patel,0,0,,,,,,"",""
+ball,1,11.4,England,JL Smith,J Overton,AR Patel,0,0,,,,,,"",""
+ball,1,11.5,England,JL Smith,J Overton,AR Patel,1,0,,,,,,"",""
+ball,1,11.6,England,J Overton,JL Smith,AR Patel,2,0,,,,,,"",""
+ball,1,12.1,England,JL Smith,J Overton,Abhishek Sharma,6,0,,,,,,"",""
+ball,1,12.2,England,JL Smith,J Overton,Abhishek Sharma,4,0,,,,,,"",""
+ball,1,12.3,England,JL Smith,J Overton,Abhishek Sharma,0,0,,,,,,caught,JL Smith
+ball,1,12.4,England,BA Carse,J Overton,Abhishek Sharma,2,0,,,,,,"",""
+ball,1,12.5,England,BA Carse,J Overton,Abhishek Sharma,0,0,,,,,,"",""
+ball,1,12.6,England,BA Carse,J Overton,Abhishek Sharma,0,0,,,,,,"",""
+ball,1,13.1,England,J Overton,BA Carse,AR Patel,1,0,,,,,,"",""
+ball,1,13.2,England,BA Carse,J Overton,AR Patel,6,0,,,,,,"",""
+ball,1,13.3,England,BA Carse,J Overton,AR Patel,0,0,,,,,,"",""
+ball,1,13.4,England,BA Carse,J Overton,AR Patel,4,0,,,,,,"",""
+ball,1,13.5,England,BA Carse,J Overton,AR Patel,0,0,,,,,,"",""
+ball,1,13.6,England,BA Carse,J Overton,AR Patel,1,0,,,,,,"",""
+ball,1,14.1,England,BA Carse,J Overton,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,14.2,England,BA Carse,J Overton,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,14.3,England,J Overton,BA Carse,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,14.4,England,BA Carse,J Overton,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,14.5,England,J Overton,BA Carse,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,14.6,England,J Overton,BA Carse,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.1,England,BA Carse,J Overton,CV Varun,6,0,,,,,,"",""
+ball,1,15.2,England,BA Carse,J Overton,CV Varun,6,0,,,,,,"",""
+ball,1,15.3,England,BA Carse,J Overton,CV Varun,0,0,,,,,,"",""
+ball,1,15.4,England,BA Carse,J Overton,CV Varun,2,0,,,,,,"",""
+ball,1,15.5,England,BA Carse,J Overton,CV Varun,1,0,,,,,,"",""
+ball,1,15.6,England,J Overton,BA Carse,CV Varun,0,0,,,,,,bowled,J Overton
+ball,1,16.1,England,BA Carse,JC Archer,Ravi Bishnoi,1,0,,,,,,run out,BA Carse
+ball,1,16.2,England,JC Archer,AU Rashid,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,16.3,England,AU Rashid,JC Archer,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,16.4,England,AU Rashid,JC Archer,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,16.5,England,AU Rashid,JC Archer,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,16.6,England,JC Archer,AU Rashid,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,17.1,England,JC Archer,AU Rashid,Arshdeep Singh,0,1,1,,,,,"",""
+ball,1,17.2,England,JC Archer,AU Rashid,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,17.3,England,AU Rashid,JC Archer,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,17.4,England,AU Rashid,JC Archer,Arshdeep Singh,2,0,,,,,,"",""
+ball,1,17.5,England,AU Rashid,JC Archer,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,17.6,England,AU Rashid,JC Archer,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,17.7,England,JC Archer,AU Rashid,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,18.1,England,AU Rashid,JC Archer,HH Pandya,1,0,,,,,,"",""
+ball,1,18.2,England,JC Archer,AU Rashid,HH Pandya,1,0,,,,,,"",""
+ball,1,18.3,England,AU Rashid,JC Archer,HH Pandya,1,0,,,,,,"",""
+ball,1,18.4,England,JC Archer,AU Rashid,HH Pandya,1,0,,,,,,"",""
+ball,1,18.5,England,AU Rashid,JC Archer,HH Pandya,0,0,,,,,,"",""
+ball,1,18.6,England,AU Rashid,JC Archer,HH Pandya,0,0,,,,,,caught,AU Rashid
+ball,1,19.1,England,JC Archer,MA Wood,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,19.2,England,JC Archer,MA Wood,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,19.3,England,MA Wood,JC Archer,Arshdeep Singh,4,0,,,,,,"",""
+ball,1,19.4,England,MA Wood,JC Archer,Arshdeep Singh,0,0,,,,,,"",""
+ball,1,19.5,England,MA Wood,JC Archer,Arshdeep Singh,1,0,,,,,,"",""
+ball,1,19.6,England,JC Archer,MA Wood,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,0.1,India,SV Samson,Abhishek Sharma,JC Archer,1,0,,,,,,"",""
+ball,2,0.2,India,Abhishek Sharma,SV Samson,JC Archer,0,0,,,,,,"",""
+ball,2,0.3,India,Abhishek Sharma,SV Samson,JC Archer,4,0,,,,,,"",""
+ball,2,0.4,India,Abhishek Sharma,SV Samson,JC Archer,0,0,,,,,,"",""
+ball,2,0.5,India,Abhishek Sharma,SV Samson,JC Archer,4,0,,,,,,"",""
+ball,2,0.6,India,Abhishek Sharma,SV Samson,JC Archer,4,0,,,,,,"",""
+ball,2,1.1,India,SV Samson,Abhishek Sharma,MA Wood,0,0,,,,,,"",""
+ball,2,1.2,India,SV Samson,Abhishek Sharma,MA Wood,1,0,,,,,,"",""
+ball,2,1.3,India,Abhishek Sharma,SV Samson,MA Wood,0,1,1,,,,,"",""
+ball,2,1.4,India,Abhishek Sharma,SV Samson,MA Wood,0,0,,,,,,lbw,Abhishek Sharma
+ball,2,1.5,India,Tilak Varma,SV Samson,MA Wood,1,0,,,,,,"",""
+ball,2,1.6,India,SV Samson,Tilak Varma,MA Wood,1,0,,,,,,"",""
+ball,2,1.7,India,Tilak Varma,SV Samson,MA Wood,0,0,,,,,,"",""
+ball,2,2.1,India,SV Samson,Tilak Varma,JC Archer,0,0,,,,,,"",""
+ball,2,2.2,India,SV Samson,Tilak Varma,JC Archer,2,0,,,,,,"",""
+ball,2,2.3,India,SV Samson,Tilak Varma,JC Archer,0,0,,,,,,caught,SV Samson
+ball,2,2.4,India,SA Yadav,Tilak Varma,JC Archer,4,0,,,,,,"",""
+ball,2,2.5,India,SA Yadav,Tilak Varma,JC Archer,0,1,1,,,,,"",""
+ball,2,2.6,India,SA Yadav,Tilak Varma,JC Archer,4,0,,,,,,"",""
+ball,2,2.7,India,SA Yadav,Tilak Varma,JC Archer,0,0,,,,,,"",""
+ball,2,3.1,India,Tilak Varma,SA Yadav,MA Wood,0,1,1,,,,,"",""
+ball,2,3.2,India,Tilak Varma,SA Yadav,MA Wood,0,0,,,,,,"",""
+ball,2,3.3,India,Tilak Varma,SA Yadav,MA Wood,0,0,,,,,,"",""
+ball,2,3.4,India,Tilak Varma,SA Yadav,MA Wood,0,0,,,,,,"",""
+ball,2,3.5,India,Tilak Varma,SA Yadav,MA Wood,1,0,,,,,,"",""
+ball,2,3.6,India,SA Yadav,Tilak Varma,MA Wood,4,0,,,,,,"",""
+ball,2,3.7,India,SA Yadav,Tilak Varma,MA Wood,0,0,,,,,,"",""
+ball,2,4.1,India,Tilak Varma,SA Yadav,JC Archer,4,0,,,,,,"",""
+ball,2,4.2,India,Tilak Varma,SA Yadav,JC Archer,6,0,,,,,,"",""
+ball,2,4.3,India,Tilak Varma,SA Yadav,JC Archer,0,0,,,,,,"",""
+ball,2,4.4,India,Tilak Varma,SA Yadav,JC Archer,6,0,,,,,,"",""
+ball,2,4.5,India,Tilak Varma,SA Yadav,JC Archer,1,0,,,,,,"",""
+ball,2,4.6,India,SA Yadav,Tilak Varma,JC Archer,0,0,,,,,,"",""
+ball,2,5.1,India,Tilak Varma,SA Yadav,BA Carse,6,0,,,,,,"",""
+ball,2,5.2,India,Tilak Varma,SA Yadav,BA Carse,0,0,,,,,,"",""
+ball,2,5.3,India,Tilak Varma,SA Yadav,BA Carse,1,0,,,,,,"",""
+ball,2,5.4,India,SA Yadav,Tilak Varma,BA Carse,0,0,,,,,,bowled,SA Yadav
+ball,2,5.5,India,Dhruv Jurel,Tilak Varma,BA Carse,1,0,,,,,,"",""
+ball,2,5.6,India,Tilak Varma,Dhruv Jurel,BA Carse,0,0,,,,,,"",""
+ball,2,6.1,India,Dhruv Jurel,Tilak Varma,AU Rashid,1,0,,,,,,"",""
+ball,2,6.2,India,Tilak Varma,Dhruv Jurel,AU Rashid,0,0,,,,,,"",""
+ball,2,6.3,India,Tilak Varma,Dhruv Jurel,AU Rashid,0,1,,,,1,,"",""
+ball,2,6.4,India,Dhruv Jurel,Tilak Varma,AU Rashid,1,0,,,,,,"",""
+ball,2,6.5,India,Tilak Varma,Dhruv Jurel,AU Rashid,0,0,,,,,,"",""
+ball,2,6.6,India,Tilak Varma,Dhruv Jurel,AU Rashid,1,0,,,,,,"",""
+ball,2,7.1,India,Tilak Varma,Dhruv Jurel,BA Carse,1,0,,,,,,"",""
+ball,2,7.2,India,Dhruv Jurel,Tilak Varma,BA Carse,1,0,,,,,,"",""
+ball,2,7.3,India,Tilak Varma,Dhruv Jurel,BA Carse,1,0,,,,,,"",""
+ball,2,7.4,India,Dhruv Jurel,Tilak Varma,BA Carse,0,0,,,,,,caught,Dhruv Jurel
+ball,2,7.5,India,HH Pandya,Tilak Varma,BA Carse,4,0,,,,,,"",""
+ball,2,7.6,India,HH Pandya,Tilak Varma,BA Carse,1,0,,,,,,"",""
+ball,2,8.1,India,HH Pandya,Tilak Varma,AU Rashid,0,0,,,,,,"",""
+ball,2,8.2,India,HH Pandya,Tilak Varma,AU Rashid,1,0,,,,,,"",""
+ball,2,8.3,India,Tilak Varma,HH Pandya,AU Rashid,4,0,,,,,,"",""
+ball,2,8.4,India,Tilak Varma,HH Pandya,AU Rashid,1,0,,,,,,"",""
+ball,2,8.5,India,HH Pandya,Tilak Varma,AU Rashid,1,0,,,,,,"",""
+ball,2,8.6,India,Tilak Varma,HH Pandya,AU Rashid,0,0,,,,,,"",""
+ball,2,9.1,India,HH Pandya,Tilak Varma,J Overton,0,0,,,,,,caught,HH Pandya
+ball,2,9.2,India,Washington Sundar,Tilak Varma,J Overton,0,0,,,,,,"",""
+ball,2,9.3,India,Washington Sundar,Tilak Varma,J Overton,0,0,,,,,,"",""
+ball,2,9.4,India,Washington Sundar,Tilak Varma,J Overton,0,0,,,,,,"",""
+ball,2,9.5,India,Washington Sundar,Tilak Varma,J Overton,1,0,,,,,,"",""
+ball,2,9.6,India,Tilak Varma,Washington Sundar,J Overton,0,0,,,,,,"",""
+ball,2,10.1,India,Washington Sundar,Tilak Varma,AU Rashid,1,0,,,,,,"",""
+ball,2,10.2,India,Tilak Varma,Washington Sundar,AU Rashid,1,0,,,,,,"",""
+ball,2,10.3,India,Washington Sundar,Tilak Varma,AU Rashid,0,0,,,,,,"",""
+ball,2,10.4,India,Washington Sundar,Tilak Varma,AU Rashid,1,0,,,,,,"",""
+ball,2,10.5,India,Tilak Varma,Washington Sundar,AU Rashid,0,0,,,,,,"",""
+ball,2,10.6,India,Tilak Varma,Washington Sundar,AU Rashid,0,0,,,,,,"",""
+ball,2,11.1,India,Washington Sundar,Tilak Varma,J Overton,4,0,,,,,,"",""
+ball,2,11.2,India,Washington Sundar,Tilak Varma,J Overton,1,0,,,,,,"",""
+ball,2,11.3,India,Tilak Varma,Washington Sundar,J Overton,0,5,5,,,,,"",""
+ball,2,11.4,India,Tilak Varma,Washington Sundar,J Overton,1,0,,,,,,"",""
+ball,2,11.5,India,Washington Sundar,Tilak Varma,J Overton,0,0,,,,,,"",""
+ball,2,11.6,India,Washington Sundar,Tilak Varma,J Overton,0,0,,,,,,"",""
+ball,2,11.7,India,Washington Sundar,Tilak Varma,J Overton,2,0,,,,,,"",""
+ball,2,12.1,India,Tilak Varma,Washington Sundar,MA Wood,1,0,,,,,,"",""
+ball,2,12.2,India,Washington Sundar,Tilak Varma,MA Wood,1,0,,,,,,"",""
+ball,2,12.3,India,Tilak Varma,Washington Sundar,MA Wood,1,0,,,,,,"",""
+ball,2,12.4,India,Washington Sundar,Tilak Varma,MA Wood,0,1,,1,,,,"",""
+ball,2,12.5,India,Washington Sundar,Tilak Varma,MA Wood,6,0,,,,,,"",""
+ball,2,12.6,India,Washington Sundar,Tilak Varma,MA Wood,4,0,,,,,,"",""
+ball,2,12.7,India,Washington Sundar,Tilak Varma,MA Wood,4,0,,,,,,"",""
+ball,2,13.1,India,Tilak Varma,Washington Sundar,BA Carse,1,0,,,,,,"",""
+ball,2,13.2,India,Washington Sundar,Tilak Varma,BA Carse,1,0,,,,,,"",""
+ball,2,13.3,India,Tilak Varma,Washington Sundar,BA Carse,1,0,,,,,,"",""
+ball,2,13.4,India,Washington Sundar,Tilak Varma,BA Carse,0,0,,,,,,bowled,Washington Sundar
+ball,2,13.5,India,AR Patel,Tilak Varma,BA Carse,0,1,1,,,,,"",""
+ball,2,13.6,India,AR Patel,Tilak Varma,BA Carse,1,0,,,,,,"",""
+ball,2,13.7,India,Tilak Varma,AR Patel,BA Carse,1,0,,,,,,"",""
+ball,2,14.1,India,Tilak Varma,AR Patel,LS Livingstone,1,0,,,,,,"",""
+ball,2,14.2,India,AR Patel,Tilak Varma,LS Livingstone,1,0,,,,,,"",""
+ball,2,14.3,India,Tilak Varma,AR Patel,LS Livingstone,4,0,,,,,,"",""
+ball,2,14.4,India,Tilak Varma,AR Patel,LS Livingstone,1,0,,,,,,"",""
+ball,2,14.5,India,AR Patel,Tilak Varma,LS Livingstone,0,0,,,,,,caught,AR Patel
+ball,2,14.6,India,Arshdeep Singh,Tilak Varma,LS Livingstone,0,0,,,,,,"",""
+ball,2,15.1,India,Tilak Varma,Arshdeep Singh,JC Archer,0,0,,,,,,"",""
+ball,2,15.2,India,Tilak Varma,Arshdeep Singh,JC Archer,6,0,,,,,,"",""
+ball,2,15.3,India,Tilak Varma,Arshdeep Singh,JC Archer,6,0,,,,,,"",""
+ball,2,15.4,India,Tilak Varma,Arshdeep Singh,JC Archer,1,0,,,,,,"",""
+ball,2,15.5,India,Arshdeep Singh,Tilak Varma,JC Archer,4,0,,,,,,"",""
+ball,2,15.6,India,Arshdeep Singh,Tilak Varma,JC Archer,2,0,,,,,,"",""
+ball,2,16.1,India,Tilak Varma,Arshdeep Singh,AU Rashid,0,0,,,,,,"",""
+ball,2,16.2,India,Tilak Varma,Arshdeep Singh,AU Rashid,0,0,,,,,,"",""
+ball,2,16.3,India,Tilak Varma,Arshdeep Singh,AU Rashid,0,0,,,,,,"",""
+ball,2,16.4,India,Tilak Varma,Arshdeep Singh,AU Rashid,0,0,,,,,,"",""
+ball,2,16.5,India,Tilak Varma,Arshdeep Singh,AU Rashid,1,0,,,,,,"",""
+ball,2,16.6,India,Arshdeep Singh,Tilak Varma,AU Rashid,0,0,,,,,,caught,Arshdeep Singh
+ball,2,17.1,India,Tilak Varma,Ravi Bishnoi,BA Carse,0,0,,,,,,"",""
+ball,2,17.2,India,Tilak Varma,Ravi Bishnoi,BA Carse,1,0,,,,,,"",""
+ball,2,17.3,India,Ravi Bishnoi,Tilak Varma,BA Carse,1,0,,,,,,"",""
+ball,2,17.4,India,Tilak Varma,Ravi Bishnoi,BA Carse,1,0,,,,,,"",""
+ball,2,17.5,India,Ravi Bishnoi,Tilak Varma,BA Carse,4,0,,,,,,"",""
+ball,2,17.6,India,Ravi Bishnoi,Tilak Varma,BA Carse,0,0,,,,,,"",""
+ball,2,18.1,India,Tilak Varma,Ravi Bishnoi,LS Livingstone,0,0,,,,,,"",""
+ball,2,18.2,India,Tilak Varma,Ravi Bishnoi,LS Livingstone,0,0,,,,,,"",""
+ball,2,18.3,India,Tilak Varma,Ravi Bishnoi,LS Livingstone,2,0,,,,,,"",""
+ball,2,18.4,India,Tilak Varma,Ravi Bishnoi,LS Livingstone,1,0,,,,,,"",""
+ball,2,18.5,India,Ravi Bishnoi,Tilak Varma,LS Livingstone,4,0,,,,,,"",""
+ball,2,18.6,India,Ravi Bishnoi,Tilak Varma,LS Livingstone,0,0,,,,,,"",""
+ball,2,19.1,India,Tilak Varma,Ravi Bishnoi,J Overton,2,0,,,,,,"",""
+ball,2,19.2,India,Tilak Varma,Ravi Bishnoi,J Overton,4,0,,,,,,"",""

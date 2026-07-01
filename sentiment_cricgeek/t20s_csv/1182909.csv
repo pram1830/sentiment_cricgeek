@@ -1,0 +1,159 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Papua New Guinea
+info,gender,female
+info,season,2019
+info,date,2019/05/07
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,6
+info,venue,"Ground 2, Independence Park"
+info,city,Port Vila
+info,toss_winner,Fiji
+info,toss_decision,bat
+info,player_of_match,R Oa
+info,umpire,ZK Shem
+info,umpire,Suresh Subramanian
+info,reserve_umpire,Kim Cotton
+info,match_referee,SR Bernard
+info,winner,Papua New Guinea
+info,winner_wickets,10
+info,player,Fiji,M Vuruna
+info,player,Fiji,I Waqavakatoga
+info,player,Fiji,S Lomani
+info,player,Fiji,M Vua
+info,player,Fiji,R Muriyalo
+info,player,Fiji,W Ofamoli
+info,player,Fiji,S Lote
+info,player,Fiji,A Tagilala
+info,player,Fiji,L Samani
+info,player,Fiji,M Tilau
+info,player,Fiji,L Vua
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,K Arua
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,H Nou
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,R Oa
+info,player,Papua New Guinea,M Tom
+info,player,Papua New Guinea,NM Ambo
+info,player,Papua New Guinea,HJ Thomas
+info,registry,people,A Tagilala,c057e647
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,H Nou,ca90651a
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,I Waqavakatoga,31d220f5
+info,registry,people,K Arua,8ce69204
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Samani,0ec3085b
+info,registry,people,L Vua,978a63d4
+info,registry,people,M Tilau,745815a1
+info,registry,people,M Tom,cebc1351
+info,registry,people,M Vua,dcff5376
+info,registry,people,M Vuruna,14d7b24b
+info,registry,people,N Vare,20ace887
+info,registry,people,NM Ambo,5aac4f00
+info,registry,people,R Muriyalo,a2fc9177
+info,registry,people,R Oa,dd468f06
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,S Lomani,b85ac5bb
+info,registry,people,S Lote,09c07ae4
+info,registry,people,SR Bernard,800187dc
+info,registry,people,Suresh Subramanian,4e869e23
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,V Araa,040f11e8
+info,registry,people,W Ofamoli,8e4664a4
+info,registry,people,ZK Shem,87ffd217
+ball,1,0.1,Fiji,M Vuruna,I Waqavakatoga,M Tom,0,0,,,,,,"",""
+ball,1,0.2,Fiji,M Vuruna,I Waqavakatoga,M Tom,0,0,,,,,,"",""
+ball,1,0.3,Fiji,M Vuruna,I Waqavakatoga,M Tom,0,0,,,,,,"",""
+ball,1,0.4,Fiji,M Vuruna,I Waqavakatoga,M Tom,1,0,,,,,,"",""
+ball,1,0.5,Fiji,I Waqavakatoga,M Vuruna,M Tom,0,1,1,,,,,"",""
+ball,1,0.6,Fiji,I Waqavakatoga,M Vuruna,M Tom,0,0,,,,,,"",""
+ball,1,0.7,Fiji,I Waqavakatoga,M Vuruna,M Tom,0,0,,,,,,"",""
+ball,1,1.1,Fiji,M Vuruna,I Waqavakatoga,S Jimmy,2,0,,,,,,"",""
+ball,1,1.2,Fiji,M Vuruna,I Waqavakatoga,S Jimmy,1,0,,,,,,"",""
+ball,1,1.3,Fiji,I Waqavakatoga,M Vuruna,S Jimmy,1,0,,,,,,"",""
+ball,1,1.4,Fiji,M Vuruna,I Waqavakatoga,S Jimmy,1,0,,,,,,"",""
+ball,1,1.5,Fiji,I Waqavakatoga,M Vuruna,S Jimmy,0,0,,,,,,caught,I Waqavakatoga
+ball,1,1.6,Fiji,S Lomani,M Vuruna,S Jimmy,0,0,,,,,,"",""
+ball,1,2.1,Fiji,M Vuruna,S Lomani,M Tom,0,0,,,,,,"",""
+ball,1,2.2,Fiji,M Vuruna,S Lomani,M Tom,0,0,,,,,,"",""
+ball,1,2.3,Fiji,M Vuruna,S Lomani,M Tom,0,0,,,,,,caught and bowled,M Vuruna
+ball,1,2.4,Fiji,M Vua,S Lomani,M Tom,0,0,,,,,,"",""
+ball,1,2.5,Fiji,M Vua,S Lomani,M Tom,0,0,,,,,,"",""
+ball,1,2.6,Fiji,M Vua,S Lomani,M Tom,1,0,,,,,,"",""
+ball,1,3.1,Fiji,M Vua,S Lomani,S Jimmy,0,0,,,,,,"",""
+ball,1,3.2,Fiji,M Vua,S Lomani,S Jimmy,0,0,,,,,,"",""
+ball,1,3.3,Fiji,M Vua,S Lomani,S Jimmy,1,0,,,,,,"",""
+ball,1,3.4,Fiji,S Lomani,M Vua,S Jimmy,1,0,,,,,,"",""
+ball,1,3.5,Fiji,M Vua,S Lomani,S Jimmy,0,0,,,,,,"",""
+ball,1,3.6,Fiji,M Vua,S Lomani,S Jimmy,1,0,,,,,,"",""
+ball,1,4.1,Fiji,M Vua,S Lomani,K Arua,0,0,,,,,,"",""
+ball,1,4.2,Fiji,M Vua,S Lomani,K Arua,1,0,,,,,,"",""
+ball,1,4.3,Fiji,S Lomani,M Vua,K Arua,1,0,,,,,,"",""
+ball,1,4.4,Fiji,M Vua,S Lomani,K Arua,0,0,,,,,,"",""
+ball,1,4.5,Fiji,M Vua,S Lomani,K Arua,0,0,,,,,,"",""
+ball,1,4.6,Fiji,M Vua,S Lomani,K Arua,0,0,,,,,,"",""
+ball,1,5.1,Fiji,S Lomani,M Vua,R Oa,0,0,,,,,,"",""
+ball,1,5.2,Fiji,S Lomani,M Vua,R Oa,0,1,1,,,,,"",""
+ball,1,5.3,Fiji,S Lomani,M Vua,R Oa,0,0,,,,,,run out,M Vua
+ball,1,5.4,Fiji,S Lomani,R Muriyalo,R Oa,0,0,,,,,,"",""
+ball,1,5.5,Fiji,S Lomani,R Muriyalo,R Oa,1,0,,,,,,"",""
+ball,1,5.6,Fiji,R Muriyalo,S Lomani,R Oa,0,0,,,,,,"",""
+ball,1,5.7,Fiji,R Muriyalo,S Lomani,R Oa,0,0,,,,,,"",""
+ball,1,6.1,Fiji,S Lomani,R Muriyalo,K Arua,0,0,,,,,,"",""
+ball,1,6.2,Fiji,S Lomani,R Muriyalo,K Arua,0,0,,,,,,"",""
+ball,1,6.3,Fiji,S Lomani,R Muriyalo,K Arua,2,0,,,,,,"",""
+ball,1,6.4,Fiji,S Lomani,R Muriyalo,K Arua,0,0,,,,,,"",""
+ball,1,6.5,Fiji,S Lomani,R Muriyalo,K Arua,0,0,,,,,,run out,S Lomani
+ball,1,6.6,Fiji,W Ofamoli,R Muriyalo,K Arua,1,0,,,,,,"",""
+ball,1,7.1,Fiji,W Ofamoli,R Muriyalo,R Oa,0,0,,,,,,"",""
+ball,1,7.2,Fiji,W Ofamoli,R Muriyalo,R Oa,0,0,,,,,,bowled,W Ofamoli
+ball,1,7.3,Fiji,S Lote,R Muriyalo,R Oa,0,0,,,,,,"",""
+ball,1,7.4,Fiji,S Lote,R Muriyalo,R Oa,1,0,,,,,,"",""
+ball,1,7.5,Fiji,R Muriyalo,S Lote,R Oa,0,0,,,,,,"",""
+ball,1,7.6,Fiji,R Muriyalo,S Lote,R Oa,1,0,,,,,,"",""
+ball,1,8.1,Fiji,R Muriyalo,S Lote,K Arua,1,0,,,,,,"",""
+ball,1,8.2,Fiji,S Lote,R Muriyalo,K Arua,0,0,,,,,,"",""
+ball,1,8.3,Fiji,S Lote,R Muriyalo,K Arua,0,0,,,,,,"",""
+ball,1,8.4,Fiji,S Lote,R Muriyalo,K Arua,0,0,,,,,,"",""
+ball,1,8.5,Fiji,S Lote,R Muriyalo,K Arua,1,0,,,,,,"",""
+ball,1,8.6,Fiji,R Muriyalo,S Lote,K Arua,0,0,,,,,,caught,R Muriyalo
+ball,1,9.1,Fiji,S Lote,A Tagilala,R Oa,0,0,,,,,,stumped,S Lote
+ball,1,9.2,Fiji,L Samani,A Tagilala,R Oa,0,0,,,,,,"",""
+ball,1,9.3,Fiji,L Samani,A Tagilala,R Oa,0,0,,,,,,"",""
+ball,1,9.4,Fiji,L Samani,A Tagilala,R Oa,0,0,,,,,,"",""
+ball,1,9.5,Fiji,L Samani,A Tagilala,R Oa,0,0,,,,,,bowled,L Samani
+ball,1,9.6,Fiji,M Tilau,A Tagilala,R Oa,0,0,,,,,,"",""
+ball,1,10.1,Fiji,A Tagilala,M Tilau,K Arua,0,0,,,,,,"",""
+ball,1,10.2,Fiji,A Tagilala,M Tilau,K Arua,1,0,,,,,,"",""
+ball,1,10.3,Fiji,M Tilau,A Tagilala,K Arua,0,0,,,,,,caught and bowled,M Tilau
+ball,1,10.4,Fiji,L Vua,A Tagilala,K Arua,0,0,,,,,,"",""
+ball,1,10.5,Fiji,L Vua,A Tagilala,K Arua,0,0,,,,,,"",""
+ball,1,10.6,Fiji,L Vua,A Tagilala,K Arua,0,0,,,,,,"",""
+ball,1,11.1,Fiji,A Tagilala,L Vua,R Oa,0,0,,,,,,bowled,A Tagilala
+ball,2,0.1,Papua New Guinea,S Jimmy,T Ruma,M Vua,0,1,1,,,,,"",""
+ball,2,0.2,Papua New Guinea,S Jimmy,T Ruma,M Vua,0,1,,,,1,,"",""
+ball,2,0.3,Papua New Guinea,T Ruma,S Jimmy,M Vua,0,1,1,,,,,"",""
+ball,2,0.4,Papua New Guinea,T Ruma,S Jimmy,M Vua,0,0,,,,,,"",""
+ball,2,0.5,Papua New Guinea,T Ruma,S Jimmy,M Vua,1,0,,,,,,"",""
+ball,2,0.6,Papua New Guinea,S Jimmy,T Ruma,M Vua,1,0,,,,,,"",""
+ball,2,0.7,Papua New Guinea,T Ruma,S Jimmy,M Vua,1,0,,,,,,"",""
+ball,2,0.8,Papua New Guinea,S Jimmy,T Ruma,M Vua,0,0,,,,,,"",""
+ball,2,1.1,Papua New Guinea,T Ruma,S Jimmy,R Muriyalo,0,0,,,,,,"",""
+ball,2,1.2,Papua New Guinea,T Ruma,S Jimmy,R Muriyalo,0,0,,,,,,"",""
+ball,2,1.3,Papua New Guinea,T Ruma,S Jimmy,R Muriyalo,2,0,,,,,,"",""
+ball,2,1.4,Papua New Guinea,T Ruma,S Jimmy,R Muriyalo,1,0,,,,,,"",""
+ball,2,1.5,Papua New Guinea,T Ruma,S Jimmy,R Muriyalo,1,0,,,,,,"",""
+ball,2,1.6,Papua New Guinea,S Jimmy,T Ruma,R Muriyalo,1,0,,,,,,"",""
+ball,2,2.1,Papua New Guinea,S Jimmy,T Ruma,M Vua,0,0,,,,,,"",""
+ball,2,2.2,Papua New Guinea,S Jimmy,T Ruma,M Vua,3,0,,,,,,"",""
+ball,2,2.3,Papua New Guinea,T Ruma,S Jimmy,M Vua,3,0,,,,,,"",""
+ball,2,2.4,Papua New Guinea,S Jimmy,T Ruma,M Vua,4,0,,,,,,"",""
+ball,2,2.5,Papua New Guinea,S Jimmy,T Ruma,M Vua,1,0,,,,,,"",""
+ball,2,2.6,Papua New Guinea,T Ruma,S Jimmy,M Vua,0,1,1,,,,,"",""
+ball,2,2.7,Papua New Guinea,T Ruma,S Jimmy,M Vua,0,0,,,,,,"",""
+ball,2,3.1,Papua New Guinea,S Jimmy,T Ruma,R Muriyalo,4,0,,,,,,"",""

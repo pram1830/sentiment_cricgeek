@@ -1,0 +1,324 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,India
+info,team,England
+info,gender,male
+info,season,2020/21
+info,date,2021/03/20
+info,event,England tour of India
+info,match_number,5
+info,venue,Narendra Modi Stadium
+info,city,Ahmedabad
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,B Kumar
+info,umpire,AK Chaudhary
+info,umpire,Nitin Menon
+info,reserve_umpire,VK Sharma
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,J Srinath
+info,winner,India
+info,winner_runs,36
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,RR Pant
+info,player,India,SS Iyer
+info,player,India,SN Thakur
+info,player,India,Washington Sundar
+info,player,India,B Kumar
+info,player,India,RD Chahar
+info,player,India,T Natarajan
+info,player,England,JJ Roy
+info,player,England,JC Buttler
+info,player,England,DJ Malan
+info,player,England,JM Bairstow
+info,player,England,EJG Morgan
+info,player,England,BA Stokes
+info,player,England,CJ Jordan
+info,player,England,JC Archer
+info,player,England,SM Curran
+info,player,England,AU Rashid
+info,player,England,MA Wood
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,T Natarajan,ce794613
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,India,RG Sharma,V Kohli,AU Rashid,0,0,,,,,,"",""
+ball,1,0.2,India,RG Sharma,V Kohli,AU Rashid,1,0,,,,,,"",""
+ball,1,0.3,India,V Kohli,RG Sharma,AU Rashid,0,1,,,,1,,"",""
+ball,1,0.4,India,RG Sharma,V Kohli,AU Rashid,0,0,,,,,,"",""
+ball,1,0.5,India,RG Sharma,V Kohli,AU Rashid,1,0,,,,,,"",""
+ball,1,0.6,India,V Kohli,RG Sharma,AU Rashid,0,0,,,,,,"",""
+ball,1,1.1,India,RG Sharma,V Kohli,JC Archer,0,0,,,,,,"",""
+ball,1,1.2,India,RG Sharma,V Kohli,JC Archer,1,0,,,,,,"",""
+ball,1,1.3,India,V Kohli,RG Sharma,JC Archer,4,0,,,,,,"",""
+ball,1,1.4,India,V Kohli,RG Sharma,JC Archer,0,0,,,,,,"",""
+ball,1,1.5,India,V Kohli,RG Sharma,JC Archer,1,0,,,,,,"",""
+ball,1,1.6,India,RG Sharma,V Kohli,JC Archer,4,0,,,,,,"",""
+ball,1,2.1,India,V Kohli,RG Sharma,AU Rashid,0,0,,,,,,"",""
+ball,1,2.2,India,V Kohli,RG Sharma,AU Rashid,1,0,,,,,,"",""
+ball,1,2.3,India,RG Sharma,V Kohli,AU Rashid,0,0,,,,,,"",""
+ball,1,2.4,India,RG Sharma,V Kohli,AU Rashid,1,0,,,,,,"",""
+ball,1,2.5,India,V Kohli,RG Sharma,AU Rashid,1,0,,,,,,"",""
+ball,1,2.6,India,RG Sharma,V Kohli,AU Rashid,6,0,,,,,,"",""
+ball,1,3.1,India,V Kohli,RG Sharma,MA Wood,1,0,,,,,,"",""
+ball,1,3.2,India,RG Sharma,V Kohli,MA Wood,4,0,,,,,,"",""
+ball,1,3.3,India,RG Sharma,V Kohli,MA Wood,2,0,,,,,,"",""
+ball,1,3.4,India,RG Sharma,V Kohli,MA Wood,0,0,,,,,,"",""
+ball,1,3.5,India,RG Sharma,V Kohli,MA Wood,4,0,,,,,,"",""
+ball,1,3.6,India,RG Sharma,V Kohli,MA Wood,2,0,,,,,,"",""
+ball,1,4.1,India,V Kohli,RG Sharma,JC Archer,1,0,,,,,,"",""
+ball,1,4.2,India,RG Sharma,V Kohli,JC Archer,1,0,,,,,,"",""
+ball,1,4.3,India,V Kohli,RG Sharma,JC Archer,0,0,,,,,,"",""
+ball,1,4.4,India,V Kohli,RG Sharma,JC Archer,0,5,5,,,,,"",""
+ball,1,4.5,India,V Kohli,RG Sharma,JC Archer,1,0,,,,,,"",""
+ball,1,4.6,India,RG Sharma,V Kohli,JC Archer,1,0,,,,,,"",""
+ball,1,4.7,India,V Kohli,RG Sharma,JC Archer,0,0,,,,,,"",""
+ball,1,5.1,India,RG Sharma,V Kohli,MA Wood,0,1,,,,1,,"",""
+ball,1,5.2,India,V Kohli,RG Sharma,MA Wood,6,0,,,,,,"",""
+ball,1,5.3,India,V Kohli,RG Sharma,MA Wood,0,1,1,,,,,"",""
+ball,1,5.4,India,V Kohli,RG Sharma,MA Wood,1,0,,,,,,"",""
+ball,1,5.5,India,RG Sharma,V Kohli,MA Wood,6,0,,,,,,"",""
+ball,1,5.6,India,RG Sharma,V Kohli,MA Wood,0,0,,,,,,"",""
+ball,1,5.7,India,RG Sharma,V Kohli,MA Wood,1,0,,,,,,"",""
+ball,1,6.1,India,RG Sharma,V Kohli,CJ Jordan,2,0,,,,,,"",""
+ball,1,6.2,India,RG Sharma,V Kohli,CJ Jordan,0,0,,,,,,"",""
+ball,1,6.3,India,RG Sharma,V Kohli,CJ Jordan,0,0,,,,,,"",""
+ball,1,6.4,India,RG Sharma,V Kohli,CJ Jordan,1,0,,,,,,"",""
+ball,1,6.5,India,V Kohli,RG Sharma,CJ Jordan,1,0,,,,,,"",""
+ball,1,6.6,India,RG Sharma,V Kohli,CJ Jordan,6,0,,,,,,"",""
+ball,1,7.1,India,V Kohli,RG Sharma,SM Curran,1,0,,,,,,"",""
+ball,1,7.2,India,RG Sharma,V Kohli,SM Curran,0,0,,,,,,"",""
+ball,1,7.3,India,RG Sharma,V Kohli,SM Curran,1,0,,,,,,"",""
+ball,1,7.4,India,V Kohli,RG Sharma,SM Curran,1,0,,,,,,"",""
+ball,1,7.5,India,RG Sharma,V Kohli,SM Curran,2,0,,,,,,"",""
+ball,1,7.6,India,RG Sharma,V Kohli,SM Curran,6,0,,,,,,"",""
+ball,1,8.1,India,V Kohli,RG Sharma,BA Stokes,1,0,,,,,,"",""
+ball,1,8.2,India,RG Sharma,V Kohli,BA Stokes,6,0,,,,,,"",""
+ball,1,8.3,India,RG Sharma,V Kohli,BA Stokes,4,0,,,,,,"",""
+ball,1,8.4,India,RG Sharma,V Kohli,BA Stokes,1,0,,,,,,"",""
+ball,1,8.5,India,V Kohli,RG Sharma,BA Stokes,1,0,,,,,,"",""
+ball,1,8.6,India,RG Sharma,V Kohli,BA Stokes,0,0,,,,,,bowled,RG Sharma
+ball,1,9.1,India,V Kohli,SA Yadav,AU Rashid,1,0,,,,,,"",""
+ball,1,9.2,India,SA Yadav,V Kohli,AU Rashid,1,0,,,,,,"",""
+ball,1,9.3,India,V Kohli,SA Yadav,AU Rashid,1,0,,,,,,"",""
+ball,1,9.4,India,SA Yadav,V Kohli,AU Rashid,6,0,,,,,,"",""
+ball,1,9.5,India,SA Yadav,V Kohli,AU Rashid,6,0,,,,,,"",""
+ball,1,9.6,India,SA Yadav,V Kohli,AU Rashid,1,0,,,,,,"",""
+ball,1,10.1,India,SA Yadav,V Kohli,BA Stokes,0,0,,,,,,"",""
+ball,1,10.2,India,SA Yadav,V Kohli,BA Stokes,2,0,,,,,,"",""
+ball,1,10.3,India,SA Yadav,V Kohli,BA Stokes,1,0,,,,,,"",""
+ball,1,10.4,India,V Kohli,SA Yadav,BA Stokes,1,0,,,,,,"",""
+ball,1,10.5,India,SA Yadav,V Kohli,BA Stokes,0,0,,,,,,"",""
+ball,1,10.6,India,SA Yadav,V Kohli,BA Stokes,0,0,,,,,,"",""
+ball,1,11.1,India,V Kohli,SA Yadav,CJ Jordan,4,0,,,,,,"",""
+ball,1,11.2,India,V Kohli,SA Yadav,CJ Jordan,1,0,,,,,,"",""
+ball,1,11.3,India,SA Yadav,V Kohli,CJ Jordan,2,0,,,,,,"",""
+ball,1,11.4,India,SA Yadav,V Kohli,CJ Jordan,4,0,,,,,,"",""
+ball,1,11.5,India,SA Yadav,V Kohli,CJ Jordan,4,0,,,,,,"",""
+ball,1,11.6,India,SA Yadav,V Kohli,CJ Jordan,4,0,,,,,,"",""
+ball,1,12.1,India,V Kohli,SA Yadav,BA Stokes,6,0,,,,,,"",""
+ball,1,12.2,India,V Kohli,SA Yadav,BA Stokes,1,0,,,,,,"",""
+ball,1,12.3,India,SA Yadav,V Kohli,BA Stokes,1,0,,,,,,"",""
+ball,1,12.4,India,V Kohli,SA Yadav,BA Stokes,1,0,,,,,,"",""
+ball,1,12.5,India,SA Yadav,V Kohli,BA Stokes,0,0,,,,,,"",""
+ball,1,12.6,India,SA Yadav,V Kohli,BA Stokes,0,0,,,,,,"",""
+ball,1,13.1,India,V Kohli,SA Yadav,AU Rashid,1,0,,,,,,"",""
+ball,1,13.2,India,SA Yadav,V Kohli,AU Rashid,0,0,,,,,,caught,SA Yadav
+ball,1,13.3,India,V Kohli,HH Pandya,AU Rashid,1,0,,,,,,"",""
+ball,1,13.4,India,HH Pandya,V Kohli,AU Rashid,1,0,,,,,,"",""
+ball,1,13.5,India,V Kohli,HH Pandya,AU Rashid,1,0,,,,,,"",""
+ball,1,13.6,India,HH Pandya,V Kohli,AU Rashid,0,0,,,,,,"",""
+ball,1,14.1,India,V Kohli,HH Pandya,JC Archer,1,0,,,,,,"",""
+ball,1,14.2,India,HH Pandya,V Kohli,JC Archer,1,0,,,,,,"",""
+ball,1,14.3,India,V Kohli,HH Pandya,JC Archer,1,0,,,,,,"",""
+ball,1,14.4,India,HH Pandya,V Kohli,JC Archer,1,0,,,,,,"",""
+ball,1,14.5,India,V Kohli,HH Pandya,JC Archer,3,0,,,,,,"",""
+ball,1,14.6,India,HH Pandya,V Kohli,JC Archer,4,0,,,,,,"",""
+ball,1,15.1,India,V Kohli,HH Pandya,MA Wood,2,0,,,,,,"",""
+ball,1,15.2,India,V Kohli,HH Pandya,MA Wood,2,0,,,,,,"",""
+ball,1,15.3,India,V Kohli,HH Pandya,MA Wood,1,0,,,,,,"",""
+ball,1,15.4,India,HH Pandya,V Kohli,MA Wood,4,0,,,,,,"",""
+ball,1,15.5,India,HH Pandya,V Kohli,MA Wood,4,0,,,,,,"",""
+ball,1,15.6,India,HH Pandya,V Kohli,MA Wood,0,0,,,,,,"",""
+ball,1,16.1,India,V Kohli,HH Pandya,CJ Jordan,0,1,,,,1,,"",""
+ball,1,16.2,India,HH Pandya,V Kohli,CJ Jordan,2,0,,,,,,"",""
+ball,1,16.3,India,HH Pandya,V Kohli,CJ Jordan,4,0,,,,,,"",""
+ball,1,16.4,India,HH Pandya,V Kohli,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.5,India,V Kohli,HH Pandya,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.6,India,HH Pandya,V Kohli,CJ Jordan,2,0,,,,,,"",""
+ball,1,17.1,India,V Kohli,HH Pandya,MA Wood,1,0,,,,,,"",""
+ball,1,17.2,India,HH Pandya,V Kohli,MA Wood,1,0,,,,,,"",""
+ball,1,17.3,India,V Kohli,HH Pandya,MA Wood,0,0,,,,,,"",""
+ball,1,17.4,India,V Kohli,HH Pandya,MA Wood,4,0,,,,,,"",""
+ball,1,17.5,India,V Kohli,HH Pandya,MA Wood,4,0,,,,,,"",""
+ball,1,17.6,India,V Kohli,HH Pandya,MA Wood,2,0,,,,,,"",""
+ball,1,18.1,India,HH Pandya,V Kohli,CJ Jordan,6,0,,,,,,"",""
+ball,1,18.2,India,HH Pandya,V Kohli,CJ Jordan,6,0,,,,,,"",""
+ball,1,18.3,India,HH Pandya,V Kohli,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.4,India,V Kohli,HH Pandya,CJ Jordan,0,0,,,,,,"",""
+ball,1,18.5,India,V Kohli,HH Pandya,CJ Jordan,4,0,,,,,,"",""
+ball,1,18.6,India,V Kohli,HH Pandya,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.1,India,V Kohli,HH Pandya,JC Archer,1,0,,,,,,"",""
+ball,1,19.2,India,HH Pandya,V Kohli,JC Archer,1,0,,,,,,"",""
+ball,1,19.3,India,V Kohli,HH Pandya,JC Archer,4,0,,,,,,"",""
+ball,1,19.4,India,V Kohli,HH Pandya,JC Archer,2,0,,,,,,"",""
+ball,1,19.5,India,V Kohli,HH Pandya,JC Archer,4,0,,,,,,"",""
+ball,1,19.6,India,V Kohli,HH Pandya,JC Archer,1,0,,,,,,"",""
+ball,2,0.1,England,JJ Roy,JC Buttler,B Kumar,0,0,,,,,,"",""
+ball,2,0.2,England,JJ Roy,JC Buttler,B Kumar,0,0,,,,,,bowled,JJ Roy
+ball,2,0.3,England,DJ Malan,JC Buttler,B Kumar,0,0,,,,,,"",""
+ball,2,0.4,England,DJ Malan,JC Buttler,B Kumar,0,0,,,,,,"",""
+ball,2,0.5,England,DJ Malan,JC Buttler,B Kumar,0,0,,,,,,"",""
+ball,2,0.6,England,DJ Malan,JC Buttler,B Kumar,1,0,,,,,,"",""
+ball,2,1.1,England,DJ Malan,JC Buttler,HH Pandya,0,0,,,,,,"",""
+ball,2,1.2,England,DJ Malan,JC Buttler,HH Pandya,0,1,1,,,,,"",""
+ball,2,1.3,England,DJ Malan,JC Buttler,HH Pandya,4,0,,,,,,"",""
+ball,2,1.4,England,DJ Malan,JC Buttler,HH Pandya,6,0,,,,,,"",""
+ball,2,1.5,England,DJ Malan,JC Buttler,HH Pandya,4,0,,,,,,"",""
+ball,2,1.6,England,DJ Malan,JC Buttler,HH Pandya,2,0,,,,,,"",""
+ball,2,1.7,England,DJ Malan,JC Buttler,HH Pandya,0,1,1,,,,,"",""
+ball,2,1.8,England,DJ Malan,JC Buttler,HH Pandya,0,0,,,,,,"",""
+ball,2,2.1,England,JC Buttler,DJ Malan,B Kumar,0,0,,,,,,"",""
+ball,2,2.2,England,JC Buttler,DJ Malan,B Kumar,0,0,,,,,,"",""
+ball,2,2.3,England,JC Buttler,DJ Malan,B Kumar,1,0,,,,,,"",""
+ball,2,2.4,England,DJ Malan,JC Buttler,B Kumar,0,0,,,,,,"",""
+ball,2,2.5,England,DJ Malan,JC Buttler,B Kumar,4,0,,,,,,"",""
+ball,2,2.6,England,DJ Malan,JC Buttler,B Kumar,0,4,,,,4,,"",""
+ball,2,3.1,England,JC Buttler,DJ Malan,Washington Sundar,1,0,,,,,,"",""
+ball,2,3.2,England,DJ Malan,JC Buttler,Washington Sundar,1,0,,,,,,"",""
+ball,2,3.3,England,JC Buttler,DJ Malan,Washington Sundar,4,0,,,,,,"",""
+ball,2,3.4,England,JC Buttler,DJ Malan,Washington Sundar,4,0,,,,,,"",""
+ball,2,3.5,England,JC Buttler,DJ Malan,Washington Sundar,2,0,,,,,,"",""
+ball,2,3.6,England,JC Buttler,DJ Malan,Washington Sundar,1,0,,,,,,"",""
+ball,2,4.1,England,JC Buttler,DJ Malan,SN Thakur,6,0,,,,,,"",""
+ball,2,4.2,England,JC Buttler,DJ Malan,SN Thakur,1,0,,,,,,"",""
+ball,2,4.3,England,DJ Malan,JC Buttler,SN Thakur,4,0,,,,,,"",""
+ball,2,4.4,England,DJ Malan,JC Buttler,SN Thakur,1,0,,,,,,"",""
+ball,2,4.5,England,JC Buttler,DJ Malan,SN Thakur,0,0,,,,,,"",""
+ball,2,4.6,England,JC Buttler,DJ Malan,SN Thakur,2,0,,,,,,"",""
+ball,2,5.1,England,DJ Malan,JC Buttler,T Natarajan,0,0,,,,,,"",""
+ball,2,5.2,England,DJ Malan,JC Buttler,T Natarajan,4,0,,,,,,"",""
+ball,2,5.3,England,DJ Malan,JC Buttler,T Natarajan,1,0,,,,,,"",""
+ball,2,5.4,England,JC Buttler,DJ Malan,T Natarajan,0,0,,,,,,"",""
+ball,2,5.5,England,JC Buttler,DJ Malan,T Natarajan,1,0,,,,,,"",""
+ball,2,5.6,England,DJ Malan,JC Buttler,T Natarajan,1,0,,,,,,"",""
+ball,2,6.1,England,DJ Malan,JC Buttler,SN Thakur,0,0,,,,,,"",""
+ball,2,6.2,England,DJ Malan,JC Buttler,SN Thakur,0,0,,,,,,"",""
+ball,2,6.3,England,DJ Malan,JC Buttler,SN Thakur,4,0,,,,,,"",""
+ball,2,6.4,England,DJ Malan,JC Buttler,SN Thakur,1,0,,,,,,"",""
+ball,2,6.5,England,JC Buttler,DJ Malan,SN Thakur,0,0,,,,,,"",""
+ball,2,6.6,England,JC Buttler,DJ Malan,SN Thakur,0,0,,,,,,"",""
+ball,2,7.1,England,DJ Malan,JC Buttler,RD Chahar,1,0,,,,,,"",""
+ball,2,7.2,England,JC Buttler,DJ Malan,RD Chahar,6,0,,,,,,"",""
+ball,2,7.3,England,JC Buttler,DJ Malan,RD Chahar,0,1,,,,1,,"",""
+ball,2,7.4,England,DJ Malan,JC Buttler,RD Chahar,1,0,,,,,,"",""
+ball,2,7.5,England,JC Buttler,DJ Malan,RD Chahar,0,0,,,,,,"",""
+ball,2,7.6,England,JC Buttler,DJ Malan,RD Chahar,6,0,,,,,,"",""
+ball,2,8.1,England,DJ Malan,JC Buttler,HH Pandya,1,0,,,,,,"",""
+ball,2,8.2,England,JC Buttler,DJ Malan,HH Pandya,1,0,,,,,,"",""
+ball,2,8.3,England,DJ Malan,JC Buttler,HH Pandya,0,0,,,,,,"",""
+ball,2,8.4,England,DJ Malan,JC Buttler,HH Pandya,0,1,1,,,,,"",""
+ball,2,8.5,England,DJ Malan,JC Buttler,HH Pandya,4,0,,,,,,"",""
+ball,2,8.6,England,DJ Malan,JC Buttler,HH Pandya,1,0,,,,,,"",""
+ball,2,8.7,England,JC Buttler,DJ Malan,HH Pandya,1,0,,,,,,"",""
+ball,2,9.1,England,JC Buttler,DJ Malan,RD Chahar,6,0,,,,,,"",""
+ball,2,9.2,England,JC Buttler,DJ Malan,RD Chahar,0,1,1,,,,,"",""
+ball,2,9.3,England,JC Buttler,DJ Malan,RD Chahar,2,0,,,,,,"",""
+ball,2,9.4,England,JC Buttler,DJ Malan,RD Chahar,1,0,,,,,,"",""
+ball,2,9.5,England,DJ Malan,JC Buttler,RD Chahar,1,0,,,,,,"",""
+ball,2,9.6,England,JC Buttler,DJ Malan,RD Chahar,1,0,,,,,,"",""
+ball,2,9.7,England,DJ Malan,JC Buttler,RD Chahar,1,0,,,,,,"",""
+ball,2,10.1,England,DJ Malan,JC Buttler,T Natarajan,4,0,,,,,,"",""
+ball,2,10.2,England,DJ Malan,JC Buttler,T Natarajan,0,0,,,,,,"",""
+ball,2,10.3,England,DJ Malan,JC Buttler,T Natarajan,6,0,,,,,,"",""
+ball,2,10.4,England,DJ Malan,JC Buttler,T Natarajan,4,0,,,,,,"",""
+ball,2,10.5,England,DJ Malan,JC Buttler,T Natarajan,1,0,,,,,,"",""
+ball,2,10.6,England,JC Buttler,DJ Malan,T Natarajan,1,0,,,,,,"",""
+ball,2,11.1,England,JC Buttler,DJ Malan,RD Chahar,0,1,1,,,,,"",""
+ball,2,11.2,England,JC Buttler,DJ Malan,RD Chahar,1,0,,,,,,"",""
+ball,2,11.3,England,DJ Malan,JC Buttler,RD Chahar,0,1,1,,,,,"",""
+ball,2,11.4,England,DJ Malan,JC Buttler,RD Chahar,1,0,,,,,,"",""
+ball,2,11.5,England,JC Buttler,DJ Malan,RD Chahar,0,0,,,,,,"",""
+ball,2,11.6,England,JC Buttler,DJ Malan,RD Chahar,1,0,,,,,,"",""
+ball,2,11.7,England,DJ Malan,JC Buttler,RD Chahar,0,1,,,,1,,"",""
+ball,2,11.8,England,JC Buttler,DJ Malan,RD Chahar,1,0,,,,,,"",""
+ball,2,12.1,England,JC Buttler,DJ Malan,B Kumar,0,1,1,,,,,"",""
+ball,2,12.2,England,JC Buttler,DJ Malan,B Kumar,1,0,,,,,,"",""
+ball,2,12.3,England,DJ Malan,JC Buttler,B Kumar,0,0,,,,,,"",""
+ball,2,12.4,England,DJ Malan,JC Buttler,B Kumar,1,0,,,,,,"",""
+ball,2,12.5,England,JC Buttler,DJ Malan,B Kumar,0,0,,,,,,"",""
+ball,2,12.6,England,JC Buttler,DJ Malan,B Kumar,0,0,,,,,,caught,JC Buttler
+ball,2,12.7,England,JM Bairstow,DJ Malan,B Kumar,0,0,,,,,,"",""
+ball,2,13.1,England,DJ Malan,JM Bairstow,HH Pandya,1,0,,,,,,"",""
+ball,2,13.2,England,JM Bairstow,DJ Malan,HH Pandya,1,0,,,,,,"",""
+ball,2,13.3,England,DJ Malan,JM Bairstow,HH Pandya,1,0,,,,,,"",""
+ball,2,13.4,England,JM Bairstow,DJ Malan,HH Pandya,1,0,,,,,,"",""
+ball,2,13.5,England,DJ Malan,JM Bairstow,HH Pandya,0,1,,,,1,,"",""
+ball,2,13.6,England,JM Bairstow,DJ Malan,HH Pandya,1,0,,,,,,"",""
+ball,2,14.1,England,JM Bairstow,DJ Malan,SN Thakur,0,0,,,,,,"",""
+ball,2,14.2,England,JM Bairstow,DJ Malan,SN Thakur,4,0,,,,,,"",""
+ball,2,14.3,England,JM Bairstow,DJ Malan,SN Thakur,0,0,,,,,,caught,JM Bairstow
+ball,2,14.4,England,DJ Malan,EJG Morgan,SN Thakur,1,0,,,,,,"",""
+ball,2,14.5,England,EJG Morgan,DJ Malan,SN Thakur,1,0,,,,,,"",""
+ball,2,14.6,England,DJ Malan,EJG Morgan,SN Thakur,0,0,,,,,,bowled,DJ Malan
+ball,2,15.1,England,EJG Morgan,BA Stokes,HH Pandya,0,0,,,,,,"",""
+ball,2,15.2,England,EJG Morgan,BA Stokes,HH Pandya,0,0,,,,,,"",""
+ball,2,15.3,England,EJG Morgan,BA Stokes,HH Pandya,0,0,,,,,,caught,EJG Morgan
+ball,2,15.4,England,BA Stokes,CJ Jordan,HH Pandya,1,0,,,,,,"",""
+ball,2,15.5,England,CJ Jordan,BA Stokes,HH Pandya,0,0,,,,,,"",""
+ball,2,15.6,England,CJ Jordan,BA Stokes,HH Pandya,0,1,1,,,,,"",""
+ball,2,15.7,England,CJ Jordan,BA Stokes,HH Pandya,0,0,,,,,,"",""
+ball,2,16.1,England,BA Stokes,CJ Jordan,T Natarajan,1,0,,,,,,"",""
+ball,2,16.2,England,CJ Jordan,BA Stokes,T Natarajan,1,0,,,,,,"",""
+ball,2,16.3,England,BA Stokes,CJ Jordan,T Natarajan,4,0,,,,,,"",""
+ball,2,16.4,England,BA Stokes,CJ Jordan,T Natarajan,4,0,,,,,,"",""
+ball,2,16.5,England,BA Stokes,CJ Jordan,T Natarajan,2,0,,,,,,"",""
+ball,2,16.6,England,BA Stokes,CJ Jordan,T Natarajan,0,0,,,,,,"",""
+ball,2,17.1,England,CJ Jordan,BA Stokes,B Kumar,2,0,,,,,,"",""
+ball,2,17.2,England,CJ Jordan,BA Stokes,B Kumar,1,0,,,,,,"",""
+ball,2,17.3,England,BA Stokes,CJ Jordan,B Kumar,0,0,,,,,,"",""
+ball,2,17.4,England,BA Stokes,CJ Jordan,B Kumar,0,1,1,,,,,"",""
+ball,2,17.5,England,BA Stokes,CJ Jordan,B Kumar,0,0,,,,,,"",""
+ball,2,17.6,England,BA Stokes,CJ Jordan,B Kumar,0,1,1,,,,,"",""
+ball,2,17.7,England,BA Stokes,CJ Jordan,B Kumar,0,1,1,,,,,"",""
+ball,2,17.8,England,BA Stokes,CJ Jordan,B Kumar,0,1,,,,1,,"",""
+ball,2,17.9,England,CJ Jordan,BA Stokes,B Kumar,0,0,,,,,,"",""
+ball,2,18.1,England,BA Stokes,CJ Jordan,T Natarajan,0,0,,,,,,"",""
+ball,2,18.2,England,BA Stokes,CJ Jordan,T Natarajan,2,0,,,,,,"",""
+ball,2,18.3,England,BA Stokes,CJ Jordan,T Natarajan,0,0,,,,,,caught,BA Stokes
+ball,2,18.4,England,JC Archer,CJ Jordan,T Natarajan,0,1,,,,1,,"",""
+ball,2,18.5,England,CJ Jordan,JC Archer,T Natarajan,1,0,,,,,,"",""
+ball,2,18.6,England,JC Archer,CJ Jordan,T Natarajan,1,0,,,,,,run out,JC Archer
+ball,2,19.1,England,CJ Jordan,SM Curran,SN Thakur,0,0,,,,,,"",""
+ball,2,19.2,England,CJ Jordan,SM Curran,SN Thakur,6,0,,,,,,"",""
+ball,2,19.3,England,CJ Jordan,SM Curran,SN Thakur,0,0,,,,,,caught,CJ Jordan
+ball,2,19.4,England,SM Curran,AU Rashid,SN Thakur,6,0,,,,,,"",""
+ball,2,19.5,England,SM Curran,AU Rashid,SN Thakur,2,0,,,,,,"",""
+ball,2,19.6,England,SM Curran,AU Rashid,SN Thakur,6,0,,,,,,"",""

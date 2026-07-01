@@ -1,0 +1,208 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Scotland
+info,gender,female
+info,season,2018
+info,date,2018/07/07
+info,event,ICC Women's T20 Qualifier
+info,match_number,2
+info,venue,VRA Ground
+info,city,Amstelveen
+info,toss_winner,Scotland
+info,toss_decision,field
+info,player_of_match,RV Scholes
+info,umpire,CA Polosak
+info,umpire,R Black
+info,reserve_umpire,WPM van Liemt
+info,match_referee,DT Jukes
+info,winner,Scotland
+info,winner_wickets,9
+info,player,Uganda,R Ntono
+info,player,Uganda,S Kemigisha
+info,player,Uganda,R Musamali
+info,player,Uganda,J Mbabazi
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,G Candiru
+info,player,Uganda,F Najjumba
+info,player,Uganda,K Awino
+info,player,Uganda,JM Apio
+info,player,Uganda,C Namugenyi
+info,player,Uganda,C Aweko
+info,player,Scotland,SJ Bryce
+info,player,Scotland,L Jack
+info,player,Scotland,KE Bryce
+info,player,Scotland,PA Chatterji
+info,player,Scotland,RS Glen
+info,player,Scotland,L Grant
+info,player,Scotland,A Aitken
+info,player,Scotland,AH Maqsood
+info,player,Scotland,K McGill
+info,player,Scotland,HRA Rainey
+info,player,Scotland,RV Scholes
+info,registry,people,A Aitken,25c73eb6
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,C Namugenyi,2085c2f4
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,F Najjumba,791dca18
+info,registry,people,G Candiru,fc2150f4
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,JM Apio,2842d925
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K McGill,bba7558e
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Grant,49923603
+info,registry,people,L Jack,e565ceb7
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Musamali,017cadb2
+info,registry,people,R Ntono,4b6da99c
+info,registry,people,RS Glen,45c2db15
+info,registry,people,RV Scholes,2dc78362
+info,registry,people,S Kemigisha,05026222
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,WPM van Liemt,2bd48588
+ball,1,0.1,Uganda,R Ntono,S Kemigisha,KE Bryce,0,0,,,,,,"",""
+ball,1,0.2,Uganda,R Ntono,S Kemigisha,KE Bryce,0,0,,,,,,"",""
+ball,1,0.3,Uganda,R Ntono,S Kemigisha,KE Bryce,0,0,,,,,,"",""
+ball,1,0.4,Uganda,R Ntono,S Kemigisha,KE Bryce,0,0,,,,,,bowled,R Ntono
+ball,1,0.5,Uganda,R Musamali,S Kemigisha,KE Bryce,0,0,,,,,,"",""
+ball,1,0.6,Uganda,R Musamali,S Kemigisha,KE Bryce,0,0,,,,,,"",""
+ball,1,1.1,Uganda,S Kemigisha,R Musamali,RV Scholes,0,1,1,,,,,"",""
+ball,1,1.2,Uganda,S Kemigisha,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,1.3,Uganda,S Kemigisha,R Musamali,RV Scholes,0,0,,,,,,caught,S Kemigisha
+ball,1,1.4,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,1.5,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,1.6,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,1.7,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,2.1,Uganda,R Musamali,J Mbabazi,KE Bryce,2,0,,,,,,"",""
+ball,1,2.2,Uganda,R Musamali,J Mbabazi,KE Bryce,1,0,,,,,,"",""
+ball,1,2.3,Uganda,J Mbabazi,R Musamali,KE Bryce,0,0,,,,,,"",""
+ball,1,2.4,Uganda,J Mbabazi,R Musamali,KE Bryce,0,0,,,,,,"",""
+ball,1,2.5,Uganda,J Mbabazi,R Musamali,KE Bryce,0,0,,,,,,"",""
+ball,1,2.6,Uganda,J Mbabazi,R Musamali,KE Bryce,1,0,,,,,,"",""
+ball,1,3.1,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,3.2,Uganda,J Mbabazi,R Musamali,RV Scholes,1,0,,,,,,"",""
+ball,1,3.3,Uganda,R Musamali,J Mbabazi,RV Scholes,1,0,,,,,,"",""
+ball,1,3.4,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,3.5,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,3.6,Uganda,J Mbabazi,R Musamali,RV Scholes,0,0,,,,,,bowled,J Mbabazi
+ball,1,4.1,Uganda,R Musamali,I Nakisuuyi,PA Chatterji,2,0,,,,,,"",""
+ball,1,4.2,Uganda,R Musamali,I Nakisuuyi,PA Chatterji,0,0,,,,,,"",""
+ball,1,4.3,Uganda,R Musamali,I Nakisuuyi,PA Chatterji,1,0,,,,,,"",""
+ball,1,4.4,Uganda,I Nakisuuyi,R Musamali,PA Chatterji,0,0,,,,,,"",""
+ball,1,4.5,Uganda,I Nakisuuyi,R Musamali,PA Chatterji,0,0,,,,,,"",""
+ball,1,4.6,Uganda,I Nakisuuyi,R Musamali,PA Chatterji,1,0,,,,,,"",""
+ball,1,5.1,Uganda,I Nakisuuyi,R Musamali,RV Scholes,0,0,,,,,,"",""
+ball,1,5.2,Uganda,I Nakisuuyi,R Musamali,RV Scholes,0,0,,,,,,caught,I Nakisuuyi
+ball,1,5.3,Uganda,R Musamali,G Candiru,RV Scholes,0,0,,,,,,"",""
+ball,1,5.4,Uganda,R Musamali,G Candiru,RV Scholes,0,0,,,,,,"",""
+ball,1,5.5,Uganda,R Musamali,G Candiru,RV Scholes,0,0,,,,,,"",""
+ball,1,5.6,Uganda,R Musamali,G Candiru,RV Scholes,0,0,,,,,,"",""
+ball,1,6.1,Uganda,G Candiru,R Musamali,PA Chatterji,0,1,1,,,,,"",""
+ball,1,6.2,Uganda,G Candiru,R Musamali,PA Chatterji,0,0,,,,,,"",""
+ball,1,6.3,Uganda,G Candiru,R Musamali,PA Chatterji,0,0,,,,,,"",""
+ball,1,6.4,Uganda,G Candiru,R Musamali,PA Chatterji,1,0,,,,,,"",""
+ball,1,6.5,Uganda,R Musamali,G Candiru,PA Chatterji,1,0,,,,,,"",""
+ball,1,6.6,Uganda,G Candiru,R Musamali,PA Chatterji,0,0,,,,,,"",""
+ball,1,6.7,Uganda,G Candiru,R Musamali,PA Chatterji,0,0,,,,,,"",""
+ball,1,7.1,Uganda,R Musamali,G Candiru,K McGill,0,1,1,,,,,"",""
+ball,1,7.2,Uganda,R Musamali,G Candiru,K McGill,0,0,,,,,,caught,R Musamali
+ball,1,7.3,Uganda,F Najjumba,G Candiru,K McGill,0,0,,,,,,caught,F Najjumba
+ball,1,7.4,Uganda,G Candiru,K Awino,K McGill,0,1,,,1,,,"",""
+ball,1,7.5,Uganda,K Awino,G Candiru,K McGill,4,0,,,,,,"",""
+ball,1,7.6,Uganda,K Awino,G Candiru,K McGill,0,1,1,,,,,"",""
+ball,1,7.7,Uganda,K Awino,G Candiru,K McGill,0,0,,,,,,"",""
+ball,1,7.8,Uganda,K Awino,G Candiru,K McGill,0,0,,,,,,"",""
+ball,1,8.1,Uganda,G Candiru,K Awino,PA Chatterji,0,0,,,,,,"",""
+ball,1,8.2,Uganda,G Candiru,K Awino,PA Chatterji,0,0,,,,,,"",""
+ball,1,8.3,Uganda,G Candiru,K Awino,PA Chatterji,0,0,,,,,,"",""
+ball,1,8.4,Uganda,G Candiru,K Awino,PA Chatterji,1,0,,,,,,"",""
+ball,1,8.5,Uganda,K Awino,G Candiru,PA Chatterji,0,0,,,,,,"",""
+ball,1,8.6,Uganda,K Awino,G Candiru,PA Chatterji,1,0,,,,,,"",""
+ball,1,9.1,Uganda,K Awino,G Candiru,K McGill,1,0,,,,,,"",""
+ball,1,9.2,Uganda,G Candiru,K Awino,K McGill,0,0,,,,,,"",""
+ball,1,9.3,Uganda,G Candiru,K Awino,K McGill,0,0,,,,,,"",""
+ball,1,9.4,Uganda,G Candiru,K Awino,K McGill,0,0,,,,,,"",""
+ball,1,9.5,Uganda,G Candiru,K Awino,K McGill,2,0,,,,,,"",""
+ball,1,9.6,Uganda,G Candiru,K Awino,K McGill,0,0,,,,,,"",""
+ball,1,10.1,Uganda,K Awino,G Candiru,HRA Rainey,0,1,1,,,,,"",""
+ball,1,10.2,Uganda,K Awino,G Candiru,HRA Rainey,1,0,,,,,,"",""
+ball,1,10.3,Uganda,G Candiru,K Awino,HRA Rainey,0,0,,,,,,"",""
+ball,1,10.4,Uganda,G Candiru,K Awino,HRA Rainey,0,0,,,,,,"",""
+ball,1,10.5,Uganda,G Candiru,K Awino,HRA Rainey,1,0,,,,,,"",""
+ball,1,10.6,Uganda,K Awino,G Candiru,HRA Rainey,0,0,,,,,,"",""
+ball,1,10.7,Uganda,K Awino,G Candiru,HRA Rainey,0,0,,,,,,"",""
+ball,1,11.1,Uganda,G Candiru,K Awino,AH Maqsood,0,0,,,,,,"",""
+ball,1,11.2,Uganda,G Candiru,K Awino,AH Maqsood,0,0,,,,,,"",""
+ball,1,11.3,Uganda,G Candiru,K Awino,AH Maqsood,1,0,,,,,,"",""
+ball,1,11.4,Uganda,K Awino,G Candiru,AH Maqsood,0,0,,,,,,"",""
+ball,1,11.5,Uganda,K Awino,G Candiru,AH Maqsood,2,0,,,,,,"",""
+ball,1,11.6,Uganda,K Awino,G Candiru,AH Maqsood,2,0,,,,,,"",""
+ball,1,12.1,Uganda,G Candiru,K Awino,HRA Rainey,0,0,,,,,,"",""
+ball,1,12.2,Uganda,G Candiru,K Awino,HRA Rainey,0,0,,,,,,"",""
+ball,1,12.3,Uganda,G Candiru,K Awino,HRA Rainey,1,0,,,,,,"",""
+ball,1,12.4,Uganda,K Awino,G Candiru,HRA Rainey,1,0,,,,,,"",""
+ball,1,12.5,Uganda,G Candiru,K Awino,HRA Rainey,1,0,,,,,,"",""
+ball,1,12.6,Uganda,K Awino,G Candiru,HRA Rainey,0,0,,,,,,"",""
+ball,1,13.1,Uganda,G Candiru,K Awino,AH Maqsood,2,0,,,,,,"",""
+ball,1,13.2,Uganda,G Candiru,K Awino,AH Maqsood,0,0,,,,,,stumped,G Candiru
+ball,1,13.3,Uganda,JM Apio,K Awino,AH Maqsood,1,0,,,,,,"",""
+ball,1,13.4,Uganda,K Awino,JM Apio,AH Maqsood,0,0,,,,,,"",""
+ball,1,13.5,Uganda,K Awino,JM Apio,AH Maqsood,0,0,,,,,,"",""
+ball,1,13.6,Uganda,K Awino,JM Apio,AH Maqsood,0,0,,,,,,"",""
+ball,1,14.1,Uganda,JM Apio,K Awino,HRA Rainey,0,0,,,,,,"",""
+ball,1,14.2,Uganda,JM Apio,K Awino,HRA Rainey,0,0,,,,,,"",""
+ball,1,14.3,Uganda,JM Apio,K Awino,HRA Rainey,0,0,,,,,,caught,JM Apio
+ball,1,14.4,Uganda,K Awino,C Namugenyi,HRA Rainey,0,0,,,,,,"",""
+ball,1,14.5,Uganda,K Awino,C Namugenyi,HRA Rainey,1,0,,,,,,"",""
+ball,1,14.6,Uganda,C Namugenyi,K Awino,HRA Rainey,2,0,,,,,,"",""
+ball,1,15.1,Uganda,K Awino,C Namugenyi,AH Maqsood,0,0,,,,,,"",""
+ball,1,15.2,Uganda,K Awino,C Namugenyi,AH Maqsood,0,0,,,,,,bowled,K Awino
+ball,1,15.3,Uganda,C Aweko,C Namugenyi,AH Maqsood,0,0,,,,,,caught,C Aweko
+ball,2,0.1,Scotland,SJ Bryce,L Jack,C Namugenyi,0,0,,,,,,"",""
+ball,2,0.2,Scotland,SJ Bryce,L Jack,C Namugenyi,4,0,,,,,,"",""
+ball,2,0.3,Scotland,SJ Bryce,L Jack,C Namugenyi,4,0,,,,,,"",""
+ball,2,0.4,Scotland,SJ Bryce,L Jack,C Namugenyi,1,0,,,,,,"",""
+ball,2,0.5,Scotland,L Jack,SJ Bryce,C Namugenyi,0,0,,,,,,"",""
+ball,2,0.6,Scotland,L Jack,SJ Bryce,C Namugenyi,0,0,,,,,,"",""
+ball,2,1.1,Scotland,SJ Bryce,L Jack,C Aweko,1,0,,,,,,"",""
+ball,2,1.2,Scotland,L Jack,SJ Bryce,C Aweko,2,0,,,,,,"",""
+ball,2,1.3,Scotland,L Jack,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,1.4,Scotland,L Jack,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,1.5,Scotland,L Jack,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,1.6,Scotland,L Jack,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,2.1,Scotland,SJ Bryce,L Jack,JM Apio,4,0,,,,,,"",""
+ball,2,2.2,Scotland,SJ Bryce,L Jack,JM Apio,3,0,,,,,,"",""
+ball,2,2.3,Scotland,L Jack,SJ Bryce,JM Apio,0,0,,,,,,"",""
+ball,2,2.4,Scotland,L Jack,SJ Bryce,JM Apio,0,0,,,,,,caught,L Jack
+ball,2,2.5,Scotland,SJ Bryce,KE Bryce,JM Apio,0,1,,,,1,,"",""
+ball,2,2.6,Scotland,KE Bryce,SJ Bryce,JM Apio,0,0,,,,,,"",""
+ball,2,3.1,Scotland,SJ Bryce,KE Bryce,C Aweko,2,0,,,,,,"",""
+ball,2,3.2,Scotland,SJ Bryce,KE Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,3.3,Scotland,SJ Bryce,KE Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,3.4,Scotland,SJ Bryce,KE Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,3.5,Scotland,SJ Bryce,KE Bryce,C Aweko,0,2,2,,,,,"",""
+ball,2,3.6,Scotland,KE Bryce,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,3.7,Scotland,KE Bryce,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,4.1,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.2,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.3,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.4,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,4,0,,,,,,"",""
+ball,2,4.5,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,4,0,,,,,,"",""
+ball,2,4.6,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,5.1,Scotland,SJ Bryce,KE Bryce,C Aweko,1,0,,,,,,"",""
+ball,2,5.2,Scotland,KE Bryce,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,5.3,Scotland,KE Bryce,SJ Bryce,C Aweko,1,0,,,,,,"",""
+ball,2,5.4,Scotland,SJ Bryce,KE Bryce,C Aweko,1,0,,,,,,"",""
+ball,2,5.5,Scotland,KE Bryce,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,5.6,Scotland,KE Bryce,SJ Bryce,C Aweko,0,0,,,,,,"",""
+ball,2,6.1,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,4,0,,,,,,"",""
+ball,2,6.2,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.3,Scotland,KE Bryce,SJ Bryce,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.4,Scotland,SJ Bryce,KE Bryce,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.5,Scotland,KE Bryce,SJ Bryce,I Nakisuuyi,4,0,,,,,,"",""

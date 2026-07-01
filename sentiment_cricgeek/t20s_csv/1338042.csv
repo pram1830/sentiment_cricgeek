@@ -1,0 +1,280 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,female
+info,season,2022/23
+info,date,2023/02/11
+info,event,ICC Women's T20 World Cup
+info,match_number,3
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,A Gardner
+info,umpire,N Perera
+info,umpire,S Redfern
+info,reserve_umpire,AY Harris
+info,tv_umpire,JM Williams
+info,match_referee,JM Pereira
+info,winner,Australia
+info,winner_runs,97
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,MM Lanning
+info,player,Australia,A Gardner
+info,player,Australia,EA Perry
+info,player,Australia,GM Harris
+info,player,Australia,TM McGrath
+info,player,Australia,JL Jonassen
+info,player,Australia,A King
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,player,New Zealand,SW Bates
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,B Bezuidenhout
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,ML Green
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,HNK Jensen
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Healy,321644de
+info,registry,people,AY Harris,90d95b82
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,D Brown,2e81be88
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GM Harris,72166006
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,JM Kerr,9af58032
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ML Green,865eae1f
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N Perera,129709f9
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TM McGrath,ca5acfa4
+ball,1,0.1,Australia,AJ Healy,BL Mooney,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.2,Australia,AJ Healy,BL Mooney,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,0.3,Australia,BL Mooney,AJ Healy,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,0.4,Australia,BL Mooney,AJ Healy,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.5,Australia,BL Mooney,AJ Healy,LMM Tahuhu,0,0,,,,,,caught,BL Mooney
+ball,1,0.6,Australia,MM Lanning,AJ Healy,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,0.7,Australia,AJ Healy,MM Lanning,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,1.1,Australia,AJ Healy,MM Lanning,FC Jonas,0,0,,,,,,"",""
+ball,1,1.2,Australia,AJ Healy,MM Lanning,FC Jonas,4,0,,,,,,"",""
+ball,1,1.3,Australia,AJ Healy,MM Lanning,FC Jonas,0,0,,,,,,"",""
+ball,1,1.4,Australia,AJ Healy,MM Lanning,FC Jonas,1,0,,,,,,"",""
+ball,1,1.5,Australia,MM Lanning,AJ Healy,FC Jonas,0,0,,,,,,"",""
+ball,1,1.6,Australia,MM Lanning,AJ Healy,FC Jonas,1,0,,,,,,"",""
+ball,1,2.1,Australia,MM Lanning,AJ Healy,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,2.2,Australia,MM Lanning,AJ Healy,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,2.3,Australia,MM Lanning,AJ Healy,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,2.4,Australia,MM Lanning,AJ Healy,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,2.5,Australia,MM Lanning,AJ Healy,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,2.6,Australia,MM Lanning,AJ Healy,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,2.7,Australia,AJ Healy,MM Lanning,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,3.1,Australia,MM Lanning,AJ Healy,JM Kerr,4,0,,,,,,"",""
+ball,1,3.2,Australia,MM Lanning,AJ Healy,JM Kerr,1,0,,,,,,"",""
+ball,1,3.3,Australia,AJ Healy,MM Lanning,JM Kerr,0,0,,,,,,"",""
+ball,1,3.4,Australia,AJ Healy,MM Lanning,JM Kerr,0,0,,,,,,"",""
+ball,1,3.5,Australia,AJ Healy,MM Lanning,JM Kerr,4,0,,,,,,"",""
+ball,1,3.6,Australia,AJ Healy,MM Lanning,JM Kerr,4,0,,,,,,"",""
+ball,1,4.1,Australia,MM Lanning,AJ Healy,HNK Jensen,0,0,,,,,,"",""
+ball,1,4.2,Australia,MM Lanning,AJ Healy,HNK Jensen,0,0,,,,,,"",""
+ball,1,4.3,Australia,MM Lanning,AJ Healy,HNK Jensen,0,0,,,,,,"",""
+ball,1,4.4,Australia,MM Lanning,AJ Healy,HNK Jensen,0,0,,,,,,"",""
+ball,1,4.5,Australia,MM Lanning,AJ Healy,HNK Jensen,4,0,,,,,,"",""
+ball,1,4.6,Australia,MM Lanning,AJ Healy,HNK Jensen,1,0,,,,,,"",""
+ball,1,5.1,Australia,MM Lanning,AJ Healy,FC Jonas,0,0,,,,,,"",""
+ball,1,5.2,Australia,MM Lanning,AJ Healy,FC Jonas,4,0,,,,,,"",""
+ball,1,5.3,Australia,MM Lanning,AJ Healy,FC Jonas,0,0,,,,,,"",""
+ball,1,5.4,Australia,MM Lanning,AJ Healy,FC Jonas,1,0,,,,,,"",""
+ball,1,5.5,Australia,AJ Healy,MM Lanning,FC Jonas,0,0,,,,,,"",""
+ball,1,5.6,Australia,AJ Healy,MM Lanning,FC Jonas,4,0,,,,,,"",""
+ball,1,6.1,Australia,MM Lanning,AJ Healy,AC Kerr,4,0,,,,,,"",""
+ball,1,6.2,Australia,MM Lanning,AJ Healy,AC Kerr,1,0,,,,,,"",""
+ball,1,6.3,Australia,AJ Healy,MM Lanning,AC Kerr,0,0,,,,,,"",""
+ball,1,6.4,Australia,AJ Healy,MM Lanning,AC Kerr,0,0,,,,,,"",""
+ball,1,6.5,Australia,AJ Healy,MM Lanning,AC Kerr,1,0,,,,,,"",""
+ball,1,6.6,Australia,MM Lanning,AJ Healy,AC Kerr,1,0,,,,,,"",""
+ball,1,7.1,Australia,MM Lanning,AJ Healy,JM Kerr,0,0,,,,,,"",""
+ball,1,7.2,Australia,MM Lanning,AJ Healy,JM Kerr,1,0,,,,,,"",""
+ball,1,7.3,Australia,AJ Healy,MM Lanning,JM Kerr,0,0,,,,,,"",""
+ball,1,7.4,Australia,AJ Healy,MM Lanning,JM Kerr,1,0,,,,,,"",""
+ball,1,7.5,Australia,MM Lanning,AJ Healy,JM Kerr,0,0,,,,,,"",""
+ball,1,7.6,Australia,MM Lanning,AJ Healy,JM Kerr,0,0,,,,,,"",""
+ball,1,8.1,Australia,AJ Healy,MM Lanning,EJ Carson,1,0,,,,,,"",""
+ball,1,8.2,Australia,MM Lanning,AJ Healy,EJ Carson,0,0,,,,,,"",""
+ball,1,8.3,Australia,MM Lanning,AJ Healy,EJ Carson,2,0,,,,,,"",""
+ball,1,8.4,Australia,MM Lanning,AJ Healy,EJ Carson,4,0,,,,,,"",""
+ball,1,8.5,Australia,MM Lanning,AJ Healy,EJ Carson,2,0,,,,,,"",""
+ball,1,8.6,Australia,MM Lanning,AJ Healy,EJ Carson,4,0,,,,,,"",""
+ball,1,9.1,Australia,AJ Healy,MM Lanning,AC Kerr,0,0,,,,,,"",""
+ball,1,9.2,Australia,AJ Healy,MM Lanning,AC Kerr,2,0,,,,,,"",""
+ball,1,9.3,Australia,AJ Healy,MM Lanning,AC Kerr,1,0,,,,,,"",""
+ball,1,9.4,Australia,MM Lanning,AJ Healy,AC Kerr,0,0,,,,,,bowled,MM Lanning
+ball,1,9.5,Australia,A Gardner,AJ Healy,AC Kerr,1,0,,,,,,"",""
+ball,1,9.6,Australia,AJ Healy,A Gardner,AC Kerr,0,0,,,,,,"",""
+ball,1,10.1,Australia,A Gardner,AJ Healy,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,10.2,Australia,A Gardner,AJ Healy,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,10.3,Australia,A Gardner,AJ Healy,LMM Tahuhu,2,0,,,,,,"",""
+ball,1,10.4,Australia,A Gardner,AJ Healy,LMM Tahuhu,0,0,,,,,,caught,A Gardner
+ball,1,10.5,Australia,EA Perry,AJ Healy,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,10.6,Australia,EA Perry,AJ Healy,LMM Tahuhu,3,0,,,,,,"",""
+ball,1,10.7,Australia,AJ Healy,EA Perry,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,11.1,Australia,EA Perry,AJ Healy,AC Kerr,2,0,,,,,,"",""
+ball,1,11.2,Australia,EA Perry,AJ Healy,AC Kerr,2,0,,,,,,"",""
+ball,1,11.3,Australia,EA Perry,AJ Healy,AC Kerr,0,0,,,,,,"",""
+ball,1,11.4,Australia,EA Perry,AJ Healy,AC Kerr,1,0,,,,,,"",""
+ball,1,11.5,Australia,AJ Healy,EA Perry,AC Kerr,1,0,,,,,,"",""
+ball,1,11.6,Australia,EA Perry,AJ Healy,AC Kerr,0,0,,,,,,"",""
+ball,1,12.1,Australia,AJ Healy,EA Perry,HNK Jensen,1,0,,,,,,"",""
+ball,1,12.2,Australia,EA Perry,AJ Healy,HNK Jensen,2,0,,,,,,"",""
+ball,1,12.3,Australia,EA Perry,AJ Healy,HNK Jensen,1,0,,,,,,"",""
+ball,1,12.4,Australia,AJ Healy,EA Perry,HNK Jensen,4,0,,,,,,"",""
+ball,1,12.5,Australia,AJ Healy,EA Perry,HNK Jensen,2,0,,,,,,"",""
+ball,1,12.6,Australia,AJ Healy,EA Perry,HNK Jensen,4,0,,,,,,"",""
+ball,1,13.1,Australia,EA Perry,AJ Healy,FC Jonas,1,0,,,,,,"",""
+ball,1,13.2,Australia,AJ Healy,EA Perry,FC Jonas,2,0,,,,,,"",""
+ball,1,13.3,Australia,AJ Healy,EA Perry,FC Jonas,4,0,,,,,,"",""
+ball,1,13.4,Australia,AJ Healy,EA Perry,FC Jonas,1,0,,,,,,"",""
+ball,1,13.5,Australia,EA Perry,AJ Healy,FC Jonas,4,0,,,,,,"",""
+ball,1,13.6,Australia,EA Perry,AJ Healy,FC Jonas,4,0,,,,,,"",""
+ball,1,14.1,Australia,AJ Healy,EA Perry,JM Kerr,0,0,,,,,,"",""
+ball,1,14.2,Australia,AJ Healy,EA Perry,JM Kerr,2,0,,,,,,"",""
+ball,1,14.3,Australia,AJ Healy,EA Perry,JM Kerr,4,0,,,,,,"",""
+ball,1,14.4,Australia,AJ Healy,EA Perry,JM Kerr,1,0,,,,,,"",""
+ball,1,14.5,Australia,EA Perry,AJ Healy,JM Kerr,0,0,,,,,,"",""
+ball,1,14.6,Australia,EA Perry,AJ Healy,JM Kerr,0,0,,,,,,"",""
+ball,1,15.1,Australia,AJ Healy,EA Perry,LMM Tahuhu,0,0,,,,,,caught,AJ Healy
+ball,1,15.2,Australia,GM Harris,EA Perry,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,15.3,Australia,GM Harris,EA Perry,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,15.4,Australia,GM Harris,EA Perry,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,15.5,Australia,EA Perry,GM Harris,LMM Tahuhu,6,0,,,,,,"",""
+ball,1,15.6,Australia,EA Perry,GM Harris,LMM Tahuhu,2,0,,,,,,"",""
+ball,1,16.1,Australia,GM Harris,EA Perry,HNK Jensen,4,0,,,,,,"",""
+ball,1,16.2,Australia,GM Harris,EA Perry,HNK Jensen,4,0,,,,,,"",""
+ball,1,16.3,Australia,GM Harris,EA Perry,HNK Jensen,1,0,,,,,,run out,GM Harris
+ball,1,16.4,Australia,EA Perry,TM McGrath,HNK Jensen,1,0,,,,,,"",""
+ball,1,16.5,Australia,TM McGrath,EA Perry,HNK Jensen,0,1,1,,,,,"",""
+ball,1,16.6,Australia,TM McGrath,EA Perry,HNK Jensen,1,0,,,,,,"",""
+ball,1,16.7,Australia,EA Perry,TM McGrath,HNK Jensen,1,0,,,,,,"",""
+ball,1,17.1,Australia,EA Perry,TM McGrath,AC Kerr,0,0,,,,,,"",""
+ball,1,17.2,Australia,EA Perry,TM McGrath,AC Kerr,0,0,,,,,,"",""
+ball,1,17.3,Australia,EA Perry,TM McGrath,AC Kerr,6,0,,,,,,"",""
+ball,1,17.4,Australia,EA Perry,TM McGrath,AC Kerr,0,0,,,,,,lbw,EA Perry
+ball,1,17.5,Australia,JL Jonassen,TM McGrath,AC Kerr,0,0,,,,,,"",""
+ball,1,17.6,Australia,JL Jonassen,TM McGrath,AC Kerr,0,0,,,,,,caught,JL Jonassen
+ball,1,18.1,Australia,TM McGrath,A King,HNK Jensen,4,0,,,,,,"",""
+ball,1,18.2,Australia,TM McGrath,A King,HNK Jensen,1,0,,,,,,"",""
+ball,1,18.3,Australia,A King,TM McGrath,HNK Jensen,0,0,,,,,,"",""
+ball,1,18.4,Australia,A King,TM McGrath,HNK Jensen,1,0,,,,,,"",""
+ball,1,18.5,Australia,TM McGrath,A King,HNK Jensen,1,0,,,,,,"",""
+ball,1,18.6,Australia,A King,TM McGrath,HNK Jensen,0,0,,,,,,caught,A King
+ball,1,19.1,Australia,TM McGrath,ML Schutt,JM Kerr,1,0,,,,,,"",""
+ball,1,19.2,Australia,ML Schutt,TM McGrath,JM Kerr,1,0,,,,,,"",""
+ball,1,19.3,Australia,TM McGrath,ML Schutt,JM Kerr,0,0,,,,,,"",""
+ball,1,19.4,Australia,TM McGrath,ML Schutt,JM Kerr,0,0,,,,,,caught,TM McGrath
+ball,1,19.5,Australia,D Brown,ML Schutt,JM Kerr,2,0,,,,,,"",""
+ball,1,19.6,Australia,D Brown,ML Schutt,JM Kerr,4,0,,,,,,"",""
+ball,2,0.1,New Zealand,SW Bates,SFM Devine,ML Schutt,0,5,5,,,,,"",""
+ball,2,0.2,New Zealand,SW Bates,SFM Devine,ML Schutt,0,0,,,,,,bowled,SW Bates
+ball,2,0.3,New Zealand,B Bezuidenhout,SFM Devine,ML Schutt,0,0,,,,,,"",""
+ball,2,0.4,New Zealand,B Bezuidenhout,SFM Devine,ML Schutt,0,0,,,,,,"",""
+ball,2,0.5,New Zealand,B Bezuidenhout,SFM Devine,ML Schutt,1,0,,,,,,"",""
+ball,2,0.6,New Zealand,SFM Devine,B Bezuidenhout,ML Schutt,0,0,,,,,,lbw,SFM Devine
+ball,2,0.7,New Zealand,AC Kerr,B Bezuidenhout,ML Schutt,1,0,,,,,,"",""
+ball,2,1.1,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,1.2,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,1.3,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,1.4,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,1.5,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,1.6,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,2.1,New Zealand,B Bezuidenhout,AC Kerr,ML Schutt,0,1,,,,1,,"",""
+ball,2,2.2,New Zealand,AC Kerr,B Bezuidenhout,ML Schutt,0,0,,,,,,"",""
+ball,2,2.3,New Zealand,AC Kerr,B Bezuidenhout,ML Schutt,0,0,,,,,,"",""
+ball,2,2.4,New Zealand,AC Kerr,B Bezuidenhout,ML Schutt,0,0,,,,,,"",""
+ball,2,2.5,New Zealand,AC Kerr,B Bezuidenhout,ML Schutt,0,0,,,,,,"",""
+ball,2,2.6,New Zealand,AC Kerr,B Bezuidenhout,ML Schutt,1,0,,,,,,"",""
+ball,2,3.1,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,3.2,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,3.3,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,3.4,New Zealand,AC Kerr,B Bezuidenhout,D Brown,0,0,,,,,,"",""
+ball,2,3.5,New Zealand,AC Kerr,B Bezuidenhout,D Brown,1,0,,,,,,"",""
+ball,2,3.6,New Zealand,B Bezuidenhout,AC Kerr,D Brown,4,0,,,,,,"",""
+ball,2,4.1,New Zealand,AC Kerr,B Bezuidenhout,JL Jonassen,1,0,,,,,,"",""
+ball,2,4.2,New Zealand,B Bezuidenhout,AC Kerr,JL Jonassen,0,0,,,,,,"",""
+ball,2,4.3,New Zealand,B Bezuidenhout,AC Kerr,JL Jonassen,4,0,,,,,,"",""
+ball,2,4.4,New Zealand,B Bezuidenhout,AC Kerr,JL Jonassen,1,0,,,,,,"",""
+ball,2,4.5,New Zealand,AC Kerr,B Bezuidenhout,JL Jonassen,1,0,,,,,,"",""
+ball,2,4.6,New Zealand,B Bezuidenhout,AC Kerr,JL Jonassen,4,0,,,,,,"",""
+ball,2,5.1,New Zealand,AC Kerr,B Bezuidenhout,EA Perry,1,0,,,,,,"",""
+ball,2,5.2,New Zealand,B Bezuidenhout,AC Kerr,EA Perry,0,0,,,,,,caught,B Bezuidenhout
+ball,2,5.3,New Zealand,ML Green,AC Kerr,EA Perry,2,0,,,,,,"",""
+ball,2,5.4,New Zealand,ML Green,AC Kerr,EA Perry,0,0,,,,,,"",""
+ball,2,5.5,New Zealand,ML Green,AC Kerr,EA Perry,0,0,,,,,,"",""
+ball,2,5.6,New Zealand,ML Green,AC Kerr,EA Perry,1,0,,,,,,"",""
+ball,2,6.1,New Zealand,ML Green,AC Kerr,A King,1,0,,,,,,"",""
+ball,2,6.2,New Zealand,AC Kerr,ML Green,A King,1,0,,,,,,"",""
+ball,2,6.3,New Zealand,ML Green,AC Kerr,A King,2,0,,,,,,"",""
+ball,2,6.4,New Zealand,ML Green,AC Kerr,A King,2,0,,,,,,"",""
+ball,2,6.5,New Zealand,ML Green,AC Kerr,A King,1,0,,,,,,"",""
+ball,2,6.6,New Zealand,AC Kerr,ML Green,A King,1,0,,,,,,"",""
+ball,2,7.1,New Zealand,AC Kerr,ML Green,TM McGrath,1,0,,,,,,run out,ML Green
+ball,2,7.2,New Zealand,AC Kerr,HM Rowe,TM McGrath,4,0,,,,,,"",""
+ball,2,7.3,New Zealand,AC Kerr,HM Rowe,TM McGrath,4,0,,,,,,"",""
+ball,2,7.4,New Zealand,AC Kerr,HM Rowe,TM McGrath,4,0,,,,,,"",""
+ball,2,7.5,New Zealand,AC Kerr,HM Rowe,TM McGrath,0,0,,,,,,"",""
+ball,2,7.6,New Zealand,AC Kerr,HM Rowe,TM McGrath,0,0,,,,,,"",""
+ball,2,8.1,New Zealand,HM Rowe,AC Kerr,A Gardner,1,0,,,,,,"",""
+ball,2,8.2,New Zealand,AC Kerr,HM Rowe,A Gardner,0,0,,,,,,"",""
+ball,2,8.3,New Zealand,AC Kerr,HM Rowe,A Gardner,0,0,,,,,,bowled,AC Kerr
+ball,2,8.4,New Zealand,HNK Jensen,HM Rowe,A Gardner,0,0,,,,,,"",""
+ball,2,8.5,New Zealand,HNK Jensen,HM Rowe,A Gardner,1,0,,,,,,"",""
+ball,2,8.6,New Zealand,HM Rowe,HNK Jensen,A Gardner,1,0,,,,,,"",""
+ball,2,9.1,New Zealand,HM Rowe,HNK Jensen,A King,0,0,,,,,,"",""
+ball,2,9.2,New Zealand,HM Rowe,HNK Jensen,A King,1,0,,,,,,"",""
+ball,2,9.3,New Zealand,HNK Jensen,HM Rowe,A King,1,0,,,,,,"",""
+ball,2,9.4,New Zealand,HM Rowe,HNK Jensen,A King,1,0,,,,,,"",""
+ball,2,9.5,New Zealand,HNK Jensen,HM Rowe,A King,1,0,,,,,,"",""
+ball,2,9.6,New Zealand,HM Rowe,HNK Jensen,A King,4,0,,,,,,"",""
+ball,2,10.1,New Zealand,HNK Jensen,HM Rowe,D Brown,0,0,,,,,,caught,HNK Jensen
+ball,2,10.2,New Zealand,LMM Tahuhu,HM Rowe,D Brown,0,0,,,,,,"",""
+ball,2,10.3,New Zealand,LMM Tahuhu,HM Rowe,D Brown,1,0,,,,,,"",""
+ball,2,10.4,New Zealand,HM Rowe,LMM Tahuhu,D Brown,1,0,,,,,,"",""
+ball,2,10.5,New Zealand,LMM Tahuhu,HM Rowe,D Brown,0,0,,,,,,"",""
+ball,2,10.6,New Zealand,LMM Tahuhu,HM Rowe,D Brown,1,0,,,,,,"",""
+ball,2,11.1,New Zealand,LMM Tahuhu,HM Rowe,A Gardner,0,0,,,,,,caught,LMM Tahuhu
+ball,2,11.2,New Zealand,JM Kerr,HM Rowe,A Gardner,0,0,,,,,,"",""
+ball,2,11.3,New Zealand,JM Kerr,HM Rowe,A Gardner,1,0,,,,,,"",""
+ball,2,11.4,New Zealand,HM Rowe,JM Kerr,A Gardner,0,0,,,,,,"",""
+ball,2,11.5,New Zealand,HM Rowe,JM Kerr,A Gardner,0,0,,,,,,lbw,HM Rowe
+ball,2,11.6,New Zealand,EJ Carson,JM Kerr,A Gardner,0,1,1,,,,,"",""
+ball,2,11.7,New Zealand,EJ Carson,JM Kerr,A Gardner,0,0,,,,,,"",""
+ball,2,12.1,New Zealand,JM Kerr,EJ Carson,D Brown,0,0,,,,,,"",""
+ball,2,12.2,New Zealand,JM Kerr,EJ Carson,D Brown,0,0,,,,,,"",""
+ball,2,12.3,New Zealand,JM Kerr,EJ Carson,D Brown,0,0,,,,,,"",""
+ball,2,12.4,New Zealand,JM Kerr,EJ Carson,D Brown,0,0,,,,,,"",""
+ball,2,12.5,New Zealand,JM Kerr,EJ Carson,D Brown,0,0,,,,,,"",""
+ball,2,12.6,New Zealand,JM Kerr,EJ Carson,D Brown,3,0,,,,,,"",""
+ball,2,13.1,New Zealand,JM Kerr,EJ Carson,A Gardner,6,0,,,,,,"",""
+ball,2,13.2,New Zealand,JM Kerr,EJ Carson,A Gardner,0,0,,,,,,bowled,JM Kerr
+ball,2,13.3,New Zealand,FC Jonas,EJ Carson,A Gardner,0,0,,,,,,"",""
+ball,2,13.4,New Zealand,FC Jonas,EJ Carson,A Gardner,1,0,,,,,,"",""
+ball,2,13.5,New Zealand,EJ Carson,FC Jonas,A Gardner,0,0,,,,,,"",""
+ball,2,13.6,New Zealand,EJ Carson,FC Jonas,A Gardner,0,0,,,,,,lbw,EJ Carson

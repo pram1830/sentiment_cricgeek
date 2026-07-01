@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,United States of America
+info,gender,female
+info,season,2025
+info,date,2025/06/13
+info,event,United States of America Women tour of Netherlands
+info,match_number,5
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,IJR Zwilling
+info,umpire,M Prabhudesa
+info,umpire,WPM van Liemt
+info,reserve_umpire,J Westerberg
+info,match_referee,Adriaan van den Dries
+info,winner,Netherlands
+info,winner_runs,75
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,B de Leede
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,R Rijke
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,C de Lange
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,L Hamilton
+info,player,Netherlands,S Siegers
+info,player,United States of America,D Dhingra
+info,player,United States of America,CR Pagydyala
+info,player,United States of America,RP Singh
+info,player,United States of America,AI Chudasama
+info,player,United States of America,G Kodali
+info,player,United States of America,JM Willathgamuwa
+info,player,United States of America,Pooja Ganesh
+info,player,United States of America,M Patwardhan
+info,player,United States of America,JL Aras
+info,player,United States of America,L Shetty
+info,player,United States of America,S Immadi
+info,registry,people,AI Chudasama,9414a81c
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CR Pagydyala,d7c02672
+info,registry,people,D Dhingra,b0dc5d0d
+info,registry,people,F Overdijk,022745d5
+info,registry,people,G Kodali,f606177e
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J Westerberg,eaad0353
+info,registry,people,JL Aras,e21475a5
+info,registry,people,JM Willathgamuwa,0a10b268
+info,registry,people,L Hamilton,4fbe9e03
+info,registry,people,L Shetty,f0a0ed1d
+info,registry,people,M Patwardhan,2e2233df
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,Pooja Ganesh,a186b627
+info,registry,people,R Rijke,42e4b276
+info,registry,people,RP Singh,0ab3c788
+info,registry,people,S Immadi,a6dd06d6
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,WPM van Liemt,2bd48588
+ball,1,0.1,Netherlands,HDJ Siegers,P Molkenboer,L Shetty,0,0,,,,,,caught,HDJ Siegers
+ball,1,0.2,Netherlands,B de Leede,P Molkenboer,L Shetty,0,0,,,,,,"",""
+ball,1,0.3,Netherlands,B de Leede,P Molkenboer,L Shetty,4,0,,,,,,"",""
+ball,1,0.4,Netherlands,B de Leede,P Molkenboer,L Shetty,4,0,,,,,,"",""
+ball,1,0.5,Netherlands,B de Leede,P Molkenboer,L Shetty,2,0,,,,,,"",""
+ball,1,0.6,Netherlands,B de Leede,P Molkenboer,L Shetty,0,1,1,,,,,"",""
+ball,1,0.7,Netherlands,B de Leede,P Molkenboer,L Shetty,1,0,,,,,,"",""
+ball,1,1.1,Netherlands,B de Leede,P Molkenboer,AI Chudasama,0,0,,,,,,"",""
+ball,1,1.2,Netherlands,B de Leede,P Molkenboer,AI Chudasama,0,0,,,,,,"",""
+ball,1,1.3,Netherlands,B de Leede,P Molkenboer,AI Chudasama,4,0,,,,,,"",""
+ball,1,1.4,Netherlands,B de Leede,P Molkenboer,AI Chudasama,0,0,,,,,,"",""
+ball,1,1.5,Netherlands,B de Leede,P Molkenboer,AI Chudasama,3,0,,,,,,"",""
+ball,1,1.6,Netherlands,P Molkenboer,B de Leede,AI Chudasama,1,0,,,,,,"",""
+ball,1,2.1,Netherlands,P Molkenboer,B de Leede,L Shetty,3,0,,,,,,"",""
+ball,1,2.2,Netherlands,B de Leede,P Molkenboer,L Shetty,4,0,,,,,,"",""
+ball,1,2.3,Netherlands,B de Leede,P Molkenboer,L Shetty,0,1,1,,,,,"",""
+ball,1,2.4,Netherlands,B de Leede,P Molkenboer,L Shetty,0,0,,,,,,"",""
+ball,1,2.5,Netherlands,B de Leede,P Molkenboer,L Shetty,0,1,1,,,,,"",""
+ball,1,2.6,Netherlands,B de Leede,P Molkenboer,L Shetty,1,0,,,,,,"",""
+ball,1,2.7,Netherlands,P Molkenboer,B de Leede,L Shetty,1,0,,,,,,"",""
+ball,1,2.8,Netherlands,B de Leede,P Molkenboer,L Shetty,0,1,1,,,,,"",""
+ball,1,2.9,Netherlands,B de Leede,P Molkenboer,L Shetty,0,0,,,,,,"",""
+ball,1,3.1,Netherlands,P Molkenboer,B de Leede,JL Aras,0,0,,,,,,"",""
+ball,1,3.2,Netherlands,P Molkenboer,B de Leede,JL Aras,4,0,,,,,,"",""
+ball,1,3.3,Netherlands,P Molkenboer,B de Leede,JL Aras,0,0,,,,,,"",""
+ball,1,3.4,Netherlands,P Molkenboer,B de Leede,JL Aras,4,0,,,,,,"",""
+ball,1,3.5,Netherlands,P Molkenboer,B de Leede,JL Aras,1,0,,,,,,"",""
+ball,1,3.6,Netherlands,B de Leede,P Molkenboer,JL Aras,0,0,,,,,,"",""
+ball,1,4.1,Netherlands,P Molkenboer,B de Leede,AI Chudasama,0,0,,,,,,"",""
+ball,1,4.2,Netherlands,P Molkenboer,B de Leede,AI Chudasama,0,0,,,,,,"",""
+ball,1,4.3,Netherlands,P Molkenboer,B de Leede,AI Chudasama,1,0,,,,,,"",""
+ball,1,4.4,Netherlands,B de Leede,P Molkenboer,AI Chudasama,0,0,,,,,,"",""
+ball,1,4.5,Netherlands,B de Leede,P Molkenboer,AI Chudasama,0,0,,,,,,"",""
+ball,1,4.6,Netherlands,B de Leede,P Molkenboer,AI Chudasama,0,0,,,,,,"",""
+ball,1,5.1,Netherlands,P Molkenboer,B de Leede,RP Singh,0,0,,,,,,"",""
+ball,1,5.2,Netherlands,P Molkenboer,B de Leede,RP Singh,0,0,,,,,,"",""
+ball,1,5.3,Netherlands,P Molkenboer,B de Leede,RP Singh,1,0,,,,,,"",""
+ball,1,5.4,Netherlands,B de Leede,P Molkenboer,RP Singh,1,0,,,,,,"",""
+ball,1,5.5,Netherlands,P Molkenboer,B de Leede,RP Singh,0,0,,,,,,caught,P Molkenboer
+ball,1,5.6,Netherlands,SL Kalis,B de Leede,RP Singh,0,0,,,,,,"",""
+ball,1,6.1,Netherlands,B de Leede,SL Kalis,S Immadi,1,0,,,,,,"",""
+ball,1,6.2,Netherlands,SL Kalis,B de Leede,S Immadi,1,0,,,,,,"",""
+ball,1,6.3,Netherlands,B de Leede,SL Kalis,S Immadi,0,0,,,,,,"",""
+ball,1,6.4,Netherlands,B de Leede,SL Kalis,S Immadi,4,0,,,,,,"",""
+ball,1,6.5,Netherlands,B de Leede,SL Kalis,S Immadi,1,0,,,,,,"",""
+ball,1,6.6,Netherlands,SL Kalis,B de Leede,S Immadi,0,0,,,,,,"",""
+ball,1,7.1,Netherlands,B de Leede,SL Kalis,RP Singh,2,0,,,,,,"",""
+ball,1,7.2,Netherlands,B de Leede,SL Kalis,RP Singh,4,0,,,,,,"",""
+ball,1,7.3,Netherlands,B de Leede,SL Kalis,RP Singh,1,0,,,,,,"",""
+ball,1,7.4,Netherlands,SL Kalis,B de Leede,RP Singh,0,0,,,,,,"",""
+ball,1,7.5,Netherlands,SL Kalis,B de Leede,RP Singh,0,0,,,,,,"",""
+ball,1,7.6,Netherlands,SL Kalis,B de Leede,RP Singh,0,0,,,,,,"",""
+ball,1,8.1,Netherlands,B de Leede,SL Kalis,S Immadi,0,0,,,,,,"",""
+ball,1,8.2,Netherlands,B de Leede,SL Kalis,S Immadi,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,SL Kalis,B de Leede,S Immadi,1,0,,,,,,"",""
+ball,1,8.4,Netherlands,B de Leede,SL Kalis,S Immadi,2,0,,,,,,"",""
+ball,1,8.5,Netherlands,B de Leede,SL Kalis,S Immadi,0,0,,,,,,"",""
+ball,1,8.6,Netherlands,B de Leede,SL Kalis,S Immadi,1,0,,,,,,"",""
+ball,1,9.1,Netherlands,B de Leede,SL Kalis,RP Singh,2,0,,,,,,"",""
+ball,1,9.2,Netherlands,B de Leede,SL Kalis,RP Singh,0,0,,,,,,stumped,B de Leede
+ball,1,9.3,Netherlands,R Rijke,SL Kalis,RP Singh,0,0,,,,,,"",""
+ball,1,9.4,Netherlands,R Rijke,SL Kalis,RP Singh,1,0,,,,,,"",""
+ball,1,9.5,Netherlands,SL Kalis,R Rijke,RP Singh,1,0,,,,,,"",""
+ball,1,9.6,Netherlands,R Rijke,SL Kalis,RP Singh,0,0,,,,,,"",""
+ball,1,10.1,Netherlands,SL Kalis,R Rijke,S Immadi,1,0,,,,,,"",""
+ball,1,10.2,Netherlands,R Rijke,SL Kalis,S Immadi,0,0,,,,,,"",""
+ball,1,10.3,Netherlands,R Rijke,SL Kalis,S Immadi,4,0,,,,,,"",""
+ball,1,10.4,Netherlands,R Rijke,SL Kalis,S Immadi,1,0,,,,,,"",""
+ball,1,10.5,Netherlands,SL Kalis,R Rijke,S Immadi,0,0,,,,,,"",""
+ball,1,10.6,Netherlands,SL Kalis,R Rijke,S Immadi,0,0,,,,,,"",""
+ball,1,11.1,Netherlands,R Rijke,SL Kalis,RP Singh,1,0,,,,,,"",""
+ball,1,11.2,Netherlands,SL Kalis,R Rijke,RP Singh,1,0,,,,,,"",""
+ball,1,11.3,Netherlands,R Rijke,SL Kalis,RP Singh,1,0,,,,,,"",""
+ball,1,11.4,Netherlands,SL Kalis,R Rijke,RP Singh,0,0,,,,,,"",""
+ball,1,11.5,Netherlands,SL Kalis,R Rijke,RP Singh,4,0,,,,,,"",""
+ball,1,11.6,Netherlands,SL Kalis,R Rijke,RP Singh,0,1,1,,,,,"",""
+ball,1,11.7,Netherlands,SL Kalis,R Rijke,RP Singh,4,0,,,,,,"",""
+ball,1,12.1,Netherlands,R Rijke,SL Kalis,S Immadi,3,0,,,,,,"",""
+ball,1,12.2,Netherlands,SL Kalis,R Rijke,S Immadi,4,0,,,,,,"",""
+ball,1,12.3,Netherlands,SL Kalis,R Rijke,S Immadi,3,0,,,,,,"",""
+ball,1,12.4,Netherlands,R Rijke,SL Kalis,S Immadi,1,0,,,,,,"",""
+ball,1,12.5,Netherlands,SL Kalis,R Rijke,S Immadi,1,0,,,,,,"",""
+ball,1,12.6,Netherlands,R Rijke,SL Kalis,S Immadi,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,R Rijke,SL Kalis,G Kodali,0,0,,,,,,caught,R Rijke
+ball,1,13.2,Netherlands,F Overdijk,SL Kalis,G Kodali,1,0,,,,,,"",""
+ball,1,13.3,Netherlands,SL Kalis,F Overdijk,G Kodali,4,0,,,,,,"",""
+ball,1,13.4,Netherlands,SL Kalis,F Overdijk,G Kodali,1,0,,,,,,"",""
+ball,1,13.5,Netherlands,F Overdijk,SL Kalis,G Kodali,0,0,,,,,,"",""
+ball,1,13.6,Netherlands,F Overdijk,SL Kalis,G Kodali,0,0,,,,,,"",""
+ball,1,14.1,Netherlands,SL Kalis,F Overdijk,AI Chudasama,0,0,,,,,,"",""
+ball,1,14.2,Netherlands,SL Kalis,F Overdijk,AI Chudasama,0,0,,,,,,"",""
+ball,1,14.3,Netherlands,SL Kalis,F Overdijk,AI Chudasama,2,0,,,,,,"",""
+ball,1,14.4,Netherlands,SL Kalis,F Overdijk,AI Chudasama,1,0,,,,,,"",""
+ball,1,14.5,Netherlands,F Overdijk,SL Kalis,AI Chudasama,0,0,,,,,,"",""
+ball,1,14.6,Netherlands,F Overdijk,SL Kalis,AI Chudasama,2,0,,,,,,"",""
+ball,1,15.1,Netherlands,SL Kalis,F Overdijk,G Kodali,1,0,,,,,,"",""
+ball,1,15.2,Netherlands,F Overdijk,SL Kalis,G Kodali,1,0,,,,,,"",""
+ball,1,15.3,Netherlands,SL Kalis,F Overdijk,G Kodali,0,0,,,,,,"",""
+ball,1,15.4,Netherlands,SL Kalis,F Overdijk,G Kodali,1,0,,,,,,"",""
+ball,1,15.5,Netherlands,F Overdijk,SL Kalis,G Kodali,4,0,,,,,,"",""
+ball,1,15.6,Netherlands,F Overdijk,SL Kalis,G Kodali,2,0,,,,,,"",""
+ball,1,16.1,Netherlands,SL Kalis,F Overdijk,AI Chudasama,0,0,,,,,,caught,SL Kalis
+ball,1,16.2,Netherlands,IJR Zwilling,F Overdijk,AI Chudasama,0,0,,,,,,"",""
+ball,1,16.3,Netherlands,IJR Zwilling,F Overdijk,AI Chudasama,1,0,,,,,,"",""
+ball,1,16.4,Netherlands,F Overdijk,IJR Zwilling,AI Chudasama,0,0,,,,,,"",""
+ball,1,16.5,Netherlands,F Overdijk,IJR Zwilling,AI Chudasama,1,0,,,,,,"",""
+ball,1,16.6,Netherlands,IJR Zwilling,F Overdijk,AI Chudasama,0,0,,,,,,"",""
+ball,1,17.1,Netherlands,F Overdijk,IJR Zwilling,L Shetty,1,0,,,,,,"",""
+ball,1,17.2,Netherlands,IJR Zwilling,F Overdijk,L Shetty,4,0,,,,,,"",""
+ball,1,17.3,Netherlands,IJR Zwilling,F Overdijk,L Shetty,2,0,,,,,,"",""
+ball,1,17.4,Netherlands,IJR Zwilling,F Overdijk,L Shetty,6,0,,,,,,"",""
+ball,1,17.5,Netherlands,IJR Zwilling,F Overdijk,L Shetty,0,0,,,,,,"",""
+ball,1,17.6,Netherlands,IJR Zwilling,F Overdijk,L Shetty,1,0,,,,,,"",""
+ball,1,18.1,Netherlands,IJR Zwilling,F Overdijk,G Kodali,1,0,,,,,,"",""
+ball,1,18.2,Netherlands,F Overdijk,IJR Zwilling,G Kodali,2,0,,,,,,"",""
+ball,1,18.3,Netherlands,F Overdijk,IJR Zwilling,G Kodali,0,0,,,,,,"",""
+ball,1,18.4,Netherlands,F Overdijk,IJR Zwilling,G Kodali,4,0,,,,,,"",""
+ball,1,18.5,Netherlands,F Overdijk,IJR Zwilling,G Kodali,1,0,,,,,,"",""
+ball,1,18.6,Netherlands,IJR Zwilling,F Overdijk,G Kodali,0,0,,,,,,caught,IJR Zwilling
+ball,1,19.1,Netherlands,F Overdijk,C de Lange,L Shetty,1,0,,,,,,"",""
+ball,1,19.2,Netherlands,C de Lange,F Overdijk,L Shetty,1,0,,,,,,"",""
+ball,1,19.3,Netherlands,F Overdijk,C de Lange,L Shetty,2,0,,,,,,"",""
+ball,1,19.4,Netherlands,F Overdijk,C de Lange,L Shetty,2,0,,,,,,"",""
+ball,1,19.5,Netherlands,F Overdijk,C de Lange,L Shetty,0,0,,,,,,caught,F Overdijk
+ball,1,19.6,Netherlands,HWA Landheer,C de Lange,L Shetty,1,0,,,,,,"",""
+ball,2,0.1,United States of America,D Dhingra,CR Pagydyala,IJR Zwilling,2,0,,,,,,"",""
+ball,2,0.2,United States of America,D Dhingra,CR Pagydyala,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.3,United States of America,D Dhingra,CR Pagydyala,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.4,United States of America,D Dhingra,CR Pagydyala,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.5,United States of America,D Dhingra,CR Pagydyala,IJR Zwilling,1,0,,,,,,"",""
+ball,2,0.6,United States of America,CR Pagydyala,D Dhingra,IJR Zwilling,0,0,,,,,,"",""
+ball,2,1.1,United States of America,D Dhingra,CR Pagydyala,L Hamilton,4,0,,,,,,"",""
+ball,2,1.2,United States of America,D Dhingra,CR Pagydyala,L Hamilton,0,0,,,,,,"",""
+ball,2,1.3,United States of America,D Dhingra,CR Pagydyala,L Hamilton,0,0,,,,,,"",""
+ball,2,1.4,United States of America,D Dhingra,CR Pagydyala,L Hamilton,0,0,,,,,,"",""
+ball,2,1.5,United States of America,D Dhingra,CR Pagydyala,L Hamilton,0,0,,,,,,lbw,D Dhingra
+ball,2,1.6,United States of America,RP Singh,CR Pagydyala,L Hamilton,0,0,,,,,,"",""
+ball,2,2.1,United States of America,CR Pagydyala,RP Singh,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.2,United States of America,CR Pagydyala,RP Singh,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.3,United States of America,CR Pagydyala,RP Singh,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.4,United States of America,CR Pagydyala,RP Singh,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.5,United States of America,CR Pagydyala,RP Singh,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.6,United States of America,CR Pagydyala,RP Singh,IJR Zwilling,0,0,,,,,,"",""
+ball,2,3.1,United States of America,RP Singh,CR Pagydyala,HDJ Siegers,0,0,,,,,,"",""
+ball,2,3.2,United States of America,RP Singh,CR Pagydyala,HDJ Siegers,4,0,,,,,,"",""
+ball,2,3.3,United States of America,RP Singh,CR Pagydyala,HDJ Siegers,0,0,,,,,,"",""
+ball,2,3.4,United States of America,RP Singh,CR Pagydyala,HDJ Siegers,2,0,,,,,,"",""
+ball,2,3.5,United States of America,RP Singh,CR Pagydyala,HDJ Siegers,0,1,1,,,,,"",""
+ball,2,3.6,United States of America,RP Singh,CR Pagydyala,HDJ Siegers,0,0,,,,,,"",""
+ball,2,3.7,United States of America,RP Singh,CR Pagydyala,HDJ Siegers,0,0,,,,,,caught,RP Singh
+ball,2,4.1,United States of America,CR Pagydyala,AI Chudasama,IJR Zwilling,0,0,,,,,,caught,CR Pagydyala
+ball,2,4.2,United States of America,G Kodali,AI Chudasama,IJR Zwilling,1,0,,,,,,"",""
+ball,2,4.3,United States of America,AI Chudasama,G Kodali,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.4,United States of America,AI Chudasama,G Kodali,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.5,United States of America,AI Chudasama,G Kodali,IJR Zwilling,0,0,,,,,,caught,AI Chudasama
+ball,2,4.6,United States of America,JM Willathgamuwa,G Kodali,IJR Zwilling,0,0,,,,,,"",""
+ball,2,5.1,United States of America,G Kodali,JM Willathgamuwa,L Hamilton,0,0,,,,,,"",""
+ball,2,5.2,United States of America,G Kodali,JM Willathgamuwa,L Hamilton,0,1,1,,,,,"",""
+ball,2,5.3,United States of America,G Kodali,JM Willathgamuwa,L Hamilton,0,0,,,,,,run out,JM Willathgamuwa
+ball,2,5.4,United States of America,G Kodali,Pooja Ganesh,L Hamilton,0,0,,,,,,"",""
+ball,2,5.5,United States of America,G Kodali,Pooja Ganesh,L Hamilton,1,0,,,,,,"",""
+ball,2,5.6,United States of America,Pooja Ganesh,G Kodali,L Hamilton,1,0,,,,,,"",""
+ball,2,5.7,United States of America,G Kodali,Pooja Ganesh,L Hamilton,0,0,,,,,,"",""
+ball,2,6.1,United States of America,Pooja Ganesh,G Kodali,IJR Zwilling,0,0,,,,,,"",""
+ball,2,6.2,United States of America,Pooja Ganesh,G Kodali,IJR Zwilling,2,0,,,,,,"",""
+ball,2,6.3,United States of America,Pooja Ganesh,G Kodali,IJR Zwilling,1,0,,,,,,"",""
+ball,2,6.4,United States of America,G Kodali,Pooja Ganesh,IJR Zwilling,4,0,,,,,,"",""
+ball,2,6.5,United States of America,G Kodali,Pooja Ganesh,IJR Zwilling,0,0,,,,,,bowled,G Kodali
+ball,2,6.6,United States of America,M Patwardhan,Pooja Ganesh,IJR Zwilling,0,0,,,,,,"",""
+ball,2,7.1,United States of America,Pooja Ganesh,M Patwardhan,S Siegers,1,0,,,,,,"",""
+ball,2,7.2,United States of America,M Patwardhan,Pooja Ganesh,S Siegers,0,1,,1,,,,"",""
+ball,2,7.3,United States of America,M Patwardhan,Pooja Ganesh,S Siegers,1,0,,,,,,"",""
+ball,2,7.4,United States of America,Pooja Ganesh,M Patwardhan,S Siegers,0,1,,1,,,,"",""
+ball,2,7.5,United States of America,Pooja Ganesh,M Patwardhan,S Siegers,0,0,,,,,,"",""
+ball,2,7.6,United States of America,Pooja Ganesh,M Patwardhan,S Siegers,1,0,,,,,,"",""
+ball,2,7.7,United States of America,M Patwardhan,Pooja Ganesh,S Siegers,0,0,,,,,,bowled,M Patwardhan
+ball,2,7.8,United States of America,JL Aras,Pooja Ganesh,S Siegers,0,0,,,,,,"",""
+ball,2,8.1,United States of America,Pooja Ganesh,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,8.2,United States of America,JL Aras,Pooja Ganesh,C de Lange,1,0,,,,,,"",""
+ball,2,8.3,United States of America,Pooja Ganesh,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,8.4,United States of America,JL Aras,Pooja Ganesh,C de Lange,1,0,,,,,,"",""
+ball,2,8.5,United States of America,Pooja Ganesh,JL Aras,C de Lange,0,0,,,,,,"",""
+ball,2,8.6,United States of America,Pooja Ganesh,JL Aras,C de Lange,0,0,,,,,,"",""
+ball,2,9.1,United States of America,JL Aras,Pooja Ganesh,S Siegers,1,1,,1,,,,"",""
+ball,2,9.2,United States of America,Pooja Ganesh,JL Aras,S Siegers,0,2,,,2,,,"",""
+ball,2,9.3,United States of America,Pooja Ganesh,JL Aras,S Siegers,0,0,,,,,,"",""
+ball,2,9.4,United States of America,Pooja Ganesh,JL Aras,S Siegers,1,0,,,,,,"",""
+ball,2,9.5,United States of America,JL Aras,Pooja Ganesh,S Siegers,1,0,,,,,,"",""
+ball,2,9.6,United States of America,Pooja Ganesh,JL Aras,S Siegers,0,1,1,,,,,"",""
+ball,2,9.7,United States of America,Pooja Ganesh,JL Aras,S Siegers,4,0,,,,,,"",""
+ball,2,9.8,United States of America,Pooja Ganesh,JL Aras,S Siegers,0,0,,,,,,"",""
+ball,2,10.1,United States of America,JL Aras,Pooja Ganesh,C de Lange,0,1,,,1,,,"",""
+ball,2,10.2,United States of America,Pooja Ganesh,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,10.3,United States of America,JL Aras,Pooja Ganesh,C de Lange,1,0,,,,,,"",""
+ball,2,10.4,United States of America,Pooja Ganesh,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,10.5,United States of America,JL Aras,Pooja Ganesh,C de Lange,1,0,,,,,,"",""
+ball,2,10.6,United States of America,Pooja Ganesh,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,11.1,United States of America,Pooja Ganesh,JL Aras,HWA Landheer,0,0,,,,,,"",""
+ball,2,11.2,United States of America,Pooja Ganesh,JL Aras,HWA Landheer,0,0,,,,,,"",""
+ball,2,11.3,United States of America,Pooja Ganesh,JL Aras,HWA Landheer,1,0,,,,,,"",""
+ball,2,11.4,United States of America,JL Aras,Pooja Ganesh,HWA Landheer,0,0,,,,,,"",""
+ball,2,11.5,United States of America,JL Aras,Pooja Ganesh,HWA Landheer,0,0,,,,,,"",""
+ball,2,11.6,United States of America,JL Aras,Pooja Ganesh,HWA Landheer,0,1,1,,,,,"",""
+ball,2,11.7,United States of America,JL Aras,Pooja Ganesh,HWA Landheer,1,0,,,,,,"",""
+ball,2,12.1,United States of America,JL Aras,Pooja Ganesh,C de Lange,1,0,,,,,,"",""
+ball,2,12.2,United States of America,Pooja Ganesh,JL Aras,C de Lange,0,0,,,,,,"",""
+ball,2,12.3,United States of America,Pooja Ganesh,JL Aras,C de Lange,0,0,,,,,,bowled,Pooja Ganesh
+ball,2,12.4,United States of America,L Shetty,JL Aras,C de Lange,0,0,,,,,,"",""
+ball,2,12.5,United States of America,L Shetty,JL Aras,C de Lange,0,0,,,,,,"",""
+ball,2,12.6,United States of America,L Shetty,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,13.1,United States of America,L Shetty,JL Aras,HWA Landheer,0,0,,,,,,"",""
+ball,2,13.2,United States of America,L Shetty,JL Aras,HWA Landheer,0,0,,,,,,"",""
+ball,2,13.3,United States of America,L Shetty,JL Aras,HWA Landheer,4,0,,,,,,"",""
+ball,2,13.4,United States of America,L Shetty,JL Aras,HWA Landheer,0,0,,,,,,"",""
+ball,2,13.5,United States of America,L Shetty,JL Aras,HWA Landheer,0,0,,,,,,"",""
+ball,2,13.6,United States of America,L Shetty,JL Aras,HWA Landheer,0,0,,,,,,"",""
+ball,2,14.1,United States of America,JL Aras,L Shetty,C de Lange,0,0,,,,,,"",""
+ball,2,14.2,United States of America,JL Aras,L Shetty,C de Lange,1,0,,,,,,"",""
+ball,2,14.3,United States of America,L Shetty,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,14.4,United States of America,JL Aras,L Shetty,C de Lange,1,0,,,,,,"",""
+ball,2,14.5,United States of America,L Shetty,JL Aras,C de Lange,1,0,,,,,,"",""
+ball,2,14.6,United States of America,JL Aras,L Shetty,C de Lange,0,0,,,,,,caught,JL Aras
+ball,2,15.1,United States of America,L Shetty,S Immadi,HWA Landheer,0,1,1,,,,,"",""
+ball,2,15.2,United States of America,L Shetty,S Immadi,HWA Landheer,0,0,,,,,,"",""
+ball,2,15.3,United States of America,L Shetty,S Immadi,HWA Landheer,0,0,,,,,,"",""
+ball,2,15.4,United States of America,L Shetty,S Immadi,HWA Landheer,0,0,,,,,,"",""
+ball,2,15.5,United States of America,L Shetty,S Immadi,HWA Landheer,4,0,,,,,,"",""
+ball,2,15.6,United States of America,L Shetty,S Immadi,HWA Landheer,1,0,,,,,,"",""
+ball,2,15.7,United States of America,S Immadi,L Shetty,HWA Landheer,0,0,,,,,,"",""
+ball,2,16.1,United States of America,L Shetty,S Immadi,L Hamilton,0,0,,,,,,"",""
+ball,2,16.2,United States of America,L Shetty,S Immadi,L Hamilton,0,0,,,,,,"",""
+ball,2,16.3,United States of America,L Shetty,S Immadi,L Hamilton,0,0,,,,,,"",""
+ball,2,16.4,United States of America,L Shetty,S Immadi,L Hamilton,0,0,,,,,,"",""
+ball,2,16.5,United States of America,L Shetty,S Immadi,L Hamilton,1,0,,,,,,"",""
+ball,2,16.6,United States of America,S Immadi,L Shetty,L Hamilton,2,0,,,,,,"",""
+ball,2,17.1,United States of America,L Shetty,S Immadi,HDJ Siegers,0,0,,,,,,"",""
+ball,2,17.2,United States of America,L Shetty,S Immadi,HDJ Siegers,0,0,,,,,,"",""
+ball,2,17.3,United States of America,L Shetty,S Immadi,HDJ Siegers,0,0,,,,,,"",""
+ball,2,17.4,United States of America,L Shetty,S Immadi,HDJ Siegers,1,0,,,,,,"",""
+ball,2,17.5,United States of America,S Immadi,L Shetty,HDJ Siegers,0,0,,,,,,"",""
+ball,2,17.6,United States of America,S Immadi,L Shetty,HDJ Siegers,0,0,,,,,,caught and bowled,S Immadi

@@ -1,0 +1,334 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Singapore
+info,gender,female
+info,season,2022
+info,date,2022/06/20
+info,event,Asian Cricket Council Women's T20 Championship
+info,venue,"Kinrara Academy Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Singapore
+info,toss_decision,field
+info,player_of_match,Vinu Kumar
+info,umpire,L Poobalan
+info,umpire,Samad Akbar
+info,reserve_umpire,V Kalidas
+info,match_referee,Edwin Seah
+info,winner,Singapore
+info,winner_wickets,5
+info,player,Oman,V Jesrani
+info,player,Oman,Fiza
+info,player,Oman,SV Shetty
+info,player,Oman,PE Mendonca
+info,player,Oman,NM Anil
+info,player,Oman,B Shetty
+info,player,Oman,A Dcosta
+info,player,Oman,Sameera Khan
+info,player,Oman,S Channa
+info,player,Oman,N Jagadish
+info,player,Oman,Afida Afthab
+info,player,Singapore,Zay Hua Tan
+info,player,Singapore,JT Pooranakaran
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,GK Diviya
+info,player,Singapore,CH Abeyratne
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,I Shukla
+info,player,Singapore,PSR Gurusinghe
+info,registry,people,A Dcosta,3a4d914f
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Afida Afthab,9446598e
+info,registry,people,B Shetty,58c16165
+info,registry,people,CH Abeyratne,ef423744
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Fiza,c7c60bc5
+info,registry,people,GK Diviya,992979fa
+info,registry,people,I Shukla,ce490298
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,JT Pooranakaran,3a743619
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,N Jagadish,d6ec9f9f
+info,registry,people,NM Anil,cbd69f04
+info,registry,people,PE Mendonca,70bab30b
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,S Channa,c30d7608
+info,registry,people,SV Shetty,db7a7301
+info,registry,people,Samad Akbar,f05bd21b
+info,registry,people,Sameera Khan,237baa2c
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,V Jesrani,d1f6a8fa
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,Zay Hua Tan,b0576916
+ball,1,0.1,Oman,V Jesrani,Fiza,Ada Bhasin,0,0,,,,,,"",""
+ball,1,0.2,Oman,V Jesrani,Fiza,Ada Bhasin,0,1,1,,,,,"",""
+ball,1,0.3,Oman,V Jesrani,Fiza,Ada Bhasin,0,0,,,,,,"",""
+ball,1,0.4,Oman,V Jesrani,Fiza,Ada Bhasin,0,0,,,,,,"",""
+ball,1,0.5,Oman,V Jesrani,Fiza,Ada Bhasin,0,0,,,,,,"",""
+ball,1,0.6,Oman,V Jesrani,Fiza,Ada Bhasin,1,0,,,,,,"",""
+ball,1,0.7,Oman,Fiza,V Jesrani,Ada Bhasin,0,0,,,,,,"",""
+ball,1,1.1,Oman,V Jesrani,Fiza,GK Diviya,0,0,,,,,,"",""
+ball,1,1.2,Oman,V Jesrani,Fiza,GK Diviya,1,0,,,,,,"",""
+ball,1,1.3,Oman,Fiza,V Jesrani,GK Diviya,0,0,,,,,,"",""
+ball,1,1.4,Oman,Fiza,V Jesrani,GK Diviya,0,0,,,,,,"",""
+ball,1,1.5,Oman,Fiza,V Jesrani,GK Diviya,0,0,,,,,,"",""
+ball,1,1.6,Oman,Fiza,V Jesrani,GK Diviya,1,0,,,,,,"",""
+ball,1,2.1,Oman,Fiza,V Jesrani,Shafina Mahesh,0,0,,,,,,caught,Fiza
+ball,1,2.2,Oman,SV Shetty,V Jesrani,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,2.3,Oman,SV Shetty,V Jesrani,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,2.4,Oman,SV Shetty,V Jesrani,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,2.5,Oman,SV Shetty,V Jesrani,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,2.6,Oman,SV Shetty,V Jesrani,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,2.7,Oman,V Jesrani,SV Shetty,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,3.1,Oman,SV Shetty,V Jesrani,Vinu Kumar,0,0,,,,,,"",""
+ball,1,3.2,Oman,SV Shetty,V Jesrani,Vinu Kumar,0,0,,,,,,"",""
+ball,1,3.3,Oman,SV Shetty,V Jesrani,Vinu Kumar,1,0,,,,,,"",""
+ball,1,3.4,Oman,V Jesrani,SV Shetty,Vinu Kumar,1,0,,,,,,"",""
+ball,1,3.5,Oman,SV Shetty,V Jesrani,Vinu Kumar,0,0,,,,,,"",""
+ball,1,3.6,Oman,SV Shetty,V Jesrani,Vinu Kumar,0,0,,,,,,"",""
+ball,1,4.1,Oman,V Jesrani,SV Shetty,I Shukla,1,0,,,,,,"",""
+ball,1,4.2,Oman,SV Shetty,V Jesrani,I Shukla,1,0,,,,,,"",""
+ball,1,4.3,Oman,V Jesrani,SV Shetty,I Shukla,0,0,,,,,,"",""
+ball,1,4.4,Oman,V Jesrani,SV Shetty,I Shukla,0,0,,,,,,"",""
+ball,1,4.5,Oman,V Jesrani,SV Shetty,I Shukla,0,1,1,,,,,"",""
+ball,1,4.6,Oman,V Jesrani,SV Shetty,I Shukla,0,0,,,,,,"",""
+ball,1,4.7,Oman,V Jesrani,SV Shetty,I Shukla,0,1,1,,,,,"",""
+ball,1,4.8,Oman,V Jesrani,SV Shetty,I Shukla,1,0,,,,,,"",""
+ball,1,5.1,Oman,V Jesrani,SV Shetty,Vinu Kumar,0,0,,,,,,caught,V Jesrani
+ball,1,5.2,Oman,SV Shetty,PE Mendonca,Vinu Kumar,0,0,,,,,,caught,SV Shetty
+ball,1,5.3,Oman,NM Anil,PE Mendonca,Vinu Kumar,0,0,,,,,,"",""
+ball,1,5.4,Oman,NM Anil,PE Mendonca,Vinu Kumar,0,0,,,,,,"",""
+ball,1,5.5,Oman,NM Anil,PE Mendonca,Vinu Kumar,0,0,,,,,,"",""
+ball,1,5.6,Oman,NM Anil,PE Mendonca,Vinu Kumar,1,0,,,,,,"",""
+ball,1,6.1,Oman,NM Anil,PE Mendonca,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,6.2,Oman,NM Anil,PE Mendonca,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,6.3,Oman,PE Mendonca,NM Anil,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,6.4,Oman,PE Mendonca,NM Anil,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,6.5,Oman,NM Anil,PE Mendonca,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,6.6,Oman,NM Anil,PE Mendonca,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,6.7,Oman,NM Anil,PE Mendonca,Shafina Mahesh,0,0,,,,,,caught,NM Anil
+ball,1,7.1,Oman,PE Mendonca,B Shetty,GK Diviya,0,0,,,,,,"",""
+ball,1,7.2,Oman,PE Mendonca,B Shetty,GK Diviya,0,0,,,,,,"",""
+ball,1,7.3,Oman,PE Mendonca,B Shetty,GK Diviya,0,0,,,,,,"",""
+ball,1,7.4,Oman,PE Mendonca,B Shetty,GK Diviya,1,0,,,,,,"",""
+ball,1,7.5,Oman,B Shetty,PE Mendonca,GK Diviya,0,0,,,,,,"",""
+ball,1,7.6,Oman,B Shetty,PE Mendonca,GK Diviya,1,0,,,,,,"",""
+ball,1,8.1,Oman,B Shetty,PE Mendonca,CH Abeyratne,0,0,,,,,,"",""
+ball,1,8.2,Oman,B Shetty,PE Mendonca,CH Abeyratne,0,1,1,,,,,"",""
+ball,1,8.3,Oman,B Shetty,PE Mendonca,CH Abeyratne,0,0,,,,,,"",""
+ball,1,8.4,Oman,B Shetty,PE Mendonca,CH Abeyratne,0,0,,,,,,"",""
+ball,1,8.5,Oman,B Shetty,PE Mendonca,CH Abeyratne,0,0,,,,,,"",""
+ball,1,8.6,Oman,B Shetty,PE Mendonca,CH Abeyratne,1,0,,,,,,"",""
+ball,1,8.7,Oman,PE Mendonca,B Shetty,CH Abeyratne,0,0,,,,,,"",""
+ball,1,9.1,Oman,B Shetty,PE Mendonca,I Shukla,0,0,,,,,,"",""
+ball,1,9.2,Oman,B Shetty,PE Mendonca,I Shukla,0,0,,,,,,"",""
+ball,1,9.3,Oman,B Shetty,PE Mendonca,I Shukla,4,0,,,,,,"",""
+ball,1,9.4,Oman,B Shetty,PE Mendonca,I Shukla,0,0,,,,,,"",""
+ball,1,9.5,Oman,B Shetty,PE Mendonca,I Shukla,0,0,,,,,,"",""
+ball,1,9.6,Oman,B Shetty,PE Mendonca,I Shukla,0,0,,,,,,"",""
+ball,1,10.1,Oman,PE Mendonca,B Shetty,CH Abeyratne,0,5,5,,,,,"",""
+ball,1,10.2,Oman,PE Mendonca,B Shetty,CH Abeyratne,1,0,,,,,,"",""
+ball,1,10.3,Oman,B Shetty,PE Mendonca,CH Abeyratne,2,0,,,,,,"",""
+ball,1,10.4,Oman,B Shetty,PE Mendonca,CH Abeyratne,1,0,,,,,,"",""
+ball,1,10.5,Oman,PE Mendonca,B Shetty,CH Abeyratne,0,0,,,,,,"",""
+ball,1,10.6,Oman,PE Mendonca,B Shetty,CH Abeyratne,0,1,1,,,,,"",""
+ball,1,10.7,Oman,PE Mendonca,B Shetty,CH Abeyratne,0,0,,,,,,"",""
+ball,1,10.8,Oman,PE Mendonca,B Shetty,CH Abeyratne,4,0,,,,,,"",""
+ball,1,11.1,Oman,B Shetty,PE Mendonca,GK Diviya,0,0,,,,,,"",""
+ball,1,11.2,Oman,B Shetty,PE Mendonca,GK Diviya,0,0,,,,,,"",""
+ball,1,11.3,Oman,B Shetty,PE Mendonca,GK Diviya,0,0,,,,,,"",""
+ball,1,11.4,Oman,B Shetty,PE Mendonca,GK Diviya,0,0,,,,,,"",""
+ball,1,11.5,Oman,B Shetty,PE Mendonca,GK Diviya,0,0,,,,,,"",""
+ball,1,11.6,Oman,B Shetty,PE Mendonca,GK Diviya,0,0,,,,,,"",""
+ball,1,12.1,Oman,PE Mendonca,B Shetty,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,12.2,Oman,PE Mendonca,B Shetty,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,12.3,Oman,PE Mendonca,B Shetty,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,12.4,Oman,PE Mendonca,B Shetty,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,12.5,Oman,PE Mendonca,B Shetty,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,12.6,Oman,PE Mendonca,B Shetty,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,12.7,Oman,PE Mendonca,B Shetty,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,13.1,Oman,B Shetty,PE Mendonca,I Shukla,1,0,,,,,,"",""
+ball,1,13.2,Oman,PE Mendonca,B Shetty,I Shukla,1,0,,,,,,"",""
+ball,1,13.3,Oman,B Shetty,PE Mendonca,I Shukla,0,0,,,,,,"",""
+ball,1,13.4,Oman,B Shetty,PE Mendonca,I Shukla,1,0,,,,,,"",""
+ball,1,13.5,Oman,PE Mendonca,B Shetty,I Shukla,0,0,,,,,,"",""
+ball,1,13.6,Oman,PE Mendonca,B Shetty,I Shukla,0,0,,,,,,"",""
+ball,1,14.1,Oman,B Shetty,PE Mendonca,Ada Bhasin,0,0,,,,,,"",""
+ball,1,14.2,Oman,B Shetty,PE Mendonca,Ada Bhasin,1,0,,,,,,"",""
+ball,1,14.3,Oman,PE Mendonca,B Shetty,Ada Bhasin,2,0,,,,,,"",""
+ball,1,14.4,Oman,PE Mendonca,B Shetty,Ada Bhasin,4,0,,,,,,"",""
+ball,1,14.5,Oman,PE Mendonca,B Shetty,Ada Bhasin,2,0,,,,,,"",""
+ball,1,14.6,Oman,PE Mendonca,B Shetty,Ada Bhasin,0,0,,,,,,"",""
+ball,1,15.1,Oman,B Shetty,PE Mendonca,Vinu Kumar,1,0,,,,,,"",""
+ball,1,15.2,Oman,PE Mendonca,B Shetty,Vinu Kumar,1,0,,,,,,"",""
+ball,1,15.3,Oman,B Shetty,PE Mendonca,Vinu Kumar,4,0,,,,,,"",""
+ball,1,15.4,Oman,B Shetty,PE Mendonca,Vinu Kumar,0,0,,,,,,"",""
+ball,1,15.5,Oman,B Shetty,PE Mendonca,Vinu Kumar,1,0,,,,,,"",""
+ball,1,15.6,Oman,PE Mendonca,B Shetty,Vinu Kumar,0,0,,,,,,"",""
+ball,1,16.1,Oman,B Shetty,PE Mendonca,Ada Bhasin,0,0,,,,,,"",""
+ball,1,16.2,Oman,B Shetty,PE Mendonca,Ada Bhasin,1,0,,,,,,"",""
+ball,1,16.3,Oman,PE Mendonca,B Shetty,Ada Bhasin,1,0,,,,,,"",""
+ball,1,16.4,Oman,B Shetty,PE Mendonca,Ada Bhasin,0,0,,,,,,"",""
+ball,1,16.5,Oman,B Shetty,PE Mendonca,Ada Bhasin,0,1,1,,,,,"",""
+ball,1,16.6,Oman,B Shetty,PE Mendonca,Ada Bhasin,1,0,,,,,,"",""
+ball,1,16.7,Oman,PE Mendonca,B Shetty,Ada Bhasin,1,0,,,,,,"",""
+ball,1,17.1,Oman,PE Mendonca,B Shetty,Vinu Kumar,0,1,1,,,,,"",""
+ball,1,17.2,Oman,PE Mendonca,B Shetty,Vinu Kumar,2,0,,,,,,"",""
+ball,1,17.3,Oman,PE Mendonca,B Shetty,Vinu Kumar,4,0,,,,,,"",""
+ball,1,17.4,Oman,PE Mendonca,B Shetty,Vinu Kumar,1,0,,,,,,"",""
+ball,1,17.5,Oman,B Shetty,PE Mendonca,Vinu Kumar,0,0,,,,,,"",""
+ball,1,17.6,Oman,B Shetty,PE Mendonca,Vinu Kumar,2,0,,,,,,"",""
+ball,1,17.7,Oman,B Shetty,PE Mendonca,Vinu Kumar,0,0,,,,,,"",""
+ball,1,18.1,Oman,PE Mendonca,B Shetty,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,18.2,Oman,B Shetty,PE Mendonca,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,18.3,Oman,PE Mendonca,B Shetty,Shafina Mahesh,2,0,,,,,,"",""
+ball,1,18.4,Oman,PE Mendonca,B Shetty,Shafina Mahesh,0,0,,,,,,"",""
+ball,1,18.5,Oman,PE Mendonca,B Shetty,Shafina Mahesh,0,1,1,,,,,"",""
+ball,1,18.6,Oman,PE Mendonca,B Shetty,Shafina Mahesh,4,0,,,,,,"",""
+ball,1,18.7,Oman,PE Mendonca,B Shetty,Shafina Mahesh,1,0,,,,,,"",""
+ball,1,19.1,Oman,PE Mendonca,B Shetty,GK Diviya,0,0,,,,,,"",""
+ball,1,19.2,Oman,PE Mendonca,B Shetty,GK Diviya,1,0,,,,,,"",""
+ball,1,19.3,Oman,B Shetty,PE Mendonca,GK Diviya,2,0,,,,,,"",""
+ball,1,19.4,Oman,B Shetty,PE Mendonca,GK Diviya,1,0,,,,,,"",""
+ball,1,19.5,Oman,PE Mendonca,B Shetty,GK Diviya,1,0,,,,,,run out,B Shetty
+ball,1,19.6,Oman,PE Mendonca,A Dcosta,GK Diviya,0,0,,,,,,run out,A Dcosta
+ball,2,0.1,Singapore,Zay Hua Tan,JT Pooranakaran,S Channa,0,0,,,,,,"",""
+ball,2,0.2,Singapore,Zay Hua Tan,JT Pooranakaran,S Channa,0,0,,,,,,"",""
+ball,2,0.3,Singapore,Zay Hua Tan,JT Pooranakaran,S Channa,0,0,,,,,,"",""
+ball,2,0.4,Singapore,Zay Hua Tan,JT Pooranakaran,S Channa,0,0,,,,,,bowled,Zay Hua Tan
+ball,2,0.5,Singapore,Shafina Mahesh,JT Pooranakaran,S Channa,0,0,,,,,,"",""
+ball,2,0.6,Singapore,Shafina Mahesh,JT Pooranakaran,S Channa,0,1,1,,,,,"",""
+ball,2,0.7,Singapore,Shafina Mahesh,JT Pooranakaran,S Channa,1,0,,,,,,"",""
+ball,2,1.1,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,0,1,1,,,,,"",""
+ball,2,1.2,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,0,0,,,,,,"",""
+ball,2,1.3,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,4,0,,,,,,"",""
+ball,2,1.4,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,0,0,,,,,,"",""
+ball,2,1.5,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,0,0,,,,,,"",""
+ball,2,1.6,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,0,0,,,,,,"",""
+ball,2,1.7,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,1,0,,,,,,"",""
+ball,2,2.1,Singapore,Shafina Mahesh,JT Pooranakaran,S Channa,4,0,,,,,,"",""
+ball,2,2.2,Singapore,Shafina Mahesh,JT Pooranakaran,S Channa,1,0,,,,,,"",""
+ball,2,2.3,Singapore,JT Pooranakaran,Shafina Mahesh,S Channa,0,4,,,4,,,"",""
+ball,2,2.4,Singapore,JT Pooranakaran,Shafina Mahesh,S Channa,0,1,,1,,,,"",""
+ball,2,2.5,Singapore,JT Pooranakaran,Shafina Mahesh,S Channa,0,0,,,,,,"",""
+ball,2,2.6,Singapore,JT Pooranakaran,Shafina Mahesh,S Channa,0,1,,,1,,,"",""
+ball,2,2.7,Singapore,Shafina Mahesh,JT Pooranakaran,S Channa,1,0,,,,,,"",""
+ball,2,3.1,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,0,0,,,,,,"",""
+ball,2,3.2,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,0,0,,,,,,"",""
+ball,2,3.3,Singapore,Shafina Mahesh,JT Pooranakaran,B Shetty,1,0,,,,,,"",""
+ball,2,3.4,Singapore,JT Pooranakaran,Shafina Mahesh,B Shetty,0,0,,,,,,"",""
+ball,2,3.5,Singapore,JT Pooranakaran,Shafina Mahesh,B Shetty,0,1,1,,,,,"",""
+ball,2,3.6,Singapore,JT Pooranakaran,Shafina Mahesh,B Shetty,0,0,,,,,,bowled,JT Pooranakaran
+ball,2,3.7,Singapore,GK Diviya,Shafina Mahesh,B Shetty,0,0,,,,,,"",""
+ball,2,4.1,Singapore,Shafina Mahesh,GK Diviya,PE Mendonca,0,1,1,,,,,"",""
+ball,2,4.2,Singapore,Shafina Mahesh,GK Diviya,PE Mendonca,0,0,,,,,,"",""
+ball,2,4.3,Singapore,Shafina Mahesh,GK Diviya,PE Mendonca,1,0,,,,,,"",""
+ball,2,4.4,Singapore,GK Diviya,Shafina Mahesh,PE Mendonca,0,0,,,,,,"",""
+ball,2,4.5,Singapore,GK Diviya,Shafina Mahesh,PE Mendonca,2,0,,,,,,"",""
+ball,2,4.6,Singapore,GK Diviya,Shafina Mahesh,PE Mendonca,0,0,,,,,,"",""
+ball,2,4.7,Singapore,GK Diviya,Shafina Mahesh,PE Mendonca,1,0,,,,,,"",""
+ball,2,5.1,Singapore,GK Diviya,Shafina Mahesh,Sameera Khan,1,0,,,,,,"",""
+ball,2,5.2,Singapore,Shafina Mahesh,GK Diviya,Sameera Khan,0,0,,,,,,"",""
+ball,2,5.3,Singapore,Shafina Mahesh,GK Diviya,Sameera Khan,1,0,,,,,,"",""
+ball,2,5.4,Singapore,GK Diviya,Shafina Mahesh,Sameera Khan,0,1,,,,1,,"",""
+ball,2,5.5,Singapore,Shafina Mahesh,GK Diviya,Sameera Khan,4,0,,,,,,"",""
+ball,2,5.6,Singapore,Shafina Mahesh,GK Diviya,Sameera Khan,0,1,1,,,,,"",""
+ball,2,5.7,Singapore,Shafina Mahesh,GK Diviya,Sameera Khan,0,0,,,,,,"",""
+ball,2,6.1,Singapore,GK Diviya,Shafina Mahesh,PE Mendonca,0,0,,,,,,"",""
+ball,2,6.2,Singapore,GK Diviya,Shafina Mahesh,PE Mendonca,1,0,,,,,,"",""
+ball,2,6.3,Singapore,Shafina Mahesh,GK Diviya,PE Mendonca,0,1,1,,,,,"",""
+ball,2,6.4,Singapore,Shafina Mahesh,GK Diviya,PE Mendonca,0,0,,,,,,"",""
+ball,2,6.5,Singapore,Shafina Mahesh,GK Diviya,PE Mendonca,0,0,,,,,,bowled,Shafina Mahesh
+ball,2,6.6,Singapore,CH Abeyratne,GK Diviya,PE Mendonca,0,0,,,,,,lbw,CH Abeyratne
+ball,2,6.7,Singapore,Vinu Kumar,GK Diviya,PE Mendonca,0,0,,,,,,"",""
+ball,2,7.1,Singapore,GK Diviya,Vinu Kumar,Sameera Khan,1,0,,,,,,"",""
+ball,2,7.2,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,0,0,,,,,,"",""
+ball,2,7.3,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,1,0,,,,,,"",""
+ball,2,7.4,Singapore,GK Diviya,Vinu Kumar,Sameera Khan,0,0,,,,,,"",""
+ball,2,7.5,Singapore,GK Diviya,Vinu Kumar,Sameera Khan,1,0,,,,,,"",""
+ball,2,7.6,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,2,0,,,,,,"",""
+ball,2,8.1,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,0,0,,,,,,"",""
+ball,2,8.2,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,0,1,1,,,,,"",""
+ball,2,8.3,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,0,0,,,,,,"",""
+ball,2,8.4,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,1,0,,,,,,"",""
+ball,2,8.5,Singapore,Vinu Kumar,GK Diviya,PE Mendonca,0,0,,,,,,"",""
+ball,2,8.6,Singapore,Vinu Kumar,GK Diviya,PE Mendonca,1,0,,,,,,"",""
+ball,2,8.7,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,0,0,,,,,,"",""
+ball,2,9.1,Singapore,Vinu Kumar,GK Diviya,Afida Afthab,0,1,1,,,,,"",""
+ball,2,9.2,Singapore,Vinu Kumar,GK Diviya,Afida Afthab,0,0,,,,,,"",""
+ball,2,9.3,Singapore,Vinu Kumar,GK Diviya,Afida Afthab,0,2,2,,,,,"",""
+ball,2,9.4,Singapore,GK Diviya,Vinu Kumar,Afida Afthab,1,0,,,,,,"",""
+ball,2,9.5,Singapore,Vinu Kumar,GK Diviya,Afida Afthab,0,0,,,,,,"",""
+ball,2,9.6,Singapore,Vinu Kumar,GK Diviya,Afida Afthab,4,0,,,,,,"",""
+ball,2,9.7,Singapore,Vinu Kumar,GK Diviya,Afida Afthab,1,0,,,,,,"",""
+ball,2,9.8,Singapore,GK Diviya,Vinu Kumar,Afida Afthab,4,0,,,,,,"",""
+ball,2,10.1,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,1,1,,,,,"",""
+ball,2,10.2,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,0,,,,,,"",""
+ball,2,10.3,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,0,,,,,,"",""
+ball,2,10.4,Singapore,Vinu Kumar,GK Diviya,A Dcosta,4,0,,,,,,"",""
+ball,2,10.5,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,0,,,,,,"",""
+ball,2,10.6,Singapore,Vinu Kumar,GK Diviya,A Dcosta,1,0,,,,,,"",""
+ball,2,10.7,Singapore,GK Diviya,Vinu Kumar,A Dcosta,0,0,,,,,,"",""
+ball,2,11.1,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,0,0,,,,,,"",""
+ball,2,11.2,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,0,0,,,,,,"",""
+ball,2,11.3,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,0,0,,,,,,"",""
+ball,2,11.4,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,1,0,,,,,,"",""
+ball,2,11.5,Singapore,GK Diviya,Vinu Kumar,Sameera Khan,2,0,,,,,,"",""
+ball,2,11.6,Singapore,GK Diviya,Vinu Kumar,Sameera Khan,1,0,,,,,,"",""
+ball,2,12.1,Singapore,GK Diviya,Vinu Kumar,A Dcosta,1,0,,,,,,"",""
+ball,2,12.2,Singapore,Vinu Kumar,GK Diviya,A Dcosta,1,0,,,,,,"",""
+ball,2,12.3,Singapore,GK Diviya,Vinu Kumar,A Dcosta,0,0,,,,,,"",""
+ball,2,12.4,Singapore,GK Diviya,Vinu Kumar,A Dcosta,1,0,,,,,,"",""
+ball,2,12.5,Singapore,Vinu Kumar,GK Diviya,A Dcosta,2,0,,,,,,"",""
+ball,2,12.6,Singapore,Vinu Kumar,GK Diviya,A Dcosta,1,0,,,,,,"",""
+ball,2,13.1,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,1,0,,,,,,"",""
+ball,2,13.2,Singapore,GK Diviya,Vinu Kumar,Sameera Khan,1,0,,,,,,"",""
+ball,2,13.3,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,2,0,,,,,,"",""
+ball,2,13.4,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,1,0,,,,,,"",""
+ball,2,13.5,Singapore,GK Diviya,Vinu Kumar,Sameera Khan,1,0,,,,,,"",""
+ball,2,13.6,Singapore,Vinu Kumar,GK Diviya,Sameera Khan,0,0,,,,,,"",""
+ball,2,14.1,Singapore,GK Diviya,Vinu Kumar,A Dcosta,1,0,,,,,,"",""
+ball,2,14.2,Singapore,Vinu Kumar,GK Diviya,A Dcosta,4,0,,,,,,"",""
+ball,2,14.3,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,0,,,,,,"",""
+ball,2,14.4,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,0,,,,,,"",""
+ball,2,14.5,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,0,,,,,,"",""
+ball,2,14.6,Singapore,Vinu Kumar,GK Diviya,A Dcosta,0,1,1,,,,,"",""
+ball,2,14.7,Singapore,Vinu Kumar,GK Diviya,A Dcosta,1,0,,,,,,"",""
+ball,2,15.1,Singapore,Vinu Kumar,GK Diviya,PE Mendonca,0,0,,,,,,"",""
+ball,2,15.2,Singapore,Vinu Kumar,GK Diviya,PE Mendonca,0,0,,,,,,"",""
+ball,2,15.3,Singapore,Vinu Kumar,GK Diviya,PE Mendonca,1,0,,,,,,"",""
+ball,2,15.4,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,0,0,,,,,,"",""
+ball,2,15.5,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,0,1,1,,,,,"",""
+ball,2,15.6,Singapore,GK Diviya,Vinu Kumar,PE Mendonca,1,0,,,,,,"",""
+ball,2,15.7,Singapore,Vinu Kumar,GK Diviya,PE Mendonca,2,0,,,,,,"",""
+ball,2,16.1,Singapore,GK Diviya,Vinu Kumar,S Channa,1,0,,,,,,"",""
+ball,2,16.2,Singapore,Vinu Kumar,GK Diviya,S Channa,0,0,,,,,,"",""
+ball,2,16.3,Singapore,Vinu Kumar,GK Diviya,S Channa,1,0,,,,,,"",""
+ball,2,16.4,Singapore,GK Diviya,Vinu Kumar,S Channa,0,1,,,,1,,"",""
+ball,2,16.5,Singapore,Vinu Kumar,GK Diviya,S Channa,0,0,,,,,,"",""
+ball,2,16.6,Singapore,Vinu Kumar,GK Diviya,S Channa,4,1,,1,,,,"",""
+ball,2,16.7,Singapore,Vinu Kumar,GK Diviya,S Channa,0,1,1,,,,,"",""
+ball,2,16.8,Singapore,Vinu Kumar,GK Diviya,S Channa,1,0,,,,,,"",""
+ball,2,17.1,Singapore,Vinu Kumar,GK Diviya,B Shetty,0,0,,,,,,"",""
+ball,2,17.2,Singapore,Vinu Kumar,GK Diviya,B Shetty,1,0,,,,,,"",""
+ball,2,17.3,Singapore,GK Diviya,Vinu Kumar,B Shetty,0,0,,,,,,"",""
+ball,2,17.4,Singapore,GK Diviya,Vinu Kumar,B Shetty,0,0,,,,,,"",""
+ball,2,17.5,Singapore,GK Diviya,Vinu Kumar,B Shetty,1,0,,,,,,"",""
+ball,2,17.6,Singapore,Vinu Kumar,GK Diviya,B Shetty,0,1,,,1,,,"",""
+ball,2,18.1,Singapore,Vinu Kumar,GK Diviya,S Channa,0,0,,,,,,"",""
+ball,2,18.2,Singapore,Vinu Kumar,GK Diviya,S Channa,0,0,,,,,,bowled,Vinu Kumar
+ball,2,18.3,Singapore,Ada Bhasin,GK Diviya,S Channa,0,0,,,,,,"",""
+ball,2,18.4,Singapore,Ada Bhasin,GK Diviya,S Channa,0,0,,,,,,"",""
+ball,2,18.5,Singapore,Ada Bhasin,GK Diviya,S Channa,1,0,,,,,,"",""
+ball,2,18.6,Singapore,GK Diviya,Ada Bhasin,S Channa,0,0,,,,,,"",""
+ball,2,19.1,Singapore,Ada Bhasin,GK Diviya,B Shetty,0,0,,,,,,"",""
+ball,2,19.2,Singapore,Ada Bhasin,GK Diviya,B Shetty,0,1,1,,,,,"",""
+ball,2,19.3,Singapore,Ada Bhasin,GK Diviya,B Shetty,0,0,,,,,,"",""
+ball,2,19.4,Singapore,Ada Bhasin,GK Diviya,B Shetty,1,0,,,,,,"",""
+ball,2,19.5,Singapore,GK Diviya,Ada Bhasin,B Shetty,1,0,,,,,,"",""
+ball,2,19.6,Singapore,Ada Bhasin,GK Diviya,B Shetty,1,0,,,,,,"",""

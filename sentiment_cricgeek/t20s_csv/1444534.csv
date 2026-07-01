@@ -1,0 +1,331 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Germany
+info,gender,female
+info,season,2024
+info,date,2024/07/27
+info,event,Germany Women's T20I Tri-Series
+info,match_number,4
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,C Mahamalage
+info,umpire,J Flannery
+info,umpire,N Dhanawade
+info,reserve_umpire,M Jameson
+info,winner,Italy
+info,winner_runs,6
+info,player,Italy,S Malwatta
+info,player,Italy,EL Bartram
+info,player,Italy,Ilenia Sims
+info,player,Italy,K Peddrick
+info,player,Italy,C Mahamalage
+info,player,Italy,D Nanayakkara
+info,player,Italy,S Kanankege
+info,player,Italy,HA Daluwatta
+info,player,Italy,N Asuramanage
+info,player,Italy,IU Jayamannage
+info,player,Italy,LM Sims
+info,player,Germany,JE Ronalds
+info,player,Germany,CM Gough
+info,player,Germany,A Bierwisch
+info,player,Germany,A Doddaballapur
+info,player,Germany,S Sadarangani
+info,player,Germany,S Kolcharam
+info,player,Germany,K Vijayaraghavan
+info,player,Germany,A Kohli
+info,player,Germany,ST Frohnmayer
+info,player,Germany,Ashwini Balaji
+info,player,Germany,EC Bargna
+info,registry,people,A Bierwisch,b51d654f
+info,registry,people,A Doddaballapur,fe4f5d2b
+info,registry,people,A Kohli,eb9082b2
+info,registry,people,Ashwini Balaji,81283f75
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,CM Gough,f1328a90
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,EC Bargna,9908d470
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,HA Daluwatta,8bbfc744
+info,registry,people,IU Jayamannage,308d6f62
+info,registry,people,Ilenia Sims,03c98aa6
+info,registry,people,J Flannery,22431c5a
+info,registry,people,JE Ronalds,d4f98302
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,LM Sims,d2416610
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,N Asuramanage,46dff613
+info,registry,people,N Dhanawade,bc68912b
+info,registry,people,S Kanankege,01815edc
+info,registry,people,S Kolcharam,761c929e
+info,registry,people,S Malwatta,bc11f3a3
+info,registry,people,S Sadarangani,acd030a0
+info,registry,people,ST Frohnmayer,7e8bcfc1
+ball,1,0.1,Italy,S Malwatta,EL Bartram,EC Bargna,0,2,2,,,,,"",""
+ball,1,0.2,Italy,EL Bartram,S Malwatta,EC Bargna,2,0,,,,,,"",""
+ball,1,0.3,Italy,EL Bartram,S Malwatta,EC Bargna,0,0,,,,,,"",""
+ball,1,0.4,Italy,EL Bartram,S Malwatta,EC Bargna,4,0,,,,,,"",""
+ball,1,0.5,Italy,EL Bartram,S Malwatta,EC Bargna,0,0,,,,,,"",""
+ball,1,0.6,Italy,EL Bartram,S Malwatta,EC Bargna,1,0,,,,,,"",""
+ball,1,0.7,Italy,S Malwatta,EL Bartram,EC Bargna,0,0,,,,,,"",""
+ball,1,1.1,Italy,EL Bartram,S Malwatta,ST Frohnmayer,0,1,1,,,,,"",""
+ball,1,1.2,Italy,EL Bartram,S Malwatta,ST Frohnmayer,0,1,1,,,,,"",""
+ball,1,1.3,Italy,EL Bartram,S Malwatta,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,1.4,Italy,EL Bartram,S Malwatta,ST Frohnmayer,0,1,1,,,,,"",""
+ball,1,1.5,Italy,EL Bartram,S Malwatta,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,1.6,Italy,EL Bartram,S Malwatta,ST Frohnmayer,1,0,,,,,,"",""
+ball,1,1.7,Italy,S Malwatta,EL Bartram,ST Frohnmayer,2,0,,,,,,"",""
+ball,1,1.8,Italy,S Malwatta,EL Bartram,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,1.9,Italy,S Malwatta,EL Bartram,ST Frohnmayer,4,0,,,,,,"",""
+ball,1,2.1,Italy,EL Bartram,S Malwatta,EC Bargna,1,0,,,,,,"",""
+ball,1,2.2,Italy,S Malwatta,EL Bartram,EC Bargna,1,0,,,,,,"",""
+ball,1,2.3,Italy,EL Bartram,S Malwatta,EC Bargna,0,0,,,,,,lbw,EL Bartram
+ball,1,2.4,Italy,Ilenia Sims,S Malwatta,EC Bargna,0,0,,,,,,"",""
+ball,1,2.5,Italy,Ilenia Sims,S Malwatta,EC Bargna,1,0,,,,,,"",""
+ball,1,2.6,Italy,S Malwatta,Ilenia Sims,EC Bargna,0,0,,,,,,"",""
+ball,1,3.1,Italy,Ilenia Sims,S Malwatta,ST Frohnmayer,1,0,,,,,,"",""
+ball,1,3.2,Italy,S Malwatta,Ilenia Sims,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,3.3,Italy,S Malwatta,Ilenia Sims,ST Frohnmayer,0,0,,,,,,lbw,S Malwatta
+ball,1,3.4,Italy,K Peddrick,Ilenia Sims,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,3.5,Italy,K Peddrick,Ilenia Sims,ST Frohnmayer,0,0,,,,,,caught,K Peddrick
+ball,1,3.6,Italy,C Mahamalage,Ilenia Sims,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,4.1,Italy,Ilenia Sims,C Mahamalage,EC Bargna,0,1,1,,,,,"",""
+ball,1,4.2,Italy,Ilenia Sims,C Mahamalage,EC Bargna,0,0,,,,,,"",""
+ball,1,4.3,Italy,Ilenia Sims,C Mahamalage,EC Bargna,2,0,,,,,,"",""
+ball,1,4.4,Italy,Ilenia Sims,C Mahamalage,EC Bargna,4,0,,,,,,"",""
+ball,1,4.5,Italy,Ilenia Sims,C Mahamalage,EC Bargna,1,0,,,,,,"",""
+ball,1,4.6,Italy,C Mahamalage,Ilenia Sims,EC Bargna,0,0,,,,,,"",""
+ball,1,4.7,Italy,C Mahamalage,Ilenia Sims,EC Bargna,0,0,,,,,,"",""
+ball,1,5.1,Italy,Ilenia Sims,C Mahamalage,ST Frohnmayer,1,0,,,,,,"",""
+ball,1,5.2,Italy,C Mahamalage,Ilenia Sims,ST Frohnmayer,2,0,,,,,,"",""
+ball,1,5.3,Italy,C Mahamalage,Ilenia Sims,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,5.4,Italy,C Mahamalage,Ilenia Sims,ST Frohnmayer,1,0,,,,,,"",""
+ball,1,5.5,Italy,Ilenia Sims,C Mahamalage,ST Frohnmayer,1,0,,,,,,"",""
+ball,1,5.6,Italy,C Mahamalage,Ilenia Sims,ST Frohnmayer,0,0,,,,,,"",""
+ball,1,6.1,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,0,0,,,,,,"",""
+ball,1,6.2,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,1,0,,,,,,"",""
+ball,1,6.3,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,1,0,,,,,,"",""
+ball,1,6.4,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,0,0,,,,,,"",""
+ball,1,6.5,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,0,0,,,,,,"",""
+ball,1,6.6,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,1,0,,,,,,"",""
+ball,1,7.1,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,1,7.2,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,1,0,,,,,,"",""
+ball,1,7.3,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,1,7.4,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,0,0,,,,,,"",""
+ball,1,7.5,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,1,0,,,,,,"",""
+ball,1,7.6,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,0,0,,,,,,"",""
+ball,1,8.1,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,4,0,,,,,,"",""
+ball,1,8.2,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,0,0,,,,,,"",""
+ball,1,8.3,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,1,0,,,,,,"",""
+ball,1,8.4,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,1,0,,,,,,"",""
+ball,1,8.5,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,0,0,,,,,,"",""
+ball,1,8.6,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,2,0,,,,,,"",""
+ball,1,9.1,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,1,9.2,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,0,0,,,,,,"",""
+ball,1,9.3,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,0,0,,,,,,"",""
+ball,1,9.4,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,0,0,,,,,,"",""
+ball,1,9.5,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,1,0,,,,,,"",""
+ball,1,9.6,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,1,10.1,Italy,Ilenia Sims,C Mahamalage,A Kohli,0,0,,,,,,"",""
+ball,1,10.2,Italy,Ilenia Sims,C Mahamalage,A Kohli,0,1,,1,,,,"",""
+ball,1,10.3,Italy,Ilenia Sims,C Mahamalage,A Kohli,0,0,,,,,,"",""
+ball,1,10.4,Italy,Ilenia Sims,C Mahamalage,A Kohli,0,0,,,,,,"",""
+ball,1,10.5,Italy,Ilenia Sims,C Mahamalage,A Kohli,2,0,,,,,,"",""
+ball,1,10.6,Italy,Ilenia Sims,C Mahamalage,A Kohli,0,0,,,,,,"",""
+ball,1,10.7,Italy,Ilenia Sims,C Mahamalage,A Kohli,1,0,,,,,,"",""
+ball,1,11.1,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,0,0,,,,,,"",""
+ball,1,11.2,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,0,0,,,,,,"",""
+ball,1,11.3,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,0,0,,,,,,"",""
+ball,1,11.4,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,0,0,,,,,,"",""
+ball,1,11.5,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,1,11.6,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,1,0,,,,,,"",""
+ball,1,12.1,Italy,C Mahamalage,Ilenia Sims,A Kohli,1,1,,1,,,,"",""
+ball,1,12.2,Italy,Ilenia Sims,C Mahamalage,A Kohli,1,0,,,,,,"",""
+ball,1,12.3,Italy,C Mahamalage,Ilenia Sims,A Kohli,2,0,,,,,,"",""
+ball,1,12.4,Italy,C Mahamalage,Ilenia Sims,A Kohli,0,0,,,,,,"",""
+ball,1,12.5,Italy,C Mahamalage,Ilenia Sims,A Kohli,0,0,,,,,,"",""
+ball,1,12.6,Italy,C Mahamalage,Ilenia Sims,A Kohli,0,0,,,,,,"",""
+ball,1,12.7,Italy,C Mahamalage,Ilenia Sims,A Kohli,1,0,,,,,,"",""
+ball,1,13.1,Italy,C Mahamalage,Ilenia Sims,CM Gough,0,0,,,,,,"",""
+ball,1,13.2,Italy,C Mahamalage,Ilenia Sims,CM Gough,1,0,,,,,,"",""
+ball,1,13.3,Italy,Ilenia Sims,C Mahamalage,CM Gough,0,0,,,,,,"",""
+ball,1,13.4,Italy,Ilenia Sims,C Mahamalage,CM Gough,0,0,,,,,,"",""
+ball,1,13.5,Italy,Ilenia Sims,C Mahamalage,CM Gough,0,0,,,,,,"",""
+ball,1,13.6,Italy,Ilenia Sims,C Mahamalage,CM Gough,0,1,1,,,,,"",""
+ball,1,13.7,Italy,Ilenia Sims,C Mahamalage,CM Gough,4,0,,,,,,"",""
+ball,1,14.1,Italy,C Mahamalage,Ilenia Sims,A Kohli,1,0,,,,,,"",""
+ball,1,14.2,Italy,Ilenia Sims,C Mahamalage,A Kohli,1,0,,,,,,"",""
+ball,1,14.3,Italy,C Mahamalage,Ilenia Sims,A Kohli,1,0,,,,,,"",""
+ball,1,14.4,Italy,Ilenia Sims,C Mahamalage,A Kohli,4,0,,,,,,"",""
+ball,1,14.5,Italy,Ilenia Sims,C Mahamalage,A Kohli,4,0,,,,,,"",""
+ball,1,14.6,Italy,Ilenia Sims,C Mahamalage,A Kohli,1,0,,,,,,"",""
+ball,1,15.1,Italy,Ilenia Sims,C Mahamalage,CM Gough,2,0,,,,,,"",""
+ball,1,15.2,Italy,Ilenia Sims,C Mahamalage,CM Gough,1,0,,,,,,"",""
+ball,1,15.3,Italy,C Mahamalage,Ilenia Sims,CM Gough,1,0,,,,,,"",""
+ball,1,15.4,Italy,Ilenia Sims,C Mahamalage,CM Gough,2,0,,,,,,"",""
+ball,1,15.5,Italy,Ilenia Sims,C Mahamalage,CM Gough,1,0,,,,,,"",""
+ball,1,15.6,Italy,C Mahamalage,Ilenia Sims,CM Gough,1,0,,,,,,"",""
+ball,1,16.1,Italy,C Mahamalage,Ilenia Sims,EC Bargna,0,0,,,,,,"",""
+ball,1,16.2,Italy,C Mahamalage,Ilenia Sims,EC Bargna,1,0,,,,,,"",""
+ball,1,16.3,Italy,Ilenia Sims,C Mahamalage,EC Bargna,0,0,,,,,,"",""
+ball,1,16.4,Italy,Ilenia Sims,C Mahamalage,EC Bargna,1,0,,,,,,"",""
+ball,1,16.5,Italy,C Mahamalage,Ilenia Sims,EC Bargna,1,0,,,,,,"",""
+ball,1,16.6,Italy,Ilenia Sims,C Mahamalage,EC Bargna,3,0,,,,,,"",""
+ball,1,17.1,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,1,0,,,,,,"",""
+ball,1,17.2,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,1,0,,,,,,"",""
+ball,1,17.3,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,1,0,,,,,,"",""
+ball,1,17.4,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,0,0,,,,,,"",""
+ball,1,17.5,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,2,0,,,,,,"",""
+ball,1,17.6,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,1,0,,,,,,"",""
+ball,1,18.1,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,2,0,,,,,,"",""
+ball,1,18.2,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,1,0,,,,,,"",""
+ball,1,18.3,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,2,0,,,,,,"",""
+ball,1,18.4,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,1,18.5,Italy,C Mahamalage,Ilenia Sims,A Doddaballapur,1,0,,,,,,"",""
+ball,1,18.6,Italy,Ilenia Sims,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,1,19.1,Italy,Ilenia Sims,C Mahamalage,JE Ronalds,1,0,,,,,,"",""
+ball,1,19.2,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,2,0,,,,,,"",""
+ball,1,19.3,Italy,C Mahamalage,Ilenia Sims,JE Ronalds,0,0,,,,,,stumped,C Mahamalage
+ball,1,19.4,Italy,D Nanayakkara,Ilenia Sims,JE Ronalds,4,0,,,,,,"",""
+ball,1,19.5,Italy,D Nanayakkara,Ilenia Sims,JE Ronalds,0,0,,,,,,lbw,D Nanayakkara
+ball,1,19.6,Italy,S Kanankege,Ilenia Sims,JE Ronalds,0,0,,,,,,"",""
+ball,2,0.1,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,1,1,,,,,"",""
+ball,2,0.2,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,1,1,,,,,"",""
+ball,2,0.3,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,0,,,,,,"",""
+ball,2,0.4,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,0,,,,,,"",""
+ball,2,0.5,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,0,,,,,,"",""
+ball,2,0.6,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,0,,,,,,"",""
+ball,2,0.7,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,2,2,,,,,"",""
+ball,2,0.8,Germany,CM Gough,JE Ronalds,HA Daluwatta,0,1,1,,,,,"",""
+ball,2,0.9,Germany,CM Gough,JE Ronalds,HA Daluwatta,0,1,1,,,,,"",""
+ball,2,0.10,Germany,CM Gough,JE Ronalds,HA Daluwatta,0,1,1,,,,,"",""
+ball,2,0.11,Germany,CM Gough,JE Ronalds,HA Daluwatta,1,0,,,,,,"",""
+ball,2,0.12,Germany,JE Ronalds,CM Gough,HA Daluwatta,4,1,,1,,,,"",""
+ball,2,0.13,Germany,JE Ronalds,CM Gough,HA Daluwatta,0,0,,,,,,"",""
+ball,2,1.1,Germany,CM Gough,JE Ronalds,K Peddrick,1,0,,,,,,"",""
+ball,2,1.2,Germany,JE Ronalds,CM Gough,K Peddrick,1,0,,,,,,"",""
+ball,2,1.3,Germany,CM Gough,JE Ronalds,K Peddrick,1,0,,,,,,"",""
+ball,2,1.4,Germany,JE Ronalds,CM Gough,K Peddrick,0,2,2,,,,,"",""
+ball,2,1.5,Germany,CM Gough,JE Ronalds,K Peddrick,0,1,1,,,,,"",""
+ball,2,1.6,Germany,CM Gough,JE Ronalds,K Peddrick,0,0,,,,,,"",""
+ball,2,1.7,Germany,CM Gough,JE Ronalds,K Peddrick,0,1,1,,,,,"",""
+ball,2,1.8,Germany,CM Gough,JE Ronalds,K Peddrick,0,0,,,,,,"",""
+ball,2,1.9,Germany,CM Gough,JE Ronalds,K Peddrick,2,0,,,,,,"",""
+ball,2,2.1,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,2.2,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,2.3,Germany,JE Ronalds,CM Gough,S Kanankege,1,0,,,,,,"",""
+ball,2,2.4,Germany,CM Gough,JE Ronalds,S Kanankege,1,0,,,,,,"",""
+ball,2,2.5,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,2.6,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,3.1,Germany,CM Gough,JE Ronalds,K Peddrick,0,0,,,,,,"",""
+ball,2,3.2,Germany,CM Gough,JE Ronalds,K Peddrick,1,0,,,,,,"",""
+ball,2,3.3,Germany,JE Ronalds,CM Gough,K Peddrick,0,0,,,,,,"",""
+ball,2,3.4,Germany,JE Ronalds,CM Gough,K Peddrick,0,0,,,,,,"",""
+ball,2,3.5,Germany,JE Ronalds,CM Gough,K Peddrick,0,0,,,,,,"",""
+ball,2,3.6,Germany,JE Ronalds,CM Gough,K Peddrick,1,0,,,,,,"",""
+ball,2,4.1,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,4.2,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,4.3,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,4.4,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,4.5,Germany,JE Ronalds,CM Gough,S Kanankege,1,0,,,,,,"",""
+ball,2,4.6,Germany,CM Gough,JE Ronalds,S Kanankege,1,0,,,,,,"",""
+ball,2,5.1,Germany,CM Gough,JE Ronalds,K Peddrick,1,1,,1,,,,"",""
+ball,2,5.2,Germany,JE Ronalds,CM Gough,K Peddrick,0,0,,,,,,"",""
+ball,2,5.3,Germany,JE Ronalds,CM Gough,K Peddrick,1,0,,,,,,"",""
+ball,2,5.4,Germany,CM Gough,JE Ronalds,K Peddrick,0,0,,,,,,"",""
+ball,2,5.5,Germany,CM Gough,JE Ronalds,K Peddrick,0,0,,,,,,"",""
+ball,2,5.6,Germany,CM Gough,JE Ronalds,K Peddrick,0,1,,,1,,,"",""
+ball,2,5.7,Germany,JE Ronalds,CM Gough,K Peddrick,0,0,,,,,,"",""
+ball,2,6.1,Germany,CM Gough,JE Ronalds,S Kanankege,0,0,,,,,,"",""
+ball,2,6.2,Germany,CM Gough,JE Ronalds,S Kanankege,0,0,,,,,,"",""
+ball,2,6.3,Germany,CM Gough,JE Ronalds,S Kanankege,1,0,,,,,,"",""
+ball,2,6.4,Germany,JE Ronalds,CM Gough,S Kanankege,1,0,,,,,,"",""
+ball,2,6.5,Germany,CM Gough,JE Ronalds,S Kanankege,1,1,,1,,,,"",""
+ball,2,6.6,Germany,JE Ronalds,CM Gough,S Kanankege,0,0,,,,,,"",""
+ball,2,6.7,Germany,JE Ronalds,CM Gough,S Kanankege,0,1,,1,,,,"",""
+ball,2,6.8,Germany,JE Ronalds,CM Gough,S Kanankege,1,0,,,,,,"",""
+ball,2,7.1,Germany,JE Ronalds,CM Gough,K Peddrick,1,0,,,,,,"",""
+ball,2,7.2,Germany,CM Gough,JE Ronalds,K Peddrick,0,0,,,,,,"",""
+ball,2,7.3,Germany,CM Gough,JE Ronalds,K Peddrick,1,0,,,,,,"",""
+ball,2,7.4,Germany,JE Ronalds,CM Gough,K Peddrick,4,0,,,,,,"",""
+ball,2,7.5,Germany,JE Ronalds,CM Gough,K Peddrick,1,0,,,,,,"",""
+ball,2,7.6,Germany,CM Gough,JE Ronalds,K Peddrick,0,0,,,,,,"",""
+ball,2,8.1,Germany,JE Ronalds,CM Gough,LM Sims,0,0,,,,,,"",""
+ball,2,8.2,Germany,JE Ronalds,CM Gough,LM Sims,1,0,,,,,,"",""
+ball,2,8.3,Germany,CM Gough,JE Ronalds,LM Sims,0,0,,,,,,"",""
+ball,2,8.4,Germany,CM Gough,JE Ronalds,LM Sims,0,0,,,,,,"",""
+ball,2,8.5,Germany,CM Gough,JE Ronalds,LM Sims,0,0,,,,,,"",""
+ball,2,8.6,Germany,CM Gough,JE Ronalds,LM Sims,1,0,,,,,,"",""
+ball,2,9.1,Germany,CM Gough,JE Ronalds,D Nanayakkara,1,0,,,,,,"",""
+ball,2,9.2,Germany,JE Ronalds,CM Gough,D Nanayakkara,1,0,,,,,,"",""
+ball,2,9.3,Germany,CM Gough,JE Ronalds,D Nanayakkara,2,0,,,,,,"",""
+ball,2,9.4,Germany,CM Gough,JE Ronalds,D Nanayakkara,1,0,,,,,,"",""
+ball,2,9.5,Germany,JE Ronalds,CM Gough,D Nanayakkara,1,0,,,,,,"",""
+ball,2,9.6,Germany,CM Gough,JE Ronalds,D Nanayakkara,1,0,,,,,,"",""
+ball,2,10.1,Germany,CM Gough,JE Ronalds,LM Sims,6,0,,,,,,"",""
+ball,2,10.2,Germany,CM Gough,JE Ronalds,LM Sims,2,0,,,,,,"",""
+ball,2,10.3,Germany,CM Gough,JE Ronalds,LM Sims,0,0,,,,,,"",""
+ball,2,10.4,Germany,CM Gough,JE Ronalds,LM Sims,1,0,,,,,,"",""
+ball,2,10.5,Germany,JE Ronalds,CM Gough,LM Sims,0,0,,,,,,"",""
+ball,2,10.6,Germany,JE Ronalds,CM Gough,LM Sims,0,1,,,1,,,"",""
+ball,2,11.1,Germany,JE Ronalds,CM Gough,D Nanayakkara,1,0,,,,,,"",""
+ball,2,11.2,Germany,CM Gough,JE Ronalds,D Nanayakkara,2,0,,,,,,"",""
+ball,2,11.3,Germany,CM Gough,JE Ronalds,D Nanayakkara,1,0,,,,,,"",""
+ball,2,11.4,Germany,JE Ronalds,CM Gough,D Nanayakkara,1,0,,,,,,"",""
+ball,2,11.5,Germany,CM Gough,JE Ronalds,D Nanayakkara,2,0,,,,,,"",""
+ball,2,11.6,Germany,CM Gough,JE Ronalds,D Nanayakkara,1,0,,,,,,"",""
+ball,2,12.1,Germany,CM Gough,JE Ronalds,EL Bartram,0,1,1,,,,,"",""
+ball,2,12.2,Germany,CM Gough,JE Ronalds,EL Bartram,0,0,,,,,,"",""
+ball,2,12.3,Germany,CM Gough,JE Ronalds,EL Bartram,1,0,,,,,,"",""
+ball,2,12.4,Germany,JE Ronalds,CM Gough,EL Bartram,2,0,,,,,,"",""
+ball,2,12.5,Germany,JE Ronalds,CM Gough,EL Bartram,1,0,,,,,,"",""
+ball,2,12.6,Germany,CM Gough,JE Ronalds,EL Bartram,1,0,,,,,,"",""
+ball,2,12.7,Germany,JE Ronalds,CM Gough,EL Bartram,1,0,,,,,,"",""
+ball,2,13.1,Germany,JE Ronalds,CM Gough,C Mahamalage,0,0,,,,,,"",""
+ball,2,13.2,Germany,JE Ronalds,CM Gough,C Mahamalage,1,0,,,,,,"",""
+ball,2,13.3,Germany,CM Gough,JE Ronalds,C Mahamalage,1,0,,,,,,"",""
+ball,2,13.4,Germany,JE Ronalds,CM Gough,C Mahamalage,1,0,,,,,,"",""
+ball,2,13.5,Germany,CM Gough,JE Ronalds,C Mahamalage,1,0,,,,,,"",""
+ball,2,13.6,Germany,JE Ronalds,CM Gough,C Mahamalage,0,1,1,,,,,"",""
+ball,2,13.7,Germany,JE Ronalds,CM Gough,C Mahamalage,0,0,,,,,,"",""
+ball,2,14.1,Germany,CM Gough,JE Ronalds,EL Bartram,4,0,,,,,,"",""
+ball,2,14.2,Germany,CM Gough,JE Ronalds,EL Bartram,0,1,,,,1,,"",""
+ball,2,14.3,Germany,JE Ronalds,CM Gough,EL Bartram,2,0,,,,,,"",""
+ball,2,14.4,Germany,JE Ronalds,CM Gough,EL Bartram,0,0,,,,,,"",""
+ball,2,14.5,Germany,JE Ronalds,CM Gough,EL Bartram,0,0,,,,,,"",""
+ball,2,14.6,Germany,JE Ronalds,CM Gough,EL Bartram,0,0,,,,,,"",""
+ball,2,15.1,Germany,CM Gough,JE Ronalds,C Mahamalage,4,0,,,,,,"",""
+ball,2,15.2,Germany,CM Gough,JE Ronalds,C Mahamalage,0,0,,,,,,"",""
+ball,2,15.3,Germany,CM Gough,JE Ronalds,C Mahamalage,1,0,,,,,,"",""
+ball,2,15.4,Germany,JE Ronalds,CM Gough,C Mahamalage,0,0,,,,,,"",""
+ball,2,15.5,Germany,JE Ronalds,CM Gough,C Mahamalage,0,0,,,,,,"",""
+ball,2,15.6,Germany,JE Ronalds,CM Gough,C Mahamalage,3,0,,,,,,"",""
+ball,2,16.1,Germany,JE Ronalds,CM Gough,EL Bartram,0,0,,,,,,"",""
+ball,2,16.2,Germany,JE Ronalds,CM Gough,EL Bartram,1,0,,,,,,"",""
+ball,2,16.3,Germany,CM Gough,JE Ronalds,EL Bartram,0,0,,,,,,lbw,CM Gough
+ball,2,16.4,Germany,A Bierwisch,JE Ronalds,EL Bartram,0,0,,,,,,"",""
+ball,2,16.5,Germany,A Bierwisch,JE Ronalds,EL Bartram,0,0,,,,,,"",""
+ball,2,16.6,Germany,A Bierwisch,JE Ronalds,EL Bartram,1,0,,,,,,"",""
+ball,2,17.1,Germany,A Bierwisch,JE Ronalds,C Mahamalage,0,0,,,,,,bowled,A Bierwisch
+ball,2,17.2,Germany,A Doddaballapur,JE Ronalds,C Mahamalage,0,1,1,,,,,"",""
+ball,2,17.3,Germany,A Doddaballapur,JE Ronalds,C Mahamalage,0,0,,,,,,"",""
+ball,2,17.4,Germany,A Doddaballapur,JE Ronalds,C Mahamalage,0,1,1,,,,,"",""
+ball,2,17.5,Germany,A Doddaballapur,JE Ronalds,C Mahamalage,0,0,,,,,,caught,A Doddaballapur
+ball,2,17.6,Germany,S Sadarangani,JE Ronalds,C Mahamalage,0,0,,,,,,caught,S Sadarangani
+ball,2,17.7,Germany,S Kolcharam,JE Ronalds,C Mahamalage,0,0,,,,,,"",""
+ball,2,17.8,Germany,S Kolcharam,JE Ronalds,C Mahamalage,0,0,,,,,,"",""
+ball,2,18.1,Germany,JE Ronalds,S Kolcharam,EL Bartram,0,2,,,,2,,"",""
+ball,2,18.2,Germany,JE Ronalds,S Kolcharam,EL Bartram,0,0,,,,,,"",""
+ball,2,18.3,Germany,JE Ronalds,S Kolcharam,EL Bartram,1,0,,,,,,"",""
+ball,2,18.4,Germany,S Kolcharam,JE Ronalds,EL Bartram,0,0,,,,,,"",""
+ball,2,18.5,Germany,S Kolcharam,JE Ronalds,EL Bartram,2,0,,,,,,"",""
+ball,2,18.6,Germany,S Kolcharam,JE Ronalds,EL Bartram,2,0,,,,,,"",""
+ball,2,19.1,Germany,JE Ronalds,S Kolcharam,C Mahamalage,0,0,,,,,,"",""
+ball,2,19.2,Germany,JE Ronalds,S Kolcharam,C Mahamalage,2,0,,,,,,"",""
+ball,2,19.3,Germany,JE Ronalds,S Kolcharam,C Mahamalage,0,0,,,,,,caught,JE Ronalds
+ball,2,19.4,Germany,K Vijayaraghavan,S Kolcharam,C Mahamalage,0,0,,,,,,"",""
+ball,2,19.5,Germany,K Vijayaraghavan,S Kolcharam,C Mahamalage,0,1,,,,1,,"",""
+ball,2,19.6,Germany,S Kolcharam,K Vijayaraghavan,C Mahamalage,0,0,,,,,,"",""

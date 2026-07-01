@@ -1,0 +1,169 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2017/18
+info,date,2017/11/07
+info,event,New Zealand tour of India
+info,match_number,3
+info,venue,Greenfield International Stadium
+info,city,Thiruvananthapuram
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,JJ Bumrah
+info,umpire,AK Chaudhary
+info,umpire,Nitin Menon
+info,reserve_umpire,C Shamshuddin
+info,tv_umpire,CK Nandan
+info,match_referee,BC Broad
+info,winner,India
+info,winner_runs,6
+info,player,India,RG Sharma
+info,player,India,S Dhawan
+info,player,India,V Kohli
+info,player,India,SS Iyer
+info,player,India,MK Pandey
+info,player,India,HH Pandya
+info,player,India,MS Dhoni
+info,player,India,B Kumar
+info,player,India,JJ Bumrah
+info,player,India,Kuldeep Yadav
+info,player,India,YS Chahal
+info,player,New Zealand,MJ Guptill
+info,player,New Zealand,C Munro
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,C de Grandhomme
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,TC Bruce
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,TA Boult
+info,player,New Zealand,TG Southee
+info,player,New Zealand,IS Sodhi
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,C Munro,af2c687b
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,V Kohli,ba607b88
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,India,RG Sharma,S Dhawan,TA Boult,1,0,,,,,,"",""
+ball,1,0.2,India,S Dhawan,RG Sharma,TA Boult,0,0,,,,,,"",""
+ball,1,0.3,India,S Dhawan,RG Sharma,TA Boult,0,0,,,,,,"",""
+ball,1,0.4,India,S Dhawan,RG Sharma,TA Boult,2,0,,,,,,"",""
+ball,1,0.5,India,S Dhawan,RG Sharma,TA Boult,4,0,,,,,,"",""
+ball,1,0.6,India,S Dhawan,RG Sharma,TA Boult,0,0,,,,,,"",""
+ball,1,1.1,India,RG Sharma,S Dhawan,MJ Santner,0,0,,,,,,"",""
+ball,1,1.2,India,RG Sharma,S Dhawan,MJ Santner,2,0,,,,,,"",""
+ball,1,1.3,India,RG Sharma,S Dhawan,MJ Santner,0,0,,,,,,"",""
+ball,1,1.4,India,RG Sharma,S Dhawan,MJ Santner,4,0,,,,,,"",""
+ball,1,1.5,India,RG Sharma,S Dhawan,MJ Santner,0,0,,,,,,"",""
+ball,1,1.6,India,RG Sharma,S Dhawan,MJ Santner,0,1,,,,1,,"",""
+ball,1,2.1,India,RG Sharma,S Dhawan,TG Southee,1,0,,,,,,"",""
+ball,1,2.2,India,S Dhawan,RG Sharma,TG Southee,0,0,,,,,,caught,S Dhawan
+ball,1,2.3,India,RG Sharma,V Kohli,TG Southee,0,0,,,,,,caught,RG Sharma
+ball,1,2.4,India,V Kohli,SS Iyer,TG Southee,1,0,,,,,,"",""
+ball,1,2.5,India,SS Iyer,V Kohli,TG Southee,1,0,,,,,,"",""
+ball,1,2.6,India,V Kohli,SS Iyer,TG Southee,1,0,,,,,,"",""
+ball,1,3.1,India,V Kohli,SS Iyer,IS Sodhi,4,0,,,,,,"",""
+ball,1,3.2,India,V Kohli,SS Iyer,IS Sodhi,6,0,,,,,,"",""
+ball,1,3.3,India,V Kohli,SS Iyer,IS Sodhi,1,0,,,,,,"",""
+ball,1,3.4,India,SS Iyer,V Kohli,IS Sodhi,1,0,,,,,,"",""
+ball,1,3.5,India,V Kohli,SS Iyer,IS Sodhi,0,0,,,,,,caught,V Kohli
+ball,1,3.6,India,MK Pandey,SS Iyer,IS Sodhi,1,0,,,,,,"",""
+ball,1,4.1,India,MK Pandey,SS Iyer,TG Southee,4,0,,,,,,"",""
+ball,1,4.2,India,MK Pandey,SS Iyer,TG Southee,0,0,,,,,,"",""
+ball,1,4.3,India,MK Pandey,SS Iyer,TG Southee,1,0,,,,,,"",""
+ball,1,4.4,India,SS Iyer,MK Pandey,TG Southee,0,0,,,,,,"",""
+ball,1,4.5,India,SS Iyer,MK Pandey,TG Southee,2,0,,,,,,"",""
+ball,1,4.6,India,SS Iyer,MK Pandey,TG Southee,2,0,,,,,,"",""
+ball,1,5.1,India,MK Pandey,SS Iyer,IS Sodhi,0,1,1,,,,,"",""
+ball,1,5.2,India,MK Pandey,SS Iyer,IS Sodhi,6,0,,,,,,"",""
+ball,1,5.3,India,MK Pandey,SS Iyer,IS Sodhi,0,0,,,,,,"",""
+ball,1,5.4,India,MK Pandey,SS Iyer,IS Sodhi,1,0,,,,,,"",""
+ball,1,5.5,India,SS Iyer,MK Pandey,IS Sodhi,0,0,,,,,,caught,SS Iyer
+ball,1,5.6,India,MK Pandey,HH Pandya,IS Sodhi,1,0,,,,,,"",""
+ball,1,5.7,India,HH Pandya,MK Pandey,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.1,India,HH Pandya,MK Pandey,MJ Santner,0,0,,,,,,"",""
+ball,1,6.2,India,HH Pandya,MK Pandey,MJ Santner,1,0,,,,,,"",""
+ball,1,6.3,India,MK Pandey,HH Pandya,MJ Santner,2,0,,,,,,"",""
+ball,1,6.4,India,MK Pandey,HH Pandya,MJ Santner,1,0,,,,,,"",""
+ball,1,6.5,India,HH Pandya,MK Pandey,MJ Santner,6,0,,,,,,"",""
+ball,1,6.6,India,HH Pandya,MK Pandey,MJ Santner,0,1,,,,1,,"",""
+ball,1,7.1,India,HH Pandya,MK Pandey,TA Boult,1,0,,,,,,"",""
+ball,1,7.2,India,MK Pandey,HH Pandya,TA Boult,0,0,,,,,,caught,MK Pandey
+ball,1,7.3,India,HH Pandya,MS Dhoni,TA Boult,2,0,,,,,,"",""
+ball,1,7.4,India,HH Pandya,MS Dhoni,TA Boult,2,0,,,,,,"",""
+ball,1,7.5,India,HH Pandya,MS Dhoni,TA Boult,0,0,,,,,,"",""
+ball,1,7.6,India,HH Pandya,MS Dhoni,TA Boult,1,0,,,,,,"",""
+ball,2,0.1,New Zealand,MJ Guptill,C Munro,B Kumar,1,0,,,,,,"",""
+ball,2,0.2,New Zealand,C Munro,MJ Guptill,B Kumar,6,0,,,,,,"",""
+ball,2,0.3,New Zealand,C Munro,MJ Guptill,B Kumar,0,0,,,,,,"",""
+ball,2,0.4,New Zealand,C Munro,MJ Guptill,B Kumar,1,0,,,,,,"",""
+ball,2,0.5,New Zealand,MJ Guptill,C Munro,B Kumar,0,0,,,,,,"",""
+ball,2,0.6,New Zealand,MJ Guptill,C Munro,B Kumar,0,0,,,,,,bowled,MJ Guptill
+ball,2,1.1,New Zealand,C Munro,KS Williamson,JJ Bumrah,0,0,,,,,,"",""
+ball,2,1.2,New Zealand,C Munro,KS Williamson,JJ Bumrah,0,0,,,,,,"",""
+ball,2,1.3,New Zealand,C Munro,KS Williamson,JJ Bumrah,0,0,,,,,,caught,C Munro
+ball,2,1.4,New Zealand,KS Williamson,GD Phillips,JJ Bumrah,1,0,,,,,,"",""
+ball,2,1.5,New Zealand,GD Phillips,KS Williamson,JJ Bumrah,0,1,,,,1,,"",""
+ball,2,1.6,New Zealand,KS Williamson,GD Phillips,JJ Bumrah,1,0,,,,,,"",""
+ball,2,2.1,New Zealand,KS Williamson,GD Phillips,YS Chahal,0,0,,,,,,"",""
+ball,2,2.2,New Zealand,KS Williamson,GD Phillips,YS Chahal,2,0,,,,,,"",""
+ball,2,2.3,New Zealand,KS Williamson,GD Phillips,YS Chahal,0,0,,,,,,"",""
+ball,2,2.4,New Zealand,KS Williamson,GD Phillips,YS Chahal,1,0,,,,,,"",""
+ball,2,2.5,New Zealand,GD Phillips,KS Williamson,YS Chahal,0,0,,,,,,"",""
+ball,2,2.6,New Zealand,GD Phillips,KS Williamson,YS Chahal,2,0,,,,,,"",""
+ball,2,3.1,New Zealand,KS Williamson,GD Phillips,B Kumar,1,0,,,,,,"",""
+ball,2,3.2,New Zealand,KS Williamson,GD Phillips,B Kumar,1,0,,,,,,"",""
+ball,2,3.3,New Zealand,GD Phillips,KS Williamson,B Kumar,0,0,,,,,,"",""
+ball,2,3.4,New Zealand,GD Phillips,KS Williamson,B Kumar,4,0,,,,,,"",""
+ball,2,3.5,New Zealand,GD Phillips,KS Williamson,B Kumar,4,0,,,,,,"",""
+ball,2,3.6,New Zealand,GD Phillips,KS Williamson,B Kumar,0,0,,,,,,"",""
+ball,2,4.1,New Zealand,KS Williamson,GD Phillips,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,4.2,New Zealand,GD Phillips,KS Williamson,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,4.3,New Zealand,KS Williamson,GD Phillips,Kuldeep Yadav,0,0,,,,,,run out,KS Williamson
+ball,2,4.4,New Zealand,GD Phillips,C de Grandhomme,Kuldeep Yadav,0,0,,,,,,caught,GD Phillips
+ball,2,4.5,New Zealand,C de Grandhomme,HM Nicholls,Kuldeep Yadav,2,0,,,,,,"",""
+ball,2,4.6,New Zealand,C de Grandhomme,HM Nicholls,Kuldeep Yadav,6,0,,,,,,"",""
+ball,2,5.1,New Zealand,HM Nicholls,C de Grandhomme,YS Chahal,1,0,,,,,,"",""
+ball,2,5.2,New Zealand,C de Grandhomme,HM Nicholls,YS Chahal,0,0,,,,,,"",""
+ball,2,5.3,New Zealand,C de Grandhomme,HM Nicholls,YS Chahal,0,0,,,,,,"",""
+ball,2,5.4,New Zealand,C de Grandhomme,HM Nicholls,YS Chahal,1,0,,,,,,"",""
+ball,2,5.5,New Zealand,HM Nicholls,C de Grandhomme,YS Chahal,0,0,,,,,,"",""
+ball,2,5.6,New Zealand,HM Nicholls,C de Grandhomme,YS Chahal,1,0,,,,,,"",""
+ball,2,6.1,New Zealand,HM Nicholls,C de Grandhomme,JJ Bumrah,0,0,,,,,,caught,HM Nicholls
+ball,2,6.2,New Zealand,C de Grandhomme,TC Bruce,JJ Bumrah,1,0,,,,,,"",""
+ball,2,6.3,New Zealand,TC Bruce,C de Grandhomme,JJ Bumrah,4,0,,,,,,"",""
+ball,2,6.4,New Zealand,TC Bruce,C de Grandhomme,JJ Bumrah,0,2,2,,,,,"",""
+ball,2,6.5,New Zealand,C de Grandhomme,TC Bruce,JJ Bumrah,0,1,,,1,,,"",""
+ball,2,6.6,New Zealand,TC Bruce,C de Grandhomme,JJ Bumrah,0,1,,,1,,,run out,TC Bruce
+ball,2,6.7,New Zealand,MJ Santner,C de Grandhomme,JJ Bumrah,0,1,,,1,,,"",""
+ball,2,7.1,New Zealand,MJ Santner,C de Grandhomme,HH Pandya,0,1,,,1,,,"",""
+ball,2,7.2,New Zealand,C de Grandhomme,MJ Santner,HH Pandya,0,0,,,,,,"",""
+ball,2,7.3,New Zealand,C de Grandhomme,MJ Santner,HH Pandya,6,0,,,,,,"",""
+ball,2,7.4,New Zealand,C de Grandhomme,MJ Santner,HH Pandya,0,1,1,,,,,"",""
+ball,2,7.5,New Zealand,C de Grandhomme,MJ Santner,HH Pandya,1,0,,,,,,"",""
+ball,2,7.6,New Zealand,MJ Santner,C de Grandhomme,HH Pandya,2,0,,,,,,"",""
+ball,2,7.7,New Zealand,MJ Santner,C de Grandhomme,HH Pandya,1,0,,,,,,"",""

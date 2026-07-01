@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Belgium
+info,gender,male
+info,season,2024
+info,date,2024/07/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,10
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Belgium
+info,toss_decision,field
+info,player_of_match,B Ward
+info,umpire,M Burns
+info,umpire,Rizwan Akram
+info,reserve_umpire,M Jameson
+info,match_referee,H Pack
+info,winner,Jersey
+info,winner_runs,108
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,AM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,ZM Tribe
+info,player,Jersey,C Brennan
+info,player,Jersey,B Ward
+info,player,Jersey,J Sumerauer
+info,player,Jersey,CW Perchard
+info,player,Jersey,JE Dunford
+info,player,Jersey,D Birrell
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,Aziz Mohammad
+info,player,Belgium,A Raza
+info,player,Belgium,B Niaz
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,D Dewald
+info,player,Belgium,Sajad Ahmadzai
+info,player,Belgium,Muhammad Fahim
+info,registry,people,A Raza,838bc6ab
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,Aziz Mohammad,b3e9555a
+info,registry,people,B Niaz,b7824537
+info,registry,people,B Ward,9e0bd203
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,D Dewald,f97e4db3
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,H Pack,fed53c91
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,Muhammad Fahim,5c57229d
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sajad Ahmadzai,6978bff0
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,ZM Tribe,96fe3e9f
+ball,1,0.1,Jersey,H Carlyon,NA Greenwood,Muhammad Fahim,2,0,,,,,,"",""
+ball,1,0.2,Jersey,H Carlyon,NA Greenwood,Muhammad Fahim,0,0,,,,,,"",""
+ball,1,0.3,Jersey,H Carlyon,NA Greenwood,Muhammad Fahim,1,0,,,,,,"",""
+ball,1,0.4,Jersey,NA Greenwood,H Carlyon,Muhammad Fahim,1,0,,,,,,"",""
+ball,1,0.5,Jersey,H Carlyon,NA Greenwood,Muhammad Fahim,0,0,,,,,,lbw,H Carlyon
+ball,1,0.6,Jersey,AM Tribe,NA Greenwood,Muhammad Fahim,4,0,,,,,,"",""
+ball,1,1.1,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,2,0,,,,,,"",""
+ball,1,1.2,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,0,0,,,,,,"",""
+ball,1,1.3,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,0,0,,,,,,"",""
+ball,1,1.4,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,0,0,,,,,,"",""
+ball,1,1.5,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,0,1,1,,,,,"",""
+ball,1,1.6,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,0,0,,,,,,"",""
+ball,1,1.7,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,2.1,Jersey,NA Greenwood,AM Tribe,Muhammad Fahim,2,0,,,,,,"",""
+ball,1,2.2,Jersey,NA Greenwood,AM Tribe,Muhammad Fahim,1,0,,,,,,"",""
+ball,1,2.3,Jersey,AM Tribe,NA Greenwood,Muhammad Fahim,1,0,,,,,,"",""
+ball,1,2.4,Jersey,NA Greenwood,AM Tribe,Muhammad Fahim,4,0,,,,,,"",""
+ball,1,2.5,Jersey,NA Greenwood,AM Tribe,Muhammad Fahim,4,0,,,,,,"",""
+ball,1,2.6,Jersey,NA Greenwood,AM Tribe,Muhammad Fahim,0,0,,,,,,"",""
+ball,1,3.1,Jersey,AM Tribe,NA Greenwood,Sajad Ahmadzai,0,0,,,,,,"",""
+ball,1,3.2,Jersey,AM Tribe,NA Greenwood,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,3.3,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,4,0,,,,,,"",""
+ball,1,3.4,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,0,1,1,,,,,"",""
+ball,1,3.5,Jersey,NA Greenwood,AM Tribe,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,3.6,Jersey,AM Tribe,NA Greenwood,Sajad Ahmadzai,0,0,,,,,,"",""
+ball,1,3.7,Jersey,AM Tribe,NA Greenwood,Sajad Ahmadzai,4,0,,,,,,"",""
+ball,1,4.1,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,2,0,,,,,,"",""
+ball,1,4.2,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,0,0,,,,,,"",""
+ball,1,4.3,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,0,0,,,,,,"",""
+ball,1,4.4,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,4,0,,,,,,"",""
+ball,1,4.5,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,6,0,,,,,,"",""
+ball,1,4.6,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,1,0,,,,,,"",""
+ball,1,5.1,Jersey,NA Greenwood,AM Tribe,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,5.2,Jersey,AM Tribe,NA Greenwood,Aziz Mohammad,2,0,,,,,,"",""
+ball,1,5.3,Jersey,AM Tribe,NA Greenwood,Aziz Mohammad,6,0,,,,,,"",""
+ball,1,5.4,Jersey,AM Tribe,NA Greenwood,Aziz Mohammad,4,0,,,,,,"",""
+ball,1,5.5,Jersey,AM Tribe,NA Greenwood,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,5.6,Jersey,NA Greenwood,AM Tribe,Aziz Mohammad,0,0,,,,,,"",""
+ball,1,6.1,Jersey,AM Tribe,NA Greenwood,D Dewald,1,0,,,,,,"",""
+ball,1,6.2,Jersey,NA Greenwood,AM Tribe,D Dewald,1,0,,,,,,"",""
+ball,1,6.3,Jersey,AM Tribe,NA Greenwood,D Dewald,0,0,,,,,,"",""
+ball,1,6.4,Jersey,AM Tribe,NA Greenwood,D Dewald,0,0,,,,,,"",""
+ball,1,6.5,Jersey,AM Tribe,NA Greenwood,D Dewald,1,0,,,,,,"",""
+ball,1,6.6,Jersey,NA Greenwood,AM Tribe,D Dewald,1,0,,,,,,"",""
+ball,1,7.1,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,0,0,,,,,,"",""
+ball,1,7.2,Jersey,NA Greenwood,AM Tribe,Khalid Ahmadi,0,0,,,,,,caught,NA Greenwood
+ball,1,7.3,Jersey,JW Jenner,AM Tribe,Khalid Ahmadi,1,0,,,,,,"",""
+ball,1,7.4,Jersey,AM Tribe,JW Jenner,Khalid Ahmadi,0,0,,,,,,"",""
+ball,1,7.5,Jersey,AM Tribe,JW Jenner,Khalid Ahmadi,0,0,,,,,,"",""
+ball,1,7.6,Jersey,AM Tribe,JW Jenner,Khalid Ahmadi,1,0,,,,,,"",""
+ball,1,8.1,Jersey,AM Tribe,JW Jenner,D Dewald,0,0,,,,,,"",""
+ball,1,8.2,Jersey,AM Tribe,JW Jenner,D Dewald,1,0,,,,,,"",""
+ball,1,8.3,Jersey,JW Jenner,AM Tribe,D Dewald,1,0,,,,,,"",""
+ball,1,8.4,Jersey,AM Tribe,JW Jenner,D Dewald,6,0,,,,,,"",""
+ball,1,8.5,Jersey,AM Tribe,JW Jenner,D Dewald,0,0,,,,,,caught,AM Tribe
+ball,1,8.6,Jersey,ZM Tribe,JW Jenner,D Dewald,0,0,,,,,,"",""
+ball,1,9.1,Jersey,JW Jenner,ZM Tribe,Sheraz Sheikh,2,0,,,,,,"",""
+ball,1,9.2,Jersey,JW Jenner,ZM Tribe,Sheraz Sheikh,0,0,,,,,,"",""
+ball,1,9.3,Jersey,JW Jenner,ZM Tribe,Sheraz Sheikh,6,0,,,,,,"",""
+ball,1,9.4,Jersey,JW Jenner,ZM Tribe,Sheraz Sheikh,1,0,,,,,,"",""
+ball,1,9.5,Jersey,ZM Tribe,JW Jenner,Sheraz Sheikh,1,0,,,,,,"",""
+ball,1,9.6,Jersey,JW Jenner,ZM Tribe,Sheraz Sheikh,6,0,,,,,,"",""
+ball,1,10.1,Jersey,ZM Tribe,JW Jenner,D Dewald,1,0,,,,,,"",""
+ball,1,10.2,Jersey,JW Jenner,ZM Tribe,D Dewald,1,0,,,,,,"",""
+ball,1,10.3,Jersey,ZM Tribe,JW Jenner,D Dewald,1,0,,,,,,"",""
+ball,1,10.4,Jersey,JW Jenner,ZM Tribe,D Dewald,6,0,,,,,,"",""
+ball,1,10.5,Jersey,JW Jenner,ZM Tribe,D Dewald,1,0,,,,,,"",""
+ball,1,10.6,Jersey,ZM Tribe,JW Jenner,D Dewald,1,0,,,,,,"",""
+ball,1,11.1,Jersey,ZM Tribe,JW Jenner,Khalid Ahmadi,1,0,,,,,,"",""
+ball,1,11.2,Jersey,JW Jenner,ZM Tribe,Khalid Ahmadi,0,0,,,,,,"",""
+ball,1,11.3,Jersey,JW Jenner,ZM Tribe,Khalid Ahmadi,6,0,,,,,,"",""
+ball,1,11.4,Jersey,JW Jenner,ZM Tribe,Khalid Ahmadi,0,1,1,,,,,"",""
+ball,1,11.5,Jersey,JW Jenner,ZM Tribe,Khalid Ahmadi,0,0,,,,,,bowled,JW Jenner
+ball,1,11.6,Jersey,C Brennan,ZM Tribe,Khalid Ahmadi,4,0,,,,,,"",""
+ball,1,11.7,Jersey,C Brennan,ZM Tribe,Khalid Ahmadi,0,0,,,,,,"",""
+ball,1,12.1,Jersey,ZM Tribe,C Brennan,D Dewald,1,0,,,,,,"",""
+ball,1,12.2,Jersey,C Brennan,ZM Tribe,D Dewald,4,0,,,,,,"",""
+ball,1,12.3,Jersey,C Brennan,ZM Tribe,D Dewald,1,0,,,,,,"",""
+ball,1,12.4,Jersey,ZM Tribe,C Brennan,D Dewald,1,0,,,,,,"",""
+ball,1,12.5,Jersey,C Brennan,ZM Tribe,D Dewald,1,0,,,,,,"",""
+ball,1,12.6,Jersey,ZM Tribe,C Brennan,D Dewald,2,0,,,,,,"",""
+ball,1,13.1,Jersey,C Brennan,ZM Tribe,Aziz Mohammad,0,0,,,,,,"",""
+ball,1,13.2,Jersey,C Brennan,ZM Tribe,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,13.3,Jersey,ZM Tribe,C Brennan,Aziz Mohammad,0,0,,,,,,caught,ZM Tribe
+ball,1,13.4,Jersey,B Ward,C Brennan,Aziz Mohammad,0,0,,,,,,"",""
+ball,1,13.5,Jersey,B Ward,C Brennan,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,13.6,Jersey,C Brennan,B Ward,Aziz Mohammad,0,0,,,,,,"",""
+ball,1,14.1,Jersey,B Ward,C Brennan,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,14.2,Jersey,C Brennan,B Ward,Sajad Ahmadzai,2,0,,,,,,"",""
+ball,1,14.3,Jersey,C Brennan,B Ward,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,14.4,Jersey,B Ward,C Brennan,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,14.5,Jersey,C Brennan,B Ward,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,14.6,Jersey,B Ward,C Brennan,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,15.1,Jersey,B Ward,C Brennan,Aziz Mohammad,6,0,,,,,,"",""
+ball,1,15.2,Jersey,B Ward,C Brennan,Aziz Mohammad,0,0,,,,,,"",""
+ball,1,15.3,Jersey,B Ward,C Brennan,Aziz Mohammad,0,0,,,,,,"",""
+ball,1,15.4,Jersey,B Ward,C Brennan,Aziz Mohammad,2,0,,,,,,"",""
+ball,1,15.5,Jersey,B Ward,C Brennan,Aziz Mohammad,6,0,,,,,,"",""
+ball,1,15.6,Jersey,B Ward,C Brennan,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,16.1,Jersey,B Ward,C Brennan,Khalid Ahmadi,0,0,,,,,,caught,B Ward
+ball,1,16.2,Jersey,J Sumerauer,C Brennan,Khalid Ahmadi,1,0,,,,,,"",""
+ball,1,16.3,Jersey,C Brennan,J Sumerauer,Khalid Ahmadi,4,0,,,,,,"",""
+ball,1,16.4,Jersey,C Brennan,J Sumerauer,Khalid Ahmadi,6,0,,,,,,"",""
+ball,1,16.5,Jersey,C Brennan,J Sumerauer,Khalid Ahmadi,1,0,,,,,,"",""
+ball,1,16.6,Jersey,J Sumerauer,C Brennan,Khalid Ahmadi,1,0,,,,,,"",""
+ball,1,17.1,Jersey,J Sumerauer,C Brennan,Sajad Ahmadzai,4,0,,,,,,"",""
+ball,1,17.2,Jersey,J Sumerauer,C Brennan,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,17.3,Jersey,C Brennan,J Sumerauer,Sajad Ahmadzai,1,0,,,,,,"",""
+ball,1,17.4,Jersey,J Sumerauer,C Brennan,Sajad Ahmadzai,2,0,,,,,,"",""
+ball,1,17.5,Jersey,J Sumerauer,C Brennan,Sajad Ahmadzai,0,0,,,,,,"",""
+ball,1,17.6,Jersey,J Sumerauer,C Brennan,Sajad Ahmadzai,2,0,,,,,,"",""
+ball,1,18.1,Jersey,C Brennan,J Sumerauer,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,18.2,Jersey,J Sumerauer,C Brennan,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,18.3,Jersey,C Brennan,J Sumerauer,Aziz Mohammad,4,0,,,,,,"",""
+ball,1,18.4,Jersey,C Brennan,J Sumerauer,Aziz Mohammad,0,1,1,,,,,"",""
+ball,1,18.5,Jersey,C Brennan,J Sumerauer,Aziz Mohammad,0,0,,,,,,"",""
+ball,1,18.6,Jersey,C Brennan,J Sumerauer,Aziz Mohammad,1,0,,,,,,"",""
+ball,1,18.7,Jersey,J Sumerauer,C Brennan,Aziz Mohammad,6,0,,,,,,"",""
+ball,1,19.1,Jersey,C Brennan,J Sumerauer,Muhammad Fahim,0,0,,,,,,"",""
+ball,1,19.2,Jersey,C Brennan,J Sumerauer,Muhammad Fahim,6,0,,,,,,"",""
+ball,1,19.3,Jersey,C Brennan,J Sumerauer,Muhammad Fahim,1,0,,,,,,"",""
+ball,1,19.4,Jersey,J Sumerauer,C Brennan,Muhammad Fahim,2,0,,,,,,"",""
+ball,1,19.5,Jersey,J Sumerauer,C Brennan,Muhammad Fahim,2,0,,,,,,"",""
+ball,1,19.6,Jersey,J Sumerauer,C Brennan,Muhammad Fahim,1,0,,,,,,run out,J Sumerauer
+ball,2,0.1,Belgium,Muhammad Muneeb,Aziz Mohammad,D Birrell,0,0,,,,,,"",""
+ball,2,0.2,Belgium,Muhammad Muneeb,Aziz Mohammad,D Birrell,0,0,,,,,,caught,Muhammad Muneeb
+ball,2,0.3,Belgium,A Raza,Aziz Mohammad,D Birrell,4,0,,,,,,"",""
+ball,2,0.4,Belgium,A Raza,Aziz Mohammad,D Birrell,0,0,,,,,,"",""
+ball,2,0.5,Belgium,A Raza,Aziz Mohammad,D Birrell,0,1,1,,,,,"",""
+ball,2,0.6,Belgium,A Raza,Aziz Mohammad,D Birrell,0,1,1,,,,,"",""
+ball,2,0.7,Belgium,A Raza,Aziz Mohammad,D Birrell,0,0,,,,,,"",""
+ball,2,0.8,Belgium,A Raza,Aziz Mohammad,D Birrell,0,0,,,,,,run out,A Raza
+ball,2,1.1,Belgium,B Niaz,Aziz Mohammad,J Sumerauer,0,0,,,,,,"",""
+ball,2,1.2,Belgium,B Niaz,Aziz Mohammad,J Sumerauer,0,0,,,,,,"",""
+ball,2,1.3,Belgium,B Niaz,Aziz Mohammad,J Sumerauer,1,0,,,,,,"",""
+ball,2,1.4,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,0,0,,,,,,"",""
+ball,2,1.5,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,0,1,1,,,,,"",""
+ball,2,1.6,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,0,0,,,,,,"",""
+ball,2,1.7,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,0,1,,1,,,,"",""
+ball,2,1.8,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,6,0,,,,,,"",""
+ball,2,2.1,Belgium,B Niaz,Aziz Mohammad,D Birrell,1,0,,,,,,"",""
+ball,2,2.2,Belgium,Aziz Mohammad,B Niaz,D Birrell,1,0,,,,,,"",""
+ball,2,2.3,Belgium,B Niaz,Aziz Mohammad,D Birrell,6,0,,,,,,"",""
+ball,2,2.4,Belgium,B Niaz,Aziz Mohammad,D Birrell,0,0,,,,,,"",""
+ball,2,2.5,Belgium,B Niaz,Aziz Mohammad,D Birrell,4,0,,,,,,"",""
+ball,2,2.6,Belgium,B Niaz,Aziz Mohammad,D Birrell,0,0,,,,,,"",""
+ball,2,3.1,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.2,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.3,Belgium,Aziz Mohammad,B Niaz,J Sumerauer,1,0,,,,,,"",""
+ball,2,3.4,Belgium,B Niaz,Aziz Mohammad,J Sumerauer,6,0,,,,,,"",""
+ball,2,3.5,Belgium,B Niaz,Aziz Mohammad,J Sumerauer,6,0,,,,,,"",""
+ball,2,3.6,Belgium,B Niaz,Aziz Mohammad,J Sumerauer,0,0,,,,,,"",""
+ball,2,4.1,Belgium,Aziz Mohammad,B Niaz,NA Greenwood,0,0,,,,,,"",""
+ball,2,4.2,Belgium,Aziz Mohammad,B Niaz,NA Greenwood,0,0,,,,,,bowled,Aziz Mohammad
+ball,2,4.3,Belgium,Shaheryar Butt,B Niaz,NA Greenwood,1,0,,,,,,"",""
+ball,2,4.4,Belgium,B Niaz,Shaheryar Butt,NA Greenwood,1,0,,,,,,"",""
+ball,2,4.5,Belgium,Shaheryar Butt,B Niaz,NA Greenwood,0,0,,,,,,"",""
+ball,2,4.6,Belgium,Shaheryar Butt,B Niaz,NA Greenwood,0,0,,,,,,"",""
+ball,2,5.1,Belgium,B Niaz,Shaheryar Butt,CW Perchard,4,0,,,,,,"",""
+ball,2,5.2,Belgium,B Niaz,Shaheryar Butt,CW Perchard,0,0,,,,,,"",""
+ball,2,5.3,Belgium,B Niaz,Shaheryar Butt,CW Perchard,0,0,,,,,,caught,B Niaz
+ball,2,5.4,Belgium,Sheraz Sheikh,Shaheryar Butt,CW Perchard,0,0,,,,,,"",""
+ball,2,5.5,Belgium,Sheraz Sheikh,Shaheryar Butt,CW Perchard,0,0,,,,,,"",""
+ball,2,5.6,Belgium,Sheraz Sheikh,Shaheryar Butt,CW Perchard,0,0,,,,,,"",""
+ball,2,6.1,Belgium,Shaheryar Butt,Sheraz Sheikh,B Ward,1,0,,,,,,"",""
+ball,2,6.2,Belgium,Sheraz Sheikh,Shaheryar Butt,B Ward,0,0,,,,,,caught,Sheraz Sheikh
+ball,2,6.3,Belgium,Saber Zakhil,Shaheryar Butt,B Ward,0,0,,,,,,"",""
+ball,2,6.4,Belgium,Saber Zakhil,Shaheryar Butt,B Ward,1,0,,,,,,"",""
+ball,2,6.5,Belgium,Shaheryar Butt,Saber Zakhil,B Ward,1,0,,,,,,"",""
+ball,2,6.6,Belgium,Saber Zakhil,Shaheryar Butt,B Ward,0,0,,,,,,"",""
+ball,2,7.1,Belgium,Shaheryar Butt,Saber Zakhil,NA Greenwood,1,0,,,,,,"",""
+ball,2,7.2,Belgium,Saber Zakhil,Shaheryar Butt,NA Greenwood,1,0,,,,,,"",""
+ball,2,7.3,Belgium,Shaheryar Butt,Saber Zakhil,NA Greenwood,0,0,,,,,,"",""
+ball,2,7.4,Belgium,Shaheryar Butt,Saber Zakhil,NA Greenwood,1,0,,,,,,"",""
+ball,2,7.5,Belgium,Saber Zakhil,Shaheryar Butt,NA Greenwood,0,0,,,,,,"",""
+ball,2,7.6,Belgium,Saber Zakhil,Shaheryar Butt,NA Greenwood,0,0,,,,,,"",""
+ball,2,8.1,Belgium,Shaheryar Butt,Saber Zakhil,B Ward,0,0,,,,,,"",""
+ball,2,8.2,Belgium,Shaheryar Butt,Saber Zakhil,B Ward,4,0,,,,,,"",""
+ball,2,8.3,Belgium,Shaheryar Butt,Saber Zakhil,B Ward,0,0,,,,,,caught,Shaheryar Butt
+ball,2,8.4,Belgium,Khalid Ahmadi,Saber Zakhil,B Ward,0,0,,,,,,"",""
+ball,2,8.5,Belgium,Khalid Ahmadi,Saber Zakhil,B Ward,0,0,,,,,,"",""
+ball,2,8.6,Belgium,Khalid Ahmadi,Saber Zakhil,B Ward,0,1,1,,,,,"",""
+ball,2,8.7,Belgium,Khalid Ahmadi,Saber Zakhil,B Ward,0,0,,,,,,"",""
+ball,2,9.1,Belgium,Saber Zakhil,Khalid Ahmadi,CW Perchard,0,0,,,,,,"",""
+ball,2,9.2,Belgium,Saber Zakhil,Khalid Ahmadi,CW Perchard,1,0,,,,,,"",""
+ball,2,9.3,Belgium,Khalid Ahmadi,Saber Zakhil,CW Perchard,2,0,,,,,,"",""
+ball,2,9.4,Belgium,Khalid Ahmadi,Saber Zakhil,CW Perchard,1,0,,,,,,"",""
+ball,2,9.5,Belgium,Saber Zakhil,Khalid Ahmadi,CW Perchard,0,0,,,,,,"",""
+ball,2,9.6,Belgium,Saber Zakhil,Khalid Ahmadi,CW Perchard,0,0,,,,,,"",""
+ball,2,10.1,Belgium,Khalid Ahmadi,Saber Zakhil,B Ward,0,0,,,,,,"",""
+ball,2,10.2,Belgium,Khalid Ahmadi,Saber Zakhil,B Ward,0,0,,,,,,caught,Khalid Ahmadi
+ball,2,10.3,Belgium,D Dewald,Saber Zakhil,B Ward,0,0,,,,,,"",""
+ball,2,10.4,Belgium,D Dewald,Saber Zakhil,B Ward,0,0,,,,,,"",""
+ball,2,10.5,Belgium,D Dewald,Saber Zakhil,B Ward,1,0,,,,,,"",""
+ball,2,10.6,Belgium,Saber Zakhil,D Dewald,B Ward,0,0,,,,,,"",""
+ball,2,11.1,Belgium,D Dewald,Saber Zakhil,NA Greenwood,0,0,,,,,,"",""
+ball,2,11.2,Belgium,D Dewald,Saber Zakhil,NA Greenwood,1,0,,,,,,"",""
+ball,2,11.3,Belgium,Saber Zakhil,D Dewald,NA Greenwood,0,0,,,,,,caught,Saber Zakhil
+ball,2,11.4,Belgium,Sajad Ahmadzai,D Dewald,NA Greenwood,0,0,,,,,,"",""
+ball,2,11.5,Belgium,Sajad Ahmadzai,D Dewald,NA Greenwood,1,0,,,,,,"",""
+ball,2,11.6,Belgium,D Dewald,Sajad Ahmadzai,NA Greenwood,0,0,,,,,,"",""
+ball,2,12.1,Belgium,Sajad Ahmadzai,D Dewald,B Ward,0,0,,,,,,"",""
+ball,2,12.2,Belgium,Sajad Ahmadzai,D Dewald,B Ward,1,0,,,,,,"",""
+ball,2,12.3,Belgium,D Dewald,Sajad Ahmadzai,B Ward,1,0,,,,,,"",""
+ball,2,12.4,Belgium,Sajad Ahmadzai,D Dewald,B Ward,1,0,,,,,,"",""
+ball,2,12.5,Belgium,D Dewald,Sajad Ahmadzai,B Ward,0,0,,,,,,"",""
+ball,2,12.6,Belgium,D Dewald,Sajad Ahmadzai,B Ward,0,0,,,,,,stumped,D Dewald
+ball,2,13.1,Belgium,Sajad Ahmadzai,Muhammad Fahim,AM Tribe,0,0,,,,,,"",""
+ball,2,13.2,Belgium,Sajad Ahmadzai,Muhammad Fahim,AM Tribe,1,0,,,,,,"",""
+ball,2,13.3,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,1,0,,,,,,"",""
+ball,2,13.4,Belgium,Sajad Ahmadzai,Muhammad Fahim,AM Tribe,0,0,,,,,,"",""
+ball,2,13.5,Belgium,Sajad Ahmadzai,Muhammad Fahim,AM Tribe,1,0,,,,,,"",""
+ball,2,13.6,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,14.1,Belgium,Sajad Ahmadzai,Muhammad Fahim,NA Greenwood,0,0,,,,,,"",""
+ball,2,14.2,Belgium,Sajad Ahmadzai,Muhammad Fahim,NA Greenwood,1,0,,,,,,"",""
+ball,2,14.3,Belgium,Muhammad Fahim,Sajad Ahmadzai,NA Greenwood,0,0,,,,,,"",""
+ball,2,14.4,Belgium,Muhammad Fahim,Sajad Ahmadzai,NA Greenwood,1,0,,,,,,"",""
+ball,2,14.5,Belgium,Sajad Ahmadzai,Muhammad Fahim,NA Greenwood,1,0,,,,,,"",""
+ball,2,14.6,Belgium,Muhammad Fahim,Sajad Ahmadzai,NA Greenwood,0,0,,,,,,"",""
+ball,2,15.1,Belgium,Sajad Ahmadzai,Muhammad Fahim,AM Tribe,1,0,,,,,,"",""
+ball,2,15.2,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,15.3,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,15.4,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,15.5,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,15.6,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,16.1,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,1,0,,,,,,"",""
+ball,2,16.2,Belgium,Muhammad Fahim,Sajad Ahmadzai,ZM Tribe,1,0,,,,,,"",""
+ball,2,16.3,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,0,0,,,,,,"",""
+ball,2,16.4,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,0,0,,,,,,"",""
+ball,2,16.5,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,0,0,,,,,,"",""
+ball,2,16.6,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,0,0,,,,,,"",""
+ball,2,17.1,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,1,0,,,,,,"",""
+ball,2,17.2,Belgium,Sajad Ahmadzai,Muhammad Fahim,AM Tribe,0,0,,,,,,"",""
+ball,2,17.3,Belgium,Sajad Ahmadzai,Muhammad Fahim,AM Tribe,1,0,,,,,,"",""
+ball,2,17.4,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,17.5,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,0,0,,,,,,"",""
+ball,2,17.6,Belgium,Muhammad Fahim,Sajad Ahmadzai,AM Tribe,6,0,,,,,,"",""
+ball,2,18.1,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,0,0,,,,,,"",""
+ball,2,18.2,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,0,0,,,,,,"",""
+ball,2,18.3,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,1,0,,,,,,"",""
+ball,2,18.4,Belgium,Muhammad Fahim,Sajad Ahmadzai,ZM Tribe,0,0,,,,,,"",""
+ball,2,18.5,Belgium,Muhammad Fahim,Sajad Ahmadzai,ZM Tribe,1,0,,,,,,"",""
+ball,2,18.6,Belgium,Sajad Ahmadzai,Muhammad Fahim,ZM Tribe,0,0,,,,,,"",""
+ball,2,19.1,Belgium,Muhammad Fahim,Sajad Ahmadzai,D Birrell,2,0,,,,,,"",""
+ball,2,19.2,Belgium,Muhammad Fahim,Sajad Ahmadzai,D Birrell,0,1,,,,1,,"",""
+ball,2,19.3,Belgium,Sajad Ahmadzai,Muhammad Fahim,D Birrell,0,1,1,,,,,"",""
+ball,2,19.4,Belgium,Sajad Ahmadzai,Muhammad Fahim,D Birrell,0,0,,,,,,"",""
+ball,2,19.5,Belgium,Sajad Ahmadzai,Muhammad Fahim,D Birrell,0,0,,,,,,"",""
+ball,2,19.6,Belgium,Sajad Ahmadzai,Muhammad Fahim,D Birrell,0,0,,,,,,"",""
+ball,2,19.7,Belgium,Sajad Ahmadzai,Muhammad Fahim,D Birrell,0,0,,,,,,"",""

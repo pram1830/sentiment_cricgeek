@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Hong Kong
+info,gender,female
+info,season,2024
+info,date,2024/06/19
+info,event,Hong Kong Women tour of Netherlands
+info,match_number,4
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,R Rijke
+info,umpire,M Prabhudesa
+info,umpire,WPM van Liemt
+info,reserve_umpire,MA Din
+info,winner,Netherlands
+info,winner_runs,83
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,S Khurana
+info,player,Netherlands,CH van Koolwijk
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,C de Lange
+info,player,Netherlands,MM Dekeling
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,S Siegers
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,MBA Lamplough
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Joyleen Kaur
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,M Wai Siu
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CH van Koolwijk,27d5901c
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,Joyleen Kaur,8ea44a61
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,MA Din,3e285c0a
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,Maira Saleem,e3ae1e66
+info,registry,people,NT Miles,d27d0835
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Khurana,9a9a056d
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,WPM van Liemt,2bd48588
+ball,1,0.1,Netherlands,IJR Zwilling,P Molkenboer,M Wai Siu,0,1,1,,,,,"",""
+ball,1,0.2,Netherlands,IJR Zwilling,P Molkenboer,M Wai Siu,0,1,1,,,,,"",""
+ball,1,0.3,Netherlands,IJR Zwilling,P Molkenboer,M Wai Siu,1,0,,,,,,"",""
+ball,1,0.4,Netherlands,P Molkenboer,IJR Zwilling,M Wai Siu,0,1,1,,,,,"",""
+ball,1,0.5,Netherlands,P Molkenboer,IJR Zwilling,M Wai Siu,0,0,,,,,,"",""
+ball,1,0.6,Netherlands,P Molkenboer,IJR Zwilling,M Wai Siu,0,0,,,,,,"",""
+ball,1,0.7,Netherlands,P Molkenboer,IJR Zwilling,M Wai Siu,1,0,,,,,,"",""
+ball,1,0.8,Netherlands,IJR Zwilling,P Molkenboer,M Wai Siu,0,0,,,,,,bowled,IJR Zwilling
+ball,1,0.9,Netherlands,B de Leede,P Molkenboer,M Wai Siu,1,0,,,,,,"",""
+ball,1,1.1,Netherlands,B de Leede,P Molkenboer,Chan Ka Man,1,0,,,,,,"",""
+ball,1,1.2,Netherlands,P Molkenboer,B de Leede,Chan Ka Man,1,0,,,,,,"",""
+ball,1,1.3,Netherlands,B de Leede,P Molkenboer,Chan Ka Man,1,0,,,,,,"",""
+ball,1,1.4,Netherlands,P Molkenboer,B de Leede,Chan Ka Man,1,0,,,,,,"",""
+ball,1,1.5,Netherlands,B de Leede,P Molkenboer,Chan Ka Man,4,0,,,,,,"",""
+ball,1,1.6,Netherlands,B de Leede,P Molkenboer,Chan Ka Man,1,0,,,,,,"",""
+ball,1,2.1,Netherlands,B de Leede,P Molkenboer,M Wai Siu,1,0,,,,,,"",""
+ball,1,2.2,Netherlands,P Molkenboer,B de Leede,M Wai Siu,1,0,,,,,,"",""
+ball,1,2.3,Netherlands,B de Leede,P Molkenboer,M Wai Siu,4,0,,,,,,"",""
+ball,1,2.4,Netherlands,B de Leede,P Molkenboer,M Wai Siu,0,0,,,,,,"",""
+ball,1,2.5,Netherlands,B de Leede,P Molkenboer,M Wai Siu,1,0,,,,,,"",""
+ball,1,2.6,Netherlands,P Molkenboer,B de Leede,M Wai Siu,0,0,,,,,,"",""
+ball,1,3.1,Netherlands,B de Leede,P Molkenboer,Chan Ka Man,1,0,,,,,,"",""
+ball,1,3.2,Netherlands,P Molkenboer,B de Leede,Chan Ka Man,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,P Molkenboer,B de Leede,Chan Ka Man,0,0,,,,,,run out,P Molkenboer
+ball,1,3.4,Netherlands,R Rijke,B de Leede,Chan Ka Man,4,0,,,,,,"",""
+ball,1,3.5,Netherlands,R Rijke,B de Leede,Chan Ka Man,1,0,,,,,,"",""
+ball,1,3.6,Netherlands,B de Leede,R Rijke,Chan Ka Man,0,1,1,,,,,"",""
+ball,1,3.7,Netherlands,B de Leede,R Rijke,Chan Ka Man,4,0,,,,,,"",""
+ball,1,4.1,Netherlands,R Rijke,B de Leede,Iqra Sahar,0,0,,,,,,"",""
+ball,1,4.2,Netherlands,R Rijke,B de Leede,Iqra Sahar,0,0,,,,,,"",""
+ball,1,4.3,Netherlands,R Rijke,B de Leede,Iqra Sahar,4,0,,,,,,"",""
+ball,1,4.4,Netherlands,R Rijke,B de Leede,Iqra Sahar,0,0,,,,,,"",""
+ball,1,4.5,Netherlands,R Rijke,B de Leede,Iqra Sahar,4,0,,,,,,"",""
+ball,1,4.6,Netherlands,R Rijke,B de Leede,Iqra Sahar,0,0,,,,,,"",""
+ball,1,5.1,Netherlands,B de Leede,R Rijke,Joyleen Kaur,0,0,,,,,,"",""
+ball,1,5.2,Netherlands,B de Leede,R Rijke,Joyleen Kaur,0,0,,,,,,"",""
+ball,1,5.3,Netherlands,B de Leede,R Rijke,Joyleen Kaur,0,0,,,,,,"",""
+ball,1,5.4,Netherlands,B de Leede,R Rijke,Joyleen Kaur,2,0,,,,,,"",""
+ball,1,5.5,Netherlands,B de Leede,R Rijke,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,5.6,Netherlands,R Rijke,B de Leede,Joyleen Kaur,0,0,,,,,,"",""
+ball,1,6.1,Netherlands,B de Leede,R Rijke,Iqra Sahar,1,0,,,,,,"",""
+ball,1,6.2,Netherlands,R Rijke,B de Leede,Iqra Sahar,0,0,,,,,,"",""
+ball,1,6.3,Netherlands,R Rijke,B de Leede,Iqra Sahar,1,0,,,,,,"",""
+ball,1,6.4,Netherlands,B de Leede,R Rijke,Iqra Sahar,4,0,,,,,,"",""
+ball,1,6.5,Netherlands,B de Leede,R Rijke,Iqra Sahar,0,0,,,,,,"",""
+ball,1,6.6,Netherlands,B de Leede,R Rijke,Iqra Sahar,2,0,,,,,,"",""
+ball,1,7.1,Netherlands,R Rijke,B de Leede,Joyleen Kaur,6,0,,,,,,"",""
+ball,1,7.2,Netherlands,R Rijke,B de Leede,Joyleen Kaur,0,0,,,,,,"",""
+ball,1,7.3,Netherlands,R Rijke,B de Leede,Joyleen Kaur,0,0,,,,,,"",""
+ball,1,7.4,Netherlands,R Rijke,B de Leede,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,7.5,Netherlands,B de Leede,R Rijke,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,7.6,Netherlands,R Rijke,B de Leede,Joyleen Kaur,2,0,,,,,,"",""
+ball,1,8.1,Netherlands,B de Leede,R Rijke,KY Chan,0,0,,,,,,bowled,B de Leede
+ball,1,8.2,Netherlands,S Khurana,R Rijke,KY Chan,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,R Rijke,S Khurana,KY Chan,0,0,,,,,,"",""
+ball,1,8.4,Netherlands,R Rijke,S Khurana,KY Chan,1,0,,,,,,"",""
+ball,1,8.5,Netherlands,S Khurana,R Rijke,KY Chan,0,0,,,,,,"",""
+ball,1,8.6,Netherlands,S Khurana,R Rijke,KY Chan,1,0,,,,,,"",""
+ball,1,9.1,Netherlands,S Khurana,R Rijke,M Bibi,4,0,,,,,,"",""
+ball,1,9.2,Netherlands,S Khurana,R Rijke,M Bibi,0,0,,,,,,"",""
+ball,1,9.3,Netherlands,S Khurana,R Rijke,M Bibi,0,0,,,,,,"",""
+ball,1,9.4,Netherlands,S Khurana,R Rijke,M Bibi,3,0,,,,,,"",""
+ball,1,9.5,Netherlands,R Rijke,S Khurana,M Bibi,1,0,,,,,,"",""
+ball,1,9.6,Netherlands,S Khurana,R Rijke,M Bibi,2,0,,,,,,"",""
+ball,1,10.1,Netherlands,R Rijke,S Khurana,KY Chan,1,0,,,,,,"",""
+ball,1,10.2,Netherlands,S Khurana,R Rijke,KY Chan,0,0,,,,,,"",""
+ball,1,10.3,Netherlands,S Khurana,R Rijke,KY Chan,1,0,,,,,,"",""
+ball,1,10.4,Netherlands,R Rijke,S Khurana,KY Chan,0,0,,,,,,"",""
+ball,1,10.5,Netherlands,R Rijke,S Khurana,KY Chan,4,0,,,,,,"",""
+ball,1,10.6,Netherlands,R Rijke,S Khurana,KY Chan,1,0,,,,,,"",""
+ball,1,11.1,Netherlands,R Rijke,S Khurana,M Bibi,1,0,,,,,,"",""
+ball,1,11.2,Netherlands,S Khurana,R Rijke,M Bibi,1,0,,,,,,"",""
+ball,1,11.3,Netherlands,R Rijke,S Khurana,M Bibi,1,0,,,,,,"",""
+ball,1,11.4,Netherlands,S Khurana,R Rijke,M Bibi,2,0,,,,,,"",""
+ball,1,11.5,Netherlands,S Khurana,R Rijke,M Bibi,0,0,,,,,,"",""
+ball,1,11.6,Netherlands,S Khurana,R Rijke,M Bibi,0,0,,,,,,"",""
+ball,1,12.1,Netherlands,R Rijke,S Khurana,KY Chan,1,0,,,,,,"",""
+ball,1,12.2,Netherlands,S Khurana,R Rijke,KY Chan,2,0,,,,,,"",""
+ball,1,12.3,Netherlands,S Khurana,R Rijke,KY Chan,1,0,,,,,,"",""
+ball,1,12.4,Netherlands,R Rijke,S Khurana,KY Chan,4,0,,,,,,"",""
+ball,1,12.5,Netherlands,R Rijke,S Khurana,KY Chan,1,0,,,,,,"",""
+ball,1,12.6,Netherlands,S Khurana,R Rijke,KY Chan,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,S Khurana,R Rijke,Joyleen Kaur,0,0,,,,,,"",""
+ball,1,13.2,Netherlands,S Khurana,R Rijke,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,13.3,Netherlands,R Rijke,S Khurana,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,13.4,Netherlands,S Khurana,R Rijke,Joyleen Kaur,0,1,1,,,,,"",""
+ball,1,13.5,Netherlands,S Khurana,R Rijke,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,13.6,Netherlands,R Rijke,S Khurana,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,13.7,Netherlands,S Khurana,R Rijke,Joyleen Kaur,1,0,,,,,,"",""
+ball,1,14.1,Netherlands,S Khurana,R Rijke,M Hill,0,1,1,,,,,"",""
+ball,1,14.2,Netherlands,S Khurana,R Rijke,M Hill,1,0,,,,,,"",""
+ball,1,14.3,Netherlands,R Rijke,S Khurana,M Hill,2,0,,,,,,"",""
+ball,1,14.4,Netherlands,R Rijke,S Khurana,M Hill,1,0,,,,,,"",""
+ball,1,14.5,Netherlands,S Khurana,R Rijke,M Hill,1,0,,,,,,"",""
+ball,1,14.6,Netherlands,R Rijke,S Khurana,M Hill,0,1,1,,,,,"",""
+ball,1,14.7,Netherlands,R Rijke,S Khurana,M Hill,4,0,,,,,,"",""
+ball,1,14.8,Netherlands,R Rijke,S Khurana,M Hill,0,0,,,,,,"",""
+ball,1,15.1,Netherlands,S Khurana,R Rijke,Chan Ka Man,0,0,,,,,,"",""
+ball,1,15.2,Netherlands,S Khurana,R Rijke,Chan Ka Man,1,0,,,,,,"",""
+ball,1,15.3,Netherlands,R Rijke,S Khurana,Chan Ka Man,0,0,,,,,,"",""
+ball,1,15.4,Netherlands,R Rijke,S Khurana,Chan Ka Man,4,0,,,,,,"",""
+ball,1,15.5,Netherlands,R Rijke,S Khurana,Chan Ka Man,4,0,,,,,,"",""
+ball,1,15.6,Netherlands,R Rijke,S Khurana,Chan Ka Man,1,0,,,,,,"",""
+ball,1,16.1,Netherlands,R Rijke,S Khurana,Iqra Sahar,4,0,,,,,,"",""
+ball,1,16.2,Netherlands,R Rijke,S Khurana,Iqra Sahar,1,0,,,,,,"",""
+ball,1,16.3,Netherlands,S Khurana,R Rijke,Iqra Sahar,0,1,1,,,,,"",""
+ball,1,16.4,Netherlands,S Khurana,R Rijke,Iqra Sahar,1,0,,,,,,"",""
+ball,1,16.5,Netherlands,R Rijke,S Khurana,Iqra Sahar,1,0,,,,,,"",""
+ball,1,16.6,Netherlands,S Khurana,R Rijke,Iqra Sahar,1,0,,,,,,run out,S Khurana
+ball,1,16.7,Netherlands,CH van Koolwijk,R Rijke,Iqra Sahar,0,0,,,,,,"",""
+ball,1,17.1,Netherlands,R Rijke,CH van Koolwijk,Chan Ka Man,2,0,,,,,,"",""
+ball,1,17.2,Netherlands,R Rijke,CH van Koolwijk,Chan Ka Man,1,0,,,,,,"",""
+ball,1,17.3,Netherlands,CH van Koolwijk,R Rijke,Chan Ka Man,0,1,1,,,,,"",""
+ball,1,17.4,Netherlands,CH van Koolwijk,R Rijke,Chan Ka Man,1,0,,,,,,"",""
+ball,1,17.5,Netherlands,R Rijke,CH van Koolwijk,Chan Ka Man,1,0,,,,,,"",""
+ball,1,17.6,Netherlands,CH van Koolwijk,R Rijke,Chan Ka Man,4,0,,,,,,"",""
+ball,1,17.7,Netherlands,CH van Koolwijk,R Rijke,Chan Ka Man,0,1,1,,,,,"",""
+ball,1,17.8,Netherlands,CH van Koolwijk,R Rijke,Chan Ka Man,2,0,,,,,,"",""
+ball,1,18.1,Netherlands,R Rijke,CH van Koolwijk,M Wai Siu,2,0,,,,,,"",""
+ball,1,18.2,Netherlands,R Rijke,CH van Koolwijk,M Wai Siu,4,0,,,,,,"",""
+ball,1,18.3,Netherlands,R Rijke,CH van Koolwijk,M Wai Siu,4,0,,,,,,"",""
+ball,1,18.4,Netherlands,R Rijke,CH van Koolwijk,M Wai Siu,4,0,,,,,,"",""
+ball,1,18.5,Netherlands,R Rijke,CH van Koolwijk,M Wai Siu,1,0,,,,,,"",""
+ball,1,18.6,Netherlands,CH van Koolwijk,R Rijke,M Wai Siu,1,0,,,,,,"",""
+ball,1,19.1,Netherlands,CH van Koolwijk,R Rijke,KY Chan,2,0,,,,,,"",""
+ball,1,19.2,Netherlands,CH van Koolwijk,R Rijke,KY Chan,0,0,,,,,,caught,CH van Koolwijk
+ball,1,19.3,Netherlands,F Overdijk,R Rijke,KY Chan,2,0,,,,,,"",""
+ball,1,19.4,Netherlands,F Overdijk,R Rijke,KY Chan,1,0,,,,,,"",""
+ball,1,19.5,Netherlands,R Rijke,F Overdijk,KY Chan,2,0,,,,,,"",""
+ball,1,19.6,Netherlands,R Rijke,F Overdijk,KY Chan,0,0,,,,,,"",""
+ball,2,0.1,Hong Kong,NT Miles,M Hill,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.2,Hong Kong,NT Miles,M Hill,IJR Zwilling,0,0,,,,,,caught,NT Miles
+ball,2,0.3,Hong Kong,Shanzeen Shahzad,M Hill,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.4,Hong Kong,Shanzeen Shahzad,M Hill,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.5,Hong Kong,Shanzeen Shahzad,M Hill,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.6,Hong Kong,Shanzeen Shahzad,M Hill,IJR Zwilling,0,0,,,,,,"",""
+ball,2,1.1,Hong Kong,M Hill,Shanzeen Shahzad,HWA Landheer,0,1,1,,,,,"",""
+ball,2,1.2,Hong Kong,M Hill,Shanzeen Shahzad,HWA Landheer,1,0,,,,,,"",""
+ball,2,1.3,Hong Kong,Shanzeen Shahzad,M Hill,HWA Landheer,0,0,,,,,,"",""
+ball,2,1.4,Hong Kong,Shanzeen Shahzad,M Hill,HWA Landheer,0,0,,,,,,"",""
+ball,2,1.5,Hong Kong,Shanzeen Shahzad,M Hill,HWA Landheer,0,0,,,,,,"",""
+ball,2,1.6,Hong Kong,Shanzeen Shahzad,M Hill,HWA Landheer,0,1,1,,,,,"",""
+ball,2,1.7,Hong Kong,Shanzeen Shahzad,M Hill,HWA Landheer,0,0,,,,,,"",""
+ball,2,1.8,Hong Kong,Shanzeen Shahzad,M Hill,HWA Landheer,1,0,,,,,,"",""
+ball,2,2.1,Hong Kong,Shanzeen Shahzad,M Hill,IJR Zwilling,1,0,,,,,,"",""
+ball,2,2.2,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.3,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.4,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.5,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,1,0,,,,,,"",""
+ball,2,2.6,Hong Kong,Shanzeen Shahzad,M Hill,IJR Zwilling,1,0,,,,,,"",""
+ball,2,3.1,Hong Kong,Shanzeen Shahzad,M Hill,S Siegers,1,0,,,,,,"",""
+ball,2,3.2,Hong Kong,M Hill,Shanzeen Shahzad,S Siegers,0,0,,,,,,"",""
+ball,2,3.3,Hong Kong,M Hill,Shanzeen Shahzad,S Siegers,0,0,,,,,,"",""
+ball,2,3.4,Hong Kong,M Hill,Shanzeen Shahzad,S Siegers,1,0,,,,,,"",""
+ball,2,3.5,Hong Kong,Shanzeen Shahzad,M Hill,S Siegers,1,0,,,,,,"",""
+ball,2,3.6,Hong Kong,M Hill,Shanzeen Shahzad,S Siegers,0,0,,,,,,"",""
+ball,2,4.1,Hong Kong,Shanzeen Shahzad,M Hill,IJR Zwilling,1,0,,,,,,"",""
+ball,2,4.2,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.3,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,4,0,,,,,,"",""
+ball,2,4.4,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.5,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,4,0,,,,,,"",""
+ball,2,4.6,Hong Kong,M Hill,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,5.1,Hong Kong,Shanzeen Shahzad,M Hill,F Overdijk,0,0,,,,,,"",""
+ball,2,5.2,Hong Kong,Shanzeen Shahzad,M Hill,F Overdijk,2,0,,,,,,"",""
+ball,2,5.3,Hong Kong,Shanzeen Shahzad,M Hill,F Overdijk,1,0,,,,,,"",""
+ball,2,5.4,Hong Kong,M Hill,Shanzeen Shahzad,F Overdijk,0,0,,,,,,caught,M Hill
+ball,2,5.5,Hong Kong,KY Chan,Shanzeen Shahzad,F Overdijk,1,0,,,,,,"",""
+ball,2,5.6,Hong Kong,Shanzeen Shahzad,KY Chan,F Overdijk,0,0,,,,,,"",""
+ball,2,6.1,Hong Kong,KY Chan,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,6.2,Hong Kong,KY Chan,Shanzeen Shahzad,IJR Zwilling,0,0,,,,,,"",""
+ball,2,6.3,Hong Kong,KY Chan,Shanzeen Shahzad,IJR Zwilling,1,0,,,,,,"",""
+ball,2,6.4,Hong Kong,Shanzeen Shahzad,KY Chan,IJR Zwilling,4,0,,,,,,"",""
+ball,2,6.5,Hong Kong,Shanzeen Shahzad,KY Chan,IJR Zwilling,0,0,,,,,,"",""
+ball,2,6.6,Hong Kong,Shanzeen Shahzad,KY Chan,IJR Zwilling,1,0,,,,,,"",""
+ball,2,7.1,Hong Kong,Shanzeen Shahzad,KY Chan,C de Lange,1,0,,,,,,"",""
+ball,2,7.2,Hong Kong,KY Chan,Shanzeen Shahzad,C de Lange,1,0,,,,,,"",""
+ball,2,7.3,Hong Kong,Shanzeen Shahzad,KY Chan,C de Lange,0,0,,,,,,"",""
+ball,2,7.4,Hong Kong,Shanzeen Shahzad,KY Chan,C de Lange,1,0,,,,,,"",""
+ball,2,7.5,Hong Kong,KY Chan,Shanzeen Shahzad,C de Lange,0,0,,,,,,"",""
+ball,2,7.6,Hong Kong,KY Chan,Shanzeen Shahzad,C de Lange,0,0,,,,,,"",""
+ball,2,8.1,Hong Kong,Shanzeen Shahzad,KY Chan,HWA Landheer,0,0,,,,,,"",""
+ball,2,8.2,Hong Kong,Shanzeen Shahzad,KY Chan,HWA Landheer,1,0,,,,,,"",""
+ball,2,8.3,Hong Kong,KY Chan,Shanzeen Shahzad,HWA Landheer,0,0,,,,,,"",""
+ball,2,8.4,Hong Kong,KY Chan,Shanzeen Shahzad,HWA Landheer,1,0,,,,,,"",""
+ball,2,8.5,Hong Kong,Shanzeen Shahzad,KY Chan,HWA Landheer,0,0,,,,,,"",""
+ball,2,8.6,Hong Kong,Shanzeen Shahzad,KY Chan,HWA Landheer,1,0,,,,,,"",""
+ball,2,9.1,Hong Kong,Shanzeen Shahzad,KY Chan,C de Lange,1,0,,,,,,"",""
+ball,2,9.2,Hong Kong,KY Chan,Shanzeen Shahzad,C de Lange,1,0,,,,,,"",""
+ball,2,9.3,Hong Kong,Shanzeen Shahzad,KY Chan,C de Lange,1,0,,,,,,"",""
+ball,2,9.4,Hong Kong,KY Chan,Shanzeen Shahzad,C de Lange,0,0,,,,,,"",""
+ball,2,9.5,Hong Kong,KY Chan,Shanzeen Shahzad,C de Lange,1,0,,,,,,"",""
+ball,2,9.6,Hong Kong,Shanzeen Shahzad,KY Chan,C de Lange,6,0,,,,,,"",""
+ball,2,10.1,Hong Kong,KY Chan,Shanzeen Shahzad,S Siegers,1,0,,,,,,"",""
+ball,2,10.2,Hong Kong,Shanzeen Shahzad,KY Chan,S Siegers,1,0,,,,,,"",""
+ball,2,10.3,Hong Kong,KY Chan,Shanzeen Shahzad,S Siegers,0,0,,,,,,"",""
+ball,2,10.4,Hong Kong,KY Chan,Shanzeen Shahzad,S Siegers,2,0,,,,,,"",""
+ball,2,10.5,Hong Kong,KY Chan,Shanzeen Shahzad,S Siegers,4,0,,,,,,"",""
+ball,2,10.6,Hong Kong,KY Chan,Shanzeen Shahzad,S Siegers,1,0,,,,,,"",""
+ball,2,11.1,Hong Kong,KY Chan,Shanzeen Shahzad,MM Dekeling,2,0,,,,,,"",""
+ball,2,11.2,Hong Kong,KY Chan,Shanzeen Shahzad,MM Dekeling,1,0,,,,,,"",""
+ball,2,11.3,Hong Kong,Shanzeen Shahzad,KY Chan,MM Dekeling,1,0,,,,,,"",""
+ball,2,11.4,Hong Kong,KY Chan,Shanzeen Shahzad,MM Dekeling,1,0,,,,,,"",""
+ball,2,11.5,Hong Kong,Shanzeen Shahzad,KY Chan,MM Dekeling,1,0,,,,,,"",""
+ball,2,11.6,Hong Kong,KY Chan,Shanzeen Shahzad,MM Dekeling,0,0,,,,,,"",""
+ball,2,12.1,Hong Kong,Shanzeen Shahzad,KY Chan,S Siegers,0,0,,,,,,"",""
+ball,2,12.2,Hong Kong,Shanzeen Shahzad,KY Chan,S Siegers,2,0,,,,,,"",""
+ball,2,12.3,Hong Kong,Shanzeen Shahzad,KY Chan,S Siegers,0,0,,,,,,"",""
+ball,2,12.4,Hong Kong,Shanzeen Shahzad,KY Chan,S Siegers,0,0,,,,,,"",""
+ball,2,12.5,Hong Kong,Shanzeen Shahzad,KY Chan,S Siegers,1,0,,,,,,"",""
+ball,2,12.6,Hong Kong,KY Chan,Shanzeen Shahzad,S Siegers,2,0,,,,,,"",""
+ball,2,13.1,Hong Kong,Shanzeen Shahzad,KY Chan,MM Dekeling,1,0,,,,,,"",""
+ball,2,13.2,Hong Kong,KY Chan,Shanzeen Shahzad,MM Dekeling,0,0,,,,,,"",""
+ball,2,13.3,Hong Kong,KY Chan,Shanzeen Shahzad,MM Dekeling,1,0,,,,,,"",""
+ball,2,13.4,Hong Kong,Shanzeen Shahzad,KY Chan,MM Dekeling,0,0,,,,,,"",""
+ball,2,13.5,Hong Kong,Shanzeen Shahzad,KY Chan,MM Dekeling,1,0,,,,,,"",""
+ball,2,13.6,Hong Kong,KY Chan,Shanzeen Shahzad,MM Dekeling,1,0,,,,,,"",""
+ball,2,14.1,Hong Kong,KY Chan,Shanzeen Shahzad,S Siegers,0,0,,,,,,caught,KY Chan
+ball,2,14.2,Hong Kong,MBA Lamplough,Shanzeen Shahzad,S Siegers,0,0,,,,,,"",""
+ball,2,14.3,Hong Kong,MBA Lamplough,Shanzeen Shahzad,S Siegers,0,0,,,,,,bowled,MBA Lamplough
+ball,2,14.4,Hong Kong,M Bibi,Shanzeen Shahzad,S Siegers,0,0,,,,,,"",""
+ball,2,14.5,Hong Kong,M Bibi,Shanzeen Shahzad,S Siegers,0,0,,,,,,"",""
+ball,2,14.6,Hong Kong,M Bibi,Shanzeen Shahzad,S Siegers,1,0,,,,,,"",""
+ball,2,15.1,Hong Kong,M Bibi,Shanzeen Shahzad,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.2,Hong Kong,Shanzeen Shahzad,M Bibi,MM Dekeling,2,0,,,,,,"",""
+ball,2,15.3,Hong Kong,Shanzeen Shahzad,M Bibi,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.4,Hong Kong,M Bibi,Shanzeen Shahzad,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.5,Hong Kong,Shanzeen Shahzad,M Bibi,MM Dekeling,1,0,,,,,,"",""
+ball,2,15.6,Hong Kong,M Bibi,Shanzeen Shahzad,MM Dekeling,1,0,,,,,,"",""
+ball,2,16.1,Hong Kong,M Bibi,Shanzeen Shahzad,F Overdijk,0,0,,,,,,"",""
+ball,2,16.2,Hong Kong,M Bibi,Shanzeen Shahzad,F Overdijk,1,0,,,,,,"",""
+ball,2,16.3,Hong Kong,Shanzeen Shahzad,M Bibi,F Overdijk,1,0,,,,,,"",""
+ball,2,16.4,Hong Kong,M Bibi,Shanzeen Shahzad,F Overdijk,1,0,,,,,,"",""
+ball,2,16.5,Hong Kong,Shanzeen Shahzad,M Bibi,F Overdijk,0,0,,,,,,caught,Shanzeen Shahzad
+ball,2,16.6,Hong Kong,Joyleen Kaur,M Bibi,F Overdijk,0,0,,,,,,"",""
+ball,2,17.1,Hong Kong,M Bibi,Joyleen Kaur,C de Lange,0,0,,,,,,caught,M Bibi
+ball,2,17.2,Hong Kong,Iqra Sahar,Joyleen Kaur,C de Lange,1,0,,,,,,"",""
+ball,2,17.3,Hong Kong,Joyleen Kaur,Iqra Sahar,C de Lange,0,0,,,,,,"",""
+ball,2,17.4,Hong Kong,Joyleen Kaur,Iqra Sahar,C de Lange,1,0,,,,,,"",""
+ball,2,17.5,Hong Kong,Iqra Sahar,Joyleen Kaur,C de Lange,0,0,,,,,,"",""
+ball,2,17.6,Hong Kong,Iqra Sahar,Joyleen Kaur,C de Lange,0,0,,,,,,"",""
+ball,2,18.1,Hong Kong,Joyleen Kaur,Iqra Sahar,F Overdijk,0,0,,,,,,"",""
+ball,2,18.2,Hong Kong,Joyleen Kaur,Iqra Sahar,F Overdijk,1,0,,,,,,"",""
+ball,2,18.3,Hong Kong,Iqra Sahar,Joyleen Kaur,F Overdijk,1,0,,,,,,run out,Joyleen Kaur
+ball,2,18.4,Hong Kong,Iqra Sahar,Hiu Ying Cheung,F Overdijk,1,0,,,,,,"",""
+ball,2,18.5,Hong Kong,Hiu Ying Cheung,Iqra Sahar,F Overdijk,0,0,,,,,,"",""
+ball,2,18.6,Hong Kong,Hiu Ying Cheung,Iqra Sahar,F Overdijk,0,0,,,,,,"",""
+ball,2,19.1,Hong Kong,Iqra Sahar,Hiu Ying Cheung,C de Lange,1,0,,,,,,"",""
+ball,2,19.2,Hong Kong,Hiu Ying Cheung,Iqra Sahar,C de Lange,0,0,,,,,,bowled,Hiu Ying Cheung
+ball,2,19.3,Hong Kong,Chan Ka Man,Iqra Sahar,C de Lange,0,0,,,,,,"",""
+ball,2,19.4,Hong Kong,Chan Ka Man,Iqra Sahar,C de Lange,0,0,,,,,,"",""
+ball,2,19.5,Hong Kong,Chan Ka Man,Iqra Sahar,C de Lange,0,0,,,,,,"",""
+ball,2,19.6,Hong Kong,Chan Ka Man,Iqra Sahar,C de Lange,0,0,,,,,,"",""

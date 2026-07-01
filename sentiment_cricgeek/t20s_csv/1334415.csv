@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,New Zealand
+info,gender,female
+info,season,2022
+info,date,2022/09/28
+info,event,New Zealand Women tour of West Indies
+info,match_number,1
+info,venue,"Sir Vivian Richards Stadium, North Sound, Antigua"
+info,city,North Sound
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,CA Henry
+info,umpire,CM Tuckett
+info,umpire,S Crawford
+info,reserve_umpire,Danesh Ramdhanie
+info,match_referee,M Ragoonath
+info,winner,West Indies
+info,winner_runs,1
+info,player,West Indies,HK Matthews
+info,player,West Indies,NY McLean
+info,player,West Indies,AA Alleyne
+info,player,West Indies,CN Nation
+info,player,West Indies,Kyshona A Knight
+info,player,West Indies,RS Williams
+info,player,West Indies,CA Henry
+info,player,West Indies,S Gajnabi
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,SC Selman
+info,player,West Indies,K Ramharack
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,ML Green
+info,player,New Zealand,LR Down
+info,player,New Zealand,HNK Jensen
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,FC Jonas
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AC Kerr,7673c908
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,CA Henry,75820733
+info,registry,people,CM Tuckett,a67252f0
+info,registry,people,CN Nation,639000b6
+info,registry,people,Danesh Ramdhanie,d09891ad
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Kyshona A Knight,d85a1960
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,LR Down,19147fe0
+info,registry,people,M Ragoonath,6f596571
+info,registry,people,ML Green,865eae1f
+info,registry,people,NY McLean,1d39dc61
+info,registry,people,RS Williams,406de451
+info,registry,people,S Crawford,4b9184fd
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,SC Selman,c29ada99
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+ball,1,0.1,West Indies,HK Matthews,NY McLean,FC Jonas,1,0,,,,,,"",""
+ball,1,0.2,West Indies,NY McLean,HK Matthews,FC Jonas,0,0,,,,,,lbw,NY McLean
+ball,1,0.3,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,0.4,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,0.5,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,0.6,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,1.1,West Indies,HK Matthews,AA Alleyne,HNK Jensen,0,0,,,,,,"",""
+ball,1,1.2,West Indies,HK Matthews,AA Alleyne,HNK Jensen,0,0,,,,,,"",""
+ball,1,1.3,West Indies,HK Matthews,AA Alleyne,HNK Jensen,0,0,,,,,,"",""
+ball,1,1.4,West Indies,HK Matthews,AA Alleyne,HNK Jensen,1,0,,,,,,"",""
+ball,1,1.5,West Indies,AA Alleyne,HK Matthews,HNK Jensen,0,0,,,,,,"",""
+ball,1,1.6,West Indies,AA Alleyne,HK Matthews,HNK Jensen,3,0,,,,,,"",""
+ball,1,2.1,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,2.2,West Indies,AA Alleyne,HK Matthews,FC Jonas,1,0,,,,,,"",""
+ball,1,2.3,West Indies,HK Matthews,AA Alleyne,FC Jonas,1,0,,,,,,"",""
+ball,1,2.4,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,2.5,West Indies,AA Alleyne,HK Matthews,FC Jonas,1,0,,,,,,"",""
+ball,1,2.6,West Indies,HK Matthews,AA Alleyne,FC Jonas,1,0,,,,,,"",""
+ball,1,3.1,West Indies,HK Matthews,AA Alleyne,HNK Jensen,1,0,,,,,,"",""
+ball,1,3.2,West Indies,AA Alleyne,HK Matthews,HNK Jensen,2,0,,,,,,"",""
+ball,1,3.3,West Indies,AA Alleyne,HK Matthews,HNK Jensen,4,0,,,,,,"",""
+ball,1,3.4,West Indies,AA Alleyne,HK Matthews,HNK Jensen,0,0,,,,,,"",""
+ball,1,3.5,West Indies,AA Alleyne,HK Matthews,HNK Jensen,1,0,,,,,,"",""
+ball,1,3.6,West Indies,HK Matthews,AA Alleyne,HNK Jensen,1,0,,,,,,"",""
+ball,1,4.1,West Indies,HK Matthews,AA Alleyne,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,4.2,West Indies,HK Matthews,AA Alleyne,LMM Tahuhu,0,1,,,,1,,"",""
+ball,1,4.3,West Indies,AA Alleyne,HK Matthews,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,4.4,West Indies,HK Matthews,AA Alleyne,LMM Tahuhu,0,2,,,,2,,"",""
+ball,1,4.5,West Indies,HK Matthews,AA Alleyne,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,4.6,West Indies,AA Alleyne,HK Matthews,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,4.7,West Indies,HK Matthews,AA Alleyne,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,5.1,West Indies,AA Alleyne,HK Matthews,HM Rowe,0,0,,,,,,"",""
+ball,1,5.2,West Indies,AA Alleyne,HK Matthews,HM Rowe,0,0,,,,,,"",""
+ball,1,5.3,West Indies,AA Alleyne,HK Matthews,HM Rowe,0,0,,,,,,"",""
+ball,1,5.4,West Indies,AA Alleyne,HK Matthews,HM Rowe,2,0,,,,,,"",""
+ball,1,5.5,West Indies,AA Alleyne,HK Matthews,HM Rowe,4,0,,,,,,"",""
+ball,1,5.6,West Indies,AA Alleyne,HK Matthews,HM Rowe,3,0,,,,,,"",""
+ball,1,6.1,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,6.2,West Indies,AA Alleyne,HK Matthews,FC Jonas,1,0,,,,,,"",""
+ball,1,6.3,West Indies,HK Matthews,AA Alleyne,FC Jonas,0,0,,,,,,"",""
+ball,1,6.4,West Indies,HK Matthews,AA Alleyne,FC Jonas,1,0,,,,,,"",""
+ball,1,6.5,West Indies,AA Alleyne,HK Matthews,FC Jonas,4,0,,,,,,"",""
+ball,1,6.6,West Indies,AA Alleyne,HK Matthews,FC Jonas,0,0,,,,,,"",""
+ball,1,7.1,West Indies,HK Matthews,AA Alleyne,AC Kerr,2,0,,,,,,"",""
+ball,1,7.2,West Indies,HK Matthews,AA Alleyne,AC Kerr,0,0,,,,,,"",""
+ball,1,7.3,West Indies,HK Matthews,AA Alleyne,AC Kerr,0,0,,,,,,"",""
+ball,1,7.4,West Indies,HK Matthews,AA Alleyne,AC Kerr,0,0,,,,,,"",""
+ball,1,7.5,West Indies,HK Matthews,AA Alleyne,AC Kerr,0,1,1,,,,,"",""
+ball,1,7.6,West Indies,HK Matthews,AA Alleyne,AC Kerr,0,0,,,,,,"",""
+ball,1,7.7,West Indies,HK Matthews,AA Alleyne,AC Kerr,0,0,,,,,,"",""
+ball,1,8.1,West Indies,AA Alleyne,HK Matthews,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,8.2,West Indies,AA Alleyne,HK Matthews,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,8.3,West Indies,HK Matthews,AA Alleyne,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,8.4,West Indies,AA Alleyne,HK Matthews,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,8.5,West Indies,AA Alleyne,HK Matthews,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,8.6,West Indies,AA Alleyne,HK Matthews,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,9.1,West Indies,AA Alleyne,HK Matthews,AC Kerr,4,0,,,,,,"",""
+ball,1,9.2,West Indies,AA Alleyne,HK Matthews,AC Kerr,1,0,,,,,,"",""
+ball,1,9.3,West Indies,HK Matthews,AA Alleyne,AC Kerr,0,0,,,,,,caught,HK Matthews
+ball,1,9.4,West Indies,CN Nation,AA Alleyne,AC Kerr,0,0,,,,,,"",""
+ball,1,9.5,West Indies,CN Nation,AA Alleyne,AC Kerr,0,0,,,,,,"",""
+ball,1,9.6,West Indies,CN Nation,AA Alleyne,AC Kerr,1,0,,,,,,"",""
+ball,1,10.1,West Indies,CN Nation,AA Alleyne,FC Jonas,0,0,,,,,,"",""
+ball,1,10.2,West Indies,CN Nation,AA Alleyne,FC Jonas,0,0,,,,,,"",""
+ball,1,10.3,West Indies,CN Nation,AA Alleyne,FC Jonas,1,0,,,,,,"",""
+ball,1,10.4,West Indies,AA Alleyne,CN Nation,FC Jonas,1,0,,,,,,"",""
+ball,1,10.5,West Indies,CN Nation,AA Alleyne,FC Jonas,0,0,,,,,,bowled,CN Nation
+ball,1,10.6,West Indies,Kyshona A Knight,AA Alleyne,FC Jonas,0,0,,,,,,"",""
+ball,1,11.1,West Indies,AA Alleyne,Kyshona A Knight,AC Kerr,0,0,,,,,,"",""
+ball,1,11.2,West Indies,AA Alleyne,Kyshona A Knight,AC Kerr,1,0,,,,,,"",""
+ball,1,11.3,West Indies,Kyshona A Knight,AA Alleyne,AC Kerr,1,0,,,,,,"",""
+ball,1,11.4,West Indies,AA Alleyne,Kyshona A Knight,AC Kerr,0,0,,,,,,bowled,AA Alleyne
+ball,1,11.5,West Indies,RS Williams,Kyshona A Knight,AC Kerr,0,0,,,,,,"",""
+ball,1,11.6,West Indies,RS Williams,Kyshona A Knight,AC Kerr,1,0,,,,,,"",""
+ball,1,12.1,West Indies,RS Williams,Kyshona A Knight,SW Bates,0,0,,,,,,"",""
+ball,1,12.2,West Indies,RS Williams,Kyshona A Knight,SW Bates,0,0,,,,,,"",""
+ball,1,12.3,West Indies,RS Williams,Kyshona A Knight,SW Bates,1,0,,,,,,"",""
+ball,1,12.4,West Indies,Kyshona A Knight,RS Williams,SW Bates,0,0,,,,,,"",""
+ball,1,12.5,West Indies,Kyshona A Knight,RS Williams,SW Bates,1,0,,,,,,"",""
+ball,1,12.6,West Indies,RS Williams,Kyshona A Knight,SW Bates,1,0,,,,,,"",""
+ball,1,13.1,West Indies,RS Williams,Kyshona A Knight,SFM Devine,4,0,,,,,,"",""
+ball,1,13.2,West Indies,RS Williams,Kyshona A Knight,SFM Devine,0,0,,,,,,"",""
+ball,1,13.3,West Indies,RS Williams,Kyshona A Knight,SFM Devine,1,0,,,,,,"",""
+ball,1,13.4,West Indies,Kyshona A Knight,RS Williams,SFM Devine,1,0,,,,,,"",""
+ball,1,13.5,West Indies,RS Williams,Kyshona A Knight,SFM Devine,0,0,,,,,,"",""
+ball,1,13.6,West Indies,RS Williams,Kyshona A Knight,SFM Devine,0,0,,,,,,"",""
+ball,1,14.1,West Indies,Kyshona A Knight,RS Williams,SW Bates,1,0,,,,,,"",""
+ball,1,14.2,West Indies,RS Williams,Kyshona A Knight,SW Bates,1,0,,,,,,"",""
+ball,1,14.3,West Indies,Kyshona A Knight,RS Williams,SW Bates,0,0,,,,,,run out,Kyshona A Knight
+ball,1,14.4,West Indies,RS Williams,CA Henry,SW Bates,1,0,,,,,,"",""
+ball,1,14.5,West Indies,CA Henry,RS Williams,SW Bates,0,3,3,,,,,"",""
+ball,1,14.6,West Indies,CA Henry,RS Williams,SW Bates,1,0,,,,,,"",""
+ball,1,14.7,West Indies,RS Williams,CA Henry,SW Bates,4,0,,,,,,"",""
+ball,1,15.1,West Indies,CA Henry,RS Williams,HNK Jensen,1,0,,,,,,"",""
+ball,1,15.2,West Indies,RS Williams,CA Henry,HNK Jensen,0,0,,,,,,"",""
+ball,1,15.3,West Indies,RS Williams,CA Henry,HNK Jensen,0,0,,,,,,"",""
+ball,1,15.4,West Indies,RS Williams,CA Henry,HNK Jensen,1,0,,,,,,"",""
+ball,1,15.5,West Indies,CA Henry,RS Williams,HNK Jensen,0,0,,,,,,"",""
+ball,1,15.6,West Indies,CA Henry,RS Williams,HNK Jensen,1,0,,,,,,"",""
+ball,1,16.1,West Indies,CA Henry,RS Williams,SFM Devine,0,0,,,,,,"",""
+ball,1,16.2,West Indies,CA Henry,RS Williams,SFM Devine,4,0,,,,,,"",""
+ball,1,16.3,West Indies,CA Henry,RS Williams,SFM Devine,2,0,,,,,,"",""
+ball,1,16.4,West Indies,CA Henry,RS Williams,SFM Devine,1,0,,,,,,"",""
+ball,1,16.5,West Indies,RS Williams,CA Henry,SFM Devine,0,0,,,,,,caught,RS Williams
+ball,1,16.6,West Indies,CA Henry,S Gajnabi,SFM Devine,0,0,,,,,,"",""
+ball,1,17.1,West Indies,S Gajnabi,CA Henry,AC Kerr,2,0,,,,,,"",""
+ball,1,17.2,West Indies,S Gajnabi,CA Henry,AC Kerr,0,0,,,,,,"",""
+ball,1,17.3,West Indies,S Gajnabi,CA Henry,AC Kerr,0,1,1,,,,,"",""
+ball,1,17.4,West Indies,S Gajnabi,CA Henry,AC Kerr,0,0,,,,,,"",""
+ball,1,17.5,West Indies,S Gajnabi,CA Henry,AC Kerr,1,0,,,,,,"",""
+ball,1,17.6,West Indies,CA Henry,S Gajnabi,AC Kerr,0,0,,,,,,caught,CA Henry
+ball,1,17.7,West Indies,ASS Fletcher,S Gajnabi,AC Kerr,0,0,,,,,,"",""
+ball,1,18.1,West Indies,S Gajnabi,ASS Fletcher,SFM Devine,0,0,,,,,,caught,S Gajnabi
+ball,1,18.2,West Indies,ASS Fletcher,SC Selman,SFM Devine,1,0,,,,,,"",""
+ball,1,18.3,West Indies,SC Selman,ASS Fletcher,SFM Devine,1,0,,,,,,"",""
+ball,1,18.4,West Indies,ASS Fletcher,SC Selman,SFM Devine,0,0,,,,,,run out,ASS Fletcher
+ball,1,18.5,West Indies,SC Selman,K Ramharack,SFM Devine,0,0,,,,,,"",""
+ball,1,18.6,West Indies,SC Selman,K Ramharack,SFM Devine,0,0,,,,,,"",""
+ball,1,19.1,West Indies,K Ramharack,SC Selman,HNK Jensen,2,0,,,,,,"",""
+ball,1,19.2,West Indies,K Ramharack,SC Selman,HNK Jensen,0,0,,,,,,"",""
+ball,1,19.3,West Indies,K Ramharack,SC Selman,HNK Jensen,0,1,,,,1,,"",""
+ball,1,19.4,West Indies,SC Selman,K Ramharack,HNK Jensen,1,0,,,,,,"",""
+ball,1,19.5,West Indies,K Ramharack,SC Selman,HNK Jensen,1,0,,,,,,"",""
+ball,1,19.6,West Indies,SC Selman,K Ramharack,HNK Jensen,1,0,,,,,,run out,SC Selman
+ball,2,0.1,New Zealand,SFM Devine,SW Bates,AA Alleyne,4,0,,,,,,"",""
+ball,2,0.2,New Zealand,SFM Devine,SW Bates,AA Alleyne,0,0,,,,,,"",""
+ball,2,0.3,New Zealand,SFM Devine,SW Bates,AA Alleyne,0,0,,,,,,"",""
+ball,2,0.4,New Zealand,SFM Devine,SW Bates,AA Alleyne,1,0,,,,,,"",""
+ball,2,0.5,New Zealand,SW Bates,SFM Devine,AA Alleyne,0,0,,,,,,"",""
+ball,2,0.6,New Zealand,SW Bates,SFM Devine,AA Alleyne,0,1,1,,,,,"",""
+ball,2,0.7,New Zealand,SW Bates,SFM Devine,AA Alleyne,4,0,,,,,,"",""
+ball,2,1.1,New Zealand,SFM Devine,SW Bates,HK Matthews,0,0,,,,,,"",""
+ball,2,1.2,New Zealand,SFM Devine,SW Bates,HK Matthews,2,0,,,,,,"",""
+ball,2,1.3,New Zealand,SFM Devine,SW Bates,HK Matthews,2,0,,,,,,"",""
+ball,2,1.4,New Zealand,SFM Devine,SW Bates,HK Matthews,1,0,,,,,,"",""
+ball,2,1.5,New Zealand,SW Bates,SFM Devine,HK Matthews,1,0,,,,,,"",""
+ball,2,1.6,New Zealand,SFM Devine,SW Bates,HK Matthews,0,0,,,,,,"",""
+ball,2,2.1,New Zealand,SW Bates,SFM Devine,CA Henry,0,0,,,,,,"",""
+ball,2,2.2,New Zealand,SW Bates,SFM Devine,CA Henry,0,0,,,,,,lbw,SW Bates
+ball,2,2.3,New Zealand,GE Plimmer,SFM Devine,CA Henry,1,0,,,,,,"",""
+ball,2,2.4,New Zealand,SFM Devine,GE Plimmer,CA Henry,6,0,,,,,,"",""
+ball,2,2.5,New Zealand,SFM Devine,GE Plimmer,CA Henry,0,0,,,,,,"",""
+ball,2,2.6,New Zealand,SFM Devine,GE Plimmer,CA Henry,0,0,,,,,,"",""
+ball,2,3.1,New Zealand,GE Plimmer,SFM Devine,HK Matthews,0,0,,,,,,"",""
+ball,2,3.2,New Zealand,GE Plimmer,SFM Devine,HK Matthews,1,0,,,,,,"",""
+ball,2,3.3,New Zealand,SFM Devine,GE Plimmer,HK Matthews,1,0,,,,,,"",""
+ball,2,3.4,New Zealand,GE Plimmer,SFM Devine,HK Matthews,0,0,,,,,,caught,GE Plimmer
+ball,2,3.5,New Zealand,SFM Devine,AC Kerr,HK Matthews,0,0,,,,,,"",""
+ball,2,3.6,New Zealand,SFM Devine,AC Kerr,HK Matthews,0,0,,,,,,"",""
+ball,2,4.1,New Zealand,AC Kerr,SFM Devine,CA Henry,0,0,,,,,,"",""
+ball,2,4.2,New Zealand,AC Kerr,SFM Devine,CA Henry,1,0,,,,,,"",""
+ball,2,4.3,New Zealand,SFM Devine,AC Kerr,CA Henry,4,0,,,,,,"",""
+ball,2,4.4,New Zealand,SFM Devine,AC Kerr,CA Henry,2,0,,,,,,"",""
+ball,2,4.5,New Zealand,SFM Devine,AC Kerr,CA Henry,0,0,,,,,,caught,SFM Devine
+ball,2,4.6,New Zealand,ML Green,AC Kerr,CA Henry,4,0,,,,,,"",""
+ball,2,5.1,New Zealand,AC Kerr,ML Green,SC Selman,0,0,,,,,,"",""
+ball,2,5.2,New Zealand,AC Kerr,ML Green,SC Selman,1,0,,,,,,"",""
+ball,2,5.3,New Zealand,ML Green,AC Kerr,SC Selman,4,0,,,,,,"",""
+ball,2,5.4,New Zealand,ML Green,AC Kerr,SC Selman,1,0,,,,,,"",""
+ball,2,5.5,New Zealand,AC Kerr,ML Green,SC Selman,1,0,,,,,,"",""
+ball,2,5.6,New Zealand,ML Green,AC Kerr,SC Selman,1,0,,,,,,"",""
+ball,2,6.1,New Zealand,ML Green,AC Kerr,CA Henry,0,0,,,,,,"",""
+ball,2,6.2,New Zealand,ML Green,AC Kerr,CA Henry,1,0,,,,,,"",""
+ball,2,6.3,New Zealand,AC Kerr,ML Green,CA Henry,0,0,,,,,,caught and bowled,AC Kerr
+ball,2,6.4,New Zealand,LR Down,ML Green,CA Henry,0,0,,,,,,"",""
+ball,2,6.5,New Zealand,LR Down,ML Green,CA Henry,0,0,,,,,,run out,ML Green
+ball,2,6.6,New Zealand,HNK Jensen,LR Down,CA Henry,1,0,,,,,,"",""
+ball,2,7.1,New Zealand,HNK Jensen,LR Down,K Ramharack,0,0,,,,,,"",""
+ball,2,7.2,New Zealand,HNK Jensen,LR Down,K Ramharack,1,0,,,,,,"",""
+ball,2,7.3,New Zealand,LR Down,HNK Jensen,K Ramharack,0,0,,,,,,"",""
+ball,2,7.4,New Zealand,LR Down,HNK Jensen,K Ramharack,0,0,,,,,,"",""
+ball,2,7.5,New Zealand,LR Down,HNK Jensen,K Ramharack,1,0,,,,,,"",""
+ball,2,7.6,New Zealand,HNK Jensen,LR Down,K Ramharack,0,0,,,,,,"",""
+ball,2,8.1,New Zealand,LR Down,HNK Jensen,CA Henry,2,0,,,,,,"",""
+ball,2,8.2,New Zealand,LR Down,HNK Jensen,CA Henry,1,0,,,,,,"",""
+ball,2,8.3,New Zealand,HNK Jensen,LR Down,CA Henry,0,0,,,,,,"",""
+ball,2,8.4,New Zealand,HNK Jensen,LR Down,CA Henry,1,0,,,,,,"",""
+ball,2,8.5,New Zealand,LR Down,HNK Jensen,CA Henry,1,0,,,,,,"",""
+ball,2,8.6,New Zealand,HNK Jensen,LR Down,CA Henry,1,0,,,,,,"",""
+ball,2,9.1,New Zealand,HNK Jensen,LR Down,K Ramharack,1,0,,,,,,"",""
+ball,2,9.2,New Zealand,LR Down,HNK Jensen,K Ramharack,4,0,,,,,,"",""
+ball,2,9.3,New Zealand,LR Down,HNK Jensen,K Ramharack,1,0,,,,,,"",""
+ball,2,9.4,New Zealand,HNK Jensen,LR Down,K Ramharack,1,0,,,,,,"",""
+ball,2,9.5,New Zealand,LR Down,HNK Jensen,K Ramharack,0,0,,,,,,"",""
+ball,2,9.6,New Zealand,LR Down,HNK Jensen,K Ramharack,0,0,,,,,,lbw,LR Down
+ball,2,10.1,New Zealand,HNK Jensen,LMM Tahuhu,ASS Fletcher,1,0,,,,,,"",""
+ball,2,10.2,New Zealand,LMM Tahuhu,HNK Jensen,ASS Fletcher,0,0,,,,,,"",""
+ball,2,10.3,New Zealand,LMM Tahuhu,HNK Jensen,ASS Fletcher,0,0,,,,,,"",""
+ball,2,10.4,New Zealand,LMM Tahuhu,HNK Jensen,ASS Fletcher,1,0,,,,,,"",""
+ball,2,10.5,New Zealand,HNK Jensen,LMM Tahuhu,ASS Fletcher,0,0,,,,,,"",""
+ball,2,10.6,New Zealand,HNK Jensen,LMM Tahuhu,ASS Fletcher,0,0,,,,,,"",""
+ball,2,11.1,New Zealand,LMM Tahuhu,HNK Jensen,K Ramharack,0,0,,,,,,"",""
+ball,2,11.2,New Zealand,LMM Tahuhu,HNK Jensen,K Ramharack,0,0,,,,,,"",""
+ball,2,11.3,New Zealand,LMM Tahuhu,HNK Jensen,K Ramharack,0,0,,,,,,"",""
+ball,2,11.4,New Zealand,LMM Tahuhu,HNK Jensen,K Ramharack,1,0,,,,,,"",""
+ball,2,11.5,New Zealand,HNK Jensen,LMM Tahuhu,K Ramharack,1,0,,,,,,"",""
+ball,2,11.6,New Zealand,LMM Tahuhu,HNK Jensen,K Ramharack,1,0,,,,,,"",""
+ball,2,12.1,New Zealand,LMM Tahuhu,HNK Jensen,ASS Fletcher,0,0,,,,,,"",""
+ball,2,12.2,New Zealand,LMM Tahuhu,HNK Jensen,ASS Fletcher,0,0,,,,,,"",""
+ball,2,12.3,New Zealand,LMM Tahuhu,HNK Jensen,ASS Fletcher,2,0,,,,,,"",""
+ball,2,12.4,New Zealand,LMM Tahuhu,HNK Jensen,ASS Fletcher,1,0,,,,,,"",""
+ball,2,12.5,New Zealand,HNK Jensen,LMM Tahuhu,ASS Fletcher,0,0,,,,,,"",""
+ball,2,12.6,New Zealand,HNK Jensen,LMM Tahuhu,ASS Fletcher,0,0,,,,,,caught,HNK Jensen
+ball,2,13.1,New Zealand,HM Rowe,LMM Tahuhu,K Ramharack,0,0,,,,,,"",""
+ball,2,13.2,New Zealand,HM Rowe,LMM Tahuhu,K Ramharack,0,0,,,,,,"",""
+ball,2,13.3,New Zealand,HM Rowe,LMM Tahuhu,K Ramharack,1,0,,,,,,"",""
+ball,2,13.4,New Zealand,LMM Tahuhu,HM Rowe,K Ramharack,0,0,,,,,,"",""
+ball,2,13.5,New Zealand,LMM Tahuhu,HM Rowe,K Ramharack,1,0,,,,,,"",""
+ball,2,13.6,New Zealand,HM Rowe,LMM Tahuhu,K Ramharack,1,0,,,,,,"",""
+ball,2,14.1,New Zealand,HM Rowe,LMM Tahuhu,ASS Fletcher,2,0,,,,,,"",""
+ball,2,14.2,New Zealand,HM Rowe,LMM Tahuhu,ASS Fletcher,0,0,,,,,,"",""
+ball,2,14.3,New Zealand,HM Rowe,LMM Tahuhu,ASS Fletcher,1,0,,,,,,"",""
+ball,2,14.4,New Zealand,LMM Tahuhu,HM Rowe,ASS Fletcher,0,0,,,,,,"",""
+ball,2,14.5,New Zealand,LMM Tahuhu,HM Rowe,ASS Fletcher,0,0,,,,,,caught,LMM Tahuhu
+ball,2,14.6,New Zealand,HM Rowe,IC Gaze,ASS Fletcher,0,0,,,,,,"",""
+ball,2,15.1,New Zealand,IC Gaze,HM Rowe,HK Matthews,0,0,,,,,,"",""
+ball,2,15.2,New Zealand,IC Gaze,HM Rowe,HK Matthews,0,0,,,,,,"",""
+ball,2,15.3,New Zealand,IC Gaze,HM Rowe,HK Matthews,1,0,,,,,,"",""
+ball,2,15.4,New Zealand,HM Rowe,IC Gaze,HK Matthews,0,0,,,,,,"",""
+ball,2,15.5,New Zealand,HM Rowe,IC Gaze,HK Matthews,0,0,,,,,,"",""
+ball,2,15.6,New Zealand,HM Rowe,IC Gaze,HK Matthews,1,0,,,,,,"",""
+ball,2,16.1,New Zealand,HM Rowe,IC Gaze,ASS Fletcher,2,0,,,,,,"",""
+ball,2,16.2,New Zealand,HM Rowe,IC Gaze,ASS Fletcher,1,0,,,,,,"",""
+ball,2,16.3,New Zealand,IC Gaze,HM Rowe,ASS Fletcher,4,0,,,,,,"",""
+ball,2,16.4,New Zealand,IC Gaze,HM Rowe,ASS Fletcher,0,0,,,,,,"",""
+ball,2,16.5,New Zealand,IC Gaze,HM Rowe,ASS Fletcher,2,0,,,,,,"",""
+ball,2,16.6,New Zealand,IC Gaze,HM Rowe,ASS Fletcher,1,0,,,,,,"",""
+ball,2,17.1,New Zealand,IC Gaze,HM Rowe,HK Matthews,0,0,,,,,,"",""
+ball,2,17.2,New Zealand,IC Gaze,HM Rowe,HK Matthews,1,0,,,,,,"",""
+ball,2,17.3,New Zealand,HM Rowe,IC Gaze,HK Matthews,0,0,,,,,,"",""
+ball,2,17.4,New Zealand,HM Rowe,IC Gaze,HK Matthews,0,1,,,,1,,"",""
+ball,2,17.5,New Zealand,IC Gaze,HM Rowe,HK Matthews,4,0,,,,,,"",""
+ball,2,17.6,New Zealand,IC Gaze,HM Rowe,HK Matthews,1,0,,,,,,"",""
+ball,2,18.1,New Zealand,IC Gaze,HM Rowe,SC Selman,0,0,,,,,,"",""
+ball,2,18.2,New Zealand,IC Gaze,HM Rowe,SC Selman,1,0,,,,,,"",""
+ball,2,18.3,New Zealand,HM Rowe,IC Gaze,SC Selman,1,0,,,,,,"",""
+ball,2,18.4,New Zealand,IC Gaze,HM Rowe,SC Selman,0,0,,,,,,bowled,IC Gaze
+ball,2,18.5,New Zealand,FC Jonas,HM Rowe,SC Selman,0,0,,,,,,"",""
+ball,2,18.6,New Zealand,FC Jonas,HM Rowe,SC Selman,0,0,,,,,,"",""
+ball,2,19.1,New Zealand,HM Rowe,FC Jonas,AA Alleyne,4,0,,,,,,"",""
+ball,2,19.2,New Zealand,HM Rowe,FC Jonas,AA Alleyne,1,0,,,,,,"",""
+ball,2,19.3,New Zealand,FC Jonas,HM Rowe,AA Alleyne,1,0,,,,,,"",""
+ball,2,19.4,New Zealand,HM Rowe,FC Jonas,AA Alleyne,2,0,,,,,,"",""
+ball,2,19.5,New Zealand,HM Rowe,FC Jonas,AA Alleyne,4,0,,,,,,"",""
+ball,2,19.6,New Zealand,HM Rowe,FC Jonas,AA Alleyne,6,0,,,,,,"",""

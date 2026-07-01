@@ -1,0 +1,246 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Brazil
+info,team,Nigeria
+info,gender,female
+info,season,2022
+info,date,2022/06/09
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,3
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,player_of_match,F Eseigbe
+info,umpire,Gaston Niyibizi
+info,umpire,Vicky Prajapati
+info,reserve_umpire,Itangishaka Olivier
+info,winner,Nigeria
+info,winner_wickets,8
+info,player,Brazil,D Staddon
+info,player,Brazil,E de Souza
+info,player,Brazil,LV Boas
+info,player,Brazil,RMAM Avery
+info,player,Brazil,L Agatha
+info,player,Brazil,RD de Sousa
+info,player,Brazil,M Artur
+info,player,Brazil,MLG Silva
+info,player,Brazil,NC Monteiro
+info,player,Brazil,M Ribeiro
+info,player,Brazil,CS Nascimento
+info,player,Nigeria,K Abdulquadri
+info,player,Nigeria,E Sandy
+info,player,Nigeria,A Obulor
+info,player,Nigeria,S Sunday
+info,player,Nigeria,A Igbobie
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,R Samson
+info,player,Nigeria,M Imimole
+info,player,Nigeria,B Etim
+info,player,Nigeria,L Udeh
+info,player,Nigeria,R Abdulrasak
+info,registry,people,A Igbobie,8e75f2c7
+info,registry,people,A Obulor,abba64cd
+info,registry,people,B Etim,11d0079f
+info,registry,people,CS Nascimento,df997334
+info,registry,people,D Staddon,4a28527d
+info,registry,people,E Sandy,59063d6b
+info,registry,people,E de Souza,7c68aac4
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,K Abdulquadri,87dcd3ee
+info,registry,people,L Agatha,1aebb2fa
+info,registry,people,L Udeh,8451562a
+info,registry,people,LV Boas,3a00d34f
+info,registry,people,M Artur,400b36cd
+info,registry,people,M Imimole,15d6ef32
+info,registry,people,M Ribeiro,38424a4d
+info,registry,people,MLG Silva,3b62a6b4
+info,registry,people,NC Monteiro,752af5a4
+info,registry,people,R Abdulrasak,65c9fc31
+info,registry,people,R Samson,e63c08e9
+info,registry,people,RD de Sousa,2901e489
+info,registry,people,RMAM Avery,4cf645c9
+info,registry,people,S Sunday,594a0dec
+info,registry,people,Vicky Prajapati,8926ed4e
+ball,1,0.1,Brazil,D Staddon,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,0.2,Brazil,D Staddon,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,0.3,Brazil,D Staddon,E de Souza,L Udeh,0,1,1,,,,,"",""
+ball,1,0.4,Brazil,D Staddon,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,0.5,Brazil,D Staddon,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,0.6,Brazil,D Staddon,E de Souza,L Udeh,0,1,,,,1,,"",""
+ball,1,0.7,Brazil,E de Souza,D Staddon,L Udeh,0,0,,,,,,"",""
+ball,1,1.1,Brazil,D Staddon,E de Souza,R Abdulrasak,0,0,,,,,,"",""
+ball,1,1.2,Brazil,D Staddon,E de Souza,R Abdulrasak,0,0,,,,,,bowled,D Staddon
+ball,1,1.3,Brazil,LV Boas,E de Souza,R Abdulrasak,2,0,,,,,,"",""
+ball,1,1.4,Brazil,LV Boas,E de Souza,R Abdulrasak,0,0,,,,,,"",""
+ball,1,1.5,Brazil,LV Boas,E de Souza,R Abdulrasak,4,0,,,,,,"",""
+ball,1,1.6,Brazil,LV Boas,E de Souza,R Abdulrasak,0,0,,,,,,"",""
+ball,1,2.1,Brazil,E de Souza,LV Boas,L Udeh,1,0,,,,,,"",""
+ball,1,2.2,Brazil,LV Boas,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,2.3,Brazil,LV Boas,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,2.4,Brazil,LV Boas,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,2.5,Brazil,LV Boas,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,2.6,Brazil,LV Boas,E de Souza,L Udeh,0,0,,,,,,lbw,LV Boas
+ball,1,3.1,Brazil,E de Souza,RMAM Avery,R Abdulrasak,0,0,,,,,,"",""
+ball,1,3.2,Brazil,E de Souza,RMAM Avery,R Abdulrasak,0,0,,,,,,"",""
+ball,1,3.3,Brazil,E de Souza,RMAM Avery,R Abdulrasak,0,0,,,,,,"",""
+ball,1,3.4,Brazil,E de Souza,RMAM Avery,R Abdulrasak,0,0,,,,,,"",""
+ball,1,3.5,Brazil,E de Souza,RMAM Avery,R Abdulrasak,1,0,,,,,,"",""
+ball,1,3.6,Brazil,RMAM Avery,E de Souza,R Abdulrasak,0,0,,,,,,"",""
+ball,1,4.1,Brazil,E de Souza,RMAM Avery,L Udeh,2,0,,,,,,"",""
+ball,1,4.2,Brazil,E de Souza,RMAM Avery,L Udeh,0,0,,,,,,"",""
+ball,1,4.3,Brazil,E de Souza,RMAM Avery,L Udeh,2,1,,1,,,,"",""
+ball,1,4.4,Brazil,E de Souza,RMAM Avery,L Udeh,0,0,,,,,,"",""
+ball,1,4.5,Brazil,E de Souza,RMAM Avery,L Udeh,4,0,,,,,,"",""
+ball,1,4.6,Brazil,E de Souza,RMAM Avery,L Udeh,1,0,,,,,,"",""
+ball,1,4.7,Brazil,RMAM Avery,E de Souza,L Udeh,0,1,1,,,,,"",""
+ball,1,4.8,Brazil,RMAM Avery,E de Souza,L Udeh,0,0,,,,,,"",""
+ball,1,5.1,Brazil,E de Souza,RMAM Avery,R Samson,0,1,,1,,,,"",""
+ball,1,5.2,Brazil,E de Souza,RMAM Avery,R Samson,1,0,,,,,,"",""
+ball,1,5.3,Brazil,RMAM Avery,E de Souza,R Samson,0,0,,,,,,lbw,RMAM Avery
+ball,1,5.4,Brazil,L Agatha,E de Souza,R Samson,0,0,,,,,,"",""
+ball,1,5.5,Brazil,L Agatha,E de Souza,R Samson,4,1,,1,,,,"",""
+ball,1,5.6,Brazil,L Agatha,E de Souza,R Samson,0,1,,,1,,,"",""
+ball,1,5.7,Brazil,E de Souza,L Agatha,R Samson,0,0,,,,,,"",""
+ball,1,5.8,Brazil,E de Souza,L Agatha,R Samson,0,0,,,,,,"",""
+ball,1,6.1,Brazil,L Agatha,E de Souza,F Eseigbe,1,0,,,,,,"",""
+ball,1,6.2,Brazil,E de Souza,L Agatha,F Eseigbe,0,0,,,,,,"",""
+ball,1,6.3,Brazil,E de Souza,L Agatha,F Eseigbe,0,0,,,,,,"",""
+ball,1,6.4,Brazil,E de Souza,L Agatha,F Eseigbe,0,0,,,,,,"",""
+ball,1,6.5,Brazil,E de Souza,L Agatha,F Eseigbe,0,1,1,,,,,"",""
+ball,1,6.6,Brazil,E de Souza,L Agatha,F Eseigbe,0,1,1,,,,,"",""
+ball,1,6.7,Brazil,E de Souza,L Agatha,F Eseigbe,0,0,,,,,,"",""
+ball,1,6.8,Brazil,E de Souza,L Agatha,F Eseigbe,0,0,,,,,,caught,E de Souza
+ball,1,7.1,Brazil,L Agatha,RD de Sousa,R Samson,0,0,,,,,,"",""
+ball,1,7.2,Brazil,L Agatha,RD de Sousa,R Samson,0,0,,,,,,"",""
+ball,1,7.3,Brazil,L Agatha,RD de Sousa,R Samson,0,0,,,,,,bowled,L Agatha
+ball,1,7.4,Brazil,M Artur,RD de Sousa,R Samson,0,0,,,,,,"",""
+ball,1,7.5,Brazil,M Artur,RD de Sousa,R Samson,0,0,,,,,,"",""
+ball,1,7.6,Brazil,M Artur,RD de Sousa,R Samson,1,0,,,,,,"",""
+ball,1,8.1,Brazil,M Artur,RD de Sousa,F Eseigbe,0,0,,,,,,"",""
+ball,1,8.2,Brazil,M Artur,RD de Sousa,F Eseigbe,0,0,,,,,,"",""
+ball,1,8.3,Brazil,M Artur,RD de Sousa,F Eseigbe,0,0,,,,,,bowled,M Artur
+ball,1,8.4,Brazil,MLG Silva,RD de Sousa,F Eseigbe,0,0,,,,,,"",""
+ball,1,8.5,Brazil,MLG Silva,RD de Sousa,F Eseigbe,0,0,,,,,,"",""
+ball,1,8.6,Brazil,MLG Silva,RD de Sousa,F Eseigbe,0,0,,,,,,"",""
+ball,1,9.1,Brazil,RD de Sousa,MLG Silva,M Imimole,0,1,1,,,,,"",""
+ball,1,9.2,Brazil,RD de Sousa,MLG Silva,M Imimole,0,0,,,,,,"",""
+ball,1,9.3,Brazil,RD de Sousa,MLG Silva,M Imimole,0,0,,,,,,"",""
+ball,1,9.4,Brazil,RD de Sousa,MLG Silva,M Imimole,0,0,,,,,,"",""
+ball,1,9.5,Brazil,RD de Sousa,MLG Silva,M Imimole,0,0,,,,,,"",""
+ball,1,9.6,Brazil,RD de Sousa,MLG Silva,M Imimole,2,0,,,,,,"",""
+ball,1,9.7,Brazil,RD de Sousa,MLG Silva,M Imimole,0,1,1,,,,,"",""
+ball,1,9.8,Brazil,RD de Sousa,MLG Silva,M Imimole,0,0,,,,,,"",""
+ball,1,10.1,Brazil,MLG Silva,RD de Sousa,F Eseigbe,1,0,,,,,,"",""
+ball,1,10.2,Brazil,RD de Sousa,MLG Silva,F Eseigbe,1,0,,,,,,"",""
+ball,1,10.3,Brazil,MLG Silva,RD de Sousa,F Eseigbe,0,0,,,,,,caught,MLG Silva
+ball,1,10.4,Brazil,RD de Sousa,NC Monteiro,F Eseigbe,1,0,,,,,,"",""
+ball,1,10.5,Brazil,NC Monteiro,RD de Sousa,F Eseigbe,0,0,,,,,,"",""
+ball,1,10.6,Brazil,NC Monteiro,RD de Sousa,F Eseigbe,1,0,,,,,,"",""
+ball,1,11.1,Brazil,NC Monteiro,RD de Sousa,M Imimole,0,0,,,,,,"",""
+ball,1,11.2,Brazil,NC Monteiro,RD de Sousa,M Imimole,0,0,,,,,,"",""
+ball,1,11.3,Brazil,NC Monteiro,RD de Sousa,M Imimole,0,0,,,,,,"",""
+ball,1,11.4,Brazil,NC Monteiro,RD de Sousa,M Imimole,1,0,,,,,,"",""
+ball,1,11.5,Brazil,RD de Sousa,NC Monteiro,M Imimole,0,0,,,,,,"",""
+ball,1,11.6,Brazil,RD de Sousa,NC Monteiro,M Imimole,0,1,1,,,,,"",""
+ball,1,11.7,Brazil,RD de Sousa,NC Monteiro,M Imimole,0,0,,,,,,"",""
+ball,1,12.1,Brazil,NC Monteiro,RD de Sousa,F Eseigbe,1,0,,,,,,"",""
+ball,1,12.2,Brazil,RD de Sousa,NC Monteiro,F Eseigbe,1,0,,,,,,"",""
+ball,1,12.3,Brazil,NC Monteiro,RD de Sousa,F Eseigbe,1,0,,,,,,"",""
+ball,1,12.4,Brazil,RD de Sousa,NC Monteiro,F Eseigbe,0,0,,,,,,"",""
+ball,1,12.5,Brazil,RD de Sousa,NC Monteiro,F Eseigbe,1,0,,,,,,"",""
+ball,1,12.6,Brazil,NC Monteiro,RD de Sousa,F Eseigbe,1,0,,,,,,"",""
+ball,1,13.1,Brazil,NC Monteiro,RD de Sousa,R Abdulrasak,2,0,,,,,,"",""
+ball,1,13.2,Brazil,NC Monteiro,RD de Sousa,R Abdulrasak,0,0,,,,,,"",""
+ball,1,13.3,Brazil,NC Monteiro,RD de Sousa,R Abdulrasak,0,0,,,,,,"",""
+ball,1,13.4,Brazil,NC Monteiro,RD de Sousa,R Abdulrasak,0,0,,,,,,"",""
+ball,1,13.5,Brazil,NC Monteiro,RD de Sousa,R Abdulrasak,0,0,,,,,,"",""
+ball,1,13.6,Brazil,NC Monteiro,RD de Sousa,R Abdulrasak,0,0,,,,,,lbw,NC Monteiro
+ball,1,14.1,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,1,1,,,,,"",""
+ball,1,14.2,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,1,1,,,,,"",""
+ball,1,14.3,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,0,,,,,,"",""
+ball,1,14.4,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,1,1,,,,,"",""
+ball,1,14.5,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,0,,,,,,"",""
+ball,1,14.6,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,0,,,,,,"",""
+ball,1,14.7,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,0,,,,,,"",""
+ball,1,14.8,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,0,,,,,,"",""
+ball,1,14.9,Brazil,RD de Sousa,M Ribeiro,L Udeh,0,0,,,,,,"",""
+ball,1,15.1,Brazil,M Ribeiro,RD de Sousa,R Abdulrasak,0,0,,,,,,bowled,M Ribeiro
+ball,1,15.2,Brazil,CS Nascimento,RD de Sousa,R Abdulrasak,0,0,,,,,,bowled,CS Nascimento
+ball,2,0.1,Nigeria,K Abdulquadri,E Sandy,M Ribeiro,1,0,,,,,,"",""
+ball,2,0.2,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,0,,,,,,"",""
+ball,2,0.3,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,1,1,,,,,"",""
+ball,2,0.4,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,1,1,,,,,"",""
+ball,2,0.5,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,0,,,,,,"",""
+ball,2,0.6,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,1,0,,,,,,"",""
+ball,2,0.7,Nigeria,K Abdulquadri,E Sandy,M Ribeiro,0,0,,,,,,"",""
+ball,2,0.8,Nigeria,K Abdulquadri,E Sandy,M Ribeiro,0,0,,,,,,"",""
+ball,2,1.1,Nigeria,E Sandy,K Abdulquadri,NC Monteiro,0,0,,,,,,"",""
+ball,2,1.2,Nigeria,E Sandy,K Abdulquadri,NC Monteiro,0,0,,,,,,"",""
+ball,2,1.3,Nigeria,E Sandy,K Abdulquadri,NC Monteiro,1,0,,,,,,"",""
+ball,2,1.4,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,0,,,,,,"",""
+ball,2,1.5,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,2,0,,,,,,"",""
+ball,2,1.6,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,0,,,,,,"",""
+ball,2,2.1,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,1,1,,,,,"",""
+ball,2,2.2,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,2,0,,,,,,"",""
+ball,2,2.3,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,1,,1,,,,"",""
+ball,2,2.4,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,0,,,,,,"",""
+ball,2,2.5,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,2,0,,,,,,"",""
+ball,2,2.6,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,0,0,,,,,,"",""
+ball,2,2.7,Nigeria,E Sandy,K Abdulquadri,M Ribeiro,1,0,,,,,,"",""
+ball,2,2.8,Nigeria,K Abdulquadri,E Sandy,M Ribeiro,1,0,,,,,,"",""
+ball,2,3.1,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,0,,,,,,"",""
+ball,2,3.2,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,1,1,,,,,"",""
+ball,2,3.3,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,0,,,,,,"",""
+ball,2,3.4,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,0,,,,,,"",""
+ball,2,3.5,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,0,,,,,,"",""
+ball,2,3.6,Nigeria,K Abdulquadri,E Sandy,NC Monteiro,0,1,,,1,,,"",""
+ball,2,3.7,Nigeria,E Sandy,K Abdulquadri,NC Monteiro,0,0,,,,,,"",""
+ball,2,4.1,Nigeria,K Abdulquadri,E Sandy,RD de Sousa,0,0,,,,,,"",""
+ball,2,4.2,Nigeria,K Abdulquadri,E Sandy,RD de Sousa,0,0,,,,,,caught,K Abdulquadri
+ball,2,4.3,Nigeria,A Obulor,E Sandy,RD de Sousa,0,0,,,,,,"",""
+ball,2,4.4,Nigeria,A Obulor,E Sandy,RD de Sousa,0,1,1,,,,,"",""
+ball,2,4.5,Nigeria,A Obulor,E Sandy,RD de Sousa,0,0,,,,,,"",""
+ball,2,4.6,Nigeria,A Obulor,E Sandy,RD de Sousa,0,0,,,,,,"",""
+ball,2,4.7,Nigeria,A Obulor,E Sandy,RD de Sousa,4,0,,,,,,"",""
+ball,2,5.1,Nigeria,E Sandy,A Obulor,NC Monteiro,0,0,,,,,,"",""
+ball,2,5.2,Nigeria,E Sandy,A Obulor,NC Monteiro,0,0,,,,,,"",""
+ball,2,5.3,Nigeria,E Sandy,A Obulor,NC Monteiro,0,0,,,,,,"",""
+ball,2,5.4,Nigeria,E Sandy,A Obulor,NC Monteiro,0,0,,,,,,"",""
+ball,2,5.5,Nigeria,E Sandy,A Obulor,NC Monteiro,0,0,,,,,,"",""
+ball,2,5.6,Nigeria,E Sandy,A Obulor,NC Monteiro,0,0,,,,,,bowled,E Sandy
+ball,2,6.1,Nigeria,A Obulor,S Sunday,RD de Sousa,0,0,,,,,,"",""
+ball,2,6.2,Nigeria,A Obulor,S Sunday,RD de Sousa,0,0,,,,,,"",""
+ball,2,6.3,Nigeria,A Obulor,S Sunday,RD de Sousa,1,0,,,,,,"",""
+ball,2,6.4,Nigeria,S Sunday,A Obulor,RD de Sousa,0,0,,,,,,"",""
+ball,2,6.5,Nigeria,S Sunday,A Obulor,RD de Sousa,0,0,,,,,,"",""
+ball,2,6.6,Nigeria,S Sunday,A Obulor,RD de Sousa,1,0,,,,,,"",""
+ball,2,7.1,Nigeria,A Obulor,S Sunday,D Staddon,1,0,,,,,,"",""
+ball,2,7.2,Nigeria,S Sunday,A Obulor,D Staddon,0,0,,,,,,"",""
+ball,2,7.3,Nigeria,S Sunday,A Obulor,D Staddon,1,0,,,,,,"",""
+ball,2,7.4,Nigeria,A Obulor,S Sunday,D Staddon,0,0,,,,,,"",""
+ball,2,7.5,Nigeria,A Obulor,S Sunday,D Staddon,0,0,,,,,,"",""
+ball,2,7.6,Nigeria,A Obulor,S Sunday,D Staddon,0,0,,,,,,"",""
+ball,2,8.1,Nigeria,S Sunday,A Obulor,RD de Sousa,1,0,,,,,,"",""
+ball,2,8.2,Nigeria,A Obulor,S Sunday,RD de Sousa,1,0,,,,,,"",""
+ball,2,8.3,Nigeria,S Sunday,A Obulor,RD de Sousa,1,0,,,,,,"",""
+ball,2,8.4,Nigeria,A Obulor,S Sunday,RD de Sousa,0,0,,,,,,"",""
+ball,2,8.5,Nigeria,A Obulor,S Sunday,RD de Sousa,0,0,,,,,,"",""
+ball,2,8.6,Nigeria,A Obulor,S Sunday,RD de Sousa,0,0,,,,,,"",""
+ball,2,9.1,Nigeria,S Sunday,A Obulor,D Staddon,0,1,1,,,,,"",""
+ball,2,9.2,Nigeria,S Sunday,A Obulor,D Staddon,0,0,,,,,,"",""
+ball,2,9.3,Nigeria,S Sunday,A Obulor,D Staddon,2,0,,,,,,"",""
+ball,2,9.4,Nigeria,S Sunday,A Obulor,D Staddon,0,1,1,,,,,"",""
+ball,2,9.5,Nigeria,S Sunday,A Obulor,D Staddon,2,0,,,,,,"",""
+ball,2,9.6,Nigeria,S Sunday,A Obulor,D Staddon,0,0,,,,,,"",""
+ball,2,9.7,Nigeria,S Sunday,A Obulor,D Staddon,0,1,1,,,,,"",""
+ball,2,9.8,Nigeria,S Sunday,A Obulor,D Staddon,0,0,,,,,,"",""
+ball,2,9.9,Nigeria,S Sunday,A Obulor,D Staddon,2,1,,1,,,,"",""
+ball,2,9.10,Nigeria,S Sunday,A Obulor,D Staddon,4,0,,,,,,"",""
+ball,2,10.1,Nigeria,A Obulor,S Sunday,RD de Sousa,4,0,,,,,,"",""
+ball,2,10.2,Nigeria,A Obulor,S Sunday,RD de Sousa,1,0,,,,,,"",""
+ball,2,10.3,Nigeria,S Sunday,A Obulor,RD de Sousa,0,0,,,,,,"",""
+ball,2,10.4,Nigeria,S Sunday,A Obulor,RD de Sousa,4,0,,,,,,"",""
+ball,2,10.5,Nigeria,S Sunday,A Obulor,RD de Sousa,4,0,,,,,,"",""

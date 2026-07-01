@@ -1,0 +1,273 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Namibia
+info,gender,male
+info,season,2023/24
+info,date,2023/10/24
+info,event,Zimbabwe tour of Namibia
+info,match_number,1
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,N Davin
+info,umpire,A Louw
+info,umpire,Claus Schumacher
+info,reserve_umpire,E Lassen
+info,winner,Namibia
+info,winner_wickets,7
+info,player,Zimbabwe,NR Welch
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,M Faraz Akram
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,player,Namibia,M van Lingen
+info,player,Namibia,N Davin
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JP Kotze
+info,player,Namibia,JJ Smit
+info,player,Namibia,BM Scholtz
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,B Shikongo
+info,player,Namibia,T Lungameni
+info,player,Namibia,ZE Green
+info,registry,people,A Louw,5eecae5d
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Madande,3560a786
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M Faraz Akram,38214163
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,ZE Green,8716233e
+ball,1,0.1,Zimbabwe,NR Welch,CR Ervine,B Shikongo,0,0,,,,,,caught,NR Welch
+ball,1,0.2,Zimbabwe,I Kaia,CR Ervine,B Shikongo,1,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,CR Ervine,I Kaia,B Shikongo,0,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,CR Ervine,I Kaia,B Shikongo,0,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,CR Ervine,I Kaia,B Shikongo,0,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,CR Ervine,I Kaia,B Shikongo,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,I Kaia,CR Ervine,MG Erasmus,0,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,I Kaia,CR Ervine,MG Erasmus,1,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,CR Ervine,I Kaia,MG Erasmus,0,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,CR Ervine,I Kaia,MG Erasmus,0,0,,,,,,caught,CR Ervine
+ball,1,1.5,Zimbabwe,RP Burl,I Kaia,MG Erasmus,0,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,RP Burl,I Kaia,MG Erasmus,1,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,RP Burl,I Kaia,B Shikongo,0,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,RP Burl,I Kaia,B Shikongo,0,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,RP Burl,I Kaia,B Shikongo,4,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,RP Burl,I Kaia,B Shikongo,4,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,RP Burl,I Kaia,B Shikongo,4,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,RP Burl,I Kaia,B Shikongo,1,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,RP Burl,I Kaia,T Lungameni,0,0,,,,,,caught,RP Burl
+ball,1,3.2,Zimbabwe,Sikandar Raza,I Kaia,T Lungameni,0,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,Sikandar Raza,I Kaia,T Lungameni,4,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,Sikandar Raza,I Kaia,T Lungameni,0,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,Sikandar Raza,I Kaia,T Lungameni,0,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,Sikandar Raza,I Kaia,T Lungameni,0,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,I Kaia,Sikandar Raza,JJ Smit,0,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,I Kaia,Sikandar Raza,JJ Smit,2,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,I Kaia,Sikandar Raza,JJ Smit,0,0,,,,,,caught,I Kaia
+ball,1,4.4,Zimbabwe,W Madhevere,Sikandar Raza,JJ Smit,0,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,W Madhevere,Sikandar Raza,JJ Smit,2,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,W Madhevere,Sikandar Raza,JJ Smit,1,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,W Madhevere,Sikandar Raza,T Lungameni,0,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,W Madhevere,Sikandar Raza,T Lungameni,0,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,W Madhevere,Sikandar Raza,T Lungameni,1,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,Sikandar Raza,W Madhevere,T Lungameni,4,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,Sikandar Raza,W Madhevere,T Lungameni,0,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,Sikandar Raza,W Madhevere,T Lungameni,0,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,W Madhevere,Sikandar Raza,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,Sikandar Raza,W Madhevere,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,W Madhevere,Sikandar Raza,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,Sikandar Raza,W Madhevere,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,Sikandar Raza,W Madhevere,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,W Madhevere,Sikandar Raza,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,W Madhevere,Sikandar Raza,BM Scholtz,1,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,Sikandar Raza,W Madhevere,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,Sikandar Raza,W Madhevere,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,Sikandar Raza,W Madhevere,BM Scholtz,4,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,Sikandar Raza,W Madhevere,BM Scholtz,1,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,W Madhevere,Sikandar Raza,BM Scholtz,0,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,Sikandar Raza,W Madhevere,JN Frylinck,1,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,W Madhevere,Sikandar Raza,JN Frylinck,1,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,Sikandar Raza,W Madhevere,JN Frylinck,1,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,W Madhevere,Sikandar Raza,JN Frylinck,0,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,W Madhevere,Sikandar Raza,JN Frylinck,1,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,Sikandar Raza,W Madhevere,JN Frylinck,0,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,W Madhevere,Sikandar Raza,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,W Madhevere,Sikandar Raza,BM Scholtz,1,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,Sikandar Raza,W Madhevere,BM Scholtz,1,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,W Madhevere,Sikandar Raza,BM Scholtz,1,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,Sikandar Raza,W Madhevere,BM Scholtz,1,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,W Madhevere,Sikandar Raza,BM Scholtz,1,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,W Madhevere,Sikandar Raza,JN Frylinck,1,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,Sikandar Raza,W Madhevere,JN Frylinck,1,0,,,,,,"",""
+ball,1,10.3,Zimbabwe,W Madhevere,Sikandar Raza,JN Frylinck,1,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,Sikandar Raza,W Madhevere,JN Frylinck,1,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,W Madhevere,Sikandar Raza,JN Frylinck,6,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,W Madhevere,Sikandar Raza,JN Frylinck,1,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,W Madhevere,Sikandar Raza,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,W Madhevere,Sikandar Raza,JN Loftie-Eaton,0,0,,,,,,caught,W Madhevere
+ball,1,11.3,Zimbabwe,C Madande,Sikandar Raza,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,11.4,Zimbabwe,C Madande,Sikandar Raza,JN Loftie-Eaton,2,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,C Madande,Sikandar Raza,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,11.6,Zimbabwe,Sikandar Raza,C Madande,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,12.1,Zimbabwe,Sikandar Raza,C Madande,BM Scholtz,2,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,Sikandar Raza,C Madande,BM Scholtz,1,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,C Madande,Sikandar Raza,BM Scholtz,2,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,C Madande,Sikandar Raza,BM Scholtz,0,0,,,,,,lbw,C Madande
+ball,1,12.5,Zimbabwe,M Faraz Akram,Sikandar Raza,BM Scholtz,2,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,M Faraz Akram,Sikandar Raza,BM Scholtz,1,0,,,,,,"",""
+ball,1,13.1,Zimbabwe,M Faraz Akram,Sikandar Raza,MG Erasmus,0,0,,,,,,caught,M Faraz Akram
+ball,1,13.2,Zimbabwe,LM Jongwe,Sikandar Raza,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,LM Jongwe,Sikandar Raza,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.4,Zimbabwe,LM Jongwe,Sikandar Raza,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.5,Zimbabwe,Sikandar Raza,LM Jongwe,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.6,Zimbabwe,LM Jongwe,Sikandar Raza,MG Erasmus,0,0,,,,,,"",""
+ball,1,14.1,Zimbabwe,Sikandar Raza,LM Jongwe,BM Scholtz,0,0,,,,,,"",""
+ball,1,14.2,Zimbabwe,Sikandar Raza,LM Jongwe,BM Scholtz,0,0,,,,,,"",""
+ball,1,14.3,Zimbabwe,Sikandar Raza,LM Jongwe,BM Scholtz,4,0,,,,,,"",""
+ball,1,14.4,Zimbabwe,Sikandar Raza,LM Jongwe,BM Scholtz,1,0,,,,,,"",""
+ball,1,14.5,Zimbabwe,LM Jongwe,Sikandar Raza,BM Scholtz,1,0,,,,,,"",""
+ball,1,14.6,Zimbabwe,Sikandar Raza,LM Jongwe,BM Scholtz,0,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,LM Jongwe,Sikandar Raza,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,15.2,Zimbabwe,LM Jongwe,Sikandar Raza,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,Sikandar Raza,LM Jongwe,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,15.4,Zimbabwe,LM Jongwe,Sikandar Raza,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,LM Jongwe,Sikandar Raza,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,LM Jongwe,Sikandar Raza,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,16.1,Zimbabwe,Sikandar Raza,LM Jongwe,JN Frylinck,1,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,LM Jongwe,Sikandar Raza,JN Frylinck,1,0,,,,,,"",""
+ball,1,16.3,Zimbabwe,Sikandar Raza,LM Jongwe,JN Frylinck,0,1,1,,,,,"",""
+ball,1,16.4,Zimbabwe,Sikandar Raza,LM Jongwe,JN Frylinck,6,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,Sikandar Raza,LM Jongwe,JN Frylinck,0,0,,,,,,caught,Sikandar Raza
+ball,1,16.6,Zimbabwe,R Ngarava,LM Jongwe,JN Frylinck,1,0,,,,,,"",""
+ball,1,16.7,Zimbabwe,LM Jongwe,R Ngarava,JN Frylinck,4,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,R Ngarava,LM Jongwe,MG Erasmus,0,0,,,,,,bowled,R Ngarava
+ball,1,17.2,Zimbabwe,TL Chatara,LM Jongwe,MG Erasmus,1,0,,,,,,"",""
+ball,1,17.3,Zimbabwe,LM Jongwe,TL Chatara,MG Erasmus,1,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,TL Chatara,LM Jongwe,MG Erasmus,0,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,TL Chatara,LM Jongwe,MG Erasmus,1,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,LM Jongwe,TL Chatara,MG Erasmus,0,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,TL Chatara,LM Jongwe,T Lungameni,0,0,,,,,,"",""
+ball,1,18.2,Zimbabwe,TL Chatara,LM Jongwe,T Lungameni,1,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,LM Jongwe,TL Chatara,T Lungameni,0,0,,,,,,"",""
+ball,1,18.4,Zimbabwe,LM Jongwe,TL Chatara,T Lungameni,4,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,LM Jongwe,TL Chatara,T Lungameni,0,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,LM Jongwe,TL Chatara,T Lungameni,4,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,TL Chatara,LM Jongwe,MG Erasmus,1,0,,,,,,"",""
+ball,1,19.2,Zimbabwe,LM Jongwe,TL Chatara,MG Erasmus,2,0,,,,,,"",""
+ball,1,19.3,Zimbabwe,LM Jongwe,TL Chatara,MG Erasmus,0,4,,,4,,,"",""
+ball,1,19.4,Zimbabwe,LM Jongwe,TL Chatara,MG Erasmus,2,0,,,,,,"",""
+ball,1,19.5,Zimbabwe,LM Jongwe,TL Chatara,MG Erasmus,1,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,TL Chatara,LM Jongwe,MG Erasmus,2,0,,,,,,"",""
+ball,2,0.1,Namibia,M van Lingen,N Davin,TL Chatara,0,0,,,,,,"",""
+ball,2,0.2,Namibia,M van Lingen,N Davin,TL Chatara,0,0,,,,,,"",""
+ball,2,0.3,Namibia,M van Lingen,N Davin,TL Chatara,1,0,,,,,,"",""
+ball,2,0.4,Namibia,N Davin,M van Lingen,TL Chatara,0,0,,,,,,"",""
+ball,2,0.5,Namibia,N Davin,M van Lingen,TL Chatara,1,0,,,,,,"",""
+ball,2,0.6,Namibia,M van Lingen,N Davin,TL Chatara,0,0,,,,,,"",""
+ball,2,1.1,Namibia,N Davin,M van Lingen,R Ngarava,0,0,,,,,,"",""
+ball,2,1.2,Namibia,N Davin,M van Lingen,R Ngarava,0,0,,,,,,"",""
+ball,2,1.3,Namibia,N Davin,M van Lingen,R Ngarava,1,0,,,,,,"",""
+ball,2,1.4,Namibia,M van Lingen,N Davin,R Ngarava,4,0,,,,,,"",""
+ball,2,1.5,Namibia,M van Lingen,N Davin,R Ngarava,0,0,,,,,,bowled,M van Lingen
+ball,2,1.6,Namibia,MG Erasmus,N Davin,R Ngarava,0,0,,,,,,"",""
+ball,2,2.1,Namibia,N Davin,MG Erasmus,M Faraz Akram,6,0,,,,,,"",""
+ball,2,2.2,Namibia,N Davin,MG Erasmus,M Faraz Akram,0,1,1,,,,,"",""
+ball,2,2.3,Namibia,N Davin,MG Erasmus,M Faraz Akram,4,0,,,,,,"",""
+ball,2,2.4,Namibia,N Davin,MG Erasmus,M Faraz Akram,0,0,,,,,,"",""
+ball,2,2.5,Namibia,N Davin,MG Erasmus,M Faraz Akram,0,0,,,,,,"",""
+ball,2,2.6,Namibia,N Davin,MG Erasmus,M Faraz Akram,4,0,,,,,,"",""
+ball,2,2.7,Namibia,N Davin,MG Erasmus,M Faraz Akram,1,0,,,,,,"",""
+ball,2,3.1,Namibia,N Davin,MG Erasmus,R Ngarava,0,0,,,,,,"",""
+ball,2,3.2,Namibia,N Davin,MG Erasmus,R Ngarava,0,0,,,,,,"",""
+ball,2,3.3,Namibia,N Davin,MG Erasmus,R Ngarava,0,0,,,,,,"",""
+ball,2,3.4,Namibia,N Davin,MG Erasmus,R Ngarava,0,0,,,,,,"",""
+ball,2,3.5,Namibia,N Davin,MG Erasmus,R Ngarava,0,0,,,,,,"",""
+ball,2,3.6,Namibia,N Davin,MG Erasmus,R Ngarava,4,0,,,,,,"",""
+ball,2,4.1,Namibia,MG Erasmus,N Davin,TL Chatara,1,0,,,,,,"",""
+ball,2,4.2,Namibia,N Davin,MG Erasmus,TL Chatara,4,0,,,,,,"",""
+ball,2,4.3,Namibia,N Davin,MG Erasmus,TL Chatara,6,0,,,,,,"",""
+ball,2,4.4,Namibia,N Davin,MG Erasmus,TL Chatara,1,0,,,,,,"",""
+ball,2,4.5,Namibia,MG Erasmus,N Davin,TL Chatara,1,0,,,,,,"",""
+ball,2,4.6,Namibia,N Davin,MG Erasmus,TL Chatara,0,1,1,,,,,"",""
+ball,2,4.7,Namibia,N Davin,MG Erasmus,TL Chatara,6,0,,,,,,"",""
+ball,2,5.1,Namibia,MG Erasmus,N Davin,R Ngarava,0,0,,,,,,"",""
+ball,2,5.2,Namibia,MG Erasmus,N Davin,R Ngarava,0,0,,,,,,"",""
+ball,2,5.3,Namibia,MG Erasmus,N Davin,R Ngarava,0,0,,,,,,"",""
+ball,2,5.4,Namibia,MG Erasmus,N Davin,R Ngarava,0,0,,,,,,"",""
+ball,2,5.5,Namibia,MG Erasmus,N Davin,R Ngarava,6,0,,,,,,"",""
+ball,2,5.6,Namibia,MG Erasmus,N Davin,R Ngarava,0,0,,,,,,caught,MG Erasmus
+ball,2,6.1,Namibia,N Davin,JN Frylinck,RP Burl,0,0,,,,,,"",""
+ball,2,6.2,Namibia,N Davin,JN Frylinck,RP Burl,2,0,,,,,,"",""
+ball,2,6.3,Namibia,N Davin,JN Frylinck,RP Burl,1,0,,,,,,"",""
+ball,2,6.4,Namibia,JN Frylinck,N Davin,RP Burl,0,0,,,,,,"",""
+ball,2,6.5,Namibia,JN Frylinck,N Davin,RP Burl,0,2,,,,2,,"",""
+ball,2,6.6,Namibia,JN Frylinck,N Davin,RP Burl,0,0,,,,,,"",""
+ball,2,7.1,Namibia,N Davin,JN Frylinck,Sikandar Raza,1,0,,,,,,"",""
+ball,2,7.2,Namibia,JN Frylinck,N Davin,Sikandar Raza,0,0,,,,,,"",""
+ball,2,7.3,Namibia,JN Frylinck,N Davin,Sikandar Raza,1,0,,,,,,"",""
+ball,2,7.4,Namibia,N Davin,JN Frylinck,Sikandar Raza,1,0,,,,,,"",""
+ball,2,7.5,Namibia,JN Frylinck,N Davin,Sikandar Raza,1,0,,,,,,"",""
+ball,2,7.6,Namibia,N Davin,JN Frylinck,Sikandar Raza,2,0,,,,,,"",""
+ball,2,8.1,Namibia,JN Frylinck,N Davin,RP Burl,4,0,,,,,,"",""
+ball,2,8.2,Namibia,JN Frylinck,N Davin,RP Burl,1,0,,,,,,"",""
+ball,2,8.3,Namibia,N Davin,JN Frylinck,RP Burl,1,0,,,,,,"",""
+ball,2,8.4,Namibia,JN Frylinck,N Davin,RP Burl,1,0,,,,,,"",""
+ball,2,8.5,Namibia,N Davin,JN Frylinck,RP Burl,2,0,,,,,,"",""
+ball,2,8.6,Namibia,N Davin,JN Frylinck,RP Burl,1,0,,,,,,"",""
+ball,2,9.1,Namibia,N Davin,JN Frylinck,Sikandar Raza,1,0,,,,,,"",""
+ball,2,9.2,Namibia,JN Frylinck,N Davin,Sikandar Raza,1,0,,,,,,"",""
+ball,2,9.3,Namibia,N Davin,JN Frylinck,Sikandar Raza,4,0,,,,,,"",""
+ball,2,9.4,Namibia,N Davin,JN Frylinck,Sikandar Raza,1,0,,,,,,"",""
+ball,2,9.5,Namibia,JN Frylinck,N Davin,Sikandar Raza,0,0,,,,,,"",""
+ball,2,9.6,Namibia,JN Frylinck,N Davin,Sikandar Raza,0,1,,,,1,,"",""
+ball,2,10.1,Namibia,JN Frylinck,N Davin,LM Jongwe,2,0,,,,,,"",""
+ball,2,10.2,Namibia,JN Frylinck,N Davin,LM Jongwe,0,0,,,,,,caught,JN Frylinck
+ball,2,10.3,Namibia,JP Kotze,N Davin,LM Jongwe,1,0,,,,,,"",""
+ball,2,10.4,Namibia,N Davin,JP Kotze,LM Jongwe,0,1,1,,,,,"",""
+ball,2,10.5,Namibia,N Davin,JP Kotze,LM Jongwe,0,0,,,,,,"",""
+ball,2,10.6,Namibia,N Davin,JP Kotze,LM Jongwe,4,0,,,,,,"",""
+ball,2,10.7,Namibia,N Davin,JP Kotze,LM Jongwe,2,0,,,,,,"",""
+ball,2,11.1,Namibia,JP Kotze,N Davin,W Madhevere,1,0,,,,,,"",""
+ball,2,11.2,Namibia,N Davin,JP Kotze,W Madhevere,1,0,,,,,,"",""
+ball,2,11.3,Namibia,JP Kotze,N Davin,W Madhevere,0,0,,,,,,"",""
+ball,2,11.4,Namibia,JP Kotze,N Davin,W Madhevere,6,0,,,,,,"",""
+ball,2,11.5,Namibia,JP Kotze,N Davin,W Madhevere,0,0,,,,,,"",""
+ball,2,11.6,Namibia,JP Kotze,N Davin,W Madhevere,1,0,,,,,,"",""
+ball,2,12.1,Namibia,JP Kotze,N Davin,LM Jongwe,0,0,,,,,,"",""
+ball,2,12.2,Namibia,JP Kotze,N Davin,LM Jongwe,1,0,,,,,,"",""
+ball,2,12.3,Namibia,N Davin,JP Kotze,LM Jongwe,0,1,1,,,,,"",""
+ball,2,12.4,Namibia,N Davin,JP Kotze,LM Jongwe,0,0,,,,,,"",""
+ball,2,12.5,Namibia,N Davin,JP Kotze,LM Jongwe,4,0,,,,,,"",""
+ball,2,12.6,Namibia,N Davin,JP Kotze,LM Jongwe,4,0,,,,,,"",""
+ball,2,12.7,Namibia,N Davin,JP Kotze,LM Jongwe,2,0,,,,,,"",""
+ball,2,13.1,Namibia,JP Kotze,N Davin,Sikandar Raza,1,0,,,,,,"",""
+ball,2,13.2,Namibia,N Davin,JP Kotze,Sikandar Raza,2,0,,,,,,"",""
+ball,2,13.3,Namibia,N Davin,JP Kotze,Sikandar Raza,0,0,,,,,,"",""
+ball,2,13.4,Namibia,N Davin,JP Kotze,Sikandar Raza,6,0,,,,,,"",""

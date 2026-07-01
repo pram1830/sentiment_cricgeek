@@ -1,0 +1,269 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Nigeria
+info,gender,male
+info,season,2022/23
+info,date,2022/12/02
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,5
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,player_of_match,P Aho
+info,umpire,C Phiri
+info,umpire,Lauren Agenbag
+info,reserve_umpire,Stephen Harris
+info,match_referee,SA Fritz
+info,winner,Nigeria
+info,winner_wickets,6
+info,player,Sierra Leone,J Bangura
+info,player,Sierra Leone,I Kamara
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,A Gbla
+info,player,Sierra Leone,L Lamin
+info,player,Sierra Leone,M Kpaka
+info,player,Sierra Leone,S Conteh
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,Mohamed Khan
+info,player,Sierra Leone,G Sesay
+info,player,Sierra Leone,C Bah
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,AA Onikoyi
+info,player,Nigeria,A Shreshta
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,CN Onwuzulike
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,P Aho
+info,player,Nigeria,P Useni
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,C Udekwe
+info,registry,people,A Gbla,34ab1e6e
+info,registry,people,A Shreshta,4e9af8f6
+info,registry,people,AA Onikoyi,409ce380
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,C Bah,7213d757
+info,registry,people,C Phiri,ade73404
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,CN Onwuzulike,715dbf27
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,I Kamara,38702fb5
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,L Lamin,5a970aab
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Kpaka,c381cec5
+info,registry,people,Mohamed Khan,13501ff4
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Coker,3239c8a9
+info,registry,people,S Conteh,8f70fff7
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,Sulaimon Runsewe,c25d26dc
+ball,1,0.1,Sierra Leone,J Bangura,I Kamara,P Aho,0,0,,,,,,bowled,J Bangura
+ball,1,0.2,Sierra Leone,G Ngegba,I Kamara,P Aho,0,0,,,,,,"",""
+ball,1,0.3,Sierra Leone,G Ngegba,I Kamara,P Aho,0,0,,,,,,"",""
+ball,1,0.4,Sierra Leone,G Ngegba,I Kamara,P Aho,0,0,,,,,,"",""
+ball,1,0.5,Sierra Leone,G Ngegba,I Kamara,P Aho,0,1,1,,,,,"",""
+ball,1,0.6,Sierra Leone,G Ngegba,I Kamara,P Aho,0,0,,,,,,caught,G Ngegba
+ball,1,0.7,Sierra Leone,A Gbla,I Kamara,P Aho,0,0,,,,,,"",""
+ball,1,1.1,Sierra Leone,I Kamara,A Gbla,P Useni,0,0,,,,,,"",""
+ball,1,1.2,Sierra Leone,I Kamara,A Gbla,P Useni,0,0,,,,,,"",""
+ball,1,1.3,Sierra Leone,I Kamara,A Gbla,P Useni,0,0,,,,,,"",""
+ball,1,1.4,Sierra Leone,I Kamara,A Gbla,P Useni,1,0,,,,,,"",""
+ball,1,1.5,Sierra Leone,A Gbla,I Kamara,P Useni,0,0,,,,,,"",""
+ball,1,1.6,Sierra Leone,A Gbla,I Kamara,P Useni,0,0,,,,,,"",""
+ball,1,2.1,Sierra Leone,I Kamara,A Gbla,P Aho,0,0,,,,,,run out,I Kamara
+ball,1,2.2,Sierra Leone,A Gbla,L Lamin,P Aho,0,0,,,,,,"",""
+ball,1,2.3,Sierra Leone,A Gbla,L Lamin,P Aho,1,0,,,,,,"",""
+ball,1,2.4,Sierra Leone,L Lamin,A Gbla,P Aho,0,0,,,,,,"",""
+ball,1,2.5,Sierra Leone,L Lamin,A Gbla,P Aho,1,0,,,,,,"",""
+ball,1,2.6,Sierra Leone,A Gbla,L Lamin,P Aho,0,0,,,,,,"",""
+ball,1,3.1,Sierra Leone,L Lamin,A Gbla,P Useni,0,0,,,,,,"",""
+ball,1,3.2,Sierra Leone,L Lamin,A Gbla,P Useni,0,0,,,,,,"",""
+ball,1,3.3,Sierra Leone,L Lamin,A Gbla,P Useni,0,0,,,,,,"",""
+ball,1,3.4,Sierra Leone,L Lamin,A Gbla,P Useni,1,0,,,,,,"",""
+ball,1,3.5,Sierra Leone,A Gbla,L Lamin,P Useni,1,0,,,,,,"",""
+ball,1,3.6,Sierra Leone,L Lamin,A Gbla,P Useni,0,0,,,,,,"",""
+ball,1,4.1,Sierra Leone,A Gbla,L Lamin,P Aho,0,1,1,,,,,"",""
+ball,1,4.2,Sierra Leone,A Gbla,L Lamin,P Aho,0,0,,,,,,run out,A Gbla
+ball,1,4.3,Sierra Leone,M Kpaka,L Lamin,P Aho,0,2,2,,,,,"",""
+ball,1,4.4,Sierra Leone,L Lamin,M Kpaka,P Aho,0,0,,,,,,"",""
+ball,1,4.5,Sierra Leone,L Lamin,M Kpaka,P Aho,2,0,,,,,,"",""
+ball,1,4.6,Sierra Leone,L Lamin,M Kpaka,P Aho,0,0,,,,,,"",""
+ball,1,4.7,Sierra Leone,L Lamin,M Kpaka,P Aho,0,0,,,,,,"",""
+ball,1,4.8,Sierra Leone,L Lamin,M Kpaka,P Aho,4,0,,,,,,"",""
+ball,1,5.1,Sierra Leone,M Kpaka,L Lamin,P Useni,0,0,,,,,,"",""
+ball,1,5.2,Sierra Leone,M Kpaka,L Lamin,P Useni,0,0,,,,,,"",""
+ball,1,5.3,Sierra Leone,M Kpaka,L Lamin,P Useni,0,0,,,,,,"",""
+ball,1,5.4,Sierra Leone,M Kpaka,L Lamin,P Useni,0,0,,,,,,caught,M Kpaka
+ball,1,5.5,Sierra Leone,S Conteh,L Lamin,P Useni,0,0,,,,,,"",""
+ball,1,5.6,Sierra Leone,S Conteh,L Lamin,P Useni,0,0,,,,,,caught,S Conteh
+ball,1,6.1,Sierra Leone,L Lamin,R Coker,C Udekwe,0,0,,,,,,"",""
+ball,1,6.2,Sierra Leone,L Lamin,R Coker,C Udekwe,1,0,,,,,,"",""
+ball,1,6.3,Sierra Leone,R Coker,L Lamin,C Udekwe,0,0,,,,,,"",""
+ball,1,6.4,Sierra Leone,R Coker,L Lamin,C Udekwe,0,0,,,,,,"",""
+ball,1,6.5,Sierra Leone,R Coker,L Lamin,C Udekwe,0,0,,,,,,"",""
+ball,1,6.6,Sierra Leone,R Coker,L Lamin,C Udekwe,0,0,,,,,,"",""
+ball,1,7.1,Sierra Leone,L Lamin,R Coker,IO Okpe,0,0,,,,,,"",""
+ball,1,7.2,Sierra Leone,L Lamin,R Coker,IO Okpe,1,0,,,,,,"",""
+ball,1,7.3,Sierra Leone,R Coker,L Lamin,IO Okpe,0,0,,,,,,"",""
+ball,1,7.4,Sierra Leone,R Coker,L Lamin,IO Okpe,0,0,,,,,,"",""
+ball,1,7.5,Sierra Leone,R Coker,L Lamin,IO Okpe,0,0,,,,,,"",""
+ball,1,7.6,Sierra Leone,R Coker,L Lamin,IO Okpe,0,0,,,,,,"",""
+ball,1,8.1,Sierra Leone,L Lamin,R Coker,C Udekwe,0,1,1,,,,,"",""
+ball,1,8.2,Sierra Leone,L Lamin,R Coker,C Udekwe,0,0,,,,,,"",""
+ball,1,8.3,Sierra Leone,L Lamin,R Coker,C Udekwe,0,0,,,,,,"",""
+ball,1,8.4,Sierra Leone,L Lamin,R Coker,C Udekwe,0,0,,,,,,"",""
+ball,1,8.5,Sierra Leone,L Lamin,R Coker,C Udekwe,0,0,,,,,,"",""
+ball,1,8.6,Sierra Leone,L Lamin,R Coker,C Udekwe,4,0,,,,,,"",""
+ball,1,8.7,Sierra Leone,L Lamin,R Coker,C Udekwe,0,0,,,,,,"",""
+ball,1,9.1,Sierra Leone,R Coker,L Lamin,IO Okpe,0,0,,,,,,"",""
+ball,1,9.2,Sierra Leone,R Coker,L Lamin,IO Okpe,1,0,,,,,,"",""
+ball,1,9.3,Sierra Leone,L Lamin,R Coker,IO Okpe,1,0,,,,,,"",""
+ball,1,9.4,Sierra Leone,R Coker,L Lamin,IO Okpe,0,0,,,,,,"",""
+ball,1,9.5,Sierra Leone,R Coker,L Lamin,IO Okpe,1,0,,,,,,"",""
+ball,1,9.6,Sierra Leone,L Lamin,R Coker,IO Okpe,1,0,,,,,,"",""
+ball,1,10.1,Sierra Leone,L Lamin,R Coker,SA Okpe,0,0,,,,,,"",""
+ball,1,10.2,Sierra Leone,L Lamin,R Coker,SA Okpe,1,0,,,,,,"",""
+ball,1,10.3,Sierra Leone,R Coker,L Lamin,SA Okpe,1,0,,,,,,"",""
+ball,1,10.4,Sierra Leone,L Lamin,R Coker,SA Okpe,4,0,,,,,,"",""
+ball,1,10.5,Sierra Leone,L Lamin,R Coker,SA Okpe,1,0,,,,,,"",""
+ball,1,10.6,Sierra Leone,R Coker,L Lamin,SA Okpe,0,0,,,,,,"",""
+ball,1,11.1,Sierra Leone,L Lamin,R Coker,R Abdulkareem,0,0,,,,,,"",""
+ball,1,11.2,Sierra Leone,L Lamin,R Coker,R Abdulkareem,1,0,,,,,,"",""
+ball,1,11.3,Sierra Leone,R Coker,L Lamin,R Abdulkareem,0,0,,,,,,"",""
+ball,1,11.4,Sierra Leone,R Coker,L Lamin,R Abdulkareem,1,0,,,,,,"",""
+ball,1,11.5,Sierra Leone,L Lamin,R Coker,R Abdulkareem,0,0,,,,,,"",""
+ball,1,11.6,Sierra Leone,L Lamin,R Coker,R Abdulkareem,0,0,,,,,,"",""
+ball,1,12.1,Sierra Leone,R Coker,L Lamin,SA Okpe,0,0,,,,,,"",""
+ball,1,12.2,Sierra Leone,R Coker,L Lamin,SA Okpe,0,0,,,,,,"",""
+ball,1,12.3,Sierra Leone,R Coker,L Lamin,SA Okpe,1,0,,,,,,"",""
+ball,1,12.4,Sierra Leone,L Lamin,R Coker,SA Okpe,3,0,,,,,,"",""
+ball,1,12.5,Sierra Leone,R Coker,L Lamin,SA Okpe,0,0,,,,,,"",""
+ball,1,12.6,Sierra Leone,R Coker,L Lamin,SA Okpe,0,0,,,,,,run out,R Coker
+ball,1,13.1,Sierra Leone,L Lamin,Mohamed Khan,C Udekwe,0,0,,,,,,"",""
+ball,1,13.2,Sierra Leone,L Lamin,Mohamed Khan,C Udekwe,0,0,,,,,,"",""
+ball,1,13.3,Sierra Leone,L Lamin,Mohamed Khan,C Udekwe,1,0,,,,,,"",""
+ball,1,13.4,Sierra Leone,Mohamed Khan,L Lamin,C Udekwe,0,0,,,,,,bowled,Mohamed Khan
+ball,1,13.5,Sierra Leone,G Sesay,L Lamin,C Udekwe,0,0,,,,,,"",""
+ball,1,13.6,Sierra Leone,G Sesay,L Lamin,C Udekwe,0,0,,,,,,"",""
+ball,1,14.1,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,0,0,,,,,,"",""
+ball,1,14.2,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,1,0,,,,,,"",""
+ball,1,14.3,Sierra Leone,G Sesay,L Lamin,R Abdulkareem,1,0,,,,,,"",""
+ball,1,14.4,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,0,0,,,,,,"",""
+ball,1,14.5,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,0,0,,,,,,"",""
+ball,1,14.6,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,1,0,,,,,,"",""
+ball,1,15.1,Sierra Leone,L Lamin,G Sesay,IO Okpe,1,0,,,,,,"",""
+ball,1,15.2,Sierra Leone,G Sesay,L Lamin,IO Okpe,0,0,,,,,,"",""
+ball,1,15.3,Sierra Leone,G Sesay,L Lamin,IO Okpe,1,0,,,,,,"",""
+ball,1,15.4,Sierra Leone,L Lamin,G Sesay,IO Okpe,0,0,,,,,,"",""
+ball,1,15.5,Sierra Leone,L Lamin,G Sesay,IO Okpe,0,0,,,,,,"",""
+ball,1,15.6,Sierra Leone,L Lamin,G Sesay,IO Okpe,0,0,,,,,,"",""
+ball,1,16.1,Sierra Leone,G Sesay,L Lamin,R Abdulkareem,0,0,,,,,,"",""
+ball,1,16.2,Sierra Leone,G Sesay,L Lamin,R Abdulkareem,1,0,,,,,,"",""
+ball,1,16.3,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,0,1,1,,,,,"",""
+ball,1,16.4,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,1,0,,,,,,"",""
+ball,1,16.5,Sierra Leone,G Sesay,L Lamin,R Abdulkareem,1,0,,,,,,"",""
+ball,1,16.6,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,0,0,,,,,,"",""
+ball,1,16.7,Sierra Leone,L Lamin,G Sesay,R Abdulkareem,0,0,,,,,,"",""
+ball,1,17.1,Sierra Leone,G Sesay,L Lamin,P Aho,6,0,,,,,,"",""
+ball,1,17.2,Sierra Leone,G Sesay,L Lamin,P Aho,0,0,,,,,,"",""
+ball,1,17.3,Sierra Leone,G Sesay,L Lamin,P Aho,0,0,,,,,,"",""
+ball,1,17.4,Sierra Leone,G Sesay,L Lamin,P Aho,0,0,,,,,,"",""
+ball,1,17.5,Sierra Leone,G Sesay,L Lamin,P Aho,0,0,,,,,,"",""
+ball,1,17.6,Sierra Leone,G Sesay,L Lamin,P Aho,0,0,,,,,,bowled,G Sesay
+ball,1,18.1,Sierra Leone,L Lamin,C Bah,C Udekwe,0,1,1,,,,,"",""
+ball,1,18.2,Sierra Leone,L Lamin,C Bah,C Udekwe,1,0,,,,,,"",""
+ball,1,18.3,Sierra Leone,C Bah,L Lamin,C Udekwe,2,0,,,,,,"",""
+ball,1,18.4,Sierra Leone,C Bah,L Lamin,C Udekwe,0,0,,,,,,"",""
+ball,1,18.5,Sierra Leone,C Bah,L Lamin,C Udekwe,1,0,,,,,,"",""
+ball,1,18.6,Sierra Leone,L Lamin,C Bah,C Udekwe,0,0,,,,,,"",""
+ball,1,18.7,Sierra Leone,L Lamin,C Bah,C Udekwe,2,0,,,,,,"",""
+ball,1,19.1,Sierra Leone,C Bah,L Lamin,IO Okpe,0,0,,,,,,caught,C Bah
+ball,2,0.1,Nigeria,Sulaimon Runsewe,AA Onikoyi,G Sesay,0,1,1,,,,,"",""
+ball,2,0.2,Nigeria,Sulaimon Runsewe,AA Onikoyi,G Sesay,4,0,,,,,,"",""
+ball,2,0.3,Nigeria,Sulaimon Runsewe,AA Onikoyi,G Sesay,0,0,,,,,,"",""
+ball,2,0.4,Nigeria,Sulaimon Runsewe,AA Onikoyi,G Sesay,2,0,,,,,,"",""
+ball,2,0.5,Nigeria,Sulaimon Runsewe,AA Onikoyi,G Sesay,1,0,,,,,,"",""
+ball,2,0.6,Nigeria,AA Onikoyi,Sulaimon Runsewe,G Sesay,0,0,,,,,,"",""
+ball,2,0.7,Nigeria,AA Onikoyi,Sulaimon Runsewe,G Sesay,0,2,2,,,,,"",""
+ball,2,0.8,Nigeria,Sulaimon Runsewe,AA Onikoyi,G Sesay,0,0,,,,,,caught,Sulaimon Runsewe
+ball,2,1.1,Nigeria,AA Onikoyi,A Shreshta,C Bah,0,0,,,,,,"",""
+ball,2,1.2,Nigeria,AA Onikoyi,A Shreshta,C Bah,0,1,1,,,,,"",""
+ball,2,1.3,Nigeria,AA Onikoyi,A Shreshta,C Bah,0,0,,,,,,"",""
+ball,2,1.4,Nigeria,AA Onikoyi,A Shreshta,C Bah,0,0,,,,,,"",""
+ball,2,1.5,Nigeria,AA Onikoyi,A Shreshta,C Bah,0,0,,,,,,"",""
+ball,2,1.6,Nigeria,AA Onikoyi,A Shreshta,C Bah,0,0,,,,,,"",""
+ball,2,1.7,Nigeria,AA Onikoyi,A Shreshta,C Bah,0,0,,,,,,"",""
+ball,2,2.1,Nigeria,A Shreshta,AA Onikoyi,G Sesay,0,0,,,,,,"",""
+ball,2,2.2,Nigeria,A Shreshta,AA Onikoyi,G Sesay,0,1,,,,1,,"",""
+ball,2,2.3,Nigeria,AA Onikoyi,A Shreshta,G Sesay,0,0,,,,,,"",""
+ball,2,2.4,Nigeria,AA Onikoyi,A Shreshta,G Sesay,0,0,,,,,,"",""
+ball,2,2.5,Nigeria,AA Onikoyi,A Shreshta,G Sesay,0,0,,,,,,"",""
+ball,2,2.6,Nigeria,AA Onikoyi,A Shreshta,G Sesay,4,0,,,,,,"",""
+ball,2,3.1,Nigeria,A Shreshta,AA Onikoyi,C Bah,0,0,,,,,,"",""
+ball,2,3.2,Nigeria,A Shreshta,AA Onikoyi,C Bah,4,0,,,,,,"",""
+ball,2,3.3,Nigeria,A Shreshta,AA Onikoyi,C Bah,0,0,,,,,,"",""
+ball,2,3.4,Nigeria,A Shreshta,AA Onikoyi,C Bah,0,0,,,,,,"",""
+ball,2,3.5,Nigeria,A Shreshta,AA Onikoyi,C Bah,0,0,,,,,,"",""
+ball,2,3.6,Nigeria,A Shreshta,AA Onikoyi,C Bah,1,0,,,,,,"",""
+ball,2,4.1,Nigeria,A Shreshta,AA Onikoyi,G Sesay,0,0,,,,,,"",""
+ball,2,4.2,Nigeria,A Shreshta,AA Onikoyi,G Sesay,2,0,,,,,,"",""
+ball,2,4.3,Nigeria,A Shreshta,AA Onikoyi,G Sesay,1,0,,,,,,"",""
+ball,2,4.4,Nigeria,AA Onikoyi,A Shreshta,G Sesay,0,0,,,,,,"",""
+ball,2,4.5,Nigeria,AA Onikoyi,A Shreshta,G Sesay,0,1,,,,1,,"",""
+ball,2,4.6,Nigeria,A Shreshta,AA Onikoyi,G Sesay,4,0,,,,,,"",""
+ball,2,5.1,Nigeria,AA Onikoyi,A Shreshta,S Conteh,1,0,,,,,,"",""
+ball,2,5.2,Nigeria,A Shreshta,AA Onikoyi,S Conteh,0,0,,,,,,"",""
+ball,2,5.3,Nigeria,A Shreshta,AA Onikoyi,S Conteh,1,0,,,,,,"",""
+ball,2,5.4,Nigeria,AA Onikoyi,A Shreshta,S Conteh,0,1,1,,,,,"",""
+ball,2,5.5,Nigeria,AA Onikoyi,A Shreshta,S Conteh,0,0,,,,,,"",""
+ball,2,5.6,Nigeria,AA Onikoyi,A Shreshta,S Conteh,0,0,,,,,,"",""
+ball,2,5.7,Nigeria,AA Onikoyi,A Shreshta,S Conteh,1,0,,,,,,"",""
+ball,2,6.1,Nigeria,AA Onikoyi,A Shreshta,A Gbla,0,0,,,,,,"",""
+ball,2,6.2,Nigeria,AA Onikoyi,A Shreshta,A Gbla,0,0,,,,,,"",""
+ball,2,6.3,Nigeria,AA Onikoyi,A Shreshta,A Gbla,0,0,,,,,,"",""
+ball,2,6.4,Nigeria,AA Onikoyi,A Shreshta,A Gbla,0,0,,,,,,"",""
+ball,2,6.5,Nigeria,AA Onikoyi,A Shreshta,A Gbla,1,0,,,,,,"",""
+ball,2,6.6,Nigeria,A Shreshta,AA Onikoyi,A Gbla,0,1,1,,,,,"",""
+ball,2,6.7,Nigeria,A Shreshta,AA Onikoyi,A Gbla,2,0,,,,,,"",""
+ball,2,7.1,Nigeria,AA Onikoyi,A Shreshta,S Conteh,1,0,,,,,,"",""
+ball,2,7.2,Nigeria,A Shreshta,AA Onikoyi,S Conteh,2,0,,,,,,"",""
+ball,2,7.3,Nigeria,A Shreshta,AA Onikoyi,S Conteh,0,0,,,,,,"",""
+ball,2,7.4,Nigeria,A Shreshta,AA Onikoyi,S Conteh,0,0,,,,,,"",""
+ball,2,7.5,Nigeria,A Shreshta,AA Onikoyi,S Conteh,0,1,,,,1,,"",""
+ball,2,7.6,Nigeria,AA Onikoyi,A Shreshta,S Conteh,0,0,,,,,,"",""
+ball,2,8.1,Nigeria,A Shreshta,AA Onikoyi,A Gbla,0,0,,,,,,"",""
+ball,2,8.2,Nigeria,A Shreshta,AA Onikoyi,A Gbla,1,0,,,,,,"",""
+ball,2,8.3,Nigeria,AA Onikoyi,A Shreshta,A Gbla,1,0,,,,,,"",""
+ball,2,8.4,Nigeria,A Shreshta,AA Onikoyi,A Gbla,1,0,,,,,,"",""
+ball,2,8.5,Nigeria,AA Onikoyi,A Shreshta,A Gbla,4,0,,,,,,"",""
+ball,2,8.6,Nigeria,AA Onikoyi,A Shreshta,A Gbla,0,0,,,,,,bowled,AA Onikoyi
+ball,2,9.1,Nigeria,A Shreshta,AE Isesele,G Ngegba,0,0,,,,,,"",""
+ball,2,9.2,Nigeria,A Shreshta,AE Isesele,G Ngegba,2,0,,,,,,"",""
+ball,2,9.3,Nigeria,A Shreshta,AE Isesele,G Ngegba,4,0,,,,,,"",""
+ball,2,9.4,Nigeria,A Shreshta,AE Isesele,G Ngegba,0,0,,,,,,"",""
+ball,2,9.5,Nigeria,A Shreshta,AE Isesele,G Ngegba,0,0,,,,,,"",""
+ball,2,9.6,Nigeria,A Shreshta,AE Isesele,G Ngegba,0,0,,,,,,"",""
+ball,2,10.1,Nigeria,AE Isesele,A Shreshta,R Coker,1,0,,,,,,"",""
+ball,2,10.2,Nigeria,A Shreshta,AE Isesele,R Coker,1,0,,,,,,"",""
+ball,2,10.3,Nigeria,AE Isesele,A Shreshta,R Coker,1,0,,,,,,"",""
+ball,2,10.4,Nigeria,A Shreshta,AE Isesele,R Coker,0,0,,,,,,"",""
+ball,2,10.5,Nigeria,A Shreshta,AE Isesele,R Coker,0,0,,,,,,"",""
+ball,2,10.6,Nigeria,A Shreshta,AE Isesele,R Coker,0,0,,,,,,"",""
+ball,2,11.1,Nigeria,AE Isesele,A Shreshta,G Ngegba,0,0,,,,,,caught,AE Isesele
+ball,2,11.2,Nigeria,CN Onwuzulike,A Shreshta,G Ngegba,0,0,,,,,,"",""
+ball,2,11.3,Nigeria,CN Onwuzulike,A Shreshta,G Ngegba,1,0,,,,,,"",""
+ball,2,11.4,Nigeria,A Shreshta,CN Onwuzulike,G Ngegba,1,0,,,,,,"",""
+ball,2,11.5,Nigeria,CN Onwuzulike,A Shreshta,G Ngegba,1,0,,,,,,"",""
+ball,2,11.6,Nigeria,A Shreshta,CN Onwuzulike,G Ngegba,0,0,,,,,,caught,A Shreshta
+ball,2,12.1,Nigeria,CN Onwuzulike,IO Okpe,Mohamed Khan,0,0,,,,,,"",""
+ball,2,12.2,Nigeria,CN Onwuzulike,IO Okpe,Mohamed Khan,1,0,,,,,,"",""
+ball,2,12.3,Nigeria,IO Okpe,CN Onwuzulike,Mohamed Khan,2,0,,,,,,"",""

@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Gibraltar
+info,gender,male
+info,season,2022
+info,date,2022/06/29
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,6
+info,venue,"Royal Brussels Cricket Club Ground, Waterloo"
+info,city,Waterloo
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,ND Laegsgaard
+info,umpire,Rizwan Akram
+info,umpire,Vinay Malhotra
+info,match_referee,Phil Whitticase
+info,winner,Denmark
+info,winner_runs,132
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Rizwan Mahmood
+info,player,Denmark,Saran Aslam
+info,player,Denmark,OD Hald
+info,player,Denmark,Surya Anand
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,J Jojo
+info,player,Denmark,FA Klokker
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,JD Freyone
+info,player,Gibraltar,IM Farrell
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,RJ Hatchman
+info,player,Gibraltar,J Marples
+info,player,Gibraltar,S Bodha
+info,registry,people,BA Pai,716bf559
+info,registry,people,FA Klokker,821a412e
+info,registry,people,HAM Shah,007113d7
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,IM Farrell,1a417a09
+info,registry,people,J Jojo,d981a1de
+info,registry,people,J Marples,9d75aec7
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,JD Freyone,7cd7eb50
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OD Hald,38189be1
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RJ Hatchman,01c05b6c
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,Rizwan Mahmood,56e771ef
+info,registry,people,S Bodha,00467a76
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Saran Aslam,2a00735b
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,Vinay Malhotra,452837d1
+ball,1,0.1,Denmark,ND Laegsgaard,HAM Shah,BA Pai,0,0,,,,,,"",""
+ball,1,0.2,Denmark,ND Laegsgaard,HAM Shah,BA Pai,0,1,1,,,,,"",""
+ball,1,0.3,Denmark,ND Laegsgaard,HAM Shah,BA Pai,0,0,,,,,,"",""
+ball,1,0.4,Denmark,ND Laegsgaard,HAM Shah,BA Pai,4,0,,,,,,"",""
+ball,1,0.5,Denmark,ND Laegsgaard,HAM Shah,BA Pai,0,0,,,,,,"",""
+ball,1,0.6,Denmark,ND Laegsgaard,HAM Shah,BA Pai,0,0,,,,,,"",""
+ball,1,0.7,Denmark,ND Laegsgaard,HAM Shah,BA Pai,4,0,,,,,,"",""
+ball,1,1.1,Denmark,HAM Shah,ND Laegsgaard,JA Fitzgerald,0,0,,,,,,caught,HAM Shah
+ball,1,1.2,Denmark,T Bharaj,ND Laegsgaard,JA Fitzgerald,1,0,,,,,,"",""
+ball,1,1.3,Denmark,ND Laegsgaard,T Bharaj,JA Fitzgerald,1,0,,,,,,"",""
+ball,1,1.4,Denmark,T Bharaj,ND Laegsgaard,JA Fitzgerald,0,0,,,,,,bowled,T Bharaj
+ball,1,1.5,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,0,0,,,,,,"",""
+ball,1,1.6,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,0,1,1,,,,,"",""
+ball,1,1.7,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,0,0,,,,,,"",""
+ball,1,2.1,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,0,0,,,,,,"",""
+ball,1,2.2,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,6,0,,,,,,"",""
+ball,1,2.3,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,0,0,,,,,,"",""
+ball,1,2.4,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,0,0,,,,,,"",""
+ball,1,2.5,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,6,0,,,,,,"",""
+ball,1,2.6,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,6,0,,,,,,"",""
+ball,1,3.1,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,1,0,,,,,,"",""
+ball,1,3.2,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,1,0,,,,,,"",""
+ball,1,3.3,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,1,0,,,,,,"",""
+ball,1,3.4,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,0,0,,,,,,"",""
+ball,1,3.5,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,0,1,1,,,,,"",""
+ball,1,3.6,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,2,0,,,,,,"",""
+ball,1,3.7,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,2,0,,,,,,"",""
+ball,1,4.1,Denmark,SA Ahmad,ND Laegsgaard,BA Pai,1,0,,,,,,"",""
+ball,1,4.2,Denmark,ND Laegsgaard,SA Ahmad,BA Pai,1,0,,,,,,"",""
+ball,1,4.3,Denmark,SA Ahmad,ND Laegsgaard,BA Pai,0,0,,,,,,"",""
+ball,1,4.4,Denmark,SA Ahmad,ND Laegsgaard,BA Pai,0,0,,,,,,"",""
+ball,1,4.5,Denmark,SA Ahmad,ND Laegsgaard,BA Pai,4,0,,,,,,"",""
+ball,1,4.6,Denmark,SA Ahmad,ND Laegsgaard,BA Pai,1,0,,,,,,"",""
+ball,1,5.1,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,4,0,,,,,,"",""
+ball,1,5.2,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,4,0,,,,,,"",""
+ball,1,5.3,Denmark,SA Ahmad,ND Laegsgaard,JA Fitzgerald,1,0,,,,,,"",""
+ball,1,5.4,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,4,0,,,,,,"",""
+ball,1,5.5,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,0,0,,,,,,"",""
+ball,1,5.6,Denmark,ND Laegsgaard,SA Ahmad,JA Fitzgerald,6,0,,,,,,"",""
+ball,1,6.1,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,1,0,,,,,,"",""
+ball,1,6.2,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,1,0,,,,,,"",""
+ball,1,6.3,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,2,0,,,,,,"",""
+ball,1,6.4,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,1,0,,,,,,"",""
+ball,1,6.5,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,1,0,,,,,,"",""
+ball,1,6.6,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,4,0,,,,,,"",""
+ball,1,7.1,Denmark,ND Laegsgaard,SA Ahmad,L Bruce,0,1,,,1,,,"",""
+ball,1,7.2,Denmark,SA Ahmad,ND Laegsgaard,L Bruce,1,0,,,,,,"",""
+ball,1,7.3,Denmark,ND Laegsgaard,SA Ahmad,L Bruce,4,0,,,,,,"",""
+ball,1,7.4,Denmark,ND Laegsgaard,SA Ahmad,L Bruce,1,0,,,,,,"",""
+ball,1,7.5,Denmark,SA Ahmad,ND Laegsgaard,L Bruce,1,0,,,,,,"",""
+ball,1,7.6,Denmark,ND Laegsgaard,SA Ahmad,L Bruce,4,0,,,,,,"",""
+ball,1,8.1,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,0,0,,,,,,"",""
+ball,1,8.2,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,0,0,,,,,,"",""
+ball,1,8.3,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,1,0,,,,,,"",""
+ball,1,8.4,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,1,0,,,,,,"",""
+ball,1,8.5,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,1,0,,,,,,"",""
+ball,1,8.6,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,6,0,,,,,,"",""
+ball,1,9.1,Denmark,SA Ahmad,ND Laegsgaard,L Bruce,2,0,,,,,,"",""
+ball,1,9.2,Denmark,SA Ahmad,ND Laegsgaard,L Bruce,0,0,,,,,,"",""
+ball,1,9.3,Denmark,SA Ahmad,ND Laegsgaard,L Bruce,0,0,,,,,,"",""
+ball,1,9.4,Denmark,SA Ahmad,ND Laegsgaard,L Bruce,1,0,,,,,,"",""
+ball,1,9.5,Denmark,ND Laegsgaard,SA Ahmad,L Bruce,0,1,1,,,,,"",""
+ball,1,9.6,Denmark,ND Laegsgaard,SA Ahmad,L Bruce,1,0,,,,,,"",""
+ball,1,9.7,Denmark,SA Ahmad,ND Laegsgaard,L Bruce,0,0,,,,,,"",""
+ball,1,10.1,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,6,0,,,,,,"",""
+ball,1,10.2,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,6,0,,,,,,"",""
+ball,1,10.3,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,0,0,,,,,,"",""
+ball,1,10.4,Denmark,ND Laegsgaard,SA Ahmad,IDM Latin,1,0,,,,,,"",""
+ball,1,10.5,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,4,0,,,,,,"",""
+ball,1,10.6,Denmark,SA Ahmad,ND Laegsgaard,IDM Latin,6,0,,,,,,"",""
+ball,1,11.1,Denmark,ND Laegsgaard,SA Ahmad,RJ Hatchman,1,0,,,,,,"",""
+ball,1,11.2,Denmark,SA Ahmad,ND Laegsgaard,RJ Hatchman,4,0,,,,,,"",""
+ball,1,11.3,Denmark,SA Ahmad,ND Laegsgaard,RJ Hatchman,0,0,,,,,,"",""
+ball,1,11.4,Denmark,SA Ahmad,ND Laegsgaard,RJ Hatchman,4,0,,,,,,"",""
+ball,1,11.5,Denmark,SA Ahmad,ND Laegsgaard,RJ Hatchman,1,0,,,,,,"",""
+ball,1,11.6,Denmark,ND Laegsgaard,SA Ahmad,RJ Hatchman,0,4,,,4,,,"",""
+ball,1,12.1,Denmark,SA Ahmad,ND Laegsgaard,S Bodha,0,0,,,,,,"",""
+ball,1,12.2,Denmark,SA Ahmad,ND Laegsgaard,S Bodha,0,0,,,,,,"",""
+ball,1,12.3,Denmark,SA Ahmad,ND Laegsgaard,S Bodha,1,0,,,,,,"",""
+ball,1,12.4,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,1,0,,,,,,"",""
+ball,1,12.5,Denmark,SA Ahmad,ND Laegsgaard,S Bodha,1,0,,,,,,"",""
+ball,1,12.6,Denmark,ND Laegsgaard,SA Ahmad,S Bodha,6,0,,,,,,"",""
+ball,1,13.1,Denmark,SA Ahmad,ND Laegsgaard,RJ Hatchman,1,0,,,,,,"",""
+ball,1,13.2,Denmark,ND Laegsgaard,SA Ahmad,RJ Hatchman,2,0,,,,,,"",""
+ball,1,13.3,Denmark,ND Laegsgaard,SA Ahmad,RJ Hatchman,0,5,5,,,,,"",""
+ball,1,13.4,Denmark,ND Laegsgaard,SA Ahmad,RJ Hatchman,0,0,,,,,,"",""
+ball,1,13.5,Denmark,ND Laegsgaard,SA Ahmad,RJ Hatchman,6,0,,,,,,"",""
+ball,1,13.6,Denmark,ND Laegsgaard,SA Ahmad,RJ Hatchman,0,0,,,,,,caught,ND Laegsgaard
+ball,1,13.7,Denmark,SA Ahmad,Rizwan Mahmood,RJ Hatchman,1,0,,,,,,"",""
+ball,1,14.1,Denmark,SA Ahmad,Rizwan Mahmood,BA Pai,0,0,,,,,,"",""
+ball,1,14.2,Denmark,SA Ahmad,Rizwan Mahmood,BA Pai,0,0,,,,,,caught,SA Ahmad
+ball,1,14.3,Denmark,Saran Aslam,Rizwan Mahmood,BA Pai,2,0,,,,,,"",""
+ball,1,14.4,Denmark,Saran Aslam,Rizwan Mahmood,BA Pai,0,0,,,,,,"",""
+ball,1,14.5,Denmark,Saran Aslam,Rizwan Mahmood,BA Pai,1,0,,,,,,"",""
+ball,1,14.6,Denmark,Rizwan Mahmood,Saran Aslam,BA Pai,1,0,,,,,,"",""
+ball,1,15.1,Denmark,Rizwan Mahmood,Saran Aslam,RJ Hatchman,2,0,,,,,,"",""
+ball,1,15.2,Denmark,Rizwan Mahmood,Saran Aslam,RJ Hatchman,1,0,,,,,,"",""
+ball,1,15.3,Denmark,Saran Aslam,Rizwan Mahmood,RJ Hatchman,4,0,,,,,,"",""
+ball,1,15.4,Denmark,Saran Aslam,Rizwan Mahmood,RJ Hatchman,1,0,,,,,,"",""
+ball,1,15.5,Denmark,Rizwan Mahmood,Saran Aslam,RJ Hatchman,4,0,,,,,,"",""
+ball,1,15.6,Denmark,Rizwan Mahmood,Saran Aslam,RJ Hatchman,1,0,,,,,,"",""
+ball,1,16.1,Denmark,Rizwan Mahmood,Saran Aslam,BA Pai,1,0,,,,,,"",""
+ball,1,16.2,Denmark,Saran Aslam,Rizwan Mahmood,BA Pai,4,0,,,,,,"",""
+ball,1,16.3,Denmark,Saran Aslam,Rizwan Mahmood,BA Pai,4,0,,,,,,"",""
+ball,1,16.4,Denmark,Saran Aslam,Rizwan Mahmood,BA Pai,1,0,,,,,,"",""
+ball,1,16.5,Denmark,Rizwan Mahmood,Saran Aslam,BA Pai,0,0,,,,,,"",""
+ball,1,16.6,Denmark,Rizwan Mahmood,Saran Aslam,BA Pai,6,0,,,,,,"",""
+ball,1,17.1,Denmark,Saran Aslam,Rizwan Mahmood,RJ Hatchman,6,0,,,,,,"",""
+ball,1,17.2,Denmark,Saran Aslam,Rizwan Mahmood,RJ Hatchman,1,0,,,,,,"",""
+ball,1,17.3,Denmark,Rizwan Mahmood,Saran Aslam,RJ Hatchman,4,0,,,,,,"",""
+ball,1,17.4,Denmark,Rizwan Mahmood,Saran Aslam,RJ Hatchman,1,0,,,,,,"",""
+ball,1,17.5,Denmark,Saran Aslam,Rizwan Mahmood,RJ Hatchman,6,0,,,,,,"",""
+ball,1,17.6,Denmark,Saran Aslam,Rizwan Mahmood,RJ Hatchman,1,0,,,,,,"",""
+ball,1,18.1,Denmark,Saran Aslam,Rizwan Mahmood,S Bodha,4,0,,,,,,"",""
+ball,1,18.2,Denmark,Saran Aslam,Rizwan Mahmood,S Bodha,6,0,,,,,,"",""
+ball,1,18.3,Denmark,Saran Aslam,Rizwan Mahmood,S Bodha,6,0,,,,,,"",""
+ball,1,18.4,Denmark,Saran Aslam,Rizwan Mahmood,S Bodha,0,0,,,,,,caught,Saran Aslam
+ball,1,18.5,Denmark,Rizwan Mahmood,OD Hald,S Bodha,1,0,,,,,,"",""
+ball,1,18.6,Denmark,OD Hald,Rizwan Mahmood,S Bodha,1,0,,,,,,"",""
+ball,1,19.1,Denmark,OD Hald,Rizwan Mahmood,L Bruce,0,4,,,4,,,"",""
+ball,1,19.2,Denmark,OD Hald,Rizwan Mahmood,L Bruce,6,0,,,,,,"",""
+ball,1,19.3,Denmark,OD Hald,Rizwan Mahmood,L Bruce,2,0,,,,,,"",""
+ball,1,19.4,Denmark,OD Hald,Rizwan Mahmood,L Bruce,6,0,,,,,,"",""
+ball,1,19.5,Denmark,OD Hald,Rizwan Mahmood,L Bruce,4,0,,,,,,"",""
+ball,1,19.6,Denmark,OD Hald,Rizwan Mahmood,L Bruce,0,1,1,,,,,"",""
+ball,1,19.7,Denmark,OD Hald,Rizwan Mahmood,L Bruce,2,0,,,,,,"",""
+ball,2,0.1,Gibraltar,BA Pai,L Bruce,Surya Anand,0,0,,,,,,"",""
+ball,2,0.2,Gibraltar,BA Pai,L Bruce,Surya Anand,2,0,,,,,,"",""
+ball,2,0.3,Gibraltar,BA Pai,L Bruce,Surya Anand,2,0,,,,,,"",""
+ball,2,0.4,Gibraltar,BA Pai,L Bruce,Surya Anand,0,0,,,,,,"",""
+ball,2,0.5,Gibraltar,BA Pai,L Bruce,Surya Anand,0,0,,,,,,"",""
+ball,2,0.6,Gibraltar,BA Pai,L Bruce,Surya Anand,0,0,,,,,,bowled,BA Pai
+ball,2,1.1,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,1.2,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,1.3,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,1.4,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,1.5,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,1.6,Gibraltar,L Bruce,PA Raikes,OD Hald,1,0,,,,,,"",""
+ball,2,2.1,Gibraltar,L Bruce,PA Raikes,Surya Anand,6,0,,,,,,"",""
+ball,2,2.2,Gibraltar,L Bruce,PA Raikes,Surya Anand,0,0,,,,,,"",""
+ball,2,2.3,Gibraltar,L Bruce,PA Raikes,Surya Anand,1,0,,,,,,"",""
+ball,2,2.4,Gibraltar,PA Raikes,L Bruce,Surya Anand,0,0,,,,,,"",""
+ball,2,2.5,Gibraltar,PA Raikes,L Bruce,Surya Anand,1,0,,,,,,"",""
+ball,2,2.6,Gibraltar,L Bruce,PA Raikes,Surya Anand,0,0,,,,,,"",""
+ball,2,3.1,Gibraltar,PA Raikes,L Bruce,OD Hald,1,0,,,,,,"",""
+ball,2,3.2,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,3.3,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,3.4,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,3.5,Gibraltar,L Bruce,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,3.6,Gibraltar,L Bruce,PA Raikes,OD Hald,4,0,,,,,,"",""
+ball,2,4.1,Gibraltar,PA Raikes,L Bruce,Surya Anand,0,0,,,,,,"",""
+ball,2,4.2,Gibraltar,PA Raikes,L Bruce,Surya Anand,0,0,,,,,,"",""
+ball,2,4.3,Gibraltar,PA Raikes,L Bruce,Surya Anand,1,0,,,,,,"",""
+ball,2,4.4,Gibraltar,L Bruce,PA Raikes,Surya Anand,0,0,,,,,,"",""
+ball,2,4.5,Gibraltar,L Bruce,PA Raikes,Surya Anand,1,0,,,,,,"",""
+ball,2,4.6,Gibraltar,PA Raikes,L Bruce,Surya Anand,0,0,,,,,,"",""
+ball,2,5.1,Gibraltar,L Bruce,PA Raikes,Saran Aslam,4,0,,,,,,"",""
+ball,2,5.2,Gibraltar,L Bruce,PA Raikes,Saran Aslam,2,0,,,,,,"",""
+ball,2,5.3,Gibraltar,L Bruce,PA Raikes,Saran Aslam,0,0,,,,,,"",""
+ball,2,5.4,Gibraltar,L Bruce,PA Raikes,Saran Aslam,6,0,,,,,,"",""
+ball,2,5.5,Gibraltar,L Bruce,PA Raikes,Saran Aslam,1,0,,,,,,"",""
+ball,2,5.6,Gibraltar,PA Raikes,L Bruce,Saran Aslam,0,0,,,,,,"",""
+ball,2,6.1,Gibraltar,L Bruce,PA Raikes,J Jojo,0,0,,,,,,caught,L Bruce
+ball,2,6.2,Gibraltar,KJ Stagno,PA Raikes,J Jojo,1,0,,,,,,"",""
+ball,2,6.3,Gibraltar,PA Raikes,KJ Stagno,J Jojo,4,0,,,,,,"",""
+ball,2,6.4,Gibraltar,PA Raikes,KJ Stagno,J Jojo,0,0,,,,,,"",""
+ball,2,6.5,Gibraltar,PA Raikes,KJ Stagno,J Jojo,1,0,,,,,,"",""
+ball,2,6.6,Gibraltar,KJ Stagno,PA Raikes,J Jojo,1,0,,,,,,"",""
+ball,2,7.1,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,0,0,,,,,,"",""
+ball,2,7.2,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,0,0,,,,,,"",""
+ball,2,7.3,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,6,0,,,,,,"",""
+ball,2,7.4,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,1,0,,,,,,"",""
+ball,2,7.5,Gibraltar,PA Raikes,KJ Stagno,Saran Aslam,0,0,,,,,,"",""
+ball,2,7.6,Gibraltar,PA Raikes,KJ Stagno,Saran Aslam,0,0,,,,,,"",""
+ball,2,8.1,Gibraltar,KJ Stagno,PA Raikes,J Jojo,1,0,,,,,,"",""
+ball,2,8.2,Gibraltar,PA Raikes,KJ Stagno,J Jojo,1,0,,,,,,"",""
+ball,2,8.3,Gibraltar,KJ Stagno,PA Raikes,J Jojo,0,0,,,,,,"",""
+ball,2,8.4,Gibraltar,KJ Stagno,PA Raikes,J Jojo,0,0,,,,,,"",""
+ball,2,8.5,Gibraltar,KJ Stagno,PA Raikes,J Jojo,1,0,,,,,,"",""
+ball,2,8.6,Gibraltar,PA Raikes,KJ Stagno,J Jojo,0,0,,,,,,"",""
+ball,2,9.1,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,0,0,,,,,,"",""
+ball,2,9.2,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,0,0,,,,,,"",""
+ball,2,9.3,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,1,0,,,,,,"",""
+ball,2,9.4,Gibraltar,PA Raikes,KJ Stagno,Saran Aslam,4,0,,,,,,"",""
+ball,2,9.5,Gibraltar,PA Raikes,KJ Stagno,Saran Aslam,1,0,,,,,,"",""
+ball,2,9.6,Gibraltar,KJ Stagno,PA Raikes,Saran Aslam,0,0,,,,,,"",""
+ball,2,10.1,Gibraltar,PA Raikes,KJ Stagno,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,10.2,Gibraltar,PA Raikes,KJ Stagno,ND Laegsgaard,1,0,,,,,,"",""
+ball,2,10.3,Gibraltar,KJ Stagno,PA Raikes,ND Laegsgaard,1,0,,,,,,"",""
+ball,2,10.4,Gibraltar,PA Raikes,KJ Stagno,ND Laegsgaard,1,0,,,,,,"",""
+ball,2,10.5,Gibraltar,KJ Stagno,PA Raikes,ND Laegsgaard,1,0,,,,,,"",""
+ball,2,10.6,Gibraltar,PA Raikes,KJ Stagno,ND Laegsgaard,6,0,,,,,,"",""
+ball,2,11.1,Gibraltar,KJ Stagno,PA Raikes,SA Ahmad,0,0,,,,,,"",""
+ball,2,11.2,Gibraltar,KJ Stagno,PA Raikes,SA Ahmad,0,0,,,,,,"",""
+ball,2,11.3,Gibraltar,KJ Stagno,PA Raikes,SA Ahmad,4,0,,,,,,"",""
+ball,2,11.4,Gibraltar,KJ Stagno,PA Raikes,SA Ahmad,6,0,,,,,,"",""
+ball,2,11.5,Gibraltar,KJ Stagno,PA Raikes,SA Ahmad,0,0,,,,,,"",""
+ball,2,11.6,Gibraltar,KJ Stagno,PA Raikes,SA Ahmad,1,0,,,,,,"",""
+ball,2,12.1,Gibraltar,KJ Stagno,PA Raikes,ND Laegsgaard,1,0,,,,,,"",""
+ball,2,12.2,Gibraltar,PA Raikes,KJ Stagno,ND Laegsgaard,1,0,,,,,,"",""
+ball,2,12.3,Gibraltar,KJ Stagno,PA Raikes,ND Laegsgaard,0,0,,,,,,caught,KJ Stagno
+ball,2,12.4,Gibraltar,IDM Latin,PA Raikes,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,12.5,Gibraltar,IDM Latin,PA Raikes,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,12.6,Gibraltar,IDM Latin,PA Raikes,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,13.1,Gibraltar,PA Raikes,IDM Latin,SA Ahmad,1,0,,,,,,"",""
+ball,2,13.2,Gibraltar,IDM Latin,PA Raikes,SA Ahmad,0,0,,,,,,"",""
+ball,2,13.3,Gibraltar,IDM Latin,PA Raikes,SA Ahmad,1,0,,,,,,"",""
+ball,2,13.4,Gibraltar,PA Raikes,IDM Latin,SA Ahmad,0,0,,,,,,"",""
+ball,2,13.5,Gibraltar,PA Raikes,IDM Latin,SA Ahmad,6,0,,,,,,"",""
+ball,2,13.6,Gibraltar,PA Raikes,IDM Latin,SA Ahmad,0,0,,,,,,"",""
+ball,2,14.1,Gibraltar,IDM Latin,PA Raikes,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,14.2,Gibraltar,IDM Latin,PA Raikes,ND Laegsgaard,4,0,,,,,,"",""
+ball,2,14.3,Gibraltar,IDM Latin,PA Raikes,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,14.4,Gibraltar,IDM Latin,PA Raikes,ND Laegsgaard,0,0,,,,,,bowled,IDM Latin
+ball,2,14.5,Gibraltar,JD Freyone,PA Raikes,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,14.6,Gibraltar,JD Freyone,PA Raikes,ND Laegsgaard,0,0,,,,,,"",""
+ball,2,15.1,Gibraltar,PA Raikes,JD Freyone,SA Ahmad,0,0,,,,,,"",""
+ball,2,15.2,Gibraltar,PA Raikes,JD Freyone,SA Ahmad,1,0,,,,,,"",""
+ball,2,15.3,Gibraltar,JD Freyone,PA Raikes,SA Ahmad,0,0,,,,,,"",""
+ball,2,15.4,Gibraltar,JD Freyone,PA Raikes,SA Ahmad,6,0,,,,,,"",""
+ball,2,15.5,Gibraltar,JD Freyone,PA Raikes,SA Ahmad,4,0,,,,,,"",""
+ball,2,15.6,Gibraltar,JD Freyone,PA Raikes,SA Ahmad,1,0,,,,,,"",""
+ball,2,16.1,Gibraltar,JD Freyone,PA Raikes,HAM Shah,0,0,,,,,,caught,JD Freyone
+ball,2,16.2,Gibraltar,PA Raikes,IM Farrell,HAM Shah,0,0,,,,,,"",""
+ball,2,16.3,Gibraltar,PA Raikes,IM Farrell,HAM Shah,0,0,,,,,,"",""
+ball,2,16.4,Gibraltar,PA Raikes,IM Farrell,HAM Shah,0,0,,,,,,"",""
+ball,2,16.5,Gibraltar,PA Raikes,IM Farrell,HAM Shah,0,0,,,,,,"",""
+ball,2,16.6,Gibraltar,PA Raikes,IM Farrell,HAM Shah,1,0,,,,,,"",""
+ball,2,17.1,Gibraltar,PA Raikes,IM Farrell,OD Hald,1,0,,,,,,"",""
+ball,2,17.2,Gibraltar,IM Farrell,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,17.3,Gibraltar,IM Farrell,PA Raikes,OD Hald,0,0,,,,,,caught,IM Farrell
+ball,2,17.4,Gibraltar,JA Fitzgerald,PA Raikes,OD Hald,0,0,,,,,,"",""
+ball,2,17.5,Gibraltar,JA Fitzgerald,PA Raikes,OD Hald,1,0,,,,,,"",""
+ball,2,17.6,Gibraltar,PA Raikes,JA Fitzgerald,OD Hald,2,0,,,,,,"",""
+ball,2,18.1,Gibraltar,JA Fitzgerald,PA Raikes,HAM Shah,0,0,,,,,,"",""
+ball,2,18.2,Gibraltar,JA Fitzgerald,PA Raikes,HAM Shah,0,0,,,,,,run out,PA Raikes
+ball,2,18.3,Gibraltar,JA Fitzgerald,RJ Hatchman,HAM Shah,1,0,,,,,,"",""
+ball,2,18.4,Gibraltar,RJ Hatchman,JA Fitzgerald,HAM Shah,2,0,,,,,,"",""
+ball,2,18.5,Gibraltar,RJ Hatchman,JA Fitzgerald,HAM Shah,0,0,,,,,,caught,RJ Hatchman
+ball,2,18.6,Gibraltar,J Marples,JA Fitzgerald,HAM Shah,1,0,,,,,,"",""
+ball,2,19.1,Gibraltar,J Marples,JA Fitzgerald,OD Hald,0,0,,,,,,"",""
+ball,2,19.2,Gibraltar,J Marples,JA Fitzgerald,OD Hald,1,0,,,,,,"",""
+ball,2,19.3,Gibraltar,JA Fitzgerald,J Marples,OD Hald,4,0,,,,,,"",""
+ball,2,19.4,Gibraltar,JA Fitzgerald,J Marples,OD Hald,2,0,,,,,,"",""
+ball,2,19.5,Gibraltar,JA Fitzgerald,J Marples,OD Hald,4,0,,,,,,"",""
+ball,2,19.6,Gibraltar,JA Fitzgerald,J Marples,OD Hald,0,1,,,1,,,"",""

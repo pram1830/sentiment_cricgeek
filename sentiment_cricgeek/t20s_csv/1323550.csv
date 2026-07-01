@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Serbia
+info,gender,male
+info,season,2022
+info,date,2022/07/08
+info,event,Bulgaria tour of Serbia
+info,match_number,1
+info,venue,Lisicji Jarak Cricket Ground
+info,city,Belgrade
+info,toss_winner,Serbia
+info,toss_decision,field
+info,player_of_match,A Mene-Ejegi
+info,umpire,D Djokic
+info,umpire,I Dimitrov
+info,winner,Serbia
+info,winner_wickets,7
+info,player,Bulgaria,H Lakov
+info,player,Bulgaria,IA De Silva
+info,player,Bulgaria,M Kadyan
+info,player,Bulgaria,KC D'Souza
+info,player,Bulgaria,Omar Rassol
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Fayaz Mohammad
+info,player,Bulgaria,Tarun Yadav
+info,player,Bulgaria,DV Varghese
+info,player,Bulgaria,J Albin
+info,player,Bulgaria,I Katzarski
+info,player,Serbia,A Dizija
+info,player,Serbia,S Ivetic
+info,player,Serbia,LA Dunbar
+info,player,Serbia,MV Pavlovic
+info,player,Serbia,RL Vitas
+info,player,Serbia,A Mene-Ejegi
+info,player,Serbia,NR Johns-Wickberg
+info,player,Serbia,V Zimonjic
+info,player,Serbia,A Djorovic
+info,player,Serbia,ML Kostic
+info,player,Serbia,AA Gajic
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Djorovic,677c18f9
+info,registry,people,A Mene-Ejegi,e4f13acd
+info,registry,people,AA Gajic,a768a762
+info,registry,people,D Djokic,8d2330ff
+info,registry,people,DV Varghese,26f98ea3
+info,registry,people,Fayaz Mohammad,67fedcb4
+info,registry,people,H Lakov,87a6f411
+info,registry,people,I Dimitrov,62724040
+info,registry,people,I Katzarski,514628bd
+info,registry,people,IA De Silva,58973aaf
+info,registry,people,J Albin,a4a53adf
+info,registry,people,KC D'Souza,2687fff2
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Kadyan,c7aae1f0
+info,registry,people,ML Kostic,79e23cc5
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,NR Johns-Wickberg,3924b2ee
+info,registry,people,Omar Rassol,6caae2dc
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,RL Vitas,869f61bc
+info,registry,people,S Ivetic,04ab1575
+info,registry,people,Tarun Yadav,865d671f
+info,registry,people,V Zimonjic,7f784eb8
+ball,1,0.1,Bulgaria,H Lakov,IA De Silva,V Zimonjic,1,0,,,,,,"",""
+ball,1,0.2,Bulgaria,IA De Silva,H Lakov,V Zimonjic,0,0,,,,,,"",""
+ball,1,0.3,Bulgaria,IA De Silva,H Lakov,V Zimonjic,0,0,,,,,,"",""
+ball,1,0.4,Bulgaria,IA De Silva,H Lakov,V Zimonjic,0,0,,,,,,"",""
+ball,1,0.5,Bulgaria,IA De Silva,H Lakov,V Zimonjic,2,0,,,,,,"",""
+ball,1,0.6,Bulgaria,IA De Silva,H Lakov,V Zimonjic,0,0,,,,,,"",""
+ball,1,1.1,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,1,1,,,,,"",""
+ball,1,1.2,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,2,0,,,,,,"",""
+ball,1,1.3,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,1,1,,,,,"",""
+ball,1,1.4,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,0,,,,,,"",""
+ball,1,1.5,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,0,,,,,,"",""
+ball,1,1.6,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,0,,,,,,"",""
+ball,1,1.7,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,0,,,,,,"",""
+ball,1,1.8,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,1,1,,,,,"",""
+ball,1,1.9,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,0,0,,,,,,"",""
+ball,1,2.1,Bulgaria,IA De Silva,H Lakov,V Zimonjic,4,0,,,,,,"",""
+ball,1,2.2,Bulgaria,IA De Silva,H Lakov,V Zimonjic,0,0,,,,,,"",""
+ball,1,2.3,Bulgaria,IA De Silva,H Lakov,V Zimonjic,0,0,,,,,,"",""
+ball,1,2.4,Bulgaria,IA De Silva,H Lakov,V Zimonjic,1,0,,,,,,"",""
+ball,1,2.5,Bulgaria,H Lakov,IA De Silva,V Zimonjic,0,0,,,,,,"",""
+ball,1,2.6,Bulgaria,H Lakov,IA De Silva,V Zimonjic,2,0,,,,,,"",""
+ball,1,3.1,Bulgaria,IA De Silva,H Lakov,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,3.2,Bulgaria,H Lakov,IA De Silva,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,3.3,Bulgaria,IA De Silva,H Lakov,A Mene-Ejegi,0,0,,,,,,"",""
+ball,1,3.4,Bulgaria,IA De Silva,H Lakov,A Mene-Ejegi,0,0,,,,,,caught,IA De Silva
+ball,1,3.5,Bulgaria,M Kadyan,H Lakov,A Mene-Ejegi,0,0,,,,,,bowled,M Kadyan
+ball,1,3.6,Bulgaria,KC D'Souza,H Lakov,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,4.1,Bulgaria,KC D'Souza,H Lakov,V Zimonjic,1,0,,,,,,"",""
+ball,1,4.2,Bulgaria,H Lakov,KC D'Souza,V Zimonjic,0,0,,,,,,"",""
+ball,1,4.3,Bulgaria,H Lakov,KC D'Souza,V Zimonjic,1,0,,,,,,"",""
+ball,1,4.4,Bulgaria,KC D'Souza,H Lakov,V Zimonjic,0,0,,,,,,"",""
+ball,1,4.5,Bulgaria,KC D'Souza,H Lakov,V Zimonjic,1,0,,,,,,"",""
+ball,1,4.6,Bulgaria,H Lakov,KC D'Souza,V Zimonjic,0,0,,,,,,"",""
+ball,1,5.1,Bulgaria,KC D'Souza,H Lakov,A Mene-Ejegi,0,1,,,,1,,"",""
+ball,1,5.2,Bulgaria,H Lakov,KC D'Souza,A Mene-Ejegi,4,0,,,,,,"",""
+ball,1,5.3,Bulgaria,H Lakov,KC D'Souza,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,5.4,Bulgaria,KC D'Souza,H Lakov,A Mene-Ejegi,0,1,1,,,,,"",""
+ball,1,5.5,Bulgaria,KC D'Souza,H Lakov,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,5.6,Bulgaria,H Lakov,KC D'Souza,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,5.7,Bulgaria,KC D'Souza,H Lakov,A Mene-Ejegi,4,0,,,,,,"",""
+ball,1,6.1,Bulgaria,H Lakov,KC D'Souza,MV Pavlovic,0,0,,,,,,"",""
+ball,1,6.2,Bulgaria,H Lakov,KC D'Souza,MV Pavlovic,0,0,,,,,,"",""
+ball,1,6.3,Bulgaria,H Lakov,KC D'Souza,MV Pavlovic,1,0,,,,,,"",""
+ball,1,6.4,Bulgaria,KC D'Souza,H Lakov,MV Pavlovic,0,0,,,,,,"",""
+ball,1,6.5,Bulgaria,KC D'Souza,H Lakov,MV Pavlovic,1,0,,,,,,"",""
+ball,1,6.6,Bulgaria,H Lakov,KC D'Souza,MV Pavlovic,1,0,,,,,,"",""
+ball,1,7.1,Bulgaria,H Lakov,KC D'Souza,AA Gajic,1,0,,,,,,"",""
+ball,1,7.2,Bulgaria,KC D'Souza,H Lakov,AA Gajic,0,0,,,,,,"",""
+ball,1,7.3,Bulgaria,KC D'Souza,H Lakov,AA Gajic,0,0,,,,,,bowled,KC D'Souza
+ball,1,7.4,Bulgaria,Omar Rassol,H Lakov,AA Gajic,0,0,,,,,,bowled,Omar Rassol
+ball,1,7.5,Bulgaria,P Mishra,H Lakov,AA Gajic,0,0,,,,,,"",""
+ball,1,7.6,Bulgaria,P Mishra,H Lakov,AA Gajic,1,0,,,,,,"",""
+ball,1,8.1,Bulgaria,P Mishra,H Lakov,MV Pavlovic,0,0,,,,,,"",""
+ball,1,8.2,Bulgaria,P Mishra,H Lakov,MV Pavlovic,0,0,,,,,,"",""
+ball,1,8.3,Bulgaria,P Mishra,H Lakov,MV Pavlovic,1,0,,,,,,"",""
+ball,1,8.4,Bulgaria,H Lakov,P Mishra,MV Pavlovic,1,0,,,,,,"",""
+ball,1,8.5,Bulgaria,P Mishra,H Lakov,MV Pavlovic,0,1,1,,,,,"",""
+ball,1,8.6,Bulgaria,P Mishra,H Lakov,MV Pavlovic,1,0,,,,,,"",""
+ball,1,8.7,Bulgaria,H Lakov,P Mishra,MV Pavlovic,6,0,,,,,,"",""
+ball,1,9.1,Bulgaria,P Mishra,H Lakov,AA Gajic,6,0,,,,,,"",""
+ball,1,9.2,Bulgaria,P Mishra,H Lakov,AA Gajic,6,0,,,,,,"",""
+ball,1,9.3,Bulgaria,P Mishra,H Lakov,AA Gajic,0,1,1,,,,,"",""
+ball,1,9.4,Bulgaria,P Mishra,H Lakov,AA Gajic,0,0,,,,,,"",""
+ball,1,9.5,Bulgaria,P Mishra,H Lakov,AA Gajic,6,0,,,,,,"",""
+ball,1,9.6,Bulgaria,P Mishra,H Lakov,AA Gajic,0,0,,,,,,"",""
+ball,1,9.7,Bulgaria,P Mishra,H Lakov,AA Gajic,1,0,,,,,,"",""
+ball,1,10.1,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,0,1,1,,,,,"",""
+ball,1,10.2,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,10.3,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,10.4,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,10.5,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,10.6,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,10.7,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,11.1,Bulgaria,P Mishra,H Lakov,A Djorovic,0,0,,,,,,"",""
+ball,1,11.2,Bulgaria,P Mishra,H Lakov,A Djorovic,6,0,,,,,,"",""
+ball,1,11.3,Bulgaria,P Mishra,H Lakov,A Djorovic,1,0,,,,,,"",""
+ball,1,11.4,Bulgaria,H Lakov,P Mishra,A Djorovic,1,0,,,,,,"",""
+ball,1,11.5,Bulgaria,P Mishra,H Lakov,A Djorovic,1,0,,,,,,"",""
+ball,1,11.6,Bulgaria,H Lakov,P Mishra,A Djorovic,1,0,,,,,,"",""
+ball,1,12.1,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,12.2,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,12.3,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,0,1,,,,1,,"",""
+ball,1,12.4,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,12.5,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,2,0,,,,,,"",""
+ball,1,12.6,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,4,0,,,,,,"",""
+ball,1,13.1,Bulgaria,P Mishra,H Lakov,A Djorovic,6,0,,,,,,"",""
+ball,1,13.2,Bulgaria,P Mishra,H Lakov,A Djorovic,1,0,,,,,,"",""
+ball,1,13.3,Bulgaria,H Lakov,P Mishra,A Djorovic,1,0,,,,,,"",""
+ball,1,13.4,Bulgaria,P Mishra,H Lakov,A Djorovic,0,1,1,,,,,"",""
+ball,1,13.5,Bulgaria,P Mishra,H Lakov,A Djorovic,6,0,,,,,,"",""
+ball,1,13.6,Bulgaria,P Mishra,H Lakov,A Djorovic,1,0,,,,,,"",""
+ball,1,13.7,Bulgaria,H Lakov,P Mishra,A Djorovic,0,0,,,,,,"",""
+ball,1,14.1,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,14.2,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,0,1,1,,,,,"",""
+ball,1,14.3,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,14.4,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,6,0,,,,,,"",""
+ball,1,14.5,Bulgaria,P Mishra,H Lakov,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,14.6,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,1,14.7,Bulgaria,H Lakov,P Mishra,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,1,15.1,Bulgaria,H Lakov,P Mishra,A Mene-Ejegi,1,1,,1,,,,"",""
+ball,1,15.2,Bulgaria,P Mishra,H Lakov,A Mene-Ejegi,0,0,,,,,,"",""
+ball,1,15.3,Bulgaria,P Mishra,H Lakov,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,15.4,Bulgaria,H Lakov,P Mishra,A Mene-Ejegi,2,0,,,,,,"",""
+ball,1,15.5,Bulgaria,H Lakov,P Mishra,A Mene-Ejegi,4,0,,,,,,"",""
+ball,1,15.6,Bulgaria,H Lakov,P Mishra,A Mene-Ejegi,1,0,,,,,,"",""
+ball,1,15.7,Bulgaria,P Mishra,H Lakov,A Mene-Ejegi,0,0,,,,,,bowled,P Mishra
+ball,1,16.1,Bulgaria,H Lakov,Fayaz Mohammad,MV Pavlovic,1,0,,,,,,"",""
+ball,1,16.2,Bulgaria,Fayaz Mohammad,H Lakov,MV Pavlovic,2,0,,,,,,"",""
+ball,1,16.3,Bulgaria,Fayaz Mohammad,H Lakov,MV Pavlovic,1,0,,,,,,"",""
+ball,1,16.4,Bulgaria,H Lakov,Fayaz Mohammad,MV Pavlovic,1,0,,,,,,"",""
+ball,1,16.5,Bulgaria,Fayaz Mohammad,H Lakov,MV Pavlovic,1,0,,,,,,"",""
+ball,1,16.6,Bulgaria,H Lakov,Fayaz Mohammad,MV Pavlovic,1,0,,,,,,"",""
+ball,1,17.1,Bulgaria,H Lakov,Fayaz Mohammad,AA Gajic,1,0,,,,,,"",""
+ball,1,17.2,Bulgaria,Fayaz Mohammad,H Lakov,AA Gajic,0,0,,,,,,caught,Fayaz Mohammad
+ball,1,17.3,Bulgaria,Tarun Yadav,H Lakov,AA Gajic,1,0,,,,,,"",""
+ball,1,17.4,Bulgaria,H Lakov,Tarun Yadav,AA Gajic,0,0,,,,,,run out,H Lakov
+ball,1,17.5,Bulgaria,Tarun Yadav,DV Varghese,AA Gajic,1,0,,,,,,"",""
+ball,1,17.6,Bulgaria,DV Varghese,Tarun Yadav,AA Gajic,1,0,,,,,,"",""
+ball,1,18.1,Bulgaria,DV Varghese,Tarun Yadav,MV Pavlovic,0,2,2,,,,,"",""
+ball,1,18.2,Bulgaria,Tarun Yadav,DV Varghese,MV Pavlovic,6,0,,,,,,"",""
+ball,1,18.3,Bulgaria,Tarun Yadav,DV Varghese,MV Pavlovic,0,0,,,,,,"",""
+ball,1,18.4,Bulgaria,Tarun Yadav,DV Varghese,MV Pavlovic,0,0,,,,,,caught,Tarun Yadav
+ball,1,18.5,Bulgaria,J Albin,DV Varghese,MV Pavlovic,0,0,,,,,,"",""
+ball,1,18.6,Bulgaria,J Albin,DV Varghese,MV Pavlovic,0,1,,,,1,,"",""
+ball,1,18.7,Bulgaria,DV Varghese,J Albin,MV Pavlovic,1,0,,,,,,"",""
+ball,1,19.1,Bulgaria,DV Varghese,J Albin,V Zimonjic,1,0,,,,,,"",""
+ball,1,19.2,Bulgaria,J Albin,DV Varghese,V Zimonjic,0,0,,,,,,"",""
+ball,1,19.3,Bulgaria,J Albin,DV Varghese,V Zimonjic,1,0,,,,,,"",""
+ball,1,19.4,Bulgaria,DV Varghese,J Albin,V Zimonjic,0,0,,,,,,"",""
+ball,1,19.5,Bulgaria,DV Varghese,J Albin,V Zimonjic,0,0,,,,,,caught,DV Varghese
+ball,1,19.6,Bulgaria,I Katzarski,J Albin,V Zimonjic,1,0,,,,,,"",""
+ball,2,0.1,Serbia,A Dizija,S Ivetic,M Kadyan,0,0,,,,,,"",""
+ball,2,0.2,Serbia,A Dizija,S Ivetic,M Kadyan,0,1,1,,,,,"",""
+ball,2,0.3,Serbia,A Dizija,S Ivetic,M Kadyan,2,0,,,,,,"",""
+ball,2,0.4,Serbia,A Dizija,S Ivetic,M Kadyan,1,0,,,,,,"",""
+ball,2,0.5,Serbia,S Ivetic,A Dizija,M Kadyan,4,0,,,,,,"",""
+ball,2,0.6,Serbia,S Ivetic,A Dizija,M Kadyan,0,0,,,,,,"",""
+ball,2,0.7,Serbia,S Ivetic,A Dizija,M Kadyan,0,0,,,,,,"",""
+ball,2,1.1,Serbia,A Dizija,S Ivetic,H Lakov,4,0,,,,,,"",""
+ball,2,1.2,Serbia,A Dizija,S Ivetic,H Lakov,0,0,,,,,,"",""
+ball,2,1.3,Serbia,A Dizija,S Ivetic,H Lakov,0,0,,,,,,"",""
+ball,2,1.4,Serbia,A Dizija,S Ivetic,H Lakov,0,0,,,,,,"",""
+ball,2,1.5,Serbia,A Dizija,S Ivetic,H Lakov,4,0,,,,,,"",""
+ball,2,1.6,Serbia,A Dizija,S Ivetic,H Lakov,0,1,1,,,,,"",""
+ball,2,1.7,Serbia,A Dizija,S Ivetic,H Lakov,1,0,,,,,,"",""
+ball,2,2.1,Serbia,A Dizija,S Ivetic,M Kadyan,0,2,2,,,,,"",""
+ball,2,2.2,Serbia,S Ivetic,A Dizija,M Kadyan,0,0,,,,,,"",""
+ball,2,2.3,Serbia,S Ivetic,A Dizija,M Kadyan,2,0,,,,,,"",""
+ball,2,2.4,Serbia,S Ivetic,A Dizija,M Kadyan,1,0,,,,,,"",""
+ball,2,2.5,Serbia,A Dizija,S Ivetic,M Kadyan,4,0,,,,,,"",""
+ball,2,2.6,Serbia,A Dizija,S Ivetic,M Kadyan,0,0,,,,,,"",""
+ball,2,2.7,Serbia,A Dizija,S Ivetic,M Kadyan,0,0,,,,,,"",""
+ball,2,3.1,Serbia,S Ivetic,A Dizija,H Lakov,1,0,,,,,,"",""
+ball,2,3.2,Serbia,A Dizija,S Ivetic,H Lakov,0,0,,,,,,"",""
+ball,2,3.3,Serbia,A Dizija,S Ivetic,H Lakov,6,0,,,,,,"",""
+ball,2,3.4,Serbia,A Dizija,S Ivetic,H Lakov,0,0,,,,,,"",""
+ball,2,3.5,Serbia,A Dizija,S Ivetic,H Lakov,1,0,,,,,,"",""
+ball,2,3.6,Serbia,S Ivetic,A Dizija,H Lakov,0,0,,,,,,"",""
+ball,2,4.1,Serbia,A Dizija,S Ivetic,M Kadyan,0,2,2,,,,,"",""
+ball,2,4.2,Serbia,S Ivetic,A Dizija,M Kadyan,0,0,,,,,,"",""
+ball,2,4.3,Serbia,S Ivetic,A Dizija,M Kadyan,0,0,,,,,,"",""
+ball,2,4.4,Serbia,S Ivetic,A Dizija,M Kadyan,0,2,,,2,,,"",""
+ball,2,4.5,Serbia,S Ivetic,A Dizija,M Kadyan,4,0,,,,,,"",""
+ball,2,4.6,Serbia,S Ivetic,A Dizija,M Kadyan,2,0,,,,,,"",""
+ball,2,4.7,Serbia,S Ivetic,A Dizija,M Kadyan,0,2,,,,2,,"",""
+ball,2,5.1,Serbia,A Dizija,S Ivetic,DV Varghese,0,0,,,,,,"",""
+ball,2,5.2,Serbia,A Dizija,S Ivetic,DV Varghese,0,0,,,,,,"",""
+ball,2,5.3,Serbia,A Dizija,S Ivetic,DV Varghese,1,0,,,,,,"",""
+ball,2,5.4,Serbia,S Ivetic,A Dizija,DV Varghese,0,0,,,,,,"",""
+ball,2,5.5,Serbia,S Ivetic,A Dizija,DV Varghese,0,1,1,,,,,"",""
+ball,2,5.6,Serbia,S Ivetic,A Dizija,DV Varghese,0,0,,,,,,"",""
+ball,2,5.7,Serbia,S Ivetic,A Dizija,DV Varghese,4,0,,,,,,"",""
+ball,2,6.1,Serbia,A Dizija,S Ivetic,P Mishra,1,0,,,,,,"",""
+ball,2,6.2,Serbia,S Ivetic,A Dizija,P Mishra,0,0,,,,,,"",""
+ball,2,6.3,Serbia,S Ivetic,A Dizija,P Mishra,1,0,,,,,,"",""
+ball,2,6.4,Serbia,A Dizija,S Ivetic,P Mishra,1,0,,,,,,"",""
+ball,2,6.5,Serbia,S Ivetic,A Dizija,P Mishra,0,1,1,,,,,"",""
+ball,2,6.6,Serbia,S Ivetic,A Dizija,P Mishra,1,0,,,,,,"",""
+ball,2,6.7,Serbia,A Dizija,S Ivetic,P Mishra,0,0,,,,,,caught,A Dizija
+ball,2,7.1,Serbia,S Ivetic,LA Dunbar,DV Varghese,1,0,,,,,,"",""
+ball,2,7.2,Serbia,LA Dunbar,S Ivetic,DV Varghese,4,0,,,,,,"",""
+ball,2,7.3,Serbia,LA Dunbar,S Ivetic,DV Varghese,1,0,,,,,,"",""
+ball,2,7.4,Serbia,S Ivetic,LA Dunbar,DV Varghese,2,0,,,,,,"",""
+ball,2,7.5,Serbia,S Ivetic,LA Dunbar,DV Varghese,0,1,1,,,,,"",""
+ball,2,7.6,Serbia,S Ivetic,LA Dunbar,DV Varghese,6,0,,,,,,"",""
+ball,2,7.7,Serbia,S Ivetic,LA Dunbar,DV Varghese,6,0,,,,,,"",""
+ball,2,8.1,Serbia,LA Dunbar,S Ivetic,P Mishra,0,1,1,,,,,"",""
+ball,2,8.2,Serbia,LA Dunbar,S Ivetic,P Mishra,1,0,,,,,,"",""
+ball,2,8.3,Serbia,S Ivetic,LA Dunbar,P Mishra,0,0,,,,,,"",""
+ball,2,8.4,Serbia,S Ivetic,LA Dunbar,P Mishra,0,0,,,,,,"",""
+ball,2,8.5,Serbia,S Ivetic,LA Dunbar,P Mishra,1,0,,,,,,"",""
+ball,2,8.6,Serbia,LA Dunbar,S Ivetic,P Mishra,0,0,,,,,,"",""
+ball,2,8.7,Serbia,LA Dunbar,S Ivetic,P Mishra,0,1,1,,,,,"",""
+ball,2,8.8,Serbia,LA Dunbar,S Ivetic,P Mishra,0,0,,,,,,"",""
+ball,2,9.1,Serbia,S Ivetic,LA Dunbar,Omar Rassol,0,0,,,,,,"",""
+ball,2,9.2,Serbia,S Ivetic,LA Dunbar,Omar Rassol,4,1,,1,,,,"",""
+ball,2,9.3,Serbia,S Ivetic,LA Dunbar,Omar Rassol,6,0,,,,,,"",""
+ball,2,9.4,Serbia,S Ivetic,LA Dunbar,Omar Rassol,1,0,,,,,,"",""
+ball,2,9.5,Serbia,LA Dunbar,S Ivetic,Omar Rassol,1,0,,,,,,"",""
+ball,2,9.6,Serbia,S Ivetic,LA Dunbar,Omar Rassol,0,0,,,,,,"",""
+ball,2,9.7,Serbia,S Ivetic,LA Dunbar,Omar Rassol,0,1,,,1,,,"",""
+ball,2,10.1,Serbia,S Ivetic,LA Dunbar,P Mishra,0,0,,,,,,"",""
+ball,2,10.2,Serbia,S Ivetic,LA Dunbar,P Mishra,0,0,,,,,,"",""
+ball,2,10.3,Serbia,S Ivetic,LA Dunbar,P Mishra,1,0,,,,,,"",""
+ball,2,10.4,Serbia,LA Dunbar,S Ivetic,P Mishra,0,0,,,,,,"",""
+ball,2,10.5,Serbia,LA Dunbar,S Ivetic,P Mishra,1,0,,,,,,"",""
+ball,2,10.6,Serbia,S Ivetic,LA Dunbar,P Mishra,1,0,,,,,,"",""
+ball,2,11.1,Serbia,S Ivetic,LA Dunbar,Omar Rassol,1,1,,1,,,,"",""
+ball,2,11.2,Serbia,LA Dunbar,S Ivetic,Omar Rassol,0,0,,,,,,"",""
+ball,2,11.3,Serbia,LA Dunbar,S Ivetic,Omar Rassol,1,0,,,,,,"",""
+ball,2,11.4,Serbia,S Ivetic,LA Dunbar,Omar Rassol,0,0,,,,,,"",""
+ball,2,11.5,Serbia,S Ivetic,LA Dunbar,Omar Rassol,2,0,,,,,,"",""
+ball,2,11.6,Serbia,S Ivetic,LA Dunbar,Omar Rassol,1,0,,,,,,"",""
+ball,2,11.7,Serbia,LA Dunbar,S Ivetic,Omar Rassol,0,0,,,,,,"",""
+ball,2,12.1,Serbia,S Ivetic,LA Dunbar,P Mishra,1,0,,,,,,"",""
+ball,2,12.2,Serbia,LA Dunbar,S Ivetic,P Mishra,0,1,1,,,,,"",""
+ball,2,12.3,Serbia,LA Dunbar,S Ivetic,P Mishra,1,0,,,,,,"",""
+ball,2,12.4,Serbia,S Ivetic,LA Dunbar,P Mishra,1,0,,,,,,"",""
+ball,2,12.5,Serbia,LA Dunbar,S Ivetic,P Mishra,0,0,,,,,,"",""
+ball,2,12.6,Serbia,LA Dunbar,S Ivetic,P Mishra,1,0,,,,,,"",""
+ball,2,12.7,Serbia,S Ivetic,LA Dunbar,P Mishra,1,0,,,,,,"",""
+ball,2,13.1,Serbia,S Ivetic,LA Dunbar,Fayaz Mohammad,1,0,,,,,,"",""
+ball,2,13.2,Serbia,LA Dunbar,S Ivetic,Fayaz Mohammad,0,0,,,,,,"",""
+ball,2,13.3,Serbia,LA Dunbar,S Ivetic,Fayaz Mohammad,1,0,,,,,,"",""
+ball,2,13.4,Serbia,S Ivetic,LA Dunbar,Fayaz Mohammad,0,2,2,,,,,"",""
+ball,2,13.5,Serbia,LA Dunbar,S Ivetic,Fayaz Mohammad,6,0,,,,,,"",""
+ball,2,13.6,Serbia,LA Dunbar,S Ivetic,Fayaz Mohammad,2,0,,,,,,"",""
+ball,2,13.7,Serbia,LA Dunbar,S Ivetic,Fayaz Mohammad,1,0,,,,,,"",""
+ball,2,14.1,Serbia,LA Dunbar,S Ivetic,H Lakov,4,0,,,,,,"",""
+ball,2,14.2,Serbia,LA Dunbar,S Ivetic,H Lakov,0,4,4,,,,,"",""
+ball,2,14.3,Serbia,S Ivetic,LA Dunbar,H Lakov,0,0,,,,,,"",""
+ball,2,14.4,Serbia,S Ivetic,LA Dunbar,H Lakov,1,0,,,,,,"",""
+ball,2,14.5,Serbia,LA Dunbar,S Ivetic,H Lakov,0,1,1,,,,,"",""
+ball,2,14.6,Serbia,LA Dunbar,S Ivetic,H Lakov,0,0,,,,,,caught,LA Dunbar
+ball,2,14.7,Serbia,MV Pavlovic,S Ivetic,H Lakov,0,0,,,,,,"",""
+ball,2,14.8,Serbia,MV Pavlovic,S Ivetic,H Lakov,0,1,1,,,,,run out,MV Pavlovic
+ball,2,14.9,Serbia,RL Vitas,S Ivetic,H Lakov,0,1,,,1,,,"",""
+ball,2,15.1,Serbia,RL Vitas,S Ivetic,DV Varghese,0,0,,,,,,"",""
+ball,2,15.2,Serbia,RL Vitas,S Ivetic,DV Varghese,0,0,,,,,,"",""
+ball,2,15.3,Serbia,RL Vitas,S Ivetic,DV Varghese,0,0,,,,,,"",""
+ball,2,15.4,Serbia,RL Vitas,S Ivetic,DV Varghese,0,0,,,,,,"",""
+ball,2,15.5,Serbia,RL Vitas,S Ivetic,DV Varghese,0,0,,,,,,"",""
+ball,2,15.6,Serbia,RL Vitas,S Ivetic,DV Varghese,4,0,,,,,,"",""
+ball,2,16.1,Serbia,S Ivetic,RL Vitas,H Lakov,1,0,,,,,,"",""
+ball,2,16.2,Serbia,RL Vitas,S Ivetic,H Lakov,4,0,,,,,,"",""
+ball,2,16.3,Serbia,RL Vitas,S Ivetic,H Lakov,0,0,,,,,,"",""
+ball,2,16.4,Serbia,RL Vitas,S Ivetic,H Lakov,1,0,,,,,,"",""
+ball,2,16.5,Serbia,S Ivetic,RL Vitas,H Lakov,0,0,,,,,,"",""
+ball,2,16.6,Serbia,S Ivetic,RL Vitas,H Lakov,0,1,,,,1,,"",""
+ball,2,17.1,Serbia,S Ivetic,RL Vitas,Tarun Yadav,0,0,,,,,,"",""
+ball,2,17.2,Serbia,S Ivetic,RL Vitas,Tarun Yadav,0,0,,,,,,"",""
+ball,2,17.3,Serbia,S Ivetic,RL Vitas,Tarun Yadav,0,0,,,,,,"",""
+ball,2,17.4,Serbia,S Ivetic,RL Vitas,Tarun Yadav,2,0,,,,,,"",""
+ball,2,17.5,Serbia,S Ivetic,RL Vitas,Tarun Yadav,0,0,,,,,,"",""
+ball,2,17.6,Serbia,S Ivetic,RL Vitas,Tarun Yadav,0,0,,,,,,"",""
+ball,2,18.1,Serbia,RL Vitas,S Ivetic,Fayaz Mohammad,1,0,,,,,,"",""
+ball,2,18.2,Serbia,S Ivetic,RL Vitas,Fayaz Mohammad,4,0,,,,,,"",""

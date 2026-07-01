@@ -1,0 +1,327 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Uganda
+info,gender,female
+info,season,2019
+info,date,2019/06/18
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,1
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,M Pascal
+info,umpire,John Mayeku
+info,umpire,Vicky Prajapati
+info,reserve_umpire,Jackson Nzayisenga
+info,winner,Tanzania
+info,winner_runs,5
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,M Pascal
+info,player,Tanzania,HM Omary
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,TS Omary
+info,player,Tanzania,S Mtae
+info,player,Tanzania,NN Saidi
+info,player,Tanzania,W Kevin
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,NO Tindo
+info,player,Uganda,D Busingye
+info,player,Uganda,P Alako
+info,player,Uganda,R Musamali
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,S Nampiina
+info,player,Uganda,E Iloku
+info,player,Uganda,JM Apio
+info,player,Uganda,S Walaza
+info,player,Uganda,S Kakai
+info,player,Uganda,E Anyipo
+info,player,Uganda,M Kagoya
+info,registry,people,D Busingye,51862ee2
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,JM Apio,2842d925
+info,registry,people,Jackson Nzayisenga,d392fec7
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,M Kagoya,7f1c495f
+info,registry,people,M Pascal,729c5ab5
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,NN Saidi,16610c7b
+info,registry,people,NO Tindo,7f8316e3
+info,registry,people,P Alako,fcf37e14
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Kakai,dc4535fe
+info,registry,people,S Mtae,bb641155
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Walaza,f67ea6d2
+info,registry,people,SH Mohamedi,10ab6a37
+info,registry,people,TS Omary,88e90658
+info,registry,people,Vicky Prajapati,8926ed4e
+info,registry,people,W Kevin,fc84a459
+ball,1,0.1,Tanzania,FO Kibasu,M Pascal,E Anyipo,0,0,,,,,,"",""
+ball,1,0.2,Tanzania,FO Kibasu,M Pascal,E Anyipo,1,0,,,,,,"",""
+ball,1,0.3,Tanzania,M Pascal,FO Kibasu,E Anyipo,0,1,1,,,,,"",""
+ball,1,0.4,Tanzania,M Pascal,FO Kibasu,E Anyipo,0,0,,,,,,"",""
+ball,1,0.5,Tanzania,M Pascal,FO Kibasu,E Anyipo,1,0,,,,,,"",""
+ball,1,0.6,Tanzania,FO Kibasu,M Pascal,E Anyipo,0,1,1,,,,,"",""
+ball,1,0.7,Tanzania,FO Kibasu,M Pascal,E Anyipo,1,0,,,,,,"",""
+ball,1,0.8,Tanzania,M Pascal,FO Kibasu,E Anyipo,1,0,,,,,,"",""
+ball,1,1.1,Tanzania,M Pascal,FO Kibasu,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,1.2,Tanzania,M Pascal,FO Kibasu,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,1.3,Tanzania,M Pascal,FO Kibasu,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,1.4,Tanzania,M Pascal,FO Kibasu,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,1.5,Tanzania,M Pascal,FO Kibasu,I Nakisuuyi,3,0,,,,,,"",""
+ball,1,1.6,Tanzania,FO Kibasu,M Pascal,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,2.1,Tanzania,M Pascal,FO Kibasu,E Anyipo,1,0,,,,,,"",""
+ball,1,2.2,Tanzania,FO Kibasu,M Pascal,E Anyipo,0,0,,,,,,"",""
+ball,1,2.3,Tanzania,FO Kibasu,M Pascal,E Anyipo,4,0,,,,,,"",""
+ball,1,2.4,Tanzania,FO Kibasu,M Pascal,E Anyipo,0,0,,,,,,"",""
+ball,1,2.5,Tanzania,FO Kibasu,M Pascal,E Anyipo,0,0,,,,,,caught,FO Kibasu
+ball,1,2.6,Tanzania,HM Omary,M Pascal,E Anyipo,1,0,,,,,,"",""
+ball,1,3.1,Tanzania,HM Omary,M Pascal,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,3.2,Tanzania,M Pascal,HM Omary,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,3.3,Tanzania,M Pascal,HM Omary,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,3.4,Tanzania,HM Omary,M Pascal,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,3.5,Tanzania,HM Omary,M Pascal,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,3.6,Tanzania,HM Omary,M Pascal,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,4.1,Tanzania,M Pascal,HM Omary,E Anyipo,0,0,,,,,,"",""
+ball,1,4.2,Tanzania,M Pascal,HM Omary,E Anyipo,0,1,1,,,,,"",""
+ball,1,4.3,Tanzania,M Pascal,HM Omary,E Anyipo,0,0,,,,,,"",""
+ball,1,4.4,Tanzania,M Pascal,HM Omary,E Anyipo,1,0,,,,,,"",""
+ball,1,4.5,Tanzania,HM Omary,M Pascal,E Anyipo,0,0,,,,,,"",""
+ball,1,4.6,Tanzania,HM Omary,M Pascal,E Anyipo,0,1,,,,1,,"",""
+ball,1,4.7,Tanzania,M Pascal,HM Omary,E Anyipo,0,0,,,,,,"",""
+ball,1,5.1,Tanzania,HM Omary,M Pascal,S Nampiina,1,0,,,,,,"",""
+ball,1,5.2,Tanzania,M Pascal,HM Omary,S Nampiina,0,0,,,,,,"",""
+ball,1,5.3,Tanzania,M Pascal,HM Omary,S Nampiina,1,0,,,,,,"",""
+ball,1,5.4,Tanzania,HM Omary,M Pascal,S Nampiina,1,0,,,,,,"",""
+ball,1,5.5,Tanzania,M Pascal,HM Omary,S Nampiina,1,0,,,,,,"",""
+ball,1,5.6,Tanzania,HM Omary,M Pascal,S Nampiina,0,0,,,,,,"",""
+ball,1,6.1,Tanzania,M Pascal,HM Omary,JM Apio,0,0,,,,,,"",""
+ball,1,6.2,Tanzania,M Pascal,HM Omary,JM Apio,0,0,,,,,,run out,Hudaa Mohamedi
+ball,1,6.3,Tanzania,NJ Pius,M Pascal,JM Apio,0,0,,,,,,lbw,NJ Pius
+ball,1,6.4,Tanzania,PZ Kamunya,M Pascal,JM Apio,0,0,,,,,,"",""
+ball,1,6.5,Tanzania,PZ Kamunya,M Pascal,JM Apio,0,0,,,,,,"",""
+ball,1,6.6,Tanzania,PZ Kamunya,M Pascal,JM Apio,0,0,,,,,,"",""
+ball,1,7.1,Tanzania,M Pascal,PZ Kamunya,S Nampiina,1,0,,,,,,"",""
+ball,1,7.2,Tanzania,PZ Kamunya,M Pascal,S Nampiina,4,0,,,,,,"",""
+ball,1,7.3,Tanzania,PZ Kamunya,M Pascal,S Nampiina,0,0,,,,,,caught,PZ Kamunya
+ball,1,7.4,Tanzania,TS Omary,M Pascal,S Nampiina,0,0,,,,,,"",""
+ball,1,7.5,Tanzania,TS Omary,M Pascal,S Nampiina,1,0,,,,,,"",""
+ball,1,7.6,Tanzania,M Pascal,TS Omary,S Nampiina,1,0,,,,,,"",""
+ball,1,8.1,Tanzania,M Pascal,TS Omary,JM Apio,0,0,,,,,,"",""
+ball,1,8.2,Tanzania,M Pascal,TS Omary,JM Apio,1,0,,,,,,"",""
+ball,1,8.3,Tanzania,TS Omary,M Pascal,JM Apio,0,2,2,,,,,"",""
+ball,1,8.4,Tanzania,M Pascal,TS Omary,JM Apio,1,0,,,,,,"",""
+ball,1,8.5,Tanzania,TS Omary,M Pascal,JM Apio,0,0,,,,,,bowled,TS Omary
+ball,1,8.6,Tanzania,S Mtae,M Pascal,JM Apio,0,0,,,,,,run out,S Mtae
+ball,1,8.7,Tanzania,NN Saidi,M Pascal,JM Apio,0,0,,,,,,"",""
+ball,1,9.1,Tanzania,M Pascal,NN Saidi,S Nampiina,0,1,,1,,,,"",""
+ball,1,9.2,Tanzania,M Pascal,NN Saidi,S Nampiina,0,1,1,,,,,"",""
+ball,1,9.3,Tanzania,M Pascal,NN Saidi,S Nampiina,1,0,,,,,,"",""
+ball,1,9.4,Tanzania,NN Saidi,M Pascal,S Nampiina,0,1,1,,,,,"",""
+ball,1,9.5,Tanzania,NN Saidi,M Pascal,S Nampiina,0,0,,,,,,"",""
+ball,1,9.6,Tanzania,NN Saidi,M Pascal,S Nampiina,0,0,,,,,,"",""
+ball,1,9.7,Tanzania,NN Saidi,M Pascal,S Nampiina,2,0,,,,,,"",""
+ball,1,9.8,Tanzania,NN Saidi,M Pascal,S Nampiina,1,0,,,,,,"",""
+ball,1,9.9,Tanzania,M Pascal,NN Saidi,S Nampiina,0,0,,,,,,"",""
+ball,1,10.1,Tanzania,NN Saidi,M Pascal,JM Apio,1,0,,,,,,"",""
+ball,1,10.2,Tanzania,M Pascal,NN Saidi,JM Apio,0,0,,,,,,"",""
+ball,1,10.3,Tanzania,M Pascal,NN Saidi,JM Apio,0,1,,,,1,,"",""
+ball,1,10.4,Tanzania,NN Saidi,M Pascal,JM Apio,0,0,,,,,,"",""
+ball,1,10.5,Tanzania,NN Saidi,M Pascal,JM Apio,1,0,,,,,,"",""
+ball,1,10.6,Tanzania,NN Saidi,M Pascal,JM Apio,0,5,5,,,,,"",""
+ball,1,10.7,Tanzania,NN Saidi,M Pascal,JM Apio,0,1,1,,,,,"",""
+ball,1,10.8,Tanzania,NN Saidi,M Pascal,JM Apio,1,0,,,,,,"",""
+ball,1,11.1,Tanzania,NN Saidi,M Pascal,I Nakisuuyi,2,0,,,,,,"",""
+ball,1,11.2,Tanzania,NN Saidi,M Pascal,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,11.3,Tanzania,M Pascal,NN Saidi,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,11.4,Tanzania,NN Saidi,M Pascal,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,11.5,Tanzania,NN Saidi,M Pascal,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,11.6,Tanzania,M Pascal,NN Saidi,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,12.1,Tanzania,M Pascal,NN Saidi,S Walaza,4,0,,,,,,"",""
+ball,1,12.2,Tanzania,M Pascal,NN Saidi,S Walaza,1,0,,,,,,"",""
+ball,1,12.3,Tanzania,NN Saidi,M Pascal,S Walaza,1,0,,,,,,"",""
+ball,1,12.4,Tanzania,M Pascal,NN Saidi,S Walaza,0,0,,,,,,"",""
+ball,1,12.5,Tanzania,M Pascal,NN Saidi,S Walaza,0,0,,,,,,"",""
+ball,1,12.6,Tanzania,M Pascal,NN Saidi,S Walaza,1,0,,,,,,"",""
+ball,1,13.1,Tanzania,M Pascal,NN Saidi,I Nakisuuyi,0,0,,,,,,"",""
+ball,1,13.2,Tanzania,M Pascal,NN Saidi,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,13.3,Tanzania,NN Saidi,M Pascal,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,13.4,Tanzania,M Pascal,NN Saidi,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,13.5,Tanzania,NN Saidi,M Pascal,I Nakisuuyi,1,0,,,,,,"",""
+ball,1,13.6,Tanzania,M Pascal,NN Saidi,I Nakisuuyi,4,0,,,,,,"",""
+ball,1,14.1,Tanzania,NN Saidi,M Pascal,S Walaza,0,1,1,,,,,"",""
+ball,1,14.2,Tanzania,NN Saidi,M Pascal,S Walaza,0,1,1,,,,,"",""
+ball,1,14.3,Tanzania,NN Saidi,M Pascal,S Walaza,0,0,,,,,,"",""
+ball,1,14.4,Tanzania,NN Saidi,M Pascal,S Walaza,0,1,1,,,,,"",""
+ball,1,14.5,Tanzania,NN Saidi,M Pascal,S Walaza,0,0,,,,,,"",""
+ball,1,14.6,Tanzania,NN Saidi,M Pascal,S Walaza,0,0,,,,,,"",""
+ball,1,14.7,Tanzania,NN Saidi,M Pascal,S Walaza,1,0,,,,,,"",""
+ball,1,14.8,Tanzania,M Pascal,NN Saidi,S Walaza,1,0,,,,,,"",""
+ball,1,14.9,Tanzania,NN Saidi,M Pascal,S Walaza,0,0,,,,,,"",""
+ball,1,15.1,Tanzania,M Pascal,NN Saidi,R Musamali,0,0,,,,,,"",""
+ball,1,15.2,Tanzania,M Pascal,NN Saidi,R Musamali,4,0,,,,,,"",""
+ball,1,15.3,Tanzania,M Pascal,NN Saidi,R Musamali,1,0,,,,,,"",""
+ball,1,15.4,Tanzania,NN Saidi,M Pascal,R Musamali,0,1,1,,,,,"",""
+ball,1,15.5,Tanzania,NN Saidi,M Pascal,R Musamali,0,0,,,,,,"",""
+ball,1,15.6,Tanzania,NN Saidi,M Pascal,R Musamali,1,0,,,,,,"",""
+ball,1,15.7,Tanzania,M Pascal,NN Saidi,R Musamali,4,0,,,,,,"",""
+ball,1,16.1,Tanzania,NN Saidi,M Pascal,P Alako,0,0,,,,,,"",""
+ball,1,16.2,Tanzania,NN Saidi,M Pascal,P Alako,0,0,,,,,,"",""
+ball,1,16.3,Tanzania,NN Saidi,M Pascal,P Alako,0,0,,,,,,"",""
+ball,1,16.4,Tanzania,NN Saidi,M Pascal,P Alako,1,0,,,,,,"",""
+ball,1,16.5,Tanzania,M Pascal,NN Saidi,P Alako,4,0,,,,,,"",""
+ball,1,16.6,Tanzania,M Pascal,NN Saidi,P Alako,0,0,,,,,,"",""
+ball,1,17.1,Tanzania,NN Saidi,M Pascal,R Musamali,0,0,,,,,,"",""
+ball,1,17.2,Tanzania,NN Saidi,M Pascal,R Musamali,1,0,,,,,,"",""
+ball,1,17.3,Tanzania,M Pascal,NN Saidi,R Musamali,4,0,,,,,,"",""
+ball,1,17.4,Tanzania,M Pascal,NN Saidi,R Musamali,1,0,,,,,,"",""
+ball,1,17.5,Tanzania,NN Saidi,M Pascal,R Musamali,1,0,,,,,,"",""
+ball,1,17.6,Tanzania,M Pascal,NN Saidi,R Musamali,4,0,,,,,,"",""
+ball,1,18.1,Tanzania,NN Saidi,M Pascal,P Alako,1,0,,,,,,"",""
+ball,1,18.2,Tanzania,M Pascal,NN Saidi,P Alako,1,0,,,,,,"",""
+ball,1,18.3,Tanzania,NN Saidi,M Pascal,P Alako,0,0,,,,,,run out,NN Saidi
+ball,1,18.4,Tanzania,M Pascal,W Kevin,P Alako,0,0,,,,,,caught,M Pascal
+ball,1,18.5,Tanzania,SH Mohamedi,W Kevin,P Alako,0,0,,,,,,"",""
+ball,1,18.6,Tanzania,SH Mohamedi,W Kevin,P Alako,0,0,,,,,,"",""
+ball,1,19.1,Tanzania,W Kevin,SH Mohamedi,JM Apio,0,1,1,,,,,"",""
+ball,1,19.2,Tanzania,W Kevin,SH Mohamedi,JM Apio,0,0,,,,,,"",""
+ball,1,19.3,Tanzania,W Kevin,SH Mohamedi,JM Apio,0,0,,,,,,"",""
+ball,1,19.4,Tanzania,W Kevin,SH Mohamedi,JM Apio,4,0,,,,,,"",""
+ball,1,19.5,Tanzania,W Kevin,SH Mohamedi,JM Apio,0,0,,,,,,"",""
+ball,1,19.6,Tanzania,W Kevin,SH Mohamedi,JM Apio,0,0,,,,,,run out,SH Mohamedi
+ball,1,19.7,Tanzania,NO Tindo,W Kevin,JM Apio,1,0,,,,,,"",""
+ball,2,0.1,Uganda,D Busingye,P Alako,PZ Kamunya,0,1,1,,,,,"",""
+ball,2,0.2,Uganda,D Busingye,P Alako,PZ Kamunya,0,0,,,,,,"",""
+ball,2,0.3,Uganda,D Busingye,P Alako,PZ Kamunya,0,1,1,,,,,"",""
+ball,2,0.4,Uganda,D Busingye,P Alako,PZ Kamunya,0,0,,,,,,"",""
+ball,2,0.5,Uganda,D Busingye,P Alako,PZ Kamunya,0,0,,,,,,"",""
+ball,2,0.6,Uganda,D Busingye,P Alako,PZ Kamunya,0,0,,,,,,lbw,D Busingye
+ball,2,0.7,Uganda,R Musamali,P Alako,PZ Kamunya,0,0,,,,,,"",""
+ball,2,0.8,Uganda,R Musamali,P Alako,PZ Kamunya,0,0,,,,,,"",""
+ball,2,1.1,Uganda,P Alako,R Musamali,NN Saidi,0,0,,,,,,"",""
+ball,2,1.2,Uganda,P Alako,R Musamali,NN Saidi,2,0,,,,,,"",""
+ball,2,1.3,Uganda,P Alako,R Musamali,NN Saidi,0,0,,,,,,"",""
+ball,2,1.4,Uganda,P Alako,R Musamali,NN Saidi,0,0,,,,,,"",""
+ball,2,1.5,Uganda,P Alako,R Musamali,NN Saidi,4,0,,,,,,"",""
+ball,2,1.6,Uganda,P Alako,R Musamali,NN Saidi,0,0,,,,,,"",""
+ball,2,2.1,Uganda,R Musamali,P Alako,PZ Kamunya,0,0,,,,,,"",""
+ball,2,2.2,Uganda,R Musamali,P Alako,PZ Kamunya,1,0,,,,,,"",""
+ball,2,2.3,Uganda,P Alako,R Musamali,PZ Kamunya,0,0,,,,,,"",""
+ball,2,2.4,Uganda,P Alako,R Musamali,PZ Kamunya,0,0,,,,,,caught,P Alako
+ball,2,2.5,Uganda,I Nakisuuyi,R Musamali,PZ Kamunya,0,0,,,,,,"",""
+ball,2,2.6,Uganda,I Nakisuuyi,R Musamali,PZ Kamunya,0,0,,,,,,"",""
+ball,2,3.1,Uganda,R Musamali,I Nakisuuyi,NN Saidi,1,0,,,,,,"",""
+ball,2,3.2,Uganda,I Nakisuuyi,R Musamali,NN Saidi,0,0,,,,,,"",""
+ball,2,3.3,Uganda,I Nakisuuyi,R Musamali,NN Saidi,2,0,,,,,,"",""
+ball,2,3.4,Uganda,I Nakisuuyi,R Musamali,NN Saidi,3,0,,,,,,"",""
+ball,2,3.5,Uganda,R Musamali,I Nakisuuyi,NN Saidi,0,0,,,,,,"",""
+ball,2,3.6,Uganda,R Musamali,I Nakisuuyi,NN Saidi,0,0,,,,,,"",""
+ball,2,4.1,Uganda,I Nakisuuyi,R Musamali,PZ Kamunya,1,0,,,,,,"",""
+ball,2,4.2,Uganda,R Musamali,I Nakisuuyi,PZ Kamunya,1,0,,,,,,"",""
+ball,2,4.3,Uganda,I Nakisuuyi,R Musamali,PZ Kamunya,0,0,,,,,,"",""
+ball,2,4.4,Uganda,I Nakisuuyi,R Musamali,PZ Kamunya,4,0,,,,,,"",""
+ball,2,4.5,Uganda,I Nakisuuyi,R Musamali,PZ Kamunya,0,0,,,,,,"",""
+ball,2,4.6,Uganda,I Nakisuuyi,R Musamali,PZ Kamunya,0,0,,,,,,caught,I Nakisuuyi
+ball,2,5.1,Uganda,R Musamali,S Nampiina,TS Omary,0,0,,,,,,"",""
+ball,2,5.2,Uganda,R Musamali,S Nampiina,TS Omary,0,1,1,,,,,"",""
+ball,2,5.3,Uganda,R Musamali,S Nampiina,TS Omary,0,0,,,,,,"",""
+ball,2,5.4,Uganda,R Musamali,S Nampiina,TS Omary,4,0,,,,,,"",""
+ball,2,5.5,Uganda,R Musamali,S Nampiina,TS Omary,0,0,,,,,,"",""
+ball,2,5.6,Uganda,R Musamali,S Nampiina,TS Omary,0,0,,,,,,"",""
+ball,2,5.7,Uganda,R Musamali,S Nampiina,TS Omary,0,0,,,,,,"",""
+ball,2,6.1,Uganda,S Nampiina,R Musamali,PZ Kamunya,0,0,,,,,,"",""
+ball,2,6.2,Uganda,S Nampiina,R Musamali,PZ Kamunya,4,0,,,,,,"",""
+ball,2,6.3,Uganda,S Nampiina,R Musamali,PZ Kamunya,1,0,,,,,,"",""
+ball,2,6.4,Uganda,R Musamali,S Nampiina,PZ Kamunya,0,0,,,,,,"",""
+ball,2,6.5,Uganda,R Musamali,S Nampiina,PZ Kamunya,0,0,,,,,,"",""
+ball,2,6.6,Uganda,R Musamali,S Nampiina,PZ Kamunya,0,0,,,,,,"",""
+ball,2,7.1,Uganda,S Nampiina,R Musamali,TS Omary,0,0,,,,,,"",""
+ball,2,7.2,Uganda,S Nampiina,R Musamali,TS Omary,1,0,,,,,,"",""
+ball,2,7.3,Uganda,R Musamali,S Nampiina,TS Omary,0,0,,,,,,"",""
+ball,2,7.4,Uganda,R Musamali,S Nampiina,TS Omary,1,0,,,,,,"",""
+ball,2,7.5,Uganda,S Nampiina,R Musamali,TS Omary,0,0,,,,,,"",""
+ball,2,7.6,Uganda,S Nampiina,R Musamali,TS Omary,0,0,,,,,,"",""
+ball,2,8.1,Uganda,R Musamali,S Nampiina,FO Kibasu,2,0,,,,,,"",""
+ball,2,8.2,Uganda,R Musamali,S Nampiina,FO Kibasu,0,0,,,,,,"",""
+ball,2,8.3,Uganda,R Musamali,S Nampiina,FO Kibasu,1,0,,,,,,"",""
+ball,2,8.4,Uganda,S Nampiina,R Musamali,FO Kibasu,0,0,,,,,,"",""
+ball,2,8.5,Uganda,S Nampiina,R Musamali,FO Kibasu,0,0,,,,,,"",""
+ball,2,8.6,Uganda,S Nampiina,R Musamali,FO Kibasu,1,0,,,,,,"",""
+ball,2,9.1,Uganda,S Nampiina,R Musamali,TS Omary,1,0,,,,,,"",""
+ball,2,9.2,Uganda,R Musamali,S Nampiina,TS Omary,0,0,,,,,,"",""
+ball,2,9.3,Uganda,R Musamali,S Nampiina,TS Omary,1,0,,,,,,"",""
+ball,2,9.4,Uganda,S Nampiina,R Musamali,TS Omary,0,0,,,,,,"",""
+ball,2,9.5,Uganda,S Nampiina,R Musamali,TS Omary,1,0,,,,,,"",""
+ball,2,9.6,Uganda,R Musamali,S Nampiina,TS Omary,1,0,,,,,,"",""
+ball,2,10.1,Uganda,R Musamali,S Nampiina,FO Kibasu,1,0,,,,,,"",""
+ball,2,10.2,Uganda,S Nampiina,R Musamali,FO Kibasu,1,0,,,,,,"",""
+ball,2,10.3,Uganda,R Musamali,S Nampiina,FO Kibasu,2,0,,,,,,"",""
+ball,2,10.4,Uganda,R Musamali,S Nampiina,FO Kibasu,1,0,,,,,,"",""
+ball,2,10.5,Uganda,S Nampiina,R Musamali,FO Kibasu,0,0,,,,,,"",""
+ball,2,10.6,Uganda,S Nampiina,R Musamali,FO Kibasu,0,0,,,,,,"",""
+ball,2,11.1,Uganda,R Musamali,S Nampiina,NO Tindo,1,0,,,,,,"",""
+ball,2,11.2,Uganda,S Nampiina,R Musamali,NO Tindo,0,0,,,,,,"",""
+ball,2,11.3,Uganda,S Nampiina,R Musamali,NO Tindo,0,0,,,,,,"",""
+ball,2,11.4,Uganda,S Nampiina,R Musamali,NO Tindo,2,0,,,,,,"",""
+ball,2,11.5,Uganda,S Nampiina,R Musamali,NO Tindo,1,0,,,,,,"",""
+ball,2,11.6,Uganda,R Musamali,S Nampiina,NO Tindo,0,0,,,,,,"",""
+ball,2,12.1,Uganda,S Nampiina,R Musamali,FO Kibasu,0,0,,,,,,"",""
+ball,2,12.2,Uganda,S Nampiina,R Musamali,FO Kibasu,0,0,,,,,,bowled,S Nampiina
+ball,2,12.3,Uganda,E Iloku,R Musamali,FO Kibasu,0,0,,,,,,"",""
+ball,2,12.4,Uganda,E Iloku,R Musamali,FO Kibasu,1,0,,,,,,"",""
+ball,2,12.5,Uganda,R Musamali,E Iloku,FO Kibasu,1,0,,,,,,"",""
+ball,2,12.6,Uganda,E Iloku,R Musamali,FO Kibasu,0,0,,,,,,"",""
+ball,2,13.1,Uganda,R Musamali,E Iloku,NO Tindo,0,0,,,,,,stumped,R Musamali
+ball,2,13.2,Uganda,JM Apio,E Iloku,NO Tindo,0,1,1,,,,,"",""
+ball,2,13.3,Uganda,JM Apio,E Iloku,NO Tindo,2,0,,,,,,"",""
+ball,2,13.4,Uganda,JM Apio,E Iloku,NO Tindo,0,0,,,,,,"",""
+ball,2,13.5,Uganda,JM Apio,E Iloku,NO Tindo,1,0,,,,,,"",""
+ball,2,13.6,Uganda,E Iloku,JM Apio,NO Tindo,0,0,,,,,,"",""
+ball,2,13.7,Uganda,E Iloku,JM Apio,NO Tindo,0,0,,,,,,"",""
+ball,2,14.1,Uganda,JM Apio,E Iloku,FO Kibasu,1,0,,,,,,"",""
+ball,2,14.2,Uganda,E Iloku,JM Apio,FO Kibasu,4,0,,,,,,"",""
+ball,2,14.3,Uganda,E Iloku,JM Apio,FO Kibasu,1,0,,,,,,"",""
+ball,2,14.4,Uganda,JM Apio,E Iloku,FO Kibasu,0,0,,,,,,"",""
+ball,2,14.5,Uganda,JM Apio,E Iloku,FO Kibasu,1,0,,,,,,"",""
+ball,2,14.6,Uganda,E Iloku,JM Apio,FO Kibasu,2,0,,,,,,"",""
+ball,2,15.1,Uganda,JM Apio,E Iloku,NO Tindo,1,0,,,,,,"",""
+ball,2,15.2,Uganda,E Iloku,JM Apio,NO Tindo,1,0,,,,,,"",""
+ball,2,15.3,Uganda,JM Apio,E Iloku,NO Tindo,0,1,1,,,,,"",""
+ball,2,15.4,Uganda,JM Apio,E Iloku,NO Tindo,2,0,,,,,,"",""
+ball,2,15.5,Uganda,JM Apio,E Iloku,NO Tindo,0,0,,,,,,bowled,JM Apio
+ball,2,15.6,Uganda,S Walaza,E Iloku,NO Tindo,1,0,,,,,,"",""
+ball,2,15.7,Uganda,E Iloku,S Walaza,NO Tindo,2,0,,,,,,"",""
+ball,2,16.1,Uganda,S Walaza,E Iloku,TS Omary,0,0,,,,,,"",""
+ball,2,16.2,Uganda,S Walaza,E Iloku,TS Omary,1,0,,,,,,"",""
+ball,2,16.3,Uganda,E Iloku,S Walaza,TS Omary,1,0,,,,,,"",""
+ball,2,16.4,Uganda,S Walaza,E Iloku,TS Omary,0,1,,,,1,,"",""
+ball,2,16.5,Uganda,E Iloku,S Walaza,TS Omary,1,0,,,,,,"",""
+ball,2,16.6,Uganda,S Walaza,E Iloku,TS Omary,0,0,,,,,,bowled,S Walaza
+ball,2,17.1,Uganda,E Iloku,S Kakai,NO Tindo,2,0,,,,,,"",""
+ball,2,17.2,Uganda,E Iloku,S Kakai,NO Tindo,2,0,,,,,,"",""
+ball,2,17.3,Uganda,E Iloku,S Kakai,NO Tindo,1,0,,,,,,"",""
+ball,2,17.4,Uganda,S Kakai,E Iloku,NO Tindo,1,0,,,,,,"",""
+ball,2,17.5,Uganda,E Iloku,S Kakai,NO Tindo,4,0,,,,,,"",""
+ball,2,17.6,Uganda,E Iloku,S Kakai,NO Tindo,1,0,,,,,,"",""
+ball,2,18.1,Uganda,S Kakai,E Iloku,NN Saidi,0,1,1,,,,,"",""
+ball,2,18.2,Uganda,S Kakai,E Iloku,NN Saidi,1,0,,,,,,"",""
+ball,2,18.3,Uganda,E Iloku,S Kakai,NN Saidi,0,0,,,,,,"",""
+ball,2,18.4,Uganda,E Iloku,S Kakai,NN Saidi,4,0,,,,,,"",""
+ball,2,18.5,Uganda,E Iloku,S Kakai,NN Saidi,4,0,,,,,,"",""
+ball,2,18.6,Uganda,E Iloku,S Kakai,NN Saidi,1,0,,,,,,"",""
+ball,2,18.7,Uganda,S Kakai,E Iloku,NN Saidi,0,0,,,,,,caught,S Kakai
+ball,2,19.1,Uganda,E Iloku,E Anyipo,W Kevin,2,0,,,,,,"",""
+ball,2,19.2,Uganda,E Iloku,E Anyipo,W Kevin,0,0,,,,,,"",""
+ball,2,19.3,Uganda,E Iloku,E Anyipo,W Kevin,2,0,,,,,,"",""
+ball,2,19.4,Uganda,E Iloku,E Anyipo,W Kevin,0,1,1,,,,,"",""
+ball,2,19.5,Uganda,E Iloku,E Anyipo,W Kevin,1,0,,,,,,run out,E Anyipo
+ball,2,19.6,Uganda,E Iloku,M Kagoya,W Kevin,1,0,,,,,,"",""
+ball,2,19.7,Uganda,M Kagoya,E Iloku,W Kevin,2,0,,,,,,"",""

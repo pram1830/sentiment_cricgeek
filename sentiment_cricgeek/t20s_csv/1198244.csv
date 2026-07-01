@@ -1,0 +1,167 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,male
+info,season,2020
+info,date,2020/08/28
+info,event,Pakistan tour of England
+info,match_number,1
+info,venue,Old Trafford
+info,city,Manchester
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,umpire,AG Wharf
+info,umpire,M Burns
+info,reserve_umpire,DJ Millns
+info,tv_umpire,MJ Saggers
+info,match_referee,Wayne Noon
+info,outcome,no result
+info,player,England,T Banton
+info,player,England,JM Bairstow
+info,player,England,DJ Malan
+info,player,England,EJG Morgan
+info,player,England,MM Ali
+info,player,England,SW Billings
+info,player,England,L Gregory
+info,player,England,CJ Jordan
+info,player,England,TK Curran
+info,player,England,AU Rashid
+info,player,England,S Mahmood
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Imad Wasim
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TK Curran,e86754b2
+info,registry,people,Wayne Noon,736e1761
+ball,1,0.1,England,T Banton,JM Bairstow,Imad Wasim,1,0,,,,,,"",""
+ball,1,0.2,England,JM Bairstow,T Banton,Imad Wasim,0,0,,,,,,"",""
+ball,1,0.3,England,JM Bairstow,T Banton,Imad Wasim,2,0,,,,,,"",""
+ball,1,0.4,England,JM Bairstow,T Banton,Imad Wasim,0,0,,,,,,"",""
+ball,1,0.5,England,JM Bairstow,T Banton,Imad Wasim,0,0,,,,,,caught and bowled,JM Bairstow
+ball,1,0.6,England,DJ Malan,T Banton,Imad Wasim,0,0,,,,,,"",""
+ball,1,1.1,England,T Banton,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,1.2,England,T Banton,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,1.3,England,T Banton,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,1.4,England,T Banton,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,1.5,England,T Banton,DJ Malan,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,1.6,England,T Banton,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,2.1,England,DJ Malan,T Banton,Imad Wasim,0,0,,,,,,"",""
+ball,1,2.2,England,DJ Malan,T Banton,Imad Wasim,1,0,,,,,,"",""
+ball,1,2.3,England,T Banton,DJ Malan,Imad Wasim,3,0,,,,,,"",""
+ball,1,2.4,England,DJ Malan,T Banton,Imad Wasim,1,0,,,,,,"",""
+ball,1,2.5,England,T Banton,DJ Malan,Imad Wasim,1,0,,,,,,"",""
+ball,1,2.6,England,DJ Malan,T Banton,Imad Wasim,2,0,,,,,,"",""
+ball,1,3.1,England,T Banton,DJ Malan,Mohammad Amir,0,0,,,,,,"",""
+ball,1,3.2,England,T Banton,DJ Malan,Mohammad Amir,1,0,,,,,,"",""
+ball,1,3.3,England,DJ Malan,T Banton,Mohammad Amir,0,0,,,,,,"",""
+ball,1,3.4,England,DJ Malan,T Banton,Mohammad Amir,2,0,,,,,,"",""
+ball,1,3.5,England,DJ Malan,T Banton,Mohammad Amir,0,0,,,,,,"",""
+ball,1,3.6,England,DJ Malan,T Banton,Mohammad Amir,1,0,,,,,,"",""
+ball,1,4.1,England,DJ Malan,T Banton,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,4.2,England,DJ Malan,T Banton,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,4.3,England,DJ Malan,T Banton,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,4.4,England,DJ Malan,T Banton,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,4.5,England,DJ Malan,T Banton,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,4.6,England,T Banton,DJ Malan,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,5.1,England,T Banton,DJ Malan,Mohammad Amir,1,0,,,,,,"",""
+ball,1,5.2,England,DJ Malan,T Banton,Mohammad Amir,0,0,,,,,,"",""
+ball,1,5.3,England,DJ Malan,T Banton,Mohammad Amir,2,0,,,,,,"",""
+ball,1,5.4,England,DJ Malan,T Banton,Mohammad Amir,1,0,,,,,,"",""
+ball,1,5.5,England,T Banton,DJ Malan,Mohammad Amir,4,0,,,,,,"",""
+ball,1,5.6,England,T Banton,DJ Malan,Mohammad Amir,1,0,,,,,,"",""
+ball,1,6.1,England,T Banton,DJ Malan,Haris Rauf,0,1,1,,,,,"",""
+ball,1,6.2,England,T Banton,DJ Malan,Haris Rauf,1,0,,,,,,"",""
+ball,1,6.3,England,DJ Malan,T Banton,Haris Rauf,1,0,,,,,,"",""
+ball,1,6.4,England,T Banton,DJ Malan,Haris Rauf,1,0,,,,,,"",""
+ball,1,6.5,England,DJ Malan,T Banton,Haris Rauf,1,0,,,,,,"",""
+ball,1,6.6,England,T Banton,DJ Malan,Haris Rauf,0,0,,,,,,"",""
+ball,1,6.7,England,T Banton,DJ Malan,Haris Rauf,1,0,,,,,,"",""
+ball,1,7.1,England,T Banton,DJ Malan,Shadab Khan,6,0,,,,,,"",""
+ball,1,7.2,England,T Banton,DJ Malan,Shadab Khan,1,0,,,,,,"",""
+ball,1,7.3,England,DJ Malan,T Banton,Shadab Khan,0,0,,,,,,"",""
+ball,1,7.4,England,DJ Malan,T Banton,Shadab Khan,1,0,,,,,,"",""
+ball,1,7.5,England,T Banton,DJ Malan,Shadab Khan,0,0,,,,,,"",""
+ball,1,7.6,England,T Banton,DJ Malan,Shadab Khan,1,0,,,,,,"",""
+ball,1,8.1,England,T Banton,DJ Malan,Haris Rauf,2,0,,,,,,"",""
+ball,1,8.2,England,T Banton,DJ Malan,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.3,England,DJ Malan,T Banton,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.4,England,T Banton,DJ Malan,Haris Rauf,4,0,,,,,,"",""
+ball,1,8.5,England,T Banton,DJ Malan,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.6,England,DJ Malan,T Banton,Haris Rauf,4,0,,,,,,"",""
+ball,1,9.1,England,T Banton,DJ Malan,Shadab Khan,6,0,,,,,,"",""
+ball,1,9.2,England,T Banton,DJ Malan,Shadab Khan,6,0,,,,,,"",""
+ball,1,9.3,England,T Banton,DJ Malan,Shadab Khan,0,0,,,,,,run out,DJ Malan
+ball,1,9.4,England,T Banton,EJG Morgan,Shadab Khan,0,0,,,,,,"",""
+ball,1,9.5,England,T Banton,EJG Morgan,Shadab Khan,1,0,,,,,,"",""
+ball,1,9.6,England,EJG Morgan,T Banton,Shadab Khan,4,0,,,,,,"",""
+ball,1,10.1,England,T Banton,EJG Morgan,Imad Wasim,1,0,,,,,,"",""
+ball,1,10.2,England,EJG Morgan,T Banton,Imad Wasim,0,0,,,,,,"",""
+ball,1,10.3,England,EJG Morgan,T Banton,Imad Wasim,6,0,,,,,,"",""
+ball,1,10.4,England,EJG Morgan,T Banton,Imad Wasim,1,0,,,,,,"",""
+ball,1,10.5,England,T Banton,EJG Morgan,Imad Wasim,6,0,,,,,,"",""
+ball,1,10.6,England,T Banton,EJG Morgan,Imad Wasim,1,0,,,,,,"",""
+ball,1,11.1,England,T Banton,EJG Morgan,Haris Rauf,4,0,,,,,,"",""
+ball,1,11.2,England,T Banton,EJG Morgan,Haris Rauf,2,0,,,,,,"",""
+ball,1,11.3,England,T Banton,EJG Morgan,Haris Rauf,6,0,,,,,,"",""
+ball,1,11.4,England,T Banton,EJG Morgan,Haris Rauf,0,0,,,,,,"",""
+ball,1,11.5,England,T Banton,EJG Morgan,Haris Rauf,1,0,,,,,,"",""
+ball,1,11.6,England,EJG Morgan,T Banton,Haris Rauf,0,0,,,,,,"",""
+ball,1,12.1,England,T Banton,EJG Morgan,Shadab Khan,1,0,,,,,,"",""
+ball,1,12.2,England,EJG Morgan,T Banton,Shadab Khan,1,0,,,,,,"",""
+ball,1,12.3,England,T Banton,EJG Morgan,Shadab Khan,0,0,,,,,,caught,T Banton
+ball,1,12.4,England,EJG Morgan,MM Ali,Shadab Khan,0,0,,,,,,"",""
+ball,1,12.5,England,EJG Morgan,MM Ali,Shadab Khan,1,0,,,,,,"",""
+ball,1,12.6,England,MM Ali,EJG Morgan,Shadab Khan,1,0,,,,,,"",""
+ball,1,13.1,England,MM Ali,EJG Morgan,Iftikhar Ahmed,4,0,,,,,,"",""
+ball,1,13.2,England,MM Ali,EJG Morgan,Iftikhar Ahmed,0,0,,,,,,"",""
+ball,1,13.3,England,MM Ali,EJG Morgan,Iftikhar Ahmed,1,0,,,,,,"",""
+ball,1,13.4,England,EJG Morgan,MM Ali,Iftikhar Ahmed,1,0,,,,,,"",""
+ball,1,13.5,England,MM Ali,EJG Morgan,Iftikhar Ahmed,1,0,,,,,,"",""
+ball,1,13.6,England,EJG Morgan,MM Ali,Iftikhar Ahmed,0,0,,,,,,lbw,EJG Morgan
+ball,1,14.1,England,MM Ali,SW Billings,Shadab Khan,1,0,,,,,,"",""
+ball,1,14.2,England,SW Billings,MM Ali,Shadab Khan,0,0,,,,,,"",""
+ball,1,14.3,England,SW Billings,MM Ali,Shadab Khan,1,0,,,,,,"",""
+ball,1,14.4,England,MM Ali,SW Billings,Shadab Khan,0,0,,,,,,caught,MM Ali
+ball,1,14.5,England,L Gregory,SW Billings,Shadab Khan,1,0,,,,,,"",""
+ball,1,14.6,England,SW Billings,L Gregory,Shadab Khan,0,0,,,,,,"",""
+ball,1,15.1,England,L Gregory,SW Billings,Imad Wasim,1,0,,,,,,"",""
+ball,1,15.2,England,SW Billings,L Gregory,Imad Wasim,1,0,,,,,,"",""
+ball,1,15.3,England,L Gregory,SW Billings,Imad Wasim,0,0,,,,,,stumped,L Gregory
+ball,1,15.4,England,CJ Jordan,SW Billings,Imad Wasim,1,0,,,,,,"",""
+ball,1,15.5,England,SW Billings,CJ Jordan,Imad Wasim,1,0,,,,,,"",""
+ball,1,15.6,England,CJ Jordan,SW Billings,Imad Wasim,1,0,,,,,,"",""
+ball,1,16.1,England,CJ Jordan,SW Billings,Mohammad Amir,0,4,,,,4,,"",""
+ball,1,16.2,England,CJ Jordan,SW Billings,Mohammad Amir,0,1,1,,,,,"",""

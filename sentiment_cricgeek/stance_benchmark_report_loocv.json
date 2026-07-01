@@ -1,0 +1,4652 @@
+{
+  "benchmark_path": "C:\\Users\\srira\\Desktop\\sentiment_cricgeek\\sentiment_engine\\benchmarks\\cricgeek_stance_benchmark_200.json",
+  "evaluation_mode": "leave_one_out_cross_validation",
+  "total_samples": 200,
+  "overall_accuracy_percent": 100.0,
+  "samples": [
+    {
+      "index": 1,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3888,
+      "score": 67.88,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.12,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 2,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 3,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 4,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.4052,
+      "score": 67.12,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.88,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 5,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.4126,
+      "score": 67.53,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.47,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 6,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3424,
+      "score": 48.32,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 21.68,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 7,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3676,
+      "score": 67.85,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.15,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 8,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3724,
+      "score": 67.92,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.08,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 9,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 10,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3866,
+      "score": 67.91,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.09,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 11,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 12,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3701,
+      "score": 67.8,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.2,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 13,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 14,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0012,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.454,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 15,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.468,
+      "score": 67.39,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.61,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 16,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3522,
+      "score": 67.8,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.2,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 17,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3683,
+      "score": 67.16,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.84,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 18,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.4323,
+      "score": 67.59,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.41,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 19,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0012,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.454,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 20,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 21,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 22,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.4622,
+      "score": 67.54,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.46,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 23,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3093,
+      "score": 49.15,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 20.85,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 24,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.4365,
+      "score": 67.23,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.77,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 25,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.4685,
+      "score": 67.44,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.56,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 26,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.422,
+      "score": 67.34,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.66,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 27,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 28,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.3543,
+      "score": 66.99,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 3.01,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 29,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.365,
+      "score": 67.17,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 2.83,
+      "toxicity": 0.0632,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.324,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 30,
+      "expected_stance": "SUPPORTIVE_DEFENSE",
+      "predicted_stance": "SUPPORTIVE_DEFENSE",
+      "confidence": 0.6,
+      "score": 70.0,
+      "expected_score_band": [
+        70.0,
+        85.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0088,
+      "expected_toxicity_band": [
+        0.0,
+        0.12
+      ],
+      "supportive_strength": 0.354,
+      "expected_supportive_strength_band": [
+        0.45,
+        1.0
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 31,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4056,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 32,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5103,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 33,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4577,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 34,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4577,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 35,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.3642,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 36,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5004,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 37,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5463,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 38,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4907,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 39,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.3909,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 40,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4257,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 41,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4577,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 42,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4907,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 43,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4316,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 44,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5258,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 45,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5504,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 46,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4947,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 47,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4947,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 48,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4755,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 49,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4368,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 50,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4368,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 51,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4947,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 52,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5004,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 53,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5384,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 54,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5504,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 55,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4907,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 56,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5103,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 57,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4947,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 58,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.3985,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 59,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.5038,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 60,
+      "expected_stance": "CONSTRUCTIVE_CRITICISM",
+      "predicted_stance": "CONSTRUCTIVE_CRITICISM",
+      "confidence": 0.4368,
+      "score": 75.0,
+      "expected_score_band": [
+        62.0,
+        82.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.18
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.1,
+        0.5
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 61,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7753,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 62,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7601,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 63,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7244,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 64,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7577,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 65,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7565,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 66,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7764,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 67,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7764,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 68,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7614,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 69,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7431,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 70,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.752,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 71,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7542,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 72,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7601,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 73,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7588,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 74,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.741,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 75,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7735,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 76,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.752,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 77,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7462,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 78,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7533,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 79,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7508,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 80,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7484,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 81,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7535,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 82,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7533,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 83,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7533,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 84,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7735,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 85,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7473,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 86,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7496,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 87,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7482,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 88,
+      "expected_stance": "NEUTRAL_ANALYSIS",
+      "predicted_stance": "NEUTRAL_ANALYSIS",
+      "confidence": 0.7526,
+      "score": 45.0,
+      "expected_score_band": [
+        45.0,
+        65.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.15
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.35
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 89,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.533,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 90,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5299,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 91,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5245,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 92,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5407,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 93,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5407,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 94,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5263,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 95,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5299,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 96,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5186,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 97,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5299,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 98,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5263,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 99,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.533,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 100,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5245,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 101,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5263,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 102,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.533,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 103,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5407,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 104,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5198,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 105,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.533,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 106,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.533,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 107,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5407,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 108,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5245,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 109,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5245,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 110,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5407,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 111,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5186,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 112,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5204,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 113,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5204,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 114,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.533,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 115,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5299,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 116,
+      "expected_stance": "BALANCED_DEBATE",
+      "predicted_stance": "BALANCED_DEBATE",
+      "confidence": 0.5198,
+      "score": 75.0,
+      "expected_score_band": [
+        55.0,
+        75.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.22
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.45
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 117,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5232,
+      "score": 42.66,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 118,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5772,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 119,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6471,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 120,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5767,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 121,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5007,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 122,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5232,
+      "score": 42.66,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 123,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5232,
+      "score": 42.66,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 124,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5232,
+      "score": 42.66,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 125,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6057,
+      "score": 42.81,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 126,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5767,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 127,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6057,
+      "score": 42.81,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 128,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6209,
+      "score": 42.54,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 129,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6471,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 130,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5767,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 131,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6209,
+      "score": 42.54,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 132,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5007,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 133,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5007,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 134,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5007,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 135,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5772,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 136,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5232,
+      "score": 42.66,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 137,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5232,
+      "score": 42.66,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 138,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5772,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 139,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5007,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 140,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.5183,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 141,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6471,
+      "score": 50.0,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 142,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6209,
+      "score": 42.54,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 143,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6209,
+      "score": 42.54,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 144,
+      "expected_stance": "DISMISSIVE_COMPLAINT",
+      "predicted_stance": "DISMISSIVE_COMPLAINT",
+      "confidence": 0.6057,
+      "score": 42.81,
+      "expected_score_band": [
+        25.0,
+        50.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.05,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.2
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 145,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5654,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 146,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5654,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 147,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5654,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 148,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5487,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 149,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5676,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 150,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.541,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 151,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5654,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 152,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.6211,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 153,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.541,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 154,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5654,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 155,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.607,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 156,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5654,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 157,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.6211,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 158,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.6211,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 159,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5676,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 160,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.607,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 161,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5676,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 162,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.607,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 163,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5487,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 164,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5201,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 165,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5654,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 166,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5102,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 167,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5676,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 168,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.541,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 169,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5102,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 170,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5676,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 171,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.6211,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 172,
+      "expected_stance": "DIRECT_ATTACK",
+      "predicted_stance": "DIRECT_ATTACK",
+      "confidence": 0.5676,
+      "score": 25.0,
+      "expected_score_band": [
+        0.0,
+        25.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0204,
+      "expected_toxicity_band": [
+        0.2,
+        1.0
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.0,
+        0.1
+      ],
+      "error_type": "toxicity_band_miss"
+    },
+    {
+      "index": 173,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.4119,
+      "score": 69.84,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.84,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.13,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 174,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.4101,
+      "score": 69.84,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.84,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.13,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 175,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3797,
+      "score": 60.0,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 176,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.38,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 177,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3728,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 178,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2819,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 179,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2637,
+      "score": 69.05,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.05,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 180,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3732,
+      "score": 60.01,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 181,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3309,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 182,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3208,
+      "score": 69.05,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.05,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 183,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.4109,
+      "score": 69.05,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.05,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 184,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.5091,
+      "score": 68.0,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.13,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "ok"
+    },
+    {
+      "index": 185,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.4228,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 186,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2744,
+      "score": 69.05,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.05,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 187,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2797,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 188,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2598,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 189,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.4101,
+      "score": 69.84,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.84,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.13,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 190,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.4101,
+      "score": 69.84,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.84,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.13,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 191,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.4228,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 192,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3198,
+      "score": 69.05,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.05,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 193,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3732,
+      "score": 60.01,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 194,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3719,
+      "score": 69.84,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.84,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.13,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 195,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2606,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 196,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3605,
+      "score": 69.84,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.84,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.13,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 197,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3732,
+      "score": 60.01,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 0.0,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "supportive_band_miss"
+    },
+    {
+      "index": 198,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.3198,
+      "score": 69.05,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.05,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 199,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2921,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    },
+    {
+      "index": 200,
+      "expected_stance": "MIXED_STANCE",
+      "predicted_stance": "MIXED_STANCE",
+      "confidence": 0.2797,
+      "score": 69.8,
+      "expected_score_band": [
+        35.0,
+        68.0
+      ],
+      "score_deviation": 1.8,
+      "toxicity": 0.0,
+      "expected_toxicity_band": [
+        0.0,
+        0.35
+      ],
+      "supportive_strength": 0.0,
+      "expected_supportive_strength_band": [
+        0.05,
+        0.4
+      ],
+      "error_type": "score_band_miss"
+    }
+  ],
+  "summary_by_stance": [
+    {
+      "stance": "BALANCED_DEBATE",
+      "count": 28,
+      "accuracy_percent": 100.0,
+      "average_score_deviation": 0.0
+    },
+    {
+      "stance": "CONSTRUCTIVE_CRITICISM",
+      "count": 30,
+      "accuracy_percent": 100.0,
+      "average_score_deviation": 0.0
+    },
+    {
+      "stance": "DIRECT_ATTACK",
+      "count": 28,
+      "accuracy_percent": 100.0,
+      "average_score_deviation": 0.0
+    },
+    {
+      "stance": "DISMISSIVE_COMPLAINT",
+      "count": 28,
+      "accuracy_percent": 100.0,
+      "average_score_deviation": 0.0
+    },
+    {
+      "stance": "MIXED_STANCE",
+      "count": 28,
+      "accuracy_percent": 100.0,
+      "average_score_deviation": 1.33
+    },
+    {
+      "stance": "NEUTRAL_ANALYSIS",
+      "count": 28,
+      "accuracy_percent": 100.0,
+      "average_score_deviation": 0.0
+    },
+    {
+      "stance": "SUPPORTIVE_DEFENSE",
+      "count": 30,
+      "accuracy_percent": 100.0,
+      "average_score_deviation": 2.83
+    }
+  ]
+}

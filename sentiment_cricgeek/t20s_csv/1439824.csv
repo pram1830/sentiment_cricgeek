@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Slovenia
+info,gender,male
+info,season,2024
+info,date,2024/07/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,11
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Gibraltar
+info,toss_decision,bat
+info,player_of_match,Izaz Ali
+info,umpire,M Jameson
+info,umpire,M Burns
+info,reserve_umpire,Rizwan Akram
+info,match_referee,H Pack
+info,winner,Slovenia
+info,winner_wickets,1
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,M Raikes
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,K Mirpuri
+info,player,Slovenia,Muhammad Siddiqui
+info,player,Slovenia,Rasheed Ali Mamadkhel
+info,player,Slovenia,Tarun Sharma
+info,player,Slovenia,Shahid Arshad
+info,player,Slovenia,Izaz Ali
+info,player,Slovenia,Taher Muhammad
+info,player,Slovenia,Waqar Khan
+info,player,Slovenia,S Koppolu
+info,player,Slovenia,Saeed Waqar Ali
+info,player,Slovenia,DK Pallekonda
+info,player,Slovenia,Merwais Shinwari
+info,registry,people,BA Pai,716bf559
+info,registry,people,C Pyle,d278b70b
+info,registry,people,DK Pallekonda,e77c9807
+info,registry,people,H Pack,fed53c91
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Izaz Ali,8a4e101e
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Raikes,a9b998d9
+info,registry,people,Merwais Shinwari,6755b6c7
+info,registry,people,Muhammad Siddiqui,b46b3d9b
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,Rasheed Ali Mamadkhel,72c38d77
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Koppolu,3346b14f
+info,registry,people,Saeed Waqar Ali,1a353572
+info,registry,people,Shahid Arshad,587e65cc
+info,registry,people,Taher Muhammad,68832922
+info,registry,people,Tarun Sharma,f915844b
+info,registry,people,Waqar Khan,da21531c
+ball,1,0.1,Gibraltar,C Pyle,L Bruce,Merwais Shinwari,0,0,,,,,,"",""
+ball,1,0.2,Gibraltar,C Pyle,L Bruce,Merwais Shinwari,1,0,,,,,,"",""
+ball,1,0.3,Gibraltar,L Bruce,C Pyle,Merwais Shinwari,1,0,,,,,,"",""
+ball,1,0.4,Gibraltar,C Pyle,L Bruce,Merwais Shinwari,0,0,,,,,,run out,C Pyle
+ball,1,0.5,Gibraltar,L Bruce,PA Raikes,Merwais Shinwari,1,0,,,,,,"",""
+ball,1,0.6,Gibraltar,PA Raikes,L Bruce,Merwais Shinwari,0,0,,,,,,"",""
+ball,1,1.1,Gibraltar,L Bruce,PA Raikes,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,1.2,Gibraltar,PA Raikes,L Bruce,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,1.3,Gibraltar,L Bruce,PA Raikes,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,1.4,Gibraltar,L Bruce,PA Raikes,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,1.5,Gibraltar,L Bruce,PA Raikes,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,1.6,Gibraltar,L Bruce,PA Raikes,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,2.1,Gibraltar,PA Raikes,L Bruce,Merwais Shinwari,0,1,1,,,,,"",""
+ball,1,2.2,Gibraltar,PA Raikes,L Bruce,Merwais Shinwari,0,0,,,,,,"",""
+ball,1,2.3,Gibraltar,PA Raikes,L Bruce,Merwais Shinwari,0,0,,,,,,caught,PA Raikes
+ball,1,2.4,Gibraltar,KJ Stagno,L Bruce,Merwais Shinwari,1,0,,,,,,"",""
+ball,1,2.5,Gibraltar,L Bruce,KJ Stagno,Merwais Shinwari,4,0,,,,,,"",""
+ball,1,2.6,Gibraltar,L Bruce,KJ Stagno,Merwais Shinwari,0,0,,,,,,"",""
+ball,1,2.7,Gibraltar,L Bruce,KJ Stagno,Merwais Shinwari,1,0,,,,,,"",""
+ball,1,3.1,Gibraltar,L Bruce,KJ Stagno,Muhammad Siddiqui,4,0,,,,,,"",""
+ball,1,3.2,Gibraltar,L Bruce,KJ Stagno,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,3.3,Gibraltar,KJ Stagno,L Bruce,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,3.4,Gibraltar,L Bruce,KJ Stagno,Muhammad Siddiqui,2,0,,,,,,"",""
+ball,1,3.5,Gibraltar,L Bruce,KJ Stagno,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,3.6,Gibraltar,L Bruce,KJ Stagno,Muhammad Siddiqui,4,0,,,,,,"",""
+ball,1,4.1,Gibraltar,KJ Stagno,L Bruce,Saeed Waqar Ali,0,0,,,,,,"",""
+ball,1,4.2,Gibraltar,KJ Stagno,L Bruce,Saeed Waqar Ali,0,0,,,,,,"",""
+ball,1,4.3,Gibraltar,KJ Stagno,L Bruce,Saeed Waqar Ali,1,0,,,,,,"",""
+ball,1,4.4,Gibraltar,L Bruce,KJ Stagno,Saeed Waqar Ali,4,0,,,,,,"",""
+ball,1,4.5,Gibraltar,L Bruce,KJ Stagno,Saeed Waqar Ali,1,0,,,,,,"",""
+ball,1,4.6,Gibraltar,KJ Stagno,L Bruce,Saeed Waqar Ali,0,0,,,,,,caught,KJ Stagno
+ball,1,5.1,Gibraltar,L Bruce,IDM Latin,Izaz Ali,0,0,,,,,,"",""
+ball,1,5.2,Gibraltar,L Bruce,IDM Latin,Izaz Ali,4,0,,,,,,"",""
+ball,1,5.3,Gibraltar,L Bruce,IDM Latin,Izaz Ali,0,0,,,,,,caught,L Bruce
+ball,1,5.4,Gibraltar,BA Pai,IDM Latin,Izaz Ali,0,0,,,,,,"",""
+ball,1,5.5,Gibraltar,BA Pai,IDM Latin,Izaz Ali,0,0,,,,,,"",""
+ball,1,5.6,Gibraltar,BA Pai,IDM Latin,Izaz Ali,0,0,,,,,,"",""
+ball,1,6.1,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,0,0,,,,,,"",""
+ball,1,6.2,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,1,0,,,,,,"",""
+ball,1,6.3,Gibraltar,BA Pai,IDM Latin,Saeed Waqar Ali,1,0,,,,,,"",""
+ball,1,6.4,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,0,0,,,,,,"",""
+ball,1,6.5,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,4,0,,,,,,"",""
+ball,1,6.6,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,4,0,,,,,,"",""
+ball,1,7.1,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,0,0,,,,,,"",""
+ball,1,7.2,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,0,0,,,,,,"",""
+ball,1,7.3,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,1,0,,,,,,"",""
+ball,1,7.4,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,1,0,,,,,,"",""
+ball,1,7.5,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,1,0,,,,,,"",""
+ball,1,7.6,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,1,0,,,,,,"",""
+ball,1,8.1,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,0,0,,,,,,"",""
+ball,1,8.2,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,2,0,,,,,,"",""
+ball,1,8.3,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,0,0,,,,,,"",""
+ball,1,8.4,Gibraltar,IDM Latin,BA Pai,Saeed Waqar Ali,1,0,,,,,,"",""
+ball,1,8.5,Gibraltar,BA Pai,IDM Latin,Saeed Waqar Ali,0,0,,,,,,"",""
+ball,1,8.6,Gibraltar,BA Pai,IDM Latin,Saeed Waqar Ali,1,0,,,,,,"",""
+ball,1,9.1,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,1,0,,,,,,"",""
+ball,1,9.2,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,0,0,,,,,,"",""
+ball,1,9.3,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,1,0,,,,,,"",""
+ball,1,9.4,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,0,0,,,,,,"",""
+ball,1,9.5,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,2,0,,,,,,"",""
+ball,1,9.6,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,0,0,,,,,,"",""
+ball,1,10.1,Gibraltar,IDM Latin,BA Pai,DK Pallekonda,1,0,,,,,,"",""
+ball,1,10.2,Gibraltar,BA Pai,IDM Latin,DK Pallekonda,1,0,,,,,,"",""
+ball,1,10.3,Gibraltar,IDM Latin,BA Pai,DK Pallekonda,1,0,,,,,,"",""
+ball,1,10.4,Gibraltar,BA Pai,IDM Latin,DK Pallekonda,4,0,,,,,,"",""
+ball,1,10.5,Gibraltar,BA Pai,IDM Latin,DK Pallekonda,4,0,,,,,,"",""
+ball,1,10.6,Gibraltar,BA Pai,IDM Latin,DK Pallekonda,4,0,,,,,,"",""
+ball,1,11.1,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,1,0,,,,,,"",""
+ball,1,11.2,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,0,0,,,,,,"",""
+ball,1,11.3,Gibraltar,BA Pai,IDM Latin,Taher Muhammad,1,0,,,,,,"",""
+ball,1,11.4,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,6,0,,,,,,"",""
+ball,1,11.5,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,0,0,,,,,,"",""
+ball,1,11.6,Gibraltar,IDM Latin,BA Pai,Taher Muhammad,1,0,,,,,,"",""
+ball,1,12.1,Gibraltar,IDM Latin,BA Pai,S Koppolu,1,0,,,,,,"",""
+ball,1,12.2,Gibraltar,BA Pai,IDM Latin,S Koppolu,2,0,,,,,,"",""
+ball,1,12.3,Gibraltar,BA Pai,IDM Latin,S Koppolu,1,0,,,,,,"",""
+ball,1,12.4,Gibraltar,IDM Latin,BA Pai,S Koppolu,4,0,,,,,,"",""
+ball,1,12.5,Gibraltar,IDM Latin,BA Pai,S Koppolu,0,0,,,,,,caught,IDM Latin
+ball,1,12.6,Gibraltar,M Raikes,BA Pai,S Koppolu,0,0,,,,,,"",""
+ball,1,13.1,Gibraltar,BA Pai,M Raikes,Taher Muhammad,2,0,,,,,,"",""
+ball,1,13.2,Gibraltar,BA Pai,M Raikes,Taher Muhammad,0,0,,,,,,"",""
+ball,1,13.3,Gibraltar,BA Pai,M Raikes,Taher Muhammad,1,0,,,,,,"",""
+ball,1,13.4,Gibraltar,M Raikes,BA Pai,Taher Muhammad,1,0,,,,,,"",""
+ball,1,13.5,Gibraltar,BA Pai,M Raikes,Taher Muhammad,2,0,,,,,,"",""
+ball,1,13.6,Gibraltar,BA Pai,M Raikes,Taher Muhammad,0,2,,,2,,,"",""
+ball,1,14.1,Gibraltar,M Raikes,BA Pai,S Koppolu,1,0,,,,,,"",""
+ball,1,14.2,Gibraltar,BA Pai,M Raikes,S Koppolu,1,0,,,,,,"",""
+ball,1,14.3,Gibraltar,M Raikes,BA Pai,S Koppolu,1,0,,,,,,"",""
+ball,1,14.4,Gibraltar,BA Pai,M Raikes,S Koppolu,1,0,,,,,,"",""
+ball,1,14.5,Gibraltar,M Raikes,BA Pai,S Koppolu,1,0,,,,,,"",""
+ball,1,14.6,Gibraltar,BA Pai,M Raikes,S Koppolu,0,0,,,,,,caught,BA Pai
+ball,1,15.1,Gibraltar,M Raikes,JA Fitzgerald,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,15.2,Gibraltar,M Raikes,JA Fitzgerald,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,15.3,Gibraltar,M Raikes,JA Fitzgerald,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,15.4,Gibraltar,JA Fitzgerald,M Raikes,Muhammad Siddiqui,0,0,,,,,,bowled,JA Fitzgerald
+ball,1,15.5,Gibraltar,J Horrocks,M Raikes,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,15.6,Gibraltar,M Raikes,J Horrocks,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,16.1,Gibraltar,M Raikes,J Horrocks,S Koppolu,1,0,,,,,,"",""
+ball,1,16.2,Gibraltar,J Horrocks,M Raikes,S Koppolu,1,0,,,,,,"",""
+ball,1,16.3,Gibraltar,M Raikes,J Horrocks,S Koppolu,3,0,,,,,,"",""
+ball,1,16.4,Gibraltar,J Horrocks,M Raikes,S Koppolu,0,0,,,,,,"",""
+ball,1,16.5,Gibraltar,J Horrocks,M Raikes,S Koppolu,1,0,,,,,,"",""
+ball,1,16.6,Gibraltar,M Raikes,J Horrocks,S Koppolu,1,0,,,,,,"",""
+ball,1,17.1,Gibraltar,M Raikes,J Horrocks,Muhammad Siddiqui,4,0,,,,,,"",""
+ball,1,17.2,Gibraltar,M Raikes,J Horrocks,Muhammad Siddiqui,1,0,,,,,,"",""
+ball,1,17.3,Gibraltar,J Horrocks,M Raikes,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,17.4,Gibraltar,J Horrocks,M Raikes,Muhammad Siddiqui,0,0,,,,,,"",""
+ball,1,17.5,Gibraltar,J Horrocks,M Raikes,Muhammad Siddiqui,2,0,,,,,,"",""
+ball,1,17.6,Gibraltar,J Horrocks,M Raikes,Muhammad Siddiqui,2,0,,,,,,"",""
+ball,1,18.1,Gibraltar,M Raikes,J Horrocks,Merwais Shinwari,2,0,,,,,,"",""
+ball,1,18.2,Gibraltar,M Raikes,J Horrocks,Merwais Shinwari,0,0,,,,,,"",""
+ball,1,18.3,Gibraltar,M Raikes,J Horrocks,Merwais Shinwari,1,0,,,,,,"",""
+ball,1,18.4,Gibraltar,J Horrocks,M Raikes,Merwais Shinwari,2,0,,,,,,"",""
+ball,1,18.5,Gibraltar,J Horrocks,M Raikes,Merwais Shinwari,2,0,,,,,,"",""
+ball,1,18.6,Gibraltar,J Horrocks,M Raikes,Merwais Shinwari,0,0,,,,,,caught,J Horrocks
+ball,1,19.1,Gibraltar,M Raikes,S Bodha,Izaz Ali,0,1,1,,,,,"",""
+ball,1,19.2,Gibraltar,M Raikes,S Bodha,Izaz Ali,2,0,,,,,,"",""
+ball,1,19.3,Gibraltar,M Raikes,S Bodha,Izaz Ali,2,0,,,,,,"",""
+ball,1,19.4,Gibraltar,M Raikes,S Bodha,Izaz Ali,2,0,,,,,,"",""
+ball,1,19.5,Gibraltar,M Raikes,S Bodha,Izaz Ali,0,0,,,,,,caught,M Raikes
+ball,1,19.6,Gibraltar,K Mirpuri,S Bodha,Izaz Ali,0,1,1,,,,,"",""
+ball,1,19.7,Gibraltar,K Mirpuri,S Bodha,Izaz Ali,0,0,,,,,,"",""
+ball,1,19.8,Gibraltar,K Mirpuri,S Bodha,Izaz Ali,1,0,,,,,,"",""
+ball,2,0.1,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,0,0,,,,,,"",""
+ball,2,0.2,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,0,0,,,,,,"",""
+ball,2,0.3,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,4,0,,,,,,"",""
+ball,2,0.4,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,2,0,,,,,,"",""
+ball,2,0.5,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,0,2,2,,,,,"",""
+ball,2,0.6,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,S Bodha,0,0,,,,,,"",""
+ball,2,0.7,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,S Bodha,0,0,,,,,,"",""
+ball,2,1.1,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,1.2,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,2,0,,,,,,"",""
+ball,2,1.3,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,1.4,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,4,0,,,,,,"",""
+ball,2,1.5,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,1.6,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,2.1,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,S Bodha,1,0,,,,,,"",""
+ball,2,2.2,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,0,0,,,,,,"",""
+ball,2,2.3,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,0,0,,,,,,"",""
+ball,2,2.4,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,S Bodha,1,0,,,,,,"",""
+ball,2,2.5,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,S Bodha,0,0,,,,,,"",""
+ball,2,2.6,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,S Bodha,0,0,,,,,,"",""
+ball,2,3.1,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,1,0,,,,,,"",""
+ball,2,3.2,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,BA Pai,1,0,,,,,,"",""
+ball,2,3.3,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,4,0,,,,,,"",""
+ball,2,3.4,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,3.5,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,3.6,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,4.1,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,L Bruce,0,1,1,,,,,"",""
+ball,2,4.2,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,L Bruce,1,0,,,,,,"",""
+ball,2,4.3,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,L Bruce,0,0,,,,,,"",""
+ball,2,4.4,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,L Bruce,1,0,,,,,,"",""
+ball,2,4.5,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,L Bruce,2,0,,,,,,"",""
+ball,2,4.6,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,L Bruce,0,0,,,,,,"",""
+ball,2,4.7,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,L Bruce,0,2,2,,,,,"",""
+ball,2,4.8,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,L Bruce,1,0,,,,,,"",""
+ball,2,5.1,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,K Mirpuri,2,0,,,,,,"",""
+ball,2,5.2,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,K Mirpuri,1,0,,,,,,"",""
+ball,2,5.3,Slovenia,Rasheed Ali Mamadkhel,Muhammad Siddiqui,K Mirpuri,1,0,,,,,,"",""
+ball,2,5.4,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,K Mirpuri,4,0,,,,,,"",""
+ball,2,5.5,Slovenia,Muhammad Siddiqui,Rasheed Ali Mamadkhel,K Mirpuri,0,0,,,,,,caught,Muhammad Siddiqui
+ball,2,5.6,Slovenia,Tarun Sharma,Rasheed Ali Mamadkhel,K Mirpuri,0,0,,,,,,caught,Tarun Sharma
+ball,2,6.1,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,BA Pai,0,0,,,,,,"",""
+ball,2,6.2,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,BA Pai,1,0,,,,,,"",""
+ball,2,6.3,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,6.4,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,BA Pai,2,0,,,,,,"",""
+ball,2,6.5,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,6.6,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,BA Pai,0,0,,,,,,"",""
+ball,2,7.1,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,K Mirpuri,0,1,1,,,,,"",""
+ball,2,7.2,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,K Mirpuri,1,0,,,,,,"",""
+ball,2,7.3,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,K Mirpuri,1,0,,,,,,"",""
+ball,2,7.4,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,K Mirpuri,1,0,,,,,,"",""
+ball,2,7.5,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,K Mirpuri,0,0,,,,,,"",""
+ball,2,7.6,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,K Mirpuri,0,0,,,,,,"",""
+ball,2,7.7,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,K Mirpuri,0,0,,,,,,"",""
+ball,2,8.1,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,J Horrocks,1,0,,,,,,"",""
+ball,2,8.2,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,J Horrocks,0,3,3,,,,,"",""
+ball,2,8.3,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,J Horrocks,0,0,,,,,,"",""
+ball,2,8.4,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,J Horrocks,0,1,,,1,,,"",""
+ball,2,8.5,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,J Horrocks,0,1,1,,,,,"",""
+ball,2,8.6,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,J Horrocks,1,0,,,,,,"",""
+ball,2,8.7,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,J Horrocks,0,0,,,,,,"",""
+ball,2,8.8,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,J Horrocks,0,0,,,,,,"",""
+ball,2,9.1,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.2,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.3,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,K Mirpuri,2,0,,,,,,"",""
+ball,2,9.4,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.5,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,K Mirpuri,4,0,,,,,,"",""
+ball,2,9.6,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,K Mirpuri,2,0,,,,,,"",""
+ball,2,10.1,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,M Raikes,0,0,,,,,,"",""
+ball,2,10.2,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,M Raikes,1,0,,,,,,"",""
+ball,2,10.3,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,M Raikes,0,0,,,,,,"",""
+ball,2,10.4,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,M Raikes,6,0,,,,,,"",""
+ball,2,10.5,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,M Raikes,0,0,,,,,,"",""
+ball,2,10.6,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,M Raikes,0,1,1,,,,,"",""
+ball,2,10.7,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,M Raikes,1,0,,,,,,"",""
+ball,2,11.1,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,J Horrocks,1,0,,,,,,"",""
+ball,2,11.2,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,J Horrocks,1,0,,,,,,"",""
+ball,2,11.3,Slovenia,Shahid Arshad,Rasheed Ali Mamadkhel,J Horrocks,1,0,,,,,,"",""
+ball,2,11.4,Slovenia,Rasheed Ali Mamadkhel,Shahid Arshad,J Horrocks,0,0,,,,,,caught,Rasheed Ali Mamadkhel
+ball,2,11.5,Slovenia,Izaz Ali,Shahid Arshad,J Horrocks,0,0,,,,,,"",""
+ball,2,11.6,Slovenia,Izaz Ali,Shahid Arshad,J Horrocks,0,0,,,,,,"",""
+ball,2,12.1,Slovenia,Shahid Arshad,Izaz Ali,K Mirpuri,4,0,,,,,,"",""
+ball,2,12.2,Slovenia,Shahid Arshad,Izaz Ali,K Mirpuri,0,0,,,,,,caught,Shahid Arshad
+ball,2,12.3,Slovenia,Taher Muhammad,Izaz Ali,K Mirpuri,1,0,,,,,,"",""
+ball,2,12.4,Slovenia,Izaz Ali,Taher Muhammad,K Mirpuri,2,0,,,,,,"",""
+ball,2,12.5,Slovenia,Izaz Ali,Taher Muhammad,K Mirpuri,2,0,,,,,,"",""
+ball,2,12.6,Slovenia,Izaz Ali,Taher Muhammad,K Mirpuri,0,0,,,,,,"",""
+ball,2,13.1,Slovenia,Taher Muhammad,Izaz Ali,J Horrocks,0,0,,,,,,"",""
+ball,2,13.2,Slovenia,Taher Muhammad,Izaz Ali,J Horrocks,0,0,,,,,,caught,Taher Muhammad
+ball,2,13.3,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,0,0,,,,,,"",""
+ball,2,13.4,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,1,0,,,,,,"",""
+ball,2,13.5,Slovenia,Izaz Ali,Waqar Khan,J Horrocks,4,0,,,,,,"",""
+ball,2,13.6,Slovenia,Izaz Ali,Waqar Khan,J Horrocks,1,0,,,,,,"",""
+ball,2,14.1,Slovenia,Izaz Ali,Waqar Khan,BA Pai,2,0,,,,,,"",""
+ball,2,14.2,Slovenia,Izaz Ali,Waqar Khan,BA Pai,3,0,,,,,,"",""
+ball,2,14.3,Slovenia,Waqar Khan,Izaz Ali,BA Pai,0,0,,,,,,"",""
+ball,2,14.4,Slovenia,Waqar Khan,Izaz Ali,BA Pai,1,0,,,,,,"",""
+ball,2,14.5,Slovenia,Izaz Ali,Waqar Khan,BA Pai,2,0,,,,,,"",""
+ball,2,14.6,Slovenia,Izaz Ali,Waqar Khan,BA Pai,0,0,,,,,,"",""
+ball,2,15.1,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,0,0,,,,,,"",""
+ball,2,15.2,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,4,0,,,,,,"",""
+ball,2,15.3,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,4,0,,,,,,"",""
+ball,2,15.4,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,0,0,,,,,,"",""
+ball,2,15.5,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,0,1,1,,,,,"",""
+ball,2,15.6,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,0,0,,,,,,"",""
+ball,2,15.7,Slovenia,Waqar Khan,Izaz Ali,J Horrocks,0,0,,,,,,"",""
+ball,2,16.1,Slovenia,Izaz Ali,Waqar Khan,L Bruce,2,0,,,,,,"",""
+ball,2,16.2,Slovenia,Izaz Ali,Waqar Khan,L Bruce,0,0,,,,,,lbw,Izaz Ali
+ball,2,16.3,Slovenia,S Koppolu,Waqar Khan,L Bruce,1,0,,,,,,"",""
+ball,2,16.4,Slovenia,Waqar Khan,S Koppolu,L Bruce,0,0,,,,,,"",""
+ball,2,16.5,Slovenia,Waqar Khan,S Koppolu,L Bruce,2,0,,,,,,"",""
+ball,2,16.6,Slovenia,Waqar Khan,S Koppolu,L Bruce,1,0,,,,,,"",""
+ball,2,17.1,Slovenia,Waqar Khan,S Koppolu,S Bodha,0,0,,,,,,"",""
+ball,2,17.2,Slovenia,Waqar Khan,S Koppolu,S Bodha,6,0,,,,,,"",""
+ball,2,17.3,Slovenia,Waqar Khan,S Koppolu,S Bodha,1,0,,,,,,"",""
+ball,2,17.4,Slovenia,S Koppolu,Waqar Khan,S Bodha,0,0,,,,,,"",""
+ball,2,17.5,Slovenia,S Koppolu,Waqar Khan,S Bodha,0,0,,,,,,"",""
+ball,2,17.6,Slovenia,S Koppolu,Waqar Khan,S Bodha,4,0,,,,,,"",""
+ball,2,18.1,Slovenia,Waqar Khan,S Koppolu,L Bruce,0,0,,,,,,lbw,Waqar Khan
+ball,2,18.2,Slovenia,Saeed Waqar Ali,S Koppolu,L Bruce,1,0,,,,,,"",""
+ball,2,18.3,Slovenia,S Koppolu,Saeed Waqar Ali,L Bruce,0,1,1,,,,,"",""
+ball,2,18.4,Slovenia,S Koppolu,Saeed Waqar Ali,L Bruce,6,0,,,,,,"",""
+ball,2,18.5,Slovenia,S Koppolu,Saeed Waqar Ali,L Bruce,0,0,,,,,,lbw,S Koppolu
+ball,2,18.6,Slovenia,DK Pallekonda,Saeed Waqar Ali,L Bruce,1,0,,,,,,"",""
+ball,2,18.7,Slovenia,Saeed Waqar Ali,DK Pallekonda,L Bruce,1,0,,,,,,"",""
+ball,2,19.1,Slovenia,Saeed Waqar Ali,DK Pallekonda,S Bodha,1,0,,,,,,"",""
+ball,2,19.2,Slovenia,DK Pallekonda,Saeed Waqar Ali,S Bodha,0,0,,,,,,"",""
+ball,2,19.3,Slovenia,DK Pallekonda,Saeed Waqar Ali,S Bodha,1,0,,,,,,run out,DK Pallekonda
+ball,2,19.4,Slovenia,Merwais Shinwari,Saeed Waqar Ali,S Bodha,0,1,1,,,,,"",""

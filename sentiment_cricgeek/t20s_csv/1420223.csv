@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,India
+info,gender,male
+info,season,2024
+info,date,2024/07/06
+info,event,India tour of Zimbabwe
+info,match_number,1
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Sikandar Raza
+info,umpire,F Mutizwa
+info,umpire,I Chabi
+info,reserve_umpire,P Sizara
+info,tv_umpire,L Rusere
+info,match_referee,AJ Pycroft
+info,winner,Zimbabwe
+info,winner_runs,13
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,J Campbell
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,TL Chatara
+info,player,India,Abhishek Sharma
+info,player,India,Shubman Gill
+info,player,India,RD Gaikwad
+info,player,India,R Parag
+info,player,India,RK Singh
+info,player,India,Dhruv Jurel
+info,player,India,Washington Sundar
+info,player,India,Ravi Bishnoi
+info,player,India,Avesh Khan
+info,player,India,Mukesh Kumar
+info,player,India,KK Ahmed
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,B Mavuta,dadb9703
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,D Myers,d96165b5
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,J Campbell,0e63259d
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Parag,04a418e8
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,Zimbabwe,W Madhevere,I Kaia,KK Ahmed,4,0,,,,,,"",""
+ball,1,0.2,Zimbabwe,W Madhevere,I Kaia,KK Ahmed,0,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,W Madhevere,I Kaia,KK Ahmed,2,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,W Madhevere,I Kaia,KK Ahmed,0,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,W Madhevere,I Kaia,KK Ahmed,0,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,W Madhevere,I Kaia,KK Ahmed,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,I Kaia,W Madhevere,Mukesh Kumar,0,0,,,,,,bowled,I Kaia
+ball,1,1.2,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,4,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,4,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,W Madhevere,BJ Bennett,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,W Madhevere,BJ Bennett,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,W Madhevere,BJ Bennett,KK Ahmed,1,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,BJ Bennett,W Madhevere,KK Ahmed,4,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,BJ Bennett,W Madhevere,KK Ahmed,0,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,BJ Bennett,W Madhevere,KK Ahmed,0,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,W Madhevere,BJ Bennett,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,W Madhevere,BJ Bennett,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,W Madhevere,BJ Bennett,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,BJ Bennett,W Madhevere,Mukesh Kumar,0,1,,,,1,,"",""
+ball,1,4.1,Zimbabwe,BJ Bennett,W Madhevere,KK Ahmed,4,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,BJ Bennett,W Madhevere,KK Ahmed,4,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,BJ Bennett,W Madhevere,KK Ahmed,1,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,W Madhevere,BJ Bennett,KK Ahmed,0,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,W Madhevere,BJ Bennett,KK Ahmed,4,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,W Madhevere,BJ Bennett,KK Ahmed,4,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,BJ Bennett,W Madhevere,Ravi Bishnoi,0,0,,,,,,bowled,BJ Bennett
+ball,1,5.2,Zimbabwe,Sikandar Raza,W Madhevere,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,Sikandar Raza,W Madhevere,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,Sikandar Raza,W Madhevere,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,Sikandar Raza,W Madhevere,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,Sikandar Raza,W Madhevere,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,W Madhevere,Sikandar Raza,Abhishek Sharma,1,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,Sikandar Raza,W Madhevere,Abhishek Sharma,2,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,Sikandar Raza,W Madhevere,Abhishek Sharma,0,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,Sikandar Raza,W Madhevere,Abhishek Sharma,4,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,Sikandar Raza,W Madhevere,Abhishek Sharma,1,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,W Madhevere,Sikandar Raza,Abhishek Sharma,1,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,W Madhevere,Sikandar Raza,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,W Madhevere,Sikandar Raza,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,W Madhevere,Sikandar Raza,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,W Madhevere,Sikandar Raza,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,W Madhevere,Sikandar Raza,Ravi Bishnoi,0,0,,,,,,bowled,W Madhevere
+ball,1,7.6,Zimbabwe,D Myers,Sikandar Raza,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,D Myers,Sikandar Raza,Abhishek Sharma,4,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,D Myers,Sikandar Raza,Abhishek Sharma,1,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,Sikandar Raza,D Myers,Abhishek Sharma,1,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,D Myers,Sikandar Raza,Abhishek Sharma,0,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,D Myers,Sikandar Raza,Abhishek Sharma,0,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,D Myers,Sikandar Raza,Abhishek Sharma,2,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,0,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,6,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,1,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,D Myers,Sikandar Raza,Avesh Khan,1,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,1,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,D Myers,Sikandar Raza,Avesh Khan,0,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,Sikandar Raza,D Myers,Washington Sundar,1,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,D Myers,Sikandar Raza,Washington Sundar,0,0,,,,,,"",""
+ball,1,10.3,Zimbabwe,D Myers,Sikandar Raza,Washington Sundar,0,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,D Myers,Sikandar Raza,Washington Sundar,2,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,D Myers,Sikandar Raza,Washington Sundar,0,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,D Myers,Sikandar Raza,Washington Sundar,1,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,D Myers,Sikandar Raza,Avesh Khan,1,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,0,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,0,0,,,,,,"",""
+ball,1,11.4,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,0,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,Sikandar Raza,D Myers,Avesh Khan,0,0,,,,,,caught,Sikandar Raza
+ball,1,11.6,Zimbabwe,J Campbell,D Myers,Avesh Khan,0,0,,,,,,run out,J Campbell
+ball,1,12.1,Zimbabwe,D Myers,C Madande,Washington Sundar,1,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,C Madande,D Myers,Washington Sundar,0,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,C Madande,D Myers,Washington Sundar,1,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,D Myers,C Madande,Washington Sundar,0,0,,,,,,"",""
+ball,1,12.5,Zimbabwe,D Myers,C Madande,Washington Sundar,1,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,C Madande,D Myers,Washington Sundar,0,0,,,,,,"",""
+ball,1,13.1,Zimbabwe,D Myers,C Madande,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,D Myers,C Madande,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,13.3,Zimbabwe,D Myers,C Madande,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,13.4,Zimbabwe,C Madande,D Myers,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,13.5,Zimbabwe,D Myers,C Madande,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,13.6,Zimbabwe,C Madande,D Myers,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,13.7,Zimbabwe,C Madande,D Myers,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,14.1,Zimbabwe,D Myers,C Madande,Washington Sundar,2,0,,,,,,"",""
+ball,1,14.2,Zimbabwe,D Myers,C Madande,Washington Sundar,0,0,,,,,,caught and bowled,D Myers
+ball,1,14.3,Zimbabwe,WP Masakadza,C Madande,Washington Sundar,0,0,,,,,,stumped,WP Masakadza
+ball,1,14.4,Zimbabwe,LM Jongwe,C Madande,Washington Sundar,0,0,,,,,,"",""
+ball,1,14.5,Zimbabwe,LM Jongwe,C Madande,Washington Sundar,1,0,,,,,,"",""
+ball,1,14.6,Zimbabwe,C Madande,LM Jongwe,Washington Sundar,0,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,LM Jongwe,C Madande,Ravi Bishnoi,0,0,,,,,,lbw,LM Jongwe
+ball,1,15.2,Zimbabwe,B Muzarabani,C Madande,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,B Muzarabani,C Madande,Ravi Bishnoi,0,0,,,,,,bowled,B Muzarabani
+ball,1,15.4,Zimbabwe,TL Chatara,C Madande,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,TL Chatara,C Madande,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,TL Chatara,C Madande,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,16.1,Zimbabwe,C Madande,TL Chatara,Washington Sundar,1,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,TL Chatara,C Madande,Washington Sundar,0,0,,,,,,"",""
+ball,1,16.3,Zimbabwe,TL Chatara,C Madande,Washington Sundar,0,0,,,,,,"",""
+ball,1,16.4,Zimbabwe,TL Chatara,C Madande,Washington Sundar,0,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,TL Chatara,C Madande,Washington Sundar,0,0,,,,,,"",""
+ball,1,16.6,Zimbabwe,TL Chatara,C Madande,Washington Sundar,0,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,C Madande,TL Chatara,Avesh Khan,0,0,,,,,,"",""
+ball,1,17.2,Zimbabwe,C Madande,TL Chatara,Avesh Khan,0,0,,,,,,"",""
+ball,1,17.3,Zimbabwe,C Madande,TL Chatara,Avesh Khan,4,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,C Madande,TL Chatara,Avesh Khan,2,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,C Madande,TL Chatara,Avesh Khan,0,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,C Madande,TL Chatara,Avesh Khan,1,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,C Madande,TL Chatara,Mukesh Kumar,2,0,,,,,,"",""
+ball,1,18.2,Zimbabwe,C Madande,TL Chatara,Mukesh Kumar,2,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,C Madande,TL Chatara,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,18.4,Zimbabwe,C Madande,TL Chatara,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,C Madande,TL Chatara,Mukesh Kumar,1,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,TL Chatara,C Madande,Mukesh Kumar,0,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,C Madande,TL Chatara,Avesh Khan,4,0,,,,,,"",""
+ball,1,19.2,Zimbabwe,C Madande,TL Chatara,Avesh Khan,0,0,,,,,,"",""
+ball,1,19.3,Zimbabwe,C Madande,TL Chatara,Avesh Khan,0,0,,,,,,"",""
+ball,1,19.4,Zimbabwe,C Madande,TL Chatara,Avesh Khan,4,0,,,,,,"",""
+ball,1,19.5,Zimbabwe,C Madande,TL Chatara,Avesh Khan,0,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,C Madande,TL Chatara,Avesh Khan,4,0,,,,,,"",""
+ball,2,0.1,India,Abhishek Sharma,Shubman Gill,BJ Bennett,0,0,,,,,,"",""
+ball,2,0.2,India,Abhishek Sharma,Shubman Gill,BJ Bennett,0,0,,,,,,"",""
+ball,2,0.3,India,Abhishek Sharma,Shubman Gill,BJ Bennett,0,0,,,,,,"",""
+ball,2,0.4,India,Abhishek Sharma,Shubman Gill,BJ Bennett,0,0,,,,,,caught,Abhishek Sharma
+ball,2,0.5,India,RD Gaikwad,Shubman Gill,BJ Bennett,0,0,,,,,,"",""
+ball,2,0.6,India,RD Gaikwad,Shubman Gill,BJ Bennett,0,0,,,,,,"",""
+ball,2,1.1,India,Shubman Gill,RD Gaikwad,WP Masakadza,0,0,,,,,,"",""
+ball,2,1.2,India,Shubman Gill,RD Gaikwad,WP Masakadza,0,0,,,,,,"",""
+ball,2,1.3,India,Shubman Gill,RD Gaikwad,WP Masakadza,0,0,,,,,,"",""
+ball,2,1.4,India,Shubman Gill,RD Gaikwad,WP Masakadza,0,0,,,,,,"",""
+ball,2,1.5,India,Shubman Gill,RD Gaikwad,WP Masakadza,4,0,,,,,,"",""
+ball,2,1.6,India,Shubman Gill,RD Gaikwad,WP Masakadza,0,0,,,,,,"",""
+ball,2,2.1,India,RD Gaikwad,Shubman Gill,TL Chatara,2,0,,,,,,"",""
+ball,2,2.2,India,RD Gaikwad,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,2.3,India,RD Gaikwad,Shubman Gill,TL Chatara,1,0,,,,,,"",""
+ball,2,2.4,India,Shubman Gill,RD Gaikwad,TL Chatara,1,0,,,,,,"",""
+ball,2,2.5,India,RD Gaikwad,Shubman Gill,TL Chatara,4,0,,,,,,"",""
+ball,2,2.6,India,RD Gaikwad,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,3.1,India,Shubman Gill,RD Gaikwad,B Muzarabani,3,0,,,,,,"",""
+ball,2,3.2,India,RD Gaikwad,Shubman Gill,B Muzarabani,0,0,,,,,,"",""
+ball,2,3.3,India,RD Gaikwad,Shubman Gill,B Muzarabani,0,0,,,,,,caught,RD Gaikwad
+ball,2,3.4,India,R Parag,Shubman Gill,B Muzarabani,1,0,,,,,,"",""
+ball,2,3.5,India,Shubman Gill,R Parag,B Muzarabani,0,0,,,,,,"",""
+ball,2,3.6,India,Shubman Gill,R Parag,B Muzarabani,0,0,,,,,,"",""
+ball,2,4.1,India,R Parag,Shubman Gill,TL Chatara,1,0,,,,,,"",""
+ball,2,4.2,India,Shubman Gill,R Parag,TL Chatara,4,0,,,,,,"",""
+ball,2,4.3,India,Shubman Gill,R Parag,TL Chatara,1,0,,,,,,"",""
+ball,2,4.4,India,R Parag,Shubman Gill,TL Chatara,0,0,,,,,,caught,R Parag
+ball,2,4.5,India,RK Singh,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,4.6,India,RK Singh,Shubman Gill,TL Chatara,0,0,,,,,,caught,RK Singh
+ball,2,5.1,India,Shubman Gill,Dhruv Jurel,B Muzarabani,0,0,,,,,,"",""
+ball,2,5.2,India,Shubman Gill,Dhruv Jurel,B Muzarabani,0,0,,,,,,"",""
+ball,2,5.3,India,Shubman Gill,Dhruv Jurel,B Muzarabani,0,0,,,,,,"",""
+ball,2,5.4,India,Shubman Gill,Dhruv Jurel,B Muzarabani,2,0,,,,,,"",""
+ball,2,5.5,India,Shubman Gill,Dhruv Jurel,B Muzarabani,4,0,,,,,,"",""
+ball,2,5.6,India,Shubman Gill,Dhruv Jurel,B Muzarabani,0,0,,,,,,"",""
+ball,2,6.1,India,Dhruv Jurel,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,6.2,India,Dhruv Jurel,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,6.3,India,Dhruv Jurel,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,6.4,India,Dhruv Jurel,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,6.5,India,Dhruv Jurel,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,6.6,India,Dhruv Jurel,Shubman Gill,TL Chatara,0,0,,,,,,"",""
+ball,2,7.1,India,Shubman Gill,Dhruv Jurel,B Muzarabani,1,0,,,,,,"",""
+ball,2,7.2,India,Dhruv Jurel,Shubman Gill,B Muzarabani,0,1,,,,1,,"",""
+ball,2,7.3,India,Shubman Gill,Dhruv Jurel,B Muzarabani,4,0,,,,,,"",""
+ball,2,7.4,India,Shubman Gill,Dhruv Jurel,B Muzarabani,0,0,,,,,,"",""
+ball,2,7.5,India,Shubman Gill,Dhruv Jurel,B Muzarabani,0,0,,,,,,"",""
+ball,2,7.6,India,Shubman Gill,Dhruv Jurel,B Muzarabani,0,0,,,,,,"",""
+ball,2,8.1,India,Dhruv Jurel,Shubman Gill,WP Masakadza,1,0,,,,,,"",""
+ball,2,8.2,India,Shubman Gill,Dhruv Jurel,WP Masakadza,0,0,,,,,,"",""
+ball,2,8.3,India,Shubman Gill,Dhruv Jurel,WP Masakadza,1,0,,,,,,"",""
+ball,2,8.4,India,Dhruv Jurel,Shubman Gill,WP Masakadza,0,0,,,,,,"",""
+ball,2,8.5,India,Dhruv Jurel,Shubman Gill,WP Masakadza,0,0,,,,,,"",""
+ball,2,8.6,India,Dhruv Jurel,Shubman Gill,WP Masakadza,0,0,,,,,,"",""
+ball,2,9.1,India,Shubman Gill,Dhruv Jurel,LM Jongwe,1,0,,,,,,"",""
+ball,2,9.2,India,Dhruv Jurel,Shubman Gill,LM Jongwe,1,0,,,,,,"",""
+ball,2,9.3,India,Shubman Gill,Dhruv Jurel,LM Jongwe,1,0,,,,,,"",""
+ball,2,9.4,India,Dhruv Jurel,Shubman Gill,LM Jongwe,4,0,,,,,,"",""
+ball,2,9.5,India,Dhruv Jurel,Shubman Gill,LM Jongwe,0,0,,,,,,caught,Dhruv Jurel
+ball,2,9.6,India,Washington Sundar,Shubman Gill,LM Jongwe,0,0,,,,,,"",""
+ball,2,10.1,India,Shubman Gill,Washington Sundar,Sikandar Raza,4,0,,,,,,"",""
+ball,2,10.2,India,Shubman Gill,Washington Sundar,Sikandar Raza,0,0,,,,,,bowled,Shubman Gill
+ball,2,10.3,India,Ravi Bishnoi,Washington Sundar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,10.4,India,Ravi Bishnoi,Washington Sundar,Sikandar Raza,4,0,,,,,,"",""
+ball,2,10.5,India,Ravi Bishnoi,Washington Sundar,Sikandar Raza,1,0,,,,,,"",""
+ball,2,10.6,India,Washington Sundar,Ravi Bishnoi,Sikandar Raza,1,0,,,,,,"",""
+ball,2,11.1,India,Washington Sundar,Ravi Bishnoi,LM Jongwe,0,0,,,,,,"",""
+ball,2,11.2,India,Washington Sundar,Ravi Bishnoi,LM Jongwe,0,0,,,,,,"",""
+ball,2,11.3,India,Washington Sundar,Ravi Bishnoi,LM Jongwe,0,0,,,,,,"",""
+ball,2,11.4,India,Washington Sundar,Ravi Bishnoi,LM Jongwe,0,0,,,,,,"",""
+ball,2,11.5,India,Washington Sundar,Ravi Bishnoi,LM Jongwe,1,0,,,,,,"",""
+ball,2,11.6,India,Ravi Bishnoi,Washington Sundar,LM Jongwe,0,0,,,,,,"",""
+ball,2,12.1,India,Washington Sundar,Ravi Bishnoi,Sikandar Raza,3,0,,,,,,"",""
+ball,2,12.2,India,Ravi Bishnoi,Washington Sundar,Sikandar Raza,4,0,,,,,,"",""
+ball,2,12.3,India,Ravi Bishnoi,Washington Sundar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,12.4,India,Ravi Bishnoi,Washington Sundar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,12.5,India,Ravi Bishnoi,Washington Sundar,Sikandar Raza,0,0,,,,,,lbw,Ravi Bishnoi
+ball,2,12.6,India,Avesh Khan,Washington Sundar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,13.1,India,Washington Sundar,Avesh Khan,LM Jongwe,1,0,,,,,,"",""
+ball,2,13.2,India,Avesh Khan,Washington Sundar,LM Jongwe,0,0,,,,,,"",""
+ball,2,13.3,India,Avesh Khan,Washington Sundar,LM Jongwe,1,0,,,,,,"",""
+ball,2,13.4,India,Washington Sundar,Avesh Khan,LM Jongwe,1,0,,,,,,"",""
+ball,2,13.5,India,Avesh Khan,Washington Sundar,LM Jongwe,4,0,,,,,,"",""
+ball,2,13.6,India,Avesh Khan,Washington Sundar,LM Jongwe,1,0,,,,,,"",""
+ball,2,14.1,India,Avesh Khan,Washington Sundar,Sikandar Raza,1,0,,,,,,"",""
+ball,2,14.2,India,Washington Sundar,Avesh Khan,Sikandar Raza,2,0,,,,,,"",""
+ball,2,14.3,India,Washington Sundar,Avesh Khan,Sikandar Raza,1,0,,,,,,"",""
+ball,2,14.4,India,Avesh Khan,Washington Sundar,Sikandar Raza,1,0,,,,,,"",""
+ball,2,14.5,India,Washington Sundar,Avesh Khan,Sikandar Raza,1,0,,,,,,"",""
+ball,2,14.6,India,Avesh Khan,Washington Sundar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,15.1,India,Washington Sundar,Avesh Khan,WP Masakadza,1,0,,,,,,"",""
+ball,2,15.2,India,Avesh Khan,Washington Sundar,WP Masakadza,4,0,,,,,,"",""
+ball,2,15.3,India,Avesh Khan,Washington Sundar,WP Masakadza,4,0,,,,,,"",""
+ball,2,15.4,India,Avesh Khan,Washington Sundar,WP Masakadza,0,0,,,,,,"",""
+ball,2,15.5,India,Avesh Khan,Washington Sundar,WP Masakadza,0,0,,,,,,caught,Avesh Khan
+ball,2,15.6,India,Mukesh Kumar,Washington Sundar,WP Masakadza,0,0,,,,,,"",""
+ball,2,16.1,India,Washington Sundar,Mukesh Kumar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,16.2,India,Washington Sundar,Mukesh Kumar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,16.3,India,Washington Sundar,Mukesh Kumar,Sikandar Raza,0,1,1,,,,,"",""
+ball,2,16.4,India,Washington Sundar,Mukesh Kumar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,16.5,India,Washington Sundar,Mukesh Kumar,Sikandar Raza,1,0,,,,,,"",""
+ball,2,16.6,India,Mukesh Kumar,Washington Sundar,Sikandar Raza,0,0,,,,,,"",""
+ball,2,16.7,India,Mukesh Kumar,Washington Sundar,Sikandar Raza,0,0,,,,,,bowled,Mukesh Kumar
+ball,2,17.1,India,Washington Sundar,KK Ahmed,LM Jongwe,0,0,,,,,,"",""
+ball,2,17.2,India,Washington Sundar,KK Ahmed,LM Jongwe,0,0,,,,,,"",""
+ball,2,17.3,India,Washington Sundar,KK Ahmed,LM Jongwe,0,0,,,,,,"",""
+ball,2,17.4,India,Washington Sundar,KK Ahmed,LM Jongwe,6,0,,,,,,"",""
+ball,2,17.5,India,Washington Sundar,KK Ahmed,LM Jongwe,0,1,1,,,,,"",""
+ball,2,17.6,India,Washington Sundar,KK Ahmed,LM Jongwe,4,0,,,,,,"",""
+ball,2,17.7,India,Washington Sundar,KK Ahmed,LM Jongwe,1,0,,,,,,"",""
+ball,2,18.1,India,Washington Sundar,KK Ahmed,B Muzarabani,0,0,,,,,,"",""
+ball,2,18.2,India,Washington Sundar,KK Ahmed,B Muzarabani,0,1,1,,,,,"",""
+ball,2,18.3,India,Washington Sundar,KK Ahmed,B Muzarabani,0,0,,,,,,"",""
+ball,2,18.4,India,Washington Sundar,KK Ahmed,B Muzarabani,0,0,,,,,,"",""
+ball,2,18.5,India,Washington Sundar,KK Ahmed,B Muzarabani,0,0,,,,,,"",""
+ball,2,18.6,India,Washington Sundar,KK Ahmed,B Muzarabani,1,0,,,,,,"",""
+ball,2,18.7,India,KK Ahmed,Washington Sundar,B Muzarabani,0,0,,,,,,"",""
+ball,2,19.1,India,Washington Sundar,KK Ahmed,TL Chatara,0,0,,,,,,"",""
+ball,2,19.2,India,Washington Sundar,KK Ahmed,TL Chatara,2,0,,,,,,"",""
+ball,2,19.3,India,Washington Sundar,KK Ahmed,TL Chatara,0,0,,,,,,"",""
+ball,2,19.4,India,Washington Sundar,KK Ahmed,TL Chatara,0,0,,,,,,"",""
+ball,2,19.5,India,Washington Sundar,KK Ahmed,TL Chatara,0,0,,,,,,caught,Washington Sundar

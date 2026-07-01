@@ -1,0 +1,273 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Denmark
+info,gender,male
+info,season,2023
+info,date,2023/05/19
+info,event,Nordic T20 Cup
+info,match_number,6
+info,venue,"Svanholm Park, Brondby"
+info,city,Brondby
+info,toss_winner,Finland
+info,toss_decision,bat
+info,player_of_match,HAM Shah
+info,umpire,AK Saini
+info,umpire,Fareedoon Bhatti
+info,winner,Denmark
+info,winner_wickets,8
+info,player,Finland,NG Collins
+info,player,Finland,Jordan O'Brien
+info,player,Finland,AK Mohan
+info,player,Finland,VS Padhaal
+info,player,Finland,Atif Rasheed
+info,player,Finland,Amjad Sher
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,PF Gallagher
+info,player,Finland,MB Tambe
+info,player,Finland,Akhil Arjunan
+info,player,Finland,Raaz Mohammad
+info,player,Denmark,Rizwan Mahmood
+info,player,Denmark,HAM Shah
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Lucky Ali
+info,player,Denmark,Saran Aslam
+info,player,Denmark,M Kristensen
+info,player,Denmark,Anique Uddin
+info,player,Denmark,OD Hald
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,Saud Munir
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,AK Saini,894ebe7e
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Anique Uddin,1f41b702
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,Fareedoon Bhatti,534c3dbe
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,M Kristensen,1e50426a
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,NG Collins,be3bdc15
+info,registry,people,OD Hald,38189be1
+info,registry,people,PF Gallagher,8e9d3dc4
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,Rizwan Mahmood,56e771ef
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Saran Aslam,2a00735b
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,VS Padhaal,c4fb0b39
+ball,1,0.1,Finland,NG Collins,Jordan O'Brien,Lucky Ali,0,0,,,,,,"",""
+ball,1,0.2,Finland,NG Collins,Jordan O'Brien,Lucky Ali,0,0,,,,,,"",""
+ball,1,0.3,Finland,NG Collins,Jordan O'Brien,Lucky Ali,0,1,1,,,,,"",""
+ball,1,0.4,Finland,NG Collins,Jordan O'Brien,Lucky Ali,1,0,,,,,,"",""
+ball,1,0.5,Finland,Jordan O'Brien,NG Collins,Lucky Ali,1,0,,,,,,"",""
+ball,1,0.6,Finland,NG Collins,Jordan O'Brien,Lucky Ali,0,0,,,,,,"",""
+ball,1,0.7,Finland,NG Collins,Jordan O'Brien,Lucky Ali,1,0,,,,,,"",""
+ball,1,1.1,Finland,NG Collins,Jordan O'Brien,OD Hald,2,0,,,,,,"",""
+ball,1,1.2,Finland,NG Collins,Jordan O'Brien,OD Hald,0,0,,,,,,"",""
+ball,1,1.3,Finland,NG Collins,Jordan O'Brien,OD Hald,0,0,,,,,,"",""
+ball,1,1.4,Finland,NG Collins,Jordan O'Brien,OD Hald,4,0,,,,,,"",""
+ball,1,1.5,Finland,NG Collins,Jordan O'Brien,OD Hald,0,1,,,1,,,"",""
+ball,1,1.6,Finland,Jordan O'Brien,NG Collins,OD Hald,0,0,,,,,,"",""
+ball,1,2.1,Finland,NG Collins,Jordan O'Brien,Lucky Ali,0,0,,,,,,"",""
+ball,1,2.2,Finland,NG Collins,Jordan O'Brien,Lucky Ali,1,0,,,,,,"",""
+ball,1,2.3,Finland,Jordan O'Brien,NG Collins,Lucky Ali,0,0,,,,,,"",""
+ball,1,2.4,Finland,Jordan O'Brien,NG Collins,Lucky Ali,1,0,,,,,,"",""
+ball,1,2.5,Finland,NG Collins,Jordan O'Brien,Lucky Ali,1,0,,,,,,"",""
+ball,1,2.6,Finland,Jordan O'Brien,NG Collins,Lucky Ali,0,0,,,,,,"",""
+ball,1,3.1,Finland,NG Collins,Jordan O'Brien,OD Hald,0,0,,,,,,"",""
+ball,1,3.2,Finland,NG Collins,Jordan O'Brien,OD Hald,0,0,,,,,,"",""
+ball,1,3.3,Finland,NG Collins,Jordan O'Brien,OD Hald,0,0,,,,,,"",""
+ball,1,3.4,Finland,NG Collins,Jordan O'Brien,OD Hald,1,0,,,,,,"",""
+ball,1,3.5,Finland,Jordan O'Brien,NG Collins,OD Hald,1,0,,,,,,"",""
+ball,1,3.6,Finland,NG Collins,Jordan O'Brien,OD Hald,0,0,,,,,,"",""
+ball,1,4.1,Finland,Jordan O'Brien,NG Collins,Lucky Ali,0,0,,,,,,"",""
+ball,1,4.2,Finland,Jordan O'Brien,NG Collins,Lucky Ali,1,0,,,,,,"",""
+ball,1,4.3,Finland,NG Collins,Jordan O'Brien,Lucky Ali,0,0,,,,,,"",""
+ball,1,4.4,Finland,NG Collins,Jordan O'Brien,Lucky Ali,0,0,,,,,,lbw,NG Collins
+ball,1,4.5,Finland,AK Mohan,Jordan O'Brien,Lucky Ali,0,0,,,,,,"",""
+ball,1,4.6,Finland,AK Mohan,Jordan O'Brien,Lucky Ali,0,0,,,,,,"",""
+ball,1,5.1,Finland,Jordan O'Brien,AK Mohan,M Kristensen,1,0,,,,,,"",""
+ball,1,5.2,Finland,AK Mohan,Jordan O'Brien,M Kristensen,0,0,,,,,,"",""
+ball,1,5.3,Finland,AK Mohan,Jordan O'Brien,M Kristensen,0,0,,,,,,"",""
+ball,1,5.4,Finland,AK Mohan,Jordan O'Brien,M Kristensen,0,0,,,,,,"",""
+ball,1,5.5,Finland,AK Mohan,Jordan O'Brien,M Kristensen,2,0,,,,,,"",""
+ball,1,5.6,Finland,AK Mohan,Jordan O'Brien,M Kristensen,1,0,,,,,,"",""
+ball,1,6.1,Finland,AK Mohan,Jordan O'Brien,Saud Munir,0,0,,,,,,"",""
+ball,1,6.2,Finland,AK Mohan,Jordan O'Brien,Saud Munir,0,0,,,,,,caught,AK Mohan
+ball,1,6.3,Finland,VS Padhaal,Jordan O'Brien,Saud Munir,0,0,,,,,,"",""
+ball,1,6.4,Finland,VS Padhaal,Jordan O'Brien,Saud Munir,0,0,,,,,,"",""
+ball,1,6.5,Finland,VS Padhaal,Jordan O'Brien,Saud Munir,0,0,,,,,,"",""
+ball,1,6.6,Finland,VS Padhaal,Jordan O'Brien,Saud Munir,1,0,,,,,,"",""
+ball,1,7.1,Finland,VS Padhaal,Jordan O'Brien,M Kristensen,1,0,,,,,,"",""
+ball,1,7.2,Finland,Jordan O'Brien,VS Padhaal,M Kristensen,0,0,,,,,,"",""
+ball,1,7.3,Finland,Jordan O'Brien,VS Padhaal,M Kristensen,1,0,,,,,,"",""
+ball,1,7.4,Finland,VS Padhaal,Jordan O'Brien,M Kristensen,4,0,,,,,,"",""
+ball,1,7.5,Finland,VS Padhaal,Jordan O'Brien,M Kristensen,1,0,,,,,,"",""
+ball,1,7.6,Finland,Jordan O'Brien,VS Padhaal,M Kristensen,1,0,,,,,,"",""
+ball,1,8.1,Finland,Jordan O'Brien,VS Padhaal,Saud Munir,0,0,,,,,,"",""
+ball,1,8.2,Finland,Jordan O'Brien,VS Padhaal,Saud Munir,1,0,,,,,,"",""
+ball,1,8.3,Finland,VS Padhaal,Jordan O'Brien,Saud Munir,0,0,,,,,,"",""
+ball,1,8.4,Finland,VS Padhaal,Jordan O'Brien,Saud Munir,1,0,,,,,,"",""
+ball,1,8.5,Finland,Jordan O'Brien,VS Padhaal,Saud Munir,0,0,,,,,,"",""
+ball,1,8.6,Finland,Jordan O'Brien,VS Padhaal,Saud Munir,0,0,,,,,,caught,Jordan O'Brien
+ball,1,9.1,Finland,VS Padhaal,Atif Rasheed,SA Ahmad,0,0,,,,,,"",""
+ball,1,9.2,Finland,VS Padhaal,Atif Rasheed,SA Ahmad,0,1,,,,1,,"",""
+ball,1,9.3,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,0,0,,,,,,"",""
+ball,1,9.4,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,0,0,,,,,,"",""
+ball,1,9.5,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,1,0,,,,,,"",""
+ball,1,9.6,Finland,VS Padhaal,Atif Rasheed,SA Ahmad,0,0,,,,,,"",""
+ball,1,10.1,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,0,0,,,,,,"",""
+ball,1,10.2,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,0,0,,,,,,"",""
+ball,1,10.3,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,1,0,,,,,,"",""
+ball,1,10.4,Finland,VS Padhaal,Atif Rasheed,Anique Uddin,1,0,,,,,,"",""
+ball,1,10.5,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,6,0,,,,,,"",""
+ball,1,10.6,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,1,0,,,,,,"",""
+ball,1,11.1,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,2,0,,,,,,"",""
+ball,1,11.2,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,0,0,,,,,,"",""
+ball,1,11.3,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,2,0,,,,,,"",""
+ball,1,11.4,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,0,0,,,,,,"",""
+ball,1,11.5,Finland,Atif Rasheed,VS Padhaal,SA Ahmad,1,0,,,,,,"",""
+ball,1,11.6,Finland,VS Padhaal,Atif Rasheed,SA Ahmad,2,0,,,,,,"",""
+ball,1,12.1,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,0,0,,,,,,"",""
+ball,1,12.2,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,2,0,,,,,,"",""
+ball,1,12.3,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,4,0,,,,,,"",""
+ball,1,12.4,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,4,0,,,,,,"",""
+ball,1,12.5,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,0,0,,,,,,"",""
+ball,1,12.6,Finland,Atif Rasheed,VS Padhaal,Anique Uddin,1,0,,,,,,"",""
+ball,1,13.1,Finland,Atif Rasheed,VS Padhaal,HAM Shah,2,0,,,,,,"",""
+ball,1,13.2,Finland,Atif Rasheed,VS Padhaal,HAM Shah,2,0,,,,,,"",""
+ball,1,13.3,Finland,Atif Rasheed,VS Padhaal,HAM Shah,0,0,,,,,,"",""
+ball,1,13.4,Finland,Atif Rasheed,VS Padhaal,HAM Shah,1,0,,,,,,"",""
+ball,1,13.5,Finland,VS Padhaal,Atif Rasheed,HAM Shah,0,0,,,,,,"",""
+ball,1,13.6,Finland,VS Padhaal,Atif Rasheed,HAM Shah,2,0,,,,,,"",""
+ball,1,14.1,Finland,Atif Rasheed,VS Padhaal,Lucky Ali,0,0,,,,,,"",""
+ball,1,14.2,Finland,Atif Rasheed,VS Padhaal,Lucky Ali,0,0,,,,,,"",""
+ball,1,14.3,Finland,Atif Rasheed,VS Padhaal,Lucky Ali,0,0,,,,,,stumped,Atif Rasheed
+ball,1,14.4,Finland,Amjad Sher,VS Padhaal,Lucky Ali,0,0,,,,,,"",""
+ball,1,14.5,Finland,Amjad Sher,VS Padhaal,Lucky Ali,0,0,,,,,,"",""
+ball,1,14.6,Finland,Amjad Sher,VS Padhaal,Lucky Ali,0,0,,,,,,"",""
+ball,1,15.1,Finland,VS Padhaal,Amjad Sher,HAM Shah,0,0,,,,,,"",""
+ball,1,15.2,Finland,VS Padhaal,Amjad Sher,HAM Shah,0,0,,,,,,caught,VS Padhaal
+ball,1,15.3,Finland,Faheem Nellancheri,Amjad Sher,HAM Shah,0,0,,,,,,"",""
+ball,1,15.4,Finland,Faheem Nellancheri,Amjad Sher,HAM Shah,2,0,,,,,,"",""
+ball,1,15.5,Finland,Faheem Nellancheri,Amjad Sher,HAM Shah,0,0,,,,,,"",""
+ball,1,15.6,Finland,Faheem Nellancheri,Amjad Sher,HAM Shah,0,0,,,,,,bowled,Faheem Nellancheri
+ball,1,16.1,Finland,Amjad Sher,PF Gallagher,Saud Munir,0,0,,,,,,bowled,Amjad Sher
+ball,1,16.2,Finland,MB Tambe,PF Gallagher,Saud Munir,1,0,,,,,,"",""
+ball,1,16.3,Finland,PF Gallagher,MB Tambe,Saud Munir,0,0,,,,,,"",""
+ball,1,16.4,Finland,PF Gallagher,MB Tambe,Saud Munir,0,0,,,,,,"",""
+ball,1,16.5,Finland,PF Gallagher,MB Tambe,Saud Munir,1,0,,,,,,"",""
+ball,1,16.6,Finland,MB Tambe,PF Gallagher,Saud Munir,1,0,,,,,,"",""
+ball,1,17.1,Finland,MB Tambe,PF Gallagher,HAM Shah,1,0,,,,,,"",""
+ball,1,17.2,Finland,PF Gallagher,MB Tambe,HAM Shah,0,0,,,,,,caught,PF Gallagher
+ball,1,17.3,Finland,Akhil Arjunan,MB Tambe,HAM Shah,0,0,,,,,,bowled,Akhil Arjunan
+ball,1,17.4,Finland,Raaz Mohammad,MB Tambe,HAM Shah,0,0,,,,,,"",""
+ball,1,17.5,Finland,Raaz Mohammad,MB Tambe,HAM Shah,0,0,,,,,,"",""
+ball,1,17.6,Finland,Raaz Mohammad,MB Tambe,HAM Shah,1,0,,,,,,"",""
+ball,1,18.1,Finland,Raaz Mohammad,MB Tambe,Saud Munir,1,0,,,,,,"",""
+ball,1,18.2,Finland,MB Tambe,Raaz Mohammad,Saud Munir,1,0,,,,,,"",""
+ball,1,18.3,Finland,Raaz Mohammad,MB Tambe,Saud Munir,1,0,,,,,,"",""
+ball,1,18.4,Finland,MB Tambe,Raaz Mohammad,Saud Munir,1,0,,,,,,"",""
+ball,1,18.5,Finland,Raaz Mohammad,MB Tambe,Saud Munir,0,4,,,4,,,"",""
+ball,1,18.6,Finland,Raaz Mohammad,MB Tambe,Saud Munir,1,0,,,,,,"",""
+ball,1,19.1,Finland,Raaz Mohammad,MB Tambe,HAM Shah,4,0,,,,,,"",""
+ball,1,19.2,Finland,Raaz Mohammad,MB Tambe,HAM Shah,1,0,,,,,,"",""
+ball,1,19.3,Finland,MB Tambe,Raaz Mohammad,HAM Shah,0,0,,,,,,"",""
+ball,1,19.4,Finland,MB Tambe,Raaz Mohammad,HAM Shah,2,0,,,,,,"",""
+ball,1,19.5,Finland,MB Tambe,Raaz Mohammad,HAM Shah,1,0,,,,,,run out,MB Tambe
+ball,2,0.1,Denmark,Rizwan Mahmood,HAM Shah,PF Gallagher,0,0,,,,,,"",""
+ball,2,0.2,Denmark,Rizwan Mahmood,HAM Shah,PF Gallagher,0,0,,,,,,"",""
+ball,2,0.3,Denmark,Rizwan Mahmood,HAM Shah,PF Gallagher,0,0,,,,,,"",""
+ball,2,0.4,Denmark,Rizwan Mahmood,HAM Shah,PF Gallagher,0,0,,,,,,"",""
+ball,2,0.5,Denmark,Rizwan Mahmood,HAM Shah,PF Gallagher,1,0,,,,,,"",""
+ball,2,0.6,Denmark,HAM Shah,Rizwan Mahmood,PF Gallagher,0,0,,,,,,"",""
+ball,2,1.1,Denmark,Rizwan Mahmood,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,1.2,Denmark,Rizwan Mahmood,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,1.3,Denmark,Rizwan Mahmood,HAM Shah,Amjad Sher,2,0,,,,,,"",""
+ball,2,1.4,Denmark,Rizwan Mahmood,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,1.5,Denmark,Rizwan Mahmood,HAM Shah,Amjad Sher,1,0,,,,,,"",""
+ball,2,1.6,Denmark,HAM Shah,Rizwan Mahmood,Amjad Sher,0,0,,,,,,"",""
+ball,2,2.1,Denmark,Rizwan Mahmood,HAM Shah,PF Gallagher,0,0,,,,,,caught,Rizwan Mahmood
+ball,2,2.2,Denmark,S Thanikaithasan,HAM Shah,PF Gallagher,1,0,,,,,,"",""
+ball,2,2.3,Denmark,HAM Shah,S Thanikaithasan,PF Gallagher,6,0,,,,,,"",""
+ball,2,2.4,Denmark,HAM Shah,S Thanikaithasan,PF Gallagher,1,0,,,,,,"",""
+ball,2,2.5,Denmark,S Thanikaithasan,HAM Shah,PF Gallagher,0,0,,,,,,"",""
+ball,2,2.6,Denmark,S Thanikaithasan,HAM Shah,PF Gallagher,3,0,,,,,,"",""
+ball,2,3.1,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,3.2,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,3.3,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,3.4,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,4,0,,,,,,"",""
+ball,2,3.5,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,2,0,,,,,,"",""
+ball,2,3.6,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,4.1,Denmark,HAM Shah,S Thanikaithasan,Raaz Mohammad,1,0,,,,,,"",""
+ball,2,4.2,Denmark,S Thanikaithasan,HAM Shah,Raaz Mohammad,1,0,,,,,,"",""
+ball,2,4.3,Denmark,HAM Shah,S Thanikaithasan,Raaz Mohammad,2,0,,,,,,"",""
+ball,2,4.4,Denmark,HAM Shah,S Thanikaithasan,Raaz Mohammad,4,0,,,,,,"",""
+ball,2,4.5,Denmark,HAM Shah,S Thanikaithasan,Raaz Mohammad,0,0,,,,,,"",""
+ball,2,4.6,Denmark,HAM Shah,S Thanikaithasan,Raaz Mohammad,6,0,,,,,,"",""
+ball,2,5.1,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,1,0,,,,,,"",""
+ball,2,5.2,Denmark,HAM Shah,S Thanikaithasan,Amjad Sher,0,0,,,,,,"",""
+ball,2,5.3,Denmark,HAM Shah,S Thanikaithasan,Amjad Sher,0,0,,,,,,"",""
+ball,2,5.4,Denmark,HAM Shah,S Thanikaithasan,Amjad Sher,1,0,,,,,,"",""
+ball,2,5.5,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,1,0,,,,,,"",""
+ball,2,5.6,Denmark,HAM Shah,S Thanikaithasan,Amjad Sher,2,0,,,,,,"",""
+ball,2,6.1,Denmark,S Thanikaithasan,HAM Shah,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,6.2,Denmark,HAM Shah,S Thanikaithasan,Akhil Arjunan,0,0,,,,,,"",""
+ball,2,6.3,Denmark,HAM Shah,S Thanikaithasan,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,6.4,Denmark,S Thanikaithasan,HAM Shah,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,6.5,Denmark,HAM Shah,S Thanikaithasan,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,6.6,Denmark,S Thanikaithasan,HAM Shah,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,7.1,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,7.2,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,2,0,,,,,,"",""
+ball,2,7.3,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,7.4,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,7.5,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,7.6,Denmark,S Thanikaithasan,HAM Shah,Amjad Sher,0,0,,,,,,"",""
+ball,2,8.1,Denmark,HAM Shah,S Thanikaithasan,Akhil Arjunan,0,0,,,,,,"",""
+ball,2,8.2,Denmark,HAM Shah,S Thanikaithasan,Akhil Arjunan,2,0,,,,,,"",""
+ball,2,8.3,Denmark,HAM Shah,S Thanikaithasan,Akhil Arjunan,0,0,,,,,,"",""
+ball,2,8.4,Denmark,HAM Shah,S Thanikaithasan,Akhil Arjunan,0,0,,,,,,caught,HAM Shah
+ball,2,8.5,Denmark,SA Ahmad,S Thanikaithasan,Akhil Arjunan,0,0,,,,,,"",""
+ball,2,8.6,Denmark,SA Ahmad,S Thanikaithasan,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,9.1,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,9.2,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,9.3,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,9.4,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,9.5,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,9.6,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,2,0,,,,,,"",""
+ball,2,10.1,Denmark,S Thanikaithasan,SA Ahmad,Akhil Arjunan,2,0,,,,,,"",""
+ball,2,10.2,Denmark,S Thanikaithasan,SA Ahmad,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,10.3,Denmark,SA Ahmad,S Thanikaithasan,Akhil Arjunan,4,0,,,,,,"",""
+ball,2,10.4,Denmark,SA Ahmad,S Thanikaithasan,Akhil Arjunan,0,0,,,,,,"",""
+ball,2,10.5,Denmark,SA Ahmad,S Thanikaithasan,Akhil Arjunan,1,0,,,,,,"",""
+ball,2,10.6,Denmark,S Thanikaithasan,SA Ahmad,Akhil Arjunan,6,0,,,,,,"",""
+ball,2,11.1,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,2,0,,,,,,"",""
+ball,2,11.2,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,2,0,,,,,,"",""
+ball,2,11.3,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,1,0,,,,,,"",""
+ball,2,11.4,Denmark,S Thanikaithasan,SA Ahmad,MB Tambe,1,0,,,,,,"",""
+ball,2,11.5,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,11.6,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,1,0,,,,,,"",""
+ball,2,12.1,Denmark,SA Ahmad,S Thanikaithasan,PF Gallagher,0,0,,,,,,"",""
+ball,2,12.2,Denmark,SA Ahmad,S Thanikaithasan,PF Gallagher,0,0,,,,,,"",""
+ball,2,12.3,Denmark,SA Ahmad,S Thanikaithasan,PF Gallagher,1,0,,,,,,"",""
+ball,2,12.4,Denmark,S Thanikaithasan,SA Ahmad,PF Gallagher,6,0,,,,,,"",""
+ball,2,12.5,Denmark,S Thanikaithasan,SA Ahmad,PF Gallagher,1,0,,,,,,"",""
+ball,2,12.6,Denmark,SA Ahmad,S Thanikaithasan,PF Gallagher,1,0,,,,,,"",""
+ball,2,13.1,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,2,0,,,,,,"",""
+ball,2,13.2,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,13.3,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,13.4,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,0,0,,,,,,"",""
+ball,2,13.5,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,2,0,,,,,,"",""
+ball,2,13.6,Denmark,SA Ahmad,S Thanikaithasan,MB Tambe,1,0,,,,,,"",""
+ball,2,14.1,Denmark,SA Ahmad,S Thanikaithasan,PF Gallagher,1,0,,,,,,"",""
+ball,2,14.2,Denmark,S Thanikaithasan,SA Ahmad,PF Gallagher,0,0,,,,,,"",""
+ball,2,14.3,Denmark,S Thanikaithasan,SA Ahmad,PF Gallagher,0,0,,,,,,"",""
+ball,2,14.4,Denmark,S Thanikaithasan,SA Ahmad,PF Gallagher,0,0,,,,,,"",""
+ball,2,14.5,Denmark,S Thanikaithasan,SA Ahmad,PF Gallagher,6,0,,,,,,"",""

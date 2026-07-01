@@ -1,0 +1,157 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mali
+info,team,Tanzania
+info,gender,male
+info,season,2024
+info,date,2024/09/21
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,3
+info,venue,University of Dar-es-Salaam Ground
+info,city,Dar-es-Salaam
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,S Thakor
+info,umpire,LB Gcuma
+info,umpire,Patric Makumbi
+info,reserve_umpire,Habib Enesi
+info,match_referee,S Wadvalla
+info,winner,Tanzania
+info,winner_wickets,10
+info,player,Mali,Mohamed Coulibaly
+info,player,Mali,TM Macalou
+info,player,Mali,S Kamate
+info,player,Mali,M Malle
+info,player,Mali,L Sanogo
+info,player,Mali,CA Keita
+info,player,Mali,Y Konate
+info,player,Mali,MS Diakite
+info,player,Mali,L Berthe
+info,player,Mali,A Nimaga
+info,player,Mali,Z Makadji
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,Muhammad Zafar Khan
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,S Thakor
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,K Juma
+info,registry,people,A Nimaga,bc304f82
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,L Berthe,8eb7c5a6
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Barkania,073126d6
+info,registry,people,M Malle,e15c6692
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,MS Diakite,69795fcd
+info,registry,people,Mohamed Coulibaly,86ea6123
+info,registry,people,Muhammad Zafar Khan,6d5e66b1
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,Y Konate,5934e1b2
+info,registry,people,Z Makadji,7fcaa9f4
+ball,1,0.1,Mali,Mohamed Coulibaly,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,0.2,Mali,Mohamed Coulibaly,TM Macalou,HA Chohan,0,0,,,,,,lbw,Mohamed Coulibaly
+ball,1,0.3,Mali,S Kamate,TM Macalou,HA Chohan,1,0,,,,,,"",""
+ball,1,0.4,Mali,TM Macalou,S Kamate,HA Chohan,0,1,,,1,,,"",""
+ball,1,0.5,Mali,S Kamate,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,0.6,Mali,S Kamate,TM Macalou,HA Chohan,1,0,,,,,,"",""
+ball,1,1.1,Mali,S Kamate,TM Macalou,K Juma,1,0,,,,,,"",""
+ball,1,1.2,Mali,TM Macalou,S Kamate,K Juma,0,0,,,,,,"",""
+ball,1,1.3,Mali,TM Macalou,S Kamate,K Juma,0,0,,,,,,"",""
+ball,1,1.4,Mali,TM Macalou,S Kamate,K Juma,0,0,,,,,,"",""
+ball,1,1.5,Mali,TM Macalou,S Kamate,K Juma,0,0,,,,,,"",""
+ball,1,1.6,Mali,TM Macalou,S Kamate,K Juma,0,0,,,,,,"",""
+ball,1,2.1,Mali,S Kamate,TM Macalou,HA Chohan,0,0,,,,,,bowled,S Kamate
+ball,1,2.2,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,2.3,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,2.4,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,2.5,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,2.6,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,3.1,Mali,TM Macalou,M Malle,K Juma,0,0,,,,,,"",""
+ball,1,3.2,Mali,TM Macalou,M Malle,K Juma,0,0,,,,,,"",""
+ball,1,3.3,Mali,TM Macalou,M Malle,K Juma,0,0,,,,,,"",""
+ball,1,3.4,Mali,TM Macalou,M Malle,K Juma,0,0,,,,,,"",""
+ball,1,3.5,Mali,TM Macalou,M Malle,K Juma,1,0,,,,,,"",""
+ball,1,3.6,Mali,M Malle,TM Macalou,K Juma,0,1,1,,,,,"",""
+ball,1,3.7,Mali,M Malle,TM Macalou,K Juma,0,1,,,,1,,"",""
+ball,1,4.1,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,4.2,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,4.3,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,4.4,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,4.5,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,4.6,Mali,M Malle,TM Macalou,HA Chohan,0,1,1,,,,,"",""
+ball,1,4.7,Mali,M Malle,TM Macalou,HA Chohan,0,0,,,,,,"",""
+ball,1,5.1,Mali,TM Macalou,M Malle,K Juma,1,0,,,,,,"",""
+ball,1,5.2,Mali,M Malle,TM Macalou,K Juma,1,0,,,,,,"",""
+ball,1,5.3,Mali,TM Macalou,M Malle,K Juma,0,0,,,,,,"",""
+ball,1,5.4,Mali,TM Macalou,M Malle,K Juma,0,0,,,,,,"",""
+ball,1,5.5,Mali,TM Macalou,M Malle,K Juma,0,0,,,,,,caught,TM Macalou
+ball,1,5.6,Mali,L Sanogo,M Malle,K Juma,0,0,,,,,,"",""
+ball,1,6.1,Mali,M Malle,L Sanogo,AM Kimote,0,0,,,,,,caught,M Malle
+ball,1,6.2,Mali,CA Keita,L Sanogo,AM Kimote,0,0,,,,,,"",""
+ball,1,6.3,Mali,CA Keita,L Sanogo,AM Kimote,0,0,,,,,,"",""
+ball,1,6.4,Mali,CA Keita,L Sanogo,AM Kimote,0,0,,,,,,"",""
+ball,1,6.5,Mali,CA Keita,L Sanogo,AM Kimote,0,0,,,,,,"",""
+ball,1,6.6,Mali,CA Keita,L Sanogo,AM Kimote,0,0,,,,,,"",""
+ball,1,7.1,Mali,L Sanogo,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,7.2,Mali,L Sanogo,CA Keita,S Thakor,0,0,,,,,,bowled,L Sanogo
+ball,1,7.3,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,7.4,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,7.5,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,7.6,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,8.1,Mali,CA Keita,Y Konate,AM Kimote,0,0,,,,,,"",""
+ball,1,8.2,Mali,CA Keita,Y Konate,AM Kimote,0,0,,,,,,"",""
+ball,1,8.3,Mali,CA Keita,Y Konate,AM Kimote,0,0,,,,,,"",""
+ball,1,8.4,Mali,CA Keita,Y Konate,AM Kimote,0,0,,,,,,"",""
+ball,1,8.5,Mali,CA Keita,Y Konate,AM Kimote,0,0,,,,,,"",""
+ball,1,8.6,Mali,CA Keita,Y Konate,AM Kimote,0,0,,,,,,"",""
+ball,1,9.1,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,9.2,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,9.3,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,9.4,Mali,Y Konate,CA Keita,S Thakor,2,0,,,,,,"",""
+ball,1,9.5,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,9.6,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,10.1,Mali,CA Keita,Y Konate,LS Barkania,0,0,,,,,,"",""
+ball,1,10.2,Mali,CA Keita,Y Konate,LS Barkania,0,0,,,,,,"",""
+ball,1,10.3,Mali,CA Keita,Y Konate,LS Barkania,0,0,,,,,,"",""
+ball,1,10.4,Mali,CA Keita,Y Konate,LS Barkania,1,0,,,,,,"",""
+ball,1,10.5,Mali,Y Konate,CA Keita,LS Barkania,0,0,,,,,,"",""
+ball,1,10.6,Mali,Y Konate,CA Keita,LS Barkania,0,1,1,,,,,"",""
+ball,1,10.7,Mali,Y Konate,CA Keita,LS Barkania,1,0,,,,,,"",""
+ball,1,11.1,Mali,Y Konate,CA Keita,S Thakor,0,0,,,,,,caught,Y Konate
+ball,1,11.2,Mali,MS Diakite,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,11.3,Mali,MS Diakite,CA Keita,S Thakor,0,0,,,,,,bowled,MS Diakite
+ball,1,11.4,Mali,L Berthe,CA Keita,S Thakor,0,0,,,,,,bowled,L Berthe
+ball,1,11.5,Mali,A Nimaga,CA Keita,S Thakor,2,0,,,,,,"",""
+ball,1,11.6,Mali,A Nimaga,CA Keita,S Thakor,0,0,,,,,,"",""
+ball,1,12.1,Mali,CA Keita,A Nimaga,LS Barkania,0,0,,,,,,"",""
+ball,1,12.2,Mali,CA Keita,A Nimaga,LS Barkania,0,0,,,,,,"",""
+ball,1,12.3,Mali,CA Keita,A Nimaga,LS Barkania,0,0,,,,,,bowled,CA Keita
+ball,1,12.4,Mali,Z Makadji,A Nimaga,LS Barkania,1,0,,,,,,"",""
+ball,1,12.5,Mali,A Nimaga,Z Makadji,LS Barkania,0,0,,,,,,bowled,A Nimaga
+ball,2,0.1,Tanzania,AR Patwa,Muhammad Zafar Khan,Mohamed Coulibaly,0,1,1,,,,,"",""
+ball,2,0.2,Tanzania,AR Patwa,Muhammad Zafar Khan,Mohamed Coulibaly,1,1,,1,,,,"",""
+ball,2,0.3,Tanzania,Muhammad Zafar Khan,AR Patwa,Mohamed Coulibaly,0,1,1,,,,,"",""
+ball,2,0.4,Tanzania,Muhammad Zafar Khan,AR Patwa,Mohamed Coulibaly,4,0,,,,,,"",""
+ball,2,0.5,Tanzania,Muhammad Zafar Khan,AR Patwa,Mohamed Coulibaly,0,2,2,,,,,"",""
+ball,2,0.6,Tanzania,AR Patwa,Muhammad Zafar Khan,Mohamed Coulibaly,1,0,,,,,,"",""
+ball,2,0.7,Tanzania,Muhammad Zafar Khan,AR Patwa,Mohamed Coulibaly,4,0,,,,,,"",""
+ball,2,0.8,Tanzania,Muhammad Zafar Khan,AR Patwa,Mohamed Coulibaly,0,0,,,,,,"",""
+ball,2,0.9,Tanzania,Muhammad Zafar Khan,AR Patwa,Mohamed Coulibaly,4,0,,,,,,"",""

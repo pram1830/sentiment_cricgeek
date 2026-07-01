@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2021/22
+info,date,2022/02/16
+info,event,West Indies tour of India
+info,match_number,1
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Ravi Bishnoi
+info,umpire,J Madanagopal
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,VK Sharma
+info,match_referee,M Nayyar
+info,winner,India
+info,winner_wickets,6
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,N Pooran
+info,player,West Indies,RL Chase
+info,player,West Indies,R Powell
+info,player,West Indies,AJ Hosein
+info,player,West Indies,KA Pollard
+info,player,West Indies,OF Smith
+info,player,West Indies,FA Allen
+info,player,West Indies,R Shepherd
+info,player,West Indies,SS Cottrell
+info,player,India,RG Sharma
+info,player,India,Ishan Kishan
+info,player,India,V Kohli
+info,player,India,RR Pant
+info,player,India,SA Yadav
+info,player,India,VR Iyer
+info,player,India,DL Chahar
+info,player,India,HV Patel
+info,player,India,Ravi Bishnoi
+info,player,India,B Kumar
+info,player,India,YS Chahal
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BA King,7fca84b7
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KR Mayers,73c18486
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OF Smith,23cca426
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,VR Iyer,a24be938
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,West Indies,BA King,KR Mayers,B Kumar,0,0,,,,,,"",""
+ball,1,0.2,West Indies,BA King,KR Mayers,B Kumar,4,0,,,,,,"",""
+ball,1,0.3,West Indies,BA King,KR Mayers,B Kumar,0,0,,,,,,"",""
+ball,1,0.4,West Indies,BA King,KR Mayers,B Kumar,0,0,,,,,,"",""
+ball,1,0.5,West Indies,BA King,KR Mayers,B Kumar,0,0,,,,,,caught,BA King
+ball,1,0.6,West Indies,N Pooran,KR Mayers,B Kumar,0,0,,,,,,"",""
+ball,1,1.1,West Indies,KR Mayers,N Pooran,DL Chahar,4,0,,,,,,"",""
+ball,1,1.2,West Indies,KR Mayers,N Pooran,DL Chahar,0,0,,,,,,"",""
+ball,1,1.3,West Indies,KR Mayers,N Pooran,DL Chahar,0,0,,,,,,"",""
+ball,1,1.4,West Indies,KR Mayers,N Pooran,DL Chahar,0,0,,,,,,"",""
+ball,1,1.5,West Indies,KR Mayers,N Pooran,DL Chahar,0,0,,,,,,"",""
+ball,1,1.6,West Indies,KR Mayers,N Pooran,DL Chahar,4,0,,,,,,"",""
+ball,1,2.1,West Indies,N Pooran,KR Mayers,B Kumar,0,0,,,,,,"",""
+ball,1,2.2,West Indies,N Pooran,KR Mayers,B Kumar,1,0,,,,,,"",""
+ball,1,2.3,West Indies,KR Mayers,N Pooran,B Kumar,0,0,,,,,,"",""
+ball,1,2.4,West Indies,KR Mayers,N Pooran,B Kumar,4,0,,,,,,"",""
+ball,1,2.5,West Indies,KR Mayers,N Pooran,B Kumar,0,1,,,,1,,"",""
+ball,1,2.6,West Indies,N Pooran,KR Mayers,B Kumar,0,0,,,,,,"",""
+ball,1,3.1,West Indies,KR Mayers,N Pooran,DL Chahar,0,0,,,,,,"",""
+ball,1,3.2,West Indies,KR Mayers,N Pooran,DL Chahar,0,0,,,,,,"",""
+ball,1,3.3,West Indies,KR Mayers,N Pooran,DL Chahar,1,0,,,,,,"",""
+ball,1,3.4,West Indies,N Pooran,KR Mayers,DL Chahar,0,0,,,,,,"",""
+ball,1,3.5,West Indies,N Pooran,KR Mayers,DL Chahar,6,0,,,,,,"",""
+ball,1,3.6,West Indies,N Pooran,KR Mayers,DL Chahar,0,0,,,,,,"",""
+ball,1,4.1,West Indies,KR Mayers,N Pooran,B Kumar,0,0,,,,,,"",""
+ball,1,4.2,West Indies,KR Mayers,N Pooran,B Kumar,4,0,,,,,,"",""
+ball,1,4.3,West Indies,KR Mayers,N Pooran,B Kumar,2,0,,,,,,"",""
+ball,1,4.4,West Indies,KR Mayers,N Pooran,B Kumar,4,0,,,,,,"",""
+ball,1,4.5,West Indies,KR Mayers,N Pooran,B Kumar,0,0,,,,,,"",""
+ball,1,4.6,West Indies,KR Mayers,N Pooran,B Kumar,0,0,,,,,,"",""
+ball,1,5.1,West Indies,N Pooran,KR Mayers,HV Patel,0,0,,,,,,"",""
+ball,1,5.2,West Indies,N Pooran,KR Mayers,HV Patel,1,0,,,,,,"",""
+ball,1,5.3,West Indies,KR Mayers,N Pooran,HV Patel,4,0,,,,,,"",""
+ball,1,5.4,West Indies,KR Mayers,N Pooran,HV Patel,0,0,,,,,,"",""
+ball,1,5.5,West Indies,KR Mayers,N Pooran,HV Patel,4,0,,,,,,"",""
+ball,1,5.6,West Indies,KR Mayers,N Pooran,HV Patel,0,0,,,,,,"",""
+ball,1,6.1,West Indies,N Pooran,KR Mayers,YS Chahal,6,0,,,,,,"",""
+ball,1,6.2,West Indies,N Pooran,KR Mayers,YS Chahal,0,0,,,,,,"",""
+ball,1,6.3,West Indies,N Pooran,KR Mayers,YS Chahal,1,0,,,,,,"",""
+ball,1,6.4,West Indies,KR Mayers,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,6.5,West Indies,KR Mayers,N Pooran,YS Chahal,0,0,,,,,,lbw,KR Mayers
+ball,1,6.6,West Indies,RL Chase,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,7.1,West Indies,N Pooran,RL Chase,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.2,West Indies,N Pooran,RL Chase,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,7.3,West Indies,N Pooran,RL Chase,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.4,West Indies,N Pooran,RL Chase,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,7.5,West Indies,N Pooran,RL Chase,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.6,West Indies,N Pooran,RL Chase,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.7,West Indies,RL Chase,N Pooran,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,7.8,West Indies,RL Chase,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.9,West Indies,RL Chase,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,8.1,West Indies,N Pooran,RL Chase,YS Chahal,0,0,,,,,,"",""
+ball,1,8.2,West Indies,N Pooran,RL Chase,YS Chahal,0,0,,,,,,"",""
+ball,1,8.3,West Indies,N Pooran,RL Chase,YS Chahal,1,0,,,,,,"",""
+ball,1,8.4,West Indies,RL Chase,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,8.5,West Indies,RL Chase,N Pooran,YS Chahal,1,0,,,,,,"",""
+ball,1,8.6,West Indies,N Pooran,RL Chase,YS Chahal,6,0,,,,,,"",""
+ball,1,9.1,West Indies,RL Chase,N Pooran,HV Patel,0,0,,,,,,"",""
+ball,1,9.2,West Indies,RL Chase,N Pooran,HV Patel,2,0,,,,,,"",""
+ball,1,9.3,West Indies,RL Chase,N Pooran,HV Patel,1,0,,,,,,"",""
+ball,1,9.4,West Indies,N Pooran,RL Chase,HV Patel,4,0,,,,,,"",""
+ball,1,9.5,West Indies,N Pooran,RL Chase,HV Patel,0,0,,,,,,"",""
+ball,1,9.6,West Indies,N Pooran,RL Chase,HV Patel,0,1,1,,,,,"",""
+ball,1,9.7,West Indies,N Pooran,RL Chase,HV Patel,0,0,,,,,,"",""
+ball,1,10.1,West Indies,RL Chase,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,10.2,West Indies,RL Chase,N Pooran,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,10.3,West Indies,RL Chase,N Pooran,Ravi Bishnoi,0,0,,,,,,lbw,RL Chase
+ball,1,10.4,West Indies,R Powell,N Pooran,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,10.5,West Indies,R Powell,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,10.6,West Indies,R Powell,N Pooran,Ravi Bishnoi,0,0,,,,,,caught,R Powell
+ball,1,10.7,West Indies,AJ Hosein,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,11.1,West Indies,N Pooran,AJ Hosein,VR Iyer,1,0,,,,,,"",""
+ball,1,11.2,West Indies,AJ Hosein,N Pooran,VR Iyer,0,0,,,,,,"",""
+ball,1,11.3,West Indies,AJ Hosein,N Pooran,VR Iyer,1,0,,,,,,"",""
+ball,1,11.4,West Indies,N Pooran,AJ Hosein,VR Iyer,0,0,,,,,,"",""
+ball,1,11.5,West Indies,N Pooran,AJ Hosein,VR Iyer,1,0,,,,,,"",""
+ball,1,11.6,West Indies,AJ Hosein,N Pooran,VR Iyer,1,0,,,,,,"",""
+ball,1,12.1,West Indies,AJ Hosein,N Pooran,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.2,West Indies,N Pooran,AJ Hosein,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,12.3,West Indies,AJ Hosein,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,12.4,West Indies,AJ Hosein,N Pooran,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,12.5,West Indies,AJ Hosein,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,12.6,West Indies,AJ Hosein,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,12.7,West Indies,AJ Hosein,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,13.1,West Indies,N Pooran,AJ Hosein,DL Chahar,1,0,,,,,,"",""
+ball,1,13.2,West Indies,AJ Hosein,N Pooran,DL Chahar,6,0,,,,,,"",""
+ball,1,13.3,West Indies,AJ Hosein,N Pooran,DL Chahar,1,0,,,,,,"",""
+ball,1,13.4,West Indies,N Pooran,AJ Hosein,DL Chahar,1,0,,,,,,"",""
+ball,1,13.5,West Indies,AJ Hosein,N Pooran,DL Chahar,0,0,,,,,,caught and bowled,AJ Hosein
+ball,1,13.6,West Indies,N Pooran,KA Pollard,DL Chahar,4,0,,,,,,"",""
+ball,1,14.1,West Indies,KA Pollard,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,14.2,West Indies,KA Pollard,N Pooran,YS Chahal,1,0,,,,,,"",""
+ball,1,14.3,West Indies,N Pooran,KA Pollard,YS Chahal,0,0,,,,,,"",""
+ball,1,14.4,West Indies,N Pooran,KA Pollard,YS Chahal,1,0,,,,,,"",""
+ball,1,14.5,West Indies,KA Pollard,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,14.6,West Indies,KA Pollard,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,15.1,West Indies,N Pooran,KA Pollard,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,15.2,West Indies,KA Pollard,N Pooran,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.3,West Indies,KA Pollard,N Pooran,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,1,15.4,West Indies,KA Pollard,N Pooran,Ravi Bishnoi,0,5,,,,5,,"",""
+ball,1,15.5,West Indies,N Pooran,KA Pollard,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,15.6,West Indies,N Pooran,KA Pollard,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.7,West Indies,N Pooran,KA Pollard,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,16.1,West Indies,N Pooran,KA Pollard,YS Chahal,6,0,,,,,,"",""
+ball,1,16.2,West Indies,N Pooran,KA Pollard,YS Chahal,4,0,,,,,,"",""
+ball,1,16.3,West Indies,N Pooran,KA Pollard,YS Chahal,0,1,1,,,,,"",""
+ball,1,16.4,West Indies,N Pooran,KA Pollard,YS Chahal,1,0,,,,,,"",""
+ball,1,16.5,West Indies,KA Pollard,N Pooran,YS Chahal,0,0,,,,,,"",""
+ball,1,16.6,West Indies,KA Pollard,N Pooran,YS Chahal,4,0,,,,,,"",""
+ball,1,16.7,West Indies,KA Pollard,N Pooran,YS Chahal,1,0,,,,,,"",""
+ball,1,17.1,West Indies,KA Pollard,N Pooran,HV Patel,1,0,,,,,,"",""
+ball,1,17.2,West Indies,N Pooran,KA Pollard,HV Patel,6,0,,,,,,"",""
+ball,1,17.3,West Indies,N Pooran,KA Pollard,HV Patel,0,1,1,,,,,"",""
+ball,1,17.4,West Indies,N Pooran,KA Pollard,HV Patel,1,0,,,,,,"",""
+ball,1,17.5,West Indies,KA Pollard,N Pooran,HV Patel,1,0,,,,,,"",""
+ball,1,17.6,West Indies,N Pooran,KA Pollard,HV Patel,0,0,,,,,,"",""
+ball,1,17.7,West Indies,N Pooran,KA Pollard,HV Patel,0,0,,,,,,caught,N Pooran
+ball,1,18.1,West Indies,KA Pollard,OF Smith,B Kumar,6,0,,,,,,"",""
+ball,1,18.2,West Indies,KA Pollard,OF Smith,B Kumar,2,0,,,,,,"",""
+ball,1,18.3,West Indies,KA Pollard,OF Smith,B Kumar,0,1,1,,,,,"",""
+ball,1,18.4,West Indies,KA Pollard,OF Smith,B Kumar,0,0,,,,,,"",""
+ball,1,18.5,West Indies,KA Pollard,OF Smith,B Kumar,1,0,,,,,,"",""
+ball,1,18.6,West Indies,OF Smith,KA Pollard,B Kumar,1,0,,,,,,"",""
+ball,1,18.7,West Indies,KA Pollard,OF Smith,B Kumar,1,0,,,,,,"",""
+ball,1,19.1,West Indies,KA Pollard,OF Smith,HV Patel,4,0,,,,,,"",""
+ball,1,19.2,West Indies,KA Pollard,OF Smith,HV Patel,1,0,,,,,,"",""
+ball,1,19.3,West Indies,OF Smith,KA Pollard,HV Patel,1,0,,,,,,"",""
+ball,1,19.4,West Indies,KA Pollard,OF Smith,HV Patel,1,0,,,,,,"",""
+ball,1,19.5,West Indies,OF Smith,KA Pollard,HV Patel,0,1,1,,,,,"",""
+ball,1,19.6,West Indies,OF Smith,KA Pollard,HV Patel,2,0,,,,,,"",""
+ball,1,19.7,West Indies,OF Smith,KA Pollard,HV Patel,0,0,,,,,,caught,OF Smith
+ball,2,0.1,India,RG Sharma,Ishan Kishan,SS Cottrell,1,0,,,,,,"",""
+ball,2,0.2,India,Ishan Kishan,RG Sharma,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.3,India,Ishan Kishan,RG Sharma,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.4,India,Ishan Kishan,RG Sharma,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.5,India,Ishan Kishan,RG Sharma,SS Cottrell,2,0,,,,,,"",""
+ball,2,0.6,India,Ishan Kishan,RG Sharma,SS Cottrell,0,0,,,,,,"",""
+ball,2,1.1,India,RG Sharma,Ishan Kishan,R Shepherd,0,0,,,,,,"",""
+ball,2,1.2,India,RG Sharma,Ishan Kishan,R Shepherd,1,0,,,,,,"",""
+ball,2,1.3,India,Ishan Kishan,RG Sharma,R Shepherd,1,0,,,,,,"",""
+ball,2,1.4,India,RG Sharma,Ishan Kishan,R Shepherd,0,0,,,,,,"",""
+ball,2,1.5,India,RG Sharma,Ishan Kishan,R Shepherd,0,0,,,,,,"",""
+ball,2,1.6,India,RG Sharma,Ishan Kishan,R Shepherd,6,0,,,,,,"",""
+ball,2,2.1,India,Ishan Kishan,RG Sharma,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.2,India,Ishan Kishan,RG Sharma,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.3,India,Ishan Kishan,RG Sharma,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.4,India,RG Sharma,Ishan Kishan,SS Cottrell,4,0,,,,,,"",""
+ball,2,2.5,India,RG Sharma,Ishan Kishan,SS Cottrell,0,1,1,,,,,"",""
+ball,2,2.6,India,RG Sharma,Ishan Kishan,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.7,India,Ishan Kishan,RG Sharma,SS Cottrell,4,0,,,,,,"",""
+ball,2,3.1,India,RG Sharma,Ishan Kishan,OF Smith,4,0,,,,,,"",""
+ball,2,3.2,India,RG Sharma,Ishan Kishan,OF Smith,1,0,,,,,,"",""
+ball,2,3.3,India,Ishan Kishan,RG Sharma,OF Smith,1,0,,,,,,"",""
+ball,2,3.4,India,RG Sharma,Ishan Kishan,OF Smith,6,0,,,,,,"",""
+ball,2,3.5,India,RG Sharma,Ishan Kishan,OF Smith,4,0,,,,,,"",""
+ball,2,3.6,India,RG Sharma,Ishan Kishan,OF Smith,6,0,,,,,,"",""
+ball,2,4.1,India,Ishan Kishan,RG Sharma,AJ Hosein,0,0,,,,,,"",""
+ball,2,4.2,India,Ishan Kishan,RG Sharma,AJ Hosein,4,0,,,,,,"",""
+ball,2,4.3,India,Ishan Kishan,RG Sharma,AJ Hosein,4,0,,,,,,"",""
+ball,2,4.4,India,Ishan Kishan,RG Sharma,AJ Hosein,1,0,,,,,,"",""
+ball,2,4.5,India,RG Sharma,Ishan Kishan,AJ Hosein,0,0,,,,,,"",""
+ball,2,4.6,India,RG Sharma,Ishan Kishan,AJ Hosein,4,0,,,,,,"",""
+ball,2,5.1,India,Ishan Kishan,RG Sharma,RL Chase,0,0,,,,,,"",""
+ball,2,5.2,India,Ishan Kishan,RG Sharma,RL Chase,0,0,,,,,,"",""
+ball,2,5.3,India,Ishan Kishan,RG Sharma,RL Chase,0,0,,,,,,"",""
+ball,2,5.4,India,Ishan Kishan,RG Sharma,RL Chase,0,0,,,,,,"",""
+ball,2,5.5,India,Ishan Kishan,RG Sharma,RL Chase,1,0,,,,,,"",""
+ball,2,5.6,India,RG Sharma,Ishan Kishan,RL Chase,0,0,,,,,,"",""
+ball,2,6.1,India,Ishan Kishan,RG Sharma,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.2,India,RG Sharma,Ishan Kishan,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.3,India,Ishan Kishan,RG Sharma,AJ Hosein,0,0,,,,,,"",""
+ball,2,6.4,India,Ishan Kishan,RG Sharma,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.5,India,RG Sharma,Ishan Kishan,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.6,India,Ishan Kishan,RG Sharma,AJ Hosein,1,0,,,,,,"",""
+ball,2,7.1,India,Ishan Kishan,RG Sharma,RL Chase,0,0,,,,,,"",""
+ball,2,7.2,India,Ishan Kishan,RG Sharma,RL Chase,1,0,,,,,,"",""
+ball,2,7.3,India,RG Sharma,Ishan Kishan,RL Chase,0,0,,,,,,caught,RG Sharma
+ball,2,7.4,India,V Kohli,Ishan Kishan,RL Chase,1,0,,,,,,"",""
+ball,2,7.5,India,Ishan Kishan,V Kohli,RL Chase,0,0,,,,,,"",""
+ball,2,7.6,India,Ishan Kishan,V Kohli,RL Chase,0,0,,,,,,"",""
+ball,2,8.1,India,V Kohli,Ishan Kishan,AJ Hosein,2,0,,,,,,"",""
+ball,2,8.2,India,V Kohli,Ishan Kishan,AJ Hosein,1,0,,,,,,"",""
+ball,2,8.3,India,Ishan Kishan,V Kohli,AJ Hosein,0,1,,,,1,,"",""
+ball,2,8.4,India,V Kohli,Ishan Kishan,AJ Hosein,2,0,,,,,,"",""
+ball,2,8.5,India,V Kohli,Ishan Kishan,AJ Hosein,1,0,,,,,,"",""
+ball,2,8.6,India,Ishan Kishan,V Kohli,AJ Hosein,1,0,,,,,,"",""
+ball,2,9.1,India,Ishan Kishan,V Kohli,RL Chase,0,0,,,,,,"",""
+ball,2,9.2,India,Ishan Kishan,V Kohli,RL Chase,1,0,,,,,,"",""
+ball,2,9.3,India,V Kohli,Ishan Kishan,RL Chase,1,0,,,,,,"",""
+ball,2,9.4,India,Ishan Kishan,V Kohli,RL Chase,4,0,,,,,,"",""
+ball,2,9.5,India,Ishan Kishan,V Kohli,RL Chase,0,0,,,,,,"",""
+ball,2,9.6,India,Ishan Kishan,V Kohli,RL Chase,1,0,,,,,,"",""
+ball,2,10.1,India,Ishan Kishan,V Kohli,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.2,India,V Kohli,Ishan Kishan,AJ Hosein,4,0,,,,,,"",""
+ball,2,10.3,India,V Kohli,Ishan Kishan,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.4,India,Ishan Kishan,V Kohli,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.5,India,V Kohli,Ishan Kishan,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.6,India,Ishan Kishan,V Kohli,AJ Hosein,1,0,,,,,,"",""
+ball,2,11.1,India,Ishan Kishan,V Kohli,RL Chase,0,0,,,,,,"",""
+ball,2,11.2,India,Ishan Kishan,V Kohli,RL Chase,1,0,,,,,,"",""
+ball,2,11.3,India,V Kohli,Ishan Kishan,RL Chase,1,0,,,,,,"",""
+ball,2,11.4,India,Ishan Kishan,V Kohli,RL Chase,1,0,,,,,,"",""
+ball,2,11.5,India,V Kohli,Ishan Kishan,RL Chase,1,0,,,,,,"",""
+ball,2,11.6,India,Ishan Kishan,V Kohli,RL Chase,0,0,,,,,,caught,Ishan Kishan
+ball,2,12.1,India,V Kohli,RR Pant,FA Allen,1,0,,,,,,"",""
+ball,2,12.2,India,RR Pant,V Kohli,FA Allen,1,0,,,,,,"",""
+ball,2,12.3,India,V Kohli,RR Pant,FA Allen,0,0,,,,,,caught,V Kohli
+ball,2,12.4,India,SA Yadav,RR Pant,FA Allen,4,0,,,,,,"",""
+ball,2,12.5,India,SA Yadav,RR Pant,FA Allen,4,0,,,,,,"",""
+ball,2,12.6,India,SA Yadav,RR Pant,FA Allen,0,0,,,,,,"",""
+ball,2,13.1,India,RR Pant,SA Yadav,OF Smith,2,0,,,,,,"",""
+ball,2,13.2,India,RR Pant,SA Yadav,OF Smith,2,0,,,,,,"",""
+ball,2,13.3,India,RR Pant,SA Yadav,OF Smith,0,0,,,,,,"",""
+ball,2,13.4,India,RR Pant,SA Yadav,OF Smith,1,0,,,,,,"",""
+ball,2,13.5,India,SA Yadav,RR Pant,OF Smith,4,0,,,,,,"",""
+ball,2,13.6,India,SA Yadav,RR Pant,OF Smith,0,0,,,,,,"",""
+ball,2,14.1,India,RR Pant,SA Yadav,SS Cottrell,0,0,,,,,,"",""
+ball,2,14.2,India,RR Pant,SA Yadav,SS Cottrell,2,0,,,,,,"",""
+ball,2,14.3,India,RR Pant,SA Yadav,SS Cottrell,0,0,,,,,,caught,RR Pant
+ball,2,14.4,India,VR Iyer,SA Yadav,SS Cottrell,4,0,,,,,,"",""
+ball,2,14.5,India,VR Iyer,SA Yadav,SS Cottrell,1,0,,,,,,"",""
+ball,2,14.6,India,SA Yadav,VR Iyer,SS Cottrell,1,0,,,,,,"",""
+ball,2,15.1,India,SA Yadav,VR Iyer,R Shepherd,0,0,,,,,,"",""
+ball,2,15.2,India,SA Yadav,VR Iyer,R Shepherd,0,0,,,,,,"",""
+ball,2,15.3,India,SA Yadav,VR Iyer,R Shepherd,0,1,1,,,,,"",""
+ball,2,15.4,India,SA Yadav,VR Iyer,R Shepherd,1,0,,,,,,"",""
+ball,2,15.5,India,VR Iyer,SA Yadav,R Shepherd,1,0,,,,,,"",""
+ball,2,15.6,India,SA Yadav,VR Iyer,R Shepherd,1,0,,,,,,"",""
+ball,2,15.7,India,VR Iyer,SA Yadav,R Shepherd,0,1,1,,,,,"",""
+ball,2,15.8,India,VR Iyer,SA Yadav,R Shepherd,1,0,,,,,,"",""
+ball,2,16.1,India,VR Iyer,SA Yadav,SS Cottrell,0,0,,,,,,"",""
+ball,2,16.2,India,VR Iyer,SA Yadav,SS Cottrell,1,0,,,,,,"",""
+ball,2,16.3,India,SA Yadav,VR Iyer,SS Cottrell,1,0,,,,,,"",""
+ball,2,16.4,India,VR Iyer,SA Yadav,SS Cottrell,1,0,,,,,,"",""
+ball,2,16.5,India,SA Yadav,VR Iyer,SS Cottrell,4,0,,,,,,"",""
+ball,2,16.6,India,SA Yadav,VR Iyer,SS Cottrell,6,0,,,,,,"",""
+ball,2,17.1,India,VR Iyer,SA Yadav,R Shepherd,1,0,,,,,,"",""
+ball,2,17.2,India,SA Yadav,VR Iyer,R Shepherd,1,0,,,,,,"",""
+ball,2,17.3,India,VR Iyer,SA Yadav,R Shepherd,2,0,,,,,,"",""
+ball,2,17.4,India,VR Iyer,SA Yadav,R Shepherd,1,0,,,,,,"",""
+ball,2,17.5,India,SA Yadav,VR Iyer,R Shepherd,1,0,,,,,,"",""
+ball,2,17.6,India,VR Iyer,SA Yadav,R Shepherd,4,0,,,,,,"",""
+ball,2,18.1,India,SA Yadav,VR Iyer,FA Allen,1,0,,,,,,"",""
+ball,2,18.2,India,VR Iyer,SA Yadav,FA Allen,1,0,,,,,,"",""
+ball,2,18.3,India,SA Yadav,VR Iyer,FA Allen,4,0,,,,,,"",""
+ball,2,18.4,India,SA Yadav,VR Iyer,FA Allen,1,0,,,,,,"",""
+ball,2,18.5,India,VR Iyer,SA Yadav,FA Allen,6,0,,,,,,"",""

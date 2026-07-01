@@ -1,0 +1,269 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Denmark
+info,gender,male
+info,season,2023
+info,date,2023/07/24
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,11
+info,venue,"Goldenacre, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,ND Laegsgaard
+info,umpire,DH Mclean
+info,umpire,N Bathi
+info,reserve_umpire,J Jensen
+info,match_referee,Phil Whitticase
+info,winner,Denmark
+info,winner_wickets,8
+info,player,Austria,N Wijesekera
+info,player,Austria,Iqbal Hossain
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,A Randhawa
+info,player,Austria,Shahil Momin
+info,player,Austria,MPS Cheema
+info,player,Austria,Jaweed Sadran
+info,player,Austria,Umair Tariq
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,Sahel Zadran
+info,player,Austria,A Nathwani
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,T Bharaj
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,SA Ahmad
+info,player,Denmark,JS Henriksen
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Surya Anand
+info,player,Denmark,Saud Munir
+info,player,Denmark,Saran Aslam
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,Lucky Ali
+info,registry,people,A Nathwani,f1c4f2ea
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,DH Mclean,281d4749
+info,registry,people,Iqbal Hossain,e1824e7d
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,JS Henriksen,2c6052a6
+info,registry,people,Jaweed Sadran,c1f05d1d
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,N Wijesekera,85dcc96d
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Saran Aslam,2a00735b
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Shahil Momin,46821fbd
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,Umair Tariq,67ec2b09
+ball,1,0.1,Austria,N Wijesekera,Iqbal Hossain,SA Ahmad,0,0,,,,,,"",""
+ball,1,0.2,Austria,N Wijesekera,Iqbal Hossain,SA Ahmad,1,0,,,,,,"",""
+ball,1,0.3,Austria,Iqbal Hossain,N Wijesekera,SA Ahmad,2,0,,,,,,"",""
+ball,1,0.4,Austria,Iqbal Hossain,N Wijesekera,SA Ahmad,6,0,,,,,,"",""
+ball,1,0.5,Austria,Iqbal Hossain,N Wijesekera,SA Ahmad,4,0,,,,,,"",""
+ball,1,0.6,Austria,Iqbal Hossain,N Wijesekera,SA Ahmad,4,0,,,,,,"",""
+ball,1,1.1,Austria,N Wijesekera,Iqbal Hossain,Surya Anand,0,0,,,,,,"",""
+ball,1,1.2,Austria,N Wijesekera,Iqbal Hossain,Surya Anand,0,0,,,,,,"",""
+ball,1,1.3,Austria,N Wijesekera,Iqbal Hossain,Surya Anand,0,0,,,,,,"",""
+ball,1,1.4,Austria,N Wijesekera,Iqbal Hossain,Surya Anand,0,0,,,,,,"",""
+ball,1,1.5,Austria,N Wijesekera,Iqbal Hossain,Surya Anand,1,0,,,,,,"",""
+ball,1,1.6,Austria,Iqbal Hossain,N Wijesekera,Surya Anand,4,0,,,,,,"",""
+ball,1,2.1,Austria,N Wijesekera,Iqbal Hossain,ND Laegsgaard,0,0,,,,,,bowled,N Wijesekera
+ball,1,2.2,Austria,Razmal Shigiwal,Iqbal Hossain,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,2.3,Austria,Razmal Shigiwal,Iqbal Hossain,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,2.4,Austria,Iqbal Hossain,Razmal Shigiwal,ND Laegsgaard,0,0,,,,,,lbw,Iqbal Hossain
+ball,1,2.5,Austria,A Randhawa,Razmal Shigiwal,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,2.6,Austria,Razmal Shigiwal,A Randhawa,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,3.1,Austria,A Randhawa,Razmal Shigiwal,Surya Anand,1,0,,,,,,"",""
+ball,1,3.2,Austria,Razmal Shigiwal,A Randhawa,Surya Anand,0,0,,,,,,"",""
+ball,1,3.3,Austria,Razmal Shigiwal,A Randhawa,Surya Anand,1,0,,,,,,"",""
+ball,1,3.4,Austria,A Randhawa,Razmal Shigiwal,Surya Anand,0,0,,,,,,"",""
+ball,1,3.5,Austria,A Randhawa,Razmal Shigiwal,Surya Anand,0,0,,,,,,"",""
+ball,1,3.6,Austria,A Randhawa,Razmal Shigiwal,Surya Anand,0,0,,,,,,"",""
+ball,1,4.1,Austria,Razmal Shigiwal,A Randhawa,ND Laegsgaard,4,0,,,,,,"",""
+ball,1,4.2,Austria,Razmal Shigiwal,A Randhawa,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,4.3,Austria,Razmal Shigiwal,A Randhawa,ND Laegsgaard,0,0,,,,,,caught and bowled,Razmal Shigiwal
+ball,1,4.4,Austria,Shahil Momin,A Randhawa,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,4.5,Austria,A Randhawa,Shahil Momin,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,4.6,Austria,A Randhawa,Shahil Momin,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,5.1,Austria,Shahil Momin,A Randhawa,Surya Anand,1,0,,,,,,"",""
+ball,1,5.2,Austria,A Randhawa,Shahil Momin,Surya Anand,0,0,,,,,,"",""
+ball,1,5.3,Austria,A Randhawa,Shahil Momin,Surya Anand,1,0,,,,,,"",""
+ball,1,5.4,Austria,Shahil Momin,A Randhawa,Surya Anand,0,0,,,,,,"",""
+ball,1,5.5,Austria,Shahil Momin,A Randhawa,Surya Anand,0,0,,,,,,"",""
+ball,1,5.6,Austria,Shahil Momin,A Randhawa,Surya Anand,0,0,,,,,,"",""
+ball,1,6.1,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,6.2,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,2,0,,,,,,"",""
+ball,1,6.3,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,1,1,,,,,"",""
+ball,1,6.4,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,6.5,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,6.6,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,6.7,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,7.1,Austria,Shahil Momin,A Randhawa,Surya Anand,2,0,,,,,,"",""
+ball,1,7.2,Austria,Shahil Momin,A Randhawa,Surya Anand,0,0,,,,,,"",""
+ball,1,7.3,Austria,Shahil Momin,A Randhawa,Surya Anand,1,0,,,,,,"",""
+ball,1,7.4,Austria,A Randhawa,Shahil Momin,Surya Anand,1,0,,,,,,"",""
+ball,1,7.5,Austria,Shahil Momin,A Randhawa,Surya Anand,1,0,,,,,,"",""
+ball,1,7.6,Austria,A Randhawa,Shahil Momin,Surya Anand,0,0,,,,,,"",""
+ball,1,8.1,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,8.2,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,8.3,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,8.4,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,8.5,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,8.6,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,9.1,Austria,A Randhawa,Shahil Momin,Saud Munir,1,0,,,,,,"",""
+ball,1,9.2,Austria,Shahil Momin,A Randhawa,Saud Munir,1,0,,,,,,"",""
+ball,1,9.3,Austria,A Randhawa,Shahil Momin,Saud Munir,1,0,,,,,,"",""
+ball,1,9.4,Austria,Shahil Momin,A Randhawa,Saud Munir,0,0,,,,,,"",""
+ball,1,9.5,Austria,Shahil Momin,A Randhawa,Saud Munir,1,0,,,,,,"",""
+ball,1,9.6,Austria,A Randhawa,Shahil Momin,Saud Munir,4,0,,,,,,"",""
+ball,1,10.1,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,10.2,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,10.3,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,10.4,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,10.5,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,10.6,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,11.1,Austria,A Randhawa,Shahil Momin,Saud Munir,1,0,,,,,,"",""
+ball,1,11.2,Austria,Shahil Momin,A Randhawa,Saud Munir,1,0,,,,,,"",""
+ball,1,11.3,Austria,A Randhawa,Shahil Momin,Saud Munir,2,0,,,,,,"",""
+ball,1,11.4,Austria,A Randhawa,Shahil Momin,Saud Munir,1,0,,,,,,"",""
+ball,1,11.5,Austria,Shahil Momin,A Randhawa,Saud Munir,0,1,,,,1,,"",""
+ball,1,11.6,Austria,A Randhawa,Shahil Momin,Saud Munir,1,0,,,,,,"",""
+ball,1,12.1,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,12.2,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,12.3,Austria,A Randhawa,Shahil Momin,Abdullah Mahmood,1,0,,,,,,"",""
+ball,1,12.4,Austria,Shahil Momin,A Randhawa,Abdullah Mahmood,0,0,,,,,,caught,Shahil Momin
+ball,1,12.5,Austria,MPS Cheema,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,12.6,Austria,MPS Cheema,A Randhawa,Abdullah Mahmood,0,0,,,,,,"",""
+ball,1,13.1,Austria,A Randhawa,MPS Cheema,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,13.2,Austria,MPS Cheema,A Randhawa,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,13.3,Austria,A Randhawa,MPS Cheema,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,13.4,Austria,A Randhawa,MPS Cheema,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,13.5,Austria,A Randhawa,MPS Cheema,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,13.6,Austria,MPS Cheema,A Randhawa,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,14.1,Austria,MPS Cheema,A Randhawa,SA Ahmad,0,0,,,,,,"",""
+ball,1,14.2,Austria,MPS Cheema,A Randhawa,SA Ahmad,1,0,,,,,,"",""
+ball,1,14.3,Austria,A Randhawa,MPS Cheema,SA Ahmad,0,0,,,,,,"",""
+ball,1,14.4,Austria,A Randhawa,MPS Cheema,SA Ahmad,1,0,,,,,,"",""
+ball,1,14.5,Austria,MPS Cheema,A Randhawa,SA Ahmad,1,0,,,,,,"",""
+ball,1,14.6,Austria,A Randhawa,MPS Cheema,SA Ahmad,0,0,,,,,,"",""
+ball,1,15.1,Austria,MPS Cheema,A Randhawa,ND Laegsgaard,4,0,,,,,,"",""
+ball,1,15.2,Austria,MPS Cheema,A Randhawa,ND Laegsgaard,0,0,,,,,,caught and bowled,MPS Cheema
+ball,1,15.3,Austria,Jaweed Sadran,A Randhawa,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,15.4,Austria,Jaweed Sadran,A Randhawa,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,15.5,Austria,Jaweed Sadran,A Randhawa,ND Laegsgaard,4,0,,,,,,"",""
+ball,1,15.6,Austria,Jaweed Sadran,A Randhawa,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,16.1,Austria,A Randhawa,Jaweed Sadran,SA Ahmad,0,0,,,,,,"",""
+ball,1,16.2,Austria,A Randhawa,Jaweed Sadran,SA Ahmad,1,0,,,,,,"",""
+ball,1,16.3,Austria,Jaweed Sadran,A Randhawa,SA Ahmad,0,0,,,,,,caught,Jaweed Sadran
+ball,1,16.4,Austria,Umair Tariq,A Randhawa,SA Ahmad,1,0,,,,,,"",""
+ball,1,16.5,Austria,A Randhawa,Umair Tariq,SA Ahmad,1,0,,,,,,"",""
+ball,1,16.6,Austria,Umair Tariq,A Randhawa,SA Ahmad,1,0,,,,,,"",""
+ball,1,17.1,Austria,Umair Tariq,A Randhawa,Saud Munir,1,0,,,,,,"",""
+ball,1,17.2,Austria,A Randhawa,Umair Tariq,Saud Munir,1,0,,,,,,"",""
+ball,1,17.3,Austria,Umair Tariq,A Randhawa,Saud Munir,0,0,,,,,,"",""
+ball,1,17.4,Austria,Umair Tariq,A Randhawa,Saud Munir,0,0,,,,,,"",""
+ball,1,17.5,Austria,Umair Tariq,A Randhawa,Saud Munir,0,0,,,,,,caught and bowled,Umair Tariq
+ball,1,17.6,Austria,Abdullah Akbarjan,A Randhawa,Saud Munir,1,0,,,,,,"",""
+ball,1,18.1,Austria,Abdullah Akbarjan,A Randhawa,SA Ahmad,1,0,,,,,,"",""
+ball,1,18.2,Austria,A Randhawa,Abdullah Akbarjan,SA Ahmad,1,0,,,,,,"",""
+ball,1,18.3,Austria,Abdullah Akbarjan,A Randhawa,SA Ahmad,1,0,,,,,,"",""
+ball,1,18.4,Austria,A Randhawa,Abdullah Akbarjan,SA Ahmad,0,0,,,,,,"",""
+ball,1,18.5,Austria,A Randhawa,Abdullah Akbarjan,SA Ahmad,0,1,,,1,,,"",""
+ball,1,18.6,Austria,Abdullah Akbarjan,A Randhawa,SA Ahmad,4,0,,,,,,"",""
+ball,1,19.1,Austria,A Randhawa,Abdullah Akbarjan,Saud Munir,0,0,,,,,,"",""
+ball,1,19.2,Austria,A Randhawa,Abdullah Akbarjan,Saud Munir,0,0,,,,,,"",""
+ball,1,19.3,Austria,A Randhawa,Abdullah Akbarjan,Saud Munir,0,0,,,,,,"",""
+ball,1,19.4,Austria,A Randhawa,Abdullah Akbarjan,Saud Munir,0,0,,,,,,caught,A Randhawa
+ball,1,19.5,Austria,Sahel Zadran,Abdullah Akbarjan,Saud Munir,0,0,,,,,,"",""
+ball,1,19.6,Austria,Sahel Zadran,Abdullah Akbarjan,Saud Munir,0,0,,,,,,caught,Sahel Zadran
+ball,2,0.1,Denmark,ND Laegsgaard,T Bharaj,A Nathwani,0,0,,,,,,"",""
+ball,2,0.2,Denmark,ND Laegsgaard,T Bharaj,A Nathwani,2,0,,,,,,"",""
+ball,2,0.3,Denmark,ND Laegsgaard,T Bharaj,A Nathwani,0,0,,,,,,lbw,ND Laegsgaard
+ball,2,0.4,Denmark,Abdul Hashim,T Bharaj,A Nathwani,2,0,,,,,,"",""
+ball,2,0.5,Denmark,Abdul Hashim,T Bharaj,A Nathwani,0,0,,,,,,"",""
+ball,2,0.6,Denmark,Abdul Hashim,T Bharaj,A Nathwani,1,0,,,,,,"",""
+ball,2,1.1,Denmark,Abdul Hashim,T Bharaj,Umair Tariq,1,0,,,,,,"",""
+ball,2,1.2,Denmark,T Bharaj,Abdul Hashim,Umair Tariq,4,0,,,,,,"",""
+ball,2,1.3,Denmark,T Bharaj,Abdul Hashim,Umair Tariq,0,0,,,,,,"",""
+ball,2,1.4,Denmark,T Bharaj,Abdul Hashim,Umair Tariq,4,0,,,,,,"",""
+ball,2,1.5,Denmark,T Bharaj,Abdul Hashim,Umair Tariq,0,0,,,,,,"",""
+ball,2,1.6,Denmark,T Bharaj,Abdul Hashim,Umair Tariq,0,0,,,,,,bowled,T Bharaj
+ball,2,2.1,Denmark,Abdul Hashim,SA Ahmad,A Nathwani,1,0,,,,,,"",""
+ball,2,2.2,Denmark,SA Ahmad,Abdul Hashim,A Nathwani,0,0,,,,,,"",""
+ball,2,2.3,Denmark,SA Ahmad,Abdul Hashim,A Nathwani,4,0,,,,,,"",""
+ball,2,2.4,Denmark,SA Ahmad,Abdul Hashim,A Nathwani,4,0,,,,,,"",""
+ball,2,2.5,Denmark,SA Ahmad,Abdul Hashim,A Nathwani,4,0,,,,,,"",""
+ball,2,2.6,Denmark,SA Ahmad,Abdul Hashim,A Nathwani,1,0,,,,,,"",""
+ball,2,3.1,Denmark,SA Ahmad,Abdul Hashim,Umair Tariq,4,0,,,,,,"",""
+ball,2,3.2,Denmark,SA Ahmad,Abdul Hashim,Umair Tariq,0,1,1,,,,,"",""
+ball,2,3.3,Denmark,SA Ahmad,Abdul Hashim,Umair Tariq,6,0,,,,,,"",""
+ball,2,3.4,Denmark,SA Ahmad,Abdul Hashim,Umair Tariq,0,1,1,,,,,"",""
+ball,2,3.5,Denmark,SA Ahmad,Abdul Hashim,Umair Tariq,1,0,,,,,,"",""
+ball,2,3.6,Denmark,Abdul Hashim,SA Ahmad,Umair Tariq,0,0,,,,,,"",""
+ball,2,3.7,Denmark,Abdul Hashim,SA Ahmad,Umair Tariq,0,0,,,,,,"",""
+ball,2,3.8,Denmark,Abdul Hashim,SA Ahmad,Umair Tariq,0,1,1,,,,,"",""
+ball,2,3.9,Denmark,Abdul Hashim,SA Ahmad,Umair Tariq,0,0,,,,,,"",""
+ball,2,4.1,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,0,1,1,,,,,"",""
+ball,2,4.2,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,0,0,,,,,,"",""
+ball,2,4.3,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,0,0,,,,,,"",""
+ball,2,4.4,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,0,0,,,,,,"",""
+ball,2,4.5,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,0,0,,,,,,"",""
+ball,2,4.6,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,0,0,,,,,,"",""
+ball,2,4.7,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,0,0,,,,,,"",""
+ball,2,5.1,Denmark,Abdul Hashim,SA Ahmad,Sahel Zadran,0,0,,,,,,"",""
+ball,2,5.2,Denmark,Abdul Hashim,SA Ahmad,Sahel Zadran,4,0,,,,,,"",""
+ball,2,5.3,Denmark,Abdul Hashim,SA Ahmad,Sahel Zadran,4,0,,,,,,"",""
+ball,2,5.4,Denmark,Abdul Hashim,SA Ahmad,Sahel Zadran,4,0,,,,,,"",""
+ball,2,5.5,Denmark,Abdul Hashim,SA Ahmad,Sahel Zadran,0,0,,,,,,"",""
+ball,2,5.6,Denmark,Abdul Hashim,SA Ahmad,Sahel Zadran,0,0,,,,,,"",""
+ball,2,6.1,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,2,0,,,,,,"",""
+ball,2,6.2,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,1,0,,,,,,"",""
+ball,2,6.3,Denmark,Abdul Hashim,SA Ahmad,Shahil Momin,0,0,,,,,,"",""
+ball,2,6.4,Denmark,Abdul Hashim,SA Ahmad,Shahil Momin,4,0,,,,,,"",""
+ball,2,6.5,Denmark,Abdul Hashim,SA Ahmad,Shahil Momin,0,1,,,,1,,"",""
+ball,2,6.6,Denmark,SA Ahmad,Abdul Hashim,Shahil Momin,1,0,,,,,,"",""
+ball,2,7.1,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,4,0,,,,,,"",""
+ball,2,7.2,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,7.3,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,7.4,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,7.5,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,7.6,Denmark,Abdul Hashim,SA Ahmad,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,8.1,Denmark,Abdul Hashim,SA Ahmad,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,8.2,Denmark,Abdul Hashim,SA Ahmad,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,8.3,Denmark,Abdul Hashim,SA Ahmad,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,8.4,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,8.5,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,2,0,,,,,,"",""
+ball,2,8.6,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,9.1,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,9.2,Denmark,Abdul Hashim,SA Ahmad,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,9.3,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,9.4,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,4,0,,,,,,"",""
+ball,2,9.5,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,9.6,Denmark,Abdul Hashim,SA Ahmad,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,10.1,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,10.2,Denmark,Abdul Hashim,SA Ahmad,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,10.3,Denmark,Abdul Hashim,SA Ahmad,Jaweed Sadran,4,0,,,,,,"",""
+ball,2,10.4,Denmark,Abdul Hashim,SA Ahmad,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,10.5,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,10.6,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,11.1,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,2,0,,,,,,"",""
+ball,2,11.2,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,11.3,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,4,0,,,,,,"",""
+ball,2,11.4,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,11.5,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,11.6,Denmark,SA Ahmad,Abdul Hashim,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,12.1,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,12.2,Denmark,Abdul Hashim,SA Ahmad,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,12.3,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,12.4,Denmark,SA Ahmad,Abdul Hashim,Jaweed Sadran,1,0,,,,,,"",""

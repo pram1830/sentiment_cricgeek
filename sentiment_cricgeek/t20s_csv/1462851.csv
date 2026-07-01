@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,China
+info,gender,female
+info,season,2024/25
+info,date,2024/12/04
+info,event,Women's T20 Quadrangular Series (in Hong Kong)
+info,match_number,2
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,China
+info,toss_decision,field
+info,player_of_match,M Hill
+info,umpire,John Prakash
+info,umpire,Tabarak Dar
+info,reserve_umpire,Sun Meng Yao
+info,match_referee,G Sankaranarayanan
+info,winner,Hong Kong
+info,winner_runs,108
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,M Wai Siu
+info,player,Hong Kong,SYD Chan
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Fatima Amir
+info,player,China,Xu Qian
+info,player,China,Zi Mei
+info,player,China,Jing Yang
+info,player,China,Yan Zuying
+info,player,China,Gong Yuting
+info,player,China,Cai Yuzhi
+info,player,China,Mengting Liu
+info,player,China,Jiaping Li
+info,player,China,Wei Haiting
+info,player,China,Wang Huiying
+info,player,China,Ma Ruike
+info,registry,people,Cai Yuzhi,80d30c5f
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,Fatima Amir,ba05b211
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,Gong Yuting,edcd847a
+info,registry,people,Jiaping Li,35cac794
+info,registry,people,Jing Yang,03f1a623
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,Ma Ruike,8ccef7e2
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,SYD Chan,4839b023
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Wang Huiying,c84a3e06
+info,registry,people,Wei Haiting,a1e30490
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Y Daswani,2038a273
+info,registry,people,Yan Zuying,0311d9ec
+info,registry,people,Zi Mei,72070f05
+ball,1,0.1,Hong Kong,NT Miles,M Hill,Xu Qian,0,0,,,,,,"",""
+ball,1,0.2,Hong Kong,NT Miles,M Hill,Xu Qian,0,0,,,,,,"",""
+ball,1,0.3,Hong Kong,NT Miles,M Hill,Xu Qian,1,0,,,,,,"",""
+ball,1,0.4,Hong Kong,M Hill,NT Miles,Xu Qian,0,0,,,,,,"",""
+ball,1,0.5,Hong Kong,M Hill,NT Miles,Xu Qian,2,0,,,,,,"",""
+ball,1,0.6,Hong Kong,M Hill,NT Miles,Xu Qian,0,0,,,,,,"",""
+ball,1,1.1,Hong Kong,NT Miles,M Hill,Mengting Liu,1,0,,,,,,"",""
+ball,1,1.2,Hong Kong,M Hill,NT Miles,Mengting Liu,2,0,,,,,,"",""
+ball,1,1.3,Hong Kong,M Hill,NT Miles,Mengting Liu,0,0,,,,,,"",""
+ball,1,1.4,Hong Kong,M Hill,NT Miles,Mengting Liu,0,0,,,,,,"",""
+ball,1,1.5,Hong Kong,M Hill,NT Miles,Mengting Liu,0,0,,,,,,"",""
+ball,1,1.6,Hong Kong,M Hill,NT Miles,Mengting Liu,0,0,,,,,,"",""
+ball,1,2.1,Hong Kong,NT Miles,M Hill,Xu Qian,0,0,,,,,,"",""
+ball,1,2.2,Hong Kong,NT Miles,M Hill,Xu Qian,0,0,,,,,,"",""
+ball,1,2.3,Hong Kong,NT Miles,M Hill,Xu Qian,0,0,,,,,,"",""
+ball,1,2.4,Hong Kong,NT Miles,M Hill,Xu Qian,4,0,,,,,,"",""
+ball,1,2.5,Hong Kong,NT Miles,M Hill,Xu Qian,1,0,,,,,,"",""
+ball,1,2.6,Hong Kong,M Hill,NT Miles,Xu Qian,0,0,,,,,,"",""
+ball,1,3.1,Hong Kong,NT Miles,M Hill,Wang Huiying,2,0,,,,,,"",""
+ball,1,3.2,Hong Kong,NT Miles,M Hill,Wang Huiying,0,0,,,,,,"",""
+ball,1,3.3,Hong Kong,NT Miles,M Hill,Wang Huiying,0,0,,,,,,"",""
+ball,1,3.4,Hong Kong,NT Miles,M Hill,Wang Huiying,0,0,,,,,,caught,NT Miles
+ball,1,3.5,Hong Kong,Shanzeen Shahzad,M Hill,Wang Huiying,0,1,1,,,,,"",""
+ball,1,3.6,Hong Kong,Shanzeen Shahzad,M Hill,Wang Huiying,0,0,,,,,,"",""
+ball,1,3.7,Hong Kong,Shanzeen Shahzad,M Hill,Wang Huiying,0,0,,,,,,"",""
+ball,1,4.1,Hong Kong,M Hill,Shanzeen Shahzad,Ma Ruike,4,0,,,,,,"",""
+ball,1,4.2,Hong Kong,M Hill,Shanzeen Shahzad,Ma Ruike,1,0,,,,,,"",""
+ball,1,4.3,Hong Kong,Shanzeen Shahzad,M Hill,Ma Ruike,0,0,,,,,,caught,Shanzeen Shahzad
+ball,1,4.4,Hong Kong,KY Chan,M Hill,Ma Ruike,1,0,,,,,,"",""
+ball,1,4.5,Hong Kong,M Hill,KY Chan,Ma Ruike,4,0,,,,,,"",""
+ball,1,4.6,Hong Kong,M Hill,KY Chan,Ma Ruike,0,1,1,,,,,"",""
+ball,1,4.7,Hong Kong,M Hill,KY Chan,Ma Ruike,4,0,,,,,,"",""
+ball,1,5.1,Hong Kong,KY Chan,M Hill,Wang Huiying,2,0,,,,,,"",""
+ball,1,5.2,Hong Kong,KY Chan,M Hill,Wang Huiying,1,0,,,,,,"",""
+ball,1,5.3,Hong Kong,M Hill,KY Chan,Wang Huiying,0,0,,,,,,"",""
+ball,1,5.4,Hong Kong,M Hill,KY Chan,Wang Huiying,0,0,,,,,,"",""
+ball,1,5.5,Hong Kong,M Hill,KY Chan,Wang Huiying,0,0,,,,,,"",""
+ball,1,5.6,Hong Kong,M Hill,KY Chan,Wang Huiying,4,0,,,,,,"",""
+ball,1,6.1,Hong Kong,KY Chan,M Hill,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,6.2,Hong Kong,M Hill,KY Chan,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,6.3,Hong Kong,M Hill,KY Chan,Cai Yuzhi,2,0,,,,,,"",""
+ball,1,6.4,Hong Kong,M Hill,KY Chan,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,6.5,Hong Kong,M Hill,KY Chan,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,6.6,Hong Kong,M Hill,KY Chan,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,7.1,Hong Kong,M Hill,KY Chan,Mengting Liu,4,0,,,,,,"",""
+ball,1,7.2,Hong Kong,M Hill,KY Chan,Mengting Liu,0,0,,,,,,"",""
+ball,1,7.3,Hong Kong,M Hill,KY Chan,Mengting Liu,1,0,,,,,,"",""
+ball,1,7.4,Hong Kong,KY Chan,M Hill,Mengting Liu,1,0,,,,,,"",""
+ball,1,7.5,Hong Kong,M Hill,KY Chan,Mengting Liu,0,0,,,,,,"",""
+ball,1,7.6,Hong Kong,M Hill,KY Chan,Mengting Liu,0,0,,,,,,"",""
+ball,1,8.1,Hong Kong,KY Chan,M Hill,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,8.2,Hong Kong,KY Chan,M Hill,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,8.3,Hong Kong,KY Chan,M Hill,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,8.4,Hong Kong,KY Chan,M Hill,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,8.5,Hong Kong,M Hill,KY Chan,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,8.6,Hong Kong,KY Chan,M Hill,Cai Yuzhi,2,0,,,,,,"",""
+ball,1,9.1,Hong Kong,M Hill,KY Chan,Wang Huiying,1,0,,,,,,"",""
+ball,1,9.2,Hong Kong,KY Chan,M Hill,Wang Huiying,1,0,,,,,,"",""
+ball,1,9.3,Hong Kong,M Hill,KY Chan,Wang Huiying,1,0,,,,,,"",""
+ball,1,9.4,Hong Kong,KY Chan,M Hill,Wang Huiying,4,0,,,,,,"",""
+ball,1,9.5,Hong Kong,KY Chan,M Hill,Wang Huiying,1,0,,,,,,"",""
+ball,1,9.6,Hong Kong,M Hill,KY Chan,Wang Huiying,0,0,,,,,,"",""
+ball,1,10.1,Hong Kong,KY Chan,M Hill,Xu Qian,0,0,,,,,,"",""
+ball,1,10.2,Hong Kong,KY Chan,M Hill,Xu Qian,1,0,,,,,,"",""
+ball,1,10.3,Hong Kong,M Hill,KY Chan,Xu Qian,1,0,,,,,,"",""
+ball,1,10.4,Hong Kong,KY Chan,M Hill,Xu Qian,1,0,,,,,,"",""
+ball,1,10.5,Hong Kong,M Hill,KY Chan,Xu Qian,2,0,,,,,,"",""
+ball,1,10.6,Hong Kong,M Hill,KY Chan,Xu Qian,0,0,,,,,,"",""
+ball,1,11.1,Hong Kong,KY Chan,M Hill,Mengting Liu,4,0,,,,,,"",""
+ball,1,11.2,Hong Kong,KY Chan,M Hill,Mengting Liu,0,0,,,,,,"",""
+ball,1,11.3,Hong Kong,KY Chan,M Hill,Mengting Liu,1,0,,,,,,"",""
+ball,1,11.4,Hong Kong,M Hill,KY Chan,Mengting Liu,6,0,,,,,,"",""
+ball,1,11.5,Hong Kong,M Hill,KY Chan,Mengting Liu,1,0,,,,,,"",""
+ball,1,11.6,Hong Kong,KY Chan,M Hill,Mengting Liu,1,0,,,,,,"",""
+ball,1,12.1,Hong Kong,KY Chan,M Hill,Wei Haiting,0,1,1,,,,,"",""
+ball,1,12.2,Hong Kong,KY Chan,M Hill,Wei Haiting,0,1,1,,,,,"",""
+ball,1,12.3,Hong Kong,KY Chan,M Hill,Wei Haiting,0,1,1,,,,,"",""
+ball,1,12.4,Hong Kong,KY Chan,M Hill,Wei Haiting,1,0,,,,,,"",""
+ball,1,12.5,Hong Kong,M Hill,KY Chan,Wei Haiting,1,0,,,,,,"",""
+ball,1,12.6,Hong Kong,KY Chan,M Hill,Wei Haiting,1,0,,,,,,"",""
+ball,1,12.7,Hong Kong,M Hill,KY Chan,Wei Haiting,4,1,,1,,,,"",""
+ball,1,12.8,Hong Kong,M Hill,KY Chan,Wei Haiting,0,0,,,,,,"",""
+ball,1,12.9,Hong Kong,M Hill,KY Chan,Wei Haiting,4,0,,,,,,"",""
+ball,1,12.10,Hong Kong,M Hill,KY Chan,Wei Haiting,4,0,,,,,,"",""
+ball,1,13.1,Hong Kong,KY Chan,M Hill,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,13.2,Hong Kong,KY Chan,M Hill,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,13.3,Hong Kong,M Hill,KY Chan,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,13.4,Hong Kong,KY Chan,M Hill,Cai Yuzhi,4,0,,,,,,"",""
+ball,1,13.5,Hong Kong,KY Chan,M Hill,Cai Yuzhi,4,0,,,,,,"",""
+ball,1,13.6,Hong Kong,KY Chan,M Hill,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,14.1,Hong Kong,KY Chan,M Hill,Mengting Liu,2,0,,,,,,"",""
+ball,1,14.2,Hong Kong,KY Chan,M Hill,Mengting Liu,1,0,,,,,,"",""
+ball,1,14.3,Hong Kong,M Hill,KY Chan,Mengting Liu,0,0,,,,,,"",""
+ball,1,14.4,Hong Kong,M Hill,KY Chan,Mengting Liu,6,0,,,,,,"",""
+ball,1,14.5,Hong Kong,M Hill,KY Chan,Mengting Liu,0,0,,,,,,"",""
+ball,1,14.6,Hong Kong,M Hill,KY Chan,Mengting Liu,1,0,,,,,,"",""
+ball,1,15.1,Hong Kong,M Hill,KY Chan,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,15.2,Hong Kong,KY Chan,M Hill,Cai Yuzhi,6,0,,,,,,"",""
+ball,1,15.3,Hong Kong,KY Chan,M Hill,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,15.4,Hong Kong,KY Chan,M Hill,Cai Yuzhi,0,1,1,,,,,"",""
+ball,1,15.5,Hong Kong,KY Chan,M Hill,Cai Yuzhi,0,1,,,1,,,"",""
+ball,1,15.6,Hong Kong,M Hill,KY Chan,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,15.7,Hong Kong,KY Chan,M Hill,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,16.1,Hong Kong,KY Chan,M Hill,Ma Ruike,1,0,,,,,,"",""
+ball,1,16.2,Hong Kong,M Hill,KY Chan,Ma Ruike,0,1,,1,,,,"",""
+ball,1,16.3,Hong Kong,M Hill,KY Chan,Ma Ruike,1,0,,,,,,"",""
+ball,1,16.4,Hong Kong,KY Chan,M Hill,Ma Ruike,1,0,,,,,,"",""
+ball,1,16.5,Hong Kong,M Hill,KY Chan,Ma Ruike,0,1,1,,,,,"",""
+ball,1,16.6,Hong Kong,M Hill,KY Chan,Ma Ruike,4,0,,,,,,"",""
+ball,1,16.7,Hong Kong,M Hill,KY Chan,Ma Ruike,4,0,,,,,,"",""
+ball,1,16.8,Hong Kong,M Hill,KY Chan,Ma Ruike,4,0,,,,,,"",""
+ball,1,17.1,Hong Kong,KY Chan,M Hill,Wang Huiying,1,0,,,,,,"",""
+ball,1,17.2,Hong Kong,M Hill,KY Chan,Wang Huiying,0,0,,,,,,"",""
+ball,1,17.3,Hong Kong,M Hill,KY Chan,Wang Huiying,4,0,,,,,,"",""
+ball,1,17.4,Hong Kong,M Hill,KY Chan,Wang Huiying,6,0,,,,,,"",""
+ball,1,17.5,Hong Kong,M Hill,KY Chan,Wang Huiying,6,0,,,,,,"",""
+ball,1,17.6,Hong Kong,M Hill,KY Chan,Wang Huiying,1,0,,,,,,"",""
+ball,1,18.1,Hong Kong,M Hill,KY Chan,Ma Ruike,1,0,,,,,,"",""
+ball,1,18.2,Hong Kong,KY Chan,M Hill,Ma Ruike,1,0,,,,,,"",""
+ball,1,18.3,Hong Kong,M Hill,KY Chan,Ma Ruike,0,0,,,,,,"",""
+ball,1,18.4,Hong Kong,M Hill,KY Chan,Ma Ruike,0,0,,,,,,"",""
+ball,1,18.5,Hong Kong,M Hill,KY Chan,Ma Ruike,1,0,,,,,,"",""
+ball,1,18.6,Hong Kong,KY Chan,M Hill,Ma Ruike,0,0,,,,,,"",""
+ball,1,19.1,Hong Kong,M Hill,KY Chan,Xu Qian,1,0,,,,,,"",""
+ball,1,19.2,Hong Kong,KY Chan,M Hill,Xu Qian,2,0,,,,,,"",""
+ball,1,19.3,Hong Kong,KY Chan,M Hill,Xu Qian,1,0,,,,,,"",""
+ball,1,19.4,Hong Kong,M Hill,KY Chan,Xu Qian,4,0,,,,,,"",""
+ball,1,19.5,Hong Kong,M Hill,KY Chan,Xu Qian,4,0,,,,,,"",""
+ball,1,19.6,Hong Kong,M Hill,KY Chan,Xu Qian,0,0,,,,,,bowled,M Hill
+ball,2,0.1,China,Xu Qian,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,0.2,China,Xu Qian,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,0.3,China,Xu Qian,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,0.4,China,Xu Qian,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,0.5,China,Xu Qian,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,0.6,China,Xu Qian,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,1.1,China,Zi Mei,Xu Qian,KY Chan,1,0,,,,,,"",""
+ball,2,1.2,China,Xu Qian,Zi Mei,KY Chan,0,0,,,,,,"",""
+ball,2,1.3,China,Xu Qian,Zi Mei,KY Chan,0,0,,,,,,"",""
+ball,2,1.4,China,Xu Qian,Zi Mei,KY Chan,0,0,,,,,,caught,Xu Qian
+ball,2,1.5,China,Jing Yang,Zi Mei,KY Chan,0,0,,,,,,"",""
+ball,2,1.6,China,Jing Yang,Zi Mei,KY Chan,1,0,,,,,,"",""
+ball,2,2.1,China,Jing Yang,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,2.2,China,Jing Yang,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,2.3,China,Jing Yang,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,2.4,China,Jing Yang,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,2.5,China,Jing Yang,Zi Mei,M Wai Siu,0,0,,,,,,caught,Jing Yang
+ball,2,2.6,China,Yan Zuying,Zi Mei,M Wai Siu,0,0,,,,,,"",""
+ball,2,3.1,China,Zi Mei,Yan Zuying,KY Chan,0,1,1,,,,,"",""
+ball,2,3.2,China,Zi Mei,Yan Zuying,KY Chan,0,0,,,,,,"",""
+ball,2,3.3,China,Zi Mei,Yan Zuying,KY Chan,2,0,,,,,,"",""
+ball,2,3.4,China,Zi Mei,Yan Zuying,KY Chan,1,0,,,,,,"",""
+ball,2,3.5,China,Yan Zuying,Zi Mei,KY Chan,0,0,,,,,,lbw,Yan Zuying
+ball,2,3.6,China,Gong Yuting,Zi Mei,KY Chan,1,0,,,,,,"",""
+ball,2,3.7,China,Zi Mei,Gong Yuting,KY Chan,1,0,,,,,,"",""
+ball,2,4.1,China,Zi Mei,Gong Yuting,M Wai Siu,4,0,,,,,,"",""
+ball,2,4.2,China,Zi Mei,Gong Yuting,M Wai Siu,0,0,,,,,,"",""
+ball,2,4.3,China,Zi Mei,Gong Yuting,M Wai Siu,0,0,,,,,,"",""
+ball,2,4.4,China,Zi Mei,Gong Yuting,M Wai Siu,0,0,,,,,,bowled,Zi Mei
+ball,2,4.5,China,Cai Yuzhi,Gong Yuting,M Wai Siu,0,0,,,,,,"",""
+ball,2,4.6,China,Cai Yuzhi,Gong Yuting,M Wai Siu,0,0,,,,,,"",""
+ball,2,5.1,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,"",""
+ball,2,5.2,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,"",""
+ball,2,5.3,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,1,0,,,,,,"",""
+ball,2,5.4,China,Cai Yuzhi,Gong Yuting,Chan Ka Man,0,0,,,,,,"",""
+ball,2,5.5,China,Cai Yuzhi,Gong Yuting,Chan Ka Man,0,0,,,,,,"",""
+ball,2,5.6,China,Cai Yuzhi,Gong Yuting,Chan Ka Man,0,0,,,,,,"",""
+ball,2,6.1,China,Gong Yuting,Cai Yuzhi,SYD Chan,1,0,,,,,,"",""
+ball,2,6.2,China,Cai Yuzhi,Gong Yuting,SYD Chan,0,0,,,,,,"",""
+ball,2,6.3,China,Cai Yuzhi,Gong Yuting,SYD Chan,4,0,,,,,,"",""
+ball,2,6.4,China,Cai Yuzhi,Gong Yuting,SYD Chan,0,0,,,,,,"",""
+ball,2,6.5,China,Cai Yuzhi,Gong Yuting,SYD Chan,4,0,,,,,,"",""
+ball,2,6.6,China,Cai Yuzhi,Gong Yuting,SYD Chan,1,0,,,,,,"",""
+ball,2,7.1,China,Cai Yuzhi,Gong Yuting,Chan Ka Man,1,0,,,,,,"",""
+ball,2,7.2,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,4,0,,,,,,"",""
+ball,2,7.3,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,1,0,,,,,,"",""
+ball,2,7.4,China,Cai Yuzhi,Gong Yuting,Chan Ka Man,1,0,,,,,,"",""
+ball,2,7.5,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,"",""
+ball,2,7.6,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,"",""
+ball,2,8.1,China,Cai Yuzhi,Gong Yuting,SYD Chan,0,0,,,,,,"",""
+ball,2,8.2,China,Cai Yuzhi,Gong Yuting,SYD Chan,0,0,,,,,,"",""
+ball,2,8.3,China,Cai Yuzhi,Gong Yuting,SYD Chan,0,0,,,,,,"",""
+ball,2,8.4,China,Cai Yuzhi,Gong Yuting,SYD Chan,0,0,,,,,,"",""
+ball,2,8.5,China,Cai Yuzhi,Gong Yuting,SYD Chan,1,0,,,,,,"",""
+ball,2,8.6,China,Gong Yuting,Cai Yuzhi,SYD Chan,0,1,1,,,,,"",""
+ball,2,8.7,China,Gong Yuting,Cai Yuzhi,SYD Chan,0,0,,,,,,"",""
+ball,2,9.1,China,Cai Yuzhi,Gong Yuting,Chan Ka Man,0,0,,,,,,"",""
+ball,2,9.2,China,Cai Yuzhi,Gong Yuting,Chan Ka Man,1,0,,,,,,"",""
+ball,2,9.3,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,"",""
+ball,2,9.4,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,"",""
+ball,2,9.5,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,"",""
+ball,2,9.6,China,Gong Yuting,Cai Yuzhi,Chan Ka Man,0,0,,,,,,caught,Gong Yuting
+ball,2,10.1,China,Cai Yuzhi,Mengting Liu,SYD Chan,0,0,,,,,,"",""
+ball,2,10.2,China,Cai Yuzhi,Mengting Liu,SYD Chan,0,0,,,,,,"",""
+ball,2,10.3,China,Cai Yuzhi,Mengting Liu,SYD Chan,0,0,,,,,,"",""
+ball,2,10.4,China,Cai Yuzhi,Mengting Liu,SYD Chan,0,0,,,,,,caught and bowled,Cai Yuzhi
+ball,2,10.5,China,Jiaping Li,Mengting Liu,SYD Chan,0,0,,,,,,"",""
+ball,2,10.6,China,Jiaping Li,Mengting Liu,SYD Chan,0,0,,,,,,"",""
+ball,2,11.1,China,Mengting Liu,Jiaping Li,Ruchitha Venkatesh,0,1,1,,,,,"",""
+ball,2,11.2,China,Mengting Liu,Jiaping Li,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,11.3,China,Mengting Liu,Jiaping Li,Ruchitha Venkatesh,0,0,,,,,,caught,Mengting Liu
+ball,2,11.4,China,Wei Haiting,Jiaping Li,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,11.5,China,Wei Haiting,Jiaping Li,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,11.6,China,Wei Haiting,Jiaping Li,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,11.7,China,Jiaping Li,Wei Haiting,Ruchitha Venkatesh,0,1,1,,,,,"",""
+ball,2,11.8,China,Jiaping Li,Wei Haiting,Ruchitha Venkatesh,0,1,1,,,,,"",""
+ball,2,11.9,China,Jiaping Li,Wei Haiting,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,12.1,China,Wei Haiting,Jiaping Li,Fatima Amir,0,0,,,,,,caught,Wei Haiting
+ball,2,12.2,China,Wang Huiying,Jiaping Li,Fatima Amir,4,1,,1,,,,"",""
+ball,2,12.3,China,Wang Huiying,Jiaping Li,Fatima Amir,0,0,,,,,,"",""
+ball,2,12.4,China,Wang Huiying,Jiaping Li,Fatima Amir,0,0,,,,,,"",""
+ball,2,12.5,China,Wang Huiying,Jiaping Li,Fatima Amir,0,0,,,,,,"",""
+ball,2,12.6,China,Wang Huiying,Jiaping Li,Fatima Amir,0,0,,,,,,"",""
+ball,2,12.7,China,Wang Huiying,Jiaping Li,Fatima Amir,4,0,,,,,,"",""
+ball,2,13.1,China,Jiaping Li,Wang Huiying,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,13.2,China,Wang Huiying,Jiaping Li,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,13.3,China,Jiaping Li,Wang Huiying,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,13.4,China,Jiaping Li,Wang Huiying,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,13.5,China,Jiaping Li,Wang Huiying,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,13.6,China,Jiaping Li,Wang Huiying,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,14.1,China,Jiaping Li,Wang Huiying,Fatima Amir,0,1,1,,,,,"",""
+ball,2,14.2,China,Jiaping Li,Wang Huiying,Fatima Amir,0,0,,,,,,"",""
+ball,2,14.3,China,Jiaping Li,Wang Huiying,Fatima Amir,0,0,,,,,,"",""
+ball,2,14.4,China,Jiaping Li,Wang Huiying,Fatima Amir,0,0,,,,,,"",""
+ball,2,14.5,China,Jiaping Li,Wang Huiying,Fatima Amir,2,0,,,,,,"",""
+ball,2,14.6,China,Jiaping Li,Wang Huiying,Fatima Amir,0,0,,,,,,"",""
+ball,2,14.7,China,Jiaping Li,Wang Huiying,Fatima Amir,0,0,,,,,,"",""
+ball,2,15.1,China,Wang Huiying,Jiaping Li,M Bibi,0,1,1,,,,,"",""
+ball,2,15.2,China,Wang Huiying,Jiaping Li,M Bibi,1,0,,,,,,"",""
+ball,2,15.3,China,Jiaping Li,Wang Huiying,M Bibi,0,1,1,,,,,"",""
+ball,2,15.4,China,Jiaping Li,Wang Huiying,M Bibi,0,1,1,,,,,"",""
+ball,2,15.5,China,Jiaping Li,Wang Huiying,M Bibi,0,0,,,,,,"",""
+ball,2,15.6,China,Jiaping Li,Wang Huiying,M Bibi,4,0,,,,,,"",""
+ball,2,15.7,China,Jiaping Li,Wang Huiying,M Bibi,0,1,1,,,,,"",""
+ball,2,15.8,China,Jiaping Li,Wang Huiying,M Bibi,0,0,,,,,,"",""
+ball,2,15.9,China,Jiaping Li,Wang Huiying,M Bibi,0,0,,,,,,"",""
+ball,2,15.10,China,Jiaping Li,Wang Huiying,M Bibi,0,0,,,,,,lbw,Jiaping Li
+ball,2,16.1,China,Wang Huiying,Ma Ruike,KY Chan,1,0,,,,,,"",""
+ball,2,16.2,China,Ma Ruike,Wang Huiying,KY Chan,0,0,,,,,,"",""
+ball,2,16.3,China,Ma Ruike,Wang Huiying,KY Chan,0,0,,,,,,"",""
+ball,2,16.4,China,Ma Ruike,Wang Huiying,KY Chan,0,0,,,,,,"",""
+ball,2,16.5,China,Ma Ruike,Wang Huiying,KY Chan,1,0,,,,,,"",""
+ball,2,16.6,China,Wang Huiying,Ma Ruike,KY Chan,2,0,,,,,,"",""
+ball,2,17.1,China,Ma Ruike,Wang Huiying,M Bibi,0,0,,,,,,"",""
+ball,2,17.2,China,Ma Ruike,Wang Huiying,M Bibi,0,1,1,,,,,"",""
+ball,2,17.3,China,Ma Ruike,Wang Huiying,M Bibi,0,1,1,,,,,"",""
+ball,2,17.4,China,Ma Ruike,Wang Huiying,M Bibi,0,0,,,,,,"",""
+ball,2,17.5,China,Ma Ruike,Wang Huiying,M Bibi,0,1,1,,,,,"",""
+ball,2,17.6,China,Ma Ruike,Wang Huiying,M Bibi,0,1,1,,,,,"",""
+ball,2,17.7,China,Ma Ruike,Wang Huiying,M Bibi,0,0,,,,,,bowled,Ma Ruike

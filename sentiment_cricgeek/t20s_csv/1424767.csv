@@ -1,0 +1,283 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Zimbabwe
+info,gender,male
+info,season,2023/24
+info,date,2024/03/23
+info,event,African Games
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,T Marumani
+info,umpire,A Kassam
+info,umpire,IO Oyieko
+info,reserve_umpire,S Lackay
+info,match_referee,O Chirombe
+info,winner,Zimbabwe
+info,winner_wickets,8
+info,player,Namibia,MB Kruger
+info,player,Namibia,N Davin
+info,player,Namibia,GJ van Rensburg
+info,player,Namibia,JP Kotze
+info,player,Namibia,DO Leicher
+info,player,Namibia,JC Balt
+info,player,Namibia,SPS Shikongo
+info,player,Namibia,H Klazinge
+info,player,Namibia,B Shikongo
+info,player,Namibia,PD Blignaut
+info,player,Namibia,JT Brassell
+info,player,Zimbabwe,R Mupfudza
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,J Campbell
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,O Muzondo
+info,player,Zimbabwe,T Gwandu
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,WT Mubayiwa
+info,player,Zimbabwe,K Macheka
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Munyonga
+info,registry,people,A Kassam,7d13b388
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,GJ van Rensburg,602db3d9
+info,registry,people,H Klazinge,e6bf8162
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Campbell,0e63259d
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,K Macheka,9124e5ee
+info,registry,people,MB Kruger,c51add25
+info,registry,people,N Davin,72e361fe
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Muzondo,ffc308ee
+info,registry,people,PD Blignaut,20ab5aad
+info,registry,people,R Mupfudza,f4417987
+info,registry,people,S Lackay,d3a9aadd
+info,registry,people,SPS Shikongo,4043e3b0
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,WT Mubayiwa,2343b4bf
+ball,1,0.1,Namibia,MB Kruger,N Davin,WT Mubayiwa,1,0,,,,,,"",""
+ball,1,0.2,Namibia,N Davin,MB Kruger,WT Mubayiwa,1,0,,,,,,"",""
+ball,1,0.3,Namibia,MB Kruger,N Davin,WT Mubayiwa,1,0,,,,,,"",""
+ball,1,0.4,Namibia,N Davin,MB Kruger,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,0.5,Namibia,N Davin,MB Kruger,WT Mubayiwa,0,0,,,,,,run out,N Davin
+ball,1,0.6,Namibia,GJ van Rensburg,MB Kruger,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,1.1,Namibia,MB Kruger,GJ van Rensburg,T Gwandu,0,0,,,,,,"",""
+ball,1,1.2,Namibia,MB Kruger,GJ van Rensburg,T Gwandu,1,0,,,,,,"",""
+ball,1,1.3,Namibia,GJ van Rensburg,MB Kruger,T Gwandu,0,0,,,,,,"",""
+ball,1,1.4,Namibia,GJ van Rensburg,MB Kruger,T Gwandu,0,0,,,,,,"",""
+ball,1,1.5,Namibia,GJ van Rensburg,MB Kruger,T Gwandu,0,0,,,,,,"",""
+ball,1,1.6,Namibia,GJ van Rensburg,MB Kruger,T Gwandu,1,0,,,,,,"",""
+ball,1,2.1,Namibia,GJ van Rensburg,MB Kruger,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,2.2,Namibia,GJ van Rensburg,MB Kruger,WT Mubayiwa,0,0,,,,,,bowled,GJ van Rensburg
+ball,1,2.3,Namibia,JP Kotze,MB Kruger,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,2.4,Namibia,JP Kotze,MB Kruger,WT Mubayiwa,1,0,,,,,,"",""
+ball,1,2.5,Namibia,MB Kruger,JP Kotze,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,2.6,Namibia,MB Kruger,JP Kotze,WT Mubayiwa,4,0,,,,,,"",""
+ball,1,3.1,Namibia,JP Kotze,MB Kruger,K Macheka,0,0,,,,,,"",""
+ball,1,3.2,Namibia,JP Kotze,MB Kruger,K Macheka,0,0,,,,,,"",""
+ball,1,3.3,Namibia,JP Kotze,MB Kruger,K Macheka,4,0,,,,,,"",""
+ball,1,3.4,Namibia,JP Kotze,MB Kruger,K Macheka,0,0,,,,,,"",""
+ball,1,3.5,Namibia,JP Kotze,MB Kruger,K Macheka,0,0,,,,,,"",""
+ball,1,3.6,Namibia,JP Kotze,MB Kruger,K Macheka,4,0,,,,,,"",""
+ball,1,4.1,Namibia,MB Kruger,JP Kotze,O Muzondo,2,0,,,,,,"",""
+ball,1,4.2,Namibia,MB Kruger,JP Kotze,O Muzondo,1,0,,,,,,"",""
+ball,1,4.3,Namibia,JP Kotze,MB Kruger,O Muzondo,0,0,,,,,,"",""
+ball,1,4.4,Namibia,JP Kotze,MB Kruger,O Muzondo,1,0,,,,,,"",""
+ball,1,4.5,Namibia,MB Kruger,JP Kotze,O Muzondo,0,0,,,,,,"",""
+ball,1,4.6,Namibia,MB Kruger,JP Kotze,O Muzondo,0,0,,,,,,"",""
+ball,1,5.1,Namibia,JP Kotze,MB Kruger,T Gwandu,0,0,,,,,,"",""
+ball,1,5.2,Namibia,JP Kotze,MB Kruger,T Gwandu,0,0,,,,,,"",""
+ball,1,5.3,Namibia,JP Kotze,MB Kruger,T Gwandu,0,0,,,,,,"",""
+ball,1,5.4,Namibia,JP Kotze,MB Kruger,T Gwandu,4,0,,,,,,"",""
+ball,1,5.5,Namibia,JP Kotze,MB Kruger,T Gwandu,4,0,,,,,,"",""
+ball,1,5.6,Namibia,JP Kotze,MB Kruger,T Gwandu,0,0,,,,,,"",""
+ball,1,6.1,Namibia,MB Kruger,JP Kotze,T Munyonga,1,0,,,,,,"",""
+ball,1,6.2,Namibia,JP Kotze,MB Kruger,T Munyonga,0,0,,,,,,"",""
+ball,1,6.3,Namibia,JP Kotze,MB Kruger,T Munyonga,0,0,,,,,,"",""
+ball,1,6.4,Namibia,JP Kotze,MB Kruger,T Munyonga,6,0,,,,,,"",""
+ball,1,6.5,Namibia,JP Kotze,MB Kruger,T Munyonga,0,0,,,,,,"",""
+ball,1,6.6,Namibia,JP Kotze,MB Kruger,T Munyonga,1,0,,,,,,"",""
+ball,1,7.1,Namibia,JP Kotze,MB Kruger,T Musekiwa,0,0,,,,,,"",""
+ball,1,7.2,Namibia,JP Kotze,MB Kruger,T Musekiwa,1,0,,,,,,"",""
+ball,1,7.3,Namibia,MB Kruger,JP Kotze,T Musekiwa,0,0,,,,,,"",""
+ball,1,7.4,Namibia,MB Kruger,JP Kotze,T Musekiwa,1,0,,,,,,"",""
+ball,1,7.5,Namibia,JP Kotze,MB Kruger,T Musekiwa,0,0,,,,,,"",""
+ball,1,7.6,Namibia,JP Kotze,MB Kruger,T Musekiwa,0,0,,,,,,"",""
+ball,1,8.1,Namibia,MB Kruger,JP Kotze,T Munyonga,0,0,,,,,,"",""
+ball,1,8.2,Namibia,MB Kruger,JP Kotze,T Munyonga,1,0,,,,,,"",""
+ball,1,8.3,Namibia,JP Kotze,MB Kruger,T Munyonga,0,0,,,,,,caught,JP Kotze
+ball,1,8.4,Namibia,DO Leicher,MB Kruger,T Munyonga,1,0,,,,,,"",""
+ball,1,8.5,Namibia,MB Kruger,DO Leicher,T Munyonga,1,0,,,,,,"",""
+ball,1,8.6,Namibia,DO Leicher,MB Kruger,T Munyonga,1,0,,,,,,"",""
+ball,1,9.1,Namibia,DO Leicher,MB Kruger,T Musekiwa,0,0,,,,,,"",""
+ball,1,9.2,Namibia,DO Leicher,MB Kruger,T Musekiwa,1,0,,,,,,"",""
+ball,1,9.3,Namibia,MB Kruger,DO Leicher,T Musekiwa,0,0,,,,,,"",""
+ball,1,9.4,Namibia,MB Kruger,DO Leicher,T Musekiwa,6,0,,,,,,"",""
+ball,1,9.5,Namibia,MB Kruger,DO Leicher,T Musekiwa,1,0,,,,,,"",""
+ball,1,9.6,Namibia,DO Leicher,MB Kruger,T Musekiwa,1,0,,,,,,"",""
+ball,1,10.1,Namibia,DO Leicher,MB Kruger,O Muzondo,1,0,,,,,,"",""
+ball,1,10.2,Namibia,MB Kruger,DO Leicher,O Muzondo,1,0,,,,,,"",""
+ball,1,10.3,Namibia,DO Leicher,MB Kruger,O Muzondo,0,0,,,,,,"",""
+ball,1,10.4,Namibia,DO Leicher,MB Kruger,O Muzondo,0,1,1,,,,,"",""
+ball,1,10.5,Namibia,DO Leicher,MB Kruger,O Muzondo,2,0,,,,,,"",""
+ball,1,10.6,Namibia,DO Leicher,MB Kruger,O Muzondo,1,0,,,,,,"",""
+ball,1,10.7,Namibia,MB Kruger,DO Leicher,O Muzondo,0,0,,,,,,caught,MB Kruger
+ball,1,11.1,Namibia,DO Leicher,JC Balt,T Munyonga,1,0,,,,,,"",""
+ball,1,11.2,Namibia,JC Balt,DO Leicher,T Munyonga,0,0,,,,,,"",""
+ball,1,11.3,Namibia,JC Balt,DO Leicher,T Munyonga,0,0,,,,,,"",""
+ball,1,11.4,Namibia,JC Balt,DO Leicher,T Munyonga,0,1,1,,,,,"",""
+ball,1,11.5,Namibia,JC Balt,DO Leicher,T Munyonga,1,0,,,,,,"",""
+ball,1,11.6,Namibia,DO Leicher,JC Balt,T Munyonga,2,0,,,,,,"",""
+ball,1,11.7,Namibia,DO Leicher,JC Balt,T Munyonga,1,0,,,,,,"",""
+ball,1,12.1,Namibia,DO Leicher,JC Balt,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,12.2,Namibia,DO Leicher,JC Balt,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,12.3,Namibia,DO Leicher,JC Balt,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,12.4,Namibia,DO Leicher,JC Balt,WT Mubayiwa,1,0,,,,,,"",""
+ball,1,12.5,Namibia,JC Balt,DO Leicher,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,12.6,Namibia,JC Balt,DO Leicher,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,13.1,Namibia,DO Leicher,JC Balt,T Munyonga,1,0,,,,,,"",""
+ball,1,13.2,Namibia,JC Balt,DO Leicher,T Munyonga,0,0,,,,,,"",""
+ball,1,13.3,Namibia,JC Balt,DO Leicher,T Munyonga,1,0,,,,,,"",""
+ball,1,13.4,Namibia,DO Leicher,JC Balt,T Munyonga,1,0,,,,,,"",""
+ball,1,13.5,Namibia,JC Balt,DO Leicher,T Munyonga,0,0,,,,,,"",""
+ball,1,13.6,Namibia,JC Balt,DO Leicher,T Munyonga,4,0,,,,,,"",""
+ball,1,14.1,Namibia,DO Leicher,JC Balt,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,14.2,Namibia,DO Leicher,JC Balt,WT Mubayiwa,1,0,,,,,,"",""
+ball,1,14.3,Namibia,JC Balt,DO Leicher,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,14.4,Namibia,JC Balt,DO Leicher,WT Mubayiwa,1,0,,,,,,"",""
+ball,1,14.5,Namibia,DO Leicher,JC Balt,WT Mubayiwa,0,0,,,,,,"",""
+ball,1,14.6,Namibia,DO Leicher,JC Balt,WT Mubayiwa,4,0,,,,,,"",""
+ball,1,15.1,Namibia,JC Balt,DO Leicher,K Macheka,1,0,,,,,,"",""
+ball,1,15.2,Namibia,DO Leicher,JC Balt,K Macheka,2,0,,,,,,"",""
+ball,1,15.3,Namibia,DO Leicher,JC Balt,K Macheka,1,0,,,,,,"",""
+ball,1,15.4,Namibia,JC Balt,DO Leicher,K Macheka,1,0,,,,,,"",""
+ball,1,15.5,Namibia,DO Leicher,JC Balt,K Macheka,0,0,,,,,,"",""
+ball,1,15.6,Namibia,DO Leicher,JC Balt,K Macheka,0,0,,,,,,"",""
+ball,1,16.1,Namibia,JC Balt,DO Leicher,T Musekiwa,0,0,,,,,,"",""
+ball,1,16.2,Namibia,JC Balt,DO Leicher,T Musekiwa,0,1,,,1,,,"",""
+ball,1,16.3,Namibia,DO Leicher,JC Balt,T Musekiwa,1,0,,,,,,"",""
+ball,1,16.4,Namibia,JC Balt,DO Leicher,T Musekiwa,0,0,,,,,,"",""
+ball,1,16.5,Namibia,JC Balt,DO Leicher,T Musekiwa,6,0,,,,,,"",""
+ball,1,16.6,Namibia,JC Balt,DO Leicher,T Musekiwa,1,0,,,,,,"",""
+ball,1,17.1,Namibia,JC Balt,DO Leicher,T Gwandu,0,0,,,,,,"",""
+ball,1,17.2,Namibia,JC Balt,DO Leicher,T Gwandu,1,0,,,,,,"",""
+ball,1,17.3,Namibia,DO Leicher,JC Balt,T Gwandu,4,0,,,,,,"",""
+ball,1,17.4,Namibia,DO Leicher,JC Balt,T Gwandu,1,0,,,,,,"",""
+ball,1,17.5,Namibia,JC Balt,DO Leicher,T Gwandu,1,0,,,,,,"",""
+ball,1,17.6,Namibia,DO Leicher,JC Balt,T Gwandu,0,0,,,,,,caught,DO Leicher
+ball,1,18.1,Namibia,JC Balt,SPS Shikongo,K Macheka,0,1,,,,1,,"",""
+ball,1,18.2,Namibia,SPS Shikongo,JC Balt,K Macheka,0,1,,,,1,,"",""
+ball,1,18.3,Namibia,JC Balt,SPS Shikongo,K Macheka,0,1,1,,,,,"",""
+ball,1,18.4,Namibia,JC Balt,SPS Shikongo,K Macheka,0,0,,,,,,"",""
+ball,1,18.5,Namibia,JC Balt,SPS Shikongo,K Macheka,0,4,,,4,,,"",""
+ball,1,18.6,Namibia,JC Balt,SPS Shikongo,K Macheka,0,0,,,,,,bowled,JC Balt
+ball,1,18.7,Namibia,H Klazinge,SPS Shikongo,K Macheka,0,0,,,,,,"",""
+ball,1,19.1,Namibia,SPS Shikongo,H Klazinge,T Gwandu,2,0,,,,,,"",""
+ball,1,19.2,Namibia,SPS Shikongo,H Klazinge,T Gwandu,1,0,,,,,,"",""
+ball,1,19.3,Namibia,H Klazinge,SPS Shikongo,T Gwandu,1,0,,,,,,"",""
+ball,1,19.4,Namibia,SPS Shikongo,H Klazinge,T Gwandu,1,0,,,,,,"",""
+ball,1,19.5,Namibia,H Klazinge,SPS Shikongo,T Gwandu,1,0,,,,,,"",""
+ball,1,19.6,Namibia,SPS Shikongo,H Klazinge,T Gwandu,0,0,,,,,,run out,H Klazinge
+ball,2,0.1,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,1,1,,,,,"",""
+ball,2,0.2,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,0.6,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,0.7,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,T Marumani,R Mupfudza,JT Brassell,0,0,,,,,,"",""
+ball,2,1.2,Zimbabwe,T Marumani,R Mupfudza,JT Brassell,0,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,T Marumani,R Mupfudza,JT Brassell,1,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,R Mupfudza,T Marumani,JT Brassell,0,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,R Mupfudza,T Marumani,JT Brassell,1,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,T Marumani,R Mupfudza,JT Brassell,0,1,,,,1,,"",""
+ball,2,2.1,Zimbabwe,T Marumani,R Mupfudza,B Shikongo,4,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,T Marumani,R Mupfudza,B Shikongo,0,0,,,,,,"",""
+ball,2,2.3,Zimbabwe,T Marumani,R Mupfudza,B Shikongo,0,1,,,,1,,"",""
+ball,2,2.4,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,R Mupfudza,T Marumani,B Shikongo,1,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,T Marumani,R Mupfudza,B Shikongo,0,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,R Mupfudza,T Marumani,SPS Shikongo,1,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,T Marumani,R Mupfudza,SPS Shikongo,0,0,,,,,,"",""
+ball,2,3.3,Zimbabwe,T Marumani,R Mupfudza,SPS Shikongo,0,2,2,,,,,"",""
+ball,2,3.4,Zimbabwe,R Mupfudza,T Marumani,SPS Shikongo,1,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,T Marumani,R Mupfudza,SPS Shikongo,1,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,R Mupfudza,T Marumani,SPS Shikongo,0,0,,,,,,"",""
+ball,2,3.7,Zimbabwe,R Mupfudza,T Marumani,SPS Shikongo,6,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,T Marumani,R Mupfudza,H Klazinge,0,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,T Marumani,R Mupfudza,H Klazinge,4,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,T Marumani,R Mupfudza,H Klazinge,4,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,T Marumani,R Mupfudza,H Klazinge,4,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,T Marumani,R Mupfudza,H Klazinge,1,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,R Mupfudza,T Marumani,H Klazinge,1,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,R Mupfudza,T Marumani,JT Brassell,2,0,,,,,,"",""
+ball,2,5.2,Zimbabwe,R Mupfudza,T Marumani,JT Brassell,1,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,T Marumani,R Mupfudza,JT Brassell,4,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,T Marumani,R Mupfudza,JT Brassell,0,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,T Marumani,R Mupfudza,JT Brassell,1,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,R Mupfudza,T Marumani,JT Brassell,1,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,R Mupfudza,T Marumani,H Klazinge,2,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,R Mupfudza,T Marumani,H Klazinge,4,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,R Mupfudza,T Marumani,H Klazinge,0,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,R Mupfudza,T Marumani,H Klazinge,2,0,,,,,,"",""
+ball,2,6.5,Zimbabwe,R Mupfudza,T Marumani,H Klazinge,1,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,T Marumani,R Mupfudza,H Klazinge,1,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,T Marumani,R Mupfudza,PD Blignaut,1,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,R Mupfudza,T Marumani,PD Blignaut,0,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,R Mupfudza,T Marumani,PD Blignaut,0,0,,,,,,stumped,R Mupfudza
+ball,2,7.4,Zimbabwe,J Campbell,T Marumani,PD Blignaut,1,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,T Marumani,J Campbell,PD Blignaut,1,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,J Campbell,T Marumani,PD Blignaut,1,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,J Campbell,T Marumani,JC Balt,1,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,T Marumani,J Campbell,JC Balt,6,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,T Marumani,J Campbell,JC Balt,1,0,,,,,,"",""
+ball,2,8.4,Zimbabwe,J Campbell,T Marumani,JC Balt,2,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,J Campbell,T Marumani,JC Balt,1,0,,,,,,"",""
+ball,2,8.6,Zimbabwe,T Marumani,J Campbell,JC Balt,1,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,T Marumani,J Campbell,SPS Shikongo,1,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,J Campbell,T Marumani,SPS Shikongo,1,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,T Marumani,J Campbell,SPS Shikongo,1,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,J Campbell,T Marumani,SPS Shikongo,0,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,J Campbell,T Marumani,SPS Shikongo,0,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,J Campbell,T Marumani,SPS Shikongo,1,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,J Campbell,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,J Campbell,T Marumani,B Shikongo,4,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,J Campbell,T Marumani,B Shikongo,1,0,,,,,,"",""
+ball,2,10.4,Zimbabwe,T Marumani,J Campbell,B Shikongo,1,0,,,,,,"",""
+ball,2,10.5,Zimbabwe,J Campbell,T Marumani,B Shikongo,1,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,T Marumani,J Campbell,B Shikongo,0,2,,1,1,,,"",""
+ball,2,10.7,Zimbabwe,J Campbell,T Marumani,B Shikongo,0,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,T Marumani,J Campbell,JC Balt,0,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,T Marumani,J Campbell,JC Balt,6,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,T Marumani,J Campbell,JC Balt,1,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,J Campbell,T Marumani,JC Balt,2,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,J Campbell,T Marumani,JC Balt,0,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,J Campbell,T Marumani,JC Balt,0,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,T Marumani,J Campbell,PD Blignaut,0,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,T Marumani,J Campbell,PD Blignaut,1,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,J Campbell,T Marumani,PD Blignaut,1,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,T Marumani,J Campbell,PD Blignaut,1,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,J Campbell,T Marumani,PD Blignaut,1,0,,,,,,"",""
+ball,2,12.6,Zimbabwe,T Marumani,J Campbell,PD Blignaut,0,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,J Campbell,T Marumani,GJ van Rensburg,0,1,1,,,,,"",""
+ball,2,13.2,Zimbabwe,J Campbell,T Marumani,GJ van Rensburg,1,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,T Marumani,J Campbell,GJ van Rensburg,4,0,,,,,,"",""
+ball,2,13.4,Zimbabwe,T Marumani,J Campbell,GJ van Rensburg,0,0,,,,,,"",""
+ball,2,13.5,Zimbabwe,T Marumani,J Campbell,GJ van Rensburg,6,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,T Marumani,J Campbell,GJ van Rensburg,1,0,,,,,,"",""
+ball,2,13.7,Zimbabwe,J Campbell,T Marumani,GJ van Rensburg,2,0,,,,,,"",""
+ball,2,14.1,Zimbabwe,T Marumani,J Campbell,PD Blignaut,0,0,,,,,,bowled,T Marumani
+ball,2,14.2,Zimbabwe,C Madande,J Campbell,PD Blignaut,1,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,J Campbell,C Madande,PD Blignaut,0,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,J Campbell,C Madande,PD Blignaut,0,0,,,,,,"",""
+ball,2,14.5,Zimbabwe,J Campbell,C Madande,PD Blignaut,2,0,,,,,,"",""

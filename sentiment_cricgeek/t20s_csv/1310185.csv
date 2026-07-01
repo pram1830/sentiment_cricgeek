@@ -1,0 +1,331 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Bulgaria
+info,gender,male
+info,season,2022
+info,date,2022/05/15
+info,event,Valletta Cup
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Gibraltar
+info,toss_decision,bat
+info,player_of_match,KC D'Souza
+info,umpire,J Ghose Roy
+info,umpire,SN Anand
+info,reserve_umpire,S Harnal
+info,match_referee,R Sivanadian
+info,winner,Bulgaria
+info,winner_wickets,5
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,KJ Ferrary
+info,player,Gibraltar,M Gouws
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,RJ Hatchman
+info,player,Gibraltar,M Whelan
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,N Advani
+info,player,Gibraltar,R Cunningham
+info,player,Gibraltar,J Marples
+info,player,Bulgaria,Saim Hussain
+info,player,Bulgaria,IA De Silva
+info,player,Bulgaria,Omar Rassol
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,H Lakov
+info,player,Bulgaria,KC D'Souza
+info,player,Bulgaria,Asad Ali Rehemtulla
+info,player,Bulgaria,DV Varghese
+info,player,Bulgaria,Ahsan Khan
+info,player,Bulgaria,J Albin
+info,player,Bulgaria,I Katzarski
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,Ahsan Khan,4c72b407
+info,registry,people,Asad Ali Rehemtulla,c122fe73
+info,registry,people,BA Pai,716bf559
+info,registry,people,DV Varghese,26f98ea3
+info,registry,people,H Lakov,87a6f411
+info,registry,people,I Katzarski,514628bd
+info,registry,people,IA De Silva,58973aaf
+info,registry,people,J Albin,a4a53adf
+info,registry,people,J Ghose Roy,ecef5677
+info,registry,people,J Marples,9d75aec7
+info,registry,people,KC D'Souza,2687fff2
+info,registry,people,KJ Ferrary,81898acc
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Gouws,018f6488
+info,registry,people,M Whelan,d613f046
+info,registry,people,N Advani,e4f6147b
+info,registry,people,Omar Rassol,6caae2dc
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,R Cunningham,6779e840
+info,registry,people,R Sivanadian,6100086b
+info,registry,people,RJ Hatchman,01c05b6c
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Harnal,756fe781
+info,registry,people,SN Anand,ab3d6059
+info,registry,people,Saim Hussain,d300d274
+ball,1,0.1,Gibraltar,BA Pai,L Bruce,H Lakov,0,1,1,,,,,"",""
+ball,1,0.2,Gibraltar,BA Pai,L Bruce,H Lakov,0,1,1,,,,,"",""
+ball,1,0.3,Gibraltar,BA Pai,L Bruce,H Lakov,1,0,,,,,,"",""
+ball,1,0.4,Gibraltar,L Bruce,BA Pai,H Lakov,0,0,,,,,,"",""
+ball,1,0.5,Gibraltar,L Bruce,BA Pai,H Lakov,0,0,,,,,,"",""
+ball,1,0.6,Gibraltar,L Bruce,BA Pai,H Lakov,0,0,,,,,,"",""
+ball,1,0.7,Gibraltar,L Bruce,BA Pai,H Lakov,1,0,,,,,,"",""
+ball,1,0.8,Gibraltar,BA Pai,L Bruce,H Lakov,3,0,,,,,,"",""
+ball,1,1.1,Gibraltar,BA Pai,L Bruce,DV Varghese,1,0,,,,,,"",""
+ball,1,1.2,Gibraltar,L Bruce,BA Pai,DV Varghese,0,0,,,,,,"",""
+ball,1,1.3,Gibraltar,L Bruce,BA Pai,DV Varghese,0,0,,,,,,"",""
+ball,1,1.4,Gibraltar,L Bruce,BA Pai,DV Varghese,0,1,1,,,,,"",""
+ball,1,1.5,Gibraltar,L Bruce,BA Pai,DV Varghese,0,0,,,,,,"",""
+ball,1,1.6,Gibraltar,L Bruce,BA Pai,DV Varghese,0,0,,,,,,"",""
+ball,1,1.7,Gibraltar,L Bruce,BA Pai,DV Varghese,1,0,,,,,,"",""
+ball,1,2.1,Gibraltar,L Bruce,BA Pai,H Lakov,0,1,,,,1,,"",""
+ball,1,2.2,Gibraltar,BA Pai,L Bruce,H Lakov,0,0,,,,,,"",""
+ball,1,2.3,Gibraltar,BA Pai,L Bruce,H Lakov,0,1,1,,,,,"",""
+ball,1,2.4,Gibraltar,BA Pai,L Bruce,H Lakov,1,0,,,,,,"",""
+ball,1,2.5,Gibraltar,L Bruce,BA Pai,H Lakov,0,0,,,,,,"",""
+ball,1,2.6,Gibraltar,L Bruce,BA Pai,H Lakov,6,0,,,,,,"",""
+ball,1,2.7,Gibraltar,L Bruce,BA Pai,H Lakov,0,1,1,,,,,"",""
+ball,1,2.8,Gibraltar,L Bruce,BA Pai,H Lakov,0,0,,,,,,caught,L Bruce
+ball,1,3.1,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,0,0,,,,,,"",""
+ball,1,3.2,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,0,0,,,,,,"",""
+ball,1,3.3,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,1,0,,,,,,"",""
+ball,1,3.4,Gibraltar,KJ Ferrary,BA Pai,DV Varghese,1,0,,,,,,"",""
+ball,1,3.5,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,1,0,,,,,,"",""
+ball,1,3.6,Gibraltar,KJ Ferrary,BA Pai,DV Varghese,0,1,1,,,,,"",""
+ball,1,3.7,Gibraltar,KJ Ferrary,BA Pai,DV Varghese,0,1,1,,,,,"",""
+ball,1,3.8,Gibraltar,KJ Ferrary,BA Pai,DV Varghese,0,0,,,,,,"",""
+ball,1,4.1,Gibraltar,BA Pai,KJ Ferrary,H Lakov,1,0,,,,,,"",""
+ball,1,4.2,Gibraltar,KJ Ferrary,BA Pai,H Lakov,1,0,,,,,,"",""
+ball,1,4.3,Gibraltar,BA Pai,KJ Ferrary,H Lakov,1,0,,,,,,"",""
+ball,1,4.4,Gibraltar,KJ Ferrary,BA Pai,H Lakov,4,0,,,,,,"",""
+ball,1,4.5,Gibraltar,KJ Ferrary,BA Pai,H Lakov,0,0,,,,,,"",""
+ball,1,4.6,Gibraltar,KJ Ferrary,BA Pai,H Lakov,1,0,,,,,,"",""
+ball,1,5.1,Gibraltar,KJ Ferrary,BA Pai,DV Varghese,2,0,,,,,,"",""
+ball,1,5.2,Gibraltar,KJ Ferrary,BA Pai,DV Varghese,1,0,,,,,,"",""
+ball,1,5.3,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,6,0,,,,,,"",""
+ball,1,5.4,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,0,1,1,,,,,"",""
+ball,1,5.5,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,1,0,,,,,,"",""
+ball,1,5.6,Gibraltar,KJ Ferrary,BA Pai,DV Varghese,1,0,,,,,,"",""
+ball,1,5.7,Gibraltar,BA Pai,KJ Ferrary,DV Varghese,4,0,,,,,,"",""
+ball,1,6.1,Gibraltar,KJ Ferrary,BA Pai,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,6.2,Gibraltar,BA Pai,KJ Ferrary,Asad Ali Rehemtulla,0,1,1,,,,,"",""
+ball,1,6.3,Gibraltar,BA Pai,KJ Ferrary,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,6.4,Gibraltar,KJ Ferrary,BA Pai,Asad Ali Rehemtulla,2,0,,,,,,"",""
+ball,1,6.5,Gibraltar,KJ Ferrary,BA Pai,Asad Ali Rehemtulla,0,2,,,,2,,"",""
+ball,1,6.6,Gibraltar,KJ Ferrary,BA Pai,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,6.7,Gibraltar,BA Pai,KJ Ferrary,Asad Ali Rehemtulla,0,0,,,,,,"",""
+ball,1,7.1,Gibraltar,KJ Ferrary,BA Pai,P Mishra,1,0,,,,,,"",""
+ball,1,7.2,Gibraltar,BA Pai,KJ Ferrary,P Mishra,1,0,,,,,,"",""
+ball,1,7.3,Gibraltar,KJ Ferrary,BA Pai,P Mishra,0,0,,,,,,"",""
+ball,1,7.4,Gibraltar,KJ Ferrary,BA Pai,P Mishra,2,0,,,,,,"",""
+ball,1,7.5,Gibraltar,KJ Ferrary,BA Pai,P Mishra,1,0,,,,,,"",""
+ball,1,7.6,Gibraltar,BA Pai,KJ Ferrary,P Mishra,1,0,,,,,,"",""
+ball,1,8.1,Gibraltar,BA Pai,KJ Ferrary,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,8.2,Gibraltar,KJ Ferrary,BA Pai,Asad Ali Rehemtulla,0,0,,,,,,bowled,KJ Ferrary
+ball,1,8.3,Gibraltar,M Gouws,BA Pai,Asad Ali Rehemtulla,0,0,,,,,,"",""
+ball,1,8.4,Gibraltar,M Gouws,BA Pai,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,8.5,Gibraltar,BA Pai,M Gouws,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,8.6,Gibraltar,M Gouws,BA Pai,Asad Ali Rehemtulla,0,0,,,,,,"",""
+ball,1,9.1,Gibraltar,BA Pai,M Gouws,P Mishra,2,0,,,,,,"",""
+ball,1,9.2,Gibraltar,BA Pai,M Gouws,P Mishra,1,0,,,,,,"",""
+ball,1,9.3,Gibraltar,M Gouws,BA Pai,P Mishra,0,1,1,,,,,"",""
+ball,1,9.4,Gibraltar,M Gouws,BA Pai,P Mishra,0,0,,,,,,caught,M Gouws
+ball,1,9.5,Gibraltar,A Reyes,BA Pai,P Mishra,0,0,,,,,,"",""
+ball,1,9.6,Gibraltar,A Reyes,BA Pai,P Mishra,1,0,,,,,,"",""
+ball,1,9.7,Gibraltar,BA Pai,A Reyes,P Mishra,1,0,,,,,,"",""
+ball,1,10.1,Gibraltar,BA Pai,A Reyes,Asad Ali Rehemtulla,0,1,,,,1,,"",""
+ball,1,10.2,Gibraltar,A Reyes,BA Pai,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,10.3,Gibraltar,BA Pai,A Reyes,Asad Ali Rehemtulla,0,1,,,,1,,"",""
+ball,1,10.4,Gibraltar,A Reyes,BA Pai,Asad Ali Rehemtulla,0,0,,,,,,"",""
+ball,1,10.5,Gibraltar,A Reyes,BA Pai,Asad Ali Rehemtulla,0,0,,,,,,lbw,A Reyes
+ball,1,10.6,Gibraltar,RJ Hatchman,BA Pai,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,11.1,Gibraltar,RJ Hatchman,BA Pai,P Mishra,1,0,,,,,,"",""
+ball,1,11.2,Gibraltar,BA Pai,RJ Hatchman,P Mishra,1,0,,,,,,"",""
+ball,1,11.3,Gibraltar,RJ Hatchman,BA Pai,P Mishra,0,1,1,,,,,"",""
+ball,1,11.4,Gibraltar,RJ Hatchman,BA Pai,P Mishra,0,1,1,,,,,"",""
+ball,1,11.5,Gibraltar,RJ Hatchman,BA Pai,P Mishra,0,0,,,,,,"",""
+ball,1,11.6,Gibraltar,RJ Hatchman,BA Pai,P Mishra,0,0,,,,,,"",""
+ball,1,11.7,Gibraltar,RJ Hatchman,BA Pai,P Mishra,2,0,,,,,,"",""
+ball,1,11.8,Gibraltar,RJ Hatchman,BA Pai,P Mishra,0,0,,,,,,"",""
+ball,1,12.1,Gibraltar,BA Pai,RJ Hatchman,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,12.2,Gibraltar,RJ Hatchman,BA Pai,Asad Ali Rehemtulla,4,0,,,,,,"",""
+ball,1,12.3,Gibraltar,RJ Hatchman,BA Pai,Asad Ali Rehemtulla,0,0,,,,,,"",""
+ball,1,12.4,Gibraltar,RJ Hatchman,BA Pai,Asad Ali Rehemtulla,6,0,,,,,,"",""
+ball,1,12.5,Gibraltar,RJ Hatchman,BA Pai,Asad Ali Rehemtulla,2,0,,,,,,"",""
+ball,1,12.6,Gibraltar,RJ Hatchman,BA Pai,Asad Ali Rehemtulla,1,0,,,,,,"",""
+ball,1,13.1,Gibraltar,RJ Hatchman,BA Pai,P Mishra,1,0,,,,,,"",""
+ball,1,13.2,Gibraltar,BA Pai,RJ Hatchman,P Mishra,1,0,,,,,,"",""
+ball,1,13.3,Gibraltar,RJ Hatchman,BA Pai,P Mishra,6,0,,,,,,"",""
+ball,1,13.4,Gibraltar,RJ Hatchman,BA Pai,P Mishra,1,0,,,,,,"",""
+ball,1,13.5,Gibraltar,BA Pai,RJ Hatchman,P Mishra,0,1,1,,,,,"",""
+ball,1,13.6,Gibraltar,BA Pai,RJ Hatchman,P Mishra,2,0,,,,,,"",""
+ball,1,13.7,Gibraltar,BA Pai,RJ Hatchman,P Mishra,1,0,,,,,,"",""
+ball,1,14.1,Gibraltar,BA Pai,RJ Hatchman,J Albin,0,1,1,,,,,"",""
+ball,1,14.2,Gibraltar,BA Pai,RJ Hatchman,J Albin,1,0,,,,,,"",""
+ball,1,14.3,Gibraltar,RJ Hatchman,BA Pai,J Albin,3,0,,,,,,"",""
+ball,1,14.4,Gibraltar,BA Pai,RJ Hatchman,J Albin,4,0,,,,,,"",""
+ball,1,14.5,Gibraltar,BA Pai,RJ Hatchman,J Albin,1,0,,,,,,"",""
+ball,1,14.6,Gibraltar,RJ Hatchman,BA Pai,J Albin,0,0,,,,,,"",""
+ball,1,14.7,Gibraltar,RJ Hatchman,BA Pai,J Albin,4,0,,,,,,"",""
+ball,1,15.1,Gibraltar,BA Pai,RJ Hatchman,Ahsan Khan,1,0,,,,,,"",""
+ball,1,15.2,Gibraltar,RJ Hatchman,BA Pai,Ahsan Khan,0,0,,,,,,caught,RJ Hatchman
+ball,1,15.3,Gibraltar,BA Pai,M Whelan,Ahsan Khan,0,3,,,,3,,"",""
+ball,1,15.4,Gibraltar,M Whelan,BA Pai,Ahsan Khan,0,4,,,4,,,"",""
+ball,1,15.5,Gibraltar,M Whelan,BA Pai,Ahsan Khan,1,0,,,,,,"",""
+ball,1,15.6,Gibraltar,BA Pai,M Whelan,Ahsan Khan,1,0,,,,,,"",""
+ball,1,16.1,Gibraltar,BA Pai,M Whelan,J Albin,1,0,,,,,,"",""
+ball,1,16.2,Gibraltar,M Whelan,BA Pai,J Albin,1,0,,,,,,"",""
+ball,1,16.3,Gibraltar,BA Pai,M Whelan,J Albin,1,0,,,,,,"",""
+ball,1,16.4,Gibraltar,M Whelan,BA Pai,J Albin,2,0,,,,,,"",""
+ball,1,16.5,Gibraltar,M Whelan,BA Pai,J Albin,2,0,,,,,,"",""
+ball,1,16.6,Gibraltar,M Whelan,BA Pai,J Albin,2,0,,,,,,"",""
+ball,1,17.1,Gibraltar,BA Pai,M Whelan,Ahsan Khan,2,0,,,,,,"",""
+ball,1,17.2,Gibraltar,BA Pai,M Whelan,Ahsan Khan,1,0,,,,,,"",""
+ball,1,17.3,Gibraltar,M Whelan,BA Pai,Ahsan Khan,1,0,,,,,,"",""
+ball,1,17.4,Gibraltar,BA Pai,M Whelan,Ahsan Khan,1,0,,,,,,"",""
+ball,1,17.5,Gibraltar,M Whelan,BA Pai,Ahsan Khan,0,0,,,,,,"",""
+ball,1,17.6,Gibraltar,M Whelan,BA Pai,Ahsan Khan,2,0,,,,,,"",""
+ball,1,18.1,Gibraltar,BA Pai,M Whelan,H Lakov,1,0,,,,,,"",""
+ball,1,18.2,Gibraltar,M Whelan,BA Pai,H Lakov,0,0,,,,,,"",""
+ball,1,18.3,Gibraltar,M Whelan,BA Pai,H Lakov,2,0,,,,,,"",""
+ball,1,18.4,Gibraltar,M Whelan,BA Pai,H Lakov,4,0,,,,,,"",""
+ball,1,18.5,Gibraltar,M Whelan,BA Pai,H Lakov,0,0,,,,,,"",""
+ball,1,18.6,Gibraltar,M Whelan,BA Pai,H Lakov,4,0,,,,,,"",""
+ball,1,19.1,Gibraltar,BA Pai,M Whelan,DV Varghese,1,0,,,,,,"",""
+ball,1,19.2,Gibraltar,M Whelan,BA Pai,DV Varghese,6,0,,,,,,"",""
+ball,1,19.3,Gibraltar,M Whelan,BA Pai,DV Varghese,0,1,,,,1,,"",""
+ball,1,19.4,Gibraltar,BA Pai,M Whelan,DV Varghese,1,0,,,,,,"",""
+ball,1,19.5,Gibraltar,M Whelan,BA Pai,DV Varghese,0,0,,,,,,bowled,M Whelan
+ball,1,19.6,Gibraltar,S Bodha,BA Pai,DV Varghese,1,0,,,,,,"",""
+ball,2,0.1,Bulgaria,Saim Hussain,IA De Silva,BA Pai,1,0,,,,,,"",""
+ball,2,0.2,Bulgaria,IA De Silva,Saim Hussain,BA Pai,1,0,,,,,,"",""
+ball,2,0.3,Bulgaria,Saim Hussain,IA De Silva,BA Pai,0,0,,,,,,"",""
+ball,2,0.4,Bulgaria,Saim Hussain,IA De Silva,BA Pai,0,0,,,,,,"",""
+ball,2,0.5,Bulgaria,Saim Hussain,IA De Silva,BA Pai,0,0,,,,,,"",""
+ball,2,0.6,Bulgaria,Saim Hussain,IA De Silva,BA Pai,0,0,,,,,,"",""
+ball,2,1.1,Bulgaria,IA De Silva,Saim Hussain,M Gouws,6,0,,,,,,"",""
+ball,2,1.2,Bulgaria,IA De Silva,Saim Hussain,M Gouws,0,0,,,,,,"",""
+ball,2,1.3,Bulgaria,IA De Silva,Saim Hussain,M Gouws,0,0,,,,,,"",""
+ball,2,1.4,Bulgaria,IA De Silva,Saim Hussain,M Gouws,0,0,,,,,,"",""
+ball,2,1.5,Bulgaria,IA De Silva,Saim Hussain,M Gouws,1,0,,,,,,"",""
+ball,2,1.6,Bulgaria,Saim Hussain,IA De Silva,M Gouws,1,0,,,,,,"",""
+ball,2,2.1,Bulgaria,Saim Hussain,IA De Silva,BA Pai,2,0,,,,,,"",""
+ball,2,2.2,Bulgaria,Saim Hussain,IA De Silva,BA Pai,0,0,,,,,,"",""
+ball,2,2.3,Bulgaria,Saim Hussain,IA De Silva,BA Pai,0,0,,,,,,"",""
+ball,2,2.4,Bulgaria,Saim Hussain,IA De Silva,BA Pai,2,0,,,,,,"",""
+ball,2,2.5,Bulgaria,Saim Hussain,IA De Silva,BA Pai,1,0,,,,,,"",""
+ball,2,2.6,Bulgaria,IA De Silva,Saim Hussain,BA Pai,1,0,,,,,,"",""
+ball,2,3.1,Bulgaria,IA De Silva,Saim Hussain,M Gouws,0,1,,,,1,,"",""
+ball,2,3.2,Bulgaria,Saim Hussain,IA De Silva,M Gouws,0,1,1,,,,,"",""
+ball,2,3.3,Bulgaria,Saim Hussain,IA De Silva,M Gouws,4,0,,,,,,"",""
+ball,2,3.4,Bulgaria,Saim Hussain,IA De Silva,M Gouws,1,0,,,,,,"",""
+ball,2,3.5,Bulgaria,IA De Silva,Saim Hussain,M Gouws,1,0,,,,,,"",""
+ball,2,3.6,Bulgaria,Saim Hussain,IA De Silva,M Gouws,0,3,3,,,,,"",""
+ball,2,3.7,Bulgaria,Saim Hussain,IA De Silva,M Gouws,0,0,,,,,,"",""
+ball,2,3.8,Bulgaria,Saim Hussain,IA De Silva,M Gouws,1,0,,,,,,"",""
+ball,2,4.1,Bulgaria,Saim Hussain,IA De Silva,L Bruce,4,0,,,,,,"",""
+ball,2,4.2,Bulgaria,Saim Hussain,IA De Silva,L Bruce,1,0,,,,,,"",""
+ball,2,4.3,Bulgaria,IA De Silva,Saim Hussain,L Bruce,1,0,,,,,,"",""
+ball,2,4.4,Bulgaria,Saim Hussain,IA De Silva,L Bruce,2,0,,,,,,"",""
+ball,2,4.5,Bulgaria,Saim Hussain,IA De Silva,L Bruce,0,0,,,,,,"",""
+ball,2,4.6,Bulgaria,Saim Hussain,IA De Silva,L Bruce,4,0,,,,,,"",""
+ball,2,5.1,Bulgaria,IA De Silva,Saim Hussain,KJ Ferrary,4,0,,,,,,"",""
+ball,2,5.2,Bulgaria,IA De Silva,Saim Hussain,KJ Ferrary,0,0,,,,,,"",""
+ball,2,5.3,Bulgaria,IA De Silva,Saim Hussain,KJ Ferrary,0,0,,,,,,"",""
+ball,2,5.4,Bulgaria,IA De Silva,Saim Hussain,KJ Ferrary,6,0,,,,,,"",""
+ball,2,5.5,Bulgaria,IA De Silva,Saim Hussain,KJ Ferrary,1,0,,,,,,"",""
+ball,2,5.6,Bulgaria,Saim Hussain,IA De Silva,KJ Ferrary,0,0,,,,,,caught,Saim Hussain
+ball,2,6.1,Bulgaria,IA De Silva,Omar Rassol,S Bodha,0,0,,,,,,"",""
+ball,2,6.2,Bulgaria,IA De Silva,Omar Rassol,S Bodha,1,0,,,,,,"",""
+ball,2,6.3,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,0,,,,,,"",""
+ball,2,6.4,Bulgaria,Omar Rassol,IA De Silva,S Bodha,1,0,,,,,,"",""
+ball,2,6.5,Bulgaria,IA De Silva,Omar Rassol,S Bodha,2,0,,,,,,"",""
+ball,2,6.6,Bulgaria,IA De Silva,Omar Rassol,S Bodha,1,0,,,,,,"",""
+ball,2,7.1,Bulgaria,IA De Silva,Omar Rassol,KJ Ferrary,1,0,,,,,,"",""
+ball,2,7.2,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,1,0,,,,,,"",""
+ball,2,7.3,Bulgaria,IA De Silva,Omar Rassol,KJ Ferrary,0,0,,,,,,"",""
+ball,2,7.4,Bulgaria,IA De Silva,Omar Rassol,KJ Ferrary,1,0,,,,,,"",""
+ball,2,7.5,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,6,0,,,,,,"",""
+ball,2,7.6,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,1,0,,,,,,"",""
+ball,2,8.1,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,0,,,,,,"",""
+ball,2,8.2,Bulgaria,Omar Rassol,IA De Silva,S Bodha,4,0,,,,,,"",""
+ball,2,8.3,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,0,,,,,,"",""
+ball,2,8.4,Bulgaria,Omar Rassol,IA De Silva,S Bodha,2,0,,,,,,"",""
+ball,2,8.5,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,0,,,,,,"",""
+ball,2,8.6,Bulgaria,Omar Rassol,IA De Silva,S Bodha,1,0,,,,,,"",""
+ball,2,9.1,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,"",""
+ball,2,9.2,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,"",""
+ball,2,9.3,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,"",""
+ball,2,9.4,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,"",""
+ball,2,9.5,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,"",""
+ball,2,9.6,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,1,0,,,,,,"",""
+ball,2,10.1,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,1,1,,,,,"",""
+ball,2,10.2,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,1,,,,1,,"",""
+ball,2,10.3,Bulgaria,IA De Silva,Omar Rassol,S Bodha,0,1,1,,,,,"",""
+ball,2,10.4,Bulgaria,IA De Silva,Omar Rassol,S Bodha,1,0,,,,,,"",""
+ball,2,10.5,Bulgaria,Omar Rassol,IA De Silva,S Bodha,1,0,,,,,,"",""
+ball,2,10.6,Bulgaria,IA De Silva,Omar Rassol,S Bodha,1,0,,,,,,"",""
+ball,2,10.7,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,1,1,,,,,"",""
+ball,2,10.8,Bulgaria,Omar Rassol,IA De Silva,S Bodha,0,1,1,,,,,"",""
+ball,2,10.9,Bulgaria,Omar Rassol,IA De Silva,S Bodha,1,0,,,,,,"",""
+ball,2,10.10,Bulgaria,IA De Silva,Omar Rassol,S Bodha,0,0,,,,,,"",""
+ball,2,11.1,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,6,0,,,,,,"",""
+ball,2,11.2,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,"",""
+ball,2,11.3,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,"",""
+ball,2,11.4,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,1,1,,,,,"",""
+ball,2,11.5,Bulgaria,Omar Rassol,IA De Silva,KJ Ferrary,0,0,,,,,,caught and bowled,Omar Rassol
+ball,2,11.6,Bulgaria,P Mishra,IA De Silva,KJ Ferrary,1,0,,,,,,"",""
+ball,2,11.7,Bulgaria,IA De Silva,P Mishra,KJ Ferrary,0,0,,,,,,"",""
+ball,2,12.1,Bulgaria,P Mishra,IA De Silva,S Bodha,0,0,,,,,,"",""
+ball,2,12.2,Bulgaria,P Mishra,IA De Silva,S Bodha,6,0,,,,,,"",""
+ball,2,12.3,Bulgaria,P Mishra,IA De Silva,S Bodha,1,0,,,,,,"",""
+ball,2,12.4,Bulgaria,IA De Silva,P Mishra,S Bodha,4,0,,,,,,"",""
+ball,2,12.5,Bulgaria,IA De Silva,P Mishra,S Bodha,0,1,1,,,,,"",""
+ball,2,12.6,Bulgaria,IA De Silva,P Mishra,S Bodha,0,0,,,,,,"",""
+ball,2,12.7,Bulgaria,IA De Silva,P Mishra,S Bodha,0,0,,,,,,"",""
+ball,2,13.1,Bulgaria,P Mishra,IA De Silva,M Whelan,0,0,,,,,,"",""
+ball,2,13.2,Bulgaria,P Mishra,IA De Silva,M Whelan,0,0,,,,,,"",""
+ball,2,13.3,Bulgaria,P Mishra,IA De Silva,M Whelan,6,0,,,,,,"",""
+ball,2,13.4,Bulgaria,P Mishra,IA De Silva,M Whelan,1,0,,,,,,"",""
+ball,2,13.5,Bulgaria,IA De Silva,P Mishra,M Whelan,6,0,,,,,,"",""
+ball,2,13.6,Bulgaria,IA De Silva,P Mishra,M Whelan,1,0,,,,,,"",""
+ball,2,14.1,Bulgaria,IA De Silva,P Mishra,L Bruce,0,0,,,,,,bowled,IA De Silva
+ball,2,14.2,Bulgaria,H Lakov,P Mishra,L Bruce,1,0,,,,,,"",""
+ball,2,14.3,Bulgaria,P Mishra,H Lakov,L Bruce,0,0,,,,,,"",""
+ball,2,14.4,Bulgaria,P Mishra,H Lakov,L Bruce,0,0,,,,,,"",""
+ball,2,14.5,Bulgaria,P Mishra,H Lakov,L Bruce,0,1,1,,,,,"",""
+ball,2,14.6,Bulgaria,P Mishra,H Lakov,L Bruce,0,0,,,,,,"",""
+ball,2,14.7,Bulgaria,P Mishra,H Lakov,L Bruce,0,0,,,,,,"",""
+ball,2,15.1,Bulgaria,H Lakov,P Mishra,BA Pai,1,0,,,,,,"",""
+ball,2,15.2,Bulgaria,P Mishra,H Lakov,BA Pai,0,0,,,,,,"",""
+ball,2,15.3,Bulgaria,P Mishra,H Lakov,BA Pai,6,0,,,,,,"",""
+ball,2,15.4,Bulgaria,P Mishra,H Lakov,BA Pai,1,0,,,,,,"",""
+ball,2,15.5,Bulgaria,H Lakov,P Mishra,BA Pai,0,0,,,,,,stumped,H Lakov
+ball,2,15.6,Bulgaria,KC D'Souza,P Mishra,BA Pai,0,1,1,,,,,"",""
+ball,2,15.7,Bulgaria,KC D'Souza,P Mishra,BA Pai,0,0,,,,,,"",""
+ball,2,16.1,Bulgaria,P Mishra,KC D'Souza,L Bruce,0,0,,,,,,lbw,P Mishra
+ball,2,16.2,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,L Bruce,0,1,,,,1,,"",""
+ball,2,16.3,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,L Bruce,3,0,,,,,,"",""
+ball,2,16.4,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,L Bruce,1,0,,,,,,"",""
+ball,2,16.5,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,L Bruce,2,0,,,,,,"",""
+ball,2,16.6,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,L Bruce,6,0,,,,,,"",""
+ball,2,17.1,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,BA Pai,0,0,,,,,,"",""
+ball,2,17.2,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,BA Pai,1,0,,,,,,"",""
+ball,2,17.3,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,BA Pai,4,0,,,,,,"",""
+ball,2,17.4,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,BA Pai,4,0,,,,,,"",""
+ball,2,17.5,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,BA Pai,1,0,,,,,,"",""
+ball,2,17.6,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,BA Pai,0,0,,,,,,"",""
+ball,2,18.1,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,L Bruce,6,0,,,,,,"",""
+ball,2,18.2,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,L Bruce,1,0,,,,,,"",""
+ball,2,18.3,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,L Bruce,0,0,,,,,,"",""
+ball,2,18.4,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,L Bruce,0,0,,,,,,"",""
+ball,2,18.5,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,L Bruce,1,0,,,,,,"",""
+ball,2,18.6,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,L Bruce,0,0,,,,,,"",""
+ball,2,19.1,Bulgaria,Asad Ali Rehemtulla,KC D'Souza,M Gouws,1,0,,,,,,"",""
+ball,2,19.2,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,M Gouws,4,0,,,,,,"",""
+ball,2,19.3,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,M Gouws,2,0,,,,,,"",""
+ball,2,19.4,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,M Gouws,2,0,,,,,,"",""
+ball,2,19.5,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,M Gouws,2,0,,,,,,"",""
+ball,2,19.6,Bulgaria,KC D'Souza,Asad Ali Rehemtulla,M Gouws,0,1,1,,,,,"",""

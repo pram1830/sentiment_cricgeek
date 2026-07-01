@@ -1,0 +1,233 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Ireland
+info,gender,female
+info,season,2025
+info,date,2025/08/20
+info,event,ICC Women's T20 World Cup Europe Division 1 Qualifier
+info,match_number,2
+info,venue,"Hazelaarweg, Rotterdam"
+info,city,Rotterdam
+info,toss_winner,Germany
+info,toss_decision,bat
+info,player_of_match,L Delany
+info,umpire,J Jensen
+info,umpire,Rizwan Akram
+info,reserve_umpire,Aidan Seaver
+info,match_referee,GH Pienaar
+info,winner,Ireland
+info,winner_wickets,10
+info,player,Germany,W Hornero-Garcia
+info,player,Germany,K Vijayaraghavan
+info,player,Germany,S Kolcharam
+info,player,Germany,CM Gough
+info,player,Germany,A Kanukuntla
+info,player,Germany,Rameesha Shahid
+info,player,Germany,N Kingsley
+info,player,Germany,V Stolle
+info,player,Germany,A Kohli
+info,player,Germany,I Edwards
+info,player,Germany,Ashwini Balaji
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,A Canning
+info,player,Ireland,C Murray
+info,player,Ireland,AN Kelly
+info,player,Ireland,J Maguire
+info,player,Ireland,LA McBride
+info,player,Ireland,L Delany
+info,player,Ireland,L Paul
+info,player,Ireland,O Prendergast
+info,player,Ireland,R Stokell
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,A Kanukuntla,2fa8a697
+info,registry,people,A Kohli,eb9082b2
+info,registry,people,AN Kelly,397369e0
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,Ashwini Balaji,81283f75
+info,registry,people,C Murray,5a50471c
+info,registry,people,CM Gough,f1328a90
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Edwards,42095275
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Paul,07248d8e
+info,registry,people,LA McBride,9bd0d19d
+info,registry,people,N Kingsley,31036a1d
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,Rameesha Shahid,b810425e
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Kolcharam,761c929e
+info,registry,people,V Stolle,0dc4ac6c
+info,registry,people,W Hornero-Garcia,7d5fef52
+ball,1,0.1,Germany,W Hornero-Garcia,K Vijayaraghavan,O Prendergast,1,0,,,,,,"",""
+ball,1,0.2,Germany,K Vijayaraghavan,W Hornero-Garcia,O Prendergast,0,1,1,,,,,"",""
+ball,1,0.3,Germany,K Vijayaraghavan,W Hornero-Garcia,O Prendergast,0,0,,,,,,"",""
+ball,1,0.4,Germany,K Vijayaraghavan,W Hornero-Garcia,O Prendergast,0,1,,,1,,,"",""
+ball,1,0.5,Germany,W Hornero-Garcia,K Vijayaraghavan,O Prendergast,0,0,,,,,,lbw,W Hornero-Garcia
+ball,1,0.6,Germany,S Kolcharam,K Vijayaraghavan,O Prendergast,0,0,,,,,,"",""
+ball,1,0.7,Germany,S Kolcharam,K Vijayaraghavan,O Prendergast,1,0,,,,,,"",""
+ball,1,1.1,Germany,S Kolcharam,K Vijayaraghavan,A Canning,4,0,,,,,,"",""
+ball,1,1.2,Germany,S Kolcharam,K Vijayaraghavan,A Canning,0,0,,,,,,"",""
+ball,1,1.3,Germany,S Kolcharam,K Vijayaraghavan,A Canning,1,0,,,,,,"",""
+ball,1,1.4,Germany,K Vijayaraghavan,S Kolcharam,A Canning,0,0,,,,,,"",""
+ball,1,1.5,Germany,K Vijayaraghavan,S Kolcharam,A Canning,0,0,,,,,,"",""
+ball,1,1.6,Germany,K Vijayaraghavan,S Kolcharam,A Canning,0,1,1,,,,,"",""
+ball,1,1.7,Germany,K Vijayaraghavan,S Kolcharam,A Canning,0,0,,,,,,"",""
+ball,1,2.1,Germany,S Kolcharam,K Vijayaraghavan,O Prendergast,0,0,,,,,,"",""
+ball,1,2.2,Germany,S Kolcharam,K Vijayaraghavan,O Prendergast,0,0,,,,,,"",""
+ball,1,2.3,Germany,S Kolcharam,K Vijayaraghavan,O Prendergast,0,0,,,,,,"",""
+ball,1,2.4,Germany,S Kolcharam,K Vijayaraghavan,O Prendergast,0,0,,,,,,"",""
+ball,1,2.5,Germany,S Kolcharam,K Vijayaraghavan,O Prendergast,1,0,,,,,,"",""
+ball,1,2.6,Germany,K Vijayaraghavan,S Kolcharam,O Prendergast,0,0,,,,,,"",""
+ball,1,3.1,Germany,S Kolcharam,K Vijayaraghavan,A Canning,0,0,,,,,,"",""
+ball,1,3.2,Germany,S Kolcharam,K Vijayaraghavan,A Canning,0,0,,,,,,bowled,S Kolcharam
+ball,1,3.3,Germany,CM Gough,K Vijayaraghavan,A Canning,0,1,1,,,,,"",""
+ball,1,3.4,Germany,CM Gough,K Vijayaraghavan,A Canning,0,0,,,,,,"",""
+ball,1,3.5,Germany,CM Gough,K Vijayaraghavan,A Canning,0,1,1,,,,,"",""
+ball,1,3.6,Germany,CM Gough,K Vijayaraghavan,A Canning,0,0,,,,,,"",""
+ball,1,3.7,Germany,CM Gough,K Vijayaraghavan,A Canning,1,0,,,,,,"",""
+ball,1,3.8,Germany,K Vijayaraghavan,CM Gough,A Canning,0,0,,,,,,"",""
+ball,1,4.1,Germany,CM Gough,K Vijayaraghavan,J Maguire,0,1,1,,,,,"",""
+ball,1,4.2,Germany,CM Gough,K Vijayaraghavan,J Maguire,0,0,,,,,,"",""
+ball,1,4.3,Germany,CM Gough,K Vijayaraghavan,J Maguire,0,0,,,,,,"",""
+ball,1,4.4,Germany,CM Gough,K Vijayaraghavan,J Maguire,0,0,,,,,,"",""
+ball,1,4.5,Germany,CM Gough,K Vijayaraghavan,J Maguire,0,0,,,,,,"",""
+ball,1,4.6,Germany,CM Gough,K Vijayaraghavan,J Maguire,1,0,,,,,,"",""
+ball,1,4.7,Germany,K Vijayaraghavan,CM Gough,J Maguire,1,0,,,,,,"",""
+ball,1,5.1,Germany,K Vijayaraghavan,CM Gough,A Canning,0,0,,,,,,"",""
+ball,1,5.2,Germany,K Vijayaraghavan,CM Gough,A Canning,0,0,,,,,,"",""
+ball,1,5.3,Germany,K Vijayaraghavan,CM Gough,A Canning,0,0,,,,,,"",""
+ball,1,5.4,Germany,K Vijayaraghavan,CM Gough,A Canning,0,0,,,,,,"",""
+ball,1,5.5,Germany,K Vijayaraghavan,CM Gough,A Canning,0,0,,,,,,bowled,K Vijayaraghavan
+ball,1,5.6,Germany,A Kanukuntla,CM Gough,A Canning,0,0,,,,,,"",""
+ball,1,6.1,Germany,CM Gough,A Kanukuntla,J Maguire,0,0,,,,,,"",""
+ball,1,6.2,Germany,CM Gough,A Kanukuntla,J Maguire,1,0,,,,,,"",""
+ball,1,6.3,Germany,A Kanukuntla,CM Gough,J Maguire,0,0,,,,,,"",""
+ball,1,6.4,Germany,A Kanukuntla,CM Gough,J Maguire,0,0,,,,,,"",""
+ball,1,6.5,Germany,A Kanukuntla,CM Gough,J Maguire,1,0,,,,,,"",""
+ball,1,6.6,Germany,CM Gough,A Kanukuntla,J Maguire,0,0,,,,,,"",""
+ball,1,7.1,Germany,A Kanukuntla,CM Gough,A Canning,1,0,,,,,,"",""
+ball,1,7.2,Germany,CM Gough,A Kanukuntla,A Canning,0,0,,,,,,"",""
+ball,1,7.3,Germany,CM Gough,A Kanukuntla,A Canning,0,0,,,,,,"",""
+ball,1,7.4,Germany,CM Gough,A Kanukuntla,A Canning,0,0,,,,,,"",""
+ball,1,7.5,Germany,CM Gough,A Kanukuntla,A Canning,0,0,,,,,,"",""
+ball,1,7.6,Germany,CM Gough,A Kanukuntla,A Canning,0,0,,,,,,"",""
+ball,1,8.1,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,8.2,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,8.3,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,8.4,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,8.5,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,8.6,Germany,A Kanukuntla,CM Gough,LA McBride,1,0,,,,,,"",""
+ball,1,9.1,Germany,A Kanukuntla,CM Gough,C Murray,1,0,,,,,,"",""
+ball,1,9.2,Germany,CM Gough,A Kanukuntla,C Murray,0,0,,,,,,"",""
+ball,1,9.3,Germany,CM Gough,A Kanukuntla,C Murray,2,0,,,,,,"",""
+ball,1,9.4,Germany,CM Gough,A Kanukuntla,C Murray,2,0,,,,,,"",""
+ball,1,9.5,Germany,CM Gough,A Kanukuntla,C Murray,1,0,,,,,,"",""
+ball,1,9.6,Germany,A Kanukuntla,CM Gough,C Murray,0,0,,,,,,"",""
+ball,1,10.1,Germany,CM Gough,A Kanukuntla,LA McBride,1,0,,,,,,"",""
+ball,1,10.2,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,10.3,Germany,A Kanukuntla,CM Gough,LA McBride,1,0,,,,,,"",""
+ball,1,10.4,Germany,CM Gough,A Kanukuntla,LA McBride,1,0,,,,,,"",""
+ball,1,10.5,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,10.6,Germany,A Kanukuntla,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,11.1,Germany,CM Gough,A Kanukuntla,C Murray,1,0,,,,,,"",""
+ball,1,11.2,Germany,A Kanukuntla,CM Gough,C Murray,0,0,,,,,,"",""
+ball,1,11.3,Germany,A Kanukuntla,CM Gough,C Murray,1,0,,,,,,"",""
+ball,1,11.4,Germany,CM Gough,A Kanukuntla,C Murray,4,1,,1,,,,"",""
+ball,1,11.5,Germany,CM Gough,A Kanukuntla,C Murray,1,0,,,,,,"",""
+ball,1,11.6,Germany,A Kanukuntla,CM Gough,C Murray,0,0,,,,,,lbw,A Kanukuntla
+ball,1,11.7,Germany,Rameesha Shahid,CM Gough,C Murray,0,0,,,,,,"",""
+ball,1,12.1,Germany,CM Gough,Rameesha Shahid,LA McBride,0,0,,,,,,"",""
+ball,1,12.2,Germany,CM Gough,Rameesha Shahid,LA McBride,1,0,,,,,,"",""
+ball,1,12.3,Germany,Rameesha Shahid,CM Gough,LA McBride,4,0,,,,,,"",""
+ball,1,12.4,Germany,Rameesha Shahid,CM Gough,LA McBride,1,0,,,,,,"",""
+ball,1,12.5,Germany,CM Gough,Rameesha Shahid,LA McBride,1,0,,,,,,"",""
+ball,1,12.6,Germany,Rameesha Shahid,CM Gough,LA McBride,0,0,,,,,,"",""
+ball,1,13.1,Germany,CM Gough,Rameesha Shahid,AN Kelly,1,0,,,,,,"",""
+ball,1,13.2,Germany,Rameesha Shahid,CM Gough,AN Kelly,1,0,,,,,,"",""
+ball,1,13.3,Germany,CM Gough,Rameesha Shahid,AN Kelly,1,0,,,,,,"",""
+ball,1,13.4,Germany,Rameesha Shahid,CM Gough,AN Kelly,0,0,,,,,,lbw,Rameesha Shahid
+ball,1,13.5,Germany,N Kingsley,CM Gough,AN Kelly,1,0,,,,,,"",""
+ball,1,13.6,Germany,CM Gough,N Kingsley,AN Kelly,0,0,,,,,,"",""
+ball,1,14.1,Germany,N Kingsley,CM Gough,L Delany,0,0,,,,,,"",""
+ball,1,14.2,Germany,N Kingsley,CM Gough,L Delany,0,0,,,,,,caught,N Kingsley
+ball,1,14.3,Germany,V Stolle,CM Gough,L Delany,0,0,,,,,,"",""
+ball,1,14.4,Germany,V Stolle,CM Gough,L Delany,0,0,,,,,,bowled,V Stolle
+ball,1,14.5,Germany,A Kohli,CM Gough,L Delany,1,0,,,,,,"",""
+ball,1,14.6,Germany,CM Gough,A Kohli,L Delany,2,0,,,,,,"",""
+ball,1,15.1,Germany,A Kohli,CM Gough,AN Kelly,0,0,,,,,,"",""
+ball,1,15.2,Germany,A Kohli,CM Gough,AN Kelly,0,1,1,,,,,"",""
+ball,1,15.3,Germany,A Kohli,CM Gough,AN Kelly,1,0,,,,,,run out,A Kohli
+ball,1,15.4,Germany,I Edwards,CM Gough,AN Kelly,0,0,,,,,,"",""
+ball,1,15.5,Germany,I Edwards,CM Gough,AN Kelly,0,0,,,,,,"",""
+ball,1,15.6,Germany,I Edwards,CM Gough,AN Kelly,0,0,,,,,,"",""
+ball,1,15.7,Germany,I Edwards,CM Gough,AN Kelly,1,0,,,,,,"",""
+ball,1,16.1,Germany,I Edwards,CM Gough,L Delany,0,0,,,,,,"",""
+ball,1,16.2,Germany,I Edwards,CM Gough,L Delany,0,0,,,,,,"",""
+ball,1,16.3,Germany,I Edwards,CM Gough,L Delany,1,0,,,,,,"",""
+ball,1,16.4,Germany,CM Gough,I Edwards,L Delany,0,0,,,,,,"",""
+ball,1,16.5,Germany,CM Gough,I Edwards,L Delany,4,0,,,,,,"",""
+ball,1,16.6,Germany,CM Gough,I Edwards,L Delany,1,0,,,,,,"",""
+ball,1,17.1,Germany,CM Gough,I Edwards,L Paul,0,0,,,,,,"",""
+ball,1,17.2,Germany,CM Gough,I Edwards,L Paul,0,0,,,,,,"",""
+ball,1,17.3,Germany,CM Gough,I Edwards,L Paul,1,0,,,,,,"",""
+ball,1,17.4,Germany,I Edwards,CM Gough,L Paul,0,0,,,,,,"",""
+ball,1,17.5,Germany,I Edwards,CM Gough,L Paul,0,0,,,,,,"",""
+ball,1,17.6,Germany,I Edwards,CM Gough,L Paul,0,0,,,,,,"",""
+ball,1,18.1,Germany,CM Gough,I Edwards,L Delany,0,0,,,,,,caught,CM Gough
+ball,1,18.2,Germany,Ashwini Balaji,I Edwards,L Delany,0,0,,,,,,bowled,Ashwini Balaji
+ball,2,0.1,Ireland,A Hunter,GH Lewis,CM Gough,3,0,,,,,,"",""
+ball,2,0.2,Ireland,GH Lewis,A Hunter,CM Gough,0,0,,,,,,"",""
+ball,2,0.3,Ireland,GH Lewis,A Hunter,CM Gough,1,0,,,,,,"",""
+ball,2,0.4,Ireland,A Hunter,GH Lewis,CM Gough,1,0,,,,,,"",""
+ball,2,0.5,Ireland,GH Lewis,A Hunter,CM Gough,1,0,,,,,,"",""
+ball,2,0.6,Ireland,A Hunter,GH Lewis,CM Gough,4,0,,,,,,"",""
+ball,2,1.1,Ireland,GH Lewis,A Hunter,A Kanukuntla,1,0,,,,,,"",""
+ball,2,1.2,Ireland,A Hunter,GH Lewis,A Kanukuntla,1,0,,,,,,"",""
+ball,2,1.3,Ireland,GH Lewis,A Hunter,A Kanukuntla,2,0,,,,,,"",""
+ball,2,1.4,Ireland,GH Lewis,A Hunter,A Kanukuntla,1,0,,,,,,"",""
+ball,2,1.5,Ireland,A Hunter,GH Lewis,A Kanukuntla,0,0,,,,,,"",""
+ball,2,1.6,Ireland,A Hunter,GH Lewis,A Kanukuntla,1,0,,,,,,"",""
+ball,2,2.1,Ireland,A Hunter,GH Lewis,CM Gough,0,1,1,,,,,"",""
+ball,2,2.2,Ireland,A Hunter,GH Lewis,CM Gough,2,0,,,,,,"",""
+ball,2,2.3,Ireland,A Hunter,GH Lewis,CM Gough,0,0,,,,,,"",""
+ball,2,2.4,Ireland,A Hunter,GH Lewis,CM Gough,1,0,,,,,,"",""
+ball,2,2.5,Ireland,GH Lewis,A Hunter,CM Gough,0,0,,,,,,"",""
+ball,2,2.6,Ireland,GH Lewis,A Hunter,CM Gough,1,0,,,,,,"",""
+ball,2,2.7,Ireland,A Hunter,GH Lewis,CM Gough,1,0,,,,,,"",""
+ball,2,3.1,Ireland,A Hunter,GH Lewis,I Edwards,1,0,,,,,,"",""
+ball,2,3.2,Ireland,GH Lewis,A Hunter,I Edwards,1,0,,,,,,"",""
+ball,2,3.3,Ireland,A Hunter,GH Lewis,I Edwards,1,0,,,,,,"",""
+ball,2,3.4,Ireland,GH Lewis,A Hunter,I Edwards,4,0,,,,,,"",""
+ball,2,3.5,Ireland,GH Lewis,A Hunter,I Edwards,1,0,,,,,,"",""
+ball,2,3.6,Ireland,A Hunter,GH Lewis,I Edwards,1,0,,,,,,"",""
+ball,2,4.1,Ireland,A Hunter,GH Lewis,Ashwini Balaji,1,0,,,,,,"",""
+ball,2,4.2,Ireland,GH Lewis,A Hunter,Ashwini Balaji,1,0,,,,,,"",""
+ball,2,4.3,Ireland,A Hunter,GH Lewis,Ashwini Balaji,0,0,,,,,,"",""
+ball,2,4.4,Ireland,A Hunter,GH Lewis,Ashwini Balaji,1,0,,,,,,"",""
+ball,2,4.5,Ireland,GH Lewis,A Hunter,Ashwini Balaji,4,0,,,,,,"",""
+ball,2,4.6,Ireland,GH Lewis,A Hunter,Ashwini Balaji,0,1,1,,,,,"",""
+ball,2,4.7,Ireland,GH Lewis,A Hunter,Ashwini Balaji,0,1,1,,,,,"",""
+ball,2,4.8,Ireland,GH Lewis,A Hunter,Ashwini Balaji,0,0,,,,,,"",""
+ball,2,5.1,Ireland,A Hunter,GH Lewis,I Edwards,4,0,,,,,,"",""
+ball,2,5.2,Ireland,A Hunter,GH Lewis,I Edwards,4,0,,,,,,"",""
+ball,2,5.3,Ireland,A Hunter,GH Lewis,I Edwards,1,0,,,,,,"",""
+ball,2,5.4,Ireland,GH Lewis,A Hunter,I Edwards,4,0,,,,,,"",""
+ball,2,5.5,Ireland,GH Lewis,A Hunter,I Edwards,0,0,,,,,,"",""
+ball,2,5.6,Ireland,GH Lewis,A Hunter,I Edwards,1,0,,,,,,"",""
+ball,2,6.1,Ireland,GH Lewis,A Hunter,A Kohli,0,0,,,,,,"",""
+ball,2,6.2,Ireland,GH Lewis,A Hunter,A Kohli,4,0,,,,,,"",""
+ball,2,6.3,Ireland,GH Lewis,A Hunter,A Kohli,1,0,,,,,,"",""
+ball,2,6.4,Ireland,A Hunter,GH Lewis,A Kohli,0,0,,,,,,"",""
+ball,2,6.5,Ireland,A Hunter,GH Lewis,A Kohli,0,0,,,,,,"",""
+ball,2,6.6,Ireland,A Hunter,GH Lewis,A Kohli,2,0,,,,,,"",""
+ball,2,7.1,Ireland,GH Lewis,A Hunter,Rameesha Shahid,0,0,,,,,,"",""
+ball,2,7.2,Ireland,GH Lewis,A Hunter,Rameesha Shahid,1,0,,,,,,"",""
+ball,2,7.3,Ireland,A Hunter,GH Lewis,Rameesha Shahid,1,0,,,,,,"",""

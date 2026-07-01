@@ -1,0 +1,322 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Bangladesh
+info,gender,male
+info,season,2017/18
+info,date,2017/10/26
+info,event,Bangladesh tour of South Africa
+info,match_number,1
+info,venue,Mangaung Oval
+info,city,Bloemfontein
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,AB de Villiers
+info,umpire,AT Holdstock
+info,umpire,S George
+info,reserve_umpire,A Paleker
+info,tv_umpire,BP Jele
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_runs,20
+info,player,South Africa,Q de Kock
+info,player,South Africa,HM Amla
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JP Duminy
+info,player,South Africa,DA Miller
+info,player,South Africa,F Behardien
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,R Frylinck
+info,player,South Africa,AM Phangiso
+info,player,South Africa,D Paterson
+info,player,South Africa,BE Hendricks
+info,player,Bangladesh,Imrul Kayes
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Sabbir Rahman
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mohammad Saifuddin
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Shafiul Islam
+info,player,Bangladesh,Rubel Hossain
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,F Behardien,dce2019b
+info,registry,people,HM Amla,e798611a
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,S George,6d9e5a54
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taskin Ahmed,ef18b66e
+ball,1,0.1,South Africa,Q de Kock,HM Amla,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,0.2,South Africa,HM Amla,Q de Kock,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,0.3,South Africa,Q de Kock,HM Amla,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,0.4,South Africa,Q de Kock,HM Amla,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,0.5,South Africa,HM Amla,Q de Kock,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,0.6,South Africa,Q de Kock,HM Amla,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,1.1,South Africa,HM Amla,Q de Kock,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,1.2,South Africa,Q de Kock,HM Amla,Mehedi Hasan Miraz,0,0,,,,,,"",""
+ball,1,1.3,South Africa,Q de Kock,HM Amla,Mehedi Hasan Miraz,2,0,,,,,,"",""
+ball,1,1.4,South Africa,Q de Kock,HM Amla,Mehedi Hasan Miraz,4,0,,,,,,"",""
+ball,1,1.5,South Africa,Q de Kock,HM Amla,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,1.6,South Africa,HM Amla,Q de Kock,Mehedi Hasan Miraz,0,0,,,,,,bowled,HM Amla
+ball,1,2.1,South Africa,Q de Kock,AB de Villiers,Rubel Hossain,0,0,,,,,,"",""
+ball,1,2.2,South Africa,Q de Kock,AB de Villiers,Rubel Hossain,1,0,,,,,,"",""
+ball,1,2.3,South Africa,AB de Villiers,Q de Kock,Rubel Hossain,0,0,,,,,,"",""
+ball,1,2.4,South Africa,AB de Villiers,Q de Kock,Rubel Hossain,1,0,,,,,,"",""
+ball,1,2.5,South Africa,Q de Kock,AB de Villiers,Rubel Hossain,4,0,,,,,,"",""
+ball,1,2.6,South Africa,Q de Kock,AB de Villiers,Rubel Hossain,0,1,1,,,,,"",""
+ball,1,2.7,South Africa,Q de Kock,AB de Villiers,Rubel Hossain,1,0,,,,,,"",""
+ball,1,3.1,South Africa,Q de Kock,AB de Villiers,Taskin Ahmed,4,0,,,,,,"",""
+ball,1,3.2,South Africa,Q de Kock,AB de Villiers,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.3,South Africa,Q de Kock,AB de Villiers,Taskin Ahmed,0,0,,,,,,"",""
+ball,1,3.4,South Africa,Q de Kock,AB de Villiers,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,3.5,South Africa,AB de Villiers,Q de Kock,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,3.6,South Africa,Q de Kock,AB de Villiers,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,4.1,South Africa,Q de Kock,AB de Villiers,Rubel Hossain,4,0,,,,,,"",""
+ball,1,4.2,South Africa,Q de Kock,AB de Villiers,Rubel Hossain,1,0,,,,,,"",""
+ball,1,4.3,South Africa,AB de Villiers,Q de Kock,Rubel Hossain,0,0,,,,,,"",""
+ball,1,4.4,South Africa,AB de Villiers,Q de Kock,Rubel Hossain,0,0,,,,,,"",""
+ball,1,4.5,South Africa,AB de Villiers,Q de Kock,Rubel Hossain,0,1,1,,,,,"",""
+ball,1,4.6,South Africa,AB de Villiers,Q de Kock,Rubel Hossain,4,0,,,,,,"",""
+ball,1,4.7,South Africa,AB de Villiers,Q de Kock,Rubel Hossain,4,0,,,,,,"",""
+ball,1,5.1,South Africa,Q de Kock,AB de Villiers,Shafiul Islam,1,0,,,,,,"",""
+ball,1,5.2,South Africa,AB de Villiers,Q de Kock,Shafiul Islam,4,0,,,,,,"",""
+ball,1,5.3,South Africa,AB de Villiers,Q de Kock,Shafiul Islam,0,1,1,,,,,"",""
+ball,1,5.4,South Africa,AB de Villiers,Q de Kock,Shafiul Islam,0,0,,,,,,"",""
+ball,1,5.5,South Africa,AB de Villiers,Q de Kock,Shafiul Islam,4,0,,,,,,"",""
+ball,1,5.6,South Africa,AB de Villiers,Q de Kock,Shafiul Islam,4,0,,,,,,"",""
+ball,1,5.7,South Africa,AB de Villiers,Q de Kock,Shafiul Islam,4,0,,,,,,"",""
+ball,1,6.1,South Africa,Q de Kock,AB de Villiers,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,1,6.2,South Africa,AB de Villiers,Q de Kock,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,1,6.3,South Africa,AB de Villiers,Q de Kock,Mohammad Saifuddin,2,0,,,,,,"",""
+ball,1,6.4,South Africa,AB de Villiers,Q de Kock,Mohammad Saifuddin,4,0,,,,,,"",""
+ball,1,6.5,South Africa,AB de Villiers,Q de Kock,Mohammad Saifuddin,4,0,,,,,,"",""
+ball,1,6.6,South Africa,AB de Villiers,Q de Kock,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,1,7.1,South Africa,AB de Villiers,Q de Kock,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,7.2,South Africa,Q de Kock,AB de Villiers,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,7.3,South Africa,AB de Villiers,Q de Kock,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,7.4,South Africa,Q de Kock,AB de Villiers,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,7.5,South Africa,AB de Villiers,Q de Kock,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,7.6,South Africa,Q de Kock,AB de Villiers,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,8.1,South Africa,Q de Kock,AB de Villiers,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.2,South Africa,AB de Villiers,Q de Kock,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.3,South Africa,Q de Kock,AB de Villiers,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.4,South Africa,AB de Villiers,Q de Kock,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,8.5,South Africa,AB de Villiers,Q de Kock,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,8.6,South Africa,Q de Kock,AB de Villiers,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,9.1,South Africa,Q de Kock,AB de Villiers,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,9.2,South Africa,AB de Villiers,Q de Kock,Mehedi Hasan Miraz,2,0,,,,,,"",""
+ball,1,9.3,South Africa,AB de Villiers,Q de Kock,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,9.4,South Africa,Q de Kock,AB de Villiers,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,9.5,South Africa,AB de Villiers,Q de Kock,Mehedi Hasan Miraz,2,0,,,,,,"",""
+ball,1,9.6,South Africa,AB de Villiers,Q de Kock,Mehedi Hasan Miraz,0,0,,,,,,caught,AB de Villiers
+ball,1,10.1,South Africa,Q de Kock,JP Duminy,Mahmudullah,1,0,,,,,,"",""
+ball,1,10.2,South Africa,JP Duminy,Q de Kock,Mahmudullah,1,0,,,,,,"",""
+ball,1,10.3,South Africa,Q de Kock,JP Duminy,Mahmudullah,0,0,,,,,,"",""
+ball,1,10.4,South Africa,Q de Kock,JP Duminy,Mahmudullah,2,0,,,,,,"",""
+ball,1,10.5,South Africa,Q de Kock,JP Duminy,Mahmudullah,1,0,,,,,,"",""
+ball,1,10.6,South Africa,JP Duminy,Q de Kock,Mahmudullah,0,0,,,,,,"",""
+ball,1,11.1,South Africa,Q de Kock,JP Duminy,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,11.2,South Africa,JP Duminy,Q de Kock,Mehedi Hasan Miraz,0,0,,,,,,"",""
+ball,1,11.3,South Africa,JP Duminy,Q de Kock,Mehedi Hasan Miraz,6,0,,,,,,"",""
+ball,1,11.4,South Africa,JP Duminy,Q de Kock,Mehedi Hasan Miraz,2,0,,,,,,"",""
+ball,1,11.5,South Africa,JP Duminy,Q de Kock,Mehedi Hasan Miraz,0,0,,,,,,"",""
+ball,1,11.6,South Africa,JP Duminy,Q de Kock,Mehedi Hasan Miraz,1,0,,,,,,"",""
+ball,1,12.1,South Africa,JP Duminy,Q de Kock,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,12.2,South Africa,JP Duminy,Q de Kock,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,12.3,South Africa,Q de Kock,JP Duminy,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,12.4,South Africa,Q de Kock,JP Duminy,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,12.5,South Africa,JP Duminy,Q de Kock,Shakib Al Hasan,0,0,,,,,,caught,JP Duminy
+ball,1,12.6,South Africa,Q de Kock,DA Miller,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,13.1,South Africa,Q de Kock,DA Miller,Mahmudullah,1,0,,,,,,"",""
+ball,1,13.2,South Africa,DA Miller,Q de Kock,Mahmudullah,2,0,,,,,,"",""
+ball,1,13.3,South Africa,DA Miller,Q de Kock,Mahmudullah,1,0,,,,,,"",""
+ball,1,13.4,South Africa,Q de Kock,DA Miller,Mahmudullah,1,0,,,,,,"",""
+ball,1,13.5,South Africa,DA Miller,Q de Kock,Mahmudullah,1,0,,,,,,"",""
+ball,1,13.6,South Africa,Q de Kock,DA Miller,Mahmudullah,1,0,,,,,,"",""
+ball,1,14.1,South Africa,Q de Kock,DA Miller,Rubel Hossain,0,0,,,,,,"",""
+ball,1,14.2,South Africa,Q de Kock,DA Miller,Rubel Hossain,0,0,,,,,,"",""
+ball,1,14.3,South Africa,Q de Kock,DA Miller,Rubel Hossain,1,0,,,,,,"",""
+ball,1,14.4,South Africa,DA Miller,Q de Kock,Rubel Hossain,0,0,,,,,,"",""
+ball,1,14.5,South Africa,DA Miller,Q de Kock,Rubel Hossain,1,0,,,,,,"",""
+ball,1,14.6,South Africa,Q de Kock,DA Miller,Rubel Hossain,0,1,1,,,,,"",""
+ball,1,14.7,South Africa,Q de Kock,DA Miller,Rubel Hossain,0,0,,,,,,lbw,Q de Kock
+ball,1,15.1,South Africa,DA Miller,F Behardien,Mahmudullah,1,0,,,,,,"",""
+ball,1,15.2,South Africa,F Behardien,DA Miller,Mahmudullah,2,0,,,,,,"",""
+ball,1,15.3,South Africa,F Behardien,DA Miller,Mahmudullah,4,0,,,,,,"",""
+ball,1,15.4,South Africa,F Behardien,DA Miller,Mahmudullah,1,0,,,,,,"",""
+ball,1,15.5,South Africa,DA Miller,F Behardien,Mahmudullah,1,0,,,,,,"",""
+ball,1,15.6,South Africa,F Behardien,DA Miller,Mahmudullah,2,0,,,,,,"",""
+ball,1,16.1,South Africa,DA Miller,F Behardien,Rubel Hossain,1,0,,,,,,"",""
+ball,1,16.2,South Africa,F Behardien,DA Miller,Rubel Hossain,0,5,,1,4,,,"",""
+ball,1,16.3,South Africa,F Behardien,DA Miller,Rubel Hossain,1,0,,,,,,"",""
+ball,1,16.4,South Africa,DA Miller,F Behardien,Rubel Hossain,2,0,,,,,,"",""
+ball,1,16.5,South Africa,DA Miller,F Behardien,Rubel Hossain,1,0,,,,,,"",""
+ball,1,16.6,South Africa,F Behardien,DA Miller,Rubel Hossain,1,0,,,,,,"",""
+ball,1,16.7,South Africa,DA Miller,F Behardien,Rubel Hossain,2,0,,,,,,"",""
+ball,1,17.1,South Africa,F Behardien,DA Miller,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,17.2,South Africa,DA Miller,F Behardien,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,17.3,South Africa,DA Miller,F Behardien,Taskin Ahmed,1,0,,,,,,"",""
+ball,1,17.4,South Africa,F Behardien,DA Miller,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,17.5,South Africa,F Behardien,DA Miller,Taskin Ahmed,2,0,,,,,,"",""
+ball,1,17.6,South Africa,F Behardien,DA Miller,Taskin Ahmed,6,0,,,,,,"",""
+ball,1,18.1,South Africa,DA Miller,F Behardien,Shafiul Islam,2,0,,,,,,"",""
+ball,1,18.2,South Africa,DA Miller,F Behardien,Shafiul Islam,4,0,,,,,,"",""
+ball,1,18.3,South Africa,DA Miller,F Behardien,Shafiul Islam,1,0,,,,,,"",""
+ball,1,18.4,South Africa,F Behardien,DA Miller,Shafiul Islam,2,0,,,,,,"",""
+ball,1,18.5,South Africa,F Behardien,DA Miller,Shafiul Islam,0,0,,,,,,"",""
+ball,1,18.6,South Africa,F Behardien,DA Miller,Shafiul Islam,6,0,,,,,,"",""
+ball,1,19.1,South Africa,DA Miller,F Behardien,Mohammad Saifuddin,0,1,,,,1,,"",""
+ball,1,19.2,South Africa,F Behardien,DA Miller,Mohammad Saifuddin,4,0,,,,,,"",""
+ball,1,19.3,South Africa,F Behardien,DA Miller,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,1,19.4,South Africa,DA Miller,F Behardien,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,1,19.5,South Africa,F Behardien,DA Miller,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,1,19.6,South Africa,DA Miller,F Behardien,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,0.1,Bangladesh,Imrul Kayes,Soumya Sarkar,D Paterson,4,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Imrul Kayes,Soumya Sarkar,D Paterson,0,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Imrul Kayes,Soumya Sarkar,D Paterson,1,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Soumya Sarkar,Imrul Kayes,D Paterson,3,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Imrul Kayes,Soumya Sarkar,D Paterson,0,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Imrul Kayes,Soumya Sarkar,D Paterson,1,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Imrul Kayes,Soumya Sarkar,BE Hendricks,0,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Imrul Kayes,Soumya Sarkar,BE Hendricks,1,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Soumya Sarkar,Imrul Kayes,BE Hendricks,0,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Soumya Sarkar,Imrul Kayes,BE Hendricks,6,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Soumya Sarkar,Imrul Kayes,BE Hendricks,0,2,2,,,,,"",""
+ball,2,1.6,Bangladesh,Imrul Kayes,Soumya Sarkar,BE Hendricks,1,0,,,,,,"",""
+ball,2,1.7,Bangladesh,Soumya Sarkar,Imrul Kayes,BE Hendricks,0,1,,,,1,,"",""
+ball,2,2.1,Bangladesh,Soumya Sarkar,Imrul Kayes,D Paterson,0,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Soumya Sarkar,Imrul Kayes,D Paterson,4,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Soumya Sarkar,Imrul Kayes,D Paterson,2,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Soumya Sarkar,Imrul Kayes,D Paterson,0,0,,,,,,"",""
+ball,2,2.5,Bangladesh,Soumya Sarkar,Imrul Kayes,D Paterson,4,0,,,,,,"",""
+ball,2,2.6,Bangladesh,Soumya Sarkar,Imrul Kayes,D Paterson,0,2,2,,,,,"",""
+ball,2,2.7,Bangladesh,Imrul Kayes,Soumya Sarkar,D Paterson,1,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Imrul Kayes,Soumya Sarkar,BE Hendricks,1,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Soumya Sarkar,Imrul Kayes,BE Hendricks,4,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Soumya Sarkar,Imrul Kayes,BE Hendricks,4,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Soumya Sarkar,Imrul Kayes,BE Hendricks,1,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Imrul Kayes,Soumya Sarkar,BE Hendricks,0,0,,,,,,caught,Imrul Kayes
+ball,2,3.6,Bangladesh,Shakib Al Hasan,Soumya Sarkar,BE Hendricks,0,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Soumya Sarkar,Shakib Al Hasan,R Frylinck,0,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Soumya Sarkar,Shakib Al Hasan,R Frylinck,0,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Soumya Sarkar,Shakib Al Hasan,R Frylinck,0,0,,,,,,"",""
+ball,2,4.4,Bangladesh,Soumya Sarkar,Shakib Al Hasan,R Frylinck,4,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Soumya Sarkar,Shakib Al Hasan,R Frylinck,1,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Shakib Al Hasan,Soumya Sarkar,R Frylinck,4,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Soumya Sarkar,Shakib Al Hasan,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Soumya Sarkar,Shakib Al Hasan,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Soumya Sarkar,Shakib Al Hasan,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Shakib Al Hasan,Soumya Sarkar,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Soumya Sarkar,Shakib Al Hasan,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Shakib Al Hasan,Soumya Sarkar,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Soumya Sarkar,Shakib Al Hasan,R Frylinck,0,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Soumya Sarkar,Shakib Al Hasan,R Frylinck,1,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Shakib Al Hasan,Soumya Sarkar,R Frylinck,4,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Shakib Al Hasan,Soumya Sarkar,R Frylinck,4,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Shakib Al Hasan,Soumya Sarkar,R Frylinck,0,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Shakib Al Hasan,Soumya Sarkar,R Frylinck,0,0,,,,,,caught,Shakib Al Hasan
+ball,2,7.1,Bangladesh,Mushfiqur Rahim,Soumya Sarkar,JP Duminy,1,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,JP Duminy,2,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,JP Duminy,0,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,JP Duminy,0,5,5,,,,,"",""
+ball,2,7.5,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,JP Duminy,1,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Mushfiqur Rahim,Soumya Sarkar,JP Duminy,0,0,,,,,,"",""
+ball,2,7.7,Bangladesh,Mushfiqur Rahim,Soumya Sarkar,JP Duminy,6,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,AM Phangiso,0,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Mushfiqur Rahim,Soumya Sarkar,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,AM Phangiso,6,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Mushfiqur Rahim,Soumya Sarkar,AM Phangiso,4,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Soumya Sarkar,Mushfiqur Rahim,AL Phehlukwayo,0,0,,,,,,lbw,Soumya Sarkar
+ball,2,9.2,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,2,9.4,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Mushfiqur Rahim,Sabbir Rahman,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,9.7,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,2,9.8,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Sabbir Rahman,Mushfiqur Rahim,AM Phangiso,1,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Mushfiqur Rahim,Sabbir Rahman,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Mushfiqur Rahim,Sabbir Rahman,AM Phangiso,0,0,,,,,,caught,Mushfiqur Rahim
+ball,2,10.5,Bangladesh,Mahmudullah,Sabbir Rahman,AM Phangiso,2,0,,,,,,"",""
+ball,2,10.6,Bangladesh,Mahmudullah,Sabbir Rahman,AM Phangiso,1,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Mahmudullah,Sabbir Rahman,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,11.2,Bangladesh,Mahmudullah,Sabbir Rahman,AL Phehlukwayo,0,0,,,,,,caught,Mahmudullah
+ball,2,11.3,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,11.4,Bangladesh,Mohammad Saifuddin,Sabbir Rahman,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Mohammad Saifuddin,Sabbir Rahman,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Mohammad Saifuddin,Sabbir Rahman,AM Phangiso,2,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Mohammad Saifuddin,Sabbir Rahman,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,AM Phangiso,6,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Mohammad Saifuddin,Sabbir Rahman,AM Phangiso,0,1,1,,,,,"",""
+ball,2,12.6,Bangladesh,Mohammad Saifuddin,Sabbir Rahman,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.7,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,AM Phangiso,1,0,,,,,,"",""
+ball,2,13.1,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,BE Hendricks,0,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,BE Hendricks,0,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,BE Hendricks,6,0,,,,,,"",""
+ball,2,13.4,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,BE Hendricks,0,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Sabbir Rahman,Mohammad Saifuddin,BE Hendricks,0,0,,,,,,caught,Sabbir Rahman
+ball,2,13.6,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,BE Hendricks,1,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,R Frylinck,4,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,R Frylinck,0,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,R Frylinck,1,0,,,,,,"",""
+ball,2,14.4,Bangladesh,Mohammad Saifuddin,Mehedi Hasan Miraz,R Frylinck,1,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,R Frylinck,1,0,,,,,,"",""
+ball,2,14.6,Bangladesh,Mohammad Saifuddin,Mehedi Hasan Miraz,R Frylinck,1,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Mohammad Saifuddin,Mehedi Hasan Miraz,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Mohammad Saifuddin,Mehedi Hasan Miraz,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Mohammad Saifuddin,Mehedi Hasan Miraz,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,15.5,Bangladesh,Mohammad Saifuddin,Mehedi Hasan Miraz,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,AL Phehlukwayo,6,0,,,,,,"",""
+ball,2,16.1,Bangladesh,Mohammad Saifuddin,Mehedi Hasan Miraz,D Paterson,1,0,,,,,,"",""
+ball,2,16.2,Bangladesh,Mehedi Hasan Miraz,Mohammad Saifuddin,D Paterson,0,0,,,,,,bowled,Mehedi Hasan Miraz
+ball,2,16.3,Bangladesh,Taskin Ahmed,Mohammad Saifuddin,D Paterson,0,0,,,,,,lbw,Taskin Ahmed
+ball,2,16.4,Bangladesh,Shafiul Islam,Mohammad Saifuddin,D Paterson,1,0,,,,,,"",""
+ball,2,16.5,Bangladesh,Mohammad Saifuddin,Shafiul Islam,D Paterson,1,0,,,,,,"",""
+ball,2,16.6,Bangladesh,Shafiul Islam,Mohammad Saifuddin,D Paterson,0,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Mohammad Saifuddin,Shafiul Islam,R Frylinck,1,0,,,,,,"",""
+ball,2,17.2,Bangladesh,Shafiul Islam,Mohammad Saifuddin,R Frylinck,0,0,,,,,,caught,Shafiul Islam
+ball,2,17.3,Bangladesh,Mohammad Saifuddin,Rubel Hossain,R Frylinck,4,0,,,,,,"",""
+ball,2,17.4,Bangladesh,Mohammad Saifuddin,Rubel Hossain,R Frylinck,0,0,,,,,,"",""
+ball,2,17.5,Bangladesh,Mohammad Saifuddin,Rubel Hossain,R Frylinck,0,1,1,,,,,"",""
+ball,2,17.6,Bangladesh,Mohammad Saifuddin,Rubel Hossain,R Frylinck,1,0,,,,,,"",""
+ball,2,17.7,Bangladesh,Rubel Hossain,Mohammad Saifuddin,R Frylinck,0,0,,,,,,"",""
+ball,2,18.1,Bangladesh,Mohammad Saifuddin,Rubel Hossain,D Paterson,0,0,,,,,,"",""
+ball,2,18.2,Bangladesh,Mohammad Saifuddin,Rubel Hossain,D Paterson,2,0,,,,,,"",""
+ball,2,18.3,Bangladesh,Mohammad Saifuddin,Rubel Hossain,D Paterson,0,0,,,,,,"",""
+ball,2,18.4,Bangladesh,Mohammad Saifuddin,Rubel Hossain,D Paterson,2,0,,,,,,"",""
+ball,2,18.5,Bangladesh,Mohammad Saifuddin,Rubel Hossain,D Paterson,0,0,,,,,,"",""
+ball,2,18.6,Bangladesh,Mohammad Saifuddin,Rubel Hossain,D Paterson,0,0,,,,,,"",""
+ball,2,19.1,Bangladesh,Rubel Hossain,Mohammad Saifuddin,BE Hendricks,1,0,,,,,,"",""
+ball,2,19.2,Bangladesh,Mohammad Saifuddin,Rubel Hossain,BE Hendricks,6,0,,,,,,"",""
+ball,2,19.3,Bangladesh,Mohammad Saifuddin,Rubel Hossain,BE Hendricks,1,0,,,,,,"",""
+ball,2,19.4,Bangladesh,Rubel Hossain,Mohammad Saifuddin,BE Hendricks,1,0,,,,,,"",""
+ball,2,19.5,Bangladesh,Mohammad Saifuddin,Rubel Hossain,BE Hendricks,4,0,,,,,,"",""
+ball,2,19.6,Bangladesh,Mohammad Saifuddin,Rubel Hossain,BE Hendricks,2,0,,,,,,"",""

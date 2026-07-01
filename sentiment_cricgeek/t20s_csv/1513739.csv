@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Sri Lanka
+info,gender,female
+info,season,2025/26
+info,date,2025/12/30
+info,event,Sri Lanka Women tour of India
+info,match_number,5
+info,venue,"Greenfield International Stadium, Thiruvananthapuram"
+info,city,Thiruvananthapuram
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,H Kaur
+info,umpire,Gayathri Venugopal
+info,umpire,VG Rathi
+info,reserve_umpire,AS Guha
+info,tv_umpire,N Janani
+info,match_referee,GS Lakshmi
+info,winner,India
+info,winner_runs,15
+info,player,India,Shafali Verma
+info,player,India,G Kamalini
+info,player,India,H Deol
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,AB Kaur
+info,player,India,A Reddy
+info,player,India,S Rana
+info,player,India,N Shree Charani
+info,player,India,Vaishnavi Sharma
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,I Dulani
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,EMKNH Senavirathna
+info,player,Sri Lanka,R Sewwandi
+info,player,Sri Lanka,M Madara
+info,player,Sri Lanka,I Ranaweera
+info,player,Sri Lanka,NM Meepage
+info,registry,people,A Reddy,eadc8924
+info,registry,people,AB Kaur,9565fda6
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AS Guha,c21b184d
+info,registry,people,DB Sharma,201fef33
+info,registry,people,EMKNH Senavirathna,ec691a5b
+info,registry,people,G Kamalini,2a5ed897
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,H Deol,3664712e
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Dulani,a2c23f31
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,M Madara,ecbcfef6
+info,registry,people,N Janani,d06a665d
+info,registry,people,N Shree Charani,583ce32c
+info,registry,people,NM Meepage,420d4d31
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,R Sewwandi,c88d3ef1
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,S Rana,c4c374d9
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Vaishnavi Sharma,86e80bff
+info,registry,people,WK Dilhari,c34a15e6
+ball,1,0.1,India,Shafali Verma,G Kamalini,M Madara,0,0,,,,,,"",""
+ball,1,0.2,India,Shafali Verma,G Kamalini,M Madara,4,0,,,,,,"",""
+ball,1,0.3,India,Shafali Verma,G Kamalini,M Madara,0,0,,,,,,"",""
+ball,1,0.4,India,Shafali Verma,G Kamalini,M Madara,0,0,,,,,,"",""
+ball,1,0.5,India,Shafali Verma,G Kamalini,M Madara,1,0,,,,,,"",""
+ball,1,0.6,India,G Kamalini,Shafali Verma,M Madara,0,0,,,,,,"",""
+ball,1,1.1,India,Shafali Verma,G Kamalini,NM Meepage,0,0,,,,,,caught,Shafali Verma
+ball,1,1.2,India,H Deol,G Kamalini,NM Meepage,0,0,,,,,,"",""
+ball,1,1.3,India,H Deol,G Kamalini,NM Meepage,1,0,,,,,,"",""
+ball,1,1.4,India,G Kamalini,H Deol,NM Meepage,0,0,,,,,,"",""
+ball,1,1.5,India,G Kamalini,H Deol,NM Meepage,0,0,,,,,,"",""
+ball,1,1.6,India,G Kamalini,H Deol,NM Meepage,1,0,,,,,,"",""
+ball,1,2.1,India,G Kamalini,H Deol,M Madara,0,0,,,,,,"",""
+ball,1,2.2,India,G Kamalini,H Deol,M Madara,4,0,,,,,,"",""
+ball,1,2.3,India,G Kamalini,H Deol,M Madara,1,0,,,,,,"",""
+ball,1,2.4,India,H Deol,G Kamalini,M Madara,0,0,,,,,,"",""
+ball,1,2.5,India,H Deol,G Kamalini,M Madara,4,0,,,,,,"",""
+ball,1,2.6,India,H Deol,G Kamalini,M Madara,0,0,,,,,,"",""
+ball,1,3.1,India,G Kamalini,H Deol,NM Meepage,1,0,,,,,,"",""
+ball,1,3.2,India,H Deol,G Kamalini,NM Meepage,4,0,,,,,,"",""
+ball,1,3.3,India,H Deol,G Kamalini,NM Meepage,1,0,,,,,,"",""
+ball,1,3.4,India,G Kamalini,H Deol,NM Meepage,4,0,,,,,,"",""
+ball,1,3.5,India,G Kamalini,H Deol,NM Meepage,0,0,,,,,,"",""
+ball,1,3.6,India,G Kamalini,H Deol,NM Meepage,1,0,,,,,,"",""
+ball,1,4.1,India,G Kamalini,H Deol,WK Dilhari,0,0,,,,,,lbw,G Kamalini
+ball,1,4.2,India,H Kaur,H Deol,WK Dilhari,0,0,,,,,,"",""
+ball,1,4.3,India,H Kaur,H Deol,WK Dilhari,4,0,,,,,,"",""
+ball,1,4.4,India,H Kaur,H Deol,WK Dilhari,1,0,,,,,,"",""
+ball,1,4.5,India,H Deol,H Kaur,WK Dilhari,1,0,,,,,,"",""
+ball,1,4.6,India,H Kaur,H Deol,WK Dilhari,1,0,,,,,,"",""
+ball,1,5.1,India,H Kaur,H Deol,I Ranaweera,0,0,,,,,,"",""
+ball,1,5.2,India,H Kaur,H Deol,I Ranaweera,1,0,,,,,,"",""
+ball,1,5.3,India,H Deol,H Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,5.4,India,H Kaur,H Deol,I Ranaweera,1,0,,,,,,"",""
+ball,1,5.5,India,H Deol,H Kaur,I Ranaweera,0,1,1,,,,,"",""
+ball,1,5.6,India,H Deol,H Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,5.7,India,H Kaur,H Deol,I Ranaweera,1,0,,,,,,"",""
+ball,1,6.1,India,H Kaur,H Deol,R Sewwandi,1,0,,,,,,"",""
+ball,1,6.2,India,H Deol,H Kaur,R Sewwandi,0,0,,,,,,bowled,H Deol
+ball,1,6.3,India,RM Ghosh,H Kaur,R Sewwandi,0,0,,,,,,"",""
+ball,1,6.4,India,RM Ghosh,H Kaur,R Sewwandi,0,0,,,,,,"",""
+ball,1,6.5,India,RM Ghosh,H Kaur,R Sewwandi,0,1,1,,,,,"",""
+ball,1,6.6,India,RM Ghosh,H Kaur,R Sewwandi,0,1,1,,,,,"",""
+ball,1,6.7,India,RM Ghosh,H Kaur,R Sewwandi,0,1,1,,,,,"",""
+ball,1,6.8,India,RM Ghosh,H Kaur,R Sewwandi,4,0,,,,,,"",""
+ball,1,6.9,India,RM Ghosh,H Kaur,R Sewwandi,0,0,,,,,,"",""
+ball,1,7.1,India,H Kaur,RM Ghosh,I Ranaweera,4,0,,,,,,"",""
+ball,1,7.2,India,H Kaur,RM Ghosh,I Ranaweera,2,0,,,,,,"",""
+ball,1,7.3,India,H Kaur,RM Ghosh,I Ranaweera,4,0,,,,,,"",""
+ball,1,7.4,India,H Kaur,RM Ghosh,I Ranaweera,0,0,,,,,,"",""
+ball,1,7.5,India,H Kaur,RM Ghosh,I Ranaweera,4,0,,,,,,"",""
+ball,1,7.6,India,H Kaur,RM Ghosh,I Ranaweera,0,0,,,,,,"",""
+ball,1,8.1,India,RM Ghosh,H Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,8.2,India,H Kaur,RM Ghosh,AC Jayangani,1,0,,,,,,"",""
+ball,1,8.3,India,RM Ghosh,H Kaur,AC Jayangani,0,0,,,,,,caught,RM Ghosh
+ball,1,8.4,India,DB Sharma,H Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,8.5,India,H Kaur,DB Sharma,AC Jayangani,1,0,,,,,,"",""
+ball,1,8.6,India,DB Sharma,H Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.1,India,DB Sharma,H Kaur,R Sewwandi,0,0,,,,,,"",""
+ball,1,9.2,India,DB Sharma,H Kaur,R Sewwandi,1,0,,,,,,"",""
+ball,1,9.3,India,H Kaur,DB Sharma,R Sewwandi,0,1,1,,,,,"",""
+ball,1,9.4,India,H Kaur,DB Sharma,R Sewwandi,1,0,,,,,,"",""
+ball,1,9.5,India,DB Sharma,H Kaur,R Sewwandi,2,0,,,,,,"",""
+ball,1,9.6,India,DB Sharma,H Kaur,R Sewwandi,1,0,,,,,,"",""
+ball,1,9.7,India,H Kaur,DB Sharma,R Sewwandi,1,0,,,,,,"",""
+ball,1,10.1,India,H Kaur,DB Sharma,AC Jayangani,1,0,,,,,,"",""
+ball,1,10.2,India,DB Sharma,H Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,10.3,India,H Kaur,DB Sharma,AC Jayangani,1,0,,,,,,"",""
+ball,1,10.4,India,DB Sharma,H Kaur,AC Jayangani,0,0,,,,,,caught,DB Sharma
+ball,1,10.5,India,AB Kaur,H Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,10.6,India,H Kaur,AB Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.1,India,H Kaur,AB Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,11.2,India,AB Kaur,H Kaur,I Ranaweera,0,0,,,,,,"",""
+ball,1,11.3,India,AB Kaur,H Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,11.4,India,H Kaur,AB Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,11.5,India,AB Kaur,H Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,11.6,India,H Kaur,AB Kaur,I Ranaweera,0,0,,,,,,"",""
+ball,1,12.1,India,AB Kaur,H Kaur,M Madara,0,0,,,,,,"",""
+ball,1,12.2,India,AB Kaur,H Kaur,M Madara,1,0,,,,,,"",""
+ball,1,12.3,India,H Kaur,AB Kaur,M Madara,1,0,,,,,,"",""
+ball,1,12.4,India,AB Kaur,H Kaur,M Madara,0,0,,,,,,"",""
+ball,1,12.5,India,AB Kaur,H Kaur,M Madara,1,0,,,,,,"",""
+ball,1,12.6,India,H Kaur,AB Kaur,M Madara,0,0,,,,,,"",""
+ball,1,13.1,India,AB Kaur,H Kaur,NM Meepage,4,0,,,,,,"",""
+ball,1,13.2,India,AB Kaur,H Kaur,NM Meepage,1,0,,,,,,"",""
+ball,1,13.3,India,H Kaur,AB Kaur,NM Meepage,4,0,,,,,,"",""
+ball,1,13.4,India,H Kaur,AB Kaur,NM Meepage,1,0,,,,,,"",""
+ball,1,13.5,India,AB Kaur,H Kaur,NM Meepage,1,0,,,,,,"",""
+ball,1,13.6,India,H Kaur,AB Kaur,NM Meepage,1,0,,,,,,"",""
+ball,1,14.1,India,H Kaur,AB Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,14.2,India,AB Kaur,H Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,14.3,India,H Kaur,AB Kaur,AC Jayangani,0,0,,,,,,"",""
+ball,1,14.4,India,H Kaur,AB Kaur,AC Jayangani,4,0,,,,,,"",""
+ball,1,14.5,India,H Kaur,AB Kaur,AC Jayangani,4,0,,,,,,"",""
+ball,1,14.6,India,H Kaur,AB Kaur,AC Jayangani,1,0,,,,,,"",""
+ball,1,15.1,India,H Kaur,AB Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,15.2,India,AB Kaur,H Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,15.3,India,H Kaur,AB Kaur,I Ranaweera,6,0,,,,,,"",""
+ball,1,15.4,India,H Kaur,AB Kaur,I Ranaweera,4,1,,1,,,,"",""
+ball,1,15.5,India,H Kaur,AB Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,15.6,India,AB Kaur,H Kaur,I Ranaweera,0,0,,,,,,"",""
+ball,1,15.7,India,AB Kaur,H Kaur,I Ranaweera,1,0,,,,,,"",""
+ball,1,16.1,India,AB Kaur,H Kaur,R Sewwandi,1,0,,,,,,"",""
+ball,1,16.2,India,H Kaur,AB Kaur,R Sewwandi,0,1,1,,,,,"",""
+ball,1,16.3,India,H Kaur,AB Kaur,R Sewwandi,4,0,,,,,,"",""
+ball,1,16.4,India,H Kaur,AB Kaur,R Sewwandi,0,1,1,,,,,"",""
+ball,1,16.5,India,H Kaur,AB Kaur,R Sewwandi,1,0,,,,,,"",""
+ball,1,16.6,India,AB Kaur,H Kaur,R Sewwandi,6,0,,,,,,"",""
+ball,1,16.7,India,AB Kaur,H Kaur,R Sewwandi,0,0,,,,,,caught,AB Kaur
+ball,1,16.8,India,A Reddy,H Kaur,R Sewwandi,1,0,,,,,,"",""
+ball,1,17.1,India,A Reddy,H Kaur,WK Dilhari,1,0,,,,,,"",""
+ball,1,17.2,India,H Kaur,A Reddy,WK Dilhari,1,0,,,,,,"",""
+ball,1,17.3,India,A Reddy,H Kaur,WK Dilhari,1,0,,,,,,"",""
+ball,1,17.4,India,H Kaur,A Reddy,WK Dilhari,0,0,,,,,,bowled,H Kaur
+ball,1,17.5,India,S Rana,A Reddy,WK Dilhari,0,0,,,,,,"",""
+ball,1,17.6,India,S Rana,A Reddy,WK Dilhari,1,0,,,,,,"",""
+ball,1,18.1,India,S Rana,A Reddy,R Sewwandi,4,0,,,,,,"",""
+ball,1,18.2,India,S Rana,A Reddy,R Sewwandi,2,0,,,,,,"",""
+ball,1,18.3,India,S Rana,A Reddy,R Sewwandi,1,0,,,,,,"",""
+ball,1,18.4,India,A Reddy,S Rana,R Sewwandi,0,0,,,,,,"",""
+ball,1,18.5,India,A Reddy,S Rana,R Sewwandi,4,0,,,,,,"",""
+ball,1,18.6,India,A Reddy,S Rana,R Sewwandi,1,0,,,,,,"",""
+ball,1,19.1,India,A Reddy,S Rana,M Madara,4,0,,,,,,"",""
+ball,1,19.2,India,A Reddy,S Rana,M Madara,0,1,1,,,,,"",""
+ball,1,19.3,India,A Reddy,S Rana,M Madara,6,0,,,,,,"",""
+ball,1,19.4,India,A Reddy,S Rana,M Madara,4,0,,,,,,"",""
+ball,1,19.5,India,A Reddy,S Rana,M Madara,4,0,,,,,,"",""
+ball,1,19.6,India,A Reddy,S Rana,M Madara,1,0,,,,,,"",""
+ball,1,19.7,India,S Rana,A Reddy,M Madara,0,0,,,,,,"",""
+ball,2,0.1,Sri Lanka,GWHM Perera,AC Jayangani,DB Sharma,0,0,,,,,,"",""
+ball,2,0.2,Sri Lanka,GWHM Perera,AC Jayangani,DB Sharma,1,0,,,,,,"",""
+ball,2,0.3,Sri Lanka,AC Jayangani,GWHM Perera,DB Sharma,0,0,,,,,,"",""
+ball,2,0.4,Sri Lanka,AC Jayangani,GWHM Perera,DB Sharma,0,0,,,,,,"",""
+ball,2,0.5,Sri Lanka,AC Jayangani,GWHM Perera,DB Sharma,1,0,,,,,,"",""
+ball,2,0.6,Sri Lanka,GWHM Perera,AC Jayangani,DB Sharma,1,0,,,,,,"",""
+ball,2,1.1,Sri Lanka,GWHM Perera,AC Jayangani,A Reddy,0,1,1,,,,,"",""
+ball,2,1.2,Sri Lanka,GWHM Perera,AC Jayangani,A Reddy,1,0,,,,,,"",""
+ball,2,1.3,Sri Lanka,AC Jayangani,GWHM Perera,A Reddy,1,0,,,,,,"",""
+ball,2,1.4,Sri Lanka,GWHM Perera,AC Jayangani,A Reddy,0,0,,,,,,"",""
+ball,2,1.5,Sri Lanka,GWHM Perera,AC Jayangani,A Reddy,1,0,,,,,,"",""
+ball,2,1.6,Sri Lanka,AC Jayangani,GWHM Perera,A Reddy,0,0,,,,,,caught,AC Jayangani
+ball,2,1.7,Sri Lanka,I Dulani,GWHM Perera,A Reddy,0,1,1,,,,,"",""
+ball,2,1.8,Sri Lanka,I Dulani,GWHM Perera,A Reddy,0,0,,,,,,"",""
+ball,2,2.1,Sri Lanka,GWHM Perera,I Dulani,DB Sharma,1,0,,,,,,"",""
+ball,2,2.2,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,0,0,,,,,,"",""
+ball,2,2.3,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,4,0,,,,,,"",""
+ball,2,2.4,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,4,0,,,,,,"",""
+ball,2,2.5,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,0,0,,,,,,"",""
+ball,2,2.6,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,1,0,,,,,,"",""
+ball,2,3.1,Sri Lanka,I Dulani,GWHM Perera,A Reddy,1,0,,,,,,"",""
+ball,2,3.2,Sri Lanka,GWHM Perera,I Dulani,A Reddy,1,0,,,,,,"",""
+ball,2,3.3,Sri Lanka,I Dulani,GWHM Perera,A Reddy,4,0,,,,,,"",""
+ball,2,3.4,Sri Lanka,I Dulani,GWHM Perera,A Reddy,0,0,,,,,,"",""
+ball,2,3.5,Sri Lanka,I Dulani,GWHM Perera,A Reddy,1,0,,,,,,"",""
+ball,2,3.6,Sri Lanka,GWHM Perera,I Dulani,A Reddy,4,0,,,,,,"",""
+ball,2,4.1,Sri Lanka,I Dulani,GWHM Perera,S Rana,4,0,,,,,,"",""
+ball,2,4.2,Sri Lanka,I Dulani,GWHM Perera,S Rana,0,0,,,,,,"",""
+ball,2,4.3,Sri Lanka,I Dulani,GWHM Perera,S Rana,1,0,,,,,,"",""
+ball,2,4.4,Sri Lanka,GWHM Perera,I Dulani,S Rana,1,0,,,,,,"",""
+ball,2,4.5,Sri Lanka,I Dulani,GWHM Perera,S Rana,0,0,,,,,,"",""
+ball,2,4.6,Sri Lanka,I Dulani,GWHM Perera,S Rana,1,0,,,,,,"",""
+ball,2,5.1,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,4,0,,,,,,"",""
+ball,2,5.2,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,1,0,,,,,,"",""
+ball,2,5.3,Sri Lanka,GWHM Perera,I Dulani,DB Sharma,1,0,,,,,,"",""
+ball,2,5.4,Sri Lanka,I Dulani,GWHM Perera,DB Sharma,1,0,,,,,,"",""
+ball,2,5.5,Sri Lanka,GWHM Perera,I Dulani,DB Sharma,4,0,,,,,,"",""
+ball,2,5.6,Sri Lanka,GWHM Perera,I Dulani,DB Sharma,1,0,,,,,,"",""
+ball,2,6.1,Sri Lanka,GWHM Perera,I Dulani,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,6.2,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,6.3,Sri Lanka,GWHM Perera,I Dulani,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,6.4,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,0,0,,,,,,"",""
+ball,2,6.5,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,6.6,Sri Lanka,GWHM Perera,I Dulani,Vaishnavi Sharma,4,0,,,,,,"",""
+ball,2,7.1,Sri Lanka,I Dulani,GWHM Perera,S Rana,1,0,,,,,,"",""
+ball,2,7.2,Sri Lanka,GWHM Perera,I Dulani,S Rana,1,0,,,,,,"",""
+ball,2,7.3,Sri Lanka,I Dulani,GWHM Perera,S Rana,1,0,,,,,,"",""
+ball,2,7.4,Sri Lanka,GWHM Perera,I Dulani,S Rana,1,0,,,,,,"",""
+ball,2,7.5,Sri Lanka,I Dulani,GWHM Perera,S Rana,4,0,,,,,,"",""
+ball,2,7.6,Sri Lanka,I Dulani,GWHM Perera,S Rana,1,0,,,,,,"",""
+ball,2,8.1,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,8.2,Sri Lanka,GWHM Perera,I Dulani,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,8.3,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,0,0,,,,,,"",""
+ball,2,8.4,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,0,0,,,,,,"",""
+ball,2,8.5,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,0,0,,,,,,"",""
+ball,2,8.6,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,2,0,,,,,,"",""
+ball,2,9.1,Sri Lanka,GWHM Perera,I Dulani,N Shree Charani,1,0,,,,,,"",""
+ball,2,9.2,Sri Lanka,I Dulani,GWHM Perera,N Shree Charani,0,0,,,,,,"",""
+ball,2,9.3,Sri Lanka,I Dulani,GWHM Perera,N Shree Charani,0,0,,,,,,"",""
+ball,2,9.4,Sri Lanka,I Dulani,GWHM Perera,N Shree Charani,0,0,,,,,,"",""
+ball,2,9.5,Sri Lanka,I Dulani,GWHM Perera,N Shree Charani,1,0,,,,,,"",""
+ball,2,9.6,Sri Lanka,GWHM Perera,I Dulani,N Shree Charani,4,0,,,,,,"",""
+ball,2,10.1,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,4,0,,,,,,"",""
+ball,2,10.2,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,4,0,,,,,,"",""
+ball,2,10.3,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,10.4,Sri Lanka,GWHM Perera,I Dulani,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,10.5,Sri Lanka,I Dulani,GWHM Perera,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,10.6,Sri Lanka,GWHM Perera,I Dulani,Vaishnavi Sharma,0,0,,,,,,"",""
+ball,2,11.1,Sri Lanka,I Dulani,GWHM Perera,AB Kaur,0,0,,,,,,caught,I Dulani
+ball,2,11.2,Sri Lanka,NND de Silva,GWHM Perera,AB Kaur,1,0,,,,,,"",""
+ball,2,11.3,Sri Lanka,GWHM Perera,NND de Silva,AB Kaur,0,0,,,,,,"",""
+ball,2,11.4,Sri Lanka,GWHM Perera,NND de Silva,AB Kaur,2,0,,,,,,"",""
+ball,2,11.5,Sri Lanka,GWHM Perera,NND de Silva,AB Kaur,4,0,,,,,,"",""
+ball,2,11.6,Sri Lanka,GWHM Perera,NND de Silva,AB Kaur,1,0,,,,,,"",""
+ball,2,12.1,Sri Lanka,GWHM Perera,NND de Silva,N Shree Charani,1,0,,,,,,"",""
+ball,2,12.2,Sri Lanka,NND de Silva,GWHM Perera,N Shree Charani,1,0,,,,,,"",""
+ball,2,12.3,Sri Lanka,GWHM Perera,NND de Silva,N Shree Charani,1,0,,,,,,"",""
+ball,2,12.4,Sri Lanka,NND de Silva,GWHM Perera,N Shree Charani,1,0,,,,,,"",""
+ball,2,12.5,Sri Lanka,GWHM Perera,NND de Silva,N Shree Charani,1,0,,,,,,"",""
+ball,2,12.6,Sri Lanka,NND de Silva,GWHM Perera,N Shree Charani,0,0,,,,,,"",""
+ball,2,13.1,Sri Lanka,GWHM Perera,NND de Silva,DB Sharma,0,0,,,,,,"",""
+ball,2,13.2,Sri Lanka,GWHM Perera,NND de Silva,DB Sharma,1,0,,,,,,"",""
+ball,2,13.3,Sri Lanka,NND de Silva,GWHM Perera,DB Sharma,0,0,,,,,,lbw,NND de Silva
+ball,2,13.4,Sri Lanka,WK Dilhari,GWHM Perera,DB Sharma,0,0,,,,,,"",""
+ball,2,13.5,Sri Lanka,WK Dilhari,GWHM Perera,DB Sharma,1,0,,,,,,"",""
+ball,2,13.6,Sri Lanka,GWHM Perera,WK Dilhari,DB Sharma,1,0,,,,,,"",""
+ball,2,14.1,Sri Lanka,GWHM Perera,WK Dilhari,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,14.2,Sri Lanka,WK Dilhari,GWHM Perera,Vaishnavi Sharma,4,0,,,,,,"",""
+ball,2,14.3,Sri Lanka,WK Dilhari,GWHM Perera,Vaishnavi Sharma,0,0,,,,,,bowled,WK Dilhari
+ball,2,14.4,Sri Lanka,H Madavi,GWHM Perera,Vaishnavi Sharma,1,0,,,,,,"",""
+ball,2,14.5,Sri Lanka,GWHM Perera,H Madavi,Vaishnavi Sharma,0,0,,,,,,"",""
+ball,2,14.6,Sri Lanka,GWHM Perera,H Madavi,Vaishnavi Sharma,4,0,,,,,,"",""
+ball,2,15.1,Sri Lanka,H Madavi,GWHM Perera,AB Kaur,1,0,,,,,,"",""
+ball,2,15.2,Sri Lanka,GWHM Perera,H Madavi,AB Kaur,1,0,,,,,,"",""
+ball,2,15.3,Sri Lanka,H Madavi,GWHM Perera,AB Kaur,1,0,,,,,,"",""
+ball,2,15.4,Sri Lanka,GWHM Perera,H Madavi,AB Kaur,4,0,,,,,,"",""
+ball,2,15.5,Sri Lanka,GWHM Perera,H Madavi,AB Kaur,1,0,,,,,,"",""
+ball,2,15.6,Sri Lanka,H Madavi,GWHM Perera,AB Kaur,1,0,,,,,,"",""
+ball,2,16.1,Sri Lanka,H Madavi,GWHM Perera,N Shree Charani,1,0,,,,,,"",""
+ball,2,16.2,Sri Lanka,GWHM Perera,H Madavi,N Shree Charani,4,0,,,,,,"",""
+ball,2,16.3,Sri Lanka,GWHM Perera,H Madavi,N Shree Charani,6,0,,,,,,"",""
+ball,2,16.4,Sri Lanka,GWHM Perera,H Madavi,N Shree Charani,0,0,,,,,,bowled,GWHM Perera
+ball,2,16.5,Sri Lanka,EMKNH Senavirathna,H Madavi,N Shree Charani,0,0,,,,,,"",""
+ball,2,16.6,Sri Lanka,EMKNH Senavirathna,H Madavi,N Shree Charani,0,0,,,,,,"",""
+ball,2,17.1,Sri Lanka,H Madavi,EMKNH Senavirathna,S Rana,0,4,,,4,,,"",""
+ball,2,17.2,Sri Lanka,H Madavi,EMKNH Senavirathna,S Rana,3,0,,,,,,"",""
+ball,2,17.3,Sri Lanka,EMKNH Senavirathna,H Madavi,S Rana,1,0,,,,,,"",""
+ball,2,17.4,Sri Lanka,H Madavi,EMKNH Senavirathna,S Rana,0,0,,,,,,run out,EMKNH Senavirathna
+ball,2,17.5,Sri Lanka,H Madavi,R Sewwandi,S Rana,0,0,,,,,,caught,H Madavi
+ball,2,17.6,Sri Lanka,M Madara,R Sewwandi,S Rana,0,1,1,,,,,"",""
+ball,2,17.7,Sri Lanka,M Madara,R Sewwandi,S Rana,1,0,,,,,,"",""
+ball,2,18.1,Sri Lanka,M Madara,R Sewwandi,N Shree Charani,1,0,,,,,,"",""
+ball,2,18.2,Sri Lanka,R Sewwandi,M Madara,N Shree Charani,2,0,,,,,,"",""
+ball,2,18.3,Sri Lanka,R Sewwandi,M Madara,N Shree Charani,1,0,,,,,,"",""
+ball,2,18.4,Sri Lanka,M Madara,R Sewwandi,N Shree Charani,1,0,,,,,,"",""
+ball,2,18.5,Sri Lanka,R Sewwandi,M Madara,N Shree Charani,4,0,,,,,,"",""
+ball,2,18.6,Sri Lanka,R Sewwandi,M Madara,N Shree Charani,0,0,,,,,,"",""
+ball,2,19.1,Sri Lanka,M Madara,R Sewwandi,S Rana,1,0,,,,,,"",""
+ball,2,19.2,Sri Lanka,R Sewwandi,M Madara,S Rana,1,0,,,,,,"",""
+ball,2,19.3,Sri Lanka,M Madara,R Sewwandi,S Rana,1,0,,,,,,"",""
+ball,2,19.4,Sri Lanka,R Sewwandi,M Madara,S Rana,0,0,,,,,,"",""
+ball,2,19.5,Sri Lanka,R Sewwandi,M Madara,S Rana,4,0,,,,,,"",""
+ball,2,19.6,Sri Lanka,R Sewwandi,M Madara,S Rana,2,0,,,,,,"",""

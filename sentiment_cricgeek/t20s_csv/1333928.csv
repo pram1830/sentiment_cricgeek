@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Samoa
+info,gender,male
+info,season,2022
+info,date,2022/09/15
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,11
+info,venue,"Independence Park, Port Vila"
+info,city,Port Vila
+info,toss_winner,Samoa
+info,toss_decision,field
+info,player_of_match,SM Tupou
+info,umpire,CA Polosak
+info,umpire,M Kenni
+info,reserve_umpire,Bri Olewale
+info,winner,Fiji
+info,winner_runs,30
+info,player,Fiji,N Acawei
+info,player,Fiji,PV Vuniwaqa
+info,player,Fiji,DS Maraiwai
+info,player,Fiji,J Baleicikoibia
+info,player,Fiji,M Beitaki
+info,player,Fiji,P Cabebula
+info,player,Fiji,SM Tupou
+info,player,Fiji,TS Waqavakatoga
+info,player,Fiji,S Ravoka
+info,player,Fiji,S Draunivudi
+info,player,Fiji,S Weleilakeba
+info,player,Samoa,S Sola
+info,player,Samoa,S Cotter
+info,player,Samoa,DP Michael
+info,player,Samoa,SF Tiai
+info,player,Samoa,AJ Michael
+info,player,Samoa,CK Jasmat
+info,player,Samoa,F Suluoto
+info,player,Samoa,T Kaisala
+info,player,Samoa,JD Baker
+info,player,Samoa,D Finau
+info,player,Samoa,DE Roache
+info,registry,people,AJ Michael,d68f4aa1
+info,registry,people,Bri Olewale,c76cdfd7
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Finau,63772ee4
+info,registry,people,DE Roache,110b180a
+info,registry,people,DP Michael,9815de17
+info,registry,people,DS Maraiwai,a6755401
+info,registry,people,F Suluoto,ae380321
+info,registry,people,J Baleicikoibia,30a307d3
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,M Beitaki,3d29b5fc
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,N Acawei,93c8799e
+info,registry,people,P Cabebula,7eb7b47b
+info,registry,people,PV Vuniwaqa,653a7fa8
+info,registry,people,S Cotter,e6127436
+info,registry,people,S Draunivudi,b708c4ad
+info,registry,people,S Ravoka,ce7936a5
+info,registry,people,S Sola,3f9feb1e
+info,registry,people,S Weleilakeba,45b8f7c8
+info,registry,people,SF Tiai,bf19d427
+info,registry,people,SM Tupou,a02b9f81
+info,registry,people,T Kaisala,80ba2fe8
+info,registry,people,TS Waqavakatoga,039cabd9
+ball,1,0.1,Fiji,N Acawei,PV Vuniwaqa,CK Jasmat,1,0,,,,,,"",""
+ball,1,0.2,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,0,0,,,,,,"",""
+ball,1,0.3,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,4,0,,,,,,"",""
+ball,1,0.4,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,0,0,,,,,,"",""
+ball,1,0.5,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,1,0,,,,,,"",""
+ball,1,0.6,Fiji,N Acawei,PV Vuniwaqa,CK Jasmat,0,0,,,,,,"",""
+ball,1,1.1,Fiji,PV Vuniwaqa,N Acawei,D Finau,2,0,,,,,,"",""
+ball,1,1.2,Fiji,PV Vuniwaqa,N Acawei,D Finau,6,0,,,,,,"",""
+ball,1,1.3,Fiji,PV Vuniwaqa,N Acawei,D Finau,1,0,,,,,,"",""
+ball,1,1.4,Fiji,N Acawei,PV Vuniwaqa,D Finau,1,0,,,,,,"",""
+ball,1,1.5,Fiji,PV Vuniwaqa,N Acawei,D Finau,6,0,,,,,,"",""
+ball,1,1.6,Fiji,PV Vuniwaqa,N Acawei,D Finau,4,0,,,,,,"",""
+ball,1,2.1,Fiji,N Acawei,PV Vuniwaqa,CK Jasmat,0,0,,,,,,"",""
+ball,1,2.2,Fiji,N Acawei,PV Vuniwaqa,CK Jasmat,1,0,,,,,,"",""
+ball,1,2.3,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,4,0,,,,,,"",""
+ball,1,2.4,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,0,1,1,,,,,"",""
+ball,1,2.5,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,0,2,2,,,,,"",""
+ball,1,2.6,Fiji,N Acawei,PV Vuniwaqa,CK Jasmat,1,0,,,,,,"",""
+ball,1,2.7,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,6,0,,,,,,"",""
+ball,1,2.8,Fiji,PV Vuniwaqa,N Acawei,CK Jasmat,0,0,,,,,,caught,PV Vuniwaqa
+ball,1,3.1,Fiji,N Acawei,DS Maraiwai,S Sola,0,0,,,,,,"",""
+ball,1,3.2,Fiji,N Acawei,DS Maraiwai,S Sola,0,0,,,,,,"",""
+ball,1,3.3,Fiji,N Acawei,DS Maraiwai,S Sola,4,0,,,,,,"",""
+ball,1,3.4,Fiji,N Acawei,DS Maraiwai,S Sola,1,0,,,,,,"",""
+ball,1,3.5,Fiji,DS Maraiwai,N Acawei,S Sola,0,0,,,,,,"",""
+ball,1,3.6,Fiji,DS Maraiwai,N Acawei,S Sola,0,0,,,,,,"",""
+ball,1,4.1,Fiji,N Acawei,DS Maraiwai,JD Baker,1,0,,,,,,"",""
+ball,1,4.2,Fiji,DS Maraiwai,N Acawei,JD Baker,0,0,,,,,,"",""
+ball,1,4.3,Fiji,DS Maraiwai,N Acawei,JD Baker,0,0,,,,,,"",""
+ball,1,4.4,Fiji,DS Maraiwai,N Acawei,JD Baker,0,0,,,,,,"",""
+ball,1,4.5,Fiji,DS Maraiwai,N Acawei,JD Baker,4,0,,,,,,"",""
+ball,1,4.6,Fiji,DS Maraiwai,N Acawei,JD Baker,1,0,,,,,,"",""
+ball,1,5.1,Fiji,DS Maraiwai,N Acawei,DE Roache,0,1,1,,,,,"",""
+ball,1,5.2,Fiji,DS Maraiwai,N Acawei,DE Roache,0,0,,,,,,"",""
+ball,1,5.3,Fiji,DS Maraiwai,N Acawei,DE Roache,1,0,,,,,,"",""
+ball,1,5.4,Fiji,N Acawei,DS Maraiwai,DE Roache,0,0,,,,,,caught,N Acawei
+ball,1,5.5,Fiji,J Baleicikoibia,DS Maraiwai,DE Roache,0,0,,,,,,"",""
+ball,1,5.6,Fiji,J Baleicikoibia,DS Maraiwai,DE Roache,0,1,1,,,,,"",""
+ball,1,5.7,Fiji,J Baleicikoibia,DS Maraiwai,DE Roache,0,0,,,,,,"",""
+ball,1,5.8,Fiji,J Baleicikoibia,DS Maraiwai,DE Roache,0,0,,,,,,"",""
+ball,1,6.1,Fiji,DS Maraiwai,J Baleicikoibia,SF Tiai,4,0,,,,,,"",""
+ball,1,6.2,Fiji,DS Maraiwai,J Baleicikoibia,SF Tiai,0,0,,,,,,"",""
+ball,1,6.3,Fiji,DS Maraiwai,J Baleicikoibia,SF Tiai,1,0,,,,,,"",""
+ball,1,6.4,Fiji,J Baleicikoibia,DS Maraiwai,SF Tiai,1,0,,,,,,"",""
+ball,1,6.5,Fiji,DS Maraiwai,J Baleicikoibia,SF Tiai,1,0,,,,,,"",""
+ball,1,6.6,Fiji,J Baleicikoibia,DS Maraiwai,SF Tiai,1,0,,,,,,"",""
+ball,1,7.1,Fiji,J Baleicikoibia,DS Maraiwai,DE Roache,0,0,,,,,,"",""
+ball,1,7.2,Fiji,J Baleicikoibia,DS Maraiwai,DE Roache,3,0,,,,,,"",""
+ball,1,7.3,Fiji,DS Maraiwai,J Baleicikoibia,DE Roache,4,0,,,,,,"",""
+ball,1,7.4,Fiji,DS Maraiwai,J Baleicikoibia,DE Roache,1,0,,,,,,"",""
+ball,1,7.5,Fiji,J Baleicikoibia,DS Maraiwai,DE Roache,1,0,,,,,,"",""
+ball,1,7.6,Fiji,DS Maraiwai,J Baleicikoibia,DE Roache,0,0,,,,,,caught,DS Maraiwai
+ball,1,8.1,Fiji,J Baleicikoibia,M Beitaki,SF Tiai,0,0,,,,,,"",""
+ball,1,8.2,Fiji,J Baleicikoibia,M Beitaki,SF Tiai,1,0,,,,,,"",""
+ball,1,8.3,Fiji,M Beitaki,J Baleicikoibia,SF Tiai,0,0,,,,,,"",""
+ball,1,8.4,Fiji,M Beitaki,J Baleicikoibia,SF Tiai,2,0,,,,,,"",""
+ball,1,8.5,Fiji,M Beitaki,J Baleicikoibia,SF Tiai,1,0,,,,,,"",""
+ball,1,8.6,Fiji,J Baleicikoibia,M Beitaki,SF Tiai,2,0,,,,,,"",""
+ball,1,9.1,Fiji,M Beitaki,J Baleicikoibia,S Sola,0,0,,,,,,"",""
+ball,1,9.2,Fiji,M Beitaki,J Baleicikoibia,S Sola,1,0,,,,,,"",""
+ball,1,9.3,Fiji,J Baleicikoibia,M Beitaki,S Sola,0,0,,,,,,"",""
+ball,1,9.4,Fiji,J Baleicikoibia,M Beitaki,S Sola,0,0,,,,,,"",""
+ball,1,9.5,Fiji,J Baleicikoibia,M Beitaki,S Sola,0,0,,,,,,"",""
+ball,1,9.6,Fiji,J Baleicikoibia,M Beitaki,S Sola,0,0,,,,,,"",""
+ball,1,10.1,Fiji,M Beitaki,J Baleicikoibia,JD Baker,0,0,,,,,,"",""
+ball,1,10.2,Fiji,M Beitaki,J Baleicikoibia,JD Baker,2,0,,,,,,"",""
+ball,1,10.3,Fiji,M Beitaki,J Baleicikoibia,JD Baker,1,0,,,,,,"",""
+ball,1,10.4,Fiji,J Baleicikoibia,M Beitaki,JD Baker,0,0,,,,,,"",""
+ball,1,10.5,Fiji,J Baleicikoibia,M Beitaki,JD Baker,0,0,,,,,,"",""
+ball,1,10.6,Fiji,J Baleicikoibia,M Beitaki,JD Baker,0,0,,,,,,lbw,J Baleicikoibia
+ball,1,11.1,Fiji,M Beitaki,P Cabebula,S Sola,0,0,,,,,,caught,M Beitaki
+ball,1,11.2,Fiji,P Cabebula,SM Tupou,S Sola,0,0,,,,,,"",""
+ball,1,11.3,Fiji,P Cabebula,SM Tupou,S Sola,0,2,,,2,,,"",""
+ball,1,11.4,Fiji,P Cabebula,SM Tupou,S Sola,0,0,,,,,,"",""
+ball,1,11.5,Fiji,P Cabebula,SM Tupou,S Sola,0,0,,,,,,bowled,P Cabebula
+ball,1,11.6,Fiji,TS Waqavakatoga,SM Tupou,S Sola,0,0,,,,,,"",""
+ball,1,12.1,Fiji,SM Tupou,TS Waqavakatoga,JD Baker,1,0,,,,,,"",""
+ball,1,12.2,Fiji,TS Waqavakatoga,SM Tupou,JD Baker,0,0,,,,,,"",""
+ball,1,12.3,Fiji,TS Waqavakatoga,SM Tupou,JD Baker,1,0,,,,,,"",""
+ball,1,12.4,Fiji,SM Tupou,TS Waqavakatoga,JD Baker,0,0,,,,,,"",""
+ball,1,12.5,Fiji,SM Tupou,TS Waqavakatoga,JD Baker,1,0,,,,,,"",""
+ball,1,12.6,Fiji,TS Waqavakatoga,SM Tupou,JD Baker,0,1,1,,,,,"",""
+ball,1,12.7,Fiji,TS Waqavakatoga,SM Tupou,JD Baker,1,0,,,,,,"",""
+ball,1,13.1,Fiji,TS Waqavakatoga,SM Tupou,SF Tiai,1,0,,,,,,"",""
+ball,1,13.2,Fiji,SM Tupou,TS Waqavakatoga,SF Tiai,1,0,,,,,,"",""
+ball,1,13.3,Fiji,TS Waqavakatoga,SM Tupou,SF Tiai,1,0,,,,,,"",""
+ball,1,13.4,Fiji,SM Tupou,TS Waqavakatoga,SF Tiai,0,0,,,,,,"",""
+ball,1,13.5,Fiji,SM Tupou,TS Waqavakatoga,SF Tiai,4,0,,,,,,"",""
+ball,1,13.6,Fiji,SM Tupou,TS Waqavakatoga,SF Tiai,1,0,,,,,,"",""
+ball,1,14.1,Fiji,SM Tupou,TS Waqavakatoga,CK Jasmat,1,0,,,,,,"",""
+ball,1,14.2,Fiji,TS Waqavakatoga,SM Tupou,CK Jasmat,1,0,,,,,,"",""
+ball,1,14.3,Fiji,SM Tupou,TS Waqavakatoga,CK Jasmat,1,0,,,,,,"",""
+ball,1,14.4,Fiji,TS Waqavakatoga,SM Tupou,CK Jasmat,1,0,,,,,,"",""
+ball,1,14.5,Fiji,SM Tupou,TS Waqavakatoga,CK Jasmat,0,0,,,,,,"",""
+ball,1,14.6,Fiji,SM Tupou,TS Waqavakatoga,CK Jasmat,0,0,,,,,,"",""
+ball,1,15.1,Fiji,TS Waqavakatoga,SM Tupou,DE Roache,0,0,,,,,,caught,TS Waqavakatoga
+ball,1,15.2,Fiji,SM Tupou,S Ravoka,DE Roache,1,0,,,,,,"",""
+ball,1,15.3,Fiji,S Ravoka,SM Tupou,DE Roache,0,2,2,,,,,"",""
+ball,1,15.4,Fiji,SM Tupou,S Ravoka,DE Roache,0,0,,,,,,"",""
+ball,1,15.5,Fiji,SM Tupou,S Ravoka,DE Roache,6,0,,,,,,"",""
+ball,1,15.6,Fiji,SM Tupou,S Ravoka,DE Roache,2,0,,,,,,"",""
+ball,1,15.7,Fiji,SM Tupou,S Ravoka,DE Roache,0,0,,,,,,"",""
+ball,1,16.1,Fiji,S Ravoka,SM Tupou,D Finau,1,0,,,,,,"",""
+ball,1,16.2,Fiji,SM Tupou,S Ravoka,D Finau,1,0,,,,,,"",""
+ball,1,16.3,Fiji,S Ravoka,SM Tupou,D Finau,0,0,,,,,,"",""
+ball,1,16.4,Fiji,S Ravoka,SM Tupou,D Finau,0,0,,,,,,"",""
+ball,1,16.5,Fiji,S Ravoka,SM Tupou,D Finau,1,0,,,,,,"",""
+ball,1,16.6,Fiji,SM Tupou,S Ravoka,D Finau,1,0,,,,,,"",""
+ball,1,17.1,Fiji,SM Tupou,S Ravoka,S Sola,1,0,,,,,,"",""
+ball,1,17.2,Fiji,S Ravoka,SM Tupou,S Sola,1,0,,,,,,"",""
+ball,1,17.3,Fiji,SM Tupou,S Ravoka,S Sola,6,0,,,,,,"",""
+ball,1,17.4,Fiji,SM Tupou,S Ravoka,S Sola,0,0,,,,,,"",""
+ball,1,17.5,Fiji,SM Tupou,S Ravoka,S Sola,6,0,,,,,,"",""
+ball,1,17.6,Fiji,SM Tupou,S Ravoka,S Sola,0,0,,,,,,"",""
+ball,1,18.1,Fiji,S Ravoka,SM Tupou,D Finau,1,0,,,,,,run out,S Ravoka
+ball,1,18.2,Fiji,S Draunivudi,SM Tupou,D Finau,4,0,,,,,,"",""
+ball,1,18.3,Fiji,S Draunivudi,SM Tupou,D Finau,0,0,,,,,,"",""
+ball,1,18.4,Fiji,S Draunivudi,SM Tupou,D Finau,0,1,,,,1,,"",""
+ball,1,18.5,Fiji,SM Tupou,S Draunivudi,D Finau,1,0,,,,,,"",""
+ball,1,18.6,Fiji,S Draunivudi,SM Tupou,D Finau,2,0,,,,,,"",""
+ball,1,19.1,Fiji,SM Tupou,S Draunivudi,SF Tiai,0,0,,,,,,"",""
+ball,1,19.2,Fiji,SM Tupou,S Draunivudi,SF Tiai,0,0,,,,,,caught,SM Tupou
+ball,1,19.3,Fiji,S Weleilakeba,S Draunivudi,SF Tiai,2,0,,,,,,"",""
+ball,1,19.4,Fiji,S Weleilakeba,S Draunivudi,SF Tiai,6,0,,,,,,"",""
+ball,1,19.5,Fiji,S Weleilakeba,S Draunivudi,SF Tiai,0,0,,,,,,stumped,S Weleilakeba
+ball,2,0.1,Samoa,S Sola,S Cotter,P Cabebula,0,0,,,,,,"",""
+ball,2,0.2,Samoa,S Sola,S Cotter,P Cabebula,0,0,,,,,,"",""
+ball,2,0.3,Samoa,S Sola,S Cotter,P Cabebula,0,0,,,,,,"",""
+ball,2,0.4,Samoa,S Sola,S Cotter,P Cabebula,4,0,,,,,,"",""
+ball,2,0.5,Samoa,S Sola,S Cotter,P Cabebula,1,0,,,,,,"",""
+ball,2,0.6,Samoa,S Cotter,S Sola,P Cabebula,2,0,,,,,,"",""
+ball,2,1.1,Samoa,S Sola,S Cotter,TS Waqavakatoga,0,0,,,,,,caught,S Sola
+ball,2,1.2,Samoa,S Cotter,DP Michael,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,1.3,Samoa,S Cotter,DP Michael,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,1.4,Samoa,S Cotter,DP Michael,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,1.5,Samoa,S Cotter,DP Michael,TS Waqavakatoga,4,0,,,,,,"",""
+ball,2,1.6,Samoa,S Cotter,DP Michael,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,2.1,Samoa,DP Michael,S Cotter,S Draunivudi,0,0,,,,,,"",""
+ball,2,2.2,Samoa,DP Michael,S Cotter,S Draunivudi,4,0,,,,,,"",""
+ball,2,2.3,Samoa,DP Michael,S Cotter,S Draunivudi,0,0,,,,,,"",""
+ball,2,2.4,Samoa,DP Michael,S Cotter,S Draunivudi,0,0,,,,,,"",""
+ball,2,2.5,Samoa,DP Michael,S Cotter,S Draunivudi,0,0,,,,,,"",""
+ball,2,2.6,Samoa,DP Michael,S Cotter,S Draunivudi,4,0,,,,,,"",""
+ball,2,3.1,Samoa,S Cotter,DP Michael,S Ravoka,1,0,,,,,,"",""
+ball,2,3.2,Samoa,DP Michael,S Cotter,S Ravoka,0,0,,,,,,caught,DP Michael
+ball,2,3.3,Samoa,S Cotter,SF Tiai,S Ravoka,0,0,,,,,,"",""
+ball,2,3.4,Samoa,S Cotter,SF Tiai,S Ravoka,0,0,,,,,,"",""
+ball,2,3.5,Samoa,S Cotter,SF Tiai,S Ravoka,1,0,,,,,,"",""
+ball,2,3.6,Samoa,SF Tiai,S Cotter,S Ravoka,0,0,,,,,,"",""
+ball,2,4.1,Samoa,S Cotter,SF Tiai,J Baleicikoibia,6,0,,,,,,"",""
+ball,2,4.2,Samoa,S Cotter,SF Tiai,J Baleicikoibia,2,0,,,,,,"",""
+ball,2,4.3,Samoa,S Cotter,SF Tiai,J Baleicikoibia,6,0,,,,,,"",""
+ball,2,4.4,Samoa,S Cotter,SF Tiai,J Baleicikoibia,1,0,,,,,,"",""
+ball,2,4.5,Samoa,SF Tiai,S Cotter,J Baleicikoibia,0,0,,,,,,"",""
+ball,2,4.6,Samoa,SF Tiai,S Cotter,J Baleicikoibia,4,0,,,,,,"",""
+ball,2,5.1,Samoa,S Cotter,SF Tiai,S Ravoka,1,0,,,,,,"",""
+ball,2,5.2,Samoa,SF Tiai,S Cotter,S Ravoka,0,0,,,,,,"",""
+ball,2,5.3,Samoa,SF Tiai,S Cotter,S Ravoka,0,0,,,,,,"",""
+ball,2,5.4,Samoa,SF Tiai,S Cotter,S Ravoka,4,0,,,,,,"",""
+ball,2,5.5,Samoa,SF Tiai,S Cotter,S Ravoka,0,0,,,,,,"",""
+ball,2,5.6,Samoa,SF Tiai,S Cotter,S Ravoka,4,0,,,,,,"",""
+ball,2,6.1,Samoa,S Cotter,SF Tiai,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,6.2,Samoa,S Cotter,SF Tiai,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,6.3,Samoa,S Cotter,SF Tiai,TS Waqavakatoga,2,0,,,,,,"",""
+ball,2,6.4,Samoa,S Cotter,SF Tiai,TS Waqavakatoga,1,0,,,,,,"",""
+ball,2,6.5,Samoa,SF Tiai,S Cotter,TS Waqavakatoga,0,0,,,,,,caught,SF Tiai
+ball,2,6.6,Samoa,AJ Michael,S Cotter,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,7.1,Samoa,S Cotter,AJ Michael,S Ravoka,0,0,,,,,,"",""
+ball,2,7.2,Samoa,S Cotter,AJ Michael,S Ravoka,1,0,,,,,,"",""
+ball,2,7.3,Samoa,AJ Michael,S Cotter,S Ravoka,1,0,,,,,,"",""
+ball,2,7.4,Samoa,S Cotter,AJ Michael,S Ravoka,0,0,,,,,,run out,AJ Michael
+ball,2,7.5,Samoa,S Cotter,CK Jasmat,S Ravoka,0,0,,,,,,"",""
+ball,2,7.6,Samoa,S Cotter,CK Jasmat,S Ravoka,1,0,,,,,,"",""
+ball,2,8.1,Samoa,S Cotter,CK Jasmat,P Cabebula,0,1,1,,,,,"",""
+ball,2,8.2,Samoa,S Cotter,CK Jasmat,P Cabebula,1,0,,,,,,"",""
+ball,2,8.3,Samoa,CK Jasmat,S Cotter,P Cabebula,2,0,,,,,,"",""
+ball,2,8.4,Samoa,CK Jasmat,S Cotter,P Cabebula,1,0,,,,,,"",""
+ball,2,8.5,Samoa,S Cotter,CK Jasmat,P Cabebula,0,0,,,,,,"",""
+ball,2,8.6,Samoa,S Cotter,CK Jasmat,P Cabebula,2,0,,,,,,"",""
+ball,2,8.7,Samoa,S Cotter,CK Jasmat,P Cabebula,1,0,,,,,,"",""
+ball,2,9.1,Samoa,S Cotter,CK Jasmat,S Ravoka,1,0,,,,,,"",""
+ball,2,9.2,Samoa,CK Jasmat,S Cotter,S Ravoka,1,0,,,,,,"",""
+ball,2,9.3,Samoa,S Cotter,CK Jasmat,S Ravoka,0,0,,,,,,"",""
+ball,2,9.4,Samoa,S Cotter,CK Jasmat,S Ravoka,1,0,,,,,,"",""
+ball,2,9.5,Samoa,CK Jasmat,S Cotter,S Ravoka,0,0,,,,,,caught,CK Jasmat
+ball,2,9.6,Samoa,S Cotter,F Suluoto,S Ravoka,1,0,,,,,,"",""
+ball,2,10.1,Samoa,S Cotter,F Suluoto,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,10.2,Samoa,S Cotter,F Suluoto,TS Waqavakatoga,1,0,,,,,,"",""
+ball,2,10.3,Samoa,F Suluoto,S Cotter,TS Waqavakatoga,2,0,,,,,,"",""
+ball,2,10.4,Samoa,F Suluoto,S Cotter,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,10.5,Samoa,F Suluoto,S Cotter,TS Waqavakatoga,0,0,,,,,,"",""
+ball,2,10.6,Samoa,F Suluoto,S Cotter,TS Waqavakatoga,6,0,,,,,,"",""
+ball,2,11.1,Samoa,S Cotter,F Suluoto,SM Tupou,1,0,,,,,,"",""
+ball,2,11.2,Samoa,F Suluoto,S Cotter,SM Tupou,0,2,,,2,,,"",""
+ball,2,11.3,Samoa,F Suluoto,S Cotter,SM Tupou,0,0,,,,,,"",""
+ball,2,11.4,Samoa,F Suluoto,S Cotter,SM Tupou,0,0,,,,,,"",""
+ball,2,11.5,Samoa,F Suluoto,S Cotter,SM Tupou,0,0,,,,,,"",""
+ball,2,11.6,Samoa,F Suluoto,S Cotter,SM Tupou,0,0,,,,,,"",""
+ball,2,12.1,Samoa,S Cotter,F Suluoto,S Draunivudi,2,0,,,,,,"",""
+ball,2,12.2,Samoa,S Cotter,F Suluoto,S Draunivudi,4,0,,,,,,"",""
+ball,2,12.3,Samoa,S Cotter,F Suluoto,S Draunivudi,0,0,,,,,,"",""
+ball,2,12.4,Samoa,S Cotter,F Suluoto,S Draunivudi,1,0,,,,,,"",""
+ball,2,12.5,Samoa,F Suluoto,S Cotter,S Draunivudi,0,0,,,,,,"",""
+ball,2,12.6,Samoa,F Suluoto,S Cotter,S Draunivudi,1,0,,,,,,"",""
+ball,2,13.1,Samoa,F Suluoto,S Cotter,SM Tupou,1,0,,,,,,"",""
+ball,2,13.2,Samoa,S Cotter,F Suluoto,SM Tupou,0,0,,,,,,"",""
+ball,2,13.3,Samoa,S Cotter,F Suluoto,SM Tupou,0,0,,,,,,"",""
+ball,2,13.4,Samoa,S Cotter,F Suluoto,SM Tupou,0,0,,,,,,"",""
+ball,2,13.5,Samoa,S Cotter,F Suluoto,SM Tupou,0,0,,,,,,caught,S Cotter
+ball,2,13.6,Samoa,F Suluoto,T Kaisala,SM Tupou,0,0,,,,,,"",""
+ball,2,14.1,Samoa,T Kaisala,F Suluoto,S Draunivudi,1,0,,,,,,"",""
+ball,2,14.2,Samoa,F Suluoto,T Kaisala,S Draunivudi,0,0,,,,,,"",""
+ball,2,14.3,Samoa,F Suluoto,T Kaisala,S Draunivudi,0,1,1,,,,,"",""
+ball,2,14.4,Samoa,F Suluoto,T Kaisala,S Draunivudi,0,2,2,,,,,"",""
+ball,2,14.5,Samoa,T Kaisala,F Suluoto,S Draunivudi,0,0,,,,,,"",""
+ball,2,14.6,Samoa,T Kaisala,F Suluoto,S Draunivudi,2,0,,,,,,"",""
+ball,2,14.7,Samoa,T Kaisala,F Suluoto,S Draunivudi,6,0,,,,,,"",""
+ball,2,14.8,Samoa,T Kaisala,F Suluoto,S Draunivudi,0,0,,,,,,"",""
+ball,2,15.1,Samoa,F Suluoto,T Kaisala,SM Tupou,2,0,,,,,,"",""
+ball,2,15.2,Samoa,F Suluoto,T Kaisala,SM Tupou,1,0,,,,,,"",""
+ball,2,15.3,Samoa,T Kaisala,F Suluoto,SM Tupou,1,0,,,,,,"",""
+ball,2,15.4,Samoa,F Suluoto,T Kaisala,SM Tupou,0,0,,,,,,"",""
+ball,2,15.5,Samoa,F Suluoto,T Kaisala,SM Tupou,0,0,,,,,,"",""
+ball,2,15.6,Samoa,F Suluoto,T Kaisala,SM Tupou,1,0,,,,,,"",""
+ball,2,16.1,Samoa,F Suluoto,T Kaisala,P Cabebula,4,0,,,,,,"",""
+ball,2,16.2,Samoa,F Suluoto,T Kaisala,P Cabebula,0,0,,,,,,bowled,F Suluoto
+ball,2,16.3,Samoa,JD Baker,T Kaisala,P Cabebula,0,0,,,,,,"",""
+ball,2,16.4,Samoa,JD Baker,T Kaisala,P Cabebula,1,0,,,,,,"",""
+ball,2,16.5,Samoa,T Kaisala,JD Baker,P Cabebula,1,0,,,,,,"",""
+ball,2,16.6,Samoa,JD Baker,T Kaisala,P Cabebula,0,0,,,,,,"",""
+ball,2,17.1,Samoa,T Kaisala,JD Baker,SM Tupou,1,0,,,,,,"",""
+ball,2,17.2,Samoa,JD Baker,T Kaisala,SM Tupou,0,0,,,,,,caught,JD Baker
+ball,2,17.3,Samoa,T Kaisala,D Finau,SM Tupou,0,1,1,,,,,"",""
+ball,2,17.4,Samoa,T Kaisala,D Finau,SM Tupou,0,0,,,,,,"",""
+ball,2,17.5,Samoa,T Kaisala,D Finau,SM Tupou,0,1,1,,,,,"",""
+ball,2,17.6,Samoa,T Kaisala,D Finau,SM Tupou,0,0,,,,,,caught,T Kaisala
+ball,2,17.7,Samoa,D Finau,DE Roache,SM Tupou,0,0,,,,,,"",""
+ball,2,17.8,Samoa,D Finau,DE Roache,SM Tupou,0,0,,,,,,"",""
+ball,2,18.1,Samoa,DE Roache,D Finau,P Cabebula,1,0,,,,,,"",""
+ball,2,18.2,Samoa,D Finau,DE Roache,P Cabebula,2,0,,,,,,"",""
+ball,2,18.3,Samoa,D Finau,DE Roache,P Cabebula,0,0,,,,,,caught,D Finau

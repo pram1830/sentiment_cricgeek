@@ -1,0 +1,289 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Switzerland
+info,gender,male
+info,season,2021/22
+info,date,2021/10/22
+info,event,Valletta Cup
+info,match_number,2
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Gibraltar
+info,toss_decision,bat
+info,player_of_match,Osama Mahmood
+info,winner,Switzerland
+info,winner_wickets,9
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,CJ Delany
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,P Hatchman
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,J Marples
+info,player,Gibraltar,LA Collado
+info,player,Gibraltar,CV Harrison
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,Anser Mehmood
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,A Andrews
+info,player,Switzerland,Asad Mahmood
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,Noorkhan Ahmedi
+info,player,Switzerland,N Henderson
+info,player,Switzerland,S Franklin
+info,registry,people,A Andrews,1d45c01a
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Anser Mehmood,e871b2f0
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Asad Mahmood,5038c022
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,BA Pai,716bf559
+info,registry,people,CJ Delany,3bc56bd6
+info,registry,people,CV Harrison,b0b80a99
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,J Marples,9d75aec7
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Nestor,b89cde87
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,LA Collado,177009a5
+info,registry,people,N Henderson,6e71b00b
+info,registry,people,Noorkhan Ahmedi,b5417394
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,P Hatchman,b504e8b8
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,S Franklin,0e3552e2
+ball,1,0.1,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,0.2,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,0.3,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,0.4,Gibraltar,L Bruce,BA Pai,Ashwin Vinod,0,1,1,,,,,"",""
+ball,1,0.5,Gibraltar,L Bruce,BA Pai,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,0.6,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,2,0,,,,,,"",""
+ball,1,0.7,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,1.1,Gibraltar,L Bruce,BA Pai,Ali Nayyer,1,0,,,,,,"",""
+ball,1,1.2,Gibraltar,BA Pai,L Bruce,Ali Nayyer,0,0,,,,,,"",""
+ball,1,1.3,Gibraltar,BA Pai,L Bruce,Ali Nayyer,1,0,,,,,,"",""
+ball,1,1.4,Gibraltar,L Bruce,BA Pai,Ali Nayyer,0,0,,,,,,"",""
+ball,1,1.5,Gibraltar,L Bruce,BA Pai,Ali Nayyer,1,0,,,,,,"",""
+ball,1,1.6,Gibraltar,BA Pai,L Bruce,Ali Nayyer,4,0,,,,,,"",""
+ball,1,2.1,Gibraltar,L Bruce,BA Pai,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,2.2,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,2.3,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,6,0,,,,,,"",""
+ball,1,2.4,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,2.5,Gibraltar,BA Pai,L Bruce,Ashwin Vinod,0,0,,,,,,caught,BA Pai
+ball,1,2.6,Gibraltar,PA Raikes,L Bruce,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,3.1,Gibraltar,PA Raikes,L Bruce,Ali Nayyer,0,0,,,,,,"",""
+ball,1,3.2,Gibraltar,PA Raikes,L Bruce,Ali Nayyer,0,0,,,,,,"",""
+ball,1,3.3,Gibraltar,PA Raikes,L Bruce,Ali Nayyer,0,0,,,,,,"",""
+ball,1,3.4,Gibraltar,PA Raikes,L Bruce,Ali Nayyer,1,0,,,,,,"",""
+ball,1,3.5,Gibraltar,L Bruce,PA Raikes,Ali Nayyer,0,2,2,,,,,"",""
+ball,1,3.6,Gibraltar,PA Raikes,L Bruce,Ali Nayyer,2,0,,,,,,"",""
+ball,1,3.7,Gibraltar,PA Raikes,L Bruce,Ali Nayyer,1,0,,,,,,"",""
+ball,1,4.1,Gibraltar,PA Raikes,L Bruce,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,4.2,Gibraltar,PA Raikes,L Bruce,Ashwin Vinod,0,0,,,,,,caught,PA Raikes
+ball,1,4.3,Gibraltar,L Bruce,CJ Delany,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,4.4,Gibraltar,CJ Delany,L Bruce,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,4.5,Gibraltar,CJ Delany,L Bruce,Ashwin Vinod,2,0,,,,,,"",""
+ball,1,4.6,Gibraltar,CJ Delany,L Bruce,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,5.1,Gibraltar,CJ Delany,L Bruce,Osama Mahmood,0,0,,,,,,"",""
+ball,1,5.2,Gibraltar,CJ Delany,L Bruce,Osama Mahmood,0,0,,,,,,"",""
+ball,1,5.3,Gibraltar,CJ Delany,L Bruce,Osama Mahmood,0,0,,,,,,"",""
+ball,1,5.4,Gibraltar,CJ Delany,L Bruce,Osama Mahmood,0,0,,,,,,"",""
+ball,1,5.5,Gibraltar,CJ Delany,L Bruce,Osama Mahmood,0,0,,,,,,"",""
+ball,1,5.6,Gibraltar,CJ Delany,L Bruce,Osama Mahmood,0,0,,,,,,"",""
+ball,1,6.1,Gibraltar,L Bruce,CJ Delany,S Franklin,1,0,,,,,,"",""
+ball,1,6.2,Gibraltar,CJ Delany,L Bruce,S Franklin,0,0,,,,,,"",""
+ball,1,6.3,Gibraltar,CJ Delany,L Bruce,S Franklin,2,0,,,,,,"",""
+ball,1,6.4,Gibraltar,CJ Delany,L Bruce,S Franklin,4,0,,,,,,"",""
+ball,1,6.5,Gibraltar,CJ Delany,L Bruce,S Franklin,0,1,1,,,,,"",""
+ball,1,6.6,Gibraltar,CJ Delany,L Bruce,S Franklin,0,0,,,,,,"",""
+ball,1,6.7,Gibraltar,CJ Delany,L Bruce,S Franklin,1,0,,,,,,"",""
+ball,1,7.1,Gibraltar,CJ Delany,L Bruce,Osama Mahmood,1,0,,,,,,"",""
+ball,1,7.2,Gibraltar,L Bruce,CJ Delany,Osama Mahmood,4,0,,,,,,"",""
+ball,1,7.3,Gibraltar,L Bruce,CJ Delany,Osama Mahmood,0,0,,,,,,"",""
+ball,1,7.4,Gibraltar,L Bruce,CJ Delany,Osama Mahmood,0,0,,,,,,"",""
+ball,1,7.5,Gibraltar,L Bruce,CJ Delany,Osama Mahmood,0,0,,,,,,"",""
+ball,1,7.6,Gibraltar,L Bruce,CJ Delany,Osama Mahmood,2,0,,,,,,"",""
+ball,1,8.1,Gibraltar,CJ Delany,L Bruce,S Franklin,0,0,,,,,,"",""
+ball,1,8.2,Gibraltar,CJ Delany,L Bruce,S Franklin,1,0,,,,,,"",""
+ball,1,8.3,Gibraltar,L Bruce,CJ Delany,S Franklin,1,0,,,,,,"",""
+ball,1,8.4,Gibraltar,CJ Delany,L Bruce,S Franklin,0,1,1,,,,,"",""
+ball,1,8.5,Gibraltar,CJ Delany,L Bruce,S Franklin,0,1,1,,,,,"",""
+ball,1,8.6,Gibraltar,CJ Delany,L Bruce,S Franklin,1,0,,,,,,"",""
+ball,1,8.7,Gibraltar,L Bruce,CJ Delany,S Franklin,1,0,,,,,,"",""
+ball,1,8.8,Gibraltar,CJ Delany,L Bruce,S Franklin,2,0,,,,,,"",""
+ball,1,9.1,Gibraltar,L Bruce,CJ Delany,A Andrews,1,0,,,,,,"",""
+ball,1,9.2,Gibraltar,CJ Delany,L Bruce,A Andrews,0,0,,,,,,"",""
+ball,1,9.3,Gibraltar,CJ Delany,L Bruce,A Andrews,2,0,,,,,,"",""
+ball,1,9.4,Gibraltar,CJ Delany,L Bruce,A Andrews,1,0,,,,,,"",""
+ball,1,9.5,Gibraltar,L Bruce,CJ Delany,A Andrews,1,0,,,,,,"",""
+ball,1,9.6,Gibraltar,CJ Delany,L Bruce,A Andrews,0,0,,,,,,caught,CJ Delany
+ball,1,10.1,Gibraltar,L Bruce,JA Fitzgerald,S Franklin,4,0,,,,,,"",""
+ball,1,10.2,Gibraltar,L Bruce,JA Fitzgerald,S Franklin,1,0,,,,,,"",""
+ball,1,10.3,Gibraltar,JA Fitzgerald,L Bruce,S Franklin,0,0,,,,,,"",""
+ball,1,10.4,Gibraltar,JA Fitzgerald,L Bruce,S Franklin,1,1,,1,,,,"",""
+ball,1,10.5,Gibraltar,L Bruce,JA Fitzgerald,S Franklin,2,0,,,,,,"",""
+ball,1,10.6,Gibraltar,L Bruce,JA Fitzgerald,S Franklin,1,0,,,,,,"",""
+ball,1,10.7,Gibraltar,JA Fitzgerald,L Bruce,S Franklin,0,0,,,,,,"",""
+ball,1,11.1,Gibraltar,L Bruce,JA Fitzgerald,A Andrews,2,0,,,,,,"",""
+ball,1,11.2,Gibraltar,L Bruce,JA Fitzgerald,A Andrews,2,0,,,,,,"",""
+ball,1,11.3,Gibraltar,L Bruce,JA Fitzgerald,A Andrews,1,0,,,,,,"",""
+ball,1,11.4,Gibraltar,JA Fitzgerald,L Bruce,A Andrews,0,0,,,,,,"",""
+ball,1,11.5,Gibraltar,JA Fitzgerald,L Bruce,A Andrews,1,0,,,,,,"",""
+ball,1,11.6,Gibraltar,L Bruce,JA Fitzgerald,A Andrews,0,1,,,,1,,"",""
+ball,1,12.1,Gibraltar,L Bruce,JA Fitzgerald,Ali Nayyer,1,0,,,,,,"",""
+ball,1,12.2,Gibraltar,JA Fitzgerald,L Bruce,Ali Nayyer,1,0,,,,,,"",""
+ball,1,12.3,Gibraltar,L Bruce,JA Fitzgerald,Ali Nayyer,1,0,,,,,,"",""
+ball,1,12.4,Gibraltar,JA Fitzgerald,L Bruce,Ali Nayyer,0,3,3,,,,,"",""
+ball,1,12.5,Gibraltar,JA Fitzgerald,L Bruce,Ali Nayyer,1,0,,,,,,"",""
+ball,1,12.6,Gibraltar,L Bruce,JA Fitzgerald,Ali Nayyer,0,0,,,,,,caught,L Bruce
+ball,1,12.7,Gibraltar,JA Fitzgerald,P Hatchman,Ali Nayyer,0,0,,,,,,"",""
+ball,1,13.1,Gibraltar,P Hatchman,JA Fitzgerald,Arjun Vinod,1,0,,,,,,"",""
+ball,1,13.2,Gibraltar,JA Fitzgerald,P Hatchman,Arjun Vinod,1,0,,,,,,"",""
+ball,1,13.3,Gibraltar,P Hatchman,JA Fitzgerald,Arjun Vinod,1,0,,,,,,"",""
+ball,1,13.4,Gibraltar,JA Fitzgerald,P Hatchman,Arjun Vinod,1,0,,,,,,"",""
+ball,1,13.5,Gibraltar,P Hatchman,JA Fitzgerald,Arjun Vinod,6,0,,,,,,"",""
+ball,1,13.6,Gibraltar,P Hatchman,JA Fitzgerald,Arjun Vinod,1,0,,,,,,"",""
+ball,1,14.1,Gibraltar,P Hatchman,JA Fitzgerald,Ashwin Vinod,0,0,,,,,,"",""
+ball,1,14.2,Gibraltar,P Hatchman,JA Fitzgerald,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,14.3,Gibraltar,JA Fitzgerald,P Hatchman,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,14.4,Gibraltar,P Hatchman,JA Fitzgerald,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,14.5,Gibraltar,JA Fitzgerald,P Hatchman,Ashwin Vinod,6,0,,,,,,"",""
+ball,1,14.6,Gibraltar,JA Fitzgerald,P Hatchman,Ashwin Vinod,1,0,,,,,,"",""
+ball,1,15.1,Gibraltar,JA Fitzgerald,P Hatchman,A Andrews,1,0,,,,,,"",""
+ball,1,15.2,Gibraltar,P Hatchman,JA Fitzgerald,A Andrews,1,0,,,,,,"",""
+ball,1,15.3,Gibraltar,JA Fitzgerald,P Hatchman,A Andrews,0,0,,,,,,"",""
+ball,1,15.4,Gibraltar,JA Fitzgerald,P Hatchman,A Andrews,2,0,,,,,,"",""
+ball,1,15.5,Gibraltar,JA Fitzgerald,P Hatchman,A Andrews,0,0,,,,,,caught,JA Fitzgerald
+ball,1,15.6,Gibraltar,K Nestor,P Hatchman,A Andrews,1,0,,,,,,"",""
+ball,1,16.1,Gibraltar,K Nestor,P Hatchman,Osama Mahmood,0,2,,,2,,,"",""
+ball,1,16.2,Gibraltar,K Nestor,P Hatchman,Osama Mahmood,1,0,,,,,,"",""
+ball,1,16.3,Gibraltar,P Hatchman,K Nestor,Osama Mahmood,0,0,,,,,,"",""
+ball,1,16.4,Gibraltar,P Hatchman,K Nestor,Osama Mahmood,1,0,,,,,,"",""
+ball,1,16.5,Gibraltar,K Nestor,P Hatchman,Osama Mahmood,1,0,,,,,,"",""
+ball,1,16.6,Gibraltar,P Hatchman,K Nestor,Osama Mahmood,0,0,,,,,,"",""
+ball,1,17.1,Gibraltar,K Nestor,P Hatchman,A Andrews,4,0,,,,,,"",""
+ball,1,17.2,Gibraltar,K Nestor,P Hatchman,A Andrews,0,2,,,,2,,"",""
+ball,1,17.3,Gibraltar,K Nestor,P Hatchman,A Andrews,0,0,,,,,,"",""
+ball,1,17.4,Gibraltar,K Nestor,P Hatchman,A Andrews,1,0,,,,,,"",""
+ball,1,17.5,Gibraltar,P Hatchman,K Nestor,A Andrews,0,0,,,,,,caught,P Hatchman
+ball,1,17.6,Gibraltar,K Nestor,A Reyes,A Andrews,0,0,,,,,,"",""
+ball,1,18.1,Gibraltar,A Reyes,K Nestor,Ali Nayyer,0,1,1,,,,,"",""
+ball,1,18.2,Gibraltar,A Reyes,K Nestor,Ali Nayyer,0,0,,,,,,lbw,A Reyes
+ball,1,18.3,Gibraltar,J Marples,K Nestor,Ali Nayyer,1,0,,,,,,"",""
+ball,1,18.4,Gibraltar,K Nestor,J Marples,Ali Nayyer,0,0,,,,,,"",""
+ball,1,18.5,Gibraltar,K Nestor,J Marples,Ali Nayyer,2,0,,,,,,"",""
+ball,1,18.6,Gibraltar,K Nestor,J Marples,Ali Nayyer,0,0,,,,,,caught,K Nestor
+ball,1,18.7,Gibraltar,J Marples,LA Collado,Ali Nayyer,1,0,,,,,,run out,J Marples
+ball,1,19.1,Gibraltar,LA Collado,CV Harrison,Osama Mahmood,0,0,,,,,,"",""
+ball,1,19.2,Gibraltar,LA Collado,CV Harrison,Osama Mahmood,0,0,,,,,,"",""
+ball,1,19.3,Gibraltar,LA Collado,CV Harrison,Osama Mahmood,2,0,,,,,,"",""
+ball,1,19.4,Gibraltar,LA Collado,CV Harrison,Osama Mahmood,0,0,,,,,,"",""
+ball,1,19.5,Gibraltar,LA Collado,CV Harrison,Osama Mahmood,4,0,,,,,,"",""
+ball,1,19.6,Gibraltar,LA Collado,CV Harrison,Osama Mahmood,0,1,,,1,,,"",""
+ball,2,0.1,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,0,0,,,,,,"",""
+ball,2,0.2,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,1,0,,,,,,"",""
+ball,2,0.3,Switzerland,Idrees Ul Haque,Osama Mahmood,BA Pai,0,0,,,,,,"",""
+ball,2,0.4,Switzerland,Idrees Ul Haque,Osama Mahmood,BA Pai,0,2,,,2,,,"",""
+ball,2,0.5,Switzerland,Idrees Ul Haque,Osama Mahmood,BA Pai,2,0,,,,,,"",""
+ball,2,0.6,Switzerland,Idrees Ul Haque,Osama Mahmood,BA Pai,0,0,,,,,,"",""
+ball,2,1.1,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,4,1,,1,,,,"",""
+ball,2,1.2,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,0,0,,,,,,"",""
+ball,2,1.3,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,0,0,,,,,,"",""
+ball,2,1.4,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,0,0,,,,,,"",""
+ball,2,1.5,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,6,0,,,,,,"",""
+ball,2,1.6,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,2,0,,,,,,"",""
+ball,2,1.7,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,0,0,,,,,,"",""
+ball,2,2.1,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,0,0,,,,,,"",""
+ball,2,2.2,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,6,0,,,,,,"",""
+ball,2,2.3,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,0,0,,,,,,"",""
+ball,2,2.4,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,0,0,,,,,,"",""
+ball,2,2.5,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,2,0,,,,,,"",""
+ball,2,2.6,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,4,0,,,,,,"",""
+ball,2,3.1,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,0,0,,,,,,"",""
+ball,2,3.2,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,2,0,,,,,,"",""
+ball,2,3.3,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,0,1,1,,,,,"",""
+ball,2,3.4,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,2,0,,,,,,"",""
+ball,2,3.5,Switzerland,Osama Mahmood,Idrees Ul Haque,K Nestor,1,0,,,,,,"",""
+ball,2,3.6,Switzerland,Idrees Ul Haque,Osama Mahmood,K Nestor,0,0,,,,,,"",""
+ball,2,3.7,Switzerland,Idrees Ul Haque,Osama Mahmood,K Nestor,1,0,,,,,,"",""
+ball,2,4.1,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,1,0,,,,,,"",""
+ball,2,4.2,Switzerland,Osama Mahmood,Idrees Ul Haque,JA Fitzgerald,1,0,,,,,,"",""
+ball,2,4.3,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,1,0,,,,,,"",""
+ball,2,4.4,Switzerland,Osama Mahmood,Idrees Ul Haque,JA Fitzgerald,4,0,,,,,,"",""
+ball,2,4.5,Switzerland,Osama Mahmood,Idrees Ul Haque,JA Fitzgerald,1,0,,,,,,"",""
+ball,2,4.6,Switzerland,Idrees Ul Haque,Osama Mahmood,JA Fitzgerald,6,0,,,,,,"",""
+ball,2,5.1,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,6,0,,,,,,"",""
+ball,2,5.2,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,4,0,,,,,,"",""
+ball,2,5.3,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,2,0,,,,,,"",""
+ball,2,5.4,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,0,0,,,,,,"",""
+ball,2,5.5,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,0,0,,,,,,"",""
+ball,2,5.6,Switzerland,Osama Mahmood,Idrees Ul Haque,BA Pai,0,0,,,,,,"",""
+ball,2,6.1,Switzerland,Idrees Ul Haque,Osama Mahmood,CV Harrison,0,0,,,,,,"",""
+ball,2,6.2,Switzerland,Idrees Ul Haque,Osama Mahmood,CV Harrison,0,0,,,,,,"",""
+ball,2,6.3,Switzerland,Idrees Ul Haque,Osama Mahmood,CV Harrison,0,0,,,,,,"",""
+ball,2,6.4,Switzerland,Idrees Ul Haque,Osama Mahmood,CV Harrison,6,0,,,,,,"",""
+ball,2,6.5,Switzerland,Idrees Ul Haque,Osama Mahmood,CV Harrison,6,0,,,,,,"",""
+ball,2,6.6,Switzerland,Idrees Ul Haque,Osama Mahmood,CV Harrison,0,0,,,,,,caught,Idrees Ul Haque
+ball,2,7.1,Switzerland,Osama Mahmood,Anser Mehmood,BA Pai,1,0,,,,,,"",""
+ball,2,7.2,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,0,0,,,,,,"",""
+ball,2,7.3,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,0,0,,,,,,"",""
+ball,2,7.4,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,2,0,,,,,,"",""
+ball,2,7.5,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,0,0,,,,,,"",""
+ball,2,7.6,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,1,0,,,,,,"",""
+ball,2,8.1,Switzerland,Anser Mehmood,Osama Mahmood,CV Harrison,0,1,1,,,,,"",""
+ball,2,8.2,Switzerland,Anser Mehmood,Osama Mahmood,CV Harrison,1,0,,,,,,"",""
+ball,2,8.3,Switzerland,Osama Mahmood,Anser Mehmood,CV Harrison,0,0,,,,,,"",""
+ball,2,8.4,Switzerland,Osama Mahmood,Anser Mehmood,CV Harrison,0,0,,,,,,"",""
+ball,2,8.5,Switzerland,Osama Mahmood,Anser Mehmood,CV Harrison,0,0,,,,,,"",""
+ball,2,8.6,Switzerland,Osama Mahmood,Anser Mehmood,CV Harrison,4,1,,1,,,,"",""
+ball,2,8.7,Switzerland,Osama Mahmood,Anser Mehmood,CV Harrison,0,0,,,,,,"",""
+ball,2,8.8,Switzerland,Osama Mahmood,Anser Mehmood,CV Harrison,0,0,,,,,,"",""
+ball,2,9.1,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,0,0,,,,,,"",""
+ball,2,9.2,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,1,0,,,,,,"",""
+ball,2,9.3,Switzerland,Osama Mahmood,Anser Mehmood,BA Pai,1,0,,,,,,"",""
+ball,2,9.4,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,1,0,,,,,,"",""
+ball,2,9.5,Switzerland,Osama Mahmood,Anser Mehmood,BA Pai,0,1,1,,,,,"",""
+ball,2,9.6,Switzerland,Osama Mahmood,Anser Mehmood,BA Pai,0,1,,,1,,,"",""
+ball,2,9.7,Switzerland,Anser Mehmood,Osama Mahmood,BA Pai,0,0,,,,,,"",""
+ball,2,10.1,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,0,0,,,,,,"",""
+ball,2,10.2,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,0,3,3,,,,,"",""
+ball,2,10.3,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,0,1,1,,,,,"",""
+ball,2,10.4,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,0,2,2,,,,,"",""
+ball,2,10.5,Switzerland,Anser Mehmood,Osama Mahmood,CJ Delany,0,0,,,,,,"",""
+ball,2,10.6,Switzerland,Anser Mehmood,Osama Mahmood,CJ Delany,0,0,,,,,,"",""
+ball,2,10.7,Switzerland,Anser Mehmood,Osama Mahmood,CJ Delany,0,0,,,,,,"",""
+ball,2,10.8,Switzerland,Anser Mehmood,Osama Mahmood,CJ Delany,1,0,,,,,,"",""
+ball,2,10.9,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,1,0,,,,,,"",""
+ball,2,11.1,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,1,0,,,,,,"",""
+ball,2,11.2,Switzerland,Anser Mehmood,Osama Mahmood,L Bruce,1,0,,,,,,"",""
+ball,2,11.3,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,0,1,1,,,,,"",""
+ball,2,11.4,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,1,0,,,,,,"",""
+ball,2,11.5,Switzerland,Anser Mehmood,Osama Mahmood,L Bruce,0,0,,,,,,"",""
+ball,2,11.6,Switzerland,Anser Mehmood,Osama Mahmood,L Bruce,0,1,1,,,,,"",""
+ball,2,11.7,Switzerland,Anser Mehmood,Osama Mahmood,L Bruce,1,0,,,,,,"",""
+ball,2,11.8,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,2,0,,,,,,"",""
+ball,2,12.1,Switzerland,Anser Mehmood,Osama Mahmood,CJ Delany,6,0,,,,,,"",""
+ball,2,12.2,Switzerland,Anser Mehmood,Osama Mahmood,CJ Delany,1,0,,,,,,"",""
+ball,2,12.3,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,0,0,,,,,,"",""
+ball,2,12.4,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,1,0,,,,,,"",""
+ball,2,12.5,Switzerland,Anser Mehmood,Osama Mahmood,CJ Delany,1,0,,,,,,"",""
+ball,2,12.6,Switzerland,Osama Mahmood,Anser Mehmood,CJ Delany,0,2,,,2,,,"",""
+ball,2,13.1,Switzerland,Anser Mehmood,Osama Mahmood,L Bruce,1,0,,,,,,"",""
+ball,2,13.2,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,0,1,1,,,,,"",""
+ball,2,13.3,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,1,0,,,,,,"",""
+ball,2,13.4,Switzerland,Anser Mehmood,Osama Mahmood,L Bruce,1,0,,,,,,"",""
+ball,2,13.5,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,0,0,,,,,,"",""
+ball,2,13.6,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,6,0,,,,,,"",""
+ball,2,13.7,Switzerland,Osama Mahmood,Anser Mehmood,L Bruce,2,0,,,,,,"",""
+ball,2,14.1,Switzerland,Anser Mehmood,Osama Mahmood,A Reyes,1,0,,,,,,"",""
+ball,2,14.2,Switzerland,Osama Mahmood,Anser Mehmood,A Reyes,0,1,1,,,,,"",""
+ball,2,14.3,Switzerland,Osama Mahmood,Anser Mehmood,A Reyes,0,0,,,,,,"",""
+ball,2,14.4,Switzerland,Osama Mahmood,Anser Mehmood,A Reyes,0,0,,,,,,"",""
+ball,2,14.5,Switzerland,Osama Mahmood,Anser Mehmood,A Reyes,0,1,1,,,,,"",""
+ball,2,14.6,Switzerland,Osama Mahmood,Anser Mehmood,A Reyes,1,0,,,,,,"",""

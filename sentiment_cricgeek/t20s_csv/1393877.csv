@@ -1,0 +1,196 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Japan
+info,gender,female
+info,season,2023
+info,date,2023/08/30
+info,event,Japan Women tour of Vanuatu
+info,match_number,2
+info,venue,Vanuatu Cricket Ground
+info,city,Port Vila
+info,toss_winner,Japan
+info,toss_decision,field
+info,player_of_match,V Langiatu
+info,umpire,KK Loughman
+info,umpire,P Chilia
+info,reserve_umpire,ZK Shem
+info,winner,Vanuatu
+info,winner_runs,15
+info,player,Vanuatu,R Andrew
+info,player,Vanuatu,V Langiatu
+info,player,Vanuatu,A Chilia
+info,player,Vanuatu,L Chilia
+info,player,Vanuatu,S Solman
+info,player,Vanuatu,M Carlot
+info,player,Vanuatu,N Navaika
+info,player,Vanuatu,V Mansale
+info,player,Vanuatu,L Jacob
+info,player,Vanuatu,L Enoch
+info,player,Vanuatu,T Kalosin
+info,player,Japan,H Iwasaki
+info,player,Japan,Erika Oda
+info,player,Japan,A Chandel
+info,player,Japan,A Kano
+info,player,Japan,S Kato
+info,player,Japan,M Yanagida
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,Seika Sumi
+info,player,Japan,A Fujikawa
+info,player,Japan,K Ota
+info,player,Japan,Nonoha Yasumoto
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Chilia,a0d07fd6
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,K Ota,211f48fe
+info,registry,people,KK Loughman,5c4e8572
+info,registry,people,L Chilia,87ac786c
+info,registry,people,L Enoch,c96b8c25
+info,registry,people,L Jacob,9be95e85
+info,registry,people,M Carlot,dac46b52
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,N Navaika,b0023708
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,P Chilia,9c5fed24
+info,registry,people,R Andrew,66c1accf
+info,registry,people,S Kato,ef9ff861
+info,registry,people,S Solman,24ed1f75
+info,registry,people,Seika Sumi,704b4c30
+info,registry,people,T Kalosin,f741c79d
+info,registry,people,V Langiatu,fdd18ca0
+info,registry,people,V Mansale,7163637f
+info,registry,people,ZK Shem,87ffd217
+ball,1,0.1,Vanuatu,R Andrew,V Langiatu,S Kato,0,0,,,,,,"",""
+ball,1,0.2,Vanuatu,R Andrew,V Langiatu,S Kato,1,0,,,,,,"",""
+ball,1,0.3,Vanuatu,V Langiatu,R Andrew,S Kato,0,0,,,,,,"",""
+ball,1,0.4,Vanuatu,V Langiatu,R Andrew,S Kato,1,0,,,,,,"",""
+ball,1,0.5,Vanuatu,R Andrew,V Langiatu,S Kato,1,0,,,,,,"",""
+ball,1,0.6,Vanuatu,V Langiatu,R Andrew,S Kato,0,1,1,,,,,"",""
+ball,1,0.7,Vanuatu,V Langiatu,R Andrew,S Kato,1,0,,,,,,"",""
+ball,1,1.1,Vanuatu,V Langiatu,R Andrew,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,1.2,Vanuatu,R Andrew,V Langiatu,Nonoha Yasumoto,0,1,1,,,,,"",""
+ball,1,1.3,Vanuatu,R Andrew,V Langiatu,Nonoha Yasumoto,0,0,,,,,,bowled,R Andrew
+ball,1,1.4,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,1.5,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,1.6,Vanuatu,V Langiatu,A Chilia,Nonoha Yasumoto,0,1,,,,1,,"",""
+ball,1,1.7,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,0,1,1,,,,,"",""
+ball,1,1.8,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,2,0,,,,,,"",""
+ball,1,2.1,Vanuatu,V Langiatu,A Chilia,S Kato,0,0,,,,,,"",""
+ball,1,2.2,Vanuatu,V Langiatu,A Chilia,S Kato,0,0,,,,,,"",""
+ball,1,2.3,Vanuatu,V Langiatu,A Chilia,S Kato,0,0,,,,,,"",""
+ball,1,2.4,Vanuatu,V Langiatu,A Chilia,S Kato,1,0,,,,,,"",""
+ball,1,2.5,Vanuatu,A Chilia,V Langiatu,S Kato,0,2,2,,,,,"",""
+ball,1,2.6,Vanuatu,V Langiatu,A Chilia,S Kato,4,0,,,,,,"",""
+ball,1,2.7,Vanuatu,V Langiatu,A Chilia,S Kato,0,0,,,,,,"",""
+ball,1,3.1,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,3.2,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,3.3,Vanuatu,V Langiatu,A Chilia,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,3.4,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,1,0,,,,,,"",""
+ball,1,3.5,Vanuatu,V Langiatu,A Chilia,Nonoha Yasumoto,3,0,,,,,,"",""
+ball,1,3.6,Vanuatu,A Chilia,V Langiatu,Nonoha Yasumoto,0,0,,,,,,"",""
+ball,1,4.1,Vanuatu,V Langiatu,A Chilia,K Ota,1,0,,,,,,"",""
+ball,1,4.2,Vanuatu,A Chilia,V Langiatu,K Ota,1,0,,,,,,"",""
+ball,1,4.3,Vanuatu,V Langiatu,A Chilia,K Ota,1,0,,,,,,"",""
+ball,1,4.4,Vanuatu,A Chilia,V Langiatu,K Ota,0,0,,,,,,"",""
+ball,1,4.5,Vanuatu,A Chilia,V Langiatu,K Ota,0,0,,,,,,caught,A Chilia
+ball,1,4.6,Vanuatu,L Chilia,V Langiatu,K Ota,0,0,,,,,,"",""
+ball,1,5.1,Vanuatu,V Langiatu,L Chilia,A Chandel,1,0,,,,,,"",""
+ball,1,5.2,Vanuatu,L Chilia,V Langiatu,A Chandel,1,0,,,,,,"",""
+ball,1,5.3,Vanuatu,V Langiatu,L Chilia,A Chandel,0,0,,,,,,"",""
+ball,1,5.4,Vanuatu,V Langiatu,L Chilia,A Chandel,0,0,,,,,,"",""
+ball,1,5.5,Vanuatu,V Langiatu,L Chilia,A Chandel,1,0,,,,,,"",""
+ball,1,5.6,Vanuatu,L Chilia,V Langiatu,A Chandel,2,0,,,,,,"",""
+ball,1,6.1,Vanuatu,V Langiatu,L Chilia,K Ota,2,0,,,,,,"",""
+ball,1,6.2,Vanuatu,V Langiatu,L Chilia,K Ota,0,0,,,,,,"",""
+ball,1,6.3,Vanuatu,V Langiatu,L Chilia,K Ota,1,0,,,,,,"",""
+ball,1,6.4,Vanuatu,L Chilia,V Langiatu,K Ota,0,1,1,,,,,"",""
+ball,1,6.5,Vanuatu,L Chilia,V Langiatu,K Ota,0,0,,,,,,"",""
+ball,1,6.6,Vanuatu,L Chilia,V Langiatu,K Ota,1,0,,,,,,"",""
+ball,1,6.7,Vanuatu,V Langiatu,L Chilia,K Ota,1,0,,,,,,"",""
+ball,1,7.1,Vanuatu,V Langiatu,L Chilia,A Chandel,2,0,,,,,,"",""
+ball,1,7.2,Vanuatu,V Langiatu,L Chilia,A Chandel,0,0,,,,,,"",""
+ball,1,7.3,Vanuatu,V Langiatu,L Chilia,A Chandel,2,0,,,,,,"",""
+ball,1,7.4,Vanuatu,V Langiatu,L Chilia,A Chandel,0,0,,,,,,caught,V Langiatu
+ball,1,7.5,Vanuatu,S Solman,L Chilia,A Chandel,0,0,,,,,,"",""
+ball,1,7.6,Vanuatu,S Solman,L Chilia,A Chandel,0,0,,,,,,"",""
+ball,1,8.1,Vanuatu,L Chilia,S Solman,E Toguchi-Quinn,2,0,,,,,,"",""
+ball,1,8.2,Vanuatu,L Chilia,S Solman,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,8.3,Vanuatu,S Solman,L Chilia,E Toguchi-Quinn,2,0,,,,,,"",""
+ball,1,8.4,Vanuatu,S Solman,L Chilia,E Toguchi-Quinn,0,0,,,,,,"",""
+ball,1,8.5,Vanuatu,S Solman,L Chilia,E Toguchi-Quinn,4,0,,,,,,"",""
+ball,1,8.6,Vanuatu,S Solman,L Chilia,E Toguchi-Quinn,1,0,,,,,,"",""
+ball,1,9.1,Vanuatu,S Solman,L Chilia,M Yanagida,0,0,,,,,,"",""
+ball,1,9.2,Vanuatu,S Solman,L Chilia,M Yanagida,6,0,,,,,,"",""
+ball,1,9.3,Vanuatu,S Solman,L Chilia,M Yanagida,0,0,,,,,,caught,S Solman
+ball,1,9.4,Vanuatu,M Carlot,L Chilia,M Yanagida,1,0,,,,,,"",""
+ball,1,9.5,Vanuatu,L Chilia,M Carlot,M Yanagida,1,0,,,,,,"",""
+ball,1,9.6,Vanuatu,M Carlot,L Chilia,M Yanagida,0,0,,,,,,caught,M Carlot
+ball,2,0.1,Japan,H Iwasaki,Erika Oda,R Andrew,0,0,,,,,,"",""
+ball,2,0.2,Japan,H Iwasaki,Erika Oda,R Andrew,0,0,,,,,,"",""
+ball,2,0.3,Japan,H Iwasaki,Erika Oda,R Andrew,0,0,,,,,,"",""
+ball,2,0.4,Japan,H Iwasaki,Erika Oda,R Andrew,2,0,,,,,,"",""
+ball,2,0.5,Japan,H Iwasaki,Erika Oda,R Andrew,2,0,,,,,,"",""
+ball,2,0.6,Japan,H Iwasaki,Erika Oda,R Andrew,0,0,,,,,,bowled,H Iwasaki
+ball,2,1.1,Japan,Erika Oda,A Chandel,V Mansale,0,0,,,,,,"",""
+ball,2,1.2,Japan,Erika Oda,A Chandel,V Mansale,1,0,,,,,,"",""
+ball,2,1.3,Japan,A Chandel,Erika Oda,V Mansale,0,0,,,,,,"",""
+ball,2,1.4,Japan,A Chandel,Erika Oda,V Mansale,0,1,1,,,,,"",""
+ball,2,1.5,Japan,A Chandel,Erika Oda,V Mansale,2,0,,,,,,"",""
+ball,2,1.6,Japan,A Chandel,Erika Oda,V Mansale,0,0,,,,,,"",""
+ball,2,1.7,Japan,A Chandel,Erika Oda,V Mansale,0,0,,,,,,"",""
+ball,2,2.1,Japan,Erika Oda,A Chandel,S Solman,0,0,,,,,,"",""
+ball,2,2.2,Japan,Erika Oda,A Chandel,S Solman,1,0,,,,,,"",""
+ball,2,2.3,Japan,A Chandel,Erika Oda,S Solman,0,0,,,,,,"",""
+ball,2,2.4,Japan,A Chandel,Erika Oda,S Solman,1,0,,,,,,"",""
+ball,2,2.5,Japan,Erika Oda,A Chandel,S Solman,0,1,1,,,,,"",""
+ball,2,2.6,Japan,Erika Oda,A Chandel,S Solman,1,0,,,,,,"",""
+ball,2,2.7,Japan,A Chandel,Erika Oda,S Solman,1,0,,,,,,"",""
+ball,2,3.1,Japan,A Chandel,Erika Oda,T Kalosin,1,0,,,,,,"",""
+ball,2,3.2,Japan,Erika Oda,A Chandel,T Kalosin,1,0,,,,,,"",""
+ball,2,3.3,Japan,A Chandel,Erika Oda,T Kalosin,1,0,,,,,,"",""
+ball,2,3.4,Japan,Erika Oda,A Chandel,T Kalosin,0,0,,,,,,"",""
+ball,2,3.5,Japan,Erika Oda,A Chandel,T Kalosin,1,0,,,,,,"",""
+ball,2,3.6,Japan,A Chandel,Erika Oda,T Kalosin,1,0,,,,,,"",""
+ball,2,4.1,Japan,A Chandel,Erika Oda,L Enoch,1,0,,,,,,"",""
+ball,2,4.2,Japan,Erika Oda,A Chandel,L Enoch,4,0,,,,,,"",""
+ball,2,4.3,Japan,Erika Oda,A Chandel,L Enoch,0,0,,,,,,bowled,Erika Oda
+ball,2,4.4,Japan,A Kano,A Chandel,L Enoch,0,0,,,,,,"",""
+ball,2,4.5,Japan,A Kano,A Chandel,L Enoch,0,0,,,,,,"",""
+ball,2,4.6,Japan,A Kano,A Chandel,L Enoch,1,0,,,,,,"",""
+ball,2,5.1,Japan,A Kano,A Chandel,V Mansale,1,0,,,,,,"",""
+ball,2,5.2,Japan,A Chandel,A Kano,V Mansale,0,0,,,,,,bowled,A Chandel
+ball,2,5.3,Japan,S Kato,A Kano,V Mansale,0,0,,,,,,"",""
+ball,2,5.4,Japan,S Kato,A Kano,V Mansale,1,0,,,,,,"",""
+ball,2,5.5,Japan,A Kano,S Kato,V Mansale,1,0,,,,,,"",""
+ball,2,5.6,Japan,S Kato,A Kano,V Mansale,0,0,,,,,,bowled,S Kato
+ball,2,6.1,Japan,A Kano,M Yanagida,T Kalosin,4,0,,,,,,"",""
+ball,2,6.2,Japan,A Kano,M Yanagida,T Kalosin,0,0,,,,,,"",""
+ball,2,6.3,Japan,A Kano,M Yanagida,T Kalosin,0,1,1,,,,,"",""
+ball,2,6.4,Japan,A Kano,M Yanagida,T Kalosin,2,0,,,,,,"",""
+ball,2,6.5,Japan,A Kano,M Yanagida,T Kalosin,0,1,1,,,,,"",""
+ball,2,6.6,Japan,A Kano,M Yanagida,T Kalosin,1,0,,,,,,"",""
+ball,2,6.7,Japan,M Yanagida,A Kano,T Kalosin,1,0,,,,,,"",""
+ball,2,6.8,Japan,A Kano,M Yanagida,T Kalosin,1,0,,,,,,"",""
+ball,2,7.1,Japan,A Kano,M Yanagida,N Navaika,0,0,,,,,,"",""
+ball,2,7.2,Japan,A Kano,M Yanagida,N Navaika,0,0,,,,,,"",""
+ball,2,7.3,Japan,A Kano,M Yanagida,N Navaika,0,0,,,,,,"",""
+ball,2,7.4,Japan,A Kano,M Yanagida,N Navaika,0,0,,,,,,lbw,A Kano
+ball,2,7.5,Japan,E Toguchi-Quinn,M Yanagida,N Navaika,0,0,,,,,,"",""
+ball,2,7.6,Japan,E Toguchi-Quinn,M Yanagida,N Navaika,0,3,3,,,,,"",""
+ball,2,7.7,Japan,E Toguchi-Quinn,M Yanagida,N Navaika,0,0,,,,,,caught,E Toguchi-Quinn
+ball,2,8.1,Japan,M Yanagida,Seika Sumi,S Solman,0,1,,,1,,,"",""
+ball,2,8.2,Japan,Seika Sumi,M Yanagida,S Solman,0,0,,,,,,"",""
+ball,2,8.3,Japan,Seika Sumi,M Yanagida,S Solman,0,0,,,,,,"",""
+ball,2,8.4,Japan,Seika Sumi,M Yanagida,S Solman,0,0,,,,,,"",""
+ball,2,8.5,Japan,Seika Sumi,M Yanagida,S Solman,1,0,,,,,,"",""
+ball,2,8.6,Japan,M Yanagida,Seika Sumi,S Solman,0,0,,,,,,"",""
+ball,2,9.1,Japan,Seika Sumi,M Yanagida,R Andrew,0,0,,,,,,"",""
+ball,2,9.2,Japan,Seika Sumi,M Yanagida,R Andrew,1,0,,,,,,"",""
+ball,2,9.3,Japan,M Yanagida,Seika Sumi,R Andrew,1,0,,,,,,"",""
+ball,2,9.4,Japan,Seika Sumi,M Yanagida,R Andrew,0,0,,,,,,lbw,Seika Sumi
+ball,2,9.5,Japan,A Fujikawa,M Yanagida,R Andrew,0,0,,,,,,bowled,A Fujikawa
+ball,2,9.6,Japan,K Ota,M Yanagida,R Andrew,1,0,,,,,,"",""

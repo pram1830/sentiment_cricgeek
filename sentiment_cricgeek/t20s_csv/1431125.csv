@@ -1,0 +1,324 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Mongolia
+info,gender,male
+info,season,2024
+info,date,2024/05/11
+info,event,Mongolia tour of Japan
+info,match_number,6
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,S Ravichandran
+info,umpire,C Thurgate
+info,umpire,D Natarajan
+info,winner,Japan
+info,winner_runs,158
+info,player,Japan,K Kato-Stafford
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,A Patmore
+info,player,Japan,S Ravichandran
+info,player,Japan,A Kadowaki Fleming
+info,player,Japan,KH Abe
+info,player,Japan,I Takahashi
+info,player,Japan,K Lake
+info,player,Japan,K Kubota
+info,player,Japan,M Taniyama
+info,player,Japan,C Hinze
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,B Namsrai
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,E Otgonbayar
+info,player,Mongolia,N Naranbaatar
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,Z Shurentsetseg
+info,player,Mongolia,T Tumursukh
+info,player,Mongolia,T Sumiya
+info,registry,people,A Kadowaki Fleming,0abf3da7
+info,registry,people,A Patmore,85119526
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,C Hinze,626af7ff
+info,registry,people,C Thurgate,4d8ad58c
+info,registry,people,D Natarajan,aa3ea16d
+info,registry,people,E Otgonbayar,3f9783fd
+info,registry,people,G Ganbold,947346d8
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,K Kato-Stafford,e03ca117
+info,registry,people,K Kubota,42581e6d
+info,registry,people,K Lake,20321b0c
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,N Naranbaatar,b0e16d9b
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Sumiya,ae19375d
+info,registry,people,T Tumursukh,4758488e
+info,registry,people,Z Shurentsetseg,45c6afaf
+ball,1,0.1,Japan,K Kato-Stafford,R Sakurano-Thomas,M Vivekanandan,0,0,,,,,,"",""
+ball,1,0.2,Japan,K Kato-Stafford,R Sakurano-Thomas,M Vivekanandan,0,0,,,,,,caught,K Kato-Stafford
+ball,1,0.3,Japan,A Patmore,R Sakurano-Thomas,M Vivekanandan,0,0,,,,,,"",""
+ball,1,0.4,Japan,A Patmore,R Sakurano-Thomas,M Vivekanandan,0,0,,,,,,"",""
+ball,1,0.5,Japan,A Patmore,R Sakurano-Thomas,M Vivekanandan,1,0,,,,,,"",""
+ball,1,0.6,Japan,R Sakurano-Thomas,A Patmore,M Vivekanandan,1,0,,,,,,"",""
+ball,1,1.1,Japan,R Sakurano-Thomas,A Patmore,L Erdenebulgan,3,0,,,,,,"",""
+ball,1,1.2,Japan,A Patmore,R Sakurano-Thomas,L Erdenebulgan,0,0,,,,,,"",""
+ball,1,1.3,Japan,A Patmore,R Sakurano-Thomas,L Erdenebulgan,2,0,,,,,,"",""
+ball,1,1.4,Japan,A Patmore,R Sakurano-Thomas,L Erdenebulgan,0,0,,,,,,"",""
+ball,1,1.5,Japan,A Patmore,R Sakurano-Thomas,L Erdenebulgan,1,0,,,,,,"",""
+ball,1,1.6,Japan,R Sakurano-Thomas,A Patmore,L Erdenebulgan,0,0,,,,,,"",""
+ball,1,2.1,Japan,A Patmore,R Sakurano-Thomas,M Vivekanandan,4,0,,,,,,"",""
+ball,1,2.2,Japan,A Patmore,R Sakurano-Thomas,M Vivekanandan,1,0,,,,,,"",""
+ball,1,2.3,Japan,R Sakurano-Thomas,A Patmore,M Vivekanandan,1,0,,,,,,"",""
+ball,1,2.4,Japan,A Patmore,R Sakurano-Thomas,M Vivekanandan,2,0,,,,,,"",""
+ball,1,2.5,Japan,A Patmore,R Sakurano-Thomas,M Vivekanandan,1,0,,,,,,"",""
+ball,1,2.6,Japan,R Sakurano-Thomas,A Patmore,M Vivekanandan,0,0,,,,,,"",""
+ball,1,3.1,Japan,A Patmore,R Sakurano-Thomas,T Amarmend,1,0,,,,,,"",""
+ball,1,3.2,Japan,R Sakurano-Thomas,A Patmore,T Amarmend,0,0,,,,,,"",""
+ball,1,3.3,Japan,R Sakurano-Thomas,A Patmore,T Amarmend,4,0,,,,,,"",""
+ball,1,3.4,Japan,R Sakurano-Thomas,A Patmore,T Amarmend,0,1,1,,,,,"",""
+ball,1,3.5,Japan,R Sakurano-Thomas,A Patmore,T Amarmend,1,0,,,,,,"",""
+ball,1,3.6,Japan,A Patmore,R Sakurano-Thomas,T Amarmend,0,1,1,,,,,"",""
+ball,1,3.7,Japan,A Patmore,R Sakurano-Thomas,T Amarmend,1,0,,,,,,"",""
+ball,1,3.8,Japan,R Sakurano-Thomas,A Patmore,T Amarmend,0,0,,,,,,"",""
+ball,1,4.1,Japan,A Patmore,R Sakurano-Thomas,O Lutbayar,0,1,1,,,,,"",""
+ball,1,4.2,Japan,A Patmore,R Sakurano-Thomas,O Lutbayar,3,0,,,,,,"",""
+ball,1,4.3,Japan,R Sakurano-Thomas,A Patmore,O Lutbayar,0,0,,,,,,"",""
+ball,1,4.4,Japan,R Sakurano-Thomas,A Patmore,O Lutbayar,1,0,,,,,,"",""
+ball,1,4.5,Japan,A Patmore,R Sakurano-Thomas,O Lutbayar,4,0,,,,,,"",""
+ball,1,4.6,Japan,A Patmore,R Sakurano-Thomas,O Lutbayar,2,0,,,,,,"",""
+ball,1,4.7,Japan,A Patmore,R Sakurano-Thomas,O Lutbayar,1,0,,,,,,"",""
+ball,1,5.1,Japan,A Patmore,R Sakurano-Thomas,L Erdenebulgan,1,0,,,,,,"",""
+ball,1,5.2,Japan,R Sakurano-Thomas,A Patmore,L Erdenebulgan,0,0,,,,,,caught,R Sakurano-Thomas
+ball,1,5.3,Japan,S Ravichandran,A Patmore,L Erdenebulgan,0,0,,,,,,"",""
+ball,1,5.4,Japan,S Ravichandran,A Patmore,L Erdenebulgan,4,0,,,,,,"",""
+ball,1,5.5,Japan,S Ravichandran,A Patmore,L Erdenebulgan,0,1,,,,1,,"",""
+ball,1,5.6,Japan,A Patmore,S Ravichandran,L Erdenebulgan,0,0,,,,,,"",""
+ball,1,6.1,Japan,S Ravichandran,A Patmore,T Tumursukh,0,1,1,,,,,"",""
+ball,1,6.2,Japan,S Ravichandran,A Patmore,T Tumursukh,4,0,,,,,,"",""
+ball,1,6.3,Japan,S Ravichandran,A Patmore,T Tumursukh,0,1,1,,,,,"",""
+ball,1,6.4,Japan,S Ravichandran,A Patmore,T Tumursukh,0,1,1,,,,,"",""
+ball,1,6.5,Japan,S Ravichandran,A Patmore,T Tumursukh,0,1,1,,,,,"",""
+ball,1,6.6,Japan,S Ravichandran,A Patmore,T Tumursukh,0,0,,,,,,"",""
+ball,1,6.7,Japan,S Ravichandran,A Patmore,T Tumursukh,4,0,,,,,,"",""
+ball,1,6.8,Japan,S Ravichandran,A Patmore,T Tumursukh,1,0,,,,,,"",""
+ball,1,6.9,Japan,A Patmore,S Ravichandran,T Tumursukh,1,0,,,,,,"",""
+ball,1,6.10,Japan,S Ravichandran,A Patmore,T Tumursukh,3,0,,,,,,"",""
+ball,1,7.1,Japan,S Ravichandran,A Patmore,T Amarmend,0,1,1,,,,,"",""
+ball,1,7.2,Japan,S Ravichandran,A Patmore,T Amarmend,2,0,,,,,,"",""
+ball,1,7.3,Japan,S Ravichandran,A Patmore,T Amarmend,1,0,,,,,,"",""
+ball,1,7.4,Japan,A Patmore,S Ravichandran,T Amarmend,1,0,,,,,,"",""
+ball,1,7.5,Japan,S Ravichandran,A Patmore,T Amarmend,1,0,,,,,,"",""
+ball,1,7.6,Japan,A Patmore,S Ravichandran,T Amarmend,2,0,,,,,,"",""
+ball,1,7.7,Japan,A Patmore,S Ravichandran,T Amarmend,0,0,,,,,,"",""
+ball,1,8.1,Japan,S Ravichandran,A Patmore,N Naranbaatar,2,0,,,,,,"",""
+ball,1,8.2,Japan,S Ravichandran,A Patmore,N Naranbaatar,1,0,,,,,,"",""
+ball,1,8.3,Japan,A Patmore,S Ravichandran,N Naranbaatar,4,0,,,,,,"",""
+ball,1,8.4,Japan,A Patmore,S Ravichandran,N Naranbaatar,1,0,,,,,,"",""
+ball,1,8.5,Japan,S Ravichandran,A Patmore,N Naranbaatar,0,0,,,,,,"",""
+ball,1,8.6,Japan,S Ravichandran,A Patmore,N Naranbaatar,0,1,1,,,,,"",""
+ball,1,8.7,Japan,S Ravichandran,A Patmore,N Naranbaatar,0,0,,,,,,run out,A Patmore
+ball,1,9.1,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,2,0,,,,,,"",""
+ball,1,9.2,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,2,0,,,,,,"",""
+ball,1,9.3,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,0,0,,,,,,"",""
+ball,1,9.4,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,0,2,,,,2,,"",""
+ball,1,9.5,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,2,0,,,,,,"",""
+ball,1,9.6,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,1,0,,,,,,"",""
+ball,1,10.1,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,0,1,1,,,,,"",""
+ball,1,10.2,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,2,0,,,,,,"",""
+ball,1,10.3,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,1,0,,,,,,"",""
+ball,1,10.4,Japan,S Ravichandran,A Kadowaki Fleming,O Lutbayar,4,0,,,,,,"",""
+ball,1,10.5,Japan,S Ravichandran,A Kadowaki Fleming,O Lutbayar,1,0,,,,,,"",""
+ball,1,10.6,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,0,0,,,,,,"",""
+ball,1,10.7,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,0,0,,,,,,"",""
+ball,1,11.1,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,1,0,,,,,,"",""
+ball,1,11.2,Japan,A Kadowaki Fleming,S Ravichandran,T Amarmend,2,0,,,,,,"",""
+ball,1,11.3,Japan,A Kadowaki Fleming,S Ravichandran,T Amarmend,0,1,,,,1,,"",""
+ball,1,11.4,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,1,0,,,,,,"",""
+ball,1,11.5,Japan,A Kadowaki Fleming,S Ravichandran,T Amarmend,1,0,,,,,,"",""
+ball,1,11.6,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,1,0,,,,,,"",""
+ball,1,12.1,Japan,S Ravichandran,A Kadowaki Fleming,N Naranbaatar,4,0,,,,,,"",""
+ball,1,12.2,Japan,S Ravichandran,A Kadowaki Fleming,N Naranbaatar,6,0,,,,,,"",""
+ball,1,12.3,Japan,S Ravichandran,A Kadowaki Fleming,N Naranbaatar,6,0,,,,,,"",""
+ball,1,12.4,Japan,S Ravichandran,A Kadowaki Fleming,N Naranbaatar,1,0,,,,,,"",""
+ball,1,12.5,Japan,A Kadowaki Fleming,S Ravichandran,N Naranbaatar,4,0,,,,,,"",""
+ball,1,12.6,Japan,A Kadowaki Fleming,S Ravichandran,N Naranbaatar,2,0,,,,,,"",""
+ball,1,13.1,Japan,S Ravichandran,A Kadowaki Fleming,Z Shurentsetseg,4,0,,,,,,"",""
+ball,1,13.2,Japan,S Ravichandran,A Kadowaki Fleming,Z Shurentsetseg,1,0,,,,,,"",""
+ball,1,13.3,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,1,0,,,,,,"",""
+ball,1,13.4,Japan,S Ravichandran,A Kadowaki Fleming,Z Shurentsetseg,1,0,,,,,,"",""
+ball,1,13.5,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,0,0,,,,,,"",""
+ball,1,13.6,Japan,A Kadowaki Fleming,S Ravichandran,Z Shurentsetseg,1,0,,,,,,"",""
+ball,1,14.1,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,6,0,,,,,,"",""
+ball,1,14.2,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,2,0,,,,,,"",""
+ball,1,14.3,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,2,0,,,,,,"",""
+ball,1,14.4,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,1,0,,,,,,"",""
+ball,1,14.5,Japan,S Ravichandran,A Kadowaki Fleming,M Vivekanandan,1,0,,,,,,"",""
+ball,1,14.6,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,2,0,,,,,,"",""
+ball,1,15.1,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,2,0,,,,,,"",""
+ball,1,15.2,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,6,0,,,,,,"",""
+ball,1,15.3,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,1,0,,,,,,"",""
+ball,1,15.4,Japan,A Kadowaki Fleming,S Ravichandran,T Amarmend,3,0,,,,,,"",""
+ball,1,15.5,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,2,0,,,,,,"",""
+ball,1,15.6,Japan,S Ravichandran,A Kadowaki Fleming,T Amarmend,1,0,,,,,,"",""
+ball,1,16.1,Japan,S Ravichandran,A Kadowaki Fleming,O Lutbayar,1,0,,,,,,"",""
+ball,1,16.2,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,1,0,,,,,,"",""
+ball,1,16.3,Japan,S Ravichandran,A Kadowaki Fleming,O Lutbayar,1,0,,,,,,"",""
+ball,1,16.4,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,4,0,,,,,,"",""
+ball,1,16.5,Japan,A Kadowaki Fleming,S Ravichandran,O Lutbayar,1,0,,,,,,"",""
+ball,1,16.6,Japan,S Ravichandran,A Kadowaki Fleming,O Lutbayar,0,2,,,2,,,"",""
+ball,1,17.1,Japan,A Kadowaki Fleming,S Ravichandran,L Erdenebulgan,2,0,,,,,,"",""
+ball,1,17.2,Japan,A Kadowaki Fleming,S Ravichandran,L Erdenebulgan,4,0,,,,,,"",""
+ball,1,17.3,Japan,A Kadowaki Fleming,S Ravichandran,L Erdenebulgan,2,0,,,,,,"",""
+ball,1,17.4,Japan,A Kadowaki Fleming,S Ravichandran,L Erdenebulgan,4,0,,,,,,"",""
+ball,1,17.5,Japan,A Kadowaki Fleming,S Ravichandran,L Erdenebulgan,1,0,,,,,,"",""
+ball,1,17.6,Japan,S Ravichandran,A Kadowaki Fleming,L Erdenebulgan,4,0,,,,,,"",""
+ball,1,18.1,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,0,2,,,2,,,"",""
+ball,1,18.2,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,4,0,,,,,,"",""
+ball,1,18.3,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,1,0,,,,,,"",""
+ball,1,18.4,Japan,S Ravichandran,A Kadowaki Fleming,M Vivekanandan,1,0,,,,,,"",""
+ball,1,18.5,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,2,0,,,,,,"",""
+ball,1,18.6,Japan,A Kadowaki Fleming,S Ravichandran,M Vivekanandan,1,0,,,,,,"",""
+ball,1,19.1,Japan,A Kadowaki Fleming,S Ravichandran,L Erdenebulgan,1,0,,,,,,"",""
+ball,1,19.2,Japan,S Ravichandran,A Kadowaki Fleming,L Erdenebulgan,2,0,,,,,,"",""
+ball,1,19.3,Japan,S Ravichandran,A Kadowaki Fleming,L Erdenebulgan,4,0,,,,,,"",""
+ball,1,19.4,Japan,S Ravichandran,A Kadowaki Fleming,L Erdenebulgan,4,0,,,,,,"",""
+ball,1,19.5,Japan,S Ravichandran,A Kadowaki Fleming,L Erdenebulgan,0,2,,,2,,,"",""
+ball,1,19.6,Japan,S Ravichandran,A Kadowaki Fleming,L Erdenebulgan,2,0,,,,,,"",""
+ball,2,0.1,Mongolia,G Ganbold,B Namsrai,K Lake,0,0,,,,,,"",""
+ball,2,0.2,Mongolia,G Ganbold,B Namsrai,K Lake,0,0,,,,,,"",""
+ball,2,0.3,Mongolia,G Ganbold,B Namsrai,K Lake,0,0,,,,,,"",""
+ball,2,0.4,Mongolia,G Ganbold,B Namsrai,K Lake,1,0,,,,,,"",""
+ball,2,0.5,Mongolia,B Namsrai,G Ganbold,K Lake,0,1,1,,,,,"",""
+ball,2,0.6,Mongolia,B Namsrai,G Ganbold,K Lake,0,0,,,,,,"",""
+ball,2,0.7,Mongolia,B Namsrai,G Ganbold,K Lake,0,0,,,,,,"",""
+ball,2,1.1,Mongolia,G Ganbold,B Namsrai,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,1.2,Mongolia,G Ganbold,B Namsrai,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,1.3,Mongolia,G Ganbold,B Namsrai,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,1.4,Mongolia,G Ganbold,B Namsrai,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,1.5,Mongolia,G Ganbold,B Namsrai,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,1.6,Mongolia,B Namsrai,G Ganbold,K Kato-Stafford,0,0,,,,,,bowled,B Namsrai
+ball,2,2.1,Mongolia,G Ganbold,L Erdenebulgan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,2.2,Mongolia,G Ganbold,L Erdenebulgan,R Sakurano-Thomas,0,0,,,,,,bowled,G Ganbold
+ball,2,2.3,Mongolia,T Amarmend,L Erdenebulgan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,2.4,Mongolia,T Amarmend,L Erdenebulgan,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,2.5,Mongolia,L Erdenebulgan,T Amarmend,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,2.6,Mongolia,L Erdenebulgan,T Amarmend,R Sakurano-Thomas,0,5,5,,,,,"",""
+ball,2,2.7,Mongolia,L Erdenebulgan,T Amarmend,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,3.1,Mongolia,T Amarmend,L Erdenebulgan,K Kubota,0,1,1,,,,,"",""
+ball,2,3.2,Mongolia,T Amarmend,L Erdenebulgan,K Kubota,0,0,,,,,,"",""
+ball,2,3.3,Mongolia,T Amarmend,L Erdenebulgan,K Kubota,0,0,,,,,,"",""
+ball,2,3.4,Mongolia,T Amarmend,L Erdenebulgan,K Kubota,0,0,,,,,,"",""
+ball,2,3.5,Mongolia,T Amarmend,L Erdenebulgan,K Kubota,0,0,,,,,,"",""
+ball,2,3.6,Mongolia,T Amarmend,L Erdenebulgan,K Kubota,0,0,,,,,,"",""
+ball,2,3.7,Mongolia,T Amarmend,L Erdenebulgan,K Kubota,4,0,,,,,,"",""
+ball,2,4.1,Mongolia,L Erdenebulgan,T Amarmend,C Hinze,0,0,,,,,,"",""
+ball,2,4.2,Mongolia,L Erdenebulgan,T Amarmend,C Hinze,0,0,,,,,,"",""
+ball,2,4.3,Mongolia,L Erdenebulgan,T Amarmend,C Hinze,0,0,,,,,,"",""
+ball,2,4.4,Mongolia,L Erdenebulgan,T Amarmend,C Hinze,0,0,,,,,,lbw,L Erdenebulgan
+ball,2,4.5,Mongolia,M Vivekanandan,T Amarmend,C Hinze,0,0,,,,,,"",""
+ball,2,4.6,Mongolia,M Vivekanandan,T Amarmend,C Hinze,0,0,,,,,,"",""
+ball,2,5.1,Mongolia,T Amarmend,M Vivekanandan,I Takahashi,1,0,,,,,,"",""
+ball,2,5.2,Mongolia,M Vivekanandan,T Amarmend,I Takahashi,0,0,,,,,,"",""
+ball,2,5.3,Mongolia,M Vivekanandan,T Amarmend,I Takahashi,4,0,,,,,,"",""
+ball,2,5.4,Mongolia,M Vivekanandan,T Amarmend,I Takahashi,1,0,,,,,,"",""
+ball,2,5.5,Mongolia,T Amarmend,M Vivekanandan,I Takahashi,0,0,,,,,,"",""
+ball,2,5.6,Mongolia,T Amarmend,M Vivekanandan,I Takahashi,0,0,,,,,,"",""
+ball,2,6.1,Mongolia,M Vivekanandan,T Amarmend,M Taniyama,0,0,,,,,,"",""
+ball,2,6.2,Mongolia,M Vivekanandan,T Amarmend,M Taniyama,1,0,,,,,,"",""
+ball,2,6.3,Mongolia,T Amarmend,M Vivekanandan,M Taniyama,0,0,,,,,,caught,T Amarmend
+ball,2,6.4,Mongolia,E Otgonbayar,M Vivekanandan,M Taniyama,0,0,,,,,,"",""
+ball,2,6.5,Mongolia,E Otgonbayar,M Vivekanandan,M Taniyama,1,0,,,,,,"",""
+ball,2,6.6,Mongolia,M Vivekanandan,E Otgonbayar,M Taniyama,0,0,,,,,,"",""
+ball,2,7.1,Mongolia,E Otgonbayar,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,7.2,Mongolia,E Otgonbayar,M Vivekanandan,K Kubota,2,0,,,,,,"",""
+ball,2,7.3,Mongolia,E Otgonbayar,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,7.4,Mongolia,E Otgonbayar,M Vivekanandan,K Kubota,0,0,,,,,,caught,E Otgonbayar
+ball,2,7.5,Mongolia,N Naranbaatar,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,7.6,Mongolia,N Naranbaatar,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,8.1,Mongolia,M Vivekanandan,N Naranbaatar,M Taniyama,1,0,,,,,,"",""
+ball,2,8.2,Mongolia,N Naranbaatar,M Vivekanandan,M Taniyama,0,0,,,,,,"",""
+ball,2,8.3,Mongolia,N Naranbaatar,M Vivekanandan,M Taniyama,0,0,,,,,,"",""
+ball,2,8.4,Mongolia,N Naranbaatar,M Vivekanandan,M Taniyama,0,0,,,,,,"",""
+ball,2,8.5,Mongolia,N Naranbaatar,M Vivekanandan,M Taniyama,1,0,,,,,,"",""
+ball,2,8.6,Mongolia,M Vivekanandan,N Naranbaatar,M Taniyama,0,0,,,,,,"",""
+ball,2,9.1,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,9.2,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,1,1,,,,,"",""
+ball,2,9.3,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,9.4,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,9.5,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,9.6,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,1,1,,,,,"",""
+ball,2,9.7,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,9.8,Mongolia,N Naranbaatar,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,10.1,Mongolia,M Vivekanandan,N Naranbaatar,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,10.2,Mongolia,M Vivekanandan,N Naranbaatar,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,10.3,Mongolia,N Naranbaatar,M Vivekanandan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,10.4,Mongolia,N Naranbaatar,M Vivekanandan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,10.5,Mongolia,N Naranbaatar,M Vivekanandan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,10.6,Mongolia,N Naranbaatar,M Vivekanandan,R Sakurano-Thomas,0,1,1,,,,,"",""
+ball,2,10.7,Mongolia,N Naranbaatar,M Vivekanandan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,11.1,Mongolia,M Vivekanandan,N Naranbaatar,I Takahashi,0,0,,,,,,"",""
+ball,2,11.2,Mongolia,M Vivekanandan,N Naranbaatar,I Takahashi,0,0,,,,,,"",""
+ball,2,11.3,Mongolia,M Vivekanandan,N Naranbaatar,I Takahashi,0,0,,,,,,"",""
+ball,2,11.4,Mongolia,M Vivekanandan,N Naranbaatar,I Takahashi,0,1,1,,,,,"",""
+ball,2,11.5,Mongolia,M Vivekanandan,N Naranbaatar,I Takahashi,0,0,,,,,,"",""
+ball,2,11.6,Mongolia,M Vivekanandan,N Naranbaatar,I Takahashi,0,0,,,,,,"",""
+ball,2,11.7,Mongolia,M Vivekanandan,N Naranbaatar,I Takahashi,0,0,,,,,,"",""
+ball,2,12.1,Mongolia,N Naranbaatar,M Vivekanandan,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,12.2,Mongolia,N Naranbaatar,M Vivekanandan,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,12.3,Mongolia,N Naranbaatar,M Vivekanandan,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,12.4,Mongolia,N Naranbaatar,M Vivekanandan,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,12.5,Mongolia,N Naranbaatar,M Vivekanandan,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,12.6,Mongolia,N Naranbaatar,M Vivekanandan,K Kato-Stafford,4,0,,,,,,"",""
+ball,2,13.1,Mongolia,M Vivekanandan,N Naranbaatar,C Hinze,0,0,,,,,,"",""
+ball,2,13.2,Mongolia,M Vivekanandan,N Naranbaatar,C Hinze,2,0,,,,,,"",""
+ball,2,13.3,Mongolia,M Vivekanandan,N Naranbaatar,C Hinze,0,0,,,,,,"",""
+ball,2,13.4,Mongolia,M Vivekanandan,N Naranbaatar,C Hinze,0,1,1,,,,,"",""
+ball,2,13.5,Mongolia,M Vivekanandan,N Naranbaatar,C Hinze,0,0,,,,,,"",""
+ball,2,13.6,Mongolia,M Vivekanandan,N Naranbaatar,C Hinze,1,0,,,,,,"",""
+ball,2,13.7,Mongolia,N Naranbaatar,M Vivekanandan,C Hinze,0,0,,,,,,"",""
+ball,2,14.1,Mongolia,M Vivekanandan,N Naranbaatar,M Taniyama,0,0,,,,,,"",""
+ball,2,14.2,Mongolia,M Vivekanandan,N Naranbaatar,M Taniyama,1,0,,,,,,"",""
+ball,2,14.3,Mongolia,N Naranbaatar,M Vivekanandan,M Taniyama,0,0,,,,,,stumped,N Naranbaatar
+ball,2,14.4,Mongolia,O Lutbayar,M Vivekanandan,M Taniyama,0,0,,,,,,"",""
+ball,2,14.5,Mongolia,O Lutbayar,M Vivekanandan,M Taniyama,0,0,,,,,,"",""
+ball,2,14.6,Mongolia,O Lutbayar,M Vivekanandan,M Taniyama,0,0,,,,,,"",""
+ball,2,15.1,Mongolia,M Vivekanandan,O Lutbayar,C Hinze,0,0,,,,,,"",""
+ball,2,15.2,Mongolia,M Vivekanandan,O Lutbayar,C Hinze,0,1,1,,,,,"",""
+ball,2,15.3,Mongolia,M Vivekanandan,O Lutbayar,C Hinze,0,0,,,,,,run out,O Lutbayar
+ball,2,15.4,Mongolia,Z Shurentsetseg,M Vivekanandan,C Hinze,0,0,,,,,,"",""
+ball,2,15.5,Mongolia,Z Shurentsetseg,M Vivekanandan,C Hinze,2,0,,,,,,"",""
+ball,2,15.6,Mongolia,Z Shurentsetseg,M Vivekanandan,C Hinze,0,0,,,,,,lbw,Z Shurentsetseg
+ball,2,15.7,Mongolia,T Tumursukh,M Vivekanandan,C Hinze,0,0,,,,,,"",""
+ball,2,16.1,Mongolia,M Vivekanandan,T Tumursukh,K Lake,0,0,,,,,,"",""
+ball,2,16.2,Mongolia,M Vivekanandan,T Tumursukh,K Lake,2,0,,,,,,"",""
+ball,2,16.3,Mongolia,M Vivekanandan,T Tumursukh,K Lake,1,0,,,,,,"",""
+ball,2,16.4,Mongolia,T Tumursukh,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,16.5,Mongolia,T Tumursukh,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,16.6,Mongolia,T Tumursukh,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,2,17.1,Mongolia,M Vivekanandan,T Tumursukh,K Kubota,2,0,,,,,,"",""
+ball,2,17.2,Mongolia,M Vivekanandan,T Tumursukh,K Kubota,1,0,,,,,,"",""
+ball,2,17.3,Mongolia,T Tumursukh,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,17.4,Mongolia,T Tumursukh,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,17.5,Mongolia,T Tumursukh,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,17.6,Mongolia,T Tumursukh,M Vivekanandan,K Kubota,0,0,,,,,,"",""
+ball,2,18.1,Mongolia,M Vivekanandan,T Tumursukh,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,18.2,Mongolia,M Vivekanandan,T Tumursukh,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,18.3,Mongolia,M Vivekanandan,T Tumursukh,R Sakurano-Thomas,2,0,,,,,,"",""
+ball,2,18.4,Mongolia,M Vivekanandan,T Tumursukh,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,18.5,Mongolia,M Vivekanandan,T Tumursukh,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,18.6,Mongolia,T Tumursukh,M Vivekanandan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,19.1,Mongolia,M Vivekanandan,T Tumursukh,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,19.2,Mongolia,M Vivekanandan,T Tumursukh,K Kato-Stafford,4,0,,,,,,"",""
+ball,2,19.3,Mongolia,M Vivekanandan,T Tumursukh,K Kato-Stafford,0,1,1,,,,,"",""
+ball,2,19.4,Mongolia,M Vivekanandan,T Tumursukh,K Kato-Stafford,0,0,,,,,,bowled,M Vivekanandan
+ball,2,19.5,Mongolia,T Sumiya,T Tumursukh,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,19.6,Mongolia,T Sumiya,T Tumursukh,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,19.7,Mongolia,T Sumiya,T Tumursukh,K Kato-Stafford,1,0,,,,,,"",""

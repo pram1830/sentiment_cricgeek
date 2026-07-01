@@ -1,0 +1,298 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Ghana
+info,team,Kenya
+info,gender,male
+info,season,2019
+info,date,2019/05/21
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,match_number,6
+info,venue,Kyambogo Cricket Oval
+info,city,Kampala
+info,toss_winner,Ghana
+info,toss_decision,field
+info,player_of_match,RR Patel
+info,umpire,A Louw
+info,umpire,Kehinde Olanbiwonnu
+info,reserve_umpire,L Rusere
+info,match_referee,GH Pienaar
+info,winner,Kenya
+info,winner_runs,53
+info,player,Kenya,DM Gondaria
+info,player,Kenya,AA Obanda
+info,player,Kenya,IA Karim
+info,player,Kenya,CO Obuya
+info,player,Kenya,RR Patel
+info,player,Kenya,SO Ngoche
+info,player,Kenya,LN Oluoch
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,E Otieno
+info,player,Kenya,P Kerai
+info,player,Kenya,E Ochieng
+info,player,Ghana,F Baleri
+info,player,Ghana,R Bakum
+info,player,Ghana,S Ateak
+info,player,Ghana,JK Vifah
+info,player,Ghana,IKO Aboagye
+info,player,Ghana,DNA Ankrah
+info,player,Ghana,KS Bagabena
+info,player,Ghana,DK Anefie
+info,player,Ghana,M Aboagye
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,V Ateak
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AA Obanda,7081491e
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,DK Anefie,f98c24ec
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,DNA Ankrah,c6614fc0
+info,registry,people,E Ochieng,b64e3749
+info,registry,people,E Otieno,c57fa67e
+info,registry,people,F Baleri,6efdad14
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,IA Karim,ca92a578
+info,registry,people,IKO Aboagye,98614193
+info,registry,people,JK Vifah,a1448a10
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Aboagye,afe8ff08
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Kerai,ab343e93
+info,registry,people,R Bakum,c74c583b
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Ateak,a8529363
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,V Ateak,65a60be7
+ball,1,0.1,Kenya,DM Gondaria,AA Obanda,DNA Ankrah,1,0,,,,,,"",""
+ball,1,0.2,Kenya,AA Obanda,DM Gondaria,DNA Ankrah,1,0,,,,,,"",""
+ball,1,0.3,Kenya,DM Gondaria,AA Obanda,DNA Ankrah,4,0,,,,,,"",""
+ball,1,0.4,Kenya,DM Gondaria,AA Obanda,DNA Ankrah,0,0,,,,,,caught,DM Gondaria
+ball,1,0.5,Kenya,IA Karim,AA Obanda,DNA Ankrah,0,0,,,,,,"",""
+ball,1,0.6,Kenya,IA Karim,AA Obanda,DNA Ankrah,0,0,,,,,,"",""
+ball,1,1.1,Kenya,AA Obanda,IA Karim,G Bakiweyem,2,0,,,,,,"",""
+ball,1,1.2,Kenya,AA Obanda,IA Karim,G Bakiweyem,4,0,,,,,,"",""
+ball,1,1.3,Kenya,AA Obanda,IA Karim,G Bakiweyem,0,0,,,,,,bowled,AA Obanda
+ball,1,1.4,Kenya,CO Obuya,IA Karim,G Bakiweyem,0,0,,,,,,"",""
+ball,1,1.5,Kenya,CO Obuya,IA Karim,G Bakiweyem,0,0,,,,,,"",""
+ball,1,1.6,Kenya,CO Obuya,IA Karim,G Bakiweyem,0,0,,,,,,"",""
+ball,1,2.1,Kenya,IA Karim,CO Obuya,DNA Ankrah,0,0,,,,,,"",""
+ball,1,2.2,Kenya,IA Karim,CO Obuya,DNA Ankrah,0,1,1,,,,,"",""
+ball,1,2.3,Kenya,IA Karim,CO Obuya,DNA Ankrah,4,0,,,,,,"",""
+ball,1,2.4,Kenya,IA Karim,CO Obuya,DNA Ankrah,0,0,,,,,,"",""
+ball,1,2.5,Kenya,IA Karim,CO Obuya,DNA Ankrah,0,0,,,,,,"",""
+ball,1,2.6,Kenya,IA Karim,CO Obuya,DNA Ankrah,0,0,,,,,,"",""
+ball,1,2.7,Kenya,IA Karim,CO Obuya,DNA Ankrah,0,0,,,,,,"",""
+ball,1,3.1,Kenya,CO Obuya,IA Karim,G Bakiweyem,1,0,,,,,,"",""
+ball,1,3.2,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,3.3,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,3.4,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,3.5,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,3.6,Kenya,IA Karim,CO Obuya,G Bakiweyem,2,0,,,,,,"",""
+ball,1,4.1,Kenya,CO Obuya,IA Karim,DK Anefie,1,0,,,,,,"",""
+ball,1,4.2,Kenya,IA Karim,CO Obuya,DK Anefie,0,0,,,,,,"",""
+ball,1,4.3,Kenya,IA Karim,CO Obuya,DK Anefie,1,0,,,,,,"",""
+ball,1,4.4,Kenya,CO Obuya,IA Karim,DK Anefie,1,0,,,,,,"",""
+ball,1,4.5,Kenya,IA Karim,CO Obuya,DK Anefie,1,0,,,,,,"",""
+ball,1,4.6,Kenya,CO Obuya,IA Karim,DK Anefie,0,0,,,,,,"",""
+ball,1,5.1,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,5.2,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,1,1,,,,,"",""
+ball,1,5.3,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,5.4,Kenya,IA Karim,CO Obuya,G Bakiweyem,6,0,,,,,,"",""
+ball,1,5.5,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,5.6,Kenya,IA Karim,CO Obuya,G Bakiweyem,0,0,,,,,,"",""
+ball,1,5.7,Kenya,IA Karim,CO Obuya,G Bakiweyem,1,0,,,,,,"",""
+ball,1,6.1,Kenya,IA Karim,CO Obuya,DK Anefie,1,0,,,,,,"",""
+ball,1,6.2,Kenya,CO Obuya,IA Karim,DK Anefie,0,0,,,,,,"",""
+ball,1,6.3,Kenya,CO Obuya,IA Karim,DK Anefie,1,0,,,,,,"",""
+ball,1,6.4,Kenya,IA Karim,CO Obuya,DK Anefie,1,0,,,,,,"",""
+ball,1,6.5,Kenya,CO Obuya,IA Karim,DK Anefie,0,0,,,,,,"",""
+ball,1,6.6,Kenya,CO Obuya,IA Karim,DK Anefie,1,0,,,,,,"",""
+ball,1,7.1,Kenya,CO Obuya,IA Karim,V Ateak,2,0,,,,,,"",""
+ball,1,7.2,Kenya,CO Obuya,IA Karim,V Ateak,0,0,,,,,,"",""
+ball,1,7.3,Kenya,CO Obuya,IA Karim,V Ateak,1,0,,,,,,"",""
+ball,1,7.4,Kenya,IA Karim,CO Obuya,V Ateak,1,0,,,,,,"",""
+ball,1,7.5,Kenya,CO Obuya,IA Karim,V Ateak,1,0,,,,,,"",""
+ball,1,7.6,Kenya,IA Karim,CO Obuya,V Ateak,2,0,,,,,,"",""
+ball,1,8.1,Kenya,CO Obuya,IA Karim,IKO Aboagye,0,0,,,,,,"",""
+ball,1,8.2,Kenya,CO Obuya,IA Karim,IKO Aboagye,1,0,,,,,,"",""
+ball,1,8.3,Kenya,IA Karim,CO Obuya,IKO Aboagye,1,0,,,,,,"",""
+ball,1,8.4,Kenya,CO Obuya,IA Karim,IKO Aboagye,0,0,,,,,,"",""
+ball,1,8.5,Kenya,CO Obuya,IA Karim,IKO Aboagye,1,0,,,,,,"",""
+ball,1,8.6,Kenya,IA Karim,CO Obuya,IKO Aboagye,1,0,,,,,,"",""
+ball,1,9.1,Kenya,IA Karim,CO Obuya,V Ateak,1,0,,,,,,"",""
+ball,1,9.2,Kenya,CO Obuya,IA Karim,V Ateak,1,0,,,,,,"",""
+ball,1,9.3,Kenya,IA Karim,CO Obuya,V Ateak,1,0,,,,,,"",""
+ball,1,9.4,Kenya,CO Obuya,IA Karim,V Ateak,0,0,,,,,,"",""
+ball,1,9.5,Kenya,CO Obuya,IA Karim,V Ateak,0,0,,,,,,"",""
+ball,1,9.6,Kenya,CO Obuya,IA Karim,V Ateak,1,0,,,,,,"",""
+ball,1,10.1,Kenya,CO Obuya,IA Karim,IKO Aboagye,4,0,,,,,,"",""
+ball,1,10.2,Kenya,CO Obuya,IA Karim,IKO Aboagye,0,0,,,,,,"",""
+ball,1,10.3,Kenya,CO Obuya,IA Karim,IKO Aboagye,1,0,,,,,,"",""
+ball,1,10.4,Kenya,IA Karim,CO Obuya,IKO Aboagye,0,0,,,,,,caught,IA Karim
+ball,1,10.5,Kenya,RR Patel,CO Obuya,IKO Aboagye,1,0,,,,,,"",""
+ball,1,10.6,Kenya,CO Obuya,RR Patel,IKO Aboagye,1,0,,,,,,"",""
+ball,1,11.1,Kenya,CO Obuya,RR Patel,V Ateak,1,0,,,,,,"",""
+ball,1,11.2,Kenya,RR Patel,CO Obuya,V Ateak,2,0,,,,,,"",""
+ball,1,11.3,Kenya,RR Patel,CO Obuya,V Ateak,0,0,,,,,,"",""
+ball,1,11.4,Kenya,RR Patel,CO Obuya,V Ateak,1,0,,,,,,"",""
+ball,1,11.5,Kenya,CO Obuya,RR Patel,V Ateak,0,0,,,,,,"",""
+ball,1,11.6,Kenya,CO Obuya,RR Patel,V Ateak,1,0,,,,,,"",""
+ball,1,12.1,Kenya,CO Obuya,RR Patel,DK Anefie,1,0,,,,,,"",""
+ball,1,12.2,Kenya,RR Patel,CO Obuya,DK Anefie,4,0,,,,,,"",""
+ball,1,12.3,Kenya,RR Patel,CO Obuya,DK Anefie,1,0,,,,,,"",""
+ball,1,12.4,Kenya,CO Obuya,RR Patel,DK Anefie,0,0,,,,,,"",""
+ball,1,12.5,Kenya,CO Obuya,RR Patel,DK Anefie,0,0,,,,,,"",""
+ball,1,12.6,Kenya,CO Obuya,RR Patel,DK Anefie,1,0,,,,,,"",""
+ball,1,13.1,Kenya,CO Obuya,RR Patel,KS Bagabena,1,0,,,,,,"",""
+ball,1,13.2,Kenya,RR Patel,CO Obuya,KS Bagabena,4,0,,,,,,"",""
+ball,1,13.3,Kenya,RR Patel,CO Obuya,KS Bagabena,1,0,,,,,,"",""
+ball,1,13.4,Kenya,CO Obuya,RR Patel,KS Bagabena,1,0,,,,,,"",""
+ball,1,13.5,Kenya,RR Patel,CO Obuya,KS Bagabena,1,0,,,,,,"",""
+ball,1,13.6,Kenya,CO Obuya,RR Patel,KS Bagabena,1,0,,,,,,"",""
+ball,1,14.1,Kenya,CO Obuya,RR Patel,DNA Ankrah,4,0,,,,,,"",""
+ball,1,14.2,Kenya,CO Obuya,RR Patel,DNA Ankrah,1,0,,,,,,"",""
+ball,1,14.3,Kenya,RR Patel,CO Obuya,DNA Ankrah,0,1,1,,,,,"",""
+ball,1,14.4,Kenya,RR Patel,CO Obuya,DNA Ankrah,0,0,,,,,,"",""
+ball,1,14.5,Kenya,RR Patel,CO Obuya,DNA Ankrah,1,0,,,,,,"",""
+ball,1,14.6,Kenya,CO Obuya,RR Patel,DNA Ankrah,1,0,,,,,,"",""
+ball,1,14.7,Kenya,RR Patel,CO Obuya,DNA Ankrah,0,0,,,,,,"",""
+ball,1,15.1,Kenya,CO Obuya,RR Patel,V Ateak,1,0,,,,,,"",""
+ball,1,15.2,Kenya,RR Patel,CO Obuya,V Ateak,6,0,,,,,,"",""
+ball,1,15.3,Kenya,RR Patel,CO Obuya,V Ateak,1,0,,,,,,"",""
+ball,1,15.4,Kenya,CO Obuya,RR Patel,V Ateak,1,0,,,,,,"",""
+ball,1,15.5,Kenya,RR Patel,CO Obuya,V Ateak,6,0,,,,,,"",""
+ball,1,15.6,Kenya,RR Patel,CO Obuya,V Ateak,0,0,,,,,,"",""
+ball,1,16.1,Kenya,CO Obuya,RR Patel,IKO Aboagye,0,0,,,,,,caught,CO Obuya
+ball,1,16.2,Kenya,SO Ngoche,RR Patel,IKO Aboagye,1,0,,,,,,"",""
+ball,1,16.3,Kenya,RR Patel,SO Ngoche,IKO Aboagye,1,0,,,,,,"",""
+ball,1,16.4,Kenya,SO Ngoche,RR Patel,IKO Aboagye,1,0,,,,,,"",""
+ball,1,16.5,Kenya,RR Patel,SO Ngoche,IKO Aboagye,0,0,,,,,,"",""
+ball,1,16.6,Kenya,RR Patel,SO Ngoche,IKO Aboagye,1,0,,,,,,"",""
+ball,1,17.1,Kenya,RR Patel,SO Ngoche,G Bakiweyem,6,0,,,,,,"",""
+ball,1,17.2,Kenya,RR Patel,SO Ngoche,G Bakiweyem,6,0,,,,,,"",""
+ball,1,17.3,Kenya,RR Patel,SO Ngoche,G Bakiweyem,4,0,,,,,,"",""
+ball,1,17.4,Kenya,RR Patel,SO Ngoche,G Bakiweyem,0,1,,,,1,,"",""
+ball,1,17.5,Kenya,SO Ngoche,RR Patel,G Bakiweyem,0,0,,,,,,"",""
+ball,1,17.6,Kenya,SO Ngoche,RR Patel,G Bakiweyem,0,0,,,,,,"",""
+ball,1,18.1,Kenya,RR Patel,SO Ngoche,IKO Aboagye,0,1,,,,1,,"",""
+ball,1,18.2,Kenya,SO Ngoche,RR Patel,IKO Aboagye,2,0,,,,,,"",""
+ball,1,18.3,Kenya,SO Ngoche,RR Patel,IKO Aboagye,1,0,,,,,,"",""
+ball,1,18.4,Kenya,RR Patel,SO Ngoche,IKO Aboagye,4,0,,,,,,"",""
+ball,1,18.5,Kenya,RR Patel,SO Ngoche,IKO Aboagye,4,0,,,,,,"",""
+ball,1,18.6,Kenya,RR Patel,SO Ngoche,IKO Aboagye,0,0,,,,,,caught,RR Patel
+ball,1,19.1,Kenya,SO Ngoche,LN Oluoch,DNA Ankrah,0,1,,,,1,,"",""
+ball,1,19.2,Kenya,LN Oluoch,SO Ngoche,DNA Ankrah,2,0,,,,,,"",""
+ball,1,19.3,Kenya,LN Oluoch,SO Ngoche,DNA Ankrah,0,0,,,,,,"",""
+ball,1,19.4,Kenya,LN Oluoch,SO Ngoche,DNA Ankrah,1,0,,,,,,"",""
+ball,1,19.5,Kenya,SO Ngoche,LN Oluoch,DNA Ankrah,1,0,,,,,,"",""
+ball,1,19.6,Kenya,LN Oluoch,SO Ngoche,DNA Ankrah,1,0,,,,,,"",""
+ball,2,0.1,Ghana,F Baleri,R Bakum,SO Ngoche,0,0,,,,,,"",""
+ball,2,0.2,Ghana,F Baleri,R Bakum,SO Ngoche,0,0,,,,,,"",""
+ball,2,0.3,Ghana,F Baleri,R Bakum,SO Ngoche,1,0,,,,,,"",""
+ball,2,0.4,Ghana,R Bakum,F Baleri,SO Ngoche,6,0,,,,,,"",""
+ball,2,0.5,Ghana,R Bakum,F Baleri,SO Ngoche,0,0,,,,,,"",""
+ball,2,0.6,Ghana,R Bakum,F Baleri,SO Ngoche,0,0,,,,,,"",""
+ball,2,1.1,Ghana,F Baleri,R Bakum,E Otieno,0,0,,,,,,"",""
+ball,2,1.2,Ghana,F Baleri,R Bakum,E Otieno,1,0,,,,,,"",""
+ball,2,1.3,Ghana,R Bakum,F Baleri,E Otieno,4,0,,,,,,"",""
+ball,2,1.4,Ghana,R Bakum,F Baleri,E Otieno,0,0,,,,,,"",""
+ball,2,1.5,Ghana,R Bakum,F Baleri,E Otieno,4,0,,,,,,"",""
+ball,2,1.6,Ghana,R Bakum,F Baleri,E Otieno,0,0,,,,,,"",""
+ball,2,2.1,Ghana,F Baleri,R Bakum,LN Oluoch,4,0,,,,,,"",""
+ball,2,2.2,Ghana,F Baleri,R Bakum,LN Oluoch,0,0,,,,,,"",""
+ball,2,2.3,Ghana,F Baleri,R Bakum,LN Oluoch,0,0,,,,,,"",""
+ball,2,2.4,Ghana,F Baleri,R Bakum,LN Oluoch,0,0,,,,,,bowled,F Baleri
+ball,2,2.5,Ghana,S Ateak,R Bakum,LN Oluoch,0,0,,,,,,"",""
+ball,2,2.6,Ghana,S Ateak,R Bakum,LN Oluoch,1,0,,,,,,"",""
+ball,2,3.1,Ghana,S Ateak,R Bakum,E Otieno,0,0,,,,,,"",""
+ball,2,3.2,Ghana,S Ateak,R Bakum,E Otieno,1,0,,,,,,"",""
+ball,2,3.3,Ghana,R Bakum,S Ateak,E Otieno,0,0,,,,,,"",""
+ball,2,3.4,Ghana,R Bakum,S Ateak,E Otieno,0,1,1,,,,,"",""
+ball,2,3.5,Ghana,R Bakum,S Ateak,E Otieno,2,0,,,,,,"",""
+ball,2,3.6,Ghana,R Bakum,S Ateak,E Otieno,0,0,,,,,,"",""
+ball,2,3.7,Ghana,R Bakum,S Ateak,E Otieno,1,0,,,,,,"",""
+ball,2,4.1,Ghana,R Bakum,S Ateak,LN Oluoch,0,0,,,,,,"",""
+ball,2,4.2,Ghana,R Bakum,S Ateak,LN Oluoch,0,0,,,,,,"",""
+ball,2,4.3,Ghana,R Bakum,S Ateak,LN Oluoch,0,0,,,,,,caught,R Bakum
+ball,2,4.4,Ghana,JK Vifah,S Ateak,LN Oluoch,0,0,,,,,,"",""
+ball,2,4.5,Ghana,JK Vifah,S Ateak,LN Oluoch,1,0,,,,,,"",""
+ball,2,4.6,Ghana,S Ateak,JK Vifah,LN Oluoch,0,0,,,,,,"",""
+ball,2,5.1,Ghana,JK Vifah,S Ateak,E Ochieng,1,0,,,,,,"",""
+ball,2,5.2,Ghana,S Ateak,JK Vifah,E Ochieng,0,0,,,,,,"",""
+ball,2,5.3,Ghana,S Ateak,JK Vifah,E Ochieng,0,0,,,,,,"",""
+ball,2,5.4,Ghana,S Ateak,JK Vifah,E Ochieng,2,0,,,,,,"",""
+ball,2,5.5,Ghana,S Ateak,JK Vifah,E Ochieng,1,0,,,,,,"",""
+ball,2,5.6,Ghana,JK Vifah,S Ateak,E Ochieng,1,0,,,,,,"",""
+ball,2,6.1,Ghana,JK Vifah,S Ateak,NM Odhiambo,0,0,,,,,,"",""
+ball,2,6.2,Ghana,JK Vifah,S Ateak,NM Odhiambo,1,0,,,,,,"",""
+ball,2,6.3,Ghana,S Ateak,JK Vifah,NM Odhiambo,1,0,,,,,,"",""
+ball,2,6.4,Ghana,JK Vifah,S Ateak,NM Odhiambo,0,0,,,,,,"",""
+ball,2,6.5,Ghana,JK Vifah,S Ateak,NM Odhiambo,1,0,,,,,,"",""
+ball,2,6.6,Ghana,S Ateak,JK Vifah,NM Odhiambo,4,0,,,,,,"",""
+ball,2,7.1,Ghana,JK Vifah,S Ateak,E Ochieng,1,0,,,,,,"",""
+ball,2,7.2,Ghana,S Ateak,JK Vifah,E Ochieng,0,0,,,,,,"",""
+ball,2,7.3,Ghana,S Ateak,JK Vifah,E Ochieng,0,0,,,,,,"",""
+ball,2,7.4,Ghana,S Ateak,JK Vifah,E Ochieng,4,0,,,,,,"",""
+ball,2,7.5,Ghana,S Ateak,JK Vifah,E Ochieng,1,0,,,,,,"",""
+ball,2,7.6,Ghana,JK Vifah,S Ateak,E Ochieng,1,0,,,,,,"",""
+ball,2,8.1,Ghana,JK Vifah,S Ateak,NM Odhiambo,2,0,,,,,,"",""
+ball,2,8.2,Ghana,JK Vifah,S Ateak,NM Odhiambo,0,0,,,,,,"",""
+ball,2,8.3,Ghana,JK Vifah,S Ateak,NM Odhiambo,1,0,,,,,,"",""
+ball,2,8.4,Ghana,S Ateak,JK Vifah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,8.5,Ghana,S Ateak,JK Vifah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,8.6,Ghana,S Ateak,JK Vifah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,9.1,Ghana,JK Vifah,S Ateak,SO Ngoche,1,0,,,,,,"",""
+ball,2,9.2,Ghana,S Ateak,JK Vifah,SO Ngoche,0,0,,,,,,"",""
+ball,2,9.3,Ghana,S Ateak,JK Vifah,SO Ngoche,0,0,,,,,,"",""
+ball,2,9.4,Ghana,S Ateak,JK Vifah,SO Ngoche,0,0,,,,,,stumped,S Ateak
+ball,2,9.5,Ghana,IKO Aboagye,JK Vifah,SO Ngoche,1,0,,,,,,"",""
+ball,2,9.6,Ghana,JK Vifah,IKO Aboagye,SO Ngoche,0,0,,,,,,"",""
+ball,2,10.1,Ghana,IKO Aboagye,JK Vifah,NM Odhiambo,1,0,,,,,,"",""
+ball,2,10.2,Ghana,JK Vifah,IKO Aboagye,NM Odhiambo,1,0,,,,,,"",""
+ball,2,10.3,Ghana,IKO Aboagye,JK Vifah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,10.4,Ghana,IKO Aboagye,JK Vifah,NM Odhiambo,0,1,1,,,,,"",""
+ball,2,10.5,Ghana,IKO Aboagye,JK Vifah,NM Odhiambo,1,0,,,,,,"",""
+ball,2,10.6,Ghana,JK Vifah,IKO Aboagye,NM Odhiambo,0,0,,,,,,"",""
+ball,2,10.7,Ghana,JK Vifah,IKO Aboagye,NM Odhiambo,0,0,,,,,,"",""
+ball,2,11.1,Ghana,IKO Aboagye,JK Vifah,P Kerai,0,0,,,,,,stumped,IKO Aboagye
+ball,2,11.2,Ghana,DNA Ankrah,JK Vifah,P Kerai,0,0,,,,,,"",""
+ball,2,11.3,Ghana,DNA Ankrah,JK Vifah,P Kerai,1,0,,,,,,"",""
+ball,2,11.4,Ghana,JK Vifah,DNA Ankrah,P Kerai,2,0,,,,,,"",""
+ball,2,11.5,Ghana,JK Vifah,DNA Ankrah,P Kerai,1,0,,,,,,"",""
+ball,2,11.6,Ghana,DNA Ankrah,JK Vifah,P Kerai,1,0,,,,,,"",""
+ball,2,12.1,Ghana,DNA Ankrah,JK Vifah,SO Ngoche,0,0,,,,,,"",""
+ball,2,12.2,Ghana,DNA Ankrah,JK Vifah,SO Ngoche,1,0,,,,,,"",""
+ball,2,12.3,Ghana,JK Vifah,DNA Ankrah,SO Ngoche,1,0,,,,,,"",""
+ball,2,12.4,Ghana,DNA Ankrah,JK Vifah,SO Ngoche,1,0,,,,,,"",""
+ball,2,12.5,Ghana,JK Vifah,DNA Ankrah,SO Ngoche,0,0,,,,,,"",""
+ball,2,12.6,Ghana,JK Vifah,DNA Ankrah,SO Ngoche,1,0,,,,,,"",""
+ball,2,13.1,Ghana,JK Vifah,DNA Ankrah,P Kerai,6,0,,,,,,"",""
+ball,2,13.2,Ghana,JK Vifah,DNA Ankrah,P Kerai,0,0,,,,,,"",""
+ball,2,13.3,Ghana,JK Vifah,DNA Ankrah,P Kerai,0,0,,,,,,caught,JK Vifah
+ball,2,13.4,Ghana,KS Bagabena,DNA Ankrah,P Kerai,0,0,,,,,,caught,KS Bagabena
+ball,2,13.5,Ghana,DK Anefie,DNA Ankrah,P Kerai,0,0,,,,,,"",""
+ball,2,13.6,Ghana,DK Anefie,DNA Ankrah,P Kerai,0,0,,,,,,run out,DK Anefie
+ball,2,14.1,Ghana,DNA Ankrah,M Aboagye,SO Ngoche,0,0,,,,,,stumped,DNA Ankrah
+ball,2,14.2,Ghana,G Bakiweyem,M Aboagye,SO Ngoche,2,0,,,,,,"",""
+ball,2,14.3,Ghana,G Bakiweyem,M Aboagye,SO Ngoche,2,0,,,,,,"",""
+ball,2,14.4,Ghana,G Bakiweyem,M Aboagye,SO Ngoche,2,0,,,,,,"",""
+ball,2,14.5,Ghana,G Bakiweyem,M Aboagye,SO Ngoche,1,0,,,,,,"",""
+ball,2,14.6,Ghana,M Aboagye,G Bakiweyem,SO Ngoche,0,0,,,,,,"",""
+ball,2,15.1,Ghana,G Bakiweyem,M Aboagye,P Kerai,0,0,,,,,,"",""
+ball,2,15.2,Ghana,G Bakiweyem,M Aboagye,P Kerai,1,0,,,,,,"",""
+ball,2,15.3,Ghana,M Aboagye,G Bakiweyem,P Kerai,1,0,,,,,,"",""
+ball,2,15.4,Ghana,G Bakiweyem,M Aboagye,P Kerai,1,0,,,,,,"",""
+ball,2,15.5,Ghana,M Aboagye,G Bakiweyem,P Kerai,1,0,,,,,,"",""
+ball,2,15.6,Ghana,G Bakiweyem,M Aboagye,P Kerai,0,0,,,,,,"",""
+ball,2,16.1,Ghana,M Aboagye,G Bakiweyem,NM Odhiambo,2,0,,,,,,"",""
+ball,2,16.2,Ghana,M Aboagye,G Bakiweyem,NM Odhiambo,1,0,,,,,,run out,M Aboagye
+ball,2,16.3,Ghana,V Ateak,G Bakiweyem,NM Odhiambo,0,0,,,,,,"",""
+ball,2,16.4,Ghana,V Ateak,G Bakiweyem,NM Odhiambo,1,0,,,,,,"",""
+ball,2,16.5,Ghana,G Bakiweyem,V Ateak,NM Odhiambo,2,0,,,,,,"",""
+ball,2,16.6,Ghana,G Bakiweyem,V Ateak,NM Odhiambo,1,0,,,,,,"",""
+ball,2,17.1,Ghana,G Bakiweyem,V Ateak,E Otieno,0,0,,,,,,"",""
+ball,2,17.2,Ghana,G Bakiweyem,V Ateak,E Otieno,0,0,,,,,,"",""
+ball,2,17.3,Ghana,G Bakiweyem,V Ateak,E Otieno,0,0,,,,,,caught,G Bakiweyem

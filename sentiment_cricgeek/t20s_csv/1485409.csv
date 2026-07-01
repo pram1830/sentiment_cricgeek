@@ -1,0 +1,254 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mongolia
+info,team,China
+info,gender,female
+info,season,2025
+info,date,2025/06/05
+info,event,Women's T20 Pentangular Series (in Japan)
+info,match_number,6
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Mongolia
+info,toss_decision,bat
+info,player_of_match,Mengting Liu
+info,umpire,Adam Birss
+info,umpire,Sagir Parkar
+info,winner,China
+info,winner_wickets,7
+info,player,Mongolia,J Tugsjargal
+info,player,Mongolia,B Ichinkhorloo
+info,player,Mongolia,M Batnasan
+info,player,Mongolia,E Khaliunaa
+info,player,Mongolia,G Anujin
+info,player,Mongolia,G Urjindulam
+info,player,Mongolia,O Erdenebaatar
+info,player,Mongolia,J Erdenesuvd
+info,player,Mongolia,O Amarjargal
+info,player,Mongolia,B Namuunzul
+info,player,Mongolia,U Bayarjavkhlan
+info,player,China,Yan Zuying
+info,player,China,M Zhu
+info,player,China,Mengting Liu
+info,player,China,Wei Haiting
+info,player,China,Jiaping Li
+info,player,China,Cai Yuzhi
+info,player,China,Xu Qian
+info,player,China,Wang Huiying
+info,player,China,Gong Yuting
+info,player,China,Ma Ruike
+info,player,China,Peng Liangyu
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,B Ichinkhorloo,3cc55f88
+info,registry,people,B Namuunzul,e14e70c0
+info,registry,people,Cai Yuzhi,80d30c5f
+info,registry,people,E Khaliunaa,1349b940
+info,registry,people,G Anujin,e749f016
+info,registry,people,G Urjindulam,a51e7c73
+info,registry,people,Gong Yuting,edcd847a
+info,registry,people,J Erdenesuvd,24dacf72
+info,registry,people,J Tugsjargal,e7af8a61
+info,registry,people,Jiaping Li,35cac794
+info,registry,people,M Batnasan,0e01e881
+info,registry,people,M Zhu,36c3302e
+info,registry,people,Ma Ruike,8ccef7e2
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,O Amarjargal,c054cf6f
+info,registry,people,O Erdenebaatar,f40bc7e3
+info,registry,people,Peng Liangyu,397d720c
+info,registry,people,Sagir Parkar,74254300
+info,registry,people,U Bayarjavkhlan,92c81a4f
+info,registry,people,Wang Huiying,c84a3e06
+info,registry,people,Wei Haiting,a1e30490
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yan Zuying,0311d9ec
+ball,1,0.1,Mongolia,J Tugsjargal,B Ichinkhorloo,Ma Ruike,0,0,,,,,,"",""
+ball,1,0.2,Mongolia,J Tugsjargal,B Ichinkhorloo,Ma Ruike,0,0,,,,,,"",""
+ball,1,0.3,Mongolia,J Tugsjargal,B Ichinkhorloo,Ma Ruike,0,0,,,,,,"",""
+ball,1,0.4,Mongolia,J Tugsjargal,B Ichinkhorloo,Ma Ruike,0,0,,,,,,"",""
+ball,1,0.5,Mongolia,J Tugsjargal,B Ichinkhorloo,Ma Ruike,0,0,,,,,,bowled,J Tugsjargal
+ball,1,0.6,Mongolia,M Batnasan,B Ichinkhorloo,Ma Ruike,0,1,1,,,,,"",""
+ball,1,0.7,Mongolia,M Batnasan,B Ichinkhorloo,Ma Ruike,0,0,,,,,,"",""
+ball,1,1.1,Mongolia,B Ichinkhorloo,M Batnasan,Xu Qian,0,0,,,,,,"",""
+ball,1,1.2,Mongolia,B Ichinkhorloo,M Batnasan,Xu Qian,0,0,,,,,,"",""
+ball,1,1.3,Mongolia,B Ichinkhorloo,M Batnasan,Xu Qian,0,0,,,,,,"",""
+ball,1,1.4,Mongolia,B Ichinkhorloo,M Batnasan,Xu Qian,0,0,,,,,,"",""
+ball,1,1.5,Mongolia,B Ichinkhorloo,M Batnasan,Xu Qian,4,0,,,,,,"",""
+ball,1,1.6,Mongolia,B Ichinkhorloo,M Batnasan,Xu Qian,0,0,,,,,,"",""
+ball,1,2.1,Mongolia,M Batnasan,B Ichinkhorloo,Ma Ruike,0,0,,,,,,lbw,M Batnasan
+ball,1,2.2,Mongolia,E Khaliunaa,B Ichinkhorloo,Ma Ruike,0,0,,,,,,caught,E Khaliunaa
+ball,1,2.3,Mongolia,G Anujin,B Ichinkhorloo,Ma Ruike,1,0,,,,,,"",""
+ball,1,2.4,Mongolia,B Ichinkhorloo,G Anujin,Ma Ruike,0,1,1,,,,,"",""
+ball,1,2.5,Mongolia,B Ichinkhorloo,G Anujin,Ma Ruike,1,0,,,,,,"",""
+ball,1,2.6,Mongolia,G Anujin,B Ichinkhorloo,Ma Ruike,0,0,,,,,,caught,G Anujin
+ball,1,2.7,Mongolia,G Urjindulam,B Ichinkhorloo,Ma Ruike,1,0,,,,,,"",""
+ball,1,3.1,Mongolia,G Urjindulam,B Ichinkhorloo,Xu Qian,0,0,,,,,,"",""
+ball,1,3.2,Mongolia,G Urjindulam,B Ichinkhorloo,Xu Qian,0,0,,,,,,"",""
+ball,1,3.3,Mongolia,G Urjindulam,B Ichinkhorloo,Xu Qian,0,0,,,,,,bowled,G Urjindulam
+ball,1,3.4,Mongolia,O Erdenebaatar,B Ichinkhorloo,Xu Qian,0,0,,,,,,"",""
+ball,1,3.5,Mongolia,O Erdenebaatar,B Ichinkhorloo,Xu Qian,0,0,,,,,,"",""
+ball,1,3.6,Mongolia,O Erdenebaatar,B Ichinkhorloo,Xu Qian,0,0,,,,,,"",""
+ball,1,4.1,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,0,0,,,,,,"",""
+ball,1,4.2,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,0,1,1,,,,,"",""
+ball,1,4.3,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,0,0,,,,,,"",""
+ball,1,4.4,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,0,0,,,,,,"",""
+ball,1,4.5,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,0,1,1,,,,,"",""
+ball,1,4.6,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,0,0,,,,,,"",""
+ball,1,4.7,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,0,0,,,,,,"",""
+ball,1,4.8,Mongolia,B Ichinkhorloo,O Erdenebaatar,Ma Ruike,2,0,,,,,,"",""
+ball,1,5.1,Mongolia,O Erdenebaatar,B Ichinkhorloo,Mengting Liu,0,0,,,,,,"",""
+ball,1,5.2,Mongolia,O Erdenebaatar,B Ichinkhorloo,Mengting Liu,1,0,,,,,,"",""
+ball,1,5.3,Mongolia,B Ichinkhorloo,O Erdenebaatar,Mengting Liu,0,0,,,,,,"",""
+ball,1,5.4,Mongolia,B Ichinkhorloo,O Erdenebaatar,Mengting Liu,0,0,,,,,,bowled,B Ichinkhorloo
+ball,1,5.5,Mongolia,J Erdenesuvd,O Erdenebaatar,Mengting Liu,0,0,,,,,,"",""
+ball,1,5.6,Mongolia,J Erdenesuvd,O Erdenebaatar,Mengting Liu,0,0,,,,,,"",""
+ball,1,6.1,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,6.2,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,6.3,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,1,0,,,,,,"",""
+ball,1,6.4,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,0,0,,,,,,"",""
+ball,1,6.5,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,0,1,1,,,,,"",""
+ball,1,6.6,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,0,0,,,,,,"",""
+ball,1,6.7,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,0,0,,,,,,"",""
+ball,1,7.1,Mongolia,O Erdenebaatar,J Erdenesuvd,Mengting Liu,0,0,,,,,,"",""
+ball,1,7.2,Mongolia,O Erdenebaatar,J Erdenesuvd,Mengting Liu,0,0,,,,,,"",""
+ball,1,7.3,Mongolia,O Erdenebaatar,J Erdenesuvd,Mengting Liu,0,0,,,,,,"",""
+ball,1,7.4,Mongolia,O Erdenebaatar,J Erdenesuvd,Mengting Liu,0,0,,,,,,"",""
+ball,1,7.5,Mongolia,O Erdenebaatar,J Erdenesuvd,Mengting Liu,0,0,,,,,,"",""
+ball,1,7.6,Mongolia,O Erdenebaatar,J Erdenesuvd,Mengting Liu,0,0,,,,,,"",""
+ball,1,8.1,Mongolia,J Erdenesuvd,O Erdenebaatar,Xu Qian,0,0,,,,,,"",""
+ball,1,8.2,Mongolia,J Erdenesuvd,O Erdenebaatar,Xu Qian,0,0,,,,,,"",""
+ball,1,8.3,Mongolia,J Erdenesuvd,O Erdenebaatar,Xu Qian,0,0,,,,,,"",""
+ball,1,8.4,Mongolia,J Erdenesuvd,O Erdenebaatar,Xu Qian,0,0,,,,,,"",""
+ball,1,8.5,Mongolia,J Erdenesuvd,O Erdenebaatar,Xu Qian,0,0,,,,,,"",""
+ball,1,8.6,Mongolia,J Erdenesuvd,O Erdenebaatar,Xu Qian,0,0,,,,,,"",""
+ball,1,9.1,Mongolia,O Erdenebaatar,J Erdenesuvd,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,9.2,Mongolia,J Erdenesuvd,O Erdenebaatar,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,9.3,Mongolia,J Erdenesuvd,O Erdenebaatar,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,9.4,Mongolia,J Erdenesuvd,O Erdenebaatar,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,9.5,Mongolia,J Erdenesuvd,O Erdenebaatar,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,9.6,Mongolia,J Erdenesuvd,O Erdenebaatar,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,10.1,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,10.2,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,10.3,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,10.4,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,10.5,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,2,0,,,,,,"",""
+ball,1,10.6,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,11.1,Mongolia,J Erdenesuvd,O Erdenebaatar,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,11.2,Mongolia,J Erdenesuvd,O Erdenebaatar,Cai Yuzhi,1,0,,,,,,"",""
+ball,1,11.3,Mongolia,O Erdenebaatar,J Erdenesuvd,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,11.4,Mongolia,O Erdenebaatar,J Erdenesuvd,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,11.5,Mongolia,O Erdenebaatar,J Erdenesuvd,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,11.6,Mongolia,O Erdenebaatar,J Erdenesuvd,Cai Yuzhi,0,0,,,,,,"",""
+ball,1,12.1,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,0,0,,,,,,"",""
+ball,1,12.2,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,0,0,,,,,,"",""
+ball,1,12.3,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,0,1,1,,,,,"",""
+ball,1,12.4,Mongolia,J Erdenesuvd,O Erdenebaatar,Wang Huiying,1,0,,,,,,"",""
+ball,1,12.5,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,12.6,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,12.7,Mongolia,O Erdenebaatar,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,13.1,Mongolia,J Erdenesuvd,O Erdenebaatar,Gong Yuting,0,0,,,,,,"",""
+ball,1,13.2,Mongolia,J Erdenesuvd,O Erdenebaatar,Gong Yuting,1,0,,,,,,"",""
+ball,1,13.3,Mongolia,O Erdenebaatar,J Erdenesuvd,Gong Yuting,0,0,,,,,,"",""
+ball,1,13.4,Mongolia,O Erdenebaatar,J Erdenesuvd,Gong Yuting,0,0,,,,,,caught,O Erdenebaatar
+ball,1,13.5,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,0,0,,,,,,"",""
+ball,1,13.6,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,0,0,,,,,,"",""
+ball,1,14.1,Mongolia,J Erdenesuvd,O Amarjargal,Wang Huiying,0,0,,,,,,"",""
+ball,1,14.2,Mongolia,J Erdenesuvd,O Amarjargal,Wang Huiying,0,0,,,,,,"",""
+ball,1,14.3,Mongolia,J Erdenesuvd,O Amarjargal,Wang Huiying,1,0,,,,,,"",""
+ball,1,14.4,Mongolia,O Amarjargal,J Erdenesuvd,Wang Huiying,0,0,,,,,,"",""
+ball,1,14.5,Mongolia,O Amarjargal,J Erdenesuvd,Wang Huiying,1,0,,,,,,"",""
+ball,1,14.6,Mongolia,J Erdenesuvd,O Amarjargal,Wang Huiying,0,0,,,,,,"",""
+ball,1,15.1,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,0,0,,,,,,"",""
+ball,1,15.2,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,0,0,,,,,,"",""
+ball,1,15.3,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,0,0,,,,,,"",""
+ball,1,15.4,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,0,1,,1,,,,"",""
+ball,1,15.5,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,0,0,,,,,,"",""
+ball,1,15.6,Mongolia,O Amarjargal,J Erdenesuvd,Gong Yuting,1,0,,,,,,"",""
+ball,1,15.7,Mongolia,J Erdenesuvd,O Amarjargal,Gong Yuting,0,0,,,,,,"",""
+ball,1,16.1,Mongolia,O Amarjargal,J Erdenesuvd,Ma Ruike,0,0,,,,,,"",""
+ball,1,16.2,Mongolia,O Amarjargal,J Erdenesuvd,Ma Ruike,0,0,,,,,,"",""
+ball,1,16.3,Mongolia,O Amarjargal,J Erdenesuvd,Ma Ruike,0,0,,,,,,"",""
+ball,1,16.4,Mongolia,O Amarjargal,J Erdenesuvd,Ma Ruike,0,0,,,,,,"",""
+ball,1,16.5,Mongolia,O Amarjargal,J Erdenesuvd,Ma Ruike,0,0,,,,,,"",""
+ball,1,16.6,Mongolia,O Amarjargal,J Erdenesuvd,Ma Ruike,0,0,,,,,,"",""
+ball,1,17.1,Mongolia,J Erdenesuvd,O Amarjargal,Mengting Liu,0,0,,,,,,"",""
+ball,1,17.2,Mongolia,J Erdenesuvd,O Amarjargal,Mengting Liu,0,1,1,,,,,"",""
+ball,1,17.3,Mongolia,J Erdenesuvd,O Amarjargal,Mengting Liu,0,0,,,,,,bowled,J Erdenesuvd
+ball,1,17.4,Mongolia,B Namuunzul,O Amarjargal,Mengting Liu,0,0,,,,,,"",""
+ball,1,17.5,Mongolia,B Namuunzul,O Amarjargal,Mengting Liu,1,0,,,,,,"",""
+ball,1,17.6,Mongolia,O Amarjargal,B Namuunzul,Mengting Liu,0,1,1,,,,,"",""
+ball,1,17.7,Mongolia,O Amarjargal,B Namuunzul,Mengting Liu,0,0,,,,,,"",""
+ball,1,17.8,Mongolia,O Amarjargal,B Namuunzul,Mengting Liu,0,0,,,,,,"",""
+ball,1,18.1,Mongolia,B Namuunzul,O Amarjargal,Xu Qian,0,0,,,,,,"",""
+ball,1,18.2,Mongolia,B Namuunzul,O Amarjargal,Xu Qian,0,0,,,,,,"",""
+ball,1,18.3,Mongolia,B Namuunzul,O Amarjargal,Xu Qian,0,0,,,,,,"",""
+ball,1,18.4,Mongolia,B Namuunzul,O Amarjargal,Xu Qian,1,0,,,,,,"",""
+ball,1,18.5,Mongolia,O Amarjargal,B Namuunzul,Xu Qian,1,0,,,,,,"",""
+ball,1,18.6,Mongolia,B Namuunzul,O Amarjargal,Xu Qian,0,0,,,,,,"",""
+ball,1,19.1,Mongolia,O Amarjargal,B Namuunzul,Mengting Liu,0,0,,,,,,"",""
+ball,1,19.2,Mongolia,O Amarjargal,B Namuunzul,Mengting Liu,0,0,,,,,,caught,O Amarjargal
+ball,1,19.3,Mongolia,U Bayarjavkhlan,B Namuunzul,Mengting Liu,0,0,,,,,,"",""
+ball,1,19.4,Mongolia,U Bayarjavkhlan,B Namuunzul,Mengting Liu,0,0,,,,,,"",""
+ball,1,19.5,Mongolia,U Bayarjavkhlan,B Namuunzul,Mengting Liu,0,0,,,,,,"",""
+ball,1,19.6,Mongolia,U Bayarjavkhlan,B Namuunzul,Mengting Liu,0,0,,,,,,"",""
+ball,2,0.1,China,Yan Zuying,M Zhu,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,0.2,China,Yan Zuying,M Zhu,O Erdenebaatar,0,1,1,,,,,"",""
+ball,2,0.3,China,Yan Zuying,M Zhu,O Erdenebaatar,0,1,1,,,,,"",""
+ball,2,0.4,China,Yan Zuying,M Zhu,O Erdenebaatar,1,0,,,,,,"",""
+ball,2,0.5,China,M Zhu,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,0.6,China,M Zhu,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,0.7,China,M Zhu,Yan Zuying,O Erdenebaatar,0,0,,,,,,bowled,M Zhu
+ball,2,0.8,China,Mengting Liu,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,1.1,China,Yan Zuying,Mengting Liu,U Bayarjavkhlan,0,1,1,,,,,"",""
+ball,2,1.2,China,Yan Zuying,Mengting Liu,U Bayarjavkhlan,0,1,,,1,,,"",""
+ball,2,1.3,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,0,1,1,,,,,"",""
+ball,2,1.4,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,1,0,,,,,,"",""
+ball,2,1.5,China,Yan Zuying,Mengting Liu,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,1.6,China,Yan Zuying,Mengting Liu,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,1.7,China,Yan Zuying,Mengting Liu,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,1.8,China,Yan Zuying,Mengting Liu,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,2.1,China,Mengting Liu,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,2.2,China,Mengting Liu,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,2.3,China,Mengting Liu,Yan Zuying,O Erdenebaatar,1,0,,,,,,"",""
+ball,2,2.4,China,Yan Zuying,Mengting Liu,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,2.5,China,Yan Zuying,Mengting Liu,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,2.6,China,Yan Zuying,Mengting Liu,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,3.1,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,3.2,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,0,1,1,,,,,"",""
+ball,2,3.3,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,3.4,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,1,0,,,,,,"",""
+ball,2,3.5,China,Yan Zuying,Mengting Liu,U Bayarjavkhlan,1,0,,,,,,"",""
+ball,2,3.6,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,3.7,China,Mengting Liu,Yan Zuying,U Bayarjavkhlan,0,0,,,,,,caught and bowled,Mengting Liu
+ball,2,4.1,China,Yan Zuying,Wei Haiting,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,4.2,China,Yan Zuying,Wei Haiting,O Erdenebaatar,0,1,,,1,,,"",""
+ball,2,4.3,China,Wei Haiting,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,4.4,China,Wei Haiting,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,4.5,China,Wei Haiting,Yan Zuying,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,4.6,China,Wei Haiting,Yan Zuying,O Erdenebaatar,0,1,,1,,,,"",""
+ball,2,4.7,China,Wei Haiting,Yan Zuying,O Erdenebaatar,0,1,,,,1,,"",""
+ball,2,5.1,China,Wei Haiting,Yan Zuying,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,5.2,China,Wei Haiting,Yan Zuying,U Bayarjavkhlan,1,0,,,,,,"",""
+ball,2,5.3,China,Yan Zuying,Wei Haiting,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,5.4,China,Yan Zuying,Wei Haiting,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,5.5,China,Yan Zuying,Wei Haiting,U Bayarjavkhlan,0,0,,,,,,"",""
+ball,2,5.6,China,Yan Zuying,Wei Haiting,U Bayarjavkhlan,1,0,,,,,,"",""
+ball,2,6.1,China,Yan Zuying,Wei Haiting,O Amarjargal,0,0,,,,,,"",""
+ball,2,6.2,China,Yan Zuying,Wei Haiting,O Amarjargal,0,0,,,,,,caught,Yan Zuying
+ball,2,6.3,China,Jiaping Li,Wei Haiting,O Amarjargal,0,0,,,,,,"",""
+ball,2,6.4,China,Jiaping Li,Wei Haiting,O Amarjargal,0,0,,,,,,"",""
+ball,2,6.5,China,Jiaping Li,Wei Haiting,O Amarjargal,2,0,,,,,,"",""
+ball,2,6.6,China,Jiaping Li,Wei Haiting,O Amarjargal,0,1,1,,,,,"",""
+ball,2,6.7,China,Jiaping Li,Wei Haiting,O Amarjargal,0,0,,,,,,"",""
+ball,2,7.1,China,Wei Haiting,Jiaping Li,G Urjindulam,4,0,,,,,,"",""
+ball,2,7.2,China,Wei Haiting,Jiaping Li,G Urjindulam,0,1,,1,,,,"",""
+ball,2,7.3,China,Wei Haiting,Jiaping Li,G Urjindulam,1,0,,,,,,"",""
+ball,2,7.4,China,Jiaping Li,Wei Haiting,G Urjindulam,0,2,2,,,,,"",""
+ball,2,7.5,China,Wei Haiting,Jiaping Li,G Urjindulam,0,1,,1,,,,"",""
+ball,2,7.6,China,Wei Haiting,Jiaping Li,G Urjindulam,1,0,,,,,,"",""
+ball,2,7.7,China,Jiaping Li,Wei Haiting,G Urjindulam,0,1,1,,,,,"",""
+ball,2,7.8,China,Jiaping Li,Wei Haiting,G Urjindulam,0,0,,,,,,"",""
+ball,2,7.9,China,Jiaping Li,Wei Haiting,G Urjindulam,1,0,,,,,,"",""
+ball,2,7.10,China,Wei Haiting,Jiaping Li,G Urjindulam,0,1,1,,,,,"",""
+ball,2,7.11,China,Wei Haiting,Jiaping Li,G Urjindulam,0,0,,,,,,"",""
+ball,2,8.1,China,Jiaping Li,Wei Haiting,O Amarjargal,1,0,,,,,,"",""

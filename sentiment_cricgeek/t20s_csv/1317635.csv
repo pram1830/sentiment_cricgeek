@@ -1,0 +1,125 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Australia
+info,gender,female
+info,season,2022
+info,date,2022/07/16
+info,event,Ireland Tri-Nation Women's T20I Series
+info,match_number,1
+info,venue,"Bready Cricket Club, Magheramason, Bready"
+info,city,Bready
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,umpire,Aidan Seaver
+info,umpire,M Hawthorne
+info,reserve_umpire,Jonathan Kennedy
+info,match_referee,Philip Thompson
+info,outcome,no result
+info,player,Pakistan,Iram Javed
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Kainat Imtiaz
+info,player,Pakistan,Ayesha Naseem
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Anam Amin
+info,player,Pakistan,Tuba Hassan
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,RL Haynes
+info,player,Australia,MM Lanning
+info,player,Australia,D Brown
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,A King
+info,player,Australia,NJ Carey
+info,player,Australia,ML Schutt
+info,player,Australia,GM Harris
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,AJ Healy,321644de
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Anam Amin,06653fcc
+info,registry,people,Ayesha Naseem,8c2c0a03
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,D Brown,2e81be88
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GM Harris,72166006
+info,registry,people,Iram Javed,dc596fac
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,Kainat Imtiaz,9714e764
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Tuba Hassan,0d56e9a5
+ball,1,0.1,Pakistan,Iram Javed,Muneeba Ali,ML Schutt,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Iram Javed,Muneeba Ali,ML Schutt,0,0,,,,,,"",""
+ball,1,0.3,Pakistan,Iram Javed,Muneeba Ali,ML Schutt,1,0,,,,,,"",""
+ball,1,0.4,Pakistan,Muneeba Ali,Iram Javed,ML Schutt,0,0,,,,,,"",""
+ball,1,0.5,Pakistan,Muneeba Ali,Iram Javed,ML Schutt,0,1,,,,1,,"",""
+ball,1,0.6,Pakistan,Iram Javed,Muneeba Ali,ML Schutt,1,0,,,,,,"",""
+ball,1,1.1,Pakistan,Iram Javed,Muneeba Ali,D Brown,0,5,5,,,,,"",""
+ball,1,1.2,Pakistan,Iram Javed,Muneeba Ali,D Brown,1,0,,,,,,"",""
+ball,1,1.3,Pakistan,Muneeba Ali,Iram Javed,D Brown,0,1,1,,,,,"",""
+ball,1,1.4,Pakistan,Muneeba Ali,Iram Javed,D Brown,0,4,,,,4,,"",""
+ball,1,1.5,Pakistan,Muneeba Ali,Iram Javed,D Brown,0,1,1,,,,,"",""
+ball,1,1.6,Pakistan,Muneeba Ali,Iram Javed,D Brown,0,0,,,,,,"",""
+ball,1,1.7,Pakistan,Muneeba Ali,Iram Javed,D Brown,0,0,,,,,,"",""
+ball,1,1.8,Pakistan,Muneeba Ali,Iram Javed,D Brown,4,1,,1,,,,"",""
+ball,1,1.9,Pakistan,Muneeba Ali,Iram Javed,D Brown,0,0,,,,,,"",""
+ball,1,1.10,Pakistan,Muneeba Ali,Iram Javed,D Brown,0,0,,,,,,"",""
+ball,1,2.1,Pakistan,Iram Javed,Muneeba Ali,A Gardner,4,0,,,,,,"",""
+ball,1,2.2,Pakistan,Iram Javed,Muneeba Ali,A Gardner,4,0,,,,,,"",""
+ball,1,2.3,Pakistan,Iram Javed,Muneeba Ali,A Gardner,0,0,,,,,,"",""
+ball,1,2.4,Pakistan,Iram Javed,Muneeba Ali,A Gardner,1,0,,,,,,"",""
+ball,1,2.5,Pakistan,Muneeba Ali,Iram Javed,A Gardner,0,0,,,,,,"",""
+ball,1,2.6,Pakistan,Muneeba Ali,Iram Javed,A Gardner,0,0,,,,,,"",""
+ball,1,3.1,Pakistan,Iram Javed,Muneeba Ali,ML Schutt,0,0,,,,,,bowled,Iram Javed
+ball,1,3.2,Pakistan,Bismah Maroof,Muneeba Ali,ML Schutt,0,0,,,,,,"",""
+ball,1,3.3,Pakistan,Bismah Maroof,Muneeba Ali,ML Schutt,0,0,,,,,,"",""
+ball,1,3.4,Pakistan,Bismah Maroof,Muneeba Ali,ML Schutt,0,0,,,,,,"",""
+ball,1,3.5,Pakistan,Bismah Maroof,Muneeba Ali,ML Schutt,1,0,,,,,,"",""
+ball,1,3.6,Pakistan,Muneeba Ali,Bismah Maroof,ML Schutt,0,3,3,,,,,"",""
+ball,1,3.7,Pakistan,Muneeba Ali,Bismah Maroof,ML Schutt,0,0,,,,,,"",""
+ball,1,4.1,Pakistan,Bismah Maroof,Muneeba Ali,A Gardner,0,0,,,,,,bowled,Bismah Maroof
+ball,1,4.2,Pakistan,Nida Dar,Muneeba Ali,A Gardner,0,0,,,,,,"",""
+ball,1,4.3,Pakistan,Nida Dar,Muneeba Ali,A Gardner,1,0,,,,,,"",""
+ball,1,4.4,Pakistan,Muneeba Ali,Nida Dar,A Gardner,0,1,1,,,,,"",""
+ball,1,4.5,Pakistan,Muneeba Ali,Nida Dar,A Gardner,0,0,,,,,,"",""
+ball,1,4.6,Pakistan,Muneeba Ali,Nida Dar,A Gardner,0,0,,,,,,"",""
+ball,1,4.7,Pakistan,Muneeba Ali,Nida Dar,A Gardner,0,0,,,,,,bowled,Muneeba Ali
+ball,1,5.1,Pakistan,Nida Dar,Kainat Imtiaz,TM McGrath,0,0,,,,,,"",""
+ball,1,5.2,Pakistan,Nida Dar,Kainat Imtiaz,TM McGrath,0,0,,,,,,"",""
+ball,1,5.3,Pakistan,Nida Dar,Kainat Imtiaz,TM McGrath,0,0,,,,,,"",""
+ball,1,5.4,Pakistan,Nida Dar,Kainat Imtiaz,TM McGrath,0,0,,,,,,"",""
+ball,1,5.5,Pakistan,Nida Dar,Kainat Imtiaz,TM McGrath,0,0,,,,,,"",""
+ball,1,5.6,Pakistan,Nida Dar,Kainat Imtiaz,TM McGrath,4,0,,,,,,"",""
+ball,1,6.1,Pakistan,Kainat Imtiaz,Nida Dar,A King,0,5,5,,,,,"",""
+ball,1,6.2,Pakistan,Kainat Imtiaz,Nida Dar,A King,0,0,,,,,,lbw,Kainat Imtiaz
+ball,1,6.3,Pakistan,Ayesha Naseem,Nida Dar,A King,0,3,3,,,,,"",""
+ball,1,6.4,Pakistan,Ayesha Naseem,Nida Dar,A King,0,0,,,,,,lbw,Ayesha Naseem
+ball,1,6.5,Pakistan,Aliya Riaz,Nida Dar,A King,0,0,,,,,,lbw,Aliya Riaz
+ball,1,6.6,Pakistan,Fatima Sana,Nida Dar,A King,0,0,,,,,,"",""
+ball,1,6.7,Pakistan,Fatima Sana,Nida Dar,A King,0,0,,,,,,"",""
+ball,1,6.8,Pakistan,Fatima Sana,Nida Dar,A King,0,0,,,,,,"",""
+ball,1,7.1,Pakistan,Nida Dar,Fatima Sana,D Brown,0,0,,,,,,"",""
+ball,1,7.2,Pakistan,Nida Dar,Fatima Sana,D Brown,0,1,1,,,,,"",""
+ball,1,7.3,Pakistan,Nida Dar,Fatima Sana,D Brown,0,1,1,,,,,"",""
+ball,1,7.4,Pakistan,Nida Dar,Fatima Sana,D Brown,0,0,,,,,,"",""
+ball,1,7.5,Pakistan,Nida Dar,Fatima Sana,D Brown,0,1,,1,,,,"",""
+ball,1,7.6,Pakistan,Nida Dar,Fatima Sana,D Brown,2,0,,,,,,"",""
+ball,1,7.7,Pakistan,Nida Dar,Fatima Sana,D Brown,1,0,,,,,,"",""
+ball,1,7.8,Pakistan,Fatima Sana,Nida Dar,D Brown,1,0,,,,,,"",""
+ball,1,7.9,Pakistan,Nida Dar,Fatima Sana,D Brown,2,0,,,,,,"",""

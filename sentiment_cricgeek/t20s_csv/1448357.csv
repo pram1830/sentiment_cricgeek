@@ -1,0 +1,151 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2025
+info,date,2025/09/10
+info,event,South Africa tour of England
+info,match_number,1
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,D Ferreira
+info,umpire,GD Lloyd
+info,umpire,MJ Saggers
+info,reserve_umpire,RJ Warren
+info,tv_umpire,M Burns
+info,match_referee,J Srinath
+info,winner,South Africa
+info,winner_runs,14
+info,method,D/L
+info,player,South Africa,AK Markram
+info,player,South Africa,RD Rickelton
+info,player,South Africa,LG Pretorius
+info,player,South Africa,D Brevis
+info,player,South Africa,D Ferreira
+info,player,South Africa,T Stubbs
+info,player,South Africa,M Jansen
+info,player,South Africa,C Bosch
+info,player,South Africa,K Rabada
+info,player,South Africa,KT Maphaka
+info,player,South Africa,LB Williams
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,JG Bethell
+info,player,England,HC Brook
+info,player,England,T Banton
+info,player,England,WG Jacks
+info,player,England,SM Curran
+info,player,England,J Overton
+info,player,England,LA Dawson
+info,player,England,L Wood
+info,player,England,AU Rashid
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,C Bosch,172dff15
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,J Overton,59559bc2
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Wood,65b6943c
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,South Africa,AK Markram,RD Rickelton,L Wood,1,0,,,,,,"",""
+ball,1,0.2,South Africa,RD Rickelton,AK Markram,L Wood,0,0,,,,,,caught,RD Rickelton
+ball,1,0.3,South Africa,LG Pretorius,AK Markram,L Wood,1,0,,,,,,"",""
+ball,1,0.4,South Africa,AK Markram,LG Pretorius,L Wood,0,0,,,,,,"",""
+ball,1,0.5,South Africa,AK Markram,LG Pretorius,L Wood,4,0,,,,,,"",""
+ball,1,0.6,South Africa,AK Markram,LG Pretorius,L Wood,0,1,1,,,,,"",""
+ball,1,0.7,South Africa,AK Markram,LG Pretorius,L Wood,1,0,,,,,,"",""
+ball,1,1.1,South Africa,AK Markram,LG Pretorius,J Overton,0,0,,,,,,"",""
+ball,1,1.2,South Africa,AK Markram,LG Pretorius,J Overton,0,1,,,,1,,"",""
+ball,1,1.3,South Africa,LG Pretorius,AK Markram,J Overton,1,0,,,,,,"",""
+ball,1,1.4,South Africa,AK Markram,LG Pretorius,J Overton,2,0,,,,,,"",""
+ball,1,1.5,South Africa,AK Markram,LG Pretorius,J Overton,6,0,,,,,,"",""
+ball,1,1.6,South Africa,AK Markram,LG Pretorius,J Overton,0,2,2,,,,,"",""
+ball,1,1.7,South Africa,LG Pretorius,AK Markram,J Overton,0,0,,,,,,"",""
+ball,1,2.1,South Africa,AK Markram,LG Pretorius,L Wood,6,0,,,,,,"",""
+ball,1,2.2,South Africa,AK Markram,LG Pretorius,L Wood,4,0,,,,,,"",""
+ball,1,2.3,South Africa,AK Markram,LG Pretorius,L Wood,2,0,,,,,,"",""
+ball,1,2.4,South Africa,AK Markram,LG Pretorius,L Wood,1,0,,,,,,"",""
+ball,1,2.5,South Africa,LG Pretorius,AK Markram,L Wood,0,0,,,,,,caught,LG Pretorius
+ball,1,2.6,South Africa,D Brevis,AK Markram,L Wood,1,0,,,,,,"",""
+ball,1,3.1,South Africa,D Brevis,AK Markram,AU Rashid,1,0,,,,,,"",""
+ball,1,3.2,South Africa,AK Markram,D Brevis,AU Rashid,1,0,,,,,,"",""
+ball,1,3.3,South Africa,D Brevis,AK Markram,AU Rashid,1,0,,,,,,"",""
+ball,1,3.4,South Africa,AK Markram,D Brevis,AU Rashid,0,0,,,,,,caught,AK Markram
+ball,1,3.5,South Africa,D Ferreira,D Brevis,AU Rashid,0,0,,,,,,"",""
+ball,1,3.6,South Africa,D Ferreira,D Brevis,AU Rashid,1,0,,,,,,"",""
+ball,1,4.1,South Africa,D Ferreira,D Brevis,LA Dawson,0,1,,,,1,,"",""
+ball,1,4.2,South Africa,D Brevis,D Ferreira,LA Dawson,6,0,,,,,,"",""
+ball,1,4.3,South Africa,D Brevis,D Ferreira,LA Dawson,6,0,,,,,,"",""
+ball,1,4.4,South Africa,D Brevis,D Ferreira,LA Dawson,0,0,,,,,,"",""
+ball,1,4.5,South Africa,D Brevis,D Ferreira,LA Dawson,1,0,,,,,,"",""
+ball,1,4.6,South Africa,D Ferreira,D Brevis,LA Dawson,1,0,,,,,,"",""
+ball,1,5.1,South Africa,D Ferreira,D Brevis,AU Rashid,1,0,,,,,,"",""
+ball,1,5.2,South Africa,D Brevis,D Ferreira,AU Rashid,6,0,,,,,,"",""
+ball,1,5.3,South Africa,D Brevis,D Ferreira,AU Rashid,1,0,,,,,,"",""
+ball,1,5.4,South Africa,D Ferreira,D Brevis,AU Rashid,6,0,,,,,,"",""
+ball,1,5.5,South Africa,D Ferreira,D Brevis,AU Rashid,0,0,,,,,,"",""
+ball,1,5.6,South Africa,D Ferreira,D Brevis,AU Rashid,6,0,,,,,,"",""
+ball,1,6.1,South Africa,D Brevis,D Ferreira,SM Curran,0,0,,,,,,caught,D Brevis
+ball,1,6.2,South Africa,T Stubbs,D Ferreira,SM Curran,4,0,,,,,,"",""
+ball,1,6.3,South Africa,T Stubbs,D Ferreira,SM Curran,2,0,,,,,,"",""
+ball,1,6.4,South Africa,T Stubbs,D Ferreira,SM Curran,1,0,,,,,,"",""
+ball,1,6.5,South Africa,D Ferreira,T Stubbs,SM Curran,2,0,,,,,,"",""
+ball,1,6.6,South Africa,D Ferreira,T Stubbs,SM Curran,2,0,,,,,,"",""
+ball,1,7.1,South Africa,T Stubbs,D Ferreira,J Overton,6,0,,,,,,"",""
+ball,1,7.2,South Africa,T Stubbs,D Ferreira,J Overton,0,0,,,,,,"",""
+ball,1,7.3,South Africa,T Stubbs,D Ferreira,J Overton,0,0,,,,,,bowled,T Stubbs
+ball,1,7.4,South Africa,M Jansen,D Ferreira,J Overton,1,0,,,,,,"",""
+ball,1,7.5,South Africa,D Ferreira,M Jansen,J Overton,6,0,,,,,,"",""
+ball,2,0.1,England,PD Salt,JC Buttler,K Rabada,0,0,,,,,,caught,PD Salt
+ball,2,0.2,England,JG Bethell,JC Buttler,K Rabada,1,0,,,,,,"",""
+ball,2,0.3,England,JC Buttler,JG Bethell,K Rabada,0,0,,,,,,"",""
+ball,2,0.4,England,JC Buttler,JG Bethell,K Rabada,4,0,,,,,,"",""
+ball,2,0.5,England,JC Buttler,JG Bethell,K Rabada,6,0,,,,,,"",""
+ball,2,0.6,England,JC Buttler,JG Bethell,K Rabada,0,0,,,,,,"",""
+ball,2,1.1,England,JG Bethell,JC Buttler,M Jansen,0,0,,,,,,"",""
+ball,2,1.2,England,JG Bethell,JC Buttler,M Jansen,6,0,,,,,,"",""
+ball,2,1.3,England,JG Bethell,JC Buttler,M Jansen,0,0,,,,,,caught,JG Bethell
+ball,2,1.4,England,HC Brook,JC Buttler,M Jansen,0,0,,,,,,"",""
+ball,2,1.5,England,HC Brook,JC Buttler,M Jansen,0,4,,,4,,,"",""
+ball,2,1.6,England,HC Brook,JC Buttler,M Jansen,0,0,,,,,,"",""
+ball,2,2.1,England,JC Buttler,HC Brook,C Bosch,6,0,,,,,,"",""
+ball,2,2.2,England,JC Buttler,HC Brook,C Bosch,1,0,,,,,,"",""
+ball,2,2.3,England,HC Brook,JC Buttler,C Bosch,0,0,,,,,,caught,HC Brook
+ball,2,2.4,England,T Banton,JC Buttler,C Bosch,0,1,,,,1,,"",""
+ball,2,2.5,England,JC Buttler,T Banton,C Bosch,1,0,,,,,,"",""
+ball,2,2.6,England,T Banton,JC Buttler,C Bosch,1,0,,,,,,"",""
+ball,2,3.1,England,T Banton,JC Buttler,M Jansen,1,0,,,,,,"",""
+ball,2,3.2,England,JC Buttler,T Banton,M Jansen,6,0,,,,,,"",""
+ball,2,3.3,England,JC Buttler,T Banton,M Jansen,0,0,,,,,,"",""
+ball,2,3.4,England,JC Buttler,T Banton,M Jansen,1,0,,,,,,"",""
+ball,2,3.5,England,T Banton,JC Buttler,M Jansen,3,0,,,,,,"",""
+ball,2,3.6,England,JC Buttler,T Banton,M Jansen,0,1,1,,,,,"",""
+ball,2,3.7,England,JC Buttler,T Banton,M Jansen,0,0,,,,,,caught,JC Buttler
+ball,2,4.1,England,T Banton,WG Jacks,C Bosch,0,0,,,,,,caught,T Banton
+ball,2,4.2,England,SM Curran,WG Jacks,C Bosch,6,0,,,,,,"",""
+ball,2,4.3,England,SM Curran,WG Jacks,C Bosch,3,0,,,,,,"",""
+ball,2,4.4,England,WG Jacks,SM Curran,C Bosch,1,0,,,,,,"",""
+ball,2,4.5,England,SM Curran,WG Jacks,C Bosch,1,0,,,,,,"",""
+ball,2,4.6,England,WG Jacks,SM Curran,C Bosch,0,0,,,,,,"",""

@@ -1,0 +1,290 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,female
+info,season,2022
+info,date,2022/07/21
+info,event,South Africa Women tour of England
+info,match_number,1
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,KH Brunt
+info,umpire,RJ Bailey
+info,umpire,SM Bartlett
+info,reserve_umpire,SJ O'Shaughnessy
+info,tv_umpire,S Redfern
+info,match_referee,Phil Whitticase
+info,winner,England
+info,winner_wickets,6
+info,player,South Africa,A Bosch
+info,player,South Africa,L Goodall
+info,player,South Africa,S Luus
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,M du Preez
+info,player,South Africa,CL Tryon
+info,player,South Africa,D Tucker
+info,player,South Africa,S Jafta
+info,player,South Africa,S Ismail
+info,player,South Africa,M Klaas
+info,player,South Africa,A Khaka
+info,player,England,SIR Dunkley
+info,player,England,DN Wyatt
+info,player,England,BF Smith
+info,player,England,NR Sciver
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,ME Bouchier
+info,player,England,S Ecclestone
+info,player,England,KH Brunt
+info,player,England,IECM Wong
+info,player,England,S Glenn
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Tucker,2b425403
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,KH Brunt,6a434bd3
+info,registry,people,L Goodall,0bb32e98
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,M du Preez,e219f17a
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Redfern,5b038989
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SM Bartlett,7ba18406
+ball,1,0.1,South Africa,A Bosch,L Goodall,KH Brunt,1,0,,,,,,"",""
+ball,1,0.2,South Africa,L Goodall,A Bosch,KH Brunt,0,0,,,,,,"",""
+ball,1,0.3,South Africa,L Goodall,A Bosch,KH Brunt,0,0,,,,,,"",""
+ball,1,0.4,South Africa,L Goodall,A Bosch,KH Brunt,0,0,,,,,,bowled,L Goodall
+ball,1,0.5,South Africa,S Luus,A Bosch,KH Brunt,0,0,,,,,,"",""
+ball,1,0.6,South Africa,S Luus,A Bosch,KH Brunt,0,0,,,,,,"",""
+ball,1,1.1,South Africa,A Bosch,S Luus,IECM Wong,0,0,,,,,,"",""
+ball,1,1.2,South Africa,A Bosch,S Luus,IECM Wong,0,0,,,,,,"",""
+ball,1,1.3,South Africa,A Bosch,S Luus,IECM Wong,0,0,,,,,,"",""
+ball,1,1.4,South Africa,A Bosch,S Luus,IECM Wong,0,0,,,,,,"",""
+ball,1,1.5,South Africa,A Bosch,S Luus,IECM Wong,1,0,,,,,,"",""
+ball,1,1.6,South Africa,S Luus,A Bosch,IECM Wong,0,0,,,,,,"",""
+ball,1,2.1,South Africa,A Bosch,S Luus,KH Brunt,4,0,,,,,,"",""
+ball,1,2.2,South Africa,A Bosch,S Luus,KH Brunt,1,0,,,,,,"",""
+ball,1,2.3,South Africa,S Luus,A Bosch,KH Brunt,0,0,,,,,,"",""
+ball,1,2.4,South Africa,S Luus,A Bosch,KH Brunt,0,0,,,,,,bowled,S Luus
+ball,1,2.5,South Africa,L Wolvaardt,A Bosch,KH Brunt,1,0,,,,,,"",""
+ball,1,2.6,South Africa,A Bosch,L Wolvaardt,KH Brunt,4,0,,,,,,"",""
+ball,1,3.1,South Africa,L Wolvaardt,A Bosch,IECM Wong,0,1,1,,,,,"",""
+ball,1,3.2,South Africa,L Wolvaardt,A Bosch,IECM Wong,0,0,,,,,,"",""
+ball,1,3.3,South Africa,L Wolvaardt,A Bosch,IECM Wong,0,0,,,,,,"",""
+ball,1,3.4,South Africa,L Wolvaardt,A Bosch,IECM Wong,0,0,,,,,,"",""
+ball,1,3.5,South Africa,L Wolvaardt,A Bosch,IECM Wong,4,0,,,,,,"",""
+ball,1,3.6,South Africa,L Wolvaardt,A Bosch,IECM Wong,1,0,,,,,,"",""
+ball,1,3.7,South Africa,A Bosch,L Wolvaardt,IECM Wong,0,0,,,,,,"",""
+ball,1,4.1,South Africa,L Wolvaardt,A Bosch,NR Sciver,0,0,,,,,,"",""
+ball,1,4.2,South Africa,L Wolvaardt,A Bosch,NR Sciver,0,0,,,,,,"",""
+ball,1,4.3,South Africa,L Wolvaardt,A Bosch,NR Sciver,2,0,,,,,,"",""
+ball,1,4.4,South Africa,L Wolvaardt,A Bosch,NR Sciver,0,0,,,,,,"",""
+ball,1,4.5,South Africa,L Wolvaardt,A Bosch,NR Sciver,4,0,,,,,,"",""
+ball,1,4.6,South Africa,L Wolvaardt,A Bosch,NR Sciver,2,0,,,,,,"",""
+ball,1,5.1,South Africa,A Bosch,L Wolvaardt,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.2,South Africa,A Bosch,L Wolvaardt,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.3,South Africa,A Bosch,L Wolvaardt,S Ecclestone,1,0,,,,,,"",""
+ball,1,5.4,South Africa,L Wolvaardt,A Bosch,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.5,South Africa,L Wolvaardt,A Bosch,S Ecclestone,4,0,,,,,,"",""
+ball,1,5.6,South Africa,L Wolvaardt,A Bosch,S Ecclestone,0,0,,,,,,"",""
+ball,1,6.1,South Africa,A Bosch,L Wolvaardt,S Glenn,1,0,,,,,,"",""
+ball,1,6.2,South Africa,L Wolvaardt,A Bosch,S Glenn,1,0,,,,,,"",""
+ball,1,6.3,South Africa,A Bosch,L Wolvaardt,S Glenn,0,0,,,,,,"",""
+ball,1,6.4,South Africa,A Bosch,L Wolvaardt,S Glenn,2,0,,,,,,"",""
+ball,1,6.5,South Africa,A Bosch,L Wolvaardt,S Glenn,1,0,,,,,,"",""
+ball,1,6.6,South Africa,L Wolvaardt,A Bosch,S Glenn,1,0,,,,,,"",""
+ball,1,7.1,South Africa,L Wolvaardt,A Bosch,BF Smith,1,0,,,,,,"",""
+ball,1,7.2,South Africa,A Bosch,L Wolvaardt,BF Smith,1,0,,,,,,"",""
+ball,1,7.3,South Africa,L Wolvaardt,A Bosch,BF Smith,0,0,,,,,,"",""
+ball,1,7.4,South Africa,L Wolvaardt,A Bosch,BF Smith,1,0,,,,,,"",""
+ball,1,7.5,South Africa,A Bosch,L Wolvaardt,BF Smith,0,0,,,,,,"",""
+ball,1,7.6,South Africa,A Bosch,L Wolvaardt,BF Smith,1,0,,,,,,"",""
+ball,1,8.1,South Africa,A Bosch,L Wolvaardt,S Glenn,0,0,,,,,,bowled,A Bosch
+ball,1,8.2,South Africa,M du Preez,L Wolvaardt,S Glenn,0,0,,,,,,"",""
+ball,1,8.3,South Africa,M du Preez,L Wolvaardt,S Glenn,0,0,,,,,,"",""
+ball,1,8.4,South Africa,M du Preez,L Wolvaardt,S Glenn,0,0,,,,,,"",""
+ball,1,8.5,South Africa,M du Preez,L Wolvaardt,S Glenn,1,0,,,,,,"",""
+ball,1,8.6,South Africa,L Wolvaardt,M du Preez,S Glenn,2,0,,,,,,"",""
+ball,1,9.1,South Africa,M du Preez,L Wolvaardt,NR Sciver,2,0,,,,,,"",""
+ball,1,9.2,South Africa,M du Preez,L Wolvaardt,NR Sciver,1,0,,,,,,"",""
+ball,1,9.3,South Africa,L Wolvaardt,M du Preez,NR Sciver,0,0,,,,,,"",""
+ball,1,9.4,South Africa,L Wolvaardt,M du Preez,NR Sciver,4,0,,,,,,"",""
+ball,1,9.5,South Africa,L Wolvaardt,M du Preez,NR Sciver,1,0,,,,,,"",""
+ball,1,9.6,South Africa,M du Preez,L Wolvaardt,NR Sciver,0,0,,,,,,caught,M du Preez
+ball,1,10.1,South Africa,CL Tryon,L Wolvaardt,S Glenn,1,0,,,,,,"",""
+ball,1,10.2,South Africa,L Wolvaardt,CL Tryon,S Glenn,1,0,,,,,,"",""
+ball,1,10.3,South Africa,CL Tryon,L Wolvaardt,S Glenn,1,0,,,,,,"",""
+ball,1,10.4,South Africa,L Wolvaardt,CL Tryon,S Glenn,1,0,,,,,,"",""
+ball,1,10.5,South Africa,CL Tryon,L Wolvaardt,S Glenn,1,0,,,,,,"",""
+ball,1,10.6,South Africa,L Wolvaardt,CL Tryon,S Glenn,4,0,,,,,,"",""
+ball,1,11.1,South Africa,CL Tryon,L Wolvaardt,BF Smith,0,1,1,,,,,"",""
+ball,1,11.2,South Africa,CL Tryon,L Wolvaardt,BF Smith,4,0,,,,,,"",""
+ball,1,11.3,South Africa,CL Tryon,L Wolvaardt,BF Smith,0,0,,,,,,"",""
+ball,1,11.4,South Africa,CL Tryon,L Wolvaardt,BF Smith,1,0,,,,,,"",""
+ball,1,11.5,South Africa,L Wolvaardt,CL Tryon,BF Smith,0,0,,,,,,"",""
+ball,1,11.6,South Africa,L Wolvaardt,CL Tryon,BF Smith,1,0,,,,,,"",""
+ball,1,11.7,South Africa,CL Tryon,L Wolvaardt,BF Smith,1,0,,,,,,"",""
+ball,1,12.1,South Africa,CL Tryon,L Wolvaardt,S Ecclestone,0,0,,,,,,lbw,CL Tryon
+ball,1,12.2,South Africa,D Tucker,L Wolvaardt,S Ecclestone,2,0,,,,,,"",""
+ball,1,12.3,South Africa,D Tucker,L Wolvaardt,S Ecclestone,1,0,,,,,,"",""
+ball,1,12.4,South Africa,L Wolvaardt,D Tucker,S Ecclestone,0,0,,,,,,"",""
+ball,1,12.5,South Africa,L Wolvaardt,D Tucker,S Ecclestone,2,0,,,,,,"",""
+ball,1,12.6,South Africa,L Wolvaardt,D Tucker,S Ecclestone,0,0,,,,,,"",""
+ball,1,13.1,South Africa,D Tucker,L Wolvaardt,IECM Wong,0,0,,,,,,"",""
+ball,1,13.2,South Africa,D Tucker,L Wolvaardt,IECM Wong,1,0,,,,,,"",""
+ball,1,13.3,South Africa,L Wolvaardt,D Tucker,IECM Wong,0,1,,,,1,,"",""
+ball,1,13.4,South Africa,D Tucker,L Wolvaardt,IECM Wong,0,0,,,,,,"",""
+ball,1,13.5,South Africa,D Tucker,L Wolvaardt,IECM Wong,0,0,,,,,,"",""
+ball,1,13.6,South Africa,D Tucker,L Wolvaardt,IECM Wong,1,0,,,,,,"",""
+ball,1,14.1,South Africa,D Tucker,L Wolvaardt,NR Sciver,0,0,,,,,,"",""
+ball,1,14.2,South Africa,D Tucker,L Wolvaardt,NR Sciver,1,0,,,,,,"",""
+ball,1,14.3,South Africa,L Wolvaardt,D Tucker,NR Sciver,1,0,,,,,,"",""
+ball,1,14.4,South Africa,D Tucker,L Wolvaardt,NR Sciver,0,0,,,,,,"",""
+ball,1,14.5,South Africa,D Tucker,L Wolvaardt,NR Sciver,0,0,,,,,,"",""
+ball,1,14.6,South Africa,D Tucker,L Wolvaardt,NR Sciver,0,1,,,1,,,"",""
+ball,1,15.1,South Africa,D Tucker,L Wolvaardt,S Ecclestone,0,2,2,,,,,"",""
+ball,1,15.2,South Africa,L Wolvaardt,D Tucker,S Ecclestone,0,0,,,,,,"",""
+ball,1,15.3,South Africa,L Wolvaardt,D Tucker,S Ecclestone,0,0,,,,,,"",""
+ball,1,15.4,South Africa,L Wolvaardt,D Tucker,S Ecclestone,0,0,,,,,,"",""
+ball,1,15.5,South Africa,L Wolvaardt,D Tucker,S Ecclestone,1,0,,,,,,"",""
+ball,1,15.6,South Africa,D Tucker,L Wolvaardt,S Ecclestone,1,0,,,,,,"",""
+ball,1,15.7,South Africa,L Wolvaardt,D Tucker,S Ecclestone,1,0,,,,,,"",""
+ball,1,16.1,South Africa,L Wolvaardt,D Tucker,IECM Wong,1,0,,,,,,"",""
+ball,1,16.2,South Africa,D Tucker,L Wolvaardt,IECM Wong,0,1,1,,,,,"",""
+ball,1,16.3,South Africa,D Tucker,L Wolvaardt,IECM Wong,1,0,,,,,,"",""
+ball,1,16.4,South Africa,L Wolvaardt,D Tucker,IECM Wong,2,0,,,,,,"",""
+ball,1,16.5,South Africa,L Wolvaardt,D Tucker,IECM Wong,4,0,,,,,,"",""
+ball,1,16.6,South Africa,L Wolvaardt,D Tucker,IECM Wong,0,0,,,,,,"",""
+ball,1,16.7,South Africa,L Wolvaardt,D Tucker,IECM Wong,1,0,,,,,,"",""
+ball,1,17.1,South Africa,L Wolvaardt,D Tucker,KH Brunt,1,0,,,,,,"",""
+ball,1,17.2,South Africa,D Tucker,L Wolvaardt,KH Brunt,0,0,,,,,,caught,D Tucker
+ball,1,17.3,South Africa,S Jafta,L Wolvaardt,KH Brunt,0,0,,,,,,"",""
+ball,1,17.4,South Africa,S Jafta,L Wolvaardt,KH Brunt,0,0,,,,,,"",""
+ball,1,17.5,South Africa,S Jafta,L Wolvaardt,KH Brunt,0,0,,,,,,"",""
+ball,1,17.6,South Africa,S Jafta,L Wolvaardt,KH Brunt,1,0,,,,,,"",""
+ball,1,18.1,South Africa,S Jafta,L Wolvaardt,S Ecclestone,6,0,,,,,,"",""
+ball,1,18.2,South Africa,S Jafta,L Wolvaardt,S Ecclestone,0,0,,,,,,bowled,S Jafta
+ball,1,18.3,South Africa,S Ismail,L Wolvaardt,S Ecclestone,1,0,,,,,,"",""
+ball,1,18.4,South Africa,L Wolvaardt,S Ismail,S Ecclestone,4,0,,,,,,"",""
+ball,1,18.5,South Africa,L Wolvaardt,S Ismail,S Ecclestone,0,0,,,,,,"",""
+ball,1,18.6,South Africa,L Wolvaardt,S Ismail,S Ecclestone,1,0,,,,,,"",""
+ball,1,19.1,South Africa,L Wolvaardt,S Ismail,KH Brunt,0,0,,,,,,caught,L Wolvaardt
+ball,1,19.2,South Africa,M Klaas,S Ismail,KH Brunt,0,0,,,,,,"",""
+ball,1,19.3,South Africa,M Klaas,S Ismail,KH Brunt,0,0,,,,,,"",""
+ball,1,19.4,South Africa,M Klaas,S Ismail,KH Brunt,0,0,,,,,,"",""
+ball,1,19.5,South Africa,M Klaas,S Ismail,KH Brunt,1,0,,,,,,run out,M Klaas
+ball,1,19.6,South Africa,A Khaka,S Ismail,KH Brunt,0,1,1,,,,,"",""
+ball,1,19.7,South Africa,A Khaka,S Ismail,KH Brunt,0,0,,,,,,"",""
+ball,2,0.1,England,SIR Dunkley,DN Wyatt,S Ismail,0,0,,,,,,"",""
+ball,2,0.2,England,SIR Dunkley,DN Wyatt,S Ismail,0,1,,1,,,,"",""
+ball,2,0.3,England,SIR Dunkley,DN Wyatt,S Ismail,4,0,,,,,,"",""
+ball,2,0.4,England,SIR Dunkley,DN Wyatt,S Ismail,4,0,,,,,,"",""
+ball,2,0.5,England,SIR Dunkley,DN Wyatt,S Ismail,0,1,1,,,,,"",""
+ball,2,0.6,England,SIR Dunkley,DN Wyatt,S Ismail,1,0,,,,,,"",""
+ball,2,0.7,England,DN Wyatt,SIR Dunkley,S Ismail,0,0,,,,,,"",""
+ball,2,0.8,England,DN Wyatt,SIR Dunkley,S Ismail,0,0,,,,,,"",""
+ball,2,1.1,England,SIR Dunkley,DN Wyatt,M Klaas,2,0,,,,,,"",""
+ball,2,1.2,England,SIR Dunkley,DN Wyatt,M Klaas,0,0,,,,,,"",""
+ball,2,1.3,England,SIR Dunkley,DN Wyatt,M Klaas,6,0,,,,,,"",""
+ball,2,1.4,England,SIR Dunkley,DN Wyatt,M Klaas,0,0,,,,,,"",""
+ball,2,1.5,England,SIR Dunkley,DN Wyatt,M Klaas,1,0,,,,,,"",""
+ball,2,1.6,England,DN Wyatt,SIR Dunkley,M Klaas,0,0,,,,,,"",""
+ball,2,2.1,England,SIR Dunkley,DN Wyatt,A Khaka,0,0,,,,,,"",""
+ball,2,2.2,England,SIR Dunkley,DN Wyatt,A Khaka,1,0,,,,,,"",""
+ball,2,2.3,England,DN Wyatt,SIR Dunkley,A Khaka,0,0,,,,,,bowled,DN Wyatt
+ball,2,2.4,England,BF Smith,SIR Dunkley,A Khaka,0,0,,,,,,"",""
+ball,2,2.5,England,BF Smith,SIR Dunkley,A Khaka,0,0,,,,,,"",""
+ball,2,2.6,England,BF Smith,SIR Dunkley,A Khaka,0,0,,,,,,"",""
+ball,2,3.1,England,SIR Dunkley,BF Smith,CL Tryon,1,0,,,,,,"",""
+ball,2,3.2,England,BF Smith,SIR Dunkley,CL Tryon,1,0,,,,,,"",""
+ball,2,3.3,England,SIR Dunkley,BF Smith,CL Tryon,4,0,,,,,,"",""
+ball,2,3.4,England,SIR Dunkley,BF Smith,CL Tryon,0,1,1,,,,,"",""
+ball,2,3.5,England,SIR Dunkley,BF Smith,CL Tryon,0,0,,,,,,"",""
+ball,2,3.6,England,SIR Dunkley,BF Smith,CL Tryon,1,0,,,,,,"",""
+ball,2,3.7,England,BF Smith,SIR Dunkley,CL Tryon,1,0,,,,,,"",""
+ball,2,4.1,England,BF Smith,SIR Dunkley,A Khaka,0,0,,,,,,"",""
+ball,2,4.2,England,BF Smith,SIR Dunkley,A Khaka,0,0,,,,,,bowled,BF Smith
+ball,2,4.3,England,NR Sciver,SIR Dunkley,A Khaka,1,0,,,,,,"",""
+ball,2,4.4,England,SIR Dunkley,NR Sciver,A Khaka,1,0,,,,,,"",""
+ball,2,4.5,England,NR Sciver,SIR Dunkley,A Khaka,1,0,,,,,,"",""
+ball,2,4.6,England,SIR Dunkley,NR Sciver,A Khaka,1,0,,,,,,"",""
+ball,2,5.1,England,SIR Dunkley,NR Sciver,M Klaas,4,0,,,,,,"",""
+ball,2,5.2,England,SIR Dunkley,NR Sciver,M Klaas,0,0,,,,,,"",""
+ball,2,5.3,England,SIR Dunkley,NR Sciver,M Klaas,4,0,,,,,,"",""
+ball,2,5.4,England,SIR Dunkley,NR Sciver,M Klaas,1,0,,,,,,"",""
+ball,2,5.5,England,NR Sciver,SIR Dunkley,M Klaas,1,0,,,,,,"",""
+ball,2,5.6,England,SIR Dunkley,NR Sciver,M Klaas,6,0,,,,,,"",""
+ball,2,6.1,England,NR Sciver,SIR Dunkley,S Ismail,1,0,,,,,,"",""
+ball,2,6.2,England,SIR Dunkley,NR Sciver,S Ismail,0,1,,1,,,,"",""
+ball,2,6.3,England,SIR Dunkley,NR Sciver,S Ismail,1,0,,,,,,"",""
+ball,2,6.4,England,NR Sciver,SIR Dunkley,S Ismail,4,0,,,,,,"",""
+ball,2,6.5,England,NR Sciver,SIR Dunkley,S Ismail,1,0,,,,,,"",""
+ball,2,6.6,England,SIR Dunkley,NR Sciver,S Ismail,1,0,,,,,,"",""
+ball,2,6.7,England,NR Sciver,SIR Dunkley,S Ismail,0,0,,,,,,"",""
+ball,2,7.1,England,SIR Dunkley,NR Sciver,CL Tryon,2,0,,,,,,"",""
+ball,2,7.2,England,SIR Dunkley,NR Sciver,CL Tryon,1,0,,,,,,"",""
+ball,2,7.3,England,NR Sciver,SIR Dunkley,CL Tryon,1,0,,,,,,"",""
+ball,2,7.4,England,SIR Dunkley,NR Sciver,CL Tryon,1,0,,,,,,"",""
+ball,2,7.5,England,NR Sciver,SIR Dunkley,CL Tryon,2,0,,,,,,"",""
+ball,2,7.6,England,NR Sciver,SIR Dunkley,CL Tryon,0,0,,,,,,"",""
+ball,2,8.1,England,SIR Dunkley,NR Sciver,A Khaka,1,0,,,,,,"",""
+ball,2,8.2,England,NR Sciver,SIR Dunkley,A Khaka,1,0,,,,,,"",""
+ball,2,8.3,England,SIR Dunkley,NR Sciver,A Khaka,1,0,,,,,,"",""
+ball,2,8.4,England,NR Sciver,SIR Dunkley,A Khaka,0,0,,,,,,bowled,NR Sciver
+ball,2,8.5,England,HC Knight,SIR Dunkley,A Khaka,0,0,,,,,,"",""
+ball,2,8.6,England,HC Knight,SIR Dunkley,A Khaka,1,0,,,,,,"",""
+ball,2,9.1,England,HC Knight,SIR Dunkley,D Tucker,1,0,,,,,,"",""
+ball,2,9.2,England,SIR Dunkley,HC Knight,D Tucker,0,0,,,,,,"",""
+ball,2,9.3,England,SIR Dunkley,HC Knight,D Tucker,1,0,,,,,,"",""
+ball,2,9.4,England,HC Knight,SIR Dunkley,D Tucker,0,0,,,,,,"",""
+ball,2,9.5,England,HC Knight,SIR Dunkley,D Tucker,1,0,,,,,,"",""
+ball,2,9.6,England,SIR Dunkley,HC Knight,D Tucker,1,0,,,,,,"",""
+ball,2,10.1,England,SIR Dunkley,HC Knight,A Bosch,0,0,,,,,,"",""
+ball,2,10.2,England,SIR Dunkley,HC Knight,A Bosch,0,1,,1,,,,"",""
+ball,2,10.3,England,SIR Dunkley,HC Knight,A Bosch,1,0,,,,,,"",""
+ball,2,10.4,England,HC Knight,SIR Dunkley,A Bosch,4,0,,,,,,"",""
+ball,2,10.5,England,HC Knight,SIR Dunkley,A Bosch,1,0,,,,,,"",""
+ball,2,10.6,England,SIR Dunkley,HC Knight,A Bosch,6,0,,,,,,"",""
+ball,2,10.7,England,SIR Dunkley,HC Knight,A Bosch,0,0,,,,,,caught,SIR Dunkley
+ball,2,11.1,England,AE Jones,HC Knight,D Tucker,0,0,,,,,,"",""
+ball,2,11.2,England,AE Jones,HC Knight,D Tucker,0,0,,,,,,"",""
+ball,2,11.3,England,AE Jones,HC Knight,D Tucker,0,0,,,,,,"",""
+ball,2,11.4,England,AE Jones,HC Knight,D Tucker,1,0,,,,,,"",""
+ball,2,11.5,England,HC Knight,AE Jones,D Tucker,0,0,,,,,,"",""
+ball,2,11.6,England,HC Knight,AE Jones,D Tucker,4,0,,,,,,"",""
+ball,2,12.1,England,AE Jones,HC Knight,A Khaka,1,0,,,,,,"",""
+ball,2,12.2,England,HC Knight,AE Jones,A Khaka,1,0,,,,,,"",""
+ball,2,12.3,England,AE Jones,HC Knight,A Khaka,0,0,,,,,,"",""
+ball,2,12.4,England,AE Jones,HC Knight,A Khaka,0,0,,,,,,"",""
+ball,2,12.5,England,AE Jones,HC Knight,A Khaka,1,0,,,,,,"",""
+ball,2,12.6,England,HC Knight,AE Jones,A Khaka,1,0,,,,,,"",""
+ball,2,13.1,England,HC Knight,AE Jones,CL Tryon,4,0,,,,,,"",""
+ball,2,13.2,England,HC Knight,AE Jones,CL Tryon,0,0,,,,,,"",""
+ball,2,13.3,England,HC Knight,AE Jones,CL Tryon,4,0,,,,,,"",""
+ball,2,13.4,England,HC Knight,AE Jones,CL Tryon,0,0,,,,,,"",""
+ball,2,13.5,England,HC Knight,AE Jones,CL Tryon,0,0,,,,,,"",""
+ball,2,13.6,England,HC Knight,AE Jones,CL Tryon,1,0,,,,,,"",""
+ball,2,14.1,England,HC Knight,AE Jones,S Ismail,1,0,,,,,,"",""
+ball,2,14.2,England,AE Jones,HC Knight,S Ismail,0,0,,,,,,"",""
+ball,2,14.3,England,AE Jones,HC Knight,S Ismail,0,0,,,,,,"",""
+ball,2,14.4,England,AE Jones,HC Knight,S Ismail,4,0,,,,,,"",""
+ball,2,14.5,England,AE Jones,HC Knight,S Ismail,0,0,,,,,,"",""
+ball,2,14.6,England,AE Jones,HC Knight,S Ismail,4,0,,,,,,"",""

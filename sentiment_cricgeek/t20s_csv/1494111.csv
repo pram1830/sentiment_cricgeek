@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,United Arab Emirates
+info,gender,male
+info,season,2025
+info,date,2025/07/27
+info,event,Pearl of Africa T20I Series
+info,match_number,18
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,AR Ramjani
+info,umpire,IO Oyieko
+info,umpire,John Mayeku
+info,reserve_umpire,Charles Kariuki
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_runs,8
+info,player,Uganda,SG Mangela
+info,player,Uganda,R Lutaaya
+info,player,Uganda,R Obuya
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,AR Ramjani
+info,player,Uganda,DM Nakrani
+info,player,Uganda,J Miyaji
+info,player,Uganda,C Kyewuta
+info,player,Uganda,CN Kakuru
+info,player,Uganda,M Musinguzi
+info,player,Uganda,F Nsubuga
+info,player,United Arab Emirates,Muhammad Zohaib
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Ethan D'Souza
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,Saghir Khan
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Muhammad Rohid
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,Ethan D'Souza,31ca7a9c
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,Haider Ali,dd572696
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,M Musinguzi,34712b35
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Muhammad Zohaib,8f75193e
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,Saghir Khan,730d2283
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c
+ball,1,0.1,Uganda,SG Mangela,R Lutaaya,Muhammad Rohid,0,0,,,,,,"",""
+ball,1,0.2,Uganda,SG Mangela,R Lutaaya,Muhammad Rohid,0,1,1,,,,,"",""
+ball,1,0.3,Uganda,SG Mangela,R Lutaaya,Muhammad Rohid,2,0,,,,,,"",""
+ball,1,0.4,Uganda,SG Mangela,R Lutaaya,Muhammad Rohid,0,0,,,,,,"",""
+ball,1,0.5,Uganda,SG Mangela,R Lutaaya,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,0.6,Uganda,R Lutaaya,SG Mangela,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,0.7,Uganda,SG Mangela,R Lutaaya,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,1.1,Uganda,SG Mangela,R Lutaaya,Akif Raja,1,0,,,,,,"",""
+ball,1,1.2,Uganda,R Lutaaya,SG Mangela,Akif Raja,0,0,,,,,,"",""
+ball,1,1.3,Uganda,R Lutaaya,SG Mangela,Akif Raja,4,0,,,,,,"",""
+ball,1,1.4,Uganda,R Lutaaya,SG Mangela,Akif Raja,0,0,,,,,,"",""
+ball,1,1.5,Uganda,R Lutaaya,SG Mangela,Akif Raja,4,0,,,,,,"",""
+ball,1,1.6,Uganda,R Lutaaya,SG Mangela,Akif Raja,3,0,,,,,,"",""
+ball,1,2.1,Uganda,R Lutaaya,SG Mangela,Muhammad Rohid,4,0,,,,,,"",""
+ball,1,2.2,Uganda,R Lutaaya,SG Mangela,Muhammad Rohid,0,0,,,,,,"",""
+ball,1,2.3,Uganda,R Lutaaya,SG Mangela,Muhammad Rohid,0,0,,,,,,"",""
+ball,1,2.4,Uganda,R Lutaaya,SG Mangela,Muhammad Rohid,0,0,,,,,,bowled,R Lutaaya
+ball,1,2.5,Uganda,R Obuya,SG Mangela,Muhammad Rohid,4,0,,,,,,"",""
+ball,1,2.6,Uganda,R Obuya,SG Mangela,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,3.1,Uganda,R Obuya,SG Mangela,Haider Ali,0,0,,,,,,lbw,R Obuya
+ball,1,3.2,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,0,0,,,,,,"",""
+ball,1,3.3,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,0,0,,,,,,"",""
+ball,1,3.4,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,1,0,,,,,,"",""
+ball,1,3.5,Uganda,SG Mangela,Raghav Dhawan,Haider Ali,0,0,,,,,,"",""
+ball,1,3.6,Uganda,SG Mangela,Raghav Dhawan,Haider Ali,0,0,,,,,,"",""
+ball,1,4.1,Uganda,Raghav Dhawan,SG Mangela,Akif Raja,4,0,,,,,,"",""
+ball,1,4.2,Uganda,Raghav Dhawan,SG Mangela,Akif Raja,0,1,,,,1,,"",""
+ball,1,4.3,Uganda,SG Mangela,Raghav Dhawan,Akif Raja,0,0,,,,,,"",""
+ball,1,4.4,Uganda,SG Mangela,Raghav Dhawan,Akif Raja,1,0,,,,,,"",""
+ball,1,4.5,Uganda,Raghav Dhawan,SG Mangela,Akif Raja,0,0,,,,,,"",""
+ball,1,4.6,Uganda,Raghav Dhawan,SG Mangela,Akif Raja,1,0,,,,,,"",""
+ball,1,5.1,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,0,0,,,,,,"",""
+ball,1,5.2,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,2,0,,,,,,"",""
+ball,1,5.3,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,0,0,,,,,,"",""
+ball,1,5.4,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,0,0,,,,,,"",""
+ball,1,5.5,Uganda,Raghav Dhawan,SG Mangela,Haider Ali,1,0,,,,,,"",""
+ball,1,5.6,Uganda,SG Mangela,Raghav Dhawan,Haider Ali,1,0,,,,,,"",""
+ball,1,6.1,Uganda,SG Mangela,Raghav Dhawan,Saghir Khan,1,0,,,,,,"",""
+ball,1,6.2,Uganda,Raghav Dhawan,SG Mangela,Saghir Khan,1,0,,,,,,"",""
+ball,1,6.3,Uganda,SG Mangela,Raghav Dhawan,Saghir Khan,0,0,,,,,,"",""
+ball,1,6.4,Uganda,SG Mangela,Raghav Dhawan,Saghir Khan,1,0,,,,,,"",""
+ball,1,6.5,Uganda,Raghav Dhawan,SG Mangela,Saghir Khan,2,0,,,,,,"",""
+ball,1,6.6,Uganda,Raghav Dhawan,SG Mangela,Saghir Khan,1,0,,,,,,"",""
+ball,1,7.1,Uganda,Raghav Dhawan,SG Mangela,Zuhaib Zubair,2,0,,,,,,"",""
+ball,1,7.2,Uganda,Raghav Dhawan,SG Mangela,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,7.3,Uganda,Raghav Dhawan,SG Mangela,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,7.4,Uganda,SG Mangela,Raghav Dhawan,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,7.5,Uganda,SG Mangela,Raghav Dhawan,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,7.6,Uganda,SG Mangela,Raghav Dhawan,Zuhaib Zubair,0,1,,,,1,,"",""
+ball,1,8.1,Uganda,SG Mangela,Raghav Dhawan,Saghir Khan,1,0,,,,,,"",""
+ball,1,8.2,Uganda,Raghav Dhawan,SG Mangela,Saghir Khan,1,0,,,,,,"",""
+ball,1,8.3,Uganda,SG Mangela,Raghav Dhawan,Saghir Khan,0,0,,,,,,bowled,SG Mangela
+ball,1,8.4,Uganda,AR Ramjani,Raghav Dhawan,Saghir Khan,0,0,,,,,,"",""
+ball,1,8.5,Uganda,AR Ramjani,Raghav Dhawan,Saghir Khan,1,0,,,,,,"",""
+ball,1,8.6,Uganda,Raghav Dhawan,AR Ramjani,Saghir Khan,1,0,,,,,,"",""
+ball,1,9.1,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,9.2,Uganda,AR Ramjani,Raghav Dhawan,Zuhaib Zubair,4,0,,,,,,"",""
+ball,1,9.3,Uganda,AR Ramjani,Raghav Dhawan,Zuhaib Zubair,3,0,,,,,,"",""
+ball,1,9.4,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,9.5,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,4,0,,,,,,"",""
+ball,1,9.6,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,10.1,Uganda,Raghav Dhawan,AR Ramjani,Akif Raja,1,0,,,,,,"",""
+ball,1,10.2,Uganda,AR Ramjani,Raghav Dhawan,Akif Raja,0,0,,,,,,"",""
+ball,1,10.3,Uganda,AR Ramjani,Raghav Dhawan,Akif Raja,0,0,,,,,,"",""
+ball,1,10.4,Uganda,AR Ramjani,Raghav Dhawan,Akif Raja,2,0,,,,,,"",""
+ball,1,10.5,Uganda,AR Ramjani,Raghav Dhawan,Akif Raja,4,0,,,,,,"",""
+ball,1,10.6,Uganda,AR Ramjani,Raghav Dhawan,Akif Raja,1,0,,,,,,"",""
+ball,1,11.1,Uganda,AR Ramjani,Raghav Dhawan,Haider Ali,0,0,,,,,,"",""
+ball,1,11.2,Uganda,AR Ramjani,Raghav Dhawan,Haider Ali,2,0,,,,,,"",""
+ball,1,11.3,Uganda,AR Ramjani,Raghav Dhawan,Haider Ali,4,0,,,,,,"",""
+ball,1,11.4,Uganda,AR Ramjani,Raghav Dhawan,Haider Ali,1,0,,,,,,"",""
+ball,1,11.5,Uganda,Raghav Dhawan,AR Ramjani,Haider Ali,1,0,,,,,,"",""
+ball,1,11.6,Uganda,AR Ramjani,Raghav Dhawan,Haider Ali,1,0,,,,,,"",""
+ball,1,12.1,Uganda,AR Ramjani,Raghav Dhawan,Ethan D'Souza,1,0,,,,,,"",""
+ball,1,12.2,Uganda,Raghav Dhawan,AR Ramjani,Ethan D'Souza,1,0,,,,,,"",""
+ball,1,12.3,Uganda,AR Ramjani,Raghav Dhawan,Ethan D'Souza,1,0,,,,,,"",""
+ball,1,12.4,Uganda,Raghav Dhawan,AR Ramjani,Ethan D'Souza,1,0,,,,,,"",""
+ball,1,12.5,Uganda,AR Ramjani,Raghav Dhawan,Ethan D'Souza,4,0,,,,,,"",""
+ball,1,12.6,Uganda,AR Ramjani,Raghav Dhawan,Ethan D'Souza,0,0,,,,,,"",""
+ball,1,13.1,Uganda,Raghav Dhawan,AR Ramjani,Muhammad Rohid,2,0,,,,,,"",""
+ball,1,13.2,Uganda,Raghav Dhawan,AR Ramjani,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,13.3,Uganda,AR Ramjani,Raghav Dhawan,Muhammad Rohid,4,0,,,,,,"",""
+ball,1,13.4,Uganda,AR Ramjani,Raghav Dhawan,Muhammad Rohid,4,0,,,,,,"",""
+ball,1,13.5,Uganda,AR Ramjani,Raghav Dhawan,Muhammad Rohid,4,0,,,,,,"",""
+ball,1,13.6,Uganda,AR Ramjani,Raghav Dhawan,Muhammad Rohid,4,0,,,,,,"",""
+ball,1,14.1,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,2,0,,,,,,"",""
+ball,1,14.2,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,2,0,,,,,,"",""
+ball,1,14.3,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,1,0,,,,,,"",""
+ball,1,14.4,Uganda,AR Ramjani,Raghav Dhawan,Zuhaib Zubair,0,0,,,,,,"",""
+ball,1,14.5,Uganda,AR Ramjani,Raghav Dhawan,Zuhaib Zubair,0,1,1,,,,,"",""
+ball,1,14.6,Uganda,AR Ramjani,Raghav Dhawan,Zuhaib Zubair,0,1,,,1,,,"",""
+ball,1,14.7,Uganda,Raghav Dhawan,AR Ramjani,Zuhaib Zubair,1,1,,1,,,,"",""
+ball,1,14.8,Uganda,AR Ramjani,Raghav Dhawan,Zuhaib Zubair,3,0,,,,,,"",""
+ball,1,15.1,Uganda,AR Ramjani,Raghav Dhawan,Saghir Khan,0,0,,,,,,"",""
+ball,1,15.2,Uganda,AR Ramjani,Raghav Dhawan,Saghir Khan,1,0,,,,,,"",""
+ball,1,15.3,Uganda,Raghav Dhawan,AR Ramjani,Saghir Khan,2,0,,,,,,"",""
+ball,1,15.4,Uganda,Raghav Dhawan,AR Ramjani,Saghir Khan,1,0,,,,,,"",""
+ball,1,15.5,Uganda,AR Ramjani,Raghav Dhawan,Saghir Khan,1,0,,,,,,"",""
+ball,1,15.6,Uganda,Raghav Dhawan,AR Ramjani,Saghir Khan,0,0,,,,,,"",""
+ball,1,16.1,Uganda,AR Ramjani,Raghav Dhawan,Haider Ali,6,0,,,,,,"",""
+ball,1,16.2,Uganda,AR Ramjani,Raghav Dhawan,Haider Ali,1,0,,,,,,"",""
+ball,1,16.3,Uganda,Raghav Dhawan,AR Ramjani,Haider Ali,6,0,,,,,,"",""
+ball,1,16.4,Uganda,Raghav Dhawan,AR Ramjani,Haider Ali,6,0,,,,,,"",""
+ball,1,16.5,Uganda,Raghav Dhawan,AR Ramjani,Haider Ali,4,0,,,,,,"",""
+ball,1,16.6,Uganda,Raghav Dhawan,AR Ramjani,Haider Ali,0,0,,,,,,caught,Raghav Dhawan
+ball,1,17.1,Uganda,AR Ramjani,DM Nakrani,Saghir Khan,1,0,,,,,,"",""
+ball,1,17.2,Uganda,DM Nakrani,AR Ramjani,Saghir Khan,2,0,,,,,,"",""
+ball,1,17.3,Uganda,DM Nakrani,AR Ramjani,Saghir Khan,1,0,,,,,,"",""
+ball,1,17.4,Uganda,AR Ramjani,DM Nakrani,Saghir Khan,2,0,,,,,,"",""
+ball,1,17.5,Uganda,AR Ramjani,DM Nakrani,Saghir Khan,1,0,,,,,,"",""
+ball,1,17.6,Uganda,DM Nakrani,AR Ramjani,Saghir Khan,2,0,,,,,,"",""
+ball,1,18.1,Uganda,AR Ramjani,DM Nakrani,Akif Raja,0,0,,,,,,lbw,AR Ramjani
+ball,1,18.2,Uganda,J Miyaji,DM Nakrani,Akif Raja,1,0,,,,,,"",""
+ball,1,18.3,Uganda,DM Nakrani,J Miyaji,Akif Raja,0,0,,,,,,caught,DM Nakrani
+ball,1,18.4,Uganda,C Kyewuta,J Miyaji,Akif Raja,1,0,,,,,,"",""
+ball,1,18.5,Uganda,J Miyaji,C Kyewuta,Akif Raja,2,0,,,,,,"",""
+ball,1,18.6,Uganda,J Miyaji,C Kyewuta,Akif Raja,1,0,,,,,,"",""
+ball,1,19.1,Uganda,J Miyaji,C Kyewuta,Muhammad Rohid,0,1,1,,,,,"",""
+ball,1,19.2,Uganda,J Miyaji,C Kyewuta,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,19.3,Uganda,C Kyewuta,J Miyaji,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,19.4,Uganda,J Miyaji,C Kyewuta,Muhammad Rohid,1,0,,,,,,"",""
+ball,1,19.5,Uganda,C Kyewuta,J Miyaji,Muhammad Rohid,2,0,,,,,,"",""
+ball,1,19.6,Uganda,C Kyewuta,J Miyaji,Muhammad Rohid,0,0,,,,,,run out,J Miyaji
+ball,1,19.7,Uganda,CN Kakuru,C Kyewuta,Muhammad Rohid,0,0,,,,,,"",""
+ball,2,0.1,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,J Miyaji,0,0,,,,,,"",""
+ball,2,0.2,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,J Miyaji,1,0,,,,,,"",""
+ball,2,0.3,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,J Miyaji,1,0,,,,,,"",""
+ball,2,0.4,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,J Miyaji,0,0,,,,,,"",""
+ball,2,0.5,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,J Miyaji,0,0,,,,,,"",""
+ball,2,0.6,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,J Miyaji,0,0,,,,,,"",""
+ball,2,1.1,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,F Nsubuga,6,0,,,,,,"",""
+ball,2,1.2,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,F Nsubuga,4,0,,,,,,"",""
+ball,2,1.3,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,F Nsubuga,1,0,,,,,,"",""
+ball,2,1.4,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,F Nsubuga,0,0,,,,,,"",""
+ball,2,1.5,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,F Nsubuga,4,0,,,,,,"",""
+ball,2,1.6,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,F Nsubuga,0,0,,,,,,"",""
+ball,2,2.1,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,J Miyaji,3,0,,,,,,"",""
+ball,2,2.2,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,J Miyaji,0,1,,,,1,,"",""
+ball,2,2.3,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,J Miyaji,6,0,,,,,,"",""
+ball,2,2.4,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,J Miyaji,1,0,,,,,,"",""
+ball,2,2.5,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,J Miyaji,1,0,,,,,,"",""
+ball,2,2.6,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,J Miyaji,0,0,,,,,,"",""
+ball,2,3.1,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,C Kyewuta,4,0,,,,,,"",""
+ball,2,3.2,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,C Kyewuta,0,0,,,,,,"",""
+ball,2,3.3,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,C Kyewuta,0,0,,,,,,"",""
+ball,2,3.4,United Arab Emirates,Muhammad Zohaib,Waseem Muhammad,C Kyewuta,1,0,,,,,,"",""
+ball,2,3.5,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,C Kyewuta,2,0,,,,,,"",""
+ball,2,3.6,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,C Kyewuta,1,0,,,,,,"",""
+ball,2,4.1,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,AR Ramjani,0,0,,,,,,"",""
+ball,2,4.2,United Arab Emirates,Waseem Muhammad,Muhammad Zohaib,AR Ramjani,0,0,,,,,,caught,Waseem Muhammad
+ball,2,4.3,United Arab Emirates,A Sharafu,Muhammad Zohaib,AR Ramjani,0,0,,,,,,"",""
+ball,2,4.4,United Arab Emirates,A Sharafu,Muhammad Zohaib,AR Ramjani,2,0,,,,,,"",""
+ball,2,4.5,United Arab Emirates,A Sharafu,Muhammad Zohaib,AR Ramjani,1,0,,,,,,"",""
+ball,2,4.6,United Arab Emirates,Muhammad Zohaib,A Sharafu,AR Ramjani,4,0,,,,,,"",""
+ball,2,5.1,United Arab Emirates,A Sharafu,Muhammad Zohaib,C Kyewuta,0,0,,,,,,bowled,A Sharafu
+ball,2,5.2,United Arab Emirates,R Chopra,Muhammad Zohaib,C Kyewuta,0,0,,,,,,"",""
+ball,2,5.3,United Arab Emirates,R Chopra,Muhammad Zohaib,C Kyewuta,0,0,,,,,,"",""
+ball,2,5.4,United Arab Emirates,R Chopra,Muhammad Zohaib,C Kyewuta,1,0,,,,,,"",""
+ball,2,5.5,United Arab Emirates,Muhammad Zohaib,R Chopra,C Kyewuta,2,0,,,,,,"",""
+ball,2,5.6,United Arab Emirates,Muhammad Zohaib,R Chopra,C Kyewuta,2,0,,,,,,"",""
+ball,2,6.1,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,1,0,,,,,,"",""
+ball,2,6.2,United Arab Emirates,Muhammad Zohaib,R Chopra,AR Ramjani,1,0,,,,,,"",""
+ball,2,6.3,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,2,0,,,,,,"",""
+ball,2,6.4,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,0,0,,,,,,"",""
+ball,2,6.5,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,0,0,,,,,,"",""
+ball,2,6.6,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,1,0,,,,,,"",""
+ball,2,7.1,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,1,0,,,,,,"",""
+ball,2,7.2,United Arab Emirates,Muhammad Zohaib,R Chopra,DM Nakrani,1,0,,,,,,"",""
+ball,2,7.3,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,4,0,,,,,,"",""
+ball,2,7.4,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,0,1,1,,,,,"",""
+ball,2,7.5,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,0,0,,,,,,"",""
+ball,2,7.6,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,4,0,,,,,,"",""
+ball,2,7.7,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,0,0,,,,,,"",""
+ball,2,8.1,United Arab Emirates,Muhammad Zohaib,R Chopra,AR Ramjani,4,0,,,,,,"",""
+ball,2,8.2,United Arab Emirates,Muhammad Zohaib,R Chopra,AR Ramjani,0,0,,,,,,"",""
+ball,2,8.3,United Arab Emirates,Muhammad Zohaib,R Chopra,AR Ramjani,1,0,,,,,,"",""
+ball,2,8.4,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,4,0,,,,,,"",""
+ball,2,8.5,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,2,0,,,,,,"",""
+ball,2,8.6,United Arab Emirates,R Chopra,Muhammad Zohaib,AR Ramjani,0,0,,,,,,"",""
+ball,2,9.1,United Arab Emirates,Muhammad Zohaib,R Chopra,DM Nakrani,1,0,,,,,,"",""
+ball,2,9.2,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,1,0,,,,,,"",""
+ball,2,9.3,United Arab Emirates,Muhammad Zohaib,R Chopra,DM Nakrani,0,0,,,,,,"",""
+ball,2,9.4,United Arab Emirates,Muhammad Zohaib,R Chopra,DM Nakrani,1,0,,,,,,"",""
+ball,2,9.5,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,0,0,,,,,,"",""
+ball,2,9.6,United Arab Emirates,R Chopra,Muhammad Zohaib,DM Nakrani,1,0,,,,,,"",""
+ball,2,10.1,United Arab Emirates,R Chopra,Muhammad Zohaib,M Musinguzi,0,0,,,,,,run out,R Chopra
+ball,2,10.2,United Arab Emirates,Muhammad Zohaib,Asif Khan,M Musinguzi,0,0,,,,,,"",""
+ball,2,10.3,United Arab Emirates,Muhammad Zohaib,Asif Khan,M Musinguzi,2,0,,,,,,"",""
+ball,2,10.4,United Arab Emirates,Muhammad Zohaib,Asif Khan,M Musinguzi,0,0,,,,,,caught,Muhammad Zohaib
+ball,2,10.5,United Arab Emirates,Ethan D'Souza,Asif Khan,M Musinguzi,1,0,,,,,,"",""
+ball,2,10.6,United Arab Emirates,Asif Khan,Ethan D'Souza,M Musinguzi,1,0,,,,,,"",""
+ball,2,11.1,United Arab Emirates,Asif Khan,Ethan D'Souza,DM Nakrani,1,0,,,,,,"",""
+ball,2,11.2,United Arab Emirates,Ethan D'Souza,Asif Khan,DM Nakrani,1,0,,,,,,"",""
+ball,2,11.3,United Arab Emirates,Asif Khan,Ethan D'Souza,DM Nakrani,0,0,,,,,,"",""
+ball,2,11.4,United Arab Emirates,Asif Khan,Ethan D'Souza,DM Nakrani,1,0,,,,,,"",""
+ball,2,11.5,United Arab Emirates,Ethan D'Souza,Asif Khan,DM Nakrani,0,1,,,1,,,"",""
+ball,2,11.6,United Arab Emirates,Asif Khan,Ethan D'Souza,DM Nakrani,2,0,,,,,,"",""
+ball,2,12.1,United Arab Emirates,Ethan D'Souza,Asif Khan,M Musinguzi,4,0,,,,,,"",""
+ball,2,12.2,United Arab Emirates,Ethan D'Souza,Asif Khan,M Musinguzi,0,0,,,,,,"",""
+ball,2,12.3,United Arab Emirates,Ethan D'Souza,Asif Khan,M Musinguzi,4,0,,,,,,"",""
+ball,2,12.4,United Arab Emirates,Ethan D'Souza,Asif Khan,M Musinguzi,1,0,,,,,,"",""
+ball,2,12.5,United Arab Emirates,Asif Khan,Ethan D'Souza,M Musinguzi,1,0,,,,,,"",""
+ball,2,12.6,United Arab Emirates,Ethan D'Souza,Asif Khan,M Musinguzi,1,0,,,,,,"",""
+ball,2,13.1,United Arab Emirates,Ethan D'Souza,Asif Khan,F Nsubuga,0,1,1,,,,,"",""
+ball,2,13.2,United Arab Emirates,Ethan D'Souza,Asif Khan,F Nsubuga,1,0,,,,,,"",""
+ball,2,13.3,United Arab Emirates,Asif Khan,Ethan D'Souza,F Nsubuga,0,0,,,,,,caught,Asif Khan
+ball,2,13.4,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,F Nsubuga,0,0,,,,,,"",""
+ball,2,13.5,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,F Nsubuga,0,0,,,,,,"",""
+ball,2,13.6,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,F Nsubuga,0,0,,,,,,"",""
+ball,2,13.7,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,F Nsubuga,1,0,,,,,,"",""
+ball,2,14.1,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,AR Ramjani,2,0,,,,,,"",""
+ball,2,14.2,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,AR Ramjani,0,0,,,,,,"",""
+ball,2,14.3,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,AR Ramjani,1,0,,,,,,"",""
+ball,2,14.4,United Arab Emirates,Ethan D'Souza,Zuhaib Zubair,AR Ramjani,2,0,,,,,,"",""
+ball,2,14.5,United Arab Emirates,Ethan D'Souza,Zuhaib Zubair,AR Ramjani,4,0,,,,,,"",""
+ball,2,14.6,United Arab Emirates,Ethan D'Souza,Zuhaib Zubair,AR Ramjani,1,0,,,,,,"",""
+ball,2,15.1,United Arab Emirates,Ethan D'Souza,Zuhaib Zubair,F Nsubuga,6,0,,,,,,"",""
+ball,2,15.2,United Arab Emirates,Ethan D'Souza,Zuhaib Zubair,F Nsubuga,1,0,,,,,,"",""
+ball,2,15.3,United Arab Emirates,Zuhaib Zubair,Ethan D'Souza,F Nsubuga,0,0,,,,,,bowled,Zuhaib Zubair
+ball,2,15.4,United Arab Emirates,Saghir Khan,Ethan D'Souza,F Nsubuga,1,0,,,,,,"",""
+ball,2,15.5,United Arab Emirates,Ethan D'Souza,Saghir Khan,F Nsubuga,4,0,,,,,,"",""
+ball,2,15.6,United Arab Emirates,Ethan D'Souza,Saghir Khan,F Nsubuga,1,0,,,,,,"",""
+ball,2,16.1,United Arab Emirates,Ethan D'Souza,Saghir Khan,DM Nakrani,0,0,,,,,,caught,Ethan D'Souza
+ball,2,16.2,United Arab Emirates,Akif Raja,Saghir Khan,DM Nakrani,0,0,,,,,,"",""
+ball,2,16.3,United Arab Emirates,Akif Raja,Saghir Khan,DM Nakrani,1,0,,,,,,"",""
+ball,2,16.4,United Arab Emirates,Saghir Khan,Akif Raja,DM Nakrani,1,0,,,,,,"",""
+ball,2,16.5,United Arab Emirates,Akif Raja,Saghir Khan,DM Nakrani,0,0,,,,,,bowled,Akif Raja
+ball,2,16.6,United Arab Emirates,Haider Ali,Saghir Khan,DM Nakrani,2,0,,,,,,"",""
+ball,2,17.1,United Arab Emirates,Saghir Khan,Haider Ali,C Kyewuta,6,0,,,,,,"",""
+ball,2,17.2,United Arab Emirates,Saghir Khan,Haider Ali,C Kyewuta,0,0,,,,,,"",""
+ball,2,17.3,United Arab Emirates,Saghir Khan,Haider Ali,C Kyewuta,1,0,,,,,,"",""
+ball,2,17.4,United Arab Emirates,Haider Ali,Saghir Khan,C Kyewuta,1,0,,,,,,"",""
+ball,2,17.5,United Arab Emirates,Saghir Khan,Haider Ali,C Kyewuta,1,0,,,,,,"",""
+ball,2,17.6,United Arab Emirates,Haider Ali,Saghir Khan,C Kyewuta,1,0,,,,,,"",""
+ball,2,18.1,United Arab Emirates,Haider Ali,Saghir Khan,J Miyaji,0,0,,,,,,"",""
+ball,2,18.2,United Arab Emirates,Haider Ali,Saghir Khan,J Miyaji,1,0,,,,,,"",""
+ball,2,18.3,United Arab Emirates,Saghir Khan,Haider Ali,J Miyaji,4,0,,,,,,"",""
+ball,2,18.4,United Arab Emirates,Saghir Khan,Haider Ali,J Miyaji,4,0,,,,,,"",""
+ball,2,18.5,United Arab Emirates,Saghir Khan,Haider Ali,J Miyaji,0,0,,,,,,"",""
+ball,2,18.6,United Arab Emirates,Saghir Khan,Haider Ali,J Miyaji,0,0,,,,,,"",""
+ball,2,19.1,United Arab Emirates,Haider Ali,Saghir Khan,C Kyewuta,0,1,1,,,,,run out,Haider Ali
+ball,2,19.2,United Arab Emirates,Saghir Khan,Muhammad Rohid,C Kyewuta,0,0,,,,,,"",""
+ball,2,19.3,United Arab Emirates,Saghir Khan,Muhammad Rohid,C Kyewuta,0,0,,,,,,"",""
+ball,2,19.4,United Arab Emirates,Saghir Khan,Muhammad Rohid,C Kyewuta,0,1,1,,,,,"",""
+ball,2,19.5,United Arab Emirates,Saghir Khan,Muhammad Rohid,C Kyewuta,0,0,,,,,,"",""
+ball,2,19.6,United Arab Emirates,Saghir Khan,Muhammad Rohid,C Kyewuta,4,0,,,,,,"",""
+ball,2,19.7,United Arab Emirates,Saghir Khan,Muhammad Rohid,C Kyewuta,0,0,,,,,,"",""
+ball,2,19.8,United Arab Emirates,Saghir Khan,Muhammad Rohid,C Kyewuta,6,0,,,,,,"",""

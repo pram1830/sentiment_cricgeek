@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Switzerland
+info,gender,male
+info,season,2025
+info,date,2025/06/01
+info,event,Switzerland tour of Austria
+info,match_number,4
+info,venue,"Velden Cricket Ground, Latschach"
+info,city,Latschach
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,Karanbir Singh
+info,umpire,Ashtiaq Shah
+info,umpire,Pawan Kohli
+info,winner,Austria
+info,winner_runs,17
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Mansoor Safi
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Sahel Zadran
+info,player,Austria,Amar Naeem
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,Umair Tariq
+info,player,Austria,H Khogiyani
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Baseer Khan
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,H Deshan
+info,player,Switzerland,I Stewart
+info,player,Switzerland,D Johnson
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,M Stanikzai
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,H Elder
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Ashtiaq Shah,9511e09f
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,D Johnson,945981e5
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,H Deshan,cdc9bbec
+info,registry,people,H Elder,637c65f1
+info,registry,people,H Khogiyani,b85c0597
+info,registry,people,I Stewart,568fe66e
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,J Ghelzai,b38a7890
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,M Stanikzai,ad8d5827
+info,registry,people,Mansoor Safi,86d7a2d2
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Pawan Kohli,b918fe6d
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Waqar Zalmai,74571ec4
+ball,1,0.1,Austria,Karanbir Singh,Bilal Zalmai,Ali Nayyer,0,0,,,,,,"",""
+ball,1,0.2,Austria,Karanbir Singh,Bilal Zalmai,Ali Nayyer,0,0,,,,,,"",""
+ball,1,0.3,Austria,Karanbir Singh,Bilal Zalmai,Ali Nayyer,4,0,,,,,,"",""
+ball,1,0.4,Austria,Karanbir Singh,Bilal Zalmai,Ali Nayyer,1,0,,,,,,"",""
+ball,1,0.5,Austria,Bilal Zalmai,Karanbir Singh,Ali Nayyer,0,0,,,,,,bowled,Bilal Zalmai
+ball,1,0.6,Austria,Mansoor Safi,Karanbir Singh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,1.1,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,1.2,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,1.3,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,1.4,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,1,1,,,,,"",""
+ball,1,1.5,Austria,Karanbir Singh,Mansoor Safi,H Elder,6,0,,,,,,"",""
+ball,1,1.6,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,1,1,,,,,"",""
+ball,1,1.7,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,1.8,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,2.1,Austria,Mansoor Safi,Karanbir Singh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,2.2,Austria,Mansoor Safi,Karanbir Singh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,2.3,Austria,Mansoor Safi,Karanbir Singh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,2.4,Austria,Mansoor Safi,Karanbir Singh,Ali Nayyer,2,0,,,,,,"",""
+ball,1,2.5,Austria,Mansoor Safi,Karanbir Singh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,2.6,Austria,Karanbir Singh,Mansoor Safi,Ali Nayyer,6,0,,,,,,"",""
+ball,1,3.1,Austria,Mansoor Safi,Karanbir Singh,H Elder,0,1,1,,,,,"",""
+ball,1,3.2,Austria,Mansoor Safi,Karanbir Singh,H Elder,1,0,,,,,,"",""
+ball,1,3.3,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,3.4,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,3.5,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,3.6,Austria,Karanbir Singh,Mansoor Safi,H Elder,1,0,,,,,,"",""
+ball,1,3.7,Austria,Mansoor Safi,Karanbir Singh,H Elder,0,0,,,,,,"",""
+ball,1,4.1,Austria,Karanbir Singh,Mansoor Safi,D Johnson,0,0,,,,,,"",""
+ball,1,4.2,Austria,Karanbir Singh,Mansoor Safi,D Johnson,2,0,,,,,,"",""
+ball,1,4.3,Austria,Karanbir Singh,Mansoor Safi,D Johnson,0,0,,,,,,"",""
+ball,1,4.4,Austria,Karanbir Singh,Mansoor Safi,D Johnson,1,0,,,,,,"",""
+ball,1,4.5,Austria,Mansoor Safi,Karanbir Singh,D Johnson,0,0,,,,,,"",""
+ball,1,4.6,Austria,Mansoor Safi,Karanbir Singh,D Johnson,4,0,,,,,,"",""
+ball,1,5.1,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,1,,,,1,,"",""
+ball,1,5.2,Austria,Mansoor Safi,Karanbir Singh,H Elder,1,0,,,,,,"",""
+ball,1,5.3,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,5.4,Austria,Karanbir Singh,Mansoor Safi,H Elder,2,0,,,,,,"",""
+ball,1,5.5,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,0,,,,,,"",""
+ball,1,5.6,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,1,,1,,,,"",""
+ball,1,5.7,Austria,Karanbir Singh,Mansoor Safi,H Elder,0,1,1,,,,,"",""
+ball,1,5.8,Austria,Karanbir Singh,Mansoor Safi,H Elder,1,0,,,,,,"",""
+ball,1,6.1,Austria,Karanbir Singh,Mansoor Safi,D Johnson,1,0,,,,,,"",""
+ball,1,6.2,Austria,Mansoor Safi,Karanbir Singh,D Johnson,0,0,,,,,,"",""
+ball,1,6.3,Austria,Mansoor Safi,Karanbir Singh,D Johnson,0,0,,,,,,"",""
+ball,1,6.4,Austria,Mansoor Safi,Karanbir Singh,D Johnson,4,0,,,,,,"",""
+ball,1,6.5,Austria,Mansoor Safi,Karanbir Singh,D Johnson,0,0,,,,,,"",""
+ball,1,6.6,Austria,Mansoor Safi,Karanbir Singh,D Johnson,2,0,,,,,,"",""
+ball,1,7.1,Austria,Karanbir Singh,Mansoor Safi,I Stewart,4,0,,,,,,"",""
+ball,1,7.2,Austria,Karanbir Singh,Mansoor Safi,I Stewart,6,0,,,,,,"",""
+ball,1,7.3,Austria,Karanbir Singh,Mansoor Safi,I Stewart,0,0,,,,,,"",""
+ball,1,7.4,Austria,Karanbir Singh,Mansoor Safi,I Stewart,6,0,,,,,,"",""
+ball,1,7.5,Austria,Karanbir Singh,Mansoor Safi,I Stewart,0,0,,,,,,"",""
+ball,1,7.6,Austria,Karanbir Singh,Mansoor Safi,I Stewart,6,0,,,,,,"",""
+ball,1,8.1,Austria,Mansoor Safi,Karanbir Singh,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,1,8.2,Austria,Karanbir Singh,Mansoor Safi,NK Aneesh Kumar,4,0,,,,,,"",""
+ball,1,8.3,Austria,Karanbir Singh,Mansoor Safi,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,1,8.4,Austria,Karanbir Singh,Mansoor Safi,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,1,8.5,Austria,Mansoor Safi,Karanbir Singh,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,1,8.6,Austria,Mansoor Safi,Karanbir Singh,NK Aneesh Kumar,1,0,,,,,,retired hurt,Mansoor Safi
+ball,1,9.1,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,2,0,,,,,,"",""
+ball,1,9.2,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,0,0,,,,,,"",""
+ball,1,9.3,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,1,0,,,,,,"",""
+ball,1,9.4,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,4,0,,,,,,"",""
+ball,1,9.5,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,1,0,,,,,,"",""
+ball,1,9.6,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,1,0,,,,,,"",""
+ball,1,10.1,Austria,Aqib Iqbal,Karanbir Singh,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,1,10.2,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,1,10.3,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,1,10.4,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,1,10.5,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,6,0,,,,,,"",""
+ball,1,10.6,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,1,11.1,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,1,0,,,,,,"",""
+ball,1,11.2,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,11.3,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,11.4,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,11.5,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,1,0,,,,,,"",""
+ball,1,11.6,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,0,0,,,,,,"",""
+ball,1,12.1,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,6,0,,,,,,"",""
+ball,1,12.2,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,1,12.3,Austria,Aqib Iqbal,Karanbir Singh,NK Aneesh Kumar,1,0,,,,,,"",""
+ball,1,12.4,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,0,1,1,,,,,"",""
+ball,1,12.5,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,6,0,,,,,,"",""
+ball,1,12.6,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,0,0,,,,,,"",""
+ball,1,12.7,Austria,Karanbir Singh,Aqib Iqbal,NK Aneesh Kumar,6,0,,,,,,"",""
+ball,1,13.1,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,1,0,,,,,,"",""
+ball,1,13.2,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,1,1,,,,,"",""
+ball,1,13.3,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,1,1,,,,,"",""
+ball,1,13.4,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,13.5,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,13.6,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,13.7,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,6,0,,,,,,"",""
+ball,1,13.8,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,1,0,,,,,,"",""
+ball,1,14.1,Austria,Karanbir Singh,Aqib Iqbal,Ali Nayyer,1,0,,,,,,"",""
+ball,1,14.2,Austria,Aqib Iqbal,Karanbir Singh,Ali Nayyer,0,0,,,,,,"",""
+ball,1,14.3,Austria,Aqib Iqbal,Karanbir Singh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,14.4,Austria,Karanbir Singh,Aqib Iqbal,Ali Nayyer,4,0,,,,,,"",""
+ball,1,14.5,Austria,Karanbir Singh,Aqib Iqbal,Ali Nayyer,1,0,,,,,,"",""
+ball,1,14.6,Austria,Aqib Iqbal,Karanbir Singh,Ali Nayyer,2,0,,,,,,"",""
+ball,1,15.1,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,6,0,,,,,,"",""
+ball,1,15.2,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,15.3,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,4,0,,,,,,"",""
+ball,1,15.4,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,0,0,,,,,,"",""
+ball,1,15.5,Austria,Karanbir Singh,Aqib Iqbal,M Stanikzai,1,0,,,,,,"",""
+ball,1,15.6,Austria,Aqib Iqbal,Karanbir Singh,M Stanikzai,1,0,,,,,,"",""
+ball,1,16.1,Austria,Aqib Iqbal,Karanbir Singh,H Deshan,3,0,,,,,,"",""
+ball,1,16.2,Austria,Karanbir Singh,Aqib Iqbal,H Deshan,1,0,,,,,,"",""
+ball,1,16.3,Austria,Aqib Iqbal,Karanbir Singh,H Deshan,4,0,,,,,,"",""
+ball,1,16.4,Austria,Aqib Iqbal,Karanbir Singh,H Deshan,2,0,,,,,,"",""
+ball,1,16.5,Austria,Aqib Iqbal,Karanbir Singh,H Deshan,4,0,,,,,,"",""
+ball,1,16.6,Austria,Aqib Iqbal,Karanbir Singh,H Deshan,1,0,,,,,,"",""
+ball,1,17.1,Austria,Aqib Iqbal,Karanbir Singh,D Johnson,0,0,,,,,,"",""
+ball,1,17.2,Austria,Aqib Iqbal,Karanbir Singh,D Johnson,4,0,,,,,,"",""
+ball,1,17.3,Austria,Aqib Iqbal,Karanbir Singh,D Johnson,1,0,,,,,,"",""
+ball,1,17.4,Austria,Karanbir Singh,Aqib Iqbal,D Johnson,1,0,,,,,,"",""
+ball,1,17.5,Austria,Aqib Iqbal,Karanbir Singh,D Johnson,4,0,,,,,,"",""
+ball,1,17.6,Austria,Aqib Iqbal,Karanbir Singh,D Johnson,6,0,,,,,,"",""
+ball,1,18.1,Austria,Karanbir Singh,Aqib Iqbal,Ali Nayyer,1,0,,,,,,"",""
+ball,1,18.2,Austria,Aqib Iqbal,Karanbir Singh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,18.3,Austria,Karanbir Singh,Aqib Iqbal,Ali Nayyer,4,0,,,,,,"",""
+ball,1,18.4,Austria,Karanbir Singh,Aqib Iqbal,Ali Nayyer,0,0,,,,,,"",""
+ball,1,18.5,Austria,Karanbir Singh,Aqib Iqbal,Ali Nayyer,1,0,,,,,,"",""
+ball,1,18.6,Austria,Aqib Iqbal,Karanbir Singh,Ali Nayyer,1,0,,,,,,"",""
+ball,1,19.1,Austria,Aqib Iqbal,Karanbir Singh,D Johnson,0,0,,,,,,"",""
+ball,1,19.2,Austria,Aqib Iqbal,Karanbir Singh,D Johnson,0,0,,,,,,caught,Aqib Iqbal
+ball,1,19.3,Austria,Sahel Zadran,Karanbir Singh,D Johnson,0,0,,,,,,run out,Karanbir Singh
+ball,1,19.4,Austria,Amar Naeem,Sahel Zadran,D Johnson,0,1,1,,,,,"",""
+ball,1,19.5,Austria,Amar Naeem,Sahel Zadran,D Johnson,1,0,,,,,,"",""
+ball,1,19.6,Austria,Sahel Zadran,Amar Naeem,D Johnson,0,0,,,,,,"",""
+ball,1,19.7,Austria,Sahel Zadran,Amar Naeem,D Johnson,4,0,,,,,,"",""
+ball,2,0.1,Switzerland,Faheem Nazir,Idrees Ul Haque,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,0.2,Switzerland,Faheem Nazir,Idrees Ul Haque,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,0.3,Switzerland,Idrees Ul Haque,Faheem Nazir,Aqib Iqbal,2,0,,,,,,"",""
+ball,2,0.4,Switzerland,Idrees Ul Haque,Faheem Nazir,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,0.5,Switzerland,Idrees Ul Haque,Faheem Nazir,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,0.6,Switzerland,Idrees Ul Haque,Faheem Nazir,Aqib Iqbal,0,0,,,,,,caught,Idrees Ul Haque
+ball,2,1.1,Switzerland,Faheem Nazir,Ahmed Hassan,Waqar Zalmai,1,0,,,,,,"",""
+ball,2,1.2,Switzerland,Ahmed Hassan,Faheem Nazir,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,1.3,Switzerland,Ahmed Hassan,Faheem Nazir,Waqar Zalmai,0,4,,,,4,,"",""
+ball,2,1.4,Switzerland,Ahmed Hassan,Faheem Nazir,Waqar Zalmai,1,0,,,,,,"",""
+ball,2,1.5,Switzerland,Faheem Nazir,Ahmed Hassan,Waqar Zalmai,4,0,,,,,,"",""
+ball,2,1.6,Switzerland,Faheem Nazir,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,caught,Faheem Nazir
+ball,2,2.1,Switzerland,Ahmed Hassan,Arjun Vinod,Aqib Iqbal,6,0,,,,,,"",""
+ball,2,2.2,Switzerland,Ahmed Hassan,Arjun Vinod,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,2.3,Switzerland,Ahmed Hassan,Arjun Vinod,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,2.4,Switzerland,Arjun Vinod,Ahmed Hassan,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,2.5,Switzerland,Arjun Vinod,Ahmed Hassan,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,2.6,Switzerland,Arjun Vinod,Ahmed Hassan,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,3.1,Switzerland,Ahmed Hassan,Arjun Vinod,Waqar Zalmai,1,0,,,,,,"",""
+ball,2,3.2,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,1,1,,,,,"",""
+ball,2,3.3,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,2,0,,,,,,"",""
+ball,2,3.4,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,4,0,,,,,,"",""
+ball,2,3.5,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,3.6,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,3.7,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,1,1,,,,,"",""
+ball,2,3.8,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,4.1,Switzerland,Ahmed Hassan,Arjun Vinod,Sahel Zadran,0,0,,,,,,"",""
+ball,2,4.2,Switzerland,Ahmed Hassan,Arjun Vinod,Sahel Zadran,1,0,,,,,,"",""
+ball,2,4.3,Switzerland,Arjun Vinod,Ahmed Hassan,Sahel Zadran,0,0,,,,,,"",""
+ball,2,4.4,Switzerland,Arjun Vinod,Ahmed Hassan,Sahel Zadran,1,0,,,,,,"",""
+ball,2,4.5,Switzerland,Ahmed Hassan,Arjun Vinod,Sahel Zadran,0,0,,,,,,"",""
+ball,2,4.6,Switzerland,Ahmed Hassan,Arjun Vinod,Sahel Zadran,4,0,,,,,,"",""
+ball,2,5.1,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,5.2,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,5.3,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,5.4,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,4,0,,,,,,"",""
+ball,2,5.5,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,6,0,,,,,,"",""
+ball,2,5.6,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,1,1,,,,,"",""
+ball,2,5.7,Switzerland,Arjun Vinod,Ahmed Hassan,Waqar Zalmai,0,0,,,,,,"",""
+ball,2,6.1,Switzerland,Ahmed Hassan,Arjun Vinod,Sahel Zadran,2,0,,,,,,"",""
+ball,2,6.2,Switzerland,Ahmed Hassan,Arjun Vinod,Sahel Zadran,1,0,,,,,,"",""
+ball,2,6.3,Switzerland,Arjun Vinod,Ahmed Hassan,Sahel Zadran,1,0,,,,,,"",""
+ball,2,6.4,Switzerland,Ahmed Hassan,Arjun Vinod,Sahel Zadran,0,0,,,,,,caught,Ahmed Hassan
+ball,2,6.5,Switzerland,H Deshan,Arjun Vinod,Sahel Zadran,0,0,,,,,,"",""
+ball,2,6.6,Switzerland,H Deshan,Arjun Vinod,Sahel Zadran,1,0,,,,,,"",""
+ball,2,7.1,Switzerland,H Deshan,Arjun Vinod,Bilal Zalmai,0,1,1,,,,,"",""
+ball,2,7.2,Switzerland,H Deshan,Arjun Vinod,Bilal Zalmai,4,0,,,,,,"",""
+ball,2,7.3,Switzerland,H Deshan,Arjun Vinod,Bilal Zalmai,2,0,,,,,,"",""
+ball,2,7.4,Switzerland,H Deshan,Arjun Vinod,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,7.5,Switzerland,Arjun Vinod,H Deshan,Bilal Zalmai,0,0,,,,,,"",""
+ball,2,7.6,Switzerland,Arjun Vinod,H Deshan,Bilal Zalmai,0,0,,,,,,"",""
+ball,2,7.7,Switzerland,Arjun Vinod,H Deshan,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,8.1,Switzerland,Arjun Vinod,H Deshan,Umair Tariq,0,0,,,,,,"",""
+ball,2,8.2,Switzerland,Arjun Vinod,H Deshan,Umair Tariq,1,0,,,,,,"",""
+ball,2,8.3,Switzerland,H Deshan,Arjun Vinod,Umair Tariq,0,1,,,,1,,"",""
+ball,2,8.4,Switzerland,Arjun Vinod,H Deshan,Umair Tariq,1,0,,,,,,"",""
+ball,2,8.5,Switzerland,H Deshan,Arjun Vinod,Umair Tariq,0,0,,,,,,caught,H Deshan
+ball,2,8.6,Switzerland,I Stewart,Arjun Vinod,Umair Tariq,0,0,,,,,,"",""
+ball,2,9.1,Switzerland,Arjun Vinod,I Stewart,Bilal Zalmai,4,0,,,,,,"",""
+ball,2,9.2,Switzerland,Arjun Vinod,I Stewart,Bilal Zalmai,0,0,,,,,,"",""
+ball,2,9.3,Switzerland,Arjun Vinod,I Stewart,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,9.4,Switzerland,I Stewart,Arjun Vinod,Bilal Zalmai,2,0,,,,,,"",""
+ball,2,9.5,Switzerland,I Stewart,Arjun Vinod,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,9.6,Switzerland,I Stewart,Arjun Vinod,Bilal Zalmai,0,0,,,,,,caught,I Stewart
+ball,2,10.1,Switzerland,Arjun Vinod,D Johnson,Umair Tariq,6,0,,,,,,"",""
+ball,2,10.2,Switzerland,Arjun Vinod,D Johnson,Umair Tariq,1,0,,,,,,"",""
+ball,2,10.3,Switzerland,D Johnson,Arjun Vinod,Umair Tariq,3,0,,,,,,"",""
+ball,2,10.4,Switzerland,Arjun Vinod,D Johnson,Umair Tariq,0,0,,,,,,"",""
+ball,2,10.5,Switzerland,Arjun Vinod,D Johnson,Umair Tariq,1,0,,,,,,"",""
+ball,2,10.6,Switzerland,D Johnson,Arjun Vinod,Umair Tariq,2,0,,,,,,"",""
+ball,2,11.1,Switzerland,Arjun Vinod,D Johnson,Bilal Zalmai,0,1,1,,,,,"",""
+ball,2,11.2,Switzerland,Arjun Vinod,D Johnson,Bilal Zalmai,2,0,,,,,,"",""
+ball,2,11.3,Switzerland,Arjun Vinod,D Johnson,Bilal Zalmai,2,0,,,,,,"",""
+ball,2,11.4,Switzerland,Arjun Vinod,D Johnson,Bilal Zalmai,0,0,,,,,,"",""
+ball,2,11.5,Switzerland,Arjun Vinod,D Johnson,Bilal Zalmai,0,0,,,,,,"",""
+ball,2,11.6,Switzerland,Arjun Vinod,D Johnson,Bilal Zalmai,0,0,,,,,,caught,Arjun Vinod
+ball,2,11.7,Switzerland,Ali Nayyer,D Johnson,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,12.1,Switzerland,Ali Nayyer,D Johnson,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,12.2,Switzerland,D Johnson,Ali Nayyer,Aqib Iqbal,2,0,,,,,,"",""
+ball,2,12.3,Switzerland,D Johnson,Ali Nayyer,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,12.4,Switzerland,Ali Nayyer,D Johnson,Aqib Iqbal,6,0,,,,,,"",""
+ball,2,12.5,Switzerland,Ali Nayyer,D Johnson,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,12.6,Switzerland,Ali Nayyer,D Johnson,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,13.1,Switzerland,D Johnson,Ali Nayyer,Bilal Zalmai,0,0,,,,,,"",""
+ball,2,13.2,Switzerland,D Johnson,Ali Nayyer,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,13.3,Switzerland,Ali Nayyer,D Johnson,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,13.4,Switzerland,D Johnson,Ali Nayyer,Bilal Zalmai,0,0,,,,,,"",""
+ball,2,13.5,Switzerland,D Johnson,Ali Nayyer,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,13.6,Switzerland,Ali Nayyer,D Johnson,Bilal Zalmai,1,0,,,,,,"",""
+ball,2,14.1,Switzerland,Ali Nayyer,D Johnson,Umair Tariq,1,0,,,,,,"",""
+ball,2,14.2,Switzerland,D Johnson,Ali Nayyer,Umair Tariq,0,0,,,,,,caught,D Johnson
+ball,2,14.3,Switzerland,M Stanikzai,Ali Nayyer,Umair Tariq,6,0,,,,,,"",""
+ball,2,14.4,Switzerland,M Stanikzai,Ali Nayyer,Umair Tariq,0,0,,,,,,"",""
+ball,2,14.5,Switzerland,M Stanikzai,Ali Nayyer,Umair Tariq,4,0,,,,,,"",""
+ball,2,14.6,Switzerland,M Stanikzai,Ali Nayyer,Umair Tariq,4,0,,,,,,"",""
+ball,2,15.1,Switzerland,Ali Nayyer,M Stanikzai,Waqar Zalmai,2,0,,,,,,"",""
+ball,2,15.2,Switzerland,Ali Nayyer,M Stanikzai,Waqar Zalmai,6,0,,,,,,"",""
+ball,2,15.3,Switzerland,Ali Nayyer,M Stanikzai,Waqar Zalmai,1,0,,,,,,"",""
+ball,2,15.4,Switzerland,M Stanikzai,Ali Nayyer,Waqar Zalmai,1,0,,,,,,"",""
+ball,2,15.5,Switzerland,Ali Nayyer,M Stanikzai,Waqar Zalmai,2,0,,,,,,"",""
+ball,2,15.6,Switzerland,Ali Nayyer,M Stanikzai,Waqar Zalmai,1,0,,,,,,"",""
+ball,2,16.1,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,2,0,,,,,,"",""
+ball,2,16.2,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,1,0,,,,,,"",""
+ball,2,16.3,Switzerland,M Stanikzai,Ali Nayyer,Sahel Zadran,1,0,,,,,,"",""
+ball,2,16.4,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,0,0,,,,,,"",""
+ball,2,16.5,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,0,0,,,,,,"",""
+ball,2,16.6,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,0,0,,,,,,"",""
+ball,2,17.1,Switzerland,M Stanikzai,Ali Nayyer,Aqib Iqbal,6,0,,,,,,"",""
+ball,2,17.2,Switzerland,M Stanikzai,Ali Nayyer,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,17.3,Switzerland,M Stanikzai,Ali Nayyer,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,17.4,Switzerland,M Stanikzai,Ali Nayyer,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,17.5,Switzerland,Ali Nayyer,M Stanikzai,Aqib Iqbal,2,0,,,,,,"",""
+ball,2,17.6,Switzerland,Ali Nayyer,M Stanikzai,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,18.1,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,0,0,,,,,,"",""
+ball,2,18.2,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,1,0,,,,,,"",""
+ball,2,18.3,Switzerland,M Stanikzai,Ali Nayyer,Sahel Zadran,1,0,,,,,,"",""
+ball,2,18.4,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,0,0,,,,,,"",""
+ball,2,18.5,Switzerland,Ali Nayyer,M Stanikzai,Sahel Zadran,1,0,,,,,,"",""
+ball,2,18.6,Switzerland,M Stanikzai,Ali Nayyer,Sahel Zadran,6,0,,,,,,"",""
+ball,2,19.1,Switzerland,Ali Nayyer,M Stanikzai,Umair Tariq,1,0,,,,,,"",""
+ball,2,19.2,Switzerland,M Stanikzai,Ali Nayyer,Umair Tariq,0,0,,,,,,bowled,M Stanikzai
+ball,2,19.3,Switzerland,NK Aneesh Kumar,Ali Nayyer,Umair Tariq,1,0,,,,,,"",""
+ball,2,19.4,Switzerland,Ali Nayyer,NK Aneesh Kumar,Umair Tariq,0,0,,,,,,caught,Ali Nayyer
+ball,2,19.5,Switzerland,H Elder,NK Aneesh Kumar,Umair Tariq,0,0,,,,,,bowled,H Elder

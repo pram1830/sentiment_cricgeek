@@ -1,0 +1,274 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Gibraltar
+info,gender,male
+info,season,2023/24
+info,date,2023/10/05
+info,event,Serbia tour of Gibraltar
+info,match_number,2
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Serbia
+info,toss_decision,bat
+info,player_of_match,BA Pai
+info,umpire,A Elliott
+info,umpire,R Cunningham
+info,winner,Gibraltar
+info,winner_wickets,7
+info,player,Serbia,S Ivetic
+info,player,Serbia,A Mene-Ejegi
+info,player,Serbia,A Dizija
+info,player,Serbia,LA Dunbar
+info,player,Serbia,WAE Burton
+info,player,Serbia,J Reb
+info,player,Serbia,N Zimonjic
+info,player,Serbia,AA Gajic
+info,player,Serbia,P Nedeljkovic
+info,player,Serbia,M Sarenac
+info,player,Serbia,A Djorovic
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,MO Bacarese
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,S Bodha
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Djorovic,677c18f9
+info,registry,people,A Elliott,f48d5563
+info,registry,people,A Mene-Ejegi,e4f13acd
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,AA Gajic,a768a762
+info,registry,people,BA Pai,716bf559
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,J Reb,880eca04
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,MO Bacarese,486f252b
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,P Nedeljkovic,87e87dd2
+info,registry,people,R Cunningham,6779e840
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Ivetic,04ab1575
+info,registry,people,WAE Burton,b0358c6d
+ball,1,0.1,Serbia,S Ivetic,A Mene-Ejegi,BA Pai,0,0,,,,,,"",""
+ball,1,0.2,Serbia,S Ivetic,A Mene-Ejegi,BA Pai,1,0,,,,,,"",""
+ball,1,0.3,Serbia,A Mene-Ejegi,S Ivetic,BA Pai,1,0,,,,,,"",""
+ball,1,0.4,Serbia,S Ivetic,A Mene-Ejegi,BA Pai,0,0,,,,,,"",""
+ball,1,0.5,Serbia,S Ivetic,A Mene-Ejegi,BA Pai,0,0,,,,,,"",""
+ball,1,0.6,Serbia,S Ivetic,A Mene-Ejegi,BA Pai,1,0,,,,,,"",""
+ball,1,1.1,Serbia,S Ivetic,A Mene-Ejegi,S Bodha,1,0,,,,,,"",""
+ball,1,1.2,Serbia,A Mene-Ejegi,S Ivetic,S Bodha,0,0,,,,,,"",""
+ball,1,1.3,Serbia,A Mene-Ejegi,S Ivetic,S Bodha,0,0,,,,,,caught,A Mene-Ejegi
+ball,1,1.4,Serbia,A Dizija,S Ivetic,S Bodha,0,0,,,,,,"",""
+ball,1,1.5,Serbia,A Dizija,S Ivetic,S Bodha,0,0,,,,,,"",""
+ball,1,1.6,Serbia,A Dizija,S Ivetic,S Bodha,0,0,,,,,,"",""
+ball,1,2.1,Serbia,S Ivetic,A Dizija,BA Pai,1,0,,,,,,"",""
+ball,1,2.2,Serbia,A Dizija,S Ivetic,BA Pai,0,0,,,,,,"",""
+ball,1,2.3,Serbia,A Dizija,S Ivetic,BA Pai,0,0,,,,,,bowled,A Dizija
+ball,1,2.4,Serbia,LA Dunbar,S Ivetic,BA Pai,0,0,,,,,,"",""
+ball,1,2.5,Serbia,LA Dunbar,S Ivetic,BA Pai,0,0,,,,,,"",""
+ball,1,2.6,Serbia,LA Dunbar,S Ivetic,BA Pai,0,0,,,,,,"",""
+ball,1,3.1,Serbia,S Ivetic,LA Dunbar,S Bodha,0,0,,,,,,"",""
+ball,1,3.2,Serbia,S Ivetic,LA Dunbar,S Bodha,0,0,,,,,,"",""
+ball,1,3.3,Serbia,S Ivetic,LA Dunbar,S Bodha,3,0,,,,,,"",""
+ball,1,3.4,Serbia,LA Dunbar,S Ivetic,S Bodha,1,0,,,,,,"",""
+ball,1,3.5,Serbia,S Ivetic,LA Dunbar,S Bodha,0,0,,,,,,"",""
+ball,1,3.6,Serbia,S Ivetic,LA Dunbar,S Bodha,1,0,,,,,,"",""
+ball,1,4.1,Serbia,S Ivetic,LA Dunbar,BA Pai,2,0,,,,,,"",""
+ball,1,4.2,Serbia,S Ivetic,LA Dunbar,BA Pai,0,0,,,,,,caught,S Ivetic
+ball,1,4.3,Serbia,WAE Burton,LA Dunbar,BA Pai,0,0,,,,,,"",""
+ball,1,4.4,Serbia,WAE Burton,LA Dunbar,BA Pai,4,1,,1,,,,"",""
+ball,1,4.5,Serbia,WAE Burton,LA Dunbar,BA Pai,1,0,,,,,,"",""
+ball,1,4.6,Serbia,LA Dunbar,WAE Burton,BA Pai,1,0,,,,,,"",""
+ball,1,4.7,Serbia,WAE Burton,LA Dunbar,BA Pai,1,0,,,,,,"",""
+ball,1,5.1,Serbia,WAE Burton,LA Dunbar,S Bodha,1,0,,,,,,"",""
+ball,1,5.2,Serbia,LA Dunbar,WAE Burton,S Bodha,2,0,,,,,,"",""
+ball,1,5.3,Serbia,LA Dunbar,WAE Burton,S Bodha,4,0,,,,,,"",""
+ball,1,5.4,Serbia,LA Dunbar,WAE Burton,S Bodha,0,0,,,,,,"",""
+ball,1,5.5,Serbia,LA Dunbar,WAE Burton,S Bodha,0,0,,,,,,"",""
+ball,1,5.6,Serbia,LA Dunbar,WAE Burton,S Bodha,0,4,,,4,,,"",""
+ball,1,6.1,Serbia,WAE Burton,LA Dunbar,K Mirpuri,0,0,,,,,,"",""
+ball,1,6.2,Serbia,WAE Burton,LA Dunbar,K Mirpuri,0,4,,,4,,,"",""
+ball,1,6.3,Serbia,WAE Burton,LA Dunbar,K Mirpuri,4,0,,,,,,"",""
+ball,1,6.4,Serbia,WAE Burton,LA Dunbar,K Mirpuri,0,0,,,,,,"",""
+ball,1,6.5,Serbia,WAE Burton,LA Dunbar,K Mirpuri,1,0,,,,,,"",""
+ball,1,6.6,Serbia,LA Dunbar,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,7.1,Serbia,WAE Burton,LA Dunbar,J Horrocks,1,0,,,,,,"",""
+ball,1,7.2,Serbia,LA Dunbar,WAE Burton,J Horrocks,1,0,,,,,,"",""
+ball,1,7.3,Serbia,WAE Burton,LA Dunbar,J Horrocks,1,0,,,,,,"",""
+ball,1,7.4,Serbia,LA Dunbar,WAE Burton,J Horrocks,0,0,,,,,,caught,LA Dunbar
+ball,1,7.5,Serbia,J Reb,WAE Burton,J Horrocks,1,0,,,,,,"",""
+ball,1,7.6,Serbia,WAE Burton,J Reb,J Horrocks,0,0,,,,,,"",""
+ball,1,8.1,Serbia,J Reb,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,8.2,Serbia,J Reb,WAE Burton,K Mirpuri,4,0,,,,,,"",""
+ball,1,8.3,Serbia,J Reb,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,8.4,Serbia,J Reb,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,8.5,Serbia,J Reb,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,8.6,Serbia,J Reb,WAE Burton,K Mirpuri,0,1,,,1,,,"",""
+ball,1,9.1,Serbia,J Reb,WAE Burton,J Horrocks,2,0,,,,,,"",""
+ball,1,9.2,Serbia,J Reb,WAE Burton,J Horrocks,0,0,,,,,,"",""
+ball,1,9.3,Serbia,J Reb,WAE Burton,J Horrocks,0,0,,,,,,"",""
+ball,1,9.4,Serbia,J Reb,WAE Burton,J Horrocks,0,0,,,,,,"",""
+ball,1,9.5,Serbia,J Reb,WAE Burton,J Horrocks,0,0,,,,,,caught,J Reb
+ball,1,9.6,Serbia,N Zimonjic,WAE Burton,J Horrocks,0,0,,,,,,"",""
+ball,1,10.1,Serbia,WAE Burton,N Zimonjic,K Mirpuri,1,0,,,,,,"",""
+ball,1,10.2,Serbia,N Zimonjic,WAE Burton,K Mirpuri,0,0,,,,,,lbw,N Zimonjic
+ball,1,10.3,Serbia,AA Gajic,WAE Burton,K Mirpuri,1,0,,,,,,"",""
+ball,1,10.4,Serbia,WAE Burton,AA Gajic,K Mirpuri,1,0,,,,,,"",""
+ball,1,10.5,Serbia,AA Gajic,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,10.6,Serbia,AA Gajic,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,11.1,Serbia,WAE Burton,AA Gajic,J Horrocks,0,0,,,,,,"",""
+ball,1,11.2,Serbia,WAE Burton,AA Gajic,J Horrocks,1,0,,,,,,"",""
+ball,1,11.3,Serbia,AA Gajic,WAE Burton,J Horrocks,0,0,,,,,,"",""
+ball,1,11.4,Serbia,AA Gajic,WAE Burton,J Horrocks,1,0,,,,,,"",""
+ball,1,11.5,Serbia,WAE Burton,AA Gajic,J Horrocks,0,2,,1,1,,,"",""
+ball,1,11.6,Serbia,AA Gajic,WAE Burton,J Horrocks,4,0,,,,,,"",""
+ball,1,11.7,Serbia,AA Gajic,WAE Burton,J Horrocks,1,0,,,,,,"",""
+ball,1,12.1,Serbia,AA Gajic,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,12.2,Serbia,AA Gajic,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,12.3,Serbia,AA Gajic,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,12.4,Serbia,AA Gajic,WAE Burton,K Mirpuri,1,0,,,,,,"",""
+ball,1,12.5,Serbia,WAE Burton,AA Gajic,K Mirpuri,1,0,,,,,,"",""
+ball,1,12.6,Serbia,AA Gajic,WAE Burton,K Mirpuri,0,0,,,,,,"",""
+ball,1,13.1,Serbia,WAE Burton,AA Gajic,S Bodha,0,1,,1,,,,"",""
+ball,1,13.2,Serbia,WAE Burton,AA Gajic,S Bodha,0,0,,,,,,run out,WAE Burton
+ball,1,13.3,Serbia,P Nedeljkovic,AA Gajic,S Bodha,0,0,,,,,,"",""
+ball,1,13.4,Serbia,P Nedeljkovic,AA Gajic,S Bodha,0,0,,,,,,"",""
+ball,1,13.5,Serbia,P Nedeljkovic,AA Gajic,S Bodha,0,0,,,,,,"",""
+ball,1,13.6,Serbia,P Nedeljkovic,AA Gajic,S Bodha,0,1,1,,,,,"",""
+ball,1,13.7,Serbia,P Nedeljkovic,AA Gajic,S Bodha,0,1,1,,,,,"",""
+ball,1,13.8,Serbia,P Nedeljkovic,AA Gajic,S Bodha,0,0,,,,,,"",""
+ball,1,13.9,Serbia,P Nedeljkovic,AA Gajic,S Bodha,0,0,,,,,,"",""
+ball,1,14.1,Serbia,AA Gajic,P Nedeljkovic,A Reyes,0,0,,,,,,"",""
+ball,1,14.2,Serbia,AA Gajic,P Nedeljkovic,A Reyes,0,0,,,,,,"",""
+ball,1,14.3,Serbia,AA Gajic,P Nedeljkovic,A Reyes,1,0,,,,,,"",""
+ball,1,14.4,Serbia,P Nedeljkovic,AA Gajic,A Reyes,1,0,,,,,,"",""
+ball,1,14.5,Serbia,AA Gajic,P Nedeljkovic,A Reyes,0,0,,,,,,caught and bowled,AA Gajic
+ball,1,14.6,Serbia,M Sarenac,P Nedeljkovic,A Reyes,2,0,,,,,,"",""
+ball,1,15.1,Serbia,P Nedeljkovic,M Sarenac,J Horrocks,0,0,,,,,,"",""
+ball,1,15.2,Serbia,P Nedeljkovic,M Sarenac,J Horrocks,0,0,,,,,,"",""
+ball,1,15.3,Serbia,P Nedeljkovic,M Sarenac,J Horrocks,0,0,,,,,,"",""
+ball,1,15.4,Serbia,P Nedeljkovic,M Sarenac,J Horrocks,0,0,,,,,,"",""
+ball,1,15.5,Serbia,P Nedeljkovic,M Sarenac,J Horrocks,1,0,,,,,,"",""
+ball,1,15.6,Serbia,M Sarenac,P Nedeljkovic,J Horrocks,0,0,,,,,,"",""
+ball,1,16.1,Serbia,P Nedeljkovic,M Sarenac,A Reyes,0,0,,,,,,"",""
+ball,1,16.2,Serbia,P Nedeljkovic,M Sarenac,A Reyes,0,0,,,,,,bowled,P Nedeljkovic
+ball,1,16.3,Serbia,A Djorovic,M Sarenac,A Reyes,0,0,,,,,,"",""
+ball,1,16.4,Serbia,A Djorovic,M Sarenac,A Reyes,0,3,,1,,2,,"",""
+ball,1,16.5,Serbia,A Djorovic,M Sarenac,A Reyes,1,0,,,,,,"",""
+ball,1,16.6,Serbia,M Sarenac,A Djorovic,A Reyes,0,0,,,,,,"",""
+ball,1,16.7,Serbia,M Sarenac,A Djorovic,A Reyes,0,0,,,,,,"",""
+ball,1,17.1,Serbia,A Djorovic,M Sarenac,BA Pai,0,0,,,,,,"",""
+ball,1,17.2,Serbia,A Djorovic,M Sarenac,BA Pai,0,0,,,,,,"",""
+ball,1,17.3,Serbia,A Djorovic,M Sarenac,BA Pai,0,0,,,,,,"",""
+ball,1,17.4,Serbia,A Djorovic,M Sarenac,BA Pai,1,0,,,,,,"",""
+ball,1,17.5,Serbia,M Sarenac,A Djorovic,BA Pai,0,0,,,,,,"",""
+ball,1,17.6,Serbia,M Sarenac,A Djorovic,BA Pai,0,0,,,,,,"",""
+ball,1,18.1,Serbia,A Djorovic,M Sarenac,A Reyes,2,0,,,,,,"",""
+ball,1,18.2,Serbia,A Djorovic,M Sarenac,A Reyes,2,0,,,,,,"",""
+ball,1,18.3,Serbia,A Djorovic,M Sarenac,A Reyes,0,0,,,,,,"",""
+ball,1,18.4,Serbia,A Djorovic,M Sarenac,A Reyes,0,0,,,,,,"",""
+ball,1,18.5,Serbia,A Djorovic,M Sarenac,A Reyes,0,0,,,,,,caught and bowled,A Djorovic
+ball,2,0.1,Gibraltar,BA Pai,KJ Stagno,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,0.2,Gibraltar,BA Pai,KJ Stagno,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,0.3,Gibraltar,BA Pai,KJ Stagno,P Nedeljkovic,2,0,,,,,,"",""
+ball,2,0.4,Gibraltar,BA Pai,KJ Stagno,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,0.5,Gibraltar,BA Pai,KJ Stagno,P Nedeljkovic,0,1,1,,,,,"",""
+ball,2,0.6,Gibraltar,BA Pai,KJ Stagno,P Nedeljkovic,1,0,,,,,,"",""
+ball,2,0.7,Gibraltar,KJ Stagno,BA Pai,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,1.1,Gibraltar,BA Pai,KJ Stagno,M Sarenac,0,1,1,,,,,"",""
+ball,2,1.2,Gibraltar,BA Pai,KJ Stagno,M Sarenac,0,1,1,,,,,"",""
+ball,2,1.3,Gibraltar,BA Pai,KJ Stagno,M Sarenac,1,0,,,,,,"",""
+ball,2,1.4,Gibraltar,KJ Stagno,BA Pai,M Sarenac,0,0,,,,,,"",""
+ball,2,1.5,Gibraltar,KJ Stagno,BA Pai,M Sarenac,4,0,,,,,,"",""
+ball,2,1.6,Gibraltar,KJ Stagno,BA Pai,M Sarenac,1,0,,,,,,"",""
+ball,2,1.7,Gibraltar,BA Pai,KJ Stagno,M Sarenac,4,0,,,,,,"",""
+ball,2,1.8,Gibraltar,BA Pai,KJ Stagno,M Sarenac,2,0,,,,,,"",""
+ball,2,2.1,Gibraltar,KJ Stagno,BA Pai,P Nedeljkovic,0,0,,,,,,bowled,KJ Stagno
+ball,2,2.2,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,2.3,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,2,0,,,,,,"",""
+ball,2,2.4,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,0,1,,,1,,,"",""
+ball,2,2.5,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,2.6,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,3.1,Gibraltar,MO Bacarese,BA Pai,M Sarenac,0,0,,,,,,"",""
+ball,2,3.2,Gibraltar,MO Bacarese,BA Pai,M Sarenac,1,0,,,,,,"",""
+ball,2,3.3,Gibraltar,BA Pai,MO Bacarese,M Sarenac,0,0,,,,,,"",""
+ball,2,3.4,Gibraltar,BA Pai,MO Bacarese,M Sarenac,2,0,,,,,,"",""
+ball,2,3.5,Gibraltar,BA Pai,MO Bacarese,M Sarenac,0,0,,,,,,"",""
+ball,2,3.6,Gibraltar,BA Pai,MO Bacarese,M Sarenac,1,0,,,,,,"",""
+ball,2,4.1,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,1,0,,,,,,"",""
+ball,2,4.2,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,4.3,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,4.4,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,0,1,,,1,,,"",""
+ball,2,4.5,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,4.6,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,4,0,,,,,,"",""
+ball,2,5.1,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,5.2,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,5.3,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,5.4,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,5.5,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,5.6,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,6.1,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,1,0,,,,,,"",""
+ball,2,6.2,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,1,0,,,,,,"",""
+ball,2,6.3,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,6.4,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,1,0,,,,,,"",""
+ball,2,6.5,Gibraltar,MO Bacarese,BA Pai,P Nedeljkovic,0,1,,,1,,,"",""
+ball,2,6.6,Gibraltar,BA Pai,MO Bacarese,P Nedeljkovic,0,0,,,,,,"",""
+ball,2,7.1,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,7.2,Gibraltar,MO Bacarese,BA Pai,AA Gajic,0,0,,,,,,caught,MO Bacarese
+ball,2,7.3,Gibraltar,IDM Latin,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,7.4,Gibraltar,IDM Latin,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,7.5,Gibraltar,IDM Latin,BA Pai,AA Gajic,0,0,,,,,,"",""
+ball,2,7.6,Gibraltar,IDM Latin,BA Pai,AA Gajic,1,0,,,,,,"",""
+ball,2,8.1,Gibraltar,IDM Latin,BA Pai,A Dizija,0,0,,,,,,"",""
+ball,2,8.2,Gibraltar,IDM Latin,BA Pai,A Dizija,0,0,,,,,,"",""
+ball,2,8.3,Gibraltar,IDM Latin,BA Pai,A Dizija,0,0,,,,,,"",""
+ball,2,8.4,Gibraltar,IDM Latin,BA Pai,A Dizija,0,0,,,,,,caught,IDM Latin
+ball,2,8.5,Gibraltar,K Nestor,BA Pai,A Dizija,1,0,,,,,,"",""
+ball,2,8.6,Gibraltar,BA Pai,K Nestor,A Dizija,1,0,,,,,,"",""
+ball,2,9.1,Gibraltar,BA Pai,K Nestor,AA Gajic,0,0,,,,,,"",""
+ball,2,9.2,Gibraltar,BA Pai,K Nestor,AA Gajic,0,0,,,,,,"",""
+ball,2,9.3,Gibraltar,BA Pai,K Nestor,AA Gajic,4,0,,,,,,"",""
+ball,2,9.4,Gibraltar,BA Pai,K Nestor,AA Gajic,1,0,,,,,,"",""
+ball,2,9.5,Gibraltar,K Nestor,BA Pai,AA Gajic,1,0,,,,,,"",""
+ball,2,9.6,Gibraltar,BA Pai,K Nestor,AA Gajic,0,0,,,,,,"",""
+ball,2,10.1,Gibraltar,K Nestor,BA Pai,A Dizija,0,1,1,,,,,"",""
+ball,2,10.2,Gibraltar,K Nestor,BA Pai,A Dizija,4,0,,,,,,"",""
+ball,2,10.3,Gibraltar,K Nestor,BA Pai,A Dizija,0,0,,,,,,"",""
+ball,2,10.4,Gibraltar,K Nestor,BA Pai,A Dizija,0,0,,,,,,"",""
+ball,2,10.5,Gibraltar,K Nestor,BA Pai,A Dizija,4,0,,,,,,"",""
+ball,2,10.6,Gibraltar,K Nestor,BA Pai,A Dizija,2,0,,,,,,"",""
+ball,2,10.7,Gibraltar,K Nestor,BA Pai,A Dizija,0,1,1,,,,,"",""
+ball,2,10.8,Gibraltar,K Nestor,BA Pai,A Dizija,0,0,,,,,,"",""
+ball,2,11.1,Gibraltar,BA Pai,K Nestor,WAE Burton,1,0,,,,,,"",""
+ball,2,11.2,Gibraltar,K Nestor,BA Pai,WAE Burton,0,0,,,,,,"",""
+ball,2,11.3,Gibraltar,K Nestor,BA Pai,WAE Burton,0,0,,,,,,"",""
+ball,2,11.4,Gibraltar,K Nestor,BA Pai,WAE Burton,0,1,,,1,,,"",""
+ball,2,11.5,Gibraltar,BA Pai,K Nestor,WAE Burton,1,0,,,,,,"",""
+ball,2,11.6,Gibraltar,K Nestor,BA Pai,WAE Burton,0,1,1,,,,,"",""
+ball,2,11.7,Gibraltar,K Nestor,BA Pai,WAE Burton,1,0,,,,,,"",""
+ball,2,12.1,Gibraltar,K Nestor,BA Pai,A Dizija,1,0,,,,,,"",""
+ball,2,12.2,Gibraltar,BA Pai,K Nestor,A Dizija,1,0,,,,,,"",""
+ball,2,12.3,Gibraltar,K Nestor,BA Pai,A Dizija,1,0,,,,,,"",""
+ball,2,12.4,Gibraltar,BA Pai,K Nestor,A Dizija,0,0,,,,,,"",""
+ball,2,12.5,Gibraltar,BA Pai,K Nestor,A Dizija,0,0,,,,,,"",""
+ball,2,12.6,Gibraltar,BA Pai,K Nestor,A Dizija,0,0,,,,,,"",""
+ball,2,13.1,Gibraltar,K Nestor,BA Pai,WAE Burton,4,0,,,,,,"",""
+ball,2,13.2,Gibraltar,K Nestor,BA Pai,WAE Burton,4,0,,,,,,"",""
+ball,2,13.3,Gibraltar,K Nestor,BA Pai,WAE Burton,1,0,,,,,,"",""
+ball,2,13.4,Gibraltar,BA Pai,K Nestor,WAE Burton,0,1,,,,1,,"",""
+ball,2,13.5,Gibraltar,K Nestor,BA Pai,WAE Burton,4,0,,,,,,"",""
+ball,2,13.6,Gibraltar,K Nestor,BA Pai,WAE Burton,4,0,,,,,,"",""
+ball,2,14.1,Gibraltar,BA Pai,K Nestor,S Ivetic,0,1,1,,,,,"",""

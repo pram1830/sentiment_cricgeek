@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Japan
+info,team,China
+info,gender,male
+info,season,2023/24
+info,date,2024/02/16
+info,event,East Asia Cup
+info,match_number,6
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,MM Siddique
+info,umpire,John Prakash
+info,umpire,SJ D'Cruz
+info,reserve_umpire,R McDonald
+info,match_referee,Hasnain Kiani
+info,winner,Japan
+info,winner_runs,44
+info,player,Japan,D Suzuki
+info,player,Japan,W Miyauchi
+info,player,Japan,KH Abe
+info,player,Japan,S Ravichandran
+info,player,Japan,K Kato-Stafford
+info,player,Japan,I Takahashi
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,MM Siddique
+info,player,Japan,M Taniyama
+info,player,Japan,M Thurgate
+info,player,Japan,R Drake
+info,player,China,Wei Guo Lei
+info,player,China,Deng Jinqi
+info,player,China,Zhuang Zelin
+info,player,China,Huang Junjie
+info,player,China,Tian Sen Qun
+info,player,China,Shenjian Zheng
+info,player,China,Chen Zhuo Yue
+info,player,China,Zong Yuechao
+info,player,China,Zou Kui
+info,player,China,Ma Qiancheng
+info,player,China,Luo Shilin
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,Deng Jinqi,871cf744
+info,registry,people,Hasnain Kiani,9cce25b7
+info,registry,people,Huang Junjie,7a25958c
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,K Kato-Stafford,e03ca117
+info,registry,people,KH Abe,f22d2247
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,M Thurgate,98aaa3f3
+info,registry,people,MM Siddique,48024cf4
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,R Drake,57b3c398
+info,registry,people,R McDonald,ce2fdf8f
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,Shenjian Zheng,a127e6f5
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Zhuang Zelin,a03ee6e1
+info,registry,people,Zong Yuechao,f5932ad2
+info,registry,people,Zou Kui,d5ca4759
+ball,1,0.1,Japan,D Suzuki,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,0.2,Japan,D Suzuki,W Miyauchi,Zong Yuechao,0,0,,,,,,lbw,D Suzuki
+ball,1,0.3,Japan,KH Abe,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,0.4,Japan,KH Abe,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,0.5,Japan,KH Abe,W Miyauchi,Zong Yuechao,4,0,,,,,,"",""
+ball,1,0.6,Japan,KH Abe,W Miyauchi,Zong Yuechao,4,0,,,,,,"",""
+ball,1,1.1,Japan,W Miyauchi,KH Abe,Tian Sen Qun,0,1,1,,,,,"",""
+ball,1,1.2,Japan,W Miyauchi,KH Abe,Tian Sen Qun,1,0,,,,,,"",""
+ball,1,1.3,Japan,KH Abe,W Miyauchi,Tian Sen Qun,4,0,,,,,,"",""
+ball,1,1.4,Japan,KH Abe,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,1.5,Japan,KH Abe,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,1.6,Japan,KH Abe,W Miyauchi,Tian Sen Qun,1,0,,,,,,"",""
+ball,1,1.7,Japan,W Miyauchi,KH Abe,Tian Sen Qun,1,0,,,,,,"",""
+ball,1,2.1,Japan,W Miyauchi,KH Abe,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,1,2.2,Japan,W Miyauchi,KH Abe,Chen Zhuo Yue,1,0,,,,,,"",""
+ball,1,2.3,Japan,KH Abe,W Miyauchi,Chen Zhuo Yue,0,2,2,,,,,"",""
+ball,1,2.4,Japan,W Miyauchi,KH Abe,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,1,2.5,Japan,W Miyauchi,KH Abe,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,1,2.6,Japan,W Miyauchi,KH Abe,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,1,2.7,Japan,W Miyauchi,KH Abe,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,1,3.1,Japan,KH Abe,W Miyauchi,Tian Sen Qun,0,0,,,,,,caught,KH Abe
+ball,1,3.2,Japan,S Ravichandran,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,3.3,Japan,S Ravichandran,W Miyauchi,Tian Sen Qun,1,0,,,,,,"",""
+ball,1,3.4,Japan,W Miyauchi,S Ravichandran,Tian Sen Qun,1,0,,,,,,"",""
+ball,1,3.5,Japan,S Ravichandran,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,3.6,Japan,S Ravichandran,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,4.1,Japan,W Miyauchi,S Ravichandran,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,1,4.2,Japan,W Miyauchi,S Ravichandran,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,1,4.3,Japan,W Miyauchi,S Ravichandran,Chen Zhuo Yue,1,0,,,,,,"",""
+ball,1,4.4,Japan,S Ravichandran,W Miyauchi,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,1,4.5,Japan,S Ravichandran,W Miyauchi,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,1,4.6,Japan,S Ravichandran,W Miyauchi,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,1,5.1,Japan,W Miyauchi,S Ravichandran,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,5.2,Japan,W Miyauchi,S Ravichandran,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,5.3,Japan,W Miyauchi,S Ravichandran,Tian Sen Qun,1,0,,,,,,"",""
+ball,1,5.4,Japan,S Ravichandran,W Miyauchi,Tian Sen Qun,0,0,,,,,,caught,S Ravichandran
+ball,1,5.5,Japan,K Kato-Stafford,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,5.6,Japan,K Kato-Stafford,W Miyauchi,Tian Sen Qun,0,0,,,,,,bowled,K Kato-Stafford
+ball,1,6.1,Japan,W Miyauchi,I Takahashi,Zong Yuechao,4,0,,,,,,"",""
+ball,1,6.2,Japan,W Miyauchi,I Takahashi,Zong Yuechao,0,1,,,,1,,"",""
+ball,1,6.3,Japan,I Takahashi,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,6.4,Japan,I Takahashi,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,6.5,Japan,I Takahashi,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,6.6,Japan,I Takahashi,W Miyauchi,Zong Yuechao,0,1,1,,,,,"",""
+ball,1,6.7,Japan,I Takahashi,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,7.1,Japan,W Miyauchi,I Takahashi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,7.2,Japan,W Miyauchi,I Takahashi,Tian Sen Qun,1,0,,,,,,"",""
+ball,1,7.3,Japan,I Takahashi,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,7.4,Japan,I Takahashi,W Miyauchi,Tian Sen Qun,0,0,,,,,,lbw,I Takahashi
+ball,1,7.5,Japan,R Sakurano-Thomas,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,7.6,Japan,R Sakurano-Thomas,W Miyauchi,Tian Sen Qun,0,0,,,,,,"",""
+ball,1,8.1,Japan,W Miyauchi,R Sakurano-Thomas,Zong Yuechao,0,1,1,,,,,"",""
+ball,1,8.2,Japan,W Miyauchi,R Sakurano-Thomas,Zong Yuechao,1,0,,,,,,"",""
+ball,1,8.3,Japan,R Sakurano-Thomas,W Miyauchi,Zong Yuechao,1,0,,,,,,"",""
+ball,1,8.4,Japan,W Miyauchi,R Sakurano-Thomas,Zong Yuechao,1,0,,,,,,"",""
+ball,1,8.5,Japan,R Sakurano-Thomas,W Miyauchi,Zong Yuechao,0,0,,,,,,"",""
+ball,1,8.6,Japan,R Sakurano-Thomas,W Miyauchi,Zong Yuechao,1,0,,,,,,"",""
+ball,1,8.7,Japan,W Miyauchi,R Sakurano-Thomas,Zong Yuechao,4,0,,,,,,"",""
+ball,1,9.1,Japan,R Sakurano-Thomas,W Miyauchi,Ma Qiancheng,1,0,,,,,,"",""
+ball,1,9.2,Japan,W Miyauchi,R Sakurano-Thomas,Ma Qiancheng,2,0,,,,,,"",""
+ball,1,9.3,Japan,W Miyauchi,R Sakurano-Thomas,Ma Qiancheng,0,0,,,,,,caught,W Miyauchi
+ball,1,9.4,Japan,MM Siddique,R Sakurano-Thomas,Ma Qiancheng,4,0,,,,,,"",""
+ball,1,9.5,Japan,MM Siddique,R Sakurano-Thomas,Ma Qiancheng,0,0,,,,,,"",""
+ball,1,9.6,Japan,MM Siddique,R Sakurano-Thomas,Ma Qiancheng,1,0,,,,,,"",""
+ball,1,10.1,Japan,MM Siddique,R Sakurano-Thomas,Luo Shilin,0,0,,,,,,"",""
+ball,1,10.2,Japan,MM Siddique,R Sakurano-Thomas,Luo Shilin,1,0,,,,,,"",""
+ball,1,10.3,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,0,0,,,,,,"",""
+ball,1,10.4,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,0,0,,,,,,"",""
+ball,1,10.5,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,1,0,,,,,,"",""
+ball,1,10.6,Japan,MM Siddique,R Sakurano-Thomas,Luo Shilin,0,0,,,,,,"",""
+ball,1,11.1,Japan,R Sakurano-Thomas,MM Siddique,Deng Jinqi,2,0,,,,,,"",""
+ball,1,11.2,Japan,R Sakurano-Thomas,MM Siddique,Deng Jinqi,0,0,,,,,,"",""
+ball,1,11.3,Japan,R Sakurano-Thomas,MM Siddique,Deng Jinqi,0,0,,,,,,"",""
+ball,1,11.4,Japan,R Sakurano-Thomas,MM Siddique,Deng Jinqi,0,1,,,,1,,"",""
+ball,1,11.5,Japan,MM Siddique,R Sakurano-Thomas,Deng Jinqi,1,0,,,,,,"",""
+ball,1,11.6,Japan,R Sakurano-Thomas,MM Siddique,Deng Jinqi,1,0,,,,,,"",""
+ball,1,12.1,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,1,0,,,,,,"",""
+ball,1,12.2,Japan,MM Siddique,R Sakurano-Thomas,Luo Shilin,1,0,,,,,,"",""
+ball,1,12.3,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,2,0,,,,,,"",""
+ball,1,12.4,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,2,0,,,,,,"",""
+ball,1,12.5,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,0,0,,,,,,"",""
+ball,1,12.6,Japan,R Sakurano-Thomas,MM Siddique,Luo Shilin,6,0,,,,,,"",""
+ball,1,13.1,Japan,MM Siddique,R Sakurano-Thomas,Deng Jinqi,4,0,,,,,,"",""
+ball,1,13.2,Japan,MM Siddique,R Sakurano-Thomas,Deng Jinqi,0,0,,,,,,"",""
+ball,1,13.3,Japan,MM Siddique,R Sakurano-Thomas,Deng Jinqi,0,0,,,,,,"",""
+ball,1,13.4,Japan,MM Siddique,R Sakurano-Thomas,Deng Jinqi,1,0,,,,,,"",""
+ball,1,13.5,Japan,R Sakurano-Thomas,MM Siddique,Deng Jinqi,0,0,,,,,,caught,R Sakurano-Thomas
+ball,1,13.6,Japan,M Taniyama,MM Siddique,Deng Jinqi,0,0,,,,,,"",""
+ball,1,14.1,Japan,MM Siddique,M Taniyama,Luo Shilin,0,0,,,,,,"",""
+ball,1,14.2,Japan,MM Siddique,M Taniyama,Luo Shilin,1,0,,,,,,"",""
+ball,1,14.3,Japan,M Taniyama,MM Siddique,Luo Shilin,1,0,,,,,,"",""
+ball,1,14.4,Japan,MM Siddique,M Taniyama,Luo Shilin,4,0,,,,,,"",""
+ball,1,14.5,Japan,MM Siddique,M Taniyama,Luo Shilin,4,0,,,,,,"",""
+ball,1,14.6,Japan,MM Siddique,M Taniyama,Luo Shilin,6,0,,,,,,"",""
+ball,1,15.1,Japan,M Taniyama,MM Siddique,Zong Yuechao,0,0,,,,,,"",""
+ball,1,15.2,Japan,M Taniyama,MM Siddique,Zong Yuechao,2,0,,,,,,"",""
+ball,1,15.3,Japan,M Taniyama,MM Siddique,Zong Yuechao,0,1,1,,,,,"",""
+ball,1,15.4,Japan,M Taniyama,MM Siddique,Zong Yuechao,1,0,,,,,,"",""
+ball,1,15.5,Japan,MM Siddique,M Taniyama,Zong Yuechao,0,0,,,,,,bowled,MM Siddique
+ball,1,15.6,Japan,M Thurgate,M Taniyama,Zong Yuechao,0,0,,,,,,"",""
+ball,1,15.7,Japan,M Thurgate,M Taniyama,Zong Yuechao,0,1,1,,,,,"",""
+ball,1,15.8,Japan,M Thurgate,M Taniyama,Zong Yuechao,0,1,,,,1,,"",""
+ball,1,16.1,Japan,M Thurgate,M Taniyama,Ma Qiancheng,1,0,,,,,,"",""
+ball,1,16.2,Japan,M Taniyama,M Thurgate,Ma Qiancheng,0,0,,,,,,"",""
+ball,1,16.3,Japan,M Taniyama,M Thurgate,Ma Qiancheng,0,0,,,,,,"",""
+ball,1,16.4,Japan,M Taniyama,M Thurgate,Ma Qiancheng,2,0,,,,,,"",""
+ball,1,16.5,Japan,M Taniyama,M Thurgate,Ma Qiancheng,1,0,,,,,,"",""
+ball,1,16.6,Japan,M Thurgate,M Taniyama,Ma Qiancheng,4,0,,,,,,"",""
+ball,1,17.1,Japan,M Taniyama,M Thurgate,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,1,17.2,Japan,M Taniyama,M Thurgate,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,1,17.3,Japan,M Taniyama,M Thurgate,Chen Zhuo Yue,0,0,,,,,,"",""
+ball,1,17.4,Japan,M Taniyama,M Thurgate,Chen Zhuo Yue,1,0,,,,,,"",""
+ball,1,17.5,Japan,M Thurgate,M Taniyama,Chen Zhuo Yue,4,0,,,,,,"",""
+ball,1,17.6,Japan,M Thurgate,M Taniyama,Chen Zhuo Yue,0,1,1,,,,,"",""
+ball,1,17.7,Japan,M Thurgate,M Taniyama,Chen Zhuo Yue,1,0,,,,,,"",""
+ball,1,18.1,Japan,M Thurgate,M Taniyama,Ma Qiancheng,1,0,,,,,,"",""
+ball,1,18.2,Japan,M Taniyama,M Thurgate,Ma Qiancheng,0,0,,,,,,bowled,M Taniyama
+ball,1,18.3,Japan,R Drake,M Thurgate,Ma Qiancheng,1,0,,,,,,"",""
+ball,1,18.4,Japan,M Thurgate,R Drake,Ma Qiancheng,6,0,,,,,,"",""
+ball,1,18.5,Japan,M Thurgate,R Drake,Ma Qiancheng,0,0,,,,,,"",""
+ball,1,18.6,Japan,M Thurgate,R Drake,Ma Qiancheng,0,0,,,,,,"",""
+ball,1,19.1,Japan,R Drake,M Thurgate,Deng Jinqi,2,0,,,,,,"",""
+ball,1,19.2,Japan,R Drake,M Thurgate,Deng Jinqi,1,0,,,,,,"",""
+ball,1,19.3,Japan,M Thurgate,R Drake,Deng Jinqi,0,0,,,,,,bowled,M Thurgate
+ball,2,0.1,China,Wei Guo Lei,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,0.2,China,Wei Guo Lei,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,0.3,China,Wei Guo Lei,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,0.4,China,Wei Guo Lei,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,caught,Wei Guo Lei
+ball,2,0.5,China,Zhuang Zelin,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,0.6,China,Zhuang Zelin,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,1.1,China,Deng Jinqi,Zhuang Zelin,D Suzuki,0,0,,,,,,"",""
+ball,2,1.2,China,Deng Jinqi,Zhuang Zelin,D Suzuki,0,0,,,,,,"",""
+ball,2,1.3,China,Deng Jinqi,Zhuang Zelin,D Suzuki,1,0,,,,,,"",""
+ball,2,1.4,China,Zhuang Zelin,Deng Jinqi,D Suzuki,1,0,,,,,,"",""
+ball,2,1.5,China,Deng Jinqi,Zhuang Zelin,D Suzuki,0,0,,,,,,"",""
+ball,2,1.6,China,Deng Jinqi,Zhuang Zelin,D Suzuki,0,1,1,,,,,"",""
+ball,2,1.7,China,Deng Jinqi,Zhuang Zelin,D Suzuki,0,1,1,,,,,"",""
+ball,2,1.8,China,Deng Jinqi,Zhuang Zelin,D Suzuki,0,0,,,,,,"",""
+ball,2,2.1,China,Zhuang Zelin,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,2.2,China,Zhuang Zelin,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,2.3,China,Zhuang Zelin,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,2.4,China,Zhuang Zelin,Deng Jinqi,R Sakurano-Thomas,3,0,,,,,,"",""
+ball,2,2.5,China,Deng Jinqi,Zhuang Zelin,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,2.6,China,Zhuang Zelin,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,3.1,China,Deng Jinqi,Zhuang Zelin,D Suzuki,1,0,,,,,,"",""
+ball,2,3.2,China,Zhuang Zelin,Deng Jinqi,D Suzuki,0,0,,,,,,lbw,Zhuang Zelin
+ball,2,3.3,China,Huang Junjie,Deng Jinqi,D Suzuki,0,0,,,,,,"",""
+ball,2,3.4,China,Huang Junjie,Deng Jinqi,D Suzuki,0,0,,,,,,"",""
+ball,2,3.5,China,Huang Junjie,Deng Jinqi,D Suzuki,0,0,,,,,,"",""
+ball,2,3.6,China,Huang Junjie,Deng Jinqi,D Suzuki,0,0,,,,,,"",""
+ball,2,4.1,China,Deng Jinqi,Huang Junjie,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,4.2,China,Huang Junjie,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,4.3,China,Huang Junjie,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,4.4,China,Huang Junjie,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,4.5,China,Huang Junjie,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,4.6,China,Huang Junjie,Deng Jinqi,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,5.1,China,Deng Jinqi,Huang Junjie,R Drake,0,0,,,,,,"",""
+ball,2,5.2,China,Deng Jinqi,Huang Junjie,R Drake,0,0,,,,,,"",""
+ball,2,5.3,China,Deng Jinqi,Huang Junjie,R Drake,1,0,,,,,,"",""
+ball,2,5.4,China,Huang Junjie,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,5.5,China,Huang Junjie,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,5.6,China,Huang Junjie,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,6.1,China,Deng Jinqi,Huang Junjie,M Taniyama,0,0,,,,,,"",""
+ball,2,6.2,China,Deng Jinqi,Huang Junjie,M Taniyama,1,0,,,,,,"",""
+ball,2,6.3,China,Huang Junjie,Deng Jinqi,M Taniyama,1,0,,,,,,"",""
+ball,2,6.4,China,Deng Jinqi,Huang Junjie,M Taniyama,2,0,,,,,,"",""
+ball,2,6.5,China,Deng Jinqi,Huang Junjie,M Taniyama,0,0,,,,,,"",""
+ball,2,6.6,China,Deng Jinqi,Huang Junjie,M Taniyama,1,0,,,,,,"",""
+ball,2,7.1,China,Deng Jinqi,Huang Junjie,R Drake,0,0,,,,,,"",""
+ball,2,7.2,China,Deng Jinqi,Huang Junjie,R Drake,0,0,,,,,,"",""
+ball,2,7.3,China,Deng Jinqi,Huang Junjie,R Drake,1,0,,,,,,"",""
+ball,2,7.4,China,Huang Junjie,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,7.5,China,Huang Junjie,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,7.6,China,Huang Junjie,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,8.1,China,Deng Jinqi,Huang Junjie,M Taniyama,0,0,,,,,,"",""
+ball,2,8.2,China,Deng Jinqi,Huang Junjie,M Taniyama,1,0,,,,,,"",""
+ball,2,8.3,China,Huang Junjie,Deng Jinqi,M Taniyama,4,0,,,,,,"",""
+ball,2,8.4,China,Huang Junjie,Deng Jinqi,M Taniyama,0,0,,,,,,"",""
+ball,2,8.5,China,Huang Junjie,Deng Jinqi,M Taniyama,2,0,,,,,,"",""
+ball,2,8.6,China,Huang Junjie,Deng Jinqi,M Taniyama,0,0,,,,,,"",""
+ball,2,9.1,China,Deng Jinqi,Huang Junjie,K Kato-Stafford,2,0,,,,,,"",""
+ball,2,9.2,China,Deng Jinqi,Huang Junjie,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,9.3,China,Huang Junjie,Deng Jinqi,K Kato-Stafford,0,1,1,,,,,"",""
+ball,2,9.4,China,Huang Junjie,Deng Jinqi,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,9.5,China,Huang Junjie,Deng Jinqi,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,9.6,China,Huang Junjie,Deng Jinqi,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,9.7,China,Deng Jinqi,Huang Junjie,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,10.1,China,Huang Junjie,Deng Jinqi,M Taniyama,2,0,,,,,,"",""
+ball,2,10.2,China,Huang Junjie,Deng Jinqi,M Taniyama,0,0,,,,,,"",""
+ball,2,10.3,China,Huang Junjie,Deng Jinqi,M Taniyama,0,0,,,,,,"",""
+ball,2,10.4,China,Huang Junjie,Deng Jinqi,M Taniyama,2,0,,,,,,"",""
+ball,2,10.5,China,Huang Junjie,Deng Jinqi,M Taniyama,1,0,,,,,,"",""
+ball,2,10.6,China,Deng Jinqi,Huang Junjie,M Taniyama,1,0,,,,,,"",""
+ball,2,11.1,China,Deng Jinqi,Huang Junjie,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,11.2,China,Huang Junjie,Deng Jinqi,K Kato-Stafford,4,0,,,,,,"",""
+ball,2,11.3,China,Huang Junjie,Deng Jinqi,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,11.4,China,Deng Jinqi,Huang Junjie,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,11.5,China,Deng Jinqi,Huang Junjie,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,11.6,China,Huang Junjie,Deng Jinqi,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,12.1,China,Huang Junjie,Deng Jinqi,S Ravichandran,0,0,,,,,,"",""
+ball,2,12.2,China,Huang Junjie,Deng Jinqi,S Ravichandran,0,0,,,,,,bowled,Huang Junjie
+ball,2,12.3,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,0,0,,,,,,"",""
+ball,2,12.4,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,0,0,,,,,,"",""
+ball,2,12.5,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,0,0,,,,,,"",""
+ball,2,12.6,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,0,0,,,,,,"",""
+ball,2,13.1,China,Deng Jinqi,Tian Sen Qun,MM Siddique,2,0,,,,,,"",""
+ball,2,13.2,China,Deng Jinqi,Tian Sen Qun,MM Siddique,0,0,,,,,,"",""
+ball,2,13.3,China,Deng Jinqi,Tian Sen Qun,MM Siddique,0,0,,,,,,"",""
+ball,2,13.4,China,Deng Jinqi,Tian Sen Qun,MM Siddique,0,0,,,,,,"",""
+ball,2,13.5,China,Deng Jinqi,Tian Sen Qun,MM Siddique,0,0,,,,,,"",""
+ball,2,13.6,China,Deng Jinqi,Tian Sen Qun,MM Siddique,0,0,,,,,,"",""
+ball,2,14.1,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,0,0,,,,,,"",""
+ball,2,14.2,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,1,0,,,,,,"",""
+ball,2,14.3,China,Deng Jinqi,Tian Sen Qun,S Ravichandran,4,0,,,,,,"",""
+ball,2,14.4,China,Deng Jinqi,Tian Sen Qun,S Ravichandran,1,0,,,,,,"",""
+ball,2,14.5,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,4,0,,,,,,"",""
+ball,2,14.6,China,Tian Sen Qun,Deng Jinqi,S Ravichandran,2,0,,,,,,"",""
+ball,2,15.1,China,Deng Jinqi,Tian Sen Qun,MM Siddique,1,0,,,,,,"",""
+ball,2,15.2,China,Tian Sen Qun,Deng Jinqi,MM Siddique,0,0,,,,,,"",""
+ball,2,15.3,China,Tian Sen Qun,Deng Jinqi,MM Siddique,0,0,,,,,,bowled,Tian Sen Qun
+ball,2,15.4,China,Shenjian Zheng,Deng Jinqi,MM Siddique,1,0,,,,,,"",""
+ball,2,15.5,China,Deng Jinqi,Shenjian Zheng,MM Siddique,1,0,,,,,,"",""
+ball,2,15.6,China,Shenjian Zheng,Deng Jinqi,MM Siddique,0,0,,,,,,"",""
+ball,2,16.1,China,Deng Jinqi,Shenjian Zheng,I Takahashi,0,1,1,,,,,"",""
+ball,2,16.2,China,Deng Jinqi,Shenjian Zheng,I Takahashi,0,1,1,,,,,"",""
+ball,2,16.3,China,Deng Jinqi,Shenjian Zheng,I Takahashi,0,0,,,,,,"",""
+ball,2,16.4,China,Deng Jinqi,Shenjian Zheng,I Takahashi,1,0,,,,,,"",""
+ball,2,16.5,China,Shenjian Zheng,Deng Jinqi,I Takahashi,6,0,,,,,,"",""
+ball,2,16.6,China,Shenjian Zheng,Deng Jinqi,I Takahashi,2,0,,,,,,"",""
+ball,2,16.7,China,Shenjian Zheng,Deng Jinqi,I Takahashi,2,0,,,,,,"",""
+ball,2,16.8,China,Shenjian Zheng,Deng Jinqi,I Takahashi,1,0,,,,,,"",""
+ball,2,17.1,China,Shenjian Zheng,Deng Jinqi,MM Siddique,4,0,,,,,,"",""
+ball,2,17.2,China,Shenjian Zheng,Deng Jinqi,MM Siddique,1,0,,,,,,"",""
+ball,2,17.3,China,Deng Jinqi,Shenjian Zheng,MM Siddique,1,0,,,,,,"",""
+ball,2,17.4,China,Shenjian Zheng,Deng Jinqi,MM Siddique,0,0,,,,,,"",""
+ball,2,17.5,China,Shenjian Zheng,Deng Jinqi,MM Siddique,6,0,,,,,,"",""
+ball,2,17.6,China,Shenjian Zheng,Deng Jinqi,MM Siddique,0,0,,,,,,caught,Shenjian Zheng
+ball,2,18.1,China,Deng Jinqi,Chen Zhuo Yue,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,18.2,China,Deng Jinqi,Chen Zhuo Yue,K Kato-Stafford,0,0,,,,,,"",""
+ball,2,18.3,China,Deng Jinqi,Chen Zhuo Yue,K Kato-Stafford,2,0,,,,,,"",""
+ball,2,18.4,China,Deng Jinqi,Chen Zhuo Yue,K Kato-Stafford,1,0,,,,,,run out,Chen Zhuo Yue
+ball,2,18.5,China,Deng Jinqi,Zong Yuechao,K Kato-Stafford,2,0,,,,,,"",""
+ball,2,18.6,China,Deng Jinqi,Zong Yuechao,K Kato-Stafford,1,0,,,,,,"",""
+ball,2,19.1,China,Deng Jinqi,Zong Yuechao,R Drake,4,0,,,,,,"",""
+ball,2,19.2,China,Deng Jinqi,Zong Yuechao,R Drake,0,1,,,,1,,"",""
+ball,2,19.3,China,Zong Yuechao,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,19.4,China,Zong Yuechao,Deng Jinqi,R Drake,0,0,,,,,,caught,Zong Yuechao
+ball,2,19.5,China,Zou Kui,Deng Jinqi,R Drake,0,0,,,,,,"",""
+ball,2,19.6,China,Zou Kui,Deng Jinqi,R Drake,2,0,,,,,,run out,Deng Jinqi

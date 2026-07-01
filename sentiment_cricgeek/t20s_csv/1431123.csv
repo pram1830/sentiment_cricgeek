@@ -1,0 +1,176 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mongolia
+info,team,Japan
+info,gender,male
+info,season,2024
+info,date,2024/05/09
+info,date,2024/05/10
+info,event,Mongolia tour of Japan
+info,match_number,4
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Mongolia
+info,toss_decision,bat
+info,player_of_match,M Taniyama
+info,umpire,Adam Birss
+info,umpire,R Newman
+info,winner,Japan
+info,winner_wickets,10
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,B Namsrai
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,E Otgonbayar
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,T Sumiya
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,Z Shurentsetseg
+info,player,Mongolia,N Naranbaatar
+info,player,Mongolia,B Terbish
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,D Suzuki
+info,player,Japan,W Miyauchi
+info,player,Japan,KH Abe
+info,player,Japan,S Ravichandran
+info,player,Japan,Abdul Samad
+info,player,Japan,B Ito-Davis
+info,player,Japan,K Lake
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,K Kato-Stafford
+info,player,Japan,M Taniyama
+info,registry,people,Abdul Samad,21dbacff
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,B Ito-Davis,96275259
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,B Terbish,30c884c8
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,E Otgonbayar,3f9783fd
+info,registry,people,G Ganbold,947346d8
+info,registry,people,K Kato-Stafford,e03ca117
+info,registry,people,K Lake,20321b0c
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,N Naranbaatar,b0e16d9b
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,R Newman,5a8f8619
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Sumiya,ae19375d
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,Z Shurentsetseg,45c6afaf
+ball,1,0.1,Mongolia,G Ganbold,B Namsrai,K Kato-Stafford,1,0,,,,,,"",""
+ball,1,0.2,Mongolia,B Namsrai,G Ganbold,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,0.3,Mongolia,B Namsrai,G Ganbold,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,0.4,Mongolia,B Namsrai,G Ganbold,K Kato-Stafford,0,0,,,,,,lbw,B Namsrai
+ball,1,0.5,Mongolia,M Vivekanandan,G Ganbold,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,0.6,Mongolia,M Vivekanandan,G Ganbold,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,1.1,Mongolia,G Ganbold,M Vivekanandan,K Lake,1,0,,,,,,"",""
+ball,1,1.2,Mongolia,M Vivekanandan,G Ganbold,K Lake,1,0,,,,,,"",""
+ball,1,1.3,Mongolia,G Ganbold,M Vivekanandan,K Lake,0,0,,,,,,"",""
+ball,1,1.4,Mongolia,G Ganbold,M Vivekanandan,K Lake,1,0,,,,,,"",""
+ball,1,1.5,Mongolia,M Vivekanandan,G Ganbold,K Lake,0,1,1,,,,,"",""
+ball,1,1.6,Mongolia,M Vivekanandan,G Ganbold,K Lake,0,0,,,,,,"",""
+ball,1,1.7,Mongolia,M Vivekanandan,G Ganbold,K Lake,0,0,,,,,,"",""
+ball,1,2.1,Mongolia,G Ganbold,M Vivekanandan,R Sakurano-Thomas,0,0,,,,,,caught,G Ganbold
+ball,1,2.2,Mongolia,E Otgonbayar,M Vivekanandan,R Sakurano-Thomas,0,1,1,,,,,"",""
+ball,1,2.3,Mongolia,E Otgonbayar,M Vivekanandan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,2.4,Mongolia,E Otgonbayar,M Vivekanandan,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,1,2.5,Mongolia,M Vivekanandan,E Otgonbayar,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,2.6,Mongolia,M Vivekanandan,E Otgonbayar,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,2.7,Mongolia,M Vivekanandan,E Otgonbayar,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,3.1,Mongolia,E Otgonbayar,M Vivekanandan,Abdul Samad,0,0,,,,,,"",""
+ball,1,3.2,Mongolia,E Otgonbayar,M Vivekanandan,Abdul Samad,1,0,,,,,,"",""
+ball,1,3.3,Mongolia,M Vivekanandan,E Otgonbayar,Abdul Samad,0,0,,,,,,"",""
+ball,1,3.4,Mongolia,M Vivekanandan,E Otgonbayar,Abdul Samad,0,0,,,,,,"",""
+ball,1,3.5,Mongolia,M Vivekanandan,E Otgonbayar,Abdul Samad,0,0,,,,,,"",""
+ball,1,3.6,Mongolia,M Vivekanandan,E Otgonbayar,Abdul Samad,1,0,,,,,,"",""
+ball,1,4.1,Mongolia,M Vivekanandan,E Otgonbayar,D Suzuki,0,0,,,,,,"",""
+ball,1,4.2,Mongolia,M Vivekanandan,E Otgonbayar,D Suzuki,0,0,,,,,,"",""
+ball,1,4.3,Mongolia,M Vivekanandan,E Otgonbayar,D Suzuki,0,0,,,,,,"",""
+ball,1,4.4,Mongolia,M Vivekanandan,E Otgonbayar,D Suzuki,4,0,,,,,,"",""
+ball,1,4.5,Mongolia,M Vivekanandan,E Otgonbayar,D Suzuki,0,0,,,,,,"",""
+ball,1,4.6,Mongolia,M Vivekanandan,E Otgonbayar,D Suzuki,0,0,,,,,,"",""
+ball,1,5.1,Mongolia,E Otgonbayar,M Vivekanandan,S Ravichandran,0,0,,,,,,"",""
+ball,1,5.2,Mongolia,E Otgonbayar,M Vivekanandan,S Ravichandran,2,0,,,,,,"",""
+ball,1,5.3,Mongolia,E Otgonbayar,M Vivekanandan,S Ravichandran,0,0,,,,,,"",""
+ball,1,5.4,Mongolia,E Otgonbayar,M Vivekanandan,S Ravichandran,0,0,,,,,,"",""
+ball,1,5.5,Mongolia,E Otgonbayar,M Vivekanandan,S Ravichandran,1,0,,,,,,"",""
+ball,1,5.6,Mongolia,M Vivekanandan,E Otgonbayar,S Ravichandran,0,0,,,,,,lbw,M Vivekanandan
+ball,1,6.1,Mongolia,E Otgonbayar,T Amarmend,K Lake,0,0,,,,,,"",""
+ball,1,6.2,Mongolia,E Otgonbayar,T Amarmend,K Lake,2,0,,,,,,"",""
+ball,1,6.3,Mongolia,E Otgonbayar,T Amarmend,K Lake,0,0,,,,,,"",""
+ball,1,6.4,Mongolia,E Otgonbayar,T Amarmend,K Lake,0,0,,,,,,caught,E Otgonbayar
+ball,1,6.5,Mongolia,O Lutbayar,T Amarmend,K Lake,0,0,,,,,,"",""
+ball,1,6.6,Mongolia,O Lutbayar,T Amarmend,K Lake,0,0,,,,,,"",""
+ball,1,7.1,Mongolia,T Amarmend,O Lutbayar,M Taniyama,0,0,,,,,,"",""
+ball,1,7.2,Mongolia,T Amarmend,O Lutbayar,M Taniyama,0,0,,,,,,"",""
+ball,1,7.3,Mongolia,T Amarmend,O Lutbayar,M Taniyama,0,0,,,,,,"",""
+ball,1,7.4,Mongolia,T Amarmend,O Lutbayar,M Taniyama,0,0,,,,,,"",""
+ball,1,7.5,Mongolia,T Amarmend,O Lutbayar,M Taniyama,0,0,,,,,,caught,T Amarmend
+ball,1,7.6,Mongolia,T Sumiya,O Lutbayar,M Taniyama,0,0,,,,,,"",""
+ball,1,8.1,Mongolia,O Lutbayar,T Sumiya,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,8.2,Mongolia,O Lutbayar,T Sumiya,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,8.3,Mongolia,O Lutbayar,T Sumiya,K Kato-Stafford,1,0,,,,,,"",""
+ball,1,8.4,Mongolia,T Sumiya,O Lutbayar,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,8.5,Mongolia,T Sumiya,O Lutbayar,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,8.6,Mongolia,T Sumiya,O Lutbayar,K Kato-Stafford,0,0,,,,,,"",""
+ball,1,9.1,Mongolia,O Lutbayar,T Sumiya,M Taniyama,0,0,,,,,,"",""
+ball,1,9.2,Mongolia,O Lutbayar,T Sumiya,M Taniyama,0,0,,,,,,"",""
+ball,1,9.3,Mongolia,O Lutbayar,T Sumiya,M Taniyama,0,0,,,,,,"",""
+ball,1,9.4,Mongolia,O Lutbayar,T Sumiya,M Taniyama,0,0,,,,,,stumped,O Lutbayar
+ball,1,9.5,Mongolia,L Erdenebulgan,T Sumiya,M Taniyama,0,0,,,,,,"",""
+ball,1,9.6,Mongolia,L Erdenebulgan,T Sumiya,M Taniyama,0,0,,,,,,"",""
+ball,1,10.1,Mongolia,T Sumiya,L Erdenebulgan,D Suzuki,0,0,,,,,,"",""
+ball,1,10.2,Mongolia,T Sumiya,L Erdenebulgan,D Suzuki,0,0,,,,,,"",""
+ball,1,10.3,Mongolia,T Sumiya,L Erdenebulgan,D Suzuki,0,0,,,,,,"",""
+ball,1,10.4,Mongolia,T Sumiya,L Erdenebulgan,D Suzuki,0,0,,,,,,"",""
+ball,1,10.5,Mongolia,T Sumiya,L Erdenebulgan,D Suzuki,0,0,,,,,,"",""
+ball,1,10.6,Mongolia,T Sumiya,L Erdenebulgan,D Suzuki,0,0,,,,,,caught,T Sumiya
+ball,1,11.1,Mongolia,L Erdenebulgan,Z Shurentsetseg,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,11.2,Mongolia,L Erdenebulgan,Z Shurentsetseg,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,11.3,Mongolia,L Erdenebulgan,Z Shurentsetseg,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,11.4,Mongolia,L Erdenebulgan,Z Shurentsetseg,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,11.5,Mongolia,L Erdenebulgan,Z Shurentsetseg,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,1,11.6,Mongolia,L Erdenebulgan,Z Shurentsetseg,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,1,12.1,Mongolia,L Erdenebulgan,Z Shurentsetseg,Abdul Samad,0,1,1,,,,,"",""
+ball,1,12.2,Mongolia,L Erdenebulgan,Z Shurentsetseg,Abdul Samad,0,0,,,,,,"",""
+ball,1,12.3,Mongolia,L Erdenebulgan,Z Shurentsetseg,Abdul Samad,0,0,,,,,,"",""
+ball,1,12.4,Mongolia,L Erdenebulgan,Z Shurentsetseg,Abdul Samad,0,0,,,,,,"",""
+ball,1,12.5,Mongolia,L Erdenebulgan,Z Shurentsetseg,Abdul Samad,0,0,,,,,,"",""
+ball,1,12.6,Mongolia,L Erdenebulgan,Z Shurentsetseg,Abdul Samad,0,0,,,,,,"",""
+ball,1,12.7,Mongolia,L Erdenebulgan,Z Shurentsetseg,Abdul Samad,0,0,,,,,,"",""
+ball,1,13.1,Mongolia,Z Shurentsetseg,L Erdenebulgan,S Ravichandran,0,0,,,,,,"",""
+ball,1,13.2,Mongolia,Z Shurentsetseg,L Erdenebulgan,S Ravichandran,0,0,,,,,,"",""
+ball,1,13.3,Mongolia,Z Shurentsetseg,L Erdenebulgan,S Ravichandran,0,0,,,,,,"",""
+ball,1,13.4,Mongolia,Z Shurentsetseg,L Erdenebulgan,S Ravichandran,0,0,,,,,,"",""
+ball,1,13.5,Mongolia,Z Shurentsetseg,L Erdenebulgan,S Ravichandran,0,0,,,,,,"",""
+ball,1,13.6,Mongolia,Z Shurentsetseg,L Erdenebulgan,S Ravichandran,0,0,,,,,,"",""
+ball,1,14.1,Mongolia,L Erdenebulgan,Z Shurentsetseg,K Lake,0,1,1,,,,,"",""
+ball,1,14.2,Mongolia,L Erdenebulgan,Z Shurentsetseg,K Lake,0,1,,,,1,,"",""
+ball,1,14.3,Mongolia,Z Shurentsetseg,L Erdenebulgan,K Lake,0,1,1,,,,,"",""
+ball,1,14.4,Mongolia,Z Shurentsetseg,L Erdenebulgan,K Lake,0,1,1,,,,,"",""
+ball,1,14.5,Mongolia,Z Shurentsetseg,L Erdenebulgan,K Lake,0,0,,,,,,"",""
+ball,1,14.6,Mongolia,Z Shurentsetseg,L Erdenebulgan,K Lake,0,0,,,,,,caught,Z Shurentsetseg
+ball,1,14.7,Mongolia,N Naranbaatar,L Erdenebulgan,K Lake,0,0,,,,,,"",""
+ball,1,14.8,Mongolia,N Naranbaatar,L Erdenebulgan,K Lake,0,1,1,,,,,"",""
+ball,1,14.9,Mongolia,N Naranbaatar,L Erdenebulgan,K Lake,0,0,,,,,,"",""
+ball,1,14.10,Mongolia,N Naranbaatar,L Erdenebulgan,K Lake,0,0,,,,,,"",""
+ball,1,15.1,Mongolia,L Erdenebulgan,N Naranbaatar,B Ito-Davis,0,0,,,,,,bowled,L Erdenebulgan
+ball,1,15.2,Mongolia,B Terbish,N Naranbaatar,B Ito-Davis,0,0,,,,,,lbw,B Terbish
+ball,2,0.1,Japan,L Yamamoto-Lake,D Suzuki,M Vivekanandan,0,1,1,,,,,"",""
+ball,2,0.2,Japan,L Yamamoto-Lake,D Suzuki,M Vivekanandan,2,0,,,,,,"",""
+ball,2,0.3,Japan,L Yamamoto-Lake,D Suzuki,M Vivekanandan,2,0,,,,,,"",""
+ball,2,0.4,Japan,L Yamamoto-Lake,D Suzuki,M Vivekanandan,2,0,,,,,,"",""
+ball,2,0.5,Japan,L Yamamoto-Lake,D Suzuki,M Vivekanandan,4,0,,,,,,"",""
+ball,2,0.6,Japan,L Yamamoto-Lake,D Suzuki,M Vivekanandan,4,0,,,,,,"",""
+ball,2,0.7,Japan,L Yamamoto-Lake,D Suzuki,M Vivekanandan,4,0,,,,,,"",""
+ball,2,1.1,Japan,D Suzuki,L Yamamoto-Lake,T Amarmend,0,1,1,,,,,"",""
+ball,2,1.2,Japan,D Suzuki,L Yamamoto-Lake,T Amarmend,4,0,,,,,,"",""
+ball,2,1.3,Japan,D Suzuki,L Yamamoto-Lake,T Amarmend,0,1,1,,,,,"",""
+ball,2,1.4,Japan,D Suzuki,L Yamamoto-Lake,T Amarmend,0,1,1,,,,,"",""
+ball,2,1.5,Japan,D Suzuki,L Yamamoto-Lake,T Amarmend,1,0,,,,,,"",""

@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Netherlands
+info,gender,male
+info,season,2022/23
+info,date,2022/10/27
+info,event,ICC Men's T20 World Cup
+info,match_number,23
+info,venue,Sydney Cricket Ground
+info,city,Sydney
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,SA Yadav
+info,umpire,Ahsan Raza
+info,umpire,MA Gough
+info,reserve_umpire,L Rusere
+info,tv_umpire,RJ Tucker
+info,match_referee,BC Broad
+info,winner,India
+info,winner_runs,56
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,AR Patel
+info,player,India,HH Pandya
+info,player,India,KD Karthik
+info,player,India,R Ashwin
+info,player,India,Mohammed Shami
+info,player,India,B Kumar
+info,player,India,Arshdeep Singh
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,CN Ackermann
+info,player,Netherlands,TLW Cooper
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,TJG Pringle
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,Shariz Ahmad
+info,player,Netherlands,FJ Klaassen
+info,player,Netherlands,PA van Meekeren
+info,registry,people,AR Patel,2e171977
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shariz Ahmad,7595b47f
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,TLW Cooper,2318ba22
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Vikramjit Singh,2a9eee66
+ball,1,0.1,India,KL Rahul,RG Sharma,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.2,India,KL Rahul,RG Sharma,FJ Klaassen,0,1,1,,,,,"",""
+ball,1,0.3,India,KL Rahul,RG Sharma,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.4,India,KL Rahul,RG Sharma,FJ Klaassen,4,0,,,,,,"",""
+ball,1,0.5,India,KL Rahul,RG Sharma,FJ Klaassen,2,0,,,,,,"",""
+ball,1,0.6,India,KL Rahul,RG Sharma,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.7,India,KL Rahul,RG Sharma,FJ Klaassen,0,0,,,,,,"",""
+ball,1,1.1,India,RG Sharma,KL Rahul,TJG Pringle,0,0,,,,,,"",""
+ball,1,1.2,India,RG Sharma,KL Rahul,TJG Pringle,1,0,,,,,,"",""
+ball,1,1.3,India,KL Rahul,RG Sharma,TJG Pringle,0,0,,,,,,"",""
+ball,1,1.4,India,KL Rahul,RG Sharma,TJG Pringle,1,0,,,,,,"",""
+ball,1,1.5,India,RG Sharma,KL Rahul,TJG Pringle,0,0,,,,,,"",""
+ball,1,1.6,India,RG Sharma,KL Rahul,TJG Pringle,0,0,,,,,,"",""
+ball,1,2.1,India,KL Rahul,RG Sharma,PA van Meekeren,2,0,,,,,,"",""
+ball,1,2.2,India,KL Rahul,RG Sharma,PA van Meekeren,0,0,,,,,,"",""
+ball,1,2.3,India,KL Rahul,RG Sharma,PA van Meekeren,0,0,,,,,,"",""
+ball,1,2.4,India,KL Rahul,RG Sharma,PA van Meekeren,0,0,,,,,,lbw,KL Rahul
+ball,1,2.5,India,V Kohli,RG Sharma,PA van Meekeren,1,0,,,,,,"",""
+ball,1,2.6,India,RG Sharma,V Kohli,PA van Meekeren,6,0,,,,,,"",""
+ball,1,3.1,India,V Kohli,RG Sharma,BFW de Leede,1,0,,,,,,"",""
+ball,1,3.2,India,RG Sharma,V Kohli,BFW de Leede,0,0,,,,,,"",""
+ball,1,3.3,India,RG Sharma,V Kohli,BFW de Leede,4,0,,,,,,"",""
+ball,1,3.4,India,RG Sharma,V Kohli,BFW de Leede,0,0,,,,,,"",""
+ball,1,3.5,India,RG Sharma,V Kohli,BFW de Leede,0,0,,,,,,"",""
+ball,1,3.6,India,RG Sharma,V Kohli,BFW de Leede,0,0,,,,,,"",""
+ball,1,4.1,India,V Kohli,RG Sharma,FJ Klaassen,0,0,,,,,,"",""
+ball,1,4.2,India,V Kohli,RG Sharma,FJ Klaassen,1,0,,,,,,"",""
+ball,1,4.3,India,RG Sharma,V Kohli,FJ Klaassen,2,0,,,,,,"",""
+ball,1,4.4,India,RG Sharma,V Kohli,FJ Klaassen,0,0,,,,,,"",""
+ball,1,4.5,India,RG Sharma,V Kohli,FJ Klaassen,0,0,,,,,,"",""
+ball,1,4.6,India,RG Sharma,V Kohli,FJ Klaassen,2,0,,,,,,"",""
+ball,1,5.1,India,V Kohli,RG Sharma,PA van Meekeren,0,0,,,,,,"",""
+ball,1,5.2,India,V Kohli,RG Sharma,PA van Meekeren,2,0,,,,,,"",""
+ball,1,5.3,India,V Kohli,RG Sharma,PA van Meekeren,1,0,,,,,,"",""
+ball,1,5.4,India,RG Sharma,V Kohli,PA van Meekeren,0,0,,,,,,"",""
+ball,1,5.5,India,RG Sharma,V Kohli,PA van Meekeren,1,0,,,,,,"",""
+ball,1,5.6,India,V Kohli,RG Sharma,PA van Meekeren,0,0,,,,,,"",""
+ball,1,6.1,India,RG Sharma,V Kohli,TJG Pringle,1,0,,,,,,"",""
+ball,1,6.2,India,V Kohli,RG Sharma,TJG Pringle,1,0,,,,,,"",""
+ball,1,6.3,India,RG Sharma,V Kohli,TJG Pringle,0,0,,,,,,"",""
+ball,1,6.4,India,RG Sharma,V Kohli,TJG Pringle,2,0,,,,,,"",""
+ball,1,6.5,India,RG Sharma,V Kohli,TJG Pringle,1,0,,,,,,"",""
+ball,1,6.6,India,V Kohli,RG Sharma,TJG Pringle,1,0,,,,,,"",""
+ball,1,7.1,India,V Kohli,RG Sharma,LV van Beek,1,0,,,,,,"",""
+ball,1,7.2,India,RG Sharma,V Kohli,LV van Beek,1,0,,,,,,"",""
+ball,1,7.3,India,V Kohli,RG Sharma,LV van Beek,1,0,,,,,,"",""
+ball,1,7.4,India,RG Sharma,V Kohli,LV van Beek,6,0,,,,,,"",""
+ball,1,7.5,India,RG Sharma,V Kohli,LV van Beek,0,0,,,,,,"",""
+ball,1,7.6,India,RG Sharma,V Kohli,LV van Beek,1,0,,,,,,"",""
+ball,1,8.1,India,RG Sharma,V Kohli,Shariz Ahmad,0,0,,,,,,"",""
+ball,1,8.2,India,RG Sharma,V Kohli,Shariz Ahmad,1,0,,,,,,"",""
+ball,1,8.3,India,V Kohli,RG Sharma,Shariz Ahmad,2,0,,,,,,"",""
+ball,1,8.4,India,V Kohli,RG Sharma,Shariz Ahmad,0,0,,,,,,"",""
+ball,1,8.5,India,V Kohli,RG Sharma,Shariz Ahmad,1,0,,,,,,"",""
+ball,1,8.6,India,RG Sharma,V Kohli,Shariz Ahmad,1,0,,,,,,"",""
+ball,1,9.1,India,RG Sharma,V Kohli,BFW de Leede,0,0,,,,,,"",""
+ball,1,9.2,India,RG Sharma,V Kohli,BFW de Leede,4,0,,,,,,"",""
+ball,1,9.3,India,RG Sharma,V Kohli,BFW de Leede,6,0,,,,,,"",""
+ball,1,9.4,India,RG Sharma,V Kohli,BFW de Leede,1,0,,,,,,"",""
+ball,1,9.5,India,V Kohli,RG Sharma,BFW de Leede,1,0,,,,,,"",""
+ball,1,9.6,India,RG Sharma,V Kohli,BFW de Leede,0,1,1,,,,,"",""
+ball,1,9.7,India,RG Sharma,V Kohli,BFW de Leede,1,0,,,,,,"",""
+ball,1,10.1,India,RG Sharma,V Kohli,TJG Pringle,1,0,,,,,,"",""
+ball,1,10.2,India,V Kohli,RG Sharma,TJG Pringle,0,0,,,,,,"",""
+ball,1,10.3,India,V Kohli,RG Sharma,TJG Pringle,1,0,,,,,,"",""
+ball,1,10.4,India,RG Sharma,V Kohli,TJG Pringle,4,0,,,,,,"",""
+ball,1,10.5,India,RG Sharma,V Kohli,TJG Pringle,4,0,,,,,,"",""
+ball,1,10.6,India,RG Sharma,V Kohli,TJG Pringle,1,0,,,,,,"",""
+ball,1,11.1,India,RG Sharma,V Kohli,FJ Klaassen,0,1,,,,1,,"",""
+ball,1,11.2,India,V Kohli,RG Sharma,FJ Klaassen,1,0,,,,,,"",""
+ball,1,11.3,India,RG Sharma,V Kohli,FJ Klaassen,1,0,,,,,,"",""
+ball,1,11.4,India,V Kohli,RG Sharma,FJ Klaassen,2,0,,,,,,"",""
+ball,1,11.5,India,V Kohli,RG Sharma,FJ Klaassen,1,0,,,,,,"",""
+ball,1,11.6,India,RG Sharma,V Kohli,FJ Klaassen,0,0,,,,,,caught,RG Sharma
+ball,1,12.1,India,V Kohli,SA Yadav,TJG Pringle,4,0,,,,,,"",""
+ball,1,12.2,India,V Kohli,SA Yadav,TJG Pringle,1,0,,,,,,"",""
+ball,1,12.3,India,SA Yadav,V Kohli,TJG Pringle,1,0,,,,,,"",""
+ball,1,12.4,India,V Kohli,SA Yadav,TJG Pringle,2,0,,,,,,"",""
+ball,1,12.5,India,V Kohli,SA Yadav,TJG Pringle,1,0,,,,,,"",""
+ball,1,12.6,India,SA Yadav,V Kohli,TJG Pringle,2,0,,,,,,"",""
+ball,1,13.1,India,V Kohli,SA Yadav,PA van Meekeren,1,0,,,,,,"",""
+ball,1,13.2,India,SA Yadav,V Kohli,PA van Meekeren,4,0,,,,,,"",""
+ball,1,13.3,India,SA Yadav,V Kohli,PA van Meekeren,4,0,,,,,,"",""
+ball,1,13.4,India,SA Yadav,V Kohli,PA van Meekeren,0,0,,,,,,"",""
+ball,1,13.5,India,SA Yadav,V Kohli,PA van Meekeren,1,0,,,,,,"",""
+ball,1,13.6,India,V Kohli,SA Yadav,PA van Meekeren,1,0,,,,,,"",""
+ball,1,14.1,India,V Kohli,SA Yadav,LV van Beek,1,0,,,,,,"",""
+ball,1,14.2,India,SA Yadav,V Kohli,LV van Beek,0,0,,,,,,"",""
+ball,1,14.3,India,SA Yadav,V Kohli,LV van Beek,4,0,,,,,,"",""
+ball,1,14.4,India,SA Yadav,V Kohli,LV van Beek,1,0,,,,,,"",""
+ball,1,14.5,India,V Kohli,SA Yadav,LV van Beek,0,0,,,,,,"",""
+ball,1,14.6,India,V Kohli,SA Yadav,LV van Beek,2,0,,,,,,"",""
+ball,1,15.1,India,SA Yadav,V Kohli,BFW de Leede,4,0,,,,,,"",""
+ball,1,15.2,India,SA Yadav,V Kohli,BFW de Leede,4,0,,,,,,"",""
+ball,1,15.3,India,SA Yadav,V Kohli,BFW de Leede,1,0,,,,,,"",""
+ball,1,15.4,India,V Kohli,SA Yadav,BFW de Leede,4,0,,,,,,"",""
+ball,1,15.5,India,V Kohli,SA Yadav,BFW de Leede,0,0,,,,,,"",""
+ball,1,15.6,India,V Kohli,SA Yadav,BFW de Leede,1,0,,,,,,"",""
+ball,1,16.1,India,V Kohli,SA Yadav,FJ Klaassen,0,1,1,,,,,"",""
+ball,1,16.2,India,V Kohli,SA Yadav,FJ Klaassen,2,0,,,,,,"",""
+ball,1,16.3,India,V Kohli,SA Yadav,FJ Klaassen,4,0,,,,,,"",""
+ball,1,16.4,India,V Kohli,SA Yadav,FJ Klaassen,6,0,,,,,,"",""
+ball,1,16.5,India,V Kohli,SA Yadav,FJ Klaassen,1,0,,,,,,"",""
+ball,1,16.6,India,SA Yadav,V Kohli,FJ Klaassen,1,0,,,,,,"",""
+ball,1,16.7,India,V Kohli,SA Yadav,FJ Klaassen,1,0,,,,,,"",""
+ball,1,17.1,India,V Kohli,SA Yadav,LV van Beek,1,0,,,,,,"",""
+ball,1,17.2,India,SA Yadav,V Kohli,LV van Beek,2,0,,,,,,"",""
+ball,1,17.3,India,SA Yadav,V Kohli,LV van Beek,1,0,,,,,,"",""
+ball,1,17.4,India,V Kohli,SA Yadav,LV van Beek,1,0,,,,,,"",""
+ball,1,17.5,India,SA Yadav,V Kohli,LV van Beek,4,0,,,,,,"",""
+ball,1,17.6,India,SA Yadav,V Kohli,LV van Beek,1,0,,,,,,"",""
+ball,1,18.1,India,SA Yadav,V Kohli,PA van Meekeren,4,0,,,,,,"",""
+ball,1,18.2,India,SA Yadav,V Kohli,PA van Meekeren,0,0,,,,,,"",""
+ball,1,18.3,India,SA Yadav,V Kohli,PA van Meekeren,2,0,,,,,,"",""
+ball,1,18.4,India,SA Yadav,V Kohli,PA van Meekeren,1,0,,,,,,"",""
+ball,1,18.5,India,V Kohli,SA Yadav,PA van Meekeren,1,0,,,,,,"",""
+ball,1,18.6,India,SA Yadav,V Kohli,PA van Meekeren,0,0,,,,,,"",""
+ball,1,19.1,India,V Kohli,SA Yadav,LV van Beek,1,0,,,,,,"",""
+ball,1,19.2,India,SA Yadav,V Kohli,LV van Beek,2,0,,,,,,"",""
+ball,1,19.3,India,SA Yadav,V Kohli,LV van Beek,1,0,,,,,,"",""
+ball,1,19.4,India,V Kohli,SA Yadav,LV van Beek,6,0,,,,,,"",""
+ball,1,19.5,India,V Kohli,SA Yadav,LV van Beek,1,0,,,,,,"",""
+ball,1,19.6,India,SA Yadav,V Kohli,LV van Beek,6,0,,,,,,"",""
+ball,2,0.1,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,0.2,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,0.3,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,0.4,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,0.5,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,0.6,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,1.1,Netherlands,MP O'Dowd,Vikramjit Singh,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.2,Netherlands,MP O'Dowd,Vikramjit Singh,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.3,Netherlands,MP O'Dowd,Vikramjit Singh,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.4,Netherlands,MP O'Dowd,Vikramjit Singh,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,1.5,Netherlands,MP O'Dowd,Vikramjit Singh,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.6,Netherlands,MP O'Dowd,Vikramjit Singh,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.7,Netherlands,Vikramjit Singh,MP O'Dowd,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,2.1,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,2.2,Netherlands,Vikramjit Singh,MP O'Dowd,B Kumar,0,0,,,,,,bowled,Vikramjit Singh
+ball,2,2.3,Netherlands,BFW de Leede,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,2.4,Netherlands,BFW de Leede,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,2.5,Netherlands,BFW de Leede,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,2.6,Netherlands,BFW de Leede,MP O'Dowd,B Kumar,0,0,,,,,,"",""
+ball,2,3.1,Netherlands,MP O'Dowd,BFW de Leede,Mohammed Shami,1,0,,,,,,"",""
+ball,2,3.2,Netherlands,BFW de Leede,MP O'Dowd,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.3,Netherlands,BFW de Leede,MP O'Dowd,Mohammed Shami,1,0,,,,,,"",""
+ball,2,3.4,Netherlands,MP O'Dowd,BFW de Leede,Mohammed Shami,4,0,,,,,,"",""
+ball,2,3.5,Netherlands,MP O'Dowd,BFW de Leede,Mohammed Shami,0,0,,,,,,"",""
+ball,2,3.6,Netherlands,MP O'Dowd,BFW de Leede,Mohammed Shami,2,0,,,,,,"",""
+ball,2,4.1,Netherlands,BFW de Leede,MP O'Dowd,AR Patel,1,0,,,,,,"",""
+ball,2,4.2,Netherlands,MP O'Dowd,BFW de Leede,AR Patel,0,0,,,,,,bowled,MP O'Dowd
+ball,2,4.3,Netherlands,CN Ackermann,BFW de Leede,AR Patel,0,0,,,,,,"",""
+ball,2,4.4,Netherlands,CN Ackermann,BFW de Leede,AR Patel,1,0,,,,,,"",""
+ball,2,4.5,Netherlands,BFW de Leede,CN Ackermann,AR Patel,0,0,,,,,,"",""
+ball,2,4.6,Netherlands,BFW de Leede,CN Ackermann,AR Patel,1,0,,,,,,"",""
+ball,2,5.1,Netherlands,BFW de Leede,CN Ackermann,Mohammed Shami,0,0,,,,,,"",""
+ball,2,5.2,Netherlands,BFW de Leede,CN Ackermann,Mohammed Shami,1,0,,,,,,"",""
+ball,2,5.3,Netherlands,CN Ackermann,BFW de Leede,Mohammed Shami,1,0,,,,,,"",""
+ball,2,5.4,Netherlands,BFW de Leede,CN Ackermann,Mohammed Shami,0,0,,,,,,"",""
+ball,2,5.5,Netherlands,BFW de Leede,CN Ackermann,Mohammed Shami,3,0,,,,,,"",""
+ball,2,5.6,Netherlands,CN Ackermann,BFW de Leede,Mohammed Shami,0,0,,,,,,"",""
+ball,2,6.1,Netherlands,BFW de Leede,CN Ackermann,HH Pandya,1,0,,,,,,"",""
+ball,2,6.2,Netherlands,CN Ackermann,BFW de Leede,HH Pandya,0,0,,,,,,"",""
+ball,2,6.3,Netherlands,CN Ackermann,BFW de Leede,HH Pandya,2,0,,,,,,"",""
+ball,2,6.4,Netherlands,CN Ackermann,BFW de Leede,HH Pandya,1,0,,,,,,"",""
+ball,2,6.5,Netherlands,BFW de Leede,CN Ackermann,HH Pandya,0,1,1,,,,,"",""
+ball,2,6.6,Netherlands,BFW de Leede,CN Ackermann,HH Pandya,2,0,,,,,,"",""
+ball,2,6.7,Netherlands,BFW de Leede,CN Ackermann,HH Pandya,2,0,,,,,,"",""
+ball,2,7.1,Netherlands,CN Ackermann,BFW de Leede,AR Patel,1,0,,,,,,"",""
+ball,2,7.2,Netherlands,BFW de Leede,CN Ackermann,AR Patel,0,0,,,,,,"",""
+ball,2,7.3,Netherlands,BFW de Leede,CN Ackermann,AR Patel,2,0,,,,,,"",""
+ball,2,7.4,Netherlands,BFW de Leede,CN Ackermann,AR Patel,1,0,,,,,,"",""
+ball,2,7.5,Netherlands,CN Ackermann,BFW de Leede,AR Patel,0,0,,,,,,"",""
+ball,2,7.6,Netherlands,CN Ackermann,BFW de Leede,AR Patel,1,0,,,,,,"",""
+ball,2,8.1,Netherlands,CN Ackermann,BFW de Leede,R Ashwin,0,0,,,,,,"",""
+ball,2,8.2,Netherlands,CN Ackermann,BFW de Leede,R Ashwin,4,0,,,,,,"",""
+ball,2,8.3,Netherlands,CN Ackermann,BFW de Leede,R Ashwin,0,0,,,,,,"",""
+ball,2,8.4,Netherlands,CN Ackermann,BFW de Leede,R Ashwin,1,0,,,,,,"",""
+ball,2,8.5,Netherlands,BFW de Leede,CN Ackermann,R Ashwin,0,0,,,,,,"",""
+ball,2,8.6,Netherlands,BFW de Leede,CN Ackermann,R Ashwin,1,0,,,,,,"",""
+ball,2,9.1,Netherlands,BFW de Leede,CN Ackermann,AR Patel,0,0,,,,,,"",""
+ball,2,9.2,Netherlands,BFW de Leede,CN Ackermann,AR Patel,0,0,,,,,,caught,BFW de Leede
+ball,2,9.3,Netherlands,TLW Cooper,CN Ackermann,AR Patel,2,0,,,,,,"",""
+ball,2,9.4,Netherlands,TLW Cooper,CN Ackermann,AR Patel,1,0,,,,,,"",""
+ball,2,9.5,Netherlands,CN Ackermann,TLW Cooper,AR Patel,1,0,,,,,,"",""
+ball,2,9.6,Netherlands,TLW Cooper,CN Ackermann,AR Patel,0,0,,,,,,"",""
+ball,2,10.1,Netherlands,CN Ackermann,TLW Cooper,R Ashwin,1,0,,,,,,"",""
+ball,2,10.2,Netherlands,TLW Cooper,CN Ackermann,R Ashwin,0,0,,,,,,"",""
+ball,2,10.3,Netherlands,TLW Cooper,CN Ackermann,R Ashwin,1,0,,,,,,"",""
+ball,2,10.4,Netherlands,CN Ackermann,TLW Cooper,R Ashwin,2,0,,,,,,"",""
+ball,2,10.5,Netherlands,CN Ackermann,TLW Cooper,R Ashwin,0,0,,,,,,"",""
+ball,2,10.6,Netherlands,CN Ackermann,TLW Cooper,R Ashwin,0,1,1,,,,,"",""
+ball,2,10.7,Netherlands,CN Ackermann,TLW Cooper,R Ashwin,0,0,,,,,,"",""
+ball,2,11.1,Netherlands,TLW Cooper,CN Ackermann,AR Patel,3,0,,,,,,"",""
+ball,2,11.2,Netherlands,CN Ackermann,TLW Cooper,AR Patel,1,0,,,,,,"",""
+ball,2,11.3,Netherlands,TLW Cooper,CN Ackermann,AR Patel,0,0,,,,,,"",""
+ball,2,11.4,Netherlands,TLW Cooper,CN Ackermann,AR Patel,2,0,,,,,,"",""
+ball,2,11.5,Netherlands,TLW Cooper,CN Ackermann,AR Patel,0,0,,,,,,"",""
+ball,2,11.6,Netherlands,TLW Cooper,CN Ackermann,AR Patel,0,0,,,,,,"",""
+ball,2,12.1,Netherlands,CN Ackermann,TLW Cooper,R Ashwin,0,0,,,,,,caught,CN Ackermann
+ball,2,12.2,Netherlands,SA Edwards,TLW Cooper,R Ashwin,1,0,,,,,,"",""
+ball,2,12.3,Netherlands,TLW Cooper,SA Edwards,R Ashwin,0,0,,,,,,"",""
+ball,2,12.4,Netherlands,TLW Cooper,SA Edwards,R Ashwin,0,0,,,,,,caught,TLW Cooper
+ball,2,12.5,Netherlands,TJG Pringle,SA Edwards,R Ashwin,1,0,,,,,,"",""
+ball,2,12.6,Netherlands,SA Edwards,TJG Pringle,R Ashwin,0,0,,,,,,"",""
+ball,2,13.1,Netherlands,TJG Pringle,SA Edwards,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,13.2,Netherlands,TJG Pringle,SA Edwards,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,13.3,Netherlands,SA Edwards,TJG Pringle,Arshdeep Singh,0,1,,,,1,,"",""
+ball,2,13.4,Netherlands,TJG Pringle,SA Edwards,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,13.5,Netherlands,TJG Pringle,SA Edwards,Arshdeep Singh,1,1,,1,,,,"",""
+ball,2,13.6,Netherlands,SA Edwards,TJG Pringle,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,13.7,Netherlands,TJG Pringle,SA Edwards,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,14.1,Netherlands,SA Edwards,TJG Pringle,R Ashwin,1,0,,,,,,"",""
+ball,2,14.2,Netherlands,TJG Pringle,SA Edwards,R Ashwin,6,0,,,,,,"",""
+ball,2,14.3,Netherlands,TJG Pringle,SA Edwards,R Ashwin,0,0,,,,,,"",""
+ball,2,14.4,Netherlands,TJG Pringle,SA Edwards,R Ashwin,0,0,,,,,,"",""
+ball,2,14.5,Netherlands,TJG Pringle,SA Edwards,R Ashwin,0,0,,,,,,"",""
+ball,2,14.6,Netherlands,TJG Pringle,SA Edwards,R Ashwin,1,0,,,,,,"",""
+ball,2,15.1,Netherlands,TJG Pringle,SA Edwards,Mohammed Shami,2,0,,,,,,"",""
+ball,2,15.2,Netherlands,TJG Pringle,SA Edwards,Mohammed Shami,2,0,,,,,,"",""
+ball,2,15.3,Netherlands,TJG Pringle,SA Edwards,Mohammed Shami,2,0,,,,,,"",""
+ball,2,15.4,Netherlands,TJG Pringle,SA Edwards,Mohammed Shami,0,0,,,,,,caught,TJG Pringle
+ball,2,15.5,Netherlands,LV van Beek,SA Edwards,Mohammed Shami,0,0,,,,,,"",""
+ball,2,15.6,Netherlands,LV van Beek,SA Edwards,Mohammed Shami,0,0,,,,,,"",""
+ball,2,16.1,Netherlands,SA Edwards,LV van Beek,B Kumar,0,0,,,,,,"",""
+ball,2,16.2,Netherlands,SA Edwards,LV van Beek,B Kumar,2,0,,,,,,"",""
+ball,2,16.3,Netherlands,SA Edwards,LV van Beek,B Kumar,0,0,,,,,,caught,SA Edwards
+ball,2,16.4,Netherlands,Shariz Ahmad,LV van Beek,B Kumar,4,0,,,,,,"",""
+ball,2,16.5,Netherlands,Shariz Ahmad,LV van Beek,B Kumar,2,0,,,,,,"",""
+ball,2,16.6,Netherlands,Shariz Ahmad,LV van Beek,B Kumar,1,0,,,,,,"",""
+ball,2,17.1,Netherlands,Shariz Ahmad,LV van Beek,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,17.2,Netherlands,LV van Beek,Shariz Ahmad,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,17.3,Netherlands,Shariz Ahmad,LV van Beek,Arshdeep Singh,0,1,,,,1,,"",""
+ball,2,17.4,Netherlands,LV van Beek,Shariz Ahmad,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,17.5,Netherlands,LV van Beek,Shariz Ahmad,Arshdeep Singh,0,0,,,,,,caught,LV van Beek
+ball,2,17.6,Netherlands,FJ Klaassen,Shariz Ahmad,Arshdeep Singh,0,0,,,,,,lbw,FJ Klaassen
+ball,2,18.1,Netherlands,Shariz Ahmad,PA van Meekeren,Mohammed Shami,0,0,,,,,,"",""
+ball,2,18.2,Netherlands,Shariz Ahmad,PA van Meekeren,Mohammed Shami,1,0,,,,,,"",""
+ball,2,18.3,Netherlands,PA van Meekeren,Shariz Ahmad,Mohammed Shami,1,0,,,,,,"",""
+ball,2,18.4,Netherlands,Shariz Ahmad,PA van Meekeren,Mohammed Shami,0,0,,,,,,"",""
+ball,2,18.5,Netherlands,Shariz Ahmad,PA van Meekeren,Mohammed Shami,4,0,,,,,,"",""
+ball,2,18.6,Netherlands,Shariz Ahmad,PA van Meekeren,Mohammed Shami,2,0,,,,,,"",""
+ball,2,19.1,Netherlands,PA van Meekeren,Shariz Ahmad,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,19.2,Netherlands,PA van Meekeren,Shariz Ahmad,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.3,Netherlands,Shariz Ahmad,PA van Meekeren,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.4,Netherlands,PA van Meekeren,Shariz Ahmad,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,19.5,Netherlands,PA van Meekeren,Shariz Ahmad,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,19.6,Netherlands,PA van Meekeren,Shariz Ahmad,Arshdeep Singh,4,0,,,,,,"",""

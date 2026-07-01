@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Bangladesh
+info,gender,female
+info,season,2023/24
+info,date,2024/04/04
+info,event,Australia Women tour of Bangladesh
+info,match_number,3
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,TJ Vlaeminck
+info,umpire,Shathira Jakir
+info,umpire,VG Rathi
+info,reserve_umpire,Rokeya Sultana
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Akhtar Ahmad
+info,winner,Australia
+info,winner_runs,77
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,EA Perry
+info,player,Australia,A Gardner
+info,player,Australia,TM McGrath
+info,player,Australia,G Wareham
+info,player,Australia,GM Harris
+info,player,Australia,A Sutherland
+info,player,Australia,S Molineux
+info,player,Australia,ML Schutt
+info,player,Australia,TJ Vlaeminck
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Shorifa Khatun
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,player,Bangladesh,Fariha Trisna
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AJ Healy,321644de
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fariha Trisna,7b51bfa4
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GM Harris,72166006
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rokeya Sultana,20abf9b9
+info,registry,people,S Molineux,99e23670
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Shorifa Khatun,36d2face
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,TJ Vlaeminck,ef70a34b
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,VG Rathi,144e5b16
+ball,1,0.1,Australia,AJ Healy,BL Mooney,Marufa Akter,0,1,1,,,,,"",""
+ball,1,0.2,Australia,AJ Healy,BL Mooney,Marufa Akter,1,0,,,,,,"",""
+ball,1,0.3,Australia,BL Mooney,AJ Healy,Marufa Akter,4,0,,,,,,"",""
+ball,1,0.4,Australia,BL Mooney,AJ Healy,Marufa Akter,0,0,,,,,,"",""
+ball,1,0.5,Australia,BL Mooney,AJ Healy,Marufa Akter,1,0,,,,,,"",""
+ball,1,0.6,Australia,AJ Healy,BL Mooney,Marufa Akter,0,0,,,,,,"",""
+ball,1,0.7,Australia,AJ Healy,BL Mooney,Marufa Akter,0,0,,,,,,"",""
+ball,1,1.1,Australia,BL Mooney,AJ Healy,Shorifa Khatun,1,0,,,,,,"",""
+ball,1,1.2,Australia,AJ Healy,BL Mooney,Shorifa Khatun,0,0,,,,,,"",""
+ball,1,1.3,Australia,AJ Healy,BL Mooney,Shorifa Khatun,0,0,,,,,,"",""
+ball,1,1.4,Australia,AJ Healy,BL Mooney,Shorifa Khatun,0,0,,,,,,"",""
+ball,1,1.5,Australia,AJ Healy,BL Mooney,Shorifa Khatun,4,0,,,,,,"",""
+ball,1,1.6,Australia,AJ Healy,BL Mooney,Shorifa Khatun,1,0,,,,,,"",""
+ball,1,2.1,Australia,AJ Healy,BL Mooney,Fariha Trisna,6,0,,,,,,"",""
+ball,1,2.2,Australia,AJ Healy,BL Mooney,Fariha Trisna,1,0,,,,,,"",""
+ball,1,2.3,Australia,BL Mooney,AJ Healy,Fariha Trisna,0,0,,,,,,"",""
+ball,1,2.4,Australia,BL Mooney,AJ Healy,Fariha Trisna,1,0,,,,,,"",""
+ball,1,2.5,Australia,AJ Healy,BL Mooney,Fariha Trisna,0,0,,,,,,"",""
+ball,1,2.6,Australia,AJ Healy,BL Mooney,Fariha Trisna,1,0,,,,,,"",""
+ball,1,3.1,Australia,AJ Healy,BL Mooney,Marufa Akter,0,0,,,,,,"",""
+ball,1,3.2,Australia,AJ Healy,BL Mooney,Marufa Akter,4,0,,,,,,"",""
+ball,1,3.3,Australia,AJ Healy,BL Mooney,Marufa Akter,1,0,,,,,,"",""
+ball,1,3.4,Australia,BL Mooney,AJ Healy,Marufa Akter,1,0,,,,,,"",""
+ball,1,3.5,Australia,AJ Healy,BL Mooney,Marufa Akter,1,0,,,,,,"",""
+ball,1,3.6,Australia,BL Mooney,AJ Healy,Marufa Akter,1,0,,,,,,"",""
+ball,1,4.1,Australia,BL Mooney,AJ Healy,Fariha Trisna,1,0,,,,,,"",""
+ball,1,4.2,Australia,AJ Healy,BL Mooney,Fariha Trisna,1,0,,,,,,"",""
+ball,1,4.3,Australia,BL Mooney,AJ Healy,Fariha Trisna,0,0,,,,,,"",""
+ball,1,4.4,Australia,BL Mooney,AJ Healy,Fariha Trisna,0,0,,,,,,"",""
+ball,1,4.5,Australia,BL Mooney,AJ Healy,Fariha Trisna,0,1,,,1,,,"",""
+ball,1,4.6,Australia,AJ Healy,BL Mooney,Fariha Trisna,1,0,,,,,,"",""
+ball,1,5.1,Australia,AJ Healy,BL Mooney,Shorifa Khatun,4,0,,,,,,"",""
+ball,1,5.2,Australia,AJ Healy,BL Mooney,Shorifa Khatun,0,0,,,,,,"",""
+ball,1,5.3,Australia,AJ Healy,BL Mooney,Shorifa Khatun,1,0,,,,,,"",""
+ball,1,5.4,Australia,BL Mooney,AJ Healy,Shorifa Khatun,0,0,,,,,,stumped,BL Mooney
+ball,1,5.5,Australia,EA Perry,AJ Healy,Shorifa Khatun,0,0,,,,,,"",""
+ball,1,5.6,Australia,EA Perry,AJ Healy,Shorifa Khatun,1,0,,,,,,"",""
+ball,1,6.1,Australia,EA Perry,AJ Healy,Fariha Trisna,1,0,,,,,,"",""
+ball,1,6.2,Australia,AJ Healy,EA Perry,Fariha Trisna,4,0,,,,,,"",""
+ball,1,6.3,Australia,AJ Healy,EA Perry,Fariha Trisna,0,0,,,,,,"",""
+ball,1,6.4,Australia,AJ Healy,EA Perry,Fariha Trisna,0,1,,,,1,,"",""
+ball,1,6.5,Australia,EA Perry,AJ Healy,Fariha Trisna,1,0,,,,,,"",""
+ball,1,6.6,Australia,AJ Healy,EA Perry,Fariha Trisna,6,0,,,,,,"",""
+ball,1,7.1,Australia,EA Perry,AJ Healy,Nahida Akter,1,0,,,,,,"",""
+ball,1,7.2,Australia,AJ Healy,EA Perry,Nahida Akter,0,0,,,,,,"",""
+ball,1,7.3,Australia,AJ Healy,EA Perry,Nahida Akter,4,0,,,,,,"",""
+ball,1,7.4,Australia,AJ Healy,EA Perry,Nahida Akter,4,0,,,,,,"",""
+ball,1,7.5,Australia,AJ Healy,EA Perry,Nahida Akter,0,0,,,,,,caught,AJ Healy
+ball,1,7.6,Australia,A Gardner,EA Perry,Nahida Akter,0,0,,,,,,"",""
+ball,1,8.1,Australia,EA Perry,A Gardner,Rabeya Khan,1,0,,,,,,"",""
+ball,1,8.2,Australia,A Gardner,EA Perry,Rabeya Khan,2,0,,,,,,"",""
+ball,1,8.3,Australia,A Gardner,EA Perry,Rabeya Khan,1,0,,,,,,"",""
+ball,1,8.4,Australia,EA Perry,A Gardner,Rabeya Khan,1,0,,,,,,"",""
+ball,1,8.5,Australia,A Gardner,EA Perry,Rabeya Khan,0,0,,,,,,"",""
+ball,1,8.6,Australia,A Gardner,EA Perry,Rabeya Khan,0,0,,,,,,"",""
+ball,1,9.1,Australia,EA Perry,A Gardner,Nahida Akter,0,0,,,,,,"",""
+ball,1,9.2,Australia,EA Perry,A Gardner,Nahida Akter,1,0,,,,,,"",""
+ball,1,9.3,Australia,A Gardner,EA Perry,Nahida Akter,1,0,,,,,,"",""
+ball,1,9.4,Australia,EA Perry,A Gardner,Nahida Akter,1,0,,,,,,"",""
+ball,1,9.5,Australia,A Gardner,EA Perry,Nahida Akter,1,0,,,,,,"",""
+ball,1,9.6,Australia,EA Perry,A Gardner,Nahida Akter,0,0,,,,,,caught,EA Perry
+ball,1,10.1,Australia,A Gardner,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,10.2,Australia,TM McGrath,A Gardner,Rabeya Khan,1,0,,,,,,"",""
+ball,1,10.3,Australia,A Gardner,TM McGrath,Rabeya Khan,0,0,,,,,,"",""
+ball,1,10.4,Australia,A Gardner,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,10.5,Australia,TM McGrath,A Gardner,Rabeya Khan,1,0,,,,,,"",""
+ball,1,10.6,Australia,A Gardner,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,11.1,Australia,A Gardner,TM McGrath,Fahima Khatun,0,0,,,,,,"",""
+ball,1,11.2,Australia,A Gardner,TM McGrath,Fahima Khatun,0,0,,,,,,"",""
+ball,1,11.3,Australia,A Gardner,TM McGrath,Fahima Khatun,0,0,,,,,,"",""
+ball,1,11.4,Australia,A Gardner,TM McGrath,Fahima Khatun,4,0,,,,,,"",""
+ball,1,11.5,Australia,A Gardner,TM McGrath,Fahima Khatun,0,0,,,,,,"",""
+ball,1,11.6,Australia,A Gardner,TM McGrath,Fahima Khatun,1,0,,,,,,"",""
+ball,1,12.1,Australia,A Gardner,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,12.2,Australia,TM McGrath,A Gardner,Rabeya Khan,1,0,,,,,,"",""
+ball,1,12.3,Australia,A Gardner,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,12.4,Australia,TM McGrath,A Gardner,Rabeya Khan,1,0,,,,,,"",""
+ball,1,12.5,Australia,A Gardner,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,12.6,Australia,TM McGrath,A Gardner,Rabeya Khan,0,0,,,,,,"",""
+ball,1,13.1,Australia,A Gardner,TM McGrath,Nahida Akter,0,0,,,,,,caught,A Gardner
+ball,1,13.2,Australia,G Wareham,TM McGrath,Nahida Akter,1,0,,,,,,"",""
+ball,1,13.3,Australia,TM McGrath,G Wareham,Nahida Akter,0,0,,,,,,"",""
+ball,1,13.4,Australia,TM McGrath,G Wareham,Nahida Akter,1,0,,,,,,"",""
+ball,1,13.5,Australia,G Wareham,TM McGrath,Nahida Akter,1,0,,,,,,"",""
+ball,1,13.6,Australia,TM McGrath,G Wareham,Nahida Akter,1,0,,,,,,"",""
+ball,1,14.1,Australia,TM McGrath,G Wareham,Fahima Khatun,1,0,,,,,,"",""
+ball,1,14.2,Australia,G Wareham,TM McGrath,Fahima Khatun,0,0,,,,,,"",""
+ball,1,14.3,Australia,G Wareham,TM McGrath,Fahima Khatun,1,0,,,,,,"",""
+ball,1,14.4,Australia,TM McGrath,G Wareham,Fahima Khatun,0,0,,,,,,"",""
+ball,1,14.5,Australia,TM McGrath,G Wareham,Fahima Khatun,0,0,,,,,,"",""
+ball,1,14.6,Australia,TM McGrath,G Wareham,Fahima Khatun,4,0,,,,,,"",""
+ball,1,15.1,Australia,G Wareham,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,15.2,Australia,TM McGrath,G Wareham,Rabeya Khan,1,0,,,,,,"",""
+ball,1,15.3,Australia,G Wareham,TM McGrath,Rabeya Khan,0,0,,,,,,stumped,G Wareham
+ball,1,15.4,Australia,GM Harris,TM McGrath,Rabeya Khan,0,0,,,,,,"",""
+ball,1,15.5,Australia,GM Harris,TM McGrath,Rabeya Khan,1,0,,,,,,"",""
+ball,1,15.6,Australia,TM McGrath,GM Harris,Rabeya Khan,1,0,,,,,,"",""
+ball,1,16.1,Australia,TM McGrath,GM Harris,Fahima Khatun,2,0,,,,,,"",""
+ball,1,16.2,Australia,TM McGrath,GM Harris,Fahima Khatun,0,0,,,,,,"",""
+ball,1,16.3,Australia,TM McGrath,GM Harris,Fahima Khatun,0,0,,,,,,"",""
+ball,1,16.4,Australia,TM McGrath,GM Harris,Fahima Khatun,1,0,,,,,,"",""
+ball,1,16.5,Australia,GM Harris,TM McGrath,Fahima Khatun,1,0,,,,,,"",""
+ball,1,16.6,Australia,TM McGrath,GM Harris,Fahima Khatun,4,0,,,,,,"",""
+ball,1,17.1,Australia,GM Harris,TM McGrath,Shorifa Khatun,0,2,2,,,,,"",""
+ball,1,17.2,Australia,TM McGrath,GM Harris,Shorifa Khatun,6,0,,,,,,"",""
+ball,1,17.3,Australia,TM McGrath,GM Harris,Shorifa Khatun,2,0,,,,,,"",""
+ball,1,17.4,Australia,TM McGrath,GM Harris,Shorifa Khatun,6,0,,,,,,"",""
+ball,1,17.5,Australia,TM McGrath,GM Harris,Shorifa Khatun,2,0,,,,,,"",""
+ball,1,17.6,Australia,TM McGrath,GM Harris,Shorifa Khatun,0,0,,,,,,"",""
+ball,1,17.7,Australia,TM McGrath,GM Harris,Shorifa Khatun,1,0,,,,,,"",""
+ball,1,18.1,Australia,TM McGrath,GM Harris,Nahida Akter,1,0,,,,,,"",""
+ball,1,18.2,Australia,GM Harris,TM McGrath,Nahida Akter,4,0,,,,,,"",""
+ball,1,18.3,Australia,GM Harris,TM McGrath,Nahida Akter,4,0,,,,,,"",""
+ball,1,18.4,Australia,GM Harris,TM McGrath,Nahida Akter,1,0,,,,,,"",""
+ball,1,18.5,Australia,TM McGrath,GM Harris,Nahida Akter,3,0,,,,,,"",""
+ball,1,18.6,Australia,GM Harris,TM McGrath,Nahida Akter,1,0,,,,,,"",""
+ball,1,19.1,Australia,GM Harris,TM McGrath,Fariha Trisna,0,4,,,4,,,"",""
+ball,1,19.2,Australia,GM Harris,TM McGrath,Fariha Trisna,0,0,,,,,,"",""
+ball,1,19.3,Australia,GM Harris,TM McGrath,Fariha Trisna,6,0,,,,,,"",""
+ball,1,19.4,Australia,GM Harris,TM McGrath,Fariha Trisna,1,0,,,,,,"",""
+ball,1,19.5,Australia,TM McGrath,GM Harris,Fariha Trisna,2,0,,,,,,"",""
+ball,1,19.6,Australia,TM McGrath,GM Harris,Fariha Trisna,0,1,,,1,,,run out,GM Harris
+ball,2,0.1,Bangladesh,Dilara Akter,Murshida Khatun,ML Schutt,1,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Murshida Khatun,Dilara Akter,ML Schutt,1,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Dilara Akter,Murshida Khatun,ML Schutt,0,1,1,,,,,"",""
+ball,2,0.4,Bangladesh,Dilara Akter,Murshida Khatun,ML Schutt,0,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Dilara Akter,Murshida Khatun,ML Schutt,1,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Murshida Khatun,Dilara Akter,ML Schutt,0,0,,,,,,caught,Murshida Khatun
+ball,2,0.7,Bangladesh,Ritu Moni,Dilara Akter,ML Schutt,0,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Dilara Akter,Ritu Moni,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Dilara Akter,Ritu Moni,TJ Vlaeminck,2,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Dilara Akter,Ritu Moni,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Dilara Akter,Ritu Moni,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Dilara Akter,Ritu Moni,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Dilara Akter,Ritu Moni,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Ritu Moni,Dilara Akter,ML Schutt,4,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Ritu Moni,Dilara Akter,ML Schutt,4,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Ritu Moni,Dilara Akter,ML Schutt,0,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Ritu Moni,Dilara Akter,ML Schutt,0,0,,,,,,"",""
+ball,2,2.5,Bangladesh,Ritu Moni,Dilara Akter,ML Schutt,0,0,,,,,,"",""
+ball,2,2.6,Bangladesh,Ritu Moni,Dilara Akter,ML Schutt,1,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Ritu Moni,Dilara Akter,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Ritu Moni,Dilara Akter,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Ritu Moni,Dilara Akter,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Dilara Akter,Ritu Moni,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Ritu Moni,Dilara Akter,TJ Vlaeminck,0,0,,,,,,caught,Ritu Moni
+ball,2,3.6,Bangladesh,Shorna Akter,Dilara Akter,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Dilara Akter,Shorna Akter,EA Perry,1,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Shorna Akter,Dilara Akter,EA Perry,0,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Shorna Akter,Dilara Akter,EA Perry,0,1,1,,,,,"",""
+ball,2,4.4,Bangladesh,Shorna Akter,Dilara Akter,EA Perry,0,0,,,,,,caught,Shorna Akter
+ball,2,4.5,Bangladesh,Fahima Khatun,Dilara Akter,EA Perry,0,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Fahima Khatun,Dilara Akter,EA Perry,0,0,,,,,,"",""
+ball,2,4.7,Bangladesh,Fahima Khatun,Dilara Akter,EA Perry,0,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Dilara Akter,Fahima Khatun,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Dilara Akter,Fahima Khatun,TJ Vlaeminck,1,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Fahima Khatun,Dilara Akter,TJ Vlaeminck,4,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Fahima Khatun,Dilara Akter,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Fahima Khatun,Dilara Akter,TJ Vlaeminck,2,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Fahima Khatun,Dilara Akter,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Dilara Akter,Fahima Khatun,EA Perry,4,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Dilara Akter,Fahima Khatun,EA Perry,1,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Fahima Khatun,Dilara Akter,EA Perry,0,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Fahima Khatun,Dilara Akter,EA Perry,1,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Dilara Akter,Fahima Khatun,EA Perry,0,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Dilara Akter,Fahima Khatun,EA Perry,0,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Fahima Khatun,Dilara Akter,A Gardner,1,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Dilara Akter,Fahima Khatun,A Gardner,0,0,,,,,,caught,Dilara Akter
+ball,2,7.3,Bangladesh,Rabeya Khan,Fahima Khatun,A Gardner,0,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Rabeya Khan,Fahima Khatun,A Gardner,0,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Rabeya Khan,Fahima Khatun,A Gardner,1,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Fahima Khatun,Rabeya Khan,A Gardner,2,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Rabeya Khan,Fahima Khatun,G Wareham,0,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Rabeya Khan,Fahima Khatun,G Wareham,0,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Rabeya Khan,Fahima Khatun,G Wareham,0,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Rabeya Khan,Fahima Khatun,G Wareham,0,0,,,,,,bowled,Rabeya Khan
+ball,2,8.5,Bangladesh,Nigar Sultana,Fahima Khatun,G Wareham,0,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Nigar Sultana,Fahima Khatun,G Wareham,1,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Nigar Sultana,Fahima Khatun,S Molineux,0,0,,,,,,"",""
+ball,2,9.2,Bangladesh,Nigar Sultana,Fahima Khatun,S Molineux,1,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Fahima Khatun,Nigar Sultana,S Molineux,1,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Nigar Sultana,Fahima Khatun,S Molineux,0,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Nigar Sultana,Fahima Khatun,S Molineux,0,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Nigar Sultana,Fahima Khatun,S Molineux,0,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Fahima Khatun,Nigar Sultana,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Fahima Khatun,Nigar Sultana,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Fahima Khatun,Nigar Sultana,TJ Vlaeminck,0,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Fahima Khatun,Nigar Sultana,TJ Vlaeminck,0,0,,,,,,caught,Fahima Khatun
+ball,2,10.5,Bangladesh,Shorifa Khatun,Nigar Sultana,TJ Vlaeminck,0,1,1,,,,,"",""
+ball,2,10.6,Bangladesh,Shorifa Khatun,Nigar Sultana,TJ Vlaeminck,0,4,,,,4,,"",""
+ball,2,10.7,Bangladesh,Shorifa Khatun,Nigar Sultana,TJ Vlaeminck,0,0,,,,,,lbw,Shorifa Khatun
+ball,2,11.1,Bangladesh,Nigar Sultana,Nahida Akter,A Sutherland,1,0,,,,,,"",""
+ball,2,11.2,Bangladesh,Nahida Akter,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,11.3,Bangladesh,Nahida Akter,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,11.4,Bangladesh,Nahida Akter,Nigar Sultana,A Sutherland,1,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Nigar Sultana,Nahida Akter,A Sutherland,1,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Nahida Akter,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Nigar Sultana,Nahida Akter,S Molineux,1,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Nahida Akter,Nigar Sultana,S Molineux,0,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Nahida Akter,Nigar Sultana,S Molineux,0,0,,,,,,lbw,Nahida Akter
+ball,2,12.4,Bangladesh,Marufa Akter,Nigar Sultana,S Molineux,0,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Marufa Akter,Nigar Sultana,S Molineux,0,0,,,,,,"",""
+ball,2,12.6,Bangladesh,Marufa Akter,Nigar Sultana,S Molineux,0,0,,,,,,"",""
+ball,2,13.1,Bangladesh,Nigar Sultana,Marufa Akter,A Sutherland,0,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Nigar Sultana,Marufa Akter,A Sutherland,0,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Nigar Sultana,Marufa Akter,A Sutherland,4,0,,,,,,"",""
+ball,2,13.4,Bangladesh,Nigar Sultana,Marufa Akter,A Sutherland,1,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Marufa Akter,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Marufa Akter,Nigar Sultana,A Sutherland,0,0,,,,,,caught,Marufa Akter
+ball,2,14.1,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,4,0,,,,,,"",""
+ball,2,14.4,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,14.6,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,1,0,,,,,,"",""
+ball,2,15.5,Bangladesh,Nigar Sultana,Fariha Trisna,A Sutherland,4,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Nigar Sultana,Fariha Trisna,A Sutherland,1,0,,,,,,"",""
+ball,2,16.1,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,16.2,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,16.3,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,2,0,,,,,,"",""
+ball,2,16.4,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,2,0,,,,,,"",""
+ball,2,16.5,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,0,0,,,,,,"",""
+ball,2,16.6,Bangladesh,Nigar Sultana,Fariha Trisna,S Molineux,4,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,17.2,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,1,0,,,,,,"",""
+ball,2,17.3,Bangladesh,Nigar Sultana,Fariha Trisna,A Sutherland,0,1,1,,,,,"",""
+ball,2,17.4,Bangladesh,Nigar Sultana,Fariha Trisna,A Sutherland,4,0,,,,,,"",""
+ball,2,17.5,Bangladesh,Nigar Sultana,Fariha Trisna,A Sutherland,1,0,,,,,,"",""
+ball,2,17.6,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,17.7,Bangladesh,Fariha Trisna,Nigar Sultana,A Sutherland,0,0,,,,,,"",""
+ball,2,18.1,Bangladesh,Nigar Sultana,Fariha Trisna,G Wareham,0,0,,,,,,bowled,Nigar Sultana

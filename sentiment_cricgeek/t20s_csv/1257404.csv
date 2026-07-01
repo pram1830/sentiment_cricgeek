@@ -1,0 +1,291 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Namibia
+info,gender,male
+info,season,2021
+info,date,2021/04/03
+info,event,Uganda tour of Namibia
+info,match_number,1
+info,venue,Wanderers
+info,city,Windhoek
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,MG Erasmus
+info,umpire,A Louw
+info,umpire,C Thorburn
+info,winner,Namibia
+info,winner_wickets,7
+info,player,Uganda,RG Mukasa
+info,player,Uganda,A Otwani
+info,player,Uganda,HB Kayondo
+info,player,Uganda,RB Patel
+info,player,Uganda,DM Nakrani
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,F Akankwasa
+info,player,Uganda,K Waiswa
+info,player,Uganda,F Nsubuga
+info,player,Uganda,C Kyewuta
+info,player,Uganda,H Ssenyondo
+info,player,Namibia,JP Kotze
+info,player,Namibia,CG Williams
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,MD du Preez
+info,player,Namibia,JJ Smit
+info,player,Namibia,JN Frylinck
+info,player,Namibia,K Birkenstock
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,player,Namibia,T Lungameni
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Otwani,6727fb4d
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,C Thorburn,904288fe
+info,registry,people,CG Williams,e16e7347
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Akankwasa,0d0f0385
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,HB Kayondo,d26858c0
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,K Birkenstock,27b8d7b6
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,MD du Preez,e5ad357a
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,T Lungameni,1688f2dc
+ball,1,0.1,Uganda,RG Mukasa,A Otwani,JN Frylinck,0,0,,,,,,"",""
+ball,1,0.2,Uganda,RG Mukasa,A Otwani,JN Frylinck,0,1,,,,1,,"",""
+ball,1,0.3,Uganda,A Otwani,RG Mukasa,JN Frylinck,0,1,1,,,,,"",""
+ball,1,0.4,Uganda,A Otwani,RG Mukasa,JN Frylinck,1,0,,,,,,"",""
+ball,1,0.5,Uganda,RG Mukasa,A Otwani,JN Frylinck,0,0,,,,,,"",""
+ball,1,0.6,Uganda,RG Mukasa,A Otwani,JN Frylinck,0,1,,,,1,,"",""
+ball,1,0.7,Uganda,A Otwani,RG Mukasa,JN Frylinck,1,0,,,,,,"",""
+ball,1,1.1,Uganda,A Otwani,RG Mukasa,B Shikongo,0,0,,,,,,"",""
+ball,1,1.2,Uganda,A Otwani,RG Mukasa,B Shikongo,1,0,,,,,,"",""
+ball,1,1.3,Uganda,RG Mukasa,A Otwani,B Shikongo,4,0,,,,,,"",""
+ball,1,1.4,Uganda,RG Mukasa,A Otwani,B Shikongo,0,0,,,,,,"",""
+ball,1,1.5,Uganda,RG Mukasa,A Otwani,B Shikongo,0,0,,,,,,"",""
+ball,1,1.6,Uganda,RG Mukasa,A Otwani,B Shikongo,1,0,,,,,,"",""
+ball,1,2.1,Uganda,RG Mukasa,A Otwani,JN Frylinck,4,0,,,,,,"",""
+ball,1,2.2,Uganda,RG Mukasa,A Otwani,JN Frylinck,2,0,,,,,,"",""
+ball,1,2.3,Uganda,RG Mukasa,A Otwani,JN Frylinck,0,0,,,,,,"",""
+ball,1,2.4,Uganda,RG Mukasa,A Otwani,JN Frylinck,6,0,,,,,,"",""
+ball,1,2.5,Uganda,RG Mukasa,A Otwani,JN Frylinck,0,0,,,,,,"",""
+ball,1,2.6,Uganda,RG Mukasa,A Otwani,JN Frylinck,1,0,,,,,,"",""
+ball,1,3.1,Uganda,RG Mukasa,A Otwani,T Lungameni,1,0,,,,,,"",""
+ball,1,3.2,Uganda,A Otwani,RG Mukasa,T Lungameni,0,0,,,,,,"",""
+ball,1,3.3,Uganda,A Otwani,RG Mukasa,T Lungameni,1,0,,,,,,"",""
+ball,1,3.4,Uganda,RG Mukasa,A Otwani,T Lungameni,0,1,1,,,,,"",""
+ball,1,3.5,Uganda,RG Mukasa,A Otwani,T Lungameni,4,0,,,,,,"",""
+ball,1,3.6,Uganda,RG Mukasa,A Otwani,T Lungameni,1,0,,,,,,"",""
+ball,1,3.7,Uganda,A Otwani,RG Mukasa,T Lungameni,0,0,,,,,,"",""
+ball,1,4.1,Uganda,RG Mukasa,A Otwani,BM Scholtz,0,0,,,,,,"",""
+ball,1,4.2,Uganda,RG Mukasa,A Otwani,BM Scholtz,0,0,,,,,,"",""
+ball,1,4.3,Uganda,RG Mukasa,A Otwani,BM Scholtz,1,0,,,,,,"",""
+ball,1,4.4,Uganda,A Otwani,RG Mukasa,BM Scholtz,2,0,,,,,,"",""
+ball,1,4.5,Uganda,A Otwani,RG Mukasa,BM Scholtz,1,0,,,,,,"",""
+ball,1,4.6,Uganda,RG Mukasa,A Otwani,BM Scholtz,1,0,,,,,,"",""
+ball,1,5.1,Uganda,RG Mukasa,A Otwani,B Shikongo,0,0,,,,,,"",""
+ball,1,5.2,Uganda,RG Mukasa,A Otwani,B Shikongo,0,0,,,,,,bowled,RG Mukasa
+ball,1,5.3,Uganda,HB Kayondo,A Otwani,B Shikongo,0,0,,,,,,"",""
+ball,1,5.4,Uganda,HB Kayondo,A Otwani,B Shikongo,0,0,,,,,,"",""
+ball,1,5.5,Uganda,HB Kayondo,A Otwani,B Shikongo,1,0,,,,,,"",""
+ball,1,5.6,Uganda,A Otwani,HB Kayondo,B Shikongo,0,1,1,,,,,"",""
+ball,1,5.7,Uganda,A Otwani,HB Kayondo,B Shikongo,0,0,,,,,,"",""
+ball,1,6.1,Uganda,HB Kayondo,A Otwani,BM Scholtz,0,0,,,,,,"",""
+ball,1,6.2,Uganda,HB Kayondo,A Otwani,BM Scholtz,0,0,,,,,,"",""
+ball,1,6.3,Uganda,HB Kayondo,A Otwani,BM Scholtz,1,0,,,,,,"",""
+ball,1,6.4,Uganda,A Otwani,HB Kayondo,BM Scholtz,0,0,,,,,,caught,A Otwani
+ball,1,6.5,Uganda,RB Patel,HB Kayondo,BM Scholtz,0,0,,,,,,"",""
+ball,1,6.6,Uganda,RB Patel,HB Kayondo,BM Scholtz,1,0,,,,,,"",""
+ball,1,7.1,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,7.2,Uganda,HB Kayondo,RB Patel,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,7.3,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,7.4,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,7.5,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,7.6,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,8.1,Uganda,HB Kayondo,RB Patel,BM Scholtz,0,0,,,,,,"",""
+ball,1,8.2,Uganda,HB Kayondo,RB Patel,BM Scholtz,1,0,,,,,,"",""
+ball,1,8.3,Uganda,RB Patel,HB Kayondo,BM Scholtz,4,0,,,,,,"",""
+ball,1,8.4,Uganda,RB Patel,HB Kayondo,BM Scholtz,1,0,,,,,,"",""
+ball,1,8.5,Uganda,HB Kayondo,RB Patel,BM Scholtz,4,0,,,,,,"",""
+ball,1,8.6,Uganda,HB Kayondo,RB Patel,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.1,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,0,1,1,,,,,"",""
+ball,1,9.2,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,9.3,Uganda,HB Kayondo,RB Patel,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,9.4,Uganda,HB Kayondo,RB Patel,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,9.5,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,9.6,Uganda,HB Kayondo,RB Patel,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,9.7,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,10.1,Uganda,RB Patel,HB Kayondo,BM Scholtz,1,0,,,,,,"",""
+ball,1,10.2,Uganda,HB Kayondo,RB Patel,BM Scholtz,1,0,,,,,,"",""
+ball,1,10.3,Uganda,RB Patel,HB Kayondo,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.4,Uganda,RB Patel,HB Kayondo,BM Scholtz,1,0,,,,,,"",""
+ball,1,10.5,Uganda,HB Kayondo,RB Patel,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.6,Uganda,HB Kayondo,RB Patel,BM Scholtz,0,0,,,,,,"",""
+ball,1,11.1,Uganda,RB Patel,HB Kayondo,T Lungameni,1,0,,,,,,"",""
+ball,1,11.2,Uganda,HB Kayondo,RB Patel,T Lungameni,1,0,,,,,,"",""
+ball,1,11.3,Uganda,RB Patel,HB Kayondo,T Lungameni,1,0,,,,,,"",""
+ball,1,11.4,Uganda,HB Kayondo,RB Patel,T Lungameni,1,0,,,,,,"",""
+ball,1,11.5,Uganda,RB Patel,HB Kayondo,T Lungameni,0,0,,,,,,"",""
+ball,1,11.6,Uganda,RB Patel,HB Kayondo,T Lungameni,0,0,,,,,,"",""
+ball,1,12.1,Uganda,HB Kayondo,RB Patel,CG Williams,1,0,,,,,,"",""
+ball,1,12.2,Uganda,RB Patel,HB Kayondo,CG Williams,1,0,,,,,,"",""
+ball,1,12.3,Uganda,HB Kayondo,RB Patel,CG Williams,4,0,,,,,,"",""
+ball,1,12.4,Uganda,HB Kayondo,RB Patel,CG Williams,0,0,,,,,,"",""
+ball,1,12.5,Uganda,HB Kayondo,RB Patel,CG Williams,1,0,,,,,,"",""
+ball,1,12.6,Uganda,RB Patel,HB Kayondo,CG Williams,1,0,,,,,,"",""
+ball,1,13.1,Uganda,RB Patel,HB Kayondo,T Lungameni,1,0,,,,,,"",""
+ball,1,13.2,Uganda,HB Kayondo,RB Patel,T Lungameni,0,0,,,,,,"",""
+ball,1,13.3,Uganda,HB Kayondo,RB Patel,T Lungameni,1,0,,,,,,"",""
+ball,1,13.4,Uganda,RB Patel,HB Kayondo,T Lungameni,0,2,2,,,,,"",""
+ball,1,13.5,Uganda,HB Kayondo,RB Patel,T Lungameni,4,0,,,,,,"",""
+ball,1,13.6,Uganda,HB Kayondo,RB Patel,T Lungameni,0,0,,,,,,"",""
+ball,1,13.7,Uganda,HB Kayondo,RB Patel,T Lungameni,0,1,1,,,,,"",""
+ball,1,13.8,Uganda,HB Kayondo,RB Patel,T Lungameni,4,0,,,,,,"",""
+ball,1,14.1,Uganda,RB Patel,HB Kayondo,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,14.2,Uganda,HB Kayondo,RB Patel,JN Loftie-Eaton,0,0,,,,,,caught,HB Kayondo
+ball,1,14.3,Uganda,RB Patel,DM Nakrani,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,14.4,Uganda,DM Nakrani,RB Patel,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,14.5,Uganda,DM Nakrani,RB Patel,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,14.6,Uganda,DM Nakrani,RB Patel,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,15.1,Uganda,RB Patel,DM Nakrani,B Shikongo,1,0,,,,,,"",""
+ball,1,15.2,Uganda,DM Nakrani,RB Patel,B Shikongo,1,0,,,,,,"",""
+ball,1,15.3,Uganda,RB Patel,DM Nakrani,B Shikongo,0,0,,,,,,"",""
+ball,1,15.4,Uganda,RB Patel,DM Nakrani,B Shikongo,1,0,,,,,,"",""
+ball,1,15.5,Uganda,DM Nakrani,RB Patel,B Shikongo,0,0,,,,,,bowled,DM Nakrani
+ball,1,15.6,Uganda,Riazat Ali Shah,RB Patel,B Shikongo,0,0,,,,,,"",""
+ball,1,16.1,Uganda,RB Patel,Riazat Ali Shah,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,16.2,Uganda,Riazat Ali Shah,RB Patel,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,16.3,Uganda,Riazat Ali Shah,RB Patel,JN Loftie-Eaton,0,1,1,,,,,"",""
+ball,1,16.4,Uganda,Riazat Ali Shah,RB Patel,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,16.5,Uganda,RB Patel,Riazat Ali Shah,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,16.6,Uganda,RB Patel,Riazat Ali Shah,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,16.7,Uganda,Riazat Ali Shah,RB Patel,JN Loftie-Eaton,6,0,,,,,,"",""
+ball,1,17.1,Uganda,RB Patel,Riazat Ali Shah,JN Frylinck,4,0,,,,,,"",""
+ball,1,17.2,Uganda,RB Patel,Riazat Ali Shah,JN Frylinck,1,0,,,,,,"",""
+ball,1,17.3,Uganda,Riazat Ali Shah,RB Patel,JN Frylinck,1,0,,,,,,"",""
+ball,1,17.4,Uganda,RB Patel,Riazat Ali Shah,JN Frylinck,1,0,,,,,,"",""
+ball,1,17.5,Uganda,Riazat Ali Shah,RB Patel,JN Frylinck,0,0,,,,,,"",""
+ball,1,17.6,Uganda,Riazat Ali Shah,RB Patel,JN Frylinck,1,0,,,,,,"",""
+ball,1,18.1,Uganda,Riazat Ali Shah,RB Patel,B Shikongo,4,0,,,,,,"",""
+ball,1,18.2,Uganda,Riazat Ali Shah,RB Patel,B Shikongo,1,0,,,,,,"",""
+ball,1,18.3,Uganda,RB Patel,Riazat Ali Shah,B Shikongo,1,0,,,,,,"",""
+ball,1,18.4,Uganda,Riazat Ali Shah,RB Patel,B Shikongo,2,0,,,,,,"",""
+ball,1,18.5,Uganda,Riazat Ali Shah,RB Patel,B Shikongo,1,0,,,,,,"",""
+ball,1,18.6,Uganda,RB Patel,Riazat Ali Shah,B Shikongo,4,0,,,,,,"",""
+ball,1,19.1,Uganda,Riazat Ali Shah,RB Patel,JN Frylinck,6,0,,,,,,"",""
+ball,1,19.2,Uganda,Riazat Ali Shah,RB Patel,JN Frylinck,0,1,,,,1,,"",""
+ball,1,19.3,Uganda,RB Patel,Riazat Ali Shah,JN Frylinck,0,1,1,,,,,"",""
+ball,1,19.4,Uganda,RB Patel,Riazat Ali Shah,JN Frylinck,1,0,,,,,,"",""
+ball,1,19.5,Uganda,Riazat Ali Shah,RB Patel,JN Frylinck,0,0,,,,,,caught,Riazat Ali Shah
+ball,1,19.6,Uganda,RB Patel,F Akankwasa,JN Frylinck,0,1,,,1,,,"",""
+ball,1,19.7,Uganda,F Akankwasa,RB Patel,JN Frylinck,0,1,,,1,,,"",""
+ball,2,0.1,Namibia,CG Williams,JP Kotze,C Kyewuta,0,0,,,,,,"",""
+ball,2,0.2,Namibia,CG Williams,JP Kotze,C Kyewuta,0,1,1,,,,,"",""
+ball,2,0.3,Namibia,CG Williams,JP Kotze,C Kyewuta,0,0,,,,,,"",""
+ball,2,0.4,Namibia,CG Williams,JP Kotze,C Kyewuta,1,0,,,,,,"",""
+ball,2,0.5,Namibia,JP Kotze,CG Williams,C Kyewuta,0,1,1,,,,,"",""
+ball,2,0.6,Namibia,JP Kotze,CG Williams,C Kyewuta,2,0,,,,,,"",""
+ball,2,0.7,Namibia,JP Kotze,CG Williams,C Kyewuta,1,0,,,,,,"",""
+ball,2,0.8,Namibia,CG Williams,JP Kotze,C Kyewuta,1,0,,,,,,"",""
+ball,2,1.1,Namibia,CG Williams,JP Kotze,Riazat Ali Shah,0,0,,,,,,run out,JP Kotze
+ball,2,1.2,Namibia,CG Williams,MG Erasmus,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,1.3,Namibia,CG Williams,MG Erasmus,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,1.4,Namibia,CG Williams,MG Erasmus,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,1.5,Namibia,MG Erasmus,CG Williams,Riazat Ali Shah,4,0,,,,,,"",""
+ball,2,1.6,Namibia,MG Erasmus,CG Williams,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,2.1,Namibia,CG Williams,MG Erasmus,C Kyewuta,0,0,,,,,,"",""
+ball,2,2.2,Namibia,CG Williams,MG Erasmus,C Kyewuta,0,0,,,,,,caught,CG Williams
+ball,2,2.3,Namibia,JN Loftie-Eaton,MG Erasmus,C Kyewuta,0,0,,,,,,"",""
+ball,2,2.4,Namibia,JN Loftie-Eaton,MG Erasmus,C Kyewuta,0,5,5,,,,,"",""
+ball,2,2.5,Namibia,JN Loftie-Eaton,MG Erasmus,C Kyewuta,0,1,1,,,,,"",""
+ball,2,2.6,Namibia,JN Loftie-Eaton,MG Erasmus,C Kyewuta,0,1,1,,,,,"",""
+ball,2,2.7,Namibia,JN Loftie-Eaton,MG Erasmus,C Kyewuta,1,0,,,,,,"",""
+ball,2,2.8,Namibia,MG Erasmus,JN Loftie-Eaton,C Kyewuta,0,1,1,,,,,"",""
+ball,2,2.9,Namibia,MG Erasmus,JN Loftie-Eaton,C Kyewuta,0,1,1,,,,,"",""
+ball,2,2.10,Namibia,MG Erasmus,JN Loftie-Eaton,C Kyewuta,0,0,,,,,,"",""
+ball,2,2.11,Namibia,MG Erasmus,JN Loftie-Eaton,C Kyewuta,0,2,2,,,,,"",""
+ball,2,2.12,Namibia,JN Loftie-Eaton,MG Erasmus,C Kyewuta,1,0,,,,,,"",""
+ball,2,3.1,Namibia,JN Loftie-Eaton,MG Erasmus,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,3.2,Namibia,JN Loftie-Eaton,MG Erasmus,Riazat Ali Shah,4,0,,,,,,"",""
+ball,2,3.3,Namibia,JN Loftie-Eaton,MG Erasmus,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,3.4,Namibia,JN Loftie-Eaton,MG Erasmus,Riazat Ali Shah,4,0,,,,,,"",""
+ball,2,3.5,Namibia,JN Loftie-Eaton,MG Erasmus,Riazat Ali Shah,4,0,,,,,,"",""
+ball,2,3.6,Namibia,JN Loftie-Eaton,MG Erasmus,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,4.1,Namibia,MG Erasmus,JN Loftie-Eaton,F Nsubuga,0,0,,,,,,"",""
+ball,2,4.2,Namibia,MG Erasmus,JN Loftie-Eaton,F Nsubuga,1,0,,,,,,"",""
+ball,2,4.3,Namibia,JN Loftie-Eaton,MG Erasmus,F Nsubuga,0,0,,,,,,"",""
+ball,2,4.4,Namibia,JN Loftie-Eaton,MG Erasmus,F Nsubuga,0,0,,,,,,"",""
+ball,2,4.5,Namibia,JN Loftie-Eaton,MG Erasmus,F Nsubuga,1,0,,,,,,"",""
+ball,2,4.6,Namibia,MG Erasmus,JN Loftie-Eaton,F Nsubuga,4,0,,,,,,"",""
+ball,2,5.1,Namibia,JN Loftie-Eaton,MG Erasmus,DM Nakrani,0,0,,,,,,"",""
+ball,2,5.2,Namibia,JN Loftie-Eaton,MG Erasmus,DM Nakrani,2,0,,,,,,"",""
+ball,2,5.3,Namibia,JN Loftie-Eaton,MG Erasmus,DM Nakrani,1,0,,,,,,"",""
+ball,2,5.4,Namibia,MG Erasmus,JN Loftie-Eaton,DM Nakrani,6,0,,,,,,"",""
+ball,2,5.5,Namibia,MG Erasmus,JN Loftie-Eaton,DM Nakrani,1,0,,,,,,"",""
+ball,2,5.6,Namibia,JN Loftie-Eaton,MG Erasmus,DM Nakrani,0,0,,,,,,bowled,JN Loftie-Eaton
+ball,2,6.1,Namibia,MG Erasmus,MD du Preez,F Nsubuga,1,0,,,,,,"",""
+ball,2,6.2,Namibia,MD du Preez,MG Erasmus,F Nsubuga,2,0,,,,,,"",""
+ball,2,6.3,Namibia,MD du Preez,MG Erasmus,F Nsubuga,1,0,,,,,,"",""
+ball,2,6.4,Namibia,MG Erasmus,MD du Preez,F Nsubuga,0,0,,,,,,"",""
+ball,2,6.5,Namibia,MG Erasmus,MD du Preez,F Nsubuga,1,0,,,,,,"",""
+ball,2,6.6,Namibia,MD du Preez,MG Erasmus,F Nsubuga,1,0,,,,,,"",""
+ball,2,7.1,Namibia,MD du Preez,MG Erasmus,DM Nakrani,4,0,,,,,,"",""
+ball,2,7.2,Namibia,MD du Preez,MG Erasmus,DM Nakrani,1,0,,,,,,"",""
+ball,2,7.3,Namibia,MG Erasmus,MD du Preez,DM Nakrani,1,0,,,,,,"",""
+ball,2,7.4,Namibia,MD du Preez,MG Erasmus,DM Nakrani,0,0,,,,,,"",""
+ball,2,7.5,Namibia,MD du Preez,MG Erasmus,DM Nakrani,1,0,,,,,,"",""
+ball,2,7.6,Namibia,MG Erasmus,MD du Preez,DM Nakrani,1,0,,,,,,"",""
+ball,2,8.1,Namibia,MG Erasmus,MD du Preez,H Ssenyondo,2,0,,,,,,"",""
+ball,2,8.2,Namibia,MG Erasmus,MD du Preez,H Ssenyondo,3,0,,,,,,"",""
+ball,2,8.3,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,0,0,,,,,,"",""
+ball,2,8.4,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,0,0,,,,,,"",""
+ball,2,8.5,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,0,0,,,,,,"",""
+ball,2,8.6,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,0,1,1,,,,,"",""
+ball,2,8.7,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,1,0,,,,,,"",""
+ball,2,9.1,Namibia,MD du Preez,MG Erasmus,F Nsubuga,0,0,,,,,,"",""
+ball,2,9.2,Namibia,MD du Preez,MG Erasmus,F Nsubuga,4,0,,,,,,"",""
+ball,2,9.3,Namibia,MD du Preez,MG Erasmus,F Nsubuga,1,0,,,,,,"",""
+ball,2,9.4,Namibia,MG Erasmus,MD du Preez,F Nsubuga,1,0,,,,,,"",""
+ball,2,9.5,Namibia,MD du Preez,MG Erasmus,F Nsubuga,1,0,,,,,,"",""
+ball,2,9.6,Namibia,MG Erasmus,MD du Preez,F Nsubuga,6,0,,,,,,"",""
+ball,2,10.1,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,3,0,,,,,,"",""
+ball,2,10.2,Namibia,MG Erasmus,MD du Preez,H Ssenyondo,0,0,,,,,,"",""
+ball,2,10.3,Namibia,MG Erasmus,MD du Preez,H Ssenyondo,2,0,,,,,,"",""
+ball,2,10.4,Namibia,MG Erasmus,MD du Preez,H Ssenyondo,0,0,,,,,,"",""
+ball,2,10.5,Namibia,MG Erasmus,MD du Preez,H Ssenyondo,0,0,,,,,,"",""
+ball,2,10.6,Namibia,MG Erasmus,MD du Preez,H Ssenyondo,1,0,,,,,,"",""
+ball,2,11.1,Namibia,MG Erasmus,MD du Preez,C Kyewuta,0,2,,,,2,,"",""
+ball,2,11.2,Namibia,MG Erasmus,MD du Preez,C Kyewuta,0,0,,,,,,"",""
+ball,2,11.3,Namibia,MG Erasmus,MD du Preez,C Kyewuta,4,0,,,,,,"",""
+ball,2,11.4,Namibia,MG Erasmus,MD du Preez,C Kyewuta,0,0,,,,,,"",""
+ball,2,11.5,Namibia,MG Erasmus,MD du Preez,C Kyewuta,6,0,,,,,,"",""
+ball,2,11.6,Namibia,MG Erasmus,MD du Preez,C Kyewuta,4,0,,,,,,"",""
+ball,2,12.1,Namibia,MD du Preez,MG Erasmus,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.2,Namibia,MG Erasmus,MD du Preez,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.3,Namibia,MD du Preez,MG Erasmus,DM Nakrani,1,0,,,,,,"",""
+ball,2,12.4,Namibia,MG Erasmus,MD du Preez,DM Nakrani,0,0,,,,,,"",""
+ball,2,12.5,Namibia,MG Erasmus,MD du Preez,DM Nakrani,0,0,,,,,,"",""
+ball,2,12.6,Namibia,MG Erasmus,MD du Preez,DM Nakrani,1,0,,,,,,"",""
+ball,2,13.1,Namibia,MG Erasmus,MD du Preez,Riazat Ali Shah,1,0,,,,,,"",""
+ball,2,13.2,Namibia,MD du Preez,MG Erasmus,Riazat Ali Shah,2,0,,,,,,"",""
+ball,2,13.3,Namibia,MD du Preez,MG Erasmus,Riazat Ali Shah,0,3,,,,3,,"",""
+ball,2,13.4,Namibia,MG Erasmus,MD du Preez,Riazat Ali Shah,6,0,,,,,,"",""
+ball,2,13.5,Namibia,MG Erasmus,MD du Preez,Riazat Ali Shah,0,1,1,,,,,"",""
+ball,2,13.6,Namibia,MG Erasmus,MD du Preez,Riazat Ali Shah,0,0,,,,,,"",""
+ball,2,13.7,Namibia,MG Erasmus,MD du Preez,Riazat Ali Shah,4,0,,,,,,"",""
+ball,2,14.1,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,0,0,,,,,,"",""
+ball,2,14.2,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,0,0,,,,,,"",""
+ball,2,14.3,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,4,0,,,,,,"",""
+ball,2,14.4,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,0,0,,,,,,"",""
+ball,2,14.5,Namibia,MD du Preez,MG Erasmus,H Ssenyondo,1,0,,,,,,"",""

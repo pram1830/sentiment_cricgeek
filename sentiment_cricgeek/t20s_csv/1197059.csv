@@ -1,0 +1,308 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Ireland
+info,gender,female
+info,season,2019
+info,date,2019/09/05
+info,event,ICC Women's T20 World Cup Qualifier
+info,venue,Forthill
+info,city,Dundee
+info,toss_winner,Ireland
+info,toss_decision,bat
+info,player_of_match,Sanjida Islam
+info,umpire,S Redfern
+info,umpire,Eloise Sheridan
+info,reserve_umpire,CA Polosak
+info,match_referee,GF Labrooy
+info,winner,Bangladesh
+info,winner_wickets,4
+info,player,Ireland,MV Waldron
+info,player,Ireland,GH Lewis
+info,player,Ireland,KJ Garth
+info,player,Ireland,L Delany
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Paul
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,SM Kavanagh
+info,player,Ireland,U Raymond-Hoey
+info,player,Ireland,S MacMahon
+info,player,Ireland,L Maritz
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Ayasha Rahman
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Sanjida Islam
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Jahanara Alam
+info,player,Bangladesh,Shaila Sharmin
+info,player,Bangladesh,Salma Khatun
+info,player,Bangladesh,Nahida Akter
+info,registry,people,Ayasha Rahman,2f899a44
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Maritz,ac8bca8d
+info,registry,people,L Paul,07248d8e
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S MacMahon,ef2bcebf
+info,registry,people,S Redfern,5b038989
+info,registry,people,SM Kavanagh,7e9b3b60
+info,registry,people,Salma Khatun,037f2b86
+info,registry,people,Sanjida Islam,12755a62
+info,registry,people,Shaila Sharmin,b76fd014
+info,registry,people,U Raymond-Hoey,1a510809
+ball,1,0.1,Ireland,MV Waldron,GH Lewis,Jahanara Alam,0,0,,,,,,"",""
+ball,1,0.2,Ireland,MV Waldron,GH Lewis,Jahanara Alam,1,0,,,,,,"",""
+ball,1,0.3,Ireland,GH Lewis,MV Waldron,Jahanara Alam,1,0,,,,,,"",""
+ball,1,0.4,Ireland,MV Waldron,GH Lewis,Jahanara Alam,0,0,,,,,,"",""
+ball,1,0.5,Ireland,MV Waldron,GH Lewis,Jahanara Alam,0,0,,,,,,"",""
+ball,1,0.6,Ireland,MV Waldron,GH Lewis,Jahanara Alam,0,0,,,,,,"",""
+ball,1,1.1,Ireland,GH Lewis,MV Waldron,Nahida Akter,0,0,,,,,,"",""
+ball,1,1.2,Ireland,GH Lewis,MV Waldron,Nahida Akter,4,0,,,,,,"",""
+ball,1,1.3,Ireland,GH Lewis,MV Waldron,Nahida Akter,0,0,,,,,,"",""
+ball,1,1.4,Ireland,GH Lewis,MV Waldron,Nahida Akter,0,0,,,,,,caught,GH Lewis
+ball,1,1.5,Ireland,KJ Garth,MV Waldron,Nahida Akter,0,0,,,,,,"",""
+ball,1,1.6,Ireland,KJ Garth,MV Waldron,Nahida Akter,0,0,,,,,,"",""
+ball,1,2.1,Ireland,MV Waldron,KJ Garth,Jahanara Alam,0,0,,,,,,"",""
+ball,1,2.2,Ireland,MV Waldron,KJ Garth,Jahanara Alam,0,0,,,,,,"",""
+ball,1,2.3,Ireland,MV Waldron,KJ Garth,Jahanara Alam,0,0,,,,,,"",""
+ball,1,2.4,Ireland,MV Waldron,KJ Garth,Jahanara Alam,0,0,,,,,,bowled,MV Waldron
+ball,1,2.5,Ireland,L Delany,KJ Garth,Jahanara Alam,0,0,,,,,,"",""
+ball,1,2.6,Ireland,L Delany,KJ Garth,Jahanara Alam,2,0,,,,,,"",""
+ball,1,3.1,Ireland,KJ Garth,L Delany,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.2,Ireland,KJ Garth,L Delany,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.3,Ireland,KJ Garth,L Delany,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.4,Ireland,KJ Garth,L Delany,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.5,Ireland,KJ Garth,L Delany,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.6,Ireland,KJ Garth,L Delany,Nahida Akter,1,0,,,,,,"",""
+ball,1,4.1,Ireland,KJ Garth,L Delany,Jahanara Alam,0,0,,,,,,"",""
+ball,1,4.2,Ireland,KJ Garth,L Delany,Jahanara Alam,1,0,,,,,,"",""
+ball,1,4.3,Ireland,L Delany,KJ Garth,Jahanara Alam,0,0,,,,,,"",""
+ball,1,4.4,Ireland,L Delany,KJ Garth,Jahanara Alam,0,0,,,,,,"",""
+ball,1,4.5,Ireland,L Delany,KJ Garth,Jahanara Alam,0,0,,,,,,"",""
+ball,1,4.6,Ireland,L Delany,KJ Garth,Jahanara Alam,4,0,,,,,,"",""
+ball,1,5.1,Ireland,KJ Garth,L Delany,Salma Khatun,0,0,,,,,,"",""
+ball,1,5.2,Ireland,KJ Garth,L Delany,Salma Khatun,0,0,,,,,,caught,KJ Garth
+ball,1,5.3,Ireland,O Prendergast,L Delany,Salma Khatun,0,0,,,,,,"",""
+ball,1,5.4,Ireland,O Prendergast,L Delany,Salma Khatun,1,0,,,,,,"",""
+ball,1,5.5,Ireland,L Delany,O Prendergast,Salma Khatun,0,0,,,,,,"",""
+ball,1,5.6,Ireland,L Delany,O Prendergast,Salma Khatun,0,0,,,,,,"",""
+ball,1,6.1,Ireland,O Prendergast,L Delany,Ritu Moni,1,0,,,,,,"",""
+ball,1,6.2,Ireland,L Delany,O Prendergast,Ritu Moni,0,0,,,,,,"",""
+ball,1,6.3,Ireland,L Delany,O Prendergast,Ritu Moni,0,0,,,,,,"",""
+ball,1,6.4,Ireland,L Delany,O Prendergast,Ritu Moni,1,0,,,,,,"",""
+ball,1,6.5,Ireland,O Prendergast,L Delany,Ritu Moni,2,0,,,,,,"",""
+ball,1,6.6,Ireland,O Prendergast,L Delany,Ritu Moni,1,0,,,,,,"",""
+ball,1,7.1,Ireland,O Prendergast,L Delany,Salma Khatun,0,0,,,,,,"",""
+ball,1,7.2,Ireland,O Prendergast,L Delany,Salma Khatun,1,0,,,,,,"",""
+ball,1,7.3,Ireland,L Delany,O Prendergast,Salma Khatun,0,0,,,,,,"",""
+ball,1,7.4,Ireland,L Delany,O Prendergast,Salma Khatun,0,0,,,,,,"",""
+ball,1,7.5,Ireland,L Delany,O Prendergast,Salma Khatun,0,0,,,,,,"",""
+ball,1,7.6,Ireland,L Delany,O Prendergast,Salma Khatun,1,0,,,,,,"",""
+ball,1,8.1,Ireland,L Delany,O Prendergast,Ritu Moni,1,0,,,,,,"",""
+ball,1,8.2,Ireland,O Prendergast,L Delany,Ritu Moni,0,0,,,,,,"",""
+ball,1,8.3,Ireland,O Prendergast,L Delany,Ritu Moni,4,0,,,,,,"",""
+ball,1,8.4,Ireland,O Prendergast,L Delany,Ritu Moni,0,0,,,,,,bowled,O Prendergast
+ball,1,8.5,Ireland,L Paul,L Delany,Ritu Moni,0,0,,,,,,"",""
+ball,1,8.6,Ireland,L Paul,L Delany,Ritu Moni,0,0,,,,,,"",""
+ball,1,9.1,Ireland,L Delany,L Paul,Salma Khatun,1,0,,,,,,"",""
+ball,1,9.2,Ireland,L Paul,L Delany,Salma Khatun,0,0,,,,,,"",""
+ball,1,9.3,Ireland,L Paul,L Delany,Salma Khatun,0,0,,,,,,"",""
+ball,1,9.4,Ireland,L Paul,L Delany,Salma Khatun,1,0,,,,,,"",""
+ball,1,9.5,Ireland,L Delany,L Paul,Salma Khatun,1,0,,,,,,"",""
+ball,1,9.6,Ireland,L Paul,L Delany,Salma Khatun,0,0,,,,,,"",""
+ball,1,10.1,Ireland,L Delany,L Paul,Ritu Moni,0,0,,,,,,"",""
+ball,1,10.2,Ireland,L Delany,L Paul,Ritu Moni,1,0,,,,,,"",""
+ball,1,10.3,Ireland,L Paul,L Delany,Ritu Moni,0,0,,,,,,"",""
+ball,1,10.4,Ireland,L Paul,L Delany,Ritu Moni,0,0,,,,,,"",""
+ball,1,10.5,Ireland,L Paul,L Delany,Ritu Moni,0,0,,,,,,"",""
+ball,1,10.6,Ireland,L Paul,L Delany,Ritu Moni,1,0,,,,,,"",""
+ball,1,11.1,Ireland,L Paul,L Delany,Salma Khatun,1,0,,,,,,"",""
+ball,1,11.2,Ireland,L Delany,L Paul,Salma Khatun,1,0,,,,,,"",""
+ball,1,11.3,Ireland,L Paul,L Delany,Salma Khatun,1,0,,,,,,"",""
+ball,1,11.4,Ireland,L Delany,L Paul,Salma Khatun,0,0,,,,,,"",""
+ball,1,11.5,Ireland,L Delany,L Paul,Salma Khatun,1,0,,,,,,"",""
+ball,1,11.6,Ireland,L Paul,L Delany,Salma Khatun,0,0,,,,,,"",""
+ball,1,12.1,Ireland,L Delany,L Paul,Ritu Moni,0,0,,,,,,"",""
+ball,1,12.2,Ireland,L Delany,L Paul,Ritu Moni,0,0,,,,,,"",""
+ball,1,12.3,Ireland,L Delany,L Paul,Ritu Moni,1,0,,,,,,"",""
+ball,1,12.4,Ireland,L Paul,L Delany,Ritu Moni,1,0,,,,,,"",""
+ball,1,12.5,Ireland,L Delany,L Paul,Ritu Moni,4,0,,,,,,"",""
+ball,1,12.6,Ireland,L Delany,L Paul,Ritu Moni,1,0,,,,,,"",""
+ball,1,13.1,Ireland,L Delany,L Paul,Fahima Khatun,0,0,,,,,,"",""
+ball,1,13.2,Ireland,L Delany,L Paul,Fahima Khatun,0,0,,,,,,"",""
+ball,1,13.3,Ireland,L Delany,L Paul,Fahima Khatun,1,0,,,,,,"",""
+ball,1,13.4,Ireland,L Paul,L Delany,Fahima Khatun,0,0,,,,,,run out,L Paul
+ball,1,13.5,Ireland,L Delany,EAJ Richardson,Fahima Khatun,0,0,,,,,,"",""
+ball,1,13.6,Ireland,L Delany,EAJ Richardson,Fahima Khatun,0,0,,,,,,"",""
+ball,1,14.1,Ireland,EAJ Richardson,L Delany,Jahanara Alam,0,1,1,,,,,"",""
+ball,1,14.2,Ireland,EAJ Richardson,L Delany,Jahanara Alam,0,0,,,,,,"",""
+ball,1,14.3,Ireland,EAJ Richardson,L Delany,Jahanara Alam,0,0,,,,,,"",""
+ball,1,14.4,Ireland,EAJ Richardson,L Delany,Jahanara Alam,4,0,,,,,,"",""
+ball,1,14.5,Ireland,EAJ Richardson,L Delany,Jahanara Alam,6,0,,,,,,"",""
+ball,1,14.6,Ireland,EAJ Richardson,L Delany,Jahanara Alam,0,0,,,,,,"",""
+ball,1,14.7,Ireland,EAJ Richardson,L Delany,Jahanara Alam,1,0,,,,,,"",""
+ball,1,15.1,Ireland,EAJ Richardson,L Delany,Fahima Khatun,4,0,,,,,,"",""
+ball,1,15.2,Ireland,EAJ Richardson,L Delany,Fahima Khatun,2,0,,,,,,"",""
+ball,1,15.3,Ireland,EAJ Richardson,L Delany,Fahima Khatun,1,0,,,,,,"",""
+ball,1,15.4,Ireland,L Delany,EAJ Richardson,Fahima Khatun,1,0,,,,,,"",""
+ball,1,15.5,Ireland,EAJ Richardson,L Delany,Fahima Khatun,0,0,,,,,,"",""
+ball,1,15.6,Ireland,EAJ Richardson,L Delany,Fahima Khatun,0,0,,,,,,"",""
+ball,1,16.1,Ireland,L Delany,EAJ Richardson,Nahida Akter,1,0,,,,,,"",""
+ball,1,16.2,Ireland,EAJ Richardson,L Delany,Nahida Akter,4,0,,,,,,"",""
+ball,1,16.3,Ireland,EAJ Richardson,L Delany,Nahida Akter,1,0,,,,,,"",""
+ball,1,16.4,Ireland,L Delany,EAJ Richardson,Nahida Akter,0,0,,,,,,"",""
+ball,1,16.5,Ireland,L Delany,EAJ Richardson,Nahida Akter,1,0,,,,,,"",""
+ball,1,16.6,Ireland,EAJ Richardson,L Delany,Nahida Akter,1,0,,,,,,"",""
+ball,1,17.1,Ireland,EAJ Richardson,L Delany,Fahima Khatun,1,0,,,,,,"",""
+ball,1,17.2,Ireland,L Delany,EAJ Richardson,Fahima Khatun,1,0,,,,,,"",""
+ball,1,17.3,Ireland,EAJ Richardson,L Delany,Fahima Khatun,0,0,,,,,,"",""
+ball,1,17.4,Ireland,EAJ Richardson,L Delany,Fahima Khatun,0,0,,,,,,caught,EAJ Richardson
+ball,1,17.5,Ireland,SM Kavanagh,L Delany,Fahima Khatun,1,0,,,,,,"",""
+ball,1,17.6,Ireland,L Delany,SM Kavanagh,Fahima Khatun,0,0,,,,,,stumped,L Delany
+ball,1,18.1,Ireland,SM Kavanagh,U Raymond-Hoey,Nahida Akter,1,0,,,,,,"",""
+ball,1,18.2,Ireland,U Raymond-Hoey,SM Kavanagh,Nahida Akter,0,0,,,,,,"",""
+ball,1,18.3,Ireland,U Raymond-Hoey,SM Kavanagh,Nahida Akter,2,0,,,,,,"",""
+ball,1,18.4,Ireland,U Raymond-Hoey,SM Kavanagh,Nahida Akter,1,0,,,,,,run out,U Raymond-Hoey
+ball,1,18.5,Ireland,S MacMahon,SM Kavanagh,Nahida Akter,0,0,,,,,,run out,S MacMahon
+ball,1,18.6,Ireland,SM Kavanagh,L Maritz,Nahida Akter,0,0,,,,,,"",""
+ball,1,19.1,Ireland,L Maritz,SM Kavanagh,Fahima Khatun,1,0,,,,,,"",""
+ball,1,19.2,Ireland,SM Kavanagh,L Maritz,Fahima Khatun,1,0,,,,,,"",""
+ball,1,19.3,Ireland,L Maritz,SM Kavanagh,Fahima Khatun,1,0,,,,,,"",""
+ball,1,19.4,Ireland,SM Kavanagh,L Maritz,Fahima Khatun,2,0,,,,,,"",""
+ball,1,19.5,Ireland,SM Kavanagh,L Maritz,Fahima Khatun,1,0,,,,,,"",""
+ball,1,19.6,Ireland,L Maritz,SM Kavanagh,Fahima Khatun,0,0,,,,,,bowled,L Maritz
+ball,2,0.1,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,0,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,1,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,0,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,0,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,0,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,1,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Ayasha Rahman,Murshida Khatun,EAJ Richardson,1,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,1,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Ayasha Rahman,Murshida Khatun,EAJ Richardson,0,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Ayasha Rahman,Murshida Khatun,EAJ Richardson,1,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,1,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Ayasha Rahman,Murshida Khatun,EAJ Richardson,1,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,0,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,0,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,1,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,0,1,1,,,,,"",""
+ball,2,2.5,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,1,0,,,,,,"",""
+ball,2,2.6,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,0,0,,,,,,"",""
+ball,2,2.7,Bangladesh,Ayasha Rahman,Murshida Khatun,KJ Garth,0,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,0,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,0,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,2,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,0,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,0,1,1,,,,,"",""
+ball,2,3.6,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,2,0,,,,,,"",""
+ball,2,3.7,Bangladesh,Murshida Khatun,Ayasha Rahman,EAJ Richardson,1,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,0,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,0,1,1,,,,,"",""
+ball,2,4.3,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,0,0,,,,,,"",""
+ball,2,4.4,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,4,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Murshida Khatun,Ayasha Rahman,KJ Garth,0,0,,,,,,caught,Murshida Khatun
+ball,2,4.6,Bangladesh,Ayasha Rahman,Nigar Sultana,KJ Garth,1,0,,,,,,"",""
+ball,2,4.7,Bangladesh,Nigar Sultana,Ayasha Rahman,KJ Garth,0,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Ayasha Rahman,Nigar Sultana,S MacMahon,1,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Nigar Sultana,Ayasha Rahman,S MacMahon,1,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Ayasha Rahman,Nigar Sultana,S MacMahon,0,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Ayasha Rahman,Nigar Sultana,S MacMahon,0,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Ayasha Rahman,Nigar Sultana,S MacMahon,0,0,,,,,,lbw,Ayasha Rahman
+ball,2,5.6,Bangladesh,Sanjida Islam,Nigar Sultana,S MacMahon,0,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Nigar Sultana,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Nigar Sultana,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Nigar Sultana,Sanjida Islam,O Prendergast,0,1,1,,,,,"",""
+ball,2,6.4,Bangladesh,Nigar Sultana,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Nigar Sultana,Sanjida Islam,O Prendergast,0,0,,,,,,caught,Nigar Sultana
+ball,2,6.6,Bangladesh,Fargana Hoque,Sanjida Islam,O Prendergast,1,0,,,,,,"",""
+ball,2,6.7,Bangladesh,Sanjida Islam,Fargana Hoque,O Prendergast,0,1,1,,,,,"",""
+ball,2,6.8,Bangladesh,Sanjida Islam,Fargana Hoque,O Prendergast,0,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Fargana Hoque,Sanjida Islam,S MacMahon,0,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Fargana Hoque,Sanjida Islam,S MacMahon,1,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Sanjida Islam,Fargana Hoque,S MacMahon,2,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Sanjida Islam,Fargana Hoque,S MacMahon,0,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Sanjida Islam,Fargana Hoque,S MacMahon,0,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Sanjida Islam,Fargana Hoque,S MacMahon,0,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Fargana Hoque,Sanjida Islam,O Prendergast,0,0,,,,,,caught,Fargana Hoque
+ball,2,8.2,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,1,1,,,,,"",""
+ball,2,8.6,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,8.7,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,1,0,,,,,,"",""
+ball,2,9.2,Bangladesh,Ritu Moni,Sanjida Islam,S MacMahon,1,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,0,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,0,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,0,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,1,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Sanjida Islam,Ritu Moni,O Prendergast,0,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Sanjida Islam,Ritu Moni,O Prendergast,0,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Sanjida Islam,Ritu Moni,O Prendergast,1,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,10.5,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,10.6,Bangladesh,Ritu Moni,Sanjida Islam,O Prendergast,0,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Sanjida Islam,Ritu Moni,L Delany,1,0,,,,,,"",""
+ball,2,11.2,Bangladesh,Ritu Moni,Sanjida Islam,L Delany,0,1,1,,,,,"",""
+ball,2,11.3,Bangladesh,Ritu Moni,Sanjida Islam,L Delany,0,1,1,,,,,"",""
+ball,2,11.4,Bangladesh,Ritu Moni,Sanjida Islam,L Delany,4,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Ritu Moni,Sanjida Islam,L Delany,1,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Sanjida Islam,Ritu Moni,L Delany,2,0,,,,,,"",""
+ball,2,11.7,Bangladesh,Sanjida Islam,Ritu Moni,L Delany,1,0,,,,,,"",""
+ball,2,11.8,Bangladesh,Ritu Moni,Sanjida Islam,L Delany,0,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Sanjida Islam,Ritu Moni,KJ Garth,1,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Ritu Moni,Sanjida Islam,KJ Garth,0,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Ritu Moni,Sanjida Islam,KJ Garth,0,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Ritu Moni,Sanjida Islam,KJ Garth,0,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Ritu Moni,Sanjida Islam,KJ Garth,1,0,,,,,,"",""
+ball,2,12.6,Bangladesh,Sanjida Islam,Ritu Moni,KJ Garth,0,1,,,,1,,"",""
+ball,2,13.1,Bangladesh,Sanjida Islam,Ritu Moni,EAJ Richardson,0,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Sanjida Islam,Ritu Moni,EAJ Richardson,0,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Sanjida Islam,Ritu Moni,EAJ Richardson,0,0,,,,,,"",""
+ball,2,13.4,Bangladesh,Sanjida Islam,Ritu Moni,EAJ Richardson,4,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Sanjida Islam,Ritu Moni,EAJ Richardson,1,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Ritu Moni,Sanjida Islam,EAJ Richardson,1,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,0,1,1,,,,,"",""
+ball,2,14.2,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,0,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,0,0,,,,,,"",""
+ball,2,14.4,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,0,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,0,0,,,,,,"",""
+ball,2,14.6,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,4,0,,,,,,"",""
+ball,2,14.7,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,2,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,0,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,0,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Sanjida Islam,Ritu Moni,S MacMahon,1,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Ritu Moni,Sanjida Islam,S MacMahon,0,0,,,,,,"",""
+ball,2,15.5,Bangladesh,Ritu Moni,Sanjida Islam,S MacMahon,0,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Ritu Moni,Sanjida Islam,S MacMahon,0,0,,,,,,"",""
+ball,2,16.1,Bangladesh,Sanjida Islam,Ritu Moni,L Paul,2,0,,,,,,"",""
+ball,2,16.2,Bangladesh,Sanjida Islam,Ritu Moni,L Paul,0,0,,,,,,"",""
+ball,2,16.3,Bangladesh,Sanjida Islam,Ritu Moni,L Paul,1,0,,,,,,"",""
+ball,2,16.4,Bangladesh,Ritu Moni,Sanjida Islam,L Paul,1,0,,,,,,"",""
+ball,2,16.5,Bangladesh,Sanjida Islam,Ritu Moni,L Paul,1,0,,,,,,run out,Ritu Moni
+ball,2,16.6,Bangladesh,Sanjida Islam,Fahima Khatun,L Paul,3,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Sanjida Islam,Fahima Khatun,EAJ Richardson,0,0,,,,,,"",""
+ball,2,17.2,Bangladesh,Sanjida Islam,Fahima Khatun,EAJ Richardson,4,0,,,,,,"",""
+ball,2,17.3,Bangladesh,Sanjida Islam,Fahima Khatun,EAJ Richardson,4,0,,,,,,"",""
+ball,2,17.4,Bangladesh,Sanjida Islam,Fahima Khatun,EAJ Richardson,0,0,,,,,,run out,Fahima Khatun
+ball,2,17.5,Bangladesh,Jahanara Alam,Sanjida Islam,EAJ Richardson,0,0,,,,,,"",""
+ball,2,17.6,Bangladesh,Jahanara Alam,Sanjida Islam,EAJ Richardson,1,0,,,,,,"",""
+ball,2,18.1,Bangladesh,Jahanara Alam,Sanjida Islam,O Prendergast,4,0,,,,,,"",""
+ball,2,18.2,Bangladesh,Jahanara Alam,Sanjida Islam,O Prendergast,1,0,,,,,,"",""
+ball,2,18.3,Bangladesh,Sanjida Islam,Jahanara Alam,O Prendergast,1,0,,,,,,"",""

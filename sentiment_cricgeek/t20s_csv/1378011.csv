@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,France
+info,team,Sweden
+info,gender,female
+info,season,2023
+info,date,2023/05/30
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,6
+info,venue,"FB Fields, St Clement"
+info,city,St Clement
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,IY Mckeon
+info,umpire,HE Kearns
+info,umpire,J Naeem
+info,reserve_umpire,AY Harris
+info,match_referee,G McCrea
+info,winner,France
+info,winner_runs,48
+info,player,France,IY Mckeon
+info,player,France,L Wykes-Templeman
+info,player,France,PC McGeown
+info,player,France,ME Violleau
+info,player,France,Ganesh Pooja
+info,player,France,AL Seddon
+info,player,France,Emma Patel
+info,player,France,TE Britton
+info,player,France,DL Graham
+info,player,France,A Bester
+info,player,France,PKM Mahawattage
+info,player,Sweden,Kanchan Rana
+info,player,Sweden,S Lundell
+info,player,Sweden,G Shukla
+info,player,Sweden,A Vaidya
+info,player,Sweden,Jayasooriya
+info,player,Sweden,Eman Asim
+info,player,Sweden,E Thelander
+info,player,Sweden,RG Somashekhar
+info,player,Sweden,H Chamto
+info,player,Sweden,S Bhanushali
+info,player,Sweden,SK Ravuri
+info,registry,people,A Bester,047d293e
+info,registry,people,A Vaidya,b7d8c07d
+info,registry,people,AL Seddon,d12ec7b3
+info,registry,people,AY Harris,90d95b82
+info,registry,people,DL Graham,907e30d9
+info,registry,people,E Thelander,45cb4feb
+info,registry,people,Eman Asim,fd8038e1
+info,registry,people,Emma Patel,030a38e0
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Shukla,6b4817d9
+info,registry,people,Ganesh Pooja,ab144207
+info,registry,people,H Chamto,5e181be6
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,IY Mckeon,59ff3c57
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,Jayasooriya,39183970
+info,registry,people,Kanchan Rana,d5d87f3f
+info,registry,people,L Wykes-Templeman,46c9b2bc
+info,registry,people,ME Violleau,69f47625
+info,registry,people,PC McGeown,1aabd6fc
+info,registry,people,PKM Mahawattage,a413b433
+info,registry,people,RG Somashekhar,881cb071
+info,registry,people,S Bhanushali,da6576af
+info,registry,people,S Lundell,0d298cc9
+info,registry,people,SK Ravuri,0398fc0f
+info,registry,people,TE Britton,5eceeb7f
+ball,1,0.1,France,IY Mckeon,L Wykes-Templeman,G Shukla,0,0,,,,,,"",""
+ball,1,0.2,France,IY Mckeon,L Wykes-Templeman,G Shukla,4,0,,,,,,"",""
+ball,1,0.3,France,IY Mckeon,L Wykes-Templeman,G Shukla,0,0,,,,,,"",""
+ball,1,0.4,France,IY Mckeon,L Wykes-Templeman,G Shukla,1,0,,,,,,"",""
+ball,1,0.5,France,L Wykes-Templeman,IY Mckeon,G Shukla,0,0,,,,,,"",""
+ball,1,0.6,France,L Wykes-Templeman,IY Mckeon,G Shukla,1,0,,,,,,"",""
+ball,1,1.1,France,L Wykes-Templeman,IY Mckeon,S Bhanushali,1,0,,,,,,"",""
+ball,1,1.2,France,IY Mckeon,L Wykes-Templeman,S Bhanushali,0,0,,,,,,"",""
+ball,1,1.3,France,IY Mckeon,L Wykes-Templeman,S Bhanushali,0,0,,,,,,"",""
+ball,1,1.4,France,IY Mckeon,L Wykes-Templeman,S Bhanushali,1,0,,,,,,"",""
+ball,1,1.5,France,L Wykes-Templeman,IY Mckeon,S Bhanushali,0,0,,,,,,"",""
+ball,1,1.6,France,L Wykes-Templeman,IY Mckeon,S Bhanushali,0,0,,,,,,"",""
+ball,1,2.1,France,IY Mckeon,L Wykes-Templeman,G Shukla,0,0,,,,,,"",""
+ball,1,2.2,France,IY Mckeon,L Wykes-Templeman,G Shukla,0,0,,,,,,"",""
+ball,1,2.3,France,IY Mckeon,L Wykes-Templeman,G Shukla,1,0,,,,,,"",""
+ball,1,2.4,France,L Wykes-Templeman,IY Mckeon,G Shukla,0,0,,,,,,"",""
+ball,1,2.5,France,L Wykes-Templeman,IY Mckeon,G Shukla,2,0,,,,,,"",""
+ball,1,2.6,France,L Wykes-Templeman,IY Mckeon,G Shukla,0,0,,,,,,"",""
+ball,1,3.1,France,IY Mckeon,L Wykes-Templeman,S Bhanushali,1,0,,,,,,"",""
+ball,1,3.2,France,L Wykes-Templeman,IY Mckeon,S Bhanushali,0,0,,,,,,bowled,L Wykes-Templeman
+ball,1,3.3,France,PC McGeown,IY Mckeon,S Bhanushali,1,0,,,,,,"",""
+ball,1,3.4,France,IY Mckeon,PC McGeown,S Bhanushali,4,0,,,,,,"",""
+ball,1,3.5,France,IY Mckeon,PC McGeown,S Bhanushali,0,0,,,,,,"",""
+ball,1,3.6,France,IY Mckeon,PC McGeown,S Bhanushali,4,0,,,,,,"",""
+ball,1,4.1,France,PC McGeown,IY Mckeon,SK Ravuri,0,0,,,,,,"",""
+ball,1,4.2,France,PC McGeown,IY Mckeon,SK Ravuri,0,1,,,1,,,"",""
+ball,1,4.3,France,IY Mckeon,PC McGeown,SK Ravuri,4,0,,,,,,"",""
+ball,1,4.4,France,IY Mckeon,PC McGeown,SK Ravuri,4,0,,,,,,"",""
+ball,1,4.5,France,IY Mckeon,PC McGeown,SK Ravuri,0,0,,,,,,"",""
+ball,1,4.6,France,IY Mckeon,PC McGeown,SK Ravuri,4,0,,,,,,"",""
+ball,1,5.1,France,PC McGeown,IY Mckeon,Jayasooriya,0,0,,,,,,"",""
+ball,1,5.2,France,PC McGeown,IY Mckeon,Jayasooriya,1,0,,,,,,"",""
+ball,1,5.3,France,IY Mckeon,PC McGeown,Jayasooriya,0,1,1,,,,,"",""
+ball,1,5.4,France,IY Mckeon,PC McGeown,Jayasooriya,1,0,,,,,,"",""
+ball,1,5.5,France,PC McGeown,IY Mckeon,Jayasooriya,4,0,,,,,,"",""
+ball,1,5.6,France,PC McGeown,IY Mckeon,Jayasooriya,0,0,,,,,,"",""
+ball,1,5.7,France,PC McGeown,IY Mckeon,Jayasooriya,0,0,,,,,,"",""
+ball,1,6.1,France,IY Mckeon,PC McGeown,H Chamto,0,0,,,,,,"",""
+ball,1,6.2,France,IY Mckeon,PC McGeown,H Chamto,1,0,,,,,,"",""
+ball,1,6.3,France,PC McGeown,IY Mckeon,H Chamto,0,1,1,,,,,"",""
+ball,1,6.4,France,PC McGeown,IY Mckeon,H Chamto,1,0,,,,,,"",""
+ball,1,6.5,France,IY Mckeon,PC McGeown,H Chamto,0,0,,,,,,"",""
+ball,1,6.6,France,IY Mckeon,PC McGeown,H Chamto,1,0,,,,,,"",""
+ball,1,6.7,France,PC McGeown,IY Mckeon,H Chamto,0,0,,,,,,stumped,PC McGeown
+ball,1,7.1,France,IY Mckeon,ME Violleau,Jayasooriya,0,0,,,,,,"",""
+ball,1,7.2,France,IY Mckeon,ME Violleau,Jayasooriya,0,1,1,,,,,"",""
+ball,1,7.3,France,IY Mckeon,ME Violleau,Jayasooriya,6,0,,,,,,"",""
+ball,1,7.4,France,IY Mckeon,ME Violleau,Jayasooriya,1,0,,,,,,"",""
+ball,1,7.5,France,ME Violleau,IY Mckeon,Jayasooriya,0,0,,,,,,"",""
+ball,1,7.6,France,ME Violleau,IY Mckeon,Jayasooriya,1,0,,,,,,"",""
+ball,1,7.7,France,IY Mckeon,ME Violleau,Jayasooriya,4,0,,,,,,"",""
+ball,1,8.1,France,ME Violleau,IY Mckeon,H Chamto,0,0,,,,,,"",""
+ball,1,8.2,France,ME Violleau,IY Mckeon,H Chamto,1,0,,,,,,"",""
+ball,1,8.3,France,IY Mckeon,ME Violleau,H Chamto,1,0,,,,,,"",""
+ball,1,8.4,France,ME Violleau,IY Mckeon,H Chamto,1,0,,,,,,"",""
+ball,1,8.5,France,IY Mckeon,ME Violleau,H Chamto,2,0,,,,,,"",""
+ball,1,8.6,France,IY Mckeon,ME Violleau,H Chamto,0,0,,,,,,"",""
+ball,1,9.1,France,ME Violleau,IY Mckeon,A Vaidya,0,0,,,,,,caught,ME Violleau
+ball,1,9.2,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,1,1,,,,,"",""
+ball,1,9.3,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,0,,,,,,"",""
+ball,1,9.4,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,0,,,,,,"",""
+ball,1,9.5,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,0,,,,,,"",""
+ball,1,9.6,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,0,,,,,,"",""
+ball,1,9.7,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,1,1,,,,,"",""
+ball,1,9.8,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,0,,,,,,"",""
+ball,1,10.1,France,IY Mckeon,Ganesh Pooja,H Chamto,0,0,,,,,,"",""
+ball,1,10.2,France,IY Mckeon,Ganesh Pooja,H Chamto,4,0,,,,,,"",""
+ball,1,10.3,France,IY Mckeon,Ganesh Pooja,H Chamto,4,0,,,,,,"",""
+ball,1,10.4,France,IY Mckeon,Ganesh Pooja,H Chamto,0,0,,,,,,"",""
+ball,1,10.5,France,IY Mckeon,Ganesh Pooja,H Chamto,0,0,,,,,,"",""
+ball,1,10.6,France,IY Mckeon,Ganesh Pooja,H Chamto,0,0,,,,,,"",""
+ball,1,11.1,France,Ganesh Pooja,IY Mckeon,A Vaidya,1,0,,,,,,"",""
+ball,1,11.2,France,IY Mckeon,Ganesh Pooja,A Vaidya,0,0,,,,,,"",""
+ball,1,11.3,France,IY Mckeon,Ganesh Pooja,A Vaidya,0,0,,,,,,"",""
+ball,1,11.4,France,IY Mckeon,Ganesh Pooja,A Vaidya,4,0,,,,,,"",""
+ball,1,11.5,France,IY Mckeon,Ganesh Pooja,A Vaidya,0,1,1,,,,,"",""
+ball,1,11.6,France,IY Mckeon,Ganesh Pooja,A Vaidya,1,0,,,,,,"",""
+ball,1,11.7,France,Ganesh Pooja,IY Mckeon,A Vaidya,1,0,,,,,,"",""
+ball,1,12.1,France,Ganesh Pooja,IY Mckeon,SK Ravuri,0,0,,,,,,"",""
+ball,1,12.2,France,Ganesh Pooja,IY Mckeon,SK Ravuri,1,0,,,,,,"",""
+ball,1,12.3,France,IY Mckeon,Ganesh Pooja,SK Ravuri,6,0,,,,,,"",""
+ball,1,12.4,France,IY Mckeon,Ganesh Pooja,SK Ravuri,2,0,,,,,,"",""
+ball,1,12.5,France,IY Mckeon,Ganesh Pooja,SK Ravuri,1,0,,,,,,"",""
+ball,1,12.6,France,Ganesh Pooja,IY Mckeon,SK Ravuri,0,0,,,,,,"",""
+ball,1,13.1,France,IY Mckeon,Ganesh Pooja,A Vaidya,0,0,,,,,,"",""
+ball,1,13.2,France,IY Mckeon,Ganesh Pooja,A Vaidya,0,0,,,,,,"",""
+ball,1,13.3,France,IY Mckeon,Ganesh Pooja,A Vaidya,1,0,,,,,,"",""
+ball,1,13.4,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,1,1,,,,,"",""
+ball,1,13.5,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,0,,,,,,"",""
+ball,1,13.6,France,Ganesh Pooja,IY Mckeon,A Vaidya,1,0,,,,,,"",""
+ball,1,13.7,France,IY Mckeon,Ganesh Pooja,A Vaidya,0,0,,,,,,"",""
+ball,1,14.1,France,Ganesh Pooja,IY Mckeon,Kanchan Rana,0,0,,,,,,"",""
+ball,1,14.2,France,Ganesh Pooja,IY Mckeon,Kanchan Rana,0,0,,,,,,"",""
+ball,1,14.3,France,Ganesh Pooja,IY Mckeon,Kanchan Rana,1,0,,,,,,"",""
+ball,1,14.4,France,IY Mckeon,Ganesh Pooja,Kanchan Rana,0,0,,,,,,"",""
+ball,1,14.5,France,IY Mckeon,Ganesh Pooja,Kanchan Rana,2,0,,,,,,"",""
+ball,1,14.6,France,IY Mckeon,Ganesh Pooja,Kanchan Rana,0,1,1,,,,,"",""
+ball,1,14.7,France,IY Mckeon,Ganesh Pooja,Kanchan Rana,1,0,,,,,,"",""
+ball,1,15.1,France,IY Mckeon,Ganesh Pooja,A Vaidya,0,0,,,,,,"",""
+ball,1,15.2,France,IY Mckeon,Ganesh Pooja,A Vaidya,1,0,,,,,,"",""
+ball,1,15.3,France,Ganesh Pooja,IY Mckeon,A Vaidya,0,0,,,,,,caught,Ganesh Pooja
+ball,1,15.4,France,AL Seddon,IY Mckeon,A Vaidya,0,0,,,,,,"",""
+ball,1,15.5,France,AL Seddon,IY Mckeon,A Vaidya,0,1,1,,,,,"",""
+ball,1,15.6,France,AL Seddon,IY Mckeon,A Vaidya,1,0,,,,,,"",""
+ball,1,15.7,France,IY Mckeon,AL Seddon,A Vaidya,0,0,,,,,,"",""
+ball,1,16.1,France,AL Seddon,IY Mckeon,G Shukla,2,0,,,,,,"",""
+ball,1,16.2,France,AL Seddon,IY Mckeon,G Shukla,4,0,,,,,,"",""
+ball,1,16.3,France,AL Seddon,IY Mckeon,G Shukla,2,0,,,,,,"",""
+ball,1,16.4,France,AL Seddon,IY Mckeon,G Shukla,0,0,,,,,,"",""
+ball,1,16.5,France,AL Seddon,IY Mckeon,G Shukla,4,0,,,,,,"",""
+ball,1,16.6,France,AL Seddon,IY Mckeon,G Shukla,0,0,,,,,,"",""
+ball,1,17.1,France,IY Mckeon,AL Seddon,S Bhanushali,0,0,,,,,,"",""
+ball,1,17.2,France,IY Mckeon,AL Seddon,S Bhanushali,1,0,,,,,,"",""
+ball,1,17.3,France,AL Seddon,IY Mckeon,S Bhanushali,1,0,,,,,,"",""
+ball,1,17.4,France,IY Mckeon,AL Seddon,S Bhanushali,2,0,,,,,,"",""
+ball,1,17.5,France,IY Mckeon,AL Seddon,S Bhanushali,4,0,,,,,,"",""
+ball,1,17.6,France,IY Mckeon,AL Seddon,S Bhanushali,1,0,,,,,,"",""
+ball,1,18.1,France,IY Mckeon,AL Seddon,G Shukla,0,0,,,,,,"",""
+ball,1,18.2,France,IY Mckeon,AL Seddon,G Shukla,2,0,,,,,,"",""
+ball,1,18.3,France,IY Mckeon,AL Seddon,G Shukla,6,0,,,,,,"",""
+ball,1,18.4,France,IY Mckeon,AL Seddon,G Shukla,1,0,,,,,,"",""
+ball,1,18.5,France,AL Seddon,IY Mckeon,G Shukla,2,0,,,,,,"",""
+ball,1,18.6,France,AL Seddon,IY Mckeon,G Shukla,2,0,,,,,,"",""
+ball,1,19.1,France,IY Mckeon,AL Seddon,S Bhanushali,0,1,1,,,,,"",""
+ball,1,19.2,France,IY Mckeon,AL Seddon,S Bhanushali,1,0,,,,,,"",""
+ball,1,19.3,France,AL Seddon,IY Mckeon,S Bhanushali,2,0,,,,,,"",""
+ball,1,19.4,France,AL Seddon,IY Mckeon,S Bhanushali,1,0,,,,,,"",""
+ball,1,19.5,France,IY Mckeon,AL Seddon,S Bhanushali,4,0,,,,,,"",""
+ball,1,19.6,France,IY Mckeon,AL Seddon,S Bhanushali,0,0,,,,,,caught,IY Mckeon
+ball,1,19.7,France,Emma Patel,AL Seddon,S Bhanushali,4,0,,,,,,"",""
+ball,2,0.1,Sweden,Kanchan Rana,S Lundell,AL Seddon,0,0,,,,,,"",""
+ball,2,0.2,Sweden,Kanchan Rana,S Lundell,AL Seddon,0,0,,,,,,"",""
+ball,2,0.3,Sweden,Kanchan Rana,S Lundell,AL Seddon,0,0,,,,,,"",""
+ball,2,0.4,Sweden,Kanchan Rana,S Lundell,AL Seddon,0,0,,,,,,"",""
+ball,2,0.5,Sweden,Kanchan Rana,S Lundell,AL Seddon,1,0,,,,,,"",""
+ball,2,0.6,Sweden,S Lundell,Kanchan Rana,AL Seddon,0,0,,,,,,"",""
+ball,2,1.1,Sweden,Kanchan Rana,S Lundell,DL Graham,1,0,,,,,,"",""
+ball,2,1.2,Sweden,S Lundell,Kanchan Rana,DL Graham,0,0,,,,,,"",""
+ball,2,1.3,Sweden,S Lundell,Kanchan Rana,DL Graham,0,0,,,,,,"",""
+ball,2,1.4,Sweden,S Lundell,Kanchan Rana,DL Graham,4,0,,,,,,"",""
+ball,2,1.5,Sweden,S Lundell,Kanchan Rana,DL Graham,0,2,,,2,,,"",""
+ball,2,1.6,Sweden,S Lundell,Kanchan Rana,DL Graham,1,0,,,,,,"",""
+ball,2,2.1,Sweden,S Lundell,Kanchan Rana,AL Seddon,2,0,,,,,,"",""
+ball,2,2.2,Sweden,S Lundell,Kanchan Rana,AL Seddon,0,0,,,,,,"",""
+ball,2,2.3,Sweden,S Lundell,Kanchan Rana,AL Seddon,1,0,,,,,,"",""
+ball,2,2.4,Sweden,Kanchan Rana,S Lundell,AL Seddon,0,0,,,,,,"",""
+ball,2,2.5,Sweden,Kanchan Rana,S Lundell,AL Seddon,1,0,,,,,,"",""
+ball,2,2.6,Sweden,S Lundell,Kanchan Rana,AL Seddon,0,1,,1,,,,"",""
+ball,2,2.7,Sweden,S Lundell,Kanchan Rana,AL Seddon,0,0,,,,,,"",""
+ball,2,3.1,Sweden,Kanchan Rana,S Lundell,DL Graham,0,0,,,,,,"",""
+ball,2,3.2,Sweden,Kanchan Rana,S Lundell,DL Graham,1,0,,,,,,"",""
+ball,2,3.3,Sweden,S Lundell,Kanchan Rana,DL Graham,1,0,,,,,,"",""
+ball,2,3.4,Sweden,Kanchan Rana,S Lundell,DL Graham,1,1,,1,,,,"",""
+ball,2,3.5,Sweden,S Lundell,Kanchan Rana,DL Graham,1,0,,,,,,"",""
+ball,2,3.6,Sweden,Kanchan Rana,S Lundell,DL Graham,1,0,,,,,,"",""
+ball,2,3.7,Sweden,S Lundell,Kanchan Rana,DL Graham,0,0,,,,,,"",""
+ball,2,4.1,Sweden,Kanchan Rana,S Lundell,A Bester,1,0,,,,,,"",""
+ball,2,4.2,Sweden,S Lundell,Kanchan Rana,A Bester,0,0,,,,,,"",""
+ball,2,4.3,Sweden,S Lundell,Kanchan Rana,A Bester,0,0,,,,,,"",""
+ball,2,4.4,Sweden,S Lundell,Kanchan Rana,A Bester,0,0,,,,,,"",""
+ball,2,4.5,Sweden,S Lundell,Kanchan Rana,A Bester,1,0,,,,,,"",""
+ball,2,4.6,Sweden,Kanchan Rana,S Lundell,A Bester,0,0,,,,,,"",""
+ball,2,5.1,Sweden,S Lundell,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,5.2,Sweden,S Lundell,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,5.3,Sweden,S Lundell,Kanchan Rana,PKM Mahawattage,0,0,,,,,,bowled,S Lundell
+ball,2,5.4,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,5.5,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,2,0,,,,,,"",""
+ball,2,5.6,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,6.1,Sweden,Kanchan Rana,G Shukla,A Bester,0,0,,,,,,"",""
+ball,2,6.2,Sweden,Kanchan Rana,G Shukla,A Bester,1,0,,,,,,"",""
+ball,2,6.3,Sweden,G Shukla,Kanchan Rana,A Bester,0,0,,,,,,"",""
+ball,2,6.4,Sweden,G Shukla,Kanchan Rana,A Bester,4,0,,,,,,"",""
+ball,2,6.5,Sweden,G Shukla,Kanchan Rana,A Bester,1,0,,,,,,"",""
+ball,2,6.6,Sweden,Kanchan Rana,G Shukla,A Bester,1,0,,,,,,"",""
+ball,2,7.1,Sweden,Kanchan Rana,G Shukla,PKM Mahawattage,2,0,,,,,,"",""
+ball,2,7.2,Sweden,Kanchan Rana,G Shukla,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,7.3,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,7.4,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,7.5,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,7.6,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,8.1,Sweden,Kanchan Rana,G Shukla,Emma Patel,0,0,,,,,,"",""
+ball,2,8.2,Sweden,Kanchan Rana,G Shukla,Emma Patel,2,0,,,,,,"",""
+ball,2,8.3,Sweden,Kanchan Rana,G Shukla,Emma Patel,1,0,,,,,,"",""
+ball,2,8.4,Sweden,G Shukla,Kanchan Rana,Emma Patel,0,0,,,,,,"",""
+ball,2,8.5,Sweden,G Shukla,Kanchan Rana,Emma Patel,0,3,3,,,,,"",""
+ball,2,8.6,Sweden,G Shukla,Kanchan Rana,Emma Patel,1,0,,,,,,"",""
+ball,2,8.7,Sweden,Kanchan Rana,G Shukla,Emma Patel,2,0,,,,,,"",""
+ball,2,9.1,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,9.2,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,9.3,Sweden,Kanchan Rana,G Shukla,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,9.4,Sweden,Kanchan Rana,G Shukla,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,9.5,Sweden,G Shukla,Kanchan Rana,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,9.6,Sweden,Kanchan Rana,G Shukla,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,10.1,Sweden,Kanchan Rana,G Shukla,Emma Patel,0,0,,,,,,"",""
+ball,2,10.2,Sweden,Kanchan Rana,G Shukla,Emma Patel,2,0,,,,,,"",""
+ball,2,10.3,Sweden,Kanchan Rana,G Shukla,Emma Patel,1,0,,,,,,"",""
+ball,2,10.4,Sweden,G Shukla,Kanchan Rana,Emma Patel,1,0,,,,,,"",""
+ball,2,10.5,Sweden,Kanchan Rana,G Shukla,Emma Patel,2,0,,,,,,"",""
+ball,2,10.6,Sweden,Kanchan Rana,G Shukla,Emma Patel,0,4,,,4,,,"",""
+ball,2,11.1,Sweden,G Shukla,Kanchan Rana,ME Violleau,1,0,,,,,,"",""
+ball,2,11.2,Sweden,Kanchan Rana,G Shukla,ME Violleau,1,0,,,,,,"",""
+ball,2,11.3,Sweden,G Shukla,Kanchan Rana,ME Violleau,2,0,,,,,,"",""
+ball,2,11.4,Sweden,G Shukla,Kanchan Rana,ME Violleau,1,0,,,,,,"",""
+ball,2,11.5,Sweden,Kanchan Rana,G Shukla,ME Violleau,2,0,,,,,,"",""
+ball,2,11.6,Sweden,Kanchan Rana,G Shukla,ME Violleau,1,0,,,,,,"",""
+ball,2,12.1,Sweden,Kanchan Rana,G Shukla,A Bester,1,0,,,,,,"",""
+ball,2,12.2,Sweden,G Shukla,Kanchan Rana,A Bester,0,0,,,,,,"",""
+ball,2,12.3,Sweden,G Shukla,Kanchan Rana,A Bester,4,0,,,,,,"",""
+ball,2,12.4,Sweden,G Shukla,Kanchan Rana,A Bester,1,0,,,,,,"",""
+ball,2,12.5,Sweden,Kanchan Rana,G Shukla,A Bester,0,0,,,,,,"",""
+ball,2,12.6,Sweden,Kanchan Rana,G Shukla,A Bester,0,0,,,,,,bowled,Kanchan Rana
+ball,2,13.1,Sweden,G Shukla,A Vaidya,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,13.2,Sweden,G Shukla,A Vaidya,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,13.3,Sweden,G Shukla,A Vaidya,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,13.4,Sweden,A Vaidya,G Shukla,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,13.5,Sweden,G Shukla,A Vaidya,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,13.6,Sweden,A Vaidya,G Shukla,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,14.1,Sweden,A Vaidya,G Shukla,A Bester,0,0,,,,,,bowled,A Vaidya
+ball,2,14.2,Sweden,Jayasooriya,G Shukla,A Bester,0,0,,,,,,run out,Jayasooriya
+ball,2,14.3,Sweden,Eman Asim,G Shukla,A Bester,0,0,,,,,,run out,Eman Asim
+ball,2,14.4,Sweden,E Thelander,G Shukla,A Bester,0,0,,,,,,"",""
+ball,2,14.5,Sweden,E Thelander,G Shukla,A Bester,0,0,,,,,,"",""
+ball,2,14.6,Sweden,E Thelander,G Shukla,A Bester,1,0,,,,,,"",""
+ball,2,15.1,Sweden,E Thelander,G Shukla,DL Graham,1,0,,,,,,"",""
+ball,2,15.2,Sweden,G Shukla,E Thelander,DL Graham,0,0,,,,,,"",""
+ball,2,15.3,Sweden,G Shukla,E Thelander,DL Graham,2,0,,,,,,"",""
+ball,2,15.4,Sweden,G Shukla,E Thelander,DL Graham,0,0,,,,,,"",""
+ball,2,15.5,Sweden,G Shukla,E Thelander,DL Graham,1,0,,,,,,"",""
+ball,2,15.6,Sweden,E Thelander,G Shukla,DL Graham,0,0,,,,,,run out,E Thelander
+ball,2,16.1,Sweden,G Shukla,RG Somashekhar,AL Seddon,2,0,,,,,,"",""
+ball,2,16.2,Sweden,G Shukla,RG Somashekhar,AL Seddon,4,0,,,,,,"",""
+ball,2,16.3,Sweden,G Shukla,RG Somashekhar,AL Seddon,0,0,,,,,,caught,G Shukla
+ball,2,16.4,Sweden,H Chamto,RG Somashekhar,AL Seddon,1,0,,,,,,"",""
+ball,2,16.5,Sweden,RG Somashekhar,H Chamto,AL Seddon,1,0,,,,,,"",""
+ball,2,16.6,Sweden,H Chamto,RG Somashekhar,AL Seddon,0,0,,,,,,"",""
+ball,2,17.1,Sweden,RG Somashekhar,H Chamto,DL Graham,0,0,,,,,,"",""
+ball,2,17.2,Sweden,RG Somashekhar,H Chamto,DL Graham,1,0,,,,,,"",""
+ball,2,17.3,Sweden,H Chamto,RG Somashekhar,DL Graham,0,5,,1,4,,,"",""
+ball,2,17.4,Sweden,H Chamto,RG Somashekhar,DL Graham,1,0,,,,,,"",""
+ball,2,17.5,Sweden,RG Somashekhar,H Chamto,DL Graham,0,0,,,,,,"",""
+ball,2,17.6,Sweden,RG Somashekhar,H Chamto,DL Graham,1,0,,,,,,"",""
+ball,2,17.7,Sweden,H Chamto,RG Somashekhar,DL Graham,0,0,,,,,,lbw,H Chamto
+ball,2,18.1,Sweden,RG Somashekhar,S Bhanushali,AL Seddon,0,0,,,,,,"",""
+ball,2,18.2,Sweden,RG Somashekhar,S Bhanushali,AL Seddon,1,0,,,,,,"",""
+ball,2,18.3,Sweden,S Bhanushali,RG Somashekhar,AL Seddon,1,0,,,,,,"",""
+ball,2,18.4,Sweden,RG Somashekhar,S Bhanushali,AL Seddon,0,0,,,,,,"",""
+ball,2,18.5,Sweden,RG Somashekhar,S Bhanushali,AL Seddon,1,0,,,,,,"",""
+ball,2,18.6,Sweden,S Bhanushali,RG Somashekhar,AL Seddon,1,0,,,,,,"",""
+ball,2,19.1,Sweden,S Bhanushali,RG Somashekhar,Emma Patel,0,0,,,,,,"",""
+ball,2,19.2,Sweden,S Bhanushali,RG Somashekhar,Emma Patel,0,0,,,,,,"",""
+ball,2,19.3,Sweden,S Bhanushali,RG Somashekhar,Emma Patel,0,0,,,,,,"",""
+ball,2,19.4,Sweden,S Bhanushali,RG Somashekhar,Emma Patel,1,0,,,,,,"",""
+ball,2,19.5,Sweden,RG Somashekhar,S Bhanushali,Emma Patel,0,0,,,,,,"",""
+ball,2,19.6,Sweden,RG Somashekhar,S Bhanushali,Emma Patel,0,0,,,,,,"",""

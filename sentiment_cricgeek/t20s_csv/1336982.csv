@@ -1,0 +1,325 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Japan
+info,gender,female
+info,season,2022/23
+info,date,2022/10/30
+info,event,Women's East Asia Cup
+info,match_number,4
+info,venue,Kaizuka Cricket Ground
+info,city,Osaka
+info,toss_winner,Japan
+info,toss_decision,field
+info,player_of_match,Ruchitha Venkatesh
+info,umpire,Adam Birss
+info,umpire,D Natarajan
+info,outcome,tie
+info,eliminator,Hong Kong
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,WK Lai
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,TOW Chu
+info,player,Hong Kong,Iqra Sahar
+info,player,Japan,A Kano
+info,player,Japan,Erika Oda
+info,player,Japan,A Chandel
+info,player,Japan,S Miyaji
+info,player,Japan,S Kato
+info,player,Japan,M Yanagida
+info,player,Japan,H Goto
+info,player,Japan,M Yoshioka
+info,player,Japan,A Fujikawa
+info,player,Japan,Kiyo Fujikawa
+info,player,Japan,M Ogawa
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,D Natarajan,aa3ea16d
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Goto,b3af5bff
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,Kiyo Fujikawa,bb0dfa8c
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Ogawa,93d65d0f
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,M Yoshioka,3a93120a
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,S Kato,ef9ff861
+info,registry,people,S Miyaji,3aca2ed5
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,TOW Chu,49693035
+info,registry,people,WK Lai,6ab99b17
+info,registry,people,Y Daswani,2038a273
+ball,1,0.1,Hong Kong,NT Miles,M Hill,A Chandel,0,0,,,,,,"",""
+ball,1,0.2,Hong Kong,NT Miles,M Hill,A Chandel,1,0,,,,,,"",""
+ball,1,0.3,Hong Kong,M Hill,NT Miles,A Chandel,1,0,,,,,,"",""
+ball,1,0.4,Hong Kong,NT Miles,M Hill,A Chandel,0,0,,,,,,"",""
+ball,1,0.5,Hong Kong,NT Miles,M Hill,A Chandel,1,0,,,,,,"",""
+ball,1,0.6,Hong Kong,M Hill,NT Miles,A Chandel,1,0,,,,,,"",""
+ball,1,1.1,Hong Kong,M Hill,NT Miles,S Kato,0,0,,,,,,"",""
+ball,1,1.2,Hong Kong,M Hill,NT Miles,S Kato,1,0,,,,,,"",""
+ball,1,1.3,Hong Kong,NT Miles,M Hill,S Kato,0,0,,,,,,"",""
+ball,1,1.4,Hong Kong,NT Miles,M Hill,S Kato,4,0,,,,,,"",""
+ball,1,1.5,Hong Kong,NT Miles,M Hill,S Kato,1,0,,,,,,"",""
+ball,1,1.6,Hong Kong,M Hill,NT Miles,S Kato,1,0,,,,,,"",""
+ball,1,2.1,Hong Kong,M Hill,NT Miles,A Chandel,0,0,,,,,,"",""
+ball,1,2.2,Hong Kong,M Hill,NT Miles,A Chandel,1,0,,,,,,"",""
+ball,1,2.3,Hong Kong,NT Miles,M Hill,A Chandel,2,0,,,,,,"",""
+ball,1,2.4,Hong Kong,NT Miles,M Hill,A Chandel,0,0,,,,,,"",""
+ball,1,2.5,Hong Kong,NT Miles,M Hill,A Chandel,0,0,,,,,,"",""
+ball,1,2.6,Hong Kong,NT Miles,M Hill,A Chandel,0,0,,,,,,"",""
+ball,1,3.1,Hong Kong,M Hill,NT Miles,S Kato,2,0,,,,,,"",""
+ball,1,3.2,Hong Kong,M Hill,NT Miles,S Kato,0,0,,,,,,bowled,M Hill
+ball,1,3.3,Hong Kong,Shanzeen Shahzad,NT Miles,S Kato,0,0,,,,,,"",""
+ball,1,3.4,Hong Kong,Shanzeen Shahzad,NT Miles,S Kato,0,0,,,,,,"",""
+ball,1,3.5,Hong Kong,Shanzeen Shahzad,NT Miles,S Kato,0,0,,,,,,"",""
+ball,1,3.6,Hong Kong,Shanzeen Shahzad,NT Miles,S Kato,2,0,,,,,,"",""
+ball,1,4.1,Hong Kong,NT Miles,Shanzeen Shahzad,A Fujikawa,4,0,,,,,,"",""
+ball,1,4.2,Hong Kong,NT Miles,Shanzeen Shahzad,A Fujikawa,4,0,,,,,,"",""
+ball,1,4.3,Hong Kong,NT Miles,Shanzeen Shahzad,A Fujikawa,2,0,,,,,,"",""
+ball,1,4.4,Hong Kong,NT Miles,Shanzeen Shahzad,A Fujikawa,0,0,,,,,,"",""
+ball,1,4.5,Hong Kong,NT Miles,Shanzeen Shahzad,A Fujikawa,4,0,,,,,,"",""
+ball,1,4.6,Hong Kong,NT Miles,Shanzeen Shahzad,A Fujikawa,0,0,,,,,,caught,NT Miles
+ball,1,5.1,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,1,0,,,,,,"",""
+ball,1,5.2,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,0,0,,,,,,"",""
+ball,1,5.3,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,0,0,,,,,,"",""
+ball,1,5.4,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,0,0,,,,,,"",""
+ball,1,5.5,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,1,0,,,,,,"",""
+ball,1,5.6,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,0,1,1,,,,,"",""
+ball,1,5.7,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,0,0,,,,,,"",""
+ball,1,6.1,Hong Kong,Y Daswani,Shanzeen Shahzad,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,6.2,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,6.3,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,6.4,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,6.5,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,1,,1,,,,"",""
+ball,1,6.6,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,6.7,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,7.1,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,0,0,,,,,,"",""
+ball,1,7.2,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,1,0,,,,,,"",""
+ball,1,7.3,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,1,0,,,,,,"",""
+ball,1,7.4,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,0,0,,,,,,"",""
+ball,1,7.5,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,0,0,,,,,,"",""
+ball,1,7.6,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,2,0,,,,,,"",""
+ball,1,8.1,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,8.2,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,8.3,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,4,0,,,,,,"",""
+ball,1,8.4,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,8.5,Hong Kong,Y Daswani,Shanzeen Shahzad,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,8.6,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,9.1,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,0,0,,,,,,"",""
+ball,1,9.2,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,0,0,,,,,,"",""
+ball,1,9.3,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,1,0,,,,,,"",""
+ball,1,9.4,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,2,0,,,,,,"",""
+ball,1,9.5,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,0,0,,,,,,"",""
+ball,1,9.6,Hong Kong,Y Daswani,Shanzeen Shahzad,S Miyaji,1,0,,,,,,"",""
+ball,1,10.1,Hong Kong,Y Daswani,Shanzeen Shahzad,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,10.2,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,10.3,Hong Kong,Y Daswani,Shanzeen Shahzad,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,10.4,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,10.5,Hong Kong,Y Daswani,Shanzeen Shahzad,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,10.6,Hong Kong,Shanzeen Shahzad,Y Daswani,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,11.1,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,0,0,,,,,,"",""
+ball,1,11.2,Hong Kong,Shanzeen Shahzad,Y Daswani,S Miyaji,0,0,,,,,,caught,Shanzeen Shahzad
+ball,1,11.3,Hong Kong,Ruchitha Venkatesh,Y Daswani,S Miyaji,0,0,,,,,,"",""
+ball,1,11.4,Hong Kong,Ruchitha Venkatesh,Y Daswani,S Miyaji,0,0,,,,,,"",""
+ball,1,11.5,Hong Kong,Ruchitha Venkatesh,Y Daswani,S Miyaji,0,0,,,,,,"",""
+ball,1,11.6,Hong Kong,Ruchitha Venkatesh,Y Daswani,S Miyaji,1,0,,,,,,"",""
+ball,1,12.1,Hong Kong,Ruchitha Venkatesh,Y Daswani,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,12.2,Hong Kong,Ruchitha Venkatesh,Y Daswani,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,12.3,Hong Kong,Y Daswani,Ruchitha Venkatesh,Kiyo Fujikawa,0,0,,,,,,"",""
+ball,1,12.4,Hong Kong,Y Daswani,Ruchitha Venkatesh,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,12.5,Hong Kong,Ruchitha Venkatesh,Y Daswani,Kiyo Fujikawa,0,1,1,,,,,"",""
+ball,1,12.6,Hong Kong,Ruchitha Venkatesh,Y Daswani,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,12.7,Hong Kong,Y Daswani,Ruchitha Venkatesh,Kiyo Fujikawa,1,0,,,,,,"",""
+ball,1,13.1,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Yanagida,1,0,,,,,,"",""
+ball,1,13.2,Hong Kong,Ruchitha Venkatesh,Y Daswani,M Yanagida,1,0,,,,,,"",""
+ball,1,13.3,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Yanagida,0,0,,,,,,"",""
+ball,1,13.4,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Yanagida,1,0,,,,,,"",""
+ball,1,13.5,Hong Kong,Ruchitha Venkatesh,Y Daswani,M Yanagida,1,0,,,,,,"",""
+ball,1,13.6,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Yanagida,0,0,,,,,,"",""
+ball,1,14.1,Hong Kong,Ruchitha Venkatesh,Y Daswani,M Ogawa,0,0,,,,,,"",""
+ball,1,14.2,Hong Kong,Ruchitha Venkatesh,Y Daswani,M Ogawa,1,0,,,,,,"",""
+ball,1,14.3,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Ogawa,2,0,,,,,,"",""
+ball,1,14.4,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Ogawa,1,0,,,,,,"",""
+ball,1,14.5,Hong Kong,Ruchitha Venkatesh,Y Daswani,M Ogawa,1,0,,,,,,"",""
+ball,1,14.6,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Ogawa,0,1,1,,,,,"",""
+ball,1,14.7,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Ogawa,1,0,,,,,,"",""
+ball,1,15.1,Hong Kong,Y Daswani,Ruchitha Venkatesh,M Yanagida,0,0,,,,,,caught,Y Daswani
+ball,1,15.2,Hong Kong,M Bibi,Ruchitha Venkatesh,M Yanagida,1,0,,,,,,"",""
+ball,1,15.3,Hong Kong,Ruchitha Venkatesh,M Bibi,M Yanagida,1,0,,,,,,"",""
+ball,1,15.4,Hong Kong,M Bibi,Ruchitha Venkatesh,M Yanagida,1,0,,,,,,"",""
+ball,1,15.5,Hong Kong,Ruchitha Venkatesh,M Bibi,M Yanagida,0,0,,,,,,"",""
+ball,1,15.6,Hong Kong,Ruchitha Venkatesh,M Bibi,M Yanagida,1,0,,,,,,"",""
+ball,1,16.1,Hong Kong,Ruchitha Venkatesh,M Bibi,M Ogawa,0,0,,,,,,"",""
+ball,1,16.2,Hong Kong,Ruchitha Venkatesh,M Bibi,M Ogawa,1,0,,,,,,"",""
+ball,1,16.3,Hong Kong,M Bibi,Ruchitha Venkatesh,M Ogawa,0,1,1,,,,,"",""
+ball,1,16.4,Hong Kong,M Bibi,Ruchitha Venkatesh,M Ogawa,1,0,,,,,,"",""
+ball,1,16.5,Hong Kong,Ruchitha Venkatesh,M Bibi,M Ogawa,1,0,,,,,,"",""
+ball,1,16.6,Hong Kong,M Bibi,Ruchitha Venkatesh,M Ogawa,2,0,,,,,,"",""
+ball,1,16.7,Hong Kong,M Bibi,Ruchitha Venkatesh,M Ogawa,0,0,,,,,,lbw,M Bibi
+ball,1,17.1,Hong Kong,Ruchitha Venkatesh,WK Lai,M Yanagida,1,0,,,,,,"",""
+ball,1,17.2,Hong Kong,WK Lai,Ruchitha Venkatesh,M Yanagida,0,0,,,,,,"",""
+ball,1,17.3,Hong Kong,WK Lai,Ruchitha Venkatesh,M Yanagida,0,0,,,,,,"",""
+ball,1,17.4,Hong Kong,WK Lai,Ruchitha Venkatesh,M Yanagida,0,0,,,,,,"",""
+ball,1,17.5,Hong Kong,WK Lai,Ruchitha Venkatesh,M Yanagida,1,0,,,,,,"",""
+ball,1,17.6,Hong Kong,Ruchitha Venkatesh,WK Lai,M Yanagida,1,0,,,,,,"",""
+ball,1,18.1,Hong Kong,Ruchitha Venkatesh,WK Lai,A Chandel,1,0,,,,,,"",""
+ball,1,18.2,Hong Kong,WK Lai,Ruchitha Venkatesh,A Chandel,0,0,,,,,,run out,WK Lai
+ball,1,18.3,Hong Kong,Ruchitha Venkatesh,Hiu Ying Cheung,A Chandel,1,0,,,,,,"",""
+ball,1,18.4,Hong Kong,Hiu Ying Cheung,Ruchitha Venkatesh,A Chandel,0,0,,,,,,caught,Hiu Ying Cheung
+ball,1,18.5,Hong Kong,Chan Ka Man,Ruchitha Venkatesh,A Chandel,0,0,,,,,,"",""
+ball,1,18.6,Hong Kong,Chan Ka Man,Ruchitha Venkatesh,A Chandel,1,0,,,,,,"",""
+ball,1,19.1,Hong Kong,Chan Ka Man,Ruchitha Venkatesh,S Kato,0,1,,,,1,,"",""
+ball,1,19.2,Hong Kong,Ruchitha Venkatesh,Chan Ka Man,S Kato,4,0,,,,,,"",""
+ball,1,19.3,Hong Kong,Ruchitha Venkatesh,Chan Ka Man,S Kato,2,0,,,,,,"",""
+ball,1,19.4,Hong Kong,Ruchitha Venkatesh,Chan Ka Man,S Kato,1,0,,,,,,"",""
+ball,1,19.5,Hong Kong,Chan Ka Man,Ruchitha Venkatesh,S Kato,1,0,,,,,,"",""
+ball,1,19.6,Hong Kong,Ruchitha Venkatesh,Chan Ka Man,S Kato,1,0,,,,,,"",""
+ball,2,0.1,Japan,A Kano,Erika Oda,Iqra Sahar,1,0,,,,,,"",""
+ball,2,0.2,Japan,Erika Oda,A Kano,Iqra Sahar,4,0,,,,,,"",""
+ball,2,0.3,Japan,Erika Oda,A Kano,Iqra Sahar,0,0,,,,,,"",""
+ball,2,0.4,Japan,Erika Oda,A Kano,Iqra Sahar,0,0,,,,,,"",""
+ball,2,0.5,Japan,Erika Oda,A Kano,Iqra Sahar,0,0,,,,,,"",""
+ball,2,0.6,Japan,Erika Oda,A Kano,Iqra Sahar,2,0,,,,,,"",""
+ball,2,1.1,Japan,A Kano,Erika Oda,Chan Ka Man,1,0,,,,,,"",""
+ball,2,1.2,Japan,Erika Oda,A Kano,Chan Ka Man,1,0,,,,,,"",""
+ball,2,1.3,Japan,A Kano,Erika Oda,Chan Ka Man,1,0,,,,,,"",""
+ball,2,1.4,Japan,Erika Oda,A Kano,Chan Ka Man,0,0,,,,,,"",""
+ball,2,1.5,Japan,Erika Oda,A Kano,Chan Ka Man,1,0,,,,,,"",""
+ball,2,1.6,Japan,A Kano,Erika Oda,Chan Ka Man,0,0,,,,,,"",""
+ball,2,2.1,Japan,Erika Oda,A Kano,M Bibi,0,0,,,,,,"",""
+ball,2,2.2,Japan,Erika Oda,A Kano,M Bibi,0,0,,,,,,"",""
+ball,2,2.3,Japan,Erika Oda,A Kano,M Bibi,1,0,,,,,,"",""
+ball,2,2.4,Japan,A Kano,Erika Oda,M Bibi,0,0,,,,,,"",""
+ball,2,2.5,Japan,A Kano,Erika Oda,M Bibi,0,0,,,,,,"",""
+ball,2,2.6,Japan,A Kano,Erika Oda,M Bibi,1,0,,,,,,"",""
+ball,2,3.1,Japan,A Kano,Erika Oda,Chan Ka Man,1,0,,,,,,"",""
+ball,2,3.2,Japan,Erika Oda,A Kano,Chan Ka Man,1,0,,,,,,"",""
+ball,2,3.3,Japan,A Kano,Erika Oda,Chan Ka Man,1,0,,,,,,"",""
+ball,2,3.4,Japan,Erika Oda,A Kano,Chan Ka Man,0,0,,,,,,"",""
+ball,2,3.5,Japan,Erika Oda,A Kano,Chan Ka Man,0,0,,,,,,"",""
+ball,2,3.6,Japan,Erika Oda,A Kano,Chan Ka Man,0,0,,,,,,"",""
+ball,2,4.1,Japan,A Kano,Erika Oda,M Bibi,1,0,,,,,,"",""
+ball,2,4.2,Japan,Erika Oda,A Kano,M Bibi,1,0,,,,,,"",""
+ball,2,4.3,Japan,A Kano,Erika Oda,M Bibi,0,0,,,,,,caught,A Kano
+ball,2,4.4,Japan,A Chandel,Erika Oda,M Bibi,0,0,,,,,,"",""
+ball,2,4.5,Japan,A Chandel,Erika Oda,M Bibi,0,0,,,,,,"",""
+ball,2,4.6,Japan,A Chandel,Erika Oda,M Bibi,1,0,,,,,,"",""
+ball,2,5.1,Japan,A Chandel,Erika Oda,Iqra Sahar,0,2,2,,,,,"",""
+ball,2,5.2,Japan,Erika Oda,A Chandel,Iqra Sahar,1,0,,,,,,"",""
+ball,2,5.3,Japan,A Chandel,Erika Oda,Iqra Sahar,0,0,,,,,,"",""
+ball,2,5.4,Japan,A Chandel,Erika Oda,Iqra Sahar,0,0,,,,,,"",""
+ball,2,5.5,Japan,A Chandel,Erika Oda,Iqra Sahar,0,0,,,,,,"",""
+ball,2,5.6,Japan,A Chandel,Erika Oda,Iqra Sahar,0,0,,,,,,"",""
+ball,2,5.7,Japan,A Chandel,Erika Oda,Iqra Sahar,1,0,,,,,,"",""
+ball,2,6.1,Japan,A Chandel,Erika Oda,M Hill,0,1,1,,,,,"",""
+ball,2,6.2,Japan,A Chandel,Erika Oda,M Hill,1,0,,,,,,"",""
+ball,2,6.3,Japan,Erika Oda,A Chandel,M Hill,0,0,,,,,,"",""
+ball,2,6.4,Japan,Erika Oda,A Chandel,M Hill,0,0,,,,,,"",""
+ball,2,6.5,Japan,Erika Oda,A Chandel,M Hill,0,0,,,,,,"",""
+ball,2,6.6,Japan,Erika Oda,A Chandel,M Hill,0,0,,,,,,"",""
+ball,2,6.7,Japan,Erika Oda,A Chandel,M Hill,0,0,,,,,,bowled,Erika Oda
+ball,2,7.1,Japan,A Chandel,S Miyaji,Iqra Sahar,1,0,,,,,,"",""
+ball,2,7.2,Japan,S Miyaji,A Chandel,Iqra Sahar,0,0,,,,,,"",""
+ball,2,7.3,Japan,S Miyaji,A Chandel,Iqra Sahar,0,0,,,,,,"",""
+ball,2,7.4,Japan,S Miyaji,A Chandel,Iqra Sahar,0,0,,,,,,"",""
+ball,2,7.5,Japan,S Miyaji,A Chandel,Iqra Sahar,0,1,1,,,,,"",""
+ball,2,7.6,Japan,S Miyaji,A Chandel,Iqra Sahar,0,0,,,,,,"",""
+ball,2,7.7,Japan,S Miyaji,A Chandel,Iqra Sahar,0,1,1,,,,,"",""
+ball,2,7.8,Japan,S Miyaji,A Chandel,Iqra Sahar,0,0,,,,,,"",""
+ball,2,8.1,Japan,A Chandel,S Miyaji,M Hill,0,0,,,,,,"",""
+ball,2,8.2,Japan,A Chandel,S Miyaji,M Hill,2,0,,,,,,"",""
+ball,2,8.3,Japan,A Chandel,S Miyaji,M Hill,0,0,,,,,,"",""
+ball,2,8.4,Japan,A Chandel,S Miyaji,M Hill,1,0,,,,,,"",""
+ball,2,8.5,Japan,S Miyaji,A Chandel,M Hill,1,0,,,,,,"",""
+ball,2,8.6,Japan,A Chandel,S Miyaji,M Hill,0,0,,,,,,"",""
+ball,2,9.1,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,0,1,,,,1,,"",""
+ball,2,9.2,Japan,A Chandel,S Miyaji,Ruchitha Venkatesh,4,0,,,,,,"",""
+ball,2,9.3,Japan,A Chandel,S Miyaji,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,9.4,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,9.5,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,9.6,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,10.1,Japan,A Chandel,S Miyaji,M Bibi,0,0,,,,,,"",""
+ball,2,10.2,Japan,A Chandel,S Miyaji,M Bibi,4,0,,,,,,"",""
+ball,2,10.3,Japan,A Chandel,S Miyaji,M Bibi,0,0,,,,,,"",""
+ball,2,10.4,Japan,A Chandel,S Miyaji,M Bibi,1,0,,,,,,"",""
+ball,2,10.5,Japan,S Miyaji,A Chandel,M Bibi,0,1,1,,,,,"",""
+ball,2,10.6,Japan,S Miyaji,A Chandel,M Bibi,0,0,,,,,,"",""
+ball,2,10.7,Japan,S Miyaji,A Chandel,M Bibi,1,0,,,,,,"",""
+ball,2,11.1,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,11.2,Japan,A Chandel,S Miyaji,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,11.3,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,11.4,Japan,A Chandel,S Miyaji,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,11.5,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,11.6,Japan,S Miyaji,A Chandel,Ruchitha Venkatesh,4,0,,,,,,"",""
+ball,2,12.1,Japan,A Chandel,S Miyaji,M Bibi,1,0,,,,,,"",""
+ball,2,12.2,Japan,S Miyaji,A Chandel,M Bibi,0,0,,,,,,"",""
+ball,2,12.3,Japan,S Miyaji,A Chandel,M Bibi,0,0,,,,,,bowled,S Miyaji
+ball,2,12.4,Japan,S Kato,A Chandel,M Bibi,0,0,,,,,,"",""
+ball,2,12.5,Japan,S Kato,A Chandel,M Bibi,0,0,,,,,,"",""
+ball,2,12.6,Japan,S Kato,A Chandel,M Bibi,0,0,,,,,,"",""
+ball,2,13.1,Japan,A Chandel,S Kato,TOW Chu,4,1,,1,,,,"",""
+ball,2,13.2,Japan,A Chandel,S Kato,TOW Chu,2,0,,,,,,"",""
+ball,2,13.3,Japan,A Chandel,S Kato,TOW Chu,0,0,,,,,,"",""
+ball,2,13.4,Japan,A Chandel,S Kato,TOW Chu,0,0,,,,,,bowled,A Chandel
+ball,2,13.5,Japan,M Yanagida,S Kato,TOW Chu,1,0,,,,,,"",""
+ball,2,13.6,Japan,S Kato,M Yanagida,TOW Chu,4,0,,,,,,"",""
+ball,2,13.7,Japan,S Kato,M Yanagida,TOW Chu,1,0,,,,,,"",""
+ball,2,14.1,Japan,S Kato,M Yanagida,Ruchitha Venkatesh,0,0,,,,,,caught,S Kato
+ball,2,14.2,Japan,H Goto,M Yanagida,Ruchitha Venkatesh,0,0,,,,,,"",""
+ball,2,14.3,Japan,H Goto,M Yanagida,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,14.4,Japan,M Yanagida,H Goto,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,14.5,Japan,H Goto,M Yanagida,Ruchitha Venkatesh,0,0,,,,,,run out,H Goto
+ball,2,14.6,Japan,M Yoshioka,M Yanagida,Ruchitha Venkatesh,1,0,,,,,,"",""
+ball,2,15.1,Japan,M Yoshioka,M Yanagida,Iqra Sahar,4,1,,1,,,,"",""
+ball,2,15.2,Japan,M Yoshioka,M Yanagida,Iqra Sahar,0,0,,,,,,"",""
+ball,2,15.3,Japan,M Yoshioka,M Yanagida,Iqra Sahar,1,0,,,,,,"",""
+ball,2,15.4,Japan,M Yanagida,M Yoshioka,Iqra Sahar,4,0,,,,,,"",""
+ball,2,15.5,Japan,M Yanagida,M Yoshioka,Iqra Sahar,4,0,,,,,,"",""
+ball,2,15.6,Japan,M Yanagida,M Yoshioka,Iqra Sahar,0,2,,,2,,,"",""
+ball,2,15.7,Japan,M Yanagida,M Yoshioka,Iqra Sahar,0,0,,,,,,"",""
+ball,2,16.1,Japan,M Yoshioka,M Yanagida,M Hill,1,0,,,,,,"",""
+ball,2,16.2,Japan,M Yanagida,M Yoshioka,M Hill,1,0,,,,,,"",""
+ball,2,16.3,Japan,M Yoshioka,M Yanagida,M Hill,1,0,,,,,,"",""
+ball,2,16.4,Japan,M Yanagida,M Yoshioka,M Hill,0,0,,,,,,"",""
+ball,2,16.5,Japan,M Yanagida,M Yoshioka,M Hill,1,0,,,,,,"",""
+ball,2,16.6,Japan,M Yoshioka,M Yanagida,M Hill,0,0,,,,,,"",""
+ball,2,17.1,Japan,M Yanagida,M Yoshioka,Chan Ka Man,1,0,,,,,,"",""
+ball,2,17.2,Japan,M Yoshioka,M Yanagida,Chan Ka Man,0,0,,,,,,"",""
+ball,2,17.3,Japan,M Yoshioka,M Yanagida,Chan Ka Man,0,0,,,,,,"",""
+ball,2,17.4,Japan,M Yoshioka,M Yanagida,Chan Ka Man,0,0,,,,,,stumped,M Yoshioka
+ball,2,17.5,Japan,A Fujikawa,M Yanagida,Chan Ka Man,0,0,,,,,,"",""
+ball,2,17.6,Japan,A Fujikawa,M Yanagida,Chan Ka Man,0,0,,,,,,"",""
+ball,2,18.1,Japan,M Yanagida,A Fujikawa,M Hill,0,0,,,,,,"",""
+ball,2,18.2,Japan,M Yanagida,A Fujikawa,M Hill,1,0,,,,,,"",""
+ball,2,18.3,Japan,A Fujikawa,M Yanagida,M Hill,0,0,,,,,,"",""
+ball,2,18.4,Japan,A Fujikawa,M Yanagida,M Hill,0,0,,,,,,"",""
+ball,2,18.5,Japan,A Fujikawa,M Yanagida,M Hill,0,1,,,,1,,"",""
+ball,2,18.6,Japan,M Yanagida,A Fujikawa,M Hill,0,0,,,,,,"",""
+ball,2,19.1,Japan,A Fujikawa,M Yanagida,Chan Ka Man,1,0,,,,,,"",""
+ball,2,19.2,Japan,M Yanagida,A Fujikawa,Chan Ka Man,1,0,,,,,,"",""
+ball,2,19.3,Japan,A Fujikawa,M Yanagida,Chan Ka Man,1,0,,,,,,"",""
+ball,2,19.4,Japan,M Yanagida,A Fujikawa,Chan Ka Man,2,0,,,,,,"",""
+ball,2,19.5,Japan,M Yanagida,A Fujikawa,Chan Ka Man,1,0,,,,,,"",""
+ball,2,19.6,Japan,A Fujikawa,M Yanagida,Chan Ka Man,2,0,,,,,,"",""
+ball,3,0.1,Japan,Erika Oda,A Chandel,M Hill,1,0,,,,,,"",""
+ball,3,0.2,Japan,A Chandel,Erika Oda,M Hill,0,0,,,,,,"",""
+ball,3,0.3,Japan,A Chandel,Erika Oda,M Hill,0,0,,,,,,caught and bowled,A Chandel
+ball,3,0.4,Japan,A Kano,Erika Oda,M Hill,1,0,,,,,,"",""
+ball,3,0.5,Japan,Erika Oda,A Kano,M Hill,1,0,,,,,,"",""
+ball,3,0.6,Japan,A Kano,Erika Oda,M Hill,1,0,,,,,,run out,Erika Oda
+ball,4,0.1,Hong Kong,NT Miles,M Hill,A Chandel,0,0,,,,,,"",""
+ball,4,0.2,Hong Kong,NT Miles,M Hill,A Chandel,1,0,,,,,,"",""
+ball,4,0.3,Hong Kong,M Hill,NT Miles,A Chandel,4,0,,,,,,"",""

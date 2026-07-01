@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Kenya
+info,gender,male
+info,season,2025
+info,date,2025/07/21
+info,event,Pearl of Africa T20I Series
+info,match_number,8
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,F Nsubuga
+info,umpire,Charles Kariuki
+info,umpire,IO Oyieko
+info,reserve_umpire,S Kintu
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_runs,28
+info,player,Uganda,SG Mangela
+info,player,Uganda,R Lutaaya
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,R Obuya
+info,player,Uganda,DM Nakrani
+info,player,Uganda,J Miyaji
+info,player,Uganda,AR Ramjani
+info,player,Uganda,F Nsubuga
+info,player,Uganda,M Musinguzi
+info,player,Uganda,C Kyewuta
+info,player,Uganda,CN Kakuru
+info,player,Kenya,DM Gondaria
+info,player,Kenya,P Sharma
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,RR Patel
+info,player,Kenya,S Singh
+info,player,Kenya,S Gill
+info,player,Kenya,JS Kundi
+info,player,Kenya,SO Ngoche
+info,player,Kenya,F Mutua
+info,player,Kenya,Vraj Patel
+info,player,Kenya,P Koech
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Mutua,21b67523
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,M Musinguzi,34712b35
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Kintu,ff387f93
+info,registry,people,S Singh,612a395c
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,Vraj Patel,2af28253
+ball,1,0.1,Uganda,SG Mangela,R Lutaaya,S Gill,2,0,,,,,,"",""
+ball,1,0.2,Uganda,SG Mangela,R Lutaaya,S Gill,2,0,,,,,,"",""
+ball,1,0.3,Uganda,SG Mangela,R Lutaaya,S Gill,2,0,,,,,,"",""
+ball,1,0.4,Uganda,SG Mangela,R Lutaaya,S Gill,1,0,,,,,,"",""
+ball,1,0.5,Uganda,R Lutaaya,SG Mangela,S Gill,0,0,,,,,,"",""
+ball,1,0.6,Uganda,R Lutaaya,SG Mangela,S Gill,0,0,,,,,,"",""
+ball,1,1.1,Uganda,SG Mangela,R Lutaaya,P Koech,2,0,,,,,,"",""
+ball,1,1.2,Uganda,SG Mangela,R Lutaaya,P Koech,4,0,,,,,,"",""
+ball,1,1.3,Uganda,SG Mangela,R Lutaaya,P Koech,0,1,1,,,,,"",""
+ball,1,1.4,Uganda,SG Mangela,R Lutaaya,P Koech,4,0,,,,,,"",""
+ball,1,1.5,Uganda,SG Mangela,R Lutaaya,P Koech,0,0,,,,,,bowled,SG Mangela
+ball,1,1.6,Uganda,Raghav Dhawan,R Lutaaya,P Koech,0,1,1,,,,,"",""
+ball,1,1.7,Uganda,Raghav Dhawan,R Lutaaya,P Koech,0,1,1,,,,,"",""
+ball,1,1.8,Uganda,Raghav Dhawan,R Lutaaya,P Koech,2,0,,,,,,"",""
+ball,1,1.9,Uganda,Raghav Dhawan,R Lutaaya,P Koech,0,0,,,,,,"",""
+ball,1,2.1,Uganda,R Lutaaya,Raghav Dhawan,S Gill,0,0,,,,,,bowled,R Lutaaya
+ball,1,2.2,Uganda,R Obuya,Raghav Dhawan,S Gill,0,0,,,,,,"",""
+ball,1,2.3,Uganda,R Obuya,Raghav Dhawan,S Gill,0,0,,,,,,"",""
+ball,1,2.4,Uganda,R Obuya,Raghav Dhawan,S Gill,0,2,,,2,,,"",""
+ball,1,2.5,Uganda,R Obuya,Raghav Dhawan,S Gill,0,0,,,,,,"",""
+ball,1,2.6,Uganda,R Obuya,Raghav Dhawan,S Gill,0,0,,,,,,"",""
+ball,1,3.1,Uganda,Raghav Dhawan,R Obuya,P Koech,0,0,,,,,,"",""
+ball,1,3.2,Uganda,Raghav Dhawan,R Obuya,P Koech,1,0,,,,,,"",""
+ball,1,3.3,Uganda,R Obuya,Raghav Dhawan,P Koech,1,0,,,,,,"",""
+ball,1,3.4,Uganda,Raghav Dhawan,R Obuya,P Koech,1,0,,,,,,"",""
+ball,1,3.5,Uganda,R Obuya,Raghav Dhawan,P Koech,0,0,,,,,,"",""
+ball,1,3.6,Uganda,R Obuya,Raghav Dhawan,P Koech,0,0,,,,,,"",""
+ball,1,4.1,Uganda,Raghav Dhawan,R Obuya,S Gill,0,0,,,,,,"",""
+ball,1,4.2,Uganda,Raghav Dhawan,R Obuya,S Gill,1,0,,,,,,"",""
+ball,1,4.3,Uganda,R Obuya,Raghav Dhawan,S Gill,0,0,,,,,,"",""
+ball,1,4.4,Uganda,R Obuya,Raghav Dhawan,S Gill,0,0,,,,,,"",""
+ball,1,4.5,Uganda,R Obuya,Raghav Dhawan,S Gill,0,0,,,,,,"",""
+ball,1,4.6,Uganda,R Obuya,Raghav Dhawan,S Gill,2,0,,,,,,"",""
+ball,1,5.1,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,0,0,,,,,,"",""
+ball,1,5.2,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,0,0,,,,,,"",""
+ball,1,5.3,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,1,0,,,,,,"",""
+ball,1,5.4,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,0,0,,,,,,"",""
+ball,1,5.5,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,1,0,,,,,,"",""
+ball,1,5.6,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,0,0,,,,,,"",""
+ball,1,6.1,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,0,0,,,,,,"",""
+ball,1,6.2,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,0,0,,,,,,"",""
+ball,1,6.3,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,0,0,,,,,,"",""
+ball,1,6.4,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,0,0,,,,,,"",""
+ball,1,6.5,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,1,0,,,,,,"",""
+ball,1,6.6,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,1,0,,,,,,"",""
+ball,1,7.1,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,0,0,,,,,,"",""
+ball,1,7.2,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,0,0,,,,,,"",""
+ball,1,7.3,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,2,0,,,,,,"",""
+ball,1,7.4,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,1,0,,,,,,"",""
+ball,1,7.5,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,0,0,,,,,,"",""
+ball,1,7.6,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,6,0,,,,,,"",""
+ball,1,8.1,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,6,0,,,,,,"",""
+ball,1,8.2,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,2,0,,,,,,"",""
+ball,1,8.3,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,1,0,,,,,,"",""
+ball,1,8.4,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,2,0,,,,,,"",""
+ball,1,8.5,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,1,0,,,,,,"",""
+ball,1,8.6,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,0,0,,,,,,"",""
+ball,1,9.1,Uganda,R Obuya,Raghav Dhawan,RR Patel,1,0,,,,,,"",""
+ball,1,9.2,Uganda,Raghav Dhawan,R Obuya,RR Patel,1,0,,,,,,"",""
+ball,1,9.3,Uganda,R Obuya,Raghav Dhawan,RR Patel,0,0,,,,,,"",""
+ball,1,9.4,Uganda,R Obuya,Raghav Dhawan,RR Patel,1,0,,,,,,"",""
+ball,1,9.5,Uganda,Raghav Dhawan,R Obuya,RR Patel,4,0,,,,,,"",""
+ball,1,9.6,Uganda,Raghav Dhawan,R Obuya,RR Patel,1,0,,,,,,"",""
+ball,1,10.1,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,1,0,,,,,,"",""
+ball,1,10.2,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,0,0,,,,,,"",""
+ball,1,10.3,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,0,0,,,,,,"",""
+ball,1,10.4,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,0,0,,,,,,"",""
+ball,1,10.5,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,1,0,,,,,,"",""
+ball,1,10.6,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,2,0,,,,,,"",""
+ball,1,11.1,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,2,0,,,,,,"",""
+ball,1,11.2,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,1,0,,,,,,"",""
+ball,1,11.3,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,2,0,,,,,,"",""
+ball,1,11.4,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,1,0,,,,,,"",""
+ball,1,11.5,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,1,0,,,,,,"",""
+ball,1,11.6,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,2,0,,,,,,"",""
+ball,1,12.1,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,0,0,,,,,,"",""
+ball,1,12.2,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,1,0,,,,,,"",""
+ball,1,12.3,Uganda,Raghav Dhawan,R Obuya,Vraj Patel,1,0,,,,,,"",""
+ball,1,12.4,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,0,0,,,,,,"",""
+ball,1,12.5,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,6,0,,,,,,"",""
+ball,1,12.6,Uganda,R Obuya,Raghav Dhawan,Vraj Patel,1,0,,,,,,"",""
+ball,1,13.1,Uganda,R Obuya,Raghav Dhawan,DM Gondaria,1,0,,,,,,"",""
+ball,1,13.2,Uganda,Raghav Dhawan,R Obuya,DM Gondaria,0,0,,,,,,"",""
+ball,1,13.3,Uganda,Raghav Dhawan,R Obuya,DM Gondaria,1,0,,,,,,"",""
+ball,1,13.4,Uganda,R Obuya,Raghav Dhawan,DM Gondaria,0,2,,,2,,,"",""
+ball,1,13.5,Uganda,R Obuya,Raghav Dhawan,DM Gondaria,0,0,,,,,,"",""
+ball,1,13.6,Uganda,R Obuya,Raghav Dhawan,DM Gondaria,0,0,,,,,,"",""
+ball,1,14.1,Uganda,Raghav Dhawan,R Obuya,F Mutua,0,0,,,,,,"",""
+ball,1,14.2,Uganda,Raghav Dhawan,R Obuya,F Mutua,2,0,,,,,,"",""
+ball,1,14.3,Uganda,Raghav Dhawan,R Obuya,F Mutua,1,0,,,,,,"",""
+ball,1,14.4,Uganda,R Obuya,Raghav Dhawan,F Mutua,2,0,,,,,,"",""
+ball,1,14.5,Uganda,R Obuya,Raghav Dhawan,F Mutua,1,0,,,,,,"",""
+ball,1,14.6,Uganda,Raghav Dhawan,R Obuya,F Mutua,0,1,,1,,,,"",""
+ball,1,14.7,Uganda,Raghav Dhawan,R Obuya,F Mutua,2,0,,,,,,"",""
+ball,1,15.1,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,1,0,,,,,,"",""
+ball,1,15.2,Uganda,Raghav Dhawan,R Obuya,SO Ngoche,1,0,,,,,,"",""
+ball,1,15.3,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,0,0,,,,,,"",""
+ball,1,15.4,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,6,0,,,,,,"",""
+ball,1,15.5,Uganda,R Obuya,Raghav Dhawan,SO Ngoche,0,0,,,,,,caught,R Obuya
+ball,1,15.6,Uganda,DM Nakrani,Raghav Dhawan,SO Ngoche,6,0,,,,,,"",""
+ball,1,16.1,Uganda,Raghav Dhawan,DM Nakrani,F Mutua,0,2,2,,,,,"",""
+ball,1,16.2,Uganda,DM Nakrani,Raghav Dhawan,F Mutua,2,0,,,,,,"",""
+ball,1,16.3,Uganda,DM Nakrani,Raghav Dhawan,F Mutua,1,0,,,,,,"",""
+ball,1,16.4,Uganda,Raghav Dhawan,DM Nakrani,F Mutua,0,0,,,,,,"",""
+ball,1,16.5,Uganda,Raghav Dhawan,DM Nakrani,F Mutua,0,1,1,,,,,"",""
+ball,1,16.6,Uganda,Raghav Dhawan,DM Nakrani,F Mutua,0,0,,,,,,caught,Raghav Dhawan
+ball,1,16.7,Uganda,J Miyaji,DM Nakrani,F Mutua,1,0,,,,,,"",""
+ball,1,16.8,Uganda,DM Nakrani,J Miyaji,F Mutua,2,0,,,,,,"",""
+ball,1,17.1,Uganda,J Miyaji,DM Nakrani,S Gill,1,0,,,,,,"",""
+ball,1,17.2,Uganda,DM Nakrani,J Miyaji,S Gill,2,0,,,,,,"",""
+ball,1,17.3,Uganda,DM Nakrani,J Miyaji,S Gill,4,0,,,,,,"",""
+ball,1,17.4,Uganda,DM Nakrani,J Miyaji,S Gill,0,1,,,,1,,"",""
+ball,1,17.5,Uganda,J Miyaji,DM Nakrani,S Gill,2,0,,,,,,"",""
+ball,1,17.6,Uganda,J Miyaji,DM Nakrani,S Gill,6,0,,,,,,"",""
+ball,1,18.1,Uganda,DM Nakrani,J Miyaji,F Mutua,2,0,,,,,,"",""
+ball,1,18.2,Uganda,DM Nakrani,J Miyaji,F Mutua,1,0,,,,,,"",""
+ball,1,18.3,Uganda,J Miyaji,DM Nakrani,F Mutua,6,0,,,,,,"",""
+ball,1,18.4,Uganda,J Miyaji,DM Nakrani,F Mutua,2,0,,,,,,"",""
+ball,1,18.5,Uganda,J Miyaji,DM Nakrani,F Mutua,1,0,,,,,,"",""
+ball,1,18.6,Uganda,DM Nakrani,J Miyaji,F Mutua,0,1,,,,1,,"",""
+ball,1,19.1,Uganda,DM Nakrani,J Miyaji,P Koech,1,0,,,,,,"",""
+ball,1,19.2,Uganda,J Miyaji,DM Nakrani,P Koech,0,0,,,,,,bowled,J Miyaji
+ball,1,19.3,Uganda,AR Ramjani,DM Nakrani,P Koech,1,1,,1,,,,"",""
+ball,1,19.4,Uganda,DM Nakrani,AR Ramjani,P Koech,0,0,,,,,,"",""
+ball,1,19.5,Uganda,DM Nakrani,AR Ramjani,P Koech,1,0,,,,,,"",""
+ball,1,19.6,Uganda,AR Ramjani,DM Nakrani,P Koech,1,0,,,,,,"",""
+ball,1,19.7,Uganda,DM Nakrani,AR Ramjani,P Koech,2,0,,,,,,"",""
+ball,2,0.1,Kenya,DM Gondaria,P Sharma,J Miyaji,0,1,1,,,,,"",""
+ball,2,0.2,Kenya,DM Gondaria,P Sharma,J Miyaji,0,1,1,,,,,"",""
+ball,2,0.3,Kenya,DM Gondaria,P Sharma,J Miyaji,0,1,,,,1,,"",""
+ball,2,0.4,Kenya,P Sharma,DM Gondaria,J Miyaji,0,0,,,,,,"",""
+ball,2,0.5,Kenya,P Sharma,DM Gondaria,J Miyaji,1,0,,,,,,"",""
+ball,2,0.6,Kenya,DM Gondaria,P Sharma,J Miyaji,0,0,,,,,,"",""
+ball,2,0.7,Kenya,DM Gondaria,P Sharma,J Miyaji,4,0,,,,,,"",""
+ball,2,0.8,Kenya,DM Gondaria,P Sharma,J Miyaji,0,0,,,,,,"",""
+ball,2,1.1,Kenya,P Sharma,DM Gondaria,F Nsubuga,0,0,,,,,,"",""
+ball,2,1.2,Kenya,P Sharma,DM Gondaria,F Nsubuga,1,0,,,,,,"",""
+ball,2,1.3,Kenya,DM Gondaria,P Sharma,F Nsubuga,0,0,,,,,,bowled,DM Gondaria
+ball,2,1.4,Kenya,Tanzeel Sheikh,P Sharma,F Nsubuga,0,0,,,,,,bowled,Tanzeel Sheikh
+ball,2,1.5,Kenya,RR Patel,P Sharma,F Nsubuga,0,0,,,,,,"",""
+ball,2,1.6,Kenya,RR Patel,P Sharma,F Nsubuga,0,0,,,,,,"",""
+ball,2,2.1,Kenya,P Sharma,RR Patel,C Kyewuta,0,1,1,,,,,"",""
+ball,2,2.2,Kenya,P Sharma,RR Patel,C Kyewuta,0,1,1,,,,,"",""
+ball,2,2.3,Kenya,P Sharma,RR Patel,C Kyewuta,0,0,,,,,,"",""
+ball,2,2.4,Kenya,P Sharma,RR Patel,C Kyewuta,0,0,,,,,,"",""
+ball,2,2.5,Kenya,P Sharma,RR Patel,C Kyewuta,0,0,,,,,,"",""
+ball,2,2.6,Kenya,P Sharma,RR Patel,C Kyewuta,1,0,,,,,,"",""
+ball,2,2.7,Kenya,RR Patel,P Sharma,C Kyewuta,0,0,,,,,,"",""
+ball,2,2.8,Kenya,RR Patel,P Sharma,C Kyewuta,0,0,,,,,,"",""
+ball,2,3.1,Kenya,P Sharma,RR Patel,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.2,Kenya,P Sharma,RR Patel,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.3,Kenya,P Sharma,RR Patel,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.4,Kenya,P Sharma,RR Patel,F Nsubuga,0,0,,,,,,caught,P Sharma
+ball,2,3.5,Kenya,S Singh,RR Patel,F Nsubuga,0,0,,,,,,"",""
+ball,2,3.6,Kenya,S Singh,RR Patel,F Nsubuga,0,0,,,,,,"",""
+ball,2,4.1,Kenya,RR Patel,S Singh,J Miyaji,4,0,,,,,,"",""
+ball,2,4.2,Kenya,RR Patel,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,2,4.3,Kenya,RR Patel,S Singh,J Miyaji,2,1,,1,,,,"",""
+ball,2,4.4,Kenya,RR Patel,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,2,4.5,Kenya,RR Patel,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,2,4.6,Kenya,RR Patel,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,2,4.7,Kenya,RR Patel,S Singh,J Miyaji,1,0,,,,,,"",""
+ball,2,5.1,Kenya,RR Patel,S Singh,F Nsubuga,4,0,,,,,,"",""
+ball,2,5.2,Kenya,RR Patel,S Singh,F Nsubuga,4,0,,,,,,"",""
+ball,2,5.3,Kenya,RR Patel,S Singh,F Nsubuga,0,0,,,,,,"",""
+ball,2,5.4,Kenya,RR Patel,S Singh,F Nsubuga,1,0,,,,,,"",""
+ball,2,5.5,Kenya,S Singh,RR Patel,F Nsubuga,0,0,,,,,,"",""
+ball,2,5.6,Kenya,S Singh,RR Patel,F Nsubuga,0,0,,,,,,"",""
+ball,2,6.1,Kenya,RR Patel,S Singh,C Kyewuta,1,0,,,,,,"",""
+ball,2,6.2,Kenya,S Singh,RR Patel,C Kyewuta,0,0,,,,,,"",""
+ball,2,6.3,Kenya,S Singh,RR Patel,C Kyewuta,2,0,,,,,,"",""
+ball,2,6.4,Kenya,S Singh,RR Patel,C Kyewuta,0,0,,,,,,"",""
+ball,2,6.5,Kenya,S Singh,RR Patel,C Kyewuta,0,0,,,,,,"",""
+ball,2,6.6,Kenya,S Singh,RR Patel,C Kyewuta,0,0,,,,,,"",""
+ball,2,7.1,Kenya,RR Patel,S Singh,AR Ramjani,1,0,,,,,,"",""
+ball,2,7.2,Kenya,S Singh,RR Patel,AR Ramjani,0,0,,,,,,"",""
+ball,2,7.3,Kenya,S Singh,RR Patel,AR Ramjani,1,0,,,,,,"",""
+ball,2,7.4,Kenya,RR Patel,S Singh,AR Ramjani,2,0,,,,,,"",""
+ball,2,7.5,Kenya,RR Patel,S Singh,AR Ramjani,1,0,,,,,,"",""
+ball,2,7.6,Kenya,S Singh,RR Patel,AR Ramjani,1,0,,,,,,"",""
+ball,2,8.1,Kenya,S Singh,RR Patel,DM Nakrani,0,0,,,,,,"",""
+ball,2,8.2,Kenya,S Singh,RR Patel,DM Nakrani,0,0,,,,,,"",""
+ball,2,8.3,Kenya,S Singh,RR Patel,DM Nakrani,1,0,,,,,,"",""
+ball,2,8.4,Kenya,RR Patel,S Singh,DM Nakrani,0,0,,,,,,"",""
+ball,2,8.5,Kenya,RR Patel,S Singh,DM Nakrani,4,0,,,,,,"",""
+ball,2,8.6,Kenya,RR Patel,S Singh,DM Nakrani,2,0,,,,,,"",""
+ball,2,9.1,Kenya,S Singh,RR Patel,AR Ramjani,1,0,,,,,,"",""
+ball,2,9.2,Kenya,RR Patel,S Singh,AR Ramjani,4,0,,,,,,"",""
+ball,2,9.3,Kenya,RR Patel,S Singh,AR Ramjani,0,0,,,,,,"",""
+ball,2,9.4,Kenya,RR Patel,S Singh,AR Ramjani,1,0,,,,,,"",""
+ball,2,9.5,Kenya,S Singh,RR Patel,AR Ramjani,0,0,,,,,,"",""
+ball,2,9.6,Kenya,S Singh,RR Patel,AR Ramjani,2,0,,,,,,"",""
+ball,2,10.1,Kenya,RR Patel,S Singh,DM Nakrani,0,0,,,,,,"",""
+ball,2,10.2,Kenya,RR Patel,S Singh,DM Nakrani,1,0,,,,,,"",""
+ball,2,10.3,Kenya,S Singh,RR Patel,DM Nakrani,0,0,,,,,,"",""
+ball,2,10.4,Kenya,S Singh,RR Patel,DM Nakrani,4,0,,,,,,"",""
+ball,2,10.5,Kenya,S Singh,RR Patel,DM Nakrani,0,0,,,,,,"",""
+ball,2,10.6,Kenya,S Singh,RR Patel,DM Nakrani,0,0,,,,,,"",""
+ball,2,11.1,Kenya,RR Patel,S Singh,AR Ramjani,4,0,,,,,,"",""
+ball,2,11.2,Kenya,RR Patel,S Singh,AR Ramjani,0,0,,,,,,"",""
+ball,2,11.3,Kenya,RR Patel,S Singh,AR Ramjani,0,0,,,,,,"",""
+ball,2,11.4,Kenya,RR Patel,S Singh,AR Ramjani,1,0,,,,,,"",""
+ball,2,11.5,Kenya,S Singh,RR Patel,AR Ramjani,0,0,,,,,,"",""
+ball,2,11.6,Kenya,S Singh,RR Patel,AR Ramjani,0,0,,,,,,bowled,S Singh
+ball,2,12.1,Kenya,RR Patel,S Gill,DM Nakrani,0,0,,,,,,"",""
+ball,2,12.2,Kenya,RR Patel,S Gill,DM Nakrani,0,0,,,,,,"",""
+ball,2,12.3,Kenya,RR Patel,S Gill,DM Nakrani,0,0,,,,,,"",""
+ball,2,12.4,Kenya,RR Patel,S Gill,DM Nakrani,4,0,,,,,,"",""
+ball,2,12.5,Kenya,RR Patel,S Gill,DM Nakrani,3,0,,,,,,"",""
+ball,2,12.6,Kenya,S Gill,RR Patel,DM Nakrani,0,0,,,,,,"",""
+ball,2,13.1,Kenya,RR Patel,S Gill,M Musinguzi,0,0,,,,,,"",""
+ball,2,13.2,Kenya,RR Patel,S Gill,M Musinguzi,0,0,,,,,,"",""
+ball,2,13.3,Kenya,RR Patel,S Gill,M Musinguzi,1,0,,,,,,"",""
+ball,2,13.4,Kenya,S Gill,RR Patel,M Musinguzi,0,0,,,,,,"",""
+ball,2,13.5,Kenya,S Gill,RR Patel,M Musinguzi,1,0,,,,,,"",""
+ball,2,13.6,Kenya,RR Patel,S Gill,M Musinguzi,1,0,,,,,,"",""
+ball,2,14.1,Kenya,RR Patel,S Gill,DM Nakrani,0,0,,,,,,"",""
+ball,2,14.2,Kenya,RR Patel,S Gill,DM Nakrani,1,0,,,,,,"",""
+ball,2,14.3,Kenya,S Gill,RR Patel,DM Nakrani,1,0,,,,,,"",""
+ball,2,14.4,Kenya,RR Patel,S Gill,DM Nakrani,6,0,,,,,,"",""
+ball,2,14.5,Kenya,RR Patel,S Gill,DM Nakrani,1,0,,,,,,"",""
+ball,2,14.6,Kenya,S Gill,RR Patel,DM Nakrani,0,0,,,,,,"",""
+ball,2,15.1,Kenya,RR Patel,S Gill,M Musinguzi,1,0,,,,,,"",""
+ball,2,15.2,Kenya,S Gill,RR Patel,M Musinguzi,4,0,,,,,,"",""
+ball,2,15.3,Kenya,S Gill,RR Patel,M Musinguzi,2,0,,,,,,"",""
+ball,2,15.4,Kenya,S Gill,RR Patel,M Musinguzi,2,0,,,,,,"",""
+ball,2,15.5,Kenya,S Gill,RR Patel,M Musinguzi,0,0,,,,,,"",""
+ball,2,15.6,Kenya,S Gill,RR Patel,M Musinguzi,6,0,,,,,,"",""
+ball,2,16.1,Kenya,RR Patel,S Gill,J Miyaji,0,0,,,,,,"",""
+ball,2,16.2,Kenya,RR Patel,S Gill,J Miyaji,1,0,,,,,,"",""
+ball,2,16.3,Kenya,S Gill,RR Patel,J Miyaji,1,0,,,,,,"",""
+ball,2,16.4,Kenya,RR Patel,S Gill,J Miyaji,1,0,,,,,,"",""
+ball,2,16.5,Kenya,S Gill,RR Patel,J Miyaji,2,0,,,,,,"",""
+ball,2,16.6,Kenya,S Gill,RR Patel,J Miyaji,4,0,,,,,,"",""
+ball,2,17.1,Kenya,RR Patel,S Gill,C Kyewuta,0,0,,,,,,caught,RR Patel
+ball,2,17.2,Kenya,JS Kundi,S Gill,C Kyewuta,1,0,,,,,,"",""
+ball,2,17.3,Kenya,S Gill,JS Kundi,C Kyewuta,0,0,,,,,,"",""
+ball,2,17.4,Kenya,S Gill,JS Kundi,C Kyewuta,0,0,,,,,,"",""
+ball,2,17.5,Kenya,S Gill,JS Kundi,C Kyewuta,1,0,,,,,,"",""
+ball,2,17.6,Kenya,JS Kundi,S Gill,C Kyewuta,0,0,,,,,,bowled,JS Kundi
+ball,2,18.1,Kenya,S Gill,SO Ngoche,J Miyaji,2,0,,,,,,"",""
+ball,2,18.2,Kenya,S Gill,SO Ngoche,J Miyaji,2,0,,,,,,"",""
+ball,2,18.3,Kenya,S Gill,SO Ngoche,J Miyaji,0,1,1,,,,,"",""
+ball,2,18.4,Kenya,S Gill,SO Ngoche,J Miyaji,1,0,,,,,,"",""
+ball,2,18.5,Kenya,SO Ngoche,S Gill,J Miyaji,1,0,,,,,,"",""
+ball,2,18.6,Kenya,S Gill,SO Ngoche,J Miyaji,1,0,,,,,,"",""
+ball,2,18.7,Kenya,SO Ngoche,S Gill,J Miyaji,0,0,,,,,,"",""
+ball,2,19.1,Kenya,S Gill,SO Ngoche,C Kyewuta,0,0,,,,,,caught,S Gill
+ball,2,19.2,Kenya,F Mutua,SO Ngoche,C Kyewuta,2,0,,,,,,"",""
+ball,2,19.3,Kenya,F Mutua,SO Ngoche,C Kyewuta,4,0,,,,,,"",""
+ball,2,19.4,Kenya,F Mutua,SO Ngoche,C Kyewuta,4,0,,,,,,"",""
+ball,2,19.5,Kenya,F Mutua,SO Ngoche,C Kyewuta,1,0,,,,,,"",""
+ball,2,19.6,Kenya,SO Ngoche,F Mutua,C Kyewuta,2,0,,,,,,"",""

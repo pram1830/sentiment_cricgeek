@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Ireland
+info,gender,male
+info,season,2024
+info,date,2024/05/23
+info,event,Netherlands Tri-Nation T20I Series
+info,match_number,5
+info,venue,"Sportpark Westvliet, The Hague"
+info,city,The Hague
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,A Balbirnie
+info,umpire,WPM van Liemt
+info,umpire,Rizwan Akram
+info,reserve_umpire,N Bathi
+info,match_referee,Phil Whitticase
+info,winner,Ireland
+info,winner_wickets,5
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,MA Jones
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CB Sole
+info,player,Scotland,SM Sharif
+info,player,Scotland,BJ Currie
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,CA Young
+info,player,Ireland,B White
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,B White,1a448be0
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,CB Sole,469ccead
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,JJ Davidson,068c47d2
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,MA Jones,05f96194
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,WPM van Liemt,2bd48588
+ball,1,0.1,Scotland,HG Munsey,OJ Hairs,MR Adair,1,0,,,,,,"",""
+ball,1,0.2,Scotland,OJ Hairs,HG Munsey,MR Adair,0,0,,,,,,"",""
+ball,1,0.3,Scotland,OJ Hairs,HG Munsey,MR Adair,1,0,,,,,,"",""
+ball,1,0.4,Scotland,HG Munsey,OJ Hairs,MR Adair,0,0,,,,,,"",""
+ball,1,0.5,Scotland,HG Munsey,OJ Hairs,MR Adair,0,0,,,,,,"",""
+ball,1,0.6,Scotland,HG Munsey,OJ Hairs,MR Adair,0,0,,,,,,"",""
+ball,1,1.1,Scotland,OJ Hairs,HG Munsey,BJ McCarthy,1,0,,,,,,"",""
+ball,1,1.2,Scotland,HG Munsey,OJ Hairs,BJ McCarthy,4,0,,,,,,"",""
+ball,1,1.3,Scotland,HG Munsey,OJ Hairs,BJ McCarthy,0,0,,,,,,"",""
+ball,1,1.4,Scotland,HG Munsey,OJ Hairs,BJ McCarthy,0,1,,,,1,,"",""
+ball,1,1.5,Scotland,OJ Hairs,HG Munsey,BJ McCarthy,1,0,,,,,,"",""
+ball,1,1.6,Scotland,HG Munsey,OJ Hairs,BJ McCarthy,1,0,,,,,,"",""
+ball,1,2.1,Scotland,HG Munsey,OJ Hairs,CA Young,0,0,,,,,,"",""
+ball,1,2.2,Scotland,HG Munsey,OJ Hairs,CA Young,6,0,,,,,,"",""
+ball,1,2.3,Scotland,HG Munsey,OJ Hairs,CA Young,0,0,,,,,,"",""
+ball,1,2.4,Scotland,HG Munsey,OJ Hairs,CA Young,0,0,,,,,,caught,HG Munsey
+ball,1,2.5,Scotland,MA Jones,OJ Hairs,CA Young,0,0,,,,,,"",""
+ball,1,2.6,Scotland,MA Jones,OJ Hairs,CA Young,0,0,,,,,,"",""
+ball,1,3.1,Scotland,OJ Hairs,MA Jones,MR Adair,0,0,,,,,,"",""
+ball,1,3.2,Scotland,OJ Hairs,MA Jones,MR Adair,0,0,,,,,,"",""
+ball,1,3.3,Scotland,OJ Hairs,MA Jones,MR Adair,6,0,,,,,,"",""
+ball,1,3.4,Scotland,OJ Hairs,MA Jones,MR Adair,0,0,,,,,,caught,OJ Hairs
+ball,1,3.5,Scotland,RD Berrington,MA Jones,MR Adair,1,0,,,,,,"",""
+ball,1,3.6,Scotland,MA Jones,RD Berrington,MR Adair,4,1,,1,,,,"",""
+ball,1,3.7,Scotland,MA Jones,RD Berrington,MR Adair,0,1,1,,,,,"",""
+ball,1,3.8,Scotland,MA Jones,RD Berrington,MR Adair,6,0,,,,,,"",""
+ball,1,4.1,Scotland,RD Berrington,MA Jones,CA Young,0,0,,,,,,"",""
+ball,1,4.2,Scotland,RD Berrington,MA Jones,CA Young,2,0,,,,,,"",""
+ball,1,4.3,Scotland,RD Berrington,MA Jones,CA Young,0,0,,,,,,"",""
+ball,1,4.4,Scotland,RD Berrington,MA Jones,CA Young,2,0,,,,,,"",""
+ball,1,4.5,Scotland,RD Berrington,MA Jones,CA Young,2,0,,,,,,"",""
+ball,1,4.6,Scotland,RD Berrington,MA Jones,CA Young,4,0,,,,,,"",""
+ball,1,5.1,Scotland,MA Jones,RD Berrington,BJ McCarthy,1,0,,,,,,"",""
+ball,1,5.2,Scotland,RD Berrington,MA Jones,BJ McCarthy,0,0,,,,,,"",""
+ball,1,5.3,Scotland,RD Berrington,MA Jones,BJ McCarthy,1,0,,,,,,"",""
+ball,1,5.4,Scotland,MA Jones,RD Berrington,BJ McCarthy,0,0,,,,,,"",""
+ball,1,5.5,Scotland,MA Jones,RD Berrington,BJ McCarthy,4,0,,,,,,"",""
+ball,1,5.6,Scotland,MA Jones,RD Berrington,BJ McCarthy,6,0,,,,,,"",""
+ball,1,6.1,Scotland,RD Berrington,MA Jones,B White,1,0,,,,,,"",""
+ball,1,6.2,Scotland,MA Jones,RD Berrington,B White,1,0,,,,,,"",""
+ball,1,6.3,Scotland,RD Berrington,MA Jones,B White,0,0,,,,,,caught,RD Berrington
+ball,1,6.4,Scotland,MH Cross,MA Jones,B White,1,0,,,,,,"",""
+ball,1,6.5,Scotland,MA Jones,MH Cross,B White,1,0,,,,,,"",""
+ball,1,6.6,Scotland,MH Cross,MA Jones,B White,4,0,,,,,,"",""
+ball,1,7.1,Scotland,MA Jones,MH Cross,GJ Delany,0,0,,,,,,"",""
+ball,1,7.2,Scotland,MA Jones,MH Cross,GJ Delany,0,0,,,,,,bowled,MA Jones
+ball,1,7.3,Scotland,MA Leask,MH Cross,GJ Delany,0,0,,,,,,"",""
+ball,1,7.4,Scotland,MA Leask,MH Cross,GJ Delany,1,0,,,,,,"",""
+ball,1,7.5,Scotland,MH Cross,MA Leask,GJ Delany,0,0,,,,,,"",""
+ball,1,7.6,Scotland,MH Cross,MA Leask,GJ Delany,0,0,,,,,,"",""
+ball,1,8.1,Scotland,MA Leask,MH Cross,B White,0,0,,,,,,"",""
+ball,1,8.2,Scotland,MA Leask,MH Cross,B White,1,0,,,,,,"",""
+ball,1,8.3,Scotland,MH Cross,MA Leask,B White,1,0,,,,,,"",""
+ball,1,8.4,Scotland,MA Leask,MH Cross,B White,0,0,,,,,,"",""
+ball,1,8.5,Scotland,MA Leask,MH Cross,B White,1,0,,,,,,"",""
+ball,1,8.6,Scotland,MH Cross,MA Leask,B White,0,0,,,,,,"",""
+ball,1,9.1,Scotland,MA Leask,MH Cross,GH Dockrell,1,0,,,,,,"",""
+ball,1,9.2,Scotland,MH Cross,MA Leask,GH Dockrell,1,0,,,,,,"",""
+ball,1,9.3,Scotland,MA Leask,MH Cross,GH Dockrell,0,0,,,,,,"",""
+ball,1,9.4,Scotland,MA Leask,MH Cross,GH Dockrell,1,0,,,,,,"",""
+ball,1,9.5,Scotland,MH Cross,MA Leask,GH Dockrell,1,0,,,,,,"",""
+ball,1,9.6,Scotland,MA Leask,MH Cross,GH Dockrell,1,0,,,,,,"",""
+ball,1,10.1,Scotland,MA Leask,MH Cross,BJ McCarthy,0,0,,,,,,"",""
+ball,1,10.2,Scotland,MA Leask,MH Cross,BJ McCarthy,1,0,,,,,,"",""
+ball,1,10.3,Scotland,MH Cross,MA Leask,BJ McCarthy,1,0,,,,,,"",""
+ball,1,10.4,Scotland,MA Leask,MH Cross,BJ McCarthy,6,0,,,,,,"",""
+ball,1,10.5,Scotland,MA Leask,MH Cross,BJ McCarthy,4,0,,,,,,"",""
+ball,1,10.6,Scotland,MA Leask,MH Cross,BJ McCarthy,1,0,,,,,,"",""
+ball,1,11.1,Scotland,MA Leask,MH Cross,GJ Delany,1,0,,,,,,"",""
+ball,1,11.2,Scotland,MH Cross,MA Leask,GJ Delany,1,0,,,,,,"",""
+ball,1,11.3,Scotland,MA Leask,MH Cross,GJ Delany,1,0,,,,,,"",""
+ball,1,11.4,Scotland,MH Cross,MA Leask,GJ Delany,1,0,,,,,,"",""
+ball,1,11.5,Scotland,MA Leask,MH Cross,GJ Delany,1,0,,,,,,"",""
+ball,1,11.6,Scotland,MH Cross,MA Leask,GJ Delany,0,0,,,,,,"",""
+ball,1,12.1,Scotland,MA Leask,MH Cross,B White,6,0,,,,,,"",""
+ball,1,12.2,Scotland,MA Leask,MH Cross,B White,1,0,,,,,,"",""
+ball,1,12.3,Scotland,MH Cross,MA Leask,B White,0,0,,,,,,"",""
+ball,1,12.4,Scotland,MH Cross,MA Leask,B White,0,0,,,,,,"",""
+ball,1,12.5,Scotland,MH Cross,MA Leask,B White,4,0,,,,,,"",""
+ball,1,12.6,Scotland,MH Cross,MA Leask,B White,0,0,,,,,,"",""
+ball,1,13.1,Scotland,MA Leask,MH Cross,GJ Delany,2,0,,,,,,"",""
+ball,1,13.2,Scotland,MA Leask,MH Cross,GJ Delany,0,0,,,,,,"",""
+ball,1,13.3,Scotland,MA Leask,MH Cross,GJ Delany,1,0,,,,,,"",""
+ball,1,13.4,Scotland,MH Cross,MA Leask,GJ Delany,2,0,,,,,,"",""
+ball,1,13.5,Scotland,MH Cross,MA Leask,GJ Delany,0,0,,,,,,"",""
+ball,1,13.6,Scotland,MH Cross,MA Leask,GJ Delany,1,0,,,,,,"",""
+ball,1,14.1,Scotland,MH Cross,MA Leask,MR Adair,4,0,,,,,,"",""
+ball,1,14.2,Scotland,MH Cross,MA Leask,MR Adair,1,0,,,,,,"",""
+ball,1,14.3,Scotland,MA Leask,MH Cross,MR Adair,0,1,1,,,,,"",""
+ball,1,14.4,Scotland,MA Leask,MH Cross,MR Adair,0,1,1,,,,,"",""
+ball,1,14.5,Scotland,MA Leask,MH Cross,MR Adair,1,0,,,,,,"",""
+ball,1,14.6,Scotland,MH Cross,MA Leask,MR Adair,1,0,,,,,,"",""
+ball,1,14.7,Scotland,MA Leask,MH Cross,MR Adair,2,0,,,,,,"",""
+ball,1,14.8,Scotland,MA Leask,MH Cross,MR Adair,0,0,,,,,,bowled,MA Leask
+ball,1,15.1,Scotland,MH Cross,CN Greaves,GJ Delany,1,0,,,,,,"",""
+ball,1,15.2,Scotland,CN Greaves,MH Cross,GJ Delany,2,0,,,,,,"",""
+ball,1,15.3,Scotland,CN Greaves,MH Cross,GJ Delany,1,0,,,,,,"",""
+ball,1,15.4,Scotland,MH Cross,CN Greaves,GJ Delany,1,0,,,,,,"",""
+ball,1,15.5,Scotland,CN Greaves,MH Cross,GJ Delany,0,0,,,,,,"",""
+ball,1,15.6,Scotland,CN Greaves,MH Cross,GJ Delany,1,0,,,,,,"",""
+ball,1,16.1,Scotland,CN Greaves,MH Cross,BJ McCarthy,0,1,1,,,,,"",""
+ball,1,16.2,Scotland,CN Greaves,MH Cross,BJ McCarthy,1,0,,,,,,"",""
+ball,1,16.3,Scotland,MH Cross,CN Greaves,BJ McCarthy,1,0,,,,,,"",""
+ball,1,16.4,Scotland,CN Greaves,MH Cross,BJ McCarthy,1,0,,,,,,"",""
+ball,1,16.5,Scotland,MH Cross,CN Greaves,BJ McCarthy,1,0,,,,,,"",""
+ball,1,16.6,Scotland,CN Greaves,MH Cross,BJ McCarthy,1,0,,,,,,"",""
+ball,1,16.7,Scotland,MH Cross,CN Greaves,BJ McCarthy,1,0,,,,,,"",""
+ball,1,17.1,Scotland,MH Cross,CN Greaves,CA Young,0,0,,,,,,"",""
+ball,1,17.2,Scotland,MH Cross,CN Greaves,CA Young,6,0,,,,,,"",""
+ball,1,17.3,Scotland,MH Cross,CN Greaves,CA Young,0,0,,,,,,lbw,MH Cross
+ball,1,17.4,Scotland,MRJ Watt,CN Greaves,CA Young,1,0,,,,,,"",""
+ball,1,17.5,Scotland,CN Greaves,MRJ Watt,CA Young,0,2,,,2,,,"",""
+ball,1,17.6,Scotland,CN Greaves,MRJ Watt,CA Young,0,1,1,,,,,"",""
+ball,1,17.7,Scotland,CN Greaves,MRJ Watt,CA Young,0,0,,,,,,"",""
+ball,1,18.1,Scotland,MRJ Watt,CN Greaves,MR Adair,0,0,,,,,,bowled,MRJ Watt
+ball,1,18.2,Scotland,CB Sole,CN Greaves,MR Adair,1,0,,,,,,"",""
+ball,1,18.3,Scotland,CN Greaves,CB Sole,MR Adair,2,0,,,,,,"",""
+ball,1,18.4,Scotland,CN Greaves,CB Sole,MR Adair,0,0,,,,,,"",""
+ball,1,18.5,Scotland,CN Greaves,CB Sole,MR Adair,0,1,,,,1,,"",""
+ball,1,18.6,Scotland,CB Sole,CN Greaves,MR Adair,1,0,,,,,,"",""
+ball,1,19.1,Scotland,CB Sole,CN Greaves,CA Young,4,0,,,,,,"",""
+ball,1,19.2,Scotland,CB Sole,CN Greaves,CA Young,0,0,,,,,,"",""
+ball,1,19.3,Scotland,CB Sole,CN Greaves,CA Young,0,2,,,,2,,"",""
+ball,1,19.4,Scotland,CB Sole,CN Greaves,CA Young,0,0,,,,,,caught,CB Sole
+ball,1,19.5,Scotland,SM Sharif,CN Greaves,CA Young,2,0,,,,,,"",""
+ball,1,19.6,Scotland,SM Sharif,CN Greaves,CA Young,1,0,,,,,,"",""
+ball,2,0.1,Ireland,A Balbirnie,PR Stirling,MRJ Watt,0,0,,,,,,"",""
+ball,2,0.2,Ireland,A Balbirnie,PR Stirling,MRJ Watt,4,0,,,,,,"",""
+ball,2,0.3,Ireland,A Balbirnie,PR Stirling,MRJ Watt,1,0,,,,,,"",""
+ball,2,0.4,Ireland,PR Stirling,A Balbirnie,MRJ Watt,0,0,,,,,,"",""
+ball,2,0.5,Ireland,PR Stirling,A Balbirnie,MRJ Watt,0,0,,,,,,"",""
+ball,2,0.6,Ireland,PR Stirling,A Balbirnie,MRJ Watt,0,0,,,,,,"",""
+ball,2,1.1,Ireland,A Balbirnie,PR Stirling,CB Sole,0,0,,,,,,"",""
+ball,2,1.2,Ireland,A Balbirnie,PR Stirling,CB Sole,4,0,,,,,,"",""
+ball,2,1.3,Ireland,A Balbirnie,PR Stirling,CB Sole,0,0,,,,,,"",""
+ball,2,1.4,Ireland,A Balbirnie,PR Stirling,CB Sole,0,0,,,,,,"",""
+ball,2,1.5,Ireland,A Balbirnie,PR Stirling,CB Sole,2,0,,,,,,"",""
+ball,2,1.6,Ireland,A Balbirnie,PR Stirling,CB Sole,0,0,,,,,,"",""
+ball,2,2.1,Ireland,PR Stirling,A Balbirnie,BJ Currie,2,0,,,,,,"",""
+ball,2,2.2,Ireland,PR Stirling,A Balbirnie,BJ Currie,0,1,,,,1,,"",""
+ball,2,2.3,Ireland,A Balbirnie,PR Stirling,BJ Currie,0,0,,,,,,"",""
+ball,2,2.4,Ireland,A Balbirnie,PR Stirling,BJ Currie,1,0,,,,,,"",""
+ball,2,2.5,Ireland,PR Stirling,A Balbirnie,BJ Currie,3,0,,,,,,"",""
+ball,2,2.6,Ireland,A Balbirnie,PR Stirling,BJ Currie,1,0,,,,,,"",""
+ball,2,3.1,Ireland,A Balbirnie,PR Stirling,CB Sole,1,0,,,,,,"",""
+ball,2,3.2,Ireland,PR Stirling,A Balbirnie,CB Sole,4,0,,,,,,"",""
+ball,2,3.3,Ireland,PR Stirling,A Balbirnie,CB Sole,0,1,,,,1,,"",""
+ball,2,3.4,Ireland,A Balbirnie,PR Stirling,CB Sole,4,0,,,,,,"",""
+ball,2,3.5,Ireland,A Balbirnie,PR Stirling,CB Sole,4,0,,,,,,"",""
+ball,2,3.6,Ireland,A Balbirnie,PR Stirling,CB Sole,0,0,,,,,,"",""
+ball,2,4.1,Ireland,PR Stirling,A Balbirnie,BJ Currie,0,0,,,,,,"",""
+ball,2,4.2,Ireland,PR Stirling,A Balbirnie,BJ Currie,0,1,,,,1,,"",""
+ball,2,4.3,Ireland,A Balbirnie,PR Stirling,BJ Currie,0,0,,,,,,"",""
+ball,2,4.4,Ireland,A Balbirnie,PR Stirling,BJ Currie,2,0,,,,,,"",""
+ball,2,4.5,Ireland,A Balbirnie,PR Stirling,BJ Currie,2,0,,,,,,"",""
+ball,2,4.6,Ireland,A Balbirnie,PR Stirling,BJ Currie,1,0,,,,,,"",""
+ball,2,5.1,Ireland,A Balbirnie,PR Stirling,SM Sharif,1,0,,,,,,"",""
+ball,2,5.2,Ireland,PR Stirling,A Balbirnie,SM Sharif,4,0,,,,,,"",""
+ball,2,5.3,Ireland,PR Stirling,A Balbirnie,SM Sharif,0,0,,,,,,"",""
+ball,2,5.4,Ireland,PR Stirling,A Balbirnie,SM Sharif,6,0,,,,,,"",""
+ball,2,5.5,Ireland,PR Stirling,A Balbirnie,SM Sharif,1,0,,,,,,"",""
+ball,2,5.6,Ireland,A Balbirnie,PR Stirling,SM Sharif,0,0,,,,,,"",""
+ball,2,6.1,Ireland,PR Stirling,A Balbirnie,MRJ Watt,1,0,,,,,,"",""
+ball,2,6.2,Ireland,A Balbirnie,PR Stirling,MRJ Watt,1,0,,,,,,"",""
+ball,2,6.3,Ireland,PR Stirling,A Balbirnie,MRJ Watt,6,0,,,,,,"",""
+ball,2,6.4,Ireland,PR Stirling,A Balbirnie,MRJ Watt,1,0,,,,,,"",""
+ball,2,6.5,Ireland,A Balbirnie,PR Stirling,MRJ Watt,1,0,,,,,,"",""
+ball,2,6.6,Ireland,PR Stirling,A Balbirnie,MRJ Watt,0,0,,,,,,"",""
+ball,2,7.1,Ireland,A Balbirnie,PR Stirling,CN Greaves,1,0,,,,,,"",""
+ball,2,7.2,Ireland,PR Stirling,A Balbirnie,CN Greaves,2,0,,,,,,"",""
+ball,2,7.3,Ireland,PR Stirling,A Balbirnie,CN Greaves,2,0,,,,,,"",""
+ball,2,7.4,Ireland,PR Stirling,A Balbirnie,CN Greaves,0,0,,,,,,bowled,PR Stirling
+ball,2,7.5,Ireland,L Tucker,A Balbirnie,CN Greaves,1,0,,,,,,"",""
+ball,2,7.6,Ireland,A Balbirnie,L Tucker,CN Greaves,1,0,,,,,,"",""
+ball,2,8.1,Ireland,A Balbirnie,L Tucker,SM Sharif,1,0,,,,,,"",""
+ball,2,8.2,Ireland,L Tucker,A Balbirnie,SM Sharif,0,0,,,,,,"",""
+ball,2,8.3,Ireland,L Tucker,A Balbirnie,SM Sharif,0,2,,,,2,,"",""
+ball,2,8.4,Ireland,L Tucker,A Balbirnie,SM Sharif,4,0,,,,,,"",""
+ball,2,8.5,Ireland,L Tucker,A Balbirnie,SM Sharif,1,0,,,,,,"",""
+ball,2,8.6,Ireland,A Balbirnie,L Tucker,SM Sharif,1,0,,,,,,"",""
+ball,2,9.1,Ireland,A Balbirnie,L Tucker,CN Greaves,1,0,,,,,,"",""
+ball,2,9.2,Ireland,L Tucker,A Balbirnie,CN Greaves,0,0,,,,,,"",""
+ball,2,9.3,Ireland,L Tucker,A Balbirnie,CN Greaves,4,0,,,,,,"",""
+ball,2,9.4,Ireland,L Tucker,A Balbirnie,CN Greaves,3,0,,,,,,"",""
+ball,2,9.5,Ireland,A Balbirnie,L Tucker,CN Greaves,1,0,,,,,,"",""
+ball,2,9.6,Ireland,L Tucker,A Balbirnie,CN Greaves,1,0,,,,,,"",""
+ball,2,10.1,Ireland,L Tucker,A Balbirnie,MRJ Watt,1,0,,,,,,"",""
+ball,2,10.2,Ireland,A Balbirnie,L Tucker,MRJ Watt,1,0,,,,,,"",""
+ball,2,10.3,Ireland,L Tucker,A Balbirnie,MRJ Watt,1,0,,,,,,"",""
+ball,2,10.4,Ireland,A Balbirnie,L Tucker,MRJ Watt,0,0,,,,,,"",""
+ball,2,10.5,Ireland,A Balbirnie,L Tucker,MRJ Watt,1,0,,,,,,"",""
+ball,2,10.6,Ireland,L Tucker,A Balbirnie,MRJ Watt,2,0,,,,,,"",""
+ball,2,11.1,Ireland,A Balbirnie,L Tucker,MA Leask,0,0,,,,,,"",""
+ball,2,11.2,Ireland,A Balbirnie,L Tucker,MA Leask,2,0,,,,,,"",""
+ball,2,11.3,Ireland,A Balbirnie,L Tucker,MA Leask,4,0,,,,,,"",""
+ball,2,11.4,Ireland,A Balbirnie,L Tucker,MA Leask,4,0,,,,,,"",""
+ball,2,11.5,Ireland,A Balbirnie,L Tucker,MA Leask,2,0,,,,,,"",""
+ball,2,11.6,Ireland,A Balbirnie,L Tucker,MA Leask,0,0,,,,,,"",""
+ball,2,12.1,Ireland,L Tucker,A Balbirnie,BJ Currie,0,0,,,,,,"",""
+ball,2,12.2,Ireland,L Tucker,A Balbirnie,BJ Currie,1,0,,,,,,"",""
+ball,2,12.3,Ireland,A Balbirnie,L Tucker,BJ Currie,1,0,,,,,,"",""
+ball,2,12.4,Ireland,L Tucker,A Balbirnie,BJ Currie,0,0,,,,,,"",""
+ball,2,12.5,Ireland,L Tucker,A Balbirnie,BJ Currie,4,0,,,,,,"",""
+ball,2,12.6,Ireland,L Tucker,A Balbirnie,BJ Currie,1,0,,,,,,"",""
+ball,2,13.1,Ireland,L Tucker,A Balbirnie,CN Greaves,1,0,,,,,,"",""
+ball,2,13.2,Ireland,A Balbirnie,L Tucker,CN Greaves,1,0,,,,,,"",""
+ball,2,13.3,Ireland,L Tucker,A Balbirnie,CN Greaves,2,0,,,,,,"",""
+ball,2,13.4,Ireland,L Tucker,A Balbirnie,CN Greaves,4,0,,,,,,"",""
+ball,2,13.5,Ireland,L Tucker,A Balbirnie,CN Greaves,2,0,,,,,,"",""
+ball,2,13.6,Ireland,L Tucker,A Balbirnie,CN Greaves,1,0,,,,,,"",""
+ball,2,14.1,Ireland,L Tucker,A Balbirnie,MRJ Watt,1,0,,,,,,"",""
+ball,2,14.2,Ireland,A Balbirnie,L Tucker,MRJ Watt,1,0,,,,,,"",""
+ball,2,14.3,Ireland,L Tucker,A Balbirnie,MRJ Watt,0,2,,,,2,,"",""
+ball,2,14.4,Ireland,L Tucker,A Balbirnie,MRJ Watt,1,0,,,,,,"",""
+ball,2,14.5,Ireland,A Balbirnie,L Tucker,MRJ Watt,2,0,,,,,,"",""
+ball,2,14.6,Ireland,A Balbirnie,L Tucker,MRJ Watt,1,0,,,,,,"",""
+ball,2,15.1,Ireland,A Balbirnie,L Tucker,CB Sole,0,0,,,,,,"",""
+ball,2,15.2,Ireland,A Balbirnie,L Tucker,CB Sole,0,0,,,,,,caught,A Balbirnie
+ball,2,15.3,Ireland,HT Tector,L Tucker,CB Sole,1,0,,,,,,"",""
+ball,2,15.4,Ireland,L Tucker,HT Tector,CB Sole,2,0,,,,,,"",""
+ball,2,15.5,Ireland,L Tucker,HT Tector,CB Sole,1,0,,,,,,"",""
+ball,2,15.6,Ireland,HT Tector,L Tucker,CB Sole,0,0,,,,,,"",""
+ball,2,16.1,Ireland,L Tucker,HT Tector,SM Sharif,1,0,,,,,,"",""
+ball,2,16.2,Ireland,HT Tector,L Tucker,SM Sharif,1,0,,,,,,"",""
+ball,2,16.3,Ireland,L Tucker,HT Tector,SM Sharif,2,0,,,,,,"",""
+ball,2,16.4,Ireland,L Tucker,HT Tector,SM Sharif,1,0,,,,,,"",""
+ball,2,16.5,Ireland,HT Tector,L Tucker,SM Sharif,1,0,,,,,,"",""
+ball,2,16.6,Ireland,L Tucker,HT Tector,SM Sharif,1,0,,,,,,"",""
+ball,2,17.1,Ireland,L Tucker,HT Tector,CB Sole,1,0,,,,,,"",""
+ball,2,17.2,Ireland,HT Tector,L Tucker,CB Sole,0,0,,,,,,caught,HT Tector
+ball,2,17.3,Ireland,C Campher,L Tucker,CB Sole,0,0,,,,,,bowled,C Campher
+ball,2,17.4,Ireland,GH Dockrell,L Tucker,CB Sole,2,0,,,,,,"",""
+ball,2,17.5,Ireland,GH Dockrell,L Tucker,CB Sole,1,0,,,,,,"",""
+ball,2,17.6,Ireland,L Tucker,GH Dockrell,CB Sole,1,0,,,,,,"",""
+ball,2,18.1,Ireland,L Tucker,GH Dockrell,BJ Currie,2,0,,,,,,"",""
+ball,2,18.2,Ireland,L Tucker,GH Dockrell,BJ Currie,2,0,,,,,,"",""
+ball,2,18.3,Ireland,L Tucker,GH Dockrell,BJ Currie,0,0,,,,,,"",""
+ball,2,18.4,Ireland,L Tucker,GH Dockrell,BJ Currie,4,0,,,,,,"",""
+ball,2,18.5,Ireland,L Tucker,GH Dockrell,BJ Currie,1,0,,,,,,"",""
+ball,2,18.6,Ireland,GH Dockrell,L Tucker,BJ Currie,1,0,,,,,,"",""
+ball,2,19.1,Ireland,GH Dockrell,L Tucker,SM Sharif,0,0,,,,,,"",""
+ball,2,19.2,Ireland,GH Dockrell,L Tucker,SM Sharif,0,0,,,,,,run out,L Tucker
+ball,2,19.3,Ireland,GJ Delany,GH Dockrell,SM Sharif,1,0,,,,,,"",""

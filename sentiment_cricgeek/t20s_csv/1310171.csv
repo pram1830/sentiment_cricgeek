@@ -1,0 +1,336 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Hungary
+info,gender,male
+info,season,2022
+info,date,2022/05/10
+info,event,Valletta Cup
+info,match_number,2
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Hungary
+info,toss_decision,field
+info,player_of_match,B Arora
+info,umpire,R Sivanadian
+info,umpire,S Harnal
+info,reserve_umpire,T Wheeler
+info,match_referee,SN Anand
+info,winner,Malta
+info,winner_runs,45
+info,player,Malta,G Chaturvedi
+info,player,Malta,B Arora
+info,player,Malta,B George
+info,player,Malta,HS Gericke
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,VP Thamotharam
+info,player,Malta,Bilal Muhammad
+info,player,Malta,N Khanna
+info,player,Malta,Washeem Abbas
+info,player,Malta,Jaison Jerome
+info,player,Malta,Amar Sharma
+info,player,Hungary,Khaibar Deldar
+info,player,Hungary,Abhijeet Ahuja
+info,player,Hungary,Abhishek Ahuja
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,HV Mandhyan
+info,player,Hungary,A Kheterpal
+info,player,Hungary,Ali Farasat
+info,player,Hungary,AG Weligamage
+info,player,Hungary,SA Mohandas
+info,player,Hungary,Akramullah Malikzada
+info,player,Hungary,BP Adapaka
+info,registry,people,A Kheterpal,2deb4082
+info,registry,people,AG Weligamage,747209e0
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,Abhijeet Ahuja,b91083bd
+info,registry,people,Abhishek Ahuja,65cf74b4
+info,registry,people,Akramullah Malikzada,dd3df124
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Amar Sharma,14e1fdab
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,BP Adapaka,e6082b10
+info,registry,people,Bilal Muhammad,eb5aa5b9
+info,registry,people,G Chaturvedi,e1c92333
+info,registry,people,HS Gericke,c28a293e
+info,registry,people,HV Mandhyan,11f56b14
+info,registry,people,Jaison Jerome,e57d25fa
+info,registry,people,Khaibar Deldar,032c7eab
+info,registry,people,N Khanna,0ec6a7c3
+info,registry,people,R Sivanadian,6100086b
+info,registry,people,S Harnal,756fe781
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,SN Anand,ab3d6059
+info,registry,people,T Wheeler,f4d1ecae
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zahir Mohammed,7c38942a
+ball,1,0.1,Malta,G Chaturvedi,B Arora,SA Mohandas,1,0,,,,,,"",""
+ball,1,0.2,Malta,B Arora,G Chaturvedi,SA Mohandas,0,0,,,,,,"",""
+ball,1,0.3,Malta,B Arora,G Chaturvedi,SA Mohandas,4,0,,,,,,"",""
+ball,1,0.4,Malta,B Arora,G Chaturvedi,SA Mohandas,3,0,,,,,,"",""
+ball,1,0.5,Malta,G Chaturvedi,B Arora,SA Mohandas,3,0,,,,,,"",""
+ball,1,0.6,Malta,B Arora,G Chaturvedi,SA Mohandas,0,0,,,,,,"",""
+ball,1,1.1,Malta,G Chaturvedi,B Arora,HV Mandhyan,4,0,,,,,,"",""
+ball,1,1.2,Malta,G Chaturvedi,B Arora,HV Mandhyan,0,0,,,,,,"",""
+ball,1,1.3,Malta,G Chaturvedi,B Arora,HV Mandhyan,0,0,,,,,,"",""
+ball,1,1.4,Malta,G Chaturvedi,B Arora,HV Mandhyan,0,0,,,,,,"",""
+ball,1,1.5,Malta,G Chaturvedi,B Arora,HV Mandhyan,0,0,,,,,,"",""
+ball,1,1.6,Malta,G Chaturvedi,B Arora,HV Mandhyan,0,1,1,,,,,"",""
+ball,1,1.7,Malta,G Chaturvedi,B Arora,HV Mandhyan,0,0,,,,,,caught,G Chaturvedi
+ball,1,2.1,Malta,B George,B Arora,SA Mohandas,2,0,,,,,,"",""
+ball,1,2.2,Malta,B George,B Arora,SA Mohandas,1,0,,,,,,"",""
+ball,1,2.3,Malta,B Arora,B George,SA Mohandas,0,0,,,,,,"",""
+ball,1,2.4,Malta,B Arora,B George,SA Mohandas,0,0,,,,,,"",""
+ball,1,2.5,Malta,B Arora,B George,SA Mohandas,4,0,,,,,,"",""
+ball,1,2.6,Malta,B Arora,B George,SA Mohandas,1,0,,,,,,"",""
+ball,1,3.1,Malta,B Arora,B George,HV Mandhyan,0,2,2,,,,,"",""
+ball,1,3.2,Malta,B George,B Arora,HV Mandhyan,4,0,,,,,,"",""
+ball,1,3.3,Malta,B George,B Arora,HV Mandhyan,4,0,,,,,,"",""
+ball,1,3.4,Malta,B George,B Arora,HV Mandhyan,2,0,,,,,,"",""
+ball,1,3.5,Malta,B George,B Arora,HV Mandhyan,0,0,,,,,,"",""
+ball,1,3.6,Malta,B George,B Arora,HV Mandhyan,1,0,,,,,,"",""
+ball,1,3.7,Malta,B Arora,B George,HV Mandhyan,1,0,,,,,,"",""
+ball,1,4.1,Malta,B Arora,B George,SA Mohandas,1,0,,,,,,"",""
+ball,1,4.2,Malta,B George,B Arora,SA Mohandas,1,0,,,,,,"",""
+ball,1,4.3,Malta,B Arora,B George,SA Mohandas,0,1,,,,1,,"",""
+ball,1,4.4,Malta,B George,B Arora,SA Mohandas,6,0,,,,,,"",""
+ball,1,4.5,Malta,B George,B Arora,SA Mohandas,0,1,1,,,,,"",""
+ball,1,4.6,Malta,B George,B Arora,SA Mohandas,0,0,,,,,,"",""
+ball,1,4.7,Malta,B George,B Arora,SA Mohandas,0,0,,,,,,"",""
+ball,1,5.1,Malta,B Arora,B George,A Kheterpal,1,0,,,,,,"",""
+ball,1,5.2,Malta,B George,B Arora,A Kheterpal,1,0,,,,,,"",""
+ball,1,5.3,Malta,B Arora,B George,A Kheterpal,1,0,,,,,,"",""
+ball,1,5.4,Malta,B George,B Arora,A Kheterpal,0,0,,,,,,"",""
+ball,1,5.5,Malta,B George,B Arora,A Kheterpal,1,0,,,,,,"",""
+ball,1,5.6,Malta,B Arora,B George,A Kheterpal,1,0,,,,,,"",""
+ball,1,6.1,Malta,B Arora,B George,Khaibar Deldar,0,3,,1,2,,,"",""
+ball,1,6.2,Malta,B Arora,B George,Khaibar Deldar,1,0,,,,,,"",""
+ball,1,6.3,Malta,B George,B Arora,Khaibar Deldar,4,0,,,,,,"",""
+ball,1,6.4,Malta,B George,B Arora,Khaibar Deldar,4,0,,,,,,"",""
+ball,1,6.5,Malta,B George,B Arora,Khaibar Deldar,0,1,1,,,,,"",""
+ball,1,6.6,Malta,B George,B Arora,Khaibar Deldar,0,1,,,,1,,"",""
+ball,1,6.7,Malta,B Arora,B George,Khaibar Deldar,0,0,,,,,,"",""
+ball,1,6.8,Malta,B Arora,B George,Khaibar Deldar,1,0,,,,,,"",""
+ball,1,7.1,Malta,B Arora,B George,A Kheterpal,1,0,,,,,,"",""
+ball,1,7.2,Malta,B George,B Arora,A Kheterpal,1,0,,,,,,"",""
+ball,1,7.3,Malta,B Arora,B George,A Kheterpal,0,0,,,,,,"",""
+ball,1,7.4,Malta,B Arora,B George,A Kheterpal,0,0,,,,,,"",""
+ball,1,7.5,Malta,B Arora,B George,A Kheterpal,1,0,,,,,,"",""
+ball,1,7.6,Malta,B George,B Arora,A Kheterpal,0,0,,,,,,"",""
+ball,1,8.1,Malta,B Arora,B George,Khaibar Deldar,1,0,,,,,,"",""
+ball,1,8.2,Malta,B George,B Arora,Khaibar Deldar,0,0,,,,,,"",""
+ball,1,8.3,Malta,B George,B Arora,Khaibar Deldar,2,0,,,,,,"",""
+ball,1,8.4,Malta,B George,B Arora,Khaibar Deldar,6,0,,,,,,"",""
+ball,1,8.5,Malta,B George,B Arora,Khaibar Deldar,1,0,,,,,,"",""
+ball,1,8.6,Malta,B Arora,B George,Khaibar Deldar,0,0,,,,,,"",""
+ball,1,9.1,Malta,B George,B Arora,A Kheterpal,1,0,,,,,,"",""
+ball,1,9.2,Malta,B Arora,B George,A Kheterpal,0,1,1,,,,,"",""
+ball,1,9.3,Malta,B Arora,B George,A Kheterpal,1,0,,,,,,"",""
+ball,1,9.4,Malta,B George,B Arora,A Kheterpal,1,1,,1,,,,"",""
+ball,1,9.5,Malta,B Arora,B George,A Kheterpal,1,1,,1,,,,"",""
+ball,1,9.6,Malta,B George,B Arora,A Kheterpal,1,0,,,,,,"",""
+ball,1,9.7,Malta,B Arora,B George,A Kheterpal,0,0,,,,,,"",""
+ball,1,9.8,Malta,B Arora,B George,A Kheterpal,1,0,,,,,,"",""
+ball,1,9.9,Malta,B George,B Arora,A Kheterpal,1,0,,,,,,"",""
+ball,1,10.1,Malta,B George,B Arora,AG Weligamage,2,0,,,,,,"",""
+ball,1,10.2,Malta,B George,B Arora,AG Weligamage,1,0,,,,,,"",""
+ball,1,10.3,Malta,B Arora,B George,AG Weligamage,2,0,,,,,,"",""
+ball,1,10.4,Malta,B Arora,B George,AG Weligamage,2,0,,,,,,"",""
+ball,1,10.5,Malta,B Arora,B George,AG Weligamage,0,5,5,,,,,"",""
+ball,1,10.6,Malta,B Arora,B George,AG Weligamage,0,1,,,,1,,"",""
+ball,1,10.7,Malta,B George,B Arora,AG Weligamage,0,1,,,,1,,"",""
+ball,1,11.1,Malta,B George,B Arora,Khaibar Deldar,0,0,,,,,,"",""
+ball,1,11.2,Malta,B George,B Arora,Khaibar Deldar,2,0,,,,,,"",""
+ball,1,11.3,Malta,B George,B Arora,Khaibar Deldar,4,0,,,,,,"",""
+ball,1,11.4,Malta,B George,B Arora,Khaibar Deldar,4,0,,,,,,"",""
+ball,1,11.5,Malta,B George,B Arora,Khaibar Deldar,2,0,,,,,,"",""
+ball,1,11.6,Malta,B George,B Arora,Khaibar Deldar,0,0,,,,,,caught,B George
+ball,1,12.1,Malta,HS Gericke,B Arora,HV Mandhyan,1,0,,,,,,"",""
+ball,1,12.2,Malta,B Arora,HS Gericke,HV Mandhyan,0,0,,,,,,"",""
+ball,1,12.3,Malta,B Arora,HS Gericke,HV Mandhyan,2,0,,,,,,"",""
+ball,1,12.4,Malta,B Arora,HS Gericke,HV Mandhyan,1,0,,,,,,"",""
+ball,1,12.5,Malta,HS Gericke,B Arora,HV Mandhyan,1,0,,,,,,"",""
+ball,1,12.6,Malta,B Arora,HS Gericke,HV Mandhyan,1,0,,,,,,"",""
+ball,1,13.1,Malta,B Arora,HS Gericke,AG Weligamage,0,1,,,,1,,"",""
+ball,1,13.2,Malta,HS Gericke,B Arora,AG Weligamage,0,0,,,,,,"",""
+ball,1,13.3,Malta,HS Gericke,B Arora,AG Weligamage,4,0,,,,,,"",""
+ball,1,13.4,Malta,HS Gericke,B Arora,AG Weligamage,0,0,,,,,,caught,HS Gericke
+ball,1,13.5,Malta,B Arora,Aaftab Alam Khan,AG Weligamage,4,0,,,,,,"",""
+ball,1,13.6,Malta,B Arora,Aaftab Alam Khan,AG Weligamage,6,0,,,,,,"",""
+ball,1,14.1,Malta,Aaftab Alam Khan,B Arora,HV Mandhyan,0,0,,,,,,"",""
+ball,1,14.2,Malta,Aaftab Alam Khan,B Arora,HV Mandhyan,4,0,,,,,,"",""
+ball,1,14.3,Malta,Aaftab Alam Khan,B Arora,HV Mandhyan,1,0,,,,,,"",""
+ball,1,14.4,Malta,B Arora,Aaftab Alam Khan,HV Mandhyan,1,0,,,,,,"",""
+ball,1,14.5,Malta,Aaftab Alam Khan,B Arora,HV Mandhyan,1,0,,,,,,"",""
+ball,1,14.6,Malta,B Arora,Aaftab Alam Khan,HV Mandhyan,2,0,,,,,,"",""
+ball,1,15.1,Malta,Aaftab Alam Khan,B Arora,AG Weligamage,0,0,,,,,,"",""
+ball,1,15.2,Malta,Aaftab Alam Khan,B Arora,AG Weligamage,0,1,1,,,,,"",""
+ball,1,15.3,Malta,Aaftab Alam Khan,B Arora,AG Weligamage,1,0,,,,,,"",""
+ball,1,15.4,Malta,B Arora,Aaftab Alam Khan,AG Weligamage,2,0,,,,,,"",""
+ball,1,15.5,Malta,B Arora,Aaftab Alam Khan,AG Weligamage,0,2,2,,,,,"",""
+ball,1,15.6,Malta,Aaftab Alam Khan,B Arora,AG Weligamage,0,0,,,,,,bowled,Aaftab Alam Khan
+ball,1,15.7,Malta,VP Thamotharam,B Arora,AG Weligamage,1,0,,,,,,"",""
+ball,1,15.8,Malta,B Arora,VP Thamotharam,AG Weligamage,4,0,,,,,,"",""
+ball,1,16.1,Malta,VP Thamotharam,B Arora,Zahir Mohammed,1,0,,,,,,"",""
+ball,1,16.2,Malta,B Arora,VP Thamotharam,Zahir Mohammed,0,5,5,,,,,"",""
+ball,1,16.3,Malta,B Arora,VP Thamotharam,Zahir Mohammed,4,0,,,,,,"",""
+ball,1,16.4,Malta,B Arora,VP Thamotharam,Zahir Mohammed,1,0,,,,,,"",""
+ball,1,16.5,Malta,VP Thamotharam,B Arora,Zahir Mohammed,6,0,,,,,,"",""
+ball,1,16.6,Malta,VP Thamotharam,B Arora,Zahir Mohammed,0,0,,,,,,"",""
+ball,1,16.7,Malta,VP Thamotharam,B Arora,Zahir Mohammed,6,0,,,,,,"",""
+ball,1,17.1,Malta,B Arora,VP Thamotharam,AG Weligamage,1,0,,,,,,"",""
+ball,1,17.2,Malta,VP Thamotharam,B Arora,AG Weligamage,1,0,,,,,,"",""
+ball,1,17.3,Malta,B Arora,VP Thamotharam,AG Weligamage,0,0,,,,,,"",""
+ball,1,17.4,Malta,B Arora,VP Thamotharam,AG Weligamage,2,0,,,,,,"",""
+ball,1,17.5,Malta,B Arora,VP Thamotharam,AG Weligamage,0,0,,,,,,bowled,B Arora
+ball,1,17.6,Malta,Bilal Muhammad,VP Thamotharam,AG Weligamage,4,0,,,,,,"",""
+ball,1,18.1,Malta,VP Thamotharam,Bilal Muhammad,A Kheterpal,0,0,,,,,,"",""
+ball,1,18.2,Malta,VP Thamotharam,Bilal Muhammad,A Kheterpal,1,0,,,,,,"",""
+ball,1,18.3,Malta,Bilal Muhammad,VP Thamotharam,A Kheterpal,1,0,,,,,,"",""
+ball,1,18.4,Malta,VP Thamotharam,Bilal Muhammad,A Kheterpal,0,0,,,,,,"",""
+ball,1,18.5,Malta,VP Thamotharam,Bilal Muhammad,A Kheterpal,1,0,,,,,,"",""
+ball,1,18.6,Malta,Bilal Muhammad,VP Thamotharam,A Kheterpal,1,0,,,,,,"",""
+ball,1,19.1,Malta,Bilal Muhammad,VP Thamotharam,SA Mohandas,0,0,,,,,,caught,Bilal Muhammad
+ball,1,19.2,Malta,VP Thamotharam,N Khanna,SA Mohandas,6,0,,,,,,"",""
+ball,1,19.3,Malta,VP Thamotharam,N Khanna,SA Mohandas,1,0,,,,,,"",""
+ball,1,19.4,Malta,N Khanna,VP Thamotharam,SA Mohandas,1,0,,,,,,"",""
+ball,1,19.5,Malta,VP Thamotharam,N Khanna,SA Mohandas,4,0,,,,,,"",""
+ball,1,19.6,Malta,VP Thamotharam,N Khanna,SA Mohandas,1,0,,,,,,run out,N Khanna
+ball,2,0.1,Hungary,Khaibar Deldar,Abhijeet Ahuja,Washeem Abbas,0,0,,,,,,"",""
+ball,2,0.2,Hungary,Khaibar Deldar,Abhijeet Ahuja,Washeem Abbas,0,0,,,,,,"",""
+ball,2,0.3,Hungary,Khaibar Deldar,Abhijeet Ahuja,Washeem Abbas,0,0,,,,,,"",""
+ball,2,0.4,Hungary,Khaibar Deldar,Abhijeet Ahuja,Washeem Abbas,0,0,,,,,,"",""
+ball,2,0.5,Hungary,Khaibar Deldar,Abhijeet Ahuja,Washeem Abbas,0,0,,,,,,"",""
+ball,2,0.6,Hungary,Khaibar Deldar,Abhijeet Ahuja,Washeem Abbas,2,0,,,,,,"",""
+ball,2,1.1,Hungary,Abhijeet Ahuja,Khaibar Deldar,Bilal Muhammad,0,1,1,,,,,"",""
+ball,2,1.2,Hungary,Abhijeet Ahuja,Khaibar Deldar,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,1.3,Hungary,Abhijeet Ahuja,Khaibar Deldar,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,1.4,Hungary,Abhijeet Ahuja,Khaibar Deldar,Bilal Muhammad,0,0,,,,,,caught,Abhijeet Ahuja
+ball,2,1.5,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,1.6,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,1,,,,1,,"",""
+ball,2,1.7,Hungary,Khaibar Deldar,Abhishek Ahuja,Bilal Muhammad,4,0,,,,,,"",""
+ball,2,2.1,Hungary,Abhishek Ahuja,Khaibar Deldar,Washeem Abbas,0,0,,,,,,"",""
+ball,2,2.2,Hungary,Abhishek Ahuja,Khaibar Deldar,Washeem Abbas,1,0,,,,,,"",""
+ball,2,2.3,Hungary,Khaibar Deldar,Abhishek Ahuja,Washeem Abbas,0,1,1,,,,,"",""
+ball,2,2.4,Hungary,Khaibar Deldar,Abhishek Ahuja,Washeem Abbas,2,0,,,,,,"",""
+ball,2,2.5,Hungary,Khaibar Deldar,Abhishek Ahuja,Washeem Abbas,1,0,,,,,,"",""
+ball,2,2.6,Hungary,Abhishek Ahuja,Khaibar Deldar,Washeem Abbas,1,0,,,,,,"",""
+ball,2,2.7,Hungary,Khaibar Deldar,Abhishek Ahuja,Washeem Abbas,2,0,,,,,,"",""
+ball,2,3.1,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,1,1,,,,,"",""
+ball,2,3.2,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,3.3,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,3.4,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,2,0,,,,,,"",""
+ball,2,3.5,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,1,1,,,,,"",""
+ball,2,3.6,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,3.7,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,0,1,1,,,,,"",""
+ball,2,3.8,Hungary,Abhishek Ahuja,Khaibar Deldar,Bilal Muhammad,1,0,,,,,,"",""
+ball,2,3.9,Hungary,Khaibar Deldar,Abhishek Ahuja,Bilal Muhammad,1,0,,,,,,"",""
+ball,2,4.1,Hungary,Khaibar Deldar,Abhishek Ahuja,Jaison Jerome,4,0,,,,,,"",""
+ball,2,4.2,Hungary,Khaibar Deldar,Abhishek Ahuja,Jaison Jerome,0,1,1,,,,,"",""
+ball,2,4.3,Hungary,Khaibar Deldar,Abhishek Ahuja,Jaison Jerome,0,0,,,,,,"",""
+ball,2,4.4,Hungary,Khaibar Deldar,Abhishek Ahuja,Jaison Jerome,0,0,,,,,,"",""
+ball,2,4.5,Hungary,Khaibar Deldar,Abhishek Ahuja,Jaison Jerome,6,0,,,,,,"",""
+ball,2,4.6,Hungary,Khaibar Deldar,Abhishek Ahuja,Jaison Jerome,4,0,,,,,,"",""
+ball,2,4.7,Hungary,Khaibar Deldar,Abhishek Ahuja,Jaison Jerome,1,0,,,,,,"",""
+ball,2,5.1,Hungary,Khaibar Deldar,Abhishek Ahuja,VP Thamotharam,0,0,,,,,,"",""
+ball,2,5.2,Hungary,Khaibar Deldar,Abhishek Ahuja,VP Thamotharam,0,1,1,,,,,"",""
+ball,2,5.3,Hungary,Khaibar Deldar,Abhishek Ahuja,VP Thamotharam,1,0,,,,,,"",""
+ball,2,5.4,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,0,0,,,,,,"",""
+ball,2,5.5,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,0,0,,,,,,"",""
+ball,2,5.6,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,0,0,,,,,,"",""
+ball,2,5.7,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,0,1,1,,,,,"",""
+ball,2,5.8,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,0,0,,,,,,"",""
+ball,2,6.1,Hungary,Khaibar Deldar,Abhishek Ahuja,Amar Sharma,0,0,,,,,,"",""
+ball,2,6.2,Hungary,Khaibar Deldar,Abhishek Ahuja,Amar Sharma,0,1,1,,,,,"",""
+ball,2,6.3,Hungary,Khaibar Deldar,Abhishek Ahuja,Amar Sharma,0,0,,,,,,"",""
+ball,2,6.4,Hungary,Khaibar Deldar,Abhishek Ahuja,Amar Sharma,4,0,,,,,,"",""
+ball,2,6.5,Hungary,Khaibar Deldar,Abhishek Ahuja,Amar Sharma,0,0,,,,,,"",""
+ball,2,6.6,Hungary,Khaibar Deldar,Abhishek Ahuja,Amar Sharma,1,0,,,,,,"",""
+ball,2,6.7,Hungary,Abhishek Ahuja,Khaibar Deldar,Amar Sharma,0,1,1,,,,,"",""
+ball,2,6.8,Hungary,Abhishek Ahuja,Khaibar Deldar,Amar Sharma,1,0,,,,,,"",""
+ball,2,7.1,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,1,0,,,,,,"",""
+ball,2,7.2,Hungary,Khaibar Deldar,Abhishek Ahuja,VP Thamotharam,1,0,,,,,,"",""
+ball,2,7.3,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,4,0,,,,,,"",""
+ball,2,7.4,Hungary,Abhishek Ahuja,Khaibar Deldar,VP Thamotharam,1,0,,,,,,"",""
+ball,2,7.5,Hungary,Khaibar Deldar,Abhishek Ahuja,VP Thamotharam,6,0,,,,,,"",""
+ball,2,7.6,Hungary,Khaibar Deldar,Abhishek Ahuja,VP Thamotharam,0,1,1,,,,,"",""
+ball,2,7.7,Hungary,Khaibar Deldar,Abhishek Ahuja,VP Thamotharam,0,0,,,,,,"",""
+ball,2,8.1,Hungary,Abhishek Ahuja,Khaibar Deldar,Amar Sharma,0,0,,,,,,"",""
+ball,2,8.2,Hungary,Abhishek Ahuja,Khaibar Deldar,Amar Sharma,1,0,,,,,,"",""
+ball,2,8.3,Hungary,Khaibar Deldar,Abhishek Ahuja,Amar Sharma,0,0,,,,,,caught,Khaibar Deldar
+ball,2,8.4,Hungary,Abhishek Ahuja,Zahir Mohammed,Amar Sharma,2,0,,,,,,"",""
+ball,2,8.5,Hungary,Abhishek Ahuja,Zahir Mohammed,Amar Sharma,0,0,,,,,,"",""
+ball,2,8.6,Hungary,Abhishek Ahuja,Zahir Mohammed,Amar Sharma,0,0,,,,,,"",""
+ball,2,9.1,Hungary,Zahir Mohammed,Abhishek Ahuja,B Arora,0,0,,,,,,"",""
+ball,2,9.2,Hungary,Zahir Mohammed,Abhishek Ahuja,B Arora,0,1,1,,,,,"",""
+ball,2,9.3,Hungary,Zahir Mohammed,Abhishek Ahuja,B Arora,1,0,,,,,,"",""
+ball,2,9.4,Hungary,Abhishek Ahuja,Zahir Mohammed,B Arora,0,1,1,,,,,"",""
+ball,2,9.5,Hungary,Abhishek Ahuja,Zahir Mohammed,B Arora,6,0,,,,,,"",""
+ball,2,9.6,Hungary,Abhishek Ahuja,Zahir Mohammed,B Arora,0,0,,,,,,"",""
+ball,2,9.7,Hungary,Abhishek Ahuja,Zahir Mohammed,B Arora,1,0,,,,,,"",""
+ball,2,9.8,Hungary,Zahir Mohammed,Abhishek Ahuja,B Arora,0,0,,,,,,"",""
+ball,2,10.1,Hungary,Abhishek Ahuja,Zahir Mohammed,Amar Sharma,1,0,,,,,,"",""
+ball,2,10.2,Hungary,Zahir Mohammed,Abhishek Ahuja,Amar Sharma,0,0,,,,,,bowled,Zahir Mohammed
+ball,2,10.3,Hungary,HV Mandhyan,Abhishek Ahuja,Amar Sharma,0,0,,,,,,"",""
+ball,2,10.4,Hungary,HV Mandhyan,Abhishek Ahuja,Amar Sharma,0,0,,,,,,"",""
+ball,2,10.5,Hungary,HV Mandhyan,Abhishek Ahuja,Amar Sharma,1,0,,,,,,"",""
+ball,2,10.6,Hungary,Abhishek Ahuja,HV Mandhyan,Amar Sharma,2,0,,,,,,"",""
+ball,2,11.1,Hungary,HV Mandhyan,Abhishek Ahuja,B Arora,1,0,,,,,,"",""
+ball,2,11.2,Hungary,Abhishek Ahuja,HV Mandhyan,B Arora,4,0,,,,,,"",""
+ball,2,11.3,Hungary,Abhishek Ahuja,HV Mandhyan,B Arora,1,0,,,,,,"",""
+ball,2,11.4,Hungary,HV Mandhyan,Abhishek Ahuja,B Arora,1,0,,,,,,"",""
+ball,2,11.5,Hungary,Abhishek Ahuja,HV Mandhyan,B Arora,1,0,,,,,,"",""
+ball,2,11.6,Hungary,HV Mandhyan,Abhishek Ahuja,B Arora,0,0,,,,,,"",""
+ball,2,12.1,Hungary,Abhishek Ahuja,HV Mandhyan,Amar Sharma,1,0,,,,,,"",""
+ball,2,12.2,Hungary,HV Mandhyan,Abhishek Ahuja,Amar Sharma,0,0,,,,,,"",""
+ball,2,12.3,Hungary,HV Mandhyan,Abhishek Ahuja,Amar Sharma,6,0,,,,,,"",""
+ball,2,12.4,Hungary,HV Mandhyan,Abhishek Ahuja,Amar Sharma,4,0,,,,,,"",""
+ball,2,12.5,Hungary,HV Mandhyan,Abhishek Ahuja,Amar Sharma,1,0,,,,,,"",""
+ball,2,12.6,Hungary,Abhishek Ahuja,HV Mandhyan,Amar Sharma,1,0,,,,,,"",""
+ball,2,13.1,Hungary,Abhishek Ahuja,HV Mandhyan,B Arora,0,0,,,,,,"",""
+ball,2,13.2,Hungary,Abhishek Ahuja,HV Mandhyan,B Arora,0,0,,,,,,caught,Abhishek Ahuja
+ball,2,13.3,Hungary,A Kheterpal,HV Mandhyan,B Arora,1,0,,,,,,"",""
+ball,2,13.4,Hungary,HV Mandhyan,A Kheterpal,B Arora,0,1,1,,,,,"",""
+ball,2,13.5,Hungary,HV Mandhyan,A Kheterpal,B Arora,1,0,,,,,,"",""
+ball,2,13.6,Hungary,A Kheterpal,HV Mandhyan,B Arora,0,0,,,,,,"",""
+ball,2,13.7,Hungary,A Kheterpal,HV Mandhyan,B Arora,0,0,,,,,,"",""
+ball,2,14.1,Hungary,HV Mandhyan,A Kheterpal,Jaison Jerome,1,0,,,,,,"",""
+ball,2,14.2,Hungary,A Kheterpal,HV Mandhyan,Jaison Jerome,4,0,,,,,,"",""
+ball,2,14.3,Hungary,A Kheterpal,HV Mandhyan,Jaison Jerome,2,0,,,,,,"",""
+ball,2,14.4,Hungary,A Kheterpal,HV Mandhyan,Jaison Jerome,1,0,,,,,,"",""
+ball,2,14.5,Hungary,HV Mandhyan,A Kheterpal,Jaison Jerome,1,0,,,,,,"",""
+ball,2,14.6,Hungary,A Kheterpal,HV Mandhyan,Jaison Jerome,1,0,,,,,,"",""
+ball,2,15.1,Hungary,A Kheterpal,HV Mandhyan,B Arora,2,0,,,,,,"",""
+ball,2,15.2,Hungary,A Kheterpal,HV Mandhyan,B Arora,1,0,,,,,,"",""
+ball,2,15.3,Hungary,HV Mandhyan,A Kheterpal,B Arora,2,0,,,,,,"",""
+ball,2,15.4,Hungary,HV Mandhyan,A Kheterpal,B Arora,6,0,,,,,,"",""
+ball,2,15.5,Hungary,HV Mandhyan,A Kheterpal,B Arora,4,0,,,,,,"",""
+ball,2,15.6,Hungary,HV Mandhyan,A Kheterpal,B Arora,2,0,,,,,,"",""
+ball,2,16.1,Hungary,A Kheterpal,HV Mandhyan,Washeem Abbas,0,0,,,,,,"",""
+ball,2,16.2,Hungary,A Kheterpal,HV Mandhyan,Washeem Abbas,1,0,,,,,,"",""
+ball,2,16.3,Hungary,HV Mandhyan,A Kheterpal,Washeem Abbas,0,1,1,,,,,"",""
+ball,2,16.4,Hungary,HV Mandhyan,A Kheterpal,Washeem Abbas,1,0,,,,,,"",""
+ball,2,16.5,Hungary,A Kheterpal,HV Mandhyan,Washeem Abbas,1,0,,,,,,"",""
+ball,2,16.6,Hungary,HV Mandhyan,A Kheterpal,Washeem Abbas,6,0,,,,,,"",""
+ball,2,16.7,Hungary,HV Mandhyan,A Kheterpal,Washeem Abbas,1,0,,,,,,"",""
+ball,2,17.1,Hungary,HV Mandhyan,A Kheterpal,Bilal Muhammad,0,1,1,,,,,"",""
+ball,2,17.2,Hungary,HV Mandhyan,A Kheterpal,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,17.3,Hungary,HV Mandhyan,A Kheterpal,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,17.4,Hungary,HV Mandhyan,A Kheterpal,Bilal Muhammad,1,0,,,,,,"",""
+ball,2,17.5,Hungary,A Kheterpal,HV Mandhyan,Bilal Muhammad,0,0,,,,,,"",""
+ball,2,17.6,Hungary,A Kheterpal,HV Mandhyan,Bilal Muhammad,1,0,,,,,,"",""
+ball,2,17.7,Hungary,HV Mandhyan,A Kheterpal,Bilal Muhammad,1,0,,,,,,"",""
+ball,2,18.1,Hungary,HV Mandhyan,A Kheterpal,Washeem Abbas,0,0,,,,,,bowled,HV Mandhyan
+ball,2,18.2,Hungary,Ali Farasat,A Kheterpal,Washeem Abbas,1,0,,,,,,"",""
+ball,2,18.3,Hungary,A Kheterpal,Ali Farasat,Washeem Abbas,1,0,,,,,,"",""
+ball,2,18.4,Hungary,Ali Farasat,A Kheterpal,Washeem Abbas,0,0,,,,,,bowled,Ali Farasat
+ball,2,18.5,Hungary,AG Weligamage,A Kheterpal,Washeem Abbas,1,0,,,,,,"",""
+ball,2,18.6,Hungary,A Kheterpal,AG Weligamage,Washeem Abbas,1,0,,,,,,"",""
+ball,2,19.1,Hungary,A Kheterpal,AG Weligamage,Jaison Jerome,2,0,,,,,,"",""
+ball,2,19.2,Hungary,A Kheterpal,AG Weligamage,Jaison Jerome,2,0,,,,,,"",""
+ball,2,19.3,Hungary,A Kheterpal,AG Weligamage,Jaison Jerome,0,0,,,,,,"",""
+ball,2,19.4,Hungary,A Kheterpal,AG Weligamage,Jaison Jerome,1,0,,,,,,"",""
+ball,2,19.5,Hungary,AG Weligamage,A Kheterpal,Jaison Jerome,1,0,,,,,,"",""
+ball,2,19.6,Hungary,A Kheterpal,AG Weligamage,Jaison Jerome,4,0,,,,,,"",""

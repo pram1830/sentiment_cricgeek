@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Finland
+info,gender,male
+info,season,2025
+info,date,2025/06/14
+info,event,Nordic T20 Cup
+info,match_number,5
+info,venue,"Ishoj Cricket Club, Vejledalen"
+info,city,Ishoj
+info,toss_winner,Finland
+info,toss_decision,field
+info,player_of_match,Imal Zuwak
+info,umpire,B Timilsena
+info,umpire,Ishaq Saqi
+info,winner,Sweden
+info,winner_runs,71
+info,player,Sweden,A Mundra
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,Samarth Shetty
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,J Stanigze
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,A Dhabe
+info,player,Finland,VS Padhaal
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,AK Mohan
+info,player,Finland,Faraaz Mehti Abbas
+info,player,Finland,A Pusthay
+info,player,Finland,Jordan O'Brien
+info,player,Finland,NM Salonen
+info,player,Finland,PUKK Arachchige
+info,player,Finland,Amjad Sher
+info,player,Finland,Akhil Arjunan
+info,player,Finland,E Kuchey
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,A Pusthay,0393fbdc
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,B Timilsena,826718d0
+info,registry,people,E Kuchey,5d6064b0
+info,registry,people,Faraaz Mehti Abbas,4233080d
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Ishaq Saqi,dc48b49e
+info,registry,people,J Stanigze,935305fd
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,PUKK Arachchige,1ef6ed2b
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samarth Shetty,324e5c36
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,VS Padhaal,c4fb0b39
+ball,1,0.1,Sweden,A Mundra,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,0.2,Sweden,A Mundra,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,0.3,Sweden,A Mundra,Imal Zuwak,Amjad Sher,6,0,,,,,,"",""
+ball,1,0.4,Sweden,A Mundra,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,0.5,Sweden,A Mundra,Imal Zuwak,Amjad Sher,4,0,,,,,,"",""
+ball,1,0.6,Sweden,A Mundra,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,1.1,Sweden,Imal Zuwak,A Mundra,NM Salonen,1,0,,,,,,"",""
+ball,1,1.2,Sweden,A Mundra,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,1.3,Sweden,A Mundra,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,1.4,Sweden,A Mundra,Imal Zuwak,NM Salonen,0,0,,,,,,lbw,A Mundra
+ball,1,1.5,Sweden,Awais Ahmad,Imal Zuwak,NM Salonen,0,0,,,,,,lbw,Awais Ahmad
+ball,1,1.6,Sweden,Samarth Shetty,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,2.1,Sweden,Imal Zuwak,Samarth Shetty,Amjad Sher,0,0,,,,,,"",""
+ball,1,2.2,Sweden,Imal Zuwak,Samarth Shetty,Amjad Sher,1,0,,,,,,"",""
+ball,1,2.3,Sweden,Samarth Shetty,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,2.4,Sweden,Samarth Shetty,Imal Zuwak,Amjad Sher,0,0,,,,,,caught,Samarth Shetty
+ball,1,2.5,Sweden,Hamid Mahmood,Imal Zuwak,Amjad Sher,1,0,,,,,,"",""
+ball,1,2.6,Sweden,Imal Zuwak,Hamid Mahmood,Amjad Sher,0,0,,,,,,"",""
+ball,1,3.1,Sweden,Hamid Mahmood,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,3.2,Sweden,Hamid Mahmood,Imal Zuwak,NM Salonen,4,0,,,,,,"",""
+ball,1,3.3,Sweden,Hamid Mahmood,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,3.4,Sweden,Hamid Mahmood,Imal Zuwak,NM Salonen,2,0,,,,,,"",""
+ball,1,3.5,Sweden,Hamid Mahmood,Imal Zuwak,NM Salonen,1,0,,,,,,"",""
+ball,1,3.6,Sweden,Imal Zuwak,Hamid Mahmood,NM Salonen,0,0,,,,,,"",""
+ball,1,4.1,Sweden,Hamid Mahmood,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,4.2,Sweden,Hamid Mahmood,Imal Zuwak,Amjad Sher,0,0,,,,,,"",""
+ball,1,4.3,Sweden,Hamid Mahmood,Imal Zuwak,Amjad Sher,2,0,,,,,,"",""
+ball,1,4.4,Sweden,Hamid Mahmood,Imal Zuwak,Amjad Sher,2,0,,,,,,"",""
+ball,1,4.5,Sweden,Hamid Mahmood,Imal Zuwak,Amjad Sher,4,0,,,,,,"",""
+ball,1,4.6,Sweden,Hamid Mahmood,Imal Zuwak,Amjad Sher,1,0,,,,,,"",""
+ball,1,5.1,Sweden,Hamid Mahmood,Imal Zuwak,NM Salonen,0,0,,,,,,caught,Hamid Mahmood
+ball,1,5.2,Sweden,J Stanigze,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,5.3,Sweden,J Stanigze,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,5.4,Sweden,J Stanigze,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,5.5,Sweden,J Stanigze,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,5.6,Sweden,J Stanigze,Imal Zuwak,NM Salonen,0,0,,,,,,"",""
+ball,1,6.1,Sweden,Imal Zuwak,J Stanigze,Amjad Sher,0,1,1,,,,,"",""
+ball,1,6.2,Sweden,Imal Zuwak,J Stanigze,Amjad Sher,0,0,,,,,,"",""
+ball,1,6.3,Sweden,Imal Zuwak,J Stanigze,Amjad Sher,4,0,,,,,,"",""
+ball,1,6.4,Sweden,Imal Zuwak,J Stanigze,Amjad Sher,0,0,,,,,,"",""
+ball,1,6.5,Sweden,Imal Zuwak,J Stanigze,Amjad Sher,0,0,,,,,,"",""
+ball,1,6.6,Sweden,Imal Zuwak,J Stanigze,Amjad Sher,0,1,,,,1,,"",""
+ball,1,6.7,Sweden,J Stanigze,Imal Zuwak,Amjad Sher,1,0,,,,,,"",""
+ball,1,7.1,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,7.2,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,0,0,,,,,,"",""
+ball,1,7.3,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,7.4,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,0,0,,,,,,"",""
+ball,1,7.5,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,4,0,,,,,,"",""
+ball,1,7.6,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,8.1,Sweden,J Stanigze,Imal Zuwak,E Kuchey,1,0,,,,,,"",""
+ball,1,8.2,Sweden,Imal Zuwak,J Stanigze,E Kuchey,2,0,,,,,,"",""
+ball,1,8.3,Sweden,Imal Zuwak,J Stanigze,E Kuchey,0,0,,,,,,"",""
+ball,1,8.4,Sweden,Imal Zuwak,J Stanigze,E Kuchey,6,0,,,,,,"",""
+ball,1,8.5,Sweden,Imal Zuwak,J Stanigze,E Kuchey,1,0,,,,,,"",""
+ball,1,8.6,Sweden,J Stanigze,Imal Zuwak,E Kuchey,0,0,,,,,,"",""
+ball,1,9.1,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,0,0,,,,,,"",""
+ball,1,9.2,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,0,0,,,,,,"",""
+ball,1,9.3,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,9.4,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,9.5,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,9.6,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,10.1,Sweden,J Stanigze,Imal Zuwak,E Kuchey,4,0,,,,,,"",""
+ball,1,10.2,Sweden,J Stanigze,Imal Zuwak,E Kuchey,3,0,,,,,,"",""
+ball,1,10.3,Sweden,Imal Zuwak,J Stanigze,E Kuchey,2,0,,,,,,"",""
+ball,1,10.4,Sweden,Imal Zuwak,J Stanigze,E Kuchey,2,0,,,,,,"",""
+ball,1,10.5,Sweden,Imal Zuwak,J Stanigze,E Kuchey,0,0,,,,,,"",""
+ball,1,10.6,Sweden,Imal Zuwak,J Stanigze,E Kuchey,4,0,,,,,,"",""
+ball,1,11.1,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,6,0,,,,,,"",""
+ball,1,11.2,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,0,0,,,,,,"",""
+ball,1,11.3,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,11.4,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,0,0,,,,,,"",""
+ball,1,11.5,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,11.6,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,12.1,Sweden,J Stanigze,Imal Zuwak,A Pusthay,0,0,,,,,,"",""
+ball,1,12.2,Sweden,J Stanigze,Imal Zuwak,A Pusthay,1,0,,,,,,"",""
+ball,1,12.3,Sweden,Imal Zuwak,J Stanigze,A Pusthay,2,0,,,,,,"",""
+ball,1,12.4,Sweden,Imal Zuwak,J Stanigze,A Pusthay,4,0,,,,,,"",""
+ball,1,12.5,Sweden,Imal Zuwak,J Stanigze,A Pusthay,2,0,,,,,,"",""
+ball,1,12.6,Sweden,Imal Zuwak,J Stanigze,A Pusthay,1,0,,,,,,"",""
+ball,1,13.1,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,13.2,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,0,0,,,,,,"",""
+ball,1,13.3,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,13.4,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,2,0,,,,,,"",""
+ball,1,13.5,Sweden,Imal Zuwak,J Stanigze,Akhil Arjunan,1,0,,,,,,"",""
+ball,1,13.6,Sweden,J Stanigze,Imal Zuwak,Akhil Arjunan,6,0,,,,,,"",""
+ball,1,14.1,Sweden,Imal Zuwak,J Stanigze,A Pusthay,2,0,,,,,,"",""
+ball,1,14.2,Sweden,Imal Zuwak,J Stanigze,A Pusthay,2,0,,,,,,"",""
+ball,1,14.3,Sweden,Imal Zuwak,J Stanigze,A Pusthay,2,0,,,,,,"",""
+ball,1,14.4,Sweden,Imal Zuwak,J Stanigze,A Pusthay,2,0,,,,,,"",""
+ball,1,14.5,Sweden,Imal Zuwak,J Stanigze,A Pusthay,1,0,,,,,,"",""
+ball,1,14.6,Sweden,J Stanigze,Imal Zuwak,A Pusthay,0,0,,,,,,caught,J Stanigze
+ball,1,15.1,Sweden,Imal Zuwak,Saeed Ahmed,Ghulam Abbas Butt,0,0,,,,,,"",""
+ball,1,15.2,Sweden,Imal Zuwak,Saeed Ahmed,Ghulam Abbas Butt,0,1,1,,,,,"",""
+ball,1,15.3,Sweden,Imal Zuwak,Saeed Ahmed,Ghulam Abbas Butt,6,0,,,,,,"",""
+ball,1,15.4,Sweden,Imal Zuwak,Saeed Ahmed,Ghulam Abbas Butt,1,0,,,,,,"",""
+ball,1,15.5,Sweden,Saeed Ahmed,Imal Zuwak,Ghulam Abbas Butt,1,0,,,,,,"",""
+ball,1,15.6,Sweden,Imal Zuwak,Saeed Ahmed,Ghulam Abbas Butt,6,0,,,,,,"",""
+ball,1,15.7,Sweden,Imal Zuwak,Saeed Ahmed,Ghulam Abbas Butt,1,0,,,,,,"",""
+ball,1,16.1,Sweden,Imal Zuwak,Saeed Ahmed,A Pusthay,0,1,,,,1,,"",""
+ball,1,16.2,Sweden,Saeed Ahmed,Imal Zuwak,A Pusthay,1,0,,,,,,"",""
+ball,1,16.3,Sweden,Imal Zuwak,Saeed Ahmed,A Pusthay,0,0,,,,,,"",""
+ball,1,16.4,Sweden,Imal Zuwak,Saeed Ahmed,A Pusthay,0,1,1,,,,,"",""
+ball,1,16.5,Sweden,Imal Zuwak,Saeed Ahmed,A Pusthay,0,0,,,,,,"",""
+ball,1,16.6,Sweden,Imal Zuwak,Saeed Ahmed,A Pusthay,0,0,,,,,,"",""
+ball,1,16.7,Sweden,Imal Zuwak,Saeed Ahmed,A Pusthay,6,0,,,,,,"",""
+ball,1,17.1,Sweden,Saeed Ahmed,Imal Zuwak,Ghulam Abbas Butt,0,0,,,,,,"",""
+ball,1,17.2,Sweden,Saeed Ahmed,Imal Zuwak,Ghulam Abbas Butt,0,0,,,,,,"",""
+ball,1,17.3,Sweden,Saeed Ahmed,Imal Zuwak,Ghulam Abbas Butt,0,0,,,,,,"",""
+ball,1,17.4,Sweden,Saeed Ahmed,Imal Zuwak,Ghulam Abbas Butt,1,0,,,,,,"",""
+ball,1,17.5,Sweden,Imal Zuwak,Saeed Ahmed,Ghulam Abbas Butt,1,0,,,,,,"",""
+ball,1,17.6,Sweden,Saeed Ahmed,Imal Zuwak,Ghulam Abbas Butt,2,0,,,,,,"",""
+ball,1,18.1,Sweden,Imal Zuwak,Saeed Ahmed,A Pusthay,0,0,,,,,,caught,Imal Zuwak
+ball,1,18.2,Sweden,Samiullah Rahmani,Saeed Ahmed,A Pusthay,1,0,,,,,,"",""
+ball,1,18.3,Sweden,Saeed Ahmed,Samiullah Rahmani,A Pusthay,1,0,,,,,,"",""
+ball,1,18.4,Sweden,Samiullah Rahmani,Saeed Ahmed,A Pusthay,1,0,,,,,,"",""
+ball,1,18.5,Sweden,Saeed Ahmed,Samiullah Rahmani,A Pusthay,0,1,1,,,,,"",""
+ball,1,18.6,Sweden,Saeed Ahmed,Samiullah Rahmani,A Pusthay,4,0,,,,,,"",""
+ball,1,18.7,Sweden,Saeed Ahmed,Samiullah Rahmani,A Pusthay,2,0,,,,,,"",""
+ball,1,19.1,Sweden,Samiullah Rahmani,Saeed Ahmed,NM Salonen,2,0,,,,,,"",""
+ball,1,19.2,Sweden,Samiullah Rahmani,Saeed Ahmed,NM Salonen,2,0,,,,,,"",""
+ball,1,19.3,Sweden,Samiullah Rahmani,Saeed Ahmed,NM Salonen,0,1,,,1,,,"",""
+ball,1,19.4,Sweden,Saeed Ahmed,Samiullah Rahmani,NM Salonen,0,0,,,,,,"",""
+ball,1,19.5,Sweden,Saeed Ahmed,Samiullah Rahmani,NM Salonen,4,0,,,,,,"",""
+ball,1,19.6,Sweden,Saeed Ahmed,Samiullah Rahmani,NM Salonen,2,0,,,,,,"",""
+ball,2,0.1,Finland,VS Padhaal,Ghulam Abbas Butt,Abdul Naser Baluch,2,0,,,,,,"",""
+ball,2,0.2,Finland,VS Padhaal,Ghulam Abbas Butt,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,0.3,Finland,VS Padhaal,Ghulam Abbas Butt,Abdul Naser Baluch,2,0,,,,,,"",""
+ball,2,0.4,Finland,VS Padhaal,Ghulam Abbas Butt,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,2,0.5,Finland,Ghulam Abbas Butt,VS Padhaal,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,2,0.6,Finland,VS Padhaal,Ghulam Abbas Butt,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,1.1,Finland,Ghulam Abbas Butt,VS Padhaal,Khalid Zahid,0,0,,,,,,"",""
+ball,2,1.2,Finland,Ghulam Abbas Butt,VS Padhaal,Khalid Zahid,0,0,,,,,,lbw,Ghulam Abbas Butt
+ball,2,1.3,Finland,AK Mohan,VS Padhaal,Khalid Zahid,0,0,,,,,,"",""
+ball,2,1.4,Finland,AK Mohan,VS Padhaal,Khalid Zahid,1,0,,,,,,"",""
+ball,2,1.5,Finland,VS Padhaal,AK Mohan,Khalid Zahid,1,0,,,,,,"",""
+ball,2,1.6,Finland,AK Mohan,VS Padhaal,Khalid Zahid,0,0,,,,,,"",""
+ball,2,2.1,Finland,VS Padhaal,AK Mohan,Abdul Naser Baluch,0,0,,,,,,lbw,VS Padhaal
+ball,2,2.2,Finland,Faraaz Mehti Abbas,AK Mohan,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,2.3,Finland,Faraaz Mehti Abbas,AK Mohan,Abdul Naser Baluch,0,1,1,,,,,"",""
+ball,2,2.4,Finland,Faraaz Mehti Abbas,AK Mohan,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,2.5,Finland,Faraaz Mehti Abbas,AK Mohan,Abdul Naser Baluch,0,0,,,,,,caught,Faraaz Mehti Abbas
+ball,2,2.6,Finland,A Pusthay,AK Mohan,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,2,2.7,Finland,AK Mohan,A Pusthay,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,3.1,Finland,A Pusthay,AK Mohan,Khalid Zahid,1,0,,,,,,"",""
+ball,2,3.2,Finland,AK Mohan,A Pusthay,Khalid Zahid,2,0,,,,,,"",""
+ball,2,3.3,Finland,AK Mohan,A Pusthay,Khalid Zahid,0,0,,,,,,"",""
+ball,2,3.4,Finland,AK Mohan,A Pusthay,Khalid Zahid,4,0,,,,,,"",""
+ball,2,3.5,Finland,AK Mohan,A Pusthay,Khalid Zahid,0,0,,,,,,"",""
+ball,2,3.6,Finland,AK Mohan,A Pusthay,Khalid Zahid,0,0,,,,,,"",""
+ball,2,4.1,Finland,A Pusthay,AK Mohan,Abdul Naser Baluch,2,0,,,,,,"",""
+ball,2,4.2,Finland,A Pusthay,AK Mohan,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,4.3,Finland,A Pusthay,AK Mohan,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,4.4,Finland,A Pusthay,AK Mohan,Abdul Naser Baluch,1,0,,,,,,"",""
+ball,2,4.5,Finland,AK Mohan,A Pusthay,Abdul Naser Baluch,0,1,1,,,,,"",""
+ball,2,4.6,Finland,AK Mohan,A Pusthay,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,4.7,Finland,AK Mohan,A Pusthay,Abdul Naser Baluch,0,0,,,,,,lbw,AK Mohan
+ball,2,5.1,Finland,A Pusthay,Jordan O'Brien,Khalid Zahid,0,0,,,,,,"",""
+ball,2,5.2,Finland,A Pusthay,Jordan O'Brien,Khalid Zahid,0,0,,,,,,"",""
+ball,2,5.3,Finland,A Pusthay,Jordan O'Brien,Khalid Zahid,1,0,,,,,,"",""
+ball,2,5.4,Finland,Jordan O'Brien,A Pusthay,Khalid Zahid,0,1,1,,,,,"",""
+ball,2,5.5,Finland,Jordan O'Brien,A Pusthay,Khalid Zahid,0,0,,,,,,"",""
+ball,2,5.6,Finland,Jordan O'Brien,A Pusthay,Khalid Zahid,0,0,,,,,,"",""
+ball,2,5.7,Finland,Jordan O'Brien,A Pusthay,Khalid Zahid,0,0,,,,,,caught,Jordan O'Brien
+ball,2,6.1,Finland,A Pusthay,NM Salonen,Abdul Naser Baluch,0,0,,,,,,bowled,A Pusthay
+ball,2,6.2,Finland,PUKK Arachchige,NM Salonen,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,6.3,Finland,PUKK Arachchige,NM Salonen,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,6.4,Finland,PUKK Arachchige,NM Salonen,Abdul Naser Baluch,0,1,1,,,,,"",""
+ball,2,6.5,Finland,PUKK Arachchige,NM Salonen,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,6.6,Finland,PUKK Arachchige,NM Salonen,Abdul Naser Baluch,2,0,,,,,,"",""
+ball,2,6.7,Finland,PUKK Arachchige,NM Salonen,Abdul Naser Baluch,0,0,,,,,,"",""
+ball,2,7.1,Finland,NM Salonen,PUKK Arachchige,Khalid Zahid,0,2,2,,,,,"",""
+ball,2,7.2,Finland,PUKK Arachchige,NM Salonen,Khalid Zahid,0,0,,,,,,"",""
+ball,2,7.3,Finland,PUKK Arachchige,NM Salonen,Khalid Zahid,0,0,,,,,,"",""
+ball,2,7.4,Finland,PUKK Arachchige,NM Salonen,Khalid Zahid,0,0,,,,,,caught,PUKK Arachchige
+ball,2,7.5,Finland,Amjad Sher,NM Salonen,Khalid Zahid,0,0,,,,,,"",""
+ball,2,7.6,Finland,Amjad Sher,NM Salonen,Khalid Zahid,0,0,,,,,,"",""
+ball,2,7.7,Finland,Amjad Sher,NM Salonen,Khalid Zahid,4,0,,,,,,"",""
+ball,2,8.1,Finland,NM Salonen,Amjad Sher,A Dhabe,0,1,1,,,,,"",""
+ball,2,8.2,Finland,NM Salonen,Amjad Sher,A Dhabe,0,0,,,,,,"",""
+ball,2,8.3,Finland,NM Salonen,Amjad Sher,A Dhabe,1,0,,,,,,"",""
+ball,2,8.4,Finland,Amjad Sher,NM Salonen,A Dhabe,2,0,,,,,,"",""
+ball,2,8.5,Finland,Amjad Sher,NM Salonen,A Dhabe,0,0,,,,,,"",""
+ball,2,8.6,Finland,Amjad Sher,NM Salonen,A Dhabe,0,0,,,,,,"",""
+ball,2,8.7,Finland,Amjad Sher,NM Salonen,A Dhabe,1,0,,,,,,"",""
+ball,2,9.1,Finland,Amjad Sher,NM Salonen,Samiullah Rahmani,1,0,,,,,,"",""
+ball,2,9.2,Finland,NM Salonen,Amjad Sher,Samiullah Rahmani,0,0,,,,,,"",""
+ball,2,9.3,Finland,NM Salonen,Amjad Sher,Samiullah Rahmani,1,0,,,,,,"",""
+ball,2,9.4,Finland,Amjad Sher,NM Salonen,Samiullah Rahmani,0,1,1,,,,,"",""
+ball,2,9.5,Finland,Amjad Sher,NM Salonen,Samiullah Rahmani,1,0,,,,,,"",""
+ball,2,9.6,Finland,NM Salonen,Amjad Sher,Samiullah Rahmani,1,0,,,,,,"",""
+ball,2,9.7,Finland,Amjad Sher,NM Salonen,Samiullah Rahmani,4,0,,,,,,"",""
+ball,2,10.1,Finland,NM Salonen,Amjad Sher,A Dhabe,0,1,,,,1,,"",""
+ball,2,10.2,Finland,Amjad Sher,NM Salonen,A Dhabe,1,0,,,,,,"",""
+ball,2,10.3,Finland,NM Salonen,Amjad Sher,A Dhabe,0,0,,,,,,caught,NM Salonen
+ball,2,10.4,Finland,Akhil Arjunan,Amjad Sher,A Dhabe,0,0,,,,,,"",""
+ball,2,10.5,Finland,Akhil Arjunan,Amjad Sher,A Dhabe,1,0,,,,,,"",""
+ball,2,10.6,Finland,Amjad Sher,Akhil Arjunan,A Dhabe,1,0,,,,,,"",""
+ball,2,11.1,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,0,0,,,,,,"",""
+ball,2,11.2,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,1,0,,,,,,"",""
+ball,2,11.3,Finland,Akhil Arjunan,Amjad Sher,J Stanigze,4,0,,,,,,"",""
+ball,2,11.4,Finland,Akhil Arjunan,Amjad Sher,J Stanigze,1,0,,,,,,"",""
+ball,2,11.5,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,0,0,,,,,,"",""
+ball,2,11.6,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,1,0,,,,,,"",""
+ball,2,12.1,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,12.2,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,12.3,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,12.4,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,12.5,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,12.6,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,13.1,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,1,0,,,,,,"",""
+ball,2,13.2,Finland,Akhil Arjunan,Amjad Sher,J Stanigze,1,0,,,,,,"",""
+ball,2,13.3,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,0,0,,,,,,"",""
+ball,2,13.4,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,0,0,,,,,,"",""
+ball,2,13.5,Finland,Amjad Sher,Akhil Arjunan,J Stanigze,0,1,,,,1,,"",""
+ball,2,13.6,Finland,Akhil Arjunan,Amjad Sher,J Stanigze,1,0,,,,,,"",""
+ball,2,14.1,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,14.2,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,0,2,2,,,,,"",""
+ball,2,14.3,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,14.4,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,14.5,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,14.6,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,14.7,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,15.1,Finland,Akhil Arjunan,Amjad Sher,A Dhabe,1,0,,,,,,"",""
+ball,2,15.2,Finland,Amjad Sher,Akhil Arjunan,A Dhabe,4,0,,,,,,"",""
+ball,2,15.3,Finland,Amjad Sher,Akhil Arjunan,A Dhabe,0,0,,,,,,"",""
+ball,2,15.4,Finland,Amjad Sher,Akhil Arjunan,A Dhabe,1,0,,,,,,"",""
+ball,2,15.5,Finland,Akhil Arjunan,Amjad Sher,A Dhabe,1,0,,,,,,"",""
+ball,2,15.6,Finland,Amjad Sher,Akhil Arjunan,A Dhabe,0,0,,,,,,"",""
+ball,2,16.1,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,16.2,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,16.3,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,16.4,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,16.5,Finland,Akhil Arjunan,Amjad Sher,Hamid Mahmood,3,0,,,,,,"",""
+ball,2,16.6,Finland,Amjad Sher,Akhil Arjunan,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,17.1,Finland,Amjad Sher,Akhil Arjunan,A Dhabe,0,0,,,,,,caught,Amjad Sher
+ball,2,17.2,Finland,E Kuchey,Akhil Arjunan,A Dhabe,0,0,,,,,,"",""
+ball,2,17.3,Finland,E Kuchey,Akhil Arjunan,A Dhabe,0,0,,,,,,"",""
+ball,2,17.4,Finland,E Kuchey,Akhil Arjunan,A Dhabe,1,0,,,,,,"",""
+ball,2,17.5,Finland,Akhil Arjunan,E Kuchey,A Dhabe,4,0,,,,,,"",""
+ball,2,17.6,Finland,Akhil Arjunan,E Kuchey,A Dhabe,1,0,,,,,,"",""
+ball,2,18.1,Finland,Akhil Arjunan,E Kuchey,Hamid Mahmood,1,0,,,,,,"",""
+ball,2,18.2,Finland,E Kuchey,Akhil Arjunan,Hamid Mahmood,0,0,,,,,,"",""
+ball,2,18.3,Finland,E Kuchey,Akhil Arjunan,Hamid Mahmood,0,0,,,,,,caught,E Kuchey

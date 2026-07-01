@@ -1,0 +1,315 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,India
+info,gender,male
+info,season,2017/18
+info,date,2017/12/24
+info,event,Sri Lanka tour of India
+info,match_number,3
+info,venue,Wankhede Stadium
+info,city,Mumbai
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,JD Unadkat
+info,umpire,AK Chaudhary
+info,umpire,Nitin Menon
+info,reserve_umpire,AY Dandekar
+info,tv_umpire,CK Nandan
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_wickets,5
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,DAS Gunaratne
+info,player,Sri Lanka,MD Gunathilaka
+info,player,Sri Lanka,NLTC Perera
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,A Dananjaya
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,N Pradeep
+info,player,India,RG Sharma
+info,player,India,KL Rahul
+info,player,India,SS Iyer
+info,player,India,MK Pandey
+info,player,India,HH Pandya
+info,player,India,KD Karthik
+info,player,India,MS Dhoni
+info,player,India,Washington Sundar
+info,player,India,Kuldeep Yadav
+info,player,India,JD Unadkat
+info,player,India,Mohammed Siraj
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,DAS Gunaratne,770494eb
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,WU Tharanga,7ed9fd56
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,Sri Lanka,N Dickwella,WU Tharanga,Washington Sundar,0,0,,,,,,"",""
+ball,1,0.2,Sri Lanka,N Dickwella,WU Tharanga,Washington Sundar,1,0,,,,,,"",""
+ball,1,0.3,Sri Lanka,WU Tharanga,N Dickwella,Washington Sundar,0,0,,,,,,"",""
+ball,1,0.4,Sri Lanka,WU Tharanga,N Dickwella,Washington Sundar,4,0,,,,,,"",""
+ball,1,0.5,Sri Lanka,WU Tharanga,N Dickwella,Washington Sundar,1,0,,,,,,"",""
+ball,1,0.6,Sri Lanka,N Dickwella,WU Tharanga,Washington Sundar,0,0,,,,,,"",""
+ball,1,1.1,Sri Lanka,WU Tharanga,N Dickwella,JD Unadkat,0,0,,,,,,"",""
+ball,1,1.2,Sri Lanka,WU Tharanga,N Dickwella,JD Unadkat,0,1,,,,1,,"",""
+ball,1,1.3,Sri Lanka,N Dickwella,WU Tharanga,JD Unadkat,0,1,1,,,,,"",""
+ball,1,1.4,Sri Lanka,N Dickwella,WU Tharanga,JD Unadkat,0,0,,,,,,"",""
+ball,1,1.5,Sri Lanka,N Dickwella,WU Tharanga,JD Unadkat,0,0,,,,,,"",""
+ball,1,1.6,Sri Lanka,N Dickwella,WU Tharanga,JD Unadkat,0,0,,,,,,caught,N Dickwella
+ball,1,1.7,Sri Lanka,WU Tharanga,MDKJ Perera,JD Unadkat,1,0,,,,,,"",""
+ball,1,2.1,Sri Lanka,WU Tharanga,MDKJ Perera,Washington Sundar,0,0,,,,,,"",""
+ball,1,2.2,Sri Lanka,WU Tharanga,MDKJ Perera,Washington Sundar,1,0,,,,,,"",""
+ball,1,2.3,Sri Lanka,MDKJ Perera,WU Tharanga,Washington Sundar,0,0,,,,,,"",""
+ball,1,2.4,Sri Lanka,MDKJ Perera,WU Tharanga,Washington Sundar,0,0,,,,,,"",""
+ball,1,2.5,Sri Lanka,MDKJ Perera,WU Tharanga,Washington Sundar,4,0,,,,,,"",""
+ball,1,2.6,Sri Lanka,MDKJ Perera,WU Tharanga,Washington Sundar,0,0,,,,,,caught and bowled,MDKJ Perera
+ball,1,3.1,Sri Lanka,WU Tharanga,S Samarawickrama,JD Unadkat,0,0,,,,,,"",""
+ball,1,3.2,Sri Lanka,WU Tharanga,S Samarawickrama,JD Unadkat,4,0,,,,,,"",""
+ball,1,3.3,Sri Lanka,WU Tharanga,S Samarawickrama,JD Unadkat,0,0,,,,,,caught,WU Tharanga
+ball,1,3.4,Sri Lanka,S Samarawickrama,DAS Gunaratne,JD Unadkat,0,0,,,,,,"",""
+ball,1,3.5,Sri Lanka,S Samarawickrama,DAS Gunaratne,JD Unadkat,1,0,,,,,,"",""
+ball,1,3.6,Sri Lanka,DAS Gunaratne,S Samarawickrama,JD Unadkat,0,0,,,,,,"",""
+ball,1,4.1,Sri Lanka,S Samarawickrama,DAS Gunaratne,Washington Sundar,1,0,,,,,,"",""
+ball,1,4.2,Sri Lanka,DAS Gunaratne,S Samarawickrama,Washington Sundar,4,0,,,,,,"",""
+ball,1,4.3,Sri Lanka,DAS Gunaratne,S Samarawickrama,Washington Sundar,0,0,,,,,,"",""
+ball,1,4.4,Sri Lanka,DAS Gunaratne,S Samarawickrama,Washington Sundar,0,0,,,,,,"",""
+ball,1,4.5,Sri Lanka,DAS Gunaratne,S Samarawickrama,Washington Sundar,1,0,,,,,,"",""
+ball,1,4.6,Sri Lanka,S Samarawickrama,DAS Gunaratne,Washington Sundar,1,0,,,,,,"",""
+ball,1,5.1,Sri Lanka,S Samarawickrama,DAS Gunaratne,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,5.2,Sri Lanka,DAS Gunaratne,S Samarawickrama,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,5.3,Sri Lanka,DAS Gunaratne,S Samarawickrama,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,5.4,Sri Lanka,DAS Gunaratne,S Samarawickrama,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,5.5,Sri Lanka,S Samarawickrama,DAS Gunaratne,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,5.6,Sri Lanka,S Samarawickrama,DAS Gunaratne,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,5.7,Sri Lanka,S Samarawickrama,DAS Gunaratne,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,6.1,Sri Lanka,DAS Gunaratne,S Samarawickrama,HH Pandya,0,1,1,,,,,"",""
+ball,1,6.2,Sri Lanka,DAS Gunaratne,S Samarawickrama,HH Pandya,0,0,,,,,,"",""
+ball,1,6.3,Sri Lanka,DAS Gunaratne,S Samarawickrama,HH Pandya,1,0,,,,,,"",""
+ball,1,6.4,Sri Lanka,S Samarawickrama,DAS Gunaratne,HH Pandya,4,0,,,,,,"",""
+ball,1,6.5,Sri Lanka,S Samarawickrama,DAS Gunaratne,HH Pandya,0,0,,,,,,"",""
+ball,1,6.6,Sri Lanka,S Samarawickrama,DAS Gunaratne,HH Pandya,2,0,,,,,,"",""
+ball,1,6.7,Sri Lanka,S Samarawickrama,DAS Gunaratne,HH Pandya,0,0,,,,,,"",""
+ball,1,7.1,Sri Lanka,DAS Gunaratne,S Samarawickrama,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,7.2,Sri Lanka,DAS Gunaratne,S Samarawickrama,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.3,Sri Lanka,S Samarawickrama,DAS Gunaratne,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,7.4,Sri Lanka,S Samarawickrama,DAS Gunaratne,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.5,Sri Lanka,DAS Gunaratne,S Samarawickrama,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.6,Sri Lanka,S Samarawickrama,DAS Gunaratne,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.1,Sri Lanka,S Samarawickrama,DAS Gunaratne,HH Pandya,1,0,,,,,,"",""
+ball,1,8.2,Sri Lanka,DAS Gunaratne,S Samarawickrama,HH Pandya,1,0,,,,,,"",""
+ball,1,8.3,Sri Lanka,S Samarawickrama,DAS Gunaratne,HH Pandya,0,1,1,,,,,"",""
+ball,1,8.4,Sri Lanka,S Samarawickrama,DAS Gunaratne,HH Pandya,0,0,,,,,,caught,S Samarawickrama
+ball,1,8.5,Sri Lanka,DAS Gunaratne,MD Gunathilaka,HH Pandya,1,0,,,,,,"",""
+ball,1,8.6,Sri Lanka,MD Gunathilaka,DAS Gunaratne,HH Pandya,0,0,,,,,,"",""
+ball,1,8.7,Sri Lanka,MD Gunathilaka,DAS Gunaratne,HH Pandya,0,0,,,,,,"",""
+ball,1,9.1,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.2,Sri Lanka,MD Gunathilaka,DAS Gunaratne,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.3,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Kuldeep Yadav,2,0,,,,,,"",""
+ball,1,9.4,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,9.5,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,9.6,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Kuldeep Yadav,2,0,,,,,,"",""
+ball,1,10.1,Sri Lanka,MD Gunathilaka,DAS Gunaratne,Washington Sundar,1,0,,,,,,"",""
+ball,1,10.2,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Washington Sundar,0,0,,,,,,"",""
+ball,1,10.3,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Washington Sundar,0,0,,,,,,"",""
+ball,1,10.4,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Washington Sundar,1,0,,,,,,"",""
+ball,1,10.5,Sri Lanka,MD Gunathilaka,DAS Gunaratne,Washington Sundar,1,0,,,,,,"",""
+ball,1,10.6,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Washington Sundar,1,0,,,,,,"",""
+ball,1,11.1,Sri Lanka,DAS Gunaratne,MD Gunathilaka,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.2,Sri Lanka,MD Gunathilaka,DAS Gunaratne,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,11.3,Sri Lanka,MD Gunathilaka,DAS Gunaratne,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,11.4,Sri Lanka,MD Gunathilaka,DAS Gunaratne,Kuldeep Yadav,0,0,,,,,,caught,MD Gunathilaka
+ball,1,11.5,Sri Lanka,NLTC Perera,DAS Gunaratne,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,11.6,Sri Lanka,DAS Gunaratne,NLTC Perera,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,12.1,Sri Lanka,DAS Gunaratne,NLTC Perera,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,12.2,Sri Lanka,NLTC Perera,DAS Gunaratne,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,12.3,Sri Lanka,NLTC Perera,DAS Gunaratne,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,12.4,Sri Lanka,NLTC Perera,DAS Gunaratne,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,12.5,Sri Lanka,NLTC Perera,DAS Gunaratne,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,12.6,Sri Lanka,NLTC Perera,DAS Gunaratne,Mohammed Siraj,0,0,,,,,,caught,NLTC Perera
+ball,1,13.1,Sri Lanka,DAS Gunaratne,MD Shanaka,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.2,Sri Lanka,MD Shanaka,DAS Gunaratne,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.3,Sri Lanka,DAS Gunaratne,MD Shanaka,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.4,Sri Lanka,MD Shanaka,DAS Gunaratne,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.5,Sri Lanka,DAS Gunaratne,MD Shanaka,Kuldeep Yadav,0,1,,,,1,,"",""
+ball,1,13.6,Sri Lanka,MD Shanaka,DAS Gunaratne,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,14.1,Sri Lanka,MD Shanaka,DAS Gunaratne,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,14.2,Sri Lanka,MD Shanaka,DAS Gunaratne,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,14.3,Sri Lanka,DAS Gunaratne,MD Shanaka,Mohammed Siraj,0,1,1,,,,,"",""
+ball,1,14.4,Sri Lanka,DAS Gunaratne,MD Shanaka,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,14.5,Sri Lanka,MD Shanaka,DAS Gunaratne,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,14.6,Sri Lanka,MD Shanaka,DAS Gunaratne,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,14.7,Sri Lanka,DAS Gunaratne,MD Shanaka,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,15.1,Sri Lanka,DAS Gunaratne,MD Shanaka,HH Pandya,1,0,,,,,,"",""
+ball,1,15.2,Sri Lanka,MD Shanaka,DAS Gunaratne,HH Pandya,1,0,,,,,,"",""
+ball,1,15.3,Sri Lanka,DAS Gunaratne,MD Shanaka,HH Pandya,1,0,,,,,,"",""
+ball,1,15.4,Sri Lanka,MD Shanaka,DAS Gunaratne,HH Pandya,0,0,,,,,,"",""
+ball,1,15.5,Sri Lanka,MD Shanaka,DAS Gunaratne,HH Pandya,0,1,1,,,,,"",""
+ball,1,15.6,Sri Lanka,MD Shanaka,DAS Gunaratne,HH Pandya,0,0,,,,,,"",""
+ball,1,15.7,Sri Lanka,MD Shanaka,DAS Gunaratne,HH Pandya,6,0,,,,,,"",""
+ball,1,16.1,Sri Lanka,DAS Gunaratne,MD Shanaka,JD Unadkat,1,0,,,,,,"",""
+ball,1,16.2,Sri Lanka,MD Shanaka,DAS Gunaratne,JD Unadkat,0,0,,,,,,"",""
+ball,1,16.3,Sri Lanka,MD Shanaka,DAS Gunaratne,JD Unadkat,2,0,,,,,,"",""
+ball,1,16.4,Sri Lanka,MD Shanaka,DAS Gunaratne,JD Unadkat,0,0,,,,,,"",""
+ball,1,16.5,Sri Lanka,MD Shanaka,DAS Gunaratne,JD Unadkat,1,0,,,,,,"",""
+ball,1,16.6,Sri Lanka,DAS Gunaratne,MD Shanaka,JD Unadkat,0,0,,,,,,"",""
+ball,1,17.1,Sri Lanka,MD Shanaka,DAS Gunaratne,HH Pandya,1,0,,,,,,"",""
+ball,1,17.2,Sri Lanka,DAS Gunaratne,MD Shanaka,HH Pandya,0,0,,,,,,"",""
+ball,1,17.3,Sri Lanka,DAS Gunaratne,MD Shanaka,HH Pandya,0,0,,,,,,caught,DAS Gunaratne
+ball,1,17.4,Sri Lanka,MD Shanaka,A Dananjaya,HH Pandya,0,0,,,,,,"",""
+ball,1,17.5,Sri Lanka,MD Shanaka,A Dananjaya,HH Pandya,1,0,,,,,,"",""
+ball,1,17.6,Sri Lanka,A Dananjaya,MD Shanaka,HH Pandya,1,0,,,,,,"",""
+ball,1,18.1,Sri Lanka,A Dananjaya,MD Shanaka,JD Unadkat,0,0,,,,,,"",""
+ball,1,18.2,Sri Lanka,A Dananjaya,MD Shanaka,JD Unadkat,0,0,,,,,,"",""
+ball,1,18.3,Sri Lanka,A Dananjaya,MD Shanaka,JD Unadkat,1,0,,,,,,"",""
+ball,1,18.4,Sri Lanka,MD Shanaka,A Dananjaya,JD Unadkat,2,0,,,,,,"",""
+ball,1,18.5,Sri Lanka,MD Shanaka,A Dananjaya,JD Unadkat,0,0,,,,,,"",""
+ball,1,18.6,Sri Lanka,MD Shanaka,A Dananjaya,JD Unadkat,1,0,,,,,,"",""
+ball,1,19.1,Sri Lanka,MD Shanaka,A Dananjaya,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,19.2,Sri Lanka,A Dananjaya,MD Shanaka,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,19.3,Sri Lanka,A Dananjaya,MD Shanaka,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,19.4,Sri Lanka,A Dananjaya,MD Shanaka,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,19.5,Sri Lanka,MD Shanaka,A Dananjaya,Mohammed Siraj,6,0,,,,,,"",""
+ball,1,19.6,Sri Lanka,MD Shanaka,A Dananjaya,Mohammed Siraj,2,0,,,,,,"",""
+ball,2,0.1,India,RG Sharma,KL Rahul,A Dananjaya,0,1,1,,,,,"",""
+ball,2,0.2,India,RG Sharma,KL Rahul,A Dananjaya,0,0,,,,,,"",""
+ball,2,0.3,India,RG Sharma,KL Rahul,A Dananjaya,0,0,,,,,,"",""
+ball,2,0.4,India,RG Sharma,KL Rahul,A Dananjaya,0,0,,,,,,"",""
+ball,2,0.5,India,RG Sharma,KL Rahul,A Dananjaya,1,0,,,,,,"",""
+ball,2,0.6,India,KL Rahul,RG Sharma,A Dananjaya,1,0,,,,,,"",""
+ball,2,0.7,India,RG Sharma,KL Rahul,A Dananjaya,0,0,,,,,,"",""
+ball,2,1.1,India,KL Rahul,RG Sharma,PVD Chameera,0,0,,,,,,"",""
+ball,2,1.2,India,KL Rahul,RG Sharma,PVD Chameera,0,0,,,,,,"",""
+ball,2,1.3,India,KL Rahul,RG Sharma,PVD Chameera,0,0,,,,,,"",""
+ball,2,1.4,India,KL Rahul,RG Sharma,PVD Chameera,1,0,,,,,,"",""
+ball,2,1.5,India,RG Sharma,KL Rahul,PVD Chameera,0,0,,,,,,"",""
+ball,2,1.6,India,RG Sharma,KL Rahul,PVD Chameera,0,0,,,,,,"",""
+ball,2,2.1,India,KL Rahul,RG Sharma,A Dananjaya,1,0,,,,,,"",""
+ball,2,2.2,India,RG Sharma,KL Rahul,A Dananjaya,4,0,,,,,,"",""
+ball,2,2.3,India,RG Sharma,KL Rahul,A Dananjaya,0,0,,,,,,"",""
+ball,2,2.4,India,RG Sharma,KL Rahul,A Dananjaya,6,0,,,,,,"",""
+ball,2,2.5,India,RG Sharma,KL Rahul,A Dananjaya,1,0,,,,,,"",""
+ball,2,2.6,India,KL Rahul,RG Sharma,A Dananjaya,1,0,,,,,,"",""
+ball,2,3.1,India,KL Rahul,RG Sharma,PVD Chameera,0,0,,,,,,"",""
+ball,2,3.2,India,KL Rahul,RG Sharma,PVD Chameera,0,0,,,,,,lbw,KL Rahul
+ball,2,3.3,India,SS Iyer,RG Sharma,PVD Chameera,4,0,,,,,,"",""
+ball,2,3.4,India,SS Iyer,RG Sharma,PVD Chameera,0,0,,,,,,"",""
+ball,2,3.5,India,SS Iyer,RG Sharma,PVD Chameera,0,0,,,,,,"",""
+ball,2,3.6,India,SS Iyer,RG Sharma,PVD Chameera,0,0,,,,,,"",""
+ball,2,4.1,India,RG Sharma,SS Iyer,NLTC Perera,4,0,,,,,,"",""
+ball,2,4.2,India,RG Sharma,SS Iyer,NLTC Perera,0,0,,,,,,"",""
+ball,2,4.3,India,RG Sharma,SS Iyer,NLTC Perera,1,0,,,,,,"",""
+ball,2,4.4,India,SS Iyer,RG Sharma,NLTC Perera,0,0,,,,,,"",""
+ball,2,4.5,India,SS Iyer,RG Sharma,NLTC Perera,0,0,,,,,,"",""
+ball,2,4.6,India,SS Iyer,RG Sharma,NLTC Perera,0,0,,,,,,"",""
+ball,2,5.1,India,RG Sharma,SS Iyer,N Pradeep,0,0,,,,,,"",""
+ball,2,5.2,India,RG Sharma,SS Iyer,N Pradeep,4,0,,,,,,"",""
+ball,2,5.3,India,RG Sharma,SS Iyer,N Pradeep,4,0,,,,,,"",""
+ball,2,5.4,India,RG Sharma,SS Iyer,N Pradeep,1,0,,,,,,"",""
+ball,2,5.5,India,SS Iyer,RG Sharma,N Pradeep,2,0,,,,,,"",""
+ball,2,5.6,India,SS Iyer,RG Sharma,N Pradeep,0,0,,,,,,"",""
+ball,2,6.1,India,RG Sharma,SS Iyer,MD Shanaka,1,0,,,,,,"",""
+ball,2,6.2,India,SS Iyer,RG Sharma,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.3,India,SS Iyer,RG Sharma,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.4,India,SS Iyer,RG Sharma,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.5,India,SS Iyer,RG Sharma,MD Shanaka,1,0,,,,,,"",""
+ball,2,6.6,India,RG Sharma,SS Iyer,MD Shanaka,0,0,,,,,,caught,RG Sharma
+ball,2,7.1,India,MK Pandey,SS Iyer,N Pradeep,1,0,,,,,,"",""
+ball,2,7.2,India,SS Iyer,MK Pandey,N Pradeep,1,0,,,,,,"",""
+ball,2,7.3,India,MK Pandey,SS Iyer,N Pradeep,1,0,,,,,,"",""
+ball,2,7.4,India,SS Iyer,MK Pandey,N Pradeep,1,0,,,,,,"",""
+ball,2,7.5,India,MK Pandey,SS Iyer,N Pradeep,0,4,,,,4,,"",""
+ball,2,7.6,India,MK Pandey,SS Iyer,N Pradeep,0,0,,,,,,"",""
+ball,2,8.1,India,SS Iyer,MK Pandey,MD Shanaka,0,1,,,,1,,"",""
+ball,2,8.2,India,MK Pandey,SS Iyer,MD Shanaka,1,0,,,,,,"",""
+ball,2,8.3,India,SS Iyer,MK Pandey,MD Shanaka,0,0,,,,,,"",""
+ball,2,8.4,India,SS Iyer,MK Pandey,MD Shanaka,0,0,,,,,,"",""
+ball,2,8.5,India,SS Iyer,MK Pandey,MD Shanaka,0,0,,,,,,"",""
+ball,2,8.6,India,SS Iyer,MK Pandey,MD Shanaka,1,0,,,,,,"",""
+ball,2,9.1,India,SS Iyer,MK Pandey,NLTC Perera,2,0,,,,,,"",""
+ball,2,9.2,India,SS Iyer,MK Pandey,NLTC Perera,2,0,,,,,,"",""
+ball,2,9.3,India,SS Iyer,MK Pandey,NLTC Perera,1,0,,,,,,"",""
+ball,2,9.4,India,MK Pandey,SS Iyer,NLTC Perera,0,0,,,,,,"",""
+ball,2,9.5,India,MK Pandey,SS Iyer,NLTC Perera,0,0,,,,,,"",""
+ball,2,9.6,India,MK Pandey,SS Iyer,NLTC Perera,1,0,,,,,,"",""
+ball,2,10.1,India,MK Pandey,SS Iyer,A Dananjaya,0,0,,,,,,"",""
+ball,2,10.2,India,MK Pandey,SS Iyer,A Dananjaya,1,0,,,,,,"",""
+ball,2,10.3,India,SS Iyer,MK Pandey,A Dananjaya,2,0,,,,,,"",""
+ball,2,10.4,India,SS Iyer,MK Pandey,A Dananjaya,1,0,,,,,,"",""
+ball,2,10.5,India,MK Pandey,SS Iyer,A Dananjaya,0,0,,,,,,"",""
+ball,2,10.6,India,MK Pandey,SS Iyer,A Dananjaya,1,0,,,,,,"",""
+ball,2,11.1,India,MK Pandey,SS Iyer,MD Shanaka,1,0,,,,,,"",""
+ball,2,11.2,India,SS Iyer,MK Pandey,MD Shanaka,2,0,,,,,,"",""
+ball,2,11.3,India,SS Iyer,MK Pandey,MD Shanaka,1,0,,,,,,"",""
+ball,2,11.4,India,MK Pandey,SS Iyer,MD Shanaka,1,0,,,,,,"",""
+ball,2,11.5,India,SS Iyer,MK Pandey,MD Shanaka,0,0,,,,,,"",""
+ball,2,11.6,India,SS Iyer,MK Pandey,MD Shanaka,6,0,,,,,,"",""
+ball,2,12.1,India,MK Pandey,SS Iyer,PVD Chameera,1,0,,,,,,"",""
+ball,2,12.2,India,SS Iyer,MK Pandey,PVD Chameera,2,0,,,,,,"",""
+ball,2,12.3,India,SS Iyer,MK Pandey,PVD Chameera,0,1,1,,,,,"",""
+ball,2,12.4,India,SS Iyer,MK Pandey,PVD Chameera,0,0,,,,,,"",""
+ball,2,12.5,India,SS Iyer,MK Pandey,PVD Chameera,1,0,,,,,,"",""
+ball,2,12.6,India,MK Pandey,SS Iyer,PVD Chameera,0,1,1,,,,,"",""
+ball,2,12.7,India,MK Pandey,SS Iyer,PVD Chameera,2,0,,,,,,"",""
+ball,2,12.8,India,MK Pandey,SS Iyer,PVD Chameera,1,0,,,,,,"",""
+ball,2,13.1,India,MK Pandey,SS Iyer,A Dananjaya,0,0,,,,,,"",""
+ball,2,13.2,India,MK Pandey,SS Iyer,A Dananjaya,0,0,,,,,,run out,SS Iyer
+ball,2,13.3,India,MK Pandey,HH Pandya,A Dananjaya,1,0,,,,,,"",""
+ball,2,13.4,India,HH Pandya,MK Pandey,A Dananjaya,1,0,,,,,,"",""
+ball,2,13.5,India,MK Pandey,HH Pandya,A Dananjaya,4,0,,,,,,"",""
+ball,2,13.6,India,MK Pandey,HH Pandya,A Dananjaya,0,0,,,,,,"",""
+ball,2,14.1,India,HH Pandya,MK Pandey,MD Shanaka,1,0,,,,,,"",""
+ball,2,14.2,India,MK Pandey,HH Pandya,MD Shanaka,4,0,,,,,,"",""
+ball,2,14.3,India,MK Pandey,HH Pandya,MD Shanaka,4,0,,,,,,"",""
+ball,2,14.4,India,MK Pandey,HH Pandya,MD Shanaka,1,0,,,,,,"",""
+ball,2,14.5,India,HH Pandya,MK Pandey,MD Shanaka,2,0,,,,,,"",""
+ball,2,14.6,India,HH Pandya,MK Pandey,MD Shanaka,0,0,,,,,,caught,HH Pandya
+ball,2,15.1,India,MK Pandey,KD Karthik,N Pradeep,1,0,,,,,,"",""
+ball,2,15.2,India,KD Karthik,MK Pandey,N Pradeep,0,0,,,,,,"",""
+ball,2,15.3,India,KD Karthik,MK Pandey,N Pradeep,2,0,,,,,,"",""
+ball,2,15.4,India,KD Karthik,MK Pandey,N Pradeep,1,0,,,,,,"",""
+ball,2,15.5,India,MK Pandey,KD Karthik,N Pradeep,4,0,,,,,,"",""
+ball,2,15.6,India,MK Pandey,KD Karthik,N Pradeep,1,0,,,,,,"",""
+ball,2,16.1,India,MK Pandey,KD Karthik,PVD Chameera,0,0,,,,,,bowled,MK Pandey
+ball,2,16.2,India,MS Dhoni,KD Karthik,PVD Chameera,1,0,,,,,,"",""
+ball,2,16.3,India,KD Karthik,MS Dhoni,PVD Chameera,1,0,,,,,,"",""
+ball,2,16.4,India,MS Dhoni,KD Karthik,PVD Chameera,4,0,,,,,,"",""
+ball,2,16.5,India,MS Dhoni,KD Karthik,PVD Chameera,2,0,,,,,,"",""
+ball,2,16.6,India,MS Dhoni,KD Karthik,PVD Chameera,0,0,,,,,,"",""
+ball,2,17.1,India,KD Karthik,MS Dhoni,NLTC Perera,1,0,,,,,,"",""
+ball,2,17.2,India,MS Dhoni,KD Karthik,NLTC Perera,1,0,,,,,,"",""
+ball,2,17.3,India,KD Karthik,MS Dhoni,NLTC Perera,1,0,,,,,,"",""
+ball,2,17.4,India,MS Dhoni,KD Karthik,NLTC Perera,1,0,,,,,,"",""
+ball,2,17.5,India,KD Karthik,MS Dhoni,NLTC Perera,1,0,,,,,,"",""
+ball,2,17.6,India,MS Dhoni,KD Karthik,NLTC Perera,0,0,,,,,,"",""
+ball,2,18.1,India,KD Karthik,MS Dhoni,N Pradeep,1,0,,,,,,"",""
+ball,2,18.2,India,MS Dhoni,KD Karthik,N Pradeep,1,0,,,,,,"",""
+ball,2,18.3,India,KD Karthik,MS Dhoni,N Pradeep,2,0,,,,,,"",""
+ball,2,18.4,India,KD Karthik,MS Dhoni,N Pradeep,0,0,,,,,,"",""
+ball,2,18.5,India,KD Karthik,MS Dhoni,N Pradeep,2,0,,,,,,"",""
+ball,2,18.6,India,KD Karthik,MS Dhoni,N Pradeep,6,0,,,,,,"",""
+ball,2,19.1,India,MS Dhoni,KD Karthik,NLTC Perera,2,0,,,,,,"",""
+ball,2,19.2,India,MS Dhoni,KD Karthik,NLTC Perera,4,0,,,,,,"",""

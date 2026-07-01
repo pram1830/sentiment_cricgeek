@@ -1,0 +1,300 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Brazil
+info,team,Argentina
+info,gender,female
+info,season,2024/25
+info,date,2025/03/10
+info,event,ICC Women's T20 World Cup Americas Region Qualifier
+info,match_number,2
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Argentina
+info,toss_decision,field
+info,player_of_match,NC Monteiro
+info,umpire,C La Borde
+info,umpire,Jermaine Lindo
+info,reserve_umpire,JM Williams
+info,tv_umpire,M Abbott
+info,match_referee,Denavon Hayles
+info,winner,Brazil
+info,winner_runs,25
+info,player,Brazil,LV Boas
+info,player,Brazil,L Agatha
+info,player,Brazil,RMAM Avery
+info,player,Brazil,L Cardoso
+info,player,Brazil,MR Machado
+info,player,Brazil,CS Nascimento
+info,player,Brazil,AC Sabino
+info,player,Brazil,MLG Silva
+info,player,Brazil,NC Monteiro
+info,player,Brazil,M Ribeiro
+info,player,Brazil,L Moises
+info,player,Argentina,A Galan
+info,player,Argentina,M Lollo
+info,player,Argentina,M Castineiras
+info,player,Argentina,L Taylor
+info,player,Argentina,M Martinez
+info,player,Argentina,A Stocks
+info,player,Argentina,JC Cullen
+info,player,Argentina,C Sosa
+info,player,Argentina,M Bestani
+info,player,Argentina,A Prince
+info,player,Argentina,MV Lehmann
+info,registry,people,A Galan,ad5165c2
+info,registry,people,A Prince,da994dd7
+info,registry,people,A Stocks,c999c416
+info,registry,people,AC Sabino,dd45b04b
+info,registry,people,C La Borde,32157f67
+info,registry,people,C Sosa,b2f4cb0d
+info,registry,people,CS Nascimento,df997334
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,JC Cullen,22595a2d
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,L Agatha,1aebb2fa
+info,registry,people,L Cardoso,5777d460
+info,registry,people,L Moises,b27f9716
+info,registry,people,L Taylor,8af91a3e
+info,registry,people,LV Boas,3a00d34f
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,M Bestani,e8045847
+info,registry,people,M Castineiras,b9094958
+info,registry,people,M Lollo,e6d1f4bb
+info,registry,people,M Martinez,f0ddeafb
+info,registry,people,M Ribeiro,38424a4d
+info,registry,people,MLG Silva,3b62a6b4
+info,registry,people,MR Machado,4a4f94fa
+info,registry,people,MV Lehmann,d2c61d83
+info,registry,people,NC Monteiro,752af5a4
+info,registry,people,RMAM Avery,4cf645c9
+ball,1,0.1,Brazil,LV Boas,L Agatha,A Galan,0,1,1,,,,,"",""
+ball,1,0.2,Brazil,LV Boas,L Agatha,A Galan,0,0,,,,,,caught,LV Boas
+ball,1,0.3,Brazil,RMAM Avery,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,0.4,Brazil,RMAM Avery,L Agatha,A Galan,0,0,,,,,,caught,RMAM Avery
+ball,1,0.5,Brazil,L Cardoso,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,0.6,Brazil,L Cardoso,L Agatha,A Galan,1,0,,,,,,"",""
+ball,1,0.7,Brazil,L Agatha,L Cardoso,A Galan,0,0,,,,,,"",""
+ball,1,1.1,Brazil,L Cardoso,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,1.2,Brazil,L Cardoso,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,1.3,Brazil,L Cardoso,L Agatha,C Sosa,0,2,2,,,,,"",""
+ball,1,1.4,Brazil,L Agatha,L Cardoso,C Sosa,0,1,,,,1,,"",""
+ball,1,1.5,Brazil,L Cardoso,L Agatha,C Sosa,1,0,,,,,,"",""
+ball,1,1.6,Brazil,L Agatha,L Cardoso,C Sosa,0,1,1,,,,,"",""
+ball,1,1.7,Brazil,L Agatha,L Cardoso,C Sosa,0,0,,,,,,"",""
+ball,1,1.8,Brazil,L Agatha,L Cardoso,C Sosa,0,1,1,,,,,"",""
+ball,1,1.9,Brazil,L Agatha,L Cardoso,C Sosa,2,1,,1,,,,"",""
+ball,1,1.10,Brazil,L Agatha,L Cardoso,C Sosa,2,0,,,,,,"",""
+ball,1,2.1,Brazil,L Cardoso,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,2.2,Brazil,L Cardoso,L Agatha,A Galan,1,0,,,,,,"",""
+ball,1,2.3,Brazil,L Agatha,L Cardoso,A Galan,0,0,,,,,,"",""
+ball,1,2.4,Brazil,L Agatha,L Cardoso,A Galan,0,1,,,,1,,"",""
+ball,1,2.5,Brazil,L Cardoso,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,2.6,Brazil,L Cardoso,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,3.1,Brazil,L Agatha,L Cardoso,L Taylor,0,1,1,,,,,"",""
+ball,1,3.2,Brazil,L Agatha,L Cardoso,L Taylor,1,0,,,,,,"",""
+ball,1,3.3,Brazil,L Cardoso,L Agatha,L Taylor,1,0,,,,,,"",""
+ball,1,3.4,Brazil,L Agatha,L Cardoso,L Taylor,0,0,,,,,,"",""
+ball,1,3.5,Brazil,L Agatha,L Cardoso,L Taylor,1,0,,,,,,"",""
+ball,1,3.6,Brazil,L Cardoso,L Agatha,L Taylor,0,0,,,,,,"",""
+ball,1,3.7,Brazil,L Cardoso,L Agatha,L Taylor,2,0,,,,,,"",""
+ball,1,4.1,Brazil,L Agatha,L Cardoso,A Galan,0,0,,,,,,"",""
+ball,1,4.2,Brazil,L Agatha,L Cardoso,A Galan,0,0,,,,,,"",""
+ball,1,4.3,Brazil,L Agatha,L Cardoso,A Galan,1,0,,,,,,"",""
+ball,1,4.4,Brazil,L Cardoso,L Agatha,A Galan,2,0,,,,,,"",""
+ball,1,4.5,Brazil,L Cardoso,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,4.6,Brazil,L Cardoso,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,5.1,Brazil,L Agatha,L Cardoso,A Stocks,1,0,,,,,,"",""
+ball,1,5.2,Brazil,L Cardoso,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,5.3,Brazil,L Cardoso,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,5.4,Brazil,L Cardoso,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,5.5,Brazil,L Cardoso,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,5.6,Brazil,L Cardoso,L Agatha,A Stocks,1,0,,,,,,"",""
+ball,1,6.1,Brazil,L Cardoso,L Agatha,C Sosa,0,0,,,,,,run out,L Cardoso
+ball,1,6.2,Brazil,MR Machado,L Agatha,C Sosa,0,1,1,,,,,"",""
+ball,1,6.3,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,6.4,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,6.5,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,6.6,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,6.7,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,7.1,Brazil,L Agatha,MR Machado,A Stocks,1,0,,,,,,"",""
+ball,1,7.2,Brazil,MR Machado,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,7.3,Brazil,MR Machado,L Agatha,A Stocks,1,0,,,,,,"",""
+ball,1,7.4,Brazil,L Agatha,MR Machado,A Stocks,0,0,,,,,,"",""
+ball,1,7.5,Brazil,L Agatha,MR Machado,A Stocks,0,0,,,,,,"",""
+ball,1,7.6,Brazil,L Agatha,MR Machado,A Stocks,1,0,,,,,,"",""
+ball,1,8.1,Brazil,L Agatha,MR Machado,C Sosa,0,0,,,,,,"",""
+ball,1,8.2,Brazil,L Agatha,MR Machado,C Sosa,0,0,,,,,,"",""
+ball,1,8.3,Brazil,L Agatha,MR Machado,C Sosa,1,0,,,,,,"",""
+ball,1,8.4,Brazil,MR Machado,L Agatha,C Sosa,0,1,1,,,,,"",""
+ball,1,8.5,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,8.6,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,8.7,Brazil,MR Machado,L Agatha,C Sosa,0,0,,,,,,"",""
+ball,1,9.1,Brazil,L Agatha,MR Machado,A Stocks,0,0,,,,,,"",""
+ball,1,9.2,Brazil,L Agatha,MR Machado,A Stocks,0,0,,,,,,"",""
+ball,1,9.3,Brazil,L Agatha,MR Machado,A Stocks,1,0,,,,,,"",""
+ball,1,9.4,Brazil,MR Machado,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,9.5,Brazil,MR Machado,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,9.6,Brazil,MR Machado,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,10.1,Brazil,L Agatha,MR Machado,A Galan,1,0,,,,,,"",""
+ball,1,10.2,Brazil,MR Machado,L Agatha,A Galan,1,0,,,,,,"",""
+ball,1,10.3,Brazil,L Agatha,MR Machado,A Galan,1,0,,,,,,"",""
+ball,1,10.4,Brazil,MR Machado,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,10.5,Brazil,MR Machado,L Agatha,A Galan,0,0,,,,,,"",""
+ball,1,10.6,Brazil,MR Machado,L Agatha,A Galan,1,0,,,,,,"",""
+ball,1,11.1,Brazil,MR Machado,L Agatha,A Stocks,0,0,,,,,,"",""
+ball,1,11.2,Brazil,MR Machado,L Agatha,A Stocks,1,0,,,,,,"",""
+ball,1,11.3,Brazil,L Agatha,MR Machado,A Stocks,0,1,1,,,,,"",""
+ball,1,11.4,Brazil,L Agatha,MR Machado,A Stocks,0,0,,,,,,"",""
+ball,1,11.5,Brazil,L Agatha,MR Machado,A Stocks,0,0,,,,,,caught,L Agatha
+ball,1,11.6,Brazil,CS Nascimento,MR Machado,A Stocks,0,0,,,,,,"",""
+ball,1,11.7,Brazil,CS Nascimento,MR Machado,A Stocks,0,0,,,,,,"",""
+ball,1,12.1,Brazil,MR Machado,CS Nascimento,MV Lehmann,0,0,,,,,,"",""
+ball,1,12.2,Brazil,MR Machado,CS Nascimento,MV Lehmann,0,0,,,,,,"",""
+ball,1,12.3,Brazil,MR Machado,CS Nascimento,MV Lehmann,0,0,,,,,,"",""
+ball,1,12.4,Brazil,MR Machado,CS Nascimento,MV Lehmann,1,0,,,,,,"",""
+ball,1,12.5,Brazil,CS Nascimento,MR Machado,MV Lehmann,0,0,,,,,,"",""
+ball,1,12.6,Brazil,CS Nascimento,MR Machado,MV Lehmann,2,0,,,,,,"",""
+ball,1,13.1,Brazil,MR Machado,CS Nascimento,L Taylor,0,0,,,,,,"",""
+ball,1,13.2,Brazil,MR Machado,CS Nascimento,L Taylor,1,0,,,,,,"",""
+ball,1,13.3,Brazil,CS Nascimento,MR Machado,L Taylor,0,0,,,,,,"",""
+ball,1,13.4,Brazil,CS Nascimento,MR Machado,L Taylor,0,0,,,,,,"",""
+ball,1,13.5,Brazil,CS Nascimento,MR Machado,L Taylor,0,0,,,,,,"",""
+ball,1,13.6,Brazil,CS Nascimento,MR Machado,L Taylor,1,0,,,,,,"",""
+ball,1,14.1,Brazil,CS Nascimento,MR Machado,M Martinez,0,0,,,,,,"",""
+ball,1,14.2,Brazil,CS Nascimento,MR Machado,M Martinez,1,0,,,,,,"",""
+ball,1,14.3,Brazil,MR Machado,CS Nascimento,M Martinez,1,0,,,,,,"",""
+ball,1,14.4,Brazil,CS Nascimento,MR Machado,M Martinez,0,0,,,,,,"",""
+ball,1,14.5,Brazil,CS Nascimento,MR Machado,M Martinez,1,0,,,,,,"",""
+ball,1,14.6,Brazil,MR Machado,CS Nascimento,M Martinez,0,0,,,,,,"",""
+ball,1,15.1,Brazil,CS Nascimento,MR Machado,L Taylor,0,1,,,,1,,"",""
+ball,1,15.2,Brazil,MR Machado,CS Nascimento,L Taylor,0,0,,,,,,bowled,MR Machado
+ball,1,15.3,Brazil,AC Sabino,CS Nascimento,L Taylor,0,0,,,,,,"",""
+ball,1,15.4,Brazil,AC Sabino,CS Nascimento,L Taylor,1,0,,,,,,"",""
+ball,1,15.5,Brazil,CS Nascimento,AC Sabino,L Taylor,0,1,1,,,,,"",""
+ball,1,15.6,Brazil,CS Nascimento,AC Sabino,L Taylor,1,0,,,,,,"",""
+ball,1,15.7,Brazil,AC Sabino,CS Nascimento,L Taylor,1,0,,,,,,"",""
+ball,1,16.1,Brazil,AC Sabino,CS Nascimento,M Martinez,0,0,,,,,,"",""
+ball,1,16.2,Brazil,AC Sabino,CS Nascimento,M Martinez,1,0,,,,,,"",""
+ball,1,16.3,Brazil,CS Nascimento,AC Sabino,M Martinez,1,0,,,,,,"",""
+ball,1,16.4,Brazil,AC Sabino,CS Nascimento,M Martinez,1,0,,,,,,"",""
+ball,1,16.5,Brazil,CS Nascimento,AC Sabino,M Martinez,1,0,,,,,,"",""
+ball,1,16.6,Brazil,AC Sabino,CS Nascimento,M Martinez,0,0,,,,,,"",""
+ball,1,17.1,Brazil,CS Nascimento,AC Sabino,L Taylor,0,0,,,,,,"",""
+ball,1,17.2,Brazil,CS Nascimento,AC Sabino,L Taylor,1,0,,,,,,"",""
+ball,1,17.3,Brazil,AC Sabino,CS Nascimento,L Taylor,2,0,,,,,,"",""
+ball,1,17.4,Brazil,AC Sabino,CS Nascimento,L Taylor,1,0,,,,,,"",""
+ball,1,17.5,Brazil,CS Nascimento,AC Sabino,L Taylor,0,0,,,,,,"",""
+ball,1,17.6,Brazil,CS Nascimento,AC Sabino,L Taylor,2,0,,,,,,"",""
+ball,1,18.1,Brazil,AC Sabino,CS Nascimento,M Martinez,0,1,1,,,,,"",""
+ball,1,18.2,Brazil,AC Sabino,CS Nascimento,M Martinez,1,0,,,,,,"",""
+ball,1,18.3,Brazil,CS Nascimento,AC Sabino,M Martinez,1,0,,,,,,"",""
+ball,1,18.4,Brazil,AC Sabino,CS Nascimento,M Martinez,0,0,,,,,,"",""
+ball,1,18.5,Brazil,AC Sabino,CS Nascimento,M Martinez,1,0,,,,,,"",""
+ball,1,18.6,Brazil,CS Nascimento,AC Sabino,M Martinez,0,0,,,,,,"",""
+ball,1,18.7,Brazil,CS Nascimento,AC Sabino,M Martinez,0,0,,,,,,"",""
+ball,1,19.1,Brazil,AC Sabino,CS Nascimento,C Sosa,0,0,,,,,,stumped,AC Sabino
+ball,1,19.2,Brazil,MLG Silva,CS Nascimento,C Sosa,0,0,,,,,,bowled,MLG Silva
+ball,1,19.3,Brazil,NC Monteiro,CS Nascimento,C Sosa,0,2,2,,,,,"",""
+ball,1,19.4,Brazil,CS Nascimento,NC Monteiro,C Sosa,0,0,,,,,,"",""
+ball,1,19.5,Brazil,CS Nascimento,NC Monteiro,C Sosa,0,1,1,,,,,"",""
+ball,1,19.6,Brazil,CS Nascimento,NC Monteiro,C Sosa,0,0,,,,,,"",""
+ball,1,19.7,Brazil,CS Nascimento,NC Monteiro,C Sosa,0,0,,,,,,"",""
+ball,1,19.8,Brazil,CS Nascimento,NC Monteiro,C Sosa,0,0,,,,,,bowled,CS Nascimento
+ball,2,0.1,Argentina,A Galan,M Lollo,M Ribeiro,0,0,,,,,,"",""
+ball,2,0.2,Argentina,A Galan,M Lollo,M Ribeiro,1,0,,,,,,"",""
+ball,2,0.3,Argentina,M Lollo,A Galan,M Ribeiro,0,0,,,,,,"",""
+ball,2,0.4,Argentina,M Lollo,A Galan,M Ribeiro,1,0,,,,,,"",""
+ball,2,0.5,Argentina,A Galan,M Lollo,M Ribeiro,1,0,,,,,,"",""
+ball,2,0.6,Argentina,M Lollo,A Galan,M Ribeiro,0,0,,,,,,"",""
+ball,2,1.1,Argentina,A Galan,M Lollo,L Cardoso,0,0,,,,,,"",""
+ball,2,1.2,Argentina,A Galan,M Lollo,L Cardoso,0,0,,,,,,"",""
+ball,2,1.3,Argentina,A Galan,M Lollo,L Cardoso,0,0,,,,,,"",""
+ball,2,1.4,Argentina,A Galan,M Lollo,L Cardoso,1,0,,,,,,"",""
+ball,2,1.5,Argentina,M Lollo,A Galan,L Cardoso,1,0,,,,,,"",""
+ball,2,1.6,Argentina,A Galan,M Lollo,L Cardoso,1,0,,,,,,"",""
+ball,2,2.1,Argentina,A Galan,M Lollo,M Ribeiro,1,0,,,,,,"",""
+ball,2,2.2,Argentina,M Lollo,A Galan,M Ribeiro,1,0,,,,,,"",""
+ball,2,2.3,Argentina,A Galan,M Lollo,M Ribeiro,1,0,,,,,,"",""
+ball,2,2.4,Argentina,M Lollo,A Galan,M Ribeiro,0,0,,,,,,"",""
+ball,2,2.5,Argentina,M Lollo,A Galan,M Ribeiro,0,0,,,,,,"",""
+ball,2,2.6,Argentina,M Lollo,A Galan,M Ribeiro,1,0,,,,,,"",""
+ball,2,3.1,Argentina,M Lollo,A Galan,L Cardoso,2,0,,,,,,"",""
+ball,2,3.2,Argentina,M Lollo,A Galan,L Cardoso,1,0,,,,,,"",""
+ball,2,3.3,Argentina,A Galan,M Lollo,L Cardoso,0,0,,,,,,"",""
+ball,2,3.4,Argentina,A Galan,M Lollo,L Cardoso,0,0,,,,,,"",""
+ball,2,3.5,Argentina,A Galan,M Lollo,L Cardoso,0,0,,,,,,"",""
+ball,2,3.6,Argentina,A Galan,M Lollo,L Cardoso,0,0,,,,,,"",""
+ball,2,4.1,Argentina,M Lollo,A Galan,CS Nascimento,0,1,1,,,,,"",""
+ball,2,4.2,Argentina,M Lollo,A Galan,CS Nascimento,1,0,,,,,,"",""
+ball,2,4.3,Argentina,A Galan,M Lollo,CS Nascimento,0,0,,,,,,"",""
+ball,2,4.4,Argentina,A Galan,M Lollo,CS Nascimento,0,0,,,,,,"",""
+ball,2,4.5,Argentina,A Galan,M Lollo,CS Nascimento,0,0,,,,,,"",""
+ball,2,4.6,Argentina,A Galan,M Lollo,CS Nascimento,2,0,,,,,,"",""
+ball,2,4.7,Argentina,A Galan,M Lollo,CS Nascimento,0,1,,,,1,,"",""
+ball,2,5.1,Argentina,A Galan,M Lollo,NC Monteiro,0,1,1,,,,,"",""
+ball,2,5.2,Argentina,A Galan,M Lollo,NC Monteiro,1,0,,,,,,"",""
+ball,2,5.3,Argentina,M Lollo,A Galan,NC Monteiro,2,0,,,,,,"",""
+ball,2,5.4,Argentina,M Lollo,A Galan,NC Monteiro,0,0,,,,,,stumped,M Lollo
+ball,2,5.5,Argentina,M Castineiras,A Galan,NC Monteiro,0,0,,,,,,bowled,M Castineiras
+ball,2,5.6,Argentina,L Taylor,A Galan,NC Monteiro,0,0,,,,,,"",""
+ball,2,5.7,Argentina,L Taylor,A Galan,NC Monteiro,0,0,,,,,,"",""
+ball,2,6.1,Argentina,A Galan,L Taylor,CS Nascimento,0,0,,,,,,"",""
+ball,2,6.2,Argentina,A Galan,L Taylor,CS Nascimento,0,0,,,,,,"",""
+ball,2,6.3,Argentina,A Galan,L Taylor,CS Nascimento,0,0,,,,,,bowled,A Galan
+ball,2,6.4,Argentina,M Martinez,L Taylor,CS Nascimento,0,1,1,,,,,"",""
+ball,2,6.5,Argentina,M Martinez,L Taylor,CS Nascimento,1,0,,,,,,"",""
+ball,2,6.6,Argentina,L Taylor,M Martinez,CS Nascimento,0,0,,,,,,"",""
+ball,2,6.7,Argentina,L Taylor,M Martinez,CS Nascimento,1,0,,,,,,"",""
+ball,2,7.1,Argentina,L Taylor,M Martinez,NC Monteiro,1,0,,,,,,"",""
+ball,2,7.2,Argentina,M Martinez,L Taylor,NC Monteiro,0,0,,,,,,"",""
+ball,2,7.3,Argentina,M Martinez,L Taylor,NC Monteiro,0,0,,,,,,bowled,M Martinez
+ball,2,7.4,Argentina,A Stocks,L Taylor,NC Monteiro,0,0,,,,,,"",""
+ball,2,7.5,Argentina,A Stocks,L Taylor,NC Monteiro,0,0,,,,,,"",""
+ball,2,7.6,Argentina,A Stocks,L Taylor,NC Monteiro,0,0,,,,,,"",""
+ball,2,8.1,Argentina,L Taylor,A Stocks,CS Nascimento,0,0,,,,,,"",""
+ball,2,8.2,Argentina,L Taylor,A Stocks,CS Nascimento,1,0,,,,,,"",""
+ball,2,8.3,Argentina,A Stocks,L Taylor,CS Nascimento,0,0,,,,,,"",""
+ball,2,8.4,Argentina,A Stocks,L Taylor,CS Nascimento,1,0,,,,,,"",""
+ball,2,8.5,Argentina,L Taylor,A Stocks,CS Nascimento,1,0,,,,,,"",""
+ball,2,8.6,Argentina,A Stocks,L Taylor,CS Nascimento,2,0,,,,,,"",""
+ball,2,9.1,Argentina,L Taylor,A Stocks,NC Monteiro,0,0,,,,,,"",""
+ball,2,9.2,Argentina,L Taylor,A Stocks,NC Monteiro,0,0,,,,,,caught,L Taylor
+ball,2,9.3,Argentina,JC Cullen,A Stocks,NC Monteiro,0,0,,,,,,bowled,JC Cullen
+ball,2,9.4,Argentina,C Sosa,A Stocks,NC Monteiro,0,0,,,,,,"",""
+ball,2,9.5,Argentina,C Sosa,A Stocks,NC Monteiro,0,0,,,,,,"",""
+ball,2,9.6,Argentina,C Sosa,A Stocks,NC Monteiro,0,0,,,,,,"",""
+ball,2,10.1,Argentina,A Stocks,C Sosa,CS Nascimento,0,0,,,,,,"",""
+ball,2,10.2,Argentina,A Stocks,C Sosa,CS Nascimento,2,0,,,,,,"",""
+ball,2,10.3,Argentina,A Stocks,C Sosa,CS Nascimento,0,0,,,,,,"",""
+ball,2,10.4,Argentina,A Stocks,C Sosa,CS Nascimento,0,1,1,,,,,"",""
+ball,2,10.5,Argentina,A Stocks,C Sosa,CS Nascimento,0,0,,,,,,run out,A Stocks
+ball,2,10.6,Argentina,M Bestani,C Sosa,CS Nascimento,1,0,,,,,,"",""
+ball,2,10.7,Argentina,C Sosa,M Bestani,CS Nascimento,1,0,,,,,,"",""
+ball,2,11.1,Argentina,C Sosa,M Bestani,NC Monteiro,0,0,,,,,,"",""
+ball,2,11.2,Argentina,C Sosa,M Bestani,NC Monteiro,0,1,,,,1,,"",""
+ball,2,11.3,Argentina,M Bestani,C Sosa,NC Monteiro,1,0,,,,,,"",""
+ball,2,11.4,Argentina,C Sosa,M Bestani,NC Monteiro,1,0,,,,,,"",""
+ball,2,11.5,Argentina,M Bestani,C Sosa,NC Monteiro,0,0,,,,,,"",""
+ball,2,11.6,Argentina,M Bestani,C Sosa,NC Monteiro,0,0,,,,,,"",""
+ball,2,12.1,Argentina,C Sosa,M Bestani,L Moises,0,0,,,,,,"",""
+ball,2,12.2,Argentina,C Sosa,M Bestani,L Moises,0,0,,,,,,"",""
+ball,2,12.3,Argentina,C Sosa,M Bestani,L Moises,0,0,,,,,,"",""
+ball,2,12.4,Argentina,C Sosa,M Bestani,L Moises,0,1,1,,,,,"",""
+ball,2,12.5,Argentina,C Sosa,M Bestani,L Moises,0,0,,,,,,"",""
+ball,2,12.6,Argentina,C Sosa,M Bestani,L Moises,0,0,,,,,,"",""
+ball,2,12.7,Argentina,C Sosa,M Bestani,L Moises,0,0,,,,,,"",""
+ball,2,13.1,Argentina,M Bestani,C Sosa,RMAM Avery,0,0,,,,,,"",""
+ball,2,13.2,Argentina,M Bestani,C Sosa,RMAM Avery,1,0,,,,,,"",""
+ball,2,13.3,Argentina,C Sosa,M Bestani,RMAM Avery,0,1,1,,,,,"",""
+ball,2,13.4,Argentina,C Sosa,M Bestani,RMAM Avery,1,0,,,,,,"",""
+ball,2,13.5,Argentina,M Bestani,C Sosa,RMAM Avery,0,0,,,,,,"",""
+ball,2,13.6,Argentina,M Bestani,C Sosa,RMAM Avery,0,0,,,,,,caught,M Bestani
+ball,2,13.7,Argentina,A Prince,C Sosa,RMAM Avery,0,0,,,,,,"",""
+ball,2,14.1,Argentina,C Sosa,A Prince,L Moises,0,0,,,,,,"",""
+ball,2,14.2,Argentina,C Sosa,A Prince,L Moises,0,0,,,,,,"",""
+ball,2,14.3,Argentina,C Sosa,A Prince,L Moises,1,0,,,,,,"",""
+ball,2,14.4,Argentina,A Prince,C Sosa,L Moises,0,0,,,,,,lbw,A Prince
+ball,2,14.5,Argentina,MV Lehmann,C Sosa,L Moises,0,0,,,,,,"",""
+ball,2,14.6,Argentina,MV Lehmann,C Sosa,L Moises,0,0,,,,,,"",""
+ball,2,15.1,Argentina,C Sosa,MV Lehmann,RMAM Avery,0,0,,,,,,caught,C Sosa

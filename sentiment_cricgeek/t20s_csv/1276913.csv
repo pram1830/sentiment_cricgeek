@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2022
+info,date,2022/07/27
+info,event,South Africa tour of England
+info,match_number,1
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,MM Ali
+info,umpire,DJ Millns
+info,umpire,M Burns
+info,reserve_umpire,AG Wharf
+info,tv_umpire,MJ Saggers
+info,match_referee,BC Broad
+info,winner,England
+info,winner_runs,41
+info,player,England,JJ Roy
+info,player,England,JC Buttler
+info,player,England,DJ Malan
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,SM Curran
+info,player,England,CJ Jordan
+info,player,England,AU Rashid
+info,player,England,RJW Topley
+info,player,England,RJ Gleeson
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,RR Rossouw
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,T Stubbs
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,K Rabada
+info,player,South Africa,KA Maharaj
+info,player,South Africa,L Ngidi
+info,player,South Africa,T Shamsi
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+ball,1,0.1,England,JJ Roy,JC Buttler,KA Maharaj,0,0,,,,,,"",""
+ball,1,0.2,England,JJ Roy,JC Buttler,KA Maharaj,1,0,,,,,,"",""
+ball,1,0.3,England,JC Buttler,JJ Roy,KA Maharaj,4,0,,,,,,"",""
+ball,1,0.4,England,JC Buttler,JJ Roy,KA Maharaj,1,0,,,,,,"",""
+ball,1,0.5,England,JJ Roy,JC Buttler,KA Maharaj,1,0,,,,,,"",""
+ball,1,0.6,England,JC Buttler,JJ Roy,KA Maharaj,6,0,,,,,,"",""
+ball,1,1.1,England,JJ Roy,JC Buttler,K Rabada,1,0,,,,,,"",""
+ball,1,1.2,England,JC Buttler,JJ Roy,K Rabada,1,0,,,,,,"",""
+ball,1,1.3,England,JJ Roy,JC Buttler,K Rabada,0,0,,,,,,"",""
+ball,1,1.4,England,JJ Roy,JC Buttler,K Rabada,0,0,,,,,,"",""
+ball,1,1.5,England,JJ Roy,JC Buttler,K Rabada,0,0,,,,,,"",""
+ball,1,1.6,England,JJ Roy,JC Buttler,K Rabada,1,0,,,,,,"",""
+ball,1,2.1,England,JJ Roy,JC Buttler,L Ngidi,0,1,1,,,,,"",""
+ball,1,2.2,England,JJ Roy,JC Buttler,L Ngidi,1,0,,,,,,"",""
+ball,1,2.3,England,JC Buttler,JJ Roy,L Ngidi,6,0,,,,,,"",""
+ball,1,2.4,England,JC Buttler,JJ Roy,L Ngidi,4,0,,,,,,"",""
+ball,1,2.5,England,JC Buttler,JJ Roy,L Ngidi,0,0,,,,,,caught,JC Buttler
+ball,1,2.6,England,DJ Malan,JJ Roy,L Ngidi,1,0,,,,,,"",""
+ball,1,2.7,England,JJ Roy,DJ Malan,L Ngidi,0,0,,,,,,"",""
+ball,1,3.1,England,DJ Malan,JJ Roy,K Rabada,1,0,,,,,,"",""
+ball,1,3.2,England,JJ Roy,DJ Malan,K Rabada,0,0,,,,,,"",""
+ball,1,3.3,England,JJ Roy,DJ Malan,K Rabada,1,0,,,,,,"",""
+ball,1,3.4,England,DJ Malan,JJ Roy,K Rabada,6,0,,,,,,"",""
+ball,1,3.5,England,DJ Malan,JJ Roy,K Rabada,1,0,,,,,,"",""
+ball,1,3.6,England,JJ Roy,DJ Malan,K Rabada,1,0,,,,,,"",""
+ball,1,4.1,England,JJ Roy,DJ Malan,L Ngidi,1,0,,,,,,"",""
+ball,1,4.2,England,DJ Malan,JJ Roy,L Ngidi,1,0,,,,,,"",""
+ball,1,4.3,England,JJ Roy,DJ Malan,L Ngidi,0,0,,,,,,caught,JJ Roy
+ball,1,4.4,England,JM Bairstow,DJ Malan,L Ngidi,0,0,,,,,,"",""
+ball,1,4.5,England,JM Bairstow,DJ Malan,L Ngidi,0,0,,,,,,"",""
+ball,1,4.6,England,JM Bairstow,DJ Malan,L Ngidi,2,0,,,,,,"",""
+ball,1,5.1,England,DJ Malan,JM Bairstow,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,5.2,England,JM Bairstow,DJ Malan,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,5.3,England,DJ Malan,JM Bairstow,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,5.4,England,JM Bairstow,DJ Malan,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,5.5,England,DJ Malan,JM Bairstow,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,5.6,England,JM Bairstow,DJ Malan,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,6.1,England,DJ Malan,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.2,England,JM Bairstow,DJ Malan,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.3,England,DJ Malan,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.4,England,JM Bairstow,DJ Malan,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.5,England,DJ Malan,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.6,England,JM Bairstow,DJ Malan,KA Maharaj,6,0,,,,,,"",""
+ball,1,7.1,England,DJ Malan,JM Bairstow,T Shamsi,6,0,,,,,,"",""
+ball,1,7.2,England,DJ Malan,JM Bairstow,T Shamsi,0,0,,,,,,"",""
+ball,1,7.3,England,DJ Malan,JM Bairstow,T Shamsi,1,0,,,,,,"",""
+ball,1,7.4,England,JM Bairstow,DJ Malan,T Shamsi,0,0,,,,,,"",""
+ball,1,7.5,England,JM Bairstow,DJ Malan,T Shamsi,6,0,,,,,,"",""
+ball,1,7.6,England,JM Bairstow,DJ Malan,T Shamsi,1,0,,,,,,"",""
+ball,1,8.1,England,JM Bairstow,DJ Malan,KA Maharaj,0,0,,,,,,"",""
+ball,1,8.2,England,JM Bairstow,DJ Malan,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.3,England,DJ Malan,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.4,England,JM Bairstow,DJ Malan,KA Maharaj,0,0,,,,,,"",""
+ball,1,8.5,England,JM Bairstow,DJ Malan,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.6,England,DJ Malan,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,9.1,England,DJ Malan,JM Bairstow,T Shamsi,6,0,,,,,,"",""
+ball,1,9.2,England,DJ Malan,JM Bairstow,T Shamsi,1,0,,,,,,"",""
+ball,1,9.3,England,JM Bairstow,DJ Malan,T Shamsi,4,0,,,,,,"",""
+ball,1,9.4,England,JM Bairstow,DJ Malan,T Shamsi,6,0,,,,,,"",""
+ball,1,9.5,England,JM Bairstow,DJ Malan,T Shamsi,1,0,,,,,,"",""
+ball,1,9.6,England,DJ Malan,JM Bairstow,T Shamsi,0,2,2,,,,,"",""
+ball,1,9.7,England,JM Bairstow,DJ Malan,T Shamsi,1,0,,,,,,"",""
+ball,1,10.1,England,JM Bairstow,DJ Malan,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.2,England,JM Bairstow,DJ Malan,KA Maharaj,1,0,,,,,,"",""
+ball,1,10.3,England,DJ Malan,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,10.4,England,JM Bairstow,DJ Malan,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.5,England,JM Bairstow,DJ Malan,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.6,England,JM Bairstow,DJ Malan,KA Maharaj,1,0,,,,,,"",""
+ball,1,11.1,England,JM Bairstow,DJ Malan,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,11.2,England,JM Bairstow,DJ Malan,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,11.3,England,DJ Malan,JM Bairstow,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,11.4,England,DJ Malan,JM Bairstow,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,11.5,England,DJ Malan,JM Bairstow,AL Phehlukwayo,4,0,,,,,,"",""
+ball,1,11.6,England,DJ Malan,JM Bairstow,AL Phehlukwayo,0,0,,,,,,caught,DJ Malan
+ball,1,12.1,England,JM Bairstow,MM Ali,K Rabada,1,0,,,,,,"",""
+ball,1,12.2,England,MM Ali,JM Bairstow,K Rabada,0,0,,,,,,"",""
+ball,1,12.3,England,MM Ali,JM Bairstow,K Rabada,1,0,,,,,,"",""
+ball,1,12.4,England,JM Bairstow,MM Ali,K Rabada,1,0,,,,,,"",""
+ball,1,12.5,England,MM Ali,JM Bairstow,K Rabada,4,0,,,,,,"",""
+ball,1,12.6,England,MM Ali,JM Bairstow,K Rabada,1,0,,,,,,"",""
+ball,1,13.1,England,MM Ali,JM Bairstow,T Shamsi,1,0,,,,,,"",""
+ball,1,13.2,England,JM Bairstow,MM Ali,T Shamsi,0,1,1,,,,,"",""
+ball,1,13.3,England,JM Bairstow,MM Ali,T Shamsi,2,0,,,,,,"",""
+ball,1,13.4,England,JM Bairstow,MM Ali,T Shamsi,1,0,,,,,,"",""
+ball,1,13.5,England,MM Ali,JM Bairstow,T Shamsi,0,1,1,,,,,"",""
+ball,1,13.6,England,MM Ali,JM Bairstow,T Shamsi,1,0,,,,,,"",""
+ball,1,13.7,England,JM Bairstow,MM Ali,T Shamsi,6,0,,,,,,"",""
+ball,1,13.8,England,JM Bairstow,MM Ali,T Shamsi,1,0,,,,,,"",""
+ball,1,14.1,England,JM Bairstow,MM Ali,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,14.2,England,JM Bairstow,MM Ali,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,14.3,England,JM Bairstow,MM Ali,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,14.4,England,MM Ali,JM Bairstow,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,14.5,England,MM Ali,JM Bairstow,AL Phehlukwayo,4,0,,,,,,"",""
+ball,1,14.6,England,MM Ali,JM Bairstow,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,14.7,England,JM Bairstow,MM Ali,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,15.1,England,JM Bairstow,MM Ali,T Stubbs,1,0,,,,,,"",""
+ball,1,15.2,England,MM Ali,JM Bairstow,T Stubbs,1,0,,,,,,"",""
+ball,1,15.3,England,JM Bairstow,MM Ali,T Stubbs,6,0,,,,,,"",""
+ball,1,15.4,England,JM Bairstow,MM Ali,T Stubbs,2,0,,,,,,"",""
+ball,1,15.5,England,JM Bairstow,MM Ali,T Stubbs,1,0,,,,,,"",""
+ball,1,15.6,England,MM Ali,JM Bairstow,T Stubbs,6,1,,1,,,,"",""
+ball,1,15.7,England,MM Ali,JM Bairstow,T Stubbs,2,0,,,,,,"",""
+ball,1,16.1,England,JM Bairstow,MM Ali,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,16.2,England,JM Bairstow,MM Ali,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,16.3,England,JM Bairstow,MM Ali,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,16.4,England,JM Bairstow,MM Ali,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,16.5,England,JM Bairstow,MM Ali,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,16.6,England,MM Ali,JM Bairstow,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,16.7,England,MM Ali,JM Bairstow,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,16.8,England,MM Ali,JM Bairstow,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,17.1,England,JM Bairstow,MM Ali,L Ngidi,4,0,,,,,,"",""
+ball,1,17.2,England,JM Bairstow,MM Ali,L Ngidi,4,0,,,,,,"",""
+ball,1,17.3,England,JM Bairstow,MM Ali,L Ngidi,1,1,,1,,,,"",""
+ball,1,17.4,England,MM Ali,JM Bairstow,L Ngidi,0,1,1,,,,,"",""
+ball,1,17.5,England,MM Ali,JM Bairstow,L Ngidi,6,0,,,,,,"",""
+ball,1,17.6,England,MM Ali,JM Bairstow,L Ngidi,0,0,,,,,,"",""
+ball,1,17.7,England,MM Ali,JM Bairstow,L Ngidi,0,0,,,,,,caught,MM Ali
+ball,1,17.8,England,LS Livingstone,JM Bairstow,L Ngidi,0,0,,,,,,"",""
+ball,1,18.1,England,JM Bairstow,LS Livingstone,K Rabada,1,0,,,,,,"",""
+ball,1,18.2,England,LS Livingstone,JM Bairstow,K Rabada,1,0,,,,,,"",""
+ball,1,18.3,England,JM Bairstow,LS Livingstone,K Rabada,6,0,,,,,,"",""
+ball,1,18.4,England,JM Bairstow,LS Livingstone,K Rabada,0,0,,,,,,"",""
+ball,1,18.5,England,JM Bairstow,LS Livingstone,K Rabada,0,0,,,,,,"",""
+ball,1,18.6,England,JM Bairstow,LS Livingstone,K Rabada,1,0,,,,,,"",""
+ball,1,19.1,England,JM Bairstow,LS Livingstone,L Ngidi,0,1,,,,1,,"",""
+ball,1,19.2,England,LS Livingstone,JM Bairstow,L Ngidi,4,0,,,,,,"",""
+ball,1,19.3,England,LS Livingstone,JM Bairstow,L Ngidi,0,0,,,,,,caught,LS Livingstone
+ball,1,19.4,England,SM Curran,JM Bairstow,L Ngidi,1,0,,,,,,"",""
+ball,1,19.5,England,JM Bairstow,SM Curran,L Ngidi,0,0,,,,,,caught,JM Bairstow
+ball,1,19.6,England,CJ Jordan,SM Curran,L Ngidi,0,1,,,,1,,"",""
+ball,2,0.1,South Africa,Q de Kock,RR Hendricks,SM Curran,1,0,,,,,,"",""
+ball,2,0.2,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,2,0.3,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,2,0.4,South Africa,RR Hendricks,Q de Kock,SM Curran,1,0,,,,,,"",""
+ball,2,0.5,South Africa,Q de Kock,RR Hendricks,SM Curran,1,0,,,,,,"",""
+ball,2,0.6,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,2,1.1,South Africa,Q de Kock,RR Hendricks,RJW Topley,0,0,,,,,,"",""
+ball,2,1.2,South Africa,Q de Kock,RR Hendricks,RJW Topley,0,0,,,,,,caught,Q de Kock
+ball,2,1.3,South Africa,RR Rossouw,RR Hendricks,RJW Topley,0,0,,,,,,"",""
+ball,2,1.4,South Africa,RR Rossouw,RR Hendricks,RJW Topley,4,0,,,,,,"",""
+ball,2,1.5,South Africa,RR Rossouw,RR Hendricks,RJW Topley,0,0,,,,,,"",""
+ball,2,1.6,South Africa,RR Rossouw,RR Hendricks,RJW Topley,0,0,,,,,,caught,RR Rossouw
+ball,2,2.1,South Africa,H Klaasen,RR Hendricks,SM Curran,0,0,,,,,,"",""
+ball,2,2.2,South Africa,H Klaasen,RR Hendricks,SM Curran,1,0,,,,,,"",""
+ball,2,2.3,South Africa,RR Hendricks,H Klaasen,SM Curran,4,0,,,,,,"",""
+ball,2,2.4,South Africa,RR Hendricks,H Klaasen,SM Curran,2,0,,,,,,"",""
+ball,2,2.5,South Africa,RR Hendricks,H Klaasen,SM Curran,4,0,,,,,,"",""
+ball,2,2.6,South Africa,RR Hendricks,H Klaasen,SM Curran,1,0,,,,,,"",""
+ball,2,3.1,South Africa,RR Hendricks,H Klaasen,RJW Topley,4,0,,,,,,"",""
+ball,2,3.2,South Africa,RR Hendricks,H Klaasen,RJW Topley,0,0,,,,,,"",""
+ball,2,3.3,South Africa,RR Hendricks,H Klaasen,RJW Topley,1,0,,,,,,"",""
+ball,2,3.4,South Africa,H Klaasen,RR Hendricks,RJW Topley,1,0,,,,,,"",""
+ball,2,3.5,South Africa,RR Hendricks,H Klaasen,RJW Topley,1,0,,,,,,"",""
+ball,2,3.6,South Africa,H Klaasen,RR Hendricks,RJW Topley,1,0,,,,,,"",""
+ball,2,4.1,South Africa,H Klaasen,RR Hendricks,RJ Gleeson,1,0,,,,,,"",""
+ball,2,4.2,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,0,0,,,,,,"",""
+ball,2,4.3,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,4,0,,,,,,"",""
+ball,2,4.4,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,0,0,,,,,,"",""
+ball,2,4.5,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,4,0,,,,,,"",""
+ball,2,4.6,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,0,0,,,,,,"",""
+ball,2,5.1,South Africa,H Klaasen,RR Hendricks,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.2,South Africa,RR Hendricks,H Klaasen,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.3,South Africa,RR Hendricks,H Klaasen,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.4,South Africa,RR Hendricks,H Klaasen,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.5,South Africa,H Klaasen,RR Hendricks,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.6,South Africa,H Klaasen,RR Hendricks,CJ Jordan,0,0,,,,,,"",""
+ball,2,6.1,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,6,0,,,,,,"",""
+ball,2,6.2,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,1,0,,,,,,"",""
+ball,2,6.3,South Africa,H Klaasen,RR Hendricks,RJ Gleeson,4,0,,,,,,"",""
+ball,2,6.4,South Africa,H Klaasen,RR Hendricks,RJ Gleeson,1,0,,,,,,"",""
+ball,2,6.5,South Africa,RR Hendricks,H Klaasen,RJ Gleeson,1,0,,,,,,"",""
+ball,2,6.6,South Africa,H Klaasen,RR Hendricks,RJ Gleeson,4,0,,,,,,"",""
+ball,2,7.1,South Africa,RR Hendricks,H Klaasen,AU Rashid,1,0,,,,,,"",""
+ball,2,7.2,South Africa,H Klaasen,RR Hendricks,AU Rashid,1,0,,,,,,"",""
+ball,2,7.3,South Africa,RR Hendricks,H Klaasen,AU Rashid,1,0,,,,,,"",""
+ball,2,7.4,South Africa,H Klaasen,RR Hendricks,AU Rashid,1,0,,,,,,"",""
+ball,2,7.5,South Africa,RR Hendricks,H Klaasen,AU Rashid,1,0,,,,,,"",""
+ball,2,7.6,South Africa,H Klaasen,RR Hendricks,AU Rashid,0,0,,,,,,caught,H Klaasen
+ball,2,8.1,South Africa,DA Miller,RR Hendricks,SM Curran,1,0,,,,,,"",""
+ball,2,8.2,South Africa,RR Hendricks,DA Miller,SM Curran,2,0,,,,,,"",""
+ball,2,8.3,South Africa,RR Hendricks,DA Miller,SM Curran,4,0,,,,,,"",""
+ball,2,8.4,South Africa,RR Hendricks,DA Miller,SM Curran,0,0,,,,,,"",""
+ball,2,8.5,South Africa,RR Hendricks,DA Miller,SM Curran,0,0,,,,,,"",""
+ball,2,8.6,South Africa,RR Hendricks,DA Miller,SM Curran,4,0,,,,,,"",""
+ball,2,9.1,South Africa,DA Miller,RR Hendricks,MM Ali,1,0,,,,,,"",""
+ball,2,9.2,South Africa,RR Hendricks,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,2,9.3,South Africa,DA Miller,RR Hendricks,MM Ali,1,0,,,,,,"",""
+ball,2,9.4,South Africa,RR Hendricks,DA Miller,MM Ali,0,0,,,,,,caught,RR Hendricks
+ball,2,9.5,South Africa,DA Miller,T Stubbs,MM Ali,1,0,,,,,,"",""
+ball,2,9.6,South Africa,T Stubbs,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,2,10.1,South Africa,T Stubbs,DA Miller,RJW Topley,1,0,,,,,,"",""
+ball,2,10.2,South Africa,DA Miller,T Stubbs,RJW Topley,2,0,,,,,,"",""
+ball,2,10.3,South Africa,DA Miller,T Stubbs,RJW Topley,0,0,,,,,,"",""
+ball,2,10.4,South Africa,DA Miller,T Stubbs,RJW Topley,0,1,,,,1,,"",""
+ball,2,10.5,South Africa,T Stubbs,DA Miller,RJW Topley,1,0,,,,,,"",""
+ball,2,10.6,South Africa,DA Miller,T Stubbs,RJW Topley,0,0,,,,,,"",""
+ball,2,11.1,South Africa,T Stubbs,DA Miller,MM Ali,2,0,,,,,,"",""
+ball,2,11.2,South Africa,T Stubbs,DA Miller,MM Ali,6,0,,,,,,"",""
+ball,2,11.3,South Africa,T Stubbs,DA Miller,MM Ali,6,0,,,,,,"",""
+ball,2,11.4,South Africa,T Stubbs,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,2,11.5,South Africa,DA Miller,T Stubbs,MM Ali,1,0,,,,,,"",""
+ball,2,11.6,South Africa,T Stubbs,DA Miller,MM Ali,6,0,,,,,,"",""
+ball,2,12.1,South Africa,DA Miller,T Stubbs,CJ Jordan,0,1,,,,1,,"",""
+ball,2,12.2,South Africa,T Stubbs,DA Miller,CJ Jordan,0,0,,,,,,"",""
+ball,2,12.3,South Africa,T Stubbs,DA Miller,CJ Jordan,1,0,,,,,,"",""
+ball,2,12.4,South Africa,DA Miller,T Stubbs,CJ Jordan,1,0,,,,,,"",""
+ball,2,12.5,South Africa,T Stubbs,DA Miller,CJ Jordan,6,0,,,,,,"",""
+ball,2,12.6,South Africa,T Stubbs,DA Miller,CJ Jordan,1,0,,,,,,"",""
+ball,2,13.1,South Africa,T Stubbs,DA Miller,AU Rashid,0,0,,,,,,"",""
+ball,2,13.2,South Africa,T Stubbs,DA Miller,AU Rashid,4,0,,,,,,"",""
+ball,2,13.3,South Africa,T Stubbs,DA Miller,AU Rashid,6,0,,,,,,"",""
+ball,2,13.4,South Africa,T Stubbs,DA Miller,AU Rashid,1,0,,,,,,"",""
+ball,2,13.5,South Africa,DA Miller,T Stubbs,AU Rashid,0,0,,,,,,caught,DA Miller
+ball,2,13.6,South Africa,AL Phehlukwayo,T Stubbs,AU Rashid,1,0,,,,,,"",""
+ball,2,14.1,South Africa,AL Phehlukwayo,T Stubbs,RJW Topley,4,0,,,,,,"",""
+ball,2,14.2,South Africa,AL Phehlukwayo,T Stubbs,RJW Topley,1,0,,,,,,"",""
+ball,2,14.3,South Africa,T Stubbs,AL Phehlukwayo,RJW Topley,6,0,,,,,,"",""
+ball,2,14.4,South Africa,T Stubbs,AL Phehlukwayo,RJW Topley,0,0,,,,,,"",""
+ball,2,14.5,South Africa,T Stubbs,AL Phehlukwayo,RJW Topley,1,0,,,,,,"",""
+ball,2,14.6,South Africa,AL Phehlukwayo,T Stubbs,RJW Topley,1,0,,,,,,"",""
+ball,2,15.1,South Africa,AL Phehlukwayo,T Stubbs,RJ Gleeson,4,0,,,,,,"",""
+ball,2,15.2,South Africa,AL Phehlukwayo,T Stubbs,RJ Gleeson,4,0,,,,,,"",""
+ball,2,15.3,South Africa,AL Phehlukwayo,T Stubbs,RJ Gleeson,1,0,,,,,,"",""
+ball,2,15.4,South Africa,T Stubbs,AL Phehlukwayo,RJ Gleeson,4,0,,,,,,"",""
+ball,2,15.5,South Africa,T Stubbs,AL Phehlukwayo,RJ Gleeson,2,0,,,,,,"",""
+ball,2,15.6,South Africa,T Stubbs,AL Phehlukwayo,RJ Gleeson,6,0,,,,,,"",""
+ball,2,16.1,South Africa,AL Phehlukwayo,T Stubbs,SM Curran,0,0,,,,,,"",""
+ball,2,16.2,South Africa,AL Phehlukwayo,T Stubbs,SM Curran,1,0,,,,,,"",""
+ball,2,16.3,South Africa,T Stubbs,AL Phehlukwayo,SM Curran,6,0,,,,,,"",""
+ball,2,16.4,South Africa,T Stubbs,AL Phehlukwayo,SM Curran,1,0,,,,,,"",""
+ball,2,16.5,South Africa,AL Phehlukwayo,T Stubbs,SM Curran,1,0,,,,,,"",""
+ball,2,16.6,South Africa,T Stubbs,AL Phehlukwayo,SM Curran,1,0,,,,,,"",""
+ball,2,17.1,South Africa,T Stubbs,AL Phehlukwayo,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.2,South Africa,AL Phehlukwayo,T Stubbs,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.3,South Africa,T Stubbs,AL Phehlukwayo,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.4,South Africa,AL Phehlukwayo,T Stubbs,CJ Jordan,0,0,,,,,,"",""
+ball,2,17.5,South Africa,AL Phehlukwayo,T Stubbs,CJ Jordan,0,0,,,,,,"",""
+ball,2,17.6,South Africa,AL Phehlukwayo,T Stubbs,CJ Jordan,0,0,,,,,,"",""
+ball,2,18.1,South Africa,T Stubbs,AL Phehlukwayo,RJ Gleeson,0,0,,,,,,caught,T Stubbs
+ball,2,18.2,South Africa,AL Phehlukwayo,K Rabada,RJ Gleeson,2,0,,,,,,"",""
+ball,2,18.3,South Africa,AL Phehlukwayo,K Rabada,RJ Gleeson,1,0,,,,,,"",""
+ball,2,18.4,South Africa,K Rabada,AL Phehlukwayo,RJ Gleeson,0,0,,,,,,bowled,K Rabada
+ball,2,18.5,South Africa,KA Maharaj,AL Phehlukwayo,RJ Gleeson,1,0,,,,,,"",""
+ball,2,18.6,South Africa,AL Phehlukwayo,KA Maharaj,RJ Gleeson,0,0,,,,,,caught,AL Phehlukwayo
+ball,2,19.1,South Africa,KA Maharaj,L Ngidi,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.2,South Africa,L Ngidi,KA Maharaj,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.3,South Africa,KA Maharaj,L Ngidi,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.4,South Africa,L Ngidi,KA Maharaj,CJ Jordan,0,1,,,,1,,"",""
+ball,2,19.5,South Africa,KA Maharaj,L Ngidi,CJ Jordan,0,0,,,,,,"",""
+ball,2,19.6,South Africa,KA Maharaj,L Ngidi,CJ Jordan,1,0,,,,,,"",""

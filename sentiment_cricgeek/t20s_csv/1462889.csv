@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Belize
+info,gender,male
+info,season,2024/25
+info,date,2024/12/10
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,14
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Belize
+info,toss_decision,field
+info,player_of_match,K Hinds
+info,umpire,C La Borde
+info,umpire,Jermaine Lindo
+info,reserve_umpire,AR Maddela
+info,match_referee,Phil Whitticase
+info,winner,Bahamas
+info,winner_runs,3
+info,player,Bahamas,M Taylor
+info,player,Bahamas,K Hinds
+info,player,Bahamas,R Davson
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,Rudolph Fox
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,A Harris
+info,player,Bahamas,R Smith
+info,player,Bahamas,Sandeep Goud
+info,player,Belize,A Oxley
+info,player,Belize,O Casasola
+info,player,Belize,Garret Banner
+info,player,Belize,BS Stephenson
+info,player,Belize,ML Castillo
+info,player,Belize,GG Banner
+info,player,Belize,L Bonner
+info,player,Belize,NN Banner
+info,player,Belize,C Stephenson
+info,player,Belize,Kristan Tillett
+info,player,Belize,R Jones
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,A Oxley,d1317833
+info,registry,people,AR Maddela,5c861579
+info,registry,people,BS Stephenson,db571b24
+info,registry,people,C La Borde,32157f67
+info,registry,people,C Stephenson,c2123fd0
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GG Banner,aeb893b4
+info,registry,people,Garret Banner,ac1ddea1
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hinds,a268c07b
+info,registry,people,Kristan Tillett,4e31ea36
+info,registry,people,L Bonner,fd94c29f
+info,registry,people,M Taylor,92075cdc
+info,registry,people,ML Castillo,9853b404
+info,registry,people,NN Banner,0697b5a1
+info,registry,people,O Casasola,15fe1668
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Davson,7804d401
+info,registry,people,R Jones,835aa08f
+info,registry,people,R Smith,0b91b5d5
+info,registry,people,Rudolph Fox,fd1041d2
+info,registry,people,Sandeep Goud,c83ef4d6
+ball,1,0.1,Bahamas,M Taylor,K Hinds,L Bonner,0,0,,,,,,"",""
+ball,1,0.2,Bahamas,M Taylor,K Hinds,L Bonner,0,0,,,,,,"",""
+ball,1,0.3,Bahamas,M Taylor,K Hinds,L Bonner,0,0,,,,,,"",""
+ball,1,0.4,Bahamas,M Taylor,K Hinds,L Bonner,0,0,,,,,,"",""
+ball,1,0.5,Bahamas,M Taylor,K Hinds,L Bonner,0,0,,,,,,caught and bowled,M Taylor
+ball,1,0.6,Bahamas,R Davson,K Hinds,L Bonner,0,0,,,,,,"",""
+ball,1,1.1,Bahamas,K Hinds,R Davson,R Jones,0,0,,,,,,"",""
+ball,1,1.2,Bahamas,K Hinds,R Davson,R Jones,0,0,,,,,,"",""
+ball,1,1.3,Bahamas,K Hinds,R Davson,R Jones,1,0,,,,,,"",""
+ball,1,1.4,Bahamas,R Davson,K Hinds,R Jones,1,0,,,,,,"",""
+ball,1,1.5,Bahamas,K Hinds,R Davson,R Jones,6,0,,,,,,"",""
+ball,1,1.6,Bahamas,K Hinds,R Davson,R Jones,0,0,,,,,,"",""
+ball,1,2.1,Bahamas,R Davson,K Hinds,L Bonner,0,0,,,,,,"",""
+ball,1,2.2,Bahamas,R Davson,K Hinds,L Bonner,1,0,,,,,,"",""
+ball,1,2.3,Bahamas,K Hinds,R Davson,L Bonner,0,0,,,,,,"",""
+ball,1,2.4,Bahamas,K Hinds,R Davson,L Bonner,0,0,,,,,,"",""
+ball,1,2.5,Bahamas,K Hinds,R Davson,L Bonner,4,0,,,,,,"",""
+ball,1,2.6,Bahamas,K Hinds,R Davson,L Bonner,0,0,,,,,,"",""
+ball,1,3.1,Bahamas,R Davson,K Hinds,R Jones,1,0,,,,,,"",""
+ball,1,3.2,Bahamas,K Hinds,R Davson,R Jones,4,0,,,,,,"",""
+ball,1,3.3,Bahamas,K Hinds,R Davson,R Jones,0,0,,,,,,"",""
+ball,1,3.4,Bahamas,K Hinds,R Davson,R Jones,0,0,,,,,,"",""
+ball,1,3.5,Bahamas,K Hinds,R Davson,R Jones,0,0,,,,,,"",""
+ball,1,3.6,Bahamas,K Hinds,R Davson,R Jones,6,0,,,,,,"",""
+ball,1,4.1,Bahamas,R Davson,K Hinds,ML Castillo,0,0,,,,,,"",""
+ball,1,4.2,Bahamas,R Davson,K Hinds,ML Castillo,0,0,,,,,,"",""
+ball,1,4.3,Bahamas,R Davson,K Hinds,ML Castillo,2,0,,,,,,"",""
+ball,1,4.4,Bahamas,R Davson,K Hinds,ML Castillo,0,0,,,,,,"",""
+ball,1,4.5,Bahamas,R Davson,K Hinds,ML Castillo,0,0,,,,,,"",""
+ball,1,4.6,Bahamas,R Davson,K Hinds,ML Castillo,0,0,,,,,,"",""
+ball,1,5.1,Bahamas,K Hinds,R Davson,Garret Banner,0,0,,,,,,"",""
+ball,1,5.2,Bahamas,K Hinds,R Davson,Garret Banner,0,0,,,,,,"",""
+ball,1,5.3,Bahamas,K Hinds,R Davson,Garret Banner,6,0,,,,,,"",""
+ball,1,5.4,Bahamas,K Hinds,R Davson,Garret Banner,6,0,,,,,,"",""
+ball,1,5.5,Bahamas,K Hinds,R Davson,Garret Banner,0,0,,,,,,"",""
+ball,1,5.6,Bahamas,K Hinds,R Davson,Garret Banner,4,0,,,,,,"",""
+ball,1,6.1,Bahamas,R Davson,K Hinds,ML Castillo,0,1,,,,1,,"",""
+ball,1,6.2,Bahamas,K Hinds,R Davson,ML Castillo,1,0,,,,,,"",""
+ball,1,6.3,Bahamas,R Davson,K Hinds,ML Castillo,0,0,,,,,,lbw,R Davson
+ball,1,6.4,Bahamas,J Jemison,K Hinds,ML Castillo,0,1,,,,1,,"",""
+ball,1,6.5,Bahamas,K Hinds,J Jemison,ML Castillo,0,0,,,,,,"",""
+ball,1,6.6,Bahamas,K Hinds,J Jemison,ML Castillo,1,0,,,,,,"",""
+ball,1,7.1,Bahamas,K Hinds,J Jemison,Garret Banner,0,0,,,,,,"",""
+ball,1,7.2,Bahamas,K Hinds,J Jemison,Garret Banner,1,0,,,,,,"",""
+ball,1,7.3,Bahamas,J Jemison,K Hinds,Garret Banner,0,0,,,,,,"",""
+ball,1,7.4,Bahamas,J Jemison,K Hinds,Garret Banner,1,0,,,,,,"",""
+ball,1,7.5,Bahamas,K Hinds,J Jemison,Garret Banner,1,0,,,,,,"",""
+ball,1,7.6,Bahamas,J Jemison,K Hinds,Garret Banner,0,0,,,,,,"",""
+ball,1,8.1,Bahamas,K Hinds,J Jemison,ML Castillo,0,0,,,,,,"",""
+ball,1,8.2,Bahamas,K Hinds,J Jemison,ML Castillo,1,0,,,,,,"",""
+ball,1,8.3,Bahamas,J Jemison,K Hinds,ML Castillo,0,0,,,,,,"",""
+ball,1,8.4,Bahamas,J Jemison,K Hinds,ML Castillo,1,0,,,,,,"",""
+ball,1,8.5,Bahamas,K Hinds,J Jemison,ML Castillo,0,0,,,,,,"",""
+ball,1,8.6,Bahamas,K Hinds,J Jemison,ML Castillo,2,0,,,,,,"",""
+ball,1,9.1,Bahamas,J Jemison,K Hinds,NN Banner,1,0,,,,,,"",""
+ball,1,9.2,Bahamas,K Hinds,J Jemison,NN Banner,0,0,,,,,,"",""
+ball,1,9.3,Bahamas,K Hinds,J Jemison,NN Banner,2,0,,,,,,"",""
+ball,1,9.4,Bahamas,K Hinds,J Jemison,NN Banner,2,0,,,,,,"",""
+ball,1,9.5,Bahamas,K Hinds,J Jemison,NN Banner,1,0,,,,,,"",""
+ball,1,9.6,Bahamas,J Jemison,K Hinds,NN Banner,1,0,,,,,,"",""
+ball,1,10.1,Bahamas,J Jemison,K Hinds,ML Castillo,2,0,,,,,,"",""
+ball,1,10.2,Bahamas,J Jemison,K Hinds,ML Castillo,1,0,,,,,,"",""
+ball,1,10.3,Bahamas,K Hinds,J Jemison,ML Castillo,0,0,,,,,,"",""
+ball,1,10.4,Bahamas,K Hinds,J Jemison,ML Castillo,0,0,,,,,,"",""
+ball,1,10.5,Bahamas,K Hinds,J Jemison,ML Castillo,1,0,,,,,,"",""
+ball,1,10.6,Bahamas,J Jemison,K Hinds,ML Castillo,1,0,,,,,,"",""
+ball,1,11.1,Bahamas,J Jemison,K Hinds,NN Banner,0,0,,,,,,"",""
+ball,1,11.2,Bahamas,J Jemison,K Hinds,NN Banner,0,1,1,,,,,"",""
+ball,1,11.3,Bahamas,J Jemison,K Hinds,NN Banner,0,0,,,,,,"",""
+ball,1,11.4,Bahamas,J Jemison,K Hinds,NN Banner,0,0,,,,,,"",""
+ball,1,11.5,Bahamas,J Jemison,K Hinds,NN Banner,1,0,,,,,,"",""
+ball,1,11.6,Bahamas,K Hinds,J Jemison,NN Banner,0,2,,,2,,,"",""
+ball,1,11.7,Bahamas,K Hinds,J Jemison,NN Banner,0,0,,,,,,"",""
+ball,1,12.1,Bahamas,J Jemison,K Hinds,BS Stephenson,2,0,,,,,,"",""
+ball,1,12.2,Bahamas,J Jemison,K Hinds,BS Stephenson,2,0,,,,,,"",""
+ball,1,12.3,Bahamas,J Jemison,K Hinds,BS Stephenson,0,0,,,,,,"",""
+ball,1,12.4,Bahamas,J Jemison,K Hinds,BS Stephenson,1,0,,,,,,"",""
+ball,1,12.5,Bahamas,K Hinds,J Jemison,BS Stephenson,0,1,1,,,,,"",""
+ball,1,12.6,Bahamas,K Hinds,J Jemison,BS Stephenson,2,0,,,,,,"",""
+ball,1,12.7,Bahamas,K Hinds,J Jemison,BS Stephenson,1,0,,,,,,"",""
+ball,1,13.1,Bahamas,K Hinds,J Jemison,NN Banner,0,0,,,,,,caught,K Hinds
+ball,1,13.2,Bahamas,Festus Benn,J Jemison,NN Banner,0,0,,,,,,"",""
+ball,1,13.3,Bahamas,Festus Benn,J Jemison,NN Banner,2,0,,,,,,"",""
+ball,1,13.4,Bahamas,Festus Benn,J Jemison,NN Banner,0,0,,,,,,"",""
+ball,1,13.5,Bahamas,Festus Benn,J Jemison,NN Banner,0,0,,,,,,caught,Festus Benn
+ball,1,13.6,Bahamas,D Wheatley,J Jemison,NN Banner,0,1,,,,1,,"",""
+ball,1,14.1,Bahamas,D Wheatley,J Jemison,BS Stephenson,0,0,,,,,,"",""
+ball,1,14.2,Bahamas,D Wheatley,J Jemison,BS Stephenson,1,0,,,,,,"",""
+ball,1,14.3,Bahamas,J Jemison,D Wheatley,BS Stephenson,1,0,,,,,,"",""
+ball,1,14.4,Bahamas,D Wheatley,J Jemison,BS Stephenson,0,0,,,,,,"",""
+ball,1,14.5,Bahamas,D Wheatley,J Jemison,BS Stephenson,1,0,,,,,,"",""
+ball,1,14.6,Bahamas,J Jemison,D Wheatley,BS Stephenson,1,0,,,,,,"",""
+ball,1,15.1,Bahamas,J Jemison,D Wheatley,NN Banner,0,0,,,,,,"",""
+ball,1,15.2,Bahamas,J Jemison,D Wheatley,NN Banner,0,0,,,,,,"",""
+ball,1,15.3,Bahamas,J Jemison,D Wheatley,NN Banner,0,0,,,,,,caught,J Jemison
+ball,1,15.4,Bahamas,Rudolph Fox,D Wheatley,NN Banner,1,0,,,,,,"",""
+ball,1,15.5,Bahamas,D Wheatley,Rudolph Fox,NN Banner,0,0,,,,,,"",""
+ball,1,15.6,Bahamas,D Wheatley,Rudolph Fox,NN Banner,2,0,,,,,,"",""
+ball,1,16.1,Bahamas,Rudolph Fox,D Wheatley,BS Stephenson,0,0,,,,,,"",""
+ball,1,16.2,Bahamas,Rudolph Fox,D Wheatley,BS Stephenson,0,0,,,,,,"",""
+ball,1,16.3,Bahamas,Rudolph Fox,D Wheatley,BS Stephenson,1,0,,,,,,"",""
+ball,1,16.4,Bahamas,D Wheatley,Rudolph Fox,BS Stephenson,4,1,,1,,,,"",""
+ball,1,16.5,Bahamas,D Wheatley,Rudolph Fox,BS Stephenson,1,0,,,,,,"",""
+ball,1,16.6,Bahamas,Rudolph Fox,D Wheatley,BS Stephenson,0,0,,,,,,"",""
+ball,1,16.7,Bahamas,Rudolph Fox,D Wheatley,BS Stephenson,0,0,,,,,,"",""
+ball,1,17.1,Bahamas,D Wheatley,Rudolph Fox,L Bonner,1,0,,,,,,"",""
+ball,1,17.2,Bahamas,Rudolph Fox,D Wheatley,L Bonner,0,0,,,,,,"",""
+ball,1,17.3,Bahamas,Rudolph Fox,D Wheatley,L Bonner,0,0,,,,,,"",""
+ball,1,17.4,Bahamas,Rudolph Fox,D Wheatley,L Bonner,1,0,,,,,,"",""
+ball,1,17.5,Bahamas,D Wheatley,Rudolph Fox,L Bonner,1,0,,,,,,"",""
+ball,1,17.6,Bahamas,Rudolph Fox,D Wheatley,L Bonner,1,0,,,,,,"",""
+ball,1,18.1,Bahamas,Rudolph Fox,D Wheatley,Garret Banner,0,0,,,,,,"",""
+ball,1,18.2,Bahamas,Rudolph Fox,D Wheatley,Garret Banner,1,0,,,,,,"",""
+ball,1,18.3,Bahamas,D Wheatley,Rudolph Fox,Garret Banner,2,0,,,,,,"",""
+ball,1,18.4,Bahamas,D Wheatley,Rudolph Fox,Garret Banner,1,0,,,,,,"",""
+ball,1,18.5,Bahamas,Rudolph Fox,D Wheatley,Garret Banner,4,0,,,,,,"",""
+ball,1,18.6,Bahamas,Rudolph Fox,D Wheatley,Garret Banner,4,0,,,,,,"",""
+ball,1,19.1,Bahamas,D Wheatley,Rudolph Fox,L Bonner,0,0,,,,,,"",""
+ball,1,19.2,Bahamas,D Wheatley,Rudolph Fox,L Bonner,1,0,,,,,,"",""
+ball,1,19.3,Bahamas,Rudolph Fox,D Wheatley,L Bonner,2,0,,,,,,"",""
+ball,1,19.4,Bahamas,Rudolph Fox,D Wheatley,L Bonner,0,0,,,,,,"",""
+ball,1,19.5,Bahamas,Rudolph Fox,D Wheatley,L Bonner,2,0,,,,,,"",""
+ball,1,19.6,Bahamas,Rudolph Fox,D Wheatley,L Bonner,1,0,,,,,,"",""
+ball,2,0.1,Belize,A Oxley,O Casasola,DG Weakley,0,0,,,,,,"",""
+ball,2,0.2,Belize,A Oxley,O Casasola,DG Weakley,1,0,,,,,,"",""
+ball,2,0.3,Belize,O Casasola,A Oxley,DG Weakley,2,0,,,,,,"",""
+ball,2,0.4,Belize,O Casasola,A Oxley,DG Weakley,0,0,,,,,,"",""
+ball,2,0.5,Belize,O Casasola,A Oxley,DG Weakley,0,0,,,,,,"",""
+ball,2,0.6,Belize,O Casasola,A Oxley,DG Weakley,3,0,,,,,,"",""
+ball,2,1.1,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,1.2,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,1.3,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,1.4,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,1.5,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,1.6,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,2.1,Belize,A Oxley,O Casasola,DG Weakley,1,0,,,,,,"",""
+ball,2,2.2,Belize,O Casasola,A Oxley,DG Weakley,0,0,,,,,,"",""
+ball,2,2.3,Belize,O Casasola,A Oxley,DG Weakley,1,0,,,,,,"",""
+ball,2,2.4,Belize,A Oxley,O Casasola,DG Weakley,1,0,,,,,,"",""
+ball,2,2.5,Belize,O Casasola,A Oxley,DG Weakley,1,0,,,,,,"",""
+ball,2,2.6,Belize,A Oxley,O Casasola,DG Weakley,1,0,,,,,,"",""
+ball,2,3.1,Belize,A Oxley,O Casasola,M Taylor,0,0,,,,,,"",""
+ball,2,3.2,Belize,A Oxley,O Casasola,M Taylor,0,0,,,,,,"",""
+ball,2,3.3,Belize,A Oxley,O Casasola,M Taylor,4,0,,,,,,"",""
+ball,2,3.4,Belize,A Oxley,O Casasola,M Taylor,1,0,,,,,,"",""
+ball,2,3.5,Belize,O Casasola,A Oxley,M Taylor,4,0,,,,,,"",""
+ball,2,3.6,Belize,O Casasola,A Oxley,M Taylor,1,0,,,,,,"",""
+ball,2,4.1,Belize,O Casasola,A Oxley,DG Weakley,0,2,,,2,,,"",""
+ball,2,4.2,Belize,O Casasola,A Oxley,DG Weakley,0,0,,,,,,"",""
+ball,2,4.3,Belize,O Casasola,A Oxley,DG Weakley,0,0,,,,,,"",""
+ball,2,4.4,Belize,O Casasola,A Oxley,DG Weakley,2,0,,,,,,"",""
+ball,2,4.5,Belize,O Casasola,A Oxley,DG Weakley,0,0,,,,,,"",""
+ball,2,4.6,Belize,O Casasola,A Oxley,DG Weakley,1,0,,,,,,"",""
+ball,2,5.1,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,5.2,Belize,O Casasola,A Oxley,M Taylor,0,0,,,,,,"",""
+ball,2,5.3,Belize,O Casasola,A Oxley,M Taylor,2,0,,,,,,"",""
+ball,2,5.4,Belize,O Casasola,A Oxley,M Taylor,1,0,,,,,,"",""
+ball,2,5.5,Belize,A Oxley,O Casasola,M Taylor,0,0,,,,,,"",""
+ball,2,5.6,Belize,A Oxley,O Casasola,M Taylor,1,0,,,,,,"",""
+ball,2,6.1,Belize,A Oxley,O Casasola,K Hinds,0,0,,,,,,"",""
+ball,2,6.2,Belize,A Oxley,O Casasola,K Hinds,0,0,,,,,,"",""
+ball,2,6.3,Belize,A Oxley,O Casasola,K Hinds,0,0,,,,,,"",""
+ball,2,6.4,Belize,A Oxley,O Casasola,K Hinds,0,0,,,,,,"",""
+ball,2,6.5,Belize,A Oxley,O Casasola,K Hinds,0,0,,,,,,"",""
+ball,2,6.6,Belize,A Oxley,O Casasola,K Hinds,0,0,,,,,,"",""
+ball,2,7.1,Belize,O Casasola,A Oxley,Festus Benn,0,0,,,,,,"",""
+ball,2,7.2,Belize,O Casasola,A Oxley,Festus Benn,1,0,,,,,,"",""
+ball,2,7.3,Belize,A Oxley,O Casasola,Festus Benn,0,0,,,,,,"",""
+ball,2,7.4,Belize,A Oxley,O Casasola,Festus Benn,2,0,,,,,,"",""
+ball,2,7.5,Belize,A Oxley,O Casasola,Festus Benn,1,0,,,,,,"",""
+ball,2,7.6,Belize,O Casasola,A Oxley,Festus Benn,0,0,,,,,,"",""
+ball,2,8.1,Belize,A Oxley,O Casasola,K Hinds,0,0,,,,,,"",""
+ball,2,8.2,Belize,A Oxley,O Casasola,K Hinds,1,0,,,,,,"",""
+ball,2,8.3,Belize,O Casasola,A Oxley,K Hinds,0,0,,,,,,"",""
+ball,2,8.4,Belize,O Casasola,A Oxley,K Hinds,0,0,,,,,,"",""
+ball,2,8.5,Belize,O Casasola,A Oxley,K Hinds,0,0,,,,,,"",""
+ball,2,8.6,Belize,O Casasola,A Oxley,K Hinds,0,0,,,,,,"",""
+ball,2,9.1,Belize,A Oxley,O Casasola,Festus Benn,0,0,,,,,,"",""
+ball,2,9.2,Belize,A Oxley,O Casasola,Festus Benn,1,0,,,,,,"",""
+ball,2,9.3,Belize,O Casasola,A Oxley,Festus Benn,0,0,,,,,,caught,O Casasola
+ball,2,9.4,Belize,Garret Banner,A Oxley,Festus Benn,0,0,,,,,,bowled,Garret Banner
+ball,2,9.5,Belize,BS Stephenson,A Oxley,Festus Benn,1,0,,,,,,"",""
+ball,2,9.6,Belize,A Oxley,BS Stephenson,Festus Benn,1,0,,,,,,"",""
+ball,2,10.1,Belize,A Oxley,BS Stephenson,K Hinds,2,0,,,,,,"",""
+ball,2,10.2,Belize,A Oxley,BS Stephenson,K Hinds,4,0,,,,,,"",""
+ball,2,10.3,Belize,A Oxley,BS Stephenson,K Hinds,0,0,,,,,,"",""
+ball,2,10.4,Belize,A Oxley,BS Stephenson,K Hinds,0,0,,,,,,"",""
+ball,2,10.5,Belize,A Oxley,BS Stephenson,K Hinds,0,0,,,,,,"",""
+ball,2,10.6,Belize,A Oxley,BS Stephenson,K Hinds,1,0,,,,,,"",""
+ball,2,11.1,Belize,A Oxley,BS Stephenson,Festus Benn,1,0,,,,,,"",""
+ball,2,11.2,Belize,BS Stephenson,A Oxley,Festus Benn,0,0,,,,,,"",""
+ball,2,11.3,Belize,BS Stephenson,A Oxley,Festus Benn,1,0,,,,,,"",""
+ball,2,11.4,Belize,A Oxley,BS Stephenson,Festus Benn,0,0,,,,,,"",""
+ball,2,11.5,Belize,A Oxley,BS Stephenson,Festus Benn,1,0,,,,,,"",""
+ball,2,11.6,Belize,BS Stephenson,A Oxley,Festus Benn,0,0,,,,,,"",""
+ball,2,12.1,Belize,A Oxley,BS Stephenson,Rudolph Fox,1,0,,,,,,"",""
+ball,2,12.2,Belize,BS Stephenson,A Oxley,Rudolph Fox,0,0,,,,,,"",""
+ball,2,12.3,Belize,BS Stephenson,A Oxley,Rudolph Fox,6,0,,,,,,"",""
+ball,2,12.4,Belize,BS Stephenson,A Oxley,Rudolph Fox,1,0,,,,,,"",""
+ball,2,12.5,Belize,A Oxley,BS Stephenson,Rudolph Fox,0,0,,,,,,"",""
+ball,2,12.6,Belize,A Oxley,BS Stephenson,Rudolph Fox,0,1,1,,,,,"",""
+ball,2,12.7,Belize,A Oxley,BS Stephenson,Rudolph Fox,0,0,,,,,,"",""
+ball,2,13.1,Belize,BS Stephenson,A Oxley,Festus Benn,0,0,,,,,,"",""
+ball,2,13.2,Belize,BS Stephenson,A Oxley,Festus Benn,1,0,,,,,,"",""
+ball,2,13.3,Belize,A Oxley,BS Stephenson,Festus Benn,0,0,,,,,,"",""
+ball,2,13.4,Belize,A Oxley,BS Stephenson,Festus Benn,1,0,,,,,,"",""
+ball,2,13.5,Belize,BS Stephenson,A Oxley,Festus Benn,1,0,,,,,,"",""
+ball,2,13.6,Belize,A Oxley,BS Stephenson,Festus Benn,0,0,,,,,,"",""
+ball,2,14.1,Belize,BS Stephenson,A Oxley,Sandeep Goud,1,0,,,,,,"",""
+ball,2,14.2,Belize,A Oxley,BS Stephenson,Sandeep Goud,2,0,,,,,,"",""
+ball,2,14.3,Belize,A Oxley,BS Stephenson,Sandeep Goud,1,0,,,,,,"",""
+ball,2,14.4,Belize,BS Stephenson,A Oxley,Sandeep Goud,6,0,,,,,,"",""
+ball,2,14.5,Belize,BS Stephenson,A Oxley,Sandeep Goud,1,0,,,,,,"",""
+ball,2,14.6,Belize,A Oxley,BS Stephenson,Sandeep Goud,1,0,,,,,,"",""
+ball,2,15.1,Belize,A Oxley,BS Stephenson,DG Weakley,0,0,,,,,,caught,A Oxley
+ball,2,15.2,Belize,ML Castillo,BS Stephenson,DG Weakley,0,0,,,,,,"",""
+ball,2,15.3,Belize,ML Castillo,BS Stephenson,DG Weakley,2,0,,,,,,"",""
+ball,2,15.4,Belize,ML Castillo,BS Stephenson,DG Weakley,0,0,,,,,,"",""
+ball,2,15.5,Belize,ML Castillo,BS Stephenson,DG Weakley,1,0,,,,,,"",""
+ball,2,15.6,Belize,BS Stephenson,ML Castillo,DG Weakley,0,0,,,,,,"",""
+ball,2,16.1,Belize,ML Castillo,BS Stephenson,Sandeep Goud,0,1,,,,1,,"",""
+ball,2,16.2,Belize,BS Stephenson,ML Castillo,Sandeep Goud,1,0,,,,,,"",""
+ball,2,16.3,Belize,ML Castillo,BS Stephenson,Sandeep Goud,0,0,,,,,,"",""
+ball,2,16.4,Belize,ML Castillo,BS Stephenson,Sandeep Goud,0,1,1,,,,,"",""
+ball,2,16.5,Belize,ML Castillo,BS Stephenson,Sandeep Goud,2,0,,,,,,"",""
+ball,2,16.6,Belize,ML Castillo,BS Stephenson,Sandeep Goud,0,0,,,,,,"",""
+ball,2,16.7,Belize,ML Castillo,BS Stephenson,Sandeep Goud,4,0,,,,,,"",""
+ball,2,17.1,Belize,BS Stephenson,ML Castillo,M Taylor,0,1,1,,,,,"",""
+ball,2,17.2,Belize,BS Stephenson,ML Castillo,M Taylor,0,1,1,,,,,"",""
+ball,2,17.3,Belize,BS Stephenson,ML Castillo,M Taylor,2,0,,,,,,"",""
+ball,2,17.4,Belize,BS Stephenson,ML Castillo,M Taylor,1,0,,,,,,"",""
+ball,2,17.5,Belize,ML Castillo,BS Stephenson,M Taylor,1,0,,,,,,"",""
+ball,2,17.6,Belize,BS Stephenson,ML Castillo,M Taylor,2,0,,,,,,"",""
+ball,2,17.7,Belize,BS Stephenson,ML Castillo,M Taylor,1,0,,,,,,"",""
+ball,2,17.8,Belize,ML Castillo,BS Stephenson,M Taylor,0,0,,,,,,"",""
+ball,2,18.1,Belize,BS Stephenson,ML Castillo,K Hinds,3,0,,,,,,"",""
+ball,2,18.2,Belize,ML Castillo,BS Stephenson,K Hinds,0,0,,,,,,bowled,ML Castillo
+ball,2,18.3,Belize,GG Banner,BS Stephenson,K Hinds,1,0,,,,,,"",""
+ball,2,18.4,Belize,BS Stephenson,GG Banner,K Hinds,1,0,,,,,,"",""
+ball,2,18.5,Belize,GG Banner,BS Stephenson,K Hinds,2,0,,,,,,"",""
+ball,2,18.6,Belize,GG Banner,BS Stephenson,K Hinds,2,0,,,,,,"",""
+ball,2,19.1,Belize,BS Stephenson,GG Banner,Sandeep Goud,2,0,,,,,,"",""
+ball,2,19.2,Belize,BS Stephenson,GG Banner,Sandeep Goud,2,0,,,,,,"",""
+ball,2,19.3,Belize,BS Stephenson,GG Banner,Sandeep Goud,1,0,,,,,,run out,GG Banner
+ball,2,19.4,Belize,BS Stephenson,L Bonner,Sandeep Goud,1,0,,,,,,"",""
+ball,2,19.5,Belize,L Bonner,BS Stephenson,Sandeep Goud,0,0,,,,,,bowled,L Bonner
+ball,2,19.6,Belize,NN Banner,BS Stephenson,Sandeep Goud,6,0,,,,,,"",""

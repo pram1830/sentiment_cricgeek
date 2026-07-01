@@ -1,0 +1,366 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Estonia
+info,gender,female
+info,season,2024
+info,date,2024/08/10
+info,event,Nordic Women T20 Cup
+info,match_number,3
+info,venue,"Ekeberg Cricket Ground 1, Oslo"
+info,city,Oslo
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,P Agrawal
+info,winner,Norway
+info,winner_runs,35
+info,player,Norway,Ayesha Hasan
+info,player,Norway,Nayab Razwan
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,R Immadi
+info,player,Norway,Alina Aslam
+info,player,Norway,Mirab Razwan
+info,player,Norway,Prachi Kumari
+info,player,Norway,Lopamudra
+info,player,Norway,AS Gorad
+info,player,Norway,P Agrawal
+info,player,Norway,VB Viyala
+info,player,Estonia,N Zholudz
+info,player,Estonia,B Wani
+info,player,Estonia,H Kerge
+info,player,Estonia,L Sormus
+info,player,Estonia,A Vessik
+info,player,Estonia,N Tykhonravova
+info,player,Estonia,Ragne Hallik
+info,player,Estonia,M Valner
+info,player,Estonia,Viktoria Frey
+info,player,Estonia,E Ellermaa
+info,player,Estonia,S Pattenden
+info,registry,people,A Vessik,d30d4a0c
+info,registry,people,AS Gorad,2c8d0953
+info,registry,people,Alina Aslam,fbffb752
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,B Wani,a651cd4d
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,E Ellermaa,37c085d2
+info,registry,people,H Kerge,76207d36
+info,registry,people,L Sormus,3486a171
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,M Valner,b5472435
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,N Tykhonravova,b9f09828
+info,registry,people,N Zholudz,a60bff88
+info,registry,people,Nayab Razwan,f12e21a0
+info,registry,people,P Agrawal,bb1fcd51
+info,registry,people,Prachi Kumari,dc4f97bf
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,Ragne Hallik,1ac4b030
+info,registry,people,S Pattenden,b7880d1d
+info,registry,people,VB Viyala,228a747d
+info,registry,people,Viktoria Frey,fed9a316
+ball,1,0.1,Norway,Ayesha Hasan,Nayab Razwan,A Vessik,0,0,,,,,,"",""
+ball,1,0.2,Norway,Ayesha Hasan,Nayab Razwan,A Vessik,0,1,1,,,,,"",""
+ball,1,0.3,Norway,Ayesha Hasan,Nayab Razwan,A Vessik,0,0,,,,,,bowled,Ayesha Hasan
+ball,1,0.4,Norway,Bijeyata Kumari,Nayab Razwan,A Vessik,0,0,,,,,,"",""
+ball,1,0.5,Norway,Bijeyata Kumari,Nayab Razwan,A Vessik,0,0,,,,,,"",""
+ball,1,0.6,Norway,Bijeyata Kumari,Nayab Razwan,A Vessik,0,5,5,,,,,"",""
+ball,1,0.7,Norway,Bijeyata Kumari,Nayab Razwan,A Vessik,0,0,,,,,,"",""
+ball,1,0.8,Norway,Bijeyata Kumari,Nayab Razwan,A Vessik,0,0,,,,,,caught,Bijeyata Kumari
+ball,1,1.1,Norway,Nayab Razwan,R Immadi,M Valner,0,0,,,,,,"",""
+ball,1,1.2,Norway,Nayab Razwan,R Immadi,M Valner,1,0,,,,,,"",""
+ball,1,1.3,Norway,R Immadi,Nayab Razwan,M Valner,0,1,1,,,,,"",""
+ball,1,1.4,Norway,R Immadi,Nayab Razwan,M Valner,0,1,1,,,,,"",""
+ball,1,1.5,Norway,R Immadi,Nayab Razwan,M Valner,0,0,,,,,,"",""
+ball,1,1.6,Norway,R Immadi,Nayab Razwan,M Valner,0,1,1,,,,,"",""
+ball,1,1.7,Norway,R Immadi,Nayab Razwan,M Valner,0,0,,,,,,"",""
+ball,1,1.8,Norway,R Immadi,Nayab Razwan,M Valner,1,0,,,,,,"",""
+ball,1,1.9,Norway,Nayab Razwan,R Immadi,M Valner,1,0,,,,,,"",""
+ball,1,2.1,Norway,Nayab Razwan,R Immadi,A Vessik,1,0,,,,,,"",""
+ball,1,2.2,Norway,R Immadi,Nayab Razwan,A Vessik,0,1,1,,,,,"",""
+ball,1,2.3,Norway,R Immadi,Nayab Razwan,A Vessik,0,0,,,,,,bowled,R Immadi
+ball,1,2.4,Norway,Alina Aslam,Nayab Razwan,A Vessik,0,0,,,,,,bowled,Alina Aslam
+ball,1,2.5,Norway,Mirab Razwan,Nayab Razwan,A Vessik,0,0,,,,,,"",""
+ball,1,2.6,Norway,Mirab Razwan,Nayab Razwan,A Vessik,0,0,,,,,,"",""
+ball,1,2.7,Norway,Mirab Razwan,Nayab Razwan,A Vessik,0,2,2,,,,,"",""
+ball,1,2.8,Norway,Nayab Razwan,Mirab Razwan,A Vessik,0,0,,,,,,"",""
+ball,1,3.1,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,1,1,,,,,"",""
+ball,1,3.2,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,0,,,,,,"",""
+ball,1,3.3,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,0,,,,,,"",""
+ball,1,3.4,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,0,,,,,,"",""
+ball,1,3.5,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,1,1,,,,,"",""
+ball,1,3.6,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,1,,1,,,,"",""
+ball,1,3.7,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,1,,1,,,,"",""
+ball,1,3.8,Norway,Mirab Razwan,Nayab Razwan,L Sormus,1,0,,,,,,"",""
+ball,1,3.9,Norway,Nayab Razwan,Mirab Razwan,L Sormus,1,0,,,,,,"",""
+ball,1,3.10,Norway,Mirab Razwan,Nayab Razwan,L Sormus,0,0,,,,,,"",""
+ball,1,4.1,Norway,Nayab Razwan,Mirab Razwan,Viktoria Frey,0,0,,,,,,"",""
+ball,1,4.2,Norway,Nayab Razwan,Mirab Razwan,Viktoria Frey,0,0,,,,,,"",""
+ball,1,4.3,Norway,Nayab Razwan,Mirab Razwan,Viktoria Frey,0,0,,,,,,"",""
+ball,1,4.4,Norway,Nayab Razwan,Mirab Razwan,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,4.5,Norway,Nayab Razwan,Mirab Razwan,Viktoria Frey,1,0,,,,,,"",""
+ball,1,4.6,Norway,Mirab Razwan,Nayab Razwan,Viktoria Frey,0,2,2,,,,,"",""
+ball,1,4.7,Norway,Nayab Razwan,Mirab Razwan,Viktoria Frey,1,0,,,,,,"",""
+ball,1,4.8,Norway,Mirab Razwan,Nayab Razwan,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,4.9,Norway,Mirab Razwan,Nayab Razwan,Viktoria Frey,0,0,,,,,,bowled,Mirab Razwan
+ball,1,5.1,Norway,Nayab Razwan,Prachi Kumari,L Sormus,0,1,1,,,,,"",""
+ball,1,5.2,Norway,Nayab Razwan,Prachi Kumari,L Sormus,1,0,,,,,,"",""
+ball,1,5.3,Norway,Prachi Kumari,Nayab Razwan,L Sormus,1,1,,1,,,,"",""
+ball,1,5.4,Norway,Nayab Razwan,Prachi Kumari,L Sormus,4,0,,,,,,"",""
+ball,1,5.5,Norway,Nayab Razwan,Prachi Kumari,L Sormus,0,1,,1,,,,"",""
+ball,1,5.6,Norway,Nayab Razwan,Prachi Kumari,L Sormus,3,0,,,,,,"",""
+ball,1,5.7,Norway,Prachi Kumari,Nayab Razwan,L Sormus,0,1,1,,,,,"",""
+ball,1,5.8,Norway,Prachi Kumari,Nayab Razwan,L Sormus,0,1,1,,,,,"",""
+ball,1,5.9,Norway,Prachi Kumari,Nayab Razwan,L Sormus,0,0,,,,,,"",""
+ball,1,5.10,Norway,Prachi Kumari,Nayab Razwan,L Sormus,0,0,,,,,,"",""
+ball,1,5.11,Norway,Prachi Kumari,Nayab Razwan,L Sormus,1,0,,,,,,"",""
+ball,1,6.1,Norway,Prachi Kumari,Nayab Razwan,M Valner,0,1,,1,,,,"",""
+ball,1,6.2,Norway,Prachi Kumari,Nayab Razwan,M Valner,1,0,,,,,,"",""
+ball,1,6.3,Norway,Nayab Razwan,Prachi Kumari,M Valner,0,0,,,,,,bowled,Nayab Razwan
+ball,1,6.4,Norway,Lopamudra,Prachi Kumari,M Valner,1,1,,1,,,,"",""
+ball,1,6.5,Norway,Prachi Kumari,Lopamudra,M Valner,0,1,1,,,,,"",""
+ball,1,6.6,Norway,Prachi Kumari,Lopamudra,M Valner,0,0,,,,,,"",""
+ball,1,6.7,Norway,Prachi Kumari,Lopamudra,M Valner,1,0,,,,,,"",""
+ball,1,6.8,Norway,Lopamudra,Prachi Kumari,M Valner,0,0,,,,,,"",""
+ball,1,6.9,Norway,Lopamudra,Prachi Kumari,M Valner,1,0,,,,,,"",""
+ball,1,7.1,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,1,,,,,"",""
+ball,1,7.2,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,1,,,,,"",""
+ball,1,7.3,Norway,Lopamudra,Prachi Kumari,B Wani,0,0,,,,,,"",""
+ball,1,7.4,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,,1,,,,"",""
+ball,1,7.5,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,,1,,,,"",""
+ball,1,7.6,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,,1,,,,"",""
+ball,1,7.7,Norway,Lopamudra,Prachi Kumari,B Wani,0,0,,,,,,"",""
+ball,1,7.8,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,1,,,,,"",""
+ball,1,7.9,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,,1,,,,"",""
+ball,1,7.10,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,,1,,,,"",""
+ball,1,7.11,Norway,Lopamudra,Prachi Kumari,B Wani,0,1,1,,,,,"",""
+ball,1,7.12,Norway,Lopamudra,Prachi Kumari,B Wani,0,0,,,,,,run out,Prachi Kumari
+ball,1,7.13,Norway,AS Gorad,Lopamudra,B Wani,1,0,,,,,,"",""
+ball,1,7.14,Norway,Lopamudra,AS Gorad,B Wani,0,0,,,,,,"",""
+ball,1,7.15,Norway,Lopamudra,AS Gorad,B Wani,0,1,1,,,,,"",""
+ball,1,7.16,Norway,Lopamudra,AS Gorad,B Wani,1,0,,,,,,"",""
+ball,1,8.1,Norway,Lopamudra,AS Gorad,Viktoria Frey,0,0,,,,,,"",""
+ball,1,8.2,Norway,Lopamudra,AS Gorad,Viktoria Frey,0,0,,,,,,"",""
+ball,1,8.3,Norway,Lopamudra,AS Gorad,Viktoria Frey,0,0,,,,,,"",""
+ball,1,8.4,Norway,Lopamudra,AS Gorad,Viktoria Frey,4,1,,1,,,,"",""
+ball,1,8.5,Norway,Lopamudra,AS Gorad,Viktoria Frey,0,5,,1,4,,,"",""
+ball,1,8.6,Norway,Lopamudra,AS Gorad,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,8.7,Norway,Lopamudra,AS Gorad,Viktoria Frey,0,0,,,,,,"",""
+ball,1,8.8,Norway,Lopamudra,AS Gorad,Viktoria Frey,1,0,,,,,,"",""
+ball,1,8.9,Norway,AS Gorad,Lopamudra,Viktoria Frey,2,0,,,,,,"",""
+ball,1,9.1,Norway,Lopamudra,AS Gorad,S Pattenden,0,1,1,,,,,"",""
+ball,1,9.2,Norway,Lopamudra,AS Gorad,S Pattenden,0,1,1,,,,,"",""
+ball,1,9.3,Norway,Lopamudra,AS Gorad,S Pattenden,0,1,1,,,,,"",""
+ball,1,9.4,Norway,Lopamudra,AS Gorad,S Pattenden,0,0,,,,,,"",""
+ball,1,9.5,Norway,Lopamudra,AS Gorad,S Pattenden,1,0,,,,,,"",""
+ball,1,9.6,Norway,AS Gorad,Lopamudra,S Pattenden,0,1,,1,,,,"",""
+ball,1,9.7,Norway,AS Gorad,Lopamudra,S Pattenden,1,0,,,,,,"",""
+ball,1,9.8,Norway,Lopamudra,AS Gorad,S Pattenden,1,0,,,,,,"",""
+ball,1,9.9,Norway,AS Gorad,Lopamudra,S Pattenden,1,0,,,,,,"",""
+ball,1,9.10,Norway,Lopamudra,AS Gorad,S Pattenden,0,1,1,,,,,"",""
+ball,1,9.11,Norway,Lopamudra,AS Gorad,S Pattenden,0,0,,,,,,"",""
+ball,1,10.1,Norway,AS Gorad,Lopamudra,A Vessik,1,0,,,,,,"",""
+ball,1,10.2,Norway,Lopamudra,AS Gorad,A Vessik,0,0,,,,,,"",""
+ball,1,10.3,Norway,Lopamudra,AS Gorad,A Vessik,0,0,,,,,,"",""
+ball,1,10.4,Norway,Lopamudra,AS Gorad,A Vessik,0,2,,1,1,,,"",""
+ball,1,10.5,Norway,AS Gorad,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,10.6,Norway,AS Gorad,Lopamudra,A Vessik,0,0,,,,,,caught,AS Gorad
+ball,1,10.7,Norway,P Agrawal,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,11.1,Norway,Lopamudra,P Agrawal,M Valner,0,0,,,,,,"",""
+ball,1,11.2,Norway,Lopamudra,P Agrawal,M Valner,0,0,,,,,,"",""
+ball,1,11.3,Norway,Lopamudra,P Agrawal,M Valner,1,0,,,,,,"",""
+ball,1,11.4,Norway,P Agrawal,Lopamudra,M Valner,0,0,,,,,,"",""
+ball,1,11.5,Norway,P Agrawal,Lopamudra,M Valner,0,0,,,,,,"",""
+ball,1,11.6,Norway,P Agrawal,Lopamudra,M Valner,0,1,1,,,,,"",""
+ball,1,11.7,Norway,P Agrawal,Lopamudra,M Valner,1,0,,,,,,"",""
+ball,1,12.1,Norway,P Agrawal,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,12.2,Norway,P Agrawal,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,12.3,Norway,P Agrawal,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,12.4,Norway,P Agrawal,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,12.5,Norway,P Agrawal,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,12.6,Norway,P Agrawal,Lopamudra,A Vessik,0,0,,,,,,"",""
+ball,1,13.1,Norway,Lopamudra,P Agrawal,M Valner,0,0,,,,,,"",""
+ball,1,13.2,Norway,Lopamudra,P Agrawal,M Valner,1,0,,,,,,"",""
+ball,1,13.3,Norway,P Agrawal,Lopamudra,M Valner,0,0,,,,,,caught,P Agrawal
+ball,1,13.4,Norway,VB Viyala,Lopamudra,M Valner,0,0,,,,,,"",""
+ball,1,13.5,Norway,VB Viyala,Lopamudra,M Valner,0,1,1,,,,,"",""
+ball,1,13.6,Norway,VB Viyala,Lopamudra,M Valner,0,0,,,,,,"",""
+ball,1,13.7,Norway,VB Viyala,Lopamudra,M Valner,1,1,,1,,,,"",""
+ball,1,13.8,Norway,Lopamudra,VB Viyala,M Valner,0,0,,,,,,"",""
+ball,1,14.1,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,14.2,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,14.3,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,14.4,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,14.5,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,14.6,Norway,VB Viyala,Lopamudra,Viktoria Frey,1,1,,1,,,,"",""
+ball,1,14.7,Norway,Lopamudra,VB Viyala,Viktoria Frey,0,0,,,,,,"",""
+ball,1,14.8,Norway,Lopamudra,VB Viyala,Viktoria Frey,0,2,2,,,,,"",""
+ball,1,14.9,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,14.10,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,14.11,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,15.1,Norway,Lopamudra,VB Viyala,S Pattenden,0,0,,,,,,"",""
+ball,1,15.2,Norway,Lopamudra,VB Viyala,S Pattenden,0,0,,,,,,"",""
+ball,1,15.3,Norway,Lopamudra,VB Viyala,S Pattenden,0,0,,,,,,"",""
+ball,1,15.4,Norway,Lopamudra,VB Viyala,S Pattenden,0,0,,,,,,"",""
+ball,1,15.5,Norway,Lopamudra,VB Viyala,S Pattenden,0,1,1,,,,,"",""
+ball,1,15.6,Norway,Lopamudra,VB Viyala,S Pattenden,0,1,1,,,,,"",""
+ball,1,15.7,Norway,Lopamudra,VB Viyala,S Pattenden,0,0,,,,,,"",""
+ball,1,15.8,Norway,Lopamudra,VB Viyala,S Pattenden,0,0,,,,,,"",""
+ball,1,16.1,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,16.2,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,16.3,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.4,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,16.5,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.6,Norway,VB Viyala,Lopamudra,Viktoria Frey,2,0,,,,,,"",""
+ball,1,16.7,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,16.8,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,1,1,,,,,"",""
+ball,1,16.9,Norway,VB Viyala,Lopamudra,Viktoria Frey,0,0,,,,,,"",""
+ball,1,17.1,Norway,Lopamudra,VB Viyala,L Sormus,0,0,,,,,,"",""
+ball,1,17.2,Norway,Lopamudra,VB Viyala,L Sormus,0,0,,,,,,"",""
+ball,1,17.3,Norway,Lopamudra,VB Viyala,L Sormus,0,0,,,,,,bowled,Lopamudra
+ball,2,0.1,Estonia,N Zholudz,B Wani,Alina Aslam,0,1,1,,,,,"",""
+ball,2,0.2,Estonia,N Zholudz,B Wani,Alina Aslam,0,0,,,,,,"",""
+ball,2,0.3,Estonia,N Zholudz,B Wani,Alina Aslam,0,0,,,,,,"",""
+ball,2,0.4,Estonia,N Zholudz,B Wani,Alina Aslam,0,1,1,,,,,"",""
+ball,2,0.5,Estonia,N Zholudz,B Wani,Alina Aslam,0,0,,,,,,"",""
+ball,2,0.6,Estonia,N Zholudz,B Wani,Alina Aslam,0,0,,,,,,"",""
+ball,2,0.7,Estonia,N Zholudz,B Wani,Alina Aslam,0,0,,,,,,"",""
+ball,2,0.8,Estonia,N Zholudz,B Wani,Alina Aslam,0,0,,,,,,"",""
+ball,2,1.1,Estonia,B Wani,N Zholudz,R Immadi,0,1,1,,,,,"",""
+ball,2,1.2,Estonia,B Wani,N Zholudz,R Immadi,0,0,,,,,,"",""
+ball,2,1.3,Estonia,B Wani,N Zholudz,R Immadi,4,0,,,,,,"",""
+ball,2,1.4,Estonia,B Wani,N Zholudz,R Immadi,0,0,,,,,,"",""
+ball,2,1.5,Estonia,B Wani,N Zholudz,R Immadi,0,0,,,,,,run out,B Wani
+ball,2,1.6,Estonia,N Zholudz,H Kerge,R Immadi,0,0,,,,,,"",""
+ball,2,1.7,Estonia,N Zholudz,H Kerge,R Immadi,1,0,,,,,,"",""
+ball,2,2.1,Estonia,N Zholudz,H Kerge,Alina Aslam,0,0,,,,,,"",""
+ball,2,2.2,Estonia,N Zholudz,H Kerge,Alina Aslam,1,0,,,,,,"",""
+ball,2,2.3,Estonia,H Kerge,N Zholudz,Alina Aslam,0,0,,,,,,"",""
+ball,2,2.4,Estonia,H Kerge,N Zholudz,Alina Aslam,0,0,,,,,,"",""
+ball,2,2.5,Estonia,H Kerge,N Zholudz,Alina Aslam,1,0,,,,,,"",""
+ball,2,2.6,Estonia,N Zholudz,H Kerge,Alina Aslam,0,0,,,,,,"",""
+ball,2,3.1,Estonia,H Kerge,N Zholudz,R Immadi,0,0,,,,,,"",""
+ball,2,3.2,Estonia,H Kerge,N Zholudz,R Immadi,0,0,,,,,,"",""
+ball,2,3.3,Estonia,H Kerge,N Zholudz,R Immadi,0,1,1,,,,,"",""
+ball,2,3.4,Estonia,H Kerge,N Zholudz,R Immadi,0,0,,,,,,"",""
+ball,2,3.5,Estonia,H Kerge,N Zholudz,R Immadi,0,2,2,,,,,"",""
+ball,2,3.6,Estonia,N Zholudz,H Kerge,R Immadi,0,1,,,,1,,"",""
+ball,2,3.7,Estonia,H Kerge,N Zholudz,R Immadi,0,0,,,,,,"",""
+ball,2,3.8,Estonia,H Kerge,N Zholudz,R Immadi,0,1,1,,,,,"",""
+ball,2,3.9,Estonia,H Kerge,N Zholudz,R Immadi,0,0,,,,,,"",""
+ball,2,4.1,Estonia,N Zholudz,H Kerge,Lopamudra,0,0,,,,,,"",""
+ball,2,4.2,Estonia,N Zholudz,H Kerge,Lopamudra,0,0,,,,,,"",""
+ball,2,4.3,Estonia,N Zholudz,H Kerge,Lopamudra,1,0,,,,,,"",""
+ball,2,4.4,Estonia,H Kerge,N Zholudz,Lopamudra,1,0,,,,,,"",""
+ball,2,4.5,Estonia,N Zholudz,H Kerge,Lopamudra,4,0,,,,,,"",""
+ball,2,4.6,Estonia,N Zholudz,H Kerge,Lopamudra,0,0,,,,,,"",""
+ball,2,5.1,Estonia,H Kerge,N Zholudz,P Agrawal,0,0,,,,,,"",""
+ball,2,5.2,Estonia,H Kerge,N Zholudz,P Agrawal,1,0,,,,,,"",""
+ball,2,5.3,Estonia,N Zholudz,H Kerge,P Agrawal,1,0,,,,,,"",""
+ball,2,5.4,Estonia,H Kerge,N Zholudz,P Agrawal,0,0,,,,,,bowled,H Kerge
+ball,2,5.5,Estonia,L Sormus,N Zholudz,P Agrawal,0,1,1,,,,,"",""
+ball,2,5.6,Estonia,L Sormus,N Zholudz,P Agrawal,0,0,,,,,,"",""
+ball,2,5.7,Estonia,L Sormus,N Zholudz,P Agrawal,0,1,1,,,,,"",""
+ball,2,5.8,Estonia,L Sormus,N Zholudz,P Agrawal,0,2,2,,,,,"",""
+ball,2,5.9,Estonia,N Zholudz,L Sormus,P Agrawal,1,0,,,,,,"",""
+ball,2,6.1,Estonia,N Zholudz,L Sormus,Lopamudra,0,0,,,,,,"",""
+ball,2,6.2,Estonia,N Zholudz,L Sormus,Lopamudra,0,1,1,,,,,"",""
+ball,2,6.3,Estonia,N Zholudz,L Sormus,Lopamudra,0,0,,,,,,"",""
+ball,2,6.4,Estonia,N Zholudz,L Sormus,Lopamudra,1,0,,,,,,"",""
+ball,2,6.5,Estonia,L Sormus,N Zholudz,Lopamudra,0,0,,,,,,caught,L Sormus
+ball,2,6.6,Estonia,A Vessik,N Zholudz,Lopamudra,0,1,1,,,,,"",""
+ball,2,6.7,Estonia,A Vessik,N Zholudz,Lopamudra,2,0,,,,,,"",""
+ball,2,6.8,Estonia,A Vessik,N Zholudz,Lopamudra,0,0,,,,,,"",""
+ball,2,7.1,Estonia,N Zholudz,A Vessik,P Agrawal,0,0,,,,,,"",""
+ball,2,7.2,Estonia,N Zholudz,A Vessik,P Agrawal,1,0,,,,,,"",""
+ball,2,7.3,Estonia,A Vessik,N Zholudz,P Agrawal,0,0,,,,,,"",""
+ball,2,7.4,Estonia,A Vessik,N Zholudz,P Agrawal,0,0,,,,,,"",""
+ball,2,7.5,Estonia,A Vessik,N Zholudz,P Agrawal,0,0,,,,,,lbw,A Vessik
+ball,2,7.6,Estonia,N Tykhonravova,N Zholudz,P Agrawal,0,0,,,,,,"",""
+ball,2,8.1,Estonia,N Zholudz,N Tykhonravova,Mirab Razwan,0,0,,,,,,bowled,N Zholudz
+ball,2,8.2,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,8.3,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,2,0,,,,,,"",""
+ball,2,8.4,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,8.5,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,8.6,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,8.7,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,8.8,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,8.9,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,8.10,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,8.11,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,8.12,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,8.13,Estonia,Ragne Hallik,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,9.1,Estonia,N Tykhonravova,Ragne Hallik,P Agrawal,1,0,,,,,,"",""
+ball,2,9.2,Estonia,Ragne Hallik,N Tykhonravova,P Agrawal,0,0,,,,,,"",""
+ball,2,9.3,Estonia,Ragne Hallik,N Tykhonravova,P Agrawal,0,0,,,,,,"",""
+ball,2,9.4,Estonia,Ragne Hallik,N Tykhonravova,P Agrawal,0,0,,,,,,"",""
+ball,2,9.5,Estonia,Ragne Hallik,N Tykhonravova,P Agrawal,0,1,1,,,,,"",""
+ball,2,9.6,Estonia,Ragne Hallik,N Tykhonravova,P Agrawal,0,1,1,,,,,"",""
+ball,2,9.7,Estonia,Ragne Hallik,N Tykhonravova,P Agrawal,0,0,,,,,,"",""
+ball,2,9.8,Estonia,Ragne Hallik,N Tykhonravova,P Agrawal,0,0,,,,,,bowled,Ragne Hallik
+ball,2,10.1,Estonia,N Tykhonravova,M Valner,Mirab Razwan,1,0,,,,,,"",""
+ball,2,10.2,Estonia,M Valner,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,10.3,Estonia,M Valner,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,10.4,Estonia,M Valner,N Tykhonravova,Mirab Razwan,1,0,,,,,,"",""
+ball,2,10.5,Estonia,N Tykhonravova,M Valner,Mirab Razwan,2,0,,,,,,"",""
+ball,2,10.6,Estonia,N Tykhonravova,M Valner,Mirab Razwan,2,0,,,,,,"",""
+ball,2,11.1,Estonia,M Valner,N Tykhonravova,P Agrawal,0,0,,,,,,"",""
+ball,2,11.2,Estonia,M Valner,N Tykhonravova,P Agrawal,1,0,,,,,,"",""
+ball,2,11.3,Estonia,N Tykhonravova,M Valner,P Agrawal,0,0,,,,,,"",""
+ball,2,11.4,Estonia,N Tykhonravova,M Valner,P Agrawal,0,0,,,,,,"",""
+ball,2,11.5,Estonia,N Tykhonravova,M Valner,P Agrawal,0,0,,,,,,"",""
+ball,2,11.6,Estonia,N Tykhonravova,M Valner,P Agrawal,2,0,,,,,,"",""
+ball,2,12.1,Estonia,M Valner,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,12.2,Estonia,M Valner,N Tykhonravova,Mirab Razwan,1,0,,,,,,"",""
+ball,2,12.3,Estonia,N Tykhonravova,M Valner,Mirab Razwan,0,0,,,,,,"",""
+ball,2,12.4,Estonia,N Tykhonravova,M Valner,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,12.5,Estonia,N Tykhonravova,M Valner,Mirab Razwan,0,1,1,,,,,"",""
+ball,2,12.6,Estonia,N Tykhonravova,M Valner,Mirab Razwan,1,0,,,,,,"",""
+ball,2,12.7,Estonia,M Valner,N Tykhonravova,Mirab Razwan,1,0,,,,,,"",""
+ball,2,12.8,Estonia,N Tykhonravova,M Valner,Mirab Razwan,0,0,,,,,,"",""
+ball,2,13.1,Estonia,M Valner,N Tykhonravova,Alina Aslam,0,0,,,,,,"",""
+ball,2,13.2,Estonia,M Valner,N Tykhonravova,Alina Aslam,0,0,,,,,,"",""
+ball,2,13.3,Estonia,M Valner,N Tykhonravova,Alina Aslam,0,0,,,,,,"",""
+ball,2,13.4,Estonia,M Valner,N Tykhonravova,Alina Aslam,0,0,,,,,,"",""
+ball,2,13.5,Estonia,M Valner,N Tykhonravova,Alina Aslam,0,0,,,,,,"",""
+ball,2,13.6,Estonia,M Valner,N Tykhonravova,Alina Aslam,1,0,,,,,,"",""
+ball,2,14.1,Estonia,M Valner,N Tykhonravova,Lopamudra,0,0,,,,,,"",""
+ball,2,14.2,Estonia,M Valner,N Tykhonravova,Lopamudra,0,0,,,,,,caught and bowled,M Valner
+ball,2,14.3,Estonia,Viktoria Frey,N Tykhonravova,Lopamudra,0,0,,,,,,"",""
+ball,2,14.4,Estonia,Viktoria Frey,N Tykhonravova,Lopamudra,1,1,,1,,,,"",""
+ball,2,14.5,Estonia,N Tykhonravova,Viktoria Frey,Lopamudra,0,0,,,,,,"",""
+ball,2,14.6,Estonia,N Tykhonravova,Viktoria Frey,Lopamudra,0,0,,,,,,"",""
+ball,2,14.7,Estonia,N Tykhonravova,Viktoria Frey,Lopamudra,0,0,,,,,,"",""
+ball,2,15.1,Estonia,Viktoria Frey,N Tykhonravova,Mirab Razwan,0,0,,,,,,"",""
+ball,2,15.2,Estonia,Viktoria Frey,N Tykhonravova,Mirab Razwan,1,0,,,,,,"",""
+ball,2,15.3,Estonia,N Tykhonravova,Viktoria Frey,Mirab Razwan,0,0,,,,,,bowled,N Tykhonravova
+ball,2,15.4,Estonia,E Ellermaa,Viktoria Frey,Mirab Razwan,0,0,,,,,,"",""
+ball,2,15.5,Estonia,E Ellermaa,Viktoria Frey,Mirab Razwan,0,0,,,,,,"",""
+ball,2,15.6,Estonia,E Ellermaa,Viktoria Frey,Mirab Razwan,0,0,,,,,,"",""
+ball,2,16.1,Estonia,Viktoria Frey,E Ellermaa,Lopamudra,0,0,,,,,,"",""
+ball,2,16.2,Estonia,Viktoria Frey,E Ellermaa,Lopamudra,0,0,,,,,,"",""
+ball,2,16.3,Estonia,Viktoria Frey,E Ellermaa,Lopamudra,1,0,,,,,,"",""
+ball,2,16.4,Estonia,E Ellermaa,Viktoria Frey,Lopamudra,0,0,,,,,,"",""
+ball,2,16.5,Estonia,E Ellermaa,Viktoria Frey,Lopamudra,0,0,,,,,,"",""
+ball,2,16.6,Estonia,E Ellermaa,Viktoria Frey,Lopamudra,0,1,1,,,,,"",""
+ball,2,16.7,Estonia,E Ellermaa,Viktoria Frey,Lopamudra,0,0,,,,,,"",""
+ball,2,17.1,Estonia,Viktoria Frey,E Ellermaa,R Immadi,0,0,,,,,,bowled,Viktoria Frey
+ball,2,17.2,Estonia,S Pattenden,E Ellermaa,R Immadi,0,0,,,,,,"",""
+ball,2,17.3,Estonia,S Pattenden,E Ellermaa,R Immadi,0,1,1,,,,,"",""
+ball,2,17.4,Estonia,S Pattenden,E Ellermaa,R Immadi,0,0,,,,,,"",""
+ball,2,17.5,Estonia,S Pattenden,E Ellermaa,R Immadi,0,0,,,,,,"",""
+ball,2,17.6,Estonia,S Pattenden,E Ellermaa,R Immadi,0,0,,,,,,"",""
+ball,2,17.7,Estonia,S Pattenden,E Ellermaa,R Immadi,0,0,,,,,,"",""
+ball,2,18.1,Estonia,E Ellermaa,S Pattenden,Alina Aslam,0,0,,,,,,"",""
+ball,2,18.2,Estonia,E Ellermaa,S Pattenden,Alina Aslam,0,0,,,,,,"",""
+ball,2,18.3,Estonia,E Ellermaa,S Pattenden,Alina Aslam,0,0,,,,,,"",""
+ball,2,18.4,Estonia,E Ellermaa,S Pattenden,Alina Aslam,1,0,,,,,,"",""
+ball,2,18.5,Estonia,S Pattenden,E Ellermaa,Alina Aslam,0,0,,,,,,"",""
+ball,2,18.6,Estonia,S Pattenden,E Ellermaa,Alina Aslam,1,1,,1,,,,"",""
+ball,2,18.7,Estonia,E Ellermaa,S Pattenden,Alina Aslam,1,0,,,,,,"",""
+ball,2,19.1,Estonia,E Ellermaa,S Pattenden,R Immadi,0,0,,,,,,"",""
+ball,2,19.2,Estonia,E Ellermaa,S Pattenden,R Immadi,0,0,,,,,,"",""
+ball,2,19.3,Estonia,E Ellermaa,S Pattenden,R Immadi,0,0,,,,,,"",""
+ball,2,19.4,Estonia,E Ellermaa,S Pattenden,R Immadi,0,1,1,,,,,"",""
+ball,2,19.5,Estonia,E Ellermaa,S Pattenden,R Immadi,0,0,,,,,,"",""
+ball,2,19.6,Estonia,E Ellermaa,S Pattenden,R Immadi,1,0,,,,,,"",""
+ball,2,19.7,Estonia,S Pattenden,E Ellermaa,R Immadi,1,0,,,,,,"",""

@@ -1,0 +1,280 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Gibraltar
+info,gender,female
+info,season,2024
+info,date,2024/06/16
+info,event,Women Central Europe Cup
+info,match_number,5
+info,venue,"Scott Page Field, Vinor"
+info,city,Prague
+info,toss_winner,Croatia
+info,toss_decision,bat
+info,player_of_match,N Caruana
+info,umpire,C Tebb
+info,umpire,P Vincent
+info,reserve_umpire,JA Stiglitz
+info,match_referee,P Sadasivan
+info,winner,Gibraltar
+info,winner_wickets,10
+info,player,Croatia,E Vukusic
+info,player,Croatia,H Leko
+info,player,Croatia,L Krvaric
+info,player,Croatia,P Senjug
+info,player,Croatia,S Kucuksucu
+info,player,Croatia,M Modric
+info,player,Croatia,V Romani
+info,player,Croatia,Priyanka Reddy
+info,player,Croatia,A Charles
+info,player,Croatia,Y Korniienko
+info,player,Croatia,S Sebastian
+info,player,Gibraltar,AIV Benatar
+info,player,Gibraltar,N Caruana
+info,player,Gibraltar,RA Reilly
+info,player,Gibraltar,EAS Ferrary
+info,player,Gibraltar,CT McNally
+info,player,Gibraltar,LJ Payas
+info,player,Gibraltar,H Mumford
+info,player,Gibraltar,YS Blagg
+info,player,Gibraltar,P Raghunath
+info,player,Gibraltar,Ying King To
+info,player,Gibraltar,S Barton
+info,registry,people,A Charles,b2519612
+info,registry,people,AIV Benatar,e8bdbbca
+info,registry,people,C Tebb,5e7d78cd
+info,registry,people,CT McNally,6a32ef43
+info,registry,people,E Vukusic,7a64c6eb
+info,registry,people,EAS Ferrary,c3c905ae
+info,registry,people,H Leko,02c8fbfc
+info,registry,people,H Mumford,6462c64b
+info,registry,people,JA Stiglitz,7195065a
+info,registry,people,L Krvaric,115b7211
+info,registry,people,LJ Payas,49355360
+info,registry,people,M Modric,31fe1419
+info,registry,people,N Caruana,00d1544c
+info,registry,people,P Raghunath,2e287171
+info,registry,people,P Sadasivan,8be86ab6
+info,registry,people,P Senjug,1c03d322
+info,registry,people,P Vincent,afb1787b
+info,registry,people,Priyanka Reddy,c4689003
+info,registry,people,RA Reilly,77276fff
+info,registry,people,S Barton,f7dd8b46
+info,registry,people,S Kucuksucu,fea44a7f
+info,registry,people,S Sebastian,f3fce917
+info,registry,people,V Romani,15fee304
+info,registry,people,Y Korniienko,a12d0de9
+info,registry,people,YS Blagg,3aac5463
+info,registry,people,Ying King To,1f44bd34
+ball,1,0.1,Croatia,E Vukusic,H Leko,H Mumford,0,1,1,,,,,"",""
+ball,1,0.2,Croatia,E Vukusic,H Leko,H Mumford,1,0,,,,,,"",""
+ball,1,0.3,Croatia,H Leko,E Vukusic,H Mumford,1,0,,,,,,"",""
+ball,1,0.4,Croatia,E Vukusic,H Leko,H Mumford,0,1,1,,,,,"",""
+ball,1,0.5,Croatia,E Vukusic,H Leko,H Mumford,0,1,1,,,,,"",""
+ball,1,0.6,Croatia,E Vukusic,H Leko,H Mumford,0,1,1,,,,,"",""
+ball,1,0.7,Croatia,E Vukusic,H Leko,H Mumford,1,0,,,,,,"",""
+ball,1,0.8,Croatia,H Leko,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,0.9,Croatia,H Leko,E Vukusic,H Mumford,1,0,,,,,,"",""
+ball,1,0.10,Croatia,E Vukusic,H Leko,H Mumford,4,0,,,,,,"",""
+ball,1,1.1,Croatia,H Leko,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,1.2,Croatia,H Leko,E Vukusic,EAS Ferrary,0,0,,,,,,bowled,H Leko
+ball,1,1.3,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,1.4,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,1.5,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,1.6,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,1,,,,1,,"",""
+ball,1,2.1,Croatia,L Krvaric,E Vukusic,H Mumford,2,0,,,,,,"",""
+ball,1,2.2,Croatia,L Krvaric,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,2.3,Croatia,L Krvaric,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,2.4,Croatia,L Krvaric,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,2.5,Croatia,L Krvaric,E Vukusic,H Mumford,4,0,,,,,,"",""
+ball,1,2.6,Croatia,L Krvaric,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,3.1,Croatia,E Vukusic,L Krvaric,EAS Ferrary,0,0,,,,,,"",""
+ball,1,3.2,Croatia,E Vukusic,L Krvaric,EAS Ferrary,2,1,,1,,,,"",""
+ball,1,3.3,Croatia,E Vukusic,L Krvaric,EAS Ferrary,1,0,,,,,,"",""
+ball,1,3.4,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,3.5,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,1,1,,,,,"",""
+ball,1,3.6,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,3.7,Croatia,L Krvaric,E Vukusic,EAS Ferrary,0,0,,,,,,lbw,L Krvaric
+ball,1,3.8,Croatia,P Senjug,E Vukusic,EAS Ferrary,0,0,,,,,,lbw,P Senjug
+ball,1,4.1,Croatia,E Vukusic,S Kucuksucu,H Mumford,0,0,,,,,,"",""
+ball,1,4.2,Croatia,E Vukusic,S Kucuksucu,H Mumford,0,1,,1,,,,"",""
+ball,1,4.3,Croatia,E Vukusic,S Kucuksucu,H Mumford,0,0,,,,,,"",""
+ball,1,4.4,Croatia,E Vukusic,S Kucuksucu,H Mumford,1,0,,,,,,"",""
+ball,1,4.5,Croatia,S Kucuksucu,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,4.6,Croatia,S Kucuksucu,E Vukusic,H Mumford,0,1,1,,,,,"",""
+ball,1,4.7,Croatia,S Kucuksucu,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,4.8,Croatia,S Kucuksucu,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,5.1,Croatia,E Vukusic,S Kucuksucu,EAS Ferrary,0,1,1,,,,,"",""
+ball,1,5.2,Croatia,E Vukusic,S Kucuksucu,EAS Ferrary,1,0,,,,,,"",""
+ball,1,5.3,Croatia,S Kucuksucu,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,5.4,Croatia,S Kucuksucu,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,5.5,Croatia,S Kucuksucu,E Vukusic,EAS Ferrary,0,1,1,,,,,"",""
+ball,1,5.6,Croatia,S Kucuksucu,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,5.7,Croatia,S Kucuksucu,E Vukusic,EAS Ferrary,0,1,,1,,,,"",""
+ball,1,5.8,Croatia,S Kucuksucu,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,5.9,Croatia,S Kucuksucu,E Vukusic,EAS Ferrary,0,0,,,,,,"",""
+ball,1,6.1,Croatia,E Vukusic,S Kucuksucu,H Mumford,0,0,,,,,,"",""
+ball,1,6.2,Croatia,E Vukusic,S Kucuksucu,H Mumford,2,0,,,,,,"",""
+ball,1,6.3,Croatia,E Vukusic,S Kucuksucu,H Mumford,0,1,1,,,,,"",""
+ball,1,6.4,Croatia,E Vukusic,S Kucuksucu,H Mumford,1,0,,,,,,"",""
+ball,1,6.5,Croatia,S Kucuksucu,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,6.6,Croatia,S Kucuksucu,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,6.7,Croatia,S Kucuksucu,E Vukusic,H Mumford,0,0,,,,,,"",""
+ball,1,7.1,Croatia,E Vukusic,S Kucuksucu,YS Blagg,0,1,1,,,,,"",""
+ball,1,7.2,Croatia,E Vukusic,S Kucuksucu,YS Blagg,0,0,,,,,,"",""
+ball,1,7.3,Croatia,E Vukusic,S Kucuksucu,YS Blagg,0,0,,,,,,"",""
+ball,1,7.4,Croatia,E Vukusic,S Kucuksucu,YS Blagg,0,0,,,,,,"",""
+ball,1,7.5,Croatia,E Vukusic,S Kucuksucu,YS Blagg,1,0,,,,,,run out,E Vukusic
+ball,1,7.6,Croatia,M Modric,S Kucuksucu,YS Blagg,0,0,,,,,,"",""
+ball,1,7.7,Croatia,M Modric,S Kucuksucu,YS Blagg,0,0,,,,,,"",""
+ball,1,8.1,Croatia,S Kucuksucu,M Modric,N Caruana,0,0,,,,,,"",""
+ball,1,8.2,Croatia,S Kucuksucu,M Modric,N Caruana,1,0,,,,,,"",""
+ball,1,8.3,Croatia,M Modric,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,8.4,Croatia,M Modric,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,8.5,Croatia,M Modric,S Kucuksucu,N Caruana,0,0,,,,,,bowled,M Modric
+ball,1,8.6,Croatia,V Romani,S Kucuksucu,N Caruana,0,1,1,,,,,"",""
+ball,1,8.7,Croatia,V Romani,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,9.1,Croatia,S Kucuksucu,V Romani,YS Blagg,0,0,,,,,,"",""
+ball,1,9.2,Croatia,S Kucuksucu,V Romani,YS Blagg,0,0,,,,,,"",""
+ball,1,9.3,Croatia,S Kucuksucu,V Romani,YS Blagg,0,0,,,,,,"",""
+ball,1,9.4,Croatia,S Kucuksucu,V Romani,YS Blagg,0,0,,,,,,"",""
+ball,1,9.5,Croatia,S Kucuksucu,V Romani,YS Blagg,0,0,,,,,,"",""
+ball,1,9.6,Croatia,S Kucuksucu,V Romani,YS Blagg,0,0,,,,,,"",""
+ball,1,10.1,Croatia,V Romani,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,10.2,Croatia,V Romani,S Kucuksucu,N Caruana,0,0,,,,,,bowled,V Romani
+ball,1,10.3,Croatia,Priyanka Reddy,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,10.4,Croatia,Priyanka Reddy,S Kucuksucu,N Caruana,0,1,1,,,,,"",""
+ball,1,10.5,Croatia,Priyanka Reddy,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,10.6,Croatia,Priyanka Reddy,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,10.7,Croatia,Priyanka Reddy,S Kucuksucu,N Caruana,0,1,1,,,,,"",""
+ball,1,10.8,Croatia,Priyanka Reddy,S Kucuksucu,N Caruana,0,0,,,,,,"",""
+ball,1,11.1,Croatia,S Kucuksucu,Priyanka Reddy,YS Blagg,0,0,,,,,,bowled,S Kucuksucu
+ball,1,11.2,Croatia,A Charles,Priyanka Reddy,YS Blagg,0,0,,,,,,"",""
+ball,1,11.3,Croatia,A Charles,Priyanka Reddy,YS Blagg,0,1,1,,,,,"",""
+ball,1,11.4,Croatia,A Charles,Priyanka Reddy,YS Blagg,1,0,,,,,,"",""
+ball,1,11.5,Croatia,Priyanka Reddy,A Charles,YS Blagg,0,0,,,,,,run out,Priyanka Reddy
+ball,1,11.6,Croatia,A Charles,Y Korniienko,YS Blagg,0,1,1,,,,,"",""
+ball,1,11.7,Croatia,A Charles,Y Korniienko,YS Blagg,0,0,,,,,,bowled,A Charles
+ball,1,11.8,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,0,,,,,,"",""
+ball,1,12.1,Croatia,Y Korniienko,S Sebastian,N Caruana,0,0,,,,,,"",""
+ball,1,12.2,Croatia,Y Korniienko,S Sebastian,N Caruana,0,1,1,,,,,"",""
+ball,1,12.3,Croatia,Y Korniienko,S Sebastian,N Caruana,0,0,,,,,,"",""
+ball,1,12.4,Croatia,Y Korniienko,S Sebastian,N Caruana,0,1,1,,,,,"",""
+ball,1,12.5,Croatia,Y Korniienko,S Sebastian,N Caruana,0,1,1,,,,,"",""
+ball,1,12.6,Croatia,Y Korniienko,S Sebastian,N Caruana,0,1,1,,,,,"",""
+ball,1,12.7,Croatia,Y Korniienko,S Sebastian,N Caruana,0,0,,,,,,"",""
+ball,1,12.8,Croatia,Y Korniienko,S Sebastian,N Caruana,0,1,1,,,,,"",""
+ball,1,12.9,Croatia,Y Korniienko,S Sebastian,N Caruana,0,0,,,,,,"",""
+ball,1,12.10,Croatia,Y Korniienko,S Sebastian,N Caruana,0,0,,,,,,"",""
+ball,1,12.11,Croatia,Y Korniienko,S Sebastian,N Caruana,0,1,,1,,,,"",""
+ball,1,12.12,Croatia,Y Korniienko,S Sebastian,N Caruana,0,0,,,,,,"",""
+ball,1,13.1,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,1,,1,,,,"",""
+ball,1,13.2,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,0,,,,,,"",""
+ball,1,13.3,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,0,,,,,,"",""
+ball,1,13.4,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,0,,,,,,"",""
+ball,1,13.5,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,0,,,,,,"",""
+ball,1,13.6,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,0,,,,,,"",""
+ball,1,13.7,Croatia,S Sebastian,Y Korniienko,YS Blagg,0,0,,,,,,"",""
+ball,1,14.1,Croatia,Y Korniienko,S Sebastian,AIV Benatar,0,1,1,,,,,"",""
+ball,1,14.2,Croatia,Y Korniienko,S Sebastian,AIV Benatar,0,0,,,,,,"",""
+ball,1,14.3,Croatia,Y Korniienko,S Sebastian,AIV Benatar,1,0,,,,,,"",""
+ball,1,14.4,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,0,,,,,,"",""
+ball,1,14.5,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,0,,,,,,"",""
+ball,1,14.6,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,0,,,,,,"",""
+ball,1,14.7,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,0,,,,,,"",""
+ball,1,15.1,Croatia,Y Korniienko,S Sebastian,EAS Ferrary,0,0,,,,,,"",""
+ball,1,15.2,Croatia,Y Korniienko,S Sebastian,EAS Ferrary,1,0,,,,,,"",""
+ball,1,15.3,Croatia,S Sebastian,Y Korniienko,EAS Ferrary,0,0,,,,,,"",""
+ball,1,15.4,Croatia,S Sebastian,Y Korniienko,EAS Ferrary,1,0,,,,,,"",""
+ball,1,15.5,Croatia,Y Korniienko,S Sebastian,EAS Ferrary,0,1,,,,1,,"",""
+ball,1,15.6,Croatia,S Sebastian,Y Korniienko,EAS Ferrary,0,0,,,,,,"",""
+ball,1,16.1,Croatia,Y Korniienko,S Sebastian,AIV Benatar,1,0,,,,,,"",""
+ball,1,16.2,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,1,,,,1,,"",""
+ball,1,16.3,Croatia,Y Korniienko,S Sebastian,AIV Benatar,3,0,,,,,,"",""
+ball,1,16.4,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,0,,,,,,"",""
+ball,1,16.5,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,1,1,,,,,"",""
+ball,1,16.6,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,0,,,,,,"",""
+ball,1,16.7,Croatia,S Sebastian,Y Korniienko,AIV Benatar,0,0,,,,,,lbw,S Sebastian
+ball,2,0.1,Gibraltar,AIV Benatar,N Caruana,E Vukusic,1,0,,,,,,"",""
+ball,2,0.2,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,0.3,Gibraltar,N Caruana,AIV Benatar,E Vukusic,1,0,,,,,,"",""
+ball,2,0.4,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,2,2,,,,,"",""
+ball,2,0.5,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,0.6,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,0.7,Gibraltar,N Caruana,AIV Benatar,E Vukusic,2,0,,,,,,"",""
+ball,2,1.1,Gibraltar,AIV Benatar,N Caruana,H Leko,0,1,1,,,,,"",""
+ball,2,1.2,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,1.3,Gibraltar,AIV Benatar,N Caruana,H Leko,2,0,,,,,,"",""
+ball,2,1.4,Gibraltar,AIV Benatar,N Caruana,H Leko,0,1,1,,,,,"",""
+ball,2,1.5,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,1.6,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,1.7,Gibraltar,AIV Benatar,N Caruana,H Leko,1,0,,,,,,"",""
+ball,2,1.8,Gibraltar,N Caruana,AIV Benatar,H Leko,0,1,1,,,,,"",""
+ball,2,1.9,Gibraltar,N Caruana,AIV Benatar,H Leko,0,0,,,,,,"",""
+ball,2,2.1,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,0,,,,,,"",""
+ball,2,2.2,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,0,,,,,,"",""
+ball,2,2.3,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,1,,1,,,,"",""
+ball,2,2.4,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,0,,,,,,"",""
+ball,2,2.5,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,0,,,,,,"",""
+ball,2,2.6,Gibraltar,AIV Benatar,N Caruana,E Vukusic,1,0,,,,,,"",""
+ball,2,2.7,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,3.1,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,3.2,Gibraltar,AIV Benatar,N Caruana,H Leko,0,1,1,,,,,"",""
+ball,2,3.3,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,3.4,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,3.5,Gibraltar,AIV Benatar,N Caruana,H Leko,1,0,,,,,,"",""
+ball,2,3.6,Gibraltar,N Caruana,AIV Benatar,H Leko,0,0,,,,,,"",""
+ball,2,3.7,Gibraltar,N Caruana,AIV Benatar,H Leko,1,0,,,,,,"",""
+ball,2,4.1,Gibraltar,N Caruana,AIV Benatar,L Krvaric,0,2,2,,,,,"",""
+ball,2,4.2,Gibraltar,AIV Benatar,N Caruana,L Krvaric,0,0,,,,,,"",""
+ball,2,4.3,Gibraltar,AIV Benatar,N Caruana,L Krvaric,0,0,,,,,,"",""
+ball,2,4.4,Gibraltar,AIV Benatar,N Caruana,L Krvaric,1,0,,,,,,"",""
+ball,2,4.5,Gibraltar,N Caruana,AIV Benatar,L Krvaric,2,0,,,,,,"",""
+ball,2,4.6,Gibraltar,N Caruana,AIV Benatar,L Krvaric,0,1,1,,,,,"",""
+ball,2,4.7,Gibraltar,N Caruana,AIV Benatar,L Krvaric,0,0,,,,,,"",""
+ball,2,4.8,Gibraltar,N Caruana,AIV Benatar,L Krvaric,4,0,,,,,,"",""
+ball,2,5.1,Gibraltar,AIV Benatar,N Caruana,H Leko,4,0,,,,,,"",""
+ball,2,5.2,Gibraltar,AIV Benatar,N Caruana,H Leko,0,1,1,,,,,"",""
+ball,2,5.3,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,5.4,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,5.5,Gibraltar,AIV Benatar,N Caruana,H Leko,1,0,,,,,,"",""
+ball,2,5.6,Gibraltar,N Caruana,AIV Benatar,H Leko,1,0,,,,,,"",""
+ball,2,5.7,Gibraltar,AIV Benatar,N Caruana,H Leko,0,0,,,,,,"",""
+ball,2,6.1,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,6.2,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,6.3,Gibraltar,N Caruana,AIV Benatar,E Vukusic,1,0,,,,,,"",""
+ball,2,6.4,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,0,,,,,,"",""
+ball,2,6.5,Gibraltar,AIV Benatar,N Caruana,E Vukusic,2,0,,,,,,"",""
+ball,2,6.6,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,0,,,,,,"",""
+ball,2,7.1,Gibraltar,N Caruana,AIV Benatar,P Senjug,1,0,,,,,,"",""
+ball,2,7.2,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,2,2,,,,,"",""
+ball,2,7.3,Gibraltar,N Caruana,AIV Benatar,P Senjug,1,0,,,,,,"",""
+ball,2,7.4,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,0,,,,,,"",""
+ball,2,7.5,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,0,,,,,,"",""
+ball,2,7.6,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,0,,,,,,"",""
+ball,2,7.7,Gibraltar,AIV Benatar,N Caruana,P Senjug,1,0,,,,,,"",""
+ball,2,8.1,Gibraltar,AIV Benatar,N Caruana,E Vukusic,0,0,,,,,,"",""
+ball,2,8.2,Gibraltar,AIV Benatar,N Caruana,E Vukusic,1,0,,,,,,"",""
+ball,2,8.3,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,8.4,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,8.5,Gibraltar,N Caruana,AIV Benatar,E Vukusic,0,0,,,,,,"",""
+ball,2,8.6,Gibraltar,N Caruana,AIV Benatar,E Vukusic,1,0,,,,,,"",""
+ball,2,9.1,Gibraltar,N Caruana,AIV Benatar,P Senjug,1,0,,,,,,"",""
+ball,2,9.2,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,0,,,,,,"",""
+ball,2,9.3,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,0,,,,,,"",""
+ball,2,9.4,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,0,,,,,,"",""
+ball,2,9.5,Gibraltar,AIV Benatar,N Caruana,P Senjug,2,0,,,,,,"",""
+ball,2,9.6,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,0,,,,,,"",""
+ball,2,10.1,Gibraltar,N Caruana,AIV Benatar,L Krvaric,1,0,,,,,,"",""
+ball,2,10.2,Gibraltar,AIV Benatar,N Caruana,L Krvaric,1,0,,,,,,"",""
+ball,2,10.3,Gibraltar,N Caruana,AIV Benatar,L Krvaric,0,0,,,,,,"",""
+ball,2,10.4,Gibraltar,N Caruana,AIV Benatar,L Krvaric,3,0,,,,,,"",""
+ball,2,10.5,Gibraltar,AIV Benatar,N Caruana,L Krvaric,1,0,,,,,,"",""
+ball,2,10.6,Gibraltar,N Caruana,AIV Benatar,L Krvaric,3,0,,,,,,"",""
+ball,2,11.1,Gibraltar,N Caruana,AIV Benatar,P Senjug,0,0,,,,,,"",""
+ball,2,11.2,Gibraltar,N Caruana,AIV Benatar,P Senjug,0,1,1,,,,,"",""
+ball,2,11.3,Gibraltar,N Caruana,AIV Benatar,P Senjug,0,1,1,,,,,"",""
+ball,2,11.4,Gibraltar,N Caruana,AIV Benatar,P Senjug,1,0,,,,,,"",""
+ball,2,11.5,Gibraltar,AIV Benatar,N Caruana,P Senjug,0,1,,,1,,,"",""
+ball,2,11.6,Gibraltar,N Caruana,AIV Benatar,P Senjug,0,2,2,,,,,"",""
+ball,2,11.7,Gibraltar,AIV Benatar,N Caruana,P Senjug,1,0,,,,,,"",""

@@ -1,0 +1,330 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Italy
+info,gender,female
+info,season,2025
+info,date,2025/08/20
+info,event,ICC Women's T20 World Cup Europe Division 1 Qualifier
+info,match_number,1
+info,venue,"Hazelaarweg, Rotterdam"
+info,city,Rotterdam
+info,toss_winner,Italy
+info,toss_decision,field
+info,player_of_match,B de Leede
+info,umpire,Aidan Seaver
+info,umpire,J Jensen
+info,reserve_umpire,Rizwan Akram
+info,match_referee,GH Pienaar
+info,winner,Netherlands
+info,winner_runs,43
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,MIW van den Raad
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,MM Dekeling
+info,player,Netherlands,I van der Woning
+info,player,Netherlands,S Siegers
+info,player,Netherlands,C de Lange
+info,player,Italy,M Rathnayake
+info,player,Italy,D Nanayakkara
+info,player,Italy,A Kontopirakis
+info,player,Italy,EL Bartram
+info,player,Italy,C Piparo
+info,player,Italy,Ilenia Sims
+info,player,Italy,AS Wikman
+info,player,Italy,C Mahamalage
+info,player,Italy,ECB Moore
+info,player,Italy,S Kanankege
+info,player,Italy,Amaya Rajapaksha
+info,registry,people,A Kontopirakis,4f05f64e
+info,registry,people,AS Wikman,a3b7bcbd
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,Amaya Rajapaksha,9b52731d
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,C Piparo,276f3dde
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,ECB Moore,d0ff93a9
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,F Overdijk,022745d5
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,I van der Woning,5aa8574b
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,Ilenia Sims,03c98aa6
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,MIW van den Raad,dead3b10
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,R Rijke,42e4b276
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Kanankege,01815edc
+info,registry,people,S Siegers,9a58f2c8
+ball,1,0.1,Netherlands,HDJ Siegers,P Molkenboer,C Mahamalage,1,0,,,,,,"",""
+ball,1,0.2,Netherlands,P Molkenboer,HDJ Siegers,C Mahamalage,0,0,,,,,,"",""
+ball,1,0.3,Netherlands,P Molkenboer,HDJ Siegers,C Mahamalage,1,0,,,,,,"",""
+ball,1,0.4,Netherlands,HDJ Siegers,P Molkenboer,C Mahamalage,0,0,,,,,,caught,HDJ Siegers
+ball,1,0.5,Netherlands,B de Leede,P Molkenboer,C Mahamalage,0,0,,,,,,"",""
+ball,1,0.6,Netherlands,B de Leede,P Molkenboer,C Mahamalage,1,0,,,,,,"",""
+ball,1,1.1,Netherlands,B de Leede,P Molkenboer,S Kanankege,0,1,1,,,,,"",""
+ball,1,1.2,Netherlands,B de Leede,P Molkenboer,S Kanankege,1,0,,,,,,"",""
+ball,1,1.3,Netherlands,P Molkenboer,B de Leede,S Kanankege,0,0,,,,,,"",""
+ball,1,1.4,Netherlands,P Molkenboer,B de Leede,S Kanankege,1,0,,,,,,"",""
+ball,1,1.5,Netherlands,B de Leede,P Molkenboer,S Kanankege,1,1,,1,,,,"",""
+ball,1,1.6,Netherlands,P Molkenboer,B de Leede,S Kanankege,0,0,,,,,,"",""
+ball,1,1.7,Netherlands,P Molkenboer,B de Leede,S Kanankege,0,1,1,,,,,"",""
+ball,1,1.8,Netherlands,P Molkenboer,B de Leede,S Kanankege,1,0,,,,,,"",""
+ball,1,1.9,Netherlands,B de Leede,P Molkenboer,S Kanankege,4,0,,,,,,"",""
+ball,1,2.1,Netherlands,P Molkenboer,B de Leede,C Mahamalage,0,0,,,,,,"",""
+ball,1,2.2,Netherlands,P Molkenboer,B de Leede,C Mahamalage,1,0,,,,,,"",""
+ball,1,2.3,Netherlands,B de Leede,P Molkenboer,C Mahamalage,0,0,,,,,,"",""
+ball,1,2.4,Netherlands,B de Leede,P Molkenboer,C Mahamalage,1,0,,,,,,"",""
+ball,1,2.5,Netherlands,P Molkenboer,B de Leede,C Mahamalage,0,0,,,,,,"",""
+ball,1,2.6,Netherlands,P Molkenboer,B de Leede,C Mahamalage,0,0,,,,,,"",""
+ball,1,3.1,Netherlands,B de Leede,P Molkenboer,S Kanankege,1,0,,,,,,"",""
+ball,1,3.2,Netherlands,P Molkenboer,B de Leede,S Kanankege,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,P Molkenboer,B de Leede,S Kanankege,1,0,,,,,,"",""
+ball,1,3.4,Netherlands,B de Leede,P Molkenboer,S Kanankege,1,0,,,,,,"",""
+ball,1,3.5,Netherlands,P Molkenboer,B de Leede,S Kanankege,0,0,,,,,,"",""
+ball,1,3.6,Netherlands,P Molkenboer,B de Leede,S Kanankege,4,0,,,,,,"",""
+ball,1,4.1,Netherlands,B de Leede,P Molkenboer,C Mahamalage,4,0,,,,,,"",""
+ball,1,4.2,Netherlands,B de Leede,P Molkenboer,C Mahamalage,0,0,,,,,,"",""
+ball,1,4.3,Netherlands,B de Leede,P Molkenboer,C Mahamalage,1,0,,,,,,"",""
+ball,1,4.4,Netherlands,P Molkenboer,B de Leede,C Mahamalage,0,0,,,,,,"",""
+ball,1,4.5,Netherlands,P Molkenboer,B de Leede,C Mahamalage,2,0,,,,,,"",""
+ball,1,4.6,Netherlands,P Molkenboer,B de Leede,C Mahamalage,0,0,,,,,,"",""
+ball,1,5.1,Netherlands,B de Leede,P Molkenboer,S Kanankege,2,0,,,,,,"",""
+ball,1,5.2,Netherlands,B de Leede,P Molkenboer,S Kanankege,0,0,,,,,,"",""
+ball,1,5.3,Netherlands,B de Leede,P Molkenboer,S Kanankege,1,0,,,,,,"",""
+ball,1,5.4,Netherlands,P Molkenboer,B de Leede,S Kanankege,0,0,,,,,,bowled,P Molkenboer
+ball,1,5.5,Netherlands,R Rijke,B de Leede,S Kanankege,0,1,1,,,,,"",""
+ball,1,5.6,Netherlands,R Rijke,B de Leede,S Kanankege,0,1,1,,,,,"",""
+ball,1,5.7,Netherlands,R Rijke,B de Leede,S Kanankege,0,1,1,,,,,"",""
+ball,1,5.8,Netherlands,R Rijke,B de Leede,S Kanankege,0,1,1,,,,,"",""
+ball,1,5.9,Netherlands,R Rijke,B de Leede,S Kanankege,0,0,,,,,,"",""
+ball,1,5.10,Netherlands,R Rijke,B de Leede,S Kanankege,2,0,,,,,,"",""
+ball,1,6.1,Netherlands,B de Leede,R Rijke,Ilenia Sims,1,0,,,,,,"",""
+ball,1,6.2,Netherlands,R Rijke,B de Leede,Ilenia Sims,3,0,,,,,,"",""
+ball,1,6.3,Netherlands,B de Leede,R Rijke,Ilenia Sims,0,0,,,,,,"",""
+ball,1,6.4,Netherlands,B de Leede,R Rijke,Ilenia Sims,4,0,,,,,,"",""
+ball,1,6.5,Netherlands,B de Leede,R Rijke,Ilenia Sims,4,0,,,,,,"",""
+ball,1,6.6,Netherlands,B de Leede,R Rijke,Ilenia Sims,1,0,,,,,,"",""
+ball,1,7.1,Netherlands,B de Leede,R Rijke,S Kanankege,2,0,,,,,,"",""
+ball,1,7.2,Netherlands,B de Leede,R Rijke,S Kanankege,0,0,,,,,,"",""
+ball,1,7.3,Netherlands,B de Leede,R Rijke,S Kanankege,0,0,,,,,,"",""
+ball,1,7.4,Netherlands,B de Leede,R Rijke,S Kanankege,2,0,,,,,,"",""
+ball,1,7.5,Netherlands,B de Leede,R Rijke,S Kanankege,2,0,,,,,,"",""
+ball,1,7.6,Netherlands,B de Leede,R Rijke,S Kanankege,1,0,,,,,,"",""
+ball,1,8.1,Netherlands,B de Leede,R Rijke,C Mahamalage,1,0,,,,,,"",""
+ball,1,8.2,Netherlands,R Rijke,B de Leede,C Mahamalage,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,B de Leede,R Rijke,C Mahamalage,0,0,,,,,,"",""
+ball,1,8.4,Netherlands,B de Leede,R Rijke,C Mahamalage,0,0,,,,,,"",""
+ball,1,8.5,Netherlands,B de Leede,R Rijke,C Mahamalage,2,0,,,,,,"",""
+ball,1,8.6,Netherlands,B de Leede,R Rijke,C Mahamalage,1,0,,,,,,"",""
+ball,1,9.1,Netherlands,B de Leede,R Rijke,Ilenia Sims,4,0,,,,,,"",""
+ball,1,9.2,Netherlands,B de Leede,R Rijke,Ilenia Sims,1,0,,,,,,"",""
+ball,1,9.3,Netherlands,R Rijke,B de Leede,Ilenia Sims,4,0,,,,,,"",""
+ball,1,9.4,Netherlands,R Rijke,B de Leede,Ilenia Sims,2,0,,,,,,"",""
+ball,1,9.5,Netherlands,R Rijke,B de Leede,Ilenia Sims,1,0,,,,,,"",""
+ball,1,9.6,Netherlands,B de Leede,R Rijke,Ilenia Sims,1,0,,,,,,"",""
+ball,1,10.1,Netherlands,B de Leede,R Rijke,ECB Moore,0,0,,,,,,"",""
+ball,1,10.2,Netherlands,B de Leede,R Rijke,ECB Moore,0,0,,,,,,"",""
+ball,1,10.3,Netherlands,B de Leede,R Rijke,ECB Moore,1,0,,,,,,"",""
+ball,1,10.4,Netherlands,R Rijke,B de Leede,ECB Moore,0,0,,,,,,"",""
+ball,1,10.5,Netherlands,R Rijke,B de Leede,ECB Moore,2,0,,,,,,"",""
+ball,1,10.6,Netherlands,R Rijke,B de Leede,ECB Moore,4,0,,,,,,"",""
+ball,1,11.1,Netherlands,B de Leede,R Rijke,A Kontopirakis,1,0,,,,,,"",""
+ball,1,11.2,Netherlands,R Rijke,B de Leede,A Kontopirakis,2,0,,,,,,"",""
+ball,1,11.3,Netherlands,R Rijke,B de Leede,A Kontopirakis,1,0,,,,,,"",""
+ball,1,11.4,Netherlands,B de Leede,R Rijke,A Kontopirakis,0,1,1,,,,,"",""
+ball,1,11.5,Netherlands,B de Leede,R Rijke,A Kontopirakis,0,0,,,,,,"",""
+ball,1,11.6,Netherlands,B de Leede,R Rijke,A Kontopirakis,1,0,,,,,,"",""
+ball,1,11.7,Netherlands,R Rijke,B de Leede,A Kontopirakis,0,1,1,,,,,"",""
+ball,1,11.8,Netherlands,R Rijke,B de Leede,A Kontopirakis,0,0,,,,,,"",""
+ball,1,12.1,Netherlands,B de Leede,R Rijke,ECB Moore,4,0,,,,,,"",""
+ball,1,12.2,Netherlands,B de Leede,R Rijke,ECB Moore,0,0,,,,,,bowled,B de Leede
+ball,1,12.3,Netherlands,F Overdijk,R Rijke,ECB Moore,1,0,,,,,,"",""
+ball,1,12.4,Netherlands,R Rijke,F Overdijk,ECB Moore,0,0,,,,,,"",""
+ball,1,12.5,Netherlands,R Rijke,F Overdijk,ECB Moore,2,0,,,,,,"",""
+ball,1,12.6,Netherlands,R Rijke,F Overdijk,ECB Moore,4,0,,,,,,"",""
+ball,1,13.1,Netherlands,F Overdijk,R Rijke,A Kontopirakis,2,0,,,,,,"",""
+ball,1,13.2,Netherlands,F Overdijk,R Rijke,A Kontopirakis,1,0,,,,,,"",""
+ball,1,13.3,Netherlands,R Rijke,F Overdijk,A Kontopirakis,1,0,,,,,,"",""
+ball,1,13.4,Netherlands,F Overdijk,R Rijke,A Kontopirakis,0,0,,,,,,"",""
+ball,1,13.5,Netherlands,F Overdijk,R Rijke,A Kontopirakis,0,0,,,,,,lbw,F Overdijk
+ball,1,13.6,Netherlands,MIW van den Raad,R Rijke,A Kontopirakis,4,0,,,,,,"",""
+ball,1,14.1,Netherlands,R Rijke,MIW van den Raad,ECB Moore,0,0,,,,,,bowled,R Rijke
+ball,1,14.2,Netherlands,IJR Zwilling,MIW van den Raad,ECB Moore,0,1,1,,,,,"",""
+ball,1,14.3,Netherlands,IJR Zwilling,MIW van den Raad,ECB Moore,1,0,,,,,,"",""
+ball,1,14.4,Netherlands,MIW van den Raad,IJR Zwilling,ECB Moore,0,0,,,,,,"",""
+ball,1,14.5,Netherlands,MIW van den Raad,IJR Zwilling,ECB Moore,1,0,,,,,,"",""
+ball,1,14.6,Netherlands,IJR Zwilling,MIW van den Raad,ECB Moore,0,0,,,,,,"",""
+ball,1,14.7,Netherlands,IJR Zwilling,MIW van den Raad,ECB Moore,3,0,,,,,,"",""
+ball,1,15.1,Netherlands,IJR Zwilling,MIW van den Raad,A Kontopirakis,0,1,1,,,,,"",""
+ball,1,15.2,Netherlands,IJR Zwilling,MIW van den Raad,A Kontopirakis,0,0,,,,,,"",""
+ball,1,15.3,Netherlands,IJR Zwilling,MIW van den Raad,A Kontopirakis,0,1,,,,1,,"",""
+ball,1,15.4,Netherlands,MIW van den Raad,IJR Zwilling,A Kontopirakis,0,0,,,,,,"",""
+ball,1,15.5,Netherlands,MIW van den Raad,IJR Zwilling,A Kontopirakis,1,0,,,,,,"",""
+ball,1,15.6,Netherlands,IJR Zwilling,MIW van den Raad,A Kontopirakis,1,0,,,,,,"",""
+ball,1,15.7,Netherlands,MIW van den Raad,IJR Zwilling,A Kontopirakis,0,0,,,,,,"",""
+ball,1,16.1,Netherlands,IJR Zwilling,MIW van den Raad,AS Wikman,1,0,,,,,,"",""
+ball,1,16.2,Netherlands,MIW van den Raad,IJR Zwilling,AS Wikman,0,0,,,,,,"",""
+ball,1,16.3,Netherlands,MIW van den Raad,IJR Zwilling,AS Wikman,4,0,,,,,,"",""
+ball,1,16.4,Netherlands,MIW van den Raad,IJR Zwilling,AS Wikman,4,0,,,,,,"",""
+ball,1,16.5,Netherlands,MIW van den Raad,IJR Zwilling,AS Wikman,2,0,,,,,,"",""
+ball,1,16.6,Netherlands,MIW van den Raad,IJR Zwilling,AS Wikman,0,1,1,,,,,"",""
+ball,1,16.7,Netherlands,MIW van den Raad,IJR Zwilling,AS Wikman,1,0,,,,,,"",""
+ball,1,17.1,Netherlands,MIW van den Raad,IJR Zwilling,A Kontopirakis,1,0,,,,,,"",""
+ball,1,17.2,Netherlands,IJR Zwilling,MIW van den Raad,A Kontopirakis,2,0,,,,,,"",""
+ball,1,17.3,Netherlands,IJR Zwilling,MIW van den Raad,A Kontopirakis,0,0,,,,,,"",""
+ball,1,17.4,Netherlands,IJR Zwilling,MIW van den Raad,A Kontopirakis,0,1,,,,1,,"",""
+ball,1,17.5,Netherlands,MIW van den Raad,IJR Zwilling,A Kontopirakis,2,0,,,,,,"",""
+ball,1,17.6,Netherlands,MIW van den Raad,IJR Zwilling,A Kontopirakis,0,0,,,,,,"",""
+ball,1,18.1,Netherlands,IJR Zwilling,MIW van den Raad,ECB Moore,1,0,,,,,,run out,MIW van den Raad
+ball,1,18.2,Netherlands,MM Dekeling,IJR Zwilling,ECB Moore,0,0,,,,,,"",""
+ball,1,18.3,Netherlands,MM Dekeling,IJR Zwilling,ECB Moore,1,0,,,,,,"",""
+ball,1,18.4,Netherlands,IJR Zwilling,MM Dekeling,ECB Moore,4,0,,,,,,"",""
+ball,1,18.5,Netherlands,IJR Zwilling,MM Dekeling,ECB Moore,2,0,,,,,,"",""
+ball,1,18.6,Netherlands,IJR Zwilling,MM Dekeling,ECB Moore,1,0,,,,,,"",""
+ball,1,19.1,Netherlands,IJR Zwilling,MM Dekeling,AS Wikman,2,0,,,,,,"",""
+ball,1,19.2,Netherlands,IJR Zwilling,MM Dekeling,AS Wikman,2,0,,,,,,"",""
+ball,1,19.3,Netherlands,IJR Zwilling,MM Dekeling,AS Wikman,2,0,,,,,,"",""
+ball,1,19.4,Netherlands,IJR Zwilling,MM Dekeling,AS Wikman,2,0,,,,,,"",""
+ball,1,19.5,Netherlands,IJR Zwilling,MM Dekeling,AS Wikman,1,0,,,,,,"",""
+ball,1,19.6,Netherlands,MM Dekeling,IJR Zwilling,AS Wikman,0,0,,,,,,run out,MM Dekeling
+ball,2,0.1,Italy,M Rathnayake,D Nanayakkara,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.2,Italy,M Rathnayake,D Nanayakkara,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.3,Italy,M Rathnayake,D Nanayakkara,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.4,Italy,M Rathnayake,D Nanayakkara,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.5,Italy,M Rathnayake,D Nanayakkara,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.6,Italy,M Rathnayake,D Nanayakkara,IJR Zwilling,0,0,,,,,,"",""
+ball,2,1.1,Italy,D Nanayakkara,M Rathnayake,HDJ Siegers,1,0,,,,,,"",""
+ball,2,1.2,Italy,M Rathnayake,D Nanayakkara,HDJ Siegers,0,0,,,,,,caught,M Rathnayake
+ball,2,1.3,Italy,A Kontopirakis,D Nanayakkara,HDJ Siegers,0,0,,,,,,"",""
+ball,2,1.4,Italy,A Kontopirakis,D Nanayakkara,HDJ Siegers,1,0,,,,,,"",""
+ball,2,1.5,Italy,D Nanayakkara,A Kontopirakis,HDJ Siegers,0,0,,,,,,"",""
+ball,2,1.6,Italy,D Nanayakkara,A Kontopirakis,HDJ Siegers,0,0,,,,,,"",""
+ball,2,2.1,Italy,A Kontopirakis,D Nanayakkara,IJR Zwilling,2,0,,,,,,"",""
+ball,2,2.2,Italy,A Kontopirakis,D Nanayakkara,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.3,Italy,A Kontopirakis,D Nanayakkara,IJR Zwilling,2,0,,,,,,"",""
+ball,2,2.4,Italy,A Kontopirakis,D Nanayakkara,IJR Zwilling,1,0,,,,,,"",""
+ball,2,2.5,Italy,D Nanayakkara,A Kontopirakis,IJR Zwilling,0,0,,,,,,lbw,D Nanayakkara
+ball,2,2.6,Italy,EL Bartram,A Kontopirakis,IJR Zwilling,4,0,,,,,,"",""
+ball,2,3.1,Italy,A Kontopirakis,EL Bartram,R Rijke,0,0,,,,,,"",""
+ball,2,3.2,Italy,A Kontopirakis,EL Bartram,R Rijke,0,1,1,,,,,"",""
+ball,2,3.3,Italy,A Kontopirakis,EL Bartram,R Rijke,0,0,,,,,,"",""
+ball,2,3.4,Italy,A Kontopirakis,EL Bartram,R Rijke,1,0,,,,,,"",""
+ball,2,3.5,Italy,EL Bartram,A Kontopirakis,R Rijke,1,0,,,,,,"",""
+ball,2,3.6,Italy,A Kontopirakis,EL Bartram,R Rijke,1,0,,,,,,"",""
+ball,2,3.7,Italy,EL Bartram,A Kontopirakis,R Rijke,0,0,,,,,,"",""
+ball,2,4.1,Italy,A Kontopirakis,EL Bartram,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.2,Italy,A Kontopirakis,EL Bartram,IJR Zwilling,1,0,,,,,,"",""
+ball,2,4.3,Italy,EL Bartram,A Kontopirakis,IJR Zwilling,4,0,,,,,,"",""
+ball,2,4.4,Italy,EL Bartram,A Kontopirakis,IJR Zwilling,0,0,,,,,,caught,EL Bartram
+ball,2,4.5,Italy,C Piparo,A Kontopirakis,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.6,Italy,C Piparo,A Kontopirakis,IJR Zwilling,0,0,,,,,,"",""
+ball,2,5.1,Italy,A Kontopirakis,C Piparo,HDJ Siegers,0,0,,,,,,"",""
+ball,2,5.2,Italy,A Kontopirakis,C Piparo,HDJ Siegers,1,0,,,,,,"",""
+ball,2,5.3,Italy,C Piparo,A Kontopirakis,HDJ Siegers,0,0,,,,,,"",""
+ball,2,5.4,Italy,C Piparo,A Kontopirakis,HDJ Siegers,0,0,,,,,,"",""
+ball,2,5.5,Italy,C Piparo,A Kontopirakis,HDJ Siegers,1,0,,,,,,"",""
+ball,2,5.6,Italy,A Kontopirakis,C Piparo,HDJ Siegers,1,0,,,,,,"",""
+ball,2,6.1,Italy,A Kontopirakis,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,6.2,Italy,A Kontopirakis,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,6.3,Italy,A Kontopirakis,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,6.4,Italy,A Kontopirakis,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,6.5,Italy,A Kontopirakis,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,6.6,Italy,A Kontopirakis,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,7.1,Italy,C Piparo,Ilenia Sims,I van der Woning,0,0,,,,,,"",""
+ball,2,7.2,Italy,C Piparo,Ilenia Sims,I van der Woning,0,1,1,,,,,"",""
+ball,2,7.3,Italy,C Piparo,Ilenia Sims,I van der Woning,0,1,1,,,,,"",""
+ball,2,7.4,Italy,C Piparo,Ilenia Sims,I van der Woning,1,0,,,,,,"",""
+ball,2,7.5,Italy,Ilenia Sims,C Piparo,I van der Woning,0,0,,,,,,"",""
+ball,2,7.6,Italy,Ilenia Sims,C Piparo,I van der Woning,1,0,,,,,,"",""
+ball,2,7.7,Italy,C Piparo,Ilenia Sims,I van der Woning,4,0,,,,,,"",""
+ball,2,7.8,Italy,C Piparo,Ilenia Sims,I van der Woning,0,1,1,,,,,"",""
+ball,2,7.9,Italy,C Piparo,Ilenia Sims,I van der Woning,0,0,,,,,,"",""
+ball,2,8.1,Italy,Ilenia Sims,C Piparo,C de Lange,2,0,,,,,,"",""
+ball,2,8.2,Italy,Ilenia Sims,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,8.3,Italy,Ilenia Sims,C Piparo,C de Lange,0,1,1,,,,,"",""
+ball,2,8.4,Italy,Ilenia Sims,C Piparo,C de Lange,1,0,,,,,,"",""
+ball,2,8.5,Italy,C Piparo,Ilenia Sims,C de Lange,1,0,,,,,,"",""
+ball,2,8.6,Italy,Ilenia Sims,C Piparo,C de Lange,0,0,,,,,,"",""
+ball,2,8.7,Italy,Ilenia Sims,C Piparo,C de Lange,0,1,1,,,,,"",""
+ball,2,8.8,Italy,Ilenia Sims,C Piparo,C de Lange,1,0,,,,,,"",""
+ball,2,9.1,Italy,Ilenia Sims,C Piparo,S Siegers,1,0,,,,,,"",""
+ball,2,9.2,Italy,C Piparo,Ilenia Sims,S Siegers,0,0,,,,,,"",""
+ball,2,9.3,Italy,C Piparo,Ilenia Sims,S Siegers,1,0,,,,,,"",""
+ball,2,9.4,Italy,Ilenia Sims,C Piparo,S Siegers,1,0,,,,,,"",""
+ball,2,9.5,Italy,C Piparo,Ilenia Sims,S Siegers,2,1,,1,,,,"",""
+ball,2,9.6,Italy,C Piparo,Ilenia Sims,S Siegers,0,0,,,,,,"",""
+ball,2,9.7,Italy,C Piparo,Ilenia Sims,S Siegers,1,0,,,,,,"",""
+ball,2,10.1,Italy,C Piparo,Ilenia Sims,C de Lange,1,0,,,,,,"",""
+ball,2,10.2,Italy,Ilenia Sims,C Piparo,C de Lange,1,0,,,,,,"",""
+ball,2,10.3,Italy,C Piparo,Ilenia Sims,C de Lange,1,0,,,,,,"",""
+ball,2,10.4,Italy,Ilenia Sims,C Piparo,C de Lange,1,0,,,,,,"",""
+ball,2,10.5,Italy,C Piparo,Ilenia Sims,C de Lange,0,0,,,,,,"",""
+ball,2,10.6,Italy,C Piparo,Ilenia Sims,C de Lange,1,0,,,,,,"",""
+ball,2,11.1,Italy,C Piparo,Ilenia Sims,R Rijke,1,0,,,,,,"",""
+ball,2,11.2,Italy,Ilenia Sims,C Piparo,R Rijke,1,0,,,,,,"",""
+ball,2,11.3,Italy,C Piparo,Ilenia Sims,R Rijke,4,0,,,,,,"",""
+ball,2,11.4,Italy,C Piparo,Ilenia Sims,R Rijke,2,0,,,,,,"",""
+ball,2,11.5,Italy,C Piparo,Ilenia Sims,R Rijke,1,0,,,,,,"",""
+ball,2,11.6,Italy,Ilenia Sims,C Piparo,R Rijke,1,0,,,,,,"",""
+ball,2,12.1,Italy,Ilenia Sims,C Piparo,C de Lange,1,0,,,,,,"",""
+ball,2,12.2,Italy,C Piparo,Ilenia Sims,C de Lange,0,0,,,,,,caught,C Piparo
+ball,2,12.3,Italy,AS Wikman,Ilenia Sims,C de Lange,1,0,,,,,,"",""
+ball,2,12.4,Italy,Ilenia Sims,AS Wikman,C de Lange,1,0,,,,,,"",""
+ball,2,12.5,Italy,AS Wikman,Ilenia Sims,C de Lange,0,0,,,,,,"",""
+ball,2,12.6,Italy,AS Wikman,Ilenia Sims,C de Lange,1,0,,,,,,"",""
+ball,2,13.1,Italy,AS Wikman,Ilenia Sims,HDJ Siegers,1,0,,,,,,"",""
+ball,2,13.2,Italy,Ilenia Sims,AS Wikman,HDJ Siegers,1,0,,,,,,"",""
+ball,2,13.3,Italy,AS Wikman,Ilenia Sims,HDJ Siegers,0,0,,,,,,"",""
+ball,2,13.4,Italy,AS Wikman,Ilenia Sims,HDJ Siegers,1,0,,,,,,"",""
+ball,2,13.5,Italy,Ilenia Sims,AS Wikman,HDJ Siegers,1,0,,,,,,"",""
+ball,2,13.6,Italy,AS Wikman,Ilenia Sims,HDJ Siegers,1,0,,,,,,"",""
+ball,2,14.1,Italy,AS Wikman,Ilenia Sims,S Siegers,0,1,1,,,,,"",""
+ball,2,14.2,Italy,AS Wikman,Ilenia Sims,S Siegers,1,0,,,,,,"",""
+ball,2,14.3,Italy,Ilenia Sims,AS Wikman,S Siegers,1,0,,,,,,"",""
+ball,2,14.4,Italy,AS Wikman,Ilenia Sims,S Siegers,2,1,,1,,,,"",""
+ball,2,14.5,Italy,AS Wikman,Ilenia Sims,S Siegers,4,0,,,,,,"",""
+ball,2,14.6,Italy,AS Wikman,Ilenia Sims,S Siegers,2,0,,,,,,"",""
+ball,2,14.7,Italy,AS Wikman,Ilenia Sims,S Siegers,0,0,,,,,,"",""
+ball,2,14.8,Italy,AS Wikman,Ilenia Sims,S Siegers,0,0,,,,,,"",""
+ball,2,15.1,Italy,Ilenia Sims,AS Wikman,I van der Woning,0,0,,,,,,"",""
+ball,2,15.2,Italy,Ilenia Sims,AS Wikman,I van der Woning,1,0,,,,,,"",""
+ball,2,15.3,Italy,AS Wikman,Ilenia Sims,I van der Woning,4,0,,,,,,"",""
+ball,2,15.4,Italy,AS Wikman,Ilenia Sims,I van der Woning,0,0,,,,,,"",""
+ball,2,15.5,Italy,AS Wikman,Ilenia Sims,I van der Woning,0,0,,,,,,"",""
+ball,2,15.6,Italy,AS Wikman,Ilenia Sims,I van der Woning,0,0,,,,,,"",""
+ball,2,16.1,Italy,Ilenia Sims,AS Wikman,IJR Zwilling,0,0,,,,,,"",""
+ball,2,16.2,Italy,Ilenia Sims,AS Wikman,IJR Zwilling,1,0,,,,,,"",""
+ball,2,16.3,Italy,AS Wikman,Ilenia Sims,IJR Zwilling,2,0,,,,,,"",""
+ball,2,16.4,Italy,AS Wikman,Ilenia Sims,IJR Zwilling,0,0,,,,,,"",""
+ball,2,16.5,Italy,AS Wikman,Ilenia Sims,IJR Zwilling,2,0,,,,,,"",""
+ball,2,16.6,Italy,AS Wikman,Ilenia Sims,IJR Zwilling,4,0,,,,,,"",""
+ball,2,17.1,Italy,Ilenia Sims,AS Wikman,S Siegers,0,0,,,,,,"",""
+ball,2,17.2,Italy,Ilenia Sims,AS Wikman,S Siegers,1,0,,,,,,"",""
+ball,2,17.3,Italy,AS Wikman,Ilenia Sims,S Siegers,0,0,,,,,,"",""
+ball,2,17.4,Italy,AS Wikman,Ilenia Sims,S Siegers,2,0,,,,,,"",""
+ball,2,17.5,Italy,AS Wikman,Ilenia Sims,S Siegers,1,0,,,,,,"",""
+ball,2,17.6,Italy,Ilenia Sims,AS Wikman,S Siegers,0,0,,,,,,caught,Ilenia Sims
+ball,2,18.1,Italy,AS Wikman,C Mahamalage,HDJ Siegers,2,0,,,,,,"",""
+ball,2,18.2,Italy,AS Wikman,C Mahamalage,HDJ Siegers,0,1,1,,,,,"",""
+ball,2,18.3,Italy,AS Wikman,C Mahamalage,HDJ Siegers,1,0,,,,,,"",""
+ball,2,18.4,Italy,C Mahamalage,AS Wikman,HDJ Siegers,1,0,,,,,,run out,C Mahamalage
+ball,2,18.5,Italy,A Kontopirakis,AS Wikman,HDJ Siegers,1,0,,,,,,"",""
+ball,2,18.6,Italy,AS Wikman,A Kontopirakis,HDJ Siegers,1,0,,,,,,"",""
+ball,2,18.7,Italy,A Kontopirakis,AS Wikman,HDJ Siegers,0,2,,,2,,,"",""
+ball,2,19.1,Italy,AS Wikman,A Kontopirakis,I van der Woning,4,0,,,,,,"",""
+ball,2,19.2,Italy,AS Wikman,A Kontopirakis,I van der Woning,0,0,,,,,,caught,AS Wikman
+ball,2,19.3,Italy,ECB Moore,A Kontopirakis,I van der Woning,0,0,,,,,,"",""
+ball,2,19.4,Italy,ECB Moore,A Kontopirakis,I van der Woning,1,0,,,,,,"",""
+ball,2,19.5,Italy,A Kontopirakis,ECB Moore,I van der Woning,0,0,,,,,,bowled,A Kontopirakis
+ball,2,19.6,Italy,S Kanankege,ECB Moore,I van der Woning,0,0,,,,,,"",""

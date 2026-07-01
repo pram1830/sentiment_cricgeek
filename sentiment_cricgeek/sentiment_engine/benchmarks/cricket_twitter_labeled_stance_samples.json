@@ -1,0 +1,2187 @@
+[
+  {
+    "id": 1,
+    "text": "Many people still judge Samson based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a finisher.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 2,
+    "text": "Many people still judge Gill based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 3,
+    "text": "Many people still judge Iyer based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a finisher.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 4,
+    "text": "Many people still judge Gill based on earlier performances, but the better matchups changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 5,
+    "text": "Many people still judge Gill based on earlier performances, but the improved support from non-striker changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 6,
+    "text": "Many people still judge Jaiswal based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 7,
+    "text": "Many people still judge Rinku based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a middle-order stabilizer.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 8,
+    "text": "Many people still judge Rinku based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 9,
+    "text": "Many people still judge Samson based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a middle-order stabilizer.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 10,
+    "text": "Many people still judge Jurel based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 11,
+    "text": "Many people still judge Jaiswal based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old risk profile numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 12,
+    "text": "Many people still judge Samson based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 13,
+    "text": "Many people still judge Gill based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a finisher.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 14,
+    "text": "Many people still judge Parag based on earlier performances, but the different phase of career changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a finisher.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 15,
+    "text": "Many people still judge Iyer based on earlier performances, but the improved support from non-striker changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a powerplay batter.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 16,
+    "text": "Many people still judge Rinku based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a powerplay batter.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 17,
+    "text": "Many people still judge Parag based on earlier performances, but the better matchups changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a finisher.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 18,
+    "text": "Many people still judge Gill based on earlier performances, but the improved support from non-striker changed his output. It makes more sense to evaluate current progress instead of old risk profile numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 19,
+    "text": "Many people still judge Parag based on earlier performances, but the different phase of career changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 20,
+    "text": "Many people still judge Padikkal based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 21,
+    "text": "Many people still judge Iyer based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a powerplay batter.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 22,
+    "text": "Many people still judge Jurel based on earlier performances, but the improved support from non-striker changed his output. It makes more sense to evaluate current progress instead of old risk profile numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 23,
+    "text": "Many people still judge Jaiswal based on earlier performances, but the clearer team balance changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 24,
+    "text": "Many people still judge Gill based on earlier performances, but the better matchups changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 25,
+    "text": "Many people still judge Iyer based on earlier performances, but the improved support from non-striker changed his output. It makes more sense to evaluate current progress instead of old boundary percentage numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 26,
+    "text": "Many people still judge Gill based on earlier performances, but the better matchups changed his output. It makes more sense to evaluate current progress instead of old risk profile numbers. He is still a quality player when used as a anchor.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 27,
+    "text": "Many people still judge Samson based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old dot-ball rate numbers. He is still a quality player when used as a finisher.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 28,
+    "text": "Many people still judge Rinku based on earlier performances, but the better matchups changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a middle-order stabilizer.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 29,
+    "text": "Many people still judge Iyer based on earlier performances, but the better matchups changed his output. It makes more sense to evaluate current progress instead of old risk profile numbers. He is still a quality player when used as a middle-order stabilizer.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 30,
+    "text": "Many people still judge Parag based on earlier performances, but the new batting role changed his output. It makes more sense to evaluate current progress instead of old strike rate numbers. He is still a quality player when used as a left-hander in tough phases.",
+    "expected_stance": "SUPPORTIVE_DEFENSE",
+    "expected_score_band": [
+      70.0,
+      85.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.12
+    ],
+    "expected_supportive_strength_band": [
+      0.45,
+      1.0
+    ],
+    "label_confidence": 0.75,
+    "source": "twitter_like"
+  },
+  {
+    "id": 31,
+    "text": "Parag could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his powerplay batter would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 32,
+    "text": "Iyer could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his anchor would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 33,
+    "text": "Parag could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his left-hander in tough phases would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 34,
+    "text": "Rinku could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his powerplay batter would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 35,
+    "text": "Jurel could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his middle-order stabilizer would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 36,
+    "text": "Jurel could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his powerplay batter would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 37,
+    "text": "Gill could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his left-hander in tough phases would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 38,
+    "text": "Jaiswal could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his finisher would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 39,
+    "text": "Rinku could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his middle-order stabilizer would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 40,
+    "text": "Iyer could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his powerplay batter would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 41,
+    "text": "Samson could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his anchor would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 42,
+    "text": "Jurel could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his finisher would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 43,
+    "text": "Gill could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his finisher would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 44,
+    "text": "Samson could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his left-hander in tough phases would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 45,
+    "text": "Jaiswal could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his anchor would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 46,
+    "text": "Padikkal could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his finisher would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 47,
+    "text": "Padikkal could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his left-hander in tough phases would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 48,
+    "text": "Gill could improve against pace in overs 7-12, and the team should adjust field-aware strike rotation. A clearer plan for his anchor would reduce pressure, and management needs to align matchups better.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 49,
+    "text": "Rinku faced mixed conditions and his output tracked expected variance for a middle-order stabilizer. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 50,
+    "text": "Parag faced mixed conditions and his output tracked expected variance for a middle-order stabilizer. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 51,
+    "text": "Jaiswal faced mixed conditions and his output tracked expected variance for a anchor. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 52,
+    "text": "Gill faced mixed conditions and his output tracked expected variance for a finisher. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 53,
+    "text": "Jurel faced mixed conditions and his output tracked expected variance for a finisher. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 54,
+    "text": "Rinku faced mixed conditions and his output tracked expected variance for a finisher. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 55,
+    "text": "Gill faced mixed conditions and his output tracked expected variance for a middle-order stabilizer. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 56,
+    "text": "Padikkal faced mixed conditions and his output tracked expected variance for a left-hander in tough phases. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 57,
+    "text": "Jurel faced mixed conditions and his output tracked expected variance for a powerplay batter. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 58,
+    "text": "Gill faced mixed conditions and his output tracked expected variance for a powerplay batter. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 59,
+    "text": "Padikkal faced mixed conditions and his output tracked expected variance for a middle-order stabilizer. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 60,
+    "text": "Samson faced mixed conditions and his output tracked expected variance for a left-hander in tough phases. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 61,
+    "text": "Rinku faced mixed conditions and his output tracked expected variance for a powerplay batter. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 62,
+    "text": "Parag faced mixed conditions and his output tracked expected variance for a left-hander in tough phases. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 63,
+    "text": "Parag faced mixed conditions and his output tracked expected variance for a finisher. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 64,
+    "text": "Samson faced mixed conditions and his output tracked expected variance for a finisher. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 65,
+    "text": "Parag faced mixed conditions and his output tracked expected variance for a powerplay batter. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 66,
+    "text": "Jurel faced mixed conditions and his output tracked expected variance for a anchor. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 67,
+    "text": "Iyer faced mixed conditions and his output tracked expected variance for a left-hander in tough phases. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 68,
+    "text": "Samson faced mixed conditions and his output tracked expected variance for a anchor. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 69,
+    "text": "Jurel faced mixed conditions and his output tracked expected variance for a left-hander in tough phases. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 70,
+    "text": "Iyer faced mixed conditions and his output tracked expected variance for a anchor. The innings had moderate control and average acceleration, with no strong evidence for a strategic shift.",
+    "expected_stance": "NEUTRAL_ANALYSIS",
+    "expected_score_band": [
+      45.0,
+      65.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.15
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.35
+    ],
+    "label_confidence": 0.6,
+    "source": "twitter_like"
+  },
+  {
+    "id": 71,
+    "text": "Some analysts argue Jurel slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 72,
+    "text": "Some analysts argue Gill slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 73,
+    "text": "Some analysts argue Rinku slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 74,
+    "text": "Some analysts argue Iyer slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 75,
+    "text": "Some analysts argue Samson slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 76,
+    "text": "Some analysts argue Parag slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 77,
+    "text": "Some analysts argue Padikkal slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 78,
+    "text": "Some analysts argue Jaiswal slows the middle overs, while others note he stabilizes collapse risk. Both views hold under different conditions, so role-context should guide selection decisions.",
+    "expected_stance": "BALANCED_DEBATE",
+    "expected_score_band": [
+      55.0,
+      75.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.22
+    ],
+    "expected_supportive_strength_band": [
+      0.05,
+      0.45
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 79,
+    "text": "Again and again we see the same confusion around Jaiswal. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 80,
+    "text": "Again and again we see the same confusion around Iyer. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 81,
+    "text": "Again and again we see the same confusion around Rinku. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 82,
+    "text": "Again and again we see the same confusion around Gill. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 83,
+    "text": "Again and again we see the same confusion around Padikkal. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 84,
+    "text": "Again and again we see the same confusion around Parag. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 85,
+    "text": "Again and again we see the same confusion around Jurel. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 86,
+    "text": "Again and again we see the same confusion around Samson. Repeating mistakes keep happening and it is frustrating to watch. Nothing really changes in team calls.",
+    "expected_stance": "DISMISSIVE_COMPLAINT",
+    "expected_score_band": [
+      25.0,
+      50.0
+    ],
+    "expected_toxicity_band": [
+      0.05,
+      0.35
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.2
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 87,
+    "text": "Padikkal is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 88,
+    "text": "Rinku is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 89,
+    "text": "Jaiswal is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 90,
+    "text": "Samson is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 91,
+    "text": "Iyer is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 92,
+    "text": "Jurel is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 93,
+    "text": "Parag is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 94,
+    "text": "Gill is clearly not performing and management is ignoring problems by keeping players who are not performing. This is useless selection and should stop now.",
+    "expected_stance": "DIRECT_ATTACK",
+    "expected_score_band": [
+      0.0,
+      25.0
+    ],
+    "expected_toxicity_band": [
+      0.2,
+      1.0
+    ],
+    "expected_supportive_strength_band": [
+      0.0,
+      0.1
+    ],
+    "label_confidence": 0.85,
+    "source": "twitter_like"
+  },
+  {
+    "id": 95,
+    "text": "Gill looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the different phase of career. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 96,
+    "text": "Samson looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the different phase of career. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 97,
+    "text": "Gill looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the clearer team balance. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 98,
+    "text": "Samson looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the clearer team balance. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 99,
+    "text": "Jurel looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the clearer team balance. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 100,
+    "text": "Rinku looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the new batting role. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 101,
+    "text": "Parag looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the improved support from non-striker. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 102,
+    "text": "Padikkal looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the clearer team balance. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 103,
+    "text": "Jaiswal looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the clearer team balance. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 104,
+    "text": "Padikkal looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the improved support from non-striker. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 105,
+    "text": "Samson looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the improved support from non-striker. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 106,
+    "text": "Padikkal looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the different phase of career. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 107,
+    "text": "Samson looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the new batting role. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 108,
+    "text": "Gill looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the improved support from non-striker. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 109,
+    "text": "Jaiswal looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the better matchups. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 110,
+    "text": "Parag looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the better matchups. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 111,
+    "text": "Jaiswal looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the improved support from non-striker. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 112,
+    "text": "Jaiswal looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the different phase of career. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 113,
+    "text": "Gill looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the new batting role. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 114,
+    "text": "Rinku looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the different phase of career. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  },
+  {
+    "id": 115,
+    "text": "Iyer looked uncomfortable early and some criticism is valid, but there are signs of adaptation in the better matchups. He should improve shot selection, yet dropping him immediately may be premature.",
+    "expected_stance": "CONSTRUCTIVE_CRITICISM",
+    "expected_score_band": [
+      62.0,
+      82.0
+    ],
+    "expected_toxicity_band": [
+      0.0,
+      0.18
+    ],
+    "expected_supportive_strength_band": [
+      0.1,
+      0.5
+    ],
+    "label_confidence": 0.7,
+    "source": "twitter_like"
+  }
+]

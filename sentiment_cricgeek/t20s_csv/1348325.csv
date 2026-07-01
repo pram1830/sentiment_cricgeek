@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Zimbabwe
+info,gender,male
+info,season,2022/23
+info,date,2023/01/15
+info,event,Ireland tour of Zimbabwe
+info,match_number,3
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,RP Burl
+info,umpire,F Mutizwa
+info,umpire,L Rusere
+info,reserve_umpire,C Phiri
+info,tv_umpire,I Chabi
+info,match_referee,AJ Pycroft
+info,winner,Zimbabwe
+info,winner_wickets,4
+info,player,Ireland,A Balbirnie
+info,player,Ireland,GR Adair
+info,player,Ireland,ST Doheny
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,NA Rock
+info,player,Ireland,MR Adair
+info,player,Ireland,F Hand
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,B White
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,B White,1a448be0
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,C Madande,3560a786
+info,registry,people,C Phiri,ade73404
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GR Adair,4ec96094
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,NA Rock,43f4087c
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378
+ball,1,0.1,Ireland,A Balbirnie,GR Adair,W Madhevere,1,0,,,,,,"",""
+ball,1,0.2,Ireland,GR Adair,A Balbirnie,W Madhevere,0,0,,,,,,"",""
+ball,1,0.3,Ireland,GR Adair,A Balbirnie,W Madhevere,1,0,,,,,,"",""
+ball,1,0.4,Ireland,A Balbirnie,GR Adair,W Madhevere,1,0,,,,,,"",""
+ball,1,0.5,Ireland,GR Adair,A Balbirnie,W Madhevere,0,0,,,,,,caught,GR Adair
+ball,1,0.6,Ireland,ST Doheny,A Balbirnie,W Madhevere,1,0,,,,,,"",""
+ball,1,1.1,Ireland,ST Doheny,A Balbirnie,R Ngarava,1,0,,,,,,"",""
+ball,1,1.2,Ireland,A Balbirnie,ST Doheny,R Ngarava,0,0,,,,,,"",""
+ball,1,1.3,Ireland,A Balbirnie,ST Doheny,R Ngarava,0,0,,,,,,"",""
+ball,1,1.4,Ireland,A Balbirnie,ST Doheny,R Ngarava,4,0,,,,,,"",""
+ball,1,1.5,Ireland,A Balbirnie,ST Doheny,R Ngarava,2,0,,,,,,"",""
+ball,1,1.6,Ireland,A Balbirnie,ST Doheny,R Ngarava,0,0,,,,,,"",""
+ball,1,2.1,Ireland,ST Doheny,A Balbirnie,TL Chatara,0,0,,,,,,"",""
+ball,1,2.2,Ireland,ST Doheny,A Balbirnie,TL Chatara,0,0,,,,,,caught,ST Doheny
+ball,1,2.3,Ireland,HT Tector,A Balbirnie,TL Chatara,1,0,,,,,,"",""
+ball,1,2.4,Ireland,A Balbirnie,HT Tector,TL Chatara,0,1,,,,1,,"",""
+ball,1,2.5,Ireland,HT Tector,A Balbirnie,TL Chatara,1,0,,,,,,"",""
+ball,1,2.6,Ireland,A Balbirnie,HT Tector,TL Chatara,0,0,,,,,,"",""
+ball,1,3.1,Ireland,HT Tector,A Balbirnie,WP Masakadza,0,0,,,,,,"",""
+ball,1,3.2,Ireland,HT Tector,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,3.3,Ireland,A Balbirnie,HT Tector,WP Masakadza,1,0,,,,,,"",""
+ball,1,3.4,Ireland,HT Tector,A Balbirnie,WP Masakadza,3,0,,,,,,"",""
+ball,1,3.5,Ireland,A Balbirnie,HT Tector,WP Masakadza,0,0,,,,,,bowled,A Balbirnie
+ball,1,3.6,Ireland,C Campher,HT Tector,WP Masakadza,4,0,,,,,,"",""
+ball,1,4.1,Ireland,HT Tector,C Campher,TL Chatara,2,0,,,,,,"",""
+ball,1,4.2,Ireland,HT Tector,C Campher,TL Chatara,1,0,,,,,,"",""
+ball,1,4.3,Ireland,C Campher,HT Tector,TL Chatara,0,1,1,,,,,"",""
+ball,1,4.4,Ireland,C Campher,HT Tector,TL Chatara,2,0,,,,,,"",""
+ball,1,4.5,Ireland,C Campher,HT Tector,TL Chatara,0,0,,,,,,"",""
+ball,1,4.6,Ireland,C Campher,HT Tector,TL Chatara,1,0,,,,,,"",""
+ball,1,4.7,Ireland,HT Tector,C Campher,TL Chatara,2,0,,,,,,"",""
+ball,1,5.1,Ireland,C Campher,HT Tector,R Ngarava,1,0,,,,,,"",""
+ball,1,5.2,Ireland,HT Tector,C Campher,R Ngarava,0,0,,,,,,"",""
+ball,1,5.3,Ireland,HT Tector,C Campher,R Ngarava,4,0,,,,,,"",""
+ball,1,5.4,Ireland,HT Tector,C Campher,R Ngarava,0,0,,,,,,"",""
+ball,1,5.5,Ireland,HT Tector,C Campher,R Ngarava,0,1,1,,,,,"",""
+ball,1,5.6,Ireland,HT Tector,C Campher,R Ngarava,1,0,,,,,,"",""
+ball,1,5.7,Ireland,C Campher,HT Tector,R Ngarava,0,0,,,,,,"",""
+ball,1,6.1,Ireland,HT Tector,C Campher,WP Masakadza,2,0,,,,,,"",""
+ball,1,6.2,Ireland,HT Tector,C Campher,WP Masakadza,1,0,,,,,,"",""
+ball,1,6.3,Ireland,C Campher,HT Tector,WP Masakadza,1,0,,,,,,"",""
+ball,1,6.4,Ireland,HT Tector,C Campher,WP Masakadza,1,0,,,,,,"",""
+ball,1,6.5,Ireland,C Campher,HT Tector,WP Masakadza,1,0,,,,,,"",""
+ball,1,6.6,Ireland,HT Tector,C Campher,WP Masakadza,1,0,,,,,,"",""
+ball,1,7.1,Ireland,HT Tector,C Campher,LM Jongwe,4,0,,,,,,"",""
+ball,1,7.2,Ireland,HT Tector,C Campher,LM Jongwe,1,0,,,,,,"",""
+ball,1,7.3,Ireland,C Campher,HT Tector,LM Jongwe,1,0,,,,,,"",""
+ball,1,7.4,Ireland,HT Tector,C Campher,LM Jongwe,1,0,,,,,,"",""
+ball,1,7.5,Ireland,C Campher,HT Tector,LM Jongwe,0,0,,,,,,"",""
+ball,1,7.6,Ireland,C Campher,HT Tector,LM Jongwe,1,0,,,,,,"",""
+ball,1,8.1,Ireland,C Campher,HT Tector,RP Burl,4,0,,,,,,"",""
+ball,1,8.2,Ireland,C Campher,HT Tector,RP Burl,0,1,1,,,,,"",""
+ball,1,8.3,Ireland,C Campher,HT Tector,RP Burl,1,0,,,,,,"",""
+ball,1,8.4,Ireland,HT Tector,C Campher,RP Burl,1,0,,,,,,"",""
+ball,1,8.5,Ireland,C Campher,HT Tector,RP Burl,1,0,,,,,,"",""
+ball,1,8.6,Ireland,HT Tector,C Campher,RP Burl,1,0,,,,,,"",""
+ball,1,8.7,Ireland,C Campher,HT Tector,RP Burl,0,0,,,,,,"",""
+ball,1,9.1,Ireland,HT Tector,C Campher,I Kaia,1,0,,,,,,"",""
+ball,1,9.2,Ireland,C Campher,HT Tector,I Kaia,0,0,,,,,,"",""
+ball,1,9.3,Ireland,C Campher,HT Tector,I Kaia,0,0,,,,,,"",""
+ball,1,9.4,Ireland,C Campher,HT Tector,I Kaia,1,0,,,,,,"",""
+ball,1,9.5,Ireland,HT Tector,C Campher,I Kaia,2,0,,,,,,"",""
+ball,1,9.6,Ireland,HT Tector,C Campher,I Kaia,0,0,,,,,,"",""
+ball,1,10.1,Ireland,C Campher,HT Tector,RP Burl,0,0,,,,,,"",""
+ball,1,10.2,Ireland,C Campher,HT Tector,RP Burl,0,0,,,,,,"",""
+ball,1,10.3,Ireland,C Campher,HT Tector,RP Burl,1,0,,,,,,"",""
+ball,1,10.4,Ireland,HT Tector,C Campher,RP Burl,1,0,,,,,,"",""
+ball,1,10.5,Ireland,C Campher,HT Tector,RP Burl,2,0,,,,,,"",""
+ball,1,10.6,Ireland,C Campher,HT Tector,RP Burl,1,0,,,,,,"",""
+ball,1,11.1,Ireland,C Campher,HT Tector,WP Masakadza,0,1,1,,,,,"",""
+ball,1,11.2,Ireland,C Campher,HT Tector,WP Masakadza,1,0,,,,,,"",""
+ball,1,11.3,Ireland,HT Tector,C Campher,WP Masakadza,0,0,,,,,,"",""
+ball,1,11.4,Ireland,HT Tector,C Campher,WP Masakadza,2,0,,,,,,"",""
+ball,1,11.5,Ireland,HT Tector,C Campher,WP Masakadza,1,0,,,,,,"",""
+ball,1,11.6,Ireland,C Campher,HT Tector,WP Masakadza,1,0,,,,,,"",""
+ball,1,11.7,Ireland,HT Tector,C Campher,WP Masakadza,0,1,,,,1,,"",""
+ball,1,12.1,Ireland,HT Tector,C Campher,TL Chatara,4,0,,,,,,"",""
+ball,1,12.2,Ireland,HT Tector,C Campher,TL Chatara,1,0,,,,,,"",""
+ball,1,12.3,Ireland,C Campher,HT Tector,TL Chatara,1,0,,,,,,"",""
+ball,1,12.4,Ireland,HT Tector,C Campher,TL Chatara,1,0,,,,,,"",""
+ball,1,12.5,Ireland,C Campher,HT Tector,TL Chatara,1,0,,,,,,"",""
+ball,1,12.6,Ireland,HT Tector,C Campher,TL Chatara,1,0,,,,,,"",""
+ball,1,13.1,Ireland,HT Tector,C Campher,RP Burl,1,0,,,,,,"",""
+ball,1,13.2,Ireland,C Campher,HT Tector,RP Burl,0,0,,,,,,caught,C Campher
+ball,1,13.3,Ireland,GH Dockrell,HT Tector,RP Burl,1,0,,,,,,"",""
+ball,1,13.4,Ireland,HT Tector,GH Dockrell,RP Burl,1,0,,,,,,"",""
+ball,1,13.5,Ireland,GH Dockrell,HT Tector,RP Burl,1,0,,,,,,"",""
+ball,1,13.6,Ireland,HT Tector,GH Dockrell,RP Burl,1,0,,,,,,"",""
+ball,1,14.1,Ireland,HT Tector,GH Dockrell,W Madhevere,1,0,,,,,,"",""
+ball,1,14.2,Ireland,GH Dockrell,HT Tector,W Madhevere,1,0,,,,,,"",""
+ball,1,14.3,Ireland,HT Tector,GH Dockrell,W Madhevere,0,0,,,,,,bowled,HT Tector
+ball,1,14.4,Ireland,NA Rock,GH Dockrell,W Madhevere,1,0,,,,,,"",""
+ball,1,14.5,Ireland,GH Dockrell,NA Rock,W Madhevere,1,0,,,,,,"",""
+ball,1,14.6,Ireland,NA Rock,GH Dockrell,W Madhevere,0,0,,,,,,"",""
+ball,1,15.1,Ireland,GH Dockrell,NA Rock,RP Burl,1,0,,,,,,"",""
+ball,1,15.2,Ireland,NA Rock,GH Dockrell,RP Burl,1,0,,,,,,"",""
+ball,1,15.3,Ireland,GH Dockrell,NA Rock,RP Burl,1,0,,,,,,"",""
+ball,1,15.4,Ireland,NA Rock,GH Dockrell,RP Burl,0,0,,,,,,caught,NA Rock
+ball,1,15.5,Ireland,MR Adair,GH Dockrell,RP Burl,2,0,,,,,,"",""
+ball,1,15.6,Ireland,MR Adair,GH Dockrell,RP Burl,4,0,,,,,,"",""
+ball,1,16.1,Ireland,GH Dockrell,MR Adair,WP Masakadza,2,0,,,,,,"",""
+ball,1,16.2,Ireland,GH Dockrell,MR Adair,WP Masakadza,4,0,,,,,,"",""
+ball,1,16.3,Ireland,GH Dockrell,MR Adair,WP Masakadza,1,0,,,,,,"",""
+ball,1,16.4,Ireland,MR Adair,GH Dockrell,WP Masakadza,1,0,,,,,,"",""
+ball,1,16.5,Ireland,GH Dockrell,MR Adair,WP Masakadza,1,0,,,,,,"",""
+ball,1,16.6,Ireland,MR Adair,GH Dockrell,WP Masakadza,2,0,,,,,,"",""
+ball,1,17.1,Ireland,GH Dockrell,MR Adair,LM Jongwe,1,0,,,,,,"",""
+ball,1,17.2,Ireland,MR Adair,GH Dockrell,LM Jongwe,2,0,,,,,,"",""
+ball,1,17.3,Ireland,MR Adair,GH Dockrell,LM Jongwe,1,0,,,,,,"",""
+ball,1,17.4,Ireland,GH Dockrell,MR Adair,LM Jongwe,1,0,,,,,,"",""
+ball,1,17.5,Ireland,MR Adair,GH Dockrell,LM Jongwe,1,0,,,,,,"",""
+ball,1,17.6,Ireland,GH Dockrell,MR Adair,LM Jongwe,2,0,,,,,,"",""
+ball,1,18.1,Ireland,MR Adair,GH Dockrell,TL Chatara,0,0,,,,,,"",""
+ball,1,18.2,Ireland,MR Adair,GH Dockrell,TL Chatara,1,0,,,,,,"",""
+ball,1,18.3,Ireland,GH Dockrell,MR Adair,TL Chatara,2,0,,,,,,"",""
+ball,1,18.4,Ireland,GH Dockrell,MR Adair,TL Chatara,2,0,,,,,,"",""
+ball,1,18.5,Ireland,GH Dockrell,MR Adair,TL Chatara,1,0,,,,,,"",""
+ball,1,18.6,Ireland,MR Adair,GH Dockrell,TL Chatara,0,0,,,,,,bowled,MR Adair
+ball,1,19.1,Ireland,GH Dockrell,F Hand,LM Jongwe,0,0,,,,,,caught,GH Dockrell
+ball,1,19.2,Ireland,BJ McCarthy,F Hand,LM Jongwe,6,0,,,,,,"",""
+ball,1,19.3,Ireland,BJ McCarthy,F Hand,LM Jongwe,0,0,,,,,,caught,BJ McCarthy
+ball,1,19.4,Ireland,B White,F Hand,LM Jongwe,1,0,,,,,,"",""
+ball,1,19.5,Ireland,F Hand,B White,LM Jongwe,0,2,,,,2,,"",""
+ball,1,19.6,Ireland,F Hand,B White,LM Jongwe,0,1,,,1,,,"",""
+ball,2,0.1,Zimbabwe,T Marumani,I Kaia,HT Tector,1,0,,,,,,"",""
+ball,2,0.2,Zimbabwe,I Kaia,T Marumani,HT Tector,1,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,T Marumani,I Kaia,HT Tector,0,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,T Marumani,I Kaia,HT Tector,0,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,T Marumani,I Kaia,HT Tector,1,0,,,,,,"",""
+ball,2,0.6,Zimbabwe,I Kaia,T Marumani,HT Tector,0,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,T Marumani,I Kaia,MR Adair,0,0,,,,,,"",""
+ball,2,1.2,Zimbabwe,T Marumani,I Kaia,MR Adair,1,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,I Kaia,T Marumani,MR Adair,0,1,,,,1,,"",""
+ball,2,1.4,Zimbabwe,T Marumani,I Kaia,MR Adair,0,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,T Marumani,I Kaia,MR Adair,2,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,T Marumani,I Kaia,MR Adair,0,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,I Kaia,T Marumani,BJ McCarthy,0,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,I Kaia,T Marumani,BJ McCarthy,2,0,,,,,,"",""
+ball,2,2.3,Zimbabwe,I Kaia,T Marumani,BJ McCarthy,1,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,T Marumani,I Kaia,BJ McCarthy,0,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,T Marumani,I Kaia,BJ McCarthy,0,0,,,,,,caught,T Marumani
+ball,2,2.6,Zimbabwe,CR Ervine,I Kaia,BJ McCarthy,0,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,I Kaia,CR Ervine,MR Adair,1,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,CR Ervine,I Kaia,MR Adair,0,1,,,1,,,"",""
+ball,2,3.3,Zimbabwe,I Kaia,CR Ervine,MR Adair,1,0,,,,,,"",""
+ball,2,3.4,Zimbabwe,CR Ervine,I Kaia,MR Adair,0,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,CR Ervine,I Kaia,MR Adair,0,1,1,,,,,"",""
+ball,2,3.6,Zimbabwe,CR Ervine,I Kaia,MR Adair,1,0,,,,,,"",""
+ball,2,3.7,Zimbabwe,I Kaia,CR Ervine,MR Adair,0,1,,,1,,,"",""
+ball,2,4.1,Zimbabwe,I Kaia,CR Ervine,C Campher,4,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,I Kaia,CR Ervine,C Campher,4,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,I Kaia,CR Ervine,C Campher,1,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,CR Ervine,I Kaia,C Campher,0,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,CR Ervine,I Kaia,C Campher,4,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,CR Ervine,I Kaia,C Campher,0,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,I Kaia,CR Ervine,BJ McCarthy,1,0,,,,,,"",""
+ball,2,5.2,Zimbabwe,CR Ervine,I Kaia,BJ McCarthy,2,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,CR Ervine,I Kaia,BJ McCarthy,2,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,CR Ervine,I Kaia,BJ McCarthy,4,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,CR Ervine,I Kaia,BJ McCarthy,0,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,CR Ervine,I Kaia,BJ McCarthy,0,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,I Kaia,CR Ervine,HT Tector,0,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,I Kaia,CR Ervine,HT Tector,0,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,I Kaia,CR Ervine,HT Tector,1,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,CR Ervine,I Kaia,HT Tector,1,0,,,,,,"",""
+ball,2,6.5,Zimbabwe,I Kaia,CR Ervine,HT Tector,1,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,CR Ervine,I Kaia,HT Tector,0,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,I Kaia,CR Ervine,B White,0,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,I Kaia,CR Ervine,B White,1,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,CR Ervine,I Kaia,B White,4,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,CR Ervine,I Kaia,B White,1,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,I Kaia,CR Ervine,B White,0,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,I Kaia,CR Ervine,B White,4,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,CR Ervine,I Kaia,HT Tector,0,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,CR Ervine,I Kaia,HT Tector,0,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,CR Ervine,I Kaia,HT Tector,1,0,,,,,,"",""
+ball,2,8.4,Zimbabwe,I Kaia,CR Ervine,HT Tector,0,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,I Kaia,CR Ervine,HT Tector,0,0,,,,,,caught,I Kaia
+ball,2,8.6,Zimbabwe,W Madhevere,CR Ervine,HT Tector,0,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,CR Ervine,W Madhevere,GH Dockrell,1,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,W Madhevere,CR Ervine,GH Dockrell,1,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,CR Ervine,W Madhevere,GH Dockrell,1,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,W Madhevere,CR Ervine,GH Dockrell,1,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,CR Ervine,W Madhevere,GH Dockrell,1,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,W Madhevere,CR Ervine,GH Dockrell,0,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,CR Ervine,W Madhevere,B White,0,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,CR Ervine,W Madhevere,B White,2,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,CR Ervine,W Madhevere,B White,1,0,,,,,,"",""
+ball,2,10.4,Zimbabwe,W Madhevere,CR Ervine,B White,0,0,,,,,,caught,W Madhevere
+ball,2,10.5,Zimbabwe,T Munyonga,CR Ervine,B White,4,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,T Munyonga,CR Ervine,B White,0,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,CR Ervine,T Munyonga,GH Dockrell,1,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,T Munyonga,CR Ervine,GH Dockrell,2,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,T Munyonga,CR Ervine,GH Dockrell,1,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,CR Ervine,T Munyonga,GH Dockrell,1,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,T Munyonga,CR Ervine,GH Dockrell,1,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,CR Ervine,T Munyonga,GH Dockrell,1,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,CR Ervine,T Munyonga,C Campher,1,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,T Munyonga,CR Ervine,C Campher,0,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,T Munyonga,CR Ervine,C Campher,1,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,CR Ervine,T Munyonga,C Campher,2,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,CR Ervine,T Munyonga,C Campher,4,0,,,,,,"",""
+ball,2,12.6,Zimbabwe,CR Ervine,T Munyonga,C Campher,1,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,CR Ervine,T Munyonga,HT Tector,2,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,CR Ervine,T Munyonga,HT Tector,4,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,CR Ervine,T Munyonga,HT Tector,0,1,,,,1,,"",""
+ball,2,13.4,Zimbabwe,T Munyonga,CR Ervine,HT Tector,0,0,,,,,,"",""
+ball,2,13.5,Zimbabwe,T Munyonga,CR Ervine,HT Tector,0,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,T Munyonga,CR Ervine,HT Tector,1,0,,,,,,"",""
+ball,2,14.1,Zimbabwe,T Munyonga,CR Ervine,B White,2,0,,,,,,"",""
+ball,2,14.2,Zimbabwe,T Munyonga,CR Ervine,B White,1,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,CR Ervine,T Munyonga,B White,1,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,T Munyonga,CR Ervine,B White,0,0,,,,,,caught,T Munyonga
+ball,2,14.5,Zimbabwe,RP Burl,CR Ervine,B White,4,0,,,,,,"",""
+ball,2,14.6,Zimbabwe,RP Burl,CR Ervine,B White,1,0,,,,,,"",""
+ball,2,15.1,Zimbabwe,RP Burl,CR Ervine,BJ McCarthy,1,0,,,,,,"",""
+ball,2,15.2,Zimbabwe,CR Ervine,RP Burl,BJ McCarthy,1,0,,,,,,"",""
+ball,2,15.3,Zimbabwe,RP Burl,CR Ervine,BJ McCarthy,1,0,,,,,,"",""
+ball,2,15.4,Zimbabwe,CR Ervine,RP Burl,BJ McCarthy,2,0,,,,,,"",""
+ball,2,15.5,Zimbabwe,CR Ervine,RP Burl,BJ McCarthy,4,0,,,,,,"",""
+ball,2,15.6,Zimbabwe,CR Ervine,RP Burl,BJ McCarthy,2,0,,,,,,"",""
+ball,2,16.1,Zimbabwe,RP Burl,CR Ervine,MR Adair,1,0,,,,,,"",""
+ball,2,16.2,Zimbabwe,CR Ervine,RP Burl,MR Adair,0,1,1,,,,,"",""
+ball,2,16.3,Zimbabwe,CR Ervine,RP Burl,MR Adair,0,0,,,,,,"",""
+ball,2,16.4,Zimbabwe,CR Ervine,RP Burl,MR Adair,1,0,,,,,,"",""
+ball,2,16.5,Zimbabwe,RP Burl,CR Ervine,MR Adair,4,0,,,,,,"",""
+ball,2,16.6,Zimbabwe,RP Burl,CR Ervine,MR Adair,1,0,,,,,,"",""
+ball,2,16.7,Zimbabwe,CR Ervine,RP Burl,MR Adair,0,0,,,,,,caught,CR Ervine
+ball,2,17.1,Zimbabwe,RP Burl,C Madande,GH Dockrell,1,0,,,,,,"",""
+ball,2,17.2,Zimbabwe,C Madande,RP Burl,GH Dockrell,0,0,,,,,,"",""
+ball,2,17.3,Zimbabwe,C Madande,RP Burl,GH Dockrell,1,0,,,,,,"",""
+ball,2,17.4,Zimbabwe,RP Burl,C Madande,GH Dockrell,0,1,1,,,,,"",""
+ball,2,17.5,Zimbabwe,RP Burl,C Madande,GH Dockrell,6,0,,,,,,"",""
+ball,2,17.6,Zimbabwe,RP Burl,C Madande,GH Dockrell,6,0,,,,,,"",""
+ball,2,17.7,Zimbabwe,RP Burl,C Madande,GH Dockrell,4,0,,,,,,"",""
+ball,2,18.1,Zimbabwe,C Madande,RP Burl,BJ McCarthy,0,0,,,,,,"",""
+ball,2,18.2,Zimbabwe,C Madande,RP Burl,BJ McCarthy,0,0,,,,,,"",""
+ball,2,18.3,Zimbabwe,C Madande,RP Burl,BJ McCarthy,0,0,,,,,,"",""
+ball,2,18.4,Zimbabwe,C Madande,RP Burl,BJ McCarthy,4,0,,,,,,"",""
+ball,2,18.5,Zimbabwe,C Madande,RP Burl,BJ McCarthy,0,0,,,,,,bowled,C Madande
+ball,2,18.6,Zimbabwe,LM Jongwe,RP Burl,BJ McCarthy,0,1,1,,,,,"",""
+ball,2,18.7,Zimbabwe,LM Jongwe,RP Burl,BJ McCarthy,4,0,,,,,,"",""

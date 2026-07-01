@@ -1,0 +1,327 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Gibraltar
+info,gender,female
+info,season,2025
+info,date,2025/06/12
+info,event,Women Central Europe Cup
+info,match_number,3
+info,venue,"Scott Page Field, Vinor"
+info,city,Prague
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,MPM Pathirannehelage
+info,winner,Austria
+info,winner_runs,17
+info,player,Austria,AM Zepeda
+info,player,Austria,EL Kirkman
+info,player,Austria,P Sabu
+info,player,Austria,SK Reddy
+info,player,Austria,JA Stiglitz
+info,player,Austria,S Bhardwaj
+info,player,Austria,MPM Pathirannehelage
+info,player,Austria,P Ganeshan
+info,player,Austria,V Poglitsch
+info,player,Austria,Hadia Siddiqui
+info,player,Austria,Prithaa Ganeshan
+info,player,Gibraltar,AIV Benatar
+info,player,Gibraltar,N Caruana
+info,player,Gibraltar,N Laguea
+info,player,Gibraltar,EAS Ferrary
+info,player,Gibraltar,LJ Payas
+info,player,Gibraltar,YS Blagg
+info,player,Gibraltar,P Raghunath
+info,player,Gibraltar,H Mumford
+info,player,Gibraltar,RA Reilly
+info,player,Gibraltar,S Barton
+info,player,Gibraltar,L Sheppard
+info,registry,people,AIV Benatar,e8bdbbca
+info,registry,people,AM Zepeda,c9f95a16
+info,registry,people,EAS Ferrary,c3c905ae
+info,registry,people,EL Kirkman,ecc585f0
+info,registry,people,H Mumford,6462c64b
+info,registry,people,Hadia Siddiqui,14bc5d2d
+info,registry,people,JA Stiglitz,7195065a
+info,registry,people,L Sheppard,52ed0f6b
+info,registry,people,LJ Payas,49355360
+info,registry,people,MPM Pathirannehelage,0c142594
+info,registry,people,N Caruana,00d1544c
+info,registry,people,N Laguea,13496389
+info,registry,people,P Ganeshan,3829c5ea
+info,registry,people,P Raghunath,2e287171
+info,registry,people,P Sabu,a38da707
+info,registry,people,Prithaa Ganeshan,ab7b5a48
+info,registry,people,RA Reilly,77276fff
+info,registry,people,S Barton,f7dd8b46
+info,registry,people,S Bhardwaj,83e9173e
+info,registry,people,SK Reddy,3e1fbf05
+info,registry,people,V Poglitsch,e7351fbd
+info,registry,people,YS Blagg,3aac5463
+ball,1,0.1,Austria,AM Zepeda,EL Kirkman,EAS Ferrary,0,0,,,,,,"",""
+ball,1,0.2,Austria,AM Zepeda,EL Kirkman,EAS Ferrary,0,0,,,,,,"",""
+ball,1,0.3,Austria,AM Zepeda,EL Kirkman,EAS Ferrary,1,0,,,,,,"",""
+ball,1,0.4,Austria,EL Kirkman,AM Zepeda,EAS Ferrary,4,0,,,,,,"",""
+ball,1,0.5,Austria,EL Kirkman,AM Zepeda,EAS Ferrary,0,0,,,,,,"",""
+ball,1,0.6,Austria,EL Kirkman,AM Zepeda,EAS Ferrary,0,0,,,,,,"",""
+ball,1,1.1,Austria,AM Zepeda,EL Kirkman,AIV Benatar,4,0,,,,,,"",""
+ball,1,1.2,Austria,AM Zepeda,EL Kirkman,AIV Benatar,0,0,,,,,,lbw,AM Zepeda
+ball,1,1.3,Austria,P Sabu,EL Kirkman,AIV Benatar,0,0,,,,,,"",""
+ball,1,1.4,Austria,P Sabu,EL Kirkman,AIV Benatar,0,0,,,,,,"",""
+ball,1,1.5,Austria,P Sabu,EL Kirkman,AIV Benatar,0,0,,,,,,"",""
+ball,1,1.6,Austria,P Sabu,EL Kirkman,AIV Benatar,0,0,,,,,,"",""
+ball,1,2.1,Austria,EL Kirkman,P Sabu,EAS Ferrary,1,0,,,,,,"",""
+ball,1,2.2,Austria,P Sabu,EL Kirkman,EAS Ferrary,0,0,,,,,,"",""
+ball,1,2.3,Austria,P Sabu,EL Kirkman,EAS Ferrary,1,0,,,,,,"",""
+ball,1,2.4,Austria,EL Kirkman,P Sabu,EAS Ferrary,0,0,,,,,,"",""
+ball,1,2.5,Austria,EL Kirkman,P Sabu,EAS Ferrary,0,1,,,,1,,"",""
+ball,1,2.6,Austria,P Sabu,EL Kirkman,EAS Ferrary,0,0,,,,,,"",""
+ball,1,3.1,Austria,EL Kirkman,P Sabu,AIV Benatar,1,0,,,,,,"",""
+ball,1,3.2,Austria,P Sabu,EL Kirkman,AIV Benatar,0,0,,,,,,"",""
+ball,1,3.3,Austria,P Sabu,EL Kirkman,AIV Benatar,0,0,,,,,,"",""
+ball,1,3.4,Austria,P Sabu,EL Kirkman,AIV Benatar,0,0,,,,,,"",""
+ball,1,3.5,Austria,P Sabu,EL Kirkman,AIV Benatar,1,0,,,,,,"",""
+ball,1,3.6,Austria,EL Kirkman,P Sabu,AIV Benatar,0,0,,,,,,bowled,EL Kirkman
+ball,1,4.1,Austria,P Sabu,SK Reddy,EAS Ferrary,2,0,,,,,,"",""
+ball,1,4.2,Austria,P Sabu,SK Reddy,EAS Ferrary,4,0,,,,,,"",""
+ball,1,4.3,Austria,P Sabu,SK Reddy,EAS Ferrary,0,0,,,,,,"",""
+ball,1,4.4,Austria,P Sabu,SK Reddy,EAS Ferrary,2,0,,,,,,"",""
+ball,1,4.5,Austria,P Sabu,SK Reddy,EAS Ferrary,4,0,,,,,,"",""
+ball,1,4.6,Austria,P Sabu,SK Reddy,EAS Ferrary,0,3,3,,,,,"",""
+ball,1,4.7,Austria,P Sabu,SK Reddy,EAS Ferrary,1,0,,,,,,"",""
+ball,1,5.1,Austria,P Sabu,SK Reddy,AIV Benatar,1,0,,,,,,"",""
+ball,1,5.2,Austria,SK Reddy,P Sabu,AIV Benatar,0,0,,,,,,"",""
+ball,1,5.3,Austria,SK Reddy,P Sabu,AIV Benatar,0,0,,,,,,"",""
+ball,1,5.4,Austria,SK Reddy,P Sabu,AIV Benatar,0,0,,,,,,"",""
+ball,1,5.5,Austria,SK Reddy,P Sabu,AIV Benatar,2,0,,,,,,"",""
+ball,1,5.6,Austria,SK Reddy,P Sabu,AIV Benatar,1,0,,,,,,"",""
+ball,1,6.1,Austria,SK Reddy,P Sabu,H Mumford,1,0,,,,,,"",""
+ball,1,6.2,Austria,P Sabu,SK Reddy,H Mumford,2,0,,,,,,"",""
+ball,1,6.3,Austria,P Sabu,SK Reddy,H Mumford,1,0,,,,,,"",""
+ball,1,6.4,Austria,SK Reddy,P Sabu,H Mumford,0,0,,,,,,"",""
+ball,1,6.5,Austria,SK Reddy,P Sabu,H Mumford,0,2,2,,,,,"",""
+ball,1,6.6,Austria,P Sabu,SK Reddy,H Mumford,4,0,,,,,,"",""
+ball,1,6.7,Austria,P Sabu,SK Reddy,H Mumford,0,0,,,,,,caught,P Sabu
+ball,1,7.1,Austria,SK Reddy,JA Stiglitz,YS Blagg,0,0,,,,,,"",""
+ball,1,7.2,Austria,SK Reddy,JA Stiglitz,YS Blagg,0,0,,,,,,"",""
+ball,1,7.3,Austria,SK Reddy,JA Stiglitz,YS Blagg,4,0,,,,,,"",""
+ball,1,7.4,Austria,SK Reddy,JA Stiglitz,YS Blagg,0,1,1,,,,,"",""
+ball,1,7.5,Austria,SK Reddy,JA Stiglitz,YS Blagg,1,0,,,,,,"",""
+ball,1,7.6,Austria,JA Stiglitz,SK Reddy,YS Blagg,0,0,,,,,,"",""
+ball,1,7.7,Austria,JA Stiglitz,SK Reddy,YS Blagg,4,0,,,,,,"",""
+ball,1,8.1,Austria,SK Reddy,JA Stiglitz,H Mumford,0,1,,,,1,,"",""
+ball,1,8.2,Austria,JA Stiglitz,SK Reddy,H Mumford,0,1,1,,,,,"",""
+ball,1,8.3,Austria,JA Stiglitz,SK Reddy,H Mumford,0,1,1,,,,,"",""
+ball,1,8.4,Austria,JA Stiglitz,SK Reddy,H Mumford,0,1,1,,,,,"",""
+ball,1,8.5,Austria,JA Stiglitz,SK Reddy,H Mumford,1,0,,,,,,"",""
+ball,1,8.6,Austria,SK Reddy,JA Stiglitz,H Mumford,1,0,,,,,,"",""
+ball,1,8.7,Austria,JA Stiglitz,SK Reddy,H Mumford,0,0,,,,,,"",""
+ball,1,8.8,Austria,JA Stiglitz,SK Reddy,H Mumford,0,0,,,,,,"",""
+ball,1,8.9,Austria,JA Stiglitz,SK Reddy,H Mumford,0,0,,,,,,"",""
+ball,1,9.1,Austria,SK Reddy,JA Stiglitz,YS Blagg,4,0,,,,,,"",""
+ball,1,9.2,Austria,SK Reddy,JA Stiglitz,YS Blagg,0,0,,,,,,"",""
+ball,1,9.3,Austria,SK Reddy,JA Stiglitz,YS Blagg,0,0,,,,,,"",""
+ball,1,9.4,Austria,SK Reddy,JA Stiglitz,YS Blagg,1,0,,,,,,run out,JA Stiglitz
+ball,1,9.5,Austria,SK Reddy,S Bhardwaj,YS Blagg,0,0,,,,,,"",""
+ball,1,9.6,Austria,SK Reddy,S Bhardwaj,YS Blagg,4,1,,1,,,,"",""
+ball,1,9.7,Austria,SK Reddy,S Bhardwaj,YS Blagg,0,0,,,,,,"",""
+ball,1,10.1,Austria,S Bhardwaj,SK Reddy,H Mumford,0,0,,,,,,"",""
+ball,1,10.2,Austria,S Bhardwaj,SK Reddy,H Mumford,0,0,,,,,,"",""
+ball,1,10.3,Austria,S Bhardwaj,SK Reddy,H Mumford,1,0,,,,,,"",""
+ball,1,10.4,Austria,SK Reddy,S Bhardwaj,H Mumford,0,0,,,,,,"",""
+ball,1,10.5,Austria,SK Reddy,S Bhardwaj,H Mumford,0,0,,,,,,"",""
+ball,1,10.6,Austria,SK Reddy,S Bhardwaj,H Mumford,2,0,,,,,,"",""
+ball,1,11.1,Austria,S Bhardwaj,SK Reddy,P Raghunath,0,1,,1,,,,"",""
+ball,1,11.2,Austria,S Bhardwaj,SK Reddy,P Raghunath,0,0,,,,,,"",""
+ball,1,11.3,Austria,S Bhardwaj,SK Reddy,P Raghunath,1,0,,,,,,"",""
+ball,1,11.4,Austria,SK Reddy,S Bhardwaj,P Raghunath,0,1,,1,,,,"",""
+ball,1,11.5,Austria,SK Reddy,S Bhardwaj,P Raghunath,0,1,,1,,,,"",""
+ball,1,11.6,Austria,SK Reddy,S Bhardwaj,P Raghunath,2,0,,,,,,"",""
+ball,1,11.7,Austria,SK Reddy,S Bhardwaj,P Raghunath,0,0,,,,,,"",""
+ball,1,11.8,Austria,SK Reddy,S Bhardwaj,P Raghunath,0,0,,,,,,"",""
+ball,1,11.9,Austria,SK Reddy,S Bhardwaj,P Raghunath,0,1,1,,,,,"",""
+ball,1,11.10,Austria,SK Reddy,S Bhardwaj,P Raghunath,0,0,,,,,,"",""
+ball,1,12.1,Austria,S Bhardwaj,SK Reddy,H Mumford,0,0,,,,,,"",""
+ball,1,12.2,Austria,S Bhardwaj,SK Reddy,H Mumford,1,0,,,,,,"",""
+ball,1,12.3,Austria,SK Reddy,S Bhardwaj,H Mumford,1,0,,,,,,"",""
+ball,1,12.4,Austria,S Bhardwaj,SK Reddy,H Mumford,0,1,1,,,,,"",""
+ball,1,12.5,Austria,S Bhardwaj,SK Reddy,H Mumford,1,0,,,,,,"",""
+ball,1,12.6,Austria,SK Reddy,S Bhardwaj,H Mumford,0,0,,,,,,"",""
+ball,1,12.7,Austria,SK Reddy,S Bhardwaj,H Mumford,0,0,,,,,,"",""
+ball,1,13.1,Austria,S Bhardwaj,SK Reddy,P Raghunath,2,0,,,,,,"",""
+ball,1,13.2,Austria,S Bhardwaj,SK Reddy,P Raghunath,2,0,,,,,,"",""
+ball,1,13.3,Austria,S Bhardwaj,SK Reddy,P Raghunath,1,0,,,,,,"",""
+ball,1,13.4,Austria,SK Reddy,S Bhardwaj,P Raghunath,2,0,,,,,,"",""
+ball,1,13.5,Austria,SK Reddy,S Bhardwaj,P Raghunath,0,0,,,,,,"",""
+ball,1,13.6,Austria,SK Reddy,S Bhardwaj,P Raghunath,4,0,,,,,,"",""
+ball,1,14.1,Austria,S Bhardwaj,SK Reddy,LJ Payas,0,0,,,,,,"",""
+ball,1,14.2,Austria,S Bhardwaj,SK Reddy,LJ Payas,0,0,,,,,,"",""
+ball,1,14.3,Austria,S Bhardwaj,SK Reddy,LJ Payas,0,0,,,,,,"",""
+ball,1,14.4,Austria,S Bhardwaj,SK Reddy,LJ Payas,1,0,,,,,,"",""
+ball,1,14.5,Austria,SK Reddy,S Bhardwaj,LJ Payas,1,0,,,,,,"",""
+ball,1,14.6,Austria,S Bhardwaj,SK Reddy,LJ Payas,0,1,1,,,,,"",""
+ball,1,14.7,Austria,S Bhardwaj,SK Reddy,LJ Payas,0,1,1,,,,,"",""
+ball,1,14.8,Austria,S Bhardwaj,SK Reddy,LJ Payas,2,0,,,,,,"",""
+ball,1,15.1,Austria,SK Reddy,S Bhardwaj,N Caruana,0,0,,,,,,"",""
+ball,1,15.2,Austria,SK Reddy,S Bhardwaj,N Caruana,1,0,,,,,,"",""
+ball,1,15.3,Austria,S Bhardwaj,SK Reddy,N Caruana,1,0,,,,,,"",""
+ball,1,15.4,Austria,SK Reddy,S Bhardwaj,N Caruana,1,0,,,,,,"",""
+ball,1,15.5,Austria,S Bhardwaj,SK Reddy,N Caruana,0,0,,,,,,"",""
+ball,1,15.6,Austria,S Bhardwaj,SK Reddy,N Caruana,4,0,,,,,,"",""
+ball,1,16.1,Austria,SK Reddy,S Bhardwaj,LJ Payas,1,0,,,,,,"",""
+ball,1,16.2,Austria,S Bhardwaj,SK Reddy,LJ Payas,0,0,,,,,,"",""
+ball,1,16.3,Austria,S Bhardwaj,SK Reddy,LJ Payas,0,0,,,,,,lbw,S Bhardwaj
+ball,1,16.4,Austria,MPM Pathirannehelage,SK Reddy,LJ Payas,0,0,,,,,,"",""
+ball,1,16.5,Austria,MPM Pathirannehelage,SK Reddy,LJ Payas,1,0,,,,,,"",""
+ball,1,16.6,Austria,SK Reddy,MPM Pathirannehelage,LJ Payas,1,0,,,,,,"",""
+ball,1,17.1,Austria,SK Reddy,MPM Pathirannehelage,N Caruana,0,0,,,,,,"",""
+ball,1,17.2,Austria,SK Reddy,MPM Pathirannehelage,N Caruana,2,0,,,,,,"",""
+ball,1,17.3,Austria,SK Reddy,MPM Pathirannehelage,N Caruana,2,0,,,,,,"",""
+ball,1,17.4,Austria,SK Reddy,MPM Pathirannehelage,N Caruana,0,0,,,,,,"",""
+ball,1,17.5,Austria,SK Reddy,MPM Pathirannehelage,N Caruana,0,0,,,,,,"",""
+ball,1,17.6,Austria,SK Reddy,MPM Pathirannehelage,N Caruana,1,0,,,,,,"",""
+ball,1,18.1,Austria,SK Reddy,MPM Pathirannehelage,EAS Ferrary,1,0,,,,,,"",""
+ball,1,18.2,Austria,MPM Pathirannehelage,SK Reddy,EAS Ferrary,4,0,,,,,,"",""
+ball,1,18.3,Austria,MPM Pathirannehelage,SK Reddy,EAS Ferrary,2,0,,,,,,"",""
+ball,1,18.4,Austria,MPM Pathirannehelage,SK Reddy,EAS Ferrary,0,0,,,,,,"",""
+ball,1,18.5,Austria,MPM Pathirannehelage,SK Reddy,EAS Ferrary,0,0,,,,,,bowled,MPM Pathirannehelage
+ball,1,18.6,Austria,P Ganeshan,SK Reddy,EAS Ferrary,0,1,1,,,,,"",""
+ball,1,18.7,Austria,P Ganeshan,SK Reddy,EAS Ferrary,0,0,,,,,,"",""
+ball,1,19.1,Austria,SK Reddy,P Ganeshan,AIV Benatar,0,0,,,,,,"",""
+ball,1,19.2,Austria,SK Reddy,P Ganeshan,AIV Benatar,2,0,,,,,,"",""
+ball,1,19.3,Austria,SK Reddy,P Ganeshan,AIV Benatar,1,0,,,,,,"",""
+ball,1,19.4,Austria,P Ganeshan,SK Reddy,AIV Benatar,0,2,2,,,,,"",""
+ball,1,19.5,Austria,SK Reddy,P Ganeshan,AIV Benatar,1,0,,,,,,run out,P Ganeshan
+ball,1,19.6,Austria,SK Reddy,V Poglitsch,AIV Benatar,2,0,,,,,,"",""
+ball,1,19.7,Austria,SK Reddy,V Poglitsch,AIV Benatar,0,2,,,,2,,"",""
+ball,2,0.1,Gibraltar,AIV Benatar,N Caruana,SK Reddy,0,1,1,,,,,"",""
+ball,2,0.2,Gibraltar,AIV Benatar,N Caruana,SK Reddy,0,0,,,,,,"",""
+ball,2,0.3,Gibraltar,AIV Benatar,N Caruana,SK Reddy,4,0,,,,,,"",""
+ball,2,0.4,Gibraltar,AIV Benatar,N Caruana,SK Reddy,4,0,,,,,,"",""
+ball,2,0.5,Gibraltar,AIV Benatar,N Caruana,SK Reddy,4,0,,,,,,"",""
+ball,2,0.6,Gibraltar,AIV Benatar,N Caruana,SK Reddy,0,0,,,,,,"",""
+ball,2,0.7,Gibraltar,AIV Benatar,N Caruana,SK Reddy,0,1,1,,,,,"",""
+ball,2,0.8,Gibraltar,AIV Benatar,N Caruana,SK Reddy,0,0,,,,,,"",""
+ball,2,1.1,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,1.2,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,1.3,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,1.4,Gibraltar,AIV Benatar,N Caruana,MPM Pathirannehelage,0,2,2,,,,,"",""
+ball,2,1.5,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,1.6,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,2,0,,,,,,"",""
+ball,2,1.7,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,0,1,,,1,,,"",""
+ball,2,2.1,Gibraltar,N Caruana,AIV Benatar,SK Reddy,1,0,,,,,,"",""
+ball,2,2.2,Gibraltar,AIV Benatar,N Caruana,SK Reddy,1,0,,,,,,"",""
+ball,2,2.3,Gibraltar,N Caruana,AIV Benatar,SK Reddy,0,0,,,,,,"",""
+ball,2,2.4,Gibraltar,N Caruana,AIV Benatar,SK Reddy,0,0,,,,,,"",""
+ball,2,2.5,Gibraltar,N Caruana,AIV Benatar,SK Reddy,0,0,,,,,,"",""
+ball,2,2.6,Gibraltar,N Caruana,AIV Benatar,SK Reddy,0,0,,,,,,"",""
+ball,2,3.1,Gibraltar,AIV Benatar,N Caruana,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,3.2,Gibraltar,AIV Benatar,N Caruana,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,3.3,Gibraltar,AIV Benatar,N Caruana,MPM Pathirannehelage,0,1,1,,,,,"",""
+ball,2,3.4,Gibraltar,AIV Benatar,N Caruana,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,3.5,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,3.6,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,3.7,Gibraltar,N Caruana,AIV Benatar,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,4.1,Gibraltar,AIV Benatar,N Caruana,SK Reddy,1,0,,,,,,"",""
+ball,2,4.2,Gibraltar,N Caruana,AIV Benatar,SK Reddy,0,0,,,,,,"",""
+ball,2,4.3,Gibraltar,N Caruana,AIV Benatar,SK Reddy,1,0,,,,,,"",""
+ball,2,4.4,Gibraltar,AIV Benatar,N Caruana,SK Reddy,2,0,,,,,,"",""
+ball,2,4.5,Gibraltar,AIV Benatar,N Caruana,SK Reddy,0,0,,,,,,"",""
+ball,2,4.6,Gibraltar,AIV Benatar,N Caruana,SK Reddy,1,0,,,,,,"",""
+ball,2,5.1,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,5.2,Gibraltar,AIV Benatar,N Caruana,P Sabu,4,0,,,,,,"",""
+ball,2,5.3,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,5.4,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,5.5,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,5.6,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,6.1,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,1,0,,,,,,"",""
+ball,2,6.2,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,4,0,,,,,,"",""
+ball,2,6.3,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,0,0,,,,,,"",""
+ball,2,6.4,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,0,1,,,1,,,"",""
+ball,2,6.5,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,0,0,,,,,,"",""
+ball,2,6.6,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,1,0,,,,,,"",""
+ball,2,7.1,Gibraltar,N Caruana,AIV Benatar,P Sabu,0,0,,,,,,"",""
+ball,2,7.2,Gibraltar,N Caruana,AIV Benatar,P Sabu,0,0,,,,,,"",""
+ball,2,7.3,Gibraltar,N Caruana,AIV Benatar,P Sabu,1,0,,,,,,"",""
+ball,2,7.4,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,1,1,,,,,"",""
+ball,2,7.5,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,1,1,,,,,"",""
+ball,2,7.6,Gibraltar,AIV Benatar,N Caruana,P Sabu,2,0,,,,,,"",""
+ball,2,7.7,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,1,1,,,,,"",""
+ball,2,7.8,Gibraltar,AIV Benatar,N Caruana,P Sabu,4,0,,,,,,"",""
+ball,2,7.9,Gibraltar,AIV Benatar,N Caruana,P Sabu,1,0,,,,,,"",""
+ball,2,8.1,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,0,0,,,,,,"",""
+ball,2,8.2,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,0,0,,,,,,"",""
+ball,2,8.3,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,1,0,,,,,,"",""
+ball,2,8.4,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,0,0,,,,,,"",""
+ball,2,8.5,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,1,0,,,,,,"",""
+ball,2,8.6,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,1,0,,,,,,"",""
+ball,2,9.1,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,9.2,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,4,0,,,,,,"",""
+ball,2,9.3,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,4,0,,,,,,"",""
+ball,2,9.4,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,9.5,Gibraltar,N Caruana,AIV Benatar,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,9.6,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,10.1,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,0,0,,,,,,"",""
+ball,2,10.2,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,0,1,1,,,,,"",""
+ball,2,10.3,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,0,0,,,,,,"",""
+ball,2,10.4,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,1,0,,,,,,"",""
+ball,2,10.5,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,0,0,,,,,,"",""
+ball,2,10.6,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,2,0,,,,,,"",""
+ball,2,10.7,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,1,0,,,,,,"",""
+ball,2,11.1,Gibraltar,N Caruana,AIV Benatar,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,11.2,Gibraltar,N Caruana,AIV Benatar,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,11.3,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,11.4,Gibraltar,N Caruana,AIV Benatar,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,11.5,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,2,0,,,,,,"",""
+ball,2,11.6,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,12.1,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,0,0,,,,,,"",""
+ball,2,12.2,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,0,0,,,,,,"",""
+ball,2,12.3,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,2,0,,,,,,"",""
+ball,2,12.4,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,1,0,,,,,,"",""
+ball,2,12.5,Gibraltar,N Caruana,AIV Benatar,AM Zepeda,1,0,,,,,,"",""
+ball,2,12.6,Gibraltar,AIV Benatar,N Caruana,AM Zepeda,0,0,,,,,,"",""
+ball,2,13.1,Gibraltar,N Caruana,AIV Benatar,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,13.2,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,2,0,,,,,,"",""
+ball,2,13.3,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,13.4,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,13.5,Gibraltar,N Caruana,AIV Benatar,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,13.6,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,0,1,1,,,,,"",""
+ball,2,13.7,Gibraltar,AIV Benatar,N Caruana,Hadia Siddiqui,4,0,,,,,,"",""
+ball,2,14.1,Gibraltar,N Caruana,AIV Benatar,P Sabu,0,0,,,,,,"",""
+ball,2,14.2,Gibraltar,N Caruana,AIV Benatar,P Sabu,1,0,,,,,,"",""
+ball,2,14.3,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,14.4,Gibraltar,AIV Benatar,N Caruana,P Sabu,1,0,,,,,,"",""
+ball,2,14.5,Gibraltar,N Caruana,AIV Benatar,P Sabu,1,0,,,,,,"",""
+ball,2,14.6,Gibraltar,AIV Benatar,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,15.1,Gibraltar,N Caruana,AIV Benatar,SK Reddy,1,0,,,,,,"",""
+ball,2,15.2,Gibraltar,AIV Benatar,N Caruana,SK Reddy,4,0,,,,,,"",""
+ball,2,15.3,Gibraltar,AIV Benatar,N Caruana,SK Reddy,1,0,,,,,,"",""
+ball,2,15.4,Gibraltar,N Caruana,AIV Benatar,SK Reddy,0,0,,,,,,"",""
+ball,2,15.5,Gibraltar,N Caruana,AIV Benatar,SK Reddy,1,0,,,,,,"",""
+ball,2,15.6,Gibraltar,AIV Benatar,N Caruana,SK Reddy,0,0,,,,,,"",""
+ball,2,16.1,Gibraltar,N Caruana,AIV Benatar,P Sabu,0,0,,,,,,run out,AIV Benatar
+ball,2,16.2,Gibraltar,N Caruana,N Laguea,P Sabu,2,0,,,,,,"",""
+ball,2,16.3,Gibraltar,N Caruana,N Laguea,P Sabu,0,0,,,,,,run out,N Laguea
+ball,2,16.4,Gibraltar,N Caruana,EAS Ferrary,P Sabu,1,0,,,,,,"",""
+ball,2,16.5,Gibraltar,EAS Ferrary,N Caruana,P Sabu,0,0,,,,,,"",""
+ball,2,16.6,Gibraltar,EAS Ferrary,N Caruana,P Sabu,1,0,,,,,,run out,EAS Ferrary
+ball,2,17.1,Gibraltar,N Caruana,LJ Payas,MPM Pathirannehelage,0,0,,,,,,bowled,N Caruana
+ball,2,17.2,Gibraltar,YS Blagg,LJ Payas,MPM Pathirannehelage,2,0,,,,,,"",""
+ball,2,17.3,Gibraltar,YS Blagg,LJ Payas,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,17.4,Gibraltar,YS Blagg,LJ Payas,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,17.5,Gibraltar,LJ Payas,YS Blagg,MPM Pathirannehelage,1,0,,,,,,"",""
+ball,2,17.6,Gibraltar,YS Blagg,LJ Payas,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,18.1,Gibraltar,LJ Payas,YS Blagg,Hadia Siddiqui,0,2,2,,,,,"",""
+ball,2,18.2,Gibraltar,YS Blagg,LJ Payas,Hadia Siddiqui,4,0,,,,,,"",""
+ball,2,18.3,Gibraltar,YS Blagg,LJ Payas,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,18.4,Gibraltar,YS Blagg,LJ Payas,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,18.5,Gibraltar,YS Blagg,LJ Payas,Hadia Siddiqui,1,0,,,,,,run out,LJ Payas
+ball,2,18.6,Gibraltar,YS Blagg,P Raghunath,Hadia Siddiqui,0,1,,1,,,,"",""
+ball,2,18.7,Gibraltar,YS Blagg,P Raghunath,Hadia Siddiqui,0,0,,,,,,"",""
+ball,2,18.8,Gibraltar,YS Blagg,P Raghunath,Hadia Siddiqui,1,0,,,,,,"",""
+ball,2,19.1,Gibraltar,YS Blagg,P Raghunath,MPM Pathirannehelage,0,0,,,,,,bowled,YS Blagg
+ball,2,19.2,Gibraltar,H Mumford,P Raghunath,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,19.3,Gibraltar,H Mumford,P Raghunath,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,19.4,Gibraltar,H Mumford,P Raghunath,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,19.5,Gibraltar,H Mumford,P Raghunath,MPM Pathirannehelage,0,0,,,,,,"",""
+ball,2,19.6,Gibraltar,H Mumford,P Raghunath,MPM Pathirannehelage,1,0,,,,,,"",""

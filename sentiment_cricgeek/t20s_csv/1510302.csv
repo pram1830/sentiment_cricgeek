@@ -1,0 +1,243 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Thailand
+info,gender,female
+info,season,2025/26
+info,date,2025/11/26
+info,event,ICC Women's Emerging Nations Trophy
+info,match_number,18
+info,venue,"Asian Institute of Technology Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Thailand
+info,toss_decision,field
+info,player_of_match,T Putthawong
+info,umpire,LDVV Silva
+info,umpire,Dolly Rani
+info,reserve_umpire,Rokeya Sultana
+info,match_referee,SM Bartlett
+info,winner,Thailand
+info,winner_wickets,8
+info,player,Uganda,J Mbabazi
+info,player,Uganda,E Iloku
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,K Awino
+info,player,Uganda,R Musamali
+info,player,Uganda,S Nampiina
+info,player,Uganda,P Alako
+info,player,Uganda,M Ariokot
+info,player,Uganda,NJ Amongin
+info,player,Uganda,C Aweko
+info,player,Uganda,K Amuge
+info,player,Thailand,N Boochatham
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chantam
+info,player,Thailand,N Chaiwai
+info,player,Thailand,S Khiaoto
+info,player,Thailand,S Laomi
+info,player,Thailand,P Maya
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,S Chaturongrattana
+info,player,Thailand,T Putthawong
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,Dolly Rani,2821c99e
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Amuge,eb2de8d9
+info,registry,people,K Awino,c4e7749a
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,NJ Amongin,98cdb42d
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Maya,72eada4c
+info,registry,people,R Musamali,017cadb2
+info,registry,people,Rokeya Sultana,20abf9b9
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Laomi,4b15618c
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,T Putthawong,23e3f2d6
+ball,1,0.1,Uganda,J Mbabazi,E Iloku,P Maya,0,0,,,,,,"",""
+ball,1,0.2,Uganda,J Mbabazi,E Iloku,P Maya,1,0,,,,,,"",""
+ball,1,0.3,Uganda,E Iloku,J Mbabazi,P Maya,1,0,,,,,,"",""
+ball,1,0.4,Uganda,J Mbabazi,E Iloku,P Maya,0,0,,,,,,"",""
+ball,1,0.5,Uganda,J Mbabazi,E Iloku,P Maya,1,0,,,,,,"",""
+ball,1,0.6,Uganda,E Iloku,J Mbabazi,P Maya,0,1,1,,,,,"",""
+ball,1,0.7,Uganda,E Iloku,J Mbabazi,P Maya,1,0,,,,,,"",""
+ball,1,1.1,Uganda,E Iloku,J Mbabazi,T Putthawong,0,0,,,,,,"",""
+ball,1,1.2,Uganda,E Iloku,J Mbabazi,T Putthawong,0,0,,,,,,"",""
+ball,1,1.3,Uganda,E Iloku,J Mbabazi,T Putthawong,0,0,,,,,,"",""
+ball,1,1.4,Uganda,E Iloku,J Mbabazi,T Putthawong,0,0,,,,,,run out,J Mbabazi
+ball,1,1.5,Uganda,I Nakisuuyi,E Iloku,T Putthawong,0,0,,,,,,"",""
+ball,1,1.6,Uganda,I Nakisuuyi,E Iloku,T Putthawong,0,0,,,,,,lbw,I Nakisuuyi
+ball,1,2.1,Uganda,E Iloku,K Awino,P Maya,0,0,,,,,,"",""
+ball,1,2.2,Uganda,E Iloku,K Awino,P Maya,0,0,,,,,,"",""
+ball,1,2.3,Uganda,E Iloku,K Awino,P Maya,1,0,,,,,,"",""
+ball,1,2.4,Uganda,K Awino,E Iloku,P Maya,0,0,,,,,,"",""
+ball,1,2.5,Uganda,K Awino,E Iloku,P Maya,4,0,,,,,,"",""
+ball,1,2.6,Uganda,K Awino,E Iloku,P Maya,0,0,,,,,,"",""
+ball,1,3.1,Uganda,E Iloku,K Awino,T Putthawong,0,0,,,,,,"",""
+ball,1,3.2,Uganda,E Iloku,K Awino,T Putthawong,4,0,,,,,,"",""
+ball,1,3.3,Uganda,E Iloku,K Awino,T Putthawong,0,0,,,,,,"",""
+ball,1,3.4,Uganda,E Iloku,K Awino,T Putthawong,0,0,,,,,,caught,E Iloku
+ball,1,3.5,Uganda,R Musamali,K Awino,T Putthawong,0,0,,,,,,"",""
+ball,1,3.6,Uganda,R Musamali,K Awino,T Putthawong,0,0,,,,,,"",""
+ball,1,4.1,Uganda,K Awino,R Musamali,P Maya,0,0,,,,,,"",""
+ball,1,4.2,Uganda,K Awino,R Musamali,P Maya,1,0,,,,,,"",""
+ball,1,4.3,Uganda,R Musamali,K Awino,P Maya,1,0,,,,,,"",""
+ball,1,4.4,Uganda,K Awino,R Musamali,P Maya,0,1,1,,,,,"",""
+ball,1,4.5,Uganda,K Awino,R Musamali,P Maya,1,0,,,,,,"",""
+ball,1,4.6,Uganda,R Musamali,K Awino,P Maya,0,0,,,,,,"",""
+ball,1,4.7,Uganda,R Musamali,K Awino,P Maya,0,0,,,,,,"",""
+ball,1,5.1,Uganda,K Awino,R Musamali,T Putthawong,0,0,,,,,,caught,K Awino
+ball,1,5.2,Uganda,S Nampiina,R Musamali,T Putthawong,0,0,,,,,,"",""
+ball,1,5.3,Uganda,S Nampiina,R Musamali,T Putthawong,0,0,,,,,,"",""
+ball,1,5.4,Uganda,S Nampiina,R Musamali,T Putthawong,1,0,,,,,,"",""
+ball,1,5.5,Uganda,R Musamali,S Nampiina,T Putthawong,0,0,,,,,,"",""
+ball,1,5.6,Uganda,R Musamali,S Nampiina,T Putthawong,0,0,,,,,,"",""
+ball,1,6.1,Uganda,S Nampiina,R Musamali,S Laomi,0,0,,,,,,"",""
+ball,1,6.2,Uganda,S Nampiina,R Musamali,S Laomi,0,0,,,,,,"",""
+ball,1,6.3,Uganda,S Nampiina,R Musamali,S Laomi,0,0,,,,,,"",""
+ball,1,6.4,Uganda,S Nampiina,R Musamali,S Laomi,1,0,,,,,,"",""
+ball,1,6.5,Uganda,R Musamali,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,6.6,Uganda,R Musamali,S Nampiina,S Laomi,1,0,,,,,,"",""
+ball,1,7.1,Uganda,R Musamali,S Nampiina,S Chaturongrattana,2,0,,,,,,"",""
+ball,1,7.2,Uganda,R Musamali,S Nampiina,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,7.3,Uganda,R Musamali,S Nampiina,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,7.4,Uganda,R Musamali,S Nampiina,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,7.5,Uganda,R Musamali,S Nampiina,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,7.6,Uganda,R Musamali,S Nampiina,S Chaturongrattana,0,0,,,,,,bowled,R Musamali
+ball,1,8.1,Uganda,S Nampiina,P Alako,S Laomi,0,0,,,,,,"",""
+ball,1,8.2,Uganda,S Nampiina,P Alako,S Laomi,1,0,,,,,,"",""
+ball,1,8.3,Uganda,P Alako,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,8.4,Uganda,P Alako,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,8.5,Uganda,P Alako,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,8.6,Uganda,P Alako,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,9.1,Uganda,S Nampiina,P Alako,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,9.2,Uganda,S Nampiina,P Alako,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,9.3,Uganda,P Alako,S Nampiina,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,9.4,Uganda,S Nampiina,P Alako,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,9.5,Uganda,S Nampiina,P Alako,S Chaturongrattana,3,0,,,,,,"",""
+ball,1,9.6,Uganda,P Alako,S Nampiina,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,10.1,Uganda,S Nampiina,P Alako,S Laomi,0,0,,,,,,"",""
+ball,1,10.2,Uganda,S Nampiina,P Alako,S Laomi,0,0,,,,,,"",""
+ball,1,10.3,Uganda,S Nampiina,P Alako,S Laomi,0,0,,,,,,"",""
+ball,1,10.4,Uganda,S Nampiina,P Alako,S Laomi,1,0,,,,,,"",""
+ball,1,10.5,Uganda,P Alako,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,10.6,Uganda,P Alako,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,11.1,Uganda,S Nampiina,P Alako,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,11.2,Uganda,P Alako,S Nampiina,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,11.3,Uganda,S Nampiina,P Alako,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,11.4,Uganda,S Nampiina,P Alako,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,11.5,Uganda,S Nampiina,P Alako,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,11.6,Uganda,S Nampiina,P Alako,S Chaturongrattana,4,0,,,,,,"",""
+ball,1,12.1,Uganda,P Alako,S Nampiina,O Kamchomphu,2,0,,,,,,"",""
+ball,1,12.2,Uganda,P Alako,S Nampiina,O Kamchomphu,0,0,,,,,,"",""
+ball,1,12.3,Uganda,P Alako,S Nampiina,O Kamchomphu,0,0,,,,,,"",""
+ball,1,12.4,Uganda,P Alako,S Nampiina,O Kamchomphu,1,0,,,,,,"",""
+ball,1,12.5,Uganda,S Nampiina,P Alako,O Kamchomphu,0,0,,,,,,"",""
+ball,1,12.6,Uganda,S Nampiina,P Alako,O Kamchomphu,1,0,,,,,,"",""
+ball,1,13.1,Uganda,S Nampiina,P Alako,C Sutthiruang,0,0,,,,,,"",""
+ball,1,13.2,Uganda,S Nampiina,P Alako,C Sutthiruang,0,0,,,,,,"",""
+ball,1,13.3,Uganda,S Nampiina,P Alako,C Sutthiruang,0,0,,,,,,"",""
+ball,1,13.4,Uganda,S Nampiina,P Alako,C Sutthiruang,0,0,,,,,,"",""
+ball,1,13.5,Uganda,S Nampiina,P Alako,C Sutthiruang,1,0,,,,,,"",""
+ball,1,13.6,Uganda,P Alako,S Nampiina,C Sutthiruang,0,0,,,,,,bowled,P Alako
+ball,1,14.1,Uganda,S Nampiina,M Ariokot,O Kamchomphu,0,0,,,,,,"",""
+ball,1,14.2,Uganda,S Nampiina,M Ariokot,O Kamchomphu,0,0,,,,,,"",""
+ball,1,14.3,Uganda,S Nampiina,M Ariokot,O Kamchomphu,1,0,,,,,,"",""
+ball,1,14.4,Uganda,M Ariokot,S Nampiina,O Kamchomphu,0,0,,,,,,"",""
+ball,1,14.5,Uganda,M Ariokot,S Nampiina,O Kamchomphu,0,0,,,,,,"",""
+ball,1,14.6,Uganda,M Ariokot,S Nampiina,O Kamchomphu,1,0,,,,,,"",""
+ball,1,15.1,Uganda,M Ariokot,S Nampiina,C Sutthiruang,0,0,,,,,,"",""
+ball,1,15.2,Uganda,M Ariokot,S Nampiina,C Sutthiruang,1,0,,,,,,"",""
+ball,1,15.3,Uganda,S Nampiina,M Ariokot,C Sutthiruang,0,0,,,,,,"",""
+ball,1,15.4,Uganda,S Nampiina,M Ariokot,C Sutthiruang,1,0,,,,,,"",""
+ball,1,15.5,Uganda,M Ariokot,S Nampiina,C Sutthiruang,1,0,,,,,,"",""
+ball,1,15.6,Uganda,S Nampiina,M Ariokot,C Sutthiruang,0,0,,,,,,"",""
+ball,1,16.1,Uganda,M Ariokot,S Nampiina,O Kamchomphu,0,0,,,,,,"",""
+ball,1,16.2,Uganda,M Ariokot,S Nampiina,O Kamchomphu,0,0,,,,,,"",""
+ball,1,16.3,Uganda,M Ariokot,S Nampiina,O Kamchomphu,0,0,,,,,,"",""
+ball,1,16.4,Uganda,M Ariokot,S Nampiina,O Kamchomphu,1,0,,,,,,"",""
+ball,1,16.5,Uganda,S Nampiina,M Ariokot,O Kamchomphu,0,0,,,,,,"",""
+ball,1,16.6,Uganda,S Nampiina,M Ariokot,O Kamchomphu,1,0,,,,,,"",""
+ball,1,17.1,Uganda,S Nampiina,M Ariokot,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,17.2,Uganda,M Ariokot,S Nampiina,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,17.3,Uganda,S Nampiina,M Ariokot,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,17.4,Uganda,M Ariokot,S Nampiina,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,17.5,Uganda,M Ariokot,S Nampiina,S Chaturongrattana,0,0,,,,,,caught,M Ariokot
+ball,1,17.6,Uganda,NJ Amongin,S Nampiina,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,18.1,Uganda,S Nampiina,NJ Amongin,S Laomi,0,0,,,,,,"",""
+ball,1,18.2,Uganda,S Nampiina,NJ Amongin,S Laomi,1,0,,,,,,"",""
+ball,1,18.3,Uganda,NJ Amongin,S Nampiina,S Laomi,1,0,,,,,,"",""
+ball,1,18.4,Uganda,S Nampiina,NJ Amongin,S Laomi,1,0,,,,,,"",""
+ball,1,18.5,Uganda,NJ Amongin,S Nampiina,S Laomi,0,0,,,,,,"",""
+ball,1,18.6,Uganda,NJ Amongin,S Nampiina,S Laomi,0,0,,,,,,caught,NJ Amongin
+ball,1,19.1,Uganda,S Nampiina,C Aweko,T Putthawong,1,0,,,,,,"",""
+ball,1,19.2,Uganda,C Aweko,S Nampiina,T Putthawong,0,0,,,,,,lbw,C Aweko
+ball,1,19.3,Uganda,K Amuge,S Nampiina,T Putthawong,0,0,,,,,,bowled,K Amuge
+ball,2,0.1,Thailand,N Boochatham,C Sutthiruang,K Amuge,4,0,,,,,,"",""
+ball,2,0.2,Thailand,N Boochatham,C Sutthiruang,K Amuge,4,0,,,,,,"",""
+ball,2,0.3,Thailand,N Boochatham,C Sutthiruang,K Amuge,0,0,,,,,,"",""
+ball,2,0.4,Thailand,N Boochatham,C Sutthiruang,K Amuge,1,0,,,,,,"",""
+ball,2,0.5,Thailand,C Sutthiruang,N Boochatham,K Amuge,0,0,,,,,,"",""
+ball,2,0.6,Thailand,C Sutthiruang,N Boochatham,K Amuge,0,0,,,,,,"",""
+ball,2,1.1,Thailand,N Boochatham,C Sutthiruang,C Aweko,0,0,,,,,,"",""
+ball,2,1.2,Thailand,N Boochatham,C Sutthiruang,C Aweko,0,0,,,,,,"",""
+ball,2,1.3,Thailand,N Boochatham,C Sutthiruang,C Aweko,0,0,,,,,,"",""
+ball,2,1.4,Thailand,N Boochatham,C Sutthiruang,C Aweko,1,0,,,,,,"",""
+ball,2,1.5,Thailand,C Sutthiruang,N Boochatham,C Aweko,0,0,,,,,,"",""
+ball,2,1.6,Thailand,C Sutthiruang,N Boochatham,C Aweko,0,0,,,,,,bowled,C Sutthiruang
+ball,2,2.1,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,2.2,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,2.3,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,2.4,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,4,0,,,,,,"",""
+ball,2,2.5,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,3,0,,,,,,"",""
+ball,2,2.6,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,3.1,Thailand,N Koncharoenkai,N Boochatham,C Aweko,1,0,,,,,,"",""
+ball,2,3.2,Thailand,N Boochatham,N Koncharoenkai,C Aweko,0,0,,,,,,"",""
+ball,2,3.3,Thailand,N Boochatham,N Koncharoenkai,C Aweko,1,0,,,,,,"",""
+ball,2,3.4,Thailand,N Koncharoenkai,N Boochatham,C Aweko,4,1,,1,,,,"",""
+ball,2,3.5,Thailand,N Koncharoenkai,N Boochatham,C Aweko,0,0,,,,,,"",""
+ball,2,3.6,Thailand,N Koncharoenkai,N Boochatham,C Aweko,0,0,,,,,,"",""
+ball,2,3.7,Thailand,N Koncharoenkai,N Boochatham,C Aweko,1,0,,,,,,"",""
+ball,2,4.1,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,4,0,,,,,,"",""
+ball,2,4.2,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,4.3,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,4.4,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.5,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,4.6,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,5.1,Thailand,N Boochatham,N Koncharoenkai,C Aweko,1,0,,,,,,"",""
+ball,2,5.2,Thailand,N Koncharoenkai,N Boochatham,C Aweko,1,0,,,,,,"",""
+ball,2,5.3,Thailand,N Boochatham,N Koncharoenkai,C Aweko,1,0,,,,,,"",""
+ball,2,5.4,Thailand,N Koncharoenkai,N Boochatham,C Aweko,1,0,,,,,,"",""
+ball,2,5.5,Thailand,N Boochatham,N Koncharoenkai,C Aweko,4,0,,,,,,"",""
+ball,2,5.6,Thailand,N Boochatham,N Koncharoenkai,C Aweko,0,0,,,,,,"",""
+ball,2,6.1,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.2,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,6.3,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.4,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,2,0,,,,,,"",""
+ball,2,6.5,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,6.6,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,7.1,Thailand,N Boochatham,N Koncharoenkai,C Aweko,1,0,,,,,,"",""
+ball,2,7.2,Thailand,N Koncharoenkai,N Boochatham,C Aweko,0,0,,,,,,"",""
+ball,2,7.3,Thailand,N Koncharoenkai,N Boochatham,C Aweko,1,0,,,,,,"",""
+ball,2,7.4,Thailand,N Boochatham,N Koncharoenkai,C Aweko,0,0,,,,,,"",""
+ball,2,7.5,Thailand,N Boochatham,N Koncharoenkai,C Aweko,2,0,,,,,,"",""
+ball,2,7.6,Thailand,N Boochatham,N Koncharoenkai,C Aweko,0,0,,,,,,"",""
+ball,2,8.1,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,0,1,1,,,,,"",""
+ball,2,8.2,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,2,0,,,,,,"",""
+ball,2,8.3,Thailand,N Koncharoenkai,N Boochatham,I Nakisuuyi,1,0,,,,,,"",""
+ball,2,8.4,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.5,Thailand,N Boochatham,N Koncharoenkai,I Nakisuuyi,0,0,,,,,,caught,N Boochatham
+ball,2,8.6,Thailand,N Chantam,N Koncharoenkai,I Nakisuuyi,0,0,,,,,,"",""
+ball,2,8.7,Thailand,N Chantam,N Koncharoenkai,I Nakisuuyi,4,0,,,,,,"",""

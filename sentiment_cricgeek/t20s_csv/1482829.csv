@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Estonia
+info,gender,male
+info,season,2025
+info,date,2025/05/06
+info,event,Estonia tour of Malta
+info,match_number,2
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,Arslan Amjad
+info,umpire,Adnan Khan
+info,umpire,Vinay Malhotra
+info,reserve_umpire,S Fernando
+info,winner,Estonia
+info,winner_wickets,4
+info,player,Malta,DR Patankar
+info,player,Malta,R Dianish
+info,player,Malta,E Mathew
+info,player,Malta,P Pushparajan
+info,player,Malta,VP Thamotharam
+info,player,Malta,Jaspal Singh
+info,player,Malta,Mehboob Ali
+info,player,Malta,SB Patel
+info,player,Malta,Jaswinder Singh
+info,player,Malta,Washeem Abbas
+info,player,Malta,D Marks
+info,player,Estonia,Habib Khan
+info,player,Estonia,S Gooch
+info,player,Estonia,Ali Masood
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,S Hook
+info,player,Estonia,R Baruah
+info,player,Estonia,Elias Hasan
+info,player,Estonia,A Paul
+info,player,Estonia,P Gheewala
+info,player,Estonia,M Vaik
+info,registry,people,A Paul,fa308279
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,Ali Masood,a138f597
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,D Marks,0813a8b1
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Elias Hasan,f74a1394
+info,registry,people,Habib Khan,5152ab02
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,M Vaik,5335c5a7
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,P Gheewala,3b22ee4e
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,R Baruah,41b63677
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gooch,622be0d9
+info,registry,people,S Hook,eba871dd
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Washeem Abbas,6de4e430
+ball,1,0.1,Malta,DR Patankar,R Dianish,S Gooch,0,0,,,,,,"",""
+ball,1,0.2,Malta,DR Patankar,R Dianish,S Gooch,0,0,,,,,,"",""
+ball,1,0.3,Malta,DR Patankar,R Dianish,S Gooch,1,0,,,,,,"",""
+ball,1,0.4,Malta,R Dianish,DR Patankar,S Gooch,1,0,,,,,,"",""
+ball,1,0.5,Malta,DR Patankar,R Dianish,S Gooch,0,1,1,,,,,"",""
+ball,1,0.6,Malta,DR Patankar,R Dianish,S Gooch,2,0,,,,,,"",""
+ball,1,0.7,Malta,DR Patankar,R Dianish,S Gooch,0,0,,,,,,caught,DR Patankar
+ball,1,1.1,Malta,R Dianish,E Mathew,P Gheewala,4,0,,,,,,"",""
+ball,1,1.2,Malta,R Dianish,E Mathew,P Gheewala,1,0,,,,,,"",""
+ball,1,1.3,Malta,E Mathew,R Dianish,P Gheewala,0,1,1,,,,,"",""
+ball,1,1.4,Malta,E Mathew,R Dianish,P Gheewala,1,0,,,,,,"",""
+ball,1,1.5,Malta,R Dianish,E Mathew,P Gheewala,0,0,,,,,,"",""
+ball,1,1.6,Malta,R Dianish,E Mathew,P Gheewala,4,0,,,,,,"",""
+ball,1,1.7,Malta,R Dianish,E Mathew,P Gheewala,1,0,,,,,,"",""
+ball,1,2.1,Malta,R Dianish,E Mathew,S Gooch,0,1,1,,,,,"",""
+ball,1,2.2,Malta,R Dianish,E Mathew,S Gooch,3,0,,,,,,"",""
+ball,1,2.3,Malta,E Mathew,R Dianish,S Gooch,0,1,1,,,,,"",""
+ball,1,2.4,Malta,E Mathew,R Dianish,S Gooch,1,0,,,,,,"",""
+ball,1,2.5,Malta,R Dianish,E Mathew,S Gooch,6,0,,,,,,"",""
+ball,1,2.6,Malta,R Dianish,E Mathew,S Gooch,1,0,,,,,,"",""
+ball,1,2.7,Malta,E Mathew,R Dianish,S Gooch,2,0,,,,,,"",""
+ball,1,2.8,Malta,E Mathew,R Dianish,S Gooch,1,0,,,,,,"",""
+ball,1,3.1,Malta,E Mathew,R Dianish,P Gheewala,2,0,,,,,,"",""
+ball,1,3.2,Malta,E Mathew,R Dianish,P Gheewala,1,0,,,,,,"",""
+ball,1,3.3,Malta,R Dianish,E Mathew,P Gheewala,4,0,,,,,,"",""
+ball,1,3.4,Malta,R Dianish,E Mathew,P Gheewala,0,0,,,,,,bowled,R Dianish
+ball,1,3.5,Malta,P Pushparajan,E Mathew,P Gheewala,1,0,,,,,,"",""
+ball,1,3.6,Malta,E Mathew,P Pushparajan,P Gheewala,0,0,,,,,,bowled,E Mathew
+ball,1,4.1,Malta,P Pushparajan,VP Thamotharam,Elias Hasan,1,0,,,,,,"",""
+ball,1,4.2,Malta,VP Thamotharam,P Pushparajan,Elias Hasan,1,0,,,,,,"",""
+ball,1,4.3,Malta,P Pushparajan,VP Thamotharam,Elias Hasan,0,0,,,,,,"",""
+ball,1,4.4,Malta,P Pushparajan,VP Thamotharam,Elias Hasan,1,0,,,,,,"",""
+ball,1,4.5,Malta,VP Thamotharam,P Pushparajan,Elias Hasan,0,0,,,,,,"",""
+ball,1,4.6,Malta,VP Thamotharam,P Pushparajan,Elias Hasan,0,0,,,,,,"",""
+ball,1,5.1,Malta,P Pushparajan,VP Thamotharam,P Gheewala,0,0,,,,,,"",""
+ball,1,5.2,Malta,P Pushparajan,VP Thamotharam,P Gheewala,1,0,,,,,,"",""
+ball,1,5.3,Malta,VP Thamotharam,P Pushparajan,P Gheewala,4,0,,,,,,"",""
+ball,1,5.4,Malta,VP Thamotharam,P Pushparajan,P Gheewala,0,3,3,,,,,"",""
+ball,1,5.5,Malta,VP Thamotharam,P Pushparajan,P Gheewala,0,0,,,,,,caught,VP Thamotharam
+ball,1,5.6,Malta,Jaspal Singh,P Pushparajan,P Gheewala,1,0,,,,,,"",""
+ball,1,5.7,Malta,P Pushparajan,Jaspal Singh,P Gheewala,0,0,,,,,,"",""
+ball,1,6.1,Malta,Jaspal Singh,P Pushparajan,Elias Hasan,1,0,,,,,,"",""
+ball,1,6.2,Malta,P Pushparajan,Jaspal Singh,Elias Hasan,0,0,,,,,,"",""
+ball,1,6.3,Malta,P Pushparajan,Jaspal Singh,Elias Hasan,2,0,,,,,,"",""
+ball,1,6.4,Malta,P Pushparajan,Jaspal Singh,Elias Hasan,0,0,,,,,,"",""
+ball,1,6.5,Malta,P Pushparajan,Jaspal Singh,Elias Hasan,0,0,,,,,,"",""
+ball,1,6.6,Malta,P Pushparajan,Jaspal Singh,Elias Hasan,6,0,,,,,,"",""
+ball,1,7.1,Malta,Jaspal Singh,P Pushparajan,P Gheewala,0,0,,,,,,"",""
+ball,1,7.2,Malta,Jaspal Singh,P Pushparajan,P Gheewala,1,0,,,,,,"",""
+ball,1,7.3,Malta,P Pushparajan,Jaspal Singh,P Gheewala,1,0,,,,,,"",""
+ball,1,7.4,Malta,Jaspal Singh,P Pushparajan,P Gheewala,0,0,,,,,,"",""
+ball,1,7.5,Malta,Jaspal Singh,P Pushparajan,P Gheewala,0,1,,,1,,,"",""
+ball,1,7.6,Malta,P Pushparajan,Jaspal Singh,P Gheewala,2,0,,,,,,"",""
+ball,1,8.1,Malta,Jaspal Singh,P Pushparajan,R Baruah,0,0,,,,,,"",""
+ball,1,8.2,Malta,Jaspal Singh,P Pushparajan,R Baruah,1,0,,,,,,"",""
+ball,1,8.3,Malta,P Pushparajan,Jaspal Singh,R Baruah,1,0,,,,,,"",""
+ball,1,8.4,Malta,Jaspal Singh,P Pushparajan,R Baruah,1,0,,,,,,"",""
+ball,1,8.5,Malta,P Pushparajan,Jaspal Singh,R Baruah,4,0,,,,,,"",""
+ball,1,8.6,Malta,P Pushparajan,Jaspal Singh,R Baruah,0,0,,,,,,"",""
+ball,1,9.1,Malta,Jaspal Singh,P Pushparajan,Habib Khan,2,0,,,,,,"",""
+ball,1,9.2,Malta,Jaspal Singh,P Pushparajan,Habib Khan,0,1,1,,,,,"",""
+ball,1,9.3,Malta,Jaspal Singh,P Pushparajan,Habib Khan,4,0,,,,,,"",""
+ball,1,9.4,Malta,Jaspal Singh,P Pushparajan,Habib Khan,1,0,,,,,,"",""
+ball,1,9.5,Malta,P Pushparajan,Jaspal Singh,Habib Khan,1,0,,,,,,"",""
+ball,1,9.6,Malta,Jaspal Singh,P Pushparajan,Habib Khan,1,0,,,,,,"",""
+ball,1,9.7,Malta,P Pushparajan,Jaspal Singh,Habib Khan,1,0,,,,,,"",""
+ball,1,10.1,Malta,P Pushparajan,Jaspal Singh,R Baruah,4,0,,,,,,"",""
+ball,1,10.2,Malta,P Pushparajan,Jaspal Singh,R Baruah,0,0,,,,,,"",""
+ball,1,10.3,Malta,P Pushparajan,Jaspal Singh,R Baruah,2,0,,,,,,"",""
+ball,1,10.4,Malta,P Pushparajan,Jaspal Singh,R Baruah,0,0,,,,,,"",""
+ball,1,10.5,Malta,P Pushparajan,Jaspal Singh,R Baruah,4,0,,,,,,"",""
+ball,1,10.6,Malta,P Pushparajan,Jaspal Singh,R Baruah,2,0,,,,,,"",""
+ball,1,11.1,Malta,Jaspal Singh,P Pushparajan,Habib Khan,0,0,,,,,,"",""
+ball,1,11.2,Malta,Jaspal Singh,P Pushparajan,Habib Khan,2,0,,,,,,"",""
+ball,1,11.3,Malta,Jaspal Singh,P Pushparajan,Habib Khan,4,0,,,,,,"",""
+ball,1,11.4,Malta,Jaspal Singh,P Pushparajan,Habib Khan,0,0,,,,,,"",""
+ball,1,11.5,Malta,Jaspal Singh,P Pushparajan,Habib Khan,0,0,,,,,,"",""
+ball,1,11.6,Malta,Jaspal Singh,P Pushparajan,Habib Khan,0,4,,,4,,,"",""
+ball,1,12.1,Malta,P Pushparajan,Jaspal Singh,Arslan Amjad,1,0,,,,,,"",""
+ball,1,12.2,Malta,Jaspal Singh,P Pushparajan,Arslan Amjad,1,0,,,,,,"",""
+ball,1,12.3,Malta,P Pushparajan,Jaspal Singh,Arslan Amjad,0,0,,,,,,caught,P Pushparajan
+ball,1,12.4,Malta,Mehboob Ali,Jaspal Singh,Arslan Amjad,0,0,,,,,,"",""
+ball,1,12.5,Malta,Mehboob Ali,Jaspal Singh,Arslan Amjad,1,0,,,,,,"",""
+ball,1,12.6,Malta,Jaspal Singh,Mehboob Ali,Arslan Amjad,0,0,,,,,,"",""
+ball,1,13.1,Malta,Mehboob Ali,Jaspal Singh,Habib Khan,0,0,,,,,,"",""
+ball,1,13.2,Malta,Mehboob Ali,Jaspal Singh,Habib Khan,6,0,,,,,,"",""
+ball,1,13.3,Malta,Mehboob Ali,Jaspal Singh,Habib Khan,0,1,1,,,,,"",""
+ball,1,13.4,Malta,Mehboob Ali,Jaspal Singh,Habib Khan,0,0,,,,,,"",""
+ball,1,13.5,Malta,Mehboob Ali,Jaspal Singh,Habib Khan,0,1,,,1,,,"",""
+ball,1,13.6,Malta,Jaspal Singh,Mehboob Ali,Habib Khan,4,0,,,,,,"",""
+ball,1,13.7,Malta,Jaspal Singh,Mehboob Ali,Habib Khan,0,0,,,,,,"",""
+ball,1,14.1,Malta,Mehboob Ali,Jaspal Singh,Arslan Amjad,4,0,,,,,,"",""
+ball,1,14.2,Malta,Mehboob Ali,Jaspal Singh,Arslan Amjad,1,0,,,,,,"",""
+ball,1,14.3,Malta,Jaspal Singh,Mehboob Ali,Arslan Amjad,6,0,,,,,,"",""
+ball,1,14.4,Malta,Jaspal Singh,Mehboob Ali,Arslan Amjad,1,0,,,,,,"",""
+ball,1,14.5,Malta,Mehboob Ali,Jaspal Singh,Arslan Amjad,1,0,,,,,,"",""
+ball,1,14.6,Malta,Jaspal Singh,Mehboob Ali,Arslan Amjad,1,0,,,,,,"",""
+ball,1,15.1,Malta,Jaspal Singh,Mehboob Ali,Habib Khan,2,0,,,,,,"",""
+ball,1,15.2,Malta,Jaspal Singh,Mehboob Ali,Habib Khan,4,0,,,,,,"",""
+ball,1,15.3,Malta,Jaspal Singh,Mehboob Ali,Habib Khan,2,0,,,,,,"",""
+ball,1,15.4,Malta,Jaspal Singh,Mehboob Ali,Habib Khan,0,0,,,,,,caught,Jaspal Singh
+ball,1,15.5,Malta,SB Patel,Mehboob Ali,Habib Khan,0,0,,,,,,"",""
+ball,1,15.6,Malta,SB Patel,Mehboob Ali,Habib Khan,4,0,,,,,,"",""
+ball,1,16.1,Malta,Mehboob Ali,SB Patel,Elias Hasan,1,0,,,,,,"",""
+ball,1,16.2,Malta,SB Patel,Mehboob Ali,Elias Hasan,0,5,5,,,,,"",""
+ball,1,16.3,Malta,SB Patel,Mehboob Ali,Elias Hasan,0,0,,,,,,bowled,SB Patel
+ball,1,16.4,Malta,Jaswinder Singh,Mehboob Ali,Elias Hasan,1,0,,,,,,"",""
+ball,1,16.5,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,0,0,,,,,,"",""
+ball,1,16.6,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,1,0,,,,,,"",""
+ball,1,16.7,Malta,Jaswinder Singh,Mehboob Ali,Elias Hasan,1,0,,,,,,"",""
+ball,1,17.1,Malta,Jaswinder Singh,Mehboob Ali,S Gooch,1,0,,,,,,"",""
+ball,1,17.2,Malta,Mehboob Ali,Jaswinder Singh,S Gooch,4,0,,,,,,"",""
+ball,1,17.3,Malta,Mehboob Ali,Jaswinder Singh,S Gooch,4,0,,,,,,"",""
+ball,1,17.4,Malta,Mehboob Ali,Jaswinder Singh,S Gooch,1,0,,,,,,"",""
+ball,1,17.5,Malta,Jaswinder Singh,Mehboob Ali,S Gooch,0,0,,,,,,"",""
+ball,1,17.6,Malta,Jaswinder Singh,Mehboob Ali,S Gooch,0,0,,,,,,"",""
+ball,1,18.1,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,6,0,,,,,,"",""
+ball,1,18.2,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,0,0,,,,,,"",""
+ball,1,18.3,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,4,0,,,,,,"",""
+ball,1,18.4,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,4,0,,,,,,"",""
+ball,1,18.5,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,6,0,,,,,,"",""
+ball,1,18.6,Malta,Mehboob Ali,Jaswinder Singh,Elias Hasan,6,0,,,,,,"",""
+ball,1,19.1,Malta,Jaswinder Singh,Mehboob Ali,Arslan Amjad,0,0,,,,,,caught and bowled,Jaswinder Singh
+ball,1,19.2,Malta,Washeem Abbas,Mehboob Ali,Arslan Amjad,1,0,,,,,,"",""
+ball,1,19.3,Malta,Mehboob Ali,Washeem Abbas,Arslan Amjad,4,0,,,,,,"",""
+ball,1,19.4,Malta,Mehboob Ali,Washeem Abbas,Arslan Amjad,4,0,,,,,,"",""
+ball,1,19.5,Malta,Mehboob Ali,Washeem Abbas,Arslan Amjad,0,0,,,,,,"",""
+ball,1,19.6,Malta,Mehboob Ali,Washeem Abbas,Arslan Amjad,0,0,,,,,,caught,Mehboob Ali
+ball,2,0.1,Estonia,Habib Khan,S Gooch,Washeem Abbas,1,0,,,,,,"",""
+ball,2,0.2,Estonia,S Gooch,Habib Khan,Washeem Abbas,6,0,,,,,,"",""
+ball,2,0.3,Estonia,S Gooch,Habib Khan,Washeem Abbas,0,0,,,,,,"",""
+ball,2,0.4,Estonia,S Gooch,Habib Khan,Washeem Abbas,1,0,,,,,,"",""
+ball,2,0.5,Estonia,Habib Khan,S Gooch,Washeem Abbas,0,0,,,,,,"",""
+ball,2,0.6,Estonia,Habib Khan,S Gooch,Washeem Abbas,2,0,,,,,,"",""
+ball,2,1.1,Estonia,S Gooch,Habib Khan,Mehboob Ali,0,0,,,,,,"",""
+ball,2,1.2,Estonia,S Gooch,Habib Khan,Mehboob Ali,6,0,,,,,,"",""
+ball,2,1.3,Estonia,S Gooch,Habib Khan,Mehboob Ali,1,0,,,,,,"",""
+ball,2,1.4,Estonia,Habib Khan,S Gooch,Mehboob Ali,0,0,,,,,,"",""
+ball,2,1.5,Estonia,Habib Khan,S Gooch,Mehboob Ali,0,0,,,,,,"",""
+ball,2,1.6,Estonia,Habib Khan,S Gooch,Mehboob Ali,0,0,,,,,,caught,Habib Khan
+ball,2,2.1,Estonia,S Gooch,Ali Masood,Washeem Abbas,0,0,,,,,,"",""
+ball,2,2.2,Estonia,S Gooch,Ali Masood,Washeem Abbas,4,0,,,,,,"",""
+ball,2,2.3,Estonia,S Gooch,Ali Masood,Washeem Abbas,0,0,,,,,,"",""
+ball,2,2.4,Estonia,S Gooch,Ali Masood,Washeem Abbas,0,1,1,,,,,"",""
+ball,2,2.5,Estonia,S Gooch,Ali Masood,Washeem Abbas,4,0,,,,,,"",""
+ball,2,2.6,Estonia,S Gooch,Ali Masood,Washeem Abbas,0,1,1,,,,,"",""
+ball,2,2.7,Estonia,S Gooch,Ali Masood,Washeem Abbas,0,0,,,,,,"",""
+ball,2,2.8,Estonia,S Gooch,Ali Masood,Washeem Abbas,2,0,,,,,,"",""
+ball,2,3.1,Estonia,Ali Masood,S Gooch,Mehboob Ali,1,0,,,,,,"",""
+ball,2,3.2,Estonia,S Gooch,Ali Masood,Mehboob Ali,0,0,,,,,,"",""
+ball,2,3.3,Estonia,S Gooch,Ali Masood,Mehboob Ali,4,0,,,,,,"",""
+ball,2,3.4,Estonia,S Gooch,Ali Masood,Mehboob Ali,1,0,,,,,,"",""
+ball,2,3.5,Estonia,Ali Masood,S Gooch,Mehboob Ali,4,0,,,,,,"",""
+ball,2,3.6,Estonia,Ali Masood,S Gooch,Mehboob Ali,0,0,,,,,,"",""
+ball,2,4.1,Estonia,S Gooch,Ali Masood,D Marks,1,0,,,,,,"",""
+ball,2,4.2,Estonia,Ali Masood,S Gooch,D Marks,1,0,,,,,,"",""
+ball,2,4.3,Estonia,S Gooch,Ali Masood,D Marks,1,0,,,,,,"",""
+ball,2,4.4,Estonia,Ali Masood,S Gooch,D Marks,1,0,,,,,,"",""
+ball,2,4.5,Estonia,S Gooch,Ali Masood,D Marks,1,0,,,,,,"",""
+ball,2,4.6,Estonia,Ali Masood,S Gooch,D Marks,4,0,,,,,,"",""
+ball,2,5.1,Estonia,S Gooch,Ali Masood,E Mathew,4,0,,,,,,"",""
+ball,2,5.2,Estonia,S Gooch,Ali Masood,E Mathew,0,0,,,,,,"",""
+ball,2,5.3,Estonia,S Gooch,Ali Masood,E Mathew,4,0,,,,,,"",""
+ball,2,5.4,Estonia,S Gooch,Ali Masood,E Mathew,2,0,,,,,,"",""
+ball,2,5.5,Estonia,S Gooch,Ali Masood,E Mathew,4,0,,,,,,"",""
+ball,2,5.6,Estonia,S Gooch,Ali Masood,E Mathew,4,0,,,,,,"",""
+ball,2,6.1,Estonia,Ali Masood,S Gooch,D Marks,0,0,,,,,,"",""
+ball,2,6.2,Estonia,Ali Masood,S Gooch,D Marks,0,0,,,,,,"",""
+ball,2,6.3,Estonia,Ali Masood,S Gooch,D Marks,1,0,,,,,,"",""
+ball,2,6.4,Estonia,S Gooch,Ali Masood,D Marks,1,0,,,,,,"",""
+ball,2,6.5,Estonia,Ali Masood,S Gooch,D Marks,0,0,,,,,,"",""
+ball,2,6.6,Estonia,Ali Masood,S Gooch,D Marks,1,0,,,,,,"",""
+ball,2,7.1,Estonia,Ali Masood,S Gooch,P Pushparajan,1,0,,,,,,"",""
+ball,2,7.2,Estonia,S Gooch,Ali Masood,P Pushparajan,1,0,,,,,,"",""
+ball,2,7.3,Estonia,Ali Masood,S Gooch,P Pushparajan,0,0,,,,,,caught,Ali Masood
+ball,2,7.4,Estonia,Sahil Chauhan,S Gooch,P Pushparajan,1,0,,,,,,"",""
+ball,2,7.5,Estonia,S Gooch,Sahil Chauhan,P Pushparajan,1,0,,,,,,"",""
+ball,2,7.6,Estonia,Sahil Chauhan,S Gooch,P Pushparajan,0,0,,,,,,lbw,Sahil Chauhan
+ball,2,8.1,Estonia,S Gooch,Arslan Amjad,Jaswinder Singh,0,0,,,,,,"",""
+ball,2,8.2,Estonia,S Gooch,Arslan Amjad,Jaswinder Singh,2,0,,,,,,"",""
+ball,2,8.3,Estonia,S Gooch,Arslan Amjad,Jaswinder Singh,1,0,,,,,,"",""
+ball,2,8.4,Estonia,Arslan Amjad,S Gooch,Jaswinder Singh,1,0,,,,,,"",""
+ball,2,8.5,Estonia,S Gooch,Arslan Amjad,Jaswinder Singh,0,0,,,,,,"",""
+ball,2,8.6,Estonia,S Gooch,Arslan Amjad,Jaswinder Singh,1,0,,,,,,"",""
+ball,2,9.1,Estonia,S Gooch,Arslan Amjad,P Pushparajan,0,0,,,,,,caught,S Gooch
+ball,2,9.2,Estonia,S Hook,Arslan Amjad,P Pushparajan,0,0,,,,,,"",""
+ball,2,9.3,Estonia,S Hook,Arslan Amjad,P Pushparajan,0,0,,,,,,"",""
+ball,2,9.4,Estonia,S Hook,Arslan Amjad,P Pushparajan,0,1,1,,,,,"",""
+ball,2,9.5,Estonia,S Hook,Arslan Amjad,P Pushparajan,4,0,,,,,,"",""
+ball,2,9.6,Estonia,S Hook,Arslan Amjad,P Pushparajan,0,0,,,,,,"",""
+ball,2,9.7,Estonia,S Hook,Arslan Amjad,P Pushparajan,1,0,,,,,,"",""
+ball,2,10.1,Estonia,S Hook,Arslan Amjad,VP Thamotharam,0,1,,1,,,,"",""
+ball,2,10.2,Estonia,S Hook,Arslan Amjad,VP Thamotharam,6,0,,,,,,"",""
+ball,2,10.3,Estonia,S Hook,Arslan Amjad,VP Thamotharam,1,0,,,,,,"",""
+ball,2,10.4,Estonia,Arslan Amjad,S Hook,VP Thamotharam,0,0,,,,,,"",""
+ball,2,10.5,Estonia,Arslan Amjad,S Hook,VP Thamotharam,0,0,,,,,,"",""
+ball,2,10.6,Estonia,Arslan Amjad,S Hook,VP Thamotharam,1,0,,,,,,"",""
+ball,2,10.7,Estonia,S Hook,Arslan Amjad,VP Thamotharam,1,0,,,,,,"",""
+ball,2,11.1,Estonia,S Hook,Arslan Amjad,P Pushparajan,0,0,,,,,,"",""
+ball,2,11.2,Estonia,S Hook,Arslan Amjad,P Pushparajan,1,0,,,,,,"",""
+ball,2,11.3,Estonia,Arslan Amjad,S Hook,P Pushparajan,0,0,,,,,,"",""
+ball,2,11.4,Estonia,Arslan Amjad,S Hook,P Pushparajan,1,0,,,,,,"",""
+ball,2,11.5,Estonia,S Hook,Arslan Amjad,P Pushparajan,6,0,,,,,,"",""
+ball,2,11.6,Estonia,S Hook,Arslan Amjad,P Pushparajan,2,0,,,,,,"",""
+ball,2,12.1,Estonia,Arslan Amjad,S Hook,D Marks,1,0,,,,,,"",""
+ball,2,12.2,Estonia,S Hook,Arslan Amjad,D Marks,4,0,,,,,,"",""
+ball,2,12.3,Estonia,S Hook,Arslan Amjad,D Marks,1,0,,,,,,"",""
+ball,2,12.4,Estonia,Arslan Amjad,S Hook,D Marks,0,0,,,,,,"",""
+ball,2,12.5,Estonia,Arslan Amjad,S Hook,D Marks,1,0,,,,,,"",""
+ball,2,12.6,Estonia,S Hook,Arslan Amjad,D Marks,4,0,,,,,,"",""
+ball,2,13.1,Estonia,Arslan Amjad,S Hook,VP Thamotharam,0,0,,,,,,"",""
+ball,2,13.2,Estonia,Arslan Amjad,S Hook,VP Thamotharam,6,0,,,,,,"",""
+ball,2,13.3,Estonia,Arslan Amjad,S Hook,VP Thamotharam,1,0,,,,,,"",""
+ball,2,13.4,Estonia,S Hook,Arslan Amjad,VP Thamotharam,6,0,,,,,,"",""
+ball,2,13.5,Estonia,S Hook,Arslan Amjad,VP Thamotharam,1,0,,,,,,"",""
+ball,2,13.6,Estonia,Arslan Amjad,S Hook,VP Thamotharam,1,0,,,,,,"",""
+ball,2,14.1,Estonia,Arslan Amjad,S Hook,Mehboob Ali,0,0,,,,,,"",""
+ball,2,14.2,Estonia,Arslan Amjad,S Hook,Mehboob Ali,4,0,,,,,,"",""
+ball,2,14.3,Estonia,Arslan Amjad,S Hook,Mehboob Ali,0,0,,,,,,"",""
+ball,2,14.4,Estonia,Arslan Amjad,S Hook,Mehboob Ali,6,0,,,,,,"",""
+ball,2,14.5,Estonia,Arslan Amjad,S Hook,Mehboob Ali,1,0,,,,,,"",""
+ball,2,14.6,Estonia,S Hook,Arslan Amjad,Mehboob Ali,4,0,,,,,,"",""
+ball,2,15.1,Estonia,Arslan Amjad,S Hook,Washeem Abbas,1,0,,,,,,"",""
+ball,2,15.2,Estonia,S Hook,Arslan Amjad,Washeem Abbas,0,0,,,,,,"",""
+ball,2,15.3,Estonia,S Hook,Arslan Amjad,Washeem Abbas,0,1,1,,,,,"",""
+ball,2,15.4,Estonia,S Hook,Arslan Amjad,Washeem Abbas,0,0,,,,,,"",""
+ball,2,15.5,Estonia,S Hook,Arslan Amjad,Washeem Abbas,1,0,,,,,,"",""
+ball,2,15.6,Estonia,Arslan Amjad,S Hook,Washeem Abbas,6,0,,,,,,"",""
+ball,2,15.7,Estonia,Arslan Amjad,S Hook,Washeem Abbas,6,0,,,,,,"",""
+ball,2,16.1,Estonia,S Hook,Arslan Amjad,Mehboob Ali,1,0,,,,,,"",""
+ball,2,16.2,Estonia,Arslan Amjad,S Hook,Mehboob Ali,4,0,,,,,,"",""
+ball,2,16.3,Estonia,Arslan Amjad,S Hook,Mehboob Ali,4,0,,,,,,"",""
+ball,2,16.4,Estonia,Arslan Amjad,S Hook,Mehboob Ali,1,0,,,,,,"",""
+ball,2,16.5,Estonia,S Hook,Arslan Amjad,Mehboob Ali,0,0,,,,,,"",""
+ball,2,16.6,Estonia,S Hook,Arslan Amjad,Mehboob Ali,1,0,,,,,,"",""
+ball,2,17.1,Estonia,S Hook,Arslan Amjad,P Pushparajan,1,0,,,,,,"",""
+ball,2,17.2,Estonia,Arslan Amjad,S Hook,P Pushparajan,0,0,,,,,,"",""
+ball,2,17.3,Estonia,Arslan Amjad,S Hook,P Pushparajan,6,0,,,,,,"",""
+ball,2,17.4,Estonia,Arslan Amjad,S Hook,P Pushparajan,6,0,,,,,,"",""
+ball,2,17.5,Estonia,Arslan Amjad,S Hook,P Pushparajan,0,0,,,,,,"",""
+ball,2,17.6,Estonia,Arslan Amjad,S Hook,P Pushparajan,1,0,,,,,,"",""
+ball,2,18.1,Estonia,Arslan Amjad,S Hook,D Marks,1,0,,,,,,"",""
+ball,2,18.2,Estonia,S Hook,Arslan Amjad,D Marks,2,0,,,,,,"",""
+ball,2,18.3,Estonia,S Hook,Arslan Amjad,D Marks,1,0,,,,,,"",""
+ball,2,18.4,Estonia,Arslan Amjad,S Hook,D Marks,1,0,,,,,,"",""
+ball,2,18.5,Estonia,S Hook,Arslan Amjad,D Marks,1,0,,,,,,"",""
+ball,2,18.6,Estonia,Arslan Amjad,S Hook,D Marks,1,0,,,,,,"",""
+ball,2,19.1,Estonia,Arslan Amjad,S Hook,Jaswinder Singh,2,0,,,,,,"",""
+ball,2,19.2,Estonia,Arslan Amjad,S Hook,Jaswinder Singh,0,0,,,,,,caught,Arslan Amjad
+ball,2,19.3,Estonia,R Baruah,S Hook,Jaswinder Singh,1,0,,,,,,"",""
+ball,2,19.4,Estonia,S Hook,R Baruah,Jaswinder Singh,1,0,,,,,,run out,S Hook
+ball,2,19.5,Estonia,Elias Hasan,R Baruah,Jaswinder Singh,6,0,,,,,,"",""
+ball,2,19.6,Estonia,Elias Hasan,R Baruah,Jaswinder Singh,1,0,,,,,,"",""

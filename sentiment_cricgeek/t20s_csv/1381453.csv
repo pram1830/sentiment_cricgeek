@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Turkey
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Quadrangular Twenty20 Series (Bulgaria)
+info,match_number,1
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Serbia
+info,toss_decision,bat
+info,player_of_match,A Dizija
+info,winner,Serbia
+info,winner_runs,70
+info,player,Serbia,A Dizija
+info,player,Serbia,S Tosic
+info,player,Serbia,LA Dunbar
+info,player,Serbia,WAE Burton
+info,player,Serbia,MV Pavlovic
+info,player,Serbia,N Zimonjic
+info,player,Serbia,V Zimonjic
+info,player,Serbia,NR Johns-Wickberg
+info,player,Serbia,Rahman Ademi
+info,player,Serbia,AA Gajic
+info,player,Serbia,B Dugic
+info,player,Turkey,I Elec
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,BC Sahin
+info,player,Turkey,R Nath
+info,player,Turkey,M Ozturk
+info,player,Turkey,A Turkmen
+info,player,Turkey,Muhammed Turkmen
+info,player,Turkey,Murat Yilmaz
+info,player,Turkey,Murat Ipek
+info,player,Turkey,Muhammet Bicer
+info,player,Turkey,Muhammet Kursat
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,AA Gajic,a768a762
+info,registry,people,B Dugic,5edaa34d
+info,registry,people,BC Sahin,57cb4044
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,Muhammed Turkmen,8e7e982c
+info,registry,people,Muhammet Bicer,7990dc16
+info,registry,people,Muhammet Kursat,dc53a969
+info,registry,people,Murat Ipek,86f471ae
+info,registry,people,Murat Yilmaz,f2990906
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,NR Johns-Wickberg,3924b2ee
+info,registry,people,R Nath,126f1e28
+info,registry,people,Rahman Ademi,a9fd6ca3
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,WAE Burton,b0358c6d
+ball,1,0.1,Serbia,A Dizija,S Tosic,A Turkmen,0,0,,,,,,"",""
+ball,1,0.2,Serbia,A Dizija,S Tosic,A Turkmen,0,1,1,,,,,"",""
+ball,1,0.3,Serbia,A Dizija,S Tosic,A Turkmen,0,0,,,,,,"",""
+ball,1,0.4,Serbia,A Dizija,S Tosic,A Turkmen,0,1,1,,,,,"",""
+ball,1,0.5,Serbia,A Dizija,S Tosic,A Turkmen,4,0,,,,,,"",""
+ball,1,0.6,Serbia,A Dizija,S Tosic,A Turkmen,0,1,1,,,,,"",""
+ball,1,0.7,Serbia,A Dizija,S Tosic,A Turkmen,1,0,,,,,,"",""
+ball,1,0.8,Serbia,S Tosic,A Dizija,A Turkmen,0,0,,,,,,"",""
+ball,1,0.9,Serbia,S Tosic,A Dizija,A Turkmen,0,0,,,,,,"",""
+ball,1,1.1,Serbia,A Dizija,S Tosic,M Ozturk,1,0,,,,,,"",""
+ball,1,1.2,Serbia,S Tosic,A Dizija,M Ozturk,0,0,,,,,,"",""
+ball,1,1.3,Serbia,S Tosic,A Dizija,M Ozturk,0,1,1,,,,,"",""
+ball,1,1.4,Serbia,S Tosic,A Dizija,M Ozturk,1,0,,,,,,"",""
+ball,1,1.5,Serbia,A Dizija,S Tosic,M Ozturk,1,0,,,,,,"",""
+ball,1,1.6,Serbia,S Tosic,A Dizija,M Ozturk,1,0,,,,,,"",""
+ball,1,1.7,Serbia,A Dizija,S Tosic,M Ozturk,4,0,,,,,,"",""
+ball,1,2.1,Serbia,S Tosic,A Dizija,A Turkmen,1,0,,,,,,"",""
+ball,1,2.2,Serbia,A Dizija,S Tosic,A Turkmen,2,0,,,,,,"",""
+ball,1,2.3,Serbia,A Dizija,S Tosic,A Turkmen,0,1,1,,,,,"",""
+ball,1,2.4,Serbia,A Dizija,S Tosic,A Turkmen,0,0,,,,,,"",""
+ball,1,2.5,Serbia,A Dizija,S Tosic,A Turkmen,1,0,,,,,,"",""
+ball,1,2.6,Serbia,S Tosic,A Dizija,A Turkmen,1,0,,,,,,"",""
+ball,1,2.7,Serbia,A Dizija,S Tosic,A Turkmen,0,1,,,,1,,"",""
+ball,1,3.1,Serbia,A Dizija,S Tosic,M Ozturk,4,0,,,,,,"",""
+ball,1,3.2,Serbia,A Dizija,S Tosic,M Ozturk,4,0,,,,,,"",""
+ball,1,3.3,Serbia,A Dizija,S Tosic,M Ozturk,0,5,5,,,,,"",""
+ball,1,3.4,Serbia,A Dizija,S Tosic,M Ozturk,4,0,,,,,,"",""
+ball,1,3.5,Serbia,A Dizija,S Tosic,M Ozturk,1,0,,,,,,"",""
+ball,1,3.6,Serbia,S Tosic,A Dizija,M Ozturk,1,0,,,,,,"",""
+ball,1,3.7,Serbia,A Dizija,S Tosic,M Ozturk,0,0,,,,,,"",""
+ball,1,4.1,Serbia,S Tosic,A Dizija,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,4.2,Serbia,S Tosic,A Dizija,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,4.3,Serbia,S Tosic,A Dizija,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,4.4,Serbia,S Tosic,A Dizija,Muhammed Turkmen,0,1,,,1,,,"",""
+ball,1,4.5,Serbia,A Dizija,S Tosic,Muhammed Turkmen,0,1,1,,,,,"",""
+ball,1,4.6,Serbia,A Dizija,S Tosic,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,4.7,Serbia,S Tosic,A Dizija,Muhammed Turkmen,0,0,,,,,,"",""
+ball,1,5.1,Serbia,A Dizija,S Tosic,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,5.2,Serbia,S Tosic,A Dizija,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,5.3,Serbia,A Dizija,S Tosic,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,5.4,Serbia,S Tosic,A Dizija,Ilyas Ataullah,0,0,,,,,,"",""
+ball,1,5.5,Serbia,S Tosic,A Dizija,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,5.6,Serbia,A Dizija,S Tosic,Ilyas Ataullah,2,0,,,,,,"",""
+ball,1,6.1,Serbia,S Tosic,A Dizija,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,6.2,Serbia,A Dizija,S Tosic,Muhammed Turkmen,0,1,,,,1,,"",""
+ball,1,6.3,Serbia,S Tosic,A Dizija,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,6.4,Serbia,A Dizija,S Tosic,Muhammed Turkmen,2,0,,,,,,"",""
+ball,1,6.5,Serbia,A Dizija,S Tosic,Muhammed Turkmen,2,0,,,,,,"",""
+ball,1,6.6,Serbia,A Dizija,S Tosic,Muhammed Turkmen,2,0,,,,,,"",""
+ball,1,7.1,Serbia,S Tosic,A Dizija,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,7.2,Serbia,A Dizija,S Tosic,Ilyas Ataullah,2,0,,,,,,"",""
+ball,1,7.3,Serbia,A Dizija,S Tosic,Ilyas Ataullah,2,0,,,,,,"",""
+ball,1,7.4,Serbia,A Dizija,S Tosic,Ilyas Ataullah,0,0,,,,,,"",""
+ball,1,7.5,Serbia,A Dizija,S Tosic,Ilyas Ataullah,0,5,5,,,,,"",""
+ball,1,7.6,Serbia,A Dizija,S Tosic,Ilyas Ataullah,6,0,,,,,,"",""
+ball,1,7.7,Serbia,A Dizija,S Tosic,Ilyas Ataullah,6,0,,,,,,"",""
+ball,1,8.1,Serbia,S Tosic,A Dizija,I Elec,1,0,,,,,,"",""
+ball,1,8.2,Serbia,A Dizija,S Tosic,I Elec,1,0,,,,,,"",""
+ball,1,8.3,Serbia,S Tosic,A Dizija,I Elec,0,4,,,4,,,"",""
+ball,1,8.4,Serbia,S Tosic,A Dizija,I Elec,1,0,,,,,,"",""
+ball,1,8.5,Serbia,A Dizija,S Tosic,I Elec,1,0,,,,,,"",""
+ball,1,8.6,Serbia,S Tosic,A Dizija,I Elec,2,0,,,,,,"",""
+ball,1,9.1,Serbia,A Dizija,S Tosic,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,9.2,Serbia,S Tosic,A Dizija,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,9.3,Serbia,A Dizija,S Tosic,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,9.4,Serbia,S Tosic,A Dizija,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,9.5,Serbia,A Dizija,S Tosic,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,9.6,Serbia,S Tosic,A Dizija,Murat Yilmaz,2,0,,,,,,"",""
+ball,1,10.1,Serbia,A Dizija,S Tosic,I Elec,1,0,,,,,,"",""
+ball,1,10.2,Serbia,S Tosic,A Dizija,I Elec,1,0,,,,,,"",""
+ball,1,10.3,Serbia,A Dizija,S Tosic,I Elec,6,0,,,,,,"",""
+ball,1,10.4,Serbia,A Dizija,S Tosic,I Elec,6,0,,,,,,"",""
+ball,1,10.5,Serbia,A Dizija,S Tosic,I Elec,1,0,,,,,,"",""
+ball,1,10.6,Serbia,S Tosic,A Dizija,I Elec,0,0,,,,,,"",""
+ball,1,11.1,Serbia,A Dizija,S Tosic,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,11.2,Serbia,S Tosic,A Dizija,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,11.3,Serbia,A Dizija,S Tosic,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,11.4,Serbia,S Tosic,A Dizija,Murat Yilmaz,1,0,,,,,,"",""
+ball,1,11.5,Serbia,A Dizija,S Tosic,Murat Yilmaz,0,0,,,,,,"",""
+ball,1,11.6,Serbia,A Dizija,S Tosic,Murat Yilmaz,2,0,,,,,,"",""
+ball,1,12.1,Serbia,S Tosic,A Dizija,Muhammet Kursat,1,0,,,,,,"",""
+ball,1,12.2,Serbia,A Dizija,S Tosic,Muhammet Kursat,0,1,1,,,,,"",""
+ball,1,12.3,Serbia,A Dizija,S Tosic,Muhammet Kursat,2,0,,,,,,"",""
+ball,1,12.4,Serbia,A Dizija,S Tosic,Muhammet Kursat,6,0,,,,,,"",""
+ball,1,12.5,Serbia,A Dizija,S Tosic,Muhammet Kursat,6,0,,,,,,"",""
+ball,1,12.6,Serbia,A Dizija,S Tosic,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,12.7,Serbia,A Dizija,S Tosic,Muhammet Kursat,0,0,,,,,,caught,A Dizija
+ball,1,13.1,Serbia,S Tosic,LA Dunbar,A Turkmen,0,0,,,,,,"",""
+ball,1,13.2,Serbia,S Tosic,LA Dunbar,A Turkmen,0,0,,,,,,"",""
+ball,1,13.3,Serbia,S Tosic,LA Dunbar,A Turkmen,0,5,,,,,5,"",""
+ball,1,13.4,Serbia,S Tosic,LA Dunbar,A Turkmen,1,0,,,,,,"",""
+ball,1,13.5,Serbia,LA Dunbar,S Tosic,A Turkmen,0,0,,,,,,lbw,LA Dunbar
+ball,1,13.6,Serbia,WAE Burton,S Tosic,A Turkmen,0,0,,,,,,caught,WAE Burton
+ball,1,14.1,Serbia,S Tosic,MV Pavlovic,M Ozturk,1,0,,,,,,"",""
+ball,1,14.2,Serbia,MV Pavlovic,S Tosic,M Ozturk,0,1,1,,,,,"",""
+ball,1,14.3,Serbia,MV Pavlovic,S Tosic,M Ozturk,0,0,,,,,,lbw,MV Pavlovic
+ball,1,14.4,Serbia,N Zimonjic,S Tosic,M Ozturk,1,0,,,,,,"",""
+ball,1,14.5,Serbia,S Tosic,N Zimonjic,M Ozturk,2,0,,,,,,"",""
+ball,1,14.6,Serbia,S Tosic,N Zimonjic,M Ozturk,0,0,,,,,,"",""
+ball,1,14.7,Serbia,S Tosic,N Zimonjic,M Ozturk,0,0,,,,,,"",""
+ball,1,15.1,Serbia,N Zimonjic,S Tosic,A Turkmen,0,0,,,,,,"",""
+ball,1,15.2,Serbia,N Zimonjic,S Tosic,A Turkmen,0,0,,,,,,bowled,N Zimonjic
+ball,1,15.3,Serbia,V Zimonjic,S Tosic,A Turkmen,0,0,,,,,,"",""
+ball,1,15.4,Serbia,V Zimonjic,S Tosic,A Turkmen,1,0,,,,,,"",""
+ball,1,15.5,Serbia,S Tosic,V Zimonjic,A Turkmen,4,0,,,,,,"",""
+ball,1,15.6,Serbia,S Tosic,V Zimonjic,A Turkmen,1,0,,,,,,"",""
+ball,1,16.1,Serbia,S Tosic,V Zimonjic,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,16.2,Serbia,V Zimonjic,S Tosic,Muhammed Turkmen,2,0,,,,,,"",""
+ball,1,16.3,Serbia,V Zimonjic,S Tosic,Muhammed Turkmen,2,0,,,,,,"",""
+ball,1,16.4,Serbia,V Zimonjic,S Tosic,Muhammed Turkmen,0,1,1,,,,,"",""
+ball,1,16.5,Serbia,V Zimonjic,S Tosic,Muhammed Turkmen,2,0,,,,,,"",""
+ball,1,16.6,Serbia,V Zimonjic,S Tosic,Muhammed Turkmen,1,0,,,,,,"",""
+ball,1,16.7,Serbia,S Tosic,V Zimonjic,Muhammed Turkmen,4,0,,,,,,"",""
+ball,1,17.1,Serbia,V Zimonjic,S Tosic,M Ozturk,1,0,,,,,,"",""
+ball,1,17.2,Serbia,S Tosic,V Zimonjic,M Ozturk,1,0,,,,,,"",""
+ball,1,17.3,Serbia,V Zimonjic,S Tosic,M Ozturk,1,0,,,,,,"",""
+ball,1,17.4,Serbia,S Tosic,V Zimonjic,M Ozturk,0,0,,,,,,"",""
+ball,1,17.5,Serbia,S Tosic,V Zimonjic,M Ozturk,1,0,,,,,,"",""
+ball,1,17.6,Serbia,V Zimonjic,S Tosic,M Ozturk,0,0,,,,,,caught,V Zimonjic
+ball,1,18.1,Serbia,S Tosic,NR Johns-Wickberg,Ilyas Ataullah,0,1,1,,,,,"",""
+ball,1,18.2,Serbia,S Tosic,NR Johns-Wickberg,Ilyas Ataullah,0,1,1,,,,,"",""
+ball,1,18.3,Serbia,S Tosic,NR Johns-Wickberg,Ilyas Ataullah,0,0,,,,,,"",""
+ball,1,18.4,Serbia,S Tosic,NR Johns-Wickberg,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,18.5,Serbia,NR Johns-Wickberg,S Tosic,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,18.6,Serbia,S Tosic,NR Johns-Wickberg,Ilyas Ataullah,1,0,,,,,,"",""
+ball,1,18.7,Serbia,NR Johns-Wickberg,S Tosic,Ilyas Ataullah,0,0,,,,,,"",""
+ball,1,18.8,Serbia,NR Johns-Wickberg,S Tosic,Ilyas Ataullah,0,4,,,4,,,"",""
+ball,1,19.1,Serbia,S Tosic,NR Johns-Wickberg,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,19.2,Serbia,S Tosic,NR Johns-Wickberg,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,19.3,Serbia,S Tosic,NR Johns-Wickberg,Muhammet Kursat,0,0,,,,,,caught,S Tosic
+ball,1,19.4,Serbia,Rahman Ademi,NR Johns-Wickberg,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,19.5,Serbia,Rahman Ademi,NR Johns-Wickberg,Muhammet Kursat,0,0,,,,,,"",""
+ball,1,19.6,Serbia,Rahman Ademi,NR Johns-Wickberg,Muhammet Kursat,1,0,,,,,,run out,Rahman Ademi
+ball,2,0.1,Turkey,I Elec,Ilyas Ataullah,V Zimonjic,0,0,,,,,,"",""
+ball,2,0.2,Turkey,I Elec,Ilyas Ataullah,V Zimonjic,1,0,,,,,,"",""
+ball,2,0.3,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,0,0,,,,,,"",""
+ball,2,0.4,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,0,1,1,,,,,"",""
+ball,2,0.5,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,0,0,,,,,,"",""
+ball,2,0.6,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,0,0,,,,,,"",""
+ball,2,0.7,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,0,0,,,,,,"",""
+ball,2,1.1,Turkey,I Elec,Ilyas Ataullah,AA Gajic,1,0,,,,,,"",""
+ball,2,1.2,Turkey,Ilyas Ataullah,I Elec,AA Gajic,6,0,,,,,,"",""
+ball,2,1.3,Turkey,Ilyas Ataullah,I Elec,AA Gajic,0,0,,,,,,"",""
+ball,2,1.4,Turkey,Ilyas Ataullah,I Elec,AA Gajic,0,0,,,,,,"",""
+ball,2,1.5,Turkey,Ilyas Ataullah,I Elec,AA Gajic,1,1,,1,,,,"",""
+ball,2,1.6,Turkey,I Elec,Ilyas Ataullah,AA Gajic,0,0,,,,,,"",""
+ball,2,1.7,Turkey,I Elec,Ilyas Ataullah,AA Gajic,0,0,,,,,,"",""
+ball,2,2.1,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,0,0,,,,,,"",""
+ball,2,2.2,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,0,0,,,,,,"",""
+ball,2,2.3,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,4,0,,,,,,"",""
+ball,2,2.4,Turkey,Ilyas Ataullah,I Elec,V Zimonjic,1,0,,,,,,"",""
+ball,2,2.5,Turkey,I Elec,Ilyas Ataullah,V Zimonjic,0,0,,,,,,"",""
+ball,2,2.6,Turkey,I Elec,Ilyas Ataullah,V Zimonjic,0,0,,,,,,"",""
+ball,2,3.1,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,4,0,,,,,,"",""
+ball,2,3.2,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,3.3,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,2,0,,,,,,"",""
+ball,2,3.4,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,3.5,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,3.6,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,4.1,Turkey,I Elec,Ilyas Ataullah,AA Gajic,1,0,,,,,,"",""
+ball,2,4.2,Turkey,Ilyas Ataullah,I Elec,AA Gajic,1,0,,,,,,"",""
+ball,2,4.3,Turkey,I Elec,Ilyas Ataullah,AA Gajic,1,0,,,,,,"",""
+ball,2,4.4,Turkey,Ilyas Ataullah,I Elec,AA Gajic,0,0,,,,,,"",""
+ball,2,4.5,Turkey,Ilyas Ataullah,I Elec,AA Gajic,0,0,,,,,,"",""
+ball,2,4.6,Turkey,Ilyas Ataullah,I Elec,AA Gajic,0,0,,,,,,"",""
+ball,2,5.1,Turkey,I Elec,Ilyas Ataullah,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,5.2,Turkey,I Elec,Ilyas Ataullah,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,2,5.3,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,5.4,Turkey,Ilyas Ataullah,I Elec,NR Johns-Wickberg,0,0,,,,,,bowled,Ilyas Ataullah
+ball,2,5.5,Turkey,BC Sahin,I Elec,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,5.6,Turkey,BC Sahin,I Elec,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,6.1,Turkey,I Elec,BC Sahin,B Dugic,0,0,,,,,,"",""
+ball,2,6.2,Turkey,I Elec,BC Sahin,B Dugic,0,1,1,,,,,"",""
+ball,2,6.3,Turkey,I Elec,BC Sahin,B Dugic,0,0,,,,,,bowled,I Elec
+ball,2,6.4,Turkey,R Nath,BC Sahin,B Dugic,0,1,1,,,,,"",""
+ball,2,6.5,Turkey,R Nath,BC Sahin,B Dugic,0,0,,,,,,"",""
+ball,2,6.6,Turkey,R Nath,BC Sahin,B Dugic,4,0,,,,,,"",""
+ball,2,6.7,Turkey,R Nath,BC Sahin,B Dugic,0,0,,,,,,"",""
+ball,2,6.8,Turkey,R Nath,BC Sahin,B Dugic,1,0,,,,,,"",""
+ball,2,7.1,Turkey,R Nath,BC Sahin,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,7.2,Turkey,R Nath,BC Sahin,NR Johns-Wickberg,6,0,,,,,,"",""
+ball,2,7.3,Turkey,R Nath,BC Sahin,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,7.4,Turkey,R Nath,BC Sahin,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,7.5,Turkey,R Nath,BC Sahin,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,2,7.6,Turkey,BC Sahin,R Nath,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,8.1,Turkey,R Nath,BC Sahin,B Dugic,0,0,,,,,,"",""
+ball,2,8.2,Turkey,R Nath,BC Sahin,B Dugic,0,0,,,,,,"",""
+ball,2,8.3,Turkey,R Nath,BC Sahin,B Dugic,1,0,,,,,,"",""
+ball,2,8.4,Turkey,BC Sahin,R Nath,B Dugic,0,0,,,,,,"",""
+ball,2,8.5,Turkey,BC Sahin,R Nath,B Dugic,0,1,1,,,,,"",""
+ball,2,8.6,Turkey,BC Sahin,R Nath,B Dugic,0,1,,,1,,,"",""
+ball,2,8.7,Turkey,R Nath,BC Sahin,B Dugic,1,0,,,,,,"",""
+ball,2,9.1,Turkey,R Nath,BC Sahin,MV Pavlovic,1,0,,,,,,"",""
+ball,2,9.2,Turkey,BC Sahin,R Nath,MV Pavlovic,0,0,,,,,,"",""
+ball,2,9.3,Turkey,BC Sahin,R Nath,MV Pavlovic,0,0,,,,,,"",""
+ball,2,9.4,Turkey,BC Sahin,R Nath,MV Pavlovic,0,1,1,,,,,"",""
+ball,2,9.5,Turkey,BC Sahin,R Nath,MV Pavlovic,4,0,,,,,,"",""
+ball,2,9.6,Turkey,BC Sahin,R Nath,MV Pavlovic,0,0,,,,,,"",""
+ball,2,9.7,Turkey,BC Sahin,R Nath,MV Pavlovic,0,0,,,,,,"",""
+ball,2,10.1,Turkey,R Nath,BC Sahin,B Dugic,0,0,,,,,,"",""
+ball,2,10.2,Turkey,R Nath,BC Sahin,B Dugic,0,0,,,,,,"",""
+ball,2,10.3,Turkey,R Nath,BC Sahin,B Dugic,0,1,1,,,,,"",""
+ball,2,10.4,Turkey,R Nath,BC Sahin,B Dugic,1,0,,,,,,"",""
+ball,2,10.5,Turkey,BC Sahin,R Nath,B Dugic,1,0,,,,,,"",""
+ball,2,10.6,Turkey,R Nath,BC Sahin,B Dugic,4,0,,,,,,"",""
+ball,2,10.7,Turkey,R Nath,BC Sahin,B Dugic,1,0,,,,,,"",""
+ball,2,11.1,Turkey,R Nath,BC Sahin,MV Pavlovic,1,0,,,,,,"",""
+ball,2,11.2,Turkey,BC Sahin,R Nath,MV Pavlovic,0,1,1,,,,,"",""
+ball,2,11.3,Turkey,BC Sahin,R Nath,MV Pavlovic,0,0,,,,,,bowled,BC Sahin
+ball,2,11.4,Turkey,M Ozturk,R Nath,MV Pavlovic,0,0,,,,,,"",""
+ball,2,11.5,Turkey,M Ozturk,R Nath,MV Pavlovic,0,0,,,,,,"",""
+ball,2,11.6,Turkey,M Ozturk,R Nath,MV Pavlovic,1,0,,,,,,"",""
+ball,2,11.7,Turkey,R Nath,M Ozturk,MV Pavlovic,1,0,,,,,,"",""
+ball,2,12.1,Turkey,R Nath,M Ozturk,Rahman Ademi,1,0,,,,,,"",""
+ball,2,12.2,Turkey,M Ozturk,R Nath,Rahman Ademi,0,0,,,,,,"",""
+ball,2,12.3,Turkey,M Ozturk,R Nath,Rahman Ademi,0,0,,,,,,"",""
+ball,2,12.4,Turkey,M Ozturk,R Nath,Rahman Ademi,1,0,,,,,,"",""
+ball,2,12.5,Turkey,R Nath,M Ozturk,Rahman Ademi,0,0,,,,,,"",""
+ball,2,12.6,Turkey,R Nath,M Ozturk,Rahman Ademi,1,0,,,,,,"",""
+ball,2,13.1,Turkey,R Nath,M Ozturk,AA Gajic,1,0,,,,,,"",""
+ball,2,13.2,Turkey,M Ozturk,R Nath,AA Gajic,1,0,,,,,,"",""
+ball,2,13.3,Turkey,R Nath,M Ozturk,AA Gajic,6,0,,,,,,"",""
+ball,2,13.4,Turkey,R Nath,M Ozturk,AA Gajic,6,0,,,,,,"",""
+ball,2,13.5,Turkey,R Nath,M Ozturk,AA Gajic,0,0,,,,,,bowled,R Nath
+ball,2,13.6,Turkey,A Turkmen,M Ozturk,AA Gajic,0,1,1,,,,,"",""
+ball,2,13.7,Turkey,A Turkmen,M Ozturk,AA Gajic,0,0,,,,,,"",""
+ball,2,14.1,Turkey,M Ozturk,A Turkmen,Rahman Ademi,6,0,,,,,,"",""
+ball,2,14.2,Turkey,M Ozturk,A Turkmen,Rahman Ademi,0,0,,,,,,"",""
+ball,2,14.3,Turkey,M Ozturk,A Turkmen,Rahman Ademi,4,0,,,,,,"",""
+ball,2,14.4,Turkey,M Ozturk,A Turkmen,Rahman Ademi,1,0,,,,,,"",""
+ball,2,14.5,Turkey,A Turkmen,M Ozturk,Rahman Ademi,1,0,,,,,,"",""
+ball,2,14.6,Turkey,M Ozturk,A Turkmen,Rahman Ademi,6,0,,,,,,"",""
+ball,2,15.1,Turkey,A Turkmen,M Ozturk,MV Pavlovic,1,0,,,,,,"",""
+ball,2,15.2,Turkey,M Ozturk,A Turkmen,MV Pavlovic,1,0,,,,,,"",""
+ball,2,15.3,Turkey,A Turkmen,M Ozturk,MV Pavlovic,0,0,,,,,,"",""
+ball,2,15.4,Turkey,A Turkmen,M Ozturk,MV Pavlovic,1,0,,,,,,"",""
+ball,2,15.5,Turkey,M Ozturk,A Turkmen,MV Pavlovic,0,0,,,,,,"",""
+ball,2,15.6,Turkey,M Ozturk,A Turkmen,MV Pavlovic,0,0,,,,,,caught,M Ozturk
+ball,2,16.1,Turkey,A Turkmen,Muhammed Turkmen,NR Johns-Wickberg,0,0,,,,,,bowled,A Turkmen
+ball,2,16.2,Turkey,Murat Yilmaz,Muhammed Turkmen,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,16.3,Turkey,Murat Yilmaz,Muhammed Turkmen,NR Johns-Wickberg,0,0,,,,,,bowled,Murat Yilmaz
+ball,2,16.4,Turkey,Murat Ipek,Muhammed Turkmen,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,2,16.5,Turkey,Muhammed Turkmen,Murat Ipek,NR Johns-Wickberg,0,0,,,,,,"",""
+ball,2,16.6,Turkey,Muhammed Turkmen,Murat Ipek,NR Johns-Wickberg,1,0,,,,,,"",""
+ball,2,17.1,Turkey,Muhammed Turkmen,Murat Ipek,V Zimonjic,4,0,,,,,,"",""
+ball,2,17.2,Turkey,Muhammed Turkmen,Murat Ipek,V Zimonjic,0,0,,,,,,"",""
+ball,2,17.3,Turkey,Muhammed Turkmen,Murat Ipek,V Zimonjic,1,0,,,,,,run out,Murat Ipek
+ball,2,17.4,Turkey,Muhammed Turkmen,Muhammet Bicer,V Zimonjic,2,0,,,,,,"",""
+ball,2,17.5,Turkey,Muhammed Turkmen,Muhammet Bicer,V Zimonjic,1,0,,,,,,"",""
+ball,2,17.6,Turkey,Muhammet Bicer,Muhammed Turkmen,V Zimonjic,0,0,,,,,,"",""
+ball,2,18.1,Turkey,Muhammed Turkmen,Muhammet Bicer,MV Pavlovic,0,0,,,,,,caught,Muhammed Turkmen
+ball,2,18.2,Turkey,Muhammet Kursat,Muhammet Bicer,MV Pavlovic,0,0,,,,,,bowled,Muhammet Kursat

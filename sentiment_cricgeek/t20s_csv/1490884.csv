@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Malta
+info,gender,male
+info,season,2025
+info,date,2025/06/26
+info,event,Continental Cup
+info,match_number,3
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Malta
+info,toss_decision,field
+info,player_of_match,Muhammad Muneeb
+info,winner,Belgium
+info,winner_runs,65
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,A Raza
+info,player,Belgium,B Niaz
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,F Khaliq
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Rafiulah Alokozai
+info,player,Belgium,Iftikhar Kankhel
+info,player,Belgium,Zaki Ul Hassan
+info,player,Malta,Mehboob Ali
+info,player,Malta,Mohammed Qasim
+info,player,Malta,P Pushparajan
+info,player,Malta,R Dianish
+info,player,Malta,Jaspal Singh
+info,player,Malta,SB Patel
+info,player,Malta,Imran Ameer
+info,player,Malta,Muhammad Ajmal
+info,player,Malta,Jaswinder Singh
+info,player,Malta,Washeem Abbas
+info,player,Malta,D Marks
+info,registry,people,A Raza,838bc6ab
+info,registry,people,B Niaz,b7824537
+info,registry,people,D Marks,0813a8b1
+info,registry,people,F Khaliq,c17dcc29
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,Mohammed Qasim,a120e81b
+info,registry,people,Muhammad Ajmal,0782aec3
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,Rafiulah Alokozai,1f22730e
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zaki Ul Hassan,1d6d8a8b
+ball,1,0.1,Belgium,Muhammad Muneeb,A Raza,Mehboob Ali,0,0,,,,,,"",""
+ball,1,0.2,Belgium,Muhammad Muneeb,A Raza,Mehboob Ali,6,0,,,,,,"",""
+ball,1,0.3,Belgium,Muhammad Muneeb,A Raza,Mehboob Ali,1,0,,,,,,"",""
+ball,1,0.4,Belgium,A Raza,Muhammad Muneeb,Mehboob Ali,0,1,1,,,,,"",""
+ball,1,0.5,Belgium,A Raza,Muhammad Muneeb,Mehboob Ali,0,0,,,,,,"",""
+ball,1,0.6,Belgium,A Raza,Muhammad Muneeb,Mehboob Ali,0,4,,,,4,,"",""
+ball,1,0.7,Belgium,A Raza,Muhammad Muneeb,Mehboob Ali,0,0,,,,,,"",""
+ball,1,1.1,Belgium,Muhammad Muneeb,A Raza,D Marks,0,1,1,,,,,"",""
+ball,1,1.2,Belgium,Muhammad Muneeb,A Raza,D Marks,0,0,,,,,,"",""
+ball,1,1.3,Belgium,Muhammad Muneeb,A Raza,D Marks,6,0,,,,,,"",""
+ball,1,1.4,Belgium,Muhammad Muneeb,A Raza,D Marks,2,0,,,,,,"",""
+ball,1,1.5,Belgium,Muhammad Muneeb,A Raza,D Marks,1,0,,,,,,"",""
+ball,1,1.6,Belgium,A Raza,Muhammad Muneeb,D Marks,4,0,,,,,,"",""
+ball,1,1.7,Belgium,A Raza,Muhammad Muneeb,D Marks,4,0,,,,,,"",""
+ball,1,2.1,Belgium,Muhammad Muneeb,A Raza,Mohammed Qasim,4,0,,,,,,"",""
+ball,1,2.2,Belgium,Muhammad Muneeb,A Raza,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,2.3,Belgium,Muhammad Muneeb,A Raza,Mohammed Qasim,0,1,1,,,,,"",""
+ball,1,2.4,Belgium,Muhammad Muneeb,A Raza,Mohammed Qasim,4,0,,,,,,"",""
+ball,1,2.5,Belgium,Muhammad Muneeb,A Raza,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,2.6,Belgium,Muhammad Muneeb,A Raza,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,2.7,Belgium,Muhammad Muneeb,A Raza,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,3.1,Belgium,Muhammad Muneeb,A Raza,D Marks,1,0,,,,,,"",""
+ball,1,3.2,Belgium,A Raza,Muhammad Muneeb,D Marks,4,0,,,,,,"",""
+ball,1,3.3,Belgium,A Raza,Muhammad Muneeb,D Marks,0,0,,,,,,"",""
+ball,1,3.4,Belgium,A Raza,Muhammad Muneeb,D Marks,1,0,,,,,,"",""
+ball,1,3.5,Belgium,Muhammad Muneeb,A Raza,D Marks,4,0,,,,,,"",""
+ball,1,3.6,Belgium,Muhammad Muneeb,A Raza,D Marks,0,0,,,,,,"",""
+ball,1,4.1,Belgium,A Raza,Muhammad Muneeb,Mehboob Ali,0,0,,,,,,"",""
+ball,1,4.2,Belgium,A Raza,Muhammad Muneeb,Mehboob Ali,4,0,,,,,,"",""
+ball,1,4.3,Belgium,A Raza,Muhammad Muneeb,Mehboob Ali,1,0,,,,,,"",""
+ball,1,4.4,Belgium,Muhammad Muneeb,A Raza,Mehboob Ali,4,0,,,,,,"",""
+ball,1,4.5,Belgium,Muhammad Muneeb,A Raza,Mehboob Ali,2,0,,,,,,"",""
+ball,1,4.6,Belgium,Muhammad Muneeb,A Raza,Mehboob Ali,0,0,,,,,,"",""
+ball,1,5.1,Belgium,A Raza,Muhammad Muneeb,Washeem Abbas,2,0,,,,,,"",""
+ball,1,5.2,Belgium,A Raza,Muhammad Muneeb,Washeem Abbas,2,0,,,,,,"",""
+ball,1,5.3,Belgium,A Raza,Muhammad Muneeb,Washeem Abbas,0,0,,,,,,"",""
+ball,1,5.4,Belgium,A Raza,Muhammad Muneeb,Washeem Abbas,1,0,,,,,,"",""
+ball,1,5.5,Belgium,Muhammad Muneeb,A Raza,Washeem Abbas,2,0,,,,,,"",""
+ball,1,5.6,Belgium,Muhammad Muneeb,A Raza,Washeem Abbas,0,0,,,,,,"",""
+ball,1,6.1,Belgium,A Raza,Muhammad Muneeb,Imran Ameer,1,0,,,,,,"",""
+ball,1,6.2,Belgium,Muhammad Muneeb,A Raza,Imran Ameer,4,0,,,,,,"",""
+ball,1,6.3,Belgium,Muhammad Muneeb,A Raza,Imran Ameer,1,0,,,,,,"",""
+ball,1,6.4,Belgium,A Raza,Muhammad Muneeb,Imran Ameer,0,0,,,,,,bowled,A Raza
+ball,1,6.5,Belgium,B Niaz,Muhammad Muneeb,Imran Ameer,0,0,,,,,,"",""
+ball,1,6.6,Belgium,B Niaz,Muhammad Muneeb,Imran Ameer,1,0,,,,,,"",""
+ball,1,7.1,Belgium,B Niaz,Muhammad Muneeb,Washeem Abbas,1,0,,,,,,"",""
+ball,1,7.2,Belgium,Muhammad Muneeb,B Niaz,Washeem Abbas,1,0,,,,,,"",""
+ball,1,7.3,Belgium,B Niaz,Muhammad Muneeb,Washeem Abbas,1,0,,,,,,"",""
+ball,1,7.4,Belgium,Muhammad Muneeb,B Niaz,Washeem Abbas,4,0,,,,,,"",""
+ball,1,7.5,Belgium,Muhammad Muneeb,B Niaz,Washeem Abbas,1,0,,,,,,"",""
+ball,1,7.6,Belgium,B Niaz,Muhammad Muneeb,Washeem Abbas,0,0,,,,,,"",""
+ball,1,8.1,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,1,0,,,,,,"",""
+ball,1,8.2,Belgium,B Niaz,Muhammad Muneeb,Imran Ameer,1,0,,,,,,"",""
+ball,1,8.3,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,0,1,1,,,,,"",""
+ball,1,8.4,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,1,0,,,,,,"",""
+ball,1,8.5,Belgium,B Niaz,Muhammad Muneeb,Imran Ameer,0,0,,,,,,"",""
+ball,1,8.6,Belgium,B Niaz,Muhammad Muneeb,Imran Ameer,1,0,,,,,,"",""
+ball,1,8.7,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,1,0,,,,,,"",""
+ball,1,9.1,Belgium,Muhammad Muneeb,B Niaz,Jaswinder Singh,1,0,,,,,,"",""
+ball,1,9.2,Belgium,B Niaz,Muhammad Muneeb,Jaswinder Singh,0,1,1,,,,,"",""
+ball,1,9.3,Belgium,B Niaz,Muhammad Muneeb,Jaswinder Singh,4,0,,,,,,"",""
+ball,1,9.4,Belgium,B Niaz,Muhammad Muneeb,Jaswinder Singh,4,0,,,,,,"",""
+ball,1,9.5,Belgium,B Niaz,Muhammad Muneeb,Jaswinder Singh,1,0,,,,,,"",""
+ball,1,9.6,Belgium,Muhammad Muneeb,B Niaz,Jaswinder Singh,4,0,,,,,,"",""
+ball,1,9.7,Belgium,Muhammad Muneeb,B Niaz,Jaswinder Singh,1,0,,,,,,"",""
+ball,1,10.1,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,0,0,,,,,,"",""
+ball,1,10.2,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,0,0,,,,,,"",""
+ball,1,10.3,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,2,0,,,,,,"",""
+ball,1,10.4,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,2,0,,,,,,"",""
+ball,1,10.5,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,4,0,,,,,,"",""
+ball,1,10.6,Belgium,Muhammad Muneeb,B Niaz,Imran Ameer,1,0,,,,,,"",""
+ball,1,11.1,Belgium,Muhammad Muneeb,B Niaz,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,11.2,Belgium,B Niaz,Muhammad Muneeb,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,11.3,Belgium,Muhammad Muneeb,B Niaz,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,11.4,Belgium,B Niaz,Muhammad Muneeb,Mohammed Qasim,0,0,,,,,,caught,B Niaz
+ball,1,11.5,Belgium,Sheraz Sheikh,Muhammad Muneeb,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,11.6,Belgium,Muhammad Muneeb,Sheraz Sheikh,Mohammed Qasim,0,1,1,,,,,"",""
+ball,1,11.7,Belgium,Muhammad Muneeb,Sheraz Sheikh,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,12.1,Belgium,Sheraz Sheikh,Muhammad Muneeb,Imran Ameer,0,0,,,,,,"",""
+ball,1,12.2,Belgium,Sheraz Sheikh,Muhammad Muneeb,Imran Ameer,4,0,,,,,,"",""
+ball,1,12.3,Belgium,Sheraz Sheikh,Muhammad Muneeb,Imran Ameer,0,0,,,,,,bowled,Sheraz Sheikh
+ball,1,12.4,Belgium,Shaheryar Butt,Muhammad Muneeb,Imran Ameer,0,0,,,,,,"",""
+ball,1,12.5,Belgium,Shaheryar Butt,Muhammad Muneeb,Imran Ameer,2,0,,,,,,"",""
+ball,1,12.6,Belgium,Shaheryar Butt,Muhammad Muneeb,Imran Ameer,0,0,,,,,,"",""
+ball,1,13.1,Belgium,Muhammad Muneeb,Shaheryar Butt,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,13.2,Belgium,Shaheryar Butt,Muhammad Muneeb,Mohammed Qasim,4,0,,,,,,"",""
+ball,1,13.3,Belgium,Shaheryar Butt,Muhammad Muneeb,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,13.4,Belgium,Shaheryar Butt,Muhammad Muneeb,Mohammed Qasim,4,0,,,,,,"",""
+ball,1,13.5,Belgium,Shaheryar Butt,Muhammad Muneeb,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,13.6,Belgium,Muhammad Muneeb,Shaheryar Butt,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,14.1,Belgium,Shaheryar Butt,Muhammad Muneeb,P Pushparajan,0,0,,,,,,"",""
+ball,1,14.2,Belgium,Shaheryar Butt,Muhammad Muneeb,P Pushparajan,1,0,,,,,,"",""
+ball,1,14.3,Belgium,Muhammad Muneeb,Shaheryar Butt,P Pushparajan,0,0,,,,,,"",""
+ball,1,14.4,Belgium,Muhammad Muneeb,Shaheryar Butt,P Pushparajan,0,1,,,1,,,"",""
+ball,1,14.5,Belgium,Shaheryar Butt,Muhammad Muneeb,P Pushparajan,0,0,,,,,,"",""
+ball,1,14.6,Belgium,Shaheryar Butt,Muhammad Muneeb,P Pushparajan,0,0,,,,,,"",""
+ball,1,15.1,Belgium,Muhammad Muneeb,Shaheryar Butt,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,15.2,Belgium,Shaheryar Butt,Muhammad Muneeb,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,15.3,Belgium,Shaheryar Butt,Muhammad Muneeb,Mohammed Qasim,0,1,1,,,,,"",""
+ball,1,15.4,Belgium,Shaheryar Butt,Muhammad Muneeb,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,15.5,Belgium,Muhammad Muneeb,Shaheryar Butt,Mohammed Qasim,0,0,,,,,,caught,Muhammad Muneeb
+ball,1,15.6,Belgium,Saber Zakhil,Shaheryar Butt,Mohammed Qasim,0,0,,,,,,"",""
+ball,1,15.7,Belgium,Saber Zakhil,Shaheryar Butt,Mohammed Qasim,1,0,,,,,,"",""
+ball,1,16.1,Belgium,Saber Zakhil,Shaheryar Butt,P Pushparajan,1,0,,,,,,"",""
+ball,1,16.2,Belgium,Shaheryar Butt,Saber Zakhil,P Pushparajan,1,0,,,,,,"",""
+ball,1,16.3,Belgium,Saber Zakhil,Shaheryar Butt,P Pushparajan,1,0,,,,,,"",""
+ball,1,16.4,Belgium,Shaheryar Butt,Saber Zakhil,P Pushparajan,4,0,,,,,,"",""
+ball,1,16.5,Belgium,Shaheryar Butt,Saber Zakhil,P Pushparajan,0,0,,,,,,caught and bowled,Shaheryar Butt
+ball,1,16.6,Belgium,F Khaliq,Saber Zakhil,P Pushparajan,1,0,,,,,,"",""
+ball,1,17.1,Belgium,F Khaliq,Saber Zakhil,Washeem Abbas,1,0,,,,,,"",""
+ball,1,17.2,Belgium,Saber Zakhil,F Khaliq,Washeem Abbas,4,0,,,,,,"",""
+ball,1,17.3,Belgium,Saber Zakhil,F Khaliq,Washeem Abbas,6,0,,,,,,"",""
+ball,1,17.4,Belgium,Saber Zakhil,F Khaliq,Washeem Abbas,6,0,,,,,,"",""
+ball,1,17.5,Belgium,Saber Zakhil,F Khaliq,Washeem Abbas,0,0,,,,,,caught,Saber Zakhil
+ball,1,17.6,Belgium,Khalid Ahmadi,F Khaliq,Washeem Abbas,1,0,,,,,,"",""
+ball,1,18.1,Belgium,Khalid Ahmadi,F Khaliq,P Pushparajan,1,0,,,,,,"",""
+ball,1,18.2,Belgium,F Khaliq,Khalid Ahmadi,P Pushparajan,0,0,,,,,,"",""
+ball,1,18.3,Belgium,F Khaliq,Khalid Ahmadi,P Pushparajan,1,0,,,,,,"",""
+ball,1,18.4,Belgium,Khalid Ahmadi,F Khaliq,P Pushparajan,4,0,,,,,,"",""
+ball,1,18.5,Belgium,Khalid Ahmadi,F Khaliq,P Pushparajan,1,0,,,,,,"",""
+ball,1,18.6,Belgium,F Khaliq,Khalid Ahmadi,P Pushparajan,1,0,,,,,,"",""
+ball,1,19.1,Belgium,F Khaliq,Khalid Ahmadi,D Marks,1,0,,,,,,"",""
+ball,1,19.2,Belgium,Khalid Ahmadi,F Khaliq,D Marks,6,0,,,,,,"",""
+ball,1,19.3,Belgium,Khalid Ahmadi,F Khaliq,D Marks,6,0,,,,,,"",""
+ball,1,19.4,Belgium,Khalid Ahmadi,F Khaliq,D Marks,0,1,1,,,,,"",""
+ball,1,19.5,Belgium,Khalid Ahmadi,F Khaliq,D Marks,2,0,,,,,,"",""
+ball,1,19.6,Belgium,Khalid Ahmadi,F Khaliq,D Marks,0,5,5,,,,,"",""
+ball,1,19.7,Belgium,Khalid Ahmadi,F Khaliq,D Marks,1,0,,,,,,"",""
+ball,1,19.8,Belgium,F Khaliq,Khalid Ahmadi,D Marks,2,0,,,,,,"",""
+ball,2,0.1,Malta,Mehboob Ali,Mohammed Qasim,F Khaliq,4,0,,,,,,"",""
+ball,2,0.2,Malta,Mehboob Ali,Mohammed Qasim,F Khaliq,6,0,,,,,,"",""
+ball,2,0.3,Malta,Mehboob Ali,Mohammed Qasim,F Khaliq,0,0,,,,,,"",""
+ball,2,0.4,Malta,Mehboob Ali,Mohammed Qasim,F Khaliq,1,0,,,,,,"",""
+ball,2,0.5,Malta,Mohammed Qasim,Mehboob Ali,F Khaliq,0,1,,,,1,,"",""
+ball,2,0.6,Malta,Mehboob Ali,Mohammed Qasim,F Khaliq,0,0,,,,,,"",""
+ball,2,1.1,Malta,Mohammed Qasim,Mehboob Ali,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,1.2,Malta,Mehboob Ali,Mohammed Qasim,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,1.3,Malta,Mehboob Ali,Mohammed Qasim,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,1.4,Malta,Mehboob Ali,Mohammed Qasim,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,1.5,Malta,Mehboob Ali,Mohammed Qasim,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,1.6,Malta,Mehboob Ali,Mohammed Qasim,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,2.1,Malta,Mehboob Ali,Mohammed Qasim,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,2.2,Malta,Mehboob Ali,Mohammed Qasim,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,2.3,Malta,Mehboob Ali,Mohammed Qasim,Khalid Ahmadi,4,0,,,,,,"",""
+ball,2,2.4,Malta,Mehboob Ali,Mohammed Qasim,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,2.5,Malta,Mehboob Ali,Mohammed Qasim,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,2.6,Malta,Mehboob Ali,Mohammed Qasim,Khalid Ahmadi,6,0,,,,,,"",""
+ball,2,3.1,Malta,Mohammed Qasim,Mehboob Ali,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,3.2,Malta,Mohammed Qasim,Mehboob Ali,Iftikhar Kankhel,2,0,,,,,,"",""
+ball,2,3.3,Malta,Mohammed Qasim,Mehboob Ali,Iftikhar Kankhel,0,0,,,,,,bowled,Mohammed Qasim
+ball,2,3.4,Malta,P Pushparajan,Mehboob Ali,Iftikhar Kankhel,3,0,,,,,,"",""
+ball,2,3.5,Malta,Mehboob Ali,P Pushparajan,Iftikhar Kankhel,4,0,,,,,,"",""
+ball,2,3.6,Malta,Mehboob Ali,P Pushparajan,Iftikhar Kankhel,0,0,,,,,,caught,Mehboob Ali
+ball,2,4.1,Malta,P Pushparajan,R Dianish,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,4.2,Malta,P Pushparajan,R Dianish,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,4.3,Malta,R Dianish,P Pushparajan,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,4.4,Malta,R Dianish,P Pushparajan,Khalid Ahmadi,1,1,,1,,,,"",""
+ball,2,4.5,Malta,P Pushparajan,R Dianish,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,4.6,Malta,P Pushparajan,R Dianish,Khalid Ahmadi,0,0,,,,,,run out,R Dianish
+ball,2,4.7,Malta,Jaspal Singh,P Pushparajan,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,5.1,Malta,P Pushparajan,Jaspal Singh,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,5.2,Malta,P Pushparajan,Jaspal Singh,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,5.3,Malta,Jaspal Singh,P Pushparajan,Iftikhar Kankhel,1,0,,,,,,"",""
+ball,2,5.4,Malta,P Pushparajan,Jaspal Singh,Iftikhar Kankhel,0,0,,,,,,lbw,P Pushparajan
+ball,2,5.5,Malta,SB Patel,Jaspal Singh,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,5.6,Malta,SB Patel,Jaspal Singh,Iftikhar Kankhel,0,0,,,,,,"",""
+ball,2,6.1,Malta,Jaspal Singh,SB Patel,F Khaliq,0,0,,,,,,"",""
+ball,2,6.2,Malta,Jaspal Singh,SB Patel,F Khaliq,1,0,,,,,,"",""
+ball,2,6.3,Malta,SB Patel,Jaspal Singh,F Khaliq,0,0,,,,,,"",""
+ball,2,6.4,Malta,SB Patel,Jaspal Singh,F Khaliq,1,0,,,,,,"",""
+ball,2,6.5,Malta,Jaspal Singh,SB Patel,F Khaliq,0,0,,,,,,bowled,Jaspal Singh
+ball,2,6.6,Malta,Imran Ameer,SB Patel,F Khaliq,0,0,,,,,,"",""
+ball,2,7.1,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,7.2,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,1,,1,,,,"",""
+ball,2,7.3,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,7.4,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,7.5,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,7.6,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,7.7,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,7.8,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,7.9,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,7.10,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,7.11,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,8.1,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,0,1,1,,,,,"",""
+ball,2,8.2,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,8.3,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,8.4,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,8.5,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,8.6,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,8.7,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,9.1,Malta,Imran Ameer,SB Patel,Rafiulah Alokozai,0,1,1,,,,,"",""
+ball,2,9.2,Malta,Imran Ameer,SB Patel,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,9.3,Malta,Imran Ameer,SB Patel,Rafiulah Alokozai,4,0,,,,,,"",""
+ball,2,9.4,Malta,Imran Ameer,SB Patel,Rafiulah Alokozai,1,0,,,,,,"",""
+ball,2,9.5,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,9.6,Malta,SB Patel,Imran Ameer,Rafiulah Alokozai,1,0,,,,,,"",""
+ball,2,9.7,Malta,Imran Ameer,SB Patel,Rafiulah Alokozai,1,0,,,,,,"",""
+ball,2,10.1,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,10.2,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,6,0,,,,,,"",""
+ball,2,10.3,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,10.4,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,0,1,1,,,,,"",""
+ball,2,10.5,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,10.6,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,10.7,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,11.1,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,2,0,,,,,,"",""
+ball,2,11.2,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,11.3,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,11.4,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,11.5,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,11.6,Malta,SB Patel,Imran Ameer,Sheraz Sheikh,0,1,1,,,,,"",""
+ball,2,11.7,Malta,SB Patel,Imran Ameer,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,12.1,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,4,0,,,,,,"",""
+ball,2,12.2,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,12.3,Malta,Imran Ameer,SB Patel,Zaki Ul Hassan,1,0,,,,,,"",""
+ball,2,12.4,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,4,0,,,,,,"",""
+ball,2,12.5,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,0,0,,,,,,"",""
+ball,2,12.6,Malta,SB Patel,Imran Ameer,Zaki Ul Hassan,2,0,,,,,,"",""
+ball,2,13.1,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,13.2,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,2,0,,,,,,"",""
+ball,2,13.3,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,13.4,Malta,SB Patel,Imran Ameer,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,13.5,Malta,SB Patel,Imran Ameer,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,13.6,Malta,Imran Ameer,SB Patel,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,14.1,Malta,Imran Ameer,SB Patel,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,14.2,Malta,Imran Ameer,SB Patel,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,14.3,Malta,Imran Ameer,SB Patel,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,14.4,Malta,Imran Ameer,SB Patel,Khalid Ahmadi,4,0,,,,,,"",""
+ball,2,14.5,Malta,Imran Ameer,SB Patel,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,14.6,Malta,Imran Ameer,SB Patel,Khalid Ahmadi,0,0,,,,,,caught,Imran Ameer
+ball,2,15.1,Malta,SB Patel,Muhammad Ajmal,Sheraz Sheikh,2,0,,,,,,"",""
+ball,2,15.2,Malta,SB Patel,Muhammad Ajmal,Sheraz Sheikh,4,0,,,,,,"",""
+ball,2,15.3,Malta,SB Patel,Muhammad Ajmal,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,15.4,Malta,SB Patel,Muhammad Ajmal,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,15.5,Malta,SB Patel,Muhammad Ajmal,Sheraz Sheikh,0,0,,,,,,"",""
+ball,2,15.6,Malta,SB Patel,Muhammad Ajmal,Sheraz Sheikh,1,0,,,,,,"",""
+ball,2,16.1,Malta,SB Patel,Muhammad Ajmal,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,16.2,Malta,SB Patel,Muhammad Ajmal,Khalid Ahmadi,4,0,,,,,,"",""
+ball,2,16.3,Malta,SB Patel,Muhammad Ajmal,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,16.4,Malta,Muhammad Ajmal,SB Patel,Khalid Ahmadi,0,0,,,,,,bowled,Muhammad Ajmal
+ball,2,16.5,Malta,Jaswinder Singh,SB Patel,Khalid Ahmadi,1,0,,,,,,"",""
+ball,2,16.6,Malta,SB Patel,Jaswinder Singh,Khalid Ahmadi,0,0,,,,,,"",""
+ball,2,17.1,Malta,Jaswinder Singh,SB Patel,F Khaliq,0,0,,,,,,"",""
+ball,2,17.2,Malta,Jaswinder Singh,SB Patel,F Khaliq,0,0,,,,,,lbw,Jaswinder Singh
+ball,2,17.3,Malta,Washeem Abbas,SB Patel,F Khaliq,1,0,,,,,,"",""
+ball,2,17.4,Malta,SB Patel,Washeem Abbas,F Khaliq,0,0,,,,,,"",""
+ball,2,17.5,Malta,SB Patel,Washeem Abbas,F Khaliq,0,0,,,,,,"",""
+ball,2,17.6,Malta,SB Patel,Washeem Abbas,F Khaliq,0,0,,,,,,"",""
+ball,2,18.1,Malta,Washeem Abbas,SB Patel,Rafiulah Alokozai,1,0,,,,,,"",""
+ball,2,18.2,Malta,SB Patel,Washeem Abbas,Rafiulah Alokozai,1,0,,,,,,"",""
+ball,2,18.3,Malta,Washeem Abbas,SB Patel,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,18.4,Malta,Washeem Abbas,SB Patel,Rafiulah Alokozai,1,0,,,,,,"",""
+ball,2,18.5,Malta,SB Patel,Washeem Abbas,Rafiulah Alokozai,0,0,,,,,,"",""
+ball,2,18.6,Malta,SB Patel,Washeem Abbas,Rafiulah Alokozai,0,0,,,,,,caught,SB Patel
+ball,2,19.1,Malta,Washeem Abbas,D Marks,Saber Zakhil,4,0,,,,,,"",""
+ball,2,19.2,Malta,Washeem Abbas,D Marks,Saber Zakhil,1,0,,,,,,"",""
+ball,2,19.3,Malta,D Marks,Washeem Abbas,Saber Zakhil,1,0,,,,,,"",""
+ball,2,19.4,Malta,Washeem Abbas,D Marks,Saber Zakhil,0,0,,,,,,"",""
+ball,2,19.5,Malta,Washeem Abbas,D Marks,Saber Zakhil,0,0,,,,,,"",""
+ball,2,19.6,Malta,Washeem Abbas,D Marks,Saber Zakhil,0,0,,,,,,"",""

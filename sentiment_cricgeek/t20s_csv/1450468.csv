@@ -1,0 +1,328 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Serbia
+info,gender,female
+info,season,2024
+info,date,2024/09/14
+info,event,Cyprus Women tour of Serbia
+info,match_number,2
+info,venue,Lisicji Jarak Cricket Ground
+info,city,Belgrade
+info,toss_winner,Cyprus
+info,toss_decision,bat
+info,player_of_match,A Mesarovic
+info,winner,Cyprus
+info,winner_runs,22
+info,player,Cyprus,T Gedarage
+info,player,Cyprus,S Jayakodi
+info,player,Cyprus,T De Silva
+info,player,Cyprus,I Chathurani
+info,player,Cyprus,A Dirannehelage
+info,player,Cyprus,S Dunukedeniya
+info,player,Cyprus,N Liyanage
+info,player,Cyprus,A Taylor
+info,player,Cyprus,D Koralalage
+info,player,Cyprus,C Wijesinghe
+info,player,Cyprus,A Hewage
+info,player,Serbia,T Trajkovic
+info,player,Serbia,M Perisic
+info,player,Serbia,A Mesarovic
+info,player,Serbia,N Nojic
+info,player,Serbia,T Martic
+info,player,Serbia,M Nikolic
+info,player,Serbia,E Prokic
+info,player,Serbia,S Simic
+info,player,Serbia,N Jovicevic
+info,player,Serbia,M Jevdjenovic
+info,player,Serbia,M Trajkovi
+info,registry,people,A Dirannehelage,039168c7
+info,registry,people,A Hewage,be53a6a2
+info,registry,people,A Mesarovic,15404b57
+info,registry,people,A Taylor,723f9bee
+info,registry,people,C Wijesinghe,db86ac96
+info,registry,people,D Koralalage,5e6041a4
+info,registry,people,E Prokic,6153ce0d
+info,registry,people,I Chathurani,85364088
+info,registry,people,M Jevdjenovic,3be2b0a3
+info,registry,people,M Nikolic,852f74c8
+info,registry,people,M Perisic,81599c08
+info,registry,people,M Trajkovi,2f208ab6
+info,registry,people,N Jovicevic,b7a608b0
+info,registry,people,N Liyanage,2ee5997e
+info,registry,people,N Nojic,ef537c2e
+info,registry,people,S Dunukedeniya,3134e4a4
+info,registry,people,S Jayakodi,64875d5c
+info,registry,people,S Simic,c219a3c4
+info,registry,people,T De Silva,31821596
+info,registry,people,T Gedarage,5be7eb8a
+info,registry,people,T Martic,1acf530e
+info,registry,people,T Trajkovic,1e630426
+ball,1,0.1,Cyprus,T Gedarage,S Jayakodi,N Nojic,1,0,,,,,,"",""
+ball,1,0.2,Cyprus,S Jayakodi,T Gedarage,N Nojic,0,1,,,1,,,"",""
+ball,1,0.3,Cyprus,T Gedarage,S Jayakodi,N Nojic,0,0,,,,,,"",""
+ball,1,0.4,Cyprus,T Gedarage,S Jayakodi,N Nojic,0,0,,,,,,"",""
+ball,1,0.5,Cyprus,T Gedarage,S Jayakodi,N Nojic,4,0,,,,,,"",""
+ball,1,0.6,Cyprus,T Gedarage,S Jayakodi,N Nojic,0,0,,,,,,"",""
+ball,1,1.1,Cyprus,S Jayakodi,T Gedarage,A Mesarovic,0,1,,1,,,,"",""
+ball,1,1.2,Cyprus,S Jayakodi,T Gedarage,A Mesarovic,1,0,,,,,,"",""
+ball,1,1.3,Cyprus,T Gedarage,S Jayakodi,A Mesarovic,1,0,,,,,,"",""
+ball,1,1.4,Cyprus,S Jayakodi,T Gedarage,A Mesarovic,1,0,,,,,,"",""
+ball,1,1.5,Cyprus,T Gedarage,S Jayakodi,A Mesarovic,0,0,,,,,,"",""
+ball,1,1.6,Cyprus,T Gedarage,S Jayakodi,A Mesarovic,0,0,,,,,,"",""
+ball,1,1.7,Cyprus,T Gedarage,S Jayakodi,A Mesarovic,2,0,,,,,,"",""
+ball,1,2.1,Cyprus,S Jayakodi,T Gedarage,N Nojic,0,0,,,,,,"",""
+ball,1,2.2,Cyprus,S Jayakodi,T Gedarage,N Nojic,0,0,,,,,,"",""
+ball,1,2.3,Cyprus,S Jayakodi,T Gedarage,N Nojic,1,0,,,,,,"",""
+ball,1,2.4,Cyprus,T Gedarage,S Jayakodi,N Nojic,0,1,,,1,,,"",""
+ball,1,2.5,Cyprus,S Jayakodi,T Gedarage,N Nojic,0,0,,,,,,"",""
+ball,1,2.6,Cyprus,S Jayakodi,T Gedarage,N Nojic,0,0,,,,,,"",""
+ball,1,3.1,Cyprus,T Gedarage,S Jayakodi,A Mesarovic,0,0,,,,,,"",""
+ball,1,3.2,Cyprus,T Gedarage,S Jayakodi,A Mesarovic,1,0,,,,,,"",""
+ball,1,3.3,Cyprus,S Jayakodi,T Gedarage,A Mesarovic,0,0,,,,,,run out,S Jayakodi
+ball,1,3.4,Cyprus,T Gedarage,T De Silva,A Mesarovic,0,0,,,,,,"",""
+ball,1,3.5,Cyprus,T Gedarage,T De Silva,A Mesarovic,0,0,,,,,,bowled,T Gedarage
+ball,1,3.6,Cyprus,I Chathurani,T De Silva,A Mesarovic,0,1,1,,,,,"",""
+ball,1,3.7,Cyprus,I Chathurani,T De Silva,A Mesarovic,0,0,,,,,,"",""
+ball,1,4.1,Cyprus,T De Silva,I Chathurani,N Nojic,0,0,,,,,,"",""
+ball,1,4.2,Cyprus,T De Silva,I Chathurani,N Nojic,0,0,,,,,,"",""
+ball,1,4.3,Cyprus,T De Silva,I Chathurani,N Nojic,1,0,,,,,,"",""
+ball,1,4.4,Cyprus,I Chathurani,T De Silva,N Nojic,0,0,,,,,,"",""
+ball,1,4.5,Cyprus,I Chathurani,T De Silva,N Nojic,2,0,,,,,,"",""
+ball,1,4.6,Cyprus,I Chathurani,T De Silva,N Nojic,0,0,,,,,,"",""
+ball,1,5.1,Cyprus,T De Silva,I Chathurani,A Mesarovic,1,0,,,,,,"",""
+ball,1,5.2,Cyprus,I Chathurani,T De Silva,A Mesarovic,1,0,,,,,,"",""
+ball,1,5.3,Cyprus,T De Silva,I Chathurani,A Mesarovic,0,0,,,,,,"",""
+ball,1,5.4,Cyprus,T De Silva,I Chathurani,A Mesarovic,0,1,,,,1,,"",""
+ball,1,5.5,Cyprus,I Chathurani,T De Silva,A Mesarovic,4,0,,,,,,"",""
+ball,1,5.6,Cyprus,I Chathurani,T De Silva,A Mesarovic,1,0,,,,,,"",""
+ball,1,6.1,Cyprus,I Chathurani,T De Silva,T Trajkovic,1,0,,,,,,"",""
+ball,1,6.2,Cyprus,T De Silva,I Chathurani,T Trajkovic,0,0,,,,,,"",""
+ball,1,6.3,Cyprus,T De Silva,I Chathurani,T Trajkovic,0,1,,1,,,,"",""
+ball,1,6.4,Cyprus,T De Silva,I Chathurani,T Trajkovic,0,0,,,,,,run out,I Chathurani
+ball,1,6.5,Cyprus,T De Silva,A Dirannehelage,T Trajkovic,0,1,1,,,,,"",""
+ball,1,6.6,Cyprus,T De Silva,A Dirannehelage,T Trajkovic,0,0,,,,,,"",""
+ball,1,6.7,Cyprus,T De Silva,A Dirannehelage,T Trajkovic,0,0,,,,,,"",""
+ball,1,6.8,Cyprus,T De Silva,A Dirannehelage,T Trajkovic,0,0,,,,,,"",""
+ball,1,7.1,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,7.2,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,7.3,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,7.4,Cyprus,T De Silva,A Dirannehelage,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,7.5,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,7.6,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,7.7,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,8.1,Cyprus,T De Silva,A Dirannehelage,T Trajkovic,0,0,,,,,,"",""
+ball,1,8.2,Cyprus,T De Silva,A Dirannehelage,T Trajkovic,1,0,,,,,,"",""
+ball,1,8.3,Cyprus,A Dirannehelage,T De Silva,T Trajkovic,2,0,,,,,,"",""
+ball,1,8.4,Cyprus,A Dirannehelage,T De Silva,T Trajkovic,4,0,,,,,,"",""
+ball,1,8.5,Cyprus,A Dirannehelage,T De Silva,T Trajkovic,0,1,1,,,,,"",""
+ball,1,8.6,Cyprus,A Dirannehelage,T De Silva,T Trajkovic,0,0,,,,,,"",""
+ball,1,8.7,Cyprus,A Dirannehelage,T De Silva,T Trajkovic,0,1,,,,1,,"",""
+ball,1,9.1,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,9.2,Cyprus,A Dirannehelage,T De Silva,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,9.3,Cyprus,T De Silva,A Dirannehelage,M Jevdjenovic,0,0,,,,,,bowled,T De Silva
+ball,1,9.4,Cyprus,S Dunukedeniya,A Dirannehelage,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,9.5,Cyprus,S Dunukedeniya,A Dirannehelage,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,9.6,Cyprus,S Dunukedeniya,A Dirannehelage,M Jevdjenovic,0,1,,1,,,,"",""
+ball,1,9.7,Cyprus,S Dunukedeniya,A Dirannehelage,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,9.8,Cyprus,S Dunukedeniya,A Dirannehelage,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,9.9,Cyprus,S Dunukedeniya,A Dirannehelage,M Jevdjenovic,4,0,,,,,,"",""
+ball,1,9.10,Cyprus,S Dunukedeniya,A Dirannehelage,M Jevdjenovic,0,0,,,,,,bowled,S Dunukedeniya
+ball,1,10.1,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,0,0,,,,,,"",""
+ball,1,10.2,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,0,1,1,,,,,"",""
+ball,1,10.3,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,0,1,,1,,,,"",""
+ball,1,10.4,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,1,0,,,,,,"",""
+ball,1,10.5,Cyprus,N Liyanage,A Dirannehelage,M Trajkovi,0,1,1,,,,,"",""
+ball,1,10.6,Cyprus,N Liyanage,A Dirannehelage,M Trajkovi,1,0,,,,,,"",""
+ball,1,10.7,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,0,1,1,,,,,"",""
+ball,1,10.8,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,0,0,,,,,,"",""
+ball,1,10.9,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,0,0,,,,,,"",""
+ball,1,10.10,Cyprus,A Dirannehelage,N Liyanage,M Trajkovi,2,0,,,,,,"",""
+ball,1,11.1,Cyprus,N Liyanage,A Dirannehelage,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,11.2,Cyprus,N Liyanage,A Dirannehelage,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,11.3,Cyprus,N Liyanage,A Dirannehelage,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,11.4,Cyprus,N Liyanage,A Dirannehelage,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,11.5,Cyprus,A Dirannehelage,N Liyanage,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,11.6,Cyprus,A Dirannehelage,N Liyanage,M Jevdjenovic,0,1,1,,,,,"",""
+ball,1,11.7,Cyprus,A Dirannehelage,N Liyanage,M Jevdjenovic,0,0,,,,,,"",""
+ball,1,12.1,Cyprus,N Liyanage,A Dirannehelage,E Prokic,0,1,,1,,,,"",""
+ball,1,12.2,Cyprus,N Liyanage,A Dirannehelage,E Prokic,1,0,,,,,,"",""
+ball,1,12.3,Cyprus,A Dirannehelage,N Liyanage,E Prokic,1,1,,1,,,,"",""
+ball,1,12.4,Cyprus,N Liyanage,A Dirannehelage,E Prokic,0,0,,,,,,"",""
+ball,1,12.5,Cyprus,N Liyanage,A Dirannehelage,E Prokic,0,0,,,,,,"",""
+ball,1,12.6,Cyprus,N Liyanage,A Dirannehelage,E Prokic,0,0,,,,,,"",""
+ball,1,12.7,Cyprus,N Liyanage,A Dirannehelage,E Prokic,1,0,,,,,,"",""
+ball,1,12.8,Cyprus,A Dirannehelage,N Liyanage,E Prokic,4,0,,,,,,"",""
+ball,1,13.1,Cyprus,N Liyanage,A Dirannehelage,T Trajkovic,4,0,,,,,,"",""
+ball,1,13.2,Cyprus,N Liyanage,A Dirannehelage,T Trajkovic,1,0,,,,,,"",""
+ball,1,13.3,Cyprus,A Dirannehelage,N Liyanage,T Trajkovic,1,0,,,,,,"",""
+ball,1,13.4,Cyprus,N Liyanage,A Dirannehelage,T Trajkovic,0,0,,,,,,"",""
+ball,1,13.5,Cyprus,N Liyanage,A Dirannehelage,T Trajkovic,0,0,,,,,,caught,N Liyanage
+ball,1,13.6,Cyprus,A Taylor,A Dirannehelage,T Trajkovic,0,0,,,,,,lbw,A Taylor
+ball,1,14.1,Cyprus,A Dirannehelage,D Koralalage,E Prokic,0,0,,,,,,caught,A Dirannehelage
+ball,1,14.2,Cyprus,C Wijesinghe,D Koralalage,E Prokic,0,1,1,,,,,"",""
+ball,1,14.3,Cyprus,C Wijesinghe,D Koralalage,E Prokic,1,0,,,,,,"",""
+ball,1,14.4,Cyprus,D Koralalage,C Wijesinghe,E Prokic,1,0,,,,,,"",""
+ball,1,14.5,Cyprus,C Wijesinghe,D Koralalage,E Prokic,0,1,,1,,,,"",""
+ball,1,14.6,Cyprus,C Wijesinghe,D Koralalage,E Prokic,1,0,,,,,,"",""
+ball,1,14.7,Cyprus,D Koralalage,C Wijesinghe,E Prokic,2,0,,,,,,"",""
+ball,1,14.8,Cyprus,D Koralalage,C Wijesinghe,E Prokic,0,0,,,,,,"",""
+ball,1,15.1,Cyprus,C Wijesinghe,D Koralalage,T Trajkovic,0,0,,,,,,bowled,C Wijesinghe
+ball,1,15.2,Cyprus,A Hewage,D Koralalage,T Trajkovic,1,0,,,,,,"",""
+ball,1,15.3,Cyprus,D Koralalage,A Hewage,T Trajkovic,0,0,,,,,,"",""
+ball,1,15.4,Cyprus,D Koralalage,A Hewage,T Trajkovic,0,1,1,,,,,"",""
+ball,1,15.5,Cyprus,D Koralalage,A Hewage,T Trajkovic,1,0,,,,,,"",""
+ball,1,15.6,Cyprus,A Hewage,D Koralalage,T Trajkovic,0,0,,,,,,"",""
+ball,1,15.7,Cyprus,A Hewage,D Koralalage,T Trajkovic,0,0,,,,,,"",""
+ball,1,16.1,Cyprus,D Koralalage,A Hewage,N Nojic,0,1,1,,,,,"",""
+ball,1,16.2,Cyprus,D Koralalage,A Hewage,N Nojic,0,1,1,,,,,"",""
+ball,1,16.3,Cyprus,D Koralalage,A Hewage,N Nojic,0,0,,,,,,"",""
+ball,1,16.4,Cyprus,D Koralalage,A Hewage,N Nojic,0,0,,,,,,"",""
+ball,1,16.5,Cyprus,D Koralalage,A Hewage,N Nojic,1,0,,,,,,"",""
+ball,1,16.6,Cyprus,A Hewage,D Koralalage,N Nojic,0,0,,,,,,"",""
+ball,1,16.7,Cyprus,A Hewage,D Koralalage,N Nojic,0,0,,,,,,"",""
+ball,1,16.8,Cyprus,A Hewage,D Koralalage,N Nojic,0,0,,,,,,"",""
+ball,1,17.1,Cyprus,D Koralalage,A Hewage,M Jevdjenovic,1,0,,,,,,"",""
+ball,1,17.2,Cyprus,A Hewage,D Koralalage,M Jevdjenovic,0,0,,,,,,bowled,A Hewage
+ball,2,0.1,Serbia,T Trajkovic,M Perisic,D Koralalage,0,0,,,,,,caught and bowled,T Trajkovic
+ball,2,0.2,Serbia,A Mesarovic,M Perisic,D Koralalage,0,1,1,,,,,"",""
+ball,2,0.3,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,0.4,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,0.5,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,0.6,Serbia,A Mesarovic,M Perisic,D Koralalage,2,0,,,,,,"",""
+ball,2,0.7,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,1.1,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,1.2,Serbia,A Mesarovic,M Perisic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,1.3,Serbia,A Mesarovic,M Perisic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,1.4,Serbia,A Mesarovic,M Perisic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,1.5,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,1.6,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,1.7,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,1.8,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,2.1,Serbia,A Mesarovic,M Perisic,D Koralalage,0,1,1,,,,,"",""
+ball,2,2.2,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,2.3,Serbia,A Mesarovic,M Perisic,D Koralalage,2,0,,,,,,"",""
+ball,2,2.4,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,2.5,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,2.6,Serbia,A Mesarovic,M Perisic,D Koralalage,4,0,,,,,,"",""
+ball,2,2.7,Serbia,A Mesarovic,M Perisic,D Koralalage,0,0,,,,,,"",""
+ball,2,3.1,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,3.2,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,3.3,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,3.4,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,3.5,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,3.6,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,3.7,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,3.8,Serbia,M Perisic,A Mesarovic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,4.1,Serbia,A Mesarovic,M Perisic,A Taylor,0,0,,,,,,"",""
+ball,2,4.2,Serbia,A Mesarovic,M Perisic,A Taylor,4,0,,,,,,"",""
+ball,2,4.3,Serbia,A Mesarovic,M Perisic,A Taylor,0,0,,,,,,"",""
+ball,2,4.4,Serbia,A Mesarovic,M Perisic,A Taylor,0,0,,,,,,"",""
+ball,2,4.5,Serbia,A Mesarovic,M Perisic,A Taylor,0,1,1,,,,,"",""
+ball,2,4.6,Serbia,A Mesarovic,M Perisic,A Taylor,0,0,,,,,,"",""
+ball,2,4.7,Serbia,A Mesarovic,M Perisic,A Taylor,2,0,,,,,,"",""
+ball,2,5.1,Serbia,M Perisic,A Mesarovic,A Hewage,0,0,,,,,,"",""
+ball,2,5.2,Serbia,M Perisic,A Mesarovic,A Hewage,0,0,,,,,,"",""
+ball,2,5.3,Serbia,M Perisic,A Mesarovic,A Hewage,0,0,,,,,,"",""
+ball,2,5.4,Serbia,M Perisic,A Mesarovic,A Hewage,0,0,,,,,,bowled,M Perisic
+ball,2,5.5,Serbia,N Nojic,A Mesarovic,A Hewage,0,0,,,,,,"",""
+ball,2,5.6,Serbia,N Nojic,A Mesarovic,A Hewage,0,0,,,,,,"",""
+ball,2,6.1,Serbia,A Mesarovic,N Nojic,A Taylor,0,0,,,,,,"",""
+ball,2,6.2,Serbia,A Mesarovic,N Nojic,A Taylor,0,0,,,,,,"",""
+ball,2,6.3,Serbia,A Mesarovic,N Nojic,A Taylor,0,0,,,,,,"",""
+ball,2,6.4,Serbia,A Mesarovic,N Nojic,A Taylor,1,0,,,,,,"",""
+ball,2,6.5,Serbia,N Nojic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,6.6,Serbia,N Nojic,A Mesarovic,A Taylor,0,1,1,,,,,"",""
+ball,2,6.7,Serbia,N Nojic,A Mesarovic,A Taylor,0,0,,,,,,bowled,N Nojic
+ball,2,7.1,Serbia,A Mesarovic,T Martic,A Dirannehelage,4,0,,,,,,"",""
+ball,2,7.2,Serbia,A Mesarovic,T Martic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,7.3,Serbia,A Mesarovic,T Martic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,7.4,Serbia,A Mesarovic,T Martic,A Dirannehelage,4,0,,,,,,"",""
+ball,2,7.5,Serbia,A Mesarovic,T Martic,A Dirannehelage,0,1,1,,,,,"",""
+ball,2,7.6,Serbia,A Mesarovic,T Martic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,7.7,Serbia,A Mesarovic,T Martic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,8.1,Serbia,T Martic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,8.2,Serbia,T Martic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,8.3,Serbia,T Martic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,8.4,Serbia,T Martic,A Mesarovic,A Taylor,0,0,,,,,,caught,T Martic
+ball,2,8.5,Serbia,M Nikolic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,8.6,Serbia,M Nikolic,A Mesarovic,A Taylor,0,1,,1,,,,"",""
+ball,2,8.7,Serbia,M Nikolic,A Mesarovic,A Taylor,0,1,1,,,,,"",""
+ball,2,8.8,Serbia,M Nikolic,A Mesarovic,A Taylor,0,1,1,,,,,"",""
+ball,2,8.9,Serbia,M Nikolic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,9.1,Serbia,A Mesarovic,M Nikolic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,9.2,Serbia,A Mesarovic,M Nikolic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,9.3,Serbia,A Mesarovic,M Nikolic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,9.4,Serbia,A Mesarovic,M Nikolic,A Dirannehelage,1,0,,,,,,"",""
+ball,2,9.5,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,9.6,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,10.1,Serbia,A Mesarovic,M Nikolic,A Taylor,0,0,,,,,,"",""
+ball,2,10.2,Serbia,A Mesarovic,M Nikolic,A Taylor,1,0,,,,,,"",""
+ball,2,10.3,Serbia,M Nikolic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,10.4,Serbia,M Nikolic,A Mesarovic,A Taylor,0,1,1,,,,,"",""
+ball,2,10.5,Serbia,M Nikolic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,10.6,Serbia,M Nikolic,A Mesarovic,A Taylor,0,0,,,,,,"",""
+ball,2,10.7,Serbia,M Nikolic,A Mesarovic,A Taylor,1,0,,,,,,"",""
+ball,2,11.1,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,11.2,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,0,1,1,,,,,"",""
+ball,2,11.3,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,11.4,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,11.5,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,11.6,Serbia,M Nikolic,A Mesarovic,A Dirannehelage,1,0,,,,,,"",""
+ball,2,11.7,Serbia,A Mesarovic,M Nikolic,A Dirannehelage,0,1,1,,,,,"",""
+ball,2,11.8,Serbia,A Mesarovic,M Nikolic,A Dirannehelage,0,0,,,,,,"",""
+ball,2,12.1,Serbia,M Nikolic,A Mesarovic,I Chathurani,0,0,,,,,,"",""
+ball,2,12.2,Serbia,M Nikolic,A Mesarovic,I Chathurani,0,0,,,,,,"",""
+ball,2,12.3,Serbia,M Nikolic,A Mesarovic,I Chathurani,0,1,1,,,,,"",""
+ball,2,12.4,Serbia,M Nikolic,A Mesarovic,I Chathurani,0,0,,,,,,"",""
+ball,2,12.5,Serbia,M Nikolic,A Mesarovic,I Chathurani,1,0,,,,,,"",""
+ball,2,12.6,Serbia,A Mesarovic,M Nikolic,I Chathurani,1,0,,,,,,"",""
+ball,2,12.7,Serbia,M Nikolic,A Mesarovic,I Chathurani,0,0,,,,,,"",""
+ball,2,13.1,Serbia,A Mesarovic,M Nikolic,D Koralalage,0,1,1,,,,,"",""
+ball,2,13.2,Serbia,A Mesarovic,M Nikolic,D Koralalage,0,1,1,,,,,"",""
+ball,2,13.3,Serbia,A Mesarovic,M Nikolic,D Koralalage,0,0,,,,,,bowled,A Mesarovic
+ball,2,13.4,Serbia,E Prokic,M Nikolic,D Koralalage,0,2,2,,,,,"",""
+ball,2,13.5,Serbia,M Nikolic,E Prokic,D Koralalage,1,0,,,,,,"",""
+ball,2,13.6,Serbia,E Prokic,M Nikolic,D Koralalage,0,0,,,,,,"",""
+ball,2,13.7,Serbia,E Prokic,M Nikolic,D Koralalage,0,0,,,,,,"",""
+ball,2,13.8,Serbia,E Prokic,M Nikolic,D Koralalage,0,0,,,,,,"",""
+ball,2,13.9,Serbia,E Prokic,M Nikolic,D Koralalage,0,0,,,,,,"",""
+ball,2,14.1,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,14.2,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,14.3,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,14.4,Serbia,M Nikolic,E Prokic,I Chathurani,1,0,,,,,,"",""
+ball,2,14.5,Serbia,E Prokic,M Nikolic,I Chathurani,0,0,,,,,,"",""
+ball,2,14.6,Serbia,E Prokic,M Nikolic,I Chathurani,0,0,,,,,,"",""
+ball,2,15.1,Serbia,M Nikolic,E Prokic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,15.2,Serbia,M Nikolic,E Prokic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,15.3,Serbia,M Nikolic,E Prokic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,15.4,Serbia,E Prokic,M Nikolic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,15.5,Serbia,M Nikolic,E Prokic,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,15.6,Serbia,M Nikolic,E Prokic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,15.7,Serbia,E Prokic,M Nikolic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,16.1,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,16.2,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,16.3,Serbia,M Nikolic,E Prokic,I Chathurani,1,0,,,,,,"",""
+ball,2,16.4,Serbia,E Prokic,M Nikolic,I Chathurani,1,0,,,,,,"",""
+ball,2,16.5,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,16.6,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,17.1,Serbia,E Prokic,M Nikolic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,17.2,Serbia,M Nikolic,E Prokic,S Dunukedeniya,0,1,1,,,,,"",""
+ball,2,17.3,Serbia,M Nikolic,E Prokic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,17.4,Serbia,M Nikolic,E Prokic,S Dunukedeniya,2,0,,,,,,"",""
+ball,2,17.5,Serbia,M Nikolic,E Prokic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,17.6,Serbia,E Prokic,M Nikolic,S Dunukedeniya,1,0,,,,,,"",""
+ball,2,17.7,Serbia,M Nikolic,E Prokic,S Dunukedeniya,0,0,,,,,,"",""
+ball,2,18.1,Serbia,E Prokic,M Nikolic,I Chathurani,1,0,,,,,,"",""
+ball,2,18.2,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,18.3,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,"",""
+ball,2,18.4,Serbia,M Nikolic,E Prokic,I Chathurani,0,0,,,,,,run out,M Nikolic
+ball,2,18.5,Serbia,E Prokic,S Simic,I Chathurani,0,0,,,,,,"",""
+ball,2,18.6,Serbia,E Prokic,S Simic,I Chathurani,0,0,,,,,,"",""
+ball,2,19.1,Serbia,S Simic,E Prokic,D Koralalage,0,0,,,,,,"",""
+ball,2,19.2,Serbia,S Simic,E Prokic,D Koralalage,0,1,1,,,,,"",""
+ball,2,19.3,Serbia,S Simic,E Prokic,D Koralalage,0,0,,,,,,"",""
+ball,2,19.4,Serbia,S Simic,E Prokic,D Koralalage,0,0,,,,,,"",""
+ball,2,19.5,Serbia,S Simic,E Prokic,D Koralalage,0,0,,,,,,"",""
+ball,2,19.6,Serbia,S Simic,E Prokic,D Koralalage,0,0,,,,,,"",""
+ball,2,19.7,Serbia,S Simic,E Prokic,D Koralalage,1,0,,,,,,"",""

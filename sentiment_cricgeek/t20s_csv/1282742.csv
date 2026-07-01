@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Denmark
+info,gender,male
+info,season,2021/22
+info,date,2021/10/17
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,5
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,CW Perchard
+info,umpire,DA Haggo
+info,umpire,N Bathi
+info,reserve_umpire,HE Kearns
+info,match_referee,G McCrea
+info,winner,Jersey
+info,winner_runs,5
+info,player,Jersey,H Carlyon
+info,player,Jersey,NJ Ferraby
+info,player,Jersey,ZM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,AM Tribe
+info,player,Jersey,B Ward
+info,player,Jersey,J Sumerauer
+info,player,Jersey,DG Blampied
+info,player,Jersey,JE Dunford
+info,player,Jersey,CW Perchard
+info,player,Jersey,D Birrell
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Delawar Khan
+info,player,Denmark,FA Klokker
+info,player,Denmark,Zameer Khan
+info,player,Denmark,Lucky Ali
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Anique Uddin
+info,player,Denmark,A Khan
+info,player,Denmark,Surya Anand
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,Bashir Shah
+info,registry,people,A Khan,e27cff77
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,Anique Uddin,1f41b702
+info,registry,people,B Ward,9e0bd203
+info,registry,people,Bashir Shah,3b282e51
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,FA Klokker,821a412e
+info,registry,people,G McCrea,46f4a901
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NJ Ferraby,c149b9ca
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,ZM Tribe,96fe3e9f
+info,registry,people,Zameer Khan,fb0d3749
+ball,1,0.1,Jersey,H Carlyon,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,0.2,Jersey,H Carlyon,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,0.3,Jersey,H Carlyon,NJ Ferraby,Bashir Shah,2,0,,,,,,"",""
+ball,1,0.4,Jersey,H Carlyon,NJ Ferraby,Bashir Shah,0,0,,,,,,stumped,H Carlyon
+ball,1,0.5,Jersey,ZM Tribe,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,0.6,Jersey,ZM Tribe,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,1.1,Jersey,NJ Ferraby,ZM Tribe,SA Ahmad,1,0,,,,,,"",""
+ball,1,1.2,Jersey,ZM Tribe,NJ Ferraby,SA Ahmad,0,0,,,,,,"",""
+ball,1,1.3,Jersey,ZM Tribe,NJ Ferraby,SA Ahmad,0,0,,,,,,"",""
+ball,1,1.4,Jersey,ZM Tribe,NJ Ferraby,SA Ahmad,1,0,,,,,,"",""
+ball,1,1.5,Jersey,NJ Ferraby,ZM Tribe,SA Ahmad,1,0,,,,,,"",""
+ball,1,1.6,Jersey,ZM Tribe,NJ Ferraby,SA Ahmad,1,0,,,,,,"",""
+ball,1,2.1,Jersey,ZM Tribe,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,2.2,Jersey,ZM Tribe,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,2.3,Jersey,ZM Tribe,NJ Ferraby,Bashir Shah,0,0,,,,,,bowled,ZM Tribe
+ball,1,2.4,Jersey,JW Jenner,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,2.5,Jersey,JW Jenner,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,2.6,Jersey,JW Jenner,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,3.1,Jersey,NJ Ferraby,JW Jenner,A Khan,0,0,,,,,,"",""
+ball,1,3.2,Jersey,NJ Ferraby,JW Jenner,A Khan,1,0,,,,,,"",""
+ball,1,3.3,Jersey,JW Jenner,NJ Ferraby,A Khan,0,0,,,,,,"",""
+ball,1,3.4,Jersey,JW Jenner,NJ Ferraby,A Khan,0,0,,,,,,"",""
+ball,1,3.5,Jersey,JW Jenner,NJ Ferraby,A Khan,0,0,,,,,,"",""
+ball,1,3.6,Jersey,JW Jenner,NJ Ferraby,A Khan,0,0,,,,,,"",""
+ball,1,4.1,Jersey,NJ Ferraby,JW Jenner,Bashir Shah,0,0,,,,,,"",""
+ball,1,4.2,Jersey,NJ Ferraby,JW Jenner,Bashir Shah,0,0,,,,,,"",""
+ball,1,4.3,Jersey,NJ Ferraby,JW Jenner,Bashir Shah,1,0,,,,,,"",""
+ball,1,4.4,Jersey,JW Jenner,NJ Ferraby,Bashir Shah,0,0,,,,,,"",""
+ball,1,4.5,Jersey,JW Jenner,NJ Ferraby,Bashir Shah,1,0,,,,,,"",""
+ball,1,4.6,Jersey,NJ Ferraby,JW Jenner,Bashir Shah,1,0,,,,,,"",""
+ball,1,5.1,Jersey,NJ Ferraby,JW Jenner,A Khan,0,0,,,,,,lbw,NJ Ferraby
+ball,1,5.2,Jersey,AM Tribe,JW Jenner,A Khan,0,0,,,,,,"",""
+ball,1,5.3,Jersey,AM Tribe,JW Jenner,A Khan,3,0,,,,,,"",""
+ball,1,5.4,Jersey,JW Jenner,AM Tribe,A Khan,1,0,,,,,,"",""
+ball,1,5.5,Jersey,AM Tribe,JW Jenner,A Khan,0,0,,,,,,"",""
+ball,1,5.6,Jersey,AM Tribe,JW Jenner,A Khan,1,0,,,,,,"",""
+ball,1,6.1,Jersey,AM Tribe,JW Jenner,Lucky Ali,0,0,,,,,,caught,AM Tribe
+ball,1,6.2,Jersey,B Ward,JW Jenner,Lucky Ali,0,0,,,,,,"",""
+ball,1,6.3,Jersey,B Ward,JW Jenner,Lucky Ali,2,0,,,,,,"",""
+ball,1,6.4,Jersey,B Ward,JW Jenner,Lucky Ali,0,0,,,,,,"",""
+ball,1,6.5,Jersey,B Ward,JW Jenner,Lucky Ali,1,0,,,,,,"",""
+ball,1,6.6,Jersey,JW Jenner,B Ward,Lucky Ali,0,0,,,,,,"",""
+ball,1,7.1,Jersey,B Ward,JW Jenner,SA Ahmad,0,0,,,,,,"",""
+ball,1,7.2,Jersey,B Ward,JW Jenner,SA Ahmad,1,0,,,,,,"",""
+ball,1,7.3,Jersey,JW Jenner,B Ward,SA Ahmad,0,0,,,,,,"",""
+ball,1,7.4,Jersey,JW Jenner,B Ward,SA Ahmad,1,0,,,,,,"",""
+ball,1,7.5,Jersey,B Ward,JW Jenner,SA Ahmad,0,0,,,,,,"",""
+ball,1,7.6,Jersey,B Ward,JW Jenner,SA Ahmad,0,0,,,,,,"",""
+ball,1,8.1,Jersey,JW Jenner,B Ward,Lucky Ali,1,0,,,,,,"",""
+ball,1,8.2,Jersey,B Ward,JW Jenner,Lucky Ali,0,0,,,,,,"",""
+ball,1,8.3,Jersey,B Ward,JW Jenner,Lucky Ali,0,0,,,,,,"",""
+ball,1,8.4,Jersey,B Ward,JW Jenner,Lucky Ali,1,0,,,,,,"",""
+ball,1,8.5,Jersey,JW Jenner,B Ward,Lucky Ali,2,0,,,,,,"",""
+ball,1,8.6,Jersey,JW Jenner,B Ward,Lucky Ali,1,0,,,,,,"",""
+ball,1,9.1,Jersey,JW Jenner,B Ward,SA Ahmad,1,0,,,,,,"",""
+ball,1,9.2,Jersey,B Ward,JW Jenner,SA Ahmad,2,0,,,,,,"",""
+ball,1,9.3,Jersey,B Ward,JW Jenner,SA Ahmad,0,0,,,,,,"",""
+ball,1,9.4,Jersey,B Ward,JW Jenner,SA Ahmad,0,0,,,,,,"",""
+ball,1,9.5,Jersey,B Ward,JW Jenner,SA Ahmad,0,0,,,,,,"",""
+ball,1,9.6,Jersey,B Ward,JW Jenner,SA Ahmad,1,0,,,,,,"",""
+ball,1,10.1,Jersey,B Ward,JW Jenner,Lucky Ali,0,0,,,,,,"",""
+ball,1,10.2,Jersey,B Ward,JW Jenner,Lucky Ali,4,0,,,,,,"",""
+ball,1,10.3,Jersey,B Ward,JW Jenner,Lucky Ali,0,0,,,,,,"",""
+ball,1,10.4,Jersey,B Ward,JW Jenner,Lucky Ali,1,0,,,,,,"",""
+ball,1,10.5,Jersey,JW Jenner,B Ward,Lucky Ali,1,0,,,,,,"",""
+ball,1,10.6,Jersey,B Ward,JW Jenner,Lucky Ali,0,0,,,,,,"",""
+ball,1,11.1,Jersey,JW Jenner,B Ward,Anique Uddin,1,0,,,,,,"",""
+ball,1,11.2,Jersey,B Ward,JW Jenner,Anique Uddin,0,0,,,,,,"",""
+ball,1,11.3,Jersey,B Ward,JW Jenner,Anique Uddin,0,0,,,,,,"",""
+ball,1,11.4,Jersey,B Ward,JW Jenner,Anique Uddin,6,0,,,,,,"",""
+ball,1,11.5,Jersey,B Ward,JW Jenner,Anique Uddin,0,0,,,,,,"",""
+ball,1,11.6,Jersey,B Ward,JW Jenner,Anique Uddin,0,0,,,,,,"",""
+ball,1,12.1,Jersey,JW Jenner,B Ward,Bashir Shah,0,0,,,,,,"",""
+ball,1,12.2,Jersey,JW Jenner,B Ward,Bashir Shah,0,0,,,,,,"",""
+ball,1,12.3,Jersey,JW Jenner,B Ward,Bashir Shah,0,1,,,,1,,"",""
+ball,1,12.4,Jersey,B Ward,JW Jenner,Bashir Shah,1,0,,,,,,"",""
+ball,1,12.5,Jersey,JW Jenner,B Ward,Bashir Shah,0,0,,,,,,caught,JW Jenner
+ball,1,12.6,Jersey,B Ward,J Sumerauer,Bashir Shah,0,0,,,,,,"",""
+ball,1,13.1,Jersey,J Sumerauer,B Ward,Anique Uddin,0,0,,,,,,"",""
+ball,1,13.2,Jersey,J Sumerauer,B Ward,Anique Uddin,0,0,,,,,,"",""
+ball,1,13.3,Jersey,J Sumerauer,B Ward,Anique Uddin,0,0,,,,,,"",""
+ball,1,13.4,Jersey,J Sumerauer,B Ward,Anique Uddin,1,0,,,,,,"",""
+ball,1,13.5,Jersey,B Ward,J Sumerauer,Anique Uddin,0,0,,,,,,"",""
+ball,1,13.6,Jersey,B Ward,J Sumerauer,Anique Uddin,1,0,,,,,,run out,J Sumerauer
+ball,1,14.1,Jersey,DG Blampied,B Ward,Lucky Ali,0,0,,,,,,"",""
+ball,1,14.2,Jersey,DG Blampied,B Ward,Lucky Ali,1,0,,,,,,"",""
+ball,1,14.3,Jersey,B Ward,DG Blampied,Lucky Ali,4,0,,,,,,"",""
+ball,1,14.4,Jersey,B Ward,DG Blampied,Lucky Ali,0,0,,,,,,"",""
+ball,1,14.5,Jersey,B Ward,DG Blampied,Lucky Ali,0,0,,,,,,"",""
+ball,1,14.6,Jersey,B Ward,DG Blampied,Lucky Ali,1,0,,,,,,"",""
+ball,1,15.1,Jersey,B Ward,DG Blampied,Anique Uddin,0,0,,,,,,"",""
+ball,1,15.2,Jersey,B Ward,DG Blampied,Anique Uddin,2,0,,,,,,"",""
+ball,1,15.3,Jersey,B Ward,DG Blampied,Anique Uddin,4,0,,,,,,"",""
+ball,1,15.4,Jersey,B Ward,DG Blampied,Anique Uddin,0,0,,,,,,"",""
+ball,1,15.5,Jersey,B Ward,DG Blampied,Anique Uddin,0,0,,,,,,caught and bowled,B Ward
+ball,1,15.6,Jersey,DG Blampied,JE Dunford,Anique Uddin,2,0,,,,,,"",""
+ball,1,16.1,Jersey,JE Dunford,DG Blampied,A Khan,4,0,,,,,,"",""
+ball,1,16.2,Jersey,JE Dunford,DG Blampied,A Khan,1,0,,,,,,"",""
+ball,1,16.3,Jersey,DG Blampied,JE Dunford,A Khan,1,0,,,,,,"",""
+ball,1,16.4,Jersey,JE Dunford,DG Blampied,A Khan,0,0,,,,,,"",""
+ball,1,16.5,Jersey,JE Dunford,DG Blampied,A Khan,0,0,,,,,,caught,JE Dunford
+ball,1,16.6,Jersey,CW Perchard,DG Blampied,A Khan,4,0,,,,,,"",""
+ball,1,17.1,Jersey,DG Blampied,CW Perchard,SA Ahmad,0,0,,,,,,"",""
+ball,1,17.2,Jersey,DG Blampied,CW Perchard,SA Ahmad,1,0,,,,,,"",""
+ball,1,17.3,Jersey,CW Perchard,DG Blampied,SA Ahmad,1,0,,,,,,"",""
+ball,1,17.4,Jersey,DG Blampied,CW Perchard,SA Ahmad,0,2,,,,2,,"",""
+ball,1,17.5,Jersey,DG Blampied,CW Perchard,SA Ahmad,1,0,,,,,,run out,DG Blampied
+ball,1,17.6,Jersey,D Birrell,CW Perchard,SA Ahmad,0,0,,,,,,"",""
+ball,1,18.1,Jersey,CW Perchard,D Birrell,A Khan,6,0,,,,,,"",""
+ball,1,18.2,Jersey,CW Perchard,D Birrell,A Khan,0,0,,,,,,"",""
+ball,1,18.3,Jersey,CW Perchard,D Birrell,A Khan,1,0,,,,,,"",""
+ball,1,18.4,Jersey,D Birrell,CW Perchard,A Khan,0,0,,,,,,"",""
+ball,1,18.5,Jersey,D Birrell,CW Perchard,A Khan,1,0,,,,,,"",""
+ball,1,18.6,Jersey,CW Perchard,D Birrell,A Khan,1,0,,,,,,"",""
+ball,1,19.1,Jersey,CW Perchard,D Birrell,Anique Uddin,4,0,,,,,,"",""
+ball,1,19.2,Jersey,CW Perchard,D Birrell,Anique Uddin,6,0,,,,,,"",""
+ball,1,19.3,Jersey,CW Perchard,D Birrell,Anique Uddin,0,0,,,,,,stumped,CW Perchard
+ball,2,0.1,Denmark,S Thanikaithasan,Delawar Khan,H Carlyon,1,0,,,,,,"",""
+ball,2,0.2,Denmark,Delawar Khan,S Thanikaithasan,H Carlyon,0,0,,,,,,"",""
+ball,2,0.3,Denmark,Delawar Khan,S Thanikaithasan,H Carlyon,0,0,,,,,,"",""
+ball,2,0.4,Denmark,Delawar Khan,S Thanikaithasan,H Carlyon,0,0,,,,,,"",""
+ball,2,0.5,Denmark,Delawar Khan,S Thanikaithasan,H Carlyon,1,0,,,,,,"",""
+ball,2,0.6,Denmark,S Thanikaithasan,Delawar Khan,H Carlyon,0,0,,,,,,"",""
+ball,2,1.1,Denmark,Delawar Khan,S Thanikaithasan,DG Blampied,4,0,,,,,,"",""
+ball,2,1.2,Denmark,Delawar Khan,S Thanikaithasan,DG Blampied,0,0,,,,,,"",""
+ball,2,1.3,Denmark,Delawar Khan,S Thanikaithasan,DG Blampied,0,0,,,,,,"",""
+ball,2,1.4,Denmark,Delawar Khan,S Thanikaithasan,DG Blampied,6,0,,,,,,"",""
+ball,2,1.5,Denmark,Delawar Khan,S Thanikaithasan,DG Blampied,0,0,,,,,,"",""
+ball,2,1.6,Denmark,Delawar Khan,S Thanikaithasan,DG Blampied,4,0,,,,,,"",""
+ball,2,2.1,Denmark,S Thanikaithasan,Delawar Khan,H Carlyon,0,0,,,,,,"",""
+ball,2,2.2,Denmark,S Thanikaithasan,Delawar Khan,H Carlyon,3,0,,,,,,"",""
+ball,2,2.3,Denmark,Delawar Khan,S Thanikaithasan,H Carlyon,1,0,,,,,,"",""
+ball,2,2.4,Denmark,S Thanikaithasan,Delawar Khan,H Carlyon,0,0,,,,,,"",""
+ball,2,2.5,Denmark,S Thanikaithasan,Delawar Khan,H Carlyon,1,0,,,,,,"",""
+ball,2,2.6,Denmark,Delawar Khan,S Thanikaithasan,H Carlyon,1,0,,,,,,"",""
+ball,2,3.1,Denmark,Delawar Khan,S Thanikaithasan,J Sumerauer,4,0,,,,,,"",""
+ball,2,3.2,Denmark,Delawar Khan,S Thanikaithasan,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.3,Denmark,Delawar Khan,S Thanikaithasan,J Sumerauer,0,0,,,,,,run out,S Thanikaithasan
+ball,2,3.4,Denmark,Delawar Khan,FA Klokker,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.5,Denmark,Delawar Khan,FA Klokker,J Sumerauer,1,0,,,,,,"",""
+ball,2,3.6,Denmark,FA Klokker,Delawar Khan,J Sumerauer,0,0,,,,,,"",""
+ball,2,4.1,Denmark,Delawar Khan,FA Klokker,H Carlyon,0,0,,,,,,"",""
+ball,2,4.2,Denmark,Delawar Khan,FA Klokker,H Carlyon,0,0,,,,,,"",""
+ball,2,4.3,Denmark,Delawar Khan,FA Klokker,H Carlyon,2,0,,,,,,"",""
+ball,2,4.4,Denmark,Delawar Khan,FA Klokker,H Carlyon,0,0,,,,,,"",""
+ball,2,4.5,Denmark,Delawar Khan,FA Klokker,H Carlyon,0,0,,,,,,"",""
+ball,2,4.6,Denmark,Delawar Khan,FA Klokker,H Carlyon,0,0,,,,,,"",""
+ball,2,5.1,Denmark,FA Klokker,Delawar Khan,J Sumerauer,1,0,,,,,,"",""
+ball,2,5.2,Denmark,Delawar Khan,FA Klokker,J Sumerauer,0,0,,,,,,"",""
+ball,2,5.3,Denmark,Delawar Khan,FA Klokker,J Sumerauer,0,0,,,,,,"",""
+ball,2,5.4,Denmark,Delawar Khan,FA Klokker,J Sumerauer,0,0,,,,,,"",""
+ball,2,5.5,Denmark,Delawar Khan,FA Klokker,J Sumerauer,0,0,,,,,,"",""
+ball,2,5.6,Denmark,Delawar Khan,FA Klokker,J Sumerauer,0,0,,,,,,"",""
+ball,2,6.1,Denmark,FA Klokker,Delawar Khan,B Ward,1,0,,,,,,"",""
+ball,2,6.2,Denmark,Delawar Khan,FA Klokker,B Ward,0,0,,,,,,"",""
+ball,2,6.3,Denmark,Delawar Khan,FA Klokker,B Ward,0,0,,,,,,"",""
+ball,2,6.4,Denmark,Delawar Khan,FA Klokker,B Ward,0,0,,,,,,stumped,Delawar Khan
+ball,2,6.5,Denmark,Zameer Khan,FA Klokker,B Ward,0,0,,,,,,"",""
+ball,2,6.6,Denmark,Zameer Khan,FA Klokker,B Ward,0,0,,,,,,"",""
+ball,2,7.1,Denmark,FA Klokker,Zameer Khan,J Sumerauer,0,0,,,,,,"",""
+ball,2,7.2,Denmark,FA Klokker,Zameer Khan,J Sumerauer,1,0,,,,,,retired not out,FA Klokker
+ball,2,7.3,Denmark,Zameer Khan,Lucky Ali,J Sumerauer,1,0,,,,,,"",""
+ball,2,7.4,Denmark,Lucky Ali,Zameer Khan,J Sumerauer,0,0,,,,,,"",""
+ball,2,7.5,Denmark,Lucky Ali,Zameer Khan,J Sumerauer,0,0,,,,,,"",""
+ball,2,7.6,Denmark,Lucky Ali,Zameer Khan,J Sumerauer,0,0,,,,,,"",""
+ball,2,8.1,Denmark,Zameer Khan,Lucky Ali,B Ward,1,0,,,,,,"",""
+ball,2,8.2,Denmark,Lucky Ali,Zameer Khan,B Ward,1,0,,,,,,"",""
+ball,2,8.3,Denmark,Zameer Khan,Lucky Ali,B Ward,0,0,,,,,,"",""
+ball,2,8.4,Denmark,Zameer Khan,Lucky Ali,B Ward,2,0,,,,,,"",""
+ball,2,8.5,Denmark,Zameer Khan,Lucky Ali,B Ward,2,0,,,,,,"",""
+ball,2,8.6,Denmark,Zameer Khan,Lucky Ali,B Ward,1,0,,,,,,"",""
+ball,2,9.1,Denmark,Zameer Khan,Lucky Ali,CW Perchard,0,0,,,,,,"",""
+ball,2,9.2,Denmark,Zameer Khan,Lucky Ali,CW Perchard,1,0,,,,,,"",""
+ball,2,9.3,Denmark,Lucky Ali,Zameer Khan,CW Perchard,0,0,,,,,,"",""
+ball,2,9.4,Denmark,Lucky Ali,Zameer Khan,CW Perchard,2,0,,,,,,"",""
+ball,2,9.5,Denmark,Lucky Ali,Zameer Khan,CW Perchard,0,0,,,,,,stumped,Lucky Ali
+ball,2,9.6,Denmark,SA Ahmad,Zameer Khan,CW Perchard,0,0,,,,,,"",""
+ball,2,10.1,Denmark,Zameer Khan,SA Ahmad,D Birrell,0,0,,,,,,"",""
+ball,2,10.2,Denmark,Zameer Khan,SA Ahmad,D Birrell,1,0,,,,,,"",""
+ball,2,10.3,Denmark,SA Ahmad,Zameer Khan,D Birrell,0,0,,,,,,"",""
+ball,2,10.4,Denmark,SA Ahmad,Zameer Khan,D Birrell,0,0,,,,,,"",""
+ball,2,10.5,Denmark,SA Ahmad,Zameer Khan,D Birrell,0,0,,,,,,"",""
+ball,2,10.6,Denmark,SA Ahmad,Zameer Khan,D Birrell,2,0,,,,,,"",""
+ball,2,11.1,Denmark,Zameer Khan,SA Ahmad,CW Perchard,1,0,,,,,,"",""
+ball,2,11.2,Denmark,SA Ahmad,Zameer Khan,CW Perchard,1,0,,,,,,"",""
+ball,2,11.3,Denmark,Zameer Khan,SA Ahmad,CW Perchard,2,0,,,,,,"",""
+ball,2,11.4,Denmark,Zameer Khan,SA Ahmad,CW Perchard,1,0,,,,,,"",""
+ball,2,11.5,Denmark,SA Ahmad,Zameer Khan,CW Perchard,0,0,,,,,,"",""
+ball,2,11.6,Denmark,SA Ahmad,Zameer Khan,CW Perchard,1,0,,,,,,"",""
+ball,2,12.1,Denmark,SA Ahmad,Zameer Khan,DG Blampied,0,0,,,,,,"",""
+ball,2,12.2,Denmark,SA Ahmad,Zameer Khan,DG Blampied,1,0,,,,,,"",""
+ball,2,12.3,Denmark,Zameer Khan,SA Ahmad,DG Blampied,1,0,,,,,,"",""
+ball,2,12.4,Denmark,SA Ahmad,Zameer Khan,DG Blampied,1,0,,,,,,"",""
+ball,2,12.5,Denmark,Zameer Khan,SA Ahmad,DG Blampied,1,0,,,,,,"",""
+ball,2,12.6,Denmark,SA Ahmad,Zameer Khan,DG Blampied,1,0,,,,,,"",""
+ball,2,13.1,Denmark,SA Ahmad,Zameer Khan,D Birrell,1,0,,,,,,"",""
+ball,2,13.2,Denmark,Zameer Khan,SA Ahmad,D Birrell,0,0,,,,,,"",""
+ball,2,13.3,Denmark,Zameer Khan,SA Ahmad,D Birrell,0,0,,,,,,caught,Zameer Khan
+ball,2,13.4,Denmark,SA Ahmad,Anique Uddin,D Birrell,1,0,,,,,,"",""
+ball,2,13.5,Denmark,Anique Uddin,SA Ahmad,D Birrell,1,0,,,,,,"",""
+ball,2,13.6,Denmark,SA Ahmad,Anique Uddin,D Birrell,0,1,,1,,,,"",""
+ball,2,13.7,Denmark,SA Ahmad,Anique Uddin,D Birrell,1,0,,,,,,"",""
+ball,2,14.1,Denmark,SA Ahmad,Anique Uddin,B Ward,4,0,,,,,,"",""
+ball,2,14.2,Denmark,SA Ahmad,Anique Uddin,B Ward,2,0,,,,,,"",""
+ball,2,14.3,Denmark,SA Ahmad,Anique Uddin,B Ward,1,0,,,,,,"",""
+ball,2,14.4,Denmark,Anique Uddin,SA Ahmad,B Ward,0,0,,,,,,"",""
+ball,2,14.5,Denmark,Anique Uddin,SA Ahmad,B Ward,0,0,,,,,,"",""
+ball,2,14.6,Denmark,Anique Uddin,SA Ahmad,B Ward,0,0,,,,,,"",""
+ball,2,15.1,Denmark,SA Ahmad,Anique Uddin,J Sumerauer,0,0,,,,,,"",""
+ball,2,15.2,Denmark,SA Ahmad,Anique Uddin,J Sumerauer,0,0,,,,,,"",""
+ball,2,15.3,Denmark,SA Ahmad,Anique Uddin,J Sumerauer,0,0,,,,,,caught,SA Ahmad
+ball,2,15.4,Denmark,A Khan,Anique Uddin,J Sumerauer,0,0,,,,,,"",""
+ball,2,15.5,Denmark,A Khan,Anique Uddin,J Sumerauer,4,0,,,,,,"",""
+ball,2,15.6,Denmark,A Khan,Anique Uddin,J Sumerauer,0,0,,,,,,"",""
+ball,2,16.1,Denmark,Anique Uddin,A Khan,B Ward,0,0,,,,,,stumped,Anique Uddin
+ball,2,16.2,Denmark,Surya Anand,A Khan,B Ward,4,0,,,,,,"",""
+ball,2,16.3,Denmark,Surya Anand,A Khan,B Ward,0,0,,,,,,"",""
+ball,2,16.4,Denmark,Surya Anand,A Khan,B Ward,1,0,,,,,,"",""
+ball,2,16.5,Denmark,A Khan,Surya Anand,B Ward,0,0,,,,,,"",""
+ball,2,16.6,Denmark,A Khan,Surya Anand,B Ward,0,0,,,,,,"",""
+ball,2,17.1,Denmark,Surya Anand,A Khan,CW Perchard,0,0,,,,,,"",""
+ball,2,17.2,Denmark,Surya Anand,A Khan,CW Perchard,2,0,,,,,,"",""
+ball,2,17.3,Denmark,Surya Anand,A Khan,CW Perchard,1,0,,,,,,"",""
+ball,2,17.4,Denmark,A Khan,Surya Anand,CW Perchard,1,0,,,,,,"",""
+ball,2,17.5,Denmark,Surya Anand,A Khan,CW Perchard,1,0,,,,,,"",""
+ball,2,17.6,Denmark,A Khan,Surya Anand,CW Perchard,0,0,,,,,,lbw,A Khan
+ball,2,18.1,Denmark,Surya Anand,Musa Shaheen,D Birrell,1,0,,,,,,"",""
+ball,2,18.2,Denmark,Musa Shaheen,Surya Anand,D Birrell,1,0,,,,,,"",""
+ball,2,18.3,Denmark,Surya Anand,Musa Shaheen,D Birrell,1,0,,,,,,"",""
+ball,2,18.4,Denmark,Musa Shaheen,Surya Anand,D Birrell,1,0,,,,,,"",""
+ball,2,18.5,Denmark,Surya Anand,Musa Shaheen,D Birrell,1,0,,,,,,"",""
+ball,2,18.6,Denmark,Musa Shaheen,Surya Anand,D Birrell,1,0,,,,,,"",""
+ball,2,19.1,Denmark,Musa Shaheen,Surya Anand,CW Perchard,0,0,,,,,,caught,Musa Shaheen
+ball,2,19.2,Denmark,Bashir Shah,Surya Anand,CW Perchard,0,0,,,,,,"",""
+ball,2,19.3,Denmark,Bashir Shah,Surya Anand,CW Perchard,0,0,,,,,,"",""
+ball,2,19.4,Denmark,Bashir Shah,Surya Anand,CW Perchard,0,0,,,,,,"",""
+ball,2,19.5,Denmark,Bashir Shah,Surya Anand,CW Perchard,0,0,,,,,,bowled,Bashir Shah

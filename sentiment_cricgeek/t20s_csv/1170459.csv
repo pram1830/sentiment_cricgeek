@@ -1,0 +1,191 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Nepal
+info,gender,male
+info,season,2018/19
+info,date,2019/02/03
+info,event,Nepal tour of United Arab Emirates
+info,match_number,3
+info,venue,ICC Academy
+info,city,Dubai
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,Karan KC
+info,umpire,Akbar Ali
+info,umpire,Shiju Sam
+info,reserve_umpire,Iftikhar Ali
+info,match_referee,Muhammad Javed
+info,winner,Nepal
+info,winner_runs,14
+info,player,Nepal,P Sarraf
+info,player,Nepal,P Khadka
+info,player,Nepal,G Malla
+info,player,Nepal,DS Airee
+info,player,Nepal,S Jora
+info,player,Nepal,B Bhandari
+info,player,Nepal,Karan KC
+info,player,Nepal,Sompal Kami
+info,player,Nepal,S Lamichhane
+info,player,Nepal,A Bohara
+info,player,Nepal,LN Rajbanshi
+info,player,United Arab Emirates,Ghulam Shabber
+info,player,United Arab Emirates,Ashfaq Ahmed
+info,player,United Arab Emirates,Shaiman Anwar
+info,player,United Arab Emirates,Muhammad Usman
+info,player,United Arab Emirates,Mohammad Boota
+info,player,United Arab Emirates,Mohammad Naveed
+info,player,United Arab Emirates,CP Rizwan
+info,player,United Arab Emirates,Amir Hayat
+info,player,United Arab Emirates,Sultan Ahmed (2)
+info,player,United Arab Emirates,Imran Haider
+info,player,United Arab Emirates,Zahoor Khan
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Amir Hayat,5faa30f7
+info,registry,people,Ashfaq Ahmed,9d1f42c6
+info,registry,people,B Bhandari,82342b13
+info,registry,people,CP Rizwan,e5309baa
+info,registry,people,DS Airee,1747ea18
+info,registry,people,G Malla,b2e1d224
+info,registry,people,Ghulam Shabber,ced0ec25
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,Imran Haider,0226b73a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Mohammad Boota,39713d08
+info,registry,people,Mohammad Naveed,4861d29b
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Muhammad Usman,45642393
+info,registry,people,P Khadka,12c3ba4d
+info,registry,people,P Sarraf,82294960
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Shaiman Anwar,e9630504
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,Sultan Ahmed (2),07687c15
+info,registry,people,Zahoor Khan,f0e293b0
+ball,1,0.1,Nepal,P Sarraf,P Khadka,Mohammad Naveed,0,0,,,,,,"",""
+ball,1,0.2,Nepal,P Sarraf,P Khadka,Mohammad Naveed,0,0,,,,,,"",""
+ball,1,0.3,Nepal,P Sarraf,P Khadka,Mohammad Naveed,0,0,,,,,,"",""
+ball,1,0.4,Nepal,P Sarraf,P Khadka,Mohammad Naveed,0,0,,,,,,caught,P Sarraf
+ball,1,0.5,Nepal,G Malla,P Khadka,Mohammad Naveed,0,0,,,,,,"",""
+ball,1,0.6,Nepal,G Malla,P Khadka,Mohammad Naveed,0,0,,,,,,"",""
+ball,1,1.1,Nepal,P Khadka,G Malla,Amir Hayat,1,0,,,,,,"",""
+ball,1,1.2,Nepal,G Malla,P Khadka,Amir Hayat,0,0,,,,,,"",""
+ball,1,1.3,Nepal,G Malla,P Khadka,Amir Hayat,4,0,,,,,,"",""
+ball,1,1.4,Nepal,G Malla,P Khadka,Amir Hayat,0,0,,,,,,"",""
+ball,1,1.5,Nepal,G Malla,P Khadka,Amir Hayat,1,0,,,,,,"",""
+ball,1,1.6,Nepal,P Khadka,G Malla,Amir Hayat,0,0,,,,,,"",""
+ball,1,2.1,Nepal,G Malla,P Khadka,Zahoor Khan,2,0,,,,,,"",""
+ball,1,2.2,Nepal,G Malla,P Khadka,Zahoor Khan,4,0,,,,,,"",""
+ball,1,2.3,Nepal,G Malla,P Khadka,Zahoor Khan,0,0,,,,,,bowled,G Malla
+ball,1,2.4,Nepal,DS Airee,P Khadka,Zahoor Khan,1,0,,,,,,"",""
+ball,1,2.5,Nepal,P Khadka,DS Airee,Zahoor Khan,4,0,,,,,,"",""
+ball,1,2.6,Nepal,P Khadka,DS Airee,Zahoor Khan,2,0,,,,,,"",""
+ball,1,3.1,Nepal,DS Airee,P Khadka,Sultan Ahmed (2),1,0,,,,,,"",""
+ball,1,3.2,Nepal,P Khadka,DS Airee,Sultan Ahmed (2),1,0,,,,,,"",""
+ball,1,3.3,Nepal,DS Airee,P Khadka,Sultan Ahmed (2),0,0,,,,,,lbw,DS Airee
+ball,1,3.4,Nepal,S Jora,P Khadka,Sultan Ahmed (2),2,0,,,,,,"",""
+ball,1,3.5,Nepal,S Jora,P Khadka,Sultan Ahmed (2),6,0,,,,,,"",""
+ball,1,3.6,Nepal,S Jora,P Khadka,Sultan Ahmed (2),2,0,,,,,,"",""
+ball,1,4.1,Nepal,P Khadka,S Jora,Zahoor Khan,4,0,,,,,,"",""
+ball,1,4.2,Nepal,P Khadka,S Jora,Zahoor Khan,0,1,,,1,,,"",""
+ball,1,4.3,Nepal,S Jora,P Khadka,Zahoor Khan,0,0,,,,,,"",""
+ball,1,4.4,Nepal,S Jora,P Khadka,Zahoor Khan,1,0,,,,,,"",""
+ball,1,4.5,Nepal,P Khadka,S Jora,Zahoor Khan,4,0,,,,,,"",""
+ball,1,4.6,Nepal,P Khadka,S Jora,Zahoor Khan,1,0,,,,,,"",""
+ball,1,5.1,Nepal,P Khadka,S Jora,Mohammad Boota,6,0,,,,,,"",""
+ball,1,5.2,Nepal,P Khadka,S Jora,Mohammad Boota,2,0,,,,,,"",""
+ball,1,5.3,Nepal,P Khadka,S Jora,Mohammad Boota,4,0,,,,,,"",""
+ball,1,5.4,Nepal,P Khadka,S Jora,Mohammad Boota,0,0,,,,,,"",""
+ball,1,5.5,Nepal,P Khadka,S Jora,Mohammad Boota,0,0,,,,,,caught,P Khadka
+ball,1,5.6,Nepal,B Bhandari,S Jora,Mohammad Boota,1,0,,,,,,"",""
+ball,1,6.1,Nepal,B Bhandari,S Jora,Sultan Ahmed (2),0,1,1,,,,,"",""
+ball,1,6.2,Nepal,B Bhandari,S Jora,Sultan Ahmed (2),0,0,,,,,,"",""
+ball,1,6.3,Nepal,B Bhandari,S Jora,Sultan Ahmed (2),4,0,,,,,,"",""
+ball,1,6.4,Nepal,B Bhandari,S Jora,Sultan Ahmed (2),1,0,,,,,,"",""
+ball,1,6.5,Nepal,S Jora,B Bhandari,Sultan Ahmed (2),1,0,,,,,,"",""
+ball,1,6.6,Nepal,B Bhandari,S Jora,Sultan Ahmed (2),1,0,,,,,,"",""
+ball,1,6.7,Nepal,S Jora,B Bhandari,Sultan Ahmed (2),6,0,,,,,,"",""
+ball,1,7.1,Nepal,B Bhandari,S Jora,Imran Haider,0,0,,,,,,"",""
+ball,1,7.2,Nepal,B Bhandari,S Jora,Imran Haider,4,0,,,,,,"",""
+ball,1,7.3,Nepal,B Bhandari,S Jora,Imran Haider,6,0,,,,,,"",""
+ball,1,7.4,Nepal,B Bhandari,S Jora,Imran Haider,0,1,,,,1,,"",""
+ball,1,7.5,Nepal,S Jora,B Bhandari,Imran Haider,6,0,,,,,,"",""
+ball,1,7.6,Nepal,S Jora,B Bhandari,Imran Haider,2,0,,,,,,"",""
+ball,1,8.1,Nepal,B Bhandari,S Jora,Mohammad Naveed,1,0,,,,,,"",""
+ball,1,8.2,Nepal,S Jora,B Bhandari,Mohammad Naveed,2,0,,,,,,"",""
+ball,1,8.3,Nepal,S Jora,B Bhandari,Mohammad Naveed,0,0,,,,,,bowled,S Jora
+ball,1,8.4,Nepal,Karan KC,B Bhandari,Mohammad Naveed,1,0,,,,,,"",""
+ball,1,8.5,Nepal,B Bhandari,Karan KC,Mohammad Naveed,1,0,,,,,,"",""
+ball,1,8.6,Nepal,Karan KC,B Bhandari,Mohammad Naveed,1,0,,,,,,"",""
+ball,1,9.1,Nepal,Karan KC,B Bhandari,Amir Hayat,2,0,,,,,,"",""
+ball,1,9.2,Nepal,Karan KC,B Bhandari,Amir Hayat,6,0,,,,,,"",""
+ball,1,9.3,Nepal,Karan KC,B Bhandari,Amir Hayat,0,0,,,,,,caught,Karan KC
+ball,1,9.4,Nepal,B Bhandari,Sompal Kami,Amir Hayat,2,0,,,,,,"",""
+ball,1,9.5,Nepal,B Bhandari,Sompal Kami,Amir Hayat,0,0,,,,,,caught,B Bhandari
+ball,1,9.6,Nepal,Sompal Kami,S Lamichhane,Amir Hayat,0,0,,,,,,run out,Sompal Kami
+ball,2,0.1,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,S Lamichhane,6,0,,,,,,"",""
+ball,2,0.2,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,S Lamichhane,4,0,,,,,,"",""
+ball,2,0.3,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,S Lamichhane,4,0,,,,,,"",""
+ball,2,0.4,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,S Lamichhane,0,0,,,,,,"",""
+ball,2,0.5,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,S Lamichhane,1,0,,,,,,"",""
+ball,2,0.6,United Arab Emirates,Ashfaq Ahmed,Ghulam Shabber,S Lamichhane,0,5,5,,,,,"",""
+ball,2,0.7,United Arab Emirates,Ashfaq Ahmed,Ghulam Shabber,S Lamichhane,0,0,,,,,,"",""
+ball,2,1.1,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,Sompal Kami,0,0,,,,,,"",""
+ball,2,1.2,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,Sompal Kami,0,0,,,,,,"",""
+ball,2,1.3,United Arab Emirates,Ghulam Shabber,Ashfaq Ahmed,Sompal Kami,1,0,,,,,,"",""
+ball,2,1.4,United Arab Emirates,Ashfaq Ahmed,Ghulam Shabber,Sompal Kami,4,0,,,,,,"",""
+ball,2,1.5,United Arab Emirates,Ashfaq Ahmed,Ghulam Shabber,Sompal Kami,4,0,,,,,,"",""
+ball,2,1.6,United Arab Emirates,Ashfaq Ahmed,Ghulam Shabber,Sompal Kami,0,0,,,,,,caught,Ashfaq Ahmed
+ball,2,2.1,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Karan KC,0,0,,,,,,"",""
+ball,2,2.2,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Karan KC,0,0,,,,,,"",""
+ball,2,2.3,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Karan KC,6,0,,,,,,"",""
+ball,2,2.4,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Karan KC,2,0,,,,,,"",""
+ball,2,2.5,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Karan KC,1,0,,,,,,"",""
+ball,2,2.6,United Arab Emirates,Ghulam Shabber,Shaiman Anwar,Karan KC,1,0,,,,,,"",""
+ball,2,3.1,United Arab Emirates,Ghulam Shabber,Shaiman Anwar,Sompal Kami,1,0,,,,,,"",""
+ball,2,3.2,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Sompal Kami,1,0,,,,,,"",""
+ball,2,3.3,United Arab Emirates,Ghulam Shabber,Shaiman Anwar,Sompal Kami,1,0,,,,,,"",""
+ball,2,3.4,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Sompal Kami,0,0,,,,,,"",""
+ball,2,3.5,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Sompal Kami,0,1,1,,,,,"",""
+ball,2,3.6,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Sompal Kami,6,0,,,,,,"",""
+ball,2,3.7,United Arab Emirates,Shaiman Anwar,Ghulam Shabber,Sompal Kami,2,0,,,,,,"",""
+ball,2,4.1,United Arab Emirates,Ghulam Shabber,Shaiman Anwar,A Bohara,2,0,,,,,,"",""
+ball,2,4.2,United Arab Emirates,Ghulam Shabber,Shaiman Anwar,A Bohara,4,0,,,,,,"",""
+ball,2,4.3,United Arab Emirates,Ghulam Shabber,Shaiman Anwar,A Bohara,0,0,,,,,,"",""
+ball,2,4.4,United Arab Emirates,Ghulam Shabber,Shaiman Anwar,A Bohara,0,0,,,,,,bowled,Ghulam Shabber
+ball,2,4.5,United Arab Emirates,Muhammad Usman,Shaiman Anwar,A Bohara,1,0,,,,,,"",""
+ball,2,4.6,United Arab Emirates,Shaiman Anwar,Muhammad Usman,A Bohara,0,0,,,,,,"",""
+ball,2,5.1,United Arab Emirates,Muhammad Usman,Shaiman Anwar,S Lamichhane,1,0,,,,,,"",""
+ball,2,5.2,United Arab Emirates,Shaiman Anwar,Muhammad Usman,S Lamichhane,1,0,,,,,,"",""
+ball,2,5.3,United Arab Emirates,Muhammad Usman,Shaiman Anwar,S Lamichhane,0,0,,,,,,caught,Muhammad Usman
+ball,2,5.4,United Arab Emirates,Shaiman Anwar,Mohammad Boota,S Lamichhane,0,0,,,,,,"",""
+ball,2,5.5,United Arab Emirates,Shaiman Anwar,Mohammad Boota,S Lamichhane,0,0,,,,,,"",""
+ball,2,5.6,United Arab Emirates,Shaiman Anwar,Mohammad Boota,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.1,United Arab Emirates,Shaiman Anwar,Mohammad Boota,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,6.2,United Arab Emirates,Shaiman Anwar,Mohammad Boota,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,6.3,United Arab Emirates,Mohammad Boota,Shaiman Anwar,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,6.4,United Arab Emirates,Shaiman Anwar,Mohammad Boota,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,6.5,United Arab Emirates,Shaiman Anwar,Mohammad Boota,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,6.6,United Arab Emirates,Shaiman Anwar,Mohammad Boota,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,7.1,United Arab Emirates,Shaiman Anwar,Mohammad Boota,Karan KC,0,0,,,,,,caught,Shaiman Anwar
+ball,2,7.2,United Arab Emirates,Mohammad Boota,Mohammad Naveed,Karan KC,1,0,,,,,,"",""
+ball,2,7.3,United Arab Emirates,Mohammad Naveed,Mohammad Boota,Karan KC,0,0,,,,,,caught,Mohammad Naveed
+ball,2,7.4,United Arab Emirates,Mohammad Boota,CP Rizwan,Karan KC,1,0,,,,,,"",""
+ball,2,7.5,United Arab Emirates,CP Rizwan,Mohammad Boota,Karan KC,1,0,,,,,,"",""
+ball,2,7.6,United Arab Emirates,Mohammad Boota,CP Rizwan,Karan KC,0,1,,,,1,,"",""
+ball,2,8.1,United Arab Emirates,Mohammad Boota,CP Rizwan,A Bohara,2,0,,,,,,"",""
+ball,2,8.2,United Arab Emirates,Mohammad Boota,CP Rizwan,A Bohara,4,0,,,,,,"",""
+ball,2,8.3,United Arab Emirates,Mohammad Boota,CP Rizwan,A Bohara,0,0,,,,,,"",""
+ball,2,8.4,United Arab Emirates,Mohammad Boota,CP Rizwan,A Bohara,2,0,,,,,,"",""
+ball,2,8.5,United Arab Emirates,Mohammad Boota,CP Rizwan,A Bohara,0,0,,,,,,caught,Mohammad Boota
+ball,2,8.6,United Arab Emirates,CP Rizwan,Amir Hayat,A Bohara,1,0,,,,,,"",""
+ball,2,9.1,United Arab Emirates,CP Rizwan,Amir Hayat,LN Rajbanshi,0,0,,,,,,caught,CP Rizwan
+ball,2,9.2,United Arab Emirates,Amir Hayat,Sultan Ahmed (2),LN Rajbanshi,0,0,,,,,,caught,Amir Hayat
+ball,2,9.3,United Arab Emirates,Sultan Ahmed (2),Imran Haider,LN Rajbanshi,2,0,,,,,,"",""
+ball,2,9.4,United Arab Emirates,Sultan Ahmed (2),Imran Haider,LN Rajbanshi,2,0,,,,,,"",""
+ball,2,9.5,United Arab Emirates,Sultan Ahmed (2),Imran Haider,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,9.6,United Arab Emirates,Imran Haider,Sultan Ahmed (2),LN Rajbanshi,0,0,,,,,,"",""

@@ -1,0 +1,284 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,England
+info,gender,male
+info,season,2021/22
+info,date,2021/10/27
+info,event,ICC Men's T20 World Cup
+info,match_number,20
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,JJ Roy
+info,umpire,L Rusere
+info,umpire,Nitin Menon
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,RJ Tucker
+info,match_referee,J Srinath
+info,winner,England
+info,winner_wickets,8
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mohammad Naim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Nurul Hasan
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Nasum Ahmed
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Shoriful Islam
+info,player,England,JJ Roy
+info,player,England,JC Buttler
+info,player,England,DJ Malan
+info,player,England,JM Bairstow
+info,player,England,EJG Morgan
+info,player,England,LS Livingstone
+info,player,England,MM Ali
+info,player,England,CR Woakes
+info,player,England,CJ Jordan
+info,player,England,AU Rashid
+info,player,England,TS Mills
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Afif Hossain,37138918
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,Bangladesh,Liton Das,Mohammad Naim,MM Ali,0,0,,,,,,"",""
+ball,1,0.2,Bangladesh,Liton Das,Mohammad Naim,MM Ali,0,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Liton Das,Mohammad Naim,MM Ali,1,0,,,,,,"",""
+ball,1,0.4,Bangladesh,Mohammad Naim,Liton Das,MM Ali,1,0,,,,,,"",""
+ball,1,0.5,Bangladesh,Liton Das,Mohammad Naim,MM Ali,4,0,,,,,,"",""
+ball,1,0.6,Bangladesh,Liton Das,Mohammad Naim,MM Ali,4,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Mohammad Naim,Liton Das,CR Woakes,0,0,,,,,,"",""
+ball,1,1.2,Bangladesh,Mohammad Naim,Liton Das,CR Woakes,0,0,,,,,,"",""
+ball,1,1.3,Bangladesh,Mohammad Naim,Liton Das,CR Woakes,2,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Mohammad Naim,Liton Das,CR Woakes,1,0,,,,,,"",""
+ball,1,1.5,Bangladesh,Liton Das,Mohammad Naim,CR Woakes,0,0,,,,,,"",""
+ball,1,1.6,Bangladesh,Liton Das,Mohammad Naim,CR Woakes,0,0,,,,,,"",""
+ball,1,2.1,Bangladesh,Mohammad Naim,Liton Das,MM Ali,1,0,,,,,,"",""
+ball,1,2.2,Bangladesh,Liton Das,Mohammad Naim,MM Ali,0,0,,,,,,caught,Liton Das
+ball,1,2.3,Bangladesh,Mohammad Naim,Shakib Al Hasan,MM Ali,0,0,,,,,,caught,Mohammad Naim
+ball,1,2.4,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,MM Ali,0,0,,,,,,"",""
+ball,1,2.5,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,MM Ali,0,0,,,,,,"",""
+ball,1,2.6,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,MM Ali,1,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,CR Woakes,0,0,,,,,,"",""
+ball,1,3.2,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,CR Woakes,1,0,,,,,,"",""
+ball,1,3.3,Bangladesh,Shakib Al Hasan,Mushfiqur Rahim,CR Woakes,0,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Shakib Al Hasan,Mushfiqur Rahim,CR Woakes,1,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,CR Woakes,0,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,CR Woakes,1,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,MM Ali,1,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Shakib Al Hasan,Mushfiqur Rahim,MM Ali,0,0,,,,,,"",""
+ball,1,4.3,Bangladesh,Shakib Al Hasan,Mushfiqur Rahim,MM Ali,0,0,,,,,,"",""
+ball,1,4.4,Bangladesh,Shakib Al Hasan,Mushfiqur Rahim,MM Ali,1,0,,,,,,"",""
+ball,1,4.5,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,MM Ali,0,0,,,,,,"",""
+ball,1,4.6,Bangladesh,Mushfiqur Rahim,Shakib Al Hasan,MM Ali,4,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Shakib Al Hasan,Mushfiqur Rahim,CR Woakes,2,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Shakib Al Hasan,Mushfiqur Rahim,CR Woakes,0,0,,,,,,caught,Shakib Al Hasan
+ball,1,5.3,Bangladesh,Mushfiqur Rahim,Mahmudullah,CR Woakes,0,0,,,,,,"",""
+ball,1,5.4,Bangladesh,Mushfiqur Rahim,Mahmudullah,CR Woakes,0,0,,,,,,"",""
+ball,1,5.5,Bangladesh,Mushfiqur Rahim,Mahmudullah,CR Woakes,0,0,,,,,,"",""
+ball,1,5.6,Bangladesh,Mushfiqur Rahim,Mahmudullah,CR Woakes,1,0,,,,,,"",""
+ball,1,6.1,Bangladesh,Mushfiqur Rahim,Mahmudullah,AU Rashid,0,0,,,,,,"",""
+ball,1,6.2,Bangladesh,Mushfiqur Rahim,Mahmudullah,AU Rashid,0,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Mushfiqur Rahim,Mahmudullah,AU Rashid,1,0,,,,,,"",""
+ball,1,6.4,Bangladesh,Mahmudullah,Mushfiqur Rahim,AU Rashid,1,0,,,,,,"",""
+ball,1,6.5,Bangladesh,Mushfiqur Rahim,Mahmudullah,AU Rashid,1,0,,,,,,"",""
+ball,1,6.6,Bangladesh,Mahmudullah,Mushfiqur Rahim,AU Rashid,0,0,,,,,,"",""
+ball,1,7.1,Bangladesh,Mushfiqur Rahim,Mahmudullah,CJ Jordan,2,0,,,,,,"",""
+ball,1,7.2,Bangladesh,Mushfiqur Rahim,Mahmudullah,CJ Jordan,0,1,1,,,,,"",""
+ball,1,7.3,Bangladesh,Mushfiqur Rahim,Mahmudullah,CJ Jordan,4,0,,,,,,"",""
+ball,1,7.4,Bangladesh,Mushfiqur Rahim,Mahmudullah,CJ Jordan,1,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Mahmudullah,Mushfiqur Rahim,CJ Jordan,0,1,,,,1,,"",""
+ball,1,7.6,Bangladesh,Mushfiqur Rahim,Mahmudullah,CJ Jordan,1,0,,,,,,"",""
+ball,1,7.7,Bangladesh,Mahmudullah,Mushfiqur Rahim,CJ Jordan,0,1,1,,,,,"",""
+ball,1,7.8,Bangladesh,Mahmudullah,Mushfiqur Rahim,CJ Jordan,1,0,,,,,,"",""
+ball,1,8.1,Bangladesh,Mahmudullah,Mushfiqur Rahim,AU Rashid,1,0,,,,,,"",""
+ball,1,8.2,Bangladesh,Mushfiqur Rahim,Mahmudullah,AU Rashid,1,0,,,,,,"",""
+ball,1,8.3,Bangladesh,Mahmudullah,Mushfiqur Rahim,AU Rashid,4,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Mahmudullah,Mushfiqur Rahim,AU Rashid,0,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Mahmudullah,Mushfiqur Rahim,AU Rashid,1,0,,,,,,"",""
+ball,1,8.6,Bangladesh,Mushfiqur Rahim,Mahmudullah,AU Rashid,0,0,,,,,,"",""
+ball,1,9.1,Bangladesh,Mahmudullah,Mushfiqur Rahim,TS Mills,1,0,,,,,,"",""
+ball,1,9.2,Bangladesh,Mushfiqur Rahim,Mahmudullah,TS Mills,1,0,,,,,,"",""
+ball,1,9.3,Bangladesh,Mahmudullah,Mushfiqur Rahim,TS Mills,2,0,,,,,,"",""
+ball,1,9.4,Bangladesh,Mahmudullah,Mushfiqur Rahim,TS Mills,1,0,,,,,,"",""
+ball,1,9.5,Bangladesh,Mushfiqur Rahim,Mahmudullah,TS Mills,4,0,,,,,,"",""
+ball,1,9.6,Bangladesh,Mushfiqur Rahim,Mahmudullah,TS Mills,2,0,,,,,,"",""
+ball,1,10.1,Bangladesh,Mahmudullah,Mushfiqur Rahim,LS Livingstone,1,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Mushfiqur Rahim,Mahmudullah,LS Livingstone,0,0,,,,,,"",""
+ball,1,10.3,Bangladesh,Mushfiqur Rahim,Mahmudullah,LS Livingstone,2,0,,,,,,"",""
+ball,1,10.4,Bangladesh,Mushfiqur Rahim,Mahmudullah,LS Livingstone,0,0,,,,,,lbw,Mushfiqur Rahim
+ball,1,10.5,Bangladesh,Afif Hossain,Mahmudullah,LS Livingstone,0,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Afif Hossain,Mahmudullah,LS Livingstone,0,0,,,,,,"",""
+ball,1,11.1,Bangladesh,Mahmudullah,Afif Hossain,CR Woakes,1,0,,,,,,"",""
+ball,1,11.2,Bangladesh,Afif Hossain,Mahmudullah,CR Woakes,0,0,,,,,,"",""
+ball,1,11.3,Bangladesh,Afif Hossain,Mahmudullah,CR Woakes,1,0,,,,,,"",""
+ball,1,11.4,Bangladesh,Mahmudullah,Afif Hossain,CR Woakes,0,0,,,,,,"",""
+ball,1,11.5,Bangladesh,Mahmudullah,Afif Hossain,CR Woakes,0,0,,,,,,"",""
+ball,1,11.6,Bangladesh,Mahmudullah,Afif Hossain,CR Woakes,1,0,,,,,,"",""
+ball,1,12.1,Bangladesh,Mahmudullah,Afif Hossain,LS Livingstone,1,0,,,,,,"",""
+ball,1,12.2,Bangladesh,Afif Hossain,Mahmudullah,LS Livingstone,4,0,,,,,,"",""
+ball,1,12.3,Bangladesh,Afif Hossain,Mahmudullah,LS Livingstone,0,1,,,1,,,"",""
+ball,1,12.4,Bangladesh,Mahmudullah,Afif Hossain,LS Livingstone,1,0,,,,,,run out,Afif Hossain
+ball,1,12.5,Bangladesh,Nurul Hasan,Mahmudullah,LS Livingstone,2,0,,,,,,"",""
+ball,1,12.6,Bangladesh,Nurul Hasan,Mahmudullah,LS Livingstone,1,0,,,,,,"",""
+ball,1,13.1,Bangladesh,Nurul Hasan,Mahmudullah,CJ Jordan,0,0,,,,,,"",""
+ball,1,13.2,Bangladesh,Nurul Hasan,Mahmudullah,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.3,Bangladesh,Mahmudullah,Nurul Hasan,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Nurul Hasan,Mahmudullah,CJ Jordan,0,1,1,,,,,"",""
+ball,1,13.5,Bangladesh,Nurul Hasan,Mahmudullah,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.6,Bangladesh,Mahmudullah,Nurul Hasan,CJ Jordan,0,0,,,,,,"",""
+ball,1,13.7,Bangladesh,Mahmudullah,Nurul Hasan,CJ Jordan,0,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Nurul Hasan,Mahmudullah,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.2,Bangladesh,Mahmudullah,Nurul Hasan,LS Livingstone,0,0,,,,,,"",""
+ball,1,14.3,Bangladesh,Mahmudullah,Nurul Hasan,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.4,Bangladesh,Nurul Hasan,Mahmudullah,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.5,Bangladesh,Mahmudullah,Nurul Hasan,LS Livingstone,0,0,,,,,,caught,Mahmudullah
+ball,1,14.6,Bangladesh,Mahedi Hasan,Nurul Hasan,LS Livingstone,0,0,,,,,,"",""
+ball,1,15.1,Bangladesh,Nurul Hasan,Mahedi Hasan,TS Mills,1,0,,,,,,"",""
+ball,1,15.2,Bangladesh,Mahedi Hasan,Nurul Hasan,TS Mills,0,0,,,,,,"",""
+ball,1,15.3,Bangladesh,Mahedi Hasan,Nurul Hasan,TS Mills,1,0,,,,,,"",""
+ball,1,15.4,Bangladesh,Nurul Hasan,Mahedi Hasan,TS Mills,1,0,,,,,,"",""
+ball,1,15.5,Bangladesh,Mahedi Hasan,Nurul Hasan,TS Mills,0,0,,,,,,"",""
+ball,1,15.6,Bangladesh,Mahedi Hasan,Nurul Hasan,TS Mills,4,0,,,,,,"",""
+ball,1,16.1,Bangladesh,Nurul Hasan,Mahedi Hasan,AU Rashid,1,0,,,,,,"",""
+ball,1,16.2,Bangladesh,Mahedi Hasan,Nurul Hasan,AU Rashid,1,0,,,,,,"",""
+ball,1,16.3,Bangladesh,Nurul Hasan,Mahedi Hasan,AU Rashid,1,0,,,,,,"",""
+ball,1,16.4,Bangladesh,Mahedi Hasan,Nurul Hasan,AU Rashid,4,0,,,,,,"",""
+ball,1,16.5,Bangladesh,Mahedi Hasan,Nurul Hasan,AU Rashid,0,0,,,,,,"",""
+ball,1,16.6,Bangladesh,Mahedi Hasan,Nurul Hasan,AU Rashid,1,0,,,,,,"",""
+ball,1,17.1,Bangladesh,Mahedi Hasan,Nurul Hasan,TS Mills,0,0,,,,,,caught,Mahedi Hasan
+ball,1,17.2,Bangladesh,Nasum Ahmed,Nurul Hasan,TS Mills,1,0,,,,,,"",""
+ball,1,17.3,Bangladesh,Nurul Hasan,Nasum Ahmed,TS Mills,1,0,,,,,,"",""
+ball,1,17.4,Bangladesh,Nasum Ahmed,Nurul Hasan,TS Mills,2,0,,,,,,"",""
+ball,1,17.5,Bangladesh,Nasum Ahmed,Nurul Hasan,TS Mills,0,0,,,,,,"",""
+ball,1,17.6,Bangladesh,Nasum Ahmed,Nurul Hasan,TS Mills,0,0,,,,,,"",""
+ball,1,18.1,Bangladesh,Nurul Hasan,Nasum Ahmed,AU Rashid,1,0,,,,,,"",""
+ball,1,18.2,Bangladesh,Nasum Ahmed,Nurul Hasan,AU Rashid,6,0,,,,,,"",""
+ball,1,18.3,Bangladesh,Nasum Ahmed,Nurul Hasan,AU Rashid,0,0,,,,,,"",""
+ball,1,18.4,Bangladesh,Nasum Ahmed,Nurul Hasan,AU Rashid,0,0,,,,,,"",""
+ball,1,18.5,Bangladesh,Nasum Ahmed,Nurul Hasan,AU Rashid,6,0,,,,,,"",""
+ball,1,18.6,Bangladesh,Nasum Ahmed,Nurul Hasan,AU Rashid,4,0,,,,,,"",""
+ball,1,19.1,Bangladesh,Nurul Hasan,Nasum Ahmed,TS Mills,1,0,,,,,,"",""
+ball,1,19.2,Bangladesh,Nasum Ahmed,Nurul Hasan,TS Mills,0,2,2,,,,,"",""
+ball,1,19.3,Bangladesh,Nurul Hasan,Nasum Ahmed,TS Mills,0,0,,,,,,"",""
+ball,1,19.4,Bangladesh,Nurul Hasan,Nasum Ahmed,TS Mills,0,0,,,,,,"",""
+ball,1,19.5,Bangladesh,Nurul Hasan,Nasum Ahmed,TS Mills,2,0,,,,,,"",""
+ball,1,19.6,Bangladesh,Nurul Hasan,Nasum Ahmed,TS Mills,0,0,,,,,,caught,Nurul Hasan
+ball,1,19.7,Bangladesh,Mustafizur Rahman,Nasum Ahmed,TS Mills,0,0,,,,,,bowled,Mustafizur Rahman
+ball,2,0.1,England,JJ Roy,JC Buttler,Shakib Al Hasan,4,0,,,,,,"",""
+ball,2,0.2,England,JJ Roy,JC Buttler,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,0.3,England,JC Buttler,JJ Roy,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,0.4,England,JC Buttler,JJ Roy,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,0.5,England,JJ Roy,JC Buttler,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,0.6,England,JC Buttler,JJ Roy,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,1.1,England,JJ Roy,JC Buttler,Mustafizur Rahman,0,1,,,,1,,"",""
+ball,2,1.2,England,JC Buttler,JJ Roy,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,1.3,England,JC Buttler,JJ Roy,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,1.4,England,JC Buttler,JJ Roy,Mustafizur Rahman,0,1,,,,1,,"",""
+ball,2,1.5,England,JJ Roy,JC Buttler,Mustafizur Rahman,0,1,1,,,,,"",""
+ball,2,1.6,England,JJ Roy,JC Buttler,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,1.7,England,JJ Roy,JC Buttler,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,2.1,England,JC Buttler,JJ Roy,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,2.2,England,JJ Roy,JC Buttler,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,2.3,England,JJ Roy,JC Buttler,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,2.4,England,JC Buttler,JJ Roy,Shakib Al Hasan,6,0,,,,,,"",""
+ball,2,2.5,England,JC Buttler,JJ Roy,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,2.6,England,JC Buttler,JJ Roy,Shakib Al Hasan,2,0,,,,,,"",""
+ball,2,3.1,England,JJ Roy,JC Buttler,Shoriful Islam,0,0,,,,,,"",""
+ball,2,3.2,England,JJ Roy,JC Buttler,Shoriful Islam,0,1,1,,,,,"",""
+ball,2,3.3,England,JJ Roy,JC Buttler,Shoriful Islam,1,0,,,,,,"",""
+ball,2,3.4,England,JC Buttler,JJ Roy,Shoriful Islam,4,0,,,,,,"",""
+ball,2,3.5,England,JC Buttler,JJ Roy,Shoriful Islam,1,0,,,,,,"",""
+ball,2,3.6,England,JJ Roy,JC Buttler,Shoriful Islam,1,0,,,,,,"",""
+ball,2,3.7,England,JC Buttler,JJ Roy,Shoriful Islam,1,0,,,,,,"",""
+ball,2,4.1,England,JC Buttler,JJ Roy,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,4.2,England,JC Buttler,JJ Roy,Nasum Ahmed,2,0,,,,,,"",""
+ball,2,4.3,England,JC Buttler,JJ Roy,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,4.4,England,JC Buttler,JJ Roy,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,4.5,England,JC Buttler,JJ Roy,Nasum Ahmed,0,0,,,,,,caught,JC Buttler
+ball,2,4.6,England,JJ Roy,DJ Malan,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,5.1,England,JJ Roy,DJ Malan,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.2,England,JJ Roy,DJ Malan,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,5.3,England,DJ Malan,JJ Roy,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,5.4,England,DJ Malan,JJ Roy,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,5.5,England,JJ Roy,DJ Malan,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,5.6,England,JJ Roy,DJ Malan,Mustafizur Rahman,0,4,,,,4,,"",""
+ball,2,6.1,England,DJ Malan,JJ Roy,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,6.2,England,DJ Malan,JJ Roy,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,6.3,England,JJ Roy,DJ Malan,Mahedi Hasan,6,0,,,,,,"",""
+ball,2,6.4,England,JJ Roy,DJ Malan,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,6.5,England,JJ Roy,DJ Malan,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,6.6,England,DJ Malan,JJ Roy,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,7.1,England,DJ Malan,JJ Roy,Nasum Ahmed,4,0,,,,,,"",""
+ball,2,7.2,England,DJ Malan,JJ Roy,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,7.3,England,JJ Roy,DJ Malan,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,7.4,England,DJ Malan,JJ Roy,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,7.5,England,JJ Roy,DJ Malan,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,7.6,England,DJ Malan,JJ Roy,Nasum Ahmed,4,0,,,,,,"",""
+ball,2,8.1,England,JJ Roy,DJ Malan,Mahedi Hasan,0,1,1,,,,,"",""
+ball,2,8.2,England,JJ Roy,DJ Malan,Mahedi Hasan,2,0,,,,,,"",""
+ball,2,8.3,England,JJ Roy,DJ Malan,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,8.4,England,DJ Malan,JJ Roy,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,8.5,England,JJ Roy,DJ Malan,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,8.6,England,DJ Malan,JJ Roy,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,8.7,England,JJ Roy,DJ Malan,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,9.1,England,JJ Roy,DJ Malan,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,9.2,England,DJ Malan,JJ Roy,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,9.3,England,DJ Malan,JJ Roy,Shakib Al Hasan,0,1,1,,,,,"",""
+ball,2,9.4,England,DJ Malan,JJ Roy,Shakib Al Hasan,0,1,1,,,,,"",""
+ball,2,9.5,England,DJ Malan,JJ Roy,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,9.6,England,JJ Roy,DJ Malan,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,9.7,England,DJ Malan,JJ Roy,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,9.8,England,JJ Roy,DJ Malan,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,10.1,England,JJ Roy,DJ Malan,Shoriful Islam,1,0,,,,,,"",""
+ball,2,10.2,England,DJ Malan,JJ Roy,Shoriful Islam,1,0,,,,,,"",""
+ball,2,10.3,England,JJ Roy,DJ Malan,Shoriful Islam,1,0,,,,,,"",""
+ball,2,10.4,England,DJ Malan,JJ Roy,Shoriful Islam,0,0,,,,,,"",""
+ball,2,10.5,England,DJ Malan,JJ Roy,Shoriful Islam,0,0,,,,,,"",""
+ball,2,10.6,England,DJ Malan,JJ Roy,Shoriful Islam,0,0,,,,,,"",""
+ball,2,11.1,England,JJ Roy,DJ Malan,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,11.2,England,DJ Malan,JJ Roy,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,11.3,England,JJ Roy,DJ Malan,Nasum Ahmed,0,0,,,,,,"",""
+ball,2,11.4,England,JJ Roy,DJ Malan,Nasum Ahmed,6,0,,,,,,"",""
+ball,2,11.5,England,JJ Roy,DJ Malan,Nasum Ahmed,1,0,,,,,,"",""
+ball,2,11.6,England,DJ Malan,JJ Roy,Nasum Ahmed,2,0,,,,,,"",""
+ball,2,12.1,England,JJ Roy,DJ Malan,Shoriful Islam,0,0,,,,,,"",""
+ball,2,12.2,England,JJ Roy,DJ Malan,Shoriful Islam,6,0,,,,,,"",""
+ball,2,12.3,England,JJ Roy,DJ Malan,Shoriful Islam,1,0,,,,,,"",""
+ball,2,12.4,England,DJ Malan,JJ Roy,Shoriful Islam,1,0,,,,,,"",""
+ball,2,12.5,England,JJ Roy,DJ Malan,Shoriful Islam,0,0,,,,,,caught,JJ Roy
+ball,2,12.6,England,JM Bairstow,DJ Malan,Shoriful Islam,2,0,,,,,,"",""
+ball,2,13.1,England,DJ Malan,JM Bairstow,Mustafizur Rahman,0,0,,,,,,"",""
+ball,2,13.2,England,DJ Malan,JM Bairstow,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,13.3,England,JM Bairstow,DJ Malan,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,13.4,England,DJ Malan,JM Bairstow,Mustafizur Rahman,4,0,,,,,,"",""
+ball,2,13.5,England,DJ Malan,JM Bairstow,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,13.6,England,JM Bairstow,DJ Malan,Mustafizur Rahman,1,0,,,,,,"",""
+ball,2,14.1,England,JM Bairstow,DJ Malan,Shoriful Islam,4,0,,,,,,"",""

@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,female
+info,season,2025
+info,date,2025/07/04
+info,event,India Women tour of England
+info,match_number,3
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,SIR Dunkley
+info,umpire,JM Williams
+info,umpire,S Redfern
+info,reserve_umpire,James Middlebrook
+info,tv_umpire,AY Harris
+info,match_referee,H Pack
+info,winner,England
+info,winner_runs,5
+info,player,England,SIR Dunkley
+info,player,England,DN Wyatt
+info,player,England,A Capsey
+info,player,England,PJ Scholfield
+info,player,England,AE Jones
+info,player,England,TT Beaumont
+info,player,England,S Ecclestone
+info,player,England,IECM Wong
+info,player,England,CE Dean
+info,player,England,L Filer
+info,player,England,LK Bell
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,AB Kaur
+info,player,India,DB Sharma
+info,player,India,RP Yadav
+info,player,India,A Reddy
+info,player,India,S Rana
+info,player,India,N Shree Charani
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Reddy,eadc8924
+info,registry,people,AB Kaur,9565fda6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,H Pack,fed53c91
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,L Filer,31adb911
+info,registry,people,LK Bell,38b4583c
+info,registry,people,N Shree Charani,583ce32c
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Rana,c4c374d9
+info,registry,people,S Redfern,5b038989
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,TT Beaumont,b2664905
+ball,1,0.1,England,SIR Dunkley,DN Wyatt,AB Kaur,1,0,,,,,,"",""
+ball,1,0.2,England,DN Wyatt,SIR Dunkley,AB Kaur,1,0,,,,,,"",""
+ball,1,0.3,England,SIR Dunkley,DN Wyatt,AB Kaur,0,0,,,,,,"",""
+ball,1,0.4,England,SIR Dunkley,DN Wyatt,AB Kaur,1,0,,,,,,"",""
+ball,1,0.5,England,DN Wyatt,SIR Dunkley,AB Kaur,0,0,,,,,,"",""
+ball,1,0.6,England,DN Wyatt,SIR Dunkley,AB Kaur,1,0,,,,,,"",""
+ball,1,1.1,England,DN Wyatt,SIR Dunkley,A Reddy,0,1,1,,,,,"",""
+ball,1,1.2,England,DN Wyatt,SIR Dunkley,A Reddy,1,0,,,,,,"",""
+ball,1,1.3,England,SIR Dunkley,DN Wyatt,A Reddy,0,0,,,,,,"",""
+ball,1,1.4,England,SIR Dunkley,DN Wyatt,A Reddy,0,1,1,,,,,"",""
+ball,1,1.5,England,SIR Dunkley,DN Wyatt,A Reddy,0,0,,,,,,"",""
+ball,1,1.6,England,SIR Dunkley,DN Wyatt,A Reddy,1,0,,,,,,"",""
+ball,1,1.7,England,DN Wyatt,SIR Dunkley,A Reddy,4,0,,,,,,"",""
+ball,1,1.8,England,DN Wyatt,SIR Dunkley,A Reddy,0,0,,,,,,"",""
+ball,1,2.1,England,SIR Dunkley,DN Wyatt,AB Kaur,2,0,,,,,,"",""
+ball,1,2.2,England,SIR Dunkley,DN Wyatt,AB Kaur,0,0,,,,,,"",""
+ball,1,2.3,England,SIR Dunkley,DN Wyatt,AB Kaur,4,0,,,,,,"",""
+ball,1,2.4,England,SIR Dunkley,DN Wyatt,AB Kaur,1,0,,,,,,"",""
+ball,1,2.5,England,DN Wyatt,SIR Dunkley,AB Kaur,1,0,,,,,,"",""
+ball,1,2.6,England,SIR Dunkley,DN Wyatt,AB Kaur,0,0,,,,,,"",""
+ball,1,3.1,England,DN Wyatt,SIR Dunkley,DB Sharma,1,0,,,,,,"",""
+ball,1,3.2,England,SIR Dunkley,DN Wyatt,DB Sharma,0,0,,,,,,"",""
+ball,1,3.3,England,SIR Dunkley,DN Wyatt,DB Sharma,1,0,,,,,,"",""
+ball,1,3.4,England,DN Wyatt,SIR Dunkley,DB Sharma,0,0,,,,,,"",""
+ball,1,3.5,England,DN Wyatt,SIR Dunkley,DB Sharma,0,0,,,,,,"",""
+ball,1,3.6,England,DN Wyatt,SIR Dunkley,DB Sharma,0,0,,,,,,"",""
+ball,1,4.1,England,SIR Dunkley,DN Wyatt,N Shree Charani,0,0,,,,,,"",""
+ball,1,4.2,England,SIR Dunkley,DN Wyatt,N Shree Charani,4,0,,,,,,"",""
+ball,1,4.3,England,SIR Dunkley,DN Wyatt,N Shree Charani,0,0,,,,,,"",""
+ball,1,4.4,England,SIR Dunkley,DN Wyatt,N Shree Charani,6,0,,,,,,"",""
+ball,1,4.5,England,SIR Dunkley,DN Wyatt,N Shree Charani,2,0,,,,,,"",""
+ball,1,4.6,England,SIR Dunkley,DN Wyatt,N Shree Charani,0,0,,,,,,"",""
+ball,1,5.1,England,DN Wyatt,SIR Dunkley,DB Sharma,0,0,,,,,,"",""
+ball,1,5.2,England,DN Wyatt,SIR Dunkley,DB Sharma,1,0,,,,,,"",""
+ball,1,5.3,England,SIR Dunkley,DN Wyatt,DB Sharma,0,0,,,,,,"",""
+ball,1,5.4,England,SIR Dunkley,DN Wyatt,DB Sharma,4,0,,,,,,"",""
+ball,1,5.5,England,SIR Dunkley,DN Wyatt,DB Sharma,4,0,,,,,,"",""
+ball,1,5.6,England,SIR Dunkley,DN Wyatt,DB Sharma,1,0,,,,,,"",""
+ball,1,6.1,England,SIR Dunkley,DN Wyatt,A Reddy,1,0,,,,,,"",""
+ball,1,6.2,England,DN Wyatt,SIR Dunkley,A Reddy,0,0,,,,,,"",""
+ball,1,6.3,England,DN Wyatt,SIR Dunkley,A Reddy,1,0,,,,,,"",""
+ball,1,6.4,England,SIR Dunkley,DN Wyatt,A Reddy,2,0,,,,,,"",""
+ball,1,6.5,England,SIR Dunkley,DN Wyatt,A Reddy,0,0,,,,,,"",""
+ball,1,6.6,England,SIR Dunkley,DN Wyatt,A Reddy,2,0,,,,,,"",""
+ball,1,7.1,England,DN Wyatt,SIR Dunkley,RP Yadav,1,0,,,,,,"",""
+ball,1,7.2,England,SIR Dunkley,DN Wyatt,RP Yadav,4,0,,,,,,"",""
+ball,1,7.3,England,SIR Dunkley,DN Wyatt,RP Yadav,1,0,,,,,,"",""
+ball,1,7.4,England,DN Wyatt,SIR Dunkley,RP Yadav,4,0,,,,,,"",""
+ball,1,7.5,England,DN Wyatt,SIR Dunkley,RP Yadav,0,0,,,,,,"",""
+ball,1,7.6,England,DN Wyatt,SIR Dunkley,RP Yadav,1,0,,,,,,"",""
+ball,1,8.1,England,DN Wyatt,SIR Dunkley,N Shree Charani,1,0,,,,,,"",""
+ball,1,8.2,England,SIR Dunkley,DN Wyatt,N Shree Charani,1,0,,,,,,"",""
+ball,1,8.3,England,DN Wyatt,SIR Dunkley,N Shree Charani,6,0,,,,,,"",""
+ball,1,8.4,England,DN Wyatt,SIR Dunkley,N Shree Charani,1,0,,,,,,"",""
+ball,1,8.5,England,SIR Dunkley,DN Wyatt,N Shree Charani,1,0,,,,,,"",""
+ball,1,8.6,England,DN Wyatt,SIR Dunkley,N Shree Charani,0,0,,,,,,"",""
+ball,1,9.1,England,SIR Dunkley,DN Wyatt,S Rana,2,0,,,,,,"",""
+ball,1,9.2,England,SIR Dunkley,DN Wyatt,S Rana,1,0,,,,,,"",""
+ball,1,9.3,England,DN Wyatt,SIR Dunkley,S Rana,4,0,,,,,,"",""
+ball,1,9.4,England,DN Wyatt,SIR Dunkley,S Rana,1,0,,,,,,"",""
+ball,1,9.5,England,SIR Dunkley,DN Wyatt,S Rana,2,0,,,,,,"",""
+ball,1,9.6,England,SIR Dunkley,DN Wyatt,S Rana,1,0,,,,,,"",""
+ball,1,10.1,England,SIR Dunkley,DN Wyatt,AB Kaur,2,0,,,,,,"",""
+ball,1,10.2,England,SIR Dunkley,DN Wyatt,AB Kaur,1,0,,,,,,"",""
+ball,1,10.3,England,DN Wyatt,SIR Dunkley,AB Kaur,0,0,,,,,,"",""
+ball,1,10.4,England,DN Wyatt,SIR Dunkley,AB Kaur,1,0,,,,,,"",""
+ball,1,10.5,England,SIR Dunkley,DN Wyatt,AB Kaur,4,0,,,,,,"",""
+ball,1,10.6,England,SIR Dunkley,DN Wyatt,AB Kaur,1,0,,,,,,"",""
+ball,1,11.1,England,SIR Dunkley,DN Wyatt,N Shree Charani,0,0,,,,,,"",""
+ball,1,11.2,England,SIR Dunkley,DN Wyatt,N Shree Charani,4,0,,,,,,"",""
+ball,1,11.3,England,SIR Dunkley,DN Wyatt,N Shree Charani,2,0,,,,,,"",""
+ball,1,11.4,England,SIR Dunkley,DN Wyatt,N Shree Charani,0,1,,,,1,,"",""
+ball,1,11.5,England,DN Wyatt,SIR Dunkley,N Shree Charani,2,0,,,,,,"",""
+ball,1,11.6,England,DN Wyatt,SIR Dunkley,N Shree Charani,0,0,,,,,,"",""
+ball,1,12.1,England,SIR Dunkley,DN Wyatt,A Reddy,2,0,,,,,,"",""
+ball,1,12.2,England,SIR Dunkley,DN Wyatt,A Reddy,1,0,,,,,,"",""
+ball,1,12.3,England,DN Wyatt,SIR Dunkley,A Reddy,1,0,,,,,,"",""
+ball,1,12.4,England,SIR Dunkley,DN Wyatt,A Reddy,1,0,,,,,,"",""
+ball,1,12.5,England,DN Wyatt,SIR Dunkley,A Reddy,4,0,,,,,,"",""
+ball,1,12.6,England,DN Wyatt,SIR Dunkley,A Reddy,6,0,,,,,,"",""
+ball,1,13.1,England,SIR Dunkley,DN Wyatt,S Rana,1,0,,,,,,"",""
+ball,1,13.2,England,DN Wyatt,SIR Dunkley,S Rana,4,0,,,,,,"",""
+ball,1,13.3,England,DN Wyatt,SIR Dunkley,S Rana,4,0,,,,,,"",""
+ball,1,13.4,England,DN Wyatt,SIR Dunkley,S Rana,0,0,,,,,,"",""
+ball,1,13.5,England,DN Wyatt,SIR Dunkley,S Rana,1,0,,,,,,"",""
+ball,1,13.6,England,SIR Dunkley,DN Wyatt,S Rana,1,0,,,,,,"",""
+ball,1,14.1,England,SIR Dunkley,DN Wyatt,AB Kaur,1,0,,,,,,"",""
+ball,1,14.2,England,DN Wyatt,SIR Dunkley,AB Kaur,4,0,,,,,,"",""
+ball,1,14.3,England,DN Wyatt,SIR Dunkley,AB Kaur,1,0,,,,,,"",""
+ball,1,14.4,England,SIR Dunkley,DN Wyatt,AB Kaur,2,0,,,,,,"",""
+ball,1,14.5,England,SIR Dunkley,DN Wyatt,AB Kaur,0,0,,,,,,"",""
+ball,1,14.6,England,SIR Dunkley,DN Wyatt,AB Kaur,2,0,,,,,,"",""
+ball,1,15.1,England,DN Wyatt,SIR Dunkley,DB Sharma,1,0,,,,,,"",""
+ball,1,15.2,England,SIR Dunkley,DN Wyatt,DB Sharma,0,0,,,,,,caught and bowled,SIR Dunkley
+ball,1,15.3,England,A Capsey,DN Wyatt,DB Sharma,1,0,,,,,,"",""
+ball,1,15.4,England,DN Wyatt,A Capsey,DB Sharma,1,0,,,,,,"",""
+ball,1,15.5,England,A Capsey,DN Wyatt,DB Sharma,1,0,,,,,,"",""
+ball,1,15.6,England,DN Wyatt,A Capsey,DB Sharma,6,0,,,,,,"",""
+ball,1,16.1,England,A Capsey,DN Wyatt,A Reddy,0,0,,,,,,caught,A Capsey
+ball,1,16.2,England,PJ Scholfield,DN Wyatt,A Reddy,0,0,,,,,,"",""
+ball,1,16.3,England,PJ Scholfield,DN Wyatt,A Reddy,2,0,,,,,,"",""
+ball,1,16.4,England,PJ Scholfield,DN Wyatt,A Reddy,1,0,,,,,,"",""
+ball,1,16.5,England,DN Wyatt,PJ Scholfield,A Reddy,0,0,,,,,,caught,DN Wyatt
+ball,1,16.6,England,AE Jones,PJ Scholfield,A Reddy,0,0,,,,,,lbw,AE Jones
+ball,1,17.1,England,PJ Scholfield,TT Beaumont,RP Yadav,0,0,,,,,,"",""
+ball,1,17.2,England,PJ Scholfield,TT Beaumont,RP Yadav,1,0,,,,,,"",""
+ball,1,17.3,England,TT Beaumont,PJ Scholfield,RP Yadav,0,0,,,,,,"",""
+ball,1,17.4,England,TT Beaumont,PJ Scholfield,RP Yadav,2,0,,,,,,"",""
+ball,1,17.5,England,TT Beaumont,PJ Scholfield,RP Yadav,0,0,,,,,,bowled,TT Beaumont
+ball,1,17.6,England,S Ecclestone,PJ Scholfield,RP Yadav,1,0,,,,,,"",""
+ball,1,18.1,England,S Ecclestone,PJ Scholfield,N Shree Charani,2,0,,,,,,"",""
+ball,1,18.2,England,S Ecclestone,PJ Scholfield,N Shree Charani,6,0,,,,,,"",""
+ball,1,18.3,England,S Ecclestone,PJ Scholfield,N Shree Charani,1,0,,,,,,"",""
+ball,1,18.4,England,PJ Scholfield,S Ecclestone,N Shree Charani,0,0,,,,,,stumped,PJ Scholfield
+ball,1,18.5,England,IECM Wong,S Ecclestone,N Shree Charani,0,0,,,,,,caught,IECM Wong
+ball,1,18.6,England,CE Dean,S Ecclestone,N Shree Charani,4,0,,,,,,"",""
+ball,1,19.1,England,S Ecclestone,CE Dean,DB Sharma,0,1,1,,,,,"",""
+ball,1,19.2,England,S Ecclestone,CE Dean,DB Sharma,0,1,1,,,,,"",""
+ball,1,19.3,England,S Ecclestone,CE Dean,DB Sharma,0,0,,,,,,caught and bowled,S Ecclestone
+ball,1,19.4,England,L Filer,CE Dean,DB Sharma,0,0,,,,,,caught,L Filer
+ball,1,19.5,England,LK Bell,CE Dean,DB Sharma,0,0,,,,,,"",""
+ball,1,19.6,England,LK Bell,CE Dean,DB Sharma,0,0,,,,,,"",""
+ball,1,19.7,England,LK Bell,CE Dean,DB Sharma,1,0,,,,,,"",""
+ball,1,19.8,England,CE Dean,LK Bell,DB Sharma,2,0,,,,,,"",""
+ball,2,0.1,India,S Mandhana,Shafali Verma,LK Bell,0,0,,,,,,"",""
+ball,2,0.2,India,S Mandhana,Shafali Verma,LK Bell,4,0,,,,,,"",""
+ball,2,0.3,India,S Mandhana,Shafali Verma,LK Bell,1,0,,,,,,"",""
+ball,2,0.4,India,Shafali Verma,S Mandhana,LK Bell,0,0,,,,,,"",""
+ball,2,0.5,India,Shafali Verma,S Mandhana,LK Bell,0,0,,,,,,"",""
+ball,2,0.6,India,Shafali Verma,S Mandhana,LK Bell,0,0,,,,,,"",""
+ball,2,1.1,India,S Mandhana,Shafali Verma,L Filer,0,1,1,,,,,"",""
+ball,2,1.2,India,S Mandhana,Shafali Verma,L Filer,0,0,,,,,,"",""
+ball,2,1.3,India,S Mandhana,Shafali Verma,L Filer,1,0,,,,,,"",""
+ball,2,1.4,India,Shafali Verma,S Mandhana,L Filer,4,0,,,,,,"",""
+ball,2,1.5,India,Shafali Verma,S Mandhana,L Filer,4,0,,,,,,"",""
+ball,2,1.6,India,Shafali Verma,S Mandhana,L Filer,0,0,,,,,,"",""
+ball,2,1.7,India,Shafali Verma,S Mandhana,L Filer,0,0,,,,,,"",""
+ball,2,2.1,India,S Mandhana,Shafali Verma,IECM Wong,0,1,1,,,,,"",""
+ball,2,2.2,India,S Mandhana,Shafali Verma,IECM Wong,1,0,,,,,,"",""
+ball,2,2.3,India,Shafali Verma,S Mandhana,IECM Wong,0,0,,,,,,"",""
+ball,2,2.4,India,Shafali Verma,S Mandhana,IECM Wong,4,0,,,,,,"",""
+ball,2,2.5,India,Shafali Verma,S Mandhana,IECM Wong,4,0,,,,,,"",""
+ball,2,2.6,India,Shafali Verma,S Mandhana,IECM Wong,1,0,,,,,,"",""
+ball,2,2.7,India,S Mandhana,Shafali Verma,IECM Wong,0,1,,,,1,,"",""
+ball,2,3.1,India,S Mandhana,Shafali Verma,CE Dean,0,0,,,,,,"",""
+ball,2,3.2,India,S Mandhana,Shafali Verma,CE Dean,0,0,,,,,,"",""
+ball,2,3.3,India,S Mandhana,Shafali Verma,CE Dean,4,0,,,,,,"",""
+ball,2,3.4,India,S Mandhana,Shafali Verma,CE Dean,0,0,,,,,,"",""
+ball,2,3.5,India,S Mandhana,Shafali Verma,CE Dean,1,0,,,,,,"",""
+ball,2,3.6,India,Shafali Verma,S Mandhana,CE Dean,4,0,,,,,,"",""
+ball,2,4.1,India,S Mandhana,Shafali Verma,LK Bell,4,0,,,,,,"",""
+ball,2,4.2,India,S Mandhana,Shafali Verma,LK Bell,0,0,,,,,,"",""
+ball,2,4.3,India,S Mandhana,Shafali Verma,LK Bell,4,0,,,,,,"",""
+ball,2,4.4,India,S Mandhana,Shafali Verma,LK Bell,4,0,,,,,,"",""
+ball,2,4.5,India,S Mandhana,Shafali Verma,LK Bell,0,0,,,,,,"",""
+ball,2,4.6,India,S Mandhana,Shafali Verma,LK Bell,1,0,,,,,,"",""
+ball,2,5.1,India,S Mandhana,Shafali Verma,L Filer,0,0,,,,,,"",""
+ball,2,5.2,India,S Mandhana,Shafali Verma,L Filer,0,0,,,,,,"",""
+ball,2,5.3,India,S Mandhana,Shafali Verma,L Filer,1,0,,,,,,"",""
+ball,2,5.4,India,Shafali Verma,S Mandhana,L Filer,4,0,,,,,,"",""
+ball,2,5.5,India,Shafali Verma,S Mandhana,L Filer,6,0,,,,,,"",""
+ball,2,5.6,India,Shafali Verma,S Mandhana,L Filer,1,0,,,,,,"",""
+ball,2,6.1,India,Shafali Verma,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.2,India,S Mandhana,Shafali Verma,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.3,India,Shafali Verma,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.4,India,S Mandhana,Shafali Verma,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.5,India,Shafali Verma,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,6.6,India,Shafali Verma,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.1,India,S Mandhana,Shafali Verma,CE Dean,0,0,,,,,,"",""
+ball,2,7.2,India,S Mandhana,Shafali Verma,CE Dean,1,0,,,,,,"",""
+ball,2,7.3,India,Shafali Verma,S Mandhana,CE Dean,6,0,,,,,,"",""
+ball,2,7.4,India,Shafali Verma,S Mandhana,CE Dean,4,0,,,,,,"",""
+ball,2,7.5,India,Shafali Verma,S Mandhana,CE Dean,1,0,,,,,,"",""
+ball,2,7.6,India,S Mandhana,Shafali Verma,CE Dean,0,0,,,,,,"",""
+ball,2,8.1,India,Shafali Verma,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,2,8.2,India,S Mandhana,Shafali Verma,S Ecclestone,1,0,,,,,,"",""
+ball,2,8.3,India,Shafali Verma,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,2,8.4,India,S Mandhana,Shafali Verma,S Ecclestone,4,0,,,,,,"",""
+ball,2,8.5,India,S Mandhana,Shafali Verma,S Ecclestone,1,0,,,,,,"",""
+ball,2,8.6,India,Shafali Verma,S Mandhana,S Ecclestone,0,0,,,,,,bowled,Shafali Verma
+ball,2,9.1,India,S Mandhana,JI Rodrigues,IECM Wong,1,0,,,,,,"",""
+ball,2,9.2,India,JI Rodrigues,S Mandhana,IECM Wong,1,0,,,,,,"",""
+ball,2,9.3,India,S Mandhana,JI Rodrigues,IECM Wong,4,0,,,,,,"",""
+ball,2,9.4,India,S Mandhana,JI Rodrigues,IECM Wong,0,0,,,,,,"",""
+ball,2,9.5,India,S Mandhana,JI Rodrigues,IECM Wong,1,0,,,,,,"",""
+ball,2,9.6,India,JI Rodrigues,S Mandhana,IECM Wong,0,1,1,,,,,"",""
+ball,2,9.7,India,JI Rodrigues,S Mandhana,IECM Wong,4,0,,,,,,"",""
+ball,2,10.1,India,S Mandhana,JI Rodrigues,S Ecclestone,1,0,,,,,,"",""
+ball,2,10.2,India,JI Rodrigues,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.3,India,JI Rodrigues,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.4,India,JI Rodrigues,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.5,India,JI Rodrigues,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.6,India,JI Rodrigues,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,2,11.1,India,JI Rodrigues,S Mandhana,CE Dean,1,0,,,,,,"",""
+ball,2,11.2,India,S Mandhana,JI Rodrigues,CE Dean,0,0,,,,,,"",""
+ball,2,11.3,India,S Mandhana,JI Rodrigues,CE Dean,1,0,,,,,,"",""
+ball,2,11.4,India,JI Rodrigues,S Mandhana,CE Dean,4,0,,,,,,"",""
+ball,2,11.5,India,JI Rodrigues,S Mandhana,CE Dean,1,0,,,,,,"",""
+ball,2,11.6,India,S Mandhana,JI Rodrigues,CE Dean,4,0,,,,,,"",""
+ball,2,12.1,India,JI Rodrigues,S Mandhana,LK Bell,4,0,,,,,,"",""
+ball,2,12.2,India,JI Rodrigues,S Mandhana,LK Bell,2,0,,,,,,"",""
+ball,2,12.3,India,JI Rodrigues,S Mandhana,LK Bell,1,0,,,,,,"",""
+ball,2,12.4,India,S Mandhana,JI Rodrigues,LK Bell,4,0,,,,,,"",""
+ball,2,12.5,India,S Mandhana,JI Rodrigues,LK Bell,1,0,,,,,,"",""
+ball,2,12.6,India,JI Rodrigues,S Mandhana,LK Bell,1,0,,,,,,"",""
+ball,2,13.1,India,JI Rodrigues,S Mandhana,L Filer,0,0,,,,,,caught,JI Rodrigues
+ball,2,13.2,India,H Kaur,S Mandhana,L Filer,1,0,,,,,,"",""
+ball,2,13.3,India,S Mandhana,H Kaur,L Filer,0,0,,,,,,"",""
+ball,2,13.4,India,S Mandhana,H Kaur,L Filer,0,0,,,,,,"",""
+ball,2,13.5,India,S Mandhana,H Kaur,L Filer,0,1,1,,,,,"",""
+ball,2,13.6,India,S Mandhana,H Kaur,L Filer,0,0,,,,,,"",""
+ball,2,13.7,India,S Mandhana,H Kaur,L Filer,0,0,,,,,,"",""
+ball,2,14.1,India,H Kaur,S Mandhana,CE Dean,1,0,,,,,,"",""
+ball,2,14.2,India,S Mandhana,H Kaur,CE Dean,0,0,,,,,,"",""
+ball,2,14.3,India,S Mandhana,H Kaur,CE Dean,0,0,,,,,,"",""
+ball,2,14.4,India,S Mandhana,H Kaur,CE Dean,4,0,,,,,,"",""
+ball,2,14.5,India,S Mandhana,H Kaur,CE Dean,0,0,,,,,,"",""
+ball,2,14.6,India,S Mandhana,H Kaur,CE Dean,0,0,,,,,,"",""
+ball,2,15.1,India,H Kaur,S Mandhana,L Filer,0,0,,,,,,"",""
+ball,2,15.2,India,H Kaur,S Mandhana,L Filer,1,0,,,,,,"",""
+ball,2,15.3,India,S Mandhana,H Kaur,L Filer,0,0,,,,,,caught,S Mandhana
+ball,2,15.4,India,RM Ghosh,H Kaur,L Filer,0,0,,,,,,"",""
+ball,2,15.5,India,RM Ghosh,H Kaur,L Filer,1,0,,,,,,"",""
+ball,2,15.6,India,H Kaur,RM Ghosh,L Filer,4,0,,,,,,"",""
+ball,2,16.1,India,RM Ghosh,H Kaur,IECM Wong,1,0,,,,,,"",""
+ball,2,16.2,India,H Kaur,RM Ghosh,IECM Wong,1,0,,,,,,"",""
+ball,2,16.3,India,RM Ghosh,H Kaur,IECM Wong,1,0,,,,,,"",""
+ball,2,16.4,India,H Kaur,RM Ghosh,IECM Wong,2,0,,,,,,"",""
+ball,2,16.5,India,H Kaur,RM Ghosh,IECM Wong,0,1,,,,1,,"",""
+ball,2,16.6,India,RM Ghosh,H Kaur,IECM Wong,0,0,,,,,,"",""
+ball,2,17.1,India,H Kaur,RM Ghosh,S Ecclestone,1,0,,,,,,"",""
+ball,2,17.2,India,RM Ghosh,H Kaur,S Ecclestone,1,0,,,,,,"",""
+ball,2,17.3,India,H Kaur,RM Ghosh,S Ecclestone,2,0,,,,,,"",""
+ball,2,17.4,India,H Kaur,RM Ghosh,S Ecclestone,4,0,,,,,,"",""
+ball,2,17.5,India,H Kaur,RM Ghosh,S Ecclestone,1,0,,,,,,"",""
+ball,2,17.6,India,RM Ghosh,H Kaur,S Ecclestone,1,0,,,,,,"",""
+ball,2,18.1,India,RM Ghosh,H Kaur,IECM Wong,0,0,,,,,,"",""
+ball,2,18.2,India,RM Ghosh,H Kaur,IECM Wong,2,0,,,,,,"",""
+ball,2,18.3,India,RM Ghosh,H Kaur,IECM Wong,0,0,,,,,,caught,RM Ghosh
+ball,2,18.4,India,AB Kaur,H Kaur,IECM Wong,4,0,,,,,,"",""
+ball,2,18.5,India,AB Kaur,H Kaur,IECM Wong,0,0,,,,,,"",""
+ball,2,18.6,India,AB Kaur,H Kaur,IECM Wong,2,0,,,,,,"",""
+ball,2,19.1,India,H Kaur,AB Kaur,LK Bell,2,0,,,,,,"",""
+ball,2,19.2,India,H Kaur,AB Kaur,LK Bell,1,0,,,,,,"",""
+ball,2,19.3,India,AB Kaur,H Kaur,LK Bell,1,0,,,,,,"",""
+ball,2,19.4,India,H Kaur,AB Kaur,LK Bell,0,0,,,,,,"",""
+ball,2,19.5,India,H Kaur,AB Kaur,LK Bell,2,0,,,,,,"",""
+ball,2,19.6,India,H Kaur,AB Kaur,LK Bell,0,0,,,,,,caught,H Kaur

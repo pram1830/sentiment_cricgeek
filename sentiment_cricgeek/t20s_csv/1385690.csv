@@ -1,0 +1,289 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,England
+info,gender,male
+info,season,2024
+info,date,2024/05/30
+info,event,Pakistan tour of England
+info,match_number,4
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,AU Rashid
+info,umpire,MJ Saggers
+info,umpire,M Burns
+info,reserve_umpire,GD Lloyd
+info,tv_umpire,RJ Warren
+info,match_referee,BC Broad
+info,winner,England
+info,winner_wickets,7
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Azam Khan
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Haris Rauf
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,WG Jacks
+info,player,England,JM Bairstow
+info,player,England,HC Brook
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,CJ Jordan
+info,player,England,JC Archer
+info,player,England,AU Rashid
+info,player,England,MA Wood
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,0,0,,,,,,"",""
+ball,1,0.3,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,1,0,,,,,,"",""
+ball,1,0.4,Pakistan,Babar Azam,Mohammad Rizwan,MA Wood,4,0,,,,,,"",""
+ball,1,0.5,Pakistan,Babar Azam,Mohammad Rizwan,MA Wood,1,0,,,,,,"",""
+ball,1,0.6,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,2,0,,,,,,"",""
+ball,1,1.1,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,1,0,,,,,,"",""
+ball,1,1.2,Pakistan,Mohammad Rizwan,Babar Azam,JC Archer,2,0,,,,,,"",""
+ball,1,1.3,Pakistan,Mohammad Rizwan,Babar Azam,JC Archer,1,0,,,,,,"",""
+ball,1,1.4,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,0,0,,,,,,"",""
+ball,1,1.5,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,0,1,1,,,,,"",""
+ball,1,1.6,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,0,0,,,,,,"",""
+ball,1,1.7,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,0,0,,,,,,"",""
+ball,1,2.1,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,4,0,,,,,,"",""
+ball,1,2.2,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,4,0,,,,,,"",""
+ball,1,2.3,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,1,0,,,,,,"",""
+ball,1,2.4,Pakistan,Babar Azam,Mohammad Rizwan,MA Wood,0,0,,,,,,"",""
+ball,1,2.5,Pakistan,Babar Azam,Mohammad Rizwan,MA Wood,1,0,,,,,,"",""
+ball,1,2.6,Pakistan,Mohammad Rizwan,Babar Azam,MA Wood,0,0,,,,,,"",""
+ball,1,3.1,Pakistan,Babar Azam,Mohammad Rizwan,CJ Jordan,0,0,,,,,,"",""
+ball,1,3.2,Pakistan,Babar Azam,Mohammad Rizwan,CJ Jordan,0,0,,,,,,"",""
+ball,1,3.3,Pakistan,Babar Azam,Mohammad Rizwan,CJ Jordan,4,0,,,,,,"",""
+ball,1,3.4,Pakistan,Babar Azam,Mohammad Rizwan,CJ Jordan,4,0,,,,,,"",""
+ball,1,3.5,Pakistan,Babar Azam,Mohammad Rizwan,CJ Jordan,2,0,,,,,,"",""
+ball,1,3.6,Pakistan,Babar Azam,Mohammad Rizwan,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.1,Pakistan,Mohammad Rizwan,Babar Azam,MM Ali,0,0,,,,,,"",""
+ball,1,4.2,Pakistan,Mohammad Rizwan,Babar Azam,MM Ali,1,0,,,,,,"",""
+ball,1,4.3,Pakistan,Babar Azam,Mohammad Rizwan,MM Ali,6,0,,,,,,"",""
+ball,1,4.4,Pakistan,Babar Azam,Mohammad Rizwan,MM Ali,1,0,,,,,,"",""
+ball,1,4.5,Pakistan,Mohammad Rizwan,Babar Azam,MM Ali,2,0,,,,,,"",""
+ball,1,4.6,Pakistan,Mohammad Rizwan,Babar Azam,MM Ali,4,0,,,,,,"",""
+ball,1,5.1,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,0,0,,,,,,"",""
+ball,1,5.2,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,2,0,,,,,,"",""
+ball,1,5.3,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,2,0,,,,,,"",""
+ball,1,5.4,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,4,0,,,,,,"",""
+ball,1,5.5,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,4,0,,,,,,"",""
+ball,1,5.6,Pakistan,Babar Azam,Mohammad Rizwan,JC Archer,0,0,,,,,,caught,Babar Azam
+ball,1,6.1,Pakistan,Mohammad Rizwan,Usman Khan,AU Rashid,1,0,,,,,,"",""
+ball,1,6.2,Pakistan,Usman Khan,Mohammad Rizwan,AU Rashid,4,0,,,,,,"",""
+ball,1,6.3,Pakistan,Usman Khan,Mohammad Rizwan,AU Rashid,1,0,,,,,,"",""
+ball,1,6.4,Pakistan,Mohammad Rizwan,Usman Khan,AU Rashid,0,0,,,,,,bowled,Mohammad Rizwan
+ball,1,6.5,Pakistan,Fakhar Zaman,Usman Khan,AU Rashid,0,0,,,,,,"",""
+ball,1,6.6,Pakistan,Fakhar Zaman,Usman Khan,AU Rashid,1,0,,,,,,"",""
+ball,1,7.1,Pakistan,Fakhar Zaman,Usman Khan,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.2,Pakistan,Fakhar Zaman,Usman Khan,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.3,Pakistan,Fakhar Zaman,Usman Khan,LS Livingstone,1,0,,,,,,"",""
+ball,1,7.4,Pakistan,Usman Khan,Fakhar Zaman,LS Livingstone,6,0,,,,,,"",""
+ball,1,7.5,Pakistan,Usman Khan,Fakhar Zaman,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.6,Pakistan,Usman Khan,Fakhar Zaman,LS Livingstone,1,0,,,,,,"",""
+ball,1,8.1,Pakistan,Usman Khan,Fakhar Zaman,MM Ali,1,0,,,,,,"",""
+ball,1,8.2,Pakistan,Fakhar Zaman,Usman Khan,MM Ali,6,0,,,,,,"",""
+ball,1,8.3,Pakistan,Fakhar Zaman,Usman Khan,MM Ali,0,0,,,,,,"",""
+ball,1,8.4,Pakistan,Fakhar Zaman,Usman Khan,MM Ali,1,0,,,,,,"",""
+ball,1,8.5,Pakistan,Usman Khan,Fakhar Zaman,MM Ali,1,0,,,,,,"",""
+ball,1,8.6,Pakistan,Fakhar Zaman,Usman Khan,MM Ali,0,0,,,,,,caught,Fakhar Zaman
+ball,1,9.1,Pakistan,Usman Khan,Shadab Khan,AU Rashid,1,0,,,,,,"",""
+ball,1,9.2,Pakistan,Shadab Khan,Usman Khan,AU Rashid,0,0,,,,,,bowled,Shadab Khan
+ball,1,9.3,Pakistan,Azam Khan,Usman Khan,AU Rashid,0,0,,,,,,"",""
+ball,1,9.4,Pakistan,Azam Khan,Usman Khan,AU Rashid,0,0,,,,,,"",""
+ball,1,9.5,Pakistan,Azam Khan,Usman Khan,AU Rashid,0,0,,,,,,"",""
+ball,1,9.6,Pakistan,Azam Khan,Usman Khan,AU Rashid,0,0,,,,,,"",""
+ball,1,10.1,Pakistan,Usman Khan,Azam Khan,MA Wood,1,0,,,,,,"",""
+ball,1,10.2,Pakistan,Azam Khan,Usman Khan,MA Wood,0,1,1,,,,,"",""
+ball,1,10.3,Pakistan,Azam Khan,Usman Khan,MA Wood,0,0,,,,,,caught,Azam Khan
+ball,1,10.4,Pakistan,Iftikhar Ahmed,Usman Khan,MA Wood,4,0,,,,,,"",""
+ball,1,10.5,Pakistan,Iftikhar Ahmed,Usman Khan,MA Wood,1,0,,,,,,"",""
+ball,1,10.6,Pakistan,Usman Khan,Iftikhar Ahmed,MA Wood,4,0,,,,,,"",""
+ball,1,10.7,Pakistan,Usman Khan,Iftikhar Ahmed,MA Wood,1,0,,,,,,"",""
+ball,1,11.1,Pakistan,Usman Khan,Iftikhar Ahmed,AU Rashid,0,0,,,,,,"",""
+ball,1,11.2,Pakistan,Usman Khan,Iftikhar Ahmed,AU Rashid,1,0,,,,,,"",""
+ball,1,11.3,Pakistan,Iftikhar Ahmed,Usman Khan,AU Rashid,0,0,,,,,,"",""
+ball,1,11.4,Pakistan,Iftikhar Ahmed,Usman Khan,AU Rashid,1,0,,,,,,"",""
+ball,1,11.5,Pakistan,Usman Khan,Iftikhar Ahmed,AU Rashid,6,0,,,,,,"",""
+ball,1,11.6,Pakistan,Usman Khan,Iftikhar Ahmed,AU Rashid,1,0,,,,,,"",""
+ball,1,12.1,Pakistan,Usman Khan,Iftikhar Ahmed,LS Livingstone,0,2,2,,,,,"",""
+ball,1,12.2,Pakistan,Iftikhar Ahmed,Usman Khan,LS Livingstone,0,0,,,,,,"",""
+ball,1,12.3,Pakistan,Iftikhar Ahmed,Usman Khan,LS Livingstone,1,0,,,,,,"",""
+ball,1,12.4,Pakistan,Usman Khan,Iftikhar Ahmed,LS Livingstone,2,0,,,,,,"",""
+ball,1,12.5,Pakistan,Usman Khan,Iftikhar Ahmed,LS Livingstone,1,0,,,,,,"",""
+ball,1,12.6,Pakistan,Iftikhar Ahmed,Usman Khan,LS Livingstone,2,0,,,,,,"",""
+ball,1,12.7,Pakistan,Iftikhar Ahmed,Usman Khan,LS Livingstone,1,0,,,,,,"",""
+ball,1,13.1,Pakistan,Iftikhar Ahmed,Usman Khan,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.2,Pakistan,Usman Khan,Iftikhar Ahmed,CJ Jordan,4,0,,,,,,"",""
+ball,1,13.3,Pakistan,Usman Khan,Iftikhar Ahmed,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.4,Pakistan,Iftikhar Ahmed,Usman Khan,CJ Jordan,4,0,,,,,,"",""
+ball,1,13.5,Pakistan,Iftikhar Ahmed,Usman Khan,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.6,Pakistan,Usman Khan,Iftikhar Ahmed,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.1,Pakistan,Usman Khan,Iftikhar Ahmed,LS Livingstone,0,0,,,,,,caught,Usman Khan
+ball,1,14.2,Pakistan,Shaheen Shah Afridi,Iftikhar Ahmed,LS Livingstone,0,0,,,,,,"",""
+ball,1,14.3,Pakistan,Shaheen Shah Afridi,Iftikhar Ahmed,LS Livingstone,0,0,,,,,,bowled,Shaheen Shah Afridi
+ball,1,14.4,Pakistan,Naseem Shah,Iftikhar Ahmed,LS Livingstone,0,0,,,,,,"",""
+ball,1,14.5,Pakistan,Naseem Shah,Iftikhar Ahmed,LS Livingstone,0,0,,,,,,"",""
+ball,1,14.6,Pakistan,Naseem Shah,Iftikhar Ahmed,LS Livingstone,0,0,,,,,,"",""
+ball,1,15.1,Pakistan,Iftikhar Ahmed,Naseem Shah,JC Archer,0,0,,,,,,"",""
+ball,1,15.2,Pakistan,Iftikhar Ahmed,Naseem Shah,JC Archer,1,0,,,,,,"",""
+ball,1,15.3,Pakistan,Naseem Shah,Iftikhar Ahmed,JC Archer,1,0,,,,,,"",""
+ball,1,15.4,Pakistan,Iftikhar Ahmed,Naseem Shah,JC Archer,1,0,,,,,,"",""
+ball,1,15.5,Pakistan,Naseem Shah,Iftikhar Ahmed,JC Archer,1,0,,,,,,"",""
+ball,1,15.6,Pakistan,Iftikhar Ahmed,Naseem Shah,JC Archer,0,2,2,,,,,"",""
+ball,1,15.7,Pakistan,Naseem Shah,Iftikhar Ahmed,JC Archer,1,0,,,,,,"",""
+ball,1,16.1,Pakistan,Naseem Shah,Iftikhar Ahmed,AU Rashid,1,0,,,,,,"",""
+ball,1,16.2,Pakistan,Iftikhar Ahmed,Naseem Shah,AU Rashid,1,0,,,,,,"",""
+ball,1,16.3,Pakistan,Naseem Shah,Iftikhar Ahmed,AU Rashid,0,0,,,,,,"",""
+ball,1,16.4,Pakistan,Naseem Shah,Iftikhar Ahmed,AU Rashid,1,0,,,,,,"",""
+ball,1,16.5,Pakistan,Iftikhar Ahmed,Naseem Shah,AU Rashid,1,0,,,,,,"",""
+ball,1,16.6,Pakistan,Naseem Shah,Iftikhar Ahmed,AU Rashid,6,0,,,,,,"",""
+ball,1,17.1,Pakistan,Iftikhar Ahmed,Naseem Shah,CJ Jordan,1,0,,,,,,"",""
+ball,1,17.2,Pakistan,Naseem Shah,Iftikhar Ahmed,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.3,Pakistan,Naseem Shah,Iftikhar Ahmed,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.4,Pakistan,Naseem Shah,Iftikhar Ahmed,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.5,Pakistan,Naseem Shah,Iftikhar Ahmed,CJ Jordan,1,0,,,,,,"",""
+ball,1,17.6,Pakistan,Iftikhar Ahmed,Naseem Shah,CJ Jordan,0,0,,,,,,caught,Iftikhar Ahmed
+ball,1,18.1,Pakistan,Naseem Shah,Mohammad Amir,MA Wood,0,0,,,,,,"",""
+ball,1,18.2,Pakistan,Naseem Shah,Mohammad Amir,MA Wood,0,0,,,,,,"",""
+ball,1,18.3,Pakistan,Naseem Shah,Mohammad Amir,MA Wood,4,0,,,,,,"",""
+ball,1,18.4,Pakistan,Naseem Shah,Mohammad Amir,MA Wood,0,0,,,,,,caught,Naseem Shah
+ball,1,18.5,Pakistan,Haris Rauf,Mohammad Amir,MA Wood,0,0,,,,,,"",""
+ball,1,18.6,Pakistan,Haris Rauf,Mohammad Amir,MA Wood,1,0,,,,,,"",""
+ball,1,19.1,Pakistan,Haris Rauf,Mohammad Amir,JC Archer,0,0,,,,,,"",""
+ball,1,19.2,Pakistan,Haris Rauf,Mohammad Amir,JC Archer,2,0,,,,,,"",""
+ball,1,19.3,Pakistan,Haris Rauf,Mohammad Amir,JC Archer,4,0,,,,,,"",""
+ball,1,19.4,Pakistan,Haris Rauf,Mohammad Amir,JC Archer,0,0,,,,,,"",""
+ball,1,19.5,Pakistan,Haris Rauf,Mohammad Amir,JC Archer,1,0,,,,,,run out,Haris Rauf
+ball,2,0.1,England,PD Salt,JC Buttler,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.2,England,JC Buttler,PD Salt,Shaheen Shah Afridi,0,1,,,,1,,"",""
+ball,2,0.3,England,PD Salt,JC Buttler,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.4,England,JC Buttler,PD Salt,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,0.5,England,JC Buttler,PD Salt,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.6,England,PD Salt,JC Buttler,Shaheen Shah Afridi,0,1,1,,,,,"",""
+ball,2,0.7,England,PD Salt,JC Buttler,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,1.1,England,PD Salt,JC Buttler,Naseem Shah,4,0,,,,,,"",""
+ball,2,1.2,England,PD Salt,JC Buttler,Naseem Shah,0,0,,,,,,"",""
+ball,2,1.3,England,PD Salt,JC Buttler,Naseem Shah,0,0,,,,,,"",""
+ball,2,1.4,England,PD Salt,JC Buttler,Naseem Shah,4,0,,,,,,"",""
+ball,2,1.5,England,PD Salt,JC Buttler,Naseem Shah,0,0,,,,,,"",""
+ball,2,1.6,England,PD Salt,JC Buttler,Naseem Shah,0,0,,,,,,"",""
+ball,2,2.1,England,JC Buttler,PD Salt,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.2,England,JC Buttler,PD Salt,Shaheen Shah Afridi,0,1,,,,1,,"",""
+ball,2,2.3,England,PD Salt,JC Buttler,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.4,England,PD Salt,JC Buttler,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.5,England,JC Buttler,PD Salt,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.6,England,PD Salt,JC Buttler,Shaheen Shah Afridi,0,5,5,,,,,"",""
+ball,2,2.7,England,PD Salt,JC Buttler,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,3.1,England,JC Buttler,PD Salt,Mohammad Amir,4,0,,,,,,"",""
+ball,2,3.2,England,JC Buttler,PD Salt,Mohammad Amir,0,0,,,,,,"",""
+ball,2,3.3,England,JC Buttler,PD Salt,Mohammad Amir,1,0,,,,,,"",""
+ball,2,3.4,England,PD Salt,JC Buttler,Mohammad Amir,6,0,,,,,,"",""
+ball,2,3.5,England,PD Salt,JC Buttler,Mohammad Amir,4,0,,,,,,"",""
+ball,2,3.6,England,PD Salt,JC Buttler,Mohammad Amir,1,0,,,,,,"",""
+ball,2,4.1,England,PD Salt,JC Buttler,Naseem Shah,6,0,,,,,,"",""
+ball,2,4.2,England,PD Salt,JC Buttler,Naseem Shah,1,0,,,,,,"",""
+ball,2,4.3,England,JC Buttler,PD Salt,Naseem Shah,4,0,,,,,,"",""
+ball,2,4.4,England,JC Buttler,PD Salt,Naseem Shah,6,0,,,,,,"",""
+ball,2,4.5,England,JC Buttler,PD Salt,Naseem Shah,4,0,,,,,,"",""
+ball,2,4.6,England,JC Buttler,PD Salt,Naseem Shah,4,0,,,,,,"",""
+ball,2,5.1,England,PD Salt,JC Buttler,Mohammad Amir,4,0,,,,,,"",""
+ball,2,5.2,England,PD Salt,JC Buttler,Mohammad Amir,4,0,,,,,,"",""
+ball,2,5.3,England,PD Salt,JC Buttler,Mohammad Amir,0,0,,,,,,"",""
+ball,2,5.4,England,PD Salt,JC Buttler,Mohammad Amir,2,0,,,,,,"",""
+ball,2,5.5,England,PD Salt,JC Buttler,Mohammad Amir,1,0,,,,,,"",""
+ball,2,5.6,England,JC Buttler,PD Salt,Mohammad Amir,0,0,,,,,,"",""
+ball,2,6.1,England,PD Salt,JC Buttler,Haris Rauf,4,0,,,,,,"",""
+ball,2,6.2,England,PD Salt,JC Buttler,Haris Rauf,0,0,,,,,,caught,PD Salt
+ball,2,6.3,England,WG Jacks,JC Buttler,Haris Rauf,4,0,,,,,,"",""
+ball,2,6.4,England,WG Jacks,JC Buttler,Haris Rauf,1,0,,,,,,"",""
+ball,2,6.5,England,JC Buttler,WG Jacks,Haris Rauf,4,0,,,,,,"",""
+ball,2,6.6,England,JC Buttler,WG Jacks,Haris Rauf,0,0,,,,,,"",""
+ball,2,7.1,England,WG Jacks,JC Buttler,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.2,England,WG Jacks,JC Buttler,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.3,England,JC Buttler,WG Jacks,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.4,England,WG Jacks,JC Buttler,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.5,England,JC Buttler,WG Jacks,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.6,England,WG Jacks,JC Buttler,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.1,England,WG Jacks,JC Buttler,Haris Rauf,0,0,,,,,,"",""
+ball,2,8.2,England,WG Jacks,JC Buttler,Haris Rauf,0,0,,,,,,"",""
+ball,2,8.3,England,WG Jacks,JC Buttler,Haris Rauf,1,0,,,,,,"",""
+ball,2,8.4,England,JC Buttler,WG Jacks,Haris Rauf,0,0,,,,,,"",""
+ball,2,8.5,England,JC Buttler,WG Jacks,Haris Rauf,4,0,,,,,,"",""
+ball,2,8.6,England,JC Buttler,WG Jacks,Haris Rauf,0,0,,,,,,caught,JC Buttler
+ball,2,9.1,England,WG Jacks,JM Bairstow,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.2,England,WG Jacks,JM Bairstow,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.3,England,WG Jacks,JM Bairstow,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.4,England,JM Bairstow,WG Jacks,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.5,England,JM Bairstow,WG Jacks,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.6,England,JM Bairstow,WG Jacks,Shadab Khan,0,0,,,,,,"",""
+ball,2,10.1,England,WG Jacks,JM Bairstow,Haris Rauf,0,0,,,,,,"",""
+ball,2,10.2,England,WG Jacks,JM Bairstow,Haris Rauf,2,0,,,,,,"",""
+ball,2,10.3,England,WG Jacks,JM Bairstow,Haris Rauf,0,0,,,,,,"",""
+ball,2,10.4,England,WG Jacks,JM Bairstow,Haris Rauf,2,0,,,,,,"",""
+ball,2,10.5,England,WG Jacks,JM Bairstow,Haris Rauf,6,0,,,,,,"",""
+ball,2,10.6,England,WG Jacks,JM Bairstow,Haris Rauf,0,0,,,,,,bowled,WG Jacks
+ball,2,11.1,England,JM Bairstow,HC Brook,Shadab Khan,0,0,,,,,,"",""
+ball,2,11.2,England,JM Bairstow,HC Brook,Shadab Khan,1,0,,,,,,"",""
+ball,2,11.3,England,HC Brook,JM Bairstow,Shadab Khan,1,0,,,,,,"",""
+ball,2,11.4,England,JM Bairstow,HC Brook,Shadab Khan,6,0,,,,,,"",""
+ball,2,11.5,England,JM Bairstow,HC Brook,Shadab Khan,6,0,,,,,,"",""
+ball,2,11.6,England,JM Bairstow,HC Brook,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.1,England,HC Brook,JM Bairstow,Naseem Shah,0,1,1,,,,,"",""
+ball,2,12.2,England,HC Brook,JM Bairstow,Naseem Shah,2,0,,,,,,"",""
+ball,2,12.3,England,HC Brook,JM Bairstow,Naseem Shah,0,0,,,,,,"",""
+ball,2,12.4,England,HC Brook,JM Bairstow,Naseem Shah,1,0,,,,,,"",""
+ball,2,12.5,England,JM Bairstow,HC Brook,Naseem Shah,1,0,,,,,,"",""
+ball,2,12.6,England,HC Brook,JM Bairstow,Naseem Shah,0,0,,,,,,"",""
+ball,2,12.7,England,HC Brook,JM Bairstow,Naseem Shah,0,0,,,,,,"",""
+ball,2,13.1,England,JM Bairstow,HC Brook,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,13.2,England,HC Brook,JM Bairstow,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,13.3,England,HC Brook,JM Bairstow,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,13.4,England,HC Brook,JM Bairstow,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,13.5,England,JM Bairstow,HC Brook,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,13.6,England,HC Brook,JM Bairstow,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,14.1,England,HC Brook,JM Bairstow,Naseem Shah,1,0,,,,,,"",""
+ball,2,14.2,England,JM Bairstow,HC Brook,Naseem Shah,6,0,,,,,,"",""
+ball,2,14.3,England,JM Bairstow,HC Brook,Naseem Shah,4,0,,,,,,"",""
+ball,2,14.4,England,JM Bairstow,HC Brook,Naseem Shah,2,0,,,,,,"",""
+ball,2,14.5,England,JM Bairstow,HC Brook,Naseem Shah,0,0,,,,,,"",""
+ball,2,14.6,England,JM Bairstow,HC Brook,Naseem Shah,0,0,,,,,,"",""
+ball,2,15.1,England,HC Brook,JM Bairstow,Haris Rauf,4,0,,,,,,"",""
+ball,2,15.2,England,HC Brook,JM Bairstow,Haris Rauf,0,0,,,,,,"",""
+ball,2,15.3,England,HC Brook,JM Bairstow,Haris Rauf,6,0,,,,,,"",""

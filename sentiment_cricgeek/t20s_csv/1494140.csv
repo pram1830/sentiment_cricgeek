@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Malawi
+info,gender,female
+info,season,2025
+info,date,2025/07/26
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Malawi
+info,toss_decision,field
+info,player_of_match,A Mokgotlhe
+info,umpire,D Odhiambo
+info,umpire,R D'Mello
+info,reserve_umpire,K Klaaste
+info,match_referee,J Chibhabha
+info,winner,Botswana
+info,winner_runs,65
+info,player,Botswana,O Kgeresi
+info,player,Botswana,L Mophakedi
+info,player,Botswana,G Matome
+info,player,Botswana,W Moutswi
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,P Mapotsane
+info,player,Botswana,T Shadrack
+info,player,Botswana,K Inakale
+info,player,Botswana,O Keitsemang
+info,player,Botswana,M Phiase
+info,player,Botswana,TB Godisamang
+info,player,Malawi,S Kananji
+info,player,Malawi,T Luka
+info,player,Malawi,A Lumbe
+info,player,Malawi,F Malefula
+info,player,Malawi,L Bigula
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,C Bwanali
+info,player,Malawi,E Richard
+info,player,Malawi,S Chinawa
+info,player,Malawi,E Kabwere
+info,player,Malawi,L Malino
+info,registry,people,A Lumbe,7e421645
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,C Bwanali,b26a30f9
+info,registry,people,D Odhiambo,45994517
+info,registry,people,E Kabwere,b6358ee8
+info,registry,people,E Richard,8d76816e
+info,registry,people,F Malefula,6a405883
+info,registry,people,G Matome,a6898f7a
+info,registry,people,J Chibhabha,4c5c47a4
+info,registry,people,K Inakale,eea862f6
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,L Bigula,9b2e971a
+info,registry,people,L Malino,7a81836e
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,M Phiase,537cc79f
+info,registry,people,O Keitsemang,5145239b
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,T Luka,44e008a5
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,TB Godisamang,ed188d83
+info,registry,people,W Moutswi,e8c42000
+ball,1,0.1,Botswana,O Kgeresi,L Mophakedi,E Kabwere,0,1,1,,,,,"",""
+ball,1,0.2,Botswana,O Kgeresi,L Mophakedi,E Kabwere,0,0,,,,,,"",""
+ball,1,0.3,Botswana,O Kgeresi,L Mophakedi,E Kabwere,0,0,,,,,,"",""
+ball,1,0.4,Botswana,O Kgeresi,L Mophakedi,E Kabwere,0,4,,,4,,,"",""
+ball,1,0.5,Botswana,O Kgeresi,L Mophakedi,E Kabwere,1,0,,,,,,"",""
+ball,1,0.6,Botswana,L Mophakedi,O Kgeresi,E Kabwere,0,0,,,,,,"",""
+ball,1,0.7,Botswana,L Mophakedi,O Kgeresi,E Kabwere,2,0,,,,,,run out,O Kgeresi
+ball,1,1.1,Botswana,L Mophakedi,G Matome,E Richard,0,1,1,,,,,"",""
+ball,1,1.2,Botswana,L Mophakedi,G Matome,E Richard,1,0,,,,,,"",""
+ball,1,1.3,Botswana,G Matome,L Mophakedi,E Richard,0,1,1,,,,,"",""
+ball,1,1.4,Botswana,G Matome,L Mophakedi,E Richard,4,0,,,,,,"",""
+ball,1,1.5,Botswana,G Matome,L Mophakedi,E Richard,1,0,,,,,,"",""
+ball,1,1.6,Botswana,L Mophakedi,G Matome,E Richard,4,0,,,,,,"",""
+ball,1,1.7,Botswana,L Mophakedi,G Matome,E Richard,0,1,,,,1,,"",""
+ball,1,1.8,Botswana,G Matome,L Mophakedi,E Richard,0,0,,,,,,caught,G Matome
+ball,1,2.1,Botswana,L Mophakedi,W Moutswi,E Kabwere,1,0,,,,,,"",""
+ball,1,2.2,Botswana,W Moutswi,L Mophakedi,E Kabwere,0,0,,,,,,"",""
+ball,1,2.3,Botswana,W Moutswi,L Mophakedi,E Kabwere,0,0,,,,,,"",""
+ball,1,2.4,Botswana,W Moutswi,L Mophakedi,E Kabwere,0,0,,,,,,run out,L Mophakedi
+ball,1,2.5,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,0,0,,,,,,"",""
+ball,1,2.6,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,0,0,,,,,,"",""
+ball,1,3.1,Botswana,W Moutswi,A Mokgotlhe,E Richard,0,0,,,,,,"",""
+ball,1,3.2,Botswana,W Moutswi,A Mokgotlhe,E Richard,0,0,,,,,,"",""
+ball,1,3.3,Botswana,W Moutswi,A Mokgotlhe,E Richard,0,0,,,,,,"",""
+ball,1,3.4,Botswana,W Moutswi,A Mokgotlhe,E Richard,0,0,,,,,,"",""
+ball,1,3.5,Botswana,W Moutswi,A Mokgotlhe,E Richard,0,1,1,,,,,"",""
+ball,1,3.6,Botswana,W Moutswi,A Mokgotlhe,E Richard,1,0,,,,,,"",""
+ball,1,3.7,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,4.1,Botswana,W Moutswi,A Mokgotlhe,E Kabwere,0,0,,,,,,"",""
+ball,1,4.2,Botswana,W Moutswi,A Mokgotlhe,E Kabwere,0,0,,,,,,"",""
+ball,1,4.3,Botswana,W Moutswi,A Mokgotlhe,E Kabwere,0,0,,,,,,"",""
+ball,1,4.4,Botswana,W Moutswi,A Mokgotlhe,E Kabwere,0,0,,,,,,"",""
+ball,1,4.5,Botswana,W Moutswi,A Mokgotlhe,E Kabwere,0,2,,,,2,,"",""
+ball,1,4.6,Botswana,W Moutswi,A Mokgotlhe,E Kabwere,2,0,,,,,,"",""
+ball,1,5.1,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,5.2,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,5.3,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,5.4,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,1,1,,,,,"",""
+ball,1,5.5,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,5.6,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,1,1,,,,,"",""
+ball,1,5.7,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,1,1,,,,,"",""
+ball,1,5.8,Botswana,A Mokgotlhe,W Moutswi,E Richard,1,0,,,,,,"",""
+ball,1,5.9,Botswana,W Moutswi,A Mokgotlhe,E Richard,1,0,,,,,,"",""
+ball,1,6.1,Botswana,W Moutswi,A Mokgotlhe,L Malino,0,0,,,,,,"",""
+ball,1,6.2,Botswana,W Moutswi,A Mokgotlhe,L Malino,0,0,,,,,,"",""
+ball,1,6.3,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,6.4,Botswana,A Mokgotlhe,W Moutswi,L Malino,1,0,,,,,,"",""
+ball,1,6.5,Botswana,W Moutswi,A Mokgotlhe,L Malino,0,0,,,,,,"",""
+ball,1,6.6,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,7.1,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,7.2,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,7.3,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,7.4,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,7.5,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,7.6,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,1,0,,,,,,"",""
+ball,1,8.1,Botswana,W Moutswi,A Mokgotlhe,L Malino,0,0,,,,,,"",""
+ball,1,8.2,Botswana,W Moutswi,A Mokgotlhe,L Malino,0,0,,,,,,"",""
+ball,1,8.3,Botswana,W Moutswi,A Mokgotlhe,L Malino,2,0,,,,,,"",""
+ball,1,8.4,Botswana,W Moutswi,A Mokgotlhe,L Malino,0,0,,,,,,"",""
+ball,1,8.5,Botswana,W Moutswi,A Mokgotlhe,L Malino,2,0,,,,,,"",""
+ball,1,8.6,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,9.1,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,2,0,,,,,,"",""
+ball,1,9.2,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,9.3,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,1,0,,,,,,"",""
+ball,1,9.4,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,4,0,,,,,,"",""
+ball,1,9.5,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,1,1,,1,,,,"",""
+ball,1,9.6,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,1,1,,,,,"",""
+ball,1,9.7,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,1,0,,,,,,"",""
+ball,1,9.8,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,4,0,,,,,,"",""
+ball,1,10.1,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,10.2,Botswana,A Mokgotlhe,W Moutswi,L Malino,1,0,,,,,,"",""
+ball,1,10.3,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,10.4,Botswana,A Mokgotlhe,W Moutswi,L Malino,1,0,,,,,,"",""
+ball,1,10.5,Botswana,W Moutswi,A Mokgotlhe,L Malino,4,0,,,,,,"",""
+ball,1,10.6,Botswana,W Moutswi,A Mokgotlhe,L Malino,2,0,,,,,,"",""
+ball,1,11.1,Botswana,A Mokgotlhe,W Moutswi,L Bigula,1,1,,1,,,,"",""
+ball,1,11.2,Botswana,W Moutswi,A Mokgotlhe,L Bigula,1,0,,,,,,"",""
+ball,1,11.3,Botswana,A Mokgotlhe,W Moutswi,L Bigula,2,0,,,,,,"",""
+ball,1,11.4,Botswana,A Mokgotlhe,W Moutswi,L Bigula,0,0,,,,,,"",""
+ball,1,11.5,Botswana,A Mokgotlhe,W Moutswi,L Bigula,2,0,,,,,,"",""
+ball,1,11.6,Botswana,A Mokgotlhe,W Moutswi,L Bigula,0,0,,,,,,"",""
+ball,1,11.7,Botswana,A Mokgotlhe,W Moutswi,L Bigula,4,1,,1,,,,"",""
+ball,1,11.8,Botswana,A Mokgotlhe,W Moutswi,L Bigula,0,0,,,,,,"",""
+ball,1,12.1,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,12.2,Botswana,A Mokgotlhe,W Moutswi,L Malino,1,0,,,,,,"",""
+ball,1,12.3,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,12.4,Botswana,A Mokgotlhe,W Moutswi,L Malino,1,0,,,,,,"",""
+ball,1,12.5,Botswana,W Moutswi,A Mokgotlhe,L Malino,1,0,,,,,,"",""
+ball,1,12.6,Botswana,A Mokgotlhe,W Moutswi,L Malino,0,0,,,,,,"",""
+ball,1,13.1,Botswana,W Moutswi,A Mokgotlhe,L Bigula,0,0,,,,,,"",""
+ball,1,13.2,Botswana,W Moutswi,A Mokgotlhe,L Bigula,0,1,1,,,,,"",""
+ball,1,13.3,Botswana,W Moutswi,A Mokgotlhe,L Bigula,1,0,,,,,,"",""
+ball,1,13.4,Botswana,A Mokgotlhe,W Moutswi,L Bigula,1,0,,,,,,"",""
+ball,1,13.5,Botswana,W Moutswi,A Mokgotlhe,L Bigula,1,0,,,,,,"",""
+ball,1,13.6,Botswana,A Mokgotlhe,W Moutswi,L Bigula,2,0,,,,,,"",""
+ball,1,13.7,Botswana,A Mokgotlhe,W Moutswi,L Bigula,1,0,,,,,,"",""
+ball,1,14.1,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,2,0,,,,,,"",""
+ball,1,14.2,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,0,1,1,,,,,"",""
+ball,1,14.3,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,1,0,,,,,,"",""
+ball,1,14.4,Botswana,W Moutswi,A Mokgotlhe,E Kabwere,1,0,,,,,,"",""
+ball,1,14.5,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,2,0,,,,,,"",""
+ball,1,14.6,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,0,0,,,,,,"",""
+ball,1,14.7,Botswana,A Mokgotlhe,W Moutswi,E Kabwere,0,0,,,,,,"",""
+ball,1,15.1,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,15.2,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,1,0,,,,,,"",""
+ball,1,15.3,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,4,0,,,,,,"",""
+ball,1,15.4,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,4,0,,,,,,"",""
+ball,1,15.5,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,0,0,,,,,,"",""
+ball,1,15.6,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,2,0,,,,,,"",""
+ball,1,16.1,Botswana,W Moutswi,A Mokgotlhe,E Richard,0,0,,,,,,"",""
+ball,1,16.2,Botswana,W Moutswi,A Mokgotlhe,E Richard,1,0,,,,,,"",""
+ball,1,16.3,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,16.4,Botswana,A Mokgotlhe,W Moutswi,E Richard,4,0,,,,,,"",""
+ball,1,16.5,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,16.6,Botswana,A Mokgotlhe,W Moutswi,E Richard,0,0,,,,,,"",""
+ball,1,17.1,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,0,0,,,,,,"",""
+ball,1,17.2,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,1,0,,,,,,"",""
+ball,1,17.3,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,4,0,,,,,,"",""
+ball,1,17.4,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,1,0,,,,,,"",""
+ball,1,17.5,Botswana,W Moutswi,A Mokgotlhe,C Bwanali,1,0,,,,,,"",""
+ball,1,17.6,Botswana,A Mokgotlhe,W Moutswi,C Bwanali,4,0,,,,,,"",""
+ball,1,18.1,Botswana,W Moutswi,A Mokgotlhe,L Bigula,1,0,,,,,,"",""
+ball,1,18.2,Botswana,A Mokgotlhe,W Moutswi,L Bigula,2,0,,,,,,"",""
+ball,1,18.3,Botswana,A Mokgotlhe,W Moutswi,L Bigula,1,0,,,,,,"",""
+ball,1,18.4,Botswana,W Moutswi,A Mokgotlhe,L Bigula,0,0,,,,,,caught,W Moutswi
+ball,1,18.5,Botswana,P Mapotsane,A Mokgotlhe,L Bigula,0,0,,,,,,"",""
+ball,1,18.6,Botswana,P Mapotsane,A Mokgotlhe,L Bigula,0,0,,,,,,"",""
+ball,1,19.1,Botswana,A Mokgotlhe,P Mapotsane,S Kananji,0,3,3,,,,,"",""
+ball,1,19.2,Botswana,A Mokgotlhe,P Mapotsane,S Kananji,1,0,,,,,,"",""
+ball,1,19.3,Botswana,P Mapotsane,A Mokgotlhe,S Kananji,2,0,,,,,,"",""
+ball,1,19.4,Botswana,P Mapotsane,A Mokgotlhe,S Kananji,0,1,,,,1,,run out,P Mapotsane
+ball,1,19.5,Botswana,T Shadrack,A Mokgotlhe,S Kananji,0,3,3,,,,,"",""
+ball,1,19.6,Botswana,T Shadrack,A Mokgotlhe,S Kananji,0,1,1,,,,,"",""
+ball,1,19.7,Botswana,T Shadrack,A Mokgotlhe,S Kananji,0,1,1,,,,,"",""
+ball,1,19.8,Botswana,T Shadrack,A Mokgotlhe,S Kananji,0,0,,,,,,"",""
+ball,1,19.9,Botswana,T Shadrack,A Mokgotlhe,S Kananji,2,0,,,,,,"",""
+ball,1,19.10,Botswana,T Shadrack,A Mokgotlhe,S Kananji,0,0,,,,,,run out,T Shadrack
+ball,2,0.1,Malawi,S Kananji,T Luka,T Shadrack,0,0,,,,,,"",""
+ball,2,0.2,Malawi,S Kananji,T Luka,T Shadrack,0,0,,,,,,"",""
+ball,2,0.3,Malawi,S Kananji,T Luka,T Shadrack,4,0,,,,,,"",""
+ball,2,0.4,Malawi,S Kananji,T Luka,T Shadrack,0,4,,,4,,,"",""
+ball,2,0.5,Malawi,S Kananji,T Luka,T Shadrack,1,0,,,,,,"",""
+ball,2,0.6,Malawi,T Luka,S Kananji,T Shadrack,0,0,,,,,,"",""
+ball,2,1.1,Malawi,S Kananji,T Luka,W Moutswi,4,0,,,,,,"",""
+ball,2,1.2,Malawi,S Kananji,T Luka,W Moutswi,1,0,,,,,,"",""
+ball,2,1.3,Malawi,T Luka,S Kananji,W Moutswi,0,2,2,,,,,"",""
+ball,2,1.4,Malawi,S Kananji,T Luka,W Moutswi,1,0,,,,,,"",""
+ball,2,1.5,Malawi,T Luka,S Kananji,W Moutswi,0,0,,,,,,"",""
+ball,2,1.6,Malawi,T Luka,S Kananji,W Moutswi,1,0,,,,,,"",""
+ball,2,1.7,Malawi,S Kananji,T Luka,W Moutswi,0,0,,,,,,"",""
+ball,2,2.1,Malawi,T Luka,S Kananji,T Shadrack,4,0,,,,,,"",""
+ball,2,2.2,Malawi,T Luka,S Kananji,T Shadrack,0,0,,,,,,"",""
+ball,2,2.3,Malawi,T Luka,S Kananji,T Shadrack,0,2,,1,1,,,"",""
+ball,2,2.4,Malawi,S Kananji,T Luka,T Shadrack,0,0,,,,,,"",""
+ball,2,2.5,Malawi,S Kananji,T Luka,T Shadrack,0,0,,,,,,"",""
+ball,2,2.6,Malawi,S Kananji,T Luka,T Shadrack,0,0,,,,,,"",""
+ball,2,2.7,Malawi,S Kananji,T Luka,T Shadrack,0,0,,,,,,"",""
+ball,2,3.1,Malawi,T Luka,S Kananji,W Moutswi,0,0,,,,,,"",""
+ball,2,3.2,Malawi,T Luka,S Kananji,W Moutswi,0,1,1,,,,,"",""
+ball,2,3.3,Malawi,T Luka,S Kananji,W Moutswi,0,0,,,,,,"",""
+ball,2,3.4,Malawi,T Luka,S Kananji,W Moutswi,0,1,1,,,,,"",""
+ball,2,3.5,Malawi,T Luka,S Kananji,W Moutswi,0,0,,,,,,"",""
+ball,2,3.6,Malawi,T Luka,S Kananji,W Moutswi,0,0,,,,,,caught,T Luka
+ball,2,3.7,Malawi,A Lumbe,S Kananji,W Moutswi,0,0,,,,,,"",""
+ball,2,3.8,Malawi,A Lumbe,S Kananji,W Moutswi,1,0,,,,,,"",""
+ball,2,4.1,Malawi,A Lumbe,S Kananji,G Matome,1,0,,,,,,"",""
+ball,2,4.2,Malawi,S Kananji,A Lumbe,G Matome,0,0,,,,,,"",""
+ball,2,4.3,Malawi,S Kananji,A Lumbe,G Matome,1,0,,,,,,"",""
+ball,2,4.4,Malawi,A Lumbe,S Kananji,G Matome,1,0,,,,,,"",""
+ball,2,4.5,Malawi,S Kananji,A Lumbe,G Matome,4,0,,,,,,"",""
+ball,2,4.6,Malawi,S Kananji,A Lumbe,G Matome,2,0,,,,,,"",""
+ball,2,5.1,Malawi,A Lumbe,S Kananji,K Inakale,1,0,,,,,,"",""
+ball,2,5.2,Malawi,S Kananji,A Lumbe,K Inakale,0,0,,,,,,"",""
+ball,2,5.3,Malawi,S Kananji,A Lumbe,K Inakale,4,0,,,,,,"",""
+ball,2,5.4,Malawi,S Kananji,A Lumbe,K Inakale,2,0,,,,,,"",""
+ball,2,5.5,Malawi,S Kananji,A Lumbe,K Inakale,0,0,,,,,,"",""
+ball,2,5.6,Malawi,S Kananji,A Lumbe,K Inakale,2,0,,,,,,"",""
+ball,2,6.1,Malawi,A Lumbe,S Kananji,G Matome,1,0,,,,,,"",""
+ball,2,6.2,Malawi,S Kananji,A Lumbe,G Matome,1,0,,,,,,"",""
+ball,2,6.3,Malawi,A Lumbe,S Kananji,G Matome,0,0,,,,,,caught,A Lumbe
+ball,2,6.4,Malawi,F Malefula,S Kananji,G Matome,0,0,,,,,,caught,F Malefula
+ball,2,6.5,Malawi,L Bigula,S Kananji,G Matome,0,1,1,,,,,"",""
+ball,2,6.6,Malawi,L Bigula,S Kananji,G Matome,0,0,,,,,,"",""
+ball,2,6.7,Malawi,L Bigula,S Kananji,G Matome,0,0,,,,,,"",""
+ball,2,7.1,Malawi,S Kananji,L Bigula,K Inakale,1,0,,,,,,"",""
+ball,2,7.2,Malawi,L Bigula,S Kananji,K Inakale,1,0,,,,,,"",""
+ball,2,7.3,Malawi,S Kananji,L Bigula,K Inakale,0,0,,,,,,bowled,S Kananji
+ball,2,7.4,Malawi,KM Chingaipe,L Bigula,K Inakale,0,1,1,,,,,"",""
+ball,2,7.5,Malawi,KM Chingaipe,L Bigula,K Inakale,0,1,,,1,,,"",""
+ball,2,7.6,Malawi,L Bigula,KM Chingaipe,K Inakale,0,0,,,,,,caught,L Bigula
+ball,2,7.7,Malawi,C Bwanali,KM Chingaipe,K Inakale,2,0,,,,,,"",""
+ball,2,8.1,Malawi,KM Chingaipe,C Bwanali,G Matome,0,0,,,,,,"",""
+ball,2,8.2,Malawi,KM Chingaipe,C Bwanali,G Matome,0,0,,,,,,"",""
+ball,2,8.3,Malawi,KM Chingaipe,C Bwanali,G Matome,0,0,,,,,,"",""
+ball,2,8.4,Malawi,KM Chingaipe,C Bwanali,G Matome,0,0,,,,,,"",""
+ball,2,8.5,Malawi,KM Chingaipe,C Bwanali,G Matome,0,0,,,,,,"",""
+ball,2,8.6,Malawi,KM Chingaipe,C Bwanali,G Matome,1,0,,,,,,"",""
+ball,2,9.1,Malawi,KM Chingaipe,C Bwanali,P Mapotsane,0,0,,,,,,"",""
+ball,2,9.2,Malawi,KM Chingaipe,C Bwanali,P Mapotsane,0,0,,,,,,"",""
+ball,2,9.3,Malawi,KM Chingaipe,C Bwanali,P Mapotsane,0,0,,,,,,"",""
+ball,2,9.4,Malawi,KM Chingaipe,C Bwanali,P Mapotsane,0,0,,,,,,"",""
+ball,2,9.5,Malawi,KM Chingaipe,C Bwanali,P Mapotsane,0,1,1,,,,,"",""
+ball,2,9.6,Malawi,KM Chingaipe,C Bwanali,P Mapotsane,1,0,,,,,,"",""
+ball,2,9.7,Malawi,C Bwanali,KM Chingaipe,P Mapotsane,0,0,,,,,,"",""
+ball,2,10.1,Malawi,KM Chingaipe,C Bwanali,A Mokgotlhe,0,0,,,,,,"",""
+ball,2,10.2,Malawi,KM Chingaipe,C Bwanali,A Mokgotlhe,0,2,2,,,,,"",""
+ball,2,10.3,Malawi,C Bwanali,KM Chingaipe,A Mokgotlhe,0,0,,,,,,"",""
+ball,2,10.4,Malawi,C Bwanali,KM Chingaipe,A Mokgotlhe,0,0,,,,,,"",""
+ball,2,10.5,Malawi,C Bwanali,KM Chingaipe,A Mokgotlhe,0,0,,,,,,"",""
+ball,2,10.6,Malawi,C Bwanali,KM Chingaipe,A Mokgotlhe,1,0,,,,,,"",""
+ball,2,10.7,Malawi,KM Chingaipe,C Bwanali,A Mokgotlhe,0,1,1,,,,,"",""
+ball,2,10.8,Malawi,KM Chingaipe,C Bwanali,A Mokgotlhe,2,0,,,,,,"",""
+ball,2,11.1,Malawi,C Bwanali,KM Chingaipe,P Mapotsane,0,0,,,,,,caught,C Bwanali
+ball,2,11.2,Malawi,E Richard,KM Chingaipe,P Mapotsane,0,0,,,,,,"",""
+ball,2,11.3,Malawi,E Richard,KM Chingaipe,P Mapotsane,0,0,,,,,,"",""
+ball,2,11.4,Malawi,E Richard,KM Chingaipe,P Mapotsane,0,0,,,,,,"",""
+ball,2,11.5,Malawi,E Richard,KM Chingaipe,P Mapotsane,1,0,,,,,,"",""
+ball,2,11.6,Malawi,KM Chingaipe,E Richard,P Mapotsane,0,0,,,,,,caught,KM Chingaipe
+ball,2,12.1,Malawi,E Richard,S Chinawa,M Phiase,0,1,1,,,,,"",""
+ball,2,12.2,Malawi,E Richard,S Chinawa,M Phiase,0,0,,,,,,"",""
+ball,2,12.3,Malawi,E Richard,S Chinawa,M Phiase,0,0,,,,,,"",""
+ball,2,12.4,Malawi,E Richard,S Chinawa,M Phiase,0,1,1,,,,,"",""
+ball,2,12.5,Malawi,E Richard,S Chinawa,M Phiase,2,0,,,,,,"",""
+ball,2,12.6,Malawi,E Richard,S Chinawa,M Phiase,0,1,1,,,,,"",""
+ball,2,12.7,Malawi,E Richard,S Chinawa,M Phiase,0,0,,,,,,"",""
+ball,2,12.8,Malawi,E Richard,S Chinawa,M Phiase,0,0,,,,,,"",""
+ball,2,12.9,Malawi,E Richard,S Chinawa,M Phiase,0,0,,,,,,"",""
+ball,2,13.1,Malawi,S Chinawa,E Richard,P Mapotsane,1,0,,,,,,"",""
+ball,2,13.2,Malawi,E Richard,S Chinawa,P Mapotsane,1,0,,,,,,"",""
+ball,2,13.3,Malawi,S Chinawa,E Richard,P Mapotsane,2,0,,,,,,"",""
+ball,2,13.4,Malawi,S Chinawa,E Richard,P Mapotsane,1,0,,,,,,"",""
+ball,2,13.5,Malawi,E Richard,S Chinawa,P Mapotsane,0,0,,,,,,"",""
+ball,2,13.6,Malawi,E Richard,S Chinawa,P Mapotsane,0,0,,,,,,"",""
+ball,2,14.1,Malawi,S Chinawa,E Richard,T Shadrack,0,1,1,,,,,"",""
+ball,2,14.2,Malawi,S Chinawa,E Richard,T Shadrack,0,0,,,,,,"",""
+ball,2,14.3,Malawi,S Chinawa,E Richard,T Shadrack,0,0,,,,,,bowled,S Chinawa
+ball,2,14.4,Malawi,E Kabwere,E Richard,T Shadrack,1,0,,,,,,"",""
+ball,2,14.5,Malawi,E Richard,E Kabwere,T Shadrack,0,0,,,,,,"",""
+ball,2,14.6,Malawi,E Richard,E Kabwere,T Shadrack,0,0,,,,,,"",""
+ball,2,14.7,Malawi,E Richard,E Kabwere,T Shadrack,0,0,,,,,,"",""
+ball,2,15.1,Malawi,E Kabwere,E Richard,G Matome,1,0,,,,,,"",""
+ball,2,15.2,Malawi,E Richard,E Kabwere,G Matome,1,0,,,,,,run out,E Kabwere
+ball,2,15.3,Malawi,E Richard,L Malino,G Matome,0,0,,,,,,"",""
+ball,2,15.4,Malawi,E Richard,L Malino,G Matome,0,0,,,,,,bowled,E Richard

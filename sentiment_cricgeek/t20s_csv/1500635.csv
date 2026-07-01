@@ -1,0 +1,165 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Isle of Man
+info,team,Brazil
+info,gender,female
+info,season,2025
+info,date,2025/08/31
+info,event,Women's ICC T20 Tri-Series
+info,match_number,1
+info,venue,"New Farnley CC, Leeds"
+info,city,Leeds
+info,toss_winner,Brazil
+info,toss_decision,field
+info,winner,Brazil
+info,winner_wickets,10
+info,player,Isle of Man,C Crowe
+info,player,Isle of Man,R Overman
+info,player,Isle of Man,C Henery
+info,player,Isle of Man,L Moore
+info,player,Isle of Man,J Pullen
+info,player,Isle of Man,C Perry
+info,player,Isle of Man,A Thorpe
+info,player,Isle of Man,G Ford
+info,player,Isle of Man,J Hicks
+info,player,Isle of Man,L Hornby-Wheeler
+info,player,Isle of Man,R Stones
+info,player,Brazil,LV Boas
+info,player,Brazil,L Cardoso
+info,player,Brazil,NC Monteiro
+info,player,Brazil,L Agatha
+info,player,Brazil,M Ribeiro
+info,player,Brazil,MB dos Santos
+info,player,Brazil,EC Muller
+info,player,Brazil,MLG Silva
+info,player,Brazil,M Artur
+info,player,Brazil,CS Nascimento
+info,player,Brazil,RMAM Avery
+info,registry,people,A Thorpe,6c54bd7a
+info,registry,people,C Crowe,9b671b41
+info,registry,people,C Henery,03d9e80f
+info,registry,people,C Perry,152d3c9d
+info,registry,people,CS Nascimento,df997334
+info,registry,people,EC Muller,e1461e39
+info,registry,people,G Ford,c569a574
+info,registry,people,J Hicks,802febe2
+info,registry,people,J Pullen,b3b97956
+info,registry,people,L Agatha,1aebb2fa
+info,registry,people,L Cardoso,5777d460
+info,registry,people,L Hornby-Wheeler,a5ce3e4d
+info,registry,people,L Moore,da50a075
+info,registry,people,LV Boas,3a00d34f
+info,registry,people,M Artur,400b36cd
+info,registry,people,M Ribeiro,38424a4d
+info,registry,people,MB dos Santos,8ba8dd7a
+info,registry,people,MLG Silva,3b62a6b4
+info,registry,people,NC Monteiro,752af5a4
+info,registry,people,R Overman,2ec52460
+info,registry,people,R Stones,45474493
+info,registry,people,RMAM Avery,4cf645c9
+ball,1,0.1,Isle of Man,C Crowe,R Overman,M Ribeiro,0,0,,,,,,"",""
+ball,1,0.2,Isle of Man,C Crowe,R Overman,M Ribeiro,0,0,,,,,,"",""
+ball,1,0.3,Isle of Man,C Crowe,R Overman,M Ribeiro,0,0,,,,,,"",""
+ball,1,0.4,Isle of Man,C Crowe,R Overman,M Ribeiro,0,1,1,,,,,"",""
+ball,1,0.5,Isle of Man,C Crowe,R Overman,M Ribeiro,0,0,,,,,,"",""
+ball,1,0.6,Isle of Man,C Crowe,R Overman,M Ribeiro,4,0,,,,,,"",""
+ball,1,0.7,Isle of Man,C Crowe,R Overman,M Ribeiro,0,0,,,,,,"",""
+ball,1,1.1,Isle of Man,R Overman,C Crowe,CS Nascimento,0,0,,,,,,"",""
+ball,1,1.2,Isle of Man,R Overman,C Crowe,CS Nascimento,0,0,,,,,,"",""
+ball,1,1.3,Isle of Man,R Overman,C Crowe,CS Nascimento,0,0,,,,,,"",""
+ball,1,1.4,Isle of Man,R Overman,C Crowe,CS Nascimento,0,0,,,,,,caught,R Overman
+ball,1,1.5,Isle of Man,C Henery,C Crowe,CS Nascimento,1,0,,,,,,"",""
+ball,1,1.6,Isle of Man,C Crowe,C Henery,CS Nascimento,0,0,,,,,,"",""
+ball,1,2.1,Isle of Man,C Henery,C Crowe,M Ribeiro,0,0,,,,,,"",""
+ball,1,2.2,Isle of Man,C Henery,C Crowe,M Ribeiro,0,0,,,,,,"",""
+ball,1,2.3,Isle of Man,C Henery,C Crowe,M Ribeiro,0,0,,,,,,bowled,C Henery
+ball,1,2.4,Isle of Man,L Moore,C Crowe,M Ribeiro,0,0,,,,,,"",""
+ball,1,2.5,Isle of Man,L Moore,C Crowe,M Ribeiro,0,1,1,,,,,"",""
+ball,1,2.6,Isle of Man,L Moore,C Crowe,M Ribeiro,0,0,,,,,,"",""
+ball,1,2.7,Isle of Man,L Moore,C Crowe,M Ribeiro,0,0,,,,,,"",""
+ball,1,3.1,Isle of Man,C Crowe,L Moore,CS Nascimento,1,0,,,,,,"",""
+ball,1,3.2,Isle of Man,L Moore,C Crowe,CS Nascimento,0,0,,,,,,"",""
+ball,1,3.3,Isle of Man,L Moore,C Crowe,CS Nascimento,1,0,,,,,,"",""
+ball,1,3.4,Isle of Man,C Crowe,L Moore,CS Nascimento,0,0,,,,,,"",""
+ball,1,3.5,Isle of Man,C Crowe,L Moore,CS Nascimento,1,0,,,,,,"",""
+ball,1,3.6,Isle of Man,L Moore,C Crowe,CS Nascimento,0,0,,,,,,"",""
+ball,1,4.1,Isle of Man,C Crowe,L Moore,LV Boas,0,0,,,,,,"",""
+ball,1,4.2,Isle of Man,C Crowe,L Moore,LV Boas,0,0,,,,,,"",""
+ball,1,4.3,Isle of Man,C Crowe,L Moore,LV Boas,0,0,,,,,,"",""
+ball,1,4.4,Isle of Man,C Crowe,L Moore,LV Boas,0,0,,,,,,"",""
+ball,1,4.5,Isle of Man,C Crowe,L Moore,LV Boas,1,0,,,,,,"",""
+ball,1,4.6,Isle of Man,L Moore,C Crowe,LV Boas,0,0,,,,,,"",""
+ball,1,5.1,Isle of Man,C Crowe,L Moore,L Cardoso,0,4,,,,4,,"",""
+ball,1,5.2,Isle of Man,C Crowe,L Moore,L Cardoso,0,0,,,,,,"",""
+ball,1,5.3,Isle of Man,C Crowe,L Moore,L Cardoso,1,0,,,,,,"",""
+ball,1,5.4,Isle of Man,L Moore,C Crowe,L Cardoso,0,0,,,,,,"",""
+ball,1,5.5,Isle of Man,L Moore,C Crowe,L Cardoso,1,0,,,,,,"",""
+ball,1,5.6,Isle of Man,C Crowe,L Moore,L Cardoso,0,0,,,,,,"",""
+ball,1,6.1,Isle of Man,L Moore,C Crowe,LV Boas,0,0,,,,,,"",""
+ball,1,6.2,Isle of Man,L Moore,C Crowe,LV Boas,0,0,,,,,,"",""
+ball,1,6.3,Isle of Man,L Moore,C Crowe,LV Boas,1,0,,,,,,"",""
+ball,1,6.4,Isle of Man,C Crowe,L Moore,LV Boas,0,0,,,,,,"",""
+ball,1,6.5,Isle of Man,C Crowe,L Moore,LV Boas,0,0,,,,,,"",""
+ball,1,6.6,Isle of Man,C Crowe,L Moore,LV Boas,0,0,,,,,,"",""
+ball,1,7.1,Isle of Man,L Moore,C Crowe,L Cardoso,1,0,,,,,,"",""
+ball,1,7.2,Isle of Man,C Crowe,L Moore,L Cardoso,4,0,,,,,,"",""
+ball,1,7.3,Isle of Man,C Crowe,L Moore,L Cardoso,0,1,,,,1,,"",""
+ball,1,7.4,Isle of Man,L Moore,C Crowe,L Cardoso,0,1,,,,1,,"",""
+ball,1,7.5,Isle of Man,C Crowe,L Moore,L Cardoso,0,0,,,,,,"",""
+ball,1,7.6,Isle of Man,C Crowe,L Moore,L Cardoso,0,0,,,,,,"",""
+ball,1,8.1,Isle of Man,L Moore,C Crowe,RMAM Avery,1,0,,,,,,"",""
+ball,1,8.2,Isle of Man,C Crowe,L Moore,RMAM Avery,0,0,,,,,,"",""
+ball,1,8.3,Isle of Man,C Crowe,L Moore,RMAM Avery,1,0,,,,,,"",""
+ball,1,8.4,Isle of Man,L Moore,C Crowe,RMAM Avery,1,0,,,,,,"",""
+ball,1,8.5,Isle of Man,C Crowe,L Moore,RMAM Avery,0,0,,,,,,bowled,C Crowe
+ball,1,8.6,Isle of Man,J Pullen,L Moore,RMAM Avery,0,0,,,,,,"",""
+ball,1,9.1,Isle of Man,L Moore,J Pullen,NC Monteiro,0,0,,,,,,"",""
+ball,1,9.2,Isle of Man,L Moore,J Pullen,NC Monteiro,0,0,,,,,,"",""
+ball,1,9.3,Isle of Man,L Moore,J Pullen,NC Monteiro,0,0,,,,,,"",""
+ball,1,9.4,Isle of Man,L Moore,J Pullen,NC Monteiro,0,4,,,4,,,"",""
+ball,1,9.5,Isle of Man,L Moore,J Pullen,NC Monteiro,0,0,,,,,,"",""
+ball,1,9.6,Isle of Man,L Moore,J Pullen,NC Monteiro,0,0,,,,,,lbw,L Moore
+ball,1,10.1,Isle of Man,J Pullen,C Perry,M Artur,0,0,,,,,,bowled,J Pullen
+ball,1,10.2,Isle of Man,A Thorpe,C Perry,M Artur,1,0,,,,,,"",""
+ball,1,10.3,Isle of Man,C Perry,A Thorpe,M Artur,1,0,,,,,,"",""
+ball,1,10.4,Isle of Man,A Thorpe,C Perry,M Artur,0,0,,,,,,"",""
+ball,1,10.5,Isle of Man,A Thorpe,C Perry,M Artur,0,0,,,,,,run out,A Thorpe
+ball,1,10.6,Isle of Man,G Ford,C Perry,M Artur,1,0,,,,,,"",""
+ball,1,11.1,Isle of Man,G Ford,C Perry,RMAM Avery,0,0,,,,,,bowled,G Ford
+ball,1,11.2,Isle of Man,J Hicks,C Perry,RMAM Avery,0,0,,,,,,"",""
+ball,1,11.3,Isle of Man,J Hicks,C Perry,RMAM Avery,0,0,,,,,,"",""
+ball,1,11.4,Isle of Man,J Hicks,C Perry,RMAM Avery,0,0,,,,,,"",""
+ball,1,11.5,Isle of Man,J Hicks,C Perry,RMAM Avery,0,0,,,,,,"",""
+ball,1,11.6,Isle of Man,J Hicks,C Perry,RMAM Avery,0,1,1,,,,,"",""
+ball,1,11.7,Isle of Man,J Hicks,C Perry,RMAM Avery,0,0,,,,,,"",""
+ball,1,12.1,Isle of Man,C Perry,J Hicks,NC Monteiro,1,0,,,,,,"",""
+ball,1,12.2,Isle of Man,J Hicks,C Perry,NC Monteiro,0,0,,,,,,caught,J Hicks
+ball,1,12.3,Isle of Man,L Hornby-Wheeler,C Perry,NC Monteiro,0,0,,,,,,run out,L Hornby-Wheeler
+ball,1,12.4,Isle of Man,R Stones,C Perry,NC Monteiro,0,0,,,,,,bowled,R Stones
+ball,2,0.1,Brazil,LV Boas,L Cardoso,C Perry,0,0,,,,,,"",""
+ball,2,0.2,Brazil,LV Boas,L Cardoso,C Perry,1,0,,,,,,"",""
+ball,2,0.3,Brazil,L Cardoso,LV Boas,C Perry,4,0,,,,,,"",""
+ball,2,0.4,Brazil,L Cardoso,LV Boas,C Perry,0,0,,,,,,"",""
+ball,2,0.5,Brazil,L Cardoso,LV Boas,C Perry,0,0,,,,,,"",""
+ball,2,0.6,Brazil,L Cardoso,LV Boas,C Perry,0,0,,,,,,"",""
+ball,2,1.1,Brazil,LV Boas,L Cardoso,G Ford,0,0,,,,,,"",""
+ball,2,1.2,Brazil,LV Boas,L Cardoso,G Ford,0,1,1,,,,,"",""
+ball,2,1.3,Brazil,LV Boas,L Cardoso,G Ford,4,0,,,,,,"",""
+ball,2,1.4,Brazil,LV Boas,L Cardoso,G Ford,3,0,,,,,,"",""
+ball,2,1.5,Brazil,L Cardoso,LV Boas,G Ford,1,0,,,,,,"",""
+ball,2,1.6,Brazil,LV Boas,L Cardoso,G Ford,0,1,1,,,,,"",""
+ball,2,1.7,Brazil,LV Boas,L Cardoso,G Ford,1,0,,,,,,"",""
+ball,2,1.8,Brazil,L Cardoso,LV Boas,G Ford,0,1,1,,,,,"",""
+ball,2,1.9,Brazil,L Cardoso,LV Boas,G Ford,1,0,,,,,,"",""
+ball,2,2.1,Brazil,L Cardoso,LV Boas,C Perry,0,2,2,,,,,"",""
+ball,2,2.2,Brazil,LV Boas,L Cardoso,C Perry,0,0,,,,,,"",""
+ball,2,2.3,Brazil,LV Boas,L Cardoso,C Perry,4,0,,,,,,"",""
+ball,2,2.4,Brazil,LV Boas,L Cardoso,C Perry,2,0,,,,,,"",""
+ball,2,2.5,Brazil,LV Boas,L Cardoso,C Perry,0,0,,,,,,"",""
+ball,2,2.6,Brazil,LV Boas,L Cardoso,C Perry,0,1,1,,,,,"",""
+ball,2,2.7,Brazil,LV Boas,L Cardoso,C Perry,0,0,,,,,,"",""
+ball,2,2.8,Brazil,LV Boas,L Cardoso,C Perry,1,0,,,,,,"",""
+ball,2,3.1,Brazil,LV Boas,L Cardoso,G Ford,1,0,,,,,,"",""
+ball,2,3.2,Brazil,L Cardoso,LV Boas,G Ford,3,0,,,,,,"",""
+ball,2,3.3,Brazil,LV Boas,L Cardoso,G Ford,4,0,,,,,,"",""
+ball,2,3.4,Brazil,LV Boas,L Cardoso,G Ford,4,0,,,,,,"",""

@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,female
+info,season,2023/24
+info,date,2023/10/15
+info,event,New Zealand Women tour of South Africa
+info,match_number,5
+info,venue,"Willowmoore Park, Benoni"
+info,city,Benoni
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,M Klaas
+info,umpire,K Klaaste
+info,umpire,Lauren Agenbag
+info,reserve_umpire,A Jacobs
+info,tv_umpire,Siphelele Gasa
+info,match_referee,GH Pienaar
+info,winner,South Africa
+info,winner_runs,11
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,CL Tryon
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Jafta
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,M Klaas
+info,player,South Africa,A Khaka
+info,player,South Africa,N Mlaba
+info,player,New Zealand,KG Anderson
+info,player,New Zealand,SW Bates
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,MM Penfold
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AC Kerr,7673c908
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KG Anderson,ae79a86f
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M De Ridder,5bb7ec70
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Brits,06659caa
+info,registry,people,TS Sekhukhune,6e28e586
+ball,1,0.1,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.2,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,0.3,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.4,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,0.5,South Africa,T Brits,L Wolvaardt,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.6,South Africa,T Brits,L Wolvaardt,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,1.1,South Africa,T Brits,L Wolvaardt,SFM Devine,1,0,,,,,,"",""
+ball,1,1.2,South Africa,L Wolvaardt,T Brits,SFM Devine,1,0,,,,,,"",""
+ball,1,1.3,South Africa,T Brits,L Wolvaardt,SFM Devine,0,0,,,,,,"",""
+ball,1,1.4,South Africa,T Brits,L Wolvaardt,SFM Devine,1,0,,,,,,"",""
+ball,1,1.5,South Africa,L Wolvaardt,T Brits,SFM Devine,4,0,,,,,,"",""
+ball,1,1.6,South Africa,L Wolvaardt,T Brits,SFM Devine,0,1,,,,1,,"",""
+ball,1,2.1,South Africa,L Wolvaardt,T Brits,FC Jonas,1,0,,,,,,"",""
+ball,1,2.2,South Africa,T Brits,L Wolvaardt,FC Jonas,0,0,,,,,,"",""
+ball,1,2.3,South Africa,T Brits,L Wolvaardt,FC Jonas,1,0,,,,,,"",""
+ball,1,2.4,South Africa,L Wolvaardt,T Brits,FC Jonas,0,0,,,,,,"",""
+ball,1,2.5,South Africa,L Wolvaardt,T Brits,FC Jonas,4,0,,,,,,"",""
+ball,1,2.6,South Africa,L Wolvaardt,T Brits,FC Jonas,1,0,,,,,,"",""
+ball,1,3.1,South Africa,L Wolvaardt,T Brits,EJ Carson,0,4,,,,4,,"",""
+ball,1,3.2,South Africa,L Wolvaardt,T Brits,EJ Carson,4,0,,,,,,"",""
+ball,1,3.3,South Africa,L Wolvaardt,T Brits,EJ Carson,0,0,,,,,,"",""
+ball,1,3.4,South Africa,L Wolvaardt,T Brits,EJ Carson,0,0,,,,,,"",""
+ball,1,3.5,South Africa,L Wolvaardt,T Brits,EJ Carson,1,0,,,,,,"",""
+ball,1,3.6,South Africa,T Brits,L Wolvaardt,EJ Carson,0,0,,,,,,"",""
+ball,1,4.1,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,0,1,,,,1,,"",""
+ball,1,4.2,South Africa,T Brits,L Wolvaardt,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,4.3,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,4.4,South Africa,T Brits,L Wolvaardt,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,4.5,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,2,0,,,,,,"",""
+ball,1,4.6,South Africa,L Wolvaardt,T Brits,LMM Tahuhu,0,0,,,,,,bowled,L Wolvaardt
+ball,1,5.1,South Africa,T Brits,A Bosch,SFM Devine,0,0,,,,,,"",""
+ball,1,5.2,South Africa,T Brits,A Bosch,SFM Devine,2,0,,,,,,"",""
+ball,1,5.3,South Africa,T Brits,A Bosch,SFM Devine,4,0,,,,,,"",""
+ball,1,5.4,South Africa,T Brits,A Bosch,SFM Devine,1,0,,,,,,"",""
+ball,1,5.5,South Africa,A Bosch,T Brits,SFM Devine,3,0,,,,,,"",""
+ball,1,5.6,South Africa,T Brits,A Bosch,SFM Devine,0,0,,,,,,"",""
+ball,1,6.1,South Africa,A Bosch,T Brits,MM Penfold,1,0,,,,,,"",""
+ball,1,6.2,South Africa,T Brits,A Bosch,MM Penfold,4,0,,,,,,"",""
+ball,1,6.3,South Africa,T Brits,A Bosch,MM Penfold,0,0,,,,,,"",""
+ball,1,6.4,South Africa,T Brits,A Bosch,MM Penfold,0,0,,,,,,"",""
+ball,1,6.5,South Africa,T Brits,A Bosch,MM Penfold,4,0,,,,,,"",""
+ball,1,6.6,South Africa,T Brits,A Bosch,MM Penfold,2,0,,,,,,"",""
+ball,1,7.1,South Africa,A Bosch,T Brits,AC Kerr,2,0,,,,,,"",""
+ball,1,7.2,South Africa,A Bosch,T Brits,AC Kerr,0,0,,,,,,"",""
+ball,1,7.3,South Africa,A Bosch,T Brits,AC Kerr,1,0,,,,,,"",""
+ball,1,7.4,South Africa,T Brits,A Bosch,AC Kerr,0,0,,,,,,"",""
+ball,1,7.5,South Africa,T Brits,A Bosch,AC Kerr,1,0,,,,,,"",""
+ball,1,7.6,South Africa,A Bosch,T Brits,AC Kerr,1,0,,,,,,"",""
+ball,1,8.1,South Africa,A Bosch,T Brits,EJ Carson,0,0,,,,,,"",""
+ball,1,8.2,South Africa,A Bosch,T Brits,EJ Carson,0,0,,,,,,"",""
+ball,1,8.3,South Africa,A Bosch,T Brits,EJ Carson,0,0,,,,,,"",""
+ball,1,8.4,South Africa,A Bosch,T Brits,EJ Carson,2,0,,,,,,"",""
+ball,1,8.5,South Africa,A Bosch,T Brits,EJ Carson,1,0,,,,,,"",""
+ball,1,8.6,South Africa,T Brits,A Bosch,EJ Carson,4,0,,,,,,"",""
+ball,1,9.1,South Africa,A Bosch,T Brits,AC Kerr,2,0,,,,,,"",""
+ball,1,9.2,South Africa,A Bosch,T Brits,AC Kerr,1,0,,,,,,"",""
+ball,1,9.3,South Africa,T Brits,A Bosch,AC Kerr,1,0,,,,,,"",""
+ball,1,9.4,South Africa,A Bosch,T Brits,AC Kerr,1,0,,,,,,"",""
+ball,1,9.5,South Africa,T Brits,A Bosch,AC Kerr,1,0,,,,,,"",""
+ball,1,9.6,South Africa,A Bosch,T Brits,AC Kerr,0,0,,,,,,"",""
+ball,1,10.1,South Africa,T Brits,A Bosch,EJ Carson,0,0,,,,,,"",""
+ball,1,10.2,South Africa,T Brits,A Bosch,EJ Carson,0,1,,,,1,,"",""
+ball,1,10.3,South Africa,A Bosch,T Brits,EJ Carson,4,0,,,,,,"",""
+ball,1,10.4,South Africa,A Bosch,T Brits,EJ Carson,4,0,,,,,,"",""
+ball,1,10.5,South Africa,A Bosch,T Brits,EJ Carson,1,0,,,,,,"",""
+ball,1,10.6,South Africa,T Brits,A Bosch,EJ Carson,0,0,,,,,,"",""
+ball,1,11.1,South Africa,A Bosch,T Brits,FC Jonas,1,0,,,,,,"",""
+ball,1,11.2,South Africa,T Brits,A Bosch,FC Jonas,1,0,,,,,,"",""
+ball,1,11.3,South Africa,A Bosch,T Brits,FC Jonas,0,0,,,,,,"",""
+ball,1,11.4,South Africa,A Bosch,T Brits,FC Jonas,0,0,,,,,,"",""
+ball,1,11.5,South Africa,A Bosch,T Brits,FC Jonas,1,0,,,,,,"",""
+ball,1,11.6,South Africa,T Brits,A Bosch,FC Jonas,6,0,,,,,,"",""
+ball,1,12.1,South Africa,A Bosch,T Brits,MM Penfold,2,0,,,,,,"",""
+ball,1,12.2,South Africa,A Bosch,T Brits,MM Penfold,0,0,,,,,,bowled,A Bosch
+ball,1,12.3,South Africa,S Luus,T Brits,MM Penfold,1,0,,,,,,"",""
+ball,1,12.4,South Africa,T Brits,S Luus,MM Penfold,1,0,,,,,,"",""
+ball,1,12.5,South Africa,S Luus,T Brits,MM Penfold,4,0,,,,,,"",""
+ball,1,12.6,South Africa,S Luus,T Brits,MM Penfold,0,1,1,,,,,"",""
+ball,1,12.7,South Africa,S Luus,T Brits,MM Penfold,0,0,,,,,,"",""
+ball,1,13.1,South Africa,T Brits,S Luus,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,13.2,South Africa,S Luus,T Brits,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,13.3,South Africa,T Brits,S Luus,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,13.4,South Africa,S Luus,T Brits,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,13.5,South Africa,S Luus,T Brits,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,13.6,South Africa,S Luus,T Brits,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,14.1,South Africa,S Luus,T Brits,SFM Devine,1,0,,,,,,"",""
+ball,1,14.2,South Africa,T Brits,S Luus,SFM Devine,4,0,,,,,,"",""
+ball,1,14.3,South Africa,T Brits,S Luus,SFM Devine,0,0,,,,,,"",""
+ball,1,14.4,South Africa,T Brits,S Luus,SFM Devine,0,0,,,,,,"",""
+ball,1,14.5,South Africa,T Brits,S Luus,SFM Devine,1,0,,,,,,"",""
+ball,1,14.6,South Africa,S Luus,T Brits,SFM Devine,2,0,,,,,,"",""
+ball,1,15.1,South Africa,T Brits,S Luus,LMM Tahuhu,0,0,,,,,,caught,T Brits
+ball,1,15.2,South Africa,CL Tryon,S Luus,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,15.3,South Africa,CL Tryon,S Luus,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,15.4,South Africa,CL Tryon,S Luus,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,15.5,South Africa,CL Tryon,S Luus,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,15.6,South Africa,CL Tryon,S Luus,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,16.1,South Africa,CL Tryon,S Luus,AC Kerr,1,0,,,,,,"",""
+ball,1,16.2,South Africa,S Luus,CL Tryon,AC Kerr,1,0,,,,,,"",""
+ball,1,16.3,South Africa,CL Tryon,S Luus,AC Kerr,2,0,,,,,,"",""
+ball,1,16.4,South Africa,CL Tryon,S Luus,AC Kerr,1,0,,,,,,"",""
+ball,1,16.5,South Africa,S Luus,CL Tryon,AC Kerr,1,0,,,,,,"",""
+ball,1,16.6,South Africa,CL Tryon,S Luus,AC Kerr,0,0,,,,,,bowled,CL Tryon
+ball,1,17.1,South Africa,S Luus,N de Klerk,MM Penfold,1,0,,,,,,"",""
+ball,1,17.2,South Africa,N de Klerk,S Luus,MM Penfold,1,0,,,,,,"",""
+ball,1,17.3,South Africa,S Luus,N de Klerk,MM Penfold,4,0,,,,,,"",""
+ball,1,17.4,South Africa,S Luus,N de Klerk,MM Penfold,1,0,,,,,,"",""
+ball,1,17.5,South Africa,N de Klerk,S Luus,MM Penfold,0,0,,,,,,bowled,N de Klerk
+ball,1,17.6,South Africa,S Jafta,S Luus,MM Penfold,0,0,,,,,,"",""
+ball,1,18.1,South Africa,S Luus,S Jafta,AC Kerr,4,0,,,,,,"",""
+ball,1,18.2,South Africa,S Luus,S Jafta,AC Kerr,2,0,,,,,,"",""
+ball,1,18.3,South Africa,S Luus,S Jafta,AC Kerr,0,0,,,,,,"",""
+ball,1,18.4,South Africa,S Luus,S Jafta,AC Kerr,2,0,,,,,,"",""
+ball,1,18.5,South Africa,S Luus,S Jafta,AC Kerr,1,0,,,,,,"",""
+ball,1,18.6,South Africa,S Jafta,S Luus,AC Kerr,1,0,,,,,,"",""
+ball,1,19.1,South Africa,S Jafta,S Luus,SFM Devine,1,0,,,,,,"",""
+ball,1,19.2,South Africa,S Luus,S Jafta,SFM Devine,0,1,1,,,,,"",""
+ball,1,19.3,South Africa,S Luus,S Jafta,SFM Devine,1,0,,,,,,"",""
+ball,1,19.4,South Africa,S Jafta,S Luus,SFM Devine,1,0,,,,,,"",""
+ball,1,19.5,South Africa,S Luus,S Jafta,SFM Devine,4,0,,,,,,"",""
+ball,1,19.6,South Africa,S Luus,S Jafta,SFM Devine,0,0,,,,,,"",""
+ball,1,19.7,South Africa,S Luus,S Jafta,SFM Devine,4,0,,,,,,"",""
+ball,2,0.1,New Zealand,KG Anderson,SW Bates,N Mlaba,4,0,,,,,,"",""
+ball,2,0.2,New Zealand,KG Anderson,SW Bates,N Mlaba,1,0,,,,,,"",""
+ball,2,0.3,New Zealand,SW Bates,KG Anderson,N Mlaba,1,0,,,,,,"",""
+ball,2,0.4,New Zealand,KG Anderson,SW Bates,N Mlaba,0,0,,,,,,"",""
+ball,2,0.5,New Zealand,KG Anderson,SW Bates,N Mlaba,1,0,,,,,,"",""
+ball,2,0.6,New Zealand,SW Bates,KG Anderson,N Mlaba,0,0,,,,,,"",""
+ball,2,1.1,New Zealand,KG Anderson,SW Bates,A Khaka,0,0,,,,,,"",""
+ball,2,1.2,New Zealand,KG Anderson,SW Bates,A Khaka,0,0,,,,,,"",""
+ball,2,1.3,New Zealand,KG Anderson,SW Bates,A Khaka,1,0,,,,,,"",""
+ball,2,1.4,New Zealand,SW Bates,KG Anderson,A Khaka,0,0,,,,,,"",""
+ball,2,1.5,New Zealand,SW Bates,KG Anderson,A Khaka,1,0,,,,,,"",""
+ball,2,1.6,New Zealand,KG Anderson,SW Bates,A Khaka,0,0,,,,,,"",""
+ball,2,2.1,New Zealand,SW Bates,KG Anderson,M Klaas,0,0,,,,,,"",""
+ball,2,2.2,New Zealand,SW Bates,KG Anderson,M Klaas,2,0,,,,,,"",""
+ball,2,2.3,New Zealand,SW Bates,KG Anderson,M Klaas,4,0,,,,,,"",""
+ball,2,2.4,New Zealand,SW Bates,KG Anderson,M Klaas,1,0,,,,,,"",""
+ball,2,2.5,New Zealand,KG Anderson,SW Bates,M Klaas,4,0,,,,,,"",""
+ball,2,2.6,New Zealand,KG Anderson,SW Bates,M Klaas,0,0,,,,,,caught,KG Anderson
+ball,2,3.1,New Zealand,SW Bates,AC Kerr,N de Klerk,0,0,,,,,,"",""
+ball,2,3.2,New Zealand,SW Bates,AC Kerr,N de Klerk,4,0,,,,,,"",""
+ball,2,3.3,New Zealand,SW Bates,AC Kerr,N de Klerk,0,0,,,,,,"",""
+ball,2,3.4,New Zealand,SW Bates,AC Kerr,N de Klerk,0,1,,,,1,,"",""
+ball,2,3.5,New Zealand,AC Kerr,SW Bates,N de Klerk,0,0,,,,,,"",""
+ball,2,3.6,New Zealand,AC Kerr,SW Bates,N de Klerk,4,0,,,,,,"",""
+ball,2,4.1,New Zealand,SW Bates,AC Kerr,N Mlaba,1,0,,,,,,"",""
+ball,2,4.2,New Zealand,AC Kerr,SW Bates,N Mlaba,1,0,,,,,,"",""
+ball,2,4.3,New Zealand,SW Bates,AC Kerr,N Mlaba,0,0,,,,,,"",""
+ball,2,4.4,New Zealand,SW Bates,AC Kerr,N Mlaba,1,0,,,,,,"",""
+ball,2,4.5,New Zealand,AC Kerr,SW Bates,N Mlaba,4,0,,,,,,"",""
+ball,2,4.6,New Zealand,AC Kerr,SW Bates,N Mlaba,1,0,,,,,,"",""
+ball,2,5.1,New Zealand,AC Kerr,SW Bates,A Khaka,0,0,,,,,,"",""
+ball,2,5.2,New Zealand,AC Kerr,SW Bates,A Khaka,0,0,,,,,,"",""
+ball,2,5.3,New Zealand,AC Kerr,SW Bates,A Khaka,1,0,,,,,,"",""
+ball,2,5.4,New Zealand,SW Bates,AC Kerr,A Khaka,0,0,,,,,,"",""
+ball,2,5.5,New Zealand,SW Bates,AC Kerr,A Khaka,0,0,,,,,,"",""
+ball,2,5.6,New Zealand,SW Bates,AC Kerr,A Khaka,1,0,,,,,,"",""
+ball,2,6.1,New Zealand,SW Bates,AC Kerr,CL Tryon,1,0,,,,,,"",""
+ball,2,6.2,New Zealand,AC Kerr,SW Bates,CL Tryon,0,0,,,,,,"",""
+ball,2,6.3,New Zealand,AC Kerr,SW Bates,CL Tryon,1,0,,,,,,"",""
+ball,2,6.4,New Zealand,SW Bates,AC Kerr,CL Tryon,0,0,,,,,,"",""
+ball,2,6.5,New Zealand,SW Bates,AC Kerr,CL Tryon,1,0,,,,,,"",""
+ball,2,6.6,New Zealand,AC Kerr,SW Bates,CL Tryon,1,0,,,,,,"",""
+ball,2,7.1,New Zealand,AC Kerr,SW Bates,TS Sekhukhune,1,0,,,,,,"",""
+ball,2,7.2,New Zealand,SW Bates,AC Kerr,TS Sekhukhune,1,0,,,,,,"",""
+ball,2,7.3,New Zealand,AC Kerr,SW Bates,TS Sekhukhune,0,0,,,,,,"",""
+ball,2,7.4,New Zealand,AC Kerr,SW Bates,TS Sekhukhune,1,0,,,,,,"",""
+ball,2,7.5,New Zealand,SW Bates,AC Kerr,TS Sekhukhune,1,0,,,,,,"",""
+ball,2,7.6,New Zealand,AC Kerr,SW Bates,TS Sekhukhune,1,0,,,,,,"",""
+ball,2,8.1,New Zealand,AC Kerr,SW Bates,CL Tryon,1,0,,,,,,"",""
+ball,2,8.2,New Zealand,SW Bates,AC Kerr,CL Tryon,1,0,,,,,,"",""
+ball,2,8.3,New Zealand,AC Kerr,SW Bates,CL Tryon,4,0,,,,,,"",""
+ball,2,8.4,New Zealand,AC Kerr,SW Bates,CL Tryon,1,0,,,,,,"",""
+ball,2,8.5,New Zealand,SW Bates,AC Kerr,CL Tryon,1,0,,,,,,"",""
+ball,2,8.6,New Zealand,AC Kerr,SW Bates,CL Tryon,1,0,,,,,,"",""
+ball,2,9.1,New Zealand,AC Kerr,SW Bates,N de Klerk,0,0,,,,,,"",""
+ball,2,9.2,New Zealand,AC Kerr,SW Bates,N de Klerk,1,0,,,,,,"",""
+ball,2,9.3,New Zealand,SW Bates,AC Kerr,N de Klerk,0,0,,,,,,"",""
+ball,2,9.4,New Zealand,SW Bates,AC Kerr,N de Klerk,1,0,,,,,,"",""
+ball,2,9.5,New Zealand,AC Kerr,SW Bates,N de Klerk,1,0,,,,,,"",""
+ball,2,9.6,New Zealand,SW Bates,AC Kerr,N de Klerk,4,0,,,,,,"",""
+ball,2,10.1,New Zealand,AC Kerr,SW Bates,N Mlaba,0,0,,,,,,"",""
+ball,2,10.2,New Zealand,AC Kerr,SW Bates,N Mlaba,1,0,,,,,,"",""
+ball,2,10.3,New Zealand,SW Bates,AC Kerr,N Mlaba,1,0,,,,,,"",""
+ball,2,10.4,New Zealand,AC Kerr,SW Bates,N Mlaba,1,0,,,,,,"",""
+ball,2,10.5,New Zealand,SW Bates,AC Kerr,N Mlaba,0,0,,,,,,"",""
+ball,2,10.6,New Zealand,SW Bates,AC Kerr,N Mlaba,1,0,,,,,,"",""
+ball,2,11.1,New Zealand,SW Bates,AC Kerr,M Klaas,1,0,,,,,,"",""
+ball,2,11.2,New Zealand,AC Kerr,SW Bates,M Klaas,1,0,,,,,,"",""
+ball,2,11.3,New Zealand,SW Bates,AC Kerr,M Klaas,1,0,,,,,,"",""
+ball,2,11.4,New Zealand,AC Kerr,SW Bates,M Klaas,4,0,,,,,,"",""
+ball,2,11.5,New Zealand,AC Kerr,SW Bates,M Klaas,1,0,,,,,,"",""
+ball,2,11.6,New Zealand,SW Bates,AC Kerr,M Klaas,4,0,,,,,,"",""
+ball,2,12.1,New Zealand,AC Kerr,SW Bates,TS Sekhukhune,4,0,,,,,,"",""
+ball,2,12.2,New Zealand,AC Kerr,SW Bates,TS Sekhukhune,4,0,,,,,,"",""
+ball,2,12.3,New Zealand,AC Kerr,SW Bates,TS Sekhukhune,1,0,,,,,,"",""
+ball,2,12.4,New Zealand,SW Bates,AC Kerr,TS Sekhukhune,2,0,,,,,,"",""
+ball,2,12.5,New Zealand,SW Bates,AC Kerr,TS Sekhukhune,2,0,,,,,,"",""
+ball,2,12.6,New Zealand,SW Bates,AC Kerr,TS Sekhukhune,0,4,,,4,,,"",""
+ball,2,13.1,New Zealand,AC Kerr,SW Bates,CL Tryon,1,0,,,,,,"",""
+ball,2,13.2,New Zealand,SW Bates,AC Kerr,CL Tryon,1,0,,,,,,"",""
+ball,2,13.3,New Zealand,AC Kerr,SW Bates,CL Tryon,4,0,,,,,,"",""
+ball,2,13.4,New Zealand,AC Kerr,SW Bates,CL Tryon,0,0,,,,,,"",""
+ball,2,13.5,New Zealand,AC Kerr,SW Bates,CL Tryon,1,0,,,,,,"",""
+ball,2,13.6,New Zealand,SW Bates,AC Kerr,CL Tryon,4,0,,,,,,"",""
+ball,2,14.1,New Zealand,AC Kerr,SW Bates,N Mlaba,0,0,,,,,,"",""
+ball,2,14.2,New Zealand,AC Kerr,SW Bates,N Mlaba,0,0,,,,,,"",""
+ball,2,14.3,New Zealand,AC Kerr,SW Bates,N Mlaba,4,0,,,,,,"",""
+ball,2,14.4,New Zealand,AC Kerr,SW Bates,N Mlaba,0,0,,,,,,"",""
+ball,2,14.5,New Zealand,AC Kerr,SW Bates,N Mlaba,0,0,,,,,,"",""
+ball,2,14.6,New Zealand,AC Kerr,SW Bates,N Mlaba,0,0,,,,,,"",""
+ball,2,15.1,New Zealand,SW Bates,AC Kerr,N de Klerk,0,0,,,,,,"",""
+ball,2,15.2,New Zealand,SW Bates,AC Kerr,N de Klerk,1,0,,,,,,"",""
+ball,2,15.3,New Zealand,AC Kerr,SW Bates,N de Klerk,0,1,1,,,,,"",""
+ball,2,15.4,New Zealand,AC Kerr,SW Bates,N de Klerk,2,0,,,,,,"",""
+ball,2,15.5,New Zealand,AC Kerr,SW Bates,N de Klerk,1,0,,,,,,"",""
+ball,2,15.6,New Zealand,SW Bates,AC Kerr,N de Klerk,0,0,,,,,,lbw,SW Bates
+ball,2,15.7,New Zealand,SFM Devine,AC Kerr,N de Klerk,1,0,,,,,,"",""
+ball,2,16.1,New Zealand,SFM Devine,AC Kerr,A Khaka,1,0,,,,,,"",""
+ball,2,16.2,New Zealand,AC Kerr,SFM Devine,A Khaka,1,0,,,,,,"",""
+ball,2,16.3,New Zealand,SFM Devine,AC Kerr,A Khaka,4,0,,,,,,"",""
+ball,2,16.4,New Zealand,SFM Devine,AC Kerr,A Khaka,1,0,,,,,,"",""
+ball,2,16.5,New Zealand,AC Kerr,SFM Devine,A Khaka,4,0,,,,,,"",""
+ball,2,16.6,New Zealand,AC Kerr,SFM Devine,A Khaka,1,0,,,,,,"",""
+ball,2,17.1,New Zealand,AC Kerr,SFM Devine,M Klaas,0,0,,,,,,caught,AC Kerr
+ball,2,17.2,New Zealand,ML Green,SFM Devine,M Klaas,0,1,1,,,,,"",""
+ball,2,17.3,New Zealand,ML Green,SFM Devine,M Klaas,1,0,,,,,,"",""
+ball,2,17.4,New Zealand,SFM Devine,ML Green,M Klaas,1,0,,,,,,"",""
+ball,2,17.5,New Zealand,ML Green,SFM Devine,M Klaas,0,1,,,,1,,"",""
+ball,2,17.6,New Zealand,SFM Devine,ML Green,M Klaas,0,0,,,,,,caught,SFM Devine
+ball,2,17.7,New Zealand,BM Halliday,ML Green,M Klaas,0,0,,,,,,"",""
+ball,2,18.1,New Zealand,ML Green,BM Halliday,N de Klerk,0,0,,,,,,caught,ML Green
+ball,2,18.2,New Zealand,GE Plimmer,BM Halliday,N de Klerk,0,0,,,,,,"",""
+ball,2,18.3,New Zealand,GE Plimmer,BM Halliday,N de Klerk,0,1,1,,,,,"",""
+ball,2,18.4,New Zealand,GE Plimmer,BM Halliday,N de Klerk,1,0,,,,,,"",""
+ball,2,18.5,New Zealand,BM Halliday,GE Plimmer,N de Klerk,1,0,,,,,,run out,BM Halliday
+ball,2,18.6,New Zealand,LMM Tahuhu,GE Plimmer,N de Klerk,0,0,,,,,,bowled,LMM Tahuhu
+ball,2,18.7,New Zealand,MM Penfold,GE Plimmer,N de Klerk,0,0,,,,,,"",""
+ball,2,19.1,New Zealand,GE Plimmer,MM Penfold,A Khaka,1,0,,,,,,"",""
+ball,2,19.2,New Zealand,MM Penfold,GE Plimmer,A Khaka,0,0,,,,,,bowled,MM Penfold
+ball,2,19.3,New Zealand,EJ Carson,GE Plimmer,A Khaka,2,0,,,,,,"",""
+ball,2,19.4,New Zealand,EJ Carson,GE Plimmer,A Khaka,1,0,,,,,,"",""
+ball,2,19.5,New Zealand,GE Plimmer,EJ Carson,A Khaka,2,0,,,,,,"",""
+ball,2,19.6,New Zealand,GE Plimmer,EJ Carson,A Khaka,1,0,,,,,,"",""

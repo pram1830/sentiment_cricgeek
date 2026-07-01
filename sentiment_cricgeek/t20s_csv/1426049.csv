@@ -1,0 +1,336 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Papua New Guinea
+info,gender,female
+info,season,2023/24
+info,date,2024/03/31
+info,event,Papua New Guinea Women tour of Zimbabwe
+info,match_number,2
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,player_of_match,P Siaka
+info,umpire,I Chabi
+info,umpire,S Dambanevana
+info,reserve_umpire,F Mutizwa
+info,match_referee,O Chirombe
+info,outcome,tie
+info,eliminator,Papua New Guinea
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,P Marange
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,L Phiri
+info,player,Zimbabwe,F Chipare
+info,player,Zimbabwe,N Sibanda
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,K Frank
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,GP Tom
+info,player,Papua New Guinea,D Lohia
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,D Lohia,01341439
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GP Tom,88bcd09d
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Toua,83cde44d
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Frank,f7e96532
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Phiri,cca8bdca
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,N Vare,20ace887
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,P Siaka,595433d2
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,V Araa,040f11e8
+ball,1,0.1,Zimbabwe,K Ndlovu,M Mupachikwa,GP Tom,0,1,1,,,,,"",""
+ball,1,0.2,Zimbabwe,K Ndlovu,M Mupachikwa,GP Tom,4,1,,1,,,,"",""
+ball,1,0.3,Zimbabwe,K Ndlovu,M Mupachikwa,GP Tom,4,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,K Ndlovu,M Mupachikwa,GP Tom,1,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,M Mupachikwa,K Ndlovu,GP Tom,1,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,K Ndlovu,M Mupachikwa,GP Tom,0,0,,,,,,"",""
+ball,1,0.7,Zimbabwe,K Ndlovu,M Mupachikwa,GP Tom,4,0,,,,,,"",""
+ball,1,0.8,Zimbabwe,K Ndlovu,M Mupachikwa,GP Tom,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,M Mupachikwa,K Ndlovu,S Jimmy,0,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,M Mupachikwa,K Ndlovu,S Jimmy,0,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,M Mupachikwa,K Ndlovu,S Jimmy,0,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,M Mupachikwa,K Ndlovu,S Jimmy,0,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,M Mupachikwa,K Ndlovu,S Jimmy,1,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,K Ndlovu,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,M Mupachikwa,K Ndlovu,HJ Thomas,0,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,M Mupachikwa,K Ndlovu,HJ Thomas,0,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,M Mupachikwa,K Ndlovu,HJ Thomas,1,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,K Ndlovu,M Mupachikwa,HJ Thomas,0,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,K Ndlovu,M Mupachikwa,HJ Thomas,0,0,,,,,,bowled,K Ndlovu
+ball,1,2.6,Zimbabwe,P Mujaji,M Mupachikwa,HJ Thomas,1,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,P Mujaji,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,P Mujaji,M Mupachikwa,S Jimmy,4,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,P Mujaji,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,P Mujaji,M Mupachikwa,S Jimmy,0,0,,,,,,caught,P Mujaji
+ball,1,3.5,Zimbabwe,M Musonda,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,M Musonda,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,M Mupachikwa,M Musonda,HJ Thomas,4,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,M Mupachikwa,M Musonda,HJ Thomas,1,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,M Musonda,M Mupachikwa,HJ Thomas,1,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,M Mupachikwa,M Musonda,HJ Thomas,1,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,M Musonda,M Mupachikwa,HJ Thomas,0,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,M Musonda,M Mupachikwa,HJ Thomas,0,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,M Mupachikwa,M Musonda,S Jimmy,1,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,M Musonda,M Mupachikwa,S Jimmy,4,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,M Musonda,M Mupachikwa,S Jimmy,4,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,M Musonda,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,M Musonda,M Mupachikwa,S Jimmy,4,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,M Musonda,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,M Mupachikwa,M Musonda,HJ Thomas,0,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,M Mupachikwa,M Musonda,HJ Thomas,2,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,M Mupachikwa,M Musonda,HJ Thomas,1,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,M Musonda,M Mupachikwa,HJ Thomas,1,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,M Mupachikwa,M Musonda,HJ Thomas,1,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,M Musonda,M Mupachikwa,HJ Thomas,1,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,M Musonda,M Mupachikwa,V Araa,1,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,M Mupachikwa,M Musonda,V Araa,0,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,M Mupachikwa,M Musonda,V Araa,4,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,M Mupachikwa,M Musonda,V Araa,4,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,M Mupachikwa,M Musonda,V Araa,0,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,M Mupachikwa,M Musonda,V Araa,1,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,M Mupachikwa,M Musonda,I Toua,1,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,M Musonda,M Mupachikwa,I Toua,0,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,M Musonda,M Mupachikwa,I Toua,0,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,M Musonda,M Mupachikwa,I Toua,1,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,M Mupachikwa,M Musonda,I Toua,1,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,M Musonda,M Mupachikwa,I Toua,0,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,1,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,0,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,1,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,0,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,0,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,0,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,M Musonda,M Mupachikwa,I Toua,1,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,M Mupachikwa,M Musonda,I Toua,0,0,,,,,,"",""
+ball,1,10.3,Zimbabwe,M Mupachikwa,M Musonda,I Toua,1,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,M Musonda,M Mupachikwa,I Toua,4,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,M Musonda,M Mupachikwa,I Toua,4,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,M Musonda,M Mupachikwa,I Toua,2,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,0,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,0,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,1,0,,,,,,"",""
+ball,1,11.4,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,0,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,0,0,,,,,,"",""
+ball,1,11.6,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,1,0,,,,,,"",""
+ball,1,12.1,Zimbabwe,M Musonda,M Mupachikwa,V Araa,1,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,M Mupachikwa,M Musonda,V Araa,0,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,M Mupachikwa,M Musonda,V Araa,1,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,M Musonda,M Mupachikwa,V Araa,0,0,,,,,,"",""
+ball,1,12.5,Zimbabwe,M Musonda,M Mupachikwa,V Araa,1,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,M Mupachikwa,M Musonda,V Araa,0,0,,,,,,"",""
+ball,1,13.1,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,1,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,0,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,1,0,,,,,,"",""
+ball,1,13.4,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,2,0,,,,,,"",""
+ball,1,13.5,Zimbabwe,M Musonda,M Mupachikwa,D Lohia,1,0,,,,,,"",""
+ball,1,13.6,Zimbabwe,M Mupachikwa,M Musonda,D Lohia,1,0,,,,,,"",""
+ball,1,14.1,Zimbabwe,M Musonda,M Mupachikwa,V Araa,1,0,,,,,,"",""
+ball,1,14.2,Zimbabwe,M Mupachikwa,M Musonda,V Araa,1,0,,,,,,"",""
+ball,1,14.3,Zimbabwe,M Musonda,M Mupachikwa,V Araa,0,0,,,,,,caught,M Musonda
+ball,1,14.4,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,1,1,,,,,"",""
+ball,1,14.5,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,0,,,,,,"",""
+ball,1,14.6,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,0,,,,,,"",""
+ball,1,14.7,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,1,1,,,,,"",""
+ball,1,14.8,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,M Mupachikwa,J Nkomo,D Lohia,0,0,,,,,,"",""
+ball,1,15.2,Zimbabwe,M Mupachikwa,J Nkomo,D Lohia,4,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,M Mupachikwa,J Nkomo,D Lohia,1,0,,,,,,"",""
+ball,1,15.4,Zimbabwe,J Nkomo,M Mupachikwa,D Lohia,2,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,J Nkomo,M Mupachikwa,D Lohia,1,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,M Mupachikwa,J Nkomo,D Lohia,2,0,,,,,,"",""
+ball,1,16.1,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,1,1,,,,,"",""
+ball,1,16.3,Zimbabwe,J Nkomo,M Mupachikwa,V Araa,0,0,,,,,,stumped,J Nkomo
+ball,1,16.4,Zimbabwe,CT Dhururu,M Mupachikwa,V Araa,0,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,CT Dhururu,M Mupachikwa,V Araa,1,0,,,,,,"",""
+ball,1,16.6,Zimbabwe,M Mupachikwa,CT Dhururu,V Araa,1,0,,,,,,"",""
+ball,1,16.7,Zimbabwe,CT Dhururu,M Mupachikwa,V Araa,0,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,M Mupachikwa,CT Dhururu,I Toua,0,0,,,,,,run out,CT Dhururu
+ball,1,17.2,Zimbabwe,P Marange,M Mupachikwa,I Toua,0,0,,,,,,"",""
+ball,1,17.3,Zimbabwe,P Marange,M Mupachikwa,I Toua,0,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,P Marange,M Mupachikwa,I Toua,0,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,P Marange,M Mupachikwa,I Toua,2,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,P Marange,M Mupachikwa,I Toua,1,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,P Marange,M Mupachikwa,HJ Thomas,1,0,,,,,,"",""
+ball,1,18.2,Zimbabwe,M Mupachikwa,P Marange,HJ Thomas,2,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,M Mupachikwa,P Marange,HJ Thomas,2,0,,,,,,"",""
+ball,1,18.4,Zimbabwe,M Mupachikwa,P Marange,HJ Thomas,1,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,P Marange,M Mupachikwa,HJ Thomas,1,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,M Mupachikwa,P Marange,HJ Thomas,0,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,P Marange,M Mupachikwa,S Jimmy,0,1,1,,,,,"",""
+ball,1,19.2,Zimbabwe,P Marange,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,19.3,Zimbabwe,P Marange,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,19.4,Zimbabwe,P Marange,M Mupachikwa,S Jimmy,0,0,,,,,,caught,P Marange
+ball,1,19.5,Zimbabwe,L Tshuma,M Mupachikwa,S Jimmy,0,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,L Tshuma,M Mupachikwa,S Jimmy,2,0,,,,,,"",""
+ball,1,19.7,Zimbabwe,L Tshuma,M Mupachikwa,S Jimmy,0,2,,,,2,,"",""
+ball,2,0.1,Papua New Guinea,S Jimmy,N Vare,J Nkomo,0,0,,,,,,"",""
+ball,2,0.2,Papua New Guinea,S Jimmy,N Vare,J Nkomo,0,0,,,,,,"",""
+ball,2,0.3,Papua New Guinea,S Jimmy,N Vare,J Nkomo,2,0,,,,,,"",""
+ball,2,0.4,Papua New Guinea,S Jimmy,N Vare,J Nkomo,1,0,,,,,,"",""
+ball,2,0.5,Papua New Guinea,N Vare,S Jimmy,J Nkomo,0,0,,,,,,"",""
+ball,2,0.6,Papua New Guinea,N Vare,S Jimmy,J Nkomo,0,0,,,,,,"",""
+ball,2,1.1,Papua New Guinea,S Jimmy,N Vare,N Sibanda,0,0,,,,,,"",""
+ball,2,1.2,Papua New Guinea,S Jimmy,N Vare,N Sibanda,2,0,,,,,,"",""
+ball,2,1.3,Papua New Guinea,S Jimmy,N Vare,N Sibanda,1,0,,,,,,"",""
+ball,2,1.4,Papua New Guinea,N Vare,S Jimmy,N Sibanda,0,0,,,,,,"",""
+ball,2,1.5,Papua New Guinea,N Vare,S Jimmy,N Sibanda,1,0,,,,,,"",""
+ball,2,1.6,Papua New Guinea,S Jimmy,N Vare,N Sibanda,0,0,,,,,,"",""
+ball,2,2.1,Papua New Guinea,N Vare,S Jimmy,J Nkomo,0,0,,,,,,"",""
+ball,2,2.2,Papua New Guinea,N Vare,S Jimmy,J Nkomo,0,0,,,,,,"",""
+ball,2,2.3,Papua New Guinea,N Vare,S Jimmy,J Nkomo,0,0,,,,,,"",""
+ball,2,2.4,Papua New Guinea,N Vare,S Jimmy,J Nkomo,1,0,,,,,,"",""
+ball,2,2.5,Papua New Guinea,S Jimmy,N Vare,J Nkomo,0,1,1,,,,,"",""
+ball,2,2.6,Papua New Guinea,S Jimmy,N Vare,J Nkomo,0,5,5,,,,,"",""
+ball,2,2.7,Papua New Guinea,S Jimmy,N Vare,J Nkomo,0,0,,,,,,"",""
+ball,2,2.8,Papua New Guinea,S Jimmy,N Vare,J Nkomo,0,1,,,,1,,"",""
+ball,2,3.1,Papua New Guinea,S Jimmy,N Vare,N Sibanda,0,0,,,,,,"",""
+ball,2,3.2,Papua New Guinea,S Jimmy,N Vare,N Sibanda,1,0,,,,,,"",""
+ball,2,3.3,Papua New Guinea,N Vare,S Jimmy,N Sibanda,0,0,,,,,,"",""
+ball,2,3.4,Papua New Guinea,N Vare,S Jimmy,N Sibanda,2,0,,,,,,"",""
+ball,2,3.5,Papua New Guinea,N Vare,S Jimmy,N Sibanda,1,0,,,,,,"",""
+ball,2,3.6,Papua New Guinea,S Jimmy,N Vare,N Sibanda,1,0,,,,,,"",""
+ball,2,4.1,Papua New Guinea,S Jimmy,N Vare,P Marange,2,0,,,,,,"",""
+ball,2,4.2,Papua New Guinea,S Jimmy,N Vare,P Marange,0,0,,,,,,"",""
+ball,2,4.3,Papua New Guinea,S Jimmy,N Vare,P Marange,0,0,,,,,,"",""
+ball,2,4.4,Papua New Guinea,S Jimmy,N Vare,P Marange,1,0,,,,,,"",""
+ball,2,4.5,Papua New Guinea,N Vare,S Jimmy,P Marange,0,0,,,,,,"",""
+ball,2,4.6,Papua New Guinea,N Vare,S Jimmy,P Marange,0,0,,,,,,"",""
+ball,2,5.1,Papua New Guinea,S Jimmy,N Vare,F Chipare,0,1,1,,,,,"",""
+ball,2,5.2,Papua New Guinea,S Jimmy,N Vare,F Chipare,4,0,,,,,,"",""
+ball,2,5.3,Papua New Guinea,S Jimmy,N Vare,F Chipare,0,0,,,,,,caught,S Jimmy
+ball,2,5.4,Papua New Guinea,T Ruma,N Vare,F Chipare,0,1,1,,,,,"",""
+ball,2,5.5,Papua New Guinea,T Ruma,N Vare,F Chipare,2,0,,,,,,"",""
+ball,2,5.6,Papua New Guinea,T Ruma,N Vare,F Chipare,0,1,1,,,,,"",""
+ball,2,5.7,Papua New Guinea,T Ruma,N Vare,F Chipare,1,0,,,,,,"",""
+ball,2,5.8,Papua New Guinea,N Vare,T Ruma,F Chipare,0,0,,,,,,"",""
+ball,2,5.9,Papua New Guinea,N Vare,T Ruma,F Chipare,0,0,,,,,,"",""
+ball,2,6.1,Papua New Guinea,T Ruma,N Vare,P Marange,0,1,1,,,,,"",""
+ball,2,6.2,Papua New Guinea,T Ruma,N Vare,P Marange,0,0,,,,,,"",""
+ball,2,6.3,Papua New Guinea,T Ruma,N Vare,P Marange,0,0,,,,,,"",""
+ball,2,6.4,Papua New Guinea,T Ruma,N Vare,P Marange,0,0,,,,,,"",""
+ball,2,6.5,Papua New Guinea,T Ruma,N Vare,P Marange,0,0,,,,,,caught,T Ruma
+ball,2,6.6,Papua New Guinea,B Tau,N Vare,P Marange,0,0,,,,,,"",""
+ball,2,6.7,Papua New Guinea,B Tau,N Vare,P Marange,0,0,,,,,,"",""
+ball,2,7.1,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,1,1,,,,,"",""
+ball,2,7.2,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,0,,,,,,"",""
+ball,2,7.3,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,0,,,,,,"",""
+ball,2,7.4,Papua New Guinea,N Vare,B Tau,K Ndlovu,4,0,,,,,,"",""
+ball,2,7.5,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,0,,,,,,"",""
+ball,2,7.6,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,0,,,,,,"",""
+ball,2,7.7,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,0,,,,,,"",""
+ball,2,8.1,Papua New Guinea,B Tau,N Vare,L Tshuma,0,0,,,,,,"",""
+ball,2,8.2,Papua New Guinea,B Tau,N Vare,L Tshuma,1,0,,,,,,"",""
+ball,2,8.3,Papua New Guinea,N Vare,B Tau,L Tshuma,0,0,,,,,,"",""
+ball,2,8.4,Papua New Guinea,N Vare,B Tau,L Tshuma,1,0,,,,,,"",""
+ball,2,8.5,Papua New Guinea,B Tau,N Vare,L Tshuma,0,0,,,,,,"",""
+ball,2,8.6,Papua New Guinea,B Tau,N Vare,L Tshuma,1,0,,,,,,"",""
+ball,2,9.1,Papua New Guinea,B Tau,N Vare,K Ndlovu,1,0,,,,,,"",""
+ball,2,9.2,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,1,1,,,,,"",""
+ball,2,9.3,Papua New Guinea,N Vare,B Tau,K Ndlovu,1,0,,,,,,"",""
+ball,2,9.4,Papua New Guinea,B Tau,N Vare,K Ndlovu,0,3,3,,,,,"",""
+ball,2,9.5,Papua New Guinea,B Tau,N Vare,K Ndlovu,0,0,,,,,,"",""
+ball,2,9.6,Papua New Guinea,B Tau,N Vare,K Ndlovu,0,0,,,,,,"",""
+ball,2,9.7,Papua New Guinea,B Tau,N Vare,K Ndlovu,1,0,,,,,,"",""
+ball,2,9.8,Papua New Guinea,N Vare,B Tau,K Ndlovu,0,0,,,,,,"",""
+ball,2,10.1,Papua New Guinea,B Tau,N Vare,L Tshuma,2,0,,,,,,"",""
+ball,2,10.2,Papua New Guinea,B Tau,N Vare,L Tshuma,4,0,,,,,,"",""
+ball,2,10.3,Papua New Guinea,B Tau,N Vare,L Tshuma,0,0,,,,,,"",""
+ball,2,10.4,Papua New Guinea,B Tau,N Vare,L Tshuma,2,0,,,,,,"",""
+ball,2,10.5,Papua New Guinea,B Tau,N Vare,L Tshuma,0,0,,,,,,"",""
+ball,2,10.6,Papua New Guinea,B Tau,N Vare,L Tshuma,1,0,,,,,,"",""
+ball,2,11.1,Papua New Guinea,B Tau,N Vare,N Sibanda,4,0,,,,,,"",""
+ball,2,11.2,Papua New Guinea,B Tau,N Vare,N Sibanda,0,0,,,,,,caught and bowled,B Tau
+ball,2,11.3,Papua New Guinea,P Siaka,N Vare,N Sibanda,2,0,,,,,,"",""
+ball,2,11.4,Papua New Guinea,P Siaka,N Vare,N Sibanda,0,0,,,,,,"",""
+ball,2,11.5,Papua New Guinea,P Siaka,N Vare,N Sibanda,1,0,,,,,,"",""
+ball,2,11.6,Papua New Guinea,N Vare,P Siaka,N Sibanda,0,0,,,,,,"",""
+ball,2,12.1,Papua New Guinea,P Siaka,N Vare,L Phiri,1,0,,,,,,"",""
+ball,2,12.2,Papua New Guinea,N Vare,P Siaka,L Phiri,0,0,,,,,,"",""
+ball,2,12.3,Papua New Guinea,N Vare,P Siaka,L Phiri,0,0,,,,,,"",""
+ball,2,12.4,Papua New Guinea,N Vare,P Siaka,L Phiri,0,0,,,,,,"",""
+ball,2,12.5,Papua New Guinea,N Vare,P Siaka,L Phiri,2,0,,,,,,"",""
+ball,2,12.6,Papua New Guinea,N Vare,P Siaka,L Phiri,0,0,,,,,,"",""
+ball,2,13.1,Papua New Guinea,P Siaka,N Vare,F Chipare,2,0,,,,,,"",""
+ball,2,13.2,Papua New Guinea,P Siaka,N Vare,F Chipare,0,0,,,,,,"",""
+ball,2,13.3,Papua New Guinea,P Siaka,N Vare,F Chipare,2,0,,,,,,"",""
+ball,2,13.4,Papua New Guinea,P Siaka,N Vare,F Chipare,1,0,,,,,,"",""
+ball,2,13.5,Papua New Guinea,N Vare,P Siaka,F Chipare,2,0,,,,,,"",""
+ball,2,13.6,Papua New Guinea,N Vare,P Siaka,F Chipare,1,0,,,,,,"",""
+ball,2,14.1,Papua New Guinea,N Vare,P Siaka,L Tshuma,0,2,,,2,,,"",""
+ball,2,14.2,Papua New Guinea,N Vare,P Siaka,L Tshuma,0,0,,,,,,"",""
+ball,2,14.3,Papua New Guinea,N Vare,P Siaka,L Tshuma,0,0,,,,,,"",""
+ball,2,14.4,Papua New Guinea,N Vare,P Siaka,L Tshuma,1,0,,,,,,"",""
+ball,2,14.5,Papua New Guinea,P Siaka,N Vare,L Tshuma,0,0,,,,,,"",""
+ball,2,14.6,Papua New Guinea,P Siaka,N Vare,L Tshuma,1,0,,,,,,"",""
+ball,2,15.1,Papua New Guinea,P Siaka,N Vare,J Nkomo,0,0,,,,,,"",""
+ball,2,15.2,Papua New Guinea,P Siaka,N Vare,J Nkomo,1,0,,,,,,"",""
+ball,2,15.3,Papua New Guinea,N Vare,P Siaka,J Nkomo,1,0,,,,,,"",""
+ball,2,15.4,Papua New Guinea,P Siaka,N Vare,J Nkomo,0,0,,,,,,"",""
+ball,2,15.5,Papua New Guinea,P Siaka,N Vare,J Nkomo,4,0,,,,,,"",""
+ball,2,15.6,Papua New Guinea,P Siaka,N Vare,J Nkomo,2,0,,,,,,"",""
+ball,2,16.1,Papua New Guinea,N Vare,P Siaka,N Sibanda,1,0,,,,,,"",""
+ball,2,16.2,Papua New Guinea,P Siaka,N Vare,N Sibanda,2,0,,,,,,"",""
+ball,2,16.3,Papua New Guinea,P Siaka,N Vare,N Sibanda,0,0,,,,,,"",""
+ball,2,16.4,Papua New Guinea,P Siaka,N Vare,N Sibanda,0,0,,,,,,"",""
+ball,2,16.5,Papua New Guinea,P Siaka,N Vare,N Sibanda,2,0,,,,,,"",""
+ball,2,16.6,Papua New Guinea,P Siaka,N Vare,N Sibanda,4,0,,,,,,"",""
+ball,2,17.1,Papua New Guinea,N Vare,P Siaka,F Chipare,1,0,,,,,,"",""
+ball,2,17.2,Papua New Guinea,P Siaka,N Vare,F Chipare,0,0,,,,,,"",""
+ball,2,17.3,Papua New Guinea,P Siaka,N Vare,F Chipare,1,0,,,,,,"",""
+ball,2,17.4,Papua New Guinea,N Vare,P Siaka,F Chipare,2,0,,,,,,"",""
+ball,2,17.5,Papua New Guinea,N Vare,P Siaka,F Chipare,0,0,,,,,,"",""
+ball,2,17.6,Papua New Guinea,N Vare,P Siaka,F Chipare,0,0,,,,,,"",""
+ball,2,18.1,Papua New Guinea,P Siaka,N Vare,J Nkomo,0,0,,,,,,"",""
+ball,2,18.2,Papua New Guinea,P Siaka,N Vare,J Nkomo,1,0,,,,,,run out,N Vare
+ball,2,18.3,Papua New Guinea,P Siaka,K Frank,J Nkomo,0,0,,,,,,"",""
+ball,2,18.4,Papua New Guinea,P Siaka,K Frank,J Nkomo,0,0,,,,,,"",""
+ball,2,18.5,Papua New Guinea,P Siaka,K Frank,J Nkomo,2,0,,,,,,"",""
+ball,2,18.6,Papua New Guinea,P Siaka,K Frank,J Nkomo,1,0,,,,,,"",""
+ball,2,19.1,Papua New Guinea,P Siaka,K Frank,F Chipare,4,0,,,,,,"",""
+ball,2,19.2,Papua New Guinea,P Siaka,K Frank,F Chipare,2,0,,,,,,"",""
+ball,2,19.3,Papua New Guinea,P Siaka,K Frank,F Chipare,0,1,1,,,,,"",""
+ball,2,19.4,Papua New Guinea,P Siaka,K Frank,F Chipare,2,0,,,,,,"",""
+ball,2,19.5,Papua New Guinea,P Siaka,K Frank,F Chipare,4,0,,,,,,"",""
+ball,2,19.6,Papua New Guinea,P Siaka,K Frank,F Chipare,1,0,,,,,,run out,P Siaka
+ball,2,19.7,Papua New Guinea,I Toua,K Frank,F Chipare,0,0,,,,,,run out,K Frank
+ball,3,0.1,Papua New Guinea,P Siaka,S Jimmy,J Nkomo,2,0,,,,,,"",""
+ball,3,0.2,Papua New Guinea,P Siaka,S Jimmy,J Nkomo,0,0,,,,,,"",""
+ball,3,0.3,Papua New Guinea,P Siaka,S Jimmy,J Nkomo,1,0,,,,,,"",""
+ball,3,0.4,Papua New Guinea,S Jimmy,P Siaka,J Nkomo,0,0,,,,,,"",""
+ball,3,0.5,Papua New Guinea,S Jimmy,P Siaka,J Nkomo,2,0,,,,,,"",""
+ball,3,0.6,Papua New Guinea,S Jimmy,P Siaka,J Nkomo,2,0,,,,,,"",""
+ball,4,0.1,Zimbabwe,K Ndlovu,M Musonda,S Jimmy,0,0,,,,,,"",""
+ball,4,0.2,Zimbabwe,K Ndlovu,M Musonda,S Jimmy,1,0,,,,,,"",""
+ball,4,0.3,Zimbabwe,M Musonda,K Ndlovu,S Jimmy,2,0,,,,,,"",""
+ball,4,0.4,Zimbabwe,M Musonda,K Ndlovu,S Jimmy,1,0,,,,,,"",""
+ball,4,0.5,Zimbabwe,K Ndlovu,M Musonda,S Jimmy,2,0,,,,,,"",""
+ball,4,0.6,Zimbabwe,K Ndlovu,M Musonda,S Jimmy,0,0,,,,,,"",""

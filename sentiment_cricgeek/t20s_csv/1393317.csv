@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Tanzania
+info,gender,male
+info,season,2023
+info,date,2023/08/28
+info,event,East Africa Cup
+info,match_number,13
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,AR Ramjani
+info,umpire,EH Dusabemungu
+info,umpire,V Iriho
+info,reserve_umpire,Norbert Abii
+info,winner,Uganda
+info,winner_runs,59
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Lutaaya
+info,player,Uganda,RB Patel
+info,player,Uganda,AR Ramjani
+info,player,Uganda,K Waiswa
+info,player,Uganda,B Masaba
+info,player,Uganda,CN Kakuru
+info,player,Uganda,J Sebanja
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,Bilal Hassun
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,Shaik Basha
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,JJ Nyambo
+info,player,Tanzania,YM Nkanya
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,EH Dusabemungu,ba3b4b09
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Sebanja,1e78c51c
+info,registry,people,JJ Nyambo,ffb3b559
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Norbert Abii,ed06cf51
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Shaik Basha,1b77c4c6
+info,registry,people,V Iriho,2853eafb
+info,registry,people,YM Nkanya,9238dd92
+ball,1,0.1,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,0.2,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,0.3,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,1,0,,,,,,"",""
+ball,1,0.4,Uganda,S Sesazi,RG Mukasa,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,0.5,Uganda,S Sesazi,RG Mukasa,M Yunusu Issa,1,0,,,,,,"",""
+ball,1,0.6,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,1.1,Uganda,S Sesazi,RG Mukasa,SA Jumbe,1,0,,,,,,"",""
+ball,1,1.2,Uganda,RG Mukasa,S Sesazi,SA Jumbe,1,0,,,,,,"",""
+ball,1,1.3,Uganda,S Sesazi,RG Mukasa,SA Jumbe,1,0,,,,,,"",""
+ball,1,1.4,Uganda,RG Mukasa,S Sesazi,SA Jumbe,4,0,,,,,,"",""
+ball,1,1.5,Uganda,RG Mukasa,S Sesazi,SA Jumbe,0,0,,,,,,"",""
+ball,1,1.6,Uganda,RG Mukasa,S Sesazi,SA Jumbe,0,0,,,,,,"",""
+ball,1,2.1,Uganda,S Sesazi,RG Mukasa,M Yunusu Issa,1,0,,,,,,"",""
+ball,1,2.2,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,1,0,,,,,,"",""
+ball,1,2.3,Uganda,S Sesazi,RG Mukasa,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,2.4,Uganda,S Sesazi,RG Mukasa,M Yunusu Issa,1,0,,,,,,"",""
+ball,1,2.5,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,4,0,,,,,,"",""
+ball,1,2.6,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,3.1,Uganda,S Sesazi,RG Mukasa,SA Jumbe,0,0,,,,,,"",""
+ball,1,3.2,Uganda,S Sesazi,RG Mukasa,SA Jumbe,0,0,,,,,,"",""
+ball,1,3.3,Uganda,S Sesazi,RG Mukasa,SA Jumbe,4,0,,,,,,"",""
+ball,1,3.4,Uganda,S Sesazi,RG Mukasa,SA Jumbe,1,0,,,,,,"",""
+ball,1,3.5,Uganda,RG Mukasa,S Sesazi,SA Jumbe,1,0,,,,,,"",""
+ball,1,3.6,Uganda,S Sesazi,RG Mukasa,SA Jumbe,6,0,,,,,,"",""
+ball,1,4.1,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,4,0,,,,,,"",""
+ball,1,4.2,Uganda,RG Mukasa,S Sesazi,M Yunusu Issa,0,0,,,,,,caught,RG Mukasa
+ball,1,4.3,Uganda,R Lutaaya,S Sesazi,M Yunusu Issa,0,0,,,,,,caught,R Lutaaya
+ball,1,4.4,Uganda,RB Patel,S Sesazi,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,4.5,Uganda,RB Patel,S Sesazi,M Yunusu Issa,0,0,,,,,,"",""
+ball,1,4.6,Uganda,RB Patel,S Sesazi,M Yunusu Issa,4,0,,,,,,"",""
+ball,1,5.1,Uganda,S Sesazi,RB Patel,AM Kimote,1,0,,,,,,"",""
+ball,1,5.2,Uganda,RB Patel,S Sesazi,AM Kimote,1,0,,,,,,"",""
+ball,1,5.3,Uganda,S Sesazi,RB Patel,AM Kimote,0,0,,,,,,"",""
+ball,1,5.4,Uganda,S Sesazi,RB Patel,AM Kimote,4,0,,,,,,"",""
+ball,1,5.5,Uganda,S Sesazi,RB Patel,AM Kimote,1,0,,,,,,"",""
+ball,1,5.6,Uganda,RB Patel,S Sesazi,AM Kimote,0,0,,,,,,"",""
+ball,1,6.1,Uganda,S Sesazi,RB Patel,JJ Nyambo,0,0,,,,,,caught and bowled,S Sesazi
+ball,1,6.2,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,0,,,,,,"",""
+ball,1,6.3,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,0,,,,,,"",""
+ball,1,6.4,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,0,,,,,,"",""
+ball,1,6.5,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,1,1,,,,,"",""
+ball,1,6.6,Uganda,AR Ramjani,RB Patel,JJ Nyambo,1,0,,,,,,"",""
+ball,1,6.7,Uganda,RB Patel,AR Ramjani,JJ Nyambo,0,0,,,,,,"",""
+ball,1,7.1,Uganda,AR Ramjani,RB Patel,YM Nkanya,1,0,,,,,,"",""
+ball,1,7.2,Uganda,RB Patel,AR Ramjani,YM Nkanya,1,0,,,,,,"",""
+ball,1,7.3,Uganda,AR Ramjani,RB Patel,YM Nkanya,1,0,,,,,,"",""
+ball,1,7.4,Uganda,RB Patel,AR Ramjani,YM Nkanya,0,0,,,,,,"",""
+ball,1,7.5,Uganda,RB Patel,AR Ramjani,YM Nkanya,0,0,,,,,,"",""
+ball,1,7.6,Uganda,RB Patel,AR Ramjani,YM Nkanya,0,0,,,,,,"",""
+ball,1,8.1,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,0,,,,,,"",""
+ball,1,8.2,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,0,,,,,,"",""
+ball,1,8.3,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,1,1,,,,,"",""
+ball,1,8.4,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,0,,,,,,"",""
+ball,1,8.5,Uganda,AR Ramjani,RB Patel,JJ Nyambo,1,0,,,,,,"",""
+ball,1,8.6,Uganda,RB Patel,AR Ramjani,JJ Nyambo,0,0,,,,,,"",""
+ball,1,8.7,Uganda,RB Patel,AR Ramjani,JJ Nyambo,1,0,,,,,,"",""
+ball,1,9.1,Uganda,RB Patel,AR Ramjani,YM Nkanya,1,0,,,,,,"",""
+ball,1,9.2,Uganda,AR Ramjani,RB Patel,YM Nkanya,0,0,,,,,,"",""
+ball,1,9.3,Uganda,AR Ramjani,RB Patel,YM Nkanya,0,0,,,,,,"",""
+ball,1,9.4,Uganda,AR Ramjani,RB Patel,YM Nkanya,4,0,,,,,,"",""
+ball,1,9.5,Uganda,AR Ramjani,RB Patel,YM Nkanya,1,0,,,,,,"",""
+ball,1,9.6,Uganda,RB Patel,AR Ramjani,YM Nkanya,4,0,,,,,,"",""
+ball,1,10.1,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,1,1,,,,,"",""
+ball,1,10.2,Uganda,AR Ramjani,RB Patel,JJ Nyambo,1,0,,,,,,"",""
+ball,1,10.3,Uganda,RB Patel,AR Ramjani,JJ Nyambo,6,0,,,,,,"",""
+ball,1,10.4,Uganda,RB Patel,AR Ramjani,JJ Nyambo,4,0,,,,,,"",""
+ball,1,10.5,Uganda,RB Patel,AR Ramjani,JJ Nyambo,4,0,,,,,,"",""
+ball,1,10.6,Uganda,RB Patel,AR Ramjani,JJ Nyambo,1,0,,,,,,"",""
+ball,1,10.7,Uganda,AR Ramjani,RB Patel,JJ Nyambo,0,0,,,,,,"",""
+ball,1,11.1,Uganda,RB Patel,AR Ramjani,K Nassoro,1,0,,,,,,"",""
+ball,1,11.2,Uganda,AR Ramjani,RB Patel,K Nassoro,0,0,,,,,,"",""
+ball,1,11.3,Uganda,AR Ramjani,RB Patel,K Nassoro,6,0,,,,,,"",""
+ball,1,11.4,Uganda,AR Ramjani,RB Patel,K Nassoro,0,0,,,,,,"",""
+ball,1,11.5,Uganda,AR Ramjani,RB Patel,K Nassoro,0,1,1,,,,,"",""
+ball,1,11.6,Uganda,AR Ramjani,RB Patel,K Nassoro,1,0,,,,,,"",""
+ball,1,11.7,Uganda,RB Patel,AR Ramjani,K Nassoro,4,0,,,,,,"",""
+ball,1,12.1,Uganda,AR Ramjani,RB Patel,AM Kimote,1,0,,,,,,"",""
+ball,1,12.2,Uganda,RB Patel,AR Ramjani,AM Kimote,0,1,1,,,,,"",""
+ball,1,12.3,Uganda,RB Patel,AR Ramjani,AM Kimote,1,0,,,,,,"",""
+ball,1,12.4,Uganda,AR Ramjani,RB Patel,AM Kimote,1,0,,,,,,"",""
+ball,1,12.5,Uganda,RB Patel,AR Ramjani,AM Kimote,4,0,,,,,,"",""
+ball,1,12.6,Uganda,RB Patel,AR Ramjani,AM Kimote,0,0,,,,,,caught,RB Patel
+ball,1,12.7,Uganda,K Waiswa,AR Ramjani,AM Kimote,0,0,,,,,,"",""
+ball,1,13.1,Uganda,AR Ramjani,K Waiswa,K Nassoro,1,0,,,,,,"",""
+ball,1,13.2,Uganda,K Waiswa,AR Ramjani,K Nassoro,4,0,,,,,,"",""
+ball,1,13.3,Uganda,K Waiswa,AR Ramjani,K Nassoro,0,0,,,,,,"",""
+ball,1,13.4,Uganda,K Waiswa,AR Ramjani,K Nassoro,2,0,,,,,,"",""
+ball,1,13.5,Uganda,K Waiswa,AR Ramjani,K Nassoro,4,0,,,,,,"",""
+ball,1,13.6,Uganda,K Waiswa,AR Ramjani,K Nassoro,0,0,,,,,,"",""
+ball,1,14.1,Uganda,AR Ramjani,K Waiswa,AM Kimote,6,0,,,,,,"",""
+ball,1,14.2,Uganda,AR Ramjani,K Waiswa,AM Kimote,1,0,,,,,,"",""
+ball,1,14.3,Uganda,K Waiswa,AR Ramjani,AM Kimote,0,0,,,,,,"",""
+ball,1,14.4,Uganda,K Waiswa,AR Ramjani,AM Kimote,2,0,,,,,,"",""
+ball,1,14.5,Uganda,K Waiswa,AR Ramjani,AM Kimote,4,0,,,,,,"",""
+ball,1,14.6,Uganda,K Waiswa,AR Ramjani,AM Kimote,2,0,,,,,,"",""
+ball,1,15.1,Uganda,AR Ramjani,K Waiswa,YM Nkanya,1,0,,,,,,"",""
+ball,1,15.2,Uganda,K Waiswa,AR Ramjani,YM Nkanya,0,0,,,,,,lbw,K Waiswa
+ball,1,15.3,Uganda,B Masaba,AR Ramjani,YM Nkanya,3,0,,,,,,"",""
+ball,1,15.4,Uganda,AR Ramjani,B Masaba,YM Nkanya,0,0,,,,,,"",""
+ball,1,15.5,Uganda,AR Ramjani,B Masaba,YM Nkanya,0,0,,,,,,"",""
+ball,1,15.6,Uganda,AR Ramjani,B Masaba,YM Nkanya,0,1,,,,1,,"",""
+ball,1,16.1,Uganda,AR Ramjani,B Masaba,SA Jumbe,2,0,,,,,,"",""
+ball,1,16.2,Uganda,AR Ramjani,B Masaba,SA Jumbe,2,0,,,,,,"",""
+ball,1,16.3,Uganda,AR Ramjani,B Masaba,SA Jumbe,4,0,,,,,,"",""
+ball,1,16.4,Uganda,AR Ramjani,B Masaba,SA Jumbe,0,0,,,,,,caught,AR Ramjani
+ball,1,16.5,Uganda,CN Kakuru,B Masaba,SA Jumbe,1,0,,,,,,"",""
+ball,1,16.6,Uganda,B Masaba,CN Kakuru,SA Jumbe,1,0,,,,,,"",""
+ball,1,17.1,Uganda,B Masaba,CN Kakuru,JJ Nyambo,4,0,,,,,,"",""
+ball,1,17.2,Uganda,B Masaba,CN Kakuru,JJ Nyambo,2,0,,,,,,"",""
+ball,1,17.3,Uganda,B Masaba,CN Kakuru,JJ Nyambo,4,0,,,,,,"",""
+ball,1,17.4,Uganda,B Masaba,CN Kakuru,JJ Nyambo,0,0,,,,,,"",""
+ball,1,17.5,Uganda,B Masaba,CN Kakuru,JJ Nyambo,4,0,,,,,,"",""
+ball,1,17.6,Uganda,B Masaba,CN Kakuru,JJ Nyambo,1,0,,,,,,"",""
+ball,1,18.1,Uganda,B Masaba,CN Kakuru,AM Kimote,0,0,,,,,,"",""
+ball,1,18.2,Uganda,B Masaba,CN Kakuru,AM Kimote,1,0,,,,,,"",""
+ball,1,18.3,Uganda,CN Kakuru,B Masaba,AM Kimote,2,0,,,,,,"",""
+ball,1,18.4,Uganda,CN Kakuru,B Masaba,AM Kimote,2,0,,,,,,"",""
+ball,1,18.5,Uganda,CN Kakuru,B Masaba,AM Kimote,4,0,,,,,,"",""
+ball,1,18.6,Uganda,CN Kakuru,B Masaba,AM Kimote,0,0,,,,,,"",""
+ball,1,19.1,Uganda,B Masaba,CN Kakuru,SA Jumbe,4,0,,,,,,"",""
+ball,1,19.2,Uganda,B Masaba,CN Kakuru,SA Jumbe,2,0,,,,,,"",""
+ball,1,19.3,Uganda,B Masaba,CN Kakuru,SA Jumbe,1,0,,,,,,"",""
+ball,1,19.4,Uganda,CN Kakuru,B Masaba,SA Jumbe,6,0,,,,,,"",""
+ball,1,19.5,Uganda,CN Kakuru,B Masaba,SA Jumbe,1,0,,,,,,"",""
+ball,1,19.6,Uganda,B Masaba,CN Kakuru,SA Jumbe,0,2,,,2,,,"",""
+ball,2,0.1,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,0.2,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,0.3,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,0.4,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,0.5,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,0.6,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,1.1,Tanzania,II Selemani,AR Patwa,Bilal Hassun,0,1,1,,,,,"",""
+ball,2,1.2,Tanzania,II Selemani,AR Patwa,Bilal Hassun,4,0,,,,,,"",""
+ball,2,1.3,Tanzania,II Selemani,AR Patwa,Bilal Hassun,6,0,,,,,,"",""
+ball,2,1.4,Tanzania,II Selemani,AR Patwa,Bilal Hassun,0,0,,,,,,"",""
+ball,2,1.5,Tanzania,II Selemani,AR Patwa,Bilal Hassun,0,0,,,,,,"",""
+ball,2,1.6,Tanzania,II Selemani,AR Patwa,Bilal Hassun,0,0,,,,,,"",""
+ball,2,1.7,Tanzania,II Selemani,AR Patwa,Bilal Hassun,0,0,,,,,,"",""
+ball,2,2.1,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,2.2,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,2.3,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,2.4,Tanzania,AR Patwa,II Selemani,J Sebanja,0,1,1,,,,,"",""
+ball,2,2.5,Tanzania,AR Patwa,II Selemani,J Sebanja,6,0,,,,,,"",""
+ball,2,2.6,Tanzania,AR Patwa,II Selemani,J Sebanja,4,0,,,,,,"",""
+ball,2,2.7,Tanzania,AR Patwa,II Selemani,J Sebanja,0,0,,,,,,"",""
+ball,2,3.1,Tanzania,II Selemani,AR Patwa,Bilal Hassun,1,0,,,,,,"",""
+ball,2,3.2,Tanzania,AR Patwa,II Selemani,Bilal Hassun,0,0,,,,,,"",""
+ball,2,3.3,Tanzania,AR Patwa,II Selemani,Bilal Hassun,0,0,,,,,,"",""
+ball,2,3.4,Tanzania,AR Patwa,II Selemani,Bilal Hassun,0,0,,,,,,"",""
+ball,2,3.5,Tanzania,AR Patwa,II Selemani,Bilal Hassun,1,0,,,,,,"",""
+ball,2,3.6,Tanzania,II Selemani,AR Patwa,Bilal Hassun,0,1,1,,,,,"",""
+ball,2,3.7,Tanzania,II Selemani,AR Patwa,Bilal Hassun,0,1,1,,,,,"",""
+ball,2,3.8,Tanzania,II Selemani,AR Patwa,Bilal Hassun,1,0,,,,,,"",""
+ball,2,4.1,Tanzania,II Selemani,AR Patwa,J Sebanja,0,0,,,,,,"",""
+ball,2,4.2,Tanzania,II Selemani,AR Patwa,J Sebanja,0,0,,,,,,"",""
+ball,2,4.3,Tanzania,II Selemani,AR Patwa,J Sebanja,0,0,,,,,,"",""
+ball,2,4.4,Tanzania,II Selemani,AR Patwa,J Sebanja,4,0,,,,,,"",""
+ball,2,4.5,Tanzania,II Selemani,AR Patwa,J Sebanja,0,0,,,,,,bowled,II Selemani
+ball,2,4.6,Tanzania,K Nassoro,AR Patwa,J Sebanja,1,0,,,,,,"",""
+ball,2,5.1,Tanzania,K Nassoro,AR Patwa,K Waiswa,2,0,,,,,,"",""
+ball,2,5.2,Tanzania,K Nassoro,AR Patwa,K Waiswa,1,0,,,,,,"",""
+ball,2,5.3,Tanzania,AR Patwa,K Nassoro,K Waiswa,1,0,,,,,,"",""
+ball,2,5.4,Tanzania,K Nassoro,AR Patwa,K Waiswa,1,0,,,,,,"",""
+ball,2,5.5,Tanzania,AR Patwa,K Nassoro,K Waiswa,6,0,,,,,,"",""
+ball,2,5.6,Tanzania,AR Patwa,K Nassoro,K Waiswa,0,0,,,,,,"",""
+ball,2,6.1,Tanzania,K Nassoro,AR Patwa,AR Ramjani,1,0,,,,,,"",""
+ball,2,6.2,Tanzania,AR Patwa,K Nassoro,AR Ramjani,1,0,,,,,,"",""
+ball,2,6.3,Tanzania,K Nassoro,AR Patwa,AR Ramjani,0,0,,,,,,"",""
+ball,2,6.4,Tanzania,K Nassoro,AR Patwa,AR Ramjani,0,0,,,,,,"",""
+ball,2,6.5,Tanzania,K Nassoro,AR Patwa,AR Ramjani,0,0,,,,,,"",""
+ball,2,6.6,Tanzania,K Nassoro,AR Patwa,AR Ramjani,0,0,,,,,,bowled,K Nassoro
+ball,2,7.1,Tanzania,AR Patwa,AP Rajeevan,H Ssenyondo,1,0,,,,,,"",""
+ball,2,7.2,Tanzania,AP Rajeevan,AR Patwa,H Ssenyondo,1,0,,,,,,"",""
+ball,2,7.3,Tanzania,AR Patwa,AP Rajeevan,H Ssenyondo,1,0,,,,,,"",""
+ball,2,7.4,Tanzania,AP Rajeevan,AR Patwa,H Ssenyondo,0,0,,,,,,"",""
+ball,2,7.5,Tanzania,AP Rajeevan,AR Patwa,H Ssenyondo,1,0,,,,,,"",""
+ball,2,7.6,Tanzania,AR Patwa,AP Rajeevan,H Ssenyondo,0,0,,,,,,caught,AR Patwa
+ball,2,8.1,Tanzania,AP Rajeevan,Shaik Basha,AR Ramjani,1,0,,,,,,"",""
+ball,2,8.2,Tanzania,Shaik Basha,AP Rajeevan,AR Ramjani,1,0,,,,,,"",""
+ball,2,8.3,Tanzania,AP Rajeevan,Shaik Basha,AR Ramjani,1,0,,,,,,"",""
+ball,2,8.4,Tanzania,Shaik Basha,AP Rajeevan,AR Ramjani,1,0,,,,,,"",""
+ball,2,8.5,Tanzania,AP Rajeevan,Shaik Basha,AR Ramjani,1,0,,,,,,"",""
+ball,2,8.6,Tanzania,Shaik Basha,AP Rajeevan,AR Ramjani,1,0,,,,,,"",""
+ball,2,9.1,Tanzania,Shaik Basha,AP Rajeevan,H Ssenyondo,1,0,,,,,,"",""
+ball,2,9.2,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,0,0,,,,,,"",""
+ball,2,9.3,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,0,0,,,,,,"",""
+ball,2,9.4,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,1,0,,,,,,"",""
+ball,2,9.5,Tanzania,Shaik Basha,AP Rajeevan,H Ssenyondo,2,0,,,,,,"",""
+ball,2,9.6,Tanzania,Shaik Basha,AP Rajeevan,H Ssenyondo,1,0,,,,,,"",""
+ball,2,10.1,Tanzania,Shaik Basha,AP Rajeevan,AR Ramjani,6,0,,,,,,"",""
+ball,2,10.2,Tanzania,Shaik Basha,AP Rajeevan,AR Ramjani,1,0,,,,,,"",""
+ball,2,10.3,Tanzania,AP Rajeevan,Shaik Basha,AR Ramjani,0,0,,,,,,"",""
+ball,2,10.4,Tanzania,AP Rajeevan,Shaik Basha,AR Ramjani,0,0,,,,,,"",""
+ball,2,10.5,Tanzania,AP Rajeevan,Shaik Basha,AR Ramjani,4,0,,,,,,"",""
+ball,2,10.6,Tanzania,AP Rajeevan,Shaik Basha,AR Ramjani,1,0,,,,,,"",""
+ball,2,11.1,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,1,0,,,,,,"",""
+ball,2,11.2,Tanzania,Shaik Basha,AP Rajeevan,H Ssenyondo,1,0,,,,,,"",""
+ball,2,11.3,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,2,0,,,,,,"",""
+ball,2,11.4,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,4,0,,,,,,"",""
+ball,2,11.5,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,1,0,,,,,,"",""
+ball,2,11.6,Tanzania,Shaik Basha,AP Rajeevan,H Ssenyondo,1,0,,,,,,"",""
+ball,2,12.1,Tanzania,Shaik Basha,AP Rajeevan,K Waiswa,1,0,,,,,,"",""
+ball,2,12.2,Tanzania,AP Rajeevan,Shaik Basha,K Waiswa,1,0,,,,,,"",""
+ball,2,12.3,Tanzania,Shaik Basha,AP Rajeevan,K Waiswa,0,0,,,,,,"",""
+ball,2,12.4,Tanzania,Shaik Basha,AP Rajeevan,K Waiswa,0,1,1,,,,,"",""
+ball,2,12.5,Tanzania,Shaik Basha,AP Rajeevan,K Waiswa,6,0,,,,,,"",""
+ball,2,12.6,Tanzania,Shaik Basha,AP Rajeevan,K Waiswa,4,0,,,,,,"",""
+ball,2,12.7,Tanzania,Shaik Basha,AP Rajeevan,K Waiswa,1,0,,,,,,"",""
+ball,2,13.1,Tanzania,Shaik Basha,AP Rajeevan,H Ssenyondo,1,0,,,,,,"",""
+ball,2,13.2,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,0,0,,,,,,"",""
+ball,2,13.3,Tanzania,AP Rajeevan,Shaik Basha,H Ssenyondo,0,0,,,,,,stumped,AP Rajeevan
+ball,2,13.4,Tanzania,MO Kitunda,Shaik Basha,H Ssenyondo,0,0,,,,,,"",""
+ball,2,13.5,Tanzania,MO Kitunda,Shaik Basha,H Ssenyondo,1,0,,,,,,"",""
+ball,2,13.6,Tanzania,Shaik Basha,MO Kitunda,H Ssenyondo,1,0,,,,,,"",""
+ball,2,14.1,Tanzania,Shaik Basha,MO Kitunda,K Waiswa,1,0,,,,,,"",""
+ball,2,14.2,Tanzania,MO Kitunda,Shaik Basha,K Waiswa,1,0,,,,,,"",""
+ball,2,14.3,Tanzania,Shaik Basha,MO Kitunda,K Waiswa,6,0,,,,,,"",""
+ball,2,14.4,Tanzania,Shaik Basha,MO Kitunda,K Waiswa,6,0,,,,,,"",""
+ball,2,14.5,Tanzania,Shaik Basha,MO Kitunda,K Waiswa,0,0,,,,,,"",""
+ball,2,14.6,Tanzania,Shaik Basha,MO Kitunda,K Waiswa,0,0,,,,,,"",""
+ball,2,15.1,Tanzania,MO Kitunda,Shaik Basha,AR Ramjani,1,0,,,,,,"",""
+ball,2,15.2,Tanzania,Shaik Basha,MO Kitunda,AR Ramjani,0,0,,,,,,bowled,Shaik Basha
+ball,2,15.3,Tanzania,AM Kimote,MO Kitunda,AR Ramjani,1,0,,,,,,"",""
+ball,2,15.4,Tanzania,MO Kitunda,AM Kimote,AR Ramjani,0,0,,,,,,"",""
+ball,2,15.5,Tanzania,MO Kitunda,AM Kimote,AR Ramjani,0,0,,,,,,"",""
+ball,2,15.6,Tanzania,MO Kitunda,AM Kimote,AR Ramjani,0,0,,,,,,"",""
+ball,2,16.1,Tanzania,AM Kimote,MO Kitunda,Bilal Hassun,1,0,,,,,,"",""
+ball,2,16.2,Tanzania,MO Kitunda,AM Kimote,Bilal Hassun,1,0,,,,,,run out,MO Kitunda
+ball,2,16.3,Tanzania,SA Jumbe,AM Kimote,Bilal Hassun,0,0,,,,,,"",""
+ball,2,16.4,Tanzania,SA Jumbe,AM Kimote,Bilal Hassun,0,0,,,,,,caught,SA Jumbe
+ball,2,16.5,Tanzania,M Yunusu Issa,AM Kimote,Bilal Hassun,0,0,,,,,,"",""
+ball,2,16.6,Tanzania,M Yunusu Issa,AM Kimote,Bilal Hassun,2,0,,,,,,"",""
+ball,2,17.1,Tanzania,AM Kimote,M Yunusu Issa,J Sebanja,0,0,,,,,,caught,AM Kimote
+ball,2,17.2,Tanzania,JJ Nyambo,M Yunusu Issa,J Sebanja,0,0,,,,,,"",""
+ball,2,17.3,Tanzania,JJ Nyambo,M Yunusu Issa,J Sebanja,1,0,,,,,,"",""
+ball,2,17.4,Tanzania,M Yunusu Issa,JJ Nyambo,J Sebanja,0,0,,,,,,"",""
+ball,2,17.5,Tanzania,M Yunusu Issa,JJ Nyambo,J Sebanja,0,0,,,,,,caught,M Yunusu Issa
+ball,2,17.6,Tanzania,YM Nkanya,JJ Nyambo,J Sebanja,0,0,,,,,,"",""
+ball,2,18.1,Tanzania,JJ Nyambo,YM Nkanya,Bilal Hassun,1,0,,,,,,"",""
+ball,2,18.2,Tanzania,YM Nkanya,JJ Nyambo,Bilal Hassun,0,0,,,,,,bowled,YM Nkanya

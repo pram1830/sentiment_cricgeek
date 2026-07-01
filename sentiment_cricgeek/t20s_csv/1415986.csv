@@ -1,0 +1,166 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Ireland
+info,gender,female
+info,season,2023/24
+info,date,2024/02/01
+info,event,Ireland Women tour of Zimbabwe
+info,match_number,4
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,O Prendergast
+info,umpire,M Moyo
+info,umpire,S Gogwe
+info,reserve_umpire,T Musakwa
+info,match_referee,J Chibhabha
+info,winner,Ireland
+info,winner_wickets,9
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,P Marange
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,M Mavunga
+info,player,Zimbabwe,F Chipare
+info,player,Zimbabwe,L Mabhero
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Delany
+info,player,Ireland,R Stokell
+info,player,Ireland,AN Kelly
+info,player,Ireland,L Little
+info,player,Ireland,L Paul
+info,player,Ireland,G Dempsey
+info,player,Ireland,A Canning
+info,player,Ireland,C Murray
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AN Kelly,397369e0
+info,registry,people,C Murray,5a50471c
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,G Dempsey,940feccc
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,J Chibhabha,4c5c47a4
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Little,4f86926b
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Paul,07248d8e
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mavunga,bb411d1e
+info,registry,people,M Moyo,c3017af3
+info,registry,people,M Musonda,94b52754
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,S Gogwe,fa6ba429
+info,registry,people,T Musakwa,5f925536
+ball,1,0.1,Zimbabwe,K Ndlovu,M Musonda,A Canning,0,0,,,,,,"",""
+ball,1,0.2,Zimbabwe,K Ndlovu,M Musonda,A Canning,0,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,K Ndlovu,M Musonda,A Canning,1,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,M Musonda,K Ndlovu,A Canning,1,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,K Ndlovu,M Musonda,A Canning,2,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,K Ndlovu,M Musonda,A Canning,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,M Musonda,K Ndlovu,G Dempsey,0,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,M Musonda,K Ndlovu,G Dempsey,1,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,K Ndlovu,M Musonda,G Dempsey,0,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,K Ndlovu,M Musonda,G Dempsey,0,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,K Ndlovu,M Musonda,G Dempsey,1,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,M Musonda,K Ndlovu,G Dempsey,0,1,1,,,,,"",""
+ball,1,1.7,Zimbabwe,M Musonda,K Ndlovu,G Dempsey,0,0,,,,,,caught,M Musonda
+ball,1,2.1,Zimbabwe,K Ndlovu,P Mujaji,A Canning,1,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,P Mujaji,K Ndlovu,A Canning,1,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,K Ndlovu,P Mujaji,A Canning,4,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,K Ndlovu,P Mujaji,A Canning,2,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,K Ndlovu,P Mujaji,A Canning,1,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,P Mujaji,K Ndlovu,A Canning,1,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,P Mujaji,K Ndlovu,AN Kelly,4,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,P Mujaji,K Ndlovu,AN Kelly,0,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,P Mujaji,K Ndlovu,AN Kelly,4,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,P Mujaji,K Ndlovu,AN Kelly,1,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,K Ndlovu,P Mujaji,AN Kelly,1,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,P Mujaji,K Ndlovu,AN Kelly,1,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,P Mujaji,K Ndlovu,C Murray,0,0,,,,,,stumped,P Mujaji
+ball,1,4.2,Zimbabwe,CT Dhururu,K Ndlovu,C Murray,0,1,,,1,,,"",""
+ball,1,4.3,Zimbabwe,K Ndlovu,CT Dhururu,C Murray,1,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,CT Dhururu,K Ndlovu,C Murray,1,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,K Ndlovu,CT Dhururu,C Murray,1,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,CT Dhururu,K Ndlovu,C Murray,2,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,K Ndlovu,CT Dhururu,L Paul,1,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,CT Dhururu,K Ndlovu,L Paul,0,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,CT Dhururu,K Ndlovu,L Paul,6,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,CT Dhururu,K Ndlovu,L Paul,1,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,K Ndlovu,CT Dhururu,L Paul,1,0,,,,,,run out,K Ndlovu
+ball,1,5.6,Zimbabwe,L Tshuma,CT Dhururu,L Paul,0,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,CT Dhururu,L Tshuma,C Murray,4,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,CT Dhururu,L Tshuma,C Murray,0,0,,,,,,run out,CT Dhururu
+ball,1,6.3,Zimbabwe,N Gwanzura,L Tshuma,C Murray,1,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,L Tshuma,N Gwanzura,C Murray,4,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,L Tshuma,N Gwanzura,C Murray,2,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,L Tshuma,N Gwanzura,C Murray,1,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,L Tshuma,N Gwanzura,L Delany,2,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,L Tshuma,N Gwanzura,L Delany,1,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,N Gwanzura,L Tshuma,L Delany,0,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,N Gwanzura,L Tshuma,L Delany,3,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,L Tshuma,N Gwanzura,L Delany,0,2,2,,,,,"",""
+ball,1,7.6,Zimbabwe,N Gwanzura,L Tshuma,L Delany,2,0,,,,,,"",""
+ball,1,7.7,Zimbabwe,N Gwanzura,L Tshuma,L Delany,0,0,,,,,,bowled,N Gwanzura
+ball,2,0.1,Ireland,A Hunter,GH Lewis,P Marange,0,0,,,,,,"",""
+ball,2,0.2,Ireland,A Hunter,GH Lewis,P Marange,4,0,,,,,,"",""
+ball,2,0.3,Ireland,A Hunter,GH Lewis,P Marange,1,0,,,,,,"",""
+ball,2,0.4,Ireland,GH Lewis,A Hunter,P Marange,4,0,,,,,,"",""
+ball,2,0.5,Ireland,GH Lewis,A Hunter,P Marange,4,0,,,,,,"",""
+ball,2,0.6,Ireland,GH Lewis,A Hunter,P Marange,0,0,,,,,,"",""
+ball,2,1.1,Ireland,A Hunter,GH Lewis,K Ndlovu,4,0,,,,,,"",""
+ball,2,1.2,Ireland,A Hunter,GH Lewis,K Ndlovu,1,0,,,,,,"",""
+ball,2,1.3,Ireland,GH Lewis,A Hunter,K Ndlovu,0,0,,,,,,"",""
+ball,2,1.4,Ireland,GH Lewis,A Hunter,K Ndlovu,0,0,,,,,,"",""
+ball,2,1.5,Ireland,GH Lewis,A Hunter,K Ndlovu,0,0,,,,,,"",""
+ball,2,1.6,Ireland,GH Lewis,A Hunter,K Ndlovu,2,0,,,,,,"",""
+ball,2,2.1,Ireland,A Hunter,GH Lewis,L Tshuma,2,0,,,,,,"",""
+ball,2,2.2,Ireland,A Hunter,GH Lewis,L Tshuma,0,2,2,,,,,"",""
+ball,2,2.3,Ireland,GH Lewis,A Hunter,L Tshuma,1,0,,,,,,"",""
+ball,2,2.4,Ireland,A Hunter,GH Lewis,L Tshuma,1,0,,,,,,"",""
+ball,2,2.5,Ireland,GH Lewis,A Hunter,L Tshuma,0,1,,,1,,,"",""
+ball,2,2.6,Ireland,A Hunter,GH Lewis,L Tshuma,0,0,,,,,,"",""
+ball,2,2.7,Ireland,A Hunter,GH Lewis,L Tshuma,1,0,,,,,,"",""
+ball,2,3.1,Ireland,A Hunter,GH Lewis,L Mabhero,2,0,,,,,,"",""
+ball,2,3.2,Ireland,A Hunter,GH Lewis,L Mabhero,2,0,,,,,,"",""
+ball,2,3.3,Ireland,A Hunter,GH Lewis,L Mabhero,1,0,,,,,,"",""
+ball,2,3.4,Ireland,GH Lewis,A Hunter,L Mabhero,1,0,,,,,,"",""
+ball,2,3.5,Ireland,A Hunter,GH Lewis,L Mabhero,0,0,,,,,,"",""
+ball,2,3.6,Ireland,A Hunter,GH Lewis,L Mabhero,0,0,,,,,,caught,A Hunter
+ball,2,4.1,Ireland,GH Lewis,O Prendergast,N Sibanda,1,0,,,,,,"",""
+ball,2,4.2,Ireland,O Prendergast,GH Lewis,N Sibanda,1,0,,,,,,"",""
+ball,2,4.3,Ireland,GH Lewis,O Prendergast,N Sibanda,0,0,,,,,,"",""
+ball,2,4.4,Ireland,GH Lewis,O Prendergast,N Sibanda,0,0,,,,,,"",""
+ball,2,4.5,Ireland,GH Lewis,O Prendergast,N Sibanda,4,0,,,,,,"",""
+ball,2,4.6,Ireland,GH Lewis,O Prendergast,N Sibanda,1,0,,,,,,"",""
+ball,2,5.1,Ireland,GH Lewis,O Prendergast,L Tshuma,1,0,,,,,,"",""
+ball,2,5.2,Ireland,O Prendergast,GH Lewis,L Tshuma,0,0,,,,,,"",""
+ball,2,5.3,Ireland,O Prendergast,GH Lewis,L Tshuma,2,0,,,,,,"",""
+ball,2,5.4,Ireland,O Prendergast,GH Lewis,L Tshuma,4,0,,,,,,"",""
+ball,2,5.5,Ireland,O Prendergast,GH Lewis,L Tshuma,1,0,,,,,,"",""
+ball,2,5.6,Ireland,GH Lewis,O Prendergast,L Tshuma,2,0,,,,,,"",""
+ball,2,6.1,Ireland,O Prendergast,GH Lewis,P Marange,2,0,,,,,,"",""
+ball,2,6.2,Ireland,O Prendergast,GH Lewis,P Marange,0,0,,,,,,"",""
+ball,2,6.3,Ireland,O Prendergast,GH Lewis,P Marange,0,1,,,1,,,"",""
+ball,2,6.4,Ireland,GH Lewis,O Prendergast,P Marange,0,0,,,,,,"",""
+ball,2,6.5,Ireland,GH Lewis,O Prendergast,P Marange,1,0,,,,,,"",""
+ball,2,6.6,Ireland,O Prendergast,GH Lewis,P Marange,2,0,,,,,,"",""
+ball,2,7.1,Ireland,GH Lewis,O Prendergast,K Ndlovu,2,0,,,,,,"",""
+ball,2,7.2,Ireland,GH Lewis,O Prendergast,K Ndlovu,1,0,,,,,,"",""
+ball,2,7.3,Ireland,O Prendergast,GH Lewis,K Ndlovu,2,0,,,,,,"",""
+ball,2,7.4,Ireland,O Prendergast,GH Lewis,K Ndlovu,2,0,,,,,,"",""
+ball,2,7.5,Ireland,O Prendergast,GH Lewis,K Ndlovu,6,0,,,,,,"",""

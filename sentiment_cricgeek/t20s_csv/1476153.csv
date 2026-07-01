@@ -1,0 +1,291 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Namibia
+info,gender,female
+info,season,2024/25
+info,date,2025/03/08
+info,event,Women's T20 Quadrangular Series (in Uganda)
+info,match_number,2
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,player_of_match,M Mwatile
+info,umpire,Patric Makumbi
+info,umpire,S Kintu
+info,reserve_umpire,AY Harris
+info,winner,Namibia
+info,winner_wickets,6
+info,method,D/L
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Puja Mahato
+info,player,Nepal,I Barma
+info,player,Nepal,Roma Thapa
+info,player,Nepal,K Joshi
+info,player,Nepal,R Airee
+info,player,Nepal,R Chaudhary
+info,player,Nepal,AK Yadav
+info,player,Nepal,I Bist
+info,player,Nepal,Riya Sharma
+info,player,Namibia,SA Wittmann
+info,player,Namibia,M Mwatile
+info,player,Namibia,E Van Zyl
+info,player,Namibia,W Mwatile
+info,player,Namibia,Yasmeen Khan
+info,player,Namibia,JA Diergaardt
+info,player,Namibia,N Benjamin
+info,player,Namibia,S Tuhadeleni
+info,player,Namibia,SN Shihepo
+info,player,Namibia,M Gorases
+info,player,Namibia,KA Green
+info,registry,people,AK Yadav,a1886d3f
+info,registry,people,AY Harris,90d95b82
+info,registry,people,E Van Zyl,79ff52b5
+info,registry,people,I Barma,521abce2
+info,registry,people,I Bist,beccd5a1
+info,registry,people,JA Diergaardt,b72a8938
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,KA Green,fa9fdefa
+info,registry,people,M Gorases,d034d60a
+info,registry,people,M Mwatile,92b9e9af
+info,registry,people,N Benjamin,58317766
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,R Airee,4b3057bc
+info,registry,people,R Chaudhary,bc6f4dac
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Riya Sharma,8b7cda26
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,S Kintu,ff387f93
+info,registry,people,S Tuhadeleni,13f7c5f4
+info,registry,people,SA Wittmann,531aef3b
+info,registry,people,SN Shihepo,1b3f7dbb
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,W Mwatile,5728635a
+info,registry,people,Yasmeen Khan,ade5c0c0
+ball,1,0.1,Nepal,Samjhana Khadka,RC Belbashi,W Mwatile,0,0,,,,,,"",""
+ball,1,0.2,Nepal,Samjhana Khadka,RC Belbashi,W Mwatile,1,0,,,,,,"",""
+ball,1,0.3,Nepal,RC Belbashi,Samjhana Khadka,W Mwatile,0,0,,,,,,"",""
+ball,1,0.4,Nepal,RC Belbashi,Samjhana Khadka,W Mwatile,0,1,1,,,,,"",""
+ball,1,0.5,Nepal,RC Belbashi,Samjhana Khadka,W Mwatile,0,0,,,,,,bowled,RC Belbashi
+ball,1,0.6,Nepal,Puja Mahato,Samjhana Khadka,W Mwatile,0,1,1,,,,,"",""
+ball,1,0.7,Nepal,Puja Mahato,Samjhana Khadka,W Mwatile,1,0,,,,,,"",""
+ball,1,0.8,Nepal,Samjhana Khadka,Puja Mahato,W Mwatile,0,1,1,,,,,"",""
+ball,1,0.9,Nepal,Samjhana Khadka,Puja Mahato,W Mwatile,4,0,,,,,,"",""
+ball,1,1.1,Nepal,Puja Mahato,Samjhana Khadka,S Tuhadeleni,0,1,,,,1,,"",""
+ball,1,1.2,Nepal,Samjhana Khadka,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,1.3,Nepal,Samjhana Khadka,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,1.4,Nepal,Samjhana Khadka,Puja Mahato,S Tuhadeleni,4,0,,,,,,"",""
+ball,1,1.5,Nepal,Samjhana Khadka,Puja Mahato,S Tuhadeleni,4,0,,,,,,"",""
+ball,1,1.6,Nepal,Samjhana Khadka,Puja Mahato,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,2.1,Nepal,Samjhana Khadka,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,2.2,Nepal,Samjhana Khadka,Puja Mahato,W Mwatile,4,0,,,,,,"",""
+ball,1,2.3,Nepal,Samjhana Khadka,Puja Mahato,W Mwatile,0,0,,,,,,caught,Samjhana Khadka
+ball,1,2.4,Nepal,I Barma,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,2.5,Nepal,I Barma,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,2.6,Nepal,I Barma,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,3.1,Nepal,Puja Mahato,I Barma,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,3.2,Nepal,I Barma,Puja Mahato,S Tuhadeleni,2,0,,,,,,"",""
+ball,1,3.3,Nepal,I Barma,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,3.4,Nepal,I Barma,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,3.5,Nepal,I Barma,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,3.6,Nepal,I Barma,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,4.1,Nepal,Puja Mahato,I Barma,W Mwatile,1,0,,,,,,"",""
+ball,1,4.2,Nepal,I Barma,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,4.3,Nepal,I Barma,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,4.4,Nepal,I Barma,Puja Mahato,W Mwatile,0,0,,,,,,bowled,I Barma
+ball,1,4.5,Nepal,Roma Thapa,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,4.6,Nepal,Roma Thapa,Puja Mahato,W Mwatile,0,0,,,,,,"",""
+ball,1,5.1,Nepal,Puja Mahato,Roma Thapa,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,5.2,Nepal,Puja Mahato,Roma Thapa,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,5.3,Nepal,Puja Mahato,Roma Thapa,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,5.4,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,5.5,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,5.6,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,6.1,Nepal,Puja Mahato,Roma Thapa,W Mwatile,0,0,,,,,,"",""
+ball,1,6.2,Nepal,Puja Mahato,Roma Thapa,W Mwatile,0,0,,,,,,"",""
+ball,1,6.3,Nepal,Puja Mahato,Roma Thapa,W Mwatile,0,1,1,,,,,"",""
+ball,1,6.4,Nepal,Puja Mahato,Roma Thapa,W Mwatile,1,0,,,,,,"",""
+ball,1,6.5,Nepal,Roma Thapa,Puja Mahato,W Mwatile,1,0,,,,,,"",""
+ball,1,6.6,Nepal,Puja Mahato,Roma Thapa,W Mwatile,0,0,,,,,,"",""
+ball,1,6.7,Nepal,Puja Mahato,Roma Thapa,W Mwatile,0,0,,,,,,"",""
+ball,1,7.1,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,7.2,Nepal,Puja Mahato,Roma Thapa,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,7.3,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,7.4,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,7.5,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,7.6,Nepal,Roma Thapa,Puja Mahato,S Tuhadeleni,2,0,,,,,,"",""
+ball,1,8.1,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,0,1,1,,,,,"",""
+ball,1,8.2,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,0,0,,,,,,"",""
+ball,1,8.3,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,0,2,2,,,,,"",""
+ball,1,8.4,Nepal,Roma Thapa,Puja Mahato,SN Shihepo,2,0,,,,,,"",""
+ball,1,8.5,Nepal,Roma Thapa,Puja Mahato,SN Shihepo,0,2,2,,,,,"",""
+ball,1,8.6,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,0,0,,,,,,"",""
+ball,1,8.7,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,0,1,1,,,,,"",""
+ball,1,8.8,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,0,0,,,,,,"",""
+ball,1,8.9,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,2,0,,,,,,"",""
+ball,1,8.10,Nepal,Puja Mahato,Roma Thapa,SN Shihepo,1,0,,,,,,"",""
+ball,1,9.1,Nepal,Puja Mahato,Roma Thapa,JA Diergaardt,4,0,,,,,,"",""
+ball,1,9.2,Nepal,Puja Mahato,Roma Thapa,JA Diergaardt,0,0,,,,,,bowled,Puja Mahato
+ball,1,9.3,Nepal,K Joshi,Roma Thapa,JA Diergaardt,0,1,1,,,,,"",""
+ball,1,9.4,Nepal,K Joshi,Roma Thapa,JA Diergaardt,0,0,,,,,,"",""
+ball,1,9.5,Nepal,K Joshi,Roma Thapa,JA Diergaardt,2,0,,,,,,"",""
+ball,1,9.6,Nepal,K Joshi,Roma Thapa,JA Diergaardt,0,0,,,,,,"",""
+ball,1,9.7,Nepal,K Joshi,Roma Thapa,JA Diergaardt,0,0,,,,,,"",""
+ball,1,10.1,Nepal,Roma Thapa,K Joshi,KA Green,1,0,,,,,,"",""
+ball,1,10.2,Nepal,K Joshi,Roma Thapa,KA Green,0,0,,,,,,"",""
+ball,1,10.3,Nepal,K Joshi,Roma Thapa,KA Green,1,0,,,,,,"",""
+ball,1,10.4,Nepal,Roma Thapa,K Joshi,KA Green,1,0,,,,,,"",""
+ball,1,10.5,Nepal,K Joshi,Roma Thapa,KA Green,0,0,,,,,,"",""
+ball,1,10.6,Nepal,K Joshi,Roma Thapa,KA Green,0,0,,,,,,"",""
+ball,1,11.1,Nepal,Roma Thapa,K Joshi,JA Diergaardt,0,0,,,,,,"",""
+ball,1,11.2,Nepal,Roma Thapa,K Joshi,JA Diergaardt,1,0,,,,,,"",""
+ball,1,11.3,Nepal,K Joshi,Roma Thapa,JA Diergaardt,0,0,,,,,,"",""
+ball,1,11.4,Nepal,K Joshi,Roma Thapa,JA Diergaardt,1,0,,,,,,"",""
+ball,1,11.5,Nepal,Roma Thapa,K Joshi,JA Diergaardt,0,0,,,,,,"",""
+ball,1,11.6,Nepal,Roma Thapa,K Joshi,JA Diergaardt,0,0,,,,,,"",""
+ball,1,12.1,Nepal,K Joshi,Roma Thapa,KA Green,0,0,,,,,,"",""
+ball,1,12.2,Nepal,K Joshi,Roma Thapa,KA Green,0,0,,,,,,"",""
+ball,1,12.3,Nepal,K Joshi,Roma Thapa,KA Green,4,0,,,,,,"",""
+ball,1,12.4,Nepal,K Joshi,Roma Thapa,KA Green,1,0,,,,,,"",""
+ball,1,12.5,Nepal,Roma Thapa,K Joshi,KA Green,0,0,,,,,,caught,Roma Thapa
+ball,1,12.6,Nepal,R Airee,K Joshi,KA Green,0,0,,,,,,"",""
+ball,1,13.1,Nepal,K Joshi,R Airee,M Mwatile,1,0,,,,,,"",""
+ball,1,13.2,Nepal,R Airee,K Joshi,M Mwatile,0,0,,,,,,"",""
+ball,1,13.3,Nepal,R Airee,K Joshi,M Mwatile,0,0,,,,,,"",""
+ball,1,13.4,Nepal,R Airee,K Joshi,M Mwatile,0,0,,,,,,"",""
+ball,1,13.5,Nepal,R Airee,K Joshi,M Mwatile,0,1,1,,,,,"",""
+ball,1,13.6,Nepal,R Airee,K Joshi,M Mwatile,0,1,1,,,,,"",""
+ball,1,13.7,Nepal,R Airee,K Joshi,M Mwatile,0,0,,,,,,"",""
+ball,1,13.8,Nepal,R Airee,K Joshi,M Mwatile,0,0,,,,,,caught and bowled,R Airee
+ball,1,14.1,Nepal,K Joshi,R Chaudhary,KA Green,0,0,,,,,,"",""
+ball,1,14.2,Nepal,K Joshi,R Chaudhary,KA Green,0,0,,,,,,"",""
+ball,1,14.3,Nepal,K Joshi,R Chaudhary,KA Green,0,0,,,,,,"",""
+ball,1,14.4,Nepal,K Joshi,R Chaudhary,KA Green,2,0,,,,,,"",""
+ball,1,14.5,Nepal,K Joshi,R Chaudhary,KA Green,0,0,,,,,,"",""
+ball,1,14.6,Nepal,K Joshi,R Chaudhary,KA Green,0,0,,,,,,"",""
+ball,1,15.1,Nepal,R Chaudhary,K Joshi,M Mwatile,0,0,,,,,,bowled,R Chaudhary
+ball,1,15.2,Nepal,AK Yadav,K Joshi,M Mwatile,0,0,,,,,,"",""
+ball,1,15.3,Nepal,AK Yadav,K Joshi,M Mwatile,1,0,,,,,,"",""
+ball,1,15.4,Nepal,K Joshi,AK Yadav,M Mwatile,0,0,,,,,,"",""
+ball,1,15.5,Nepal,K Joshi,AK Yadav,M Mwatile,0,0,,,,,,"",""
+ball,1,15.6,Nepal,K Joshi,AK Yadav,M Mwatile,0,0,,,,,,"",""
+ball,1,16.1,Nepal,AK Yadav,K Joshi,KA Green,0,0,,,,,,"",""
+ball,1,16.2,Nepal,AK Yadav,K Joshi,KA Green,0,1,1,,,,,"",""
+ball,1,16.3,Nepal,AK Yadav,K Joshi,KA Green,0,0,,,,,,caught,AK Yadav
+ball,1,16.4,Nepal,I Bist,K Joshi,KA Green,0,0,,,,,,"",""
+ball,1,16.5,Nepal,I Bist,K Joshi,KA Green,1,0,,,,,,"",""
+ball,1,16.6,Nepal,K Joshi,I Bist,KA Green,1,0,,,,,,"",""
+ball,1,16.7,Nepal,I Bist,K Joshi,KA Green,2,0,,,,,,"",""
+ball,1,17.1,Nepal,K Joshi,I Bist,M Mwatile,1,0,,,,,,"",""
+ball,1,17.2,Nepal,I Bist,K Joshi,M Mwatile,1,0,,,,,,"",""
+ball,1,17.3,Nepal,K Joshi,I Bist,M Mwatile,1,0,,,,,,"",""
+ball,1,17.4,Nepal,I Bist,K Joshi,M Mwatile,0,0,,,,,,"",""
+ball,1,17.5,Nepal,I Bist,K Joshi,M Mwatile,0,0,,,,,,"",""
+ball,1,17.6,Nepal,I Bist,K Joshi,M Mwatile,1,0,,,,,,"",""
+ball,1,18.1,Nepal,I Bist,K Joshi,JA Diergaardt,4,0,,,,,,"",""
+ball,1,18.2,Nepal,I Bist,K Joshi,JA Diergaardt,0,0,,,,,,"",""
+ball,1,18.3,Nepal,I Bist,K Joshi,JA Diergaardt,1,0,,,,,,"",""
+ball,1,18.4,Nepal,K Joshi,I Bist,JA Diergaardt,1,0,,,,,,"",""
+ball,1,18.5,Nepal,I Bist,K Joshi,JA Diergaardt,4,0,,,,,,"",""
+ball,1,18.6,Nepal,I Bist,K Joshi,JA Diergaardt,0,0,,,,,,"",""
+ball,1,19.1,Nepal,K Joshi,I Bist,M Mwatile,0,0,,,,,,"",""
+ball,1,19.2,Nepal,K Joshi,I Bist,M Mwatile,0,0,,,,,,"",""
+ball,1,19.3,Nepal,K Joshi,I Bist,M Mwatile,0,0,,,,,,bowled,K Joshi
+ball,1,19.4,Nepal,Riya Sharma,I Bist,M Mwatile,1,0,,,,,,"",""
+ball,1,19.5,Nepal,I Bist,Riya Sharma,M Mwatile,2,0,,,,,,"",""
+ball,1,19.6,Nepal,I Bist,Riya Sharma,M Mwatile,1,0,,,,,,run out,Riya Sharma
+ball,2,0.1,Namibia,SA Wittmann,M Mwatile,Puja Mahato,2,0,,,,,,"",""
+ball,2,0.2,Namibia,SA Wittmann,M Mwatile,Puja Mahato,1,0,,,,,,"",""
+ball,2,0.3,Namibia,M Mwatile,SA Wittmann,Puja Mahato,0,0,,,,,,"",""
+ball,2,0.4,Namibia,M Mwatile,SA Wittmann,Puja Mahato,0,0,,,,,,"",""
+ball,2,0.5,Namibia,M Mwatile,SA Wittmann,Puja Mahato,0,0,,,,,,"",""
+ball,2,0.6,Namibia,M Mwatile,SA Wittmann,Puja Mahato,0,0,,,,,,"",""
+ball,2,1.1,Namibia,SA Wittmann,M Mwatile,R Chaudhary,0,0,,,,,,"",""
+ball,2,1.2,Namibia,SA Wittmann,M Mwatile,R Chaudhary,0,0,,,,,,"",""
+ball,2,1.3,Namibia,SA Wittmann,M Mwatile,R Chaudhary,0,0,,,,,,"",""
+ball,2,1.4,Namibia,SA Wittmann,M Mwatile,R Chaudhary,0,0,,,,,,"",""
+ball,2,1.5,Namibia,SA Wittmann,M Mwatile,R Chaudhary,0,0,,,,,,"",""
+ball,2,1.6,Namibia,SA Wittmann,M Mwatile,R Chaudhary,4,0,,,,,,"",""
+ball,2,2.1,Namibia,M Mwatile,SA Wittmann,Puja Mahato,2,0,,,,,,"",""
+ball,2,2.2,Namibia,M Mwatile,SA Wittmann,Puja Mahato,0,0,,,,,,"",""
+ball,2,2.3,Namibia,M Mwatile,SA Wittmann,Puja Mahato,0,0,,,,,,"",""
+ball,2,2.4,Namibia,M Mwatile,SA Wittmann,Puja Mahato,1,0,,,,,,"",""
+ball,2,2.5,Namibia,SA Wittmann,M Mwatile,Puja Mahato,0,0,,,,,,caught,SA Wittmann
+ball,2,2.6,Namibia,E Van Zyl,M Mwatile,Puja Mahato,0,0,,,,,,"",""
+ball,2,3.1,Namibia,M Mwatile,E Van Zyl,R Chaudhary,4,0,,,,,,"",""
+ball,2,3.2,Namibia,M Mwatile,E Van Zyl,R Chaudhary,0,0,,,,,,"",""
+ball,2,3.3,Namibia,M Mwatile,E Van Zyl,R Chaudhary,2,0,,,,,,"",""
+ball,2,3.4,Namibia,M Mwatile,E Van Zyl,R Chaudhary,0,0,,,,,,"",""
+ball,2,3.5,Namibia,M Mwatile,E Van Zyl,R Chaudhary,0,0,,,,,,"",""
+ball,2,3.6,Namibia,M Mwatile,E Van Zyl,R Chaudhary,4,0,,,,,,"",""
+ball,2,4.1,Namibia,E Van Zyl,M Mwatile,Riya Sharma,0,1,,,,1,,"",""
+ball,2,4.2,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,0,,,,,,"",""
+ball,2,4.3,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,0,,,,,,"",""
+ball,2,4.4,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,2,,,2,,,"",""
+ball,2,4.5,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,0,,,,,,"",""
+ball,2,4.6,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,0,,,,,,"",""
+ball,2,5.1,Namibia,E Van Zyl,M Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,5.2,Namibia,E Van Zyl,M Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,5.3,Namibia,E Van Zyl,M Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,5.4,Namibia,E Van Zyl,M Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,5.5,Namibia,E Van Zyl,M Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,5.6,Namibia,E Van Zyl,M Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,6.1,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,1,1,,,,,"",""
+ball,2,6.2,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,1,1,,,,,"",""
+ball,2,6.3,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,0,,,,,,"",""
+ball,2,6.4,Namibia,M Mwatile,E Van Zyl,Riya Sharma,1,0,,,,,,"",""
+ball,2,6.5,Namibia,E Van Zyl,M Mwatile,Riya Sharma,1,0,,,,,,"",""
+ball,2,6.6,Namibia,M Mwatile,E Van Zyl,Riya Sharma,0,0,,,,,,"",""
+ball,2,6.7,Namibia,M Mwatile,E Van Zyl,Riya Sharma,4,0,,,,,,"",""
+ball,2,6.8,Namibia,M Mwatile,E Van Zyl,Riya Sharma,1,0,,,,,,"",""
+ball,2,7.1,Namibia,M Mwatile,E Van Zyl,K Joshi,0,0,,,,,,"",""
+ball,2,7.2,Namibia,M Mwatile,E Van Zyl,K Joshi,2,0,,,,,,"",""
+ball,2,7.3,Namibia,M Mwatile,E Van Zyl,K Joshi,0,0,,,,,,"",""
+ball,2,7.4,Namibia,M Mwatile,E Van Zyl,K Joshi,0,0,,,,,,"",""
+ball,2,7.5,Namibia,M Mwatile,E Van Zyl,K Joshi,1,0,,,,,,"",""
+ball,2,7.6,Namibia,E Van Zyl,M Mwatile,K Joshi,4,0,,,,,,"",""
+ball,2,8.1,Namibia,M Mwatile,E Van Zyl,I Barma,2,0,,,,,,"",""
+ball,2,8.2,Namibia,M Mwatile,E Van Zyl,I Barma,0,0,,,,,,"",""
+ball,2,8.3,Namibia,M Mwatile,E Van Zyl,I Barma,0,0,,,,,,"",""
+ball,2,8.4,Namibia,M Mwatile,E Van Zyl,I Barma,1,0,,,,,,"",""
+ball,2,8.5,Namibia,E Van Zyl,M Mwatile,I Barma,1,0,,,,,,"",""
+ball,2,8.6,Namibia,M Mwatile,E Van Zyl,I Barma,1,0,,,,,,"",""
+ball,2,9.1,Namibia,M Mwatile,E Van Zyl,K Joshi,0,0,,,,,,caught,M Mwatile
+ball,2,9.2,Namibia,W Mwatile,E Van Zyl,K Joshi,1,0,,,,,,"",""
+ball,2,9.3,Namibia,E Van Zyl,W Mwatile,K Joshi,1,0,,,,,,"",""
+ball,2,9.4,Namibia,W Mwatile,E Van Zyl,K Joshi,1,0,,,,,,"",""
+ball,2,9.5,Namibia,E Van Zyl,W Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,9.6,Namibia,E Van Zyl,W Mwatile,K Joshi,0,0,,,,,,"",""
+ball,2,10.1,Namibia,W Mwatile,E Van Zyl,I Barma,0,0,,,,,,"",""
+ball,2,10.2,Namibia,W Mwatile,E Van Zyl,I Barma,0,0,,,,,,"",""
+ball,2,10.3,Namibia,W Mwatile,E Van Zyl,I Barma,2,0,,,,,,"",""
+ball,2,10.4,Namibia,W Mwatile,E Van Zyl,I Barma,0,0,,,,,,"",""
+ball,2,10.5,Namibia,W Mwatile,E Van Zyl,I Barma,0,0,,,,,,"",""
+ball,2,10.6,Namibia,W Mwatile,E Van Zyl,I Barma,0,0,,,,,,"",""
+ball,2,11.1,Namibia,E Van Zyl,W Mwatile,I Bist,1,0,,,,,,"",""
+ball,2,11.2,Namibia,W Mwatile,E Van Zyl,I Bist,0,0,,,,,,"",""
+ball,2,11.3,Namibia,W Mwatile,E Van Zyl,I Bist,0,0,,,,,,"",""
+ball,2,11.4,Namibia,W Mwatile,E Van Zyl,I Bist,0,0,,,,,,"",""
+ball,2,11.5,Namibia,W Mwatile,E Van Zyl,I Bist,0,0,,,,,,"",""
+ball,2,11.6,Namibia,W Mwatile,E Van Zyl,I Bist,0,1,1,,,,,"",""
+ball,2,11.7,Namibia,W Mwatile,E Van Zyl,I Bist,0,0,,,,,,"",""
+ball,2,12.1,Namibia,E Van Zyl,W Mwatile,I Barma,0,0,,,,,,"",""
+ball,2,12.2,Namibia,E Van Zyl,W Mwatile,I Barma,0,0,,,,,,caught,E Van Zyl
+ball,2,12.3,Namibia,Yasmeen Khan,W Mwatile,I Barma,1,0,,,,,,"",""
+ball,2,12.4,Namibia,W Mwatile,Yasmeen Khan,I Barma,1,0,,,,,,"",""
+ball,2,12.5,Namibia,Yasmeen Khan,W Mwatile,I Barma,0,0,,,,,,"",""
+ball,2,12.6,Namibia,Yasmeen Khan,W Mwatile,I Barma,3,0,,,,,,"",""
+ball,2,13.1,Namibia,Yasmeen Khan,W Mwatile,I Bist,2,0,,,,,,"",""
+ball,2,13.2,Namibia,Yasmeen Khan,W Mwatile,I Bist,0,0,,,,,,caught,Yasmeen Khan
+ball,2,13.3,Namibia,JA Diergaardt,W Mwatile,I Bist,2,0,,,,,,"",""
+ball,2,13.4,Namibia,JA Diergaardt,W Mwatile,I Bist,1,0,,,,,,"",""
+ball,2,13.5,Namibia,W Mwatile,JA Diergaardt,I Bist,0,0,,,,,,"",""
+ball,2,13.6,Namibia,W Mwatile,JA Diergaardt,I Bist,0,0,,,,,,"",""
+ball,2,14.1,Namibia,JA Diergaardt,W Mwatile,Puja Mahato,4,0,,,,,,"",""
+ball,2,14.2,Namibia,JA Diergaardt,W Mwatile,Puja Mahato,2,0,,,,,,"",""
+ball,2,14.3,Namibia,JA Diergaardt,W Mwatile,Puja Mahato,0,0,,,,,,"",""
+ball,2,14.4,Namibia,JA Diergaardt,W Mwatile,Puja Mahato,2,0,,,,,,"",""
+ball,2,14.5,Namibia,JA Diergaardt,W Mwatile,Puja Mahato,2,0,,,,,,"",""

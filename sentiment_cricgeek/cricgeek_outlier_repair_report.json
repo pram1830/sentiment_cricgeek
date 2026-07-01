@@ -1,0 +1,39 @@
+{
+  "previous": {
+    "constructiveness_accuracy": 100.0,
+    "average_deviation": 6.921,
+    "max_deviation": 14.91
+  },
+  "current": {
+    "constructiveness_accuracy": 100.0,
+    "average_deviation": 6.921,
+    "max_deviation": 14.91,
+    "toxicity_accuracy": 100.0
+  },
+  "repair_stats": {
+    "rescued_outliers": 0,
+    "complaint_posts_still_correctly_capped": 20,
+    "toxic_posts_still_correctly_penalized": 20,
+    "low_scoring_constructive_analysts": 0,
+    "low_scoring_constructive_debaters": 0,
+    "complaint_posts_incorrectly_boosted": 0,
+    "toxic_posts_incorrectly_rescued": 0,
+    "storyteller_rescues": 9,
+    "complaint_suppressions": 17,
+    "remaining_storyteller_under_score_ids": [
+      47,
+      49,
+      50,
+      51,
+      56,
+      60
+    ],
+    "remaining_complaint_false_boost_ids": []
+  },
+  "pass_fail": {
+    "constructiveness_accuracy_gte_85": true,
+    "average_deviation_lte_10": true,
+    "max_deviation_lte_15": true,
+    "toxicity_accuracy_gte_95": true
+  }
+}

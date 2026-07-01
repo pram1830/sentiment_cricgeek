@@ -1,0 +1,280 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Maldives
+info,gender,female
+info,season,2023/24
+info,date,2024/02/13
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,24
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,umpire,L Poobalan
+info,umpire,Shathira Jakir
+info,reserve_umpire,Shriya Kumari
+info,match_referee,Edwin Seah
+info,winner,Nepal
+info,winner_runs,214
+info,player,Nepal,K Kunwar
+info,player,Nepal,SR Magar
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,D Bhatta
+info,player,Nepal,Puja Mahato
+info,player,Nepal,Apsari Begam
+info,player,Nepal,A Karmacharya
+info,player,Nepal,K Joshi
+info,player,Nepal,K Shrestha
+info,player,Nepal,Roma Thapa
+info,player,Maldives,Leen Luthufee
+info,player,Maldives,Nabaa Naseem
+info,player,Maldives,Fathimath Malha
+info,player,Maldives,Maaha Naseer
+info,player,Maldives,Latsha Haleemath
+info,player,Maldives,Sumayya Abdul
+info,player,Maldives,Fathimath Anaal
+info,player,Maldives,Aishath Meesa Rameez
+info,player,Maldives,Hawwa Shaaiqa
+info,player,Maldives,Shamma Ali
+info,player,Maldives,Hafsaa Abdhulla
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,Aishath Meesa Rameez,659fc11f
+info,registry,people,Apsari Begam,eb765b41
+info,registry,people,D Bhatta,7d1a3ff7
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Fathimath Anaal,e98606a2
+info,registry,people,Fathimath Malha,0c4c27d1
+info,registry,people,Hafsaa Abdhulla,7fa1e4a2
+info,registry,people,Hawwa Shaaiqa,46030558
+info,registry,people,I Barma,521abce2
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Latsha Haleemath,2d99b12e
+info,registry,people,Leen Luthufee,e575e4c5
+info,registry,people,Maaha Naseer,f8809f92
+info,registry,people,Nabaa Naseem,4f1208a8
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Shamma Ali,012bd3f6
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,Sumayya Abdul,a521ba3e
+ball,1,0.1,Nepal,K Kunwar,SR Magar,Shamma Ali,1,0,,,,,,"",""
+ball,1,0.2,Nepal,SR Magar,K Kunwar,Shamma Ali,3,0,,,,,,"",""
+ball,1,0.3,Nepal,K Kunwar,SR Magar,Shamma Ali,1,0,,,,,,"",""
+ball,1,0.4,Nepal,SR Magar,K Kunwar,Shamma Ali,1,0,,,,,,"",""
+ball,1,0.5,Nepal,K Kunwar,SR Magar,Shamma Ali,1,0,,,,,,"",""
+ball,1,0.6,Nepal,SR Magar,K Kunwar,Shamma Ali,4,0,,,,,,"",""
+ball,1,1.1,Nepal,K Kunwar,SR Magar,Aishath Meesa Rameez,0,0,,,,,,"",""
+ball,1,1.2,Nepal,K Kunwar,SR Magar,Aishath Meesa Rameez,4,0,,,,,,"",""
+ball,1,1.3,Nepal,K Kunwar,SR Magar,Aishath Meesa Rameez,4,0,,,,,,"",""
+ball,1,1.4,Nepal,K Kunwar,SR Magar,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,1.5,Nepal,SR Magar,K Kunwar,Aishath Meesa Rameez,4,1,,1,,,,"",""
+ball,1,1.6,Nepal,SR Magar,K Kunwar,Aishath Meesa Rameez,0,2,2,,,,,"",""
+ball,1,1.7,Nepal,K Kunwar,SR Magar,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,1.8,Nepal,SR Magar,K Kunwar,Aishath Meesa Rameez,0,0,,,,,,"",""
+ball,1,2.1,Nepal,K Kunwar,SR Magar,Shamma Ali,0,0,,,,,,"",""
+ball,1,2.2,Nepal,K Kunwar,SR Magar,Shamma Ali,0,5,5,,,,,"",""
+ball,1,2.3,Nepal,K Kunwar,SR Magar,Shamma Ali,0,0,,,,,,caught,K Kunwar
+ball,1,2.4,Nepal,I Barma,SR Magar,Shamma Ali,0,0,,,,,,caught,I Barma
+ball,1,2.5,Nepal,RC Belbashi,SR Magar,Shamma Ali,1,0,,,,,,"",""
+ball,1,2.6,Nepal,SR Magar,RC Belbashi,Shamma Ali,1,0,,,,,,"",""
+ball,1,2.7,Nepal,RC Belbashi,SR Magar,Shamma Ali,4,0,,,,,,"",""
+ball,1,3.1,Nepal,SR Magar,RC Belbashi,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,3.2,Nepal,RC Belbashi,SR Magar,Aishath Meesa Rameez,4,0,,,,,,"",""
+ball,1,3.3,Nepal,RC Belbashi,SR Magar,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,3.4,Nepal,SR Magar,RC Belbashi,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,3.5,Nepal,RC Belbashi,SR Magar,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,3.6,Nepal,SR Magar,RC Belbashi,Aishath Meesa Rameez,0,0,,,,,,"",""
+ball,1,4.1,Nepal,RC Belbashi,SR Magar,Shamma Ali,0,0,,,,,,"",""
+ball,1,4.2,Nepal,RC Belbashi,SR Magar,Shamma Ali,0,0,,,,,,"",""
+ball,1,4.3,Nepal,RC Belbashi,SR Magar,Shamma Ali,0,0,,,,,,"",""
+ball,1,4.4,Nepal,RC Belbashi,SR Magar,Shamma Ali,1,0,,,,,,"",""
+ball,1,4.5,Nepal,SR Magar,RC Belbashi,Shamma Ali,0,0,,,,,,"",""
+ball,1,4.6,Nepal,SR Magar,RC Belbashi,Shamma Ali,0,0,,,,,,caught,SR Magar
+ball,1,5.1,Nepal,RC Belbashi,D Bhatta,Sumayya Abdul,2,0,,,,,,"",""
+ball,1,5.2,Nepal,RC Belbashi,D Bhatta,Sumayya Abdul,0,1,1,,,,,"",""
+ball,1,5.3,Nepal,RC Belbashi,D Bhatta,Sumayya Abdul,2,0,,,,,,"",""
+ball,1,5.4,Nepal,RC Belbashi,D Bhatta,Sumayya Abdul,1,0,,,,,,"",""
+ball,1,5.5,Nepal,D Bhatta,RC Belbashi,Sumayya Abdul,0,0,,,,,,"",""
+ball,1,5.6,Nepal,D Bhatta,RC Belbashi,Sumayya Abdul,2,0,,,,,,"",""
+ball,1,5.7,Nepal,D Bhatta,RC Belbashi,Sumayya Abdul,4,0,,,,,,"",""
+ball,1,6.1,Nepal,RC Belbashi,D Bhatta,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,6.2,Nepal,D Bhatta,RC Belbashi,Nabaa Naseem,0,0,,,,,,caught,D Bhatta
+ball,1,6.3,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,0,0,,,,,,"",""
+ball,1,6.4,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,6.5,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,2,0,,,,,,"",""
+ball,1,6.6,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,7.1,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,0,1,,,1,,,"",""
+ball,1,7.2,Nepal,Puja Mahato,RC Belbashi,Latsha Haleemath,2,0,,,,,,"",""
+ball,1,7.3,Nepal,Puja Mahato,RC Belbashi,Latsha Haleemath,0,0,,,,,,"",""
+ball,1,7.4,Nepal,Puja Mahato,RC Belbashi,Latsha Haleemath,1,0,,,,,,"",""
+ball,1,7.5,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,2,0,,,,,,"",""
+ball,1,7.6,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,1,0,,,,,,"",""
+ball,1,8.1,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,8.2,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,0,0,,,,,,"",""
+ball,1,8.3,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,8.4,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,8.5,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,4,0,,,,,,"",""
+ball,1,8.6,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,2,0,,,,,,"",""
+ball,1,9.1,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,0,0,,,,,,"",""
+ball,1,9.2,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,1,0,,,,,,"",""
+ball,1,9.3,Nepal,Puja Mahato,RC Belbashi,Latsha Haleemath,1,0,,,,,,"",""
+ball,1,9.4,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,0,0,,,,,,"",""
+ball,1,9.5,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,2,0,,,,,,"",""
+ball,1,9.6,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,0,1,1,,,,,"",""
+ball,1,9.7,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,1,0,,,,,,"",""
+ball,1,10.1,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,1,0,,,,,,"",""
+ball,1,10.2,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,1,0,,,,,,"",""
+ball,1,10.3,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,1,0,,,,,,"",""
+ball,1,10.4,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,0,0,,,,,,"",""
+ball,1,10.5,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,4,0,,,,,,"",""
+ball,1,10.6,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,1,0,,,,,,"",""
+ball,1,11.1,Nepal,Puja Mahato,RC Belbashi,Sumayya Abdul,1,0,,,,,,"",""
+ball,1,11.2,Nepal,RC Belbashi,Puja Mahato,Sumayya Abdul,0,0,,,,,,"",""
+ball,1,11.3,Nepal,RC Belbashi,Puja Mahato,Sumayya Abdul,2,0,,,,,,"",""
+ball,1,11.4,Nepal,RC Belbashi,Puja Mahato,Sumayya Abdul,2,0,,,,,,"",""
+ball,1,11.5,Nepal,RC Belbashi,Puja Mahato,Sumayya Abdul,1,0,,,,,,"",""
+ball,1,11.6,Nepal,Puja Mahato,RC Belbashi,Sumayya Abdul,2,0,,,,,,"",""
+ball,1,12.1,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,1,0,,,,,,"",""
+ball,1,12.2,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,0,0,,,,,,"",""
+ball,1,12.3,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,1,0,,,,,,"",""
+ball,1,12.4,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,4,0,,,,,,"",""
+ball,1,12.5,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,6,0,,,,,,"",""
+ball,1,12.6,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,4,0,,,,,,"",""
+ball,1,13.1,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,0,1,1,,,,,"",""
+ball,1,13.2,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,13.3,Nepal,RC Belbashi,Puja Mahato,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,13.4,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,4,0,,,,,,"",""
+ball,1,13.5,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,13.6,Nepal,RC Belbashi,Puja Mahato,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,13.7,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,4,0,,,,,,"",""
+ball,1,14.1,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,4,0,,,,,,"",""
+ball,1,14.2,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,3,0,,,,,,"",""
+ball,1,14.3,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,0,0,,,,,,"",""
+ball,1,14.4,Nepal,Puja Mahato,RC Belbashi,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,14.5,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,2,0,,,,,,"",""
+ball,1,14.6,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,1,0,,,,,,"",""
+ball,1,15.1,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,4,0,,,,,,"",""
+ball,1,15.2,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,6,0,,,,,,"",""
+ball,1,15.3,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,1,0,,,,,,"",""
+ball,1,15.4,Nepal,Puja Mahato,RC Belbashi,Latsha Haleemath,2,0,,,,,,"",""
+ball,1,15.5,Nepal,Puja Mahato,RC Belbashi,Latsha Haleemath,0,1,1,,,,,"",""
+ball,1,15.6,Nepal,Puja Mahato,RC Belbashi,Latsha Haleemath,1,0,,,,,,"",""
+ball,1,15.7,Nepal,RC Belbashi,Puja Mahato,Latsha Haleemath,4,0,,,,,,"",""
+ball,1,16.1,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,2,0,,,,,,"",""
+ball,1,16.2,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,1,0,,,,,,"",""
+ball,1,16.3,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,2,0,,,,,,"",""
+ball,1,16.4,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,0,0,,,,,,"",""
+ball,1,16.5,Nepal,RC Belbashi,Puja Mahato,Maaha Naseer,1,0,,,,,,"",""
+ball,1,16.6,Nepal,Puja Mahato,RC Belbashi,Maaha Naseer,0,0,,,,,,"",""
+ball,1,17.1,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,6,0,,,,,,"",""
+ball,1,17.2,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,4,0,,,,,,"",""
+ball,1,17.3,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,0,0,,,,,,"",""
+ball,1,17.4,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,4,0,,,,,,"",""
+ball,1,17.5,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,2,0,,,,,,"",""
+ball,1,17.6,Nepal,RC Belbashi,Puja Mahato,Nabaa Naseem,4,0,,,,,,"",""
+ball,1,18.1,Nepal,Puja Mahato,RC Belbashi,Shamma Ali,0,3,3,,,,,"",""
+ball,1,18.2,Nepal,Puja Mahato,RC Belbashi,Shamma Ali,3,0,,,,,,"",""
+ball,1,18.3,Nepal,RC Belbashi,Puja Mahato,Shamma Ali,6,0,,,,,,"",""
+ball,1,18.4,Nepal,RC Belbashi,Puja Mahato,Shamma Ali,1,0,,,,,,"",""
+ball,1,18.5,Nepal,Puja Mahato,RC Belbashi,Shamma Ali,2,0,,,,,,"",""
+ball,1,18.6,Nepal,Puja Mahato,RC Belbashi,Shamma Ali,4,0,,,,,,"",""
+ball,1,18.7,Nepal,Puja Mahato,RC Belbashi,Shamma Ali,2,0,,,,,,"",""
+ball,1,19.1,Nepal,RC Belbashi,Puja Mahato,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,19.2,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,2,0,,,,,,"",""
+ball,1,19.3,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,6,0,,,,,,"",""
+ball,1,19.4,Nepal,Puja Mahato,RC Belbashi,Aishath Meesa Rameez,1,0,,,,,,"",""
+ball,1,19.5,Nepal,RC Belbashi,Puja Mahato,Aishath Meesa Rameez,2,0,,,,,,"",""
+ball,1,19.6,Nepal,RC Belbashi,Puja Mahato,Aishath Meesa Rameez,6,0,,,,,,"",""
+ball,2,0.1,Maldives,Leen Luthufee,Nabaa Naseem,K Kunwar,0,0,,,,,,"",""
+ball,2,0.2,Maldives,Leen Luthufee,Nabaa Naseem,K Kunwar,0,0,,,,,,"",""
+ball,2,0.3,Maldives,Leen Luthufee,Nabaa Naseem,K Kunwar,0,0,,,,,,"",""
+ball,2,0.4,Maldives,Leen Luthufee,Nabaa Naseem,K Kunwar,0,0,,,,,,"",""
+ball,2,0.5,Maldives,Leen Luthufee,Nabaa Naseem,K Kunwar,0,0,,,,,,"",""
+ball,2,0.6,Maldives,Leen Luthufee,Nabaa Naseem,K Kunwar,0,0,,,,,,"",""
+ball,2,1.1,Maldives,Nabaa Naseem,Leen Luthufee,Puja Mahato,0,0,,,,,,"",""
+ball,2,1.2,Maldives,Nabaa Naseem,Leen Luthufee,Puja Mahato,1,0,,,,,,"",""
+ball,2,1.3,Maldives,Leen Luthufee,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,1.4,Maldives,Leen Luthufee,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,1.5,Maldives,Leen Luthufee,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,1.6,Maldives,Leen Luthufee,Nabaa Naseem,Puja Mahato,0,0,,,,,,lbw,Leen Luthufee
+ball,2,2.1,Maldives,Nabaa Naseem,Fathimath Malha,K Kunwar,0,0,,,,,,"",""
+ball,2,2.2,Maldives,Nabaa Naseem,Fathimath Malha,K Kunwar,0,0,,,,,,"",""
+ball,2,2.3,Maldives,Nabaa Naseem,Fathimath Malha,K Kunwar,0,0,,,,,,"",""
+ball,2,2.4,Maldives,Nabaa Naseem,Fathimath Malha,K Kunwar,0,0,,,,,,"",""
+ball,2,2.5,Maldives,Nabaa Naseem,Fathimath Malha,K Kunwar,0,0,,,,,,"",""
+ball,2,2.6,Maldives,Nabaa Naseem,Fathimath Malha,K Kunwar,0,1,1,,,,,"",""
+ball,2,2.7,Maldives,Nabaa Naseem,Fathimath Malha,K Kunwar,0,0,,,,,,"",""
+ball,2,3.1,Maldives,Fathimath Malha,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,3.2,Maldives,Fathimath Malha,Nabaa Naseem,Puja Mahato,0,0,,,,,,bowled,Fathimath Malha
+ball,2,3.3,Maldives,Maaha Naseer,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,3.4,Maldives,Maaha Naseer,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,3.5,Maldives,Maaha Naseer,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,3.6,Maldives,Maaha Naseer,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,4.1,Maldives,Nabaa Naseem,Maaha Naseer,K Kunwar,0,0,,,,,,"",""
+ball,2,4.2,Maldives,Nabaa Naseem,Maaha Naseer,K Kunwar,0,1,1,,,,,"",""
+ball,2,4.3,Maldives,Nabaa Naseem,Maaha Naseer,K Kunwar,0,0,,,,,,"",""
+ball,2,4.4,Maldives,Nabaa Naseem,Maaha Naseer,K Kunwar,0,0,,,,,,"",""
+ball,2,4.5,Maldives,Nabaa Naseem,Maaha Naseer,K Kunwar,0,0,,,,,,"",""
+ball,2,4.6,Maldives,Nabaa Naseem,Maaha Naseer,K Kunwar,0,0,,,,,,"",""
+ball,2,4.7,Maldives,Nabaa Naseem,Maaha Naseer,K Kunwar,0,0,,,,,,"",""
+ball,2,5.1,Maldives,Maaha Naseer,Nabaa Naseem,Puja Mahato,0,0,,,,,,bowled,Maaha Naseer
+ball,2,5.2,Maldives,Latsha Haleemath,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,5.3,Maldives,Latsha Haleemath,Nabaa Naseem,Puja Mahato,0,0,,,,,,"",""
+ball,2,5.4,Maldives,Latsha Haleemath,Nabaa Naseem,Puja Mahato,1,0,,,,,,"",""
+ball,2,5.5,Maldives,Nabaa Naseem,Latsha Haleemath,Puja Mahato,0,0,,,,,,"",""
+ball,2,5.6,Maldives,Nabaa Naseem,Latsha Haleemath,Puja Mahato,0,0,,,,,,"",""
+ball,2,6.1,Maldives,Latsha Haleemath,Nabaa Naseem,A Karmacharya,0,0,,,,,,caught,Latsha Haleemath
+ball,2,6.2,Maldives,Sumayya Abdul,Nabaa Naseem,A Karmacharya,0,0,,,,,,"",""
+ball,2,6.3,Maldives,Sumayya Abdul,Nabaa Naseem,A Karmacharya,1,0,,,,,,"",""
+ball,2,6.4,Maldives,Nabaa Naseem,Sumayya Abdul,A Karmacharya,1,0,,,,,,"",""
+ball,2,6.5,Maldives,Sumayya Abdul,Nabaa Naseem,A Karmacharya,4,0,,,,,,"",""
+ball,2,6.6,Maldives,Sumayya Abdul,Nabaa Naseem,A Karmacharya,0,0,,,,,,"",""
+ball,2,7.1,Maldives,Nabaa Naseem,Sumayya Abdul,RC Belbashi,0,0,,,,,,"",""
+ball,2,7.2,Maldives,Nabaa Naseem,Sumayya Abdul,RC Belbashi,0,0,,,,,,"",""
+ball,2,7.3,Maldives,Nabaa Naseem,Sumayya Abdul,RC Belbashi,0,0,,,,,,"",""
+ball,2,7.4,Maldives,Nabaa Naseem,Sumayya Abdul,RC Belbashi,0,0,,,,,,"",""
+ball,2,7.5,Maldives,Nabaa Naseem,Sumayya Abdul,RC Belbashi,0,0,,,,,,caught,Nabaa Naseem
+ball,2,7.6,Maldives,Fathimath Anaal,Sumayya Abdul,RC Belbashi,0,0,,,,,,"",""
+ball,2,8.1,Maldives,Sumayya Abdul,Fathimath Anaal,A Karmacharya,0,0,,,,,,"",""
+ball,2,8.2,Maldives,Sumayya Abdul,Fathimath Anaal,A Karmacharya,0,0,,,,,,caught,Sumayya Abdul
+ball,2,8.3,Maldives,Aishath Meesa Rameez,Fathimath Anaal,A Karmacharya,0,0,,,,,,"",""
+ball,2,8.4,Maldives,Aishath Meesa Rameez,Fathimath Anaal,A Karmacharya,0,0,,,,,,"",""
+ball,2,8.5,Maldives,Aishath Meesa Rameez,Fathimath Anaal,A Karmacharya,0,0,,,,,,"",""
+ball,2,8.6,Maldives,Aishath Meesa Rameez,Fathimath Anaal,A Karmacharya,0,0,,,,,,"",""
+ball,2,9.1,Maldives,Fathimath Anaal,Aishath Meesa Rameez,RC Belbashi,0,0,,,,,,bowled,Fathimath Anaal
+ball,2,9.2,Maldives,Hawwa Shaaiqa,Aishath Meesa Rameez,RC Belbashi,0,0,,,,,,"",""
+ball,2,9.3,Maldives,Hawwa Shaaiqa,Aishath Meesa Rameez,RC Belbashi,0,0,,,,,,"",""
+ball,2,9.4,Maldives,Hawwa Shaaiqa,Aishath Meesa Rameez,RC Belbashi,0,0,,,,,,"",""
+ball,2,9.5,Maldives,Hawwa Shaaiqa,Aishath Meesa Rameez,RC Belbashi,0,0,,,,,,"",""
+ball,2,9.6,Maldives,Hawwa Shaaiqa,Aishath Meesa Rameez,RC Belbashi,0,0,,,,,,"",""
+ball,2,10.1,Maldives,Aishath Meesa Rameez,Hawwa Shaaiqa,A Karmacharya,0,0,,,,,,"",""
+ball,2,10.2,Maldives,Aishath Meesa Rameez,Hawwa Shaaiqa,A Karmacharya,0,0,,,,,,bowled,Aishath Meesa Rameez
+ball,2,10.3,Maldives,Shamma Ali,Hawwa Shaaiqa,A Karmacharya,0,0,,,,,,"",""
+ball,2,10.4,Maldives,Shamma Ali,Hawwa Shaaiqa,A Karmacharya,0,0,,,,,,"",""
+ball,2,10.5,Maldives,Shamma Ali,Hawwa Shaaiqa,A Karmacharya,0,0,,,,,,"",""
+ball,2,10.6,Maldives,Shamma Ali,Hawwa Shaaiqa,A Karmacharya,0,0,,,,,,"",""
+ball,2,11.1,Maldives,Hawwa Shaaiqa,Shamma Ali,RC Belbashi,0,0,,,,,,"",""
+ball,2,11.2,Maldives,Hawwa Shaaiqa,Shamma Ali,RC Belbashi,0,0,,,,,,"",""
+ball,2,11.3,Maldives,Hawwa Shaaiqa,Shamma Ali,RC Belbashi,0,0,,,,,,"",""
+ball,2,11.4,Maldives,Hawwa Shaaiqa,Shamma Ali,RC Belbashi,0,0,,,,,,"",""
+ball,2,11.5,Maldives,Hawwa Shaaiqa,Shamma Ali,RC Belbashi,1,0,,,,,,"",""
+ball,2,11.6,Maldives,Shamma Ali,Hawwa Shaaiqa,RC Belbashi,0,0,,,,,,"",""
+ball,2,12.1,Maldives,Hawwa Shaaiqa,Shamma Ali,A Karmacharya,0,0,,,,,,caught,Hawwa Shaaiqa
+ball,2,12.2,Maldives,Hafsaa Abdhulla,Shamma Ali,A Karmacharya,0,0,,,,,,"",""
+ball,2,12.3,Maldives,Hafsaa Abdhulla,Shamma Ali,A Karmacharya,0,0,,,,,,"",""
+ball,2,12.4,Maldives,Hafsaa Abdhulla,Shamma Ali,A Karmacharya,1,0,,,,,,"",""
+ball,2,12.5,Maldives,Shamma Ali,Hafsaa Abdhulla,A Karmacharya,0,0,,,,,,"",""
+ball,2,12.6,Maldives,Shamma Ali,Hafsaa Abdhulla,A Karmacharya,0,0,,,,,,"",""
+ball,2,13.1,Maldives,Hafsaa Abdhulla,Shamma Ali,RC Belbashi,0,0,,,,,,"",""
+ball,2,13.2,Maldives,Hafsaa Abdhulla,Shamma Ali,RC Belbashi,0,0,,,,,,"",""
+ball,2,13.3,Maldives,Hafsaa Abdhulla,Shamma Ali,RC Belbashi,1,0,,,,,,"",""
+ball,2,13.4,Maldives,Shamma Ali,Hafsaa Abdhulla,RC Belbashi,0,0,,,,,,"",""
+ball,2,13.5,Maldives,Shamma Ali,Hafsaa Abdhulla,RC Belbashi,0,0,,,,,,bowled,Shamma Ali

@@ -1,0 +1,288 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Rwanda
+info,gender,male
+info,season,2023
+info,date,2023/08/22
+info,event,East Africa Cup
+info,match_number,5
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Rwanda
+info,toss_decision,field
+info,player_of_match,AR Ramjani
+info,umpire,Norbert Abii
+info,umpire,V Iriho
+info,reserve_umpire,Gaston Niyibizi
+info,winner,Uganda
+info,winner_runs,61
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Lutaaya
+info,player,Uganda,RB Patel
+info,player,Uganda,AR Ramjani
+info,player,Uganda,K Waiswa
+info,player,Uganda,B Masaba
+info,player,Uganda,P Murungi
+info,player,Uganda,J Sebanja
+info,player,Uganda,D Wabwire
+info,player,Uganda,S Nsubuga
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Z Bimenyimana
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,D Wabwire,a628a5c8
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,J Sebanja,1e78c51c
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Norbert Abii,ed06cf51
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Nsubuga,58cb36aa
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,V Iriho,2853eafb
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08
+ball,1,0.1,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,0.2,Uganda,S Sesazi,RG Mukasa,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,0.3,Uganda,S Sesazi,RG Mukasa,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,0.4,Uganda,S Sesazi,RG Mukasa,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,0.5,Uganda,RG Mukasa,S Sesazi,Z Bimenyimana,0,0,,,,,,caught,RG Mukasa
+ball,1,0.6,Uganda,R Lutaaya,S Sesazi,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,1.1,Uganda,R Lutaaya,S Sesazi,M Akayezu,0,0,,,,,,"",""
+ball,1,1.2,Uganda,R Lutaaya,S Sesazi,M Akayezu,4,0,,,,,,"",""
+ball,1,1.3,Uganda,R Lutaaya,S Sesazi,M Akayezu,4,0,,,,,,"",""
+ball,1,1.4,Uganda,R Lutaaya,S Sesazi,M Akayezu,4,0,,,,,,"",""
+ball,1,1.5,Uganda,R Lutaaya,S Sesazi,M Akayezu,0,1,,,,1,,"",""
+ball,1,1.6,Uganda,S Sesazi,R Lutaaya,M Akayezu,6,1,,1,,,,"",""
+ball,1,1.7,Uganda,S Sesazi,R Lutaaya,M Akayezu,0,1,1,,,,,"",""
+ball,1,1.8,Uganda,S Sesazi,R Lutaaya,M Akayezu,1,0,,,,,,"",""
+ball,1,2.1,Uganda,S Sesazi,R Lutaaya,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,2.2,Uganda,R Lutaaya,S Sesazi,Z Bimenyimana,4,0,,,,,,"",""
+ball,1,2.3,Uganda,R Lutaaya,S Sesazi,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,2.4,Uganda,R Lutaaya,S Sesazi,Z Bimenyimana,0,0,,,,,,caught,R Lutaaya
+ball,1,2.5,Uganda,RB Patel,S Sesazi,Z Bimenyimana,2,0,,,,,,"",""
+ball,1,2.6,Uganda,RB Patel,S Sesazi,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,3.1,Uganda,S Sesazi,RB Patel,C Rububagumya,1,0,,,,,,"",""
+ball,1,3.2,Uganda,RB Patel,S Sesazi,C Rububagumya,4,0,,,,,,"",""
+ball,1,3.3,Uganda,RB Patel,S Sesazi,C Rububagumya,1,0,,,,,,"",""
+ball,1,3.4,Uganda,S Sesazi,RB Patel,C Rububagumya,0,0,,,,,,"",""
+ball,1,3.5,Uganda,S Sesazi,RB Patel,C Rububagumya,0,0,,,,,,"",""
+ball,1,3.6,Uganda,S Sesazi,RB Patel,C Rububagumya,0,0,,,,,,"",""
+ball,1,4.1,Uganda,RB Patel,S Sesazi,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,4.2,Uganda,S Sesazi,RB Patel,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,4.3,Uganda,S Sesazi,RB Patel,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,4.4,Uganda,S Sesazi,RB Patel,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,4.5,Uganda,S Sesazi,RB Patel,Z Bimenyimana,4,0,,,,,,"",""
+ball,1,4.6,Uganda,S Sesazi,RB Patel,Z Bimenyimana,6,0,,,,,,"",""
+ball,1,5.1,Uganda,RB Patel,S Sesazi,C Rububagumya,0,0,,,,,,"",""
+ball,1,5.2,Uganda,RB Patel,S Sesazi,C Rububagumya,1,0,,,,,,"",""
+ball,1,5.3,Uganda,S Sesazi,RB Patel,C Rububagumya,1,0,,,,,,"",""
+ball,1,5.4,Uganda,RB Patel,S Sesazi,C Rububagumya,1,0,,,,,,"",""
+ball,1,5.5,Uganda,S Sesazi,RB Patel,C Rububagumya,0,0,,,,,,"",""
+ball,1,5.6,Uganda,S Sesazi,RB Patel,C Rububagumya,0,1,1,,,,,"",""
+ball,1,5.7,Uganda,S Sesazi,RB Patel,C Rububagumya,6,0,,,,,,"",""
+ball,1,6.1,Uganda,RB Patel,S Sesazi,E Rukiriza,1,0,,,,,,"",""
+ball,1,6.2,Uganda,S Sesazi,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,6.3,Uganda,RB Patel,S Sesazi,E Rukiriza,1,0,,,,,,"",""
+ball,1,6.4,Uganda,S Sesazi,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,6.5,Uganda,RB Patel,S Sesazi,E Rukiriza,1,0,,,,,,"",""
+ball,1,6.6,Uganda,S Sesazi,RB Patel,E Rukiriza,0,0,,,,,,"",""
+ball,1,7.1,Uganda,RB Patel,S Sesazi,E Sebareme,4,0,,,,,,"",""
+ball,1,7.2,Uganda,RB Patel,S Sesazi,E Sebareme,4,0,,,,,,"",""
+ball,1,7.3,Uganda,RB Patel,S Sesazi,E Sebareme,2,0,,,,,,"",""
+ball,1,7.4,Uganda,RB Patel,S Sesazi,E Sebareme,1,0,,,,,,"",""
+ball,1,7.5,Uganda,S Sesazi,RB Patel,E Sebareme,0,0,,,,,,"",""
+ball,1,7.6,Uganda,S Sesazi,RB Patel,E Sebareme,1,0,,,,,,"",""
+ball,1,8.1,Uganda,S Sesazi,RB Patel,E Rukiriza,6,0,,,,,,"",""
+ball,1,8.2,Uganda,S Sesazi,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,8.3,Uganda,RB Patel,S Sesazi,E Rukiriza,4,0,,,,,,"",""
+ball,1,8.4,Uganda,RB Patel,S Sesazi,E Rukiriza,1,0,,,,,,"",""
+ball,1,8.5,Uganda,S Sesazi,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,8.6,Uganda,RB Patel,S Sesazi,E Rukiriza,1,0,,,,,,"",""
+ball,1,9.1,Uganda,RB Patel,S Sesazi,K Irakoze,1,0,,,,,,"",""
+ball,1,9.2,Uganda,S Sesazi,RB Patel,K Irakoze,0,0,,,,,,"",""
+ball,1,9.3,Uganda,S Sesazi,RB Patel,K Irakoze,1,0,,,,,,"",""
+ball,1,9.4,Uganda,RB Patel,S Sesazi,K Irakoze,1,0,,,,,,"",""
+ball,1,9.5,Uganda,S Sesazi,RB Patel,K Irakoze,1,0,,,,,,"",""
+ball,1,9.6,Uganda,RB Patel,S Sesazi,K Irakoze,4,0,,,,,,"",""
+ball,1,10.1,Uganda,S Sesazi,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,10.2,Uganda,RB Patel,S Sesazi,E Rukiriza,1,0,,,,,,"",""
+ball,1,10.3,Uganda,S Sesazi,RB Patel,E Rukiriza,0,0,,,,,,bowled,S Sesazi
+ball,1,10.4,Uganda,AR Ramjani,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,10.5,Uganda,RB Patel,AR Ramjani,E Rukiriza,1,0,,,,,,"",""
+ball,1,10.6,Uganda,AR Ramjani,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,11.1,Uganda,AR Ramjani,RB Patel,K Irakoze,2,0,,,,,,"",""
+ball,1,11.2,Uganda,AR Ramjani,RB Patel,K Irakoze,6,0,,,,,,"",""
+ball,1,11.3,Uganda,AR Ramjani,RB Patel,K Irakoze,1,0,,,,,,"",""
+ball,1,11.4,Uganda,RB Patel,AR Ramjani,K Irakoze,0,0,,,,,,"",""
+ball,1,11.5,Uganda,RB Patel,AR Ramjani,K Irakoze,4,0,,,,,,"",""
+ball,1,11.6,Uganda,RB Patel,AR Ramjani,K Irakoze,0,0,,,,,,"",""
+ball,1,12.1,Uganda,AR Ramjani,RB Patel,E Rukiriza,0,0,,,,,,"",""
+ball,1,12.2,Uganda,AR Ramjani,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,12.3,Uganda,RB Patel,AR Ramjani,E Rukiriza,1,0,,,,,,"",""
+ball,1,12.4,Uganda,AR Ramjani,RB Patel,E Rukiriza,0,0,,,,,,"",""
+ball,1,12.5,Uganda,AR Ramjani,RB Patel,E Rukiriza,0,0,,,,,,"",""
+ball,1,12.6,Uganda,AR Ramjani,RB Patel,E Rukiriza,1,0,,,,,,"",""
+ball,1,13.1,Uganda,AR Ramjani,RB Patel,M Akayezu,0,0,,,,,,"",""
+ball,1,13.2,Uganda,AR Ramjani,RB Patel,M Akayezu,1,0,,,,,,"",""
+ball,1,13.3,Uganda,RB Patel,AR Ramjani,M Akayezu,1,0,,,,,,"",""
+ball,1,13.4,Uganda,AR Ramjani,RB Patel,M Akayezu,4,0,,,,,,"",""
+ball,1,13.5,Uganda,AR Ramjani,RB Patel,M Akayezu,1,0,,,,,,"",""
+ball,1,13.6,Uganda,RB Patel,AR Ramjani,M Akayezu,0,0,,,,,,bowled,RB Patel
+ball,1,14.1,Uganda,AR Ramjani,K Waiswa,E Sebareme,1,0,,,,,,"",""
+ball,1,14.2,Uganda,K Waiswa,AR Ramjani,E Sebareme,0,0,,,,,,"",""
+ball,1,14.3,Uganda,K Waiswa,AR Ramjani,E Sebareme,1,0,,,,,,"",""
+ball,1,14.4,Uganda,AR Ramjani,K Waiswa,E Sebareme,0,0,,,,,,"",""
+ball,1,14.5,Uganda,AR Ramjani,K Waiswa,E Sebareme,4,0,,,,,,"",""
+ball,1,14.6,Uganda,AR Ramjani,K Waiswa,E Sebareme,1,0,,,,,,"",""
+ball,1,15.1,Uganda,AR Ramjani,K Waiswa,M Akayezu,0,0,,,,,,"",""
+ball,1,15.2,Uganda,AR Ramjani,K Waiswa,M Akayezu,0,1,1,,,,,"",""
+ball,1,15.3,Uganda,AR Ramjani,K Waiswa,M Akayezu,0,1,1,,,,,"",""
+ball,1,15.4,Uganda,AR Ramjani,K Waiswa,M Akayezu,1,0,,,,,,"",""
+ball,1,15.5,Uganda,K Waiswa,AR Ramjani,M Akayezu,0,0,,,,,,"",""
+ball,1,15.6,Uganda,K Waiswa,AR Ramjani,M Akayezu,2,0,,,,,,"",""
+ball,1,15.7,Uganda,K Waiswa,AR Ramjani,M Akayezu,1,0,,,,,,"",""
+ball,1,15.8,Uganda,AR Ramjani,K Waiswa,M Akayezu,1,0,,,,,,"",""
+ball,1,16.1,Uganda,AR Ramjani,K Waiswa,E Sebareme,2,0,,,,,,"",""
+ball,1,16.2,Uganda,AR Ramjani,K Waiswa,E Sebareme,1,0,,,,,,"",""
+ball,1,16.3,Uganda,K Waiswa,AR Ramjani,E Sebareme,1,0,,,,,,"",""
+ball,1,16.4,Uganda,AR Ramjani,K Waiswa,E Sebareme,2,0,,,,,,"",""
+ball,1,16.5,Uganda,AR Ramjani,K Waiswa,E Sebareme,6,0,,,,,,"",""
+ball,1,16.6,Uganda,AR Ramjani,K Waiswa,E Sebareme,6,0,,,,,,"",""
+ball,1,17.1,Uganda,K Waiswa,AR Ramjani,C Rububagumya,4,0,,,,,,"",""
+ball,1,17.2,Uganda,K Waiswa,AR Ramjani,C Rububagumya,1,0,,,,,,"",""
+ball,1,17.3,Uganda,AR Ramjani,K Waiswa,C Rububagumya,1,0,,,,,,"",""
+ball,1,17.4,Uganda,K Waiswa,AR Ramjani,C Rububagumya,4,0,,,,,,"",""
+ball,1,17.5,Uganda,K Waiswa,AR Ramjani,C Rububagumya,6,0,,,,,,"",""
+ball,1,17.6,Uganda,K Waiswa,AR Ramjani,C Rububagumya,0,0,,,,,,caught,K Waiswa
+ball,1,18.1,Uganda,AR Ramjani,B Masaba,Z Bimenyimana,0,0,,,,,,caught,AR Ramjani
+ball,1,18.2,Uganda,P Murungi,B Masaba,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,18.3,Uganda,B Masaba,P Murungi,Z Bimenyimana,0,0,,,,,,"",""
+ball,1,18.4,Uganda,B Masaba,P Murungi,Z Bimenyimana,1,0,,,,,,"",""
+ball,1,18.5,Uganda,P Murungi,B Masaba,Z Bimenyimana,2,0,,,,,,"",""
+ball,1,18.6,Uganda,P Murungi,B Masaba,Z Bimenyimana,4,0,,,,,,"",""
+ball,1,19.1,Uganda,B Masaba,P Murungi,C Rububagumya,0,0,,,,,,"",""
+ball,1,19.2,Uganda,B Masaba,P Murungi,C Rububagumya,1,0,,,,,,run out,P Murungi
+ball,1,19.3,Uganda,J Sebanja,B Masaba,C Rububagumya,1,0,,,,,,"",""
+ball,1,19.4,Uganda,B Masaba,J Sebanja,C Rububagumya,1,0,,,,,,run out,B Masaba
+ball,1,19.5,Uganda,D Wabwire,J Sebanja,C Rububagumya,0,1,1,,,,,"",""
+ball,1,19.6,Uganda,D Wabwire,J Sebanja,C Rububagumya,0,0,,,,,,run out,J Sebanja
+ball,1,19.7,Uganda,S Nsubuga,D Wabwire,C Rububagumya,0,0,,,,,,bowled,S Nsubuga
+ball,2,0.1,Rwanda,D Ndikubwimana,E Dusingizimana,D Wabwire,0,0,,,,,,"",""
+ball,2,0.2,Rwanda,D Ndikubwimana,E Dusingizimana,D Wabwire,1,0,,,,,,"",""
+ball,2,0.3,Rwanda,E Dusingizimana,D Ndikubwimana,D Wabwire,0,1,1,,,,,"",""
+ball,2,0.4,Rwanda,E Dusingizimana,D Ndikubwimana,D Wabwire,4,0,,,,,,"",""
+ball,2,0.5,Rwanda,E Dusingizimana,D Ndikubwimana,D Wabwire,1,0,,,,,,"",""
+ball,2,0.6,Rwanda,D Ndikubwimana,E Dusingizimana,D Wabwire,0,0,,,,,,caught,D Ndikubwimana
+ball,2,0.7,Rwanda,W Niyitanga,E Dusingizimana,D Wabwire,0,0,,,,,,"",""
+ball,2,1.1,Rwanda,E Dusingizimana,W Niyitanga,J Sebanja,6,0,,,,,,"",""
+ball,2,1.2,Rwanda,E Dusingizimana,W Niyitanga,J Sebanja,0,0,,,,,,"",""
+ball,2,1.3,Rwanda,E Dusingizimana,W Niyitanga,J Sebanja,0,0,,,,,,"",""
+ball,2,1.4,Rwanda,E Dusingizimana,W Niyitanga,J Sebanja,1,0,,,,,,"",""
+ball,2,1.5,Rwanda,W Niyitanga,E Dusingizimana,J Sebanja,4,0,,,,,,"",""
+ball,2,1.6,Rwanda,W Niyitanga,E Dusingizimana,J Sebanja,1,0,,,,,,"",""
+ball,2,2.1,Rwanda,W Niyitanga,E Dusingizimana,D Wabwire,0,0,,,,,,"",""
+ball,2,2.2,Rwanda,W Niyitanga,E Dusingizimana,D Wabwire,1,0,,,,,,"",""
+ball,2,2.3,Rwanda,E Dusingizimana,W Niyitanga,D Wabwire,4,0,,,,,,"",""
+ball,2,2.4,Rwanda,E Dusingizimana,W Niyitanga,D Wabwire,4,0,,,,,,"",""
+ball,2,2.5,Rwanda,E Dusingizimana,W Niyitanga,D Wabwire,0,0,,,,,,"",""
+ball,2,2.6,Rwanda,E Dusingizimana,W Niyitanga,D Wabwire,0,0,,,,,,caught,E Dusingizimana
+ball,2,3.1,Rwanda,W Niyitanga,O Tuyisenge,J Sebanja,0,0,,,,,,"",""
+ball,2,3.2,Rwanda,W Niyitanga,O Tuyisenge,J Sebanja,0,0,,,,,,caught,W Niyitanga
+ball,2,3.3,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,0,0,,,,,,"",""
+ball,2,3.4,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,6,0,,,,,,"",""
+ball,2,3.5,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,0,0,,,,,,"",""
+ball,2,3.6,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,1,0,,,,,,"",""
+ball,2,4.1,Rwanda,C Rububagumya,O Tuyisenge,D Wabwire,0,0,,,,,,"",""
+ball,2,4.2,Rwanda,C Rububagumya,O Tuyisenge,D Wabwire,0,0,,,,,,"",""
+ball,2,4.3,Rwanda,C Rububagumya,O Tuyisenge,D Wabwire,0,0,,,,,,"",""
+ball,2,4.4,Rwanda,C Rububagumya,O Tuyisenge,D Wabwire,0,0,,,,,,"",""
+ball,2,4.5,Rwanda,C Rububagumya,O Tuyisenge,D Wabwire,0,0,,,,,,"",""
+ball,2,4.6,Rwanda,C Rububagumya,O Tuyisenge,D Wabwire,0,0,,,,,,"",""
+ball,2,5.1,Rwanda,O Tuyisenge,C Rububagumya,J Sebanja,1,0,,,,,,"",""
+ball,2,5.2,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,0,0,,,,,,"",""
+ball,2,5.3,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,4,0,,,,,,"",""
+ball,2,5.4,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,5,0,,,,,,"",""
+ball,2,5.5,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,0,0,,,,,,"",""
+ball,2,5.6,Rwanda,C Rububagumya,O Tuyisenge,J Sebanja,4,0,,,,,,"",""
+ball,2,6.1,Rwanda,O Tuyisenge,C Rububagumya,D Wabwire,0,0,,,,,,"",""
+ball,2,6.2,Rwanda,O Tuyisenge,C Rububagumya,D Wabwire,1,0,,,,,,"",""
+ball,2,6.3,Rwanda,C Rububagumya,O Tuyisenge,D Wabwire,1,0,,,,,,"",""
+ball,2,6.4,Rwanda,O Tuyisenge,C Rububagumya,D Wabwire,2,0,,,,,,"",""
+ball,2,6.5,Rwanda,O Tuyisenge,C Rububagumya,D Wabwire,0,0,,,,,,caught,O Tuyisenge
+ball,2,6.6,Rwanda,E Sebareme,C Rububagumya,D Wabwire,4,0,,,,,,"",""
+ball,2,7.1,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,4,0,,,,,,"",""
+ball,2,7.2,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,1,1,,1,,,,"",""
+ball,2,7.3,Rwanda,E Sebareme,C Rububagumya,S Nsubuga,1,0,,,,,,"",""
+ball,2,7.4,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,2,0,,,,,,"",""
+ball,2,7.5,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,1,0,,,,,,"",""
+ball,2,7.6,Rwanda,E Sebareme,C Rububagumya,S Nsubuga,0,0,,,,,,"",""
+ball,2,7.7,Rwanda,E Sebareme,C Rububagumya,S Nsubuga,0,0,,,,,,"",""
+ball,2,8.1,Rwanda,C Rububagumya,E Sebareme,K Waiswa,4,0,,,,,,"",""
+ball,2,8.2,Rwanda,C Rububagumya,E Sebareme,K Waiswa,0,1,1,,,,,"",""
+ball,2,8.3,Rwanda,C Rububagumya,E Sebareme,K Waiswa,1,0,,,,,,"",""
+ball,2,8.4,Rwanda,E Sebareme,C Rububagumya,K Waiswa,0,1,,,,1,,"",""
+ball,2,8.5,Rwanda,C Rububagumya,E Sebareme,K Waiswa,0,0,,,,,,"",""
+ball,2,8.6,Rwanda,C Rububagumya,E Sebareme,K Waiswa,0,0,,,,,,"",""
+ball,2,8.7,Rwanda,C Rububagumya,E Sebareme,K Waiswa,1,0,,,,,,"",""
+ball,2,9.1,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.2,Rwanda,E Sebareme,C Rububagumya,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.3,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.4,Rwanda,E Sebareme,C Rububagumya,S Nsubuga,1,0,,,,,,"",""
+ball,2,9.5,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,2,0,,,,,,"",""
+ball,2,9.6,Rwanda,C Rububagumya,E Sebareme,S Nsubuga,0,0,,,,,,"",""
+ball,2,10.1,Rwanda,E Sebareme,C Rububagumya,AR Ramjani,1,0,,,,,,"",""
+ball,2,10.2,Rwanda,C Rububagumya,E Sebareme,AR Ramjani,1,0,,,,,,"",""
+ball,2,10.3,Rwanda,E Sebareme,C Rububagumya,AR Ramjani,0,1,,,1,,,"",""
+ball,2,10.4,Rwanda,C Rububagumya,E Sebareme,AR Ramjani,0,0,,,,,,"",""
+ball,2,10.5,Rwanda,C Rububagumya,E Sebareme,AR Ramjani,0,0,,,,,,caught,C Rububagumya
+ball,2,10.6,Rwanda,K Irakoze,E Sebareme,AR Ramjani,0,0,,,,,,bowled,K Irakoze
+ball,2,11.1,Rwanda,E Sebareme,E Niyomugabo,S Nsubuga,0,0,,,,,,"",""
+ball,2,11.2,Rwanda,E Sebareme,E Niyomugabo,S Nsubuga,6,0,,,,,,"",""
+ball,2,11.3,Rwanda,E Sebareme,E Niyomugabo,S Nsubuga,0,0,,,,,,"",""
+ball,2,11.4,Rwanda,E Sebareme,E Niyomugabo,S Nsubuga,0,0,,,,,,"",""
+ball,2,11.5,Rwanda,E Sebareme,E Niyomugabo,S Nsubuga,1,0,,,,,,"",""
+ball,2,11.6,Rwanda,E Niyomugabo,E Sebareme,S Nsubuga,4,0,,,,,,"",""
+ball,2,12.1,Rwanda,E Sebareme,E Niyomugabo,AR Ramjani,1,0,,,,,,"",""
+ball,2,12.2,Rwanda,E Niyomugabo,E Sebareme,AR Ramjani,0,0,,,,,,bowled,E Niyomugabo
+ball,2,12.3,Rwanda,M Akayezu,E Sebareme,AR Ramjani,0,0,,,,,,"",""
+ball,2,12.4,Rwanda,M Akayezu,E Sebareme,AR Ramjani,1,0,,,,,,"",""
+ball,2,12.5,Rwanda,E Sebareme,M Akayezu,AR Ramjani,0,0,,,,,,"",""
+ball,2,12.6,Rwanda,E Sebareme,M Akayezu,AR Ramjani,0,0,,,,,,"",""
+ball,2,13.1,Rwanda,M Akayezu,E Sebareme,B Masaba,1,0,,,,,,"",""
+ball,2,13.2,Rwanda,E Sebareme,M Akayezu,B Masaba,6,0,,,,,,"",""
+ball,2,13.3,Rwanda,E Sebareme,M Akayezu,B Masaba,6,0,,,,,,"",""
+ball,2,13.4,Rwanda,E Sebareme,M Akayezu,B Masaba,6,0,,,,,,"",""
+ball,2,13.5,Rwanda,E Sebareme,M Akayezu,B Masaba,0,0,,,,,,caught,E Sebareme
+ball,2,13.6,Rwanda,E Rukiriza,M Akayezu,B Masaba,0,0,,,,,,"",""
+ball,2,14.1,Rwanda,M Akayezu,E Rukiriza,AR Ramjani,0,0,,,,,,"",""
+ball,2,14.2,Rwanda,M Akayezu,E Rukiriza,AR Ramjani,1,0,,,,,,"",""
+ball,2,14.3,Rwanda,E Rukiriza,M Akayezu,AR Ramjani,0,0,,,,,,"",""
+ball,2,14.4,Rwanda,E Rukiriza,M Akayezu,AR Ramjani,0,0,,,,,,bowled,E Rukiriza
+ball,2,14.5,Rwanda,Z Bimenyimana,M Akayezu,AR Ramjani,2,0,,,,,,"",""
+ball,2,14.6,Rwanda,Z Bimenyimana,M Akayezu,AR Ramjani,2,0,,,,,,"",""
+ball,2,15.1,Rwanda,M Akayezu,Z Bimenyimana,B Masaba,0,0,,,,,,"",""
+ball,2,15.2,Rwanda,M Akayezu,Z Bimenyimana,B Masaba,4,0,,,,,,"",""
+ball,2,15.3,Rwanda,M Akayezu,Z Bimenyimana,B Masaba,0,0,,,,,,caught,M Akayezu

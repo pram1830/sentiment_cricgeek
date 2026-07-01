@@ -1,0 +1,308 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,female
+info,season,2018/19
+info,date,2018/11/14
+info,event,ICC Women's T20 World Cup
+info,match_number,12
+info,venue,"Daren Sammy National Cricket Stadium, Gros Islet"
+info,city,St Lucia
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,SR Taylor
+info,umpire,Sharfuddoula
+info,umpire,Ahsan Raza
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,Nitin Menon
+info,match_referee,GF Labrooy
+info,winner,West Indies
+info,winner_runs,31
+info,player,West Indies,HK Matthews
+info,player,West Indies,DJS Dottin
+info,player,West Indies,SR Taylor
+info,player,West Indies,SA Campbelle
+info,player,West Indies,Kycia A Knight
+info,player,West Indies,NY McLean
+info,player,West Indies,B Cooper
+info,player,West Indies,CA Henry
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,SC Selman
+info,player,West Indies,SS Connell
+info,player,South Africa,L Lee
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,M Kapp
+info,player,South Africa,D van Niekerk
+info,player,South Africa,S Luus
+info,player,South Africa,M du Preez
+info,player,South Africa,CL Tryon
+info,player,South Africa,S Ismail
+info,player,South Africa,M Klaas
+info,player,South Africa,M Daniels
+info,player,South Africa,TS Sekhukhune
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,B Cooper,ac0edb42
+info,registry,people,CA Henry,75820733
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,Kycia A Knight,552f664a
+info,registry,people,L Lee,7b01ce83
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Daniels,16443d2f
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,M du Preez,e219f17a
+info,registry,people,NY McLean,1d39dc61
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SC Selman,c29ada99
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,TS Sekhukhune,6e28e586
+ball,1,0.1,West Indies,HK Matthews,DJS Dottin,M Kapp,1,0,,,,,,"",""
+ball,1,0.2,West Indies,DJS Dottin,HK Matthews,M Kapp,0,1,,,,1,,"",""
+ball,1,0.3,West Indies,HK Matthews,DJS Dottin,M Kapp,0,0,,,,,,"",""
+ball,1,0.4,West Indies,HK Matthews,DJS Dottin,M Kapp,1,0,,,,,,"",""
+ball,1,0.5,West Indies,DJS Dottin,HK Matthews,M Kapp,0,0,,,,,,"",""
+ball,1,0.6,West Indies,DJS Dottin,HK Matthews,M Kapp,0,0,,,,,,"",""
+ball,1,1.1,West Indies,HK Matthews,DJS Dottin,S Ismail,6,0,,,,,,"",""
+ball,1,1.2,West Indies,HK Matthews,DJS Dottin,S Ismail,0,0,,,,,,"",""
+ball,1,1.3,West Indies,HK Matthews,DJS Dottin,S Ismail,0,0,,,,,,"",""
+ball,1,1.4,West Indies,HK Matthews,DJS Dottin,S Ismail,0,0,,,,,,caught,HK Matthews
+ball,1,1.5,West Indies,SR Taylor,DJS Dottin,S Ismail,0,0,,,,,,caught,SR Taylor
+ball,1,1.6,West Indies,SA Campbelle,DJS Dottin,S Ismail,0,0,,,,,,"",""
+ball,1,2.1,West Indies,DJS Dottin,SA Campbelle,M Kapp,0,0,,,,,,"",""
+ball,1,2.2,West Indies,DJS Dottin,SA Campbelle,M Kapp,4,0,,,,,,"",""
+ball,1,2.3,West Indies,DJS Dottin,SA Campbelle,M Kapp,3,0,,,,,,"",""
+ball,1,2.4,West Indies,SA Campbelle,DJS Dottin,M Kapp,1,0,,,,,,"",""
+ball,1,2.5,West Indies,DJS Dottin,SA Campbelle,M Kapp,4,0,,,,,,"",""
+ball,1,2.6,West Indies,DJS Dottin,SA Campbelle,M Kapp,1,0,,,,,,"",""
+ball,1,3.1,West Indies,DJS Dottin,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,3.2,West Indies,DJS Dottin,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,3.3,West Indies,DJS Dottin,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,3.4,West Indies,DJS Dottin,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,3.5,West Indies,DJS Dottin,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,3.6,West Indies,DJS Dottin,SA Campbelle,S Ismail,0,0,,,,,,caught,DJS Dottin
+ball,1,4.1,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,4.2,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,4.3,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,4.4,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,4.5,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,4.6,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,5.1,West Indies,Kycia A Knight,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,5.2,West Indies,Kycia A Knight,SA Campbelle,S Ismail,1,0,,,,,,"",""
+ball,1,5.3,West Indies,SA Campbelle,Kycia A Knight,S Ismail,1,0,,,,,,"",""
+ball,1,5.4,West Indies,Kycia A Knight,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,5.5,West Indies,Kycia A Knight,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,5.6,West Indies,Kycia A Knight,SA Campbelle,S Ismail,0,0,,,,,,"",""
+ball,1,6.1,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,6.2,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,6.3,West Indies,SA Campbelle,Kycia A Knight,M Kapp,4,0,,,,,,"",""
+ball,1,6.4,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,6.5,West Indies,SA Campbelle,Kycia A Knight,M Kapp,0,0,,,,,,"",""
+ball,1,6.6,West Indies,SA Campbelle,Kycia A Knight,M Kapp,1,0,,,,,,"",""
+ball,1,7.1,West Indies,SA Campbelle,Kycia A Knight,M Daniels,0,0,,,,,,bowled,SA Campbelle
+ball,1,7.2,West Indies,NY McLean,Kycia A Knight,M Daniels,0,0,,,,,,"",""
+ball,1,7.3,West Indies,NY McLean,Kycia A Knight,M Daniels,1,0,,,,,,"",""
+ball,1,7.4,West Indies,Kycia A Knight,NY McLean,M Daniels,0,0,,,,,,"",""
+ball,1,7.5,West Indies,Kycia A Knight,NY McLean,M Daniels,0,1,1,,,,,"",""
+ball,1,7.6,West Indies,Kycia A Knight,NY McLean,M Daniels,0,0,,,,,,"",""
+ball,1,7.7,West Indies,Kycia A Knight,NY McLean,M Daniels,0,0,,,,,,"",""
+ball,1,8.1,West Indies,NY McLean,Kycia A Knight,M Klaas,4,0,,,,,,"",""
+ball,1,8.2,West Indies,NY McLean,Kycia A Knight,M Klaas,1,0,,,,,,"",""
+ball,1,8.3,West Indies,Kycia A Knight,NY McLean,M Klaas,0,0,,,,,,"",""
+ball,1,8.4,West Indies,Kycia A Knight,NY McLean,M Klaas,0,0,,,,,,"",""
+ball,1,8.5,West Indies,Kycia A Knight,NY McLean,M Klaas,0,0,,,,,,"",""
+ball,1,8.6,West Indies,Kycia A Knight,NY McLean,M Klaas,0,0,,,,,,"",""
+ball,1,9.1,West Indies,NY McLean,Kycia A Knight,M Daniels,1,0,,,,,,"",""
+ball,1,9.2,West Indies,Kycia A Knight,NY McLean,M Daniels,0,0,,,,,,"",""
+ball,1,9.3,West Indies,Kycia A Knight,NY McLean,M Daniels,1,0,,,,,,"",""
+ball,1,9.4,West Indies,NY McLean,Kycia A Knight,M Daniels,0,0,,,,,,"",""
+ball,1,9.5,West Indies,NY McLean,Kycia A Knight,M Daniels,1,0,,,,,,"",""
+ball,1,9.6,West Indies,Kycia A Knight,NY McLean,M Daniels,2,0,,,,,,"",""
+ball,1,10.1,West Indies,NY McLean,Kycia A Knight,M Klaas,0,0,,,,,,"",""
+ball,1,10.2,West Indies,NY McLean,Kycia A Knight,M Klaas,2,0,,,,,,"",""
+ball,1,10.3,West Indies,NY McLean,Kycia A Knight,M Klaas,0,0,,,,,,"",""
+ball,1,10.4,West Indies,NY McLean,Kycia A Knight,M Klaas,0,0,,,,,,"",""
+ball,1,10.5,West Indies,NY McLean,Kycia A Knight,M Klaas,4,0,,,,,,"",""
+ball,1,10.6,West Indies,NY McLean,Kycia A Knight,M Klaas,1,0,,,,,,"",""
+ball,1,11.1,West Indies,NY McLean,Kycia A Knight,M Daniels,0,0,,,,,,"",""
+ball,1,11.2,West Indies,NY McLean,Kycia A Knight,M Daniels,0,0,,,,,,"",""
+ball,1,11.3,West Indies,NY McLean,Kycia A Knight,M Daniels,1,0,,,,,,"",""
+ball,1,11.4,West Indies,Kycia A Knight,NY McLean,M Daniels,0,0,,,,,,"",""
+ball,1,11.5,West Indies,Kycia A Knight,NY McLean,M Daniels,0,0,,,,,,"",""
+ball,1,11.6,West Indies,Kycia A Knight,NY McLean,M Daniels,1,0,,,,,,"",""
+ball,1,12.1,West Indies,Kycia A Knight,NY McLean,TS Sekhukhune,0,1,1,,,,,"",""
+ball,1,12.2,West Indies,Kycia A Knight,NY McLean,TS Sekhukhune,6,0,,,,,,"",""
+ball,1,12.3,West Indies,Kycia A Knight,NY McLean,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,12.4,West Indies,NY McLean,Kycia A Knight,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,12.5,West Indies,Kycia A Knight,NY McLean,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,12.6,West Indies,NY McLean,Kycia A Knight,TS Sekhukhune,5,0,,,,,,"",""
+ball,1,12.7,West Indies,Kycia A Knight,NY McLean,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,13.1,West Indies,NY McLean,Kycia A Knight,D van Niekerk,0,0,,,,,,"",""
+ball,1,13.2,West Indies,NY McLean,Kycia A Knight,D van Niekerk,1,0,,,,,,"",""
+ball,1,13.3,West Indies,Kycia A Knight,NY McLean,D van Niekerk,0,0,,,,,,"",""
+ball,1,13.4,West Indies,Kycia A Knight,NY McLean,D van Niekerk,0,0,,,,,,"",""
+ball,1,13.5,West Indies,Kycia A Knight,NY McLean,D van Niekerk,0,0,,,,,,"",""
+ball,1,13.6,West Indies,Kycia A Knight,NY McLean,D van Niekerk,1,0,,,,,,"",""
+ball,1,14.1,West Indies,Kycia A Knight,NY McLean,S Luus,1,0,,,,,,"",""
+ball,1,14.2,West Indies,NY McLean,Kycia A Knight,S Luus,4,0,,,,,,"",""
+ball,1,14.3,West Indies,NY McLean,Kycia A Knight,S Luus,1,0,,,,,,"",""
+ball,1,14.4,West Indies,Kycia A Knight,NY McLean,S Luus,1,0,,,,,,"",""
+ball,1,14.5,West Indies,NY McLean,Kycia A Knight,S Luus,0,0,,,,,,"",""
+ball,1,14.6,West Indies,NY McLean,Kycia A Knight,S Luus,0,0,,,,,,caught,NY McLean
+ball,1,15.1,West Indies,B Cooper,Kycia A Knight,D van Niekerk,0,0,,,,,,"",""
+ball,1,15.2,West Indies,B Cooper,Kycia A Knight,D van Niekerk,0,0,,,,,,"",""
+ball,1,15.3,West Indies,B Cooper,Kycia A Knight,D van Niekerk,0,0,,,,,,caught,B Cooper
+ball,1,15.4,West Indies,CA Henry,Kycia A Knight,D van Niekerk,2,0,,,,,,"",""
+ball,1,15.5,West Indies,CA Henry,Kycia A Knight,D van Niekerk,0,0,,,,,,"",""
+ball,1,15.6,West Indies,CA Henry,Kycia A Knight,D van Niekerk,0,0,,,,,,"",""
+ball,1,16.1,West Indies,Kycia A Knight,CA Henry,S Luus,0,0,,,,,,"",""
+ball,1,16.2,West Indies,Kycia A Knight,CA Henry,S Luus,4,0,,,,,,"",""
+ball,1,16.3,West Indies,Kycia A Knight,CA Henry,S Luus,1,0,,,,,,"",""
+ball,1,16.4,West Indies,CA Henry,Kycia A Knight,S Luus,0,0,,,,,,"",""
+ball,1,16.5,West Indies,CA Henry,Kycia A Knight,S Luus,0,0,,,,,,"",""
+ball,1,16.6,West Indies,CA Henry,Kycia A Knight,S Luus,1,0,,,,,,"",""
+ball,1,17.1,West Indies,CA Henry,Kycia A Knight,M Daniels,0,0,,,,,,"",""
+ball,1,17.2,West Indies,CA Henry,Kycia A Knight,M Daniels,1,0,,,,,,"",""
+ball,1,17.3,West Indies,Kycia A Knight,CA Henry,M Daniels,0,0,,,,,,"",""
+ball,1,17.4,West Indies,Kycia A Knight,CA Henry,M Daniels,0,1,1,,,,,"",""
+ball,1,17.5,West Indies,Kycia A Knight,CA Henry,M Daniels,0,1,1,,,,,"",""
+ball,1,17.6,West Indies,Kycia A Knight,CA Henry,M Daniels,4,0,,,,,,"",""
+ball,1,17.7,West Indies,Kycia A Knight,CA Henry,M Daniels,6,0,,,,,,"",""
+ball,1,17.8,West Indies,Kycia A Knight,CA Henry,M Daniels,1,0,,,,,,"",""
+ball,1,18.1,West Indies,Kycia A Knight,CA Henry,D van Niekerk,0,1,1,,,,,"",""
+ball,1,18.2,West Indies,Kycia A Knight,CA Henry,D van Niekerk,0,0,,,,,,caught,Kycia A Knight
+ball,1,18.3,West Indies,CA Henry,ASS Fletcher,D van Niekerk,0,2,,,,2,,"",""
+ball,1,18.4,West Indies,CA Henry,ASS Fletcher,D van Niekerk,1,0,,,,,,"",""
+ball,1,18.5,West Indies,ASS Fletcher,CA Henry,D van Niekerk,1,0,,,,,,"",""
+ball,1,18.6,West Indies,CA Henry,ASS Fletcher,D van Niekerk,1,0,,,,,,"",""
+ball,1,18.7,West Indies,ASS Fletcher,CA Henry,D van Niekerk,0,0,,,,,,"",""
+ball,1,19.1,West Indies,CA Henry,ASS Fletcher,S Ismail,1,0,,,,,,"",""
+ball,1,19.2,West Indies,ASS Fletcher,CA Henry,S Ismail,1,0,,,,,,"",""
+ball,1,19.3,West Indies,CA Henry,ASS Fletcher,S Ismail,1,0,,,,,,"",""
+ball,1,19.4,West Indies,ASS Fletcher,CA Henry,S Ismail,1,0,,,,,,"",""
+ball,1,19.5,West Indies,CA Henry,ASS Fletcher,S Ismail,0,0,,,,,,"",""
+ball,1,19.6,West Indies,CA Henry,ASS Fletcher,S Ismail,0,1,,,1,,,"",""
+ball,2,0.1,South Africa,L Lee,L Wolvaardt,SC Selman,1,0,,,,,,"",""
+ball,2,0.2,South Africa,L Wolvaardt,L Lee,SC Selman,0,0,,,,,,"",""
+ball,2,0.3,South Africa,L Wolvaardt,L Lee,SC Selman,1,0,,,,,,"",""
+ball,2,0.4,South Africa,L Lee,L Wolvaardt,SC Selman,0,0,,,,,,"",""
+ball,2,0.5,South Africa,L Lee,L Wolvaardt,SC Selman,4,0,,,,,,"",""
+ball,2,0.6,South Africa,L Lee,L Wolvaardt,SC Selman,1,0,,,,,,"",""
+ball,2,1.1,South Africa,L Lee,L Wolvaardt,SS Connell,0,0,,,,,,"",""
+ball,2,1.2,South Africa,L Lee,L Wolvaardt,SS Connell,1,0,,,,,,"",""
+ball,2,1.3,South Africa,L Wolvaardt,L Lee,SS Connell,0,0,,,,,,"",""
+ball,2,1.4,South Africa,L Wolvaardt,L Lee,SS Connell,0,0,,,,,,"",""
+ball,2,1.5,South Africa,L Wolvaardt,L Lee,SS Connell,0,0,,,,,,"",""
+ball,2,1.6,South Africa,L Wolvaardt,L Lee,SS Connell,4,0,,,,,,"",""
+ball,2,2.1,South Africa,L Lee,L Wolvaardt,SC Selman,0,0,,,,,,"",""
+ball,2,2.2,South Africa,L Lee,L Wolvaardt,SC Selman,1,0,,,,,,"",""
+ball,2,2.3,South Africa,L Wolvaardt,L Lee,SC Selman,0,0,,,,,,"",""
+ball,2,2.4,South Africa,L Wolvaardt,L Lee,SC Selman,0,0,,,,,,"",""
+ball,2,2.5,South Africa,L Wolvaardt,L Lee,SC Selman,0,0,,,,,,"",""
+ball,2,2.6,South Africa,L Wolvaardt,L Lee,SC Selman,2,0,,,,,,"",""
+ball,2,3.1,South Africa,L Lee,L Wolvaardt,SS Connell,0,0,,,,,,"",""
+ball,2,3.2,South Africa,L Lee,L Wolvaardt,SS Connell,0,0,,,,,,"",""
+ball,2,3.3,South Africa,L Lee,L Wolvaardt,SS Connell,1,0,,,,,,"",""
+ball,2,3.4,South Africa,L Wolvaardt,L Lee,SS Connell,0,0,,,,,,"",""
+ball,2,3.5,South Africa,L Wolvaardt,L Lee,SS Connell,1,0,,,,,,"",""
+ball,2,3.6,South Africa,L Lee,L Wolvaardt,SS Connell,0,0,,,,,,"",""
+ball,2,4.1,South Africa,L Wolvaardt,L Lee,SC Selman,0,0,,,,,,caught,L Wolvaardt
+ball,2,4.2,South Africa,M Kapp,L Lee,SC Selman,0,0,,,,,,"",""
+ball,2,4.3,South Africa,M Kapp,L Lee,SC Selman,0,0,,,,,,"",""
+ball,2,4.4,South Africa,M Kapp,L Lee,SC Selman,1,0,,,,,,"",""
+ball,2,4.5,South Africa,L Lee,M Kapp,SC Selman,0,0,,,,,,"",""
+ball,2,4.6,South Africa,L Lee,M Kapp,SC Selman,1,0,,,,,,"",""
+ball,2,5.1,South Africa,L Lee,M Kapp,SS Connell,0,0,,,,,,"",""
+ball,2,5.2,South Africa,L Lee,M Kapp,SS Connell,0,0,,,,,,"",""
+ball,2,5.3,South Africa,L Lee,M Kapp,SS Connell,1,0,,,,,,"",""
+ball,2,5.4,South Africa,M Kapp,L Lee,SS Connell,0,0,,,,,,"",""
+ball,2,5.5,South Africa,M Kapp,L Lee,SS Connell,0,0,,,,,,"",""
+ball,2,5.6,South Africa,M Kapp,L Lee,SS Connell,0,0,,,,,,"",""
+ball,2,6.1,South Africa,L Lee,M Kapp,SC Selman,0,0,,,,,,"",""
+ball,2,6.2,South Africa,L Lee,M Kapp,SC Selman,0,0,,,,,,"",""
+ball,2,6.3,South Africa,L Lee,M Kapp,SC Selman,1,0,,,,,,"",""
+ball,2,6.4,South Africa,M Kapp,L Lee,SC Selman,4,0,,,,,,"",""
+ball,2,6.5,South Africa,M Kapp,L Lee,SC Selman,0,0,,,,,,"",""
+ball,2,6.6,South Africa,M Kapp,L Lee,SC Selman,2,0,,,,,,"",""
+ball,2,7.1,South Africa,L Lee,M Kapp,CA Henry,0,0,,,,,,"",""
+ball,2,7.2,South Africa,L Lee,M Kapp,CA Henry,0,0,,,,,,"",""
+ball,2,7.3,South Africa,L Lee,M Kapp,CA Henry,1,0,,,,,,"",""
+ball,2,7.4,South Africa,M Kapp,L Lee,CA Henry,1,0,,,,,,"",""
+ball,2,7.5,South Africa,L Lee,M Kapp,CA Henry,0,0,,,,,,"",""
+ball,2,7.6,South Africa,L Lee,M Kapp,CA Henry,0,0,,,,,,"",""
+ball,2,8.1,South Africa,M Kapp,L Lee,DJS Dottin,0,0,,,,,,"",""
+ball,2,8.2,South Africa,M Kapp,L Lee,DJS Dottin,1,0,,,,,,"",""
+ball,2,8.3,South Africa,L Lee,M Kapp,DJS Dottin,0,0,,,,,,"",""
+ball,2,8.4,South Africa,L Lee,M Kapp,DJS Dottin,6,0,,,,,,"",""
+ball,2,8.5,South Africa,L Lee,M Kapp,DJS Dottin,0,0,,,,,,"",""
+ball,2,8.6,South Africa,L Lee,M Kapp,DJS Dottin,1,0,,,,,,"",""
+ball,2,9.1,South Africa,L Lee,M Kapp,CA Henry,1,0,,,,,,"",""
+ball,2,9.2,South Africa,M Kapp,L Lee,CA Henry,0,0,,,,,,"",""
+ball,2,9.3,South Africa,M Kapp,L Lee,CA Henry,0,0,,,,,,"",""
+ball,2,9.4,South Africa,M Kapp,L Lee,CA Henry,1,0,,,,,,"",""
+ball,2,9.5,South Africa,L Lee,M Kapp,CA Henry,2,0,,,,,,"",""
+ball,2,9.6,South Africa,L Lee,M Kapp,CA Henry,0,0,,,,,,"",""
+ball,2,10.1,South Africa,M Kapp,L Lee,DJS Dottin,4,0,,,,,,"",""
+ball,2,10.2,South Africa,M Kapp,L Lee,DJS Dottin,0,0,,,,,,"",""
+ball,2,10.3,South Africa,M Kapp,L Lee,DJS Dottin,1,0,,,,,,"",""
+ball,2,10.4,South Africa,L Lee,M Kapp,DJS Dottin,1,0,,,,,,"",""
+ball,2,10.5,South Africa,M Kapp,L Lee,DJS Dottin,1,0,,,,,,"",""
+ball,2,10.6,South Africa,L Lee,M Kapp,DJS Dottin,0,0,,,,,,caught,L Lee
+ball,2,11.1,South Africa,M Kapp,D van Niekerk,CA Henry,1,0,,,,,,"",""
+ball,2,11.2,South Africa,D van Niekerk,M Kapp,CA Henry,0,0,,,,,,"",""
+ball,2,11.3,South Africa,D van Niekerk,M Kapp,CA Henry,1,0,,,,,,"",""
+ball,2,11.4,South Africa,M Kapp,D van Niekerk,CA Henry,0,0,,,,,,run out,D van Niekerk
+ball,2,11.5,South Africa,S Luus,M Kapp,CA Henry,0,0,,,,,,"",""
+ball,2,11.6,South Africa,S Luus,M Kapp,CA Henry,1,0,,,,,,"",""
+ball,2,12.1,South Africa,S Luus,M Kapp,SR Taylor,0,0,,,,,,"",""
+ball,2,12.2,South Africa,S Luus,M Kapp,SR Taylor,1,0,,,,,,"",""
+ball,2,12.3,South Africa,M Kapp,S Luus,SR Taylor,1,0,,,,,,"",""
+ball,2,12.4,South Africa,S Luus,M Kapp,SR Taylor,0,0,,,,,,caught,S Luus
+ball,2,12.5,South Africa,M du Preez,M Kapp,SR Taylor,1,0,,,,,,"",""
+ball,2,12.6,South Africa,M Kapp,M du Preez,SR Taylor,0,0,,,,,,"",""
+ball,2,13.1,South Africa,M du Preez,M Kapp,ASS Fletcher,1,0,,,,,,"",""
+ball,2,13.2,South Africa,M Kapp,M du Preez,ASS Fletcher,1,0,,,,,,"",""
+ball,2,13.3,South Africa,M du Preez,M Kapp,ASS Fletcher,1,0,,,,,,"",""
+ball,2,13.4,South Africa,M Kapp,M du Preez,ASS Fletcher,0,0,,,,,,"",""
+ball,2,13.5,South Africa,M Kapp,M du Preez,ASS Fletcher,1,0,,,,,,"",""
+ball,2,13.6,South Africa,M du Preez,M Kapp,ASS Fletcher,1,0,,,,,,"",""
+ball,2,14.1,South Africa,M du Preez,M Kapp,SR Taylor,1,0,,,,,,"",""
+ball,2,14.2,South Africa,M Kapp,M du Preez,SR Taylor,1,0,,,,,,"",""
+ball,2,14.3,South Africa,M du Preez,M Kapp,SR Taylor,2,0,,,,,,"",""
+ball,2,14.4,South Africa,M du Preez,M Kapp,SR Taylor,0,1,1,,,,,"",""
+ball,2,14.5,South Africa,M du Preez,M Kapp,SR Taylor,0,0,,,,,,caught,M du Preez
+ball,2,14.6,South Africa,M Kapp,CL Tryon,SR Taylor,0,0,,,,,,"",""
+ball,2,14.7,South Africa,M Kapp,CL Tryon,SR Taylor,1,0,,,,,,"",""
+ball,2,15.1,South Africa,M Kapp,CL Tryon,ASS Fletcher,1,0,,,,,,"",""
+ball,2,15.2,South Africa,CL Tryon,M Kapp,ASS Fletcher,0,0,,,,,,"",""
+ball,2,15.3,South Africa,CL Tryon,M Kapp,ASS Fletcher,4,0,,,,,,"",""
+ball,2,15.4,South Africa,CL Tryon,M Kapp,ASS Fletcher,1,0,,,,,,"",""
+ball,2,15.5,South Africa,M Kapp,CL Tryon,ASS Fletcher,1,0,,,,,,"",""
+ball,2,15.6,South Africa,CL Tryon,M Kapp,ASS Fletcher,0,0,,,,,,"",""
+ball,2,16.1,South Africa,M Kapp,CL Tryon,SR Taylor,1,0,,,,,,"",""
+ball,2,16.2,South Africa,CL Tryon,M Kapp,SR Taylor,1,0,,,,,,"",""
+ball,2,16.3,South Africa,M Kapp,CL Tryon,SR Taylor,1,0,,,,,,"",""
+ball,2,16.4,South Africa,CL Tryon,M Kapp,SR Taylor,0,0,,,,,,"",""
+ball,2,16.5,South Africa,CL Tryon,M Kapp,SR Taylor,0,0,,,,,,bowled,CL Tryon
+ball,2,16.6,South Africa,S Ismail,M Kapp,SR Taylor,0,0,,,,,,"",""
+ball,2,17.1,South Africa,M Kapp,S Ismail,SS Connell,0,0,,,,,,caught,M Kapp
+ball,2,17.2,South Africa,S Ismail,M Klaas,SS Connell,0,0,,,,,,"",""
+ball,2,17.3,South Africa,S Ismail,M Klaas,SS Connell,0,0,,,,,,"",""
+ball,2,17.4,South Africa,S Ismail,M Klaas,SS Connell,0,0,,,,,,"",""
+ball,2,17.5,South Africa,S Ismail,M Klaas,SS Connell,0,0,,,,,,"",""
+ball,2,17.6,South Africa,S Ismail,M Klaas,SS Connell,1,0,,,,,,"",""
+ball,2,18.1,South Africa,S Ismail,M Klaas,SR Taylor,0,0,,,,,,caught,S Ismail
+ball,2,18.2,South Africa,M Daniels,M Klaas,SR Taylor,0,0,,,,,,"",""
+ball,2,18.3,South Africa,M Daniels,M Klaas,SR Taylor,0,0,,,,,,run out,M Klaas
+ball,2,18.4,South Africa,TS Sekhukhune,M Daniels,SR Taylor,0,0,,,,,,run out,TS Sekhukhune

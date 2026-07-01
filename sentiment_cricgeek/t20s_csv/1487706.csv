@@ -1,0 +1,170 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Uganda
+info,gender,female
+info,season,2025
+info,date,2025/06/06
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,14
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,K Amuge
+info,umpire,R Singinzwa
+info,umpire,Vicky Prajapati
+info,reserve_umpire,F Mutizwa
+info,match_referee,ET Dube
+info,winner,Uganda
+info,winner_wickets,10
+info,player,Sierra Leone,E Kamara
+info,player,Sierra Leone,Aminata Kamara
+info,player,Sierra Leone,C Bull
+info,player,Sierra Leone,J Newland
+info,player,Sierra Leone,F Conteh
+info,player,Sierra Leone,AM Kamara
+info,player,Sierra Leone,L Bull
+info,player,Sierra Leone,Z Kamara
+info,player,Sierra Leone,P Pratt
+info,player,Sierra Leone,H Sawanneh
+info,player,Sierra Leone,AK Bangura
+info,player,Uganda,J Mbabazi
+info,player,Uganda,E Iloku
+info,player,Uganda,K Amuge
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,K Awino
+info,player,Uganda,P Alako
+info,player,Uganda,R Musamali
+info,player,Uganda,S Akiteng
+info,player,Uganda,S Tino
+info,player,Uganda,PE Kulume
+info,player,Uganda,T Oyella
+info,registry,people,AK Bangura,36c0228f
+info,registry,people,AM Kamara,4ca3d67d
+info,registry,people,Aminata Kamara,f7aca3b3
+info,registry,people,C Bull,a7b3bd26
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,E Kamara,3f8915a0
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Conteh,1dac0c4a
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,H Sawanneh,89372586
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,J Newland,d2089154
+info,registry,people,K Amuge,eb2de8d9
+info,registry,people,K Awino,c4e7749a
+info,registry,people,L Bull,256d29e8
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Pratt,ccac9ed0
+info,registry,people,PE Kulume,bb1a5f8a
+info,registry,people,R Musamali,017cadb2
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Tino,e2a702e3
+info,registry,people,T Oyella,5f03af45
+info,registry,people,Vicky Prajapati,8926ed4e
+info,registry,people,Z Kamara,a4e98e6b
+ball,1,0.1,Sierra Leone,E Kamara,Aminata Kamara,K Amuge,0,0,,,,,,"",""
+ball,1,0.2,Sierra Leone,E Kamara,Aminata Kamara,K Amuge,0,0,,,,,,"",""
+ball,1,0.3,Sierra Leone,E Kamara,Aminata Kamara,K Amuge,0,0,,,,,,lbw,E Kamara
+ball,1,0.4,Sierra Leone,C Bull,Aminata Kamara,K Amuge,0,5,5,,,,,"",""
+ball,1,0.5,Sierra Leone,C Bull,Aminata Kamara,K Amuge,0,1,,,,1,,"",""
+ball,1,0.6,Sierra Leone,Aminata Kamara,C Bull,K Amuge,0,0,,,,,,bowled,Aminata Kamara
+ball,1,0.7,Sierra Leone,J Newland,C Bull,K Amuge,0,0,,,,,,bowled,J Newland
+ball,1,1.1,Sierra Leone,C Bull,F Conteh,S Akiteng,0,0,,,,,,"",""
+ball,1,1.2,Sierra Leone,C Bull,F Conteh,S Akiteng,0,0,,,,,,caught and bowled,C Bull
+ball,1,1.3,Sierra Leone,AM Kamara,F Conteh,S Akiteng,0,0,,,,,,"",""
+ball,1,1.4,Sierra Leone,AM Kamara,F Conteh,S Akiteng,0,0,,,,,,"",""
+ball,1,1.5,Sierra Leone,AM Kamara,F Conteh,S Akiteng,0,0,,,,,,"",""
+ball,1,1.6,Sierra Leone,AM Kamara,F Conteh,S Akiteng,0,0,,,,,,bowled,AM Kamara
+ball,1,2.1,Sierra Leone,F Conteh,L Bull,K Amuge,0,0,,,,,,"",""
+ball,1,2.2,Sierra Leone,F Conteh,L Bull,K Amuge,1,0,,,,,,"",""
+ball,1,2.3,Sierra Leone,L Bull,F Conteh,K Amuge,0,0,,,,,,bowled,L Bull
+ball,1,2.4,Sierra Leone,Z Kamara,F Conteh,K Amuge,0,0,,,,,,"",""
+ball,1,2.5,Sierra Leone,Z Kamara,F Conteh,K Amuge,0,0,,,,,,"",""
+ball,1,2.6,Sierra Leone,Z Kamara,F Conteh,K Amuge,1,0,,,,,,"",""
+ball,1,3.1,Sierra Leone,Z Kamara,F Conteh,T Oyella,0,0,,,,,,"",""
+ball,1,3.2,Sierra Leone,Z Kamara,F Conteh,T Oyella,0,0,,,,,,"",""
+ball,1,3.3,Sierra Leone,Z Kamara,F Conteh,T Oyella,1,0,,,,,,"",""
+ball,1,3.4,Sierra Leone,F Conteh,Z Kamara,T Oyella,0,0,,,,,,"",""
+ball,1,3.5,Sierra Leone,F Conteh,Z Kamara,T Oyella,0,0,,,,,,"",""
+ball,1,3.6,Sierra Leone,F Conteh,Z Kamara,T Oyella,1,0,,,,,,"",""
+ball,1,4.1,Sierra Leone,F Conteh,Z Kamara,K Amuge,4,0,,,,,,"",""
+ball,1,4.2,Sierra Leone,F Conteh,Z Kamara,K Amuge,0,0,,,,,,"",""
+ball,1,4.3,Sierra Leone,F Conteh,Z Kamara,K Amuge,0,0,,,,,,"",""
+ball,1,4.4,Sierra Leone,F Conteh,Z Kamara,K Amuge,0,0,,,,,,bowled,F Conteh
+ball,1,4.5,Sierra Leone,P Pratt,Z Kamara,K Amuge,0,0,,,,,,"",""
+ball,1,4.6,Sierra Leone,P Pratt,Z Kamara,K Amuge,0,0,,,,,,"",""
+ball,1,5.1,Sierra Leone,Z Kamara,P Pratt,T Oyella,0,0,,,,,,run out,P Pratt
+ball,1,5.2,Sierra Leone,H Sawanneh,Z Kamara,T Oyella,0,0,,,,,,"",""
+ball,1,5.3,Sierra Leone,H Sawanneh,Z Kamara,T Oyella,0,0,,,,,,"",""
+ball,1,5.4,Sierra Leone,H Sawanneh,Z Kamara,T Oyella,0,0,,,,,,"",""
+ball,1,5.5,Sierra Leone,H Sawanneh,Z Kamara,T Oyella,0,0,,,,,,"",""
+ball,1,5.6,Sierra Leone,H Sawanneh,Z Kamara,T Oyella,0,0,,,,,,"",""
+ball,1,6.1,Sierra Leone,Z Kamara,H Sawanneh,S Tino,0,1,1,,,,,"",""
+ball,1,6.2,Sierra Leone,Z Kamara,H Sawanneh,S Tino,0,1,1,,,,,"",""
+ball,1,6.3,Sierra Leone,Z Kamara,H Sawanneh,S Tino,0,0,,,,,,bowled,Z Kamara
+ball,1,6.4,Sierra Leone,AK Bangura,H Sawanneh,S Tino,0,0,,,,,,"",""
+ball,1,6.5,Sierra Leone,AK Bangura,H Sawanneh,S Tino,0,0,,,,,,"",""
+ball,1,6.6,Sierra Leone,AK Bangura,H Sawanneh,S Tino,0,0,,,,,,"",""
+ball,1,6.7,Sierra Leone,AK Bangura,H Sawanneh,S Tino,1,0,,,,,,"",""
+ball,1,6.8,Sierra Leone,H Sawanneh,AK Bangura,S Tino,0,0,,,,,,"",""
+ball,1,7.1,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,0,0,,,,,,"",""
+ball,1,7.2,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,1,0,,,,,,"",""
+ball,1,7.3,Sierra Leone,H Sawanneh,AK Bangura,T Oyella,1,0,,,,,,"",""
+ball,1,7.4,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,0,0,,,,,,"",""
+ball,1,7.5,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,0,0,,,,,,"",""
+ball,1,7.6,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,0,0,,,,,,"",""
+ball,1,8.1,Sierra Leone,H Sawanneh,AK Bangura,S Tino,0,0,,,,,,"",""
+ball,1,8.2,Sierra Leone,H Sawanneh,AK Bangura,S Tino,0,0,,,,,,"",""
+ball,1,8.3,Sierra Leone,H Sawanneh,AK Bangura,S Tino,1,0,,,,,,"",""
+ball,1,8.4,Sierra Leone,AK Bangura,H Sawanneh,S Tino,0,0,,,,,,"",""
+ball,1,8.5,Sierra Leone,AK Bangura,H Sawanneh,S Tino,1,0,,,,,,"",""
+ball,1,8.6,Sierra Leone,H Sawanneh,AK Bangura,S Tino,0,0,,,,,,"",""
+ball,1,9.1,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,1,0,,,,,,"",""
+ball,1,9.2,Sierra Leone,H Sawanneh,AK Bangura,T Oyella,1,0,,,,,,"",""
+ball,1,9.3,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,0,0,,,,,,"",""
+ball,1,9.4,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,0,0,,,,,,"",""
+ball,1,9.5,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,0,0,,,,,,"",""
+ball,1,9.6,Sierra Leone,AK Bangura,H Sawanneh,T Oyella,1,0,,,,,,"",""
+ball,1,10.1,Sierra Leone,AK Bangura,H Sawanneh,K Amuge,1,0,,,,,,"",""
+ball,1,10.2,Sierra Leone,H Sawanneh,AK Bangura,K Amuge,1,0,,,,,,"",""
+ball,1,10.3,Sierra Leone,AK Bangura,H Sawanneh,K Amuge,0,0,,,,,,"",""
+ball,1,10.4,Sierra Leone,AK Bangura,H Sawanneh,K Amuge,0,0,,,,,,"",""
+ball,1,10.5,Sierra Leone,AK Bangura,H Sawanneh,K Amuge,1,0,,,,,,"",""
+ball,1,10.6,Sierra Leone,H Sawanneh,AK Bangura,K Amuge,0,1,1,,,,,"",""
+ball,1,10.7,Sierra Leone,H Sawanneh,AK Bangura,K Amuge,4,0,,,,,,"",""
+ball,1,11.1,Sierra Leone,AK Bangura,H Sawanneh,S Akiteng,0,0,,,,,,bowled,AK Bangura
+ball,2,0.1,Uganda,J Mbabazi,E Iloku,C Bull,0,0,,,,,,"",""
+ball,2,0.2,Uganda,J Mbabazi,E Iloku,C Bull,0,0,,,,,,"",""
+ball,2,0.3,Uganda,J Mbabazi,E Iloku,C Bull,1,0,,,,,,"",""
+ball,2,0.4,Uganda,E Iloku,J Mbabazi,C Bull,1,0,,,,,,"",""
+ball,2,0.5,Uganda,J Mbabazi,E Iloku,C Bull,0,0,,,,,,"",""
+ball,2,0.6,Uganda,J Mbabazi,E Iloku,C Bull,0,0,,,,,,"",""
+ball,2,1.1,Uganda,E Iloku,J Mbabazi,AK Bangura,0,1,1,,,,,"",""
+ball,2,1.2,Uganda,E Iloku,J Mbabazi,AK Bangura,0,0,,,,,,"",""
+ball,2,1.3,Uganda,E Iloku,J Mbabazi,AK Bangura,0,0,,,,,,"",""
+ball,2,1.4,Uganda,E Iloku,J Mbabazi,AK Bangura,0,1,1,,,,,"",""
+ball,2,1.5,Uganda,E Iloku,J Mbabazi,AK Bangura,1,0,,,,,,"",""
+ball,2,1.6,Uganda,J Mbabazi,E Iloku,AK Bangura,4,0,,,,,,"",""
+ball,2,1.7,Uganda,J Mbabazi,E Iloku,AK Bangura,4,0,,,,,,"",""
+ball,2,1.8,Uganda,J Mbabazi,E Iloku,AK Bangura,1,0,,,,,,"",""
+ball,2,2.1,Uganda,J Mbabazi,E Iloku,C Bull,2,0,,,,,,"",""
+ball,2,2.2,Uganda,J Mbabazi,E Iloku,C Bull,0,0,,,,,,"",""
+ball,2,2.3,Uganda,J Mbabazi,E Iloku,C Bull,0,0,,,,,,"",""
+ball,2,2.4,Uganda,J Mbabazi,E Iloku,C Bull,0,0,,,,,,"",""
+ball,2,2.5,Uganda,J Mbabazi,E Iloku,C Bull,1,0,,,,,,"",""
+ball,2,2.6,Uganda,E Iloku,J Mbabazi,C Bull,2,0,,,,,,"",""
+ball,2,3.1,Uganda,J Mbabazi,E Iloku,L Bull,0,0,,,,,,"",""
+ball,2,3.2,Uganda,J Mbabazi,E Iloku,L Bull,1,0,,,,,,"",""
+ball,2,3.3,Uganda,E Iloku,J Mbabazi,L Bull,1,0,,,,,,"",""
+ball,2,3.4,Uganda,J Mbabazi,E Iloku,L Bull,2,0,,,,,,"",""
+ball,2,3.5,Uganda,J Mbabazi,E Iloku,L Bull,1,0,,,,,,"",""
+ball,2,3.6,Uganda,E Iloku,J Mbabazi,L Bull,2,0,,,,,,"",""
+ball,2,4.1,Uganda,J Mbabazi,E Iloku,C Bull,1,0,,,,,,"",""
+ball,2,4.2,Uganda,E Iloku,J Mbabazi,C Bull,0,0,,,,,,"",""
+ball,2,4.3,Uganda,E Iloku,J Mbabazi,C Bull,4,0,,,,,,"",""
+ball,2,4.4,Uganda,E Iloku,J Mbabazi,C Bull,1,0,,,,,,"",""
+ball,2,4.5,Uganda,J Mbabazi,E Iloku,C Bull,1,0,,,,,,"",""

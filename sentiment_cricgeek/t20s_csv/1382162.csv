@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,South Africa
+info,gender,female
+info,season,2023
+info,date,2023/09/04
+info,event,South Africa Women tour of Pakistan
+info,match_number,3
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,L Wolvaardt
+info,umpire,Faisal Afridi
+info,umpire,Tariq Rasheed
+info,reserve_umpire,Afia Amin
+info,tv_umpire,Rashid Riaz
+info,match_referee,Muhammad Javed
+info,winner,Pakistan
+info,winner_runs,6
+info,player,Pakistan,Shawaal Zulfiqar
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Syeda Aroob Shah
+info,player,Pakistan,Umm-e-Hani
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,N de Klerk
+info,player,South Africa,D Tucker
+info,player,South Africa,N Shangase
+info,player,South Africa,M De Ridder
+info,player,South Africa,M Klaas
+info,player,South Africa,N Mlaba
+info,player,South Africa,TS Sekhukhune
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,Afia Amin,7fc47de1
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,D Tucker,2b425403
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M De Ridder,5bb7ec70
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N Mlaba,686362af
+info,registry,people,N Shangase,b17a4a93
+info,registry,people,N de Klerk,ea544967
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Luus,6d76bc23
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Shawaal Zulfiqar,adb2f55e
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Syeda Aroob Shah,4cf8708b
+info,registry,people,T Brits,06659caa
+info,registry,people,TS Sekhukhune,6e28e586
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Umm-e-Hani,6ee11109
+ball,1,0.1,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N Mlaba,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N Mlaba,0,0,,,,,,"",""
+ball,1,0.3,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N Mlaba,0,0,,,,,,"",""
+ball,1,0.4,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N Mlaba,1,0,,,,,,"",""
+ball,1,0.5,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N Mlaba,0,0,,,,,,"",""
+ball,1,0.6,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N Mlaba,1,0,,,,,,"",""
+ball,1,1.1,Pakistan,Sidra Ameen,Shawaal Zulfiqar,M Klaas,1,0,,,,,,"",""
+ball,1,1.2,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,0,0,,,,,,"",""
+ball,1,1.3,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,0,0,,,,,,"",""
+ball,1,1.4,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,0,0,,,,,,"",""
+ball,1,1.5,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,4,0,,,,,,"",""
+ball,1,1.6,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,4,0,,,,,,"",""
+ball,1,2.1,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,0,0,,,,,,"",""
+ball,1,2.2,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,4,0,,,,,,"",""
+ball,1,2.3,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,0,0,,,,,,"",""
+ball,1,2.4,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,1,0,,,,,,"",""
+ball,1,2.5,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N de Klerk,2,0,,,,,,"",""
+ball,1,2.6,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N de Klerk,4,0,,,,,,"",""
+ball,1,3.1,Pakistan,Sidra Ameen,Shawaal Zulfiqar,TS Sekhukhune,0,1,1,,,,,"",""
+ball,1,3.2,Pakistan,Sidra Ameen,Shawaal Zulfiqar,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,3.3,Pakistan,Sidra Ameen,Shawaal Zulfiqar,TS Sekhukhune,1,1,,1,,,,"",""
+ball,1,3.4,Pakistan,Shawaal Zulfiqar,Sidra Ameen,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,3.5,Pakistan,Sidra Ameen,Shawaal Zulfiqar,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,3.6,Pakistan,Sidra Ameen,Shawaal Zulfiqar,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,3.7,Pakistan,Shawaal Zulfiqar,Sidra Ameen,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,3.8,Pakistan,Sidra Ameen,Shawaal Zulfiqar,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,4.1,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,0,0,,,,,,"",""
+ball,1,4.2,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,2,0,,,,,,"",""
+ball,1,4.3,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,0,1,1,,,,,"",""
+ball,1,4.4,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,4,0,,,,,,"",""
+ball,1,4.5,Pakistan,Sidra Ameen,Shawaal Zulfiqar,N de Klerk,1,0,,,,,,"",""
+ball,1,4.6,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N de Klerk,0,0,,,,,,"",""
+ball,1,4.7,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N de Klerk,0,0,,,,,,"",""
+ball,1,5.1,Pakistan,Sidra Ameen,Shawaal Zulfiqar,M Klaas,0,0,,,,,,"",""
+ball,1,5.2,Pakistan,Sidra Ameen,Shawaal Zulfiqar,M Klaas,2,0,,,,,,"",""
+ball,1,5.3,Pakistan,Sidra Ameen,Shawaal Zulfiqar,M Klaas,1,0,,,,,,"",""
+ball,1,5.4,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,0,0,,,,,,"",""
+ball,1,5.5,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,0,0,,,,,,"",""
+ball,1,5.6,Pakistan,Shawaal Zulfiqar,Sidra Ameen,M Klaas,1,0,,,,,,"",""
+ball,1,6.1,Pakistan,Shawaal Zulfiqar,Sidra Ameen,N Mlaba,0,0,,,,,,caught and bowled,Shawaal Zulfiqar
+ball,1,6.2,Pakistan,Bismah Maroof,Sidra Ameen,N Mlaba,1,0,,,,,,"",""
+ball,1,6.3,Pakistan,Sidra Ameen,Bismah Maroof,N Mlaba,0,0,,,,,,"",""
+ball,1,6.4,Pakistan,Sidra Ameen,Bismah Maroof,N Mlaba,4,0,,,,,,"",""
+ball,1,6.5,Pakistan,Sidra Ameen,Bismah Maroof,N Mlaba,1,0,,,,,,"",""
+ball,1,6.6,Pakistan,Bismah Maroof,Sidra Ameen,N Mlaba,0,0,,,,,,"",""
+ball,1,7.1,Pakistan,Sidra Ameen,Bismah Maroof,D Tucker,1,0,,,,,,"",""
+ball,1,7.2,Pakistan,Bismah Maroof,Sidra Ameen,D Tucker,1,0,,,,,,"",""
+ball,1,7.3,Pakistan,Sidra Ameen,Bismah Maroof,D Tucker,0,0,,,,,,"",""
+ball,1,7.4,Pakistan,Sidra Ameen,Bismah Maroof,D Tucker,0,0,,,,,,"",""
+ball,1,7.5,Pakistan,Sidra Ameen,Bismah Maroof,D Tucker,0,0,,,,,,"",""
+ball,1,7.6,Pakistan,Sidra Ameen,Bismah Maroof,D Tucker,4,0,,,,,,"",""
+ball,1,8.1,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,0,0,,,,,,"",""
+ball,1,8.2,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,1,0,,,,,,"",""
+ball,1,8.3,Pakistan,Sidra Ameen,Bismah Maroof,N Shangase,1,0,,,,,,"",""
+ball,1,8.4,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,0,0,,,,,,"",""
+ball,1,8.5,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,4,0,,,,,,"",""
+ball,1,8.6,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,1,0,,,,,,"",""
+ball,1,9.1,Pakistan,Bismah Maroof,Sidra Ameen,D Tucker,3,0,,,,,,"",""
+ball,1,9.2,Pakistan,Sidra Ameen,Bismah Maroof,D Tucker,1,0,,,,,,"",""
+ball,1,9.3,Pakistan,Bismah Maroof,Sidra Ameen,D Tucker,4,0,,,,,,"",""
+ball,1,9.4,Pakistan,Bismah Maroof,Sidra Ameen,D Tucker,1,0,,,,,,"",""
+ball,1,9.5,Pakistan,Sidra Ameen,Bismah Maroof,D Tucker,1,0,,,,,,"",""
+ball,1,9.6,Pakistan,Bismah Maroof,Sidra Ameen,D Tucker,1,0,,,,,,"",""
+ball,1,10.1,Pakistan,Bismah Maroof,Sidra Ameen,N Mlaba,4,0,,,,,,"",""
+ball,1,10.2,Pakistan,Bismah Maroof,Sidra Ameen,N Mlaba,1,0,,,,,,"",""
+ball,1,10.3,Pakistan,Sidra Ameen,Bismah Maroof,N Mlaba,1,0,,,,,,"",""
+ball,1,10.4,Pakistan,Bismah Maroof,Sidra Ameen,N Mlaba,2,0,,,,,,"",""
+ball,1,10.5,Pakistan,Bismah Maroof,Sidra Ameen,N Mlaba,1,0,,,,,,"",""
+ball,1,10.6,Pakistan,Sidra Ameen,Bismah Maroof,N Mlaba,1,0,,,,,,"",""
+ball,1,11.1,Pakistan,Sidra Ameen,Bismah Maroof,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,11.2,Pakistan,Bismah Maroof,Sidra Ameen,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,11.3,Pakistan,Sidra Ameen,Bismah Maroof,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,11.4,Pakistan,Bismah Maroof,Sidra Ameen,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,11.5,Pakistan,Sidra Ameen,Bismah Maroof,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,11.6,Pakistan,Sidra Ameen,Bismah Maroof,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,12.1,Pakistan,Sidra Ameen,Bismah Maroof,N Shangase,1,0,,,,,,"",""
+ball,1,12.2,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,2,0,,,,,,"",""
+ball,1,12.3,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,0,0,,,,,,"",""
+ball,1,12.4,Pakistan,Bismah Maroof,Sidra Ameen,N Shangase,1,0,,,,,,"",""
+ball,1,12.5,Pakistan,Sidra Ameen,Bismah Maroof,N Shangase,0,0,,,,,,"",""
+ball,1,12.6,Pakistan,Sidra Ameen,Bismah Maroof,N Shangase,0,0,,,,,,caught,Sidra Ameen
+ball,1,13.1,Pakistan,Bismah Maroof,Nida Dar,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,13.2,Pakistan,Nida Dar,Bismah Maroof,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,13.3,Pakistan,Bismah Maroof,Nida Dar,TS Sekhukhune,0,1,,,,1,,"",""
+ball,1,13.4,Pakistan,Nida Dar,Bismah Maroof,TS Sekhukhune,0,1,1,,,,,"",""
+ball,1,13.5,Pakistan,Nida Dar,Bismah Maroof,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,13.6,Pakistan,Bismah Maroof,Nida Dar,TS Sekhukhune,3,0,,,,,,"",""
+ball,1,13.7,Pakistan,Nida Dar,Bismah Maroof,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,14.1,Pakistan,Nida Dar,Bismah Maroof,N Shangase,4,0,,,,,,"",""
+ball,1,14.2,Pakistan,Nida Dar,Bismah Maroof,N Shangase,2,0,,,,,,"",""
+ball,1,14.3,Pakistan,Nida Dar,Bismah Maroof,N Shangase,0,0,,,,,,"",""
+ball,1,14.4,Pakistan,Nida Dar,Bismah Maroof,N Shangase,6,0,,,,,,"",""
+ball,1,14.5,Pakistan,Nida Dar,Bismah Maroof,N Shangase,1,0,,,,,,"",""
+ball,1,14.6,Pakistan,Bismah Maroof,Nida Dar,N Shangase,1,0,,,,,,"",""
+ball,1,15.1,Pakistan,Bismah Maroof,Nida Dar,M Klaas,0,0,,,,,,"",""
+ball,1,15.2,Pakistan,Bismah Maroof,Nida Dar,M Klaas,1,0,,,,,,"",""
+ball,1,15.3,Pakistan,Nida Dar,Bismah Maroof,M Klaas,4,0,,,,,,"",""
+ball,1,15.4,Pakistan,Nida Dar,Bismah Maroof,M Klaas,1,0,,,,,,"",""
+ball,1,15.5,Pakistan,Bismah Maroof,Nida Dar,M Klaas,1,0,,,,,,"",""
+ball,1,15.6,Pakistan,Nida Dar,Bismah Maroof,M Klaas,4,0,,,,,,"",""
+ball,1,16.1,Pakistan,Bismah Maroof,Nida Dar,N Mlaba,1,0,,,,,,"",""
+ball,1,16.2,Pakistan,Nida Dar,Bismah Maroof,N Mlaba,0,0,,,,,,"",""
+ball,1,16.3,Pakistan,Nida Dar,Bismah Maroof,N Mlaba,4,0,,,,,,"",""
+ball,1,16.4,Pakistan,Nida Dar,Bismah Maroof,N Mlaba,0,0,,,,,,"",""
+ball,1,16.5,Pakistan,Nida Dar,Bismah Maroof,N Mlaba,0,0,,,,,,"",""
+ball,1,16.6,Pakistan,Nida Dar,Bismah Maroof,N Mlaba,1,0,,,,,,"",""
+ball,1,17.1,Pakistan,Nida Dar,Bismah Maroof,N de Klerk,1,0,,,,,,"",""
+ball,1,17.2,Pakistan,Bismah Maroof,Nida Dar,N de Klerk,0,1,,,,1,,"",""
+ball,1,17.3,Pakistan,Nida Dar,Bismah Maroof,N de Klerk,4,0,,,,,,"",""
+ball,1,17.4,Pakistan,Nida Dar,Bismah Maroof,N de Klerk,1,0,,,,,,"",""
+ball,1,17.5,Pakistan,Bismah Maroof,Nida Dar,N de Klerk,0,1,,1,,,,"",""
+ball,1,17.6,Pakistan,Bismah Maroof,Nida Dar,N de Klerk,0,0,,,,,,"",""
+ball,1,17.7,Pakistan,Bismah Maroof,Nida Dar,N de Klerk,1,0,,,,,,"",""
+ball,1,18.1,Pakistan,Bismah Maroof,Nida Dar,TS Sekhukhune,0,0,,,,,,caught,Bismah Maroof
+ball,1,18.2,Pakistan,Aliya Riaz,Nida Dar,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,18.3,Pakistan,Nida Dar,Aliya Riaz,TS Sekhukhune,0,0,,,,,,caught,Nida Dar
+ball,1,18.4,Pakistan,Muneeba Ali,Aliya Riaz,TS Sekhukhune,2,0,,,,,,"",""
+ball,1,18.5,Pakistan,Muneeba Ali,Aliya Riaz,TS Sekhukhune,1,0,,,,,,"",""
+ball,1,18.6,Pakistan,Aliya Riaz,Muneeba Ali,TS Sekhukhune,0,0,,,,,,"",""
+ball,1,19.1,Pakistan,Muneeba Ali,Aliya Riaz,N de Klerk,1,0,,,,,,"",""
+ball,1,19.2,Pakistan,Aliya Riaz,Muneeba Ali,N de Klerk,1,0,,,,,,"",""
+ball,1,19.3,Pakistan,Muneeba Ali,Aliya Riaz,N de Klerk,0,0,,,,,,"",""
+ball,1,19.4,Pakistan,Muneeba Ali,Aliya Riaz,N de Klerk,4,0,,,,,,"",""
+ball,1,19.5,Pakistan,Muneeba Ali,Aliya Riaz,N de Klerk,0,0,,,,,,caught,Muneeba Ali
+ball,1,19.6,Pakistan,Syeda Aroob Shah,Aliya Riaz,N de Klerk,1,0,,,,,,"",""
+ball,2,0.1,South Africa,L Wolvaardt,T Brits,Sadia Iqbal,0,0,,,,,,"",""
+ball,2,0.2,South Africa,L Wolvaardt,T Brits,Sadia Iqbal,0,0,,,,,,"",""
+ball,2,0.3,South Africa,L Wolvaardt,T Brits,Sadia Iqbal,2,0,,,,,,"",""
+ball,2,0.4,South Africa,L Wolvaardt,T Brits,Sadia Iqbal,4,0,,,,,,"",""
+ball,2,0.5,South Africa,L Wolvaardt,T Brits,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,0.6,South Africa,T Brits,L Wolvaardt,Sadia Iqbal,2,0,,,,,,"",""
+ball,2,1.1,South Africa,L Wolvaardt,T Brits,Diana Baig,2,0,,,,,,"",""
+ball,2,1.2,South Africa,L Wolvaardt,T Brits,Diana Baig,0,0,,,,,,"",""
+ball,2,1.3,South Africa,L Wolvaardt,T Brits,Diana Baig,0,0,,,,,,"",""
+ball,2,1.4,South Africa,L Wolvaardt,T Brits,Diana Baig,0,1,1,,,,,"",""
+ball,2,1.5,South Africa,L Wolvaardt,T Brits,Diana Baig,1,0,,,,,,"",""
+ball,2,1.6,South Africa,T Brits,L Wolvaardt,Diana Baig,0,0,,,,,,"",""
+ball,2,1.7,South Africa,T Brits,L Wolvaardt,Diana Baig,2,0,,,,,,"",""
+ball,2,2.1,South Africa,L Wolvaardt,T Brits,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,2.2,South Africa,T Brits,L Wolvaardt,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,2.3,South Africa,L Wolvaardt,T Brits,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,2.4,South Africa,T Brits,L Wolvaardt,Sadia Iqbal,0,0,,,,,,"",""
+ball,2,2.5,South Africa,T Brits,L Wolvaardt,Sadia Iqbal,2,0,,,,,,"",""
+ball,2,2.6,South Africa,T Brits,L Wolvaardt,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,3.1,South Africa,T Brits,L Wolvaardt,Diana Baig,0,0,,,,,,"",""
+ball,2,3.2,South Africa,T Brits,L Wolvaardt,Diana Baig,4,0,,,,,,"",""
+ball,2,3.3,South Africa,T Brits,L Wolvaardt,Diana Baig,0,1,1,,,,,"",""
+ball,2,3.4,South Africa,T Brits,L Wolvaardt,Diana Baig,4,0,,,,,,"",""
+ball,2,3.5,South Africa,T Brits,L Wolvaardt,Diana Baig,1,0,,,,,,"",""
+ball,2,3.6,South Africa,L Wolvaardt,T Brits,Diana Baig,1,0,,,,,,"",""
+ball,2,3.7,South Africa,T Brits,L Wolvaardt,Diana Baig,1,0,,,,,,"",""
+ball,2,4.1,South Africa,T Brits,L Wolvaardt,Nashra Sandhu,0,0,,,,,,bowled,T Brits
+ball,2,4.2,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,4.3,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,4.4,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,4.5,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,4.6,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,5.1,South Africa,A Bosch,L Wolvaardt,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,5.2,South Africa,L Wolvaardt,A Bosch,Umm-e-Hani,0,0,,,,,,"",""
+ball,2,5.3,South Africa,L Wolvaardt,A Bosch,Umm-e-Hani,2,0,,,,,,"",""
+ball,2,5.4,South Africa,L Wolvaardt,A Bosch,Umm-e-Hani,2,0,,,,,,"",""
+ball,2,5.5,South Africa,L Wolvaardt,A Bosch,Umm-e-Hani,0,0,,,,,,"",""
+ball,2,5.6,South Africa,L Wolvaardt,A Bosch,Umm-e-Hani,2,0,,,,,,"",""
+ball,2,6.1,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,6.2,South Africa,L Wolvaardt,A Bosch,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,6.3,South Africa,L Wolvaardt,A Bosch,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,6.4,South Africa,L Wolvaardt,A Bosch,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,6.5,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,6.6,South Africa,L Wolvaardt,A Bosch,Nashra Sandhu,4,0,,,,,,"",""
+ball,2,7.1,South Africa,A Bosch,L Wolvaardt,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,7.2,South Africa,L Wolvaardt,A Bosch,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,7.3,South Africa,A Bosch,L Wolvaardt,Umm-e-Hani,0,4,,,4,,,"",""
+ball,2,7.4,South Africa,A Bosch,L Wolvaardt,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,7.5,South Africa,L Wolvaardt,A Bosch,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,7.6,South Africa,A Bosch,L Wolvaardt,Umm-e-Hani,4,0,,,,,,"",""
+ball,2,8.1,South Africa,L Wolvaardt,A Bosch,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,8.2,South Africa,A Bosch,L Wolvaardt,Nashra Sandhu,0,0,,,,,,caught and bowled,A Bosch
+ball,2,8.3,South Africa,S Luus,L Wolvaardt,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,8.4,South Africa,S Luus,L Wolvaardt,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,8.5,South Africa,L Wolvaardt,S Luus,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,8.6,South Africa,L Wolvaardt,S Luus,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,9.1,South Africa,L Wolvaardt,S Luus,Umm-e-Hani,4,0,,,,,,"",""
+ball,2,9.2,South Africa,L Wolvaardt,S Luus,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,9.3,South Africa,S Luus,L Wolvaardt,Umm-e-Hani,0,1,,,,1,,"",""
+ball,2,9.4,South Africa,L Wolvaardt,S Luus,Umm-e-Hani,0,0,,,,,,"",""
+ball,2,9.5,South Africa,L Wolvaardt,S Luus,Umm-e-Hani,0,0,,,,,,"",""
+ball,2,9.6,South Africa,L Wolvaardt,S Luus,Umm-e-Hani,4,0,,,,,,"",""
+ball,2,10.1,South Africa,S Luus,L Wolvaardt,Syeda Aroob Shah,0,1,1,,,,,"",""
+ball,2,10.2,South Africa,S Luus,L Wolvaardt,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,10.3,South Africa,L Wolvaardt,S Luus,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,10.4,South Africa,S Luus,L Wolvaardt,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,10.5,South Africa,L Wolvaardt,S Luus,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,10.6,South Africa,S Luus,L Wolvaardt,Syeda Aroob Shah,2,0,,,,,,"",""
+ball,2,10.7,South Africa,S Luus,L Wolvaardt,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,11.1,South Africa,S Luus,L Wolvaardt,Nida Dar,0,0,,,,,,"",""
+ball,2,11.2,South Africa,S Luus,L Wolvaardt,Nida Dar,0,0,,,,,,"",""
+ball,2,11.3,South Africa,S Luus,L Wolvaardt,Nida Dar,0,0,,,,,,"",""
+ball,2,11.4,South Africa,S Luus,L Wolvaardt,Nida Dar,2,0,,,,,,"",""
+ball,2,11.5,South Africa,S Luus,L Wolvaardt,Nida Dar,1,0,,,,,,"",""
+ball,2,11.6,South Africa,L Wolvaardt,S Luus,Nida Dar,4,0,,,,,,"",""
+ball,2,12.1,South Africa,S Luus,L Wolvaardt,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,12.2,South Africa,L Wolvaardt,S Luus,Syeda Aroob Shah,4,0,,,,,,"",""
+ball,2,12.3,South Africa,L Wolvaardt,S Luus,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,12.4,South Africa,S Luus,L Wolvaardt,Syeda Aroob Shah,1,0,,,,,,"",""
+ball,2,12.5,South Africa,L Wolvaardt,S Luus,Syeda Aroob Shah,4,0,,,,,,"",""
+ball,2,12.6,South Africa,L Wolvaardt,S Luus,Syeda Aroob Shah,4,0,,,,,,"",""
+ball,2,13.1,South Africa,S Luus,L Wolvaardt,Nida Dar,1,0,,,,,,"",""
+ball,2,13.2,South Africa,L Wolvaardt,S Luus,Nida Dar,0,0,,,,,,"",""
+ball,2,13.3,South Africa,L Wolvaardt,S Luus,Nida Dar,1,0,,,,,,"",""
+ball,2,13.4,South Africa,S Luus,L Wolvaardt,Nida Dar,1,0,,,,,,"",""
+ball,2,13.5,South Africa,L Wolvaardt,S Luus,Nida Dar,2,0,,,,,,"",""
+ball,2,13.6,South Africa,L Wolvaardt,S Luus,Nida Dar,1,0,,,,,,"",""
+ball,2,14.1,South Africa,L Wolvaardt,S Luus,Sadia Iqbal,0,0,,,,,,"",""
+ball,2,14.2,South Africa,L Wolvaardt,S Luus,Sadia Iqbal,0,0,,,,,,"",""
+ball,2,14.3,South Africa,L Wolvaardt,S Luus,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,14.4,South Africa,S Luus,L Wolvaardt,Sadia Iqbal,0,0,,,,,,caught,S Luus
+ball,2,14.5,South Africa,N de Klerk,L Wolvaardt,Sadia Iqbal,0,0,,,,,,"",""
+ball,2,14.6,South Africa,N de Klerk,L Wolvaardt,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,15.1,South Africa,N de Klerk,L Wolvaardt,Nida Dar,0,0,,,,,,"",""
+ball,2,15.2,South Africa,N de Klerk,L Wolvaardt,Nida Dar,1,0,,,,,,"",""
+ball,2,15.3,South Africa,L Wolvaardt,N de Klerk,Nida Dar,4,0,,,,,,"",""
+ball,2,15.4,South Africa,L Wolvaardt,N de Klerk,Nida Dar,1,0,,,,,,"",""
+ball,2,15.5,South Africa,N de Klerk,L Wolvaardt,Nida Dar,1,0,,,,,,"",""
+ball,2,15.6,South Africa,L Wolvaardt,N de Klerk,Nida Dar,1,0,,,,,,"",""
+ball,2,16.1,South Africa,L Wolvaardt,N de Klerk,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,16.2,South Africa,N de Klerk,L Wolvaardt,Nashra Sandhu,2,0,,,,,,"",""
+ball,2,16.3,South Africa,N de Klerk,L Wolvaardt,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,16.4,South Africa,N de Klerk,L Wolvaardt,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,16.5,South Africa,L Wolvaardt,N de Klerk,Nashra Sandhu,1,0,,,,,,"",""
+ball,2,16.6,South Africa,N de Klerk,L Wolvaardt,Nashra Sandhu,0,0,,,,,,"",""
+ball,2,17.1,South Africa,L Wolvaardt,N de Klerk,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,17.2,South Africa,N de Klerk,L Wolvaardt,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,17.3,South Africa,L Wolvaardt,N de Klerk,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,17.4,South Africa,N de Klerk,L Wolvaardt,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,17.5,South Africa,L Wolvaardt,N de Klerk,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,17.6,South Africa,N de Klerk,L Wolvaardt,Umm-e-Hani,1,0,,,,,,"",""
+ball,2,18.1,South Africa,N de Klerk,L Wolvaardt,Sadia Iqbal,2,0,,,,,,"",""
+ball,2,18.2,South Africa,N de Klerk,L Wolvaardt,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,18.3,South Africa,L Wolvaardt,N de Klerk,Sadia Iqbal,0,0,,,,,,caught,L Wolvaardt
+ball,2,18.4,South Africa,D Tucker,N de Klerk,Sadia Iqbal,1,0,,,,,,"",""
+ball,2,18.5,South Africa,N de Klerk,D Tucker,Sadia Iqbal,2,0,,,,,,"",""
+ball,2,18.6,South Africa,N de Klerk,D Tucker,Sadia Iqbal,2,0,,,,,,"",""
+ball,2,19.1,South Africa,D Tucker,N de Klerk,Diana Baig,1,0,,,,,,"",""
+ball,2,19.2,South Africa,N de Klerk,D Tucker,Diana Baig,2,1,,1,,,,"",""
+ball,2,19.3,South Africa,N de Klerk,D Tucker,Diana Baig,0,0,,,,,,"",""
+ball,2,19.4,South Africa,N de Klerk,D Tucker,Diana Baig,0,0,,,,,,"",""
+ball,2,19.5,South Africa,N de Klerk,D Tucker,Diana Baig,1,0,,,,,,run out,D Tucker
+ball,2,19.6,South Africa,N de Klerk,N Shangase,Diana Baig,0,0,,,,,,"",""
+ball,2,19.7,South Africa,N de Klerk,N Shangase,Diana Baig,1,0,,,,,,"",""

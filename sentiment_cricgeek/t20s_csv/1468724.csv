@@ -1,0 +1,325 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Nepal
+info,gender,female
+info,season,2024/25
+info,date,2025/01/30
+info,event,Nepal Women's T20I Tri-Series
+info,match_number,1
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,R Rijke
+info,umpire,BB Pradhan
+info,umpire,RC Pandey
+info,reserve_umpire,U Regmi
+info,tv_umpire,VK Jha
+info,match_referee,Mohammed Shafique
+info,winner,Netherlands
+info,winner_runs,20
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,S Siegers
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,C de Lange
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,HWA Landheer
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,SR Magar
+info,player,Nepal,I Barma
+info,player,Nepal,K Kunwar
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Puja Mahato
+info,player,Nepal,K Joshi
+info,player,Nepal,B Rawal
+info,player,Nepal,AK Yadav
+info,player,Nepal,I Bist
+info,player,Nepal,M Upadhayay
+info,registry,people,AK Yadav,a1886d3f
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,B de Leede,b3020075
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,I Barma,521abce2
+info,registry,people,I Bist,beccd5a1
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,M Upadhayay,cdda92be
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,R Rijke,42e4b276
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,RC Pandey,1b807976
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,U Regmi,d1ce9fb5
+info,registry,people,VK Jha,5d46eb72
+ball,1,0.1,Netherlands,P Molkenboer,SL Kalis,K Kunwar,0,0,,,,,,"",""
+ball,1,0.2,Netherlands,P Molkenboer,SL Kalis,K Kunwar,0,0,,,,,,lbw,P Molkenboer
+ball,1,0.3,Netherlands,B de Leede,SL Kalis,K Kunwar,1,0,,,,,,"",""
+ball,1,0.4,Netherlands,SL Kalis,B de Leede,K Kunwar,0,0,,,,,,"",""
+ball,1,0.5,Netherlands,SL Kalis,B de Leede,K Kunwar,0,0,,,,,,"",""
+ball,1,0.6,Netherlands,SL Kalis,B de Leede,K Kunwar,2,0,,,,,,"",""
+ball,1,1.1,Netherlands,B de Leede,SL Kalis,Puja Mahato,1,0,,,,,,"",""
+ball,1,1.2,Netherlands,SL Kalis,B de Leede,Puja Mahato,0,0,,,,,,"",""
+ball,1,1.3,Netherlands,SL Kalis,B de Leede,Puja Mahato,1,0,,,,,,"",""
+ball,1,1.4,Netherlands,B de Leede,SL Kalis,Puja Mahato,4,0,,,,,,"",""
+ball,1,1.5,Netherlands,B de Leede,SL Kalis,Puja Mahato,0,0,,,,,,"",""
+ball,1,1.6,Netherlands,B de Leede,SL Kalis,Puja Mahato,0,0,,,,,,bowled,B de Leede
+ball,1,2.1,Netherlands,SL Kalis,R Rijke,K Kunwar,0,0,,,,,,"",""
+ball,1,2.2,Netherlands,SL Kalis,R Rijke,K Kunwar,0,0,,,,,,"",""
+ball,1,2.3,Netherlands,SL Kalis,R Rijke,K Kunwar,1,0,,,,,,"",""
+ball,1,2.4,Netherlands,R Rijke,SL Kalis,K Kunwar,1,0,,,,,,"",""
+ball,1,2.5,Netherlands,SL Kalis,R Rijke,K Kunwar,0,0,,,,,,"",""
+ball,1,2.6,Netherlands,SL Kalis,R Rijke,K Kunwar,4,1,,1,,,,"",""
+ball,1,2.7,Netherlands,SL Kalis,R Rijke,K Kunwar,4,0,,,,,,"",""
+ball,1,3.1,Netherlands,R Rijke,SL Kalis,Puja Mahato,0,0,,,,,,"",""
+ball,1,3.2,Netherlands,R Rijke,SL Kalis,Puja Mahato,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,R Rijke,SL Kalis,Puja Mahato,0,0,,,,,,"",""
+ball,1,3.4,Netherlands,R Rijke,SL Kalis,Puja Mahato,0,0,,,,,,"",""
+ball,1,3.5,Netherlands,R Rijke,SL Kalis,Puja Mahato,4,0,,,,,,"",""
+ball,1,3.6,Netherlands,R Rijke,SL Kalis,Puja Mahato,0,0,,,,,,"",""
+ball,1,4.1,Netherlands,SL Kalis,R Rijke,RC Belbashi,1,0,,,,,,"",""
+ball,1,4.2,Netherlands,R Rijke,SL Kalis,RC Belbashi,1,0,,,,,,"",""
+ball,1,4.3,Netherlands,SL Kalis,R Rijke,RC Belbashi,0,0,,,,,,"",""
+ball,1,4.4,Netherlands,SL Kalis,R Rijke,RC Belbashi,2,0,,,,,,"",""
+ball,1,4.5,Netherlands,SL Kalis,R Rijke,RC Belbashi,0,0,,,,,,"",""
+ball,1,4.6,Netherlands,SL Kalis,R Rijke,RC Belbashi,1,0,,,,,,"",""
+ball,1,5.1,Netherlands,SL Kalis,R Rijke,I Bist,0,0,,,,,,"",""
+ball,1,5.2,Netherlands,SL Kalis,R Rijke,I Bist,0,0,,,,,,"",""
+ball,1,5.3,Netherlands,SL Kalis,R Rijke,I Bist,0,0,,,,,,"",""
+ball,1,5.4,Netherlands,SL Kalis,R Rijke,I Bist,0,0,,,,,,"",""
+ball,1,5.5,Netherlands,SL Kalis,R Rijke,I Bist,0,0,,,,,,"",""
+ball,1,5.6,Netherlands,SL Kalis,R Rijke,I Bist,0,0,,,,,,"",""
+ball,1,6.1,Netherlands,R Rijke,SL Kalis,I Barma,1,0,,,,,,"",""
+ball,1,6.2,Netherlands,SL Kalis,R Rijke,I Barma,4,0,,,,,,"",""
+ball,1,6.3,Netherlands,SL Kalis,R Rijke,I Barma,0,0,,,,,,"",""
+ball,1,6.4,Netherlands,SL Kalis,R Rijke,I Barma,1,0,,,,,,"",""
+ball,1,6.5,Netherlands,R Rijke,SL Kalis,I Barma,0,0,,,,,,"",""
+ball,1,6.6,Netherlands,R Rijke,SL Kalis,I Barma,1,0,,,,,,"",""
+ball,1,7.1,Netherlands,R Rijke,SL Kalis,I Bist,0,1,1,,,,,"",""
+ball,1,7.2,Netherlands,R Rijke,SL Kalis,I Bist,0,1,1,,,,,"",""
+ball,1,7.3,Netherlands,R Rijke,SL Kalis,I Bist,2,0,,,,,,"",""
+ball,1,7.4,Netherlands,R Rijke,SL Kalis,I Bist,0,1,,,,1,,"",""
+ball,1,7.5,Netherlands,SL Kalis,R Rijke,I Bist,1,0,,,,,,"",""
+ball,1,7.6,Netherlands,R Rijke,SL Kalis,I Bist,1,0,,,,,,"",""
+ball,1,7.7,Netherlands,SL Kalis,R Rijke,I Bist,1,0,,,,,,"",""
+ball,1,7.8,Netherlands,R Rijke,SL Kalis,I Bist,0,0,,,,,,"",""
+ball,1,8.1,Netherlands,SL Kalis,R Rijke,I Barma,4,0,,,,,,"",""
+ball,1,8.2,Netherlands,SL Kalis,R Rijke,I Barma,1,0,,,,,,"",""
+ball,1,8.3,Netherlands,R Rijke,SL Kalis,I Barma,4,0,,,,,,"",""
+ball,1,8.4,Netherlands,R Rijke,SL Kalis,I Barma,0,0,,,,,,"",""
+ball,1,8.5,Netherlands,R Rijke,SL Kalis,I Barma,0,0,,,,,,"",""
+ball,1,8.6,Netherlands,R Rijke,SL Kalis,I Barma,0,0,,,,,,"",""
+ball,1,9.1,Netherlands,SL Kalis,R Rijke,K Joshi,0,0,,,,,,"",""
+ball,1,9.2,Netherlands,SL Kalis,R Rijke,K Joshi,1,0,,,,,,"",""
+ball,1,9.3,Netherlands,R Rijke,SL Kalis,K Joshi,1,0,,,,,,"",""
+ball,1,9.4,Netherlands,SL Kalis,R Rijke,K Joshi,0,0,,,,,,"",""
+ball,1,9.5,Netherlands,SL Kalis,R Rijke,K Joshi,0,0,,,,,,"",""
+ball,1,9.6,Netherlands,SL Kalis,R Rijke,K Joshi,0,0,,,,,,"",""
+ball,1,10.1,Netherlands,R Rijke,SL Kalis,SR Magar,1,0,,,,,,"",""
+ball,1,10.2,Netherlands,SL Kalis,R Rijke,SR Magar,0,0,,,,,,bowled,SL Kalis
+ball,1,10.3,Netherlands,HDJ Siegers,R Rijke,SR Magar,2,0,,,,,,"",""
+ball,1,10.4,Netherlands,HDJ Siegers,R Rijke,SR Magar,0,0,,,,,,"",""
+ball,1,10.5,Netherlands,HDJ Siegers,R Rijke,SR Magar,6,0,,,,,,"",""
+ball,1,10.6,Netherlands,HDJ Siegers,R Rijke,SR Magar,1,0,,,,,,"",""
+ball,1,11.1,Netherlands,HDJ Siegers,R Rijke,K Joshi,1,0,,,,,,"",""
+ball,1,11.2,Netherlands,R Rijke,HDJ Siegers,K Joshi,1,0,,,,,,"",""
+ball,1,11.3,Netherlands,HDJ Siegers,R Rijke,K Joshi,2,0,,,,,,"",""
+ball,1,11.4,Netherlands,HDJ Siegers,R Rijke,K Joshi,0,0,,,,,,"",""
+ball,1,11.5,Netherlands,HDJ Siegers,R Rijke,K Joshi,1,0,,,,,,"",""
+ball,1,11.6,Netherlands,R Rijke,HDJ Siegers,K Joshi,1,0,,,,,,"",""
+ball,1,12.1,Netherlands,R Rijke,HDJ Siegers,SR Magar,0,0,,,,,,"",""
+ball,1,12.2,Netherlands,R Rijke,HDJ Siegers,SR Magar,1,0,,,,,,"",""
+ball,1,12.3,Netherlands,HDJ Siegers,R Rijke,SR Magar,4,0,,,,,,"",""
+ball,1,12.4,Netherlands,HDJ Siegers,R Rijke,SR Magar,0,0,,,,,,"",""
+ball,1,12.5,Netherlands,HDJ Siegers,R Rijke,SR Magar,2,0,,,,,,"",""
+ball,1,12.6,Netherlands,HDJ Siegers,R Rijke,SR Magar,0,0,,,,,,"",""
+ball,1,13.1,Netherlands,R Rijke,HDJ Siegers,K Joshi,1,0,,,,,,"",""
+ball,1,13.2,Netherlands,HDJ Siegers,R Rijke,K Joshi,0,0,,,,,,"",""
+ball,1,13.3,Netherlands,HDJ Siegers,R Rijke,K Joshi,0,4,,,4,,,"",""
+ball,1,13.4,Netherlands,HDJ Siegers,R Rijke,K Joshi,1,0,,,,,,"",""
+ball,1,13.5,Netherlands,R Rijke,HDJ Siegers,K Joshi,2,0,,,,,,"",""
+ball,1,13.6,Netherlands,R Rijke,HDJ Siegers,K Joshi,1,0,,,,,,"",""
+ball,1,14.1,Netherlands,R Rijke,HDJ Siegers,SR Magar,1,0,,,,,,"",""
+ball,1,14.2,Netherlands,HDJ Siegers,R Rijke,SR Magar,1,0,,,,,,"",""
+ball,1,14.3,Netherlands,R Rijke,HDJ Siegers,SR Magar,4,0,,,,,,"",""
+ball,1,14.4,Netherlands,R Rijke,HDJ Siegers,SR Magar,1,0,,,,,,"",""
+ball,1,14.5,Netherlands,HDJ Siegers,R Rijke,SR Magar,1,0,,,,,,"",""
+ball,1,14.6,Netherlands,R Rijke,HDJ Siegers,SR Magar,0,0,,,,,,"",""
+ball,1,15.1,Netherlands,HDJ Siegers,R Rijke,I Bist,1,0,,,,,,"",""
+ball,1,15.2,Netherlands,R Rijke,HDJ Siegers,I Bist,4,0,,,,,,"",""
+ball,1,15.3,Netherlands,R Rijke,HDJ Siegers,I Bist,4,0,,,,,,"",""
+ball,1,15.4,Netherlands,R Rijke,HDJ Siegers,I Bist,4,1,,1,,,,"",""
+ball,1,15.5,Netherlands,R Rijke,HDJ Siegers,I Bist,1,0,,,,,,"",""
+ball,1,15.6,Netherlands,HDJ Siegers,R Rijke,I Bist,0,0,,,,,,caught,HDJ Siegers
+ball,1,15.7,Netherlands,IJR Zwilling,R Rijke,I Bist,2,0,,,,,,"",""
+ball,1,16.1,Netherlands,R Rijke,IJR Zwilling,RC Belbashi,0,0,,,,,,"",""
+ball,1,16.2,Netherlands,R Rijke,IJR Zwilling,RC Belbashi,0,0,,,,,,"",""
+ball,1,16.3,Netherlands,R Rijke,IJR Zwilling,RC Belbashi,1,0,,,,,,"",""
+ball,1,16.4,Netherlands,IJR Zwilling,R Rijke,RC Belbashi,2,0,,,,,,"",""
+ball,1,16.5,Netherlands,IJR Zwilling,R Rijke,RC Belbashi,1,0,,,,,,"",""
+ball,1,16.6,Netherlands,R Rijke,IJR Zwilling,RC Belbashi,1,0,,,,,,"",""
+ball,1,17.1,Netherlands,R Rijke,IJR Zwilling,K Joshi,1,0,,,,,,"",""
+ball,1,17.2,Netherlands,IJR Zwilling,R Rijke,K Joshi,1,0,,,,,,"",""
+ball,1,17.3,Netherlands,R Rijke,IJR Zwilling,K Joshi,0,0,,,,,,"",""
+ball,1,17.4,Netherlands,R Rijke,IJR Zwilling,K Joshi,4,0,,,,,,"",""
+ball,1,17.5,Netherlands,R Rijke,IJR Zwilling,K Joshi,4,0,,,,,,"",""
+ball,1,17.6,Netherlands,R Rijke,IJR Zwilling,K Joshi,1,0,,,,,,"",""
+ball,1,18.1,Netherlands,R Rijke,IJR Zwilling,Puja Mahato,1,0,,,,,,"",""
+ball,1,18.2,Netherlands,IJR Zwilling,R Rijke,Puja Mahato,0,0,,,,,,"",""
+ball,1,18.3,Netherlands,IJR Zwilling,R Rijke,Puja Mahato,2,0,,,,,,"",""
+ball,1,18.4,Netherlands,IJR Zwilling,R Rijke,Puja Mahato,4,0,,,,,,"",""
+ball,1,18.5,Netherlands,IJR Zwilling,R Rijke,Puja Mahato,4,0,,,,,,"",""
+ball,1,18.6,Netherlands,IJR Zwilling,R Rijke,Puja Mahato,4,0,,,,,,"",""
+ball,1,19.1,Netherlands,R Rijke,IJR Zwilling,I Barma,1,0,,,,,,"",""
+ball,1,19.2,Netherlands,IJR Zwilling,R Rijke,I Barma,2,0,,,,,,"",""
+ball,1,19.3,Netherlands,IJR Zwilling,R Rijke,I Barma,4,0,,,,,,"",""
+ball,1,19.4,Netherlands,IJR Zwilling,R Rijke,I Barma,4,0,,,,,,"",""
+ball,1,19.5,Netherlands,IJR Zwilling,R Rijke,I Barma,1,0,,,,,,"",""
+ball,1,19.6,Netherlands,R Rijke,IJR Zwilling,I Barma,2,0,,,,,,"",""
+ball,2,0.1,Nepal,Samjhana Khadka,SR Magar,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.2,Nepal,Samjhana Khadka,SR Magar,IJR Zwilling,1,0,,,,,,"",""
+ball,2,0.3,Nepal,SR Magar,Samjhana Khadka,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.4,Nepal,SR Magar,Samjhana Khadka,IJR Zwilling,0,1,,,,1,,"",""
+ball,2,0.5,Nepal,Samjhana Khadka,SR Magar,IJR Zwilling,1,0,,,,,,"",""
+ball,2,0.6,Nepal,SR Magar,Samjhana Khadka,IJR Zwilling,0,0,,,,,,"",""
+ball,2,1.1,Nepal,Samjhana Khadka,SR Magar,HWA Landheer,0,0,,,,,,"",""
+ball,2,1.2,Nepal,Samjhana Khadka,SR Magar,HWA Landheer,0,1,1,,,,,"",""
+ball,2,1.3,Nepal,Samjhana Khadka,SR Magar,HWA Landheer,0,1,1,,,,,"",""
+ball,2,1.4,Nepal,Samjhana Khadka,SR Magar,HWA Landheer,0,0,,,,,,"",""
+ball,2,1.5,Nepal,Samjhana Khadka,SR Magar,HWA Landheer,4,0,,,,,,"",""
+ball,2,1.6,Nepal,Samjhana Khadka,SR Magar,HWA Landheer,1,0,,,,,,"",""
+ball,2,1.7,Nepal,SR Magar,Samjhana Khadka,HWA Landheer,0,1,1,,,,,"",""
+ball,2,1.8,Nepal,SR Magar,Samjhana Khadka,HWA Landheer,4,0,,,,,,"",""
+ball,2,1.9,Nepal,SR Magar,Samjhana Khadka,HWA Landheer,0,0,,,,,,"",""
+ball,2,2.1,Nepal,Samjhana Khadka,SR Magar,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.2,Nepal,Samjhana Khadka,SR Magar,IJR Zwilling,2,0,,,,,,"",""
+ball,2,2.3,Nepal,Samjhana Khadka,SR Magar,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.4,Nepal,Samjhana Khadka,SR Magar,IJR Zwilling,0,0,,,,,,caught,Samjhana Khadka
+ball,2,2.5,Nepal,I Barma,SR Magar,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.6,Nepal,I Barma,SR Magar,IJR Zwilling,0,0,,,,,,"",""
+ball,2,3.1,Nepal,SR Magar,I Barma,C de Lange,0,0,,,,,,"",""
+ball,2,3.2,Nepal,SR Magar,I Barma,C de Lange,0,0,,,,,,"",""
+ball,2,3.3,Nepal,SR Magar,I Barma,C de Lange,0,1,1,,,,,"",""
+ball,2,3.4,Nepal,SR Magar,I Barma,C de Lange,4,0,,,,,,"",""
+ball,2,3.5,Nepal,SR Magar,I Barma,C de Lange,1,0,,,,,,"",""
+ball,2,3.6,Nepal,I Barma,SR Magar,C de Lange,0,0,,,,,,"",""
+ball,2,3.7,Nepal,I Barma,SR Magar,C de Lange,0,0,,,,,,"",""
+ball,2,4.1,Nepal,SR Magar,I Barma,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.2,Nepal,SR Magar,I Barma,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.3,Nepal,SR Magar,I Barma,IJR Zwilling,1,0,,,,,,"",""
+ball,2,4.4,Nepal,I Barma,SR Magar,IJR Zwilling,0,1,1,,,,,"",""
+ball,2,4.5,Nepal,I Barma,SR Magar,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.6,Nepal,I Barma,SR Magar,IJR Zwilling,2,0,,,,,,"",""
+ball,2,4.7,Nepal,I Barma,SR Magar,IJR Zwilling,1,0,,,,,,"",""
+ball,2,5.1,Nepal,I Barma,SR Magar,C de Lange,4,0,,,,,,"",""
+ball,2,5.2,Nepal,I Barma,SR Magar,C de Lange,0,0,,,,,,"",""
+ball,2,5.3,Nepal,I Barma,SR Magar,C de Lange,0,0,,,,,,caught,I Barma
+ball,2,5.4,Nepal,K Kunwar,SR Magar,C de Lange,0,0,,,,,,"",""
+ball,2,5.5,Nepal,K Kunwar,SR Magar,C de Lange,4,0,,,,,,"",""
+ball,2,5.6,Nepal,K Kunwar,SR Magar,C de Lange,0,0,,,,,,"",""
+ball,2,6.1,Nepal,SR Magar,K Kunwar,EN Lynch,0,0,,,,,,"",""
+ball,2,6.2,Nepal,SR Magar,K Kunwar,EN Lynch,1,0,,,,,,"",""
+ball,2,6.3,Nepal,K Kunwar,SR Magar,EN Lynch,0,0,,,,,,"",""
+ball,2,6.4,Nepal,K Kunwar,SR Magar,EN Lynch,0,0,,,,,,"",""
+ball,2,6.5,Nepal,K Kunwar,SR Magar,EN Lynch,4,0,,,,,,"",""
+ball,2,6.6,Nepal,K Kunwar,SR Magar,EN Lynch,0,0,,,,,,"",""
+ball,2,7.1,Nepal,SR Magar,K Kunwar,S Siegers,0,0,,,,,,"",""
+ball,2,7.2,Nepal,SR Magar,K Kunwar,S Siegers,0,0,,,,,,"",""
+ball,2,7.3,Nepal,SR Magar,K Kunwar,S Siegers,0,0,,,,,,"",""
+ball,2,7.4,Nepal,SR Magar,K Kunwar,S Siegers,1,0,,,,,,run out,K Kunwar
+ball,2,7.5,Nepal,RC Belbashi,SR Magar,S Siegers,0,0,,,,,,"",""
+ball,2,7.6,Nepal,RC Belbashi,SR Magar,S Siegers,1,0,,,,,,"",""
+ball,2,8.1,Nepal,RC Belbashi,SR Magar,EN Lynch,0,0,,,,,,"",""
+ball,2,8.2,Nepal,RC Belbashi,SR Magar,EN Lynch,2,0,,,,,,"",""
+ball,2,8.3,Nepal,RC Belbashi,SR Magar,EN Lynch,2,0,,,,,,"",""
+ball,2,8.4,Nepal,RC Belbashi,SR Magar,EN Lynch,1,0,,,,,,"",""
+ball,2,8.5,Nepal,SR Magar,RC Belbashi,EN Lynch,0,0,,,,,,"",""
+ball,2,8.6,Nepal,SR Magar,RC Belbashi,EN Lynch,1,0,,,,,,"",""
+ball,2,9.1,Nepal,SR Magar,RC Belbashi,S Siegers,0,0,,,,,,"",""
+ball,2,9.2,Nepal,SR Magar,RC Belbashi,S Siegers,0,0,,,,,,"",""
+ball,2,9.3,Nepal,SR Magar,RC Belbashi,S Siegers,0,0,,,,,,"",""
+ball,2,9.4,Nepal,SR Magar,RC Belbashi,S Siegers,1,0,,,,,,"",""
+ball,2,9.5,Nepal,RC Belbashi,SR Magar,S Siegers,1,0,,,,,,"",""
+ball,2,9.6,Nepal,SR Magar,RC Belbashi,S Siegers,0,0,,,,,,"",""
+ball,2,10.1,Nepal,RC Belbashi,SR Magar,EN Lynch,4,0,,,,,,"",""
+ball,2,10.2,Nepal,RC Belbashi,SR Magar,EN Lynch,0,0,,,,,,"",""
+ball,2,10.3,Nepal,RC Belbashi,SR Magar,EN Lynch,0,0,,,,,,"",""
+ball,2,10.4,Nepal,RC Belbashi,SR Magar,EN Lynch,0,0,,,,,,caught,RC Belbashi
+ball,2,10.5,Nepal,Puja Mahato,SR Magar,EN Lynch,1,0,,,,,,"",""
+ball,2,10.6,Nepal,SR Magar,Puja Mahato,EN Lynch,4,0,,,,,,"",""
+ball,2,11.1,Nepal,Puja Mahato,SR Magar,S Siegers,0,0,,,,,,"",""
+ball,2,11.2,Nepal,Puja Mahato,SR Magar,S Siegers,6,0,,,,,,"",""
+ball,2,11.3,Nepal,Puja Mahato,SR Magar,S Siegers,0,0,,,,,,"",""
+ball,2,11.4,Nepal,Puja Mahato,SR Magar,S Siegers,0,0,,,,,,"",""
+ball,2,11.5,Nepal,Puja Mahato,SR Magar,S Siegers,4,0,,,,,,"",""
+ball,2,11.6,Nepal,Puja Mahato,SR Magar,S Siegers,1,0,,,,,,"",""
+ball,2,12.1,Nepal,Puja Mahato,SR Magar,C de Lange,6,0,,,,,,"",""
+ball,2,12.2,Nepal,Puja Mahato,SR Magar,C de Lange,1,0,,,,,,"",""
+ball,2,12.3,Nepal,SR Magar,Puja Mahato,C de Lange,1,1,,1,,,,"",""
+ball,2,12.4,Nepal,Puja Mahato,SR Magar,C de Lange,4,0,,,,,,"",""
+ball,2,12.5,Nepal,Puja Mahato,SR Magar,C de Lange,0,0,,,,,,"",""
+ball,2,12.6,Nepal,Puja Mahato,SR Magar,C de Lange,1,0,,,,,,"",""
+ball,2,12.7,Nepal,SR Magar,Puja Mahato,C de Lange,1,0,,,,,,"",""
+ball,2,13.1,Nepal,SR Magar,Puja Mahato,F Overdijk,1,0,,,,,,"",""
+ball,2,13.2,Nepal,Puja Mahato,SR Magar,F Overdijk,0,0,,,,,,"",""
+ball,2,13.3,Nepal,Puja Mahato,SR Magar,F Overdijk,0,1,1,,,,,"",""
+ball,2,13.4,Nepal,Puja Mahato,SR Magar,F Overdijk,0,1,1,,,,,"",""
+ball,2,13.5,Nepal,Puja Mahato,SR Magar,F Overdijk,0,0,,,,,,caught,Puja Mahato
+ball,2,13.6,Nepal,K Joshi,SR Magar,F Overdijk,4,0,,,,,,"",""
+ball,2,13.7,Nepal,K Joshi,SR Magar,F Overdijk,1,1,,1,,,,"",""
+ball,2,13.8,Nepal,SR Magar,K Joshi,F Overdijk,0,1,1,,,,,"",""
+ball,2,13.9,Nepal,SR Magar,K Joshi,F Overdijk,1,0,,,,,,"",""
+ball,2,13.10,Nepal,K Joshi,SR Magar,F Overdijk,0,1,1,,,,,"",""
+ball,2,13.11,Nepal,K Joshi,SR Magar,F Overdijk,1,0,,,,,,"",""
+ball,2,14.1,Nepal,K Joshi,SR Magar,IJR Zwilling,0,0,,,,,,"",""
+ball,2,14.2,Nepal,K Joshi,SR Magar,IJR Zwilling,1,0,,,,,,"",""
+ball,2,14.3,Nepal,SR Magar,K Joshi,IJR Zwilling,0,0,,,,,,"",""
+ball,2,14.4,Nepal,SR Magar,K Joshi,IJR Zwilling,0,0,,,,,,"",""
+ball,2,14.5,Nepal,SR Magar,K Joshi,IJR Zwilling,0,0,,,,,,"",""
+ball,2,14.6,Nepal,SR Magar,K Joshi,IJR Zwilling,1,0,,,,,,"",""
+ball,2,15.1,Nepal,SR Magar,K Joshi,S Siegers,0,0,,,,,,"",""
+ball,2,15.2,Nepal,SR Magar,K Joshi,S Siegers,0,0,,,,,,"",""
+ball,2,15.3,Nepal,SR Magar,K Joshi,S Siegers,2,0,,,,,,"",""
+ball,2,15.4,Nepal,SR Magar,K Joshi,S Siegers,0,0,,,,,,"",""
+ball,2,15.5,Nepal,SR Magar,K Joshi,S Siegers,0,4,,,4,,,"",""
+ball,2,15.6,Nepal,SR Magar,K Joshi,S Siegers,0,0,,,,,,"",""
+ball,2,16.1,Nepal,K Joshi,SR Magar,HWA Landheer,1,0,,,,,,"",""
+ball,2,16.2,Nepal,SR Magar,K Joshi,HWA Landheer,1,0,,,,,,"",""
+ball,2,16.3,Nepal,K Joshi,SR Magar,HWA Landheer,1,0,,,,,,"",""
+ball,2,16.4,Nepal,SR Magar,K Joshi,HWA Landheer,0,0,,,,,,"",""
+ball,2,16.5,Nepal,SR Magar,K Joshi,HWA Landheer,1,0,,,,,,"",""
+ball,2,16.6,Nepal,K Joshi,SR Magar,HWA Landheer,0,0,,,,,,"",""
+ball,2,17.1,Nepal,SR Magar,K Joshi,EN Lynch,1,0,,,,,,"",""
+ball,2,17.2,Nepal,K Joshi,SR Magar,EN Lynch,1,0,,,,,,"",""
+ball,2,17.3,Nepal,SR Magar,K Joshi,EN Lynch,0,0,,,,,,stumped,SR Magar
+ball,2,17.4,Nepal,B Rawal,K Joshi,EN Lynch,1,0,,,,,,"",""
+ball,2,17.5,Nepal,K Joshi,B Rawal,EN Lynch,6,0,,,,,,"",""
+ball,2,17.6,Nepal,K Joshi,B Rawal,EN Lynch,1,0,,,,,,"",""
+ball,2,18.1,Nepal,K Joshi,B Rawal,HWA Landheer,1,0,,,,,,"",""
+ball,2,18.2,Nepal,B Rawal,K Joshi,HWA Landheer,0,0,,,,,,"",""
+ball,2,18.3,Nepal,B Rawal,K Joshi,HWA Landheer,1,0,,,,,,"",""
+ball,2,18.4,Nepal,K Joshi,B Rawal,HWA Landheer,6,0,,,,,,"",""
+ball,2,18.5,Nepal,K Joshi,B Rawal,HWA Landheer,0,0,,,,,,"",""
+ball,2,18.6,Nepal,K Joshi,B Rawal,HWA Landheer,1,0,,,,,,"",""
+ball,2,19.1,Nepal,K Joshi,B Rawal,C de Lange,2,0,,,,,,"",""
+ball,2,19.2,Nepal,K Joshi,B Rawal,C de Lange,0,0,,,,,,stumped,K Joshi
+ball,2,19.3,Nepal,AK Yadav,B Rawal,C de Lange,1,0,,,,,,"",""
+ball,2,19.4,Nepal,B Rawal,AK Yadav,C de Lange,1,0,,,,,,"",""
+ball,2,19.5,Nepal,AK Yadav,B Rawal,C de Lange,2,0,,,,,,"",""
+ball,2,19.6,Nepal,AK Yadav,B Rawal,C de Lange,1,0,,,,,,"",""

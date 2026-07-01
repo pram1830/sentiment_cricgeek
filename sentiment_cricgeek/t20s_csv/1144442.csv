@@ -1,0 +1,178 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Bangladesh
+info,gender,female
+info,season,2018
+info,date,2018/05/20
+info,event,Bangladesh Women tour of South Africa
+info,match_number,3
+info,venue,Mangaung Oval
+info,city,Bloemfontein
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,A Khaka
+info,umpire,AT Holdstock
+info,umpire,S George
+info,reserve_umpire,BP Jele
+info,match_referee,S Wadvalla
+info,winner,South Africa
+info,winner_runs,23
+info,player,South Africa,L Lee
+info,player,South Africa,T Brits
+info,player,South Africa,S Luus
+info,player,South Africa,D van Niekerk
+info,player,South Africa,CL Tryon
+info,player,South Africa,M Kapp
+info,player,South Africa,S Lackay
+info,player,South Africa,S Ismail
+info,player,South Africa,R Ntozakhe
+info,player,South Africa,Z Mali
+info,player,South Africa,A Khaka
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,Rumana Ahmed
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Jahanara Alam
+info,player,Bangladesh,Panna Ghosh
+info,player,Bangladesh,Khadija Tul Kubra
+info,player,Bangladesh,Jannatul Ferdus
+info,player,Bangladesh,Salma Khatun
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,Jannatul Ferdus,fa948618
+info,registry,people,Khadija Tul Kubra,bec997fc
+info,registry,people,L Lee,7b01ce83
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Panna Ghosh,005f0561
+info,registry,people,R Ntozakhe,94b30fa5
+info,registry,people,Rumana Ahmed,a92763ea
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Lackay,d3a9aadd
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Salma Khatun,037f2b86
+info,registry,people,Shamima Sultana,724645f5
+info,registry,people,T Brits,06659caa
+info,registry,people,Z Mali,f0b16e64
+ball,1,0.1,South Africa,L Lee,T Brits,Jahanara Alam,0,0,,,,,,"",""
+ball,1,0.2,South Africa,L Lee,T Brits,Jahanara Alam,4,0,,,,,,"",""
+ball,1,0.3,South Africa,L Lee,T Brits,Jahanara Alam,0,0,,,,,,"",""
+ball,1,0.4,South Africa,L Lee,T Brits,Jahanara Alam,1,0,,,,,,"",""
+ball,1,0.5,South Africa,T Brits,L Lee,Jahanara Alam,2,0,,,,,,"",""
+ball,1,0.6,South Africa,T Brits,L Lee,Jahanara Alam,0,0,,,,,,"",""
+ball,1,1.1,South Africa,L Lee,T Brits,Salma Khatun,0,0,,,,,,"",""
+ball,1,1.2,South Africa,L Lee,T Brits,Salma Khatun,4,0,,,,,,"",""
+ball,1,1.3,South Africa,L Lee,T Brits,Salma Khatun,0,0,,,,,,lbw,L Lee
+ball,1,1.4,South Africa,S Luus,T Brits,Salma Khatun,1,0,,,,,,"",""
+ball,1,1.5,South Africa,T Brits,S Luus,Salma Khatun,1,0,,,,,,"",""
+ball,1,1.6,South Africa,S Luus,T Brits,Salma Khatun,0,1,1,,,,,"",""
+ball,1,1.7,South Africa,S Luus,T Brits,Salma Khatun,2,0,,,,,,"",""
+ball,1,2.1,South Africa,T Brits,S Luus,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,2.2,South Africa,S Luus,T Brits,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,2.3,South Africa,S Luus,T Brits,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,2.4,South Africa,S Luus,T Brits,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,2.5,South Africa,T Brits,S Luus,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,2.6,South Africa,T Brits,S Luus,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,3.1,South Africa,T Brits,S Luus,Salma Khatun,4,0,,,,,,"",""
+ball,1,3.2,South Africa,T Brits,S Luus,Salma Khatun,1,0,,,,,,"",""
+ball,1,3.3,South Africa,S Luus,T Brits,Salma Khatun,1,0,,,,,,"",""
+ball,1,3.4,South Africa,T Brits,S Luus,Salma Khatun,2,0,,,,,,"",""
+ball,1,3.5,South Africa,T Brits,S Luus,Salma Khatun,1,0,,,,,,"",""
+ball,1,3.6,South Africa,S Luus,T Brits,Salma Khatun,0,0,,,,,,stumped,S Luus
+ball,1,4.1,South Africa,T Brits,D van Niekerk,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,4.2,South Africa,D van Niekerk,T Brits,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,4.3,South Africa,T Brits,D van Niekerk,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,4.4,South Africa,T Brits,D van Niekerk,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,4.5,South Africa,D van Niekerk,T Brits,Khadija Tul Kubra,2,0,,,,,,"",""
+ball,1,4.6,South Africa,D van Niekerk,T Brits,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,5.1,South Africa,T Brits,D van Niekerk,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,5.2,South Africa,D van Niekerk,T Brits,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,5.3,South Africa,D van Niekerk,T Brits,Rumana Ahmed,2,0,,,,,,"",""
+ball,1,5.4,South Africa,D van Niekerk,T Brits,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,5.5,South Africa,T Brits,D van Niekerk,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,5.6,South Africa,D van Niekerk,T Brits,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,6.1,South Africa,T Brits,D van Niekerk,Panna Ghosh,4,0,,,,,,"",""
+ball,1,6.2,South Africa,T Brits,D van Niekerk,Panna Ghosh,2,0,,,,,,"",""
+ball,1,6.3,South Africa,T Brits,D van Niekerk,Panna Ghosh,1,0,,,,,,"",""
+ball,1,6.4,South Africa,D van Niekerk,T Brits,Panna Ghosh,0,0,,,,,,"",""
+ball,1,6.5,South Africa,D van Niekerk,T Brits,Panna Ghosh,6,0,,,,,,"",""
+ball,1,6.6,South Africa,D van Niekerk,T Brits,Panna Ghosh,0,0,,,,,,"",""
+ball,1,7.1,South Africa,T Brits,D van Niekerk,Rumana Ahmed,4,0,,,,,,"",""
+ball,1,7.2,South Africa,T Brits,D van Niekerk,Rumana Ahmed,0,0,,,,,,run out,D van Niekerk
+ball,1,7.3,South Africa,T Brits,CL Tryon,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,7.4,South Africa,CL Tryon,T Brits,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,7.5,South Africa,T Brits,CL Tryon,Rumana Ahmed,0,0,,,,,,caught,T Brits
+ball,1,7.6,South Africa,CL Tryon,M Kapp,Rumana Ahmed,2,0,,,,,,"",""
+ball,1,8.1,South Africa,M Kapp,CL Tryon,Jahanara Alam,1,0,,,,,,"",""
+ball,1,8.2,South Africa,CL Tryon,M Kapp,Jahanara Alam,0,0,,,,,,"",""
+ball,1,8.3,South Africa,CL Tryon,M Kapp,Jahanara Alam,0,0,,,,,,"",""
+ball,1,8.4,South Africa,CL Tryon,M Kapp,Jahanara Alam,1,0,,,,,,"",""
+ball,1,8.5,South Africa,M Kapp,CL Tryon,Jahanara Alam,2,0,,,,,,"",""
+ball,1,8.6,South Africa,M Kapp,CL Tryon,Jahanara Alam,1,0,,,,,,"",""
+ball,2,0.1,Bangladesh,Shamima Sultana,Murshida Khatun,S Ismail,0,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Shamima Sultana,Murshida Khatun,S Ismail,0,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Shamima Sultana,Murshida Khatun,S Ismail,0,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Shamima Sultana,Murshida Khatun,S Ismail,0,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Shamima Sultana,Murshida Khatun,S Ismail,0,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Shamima Sultana,Murshida Khatun,S Ismail,0,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Murshida Khatun,Shamima Sultana,M Kapp,1,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Shamima Sultana,Murshida Khatun,M Kapp,1,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Murshida Khatun,Shamima Sultana,M Kapp,0,0,,,,,,caught,Murshida Khatun
+ball,2,1.4,Bangladesh,Fargana Hoque,Shamima Sultana,M Kapp,0,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Fargana Hoque,Shamima Sultana,M Kapp,1,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Shamima Sultana,Fargana Hoque,M Kapp,2,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Fargana Hoque,Shamima Sultana,A Khaka,0,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Fargana Hoque,Shamima Sultana,A Khaka,1,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Shamima Sultana,Fargana Hoque,A Khaka,3,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Fargana Hoque,Shamima Sultana,A Khaka,0,0,,,,,,caught,Fargana Hoque
+ball,2,2.5,Bangladesh,Rumana Ahmed,Shamima Sultana,A Khaka,0,1,1,,,,,"",""
+ball,2,2.6,Bangladesh,Rumana Ahmed,Shamima Sultana,A Khaka,1,0,,,,,,"",""
+ball,2,2.7,Bangladesh,Shamima Sultana,Rumana Ahmed,A Khaka,0,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Rumana Ahmed,Shamima Sultana,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Shamima Sultana,Rumana Ahmed,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Rumana Ahmed,Shamima Sultana,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Shamima Sultana,Rumana Ahmed,D van Niekerk,2,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Shamima Sultana,Rumana Ahmed,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.6,Bangladesh,Rumana Ahmed,Shamima Sultana,D van Niekerk,1,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Rumana Ahmed,Shamima Sultana,R Ntozakhe,2,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Rumana Ahmed,Shamima Sultana,R Ntozakhe,0,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Rumana Ahmed,Shamima Sultana,R Ntozakhe,0,0,,,,,,caught,Rumana Ahmed
+ball,2,4.4,Bangladesh,Shamima Sultana,Nigar Sultana,R Ntozakhe,0,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Shamima Sultana,Nigar Sultana,R Ntozakhe,1,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Nigar Sultana,Shamima Sultana,R Ntozakhe,0,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Shamima Sultana,Nigar Sultana,A Khaka,1,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Nigar Sultana,Shamima Sultana,A Khaka,1,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Shamima Sultana,Nigar Sultana,A Khaka,0,0,,,,,,caught,Shamima Sultana
+ball,2,5.4,Bangladesh,Nigar Sultana,Fahima Khatun,A Khaka,2,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Nigar Sultana,Fahima Khatun,A Khaka,0,0,,,,,,caught,Nigar Sultana
+ball,2,5.6,Bangladesh,Fahima Khatun,Jahanara Alam,A Khaka,0,1,,,,1,,"",""
+ball,2,6.1,Bangladesh,Fahima Khatun,Jahanara Alam,R Ntozakhe,1,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Jahanara Alam,Fahima Khatun,R Ntozakhe,1,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Fahima Khatun,Jahanara Alam,R Ntozakhe,1,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Jahanara Alam,Fahima Khatun,R Ntozakhe,1,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Fahima Khatun,Jahanara Alam,R Ntozakhe,2,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Fahima Khatun,Jahanara Alam,R Ntozakhe,1,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Fahima Khatun,Jahanara Alam,M Kapp,1,0,,,,,,"",""
+ball,2,7.2,Bangladesh,Jahanara Alam,Fahima Khatun,M Kapp,1,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Fahima Khatun,Jahanara Alam,M Kapp,1,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Jahanara Alam,Fahima Khatun,M Kapp,0,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Jahanara Alam,Fahima Khatun,M Kapp,0,0,,,,,,caught,Jahanara Alam
+ball,2,7.6,Bangladesh,Panna Ghosh,Fahima Khatun,M Kapp,0,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Fahima Khatun,Panna Ghosh,S Ismail,1,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Panna Ghosh,Fahima Khatun,S Ismail,1,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Fahima Khatun,Panna Ghosh,S Ismail,1,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Panna Ghosh,Fahima Khatun,S Ismail,0,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Panna Ghosh,Fahima Khatun,S Ismail,1,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Fahima Khatun,Panna Ghosh,S Ismail,1,0,,,,,,"",""

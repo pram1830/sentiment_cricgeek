@@ -1,0 +1,312 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Ireland
+info,gender,male
+info,season,2021
+info,date,2021/07/22
+info,event,South Africa tour of Ireland
+info,match_number,2
+info,venue,"Civil Service Cricket Club, Stormont, Belfast"
+info,city,Belfast
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,DA Miller
+info,umpire,PA Reynolds
+info,umpire,R Black
+info,reserve_umpire,M Hawthorne
+info,tv_umpire,AJ Neill
+info,match_referee,K Gallagher
+info,winner,South Africa
+info,winner_runs,42
+info,players,South Africa,T Bavuma
+info,players,South Africa,Q de Kock
+info,players,South Africa,JN Malan
+info,players,South Africa,AK Markram
+info,players,South Africa,HE van der Dussen
+info,players,South Africa,DA Miller
+info,players,South Africa,PWA Mulder
+info,players,South Africa,BC Fortuin
+info,players,South Africa,BE Hendricks
+info,players,South Africa,L Ngidi
+info,players,South Africa,T Shamsi
+info,players,Ireland,PR Stirling
+info,players,Ireland,KJ O'Brien
+info,players,Ireland,A Balbirnie
+info,players,Ireland,GH Dockrell
+info,players,Ireland,HT Tector
+info,players,Ireland,SC Getkate
+info,players,Ireland,L Tucker
+info,players,Ireland,Simi Singh
+info,players,Ireland,MR Adair
+info,players,Ireland,CA Young
+info,players,Ireland,J Little
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Neill,7ffe0ce3
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Gallagher,704afd47
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Black,156c8fb1
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,Simi Singh,c9945bdf
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+ball,1,0.1,South Africa,T Bavuma,Q de Kock,PR Stirling,0,0,,,,,,"",""
+ball,1,0.2,South Africa,T Bavuma,Q de Kock,PR Stirling,0,0,,,,,,caught,T Bavuma
+ball,1,0.3,South Africa,JN Malan,Q de Kock,PR Stirling,0,0,,,,,,"",""
+ball,1,0.4,South Africa,JN Malan,Q de Kock,PR Stirling,0,0,,,,,,caught,JN Malan
+ball,1,0.5,South Africa,AK Markram,Q de Kock,PR Stirling,1,0,,,,,,"",""
+ball,1,0.6,South Africa,Q de Kock,AK Markram,PR Stirling,1,0,,,,,,"",""
+ball,1,1.1,South Africa,Q de Kock,AK Markram,CA Young,0,1,1,,,,,"",""
+ball,1,1.2,South Africa,Q de Kock,AK Markram,CA Young,1,0,,,,,,"",""
+ball,1,1.3,South Africa,AK Markram,Q de Kock,CA Young,0,1,,,,1,,"",""
+ball,1,1.4,South Africa,Q de Kock,AK Markram,CA Young,0,0,,,,,,"",""
+ball,1,1.5,South Africa,Q de Kock,AK Markram,CA Young,4,0,,,,,,"",""
+ball,1,1.6,South Africa,Q de Kock,AK Markram,CA Young,4,0,,,,,,"",""
+ball,1,1.7,South Africa,Q de Kock,AK Markram,CA Young,1,0,,,,,,"",""
+ball,1,2.1,South Africa,Q de Kock,AK Markram,PR Stirling,2,0,,,,,,"",""
+ball,1,2.2,South Africa,Q de Kock,AK Markram,PR Stirling,1,0,,,,,,"",""
+ball,1,2.3,South Africa,AK Markram,Q de Kock,PR Stirling,1,0,,,,,,"",""
+ball,1,2.4,South Africa,Q de Kock,AK Markram,PR Stirling,0,0,,,,,,"",""
+ball,1,2.5,South Africa,Q de Kock,AK Markram,PR Stirling,0,0,,,,,,"",""
+ball,1,2.6,South Africa,Q de Kock,AK Markram,PR Stirling,0,0,,,,,,"",""
+ball,1,3.1,South Africa,AK Markram,Q de Kock,MR Adair,2,0,,,,,,"",""
+ball,1,3.2,South Africa,AK Markram,Q de Kock,MR Adair,4,0,,,,,,"",""
+ball,1,3.3,South Africa,AK Markram,Q de Kock,MR Adair,0,0,,,,,,bowled,AK Markram
+ball,1,3.4,South Africa,HE van der Dussen,Q de Kock,MR Adair,0,0,,,,,,"",""
+ball,1,3.5,South Africa,HE van der Dussen,Q de Kock,MR Adair,0,0,,,,,,"",""
+ball,1,3.6,South Africa,HE van der Dussen,Q de Kock,MR Adair,0,0,,,,,,"",""
+ball,1,4.1,South Africa,Q de Kock,HE van der Dussen,J Little,0,0,,,,,,"",""
+ball,1,4.2,South Africa,Q de Kock,HE van der Dussen,J Little,0,0,,,,,,"",""
+ball,1,4.3,South Africa,Q de Kock,HE van der Dussen,J Little,4,0,,,,,,"",""
+ball,1,4.4,South Africa,Q de Kock,HE van der Dussen,J Little,4,0,,,,,,"",""
+ball,1,4.5,South Africa,Q de Kock,HE van der Dussen,J Little,0,0,,,,,,"",""
+ball,1,4.6,South Africa,Q de Kock,HE van der Dussen,J Little,4,0,,,,,,"",""
+ball,1,5.1,South Africa,HE van der Dussen,Q de Kock,MR Adair,0,0,,,,,,"",""
+ball,1,5.2,South Africa,HE van der Dussen,Q de Kock,MR Adair,1,0,,,,,,"",""
+ball,1,5.3,South Africa,Q de Kock,HE van der Dussen,MR Adair,0,0,,,,,,"",""
+ball,1,5.4,South Africa,Q de Kock,HE van der Dussen,MR Adair,1,0,,,,,,"",""
+ball,1,5.5,South Africa,HE van der Dussen,Q de Kock,MR Adair,0,0,,,,,,"",""
+ball,1,5.6,South Africa,HE van der Dussen,Q de Kock,MR Adair,0,0,,,,,,"",""
+ball,1,6.1,South Africa,Q de Kock,HE van der Dussen,Simi Singh,0,0,,,,,,lbw,Q de Kock
+ball,1,6.2,South Africa,DA Miller,HE van der Dussen,Simi Singh,0,0,,,,,,"",""
+ball,1,6.3,South Africa,DA Miller,HE van der Dussen,Simi Singh,0,0,,,,,,"",""
+ball,1,6.4,South Africa,DA Miller,HE van der Dussen,Simi Singh,1,0,,,,,,"",""
+ball,1,6.5,South Africa,HE van der Dussen,DA Miller,Simi Singh,1,0,,,,,,"",""
+ball,1,6.6,South Africa,DA Miller,HE van der Dussen,Simi Singh,1,0,,,,,,"",""
+ball,1,7.1,South Africa,DA Miller,HE van der Dussen,CA Young,2,0,,,,,,"",""
+ball,1,7.2,South Africa,DA Miller,HE van der Dussen,CA Young,1,0,,,,,,"",""
+ball,1,7.3,South Africa,HE van der Dussen,DA Miller,CA Young,1,0,,,,,,"",""
+ball,1,7.4,South Africa,DA Miller,HE van der Dussen,CA Young,4,0,,,,,,"",""
+ball,1,7.5,South Africa,DA Miller,HE van der Dussen,CA Young,1,0,,,,,,"",""
+ball,1,7.6,South Africa,HE van der Dussen,DA Miller,CA Young,0,0,,,,,,"",""
+ball,1,8.1,South Africa,DA Miller,HE van der Dussen,Simi Singh,1,0,,,,,,"",""
+ball,1,8.2,South Africa,HE van der Dussen,DA Miller,Simi Singh,1,0,,,,,,"",""
+ball,1,8.3,South Africa,DA Miller,HE van der Dussen,Simi Singh,1,0,,,,,,"",""
+ball,1,8.4,South Africa,HE van der Dussen,DA Miller,Simi Singh,1,0,,,,,,"",""
+ball,1,8.5,South Africa,DA Miller,HE van der Dussen,Simi Singh,2,0,,,,,,"",""
+ball,1,8.6,South Africa,DA Miller,HE van der Dussen,Simi Singh,0,0,,,,,,"",""
+ball,1,9.1,South Africa,HE van der Dussen,DA Miller,J Little,1,0,,,,,,"",""
+ball,1,9.2,South Africa,DA Miller,HE van der Dussen,J Little,0,0,,,,,,"",""
+ball,1,9.3,South Africa,DA Miller,HE van der Dussen,J Little,0,0,,,,,,"",""
+ball,1,9.4,South Africa,DA Miller,HE van der Dussen,J Little,1,0,,,,,,"",""
+ball,1,9.5,South Africa,HE van der Dussen,DA Miller,J Little,0,0,,,,,,"",""
+ball,1,9.6,South Africa,HE van der Dussen,DA Miller,J Little,0,0,,,,,,caught,HE van der Dussen
+ball,1,10.1,South Africa,DA Miller,PWA Mulder,PR Stirling,1,0,,,,,,"",""
+ball,1,10.2,South Africa,PWA Mulder,DA Miller,PR Stirling,1,0,,,,,,"",""
+ball,1,10.3,South Africa,DA Miller,PWA Mulder,PR Stirling,0,0,,,,,,"",""
+ball,1,10.4,South Africa,DA Miller,PWA Mulder,PR Stirling,2,0,,,,,,"",""
+ball,1,10.5,South Africa,DA Miller,PWA Mulder,PR Stirling,1,0,,,,,,"",""
+ball,1,10.6,South Africa,PWA Mulder,DA Miller,PR Stirling,1,0,,,,,,"",""
+ball,1,11.1,South Africa,PWA Mulder,DA Miller,J Little,0,0,,,,,,"",""
+ball,1,11.2,South Africa,PWA Mulder,DA Miller,J Little,0,0,,,,,,"",""
+ball,1,11.3,South Africa,PWA Mulder,DA Miller,J Little,2,0,,,,,,"",""
+ball,1,11.4,South Africa,PWA Mulder,DA Miller,J Little,0,0,,,,,,"",""
+ball,1,11.5,South Africa,PWA Mulder,DA Miller,J Little,1,0,,,,,,"",""
+ball,1,11.6,South Africa,DA Miller,PWA Mulder,J Little,1,0,,,,,,"",""
+ball,1,12.1,South Africa,DA Miller,PWA Mulder,Simi Singh,1,0,,,,,,"",""
+ball,1,12.2,South Africa,PWA Mulder,DA Miller,Simi Singh,1,0,,,,,,"",""
+ball,1,12.3,South Africa,DA Miller,PWA Mulder,Simi Singh,1,0,,,,,,"",""
+ball,1,12.4,South Africa,PWA Mulder,DA Miller,Simi Singh,0,0,,,,,,"",""
+ball,1,12.5,South Africa,PWA Mulder,DA Miller,Simi Singh,1,0,,,,,,"",""
+ball,1,12.6,South Africa,DA Miller,PWA Mulder,Simi Singh,4,0,,,,,,"",""
+ball,1,13.1,South Africa,PWA Mulder,DA Miller,SC Getkate,1,0,,,,,,"",""
+ball,1,13.2,South Africa,DA Miller,PWA Mulder,SC Getkate,0,0,,,,,,"",""
+ball,1,13.3,South Africa,DA Miller,PWA Mulder,SC Getkate,1,0,,,,,,"",""
+ball,1,13.4,South Africa,PWA Mulder,DA Miller,SC Getkate,1,0,,,,,,"",""
+ball,1,13.5,South Africa,DA Miller,PWA Mulder,SC Getkate,1,0,,,,,,"",""
+ball,1,13.6,South Africa,PWA Mulder,DA Miller,SC Getkate,2,0,,,,,,"",""
+ball,1,14.1,South Africa,DA Miller,PWA Mulder,Simi Singh,1,0,,,,,,"",""
+ball,1,14.2,South Africa,PWA Mulder,DA Miller,Simi Singh,1,0,,,,,,"",""
+ball,1,14.3,South Africa,DA Miller,PWA Mulder,Simi Singh,1,0,,,,,,"",""
+ball,1,14.4,South Africa,PWA Mulder,DA Miller,Simi Singh,0,0,,,,,,"",""
+ball,1,14.5,South Africa,PWA Mulder,DA Miller,Simi Singh,0,0,,,,,,"",""
+ball,1,14.6,South Africa,PWA Mulder,DA Miller,Simi Singh,6,0,,,,,,"",""
+ball,1,15.1,South Africa,DA Miller,PWA Mulder,CA Young,1,0,,,,,,"",""
+ball,1,15.2,South Africa,PWA Mulder,DA Miller,CA Young,1,0,,,,,,"",""
+ball,1,15.3,South Africa,DA Miller,PWA Mulder,CA Young,4,0,,,,,,"",""
+ball,1,15.4,South Africa,DA Miller,PWA Mulder,CA Young,1,0,,,,,,"",""
+ball,1,15.5,South Africa,PWA Mulder,DA Miller,CA Young,4,0,,,,,,"",""
+ball,1,15.6,South Africa,PWA Mulder,DA Miller,CA Young,1,0,,,,,,"",""
+ball,1,16.1,South Africa,PWA Mulder,DA Miller,MR Adair,6,0,,,,,,"",""
+ball,1,16.2,South Africa,PWA Mulder,DA Miller,MR Adair,4,0,,,,,,"",""
+ball,1,16.3,South Africa,PWA Mulder,DA Miller,MR Adair,1,0,,,,,,"",""
+ball,1,16.4,South Africa,DA Miller,PWA Mulder,MR Adair,1,0,,,,,,"",""
+ball,1,16.5,South Africa,PWA Mulder,DA Miller,MR Adair,0,0,,,,,,"",""
+ball,1,16.6,South Africa,PWA Mulder,DA Miller,MR Adair,1,0,,,,,,"",""
+ball,1,17.1,South Africa,PWA Mulder,DA Miller,CA Young,0,0,,,,,,caught,PWA Mulder
+ball,1,17.2,South Africa,DA Miller,BC Fortuin,CA Young,4,0,,,,,,"",""
+ball,1,17.3,South Africa,DA Miller,BC Fortuin,CA Young,1,0,,,,,,"",""
+ball,1,17.4,South Africa,BC Fortuin,DA Miller,CA Young,1,0,,,,,,"",""
+ball,1,17.5,South Africa,DA Miller,BC Fortuin,CA Young,1,0,,,,,,"",""
+ball,1,17.6,South Africa,BC Fortuin,DA Miller,CA Young,0,0,,,,,,"",""
+ball,1,18.1,South Africa,DA Miller,BC Fortuin,MR Adair,6,0,,,,,,"",""
+ball,1,18.2,South Africa,DA Miller,BC Fortuin,MR Adair,1,0,,,,,,"",""
+ball,1,18.3,South Africa,BC Fortuin,DA Miller,MR Adair,4,0,,,,,,"",""
+ball,1,18.4,South Africa,BC Fortuin,DA Miller,MR Adair,0,0,,,,,,caught,BC Fortuin
+ball,1,18.5,South Africa,DA Miller,BE Hendricks,MR Adair,1,0,,,,,,"",""
+ball,1,18.6,South Africa,BE Hendricks,DA Miller,MR Adair,0,0,,,,,,"",""
+ball,1,19.1,South Africa,DA Miller,BE Hendricks,J Little,6,0,,,,,,"",""
+ball,1,19.2,South Africa,DA Miller,BE Hendricks,J Little,0,0,,,,,,"",""
+ball,1,19.3,South Africa,DA Miller,BE Hendricks,J Little,0,0,,,,,,"",""
+ball,1,19.4,South Africa,DA Miller,BE Hendricks,J Little,6,0,,,,,,"",""
+ball,1,19.5,South Africa,DA Miller,BE Hendricks,J Little,6,0,,,,,,"",""
+ball,1,19.6,South Africa,DA Miller,BE Hendricks,J Little,6,0,,,,,,"",""
+ball,2,0.1,Ireland,PR Stirling,KJ O'Brien,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.2,Ireland,PR Stirling,KJ O'Brien,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.3,Ireland,PR Stirling,KJ O'Brien,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.4,Ireland,PR Stirling,KJ O'Brien,BC Fortuin,0,1,,,,1,,"",""
+ball,2,0.5,Ireland,KJ O'Brien,PR Stirling,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.6,Ireland,KJ O'Brien,PR Stirling,BC Fortuin,0,0,,,,,,caught and bowled,KJ O'Brien
+ball,2,1.1,Ireland,PR Stirling,A Balbirnie,L Ngidi,0,0,,,,,,"",""
+ball,2,1.2,Ireland,PR Stirling,A Balbirnie,L Ngidi,4,0,,,,,,"",""
+ball,2,1.3,Ireland,PR Stirling,A Balbirnie,L Ngidi,1,0,,,,,,"",""
+ball,2,1.4,Ireland,A Balbirnie,PR Stirling,L Ngidi,1,0,,,,,,"",""
+ball,2,1.5,Ireland,PR Stirling,A Balbirnie,L Ngidi,1,0,,,,,,"",""
+ball,2,1.6,Ireland,A Balbirnie,PR Stirling,L Ngidi,0,0,,,,,,"",""
+ball,2,2.1,Ireland,PR Stirling,A Balbirnie,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.2,Ireland,PR Stirling,A Balbirnie,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.3,Ireland,PR Stirling,A Balbirnie,BC Fortuin,6,0,,,,,,"",""
+ball,2,2.4,Ireland,PR Stirling,A Balbirnie,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.5,Ireland,PR Stirling,A Balbirnie,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.6,Ireland,A Balbirnie,PR Stirling,BC Fortuin,0,0,,,,,,"",""
+ball,2,3.1,Ireland,PR Stirling,A Balbirnie,L Ngidi,1,0,,,,,,"",""
+ball,2,3.2,Ireland,A Balbirnie,PR Stirling,L Ngidi,0,1,,,,1,,"",""
+ball,2,3.3,Ireland,PR Stirling,A Balbirnie,L Ngidi,1,0,,,,,,"",""
+ball,2,3.4,Ireland,A Balbirnie,PR Stirling,L Ngidi,1,0,,,,,,"",""
+ball,2,3.5,Ireland,PR Stirling,A Balbirnie,L Ngidi,0,0,,,,,,"",""
+ball,2,3.6,Ireland,PR Stirling,A Balbirnie,L Ngidi,0,0,,,,,,"",""
+ball,2,4.1,Ireland,A Balbirnie,PR Stirling,BE Hendricks,4,0,,,,,,"",""
+ball,2,4.2,Ireland,A Balbirnie,PR Stirling,BE Hendricks,0,0,,,,,,caught,A Balbirnie
+ball,2,4.3,Ireland,PR Stirling,GH Dockrell,BE Hendricks,1,0,,,,,,"",""
+ball,2,4.4,Ireland,GH Dockrell,PR Stirling,BE Hendricks,0,0,,,,,,"",""
+ball,2,4.5,Ireland,GH Dockrell,PR Stirling,BE Hendricks,0,0,,,,,,"",""
+ball,2,4.6,Ireland,GH Dockrell,PR Stirling,BE Hendricks,1,0,,,,,,"",""
+ball,2,5.1,Ireland,GH Dockrell,PR Stirling,PWA Mulder,0,0,,,,,,"",""
+ball,2,5.2,Ireland,GH Dockrell,PR Stirling,PWA Mulder,4,0,,,,,,"",""
+ball,2,5.3,Ireland,GH Dockrell,PR Stirling,PWA Mulder,6,0,,,,,,"",""
+ball,2,5.4,Ireland,GH Dockrell,PR Stirling,PWA Mulder,0,0,,,,,,"",""
+ball,2,5.5,Ireland,GH Dockrell,PR Stirling,PWA Mulder,0,1,1,,,,,"",""
+ball,2,5.6,Ireland,GH Dockrell,PR Stirling,PWA Mulder,0,0,,,,,,"",""
+ball,2,5.7,Ireland,GH Dockrell,PR Stirling,PWA Mulder,0,1,1,,,,,"",""
+ball,2,5.8,Ireland,GH Dockrell,PR Stirling,PWA Mulder,1,0,,,,,,"",""
+ball,2,6.1,Ireland,GH Dockrell,PR Stirling,BE Hendricks,1,0,,,,,,"",""
+ball,2,6.2,Ireland,PR Stirling,GH Dockrell,BE Hendricks,1,0,,,,,,"",""
+ball,2,6.3,Ireland,GH Dockrell,PR Stirling,BE Hendricks,1,0,,,,,,"",""
+ball,2,6.4,Ireland,PR Stirling,GH Dockrell,BE Hendricks,0,0,,,,,,"",""
+ball,2,6.5,Ireland,PR Stirling,GH Dockrell,BE Hendricks,1,0,,,,,,"",""
+ball,2,6.6,Ireland,GH Dockrell,PR Stirling,BE Hendricks,1,0,,,,,,"",""
+ball,2,7.1,Ireland,GH Dockrell,PR Stirling,T Shamsi,0,0,,,,,,"",""
+ball,2,7.2,Ireland,GH Dockrell,PR Stirling,T Shamsi,1,0,,,,,,"",""
+ball,2,7.3,Ireland,PR Stirling,GH Dockrell,T Shamsi,1,0,,,,,,"",""
+ball,2,7.4,Ireland,GH Dockrell,PR Stirling,T Shamsi,0,0,,,,,,"",""
+ball,2,7.5,Ireland,GH Dockrell,PR Stirling,T Shamsi,1,0,,,,,,"",""
+ball,2,7.6,Ireland,PR Stirling,GH Dockrell,T Shamsi,0,0,,,,,,caught,PR Stirling
+ball,2,8.1,Ireland,GH Dockrell,HT Tector,AK Markram,1,0,,,,,,"",""
+ball,2,8.2,Ireland,HT Tector,GH Dockrell,AK Markram,2,0,,,,,,"",""
+ball,2,8.3,Ireland,HT Tector,GH Dockrell,AK Markram,1,0,,,,,,"",""
+ball,2,8.4,Ireland,GH Dockrell,HT Tector,AK Markram,1,0,,,,,,"",""
+ball,2,8.5,Ireland,HT Tector,GH Dockrell,AK Markram,0,0,,,,,,caught,HT Tector
+ball,2,8.6,Ireland,SC Getkate,GH Dockrell,AK Markram,1,0,,,,,,"",""
+ball,2,9.1,Ireland,SC Getkate,GH Dockrell,T Shamsi,0,0,,,,,,"",""
+ball,2,9.2,Ireland,SC Getkate,GH Dockrell,T Shamsi,0,0,,,,,,"",""
+ball,2,9.3,Ireland,SC Getkate,GH Dockrell,T Shamsi,1,0,,,,,,"",""
+ball,2,9.4,Ireland,GH Dockrell,SC Getkate,T Shamsi,0,1,1,,,,,"",""
+ball,2,9.5,Ireland,GH Dockrell,SC Getkate,T Shamsi,1,0,,,,,,"",""
+ball,2,9.6,Ireland,SC Getkate,GH Dockrell,T Shamsi,1,0,,,,,,"",""
+ball,2,9.7,Ireland,GH Dockrell,SC Getkate,T Shamsi,0,0,,,,,,caught,GH Dockrell
+ball,2,10.1,Ireland,SC Getkate,L Tucker,AK Markram,0,0,,,,,,"",""
+ball,2,10.2,Ireland,SC Getkate,L Tucker,AK Markram,6,0,,,,,,"",""
+ball,2,10.3,Ireland,SC Getkate,L Tucker,AK Markram,1,0,,,,,,"",""
+ball,2,10.4,Ireland,L Tucker,SC Getkate,AK Markram,0,0,,,,,,"",""
+ball,2,10.5,Ireland,L Tucker,SC Getkate,AK Markram,4,0,,,,,,"",""
+ball,2,10.6,Ireland,L Tucker,SC Getkate,AK Markram,0,0,,,,,,"",""
+ball,2,11.1,Ireland,SC Getkate,L Tucker,PWA Mulder,0,0,,,,,,"",""
+ball,2,11.2,Ireland,SC Getkate,L Tucker,PWA Mulder,0,0,,,,,,"",""
+ball,2,11.3,Ireland,SC Getkate,L Tucker,PWA Mulder,2,0,,,,,,"",""
+ball,2,11.4,Ireland,SC Getkate,L Tucker,PWA Mulder,4,0,,,,,,"",""
+ball,2,11.5,Ireland,SC Getkate,L Tucker,PWA Mulder,1,0,,,,,,"",""
+ball,2,11.6,Ireland,L Tucker,SC Getkate,PWA Mulder,4,0,,,,,,"",""
+ball,2,12.1,Ireland,SC Getkate,L Tucker,BC Fortuin,0,0,,,,,,"",""
+ball,2,12.2,Ireland,SC Getkate,L Tucker,BC Fortuin,1,0,,,,,,"",""
+ball,2,12.3,Ireland,L Tucker,SC Getkate,BC Fortuin,0,0,,,,,,"",""
+ball,2,12.4,Ireland,L Tucker,SC Getkate,BC Fortuin,1,0,,,,,,"",""
+ball,2,12.5,Ireland,SC Getkate,L Tucker,BC Fortuin,6,0,,,,,,"",""
+ball,2,12.6,Ireland,SC Getkate,L Tucker,BC Fortuin,0,0,,,,,,"",""
+ball,2,13.1,Ireland,L Tucker,SC Getkate,T Shamsi,1,0,,,,,,"",""
+ball,2,13.2,Ireland,SC Getkate,L Tucker,T Shamsi,0,0,,,,,,caught,SC Getkate
+ball,2,13.3,Ireland,Simi Singh,L Tucker,T Shamsi,0,1,1,,,,,"",""
+ball,2,13.4,Ireland,Simi Singh,L Tucker,T Shamsi,0,1,,,,1,,"",""
+ball,2,13.5,Ireland,L Tucker,Simi Singh,T Shamsi,1,0,,,,,,"",""
+ball,2,13.6,Ireland,Simi Singh,L Tucker,T Shamsi,1,0,,,,,,"",""
+ball,2,13.7,Ireland,L Tucker,Simi Singh,T Shamsi,1,0,,,,,,"",""
+ball,2,14.1,Ireland,L Tucker,Simi Singh,BC Fortuin,0,0,,,,,,bowled,L Tucker
+ball,2,14.2,Ireland,MR Adair,Simi Singh,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.3,Ireland,MR Adair,Simi Singh,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.4,Ireland,MR Adair,Simi Singh,BC Fortuin,1,0,,,,,,"",""
+ball,2,14.5,Ireland,Simi Singh,MR Adair,BC Fortuin,0,0,,,,,,stumped,Simi Singh
+ball,2,14.6,Ireland,CA Young,MR Adair,BC Fortuin,0,0,,,,,,"",""
+ball,2,15.1,Ireland,MR Adair,CA Young,T Shamsi,1,0,,,,,,"",""
+ball,2,15.2,Ireland,CA Young,MR Adair,T Shamsi,0,0,,,,,,"",""
+ball,2,15.3,Ireland,CA Young,MR Adair,T Shamsi,0,1,,,,1,,"",""
+ball,2,15.4,Ireland,MR Adair,CA Young,T Shamsi,0,0,,,,,,"",""
+ball,2,15.5,Ireland,MR Adair,CA Young,T Shamsi,0,0,,,,,,"",""
+ball,2,15.6,Ireland,MR Adair,CA Young,T Shamsi,1,0,,,,,,"",""
+ball,2,16.1,Ireland,MR Adair,CA Young,BE Hendricks,3,0,,,,,,"",""
+ball,2,16.2,Ireland,CA Young,MR Adair,BE Hendricks,0,0,,,,,,caught,CA Young
+ball,2,16.3,Ireland,MR Adair,J Little,BE Hendricks,1,0,,,,,,"",""
+ball,2,16.4,Ireland,J Little,MR Adair,BE Hendricks,1,0,,,,,,"",""
+ball,2,16.5,Ireland,MR Adair,J Little,BE Hendricks,4,0,,,,,,"",""
+ball,2,16.6,Ireland,MR Adair,J Little,BE Hendricks,1,0,,,,,,"",""
+ball,2,17.1,Ireland,MR Adair,J Little,L Ngidi,1,0,,,,,,"",""
+ball,2,17.2,Ireland,J Little,MR Adair,L Ngidi,0,0,,,,,,"",""
+ball,2,17.3,Ireland,J Little,MR Adair,L Ngidi,0,0,,,,,,"",""
+ball,2,17.4,Ireland,J Little,MR Adair,L Ngidi,1,0,,,,,,"",""
+ball,2,17.5,Ireland,MR Adair,J Little,L Ngidi,0,0,,,,,,"",""
+ball,2,17.6,Ireland,MR Adair,J Little,L Ngidi,0,0,,,,,,"",""
+ball,2,18.1,Ireland,J Little,MR Adair,BE Hendricks,0,0,,,,,,"",""
+ball,2,18.2,Ireland,J Little,MR Adair,BE Hendricks,4,0,,,,,,"",""
+ball,2,18.3,Ireland,J Little,MR Adair,BE Hendricks,1,0,,,,,,"",""
+ball,2,18.4,Ireland,MR Adair,J Little,BE Hendricks,1,0,,,,,,"",""
+ball,2,18.5,Ireland,J Little,MR Adair,BE Hendricks,0,0,,,,,,"",""
+ball,2,18.6,Ireland,J Little,MR Adair,BE Hendricks,1,0,,,,,,"",""
+ball,2,19.1,Ireland,J Little,MR Adair,L Ngidi,1,0,,,,,,"",""
+ball,2,19.2,Ireland,MR Adair,J Little,L Ngidi,1,0,,,,,,"",""
+ball,2,19.3,Ireland,J Little,MR Adair,L Ngidi,0,0,,,,,,bowled,J Little

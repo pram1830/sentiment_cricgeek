@@ -1,0 +1,338 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Austria
+info,gender,female
+info,season,2020
+info,date,2020/08/12
+info,event,Germany Women tour of Austria
+info,match_number,1
+info,venue,"Seebarn Cricket Centre, Lower Austria"
+info,city,Lower Austria
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,CM Gough
+info,umpire,Praveen Kumar Swamidas
+info,umpire,Rajinder Kumar
+info,reserve_umpire,Arsalan Arif
+info,winner,Germany
+info,winner_runs,82
+info,player,Germany,JE Ronalds
+info,player,Germany,CM Gough
+info,player,Germany,A Doddaballapur
+info,player,Germany,S Sadarangani
+info,player,Germany,MS Beresford
+info,player,Germany,A Bierwisch
+info,player,Germany,EC Bargna
+info,player,Germany,V Stolle
+info,player,Germany,A Kohli
+info,player,Germany,SR McAnanama-Brereton
+info,player,Germany,K Vijayaraghavan
+info,player,Austria,H Bhullar
+info,player,Austria,Busra Uca
+info,player,Austria,P Sabu
+info,player,Austria,AM Zepeda
+info,player,Austria,S Kailath
+info,player,Austria,JA Stiglitz
+info,player,Austria,R Avdylaj
+info,player,Austria,H Dhaliwal
+info,player,Austria,A Nookala
+info,player,Austria,T Kazanci
+info,player,Austria,V Avdylaj
+info,registry,people,A Bierwisch,b51d654f
+info,registry,people,A Doddaballapur,fe4f5d2b
+info,registry,people,A Kohli,eb9082b2
+info,registry,people,A Nookala,57922f7c
+info,registry,people,AM Zepeda,c9f95a16
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Busra Uca,e486ecc0
+info,registry,people,CM Gough,f1328a90
+info,registry,people,EC Bargna,9908d470
+info,registry,people,H Bhullar,c9ffb93d
+info,registry,people,H Dhaliwal,5be6b836
+info,registry,people,JA Stiglitz,7195065a
+info,registry,people,JE Ronalds,d4f98302
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,MS Beresford,26eb73f9
+info,registry,people,P Sabu,a38da707
+info,registry,people,Praveen Kumar Swamidas,566827e1
+info,registry,people,R Avdylaj,422c0dde
+info,registry,people,Rajinder Kumar,20a12a4c
+info,registry,people,S Kailath,080bbb6e
+info,registry,people,S Sadarangani,acd030a0
+info,registry,people,SR McAnanama-Brereton,bb1be934
+info,registry,people,T Kazanci,03da3399
+info,registry,people,V Avdylaj,cfd2b36f
+info,registry,people,V Stolle,0dc4ac6c
+ball,1,0.1,Germany,JE Ronalds,CM Gough,V Avdylaj,0,0,,,,,,"",""
+ball,1,0.2,Germany,JE Ronalds,CM Gough,V Avdylaj,0,0,,,,,,"",""
+ball,1,0.3,Germany,JE Ronalds,CM Gough,V Avdylaj,0,0,,,,,,"",""
+ball,1,0.4,Germany,JE Ronalds,CM Gough,V Avdylaj,2,0,,,,,,"",""
+ball,1,0.5,Germany,JE Ronalds,CM Gough,V Avdylaj,1,0,,,,,,"",""
+ball,1,0.6,Germany,CM Gough,JE Ronalds,V Avdylaj,0,1,,,,1,,"",""
+ball,1,1.1,Germany,CM Gough,JE Ronalds,AM Zepeda,0,1,1,,,,,"",""
+ball,1,1.2,Germany,CM Gough,JE Ronalds,AM Zepeda,0,0,,,,,,"",""
+ball,1,1.3,Germany,CM Gough,JE Ronalds,AM Zepeda,0,0,,,,,,"",""
+ball,1,1.4,Germany,CM Gough,JE Ronalds,AM Zepeda,2,0,,,,,,"",""
+ball,1,1.5,Germany,CM Gough,JE Ronalds,AM Zepeda,0,0,,,,,,"",""
+ball,1,1.6,Germany,CM Gough,JE Ronalds,AM Zepeda,1,0,,,,,,"",""
+ball,1,1.7,Germany,JE Ronalds,CM Gough,AM Zepeda,1,0,,,,,,"",""
+ball,1,2.1,Germany,JE Ronalds,CM Gough,V Avdylaj,0,1,1,,,,,"",""
+ball,1,2.2,Germany,JE Ronalds,CM Gough,V Avdylaj,2,0,,,,,,"",""
+ball,1,2.3,Germany,JE Ronalds,CM Gough,V Avdylaj,0,1,,,,1,,"",""
+ball,1,2.4,Germany,CM Gough,JE Ronalds,V Avdylaj,0,0,,,,,,"",""
+ball,1,2.5,Germany,CM Gough,JE Ronalds,V Avdylaj,1,0,,,,,,"",""
+ball,1,2.6,Germany,JE Ronalds,CM Gough,V Avdylaj,1,0,,,,,,"",""
+ball,1,2.7,Germany,CM Gough,JE Ronalds,V Avdylaj,0,0,,,,,,"",""
+ball,1,3.1,Germany,JE Ronalds,CM Gough,AM Zepeda,0,0,,,,,,"",""
+ball,1,3.2,Germany,JE Ronalds,CM Gough,AM Zepeda,2,0,,,,,,"",""
+ball,1,3.3,Germany,JE Ronalds,CM Gough,AM Zepeda,0,0,,,,,,"",""
+ball,1,3.4,Germany,JE Ronalds,CM Gough,AM Zepeda,2,0,,,,,,"",""
+ball,1,3.5,Germany,JE Ronalds,CM Gough,AM Zepeda,1,0,,,,,,"",""
+ball,1,3.6,Germany,CM Gough,JE Ronalds,AM Zepeda,0,1,1,,,,,"",""
+ball,1,3.7,Germany,CM Gough,JE Ronalds,AM Zepeda,0,0,,,,,,"",""
+ball,1,4.1,Germany,JE Ronalds,CM Gough,V Avdylaj,0,1,1,,,,,"",""
+ball,1,4.2,Germany,JE Ronalds,CM Gough,V Avdylaj,1,0,,,,,,"",""
+ball,1,4.3,Germany,CM Gough,JE Ronalds,V Avdylaj,1,0,,,,,,"",""
+ball,1,4.4,Germany,JE Ronalds,CM Gough,V Avdylaj,0,0,,,,,,"",""
+ball,1,4.5,Germany,JE Ronalds,CM Gough,V Avdylaj,1,0,,,,,,"",""
+ball,1,4.6,Germany,CM Gough,JE Ronalds,V Avdylaj,0,0,,,,,,"",""
+ball,1,4.7,Germany,CM Gough,JE Ronalds,V Avdylaj,0,3,3,,,,,"",""
+ball,1,4.8,Germany,CM Gough,JE Ronalds,V Avdylaj,1,0,,,,,,"",""
+ball,1,5.1,Germany,CM Gough,JE Ronalds,AM Zepeda,0,0,,,,,,"",""
+ball,1,5.2,Germany,CM Gough,JE Ronalds,AM Zepeda,4,0,,,,,,"",""
+ball,1,5.3,Germany,CM Gough,JE Ronalds,AM Zepeda,1,0,,,,,,"",""
+ball,1,5.4,Germany,JE Ronalds,CM Gough,AM Zepeda,0,0,,,,,,"",""
+ball,1,5.5,Germany,JE Ronalds,CM Gough,AM Zepeda,2,0,,,,,,"",""
+ball,1,5.6,Germany,JE Ronalds,CM Gough,AM Zepeda,0,0,,,,,,"",""
+ball,1,6.1,Germany,CM Gough,JE Ronalds,JA Stiglitz,0,0,,,,,,"",""
+ball,1,6.2,Germany,CM Gough,JE Ronalds,JA Stiglitz,0,0,,,,,,"",""
+ball,1,6.3,Germany,CM Gough,JE Ronalds,JA Stiglitz,0,1,,1,,,,"",""
+ball,1,6.4,Germany,CM Gough,JE Ronalds,JA Stiglitz,4,0,,,,,,"",""
+ball,1,6.5,Germany,CM Gough,JE Ronalds,JA Stiglitz,2,0,,,,,,"",""
+ball,1,6.6,Germany,CM Gough,JE Ronalds,JA Stiglitz,1,0,,,,,,"",""
+ball,1,6.7,Germany,JE Ronalds,CM Gough,JA Stiglitz,4,0,,,,,,"",""
+ball,1,7.1,Germany,CM Gough,JE Ronalds,T Kazanci,0,1,1,,,,,"",""
+ball,1,7.2,Germany,CM Gough,JE Ronalds,T Kazanci,0,0,,,,,,"",""
+ball,1,7.3,Germany,CM Gough,JE Ronalds,T Kazanci,0,1,1,,,,,"",""
+ball,1,7.4,Germany,CM Gough,JE Ronalds,T Kazanci,4,0,,,,,,"",""
+ball,1,7.5,Germany,CM Gough,JE Ronalds,T Kazanci,0,1,,1,,,,"",""
+ball,1,7.6,Germany,CM Gough,JE Ronalds,T Kazanci,4,0,,,,,,"",""
+ball,1,7.7,Germany,CM Gough,JE Ronalds,T Kazanci,1,0,,,,,,"",""
+ball,1,7.8,Germany,JE Ronalds,CM Gough,T Kazanci,0,0,,,,,,"",""
+ball,1,7.9,Germany,JE Ronalds,CM Gough,T Kazanci,2,0,,,,,,"",""
+ball,1,8.1,Germany,CM Gough,JE Ronalds,JA Stiglitz,1,0,,,,,,"",""
+ball,1,8.2,Germany,JE Ronalds,CM Gough,JA Stiglitz,1,0,,,,,,"",""
+ball,1,8.3,Germany,CM Gough,JE Ronalds,JA Stiglitz,0,0,,,,,,"",""
+ball,1,8.4,Germany,CM Gough,JE Ronalds,JA Stiglitz,0,0,,,,,,"",""
+ball,1,8.5,Germany,CM Gough,JE Ronalds,JA Stiglitz,4,0,,,,,,"",""
+ball,1,8.6,Germany,CM Gough,JE Ronalds,JA Stiglitz,0,0,,,,,,"",""
+ball,1,9.1,Germany,JE Ronalds,CM Gough,T Kazanci,1,0,,,,,,"",""
+ball,1,9.2,Germany,CM Gough,JE Ronalds,T Kazanci,1,0,,,,,,"",""
+ball,1,9.3,Germany,JE Ronalds,CM Gough,T Kazanci,1,0,,,,,,"",""
+ball,1,9.4,Germany,CM Gough,JE Ronalds,T Kazanci,1,0,,,,,,"",""
+ball,1,9.5,Germany,JE Ronalds,CM Gough,T Kazanci,1,0,,,,,,"",""
+ball,1,9.6,Germany,CM Gough,JE Ronalds,T Kazanci,0,0,,,,,,"",""
+ball,1,10.1,Germany,JE Ronalds,CM Gough,R Avdylaj,1,0,,,,,,"",""
+ball,1,10.2,Germany,CM Gough,JE Ronalds,R Avdylaj,1,0,,,,,,"",""
+ball,1,10.3,Germany,JE Ronalds,CM Gough,R Avdylaj,0,0,,,,,,caught,JE Ronalds
+ball,1,10.4,Germany,A Doddaballapur,CM Gough,R Avdylaj,1,0,,,,,,"",""
+ball,1,10.5,Germany,CM Gough,A Doddaballapur,R Avdylaj,1,0,,,,,,"",""
+ball,1,10.6,Germany,A Doddaballapur,CM Gough,R Avdylaj,1,0,,,,,,"",""
+ball,1,11.1,Germany,A Doddaballapur,CM Gough,S Kailath,1,0,,,,,,"",""
+ball,1,11.2,Germany,CM Gough,A Doddaballapur,S Kailath,1,0,,,,,,"",""
+ball,1,11.3,Germany,A Doddaballapur,CM Gough,S Kailath,1,1,,1,,,,"",""
+ball,1,11.4,Germany,CM Gough,A Doddaballapur,S Kailath,4,0,,,,,,"",""
+ball,1,11.5,Germany,CM Gough,A Doddaballapur,S Kailath,0,0,,,,,,"",""
+ball,1,11.6,Germany,CM Gough,A Doddaballapur,S Kailath,1,0,,,,,,"",""
+ball,1,11.7,Germany,A Doddaballapur,CM Gough,S Kailath,0,0,,,,,,"",""
+ball,1,12.1,Germany,CM Gough,A Doddaballapur,R Avdylaj,1,0,,,,,,"",""
+ball,1,12.2,Germany,A Doddaballapur,CM Gough,R Avdylaj,4,0,,,,,,"",""
+ball,1,12.3,Germany,A Doddaballapur,CM Gough,R Avdylaj,1,0,,,,,,"",""
+ball,1,12.4,Germany,CM Gough,A Doddaballapur,R Avdylaj,1,0,,,,,,"",""
+ball,1,12.5,Germany,A Doddaballapur,CM Gough,R Avdylaj,1,0,,,,,,"",""
+ball,1,12.6,Germany,CM Gough,A Doddaballapur,R Avdylaj,4,0,,,,,,"",""
+ball,1,13.1,Germany,A Doddaballapur,CM Gough,S Kailath,1,0,,,,,,"",""
+ball,1,13.2,Germany,CM Gough,A Doddaballapur,S Kailath,2,0,,,,,,"",""
+ball,1,13.3,Germany,CM Gough,A Doddaballapur,S Kailath,0,0,,,,,,"",""
+ball,1,13.4,Germany,CM Gough,A Doddaballapur,S Kailath,4,0,,,,,,"",""
+ball,1,13.5,Germany,CM Gough,A Doddaballapur,S Kailath,1,0,,,,,,"",""
+ball,1,13.6,Germany,A Doddaballapur,CM Gough,S Kailath,0,0,,,,,,"",""
+ball,1,14.1,Germany,CM Gough,A Doddaballapur,V Avdylaj,0,0,,,,,,"",""
+ball,1,14.2,Germany,CM Gough,A Doddaballapur,V Avdylaj,2,0,,,,,,"",""
+ball,1,14.3,Germany,CM Gough,A Doddaballapur,V Avdylaj,1,0,,,,,,"",""
+ball,1,14.4,Germany,A Doddaballapur,CM Gough,V Avdylaj,1,0,,,,,,"",""
+ball,1,14.5,Germany,CM Gough,A Doddaballapur,V Avdylaj,1,0,,,,,,"",""
+ball,1,14.6,Germany,A Doddaballapur,CM Gough,V Avdylaj,0,1,1,,,,,"",""
+ball,1,14.7,Germany,A Doddaballapur,CM Gough,V Avdylaj,2,0,,,,,,"",""
+ball,1,15.1,Germany,CM Gough,A Doddaballapur,AM Zepeda,4,0,,,,,,"",""
+ball,1,15.2,Germany,CM Gough,A Doddaballapur,AM Zepeda,0,0,,,,,,"",""
+ball,1,15.3,Germany,CM Gough,A Doddaballapur,AM Zepeda,0,0,,,,,,"",""
+ball,1,15.4,Germany,CM Gough,A Doddaballapur,AM Zepeda,0,1,,,,1,,"",""
+ball,1,15.5,Germany,A Doddaballapur,CM Gough,AM Zepeda,0,0,,,,,,"",""
+ball,1,15.6,Germany,A Doddaballapur,CM Gough,AM Zepeda,0,0,,,,,,"",""
+ball,1,16.1,Germany,CM Gough,A Doddaballapur,JA Stiglitz,2,0,,,,,,"",""
+ball,1,16.2,Germany,CM Gough,A Doddaballapur,JA Stiglitz,2,0,,,,,,"",""
+ball,1,16.3,Germany,CM Gough,A Doddaballapur,JA Stiglitz,2,0,,,,,,"",""
+ball,1,16.4,Germany,CM Gough,A Doddaballapur,JA Stiglitz,2,0,,,,,,"",""
+ball,1,16.5,Germany,CM Gough,A Doddaballapur,JA Stiglitz,1,0,,,,,,"",""
+ball,1,16.6,Germany,A Doddaballapur,CM Gough,JA Stiglitz,1,0,,,,,,"",""
+ball,1,17.1,Germany,A Doddaballapur,CM Gough,S Kailath,0,0,,,,,,"",""
+ball,1,17.2,Germany,A Doddaballapur,CM Gough,S Kailath,1,0,,,,,,"",""
+ball,1,17.3,Germany,CM Gough,A Doddaballapur,S Kailath,0,0,,,,,,caught,CM Gough
+ball,1,17.4,Germany,A Doddaballapur,S Sadarangani,S Kailath,0,1,1,,,,,"",""
+ball,1,17.5,Germany,A Doddaballapur,S Sadarangani,S Kailath,0,0,,,,,,"",""
+ball,1,17.6,Germany,A Doddaballapur,S Sadarangani,S Kailath,1,1,,1,,,,"",""
+ball,1,17.7,Germany,S Sadarangani,A Doddaballapur,S Kailath,1,0,,,,,,"",""
+ball,1,17.8,Germany,A Doddaballapur,S Sadarangani,S Kailath,1,0,,,,,,"",""
+ball,1,18.1,Germany,A Doddaballapur,S Sadarangani,JA Stiglitz,1,0,,,,,,"",""
+ball,1,18.2,Germany,S Sadarangani,A Doddaballapur,JA Stiglitz,1,0,,,,,,"",""
+ball,1,18.3,Germany,A Doddaballapur,S Sadarangani,JA Stiglitz,2,0,,,,,,"",""
+ball,1,18.4,Germany,A Doddaballapur,S Sadarangani,JA Stiglitz,2,0,,,,,,"",""
+ball,1,18.5,Germany,A Doddaballapur,S Sadarangani,JA Stiglitz,1,1,,1,,,,"",""
+ball,1,18.6,Germany,S Sadarangani,A Doddaballapur,JA Stiglitz,1,0,,,,,,"",""
+ball,1,18.7,Germany,A Doddaballapur,S Sadarangani,JA Stiglitz,4,0,,,,,,"",""
+ball,1,19.1,Germany,S Sadarangani,A Doddaballapur,S Kailath,0,1,1,,,,,"",""
+ball,1,19.2,Germany,S Sadarangani,A Doddaballapur,S Kailath,1,1,,1,,,,"",""
+ball,1,19.3,Germany,A Doddaballapur,S Sadarangani,S Kailath,1,0,,,,,,"",""
+ball,1,19.4,Germany,S Sadarangani,A Doddaballapur,S Kailath,1,0,,,,,,"",""
+ball,1,19.5,Germany,A Doddaballapur,S Sadarangani,S Kailath,4,0,,,,,,"",""
+ball,1,19.6,Germany,A Doddaballapur,S Sadarangani,S Kailath,4,0,,,,,,"",""
+ball,1,19.7,Germany,A Doddaballapur,S Sadarangani,S Kailath,2,0,,,,,,"",""
+ball,1,19.8,Germany,A Doddaballapur,S Sadarangani,S Kailath,1,0,,,,,,"",""
+ball,2,0.1,Austria,H Bhullar,Busra Uca,EC Bargna,0,1,1,,,,,"",""
+ball,2,0.2,Austria,H Bhullar,Busra Uca,EC Bargna,0,2,2,,,,,"",""
+ball,2,0.3,Austria,Busra Uca,H Bhullar,EC Bargna,0,0,,,,,,bowled,Busra Uca
+ball,2,0.4,Austria,P Sabu,H Bhullar,EC Bargna,0,0,,,,,,"",""
+ball,2,0.5,Austria,P Sabu,H Bhullar,EC Bargna,1,0,,,,,,"",""
+ball,2,0.6,Austria,P Sabu,H Bhullar,EC Bargna,0,0,,,,,,"",""
+ball,2,0.7,Austria,P Sabu,H Bhullar,EC Bargna,1,0,,,,,,"",""
+ball,2,0.8,Austria,H Bhullar,P Sabu,EC Bargna,1,0,,,,,,"",""
+ball,2,1.1,Austria,H Bhullar,P Sabu,CM Gough,0,0,,,,,,"",""
+ball,2,1.2,Austria,H Bhullar,P Sabu,CM Gough,2,0,,,,,,"",""
+ball,2,1.3,Austria,H Bhullar,P Sabu,CM Gough,0,0,,,,,,"",""
+ball,2,1.4,Austria,H Bhullar,P Sabu,CM Gough,1,0,,,,,,"",""
+ball,2,1.5,Austria,P Sabu,H Bhullar,CM Gough,0,0,,,,,,"",""
+ball,2,1.6,Austria,P Sabu,H Bhullar,CM Gough,0,0,,,,,,"",""
+ball,2,2.1,Austria,H Bhullar,P Sabu,EC Bargna,0,0,,,,,,bowled,H Bhullar
+ball,2,2.2,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,2.3,Austria,AM Zepeda,P Sabu,EC Bargna,0,1,1,,,,,"",""
+ball,2,2.4,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,2.5,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,2.6,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,2.7,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,3.1,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,3.2,Austria,P Sabu,AM Zepeda,CM Gough,2,0,,,,,,"",""
+ball,2,3.3,Austria,P Sabu,AM Zepeda,CM Gough,1,0,,,,,,"",""
+ball,2,3.4,Austria,AM Zepeda,P Sabu,CM Gough,0,0,,,,,,"",""
+ball,2,3.5,Austria,AM Zepeda,P Sabu,CM Gough,1,0,,,,,,"",""
+ball,2,3.6,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,4.1,Austria,AM Zepeda,P Sabu,EC Bargna,0,1,1,,,,,"",""
+ball,2,4.2,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,4.3,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,4.4,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,4.5,Austria,AM Zepeda,P Sabu,EC Bargna,0,1,1,,,,,"",""
+ball,2,4.6,Austria,AM Zepeda,P Sabu,EC Bargna,1,1,,1,,,,"",""
+ball,2,4.7,Austria,P Sabu,AM Zepeda,EC Bargna,1,0,,,,,,"",""
+ball,2,4.8,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,4.9,Austria,AM Zepeda,P Sabu,EC Bargna,0,0,,,,,,"",""
+ball,2,5.1,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,5.2,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,5.3,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,5.4,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,5.5,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,5.6,Austria,P Sabu,AM Zepeda,CM Gough,0,0,,,,,,"",""
+ball,2,6.1,Austria,AM Zepeda,P Sabu,A Kohli,0,0,,,,,,"",""
+ball,2,6.2,Austria,AM Zepeda,P Sabu,A Kohli,0,0,,,,,,"",""
+ball,2,6.3,Austria,AM Zepeda,P Sabu,A Kohli,0,0,,,,,,"",""
+ball,2,6.4,Austria,AM Zepeda,P Sabu,A Kohli,1,0,,,,,,"",""
+ball,2,6.5,Austria,P Sabu,AM Zepeda,A Kohli,0,0,,,,,,bowled,P Sabu
+ball,2,6.6,Austria,S Kailath,AM Zepeda,A Kohli,0,1,,,,1,,"",""
+ball,2,7.1,Austria,S Kailath,AM Zepeda,MS Beresford,0,1,1,,,,,"",""
+ball,2,7.2,Austria,S Kailath,AM Zepeda,MS Beresford,0,1,1,,,,,"",""
+ball,2,7.3,Austria,S Kailath,AM Zepeda,MS Beresford,1,0,,,,,,"",""
+ball,2,7.4,Austria,AM Zepeda,S Kailath,MS Beresford,0,0,,,,,,"",""
+ball,2,7.5,Austria,AM Zepeda,S Kailath,MS Beresford,0,0,,,,,,"",""
+ball,2,7.6,Austria,AM Zepeda,S Kailath,MS Beresford,1,0,,,,,,"",""
+ball,2,7.7,Austria,S Kailath,AM Zepeda,MS Beresford,0,0,,,,,,"",""
+ball,2,7.8,Austria,S Kailath,AM Zepeda,MS Beresford,0,0,,,,,,bowled,S Kailath
+ball,2,8.1,Austria,AM Zepeda,JA Stiglitz,A Kohli,0,0,,,,,,"",""
+ball,2,8.2,Austria,AM Zepeda,JA Stiglitz,A Kohli,1,0,,,,,,"",""
+ball,2,8.3,Austria,JA Stiglitz,AM Zepeda,A Kohli,0,0,,,,,,"",""
+ball,2,8.4,Austria,JA Stiglitz,AM Zepeda,A Kohli,0,0,,,,,,"",""
+ball,2,8.5,Austria,JA Stiglitz,AM Zepeda,A Kohli,1,0,,,,,,"",""
+ball,2,8.6,Austria,AM Zepeda,JA Stiglitz,A Kohli,1,0,,,,,,"",""
+ball,2,9.1,Austria,AM Zepeda,JA Stiglitz,MS Beresford,4,0,,,,,,"",""
+ball,2,9.2,Austria,AM Zepeda,JA Stiglitz,MS Beresford,0,0,,,,,,"",""
+ball,2,9.3,Austria,AM Zepeda,JA Stiglitz,MS Beresford,1,0,,,,,,"",""
+ball,2,9.4,Austria,JA Stiglitz,AM Zepeda,MS Beresford,0,0,,,,,,"",""
+ball,2,9.5,Austria,JA Stiglitz,AM Zepeda,MS Beresford,0,1,1,,,,,"",""
+ball,2,9.6,Austria,JA Stiglitz,AM Zepeda,MS Beresford,0,1,,1,,,,"",""
+ball,2,9.7,Austria,JA Stiglitz,AM Zepeda,MS Beresford,0,0,,,,,,"",""
+ball,2,9.8,Austria,JA Stiglitz,AM Zepeda,MS Beresford,1,0,,,,,,"",""
+ball,2,10.1,Austria,JA Stiglitz,AM Zepeda,A Kohli,0,0,,,,,,"",""
+ball,2,10.2,Austria,JA Stiglitz,AM Zepeda,A Kohli,0,1,1,,,,,"",""
+ball,2,10.3,Austria,JA Stiglitz,AM Zepeda,A Kohli,0,0,,,,,,"",""
+ball,2,10.4,Austria,JA Stiglitz,AM Zepeda,A Kohli,0,0,,,,,,"",""
+ball,2,10.5,Austria,JA Stiglitz,AM Zepeda,A Kohli,2,0,,,,,,"",""
+ball,2,10.6,Austria,JA Stiglitz,AM Zepeda,A Kohli,0,0,,,,,,caught,JA Stiglitz
+ball,2,10.7,Austria,R Avdylaj,AM Zepeda,A Kohli,0,0,,,,,,"",""
+ball,2,11.1,Austria,AM Zepeda,R Avdylaj,MS Beresford,0,0,,,,,,"",""
+ball,2,11.2,Austria,AM Zepeda,R Avdylaj,MS Beresford,2,1,,1,,,,"",""
+ball,2,11.3,Austria,AM Zepeda,R Avdylaj,MS Beresford,0,0,,,,,,"",""
+ball,2,11.4,Austria,AM Zepeda,R Avdylaj,MS Beresford,1,0,,,,,,"",""
+ball,2,11.5,Austria,R Avdylaj,AM Zepeda,MS Beresford,0,0,,,,,,"",""
+ball,2,11.6,Austria,R Avdylaj,AM Zepeda,MS Beresford,0,0,,,,,,"",""
+ball,2,11.7,Austria,R Avdylaj,AM Zepeda,MS Beresford,0,0,,,,,,bowled,R Avdylaj
+ball,2,12.1,Austria,AM Zepeda,H Dhaliwal,A Bierwisch,0,1,1,,,,,"",""
+ball,2,12.2,Austria,AM Zepeda,H Dhaliwal,A Bierwisch,0,1,1,,,,,"",""
+ball,2,12.3,Austria,AM Zepeda,H Dhaliwal,A Bierwisch,1,0,,,,,,"",""
+ball,2,12.4,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,12.5,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,12.6,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,1,1,,,,,"",""
+ball,2,12.7,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,12.8,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,12.9,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,13.1,Austria,AM Zepeda,H Dhaliwal,MS Beresford,2,0,,,,,,"",""
+ball,2,13.2,Austria,AM Zepeda,H Dhaliwal,MS Beresford,0,0,,,,,,"",""
+ball,2,13.3,Austria,AM Zepeda,H Dhaliwal,MS Beresford,0,1,1,,,,,"",""
+ball,2,13.4,Austria,AM Zepeda,H Dhaliwal,MS Beresford,0,0,,,,,,"",""
+ball,2,13.5,Austria,AM Zepeda,H Dhaliwal,MS Beresford,4,0,,,,,,"",""
+ball,2,13.6,Austria,AM Zepeda,H Dhaliwal,MS Beresford,0,0,,,,,,"",""
+ball,2,13.7,Austria,AM Zepeda,H Dhaliwal,MS Beresford,0,0,,,,,,"",""
+ball,2,14.1,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,1,1,,,,,"",""
+ball,2,14.2,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,14.3,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,14.4,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,14.5,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,14.6,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,0,0,,,,,,"",""
+ball,2,14.7,Austria,H Dhaliwal,AM Zepeda,A Bierwisch,1,0,,,,,,"",""
+ball,2,15.1,Austria,H Dhaliwal,AM Zepeda,A Doddaballapur,0,0,,,,,,"",""
+ball,2,15.2,Austria,H Dhaliwal,AM Zepeda,A Doddaballapur,1,0,,,,,,"",""
+ball,2,15.3,Austria,AM Zepeda,H Dhaliwal,A Doddaballapur,1,0,,,,,,"",""
+ball,2,15.4,Austria,H Dhaliwal,AM Zepeda,A Doddaballapur,0,0,,,,,,run out,H Dhaliwal
+ball,2,15.5,Austria,AM Zepeda,A Nookala,A Doddaballapur,0,0,,,,,,"",""
+ball,2,15.6,Austria,AM Zepeda,A Nookala,A Doddaballapur,0,0,,,,,,"",""
+ball,2,16.1,Austria,A Nookala,AM Zepeda,EC Bargna,0,0,,,,,,"",""
+ball,2,16.2,Austria,A Nookala,AM Zepeda,EC Bargna,0,0,,,,,,"",""
+ball,2,16.3,Austria,A Nookala,AM Zepeda,EC Bargna,0,0,,,,,,"",""
+ball,2,16.4,Austria,A Nookala,AM Zepeda,EC Bargna,0,0,,,,,,caught,A Nookala
+ball,2,16.5,Austria,T Kazanci,AM Zepeda,EC Bargna,1,0,,,,,,"",""
+ball,2,16.6,Austria,AM Zepeda,T Kazanci,EC Bargna,0,0,,,,,,"",""
+ball,2,17.1,Austria,T Kazanci,AM Zepeda,A Doddaballapur,1,0,,,,,,"",""
+ball,2,17.2,Austria,AM Zepeda,T Kazanci,A Doddaballapur,0,3,3,,,,,"",""
+ball,2,17.3,Austria,AM Zepeda,T Kazanci,A Doddaballapur,1,0,,,,,,"",""
+ball,2,17.4,Austria,T Kazanci,AM Zepeda,A Doddaballapur,0,1,1,,,,,"",""
+ball,2,17.5,Austria,T Kazanci,AM Zepeda,A Doddaballapur,0,1,1,,,,,"",""
+ball,2,17.6,Austria,T Kazanci,AM Zepeda,A Doddaballapur,0,2,2,,,,,"",""
+ball,2,17.7,Austria,AM Zepeda,T Kazanci,A Doddaballapur,1,0,,,,,,"",""
+ball,2,17.8,Austria,T Kazanci,AM Zepeda,A Doddaballapur,0,1,1,,,,,"",""
+ball,2,17.9,Austria,T Kazanci,AM Zepeda,A Doddaballapur,2,0,,,,,,"",""
+ball,2,17.10,Austria,T Kazanci,AM Zepeda,A Doddaballapur,0,0,,,,,,"",""
+ball,2,17.11,Austria,T Kazanci,AM Zepeda,A Doddaballapur,0,0,,,,,,lbw,T Kazanci
+ball,2,18.1,Austria,AM Zepeda,V Avdylaj,A Kohli,4,0,,,,,,"",""
+ball,2,18.2,Austria,AM Zepeda,V Avdylaj,A Kohli,2,0,,,,,,"",""
+ball,2,18.3,Austria,AM Zepeda,V Avdylaj,A Kohli,2,0,,,,,,"",""
+ball,2,18.4,Austria,AM Zepeda,V Avdylaj,A Kohli,2,0,,,,,,"",""
+ball,2,18.5,Austria,AM Zepeda,V Avdylaj,A Kohli,1,0,,,,,,"",""
+ball,2,18.6,Austria,V Avdylaj,AM Zepeda,A Kohli,0,0,,,,,,caught,V Avdylaj

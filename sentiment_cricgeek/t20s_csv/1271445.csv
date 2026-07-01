@@ -1,0 +1,288 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Germany
+info,gender,male
+info,season,2021
+info,date,2021/08/05
+info,event,Germany T20 Tri-Series
+info,match_number,1
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,Ghulam Ahmadi
+info,umpire,M Jameson
+info,umpire,Rizwan Akram
+info,reserve_umpire,J Flannery
+info,winner,Germany
+info,winner_wickets,5
+info,player,Norway,Raza Iqbal
+info,player,Norway,Faizan Mumtaz
+info,player,Norway,E Ul Haq
+info,player,Norway,D Abeyrathna
+info,player,Norway,Bilal Safdar
+info,player,Norway,S Waqas Ahmed
+info,player,Norway,P Bhart
+info,player,Norway,Usman Arif
+info,player,Norway,Sher Sahak
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ahmadullah Shinwari
+info,player,Germany,VB Chikkannaiah
+info,player,Germany,Abdul-Shakoor Rahimzei
+info,player,Germany,Talha Khan
+info,player,Germany,DA Blignaut
+info,player,Germany,H Singh
+info,player,Germany,V Ganesan
+info,player,Germany,Sahir Naqash
+info,player,Germany,H Srinivasan
+info,player,Germany,SVE Bharathi
+info,player,Germany,Ghulam Ahmadi
+info,player,Germany,Sajid Liaqat
+info,registry,people,Abdul-Shakoor Rahimzei,e45810ed
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Bilal Safdar,1c4161b3
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,DA Blignaut,cfcf189f
+info,registry,people,E Ul Haq,3559290a
+info,registry,people,Faizan Mumtaz,6d440f4b
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,H Srinivasan,300bdcbb
+info,registry,people,J Flannery,22431c5a
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,P Bhart,0daf3ffc
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Waqas Ahmed,fb27d38c
+info,registry,people,SVE Bharathi,6a63c29c
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,Sajid Liaqat,b1b99a1a
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Talha Khan,8e5a1a7a
+info,registry,people,Usman Arif,fccc2d5a
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,VB Chikkannaiah,8e81b773
+info,registry,people,Vinay Ravi,9c181b99
+ball,1,0.1,Norway,Raza Iqbal,Faizan Mumtaz,Sajid Liaqat,0,1,1,,,,,"",""
+ball,1,0.2,Norway,Raza Iqbal,Faizan Mumtaz,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,0.3,Norway,Raza Iqbal,Faizan Mumtaz,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,0.4,Norway,Raza Iqbal,Faizan Mumtaz,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,0.5,Norway,Raza Iqbal,Faizan Mumtaz,Sajid Liaqat,1,0,,,,,,"",""
+ball,1,0.6,Norway,Faizan Mumtaz,Raza Iqbal,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,0.7,Norway,Faizan Mumtaz,Raza Iqbal,Sajid Liaqat,0,0,,,,,,run out,Raza Iqbal
+ball,1,1.1,Norway,Faizan Mumtaz,E Ul Haq,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.2,Norway,Faizan Mumtaz,E Ul Haq,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.3,Norway,Faizan Mumtaz,E Ul Haq,Ghulam Ahmadi,0,0,,,,,,stumped,Faizan Mumtaz
+ball,1,1.4,Norway,D Abeyrathna,E Ul Haq,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.5,Norway,D Abeyrathna,E Ul Haq,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.6,Norway,D Abeyrathna,E Ul Haq,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,2.1,Norway,E Ul Haq,D Abeyrathna,Sajid Liaqat,0,1,1,,,,,"",""
+ball,1,2.2,Norway,E Ul Haq,D Abeyrathna,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,2.3,Norway,E Ul Haq,D Abeyrathna,Sajid Liaqat,0,0,,,,,,caught,E Ul Haq
+ball,1,2.4,Norway,Bilal Safdar,D Abeyrathna,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,2.5,Norway,Bilal Safdar,D Abeyrathna,Sajid Liaqat,1,0,,,,,,"",""
+ball,1,2.6,Norway,D Abeyrathna,Bilal Safdar,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,2.7,Norway,D Abeyrathna,Bilal Safdar,Sajid Liaqat,2,0,,,,,,"",""
+ball,1,3.1,Norway,Bilal Safdar,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,caught,Bilal Safdar
+ball,1,3.2,Norway,S Waqas Ahmed,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,3.3,Norway,S Waqas Ahmed,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,3.4,Norway,S Waqas Ahmed,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,3.5,Norway,S Waqas Ahmed,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,3.6,Norway,S Waqas Ahmed,D Abeyrathna,Ghulam Ahmadi,3,0,,,,,,"",""
+ball,1,4.1,Norway,S Waqas Ahmed,D Abeyrathna,SVE Bharathi,0,0,,,,,,caught,S Waqas Ahmed
+ball,1,4.2,Norway,P Bhart,D Abeyrathna,SVE Bharathi,0,0,,,,,,"",""
+ball,1,4.3,Norway,P Bhart,D Abeyrathna,SVE Bharathi,0,0,,,,,,"",""
+ball,1,4.4,Norway,P Bhart,D Abeyrathna,SVE Bharathi,0,0,,,,,,"",""
+ball,1,4.5,Norway,P Bhart,D Abeyrathna,SVE Bharathi,0,0,,,,,,"",""
+ball,1,4.6,Norway,P Bhart,D Abeyrathna,SVE Bharathi,1,0,,,,,,"",""
+ball,1,5.1,Norway,P Bhart,D Abeyrathna,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,5.2,Norway,D Abeyrathna,P Bhart,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,5.3,Norway,P Bhart,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,5.4,Norway,P Bhart,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,caught,P Bhart
+ball,1,5.5,Norway,Usman Arif,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,5.6,Norway,Usman Arif,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,6.1,Norway,D Abeyrathna,Usman Arif,SVE Bharathi,0,0,,,,,,"",""
+ball,1,6.2,Norway,D Abeyrathna,Usman Arif,SVE Bharathi,0,0,,,,,,"",""
+ball,1,6.3,Norway,D Abeyrathna,Usman Arif,SVE Bharathi,0,0,,,,,,"",""
+ball,1,6.4,Norway,D Abeyrathna,Usman Arif,SVE Bharathi,0,0,,,,,,"",""
+ball,1,6.5,Norway,D Abeyrathna,Usman Arif,SVE Bharathi,0,0,,,,,,"",""
+ball,1,6.6,Norway,D Abeyrathna,Usman Arif,SVE Bharathi,0,0,,,,,,"",""
+ball,1,7.1,Norway,Usman Arif,D Abeyrathna,Ghulam Ahmadi,0,0,,,,,,caught,Usman Arif
+ball,1,7.2,Norway,D Abeyrathna,Sher Sahak,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,7.3,Norway,D Abeyrathna,Sher Sahak,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,7.4,Norway,D Abeyrathna,Sher Sahak,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,7.5,Norway,D Abeyrathna,Sher Sahak,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,7.6,Norway,D Abeyrathna,Sher Sahak,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,8.1,Norway,Sher Sahak,D Abeyrathna,SVE Bharathi,1,0,,,,,,"",""
+ball,1,8.2,Norway,D Abeyrathna,Sher Sahak,SVE Bharathi,0,0,,,,,,"",""
+ball,1,8.3,Norway,D Abeyrathna,Sher Sahak,SVE Bharathi,6,0,,,,,,"",""
+ball,1,8.4,Norway,D Abeyrathna,Sher Sahak,SVE Bharathi,0,0,,,,,,"",""
+ball,1,8.5,Norway,D Abeyrathna,Sher Sahak,SVE Bharathi,0,0,,,,,,"",""
+ball,1,8.6,Norway,D Abeyrathna,Sher Sahak,SVE Bharathi,0,0,,,,,,"",""
+ball,1,9.1,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,1,1,,,,,"",""
+ball,1,9.2,Norway,Sher Sahak,D Abeyrathna,V Ganesan,1,0,,,,,,"",""
+ball,1,9.3,Norway,D Abeyrathna,Sher Sahak,V Ganesan,1,0,,,,,,"",""
+ball,1,9.4,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,9.5,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,9.6,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,9.7,Norway,Sher Sahak,D Abeyrathna,V Ganesan,1,0,,,,,,"",""
+ball,1,10.1,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,0,0,,,,,,"",""
+ball,1,10.2,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,0,0,,,,,,"",""
+ball,1,10.3,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,1,0,,,,,,"",""
+ball,1,10.4,Norway,D Abeyrathna,Sher Sahak,Sahir Naqash,1,0,,,,,,"",""
+ball,1,10.5,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,0,0,,,,,,"",""
+ball,1,10.6,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,1,0,,,,,,"",""
+ball,1,11.1,Norway,Sher Sahak,D Abeyrathna,V Ganesan,1,0,,,,,,"",""
+ball,1,11.2,Norway,D Abeyrathna,Sher Sahak,V Ganesan,0,0,,,,,,"",""
+ball,1,11.3,Norway,D Abeyrathna,Sher Sahak,V Ganesan,1,0,,,,,,"",""
+ball,1,11.4,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,11.5,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,11.6,Norway,Sher Sahak,D Abeyrathna,V Ganesan,1,0,,,,,,"",""
+ball,1,12.1,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,0,0,,,,,,"",""
+ball,1,12.2,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,6,0,,,,,,"",""
+ball,1,12.3,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,0,0,,,,,,"",""
+ball,1,12.4,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,1,0,,,,,,"",""
+ball,1,12.5,Norway,D Abeyrathna,Sher Sahak,Sahir Naqash,1,0,,,,,,"",""
+ball,1,12.6,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,0,0,,,,,,"",""
+ball,1,13.1,Norway,D Abeyrathna,Sher Sahak,V Ganesan,2,0,,,,,,"",""
+ball,1,13.2,Norway,D Abeyrathna,Sher Sahak,V Ganesan,0,0,,,,,,"",""
+ball,1,13.3,Norway,D Abeyrathna,Sher Sahak,V Ganesan,1,0,,,,,,"",""
+ball,1,13.4,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,13.5,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,13.6,Norway,Sher Sahak,D Abeyrathna,V Ganesan,1,0,,,,,,"",""
+ball,1,14.1,Norway,Sher Sahak,D Abeyrathna,SVE Bharathi,1,0,,,,,,"",""
+ball,1,14.2,Norway,D Abeyrathna,Sher Sahak,SVE Bharathi,1,0,,,,,,"",""
+ball,1,14.3,Norway,Sher Sahak,D Abeyrathna,SVE Bharathi,0,0,,,,,,"",""
+ball,1,14.4,Norway,Sher Sahak,D Abeyrathna,SVE Bharathi,1,0,,,,,,"",""
+ball,1,14.5,Norway,D Abeyrathna,Sher Sahak,SVE Bharathi,1,0,,,,,,"",""
+ball,1,14.6,Norway,Sher Sahak,D Abeyrathna,SVE Bharathi,0,0,,,,,,"",""
+ball,1,15.1,Norway,D Abeyrathna,Sher Sahak,V Ganesan,0,0,,,,,,"",""
+ball,1,15.2,Norway,D Abeyrathna,Sher Sahak,V Ganesan,2,0,,,,,,"",""
+ball,1,15.3,Norway,D Abeyrathna,Sher Sahak,V Ganesan,0,0,,,,,,"",""
+ball,1,15.4,Norway,D Abeyrathna,Sher Sahak,V Ganesan,0,0,,,,,,"",""
+ball,1,15.5,Norway,D Abeyrathna,Sher Sahak,V Ganesan,0,1,1,,,,,"",""
+ball,1,15.6,Norway,D Abeyrathna,Sher Sahak,V Ganesan,1,0,,,,,,"",""
+ball,1,15.7,Norway,Sher Sahak,D Abeyrathna,V Ganesan,0,0,,,,,,"",""
+ball,1,16.1,Norway,D Abeyrathna,Sher Sahak,Sajid Liaqat,0,0,,,,,,"",""
+ball,1,16.2,Norway,D Abeyrathna,Sher Sahak,Sajid Liaqat,1,0,,,,,,"",""
+ball,1,16.3,Norway,Sher Sahak,D Abeyrathna,Sajid Liaqat,4,0,,,,,,"",""
+ball,1,16.4,Norway,Sher Sahak,D Abeyrathna,Sajid Liaqat,1,0,,,,,,"",""
+ball,1,16.5,Norway,D Abeyrathna,Sher Sahak,Sajid Liaqat,1,0,,,,,,"",""
+ball,1,16.6,Norway,Sher Sahak,D Abeyrathna,Sajid Liaqat,6,0,,,,,,"",""
+ball,1,17.1,Norway,D Abeyrathna,Sher Sahak,Sahir Naqash,2,0,,,,,,"",""
+ball,1,17.2,Norway,D Abeyrathna,Sher Sahak,Sahir Naqash,0,0,,,,,,"",""
+ball,1,17.3,Norway,D Abeyrathna,Sher Sahak,Sahir Naqash,4,0,,,,,,"",""
+ball,1,17.4,Norway,D Abeyrathna,Sher Sahak,Sahir Naqash,1,0,,,,,,"",""
+ball,1,17.5,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,2,0,,,,,,"",""
+ball,1,17.6,Norway,Sher Sahak,D Abeyrathna,Sahir Naqash,0,0,,,,,,bowled,Sher Sahak
+ball,1,18.1,Norway,D Abeyrathna,Vinay Ravi,Sajid Liaqat,0,0,,,,,,caught,D Abeyrathna
+ball,1,18.2,Norway,Vinay Ravi,Ahmadullah Shinwari,Sajid Liaqat,4,0,,,,,,"",""
+ball,1,18.3,Norway,Vinay Ravi,Ahmadullah Shinwari,Sajid Liaqat,1,0,,,,,,"",""
+ball,1,18.4,Norway,Ahmadullah Shinwari,Vinay Ravi,Sajid Liaqat,0,0,,,,,,caught,Ahmadullah Shinwari
+ball,2,0.1,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,P Bhart,1,0,,,,,,"",""
+ball,2,0.2,Germany,Abdul-Shakoor Rahimzei,VB Chikkannaiah,P Bhart,0,0,,,,,,"",""
+ball,2,0.3,Germany,Abdul-Shakoor Rahimzei,VB Chikkannaiah,P Bhart,1,0,,,,,,"",""
+ball,2,0.4,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,P Bhart,0,0,,,,,,"",""
+ball,2,0.5,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,P Bhart,4,0,,,,,,"",""
+ball,2,0.6,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,P Bhart,1,0,,,,,,"",""
+ball,2,1.1,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Vinay Ravi,1,0,,,,,,"",""
+ball,2,1.2,Germany,Abdul-Shakoor Rahimzei,VB Chikkannaiah,Vinay Ravi,0,0,,,,,,"",""
+ball,2,1.3,Germany,Abdul-Shakoor Rahimzei,VB Chikkannaiah,Vinay Ravi,0,0,,,,,,"",""
+ball,2,1.4,Germany,Abdul-Shakoor Rahimzei,VB Chikkannaiah,Vinay Ravi,0,1,1,,,,,"",""
+ball,2,1.5,Germany,Abdul-Shakoor Rahimzei,VB Chikkannaiah,Vinay Ravi,1,0,,,,,,"",""
+ball,2,1.6,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,"",""
+ball,2,1.7,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Vinay Ravi,1,0,,,,,,"",""
+ball,2,2.1,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,2.2,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,2.3,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,4,0,,,,,,"",""
+ball,2,2.4,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,0,1,1,,,,,"",""
+ball,2,2.5,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,4,0,,,,,,"",""
+ball,2,2.6,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,2.7,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,3.1,Germany,Abdul-Shakoor Rahimzei,VB Chikkannaiah,Vinay Ravi,1,0,,,,,,"",""
+ball,2,3.2,Germany,VB Chikkannaiah,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,caught,VB Chikkannaiah
+ball,2,3.3,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,"",""
+ball,2,3.4,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Vinay Ravi,4,0,,,,,,"",""
+ball,2,3.5,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,"",""
+ball,2,3.6,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Vinay Ravi,1,0,,,,,,"",""
+ball,2,4.1,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,1,0,,,,,,"",""
+ball,2,4.2,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,4.3,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,4.4,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Ahmadullah Shinwari,0,0,,,,,,"",""
+ball,2,4.5,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Ahmadullah Shinwari,1,0,,,,,,"",""
+ball,2,4.6,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Ahmadullah Shinwari,4,0,,,,,,"",""
+ball,2,5.1,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Vinay Ravi,0,0,,,,,,"",""
+ball,2,5.2,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Vinay Ravi,0,0,,,,,,"",""
+ball,2,5.3,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Vinay Ravi,0,0,,,,,,"",""
+ball,2,5.4,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Vinay Ravi,2,0,,,,,,"",""
+ball,2,5.5,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Vinay Ravi,0,0,,,,,,"",""
+ball,2,5.6,Germany,Abdul-Shakoor Rahimzei,Talha Khan,Vinay Ravi,0,0,,,,,,"",""
+ball,2,6.1,Germany,Talha Khan,Abdul-Shakoor Rahimzei,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,6.2,Germany,Talha Khan,Abdul-Shakoor Rahimzei,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,6.3,Germany,Abdul-Shakoor Rahimzei,Talha Khan,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,6.4,Germany,Talha Khan,Abdul-Shakoor Rahimzei,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,6.5,Germany,Abdul-Shakoor Rahimzei,Talha Khan,S Waqas Ahmed,2,0,,,,,,"",""
+ball,2,6.6,Germany,Abdul-Shakoor Rahimzei,Talha Khan,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,7.1,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Vinay Ravi,4,0,,,,,,"",""
+ball,2,7.2,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,"",""
+ball,2,7.3,Germany,Talha Khan,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,caught,Talha Khan
+ball,2,7.4,Germany,DA Blignaut,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,"",""
+ball,2,7.5,Germany,DA Blignaut,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,"",""
+ball,2,7.6,Germany,DA Blignaut,Abdul-Shakoor Rahimzei,Vinay Ravi,0,0,,,,,,"",""
+ball,2,8.1,Germany,Abdul-Shakoor Rahimzei,DA Blignaut,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,8.2,Germany,Abdul-Shakoor Rahimzei,DA Blignaut,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,8.3,Germany,Abdul-Shakoor Rahimzei,DA Blignaut,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,8.4,Germany,Abdul-Shakoor Rahimzei,DA Blignaut,S Waqas Ahmed,0,0,,,,,,caught,Abdul-Shakoor Rahimzei
+ball,2,8.5,Germany,H Singh,DA Blignaut,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,8.6,Germany,H Singh,DA Blignaut,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,9.1,Germany,DA Blignaut,H Singh,Raza Iqbal,1,0,,,,,,"",""
+ball,2,9.2,Germany,H Singh,DA Blignaut,Raza Iqbal,1,0,,,,,,"",""
+ball,2,9.3,Germany,DA Blignaut,H Singh,Raza Iqbal,0,0,,,,,,"",""
+ball,2,9.4,Germany,DA Blignaut,H Singh,Raza Iqbal,0,0,,,,,,"",""
+ball,2,9.5,Germany,DA Blignaut,H Singh,Raza Iqbal,0,0,,,,,,caught,DA Blignaut
+ball,2,9.6,Germany,V Ganesan,H Singh,Raza Iqbal,0,0,,,,,,"",""
+ball,2,10.1,Germany,H Singh,V Ganesan,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,10.2,Germany,H Singh,V Ganesan,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,10.3,Germany,H Singh,V Ganesan,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,10.4,Germany,V Ganesan,H Singh,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,10.5,Germany,V Ganesan,H Singh,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,10.6,Germany,V Ganesan,H Singh,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,11.1,Germany,H Singh,V Ganesan,Raza Iqbal,0,0,,,,,,"",""
+ball,2,11.2,Germany,H Singh,V Ganesan,Raza Iqbal,0,0,,,,,,"",""
+ball,2,11.3,Germany,H Singh,V Ganesan,Raza Iqbal,0,0,,,,,,"",""
+ball,2,11.4,Germany,H Singh,V Ganesan,Raza Iqbal,1,0,,,,,,"",""
+ball,2,11.5,Germany,V Ganesan,H Singh,Raza Iqbal,1,0,,,,,,"",""
+ball,2,11.6,Germany,H Singh,V Ganesan,Raza Iqbal,0,0,,,,,,"",""
+ball,2,12.1,Germany,V Ganesan,H Singh,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,12.2,Germany,H Singh,V Ganesan,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,12.3,Germany,V Ganesan,H Singh,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,12.4,Germany,H Singh,V Ganesan,S Waqas Ahmed,4,0,,,,,,"",""
+ball,2,12.5,Germany,H Singh,V Ganesan,S Waqas Ahmed,1,0,,,,,,"",""
+ball,2,12.6,Germany,V Ganesan,H Singh,S Waqas Ahmed,0,0,,,,,,"",""
+ball,2,13.1,Germany,H Singh,V Ganesan,Raza Iqbal,0,0,,,,,,"",""
+ball,2,13.2,Germany,H Singh,V Ganesan,Raza Iqbal,1,0,,,,,,"",""
+ball,2,13.3,Germany,V Ganesan,H Singh,Raza Iqbal,0,1,1,,,,,"",""
+ball,2,13.4,Germany,V Ganesan,H Singh,Raza Iqbal,0,0,,,,,,"",""
+ball,2,13.5,Germany,V Ganesan,H Singh,Raza Iqbal,1,0,,,,,,"",""
+ball,2,13.6,Germany,H Singh,V Ganesan,Raza Iqbal,0,0,,,,,,caught,H Singh
+ball,2,13.7,Germany,Sahir Naqash,V Ganesan,Raza Iqbal,0,0,,,,,,"",""
+ball,2,14.1,Germany,V Ganesan,Sahir Naqash,P Bhart,0,0,,,,,,"",""
+ball,2,14.2,Germany,V Ganesan,Sahir Naqash,P Bhart,1,0,,,,,,"",""
+ball,2,14.3,Germany,Sahir Naqash,V Ganesan,P Bhart,0,0,,,,,,"",""
+ball,2,14.4,Germany,Sahir Naqash,V Ganesan,P Bhart,1,0,,,,,,"",""
+ball,2,14.5,Germany,V Ganesan,Sahir Naqash,P Bhart,1,0,,,,,,"",""
+ball,2,14.6,Germany,Sahir Naqash,V Ganesan,P Bhart,1,0,,,,,,"",""
+ball,2,15.1,Germany,Sahir Naqash,V Ganesan,Raza Iqbal,1,0,,,,,,"",""
+ball,2,15.2,Germany,V Ganesan,Sahir Naqash,Raza Iqbal,1,0,,,,,,"",""
+ball,2,15.3,Germany,Sahir Naqash,V Ganesan,Raza Iqbal,2,0,,,,,,"",""
+ball,2,15.4,Germany,Sahir Naqash,V Ganesan,Raza Iqbal,1,0,,,,,,"",""
+ball,2,15.5,Germany,V Ganesan,Sahir Naqash,Raza Iqbal,1,0,,,,,,"",""
+ball,2,15.6,Germany,Sahir Naqash,V Ganesan,Raza Iqbal,1,0,,,,,,"",""
+ball,2,16.1,Germany,Sahir Naqash,V Ganesan,P Bhart,0,0,,,,,,"",""
+ball,2,16.2,Germany,Sahir Naqash,V Ganesan,P Bhart,0,0,,,,,,"",""
+ball,2,16.3,Germany,Sahir Naqash,V Ganesan,P Bhart,1,0,,,,,,"",""
+ball,2,16.4,Germany,V Ganesan,Sahir Naqash,P Bhart,2,0,,,,,,"",""
+ball,2,16.5,Germany,V Ganesan,Sahir Naqash,P Bhart,1,0,,,,,,"",""
+ball,2,16.6,Germany,Sahir Naqash,V Ganesan,P Bhart,2,0,,,,,,"",""
+ball,2,17.1,Germany,V Ganesan,Sahir Naqash,Sher Sahak,4,0,,,,,,"",""

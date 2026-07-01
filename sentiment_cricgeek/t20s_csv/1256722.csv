@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2021/22
+info,date,2022/01/26
+info,event,England tour of West Indies
+info,match_number,3
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,R Powell
+info,umpire,GO Brathwaite
+info,umpire,LS Reifer
+info,reserve_umpire,PA Gustard
+info,tv_umpire,N Duguid
+info,match_referee,RB Richardson
+info,winner,West Indies
+info,winner_runs,20
+info,player,West Indies,BA King
+info,player,West Indies,SD Hope
+info,player,West Indies,N Pooran
+info,player,West Indies,R Powell
+info,player,West Indies,R Shepherd
+info,player,West Indies,FA Allen
+info,player,West Indies,KA Pollard
+info,player,West Indies,DM Bravo
+info,player,West Indies,JO Holder
+info,player,West Indies,AJ Hosein
+info,player,West Indies,SS Cottrell
+info,player,England,JJ Roy
+info,player,England,T Banton
+info,player,England,JM Vince
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,PD Salt
+info,player,England,HC Brook
+info,player,England,GHS Garton
+info,player,England,AU Rashid
+info,player,England,TS Mills
+info,player,England,RJW Topley
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA King,7fca84b7
+info,registry,people,DM Bravo,14b14cd8
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Duguid,64495506
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,West Indies,BA King,SD Hope,RJW Topley,0,0,,,,,,"",""
+ball,1,0.2,West Indies,BA King,SD Hope,RJW Topley,1,0,,,,,,"",""
+ball,1,0.3,West Indies,SD Hope,BA King,RJW Topley,1,0,,,,,,"",""
+ball,1,0.4,West Indies,BA King,SD Hope,RJW Topley,0,0,,,,,,"",""
+ball,1,0.5,West Indies,BA King,SD Hope,RJW Topley,0,0,,,,,,"",""
+ball,1,0.6,West Indies,BA King,SD Hope,RJW Topley,1,0,,,,,,"",""
+ball,1,1.1,West Indies,BA King,SD Hope,GHS Garton,4,0,,,,,,"",""
+ball,1,1.2,West Indies,BA King,SD Hope,GHS Garton,0,0,,,,,,"",""
+ball,1,1.3,West Indies,BA King,SD Hope,GHS Garton,0,0,,,,,,"",""
+ball,1,1.4,West Indies,BA King,SD Hope,GHS Garton,4,0,,,,,,"",""
+ball,1,1.5,West Indies,BA King,SD Hope,GHS Garton,0,0,,,,,,bowled,BA King
+ball,1,1.6,West Indies,N Pooran,SD Hope,GHS Garton,1,0,,,,,,"",""
+ball,1,2.1,West Indies,N Pooran,SD Hope,RJW Topley,1,0,,,,,,"",""
+ball,1,2.2,West Indies,SD Hope,N Pooran,RJW Topley,1,0,,,,,,"",""
+ball,1,2.3,West Indies,N Pooran,SD Hope,RJW Topley,0,0,,,,,,"",""
+ball,1,2.4,West Indies,N Pooran,SD Hope,RJW Topley,0,0,,,,,,"",""
+ball,1,2.5,West Indies,N Pooran,SD Hope,RJW Topley,0,0,,,,,,"",""
+ball,1,2.6,West Indies,N Pooran,SD Hope,RJW Topley,1,0,,,,,,"",""
+ball,1,3.1,West Indies,N Pooran,SD Hope,GHS Garton,2,0,,,,,,"",""
+ball,1,3.2,West Indies,N Pooran,SD Hope,GHS Garton,0,1,,1,,,,"",""
+ball,1,3.3,West Indies,N Pooran,SD Hope,GHS Garton,0,0,,,,,,"",""
+ball,1,3.4,West Indies,N Pooran,SD Hope,GHS Garton,6,0,,,,,,"",""
+ball,1,3.5,West Indies,N Pooran,SD Hope,GHS Garton,4,0,,,,,,"",""
+ball,1,3.6,West Indies,N Pooran,SD Hope,GHS Garton,6,0,,,,,,"",""
+ball,1,3.7,West Indies,N Pooran,SD Hope,GHS Garton,0,0,,,,,,"",""
+ball,1,4.1,West Indies,SD Hope,N Pooran,TS Mills,1,0,,,,,,"",""
+ball,1,4.2,West Indies,N Pooran,SD Hope,TS Mills,4,0,,,,,,"",""
+ball,1,4.3,West Indies,N Pooran,SD Hope,TS Mills,0,0,,,,,,"",""
+ball,1,4.4,West Indies,N Pooran,SD Hope,TS Mills,6,0,,,,,,"",""
+ball,1,4.5,West Indies,N Pooran,SD Hope,TS Mills,0,1,1,,,,,"",""
+ball,1,4.6,West Indies,N Pooran,SD Hope,TS Mills,1,0,,,,,,"",""
+ball,1,4.7,West Indies,SD Hope,N Pooran,TS Mills,1,0,,,,,,"",""
+ball,1,5.1,West Indies,SD Hope,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,1,5.2,West Indies,SD Hope,N Pooran,LS Livingstone,0,0,,,,,,caught,SD Hope
+ball,1,5.3,West Indies,R Powell,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,1,5.4,West Indies,R Powell,N Pooran,LS Livingstone,6,0,,,,,,"",""
+ball,1,5.5,West Indies,R Powell,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,1,5.6,West Indies,R Powell,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,1,6.1,West Indies,N Pooran,R Powell,AU Rashid,1,0,,,,,,"",""
+ball,1,6.2,West Indies,R Powell,N Pooran,AU Rashid,2,0,,,,,,"",""
+ball,1,6.3,West Indies,R Powell,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,1,6.4,West Indies,R Powell,N Pooran,AU Rashid,2,0,,,,,,"",""
+ball,1,6.5,West Indies,R Powell,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,1,6.6,West Indies,R Powell,N Pooran,AU Rashid,1,0,,,,,,"",""
+ball,1,7.1,West Indies,R Powell,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.2,West Indies,R Powell,N Pooran,LS Livingstone,6,0,,,,,,"",""
+ball,1,7.3,West Indies,R Powell,N Pooran,LS Livingstone,1,0,,,,,,"",""
+ball,1,7.4,West Indies,N Pooran,R Powell,LS Livingstone,1,0,,,,,,"",""
+ball,1,7.5,West Indies,R Powell,N Pooran,LS Livingstone,1,0,,,,,,"",""
+ball,1,7.6,West Indies,N Pooran,R Powell,LS Livingstone,1,0,,,,,,"",""
+ball,1,8.1,West Indies,N Pooran,R Powell,MM Ali,1,0,,,,,,"",""
+ball,1,8.2,West Indies,R Powell,N Pooran,MM Ali,0,0,,,,,,"",""
+ball,1,8.3,West Indies,R Powell,N Pooran,MM Ali,6,0,,,,,,"",""
+ball,1,8.4,West Indies,R Powell,N Pooran,MM Ali,4,0,,,,,,"",""
+ball,1,8.5,West Indies,R Powell,N Pooran,MM Ali,2,0,,,,,,"",""
+ball,1,8.6,West Indies,R Powell,N Pooran,MM Ali,1,0,,,,,,"",""
+ball,1,9.1,West Indies,R Powell,N Pooran,TS Mills,0,1,,1,,,,"",""
+ball,1,9.2,West Indies,R Powell,N Pooran,TS Mills,6,0,,,,,,"",""
+ball,1,9.3,West Indies,R Powell,N Pooran,TS Mills,1,0,,,,,,"",""
+ball,1,9.4,West Indies,N Pooran,R Powell,TS Mills,2,0,,,,,,"",""
+ball,1,9.5,West Indies,N Pooran,R Powell,TS Mills,1,0,,,,,,"",""
+ball,1,9.6,West Indies,R Powell,N Pooran,TS Mills,0,0,,,,,,"",""
+ball,1,9.7,West Indies,R Powell,N Pooran,TS Mills,1,0,,,,,,"",""
+ball,1,10.1,West Indies,R Powell,N Pooran,AU Rashid,3,0,,,,,,"",""
+ball,1,10.2,West Indies,N Pooran,R Powell,AU Rashid,0,0,,,,,,"",""
+ball,1,10.3,West Indies,N Pooran,R Powell,AU Rashid,0,0,,,,,,"",""
+ball,1,10.4,West Indies,N Pooran,R Powell,AU Rashid,1,0,,,,,,"",""
+ball,1,10.5,West Indies,R Powell,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,1,10.6,West Indies,R Powell,N Pooran,AU Rashid,1,0,,,,,,"",""
+ball,1,11.1,West Indies,R Powell,N Pooran,GHS Garton,1,0,,,,,,"",""
+ball,1,11.2,West Indies,N Pooran,R Powell,GHS Garton,6,0,,,,,,"",""
+ball,1,11.3,West Indies,N Pooran,R Powell,GHS Garton,0,0,,,,,,"",""
+ball,1,11.4,West Indies,N Pooran,R Powell,GHS Garton,1,0,,,,,,"",""
+ball,1,11.5,West Indies,R Powell,N Pooran,GHS Garton,1,0,,,,,,"",""
+ball,1,11.6,West Indies,N Pooran,R Powell,GHS Garton,1,0,,,,,,"",""
+ball,1,12.1,West Indies,N Pooran,R Powell,AU Rashid,0,0,,,,,,"",""
+ball,1,12.2,West Indies,N Pooran,R Powell,AU Rashid,0,0,,,,,,"",""
+ball,1,12.3,West Indies,N Pooran,R Powell,AU Rashid,1,0,,,,,,"",""
+ball,1,12.4,West Indies,R Powell,N Pooran,AU Rashid,1,0,,,,,,"",""
+ball,1,12.5,West Indies,N Pooran,R Powell,AU Rashid,1,0,,,,,,"",""
+ball,1,12.6,West Indies,R Powell,N Pooran,AU Rashid,0,0,,,,,,"",""
+ball,1,13.1,West Indies,N Pooran,R Powell,LS Livingstone,4,0,,,,,,"",""
+ball,1,13.2,West Indies,N Pooran,R Powell,LS Livingstone,1,0,,,,,,"",""
+ball,1,13.3,West Indies,R Powell,N Pooran,LS Livingstone,0,5,5,,,,,"",""
+ball,1,13.4,West Indies,R Powell,N Pooran,LS Livingstone,6,0,,,,,,"",""
+ball,1,13.5,West Indies,R Powell,N Pooran,LS Livingstone,6,0,,,,,,"",""
+ball,1,13.6,West Indies,R Powell,N Pooran,LS Livingstone,0,0,,,,,,"",""
+ball,1,13.7,West Indies,R Powell,N Pooran,LS Livingstone,4,0,,,,,,"",""
+ball,1,14.1,West Indies,N Pooran,R Powell,RJW Topley,1,0,,,,,,"",""
+ball,1,14.2,West Indies,R Powell,N Pooran,RJW Topley,2,0,,,,,,"",""
+ball,1,14.3,West Indies,R Powell,N Pooran,RJW Topley,6,0,,,,,,"",""
+ball,1,14.4,West Indies,R Powell,N Pooran,RJW Topley,1,0,,,,,,"",""
+ball,1,14.5,West Indies,N Pooran,R Powell,RJW Topley,0,0,,,,,,"",""
+ball,1,14.6,West Indies,N Pooran,R Powell,RJW Topley,3,0,,,,,,"",""
+ball,1,15.1,West Indies,N Pooran,R Powell,TS Mills,6,0,,,,,,"",""
+ball,1,15.2,West Indies,N Pooran,R Powell,TS Mills,4,0,,,,,,"",""
+ball,1,15.3,West Indies,N Pooran,R Powell,TS Mills,1,0,,,,,,"",""
+ball,1,15.4,West Indies,R Powell,N Pooran,TS Mills,0,0,,,,,,"",""
+ball,1,15.5,West Indies,R Powell,N Pooran,TS Mills,4,0,,,,,,"",""
+ball,1,15.6,West Indies,R Powell,N Pooran,TS Mills,1,0,,,,,,"",""
+ball,1,16.1,West Indies,R Powell,N Pooran,AU Rashid,1,0,,,,,,"",""
+ball,1,16.2,West Indies,N Pooran,R Powell,AU Rashid,0,0,,,,,,caught,N Pooran
+ball,1,16.3,West Indies,R Shepherd,R Powell,AU Rashid,2,0,,,,,,"",""
+ball,1,16.4,West Indies,R Shepherd,R Powell,AU Rashid,6,0,,,,,,"",""
+ball,1,16.5,West Indies,R Shepherd,R Powell,AU Rashid,0,0,,,,,,"",""
+ball,1,16.6,West Indies,R Shepherd,R Powell,AU Rashid,2,0,,,,,,"",""
+ball,1,17.1,West Indies,R Powell,R Shepherd,GHS Garton,4,0,,,,,,"",""
+ball,1,17.2,West Indies,R Powell,R Shepherd,GHS Garton,0,0,,,,,,"",""
+ball,1,17.3,West Indies,R Powell,R Shepherd,GHS Garton,6,0,,,,,,"",""
+ball,1,17.4,West Indies,R Powell,R Shepherd,GHS Garton,6,0,,,,,,"",""
+ball,1,17.5,West Indies,R Powell,R Shepherd,GHS Garton,2,0,,,,,,"",""
+ball,1,17.6,West Indies,R Powell,R Shepherd,GHS Garton,1,0,,,,,,"",""
+ball,1,18.1,West Indies,R Powell,R Shepherd,RJW Topley,0,0,,,,,,"",""
+ball,1,18.2,West Indies,R Powell,R Shepherd,RJW Topley,0,0,,,,,,"",""
+ball,1,18.3,West Indies,R Powell,R Shepherd,RJW Topley,2,0,,,,,,"",""
+ball,1,18.4,West Indies,R Powell,R Shepherd,RJW Topley,2,0,,,,,,"",""
+ball,1,18.5,West Indies,R Powell,R Shepherd,RJW Topley,6,0,,,,,,"",""
+ball,1,18.6,West Indies,R Powell,R Shepherd,RJW Topley,0,1,1,,,,,"",""
+ball,1,18.7,West Indies,R Powell,R Shepherd,RJW Topley,0,0,,,,,,caught,R Powell
+ball,1,19.1,West Indies,FA Allen,R Shepherd,TS Mills,0,0,,,,,,caught,FA Allen
+ball,1,19.2,West Indies,R Shepherd,KA Pollard,TS Mills,1,0,,,,,,"",""
+ball,1,19.3,West Indies,KA Pollard,R Shepherd,TS Mills,0,4,,,,4,,"",""
+ball,1,19.4,West Indies,KA Pollard,R Shepherd,TS Mills,4,0,,,,,,"",""
+ball,1,19.5,West Indies,KA Pollard,R Shepherd,TS Mills,4,0,,,,,,"",""
+ball,1,19.6,West Indies,KA Pollard,R Shepherd,TS Mills,1,0,,,,,,"",""
+ball,2,0.1,England,JJ Roy,T Banton,SS Cottrell,1,0,,,,,,"",""
+ball,2,0.2,England,T Banton,JJ Roy,SS Cottrell,1,0,,,,,,"",""
+ball,2,0.3,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.4,England,JJ Roy,T Banton,SS Cottrell,2,0,,,,,,"",""
+ball,2,0.5,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,2,0.6,England,JJ Roy,T Banton,SS Cottrell,1,0,,,,,,"",""
+ball,2,1.1,England,JJ Roy,T Banton,JO Holder,0,5,5,,,,,"",""
+ball,2,1.2,England,JJ Roy,T Banton,JO Holder,1,0,,,,,,"",""
+ball,2,1.3,England,T Banton,JJ Roy,JO Holder,1,0,,,,,,"",""
+ball,2,1.4,England,JJ Roy,T Banton,JO Holder,0,0,,,,,,"",""
+ball,2,1.5,England,JJ Roy,T Banton,JO Holder,0,0,,,,,,"",""
+ball,2,1.6,England,JJ Roy,T Banton,JO Holder,1,0,,,,,,"",""
+ball,2,1.7,England,T Banton,JJ Roy,JO Holder,6,0,,,,,,"",""
+ball,2,2.1,England,JJ Roy,T Banton,SS Cottrell,6,0,,,,,,"",""
+ball,2,2.2,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.3,England,JJ Roy,T Banton,SS Cottrell,0,1,1,,,,,"",""
+ball,2,2.4,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.5,England,JJ Roy,T Banton,SS Cottrell,0,0,,,,,,"",""
+ball,2,2.6,England,JJ Roy,T Banton,SS Cottrell,1,0,,,,,,"",""
+ball,2,2.7,England,T Banton,JJ Roy,SS Cottrell,0,0,,,,,,"",""
+ball,2,3.1,England,JJ Roy,T Banton,R Shepherd,6,0,,,,,,"",""
+ball,2,3.2,England,JJ Roy,T Banton,R Shepherd,0,0,,,,,,caught,JJ Roy
+ball,2,3.3,England,JM Vince,T Banton,R Shepherd,4,0,,,,,,"",""
+ball,2,3.4,England,JM Vince,T Banton,R Shepherd,1,0,,,,,,"",""
+ball,2,3.5,England,T Banton,JM Vince,R Shepherd,1,0,,,,,,"",""
+ball,2,3.6,England,JM Vince,T Banton,R Shepherd,2,0,,,,,,"",""
+ball,2,4.1,England,T Banton,JM Vince,JO Holder,0,0,,,,,,"",""
+ball,2,4.2,England,T Banton,JM Vince,JO Holder,2,0,,,,,,"",""
+ball,2,4.3,England,T Banton,JM Vince,JO Holder,4,0,,,,,,"",""
+ball,2,4.4,England,T Banton,JM Vince,JO Holder,2,0,,,,,,"",""
+ball,2,4.5,England,T Banton,JM Vince,JO Holder,1,0,,,,,,"",""
+ball,2,4.6,England,JM Vince,T Banton,JO Holder,0,0,,,,,,"",""
+ball,2,5.1,England,T Banton,JM Vince,AJ Hosein,4,0,,,,,,"",""
+ball,2,5.2,England,T Banton,JM Vince,AJ Hosein,6,0,,,,,,"",""
+ball,2,5.3,England,T Banton,JM Vince,AJ Hosein,0,0,,,,,,"",""
+ball,2,5.4,England,T Banton,JM Vince,AJ Hosein,0,0,,,,,,"",""
+ball,2,5.5,England,T Banton,JM Vince,AJ Hosein,0,0,,,,,,"",""
+ball,2,5.6,England,T Banton,JM Vince,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.1,England,T Banton,JM Vince,KA Pollard,0,0,,,,,,"",""
+ball,2,6.2,England,T Banton,JM Vince,KA Pollard,1,0,,,,,,"",""
+ball,2,6.3,England,JM Vince,T Banton,KA Pollard,1,0,,,,,,"",""
+ball,2,6.4,England,T Banton,JM Vince,KA Pollard,1,0,,,,,,"",""
+ball,2,6.5,England,JM Vince,T Banton,KA Pollard,1,0,,,,,,"",""
+ball,2,6.6,England,T Banton,JM Vince,KA Pollard,0,0,,,,,,"",""
+ball,2,7.1,England,JM Vince,T Banton,AJ Hosein,1,0,,,,,,"",""
+ball,2,7.2,England,T Banton,JM Vince,AJ Hosein,6,0,,,,,,"",""
+ball,2,7.3,England,T Banton,JM Vince,AJ Hosein,1,0,,,,,,"",""
+ball,2,7.4,England,JM Vince,T Banton,AJ Hosein,6,0,,,,,,"",""
+ball,2,7.5,England,JM Vince,T Banton,AJ Hosein,0,0,,,,,,caught,JM Vince
+ball,2,7.6,England,MM Ali,T Banton,AJ Hosein,0,0,,,,,,"",""
+ball,2,8.1,England,T Banton,MM Ali,KA Pollard,2,0,,,,,,"",""
+ball,2,8.2,England,T Banton,MM Ali,KA Pollard,4,0,,,,,,"",""
+ball,2,8.3,England,T Banton,MM Ali,KA Pollard,1,0,,,,,,"",""
+ball,2,8.4,England,MM Ali,T Banton,KA Pollard,0,1,1,,,,,"",""
+ball,2,8.5,England,MM Ali,T Banton,KA Pollard,0,0,,,,,,caught,MM Ali
+ball,2,8.6,England,T Banton,LS Livingstone,KA Pollard,2,0,,,,,,"",""
+ball,2,8.7,England,T Banton,LS Livingstone,KA Pollard,1,0,,,,,,"",""
+ball,2,9.1,England,T Banton,LS Livingstone,R Powell,1,0,,,,,,"",""
+ball,2,9.2,England,LS Livingstone,T Banton,R Powell,0,0,,,,,,"",""
+ball,2,9.3,England,LS Livingstone,T Banton,R Powell,0,0,,,,,,"",""
+ball,2,9.4,England,LS Livingstone,T Banton,R Powell,1,0,,,,,,"",""
+ball,2,9.5,England,T Banton,LS Livingstone,R Powell,1,0,,,,,,"",""
+ball,2,9.6,England,LS Livingstone,T Banton,R Powell,6,0,,,,,,"",""
+ball,2,10.1,England,T Banton,LS Livingstone,KA Pollard,1,0,,,,,,"",""
+ball,2,10.2,England,LS Livingstone,T Banton,KA Pollard,1,0,,,,,,"",""
+ball,2,10.3,England,T Banton,LS Livingstone,KA Pollard,1,0,,,,,,"",""
+ball,2,10.4,England,LS Livingstone,T Banton,KA Pollard,0,0,,,,,,"",""
+ball,2,10.5,England,LS Livingstone,T Banton,KA Pollard,2,0,,,,,,"",""
+ball,2,10.6,England,LS Livingstone,T Banton,KA Pollard,0,1,1,,,,,"",""
+ball,2,10.7,England,LS Livingstone,T Banton,KA Pollard,1,0,,,,,,"",""
+ball,2,11.1,England,LS Livingstone,T Banton,R Shepherd,0,1,1,,,,,"",""
+ball,2,11.2,England,LS Livingstone,T Banton,R Shepherd,0,0,,,,,,caught,LS Livingstone
+ball,2,11.3,England,T Banton,PD Salt,R Shepherd,0,0,,,,,,"",""
+ball,2,11.4,England,T Banton,PD Salt,R Shepherd,2,0,,,,,,"",""
+ball,2,11.5,England,T Banton,PD Salt,R Shepherd,0,1,1,,,,,"",""
+ball,2,11.6,England,T Banton,PD Salt,R Shepherd,6,0,,,,,,"",""
+ball,2,11.7,England,T Banton,PD Salt,R Shepherd,6,0,,,,,,"",""
+ball,2,11.8,England,T Banton,PD Salt,R Shepherd,1,0,,,,,,"",""
+ball,2,12.1,England,T Banton,PD Salt,KA Pollard,0,0,,,,,,"",""
+ball,2,12.2,England,T Banton,PD Salt,KA Pollard,6,0,,,,,,"",""
+ball,2,12.3,England,T Banton,PD Salt,KA Pollard,0,0,,,,,,caught,T Banton
+ball,2,12.4,England,HC Brook,PD Salt,KA Pollard,0,0,,,,,,"",""
+ball,2,12.5,England,HC Brook,PD Salt,KA Pollard,2,0,,,,,,"",""
+ball,2,12.6,England,HC Brook,PD Salt,KA Pollard,1,0,,,,,,"",""
+ball,2,13.1,England,HC Brook,PD Salt,JO Holder,1,0,,,,,,"",""
+ball,2,13.2,England,PD Salt,HC Brook,JO Holder,2,0,,,,,,"",""
+ball,2,13.3,England,PD Salt,HC Brook,JO Holder,1,0,,,,,,"",""
+ball,2,13.4,England,HC Brook,PD Salt,JO Holder,1,0,,,,,,"",""
+ball,2,13.5,England,PD Salt,HC Brook,JO Holder,2,0,,,,,,"",""
+ball,2,13.6,England,PD Salt,HC Brook,JO Holder,1,0,,,,,,"",""
+ball,2,14.1,England,PD Salt,HC Brook,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.2,England,HC Brook,PD Salt,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.3,England,PD Salt,HC Brook,AJ Hosein,6,0,,,,,,"",""
+ball,2,14.4,England,PD Salt,HC Brook,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.5,England,HC Brook,PD Salt,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.6,England,PD Salt,HC Brook,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.1,England,PD Salt,HC Brook,R Shepherd,1,0,,,,,,"",""
+ball,2,15.2,England,HC Brook,PD Salt,R Shepherd,1,0,,,,,,"",""
+ball,2,15.3,England,PD Salt,HC Brook,R Shepherd,1,0,,,,,,"",""
+ball,2,15.4,England,HC Brook,PD Salt,R Shepherd,1,0,,,,,,"",""
+ball,2,15.5,England,PD Salt,HC Brook,R Shepherd,6,0,,,,,,"",""
+ball,2,15.6,England,PD Salt,HC Brook,R Shepherd,1,0,,,,,,"",""
+ball,2,16.1,England,PD Salt,HC Brook,SS Cottrell,4,0,,,,,,"",""
+ball,2,16.2,England,PD Salt,HC Brook,SS Cottrell,1,0,,,,,,"",""
+ball,2,16.3,England,HC Brook,PD Salt,SS Cottrell,0,0,,,,,,"",""
+ball,2,16.4,England,HC Brook,PD Salt,SS Cottrell,0,0,,,,,,"",""
+ball,2,16.5,England,HC Brook,PD Salt,SS Cottrell,1,0,,,,,,"",""
+ball,2,16.6,England,PD Salt,HC Brook,SS Cottrell,6,0,,,,,,"",""
+ball,2,17.1,England,HC Brook,PD Salt,JO Holder,0,0,,,,,,caught,HC Brook
+ball,2,17.2,England,PD Salt,GHS Garton,JO Holder,0,0,,,,,,"",""
+ball,2,17.3,England,PD Salt,GHS Garton,JO Holder,4,0,,,,,,"",""
+ball,2,17.4,England,PD Salt,GHS Garton,JO Holder,4,0,,,,,,"",""
+ball,2,17.5,England,PD Salt,GHS Garton,JO Holder,1,0,,,,,,"",""
+ball,2,17.6,England,GHS Garton,PD Salt,JO Holder,1,0,,,,,,"",""
+ball,2,18.1,England,GHS Garton,PD Salt,SS Cottrell,1,0,,,,,,"",""
+ball,2,18.2,England,PD Salt,GHS Garton,SS Cottrell,1,0,,,,,,"",""
+ball,2,18.3,England,GHS Garton,PD Salt,SS Cottrell,0,0,,,,,,"",""
+ball,2,18.4,England,GHS Garton,PD Salt,SS Cottrell,0,0,,,,,,bowled,GHS Garton
+ball,2,18.5,England,AU Rashid,PD Salt,SS Cottrell,1,0,,,,,,"",""
+ball,2,18.6,England,PD Salt,AU Rashid,SS Cottrell,0,0,,,,,,run out,AU Rashid
+ball,2,19.1,England,TS Mills,PD Salt,R Shepherd,0,2,2,,,,,"",""
+ball,2,19.2,England,PD Salt,TS Mills,R Shepherd,6,0,,,,,,"",""
+ball,2,19.3,England,PD Salt,TS Mills,R Shepherd,6,0,,,,,,"",""
+ball,2,19.4,England,PD Salt,TS Mills,R Shepherd,0,0,,,,,,bowled,PD Salt
+ball,2,19.5,England,RJW Topley,TS Mills,R Shepherd,1,0,,,,,,"",""
+ball,2,19.6,England,TS Mills,RJW Topley,R Shepherd,1,0,,,,,,"",""
+ball,2,19.7,England,RJW Topley,TS Mills,R Shepherd,1,0,,,,,,"",""

@@ -1,0 +1,292 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Sri Lanka
+info,gender,female
+info,season,2023
+info,date,2023/07/12
+info,event,New Zealand Women tour of Sri Lanka
+info,match_number,3
+info,venue,"P Sara Oval, Colombo"
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,AC Jayangani
+info,umpire,BCN Amarasinghe
+info,umpire,LDVV Silva
+info,reserve_umpire,WN de Silva
+info,match_referee,JM Pereira
+info,winner,Sri Lanka
+info,winner_wickets,10
+info,player,New Zealand,SW Bates
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,MM Penfold
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,I Ranaweera
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,SIP Fernando
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,I Dulani
+info,player,Sri Lanka,K Kavindi
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AC Kerr,7673c908
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Madavi,85021bcd
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,I Dulani,a2c23f31
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Kavindi,2fa916b3
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,WK Dilhari,c34a15e6
+info,registry,people,WN de Silva,53e20e1c
+ball,1,0.1,New Zealand,SW Bates,IC Gaze,K Kavindi,0,0,,,,,,"",""
+ball,1,0.2,New Zealand,SW Bates,IC Gaze,K Kavindi,0,0,,,,,,"",""
+ball,1,0.3,New Zealand,SW Bates,IC Gaze,K Kavindi,0,0,,,,,,"",""
+ball,1,0.4,New Zealand,SW Bates,IC Gaze,K Kavindi,0,0,,,,,,"",""
+ball,1,0.5,New Zealand,SW Bates,IC Gaze,K Kavindi,0,0,,,,,,"",""
+ball,1,0.6,New Zealand,SW Bates,IC Gaze,K Kavindi,4,0,,,,,,"",""
+ball,1,1.1,New Zealand,IC Gaze,SW Bates,SIP Fernando,0,0,,,,,,"",""
+ball,1,1.2,New Zealand,IC Gaze,SW Bates,SIP Fernando,1,0,,,,,,"",""
+ball,1,1.3,New Zealand,SW Bates,IC Gaze,SIP Fernando,0,0,,,,,,"",""
+ball,1,1.4,New Zealand,SW Bates,IC Gaze,SIP Fernando,4,0,,,,,,"",""
+ball,1,1.5,New Zealand,SW Bates,IC Gaze,SIP Fernando,0,0,,,,,,"",""
+ball,1,1.6,New Zealand,SW Bates,IC Gaze,SIP Fernando,0,0,,,,,,"",""
+ball,1,2.1,New Zealand,IC Gaze,SW Bates,K Kavindi,0,1,,1,,,,"",""
+ball,1,2.2,New Zealand,IC Gaze,SW Bates,K Kavindi,1,0,,,,,,"",""
+ball,1,2.3,New Zealand,SW Bates,IC Gaze,K Kavindi,0,5,5,,,,,"",""
+ball,1,2.4,New Zealand,SW Bates,IC Gaze,K Kavindi,0,1,,,,1,,"",""
+ball,1,2.5,New Zealand,IC Gaze,SW Bates,K Kavindi,0,0,,,,,,"",""
+ball,1,2.6,New Zealand,IC Gaze,SW Bates,K Kavindi,1,0,,,,,,"",""
+ball,1,2.7,New Zealand,SW Bates,IC Gaze,K Kavindi,0,0,,,,,,"",""
+ball,1,2.8,New Zealand,SW Bates,IC Gaze,K Kavindi,1,0,,,,,,"",""
+ball,1,3.1,New Zealand,SW Bates,IC Gaze,BMSM Kumari,1,0,,,,,,"",""
+ball,1,3.2,New Zealand,IC Gaze,SW Bates,BMSM Kumari,1,0,,,,,,"",""
+ball,1,3.3,New Zealand,SW Bates,IC Gaze,BMSM Kumari,1,0,,,,,,"",""
+ball,1,3.4,New Zealand,IC Gaze,SW Bates,BMSM Kumari,0,0,,,,,,"",""
+ball,1,3.5,New Zealand,IC Gaze,SW Bates,BMSM Kumari,0,0,,,,,,"",""
+ball,1,3.6,New Zealand,IC Gaze,SW Bates,BMSM Kumari,4,0,,,,,,"",""
+ball,1,4.1,New Zealand,SW Bates,IC Gaze,SIP Fernando,0,0,,,,,,"",""
+ball,1,4.2,New Zealand,SW Bates,IC Gaze,SIP Fernando,4,0,,,,,,"",""
+ball,1,4.3,New Zealand,SW Bates,IC Gaze,SIP Fernando,2,0,,,,,,"",""
+ball,1,4.4,New Zealand,SW Bates,IC Gaze,SIP Fernando,0,0,,,,,,"",""
+ball,1,4.5,New Zealand,SW Bates,IC Gaze,SIP Fernando,1,0,,,,,,"",""
+ball,1,4.6,New Zealand,IC Gaze,SW Bates,SIP Fernando,4,0,,,,,,"",""
+ball,1,5.1,New Zealand,SW Bates,IC Gaze,BMSM Kumari,1,0,,,,,,"",""
+ball,1,5.2,New Zealand,IC Gaze,SW Bates,BMSM Kumari,0,0,,,,,,"",""
+ball,1,5.3,New Zealand,IC Gaze,SW Bates,BMSM Kumari,1,0,,,,,,"",""
+ball,1,5.4,New Zealand,SW Bates,IC Gaze,BMSM Kumari,4,0,,,,,,"",""
+ball,1,5.5,New Zealand,SW Bates,IC Gaze,BMSM Kumari,0,0,,,,,,"",""
+ball,1,5.6,New Zealand,SW Bates,IC Gaze,BMSM Kumari,0,0,,,,,,"",""
+ball,1,6.1,New Zealand,IC Gaze,SW Bates,I Ranaweera,0,0,,,,,,bowled,IC Gaze
+ball,1,6.2,New Zealand,AC Kerr,SW Bates,I Ranaweera,0,0,,,,,,"",""
+ball,1,6.3,New Zealand,AC Kerr,SW Bates,I Ranaweera,0,0,,,,,,"",""
+ball,1,6.4,New Zealand,AC Kerr,SW Bates,I Ranaweera,0,0,,,,,,"",""
+ball,1,6.5,New Zealand,AC Kerr,SW Bates,I Ranaweera,2,0,,,,,,"",""
+ball,1,6.6,New Zealand,AC Kerr,SW Bates,I Ranaweera,1,0,,,,,,"",""
+ball,1,7.1,New Zealand,AC Kerr,SW Bates,AC Jayangani,1,0,,,,,,"",""
+ball,1,7.2,New Zealand,SW Bates,AC Kerr,AC Jayangani,1,0,,,,,,"",""
+ball,1,7.3,New Zealand,AC Kerr,SW Bates,AC Jayangani,1,0,,,,,,"",""
+ball,1,7.4,New Zealand,SW Bates,AC Kerr,AC Jayangani,0,0,,,,,,"",""
+ball,1,7.5,New Zealand,SW Bates,AC Kerr,AC Jayangani,0,0,,,,,,"",""
+ball,1,7.6,New Zealand,SW Bates,AC Kerr,AC Jayangani,0,0,,,,,,"",""
+ball,1,8.1,New Zealand,AC Kerr,SW Bates,I Ranaweera,0,0,,,,,,"",""
+ball,1,8.2,New Zealand,AC Kerr,SW Bates,I Ranaweera,1,0,,,,,,"",""
+ball,1,8.3,New Zealand,SW Bates,AC Kerr,I Ranaweera,0,0,,,,,,"",""
+ball,1,8.4,New Zealand,SW Bates,AC Kerr,I Ranaweera,1,0,,,,,,"",""
+ball,1,8.5,New Zealand,AC Kerr,SW Bates,I Ranaweera,1,0,,,,,,"",""
+ball,1,8.6,New Zealand,SW Bates,AC Kerr,I Ranaweera,1,0,,,,,,"",""
+ball,1,9.1,New Zealand,SW Bates,AC Kerr,AC Jayangani,4,0,,,,,,"",""
+ball,1,9.2,New Zealand,SW Bates,AC Kerr,AC Jayangani,0,0,,,,,,"",""
+ball,1,9.3,New Zealand,SW Bates,AC Kerr,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.4,New Zealand,AC Kerr,SW Bates,AC Jayangani,2,0,,,,,,"",""
+ball,1,9.5,New Zealand,AC Kerr,SW Bates,AC Jayangani,4,0,,,,,,"",""
+ball,1,9.6,New Zealand,AC Kerr,SW Bates,AC Jayangani,1,0,,,,,,"",""
+ball,1,10.1,New Zealand,AC Kerr,SW Bates,BMSM Kumari,0,0,,,,,,caught,AC Kerr
+ball,1,10.2,New Zealand,SFM Devine,SW Bates,BMSM Kumari,1,0,,,,,,"",""
+ball,1,10.3,New Zealand,SW Bates,SFM Devine,BMSM Kumari,1,0,,,,,,"",""
+ball,1,10.4,New Zealand,SFM Devine,SW Bates,BMSM Kumari,1,0,,,,,,"",""
+ball,1,10.5,New Zealand,SW Bates,SFM Devine,BMSM Kumari,4,0,,,,,,"",""
+ball,1,10.6,New Zealand,SW Bates,SFM Devine,BMSM Kumari,1,0,,,,,,"",""
+ball,1,11.1,New Zealand,SW Bates,SFM Devine,WK Dilhari,0,0,,,,,,bowled,SW Bates
+ball,1,11.2,New Zealand,ML Green,SFM Devine,WK Dilhari,1,0,,,,,,"",""
+ball,1,11.3,New Zealand,SFM Devine,ML Green,WK Dilhari,1,0,,,,,,"",""
+ball,1,11.4,New Zealand,ML Green,SFM Devine,WK Dilhari,1,0,,,,,,"",""
+ball,1,11.5,New Zealand,SFM Devine,ML Green,WK Dilhari,1,0,,,,,,"",""
+ball,1,11.6,New Zealand,ML Green,SFM Devine,WK Dilhari,1,0,,,,,,"",""
+ball,1,12.1,New Zealand,ML Green,SFM Devine,I Ranaweera,0,0,,,,,,"",""
+ball,1,12.2,New Zealand,ML Green,SFM Devine,I Ranaweera,1,0,,,,,,"",""
+ball,1,12.3,New Zealand,SFM Devine,ML Green,I Ranaweera,1,0,,,,,,"",""
+ball,1,12.4,New Zealand,ML Green,SFM Devine,I Ranaweera,1,0,,,,,,"",""
+ball,1,12.5,New Zealand,SFM Devine,ML Green,I Ranaweera,1,0,,,,,,"",""
+ball,1,12.6,New Zealand,ML Green,SFM Devine,I Ranaweera,1,0,,,,,,"",""
+ball,1,13.1,New Zealand,ML Green,SFM Devine,WK Dilhari,1,0,,,,,,"",""
+ball,1,13.2,New Zealand,SFM Devine,ML Green,WK Dilhari,6,0,,,,,,"",""
+ball,1,13.3,New Zealand,SFM Devine,ML Green,WK Dilhari,6,0,,,,,,"",""
+ball,1,13.4,New Zealand,SFM Devine,ML Green,WK Dilhari,1,0,,,,,,"",""
+ball,1,13.5,New Zealand,ML Green,SFM Devine,WK Dilhari,1,0,,,,,,"",""
+ball,1,13.6,New Zealand,SFM Devine,ML Green,WK Dilhari,1,0,,,,,,"",""
+ball,1,14.1,New Zealand,SFM Devine,ML Green,K Kavindi,1,0,,,,,,"",""
+ball,1,14.2,New Zealand,ML Green,SFM Devine,K Kavindi,0,1,,,,1,,"",""
+ball,1,14.3,New Zealand,SFM Devine,ML Green,K Kavindi,0,0,,,,,,"",""
+ball,1,14.4,New Zealand,SFM Devine,ML Green,K Kavindi,1,0,,,,,,"",""
+ball,1,14.5,New Zealand,ML Green,SFM Devine,K Kavindi,2,0,,,,,,"",""
+ball,1,14.6,New Zealand,ML Green,SFM Devine,K Kavindi,0,0,,,,,,caught,ML Green
+ball,1,15.1,New Zealand,SFM Devine,GE Plimmer,WK Dilhari,0,1,1,,,,,"",""
+ball,1,15.2,New Zealand,SFM Devine,GE Plimmer,WK Dilhari,4,0,,,,,,"",""
+ball,1,15.3,New Zealand,SFM Devine,GE Plimmer,WK Dilhari,1,0,,,,,,"",""
+ball,1,15.4,New Zealand,GE Plimmer,SFM Devine,WK Dilhari,1,0,,,,,,"",""
+ball,1,15.5,New Zealand,SFM Devine,GE Plimmer,WK Dilhari,1,0,,,,,,"",""
+ball,1,15.6,New Zealand,GE Plimmer,SFM Devine,WK Dilhari,1,0,,,,,,"",""
+ball,1,15.7,New Zealand,SFM Devine,GE Plimmer,WK Dilhari,2,0,,,,,,"",""
+ball,1,16.1,New Zealand,GE Plimmer,SFM Devine,K Kavindi,0,1,,,,1,,"",""
+ball,1,16.2,New Zealand,SFM Devine,GE Plimmer,K Kavindi,4,1,,1,,,,"",""
+ball,1,16.3,New Zealand,SFM Devine,GE Plimmer,K Kavindi,2,0,,,,,,"",""
+ball,1,16.4,New Zealand,SFM Devine,GE Plimmer,K Kavindi,1,0,,,,,,"",""
+ball,1,16.5,New Zealand,GE Plimmer,SFM Devine,K Kavindi,0,0,,,,,,"",""
+ball,1,16.6,New Zealand,GE Plimmer,SFM Devine,K Kavindi,1,0,,,,,,"",""
+ball,1,16.7,New Zealand,SFM Devine,GE Plimmer,K Kavindi,1,0,,,,,,"",""
+ball,1,17.1,New Zealand,SFM Devine,GE Plimmer,SIP Fernando,1,0,,,,,,"",""
+ball,1,17.2,New Zealand,GE Plimmer,SFM Devine,SIP Fernando,0,0,,,,,,stumped,GE Plimmer
+ball,1,17.3,New Zealand,BM Halliday,SFM Devine,SIP Fernando,1,0,,,,,,"",""
+ball,1,17.4,New Zealand,SFM Devine,BM Halliday,SIP Fernando,6,0,,,,,,"",""
+ball,1,17.5,New Zealand,SFM Devine,BM Halliday,SIP Fernando,1,0,,,,,,"",""
+ball,1,17.6,New Zealand,BM Halliday,SFM Devine,SIP Fernando,0,0,,,,,,"",""
+ball,1,18.1,New Zealand,SFM Devine,BM Halliday,I Ranaweera,0,0,,,,,,caught,SFM Devine
+ball,1,18.2,New Zealand,HM Rowe,BM Halliday,I Ranaweera,0,0,,,,,,caught and bowled,HM Rowe
+ball,1,18.3,New Zealand,MM Penfold,BM Halliday,I Ranaweera,1,0,,,,,,"",""
+ball,1,18.4,New Zealand,BM Halliday,MM Penfold,I Ranaweera,1,0,,,,,,"",""
+ball,1,18.5,New Zealand,MM Penfold,BM Halliday,I Ranaweera,0,0,,,,,,"",""
+ball,1,18.6,New Zealand,MM Penfold,BM Halliday,I Ranaweera,1,0,,,,,,"",""
+ball,1,19.1,New Zealand,MM Penfold,BM Halliday,BMSM Kumari,0,0,,,,,,"",""
+ball,1,19.2,New Zealand,MM Penfold,BM Halliday,BMSM Kumari,0,0,,,,,,"",""
+ball,1,19.3,New Zealand,MM Penfold,BM Halliday,BMSM Kumari,0,0,,,,,,run out,MM Penfold
+ball,1,19.4,New Zealand,BM Halliday,EJ Carson,BMSM Kumari,0,0,,,,,,caught,BM Halliday
+ball,1,19.5,New Zealand,FC Jonas,EJ Carson,BMSM Kumari,0,0,,,,,,"",""
+ball,1,19.6,New Zealand,FC Jonas,EJ Carson,BMSM Kumari,2,0,,,,,,"",""
+ball,2,0.1,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,0,0,,,,,,"",""
+ball,2,0.2,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,1,0,,,,,,"",""
+ball,2,0.3,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,0,0,,,,,,"",""
+ball,2,0.4,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,6,0,,,,,,"",""
+ball,2,0.5,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,0,0,,,,,,"",""
+ball,2,0.6,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,4,0,,,,,,"",""
+ball,2,1.1,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,0,2,2,,,,,"",""
+ball,2,1.2,Sri Lanka,AC Jayangani,H Madavi,HM Rowe,1,0,,,,,,"",""
+ball,2,1.3,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,4,0,,,,,,"",""
+ball,2,1.4,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,0,1,1,,,,,"",""
+ball,2,1.5,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,1,0,,,,,,"",""
+ball,2,1.6,Sri Lanka,AC Jayangani,H Madavi,HM Rowe,0,0,,,,,,"",""
+ball,2,1.7,Sri Lanka,AC Jayangani,H Madavi,HM Rowe,0,1,1,,,,,"",""
+ball,2,1.8,Sri Lanka,AC Jayangani,H Madavi,HM Rowe,4,0,,,,,,"",""
+ball,2,1.9,Sri Lanka,AC Jayangani,H Madavi,HM Rowe,1,0,,,,,,"",""
+ball,2,2.1,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,4,0,,,,,,"",""
+ball,2,2.2,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,0,0,,,,,,"",""
+ball,2,2.3,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,0,1,1,,,,,"",""
+ball,2,2.4,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,0,0,,,,,,"",""
+ball,2,2.5,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,0,1,1,,,,,"",""
+ball,2,2.6,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,0,1,1,,,,,"",""
+ball,2,2.7,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,4,0,,,,,,"",""
+ball,2,2.8,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,4,0,,,,,,"",""
+ball,2,2.9,Sri Lanka,AC Jayangani,H Madavi,MM Penfold,0,0,,,,,,"",""
+ball,2,3.1,Sri Lanka,H Madavi,AC Jayangani,SFM Devine,1,0,,,,,,"",""
+ball,2,3.2,Sri Lanka,AC Jayangani,H Madavi,SFM Devine,0,1,1,,,,,"",""
+ball,2,3.3,Sri Lanka,AC Jayangani,H Madavi,SFM Devine,1,0,,,,,,"",""
+ball,2,3.4,Sri Lanka,H Madavi,AC Jayangani,SFM Devine,0,0,,,,,,"",""
+ball,2,3.5,Sri Lanka,H Madavi,AC Jayangani,SFM Devine,1,0,,,,,,"",""
+ball,2,3.6,Sri Lanka,AC Jayangani,H Madavi,SFM Devine,4,0,,,,,,"",""
+ball,2,3.7,Sri Lanka,AC Jayangani,H Madavi,SFM Devine,0,0,,,,,,"",""
+ball,2,4.1,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,0,0,,,,,,"",""
+ball,2,4.2,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,0,0,,,,,,"",""
+ball,2,4.3,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,0,1,1,,,,,"",""
+ball,2,4.4,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,0,0,,,,,,"",""
+ball,2,4.5,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,1,0,,,,,,"",""
+ball,2,4.6,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,4,0,,,,,,"",""
+ball,2,4.7,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,4,0,,,,,,"",""
+ball,2,5.1,Sri Lanka,H Madavi,AC Jayangani,SFM Devine,0,0,,,,,,"",""
+ball,2,5.2,Sri Lanka,H Madavi,AC Jayangani,SFM Devine,0,0,,,,,,"",""
+ball,2,5.3,Sri Lanka,H Madavi,AC Jayangani,SFM Devine,1,0,,,,,,"",""
+ball,2,5.4,Sri Lanka,AC Jayangani,H Madavi,SFM Devine,4,0,,,,,,"",""
+ball,2,5.5,Sri Lanka,AC Jayangani,H Madavi,SFM Devine,0,0,,,,,,"",""
+ball,2,5.6,Sri Lanka,AC Jayangani,H Madavi,SFM Devine,0,0,,,,,,"",""
+ball,2,6.1,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,0,0,,,,,,"",""
+ball,2,6.2,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,2,6.3,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,1,0,,,,,,"",""
+ball,2,6.4,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,0,1,1,,,,,"",""
+ball,2,6.5,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,2,6.6,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,0,0,,,,,,"",""
+ball,2,6.7,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,4,0,,,,,,"",""
+ball,2,7.1,Sri Lanka,H Madavi,AC Jayangani,FC Jonas,1,0,,,,,,"",""
+ball,2,7.2,Sri Lanka,AC Jayangani,H Madavi,FC Jonas,0,0,,,,,,"",""
+ball,2,7.3,Sri Lanka,AC Jayangani,H Madavi,FC Jonas,1,0,,,,,,"",""
+ball,2,7.4,Sri Lanka,H Madavi,AC Jayangani,FC Jonas,4,0,,,,,,"",""
+ball,2,7.5,Sri Lanka,H Madavi,AC Jayangani,FC Jonas,0,0,,,,,,"",""
+ball,2,7.6,Sri Lanka,H Madavi,AC Jayangani,FC Jonas,0,0,,,,,,"",""
+ball,2,8.1,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,4,0,,,,,,"",""
+ball,2,8.2,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,0,0,,,,,,"",""
+ball,2,8.3,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,0,0,,,,,,"",""
+ball,2,8.4,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,0,0,,,,,,"",""
+ball,2,8.5,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,0,1,1,,,,,"",""
+ball,2,8.6,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,1,0,,,,,,"",""
+ball,2,8.7,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,2,9.1,Sri Lanka,H Madavi,AC Jayangani,FC Jonas,1,0,,,,,,"",""
+ball,2,9.2,Sri Lanka,AC Jayangani,H Madavi,FC Jonas,4,0,,,,,,"",""
+ball,2,9.3,Sri Lanka,AC Jayangani,H Madavi,FC Jonas,1,0,,,,,,"",""
+ball,2,9.4,Sri Lanka,H Madavi,AC Jayangani,FC Jonas,1,0,,,,,,"",""
+ball,2,9.5,Sri Lanka,AC Jayangani,H Madavi,FC Jonas,4,0,,,,,,"",""
+ball,2,9.6,Sri Lanka,AC Jayangani,H Madavi,FC Jonas,0,0,,,,,,"",""
+ball,2,10.1,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,0,1,1,,,,,"",""
+ball,2,10.2,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,4,0,,,,,,"",""
+ball,2,10.3,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,1,0,,,,,,"",""
+ball,2,10.4,Sri Lanka,AC Jayangani,H Madavi,HM Rowe,1,0,,,,,,"",""
+ball,2,10.5,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,0,0,,,,,,"",""
+ball,2,10.6,Sri Lanka,H Madavi,AC Jayangani,HM Rowe,1,0,,,,,,"",""
+ball,2,10.7,Sri Lanka,AC Jayangani,H Madavi,HM Rowe,1,0,,,,,,"",""
+ball,2,11.1,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,1,0,,,,,,"",""
+ball,2,11.2,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,1,0,,,,,,"",""
+ball,2,11.3,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,0,0,,,,,,"",""
+ball,2,11.4,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,6,0,,,,,,"",""
+ball,2,11.5,Sri Lanka,AC Jayangani,H Madavi,EJ Carson,1,0,,,,,,"",""
+ball,2,11.6,Sri Lanka,H Madavi,AC Jayangani,EJ Carson,1,0,,,,,,"",""
+ball,2,12.1,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,2,12.2,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,1,0,,,,,,"",""
+ball,2,12.3,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,2,12.4,Sri Lanka,AC Jayangani,H Madavi,AC Kerr,1,0,,,,,,"",""
+ball,2,12.5,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,0,0,,,,,,"",""
+ball,2,12.6,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,0,1,1,,,,,"",""
+ball,2,12.7,Sri Lanka,H Madavi,AC Jayangani,AC Kerr,4,0,,,,,,"",""
+ball,2,13.1,Sri Lanka,AC Jayangani,H Madavi,BM Halliday,1,0,,,,,,"",""
+ball,2,13.2,Sri Lanka,H Madavi,AC Jayangani,BM Halliday,1,0,,,,,,"",""
+ball,2,13.3,Sri Lanka,AC Jayangani,H Madavi,BM Halliday,1,0,,,,,,"",""
+ball,2,13.4,Sri Lanka,H Madavi,AC Jayangani,BM Halliday,1,0,,,,,,"",""
+ball,2,13.5,Sri Lanka,AC Jayangani,H Madavi,BM Halliday,1,0,,,,,,"",""
+ball,2,13.6,Sri Lanka,H Madavi,AC Jayangani,BM Halliday,1,0,,,,,,"",""
+ball,2,14.1,Sri Lanka,H Madavi,AC Jayangani,MM Penfold,4,0,,,,,,"",""
+ball,2,14.2,Sri Lanka,H Madavi,AC Jayangani,MM Penfold,0,1,1,,,,,"",""
+ball,2,14.3,Sri Lanka,H Madavi,AC Jayangani,MM Penfold,4,0,,,,,,"",""
+ball,2,14.4,Sri Lanka,H Madavi,AC Jayangani,MM Penfold,4,0,,,,,,"",""

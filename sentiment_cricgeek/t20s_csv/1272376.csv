@@ -1,0 +1,318 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Zimbabwe
+info,gender,male
+info,season,2021
+info,date,2021/09/02
+info,event,Zimbabwe tour of Ireland and Scotland
+info,match_number,4
+info,venue,"Bready Cricket Club, Magheramason, Bready"
+info,city,Bready
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,MR Adair
+info,umpire,M Hawthorne
+info,umpire,PA Reynolds
+info,reserve_umpire,R Black
+info,tv_umpire,AJ Neill
+info,match_referee,K Gallagher
+info,winner,Ireland
+info,winner_runs,64
+info,player,Ireland,PR Stirling
+info,player,Ireland,KJ O'Brien
+info,player,Ireland,A Balbirnie
+info,player,Ireland,SC Getkate
+info,player,Ireland,W McClintock
+info,player,Ireland,GH Dockrell
+info,player,Ireland,NA Rock
+info,player,Ireland,Simi Singh
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,CA Young
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,M Shumba
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Neill,7ffe0ce3
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,D Myers,d96165b5
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,K Gallagher,704afd47
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,M Shumba,6766ca00
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,NA Rock,43f4087c
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,Simi Singh,c9945bdf
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,W McClintock,b16ddb79
+info,registry,people,WP Masakadza,4bc0a378
+ball,1,0.1,Ireland,PR Stirling,KJ O'Brien,B Muzarabani,0,0,,,,,,"",""
+ball,1,0.2,Ireland,PR Stirling,KJ O'Brien,B Muzarabani,1,0,,,,,,"",""
+ball,1,0.3,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,0,0,,,,,,"",""
+ball,1,0.4,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,4,0,,,,,,"",""
+ball,1,0.5,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,0,1,,,,1,,"",""
+ball,1,0.6,Ireland,PR Stirling,KJ O'Brien,B Muzarabani,1,0,,,,,,"",""
+ball,1,1.1,Ireland,PR Stirling,KJ O'Brien,R Ngarava,1,0,,,,,,"",""
+ball,1,1.2,Ireland,KJ O'Brien,PR Stirling,R Ngarava,1,0,,,,,,"",""
+ball,1,1.3,Ireland,PR Stirling,KJ O'Brien,R Ngarava,4,0,,,,,,"",""
+ball,1,1.4,Ireland,PR Stirling,KJ O'Brien,R Ngarava,1,0,,,,,,"",""
+ball,1,1.5,Ireland,KJ O'Brien,PR Stirling,R Ngarava,0,0,,,,,,"",""
+ball,1,1.6,Ireland,KJ O'Brien,PR Stirling,R Ngarava,0,0,,,,,,"",""
+ball,1,2.1,Ireland,PR Stirling,KJ O'Brien,LM Jongwe,0,0,,,,,,"",""
+ball,1,2.2,Ireland,PR Stirling,KJ O'Brien,LM Jongwe,1,0,,,,,,"",""
+ball,1,2.3,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,1,0,,,,,,"",""
+ball,1,2.4,Ireland,PR Stirling,KJ O'Brien,LM Jongwe,1,0,,,,,,"",""
+ball,1,2.5,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,1,0,,,,,,"",""
+ball,1,2.6,Ireland,PR Stirling,KJ O'Brien,LM Jongwe,1,0,,,,,,"",""
+ball,1,3.1,Ireland,PR Stirling,KJ O'Brien,DT Tiripano,1,0,,,,,,"",""
+ball,1,3.2,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,6,0,,,,,,"",""
+ball,1,3.3,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,0,0,,,,,,"",""
+ball,1,3.4,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,0,1,1,,,,,"",""
+ball,1,3.5,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,0,1,,1,,,,"",""
+ball,1,3.6,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,0,1,1,,,,,"",""
+ball,1,3.7,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,0,0,,,,,,"",""
+ball,1,3.8,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,0,1,1,,,,,"",""
+ball,1,3.9,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,2,0,,,,,,"",""
+ball,1,3.10,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,0,0,,,,,,"",""
+ball,1,4.1,Ireland,PR Stirling,KJ O'Brien,R Ngarava,4,0,,,,,,"",""
+ball,1,4.2,Ireland,PR Stirling,KJ O'Brien,R Ngarava,1,0,,,,,,"",""
+ball,1,4.3,Ireland,KJ O'Brien,PR Stirling,R Ngarava,1,0,,,,,,"",""
+ball,1,4.4,Ireland,PR Stirling,KJ O'Brien,R Ngarava,4,0,,,,,,"",""
+ball,1,4.5,Ireland,PR Stirling,KJ O'Brien,R Ngarava,1,0,,,,,,"",""
+ball,1,4.6,Ireland,KJ O'Brien,PR Stirling,R Ngarava,1,0,,,,,,"",""
+ball,1,5.1,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,4,0,,,,,,"",""
+ball,1,5.2,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,4,0,,,,,,"",""
+ball,1,5.3,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,4,0,,,,,,"",""
+ball,1,5.4,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,0,0,,,,,,"",""
+ball,1,5.5,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,0,0,,,,,,"",""
+ball,1,5.6,Ireland,KJ O'Brien,PR Stirling,B Muzarabani,1,0,,,,,,"",""
+ball,1,6.1,Ireland,KJ O'Brien,PR Stirling,W Madhevere,0,5,5,,,,,"",""
+ball,1,6.2,Ireland,KJ O'Brien,PR Stirling,W Madhevere,1,0,,,,,,"",""
+ball,1,6.3,Ireland,PR Stirling,KJ O'Brien,W Madhevere,1,0,,,,,,"",""
+ball,1,6.4,Ireland,KJ O'Brien,PR Stirling,W Madhevere,0,0,,,,,,"",""
+ball,1,6.5,Ireland,KJ O'Brien,PR Stirling,W Madhevere,1,0,,,,,,"",""
+ball,1,6.6,Ireland,PR Stirling,KJ O'Brien,W Madhevere,1,0,,,,,,"",""
+ball,1,6.7,Ireland,KJ O'Brien,PR Stirling,W Madhevere,1,0,,,,,,"",""
+ball,1,7.1,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,0,1,1,,,,,"",""
+ball,1,7.2,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,0,0,,,,,,"",""
+ball,1,7.3,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,1,0,,,,,,"",""
+ball,1,7.4,Ireland,PR Stirling,KJ O'Brien,LM Jongwe,1,0,,,,,,"",""
+ball,1,7.5,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,0,0,,,,,,"",""
+ball,1,7.6,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,4,0,,,,,,"",""
+ball,1,7.7,Ireland,KJ O'Brien,PR Stirling,LM Jongwe,1,0,,,,,,"",""
+ball,1,8.1,Ireland,KJ O'Brien,PR Stirling,WP Masakadza,0,0,,,,,,"",""
+ball,1,8.2,Ireland,KJ O'Brien,PR Stirling,WP Masakadza,4,0,,,,,,"",""
+ball,1,8.3,Ireland,KJ O'Brien,PR Stirling,WP Masakadza,0,0,,,,,,"",""
+ball,1,8.4,Ireland,KJ O'Brien,PR Stirling,WP Masakadza,1,0,,,,,,"",""
+ball,1,8.5,Ireland,PR Stirling,KJ O'Brien,WP Masakadza,0,0,,,,,,"",""
+ball,1,8.6,Ireland,PR Stirling,KJ O'Brien,WP Masakadza,0,0,,,,,,"",""
+ball,1,9.1,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,1,0,,,,,,"",""
+ball,1,9.2,Ireland,PR Stirling,KJ O'Brien,DT Tiripano,1,0,,,,,,"",""
+ball,1,9.3,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,1,0,,,,,,"",""
+ball,1,9.4,Ireland,PR Stirling,KJ O'Brien,DT Tiripano,4,0,,,,,,"",""
+ball,1,9.5,Ireland,PR Stirling,KJ O'Brien,DT Tiripano,1,0,,,,,,"",""
+ball,1,9.6,Ireland,KJ O'Brien,PR Stirling,DT Tiripano,1,0,,,,,,"",""
+ball,1,10.1,Ireland,KJ O'Brien,PR Stirling,WP Masakadza,0,0,,,,,,caught,KJ O'Brien
+ball,1,10.2,Ireland,PR Stirling,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,10.3,Ireland,A Balbirnie,PR Stirling,WP Masakadza,1,0,,,,,,"",""
+ball,1,10.4,Ireland,PR Stirling,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,10.5,Ireland,A Balbirnie,PR Stirling,WP Masakadza,1,0,,,,,,"",""
+ball,1,10.6,Ireland,PR Stirling,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,11.1,Ireland,PR Stirling,A Balbirnie,B Muzarabani,0,0,,,,,,"",""
+ball,1,11.2,Ireland,PR Stirling,A Balbirnie,B Muzarabani,2,0,,,,,,"",""
+ball,1,11.3,Ireland,PR Stirling,A Balbirnie,B Muzarabani,1,0,,,,,,"",""
+ball,1,11.4,Ireland,A Balbirnie,PR Stirling,B Muzarabani,1,0,,,,,,"",""
+ball,1,11.5,Ireland,PR Stirling,A Balbirnie,B Muzarabani,1,0,,,,,,"",""
+ball,1,11.6,Ireland,A Balbirnie,PR Stirling,B Muzarabani,1,0,,,,,,"",""
+ball,1,12.1,Ireland,A Balbirnie,PR Stirling,W Madhevere,1,0,,,,,,"",""
+ball,1,12.2,Ireland,PR Stirling,A Balbirnie,W Madhevere,1,0,,,,,,"",""
+ball,1,12.3,Ireland,A Balbirnie,PR Stirling,W Madhevere,4,0,,,,,,"",""
+ball,1,12.4,Ireland,A Balbirnie,PR Stirling,W Madhevere,2,0,,,,,,"",""
+ball,1,12.5,Ireland,A Balbirnie,PR Stirling,W Madhevere,6,0,,,,,,"",""
+ball,1,12.6,Ireland,A Balbirnie,PR Stirling,W Madhevere,0,0,,,,,,"",""
+ball,1,13.1,Ireland,PR Stirling,A Balbirnie,WP Masakadza,0,0,,,,,,"",""
+ball,1,13.2,Ireland,PR Stirling,A Balbirnie,WP Masakadza,0,0,,,,,,caught,PR Stirling
+ball,1,13.3,Ireland,A Balbirnie,SC Getkate,WP Masakadza,1,0,,,,,,"",""
+ball,1,13.4,Ireland,SC Getkate,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,13.5,Ireland,A Balbirnie,SC Getkate,WP Masakadza,1,0,,,,,,"",""
+ball,1,13.6,Ireland,SC Getkate,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,14.1,Ireland,SC Getkate,A Balbirnie,DT Tiripano,6,0,,,,,,"",""
+ball,1,14.2,Ireland,SC Getkate,A Balbirnie,DT Tiripano,1,0,,,,,,"",""
+ball,1,14.3,Ireland,A Balbirnie,SC Getkate,DT Tiripano,4,0,,,,,,"",""
+ball,1,14.4,Ireland,A Balbirnie,SC Getkate,DT Tiripano,4,0,,,,,,"",""
+ball,1,14.5,Ireland,A Balbirnie,SC Getkate,DT Tiripano,1,0,,,,,,"",""
+ball,1,14.6,Ireland,SC Getkate,A Balbirnie,DT Tiripano,0,0,,,,,,"",""
+ball,1,15.1,Ireland,A Balbirnie,SC Getkate,WP Masakadza,0,0,,,,,,"",""
+ball,1,15.2,Ireland,A Balbirnie,SC Getkate,WP Masakadza,4,0,,,,,,"",""
+ball,1,15.3,Ireland,A Balbirnie,SC Getkate,WP Masakadza,1,0,,,,,,"",""
+ball,1,15.4,Ireland,SC Getkate,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,15.5,Ireland,A Balbirnie,SC Getkate,WP Masakadza,1,0,,,,,,"",""
+ball,1,15.6,Ireland,SC Getkate,A Balbirnie,WP Masakadza,1,0,,,,,,"",""
+ball,1,16.1,Ireland,SC Getkate,A Balbirnie,LM Jongwe,1,0,,,,,,"",""
+ball,1,16.2,Ireland,A Balbirnie,SC Getkate,LM Jongwe,1,0,,,,,,"",""
+ball,1,16.3,Ireland,SC Getkate,A Balbirnie,LM Jongwe,0,0,,,,,,caught,SC Getkate
+ball,1,16.4,Ireland,A Balbirnie,W McClintock,LM Jongwe,0,0,,,,,,"",""
+ball,1,16.5,Ireland,A Balbirnie,W McClintock,LM Jongwe,1,0,,,,,,"",""
+ball,1,16.6,Ireland,W McClintock,A Balbirnie,LM Jongwe,1,0,,,,,,"",""
+ball,1,17.1,Ireland,W McClintock,A Balbirnie,R Ngarava,1,0,,,,,,"",""
+ball,1,17.2,Ireland,A Balbirnie,W McClintock,R Ngarava,0,0,,,,,,caught,A Balbirnie
+ball,1,17.3,Ireland,W McClintock,GH Dockrell,R Ngarava,0,0,,,,,,"",""
+ball,1,17.4,Ireland,W McClintock,GH Dockrell,R Ngarava,0,0,,,,,,"",""
+ball,1,17.5,Ireland,W McClintock,GH Dockrell,R Ngarava,4,0,,,,,,"",""
+ball,1,17.6,Ireland,W McClintock,GH Dockrell,R Ngarava,1,0,,,,,,"",""
+ball,1,18.1,Ireland,W McClintock,GH Dockrell,B Muzarabani,4,0,,,,,,"",""
+ball,1,18.2,Ireland,W McClintock,GH Dockrell,B Muzarabani,0,0,,,,,,"",""
+ball,1,18.3,Ireland,W McClintock,GH Dockrell,B Muzarabani,2,0,,,,,,"",""
+ball,1,18.4,Ireland,W McClintock,GH Dockrell,B Muzarabani,1,0,,,,,,"",""
+ball,1,18.5,Ireland,GH Dockrell,W McClintock,B Muzarabani,2,0,,,,,,"",""
+ball,1,18.6,Ireland,GH Dockrell,W McClintock,B Muzarabani,2,0,,,,,,"",""
+ball,1,19.1,Ireland,W McClintock,GH Dockrell,LM Jongwe,1,0,,,,,,"",""
+ball,1,19.2,Ireland,GH Dockrell,W McClintock,LM Jongwe,0,0,,,,,,"",""
+ball,1,19.3,Ireland,GH Dockrell,W McClintock,LM Jongwe,0,0,,,,,,"",""
+ball,1,19.4,Ireland,GH Dockrell,W McClintock,LM Jongwe,2,0,,,,,,"",""
+ball,1,19.5,Ireland,GH Dockrell,W McClintock,LM Jongwe,6,0,,,,,,"",""
+ball,1,19.6,Ireland,GH Dockrell,W McClintock,LM Jongwe,2,0,,,,,,"",""
+ball,2,0.1,Zimbabwe,W Madhevere,T Marumani,CA Young,0,1,1,,,,,"",""
+ball,2,0.2,Zimbabwe,W Madhevere,T Marumani,CA Young,0,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,W Madhevere,T Marumani,CA Young,1,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,T Marumani,W Madhevere,CA Young,1,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,W Madhevere,T Marumani,CA Young,1,0,,,,,,"",""
+ball,2,0.6,Zimbabwe,T Marumani,W Madhevere,CA Young,2,0,,,,,,"",""
+ball,2,0.7,Zimbabwe,T Marumani,W Madhevere,CA Young,1,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,T Marumani,W Madhevere,MR Adair,0,0,,,,,,caught and bowled,T Marumani
+ball,2,1.2,Zimbabwe,RW Chakabva,W Madhevere,MR Adair,1,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,W Madhevere,RW Chakabva,MR Adair,0,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,W Madhevere,RW Chakabva,MR Adair,1,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,RW Chakabva,W Madhevere,MR Adair,0,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,RW Chakabva,W Madhevere,MR Adair,0,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,W Madhevere,RW Chakabva,BJ McCarthy,1,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,RW Chakabva,W Madhevere,BJ McCarthy,4,0,,,,,,"",""
+ball,2,2.3,Zimbabwe,RW Chakabva,W Madhevere,BJ McCarthy,1,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,W Madhevere,RW Chakabva,BJ McCarthy,1,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,RW Chakabva,W Madhevere,BJ McCarthy,1,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,W Madhevere,RW Chakabva,BJ McCarthy,0,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,RW Chakabva,W Madhevere,MR Adair,4,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,RW Chakabva,W Madhevere,MR Adair,0,0,,,,,,caught,RW Chakabva
+ball,2,3.3,Zimbabwe,D Myers,W Madhevere,MR Adair,4,0,,,,,,"",""
+ball,2,3.4,Zimbabwe,D Myers,W Madhevere,MR Adair,0,0,,,,,,bowled,D Myers
+ball,2,3.5,Zimbabwe,CR Ervine,W Madhevere,MR Adair,0,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,CR Ervine,W Madhevere,MR Adair,0,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,W Madhevere,CR Ervine,BJ McCarthy,0,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,W Madhevere,CR Ervine,BJ McCarthy,1,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,CR Ervine,W Madhevere,BJ McCarthy,0,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,CR Ervine,W Madhevere,BJ McCarthy,4,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,CR Ervine,W Madhevere,BJ McCarthy,0,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,CR Ervine,W Madhevere,BJ McCarthy,0,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,W Madhevere,CR Ervine,CA Young,0,0,,,,,,caught,W Madhevere
+ball,2,5.2,Zimbabwe,M Shumba,CR Ervine,CA Young,1,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,CR Ervine,M Shumba,CA Young,1,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,M Shumba,CR Ervine,CA Young,0,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,M Shumba,CR Ervine,CA Young,0,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,M Shumba,CR Ervine,CA Young,0,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,CR Ervine,M Shumba,SC Getkate,0,1,,,,1,,"",""
+ball,2,6.2,Zimbabwe,M Shumba,CR Ervine,SC Getkate,1,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,CR Ervine,M Shumba,SC Getkate,4,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,CR Ervine,M Shumba,SC Getkate,0,1,1,,,,,"",""
+ball,2,6.5,Zimbabwe,CR Ervine,M Shumba,SC Getkate,1,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,M Shumba,CR Ervine,SC Getkate,0,0,,,,,,"",""
+ball,2,6.7,Zimbabwe,M Shumba,CR Ervine,SC Getkate,1,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,M Shumba,CR Ervine,Simi Singh,1,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,CR Ervine,M Shumba,Simi Singh,1,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,M Shumba,CR Ervine,Simi Singh,1,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,CR Ervine,M Shumba,Simi Singh,0,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,CR Ervine,M Shumba,Simi Singh,0,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,CR Ervine,M Shumba,Simi Singh,1,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,CR Ervine,M Shumba,BJ McCarthy,1,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,M Shumba,CR Ervine,BJ McCarthy,1,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,CR Ervine,M Shumba,BJ McCarthy,1,0,,,,,,"",""
+ball,2,8.4,Zimbabwe,M Shumba,CR Ervine,BJ McCarthy,0,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,M Shumba,CR Ervine,BJ McCarthy,0,0,,,,,,bowled,M Shumba
+ball,2,8.6,Zimbabwe,DT Tiripano,CR Ervine,BJ McCarthy,0,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,CR Ervine,DT Tiripano,Simi Singh,1,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,DT Tiripano,CR Ervine,Simi Singh,1,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,CR Ervine,DT Tiripano,Simi Singh,1,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,DT Tiripano,CR Ervine,Simi Singh,1,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,CR Ervine,DT Tiripano,Simi Singh,1,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,DT Tiripano,CR Ervine,Simi Singh,0,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,CR Ervine,DT Tiripano,SC Getkate,1,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,DT Tiripano,CR Ervine,SC Getkate,0,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,DT Tiripano,CR Ervine,SC Getkate,0,0,,,,,,"",""
+ball,2,10.4,Zimbabwe,DT Tiripano,CR Ervine,SC Getkate,1,0,,,,,,"",""
+ball,2,10.5,Zimbabwe,CR Ervine,DT Tiripano,SC Getkate,1,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,DT Tiripano,CR Ervine,SC Getkate,0,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,CR Ervine,DT Tiripano,Simi Singh,0,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,CR Ervine,DT Tiripano,Simi Singh,1,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,DT Tiripano,CR Ervine,Simi Singh,1,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,CR Ervine,DT Tiripano,Simi Singh,1,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,DT Tiripano,CR Ervine,Simi Singh,0,1,,,,1,,"",""
+ball,2,11.6,Zimbabwe,CR Ervine,DT Tiripano,Simi Singh,1,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,CR Ervine,DT Tiripano,SC Getkate,4,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,CR Ervine,DT Tiripano,SC Getkate,1,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,DT Tiripano,CR Ervine,SC Getkate,1,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,CR Ervine,DT Tiripano,SC Getkate,0,1,,,,1,,"",""
+ball,2,12.5,Zimbabwe,DT Tiripano,CR Ervine,SC Getkate,0,0,,,,,,stumped,DT Tiripano
+ball,2,12.6,Zimbabwe,WP Masakadza,CR Ervine,SC Getkate,1,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,WP Masakadza,CR Ervine,Simi Singh,1,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,CR Ervine,WP Masakadza,Simi Singh,1,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,WP Masakadza,CR Ervine,Simi Singh,1,0,,,,,,"",""
+ball,2,13.4,Zimbabwe,CR Ervine,WP Masakadza,Simi Singh,0,0,,,,,,caught,CR Ervine
+ball,2,13.5,Zimbabwe,WP Masakadza,LM Jongwe,Simi Singh,1,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,LM Jongwe,WP Masakadza,Simi Singh,1,0,,,,,,"",""
+ball,2,14.1,Zimbabwe,LM Jongwe,WP Masakadza,SC Getkate,0,0,,,,,,"",""
+ball,2,14.2,Zimbabwe,LM Jongwe,WP Masakadza,SC Getkate,0,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,LM Jongwe,WP Masakadza,SC Getkate,1,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,WP Masakadza,LM Jongwe,SC Getkate,0,0,,,,,,lbw,WP Masakadza
+ball,2,14.5,Zimbabwe,B Muzarabani,LM Jongwe,SC Getkate,0,0,,,,,,"",""
+ball,2,14.6,Zimbabwe,B Muzarabani,LM Jongwe,SC Getkate,0,0,,,,,,"",""
+ball,2,15.1,Zimbabwe,LM Jongwe,B Muzarabani,MR Adair,1,0,,,,,,"",""
+ball,2,15.2,Zimbabwe,B Muzarabani,LM Jongwe,MR Adair,0,0,,,,,,"",""
+ball,2,15.3,Zimbabwe,B Muzarabani,LM Jongwe,MR Adair,0,0,,,,,,"",""
+ball,2,15.4,Zimbabwe,B Muzarabani,LM Jongwe,MR Adair,1,0,,,,,,"",""
+ball,2,15.5,Zimbabwe,LM Jongwe,B Muzarabani,MR Adair,4,0,,,,,,"",""
+ball,2,15.6,Zimbabwe,LM Jongwe,B Muzarabani,MR Adair,1,0,,,,,,"",""
+ball,2,16.1,Zimbabwe,LM Jongwe,B Muzarabani,CA Young,0,0,,,,,,"",""
+ball,2,16.2,Zimbabwe,LM Jongwe,B Muzarabani,CA Young,0,0,,,,,,"",""
+ball,2,16.3,Zimbabwe,LM Jongwe,B Muzarabani,CA Young,1,0,,,,,,"",""
+ball,2,16.4,Zimbabwe,B Muzarabani,LM Jongwe,CA Young,1,0,,,,,,"",""
+ball,2,16.5,Zimbabwe,LM Jongwe,B Muzarabani,CA Young,0,0,,,,,,"",""
+ball,2,16.6,Zimbabwe,LM Jongwe,B Muzarabani,CA Young,2,0,,,,,,"",""
+ball,2,17.1,Zimbabwe,B Muzarabani,LM Jongwe,MR Adair,0,0,,,,,,"",""
+ball,2,17.2,Zimbabwe,B Muzarabani,LM Jongwe,MR Adair,0,0,,,,,,bowled,B Muzarabani
+ball,2,17.3,Zimbabwe,R Ngarava,LM Jongwe,MR Adair,1,0,,,,,,"",""
+ball,2,17.4,Zimbabwe,LM Jongwe,R Ngarava,MR Adair,4,0,,,,,,"",""
+ball,2,17.5,Zimbabwe,LM Jongwe,R Ngarava,MR Adair,1,0,,,,,,"",""
+ball,2,17.6,Zimbabwe,R Ngarava,LM Jongwe,MR Adair,0,0,,,,,,"",""
+ball,2,18.1,Zimbabwe,LM Jongwe,R Ngarava,BJ McCarthy,2,0,,,,,,"",""
+ball,2,18.2,Zimbabwe,LM Jongwe,R Ngarava,BJ McCarthy,2,0,,,,,,"",""
+ball,2,18.3,Zimbabwe,LM Jongwe,R Ngarava,BJ McCarthy,2,0,,,,,,"",""
+ball,2,18.4,Zimbabwe,LM Jongwe,R Ngarava,BJ McCarthy,0,0,,,,,,"",""
+ball,2,18.5,Zimbabwe,LM Jongwe,R Ngarava,BJ McCarthy,1,0,,,,,,"",""
+ball,2,18.6,Zimbabwe,R Ngarava,LM Jongwe,BJ McCarthy,1,0,,,,,,"",""
+ball,2,19.1,Zimbabwe,R Ngarava,LM Jongwe,CA Young,0,0,,,,,,"",""
+ball,2,19.2,Zimbabwe,R Ngarava,LM Jongwe,CA Young,1,0,,,,,,"",""
+ball,2,19.3,Zimbabwe,LM Jongwe,R Ngarava,CA Young,1,0,,,,,,"",""
+ball,2,19.4,Zimbabwe,R Ngarava,LM Jongwe,CA Young,4,0,,,,,,"",""
+ball,2,19.5,Zimbabwe,R Ngarava,LM Jongwe,CA Young,4,0,,,,,,"",""
+ball,2,19.6,Zimbabwe,R Ngarava,LM Jongwe,CA Young,0,0,,,,,,"",""

@@ -1,0 +1,288 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Italy
+info,gender,male
+info,season,2019
+info,date,2019/05/25
+info,event,Germany tour of Netherlands
+info,match_number,2
+info,venue,Sportpark Maarschalkerweerd
+info,city,Utrecht
+info,toss_winner,Italy
+info,toss_decision,field
+info,umpire,Rizwan Akram
+info,umpire,Adriaan van den Dries
+info,reserve_umpire,HKG Jansen
+info,match_referee,Willem Molenaar
+info,winner,Italy
+info,winner_wickets,6
+info,player,Germany,D Weston
+info,player,Germany,VB Chikkannaiah
+info,player,Germany,Mudassar Muhammad
+info,player,Germany,R Pillai
+info,player,Germany,Amir Mangal
+info,player,Germany,Ahmed Wardak
+info,player,Germany,Sahir Naqash
+info,player,Germany,Abdul-Shakoor Rahimzei
+info,player,Germany,Muslim Yar
+info,player,Germany,Asad Mohammad
+info,player,Germany,Izatullah Dawlatzai
+info,player,Italy,GP Meade
+info,player,Italy,BBJL Perera
+info,player,Italy,NA Maiolo
+info,player,Italy,Rehman Abdul
+info,player,Italy,Rakibul Hasan
+info,player,Italy,MJ Ross
+info,player,Italy,Fida Hussain
+info,player,Italy,GRD Munasinghe
+info,player,Italy,Baljit Singh
+info,player,Italy,Manpreet Singh
+info,player,Italy,S Arachchige
+info,registry,people,Abdul-Shakoor Rahimzei,e45810ed
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,Ahmed Wardak,3daaabaa
+info,registry,people,Amir Mangal,a48c9735
+info,registry,people,Asad Mohammad,89b7e368
+info,registry,people,BBJL Perera,c8c9d60b
+info,registry,people,Baljit Singh,39f0b039
+info,registry,people,D Weston,92256e66
+info,registry,people,Fida Hussain,0f85e75c
+info,registry,people,GP Meade,3957a70a
+info,registry,people,GRD Munasinghe,eff8b730
+info,registry,people,HKG Jansen,6e9d5add
+info,registry,people,Izatullah Dawlatzai,f96933f0
+info,registry,people,MJ Ross,d1c7dd6d
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mudassar Muhammad,7dde58c9
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,NA Maiolo,362fde0f
+info,registry,people,R Pillai,7a7c7e57
+info,registry,people,Rakibul Hasan,b75b7b09
+info,registry,people,Rehman Abdul,83fc78e8
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Arachchige,2a7a3137
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,VB Chikkannaiah,8e81b773
+info,registry,people,Willem Molenaar,4d641043
+ball,1,0.1,Germany,D Weston,VB Chikkannaiah,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,0.2,Germany,VB Chikkannaiah,D Weston,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,0.3,Germany,VB Chikkannaiah,D Weston,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,0.4,Germany,VB Chikkannaiah,D Weston,GRD Munasinghe,2,0,,,,,,"",""
+ball,1,0.5,Germany,VB Chikkannaiah,D Weston,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,0.6,Germany,VB Chikkannaiah,D Weston,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,1.1,Germany,VB Chikkannaiah,D Weston,NA Maiolo,0,0,,,,,,"",""
+ball,1,1.2,Germany,VB Chikkannaiah,D Weston,NA Maiolo,1,0,,,,,,"",""
+ball,1,1.3,Germany,D Weston,VB Chikkannaiah,NA Maiolo,1,0,,,,,,"",""
+ball,1,1.4,Germany,VB Chikkannaiah,D Weston,NA Maiolo,0,0,,,,,,"",""
+ball,1,1.5,Germany,VB Chikkannaiah,D Weston,NA Maiolo,1,0,,,,,,"",""
+ball,1,1.6,Germany,D Weston,VB Chikkannaiah,NA Maiolo,1,0,,,,,,"",""
+ball,1,2.1,Germany,D Weston,VB Chikkannaiah,Baljit Singh,1,0,,,,,,"",""
+ball,1,2.2,Germany,VB Chikkannaiah,D Weston,Baljit Singh,2,0,,,,,,"",""
+ball,1,2.3,Germany,VB Chikkannaiah,D Weston,Baljit Singh,2,0,,,,,,"",""
+ball,1,2.4,Germany,VB Chikkannaiah,D Weston,Baljit Singh,0,0,,,,,,"",""
+ball,1,2.5,Germany,VB Chikkannaiah,D Weston,Baljit Singh,1,0,,,,,,"",""
+ball,1,2.6,Germany,D Weston,VB Chikkannaiah,Baljit Singh,1,0,,,,,,"",""
+ball,1,3.1,Germany,D Weston,VB Chikkannaiah,NA Maiolo,0,0,,,,,,caught,D Weston
+ball,1,3.2,Germany,VB Chikkannaiah,Mudassar Muhammad,NA Maiolo,1,0,,,,,,"",""
+ball,1,3.3,Germany,Mudassar Muhammad,VB Chikkannaiah,NA Maiolo,0,0,,,,,,"",""
+ball,1,3.4,Germany,Mudassar Muhammad,VB Chikkannaiah,NA Maiolo,0,0,,,,,,"",""
+ball,1,3.5,Germany,Mudassar Muhammad,VB Chikkannaiah,NA Maiolo,1,0,,,,,,"",""
+ball,1,3.6,Germany,VB Chikkannaiah,Mudassar Muhammad,NA Maiolo,1,0,,,,,,"",""
+ball,1,4.1,Germany,VB Chikkannaiah,Mudassar Muhammad,GRD Munasinghe,2,0,,,,,,"",""
+ball,1,4.2,Germany,VB Chikkannaiah,Mudassar Muhammad,GRD Munasinghe,3,0,,,,,,"",""
+ball,1,4.3,Germany,Mudassar Muhammad,VB Chikkannaiah,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,4.4,Germany,Mudassar Muhammad,VB Chikkannaiah,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,4.5,Germany,VB Chikkannaiah,Mudassar Muhammad,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,4.6,Germany,VB Chikkannaiah,Mudassar Muhammad,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,5.1,Germany,Mudassar Muhammad,VB Chikkannaiah,NA Maiolo,0,0,,,,,,"",""
+ball,1,5.2,Germany,Mudassar Muhammad,VB Chikkannaiah,NA Maiolo,0,0,,,,,,"",""
+ball,1,5.3,Germany,Mudassar Muhammad,VB Chikkannaiah,NA Maiolo,0,0,,,,,,"",""
+ball,1,5.4,Germany,Mudassar Muhammad,VB Chikkannaiah,NA Maiolo,1,0,,,,,,"",""
+ball,1,5.5,Germany,VB Chikkannaiah,Mudassar Muhammad,NA Maiolo,0,0,,,,,,"",""
+ball,1,5.6,Germany,VB Chikkannaiah,Mudassar Muhammad,NA Maiolo,2,0,,,,,,"",""
+ball,1,6.1,Germany,Mudassar Muhammad,VB Chikkannaiah,Baljit Singh,2,0,,,,,,"",""
+ball,1,6.2,Germany,Mudassar Muhammad,VB Chikkannaiah,Baljit Singh,1,0,,,,,,"",""
+ball,1,6.3,Germany,VB Chikkannaiah,Mudassar Muhammad,Baljit Singh,1,0,,,,,,"",""
+ball,1,6.4,Germany,Mudassar Muhammad,VB Chikkannaiah,Baljit Singh,0,0,,,,,,"",""
+ball,1,6.5,Germany,Mudassar Muhammad,VB Chikkannaiah,Baljit Singh,1,0,,,,,,"",""
+ball,1,6.6,Germany,VB Chikkannaiah,Mudassar Muhammad,Baljit Singh,1,0,,,,,,"",""
+ball,1,7.1,Germany,VB Chikkannaiah,Mudassar Muhammad,NA Maiolo,0,3,3,,,,,"",""
+ball,1,7.2,Germany,VB Chikkannaiah,Mudassar Muhammad,NA Maiolo,0,0,,,,,,bowled,VB Chikkannaiah
+ball,1,7.3,Germany,R Pillai,Mudassar Muhammad,NA Maiolo,0,0,,,,,,"",""
+ball,1,7.4,Germany,R Pillai,Mudassar Muhammad,NA Maiolo,0,0,,,,,,"",""
+ball,1,7.5,Germany,R Pillai,Mudassar Muhammad,NA Maiolo,0,0,,,,,,"",""
+ball,1,7.6,Germany,R Pillai,Mudassar Muhammad,NA Maiolo,0,0,,,,,,"",""
+ball,1,7.7,Germany,R Pillai,Mudassar Muhammad,NA Maiolo,0,0,,,,,,"",""
+ball,1,8.1,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,8.2,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,8.3,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,8.4,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,8.5,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,8.6,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,9.1,Germany,R Pillai,Mudassar Muhammad,MJ Ross,1,0,,,,,,"",""
+ball,1,9.2,Germany,Mudassar Muhammad,R Pillai,MJ Ross,0,0,,,,,,"",""
+ball,1,9.3,Germany,Mudassar Muhammad,R Pillai,MJ Ross,1,0,,,,,,"",""
+ball,1,9.4,Germany,R Pillai,Mudassar Muhammad,MJ Ross,1,0,,,,,,"",""
+ball,1,9.5,Germany,Mudassar Muhammad,R Pillai,MJ Ross,1,0,,,,,,"",""
+ball,1,9.6,Germany,R Pillai,Mudassar Muhammad,MJ Ross,0,0,,,,,,"",""
+ball,1,10.1,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,10.2,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,10.3,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,2,0,,,,,,"",""
+ball,1,10.4,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,10.5,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,10.6,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,11.1,Germany,Mudassar Muhammad,R Pillai,MJ Ross,1,0,,,,,,"",""
+ball,1,11.2,Germany,R Pillai,Mudassar Muhammad,MJ Ross,1,0,,,,,,"",""
+ball,1,11.3,Germany,Mudassar Muhammad,R Pillai,MJ Ross,1,0,,,,,,"",""
+ball,1,11.4,Germany,R Pillai,Mudassar Muhammad,MJ Ross,0,0,,,,,,"",""
+ball,1,11.5,Germany,R Pillai,Mudassar Muhammad,MJ Ross,1,0,,,,,,"",""
+ball,1,11.6,Germany,Mudassar Muhammad,R Pillai,MJ Ross,6,0,,,,,,"",""
+ball,1,12.1,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,12.2,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,12.3,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,12.4,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,2,0,,,,,,"",""
+ball,1,12.5,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,12.6,Germany,Mudassar Muhammad,R Pillai,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,13.1,Germany,Mudassar Muhammad,R Pillai,Baljit Singh,1,0,,,,,,"",""
+ball,1,13.2,Germany,R Pillai,Mudassar Muhammad,Baljit Singh,0,0,,,,,,"",""
+ball,1,13.3,Germany,R Pillai,Mudassar Muhammad,Baljit Singh,1,0,,,,,,"",""
+ball,1,13.4,Germany,Mudassar Muhammad,R Pillai,Baljit Singh,0,1,,,1,,,"",""
+ball,1,13.5,Germany,R Pillai,Mudassar Muhammad,Baljit Singh,1,0,,,,,,"",""
+ball,1,13.6,Germany,Mudassar Muhammad,R Pillai,Baljit Singh,0,1,1,,,,,"",""
+ball,1,13.7,Germany,Mudassar Muhammad,R Pillai,Baljit Singh,0,0,,,,,,"",""
+ball,1,14.1,Germany,R Pillai,Mudassar Muhammad,Rakibul Hasan,0,0,,,,,,caught,R Pillai
+ball,1,14.2,Germany,Amir Mangal,Mudassar Muhammad,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,14.3,Germany,Amir Mangal,Mudassar Muhammad,Rakibul Hasan,1,0,,,,,,"",""
+ball,1,14.4,Germany,Mudassar Muhammad,Amir Mangal,Rakibul Hasan,0,0,,,,,,caught,Mudassar Muhammad
+ball,1,14.5,Germany,Amir Mangal,Ahmed Wardak,Rakibul Hasan,0,0,,,,,,"",""
+ball,1,14.6,Germany,Amir Mangal,Ahmed Wardak,Rakibul Hasan,6,0,,,,,,"",""
+ball,1,15.1,Germany,Ahmed Wardak,Amir Mangal,S Arachchige,1,0,,,,,,"",""
+ball,1,15.2,Germany,Amir Mangal,Ahmed Wardak,S Arachchige,0,0,,,,,,"",""
+ball,1,15.3,Germany,Amir Mangal,Ahmed Wardak,S Arachchige,0,0,,,,,,caught,Amir Mangal
+ball,1,15.4,Germany,Ahmed Wardak,Sahir Naqash,S Arachchige,0,0,,,,,,"",""
+ball,1,15.5,Germany,Ahmed Wardak,Sahir Naqash,S Arachchige,0,0,,,,,,caught,Ahmed Wardak
+ball,1,15.6,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,S Arachchige,2,0,,,,,,"",""
+ball,1,16.1,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,16.2,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,GRD Munasinghe,0,1,1,,,,,"",""
+ball,1,16.3,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,16.4,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,16.5,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,2,0,,,,,,"",""
+ball,1,16.6,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,16.7,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,17.1,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,S Arachchige,2,0,,,,,,"",""
+ball,1,17.2,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,S Arachchige,1,0,,,,,,"",""
+ball,1,17.3,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,S Arachchige,6,0,,,,,,"",""
+ball,1,17.4,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,S Arachchige,1,0,,,,,,"",""
+ball,1,17.5,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,S Arachchige,0,0,,,,,,"",""
+ball,1,17.6,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,S Arachchige,2,0,,,,,,"",""
+ball,1,18.1,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,GRD Munasinghe,0,0,,,,,,"",""
+ball,1,18.2,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,18.3,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,1,0,,,,,,"",""
+ball,1,18.4,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,GRD Munasinghe,3,0,,,,,,"",""
+ball,1,18.5,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,4,0,,,,,,"",""
+ball,1,18.6,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,GRD Munasinghe,2,0,,,,,,"",""
+ball,1,19.1,Germany,Abdul-Shakoor Rahimzei,Sahir Naqash,Baljit Singh,1,0,,,,,,"",""
+ball,1,19.2,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,Baljit Singh,2,0,,,,,,"",""
+ball,1,19.3,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,Baljit Singh,6,0,,,,,,"",""
+ball,1,19.4,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,Baljit Singh,6,0,,,,,,"",""
+ball,1,19.5,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,Baljit Singh,2,0,,,,,,"",""
+ball,1,19.6,Germany,Sahir Naqash,Abdul-Shakoor Rahimzei,Baljit Singh,6,0,,,,,,"",""
+ball,2,0.1,Italy,GP Meade,BBJL Perera,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,0.2,Italy,GP Meade,BBJL Perera,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,0.3,Italy,BBJL Perera,GP Meade,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,0.4,Italy,BBJL Perera,GP Meade,Izatullah Dawlatzai,4,0,,,,,,"",""
+ball,2,0.5,Italy,BBJL Perera,GP Meade,Izatullah Dawlatzai,4,0,,,,,,"",""
+ball,2,0.6,Italy,BBJL Perera,GP Meade,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,1.1,Italy,GP Meade,BBJL Perera,Muslim Yar,1,0,,,,,,"",""
+ball,2,1.2,Italy,BBJL Perera,GP Meade,Muslim Yar,1,0,,,,,,"",""
+ball,2,1.3,Italy,GP Meade,BBJL Perera,Muslim Yar,3,0,,,,,,"",""
+ball,2,1.4,Italy,BBJL Perera,GP Meade,Muslim Yar,0,0,,,,,,"",""
+ball,2,1.5,Italy,BBJL Perera,GP Meade,Muslim Yar,1,0,,,,,,"",""
+ball,2,1.6,Italy,GP Meade,BBJL Perera,Muslim Yar,0,0,,,,,,"",""
+ball,2,2.1,Italy,BBJL Perera,GP Meade,Izatullah Dawlatzai,4,0,,,,,,"",""
+ball,2,2.2,Italy,BBJL Perera,GP Meade,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,2.3,Italy,GP Meade,BBJL Perera,Izatullah Dawlatzai,4,0,,,,,,"",""
+ball,2,2.4,Italy,GP Meade,BBJL Perera,Izatullah Dawlatzai,3,0,,,,,,"",""
+ball,2,2.5,Italy,BBJL Perera,GP Meade,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,2.6,Italy,GP Meade,BBJL Perera,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,3.1,Italy,GP Meade,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,3.2,Italy,GP Meade,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,3.3,Italy,GP Meade,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,3.4,Italy,GP Meade,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,3.5,Italy,GP Meade,BBJL Perera,Ahmed Wardak,0,1,1,,,,,"",""
+ball,2,3.6,Italy,GP Meade,BBJL Perera,Ahmed Wardak,0,0,,,,,,caught,GP Meade
+ball,2,3.7,Italy,NA Maiolo,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,4.1,Italy,BBJL Perera,NA Maiolo,Muslim Yar,0,0,,,,,,"",""
+ball,2,4.2,Italy,BBJL Perera,NA Maiolo,Muslim Yar,4,0,,,,,,"",""
+ball,2,4.3,Italy,BBJL Perera,NA Maiolo,Muslim Yar,2,0,,,,,,"",""
+ball,2,4.4,Italy,BBJL Perera,NA Maiolo,Muslim Yar,4,0,,,,,,"",""
+ball,2,4.5,Italy,BBJL Perera,NA Maiolo,Muslim Yar,6,0,,,,,,"",""
+ball,2,4.6,Italy,BBJL Perera,NA Maiolo,Muslim Yar,0,0,,,,,,"",""
+ball,2,5.1,Italy,NA Maiolo,BBJL Perera,Ahmed Wardak,1,0,,,,,,"",""
+ball,2,5.2,Italy,BBJL Perera,NA Maiolo,Ahmed Wardak,1,0,,,,,,"",""
+ball,2,5.3,Italy,NA Maiolo,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,5.4,Italy,NA Maiolo,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,5.5,Italy,NA Maiolo,BBJL Perera,Ahmed Wardak,0,0,,,,,,caught,NA Maiolo
+ball,2,5.6,Italy,Rehman Abdul,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,6.1,Italy,BBJL Perera,Rehman Abdul,Sahir Naqash,0,2,,1,1,,,"",""
+ball,2,6.2,Italy,Rehman Abdul,BBJL Perera,Sahir Naqash,0,3,3,,,,,"",""
+ball,2,6.3,Italy,Rehman Abdul,BBJL Perera,Sahir Naqash,0,0,,,,,,"",""
+ball,2,6.4,Italy,Rehman Abdul,BBJL Perera,Sahir Naqash,1,0,,,,,,"",""
+ball,2,6.5,Italy,BBJL Perera,Rehman Abdul,Sahir Naqash,6,0,,,,,,"",""
+ball,2,6.6,Italy,BBJL Perera,Rehman Abdul,Sahir Naqash,4,0,,,,,,"",""
+ball,2,6.7,Italy,BBJL Perera,Rehman Abdul,Sahir Naqash,0,0,,,,,,"",""
+ball,2,6.8,Italy,BBJL Perera,Rehman Abdul,Sahir Naqash,4,0,,,,,,"",""
+ball,2,7.1,Italy,Rehman Abdul,BBJL Perera,Ahmed Wardak,1,0,,,,,,"",""
+ball,2,7.2,Italy,BBJL Perera,Rehman Abdul,Ahmed Wardak,1,0,,,,,,"",""
+ball,2,7.3,Italy,Rehman Abdul,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,7.4,Italy,Rehman Abdul,BBJL Perera,Ahmed Wardak,0,0,,,,,,"",""
+ball,2,7.5,Italy,Rehman Abdul,BBJL Perera,Ahmed Wardak,1,0,,,,,,"",""
+ball,2,7.6,Italy,BBJL Perera,Rehman Abdul,Ahmed Wardak,2,0,,,,,,"",""
+ball,2,8.1,Italy,Rehman Abdul,BBJL Perera,Asad Mohammad,1,0,,,,,,"",""
+ball,2,8.2,Italy,BBJL Perera,Rehman Abdul,Asad Mohammad,6,0,,,,,,"",""
+ball,2,8.3,Italy,BBJL Perera,Rehman Abdul,Asad Mohammad,0,0,,,,,,"",""
+ball,2,8.4,Italy,BBJL Perera,Rehman Abdul,Asad Mohammad,0,0,,,,,,"",""
+ball,2,8.5,Italy,BBJL Perera,Rehman Abdul,Asad Mohammad,4,0,,,,,,"",""
+ball,2,8.6,Italy,BBJL Perera,Rehman Abdul,Asad Mohammad,0,5,5,,,,,"",""
+ball,2,8.7,Italy,BBJL Perera,Rehman Abdul,Asad Mohammad,1,0,,,,,,"",""
+ball,2,9.1,Italy,BBJL Perera,Rehman Abdul,Amir Mangal,4,0,,,,,,"",""
+ball,2,9.2,Italy,BBJL Perera,Rehman Abdul,Amir Mangal,1,0,,,,,,"",""
+ball,2,9.3,Italy,Rehman Abdul,BBJL Perera,Amir Mangal,2,0,,,,,,"",""
+ball,2,9.4,Italy,Rehman Abdul,BBJL Perera,Amir Mangal,0,0,,,,,,"",""
+ball,2,9.5,Italy,Rehman Abdul,BBJL Perera,Amir Mangal,0,0,,,,,,"",""
+ball,2,9.6,Italy,Rehman Abdul,BBJL Perera,Amir Mangal,2,0,,,,,,"",""
+ball,2,10.1,Italy,BBJL Perera,Rehman Abdul,Abdul-Shakoor Rahimzei,1,0,,,,,,"",""
+ball,2,10.2,Italy,Rehman Abdul,BBJL Perera,Abdul-Shakoor Rahimzei,1,0,,,,,,"",""
+ball,2,10.3,Italy,BBJL Perera,Rehman Abdul,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,10.4,Italy,BBJL Perera,Rehman Abdul,Abdul-Shakoor Rahimzei,0,0,,,,,,caught and bowled,BBJL Perera
+ball,2,10.5,Italy,Rehman Abdul,Rakibul Hasan,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,10.6,Italy,Rehman Abdul,Rakibul Hasan,Abdul-Shakoor Rahimzei,5,0,,,,,,"",""
+ball,2,11.1,Italy,Rehman Abdul,Rakibul Hasan,Amir Mangal,1,0,,,,,,"",""
+ball,2,11.2,Italy,Rakibul Hasan,Rehman Abdul,Amir Mangal,2,0,,,,,,"",""
+ball,2,11.3,Italy,Rakibul Hasan,Rehman Abdul,Amir Mangal,1,0,,,,,,"",""
+ball,2,11.4,Italy,Rehman Abdul,Rakibul Hasan,Amir Mangal,1,0,,,,,,"",""
+ball,2,11.5,Italy,Rakibul Hasan,Rehman Abdul,Amir Mangal,0,0,,,,,,"",""
+ball,2,11.6,Italy,Rakibul Hasan,Rehman Abdul,Amir Mangal,0,0,,,,,,"",""
+ball,2,12.1,Italy,Rehman Abdul,Rakibul Hasan,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,12.2,Italy,Rakibul Hasan,Rehman Abdul,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,12.3,Italy,Rehman Abdul,Rakibul Hasan,Izatullah Dawlatzai,0,1,1,,,,,"",""
+ball,2,12.4,Italy,Rehman Abdul,Rakibul Hasan,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,12.5,Italy,Rehman Abdul,Rakibul Hasan,Izatullah Dawlatzai,2,0,,,,,,"",""
+ball,2,12.6,Italy,Rehman Abdul,Rakibul Hasan,Izatullah Dawlatzai,0,1,,,,1,,"",""
+ball,2,12.7,Italy,Rakibul Hasan,Rehman Abdul,Izatullah Dawlatzai,0,1,,,,1,,"",""
+ball,2,13.1,Italy,Rakibul Hasan,Rehman Abdul,Amir Mangal,0,0,,,,,,caught,Rakibul Hasan
+ball,2,13.2,Italy,Rehman Abdul,MJ Ross,Amir Mangal,1,0,,,,,,"",""
+ball,2,13.3,Italy,MJ Ross,Rehman Abdul,Amir Mangal,0,0,,,,,,"",""
+ball,2,13.4,Italy,MJ Ross,Rehman Abdul,Amir Mangal,0,0,,,,,,"",""
+ball,2,13.5,Italy,MJ Ross,Rehman Abdul,Amir Mangal,1,0,,,,,,"",""
+ball,2,13.6,Italy,Rehman Abdul,MJ Ross,Amir Mangal,1,0,,,,,,"",""
+ball,2,14.1,Italy,Rehman Abdul,MJ Ross,Izatullah Dawlatzai,4,0,,,,,,"",""
+ball,2,14.2,Italy,Rehman Abdul,MJ Ross,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,14.3,Italy,MJ Ross,Rehman Abdul,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,14.4,Italy,Rehman Abdul,MJ Ross,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,14.5,Italy,MJ Ross,Rehman Abdul,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,14.6,Italy,MJ Ross,Rehman Abdul,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,15.1,Italy,Rehman Abdul,MJ Ross,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,15.2,Italy,Rehman Abdul,MJ Ross,Abdul-Shakoor Rahimzei,1,0,,,,,,"",""
+ball,2,15.3,Italy,MJ Ross,Rehman Abdul,Abdul-Shakoor Rahimzei,6,0,,,,,,"",""

@@ -1,0 +1,293 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Botswana
+info,gender,female
+info,season,2022
+info,date,2022/06/10
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,5
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,Zinaida Jeremiah
+info,umpire,Gaston Niyibizi
+info,umpire,Vicky Prajapati
+info,reserve_umpire,Itangishaka Olivier
+info,winner,Tanzania
+info,winner_runs,57
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,S Mtae
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,HM Omary
+info,player,Tanzania,NN Saidi
+info,player,Tanzania,MA Swedy
+info,player,Tanzania,SF Jerome
+info,player,Tanzania,Zinaida Jeremiah
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,AS Qwele
+info,player,Tanzania,T Shabani
+info,player,Botswana,F Samanyika
+info,player,Botswana,O Batisani
+info,player,Botswana,S Mosweu
+info,player,Botswana,T Modise
+info,player,Botswana,L Mophakedi
+info,player,Botswana,T Shadrack
+info,player,Botswana,G Matome
+info,player,Botswana,T Motlhabaphuti
+info,player,Botswana,T Legaabile
+info,player,Botswana,O Kgeresi
+info,player,Botswana,M Ramafifi
+info,registry,people,AS Qwele,26b3df21
+info,registry,people,F Samanyika,c42eed38
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,G Matome,a6898f7a
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,M Ramafifi,40d1b7bd
+info,registry,people,MA Swedy,202ce08c
+info,registry,people,NN Saidi,16610c7b
+info,registry,people,O Batisani,7ff6c967
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,S Mosweu,10726a80
+info,registry,people,S Mtae,bb641155
+info,registry,people,SF Jerome,e393c6c1
+info,registry,people,SH Mohamedi,10ab6a37
+info,registry,people,T Legaabile,c7e59109
+info,registry,people,T Modise,4569f6c7
+info,registry,people,T Motlhabaphuti,1fb3e04f
+info,registry,people,T Shabani,2c83f1f7
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,Vicky Prajapati,8926ed4e
+info,registry,people,Zinaida Jeremiah,967806a5
+ball,1,0.1,Tanzania,FO Kibasu,S Mtae,T Shadrack,0,0,,,,,,"",""
+ball,1,0.2,Tanzania,FO Kibasu,S Mtae,T Shadrack,0,0,,,,,,"",""
+ball,1,0.3,Tanzania,FO Kibasu,S Mtae,T Shadrack,4,0,,,,,,"",""
+ball,1,0.4,Tanzania,FO Kibasu,S Mtae,T Shadrack,0,0,,,,,,"",""
+ball,1,0.5,Tanzania,FO Kibasu,S Mtae,T Shadrack,0,0,,,,,,"",""
+ball,1,0.6,Tanzania,FO Kibasu,S Mtae,T Shadrack,1,0,,,,,,"",""
+ball,1,1.1,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,1.2,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,1,1,,,,,"",""
+ball,1,1.3,Tanzania,FO Kibasu,S Mtae,T Legaabile,4,0,,,,,,"",""
+ball,1,1.4,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,1,1,,,,,"",""
+ball,1,1.5,Tanzania,FO Kibasu,S Mtae,T Legaabile,1,0,,,,,,"",""
+ball,1,1.6,Tanzania,S Mtae,FO Kibasu,T Legaabile,1,0,,,,,,"",""
+ball,1,1.7,Tanzania,FO Kibasu,S Mtae,T Legaabile,2,0,,,,,,"",""
+ball,1,1.8,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,2.1,Tanzania,S Mtae,FO Kibasu,T Shadrack,0,1,,,1,,,"",""
+ball,1,2.2,Tanzania,FO Kibasu,S Mtae,T Shadrack,2,0,,,,,,"",""
+ball,1,2.3,Tanzania,FO Kibasu,S Mtae,T Shadrack,0,0,,,,,,"",""
+ball,1,2.4,Tanzania,FO Kibasu,S Mtae,T Shadrack,4,0,,,,,,"",""
+ball,1,2.5,Tanzania,FO Kibasu,S Mtae,T Shadrack,1,0,,,,,,"",""
+ball,1,2.6,Tanzania,S Mtae,FO Kibasu,T Shadrack,4,0,,,,,,"",""
+ball,1,3.1,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,3.2,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,3.3,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,3.4,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,3.5,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,3.6,Tanzania,FO Kibasu,S Mtae,T Legaabile,0,0,,,,,,"",""
+ball,1,4.1,Tanzania,S Mtae,FO Kibasu,F Samanyika,0,0,,,,,,bowled,S Mtae
+ball,1,4.2,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,0,0,,,,,,"",""
+ball,1,4.3,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,2,0,,,,,,"",""
+ball,1,4.4,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,1,0,,,,,,"",""
+ball,1,4.5,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,0,0,,,,,,"",""
+ball,1,4.6,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,0,0,,,,,,"",""
+ball,1,5.1,Tanzania,SH Mohamedi,FO Kibasu,T Legaabile,0,0,,,,,,"",""
+ball,1,5.2,Tanzania,SH Mohamedi,FO Kibasu,T Legaabile,4,0,,,,,,"",""
+ball,1,5.3,Tanzania,SH Mohamedi,FO Kibasu,T Legaabile,4,0,,,,,,"",""
+ball,1,5.4,Tanzania,SH Mohamedi,FO Kibasu,T Legaabile,0,0,,,,,,"",""
+ball,1,5.5,Tanzania,SH Mohamedi,FO Kibasu,T Legaabile,0,0,,,,,,"",""
+ball,1,5.6,Tanzania,SH Mohamedi,FO Kibasu,T Legaabile,4,0,,,,,,"",""
+ball,1,6.1,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,0,0,,,,,,"",""
+ball,1,6.2,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,4,0,,,,,,"",""
+ball,1,6.3,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,0,0,,,,,,"",""
+ball,1,6.4,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,1,0,,,,,,"",""
+ball,1,6.5,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,3,0,,,,,,"",""
+ball,1,6.6,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,0,0,,,,,,"",""
+ball,1,7.1,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,4,0,,,,,,"",""
+ball,1,7.2,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,0,0,,,,,,"",""
+ball,1,7.3,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,1,0,,,,,,"",""
+ball,1,7.4,Tanzania,FO Kibasu,SH Mohamedi,S Mosweu,1,0,,,,,,"",""
+ball,1,7.5,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,1,0,,,,,,"",""
+ball,1,7.6,Tanzania,FO Kibasu,SH Mohamedi,S Mosweu,0,0,,,,,,"",""
+ball,1,8.1,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,0,0,,,,,,"",""
+ball,1,8.2,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,1,0,,,,,,"",""
+ball,1,8.3,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,1,0,,,,,,"",""
+ball,1,8.4,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,0,0,,,,,,"",""
+ball,1,8.5,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,0,0,,,,,,"",""
+ball,1,8.6,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,1,0,,,,,,"",""
+ball,1,9.1,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,0,0,,,,,,"",""
+ball,1,9.2,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,0,0,,,,,,"",""
+ball,1,9.3,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,2,0,,,,,,"",""
+ball,1,9.4,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,0,0,,,,,,"",""
+ball,1,9.5,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,0,0,,,,,,"",""
+ball,1,9.6,Tanzania,SH Mohamedi,FO Kibasu,S Mosweu,0,0,,,,,,"",""
+ball,1,10.1,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,0,0,,,,,,"",""
+ball,1,10.2,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,0,0,,,,,,"",""
+ball,1,10.3,Tanzania,FO Kibasu,SH Mohamedi,F Samanyika,1,0,,,,,,"",""
+ball,1,10.4,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,0,1,1,,,,,"",""
+ball,1,10.5,Tanzania,SH Mohamedi,FO Kibasu,F Samanyika,0,0,,,,,,bowled,SH Mohamedi
+ball,1,10.6,Tanzania,HM Omary,FO Kibasu,F Samanyika,0,0,,,,,,"",""
+ball,1,10.7,Tanzania,HM Omary,FO Kibasu,F Samanyika,4,0,,,,,,"",""
+ball,1,11.1,Tanzania,FO Kibasu,HM Omary,G Matome,1,0,,,,,,"",""
+ball,1,11.2,Tanzania,HM Omary,FO Kibasu,G Matome,1,0,,,,,,"",""
+ball,1,11.3,Tanzania,FO Kibasu,HM Omary,G Matome,0,0,,,,,,"",""
+ball,1,11.4,Tanzania,FO Kibasu,HM Omary,G Matome,0,1,,,1,,,"",""
+ball,1,11.5,Tanzania,HM Omary,FO Kibasu,G Matome,2,0,,,,,,"",""
+ball,1,11.6,Tanzania,HM Omary,FO Kibasu,G Matome,0,0,,,,,,"",""
+ball,1,12.1,Tanzania,FO Kibasu,HM Omary,S Mosweu,0,0,,,,,,"",""
+ball,1,12.2,Tanzania,FO Kibasu,HM Omary,S Mosweu,0,0,,,,,,"",""
+ball,1,12.3,Tanzania,FO Kibasu,HM Omary,S Mosweu,2,0,,,,,,"",""
+ball,1,12.4,Tanzania,FO Kibasu,HM Omary,S Mosweu,1,0,,,,,,"",""
+ball,1,12.5,Tanzania,HM Omary,FO Kibasu,S Mosweu,0,0,,,,,,"",""
+ball,1,12.6,Tanzania,HM Omary,FO Kibasu,S Mosweu,1,0,,,,,,"",""
+ball,1,13.1,Tanzania,HM Omary,FO Kibasu,G Matome,1,0,,,,,,"",""
+ball,1,13.2,Tanzania,FO Kibasu,HM Omary,G Matome,2,0,,,,,,"",""
+ball,1,13.3,Tanzania,FO Kibasu,HM Omary,G Matome,4,0,,,,,,"",""
+ball,1,13.4,Tanzania,FO Kibasu,HM Omary,G Matome,1,0,,,,,,"",""
+ball,1,13.5,Tanzania,HM Omary,FO Kibasu,G Matome,0,0,,,,,,"",""
+ball,1,13.6,Tanzania,HM Omary,FO Kibasu,G Matome,0,0,,,,,,"",""
+ball,1,14.1,Tanzania,FO Kibasu,HM Omary,S Mosweu,1,0,,,,,,"",""
+ball,1,14.2,Tanzania,FO Kibasu,HM Omary,S Mosweu,0,0,,,,,,"",""
+ball,1,14.3,Tanzania,FO Kibasu,HM Omary,S Mosweu,1,0,,,,,,"",""
+ball,1,14.4,Tanzania,HM Omary,FO Kibasu,S Mosweu,1,0,,,,,,"",""
+ball,1,14.5,Tanzania,FO Kibasu,HM Omary,S Mosweu,2,0,,,,,,"",""
+ball,1,14.6,Tanzania,FO Kibasu,HM Omary,S Mosweu,0,0,,,,,,"",""
+ball,1,15.1,Tanzania,HM Omary,FO Kibasu,G Matome,0,0,,,,,,"",""
+ball,1,15.2,Tanzania,HM Omary,FO Kibasu,G Matome,0,0,,,,,,"",""
+ball,1,15.3,Tanzania,HM Omary,FO Kibasu,G Matome,0,0,,,,,,"",""
+ball,1,15.4,Tanzania,HM Omary,FO Kibasu,G Matome,2,0,,,,,,"",""
+ball,1,15.5,Tanzania,HM Omary,FO Kibasu,G Matome,0,0,,,,,,"",""
+ball,1,15.6,Tanzania,HM Omary,FO Kibasu,G Matome,2,0,,,,,,"",""
+ball,1,16.1,Tanzania,FO Kibasu,HM Omary,T Motlhabaphuti,2,0,,,,,,"",""
+ball,1,16.2,Tanzania,FO Kibasu,HM Omary,T Motlhabaphuti,0,0,,,,,,bowled,FO Kibasu
+ball,1,16.3,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,0,0,,,,,,"",""
+ball,1,16.4,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,2,0,,,,,,"",""
+ball,1,16.5,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,0,0,,,,,,"",""
+ball,1,16.6,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,1,0,,,,,,"",""
+ball,1,17.1,Tanzania,NN Saidi,HM Omary,G Matome,1,0,,,,,,"",""
+ball,1,17.2,Tanzania,HM Omary,NN Saidi,G Matome,2,0,,,,,,"",""
+ball,1,17.3,Tanzania,HM Omary,NN Saidi,G Matome,1,0,,,,,,"",""
+ball,1,17.4,Tanzania,NN Saidi,HM Omary,G Matome,0,0,,,,,,"",""
+ball,1,17.5,Tanzania,NN Saidi,HM Omary,G Matome,1,0,,,,,,"",""
+ball,1,17.6,Tanzania,HM Omary,NN Saidi,G Matome,0,0,,,,,,"",""
+ball,1,18.1,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,2,0,,,,,,"",""
+ball,1,18.2,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,2,0,,,,,,"",""
+ball,1,18.3,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,0,0,,,,,,"",""
+ball,1,18.4,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,1,1,,1,,,,"",""
+ball,1,18.5,Tanzania,HM Omary,NN Saidi,T Motlhabaphuti,1,0,,,,,,"",""
+ball,1,18.6,Tanzania,NN Saidi,HM Omary,T Motlhabaphuti,1,0,,,,,,"",""
+ball,1,18.7,Tanzania,HM Omary,NN Saidi,T Motlhabaphuti,0,1,,,1,,,"",""
+ball,1,19.1,Tanzania,HM Omary,NN Saidi,T Legaabile,2,0,,,,,,"",""
+ball,1,19.2,Tanzania,HM Omary,NN Saidi,T Legaabile,0,0,,,,,,"",""
+ball,1,19.3,Tanzania,HM Omary,NN Saidi,T Legaabile,0,0,,,,,,"",""
+ball,1,19.4,Tanzania,HM Omary,NN Saidi,T Legaabile,0,0,,,,,,run out,HM Omary
+ball,1,19.5,Tanzania,MA Swedy,NN Saidi,T Legaabile,2,0,,,,,,"",""
+ball,1,19.6,Tanzania,MA Swedy,NN Saidi,T Legaabile,2,0,,,,,,"",""
+ball,2,0.1,Botswana,F Samanyika,O Batisani,NN Saidi,0,0,,,,,,"",""
+ball,2,0.2,Botswana,F Samanyika,O Batisani,NN Saidi,1,0,,,,,,"",""
+ball,2,0.3,Botswana,O Batisani,F Samanyika,NN Saidi,0,0,,,,,,"",""
+ball,2,0.4,Botswana,O Batisani,F Samanyika,NN Saidi,0,0,,,,,,"",""
+ball,2,0.5,Botswana,O Batisani,F Samanyika,NN Saidi,2,0,,,,,,"",""
+ball,2,0.6,Botswana,O Batisani,F Samanyika,NN Saidi,2,0,,,,,,"",""
+ball,2,1.1,Botswana,F Samanyika,O Batisani,AS Qwele,0,5,5,,,,,"",""
+ball,2,1.2,Botswana,F Samanyika,O Batisani,AS Qwele,1,0,,,,,,"",""
+ball,2,1.3,Botswana,O Batisani,F Samanyika,AS Qwele,0,1,,1,,,,"",""
+ball,2,1.4,Botswana,O Batisani,F Samanyika,AS Qwele,1,0,,,,,,"",""
+ball,2,1.5,Botswana,F Samanyika,O Batisani,AS Qwele,0,1,1,,,,,"",""
+ball,2,1.6,Botswana,F Samanyika,O Batisani,AS Qwele,0,1,,,,1,,"",""
+ball,2,1.7,Botswana,O Batisani,F Samanyika,AS Qwele,0,0,,,,,,"",""
+ball,2,1.8,Botswana,O Batisani,F Samanyika,AS Qwele,0,0,,,,,,caught,O Batisani
+ball,2,1.9,Botswana,S Mosweu,F Samanyika,AS Qwele,0,0,,,,,,"",""
+ball,2,2.1,Botswana,F Samanyika,S Mosweu,NN Saidi,0,0,,,,,,"",""
+ball,2,2.2,Botswana,F Samanyika,S Mosweu,NN Saidi,0,0,,,,,,"",""
+ball,2,2.3,Botswana,F Samanyika,S Mosweu,NN Saidi,0,0,,,,,,"",""
+ball,2,2.4,Botswana,F Samanyika,S Mosweu,NN Saidi,1,0,,,,,,"",""
+ball,2,2.5,Botswana,S Mosweu,F Samanyika,NN Saidi,0,1,1,,,,,"",""
+ball,2,2.6,Botswana,S Mosweu,F Samanyika,NN Saidi,2,0,,,,,,"",""
+ball,2,2.7,Botswana,S Mosweu,F Samanyika,NN Saidi,4,0,,,,,,"",""
+ball,2,3.1,Botswana,F Samanyika,S Mosweu,PZ Kamunya,0,0,,,,,,"",""
+ball,2,3.2,Botswana,F Samanyika,S Mosweu,PZ Kamunya,0,0,,,,,,"",""
+ball,2,3.3,Botswana,F Samanyika,S Mosweu,PZ Kamunya,0,1,1,,,,,"",""
+ball,2,3.4,Botswana,F Samanyika,S Mosweu,PZ Kamunya,0,0,,,,,,"",""
+ball,2,3.5,Botswana,F Samanyika,S Mosweu,PZ Kamunya,4,0,,,,,,"",""
+ball,2,3.6,Botswana,F Samanyika,S Mosweu,PZ Kamunya,0,0,,,,,,"",""
+ball,2,3.7,Botswana,F Samanyika,S Mosweu,PZ Kamunya,0,0,,,,,,"",""
+ball,2,4.1,Botswana,S Mosweu,F Samanyika,Zinaida Jeremiah,4,0,,,,,,"",""
+ball,2,4.2,Botswana,S Mosweu,F Samanyika,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,4.3,Botswana,S Mosweu,F Samanyika,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,4.4,Botswana,S Mosweu,F Samanyika,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,4.5,Botswana,S Mosweu,F Samanyika,Zinaida Jeremiah,0,0,,,,,,caught,S Mosweu
+ball,2,4.6,Botswana,F Samanyika,T Modise,Zinaida Jeremiah,1,0,,,,,,"",""
+ball,2,5.1,Botswana,F Samanyika,T Modise,PZ Kamunya,0,0,,,,,,"",""
+ball,2,5.2,Botswana,F Samanyika,T Modise,PZ Kamunya,0,0,,,,,,"",""
+ball,2,5.3,Botswana,F Samanyika,T Modise,PZ Kamunya,0,0,,,,,,run out,F Samanyika
+ball,2,5.4,Botswana,T Modise,L Mophakedi,PZ Kamunya,1,0,,,,,,"",""
+ball,2,5.5,Botswana,L Mophakedi,T Modise,PZ Kamunya,0,0,,,,,,"",""
+ball,2,5.6,Botswana,L Mophakedi,T Modise,PZ Kamunya,1,0,,,,,,"",""
+ball,2,6.1,Botswana,L Mophakedi,T Modise,Zinaida Jeremiah,0,0,,,,,,caught,L Mophakedi
+ball,2,6.2,Botswana,T Shadrack,T Modise,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,6.3,Botswana,T Shadrack,T Modise,Zinaida Jeremiah,1,0,,,,,,"",""
+ball,2,6.4,Botswana,T Modise,T Shadrack,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,6.5,Botswana,T Modise,T Shadrack,Zinaida Jeremiah,1,0,,,,,,"",""
+ball,2,6.6,Botswana,T Shadrack,T Modise,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,7.1,Botswana,T Modise,T Shadrack,PZ Kamunya,0,0,,,,,,"",""
+ball,2,7.2,Botswana,T Modise,T Shadrack,PZ Kamunya,0,0,,,,,,bowled,T Modise
+ball,2,7.3,Botswana,G Matome,T Shadrack,PZ Kamunya,0,0,,,,,,"",""
+ball,2,7.4,Botswana,G Matome,T Shadrack,PZ Kamunya,0,0,,,,,,lbw,G Matome
+ball,2,7.5,Botswana,T Motlhabaphuti,T Shadrack,PZ Kamunya,0,0,,,,,,"",""
+ball,2,7.6,Botswana,T Motlhabaphuti,T Shadrack,PZ Kamunya,0,0,,,,,,"",""
+ball,2,8.1,Botswana,T Shadrack,T Motlhabaphuti,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,8.2,Botswana,T Shadrack,T Motlhabaphuti,Zinaida Jeremiah,1,0,,,,,,"",""
+ball,2,8.3,Botswana,T Motlhabaphuti,T Shadrack,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,8.4,Botswana,T Motlhabaphuti,T Shadrack,Zinaida Jeremiah,0,0,,,,,,caught,T Motlhabaphuti
+ball,2,8.5,Botswana,T Shadrack,T Legaabile,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,8.6,Botswana,T Shadrack,T Legaabile,Zinaida Jeremiah,1,0,,,,,,"",""
+ball,2,9.1,Botswana,T Shadrack,T Legaabile,PZ Kamunya,0,0,,,,,,"",""
+ball,2,9.2,Botswana,T Shadrack,T Legaabile,PZ Kamunya,1,0,,,,,,"",""
+ball,2,9.3,Botswana,T Legaabile,T Shadrack,PZ Kamunya,1,0,,,,,,"",""
+ball,2,9.4,Botswana,T Shadrack,T Legaabile,PZ Kamunya,0,0,,,,,,"",""
+ball,2,9.5,Botswana,T Shadrack,T Legaabile,PZ Kamunya,1,0,,,,,,"",""
+ball,2,9.6,Botswana,T Legaabile,T Shadrack,PZ Kamunya,0,0,,,,,,"",""
+ball,2,10.1,Botswana,T Shadrack,T Legaabile,Zinaida Jeremiah,4,0,,,,,,"",""
+ball,2,10.2,Botswana,T Shadrack,T Legaabile,Zinaida Jeremiah,0,0,,,,,,caught,T Shadrack
+ball,2,10.3,Botswana,O Kgeresi,T Legaabile,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,10.4,Botswana,O Kgeresi,T Legaabile,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,10.5,Botswana,O Kgeresi,T Legaabile,Zinaida Jeremiah,0,0,,,,,,"",""
+ball,2,10.6,Botswana,O Kgeresi,T Legaabile,Zinaida Jeremiah,1,0,,,,,,"",""
+ball,2,11.1,Botswana,O Kgeresi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,11.2,Botswana,O Kgeresi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,11.3,Botswana,O Kgeresi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,11.4,Botswana,O Kgeresi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,11.5,Botswana,O Kgeresi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,11.6,Botswana,O Kgeresi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,12.1,Botswana,T Legaabile,O Kgeresi,FO Kibasu,1,0,,,,,,"",""
+ball,2,12.2,Botswana,O Kgeresi,T Legaabile,FO Kibasu,1,0,,,,,,"",""
+ball,2,12.3,Botswana,T Legaabile,O Kgeresi,FO Kibasu,0,1,1,,,,,"",""
+ball,2,12.4,Botswana,T Legaabile,O Kgeresi,FO Kibasu,0,0,,,,,,"",""
+ball,2,12.5,Botswana,T Legaabile,O Kgeresi,FO Kibasu,1,0,,,,,,"",""
+ball,2,12.6,Botswana,O Kgeresi,T Legaabile,FO Kibasu,0,0,,,,,,"",""
+ball,2,12.7,Botswana,O Kgeresi,T Legaabile,FO Kibasu,0,0,,,,,,"",""
+ball,2,13.1,Botswana,T Legaabile,O Kgeresi,SF Jerome,0,0,,,,,,"",""
+ball,2,13.2,Botswana,T Legaabile,O Kgeresi,SF Jerome,4,0,,,,,,"",""
+ball,2,13.3,Botswana,T Legaabile,O Kgeresi,SF Jerome,2,0,,,,,,"",""
+ball,2,13.4,Botswana,T Legaabile,O Kgeresi,SF Jerome,0,0,,,,,,"",""
+ball,2,13.5,Botswana,T Legaabile,O Kgeresi,SF Jerome,1,0,,,,,,"",""
+ball,2,13.6,Botswana,O Kgeresi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,14.1,Botswana,T Legaabile,O Kgeresi,T Shabani,1,0,,,,,,"",""
+ball,2,14.2,Botswana,O Kgeresi,T Legaabile,T Shabani,0,0,,,,,,"",""
+ball,2,14.3,Botswana,O Kgeresi,T Legaabile,T Shabani,0,0,,,,,,"",""
+ball,2,14.4,Botswana,O Kgeresi,T Legaabile,T Shabani,1,0,,,,,,"",""
+ball,2,14.5,Botswana,T Legaabile,O Kgeresi,T Shabani,0,1,1,,,,,"",""
+ball,2,14.6,Botswana,T Legaabile,O Kgeresi,T Shabani,0,0,,,,,,run out,O Kgeresi
+ball,2,14.7,Botswana,M Ramafifi,T Legaabile,T Shabani,0,0,,,,,,"",""
+ball,2,15.1,Botswana,T Legaabile,M Ramafifi,SF Jerome,0,0,,,,,,"",""
+ball,2,15.2,Botswana,T Legaabile,M Ramafifi,SF Jerome,1,0,,,,,,"",""
+ball,2,15.3,Botswana,M Ramafifi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,15.4,Botswana,M Ramafifi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,15.5,Botswana,M Ramafifi,T Legaabile,SF Jerome,0,0,,,,,,"",""
+ball,2,15.6,Botswana,M Ramafifi,T Legaabile,SF Jerome,0,0,,,,,,bowled,M Ramafifi

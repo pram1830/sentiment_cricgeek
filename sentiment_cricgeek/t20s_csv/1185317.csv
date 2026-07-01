@@ -1,0 +1,315 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2019/20
+info,date,2020/02/23
+info,event,Australia tour of South Africa
+info,match_number,2
+info,venue,St George's Park
+info,city,Port Elizabeth
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,Q de Kock
+info,umpire,A Paleker
+info,umpire,BP Jele
+info,reserve_umpire,BM White
+info,tv_umpire,AT Holdstock
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_runs,12
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,F du Plessis
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,DA Miller
+info,player,South Africa,PJ van Biljon
+info,player,South Africa,D Pretorius
+info,player,South Africa,A Nortje
+info,player,South Africa,K Rabada
+info,player,South Africa,L Ngidi
+info,player,South Africa,T Shamsi
+info,player,Australia,DA Warner
+info,player,Australia,AJ Finch
+info,player,Australia,SPD Smith
+info,player,Australia,AT Carey
+info,player,Australia,MR Marsh
+info,player,Australia,MS Wade
+info,player,Australia,AC Agar
+info,player,Australia,MA Starc
+info,player,Australia,PJ Cummins
+info,player,Australia,A Zampa
+info,player,Australia,KW Richardson
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Zampa,14f96089
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AT Carey,69d03465
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,T Shamsi,a03bba42
+ball,1,0.1,South Africa,Q de Kock,RR Hendricks,MA Starc,0,0,,,,,,"",""
+ball,1,0.2,South Africa,Q de Kock,RR Hendricks,MA Starc,1,0,,,,,,"",""
+ball,1,0.3,South Africa,RR Hendricks,Q de Kock,MA Starc,1,0,,,,,,"",""
+ball,1,0.4,South Africa,Q de Kock,RR Hendricks,MA Starc,1,0,,,,,,"",""
+ball,1,0.5,South Africa,RR Hendricks,Q de Kock,MA Starc,0,1,1,,,,,"",""
+ball,1,0.6,South Africa,RR Hendricks,Q de Kock,MA Starc,0,0,,,,,,"",""
+ball,1,0.7,South Africa,RR Hendricks,Q de Kock,MA Starc,0,0,,,,,,"",""
+ball,1,1.1,South Africa,Q de Kock,RR Hendricks,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.2,South Africa,Q de Kock,RR Hendricks,PJ Cummins,6,0,,,,,,"",""
+ball,1,1.3,South Africa,Q de Kock,RR Hendricks,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.4,South Africa,Q de Kock,RR Hendricks,PJ Cummins,6,0,,,,,,"",""
+ball,1,1.5,South Africa,Q de Kock,RR Hendricks,PJ Cummins,1,0,,,,,,"",""
+ball,1,1.6,South Africa,RR Hendricks,Q de Kock,PJ Cummins,1,0,,,,,,"",""
+ball,1,2.1,South Africa,RR Hendricks,Q de Kock,MA Starc,0,0,,,,,,"",""
+ball,1,2.2,South Africa,RR Hendricks,Q de Kock,MA Starc,4,0,,,,,,"",""
+ball,1,2.3,South Africa,RR Hendricks,Q de Kock,MA Starc,1,0,,,,,,"",""
+ball,1,2.4,South Africa,Q de Kock,RR Hendricks,MA Starc,6,0,,,,,,"",""
+ball,1,2.5,South Africa,Q de Kock,RR Hendricks,MA Starc,0,0,,,,,,"",""
+ball,1,2.6,South Africa,Q de Kock,RR Hendricks,MA Starc,1,0,,,,,,"",""
+ball,1,3.1,South Africa,Q de Kock,RR Hendricks,KW Richardson,4,0,,,,,,"",""
+ball,1,3.2,South Africa,Q de Kock,RR Hendricks,KW Richardson,4,0,,,,,,"",""
+ball,1,3.3,South Africa,Q de Kock,RR Hendricks,KW Richardson,0,1,,,,1,,"",""
+ball,1,3.4,South Africa,RR Hendricks,Q de Kock,KW Richardson,0,0,,,,,,"",""
+ball,1,3.5,South Africa,RR Hendricks,Q de Kock,KW Richardson,0,0,,,,,,"",""
+ball,1,3.6,South Africa,RR Hendricks,Q de Kock,KW Richardson,1,0,,,,,,"",""
+ball,1,4.1,South Africa,RR Hendricks,Q de Kock,PJ Cummins,0,0,,,,,,"",""
+ball,1,4.2,South Africa,RR Hendricks,Q de Kock,PJ Cummins,2,0,,,,,,"",""
+ball,1,4.3,South Africa,RR Hendricks,Q de Kock,PJ Cummins,0,0,,,,,,"",""
+ball,1,4.4,South Africa,RR Hendricks,Q de Kock,PJ Cummins,2,0,,,,,,"",""
+ball,1,4.5,South Africa,RR Hendricks,Q de Kock,PJ Cummins,1,0,,,,,,"",""
+ball,1,4.6,South Africa,Q de Kock,RR Hendricks,PJ Cummins,1,0,,,,,,"",""
+ball,1,5.1,South Africa,Q de Kock,RR Hendricks,A Zampa,0,0,,,,,,"",""
+ball,1,5.2,South Africa,Q de Kock,RR Hendricks,A Zampa,1,0,,,,,,"",""
+ball,1,5.3,South Africa,RR Hendricks,Q de Kock,A Zampa,1,0,,,,,,"",""
+ball,1,5.4,South Africa,Q de Kock,RR Hendricks,A Zampa,4,0,,,,,,"",""
+ball,1,5.5,South Africa,Q de Kock,RR Hendricks,A Zampa,6,0,,,,,,"",""
+ball,1,5.6,South Africa,Q de Kock,RR Hendricks,A Zampa,1,0,,,,,,"",""
+ball,1,6.1,South Africa,Q de Kock,RR Hendricks,KW Richardson,0,0,,,,,,"",""
+ball,1,6.2,South Africa,Q de Kock,RR Hendricks,KW Richardson,1,0,,,,,,"",""
+ball,1,6.3,South Africa,RR Hendricks,Q de Kock,KW Richardson,0,0,,,,,,caught,RR Hendricks
+ball,1,6.4,South Africa,Q de Kock,F du Plessis,KW Richardson,1,0,,,,,,"",""
+ball,1,6.5,South Africa,F du Plessis,Q de Kock,KW Richardson,0,0,,,,,,"",""
+ball,1,6.6,South Africa,F du Plessis,Q de Kock,KW Richardson,1,0,,,,,,"",""
+ball,1,7.1,South Africa,F du Plessis,Q de Kock,AC Agar,3,0,,,,,,"",""
+ball,1,7.2,South Africa,Q de Kock,F du Plessis,AC Agar,1,0,,,,,,"",""
+ball,1,7.3,South Africa,F du Plessis,Q de Kock,AC Agar,1,0,,,,,,"",""
+ball,1,7.4,South Africa,Q de Kock,F du Plessis,AC Agar,0,1,,,,1,,"",""
+ball,1,7.5,South Africa,F du Plessis,Q de Kock,AC Agar,2,0,,,,,,"",""
+ball,1,7.6,South Africa,F du Plessis,Q de Kock,AC Agar,0,0,,,,,,"",""
+ball,1,8.1,South Africa,Q de Kock,F du Plessis,A Zampa,1,0,,,,,,"",""
+ball,1,8.2,South Africa,F du Plessis,Q de Kock,A Zampa,1,0,,,,,,"",""
+ball,1,8.3,South Africa,Q de Kock,F du Plessis,A Zampa,1,0,,,,,,"",""
+ball,1,8.4,South Africa,F du Plessis,Q de Kock,A Zampa,4,0,,,,,,"",""
+ball,1,8.5,South Africa,F du Plessis,Q de Kock,A Zampa,0,0,,,,,,"",""
+ball,1,8.6,South Africa,F du Plessis,Q de Kock,A Zampa,1,0,,,,,,"",""
+ball,1,9.1,South Africa,F du Plessis,Q de Kock,AC Agar,1,0,,,,,,"",""
+ball,1,9.2,South Africa,Q de Kock,F du Plessis,AC Agar,1,0,,,,,,"",""
+ball,1,9.3,South Africa,F du Plessis,Q de Kock,AC Agar,0,0,,,,,,"",""
+ball,1,9.4,South Africa,F du Plessis,Q de Kock,AC Agar,1,0,,,,,,"",""
+ball,1,9.5,South Africa,Q de Kock,F du Plessis,AC Agar,0,0,,,,,,"",""
+ball,1,9.6,South Africa,Q de Kock,F du Plessis,AC Agar,0,0,,,,,,"",""
+ball,1,10.1,South Africa,F du Plessis,Q de Kock,PJ Cummins,0,0,,,,,,caught,F du Plessis
+ball,1,10.2,South Africa,Q de Kock,HE van der Dussen,PJ Cummins,1,0,,,,,,"",""
+ball,1,10.3,South Africa,HE van der Dussen,Q de Kock,PJ Cummins,1,0,,,,,,"",""
+ball,1,10.4,South Africa,Q de Kock,HE van der Dussen,PJ Cummins,4,0,,,,,,"",""
+ball,1,10.5,South Africa,Q de Kock,HE van der Dussen,PJ Cummins,1,0,,,,,,"",""
+ball,1,10.6,South Africa,HE van der Dussen,Q de Kock,PJ Cummins,0,0,,,,,,"",""
+ball,1,11.1,South Africa,Q de Kock,HE van der Dussen,A Zampa,1,0,,,,,,"",""
+ball,1,11.2,South Africa,HE van der Dussen,Q de Kock,A Zampa,1,0,,,,,,"",""
+ball,1,11.3,South Africa,Q de Kock,HE van der Dussen,A Zampa,1,0,,,,,,"",""
+ball,1,11.4,South Africa,HE van der Dussen,Q de Kock,A Zampa,1,0,,,,,,"",""
+ball,1,11.5,South Africa,Q de Kock,HE van der Dussen,A Zampa,2,0,,,,,,"",""
+ball,1,11.6,South Africa,Q de Kock,HE van der Dussen,A Zampa,1,0,,,,,,"",""
+ball,1,12.1,South Africa,Q de Kock,HE van der Dussen,KW Richardson,0,0,,,,,,"",""
+ball,1,12.2,South Africa,Q de Kock,HE van der Dussen,KW Richardson,1,0,,,,,,"",""
+ball,1,12.3,South Africa,HE van der Dussen,Q de Kock,KW Richardson,1,0,,,,,,"",""
+ball,1,12.4,South Africa,Q de Kock,HE van der Dussen,KW Richardson,1,0,,,,,,"",""
+ball,1,12.5,South Africa,HE van der Dussen,Q de Kock,KW Richardson,0,1,,,,1,,"",""
+ball,1,12.6,South Africa,Q de Kock,HE van der Dussen,KW Richardson,1,0,,,,,,"",""
+ball,1,13.1,South Africa,Q de Kock,HE van der Dussen,AC Agar,0,0,,,,,,"",""
+ball,1,13.2,South Africa,Q de Kock,HE van der Dussen,AC Agar,4,0,,,,,,"",""
+ball,1,13.3,South Africa,Q de Kock,HE van der Dussen,AC Agar,1,0,,,,,,"",""
+ball,1,13.4,South Africa,HE van der Dussen,Q de Kock,AC Agar,6,0,,,,,,"",""
+ball,1,13.5,South Africa,HE van der Dussen,Q de Kock,AC Agar,1,0,,,,,,"",""
+ball,1,13.6,South Africa,Q de Kock,HE van der Dussen,AC Agar,1,0,,,,,,"",""
+ball,1,14.1,South Africa,Q de Kock,HE van der Dussen,A Zampa,1,0,,,,,,"",""
+ball,1,14.2,South Africa,HE van der Dussen,Q de Kock,A Zampa,0,0,,,,,,"",""
+ball,1,14.3,South Africa,HE van der Dussen,Q de Kock,A Zampa,6,0,,,,,,"",""
+ball,1,14.4,South Africa,HE van der Dussen,Q de Kock,A Zampa,1,0,,,,,,"",""
+ball,1,14.5,South Africa,Q de Kock,HE van der Dussen,A Zampa,0,0,,,,,,caught,Q de Kock
+ball,1,14.6,South Africa,HE van der Dussen,DA Miller,A Zampa,1,0,,,,,,"",""
+ball,1,15.1,South Africa,HE van der Dussen,DA Miller,AC Agar,1,0,,,,,,"",""
+ball,1,15.2,South Africa,DA Miller,HE van der Dussen,AC Agar,1,0,,,,,,"",""
+ball,1,15.3,South Africa,HE van der Dussen,DA Miller,AC Agar,1,0,,,,,,"",""
+ball,1,15.4,South Africa,DA Miller,HE van der Dussen,AC Agar,0,0,,,,,,"",""
+ball,1,15.5,South Africa,DA Miller,HE van der Dussen,AC Agar,1,0,,,,,,"",""
+ball,1,15.6,South Africa,HE van der Dussen,DA Miller,AC Agar,1,0,,,,,,"",""
+ball,1,16.1,South Africa,HE van der Dussen,DA Miller,MA Starc,1,0,,,,,,"",""
+ball,1,16.2,South Africa,DA Miller,HE van der Dussen,MA Starc,1,0,,,,,,"",""
+ball,1,16.3,South Africa,HE van der Dussen,DA Miller,MA Starc,4,0,,,,,,"",""
+ball,1,16.4,South Africa,HE van der Dussen,DA Miller,MA Starc,0,0,,,,,,"",""
+ball,1,16.5,South Africa,HE van der Dussen,DA Miller,MA Starc,4,0,,,,,,"",""
+ball,1,16.6,South Africa,HE van der Dussen,DA Miller,MA Starc,1,0,,,,,,"",""
+ball,1,17.1,South Africa,HE van der Dussen,DA Miller,PJ Cummins,1,0,,,,,,"",""
+ball,1,17.2,South Africa,DA Miller,HE van der Dussen,PJ Cummins,1,0,,,,,,"",""
+ball,1,17.3,South Africa,HE van der Dussen,DA Miller,PJ Cummins,1,0,,,,,,"",""
+ball,1,17.4,South Africa,DA Miller,HE van der Dussen,PJ Cummins,0,0,,,,,,"",""
+ball,1,17.5,South Africa,DA Miller,HE van der Dussen,PJ Cummins,1,0,,,,,,"",""
+ball,1,17.6,South Africa,HE van der Dussen,DA Miller,PJ Cummins,0,0,,,,,,"",""
+ball,1,18.1,South Africa,DA Miller,HE van der Dussen,KW Richardson,1,0,,,,,,"",""
+ball,1,18.2,South Africa,HE van der Dussen,DA Miller,KW Richardson,2,0,,,,,,"",""
+ball,1,18.3,South Africa,HE van der Dussen,DA Miller,KW Richardson,1,0,,,,,,"",""
+ball,1,18.4,South Africa,DA Miller,HE van der Dussen,KW Richardson,0,0,,,,,,"",""
+ball,1,18.5,South Africa,DA Miller,HE van der Dussen,KW Richardson,1,0,,,,,,"",""
+ball,1,18.6,South Africa,HE van der Dussen,DA Miller,KW Richardson,0,0,,,,,,caught,HE van der Dussen
+ball,1,19.1,South Africa,DA Miller,PJ van Biljon,MA Starc,2,0,,,,,,"",""
+ball,1,19.2,South Africa,DA Miller,PJ van Biljon,MA Starc,1,0,,,,,,"",""
+ball,1,19.3,South Africa,PJ van Biljon,DA Miller,MA Starc,4,0,,,,,,"",""
+ball,1,19.4,South Africa,PJ van Biljon,DA Miller,MA Starc,1,0,,,,,,"",""
+ball,1,19.5,South Africa,DA Miller,PJ van Biljon,MA Starc,1,0,,,,,,"",""
+ball,1,19.6,South Africa,PJ van Biljon,DA Miller,MA Starc,2,0,,,,,,"",""
+ball,2,0.1,Australia,DA Warner,AJ Finch,K Rabada,1,0,,,,,,"",""
+ball,2,0.2,Australia,AJ Finch,DA Warner,K Rabada,1,0,,,,,,"",""
+ball,2,0.3,Australia,DA Warner,AJ Finch,K Rabada,1,0,,,,,,"",""
+ball,2,0.4,Australia,AJ Finch,DA Warner,K Rabada,0,0,,,,,,"",""
+ball,2,0.5,Australia,AJ Finch,DA Warner,K Rabada,4,0,,,,,,"",""
+ball,2,0.6,Australia,AJ Finch,DA Warner,K Rabada,1,0,,,,,,"",""
+ball,2,1.1,Australia,AJ Finch,DA Warner,A Nortje,1,0,,,,,,"",""
+ball,2,1.2,Australia,DA Warner,AJ Finch,A Nortje,4,0,,,,,,"",""
+ball,2,1.3,Australia,DA Warner,AJ Finch,A Nortje,2,0,,,,,,"",""
+ball,2,1.4,Australia,DA Warner,AJ Finch,A Nortje,0,0,,,,,,"",""
+ball,2,1.5,Australia,DA Warner,AJ Finch,A Nortje,0,4,,,,4,,"",""
+ball,2,1.6,Australia,DA Warner,AJ Finch,A Nortje,1,0,,,,,,"",""
+ball,2,2.1,Australia,DA Warner,AJ Finch,K Rabada,1,0,,,,,,"",""
+ball,2,2.2,Australia,AJ Finch,DA Warner,K Rabada,1,0,,,,,,"",""
+ball,2,2.3,Australia,DA Warner,AJ Finch,K Rabada,4,0,,,,,,"",""
+ball,2,2.4,Australia,DA Warner,AJ Finch,K Rabada,1,0,,,,,,"",""
+ball,2,2.5,Australia,AJ Finch,DA Warner,K Rabada,1,0,,,,,,"",""
+ball,2,2.6,Australia,DA Warner,AJ Finch,K Rabada,1,0,,,,,,"",""
+ball,2,3.1,Australia,DA Warner,AJ Finch,A Nortje,4,0,,,,,,"",""
+ball,2,3.2,Australia,DA Warner,AJ Finch,A Nortje,0,1,,,1,,,"",""
+ball,2,3.3,Australia,AJ Finch,DA Warner,A Nortje,0,0,,,,,,"",""
+ball,2,3.4,Australia,AJ Finch,DA Warner,A Nortje,0,0,,,,,,"",""
+ball,2,3.5,Australia,AJ Finch,DA Warner,A Nortje,1,0,,,,,,"",""
+ball,2,3.6,Australia,DA Warner,AJ Finch,A Nortje,1,0,,,,,,"",""
+ball,2,4.1,Australia,DA Warner,AJ Finch,L Ngidi,6,0,,,,,,"",""
+ball,2,4.2,Australia,DA Warner,AJ Finch,L Ngidi,0,1,1,,,,,"",""
+ball,2,4.3,Australia,DA Warner,AJ Finch,L Ngidi,1,0,,,,,,"",""
+ball,2,4.4,Australia,AJ Finch,DA Warner,L Ngidi,4,0,,,,,,"",""
+ball,2,4.5,Australia,AJ Finch,DA Warner,L Ngidi,0,0,,,,,,bowled,AJ Finch
+ball,2,4.6,Australia,SPD Smith,DA Warner,L Ngidi,1,0,,,,,,"",""
+ball,2,4.7,Australia,DA Warner,SPD Smith,L Ngidi,0,0,,,,,,"",""
+ball,2,5.1,Australia,SPD Smith,DA Warner,D Pretorius,0,0,,,,,,"",""
+ball,2,5.2,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,5.3,Australia,DA Warner,SPD Smith,D Pretorius,0,0,,,,,,"",""
+ball,2,5.4,Australia,DA Warner,SPD Smith,D Pretorius,2,0,,,,,,"",""
+ball,2,5.5,Australia,DA Warner,SPD Smith,D Pretorius,1,0,,,,,,"",""
+ball,2,5.6,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,6.1,Australia,SPD Smith,DA Warner,L Ngidi,1,0,,,,,,"",""
+ball,2,6.2,Australia,DA Warner,SPD Smith,L Ngidi,1,0,,,,,,"",""
+ball,2,6.3,Australia,SPD Smith,DA Warner,L Ngidi,6,0,,,,,,"",""
+ball,2,6.4,Australia,SPD Smith,DA Warner,L Ngidi,1,0,,,,,,"",""
+ball,2,6.5,Australia,DA Warner,SPD Smith,L Ngidi,1,0,,,,,,"",""
+ball,2,6.6,Australia,SPD Smith,DA Warner,L Ngidi,2,0,,,,,,"",""
+ball,2,7.1,Australia,DA Warner,SPD Smith,T Shamsi,0,1,,,,1,,"",""
+ball,2,7.2,Australia,SPD Smith,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,7.3,Australia,DA Warner,SPD Smith,T Shamsi,2,0,,,,,,"",""
+ball,2,7.4,Australia,DA Warner,SPD Smith,T Shamsi,1,0,,,,,,"",""
+ball,2,7.5,Australia,SPD Smith,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,7.6,Australia,DA Warner,SPD Smith,T Shamsi,1,0,,,,,,"",""
+ball,2,8.1,Australia,DA Warner,SPD Smith,D Pretorius,1,0,,,,,,"",""
+ball,2,8.2,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,8.3,Australia,DA Warner,SPD Smith,D Pretorius,1,0,,,,,,"",""
+ball,2,8.4,Australia,SPD Smith,DA Warner,D Pretorius,4,0,,,,,,"",""
+ball,2,8.5,Australia,SPD Smith,DA Warner,D Pretorius,0,0,,,,,,"",""
+ball,2,8.6,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,9.1,Australia,SPD Smith,DA Warner,T Shamsi,0,0,,,,,,"",""
+ball,2,9.2,Australia,SPD Smith,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,9.3,Australia,DA Warner,SPD Smith,T Shamsi,1,0,,,,,,"",""
+ball,2,9.4,Australia,SPD Smith,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,9.5,Australia,DA Warner,SPD Smith,T Shamsi,0,0,,,,,,"",""
+ball,2,9.6,Australia,DA Warner,SPD Smith,T Shamsi,0,0,,,,,,"",""
+ball,2,10.1,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,10.2,Australia,DA Warner,SPD Smith,D Pretorius,1,0,,,,,,"",""
+ball,2,10.3,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,10.4,Australia,DA Warner,SPD Smith,D Pretorius,1,0,,,,,,"",""
+ball,2,10.5,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,10.6,Australia,DA Warner,SPD Smith,D Pretorius,4,0,,,,,,"",""
+ball,2,11.1,Australia,SPD Smith,DA Warner,T Shamsi,0,0,,,,,,"",""
+ball,2,11.2,Australia,SPD Smith,DA Warner,T Shamsi,0,0,,,,,,"",""
+ball,2,11.3,Australia,SPD Smith,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,11.4,Australia,DA Warner,SPD Smith,T Shamsi,0,0,,,,,,"",""
+ball,2,11.5,Australia,DA Warner,SPD Smith,T Shamsi,1,0,,,,,,"",""
+ball,2,11.6,Australia,SPD Smith,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,12.1,Australia,SPD Smith,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,12.2,Australia,DA Warner,SPD Smith,D Pretorius,0,1,,,,1,,"",""
+ball,2,12.3,Australia,SPD Smith,DA Warner,D Pretorius,0,0,,,,,,caught,SPD Smith
+ball,2,12.4,Australia,DA Warner,AT Carey,D Pretorius,4,0,,,,,,"",""
+ball,2,12.5,Australia,DA Warner,AT Carey,D Pretorius,1,0,,,,,,"",""
+ball,2,12.6,Australia,AT Carey,DA Warner,D Pretorius,1,0,,,,,,"",""
+ball,2,13.1,Australia,AT Carey,DA Warner,T Shamsi,0,0,,,,,,"",""
+ball,2,13.2,Australia,AT Carey,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,13.3,Australia,DA Warner,AT Carey,T Shamsi,0,0,,,,,,"",""
+ball,2,13.4,Australia,DA Warner,AT Carey,T Shamsi,1,0,,,,,,"",""
+ball,2,13.5,Australia,AT Carey,DA Warner,T Shamsi,1,0,,,,,,"",""
+ball,2,13.6,Australia,DA Warner,AT Carey,T Shamsi,2,0,,,,,,"",""
+ball,2,14.1,Australia,AT Carey,DA Warner,A Nortje,1,0,,,,,,"",""
+ball,2,14.2,Australia,DA Warner,AT Carey,A Nortje,1,0,,,,,,"",""
+ball,2,14.3,Australia,AT Carey,DA Warner,A Nortje,1,0,,,,,,"",""
+ball,2,14.4,Australia,DA Warner,AT Carey,A Nortje,1,0,,,,,,"",""
+ball,2,14.5,Australia,AT Carey,DA Warner,A Nortje,1,0,,,,,,"",""
+ball,2,14.6,Australia,DA Warner,AT Carey,A Nortje,2,0,,,,,,"",""
+ball,2,15.1,Australia,AT Carey,DA Warner,L Ngidi,6,0,,,,,,"",""
+ball,2,15.2,Australia,AT Carey,DA Warner,L Ngidi,2,0,,,,,,"",""
+ball,2,15.3,Australia,AT Carey,DA Warner,L Ngidi,0,0,,,,,,bowled,AT Carey
+ball,2,15.4,Australia,MR Marsh,DA Warner,L Ngidi,0,0,,,,,,"",""
+ball,2,15.5,Australia,MR Marsh,DA Warner,L Ngidi,1,1,,1,,,,"",""
+ball,2,15.6,Australia,DA Warner,MR Marsh,L Ngidi,0,0,,,,,,"",""
+ball,2,15.7,Australia,DA Warner,MR Marsh,L Ngidi,1,0,,,,,,"",""
+ball,2,16.1,Australia,DA Warner,MR Marsh,K Rabada,1,0,,,,,,"",""
+ball,2,16.2,Australia,MR Marsh,DA Warner,K Rabada,1,0,,,,,,"",""
+ball,2,16.3,Australia,DA Warner,MR Marsh,K Rabada,1,0,,,,,,"",""
+ball,2,16.4,Australia,MR Marsh,DA Warner,K Rabada,2,0,,,,,,"",""
+ball,2,16.5,Australia,MR Marsh,DA Warner,K Rabada,1,0,,,,,,"",""
+ball,2,16.6,Australia,DA Warner,MR Marsh,K Rabada,1,0,,,,,,"",""
+ball,2,17.1,Australia,DA Warner,MR Marsh,L Ngidi,1,0,,,,,,"",""
+ball,2,17.2,Australia,MR Marsh,DA Warner,L Ngidi,1,0,,,,,,"",""
+ball,2,17.3,Australia,DA Warner,MR Marsh,L Ngidi,1,0,,,,,,"",""
+ball,2,17.4,Australia,MR Marsh,DA Warner,L Ngidi,0,0,,,,,,"",""
+ball,2,17.5,Australia,MR Marsh,DA Warner,L Ngidi,0,1,1,,,,,"",""
+ball,2,17.6,Australia,MR Marsh,DA Warner,L Ngidi,0,0,,,,,,caught,MR Marsh
+ball,2,17.7,Australia,MS Wade,DA Warner,L Ngidi,1,0,,,,,,"",""
+ball,2,18.1,Australia,MS Wade,DA Warner,K Rabada,0,0,,,,,,caught and bowled,MS Wade
+ball,2,18.2,Australia,AC Agar,DA Warner,K Rabada,0,0,,,,,,"",""
+ball,2,18.3,Australia,AC Agar,DA Warner,K Rabada,1,0,,,,,,"",""
+ball,2,18.4,Australia,DA Warner,AC Agar,K Rabada,1,0,,,,,,"",""
+ball,2,18.5,Australia,AC Agar,DA Warner,K Rabada,0,0,,,,,,"",""
+ball,2,18.6,Australia,AC Agar,DA Warner,K Rabada,0,1,1,,,,,"",""
+ball,2,18.7,Australia,AC Agar,DA Warner,K Rabada,0,0,,,,,,"",""
+ball,2,19.1,Australia,DA Warner,AC Agar,A Nortje,1,0,,,,,,"",""
+ball,2,19.2,Australia,AC Agar,DA Warner,A Nortje,0,0,,,,,,bowled,AC Agar
+ball,2,19.3,Australia,MA Starc,DA Warner,A Nortje,1,0,,,,,,"",""
+ball,2,19.4,Australia,DA Warner,MA Starc,A Nortje,0,0,,,,,,"",""
+ball,2,19.5,Australia,DA Warner,MA Starc,A Nortje,0,1,,,,1,,"",""
+ball,2,19.6,Australia,MA Starc,DA Warner,A Nortje,1,0,,,,,,"",""

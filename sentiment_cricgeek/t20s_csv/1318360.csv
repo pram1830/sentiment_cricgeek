@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Sweden
+info,gender,male
+info,season,2022
+info,date,2022/06/10
+info,event,Germany T20 Tri-Series
+info,match_number,4
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,Abdullah Akbarjan
+info,umpire,M Jameson
+info,umpire,Vinay Malhotra
+info,reserve_umpire,S Gowda
+info,winner,Austria
+info,winner_runs,3
+info,player,Austria,Shahil Momin
+info,player,Austria,M Simpson-Parker
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,A Randhawa
+info,player,Austria,Abrar Bilal
+info,player,Austria,MPS Cheema
+info,player,Austria,Jaweed Sadran
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,A Nathwani
+info,player,Austria,Itibarshah Deedar
+info,player,Sweden,W Boshoff
+info,player,Sweden,Umar Nawaz
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,A Venkatesh
+info,player,Sweden,Azam Khalil
+info,player,Sweden,Samiallah Khalil
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Ismaeel Zia
+info,player,Sweden,L Karlsson
+info,player,Sweden,Zaker Taqawi
+info,player,Sweden,Lemar Momand
+info,registry,people,A Nathwani,f1c4f2ea
+info,registry,people,A Randhawa,1798078c
+info,registry,people,A Venkatesh,06b45b20
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Abrar Bilal,6ddaee2d
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Azam Khalil,ff1e08eb
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Ismaeel Zia,70abbb67
+info,registry,people,Itibarshah Deedar,711e73ac
+info,registry,people,Jaweed Sadran,c1f05d1d
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,L Karlsson,90a41671
+info,registry,people,Lemar Momand,249fe400
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Simpson-Parker,fecd828e
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,Samiallah Khalil,367f4efa
+info,registry,people,Shahil Momin,46821fbd
+info,registry,people,Umar Nawaz,1ed476fe
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,W Boshoff,cad11a02
+info,registry,people,Zaker Taqawi,d7074ddc
+ball,1,0.1,Austria,Shahil Momin,M Simpson-Parker,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,0.2,Austria,Shahil Momin,M Simpson-Parker,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,0.3,Austria,M Simpson-Parker,Shahil Momin,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,0.4,Austria,M Simpson-Parker,Shahil Momin,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,0.5,Austria,M Simpson-Parker,Shahil Momin,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,0.6,Austria,Shahil Momin,M Simpson-Parker,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,1.1,Austria,Shahil Momin,M Simpson-Parker,Lemar Momand,2,0,,,,,,"",""
+ball,1,1.2,Austria,Shahil Momin,M Simpson-Parker,Lemar Momand,1,0,,,,,,"",""
+ball,1,1.3,Austria,M Simpson-Parker,Shahil Momin,Lemar Momand,0,1,1,,,,,"",""
+ball,1,1.4,Austria,M Simpson-Parker,Shahil Momin,Lemar Momand,0,0,,,,,,bowled,M Simpson-Parker
+ball,1,1.5,Austria,Razmal Shigiwal,Shahil Momin,Lemar Momand,0,0,,,,,,"",""
+ball,1,1.6,Austria,Razmal Shigiwal,Shahil Momin,Lemar Momand,3,0,,,,,,"",""
+ball,1,1.7,Austria,Shahil Momin,Razmal Shigiwal,Lemar Momand,0,0,,,,,,"",""
+ball,1,2.1,Austria,Razmal Shigiwal,Shahil Momin,Khalid Zahid,0,1,,,,1,,"",""
+ball,1,2.2,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,0,0,,,,,,"",""
+ball,1,2.3,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,0,0,,,,,,"",""
+ball,1,2.4,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,0,1,1,,,,,"",""
+ball,1,2.5,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,2,0,,,,,,"",""
+ball,1,2.6,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,0,0,,,,,,"",""
+ball,1,2.7,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,0,0,,,,,,"",""
+ball,1,3.1,Austria,Razmal Shigiwal,Shahil Momin,Lemar Momand,3,0,,,,,,"",""
+ball,1,3.2,Austria,Shahil Momin,Razmal Shigiwal,Lemar Momand,0,0,,,,,,"",""
+ball,1,3.3,Austria,Shahil Momin,Razmal Shigiwal,Lemar Momand,1,0,,,,,,"",""
+ball,1,3.4,Austria,Razmal Shigiwal,Shahil Momin,Lemar Momand,0,0,,,,,,"",""
+ball,1,3.5,Austria,Razmal Shigiwal,Shahil Momin,Lemar Momand,4,0,,,,,,"",""
+ball,1,3.6,Austria,Razmal Shigiwal,Shahil Momin,Lemar Momand,0,1,1,,,,,"",""
+ball,1,3.7,Austria,Razmal Shigiwal,Shahil Momin,Lemar Momand,0,0,,,,,,"",""
+ball,1,4.1,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,0,0,,,,,,"",""
+ball,1,4.2,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,4,0,,,,,,"",""
+ball,1,4.3,Austria,Shahil Momin,Razmal Shigiwal,Khalid Zahid,1,0,,,,,,"",""
+ball,1,4.4,Austria,Razmal Shigiwal,Shahil Momin,Khalid Zahid,2,0,,,,,,"",""
+ball,1,4.5,Austria,Razmal Shigiwal,Shahil Momin,Khalid Zahid,0,0,,,,,,"",""
+ball,1,4.6,Austria,Razmal Shigiwal,Shahil Momin,Khalid Zahid,0,0,,,,,,"",""
+ball,1,5.1,Austria,Shahil Momin,Razmal Shigiwal,Azam Khalil,4,0,,,,,,"",""
+ball,1,5.2,Austria,Shahil Momin,Razmal Shigiwal,Azam Khalil,0,0,,,,,,"",""
+ball,1,5.3,Austria,Shahil Momin,Razmal Shigiwal,Azam Khalil,2,0,,,,,,"",""
+ball,1,5.4,Austria,Shahil Momin,Razmal Shigiwal,Azam Khalil,0,0,,,,,,"",""
+ball,1,5.5,Austria,Shahil Momin,Razmal Shigiwal,Azam Khalil,2,0,,,,,,"",""
+ball,1,5.6,Austria,Shahil Momin,Razmal Shigiwal,Azam Khalil,2,0,,,,,,"",""
+ball,1,6.1,Austria,Razmal Shigiwal,Shahil Momin,Hamid Mahmood,0,0,,,,,,"",""
+ball,1,6.2,Austria,Razmal Shigiwal,Shahil Momin,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,6.3,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,2,0,,,,,,"",""
+ball,1,6.4,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,0,0,,,,,,"",""
+ball,1,6.5,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,0,0,,,,,,"",""
+ball,1,6.6,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,7.1,Austria,Shahil Momin,Razmal Shigiwal,Zaker Taqawi,6,0,,,,,,"",""
+ball,1,7.2,Austria,Shahil Momin,Razmal Shigiwal,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,7.3,Austria,Razmal Shigiwal,Shahil Momin,Zaker Taqawi,2,0,,,,,,"",""
+ball,1,7.4,Austria,Razmal Shigiwal,Shahil Momin,Zaker Taqawi,4,0,,,,,,"",""
+ball,1,7.5,Austria,Razmal Shigiwal,Shahil Momin,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,7.6,Austria,Razmal Shigiwal,Shahil Momin,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,8.1,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,8.2,Austria,Razmal Shigiwal,Shahil Momin,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,8.3,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,0,0,,,,,,"",""
+ball,1,8.4,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,8.5,Austria,Razmal Shigiwal,Shahil Momin,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,8.6,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,9.1,Austria,Shahil Momin,Razmal Shigiwal,L Karlsson,0,0,,,,,,"",""
+ball,1,9.2,Austria,Shahil Momin,Razmal Shigiwal,L Karlsson,2,0,,,,,,"",""
+ball,1,9.3,Austria,Shahil Momin,Razmal Shigiwal,L Karlsson,0,0,,,,,,"",""
+ball,1,9.4,Austria,Shahil Momin,Razmal Shigiwal,L Karlsson,0,0,,,,,,"",""
+ball,1,9.5,Austria,Shahil Momin,Razmal Shigiwal,L Karlsson,1,0,,,,,,"",""
+ball,1,9.6,Austria,Razmal Shigiwal,Shahil Momin,L Karlsson,1,0,,,,,,"",""
+ball,1,10.1,Austria,Razmal Shigiwal,Shahil Momin,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,10.2,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,2,0,,,,,,"",""
+ball,1,10.3,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,10.4,Austria,Razmal Shigiwal,Shahil Momin,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,10.5,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,0,0,,,,,,"",""
+ball,1,10.6,Austria,Shahil Momin,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,11.1,Austria,Shahil Momin,Razmal Shigiwal,L Karlsson,0,0,,,,,,"",""
+ball,1,11.2,Austria,Shahil Momin,Razmal Shigiwal,L Karlsson,0,0,,,,,,caught and bowled,Shahil Momin
+ball,1,11.3,Austria,Razmal Shigiwal,A Randhawa,L Karlsson,1,0,,,,,,"",""
+ball,1,11.4,Austria,A Randhawa,Razmal Shigiwal,L Karlsson,1,0,,,,,,"",""
+ball,1,11.5,Austria,Razmal Shigiwal,A Randhawa,L Karlsson,2,0,,,,,,"",""
+ball,1,11.6,Austria,Razmal Shigiwal,A Randhawa,L Karlsson,1,0,,,,,,"",""
+ball,1,12.1,Austria,Razmal Shigiwal,A Randhawa,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,12.2,Austria,A Randhawa,Razmal Shigiwal,Hamid Mahmood,0,0,,,,,,"",""
+ball,1,12.3,Austria,A Randhawa,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,12.4,Austria,Razmal Shigiwal,A Randhawa,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,12.5,Austria,A Randhawa,Razmal Shigiwal,Hamid Mahmood,1,0,,,,,,"",""
+ball,1,12.6,Austria,Razmal Shigiwal,A Randhawa,Hamid Mahmood,0,0,,,,,,bowled,Razmal Shigiwal
+ball,1,13.1,Austria,A Randhawa,Abrar Bilal,Zaker Taqawi,2,0,,,,,,"",""
+ball,1,13.2,Austria,A Randhawa,Abrar Bilal,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,13.3,Austria,Abrar Bilal,A Randhawa,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,13.4,Austria,Abrar Bilal,A Randhawa,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,13.5,Austria,Abrar Bilal,A Randhawa,Zaker Taqawi,2,0,,,,,,"",""
+ball,1,13.6,Austria,Abrar Bilal,A Randhawa,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,14.1,Austria,Abrar Bilal,A Randhawa,Azam Khalil,2,0,,,,,,"",""
+ball,1,14.2,Austria,Abrar Bilal,A Randhawa,Azam Khalil,0,0,,,,,,stumped,Abrar Bilal
+ball,1,14.3,Austria,MPS Cheema,A Randhawa,Azam Khalil,0,0,,,,,,"",""
+ball,1,14.4,Austria,MPS Cheema,A Randhawa,Azam Khalil,1,0,,,,,,"",""
+ball,1,14.5,Austria,A Randhawa,MPS Cheema,Azam Khalil,0,0,,,,,,"",""
+ball,1,14.6,Austria,A Randhawa,MPS Cheema,Azam Khalil,1,0,,,,,,"",""
+ball,1,15.1,Austria,A Randhawa,MPS Cheema,Zaker Taqawi,0,0,,,,,,bowled,A Randhawa
+ball,1,15.2,Austria,Jaweed Sadran,MPS Cheema,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,15.3,Austria,Jaweed Sadran,MPS Cheema,Zaker Taqawi,0,0,,,,,,"",""
+ball,1,15.4,Austria,Jaweed Sadran,MPS Cheema,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,15.5,Austria,MPS Cheema,Jaweed Sadran,Zaker Taqawi,1,0,,,,,,"",""
+ball,1,15.6,Austria,Jaweed Sadran,MPS Cheema,Zaker Taqawi,2,0,,,,,,"",""
+ball,1,16.1,Austria,MPS Cheema,Jaweed Sadran,Azam Khalil,4,0,,,,,,"",""
+ball,1,16.2,Austria,MPS Cheema,Jaweed Sadran,Azam Khalil,0,0,,,,,,"",""
+ball,1,16.3,Austria,MPS Cheema,Jaweed Sadran,Azam Khalil,1,0,,,,,,"",""
+ball,1,16.4,Austria,Jaweed Sadran,MPS Cheema,Azam Khalil,0,0,,,,,,caught,Jaweed Sadran
+ball,1,16.5,Austria,MPS Cheema,Aqib Iqbal,Azam Khalil,0,0,,,,,,caught,MPS Cheema
+ball,1,16.6,Austria,Abdullah Akbarjan,Aqib Iqbal,Azam Khalil,1,0,,,,,,"",""
+ball,1,17.1,Austria,Abdullah Akbarjan,Aqib Iqbal,L Karlsson,0,0,,,,,,caught,Abdullah Akbarjan
+ball,1,17.2,Austria,Aqib Iqbal,A Nathwani,L Karlsson,1,0,,,,,,"",""
+ball,1,17.3,Austria,A Nathwani,Aqib Iqbal,L Karlsson,0,1,1,,,,,"",""
+ball,1,17.4,Austria,A Nathwani,Aqib Iqbal,L Karlsson,1,0,,,,,,"",""
+ball,1,17.5,Austria,Aqib Iqbal,A Nathwani,L Karlsson,1,0,,,,,,"",""
+ball,1,17.6,Austria,A Nathwani,Aqib Iqbal,L Karlsson,1,0,,,,,,"",""
+ball,1,17.7,Austria,Aqib Iqbal,A Nathwani,L Karlsson,1,0,,,,,,"",""
+ball,1,18.1,Austria,Aqib Iqbal,A Nathwani,Azam Khalil,2,0,,,,,,"",""
+ball,1,18.2,Austria,Aqib Iqbal,A Nathwani,Azam Khalil,1,0,,,,,,"",""
+ball,1,18.3,Austria,A Nathwani,Aqib Iqbal,Azam Khalil,1,0,,,,,,"",""
+ball,1,18.4,Austria,Aqib Iqbal,A Nathwani,Azam Khalil,2,0,,,,,,"",""
+ball,1,18.5,Austria,Aqib Iqbal,A Nathwani,Azam Khalil,1,0,,,,,,"",""
+ball,1,18.6,Austria,A Nathwani,Aqib Iqbal,Azam Khalil,0,0,,,,,,"",""
+ball,1,19.1,Austria,Aqib Iqbal,A Nathwani,L Karlsson,2,0,,,,,,"",""
+ball,1,19.2,Austria,Aqib Iqbal,A Nathwani,L Karlsson,2,0,,,,,,"",""
+ball,1,19.3,Austria,Aqib Iqbal,A Nathwani,L Karlsson,2,0,,,,,,"",""
+ball,1,19.4,Austria,Aqib Iqbal,A Nathwani,L Karlsson,0,0,,,,,,caught,Aqib Iqbal
+ball,1,19.5,Austria,A Nathwani,Itibarshah Deedar,L Karlsson,2,0,,,,,,"",""
+ball,1,19.6,Austria,A Nathwani,Itibarshah Deedar,L Karlsson,2,0,,,,,,"",""
+ball,2,0.1,Sweden,W Boshoff,Umar Nawaz,A Nathwani,0,0,,,,,,"",""
+ball,2,0.2,Sweden,W Boshoff,Umar Nawaz,A Nathwani,1,0,,,,,,"",""
+ball,2,0.3,Sweden,Umar Nawaz,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,0.4,Sweden,Umar Nawaz,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,0.5,Sweden,Umar Nawaz,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,0.6,Sweden,Umar Nawaz,W Boshoff,A Nathwani,3,0,,,,,,"",""
+ball,2,1.1,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,1.2,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,1.3,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,1.4,Sweden,W Boshoff,Umar Nawaz,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,1.5,Sweden,W Boshoff,Umar Nawaz,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,1.6,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,1.7,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,2.1,Sweden,W Boshoff,Umar Nawaz,A Nathwani,4,0,,,,,,"",""
+ball,2,2.2,Sweden,W Boshoff,Umar Nawaz,A Nathwani,0,0,,,,,,"",""
+ball,2,2.3,Sweden,W Boshoff,Umar Nawaz,A Nathwani,1,0,,,,,,"",""
+ball,2,2.4,Sweden,Umar Nawaz,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,2.5,Sweden,Umar Nawaz,W Boshoff,A Nathwani,1,0,,,,,,"",""
+ball,2,2.6,Sweden,W Boshoff,Umar Nawaz,A Nathwani,0,0,,,,,,"",""
+ball,2,3.1,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,3.2,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,3.3,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,3.4,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,3.5,Sweden,W Boshoff,Umar Nawaz,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,3.6,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,6,0,,,,,,"",""
+ball,2,3.7,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,3.8,Sweden,Umar Nawaz,W Boshoff,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,4.1,Sweden,W Boshoff,Umar Nawaz,A Nathwani,2,0,,,,,,"",""
+ball,2,4.2,Sweden,W Boshoff,Umar Nawaz,A Nathwani,1,0,,,,,,"",""
+ball,2,4.3,Sweden,Umar Nawaz,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,4.4,Sweden,Umar Nawaz,W Boshoff,A Nathwani,6,0,,,,,,"",""
+ball,2,4.5,Sweden,Umar Nawaz,W Boshoff,A Nathwani,0,0,,,,,,caught,Umar Nawaz
+ball,2,4.6,Sweden,Hamid Mahmood,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,5.1,Sweden,W Boshoff,Hamid Mahmood,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,5.2,Sweden,W Boshoff,Hamid Mahmood,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,5.3,Sweden,W Boshoff,Hamid Mahmood,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,5.4,Sweden,Hamid Mahmood,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,5.5,Sweden,Hamid Mahmood,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,5.6,Sweden,Hamid Mahmood,W Boshoff,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,5.7,Sweden,Hamid Mahmood,W Boshoff,Aqib Iqbal,2,0,,,,,,"",""
+ball,2,6.1,Sweden,W Boshoff,Hamid Mahmood,A Nathwani,1,0,,,,,,"",""
+ball,2,6.2,Sweden,Hamid Mahmood,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,6.3,Sweden,Hamid Mahmood,W Boshoff,A Nathwani,2,0,,,,,,"",""
+ball,2,6.4,Sweden,Hamid Mahmood,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,6.5,Sweden,Hamid Mahmood,W Boshoff,A Nathwani,0,1,1,,,,,"",""
+ball,2,6.6,Sweden,Hamid Mahmood,W Boshoff,A Nathwani,0,0,,,,,,"",""
+ball,2,6.7,Sweden,Hamid Mahmood,W Boshoff,A Nathwani,0,0,,,,,,caught,Hamid Mahmood
+ball,2,7.1,Sweden,W Boshoff,A Venkatesh,Shahil Momin,1,0,,,,,,"",""
+ball,2,7.2,Sweden,A Venkatesh,W Boshoff,Shahil Momin,0,0,,,,,,"",""
+ball,2,7.3,Sweden,A Venkatesh,W Boshoff,Shahil Momin,1,0,,,,,,"",""
+ball,2,7.4,Sweden,W Boshoff,A Venkatesh,Shahil Momin,0,0,,,,,,"",""
+ball,2,7.5,Sweden,W Boshoff,A Venkatesh,Shahil Momin,0,0,,,,,,"",""
+ball,2,7.6,Sweden,W Boshoff,A Venkatesh,Shahil Momin,0,0,,,,,,"",""
+ball,2,8.1,Sweden,A Venkatesh,W Boshoff,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,8.2,Sweden,A Venkatesh,W Boshoff,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,8.3,Sweden,A Venkatesh,W Boshoff,Abdullah Akbarjan,4,0,,,,,,"",""
+ball,2,8.4,Sweden,A Venkatesh,W Boshoff,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,8.5,Sweden,A Venkatesh,W Boshoff,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,8.6,Sweden,W Boshoff,A Venkatesh,Abdullah Akbarjan,2,0,,,,,,"",""
+ball,2,9.1,Sweden,A Venkatesh,W Boshoff,Shahil Momin,0,0,,,,,,"",""
+ball,2,9.2,Sweden,A Venkatesh,W Boshoff,Shahil Momin,0,0,,,,,,"",""
+ball,2,9.3,Sweden,A Venkatesh,W Boshoff,Shahil Momin,4,0,,,,,,"",""
+ball,2,9.4,Sweden,A Venkatesh,W Boshoff,Shahil Momin,1,0,,,,,,"",""
+ball,2,9.5,Sweden,W Boshoff,A Venkatesh,Shahil Momin,0,0,,,,,,"",""
+ball,2,9.6,Sweden,W Boshoff,A Venkatesh,Shahil Momin,1,0,,,,,,"",""
+ball,2,10.1,Sweden,W Boshoff,A Venkatesh,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,10.2,Sweden,A Venkatesh,W Boshoff,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,10.3,Sweden,W Boshoff,A Venkatesh,Abdullah Akbarjan,0,0,,,,,,caught,W Boshoff
+ball,2,10.4,Sweden,A Venkatesh,Azam Khalil,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,10.5,Sweden,Azam Khalil,A Venkatesh,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,10.6,Sweden,Azam Khalil,A Venkatesh,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,11.1,Sweden,Azam Khalil,A Venkatesh,Shahil Momin,0,0,,,,,,"",""
+ball,2,11.2,Sweden,Azam Khalil,A Venkatesh,Shahil Momin,0,0,,,,,,"",""
+ball,2,11.3,Sweden,Azam Khalil,A Venkatesh,Shahil Momin,6,0,,,,,,"",""
+ball,2,11.4,Sweden,Azam Khalil,A Venkatesh,Shahil Momin,2,0,,,,,,"",""
+ball,2,11.5,Sweden,Azam Khalil,A Venkatesh,Shahil Momin,1,0,,,,,,"",""
+ball,2,11.6,Sweden,A Venkatesh,Azam Khalil,Shahil Momin,0,0,,,,,,"",""
+ball,2,12.1,Sweden,Azam Khalil,A Venkatesh,Itibarshah Deedar,0,1,,,,1,,"",""
+ball,2,12.2,Sweden,A Venkatesh,Azam Khalil,Itibarshah Deedar,1,0,,,,,,"",""
+ball,2,12.3,Sweden,Azam Khalil,A Venkatesh,Itibarshah Deedar,1,0,,,,,,"",""
+ball,2,12.4,Sweden,A Venkatesh,Azam Khalil,Itibarshah Deedar,0,0,,,,,,"",""
+ball,2,12.5,Sweden,A Venkatesh,Azam Khalil,Itibarshah Deedar,1,0,,,,,,"",""
+ball,2,12.6,Sweden,Azam Khalil,A Venkatesh,Itibarshah Deedar,2,0,,,,,,run out,A Venkatesh
+ball,2,13.1,Sweden,Azam Khalil,Samiallah Khalil,Shahil Momin,1,0,,,,,,"",""
+ball,2,13.2,Sweden,Samiallah Khalil,Azam Khalil,Shahil Momin,2,0,,,,,,"",""
+ball,2,13.3,Sweden,Samiallah Khalil,Azam Khalil,Shahil Momin,0,0,,,,,,"",""
+ball,2,13.4,Sweden,Samiallah Khalil,Azam Khalil,Shahil Momin,0,0,,,,,,caught,Samiallah Khalil
+ball,2,13.5,Sweden,Azam Khalil,Khalid Zahid,Shahil Momin,0,0,,,,,,"",""
+ball,2,13.6,Sweden,Azam Khalil,Khalid Zahid,Shahil Momin,0,0,,,,,,"",""
+ball,2,14.1,Sweden,Khalid Zahid,Azam Khalil,Itibarshah Deedar,1,0,,,,,,"",""
+ball,2,14.2,Sweden,Azam Khalil,Khalid Zahid,Itibarshah Deedar,2,0,,,,,,"",""
+ball,2,14.3,Sweden,Azam Khalil,Khalid Zahid,Itibarshah Deedar,2,0,,,,,,"",""
+ball,2,14.4,Sweden,Azam Khalil,Khalid Zahid,Itibarshah Deedar,1,0,,,,,,run out,Azam Khalil
+ball,2,14.5,Sweden,Ismaeel Zia,Khalid Zahid,Itibarshah Deedar,1,0,,,,,,"",""
+ball,2,14.6,Sweden,Khalid Zahid,Ismaeel Zia,Itibarshah Deedar,1,0,,,,,,"",""
+ball,2,15.1,Sweden,Khalid Zahid,Ismaeel Zia,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,15.2,Sweden,Ismaeel Zia,Khalid Zahid,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,15.3,Sweden,Ismaeel Zia,Khalid Zahid,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,15.4,Sweden,Khalid Zahid,Ismaeel Zia,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,15.5,Sweden,Ismaeel Zia,Khalid Zahid,Abdullah Akbarjan,1,0,,,,,,"",""
+ball,2,15.6,Sweden,Khalid Zahid,Ismaeel Zia,Abdullah Akbarjan,0,0,,,,,,"",""
+ball,2,16.1,Sweden,Ismaeel Zia,Khalid Zahid,Itibarshah Deedar,0,0,,,,,,"",""
+ball,2,16.2,Sweden,Ismaeel Zia,Khalid Zahid,Itibarshah Deedar,2,0,,,,,,"",""
+ball,2,16.3,Sweden,Ismaeel Zia,Khalid Zahid,Itibarshah Deedar,0,0,,,,,,"",""
+ball,2,16.4,Sweden,Ismaeel Zia,Khalid Zahid,Itibarshah Deedar,2,0,,,,,,"",""
+ball,2,16.5,Sweden,Ismaeel Zia,Khalid Zahid,Itibarshah Deedar,0,0,,,,,,"",""
+ball,2,16.6,Sweden,Ismaeel Zia,Khalid Zahid,Itibarshah Deedar,2,0,,,,,,"",""
+ball,2,17.1,Sweden,Khalid Zahid,Ismaeel Zia,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,17.2,Sweden,Khalid Zahid,Ismaeel Zia,Jaweed Sadran,4,0,,,,,,"",""
+ball,2,17.3,Sweden,Khalid Zahid,Ismaeel Zia,Jaweed Sadran,4,0,,,,,,"",""
+ball,2,17.4,Sweden,Khalid Zahid,Ismaeel Zia,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,17.5,Sweden,Ismaeel Zia,Khalid Zahid,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,17.6,Sweden,Khalid Zahid,Ismaeel Zia,Jaweed Sadran,4,0,,,,,,"",""
+ball,2,18.1,Sweden,Ismaeel Zia,Khalid Zahid,Aqib Iqbal,0,0,,,,,,caught,Ismaeel Zia
+ball,2,18.2,Sweden,L Karlsson,Khalid Zahid,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,18.3,Sweden,L Karlsson,Khalid Zahid,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,18.4,Sweden,Khalid Zahid,L Karlsson,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,18.5,Sweden,L Karlsson,Khalid Zahid,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,18.6,Sweden,L Karlsson,Khalid Zahid,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,18.7,Sweden,L Karlsson,Khalid Zahid,Aqib Iqbal,0,0,,,,,,caught,L Karlsson
+ball,2,19.1,Sweden,Khalid Zahid,Zaker Taqawi,Abdullah Akbarjan,0,0,,,,,,caught,Khalid Zahid
+ball,2,19.2,Sweden,Lemar Momand,Zaker Taqawi,Abdullah Akbarjan,0,1,1,,,,,"",""
+ball,2,19.3,Sweden,Lemar Momand,Zaker Taqawi,Abdullah Akbarjan,0,0,,,,,,bowled,Lemar Momand

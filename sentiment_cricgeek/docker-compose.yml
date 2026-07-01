@@ -1,0 +1,77 @@
+version: '3.9'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: cricgeek_db
+    environment:
+      POSTGRES_USER: cricgeek
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in .env}
+      POSTGRES_DB: cricgeek_dev
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U cricgeek"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - cricgeek_network
+
+  # FastAPI Backend
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: cricgeek_api
+    environment:
+      ENVIRONMENT: ${ENVIRONMENT:-development}
+      DATABASE_URL: postgresql://cricgeek:${DB_PASSWORD:?Set DB_PASSWORD in .env}@postgres:5432/cricgeek_dev
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:?Set JWT_SECRET_KEY in .env}
+      ENCRYPTION_KEY: ${ENCRYPTION_KEY:?Set ENCRYPTION_KEY in .env}
+      QWEN_API_KEY: ${QWEN_API_KEY}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-http://localhost:8000,http://localhost:8501}
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./:/app
+    command: >
+      bash -c "
+        python database.py init &&
+        python database.py seed &&
+        uvicorn main_api:app --host 0.0.0.0 --port 8000 --reload
+      "
+    networks:
+      - cricgeek_network
+
+  # Streamlit Frontend
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    container_name: cricgeek_app
+    environment:
+      API_BASE_URL: http://api:8000/api
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    volumes:
+      - ./:/app
+    command: streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+    networks:
+      - cricgeek_network
+
+networks:
+  cricgeek_network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local

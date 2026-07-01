@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Qatar
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,event,ACC Men's Premier Cup
+info,match_number,4
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+info,city,Al Amarat
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,Nizakat Khan
+info,umpire,N D'Souza
+info,umpire,V Kalidas
+info,reserve_umpire,VK Jha
+info,tv_umpire,Vinod Babu
+info,match_referee,Hamim Khan
+info,winner,Hong Kong
+info,winner_runs,26
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Dhananjay Rao
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Kamran Khan
+info,player,Qatar,Amir Farooq
+info,player,Qatar,H Rathod
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Musawar Shah
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Dhananjay Rao,6a11facf
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,H Rathod,1f943bef
+info,registry,people,Hamim Khan,f82540a3
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Musawar Shah,d482c8b8
+info,registry,people,N D'Souza,4b7f60af
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Vinod Babu,37e6187d
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9
+ball,1,0.1,Hong Kong,M Coetzee,Yasim Murtaza,Amir Farooq,4,0,,,,,,"",""
+ball,1,0.2,Hong Kong,M Coetzee,Yasim Murtaza,Amir Farooq,0,0,,,,,,bowled,M Coetzee
+ball,1,0.3,Hong Kong,Nizakat Khan,Yasim Murtaza,Amir Farooq,0,0,,,,,,"",""
+ball,1,0.4,Hong Kong,Nizakat Khan,Yasim Murtaza,Amir Farooq,1,0,,,,,,"",""
+ball,1,0.5,Hong Kong,Yasim Murtaza,Nizakat Khan,Amir Farooq,0,0,,,,,,"",""
+ball,1,0.6,Hong Kong,Yasim Murtaza,Nizakat Khan,Amir Farooq,0,0,,,,,,"",""
+ball,1,1.1,Hong Kong,Nizakat Khan,Yasim Murtaza,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,1.2,Hong Kong,Yasim Murtaza,Nizakat Khan,Ikramullah Khan,4,0,,,,,,"",""
+ball,1,1.3,Hong Kong,Yasim Murtaza,Nizakat Khan,Ikramullah Khan,0,0,,,,,,bowled,Yasim Murtaza
+ball,1,1.4,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,2,0,,,,,,"",""
+ball,1,1.5,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,0,0,,,,,,"",""
+ball,1,1.6,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,2,0,,,,,,"",""
+ball,1,2.1,Hong Kong,Nizakat Khan,Babar Hayat,Amir Farooq,0,0,,,,,,"",""
+ball,1,2.2,Hong Kong,Nizakat Khan,Babar Hayat,Amir Farooq,0,1,1,,,,,"",""
+ball,1,2.3,Hong Kong,Nizakat Khan,Babar Hayat,Amir Farooq,4,0,,,,,,"",""
+ball,1,2.4,Hong Kong,Nizakat Khan,Babar Hayat,Amir Farooq,0,0,,,,,,"",""
+ball,1,2.5,Hong Kong,Nizakat Khan,Babar Hayat,Amir Farooq,2,0,,,,,,"",""
+ball,1,2.6,Hong Kong,Nizakat Khan,Babar Hayat,Amir Farooq,0,0,,,,,,"",""
+ball,1,2.7,Hong Kong,Nizakat Khan,Babar Hayat,Amir Farooq,1,0,,,,,,"",""
+ball,1,3.1,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,0,0,,,,,,"",""
+ball,1,3.2,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,3.3,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,3.4,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,0,0,,,,,,"",""
+ball,1,3.5,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,3.6,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,4.1,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,0,0,,,,,,"",""
+ball,1,4.2,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,6,0,,,,,,"",""
+ball,1,4.3,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,4,0,,,,,,"",""
+ball,1,4.4,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,4.5,Hong Kong,Nizakat Khan,Babar Hayat,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,4.6,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,5.1,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,5.2,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,5.3,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,6,0,,,,,,"",""
+ball,1,5.4,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,0,0,,,,,,"",""
+ball,1,5.5,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,5.6,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,6,0,,,,,,"",""
+ball,1,6.1,Hong Kong,Babar Hayat,Nizakat Khan,Musawar Shah,0,0,,,,,,"",""
+ball,1,6.2,Hong Kong,Babar Hayat,Nizakat Khan,Musawar Shah,1,0,,,,,,"",""
+ball,1,6.3,Hong Kong,Nizakat Khan,Babar Hayat,Musawar Shah,2,0,,,,,,"",""
+ball,1,6.4,Hong Kong,Nizakat Khan,Babar Hayat,Musawar Shah,0,0,,,,,,"",""
+ball,1,6.5,Hong Kong,Nizakat Khan,Babar Hayat,Musawar Shah,4,0,,,,,,"",""
+ball,1,6.6,Hong Kong,Nizakat Khan,Babar Hayat,Musawar Shah,2,0,,,,,,"",""
+ball,1,7.1,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,7.2,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,7.3,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,7.4,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,0,0,,,,,,"",""
+ball,1,7.5,Hong Kong,Nizakat Khan,Babar Hayat,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,7.6,Hong Kong,Babar Hayat,Nizakat Khan,Ikramullah Khan,1,0,,,,,,"",""
+ball,1,8.1,Hong Kong,Babar Hayat,Nizakat Khan,Musawar Shah,0,0,,,,,,"",""
+ball,1,8.2,Hong Kong,Babar Hayat,Nizakat Khan,Musawar Shah,1,0,,,,,,"",""
+ball,1,8.3,Hong Kong,Nizakat Khan,Babar Hayat,Musawar Shah,1,0,,,,,,"",""
+ball,1,8.4,Hong Kong,Babar Hayat,Nizakat Khan,Musawar Shah,0,0,,,,,,"",""
+ball,1,8.5,Hong Kong,Babar Hayat,Nizakat Khan,Musawar Shah,0,0,,,,,,"",""
+ball,1,8.6,Hong Kong,Babar Hayat,Nizakat Khan,Musawar Shah,0,0,,,,,,"",""
+ball,1,9.1,Hong Kong,Nizakat Khan,Babar Hayat,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,9.2,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,9.3,Hong Kong,Nizakat Khan,Babar Hayat,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,9.4,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,6,0,,,,,,"",""
+ball,1,9.5,Hong Kong,Babar Hayat,Nizakat Khan,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,9.6,Hong Kong,Nizakat Khan,Babar Hayat,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,10.1,Hong Kong,Nizakat Khan,Babar Hayat,H Rathod,1,0,,,,,,"",""
+ball,1,10.2,Hong Kong,Babar Hayat,Nizakat Khan,H Rathod,4,0,,,,,,"",""
+ball,1,10.3,Hong Kong,Babar Hayat,Nizakat Khan,H Rathod,0,0,,,,,,"",""
+ball,1,10.4,Hong Kong,Babar Hayat,Nizakat Khan,H Rathod,0,0,,,,,,"",""
+ball,1,10.5,Hong Kong,Babar Hayat,Nizakat Khan,H Rathod,0,0,,,,,,"",""
+ball,1,10.6,Hong Kong,Babar Hayat,Nizakat Khan,H Rathod,1,0,,,,,,"",""
+ball,1,11.1,Hong Kong,Babar Hayat,Nizakat Khan,Adnan Mirza,0,0,,,,,,"",""
+ball,1,11.2,Hong Kong,Babar Hayat,Nizakat Khan,Adnan Mirza,4,0,,,,,,"",""
+ball,1,11.3,Hong Kong,Babar Hayat,Nizakat Khan,Adnan Mirza,6,0,,,,,,"",""
+ball,1,11.4,Hong Kong,Babar Hayat,Nizakat Khan,Adnan Mirza,1,0,,,,,,"",""
+ball,1,11.5,Hong Kong,Nizakat Khan,Babar Hayat,Adnan Mirza,1,0,,,,,,"",""
+ball,1,11.6,Hong Kong,Babar Hayat,Nizakat Khan,Adnan Mirza,0,0,,,,,,"",""
+ball,1,12.1,Hong Kong,Nizakat Khan,Babar Hayat,H Rathod,2,0,,,,,,"",""
+ball,1,12.2,Hong Kong,Nizakat Khan,Babar Hayat,H Rathod,0,0,,,,,,"",""
+ball,1,12.3,Hong Kong,Nizakat Khan,Babar Hayat,H Rathod,1,0,,,,,,"",""
+ball,1,12.4,Hong Kong,Babar Hayat,Nizakat Khan,H Rathod,0,0,,,,,,"",""
+ball,1,12.5,Hong Kong,Babar Hayat,Nizakat Khan,H Rathod,0,0,,,,,,caught and bowled,Babar Hayat
+ball,1,12.6,Hong Kong,Anshuman Rath,Nizakat Khan,H Rathod,2,0,,,,,,"",""
+ball,1,13.1,Hong Kong,Nizakat Khan,Anshuman Rath,Muhammad Tanveer,6,0,,,,,,"",""
+ball,1,13.2,Hong Kong,Nizakat Khan,Anshuman Rath,Muhammad Tanveer,6,0,,,,,,"",""
+ball,1,13.3,Hong Kong,Nizakat Khan,Anshuman Rath,Muhammad Tanveer,1,0,,,,,,"",""
+ball,1,13.4,Hong Kong,Anshuman Rath,Nizakat Khan,Muhammad Tanveer,1,0,,,,,,"",""
+ball,1,13.5,Hong Kong,Nizakat Khan,Anshuman Rath,Muhammad Tanveer,6,0,,,,,,"",""
+ball,1,13.6,Hong Kong,Nizakat Khan,Anshuman Rath,Muhammad Tanveer,2,0,,,,,,run out,Nizakat Khan
+ball,1,14.1,Hong Kong,Anshuman Rath,Aizaz Khan,H Rathod,1,0,,,,,,"",""
+ball,1,14.2,Hong Kong,Aizaz Khan,Anshuman Rath,H Rathod,4,0,,,,,,"",""
+ball,1,14.3,Hong Kong,Aizaz Khan,Anshuman Rath,H Rathod,1,0,,,,,,"",""
+ball,1,14.4,Hong Kong,Anshuman Rath,Aizaz Khan,H Rathod,1,0,,,,,,"",""
+ball,1,14.5,Hong Kong,Aizaz Khan,Anshuman Rath,H Rathod,1,0,,,,,,"",""
+ball,1,14.6,Hong Kong,Anshuman Rath,Aizaz Khan,H Rathod,2,0,,,,,,"",""
+ball,1,15.1,Hong Kong,Aizaz Khan,Anshuman Rath,Musawar Shah,1,0,,,,,,"",""
+ball,1,15.2,Hong Kong,Anshuman Rath,Aizaz Khan,Musawar Shah,0,0,,,,,,"",""
+ball,1,15.3,Hong Kong,Anshuman Rath,Aizaz Khan,Musawar Shah,0,0,,,,,,"",""
+ball,1,15.4,Hong Kong,Anshuman Rath,Aizaz Khan,Musawar Shah,2,0,,,,,,"",""
+ball,1,15.5,Hong Kong,Anshuman Rath,Aizaz Khan,Musawar Shah,1,0,,,,,,"",""
+ball,1,15.6,Hong Kong,Aizaz Khan,Anshuman Rath,Musawar Shah,2,0,,,,,,"",""
+ball,1,16.1,Hong Kong,Anshuman Rath,Aizaz Khan,H Rathod,0,0,,,,,,"",""
+ball,1,16.2,Hong Kong,Anshuman Rath,Aizaz Khan,H Rathod,4,0,,,,,,"",""
+ball,1,16.3,Hong Kong,Anshuman Rath,Aizaz Khan,H Rathod,1,0,,,,,,"",""
+ball,1,16.4,Hong Kong,Aizaz Khan,Anshuman Rath,H Rathod,2,0,,,,,,"",""
+ball,1,16.5,Hong Kong,Aizaz Khan,Anshuman Rath,H Rathod,1,0,,,,,,"",""
+ball,1,16.6,Hong Kong,Anshuman Rath,Aizaz Khan,H Rathod,2,0,,,,,,"",""
+ball,1,17.1,Hong Kong,Aizaz Khan,Anshuman Rath,Amir Farooq,0,1,1,,,,,"",""
+ball,1,17.2,Hong Kong,Aizaz Khan,Anshuman Rath,Amir Farooq,1,0,,,,,,"",""
+ball,1,17.3,Hong Kong,Anshuman Rath,Aizaz Khan,Amir Farooq,0,1,,,,1,,"",""
+ball,1,17.4,Hong Kong,Aizaz Khan,Anshuman Rath,Amir Farooq,6,0,,,,,,"",""
+ball,1,17.5,Hong Kong,Aizaz Khan,Anshuman Rath,Amir Farooq,4,0,,,,,,"",""
+ball,1,17.6,Hong Kong,Aizaz Khan,Anshuman Rath,Amir Farooq,2,0,,,,,,"",""
+ball,1,17.7,Hong Kong,Aizaz Khan,Anshuman Rath,Amir Farooq,6,1,,1,,,,"",""
+ball,1,17.8,Hong Kong,Aizaz Khan,Anshuman Rath,Amir Farooq,6,0,,,,,,"",""
+ball,1,18.1,Hong Kong,Anshuman Rath,Aizaz Khan,Musawar Shah,0,0,,,,,,bowled,Anshuman Rath
+ball,1,18.2,Hong Kong,Zeeshan Ali,Aizaz Khan,Musawar Shah,1,0,,,,,,"",""
+ball,1,18.3,Hong Kong,Aizaz Khan,Zeeshan Ali,Musawar Shah,0,0,,,,,,bowled,Aizaz Khan
+ball,1,18.4,Hong Kong,Nasrulla Rana,Zeeshan Ali,Musawar Shah,1,0,,,,,,"",""
+ball,1,18.5,Hong Kong,Zeeshan Ali,Nasrulla Rana,Musawar Shah,0,0,,,,,,"",""
+ball,1,18.6,Hong Kong,Zeeshan Ali,Nasrulla Rana,Musawar Shah,0,1,1,,,,,"",""
+ball,1,18.7,Hong Kong,Zeeshan Ali,Nasrulla Rana,Musawar Shah,0,0,,,,,,"",""
+ball,1,19.1,Hong Kong,Nasrulla Rana,Zeeshan Ali,Gayan Munaweera,0,0,,,,,,caught,Nasrulla Rana
+ball,1,19.2,Hong Kong,Ehsan Khan,Zeeshan Ali,Gayan Munaweera,1,0,,,,,,"",""
+ball,1,19.3,Hong Kong,Zeeshan Ali,Ehsan Khan,Gayan Munaweera,4,0,,,,,,"",""
+ball,1,19.4,Hong Kong,Zeeshan Ali,Ehsan Khan,Gayan Munaweera,4,0,,,,,,"",""
+ball,1,19.5,Hong Kong,Zeeshan Ali,Ehsan Khan,Gayan Munaweera,6,0,,,,,,"",""
+ball,1,19.6,Hong Kong,Zeeshan Ali,Ehsan Khan,Gayan Munaweera,3,0,,,,,,"",""
+ball,2,0.1,Qatar,Saqlain Arshad,Adnan Mirza,Dhananjay Rao,1,0,,,,,,"",""
+ball,2,0.2,Qatar,Adnan Mirza,Saqlain Arshad,Dhananjay Rao,0,0,,,,,,"",""
+ball,2,0.3,Qatar,Adnan Mirza,Saqlain Arshad,Dhananjay Rao,1,0,,,,,,"",""
+ball,2,0.4,Qatar,Saqlain Arshad,Adnan Mirza,Dhananjay Rao,4,0,,,,,,"",""
+ball,2,0.5,Qatar,Saqlain Arshad,Adnan Mirza,Dhananjay Rao,1,0,,,,,,"",""
+ball,2,0.6,Qatar,Adnan Mirza,Saqlain Arshad,Dhananjay Rao,0,0,,,,,,"",""
+ball,2,1.1,Qatar,Saqlain Arshad,Adnan Mirza,Ateeq Iqbal,4,0,,,,,,"",""
+ball,2,1.2,Qatar,Saqlain Arshad,Adnan Mirza,Ateeq Iqbal,0,0,,,,,,"",""
+ball,2,1.3,Qatar,Saqlain Arshad,Adnan Mirza,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,1.4,Qatar,Adnan Mirza,Saqlain Arshad,Ateeq Iqbal,0,0,,,,,,"",""
+ball,2,1.5,Qatar,Adnan Mirza,Saqlain Arshad,Ateeq Iqbal,0,0,,,,,,"",""
+ball,2,1.6,Qatar,Adnan Mirza,Saqlain Arshad,Ateeq Iqbal,0,0,,,,,,"",""
+ball,2,2.1,Qatar,Saqlain Arshad,Adnan Mirza,Dhananjay Rao,0,0,,,,,,"",""
+ball,2,2.2,Qatar,Saqlain Arshad,Adnan Mirza,Dhananjay Rao,0,0,,,,,,"",""
+ball,2,2.3,Qatar,Saqlain Arshad,Adnan Mirza,Dhananjay Rao,1,0,,,,,,"",""
+ball,2,2.4,Qatar,Adnan Mirza,Saqlain Arshad,Dhananjay Rao,0,0,,,,,,caught,Adnan Mirza
+ball,2,2.5,Qatar,Mohammad Ahnaff,Saqlain Arshad,Dhananjay Rao,0,0,,,,,,"",""
+ball,2,2.6,Qatar,Mohammad Ahnaff,Saqlain Arshad,Dhananjay Rao,1,0,,,,,,"",""
+ball,2,3.1,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,3.2,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,3.3,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,6,0,,,,,,"",""
+ball,2,3.4,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,0,1,,,,1,,"",""
+ball,2,3.5,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,4,0,,,,,,"",""
+ball,2,3.6,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,4.1,Qatar,Saqlain Arshad,Mohammad Ahnaff,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,4.2,Qatar,Mohammad Ahnaff,Saqlain Arshad,Ateeq Iqbal,4,0,,,,,,"",""
+ball,2,4.3,Qatar,Mohammad Ahnaff,Saqlain Arshad,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,4.4,Qatar,Saqlain Arshad,Mohammad Ahnaff,Ateeq Iqbal,2,0,,,,,,"",""
+ball,2,4.5,Qatar,Saqlain Arshad,Mohammad Ahnaff,Ateeq Iqbal,4,0,,,,,,"",""
+ball,2,4.6,Qatar,Saqlain Arshad,Mohammad Ahnaff,Ateeq Iqbal,1,0,,,,,,"",""
+ball,2,5.1,Qatar,Saqlain Arshad,Mohammad Ahnaff,Aizaz Khan,4,0,,,,,,"",""
+ball,2,5.2,Qatar,Saqlain Arshad,Mohammad Ahnaff,Aizaz Khan,1,0,,,,,,"",""
+ball,2,5.3,Qatar,Mohammad Ahnaff,Saqlain Arshad,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,5.4,Qatar,Mohammad Ahnaff,Saqlain Arshad,Aizaz Khan,0,0,,,,,,"",""
+ball,2,5.5,Qatar,Mohammad Ahnaff,Saqlain Arshad,Aizaz Khan,2,0,,,,,,"",""
+ball,2,5.6,Qatar,Mohammad Ahnaff,Saqlain Arshad,Aizaz Khan,6,0,,,,,,"",""
+ball,2,5.7,Qatar,Mohammad Ahnaff,Saqlain Arshad,Aizaz Khan,1,0,,,,,,"",""
+ball,2,6.1,Qatar,Mohammad Ahnaff,Saqlain Arshad,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,6.2,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,6,0,,,,,,"",""
+ball,2,6.3,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,0,0,,,,,,"",""
+ball,2,6.4,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,4,0,,,,,,"",""
+ball,2,6.5,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,6.6,Qatar,Mohammad Ahnaff,Saqlain Arshad,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,7.1,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,7.2,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.3,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.4,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.5,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,7.6,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,8.1,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,4,0,,,,,,"",""
+ball,2,8.2,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,0,0,,,,,,"",""
+ball,2,8.3,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,0,0,,,,,,"",""
+ball,2,8.4,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,0,1,,,,1,,"",""
+ball,2,8.5,Qatar,Mohammad Ahnaff,Saqlain Arshad,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,8.6,Qatar,Saqlain Arshad,Mohammad Ahnaff,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,9.1,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,9.2,Qatar,Mohammad Ahnaff,Saqlain Arshad,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,9.3,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,9.4,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,9.5,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,9.6,Qatar,Saqlain Arshad,Mohammad Ahnaff,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,10.1,Qatar,Saqlain Arshad,Mohammad Ahnaff,Aizaz Khan,0,0,,,,,,caught,Saqlain Arshad
+ball,2,10.2,Qatar,Muhammad Tanveer,Mohammad Ahnaff,Aizaz Khan,1,0,,,,,,"",""
+ball,2,10.3,Qatar,Mohammad Ahnaff,Muhammad Tanveer,Aizaz Khan,2,0,,,,,,"",""
+ball,2,10.4,Qatar,Mohammad Ahnaff,Muhammad Tanveer,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,10.5,Qatar,Mohammad Ahnaff,Muhammad Tanveer,Aizaz Khan,1,0,,,,,,"",""
+ball,2,10.6,Qatar,Muhammad Tanveer,Mohammad Ahnaff,Aizaz Khan,1,0,,,,,,"",""
+ball,2,10.7,Qatar,Mohammad Ahnaff,Muhammad Tanveer,Aizaz Khan,0,1,1,,,,,"",""
+ball,2,10.8,Qatar,Mohammad Ahnaff,Muhammad Tanveer,Aizaz Khan,2,0,,,,,,"",""
+ball,2,11.1,Qatar,Muhammad Tanveer,Mohammad Ahnaff,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,11.2,Qatar,Mohammad Ahnaff,Muhammad Tanveer,Yasim Murtaza,0,0,,,,,,caught,Mohammad Ahnaff
+ball,2,11.3,Qatar,Kamran Khan,Muhammad Tanveer,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,11.4,Qatar,Kamran Khan,Muhammad Tanveer,Yasim Murtaza,1,0,,,,,,"",""
+ball,2,11.5,Qatar,Muhammad Tanveer,Kamran Khan,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,11.6,Qatar,Muhammad Tanveer,Kamran Khan,Yasim Murtaza,0,0,,,,,,"",""
+ball,2,12.1,Qatar,Kamran Khan,Muhammad Tanveer,Aizaz Khan,4,0,,,,,,"",""
+ball,2,12.2,Qatar,Kamran Khan,Muhammad Tanveer,Aizaz Khan,0,0,,,,,,"",""
+ball,2,12.3,Qatar,Kamran Khan,Muhammad Tanveer,Aizaz Khan,4,0,,,,,,"",""
+ball,2,12.4,Qatar,Kamran Khan,Muhammad Tanveer,Aizaz Khan,1,0,,,,,,"",""
+ball,2,12.5,Qatar,Muhammad Tanveer,Kamran Khan,Aizaz Khan,1,0,,,,,,"",""
+ball,2,12.6,Qatar,Kamran Khan,Muhammad Tanveer,Aizaz Khan,1,0,,,,,,"",""
+ball,2,13.1,Qatar,Kamran Khan,Muhammad Tanveer,Ehsan Khan,1,0,,,,,,"",""
+ball,2,13.2,Qatar,Muhammad Tanveer,Kamran Khan,Ehsan Khan,1,0,,,,,,"",""
+ball,2,13.3,Qatar,Kamran Khan,Muhammad Tanveer,Ehsan Khan,1,0,,,,,,"",""
+ball,2,13.4,Qatar,Muhammad Tanveer,Kamran Khan,Ehsan Khan,1,0,,,,,,"",""
+ball,2,13.5,Qatar,Kamran Khan,Muhammad Tanveer,Ehsan Khan,4,0,,,,,,"",""
+ball,2,13.6,Qatar,Kamran Khan,Muhammad Tanveer,Ehsan Khan,0,0,,,,,,caught,Kamran Khan
+ball,2,14.1,Qatar,Muhammad Tanveer,Amir Farooq,Nasrulla Rana,6,0,,,,,,"",""
+ball,2,14.2,Qatar,Muhammad Tanveer,Amir Farooq,Nasrulla Rana,6,0,,,,,,"",""
+ball,2,14.3,Qatar,Muhammad Tanveer,Amir Farooq,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,14.4,Qatar,Amir Farooq,Muhammad Tanveer,Nasrulla Rana,0,0,,,,,,"",""
+ball,2,14.5,Qatar,Amir Farooq,Muhammad Tanveer,Nasrulla Rana,0,0,,,,,,"",""
+ball,2,14.6,Qatar,Amir Farooq,Muhammad Tanveer,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,15.1,Qatar,Amir Farooq,Muhammad Tanveer,Ehsan Khan,0,0,,,,,,"",""
+ball,2,15.2,Qatar,Amir Farooq,Muhammad Tanveer,Ehsan Khan,0,0,,,,,,"",""
+ball,2,15.3,Qatar,Amir Farooq,Muhammad Tanveer,Ehsan Khan,0,0,,,,,,"",""
+ball,2,15.4,Qatar,Amir Farooq,Muhammad Tanveer,Ehsan Khan,1,0,,,,,,"",""
+ball,2,15.5,Qatar,Muhammad Tanveer,Amir Farooq,Ehsan Khan,4,0,,,,,,"",""
+ball,2,15.6,Qatar,Muhammad Tanveer,Amir Farooq,Ehsan Khan,1,0,,,,,,"",""
+ball,2,16.1,Qatar,Muhammad Tanveer,Amir Farooq,Aizaz Khan,4,0,,,,,,"",""
+ball,2,16.2,Qatar,Muhammad Tanveer,Amir Farooq,Aizaz Khan,1,0,,,,,,"",""
+ball,2,16.3,Qatar,Amir Farooq,Muhammad Tanveer,Aizaz Khan,6,0,,,,,,"",""
+ball,2,16.4,Qatar,Amir Farooq,Muhammad Tanveer,Aizaz Khan,1,0,,,,,,"",""
+ball,2,16.5,Qatar,Muhammad Tanveer,Amir Farooq,Aizaz Khan,1,0,,,,,,"",""
+ball,2,16.6,Qatar,Amir Farooq,Muhammad Tanveer,Aizaz Khan,1,0,,,,,,"",""
+ball,2,17.1,Qatar,Amir Farooq,Muhammad Tanveer,Ehsan Khan,4,0,,,,,,"",""
+ball,2,17.2,Qatar,Amir Farooq,Muhammad Tanveer,Ehsan Khan,0,0,,,,,,bowled,Amir Farooq
+ball,2,17.3,Qatar,H Rathod,Muhammad Tanveer,Ehsan Khan,1,0,,,,,,"",""
+ball,2,17.4,Qatar,Muhammad Tanveer,H Rathod,Ehsan Khan,6,0,,,,,,"",""
+ball,2,17.5,Qatar,Muhammad Tanveer,H Rathod,Ehsan Khan,0,0,,,,,,"",""
+ball,2,17.6,Qatar,Muhammad Tanveer,H Rathod,Ehsan Khan,4,0,,,,,,"",""
+ball,2,18.1,Qatar,H Rathod,Muhammad Tanveer,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,18.2,Qatar,Muhammad Tanveer,H Rathod,Nasrulla Rana,6,0,,,,,,"",""
+ball,2,18.3,Qatar,Muhammad Tanveer,H Rathod,Nasrulla Rana,0,1,1,,,,,"",""
+ball,2,18.4,Qatar,Muhammad Tanveer,H Rathod,Nasrulla Rana,0,0,,,,,,caught,Muhammad Tanveer
+ball,2,18.5,Qatar,Ikramullah Khan,H Rathod,Nasrulla Rana,1,0,,,,,,"",""
+ball,2,18.6,Qatar,H Rathod,Ikramullah Khan,Nasrulla Rana,0,0,,,,,,"",""
+ball,2,18.7,Qatar,H Rathod,Ikramullah Khan,Nasrulla Rana,4,0,,,,,,"",""
+ball,2,19.1,Qatar,Ikramullah Khan,H Rathod,Ehsan Khan,1,0,,,,,,"",""
+ball,2,19.2,Qatar,H Rathod,Ikramullah Khan,Ehsan Khan,0,0,,,,,,"",""
+ball,2,19.3,Qatar,H Rathod,Ikramullah Khan,Ehsan Khan,1,0,,,,,,"",""
+ball,2,19.4,Qatar,Ikramullah Khan,H Rathod,Ehsan Khan,0,0,,,,,,bowled,Ikramullah Khan
+ball,2,19.5,Qatar,Shahzaib Jamil,H Rathod,Ehsan Khan,0,0,,,,,,caught,Shahzaib Jamil
+ball,2,19.6,Qatar,Gayan Munaweera,H Rathod,Ehsan Khan,0,0,,,,,,"",""

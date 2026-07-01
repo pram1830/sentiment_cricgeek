@@ -1,0 +1,292 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Uganda
+info,gender,male
+info,season,2022
+info,date,2022/09/21
+info,event,Africa Cricket Association Cup
+info,venue,"Willowmoore Park, Benoni"
+info,city,Benoni
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,C Kyewuta
+info,umpire,John Mayeku
+info,umpire,M Moller
+info,reserve_umpire,EA Chitsondzo
+info,tv_umpire,D Odhiambo
+info,match_referee,ZTA Ndamane
+info,winner,Uganda
+info,winner_wickets,3
+info,method,D/L
+info,player,Kenya,RN Patel
+info,player,Kenya,S Singh
+info,player,Kenya,IA Karim
+info,player,Kenya,RR Patel
+info,player,Kenya,NN Odhiambo
+info,player,Kenya,LN Oluoch
+info,player,Kenya,SO Ngoche
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,E Otieno
+info,player,Kenya,Vraj Patel
+info,player,Kenya,S Biko
+info,player,Uganda,S Sesazi
+info,player,Uganda,B Masaba
+info,player,Uganda,D Muhumuza
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,AR Ramjani
+info,player,Uganda,K Waiswa
+info,player,Uganda,P Murungi
+info,player,Uganda,J Miyaji
+info,player,Uganda,F Achelam
+info,player,Uganda,C Kyewuta
+info,player,Uganda,F Nsubuga
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,D Muhumuza,7636b587
+info,registry,people,D Odhiambo,45994517
+info,registry,people,E Otieno,c57fa67e
+info,registry,people,EA Chitsondzo,87521e16
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,IA Karim,ca92a578
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Moller,ebeb2e9f
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,NN Odhiambo,753b5a2d
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Biko,b501b61e
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Vraj Patel,2af28253
+info,registry,people,ZTA Ndamane,545cc6db
+ball,1,0.1,Kenya,RN Patel,S Singh,C Kyewuta,1,0,,,,,,"",""
+ball,1,0.2,Kenya,S Singh,RN Patel,C Kyewuta,0,0,,,,,,"",""
+ball,1,0.3,Kenya,S Singh,RN Patel,C Kyewuta,0,0,,,,,,"",""
+ball,1,0.4,Kenya,S Singh,RN Patel,C Kyewuta,1,0,,,,,,"",""
+ball,1,0.5,Kenya,RN Patel,S Singh,C Kyewuta,4,0,,,,,,"",""
+ball,1,0.6,Kenya,RN Patel,S Singh,C Kyewuta,1,0,,,,,,"",""
+ball,1,1.1,Kenya,RN Patel,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,1.2,Kenya,RN Patel,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,1.3,Kenya,RN Patel,S Singh,J Miyaji,4,0,,,,,,"",""
+ball,1,1.4,Kenya,RN Patel,S Singh,J Miyaji,2,0,,,,,,"",""
+ball,1,1.5,Kenya,RN Patel,S Singh,J Miyaji,1,0,,,,,,"",""
+ball,1,1.6,Kenya,S Singh,RN Patel,J Miyaji,0,0,,,,,,"",""
+ball,1,2.1,Kenya,RN Patel,S Singh,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.2,Kenya,RN Patel,S Singh,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.3,Kenya,RN Patel,S Singh,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.4,Kenya,RN Patel,S Singh,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.5,Kenya,RN Patel,S Singh,C Kyewuta,0,0,,,,,,caught,RN Patel
+ball,1,2.6,Kenya,S Singh,IA Karim,C Kyewuta,2,0,,,,,,"",""
+ball,1,3.1,Kenya,IA Karim,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,3.2,Kenya,IA Karim,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,3.3,Kenya,IA Karim,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,3.4,Kenya,IA Karim,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,3.5,Kenya,IA Karim,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,3.6,Kenya,IA Karim,S Singh,J Miyaji,0,0,,,,,,"",""
+ball,1,4.1,Kenya,S Singh,IA Karim,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,4.2,Kenya,S Singh,IA Karim,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,4.3,Kenya,S Singh,IA Karim,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,4.4,Kenya,S Singh,IA Karim,Riazat Ali Shah,2,0,,,,,,"",""
+ball,1,4.5,Kenya,S Singh,IA Karim,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,4.6,Kenya,S Singh,IA Karim,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,5.1,Kenya,IA Karim,S Singh,K Waiswa,0,0,,,,,,"",""
+ball,1,5.2,Kenya,IA Karim,S Singh,K Waiswa,1,0,,,,,,"",""
+ball,1,5.3,Kenya,S Singh,IA Karim,K Waiswa,0,0,,,,,,"",""
+ball,1,5.4,Kenya,S Singh,IA Karim,K Waiswa,0,0,,,,,,caught,S Singh
+ball,1,5.5,Kenya,RR Patel,IA Karim,K Waiswa,1,0,,,,,,"",""
+ball,1,5.6,Kenya,IA Karim,RR Patel,K Waiswa,0,0,,,,,,"",""
+ball,1,6.1,Kenya,RR Patel,IA Karim,Riazat Ali Shah,2,0,,,,,,"",""
+ball,1,6.2,Kenya,RR Patel,IA Karim,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,6.3,Kenya,RR Patel,IA Karim,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,6.4,Kenya,IA Karim,RR Patel,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,6.5,Kenya,IA Karim,RR Patel,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,6.6,Kenya,IA Karim,RR Patel,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,7.1,Kenya,RR Patel,IA Karim,J Miyaji,0,0,,,,,,caught,RR Patel
+ball,1,7.2,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,"",""
+ball,1,7.3,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,"",""
+ball,1,7.4,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,"",""
+ball,1,7.5,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,"",""
+ball,1,7.6,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,"",""
+ball,1,8.1,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,8.2,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,8.3,Kenya,NN Odhiambo,IA Karim,Riazat Ali Shah,0,1,,,,1,,"",""
+ball,1,8.4,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,8.5,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,8.6,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,9.1,Kenya,NN Odhiambo,IA Karim,K Waiswa,0,1,,,,1,,"",""
+ball,1,9.2,Kenya,IA Karim,NN Odhiambo,K Waiswa,0,0,,,,,,"",""
+ball,1,9.3,Kenya,IA Karim,NN Odhiambo,K Waiswa,1,0,,,,,,"",""
+ball,1,9.4,Kenya,NN Odhiambo,IA Karim,K Waiswa,4,0,,,,,,"",""
+ball,1,9.5,Kenya,NN Odhiambo,IA Karim,K Waiswa,4,0,,,,,,"",""
+ball,1,9.6,Kenya,NN Odhiambo,IA Karim,K Waiswa,0,0,,,,,,"",""
+ball,1,10.1,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,10.2,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,10.3,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,6,0,,,,,,"",""
+ball,1,10.4,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,10.5,Kenya,NN Odhiambo,IA Karim,Riazat Ali Shah,1,0,,,,,,"",""
+ball,1,10.6,Kenya,IA Karim,NN Odhiambo,Riazat Ali Shah,0,0,,,,,,"",""
+ball,1,11.1,Kenya,NN Odhiambo,IA Karim,K Waiswa,0,0,,,,,,"",""
+ball,1,11.2,Kenya,NN Odhiambo,IA Karim,K Waiswa,1,0,,,,,,"",""
+ball,1,11.3,Kenya,IA Karim,NN Odhiambo,K Waiswa,4,0,,,,,,"",""
+ball,1,11.4,Kenya,IA Karim,NN Odhiambo,K Waiswa,6,0,,,,,,"",""
+ball,1,11.5,Kenya,IA Karim,NN Odhiambo,K Waiswa,0,1,1,,,,,"",""
+ball,1,11.6,Kenya,IA Karim,NN Odhiambo,K Waiswa,0,0,,,,,,"",""
+ball,1,11.7,Kenya,IA Karim,NN Odhiambo,K Waiswa,4,0,,,,,,"",""
+ball,1,12.1,Kenya,NN Odhiambo,IA Karim,F Nsubuga,2,0,,,,,,"",""
+ball,1,12.2,Kenya,NN Odhiambo,IA Karim,F Nsubuga,4,0,,,,,,"",""
+ball,1,12.3,Kenya,NN Odhiambo,IA Karim,F Nsubuga,0,0,,,,,,"",""
+ball,1,12.4,Kenya,NN Odhiambo,IA Karim,F Nsubuga,0,0,,,,,,"",""
+ball,1,12.5,Kenya,NN Odhiambo,IA Karim,F Nsubuga,0,0,,,,,,"",""
+ball,1,12.6,Kenya,NN Odhiambo,IA Karim,F Nsubuga,1,0,,,,,,"",""
+ball,1,13.1,Kenya,NN Odhiambo,IA Karim,C Kyewuta,1,0,,,,,,"",""
+ball,1,13.2,Kenya,IA Karim,NN Odhiambo,C Kyewuta,0,0,,,,,,"",""
+ball,1,13.3,Kenya,IA Karim,NN Odhiambo,C Kyewuta,4,0,,,,,,"",""
+ball,1,13.4,Kenya,IA Karim,NN Odhiambo,C Kyewuta,4,0,,,,,,"",""
+ball,1,13.5,Kenya,IA Karim,NN Odhiambo,C Kyewuta,0,0,,,,,,"",""
+ball,1,13.6,Kenya,IA Karim,NN Odhiambo,C Kyewuta,0,1,1,,,,,"",""
+ball,1,13.7,Kenya,IA Karim,NN Odhiambo,C Kyewuta,1,0,,,,,,"",""
+ball,1,14.1,Kenya,IA Karim,NN Odhiambo,D Muhumuza,4,0,,,,,,"",""
+ball,1,14.2,Kenya,IA Karim,NN Odhiambo,D Muhumuza,1,0,,,,,,"",""
+ball,1,14.3,Kenya,NN Odhiambo,IA Karim,D Muhumuza,0,2,,,2,,,"",""
+ball,1,14.4,Kenya,NN Odhiambo,IA Karim,D Muhumuza,1,0,,,,,,"",""
+ball,1,14.5,Kenya,IA Karim,NN Odhiambo,D Muhumuza,1,0,,,,,,"",""
+ball,1,14.6,Kenya,NN Odhiambo,IA Karim,D Muhumuza,0,0,,,,,,"",""
+ball,1,15.1,Kenya,IA Karim,NN Odhiambo,J Miyaji,1,0,,,,,,"",""
+ball,1,15.2,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,1,1,,,,,"",""
+ball,1,15.3,Kenya,NN Odhiambo,IA Karim,J Miyaji,2,0,,,,,,"",""
+ball,1,15.4,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,"",""
+ball,1,15.5,Kenya,NN Odhiambo,IA Karim,J Miyaji,2,0,,,,,,"",""
+ball,1,15.6,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,"",""
+ball,1,15.7,Kenya,NN Odhiambo,IA Karim,J Miyaji,0,0,,,,,,caught,NN Odhiambo
+ball,1,16.1,Kenya,IA Karim,LN Oluoch,D Muhumuza,6,0,,,,,,"",""
+ball,1,16.2,Kenya,IA Karim,LN Oluoch,D Muhumuza,1,0,,,,,,"",""
+ball,1,16.3,Kenya,LN Oluoch,IA Karim,D Muhumuza,1,0,,,,,,"",""
+ball,1,16.4,Kenya,IA Karim,LN Oluoch,D Muhumuza,1,0,,,,,,"",""
+ball,1,16.5,Kenya,LN Oluoch,IA Karim,D Muhumuza,2,0,,,,,,"",""
+ball,1,16.6,Kenya,LN Oluoch,IA Karim,D Muhumuza,0,0,,,,,,"",""
+ball,1,17.1,Kenya,IA Karim,LN Oluoch,C Kyewuta,0,0,,,,,,"",""
+ball,1,17.2,Kenya,IA Karim,LN Oluoch,C Kyewuta,0,0,,,,,,"",""
+ball,1,17.3,Kenya,IA Karim,LN Oluoch,C Kyewuta,0,0,,,,,,caught,IA Karim
+ball,1,17.4,Kenya,SO Ngoche,LN Oluoch,C Kyewuta,0,1,1,,,,,"",""
+ball,1,17.5,Kenya,SO Ngoche,LN Oluoch,C Kyewuta,0,0,,,,,,caught,SO Ngoche
+ball,1,17.6,Kenya,LN Oluoch,NM Odhiambo,C Kyewuta,1,0,,,,,,run out,NM Odhiambo
+ball,1,17.7,Kenya,LN Oluoch,E Otieno,C Kyewuta,0,0,,,,,,bowled,LN Oluoch
+ball,2,0.1,Uganda,S Sesazi,B Masaba,E Otieno,0,0,,,,,,"",""
+ball,2,0.2,Uganda,S Sesazi,B Masaba,E Otieno,1,0,,,,,,"",""
+ball,2,0.3,Uganda,B Masaba,S Sesazi,E Otieno,0,0,,,,,,"",""
+ball,2,0.4,Uganda,B Masaba,S Sesazi,E Otieno,0,0,,,,,,"",""
+ball,2,0.5,Uganda,B Masaba,S Sesazi,E Otieno,1,0,,,,,,"",""
+ball,2,0.6,Uganda,S Sesazi,B Masaba,E Otieno,0,0,,,,,,"",""
+ball,2,1.1,Uganda,B Masaba,S Sesazi,LN Oluoch,0,0,,,,,,bowled,B Masaba
+ball,2,1.2,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,1.3,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,1,1,,,,,"",""
+ball,2,1.4,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,1,,1,,,,"",""
+ball,2,1.5,Uganda,D Muhumuza,S Sesazi,LN Oluoch,6,0,,,,,,"",""
+ball,2,1.6,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,1.7,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,1.8,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,2.1,Uganda,S Sesazi,D Muhumuza,E Otieno,0,0,,,,,,"",""
+ball,2,2.2,Uganda,S Sesazi,D Muhumuza,E Otieno,0,1,1,,,,,"",""
+ball,2,2.3,Uganda,S Sesazi,D Muhumuza,E Otieno,2,0,,,,,,"",""
+ball,2,2.4,Uganda,S Sesazi,D Muhumuza,E Otieno,4,0,,,,,,"",""
+ball,2,2.5,Uganda,S Sesazi,D Muhumuza,E Otieno,0,0,,,,,,"",""
+ball,2,2.6,Uganda,S Sesazi,D Muhumuza,E Otieno,0,1,1,,,,,"",""
+ball,2,2.7,Uganda,S Sesazi,D Muhumuza,E Otieno,0,0,,,,,,"",""
+ball,2,2.8,Uganda,S Sesazi,D Muhumuza,E Otieno,4,0,,,,,,"",""
+ball,2,3.1,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,3.2,Uganda,D Muhumuza,S Sesazi,LN Oluoch,0,0,,,,,,caught,D Muhumuza
+ball,2,3.3,Uganda,Riazat Ali Shah,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,3.4,Uganda,Riazat Ali Shah,S Sesazi,LN Oluoch,4,0,,,,,,"",""
+ball,2,3.5,Uganda,Riazat Ali Shah,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,3.6,Uganda,Riazat Ali Shah,S Sesazi,LN Oluoch,0,0,,,,,,"",""
+ball,2,4.1,Uganda,S Sesazi,Riazat Ali Shah,SO Ngoche,0,0,,,,,,"",""
+ball,2,4.2,Uganda,S Sesazi,Riazat Ali Shah,SO Ngoche,1,0,,,,,,"",""
+ball,2,4.3,Uganda,Riazat Ali Shah,S Sesazi,SO Ngoche,0,0,,,,,,"",""
+ball,2,4.4,Uganda,Riazat Ali Shah,S Sesazi,SO Ngoche,1,0,,,,,,"",""
+ball,2,4.5,Uganda,S Sesazi,Riazat Ali Shah,SO Ngoche,0,0,,,,,,"",""
+ball,2,4.6,Uganda,S Sesazi,Riazat Ali Shah,SO Ngoche,4,0,,,,,,"",""
+ball,2,5.1,Uganda,Riazat Ali Shah,S Sesazi,Vraj Patel,0,0,,,,,,"",""
+ball,2,5.2,Uganda,Riazat Ali Shah,S Sesazi,Vraj Patel,0,0,,,,,,"",""
+ball,2,5.3,Uganda,Riazat Ali Shah,S Sesazi,Vraj Patel,0,0,,,,,,"",""
+ball,2,5.4,Uganda,Riazat Ali Shah,S Sesazi,Vraj Patel,1,0,,,,,,"",""
+ball,2,5.5,Uganda,S Sesazi,Riazat Ali Shah,Vraj Patel,2,0,,,,,,"",""
+ball,2,5.6,Uganda,S Sesazi,Riazat Ali Shah,Vraj Patel,1,0,,,,,,"",""
+ball,2,6.1,Uganda,S Sesazi,Riazat Ali Shah,SO Ngoche,1,0,,,,,,"",""
+ball,2,6.2,Uganda,Riazat Ali Shah,S Sesazi,SO Ngoche,0,0,,,,,,"",""
+ball,2,6.3,Uganda,Riazat Ali Shah,S Sesazi,SO Ngoche,1,0,,,,,,"",""
+ball,2,6.4,Uganda,S Sesazi,Riazat Ali Shah,SO Ngoche,1,0,,,,,,"",""
+ball,2,6.5,Uganda,Riazat Ali Shah,S Sesazi,SO Ngoche,1,0,,,,,,"",""
+ball,2,6.6,Uganda,S Sesazi,Riazat Ali Shah,SO Ngoche,1,0,,,,,,"",""
+ball,2,7.1,Uganda,S Sesazi,Riazat Ali Shah,Vraj Patel,0,0,,,,,,"",""
+ball,2,7.2,Uganda,S Sesazi,Riazat Ali Shah,Vraj Patel,0,0,,,,,,caught,S Sesazi
+ball,2,7.3,Uganda,Riazat Ali Shah,AR Ramjani,Vraj Patel,0,0,,,,,,"",""
+ball,2,7.4,Uganda,Riazat Ali Shah,AR Ramjani,Vraj Patel,1,0,,,,,,"",""
+ball,2,7.5,Uganda,AR Ramjani,Riazat Ali Shah,Vraj Patel,0,0,,,,,,"",""
+ball,2,7.6,Uganda,AR Ramjani,Riazat Ali Shah,Vraj Patel,0,0,,,,,,"",""
+ball,2,8.1,Uganda,Riazat Ali Shah,AR Ramjani,NM Odhiambo,4,0,,,,,,"",""
+ball,2,8.2,Uganda,Riazat Ali Shah,AR Ramjani,NM Odhiambo,0,1,1,,,,,"",""
+ball,2,8.3,Uganda,Riazat Ali Shah,AR Ramjani,NM Odhiambo,0,0,,,,,,"",""
+ball,2,8.4,Uganda,Riazat Ali Shah,AR Ramjani,NM Odhiambo,0,0,,,,,,"",""
+ball,2,8.5,Uganda,Riazat Ali Shah,AR Ramjani,NM Odhiambo,1,0,,,,,,"",""
+ball,2,8.6,Uganda,AR Ramjani,Riazat Ali Shah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,8.7,Uganda,AR Ramjani,Riazat Ali Shah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,9.1,Uganda,Riazat Ali Shah,AR Ramjani,S Biko,0,0,,,,,,"",""
+ball,2,9.2,Uganda,Riazat Ali Shah,AR Ramjani,S Biko,0,0,,,,,,"",""
+ball,2,9.3,Uganda,Riazat Ali Shah,AR Ramjani,S Biko,0,0,,,,,,"",""
+ball,2,9.4,Uganda,Riazat Ali Shah,AR Ramjani,S Biko,1,0,,,,,,"",""
+ball,2,9.5,Uganda,AR Ramjani,Riazat Ali Shah,S Biko,0,0,,,,,,"",""
+ball,2,9.6,Uganda,AR Ramjani,Riazat Ali Shah,S Biko,1,0,,,,,,"",""
+ball,2,10.1,Uganda,AR Ramjani,Riazat Ali Shah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,10.2,Uganda,AR Ramjani,Riazat Ali Shah,NM Odhiambo,1,0,,,,,,"",""
+ball,2,10.3,Uganda,Riazat Ali Shah,AR Ramjani,NM Odhiambo,4,0,,,,,,"",""
+ball,2,10.4,Uganda,Riazat Ali Shah,AR Ramjani,NM Odhiambo,1,0,,,,,,"",""
+ball,2,10.5,Uganda,AR Ramjani,Riazat Ali Shah,NM Odhiambo,4,0,,,,,,"",""
+ball,2,10.6,Uganda,AR Ramjani,Riazat Ali Shah,NM Odhiambo,0,0,,,,,,"",""
+ball,2,11.1,Uganda,Riazat Ali Shah,AR Ramjani,S Biko,1,0,,,,,,"",""
+ball,2,11.2,Uganda,AR Ramjani,Riazat Ali Shah,S Biko,1,0,,,,,,"",""
+ball,2,11.3,Uganda,Riazat Ali Shah,AR Ramjani,S Biko,1,0,,,,,,"",""
+ball,2,11.4,Uganda,AR Ramjani,Riazat Ali Shah,S Biko,0,0,,,,,,"",""
+ball,2,11.5,Uganda,AR Ramjani,Riazat Ali Shah,S Biko,1,0,,,,,,"",""
+ball,2,11.6,Uganda,Riazat Ali Shah,AR Ramjani,S Biko,1,0,,,,,,"",""
+ball,2,12.1,Uganda,Riazat Ali Shah,AR Ramjani,SO Ngoche,0,0,,,,,,"",""
+ball,2,12.2,Uganda,Riazat Ali Shah,AR Ramjani,SO Ngoche,1,0,,,,,,"",""
+ball,2,12.3,Uganda,AR Ramjani,Riazat Ali Shah,SO Ngoche,1,0,,,,,,"",""
+ball,2,12.4,Uganda,Riazat Ali Shah,AR Ramjani,SO Ngoche,1,0,,,,,,"",""
+ball,2,12.5,Uganda,AR Ramjani,Riazat Ali Shah,SO Ngoche,4,0,,,,,,"",""
+ball,2,12.6,Uganda,AR Ramjani,Riazat Ali Shah,SO Ngoche,0,0,,,,,,"",""
+ball,2,13.1,Uganda,Riazat Ali Shah,AR Ramjani,Vraj Patel,1,0,,,,,,"",""
+ball,2,13.2,Uganda,AR Ramjani,Riazat Ali Shah,Vraj Patel,0,0,,,,,,lbw,AR Ramjani
+ball,2,13.3,Uganda,K Waiswa,Riazat Ali Shah,Vraj Patel,0,0,,,,,,"",""
+ball,2,13.4,Uganda,K Waiswa,Riazat Ali Shah,Vraj Patel,0,0,,,,,,lbw,K Waiswa
+ball,2,13.5,Uganda,P Murungi,Riazat Ali Shah,Vraj Patel,0,0,,,,,,"",""
+ball,2,13.6,Uganda,P Murungi,Riazat Ali Shah,Vraj Patel,0,0,,,,,,"",""
+ball,2,14.1,Uganda,Riazat Ali Shah,P Murungi,SO Ngoche,1,0,,,,,,"",""
+ball,2,14.2,Uganda,P Murungi,Riazat Ali Shah,SO Ngoche,1,0,,,,,,"",""
+ball,2,14.3,Uganda,Riazat Ali Shah,P Murungi,SO Ngoche,0,0,,,,,,"",""
+ball,2,14.4,Uganda,Riazat Ali Shah,P Murungi,SO Ngoche,0,0,,,,,,"",""
+ball,2,14.5,Uganda,Riazat Ali Shah,P Murungi,SO Ngoche,1,0,,,,,,"",""
+ball,2,14.6,Uganda,P Murungi,Riazat Ali Shah,SO Ngoche,1,0,,,,,,"",""
+ball,2,15.1,Uganda,P Murungi,Riazat Ali Shah,Vraj Patel,3,0,,,,,,"",""
+ball,2,15.2,Uganda,Riazat Ali Shah,P Murungi,Vraj Patel,0,0,,,,,,"",""
+ball,2,15.3,Uganda,Riazat Ali Shah,P Murungi,Vraj Patel,1,0,,,,,,"",""
+ball,2,15.4,Uganda,P Murungi,Riazat Ali Shah,Vraj Patel,0,0,,,,,,"",""
+ball,2,15.5,Uganda,P Murungi,Riazat Ali Shah,Vraj Patel,1,0,,,,,,"",""
+ball,2,15.6,Uganda,Riazat Ali Shah,P Murungi,Vraj Patel,1,0,,,,,,"",""
+ball,2,16.1,Uganda,Riazat Ali Shah,P Murungi,LN Oluoch,6,0,,,,,,"",""
+ball,2,16.2,Uganda,Riazat Ali Shah,P Murungi,LN Oluoch,6,0,,,,,,"",""
+ball,2,16.3,Uganda,Riazat Ali Shah,P Murungi,LN Oluoch,6,0,,,,,,"",""
+ball,2,16.4,Uganda,Riazat Ali Shah,P Murungi,LN Oluoch,0,0,,,,,,caught,Riazat Ali Shah
+ball,2,16.5,Uganda,P Murungi,J Miyaji,LN Oluoch,0,0,,,,,,bowled,P Murungi
+ball,2,16.6,Uganda,F Achelam,J Miyaji,LN Oluoch,0,0,,,,,,"",""
+ball,2,17.1,Uganda,J Miyaji,F Achelam,RR Patel,4,0,,,,,,"",""
+ball,2,17.2,Uganda,J Miyaji,F Achelam,RR Patel,0,0,,,,,,"",""
+ball,2,17.3,Uganda,J Miyaji,F Achelam,RR Patel,2,0,,,,,,"",""

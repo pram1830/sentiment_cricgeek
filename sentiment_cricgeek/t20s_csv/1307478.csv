@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Scotland
+info,gender,male
+info,season,2022
+info,date,2022/07/29
+info,event,New Zealand tour of Scotland
+info,match_number,2
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,MS Chapman
+info,umpire,DH Mclean
+info,umpire,Ryan Milne
+info,tv_umpire,DA Haggo
+info,match_referee,Wayne Noon
+info,winner,New Zealand
+info,winner_runs,102
+info,player,New Zealand,D Cleaver
+info,player,New Zealand,FH Allen
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,MJG Rippon
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,JA Duffy
+info,player,New Zealand,BV Sears
+info,player,Scotland,HG Munsey
+info,player,Scotland,MA Jones
+info,player,Scotland,MH Cross
+info,player,Scotland,RD Berrington
+info,player,Scotland,OJ Hairs
+info,player,Scotland,CN Greaves
+info,player,Scotland,MA Leask
+info,player,Scotland,MRJ Watt
+info,player,Scotland,GT Main
+info,player,Scotland,AC Evans
+info,player,Scotland,Hamza Tahir
+info,registry,people,AC Evans,e9a870ed
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GT Main,4ebc70ca
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Hamza Tahir,34cb2f69
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,MA Jones,05f96194
+info,registry,people,MA Leask,28131839
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,Wayne Noon,736e1761
+ball,1,0.1,New Zealand,D Cleaver,FH Allen,Hamza Tahir,4,0,,,,,,"",""
+ball,1,0.2,New Zealand,D Cleaver,FH Allen,Hamza Tahir,0,0,,,,,,"",""
+ball,1,0.3,New Zealand,D Cleaver,FH Allen,Hamza Tahir,1,0,,,,,,"",""
+ball,1,0.4,New Zealand,FH Allen,D Cleaver,Hamza Tahir,6,0,,,,,,"",""
+ball,1,0.5,New Zealand,FH Allen,D Cleaver,Hamza Tahir,0,1,,,,1,,"",""
+ball,1,0.6,New Zealand,D Cleaver,FH Allen,Hamza Tahir,0,0,,,,,,"",""
+ball,1,1.1,New Zealand,FH Allen,D Cleaver,AC Evans,0,0,,,,,,"",""
+ball,1,1.2,New Zealand,FH Allen,D Cleaver,AC Evans,0,1,,,,1,,"",""
+ball,1,1.3,New Zealand,D Cleaver,FH Allen,AC Evans,6,0,,,,,,"",""
+ball,1,1.4,New Zealand,D Cleaver,FH Allen,AC Evans,0,0,,,,,,"",""
+ball,1,1.5,New Zealand,D Cleaver,FH Allen,AC Evans,2,0,,,,,,"",""
+ball,1,1.6,New Zealand,D Cleaver,FH Allen,AC Evans,4,0,,,,,,"",""
+ball,1,2.1,New Zealand,FH Allen,D Cleaver,GT Main,0,0,,,,,,caught,FH Allen
+ball,1,2.2,New Zealand,MS Chapman,D Cleaver,GT Main,0,0,,,,,,"",""
+ball,1,2.3,New Zealand,MS Chapman,D Cleaver,GT Main,0,1,1,,,,,"",""
+ball,1,2.4,New Zealand,MS Chapman,D Cleaver,GT Main,0,0,,,,,,"",""
+ball,1,2.5,New Zealand,MS Chapman,D Cleaver,GT Main,0,0,,,,,,"",""
+ball,1,2.6,New Zealand,MS Chapman,D Cleaver,GT Main,0,0,,,,,,"",""
+ball,1,2.7,New Zealand,MS Chapman,D Cleaver,GT Main,6,0,,,,,,"",""
+ball,1,3.1,New Zealand,D Cleaver,MS Chapman,MRJ Watt,1,0,,,,,,"",""
+ball,1,3.2,New Zealand,MS Chapman,D Cleaver,MRJ Watt,0,0,,,,,,"",""
+ball,1,3.3,New Zealand,MS Chapman,D Cleaver,MRJ Watt,0,0,,,,,,"",""
+ball,1,3.4,New Zealand,MS Chapman,D Cleaver,MRJ Watt,4,0,,,,,,"",""
+ball,1,3.5,New Zealand,MS Chapman,D Cleaver,MRJ Watt,0,1,1,,,,,"",""
+ball,1,3.6,New Zealand,MS Chapman,D Cleaver,MRJ Watt,0,0,,,,,,"",""
+ball,1,3.7,New Zealand,MS Chapman,D Cleaver,MRJ Watt,4,0,,,,,,"",""
+ball,1,4.1,New Zealand,D Cleaver,MS Chapman,GT Main,4,0,,,,,,"",""
+ball,1,4.2,New Zealand,D Cleaver,MS Chapman,GT Main,1,0,,,,,,"",""
+ball,1,4.3,New Zealand,MS Chapman,D Cleaver,GT Main,1,0,,,,,,"",""
+ball,1,4.4,New Zealand,D Cleaver,MS Chapman,GT Main,0,0,,,,,,"",""
+ball,1,4.5,New Zealand,D Cleaver,MS Chapman,GT Main,1,0,,,,,,"",""
+ball,1,4.6,New Zealand,MS Chapman,D Cleaver,GT Main,6,0,,,,,,"",""
+ball,1,5.1,New Zealand,D Cleaver,MS Chapman,AC Evans,0,0,,,,,,"",""
+ball,1,5.2,New Zealand,D Cleaver,MS Chapman,AC Evans,0,1,1,,,,,"",""
+ball,1,5.3,New Zealand,D Cleaver,MS Chapman,AC Evans,4,0,,,,,,"",""
+ball,1,5.4,New Zealand,D Cleaver,MS Chapman,AC Evans,0,0,,,,,,caught,D Cleaver
+ball,1,5.5,New Zealand,MS Chapman,DJ Mitchell,AC Evans,0,0,,,,,,"",""
+ball,1,5.6,New Zealand,MS Chapman,DJ Mitchell,AC Evans,0,0,,,,,,"",""
+ball,1,5.7,New Zealand,MS Chapman,DJ Mitchell,AC Evans,2,0,,,,,,"",""
+ball,1,6.1,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,0,0,,,,,,"",""
+ball,1,6.2,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,0,0,,,,,,"",""
+ball,1,6.3,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,1,0,,,,,,"",""
+ball,1,6.4,New Zealand,MS Chapman,DJ Mitchell,Hamza Tahir,1,0,,,,,,"",""
+ball,1,6.5,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,1,0,,,,,,"",""
+ball,1,6.6,New Zealand,MS Chapman,DJ Mitchell,Hamza Tahir,2,0,,,,,,"",""
+ball,1,7.1,New Zealand,DJ Mitchell,MS Chapman,MA Leask,0,4,,,4,,,"",""
+ball,1,7.2,New Zealand,DJ Mitchell,MS Chapman,MA Leask,6,0,,,,,,"",""
+ball,1,7.3,New Zealand,DJ Mitchell,MS Chapman,MA Leask,2,0,,,,,,"",""
+ball,1,7.4,New Zealand,DJ Mitchell,MS Chapman,MA Leask,1,0,,,,,,"",""
+ball,1,7.5,New Zealand,MS Chapman,DJ Mitchell,MA Leask,0,0,,,,,,"",""
+ball,1,7.6,New Zealand,MS Chapman,DJ Mitchell,MA Leask,4,0,,,,,,"",""
+ball,1,8.1,New Zealand,DJ Mitchell,MS Chapman,MRJ Watt,1,0,,,,,,"",""
+ball,1,8.2,New Zealand,MS Chapman,DJ Mitchell,MRJ Watt,6,0,,,,,,"",""
+ball,1,8.3,New Zealand,MS Chapman,DJ Mitchell,MRJ Watt,1,0,,,,,,"",""
+ball,1,8.4,New Zealand,DJ Mitchell,MS Chapman,MRJ Watt,2,0,,,,,,"",""
+ball,1,8.5,New Zealand,DJ Mitchell,MS Chapman,MRJ Watt,0,0,,,,,,"",""
+ball,1,8.6,New Zealand,DJ Mitchell,MS Chapman,MRJ Watt,1,0,,,,,,"",""
+ball,1,9.1,New Zealand,DJ Mitchell,MS Chapman,CN Greaves,1,0,,,,,,"",""
+ball,1,9.2,New Zealand,MS Chapman,DJ Mitchell,CN Greaves,1,0,,,,,,"",""
+ball,1,9.3,New Zealand,DJ Mitchell,MS Chapman,CN Greaves,2,0,,,,,,"",""
+ball,1,9.4,New Zealand,DJ Mitchell,MS Chapman,CN Greaves,1,0,,,,,,"",""
+ball,1,9.5,New Zealand,MS Chapman,DJ Mitchell,CN Greaves,2,0,,,,,,"",""
+ball,1,9.6,New Zealand,MS Chapman,DJ Mitchell,CN Greaves,1,0,,,,,,"",""
+ball,1,10.1,New Zealand,MS Chapman,DJ Mitchell,Hamza Tahir,6,0,,,,,,"",""
+ball,1,10.2,New Zealand,MS Chapman,DJ Mitchell,Hamza Tahir,1,0,,,,,,"",""
+ball,1,10.3,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,6,0,,,,,,"",""
+ball,1,10.4,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,0,0,,,,,,"",""
+ball,1,10.5,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,6,0,,,,,,"",""
+ball,1,10.6,New Zealand,DJ Mitchell,MS Chapman,Hamza Tahir,0,0,,,,,,caught,DJ Mitchell
+ball,1,11.1,New Zealand,MS Chapman,MG Bracewell,CN Greaves,2,0,,,,,,"",""
+ball,1,11.2,New Zealand,MS Chapman,MG Bracewell,CN Greaves,1,0,,,,,,"",""
+ball,1,11.3,New Zealand,MG Bracewell,MS Chapman,CN Greaves,0,0,,,,,,"",""
+ball,1,11.4,New Zealand,MG Bracewell,MS Chapman,CN Greaves,0,2,2,,,,,"",""
+ball,1,11.5,New Zealand,MS Chapman,MG Bracewell,CN Greaves,1,0,,,,,,"",""
+ball,1,11.6,New Zealand,MG Bracewell,MS Chapman,CN Greaves,0,0,,,,,,"",""
+ball,1,11.7,New Zealand,MG Bracewell,MS Chapman,CN Greaves,0,0,,,,,,"",""
+ball,1,12.1,New Zealand,MS Chapman,MG Bracewell,MA Leask,4,0,,,,,,"",""
+ball,1,12.2,New Zealand,MS Chapman,MG Bracewell,MA Leask,6,0,,,,,,"",""
+ball,1,12.3,New Zealand,MS Chapman,MG Bracewell,MA Leask,0,0,,,,,,"",""
+ball,1,12.4,New Zealand,MS Chapman,MG Bracewell,MA Leask,0,0,,,,,,"",""
+ball,1,12.5,New Zealand,MS Chapman,MG Bracewell,MA Leask,0,0,,,,,,"",""
+ball,1,12.6,New Zealand,MS Chapman,MG Bracewell,MA Leask,1,0,,,,,,"",""
+ball,1,13.1,New Zealand,MS Chapman,MG Bracewell,Hamza Tahir,4,0,,,,,,"",""
+ball,1,13.2,New Zealand,MS Chapman,MG Bracewell,Hamza Tahir,6,0,,,,,,"",""
+ball,1,13.3,New Zealand,MS Chapman,MG Bracewell,Hamza Tahir,1,0,,,,,,"",""
+ball,1,13.4,New Zealand,MG Bracewell,MS Chapman,Hamza Tahir,1,0,,,,,,"",""
+ball,1,13.5,New Zealand,MS Chapman,MG Bracewell,Hamza Tahir,1,0,,,,,,"",""
+ball,1,13.6,New Zealand,MG Bracewell,MS Chapman,Hamza Tahir,6,0,,,,,,"",""
+ball,1,14.1,New Zealand,MS Chapman,MG Bracewell,AC Evans,1,0,,,,,,"",""
+ball,1,14.2,New Zealand,MG Bracewell,MS Chapman,AC Evans,4,0,,,,,,"",""
+ball,1,14.3,New Zealand,MG Bracewell,MS Chapman,AC Evans,4,0,,,,,,"",""
+ball,1,14.4,New Zealand,MG Bracewell,MS Chapman,AC Evans,1,0,,,,,,"",""
+ball,1,14.5,New Zealand,MS Chapman,MG Bracewell,AC Evans,6,0,,,,,,"",""
+ball,1,14.6,New Zealand,MS Chapman,MG Bracewell,AC Evans,1,0,,,,,,"",""
+ball,1,15.1,New Zealand,MS Chapman,MG Bracewell,CN Greaves,0,0,,,,,,"",""
+ball,1,15.2,New Zealand,MS Chapman,MG Bracewell,CN Greaves,0,0,,,,,,caught,MS Chapman
+ball,1,15.3,New Zealand,MG Bracewell,JDS Neesham,CN Greaves,1,0,,,,,,"",""
+ball,1,15.4,New Zealand,JDS Neesham,MG Bracewell,CN Greaves,2,0,,,,,,"",""
+ball,1,15.5,New Zealand,JDS Neesham,MG Bracewell,CN Greaves,0,0,,,,,,"",""
+ball,1,15.6,New Zealand,JDS Neesham,MG Bracewell,CN Greaves,6,0,,,,,,"",""
+ball,1,16.1,New Zealand,MG Bracewell,JDS Neesham,GT Main,0,1,,,,1,,"",""
+ball,1,16.2,New Zealand,JDS Neesham,MG Bracewell,GT Main,1,0,,,,,,"",""
+ball,1,16.3,New Zealand,MG Bracewell,JDS Neesham,GT Main,4,0,,,,,,"",""
+ball,1,16.4,New Zealand,MG Bracewell,JDS Neesham,GT Main,2,0,,,,,,"",""
+ball,1,16.5,New Zealand,MG Bracewell,JDS Neesham,GT Main,4,0,,,,,,"",""
+ball,1,16.6,New Zealand,MG Bracewell,JDS Neesham,GT Main,1,0,,,,,,"",""
+ball,1,17.1,New Zealand,MG Bracewell,JDS Neesham,MRJ Watt,2,0,,,,,,"",""
+ball,1,17.2,New Zealand,MG Bracewell,JDS Neesham,MRJ Watt,1,0,,,,,,"",""
+ball,1,17.3,New Zealand,JDS Neesham,MG Bracewell,MRJ Watt,6,0,,,,,,"",""
+ball,1,17.4,New Zealand,JDS Neesham,MG Bracewell,MRJ Watt,1,0,,,,,,"",""
+ball,1,17.5,New Zealand,MG Bracewell,JDS Neesham,MRJ Watt,4,0,,,,,,"",""
+ball,1,17.6,New Zealand,MG Bracewell,JDS Neesham,MRJ Watt,2,0,,,,,,"",""
+ball,1,18.1,New Zealand,JDS Neesham,MG Bracewell,AC Evans,1,0,,,,,,"",""
+ball,1,18.2,New Zealand,MG Bracewell,JDS Neesham,AC Evans,4,0,,,,,,"",""
+ball,1,18.3,New Zealand,MG Bracewell,JDS Neesham,AC Evans,0,1,1,,,,,"",""
+ball,1,18.4,New Zealand,MG Bracewell,JDS Neesham,AC Evans,4,0,,,,,,"",""
+ball,1,18.5,New Zealand,MG Bracewell,JDS Neesham,AC Evans,4,0,,,,,,"",""
+ball,1,18.6,New Zealand,MG Bracewell,JDS Neesham,AC Evans,6,0,,,,,,"",""
+ball,1,18.7,New Zealand,MG Bracewell,JDS Neesham,AC Evans,6,0,,,,,,"",""
+ball,1,19.1,New Zealand,JDS Neesham,MG Bracewell,GT Main,6,0,,,,,,"",""
+ball,1,19.2,New Zealand,JDS Neesham,MG Bracewell,GT Main,0,1,,,,1,,"",""
+ball,1,19.3,New Zealand,MG Bracewell,JDS Neesham,GT Main,0,2,,1,,1,,"",""
+ball,1,19.4,New Zealand,JDS Neesham,MG Bracewell,GT Main,1,0,,,,,,"",""
+ball,1,19.5,New Zealand,MG Bracewell,JDS Neesham,GT Main,0,1,,,,1,,"",""
+ball,1,19.6,New Zealand,JDS Neesham,MG Bracewell,GT Main,4,0,,,,,,"",""
+ball,1,19.7,New Zealand,JDS Neesham,MG Bracewell,GT Main,0,0,,,,,,caught,JDS Neesham
+ball,2,0.1,Scotland,HG Munsey,MA Jones,JA Duffy,0,0,,,,,,"",""
+ball,2,0.2,Scotland,HG Munsey,MA Jones,JA Duffy,4,0,,,,,,"",""
+ball,2,0.3,Scotland,HG Munsey,MA Jones,JA Duffy,0,0,,,,,,"",""
+ball,2,0.4,Scotland,HG Munsey,MA Jones,JA Duffy,4,0,,,,,,"",""
+ball,2,0.5,Scotland,HG Munsey,MA Jones,JA Duffy,4,0,,,,,,"",""
+ball,2,0.6,Scotland,HG Munsey,MA Jones,JA Duffy,1,0,,,,,,"",""
+ball,2,1.1,Scotland,HG Munsey,MA Jones,MG Bracewell,4,0,,,,,,"",""
+ball,2,1.2,Scotland,HG Munsey,MA Jones,MG Bracewell,0,0,,,,,,"",""
+ball,2,1.3,Scotland,HG Munsey,MA Jones,MG Bracewell,0,0,,,,,,"",""
+ball,2,1.4,Scotland,HG Munsey,MA Jones,MG Bracewell,1,0,,,,,,"",""
+ball,2,1.5,Scotland,MA Jones,HG Munsey,MG Bracewell,0,0,,,,,,"",""
+ball,2,1.6,Scotland,MA Jones,HG Munsey,MG Bracewell,0,0,,,,,,caught,MA Jones
+ball,2,2.1,Scotland,HG Munsey,MH Cross,BV Sears,0,0,,,,,,"",""
+ball,2,2.2,Scotland,HG Munsey,MH Cross,BV Sears,1,0,,,,,,"",""
+ball,2,2.3,Scotland,MH Cross,HG Munsey,BV Sears,0,0,,,,,,"",""
+ball,2,2.4,Scotland,MH Cross,HG Munsey,BV Sears,4,0,,,,,,"",""
+ball,2,2.5,Scotland,MH Cross,HG Munsey,BV Sears,0,1,1,,,,,"",""
+ball,2,2.6,Scotland,MH Cross,HG Munsey,BV Sears,0,0,,,,,,"",""
+ball,2,2.7,Scotland,MH Cross,HG Munsey,BV Sears,4,0,,,,,,"",""
+ball,2,3.1,Scotland,HG Munsey,MH Cross,JDS Neesham,0,0,,,,,,"",""
+ball,2,3.2,Scotland,HG Munsey,MH Cross,JDS Neesham,0,0,,,,,,lbw,HG Munsey
+ball,2,3.3,Scotland,RD Berrington,MH Cross,JDS Neesham,1,0,,,,,,"",""
+ball,2,3.4,Scotland,MH Cross,RD Berrington,JDS Neesham,4,0,,,,,,"",""
+ball,2,3.5,Scotland,MH Cross,RD Berrington,JDS Neesham,0,0,,,,,,caught,MH Cross
+ball,2,3.6,Scotland,OJ Hairs,RD Berrington,JDS Neesham,4,0,,,,,,"",""
+ball,2,4.1,Scotland,RD Berrington,OJ Hairs,BV Sears,0,0,,,,,,run out,OJ Hairs
+ball,2,4.2,Scotland,CN Greaves,RD Berrington,BV Sears,0,2,,,,2,,"",""
+ball,2,4.3,Scotland,CN Greaves,RD Berrington,BV Sears,0,0,,,,,,"",""
+ball,2,4.4,Scotland,CN Greaves,RD Berrington,BV Sears,2,0,,,,,,"",""
+ball,2,4.5,Scotland,CN Greaves,RD Berrington,BV Sears,0,0,,,,,,"",""
+ball,2,4.6,Scotland,CN Greaves,RD Berrington,BV Sears,0,0,,,,,,"",""
+ball,2,5.1,Scotland,RD Berrington,CN Greaves,MJ Santner,4,0,,,,,,"",""
+ball,2,5.2,Scotland,RD Berrington,CN Greaves,MJ Santner,0,0,,,,,,"",""
+ball,2,5.3,Scotland,RD Berrington,CN Greaves,MJ Santner,4,0,,,,,,"",""
+ball,2,5.4,Scotland,RD Berrington,CN Greaves,MJ Santner,4,0,,,,,,"",""
+ball,2,5.5,Scotland,RD Berrington,CN Greaves,MJ Santner,1,0,,,,,,"",""
+ball,2,5.6,Scotland,CN Greaves,RD Berrington,MJ Santner,0,0,,,,,,"",""
+ball,2,6.1,Scotland,RD Berrington,CN Greaves,IS Sodhi,0,2,,,,2,,"",""
+ball,2,6.2,Scotland,RD Berrington,CN Greaves,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.3,Scotland,CN Greaves,RD Berrington,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.4,Scotland,RD Berrington,CN Greaves,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.5,Scotland,CN Greaves,RD Berrington,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.6,Scotland,RD Berrington,CN Greaves,IS Sodhi,6,0,,,,,,"",""
+ball,2,7.1,Scotland,CN Greaves,RD Berrington,MJ Santner,1,0,,,,,,"",""
+ball,2,7.2,Scotland,RD Berrington,CN Greaves,MJ Santner,0,0,,,,,,caught,RD Berrington
+ball,2,7.3,Scotland,CN Greaves,MA Leask,MJ Santner,0,0,,,,,,"",""
+ball,2,7.4,Scotland,CN Greaves,MA Leask,MJ Santner,1,0,,,,,,"",""
+ball,2,7.5,Scotland,MA Leask,CN Greaves,MJ Santner,0,0,,,,,,"",""
+ball,2,7.6,Scotland,MA Leask,CN Greaves,MJ Santner,0,0,,,,,,"",""
+ball,2,8.1,Scotland,CN Greaves,MA Leask,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.2,Scotland,MA Leask,CN Greaves,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.3,Scotland,CN Greaves,MA Leask,IS Sodhi,2,0,,,,,,"",""
+ball,2,8.4,Scotland,CN Greaves,MA Leask,IS Sodhi,6,0,,,,,,"",""
+ball,2,8.5,Scotland,CN Greaves,MA Leask,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.6,Scotland,MA Leask,CN Greaves,IS Sodhi,0,0,,,,,,"",""
+ball,2,9.1,Scotland,CN Greaves,MA Leask,MJG Rippon,0,0,,,,,,"",""
+ball,2,9.2,Scotland,CN Greaves,MA Leask,MJG Rippon,6,0,,,,,,"",""
+ball,2,9.3,Scotland,CN Greaves,MA Leask,MJG Rippon,4,0,,,,,,"",""
+ball,2,9.4,Scotland,CN Greaves,MA Leask,MJG Rippon,0,1,1,,,,,"",""
+ball,2,9.5,Scotland,CN Greaves,MA Leask,MJG Rippon,0,0,,,,,,"",""
+ball,2,9.6,Scotland,CN Greaves,MA Leask,MJG Rippon,6,0,,,,,,"",""
+ball,2,9.7,Scotland,CN Greaves,MA Leask,MJG Rippon,0,0,,,,,,"",""
+ball,2,10.1,Scotland,MA Leask,CN Greaves,IS Sodhi,0,1,1,,,,,"",""
+ball,2,10.2,Scotland,MA Leask,CN Greaves,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.3,Scotland,CN Greaves,MA Leask,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.4,Scotland,MA Leask,CN Greaves,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.5,Scotland,MA Leask,CN Greaves,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.6,Scotland,MA Leask,CN Greaves,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.7,Scotland,CN Greaves,MA Leask,IS Sodhi,1,0,,,,,,"",""
+ball,2,11.1,Scotland,CN Greaves,MA Leask,MJ Santner,0,0,,,,,,"",""
+ball,2,11.2,Scotland,CN Greaves,MA Leask,MJ Santner,2,0,,,,,,"",""
+ball,2,11.3,Scotland,CN Greaves,MA Leask,MJ Santner,1,0,,,,,,"",""
+ball,2,11.4,Scotland,MA Leask,CN Greaves,MJ Santner,0,0,,,,,,"",""
+ball,2,11.5,Scotland,MA Leask,CN Greaves,MJ Santner,1,0,,,,,,"",""
+ball,2,11.6,Scotland,CN Greaves,MA Leask,MJ Santner,0,0,,,,,,"",""
+ball,2,12.1,Scotland,MA Leask,CN Greaves,IS Sodhi,0,0,,,,,,"",""
+ball,2,12.2,Scotland,MA Leask,CN Greaves,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.3,Scotland,CN Greaves,MA Leask,IS Sodhi,0,0,,,,,,"",""
+ball,2,12.4,Scotland,CN Greaves,MA Leask,IS Sodhi,0,0,,,,,,caught and bowled,CN Greaves
+ball,2,12.5,Scotland,MRJ Watt,MA Leask,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.6,Scotland,MA Leask,MRJ Watt,IS Sodhi,1,0,,,,,,"",""
+ball,2,13.1,Scotland,MA Leask,MRJ Watt,MJG Rippon,1,0,,,,,,"",""
+ball,2,13.2,Scotland,MRJ Watt,MA Leask,MJG Rippon,0,0,,,,,,"",""
+ball,2,13.3,Scotland,MRJ Watt,MA Leask,MJG Rippon,2,0,,,,,,"",""
+ball,2,13.4,Scotland,MRJ Watt,MA Leask,MJG Rippon,1,0,,,,,,"",""
+ball,2,13.5,Scotland,MA Leask,MRJ Watt,MJG Rippon,1,0,,,,,,"",""
+ball,2,13.6,Scotland,MRJ Watt,MA Leask,MJG Rippon,0,0,,,,,,"",""
+ball,2,14.1,Scotland,MA Leask,MRJ Watt,JA Duffy,0,0,,,,,,"",""
+ball,2,14.2,Scotland,MA Leask,MRJ Watt,JA Duffy,1,0,,,,,,"",""
+ball,2,14.3,Scotland,MRJ Watt,MA Leask,JA Duffy,2,0,,,,,,"",""
+ball,2,14.4,Scotland,MRJ Watt,MA Leask,JA Duffy,1,0,,,,,,"",""
+ball,2,14.5,Scotland,MA Leask,MRJ Watt,JA Duffy,4,0,,,,,,"",""
+ball,2,14.6,Scotland,MA Leask,MRJ Watt,JA Duffy,1,0,,,,,,"",""
+ball,2,15.1,Scotland,MA Leask,MRJ Watt,MJG Rippon,0,0,,,,,,stumped,MA Leask
+ball,2,15.2,Scotland,GT Main,MRJ Watt,MJG Rippon,0,0,,,,,,"",""
+ball,2,15.3,Scotland,GT Main,MRJ Watt,MJG Rippon,1,0,,,,,,"",""
+ball,2,15.4,Scotland,MRJ Watt,GT Main,MJG Rippon,4,0,,,,,,"",""
+ball,2,15.5,Scotland,MRJ Watt,GT Main,MJG Rippon,1,0,,,,,,"",""
+ball,2,15.6,Scotland,GT Main,MRJ Watt,MJG Rippon,0,0,,,,,,"",""
+ball,2,16.1,Scotland,MRJ Watt,GT Main,BV Sears,1,0,,,,,,"",""
+ball,2,16.2,Scotland,GT Main,MRJ Watt,BV Sears,1,0,,,,,,"",""
+ball,2,16.3,Scotland,MRJ Watt,GT Main,BV Sears,0,0,,,,,,caught,MRJ Watt
+ball,2,16.4,Scotland,GT Main,AC Evans,BV Sears,4,0,,,,,,"",""
+ball,2,16.5,Scotland,GT Main,AC Evans,BV Sears,0,0,,,,,,"",""
+ball,2,16.6,Scotland,GT Main,AC Evans,BV Sears,4,0,,,,,,"",""
+ball,2,17.1,Scotland,AC Evans,GT Main,MJG Rippon,4,0,,,,,,"",""
+ball,2,17.2,Scotland,AC Evans,GT Main,MJG Rippon,0,1,1,,,,,"",""
+ball,2,17.3,Scotland,AC Evans,GT Main,MJG Rippon,2,0,,,,,,"",""
+ball,2,17.4,Scotland,AC Evans,GT Main,MJG Rippon,2,0,,,,,,"",""
+ball,2,17.5,Scotland,AC Evans,GT Main,MJG Rippon,0,0,,,,,,"",""
+ball,2,17.6,Scotland,AC Evans,GT Main,MJG Rippon,0,0,,,,,,caught,AC Evans
+ball,2,17.7,Scotland,Hamza Tahir,GT Main,MJG Rippon,0,0,,,,,,"",""
+ball,2,18.1,Scotland,GT Main,Hamza Tahir,JA Duffy,1,0,,,,,,"",""
+ball,2,18.2,Scotland,Hamza Tahir,GT Main,JA Duffy,1,0,,,,,,"",""
+ball,2,18.3,Scotland,GT Main,Hamza Tahir,JA Duffy,0,0,,,,,,"",""
+ball,2,18.4,Scotland,GT Main,Hamza Tahir,JA Duffy,0,0,,,,,,"",""
+ball,2,18.5,Scotland,GT Main,Hamza Tahir,JA Duffy,0,0,,,,,,"",""
+ball,2,18.6,Scotland,GT Main,Hamza Tahir,JA Duffy,0,0,,,,,,"",""
+ball,2,19.1,Scotland,Hamza Tahir,GT Main,BV Sears,0,0,,,,,,"",""
+ball,2,19.2,Scotland,Hamza Tahir,GT Main,BV Sears,0,0,,,,,,"",""
+ball,2,19.3,Scotland,Hamza Tahir,GT Main,BV Sears,1,0,,,,,,"",""
+ball,2,19.4,Scotland,GT Main,Hamza Tahir,BV Sears,0,0,,,,,,"",""
+ball,2,19.5,Scotland,GT Main,Hamza Tahir,BV Sears,1,0,,,,,,"",""
+ball,2,19.6,Scotland,Hamza Tahir,GT Main,BV Sears,1,0,,,,,,"",""

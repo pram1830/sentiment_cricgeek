@@ -1,0 +1,327 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Sri Lanka
+info,gender,male
+info,season,2024
+info,date,2024/07/30
+info,event,India tour of Sri Lanka
+info,match_number,3
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,Washington Sundar
+info,umpire,RR Wimalasiri
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RMPJ Rambukwella
+info,tv_umpire,LE Hannibal
+info,match_referee,RS Madugalle
+info,outcome,tie
+info,eliminator,India
+info,player,India,YBK Jaiswal
+info,player,India,Shubman Gill
+info,player,India,SV Samson
+info,player,India,RK Singh
+info,player,India,SA Yadav
+info,player,India,S Dube
+info,player,India,R Parag
+info,player,India,Washington Sundar
+info,player,India,Ravi Bishnoi
+info,player,India,Mohammed Siraj
+info,player,India,KK Ahmed
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,RTM Mendis
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,C Wickramasinghe
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,AM Fernando
+info,player,Sri Lanka,M Pathirana
+info,registry,people,AM Fernando,de3d549a
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Wickramasinghe,a5c48ed1
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Parag,04a418e8
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YBK Jaiswal,6c19c6e5
+ball,1,0.1,India,YBK Jaiswal,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,0.2,India,YBK Jaiswal,Shubman Gill,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,0.3,India,Shubman Gill,YBK Jaiswal,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,0.4,India,Shubman Gill,YBK Jaiswal,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,0.5,India,YBK Jaiswal,Shubman Gill,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,0.6,India,Shubman Gill,YBK Jaiswal,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,1.1,India,YBK Jaiswal,Shubman Gill,M Theekshana,0,0,,,,,,"",""
+ball,1,1.2,India,YBK Jaiswal,Shubman Gill,M Theekshana,0,0,,,,,,"",""
+ball,1,1.3,India,YBK Jaiswal,Shubman Gill,M Theekshana,4,0,,,,,,"",""
+ball,1,1.4,India,YBK Jaiswal,Shubman Gill,M Theekshana,0,0,,,,,,"",""
+ball,1,1.5,India,YBK Jaiswal,Shubman Gill,M Theekshana,4,0,,,,,,"",""
+ball,1,1.6,India,YBK Jaiswal,Shubman Gill,M Theekshana,0,0,,,,,,lbw,YBK Jaiswal
+ball,1,2.1,India,Shubman Gill,SV Samson,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,2.2,India,SV Samson,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,2.3,India,SV Samson,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,2.4,India,SV Samson,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,2.5,India,SV Samson,Shubman Gill,C Wickramasinghe,0,0,,,,,,caught,SV Samson
+ball,1,2.6,India,RK Singh,Shubman Gill,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,3.1,India,RK Singh,Shubman Gill,M Theekshana,0,1,1,,,,,"",""
+ball,1,3.2,India,RK Singh,Shubman Gill,M Theekshana,0,0,,,,,,caught,RK Singh
+ball,1,3.3,India,SA Yadav,Shubman Gill,M Theekshana,1,0,,,,,,"",""
+ball,1,3.4,India,Shubman Gill,SA Yadav,M Theekshana,1,0,,,,,,"",""
+ball,1,3.5,India,SA Yadav,Shubman Gill,M Theekshana,4,0,,,,,,"",""
+ball,1,3.6,India,SA Yadav,Shubman Gill,M Theekshana,1,0,,,,,,"",""
+ball,1,3.7,India,Shubman Gill,SA Yadav,M Theekshana,0,0,,,,,,"",""
+ball,1,4.1,India,SA Yadav,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,4.2,India,SA Yadav,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,4.3,India,SA Yadav,Shubman Gill,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,4.4,India,Shubman Gill,SA Yadav,C Wickramasinghe,2,0,,,,,,"",""
+ball,1,4.5,India,Shubman Gill,SA Yadav,C Wickramasinghe,4,0,,,,,,"",""
+ball,1,4.6,India,Shubman Gill,SA Yadav,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,5.1,India,SA Yadav,Shubman Gill,AM Fernando,0,0,,,,,,"",""
+ball,1,5.2,India,SA Yadav,Shubman Gill,AM Fernando,1,0,,,,,,"",""
+ball,1,5.3,India,Shubman Gill,SA Yadav,AM Fernando,1,0,,,,,,"",""
+ball,1,5.4,India,SA Yadav,Shubman Gill,AM Fernando,0,0,,,,,,caught,SA Yadav
+ball,1,5.5,India,S Dube,Shubman Gill,AM Fernando,0,0,,,,,,"",""
+ball,1,5.6,India,S Dube,Shubman Gill,AM Fernando,0,0,,,,,,"",""
+ball,1,6.1,India,Shubman Gill,S Dube,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,6.2,India,S Dube,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,6.3,India,S Dube,Shubman Gill,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,6.4,India,Shubman Gill,S Dube,C Wickramasinghe,1,0,,,,,,"",""
+ball,1,6.5,India,S Dube,Shubman Gill,C Wickramasinghe,0,0,,,,,,"",""
+ball,1,6.6,India,S Dube,Shubman Gill,C Wickramasinghe,2,0,,,,,,"",""
+ball,1,7.1,India,Shubman Gill,S Dube,AM Fernando,1,0,,,,,,"",""
+ball,1,7.2,India,S Dube,Shubman Gill,AM Fernando,0,0,,,,,,"",""
+ball,1,7.3,India,S Dube,Shubman Gill,AM Fernando,2,0,,,,,,"",""
+ball,1,7.4,India,S Dube,Shubman Gill,AM Fernando,2,0,,,,,,"",""
+ball,1,7.5,India,S Dube,Shubman Gill,AM Fernando,2,0,,,,,,"",""
+ball,1,7.6,India,S Dube,Shubman Gill,AM Fernando,0,1,1,,,,,"",""
+ball,1,7.7,India,S Dube,Shubman Gill,AM Fernando,1,0,,,,,,"",""
+ball,1,8.1,India,S Dube,Shubman Gill,RTM Mendis,1,0,,,,,,"",""
+ball,1,8.2,India,Shubman Gill,S Dube,RTM Mendis,1,0,,,,,,"",""
+ball,1,8.3,India,S Dube,Shubman Gill,RTM Mendis,2,0,,,,,,"",""
+ball,1,8.4,India,S Dube,Shubman Gill,RTM Mendis,0,0,,,,,,caught,S Dube
+ball,1,8.5,India,R Parag,Shubman Gill,RTM Mendis,0,1,1,,,,,"",""
+ball,1,8.6,India,R Parag,Shubman Gill,RTM Mendis,1,0,,,,,,"",""
+ball,1,8.7,India,Shubman Gill,R Parag,RTM Mendis,0,1,1,,,,,"",""
+ball,1,8.8,India,Shubman Gill,R Parag,RTM Mendis,2,0,,,,,,"",""
+ball,1,9.1,India,R Parag,Shubman Gill,PWH de Silva,1,0,,,,,,"",""
+ball,1,9.2,India,Shubman Gill,R Parag,PWH de Silva,1,0,,,,,,"",""
+ball,1,9.3,India,R Parag,Shubman Gill,PWH de Silva,1,0,,,,,,"",""
+ball,1,9.4,India,Shubman Gill,R Parag,PWH de Silva,1,0,,,,,,"",""
+ball,1,9.5,India,R Parag,Shubman Gill,PWH de Silva,1,0,,,,,,"",""
+ball,1,9.6,India,Shubman Gill,R Parag,PWH de Silva,1,0,,,,,,"",""
+ball,1,10.1,India,Shubman Gill,R Parag,RTM Mendis,0,0,,,,,,"",""
+ball,1,10.2,India,Shubman Gill,R Parag,RTM Mendis,1,0,,,,,,"",""
+ball,1,10.3,India,R Parag,Shubman Gill,RTM Mendis,4,0,,,,,,"",""
+ball,1,10.4,India,R Parag,Shubman Gill,RTM Mendis,1,0,,,,,,"",""
+ball,1,10.5,India,Shubman Gill,R Parag,RTM Mendis,2,0,,,,,,"",""
+ball,1,10.6,India,Shubman Gill,R Parag,RTM Mendis,1,0,,,,,,"",""
+ball,1,11.1,India,Shubman Gill,R Parag,PWH de Silva,0,1,,,,1,,"",""
+ball,1,11.2,India,R Parag,Shubman Gill,PWH de Silva,1,0,,,,,,"",""
+ball,1,11.3,India,Shubman Gill,R Parag,PWH de Silva,2,0,,,,,,"",""
+ball,1,11.4,India,Shubman Gill,R Parag,PWH de Silva,1,0,,,,,,"",""
+ball,1,11.5,India,R Parag,Shubman Gill,PWH de Silva,0,0,,,,,,"",""
+ball,1,11.6,India,R Parag,Shubman Gill,PWH de Silva,1,0,,,,,,"",""
+ball,1,12.1,India,R Parag,Shubman Gill,PHKD Mendis,1,0,,,,,,"",""
+ball,1,12.2,India,Shubman Gill,R Parag,PHKD Mendis,4,0,,,,,,"",""
+ball,1,12.3,India,Shubman Gill,R Parag,PHKD Mendis,0,0,,,,,,"",""
+ball,1,12.4,India,Shubman Gill,R Parag,PHKD Mendis,0,0,,,,,,"",""
+ball,1,12.5,India,Shubman Gill,R Parag,PHKD Mendis,2,0,,,,,,"",""
+ball,1,12.6,India,Shubman Gill,R Parag,PHKD Mendis,0,0,,,,,,"",""
+ball,1,13.1,India,R Parag,Shubman Gill,PWH de Silva,6,0,,,,,,"",""
+ball,1,13.2,India,R Parag,Shubman Gill,PWH de Silva,0,0,,,,,,"",""
+ball,1,13.3,India,R Parag,Shubman Gill,PWH de Silva,6,0,,,,,,"",""
+ball,1,13.4,India,R Parag,Shubman Gill,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.5,India,Shubman Gill,R Parag,PWH de Silva,2,0,,,,,,"",""
+ball,1,13.6,India,Shubman Gill,R Parag,PWH de Silva,0,0,,,,,,"",""
+ball,1,14.1,India,R Parag,Shubman Gill,PHKD Mendis,0,0,,,,,,"",""
+ball,1,14.2,India,R Parag,Shubman Gill,PHKD Mendis,1,0,,,,,,"",""
+ball,1,14.3,India,Shubman Gill,R Parag,PHKD Mendis,4,0,,,,,,"",""
+ball,1,14.4,India,Shubman Gill,R Parag,PHKD Mendis,0,0,,,,,,"",""
+ball,1,14.5,India,Shubman Gill,R Parag,PHKD Mendis,1,0,,,,,,"",""
+ball,1,14.6,India,R Parag,Shubman Gill,PHKD Mendis,0,0,,,,,,"",""
+ball,1,15.1,India,Shubman Gill,R Parag,PWH de Silva,0,0,,,,,,"",""
+ball,1,15.2,India,Shubman Gill,R Parag,PWH de Silva,0,0,,,,,,stumped,Shubman Gill
+ball,1,15.3,India,Washington Sundar,R Parag,PWH de Silva,2,0,,,,,,"",""
+ball,1,15.4,India,Washington Sundar,R Parag,PWH de Silva,1,0,,,,,,"",""
+ball,1,15.5,India,R Parag,Washington Sundar,PWH de Silva,0,0,,,,,,caught,R Parag
+ball,1,15.6,India,Ravi Bishnoi,Washington Sundar,PWH de Silva,0,0,,,,,,"",""
+ball,1,16.1,India,Washington Sundar,Ravi Bishnoi,PHKD Mendis,0,0,,,,,,"",""
+ball,1,16.2,India,Washington Sundar,Ravi Bishnoi,PHKD Mendis,4,0,,,,,,"",""
+ball,1,16.3,India,Washington Sundar,Ravi Bishnoi,PHKD Mendis,1,0,,,,,,"",""
+ball,1,16.4,India,Ravi Bishnoi,Washington Sundar,PHKD Mendis,1,0,,,,,,"",""
+ball,1,16.5,India,Washington Sundar,Ravi Bishnoi,PHKD Mendis,1,0,,,,,,"",""
+ball,1,16.6,India,Ravi Bishnoi,Washington Sundar,PHKD Mendis,4,0,,,,,,"",""
+ball,1,17.1,India,Washington Sundar,Ravi Bishnoi,M Theekshana,1,0,,,,,,"",""
+ball,1,17.2,India,Ravi Bishnoi,Washington Sundar,M Theekshana,0,0,,,,,,"",""
+ball,1,17.3,India,Ravi Bishnoi,Washington Sundar,M Theekshana,1,0,,,,,,"",""
+ball,1,17.4,India,Washington Sundar,Ravi Bishnoi,M Theekshana,0,0,,,,,,"",""
+ball,1,17.5,India,Washington Sundar,Ravi Bishnoi,M Theekshana,0,0,,,,,,"",""
+ball,1,17.6,India,Washington Sundar,Ravi Bishnoi,M Theekshana,2,0,,,,,,"",""
+ball,1,18.1,India,Ravi Bishnoi,Washington Sundar,RTM Mendis,1,0,,,,,,"",""
+ball,1,18.2,India,Washington Sundar,Ravi Bishnoi,RTM Mendis,4,0,,,,,,"",""
+ball,1,18.3,India,Washington Sundar,Ravi Bishnoi,RTM Mendis,0,0,,,,,,"",""
+ball,1,18.4,India,Washington Sundar,Ravi Bishnoi,RTM Mendis,0,0,,,,,,"",""
+ball,1,18.5,India,Washington Sundar,Ravi Bishnoi,RTM Mendis,1,0,,,,,,"",""
+ball,1,18.6,India,Ravi Bishnoi,Washington Sundar,RTM Mendis,0,1,1,,,,,"",""
+ball,1,18.7,India,Ravi Bishnoi,Washington Sundar,RTM Mendis,1,0,,,,,,"",""
+ball,1,19.1,India,Ravi Bishnoi,Washington Sundar,M Theekshana,0,1,,,,1,,"",""
+ball,1,19.2,India,Washington Sundar,Ravi Bishnoi,M Theekshana,2,0,,,,,,"",""
+ball,1,19.3,India,Washington Sundar,Ravi Bishnoi,M Theekshana,0,0,,,,,,"",""
+ball,1,19.4,India,Washington Sundar,Ravi Bishnoi,M Theekshana,6,0,,,,,,"",""
+ball,1,19.5,India,Washington Sundar,Ravi Bishnoi,M Theekshana,0,0,,,,,,bowled,Washington Sundar
+ball,1,19.6,India,Mohammed Siraj,Ravi Bishnoi,M Theekshana,0,0,,,,,,run out,Mohammed Siraj
+ball,2,0.1,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.2,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.3,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,1,0,,,,,,"",""
+ball,2,0.4,Sri Lanka,BKG Mendis,P Nissanka,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.5,Sri Lanka,BKG Mendis,P Nissanka,KK Ahmed,0,1,1,,,,,"",""
+ball,2,0.6,Sri Lanka,BKG Mendis,P Nissanka,KK Ahmed,0,0,,,,,,"",""
+ball,2,0.7,Sri Lanka,BKG Mendis,P Nissanka,KK Ahmed,0,0,,,,,,"",""
+ball,2,1.1,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.2,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.3,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,1.4,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,1.5,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,1.6,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,2.1,Sri Lanka,BKG Mendis,P Nissanka,KK Ahmed,1,0,,,,,,"",""
+ball,2,2.2,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,0,0,,,,,,"",""
+ball,2,2.3,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,4,0,,,,,,"",""
+ball,2,2.4,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,4,0,,,,,,"",""
+ball,2,2.5,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,2,0,,,,,,"",""
+ball,2,2.6,Sri Lanka,P Nissanka,BKG Mendis,KK Ahmed,4,0,,,,,,"",""
+ball,2,3.1,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,3.2,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,2,0,,,,,,"",""
+ball,2,3.3,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,2,0,,,,,,"",""
+ball,2,3.4,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,3.5,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,3.6,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,4.1,Sri Lanka,BKG Mendis,P Nissanka,Washington Sundar,1,0,,,,,,"",""
+ball,2,4.2,Sri Lanka,P Nissanka,BKG Mendis,Washington Sundar,0,0,,,,,,"",""
+ball,2,4.3,Sri Lanka,P Nissanka,BKG Mendis,Washington Sundar,4,0,,,,,,"",""
+ball,2,4.4,Sri Lanka,P Nissanka,BKG Mendis,Washington Sundar,0,1,,,,1,,"",""
+ball,2,4.5,Sri Lanka,BKG Mendis,P Nissanka,Washington Sundar,0,0,,,,,,"",""
+ball,2,4.6,Sri Lanka,BKG Mendis,P Nissanka,Washington Sundar,1,0,,,,,,"",""
+ball,2,5.1,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,2,0,,,,,,"",""
+ball,2,5.2,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,5.3,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,5.4,Sri Lanka,P Nissanka,BKG Mendis,Mohammed Siraj,1,0,,,,,,"",""
+ball,2,5.5,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,5.6,Sri Lanka,BKG Mendis,P Nissanka,Mohammed Siraj,0,0,,,,,,"",""
+ball,2,6.1,Sri Lanka,P Nissanka,BKG Mendis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,6.2,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,6.3,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,6.4,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,6.5,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,6.6,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.1,Sri Lanka,BKG Mendis,P Nissanka,R Parag,1,0,,,,,,"",""
+ball,2,7.2,Sri Lanka,P Nissanka,BKG Mendis,R Parag,4,0,,,,,,"",""
+ball,2,7.3,Sri Lanka,P Nissanka,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,7.4,Sri Lanka,P Nissanka,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,7.5,Sri Lanka,P Nissanka,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,7.6,Sri Lanka,P Nissanka,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,8.1,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,0,1,1,,,,,"",""
+ball,2,8.2,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,8.3,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,8.4,Sri Lanka,BKG Mendis,P Nissanka,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,8.5,Sri Lanka,P Nissanka,BKG Mendis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,8.6,Sri Lanka,P Nissanka,BKG Mendis,Ravi Bishnoi,0,0,,,,,,caught,P Nissanka
+ball,2,8.7,Sri Lanka,MDKJ Perera,BKG Mendis,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,9.1,Sri Lanka,BKG Mendis,MDKJ Perera,R Parag,1,0,,,,,,"",""
+ball,2,9.2,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,9.3,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,9.4,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,2,0,,,,,,"",""
+ball,2,9.5,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,9.6,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,0,0,,,,,,"",""
+ball,2,10.1,Sri Lanka,BKG Mendis,MDKJ Perera,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,10.2,Sri Lanka,MDKJ Perera,BKG Mendis,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,10.3,Sri Lanka,MDKJ Perera,BKG Mendis,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,10.4,Sri Lanka,BKG Mendis,MDKJ Perera,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,10.5,Sri Lanka,MDKJ Perera,BKG Mendis,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,10.6,Sri Lanka,MDKJ Perera,BKG Mendis,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,11.1,Sri Lanka,BKG Mendis,MDKJ Perera,R Parag,1,0,,,,,,"",""
+ball,2,11.2,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,1,0,,,,,,"",""
+ball,2,11.3,Sri Lanka,BKG Mendis,MDKJ Perera,R Parag,1,0,,,,,,"",""
+ball,2,11.4,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,3,0,,,,,,"",""
+ball,2,11.5,Sri Lanka,BKG Mendis,MDKJ Perera,R Parag,1,0,,,,,,"",""
+ball,2,11.6,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,1,0,,,,,,"",""
+ball,2,12.1,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,0,0,,,,,,"",""
+ball,2,12.2,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,4,0,,,,,,"",""
+ball,2,12.3,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,1,0,,,,,,"",""
+ball,2,12.4,Sri Lanka,BKG Mendis,MDKJ Perera,Washington Sundar,0,0,,,,,,"",""
+ball,2,12.5,Sri Lanka,BKG Mendis,MDKJ Perera,Washington Sundar,1,0,,,,,,"",""
+ball,2,12.6,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,0,0,,,,,,"",""
+ball,2,13.1,Sri Lanka,BKG Mendis,MDKJ Perera,R Parag,1,0,,,,,,"",""
+ball,2,13.2,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,2,0,,,,,,"",""
+ball,2,13.3,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,1,0,,,,,,"",""
+ball,2,13.4,Sri Lanka,BKG Mendis,MDKJ Perera,R Parag,1,0,,,,,,"",""
+ball,2,13.5,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,4,0,,,,,,"",""
+ball,2,13.6,Sri Lanka,MDKJ Perera,BKG Mendis,R Parag,2,0,,,,,,"",""
+ball,2,14.1,Sri Lanka,BKG Mendis,MDKJ Perera,Washington Sundar,1,0,,,,,,"",""
+ball,2,14.2,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,1,0,,,,,,"",""
+ball,2,14.3,Sri Lanka,BKG Mendis,MDKJ Perera,Washington Sundar,1,0,,,,,,"",""
+ball,2,14.4,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,4,0,,,,,,"",""
+ball,2,14.5,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,1,0,,,,,,"",""
+ball,2,14.6,Sri Lanka,BKG Mendis,MDKJ Perera,Washington Sundar,1,0,,,,,,"",""
+ball,2,15.1,Sri Lanka,BKG Mendis,MDKJ Perera,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,15.2,Sri Lanka,BKG Mendis,MDKJ Perera,Ravi Bishnoi,0,0,,,,,,lbw,BKG Mendis
+ball,2,15.3,Sri Lanka,PWH de Silva,MDKJ Perera,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.4,Sri Lanka,MDKJ Perera,PWH de Silva,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.5,Sri Lanka,PWH de Silva,MDKJ Perera,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,15.6,Sri Lanka,MDKJ Perera,PWH de Silva,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,16.1,Sri Lanka,PWH de Silva,MDKJ Perera,Washington Sundar,1,0,,,,,,"",""
+ball,2,16.2,Sri Lanka,MDKJ Perera,PWH de Silva,Washington Sundar,1,0,,,,,,"",""
+ball,2,16.3,Sri Lanka,PWH de Silva,MDKJ Perera,Washington Sundar,0,0,,,,,,caught,PWH de Silva
+ball,2,16.4,Sri Lanka,KIC Asalanka,MDKJ Perera,Washington Sundar,0,0,,,,,,caught,KIC Asalanka
+ball,2,16.5,Sri Lanka,RTM Mendis,MDKJ Perera,Washington Sundar,0,0,,,,,,"",""
+ball,2,16.6,Sri Lanka,RTM Mendis,MDKJ Perera,Washington Sundar,0,0,,,,,,"",""
+ball,2,17.1,Sri Lanka,MDKJ Perera,RTM Mendis,KK Ahmed,1,0,,,,,,"",""
+ball,2,17.2,Sri Lanka,RTM Mendis,MDKJ Perera,KK Ahmed,0,2,2,,,,,"",""
+ball,2,17.3,Sri Lanka,MDKJ Perera,RTM Mendis,KK Ahmed,0,1,,,,1,,"",""
+ball,2,17.4,Sri Lanka,RTM Mendis,MDKJ Perera,KK Ahmed,0,1,1,,,,,"",""
+ball,2,17.5,Sri Lanka,RTM Mendis,MDKJ Perera,KK Ahmed,0,1,1,,,,,"",""
+ball,2,17.6,Sri Lanka,RTM Mendis,MDKJ Perera,KK Ahmed,1,0,,,,,,"",""
+ball,2,17.7,Sri Lanka,MDKJ Perera,RTM Mendis,KK Ahmed,2,0,,,,,,"",""
+ball,2,17.8,Sri Lanka,MDKJ Perera,RTM Mendis,KK Ahmed,0,1,1,,,,,"",""
+ball,2,17.9,Sri Lanka,MDKJ Perera,RTM Mendis,KK Ahmed,0,1,1,,,,,"",""
+ball,2,17.10,Sri Lanka,MDKJ Perera,RTM Mendis,KK Ahmed,0,0,,,,,,"",""
+ball,2,17.11,Sri Lanka,MDKJ Perera,RTM Mendis,KK Ahmed,1,0,,,,,,"",""
+ball,2,18.1,Sri Lanka,MDKJ Perera,RTM Mendis,RK Singh,0,0,,,,,,"",""
+ball,2,18.2,Sri Lanka,MDKJ Perera,RTM Mendis,RK Singh,0,0,,,,,,caught and bowled,MDKJ Perera
+ball,2,18.3,Sri Lanka,PHKD Mendis,RTM Mendis,RK Singh,1,0,,,,,,"",""
+ball,2,18.4,Sri Lanka,RTM Mendis,PHKD Mendis,RK Singh,2,0,,,,,,"",""
+ball,2,18.5,Sri Lanka,RTM Mendis,PHKD Mendis,RK Singh,0,0,,,,,,"",""
+ball,2,18.6,Sri Lanka,RTM Mendis,PHKD Mendis,RK Singh,0,0,,,,,,caught,RTM Mendis
+ball,2,19.1,Sri Lanka,PHKD Mendis,C Wickramasinghe,SA Yadav,0,0,,,,,,"",""
+ball,2,19.2,Sri Lanka,PHKD Mendis,C Wickramasinghe,SA Yadav,0,0,,,,,,caught,PHKD Mendis
+ball,2,19.3,Sri Lanka,M Theekshana,C Wickramasinghe,SA Yadav,0,0,,,,,,caught,M Theekshana
+ball,2,19.4,Sri Lanka,AM Fernando,C Wickramasinghe,SA Yadav,1,0,,,,,,"",""
+ball,2,19.5,Sri Lanka,C Wickramasinghe,AM Fernando,SA Yadav,2,0,,,,,,"",""
+ball,2,19.6,Sri Lanka,C Wickramasinghe,AM Fernando,SA Yadav,2,0,,,,,,"",""
+ball,3,0.1,Sri Lanka,BKG Mendis,MDKJ Perera,Washington Sundar,0,1,1,,,,,"",""
+ball,3,0.2,Sri Lanka,BKG Mendis,MDKJ Perera,Washington Sundar,1,0,,,,,,"",""
+ball,3,0.3,Sri Lanka,MDKJ Perera,BKG Mendis,Washington Sundar,0,0,,,,,,caught,MDKJ Perera
+ball,3,0.4,Sri Lanka,P Nissanka,BKG Mendis,Washington Sundar,0,0,,,,,,caught,P Nissanka
+ball,4,0.1,India,SA Yadav,Shubman Gill,M Theekshana,4,0,,,,,,"",""

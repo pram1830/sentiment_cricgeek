@@ -1,0 +1,176 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Italy
+info,gender,female
+info,season,2024
+info,date,2024/07/26
+info,event,Germany Women's T20I Tri-Series
+info,match_number,1
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Germany
+info,toss_decision,bat
+info,player_of_match,M Rathnayake
+info,umpire,J Flannery
+info,umpire,N Dhanawade
+info,reserve_umpire,M Jameson
+info,winner,Italy
+info,winner_wickets,9
+info,player,Germany,JE Ronalds
+info,player,Germany,A Bierwisch
+info,player,Germany,S Kolcharam
+info,player,Germany,A Doddaballapur
+info,player,Germany,S Sadarangani
+info,player,Germany,K Vijayaraghavan
+info,player,Germany,A Kohli
+info,player,Germany,ST Frohnmayer
+info,player,Germany,Rameesha Shahid
+info,player,Germany,MS Beresford
+info,player,Germany,EC Bargna
+info,player,Italy,M Rathnayake
+info,player,Italy,D Nanayakkara
+info,player,Italy,C Mahamalage
+info,player,Italy,EL Bartram
+info,player,Italy,K Peddrick
+info,player,Italy,Ilenia Sims
+info,player,Italy,S Kanankege
+info,player,Italy,N Asuramanage
+info,player,Italy,T Araliya
+info,player,Italy,ECB Moore
+info,player,Italy,LM Sims
+info,registry,people,A Bierwisch,b51d654f
+info,registry,people,A Doddaballapur,fe4f5d2b
+info,registry,people,A Kohli,eb9082b2
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,EC Bargna,9908d470
+info,registry,people,ECB Moore,d0ff93a9
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,Ilenia Sims,03c98aa6
+info,registry,people,J Flannery,22431c5a
+info,registry,people,JE Ronalds,d4f98302
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,LM Sims,d2416610
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,MS Beresford,26eb73f9
+info,registry,people,N Asuramanage,46dff613
+info,registry,people,N Dhanawade,bc68912b
+info,registry,people,Rameesha Shahid,b810425e
+info,registry,people,S Kanankege,01815edc
+info,registry,people,S Kolcharam,761c929e
+info,registry,people,S Sadarangani,acd030a0
+info,registry,people,ST Frohnmayer,7e8bcfc1
+info,registry,people,T Araliya,d423f390
+ball,1,0.1,Germany,JE Ronalds,A Bierwisch,EL Bartram,0,1,1,,,,,"",""
+ball,1,0.2,Germany,JE Ronalds,A Bierwisch,EL Bartram,0,1,1,,,,,"",""
+ball,1,0.3,Germany,JE Ronalds,A Bierwisch,EL Bartram,0,0,,,,,,"",""
+ball,1,0.4,Germany,JE Ronalds,A Bierwisch,EL Bartram,0,0,,,,,,"",""
+ball,1,0.5,Germany,JE Ronalds,A Bierwisch,EL Bartram,1,0,,,,,,"",""
+ball,1,0.6,Germany,A Bierwisch,JE Ronalds,EL Bartram,1,0,,,,,,"",""
+ball,1,0.7,Germany,JE Ronalds,A Bierwisch,EL Bartram,0,1,1,,,,,"",""
+ball,1,0.8,Germany,JE Ronalds,A Bierwisch,EL Bartram,0,0,,,,,,caught,JE Ronalds
+ball,1,0.9,Germany,S Kolcharam,A Bierwisch,EL Bartram,0,0,,,,,,"",""
+ball,1,1.1,Germany,A Bierwisch,S Kolcharam,C Mahamalage,1,0,,,,,,"",""
+ball,1,1.2,Germany,S Kolcharam,A Bierwisch,C Mahamalage,1,0,,,,,,"",""
+ball,1,1.3,Germany,A Bierwisch,S Kolcharam,C Mahamalage,0,1,1,,,,,"",""
+ball,1,1.4,Germany,A Bierwisch,S Kolcharam,C Mahamalage,0,0,,,,,,"",""
+ball,1,1.5,Germany,A Bierwisch,S Kolcharam,C Mahamalage,4,0,,,,,,"",""
+ball,1,1.6,Germany,A Bierwisch,S Kolcharam,C Mahamalage,0,0,,,,,,"",""
+ball,1,1.7,Germany,A Bierwisch,S Kolcharam,C Mahamalage,4,0,,,,,,"",""
+ball,1,2.1,Germany,S Kolcharam,A Bierwisch,S Kanankege,0,0,,,,,,"",""
+ball,1,2.2,Germany,S Kolcharam,A Bierwisch,S Kanankege,0,0,,,,,,caught,S Kolcharam
+ball,1,2.3,Germany,A Doddaballapur,A Bierwisch,S Kanankege,0,0,,,,,,"",""
+ball,1,2.4,Germany,A Doddaballapur,A Bierwisch,S Kanankege,0,0,,,,,,"",""
+ball,1,2.5,Germany,A Doddaballapur,A Bierwisch,S Kanankege,0,0,,,,,,"",""
+ball,1,2.6,Germany,A Doddaballapur,A Bierwisch,S Kanankege,1,0,,,,,,"",""
+ball,1,3.1,Germany,A Doddaballapur,A Bierwisch,C Mahamalage,1,0,,,,,,"",""
+ball,1,3.2,Germany,A Bierwisch,A Doddaballapur,C Mahamalage,2,0,,,,,,"",""
+ball,1,3.3,Germany,A Bierwisch,A Doddaballapur,C Mahamalage,0,1,,,,1,,"",""
+ball,1,3.4,Germany,A Doddaballapur,A Bierwisch,C Mahamalage,0,0,,,,,,"",""
+ball,1,3.5,Germany,A Doddaballapur,A Bierwisch,C Mahamalage,1,0,,,,,,"",""
+ball,1,3.6,Germany,A Bierwisch,A Doddaballapur,C Mahamalage,0,0,,,,,,"",""
+ball,1,4.1,Germany,A Doddaballapur,A Bierwisch,S Kanankege,1,0,,,,,,"",""
+ball,1,4.2,Germany,A Bierwisch,A Doddaballapur,S Kanankege,2,0,,,,,,"",""
+ball,1,4.3,Germany,A Bierwisch,A Doddaballapur,S Kanankege,1,0,,,,,,"",""
+ball,1,4.4,Germany,A Doddaballapur,A Bierwisch,S Kanankege,1,0,,,,,,"",""
+ball,1,4.5,Germany,A Bierwisch,A Doddaballapur,S Kanankege,1,0,,,,,,"",""
+ball,1,4.6,Germany,A Doddaballapur,A Bierwisch,S Kanankege,0,0,,,,,,"",""
+ball,1,5.1,Germany,A Bierwisch,A Doddaballapur,ECB Moore,1,0,,,,,,run out,A Bierwisch
+ball,1,5.2,Germany,S Sadarangani,A Doddaballapur,ECB Moore,1,0,,,,,,"",""
+ball,1,5.3,Germany,A Doddaballapur,S Sadarangani,ECB Moore,1,0,,,,,,"",""
+ball,1,5.4,Germany,A Doddaballapur,S Sadarangani,ECB Moore,0,0,,,,,,"",""
+ball,1,5.5,Germany,A Doddaballapur,S Sadarangani,ECB Moore,4,0,,,,,,"",""
+ball,1,5.6,Germany,A Doddaballapur,S Sadarangani,ECB Moore,1,0,,,,,,"",""
+ball,1,6.1,Germany,A Doddaballapur,S Sadarangani,LM Sims,1,0,,,,,,"",""
+ball,1,6.2,Germany,S Sadarangani,A Doddaballapur,LM Sims,0,0,,,,,,stumped,S Sadarangani
+ball,1,6.3,Germany,K Vijayaraghavan,A Doddaballapur,LM Sims,0,0,,,,,,"",""
+ball,1,6.4,Germany,K Vijayaraghavan,A Doddaballapur,LM Sims,0,0,,,,,,caught,K Vijayaraghavan
+ball,1,6.5,Germany,A Kohli,A Doddaballapur,LM Sims,0,0,,,,,,"",""
+ball,1,6.6,Germany,A Kohli,A Doddaballapur,LM Sims,0,0,,,,,,"",""
+ball,1,7.1,Germany,A Doddaballapur,A Kohli,ECB Moore,2,0,,,,,,"",""
+ball,1,7.2,Germany,A Doddaballapur,A Kohli,ECB Moore,0,0,,,,,,"",""
+ball,1,7.3,Germany,A Doddaballapur,A Kohli,ECB Moore,1,0,,,,,,"",""
+ball,1,7.4,Germany,A Kohli,A Doddaballapur,ECB Moore,1,0,,,,,,"",""
+ball,1,7.5,Germany,A Doddaballapur,A Kohli,ECB Moore,0,0,,,,,,"",""
+ball,1,7.6,Germany,A Doddaballapur,A Kohli,ECB Moore,0,0,,,,,,caught,A Doddaballapur
+ball,1,8.1,Germany,A Kohli,ST Frohnmayer,LM Sims,0,0,,,,,,"",""
+ball,1,8.2,Germany,A Kohli,ST Frohnmayer,LM Sims,0,0,,,,,,"",""
+ball,1,8.3,Germany,A Kohli,ST Frohnmayer,LM Sims,0,1,1,,,,,"",""
+ball,1,8.4,Germany,A Kohli,ST Frohnmayer,LM Sims,0,1,1,,,,,"",""
+ball,1,8.5,Germany,A Kohli,ST Frohnmayer,LM Sims,0,0,,,,,,stumped,A Kohli
+ball,1,8.6,Germany,Rameesha Shahid,ST Frohnmayer,LM Sims,1,0,,,,,,"",""
+ball,1,8.7,Germany,ST Frohnmayer,Rameesha Shahid,LM Sims,1,0,,,,,,"",""
+ball,1,8.8,Germany,Rameesha Shahid,ST Frohnmayer,LM Sims,0,1,1,,,,,"",""
+ball,1,8.9,Germany,Rameesha Shahid,ST Frohnmayer,LM Sims,1,0,,,,,,"",""
+ball,1,9.1,Germany,Rameesha Shahid,ST Frohnmayer,T Araliya,0,1,1,,,,,"",""
+ball,1,9.2,Germany,Rameesha Shahid,ST Frohnmayer,T Araliya,2,0,,,,,,"",""
+ball,1,9.3,Germany,Rameesha Shahid,ST Frohnmayer,T Araliya,2,0,,,,,,"",""
+ball,1,9.4,Germany,Rameesha Shahid,ST Frohnmayer,T Araliya,0,0,,,,,,"",""
+ball,1,9.5,Germany,Rameesha Shahid,ST Frohnmayer,T Araliya,0,0,,,,,,caught,Rameesha Shahid
+ball,1,9.6,Germany,MS Beresford,ST Frohnmayer,T Araliya,1,0,,,,,,"",""
+ball,1,9.7,Germany,ST Frohnmayer,MS Beresford,T Araliya,1,0,,,,,,"",""
+ball,2,0.1,Italy,M Rathnayake,D Nanayakkara,A Kohli,0,0,,,,,,"",""
+ball,2,0.2,Italy,M Rathnayake,D Nanayakkara,A Kohli,4,0,,,,,,"",""
+ball,2,0.3,Italy,M Rathnayake,D Nanayakkara,A Kohli,0,0,,,,,,"",""
+ball,2,0.4,Italy,M Rathnayake,D Nanayakkara,A Kohli,0,0,,,,,,"",""
+ball,2,0.5,Italy,M Rathnayake,D Nanayakkara,A Kohli,1,0,,,,,,"",""
+ball,2,0.6,Italy,D Nanayakkara,M Rathnayake,A Kohli,1,0,,,,,,"",""
+ball,2,1.1,Italy,D Nanayakkara,M Rathnayake,A Doddaballapur,0,0,,,,,,caught,D Nanayakkara
+ball,2,1.2,Italy,C Mahamalage,M Rathnayake,A Doddaballapur,1,0,,,,,,"",""
+ball,2,1.3,Italy,M Rathnayake,C Mahamalage,A Doddaballapur,0,0,,,,,,"",""
+ball,2,1.4,Italy,M Rathnayake,C Mahamalage,A Doddaballapur,1,0,,,,,,"",""
+ball,2,1.5,Italy,C Mahamalage,M Rathnayake,A Doddaballapur,0,0,,,,,,"",""
+ball,2,1.6,Italy,C Mahamalage,M Rathnayake,A Doddaballapur,1,0,,,,,,"",""
+ball,2,2.1,Italy,C Mahamalage,M Rathnayake,A Kohli,1,0,,,,,,"",""
+ball,2,2.2,Italy,M Rathnayake,C Mahamalage,A Kohli,4,0,,,,,,"",""
+ball,2,2.3,Italy,M Rathnayake,C Mahamalage,A Kohli,0,1,1,,,,,"",""
+ball,2,2.4,Italy,M Rathnayake,C Mahamalage,A Kohli,1,0,,,,,,"",""
+ball,2,2.5,Italy,C Mahamalage,M Rathnayake,A Kohli,4,0,,,,,,"",""
+ball,2,2.6,Italy,C Mahamalage,M Rathnayake,A Kohli,1,0,,,,,,"",""
+ball,2,2.7,Italy,M Rathnayake,C Mahamalage,A Kohli,1,0,,,,,,"",""
+ball,2,3.1,Italy,M Rathnayake,C Mahamalage,EC Bargna,0,1,1,,,,,"",""
+ball,2,3.2,Italy,M Rathnayake,C Mahamalage,EC Bargna,0,0,,,,,,"",""
+ball,2,3.3,Italy,M Rathnayake,C Mahamalage,EC Bargna,2,0,,,,,,"",""
+ball,2,3.4,Italy,M Rathnayake,C Mahamalage,EC Bargna,0,0,,,,,,"",""
+ball,2,3.5,Italy,M Rathnayake,C Mahamalage,EC Bargna,2,0,,,,,,"",""
+ball,2,3.6,Italy,M Rathnayake,C Mahamalage,EC Bargna,1,0,,,,,,"",""
+ball,2,3.7,Italy,C Mahamalage,M Rathnayake,EC Bargna,0,0,,,,,,"",""
+ball,2,4.1,Italy,M Rathnayake,C Mahamalage,MS Beresford,4,0,,,,,,"",""
+ball,2,4.2,Italy,M Rathnayake,C Mahamalage,MS Beresford,0,1,1,,,,,"",""
+ball,2,4.3,Italy,M Rathnayake,C Mahamalage,MS Beresford,0,0,,,,,,"",""
+ball,2,4.4,Italy,M Rathnayake,C Mahamalage,MS Beresford,0,0,,,,,,"",""
+ball,2,4.5,Italy,M Rathnayake,C Mahamalage,MS Beresford,1,0,,,,,,"",""
+ball,2,4.6,Italy,C Mahamalage,M Rathnayake,MS Beresford,0,0,,,,,,"",""
+ball,2,4.7,Italy,C Mahamalage,M Rathnayake,MS Beresford,1,0,,,,,,"",""
+ball,2,5.1,Italy,C Mahamalage,M Rathnayake,EC Bargna,1,0,,,,,,"",""
+ball,2,5.2,Italy,M Rathnayake,C Mahamalage,EC Bargna,6,0,,,,,,"",""
+ball,2,5.3,Italy,M Rathnayake,C Mahamalage,EC Bargna,2,0,,,,,,"",""
+ball,2,5.4,Italy,M Rathnayake,C Mahamalage,EC Bargna,0,1,1,,,,,"",""
+ball,2,5.5,Italy,M Rathnayake,C Mahamalage,EC Bargna,6,1,,1,,,,"",""
+ball,2,5.6,Italy,M Rathnayake,C Mahamalage,EC Bargna,1,0,,,,,,"",""
+ball,2,5.7,Italy,C Mahamalage,M Rathnayake,EC Bargna,0,0,,,,,,"",""
+ball,2,5.8,Italy,C Mahamalage,M Rathnayake,EC Bargna,0,0,,,,,,"",""
+ball,2,6.1,Italy,M Rathnayake,C Mahamalage,A Doddaballapur,4,0,,,,,,"",""

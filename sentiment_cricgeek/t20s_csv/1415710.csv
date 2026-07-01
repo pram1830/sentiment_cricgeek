@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Oman
+info,gender,male
+info,season,2024
+info,date,2024/06/05
+info,event,ICC Men's T20 World Cup
+info,match_number,10
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,MP Stoinis
+info,umpire,Asif Yaqoob
+info,umpire,JS Wilson
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,J Madanagopal
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,39
+info,player,Australia,DA Warner
+info,player,Australia,TM Head
+info,player,Australia,MR Marsh
+info,player,Australia,GJ Maxwell
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,MA Starc
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,player,Oman,KH Prajapati
+info,player,Oman,PS Athavale
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Khalid Kail
+info,player,Oman,Ayan Khan
+info,player,Oman,Shoaib Khan
+info,player,Oman,Mehran Khan
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Kaleemullah
+info,player,Oman,Bilal Khan
+info,registry,people,A Zampa,14f96089
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,Khalid Kail,3ee90b67
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,Zeeshan Maqsood,34464143
+ball,1,0.1,Australia,DA Warner,TM Head,Bilal Khan,1,0,,,,,,"",""
+ball,1,0.2,Australia,TM Head,DA Warner,Bilal Khan,4,0,,,,,,"",""
+ball,1,0.3,Australia,TM Head,DA Warner,Bilal Khan,0,0,,,,,,"",""
+ball,1,0.4,Australia,TM Head,DA Warner,Bilal Khan,0,0,,,,,,"",""
+ball,1,0.5,Australia,TM Head,DA Warner,Bilal Khan,1,0,,,,,,"",""
+ball,1,0.6,Australia,DA Warner,TM Head,Bilal Khan,0,0,,,,,,"",""
+ball,1,1.1,Australia,TM Head,DA Warner,Kaleemullah,1,0,,,,,,"",""
+ball,1,1.2,Australia,DA Warner,TM Head,Kaleemullah,4,0,,,,,,"",""
+ball,1,1.3,Australia,DA Warner,TM Head,Kaleemullah,0,0,,,,,,"",""
+ball,1,1.4,Australia,DA Warner,TM Head,Kaleemullah,0,1,,,,1,,"",""
+ball,1,1.5,Australia,TM Head,DA Warner,Kaleemullah,0,0,,,,,,"",""
+ball,1,1.6,Australia,TM Head,DA Warner,Kaleemullah,1,0,,,,,,"",""
+ball,1,2.1,Australia,TM Head,DA Warner,Bilal Khan,1,0,,,,,,"",""
+ball,1,2.2,Australia,DA Warner,TM Head,Bilal Khan,1,0,,,,,,"",""
+ball,1,2.3,Australia,TM Head,DA Warner,Bilal Khan,4,0,,,,,,"",""
+ball,1,2.4,Australia,TM Head,DA Warner,Bilal Khan,0,0,,,,,,caught,TM Head
+ball,1,2.5,Australia,MR Marsh,DA Warner,Bilal Khan,0,0,,,,,,"",""
+ball,1,2.6,Australia,MR Marsh,DA Warner,Bilal Khan,0,0,,,,,,"",""
+ball,1,3.1,Australia,DA Warner,MR Marsh,Shakeel Ahmed,4,0,,,,,,"",""
+ball,1,3.2,Australia,DA Warner,MR Marsh,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,3.3,Australia,DA Warner,MR Marsh,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,3.4,Australia,DA Warner,MR Marsh,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,3.5,Australia,DA Warner,MR Marsh,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,3.6,Australia,MR Marsh,DA Warner,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,4.1,Australia,MR Marsh,DA Warner,Kaleemullah,0,0,,,,,,"",""
+ball,1,4.2,Australia,MR Marsh,DA Warner,Kaleemullah,0,0,,,,,,"",""
+ball,1,4.3,Australia,MR Marsh,DA Warner,Kaleemullah,0,0,,,,,,"",""
+ball,1,4.4,Australia,MR Marsh,DA Warner,Kaleemullah,1,0,,,,,,"",""
+ball,1,4.5,Australia,DA Warner,MR Marsh,Kaleemullah,2,0,,,,,,"",""
+ball,1,4.6,Australia,DA Warner,MR Marsh,Kaleemullah,4,0,,,,,,"",""
+ball,1,5.1,Australia,MR Marsh,DA Warner,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,5.2,Australia,MR Marsh,DA Warner,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,5.3,Australia,MR Marsh,DA Warner,Shakeel Ahmed,4,0,,,,,,"",""
+ball,1,5.4,Australia,MR Marsh,DA Warner,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,5.5,Australia,DA Warner,MR Marsh,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,5.6,Australia,DA Warner,MR Marsh,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,6.1,Australia,MR Marsh,DA Warner,Mehran Khan,0,0,,,,,,"",""
+ball,1,6.2,Australia,MR Marsh,DA Warner,Mehran Khan,0,0,,,,,,"",""
+ball,1,6.3,Australia,MR Marsh,DA Warner,Mehran Khan,1,1,,1,,,,"",""
+ball,1,6.4,Australia,DA Warner,MR Marsh,Mehran Khan,4,0,,,,,,"",""
+ball,1,6.5,Australia,DA Warner,MR Marsh,Mehran Khan,0,0,,,,,,"",""
+ball,1,6.6,Australia,DA Warner,MR Marsh,Mehran Khan,0,0,,,,,,"",""
+ball,1,6.7,Australia,DA Warner,MR Marsh,Mehran Khan,0,0,,,,,,"",""
+ball,1,7.1,Australia,MR Marsh,DA Warner,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,7.2,Australia,DA Warner,MR Marsh,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,7.3,Australia,MR Marsh,DA Warner,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,7.4,Australia,MR Marsh,DA Warner,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,7.5,Australia,MR Marsh,DA Warner,Aqib Ilyas,4,0,,,,,,"",""
+ball,1,7.6,Australia,MR Marsh,DA Warner,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,8.1,Australia,MR Marsh,DA Warner,Mehran Khan,0,0,,,,,,"",""
+ball,1,8.2,Australia,MR Marsh,DA Warner,Mehran Khan,0,0,,,,,,caught,MR Marsh
+ball,1,8.3,Australia,GJ Maxwell,DA Warner,Mehran Khan,0,0,,,,,,caught,GJ Maxwell
+ball,1,8.4,Australia,MP Stoinis,DA Warner,Mehran Khan,1,0,,,,,,"",""
+ball,1,8.5,Australia,DA Warner,MP Stoinis,Mehran Khan,0,0,,,,,,"",""
+ball,1,8.6,Australia,DA Warner,MP Stoinis,Mehran Khan,1,0,,,,,,"",""
+ball,1,9.1,Australia,DA Warner,MP Stoinis,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,9.2,Australia,DA Warner,MP Stoinis,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,9.3,Australia,DA Warner,MP Stoinis,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,9.4,Australia,MP Stoinis,DA Warner,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,9.5,Australia,DA Warner,MP Stoinis,Aqib Ilyas,2,0,,,,,,"",""
+ball,1,9.6,Australia,DA Warner,MP Stoinis,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,10.1,Australia,MP Stoinis,DA Warner,Mehran Khan,0,0,,,,,,"",""
+ball,1,10.2,Australia,MP Stoinis,DA Warner,Mehran Khan,1,0,,,,,,"",""
+ball,1,10.3,Australia,DA Warner,MP Stoinis,Mehran Khan,1,0,,,,,,"",""
+ball,1,10.4,Australia,MP Stoinis,DA Warner,Mehran Khan,1,0,,,,,,"",""
+ball,1,10.5,Australia,DA Warner,MP Stoinis,Mehran Khan,0,0,,,,,,"",""
+ball,1,10.6,Australia,DA Warner,MP Stoinis,Mehran Khan,1,0,,,,,,"",""
+ball,1,11.1,Australia,DA Warner,MP Stoinis,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,11.2,Australia,MP Stoinis,DA Warner,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,11.3,Australia,DA Warner,MP Stoinis,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,11.4,Australia,MP Stoinis,DA Warner,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,11.5,Australia,MP Stoinis,DA Warner,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,11.6,Australia,MP Stoinis,DA Warner,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,12.1,Australia,DA Warner,MP Stoinis,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,12.2,Australia,MP Stoinis,DA Warner,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,12.3,Australia,DA Warner,MP Stoinis,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,12.4,Australia,MP Stoinis,DA Warner,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,12.5,Australia,DA Warner,MP Stoinis,Zeeshan Maqsood,4,0,,,,,,"",""
+ball,1,12.6,Australia,DA Warner,MP Stoinis,Zeeshan Maqsood,4,0,,,,,,"",""
+ball,1,13.1,Australia,MP Stoinis,DA Warner,Aqib Ilyas,0,1,,,,1,,"",""
+ball,1,13.2,Australia,DA Warner,MP Stoinis,Aqib Ilyas,0,0,,,,,,"",""
+ball,1,13.3,Australia,DA Warner,MP Stoinis,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,13.4,Australia,MP Stoinis,DA Warner,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,13.5,Australia,DA Warner,MP Stoinis,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,13.6,Australia,MP Stoinis,DA Warner,Aqib Ilyas,1,0,,,,,,"",""
+ball,1,14.1,Australia,MP Stoinis,DA Warner,Mehran Khan,2,0,,,,,,"",""
+ball,1,14.2,Australia,MP Stoinis,DA Warner,Mehran Khan,6,0,,,,,,"",""
+ball,1,14.3,Australia,MP Stoinis,DA Warner,Mehran Khan,6,0,,,,,,"",""
+ball,1,14.4,Australia,MP Stoinis,DA Warner,Mehran Khan,0,0,,,,,,"",""
+ball,1,14.5,Australia,MP Stoinis,DA Warner,Mehran Khan,6,0,,,,,,"",""
+ball,1,14.6,Australia,MP Stoinis,DA Warner,Mehran Khan,6,0,,,,,,"",""
+ball,1,15.1,Australia,DA Warner,MP Stoinis,Shakeel Ahmed,1,1,,1,,,,"",""
+ball,1,15.2,Australia,MP Stoinis,DA Warner,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,15.3,Australia,DA Warner,MP Stoinis,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,15.4,Australia,MP Stoinis,DA Warner,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,15.5,Australia,DA Warner,MP Stoinis,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,15.6,Australia,MP Stoinis,DA Warner,Shakeel Ahmed,2,0,,,,,,"",""
+ball,1,15.7,Australia,MP Stoinis,DA Warner,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,16.1,Australia,DA Warner,MP Stoinis,Bilal Khan,1,0,,,,,,"",""
+ball,1,16.2,Australia,MP Stoinis,DA Warner,Bilal Khan,4,0,,,,,,"",""
+ball,1,16.3,Australia,MP Stoinis,DA Warner,Bilal Khan,1,0,,,,,,"",""
+ball,1,16.4,Australia,DA Warner,MP Stoinis,Bilal Khan,0,0,,,,,,"",""
+ball,1,16.5,Australia,DA Warner,MP Stoinis,Bilal Khan,0,1,1,,,,,"",""
+ball,1,16.6,Australia,DA Warner,MP Stoinis,Bilal Khan,1,0,,,,,,"",""
+ball,1,16.7,Australia,MP Stoinis,DA Warner,Bilal Khan,6,1,,1,,,,"",""
+ball,1,16.8,Australia,MP Stoinis,DA Warner,Bilal Khan,1,0,,,,,,"",""
+ball,1,17.1,Australia,MP Stoinis,DA Warner,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,17.2,Australia,DA Warner,MP Stoinis,Shakeel Ahmed,6,0,,,,,,"",""
+ball,1,17.3,Australia,DA Warner,MP Stoinis,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,17.4,Australia,DA Warner,MP Stoinis,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,17.5,Australia,MP Stoinis,DA Warner,Shakeel Ahmed,1,0,,,,,,"",""
+ball,1,17.6,Australia,DA Warner,MP Stoinis,Shakeel Ahmed,0,0,,,,,,"",""
+ball,1,18.1,Australia,MP Stoinis,DA Warner,Kaleemullah,4,0,,,,,,"",""
+ball,1,18.2,Australia,MP Stoinis,DA Warner,Kaleemullah,6,0,,,,,,"",""
+ball,1,18.3,Australia,MP Stoinis,DA Warner,Kaleemullah,1,0,,,,,,"",""
+ball,1,18.4,Australia,DA Warner,MP Stoinis,Kaleemullah,2,0,,,,,,"",""
+ball,1,18.5,Australia,DA Warner,MP Stoinis,Kaleemullah,0,0,,,,,,caught,DA Warner
+ball,1,18.6,Australia,TH David,MP Stoinis,Kaleemullah,4,0,,,,,,"",""
+ball,1,19.1,Australia,MP Stoinis,TH David,Bilal Khan,0,0,,,,,,"",""
+ball,1,19.2,Australia,MP Stoinis,TH David,Bilal Khan,2,0,,,,,,"",""
+ball,1,19.3,Australia,MP Stoinis,TH David,Bilal Khan,1,0,,,,,,"",""
+ball,1,19.4,Australia,TH David,MP Stoinis,Bilal Khan,0,0,,,,,,"",""
+ball,1,19.5,Australia,TH David,MP Stoinis,Bilal Khan,4,0,,,,,,"",""
+ball,1,19.6,Australia,TH David,MP Stoinis,Bilal Khan,1,0,,,,,,run out,TH David
+ball,2,0.1,Oman,KH Prajapati,PS Athavale,MA Starc,4,0,,,,,,"",""
+ball,2,0.2,Oman,KH Prajapati,PS Athavale,MA Starc,0,1,1,,,,,"",""
+ball,2,0.3,Oman,KH Prajapati,PS Athavale,MA Starc,1,0,,,,,,"",""
+ball,2,0.4,Oman,PS Athavale,KH Prajapati,MA Starc,0,0,,,,,,lbw,PS Athavale
+ball,2,0.5,Oman,Aqib Ilyas,KH Prajapati,MA Starc,4,0,,,,,,"",""
+ball,2,0.6,Oman,Aqib Ilyas,KH Prajapati,MA Starc,0,1,1,,,,,"",""
+ball,2,0.7,Oman,Aqib Ilyas,KH Prajapati,MA Starc,0,0,,,,,,"",""
+ball,2,0.8,Oman,Aqib Ilyas,KH Prajapati,MA Starc,1,0,,,,,,"",""
+ball,2,1.1,Oman,Aqib Ilyas,KH Prajapati,JR Hazlewood,0,0,,,,,,"",""
+ball,2,1.2,Oman,Aqib Ilyas,KH Prajapati,JR Hazlewood,1,0,,,,,,"",""
+ball,2,1.3,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,0,0,,,,,,"",""
+ball,2,1.4,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,0,0,,,,,,"",""
+ball,2,1.5,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,0,0,,,,,,"",""
+ball,2,1.6,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,1,0,,,,,,"",""
+ball,2,2.1,Oman,KH Prajapati,Aqib Ilyas,MA Starc,0,0,,,,,,"",""
+ball,2,2.2,Oman,KH Prajapati,Aqib Ilyas,MA Starc,0,1,,,,1,,"",""
+ball,2,2.3,Oman,Aqib Ilyas,KH Prajapati,MA Starc,0,1,1,,,,,"",""
+ball,2,2.4,Oman,Aqib Ilyas,KH Prajapati,MA Starc,0,0,,,,,,"",""
+ball,2,2.5,Oman,Aqib Ilyas,KH Prajapati,MA Starc,0,0,,,,,,"",""
+ball,2,2.6,Oman,Aqib Ilyas,KH Prajapati,MA Starc,4,0,,,,,,"",""
+ball,2,2.7,Oman,Aqib Ilyas,KH Prajapati,MA Starc,0,0,,,,,,"",""
+ball,2,3.1,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,1,0,,,,,,"",""
+ball,2,3.2,Oman,Aqib Ilyas,KH Prajapati,JR Hazlewood,0,0,,,,,,"",""
+ball,2,3.3,Oman,Aqib Ilyas,KH Prajapati,JR Hazlewood,1,0,,,,,,"",""
+ball,2,3.4,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,0,0,,,,,,"",""
+ball,2,3.5,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,0,0,,,,,,"",""
+ball,2,3.6,Oman,KH Prajapati,Aqib Ilyas,JR Hazlewood,0,0,,,,,,"",""
+ball,2,4.1,Oman,Aqib Ilyas,KH Prajapati,NT Ellis,1,0,,,,,,"",""
+ball,2,4.2,Oman,KH Prajapati,Aqib Ilyas,NT Ellis,0,0,,,,,,"",""
+ball,2,4.3,Oman,KH Prajapati,Aqib Ilyas,NT Ellis,0,0,,,,,,"",""
+ball,2,4.4,Oman,KH Prajapati,Aqib Ilyas,NT Ellis,0,0,,,,,,"",""
+ball,2,4.5,Oman,KH Prajapati,Aqib Ilyas,NT Ellis,0,0,,,,,,lbw,KH Prajapati
+ball,2,4.6,Oman,Zeeshan Maqsood,Aqib Ilyas,NT Ellis,0,0,,,,,,"",""
+ball,2,5.1,Oman,Aqib Ilyas,Zeeshan Maqsood,MP Stoinis,0,0,,,,,,"",""
+ball,2,5.2,Oman,Aqib Ilyas,Zeeshan Maqsood,MP Stoinis,0,0,,,,,,"",""
+ball,2,5.3,Oman,Aqib Ilyas,Zeeshan Maqsood,MP Stoinis,0,0,,,,,,"",""
+ball,2,5.4,Oman,Aqib Ilyas,Zeeshan Maqsood,MP Stoinis,6,0,,,,,,"",""
+ball,2,5.5,Oman,Aqib Ilyas,Zeeshan Maqsood,MP Stoinis,0,0,,,,,,"",""
+ball,2,5.6,Oman,Aqib Ilyas,Zeeshan Maqsood,MP Stoinis,0,0,,,,,,caught,Aqib Ilyas
+ball,2,6.1,Oman,Zeeshan Maqsood,Khalid Kail,GJ Maxwell,0,0,,,,,,"",""
+ball,2,6.2,Oman,Zeeshan Maqsood,Khalid Kail,GJ Maxwell,1,0,,,,,,"",""
+ball,2,6.3,Oman,Khalid Kail,Zeeshan Maqsood,GJ Maxwell,0,0,,,,,,"",""
+ball,2,6.4,Oman,Khalid Kail,Zeeshan Maqsood,GJ Maxwell,4,0,,,,,,"",""
+ball,2,6.5,Oman,Khalid Kail,Zeeshan Maqsood,GJ Maxwell,0,0,,,,,,"",""
+ball,2,6.6,Oman,Khalid Kail,Zeeshan Maqsood,GJ Maxwell,0,0,,,,,,"",""
+ball,2,7.1,Oman,Zeeshan Maqsood,Khalid Kail,MP Stoinis,0,0,,,,,,"",""
+ball,2,7.2,Oman,Zeeshan Maqsood,Khalid Kail,MP Stoinis,0,0,,,,,,"",""
+ball,2,7.3,Oman,Zeeshan Maqsood,Khalid Kail,MP Stoinis,0,0,,,,,,"",""
+ball,2,7.4,Oman,Zeeshan Maqsood,Khalid Kail,MP Stoinis,0,0,,,,,,caught,Zeeshan Maqsood
+ball,2,7.5,Oman,Ayan Khan,Khalid Kail,MP Stoinis,1,0,,,,,,"",""
+ball,2,7.6,Oman,Khalid Kail,Ayan Khan,MP Stoinis,0,0,,,,,,"",""
+ball,2,8.1,Oman,Ayan Khan,Khalid Kail,A Zampa,0,0,,,,,,"",""
+ball,2,8.2,Oman,Ayan Khan,Khalid Kail,A Zampa,0,0,,,,,,"",""
+ball,2,8.3,Oman,Ayan Khan,Khalid Kail,A Zampa,0,0,,,,,,"",""
+ball,2,8.4,Oman,Ayan Khan,Khalid Kail,A Zampa,2,0,,,,,,"",""
+ball,2,8.5,Oman,Ayan Khan,Khalid Kail,A Zampa,0,0,,,,,,"",""
+ball,2,8.6,Oman,Ayan Khan,Khalid Kail,A Zampa,1,0,,,,,,"",""
+ball,2,9.1,Oman,Ayan Khan,Khalid Kail,NT Ellis,0,0,,,,,,"",""
+ball,2,9.2,Oman,Ayan Khan,Khalid Kail,NT Ellis,4,0,,,,,,"",""
+ball,2,9.3,Oman,Ayan Khan,Khalid Kail,NT Ellis,1,0,,,,,,"",""
+ball,2,9.4,Oman,Khalid Kail,Ayan Khan,NT Ellis,1,0,,,,,,"",""
+ball,2,9.5,Oman,Ayan Khan,Khalid Kail,NT Ellis,0,0,,,,,,"",""
+ball,2,9.6,Oman,Ayan Khan,Khalid Kail,NT Ellis,4,0,,,,,,"",""
+ball,2,10.1,Oman,Khalid Kail,Ayan Khan,A Zampa,1,0,,,,,,"",""
+ball,2,10.2,Oman,Ayan Khan,Khalid Kail,A Zampa,1,0,,,,,,"",""
+ball,2,10.3,Oman,Khalid Kail,Ayan Khan,A Zampa,1,0,,,,,,"",""
+ball,2,10.4,Oman,Ayan Khan,Khalid Kail,A Zampa,1,0,,,,,,"",""
+ball,2,10.5,Oman,Khalid Kail,Ayan Khan,A Zampa,1,0,,,,,,"",""
+ball,2,10.6,Oman,Ayan Khan,Khalid Kail,A Zampa,1,0,,,,,,"",""
+ball,2,11.1,Oman,Ayan Khan,Khalid Kail,MA Starc,0,0,,,,,,"",""
+ball,2,11.2,Oman,Ayan Khan,Khalid Kail,MA Starc,1,0,,,,,,"",""
+ball,2,11.3,Oman,Khalid Kail,Ayan Khan,MA Starc,0,1,1,,,,,"",""
+ball,2,11.4,Oman,Khalid Kail,Ayan Khan,MA Starc,0,0,,,,,,"",""
+ball,2,11.5,Oman,Khalid Kail,Ayan Khan,MA Starc,0,0,,,,,,"",""
+ball,2,11.6,Oman,Khalid Kail,Ayan Khan,MA Starc,0,0,,,,,,caught,Khalid Kail
+ball,2,11.7,Oman,Shoaib Khan,Ayan Khan,MA Starc,0,0,,,,,,"",""
+ball,2,12.1,Oman,Ayan Khan,Shoaib Khan,A Zampa,0,0,,,,,,"",""
+ball,2,12.2,Oman,Ayan Khan,Shoaib Khan,A Zampa,0,0,,,,,,"",""
+ball,2,12.3,Oman,Ayan Khan,Shoaib Khan,A Zampa,1,0,,,,,,"",""
+ball,2,12.4,Oman,Shoaib Khan,Ayan Khan,A Zampa,0,0,,,,,,"",""
+ball,2,12.5,Oman,Shoaib Khan,Ayan Khan,A Zampa,0,0,,,,,,"",""
+ball,2,12.6,Oman,Shoaib Khan,Ayan Khan,A Zampa,0,0,,,,,,bowled,Shoaib Khan
+ball,2,13.1,Oman,Ayan Khan,Mehran Khan,JR Hazlewood,1,0,,,,,,"",""
+ball,2,13.2,Oman,Mehran Khan,Ayan Khan,JR Hazlewood,1,0,,,,,,"",""
+ball,2,13.3,Oman,Ayan Khan,Mehran Khan,JR Hazlewood,1,0,,,,,,"",""
+ball,2,13.4,Oman,Mehran Khan,Ayan Khan,JR Hazlewood,2,0,,,,,,"",""
+ball,2,13.5,Oman,Mehran Khan,Ayan Khan,JR Hazlewood,0,0,,,,,,"",""
+ball,2,13.6,Oman,Mehran Khan,Ayan Khan,JR Hazlewood,6,0,,,,,,"",""
+ball,2,14.1,Oman,Ayan Khan,Mehran Khan,MA Starc,0,1,1,,,,,"",""
+ball,2,14.2,Oman,Ayan Khan,Mehran Khan,GJ Maxwell,0,0,,,,,,"",""
+ball,2,14.3,Oman,Ayan Khan,Mehran Khan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.4,Oman,Mehran Khan,Ayan Khan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.5,Oman,Ayan Khan,Mehran Khan,GJ Maxwell,0,1,1,,,,,"",""
+ball,2,14.6,Oman,Ayan Khan,Mehran Khan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.7,Oman,Mehran Khan,Ayan Khan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,14.8,Oman,Ayan Khan,Mehran Khan,GJ Maxwell,1,0,,,,,,"",""
+ball,2,15.1,Oman,Ayan Khan,Mehran Khan,A Zampa,6,0,,,,,,"",""
+ball,2,15.2,Oman,Ayan Khan,Mehran Khan,A Zampa,1,0,,,,,,"",""
+ball,2,15.3,Oman,Mehran Khan,Ayan Khan,A Zampa,1,0,,,,,,"",""
+ball,2,15.4,Oman,Ayan Khan,Mehran Khan,A Zampa,6,0,,,,,,"",""
+ball,2,15.5,Oman,Ayan Khan,Mehran Khan,A Zampa,0,0,,,,,,caught,Ayan Khan
+ball,2,15.6,Oman,Shakeel Ahmed,Mehran Khan,A Zampa,0,0,,,,,,"",""
+ball,2,16.1,Oman,Mehran Khan,Shakeel Ahmed,JR Hazlewood,4,0,,,,,,"",""
+ball,2,16.2,Oman,Mehran Khan,Shakeel Ahmed,JR Hazlewood,0,1,,,,1,,"",""
+ball,2,16.3,Oman,Shakeel Ahmed,Mehran Khan,JR Hazlewood,0,0,,,,,,"",""
+ball,2,16.4,Oman,Shakeel Ahmed,Mehran Khan,JR Hazlewood,1,0,,,,,,"",""
+ball,2,16.5,Oman,Mehran Khan,Shakeel Ahmed,JR Hazlewood,0,0,,,,,,"",""
+ball,2,16.6,Oman,Mehran Khan,Shakeel Ahmed,JR Hazlewood,1,0,,,,,,"",""
+ball,2,17.1,Oman,Mehran Khan,Shakeel Ahmed,NT Ellis,1,0,,,,,,"",""
+ball,2,17.2,Oman,Shakeel Ahmed,Mehran Khan,NT Ellis,1,0,,,,,,"",""
+ball,2,17.3,Oman,Mehran Khan,Shakeel Ahmed,NT Ellis,1,0,,,,,,"",""
+ball,2,17.4,Oman,Shakeel Ahmed,Mehran Khan,NT Ellis,1,0,,,,,,"",""
+ball,2,17.5,Oman,Mehran Khan,Shakeel Ahmed,NT Ellis,6,0,,,,,,"",""
+ball,2,17.6,Oman,Mehran Khan,Shakeel Ahmed,NT Ellis,0,1,1,,,,,"",""
+ball,2,17.7,Oman,Mehran Khan,Shakeel Ahmed,NT Ellis,2,0,,,,,,"",""
+ball,2,18.1,Oman,Shakeel Ahmed,Mehran Khan,MP Stoinis,2,0,,,,,,"",""
+ball,2,18.2,Oman,Shakeel Ahmed,Mehran Khan,MP Stoinis,4,0,,,,,,"",""
+ball,2,18.3,Oman,Shakeel Ahmed,Mehran Khan,MP Stoinis,0,1,1,,,,,"",""
+ball,2,18.4,Oman,Shakeel Ahmed,Mehran Khan,MP Stoinis,1,0,,,,,,"",""
+ball,2,18.5,Oman,Mehran Khan,Shakeel Ahmed,MP Stoinis,0,0,,,,,,caught,Mehran Khan
+ball,2,18.6,Oman,Kaleemullah,Shakeel Ahmed,MP Stoinis,2,0,,,,,,"",""
+ball,2,18.7,Oman,Kaleemullah,Shakeel Ahmed,MP Stoinis,2,0,,,,,,"",""
+ball,2,19.1,Oman,Shakeel Ahmed,Kaleemullah,NT Ellis,1,0,,,,,,"",""
+ball,2,19.2,Oman,Kaleemullah,Shakeel Ahmed,NT Ellis,1,0,,,,,,"",""
+ball,2,19.3,Oman,Shakeel Ahmed,Kaleemullah,NT Ellis,0,0,,,,,,caught,Shakeel Ahmed
+ball,2,19.4,Oman,Bilal Khan,Kaleemullah,NT Ellis,0,0,,,,,,"",""
+ball,2,19.5,Oman,Bilal Khan,Kaleemullah,NT Ellis,1,0,,,,,,"",""
+ball,2,19.6,Oman,Kaleemullah,Bilal Khan,NT Ellis,1,0,,,,,,"",""

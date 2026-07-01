@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Germany
+info,gender,male
+info,season,2023
+info,date,2023/06/29
+info,event,Austria tour of Netherlands
+info,match_number,1
+info,venue,"Sportpark Het Schootsveld, Deventer"
+info,city,Deventer
+info,toss_winner,Germany
+info,toss_decision,field
+info,umpire,M Hancock
+info,umpire,WPM van Liemt
+info,reserve_umpire,M Prabhudesa
+info,winner,Germany
+info,winner_wickets,6
+info,player,Austria,M Simpson-Parker
+info,player,Austria,Iqbal Hossain
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,A Randhawa
+info,player,Austria,Mirza Ahsan
+info,player,Austria,Shahil Momin
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Umair Tariq
+info,player,Austria,MPS Cheema
+info,player,Austria,A Nathwani
+info,player,Austria,Jaweed Sadran
+info,player,Germany,V Ganesan
+info,player,Germany,J van Heerden
+info,player,Germany,VB Chikkannaiah
+info,player,Germany,Faisal Mubashir
+info,player,Germany,Sahir Naqash
+info,player,Germany,DA Blignaut
+info,player,Germany,Ghulam Ahmadi
+info,player,Germany,Sachin Mandy
+info,player,Germany,SVE Bharathi
+info,player,Germany,Muslim Yar
+info,player,Germany,D Klein
+info,registry,people,A Nathwani,f1c4f2ea
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,D Klein,aeab0d4f
+info,registry,people,DA Blignaut,cfcf189f
+info,registry,people,Faisal Mubashir,ad5342dc
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,Iqbal Hossain,e1824e7d
+info,registry,people,J van Heerden,01549705
+info,registry,people,Jaweed Sadran,c1f05d1d
+info,registry,people,M Hancock,deb8c9a5
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,M Simpson-Parker,fecd828e
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,Mirza Ahsan,6b74c13b
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,SVE Bharathi,6a63c29c
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,Shahil Momin,46821fbd
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,VB Chikkannaiah,8e81b773
+info,registry,people,WPM van Liemt,2bd48588
+ball,1,0.1,Austria,M Simpson-Parker,Iqbal Hossain,D Klein,0,0,,,,,,"",""
+ball,1,0.2,Austria,M Simpson-Parker,Iqbal Hossain,D Klein,4,0,,,,,,"",""
+ball,1,0.3,Austria,M Simpson-Parker,Iqbal Hossain,D Klein,0,0,,,,,,"",""
+ball,1,0.4,Austria,M Simpson-Parker,Iqbal Hossain,D Klein,0,1,,,,1,,"",""
+ball,1,0.5,Austria,Iqbal Hossain,M Simpson-Parker,D Klein,0,0,,,,,,bowled,Iqbal Hossain
+ball,1,0.6,Austria,Razmal Shigiwal,M Simpson-Parker,D Klein,1,0,,,,,,"",""
+ball,1,1.1,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.2,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.3,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.4,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.5,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,1.6,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,2.1,Austria,M Simpson-Parker,Razmal Shigiwal,D Klein,1,0,,,,,,"",""
+ball,1,2.2,Austria,Razmal Shigiwal,M Simpson-Parker,D Klein,0,0,,,,,,"",""
+ball,1,2.3,Austria,Razmal Shigiwal,M Simpson-Parker,D Klein,4,0,,,,,,"",""
+ball,1,2.4,Austria,Razmal Shigiwal,M Simpson-Parker,D Klein,4,0,,,,,,"",""
+ball,1,2.5,Austria,Razmal Shigiwal,M Simpson-Parker,D Klein,1,0,,,,,,"",""
+ball,1,2.6,Austria,M Simpson-Parker,Razmal Shigiwal,D Klein,0,0,,,,,,"",""
+ball,1,3.1,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,3.2,Austria,Razmal Shigiwal,M Simpson-Parker,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,3.3,Austria,M Simpson-Parker,Razmal Shigiwal,Ghulam Ahmadi,2,0,,,,,,"",""
+ball,1,3.4,Austria,M Simpson-Parker,Razmal Shigiwal,Ghulam Ahmadi,0,0,,,,,,bowled,M Simpson-Parker
+ball,1,3.5,Austria,A Randhawa,Razmal Shigiwal,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,3.6,Austria,A Randhawa,Razmal Shigiwal,Ghulam Ahmadi,2,0,,,,,,"",""
+ball,1,4.1,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,0,0,,,,,,"",""
+ball,1,4.2,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,1,0,,,,,,"",""
+ball,1,4.3,Austria,A Randhawa,Razmal Shigiwal,Sahir Naqash,0,0,,,,,,"",""
+ball,1,4.4,Austria,A Randhawa,Razmal Shigiwal,Sahir Naqash,0,0,,,,,,"",""
+ball,1,4.5,Austria,A Randhawa,Razmal Shigiwal,Sahir Naqash,0,0,,,,,,"",""
+ball,1,4.6,Austria,A Randhawa,Razmal Shigiwal,Sahir Naqash,0,0,,,,,,"",""
+ball,1,5.1,Austria,Razmal Shigiwal,A Randhawa,Ghulam Ahmadi,4,0,,,,,,"",""
+ball,1,5.2,Austria,Razmal Shigiwal,A Randhawa,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,5.3,Austria,Razmal Shigiwal,A Randhawa,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,5.4,Austria,A Randhawa,Razmal Shigiwal,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,5.5,Austria,Razmal Shigiwal,A Randhawa,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,5.6,Austria,A Randhawa,Razmal Shigiwal,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,6.1,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,0,1,1,,,,,"",""
+ball,1,6.2,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,0,2,,,,2,,"",""
+ball,1,6.3,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,0,0,,,,,,"",""
+ball,1,6.4,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,1,0,,,,,,"",""
+ball,1,6.5,Austria,A Randhawa,Razmal Shigiwal,Sahir Naqash,0,1,,,,1,,"",""
+ball,1,6.6,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,6,0,,,,,,"",""
+ball,1,6.7,Austria,Razmal Shigiwal,A Randhawa,Sahir Naqash,1,0,,,,,,"",""
+ball,1,7.1,Austria,Razmal Shigiwal,A Randhawa,SVE Bharathi,1,0,,,,,,"",""
+ball,1,7.2,Austria,A Randhawa,Razmal Shigiwal,SVE Bharathi,1,0,,,,,,"",""
+ball,1,7.3,Austria,Razmal Shigiwal,A Randhawa,SVE Bharathi,0,3,3,,,,,"",""
+ball,1,7.4,Austria,Razmal Shigiwal,A Randhawa,SVE Bharathi,6,0,,,,,,"",""
+ball,1,7.5,Austria,Razmal Shigiwal,A Randhawa,SVE Bharathi,0,0,,,,,,"",""
+ball,1,7.6,Austria,Razmal Shigiwal,A Randhawa,SVE Bharathi,0,0,,,,,,"",""
+ball,1,7.7,Austria,Razmal Shigiwal,A Randhawa,SVE Bharathi,0,0,,,,,,"",""
+ball,1,8.1,Austria,A Randhawa,Razmal Shigiwal,V Ganesan,0,0,,,,,,"",""
+ball,1,8.2,Austria,A Randhawa,Razmal Shigiwal,V Ganesan,0,2,2,,,,,"",""
+ball,1,8.3,Austria,Razmal Shigiwal,A Randhawa,V Ganesan,6,0,,,,,,"",""
+ball,1,8.4,Austria,Razmal Shigiwal,A Randhawa,V Ganesan,0,0,,,,,,"",""
+ball,1,8.5,Austria,Razmal Shigiwal,A Randhawa,V Ganesan,0,0,,,,,,"",""
+ball,1,8.6,Austria,Razmal Shigiwal,A Randhawa,V Ganesan,1,0,,,,,,"",""
+ball,1,8.7,Austria,A Randhawa,Razmal Shigiwal,V Ganesan,6,0,,,,,,"",""
+ball,1,9.1,Austria,Razmal Shigiwal,A Randhawa,Muslim Yar,0,0,,,,,,caught,Razmal Shigiwal
+ball,1,9.2,Austria,Mirza Ahsan,A Randhawa,Muslim Yar,0,0,,,,,,"",""
+ball,1,9.3,Austria,Mirza Ahsan,A Randhawa,Muslim Yar,1,0,,,,,,"",""
+ball,1,9.4,Austria,A Randhawa,Mirza Ahsan,Muslim Yar,0,0,,,,,,"",""
+ball,1,9.5,Austria,A Randhawa,Mirza Ahsan,Muslim Yar,1,0,,,,,,"",""
+ball,1,9.6,Austria,Mirza Ahsan,A Randhawa,Muslim Yar,1,0,,,,,,"",""
+ball,1,10.1,Austria,Mirza Ahsan,A Randhawa,SVE Bharathi,0,0,,,,,,lbw,Mirza Ahsan
+ball,1,10.2,Austria,Shahil Momin,A Randhawa,SVE Bharathi,0,0,,,,,,"",""
+ball,1,10.3,Austria,Shahil Momin,A Randhawa,SVE Bharathi,0,1,1,,,,,"",""
+ball,1,10.4,Austria,Shahil Momin,A Randhawa,SVE Bharathi,2,0,,,,,,"",""
+ball,1,10.5,Austria,Shahil Momin,A Randhawa,SVE Bharathi,0,0,,,,,,"",""
+ball,1,10.6,Austria,Shahil Momin,A Randhawa,SVE Bharathi,0,0,,,,,,"",""
+ball,1,10.7,Austria,Shahil Momin,A Randhawa,SVE Bharathi,1,0,,,,,,"",""
+ball,1,11.1,Austria,Shahil Momin,A Randhawa,Muslim Yar,1,0,,,,,,"",""
+ball,1,11.2,Austria,A Randhawa,Shahil Momin,Muslim Yar,0,1,1,,,,,"",""
+ball,1,11.3,Austria,A Randhawa,Shahil Momin,Muslim Yar,0,0,,,,,,"",""
+ball,1,11.4,Austria,A Randhawa,Shahil Momin,Muslim Yar,0,0,,,,,,"",""
+ball,1,11.5,Austria,A Randhawa,Shahil Momin,Muslim Yar,0,0,,,,,,bowled,A Randhawa
+ball,1,11.6,Austria,Aqib Iqbal,Shahil Momin,Muslim Yar,1,0,,,,,,"",""
+ball,1,11.7,Austria,Shahil Momin,Aqib Iqbal,Muslim Yar,1,0,,,,,,"",""
+ball,1,12.1,Austria,Shahil Momin,Aqib Iqbal,SVE Bharathi,0,0,,,,,,"",""
+ball,1,12.2,Austria,Shahil Momin,Aqib Iqbal,SVE Bharathi,1,0,,,,,,"",""
+ball,1,12.3,Austria,Aqib Iqbal,Shahil Momin,SVE Bharathi,1,0,,,,,,"",""
+ball,1,12.4,Austria,Shahil Momin,Aqib Iqbal,SVE Bharathi,0,0,,,,,,"",""
+ball,1,12.5,Austria,Shahil Momin,Aqib Iqbal,SVE Bharathi,1,0,,,,,,"",""
+ball,1,12.6,Austria,Aqib Iqbal,Shahil Momin,SVE Bharathi,0,0,,,,,,lbw,Aqib Iqbal
+ball,1,13.1,Austria,Shahil Momin,Umair Tariq,Muslim Yar,1,0,,,,,,"",""
+ball,1,13.2,Austria,Umair Tariq,Shahil Momin,Muslim Yar,2,0,,,,,,"",""
+ball,1,13.3,Austria,Umair Tariq,Shahil Momin,Muslim Yar,1,0,,,,,,"",""
+ball,1,13.4,Austria,Shahil Momin,Umair Tariq,Muslim Yar,1,0,,,,,,"",""
+ball,1,13.5,Austria,Umair Tariq,Shahil Momin,Muslim Yar,2,0,,,,,,"",""
+ball,1,13.6,Austria,Umair Tariq,Shahil Momin,Muslim Yar,1,0,,,,,,"",""
+ball,1,14.1,Austria,Umair Tariq,Shahil Momin,SVE Bharathi,0,0,,,,,,"",""
+ball,1,14.2,Austria,Umair Tariq,Shahil Momin,SVE Bharathi,1,0,,,,,,"",""
+ball,1,14.3,Austria,Shahil Momin,Umair Tariq,SVE Bharathi,4,0,,,,,,"",""
+ball,1,14.4,Austria,Shahil Momin,Umair Tariq,SVE Bharathi,1,0,,,,,,"",""
+ball,1,14.5,Austria,Umair Tariq,Shahil Momin,SVE Bharathi,0,0,,,,,,lbw,Umair Tariq
+ball,1,14.6,Austria,MPS Cheema,Shahil Momin,SVE Bharathi,0,0,,,,,,"",""
+ball,1,15.1,Austria,Shahil Momin,MPS Cheema,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,15.2,Austria,MPS Cheema,Shahil Momin,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,15.3,Austria,MPS Cheema,Shahil Momin,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,15.4,Austria,MPS Cheema,Shahil Momin,Ghulam Ahmadi,1,0,,,,,,"",""
+ball,1,15.5,Austria,Shahil Momin,MPS Cheema,Ghulam Ahmadi,0,1,,,,1,,"",""
+ball,1,15.6,Austria,MPS Cheema,Shahil Momin,Ghulam Ahmadi,0,0,,,,,,"",""
+ball,1,16.1,Austria,Shahil Momin,MPS Cheema,D Klein,0,0,,,,,,"",""
+ball,1,16.2,Austria,Shahil Momin,MPS Cheema,D Klein,3,0,,,,,,"",""
+ball,1,16.3,Austria,MPS Cheema,Shahil Momin,D Klein,0,0,,,,,,"",""
+ball,1,16.4,Austria,MPS Cheema,Shahil Momin,D Klein,0,0,,,,,,"",""
+ball,1,16.5,Austria,MPS Cheema,Shahil Momin,D Klein,0,0,,,,,,"",""
+ball,1,16.6,Austria,MPS Cheema,Shahil Momin,D Klein,0,0,,,,,,"",""
+ball,1,17.1,Austria,Shahil Momin,MPS Cheema,Muslim Yar,0,0,,,,,,"",""
+ball,1,17.2,Austria,Shahil Momin,MPS Cheema,Muslim Yar,0,0,,,,,,caught,Shahil Momin
+ball,1,17.3,Austria,A Nathwani,MPS Cheema,Muslim Yar,0,1,1,,,,,"",""
+ball,1,17.4,Austria,A Nathwani,MPS Cheema,Muslim Yar,0,0,,,,,,"",""
+ball,1,17.5,Austria,A Nathwani,MPS Cheema,Muslim Yar,0,1,,,,1,,"",""
+ball,1,17.6,Austria,MPS Cheema,A Nathwani,Muslim Yar,0,1,,,1,,,"",""
+ball,1,17.7,Austria,A Nathwani,MPS Cheema,Muslim Yar,1,0,,,,,,"",""
+ball,1,18.1,Austria,A Nathwani,MPS Cheema,D Klein,0,0,,,,,,"",""
+ball,1,18.2,Austria,A Nathwani,MPS Cheema,D Klein,0,0,,,,,,"",""
+ball,1,18.3,Austria,A Nathwani,MPS Cheema,D Klein,0,0,,,,,,"",""
+ball,1,18.4,Austria,A Nathwani,MPS Cheema,D Klein,0,0,,,,,,"",""
+ball,1,18.5,Austria,A Nathwani,MPS Cheema,D Klein,2,0,,,,,,"",""
+ball,1,18.6,Austria,A Nathwani,MPS Cheema,D Klein,2,0,,,,,,"",""
+ball,1,19.1,Austria,MPS Cheema,A Nathwani,Sahir Naqash,1,0,,,,,,"",""
+ball,1,19.2,Austria,A Nathwani,MPS Cheema,Sahir Naqash,1,0,,,,,,"",""
+ball,1,19.3,Austria,MPS Cheema,A Nathwani,Sahir Naqash,1,0,,,,,,"",""
+ball,1,19.4,Austria,A Nathwani,MPS Cheema,Sahir Naqash,0,2,2,,,,,"",""
+ball,1,19.5,Austria,MPS Cheema,A Nathwani,Sahir Naqash,0,0,,,,,,caught,MPS Cheema
+ball,1,19.6,Austria,Jaweed Sadran,A Nathwani,Sahir Naqash,0,0,,,,,,caught,Jaweed Sadran
+ball,2,0.1,Germany,V Ganesan,J van Heerden,A Nathwani,1,0,,,,,,"",""
+ball,2,0.2,Germany,J van Heerden,V Ganesan,A Nathwani,0,0,,,,,,"",""
+ball,2,0.3,Germany,J van Heerden,V Ganesan,A Nathwani,1,0,,,,,,"",""
+ball,2,0.4,Germany,V Ganesan,J van Heerden,A Nathwani,4,0,,,,,,"",""
+ball,2,0.5,Germany,V Ganesan,J van Heerden,A Nathwani,1,0,,,,,,"",""
+ball,2,0.6,Germany,J van Heerden,V Ganesan,A Nathwani,1,0,,,,,,"",""
+ball,2,1.1,Germany,J van Heerden,V Ganesan,Aqib Iqbal,0,0,,,,,,caught,J van Heerden
+ball,2,1.2,Germany,VB Chikkannaiah,V Ganesan,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,1.3,Germany,VB Chikkannaiah,V Ganesan,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,1.4,Germany,V Ganesan,VB Chikkannaiah,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,1.5,Germany,V Ganesan,VB Chikkannaiah,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,1.6,Germany,V Ganesan,VB Chikkannaiah,Aqib Iqbal,0,1,1,,,,,"",""
+ball,2,1.7,Germany,V Ganesan,VB Chikkannaiah,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,1.8,Germany,VB Chikkannaiah,V Ganesan,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,1.9,Germany,VB Chikkannaiah,V Ganesan,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,2.1,Germany,V Ganesan,VB Chikkannaiah,A Nathwani,2,0,,,,,,"",""
+ball,2,2.2,Germany,V Ganesan,VB Chikkannaiah,A Nathwani,2,0,,,,,,"",""
+ball,2,2.3,Germany,V Ganesan,VB Chikkannaiah,A Nathwani,0,0,,,,,,"",""
+ball,2,2.4,Germany,V Ganesan,VB Chikkannaiah,A Nathwani,0,0,,,,,,"",""
+ball,2,2.5,Germany,V Ganesan,VB Chikkannaiah,A Nathwani,1,0,,,,,,"",""
+ball,2,2.6,Germany,VB Chikkannaiah,V Ganesan,A Nathwani,0,0,,,,,,"",""
+ball,2,3.1,Germany,V Ganesan,VB Chikkannaiah,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,3.2,Germany,V Ganesan,VB Chikkannaiah,Jaweed Sadran,2,0,,,,,,"",""
+ball,2,3.3,Germany,V Ganesan,VB Chikkannaiah,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,3.4,Germany,V Ganesan,VB Chikkannaiah,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,3.5,Germany,V Ganesan,VB Chikkannaiah,Jaweed Sadran,4,0,,,,,,"",""
+ball,2,3.6,Germany,V Ganesan,VB Chikkannaiah,Jaweed Sadran,2,0,,,,,,"",""
+ball,2,4.1,Germany,VB Chikkannaiah,V Ganesan,Shahil Momin,1,0,,,,,,"",""
+ball,2,4.2,Germany,V Ganesan,VB Chikkannaiah,Shahil Momin,4,0,,,,,,"",""
+ball,2,4.3,Germany,V Ganesan,VB Chikkannaiah,Shahil Momin,0,0,,,,,,caught,V Ganesan
+ball,2,4.4,Germany,Faisal Mubashir,VB Chikkannaiah,Shahil Momin,1,0,,,,,,"",""
+ball,2,4.5,Germany,VB Chikkannaiah,Faisal Mubashir,Shahil Momin,1,0,,,,,,"",""
+ball,2,4.6,Germany,Faisal Mubashir,VB Chikkannaiah,Shahil Momin,0,0,,,,,,"",""
+ball,2,5.1,Germany,VB Chikkannaiah,Faisal Mubashir,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,5.2,Germany,VB Chikkannaiah,Faisal Mubashir,Jaweed Sadran,0,1,1,,,,,"",""
+ball,2,5.3,Germany,VB Chikkannaiah,Faisal Mubashir,Jaweed Sadran,0,0,,,,,,caught,VB Chikkannaiah
+ball,2,5.4,Germany,Sahir Naqash,Faisal Mubashir,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,5.5,Germany,Faisal Mubashir,Sahir Naqash,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,5.6,Germany,Faisal Mubashir,Sahir Naqash,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,5.7,Germany,Faisal Mubashir,Sahir Naqash,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,6.1,Germany,Sahir Naqash,Faisal Mubashir,Shahil Momin,1,0,,,,,,"",""
+ball,2,6.2,Germany,Faisal Mubashir,Sahir Naqash,Shahil Momin,0,0,,,,,,"",""
+ball,2,6.3,Germany,Faisal Mubashir,Sahir Naqash,Shahil Momin,1,0,,,,,,"",""
+ball,2,6.4,Germany,Sahir Naqash,Faisal Mubashir,Shahil Momin,1,0,,,,,,"",""
+ball,2,6.5,Germany,Faisal Mubashir,Sahir Naqash,Shahil Momin,2,0,,,,,,"",""
+ball,2,6.6,Germany,Faisal Mubashir,Sahir Naqash,Shahil Momin,2,0,,,,,,"",""
+ball,2,7.1,Germany,Sahir Naqash,Faisal Mubashir,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,7.2,Germany,Faisal Mubashir,Sahir Naqash,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,7.3,Germany,Sahir Naqash,Faisal Mubashir,Jaweed Sadran,2,0,,,,,,"",""
+ball,2,7.4,Germany,Sahir Naqash,Faisal Mubashir,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,7.5,Germany,Sahir Naqash,Faisal Mubashir,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,7.6,Germany,Sahir Naqash,Faisal Mubashir,Jaweed Sadran,2,1,,1,,,,"",""
+ball,2,7.7,Germany,Sahir Naqash,Faisal Mubashir,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,8.1,Germany,Sahir Naqash,Faisal Mubashir,A Nathwani,0,0,,,,,,"",""
+ball,2,8.2,Germany,Sahir Naqash,Faisal Mubashir,A Nathwani,1,0,,,,,,"",""
+ball,2,8.3,Germany,Faisal Mubashir,Sahir Naqash,A Nathwani,2,0,,,,,,"",""
+ball,2,8.4,Germany,Faisal Mubashir,Sahir Naqash,A Nathwani,1,0,,,,,,"",""
+ball,2,8.5,Germany,Sahir Naqash,Faisal Mubashir,A Nathwani,1,0,,,,,,"",""
+ball,2,8.6,Germany,Faisal Mubashir,Sahir Naqash,A Nathwani,0,0,,,,,,"",""
+ball,2,9.1,Germany,Sahir Naqash,Faisal Mubashir,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,9.2,Germany,Sahir Naqash,Faisal Mubashir,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,9.3,Germany,Faisal Mubashir,Sahir Naqash,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,9.4,Germany,Sahir Naqash,Faisal Mubashir,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,9.5,Germany,Faisal Mubashir,Sahir Naqash,Aqib Iqbal,4,0,,,,,,"",""
+ball,2,9.6,Germany,Faisal Mubashir,Sahir Naqash,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,10.1,Germany,Faisal Mubashir,Sahir Naqash,Umair Tariq,1,0,,,,,,"",""
+ball,2,10.2,Germany,Sahir Naqash,Faisal Mubashir,Umair Tariq,1,0,,,,,,"",""
+ball,2,10.3,Germany,Faisal Mubashir,Sahir Naqash,Umair Tariq,1,0,,,,,,"",""
+ball,2,10.4,Germany,Sahir Naqash,Faisal Mubashir,Umair Tariq,1,0,,,,,,"",""
+ball,2,10.5,Germany,Faisal Mubashir,Sahir Naqash,Umair Tariq,0,1,1,,,,,"",""
+ball,2,10.6,Germany,Faisal Mubashir,Sahir Naqash,Umair Tariq,4,0,,,,,,"",""
+ball,2,10.7,Germany,Faisal Mubashir,Sahir Naqash,Umair Tariq,1,0,,,,,,"",""
+ball,2,11.1,Germany,Faisal Mubashir,Sahir Naqash,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,11.2,Germany,Faisal Mubashir,Sahir Naqash,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,11.3,Germany,Sahir Naqash,Faisal Mubashir,Aqib Iqbal,0,0,,,,,,caught,Sahir Naqash
+ball,2,11.4,Germany,DA Blignaut,Faisal Mubashir,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,11.5,Germany,DA Blignaut,Faisal Mubashir,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,11.6,Germany,DA Blignaut,Faisal Mubashir,Aqib Iqbal,2,0,,,,,,"",""
+ball,2,12.1,Germany,Faisal Mubashir,DA Blignaut,Shahil Momin,1,0,,,,,,"",""
+ball,2,12.2,Germany,DA Blignaut,Faisal Mubashir,Shahil Momin,1,0,,,,,,"",""
+ball,2,12.3,Germany,Faisal Mubashir,DA Blignaut,Shahil Momin,1,0,,,,,,"",""
+ball,2,12.4,Germany,DA Blignaut,Faisal Mubashir,Shahil Momin,0,0,,,,,,"",""
+ball,2,12.5,Germany,DA Blignaut,Faisal Mubashir,Shahil Momin,0,0,,,,,,"",""
+ball,2,12.6,Germany,DA Blignaut,Faisal Mubashir,Shahil Momin,1,0,,,,,,"",""
+ball,2,13.1,Germany,DA Blignaut,Faisal Mubashir,A Nathwani,0,1,1,,,,,"",""
+ball,2,13.2,Germany,DA Blignaut,Faisal Mubashir,A Nathwani,1,0,,,,,,"",""
+ball,2,13.3,Germany,Faisal Mubashir,DA Blignaut,A Nathwani,2,0,,,,,,"",""
+ball,2,13.4,Germany,Faisal Mubashir,DA Blignaut,A Nathwani,1,0,,,,,,"",""
+ball,2,13.5,Germany,DA Blignaut,Faisal Mubashir,A Nathwani,6,0,,,,,,"",""
+ball,2,13.6,Germany,DA Blignaut,Faisal Mubashir,A Nathwani,4,0,,,,,,"",""
+ball,2,13.7,Germany,DA Blignaut,Faisal Mubashir,A Nathwani,0,0,,,,,,"",""
+ball,2,14.1,Germany,Faisal Mubashir,DA Blignaut,Shahil Momin,1,0,,,,,,"",""
+ball,2,14.2,Germany,DA Blignaut,Faisal Mubashir,Shahil Momin,1,0,,,,,,"",""
+ball,2,14.3,Germany,Faisal Mubashir,DA Blignaut,Shahil Momin,1,0,,,,,,"",""
+ball,2,14.4,Germany,DA Blignaut,Faisal Mubashir,Shahil Momin,0,0,,,,,,"",""
+ball,2,14.5,Germany,DA Blignaut,Faisal Mubashir,Shahil Momin,1,0,,,,,,"",""
+ball,2,14.6,Germany,Faisal Mubashir,DA Blignaut,Shahil Momin,0,0,,,,,,"",""
+ball,2,15.1,Germany,DA Blignaut,Faisal Mubashir,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,15.2,Germany,Faisal Mubashir,DA Blignaut,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,15.3,Germany,Faisal Mubashir,DA Blignaut,Jaweed Sadran,1,0,,,,,,"",""
+ball,2,15.4,Germany,DA Blignaut,Faisal Mubashir,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,15.5,Germany,DA Blignaut,Faisal Mubashir,Jaweed Sadran,4,0,,,,,,"",""
+ball,2,15.6,Germany,DA Blignaut,Faisal Mubashir,Jaweed Sadran,0,0,,,,,,"",""
+ball,2,16.1,Germany,Faisal Mubashir,DA Blignaut,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,16.2,Germany,Faisal Mubashir,DA Blignaut,Aqib Iqbal,2,0,,,,,,"",""
+ball,2,16.3,Germany,Faisal Mubashir,DA Blignaut,Aqib Iqbal,0,0,,,,,,"",""
+ball,2,16.4,Germany,Faisal Mubashir,DA Blignaut,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,16.5,Germany,DA Blignaut,Faisal Mubashir,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,16.6,Germany,Faisal Mubashir,DA Blignaut,Aqib Iqbal,1,0,,,,,,"",""
+ball,2,17.1,Germany,Faisal Mubashir,DA Blignaut,Umair Tariq,1,0,,,,,,"",""

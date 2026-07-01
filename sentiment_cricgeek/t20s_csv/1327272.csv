@@ -1,0 +1,323 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Hong Kong
+info,gender,male
+info,season,2022
+info,date,2022/08/31
+info,event,Asia Cup
+info,match_number,4
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,SA Yadav
+info,umpire,Ahsan Raza
+info,umpire,Gazi Sohel
+info,reserve_umpire,Ahmed Shah Pakteen
+info,tv_umpire,Asif Yaqoob
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_runs,40
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,RR Pant
+info,player,India,KD Karthik
+info,player,India,RA Jadeja
+info,player,India,B Kumar
+info,player,India,Avesh Khan
+info,player,India,Arshdeep Singh
+info,player,India,YS Chahal
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,KD Shah
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,SS McKechnie
+info,player,Hong Kong,Haroon Arshad
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Mohammad Ghazanfar
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Haroon Arshad,be0f9ce9
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KD Shah,d5ae21a2
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Mohammad Ghazanfar,00321fff
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SS McKechnie,e6dd77bb
+info,registry,people,V Kohli,ba607b88
+info,registry,people,YS Chahal,57ee1fde
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9
+ball,1,0.1,India,KL Rahul,RG Sharma,Haroon Arshad,0,0,,,,,,"",""
+ball,1,0.2,India,KL Rahul,RG Sharma,Haroon Arshad,0,1,1,,,,,"",""
+ball,1,0.3,India,KL Rahul,RG Sharma,Haroon Arshad,0,0,,,,,,"",""
+ball,1,0.4,India,KL Rahul,RG Sharma,Haroon Arshad,1,0,,,,,,"",""
+ball,1,0.5,India,RG Sharma,KL Rahul,Haroon Arshad,1,0,,,,,,"",""
+ball,1,0.6,India,KL Rahul,RG Sharma,Haroon Arshad,1,0,,,,,,"",""
+ball,1,0.7,India,RG Sharma,KL Rahul,Haroon Arshad,1,0,,,,,,"",""
+ball,1,1.1,India,RG Sharma,KL Rahul,A Shukla,1,0,,,,,,"",""
+ball,1,1.2,India,KL Rahul,RG Sharma,A Shukla,0,0,,,,,,"",""
+ball,1,1.3,India,KL Rahul,RG Sharma,A Shukla,0,0,,,,,,"",""
+ball,1,1.4,India,KL Rahul,RG Sharma,A Shukla,0,0,,,,,,"",""
+ball,1,1.5,India,KL Rahul,RG Sharma,A Shukla,0,0,,,,,,"",""
+ball,1,1.6,India,KL Rahul,RG Sharma,A Shukla,0,0,,,,,,"",""
+ball,1,2.1,India,RG Sharma,KL Rahul,Haroon Arshad,6,0,,,,,,"",""
+ball,1,2.2,India,RG Sharma,KL Rahul,Haroon Arshad,0,0,,,,,,"",""
+ball,1,2.3,India,RG Sharma,KL Rahul,Haroon Arshad,1,0,,,,,,"",""
+ball,1,2.4,India,KL Rahul,RG Sharma,Haroon Arshad,2,1,,1,,,,"",""
+ball,1,2.5,India,KL Rahul,RG Sharma,Haroon Arshad,0,1,,1,,,,"",""
+ball,1,2.6,India,KL Rahul,RG Sharma,Haroon Arshad,6,0,,,,,,"",""
+ball,1,2.7,India,KL Rahul,RG Sharma,Haroon Arshad,1,0,,,,,,"",""
+ball,1,2.8,India,RG Sharma,KL Rahul,Haroon Arshad,4,0,,,,,,"",""
+ball,1,3.1,India,KL Rahul,RG Sharma,Ehsan Khan,1,0,,,,,,"",""
+ball,1,3.2,India,RG Sharma,KL Rahul,Ehsan Khan,1,0,,,,,,"",""
+ball,1,3.3,India,KL Rahul,RG Sharma,Ehsan Khan,1,0,,,,,,"",""
+ball,1,3.4,India,RG Sharma,KL Rahul,Ehsan Khan,0,0,,,,,,"",""
+ball,1,3.5,India,RG Sharma,KL Rahul,Ehsan Khan,2,0,,,,,,"",""
+ball,1,3.6,India,RG Sharma,KL Rahul,Ehsan Khan,0,0,,,,,,"",""
+ball,1,4.1,India,KL Rahul,RG Sharma,A Shukla,0,0,,,,,,"",""
+ball,1,4.2,India,KL Rahul,RG Sharma,A Shukla,0,0,,,,,,"",""
+ball,1,4.3,India,KL Rahul,RG Sharma,A Shukla,1,0,,,,,,"",""
+ball,1,4.4,India,RG Sharma,KL Rahul,A Shukla,4,0,,,,,,"",""
+ball,1,4.5,India,RG Sharma,KL Rahul,A Shukla,0,0,,,,,,caught,RG Sharma
+ball,1,4.6,India,V Kohli,KL Rahul,A Shukla,1,0,,,,,,"",""
+ball,1,5.1,India,V Kohli,KL Rahul,Ehsan Khan,1,0,,,,,,"",""
+ball,1,5.2,India,KL Rahul,V Kohli,Ehsan Khan,1,0,,,,,,"",""
+ball,1,5.3,India,V Kohli,KL Rahul,Ehsan Khan,0,0,,,,,,"",""
+ball,1,5.4,India,V Kohli,KL Rahul,Ehsan Khan,1,0,,,,,,"",""
+ball,1,5.5,India,KL Rahul,V Kohli,Ehsan Khan,1,0,,,,,,"",""
+ball,1,5.6,India,V Kohli,KL Rahul,Ehsan Khan,1,0,,,,,,"",""
+ball,1,6.1,India,V Kohli,KL Rahul,Aizaz Khan,1,0,,,,,,"",""
+ball,1,6.2,India,KL Rahul,V Kohli,Aizaz Khan,0,1,1,,,,,"",""
+ball,1,6.3,India,KL Rahul,V Kohli,Aizaz Khan,1,0,,,,,,"",""
+ball,1,6.4,India,V Kohli,KL Rahul,Aizaz Khan,1,0,,,,,,"",""
+ball,1,6.5,India,KL Rahul,V Kohli,Aizaz Khan,1,0,,,,,,"",""
+ball,1,6.6,India,V Kohli,KL Rahul,Aizaz Khan,2,0,,,,,,"",""
+ball,1,6.7,India,V Kohli,KL Rahul,Aizaz Khan,1,0,,,,,,"",""
+ball,1,7.1,India,V Kohli,KL Rahul,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,7.2,India,KL Rahul,V Kohli,Yasim Murtaza,0,0,,,,,,"",""
+ball,1,7.3,India,KL Rahul,V Kohli,Yasim Murtaza,2,0,,,,,,"",""
+ball,1,7.4,India,KL Rahul,V Kohli,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,7.5,India,V Kohli,KL Rahul,Yasim Murtaza,0,0,,,,,,"",""
+ball,1,7.6,India,V Kohli,KL Rahul,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,8.1,India,V Kohli,KL Rahul,Aizaz Khan,0,0,,,,,,"",""
+ball,1,8.2,India,V Kohli,KL Rahul,Aizaz Khan,1,0,,,,,,"",""
+ball,1,8.3,India,KL Rahul,V Kohli,Aizaz Khan,6,0,,,,,,"",""
+ball,1,8.4,India,KL Rahul,V Kohli,Aizaz Khan,1,0,,,,,,"",""
+ball,1,8.5,India,V Kohli,KL Rahul,Aizaz Khan,1,0,,,,,,"",""
+ball,1,8.6,India,KL Rahul,V Kohli,Aizaz Khan,0,0,,,,,,"",""
+ball,1,9.1,India,V Kohli,KL Rahul,Yasim Murtaza,0,0,,,,,,"",""
+ball,1,9.2,India,V Kohli,KL Rahul,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,9.3,India,KL Rahul,V Kohli,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,9.4,India,V Kohli,KL Rahul,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,9.5,India,KL Rahul,V Kohli,Yasim Murtaza,0,0,,,,,,"",""
+ball,1,9.6,India,KL Rahul,V Kohli,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,10.1,India,KL Rahul,V Kohli,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,1,10.2,India,V Kohli,KL Rahul,Mohammad Ghazanfar,2,0,,,,,,"",""
+ball,1,10.3,India,V Kohli,KL Rahul,Mohammad Ghazanfar,4,0,,,,,,"",""
+ball,1,10.4,India,V Kohli,KL Rahul,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,1,10.5,India,KL Rahul,V Kohli,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,1,10.6,India,V Kohli,KL Rahul,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,1,11.1,India,V Kohli,KL Rahul,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,11.2,India,KL Rahul,V Kohli,Yasim Murtaza,0,0,,,,,,"",""
+ball,1,11.3,India,KL Rahul,V Kohli,Yasim Murtaza,2,0,,,,,,"",""
+ball,1,11.4,India,KL Rahul,V Kohli,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,11.5,India,V Kohli,KL Rahul,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,11.6,India,KL Rahul,V Kohli,Yasim Murtaza,0,0,,,,,,"",""
+ball,1,12.1,India,V Kohli,KL Rahul,Mohammad Ghazanfar,0,0,,,,,,"",""
+ball,1,12.2,India,V Kohli,KL Rahul,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,1,12.3,India,KL Rahul,V Kohli,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,1,12.4,India,V Kohli,KL Rahul,Mohammad Ghazanfar,6,0,,,,,,"",""
+ball,1,12.5,India,V Kohli,KL Rahul,Mohammad Ghazanfar,1,0,,,,,,"",""
+ball,1,12.6,India,KL Rahul,V Kohli,Mohammad Ghazanfar,0,0,,,,,,caught,KL Rahul
+ball,1,13.1,India,V Kohli,SA Yadav,Yasim Murtaza,2,0,,,,,,"",""
+ball,1,13.2,India,V Kohli,SA Yadav,Yasim Murtaza,1,0,,,,,,"",""
+ball,1,13.3,India,SA Yadav,V Kohli,Yasim Murtaza,4,0,,,,,,"",""
+ball,1,13.4,India,SA Yadav,V Kohli,Yasim Murtaza,4,0,,,,,,"",""
+ball,1,13.5,India,SA Yadav,V Kohli,Yasim Murtaza,2,0,,,,,,"",""
+ball,1,13.6,India,SA Yadav,V Kohli,Yasim Murtaza,0,0,,,,,,"",""
+ball,1,14.1,India,V Kohli,SA Yadav,A Shukla,0,0,,,,,,"",""
+ball,1,14.2,India,V Kohli,SA Yadav,A Shukla,1,0,,,,,,"",""
+ball,1,14.3,India,SA Yadav,V Kohli,A Shukla,1,0,,,,,,"",""
+ball,1,14.4,India,V Kohli,SA Yadav,A Shukla,1,0,,,,,,"",""
+ball,1,14.5,India,SA Yadav,V Kohli,A Shukla,4,0,,,,,,"",""
+ball,1,14.6,India,SA Yadav,V Kohli,A Shukla,0,0,,,,,,"",""
+ball,1,15.1,India,V Kohli,SA Yadav,Aizaz Khan,6,0,,,,,,"",""
+ball,1,15.2,India,V Kohli,SA Yadav,Aizaz Khan,1,0,,,,,,"",""
+ball,1,15.3,India,SA Yadav,V Kohli,Aizaz Khan,4,0,,,,,,"",""
+ball,1,15.4,India,SA Yadav,V Kohli,Aizaz Khan,6,0,,,,,,"",""
+ball,1,15.5,India,SA Yadav,V Kohli,Aizaz Khan,1,0,,,,,,"",""
+ball,1,15.6,India,V Kohli,SA Yadav,Aizaz Khan,0,1,1,,,,,"",""
+ball,1,15.7,India,V Kohli,SA Yadav,Aizaz Khan,1,0,,,,,,"",""
+ball,1,16.1,India,V Kohli,SA Yadav,Ehsan Khan,0,0,,,,,,"",""
+ball,1,16.2,India,V Kohli,SA Yadav,Ehsan Khan,1,0,,,,,,"",""
+ball,1,16.3,India,SA Yadav,V Kohli,Ehsan Khan,1,0,,,,,,"",""
+ball,1,16.4,India,V Kohli,SA Yadav,Ehsan Khan,1,0,,,,,,"",""
+ball,1,16.5,India,SA Yadav,V Kohli,Ehsan Khan,0,0,,,,,,"",""
+ball,1,16.6,India,SA Yadav,V Kohli,Ehsan Khan,0,1,,,1,,,"",""
+ball,1,17.1,India,SA Yadav,V Kohli,A Shukla,4,0,,,,,,"",""
+ball,1,17.2,India,SA Yadav,V Kohli,A Shukla,4,0,,,,,,"",""
+ball,1,17.3,India,SA Yadav,V Kohli,A Shukla,0,1,1,,,,,"",""
+ball,1,17.4,India,SA Yadav,V Kohli,A Shukla,0,0,,,,,,"",""
+ball,1,17.5,India,SA Yadav,V Kohli,A Shukla,6,0,,,,,,"",""
+ball,1,17.6,India,SA Yadav,V Kohli,A Shukla,0,0,,,,,,"",""
+ball,1,17.7,India,SA Yadav,V Kohli,A Shukla,0,0,,,,,,"",""
+ball,1,18.1,India,V Kohli,SA Yadav,Ehsan Khan,2,0,,,,,,"",""
+ball,1,18.2,India,V Kohli,SA Yadav,Ehsan Khan,1,0,,,,,,"",""
+ball,1,18.3,India,SA Yadav,V Kohli,Ehsan Khan,1,0,,,,,,"",""
+ball,1,18.4,India,V Kohli,SA Yadav,Ehsan Khan,6,0,,,,,,"",""
+ball,1,18.5,India,V Kohli,SA Yadav,Ehsan Khan,2,0,,,,,,"",""
+ball,1,18.6,India,V Kohli,SA Yadav,Ehsan Khan,0,1,1,,,,,"",""
+ball,1,18.7,India,V Kohli,SA Yadav,Ehsan Khan,0,0,,,,,,"",""
+ball,1,19.1,India,SA Yadav,V Kohli,Haroon Arshad,6,0,,,,,,"",""
+ball,1,19.2,India,SA Yadav,V Kohli,Haroon Arshad,6,0,,,,,,"",""
+ball,1,19.3,India,SA Yadav,V Kohli,Haroon Arshad,6,0,,,,,,"",""
+ball,1,19.4,India,SA Yadav,V Kohli,Haroon Arshad,0,0,,,,,,"",""
+ball,1,19.5,India,SA Yadav,V Kohli,Haroon Arshad,6,0,,,,,,"",""
+ball,1,19.6,India,SA Yadav,V Kohli,Haroon Arshad,2,0,,,,,,"",""
+ball,2,0.1,Hong Kong,Nizakat Khan,Yasim Murtaza,B Kumar,0,0,,,,,,"",""
+ball,2,0.2,Hong Kong,Nizakat Khan,Yasim Murtaza,B Kumar,2,0,,,,,,"",""
+ball,2,0.3,Hong Kong,Nizakat Khan,Yasim Murtaza,B Kumar,1,0,,,,,,"",""
+ball,2,0.4,Hong Kong,Yasim Murtaza,Nizakat Khan,B Kumar,0,0,,,,,,"",""
+ball,2,0.5,Hong Kong,Yasim Murtaza,Nizakat Khan,B Kumar,0,0,,,,,,"",""
+ball,2,0.6,Hong Kong,Yasim Murtaza,Nizakat Khan,B Kumar,1,0,,,,,,"",""
+ball,2,1.1,Hong Kong,Yasim Murtaza,Nizakat Khan,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.2,Hong Kong,Yasim Murtaza,Nizakat Khan,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.3,Hong Kong,Yasim Murtaza,Nizakat Khan,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.4,Hong Kong,Yasim Murtaza,Nizakat Khan,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.5,Hong Kong,Yasim Murtaza,Nizakat Khan,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.6,Hong Kong,Yasim Murtaza,Nizakat Khan,Arshdeep Singh,0,0,,,,,,caught,Yasim Murtaza
+ball,2,2.1,Hong Kong,Nizakat Khan,Babar Hayat,B Kumar,1,0,,,,,,"",""
+ball,2,2.2,Hong Kong,Babar Hayat,Nizakat Khan,B Kumar,0,0,,,,,,"",""
+ball,2,2.3,Hong Kong,Babar Hayat,Nizakat Khan,B Kumar,0,0,,,,,,"",""
+ball,2,2.4,Hong Kong,Babar Hayat,Nizakat Khan,B Kumar,0,0,,,,,,"",""
+ball,2,2.5,Hong Kong,Babar Hayat,Nizakat Khan,B Kumar,6,0,,,,,,"",""
+ball,2,2.6,Hong Kong,Babar Hayat,Nizakat Khan,B Kumar,0,0,,,,,,"",""
+ball,2,3.1,Hong Kong,Nizakat Khan,Babar Hayat,RA Jadeja,0,0,,,,,,"",""
+ball,2,3.2,Hong Kong,Nizakat Khan,Babar Hayat,RA Jadeja,0,0,,,,,,"",""
+ball,2,3.3,Hong Kong,Nizakat Khan,Babar Hayat,RA Jadeja,1,0,,,,,,"",""
+ball,2,3.4,Hong Kong,Babar Hayat,Nizakat Khan,RA Jadeja,0,0,,,,,,"",""
+ball,2,3.5,Hong Kong,Babar Hayat,Nizakat Khan,RA Jadeja,0,0,,,,,,"",""
+ball,2,3.6,Hong Kong,Babar Hayat,Nizakat Khan,RA Jadeja,2,0,,,,,,"",""
+ball,2,4.1,Hong Kong,Nizakat Khan,Babar Hayat,Avesh Khan,0,1,,,,1,,"",""
+ball,2,4.2,Hong Kong,Babar Hayat,Nizakat Khan,Avesh Khan,0,0,,,,,,"",""
+ball,2,4.3,Hong Kong,Babar Hayat,Nizakat Khan,Avesh Khan,6,0,,,,,,"",""
+ball,2,4.4,Hong Kong,Babar Hayat,Nizakat Khan,Avesh Khan,4,0,,,,,,"",""
+ball,2,4.5,Hong Kong,Babar Hayat,Nizakat Khan,Avesh Khan,1,0,,,,,,"",""
+ball,2,4.6,Hong Kong,Nizakat Khan,Babar Hayat,Avesh Khan,0,0,,,,,,"",""
+ball,2,5.1,Hong Kong,Babar Hayat,Nizakat Khan,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,5.2,Hong Kong,Babar Hayat,Nizakat Khan,Arshdeep Singh,0,1,,1,,,,"",""
+ball,2,5.3,Hong Kong,Babar Hayat,Nizakat Khan,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,5.4,Hong Kong,Babar Hayat,Nizakat Khan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,5.5,Hong Kong,Nizakat Khan,Babar Hayat,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,5.6,Hong Kong,Nizakat Khan,Babar Hayat,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,5.7,Hong Kong,Babar Hayat,Nizakat Khan,Arshdeep Singh,1,1,,1,,,,"",""
+ball,2,5.8,Hong Kong,Nizakat Khan,Babar Hayat,Arshdeep Singh,0,0,,,,,,run out,Nizakat Khan
+ball,2,6.1,Hong Kong,Babar Hayat,KD Shah,YS Chahal,1,0,,,,,,"",""
+ball,2,6.2,Hong Kong,KD Shah,Babar Hayat,YS Chahal,0,0,,,,,,"",""
+ball,2,6.3,Hong Kong,KD Shah,Babar Hayat,YS Chahal,0,0,,,,,,"",""
+ball,2,6.4,Hong Kong,KD Shah,Babar Hayat,YS Chahal,0,0,,,,,,"",""
+ball,2,6.5,Hong Kong,KD Shah,Babar Hayat,YS Chahal,1,0,,,,,,"",""
+ball,2,6.6,Hong Kong,Babar Hayat,KD Shah,YS Chahal,1,0,,,,,,"",""
+ball,2,7.1,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,0,0,,,,,,"",""
+ball,2,7.2,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,0,0,,,,,,"",""
+ball,2,7.3,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,0,0,,,,,,"",""
+ball,2,7.4,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,1,0,,,,,,"",""
+ball,2,7.5,Hong Kong,KD Shah,Babar Hayat,RA Jadeja,0,1,1,,,,,"",""
+ball,2,7.6,Hong Kong,KD Shah,Babar Hayat,RA Jadeja,1,0,,,,,,"",""
+ball,2,7.7,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,1,0,,,,,,"",""
+ball,2,8.1,Hong Kong,Babar Hayat,KD Shah,YS Chahal,0,0,,,,,,"",""
+ball,2,8.2,Hong Kong,Babar Hayat,KD Shah,YS Chahal,0,0,,,,,,"",""
+ball,2,8.3,Hong Kong,Babar Hayat,KD Shah,YS Chahal,1,0,,,,,,"",""
+ball,2,8.4,Hong Kong,KD Shah,Babar Hayat,YS Chahal,1,0,,,,,,"",""
+ball,2,8.5,Hong Kong,Babar Hayat,KD Shah,YS Chahal,1,0,,,,,,"",""
+ball,2,8.6,Hong Kong,KD Shah,Babar Hayat,YS Chahal,0,0,,,,,,"",""
+ball,2,9.1,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,0,0,,,,,,"",""
+ball,2,9.2,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,1,0,,,,,,"",""
+ball,2,9.3,Hong Kong,KD Shah,Babar Hayat,RA Jadeja,1,0,,,,,,"",""
+ball,2,9.4,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,1,0,,,,,,"",""
+ball,2,9.5,Hong Kong,KD Shah,Babar Hayat,RA Jadeja,0,1,1,,,,,"",""
+ball,2,9.6,Hong Kong,KD Shah,Babar Hayat,RA Jadeja,0,0,,,,,,"",""
+ball,2,9.7,Hong Kong,KD Shah,Babar Hayat,RA Jadeja,0,0,,,,,,"",""
+ball,2,10.1,Hong Kong,Babar Hayat,KD Shah,YS Chahal,1,0,,,,,,"",""
+ball,2,10.2,Hong Kong,KD Shah,Babar Hayat,YS Chahal,1,0,,,,,,"",""
+ball,2,10.3,Hong Kong,Babar Hayat,KD Shah,YS Chahal,2,0,,,,,,"",""
+ball,2,10.4,Hong Kong,Babar Hayat,KD Shah,YS Chahal,1,0,,,,,,"",""
+ball,2,10.5,Hong Kong,KD Shah,Babar Hayat,YS Chahal,4,0,,,,,,"",""
+ball,2,10.6,Hong Kong,KD Shah,Babar Hayat,YS Chahal,0,0,,,,,,"",""
+ball,2,11.1,Hong Kong,Babar Hayat,KD Shah,RA Jadeja,0,0,,,,,,caught,Babar Hayat
+ball,2,11.2,Hong Kong,Aizaz Khan,KD Shah,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.3,Hong Kong,KD Shah,Aizaz Khan,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.4,Hong Kong,Aizaz Khan,KD Shah,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.5,Hong Kong,KD Shah,Aizaz Khan,RA Jadeja,1,0,,,,,,"",""
+ball,2,11.6,Hong Kong,Aizaz Khan,KD Shah,RA Jadeja,0,0,,,,,,"",""
+ball,2,12.1,Hong Kong,KD Shah,Aizaz Khan,Avesh Khan,1,0,,,,,,"",""
+ball,2,12.2,Hong Kong,Aizaz Khan,KD Shah,Avesh Khan,4,0,,,,,,"",""
+ball,2,12.3,Hong Kong,Aizaz Khan,KD Shah,Avesh Khan,0,0,,,,,,"",""
+ball,2,12.4,Hong Kong,Aizaz Khan,KD Shah,Avesh Khan,1,0,,,,,,"",""
+ball,2,12.5,Hong Kong,KD Shah,Aizaz Khan,Avesh Khan,6,0,,,,,,"",""
+ball,2,12.6,Hong Kong,KD Shah,Aizaz Khan,Avesh Khan,1,0,,,,,,"",""
+ball,2,13.1,Hong Kong,KD Shah,Aizaz Khan,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,13.2,Hong Kong,KD Shah,Aizaz Khan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,13.3,Hong Kong,Aizaz Khan,KD Shah,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,13.4,Hong Kong,Aizaz Khan,KD Shah,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,13.5,Hong Kong,Aizaz Khan,KD Shah,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,13.6,Hong Kong,KD Shah,Aizaz Khan,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,14.1,Hong Kong,KD Shah,Aizaz Khan,Avesh Khan,1,0,,,,,,"",""
+ball,2,14.2,Hong Kong,Aizaz Khan,KD Shah,Avesh Khan,0,0,,,,,,"",""
+ball,2,14.3,Hong Kong,Aizaz Khan,KD Shah,Avesh Khan,2,0,,,,,,"",""
+ball,2,14.4,Hong Kong,Aizaz Khan,KD Shah,Avesh Khan,4,0,,,,,,"",""
+ball,2,14.5,Hong Kong,Aizaz Khan,KD Shah,Avesh Khan,0,0,,,,,,bowled,Aizaz Khan
+ball,2,14.6,Hong Kong,Zeeshan Ali,KD Shah,Avesh Khan,1,0,,,,,,"",""
+ball,2,15.1,Hong Kong,Zeeshan Ali,KD Shah,YS Chahal,0,0,,,,,,"",""
+ball,2,15.2,Hong Kong,Zeeshan Ali,KD Shah,YS Chahal,2,0,,,,,,"",""
+ball,2,15.3,Hong Kong,Zeeshan Ali,KD Shah,YS Chahal,0,0,,,,,,"",""
+ball,2,15.4,Hong Kong,Zeeshan Ali,KD Shah,YS Chahal,1,0,,,,,,"",""
+ball,2,15.5,Hong Kong,KD Shah,Zeeshan Ali,YS Chahal,0,0,,,,,,"",""
+ball,2,15.6,Hong Kong,KD Shah,Zeeshan Ali,YS Chahal,0,0,,,,,,"",""
+ball,2,16.1,Hong Kong,Zeeshan Ali,KD Shah,V Kohli,1,0,,,,,,"",""
+ball,2,16.2,Hong Kong,KD Shah,Zeeshan Ali,V Kohli,2,0,,,,,,"",""
+ball,2,16.3,Hong Kong,KD Shah,Zeeshan Ali,V Kohli,1,0,,,,,,"",""
+ball,2,16.4,Hong Kong,Zeeshan Ali,KD Shah,V Kohli,0,0,,,,,,"",""
+ball,2,16.5,Hong Kong,Zeeshan Ali,KD Shah,V Kohli,1,0,,,,,,"",""
+ball,2,16.6,Hong Kong,KD Shah,Zeeshan Ali,V Kohli,1,0,,,,,,"",""
+ball,2,17.1,Hong Kong,KD Shah,Zeeshan Ali,B Kumar,0,1,1,,,,,"",""
+ball,2,17.2,Hong Kong,KD Shah,Zeeshan Ali,B Kumar,0,0,,,,,,caught,KD Shah
+ball,2,17.3,Hong Kong,Zeeshan Ali,SS McKechnie,B Kumar,2,0,,,,,,"",""
+ball,2,17.4,Hong Kong,Zeeshan Ali,SS McKechnie,B Kumar,0,0,,,,,,"",""
+ball,2,17.5,Hong Kong,Zeeshan Ali,SS McKechnie,B Kumar,1,0,,,,,,"",""
+ball,2,17.6,Hong Kong,SS McKechnie,Zeeshan Ali,B Kumar,0,0,,,,,,"",""
+ball,2,17.7,Hong Kong,SS McKechnie,Zeeshan Ali,B Kumar,0,0,,,,,,"",""
+ball,2,18.1,Hong Kong,Zeeshan Ali,SS McKechnie,Avesh Khan,6,0,,,,,,"",""
+ball,2,18.2,Hong Kong,Zeeshan Ali,SS McKechnie,Avesh Khan,1,0,,,,,,"",""
+ball,2,18.3,Hong Kong,SS McKechnie,Zeeshan Ali,Avesh Khan,0,0,,,,,,"",""
+ball,2,18.4,Hong Kong,SS McKechnie,Zeeshan Ali,Avesh Khan,6,0,,,,,,"",""
+ball,2,18.5,Hong Kong,SS McKechnie,Zeeshan Ali,Avesh Khan,4,0,,,,,,"",""
+ball,2,18.6,Hong Kong,SS McKechnie,Zeeshan Ali,Avesh Khan,4,0,,,,,,"",""
+ball,2,19.1,Hong Kong,Zeeshan Ali,SS McKechnie,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.2,Hong Kong,SS McKechnie,Zeeshan Ali,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.3,Hong Kong,Zeeshan Ali,SS McKechnie,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,19.4,Hong Kong,Zeeshan Ali,SS McKechnie,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,19.5,Hong Kong,Zeeshan Ali,SS McKechnie,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,19.6,Hong Kong,SS McKechnie,Zeeshan Ali,Arshdeep Singh,1,0,,,,,,"",""

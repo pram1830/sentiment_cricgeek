@@ -1,0 +1,167 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2022
+info,date,2022/09/23
+info,event,Australia tour of India
+info,match_number,2
+info,venue,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur"
+info,city,Nagpur
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,RG Sharma
+info,umpire,KN Ananthapadmanabhan
+info,umpire,Nitin Menon
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,VK Sharma
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,6
+info,player,Australia,AJ Finch
+info,player,Australia,C Green
+info,player,Australia,GJ Maxwell
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,SPD Smith
+info,player,Australia,SA Abbott
+info,player,Australia,PJ Cummins
+info,player,Australia,DR Sams
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,KD Karthik
+info,player,India,RR Pant
+info,player,India,HV Patel
+info,player,India,AR Patel
+info,player,India,JJ Bumrah
+info,player,India,YS Chahal
+info,registry,people,A Zampa,14f96089
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AR Patel,2e171977
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TH David,f1f99156
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Australia,AJ Finch,C Green,HH Pandya,0,0,,,,,,"",""
+ball,1,0.2,Australia,AJ Finch,C Green,HH Pandya,4,0,,,,,,"",""
+ball,1,0.3,Australia,AJ Finch,C Green,HH Pandya,1,0,,,,,,"",""
+ball,1,0.4,Australia,C Green,AJ Finch,HH Pandya,1,0,,,,,,"",""
+ball,1,0.5,Australia,AJ Finch,C Green,HH Pandya,4,0,,,,,,"",""
+ball,1,0.6,Australia,AJ Finch,C Green,HH Pandya,0,0,,,,,,"",""
+ball,1,1.1,Australia,C Green,AJ Finch,AR Patel,4,0,,,,,,"",""
+ball,1,1.2,Australia,C Green,AJ Finch,AR Patel,0,0,,,,,,"",""
+ball,1,1.3,Australia,C Green,AJ Finch,AR Patel,0,0,,,,,,run out,C Green
+ball,1,1.4,Australia,AJ Finch,GJ Maxwell,AR Patel,4,0,,,,,,"",""
+ball,1,1.5,Australia,AJ Finch,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,1,1.6,Australia,GJ Maxwell,AJ Finch,AR Patel,0,0,,,,,,bowled,GJ Maxwell
+ball,1,2.1,Australia,AJ Finch,TH David,YS Chahal,1,0,,,,,,"",""
+ball,1,2.2,Australia,TH David,AJ Finch,YS Chahal,1,0,,,,,,"",""
+ball,1,2.3,Australia,AJ Finch,TH David,YS Chahal,6,0,,,,,,"",""
+ball,1,2.4,Australia,AJ Finch,TH David,YS Chahal,2,0,,,,,,"",""
+ball,1,2.5,Australia,AJ Finch,TH David,YS Chahal,1,0,,,,,,"",""
+ball,1,2.6,Australia,TH David,AJ Finch,YS Chahal,1,0,,,,,,"",""
+ball,1,3.1,Australia,TH David,AJ Finch,AR Patel,0,0,,,,,,bowled,TH David
+ball,1,3.2,Australia,MS Wade,AJ Finch,AR Patel,0,0,,,,,,"",""
+ball,1,3.3,Australia,MS Wade,AJ Finch,AR Patel,0,0,,,,,,"",""
+ball,1,3.4,Australia,MS Wade,AJ Finch,AR Patel,0,0,,,,,,"",""
+ball,1,3.5,Australia,MS Wade,AJ Finch,AR Patel,0,0,,,,,,"",""
+ball,1,3.6,Australia,MS Wade,AJ Finch,AR Patel,4,0,,,,,,"",""
+ball,1,4.1,Australia,AJ Finch,MS Wade,JJ Bumrah,0,1,1,,,,,"",""
+ball,1,4.2,Australia,AJ Finch,MS Wade,JJ Bumrah,4,0,,,,,,"",""
+ball,1,4.3,Australia,AJ Finch,MS Wade,JJ Bumrah,1,0,,,,,,"",""
+ball,1,4.4,Australia,MS Wade,AJ Finch,JJ Bumrah,2,0,,,,,,"",""
+ball,1,4.5,Australia,MS Wade,AJ Finch,JJ Bumrah,1,0,,,,,,"",""
+ball,1,4.6,Australia,AJ Finch,MS Wade,JJ Bumrah,2,0,,,,,,"",""
+ball,1,4.7,Australia,AJ Finch,MS Wade,JJ Bumrah,0,0,,,,,,bowled,AJ Finch
+ball,1,5.1,Australia,MS Wade,SPD Smith,HV Patel,4,0,,,,,,"",""
+ball,1,5.2,Australia,MS Wade,SPD Smith,HV Patel,1,0,,,,,,"",""
+ball,1,5.3,Australia,SPD Smith,MS Wade,HV Patel,1,0,,,,,,"",""
+ball,1,5.4,Australia,MS Wade,SPD Smith,HV Patel,2,0,,,,,,"",""
+ball,1,5.5,Australia,MS Wade,SPD Smith,HV Patel,4,0,,,,,,"",""
+ball,1,5.6,Australia,MS Wade,SPD Smith,HV Patel,1,0,,,,,,"",""
+ball,1,6.1,Australia,MS Wade,SPD Smith,JJ Bumrah,1,0,,,,,,"",""
+ball,1,6.2,Australia,SPD Smith,MS Wade,JJ Bumrah,4,0,,,,,,"",""
+ball,1,6.3,Australia,SPD Smith,MS Wade,JJ Bumrah,1,0,,,,,,"",""
+ball,1,6.4,Australia,MS Wade,SPD Smith,JJ Bumrah,4,0,,,,,,"",""
+ball,1,6.5,Australia,MS Wade,SPD Smith,JJ Bumrah,1,0,,,,,,"",""
+ball,1,6.6,Australia,SPD Smith,MS Wade,JJ Bumrah,1,0,,,,,,"",""
+ball,1,7.1,Australia,SPD Smith,MS Wade,HV Patel,1,0,,,,,,"",""
+ball,1,7.2,Australia,MS Wade,SPD Smith,HV Patel,6,0,,,,,,"",""
+ball,1,7.3,Australia,MS Wade,SPD Smith,HV Patel,0,0,,,,,,"",""
+ball,1,7.4,Australia,MS Wade,SPD Smith,HV Patel,6,0,,,,,,"",""
+ball,1,7.5,Australia,MS Wade,SPD Smith,HV Patel,6,0,,,,,,"",""
+ball,1,7.6,Australia,MS Wade,SPD Smith,HV Patel,0,0,,,,,,run out,SPD Smith
+ball,2,0.1,India,KL Rahul,RG Sharma,JR Hazlewood,1,0,,,,,,"",""
+ball,2,0.2,India,RG Sharma,KL Rahul,JR Hazlewood,0,0,,,,,,"",""
+ball,2,0.3,India,RG Sharma,KL Rahul,JR Hazlewood,6,0,,,,,,"",""
+ball,2,0.4,India,RG Sharma,KL Rahul,JR Hazlewood,6,0,,,,,,"",""
+ball,2,0.5,India,RG Sharma,KL Rahul,JR Hazlewood,1,0,,,,,,"",""
+ball,2,0.6,India,KL Rahul,RG Sharma,JR Hazlewood,6,0,,,,,,"",""
+ball,2,1.1,India,RG Sharma,KL Rahul,PJ Cummins,0,1,1,,,,,"",""
+ball,2,1.2,India,RG Sharma,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,2,1.3,India,RG Sharma,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,2,1.4,India,RG Sharma,KL Rahul,PJ Cummins,6,0,,,,,,"",""
+ball,2,1.5,India,RG Sharma,KL Rahul,PJ Cummins,1,0,,,,,,"",""
+ball,2,1.6,India,KL Rahul,RG Sharma,PJ Cummins,0,0,,,,,,"",""
+ball,2,1.7,India,KL Rahul,RG Sharma,PJ Cummins,2,0,,,,,,"",""
+ball,2,2.1,India,RG Sharma,KL Rahul,A Zampa,0,1,,,1,,,"",""
+ball,2,2.2,India,KL Rahul,RG Sharma,A Zampa,1,0,,,,,,"",""
+ball,2,2.3,India,RG Sharma,KL Rahul,A Zampa,6,0,,,,,,"",""
+ball,2,2.4,India,RG Sharma,KL Rahul,A Zampa,1,0,,,,,,"",""
+ball,2,2.5,India,KL Rahul,RG Sharma,A Zampa,0,0,,,,,,bowled,KL Rahul
+ball,2,2.6,India,V Kohli,RG Sharma,A Zampa,1,0,,,,,,"",""
+ball,2,3.1,India,V Kohli,RG Sharma,DR Sams,1,0,,,,,,"",""
+ball,2,3.2,India,RG Sharma,V Kohli,DR Sams,4,0,,,,,,"",""
+ball,2,3.3,India,RG Sharma,V Kohli,DR Sams,0,0,,,,,,"",""
+ball,2,3.4,India,RG Sharma,V Kohli,DR Sams,0,1,,,,1,,"",""
+ball,2,3.5,India,V Kohli,RG Sharma,DR Sams,4,0,,,,,,"",""
+ball,2,3.6,India,V Kohli,RG Sharma,DR Sams,1,0,,,,,,"",""
+ball,2,4.1,India,V Kohli,RG Sharma,A Zampa,4,0,,,,,,"",""
+ball,2,4.2,India,V Kohli,RG Sharma,A Zampa,0,0,,,,,,bowled,V Kohli
+ball,2,4.3,India,SA Yadav,RG Sharma,A Zampa,0,0,,,,,,lbw,SA Yadav
+ball,2,4.4,India,HH Pandya,RG Sharma,A Zampa,1,0,,,,,,"",""
+ball,2,4.5,India,RG Sharma,HH Pandya,A Zampa,1,0,,,,,,"",""
+ball,2,4.6,India,HH Pandya,RG Sharma,A Zampa,1,0,,,,,,"",""
+ball,2,5.1,India,HH Pandya,RG Sharma,SA Abbott,0,0,,,,,,"",""
+ball,2,5.2,India,HH Pandya,RG Sharma,SA Abbott,1,0,,,,,,"",""
+ball,2,5.3,India,RG Sharma,HH Pandya,SA Abbott,4,0,,,,,,"",""
+ball,2,5.4,India,RG Sharma,HH Pandya,SA Abbott,4,0,,,,,,"",""
+ball,2,5.5,India,RG Sharma,HH Pandya,SA Abbott,0,1,1,,,,,"",""
+ball,2,5.6,India,RG Sharma,HH Pandya,SA Abbott,1,0,,,,,,"",""
+ball,2,5.7,India,HH Pandya,RG Sharma,SA Abbott,0,0,,,,,,"",""
+ball,2,6.1,India,RG Sharma,HH Pandya,PJ Cummins,0,1,1,,,,,"",""
+ball,2,6.2,India,RG Sharma,HH Pandya,PJ Cummins,1,0,,,,,,"",""
+ball,2,6.3,India,HH Pandya,RG Sharma,PJ Cummins,4,0,,,,,,"",""
+ball,2,6.4,India,HH Pandya,RG Sharma,PJ Cummins,2,0,,,,,,"",""
+ball,2,6.5,India,HH Pandya,RG Sharma,PJ Cummins,0,0,,,,,,"",""
+ball,2,6.6,India,HH Pandya,RG Sharma,PJ Cummins,0,0,,,,,,caught,HH Pandya
+ball,2,6.7,India,RG Sharma,KD Karthik,PJ Cummins,0,1,1,,,,,"",""
+ball,2,6.8,India,RG Sharma,KD Karthik,PJ Cummins,4,0,,,,,,"",""
+ball,2,7.1,India,KD Karthik,RG Sharma,DR Sams,6,0,,,,,,"",""
+ball,2,7.2,India,KD Karthik,RG Sharma,DR Sams,4,0,,,,,,"",""

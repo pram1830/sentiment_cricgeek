@@ -1,0 +1,328 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,France
+info,team,Jersey
+info,gender,female
+info,season,2023
+info,date,2023/06/01
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,12
+info,venue,"FB Fields, St Clement"
+info,city,St Clement
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,A Bester
+info,umpire,AY Harris
+info,umpire,Jareth McCready
+info,reserve_umpire,DH Mclean
+info,match_referee,G McCrea
+info,winner,France
+info,winner_runs,6
+info,player,France,IY Mckeon
+info,player,France,L Wykes-Templeman
+info,player,France,PC McGeown
+info,player,France,ME Violleau
+info,player,France,AL Seddon
+info,player,France,Emma Patel
+info,player,France,A Bester
+info,player,France,TE Britton
+info,player,France,DL Graham
+info,player,France,Ganesh Pooja
+info,player,France,PKM Mahawattage
+info,player,Jersey,MD Rocha
+info,player,Jersey,C Miles
+info,player,Jersey,T Smith
+info,player,Jersey,CM Greechan
+info,player,Jersey,A Merritt
+info,player,Jersey,G Wetherall
+info,player,Jersey,A Aikenhead
+info,player,Jersey,M Maguire
+info,player,Jersey,E Duffy
+info,player,Jersey,E Gouge
+info,player,Jersey,S Hanson
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Bester,047d293e
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,AL Seddon,d12ec7b3
+info,registry,people,AY Harris,90d95b82
+info,registry,people,C Miles,80f16d29
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DL Graham,907e30d9
+info,registry,people,E Duffy,52bbb9e5
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,Emma Patel,030a38e0
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,Ganesh Pooja,ab144207
+info,registry,people,IY Mckeon,59ff3c57
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,L Wykes-Templeman,46c9b2bc
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,MD Rocha,30aa04d2
+info,registry,people,ME Violleau,69f47625
+info,registry,people,PC McGeown,1aabd6fc
+info,registry,people,PKM Mahawattage,a413b433
+info,registry,people,S Hanson,711c82b5
+info,registry,people,T Smith,f24ffaab
+info,registry,people,TE Britton,5eceeb7f
+ball,1,0.1,France,IY Mckeon,L Wykes-Templeman,CM Greechan,0,0,,,,,,"",""
+ball,1,0.2,France,IY Mckeon,L Wykes-Templeman,CM Greechan,0,0,,,,,,"",""
+ball,1,0.3,France,IY Mckeon,L Wykes-Templeman,CM Greechan,0,0,,,,,,"",""
+ball,1,0.4,France,IY Mckeon,L Wykes-Templeman,CM Greechan,1,0,,,,,,"",""
+ball,1,0.5,France,L Wykes-Templeman,IY Mckeon,CM Greechan,0,0,,,,,,"",""
+ball,1,0.6,France,L Wykes-Templeman,IY Mckeon,CM Greechan,0,0,,,,,,"",""
+ball,1,1.1,France,IY Mckeon,L Wykes-Templeman,A Merritt,1,0,,,,,,"",""
+ball,1,1.2,France,L Wykes-Templeman,IY Mckeon,A Merritt,0,0,,,,,,"",""
+ball,1,1.3,France,L Wykes-Templeman,IY Mckeon,A Merritt,1,0,,,,,,"",""
+ball,1,1.4,France,IY Mckeon,L Wykes-Templeman,A Merritt,0,0,,,,,,"",""
+ball,1,1.5,France,IY Mckeon,L Wykes-Templeman,A Merritt,0,0,,,,,,"",""
+ball,1,1.6,France,IY Mckeon,L Wykes-Templeman,A Merritt,4,0,,,,,,"",""
+ball,1,2.1,France,L Wykes-Templeman,IY Mckeon,CM Greechan,1,0,,,,,,"",""
+ball,1,2.2,France,IY Mckeon,L Wykes-Templeman,CM Greechan,0,0,,,,,,"",""
+ball,1,2.3,France,IY Mckeon,L Wykes-Templeman,CM Greechan,4,0,,,,,,"",""
+ball,1,2.4,France,IY Mckeon,L Wykes-Templeman,CM Greechan,0,0,,,,,,"",""
+ball,1,2.5,France,IY Mckeon,L Wykes-Templeman,CM Greechan,1,0,,,,,,"",""
+ball,1,2.6,France,L Wykes-Templeman,IY Mckeon,CM Greechan,0,0,,,,,,"",""
+ball,1,3.1,France,IY Mckeon,L Wykes-Templeman,A Merritt,1,0,,,,,,"",""
+ball,1,3.2,France,L Wykes-Templeman,IY Mckeon,A Merritt,0,0,,,,,,"",""
+ball,1,3.3,France,L Wykes-Templeman,IY Mckeon,A Merritt,3,0,,,,,,"",""
+ball,1,3.4,France,IY Mckeon,L Wykes-Templeman,A Merritt,0,0,,,,,,"",""
+ball,1,3.5,France,IY Mckeon,L Wykes-Templeman,A Merritt,4,0,,,,,,"",""
+ball,1,3.6,France,IY Mckeon,L Wykes-Templeman,A Merritt,4,0,,,,,,"",""
+ball,1,4.1,France,L Wykes-Templeman,IY Mckeon,E Duffy,1,0,,,,,,"",""
+ball,1,4.2,France,IY Mckeon,L Wykes-Templeman,E Duffy,0,0,,,,,,"",""
+ball,1,4.3,France,IY Mckeon,L Wykes-Templeman,E Duffy,4,0,,,,,,"",""
+ball,1,4.4,France,IY Mckeon,L Wykes-Templeman,E Duffy,0,0,,,,,,"",""
+ball,1,4.5,France,IY Mckeon,L Wykes-Templeman,E Duffy,4,0,,,,,,"",""
+ball,1,4.6,France,IY Mckeon,L Wykes-Templeman,E Duffy,0,0,,,,,,"",""
+ball,1,5.1,France,L Wykes-Templeman,IY Mckeon,S Hanson,0,0,,,,,,"",""
+ball,1,5.2,France,L Wykes-Templeman,IY Mckeon,S Hanson,0,0,,,,,,"",""
+ball,1,5.3,France,L Wykes-Templeman,IY Mckeon,S Hanson,0,0,,,,,,"",""
+ball,1,5.4,France,L Wykes-Templeman,IY Mckeon,S Hanson,4,0,,,,,,"",""
+ball,1,5.5,France,L Wykes-Templeman,IY Mckeon,S Hanson,0,0,,,,,,bowled,L Wykes-Templeman
+ball,1,5.6,France,PC McGeown,IY Mckeon,S Hanson,0,0,,,,,,"",""
+ball,1,6.1,France,IY Mckeon,PC McGeown,CM Greechan,0,0,,,,,,"",""
+ball,1,6.2,France,IY Mckeon,PC McGeown,CM Greechan,0,0,,,,,,"",""
+ball,1,6.3,France,IY Mckeon,PC McGeown,CM Greechan,1,0,,,,,,"",""
+ball,1,6.4,France,PC McGeown,IY Mckeon,CM Greechan,0,0,,,,,,"",""
+ball,1,6.5,France,PC McGeown,IY Mckeon,CM Greechan,0,0,,,,,,"",""
+ball,1,6.6,France,PC McGeown,IY Mckeon,CM Greechan,0,1,1,,,,,"",""
+ball,1,6.7,France,PC McGeown,IY Mckeon,CM Greechan,0,0,,,,,,"",""
+ball,1,7.1,France,IY Mckeon,PC McGeown,S Hanson,0,0,,,,,,"",""
+ball,1,7.2,France,IY Mckeon,PC McGeown,S Hanson,2,0,,,,,,"",""
+ball,1,7.3,France,IY Mckeon,PC McGeown,S Hanson,0,0,,,,,,"",""
+ball,1,7.4,France,IY Mckeon,PC McGeown,S Hanson,2,0,,,,,,"",""
+ball,1,7.5,France,IY Mckeon,PC McGeown,S Hanson,0,0,,,,,,"",""
+ball,1,7.6,France,IY Mckeon,PC McGeown,S Hanson,0,0,,,,,,"",""
+ball,1,8.1,France,PC McGeown,IY Mckeon,G Wetherall,0,0,,,,,,"",""
+ball,1,8.2,France,PC McGeown,IY Mckeon,G Wetherall,0,0,,,,,,"",""
+ball,1,8.3,France,PC McGeown,IY Mckeon,G Wetherall,0,0,,,,,,"",""
+ball,1,8.4,France,PC McGeown,IY Mckeon,G Wetherall,1,0,,,,,,"",""
+ball,1,8.5,France,IY Mckeon,PC McGeown,G Wetherall,2,0,,,,,,"",""
+ball,1,8.6,France,IY Mckeon,PC McGeown,G Wetherall,0,0,,,,,,caught,IY Mckeon
+ball,1,9.1,France,PC McGeown,ME Violleau,S Hanson,0,0,,,,,,"",""
+ball,1,9.2,France,PC McGeown,ME Violleau,S Hanson,1,0,,,,,,"",""
+ball,1,9.3,France,ME Violleau,PC McGeown,S Hanson,0,0,,,,,,"",""
+ball,1,9.4,France,ME Violleau,PC McGeown,S Hanson,2,0,,,,,,"",""
+ball,1,9.5,France,ME Violleau,PC McGeown,S Hanson,0,0,,,,,,"",""
+ball,1,9.6,France,ME Violleau,PC McGeown,S Hanson,1,0,,,,,,"",""
+ball,1,10.1,France,ME Violleau,PC McGeown,G Wetherall,0,0,,,,,,"",""
+ball,1,10.2,France,ME Violleau,PC McGeown,G Wetherall,2,0,,,,,,"",""
+ball,1,10.3,France,ME Violleau,PC McGeown,G Wetherall,2,0,,,,,,"",""
+ball,1,10.4,France,ME Violleau,PC McGeown,G Wetherall,1,0,,,,,,"",""
+ball,1,10.5,France,PC McGeown,ME Violleau,G Wetherall,0,0,,,,,,"",""
+ball,1,10.6,France,PC McGeown,ME Violleau,G Wetherall,0,0,,,,,,"",""
+ball,1,11.1,France,ME Violleau,PC McGeown,S Hanson,1,0,,,,,,"",""
+ball,1,11.2,France,PC McGeown,ME Violleau,S Hanson,1,0,,,,,,"",""
+ball,1,11.3,France,ME Violleau,PC McGeown,S Hanson,1,0,,,,,,"",""
+ball,1,11.4,France,PC McGeown,ME Violleau,S Hanson,1,0,,,,,,"",""
+ball,1,11.5,France,ME Violleau,PC McGeown,S Hanson,2,0,,,,,,"",""
+ball,1,11.6,France,ME Violleau,PC McGeown,S Hanson,1,0,,,,,,"",""
+ball,1,12.1,France,ME Violleau,PC McGeown,E Gouge,0,0,,,,,,"",""
+ball,1,12.2,France,ME Violleau,PC McGeown,E Gouge,0,0,,,,,,"",""
+ball,1,12.3,France,ME Violleau,PC McGeown,E Gouge,1,0,,,,,,"",""
+ball,1,12.4,France,PC McGeown,ME Violleau,E Gouge,1,0,,,,,,"",""
+ball,1,12.5,France,ME Violleau,PC McGeown,E Gouge,0,0,,,,,,"",""
+ball,1,12.6,France,ME Violleau,PC McGeown,E Gouge,1,0,,,,,,"",""
+ball,1,13.1,France,ME Violleau,PC McGeown,E Duffy,4,0,,,,,,"",""
+ball,1,13.2,France,ME Violleau,PC McGeown,E Duffy,1,0,,,,,,"",""
+ball,1,13.3,France,PC McGeown,ME Violleau,E Duffy,1,0,,,,,,"",""
+ball,1,13.4,France,ME Violleau,PC McGeown,E Duffy,1,0,,,,,,"",""
+ball,1,13.5,France,PC McGeown,ME Violleau,E Duffy,1,0,,,,,,"",""
+ball,1,13.6,France,ME Violleau,PC McGeown,E Duffy,0,1,1,,,,,"",""
+ball,1,13.7,France,ME Violleau,PC McGeown,E Duffy,1,0,,,,,,"",""
+ball,1,14.1,France,ME Violleau,PC McGeown,E Gouge,0,0,,,,,,"",""
+ball,1,14.2,France,ME Violleau,PC McGeown,E Gouge,1,0,,,,,,"",""
+ball,1,14.3,France,PC McGeown,ME Violleau,E Gouge,2,0,,,,,,"",""
+ball,1,14.4,France,PC McGeown,ME Violleau,E Gouge,1,0,,,,,,"",""
+ball,1,14.5,France,ME Violleau,PC McGeown,E Gouge,1,0,,,,,,run out,ME Violleau
+ball,1,14.6,France,AL Seddon,PC McGeown,E Gouge,1,0,,,,,,"",""
+ball,1,15.1,France,AL Seddon,PC McGeown,E Duffy,0,0,,,,,,run out,AL Seddon
+ball,1,15.2,France,Emma Patel,PC McGeown,E Duffy,0,0,,,,,,"",""
+ball,1,15.3,France,Emma Patel,PC McGeown,E Duffy,0,0,,,,,,"",""
+ball,1,15.4,France,Emma Patel,PC McGeown,E Duffy,0,1,1,,,,,"",""
+ball,1,15.5,France,Emma Patel,PC McGeown,E Duffy,0,0,,,,,,"",""
+ball,1,15.6,France,Emma Patel,PC McGeown,E Duffy,2,0,,,,,,"",""
+ball,1,15.7,France,Emma Patel,PC McGeown,E Duffy,2,0,,,,,,"",""
+ball,1,16.1,France,PC McGeown,Emma Patel,E Gouge,1,0,,,,,,"",""
+ball,1,16.2,France,Emma Patel,PC McGeown,E Gouge,1,0,,,,,,"",""
+ball,1,16.3,France,PC McGeown,Emma Patel,E Gouge,0,0,,,,,,"",""
+ball,1,16.4,France,PC McGeown,Emma Patel,E Gouge,2,0,,,,,,"",""
+ball,1,16.5,France,PC McGeown,Emma Patel,E Gouge,0,0,,,,,,"",""
+ball,1,16.6,France,PC McGeown,Emma Patel,E Gouge,1,0,,,,,,"",""
+ball,1,17.1,France,PC McGeown,Emma Patel,E Duffy,1,0,,,,,,"",""
+ball,1,17.2,France,Emma Patel,PC McGeown,E Duffy,0,0,,,,,,lbw,Emma Patel
+ball,1,17.3,France,A Bester,PC McGeown,E Duffy,0,0,,,,,,"",""
+ball,1,17.4,France,A Bester,PC McGeown,E Duffy,4,0,,,,,,"",""
+ball,1,17.5,France,A Bester,PC McGeown,E Duffy,0,0,,,,,,"",""
+ball,1,17.6,France,A Bester,PC McGeown,E Duffy,1,0,,,,,,"",""
+ball,1,18.1,France,A Bester,PC McGeown,G Wetherall,0,0,,,,,,bowled,A Bester
+ball,1,18.2,France,TE Britton,PC McGeown,G Wetherall,0,1,1,,,,,"",""
+ball,1,18.3,France,TE Britton,PC McGeown,G Wetherall,0,1,,,,1,,"",""
+ball,1,18.4,France,PC McGeown,TE Britton,G Wetherall,1,0,,,,,,"",""
+ball,1,18.5,France,TE Britton,PC McGeown,G Wetherall,0,0,,,,,,bowled,TE Britton
+ball,1,18.6,France,DL Graham,PC McGeown,G Wetherall,0,1,1,,,,,"",""
+ball,1,18.7,France,DL Graham,PC McGeown,G Wetherall,2,0,,,,,,"",""
+ball,1,18.8,France,DL Graham,PC McGeown,G Wetherall,1,1,,1,,,,"",""
+ball,1,18.9,France,PC McGeown,DL Graham,G Wetherall,0,0,,,,,,"",""
+ball,1,19.1,France,DL Graham,PC McGeown,CM Greechan,1,0,,,,,,"",""
+ball,1,19.2,France,PC McGeown,DL Graham,CM Greechan,1,0,,,,,,"",""
+ball,1,19.3,France,DL Graham,PC McGeown,CM Greechan,1,0,,,,,,"",""
+ball,1,19.4,France,PC McGeown,DL Graham,CM Greechan,1,0,,,,,,"",""
+ball,1,19.5,France,DL Graham,PC McGeown,CM Greechan,0,0,,,,,,"",""
+ball,1,19.6,France,DL Graham,PC McGeown,CM Greechan,0,0,,,,,,stumped,DL Graham
+ball,2,0.1,Jersey,MD Rocha,C Miles,AL Seddon,0,0,,,,,,"",""
+ball,2,0.2,Jersey,MD Rocha,C Miles,AL Seddon,0,0,,,,,,"",""
+ball,2,0.3,Jersey,MD Rocha,C Miles,AL Seddon,0,0,,,,,,"",""
+ball,2,0.4,Jersey,MD Rocha,C Miles,AL Seddon,0,0,,,,,,"",""
+ball,2,0.5,Jersey,MD Rocha,C Miles,AL Seddon,0,1,,,,1,,"",""
+ball,2,0.6,Jersey,C Miles,MD Rocha,AL Seddon,0,0,,,,,,bowled,C Miles
+ball,2,1.1,Jersey,MD Rocha,T Smith,DL Graham,1,0,,,,,,"",""
+ball,2,1.2,Jersey,T Smith,MD Rocha,DL Graham,1,0,,,,,,"",""
+ball,2,1.3,Jersey,MD Rocha,T Smith,DL Graham,1,0,,,,,,"",""
+ball,2,1.4,Jersey,T Smith,MD Rocha,DL Graham,0,0,,,,,,"",""
+ball,2,1.5,Jersey,T Smith,MD Rocha,DL Graham,0,0,,,,,,"",""
+ball,2,1.6,Jersey,T Smith,MD Rocha,DL Graham,1,0,,,,,,"",""
+ball,2,2.1,Jersey,T Smith,MD Rocha,AL Seddon,0,0,,,,,,"",""
+ball,2,2.2,Jersey,T Smith,MD Rocha,AL Seddon,2,0,,,,,,"",""
+ball,2,2.3,Jersey,T Smith,MD Rocha,AL Seddon,0,0,,,,,,"",""
+ball,2,2.4,Jersey,T Smith,MD Rocha,AL Seddon,1,0,,,,,,"",""
+ball,2,2.5,Jersey,MD Rocha,T Smith,AL Seddon,1,0,,,,,,"",""
+ball,2,2.6,Jersey,T Smith,MD Rocha,AL Seddon,2,0,,,,,,"",""
+ball,2,3.1,Jersey,MD Rocha,T Smith,DL Graham,0,0,,,,,,"",""
+ball,2,3.2,Jersey,MD Rocha,T Smith,DL Graham,1,0,,,,,,"",""
+ball,2,3.3,Jersey,T Smith,MD Rocha,DL Graham,0,0,,,,,,"",""
+ball,2,3.4,Jersey,T Smith,MD Rocha,DL Graham,1,0,,,,,,"",""
+ball,2,3.5,Jersey,MD Rocha,T Smith,DL Graham,2,0,,,,,,"",""
+ball,2,3.6,Jersey,MD Rocha,T Smith,DL Graham,0,0,,,,,,"",""
+ball,2,4.1,Jersey,T Smith,MD Rocha,A Bester,0,0,,,,,,"",""
+ball,2,4.2,Jersey,T Smith,MD Rocha,A Bester,1,0,,,,,,"",""
+ball,2,4.3,Jersey,MD Rocha,T Smith,A Bester,0,0,,,,,,"",""
+ball,2,4.4,Jersey,MD Rocha,T Smith,A Bester,1,0,,,,,,"",""
+ball,2,4.5,Jersey,T Smith,MD Rocha,A Bester,1,0,,,,,,"",""
+ball,2,4.6,Jersey,MD Rocha,T Smith,A Bester,0,0,,,,,,bowled,MD Rocha
+ball,2,5.1,Jersey,T Smith,CM Greechan,IY Mckeon,0,0,,,,,,"",""
+ball,2,5.2,Jersey,T Smith,CM Greechan,IY Mckeon,0,1,,1,,,,"",""
+ball,2,5.3,Jersey,T Smith,CM Greechan,IY Mckeon,0,0,,,,,,"",""
+ball,2,5.4,Jersey,T Smith,CM Greechan,IY Mckeon,0,3,3,,,,,"",""
+ball,2,5.5,Jersey,T Smith,CM Greechan,IY Mckeon,0,0,,,,,,"",""
+ball,2,5.6,Jersey,T Smith,CM Greechan,IY Mckeon,1,0,,,,,,"",""
+ball,2,5.7,Jersey,CM Greechan,T Smith,IY Mckeon,0,0,,,,,,"",""
+ball,2,5.8,Jersey,CM Greechan,T Smith,IY Mckeon,0,0,,,,,,"",""
+ball,2,6.1,Jersey,T Smith,CM Greechan,A Bester,0,0,,,,,,"",""
+ball,2,6.2,Jersey,T Smith,CM Greechan,A Bester,1,0,,,,,,"",""
+ball,2,6.3,Jersey,CM Greechan,T Smith,A Bester,0,0,,,,,,"",""
+ball,2,6.4,Jersey,CM Greechan,T Smith,A Bester,1,0,,,,,,"",""
+ball,2,6.5,Jersey,T Smith,CM Greechan,A Bester,0,0,,,,,,"",""
+ball,2,6.6,Jersey,T Smith,CM Greechan,A Bester,4,0,,,,,,"",""
+ball,2,7.1,Jersey,CM Greechan,T Smith,IY Mckeon,0,0,,,,,,"",""
+ball,2,7.2,Jersey,CM Greechan,T Smith,IY Mckeon,0,0,,,,,,"",""
+ball,2,7.3,Jersey,CM Greechan,T Smith,IY Mckeon,0,2,2,,,,,"",""
+ball,2,7.4,Jersey,T Smith,CM Greechan,IY Mckeon,0,0,,,,,,"",""
+ball,2,7.5,Jersey,T Smith,CM Greechan,IY Mckeon,0,1,,,1,,,"",""
+ball,2,7.6,Jersey,CM Greechan,T Smith,IY Mckeon,0,0,,,,,,"",""
+ball,2,7.7,Jersey,CM Greechan,T Smith,IY Mckeon,0,0,,,,,,"",""
+ball,2,8.1,Jersey,T Smith,CM Greechan,A Bester,4,0,,,,,,"",""
+ball,2,8.2,Jersey,T Smith,CM Greechan,A Bester,1,0,,,,,,"",""
+ball,2,8.3,Jersey,CM Greechan,T Smith,A Bester,0,1,1,,,,,"",""
+ball,2,8.4,Jersey,CM Greechan,T Smith,A Bester,0,0,,,,,,"",""
+ball,2,8.5,Jersey,CM Greechan,T Smith,A Bester,1,0,,,,,,"",""
+ball,2,8.6,Jersey,T Smith,CM Greechan,A Bester,0,0,,,,,,"",""
+ball,2,8.7,Jersey,T Smith,CM Greechan,A Bester,0,0,,,,,,bowled,T Smith
+ball,2,9.1,Jersey,CM Greechan,A Merritt,Emma Patel,0,0,,,,,,"",""
+ball,2,9.2,Jersey,CM Greechan,A Merritt,Emma Patel,0,0,,,,,,"",""
+ball,2,9.3,Jersey,CM Greechan,A Merritt,Emma Patel,1,0,,,,,,"",""
+ball,2,9.4,Jersey,A Merritt,CM Greechan,Emma Patel,0,5,,1,4,,,"",""
+ball,2,9.5,Jersey,A Merritt,CM Greechan,Emma Patel,1,0,,,,,,"",""
+ball,2,9.6,Jersey,CM Greechan,A Merritt,Emma Patel,0,0,,,,,,bowled,CM Greechan
+ball,2,9.7,Jersey,G Wetherall,A Merritt,Emma Patel,0,0,,,,,,"",""
+ball,2,10.1,Jersey,A Merritt,G Wetherall,AL Seddon,0,0,,,,,,"",""
+ball,2,10.2,Jersey,A Merritt,G Wetherall,AL Seddon,1,0,,,,,,"",""
+ball,2,10.3,Jersey,G Wetherall,A Merritt,AL Seddon,1,0,,,,,,"",""
+ball,2,10.4,Jersey,A Merritt,G Wetherall,AL Seddon,2,0,,,,,,"",""
+ball,2,10.5,Jersey,A Merritt,G Wetherall,AL Seddon,2,0,,,,,,"",""
+ball,2,10.6,Jersey,A Merritt,G Wetherall,AL Seddon,4,0,,,,,,"",""
+ball,2,11.1,Jersey,G Wetherall,A Merritt,PKM Mahawattage,0,2,,1,1,,,"",""
+ball,2,11.2,Jersey,A Merritt,G Wetherall,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,11.3,Jersey,G Wetherall,A Merritt,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,11.4,Jersey,A Merritt,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,11.5,Jersey,A Merritt,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,11.6,Jersey,A Merritt,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,11.7,Jersey,A Merritt,G Wetherall,PKM Mahawattage,0,0,,,,,,lbw,A Merritt
+ball,2,12.1,Jersey,G Wetherall,A Aikenhead,Emma Patel,1,0,,,,,,"",""
+ball,2,12.2,Jersey,A Aikenhead,G Wetherall,Emma Patel,0,1,,,1,,,"",""
+ball,2,12.3,Jersey,G Wetherall,A Aikenhead,Emma Patel,0,0,,,,,,"",""
+ball,2,12.4,Jersey,G Wetherall,A Aikenhead,Emma Patel,1,0,,,,,,"",""
+ball,2,12.5,Jersey,A Aikenhead,G Wetherall,Emma Patel,0,0,,,,,,"",""
+ball,2,12.6,Jersey,A Aikenhead,G Wetherall,Emma Patel,0,0,,,,,,bowled,A Aikenhead
+ball,2,13.1,Jersey,G Wetherall,M Maguire,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,13.2,Jersey,M Maguire,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,13.3,Jersey,M Maguire,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,13.4,Jersey,M Maguire,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,13.5,Jersey,M Maguire,G Wetherall,PKM Mahawattage,0,1,1,,,,,"",""
+ball,2,13.6,Jersey,M Maguire,G Wetherall,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,13.7,Jersey,G Wetherall,M Maguire,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,14.1,Jersey,M Maguire,G Wetherall,Emma Patel,0,0,,,,,,"",""
+ball,2,14.2,Jersey,M Maguire,G Wetherall,Emma Patel,0,0,,,,,,"",""
+ball,2,14.3,Jersey,M Maguire,G Wetherall,Emma Patel,1,0,,,,,,"",""
+ball,2,14.4,Jersey,G Wetherall,M Maguire,Emma Patel,0,1,1,,,,,"",""
+ball,2,14.5,Jersey,G Wetherall,M Maguire,Emma Patel,0,2,2,,,,,"",""
+ball,2,14.6,Jersey,M Maguire,G Wetherall,Emma Patel,0,0,,,,,,"",""
+ball,2,14.7,Jersey,M Maguire,G Wetherall,Emma Patel,0,1,1,,,,,"",""
+ball,2,14.8,Jersey,M Maguire,G Wetherall,Emma Patel,0,1,1,,,,,"",""
+ball,2,14.9,Jersey,M Maguire,G Wetherall,Emma Patel,0,1,1,,,,,"",""
+ball,2,14.10,Jersey,M Maguire,G Wetherall,Emma Patel,0,1,1,,,,,"",""
+ball,2,14.11,Jersey,M Maguire,G Wetherall,Emma Patel,0,0,,,,,,"",""
+ball,2,14.12,Jersey,M Maguire,G Wetherall,Emma Patel,0,0,,,,,,"",""
+ball,2,15.1,Jersey,G Wetherall,M Maguire,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,15.2,Jersey,G Wetherall,M Maguire,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,15.3,Jersey,M Maguire,G Wetherall,PKM Mahawattage,0,1,1,,,,,"",""
+ball,2,15.4,Jersey,M Maguire,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,15.5,Jersey,M Maguire,G Wetherall,PKM Mahawattage,0,0,,,,,,"",""
+ball,2,15.6,Jersey,M Maguire,G Wetherall,PKM Mahawattage,1,0,,,,,,"",""
+ball,2,15.7,Jersey,G Wetherall,M Maguire,PKM Mahawattage,6,0,,,,,,"",""
+ball,2,16.1,Jersey,M Maguire,G Wetherall,A Bester,1,0,,,,,,"",""
+ball,2,16.2,Jersey,G Wetherall,M Maguire,A Bester,2,0,,,,,,"",""
+ball,2,16.3,Jersey,G Wetherall,M Maguire,A Bester,0,0,,,,,,bowled,G Wetherall
+ball,2,16.4,Jersey,E Duffy,M Maguire,A Bester,0,0,,,,,,bowled,E Duffy
+ball,2,16.5,Jersey,E Gouge,M Maguire,A Bester,1,0,,,,,,"",""
+ball,2,16.6,Jersey,M Maguire,E Gouge,A Bester,0,0,,,,,,"",""
+ball,2,17.1,Jersey,E Gouge,M Maguire,IY Mckeon,0,1,1,,,,,"",""
+ball,2,17.2,Jersey,E Gouge,M Maguire,IY Mckeon,0,0,,,,,,bowled,E Gouge
+ball,2,17.3,Jersey,S Hanson,M Maguire,IY Mckeon,1,0,,,,,,"",""
+ball,2,17.4,Jersey,M Maguire,S Hanson,IY Mckeon,0,0,,,,,,"",""
+ball,2,17.5,Jersey,M Maguire,S Hanson,IY Mckeon,0,0,,,,,,"",""
+ball,2,17.6,Jersey,M Maguire,S Hanson,IY Mckeon,0,1,1,,,,,"",""
+ball,2,17.7,Jersey,M Maguire,S Hanson,IY Mckeon,0,0,,,,,,"",""
+ball,2,17.8,Jersey,M Maguire,S Hanson,IY Mckeon,0,1,1,,,,,"",""
+ball,2,17.9,Jersey,M Maguire,S Hanson,IY Mckeon,1,0,,,,,,"",""
+ball,2,18.1,Jersey,M Maguire,S Hanson,AL Seddon,1,0,,,,,,"",""
+ball,2,18.2,Jersey,S Hanson,M Maguire,AL Seddon,0,0,,,,,,"",""
+ball,2,18.3,Jersey,S Hanson,M Maguire,AL Seddon,1,0,,,,,,"",""
+ball,2,18.4,Jersey,M Maguire,S Hanson,AL Seddon,0,1,,,1,,,"",""
+ball,2,18.5,Jersey,S Hanson,M Maguire,AL Seddon,1,0,,,,,,"",""
+ball,2,18.6,Jersey,M Maguire,S Hanson,AL Seddon,1,0,,,,,,"",""
+ball,2,19.1,Jersey,M Maguire,S Hanson,IY Mckeon,2,0,,,,,,"",""
+ball,2,19.2,Jersey,M Maguire,S Hanson,IY Mckeon,4,0,,,,,,"",""
+ball,2,19.3,Jersey,M Maguire,S Hanson,IY Mckeon,1,0,,,,,,run out,S Hanson

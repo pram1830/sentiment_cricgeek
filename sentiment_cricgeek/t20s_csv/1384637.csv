@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Ireland
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,India tour of Ireland
+info,match_number,2
+info,venue,"Malahide, Dublin"
+info,city,Dublin
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,RK Singh
+info,umpire,PA Reynolds
+info,umpire,R Black
+info,reserve_umpire,M Hawthorne
+info,tv_umpire,Jareth McCready
+info,match_referee,G McCrea
+info,winner,India
+info,winner_runs,33
+info,player,India,YBK Jaiswal
+info,player,India,RD Gaikwad
+info,player,India,Tilak Varma
+info,player,India,SV Samson
+info,player,India,RK Singh
+info,player,India,S Dube
+info,player,India,Washington Sundar
+info,player,India,Arshdeep Singh
+info,player,India,JJ Bumrah
+info,player,India,Ravi Bishnoi
+info,player,India,M Prasidh Krishna
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,CA Young
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B White,1a448be0
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YBK Jaiswal,6c19c6e5
+ball,1,0.1,India,YBK Jaiswal,RD Gaikwad,MR Adair,0,0,,,,,,"",""
+ball,1,0.2,India,YBK Jaiswal,RD Gaikwad,MR Adair,1,0,,,,,,"",""
+ball,1,0.3,India,RD Gaikwad,YBK Jaiswal,MR Adair,0,0,,,,,,"",""
+ball,1,0.4,India,RD Gaikwad,YBK Jaiswal,MR Adair,0,0,,,,,,"",""
+ball,1,0.5,India,RD Gaikwad,YBK Jaiswal,MR Adair,1,0,,,,,,"",""
+ball,1,0.6,India,YBK Jaiswal,RD Gaikwad,MR Adair,0,0,,,,,,"",""
+ball,1,1.1,India,RD Gaikwad,YBK Jaiswal,J Little,4,0,,,,,,"",""
+ball,1,1.2,India,RD Gaikwad,YBK Jaiswal,J Little,0,0,,,,,,"",""
+ball,1,1.3,India,RD Gaikwad,YBK Jaiswal,J Little,1,0,,,,,,"",""
+ball,1,1.4,India,YBK Jaiswal,RD Gaikwad,J Little,4,0,,,,,,"",""
+ball,1,1.5,India,YBK Jaiswal,RD Gaikwad,J Little,6,0,,,,,,"",""
+ball,1,1.6,India,YBK Jaiswal,RD Gaikwad,J Little,1,0,,,,,,"",""
+ball,1,2.1,India,YBK Jaiswal,RD Gaikwad,BJ McCarthy,1,0,,,,,,"",""
+ball,1,2.2,India,RD Gaikwad,YBK Jaiswal,BJ McCarthy,1,0,,,,,,"",""
+ball,1,2.3,India,YBK Jaiswal,RD Gaikwad,BJ McCarthy,1,0,,,,,,"",""
+ball,1,2.4,India,RD Gaikwad,YBK Jaiswal,BJ McCarthy,0,0,,,,,,"",""
+ball,1,2.5,India,RD Gaikwad,YBK Jaiswal,BJ McCarthy,1,0,,,,,,"",""
+ball,1,2.6,India,YBK Jaiswal,RD Gaikwad,BJ McCarthy,4,0,,,,,,"",""
+ball,1,3.1,India,RD Gaikwad,YBK Jaiswal,CA Young,1,0,,,,,,"",""
+ball,1,3.2,India,YBK Jaiswal,RD Gaikwad,CA Young,0,1,,,,1,,"",""
+ball,1,3.3,India,RD Gaikwad,YBK Jaiswal,CA Young,1,0,,,,,,"",""
+ball,1,3.4,India,YBK Jaiswal,RD Gaikwad,CA Young,0,0,,,,,,caught,YBK Jaiswal
+ball,1,3.5,India,Tilak Varma,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,3.6,India,RD Gaikwad,Tilak Varma,CA Young,4,0,,,,,,"",""
+ball,1,4.1,India,Tilak Varma,RD Gaikwad,BJ McCarthy,0,0,,,,,,caught,Tilak Varma
+ball,1,4.2,India,SV Samson,RD Gaikwad,BJ McCarthy,1,0,,,,,,"",""
+ball,1,4.3,India,RD Gaikwad,SV Samson,BJ McCarthy,1,0,,,,,,"",""
+ball,1,4.4,India,SV Samson,RD Gaikwad,BJ McCarthy,0,0,,,,,,"",""
+ball,1,4.5,India,SV Samson,RD Gaikwad,BJ McCarthy,1,0,,,,,,"",""
+ball,1,4.6,India,RD Gaikwad,SV Samson,BJ McCarthy,0,0,,,,,,"",""
+ball,1,5.1,India,SV Samson,RD Gaikwad,J Little,1,0,,,,,,"",""
+ball,1,5.2,India,RD Gaikwad,SV Samson,J Little,2,0,,,,,,"",""
+ball,1,5.3,India,RD Gaikwad,SV Samson,J Little,1,0,,,,,,"",""
+ball,1,5.4,India,SV Samson,RD Gaikwad,J Little,1,0,,,,,,"",""
+ball,1,5.5,India,RD Gaikwad,SV Samson,J Little,1,0,,,,,,"",""
+ball,1,5.6,India,SV Samson,RD Gaikwad,J Little,4,0,,,,,,"",""
+ball,1,6.1,India,RD Gaikwad,SV Samson,B White,1,0,,,,,,"",""
+ball,1,6.2,India,SV Samson,RD Gaikwad,B White,0,0,,,,,,"",""
+ball,1,6.3,India,SV Samson,RD Gaikwad,B White,1,0,,,,,,"",""
+ball,1,6.4,India,RD Gaikwad,SV Samson,B White,1,0,,,,,,"",""
+ball,1,6.5,India,SV Samson,RD Gaikwad,B White,1,0,,,,,,"",""
+ball,1,6.6,India,RD Gaikwad,SV Samson,B White,4,0,,,,,,"",""
+ball,1,7.1,India,SV Samson,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,7.2,India,RD Gaikwad,SV Samson,CA Young,4,0,,,,,,"",""
+ball,1,7.3,India,RD Gaikwad,SV Samson,CA Young,4,0,,,,,,"",""
+ball,1,7.4,India,RD Gaikwad,SV Samson,CA Young,1,0,,,,,,"",""
+ball,1,7.5,India,SV Samson,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,7.6,India,RD Gaikwad,SV Samson,CA Young,1,0,,,,,,"",""
+ball,1,8.1,India,RD Gaikwad,SV Samson,B White,1,0,,,,,,"",""
+ball,1,8.2,India,SV Samson,RD Gaikwad,B White,1,0,,,,,,"",""
+ball,1,8.3,India,RD Gaikwad,SV Samson,B White,1,0,,,,,,"",""
+ball,1,8.4,India,SV Samson,RD Gaikwad,B White,1,0,,,,,,"",""
+ball,1,8.5,India,RD Gaikwad,SV Samson,B White,0,0,,,,,,"",""
+ball,1,8.6,India,RD Gaikwad,SV Samson,B White,1,0,,,,,,"",""
+ball,1,9.1,India,RD Gaikwad,SV Samson,MR Adair,1,0,,,,,,"",""
+ball,1,9.2,India,SV Samson,RD Gaikwad,MR Adair,4,0,,,,,,"",""
+ball,1,9.3,India,SV Samson,RD Gaikwad,MR Adair,1,0,,,,,,"",""
+ball,1,9.4,India,RD Gaikwad,SV Samson,MR Adair,0,1,1,,,,,"",""
+ball,1,9.5,India,RD Gaikwad,SV Samson,MR Adair,1,0,,,,,,"",""
+ball,1,9.6,India,SV Samson,RD Gaikwad,MR Adair,1,0,,,,,,"",""
+ball,1,9.7,India,RD Gaikwad,SV Samson,MR Adair,0,0,,,,,,"",""
+ball,1,10.1,India,SV Samson,RD Gaikwad,J Little,4,0,,,,,,"",""
+ball,1,10.2,India,SV Samson,RD Gaikwad,J Little,4,0,,,,,,"",""
+ball,1,10.3,India,SV Samson,RD Gaikwad,J Little,4,0,,,,,,"",""
+ball,1,10.4,India,SV Samson,RD Gaikwad,J Little,0,0,,,,,,"",""
+ball,1,10.5,India,SV Samson,RD Gaikwad,J Little,6,0,,,,,,"",""
+ball,1,10.6,India,SV Samson,RD Gaikwad,J Little,0,0,,,,,,"",""
+ball,1,11.1,India,RD Gaikwad,SV Samson,CA Young,1,0,,,,,,"",""
+ball,1,11.2,India,SV Samson,RD Gaikwad,CA Young,0,0,,,,,,"",""
+ball,1,11.3,India,SV Samson,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,11.4,India,RD Gaikwad,SV Samson,CA Young,1,0,,,,,,"",""
+ball,1,11.5,India,SV Samson,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,11.6,India,RD Gaikwad,SV Samson,CA Young,1,0,,,,,,"",""
+ball,1,12.1,India,RD Gaikwad,SV Samson,B White,1,0,,,,,,"",""
+ball,1,12.2,India,SV Samson,RD Gaikwad,B White,0,0,,,,,,bowled,SV Samson
+ball,1,12.3,India,RK Singh,RD Gaikwad,B White,1,0,,,,,,"",""
+ball,1,12.4,India,RD Gaikwad,RK Singh,B White,1,0,,,,,,"",""
+ball,1,12.5,India,RK Singh,RD Gaikwad,B White,0,0,,,,,,"",""
+ball,1,12.6,India,RK Singh,RD Gaikwad,B White,1,0,,,,,,"",""
+ball,1,13.1,India,RK Singh,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,13.2,India,RD Gaikwad,RK Singh,CA Young,1,0,,,,,,"",""
+ball,1,13.3,India,RK Singh,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,13.4,India,RD Gaikwad,RK Singh,CA Young,1,0,,,,,,"",""
+ball,1,13.5,India,RK Singh,RD Gaikwad,CA Young,0,0,,,,,,"",""
+ball,1,13.6,India,RK Singh,RD Gaikwad,CA Young,1,0,,,,,,"",""
+ball,1,14.1,India,RK Singh,RD Gaikwad,B White,4,0,,,,,,"",""
+ball,1,14.2,India,RK Singh,RD Gaikwad,B White,1,0,,,,,,"",""
+ball,1,14.3,India,RD Gaikwad,RK Singh,B White,4,0,,,,,,"",""
+ball,1,14.4,India,RD Gaikwad,RK Singh,B White,0,0,,,,,,"",""
+ball,1,14.5,India,RD Gaikwad,RK Singh,B White,6,0,,,,,,"",""
+ball,1,14.6,India,RD Gaikwad,RK Singh,B White,1,0,,,,,,"",""
+ball,1,15.1,India,RD Gaikwad,RK Singh,BJ McCarthy,0,0,,,,,,caught,RD Gaikwad
+ball,1,15.2,India,S Dube,RK Singh,BJ McCarthy,0,0,,,,,,"",""
+ball,1,15.3,India,S Dube,RK Singh,BJ McCarthy,1,0,,,,,,"",""
+ball,1,15.4,India,RK Singh,S Dube,BJ McCarthy,1,0,,,,,,"",""
+ball,1,15.5,India,S Dube,RK Singh,BJ McCarthy,1,0,,,,,,"",""
+ball,1,15.6,India,RK Singh,S Dube,BJ McCarthy,0,0,,,,,,"",""
+ball,1,16.1,India,S Dube,RK Singh,J Little,1,0,,,,,,"",""
+ball,1,16.2,India,RK Singh,S Dube,J Little,1,0,,,,,,"",""
+ball,1,16.3,India,S Dube,RK Singh,J Little,0,1,,,,1,,"",""
+ball,1,16.4,India,RK Singh,S Dube,J Little,1,0,,,,,,"",""
+ball,1,16.5,India,S Dube,RK Singh,J Little,0,0,,,,,,"",""
+ball,1,16.6,India,S Dube,RK Singh,J Little,1,0,,,,,,"",""
+ball,1,17.1,India,S Dube,RK Singh,MR Adair,1,0,,,,,,"",""
+ball,1,17.2,India,RK Singh,S Dube,MR Adair,1,0,,,,,,"",""
+ball,1,17.3,India,S Dube,RK Singh,MR Adair,0,1,1,,,,,"",""
+ball,1,17.4,India,S Dube,RK Singh,MR Adair,0,0,,,,,,"",""
+ball,1,17.5,India,S Dube,RK Singh,MR Adair,1,0,,,,,,"",""
+ball,1,17.6,India,RK Singh,S Dube,MR Adair,1,0,,,,,,"",""
+ball,1,17.7,India,S Dube,RK Singh,MR Adair,1,0,,,,,,"",""
+ball,1,18.1,India,S Dube,RK Singh,BJ McCarthy,0,1,1,,,,,"",""
+ball,1,18.2,India,S Dube,RK Singh,BJ McCarthy,1,0,,,,,,"",""
+ball,1,18.3,India,RK Singh,S Dube,BJ McCarthy,4,0,,,,,,"",""
+ball,1,18.4,India,RK Singh,S Dube,BJ McCarthy,6,0,,,,,,"",""
+ball,1,18.5,India,RK Singh,S Dube,BJ McCarthy,0,1,1,,,,,"",""
+ball,1,18.6,India,RK Singh,S Dube,BJ McCarthy,0,1,1,,,,,"",""
+ball,1,18.7,India,RK Singh,S Dube,BJ McCarthy,6,0,,,,,,"",""
+ball,1,18.8,India,RK Singh,S Dube,BJ McCarthy,1,0,,,,,,"",""
+ball,1,18.9,India,S Dube,RK Singh,BJ McCarthy,1,0,,,,,,"",""
+ball,1,19.1,India,S Dube,RK Singh,MR Adair,6,0,,,,,,"",""
+ball,1,19.2,India,S Dube,RK Singh,MR Adair,6,0,,,,,,"",""
+ball,1,19.3,India,S Dube,RK Singh,MR Adair,1,0,,,,,,"",""
+ball,1,19.4,India,RK Singh,S Dube,MR Adair,6,0,,,,,,"",""
+ball,1,19.5,India,RK Singh,S Dube,MR Adair,0,0,,,,,,caught,RK Singh
+ball,1,19.6,India,Washington Sundar,S Dube,MR Adair,0,1,,,1,,,"",""
+ball,2,0.1,Ireland,A Balbirnie,PR Stirling,JJ Bumrah,0,0,,,,,,"",""
+ball,2,0.2,Ireland,A Balbirnie,PR Stirling,JJ Bumrah,0,0,,,,,,"",""
+ball,2,0.3,Ireland,A Balbirnie,PR Stirling,JJ Bumrah,0,5,5,,,,,"",""
+ball,2,0.4,Ireland,A Balbirnie,PR Stirling,JJ Bumrah,0,0,,,,,,"",""
+ball,2,0.5,Ireland,A Balbirnie,PR Stirling,JJ Bumrah,0,0,,,,,,"",""
+ball,2,0.6,Ireland,A Balbirnie,PR Stirling,JJ Bumrah,0,0,,,,,,"",""
+ball,2,0.7,Ireland,A Balbirnie,PR Stirling,JJ Bumrah,3,0,,,,,,"",""
+ball,2,1.1,Ireland,A Balbirnie,PR Stirling,Arshdeep Singh,0,1,1,,,,,"",""
+ball,2,1.2,Ireland,A Balbirnie,PR Stirling,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.3,Ireland,A Balbirnie,PR Stirling,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.4,Ireland,A Balbirnie,PR Stirling,Arshdeep Singh,4,0,,,,,,"",""
+ball,2,1.5,Ireland,A Balbirnie,PR Stirling,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,1.6,Ireland,PR Stirling,A Balbirnie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,1.7,Ireland,PR Stirling,A Balbirnie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,2.1,Ireland,A Balbirnie,PR Stirling,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,2.2,Ireland,PR Stirling,A Balbirnie,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,2.3,Ireland,PR Stirling,A Balbirnie,M Prasidh Krishna,0,0,,,,,,caught,PR Stirling
+ball,2,2.4,Ireland,L Tucker,A Balbirnie,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,2.5,Ireland,L Tucker,A Balbirnie,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,2.6,Ireland,L Tucker,A Balbirnie,M Prasidh Krishna,0,0,,,,,,caught,L Tucker
+ball,2,3.1,Ireland,A Balbirnie,HT Tector,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.2,Ireland,A Balbirnie,HT Tector,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,3.3,Ireland,HT Tector,A Balbirnie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.4,Ireland,HT Tector,A Balbirnie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.5,Ireland,HT Tector,A Balbirnie,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,3.6,Ireland,HT Tector,A Balbirnie,Arshdeep Singh,2,0,,,,,,"",""
+ball,2,4.1,Ireland,A Balbirnie,HT Tector,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,4.2,Ireland,A Balbirnie,HT Tector,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,4.3,Ireland,A Balbirnie,HT Tector,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,4.4,Ireland,A Balbirnie,HT Tector,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,4.5,Ireland,HT Tector,A Balbirnie,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,4.6,Ireland,A Balbirnie,HT Tector,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,5.1,Ireland,HT Tector,A Balbirnie,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,5.2,Ireland,HT Tector,A Balbirnie,Ravi Bishnoi,0,0,,,,,,bowled,HT Tector
+ball,2,5.3,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,5.4,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,5.5,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,5.6,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,6.1,Ireland,C Campher,A Balbirnie,Washington Sundar,0,0,,,,,,"",""
+ball,2,6.2,Ireland,C Campher,A Balbirnie,Washington Sundar,1,0,,,,,,"",""
+ball,2,6.3,Ireland,A Balbirnie,C Campher,Washington Sundar,4,0,,,,,,"",""
+ball,2,6.4,Ireland,A Balbirnie,C Campher,Washington Sundar,4,0,,,,,,"",""
+ball,2,6.5,Ireland,A Balbirnie,C Campher,Washington Sundar,1,0,,,,,,"",""
+ball,2,6.6,Ireland,C Campher,A Balbirnie,Washington Sundar,1,0,,,,,,"",""
+ball,2,7.1,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,7.2,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,7.3,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.4,Ireland,A Balbirnie,C Campher,Ravi Bishnoi,0,2,2,,,,,"",""
+ball,2,7.5,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.6,Ireland,A Balbirnie,C Campher,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,7.7,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,6,0,,,,,,"",""
+ball,2,8.1,Ireland,A Balbirnie,C Campher,S Dube,2,0,,,,,,"",""
+ball,2,8.2,Ireland,A Balbirnie,C Campher,S Dube,0,0,,,,,,"",""
+ball,2,8.3,Ireland,A Balbirnie,C Campher,S Dube,0,0,,,,,,"",""
+ball,2,8.4,Ireland,A Balbirnie,C Campher,S Dube,1,0,,,,,,"",""
+ball,2,8.5,Ireland,C Campher,A Balbirnie,S Dube,1,0,,,,,,"",""
+ball,2,8.6,Ireland,A Balbirnie,C Campher,S Dube,0,0,,,,,,"",""
+ball,2,9.1,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.2,Ireland,A Balbirnie,C Campher,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.3,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,2,0,,,,,,"",""
+ball,2,9.4,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.5,Ireland,A Balbirnie,C Campher,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,9.6,Ireland,C Campher,A Balbirnie,Ravi Bishnoi,0,0,,,,,,caught,C Campher
+ball,2,10.1,Ireland,A Balbirnie,GH Dockrell,S Dube,1,0,,,,,,"",""
+ball,2,10.2,Ireland,GH Dockrell,A Balbirnie,S Dube,0,0,,,,,,"",""
+ball,2,10.3,Ireland,GH Dockrell,A Balbirnie,S Dube,1,0,,,,,,"",""
+ball,2,10.4,Ireland,A Balbirnie,GH Dockrell,S Dube,6,0,,,,,,"",""
+ball,2,10.5,Ireland,A Balbirnie,GH Dockrell,S Dube,0,0,,,,,,"",""
+ball,2,10.6,Ireland,A Balbirnie,GH Dockrell,S Dube,6,0,,,,,,"",""
+ball,2,11.1,Ireland,GH Dockrell,A Balbirnie,JJ Bumrah,0,1,,,1,,,"",""
+ball,2,11.2,Ireland,A Balbirnie,GH Dockrell,JJ Bumrah,1,0,,,,,,"",""
+ball,2,11.3,Ireland,GH Dockrell,A Balbirnie,JJ Bumrah,0,0,,,,,,"",""
+ball,2,11.4,Ireland,GH Dockrell,A Balbirnie,JJ Bumrah,1,0,,,,,,"",""
+ball,2,11.5,Ireland,A Balbirnie,GH Dockrell,JJ Bumrah,0,0,,,,,,"",""
+ball,2,11.6,Ireland,A Balbirnie,GH Dockrell,JJ Bumrah,1,0,,,,,,"",""
+ball,2,12.1,Ireland,A Balbirnie,GH Dockrell,Ravi Bishnoi,4,0,,,,,,"",""
+ball,2,12.2,Ireland,A Balbirnie,GH Dockrell,Ravi Bishnoi,0,0,,,,,,"",""
+ball,2,12.3,Ireland,A Balbirnie,GH Dockrell,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,12.4,Ireland,GH Dockrell,A Balbirnie,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,12.5,Ireland,A Balbirnie,GH Dockrell,Ravi Bishnoi,1,0,,,,,,"",""
+ball,2,12.6,Ireland,GH Dockrell,A Balbirnie,Ravi Bishnoi,6,0,,,,,,"",""
+ball,2,13.1,Ireland,A Balbirnie,GH Dockrell,Washington Sundar,0,0,,,,,,"",""
+ball,2,13.2,Ireland,A Balbirnie,GH Dockrell,Washington Sundar,2,0,,,,,,"",""
+ball,2,13.3,Ireland,A Balbirnie,GH Dockrell,Washington Sundar,1,0,,,,,,"",""
+ball,2,13.4,Ireland,GH Dockrell,A Balbirnie,Washington Sundar,1,0,,,,,,"",""
+ball,2,13.5,Ireland,A Balbirnie,GH Dockrell,Washington Sundar,0,1,1,,,,,"",""
+ball,2,13.6,Ireland,A Balbirnie,GH Dockrell,Washington Sundar,1,0,,,,,,"",""
+ball,2,13.7,Ireland,GH Dockrell,A Balbirnie,Washington Sundar,0,1,1,,,,,"",""
+ball,2,13.8,Ireland,GH Dockrell,A Balbirnie,Washington Sundar,1,0,,,,,,"",""
+ball,2,14.1,Ireland,GH Dockrell,A Balbirnie,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,14.2,Ireland,A Balbirnie,GH Dockrell,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,14.3,Ireland,GH Dockrell,A Balbirnie,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,14.4,Ireland,A Balbirnie,GH Dockrell,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,2,14.5,Ireland,A Balbirnie,GH Dockrell,M Prasidh Krishna,2,0,,,,,,"",""
+ball,2,14.6,Ireland,A Balbirnie,GH Dockrell,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,14.7,Ireland,A Balbirnie,GH Dockrell,M Prasidh Krishna,1,0,,,,,,run out,GH Dockrell
+ball,2,15.1,Ireland,A Balbirnie,MR Adair,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,15.2,Ireland,MR Adair,A Balbirnie,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,15.3,Ireland,A Balbirnie,MR Adair,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,15.4,Ireland,A Balbirnie,MR Adair,Arshdeep Singh,0,0,,,,,,caught,A Balbirnie
+ball,2,15.5,Ireland,BJ McCarthy,MR Adair,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,15.6,Ireland,BJ McCarthy,MR Adair,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,16.1,Ireland,BJ McCarthy,MR Adair,JJ Bumrah,1,0,,,,,,"",""
+ball,2,16.2,Ireland,MR Adair,BJ McCarthy,JJ Bumrah,0,0,,,,,,"",""
+ball,2,16.3,Ireland,MR Adair,BJ McCarthy,JJ Bumrah,1,0,,,,,,"",""
+ball,2,16.4,Ireland,BJ McCarthy,MR Adair,JJ Bumrah,0,0,,,,,,caught,BJ McCarthy
+ball,2,16.5,Ireland,CA Young,MR Adair,JJ Bumrah,1,0,,,,,,"",""
+ball,2,16.6,Ireland,MR Adair,CA Young,JJ Bumrah,1,0,,,,,,"",""
+ball,2,17.1,Ireland,MR Adair,CA Young,Arshdeep Singh,6,0,,,,,,"",""
+ball,2,17.2,Ireland,MR Adair,CA Young,Arshdeep Singh,1,0,,,,,,"",""
+ball,2,17.3,Ireland,CA Young,MR Adair,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.4,Ireland,CA Young,MR Adair,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.5,Ireland,CA Young,MR Adair,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,17.6,Ireland,CA Young,MR Adair,Arshdeep Singh,0,0,,,,,,"",""
+ball,2,18.1,Ireland,MR Adair,CA Young,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,18.2,Ireland,MR Adair,CA Young,M Prasidh Krishna,6,0,,,,,,"",""
+ball,2,18.3,Ireland,MR Adair,CA Young,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,18.4,Ireland,MR Adair,CA Young,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,18.5,Ireland,MR Adair,CA Young,M Prasidh Krishna,1,0,,,,,,"",""
+ball,2,18.6,Ireland,CA Young,MR Adair,M Prasidh Krishna,0,0,,,,,,"",""
+ball,2,19.1,Ireland,MR Adair,CA Young,JJ Bumrah,0,0,,,,,,"",""
+ball,2,19.2,Ireland,MR Adair,CA Young,JJ Bumrah,0,0,,,,,,"",""
+ball,2,19.3,Ireland,MR Adair,CA Young,JJ Bumrah,0,0,,,,,,"",""
+ball,2,19.4,Ireland,MR Adair,CA Young,JJ Bumrah,0,0,,,,,,caught,MR Adair
+ball,2,19.5,Ireland,J Little,CA Young,JJ Bumrah,0,0,,,,,,"",""
+ball,2,19.6,Ireland,J Little,CA Young,JJ Bumrah,0,4,,,4,,,"",""

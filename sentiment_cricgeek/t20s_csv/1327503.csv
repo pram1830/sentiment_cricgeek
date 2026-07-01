@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2022
+info,date,2022/09/20
+info,event,Australia tour of India
+info,match_number,1
+info,venue,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+info,city,Chandigarh
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,C Green
+info,umpire,J Madanagopal
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,Nitin Menon
+info,match_referee,J Srinath
+info,winner,Australia
+info,winner_wickets,4
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,AR Patel
+info,player,India,KD Karthik
+info,player,India,HV Patel
+info,player,India,B Kumar
+info,player,India,UT Yadav
+info,player,India,YS Chahal
+info,player,Australia,AJ Finch
+info,player,Australia,C Green
+info,player,Australia,SPD Smith
+info,player,Australia,GJ Maxwell
+info,player,Australia,JP Inglis
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,PJ Cummins
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Zampa,14f96089
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AR Patel,2e171977
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,C Green,eaa76d3c
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TH David,f1f99156
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,V Kohli,ba607b88
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,India,KL Rahul,RG Sharma,JR Hazlewood,1,0,,,,,,"",""
+ball,1,0.2,India,RG Sharma,KL Rahul,JR Hazlewood,0,0,,,,,,"",""
+ball,1,0.3,India,RG Sharma,KL Rahul,JR Hazlewood,1,0,,,,,,"",""
+ball,1,0.4,India,KL Rahul,RG Sharma,JR Hazlewood,0,0,,,,,,"",""
+ball,1,0.5,India,KL Rahul,RG Sharma,JR Hazlewood,2,0,,,,,,"",""
+ball,1,0.6,India,KL Rahul,RG Sharma,JR Hazlewood,0,0,,,,,,"",""
+ball,1,1.1,India,RG Sharma,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.2,India,RG Sharma,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.3,India,RG Sharma,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.4,India,RG Sharma,KL Rahul,PJ Cummins,6,0,,,,,,"",""
+ball,1,1.5,India,RG Sharma,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,1,1.6,India,RG Sharma,KL Rahul,PJ Cummins,4,0,,,,,,"",""
+ball,1,2.1,India,KL Rahul,RG Sharma,JR Hazlewood,6,0,,,,,,"",""
+ball,1,2.2,India,KL Rahul,RG Sharma,JR Hazlewood,0,0,,,,,,"",""
+ball,1,2.3,India,KL Rahul,RG Sharma,JR Hazlewood,1,0,,,,,,"",""
+ball,1,2.4,India,RG Sharma,KL Rahul,JR Hazlewood,0,0,,,,,,caught,RG Sharma
+ball,1,2.5,India,KL Rahul,V Kohli,JR Hazlewood,4,0,,,,,,"",""
+ball,1,2.6,India,KL Rahul,V Kohli,JR Hazlewood,0,0,,,,,,"",""
+ball,1,3.1,India,V Kohli,KL Rahul,A Zampa,0,0,,,,,,"",""
+ball,1,3.2,India,V Kohli,KL Rahul,A Zampa,0,0,,,,,,"",""
+ball,1,3.3,India,V Kohli,KL Rahul,A Zampa,0,0,,,,,,"",""
+ball,1,3.4,India,V Kohli,KL Rahul,A Zampa,1,0,,,,,,"",""
+ball,1,3.5,India,KL Rahul,V Kohli,A Zampa,0,0,,,,,,"",""
+ball,1,3.6,India,KL Rahul,V Kohli,A Zampa,4,0,,,,,,"",""
+ball,1,4.1,India,V Kohli,KL Rahul,NT Ellis,0,0,,,,,,"",""
+ball,1,4.2,India,V Kohli,KL Rahul,NT Ellis,0,1,1,,,,,"",""
+ball,1,4.3,India,V Kohli,KL Rahul,NT Ellis,1,0,,,,,,"",""
+ball,1,4.4,India,KL Rahul,V Kohli,NT Ellis,2,0,,,,,,"",""
+ball,1,4.5,India,KL Rahul,V Kohli,NT Ellis,1,0,,,,,,"",""
+ball,1,4.6,India,V Kohli,KL Rahul,NT Ellis,0,0,,,,,,caught,V Kohli
+ball,1,4.7,India,SA Yadav,KL Rahul,NT Ellis,0,0,,,,,,"",""
+ball,1,5.1,India,KL Rahul,SA Yadav,PJ Cummins,1,0,,,,,,"",""
+ball,1,5.2,India,SA Yadav,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,1,5.3,India,SA Yadav,KL Rahul,PJ Cummins,4,0,,,,,,"",""
+ball,1,5.4,India,SA Yadav,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,1,5.5,India,SA Yadav,KL Rahul,PJ Cummins,6,0,,,,,,"",""
+ball,1,5.6,India,SA Yadav,KL Rahul,PJ Cummins,0,0,,,,,,"",""
+ball,1,6.1,India,KL Rahul,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,6.2,India,SA Yadav,KL Rahul,A Zampa,1,0,,,,,,"",""
+ball,1,6.3,India,KL Rahul,SA Yadav,A Zampa,0,1,1,,,,,"",""
+ball,1,6.4,India,KL Rahul,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,6.5,India,SA Yadav,KL Rahul,A Zampa,4,0,,,,,,"",""
+ball,1,6.6,India,SA Yadav,KL Rahul,A Zampa,1,0,,,,,,"",""
+ball,1,6.7,India,KL Rahul,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,7.1,India,KL Rahul,SA Yadav,C Green,1,0,,,,,,"",""
+ball,1,7.2,India,SA Yadav,KL Rahul,C Green,1,0,,,,,,"",""
+ball,1,7.3,India,KL Rahul,SA Yadav,C Green,0,0,,,,,,"",""
+ball,1,7.4,India,KL Rahul,SA Yadav,C Green,6,0,,,,,,"",""
+ball,1,7.5,India,KL Rahul,SA Yadav,C Green,4,0,,,,,,"",""
+ball,1,7.6,India,KL Rahul,SA Yadav,C Green,1,0,,,,,,"",""
+ball,1,8.1,India,KL Rahul,SA Yadav,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.2,India,SA Yadav,KL Rahul,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.3,India,KL Rahul,SA Yadav,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.4,India,SA Yadav,KL Rahul,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.5,India,KL Rahul,SA Yadav,GJ Maxwell,0,0,,,,,,"",""
+ball,1,8.6,India,KL Rahul,SA Yadav,GJ Maxwell,6,0,,,,,,"",""
+ball,1,9.1,India,SA Yadav,KL Rahul,NT Ellis,1,0,,,,,,"",""
+ball,1,9.2,India,KL Rahul,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,1,9.3,India,SA Yadav,KL Rahul,NT Ellis,0,1,1,,,,,"",""
+ball,1,9.4,India,SA Yadav,KL Rahul,NT Ellis,2,0,,,,,,"",""
+ball,1,9.5,India,SA Yadav,KL Rahul,NT Ellis,0,0,,,,,,"",""
+ball,1,9.6,India,SA Yadav,KL Rahul,NT Ellis,1,0,,,,,,"",""
+ball,1,9.7,India,KL Rahul,SA Yadav,NT Ellis,1,0,,,,,,"",""
+ball,1,10.1,India,KL Rahul,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,10.2,India,SA Yadav,KL Rahul,A Zampa,1,0,,,,,,"",""
+ball,1,10.3,India,KL Rahul,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,10.4,India,SA Yadav,KL Rahul,A Zampa,1,0,,,,,,"",""
+ball,1,10.5,India,KL Rahul,SA Yadav,A Zampa,0,0,,,,,,"",""
+ball,1,10.6,India,KL Rahul,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,11.1,India,KL Rahul,SA Yadav,JR Hazlewood,1,0,,,,,,"",""
+ball,1,11.2,India,SA Yadav,KL Rahul,JR Hazlewood,6,0,,,,,,"",""
+ball,1,11.3,India,SA Yadav,KL Rahul,JR Hazlewood,1,0,,,,,,"",""
+ball,1,11.4,India,KL Rahul,SA Yadav,JR Hazlewood,4,0,,,,,,"",""
+ball,1,11.5,India,KL Rahul,SA Yadav,JR Hazlewood,0,0,,,,,,caught,KL Rahul
+ball,1,11.6,India,HH Pandya,SA Yadav,JR Hazlewood,0,0,,,,,,"",""
+ball,1,12.1,India,SA Yadav,HH Pandya,A Zampa,1,0,,,,,,"",""
+ball,1,12.2,India,HH Pandya,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,12.3,India,SA Yadav,HH Pandya,A Zampa,1,0,,,,,,"",""
+ball,1,12.4,India,HH Pandya,SA Yadav,A Zampa,1,0,,,,,,"",""
+ball,1,12.5,India,SA Yadav,HH Pandya,A Zampa,6,0,,,,,,"",""
+ball,1,12.6,India,SA Yadav,HH Pandya,A Zampa,6,0,,,,,,"",""
+ball,1,13.1,India,HH Pandya,SA Yadav,C Green,6,0,,,,,,"",""
+ball,1,13.2,India,HH Pandya,SA Yadav,C Green,1,0,,,,,,"",""
+ball,1,13.3,India,SA Yadav,HH Pandya,C Green,0,0,,,,,,caught,SA Yadav
+ball,1,13.4,India,AR Patel,HH Pandya,C Green,1,0,,,,,,"",""
+ball,1,13.5,India,HH Pandya,AR Patel,C Green,4,0,,,,,,"",""
+ball,1,13.6,India,HH Pandya,AR Patel,C Green,0,0,,,,,,"",""
+ball,1,14.1,India,AR Patel,HH Pandya,PJ Cummins,0,0,,,,,,"",""
+ball,1,14.2,India,AR Patel,HH Pandya,PJ Cummins,4,0,,,,,,"",""
+ball,1,14.3,India,AR Patel,HH Pandya,PJ Cummins,1,0,,,,,,"",""
+ball,1,14.4,India,HH Pandya,AR Patel,PJ Cummins,0,0,,,,,,"",""
+ball,1,14.5,India,HH Pandya,AR Patel,PJ Cummins,4,0,,,,,,"",""
+ball,1,14.6,India,HH Pandya,AR Patel,PJ Cummins,1,0,,,,,,"",""
+ball,1,15.1,India,HH Pandya,AR Patel,NT Ellis,4,0,,,,,,"",""
+ball,1,15.2,India,HH Pandya,AR Patel,NT Ellis,0,0,,,,,,"",""
+ball,1,15.3,India,HH Pandya,AR Patel,NT Ellis,0,0,,,,,,"",""
+ball,1,15.4,India,HH Pandya,AR Patel,NT Ellis,1,0,,,,,,"",""
+ball,1,15.5,India,AR Patel,HH Pandya,NT Ellis,0,0,,,,,,caught,AR Patel
+ball,1,15.6,India,KD Karthik,HH Pandya,NT Ellis,2,0,,,,,,"",""
+ball,1,16.1,India,HH Pandya,KD Karthik,JR Hazlewood,1,0,,,,,,"",""
+ball,1,16.2,India,KD Karthik,HH Pandya,JR Hazlewood,0,1,1,,,,,"",""
+ball,1,16.3,India,KD Karthik,HH Pandya,JR Hazlewood,1,0,,,,,,"",""
+ball,1,16.4,India,HH Pandya,KD Karthik,JR Hazlewood,4,0,,,,,,"",""
+ball,1,16.5,India,HH Pandya,KD Karthik,JR Hazlewood,0,0,,,,,,"",""
+ball,1,16.6,India,HH Pandya,KD Karthik,JR Hazlewood,4,0,,,,,,"",""
+ball,1,16.7,India,HH Pandya,KD Karthik,JR Hazlewood,1,0,,,,,,"",""
+ball,1,17.1,India,HH Pandya,KD Karthik,PJ Cummins,6,0,,,,,,"",""
+ball,1,17.2,India,HH Pandya,KD Karthik,PJ Cummins,1,0,,,,,,"",""
+ball,1,17.3,India,KD Karthik,HH Pandya,PJ Cummins,2,0,,,,,,"",""
+ball,1,17.4,India,KD Karthik,HH Pandya,PJ Cummins,1,0,,,,,,"",""
+ball,1,17.5,India,HH Pandya,KD Karthik,PJ Cummins,4,0,,,,,,"",""
+ball,1,17.6,India,HH Pandya,KD Karthik,PJ Cummins,2,0,,,,,,"",""
+ball,1,18.1,India,KD Karthik,HH Pandya,NT Ellis,0,0,,,,,,lbw,KD Karthik
+ball,1,18.2,India,HV Patel,HH Pandya,NT Ellis,4,0,,,,,,"",""
+ball,1,18.3,India,HV Patel,HH Pandya,NT Ellis,1,0,,,,,,"",""
+ball,1,18.4,India,HH Pandya,HV Patel,NT Ellis,1,0,,,,,,"",""
+ball,1,18.5,India,HV Patel,HH Pandya,NT Ellis,1,0,,,,,,"",""
+ball,1,18.6,India,HH Pandya,HV Patel,NT Ellis,4,0,,,,,,"",""
+ball,1,19.1,India,HV Patel,HH Pandya,C Green,1,0,,,,,,"",""
+ball,1,19.2,India,HH Pandya,HV Patel,C Green,0,0,,,,,,"",""
+ball,1,19.3,India,HH Pandya,HV Patel,C Green,2,0,,,,,,"",""
+ball,1,19.4,India,HH Pandya,HV Patel,C Green,6,0,,,,,,"",""
+ball,1,19.5,India,HH Pandya,HV Patel,C Green,6,0,,,,,,"",""
+ball,1,19.6,India,HH Pandya,HV Patel,C Green,6,0,,,,,,"",""
+ball,2,0.1,Australia,AJ Finch,C Green,B Kumar,6,0,,,,,,"",""
+ball,2,0.2,Australia,AJ Finch,C Green,B Kumar,0,0,,,,,,"",""
+ball,2,0.3,Australia,AJ Finch,C Green,B Kumar,0,0,,,,,,"",""
+ball,2,0.4,Australia,AJ Finch,C Green,B Kumar,0,0,,,,,,"",""
+ball,2,0.5,Australia,AJ Finch,C Green,B Kumar,2,0,,,,,,"",""
+ball,2,0.6,Australia,AJ Finch,C Green,B Kumar,0,0,,,,,,"",""
+ball,2,1.1,Australia,C Green,AJ Finch,UT Yadav,4,0,,,,,,"",""
+ball,2,1.2,Australia,C Green,AJ Finch,UT Yadav,4,0,,,,,,"",""
+ball,2,1.3,Australia,C Green,AJ Finch,UT Yadav,4,0,,,,,,"",""
+ball,2,1.4,Australia,C Green,AJ Finch,UT Yadav,4,0,,,,,,"",""
+ball,2,1.5,Australia,C Green,AJ Finch,UT Yadav,0,0,,,,,,"",""
+ball,2,1.6,Australia,C Green,AJ Finch,UT Yadav,0,0,,,,,,"",""
+ball,2,2.1,Australia,AJ Finch,C Green,B Kumar,2,0,,,,,,"",""
+ball,2,2.2,Australia,AJ Finch,C Green,B Kumar,0,0,,,,,,"",""
+ball,2,2.3,Australia,AJ Finch,C Green,B Kumar,4,0,,,,,,"",""
+ball,2,2.4,Australia,AJ Finch,C Green,B Kumar,4,0,,,,,,"",""
+ball,2,2.5,Australia,AJ Finch,C Green,B Kumar,0,0,,,,,,"",""
+ball,2,2.6,Australia,AJ Finch,C Green,B Kumar,4,0,,,,,,"",""
+ball,2,3.1,Australia,C Green,AJ Finch,AR Patel,0,0,,,,,,"",""
+ball,2,3.2,Australia,C Green,AJ Finch,AR Patel,1,0,,,,,,"",""
+ball,2,3.3,Australia,AJ Finch,C Green,AR Patel,0,0,,,,,,bowled,AJ Finch
+ball,2,3.4,Australia,SPD Smith,C Green,AR Patel,0,0,,,,,,"",""
+ball,2,3.5,Australia,SPD Smith,C Green,AR Patel,1,0,,,,,,"",""
+ball,2,3.6,Australia,C Green,SPD Smith,AR Patel,0,0,,,,,,"",""
+ball,2,4.1,Australia,SPD Smith,C Green,YS Chahal,1,0,,,,,,"",""
+ball,2,4.2,Australia,C Green,SPD Smith,YS Chahal,0,0,,,,,,"",""
+ball,2,4.3,Australia,C Green,SPD Smith,YS Chahal,0,0,,,,,,"",""
+ball,2,4.4,Australia,C Green,SPD Smith,YS Chahal,1,0,,,,,,"",""
+ball,2,4.5,Australia,SPD Smith,C Green,YS Chahal,0,1,1,,,,,"",""
+ball,2,4.6,Australia,SPD Smith,C Green,YS Chahal,1,0,,,,,,"",""
+ball,2,4.7,Australia,C Green,SPD Smith,YS Chahal,4,0,,,,,,"",""
+ball,2,5.1,Australia,SPD Smith,C Green,HV Patel,1,0,,,,,,"",""
+ball,2,5.2,Australia,C Green,SPD Smith,HV Patel,0,1,,,,1,,"",""
+ball,2,5.3,Australia,SPD Smith,C Green,HV Patel,4,0,,,,,,"",""
+ball,2,5.4,Australia,SPD Smith,C Green,HV Patel,0,0,,,,,,"",""
+ball,2,5.5,Australia,SPD Smith,C Green,HV Patel,0,1,1,,,,,"",""
+ball,2,5.6,Australia,SPD Smith,C Green,HV Patel,1,0,,,,,,"",""
+ball,2,5.7,Australia,C Green,SPD Smith,HV Patel,4,0,,,,,,"",""
+ball,2,6.1,Australia,SPD Smith,C Green,YS Chahal,2,0,,,,,,"",""
+ball,2,6.2,Australia,SPD Smith,C Green,YS Chahal,1,0,,,,,,"",""
+ball,2,6.3,Australia,C Green,SPD Smith,YS Chahal,6,0,,,,,,"",""
+ball,2,6.4,Australia,C Green,SPD Smith,YS Chahal,0,0,,,,,,"",""
+ball,2,6.5,Australia,C Green,SPD Smith,YS Chahal,6,0,,,,,,"",""
+ball,2,6.6,Australia,C Green,SPD Smith,YS Chahal,4,0,,,,,,"",""
+ball,2,7.1,Australia,SPD Smith,C Green,HH Pandya,4,0,,,,,,"",""
+ball,2,7.2,Australia,SPD Smith,C Green,HH Pandya,1,0,,,,,,"",""
+ball,2,7.3,Australia,C Green,SPD Smith,HH Pandya,1,0,,,,,,"",""
+ball,2,7.4,Australia,SPD Smith,C Green,HH Pandya,1,0,,,,,,"",""
+ball,2,7.5,Australia,C Green,SPD Smith,HH Pandya,4,0,,,,,,"",""
+ball,2,7.6,Australia,C Green,SPD Smith,HH Pandya,0,0,,,,,,"",""
+ball,2,8.1,Australia,SPD Smith,C Green,AR Patel,1,0,,,,,,"",""
+ball,2,8.2,Australia,C Green,SPD Smith,AR Patel,0,0,,,,,,"",""
+ball,2,8.3,Australia,C Green,SPD Smith,AR Patel,0,0,,,,,,"",""
+ball,2,8.4,Australia,C Green,SPD Smith,AR Patel,1,0,,,,,,"",""
+ball,2,8.5,Australia,SPD Smith,C Green,AR Patel,1,0,,,,,,"",""
+ball,2,8.6,Australia,C Green,SPD Smith,AR Patel,6,0,,,,,,"",""
+ball,2,9.1,Australia,SPD Smith,C Green,HV Patel,0,0,,,,,,"",""
+ball,2,9.2,Australia,SPD Smith,C Green,HV Patel,1,0,,,,,,"",""
+ball,2,9.3,Australia,C Green,SPD Smith,HV Patel,0,0,,,,,,"",""
+ball,2,9.4,Australia,C Green,SPD Smith,HV Patel,6,0,,,,,,"",""
+ball,2,9.5,Australia,C Green,SPD Smith,HV Patel,1,0,,,,,,"",""
+ball,2,9.6,Australia,SPD Smith,C Green,HV Patel,2,0,,,,,,"",""
+ball,2,10.1,Australia,C Green,SPD Smith,AR Patel,0,0,,,,,,caught,C Green
+ball,2,10.2,Australia,SPD Smith,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,2,10.3,Australia,GJ Maxwell,SPD Smith,AR Patel,0,0,,,,,,"",""
+ball,2,10.4,Australia,GJ Maxwell,SPD Smith,AR Patel,1,0,,,,,,"",""
+ball,2,10.5,Australia,SPD Smith,GJ Maxwell,AR Patel,0,0,,,,,,"",""
+ball,2,10.6,Australia,SPD Smith,GJ Maxwell,AR Patel,1,0,,,,,,"",""
+ball,2,11.1,Australia,SPD Smith,GJ Maxwell,UT Yadav,6,0,,,,,,"",""
+ball,2,11.2,Australia,SPD Smith,GJ Maxwell,UT Yadav,4,0,,,,,,"",""
+ball,2,11.3,Australia,SPD Smith,GJ Maxwell,UT Yadav,0,0,,,,,,caught,SPD Smith
+ball,2,11.4,Australia,JP Inglis,GJ Maxwell,UT Yadav,0,0,,,,,,"",""
+ball,2,11.5,Australia,JP Inglis,GJ Maxwell,UT Yadav,1,0,,,,,,"",""
+ball,2,11.6,Australia,GJ Maxwell,JP Inglis,UT Yadav,0,0,,,,,,caught,GJ Maxwell
+ball,2,12.1,Australia,JP Inglis,TH David,YS Chahal,1,0,,,,,,"",""
+ball,2,12.2,Australia,TH David,JP Inglis,YS Chahal,0,0,,,,,,"",""
+ball,2,12.3,Australia,TH David,JP Inglis,YS Chahal,1,0,,,,,,"",""
+ball,2,12.4,Australia,JP Inglis,TH David,YS Chahal,4,0,,,,,,"",""
+ball,2,12.5,Australia,JP Inglis,TH David,YS Chahal,4,0,,,,,,"",""
+ball,2,12.6,Australia,JP Inglis,TH David,YS Chahal,1,0,,,,,,"",""
+ball,2,13.1,Australia,JP Inglis,TH David,HH Pandya,1,0,,,,,,"",""
+ball,2,13.2,Australia,TH David,JP Inglis,HH Pandya,4,0,,,,,,"",""
+ball,2,13.3,Australia,TH David,JP Inglis,HH Pandya,0,0,,,,,,"",""
+ball,2,13.4,Australia,TH David,JP Inglis,HH Pandya,1,0,,,,,,"",""
+ball,2,13.5,Australia,JP Inglis,TH David,HH Pandya,4,0,,,,,,"",""
+ball,2,13.6,Australia,JP Inglis,TH David,HH Pandya,1,0,,,,,,"",""
+ball,2,14.1,Australia,JP Inglis,TH David,AR Patel,0,0,,,,,,bowled,JP Inglis
+ball,2,14.2,Australia,MS Wade,TH David,AR Patel,1,0,,,,,,"",""
+ball,2,14.3,Australia,TH David,MS Wade,AR Patel,1,0,,,,,,"",""
+ball,2,14.4,Australia,MS Wade,TH David,AR Patel,0,0,,,,,,"",""
+ball,2,14.5,Australia,MS Wade,TH David,AR Patel,0,0,,,,,,"",""
+ball,2,14.6,Australia,MS Wade,TH David,AR Patel,1,0,,,,,,"",""
+ball,2,15.1,Australia,MS Wade,TH David,HV Patel,0,0,,,,,,"",""
+ball,2,15.2,Australia,MS Wade,TH David,HV Patel,0,0,,,,,,"",""
+ball,2,15.3,Australia,MS Wade,TH David,HV Patel,4,0,,,,,,"",""
+ball,2,15.4,Australia,MS Wade,TH David,HV Patel,0,0,,,,,,"",""
+ball,2,15.5,Australia,MS Wade,TH David,HV Patel,1,0,,,,,,"",""
+ball,2,15.6,Australia,TH David,MS Wade,HV Patel,1,0,,,,,,"",""
+ball,2,16.1,Australia,TH David,MS Wade,B Kumar,0,1,1,,,,,"",""
+ball,2,16.2,Australia,TH David,MS Wade,B Kumar,0,1,1,,,,,"",""
+ball,2,16.3,Australia,TH David,MS Wade,B Kumar,1,0,,,,,,"",""
+ball,2,16.4,Australia,MS Wade,TH David,B Kumar,4,0,,,,,,"",""
+ball,2,16.5,Australia,MS Wade,TH David,B Kumar,1,0,,,,,,"",""
+ball,2,16.6,Australia,TH David,MS Wade,B Kumar,1,0,,,,,,"",""
+ball,2,16.7,Australia,MS Wade,TH David,B Kumar,4,0,,,,,,"",""
+ball,2,16.8,Australia,MS Wade,TH David,B Kumar,0,1,1,,,,,"",""
+ball,2,16.9,Australia,MS Wade,TH David,B Kumar,1,0,,,,,,"",""
+ball,2,17.1,Australia,MS Wade,TH David,HV Patel,6,0,,,,,,"",""
+ball,2,17.2,Australia,MS Wade,TH David,HV Patel,1,0,,,,,,"",""
+ball,2,17.3,Australia,TH David,MS Wade,HV Patel,6,0,,,,,,"",""
+ball,2,17.4,Australia,TH David,MS Wade,HV Patel,1,0,,,,,,"",""
+ball,2,17.5,Australia,MS Wade,TH David,HV Patel,6,0,,,,,,"",""
+ball,2,17.6,Australia,MS Wade,TH David,HV Patel,2,0,,,,,,"",""
+ball,2,18.1,Australia,TH David,MS Wade,B Kumar,0,1,1,,,,,"",""
+ball,2,18.2,Australia,TH David,MS Wade,B Kumar,1,0,,,,,,"",""
+ball,2,18.3,Australia,MS Wade,TH David,B Kumar,1,0,,,,,,"",""
+ball,2,18.4,Australia,TH David,MS Wade,B Kumar,0,1,,,,1,,"",""
+ball,2,18.5,Australia,MS Wade,TH David,B Kumar,4,0,,,,,,"",""
+ball,2,18.6,Australia,MS Wade,TH David,B Kumar,4,0,,,,,,"",""
+ball,2,18.7,Australia,MS Wade,TH David,B Kumar,4,0,,,,,,"",""
+ball,2,19.1,Australia,TH David,MS Wade,YS Chahal,0,0,,,,,,caught,TH David
+ball,2,19.2,Australia,PJ Cummins,MS Wade,YS Chahal,4,0,,,,,,"",""

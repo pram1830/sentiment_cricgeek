@@ -1,0 +1,160 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mongolia
+info,team,Hong Kong
+info,gender,female
+info,season,2024/25
+info,date,2024/11/09
+info,event,Women's T20I Quadrangular Series (in China)
+info,match_number,6
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Mongolia
+info,toss_decision,bat
+info,player_of_match,M Wai Siu
+info,umpire,Zheng Lili
+info,umpire,Z Lyu
+info,reserve_umpire,Aye Min Than
+info,tv_umpire,Sun Meng Yao
+info,match_referee,G Sankaranarayanan
+info,winner,Hong Kong
+info,winner_wickets,9
+info,player,Mongolia,G Anujin
+info,player,Mongolia,B Ichinkhorloo
+info,player,Mongolia,B Namuunzul
+info,player,Mongolia,T Ariuntsetseg
+info,player,Mongolia,O Erdenebaatar
+info,player,Mongolia,M Batnasan
+info,player,Mongolia,U Bayarjavkhlan
+info,player,Mongolia,M Enkhzul
+info,player,Mongolia,G Urjindulam
+info,player,Mongolia,O Amarjargal
+info,player,Mongolia,U Anujin
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Chan Sau Har
+info,player,Hong Kong,WK Lai
+info,player,Hong Kong,K Poon
+info,player,Hong Kong,M Wai Siu
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Chan Ka Man
+info,registry,people,Aye Min Than,37f3bba0
+info,registry,people,B Ichinkhorloo,3cc55f88
+info,registry,people,B Namuunzul,e14e70c0
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,Chan Sau Har,3c567308
+info,registry,people,G Anujin,e749f016
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,G Urjindulam,a51e7c73
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,K Poon,f25c0231
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Batnasan,0e01e881
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Enkhzul,5f45a88b
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,O Amarjargal,c054cf6f
+info,registry,people,O Erdenebaatar,f40bc7e3
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,T Ariuntsetseg,2f8c4e6e
+info,registry,people,U Anujin,0ba1c242
+info,registry,people,U Bayarjavkhlan,92c81a4f
+info,registry,people,WK Lai,6ab99b17
+info,registry,people,Y Daswani,2038a273
+info,registry,people,Z Lyu,5a058533
+info,registry,people,Zheng Lili,9c2bb7da
+ball,1,0.1,Mongolia,G Anujin,B Ichinkhorloo,M Wai Siu,0,1,1,,,,,"",""
+ball,1,0.2,Mongolia,G Anujin,B Ichinkhorloo,M Wai Siu,0,0,,,,,,"",""
+ball,1,0.3,Mongolia,G Anujin,B Ichinkhorloo,M Wai Siu,0,0,,,,,,bowled,G Anujin
+ball,1,0.4,Mongolia,B Namuunzul,B Ichinkhorloo,M Wai Siu,0,0,,,,,,"",""
+ball,1,0.5,Mongolia,B Namuunzul,B Ichinkhorloo,M Wai Siu,0,0,,,,,,"",""
+ball,1,0.6,Mongolia,B Namuunzul,B Ichinkhorloo,M Wai Siu,0,0,,,,,,"",""
+ball,1,0.7,Mongolia,B Namuunzul,B Ichinkhorloo,M Wai Siu,0,0,,,,,,"",""
+ball,1,1.1,Mongolia,B Ichinkhorloo,B Namuunzul,Chan Ka Man,0,0,,,,,,"",""
+ball,1,1.2,Mongolia,B Ichinkhorloo,B Namuunzul,Chan Ka Man,0,0,,,,,,"",""
+ball,1,1.3,Mongolia,B Ichinkhorloo,B Namuunzul,Chan Ka Man,0,0,,,,,,"",""
+ball,1,1.4,Mongolia,B Ichinkhorloo,B Namuunzul,Chan Ka Man,0,0,,,,,,"",""
+ball,1,1.5,Mongolia,B Ichinkhorloo,B Namuunzul,Chan Ka Man,0,0,,,,,,run out,B Ichinkhorloo
+ball,1,1.6,Mongolia,T Ariuntsetseg,B Namuunzul,Chan Ka Man,0,0,,,,,,"",""
+ball,1,2.1,Mongolia,B Namuunzul,T Ariuntsetseg,M Wai Siu,0,0,,,,,,caught,B Namuunzul
+ball,1,2.2,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,2.3,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,2.4,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,2.5,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,2.6,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,3.1,Mongolia,T Ariuntsetseg,O Erdenebaatar,Chan Ka Man,0,0,,,,,,"",""
+ball,1,3.2,Mongolia,T Ariuntsetseg,O Erdenebaatar,Chan Ka Man,0,0,,,,,,"",""
+ball,1,3.3,Mongolia,T Ariuntsetseg,O Erdenebaatar,Chan Ka Man,0,0,,,,,,"",""
+ball,1,3.4,Mongolia,T Ariuntsetseg,O Erdenebaatar,Chan Ka Man,0,0,,,,,,"",""
+ball,1,3.5,Mongolia,T Ariuntsetseg,O Erdenebaatar,Chan Ka Man,0,0,,,,,,"",""
+ball,1,3.6,Mongolia,T Ariuntsetseg,O Erdenebaatar,Chan Ka Man,0,0,,,,,,"",""
+ball,1,4.1,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,4.2,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,1,0,,,,,,"",""
+ball,1,4.3,Mongolia,T Ariuntsetseg,O Erdenebaatar,M Wai Siu,1,0,,,,,,"",""
+ball,1,4.4,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,4.5,Mongolia,O Erdenebaatar,T Ariuntsetseg,M Wai Siu,0,0,,,,,,bowled,O Erdenebaatar
+ball,1,4.6,Mongolia,M Batnasan,T Ariuntsetseg,M Wai Siu,0,0,,,,,,bowled,M Batnasan
+ball,1,5.1,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,Chan Ka Man,0,0,,,,,,"",""
+ball,1,5.2,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,Chan Ka Man,1,0,,,,,,"",""
+ball,1,5.3,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,Chan Ka Man,0,0,,,,,,"",""
+ball,1,5.4,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,Chan Ka Man,0,0,,,,,,"",""
+ball,1,5.5,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,Chan Ka Man,0,0,,,,,,"",""
+ball,1,5.6,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,Chan Ka Man,0,0,,,,,,"",""
+ball,1,6.1,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,M Wai Siu,1,0,,,,,,"",""
+ball,1,6.2,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,6.3,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,6.4,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,6.5,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,6.6,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,M Wai Siu,0,0,,,,,,"",""
+ball,1,7.1,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,0,0,,,,,,"",""
+ball,1,7.2,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,0,0,,,,,,"",""
+ball,1,7.3,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,0,0,,,,,,"",""
+ball,1,7.4,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,0,0,,,,,,"",""
+ball,1,7.5,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,4,0,,,,,,"",""
+ball,1,7.6,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,0,0,,,,,,"",""
+ball,1,8.1,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,WK Lai,0,0,,,,,,"",""
+ball,1,8.2,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,WK Lai,1,0,,,,,,"",""
+ball,1,8.3,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,WK Lai,0,0,,,,,,"",""
+ball,1,8.4,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,WK Lai,1,0,,,,,,"",""
+ball,1,8.5,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,WK Lai,0,0,,,,,,"",""
+ball,1,8.6,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,WK Lai,0,0,,,,,,"",""
+ball,1,9.1,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,0,0,,,,,,"",""
+ball,1,9.2,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,1,0,,,,,,"",""
+ball,1,9.3,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,KY Chan,0,0,,,,,,"",""
+ball,1,9.4,Mongolia,U Bayarjavkhlan,T Ariuntsetseg,KY Chan,1,0,,,,,,"",""
+ball,1,9.5,Mongolia,T Ariuntsetseg,U Bayarjavkhlan,KY Chan,0,0,,,,,,run out,T Ariuntsetseg
+ball,1,9.6,Mongolia,U Bayarjavkhlan,M Enkhzul,KY Chan,0,0,,,,,,"",""
+ball,1,10.1,Mongolia,M Enkhzul,U Bayarjavkhlan,WK Lai,0,0,,,,,,stumped,M Enkhzul
+ball,1,10.2,Mongolia,G Urjindulam,U Bayarjavkhlan,WK Lai,1,0,,,,,,"",""
+ball,1,10.3,Mongolia,U Bayarjavkhlan,G Urjindulam,WK Lai,0,0,,,,,,"",""
+ball,1,10.4,Mongolia,U Bayarjavkhlan,G Urjindulam,WK Lai,0,0,,,,,,"",""
+ball,1,10.5,Mongolia,U Bayarjavkhlan,G Urjindulam,WK Lai,0,0,,,,,,"",""
+ball,1,10.6,Mongolia,U Bayarjavkhlan,G Urjindulam,WK Lai,0,0,,,,,,"",""
+ball,1,11.1,Mongolia,G Urjindulam,U Bayarjavkhlan,KY Chan,0,0,,,,,,"",""
+ball,1,11.2,Mongolia,G Urjindulam,U Bayarjavkhlan,KY Chan,1,0,,,,,,"",""
+ball,1,11.3,Mongolia,U Bayarjavkhlan,G Urjindulam,KY Chan,0,0,,,,,,lbw,U Bayarjavkhlan
+ball,1,11.4,Mongolia,O Amarjargal,G Urjindulam,KY Chan,0,0,,,,,,"",""
+ball,1,11.5,Mongolia,O Amarjargal,G Urjindulam,KY Chan,0,0,,,,,,bowled,O Amarjargal
+ball,1,11.6,Mongolia,U Anujin,G Urjindulam,KY Chan,0,0,,,,,,"",""
+ball,1,12.1,Mongolia,G Urjindulam,U Anujin,WK Lai,0,0,,,,,,"",""
+ball,1,12.2,Mongolia,G Urjindulam,U Anujin,WK Lai,0,0,,,,,,"",""
+ball,1,12.3,Mongolia,G Urjindulam,U Anujin,WK Lai,0,0,,,,,,"",""
+ball,1,12.4,Mongolia,G Urjindulam,U Anujin,WK Lai,4,0,,,,,,"",""
+ball,1,12.5,Mongolia,G Urjindulam,U Anujin,WK Lai,0,0,,,,,,lbw,G Urjindulam
+ball,2,0.1,Hong Kong,Shanzeen Shahzad,KY Chan,O Erdenebaatar,4,0,,,,,,"",""
+ball,2,0.2,Hong Kong,Shanzeen Shahzad,KY Chan,O Erdenebaatar,0,1,1,,,,,"",""
+ball,2,0.3,Hong Kong,Shanzeen Shahzad,KY Chan,O Erdenebaatar,0,3,3,,,,,"",""
+ball,2,0.4,Hong Kong,Shanzeen Shahzad,KY Chan,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,0.5,Hong Kong,Shanzeen Shahzad,KY Chan,O Erdenebaatar,0,2,2,,,,,"",""
+ball,2,0.6,Hong Kong,KY Chan,Shanzeen Shahzad,O Erdenebaatar,1,0,,,,,,"",""
+ball,2,0.7,Hong Kong,Shanzeen Shahzad,KY Chan,O Erdenebaatar,0,0,,,,,,lbw,Shanzeen Shahzad
+ball,2,0.8,Hong Kong,Y Daswani,KY Chan,O Erdenebaatar,4,0,,,,,,"",""
+ball,2,0.9,Hong Kong,Y Daswani,KY Chan,O Erdenebaatar,0,0,,,,,,"",""
+ball,2,1.1,Hong Kong,KY Chan,Y Daswani,O Amarjargal,0,0,,,,,,"",""
+ball,2,1.2,Hong Kong,KY Chan,Y Daswani,O Amarjargal,0,1,1,,,,,"",""
+ball,2,1.3,Hong Kong,KY Chan,Y Daswani,O Amarjargal,4,0,,,,,,"",""

@@ -1,0 +1,332 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Czech Republic
+info,team,Gibraltar
+info,gender,male
+info,season,2022
+info,date,2022/05/11
+info,event,Valletta Cup
+info,match_number,5
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Czech Republic
+info,toss_decision,bat
+info,player_of_match,S Davizi
+info,umpire,A Naudi
+info,umpire,SN Anand
+info,reserve_umpire,T Wheeler
+info,match_referee,J Grima
+info,winner,Czech Republic
+info,winner_runs,40
+info,player,Czech Republic,S Davizi
+info,player,Czech Republic,Dylan Steyn
+info,player,Czech Republic,V Jagannivasan
+info,player,Czech Republic,S Wickramasekara
+info,player,Czech Republic,A Ashokan
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,Ritik Tomar
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,S Sengupta
+info,player,Czech Republic,S Chaudhary
+info,player,Czech Republic,SJ Patel
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,M Gouws
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,M Whelan
+info,player,Gibraltar,N Advani
+info,player,Gibraltar,J Marples
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,R Cunningham
+info,player,Gibraltar,KJ Ferrary
+info,registry,people,A Ashokan,9244df4b
+info,registry,people,A Naudi,ba0ebe56
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,BA Pai,716bf559
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Dylan Steyn,ff2b190e
+info,registry,people,J Grima,4b9db9bf
+info,registry,people,J Marples,9d75aec7
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Ferrary,81898acc
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Gouws,018f6488
+info,registry,people,M Whelan,d613f046
+info,registry,people,N Advani,e4f6147b
+info,registry,people,R Cunningham,6779e840
+info,registry,people,Ritik Tomar,6de51a8e
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Chaudhary,24c1844e
+info,registry,people,S Davizi,5787be00
+info,registry,people,S Sengupta,da39f141
+info,registry,people,S Wickramasekara,a9a09cb8
+info,registry,people,SJ Patel,6a091f62
+info,registry,people,SN Anand,ab3d6059
+info,registry,people,Sazib Bhuiyan,e5464794
+info,registry,people,T Wheeler,f4d1ecae
+info,registry,people,V Jagannivasan,dfbea4b3
+ball,1,0.1,Czech Republic,S Davizi,Dylan Steyn,L Bruce,2,0,,,,,,"",""
+ball,1,0.2,Czech Republic,S Davizi,Dylan Steyn,L Bruce,0,0,,,,,,"",""
+ball,1,0.3,Czech Republic,S Davizi,Dylan Steyn,L Bruce,4,0,,,,,,"",""
+ball,1,0.4,Czech Republic,S Davizi,Dylan Steyn,L Bruce,4,0,,,,,,"",""
+ball,1,0.5,Czech Republic,S Davizi,Dylan Steyn,L Bruce,0,0,,,,,,"",""
+ball,1,0.6,Czech Republic,S Davizi,Dylan Steyn,L Bruce,1,0,,,,,,"",""
+ball,1,1.1,Czech Republic,S Davizi,Dylan Steyn,K Nestor,1,0,,,,,,"",""
+ball,1,1.2,Czech Republic,Dylan Steyn,S Davizi,K Nestor,4,0,,,,,,"",""
+ball,1,1.3,Czech Republic,Dylan Steyn,S Davizi,K Nestor,0,0,,,,,,"",""
+ball,1,1.4,Czech Republic,Dylan Steyn,S Davizi,K Nestor,0,1,1,,,,,"",""
+ball,1,1.5,Czech Republic,Dylan Steyn,S Davizi,K Nestor,1,0,,,,,,"",""
+ball,1,1.6,Czech Republic,S Davizi,Dylan Steyn,K Nestor,4,0,,,,,,"",""
+ball,1,1.7,Czech Republic,S Davizi,Dylan Steyn,K Nestor,0,1,1,,,,,"",""
+ball,1,1.8,Czech Republic,S Davizi,Dylan Steyn,K Nestor,0,0,,,,,,"",""
+ball,1,2.1,Czech Republic,Dylan Steyn,S Davizi,BA Pai,0,0,,,,,,"",""
+ball,1,2.2,Czech Republic,Dylan Steyn,S Davizi,BA Pai,0,0,,,,,,"",""
+ball,1,2.3,Czech Republic,Dylan Steyn,S Davizi,BA Pai,1,0,,,,,,"",""
+ball,1,2.4,Czech Republic,S Davizi,Dylan Steyn,BA Pai,0,0,,,,,,"",""
+ball,1,2.5,Czech Republic,S Davizi,Dylan Steyn,BA Pai,1,0,,,,,,"",""
+ball,1,2.6,Czech Republic,Dylan Steyn,S Davizi,BA Pai,1,0,,,,,,"",""
+ball,1,3.1,Czech Republic,Dylan Steyn,S Davizi,K Nestor,2,0,,,,,,"",""
+ball,1,3.2,Czech Republic,Dylan Steyn,S Davizi,K Nestor,0,0,,,,,,"",""
+ball,1,3.3,Czech Republic,Dylan Steyn,S Davizi,K Nestor,0,1,,,,1,,"",""
+ball,1,3.4,Czech Republic,S Davizi,Dylan Steyn,K Nestor,6,0,,,,,,"",""
+ball,1,3.5,Czech Republic,S Davizi,Dylan Steyn,K Nestor,0,2,,,,2,,"",""
+ball,1,3.6,Czech Republic,S Davizi,Dylan Steyn,K Nestor,0,0,,,,,,"",""
+ball,1,4.1,Czech Republic,Dylan Steyn,S Davizi,BA Pai,4,0,,,,,,"",""
+ball,1,4.2,Czech Republic,Dylan Steyn,S Davizi,BA Pai,1,0,,,,,,"",""
+ball,1,4.3,Czech Republic,S Davizi,Dylan Steyn,BA Pai,2,0,,,,,,"",""
+ball,1,4.4,Czech Republic,S Davizi,Dylan Steyn,BA Pai,0,0,,,,,,"",""
+ball,1,4.5,Czech Republic,S Davizi,Dylan Steyn,BA Pai,1,0,,,,,,"",""
+ball,1,4.6,Czech Republic,Dylan Steyn,S Davizi,BA Pai,1,0,,,,,,"",""
+ball,1,5.1,Czech Republic,Dylan Steyn,S Davizi,S Bodha,1,0,,,,,,"",""
+ball,1,5.2,Czech Republic,S Davizi,Dylan Steyn,S Bodha,4,0,,,,,,"",""
+ball,1,5.3,Czech Republic,S Davizi,Dylan Steyn,S Bodha,4,0,,,,,,"",""
+ball,1,5.4,Czech Republic,S Davizi,Dylan Steyn,S Bodha,4,0,,,,,,"",""
+ball,1,5.5,Czech Republic,S Davizi,Dylan Steyn,S Bodha,1,0,,,,,,"",""
+ball,1,5.6,Czech Republic,Dylan Steyn,S Davizi,S Bodha,1,0,,,,,,"",""
+ball,1,6.1,Czech Republic,Dylan Steyn,S Davizi,KJ Ferrary,0,1,,,,1,,"",""
+ball,1,6.2,Czech Republic,S Davizi,Dylan Steyn,KJ Ferrary,0,0,,,,,,"",""
+ball,1,6.3,Czech Republic,S Davizi,Dylan Steyn,KJ Ferrary,1,0,,,,,,run out,Dylan Steyn
+ball,1,6.4,Czech Republic,V Jagannivasan,S Davizi,KJ Ferrary,0,0,,,,,,"",""
+ball,1,6.5,Czech Republic,V Jagannivasan,S Davizi,KJ Ferrary,0,0,,,,,,"",""
+ball,1,6.6,Czech Republic,V Jagannivasan,S Davizi,KJ Ferrary,0,0,,,,,,caught and bowled,V Jagannivasan
+ball,1,7.1,Czech Republic,S Davizi,S Wickramasekara,M Whelan,1,0,,,,,,"",""
+ball,1,7.2,Czech Republic,S Wickramasekara,S Davizi,M Whelan,0,0,,,,,,"",""
+ball,1,7.3,Czech Republic,S Wickramasekara,S Davizi,M Whelan,0,0,,,,,,"",""
+ball,1,7.4,Czech Republic,S Wickramasekara,S Davizi,M Whelan,0,0,,,,,,"",""
+ball,1,7.5,Czech Republic,S Wickramasekara,S Davizi,M Whelan,0,0,,,,,,"",""
+ball,1,7.6,Czech Republic,S Wickramasekara,S Davizi,M Whelan,0,0,,,,,,caught,S Wickramasekara
+ball,1,8.1,Czech Republic,S Davizi,A Ashokan,KJ Ferrary,0,0,,,,,,"",""
+ball,1,8.2,Czech Republic,S Davizi,A Ashokan,KJ Ferrary,0,0,,,,,,"",""
+ball,1,8.3,Czech Republic,S Davizi,A Ashokan,KJ Ferrary,1,0,,,,,,"",""
+ball,1,8.4,Czech Republic,A Ashokan,S Davizi,KJ Ferrary,0,0,,,,,,"",""
+ball,1,8.5,Czech Republic,A Ashokan,S Davizi,KJ Ferrary,1,0,,,,,,"",""
+ball,1,8.6,Czech Republic,S Davizi,A Ashokan,KJ Ferrary,0,0,,,,,,"",""
+ball,1,9.1,Czech Republic,A Ashokan,S Davizi,M Whelan,1,0,,,,,,"",""
+ball,1,9.2,Czech Republic,S Davizi,A Ashokan,M Whelan,0,0,,,,,,"",""
+ball,1,9.3,Czech Republic,S Davizi,A Ashokan,M Whelan,2,0,,,,,,"",""
+ball,1,9.4,Czech Republic,S Davizi,A Ashokan,M Whelan,1,0,,,,,,"",""
+ball,1,9.5,Czech Republic,A Ashokan,S Davizi,M Whelan,1,0,,,,,,"",""
+ball,1,9.6,Czech Republic,S Davizi,A Ashokan,M Whelan,0,1,1,,,,,"",""
+ball,1,9.7,Czech Republic,S Davizi,A Ashokan,M Whelan,0,0,,,,,,"",""
+ball,1,10.1,Czech Republic,A Ashokan,S Davizi,KJ Ferrary,0,0,,,,,,"",""
+ball,1,10.2,Czech Republic,A Ashokan,S Davizi,KJ Ferrary,1,0,,,,,,"",""
+ball,1,10.3,Czech Republic,S Davizi,A Ashokan,KJ Ferrary,1,0,,,,,,"",""
+ball,1,10.4,Czech Republic,A Ashokan,S Davizi,KJ Ferrary,1,0,,,,,,"",""
+ball,1,10.5,Czech Republic,S Davizi,A Ashokan,KJ Ferrary,1,0,,,,,,"",""
+ball,1,10.6,Czech Republic,A Ashokan,S Davizi,KJ Ferrary,2,0,,,,,,"",""
+ball,1,11.1,Czech Republic,S Davizi,A Ashokan,M Whelan,2,0,,,,,,"",""
+ball,1,11.2,Czech Republic,S Davizi,A Ashokan,M Whelan,1,0,,,,,,"",""
+ball,1,11.3,Czech Republic,A Ashokan,S Davizi,M Whelan,0,0,,,,,,"",""
+ball,1,11.4,Czech Republic,A Ashokan,S Davizi,M Whelan,1,0,,,,,,"",""
+ball,1,11.5,Czech Republic,S Davizi,A Ashokan,M Whelan,4,0,,,,,,"",""
+ball,1,11.6,Czech Republic,S Davizi,A Ashokan,M Whelan,0,0,,,,,,"",""
+ball,1,12.1,Czech Republic,A Ashokan,S Davizi,L Bruce,1,0,,,,,,"",""
+ball,1,12.2,Czech Republic,S Davizi,A Ashokan,L Bruce,0,0,,,,,,"",""
+ball,1,12.3,Czech Republic,S Davizi,A Ashokan,L Bruce,0,0,,,,,,"",""
+ball,1,12.4,Czech Republic,S Davizi,A Ashokan,L Bruce,4,0,,,,,,"",""
+ball,1,12.5,Czech Republic,S Davizi,A Ashokan,L Bruce,6,0,,,,,,"",""
+ball,1,12.6,Czech Republic,S Davizi,A Ashokan,L Bruce,0,4,4,,,,,"",""
+ball,1,12.7,Czech Republic,A Ashokan,S Davizi,L Bruce,0,0,,,,,,"",""
+ball,1,13.1,Czech Republic,S Davizi,A Ashokan,M Whelan,0,0,,,,,,"",""
+ball,1,13.2,Czech Republic,S Davizi,A Ashokan,M Whelan,1,0,,,,,,"",""
+ball,1,13.3,Czech Republic,A Ashokan,S Davizi,M Whelan,6,0,,,,,,"",""
+ball,1,13.4,Czech Republic,A Ashokan,S Davizi,M Whelan,0,0,,,,,,"",""
+ball,1,13.5,Czech Republic,A Ashokan,S Davizi,M Whelan,2,0,,,,,,"",""
+ball,1,13.6,Czech Republic,A Ashokan,S Davizi,M Whelan,0,0,,,,,,"",""
+ball,1,14.1,Czech Republic,S Davizi,A Ashokan,N Advani,0,1,1,,,,,"",""
+ball,1,14.2,Czech Republic,S Davizi,A Ashokan,N Advani,0,0,,,,,,"",""
+ball,1,14.3,Czech Republic,S Davizi,A Ashokan,N Advani,6,0,,,,,,"",""
+ball,1,14.4,Czech Republic,S Davizi,A Ashokan,N Advani,1,0,,,,,,"",""
+ball,1,14.5,Czech Republic,A Ashokan,S Davizi,N Advani,1,0,,,,,,"",""
+ball,1,14.6,Czech Republic,S Davizi,A Ashokan,N Advani,0,0,,,,,,"",""
+ball,1,14.7,Czech Republic,S Davizi,A Ashokan,N Advani,4,0,,,,,,"",""
+ball,1,15.1,Czech Republic,A Ashokan,S Davizi,BA Pai,1,0,,,,,,"",""
+ball,1,15.2,Czech Republic,S Davizi,A Ashokan,BA Pai,1,0,,,,,,"",""
+ball,1,15.3,Czech Republic,A Ashokan,S Davizi,BA Pai,0,0,,,,,,bowled,A Ashokan
+ball,1,15.4,Czech Republic,Sazib Bhuiyan,S Davizi,BA Pai,0,0,,,,,,"",""
+ball,1,15.5,Czech Republic,Sazib Bhuiyan,S Davizi,BA Pai,0,0,,,,,,"",""
+ball,1,15.6,Czech Republic,Sazib Bhuiyan,S Davizi,BA Pai,1,0,,,,,,"",""
+ball,1,16.1,Czech Republic,Sazib Bhuiyan,S Davizi,R Cunningham,0,0,,,,,,"",""
+ball,1,16.2,Czech Republic,Sazib Bhuiyan,S Davizi,R Cunningham,1,0,,,,,,"",""
+ball,1,16.3,Czech Republic,S Davizi,Sazib Bhuiyan,R Cunningham,0,1,1,,,,,"",""
+ball,1,16.4,Czech Republic,S Davizi,Sazib Bhuiyan,R Cunningham,1,0,,,,,,"",""
+ball,1,16.5,Czech Republic,Sazib Bhuiyan,S Davizi,R Cunningham,1,0,,,,,,"",""
+ball,1,16.6,Czech Republic,S Davizi,Sazib Bhuiyan,R Cunningham,1,0,,,,,,"",""
+ball,1,16.7,Czech Republic,Sazib Bhuiyan,S Davizi,R Cunningham,0,0,,,,,,bowled,Sazib Bhuiyan
+ball,1,17.1,Czech Republic,S Davizi,Ritik Tomar,BA Pai,4,0,,,,,,"",""
+ball,1,17.2,Czech Republic,S Davizi,Ritik Tomar,BA Pai,1,0,,,,,,"",""
+ball,1,17.3,Czech Republic,Ritik Tomar,S Davizi,BA Pai,0,0,,,,,,"",""
+ball,1,17.4,Czech Republic,Ritik Tomar,S Davizi,BA Pai,6,0,,,,,,"",""
+ball,1,17.5,Czech Republic,Ritik Tomar,S Davizi,BA Pai,2,0,,,,,,"",""
+ball,1,17.6,Czech Republic,Ritik Tomar,S Davizi,BA Pai,1,0,,,,,,"",""
+ball,1,18.1,Czech Republic,Ritik Tomar,S Davizi,R Cunningham,4,0,,,,,,"",""
+ball,1,18.2,Czech Republic,Ritik Tomar,S Davizi,R Cunningham,6,1,,1,,,,"",""
+ball,1,18.3,Czech Republic,Ritik Tomar,S Davizi,R Cunningham,0,1,1,,,,,"",""
+ball,1,18.4,Czech Republic,Ritik Tomar,S Davizi,R Cunningham,1,0,,,,,,"",""
+ball,1,18.5,Czech Republic,S Davizi,Ritik Tomar,R Cunningham,4,0,,,,,,"",""
+ball,1,18.6,Czech Republic,S Davizi,Ritik Tomar,R Cunningham,4,0,,,,,,"",""
+ball,1,18.7,Czech Republic,S Davizi,Ritik Tomar,R Cunningham,2,0,,,,,,"",""
+ball,1,18.8,Czech Republic,S Davizi,Ritik Tomar,R Cunningham,0,1,1,,,,,"",""
+ball,1,18.9,Czech Republic,S Davizi,Ritik Tomar,R Cunningham,0,1,1,,,,,"",""
+ball,1,18.10,Czech Republic,S Davizi,Ritik Tomar,R Cunningham,4,0,,,,,,"",""
+ball,1,19.1,Czech Republic,Ritik Tomar,S Davizi,S Bodha,6,0,,,,,,"",""
+ball,1,19.2,Czech Republic,Ritik Tomar,S Davizi,S Bodha,0,1,1,,,,,"",""
+ball,1,19.3,Czech Republic,Ritik Tomar,S Davizi,S Bodha,0,0,,,,,,"",""
+ball,1,19.4,Czech Republic,Ritik Tomar,S Davizi,S Bodha,1,0,,,,,,"",""
+ball,1,19.5,Czech Republic,S Davizi,Ritik Tomar,S Bodha,0,0,,,,,,"",""
+ball,1,19.6,Czech Republic,S Davizi,Ritik Tomar,S Bodha,0,0,,,,,,"",""
+ball,1,19.7,Czech Republic,S Davizi,Ritik Tomar,S Bodha,0,2,,,,2,,"",""
+ball,2,0.1,Gibraltar,BA Pai,M Gouws,S Chaudhary,1,0,,,,,,"",""
+ball,2,0.2,Gibraltar,M Gouws,BA Pai,S Chaudhary,1,0,,,,,,"",""
+ball,2,0.3,Gibraltar,BA Pai,M Gouws,S Chaudhary,4,0,,,,,,"",""
+ball,2,0.4,Gibraltar,BA Pai,M Gouws,S Chaudhary,0,1,1,,,,,"",""
+ball,2,0.5,Gibraltar,BA Pai,M Gouws,S Chaudhary,0,1,1,,,,,"",""
+ball,2,0.6,Gibraltar,BA Pai,M Gouws,S Chaudhary,0,0,,,,,,"",""
+ball,2,0.7,Gibraltar,BA Pai,M Gouws,S Chaudhary,0,0,,,,,,"",""
+ball,2,0.8,Gibraltar,BA Pai,M Gouws,S Chaudhary,1,0,,,,,,"",""
+ball,2,1.1,Gibraltar,BA Pai,M Gouws,S Sengupta,2,0,,,,,,"",""
+ball,2,1.2,Gibraltar,BA Pai,M Gouws,S Sengupta,2,0,,,,,,"",""
+ball,2,1.3,Gibraltar,BA Pai,M Gouws,S Sengupta,1,0,,,,,,"",""
+ball,2,1.4,Gibraltar,M Gouws,BA Pai,S Sengupta,0,1,1,,,,,"",""
+ball,2,1.5,Gibraltar,M Gouws,BA Pai,S Sengupta,0,0,,,,,,"",""
+ball,2,1.6,Gibraltar,M Gouws,BA Pai,S Sengupta,6,0,,,,,,"",""
+ball,2,1.7,Gibraltar,M Gouws,BA Pai,S Sengupta,2,0,,,,,,"",""
+ball,2,2.1,Gibraltar,BA Pai,M Gouws,S Chaudhary,1,0,,,,,,"",""
+ball,2,2.2,Gibraltar,M Gouws,BA Pai,S Chaudhary,0,1,1,,,,,"",""
+ball,2,2.3,Gibraltar,M Gouws,BA Pai,S Chaudhary,0,0,,,,,,"",""
+ball,2,2.4,Gibraltar,M Gouws,BA Pai,S Chaudhary,0,0,,,,,,"",""
+ball,2,2.5,Gibraltar,M Gouws,BA Pai,S Chaudhary,1,0,,,,,,"",""
+ball,2,2.6,Gibraltar,BA Pai,M Gouws,S Chaudhary,1,0,,,,,,"",""
+ball,2,2.7,Gibraltar,M Gouws,BA Pai,S Chaudhary,0,0,,,,,,caught,M Gouws
+ball,2,3.1,Gibraltar,BA Pai,L Bruce,S Sengupta,1,0,,,,,,"",""
+ball,2,3.2,Gibraltar,L Bruce,BA Pai,S Sengupta,0,0,,,,,,"",""
+ball,2,3.3,Gibraltar,L Bruce,BA Pai,S Sengupta,0,0,,,,,,"",""
+ball,2,3.4,Gibraltar,L Bruce,BA Pai,S Sengupta,0,0,,,,,,"",""
+ball,2,3.5,Gibraltar,L Bruce,BA Pai,S Sengupta,0,0,,,,,,caught,L Bruce
+ball,2,3.6,Gibraltar,K Nestor,BA Pai,S Sengupta,0,1,1,,,,,"",""
+ball,2,3.7,Gibraltar,K Nestor,BA Pai,S Sengupta,0,0,,,,,,"",""
+ball,2,4.1,Gibraltar,BA Pai,K Nestor,S Chaudhary,0,0,,,,,,"",""
+ball,2,4.2,Gibraltar,BA Pai,K Nestor,S Chaudhary,4,0,,,,,,"",""
+ball,2,4.3,Gibraltar,BA Pai,K Nestor,S Chaudhary,0,0,,,,,,"",""
+ball,2,4.4,Gibraltar,BA Pai,K Nestor,S Chaudhary,4,0,,,,,,"",""
+ball,2,4.5,Gibraltar,BA Pai,K Nestor,S Chaudhary,0,0,,,,,,bowled,BA Pai
+ball,2,4.6,Gibraltar,A Reyes,K Nestor,S Chaudhary,0,0,,,,,,"",""
+ball,2,5.1,Gibraltar,K Nestor,A Reyes,S Sengupta,0,1,,,,1,,"",""
+ball,2,5.2,Gibraltar,A Reyes,K Nestor,S Sengupta,0,1,1,,,,,"",""
+ball,2,5.3,Gibraltar,A Reyes,K Nestor,S Sengupta,1,0,,,,,,"",""
+ball,2,5.4,Gibraltar,K Nestor,A Reyes,S Sengupta,6,0,,,,,,"",""
+ball,2,5.5,Gibraltar,K Nestor,A Reyes,S Sengupta,4,0,,,,,,"",""
+ball,2,5.6,Gibraltar,K Nestor,A Reyes,S Sengupta,0,0,,,,,,"",""
+ball,2,5.7,Gibraltar,K Nestor,A Reyes,S Sengupta,4,0,,,,,,"",""
+ball,2,6.1,Gibraltar,A Reyes,K Nestor,Ritik Tomar,0,0,,,,,,"",""
+ball,2,6.2,Gibraltar,A Reyes,K Nestor,Ritik Tomar,0,0,,,,,,"",""
+ball,2,6.3,Gibraltar,A Reyes,K Nestor,Ritik Tomar,2,0,,,,,,"",""
+ball,2,6.4,Gibraltar,A Reyes,K Nestor,Ritik Tomar,0,1,1,,,,,"",""
+ball,2,6.5,Gibraltar,A Reyes,K Nestor,Ritik Tomar,0,0,,,,,,"",""
+ball,2,6.6,Gibraltar,A Reyes,K Nestor,Ritik Tomar,0,0,,,,,,"",""
+ball,2,6.7,Gibraltar,A Reyes,K Nestor,Ritik Tomar,1,0,,,,,,"",""
+ball,2,7.1,Gibraltar,A Reyes,K Nestor,S Wickramasekara,4,0,,,,,,"",""
+ball,2,7.2,Gibraltar,A Reyes,K Nestor,S Wickramasekara,0,0,,,,,,"",""
+ball,2,7.3,Gibraltar,A Reyes,K Nestor,S Wickramasekara,2,0,,,,,,"",""
+ball,2,7.4,Gibraltar,A Reyes,K Nestor,S Wickramasekara,0,0,,,,,,"",""
+ball,2,7.5,Gibraltar,A Reyes,K Nestor,S Wickramasekara,0,0,,,,,,"",""
+ball,2,7.6,Gibraltar,A Reyes,K Nestor,S Wickramasekara,0,0,,,,,,"",""
+ball,2,8.1,Gibraltar,K Nestor,A Reyes,Ritik Tomar,4,0,,,,,,"",""
+ball,2,8.2,Gibraltar,K Nestor,A Reyes,Ritik Tomar,0,0,,,,,,"",""
+ball,2,8.3,Gibraltar,K Nestor,A Reyes,Ritik Tomar,0,0,,,,,,"",""
+ball,2,8.4,Gibraltar,K Nestor,A Reyes,Ritik Tomar,1,0,,,,,,"",""
+ball,2,8.5,Gibraltar,A Reyes,K Nestor,Ritik Tomar,0,1,1,,,,,"",""
+ball,2,8.6,Gibraltar,A Reyes,K Nestor,Ritik Tomar,1,0,,,,,,"",""
+ball,2,8.7,Gibraltar,K Nestor,A Reyes,Ritik Tomar,0,0,,,,,,"",""
+ball,2,9.1,Gibraltar,A Reyes,K Nestor,S Wickramasekara,0,1,1,,,,,"",""
+ball,2,9.2,Gibraltar,A Reyes,K Nestor,S Wickramasekara,0,0,,,,,,"",""
+ball,2,9.3,Gibraltar,A Reyes,K Nestor,S Wickramasekara,0,0,,,,,,"",""
+ball,2,9.4,Gibraltar,A Reyes,K Nestor,S Wickramasekara,1,0,,,,,,"",""
+ball,2,9.5,Gibraltar,K Nestor,A Reyes,S Wickramasekara,0,0,,,,,,"",""
+ball,2,9.6,Gibraltar,K Nestor,A Reyes,S Wickramasekara,0,0,,,,,,"",""
+ball,2,9.7,Gibraltar,K Nestor,A Reyes,S Wickramasekara,0,0,,,,,,"",""
+ball,2,10.1,Gibraltar,A Reyes,K Nestor,A Ashokan,1,0,,,,,,"",""
+ball,2,10.2,Gibraltar,K Nestor,A Reyes,A Ashokan,1,0,,,,,,"",""
+ball,2,10.3,Gibraltar,A Reyes,K Nestor,A Ashokan,3,0,,,,,,"",""
+ball,2,10.4,Gibraltar,K Nestor,A Reyes,A Ashokan,0,1,1,,,,,"",""
+ball,2,10.5,Gibraltar,K Nestor,A Reyes,A Ashokan,6,0,,,,,,"",""
+ball,2,10.6,Gibraltar,K Nestor,A Reyes,A Ashokan,0,0,,,,,,"",""
+ball,2,10.7,Gibraltar,K Nestor,A Reyes,A Ashokan,0,0,,,,,,"",""
+ball,2,11.1,Gibraltar,A Reyes,K Nestor,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,11.2,Gibraltar,K Nestor,A Reyes,Sazib Bhuiyan,0,0,,,,,,"",""
+ball,2,11.3,Gibraltar,K Nestor,A Reyes,Sazib Bhuiyan,0,0,,,,,,caught,K Nestor
+ball,2,11.4,Gibraltar,M Whelan,A Reyes,Sazib Bhuiyan,2,0,,,,,,"",""
+ball,2,11.5,Gibraltar,M Whelan,A Reyes,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,11.6,Gibraltar,A Reyes,M Whelan,Sazib Bhuiyan,0,1,,,,1,,"",""
+ball,2,12.1,Gibraltar,A Reyes,M Whelan,A Ashokan,4,0,,,,,,"",""
+ball,2,12.2,Gibraltar,A Reyes,M Whelan,A Ashokan,0,0,,,,,,"",""
+ball,2,12.3,Gibraltar,A Reyes,M Whelan,A Ashokan,0,0,,,,,,"",""
+ball,2,12.4,Gibraltar,A Reyes,M Whelan,A Ashokan,4,0,,,,,,"",""
+ball,2,12.5,Gibraltar,A Reyes,M Whelan,A Ashokan,1,0,,,,,,"",""
+ball,2,12.6,Gibraltar,M Whelan,A Reyes,A Ashokan,0,0,,,,,,"",""
+ball,2,13.1,Gibraltar,A Reyes,M Whelan,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,13.2,Gibraltar,M Whelan,A Reyes,Sazib Bhuiyan,4,0,,,,,,"",""
+ball,2,13.3,Gibraltar,M Whelan,A Reyes,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,13.4,Gibraltar,A Reyes,M Whelan,Sazib Bhuiyan,0,0,,,,,,"",""
+ball,2,13.5,Gibraltar,A Reyes,M Whelan,Sazib Bhuiyan,0,1,1,,,,,"",""
+ball,2,13.6,Gibraltar,A Reyes,M Whelan,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,13.7,Gibraltar,M Whelan,A Reyes,Sazib Bhuiyan,0,0,,,,,,bowled,M Whelan
+ball,2,14.1,Gibraltar,A Reyes,N Advani,A Ashokan,0,0,,,,,,"",""
+ball,2,14.2,Gibraltar,A Reyes,N Advani,A Ashokan,4,0,,,,,,"",""
+ball,2,14.3,Gibraltar,A Reyes,N Advani,A Ashokan,0,0,,,,,,"",""
+ball,2,14.4,Gibraltar,A Reyes,N Advani,A Ashokan,1,0,,,,,,"",""
+ball,2,14.5,Gibraltar,N Advani,A Reyes,A Ashokan,0,0,,,,,,"",""
+ball,2,14.6,Gibraltar,N Advani,A Reyes,A Ashokan,0,0,,,,,,"",""
+ball,2,15.1,Gibraltar,A Reyes,N Advani,Sazib Bhuiyan,2,0,,,,,,"",""
+ball,2,15.2,Gibraltar,A Reyes,N Advani,Sazib Bhuiyan,2,0,,,,,,"",""
+ball,2,15.3,Gibraltar,A Reyes,N Advani,Sazib Bhuiyan,1,0,,,,,,run out,N Advani
+ball,2,15.4,Gibraltar,A Reyes,J Marples,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,15.5,Gibraltar,J Marples,A Reyes,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,15.6,Gibraltar,A Reyes,J Marples,Sazib Bhuiyan,1,0,,,,,,"",""
+ball,2,16.1,Gibraltar,A Reyes,J Marples,A Ashokan,4,0,,,,,,"",""
+ball,2,16.2,Gibraltar,A Reyes,J Marples,A Ashokan,0,0,,,,,,caught,A Reyes
+ball,2,16.3,Gibraltar,J Marples,S Bodha,A Ashokan,0,0,,,,,,stumped,J Marples
+ball,2,16.4,Gibraltar,R Cunningham,S Bodha,A Ashokan,0,0,,,,,,"",""
+ball,2,16.5,Gibraltar,R Cunningham,S Bodha,A Ashokan,1,0,,,,,,"",""
+ball,2,16.6,Gibraltar,S Bodha,R Cunningham,A Ashokan,0,1,1,,,,,"",""
+ball,2,16.7,Gibraltar,S Bodha,R Cunningham,A Ashokan,1,0,,,,,,"",""
+ball,2,17.1,Gibraltar,S Bodha,R Cunningham,SJ Patel,0,0,,,,,,"",""
+ball,2,17.2,Gibraltar,S Bodha,R Cunningham,SJ Patel,1,0,,,,,,"",""
+ball,2,17.3,Gibraltar,R Cunningham,S Bodha,SJ Patel,0,1,1,,,,,"",""
+ball,2,17.4,Gibraltar,R Cunningham,S Bodha,SJ Patel,2,0,,,,,,"",""
+ball,2,17.5,Gibraltar,R Cunningham,S Bodha,SJ Patel,2,0,,,,,,"",""
+ball,2,17.6,Gibraltar,R Cunningham,S Bodha,SJ Patel,0,0,,,,,,"",""
+ball,2,17.7,Gibraltar,R Cunningham,S Bodha,SJ Patel,0,0,,,,,,"",""
+ball,2,18.1,Gibraltar,S Bodha,R Cunningham,Ritik Tomar,0,0,,,,,,"",""
+ball,2,18.2,Gibraltar,S Bodha,R Cunningham,Ritik Tomar,2,0,,,,,,"",""
+ball,2,18.3,Gibraltar,S Bodha,R Cunningham,Ritik Tomar,0,0,,,,,,"",""
+ball,2,18.4,Gibraltar,S Bodha,R Cunningham,Ritik Tomar,0,0,,,,,,"",""
+ball,2,18.5,Gibraltar,S Bodha,R Cunningham,Ritik Tomar,2,0,,,,,,"",""
+ball,2,18.6,Gibraltar,S Bodha,R Cunningham,Ritik Tomar,1,0,,,,,,"",""
+ball,2,19.1,Gibraltar,S Bodha,R Cunningham,SJ Patel,1,0,,,,,,"",""
+ball,2,19.2,Gibraltar,R Cunningham,S Bodha,SJ Patel,1,0,,,,,,"",""
+ball,2,19.3,Gibraltar,S Bodha,R Cunningham,SJ Patel,1,0,,,,,,"",""
+ball,2,19.4,Gibraltar,R Cunningham,S Bodha,SJ Patel,0,0,,,,,,"",""
+ball,2,19.5,Gibraltar,R Cunningham,S Bodha,SJ Patel,1,0,,,,,,"",""
+ball,2,19.6,Gibraltar,S Bodha,R Cunningham,SJ Patel,2,0,,,,,,"",""

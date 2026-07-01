@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Israel
+info,team,Hungary
+info,gender,male
+info,season,2022
+info,date,2022/07/03
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,venue,"Royal Brussels Cricket Club Ground, Waterloo"
+info,city,Waterloo
+info,toss_winner,Hungary
+info,toss_decision,field
+info,umpire,Jonathan Kennedy
+info,umpire,Vinay Malhotra
+info,reserve_umpire,Adriaan van den Dries
+info,match_referee,Phil Whitticase
+info,winner,Israel
+info,winner_runs,12
+info,player,Israel,Yogev Nagavkar
+info,player,Israel,G Schachat
+info,player,Israel,E Solomon
+info,player,Israel,J Evans
+info,player,Israel,M Cohen
+info,player,Israel,E Kahamker
+info,player,Israel,E Samson
+info,player,Israel,Elan Talker
+info,player,Israel,Yair Nagavkar
+info,player,Israel,Niv Nagavkar
+info,player,Israel,T Kahamker
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,Abhijeet Ahuja
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,S Ashwathnarayana
+info,player,Hungary,AG Weligamage
+info,player,Hungary,HV Mandhyan
+info,player,Hungary,Ali Farasat
+info,player,Hungary,Ali Yalmaz
+info,player,Hungary,SA Mohandas
+info,player,Hungary,Akramullah Malikzada
+info,player,Hungary,BP Adapaka
+info,registry,people,AG Weligamage,747209e0
+info,registry,people,Abhijeet Ahuja,b91083bd
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,Akramullah Malikzada,dd3df124
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Ali Yalmaz,026e1314
+info,registry,people,BP Adapaka,e6082b10
+info,registry,people,E Kahamker,41acc8bf
+info,registry,people,E Samson,d11272c4
+info,registry,people,E Solomon,8da9a284
+info,registry,people,Elan Talker,bb939fa3
+info,registry,people,G Schachat,ff92e604
+info,registry,people,HV Mandhyan,11f56b14
+info,registry,people,J Evans,027662be
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,M Cohen,fc75bbba
+info,registry,people,Niv Nagavkar,e2abcf16
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,S Ashwathnarayana,8f8d30be
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,T Kahamker,125853c3
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Yair Nagavkar,138e30ab
+info,registry,people,Yogev Nagavkar,c85bea6b
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76
+ball,1,0.1,Israel,Yogev Nagavkar,G Schachat,SA Mohandas,0,0,,,,,,"",""
+ball,1,0.2,Israel,Yogev Nagavkar,G Schachat,SA Mohandas,0,0,,,,,,"",""
+ball,1,0.3,Israel,Yogev Nagavkar,G Schachat,SA Mohandas,0,0,,,,,,"",""
+ball,1,0.4,Israel,Yogev Nagavkar,G Schachat,SA Mohandas,0,0,,,,,,caught,Yogev Nagavkar
+ball,1,0.5,Israel,E Solomon,G Schachat,SA Mohandas,0,1,1,,,,,"",""
+ball,1,0.6,Israel,E Solomon,G Schachat,SA Mohandas,4,0,,,,,,"",""
+ball,1,0.7,Israel,E Solomon,G Schachat,SA Mohandas,2,0,,,,,,"",""
+ball,1,1.1,Israel,G Schachat,E Solomon,Ali Yalmaz,0,0,,,,,,"",""
+ball,1,1.2,Israel,G Schachat,E Solomon,Ali Yalmaz,0,0,,,,,,"",""
+ball,1,1.3,Israel,G Schachat,E Solomon,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,1.4,Israel,E Solomon,G Schachat,Ali Yalmaz,0,0,,,,,,"",""
+ball,1,1.5,Israel,E Solomon,G Schachat,Ali Yalmaz,0,0,,,,,,"",""
+ball,1,1.6,Israel,E Solomon,G Schachat,Ali Yalmaz,0,0,,,,,,"",""
+ball,1,2.1,Israel,G Schachat,E Solomon,SA Mohandas,0,0,,,,,,"",""
+ball,1,2.2,Israel,G Schachat,E Solomon,SA Mohandas,0,1,1,,,,,"",""
+ball,1,2.3,Israel,G Schachat,E Solomon,SA Mohandas,0,0,,,,,,"",""
+ball,1,2.4,Israel,G Schachat,E Solomon,SA Mohandas,1,0,,,,,,"",""
+ball,1,2.5,Israel,E Solomon,G Schachat,SA Mohandas,0,0,,,,,,"",""
+ball,1,2.6,Israel,E Solomon,G Schachat,SA Mohandas,1,0,,,,,,"",""
+ball,1,2.7,Israel,G Schachat,E Solomon,SA Mohandas,0,0,,,,,,"",""
+ball,1,3.1,Israel,E Solomon,G Schachat,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,3.2,Israel,G Schachat,E Solomon,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,3.3,Israel,E Solomon,G Schachat,Ali Yalmaz,4,0,,,,,,"",""
+ball,1,3.4,Israel,E Solomon,G Schachat,Ali Yalmaz,4,0,,,,,,"",""
+ball,1,3.5,Israel,E Solomon,G Schachat,Ali Yalmaz,4,0,,,,,,"",""
+ball,1,3.6,Israel,E Solomon,G Schachat,Ali Yalmaz,0,0,,,,,,"",""
+ball,1,4.1,Israel,G Schachat,E Solomon,SA Mohandas,1,0,,,,,,"",""
+ball,1,4.2,Israel,E Solomon,G Schachat,SA Mohandas,1,0,,,,,,"",""
+ball,1,4.3,Israel,G Schachat,E Solomon,SA Mohandas,1,0,,,,,,"",""
+ball,1,4.4,Israel,E Solomon,G Schachat,SA Mohandas,0,0,,,,,,"",""
+ball,1,4.5,Israel,E Solomon,G Schachat,SA Mohandas,4,0,,,,,,"",""
+ball,1,4.6,Israel,E Solomon,G Schachat,SA Mohandas,4,0,,,,,,"",""
+ball,1,5.1,Israel,G Schachat,E Solomon,Zeeshan Kukikhel,4,0,,,,,,"",""
+ball,1,5.2,Israel,G Schachat,E Solomon,Zeeshan Kukikhel,4,0,,,,,,"",""
+ball,1,5.3,Israel,G Schachat,E Solomon,Zeeshan Kukikhel,0,0,,,,,,"",""
+ball,1,5.4,Israel,G Schachat,E Solomon,Zeeshan Kukikhel,0,0,,,,,,"",""
+ball,1,5.5,Israel,G Schachat,E Solomon,Zeeshan Kukikhel,0,1,1,,,,,"",""
+ball,1,5.6,Israel,G Schachat,E Solomon,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,5.7,Israel,E Solomon,G Schachat,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,6.1,Israel,E Solomon,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,6.2,Israel,G Schachat,E Solomon,HV Mandhyan,1,0,,,,,,"",""
+ball,1,6.3,Israel,E Solomon,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,6.4,Israel,G Schachat,E Solomon,HV Mandhyan,1,0,,,,,,"",""
+ball,1,6.5,Israel,E Solomon,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,6.6,Israel,G Schachat,E Solomon,HV Mandhyan,0,0,,,,,,"",""
+ball,1,7.1,Israel,E Solomon,G Schachat,BP Adapaka,1,0,,,,,,"",""
+ball,1,7.2,Israel,G Schachat,E Solomon,BP Adapaka,0,0,,,,,,"",""
+ball,1,7.3,Israel,G Schachat,E Solomon,BP Adapaka,0,0,,,,,,"",""
+ball,1,7.4,Israel,G Schachat,E Solomon,BP Adapaka,4,0,,,,,,"",""
+ball,1,7.5,Israel,G Schachat,E Solomon,BP Adapaka,0,0,,,,,,"",""
+ball,1,7.6,Israel,G Schachat,E Solomon,BP Adapaka,0,0,,,,,,"",""
+ball,1,8.1,Israel,E Solomon,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,8.2,Israel,G Schachat,E Solomon,HV Mandhyan,0,1,1,,,,,"",""
+ball,1,8.3,Israel,G Schachat,E Solomon,HV Mandhyan,0,1,1,,,,,"",""
+ball,1,8.4,Israel,G Schachat,E Solomon,HV Mandhyan,1,0,,,,,,"",""
+ball,1,8.5,Israel,E Solomon,G Schachat,HV Mandhyan,0,0,,,,,,"",""
+ball,1,8.6,Israel,E Solomon,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,8.7,Israel,G Schachat,E Solomon,HV Mandhyan,1,0,,,,,,"",""
+ball,1,8.8,Israel,E Solomon,G Schachat,HV Mandhyan,0,0,,,,,,caught,E Solomon
+ball,1,9.1,Israel,G Schachat,J Evans,BP Adapaka,0,0,,,,,,"",""
+ball,1,9.2,Israel,G Schachat,J Evans,BP Adapaka,1,0,,,,,,"",""
+ball,1,9.3,Israel,J Evans,G Schachat,BP Adapaka,1,0,,,,,,"",""
+ball,1,9.4,Israel,G Schachat,J Evans,BP Adapaka,0,1,1,,,,,"",""
+ball,1,9.5,Israel,G Schachat,J Evans,BP Adapaka,4,0,,,,,,"",""
+ball,1,9.6,Israel,G Schachat,J Evans,BP Adapaka,1,0,,,,,,"",""
+ball,1,9.7,Israel,J Evans,G Schachat,BP Adapaka,0,0,,,,,,"",""
+ball,1,10.1,Israel,G Schachat,J Evans,HV Mandhyan,1,0,,,,,,"",""
+ball,1,10.2,Israel,J Evans,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,10.3,Israel,G Schachat,J Evans,HV Mandhyan,1,0,,,,,,"",""
+ball,1,10.4,Israel,J Evans,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,10.5,Israel,G Schachat,J Evans,HV Mandhyan,1,0,,,,,,"",""
+ball,1,10.6,Israel,J Evans,G Schachat,HV Mandhyan,0,0,,,,,,"",""
+ball,1,11.1,Israel,G Schachat,J Evans,BP Adapaka,2,0,,,,,,"",""
+ball,1,11.2,Israel,G Schachat,J Evans,BP Adapaka,4,0,,,,,,"",""
+ball,1,11.3,Israel,G Schachat,J Evans,BP Adapaka,0,0,,,,,,"",""
+ball,1,11.4,Israel,G Schachat,J Evans,BP Adapaka,1,0,,,,,,"",""
+ball,1,11.5,Israel,J Evans,G Schachat,BP Adapaka,0,1,1,,,,,"",""
+ball,1,11.6,Israel,J Evans,G Schachat,BP Adapaka,0,0,,,,,,"",""
+ball,1,11.7,Israel,J Evans,G Schachat,BP Adapaka,2,0,,,,,,"",""
+ball,1,12.1,Israel,G Schachat,J Evans,HV Mandhyan,1,0,,,,,,"",""
+ball,1,12.2,Israel,J Evans,G Schachat,HV Mandhyan,0,0,,,,,,caught,J Evans
+ball,1,12.3,Israel,G Schachat,M Cohen,HV Mandhyan,1,0,,,,,,"",""
+ball,1,12.4,Israel,M Cohen,G Schachat,HV Mandhyan,1,0,,,,,,"",""
+ball,1,12.5,Israel,G Schachat,M Cohen,HV Mandhyan,1,0,,,,,,"",""
+ball,1,12.6,Israel,M Cohen,G Schachat,HV Mandhyan,4,0,,,,,,"",""
+ball,1,13.1,Israel,G Schachat,M Cohen,BP Adapaka,1,0,,,,,,"",""
+ball,1,13.2,Israel,M Cohen,G Schachat,BP Adapaka,1,0,,,,,,"",""
+ball,1,13.3,Israel,G Schachat,M Cohen,BP Adapaka,1,0,,,,,,"",""
+ball,1,13.4,Israel,M Cohen,G Schachat,BP Adapaka,1,0,,,,,,"",""
+ball,1,13.5,Israel,G Schachat,M Cohen,BP Adapaka,0,1,,,,1,,"",""
+ball,1,13.6,Israel,M Cohen,G Schachat,BP Adapaka,6,0,,,,,,"",""
+ball,1,14.1,Israel,G Schachat,M Cohen,Akramullah Malikzada,1,0,,,,,,"",""
+ball,1,14.2,Israel,M Cohen,G Schachat,Akramullah Malikzada,1,0,,,,,,"",""
+ball,1,14.3,Israel,G Schachat,M Cohen,Akramullah Malikzada,6,0,,,,,,"",""
+ball,1,14.4,Israel,G Schachat,M Cohen,Akramullah Malikzada,1,0,,,,,,"",""
+ball,1,14.5,Israel,M Cohen,G Schachat,Akramullah Malikzada,4,0,,,,,,"",""
+ball,1,14.6,Israel,M Cohen,G Schachat,Akramullah Malikzada,1,0,,,,,,"",""
+ball,1,15.1,Israel,M Cohen,G Schachat,Zeeshan Kukikhel,0,1,1,,,,,"",""
+ball,1,15.2,Israel,M Cohen,G Schachat,Zeeshan Kukikhel,4,0,,,,,,"",""
+ball,1,15.3,Israel,M Cohen,G Schachat,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,15.4,Israel,G Schachat,M Cohen,Zeeshan Kukikhel,4,0,,,,,,"",""
+ball,1,15.5,Israel,G Schachat,M Cohen,Zeeshan Kukikhel,0,0,,,,,,"",""
+ball,1,15.6,Israel,G Schachat,M Cohen,Zeeshan Kukikhel,2,0,,,,,,"",""
+ball,1,15.7,Israel,G Schachat,M Cohen,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,16.1,Israel,G Schachat,M Cohen,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,16.2,Israel,M Cohen,G Schachat,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,16.3,Israel,G Schachat,M Cohen,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,16.4,Israel,M Cohen,G Schachat,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,16.5,Israel,G Schachat,M Cohen,Ali Yalmaz,6,0,,,,,,"",""
+ball,1,16.6,Israel,G Schachat,M Cohen,Ali Yalmaz,0,0,,,,,,caught,G Schachat
+ball,1,17.1,Israel,E Kahamker,M Cohen,Zeeshan Kukikhel,0,0,,,,,,"",""
+ball,1,17.2,Israel,E Kahamker,M Cohen,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,17.3,Israel,M Cohen,E Kahamker,Zeeshan Kukikhel,0,0,,,,,,"",""
+ball,1,17.4,Israel,M Cohen,E Kahamker,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,17.5,Israel,E Kahamker,M Cohen,Zeeshan Kukikhel,0,0,,,,,,"",""
+ball,1,17.6,Israel,E Kahamker,M Cohen,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,18.1,Israel,E Kahamker,M Cohen,Ali Yalmaz,2,0,,,,,,"",""
+ball,1,18.2,Israel,E Kahamker,M Cohen,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,18.3,Israel,M Cohen,E Kahamker,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,18.4,Israel,E Kahamker,M Cohen,Ali Yalmaz,4,0,,,,,,"",""
+ball,1,18.5,Israel,E Kahamker,M Cohen,Ali Yalmaz,1,0,,,,,,"",""
+ball,1,18.6,Israel,M Cohen,E Kahamker,Ali Yalmaz,0,0,,,,,,bowled,M Cohen
+ball,1,19.1,Israel,E Kahamker,E Samson,Zeeshan Kukikhel,6,0,,,,,,"",""
+ball,1,19.2,Israel,E Kahamker,E Samson,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,19.3,Israel,E Samson,E Kahamker,Zeeshan Kukikhel,2,0,,,,,,"",""
+ball,1,19.4,Israel,E Samson,E Kahamker,Zeeshan Kukikhel,1,0,,,,,,"",""
+ball,1,19.5,Israel,E Kahamker,E Samson,Zeeshan Kukikhel,2,0,,,,,,"",""
+ball,1,19.6,Israel,E Kahamker,E Samson,Zeeshan Kukikhel,0,0,,,,,,bowled,E Kahamker
+ball,2,0.1,Hungary,Zeeshan Kukikhel,Abhijeet Ahuja,Niv Nagavkar,2,0,,,,,,"",""
+ball,2,0.2,Hungary,Zeeshan Kukikhel,Abhijeet Ahuja,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,0.3,Hungary,Zeeshan Kukikhel,Abhijeet Ahuja,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,0.4,Hungary,Abhijeet Ahuja,Zeeshan Kukikhel,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,0.5,Hungary,Abhijeet Ahuja,Zeeshan Kukikhel,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,0.6,Hungary,Abhijeet Ahuja,Zeeshan Kukikhel,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,1.1,Hungary,Zeeshan Kukikhel,Abhijeet Ahuja,Elan Talker,4,0,,,,,,"",""
+ball,2,1.2,Hungary,Zeeshan Kukikhel,Abhijeet Ahuja,Elan Talker,0,0,,,,,,caught,Zeeshan Kukikhel
+ball,2,1.3,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,0,0,,,,,,"",""
+ball,2,1.4,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,0,0,,,,,,"",""
+ball,2,1.5,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,0,0,,,,,,"",""
+ball,2,1.6,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,0,0,,,,,,"",""
+ball,2,2.1,Hungary,Abhijeet Ahuja,Zahir Mohammed,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,2.2,Hungary,Abhijeet Ahuja,Zahir Mohammed,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,2.3,Hungary,Zahir Mohammed,Abhijeet Ahuja,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,2.4,Hungary,Zahir Mohammed,Abhijeet Ahuja,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,2.5,Hungary,Zahir Mohammed,Abhijeet Ahuja,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,2.6,Hungary,Zahir Mohammed,Abhijeet Ahuja,Niv Nagavkar,4,0,,,,,,"",""
+ball,2,3.1,Hungary,Abhijeet Ahuja,Zahir Mohammed,Elan Talker,0,0,,,,,,"",""
+ball,2,3.2,Hungary,Abhijeet Ahuja,Zahir Mohammed,Elan Talker,1,0,,,,,,"",""
+ball,2,3.3,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,4,0,,,,,,"",""
+ball,2,3.4,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,4,0,,,,,,"",""
+ball,2,3.5,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,6,0,,,,,,"",""
+ball,2,3.6,Hungary,Zahir Mohammed,Abhijeet Ahuja,Elan Talker,1,0,,,,,,"",""
+ball,2,4.1,Hungary,Zahir Mohammed,Abhijeet Ahuja,E Samson,0,1,1,,,,,"",""
+ball,2,4.2,Hungary,Zahir Mohammed,Abhijeet Ahuja,E Samson,4,0,,,,,,"",""
+ball,2,4.3,Hungary,Zahir Mohammed,Abhijeet Ahuja,E Samson,1,0,,,,,,"",""
+ball,2,4.4,Hungary,Abhijeet Ahuja,Zahir Mohammed,E Samson,0,0,,,,,,run out,Zahir Mohammed
+ball,2,4.5,Hungary,S Ashwathnarayana,Abhijeet Ahuja,E Samson,0,0,,,,,,"",""
+ball,2,4.6,Hungary,S Ashwathnarayana,Abhijeet Ahuja,E Samson,0,0,,,,,,"",""
+ball,2,4.7,Hungary,S Ashwathnarayana,Abhijeet Ahuja,E Samson,1,0,,,,,,"",""
+ball,2,5.1,Hungary,S Ashwathnarayana,Abhijeet Ahuja,T Kahamker,0,1,1,,,,,"",""
+ball,2,5.2,Hungary,S Ashwathnarayana,Abhijeet Ahuja,T Kahamker,0,0,,,,,,"",""
+ball,2,5.3,Hungary,S Ashwathnarayana,Abhijeet Ahuja,T Kahamker,4,0,,,,,,"",""
+ball,2,5.4,Hungary,S Ashwathnarayana,Abhijeet Ahuja,T Kahamker,1,0,,,,,,"",""
+ball,2,5.5,Hungary,Abhijeet Ahuja,S Ashwathnarayana,T Kahamker,2,0,,,,,,"",""
+ball,2,5.6,Hungary,Abhijeet Ahuja,S Ashwathnarayana,T Kahamker,1,0,,,,,,"",""
+ball,2,5.7,Hungary,S Ashwathnarayana,Abhijeet Ahuja,T Kahamker,0,0,,,,,,"",""
+ball,2,6.1,Hungary,Abhijeet Ahuja,S Ashwathnarayana,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,6.2,Hungary,Abhijeet Ahuja,S Ashwathnarayana,Yair Nagavkar,1,0,,,,,,"",""
+ball,2,6.3,Hungary,S Ashwathnarayana,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,6.4,Hungary,S Ashwathnarayana,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,caught,S Ashwathnarayana
+ball,2,6.5,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,6.6,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,7.1,Hungary,Abhijeet Ahuja,AG Weligamage,J Evans,0,0,,,,,,"",""
+ball,2,7.2,Hungary,Abhijeet Ahuja,AG Weligamage,J Evans,1,0,,,,,,"",""
+ball,2,7.3,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,0,0,,,,,,"",""
+ball,2,7.4,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,1,0,,,,,,"",""
+ball,2,7.5,Hungary,Abhijeet Ahuja,AG Weligamage,J Evans,1,0,,,,,,"",""
+ball,2,7.6,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,6,0,,,,,,"",""
+ball,2,8.1,Hungary,Abhijeet Ahuja,AG Weligamage,Yair Nagavkar,1,0,,,,,,"",""
+ball,2,8.2,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,8.3,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,8.4,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,8.5,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,8.6,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,3,0,,,,,,"",""
+ball,2,9.1,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,4,0,,,,,,"",""
+ball,2,9.2,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,0,0,,,,,,"",""
+ball,2,9.3,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,1,1,,1,,,,"",""
+ball,2,9.4,Hungary,Abhijeet Ahuja,AG Weligamage,J Evans,6,0,,,,,,"",""
+ball,2,9.5,Hungary,Abhijeet Ahuja,AG Weligamage,J Evans,1,0,,,,,,"",""
+ball,2,9.6,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,0,1,1,,,,,"",""
+ball,2,9.7,Hungary,AG Weligamage,Abhijeet Ahuja,J Evans,1,0,,,,,,"",""
+ball,2,9.8,Hungary,Abhijeet Ahuja,AG Weligamage,J Evans,1,0,,,,,,"",""
+ball,2,10.1,Hungary,Abhijeet Ahuja,AG Weligamage,Yair Nagavkar,1,0,,,,,,"",""
+ball,2,10.2,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,10.3,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,1,0,,,,,,"",""
+ball,2,10.4,Hungary,Abhijeet Ahuja,AG Weligamage,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,10.5,Hungary,Abhijeet Ahuja,AG Weligamage,Yair Nagavkar,1,0,,,,,,"",""
+ball,2,10.6,Hungary,AG Weligamage,Abhijeet Ahuja,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,11.1,Hungary,Abhijeet Ahuja,AG Weligamage,E Samson,1,0,,,,,,"",""
+ball,2,11.2,Hungary,AG Weligamage,Abhijeet Ahuja,E Samson,0,0,,,,,,"",""
+ball,2,11.3,Hungary,AG Weligamage,Abhijeet Ahuja,E Samson,4,0,,,,,,"",""
+ball,2,11.4,Hungary,AG Weligamage,Abhijeet Ahuja,E Samson,2,0,,,,,,"",""
+ball,2,11.5,Hungary,Abhijeet Ahuja,AG Weligamage,E Samson,1,0,,,,,,"",""
+ball,2,11.6,Hungary,AG Weligamage,Abhijeet Ahuja,E Samson,6,0,,,,,,"",""
+ball,2,12.1,Hungary,Abhijeet Ahuja,AG Weligamage,Yair Nagavkar,4,0,,,,,,"",""
+ball,2,12.2,Hungary,Abhijeet Ahuja,AG Weligamage,Yair Nagavkar,0,0,,,,,,caught,Abhijeet Ahuja
+ball,2,12.3,Hungary,AG Weligamage,HV Mandhyan,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,12.4,Hungary,AG Weligamage,HV Mandhyan,Yair Nagavkar,4,0,,,,,,"",""
+ball,2,12.5,Hungary,AG Weligamage,HV Mandhyan,Yair Nagavkar,0,0,,,,,,"",""
+ball,2,12.6,Hungary,AG Weligamage,HV Mandhyan,Yair Nagavkar,1,0,,,,,,"",""
+ball,2,13.1,Hungary,AG Weligamage,HV Mandhyan,E Kahamker,6,0,,,,,,"",""
+ball,2,13.2,Hungary,AG Weligamage,HV Mandhyan,E Kahamker,4,0,,,,,,"",""
+ball,2,13.3,Hungary,AG Weligamage,HV Mandhyan,E Kahamker,0,0,,,,,,"",""
+ball,2,13.4,Hungary,AG Weligamage,HV Mandhyan,E Kahamker,0,0,,,,,,"",""
+ball,2,13.5,Hungary,AG Weligamage,HV Mandhyan,E Kahamker,0,0,,,,,,"",""
+ball,2,13.6,Hungary,AG Weligamage,HV Mandhyan,E Kahamker,1,0,,,,,,"",""
+ball,2,14.1,Hungary,AG Weligamage,HV Mandhyan,J Evans,0,0,,,,,,"",""
+ball,2,14.2,Hungary,AG Weligamage,HV Mandhyan,J Evans,0,0,,,,,,bowled,AG Weligamage
+ball,2,14.3,Hungary,Ali Farasat,HV Mandhyan,J Evans,0,0,,,,,,"",""
+ball,2,14.4,Hungary,Ali Farasat,HV Mandhyan,J Evans,0,0,,,,,,"",""
+ball,2,14.5,Hungary,Ali Farasat,HV Mandhyan,J Evans,1,0,,,,,,"",""
+ball,2,14.6,Hungary,HV Mandhyan,Ali Farasat,J Evans,1,0,,,,,,"",""
+ball,2,15.1,Hungary,HV Mandhyan,Ali Farasat,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,15.2,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,0,0,,,,,,"",""
+ball,2,15.3,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,6,0,,,,,,"",""
+ball,2,15.4,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,15.5,Hungary,HV Mandhyan,Ali Farasat,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,15.6,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,4,0,,,,,,"",""
+ball,2,16.1,Hungary,HV Mandhyan,Ali Farasat,J Evans,6,0,,,,,,"",""
+ball,2,16.2,Hungary,HV Mandhyan,Ali Farasat,J Evans,1,0,,,,,,"",""
+ball,2,16.3,Hungary,Ali Farasat,HV Mandhyan,J Evans,0,1,1,,,,,"",""
+ball,2,16.4,Hungary,Ali Farasat,HV Mandhyan,J Evans,0,0,,,,,,"",""
+ball,2,16.5,Hungary,Ali Farasat,HV Mandhyan,J Evans,1,0,,,,,,"",""
+ball,2,16.6,Hungary,HV Mandhyan,Ali Farasat,J Evans,0,0,,,,,,"",""
+ball,2,16.7,Hungary,HV Mandhyan,Ali Farasat,J Evans,2,0,,,,,,"",""
+ball,2,17.1,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,6,0,,,,,,"",""
+ball,2,17.2,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,17.3,Hungary,HV Mandhyan,Ali Farasat,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,17.4,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,2,0,,,,,,"",""
+ball,2,17.5,Hungary,Ali Farasat,HV Mandhyan,Niv Nagavkar,1,0,,,,,,"",""
+ball,2,17.6,Hungary,HV Mandhyan,Ali Farasat,Niv Nagavkar,2,0,,,,,,"",""
+ball,2,18.1,Hungary,Ali Farasat,HV Mandhyan,E Samson,0,0,,,,,,stumped,Ali Farasat
+ball,2,18.2,Hungary,Ali Yalmaz,HV Mandhyan,E Samson,0,0,,,,,,"",""
+ball,2,18.3,Hungary,Ali Yalmaz,HV Mandhyan,E Samson,1,0,,,,,,"",""
+ball,2,18.4,Hungary,HV Mandhyan,Ali Yalmaz,E Samson,1,0,,,,,,"",""
+ball,2,18.5,Hungary,Ali Yalmaz,HV Mandhyan,E Samson,1,0,,,,,,"",""
+ball,2,18.6,Hungary,HV Mandhyan,Ali Yalmaz,E Samson,0,0,,,,,,"",""
+ball,2,19.1,Hungary,Ali Yalmaz,HV Mandhyan,T Kahamker,0,0,,,,,,"",""
+ball,2,19.2,Hungary,Ali Yalmaz,HV Mandhyan,T Kahamker,0,0,,,,,,"",""
+ball,2,19.3,Hungary,Ali Yalmaz,HV Mandhyan,T Kahamker,0,0,,,,,,stumped,Ali Yalmaz
+ball,2,19.4,Hungary,SA Mohandas,HV Mandhyan,T Kahamker,0,1,1,,,,,"",""
+ball,2,19.5,Hungary,SA Mohandas,HV Mandhyan,T Kahamker,0,0,,,,,,caught and bowled,SA Mohandas
+ball,2,19.6,Hungary,HV Mandhyan,Akramullah Malikzada,T Kahamker,0,0,,,,,,bowled,HV Mandhyan
+ball,2,19.7,Hungary,BP Adapaka,Akramullah Malikzada,T Kahamker,0,0,,,,,,"",""

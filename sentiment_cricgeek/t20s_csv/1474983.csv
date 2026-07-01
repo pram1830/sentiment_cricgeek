@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,Brazil
+info,gender,female
+info,season,2024/25
+info,date,2025/03/11
+info,event,ICC Women's T20 World Cup Americas Region Qualifier
+info,match_number,3
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Brazil
+info,toss_decision,field
+info,player_of_match,RP Singh
+info,umpire,C La Borde
+info,umpire,JM Williams
+info,reserve_umpire,M Abbott
+info,tv_umpire,Jermaine Lindo
+info,match_referee,Denavon Hayles
+info,winner,United States of America
+info,winner_runs,76
+info,player,United States of America,D Dhingra
+info,player,United States of America,GC Bhogle
+info,player,United States of America,CR Pagydyala
+info,player,United States of America,E Claridge
+info,player,United States of America,A Kolan
+info,player,United States of America,TG Norris
+info,player,United States of America,RP Singh
+info,player,United States of America,IM Vaghela
+info,player,United States of America,AI Chudasama
+info,player,United States of America,G Kodali
+info,player,United States of America,S Immadi
+info,player,Brazil,LV Boas
+info,player,Brazil,L Agatha
+info,player,Brazil,RMAM Avery
+info,player,Brazil,L Cardoso
+info,player,Brazil,MR Machado
+info,player,Brazil,CS Nascimento
+info,player,Brazil,AC Sabino
+info,player,Brazil,MLG Silva
+info,player,Brazil,NC Monteiro
+info,player,Brazil,M Ribeiro
+info,player,Brazil,L Moises
+info,registry,people,A Kolan,85f5735b
+info,registry,people,AC Sabino,dd45b04b
+info,registry,people,AI Chudasama,9414a81c
+info,registry,people,C La Borde,32157f67
+info,registry,people,CR Pagydyala,d7c02672
+info,registry,people,CS Nascimento,df997334
+info,registry,people,D Dhingra,b0dc5d0d
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,G Kodali,f606177e
+info,registry,people,GC Bhogle,a1965ce2
+info,registry,people,IM Vaghela,8d62fc14
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,L Agatha,1aebb2fa
+info,registry,people,L Cardoso,5777d460
+info,registry,people,L Moises,b27f9716
+info,registry,people,LV Boas,3a00d34f
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,M Ribeiro,38424a4d
+info,registry,people,MLG Silva,3b62a6b4
+info,registry,people,MR Machado,4a4f94fa
+info,registry,people,NC Monteiro,752af5a4
+info,registry,people,RMAM Avery,4cf645c9
+info,registry,people,RP Singh,0ab3c788
+info,registry,people,S Immadi,a6dd06d6
+info,registry,people,TG Norris,8ae7bb3e
+ball,1,0.1,United States of America,D Dhingra,GC Bhogle,M Ribeiro,1,0,,,,,,"",""
+ball,1,0.2,United States of America,GC Bhogle,D Dhingra,M Ribeiro,0,2,2,,,,,"",""
+ball,1,0.3,United States of America,D Dhingra,GC Bhogle,M Ribeiro,0,0,,,,,,"",""
+ball,1,0.4,United States of America,D Dhingra,GC Bhogle,M Ribeiro,0,0,,,,,,"",""
+ball,1,0.5,United States of America,D Dhingra,GC Bhogle,M Ribeiro,1,0,,,,,,"",""
+ball,1,0.6,United States of America,GC Bhogle,D Dhingra,M Ribeiro,0,0,,,,,,"",""
+ball,1,0.7,United States of America,GC Bhogle,D Dhingra,M Ribeiro,0,1,1,,,,,"",""
+ball,1,0.8,United States of America,GC Bhogle,D Dhingra,M Ribeiro,0,0,,,,,,bowled,GC Bhogle
+ball,1,1.1,United States of America,D Dhingra,CR Pagydyala,L Cardoso,1,0,,,,,,"",""
+ball,1,1.2,United States of America,CR Pagydyala,D Dhingra,L Cardoso,1,0,,,,,,"",""
+ball,1,1.3,United States of America,D Dhingra,CR Pagydyala,L Cardoso,0,0,,,,,,"",""
+ball,1,1.4,United States of America,D Dhingra,CR Pagydyala,L Cardoso,1,0,,,,,,"",""
+ball,1,1.5,United States of America,CR Pagydyala,D Dhingra,L Cardoso,0,0,,,,,,"",""
+ball,1,1.6,United States of America,CR Pagydyala,D Dhingra,L Cardoso,0,1,1,,,,,"",""
+ball,1,1.7,United States of America,CR Pagydyala,D Dhingra,L Cardoso,0,1,1,,,,,"",""
+ball,1,1.8,United States of America,CR Pagydyala,D Dhingra,L Cardoso,0,0,,,,,,"",""
+ball,1,2.1,United States of America,D Dhingra,CR Pagydyala,M Ribeiro,0,0,,,,,,"",""
+ball,1,2.2,United States of America,D Dhingra,CR Pagydyala,M Ribeiro,2,0,,,,,,"",""
+ball,1,2.3,United States of America,D Dhingra,CR Pagydyala,M Ribeiro,0,0,,,,,,"",""
+ball,1,2.4,United States of America,D Dhingra,CR Pagydyala,M Ribeiro,1,0,,,,,,"",""
+ball,1,2.5,United States of America,CR Pagydyala,D Dhingra,M Ribeiro,0,0,,,,,,caught,CR Pagydyala
+ball,1,2.6,United States of America,E Claridge,D Dhingra,M Ribeiro,0,0,,,,,,"",""
+ball,1,3.1,United States of America,D Dhingra,E Claridge,L Cardoso,0,0,,,,,,"",""
+ball,1,3.2,United States of America,D Dhingra,E Claridge,L Cardoso,2,0,,,,,,"",""
+ball,1,3.3,United States of America,D Dhingra,E Claridge,L Cardoso,0,0,,,,,,"",""
+ball,1,3.4,United States of America,D Dhingra,E Claridge,L Cardoso,1,0,,,,,,"",""
+ball,1,3.5,United States of America,E Claridge,D Dhingra,L Cardoso,0,0,,,,,,"",""
+ball,1,3.6,United States of America,E Claridge,D Dhingra,L Cardoso,1,0,,,,,,"",""
+ball,1,4.1,United States of America,E Claridge,D Dhingra,CS Nascimento,4,0,,,,,,"",""
+ball,1,4.2,United States of America,E Claridge,D Dhingra,CS Nascimento,0,0,,,,,,"",""
+ball,1,4.3,United States of America,E Claridge,D Dhingra,CS Nascimento,1,0,,,,,,"",""
+ball,1,4.4,United States of America,D Dhingra,E Claridge,CS Nascimento,3,0,,,,,,"",""
+ball,1,4.5,United States of America,E Claridge,D Dhingra,CS Nascimento,1,0,,,,,,"",""
+ball,1,4.6,United States of America,D Dhingra,E Claridge,CS Nascimento,1,0,,,,,,"",""
+ball,1,5.1,United States of America,D Dhingra,E Claridge,NC Monteiro,1,0,,,,,,"",""
+ball,1,5.2,United States of America,E Claridge,D Dhingra,NC Monteiro,2,0,,,,,,"",""
+ball,1,5.3,United States of America,E Claridge,D Dhingra,NC Monteiro,0,0,,,,,,bowled,E Claridge
+ball,1,5.4,United States of America,A Kolan,D Dhingra,NC Monteiro,1,0,,,,,,"",""
+ball,1,5.5,United States of America,D Dhingra,A Kolan,NC Monteiro,0,0,,,,,,"",""
+ball,1,5.6,United States of America,D Dhingra,A Kolan,NC Monteiro,0,0,,,,,,"",""
+ball,1,6.1,United States of America,A Kolan,D Dhingra,CS Nascimento,0,0,,,,,,"",""
+ball,1,6.2,United States of America,A Kolan,D Dhingra,CS Nascimento,1,0,,,,,,"",""
+ball,1,6.3,United States of America,D Dhingra,A Kolan,CS Nascimento,4,0,,,,,,"",""
+ball,1,6.4,United States of America,D Dhingra,A Kolan,CS Nascimento,1,0,,,,,,"",""
+ball,1,6.5,United States of America,A Kolan,D Dhingra,CS Nascimento,0,0,,,,,,"",""
+ball,1,6.6,United States of America,A Kolan,D Dhingra,CS Nascimento,2,0,,,,,,"",""
+ball,1,7.1,United States of America,D Dhingra,A Kolan,NC Monteiro,1,0,,,,,,"",""
+ball,1,7.2,United States of America,A Kolan,D Dhingra,NC Monteiro,0,0,,,,,,"",""
+ball,1,7.3,United States of America,A Kolan,D Dhingra,NC Monteiro,1,0,,,,,,"",""
+ball,1,7.4,United States of America,D Dhingra,A Kolan,NC Monteiro,1,0,,,,,,"",""
+ball,1,7.5,United States of America,A Kolan,D Dhingra,NC Monteiro,1,0,,,,,,"",""
+ball,1,7.6,United States of America,D Dhingra,A Kolan,NC Monteiro,4,0,,,,,,"",""
+ball,1,8.1,United States of America,A Kolan,D Dhingra,L Moises,0,0,,,,,,"",""
+ball,1,8.2,United States of America,A Kolan,D Dhingra,L Moises,1,0,,,,,,"",""
+ball,1,8.3,United States of America,D Dhingra,A Kolan,L Moises,2,0,,,,,,"",""
+ball,1,8.4,United States of America,D Dhingra,A Kolan,L Moises,0,0,,,,,,"",""
+ball,1,8.5,United States of America,D Dhingra,A Kolan,L Moises,1,0,,,,,,"",""
+ball,1,8.6,United States of America,A Kolan,D Dhingra,L Moises,2,0,,,,,,"",""
+ball,1,9.1,United States of America,D Dhingra,A Kolan,L Cardoso,1,0,,,,,,"",""
+ball,1,9.2,United States of America,A Kolan,D Dhingra,L Cardoso,1,0,,,,,,"",""
+ball,1,9.3,United States of America,D Dhingra,A Kolan,L Cardoso,0,0,,,,,,"",""
+ball,1,9.4,United States of America,D Dhingra,A Kolan,L Cardoso,0,1,1,,,,,"",""
+ball,1,9.5,United States of America,D Dhingra,A Kolan,L Cardoso,0,0,,,,,,caught,D Dhingra
+ball,1,9.6,United States of America,TG Norris,A Kolan,L Cardoso,0,0,,,,,,"",""
+ball,1,9.7,United States of America,TG Norris,A Kolan,L Cardoso,0,0,,,,,,"",""
+ball,1,10.1,United States of America,A Kolan,TG Norris,L Moises,0,0,,,,,,"",""
+ball,1,10.2,United States of America,A Kolan,TG Norris,L Moises,1,0,,,,,,"",""
+ball,1,10.3,United States of America,TG Norris,A Kolan,L Moises,0,0,,,,,,"",""
+ball,1,10.4,United States of America,TG Norris,A Kolan,L Moises,2,0,,,,,,"",""
+ball,1,10.5,United States of America,TG Norris,A Kolan,L Moises,0,0,,,,,,"",""
+ball,1,10.6,United States of America,TG Norris,A Kolan,L Moises,2,0,,,,,,"",""
+ball,1,11.1,United States of America,A Kolan,TG Norris,NC Monteiro,1,0,,,,,,"",""
+ball,1,11.2,United States of America,TG Norris,A Kolan,NC Monteiro,0,0,,,,,,"",""
+ball,1,11.3,United States of America,TG Norris,A Kolan,NC Monteiro,0,0,,,,,,"",""
+ball,1,11.4,United States of America,TG Norris,A Kolan,NC Monteiro,1,0,,,,,,"",""
+ball,1,11.5,United States of America,A Kolan,TG Norris,NC Monteiro,2,0,,,,,,"",""
+ball,1,11.6,United States of America,A Kolan,TG Norris,NC Monteiro,0,0,,,,,,"",""
+ball,1,12.1,United States of America,TG Norris,A Kolan,L Moises,2,0,,,,,,"",""
+ball,1,12.2,United States of America,TG Norris,A Kolan,L Moises,1,0,,,,,,"",""
+ball,1,12.3,United States of America,A Kolan,TG Norris,L Moises,1,0,,,,,,"",""
+ball,1,12.4,United States of America,TG Norris,A Kolan,L Moises,0,0,,,,,,"",""
+ball,1,12.5,United States of America,TG Norris,A Kolan,L Moises,1,0,,,,,,"",""
+ball,1,12.6,United States of America,A Kolan,TG Norris,L Moises,0,0,,,,,,"",""
+ball,1,13.1,United States of America,TG Norris,A Kolan,CS Nascimento,1,0,,,,,,"",""
+ball,1,13.2,United States of America,A Kolan,TG Norris,CS Nascimento,2,0,,,,,,"",""
+ball,1,13.3,United States of America,A Kolan,TG Norris,CS Nascimento,2,0,,,,,,"",""
+ball,1,13.4,United States of America,A Kolan,TG Norris,CS Nascimento,0,0,,,,,,"",""
+ball,1,13.5,United States of America,A Kolan,TG Norris,CS Nascimento,1,0,,,,,,"",""
+ball,1,13.6,United States of America,TG Norris,A Kolan,CS Nascimento,1,0,,,,,,"",""
+ball,1,14.1,United States of America,TG Norris,A Kolan,L Moises,1,0,,,,,,"",""
+ball,1,14.2,United States of America,A Kolan,TG Norris,L Moises,1,0,,,,,,"",""
+ball,1,14.3,United States of America,TG Norris,A Kolan,L Moises,0,0,,,,,,"",""
+ball,1,14.4,United States of America,TG Norris,A Kolan,L Moises,2,0,,,,,,"",""
+ball,1,14.5,United States of America,TG Norris,A Kolan,L Moises,1,0,,,,,,"",""
+ball,1,14.6,United States of America,A Kolan,TG Norris,L Moises,1,0,,,,,,"",""
+ball,1,15.1,United States of America,A Kolan,TG Norris,NC Monteiro,1,0,,,,,,"",""
+ball,1,15.2,United States of America,TG Norris,A Kolan,NC Monteiro,0,0,,,,,,"",""
+ball,1,15.3,United States of America,TG Norris,A Kolan,NC Monteiro,0,0,,,,,,"",""
+ball,1,15.4,United States of America,TG Norris,A Kolan,NC Monteiro,0,0,,,,,,caught,TG Norris
+ball,1,15.5,United States of America,RP Singh,A Kolan,NC Monteiro,1,0,,,,,,"",""
+ball,1,15.6,United States of America,A Kolan,RP Singh,NC Monteiro,1,0,,,,,,"",""
+ball,1,16.1,United States of America,A Kolan,RP Singh,M Ribeiro,2,0,,,,,,"",""
+ball,1,16.2,United States of America,A Kolan,RP Singh,M Ribeiro,1,0,,,,,,"",""
+ball,1,16.3,United States of America,RP Singh,A Kolan,M Ribeiro,0,0,,,,,,"",""
+ball,1,16.4,United States of America,RP Singh,A Kolan,M Ribeiro,0,0,,,,,,run out,RP Singh
+ball,1,16.5,United States of America,A Kolan,IM Vaghela,M Ribeiro,1,0,,,,,,run out,IM Vaghela
+ball,1,16.6,United States of America,A Kolan,AI Chudasama,M Ribeiro,2,0,,,,,,"",""
+ball,1,17.1,United States of America,AI Chudasama,A Kolan,CS Nascimento,0,0,,,,,,"",""
+ball,1,17.2,United States of America,AI Chudasama,A Kolan,CS Nascimento,1,0,,,,,,"",""
+ball,1,17.3,United States of America,A Kolan,AI Chudasama,CS Nascimento,0,1,1,,,,,"",""
+ball,1,17.4,United States of America,A Kolan,AI Chudasama,CS Nascimento,1,0,,,,,,"",""
+ball,1,17.5,United States of America,AI Chudasama,A Kolan,CS Nascimento,1,0,,,,,,"",""
+ball,1,17.6,United States of America,A Kolan,AI Chudasama,CS Nascimento,1,0,,,,,,"",""
+ball,1,17.7,United States of America,AI Chudasama,A Kolan,CS Nascimento,0,1,1,,,,,"",""
+ball,1,17.8,United States of America,AI Chudasama,A Kolan,CS Nascimento,1,0,,,,,,"",""
+ball,1,18.1,United States of America,AI Chudasama,A Kolan,M Ribeiro,0,0,,,,,,"",""
+ball,1,18.2,United States of America,AI Chudasama,A Kolan,M Ribeiro,0,0,,,,,,bowled,AI Chudasama
+ball,1,18.3,United States of America,G Kodali,A Kolan,M Ribeiro,1,0,,,,,,"",""
+ball,1,18.4,United States of America,A Kolan,G Kodali,M Ribeiro,0,1,1,,,,,"",""
+ball,1,18.5,United States of America,A Kolan,G Kodali,M Ribeiro,0,0,,,,,,run out,G Kodali
+ball,1,18.6,United States of America,S Immadi,A Kolan,M Ribeiro,0,0,,,,,,"",""
+ball,1,18.7,United States of America,S Immadi,A Kolan,M Ribeiro,0,0,,,,,,"",""
+ball,1,19.1,United States of America,A Kolan,S Immadi,L Cardoso,1,0,,,,,,"",""
+ball,1,19.2,United States of America,S Immadi,A Kolan,L Cardoso,0,0,,,,,,"",""
+ball,1,19.3,United States of America,S Immadi,A Kolan,L Cardoso,1,0,,,,,,"",""
+ball,1,19.4,United States of America,A Kolan,S Immadi,L Cardoso,1,0,,,,,,"",""
+ball,1,19.5,United States of America,S Immadi,A Kolan,L Cardoso,0,0,,,,,,"",""
+ball,1,19.6,United States of America,S Immadi,A Kolan,L Cardoso,1,0,,,,,,"",""
+ball,2,0.1,Brazil,LV Boas,L Agatha,TG Norris,0,0,,,,,,"",""
+ball,2,0.2,Brazil,LV Boas,L Agatha,TG Norris,0,0,,,,,,"",""
+ball,2,0.3,Brazil,LV Boas,L Agatha,TG Norris,1,0,,,,,,"",""
+ball,2,0.4,Brazil,L Agatha,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,0.5,Brazil,L Agatha,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,0.6,Brazil,L Agatha,LV Boas,TG Norris,0,0,,,,,,bowled,L Agatha
+ball,2,1.1,Brazil,LV Boas,RMAM Avery,AI Chudasama,1,0,,,,,,"",""
+ball,2,1.2,Brazil,RMAM Avery,LV Boas,AI Chudasama,0,0,,,,,,"",""
+ball,2,1.3,Brazil,RMAM Avery,LV Boas,AI Chudasama,0,0,,,,,,"",""
+ball,2,1.4,Brazil,RMAM Avery,LV Boas,AI Chudasama,0,0,,,,,,"",""
+ball,2,1.5,Brazil,RMAM Avery,LV Boas,AI Chudasama,1,0,,,,,,"",""
+ball,2,1.6,Brazil,LV Boas,RMAM Avery,AI Chudasama,0,0,,,,,,"",""
+ball,2,2.1,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,2.2,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,2.3,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,2.4,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,2.5,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,2.6,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,3.1,Brazil,LV Boas,RMAM Avery,AI Chudasama,0,0,,,,,,"",""
+ball,2,3.2,Brazil,LV Boas,RMAM Avery,AI Chudasama,0,0,,,,,,"",""
+ball,2,3.3,Brazil,LV Boas,RMAM Avery,AI Chudasama,1,0,,,,,,"",""
+ball,2,3.4,Brazil,RMAM Avery,LV Boas,AI Chudasama,0,0,,,,,,"",""
+ball,2,3.5,Brazil,RMAM Avery,LV Boas,AI Chudasama,0,0,,,,,,"",""
+ball,2,3.6,Brazil,RMAM Avery,LV Boas,AI Chudasama,0,0,,,,,,"",""
+ball,2,4.1,Brazil,LV Boas,RMAM Avery,TG Norris,0,0,,,,,,"",""
+ball,2,4.2,Brazil,LV Boas,RMAM Avery,TG Norris,1,0,,,,,,"",""
+ball,2,4.3,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,4.4,Brazil,RMAM Avery,LV Boas,TG Norris,0,0,,,,,,"",""
+ball,2,4.5,Brazil,RMAM Avery,LV Boas,TG Norris,1,0,,,,,,"",""
+ball,2,4.6,Brazil,LV Boas,RMAM Avery,TG Norris,0,0,,,,,,"",""
+ball,2,5.1,Brazil,RMAM Avery,LV Boas,RP Singh,0,0,,,,,,"",""
+ball,2,5.2,Brazil,RMAM Avery,LV Boas,RP Singh,1,0,,,,,,"",""
+ball,2,5.3,Brazil,LV Boas,RMAM Avery,RP Singh,0,0,,,,,,caught,LV Boas
+ball,2,5.4,Brazil,L Cardoso,RMAM Avery,RP Singh,1,0,,,,,,"",""
+ball,2,5.5,Brazil,RMAM Avery,L Cardoso,RP Singh,0,0,,,,,,"",""
+ball,2,5.6,Brazil,RMAM Avery,L Cardoso,RP Singh,0,0,,,,,,"",""
+ball,2,6.1,Brazil,L Cardoso,RMAM Avery,G Kodali,0,0,,,,,,"",""
+ball,2,6.2,Brazil,L Cardoso,RMAM Avery,G Kodali,0,0,,,,,,"",""
+ball,2,6.3,Brazil,L Cardoso,RMAM Avery,G Kodali,0,0,,,,,,"",""
+ball,2,6.4,Brazil,L Cardoso,RMAM Avery,G Kodali,0,0,,,,,,"",""
+ball,2,6.5,Brazil,L Cardoso,RMAM Avery,G Kodali,0,0,,,,,,"",""
+ball,2,6.6,Brazil,L Cardoso,RMAM Avery,G Kodali,0,0,,,,,,"",""
+ball,2,7.1,Brazil,RMAM Avery,L Cardoso,RP Singh,0,0,,,,,,"",""
+ball,2,7.2,Brazil,RMAM Avery,L Cardoso,RP Singh,0,0,,,,,,"",""
+ball,2,7.3,Brazil,RMAM Avery,L Cardoso,RP Singh,0,0,,,,,,run out,L Cardoso
+ball,2,7.4,Brazil,RMAM Avery,MR Machado,RP Singh,0,0,,,,,,"",""
+ball,2,7.5,Brazil,RMAM Avery,MR Machado,RP Singh,0,0,,,,,,"",""
+ball,2,7.6,Brazil,RMAM Avery,MR Machado,RP Singh,0,0,,,,,,caught and bowled,RMAM Avery
+ball,2,8.1,Brazil,MR Machado,CS Nascimento,G Kodali,0,0,,,,,,"",""
+ball,2,8.2,Brazil,MR Machado,CS Nascimento,G Kodali,1,0,,,,,,"",""
+ball,2,8.3,Brazil,CS Nascimento,MR Machado,G Kodali,1,0,,,,,,"",""
+ball,2,8.4,Brazil,MR Machado,CS Nascimento,G Kodali,0,0,,,,,,"",""
+ball,2,8.5,Brazil,MR Machado,CS Nascimento,G Kodali,0,0,,,,,,"",""
+ball,2,8.6,Brazil,MR Machado,CS Nascimento,G Kodali,0,0,,,,,,"",""
+ball,2,9.1,Brazil,CS Nascimento,MR Machado,RP Singh,0,0,,,,,,"",""
+ball,2,9.2,Brazil,CS Nascimento,MR Machado,RP Singh,0,0,,,,,,stumped,CS Nascimento
+ball,2,9.3,Brazil,AC Sabino,MR Machado,RP Singh,0,0,,,,,,"",""
+ball,2,9.4,Brazil,AC Sabino,MR Machado,RP Singh,1,0,,,,,,"",""
+ball,2,9.5,Brazil,MR Machado,AC Sabino,RP Singh,0,0,,,,,,"",""
+ball,2,9.6,Brazil,MR Machado,AC Sabino,RP Singh,0,0,,,,,,"",""
+ball,2,10.1,Brazil,AC Sabino,MR Machado,S Immadi,0,0,,,,,,"",""
+ball,2,10.2,Brazil,AC Sabino,MR Machado,S Immadi,1,0,,,,,,"",""
+ball,2,10.3,Brazil,MR Machado,AC Sabino,S Immadi,0,0,,,,,,"",""
+ball,2,10.4,Brazil,MR Machado,AC Sabino,S Immadi,1,0,,,,,,"",""
+ball,2,10.5,Brazil,AC Sabino,MR Machado,S Immadi,0,0,,,,,,"",""
+ball,2,10.6,Brazil,AC Sabino,MR Machado,S Immadi,1,0,,,,,,"",""
+ball,2,11.1,Brazil,AC Sabino,MR Machado,RP Singh,0,0,,,,,,"",""
+ball,2,11.2,Brazil,AC Sabino,MR Machado,RP Singh,0,0,,,,,,"",""
+ball,2,11.3,Brazil,AC Sabino,MR Machado,RP Singh,2,0,,,,,,"",""
+ball,2,11.4,Brazil,AC Sabino,MR Machado,RP Singh,0,0,,,,,,"",""
+ball,2,11.5,Brazil,AC Sabino,MR Machado,RP Singh,1,0,,,,,,"",""
+ball,2,11.6,Brazil,MR Machado,AC Sabino,RP Singh,0,0,,,,,,"",""
+ball,2,12.1,Brazil,AC Sabino,MR Machado,S Immadi,0,0,,,,,,"",""
+ball,2,12.2,Brazil,AC Sabino,MR Machado,S Immadi,0,0,,,,,,run out,MR Machado
+ball,2,12.3,Brazil,MLG Silva,AC Sabino,S Immadi,0,0,,,,,,"",""
+ball,2,12.4,Brazil,MLG Silva,AC Sabino,S Immadi,0,0,,,,,,"",""
+ball,2,12.5,Brazil,MLG Silva,AC Sabino,S Immadi,0,0,,,,,,"",""
+ball,2,12.6,Brazil,MLG Silva,AC Sabino,S Immadi,0,0,,,,,,"",""
+ball,2,13.1,Brazil,AC Sabino,MLG Silva,AI Chudasama,0,0,,,,,,"",""
+ball,2,13.2,Brazil,AC Sabino,MLG Silva,AI Chudasama,0,0,,,,,,caught,AC Sabino
+ball,2,13.3,Brazil,NC Monteiro,MLG Silva,AI Chudasama,0,0,,,,,,"",""
+ball,2,13.4,Brazil,NC Monteiro,MLG Silva,AI Chudasama,0,0,,,,,,"",""
+ball,2,13.5,Brazil,NC Monteiro,MLG Silva,AI Chudasama,0,0,,,,,,"",""
+ball,2,13.6,Brazil,NC Monteiro,MLG Silva,AI Chudasama,0,0,,,,,,"",""
+ball,2,14.1,Brazil,MLG Silva,NC Monteiro,S Immadi,0,0,,,,,,"",""
+ball,2,14.2,Brazil,MLG Silva,NC Monteiro,S Immadi,1,0,,,,,,"",""
+ball,2,14.3,Brazil,NC Monteiro,MLG Silva,S Immadi,0,0,,,,,,"",""
+ball,2,14.4,Brazil,NC Monteiro,MLG Silva,S Immadi,0,0,,,,,,"",""
+ball,2,14.5,Brazil,NC Monteiro,MLG Silva,S Immadi,0,0,,,,,,"",""
+ball,2,14.6,Brazil,NC Monteiro,MLG Silva,S Immadi,0,0,,,,,,"",""
+ball,2,15.1,Brazil,MLG Silva,NC Monteiro,AI Chudasama,0,0,,,,,,"",""
+ball,2,15.2,Brazil,MLG Silva,NC Monteiro,AI Chudasama,0,0,,,,,,"",""
+ball,2,15.3,Brazil,MLG Silva,NC Monteiro,AI Chudasama,1,0,,,,,,"",""
+ball,2,15.4,Brazil,NC Monteiro,MLG Silva,AI Chudasama,0,0,,,,,,bowled,NC Monteiro
+ball,2,15.5,Brazil,M Ribeiro,MLG Silva,AI Chudasama,1,0,,,,,,"",""
+ball,2,15.6,Brazil,MLG Silva,M Ribeiro,AI Chudasama,0,0,,,,,,"",""
+ball,2,16.1,Brazil,M Ribeiro,MLG Silva,TG Norris,0,2,2,,,,,"",""
+ball,2,16.2,Brazil,MLG Silva,M Ribeiro,TG Norris,0,0,,,,,,"",""
+ball,2,16.3,Brazil,MLG Silva,M Ribeiro,TG Norris,0,0,,,,,,"",""
+ball,2,16.4,Brazil,MLG Silva,M Ribeiro,TG Norris,0,0,,,,,,"",""
+ball,2,16.5,Brazil,MLG Silva,M Ribeiro,TG Norris,0,1,1,,,,,"",""
+ball,2,16.6,Brazil,MLG Silva,M Ribeiro,TG Norris,2,0,,,,,,"",""
+ball,2,16.7,Brazil,MLG Silva,M Ribeiro,TG Norris,0,0,,,,,,"",""
+ball,2,16.8,Brazil,MLG Silva,M Ribeiro,TG Norris,1,0,,,,,,"",""
+ball,2,17.1,Brazil,MLG Silva,M Ribeiro,IM Vaghela,0,0,,,,,,"",""
+ball,2,17.2,Brazil,MLG Silva,M Ribeiro,IM Vaghela,0,0,,,,,,"",""
+ball,2,17.3,Brazil,MLG Silva,M Ribeiro,IM Vaghela,0,0,,,,,,"",""
+ball,2,17.4,Brazil,MLG Silva,M Ribeiro,IM Vaghela,1,0,,,,,,"",""
+ball,2,17.5,Brazil,M Ribeiro,MLG Silva,IM Vaghela,0,0,,,,,,"",""
+ball,2,17.6,Brazil,M Ribeiro,MLG Silva,IM Vaghela,0,0,,,,,,"",""
+ball,2,18.1,Brazil,MLG Silva,M Ribeiro,G Kodali,0,0,,,,,,"",""
+ball,2,18.2,Brazil,MLG Silva,M Ribeiro,G Kodali,1,0,,,,,,"",""
+ball,2,18.3,Brazil,M Ribeiro,MLG Silva,G Kodali,0,0,,,,,,caught,M Ribeiro
+ball,2,18.4,Brazil,L Moises,MLG Silva,G Kodali,0,0,,,,,,"",""
+ball,2,18.5,Brazil,L Moises,MLG Silva,G Kodali,0,0,,,,,,"",""
+ball,2,18.6,Brazil,L Moises,MLG Silva,G Kodali,0,1,1,,,,,"",""
+ball,2,18.7,Brazil,L Moises,MLG Silva,G Kodali,0,0,,,,,,"",""
+ball,2,19.1,Brazil,MLG Silva,L Moises,IM Vaghela,0,0,,,,,,stumped,MLG Silva

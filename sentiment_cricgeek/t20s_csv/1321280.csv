@@ -1,0 +1,259 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Isle of Man
+info,team,Italy
+info,gender,male
+info,season,2022
+info,date,2022/07/19
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,venue,Kerava National Cricket Ground
+info,city,Kerava
+info,toss_winner,Italy
+info,toss_decision,field
+info,player_of_match,M Campopiano
+info,umpire,Adriaan van den Dries
+info,umpire,Rizwan Akram
+info,reserve_umpire,Adnan Khan
+info,match_referee,GH Pienaar
+info,winner,Italy
+info,winner_wickets,7
+info,player,Isle of Man,EF Beard
+info,player,Isle of Man,N Knights
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,C Hartmann
+info,player,Isle of Man,J Clough
+info,player,Isle of Man,JA Burrows
+info,player,Isle of Man,D Jansen
+info,player,Isle of Man,MJ Ansell
+info,player,Isle of Man,CJ Langford
+info,player,Isle of Man,K Cawte
+info,player,Isle of Man,J Butler
+info,player,Italy,J Mosca
+info,player,Italy,BBJL Perera
+info,player,Italy,M Campopiano
+info,player,Italy,AJ Mosca
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,Manpreet Singh
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,HJ Manenti
+info,player,Italy,Bashar Khan
+info,player,Italy,Ali Hasan
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,Ali Hasan,cae17490
+info,registry,people,BBJL Perera,c8c9d60b
+info,registry,people,Bashar Khan,308ca4bd
+info,registry,people,C Hartmann,467c28f9
+info,registry,people,CJ Langford,3967b66f
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,D Jansen,c90346a0
+info,registry,people,EF Beard,68019a70
+info,registry,people,G Burrows,8bee668b
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Butler,efcb778e
+info,registry,people,J Clough,1f08084c
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burrows,dba54d8e
+info,registry,people,K Cawte,a2dd9236
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,MJ Ansell,6e60a792
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,N Knights,b0aadf4f
+info,registry,people,Rizwan Akram,b5346f1e
+ball,1,0.1,Isle of Man,EF Beard,N Knights,GK Berg,1,0,,,,,,"",""
+ball,1,0.2,Isle of Man,N Knights,EF Beard,GK Berg,0,0,,,,,,"",""
+ball,1,0.3,Isle of Man,N Knights,EF Beard,GK Berg,0,0,,,,,,"",""
+ball,1,0.4,Isle of Man,N Knights,EF Beard,GK Berg,0,0,,,,,,"",""
+ball,1,0.5,Isle of Man,N Knights,EF Beard,GK Berg,0,0,,,,,,"",""
+ball,1,0.6,Isle of Man,N Knights,EF Beard,GK Berg,0,0,,,,,,"",""
+ball,1,1.1,Isle of Man,EF Beard,N Knights,Ali Hasan,0,0,,,,,,"",""
+ball,1,1.2,Isle of Man,EF Beard,N Knights,Ali Hasan,0,0,,,,,,"",""
+ball,1,1.3,Isle of Man,EF Beard,N Knights,Ali Hasan,0,0,,,,,,"",""
+ball,1,1.4,Isle of Man,EF Beard,N Knights,Ali Hasan,1,0,,,,,,"",""
+ball,1,1.5,Isle of Man,N Knights,EF Beard,Ali Hasan,0,0,,,,,,"",""
+ball,1,1.6,Isle of Man,N Knights,EF Beard,Ali Hasan,1,0,,,,,,"",""
+ball,1,2.1,Isle of Man,N Knights,EF Beard,HJ Manenti,0,0,,,,,,lbw,N Knights
+ball,1,2.2,Isle of Man,G Burrows,EF Beard,HJ Manenti,0,0,,,,,,"",""
+ball,1,2.3,Isle of Man,G Burrows,EF Beard,HJ Manenti,0,0,,,,,,"",""
+ball,1,2.4,Isle of Man,G Burrows,EF Beard,HJ Manenti,0,0,,,,,,"",""
+ball,1,2.5,Isle of Man,G Burrows,EF Beard,HJ Manenti,0,0,,,,,,"",""
+ball,1,2.6,Isle of Man,G Burrows,EF Beard,HJ Manenti,0,0,,,,,,"",""
+ball,1,3.1,Isle of Man,EF Beard,G Burrows,Ali Hasan,2,0,,,,,,"",""
+ball,1,3.2,Isle of Man,EF Beard,G Burrows,Ali Hasan,4,0,,,,,,"",""
+ball,1,3.3,Isle of Man,EF Beard,G Burrows,Ali Hasan,1,0,,,,,,"",""
+ball,1,3.4,Isle of Man,G Burrows,EF Beard,Ali Hasan,1,0,,,,,,"",""
+ball,1,3.5,Isle of Man,EF Beard,G Burrows,Ali Hasan,1,0,,,,,,"",""
+ball,1,3.6,Isle of Man,G Burrows,EF Beard,Ali Hasan,0,0,,,,,,"",""
+ball,1,4.1,Isle of Man,EF Beard,G Burrows,GK Berg,2,0,,,,,,"",""
+ball,1,4.2,Isle of Man,EF Beard,G Burrows,GK Berg,0,0,,,,,,"",""
+ball,1,4.3,Isle of Man,EF Beard,G Burrows,GK Berg,2,0,,,,,,"",""
+ball,1,4.4,Isle of Man,EF Beard,G Burrows,GK Berg,2,0,,,,,,"",""
+ball,1,4.5,Isle of Man,EF Beard,G Burrows,GK Berg,0,0,,,,,,"",""
+ball,1,4.6,Isle of Man,EF Beard,G Burrows,GK Berg,2,0,,,,,,"",""
+ball,1,5.1,Isle of Man,G Burrows,EF Beard,HJ Manenti,1,0,,,,,,"",""
+ball,1,5.2,Isle of Man,EF Beard,G Burrows,HJ Manenti,1,0,,,,,,"",""
+ball,1,5.3,Isle of Man,G Burrows,EF Beard,HJ Manenti,1,0,,,,,,"",""
+ball,1,5.4,Isle of Man,EF Beard,G Burrows,HJ Manenti,0,0,,,,,,caught,EF Beard
+ball,1,5.5,Isle of Man,G Burrows,C Hartmann,HJ Manenti,4,0,,,,,,"",""
+ball,1,5.6,Isle of Man,G Burrows,C Hartmann,HJ Manenti,0,0,,,,,,"",""
+ball,1,6.1,Isle of Man,C Hartmann,G Burrows,GP Meade,0,1,1,,,,,"",""
+ball,1,6.2,Isle of Man,C Hartmann,G Burrows,GP Meade,2,0,,,,,,"",""
+ball,1,6.3,Isle of Man,C Hartmann,G Burrows,GP Meade,0,0,,,,,,"",""
+ball,1,6.4,Isle of Man,C Hartmann,G Burrows,GP Meade,4,0,,,,,,"",""
+ball,1,6.5,Isle of Man,C Hartmann,G Burrows,GP Meade,1,0,,,,,,"",""
+ball,1,6.6,Isle of Man,G Burrows,C Hartmann,GP Meade,0,0,,,,,,"",""
+ball,1,6.7,Isle of Man,G Burrows,C Hartmann,GP Meade,1,0,,,,,,"",""
+ball,1,7.1,Isle of Man,G Burrows,C Hartmann,Bashar Khan,1,0,,,,,,"",""
+ball,1,7.2,Isle of Man,C Hartmann,G Burrows,Bashar Khan,1,0,,,,,,"",""
+ball,1,7.3,Isle of Man,G Burrows,C Hartmann,Bashar Khan,1,0,,,,,,"",""
+ball,1,7.4,Isle of Man,C Hartmann,G Burrows,Bashar Khan,4,0,,,,,,"",""
+ball,1,7.5,Isle of Man,C Hartmann,G Burrows,Bashar Khan,0,0,,,,,,"",""
+ball,1,7.6,Isle of Man,C Hartmann,G Burrows,Bashar Khan,0,0,,,,,,"",""
+ball,1,8.1,Isle of Man,G Burrows,C Hartmann,Ali Hasan,1,0,,,,,,"",""
+ball,1,8.2,Isle of Man,C Hartmann,G Burrows,Ali Hasan,1,0,,,,,,"",""
+ball,1,8.3,Isle of Man,G Burrows,C Hartmann,Ali Hasan,1,0,,,,,,"",""
+ball,1,8.4,Isle of Man,C Hartmann,G Burrows,Ali Hasan,0,0,,,,,,"",""
+ball,1,8.5,Isle of Man,C Hartmann,G Burrows,Ali Hasan,1,0,,,,,,"",""
+ball,1,8.6,Isle of Man,G Burrows,C Hartmann,Ali Hasan,0,0,,,,,,"",""
+ball,1,9.1,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,9.2,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,9.3,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,9.4,Isle of Man,G Burrows,C Hartmann,CJPF Kalugamage,0,2,,,2,,,"",""
+ball,1,9.5,Isle of Man,G Burrows,C Hartmann,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,9.6,Isle of Man,G Burrows,C Hartmann,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,10.1,Isle of Man,G Burrows,C Hartmann,GK Berg,0,0,,,,,,"",""
+ball,1,10.2,Isle of Man,G Burrows,C Hartmann,GK Berg,1,0,,,,,,"",""
+ball,1,10.3,Isle of Man,C Hartmann,G Burrows,GK Berg,0,0,,,,,,"",""
+ball,1,10.4,Isle of Man,C Hartmann,G Burrows,GK Berg,1,0,,,,,,"",""
+ball,1,10.5,Isle of Man,G Burrows,C Hartmann,GK Berg,1,0,,,,,,"",""
+ball,1,10.6,Isle of Man,C Hartmann,G Burrows,GK Berg,0,2,2,,,,,"",""
+ball,1,10.7,Isle of Man,G Burrows,C Hartmann,GK Berg,4,0,,,,,,"",""
+ball,1,11.1,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,11.2,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,11.3,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,11.4,Isle of Man,G Burrows,C Hartmann,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,11.5,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,4,0,,,,,,"",""
+ball,1,11.6,Isle of Man,C Hartmann,G Burrows,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,12.1,Isle of Man,G Burrows,C Hartmann,HJ Manenti,0,0,,,,,,caught,G Burrows
+ball,1,12.2,Isle of Man,C Hartmann,J Clough,HJ Manenti,2,0,,,,,,"",""
+ball,1,12.3,Isle of Man,C Hartmann,J Clough,HJ Manenti,1,0,,,,,,"",""
+ball,1,12.4,Isle of Man,J Clough,C Hartmann,HJ Manenti,0,0,,,,,,"",""
+ball,1,12.5,Isle of Man,J Clough,C Hartmann,HJ Manenti,1,0,,,,,,"",""
+ball,1,12.6,Isle of Man,C Hartmann,J Clough,HJ Manenti,0,0,,,,,,"",""
+ball,1,13.1,Isle of Man,J Clough,C Hartmann,Bashar Khan,0,0,,,,,,"",""
+ball,1,13.2,Isle of Man,J Clough,C Hartmann,Bashar Khan,0,0,,,,,,"",""
+ball,1,13.3,Isle of Man,J Clough,C Hartmann,Bashar Khan,0,1,,,1,,,"",""
+ball,1,13.4,Isle of Man,C Hartmann,J Clough,Bashar Khan,2,0,,,,,,"",""
+ball,1,13.5,Isle of Man,C Hartmann,J Clough,Bashar Khan,0,0,,,,,,"",""
+ball,1,13.6,Isle of Man,C Hartmann,J Clough,Bashar Khan,2,0,,,,,,"",""
+ball,1,14.1,Isle of Man,J Clough,C Hartmann,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,14.2,Isle of Man,J Clough,C Hartmann,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,14.3,Isle of Man,J Clough,C Hartmann,CJPF Kalugamage,2,0,,,,,,"",""
+ball,1,14.4,Isle of Man,J Clough,C Hartmann,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,14.5,Isle of Man,C Hartmann,J Clough,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,14.6,Isle of Man,J Clough,C Hartmann,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,15.1,Isle of Man,J Clough,C Hartmann,Bashar Khan,2,0,,,,,,"",""
+ball,1,15.2,Isle of Man,J Clough,C Hartmann,Bashar Khan,2,0,,,,,,"",""
+ball,1,15.3,Isle of Man,J Clough,C Hartmann,Bashar Khan,0,0,,,,,,caught,J Clough
+ball,1,15.4,Isle of Man,JA Burrows,C Hartmann,Bashar Khan,1,0,,,,,,"",""
+ball,1,15.5,Isle of Man,C Hartmann,JA Burrows,Bashar Khan,1,0,,,,,,run out,JA Burrows
+ball,1,15.6,Isle of Man,D Jansen,C Hartmann,Bashar Khan,0,0,,,,,,"",""
+ball,1,16.1,Isle of Man,C Hartmann,D Jansen,CJPF Kalugamage,0,0,,,,,,caught,C Hartmann
+ball,1,16.2,Isle of Man,D Jansen,MJ Ansell,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,16.3,Isle of Man,MJ Ansell,D Jansen,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,16.4,Isle of Man,D Jansen,MJ Ansell,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,16.5,Isle of Man,MJ Ansell,D Jansen,CJPF Kalugamage,0,0,,,,,,"",""
+ball,1,16.6,Isle of Man,MJ Ansell,D Jansen,CJPF Kalugamage,1,0,,,,,,"",""
+ball,1,17.1,Isle of Man,MJ Ansell,D Jansen,Bashar Khan,0,0,,,,,,"",""
+ball,1,17.2,Isle of Man,MJ Ansell,D Jansen,Bashar Khan,0,0,,,,,,"",""
+ball,1,17.3,Isle of Man,MJ Ansell,D Jansen,Bashar Khan,1,0,,,,,,"",""
+ball,1,17.4,Isle of Man,D Jansen,MJ Ansell,Bashar Khan,0,0,,,,,,stumped,D Jansen
+ball,1,17.5,Isle of Man,CJ Langford,MJ Ansell,Bashar Khan,0,0,,,,,,"",""
+ball,1,17.6,Isle of Man,CJ Langford,MJ Ansell,Bashar Khan,0,0,,,,,,"",""
+ball,1,18.1,Isle of Man,MJ Ansell,CJ Langford,GK Berg,0,0,,,,,,"",""
+ball,1,18.2,Isle of Man,MJ Ansell,CJ Langford,GK Berg,1,0,,,,,,"",""
+ball,1,18.3,Isle of Man,CJ Langford,MJ Ansell,GK Berg,0,0,,,,,,"",""
+ball,1,18.4,Isle of Man,CJ Langford,MJ Ansell,GK Berg,1,0,,,,,,"",""
+ball,1,18.5,Isle of Man,MJ Ansell,CJ Langford,GK Berg,1,0,,,,,,"",""
+ball,1,18.6,Isle of Man,CJ Langford,MJ Ansell,GK Berg,4,0,,,,,,"",""
+ball,1,19.1,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,1,1,,,,,"",""
+ball,1,19.2,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,0,,,,,,"",""
+ball,1,19.3,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,0,,,,,,"",""
+ball,1,19.4,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,1,,1,,,,"",""
+ball,1,19.5,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,0,,,,,,"",""
+ball,1,19.6,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,1,,1,,,,"",""
+ball,1,19.7,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,0,,,,,,"",""
+ball,1,19.8,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,0,,,,,,"",""
+ball,1,19.9,Isle of Man,MJ Ansell,CJ Langford,HJ Manenti,0,0,,,,,,run out,CJ Langford
+ball,2,0.1,Italy,J Mosca,BBJL Perera,MJ Ansell,0,0,,,,,,"",""
+ball,2,0.2,Italy,J Mosca,BBJL Perera,MJ Ansell,1,0,,,,,,"",""
+ball,2,0.3,Italy,BBJL Perera,J Mosca,MJ Ansell,0,0,,,,,,"",""
+ball,2,0.4,Italy,BBJL Perera,J Mosca,MJ Ansell,0,0,,,,,,"",""
+ball,2,0.5,Italy,BBJL Perera,J Mosca,MJ Ansell,0,0,,,,,,"",""
+ball,2,0.6,Italy,BBJL Perera,J Mosca,MJ Ansell,4,0,,,,,,"",""
+ball,2,1.1,Italy,J Mosca,BBJL Perera,CJ Langford,1,0,,,,,,"",""
+ball,2,1.2,Italy,BBJL Perera,J Mosca,CJ Langford,0,0,,,,,,"",""
+ball,2,1.3,Italy,BBJL Perera,J Mosca,CJ Langford,6,0,,,,,,"",""
+ball,2,1.4,Italy,BBJL Perera,J Mosca,CJ Langford,4,0,,,,,,"",""
+ball,2,1.5,Italy,BBJL Perera,J Mosca,CJ Langford,1,0,,,,,,"",""
+ball,2,1.6,Italy,J Mosca,BBJL Perera,CJ Langford,0,0,,,,,,"",""
+ball,2,2.1,Italy,BBJL Perera,J Mosca,MJ Ansell,0,0,,,,,,"",""
+ball,2,2.2,Italy,BBJL Perera,J Mosca,MJ Ansell,1,0,,,,,,"",""
+ball,2,2.3,Italy,J Mosca,BBJL Perera,MJ Ansell,0,0,,,,,,"",""
+ball,2,2.4,Italy,J Mosca,BBJL Perera,MJ Ansell,4,0,,,,,,"",""
+ball,2,2.5,Italy,J Mosca,BBJL Perera,MJ Ansell,1,0,,,,,,"",""
+ball,2,2.6,Italy,BBJL Perera,J Mosca,MJ Ansell,0,0,,,,,,"",""
+ball,2,3.1,Italy,J Mosca,BBJL Perera,JA Burrows,0,0,,,,,,"",""
+ball,2,3.2,Italy,J Mosca,BBJL Perera,JA Burrows,0,0,,,,,,"",""
+ball,2,3.3,Italy,J Mosca,BBJL Perera,JA Burrows,2,0,,,,,,"",""
+ball,2,3.4,Italy,J Mosca,BBJL Perera,JA Burrows,1,0,,,,,,"",""
+ball,2,3.5,Italy,BBJL Perera,J Mosca,JA Burrows,0,0,,,,,,caught,BBJL Perera
+ball,2,3.6,Italy,M Campopiano,J Mosca,JA Burrows,1,0,,,,,,"",""
+ball,2,4.1,Italy,M Campopiano,J Mosca,MJ Ansell,1,0,,,,,,"",""
+ball,2,4.2,Italy,J Mosca,M Campopiano,MJ Ansell,4,0,,,,,,"",""
+ball,2,4.3,Italy,J Mosca,M Campopiano,MJ Ansell,1,0,,,,,,"",""
+ball,2,4.4,Italy,M Campopiano,J Mosca,MJ Ansell,0,0,,,,,,"",""
+ball,2,4.5,Italy,M Campopiano,J Mosca,MJ Ansell,0,0,,,,,,"",""
+ball,2,4.6,Italy,M Campopiano,J Mosca,MJ Ansell,1,0,,,,,,"",""
+ball,2,5.1,Italy,M Campopiano,J Mosca,JA Burrows,1,0,,,,,,"",""
+ball,2,5.2,Italy,J Mosca,M Campopiano,JA Burrows,4,0,,,,,,"",""
+ball,2,5.3,Italy,J Mosca,M Campopiano,JA Burrows,6,0,,,,,,"",""
+ball,2,5.4,Italy,J Mosca,M Campopiano,JA Burrows,4,0,,,,,,"",""
+ball,2,5.5,Italy,J Mosca,M Campopiano,JA Burrows,0,0,,,,,,caught,J Mosca
+ball,2,5.6,Italy,AJ Mosca,M Campopiano,JA Burrows,1,0,,,,,,"",""
+ball,2,6.1,Italy,AJ Mosca,M Campopiano,D Jansen,1,0,,,,,,"",""
+ball,2,6.2,Italy,M Campopiano,AJ Mosca,D Jansen,1,0,,,,,,"",""
+ball,2,6.3,Italy,AJ Mosca,M Campopiano,D Jansen,1,0,,,,,,"",""
+ball,2,6.4,Italy,M Campopiano,AJ Mosca,D Jansen,1,0,,,,,,"",""
+ball,2,6.5,Italy,AJ Mosca,M Campopiano,D Jansen,0,0,,,,,,"",""
+ball,2,6.6,Italy,AJ Mosca,M Campopiano,D Jansen,1,0,,,,,,"",""
+ball,2,7.1,Italy,AJ Mosca,M Campopiano,JA Burrows,1,0,,,,,,"",""
+ball,2,7.2,Italy,M Campopiano,AJ Mosca,JA Burrows,0,1,1,,,,,"",""
+ball,2,7.3,Italy,M Campopiano,AJ Mosca,JA Burrows,2,0,,,,,,"",""
+ball,2,7.4,Italy,M Campopiano,AJ Mosca,JA Burrows,0,2,,,2,,,"",""
+ball,2,7.5,Italy,M Campopiano,AJ Mosca,JA Burrows,1,0,,,,,,"",""
+ball,2,7.6,Italy,AJ Mosca,M Campopiano,JA Burrows,1,0,,,,,,"",""
+ball,2,7.7,Italy,M Campopiano,AJ Mosca,JA Burrows,2,0,,,,,,"",""
+ball,2,8.1,Italy,AJ Mosca,M Campopiano,D Jansen,4,0,,,,,,"",""
+ball,2,8.2,Italy,AJ Mosca,M Campopiano,D Jansen,0,0,,,,,,caught,AJ Mosca
+ball,2,8.3,Italy,M Campopiano,GP Meade,D Jansen,0,0,,,,,,"",""
+ball,2,8.4,Italy,M Campopiano,GP Meade,D Jansen,1,0,,,,,,"",""
+ball,2,8.5,Italy,GP Meade,M Campopiano,D Jansen,2,0,,,,,,"",""
+ball,2,8.6,Italy,GP Meade,M Campopiano,D Jansen,1,0,,,,,,"",""
+ball,2,9.1,Italy,GP Meade,M Campopiano,J Butler,2,0,,,,,,"",""
+ball,2,9.2,Italy,GP Meade,M Campopiano,J Butler,0,0,,,,,,"",""
+ball,2,9.3,Italy,GP Meade,M Campopiano,J Butler,1,0,,,,,,"",""
+ball,2,9.4,Italy,M Campopiano,GP Meade,J Butler,6,0,,,,,,"",""
+ball,2,9.5,Italy,M Campopiano,GP Meade,J Butler,0,1,1,,,,,"",""
+ball,2,9.6,Italy,M Campopiano,GP Meade,J Butler,1,0,,,,,,"",""
+ball,2,9.7,Italy,GP Meade,M Campopiano,J Butler,2,0,,,,,,"",""
+ball,2,10.1,Italy,M Campopiano,GP Meade,D Jansen,4,0,,,,,,"",""
+ball,2,10.2,Italy,M Campopiano,GP Meade,D Jansen,4,0,,,,,,"",""
+ball,2,10.3,Italy,M Campopiano,GP Meade,D Jansen,4,0,,,,,,"",""
+ball,2,10.4,Italy,M Campopiano,GP Meade,D Jansen,2,0,,,,,,"",""
+ball,2,10.5,Italy,M Campopiano,GP Meade,D Jansen,2,0,,,,,,"",""

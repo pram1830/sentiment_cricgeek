@@ -1,0 +1,288 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2017/18
+info,date,2018/02/10
+info,event,Trans-Tasman Twenty20 Trophy
+info,match_number,3
+info,venue,Melbourne Cricket Ground
+info,city,
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,KW Richardson
+info,umpire,CM Brown
+info,umpire,SJ Nogajski
+info,reserve_umpire,GA Abood
+info,tv_umpire,SD Fry
+info,match_referee,J Srinath
+info,winner,Australia
+info,winner_wickets,7
+info,player,England,JJ Roy
+info,player,England,AD Hales
+info,player,England,DJ Malan
+info,player,England,JM Vince
+info,player,England,JC Buttler
+info,player,England,SW Billings
+info,player,England,DJ Willey
+info,player,England,CJ Jordan
+info,player,England,LA Dawson
+info,player,England,AU Rashid
+info,player,England,TK Curran
+info,player,Australia,DA Warner
+info,player,Australia,DJM Short
+info,player,Australia,CA Lynn
+info,player,Australia,GJ Maxwell
+info,player,Australia,AJ Finch
+info,player,Australia,MP Stoinis
+info,player,Australia,AT Carey
+info,player,Australia,AC Agar
+info,player,Australia,AJ Tye
+info,player,Australia,KW Richardson
+info,player,Australia,B Stanlake
+info,registry,people,AC Agar,a2421394
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AT Carey,69d03465
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,B Stanlake,6834d1f2
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DJM Short,1a156c88
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TK Curran,e86754b2
+ball,1,0.1,England,JJ Roy,AD Hales,KW Richardson,2,0,,,,,,"",""
+ball,1,0.2,England,JJ Roy,AD Hales,KW Richardson,0,1,1,,,,,"",""
+ball,1,0.3,England,JJ Roy,AD Hales,KW Richardson,0,0,,,,,,"",""
+ball,1,0.4,England,JJ Roy,AD Hales,KW Richardson,1,0,,,,,,"",""
+ball,1,0.5,England,AD Hales,JJ Roy,KW Richardson,3,0,,,,,,"",""
+ball,1,0.6,England,JJ Roy,AD Hales,KW Richardson,0,0,,,,,,"",""
+ball,1,0.7,England,JJ Roy,AD Hales,KW Richardson,0,1,1,,,,,"",""
+ball,1,0.8,England,JJ Roy,AD Hales,KW Richardson,4,0,,,,,,"",""
+ball,1,1.1,England,AD Hales,JJ Roy,B Stanlake,0,0,,,,,,"",""
+ball,1,1.2,England,AD Hales,JJ Roy,B Stanlake,0,0,,,,,,caught,AD Hales
+ball,1,1.3,England,JJ Roy,DJ Malan,B Stanlake,1,0,,,,,,"",""
+ball,1,1.4,England,DJ Malan,JJ Roy,B Stanlake,0,0,,,,,,"",""
+ball,1,1.5,England,DJ Malan,JJ Roy,B Stanlake,0,0,,,,,,"",""
+ball,1,1.6,England,DJ Malan,JJ Roy,B Stanlake,0,1,1,,,,,"",""
+ball,1,1.7,England,DJ Malan,JJ Roy,B Stanlake,1,0,,,,,,"",""
+ball,1,2.1,England,DJ Malan,JJ Roy,KW Richardson,1,0,,,,,,"",""
+ball,1,2.2,England,JJ Roy,DJ Malan,KW Richardson,0,0,,,,,,caught,JJ Roy
+ball,1,2.3,England,JM Vince,DJ Malan,KW Richardson,1,0,,,,,,"",""
+ball,1,2.4,England,DJ Malan,JM Vince,KW Richardson,1,0,,,,,,"",""
+ball,1,2.5,England,JM Vince,DJ Malan,KW Richardson,4,0,,,,,,"",""
+ball,1,2.6,England,JM Vince,DJ Malan,KW Richardson,4,0,,,,,,"",""
+ball,1,3.1,England,DJ Malan,JM Vince,B Stanlake,0,0,,,,,,"",""
+ball,1,3.2,England,DJ Malan,JM Vince,B Stanlake,2,0,,,,,,"",""
+ball,1,3.3,England,DJ Malan,JM Vince,B Stanlake,1,0,,,,,,"",""
+ball,1,3.4,England,JM Vince,DJ Malan,B Stanlake,1,0,,,,,,"",""
+ball,1,3.5,England,DJ Malan,JM Vince,B Stanlake,4,0,,,,,,"",""
+ball,1,3.6,England,DJ Malan,JM Vince,B Stanlake,0,0,,,,,,run out,DJ Malan
+ball,1,4.1,England,JC Buttler,JM Vince,KW Richardson,0,0,,,,,,"",""
+ball,1,4.2,England,JC Buttler,JM Vince,KW Richardson,0,0,,,,,,"",""
+ball,1,4.3,England,JC Buttler,JM Vince,KW Richardson,0,0,,,,,,"",""
+ball,1,4.4,England,JC Buttler,JM Vince,KW Richardson,0,0,,,,,,"",""
+ball,1,4.5,England,JC Buttler,JM Vince,KW Richardson,1,0,,,,,,"",""
+ball,1,4.6,England,JM Vince,JC Buttler,KW Richardson,1,0,,,,,,"",""
+ball,1,5.1,England,JM Vince,JC Buttler,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.2,England,JC Buttler,JM Vince,MP Stoinis,0,0,,,,,,"",""
+ball,1,5.3,England,JC Buttler,JM Vince,MP Stoinis,0,0,,,,,,"",""
+ball,1,5.4,England,JC Buttler,JM Vince,MP Stoinis,4,0,,,,,,"",""
+ball,1,5.5,England,JC Buttler,JM Vince,MP Stoinis,0,0,,,,,,"",""
+ball,1,5.6,England,JC Buttler,JM Vince,MP Stoinis,1,0,,,,,,"",""
+ball,1,6.1,England,JC Buttler,JM Vince,AJ Tye,2,0,,,,,,"",""
+ball,1,6.2,England,JC Buttler,JM Vince,AJ Tye,1,0,,,,,,"",""
+ball,1,6.3,England,JM Vince,JC Buttler,AJ Tye,0,0,,,,,,"",""
+ball,1,6.4,England,JM Vince,JC Buttler,AJ Tye,0,0,,,,,,"",""
+ball,1,6.5,England,JM Vince,JC Buttler,AJ Tye,1,0,,,,,,"",""
+ball,1,6.6,England,JC Buttler,JM Vince,AJ Tye,3,0,,,,,,"",""
+ball,1,7.1,England,JC Buttler,JM Vince,AC Agar,0,0,,,,,,"",""
+ball,1,7.2,England,JC Buttler,JM Vince,AC Agar,1,0,,,,,,"",""
+ball,1,7.3,England,JM Vince,JC Buttler,AC Agar,0,0,,,,,,"",""
+ball,1,7.4,England,JM Vince,JC Buttler,AC Agar,0,0,,,,,,"",""
+ball,1,7.5,England,JM Vince,JC Buttler,AC Agar,1,0,,,,,,"",""
+ball,1,7.6,England,JC Buttler,JM Vince,AC Agar,2,0,,,,,,"",""
+ball,1,8.1,England,JM Vince,JC Buttler,MP Stoinis,1,0,,,,,,"",""
+ball,1,8.2,England,JC Buttler,JM Vince,MP Stoinis,1,0,,,,,,"",""
+ball,1,8.3,England,JM Vince,JC Buttler,MP Stoinis,0,0,,,,,,"",""
+ball,1,8.4,England,JM Vince,JC Buttler,MP Stoinis,1,0,,,,,,"",""
+ball,1,8.5,England,JC Buttler,JM Vince,MP Stoinis,4,0,,,,,,"",""
+ball,1,8.6,England,JC Buttler,JM Vince,MP Stoinis,1,0,,,,,,"",""
+ball,1,9.1,England,JC Buttler,JM Vince,AC Agar,1,0,,,,,,"",""
+ball,1,9.2,England,JM Vince,JC Buttler,AC Agar,1,0,,,,,,"",""
+ball,1,9.3,England,JC Buttler,JM Vince,AC Agar,0,0,,,,,,"",""
+ball,1,9.4,England,JC Buttler,JM Vince,AC Agar,1,0,,,,,,"",""
+ball,1,9.5,England,JM Vince,JC Buttler,AC Agar,2,0,,,,,,"",""
+ball,1,9.6,England,JM Vince,JC Buttler,AC Agar,1,0,,,,,,"",""
+ball,1,10.1,England,JM Vince,JC Buttler,AJ Tye,0,0,,,,,,"",""
+ball,1,10.2,England,JM Vince,JC Buttler,AJ Tye,1,0,,,,,,"",""
+ball,1,10.3,England,JC Buttler,JM Vince,AJ Tye,0,1,1,,,,,"",""
+ball,1,10.4,England,JC Buttler,JM Vince,AJ Tye,1,0,,,,,,"",""
+ball,1,10.5,England,JM Vince,JC Buttler,AJ Tye,0,0,,,,,,bowled,JM Vince
+ball,1,10.6,England,SW Billings,JC Buttler,AJ Tye,0,0,,,,,,"",""
+ball,1,10.7,England,SW Billings,JC Buttler,AJ Tye,0,0,,,,,,"",""
+ball,1,11.1,England,JC Buttler,SW Billings,B Stanlake,0,0,,,,,,"",""
+ball,1,11.2,England,JC Buttler,SW Billings,B Stanlake,0,0,,,,,,"",""
+ball,1,11.3,England,JC Buttler,SW Billings,B Stanlake,1,0,,,,,,"",""
+ball,1,11.4,England,SW Billings,JC Buttler,B Stanlake,0,0,,,,,,"",""
+ball,1,11.5,England,SW Billings,JC Buttler,B Stanlake,0,0,,,,,,"",""
+ball,1,11.6,England,SW Billings,JC Buttler,B Stanlake,1,0,,,,,,"",""
+ball,1,12.1,England,SW Billings,JC Buttler,MP Stoinis,0,0,,,,,,"",""
+ball,1,12.2,England,SW Billings,JC Buttler,MP Stoinis,0,0,,,,,,"",""
+ball,1,12.3,England,SW Billings,JC Buttler,MP Stoinis,1,0,,,,,,"",""
+ball,1,12.4,England,JC Buttler,SW Billings,MP Stoinis,0,0,,,,,,"",""
+ball,1,12.5,England,JC Buttler,SW Billings,MP Stoinis,1,0,,,,,,"",""
+ball,1,12.6,England,SW Billings,JC Buttler,MP Stoinis,0,0,,,,,,"",""
+ball,1,13.1,England,JC Buttler,SW Billings,AC Agar,1,0,,,,,,"",""
+ball,1,13.2,England,SW Billings,JC Buttler,AC Agar,1,0,,,,,,"",""
+ball,1,13.3,England,JC Buttler,SW Billings,AC Agar,1,0,,,,,,"",""
+ball,1,13.4,England,SW Billings,JC Buttler,AC Agar,6,0,,,,,,"",""
+ball,1,13.5,England,SW Billings,JC Buttler,AC Agar,1,0,,,,,,"",""
+ball,1,13.6,England,JC Buttler,SW Billings,AC Agar,0,0,,,,,,"",""
+ball,1,14.1,England,SW Billings,JC Buttler,MP Stoinis,0,0,,,,,,"",""
+ball,1,14.2,England,SW Billings,JC Buttler,MP Stoinis,1,0,,,,,,"",""
+ball,1,14.3,England,JC Buttler,SW Billings,MP Stoinis,0,0,,,,,,"",""
+ball,1,14.4,England,JC Buttler,SW Billings,MP Stoinis,0,2,,,2,,,"",""
+ball,1,14.5,England,JC Buttler,SW Billings,MP Stoinis,1,0,,,,,,"",""
+ball,1,14.6,England,SW Billings,JC Buttler,MP Stoinis,0,0,,,,,,"",""
+ball,1,15.1,England,JC Buttler,SW Billings,AC Agar,1,0,,,,,,"",""
+ball,1,15.2,England,SW Billings,JC Buttler,AC Agar,4,0,,,,,,"",""
+ball,1,15.3,England,SW Billings,JC Buttler,AC Agar,1,0,,,,,,"",""
+ball,1,15.4,England,JC Buttler,SW Billings,AC Agar,0,0,,,,,,"",""
+ball,1,15.5,England,JC Buttler,SW Billings,AC Agar,1,0,,,,,,"",""
+ball,1,15.6,England,SW Billings,JC Buttler,AC Agar,0,0,,,,,,"",""
+ball,1,16.1,England,JC Buttler,SW Billings,AJ Tye,1,0,,,,,,"",""
+ball,1,16.2,England,SW Billings,JC Buttler,AJ Tye,0,1,1,,,,,"",""
+ball,1,16.3,England,SW Billings,JC Buttler,AJ Tye,4,0,,,,,,"",""
+ball,1,16.4,England,SW Billings,JC Buttler,AJ Tye,1,0,,,,,,"",""
+ball,1,16.5,England,JC Buttler,SW Billings,AJ Tye,0,0,,,,,,"",""
+ball,1,16.6,England,JC Buttler,SW Billings,AJ Tye,2,0,,,,,,"",""
+ball,1,16.7,England,JC Buttler,SW Billings,AJ Tye,0,1,1,,,,,"",""
+ball,1,16.8,England,JC Buttler,SW Billings,AJ Tye,0,0,,,,,,"",""
+ball,1,17.1,England,SW Billings,JC Buttler,B Stanlake,4,0,,,,,,"",""
+ball,1,17.2,England,SW Billings,JC Buttler,B Stanlake,4,0,,,,,,"",""
+ball,1,17.3,England,SW Billings,JC Buttler,B Stanlake,0,0,,,,,,caught,SW Billings
+ball,1,17.4,England,JC Buttler,DJ Willey,B Stanlake,4,0,,,,,,"",""
+ball,1,17.5,England,JC Buttler,DJ Willey,B Stanlake,0,1,1,,,,,"",""
+ball,1,17.6,England,JC Buttler,DJ Willey,B Stanlake,0,0,,,,,,"",""
+ball,1,17.7,England,JC Buttler,DJ Willey,B Stanlake,2,0,,,,,,"",""
+ball,1,18.1,England,DJ Willey,JC Buttler,AJ Tye,1,0,,,,,,"",""
+ball,1,18.2,England,JC Buttler,DJ Willey,AJ Tye,1,0,,,,,,"",""
+ball,1,18.3,England,DJ Willey,JC Buttler,AJ Tye,4,0,,,,,,"",""
+ball,1,18.4,England,DJ Willey,JC Buttler,AJ Tye,0,0,,,,,,"",""
+ball,1,18.5,England,DJ Willey,JC Buttler,AJ Tye,1,0,,,,,,"",""
+ball,1,18.6,England,JC Buttler,DJ Willey,AJ Tye,2,0,,,,,,"",""
+ball,1,19.1,England,DJ Willey,JC Buttler,KW Richardson,4,0,,,,,,"",""
+ball,1,19.2,England,DJ Willey,JC Buttler,KW Richardson,0,0,,,,,,caught,DJ Willey
+ball,1,19.3,England,JC Buttler,CJ Jordan,KW Richardson,2,0,,,,,,"",""
+ball,1,19.4,England,JC Buttler,CJ Jordan,KW Richardson,1,0,,,,,,"",""
+ball,1,19.5,England,CJ Jordan,JC Buttler,KW Richardson,1,0,,,,,,"",""
+ball,1,19.6,England,JC Buttler,CJ Jordan,KW Richardson,0,0,,,,,,caught,JC Buttler
+ball,2,0.1,Australia,DA Warner,DJM Short,DJ Willey,0,0,,,,,,"",""
+ball,2,0.2,Australia,DA Warner,DJM Short,DJ Willey,2,0,,,,,,"",""
+ball,2,0.3,Australia,DA Warner,DJM Short,DJ Willey,0,0,,,,,,"",""
+ball,2,0.4,Australia,DA Warner,DJM Short,DJ Willey,0,0,,,,,,caught,DA Warner
+ball,2,0.5,Australia,CA Lynn,DJM Short,DJ Willey,0,0,,,,,,"",""
+ball,2,0.6,Australia,CA Lynn,DJM Short,DJ Willey,4,0,,,,,,"",""
+ball,2,1.1,Australia,DJM Short,CA Lynn,TK Curran,1,0,,,,,,"",""
+ball,2,1.2,Australia,CA Lynn,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,2,1.3,Australia,CA Lynn,DJM Short,TK Curran,0,0,,,,,,"",""
+ball,2,1.4,Australia,CA Lynn,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,2,1.5,Australia,CA Lynn,DJM Short,TK Curran,6,0,,,,,,"",""
+ball,2,1.6,Australia,CA Lynn,DJM Short,TK Curran,1,0,,,,,,"",""
+ball,2,2.1,Australia,CA Lynn,DJM Short,DJ Willey,0,5,5,,,,,"",""
+ball,2,2.2,Australia,CA Lynn,DJM Short,DJ Willey,0,1,,,,1,,"",""
+ball,2,2.3,Australia,DJM Short,CA Lynn,DJ Willey,0,0,,,,,,"",""
+ball,2,2.4,Australia,DJM Short,CA Lynn,DJ Willey,0,0,,,,,,"",""
+ball,2,2.5,Australia,DJM Short,CA Lynn,DJ Willey,0,0,,,,,,"",""
+ball,2,2.6,Australia,DJM Short,CA Lynn,DJ Willey,0,0,,,,,,"",""
+ball,2,2.7,Australia,DJM Short,CA Lynn,DJ Willey,0,0,,,,,,"",""
+ball,2,3.1,Australia,CA Lynn,DJM Short,CJ Jordan,1,0,,,,,,"",""
+ball,2,3.2,Australia,DJM Short,CA Lynn,CJ Jordan,0,1,1,,,,,"",""
+ball,2,3.3,Australia,DJM Short,CA Lynn,CJ Jordan,4,0,,,,,,"",""
+ball,2,3.4,Australia,DJM Short,CA Lynn,CJ Jordan,1,0,,,,,,"",""
+ball,2,3.5,Australia,CA Lynn,DJM Short,CJ Jordan,0,0,,,,,,"",""
+ball,2,3.6,Australia,CA Lynn,DJM Short,CJ Jordan,1,0,,,,,,"",""
+ball,2,3.7,Australia,DJM Short,CA Lynn,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.1,Australia,CA Lynn,DJM Short,DJ Willey,0,0,,,,,,"",""
+ball,2,4.2,Australia,CA Lynn,DJM Short,DJ Willey,0,0,,,,,,"",""
+ball,2,4.3,Australia,CA Lynn,DJM Short,DJ Willey,0,0,,,,,,"",""
+ball,2,4.4,Australia,CA Lynn,DJM Short,DJ Willey,6,0,,,,,,"",""
+ball,2,4.5,Australia,CA Lynn,DJM Short,DJ Willey,0,1,,,,1,,"",""
+ball,2,4.6,Australia,DJM Short,CA Lynn,DJ Willey,0,0,,,,,,"",""
+ball,2,5.1,Australia,CA Lynn,DJM Short,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.2,Australia,CA Lynn,DJM Short,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.3,Australia,CA Lynn,DJM Short,CJ Jordan,0,0,,,,,,caught,CA Lynn
+ball,2,5.4,Australia,DJM Short,GJ Maxwell,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.5,Australia,DJM Short,GJ Maxwell,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.6,Australia,GJ Maxwell,DJM Short,CJ Jordan,0,0,,,,,,"",""
+ball,2,6.1,Australia,DJM Short,GJ Maxwell,AU Rashid,1,0,,,,,,"",""
+ball,2,6.2,Australia,GJ Maxwell,DJM Short,AU Rashid,0,0,,,,,,"",""
+ball,2,6.3,Australia,GJ Maxwell,DJM Short,AU Rashid,1,0,,,,,,"",""
+ball,2,6.4,Australia,DJM Short,GJ Maxwell,AU Rashid,1,0,,,,,,"",""
+ball,2,6.5,Australia,GJ Maxwell,DJM Short,AU Rashid,1,0,,,,,,"",""
+ball,2,6.6,Australia,DJM Short,GJ Maxwell,AU Rashid,0,0,,,,,,"",""
+ball,2,7.1,Australia,GJ Maxwell,DJM Short,LA Dawson,1,0,,,,,,"",""
+ball,2,7.2,Australia,DJM Short,GJ Maxwell,LA Dawson,1,0,,,,,,"",""
+ball,2,7.3,Australia,GJ Maxwell,DJM Short,LA Dawson,0,0,,,,,,"",""
+ball,2,7.4,Australia,GJ Maxwell,DJM Short,LA Dawson,0,0,,,,,,"",""
+ball,2,7.5,Australia,GJ Maxwell,DJM Short,LA Dawson,1,0,,,,,,"",""
+ball,2,7.6,Australia,DJM Short,GJ Maxwell,LA Dawson,1,0,,,,,,"",""
+ball,2,8.1,Australia,DJM Short,GJ Maxwell,AU Rashid,0,0,,,,,,"",""
+ball,2,8.2,Australia,DJM Short,GJ Maxwell,AU Rashid,1,0,,,,,,"",""
+ball,2,8.3,Australia,GJ Maxwell,DJM Short,AU Rashid,0,0,,,,,,"",""
+ball,2,8.4,Australia,GJ Maxwell,DJM Short,AU Rashid,2,0,,,,,,"",""
+ball,2,8.5,Australia,GJ Maxwell,DJM Short,AU Rashid,0,0,,,,,,"",""
+ball,2,8.6,Australia,GJ Maxwell,DJM Short,AU Rashid,2,0,,,,,,"",""
+ball,2,9.1,Australia,DJM Short,GJ Maxwell,LA Dawson,4,0,,,,,,"",""
+ball,2,9.2,Australia,DJM Short,GJ Maxwell,LA Dawson,6,0,,,,,,"",""
+ball,2,9.3,Australia,DJM Short,GJ Maxwell,LA Dawson,2,0,,,,,,"",""
+ball,2,9.4,Australia,DJM Short,GJ Maxwell,LA Dawson,1,0,,,,,,"",""
+ball,2,9.5,Australia,GJ Maxwell,DJM Short,LA Dawson,0,0,,,,,,"",""
+ball,2,9.6,Australia,GJ Maxwell,DJM Short,LA Dawson,6,0,,,,,,"",""
+ball,2,10.1,Australia,DJM Short,GJ Maxwell,AU Rashid,1,0,,,,,,"",""
+ball,2,10.2,Australia,GJ Maxwell,DJM Short,AU Rashid,4,0,,,,,,"",""
+ball,2,10.3,Australia,GJ Maxwell,DJM Short,AU Rashid,4,0,,,,,,"",""
+ball,2,10.4,Australia,GJ Maxwell,DJM Short,AU Rashid,6,0,,,,,,"",""
+ball,2,10.5,Australia,GJ Maxwell,DJM Short,AU Rashid,4,0,,,,,,"",""
+ball,2,10.6,Australia,GJ Maxwell,DJM Short,AU Rashid,1,0,,,,,,"",""
+ball,2,11.1,Australia,GJ Maxwell,DJM Short,TK Curran,1,0,,,,,,"",""
+ball,2,11.2,Australia,DJM Short,GJ Maxwell,TK Curran,1,0,,,,,,"",""
+ball,2,11.3,Australia,GJ Maxwell,DJM Short,TK Curran,0,0,,,,,,"",""
+ball,2,11.4,Australia,GJ Maxwell,DJM Short,TK Curran,0,1,1,,,,,"",""
+ball,2,11.5,Australia,GJ Maxwell,DJM Short,TK Curran,2,0,,,,,,"",""
+ball,2,11.6,Australia,GJ Maxwell,DJM Short,TK Curran,1,0,,,,,,"",""
+ball,2,11.7,Australia,DJM Short,GJ Maxwell,TK Curran,1,0,,,,,,"",""
+ball,2,12.1,Australia,DJM Short,GJ Maxwell,AU Rashid,1,0,,,,,,"",""
+ball,2,12.2,Australia,GJ Maxwell,DJM Short,AU Rashid,1,0,,,,,,"",""
+ball,2,12.3,Australia,DJM Short,GJ Maxwell,AU Rashid,0,0,,,,,,"",""
+ball,2,12.4,Australia,DJM Short,GJ Maxwell,AU Rashid,0,0,,,,,,"",""
+ball,2,12.5,Australia,DJM Short,GJ Maxwell,AU Rashid,1,0,,,,,,"",""
+ball,2,12.6,Australia,GJ Maxwell,DJM Short,AU Rashid,0,1,1,,,,,"",""
+ball,2,12.7,Australia,GJ Maxwell,DJM Short,AU Rashid,1,0,,,,,,"",""
+ball,2,13.1,Australia,GJ Maxwell,DJM Short,CJ Jordan,0,0,,,,,,caught,GJ Maxwell
+ball,2,13.2,Australia,DJM Short,AJ Finch,CJ Jordan,0,0,,,,,,"",""
+ball,2,13.3,Australia,DJM Short,AJ Finch,CJ Jordan,1,0,,,,,,"",""
+ball,2,13.4,Australia,AJ Finch,DJM Short,CJ Jordan,0,0,,,,,,"",""
+ball,2,13.5,Australia,AJ Finch,DJM Short,CJ Jordan,4,0,,,,,,"",""
+ball,2,13.6,Australia,AJ Finch,DJM Short,CJ Jordan,4,0,,,,,,"",""
+ball,2,14.1,Australia,DJM Short,AJ Finch,DJ Willey,1,0,,,,,,"",""
+ball,2,14.2,Australia,AJ Finch,DJM Short,DJ Willey,6,0,,,,,,"",""
+ball,2,14.3,Australia,AJ Finch,DJM Short,DJ Willey,6,0,,,,,,"",""

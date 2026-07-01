@@ -1,0 +1,270 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Uganda
+info,gender,male
+info,season,2024/25
+info,date,2024/10/29
+info,event,Bahrain tour of Uganda
+info,match_number,2
+info,venue,Jinja Cricket Ground
+info,city,Jinja
+info,toss_winner,Bahrain
+info,toss_decision,bat
+info,player_of_match,Haider Butt
+info,winner,Uganda
+info,winner_wickets,8
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Shahbaz Badar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Imran Khan
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,R Obuya
+info,player,Uganda,SG Mangela
+info,player,Uganda,DM Nakrani
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,AR Ramjani
+info,player,Uganda,J Miyaji
+info,player,Uganda,F Achelam
+info,player,Uganda,C Kyewuta
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,J Baguma
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,J Baguma,8b46fc4f
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,Muhammad Salman,460fc0ba
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,Shahbaz Badar,23eedcd3
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+ball,1,0.1,Bahrain,Umer Imtiaz,Asif Ali,J Miyaji,0,0,,,,,,"",""
+ball,1,0.2,Bahrain,Umer Imtiaz,Asif Ali,J Miyaji,0,0,,,,,,"",""
+ball,1,0.3,Bahrain,Umer Imtiaz,Asif Ali,J Miyaji,1,0,,,,,,"",""
+ball,1,0.4,Bahrain,Asif Ali,Umer Imtiaz,J Miyaji,1,0,,,,,,"",""
+ball,1,0.5,Bahrain,Umer Imtiaz,Asif Ali,J Miyaji,0,1,,1,,,,"",""
+ball,1,0.6,Bahrain,Umer Imtiaz,Asif Ali,J Miyaji,0,0,,,,,,"",""
+ball,1,0.7,Bahrain,Umer Imtiaz,Asif Ali,J Miyaji,0,0,,,,,,"",""
+ball,1,1.1,Bahrain,Asif Ali,Umer Imtiaz,C Kyewuta,0,0,,,,,,"",""
+ball,1,1.2,Bahrain,Asif Ali,Umer Imtiaz,C Kyewuta,4,0,,,,,,"",""
+ball,1,1.3,Bahrain,Asif Ali,Umer Imtiaz,C Kyewuta,0,0,,,,,,"",""
+ball,1,1.4,Bahrain,Asif Ali,Umer Imtiaz,C Kyewuta,0,0,,,,,,"",""
+ball,1,1.5,Bahrain,Asif Ali,Umer Imtiaz,C Kyewuta,0,0,,,,,,caught,Asif Ali
+ball,1,1.6,Bahrain,Imran Anwar,Umer Imtiaz,C Kyewuta,0,0,,,,,,"",""
+ball,1,2.1,Bahrain,Umer Imtiaz,Imran Anwar,J Miyaji,0,0,,,,,,bowled,Umer Imtiaz
+ball,1,2.2,Bahrain,Sohail Ahmed,Imran Anwar,J Miyaji,0,0,,,,,,bowled,Sohail Ahmed
+ball,1,2.3,Bahrain,Shahbaz Badar,Imran Anwar,J Miyaji,0,0,,,,,,"",""
+ball,1,2.4,Bahrain,Shahbaz Badar,Imran Anwar,J Miyaji,0,1,,,,1,,"",""
+ball,1,2.5,Bahrain,Imran Anwar,Shahbaz Badar,J Miyaji,1,0,,,,,,"",""
+ball,1,2.6,Bahrain,Shahbaz Badar,Imran Anwar,J Miyaji,1,0,,,,,,"",""
+ball,1,3.1,Bahrain,Shahbaz Badar,Imran Anwar,C Kyewuta,1,0,,,,,,"",""
+ball,1,3.2,Bahrain,Imran Anwar,Shahbaz Badar,C Kyewuta,0,0,,,,,,"",""
+ball,1,3.3,Bahrain,Imran Anwar,Shahbaz Badar,C Kyewuta,0,0,,,,,,caught,Imran Anwar
+ball,1,3.4,Bahrain,Haider Butt,Shahbaz Badar,C Kyewuta,0,0,,,,,,"",""
+ball,1,3.5,Bahrain,Haider Butt,Shahbaz Badar,C Kyewuta,0,0,,,,,,"",""
+ball,1,3.6,Bahrain,Haider Butt,Shahbaz Badar,C Kyewuta,0,0,,,,,,"",""
+ball,1,4.1,Bahrain,Shahbaz Badar,Haider Butt,J Miyaji,0,1,1,,,,,"",""
+ball,1,4.2,Bahrain,Shahbaz Badar,Haider Butt,J Miyaji,1,0,,,,,,"",""
+ball,1,4.3,Bahrain,Haider Butt,Shahbaz Badar,J Miyaji,2,0,,,,,,"",""
+ball,1,4.4,Bahrain,Haider Butt,Shahbaz Badar,J Miyaji,0,0,,,,,,"",""
+ball,1,4.5,Bahrain,Haider Butt,Shahbaz Badar,J Miyaji,0,1,,1,,,,"",""
+ball,1,4.6,Bahrain,Haider Butt,Shahbaz Badar,J Miyaji,6,0,,,,,,"",""
+ball,1,4.7,Bahrain,Haider Butt,Shahbaz Badar,J Miyaji,1,0,,,,,,"",""
+ball,1,4.8,Bahrain,Shahbaz Badar,Haider Butt,J Miyaji,0,0,,,,,,"",""
+ball,1,5.1,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,0,0,,,,,,"",""
+ball,1,5.2,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,1,0,,,,,,"",""
+ball,1,5.3,Bahrain,Shahbaz Badar,Haider Butt,AR Ramjani,1,0,,,,,,"",""
+ball,1,5.4,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,4,0,,,,,,"",""
+ball,1,5.5,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,4,0,,,,,,"",""
+ball,1,5.6,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,0,0,,,,,,"",""
+ball,1,6.1,Bahrain,Shahbaz Badar,Haider Butt,DM Nakrani,1,0,,,,,,"",""
+ball,1,6.2,Bahrain,Haider Butt,Shahbaz Badar,DM Nakrani,0,0,,,,,,"",""
+ball,1,6.3,Bahrain,Haider Butt,Shahbaz Badar,DM Nakrani,3,0,,,,,,"",""
+ball,1,6.4,Bahrain,Shahbaz Badar,Haider Butt,DM Nakrani,0,0,,,,,,"",""
+ball,1,6.5,Bahrain,Shahbaz Badar,Haider Butt,DM Nakrani,1,0,,,,,,"",""
+ball,1,6.6,Bahrain,Haider Butt,Shahbaz Badar,DM Nakrani,1,0,,,,,,"",""
+ball,1,7.1,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,0,0,,,,,,"",""
+ball,1,7.2,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,2,0,,,,,,"",""
+ball,1,7.3,Bahrain,Haider Butt,Shahbaz Badar,AR Ramjani,1,0,,,,,,"",""
+ball,1,7.4,Bahrain,Shahbaz Badar,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,7.5,Bahrain,Shahbaz Badar,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,7.6,Bahrain,Shahbaz Badar,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,8.1,Bahrain,Haider Butt,Shahbaz Badar,H Ssenyondo,1,0,,,,,,"",""
+ball,1,8.2,Bahrain,Shahbaz Badar,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,8.3,Bahrain,Shahbaz Badar,Haider Butt,H Ssenyondo,1,0,,,,,,"",""
+ball,1,8.4,Bahrain,Haider Butt,Shahbaz Badar,H Ssenyondo,1,0,,,,,,"",""
+ball,1,8.5,Bahrain,Shahbaz Badar,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,8.6,Bahrain,Shahbaz Badar,Haider Butt,H Ssenyondo,0,0,,,,,,bowled,Shahbaz Badar
+ball,1,9.1,Bahrain,Haider Butt,Ahmer Bin Nisar,AR Ramjani,1,0,,,,,,"",""
+ball,1,9.2,Bahrain,Ahmer Bin Nisar,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,9.3,Bahrain,Ahmer Bin Nisar,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,9.4,Bahrain,Ahmer Bin Nisar,Haider Butt,AR Ramjani,1,0,,,,,,"",""
+ball,1,9.5,Bahrain,Haider Butt,Ahmer Bin Nisar,AR Ramjani,1,0,,,,,,"",""
+ball,1,9.6,Bahrain,Ahmer Bin Nisar,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,10.1,Bahrain,Haider Butt,Ahmer Bin Nisar,J Baguma,1,0,,,,,,"",""
+ball,1,10.2,Bahrain,Ahmer Bin Nisar,Haider Butt,J Baguma,1,0,,,,,,"",""
+ball,1,10.3,Bahrain,Haider Butt,Ahmer Bin Nisar,J Baguma,0,0,,,,,,"",""
+ball,1,10.4,Bahrain,Haider Butt,Ahmer Bin Nisar,J Baguma,1,0,,,,,,"",""
+ball,1,10.5,Bahrain,Ahmer Bin Nisar,Haider Butt,J Baguma,2,0,,,,,,"",""
+ball,1,10.6,Bahrain,Ahmer Bin Nisar,Haider Butt,J Baguma,1,0,,,,,,"",""
+ball,1,11.1,Bahrain,Ahmer Bin Nisar,Haider Butt,H Ssenyondo,6,0,,,,,,"",""
+ball,1,11.2,Bahrain,Ahmer Bin Nisar,Haider Butt,H Ssenyondo,0,0,,,,,,lbw,Ahmer Bin Nisar
+ball,1,11.3,Bahrain,Abdul Majid Abbasi,Haider Butt,H Ssenyondo,1,0,,,,,,"",""
+ball,1,11.4,Bahrain,Haider Butt,Abdul Majid Abbasi,H Ssenyondo,0,0,,,,,,"",""
+ball,1,11.5,Bahrain,Haider Butt,Abdul Majid Abbasi,H Ssenyondo,1,0,,,,,,"",""
+ball,1,11.6,Bahrain,Abdul Majid Abbasi,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,12.1,Bahrain,Haider Butt,Abdul Majid Abbasi,J Baguma,1,0,,,,,,"",""
+ball,1,12.2,Bahrain,Abdul Majid Abbasi,Haider Butt,J Baguma,0,0,,,,,,"",""
+ball,1,12.3,Bahrain,Abdul Majid Abbasi,Haider Butt,J Baguma,0,0,,,,,,caught,Abdul Majid Abbasi
+ball,1,12.4,Bahrain,Ali Dawood,Haider Butt,J Baguma,0,0,,,,,,"",""
+ball,1,12.5,Bahrain,Ali Dawood,Haider Butt,J Baguma,0,1,,,,1,,"",""
+ball,1,12.6,Bahrain,Haider Butt,Ali Dawood,J Baguma,0,0,,,,,,"",""
+ball,1,13.1,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,13.2,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,13.3,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,13.4,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,13.5,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,13.6,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,14.1,Bahrain,Haider Butt,Ali Dawood,J Baguma,0,0,,,,,,"",""
+ball,1,14.2,Bahrain,Haider Butt,Ali Dawood,J Baguma,6,0,,,,,,"",""
+ball,1,14.3,Bahrain,Haider Butt,Ali Dawood,J Baguma,4,0,,,,,,"",""
+ball,1,14.4,Bahrain,Haider Butt,Ali Dawood,J Baguma,0,0,,,,,,"",""
+ball,1,14.5,Bahrain,Haider Butt,Ali Dawood,J Baguma,1,0,,,,,,"",""
+ball,1,14.6,Bahrain,Ali Dawood,Haider Butt,J Baguma,0,0,,,,,,"",""
+ball,1,15.1,Bahrain,Haider Butt,Ali Dawood,H Ssenyondo,1,0,,,,,,"",""
+ball,1,15.2,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,0,0,,,,,,"",""
+ball,1,15.3,Bahrain,Ali Dawood,Haider Butt,H Ssenyondo,1,0,,,,,,"",""
+ball,1,15.4,Bahrain,Haider Butt,Ali Dawood,H Ssenyondo,0,0,,,,,,"",""
+ball,1,15.5,Bahrain,Haider Butt,Ali Dawood,H Ssenyondo,0,0,,,,,,"",""
+ball,1,15.6,Bahrain,Haider Butt,Ali Dawood,H Ssenyondo,1,0,,,,,,"",""
+ball,1,16.1,Bahrain,Haider Butt,Ali Dawood,AR Ramjani,1,0,,,,,,"",""
+ball,1,16.2,Bahrain,Ali Dawood,Haider Butt,AR Ramjani,0,0,,,,,,lbw,Ali Dawood
+ball,1,16.3,Bahrain,Rizwan Butt,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,16.4,Bahrain,Rizwan Butt,Haider Butt,AR Ramjani,1,0,,,,,,"",""
+ball,1,16.5,Bahrain,Haider Butt,Rizwan Butt,AR Ramjani,1,0,,,,,,"",""
+ball,1,16.6,Bahrain,Rizwan Butt,Haider Butt,AR Ramjani,0,0,,,,,,"",""
+ball,1,17.1,Bahrain,Haider Butt,Rizwan Butt,C Kyewuta,0,0,,,,,,"",""
+ball,1,17.2,Bahrain,Haider Butt,Rizwan Butt,C Kyewuta,4,0,,,,,,"",""
+ball,1,17.3,Bahrain,Haider Butt,Rizwan Butt,C Kyewuta,0,0,,,,,,"",""
+ball,1,17.4,Bahrain,Haider Butt,Rizwan Butt,C Kyewuta,2,0,,,,,,"",""
+ball,1,17.5,Bahrain,Haider Butt,Rizwan Butt,C Kyewuta,0,0,,,,,,caught,Haider Butt
+ball,1,17.6,Bahrain,Imran Khan,Rizwan Butt,C Kyewuta,1,0,,,,,,"",""
+ball,1,18.1,Bahrain,Imran Khan,Rizwan Butt,J Miyaji,0,1,1,,,,,"",""
+ball,1,18.2,Bahrain,Imran Khan,Rizwan Butt,J Miyaji,0,0,,,,,,bowled,Imran Khan
+ball,2,0.1,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.2,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,1,0,,,,,,"",""
+ball,2,0.3,Uganda,R Obuya,Raghav Dhawan,Ali Dawood,1,0,,,,,,"",""
+ball,2,0.4,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.5,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,0,0,,,,,,"",""
+ball,2,0.6,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,1,0,,,,,,"",""
+ball,2,1.1,Uganda,Raghav Dhawan,R Obuya,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,1.2,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.3,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.4,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.5,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,1.6,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,2.1,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,2,0,,,,,,"",""
+ball,2,2.2,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,1,0,,,,,,"",""
+ball,2,2.3,Uganda,R Obuya,Raghav Dhawan,Ali Dawood,2,0,,,,,,"",""
+ball,2,2.4,Uganda,R Obuya,Raghav Dhawan,Ali Dawood,1,0,,,,,,"",""
+ball,2,2.5,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,0,0,,,,,,"",""
+ball,2,2.6,Uganda,Raghav Dhawan,R Obuya,Ali Dawood,0,0,,,,,,"",""
+ball,2,3.1,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.2,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.3,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.4,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.5,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,3.6,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,4.1,Uganda,Raghav Dhawan,R Obuya,Rizwan Butt,4,0,,,,,,"",""
+ball,2,4.2,Uganda,Raghav Dhawan,R Obuya,Rizwan Butt,1,0,,,,,,"",""
+ball,2,4.3,Uganda,R Obuya,Raghav Dhawan,Rizwan Butt,0,0,,,,,,"",""
+ball,2,4.4,Uganda,R Obuya,Raghav Dhawan,Rizwan Butt,1,0,,,,,,"",""
+ball,2,4.5,Uganda,Raghav Dhawan,R Obuya,Rizwan Butt,4,0,,,,,,"",""
+ball,2,4.6,Uganda,Raghav Dhawan,R Obuya,Rizwan Butt,0,0,,,,,,"",""
+ball,2,5.1,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,5.2,Uganda,R Obuya,Raghav Dhawan,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,5.3,Uganda,Raghav Dhawan,R Obuya,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,5.4,Uganda,Raghav Dhawan,R Obuya,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,5.5,Uganda,Raghav Dhawan,R Obuya,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,5.6,Uganda,Raghav Dhawan,R Obuya,Abdul Majid Abbasi,4,0,,,,,,"",""
+ball,2,6.1,Uganda,R Obuya,Raghav Dhawan,Asif Ali,0,0,,,,,,"",""
+ball,2,6.2,Uganda,R Obuya,Raghav Dhawan,Asif Ali,0,0,,,,,,"",""
+ball,2,6.3,Uganda,R Obuya,Raghav Dhawan,Asif Ali,2,0,,,,,,"",""
+ball,2,6.4,Uganda,R Obuya,Raghav Dhawan,Asif Ali,1,0,,,,,,"",""
+ball,2,6.5,Uganda,Raghav Dhawan,R Obuya,Asif Ali,2,0,,,,,,"",""
+ball,2,6.6,Uganda,Raghav Dhawan,R Obuya,Asif Ali,0,0,,,,,,"",""
+ball,2,7.1,Uganda,R Obuya,Raghav Dhawan,Imran Anwar,0,1,1,,,,,"",""
+ball,2,7.2,Uganda,R Obuya,Raghav Dhawan,Imran Anwar,1,0,,,,,,"",""
+ball,2,7.3,Uganda,Raghav Dhawan,R Obuya,Imran Anwar,0,0,,,,,,lbw,Raghav Dhawan
+ball,2,7.4,Uganda,SG Mangela,R Obuya,Imran Anwar,0,0,,,,,,"",""
+ball,2,7.5,Uganda,SG Mangela,R Obuya,Imran Anwar,0,0,,,,,,"",""
+ball,2,7.6,Uganda,SG Mangela,R Obuya,Imran Anwar,4,0,,,,,,"",""
+ball,2,7.7,Uganda,SG Mangela,R Obuya,Imran Anwar,0,0,,,,,,"",""
+ball,2,8.1,Uganda,R Obuya,SG Mangela,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,8.2,Uganda,R Obuya,SG Mangela,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,8.3,Uganda,R Obuya,SG Mangela,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,8.4,Uganda,SG Mangela,R Obuya,Abdul Majid Abbasi,0,0,,,,,,"",""
+ball,2,8.5,Uganda,SG Mangela,R Obuya,Abdul Majid Abbasi,1,0,,,,,,"",""
+ball,2,8.6,Uganda,R Obuya,SG Mangela,Abdul Majid Abbasi,4,0,,,,,,"",""
+ball,2,9.1,Uganda,SG Mangela,R Obuya,Imran Anwar,1,0,,,,,,"",""
+ball,2,9.2,Uganda,R Obuya,SG Mangela,Imran Anwar,1,0,,,,,,"",""
+ball,2,9.3,Uganda,SG Mangela,R Obuya,Imran Anwar,0,0,,,,,,"",""
+ball,2,9.4,Uganda,SG Mangela,R Obuya,Imran Anwar,1,0,,,,,,"",""
+ball,2,9.5,Uganda,R Obuya,SG Mangela,Imran Anwar,1,0,,,,,,"",""
+ball,2,9.6,Uganda,SG Mangela,R Obuya,Imran Anwar,2,0,,,,,,"",""
+ball,2,10.1,Uganda,R Obuya,SG Mangela,Haider Butt,1,0,,,,,,"",""
+ball,2,10.2,Uganda,SG Mangela,R Obuya,Haider Butt,0,1,1,,,,,"",""
+ball,2,10.3,Uganda,SG Mangela,R Obuya,Haider Butt,0,0,,,,,,"",""
+ball,2,10.4,Uganda,SG Mangela,R Obuya,Haider Butt,6,0,,,,,,"",""
+ball,2,10.5,Uganda,SG Mangela,R Obuya,Haider Butt,1,0,,,,,,"",""
+ball,2,10.6,Uganda,R Obuya,SG Mangela,Haider Butt,1,0,,,,,,"",""
+ball,2,10.7,Uganda,SG Mangela,R Obuya,Haider Butt,1,0,,,,,,"",""
+ball,2,11.1,Uganda,SG Mangela,R Obuya,Imran Khan,1,0,,,,,,"",""
+ball,2,11.2,Uganda,R Obuya,SG Mangela,Imran Khan,2,0,,,,,,"",""
+ball,2,11.3,Uganda,R Obuya,SG Mangela,Imran Khan,0,0,,,,,,"",""
+ball,2,11.4,Uganda,R Obuya,SG Mangela,Imran Khan,1,0,,,,,,"",""
+ball,2,11.5,Uganda,SG Mangela,R Obuya,Imran Khan,0,0,,,,,,"",""
+ball,2,11.6,Uganda,SG Mangela,R Obuya,Imran Khan,4,0,,,,,,"",""
+ball,2,12.1,Uganda,R Obuya,SG Mangela,Asif Ali,1,0,,,,,,"",""
+ball,2,12.2,Uganda,SG Mangela,R Obuya,Asif Ali,2,0,,,,,,"",""
+ball,2,12.3,Uganda,SG Mangela,R Obuya,Asif Ali,0,0,,,,,,"",""
+ball,2,12.4,Uganda,SG Mangela,R Obuya,Asif Ali,2,0,,,,,,"",""
+ball,2,12.5,Uganda,SG Mangela,R Obuya,Asif Ali,4,0,,,,,,"",""
+ball,2,12.6,Uganda,SG Mangela,R Obuya,Asif Ali,1,0,,,,,,"",""
+ball,2,13.1,Uganda,SG Mangela,R Obuya,Ali Dawood,1,0,,,,,,"",""
+ball,2,13.2,Uganda,R Obuya,SG Mangela,Ali Dawood,1,0,,,,,,"",""
+ball,2,13.3,Uganda,SG Mangela,R Obuya,Ali Dawood,0,0,,,,,,"",""
+ball,2,13.4,Uganda,SG Mangela,R Obuya,Ali Dawood,0,0,,,,,,"",""
+ball,2,13.5,Uganda,SG Mangela,R Obuya,Imran Anwar,3,0,,,,,,"",""
+ball,2,13.6,Uganda,R Obuya,SG Mangela,Imran Anwar,0,0,,,,,,"",""
+ball,2,14.1,Uganda,SG Mangela,R Obuya,Rizwan Butt,0,0,,,,,,"",""
+ball,2,14.2,Uganda,SG Mangela,R Obuya,Rizwan Butt,1,0,,,,,,"",""
+ball,2,14.3,Uganda,R Obuya,SG Mangela,Rizwan Butt,0,0,,,,,,"",""
+ball,2,14.4,Uganda,R Obuya,SG Mangela,Rizwan Butt,0,0,,,,,,"",""
+ball,2,14.5,Uganda,R Obuya,SG Mangela,Rizwan Butt,1,0,,,,,,"",""
+ball,2,14.6,Uganda,SG Mangela,R Obuya,Rizwan Butt,0,0,,,,,,"",""
+ball,2,15.1,Uganda,R Obuya,SG Mangela,Asif Ali,3,0,,,,,,"",""
+ball,2,15.2,Uganda,SG Mangela,R Obuya,Asif Ali,0,0,,,,,,caught,SG Mangela
+ball,2,15.3,Uganda,DM Nakrani,R Obuya,Asif Ali,0,0,,,,,,"",""
+ball,2,15.4,Uganda,DM Nakrani,R Obuya,Asif Ali,6,0,,,,,,"",""

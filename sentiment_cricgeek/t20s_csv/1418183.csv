@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Thailand
+info,gender,male
+info,season,2023/24
+info,date,2024/02/02
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,4
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Thailand
+info,toss_decision,field
+info,player_of_match,R Sakurano-Thomas
+info,umpire,Hardeep Jadeja
+info,umpire,Osama Saad Alnadwi
+info,reserve_umpire,MV Krishnakumar
+info,tv_umpire,N Sivan
+info,match_referee,Iftikhar Ahmed
+info,winner,Japan
+info,winner_runs,46
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,KH Abe
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,A Patmore
+info,player,Japan,S Ravichandran
+info,player,Japan,I Takahashi
+info,player,Japan,W Miyauchi
+info,player,Japan,D Suzuki
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,R Drake
+info,player,Japan,P Kumbhare
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,AV Lazarus
+info,player,Thailand,N Nuntarach
+info,player,Thailand,J Coetzee
+info,player,Thailand,MK Thakur
+info,player,Thailand,C Pengkumta
+info,player,Thailand,P Desungnoen
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,registry,people,A Patmore,85119526
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Pengkumta,b3540b2a
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,Iftikhar Ahmed,973d561e
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,MV Krishnakumar,b99e3162
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Osama Saad Alnadwi,a7e2fb32
+info,registry,people,P Desungnoen,e80ed014
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,R Drake,57b3c398
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,Y Saranonnakkun,9c93c0a3
+ball,1,0.1,Japan,L Yamamoto-Lake,KH Abe,J Coetzee,0,1,1,,,,,"",""
+ball,1,0.2,Japan,L Yamamoto-Lake,KH Abe,J Coetzee,0,0,,,,,,"",""
+ball,1,0.3,Japan,L Yamamoto-Lake,KH Abe,J Coetzee,1,0,,,,,,"",""
+ball,1,0.4,Japan,KH Abe,L Yamamoto-Lake,J Coetzee,0,0,,,,,,"",""
+ball,1,0.5,Japan,KH Abe,L Yamamoto-Lake,J Coetzee,2,0,,,,,,"",""
+ball,1,0.6,Japan,KH Abe,L Yamamoto-Lake,J Coetzee,0,0,,,,,,"",""
+ball,1,0.7,Japan,KH Abe,L Yamamoto-Lake,J Coetzee,0,0,,,,,,"",""
+ball,1,1.1,Japan,L Yamamoto-Lake,KH Abe,MK Thakur,2,0,,,,,,"",""
+ball,1,1.2,Japan,L Yamamoto-Lake,KH Abe,MK Thakur,4,0,,,,,,"",""
+ball,1,1.3,Japan,L Yamamoto-Lake,KH Abe,MK Thakur,0,0,,,,,,lbw,L Yamamoto-Lake
+ball,1,1.4,Japan,K Kadowaki-Fleming,KH Abe,MK Thakur,0,0,,,,,,"",""
+ball,1,1.5,Japan,K Kadowaki-Fleming,KH Abe,MK Thakur,4,0,,,,,,"",""
+ball,1,1.6,Japan,K Kadowaki-Fleming,KH Abe,MK Thakur,6,0,,,,,,"",""
+ball,1,2.1,Japan,KH Abe,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,2.2,Japan,KH Abe,K Kadowaki-Fleming,J Coetzee,4,0,,,,,,"",""
+ball,1,2.3,Japan,KH Abe,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,caught and bowled,KH Abe
+ball,1,2.4,Japan,A Patmore,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,2.5,Japan,A Patmore,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,2.6,Japan,A Patmore,K Kadowaki-Fleming,J Coetzee,4,0,,,,,,"",""
+ball,1,3.1,Japan,K Kadowaki-Fleming,A Patmore,MK Thakur,0,1,1,,,,,"",""
+ball,1,3.2,Japan,K Kadowaki-Fleming,A Patmore,MK Thakur,0,0,,,,,,"",""
+ball,1,3.3,Japan,K Kadowaki-Fleming,A Patmore,MK Thakur,0,0,,,,,,"",""
+ball,1,3.4,Japan,K Kadowaki-Fleming,A Patmore,MK Thakur,6,0,,,,,,"",""
+ball,1,3.5,Japan,K Kadowaki-Fleming,A Patmore,MK Thakur,0,0,,,,,,"",""
+ball,1,3.6,Japan,K Kadowaki-Fleming,A Patmore,MK Thakur,4,0,,,,,,"",""
+ball,1,3.7,Japan,K Kadowaki-Fleming,A Patmore,MK Thakur,0,0,,,,,,"",""
+ball,1,4.1,Japan,A Patmore,K Kadowaki-Fleming,C Pengkumta,0,0,,,,,,"",""
+ball,1,4.2,Japan,A Patmore,K Kadowaki-Fleming,C Pengkumta,0,0,,,,,,"",""
+ball,1,4.3,Japan,A Patmore,K Kadowaki-Fleming,C Pengkumta,1,0,,,,,,"",""
+ball,1,4.4,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,4,0,,,,,,"",""
+ball,1,4.5,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,0,0,,,,,,"",""
+ball,1,4.6,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,4,0,,,,,,"",""
+ball,1,5.1,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,1,0,,,,,,"",""
+ball,1,5.2,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,4,0,,,,,,"",""
+ball,1,5.3,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,0,0,,,,,,"",""
+ball,1,5.4,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,1,0,,,,,,"",""
+ball,1,5.5,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,0,0,,,,,,"",""
+ball,1,5.6,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,0,0,,,,,,"",""
+ball,1,6.1,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,2,0,,,,,,"",""
+ball,1,6.2,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,1,0,,,,,,"",""
+ball,1,6.3,Japan,A Patmore,K Kadowaki-Fleming,C Pengkumta,1,0,,,,,,"",""
+ball,1,6.4,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,0,0,,,,,,"",""
+ball,1,6.5,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,4,0,,,,,,"",""
+ball,1,6.6,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,0,0,,,,,,"",""
+ball,1,7.1,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,0,0,,,,,,"",""
+ball,1,7.2,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,1,0,,,,,,"",""
+ball,1,7.3,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,1,0,,,,,,"",""
+ball,1,7.4,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,0,0,,,,,,"",""
+ball,1,7.5,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,1,0,,,,,,"",""
+ball,1,7.6,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,0,1,1,,,,,"",""
+ball,1,7.7,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,0,1,,,,1,,"",""
+ball,1,8.1,Japan,K Kadowaki-Fleming,A Patmore,N Senamontree,1,0,,,,,,"",""
+ball,1,8.2,Japan,A Patmore,K Kadowaki-Fleming,N Senamontree,2,0,,,,,,"",""
+ball,1,8.3,Japan,A Patmore,K Kadowaki-Fleming,N Senamontree,1,0,,,,,,"",""
+ball,1,8.4,Japan,K Kadowaki-Fleming,A Patmore,N Senamontree,1,0,,,,,,"",""
+ball,1,8.5,Japan,A Patmore,K Kadowaki-Fleming,N Senamontree,1,0,,,,,,"",""
+ball,1,8.6,Japan,K Kadowaki-Fleming,A Patmore,N Senamontree,0,0,,,,,,"",""
+ball,1,9.1,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,4,0,,,,,,"",""
+ball,1,9.2,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,1,0,,,,,,"",""
+ball,1,9.3,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,4,0,,,,,,"",""
+ball,1,9.4,Japan,K Kadowaki-Fleming,A Patmore,P Desungnoen,1,0,,,,,,"",""
+ball,1,9.5,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,0,0,,,,,,"",""
+ball,1,9.6,Japan,A Patmore,K Kadowaki-Fleming,P Desungnoen,4,0,,,,,,"",""
+ball,1,10.1,Japan,K Kadowaki-Fleming,A Patmore,N Senamontree,4,0,,,,,,"",""
+ball,1,10.2,Japan,K Kadowaki-Fleming,A Patmore,N Senamontree,0,0,,,,,,"",""
+ball,1,10.3,Japan,K Kadowaki-Fleming,A Patmore,N Senamontree,1,0,,,,,,"",""
+ball,1,10.4,Japan,A Patmore,K Kadowaki-Fleming,N Senamontree,0,0,,,,,,"",""
+ball,1,10.5,Japan,A Patmore,K Kadowaki-Fleming,N Senamontree,1,0,,,,,,"",""
+ball,1,10.6,Japan,K Kadowaki-Fleming,A Patmore,N Senamontree,0,0,,,,,,"",""
+ball,1,11.1,Japan,A Patmore,K Kadowaki-Fleming,Sarawut Maliwan,1,0,,,,,,"",""
+ball,1,11.2,Japan,K Kadowaki-Fleming,A Patmore,Sarawut Maliwan,1,0,,,,,,"",""
+ball,1,11.3,Japan,A Patmore,K Kadowaki-Fleming,Sarawut Maliwan,1,0,,,,,,"",""
+ball,1,11.4,Japan,K Kadowaki-Fleming,A Patmore,Sarawut Maliwan,6,0,,,,,,"",""
+ball,1,11.5,Japan,K Kadowaki-Fleming,A Patmore,Sarawut Maliwan,0,0,,,,,,"",""
+ball,1,11.6,Japan,K Kadowaki-Fleming,A Patmore,Sarawut Maliwan,1,0,,,,,,"",""
+ball,1,12.1,Japan,K Kadowaki-Fleming,A Patmore,J Coetzee,1,0,,,,,,"",""
+ball,1,12.2,Japan,A Patmore,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,12.3,Japan,A Patmore,K Kadowaki-Fleming,J Coetzee,4,0,,,,,,"",""
+ball,1,12.4,Japan,A Patmore,K Kadowaki-Fleming,J Coetzee,1,0,,,,,,"",""
+ball,1,12.5,Japan,K Kadowaki-Fleming,A Patmore,J Coetzee,0,0,,,,,,"",""
+ball,1,12.6,Japan,K Kadowaki-Fleming,A Patmore,J Coetzee,1,0,,,,,,"",""
+ball,1,13.1,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,0,1,1,,,,,"",""
+ball,1,13.2,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,1,0,,,,,,"",""
+ball,1,13.3,Japan,A Patmore,K Kadowaki-Fleming,C Pengkumta,1,0,,,,,,"",""
+ball,1,13.4,Japan,K Kadowaki-Fleming,A Patmore,C Pengkumta,1,0,,,,,,"",""
+ball,1,13.5,Japan,A Patmore,K Kadowaki-Fleming,C Pengkumta,0,0,,,,,,caught,A Patmore
+ball,1,13.6,Japan,S Ravichandran,K Kadowaki-Fleming,C Pengkumta,1,0,,,,,,"",""
+ball,1,13.7,Japan,K Kadowaki-Fleming,S Ravichandran,C Pengkumta,1,0,,,,,,"",""
+ball,1,14.1,Japan,K Kadowaki-Fleming,S Ravichandran,J Coetzee,0,0,,,,,,run out,S Ravichandran
+ball,1,14.2,Japan,K Kadowaki-Fleming,I Takahashi,J Coetzee,1,0,,,,,,"",""
+ball,1,14.3,Japan,I Takahashi,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,14.4,Japan,I Takahashi,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,14.5,Japan,I Takahashi,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,14.6,Japan,I Takahashi,K Kadowaki-Fleming,J Coetzee,0,0,,,,,,"",""
+ball,1,15.1,Japan,K Kadowaki-Fleming,I Takahashi,N Senamontree,1,0,,,,,,"",""
+ball,1,15.2,Japan,I Takahashi,K Kadowaki-Fleming,N Senamontree,1,0,,,,,,"",""
+ball,1,15.3,Japan,K Kadowaki-Fleming,I Takahashi,N Senamontree,1,0,,,,,,"",""
+ball,1,15.4,Japan,I Takahashi,K Kadowaki-Fleming,N Senamontree,4,0,,,,,,"",""
+ball,1,15.5,Japan,I Takahashi,K Kadowaki-Fleming,N Senamontree,4,0,,,,,,"",""
+ball,1,15.6,Japan,I Takahashi,K Kadowaki-Fleming,N Senamontree,1,0,,,,,,"",""
+ball,1,16.1,Japan,I Takahashi,K Kadowaki-Fleming,Sarawut Maliwan,1,0,,,,,,"",""
+ball,1,16.2,Japan,K Kadowaki-Fleming,I Takahashi,Sarawut Maliwan,4,0,,,,,,"",""
+ball,1,16.3,Japan,K Kadowaki-Fleming,I Takahashi,Sarawut Maliwan,1,0,,,,,,"",""
+ball,1,16.4,Japan,I Takahashi,K Kadowaki-Fleming,Sarawut Maliwan,0,0,,,,,,"",""
+ball,1,16.5,Japan,I Takahashi,K Kadowaki-Fleming,Sarawut Maliwan,4,0,,,,,,"",""
+ball,1,16.6,Japan,I Takahashi,K Kadowaki-Fleming,Sarawut Maliwan,4,0,,,,,,"",""
+ball,1,17.1,Japan,K Kadowaki-Fleming,I Takahashi,MK Thakur,0,0,,,,,,bowled,K Kadowaki-Fleming
+ball,1,17.2,Japan,W Miyauchi,I Takahashi,MK Thakur,1,0,,,,,,"",""
+ball,1,17.3,Japan,I Takahashi,W Miyauchi,MK Thakur,2,0,,,,,,"",""
+ball,1,17.4,Japan,I Takahashi,W Miyauchi,MK Thakur,0,0,,,,,,"",""
+ball,1,17.5,Japan,I Takahashi,W Miyauchi,MK Thakur,4,0,,,,,,"",""
+ball,1,17.6,Japan,I Takahashi,W Miyauchi,MK Thakur,0,0,,,,,,"",""
+ball,1,18.1,Japan,W Miyauchi,I Takahashi,C Pengkumta,1,0,,,,,,"",""
+ball,1,18.2,Japan,I Takahashi,W Miyauchi,C Pengkumta,0,0,,,,,,"",""
+ball,1,18.3,Japan,I Takahashi,W Miyauchi,C Pengkumta,0,0,,,,,,caught,I Takahashi
+ball,1,18.4,Japan,D Suzuki,W Miyauchi,C Pengkumta,1,0,,,,,,"",""
+ball,1,18.5,Japan,W Miyauchi,D Suzuki,C Pengkumta,1,0,,,,,,"",""
+ball,1,18.6,Japan,D Suzuki,W Miyauchi,C Pengkumta,2,0,,,,,,"",""
+ball,1,19.1,Japan,W Miyauchi,D Suzuki,MK Thakur,4,0,,,,,,"",""
+ball,1,19.2,Japan,W Miyauchi,D Suzuki,MK Thakur,0,0,,,,,,"",""
+ball,1,19.3,Japan,W Miyauchi,D Suzuki,MK Thakur,1,0,,,,,,"",""
+ball,1,19.4,Japan,D Suzuki,W Miyauchi,MK Thakur,4,0,,,,,,"",""
+ball,1,19.5,Japan,D Suzuki,W Miyauchi,MK Thakur,1,0,,,,,,"",""
+ball,1,19.6,Japan,W Miyauchi,D Suzuki,MK Thakur,1,0,,,,,,"",""
+ball,2,0.1,Thailand,AP Yadav,C Chatphaisan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,0.2,Thailand,AP Yadav,C Chatphaisan,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,0.3,Thailand,C Chatphaisan,AP Yadav,R Sakurano-Thomas,4,0,,,,,,"",""
+ball,2,0.4,Thailand,C Chatphaisan,AP Yadav,R Sakurano-Thomas,4,0,,,,,,"",""
+ball,2,0.5,Thailand,C Chatphaisan,AP Yadav,R Sakurano-Thomas,4,0,,,,,,"",""
+ball,2,0.6,Thailand,C Chatphaisan,AP Yadav,R Sakurano-Thomas,0,1,1,,,,,"",""
+ball,2,0.7,Thailand,C Chatphaisan,AP Yadav,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,1.1,Thailand,AP Yadav,C Chatphaisan,P Kumbhare,0,0,,,,,,"",""
+ball,2,1.2,Thailand,AP Yadav,C Chatphaisan,P Kumbhare,0,0,,,,,,"",""
+ball,2,1.3,Thailand,AP Yadav,C Chatphaisan,P Kumbhare,4,0,,,,,,"",""
+ball,2,1.4,Thailand,AP Yadav,C Chatphaisan,P Kumbhare,4,0,,,,,,"",""
+ball,2,1.5,Thailand,AP Yadav,C Chatphaisan,P Kumbhare,1,0,,,,,,"",""
+ball,2,1.6,Thailand,C Chatphaisan,AP Yadav,P Kumbhare,1,0,,,,,,"",""
+ball,2,2.1,Thailand,C Chatphaisan,AP Yadav,R Drake,4,0,,,,,,"",""
+ball,2,2.2,Thailand,C Chatphaisan,AP Yadav,R Drake,0,3,3,,,,,"",""
+ball,2,2.3,Thailand,C Chatphaisan,AP Yadav,R Drake,4,0,,,,,,"",""
+ball,2,2.4,Thailand,C Chatphaisan,AP Yadav,R Drake,0,0,,,,,,"",""
+ball,2,2.5,Thailand,C Chatphaisan,AP Yadav,R Drake,6,0,,,,,,"",""
+ball,2,2.6,Thailand,C Chatphaisan,AP Yadav,R Drake,4,0,,,,,,"",""
+ball,2,2.7,Thailand,C Chatphaisan,AP Yadav,R Drake,0,0,,,,,,"",""
+ball,2,3.1,Thailand,AP Yadav,C Chatphaisan,P Kumbhare,0,0,,,,,,"",""
+ball,2,3.2,Thailand,AP Yadav,C Chatphaisan,P Kumbhare,1,0,,,,,,"",""
+ball,2,3.3,Thailand,C Chatphaisan,AP Yadav,P Kumbhare,0,1,1,,,,,"",""
+ball,2,3.4,Thailand,C Chatphaisan,AP Yadav,P Kumbhare,0,0,,,,,,caught,C Chatphaisan
+ball,2,3.5,Thailand,Y Saranonnakkun,AP Yadav,P Kumbhare,1,0,,,,,,"",""
+ball,2,3.6,Thailand,AP Yadav,Y Saranonnakkun,P Kumbhare,1,0,,,,,,"",""
+ball,2,3.7,Thailand,Y Saranonnakkun,AP Yadav,P Kumbhare,0,0,,,,,,"",""
+ball,2,4.1,Thailand,AP Yadav,Y Saranonnakkun,R Sakurano-Thomas,0,0,,,,,,caught,AP Yadav
+ball,2,4.2,Thailand,AV Lazarus,Y Saranonnakkun,R Sakurano-Thomas,4,0,,,,,,"",""
+ball,2,4.3,Thailand,AV Lazarus,Y Saranonnakkun,R Sakurano-Thomas,4,0,,,,,,"",""
+ball,2,4.4,Thailand,AV Lazarus,Y Saranonnakkun,R Sakurano-Thomas,0,0,,,,,,caught,AV Lazarus
+ball,2,4.5,Thailand,N Nuntarach,Y Saranonnakkun,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,4.6,Thailand,N Nuntarach,Y Saranonnakkun,R Sakurano-Thomas,0,0,,,,,,caught,N Nuntarach
+ball,2,5.1,Thailand,Y Saranonnakkun,J Coetzee,P Kumbhare,4,0,,,,,,"",""
+ball,2,5.2,Thailand,Y Saranonnakkun,J Coetzee,P Kumbhare,1,0,,,,,,"",""
+ball,2,5.3,Thailand,J Coetzee,Y Saranonnakkun,P Kumbhare,0,0,,,,,,"",""
+ball,2,5.4,Thailand,J Coetzee,Y Saranonnakkun,P Kumbhare,4,0,,,,,,"",""
+ball,2,5.5,Thailand,J Coetzee,Y Saranonnakkun,P Kumbhare,2,0,,,,,,"",""
+ball,2,5.6,Thailand,J Coetzee,Y Saranonnakkun,P Kumbhare,0,0,,,,,,"",""
+ball,2,6.1,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,0,0,,,,,,"",""
+ball,2,6.2,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,1,0,,,,,,"",""
+ball,2,6.3,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,0,1,,,,1,,"",""
+ball,2,6.4,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,0,0,,,,,,"",""
+ball,2,6.5,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,1,0,,,,,,"",""
+ball,2,6.6,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,0,0,,,,,,"",""
+ball,2,7.1,Thailand,Y Saranonnakkun,J Coetzee,S Ravichandran,0,0,,,,,,"",""
+ball,2,7.2,Thailand,Y Saranonnakkun,J Coetzee,S Ravichandran,0,0,,,,,,"",""
+ball,2,7.3,Thailand,Y Saranonnakkun,J Coetzee,S Ravichandran,0,0,,,,,,"",""
+ball,2,7.4,Thailand,Y Saranonnakkun,J Coetzee,S Ravichandran,1,0,,,,,,"",""
+ball,2,7.5,Thailand,J Coetzee,Y Saranonnakkun,S Ravichandran,0,0,,,,,,"",""
+ball,2,7.6,Thailand,J Coetzee,Y Saranonnakkun,S Ravichandran,0,0,,,,,,"",""
+ball,2,8.1,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,1,0,,,,,,"",""
+ball,2,8.2,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,0,0,,,,,,"",""
+ball,2,8.3,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,0,0,,,,,,"",""
+ball,2,8.4,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,0,0,,,,,,"",""
+ball,2,8.5,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,0,0,,,,,,"",""
+ball,2,8.6,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,1,0,,,,,,"",""
+ball,2,9.1,Thailand,J Coetzee,Y Saranonnakkun,S Ravichandran,1,0,,,,,,"",""
+ball,2,9.2,Thailand,Y Saranonnakkun,J Coetzee,S Ravichandran,1,0,,,,,,"",""
+ball,2,9.3,Thailand,J Coetzee,Y Saranonnakkun,S Ravichandran,2,0,,,,,,"",""
+ball,2,9.4,Thailand,J Coetzee,Y Saranonnakkun,S Ravichandran,4,0,,,,,,"",""
+ball,2,9.5,Thailand,J Coetzee,Y Saranonnakkun,S Ravichandran,4,0,,,,,,"",""
+ball,2,9.6,Thailand,J Coetzee,Y Saranonnakkun,S Ravichandran,1,0,,,,,,"",""
+ball,2,10.1,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,1,0,,,,,,"",""
+ball,2,10.2,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,0,0,,,,,,"",""
+ball,2,10.3,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,1,0,,,,,,"",""
+ball,2,10.4,Thailand,J Coetzee,Y Saranonnakkun,I Takahashi,1,0,,,,,,"",""
+ball,2,10.5,Thailand,Y Saranonnakkun,J Coetzee,I Takahashi,0,0,,,,,,caught,Y Saranonnakkun
+ball,2,10.6,Thailand,MK Thakur,J Coetzee,I Takahashi,0,1,1,,,,,"",""
+ball,2,10.7,Thailand,MK Thakur,J Coetzee,I Takahashi,1,0,,,,,,"",""
+ball,2,11.1,Thailand,MK Thakur,J Coetzee,D Suzuki,0,0,,,,,,"",""
+ball,2,11.2,Thailand,MK Thakur,J Coetzee,D Suzuki,4,0,,,,,,"",""
+ball,2,11.3,Thailand,MK Thakur,J Coetzee,D Suzuki,1,0,,,,,,"",""
+ball,2,11.4,Thailand,J Coetzee,MK Thakur,D Suzuki,2,0,,,,,,"",""
+ball,2,11.5,Thailand,J Coetzee,MK Thakur,D Suzuki,1,0,,,,,,"",""
+ball,2,11.6,Thailand,MK Thakur,J Coetzee,D Suzuki,1,0,,,,,,"",""
+ball,2,12.1,Thailand,MK Thakur,J Coetzee,I Takahashi,0,0,,,,,,"",""
+ball,2,12.2,Thailand,MK Thakur,J Coetzee,I Takahashi,0,0,,,,,,caught,MK Thakur
+ball,2,12.3,Thailand,C Pengkumta,J Coetzee,I Takahashi,0,0,,,,,,"",""
+ball,2,12.4,Thailand,C Pengkumta,J Coetzee,I Takahashi,0,0,,,,,,caught,C Pengkumta
+ball,2,12.5,Thailand,P Desungnoen,J Coetzee,I Takahashi,1,0,,,,,,"",""
+ball,2,12.6,Thailand,J Coetzee,P Desungnoen,I Takahashi,0,0,,,,,,"",""
+ball,2,13.1,Thailand,P Desungnoen,J Coetzee,S Ravichandran,1,0,,,,,,"",""
+ball,2,13.2,Thailand,J Coetzee,P Desungnoen,S Ravichandran,1,0,,,,,,"",""
+ball,2,13.3,Thailand,P Desungnoen,J Coetzee,S Ravichandran,1,0,,,,,,"",""
+ball,2,13.4,Thailand,J Coetzee,P Desungnoen,S Ravichandran,0,0,,,,,,"",""
+ball,2,13.5,Thailand,J Coetzee,P Desungnoen,S Ravichandran,4,0,,,,,,"",""
+ball,2,13.6,Thailand,J Coetzee,P Desungnoen,S Ravichandran,1,0,,,,,,"",""
+ball,2,14.1,Thailand,J Coetzee,P Desungnoen,R Sakurano-Thomas,0,1,1,,,,,"",""
+ball,2,14.2,Thailand,J Coetzee,P Desungnoen,R Sakurano-Thomas,0,0,,,,,,caught,J Coetzee
+ball,2,14.3,Thailand,N Senamontree,P Desungnoen,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,14.4,Thailand,N Senamontree,P Desungnoen,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,14.5,Thailand,N Senamontree,P Desungnoen,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,14.6,Thailand,P Desungnoen,N Senamontree,R Sakurano-Thomas,0,0,,,,,,caught,P Desungnoen
+ball,2,14.7,Thailand,Sarawut Maliwan,N Senamontree,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,15.1,Thailand,N Senamontree,Sarawut Maliwan,D Suzuki,0,0,,,,,,"",""
+ball,2,15.2,Thailand,N Senamontree,Sarawut Maliwan,D Suzuki,2,0,,,,,,"",""
+ball,2,15.3,Thailand,N Senamontree,Sarawut Maliwan,D Suzuki,1,0,,,,,,"",""
+ball,2,15.4,Thailand,Sarawut Maliwan,N Senamontree,D Suzuki,1,0,,,,,,"",""
+ball,2,15.5,Thailand,N Senamontree,Sarawut Maliwan,D Suzuki,0,2,2,,,,,"",""
+ball,2,15.6,Thailand,Sarawut Maliwan,N Senamontree,D Suzuki,0,0,,,,,,"",""
+ball,2,15.7,Thailand,Sarawut Maliwan,N Senamontree,D Suzuki,0,0,,,,,,"",""
+ball,2,16.1,Thailand,N Senamontree,Sarawut Maliwan,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,16.2,Thailand,N Senamontree,Sarawut Maliwan,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,16.3,Thailand,Sarawut Maliwan,N Senamontree,R Sakurano-Thomas,0,0,,,,,,"",""
+ball,2,16.4,Thailand,Sarawut Maliwan,N Senamontree,R Sakurano-Thomas,1,0,,,,,,"",""
+ball,2,16.5,Thailand,N Senamontree,Sarawut Maliwan,R Sakurano-Thomas,0,0,,,,,,caught,N Senamontree

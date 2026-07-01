@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Malta
+info,gender,male
+info,season,2023
+info,date,2023/07/13
+info,event,Valletta Cup
+info,match_number,2
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Malta
+info,toss_decision,field
+info,player_of_match,Fanyan Mughal
+info,umpire,D Kalloe
+info,umpire,J Hilhorst
+info,reserve_umpire,S Fernando
+info,match_referee,Vinay Malhotra
+info,winner,Malta
+info,winner_wickets,6
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,E Jabarkhel
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,A Dhingra
+info,player,Luxembourg,A Nanda
+info,player,Malta,Zeeshan Khan
+info,player,Malta,Fanyan Mughal
+info,player,Malta,G Thakur
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,VP Thamotharam
+info,player,Malta,Waqas Ahmad
+info,player,Malta,B Arora
+info,player,Malta,E Mathew
+info,player,Malta,C Sudarsanan
+info,player,Malta,Washeem Abbas
+info,player,Malta,Yash Singh
+info,registry,people,A Dhingra,753ada66
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Nanda,704e0160
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,D Kalloe,baf1c7d1
+info,registry,people,E Jabarkhel,21526a38
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,G Thakur,93720584
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Hilhorst,8a1350d4
+info,registry,people,J Mees,ab1445ea
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,SKS Gill,faef026c
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,WJ Cope,fb34b0ec
+info,registry,people,Waqas Ahmad,82623a3a
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Yash Singh,7adc2d68
+info,registry,people,Zeeshan Khan,3f9b1a96
+ball,1,0.1,Luxembourg,TC Barker,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,0.2,Luxembourg,TC Barker,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,0.3,Luxembourg,TC Barker,SKS Gill,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,0.4,Luxembourg,SKS Gill,TC Barker,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,0.5,Luxembourg,SKS Gill,TC Barker,Fanyan Mughal,4,0,,,,,,"",""
+ball,1,0.6,Luxembourg,SKS Gill,TC Barker,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,1.1,Luxembourg,TC Barker,SKS Gill,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,1.2,Luxembourg,TC Barker,SKS Gill,Waqas Ahmad,0,0,,,,,,caught,TC Barker
+ball,1,1.3,Luxembourg,A Halbhavi,SKS Gill,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,1.4,Luxembourg,A Halbhavi,SKS Gill,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,1.5,Luxembourg,A Halbhavi,SKS Gill,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,1.6,Luxembourg,A Halbhavi,SKS Gill,Waqas Ahmad,0,0,,,,,,caught,A Halbhavi
+ball,1,2.1,Luxembourg,SKS Gill,J Mees,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,2.2,Luxembourg,SKS Gill,J Mees,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,2.3,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,2.4,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,1,1,,,,,"",""
+ball,1,2.5,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,2.6,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,2.7,Luxembourg,SKS Gill,J Mees,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,3.1,Luxembourg,J Mees,SKS Gill,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,3.2,Luxembourg,J Mees,SKS Gill,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,3.3,Luxembourg,J Mees,SKS Gill,Waqas Ahmad,1,0,,,,,,"",""
+ball,1,3.4,Luxembourg,SKS Gill,J Mees,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,3.5,Luxembourg,SKS Gill,J Mees,Waqas Ahmad,4,0,,,,,,"",""
+ball,1,3.6,Luxembourg,SKS Gill,J Mees,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,4.1,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,4.2,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,4.3,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,4.4,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,1,1,,,,,"",""
+ball,1,4.5,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,4.6,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,2,0,,,,,,"",""
+ball,1,4.7,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,5.1,Luxembourg,SKS Gill,J Mees,Washeem Abbas,0,0,,,,,,"",""
+ball,1,5.2,Luxembourg,SKS Gill,J Mees,Washeem Abbas,0,0,,,,,,"",""
+ball,1,5.3,Luxembourg,SKS Gill,J Mees,Washeem Abbas,0,0,,,,,,"",""
+ball,1,5.4,Luxembourg,SKS Gill,J Mees,Washeem Abbas,4,0,,,,,,"",""
+ball,1,5.5,Luxembourg,SKS Gill,J Mees,Washeem Abbas,1,0,,,,,,"",""
+ball,1,5.6,Luxembourg,J Mees,SKS Gill,Washeem Abbas,2,0,,,,,,"",""
+ball,1,6.1,Luxembourg,SKS Gill,J Mees,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,6.2,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,4,0,,,,,,"",""
+ball,1,6.3,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,6.4,Luxembourg,J Mees,SKS Gill,Fanyan Mughal,1,0,,,,,,"",""
+ball,1,6.5,Luxembourg,SKS Gill,J Mees,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,6.6,Luxembourg,SKS Gill,J Mees,Fanyan Mughal,0,0,,,,,,"",""
+ball,1,7.1,Luxembourg,J Mees,SKS Gill,Washeem Abbas,2,0,,,,,,"",""
+ball,1,7.2,Luxembourg,J Mees,SKS Gill,Washeem Abbas,1,0,,,,,,"",""
+ball,1,7.3,Luxembourg,SKS Gill,J Mees,Washeem Abbas,0,0,,,,,,"",""
+ball,1,7.4,Luxembourg,SKS Gill,J Mees,Washeem Abbas,2,0,,,,,,"",""
+ball,1,7.5,Luxembourg,SKS Gill,J Mees,Washeem Abbas,0,0,,,,,,"",""
+ball,1,7.6,Luxembourg,SKS Gill,J Mees,Washeem Abbas,0,0,,,,,,"",""
+ball,1,8.1,Luxembourg,J Mees,SKS Gill,Yash Singh,0,0,,,,,,"",""
+ball,1,8.2,Luxembourg,J Mees,SKS Gill,Yash Singh,1,0,,,,,,"",""
+ball,1,8.3,Luxembourg,SKS Gill,J Mees,Yash Singh,0,1,,,1,,,"",""
+ball,1,8.4,Luxembourg,J Mees,SKS Gill,Yash Singh,4,0,,,,,,"",""
+ball,1,8.5,Luxembourg,J Mees,SKS Gill,Yash Singh,4,0,,,,,,"",""
+ball,1,8.6,Luxembourg,J Mees,SKS Gill,Yash Singh,6,0,,,,,,"",""
+ball,1,9.1,Luxembourg,SKS Gill,J Mees,E Mathew,0,1,1,,,,,"",""
+ball,1,9.2,Luxembourg,SKS Gill,J Mees,E Mathew,4,0,,,,,,"",""
+ball,1,9.3,Luxembourg,SKS Gill,J Mees,E Mathew,1,0,,,,,,"",""
+ball,1,9.4,Luxembourg,J Mees,SKS Gill,E Mathew,1,0,,,,,,"",""
+ball,1,9.5,Luxembourg,SKS Gill,J Mees,E Mathew,1,0,,,,,,"",""
+ball,1,9.6,Luxembourg,J Mees,SKS Gill,E Mathew,1,0,,,,,,"",""
+ball,1,9.7,Luxembourg,SKS Gill,J Mees,E Mathew,1,0,,,,,,"",""
+ball,1,10.1,Luxembourg,SKS Gill,J Mees,Yash Singh,1,0,,,,,,"",""
+ball,1,10.2,Luxembourg,J Mees,SKS Gill,Yash Singh,1,0,,,,,,"",""
+ball,1,10.3,Luxembourg,SKS Gill,J Mees,Yash Singh,1,0,,,,,,"",""
+ball,1,10.4,Luxembourg,J Mees,SKS Gill,Yash Singh,6,0,,,,,,"",""
+ball,1,10.5,Luxembourg,J Mees,SKS Gill,Yash Singh,1,0,,,,,,"",""
+ball,1,10.6,Luxembourg,SKS Gill,J Mees,Yash Singh,1,0,,,,,,"",""
+ball,1,11.1,Luxembourg,SKS Gill,J Mees,E Mathew,2,0,,,,,,"",""
+ball,1,11.2,Luxembourg,SKS Gill,J Mees,E Mathew,1,0,,,,,,"",""
+ball,1,11.3,Luxembourg,J Mees,SKS Gill,E Mathew,0,1,1,,,,,"",""
+ball,1,11.4,Luxembourg,J Mees,SKS Gill,E Mathew,4,0,,,,,,"",""
+ball,1,11.5,Luxembourg,J Mees,SKS Gill,E Mathew,0,0,,,,,,"",""
+ball,1,11.6,Luxembourg,J Mees,SKS Gill,E Mathew,0,0,,,,,,"",""
+ball,1,11.7,Luxembourg,J Mees,SKS Gill,E Mathew,4,0,,,,,,"",""
+ball,1,12.1,Luxembourg,SKS Gill,J Mees,B Arora,6,0,,,,,,"",""
+ball,1,12.2,Luxembourg,SKS Gill,J Mees,B Arora,4,0,,,,,,"",""
+ball,1,12.3,Luxembourg,SKS Gill,J Mees,B Arora,0,0,,,,,,caught,SKS Gill
+ball,1,12.4,Luxembourg,V Vijh,J Mees,B Arora,1,0,,,,,,"",""
+ball,1,12.5,Luxembourg,J Mees,V Vijh,B Arora,6,0,,,,,,"",""
+ball,1,12.6,Luxembourg,J Mees,V Vijh,B Arora,0,2,2,,,,,"",""
+ball,1,12.7,Luxembourg,V Vijh,J Mees,B Arora,3,0,,,,,,"",""
+ball,1,13.1,Luxembourg,V Vijh,J Mees,Washeem Abbas,0,1,,,,1,,"",""
+ball,1,13.2,Luxembourg,J Mees,V Vijh,Washeem Abbas,0,0,,,,,,"",""
+ball,1,13.3,Luxembourg,J Mees,V Vijh,Washeem Abbas,1,0,,,,,,"",""
+ball,1,13.4,Luxembourg,V Vijh,J Mees,Washeem Abbas,1,0,,,,,,"",""
+ball,1,13.5,Luxembourg,J Mees,V Vijh,Washeem Abbas,6,0,,,,,,"",""
+ball,1,13.6,Luxembourg,J Mees,V Vijh,Washeem Abbas,3,0,,,,,,"",""
+ball,1,14.1,Luxembourg,J Mees,V Vijh,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,14.2,Luxembourg,J Mees,V Vijh,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,14.3,Luxembourg,J Mees,V Vijh,Waqas Ahmad,1,0,,,,,,"",""
+ball,1,14.4,Luxembourg,V Vijh,J Mees,Waqas Ahmad,1,0,,,,,,"",""
+ball,1,14.5,Luxembourg,J Mees,V Vijh,Waqas Ahmad,0,0,,,,,,"",""
+ball,1,14.6,Luxembourg,J Mees,V Vijh,Waqas Ahmad,2,0,,,,,,"",""
+ball,1,15.1,Luxembourg,V Vijh,J Mees,Washeem Abbas,0,0,,,,,,"",""
+ball,1,15.2,Luxembourg,V Vijh,J Mees,Washeem Abbas,1,0,,,,,,"",""
+ball,1,15.3,Luxembourg,J Mees,V Vijh,Washeem Abbas,4,0,,,,,,"",""
+ball,1,15.4,Luxembourg,J Mees,V Vijh,Washeem Abbas,1,0,,,,,,"",""
+ball,1,15.5,Luxembourg,V Vijh,J Mees,Washeem Abbas,3,0,,,,,,"",""
+ball,1,15.6,Luxembourg,J Mees,V Vijh,Washeem Abbas,0,0,,,,,,"",""
+ball,1,16.1,Luxembourg,V Vijh,J Mees,E Mathew,1,0,,,,,,"",""
+ball,1,16.2,Luxembourg,J Mees,V Vijh,E Mathew,0,1,1,,,,,"",""
+ball,1,16.3,Luxembourg,J Mees,V Vijh,E Mathew,1,0,,,,,,"",""
+ball,1,16.4,Luxembourg,V Vijh,J Mees,E Mathew,2,0,,,,,,"",""
+ball,1,16.5,Luxembourg,V Vijh,J Mees,E Mathew,1,0,,,,,,"",""
+ball,1,16.6,Luxembourg,J Mees,V Vijh,E Mathew,6,0,,,,,,"",""
+ball,1,16.7,Luxembourg,J Mees,V Vijh,E Mathew,0,0,,,,,,"",""
+ball,1,17.1,Luxembourg,V Vijh,J Mees,VP Thamotharam,0,1,1,,,,,"",""
+ball,1,17.2,Luxembourg,V Vijh,J Mees,VP Thamotharam,1,0,,,,,,"",""
+ball,1,17.3,Luxembourg,J Mees,V Vijh,VP Thamotharam,1,0,,,,,,"",""
+ball,1,17.4,Luxembourg,V Vijh,J Mees,VP Thamotharam,0,1,1,,,,,"",""
+ball,1,17.5,Luxembourg,V Vijh,J Mees,VP Thamotharam,2,0,,,,,,"",""
+ball,1,17.6,Luxembourg,V Vijh,J Mees,VP Thamotharam,4,0,,,,,,"",""
+ball,1,17.7,Luxembourg,V Vijh,J Mees,VP Thamotharam,2,0,,,,,,"",""
+ball,1,17.8,Luxembourg,V Vijh,J Mees,VP Thamotharam,1,0,,,,,,"",""
+ball,1,18.1,Luxembourg,V Vijh,J Mees,E Mathew,1,0,,,,,,"",""
+ball,1,18.2,Luxembourg,J Mees,V Vijh,E Mathew,6,0,,,,,,"",""
+ball,1,18.3,Luxembourg,J Mees,V Vijh,E Mathew,0,0,,,,,,caught,J Mees
+ball,1,18.4,Luxembourg,E Jabarkhel,V Vijh,E Mathew,1,0,,,,,,"",""
+ball,1,18.5,Luxembourg,V Vijh,E Jabarkhel,E Mathew,0,0,,,,,,"",""
+ball,1,18.6,Luxembourg,V Vijh,E Jabarkhel,E Mathew,1,0,,,,,,"",""
+ball,1,19.1,Luxembourg,V Vijh,E Jabarkhel,Waqas Ahmad,1,0,,,,,,run out,E Jabarkhel
+ball,1,19.2,Luxembourg,V Vijh,WJ Cope,Waqas Ahmad,2,0,,,,,,"",""
+ball,1,19.3,Luxembourg,V Vijh,WJ Cope,Waqas Ahmad,4,0,,,,,,"",""
+ball,1,19.4,Luxembourg,V Vijh,WJ Cope,Waqas Ahmad,0,1,,,1,,,"",""
+ball,1,19.5,Luxembourg,WJ Cope,V Vijh,Waqas Ahmad,0,0,,,,,,caught,WJ Cope
+ball,1,19.6,Luxembourg,J Barker,V Vijh,Waqas Ahmad,2,0,,,,,,"",""
+ball,2,0.1,Malta,Zeeshan Khan,Fanyan Mughal,A Nanda,4,0,,,,,,"",""
+ball,2,0.2,Malta,Zeeshan Khan,Fanyan Mughal,A Nanda,0,0,,,,,,"",""
+ball,2,0.3,Malta,Zeeshan Khan,Fanyan Mughal,A Nanda,0,0,,,,,,"",""
+ball,2,0.4,Malta,Zeeshan Khan,Fanyan Mughal,A Nanda,2,0,,,,,,"",""
+ball,2,0.5,Malta,Zeeshan Khan,Fanyan Mughal,A Nanda,4,0,,,,,,"",""
+ball,2,0.6,Malta,Zeeshan Khan,Fanyan Mughal,A Nanda,4,0,,,,,,"",""
+ball,2,1.1,Malta,Fanyan Mughal,Zeeshan Khan,E Jabarkhel,0,1,1,,,,,"",""
+ball,2,1.2,Malta,Fanyan Mughal,Zeeshan Khan,E Jabarkhel,1,0,,,,,,"",""
+ball,2,1.3,Malta,Zeeshan Khan,Fanyan Mughal,E Jabarkhel,0,0,,,,,,"",""
+ball,2,1.4,Malta,Zeeshan Khan,Fanyan Mughal,E Jabarkhel,0,0,,,,,,"",""
+ball,2,1.5,Malta,Zeeshan Khan,Fanyan Mughal,E Jabarkhel,0,0,,,,,,"",""
+ball,2,1.6,Malta,Zeeshan Khan,Fanyan Mughal,E Jabarkhel,1,0,,,,,,"",""
+ball,2,1.7,Malta,Fanyan Mughal,Zeeshan Khan,E Jabarkhel,4,0,,,,,,"",""
+ball,2,2.1,Malta,Zeeshan Khan,Fanyan Mughal,M Dixit,0,0,,,,,,"",""
+ball,2,2.2,Malta,Zeeshan Khan,Fanyan Mughal,M Dixit,0,1,,,,1,,"",""
+ball,2,2.3,Malta,Fanyan Mughal,Zeeshan Khan,M Dixit,1,0,,,,,,"",""
+ball,2,2.4,Malta,Zeeshan Khan,Fanyan Mughal,M Dixit,4,0,,,,,,"",""
+ball,2,2.5,Malta,Zeeshan Khan,Fanyan Mughal,M Dixit,0,0,,,,,,"",""
+ball,2,2.6,Malta,Zeeshan Khan,Fanyan Mughal,M Dixit,0,0,,,,,,bowled,Zeeshan Khan
+ball,2,3.1,Malta,Fanyan Mughal,G Thakur,E Jabarkhel,0,0,,,,,,"",""
+ball,2,3.2,Malta,Fanyan Mughal,G Thakur,E Jabarkhel,4,0,,,,,,"",""
+ball,2,3.3,Malta,Fanyan Mughal,G Thakur,E Jabarkhel,6,0,,,,,,"",""
+ball,2,3.4,Malta,Fanyan Mughal,G Thakur,E Jabarkhel,0,0,,,,,,"",""
+ball,2,3.5,Malta,Fanyan Mughal,G Thakur,E Jabarkhel,0,1,1,,,,,"",""
+ball,2,3.6,Malta,Fanyan Mughal,G Thakur,E Jabarkhel,0,0,,,,,,"",""
+ball,2,3.7,Malta,Fanyan Mughal,G Thakur,E Jabarkhel,0,0,,,,,,"",""
+ball,2,4.1,Malta,G Thakur,Fanyan Mughal,A Nanda,0,0,,,,,,"",""
+ball,2,4.2,Malta,G Thakur,Fanyan Mughal,A Nanda,2,0,,,,,,"",""
+ball,2,4.3,Malta,G Thakur,Fanyan Mughal,A Nanda,4,0,,,,,,"",""
+ball,2,4.4,Malta,G Thakur,Fanyan Mughal,A Nanda,0,0,,,,,,"",""
+ball,2,4.5,Malta,G Thakur,Fanyan Mughal,A Nanda,2,0,,,,,,"",""
+ball,2,4.6,Malta,G Thakur,Fanyan Mughal,A Nanda,1,0,,,,,,"",""
+ball,2,5.1,Malta,G Thakur,Fanyan Mughal,M Dixit,0,0,,,,,,"",""
+ball,2,5.2,Malta,G Thakur,Fanyan Mughal,M Dixit,0,1,1,,,,,"",""
+ball,2,5.3,Malta,G Thakur,Fanyan Mughal,M Dixit,0,0,,,,,,caught,G Thakur
+ball,2,5.4,Malta,Aaftab Alam Khan,Fanyan Mughal,M Dixit,1,0,,,,,,"",""
+ball,2,5.5,Malta,Fanyan Mughal,Aaftab Alam Khan,M Dixit,1,0,,,,,,"",""
+ball,2,5.6,Malta,Aaftab Alam Khan,Fanyan Mughal,M Dixit,0,0,,,,,,"",""
+ball,2,5.7,Malta,Aaftab Alam Khan,Fanyan Mughal,M Dixit,0,0,,,,,,"",""
+ball,2,6.1,Malta,Fanyan Mughal,Aaftab Alam Khan,A Nanda,6,0,,,,,,"",""
+ball,2,6.2,Malta,Fanyan Mughal,Aaftab Alam Khan,A Nanda,1,0,,,,,,"",""
+ball,2,6.3,Malta,Aaftab Alam Khan,Fanyan Mughal,A Nanda,1,0,,,,,,"",""
+ball,2,6.4,Malta,Fanyan Mughal,Aaftab Alam Khan,A Nanda,1,0,,,,,,"",""
+ball,2,6.5,Malta,Aaftab Alam Khan,Fanyan Mughal,A Nanda,0,0,,,,,,"",""
+ball,2,6.6,Malta,Aaftab Alam Khan,Fanyan Mughal,A Nanda,0,0,,,,,,"",""
+ball,2,7.1,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,0,0,,,,,,"",""
+ball,2,7.2,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,4,0,,,,,,"",""
+ball,2,7.3,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,0,1,1,,,,,"",""
+ball,2,7.4,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,0,1,,,,1,,"",""
+ball,2,7.5,Malta,Aaftab Alam Khan,Fanyan Mughal,A Dhingra,1,0,,,,,,"",""
+ball,2,7.6,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,2,0,,,,,,"",""
+ball,2,7.7,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,4,0,,,,,,"",""
+ball,2,8.1,Malta,Aaftab Alam Khan,Fanyan Mughal,SKS Gill,0,1,1,,,,,"",""
+ball,2,8.2,Malta,Aaftab Alam Khan,Fanyan Mughal,SKS Gill,0,1,1,,,,,"",""
+ball,2,8.3,Malta,Aaftab Alam Khan,Fanyan Mughal,SKS Gill,1,0,,,,,,"",""
+ball,2,8.4,Malta,Fanyan Mughal,Aaftab Alam Khan,SKS Gill,0,0,,,,,,"",""
+ball,2,8.5,Malta,Fanyan Mughal,Aaftab Alam Khan,SKS Gill,1,0,,,,,,"",""
+ball,2,8.6,Malta,Aaftab Alam Khan,Fanyan Mughal,SKS Gill,1,0,,,,,,"",""
+ball,2,8.7,Malta,Fanyan Mughal,Aaftab Alam Khan,SKS Gill,6,0,,,,,,"",""
+ball,2,8.8,Malta,Fanyan Mughal,Aaftab Alam Khan,SKS Gill,1,0,,,,,,"",""
+ball,2,9.1,Malta,Fanyan Mughal,Aaftab Alam Khan,M Dixit,0,0,,,,,,"",""
+ball,2,9.2,Malta,Fanyan Mughal,Aaftab Alam Khan,M Dixit,2,0,,,,,,"",""
+ball,2,9.3,Malta,Fanyan Mughal,Aaftab Alam Khan,M Dixit,6,0,,,,,,"",""
+ball,2,9.4,Malta,Fanyan Mughal,Aaftab Alam Khan,M Dixit,1,0,,,,,,"",""
+ball,2,9.5,Malta,Aaftab Alam Khan,Fanyan Mughal,M Dixit,1,0,,,,,,"",""
+ball,2,9.6,Malta,Fanyan Mughal,Aaftab Alam Khan,M Dixit,1,0,,,,,,"",""
+ball,2,10.1,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,0,1,,,,1,,"",""
+ball,2,10.2,Malta,Aaftab Alam Khan,Fanyan Mughal,A Dhingra,1,0,,,,,,"",""
+ball,2,10.3,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,0,0,,,,,,"",""
+ball,2,10.4,Malta,Fanyan Mughal,Aaftab Alam Khan,A Dhingra,1,0,,,,,,"",""
+ball,2,10.5,Malta,Aaftab Alam Khan,Fanyan Mughal,A Dhingra,0,4,,,,4,,"",""
+ball,2,10.6,Malta,Aaftab Alam Khan,Fanyan Mughal,A Dhingra,4,0,,,,,,"",""
+ball,2,11.1,Malta,Fanyan Mughal,Aaftab Alam Khan,V Vijh,1,0,,,,,,"",""
+ball,2,11.2,Malta,Aaftab Alam Khan,Fanyan Mughal,V Vijh,4,0,,,,,,"",""
+ball,2,11.3,Malta,Aaftab Alam Khan,Fanyan Mughal,V Vijh,0,0,,,,,,"",""
+ball,2,11.4,Malta,Aaftab Alam Khan,Fanyan Mughal,V Vijh,0,0,,,,,,"",""
+ball,2,11.5,Malta,Aaftab Alam Khan,Fanyan Mughal,V Vijh,1,0,,,,,,"",""
+ball,2,11.6,Malta,Fanyan Mughal,Aaftab Alam Khan,V Vijh,0,0,,,,,,"",""
+ball,2,12.1,Malta,Aaftab Alam Khan,Fanyan Mughal,E Jabarkhel,6,0,,,,,,"",""
+ball,2,12.2,Malta,Aaftab Alam Khan,Fanyan Mughal,E Jabarkhel,4,0,,,,,,"",""
+ball,2,12.3,Malta,Aaftab Alam Khan,Fanyan Mughal,E Jabarkhel,1,0,,,,,,"",""
+ball,2,12.4,Malta,Fanyan Mughal,Aaftab Alam Khan,E Jabarkhel,0,0,,,,,,"",""
+ball,2,12.5,Malta,Fanyan Mughal,Aaftab Alam Khan,E Jabarkhel,1,0,,,,,,"",""
+ball,2,12.6,Malta,Aaftab Alam Khan,Fanyan Mughal,E Jabarkhel,0,1,,,,1,,"",""
+ball,2,13.1,Malta,Aaftab Alam Khan,Fanyan Mughal,V Vijh,1,0,,,,,,"",""
+ball,2,13.2,Malta,Fanyan Mughal,Aaftab Alam Khan,V Vijh,0,0,,,,,,"",""
+ball,2,13.3,Malta,Fanyan Mughal,Aaftab Alam Khan,V Vijh,0,0,,,,,,"",""
+ball,2,13.4,Malta,Fanyan Mughal,Aaftab Alam Khan,V Vijh,0,0,,,,,,caught,Fanyan Mughal
+ball,2,13.5,Malta,VP Thamotharam,Aaftab Alam Khan,V Vijh,1,0,,,,,,"",""
+ball,2,13.6,Malta,Aaftab Alam Khan,VP Thamotharam,V Vijh,0,0,,,,,,"",""
+ball,2,14.1,Malta,VP Thamotharam,Aaftab Alam Khan,M Dixit,0,0,,,,,,"",""
+ball,2,14.2,Malta,VP Thamotharam,Aaftab Alam Khan,M Dixit,4,0,,,,,,"",""
+ball,2,14.3,Malta,VP Thamotharam,Aaftab Alam Khan,M Dixit,0,0,,,,,,run out,Aaftab Alam Khan
+ball,2,14.4,Malta,Waqas Ahmad,VP Thamotharam,M Dixit,1,0,,,,,,"",""
+ball,2,14.5,Malta,VP Thamotharam,Waqas Ahmad,M Dixit,1,0,,,,,,"",""
+ball,2,14.6,Malta,Waqas Ahmad,VP Thamotharam,M Dixit,1,0,,,,,,"",""
+ball,2,15.1,Malta,Waqas Ahmad,VP Thamotharam,V Vijh,1,0,,,,,,"",""
+ball,2,15.2,Malta,VP Thamotharam,Waqas Ahmad,V Vijh,1,0,,,,,,"",""
+ball,2,15.3,Malta,Waqas Ahmad,VP Thamotharam,V Vijh,1,0,,,,,,"",""
+ball,2,15.4,Malta,VP Thamotharam,Waqas Ahmad,V Vijh,1,0,,,,,,"",""
+ball,2,15.5,Malta,Waqas Ahmad,VP Thamotharam,V Vijh,1,0,,,,,,"",""
+ball,2,15.6,Malta,VP Thamotharam,Waqas Ahmad,V Vijh,6,0,,,,,,"",""
+ball,2,16.1,Malta,Waqas Ahmad,VP Thamotharam,A Dhingra,6,0,,,,,,"",""
+ball,2,16.2,Malta,Waqas Ahmad,VP Thamotharam,A Dhingra,2,0,,,,,,"",""
+ball,2,16.3,Malta,Waqas Ahmad,VP Thamotharam,A Dhingra,1,0,,,,,,"",""
+ball,2,16.4,Malta,VP Thamotharam,Waqas Ahmad,A Dhingra,6,0,,,,,,"",""
+ball,2,16.5,Malta,VP Thamotharam,Waqas Ahmad,A Dhingra,1,0,,,,,,"",""
+ball,2,16.6,Malta,Waqas Ahmad,VP Thamotharam,A Dhingra,1,0,,,,,,"",""
+ball,2,17.1,Malta,Waqas Ahmad,VP Thamotharam,E Jabarkhel,1,0,,,,,,"",""
+ball,2,17.2,Malta,VP Thamotharam,Waqas Ahmad,E Jabarkhel,6,0,,,,,,"",""
+ball,2,17.3,Malta,VP Thamotharam,Waqas Ahmad,E Jabarkhel,0,0,,,,,,"",""
+ball,2,17.4,Malta,VP Thamotharam,Waqas Ahmad,E Jabarkhel,2,0,,,,,,"",""
+ball,2,17.5,Malta,VP Thamotharam,Waqas Ahmad,E Jabarkhel,1,0,,,,,,"",""
+ball,2,17.6,Malta,Waqas Ahmad,VP Thamotharam,E Jabarkhel,1,0,,,,,,"",""
+ball,2,18.1,Malta,Waqas Ahmad,VP Thamotharam,A Dhingra,1,0,,,,,,"",""
+ball,2,18.2,Malta,VP Thamotharam,Waqas Ahmad,A Dhingra,1,0,,,,,,"",""

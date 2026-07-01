@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Papua New Guinea
+info,gender,female
+info,season,2025
+info,date,2025/09/12
+info,event,ICC Women's T20 World Cup East Asia Pacific Qualifier
+info,match_number,12
+info,venue,"Albert Park 2, Suva"
+info,city,Suva
+info,toss_winner,Samoa
+info,toss_decision,bat
+info,player_of_match,RSM Lili'i
+info,umpire,Kim Cotton
+info,umpire,Suresh Subramanian
+info,reserve_umpire,M Kenni
+info,match_referee,TL Anderson
+info,winner,Samoa
+info,winner_runs,13
+info,player,Samoa,A Sootaga
+info,player,Samoa,C Agafili
+info,player,Samoa,RSM Lili'i
+info,player,Samoa,F Sisifo
+info,player,Samoa,T Iosefo
+info,player,Samoa,AF Mapu
+info,player,Samoa,O Lefaga
+info,player,Samoa,TH Semau
+info,player,Samoa,AF Aoina
+info,player,Samoa,Leitu Leong
+info,player,Samoa,JT Manase
+info,player,Papua New Guinea,K Oala
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,Melanie Ani
+info,player,Papua New Guinea,H Doriga
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,HL Tau
+info,player,Papua New Guinea,D Lohia
+info,player,Papua New Guinea,M Tom
+info,registry,people,A Minati,7d1c9e3f
+info,registry,people,A Sootaga,967984d0
+info,registry,people,AF Aoina,217f5194
+info,registry,people,AF Mapu,d9238aee
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,C Agafili,b9bb76c8
+info,registry,people,D Lohia,01341439
+info,registry,people,F Sisifo,eff8319a
+info,registry,people,H Doriga,5aa874da
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,HL Tau,ace63b7f
+info,registry,people,I Toua,83cde44d
+info,registry,people,JT Manase,524d2019
+info,registry,people,K Oala,df70c3f2
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,Leitu Leong,672e1aea
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,M Tom,cebc1351
+info,registry,people,Melanie Ani,ff05f9f8
+info,registry,people,N Vare,20ace887
+info,registry,people,O Lefaga,540fb139
+info,registry,people,P Siaka,595433d2
+info,registry,people,RSM Lili'i,ba3a1359
+info,registry,people,Suresh Subramanian,4e869e23
+info,registry,people,T Iosefo,335b2768
+info,registry,people,TH Semau,175d59dd
+info,registry,people,TL Anderson,f52ddf8d
+ball,1,0.1,Samoa,A Sootaga,C Agafili,M Tom,0,2,2,,,,,"",""
+ball,1,0.2,Samoa,C Agafili,A Sootaga,M Tom,1,0,,,,,,"",""
+ball,1,0.3,Samoa,A Sootaga,C Agafili,M Tom,2,0,,,,,,"",""
+ball,1,0.4,Samoa,A Sootaga,C Agafili,M Tom,0,0,,,,,,"",""
+ball,1,0.5,Samoa,A Sootaga,C Agafili,M Tom,0,0,,,,,,"",""
+ball,1,0.6,Samoa,A Sootaga,C Agafili,M Tom,1,0,,,,,,"",""
+ball,1,0.7,Samoa,C Agafili,A Sootaga,M Tom,0,0,,,,,,"",""
+ball,1,1.1,Samoa,A Sootaga,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,1.2,Samoa,A Sootaga,C Agafili,HJ Thomas,4,0,,,,,,"",""
+ball,1,1.3,Samoa,A Sootaga,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,1.4,Samoa,A Sootaga,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,1.5,Samoa,A Sootaga,C Agafili,HJ Thomas,2,0,,,,,,"",""
+ball,1,1.6,Samoa,A Sootaga,C Agafili,HJ Thomas,1,0,,,,,,"",""
+ball,1,2.1,Samoa,A Sootaga,C Agafili,M Tom,0,0,,,,,,lbw,A Sootaga
+ball,1,2.2,Samoa,RSM Lili'i,C Agafili,M Tom,4,0,,,,,,"",""
+ball,1,2.3,Samoa,RSM Lili'i,C Agafili,M Tom,1,0,,,,,,"",""
+ball,1,2.4,Samoa,C Agafili,RSM Lili'i,M Tom,0,0,,,,,,"",""
+ball,1,2.5,Samoa,C Agafili,RSM Lili'i,M Tom,0,0,,,,,,"",""
+ball,1,2.6,Samoa,C Agafili,RSM Lili'i,M Tom,0,0,,,,,,"",""
+ball,1,3.1,Samoa,RSM Lili'i,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,3.2,Samoa,RSM Lili'i,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,3.3,Samoa,RSM Lili'i,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,3.4,Samoa,RSM Lili'i,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,3.5,Samoa,RSM Lili'i,C Agafili,HJ Thomas,0,0,,,,,,"",""
+ball,1,3.6,Samoa,RSM Lili'i,C Agafili,HJ Thomas,1,0,,,,,,"",""
+ball,1,4.1,Samoa,RSM Lili'i,C Agafili,I Toua,1,0,,,,,,"",""
+ball,1,4.2,Samoa,C Agafili,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,4.3,Samoa,C Agafili,RSM Lili'i,I Toua,1,0,,,,,,"",""
+ball,1,4.4,Samoa,RSM Lili'i,C Agafili,I Toua,0,4,,,,4,,"",""
+ball,1,4.5,Samoa,RSM Lili'i,C Agafili,I Toua,4,0,,,,,,"",""
+ball,1,4.6,Samoa,RSM Lili'i,C Agafili,I Toua,1,0,,,,,,"",""
+ball,1,5.1,Samoa,RSM Lili'i,C Agafili,H Doriga,1,0,,,,,,"",""
+ball,1,5.2,Samoa,C Agafili,RSM Lili'i,H Doriga,4,0,,,,,,"",""
+ball,1,5.3,Samoa,C Agafili,RSM Lili'i,H Doriga,0,0,,,,,,"",""
+ball,1,5.4,Samoa,C Agafili,RSM Lili'i,H Doriga,4,0,,,,,,"",""
+ball,1,5.5,Samoa,C Agafili,RSM Lili'i,H Doriga,1,0,,,,,,"",""
+ball,1,5.6,Samoa,RSM Lili'i,C Agafili,H Doriga,0,1,1,,,,,"",""
+ball,1,5.7,Samoa,RSM Lili'i,C Agafili,H Doriga,0,0,,,,,,"",""
+ball,1,6.1,Samoa,C Agafili,RSM Lili'i,D Lohia,0,0,,,,,,"",""
+ball,1,6.2,Samoa,C Agafili,RSM Lili'i,D Lohia,1,0,,,,,,"",""
+ball,1,6.3,Samoa,RSM Lili'i,C Agafili,D Lohia,0,0,,,,,,"",""
+ball,1,6.4,Samoa,RSM Lili'i,C Agafili,D Lohia,0,0,,,,,,"",""
+ball,1,6.5,Samoa,RSM Lili'i,C Agafili,D Lohia,4,0,,,,,,"",""
+ball,1,6.6,Samoa,RSM Lili'i,C Agafili,D Lohia,0,0,,,,,,"",""
+ball,1,7.1,Samoa,C Agafili,RSM Lili'i,HL Tau,0,0,,,,,,"",""
+ball,1,7.2,Samoa,C Agafili,RSM Lili'i,HL Tau,1,0,,,,,,"",""
+ball,1,7.3,Samoa,RSM Lili'i,C Agafili,HL Tau,4,0,,,,,,"",""
+ball,1,7.4,Samoa,RSM Lili'i,C Agafili,HL Tau,1,0,,,,,,"",""
+ball,1,7.5,Samoa,C Agafili,RSM Lili'i,HL Tau,1,0,,,,,,"",""
+ball,1,7.6,Samoa,RSM Lili'i,C Agafili,HL Tau,0,0,,,,,,"",""
+ball,1,8.1,Samoa,C Agafili,RSM Lili'i,D Lohia,4,0,,,,,,"",""
+ball,1,8.2,Samoa,C Agafili,RSM Lili'i,D Lohia,0,0,,,,,,"",""
+ball,1,8.3,Samoa,C Agafili,RSM Lili'i,D Lohia,1,0,,,,,,"",""
+ball,1,8.4,Samoa,RSM Lili'i,C Agafili,D Lohia,0,0,,,,,,"",""
+ball,1,8.5,Samoa,RSM Lili'i,C Agafili,D Lohia,4,0,,,,,,"",""
+ball,1,8.6,Samoa,RSM Lili'i,C Agafili,D Lohia,0,2,2,,,,,"",""
+ball,1,8.7,Samoa,C Agafili,RSM Lili'i,D Lohia,4,0,,,,,,"",""
+ball,1,9.1,Samoa,RSM Lili'i,C Agafili,HL Tau,0,0,,,,,,"",""
+ball,1,9.2,Samoa,RSM Lili'i,C Agafili,HL Tau,1,0,,,,,,"",""
+ball,1,9.3,Samoa,C Agafili,RSM Lili'i,HL Tau,1,0,,,,,,"",""
+ball,1,9.4,Samoa,RSM Lili'i,C Agafili,HL Tau,2,0,,,,,,"",""
+ball,1,9.5,Samoa,RSM Lili'i,C Agafili,HL Tau,0,0,,,,,,"",""
+ball,1,9.6,Samoa,RSM Lili'i,C Agafili,HL Tau,1,0,,,,,,"",""
+ball,1,10.1,Samoa,RSM Lili'i,C Agafili,I Toua,1,0,,,,,,"",""
+ball,1,10.2,Samoa,C Agafili,RSM Lili'i,I Toua,4,0,,,,,,"",""
+ball,1,10.3,Samoa,C Agafili,RSM Lili'i,I Toua,0,1,1,,,,,"",""
+ball,1,10.4,Samoa,C Agafili,RSM Lili'i,I Toua,1,0,,,,,,"",""
+ball,1,10.5,Samoa,RSM Lili'i,C Agafili,I Toua,0,0,,,,,,"",""
+ball,1,10.6,Samoa,RSM Lili'i,C Agafili,I Toua,0,0,,,,,,"",""
+ball,1,10.7,Samoa,RSM Lili'i,C Agafili,I Toua,0,0,,,,,,"",""
+ball,1,11.1,Samoa,C Agafili,RSM Lili'i,P Siaka,1,0,,,,,,"",""
+ball,1,11.2,Samoa,RSM Lili'i,C Agafili,P Siaka,0,0,,,,,,"",""
+ball,1,11.3,Samoa,RSM Lili'i,C Agafili,P Siaka,0,0,,,,,,"",""
+ball,1,11.4,Samoa,RSM Lili'i,C Agafili,P Siaka,1,0,,,,,,"",""
+ball,1,11.5,Samoa,C Agafili,RSM Lili'i,P Siaka,1,0,,,,,,"",""
+ball,1,11.6,Samoa,RSM Lili'i,C Agafili,P Siaka,0,0,,,,,,"",""
+ball,1,12.1,Samoa,C Agafili,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,12.2,Samoa,C Agafili,RSM Lili'i,I Toua,0,0,,,,,,bowled,C Agafili
+ball,1,12.3,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,12.4,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,12.5,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,12.6,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,13.1,Samoa,RSM Lili'i,F Sisifo,P Siaka,1,0,,,,,,"",""
+ball,1,13.2,Samoa,F Sisifo,RSM Lili'i,P Siaka,0,0,,,,,,"",""
+ball,1,13.3,Samoa,F Sisifo,RSM Lili'i,P Siaka,0,0,,,,,,"",""
+ball,1,13.4,Samoa,F Sisifo,RSM Lili'i,P Siaka,1,0,,,,,,"",""
+ball,1,13.5,Samoa,RSM Lili'i,F Sisifo,P Siaka,4,0,,,,,,"",""
+ball,1,13.6,Samoa,RSM Lili'i,F Sisifo,P Siaka,2,0,,,,,,"",""
+ball,1,14.1,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,14.2,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,14.3,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,14.4,Samoa,F Sisifo,RSM Lili'i,I Toua,0,0,,,,,,"",""
+ball,1,14.5,Samoa,F Sisifo,RSM Lili'i,I Toua,1,0,,,,,,"",""
+ball,1,14.6,Samoa,RSM Lili'i,F Sisifo,I Toua,4,0,,,,,,"",""
+ball,1,15.1,Samoa,F Sisifo,RSM Lili'i,P Siaka,0,0,,,,,,"",""
+ball,1,15.2,Samoa,F Sisifo,RSM Lili'i,P Siaka,0,0,,,,,,bowled,F Sisifo
+ball,1,15.3,Samoa,T Iosefo,RSM Lili'i,P Siaka,4,0,,,,,,"",""
+ball,1,15.4,Samoa,T Iosefo,RSM Lili'i,P Siaka,0,0,,,,,,"",""
+ball,1,15.5,Samoa,T Iosefo,RSM Lili'i,P Siaka,1,0,,,,,,"",""
+ball,1,15.6,Samoa,RSM Lili'i,T Iosefo,P Siaka,0,0,,,,,,"",""
+ball,1,16.1,Samoa,T Iosefo,RSM Lili'i,M Tom,0,0,,,,,,run out,RSM Lili'i
+ball,1,16.2,Samoa,T Iosefo,AF Mapu,M Tom,0,0,,,,,,"",""
+ball,1,16.3,Samoa,T Iosefo,AF Mapu,M Tom,0,0,,,,,,"",""
+ball,1,16.4,Samoa,T Iosefo,AF Mapu,M Tom,1,0,,,,,,"",""
+ball,1,16.5,Samoa,AF Mapu,T Iosefo,M Tom,0,0,,,,,,"",""
+ball,1,16.6,Samoa,AF Mapu,T Iosefo,M Tom,0,0,,,,,,"",""
+ball,1,17.1,Samoa,T Iosefo,AF Mapu,HJ Thomas,0,0,,,,,,"",""
+ball,1,17.2,Samoa,T Iosefo,AF Mapu,HJ Thomas,2,0,,,,,,"",""
+ball,1,17.3,Samoa,T Iosefo,AF Mapu,HJ Thomas,0,0,,,,,,caught,T Iosefo
+ball,1,17.4,Samoa,O Lefaga,AF Mapu,HJ Thomas,0,0,,,,,,"",""
+ball,1,17.5,Samoa,O Lefaga,AF Mapu,HJ Thomas,2,0,,,,,,"",""
+ball,1,17.6,Samoa,O Lefaga,AF Mapu,HJ Thomas,1,0,,,,,,"",""
+ball,1,18.1,Samoa,O Lefaga,AF Mapu,M Tom,0,1,,1,,,,"",""
+ball,1,18.2,Samoa,O Lefaga,AF Mapu,M Tom,2,0,,,,,,"",""
+ball,1,18.3,Samoa,O Lefaga,AF Mapu,M Tom,0,0,,,,,,"",""
+ball,1,18.4,Samoa,O Lefaga,AF Mapu,M Tom,0,0,,,,,,bowled,O Lefaga
+ball,1,18.5,Samoa,TH Semau,AF Mapu,M Tom,0,0,,,,,,"",""
+ball,1,18.6,Samoa,TH Semau,AF Mapu,M Tom,0,0,,,,,,bowled,TH Semau
+ball,1,18.7,Samoa,AF Aoina,AF Mapu,M Tom,4,0,,,,,,"",""
+ball,1,19.1,Samoa,AF Mapu,AF Aoina,HJ Thomas,1,0,,,,,,"",""
+ball,1,19.2,Samoa,AF Aoina,AF Mapu,HJ Thomas,1,0,,,,,,"",""
+ball,1,19.3,Samoa,AF Mapu,AF Aoina,HJ Thomas,4,0,,,,,,"",""
+ball,1,19.4,Samoa,AF Mapu,AF Aoina,HJ Thomas,0,0,,,,,,bowled,AF Mapu
+ball,1,19.5,Samoa,Leitu Leong,AF Aoina,HJ Thomas,0,0,,,,,,"",""
+ball,1,19.6,Samoa,Leitu Leong,AF Aoina,HJ Thomas,0,0,,,,,,bowled,Leitu Leong
+ball,2,0.1,Papua New Guinea,K Oala,N Vare,T Iosefo,1,0,,,,,,"",""
+ball,2,0.2,Papua New Guinea,N Vare,K Oala,T Iosefo,0,1,1,,,,,"",""
+ball,2,0.3,Papua New Guinea,N Vare,K Oala,T Iosefo,0,0,,,,,,"",""
+ball,2,0.4,Papua New Guinea,N Vare,K Oala,T Iosefo,1,0,,,,,,"",""
+ball,2,0.5,Papua New Guinea,K Oala,N Vare,T Iosefo,4,0,,,,,,"",""
+ball,2,0.6,Papua New Guinea,K Oala,N Vare,T Iosefo,1,0,,,,,,"",""
+ball,2,0.7,Papua New Guinea,N Vare,K Oala,T Iosefo,0,0,,,,,,"",""
+ball,2,1.1,Papua New Guinea,K Oala,N Vare,O Lefaga,0,0,,,,,,"",""
+ball,2,1.2,Papua New Guinea,K Oala,N Vare,O Lefaga,0,0,,,,,,"",""
+ball,2,1.3,Papua New Guinea,K Oala,N Vare,O Lefaga,4,0,,,,,,"",""
+ball,2,1.4,Papua New Guinea,K Oala,N Vare,O Lefaga,0,0,,,,,,"",""
+ball,2,1.5,Papua New Guinea,K Oala,N Vare,O Lefaga,0,0,,,,,,"",""
+ball,2,1.6,Papua New Guinea,K Oala,N Vare,O Lefaga,2,0,,,,,,"",""
+ball,2,2.1,Papua New Guinea,N Vare,K Oala,AF Mapu,0,0,,,,,,"",""
+ball,2,2.2,Papua New Guinea,N Vare,K Oala,AF Mapu,0,0,,,,,,"",""
+ball,2,2.3,Papua New Guinea,N Vare,K Oala,AF Mapu,0,0,,,,,,"",""
+ball,2,2.4,Papua New Guinea,N Vare,K Oala,AF Mapu,1,0,,,,,,"",""
+ball,2,2.5,Papua New Guinea,K Oala,N Vare,AF Mapu,0,0,,,,,,caught,K Oala
+ball,2,2.6,Papua New Guinea,B Tau,N Vare,AF Mapu,0,0,,,,,,"",""
+ball,2,3.1,Papua New Guinea,N Vare,B Tau,O Lefaga,0,0,,,,,,lbw,N Vare
+ball,2,3.2,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,3.3,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,3.4,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,3.5,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,3.6,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,4.1,Papua New Guinea,B Tau,HJ Thomas,AF Mapu,0,0,,,,,,"",""
+ball,2,4.2,Papua New Guinea,B Tau,HJ Thomas,AF Mapu,6,0,,,,,,"",""
+ball,2,4.3,Papua New Guinea,B Tau,HJ Thomas,AF Mapu,0,0,,,,,,"",""
+ball,2,4.4,Papua New Guinea,B Tau,HJ Thomas,AF Mapu,0,0,,,,,,"",""
+ball,2,4.5,Papua New Guinea,B Tau,HJ Thomas,AF Mapu,0,5,5,,,,,"",""
+ball,2,4.6,Papua New Guinea,B Tau,HJ Thomas,AF Mapu,0,0,,,,,,"",""
+ball,2,4.7,Papua New Guinea,B Tau,HJ Thomas,AF Mapu,0,0,,,,,,"",""
+ball,2,5.1,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,5.2,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,5.3,Papua New Guinea,HJ Thomas,B Tau,O Lefaga,1,0,,,,,,"",""
+ball,2,5.4,Papua New Guinea,B Tau,HJ Thomas,O Lefaga,0,0,,,,,,"",""
+ball,2,5.5,Papua New Guinea,B Tau,HJ Thomas,O Lefaga,0,0,,,,,,"",""
+ball,2,5.6,Papua New Guinea,B Tau,HJ Thomas,O Lefaga,1,0,,,,,,"",""
+ball,2,6.1,Papua New Guinea,HJ Thomas,B Tau,RSM Lili'i,0,0,,,,,,caught and bowled,HJ Thomas
+ball,2,6.2,Papua New Guinea,P Siaka,B Tau,RSM Lili'i,0,0,,,,,,"",""
+ball,2,6.3,Papua New Guinea,P Siaka,B Tau,RSM Lili'i,0,0,,,,,,"",""
+ball,2,6.4,Papua New Guinea,P Siaka,B Tau,RSM Lili'i,1,0,,,,,,"",""
+ball,2,6.5,Papua New Guinea,B Tau,P Siaka,RSM Lili'i,1,0,,,,,,"",""
+ball,2,6.6,Papua New Guinea,P Siaka,B Tau,RSM Lili'i,0,0,,,,,,"",""
+ball,2,7.1,Papua New Guinea,B Tau,P Siaka,AF Aoina,0,0,,,,,,caught,B Tau
+ball,2,7.2,Papua New Guinea,Melanie Ani,P Siaka,AF Aoina,0,1,1,,,,,"",""
+ball,2,7.3,Papua New Guinea,Melanie Ani,P Siaka,AF Aoina,0,0,,,,,,"",""
+ball,2,7.4,Papua New Guinea,Melanie Ani,P Siaka,AF Aoina,4,0,,,,,,"",""
+ball,2,7.5,Papua New Guinea,Melanie Ani,P Siaka,AF Aoina,0,0,,,,,,"",""
+ball,2,7.6,Papua New Guinea,Melanie Ani,P Siaka,AF Aoina,0,0,,,,,,"",""
+ball,2,7.7,Papua New Guinea,Melanie Ani,P Siaka,AF Aoina,0,1,1,,,,,"",""
+ball,2,7.8,Papua New Guinea,Melanie Ani,P Siaka,AF Aoina,1,0,,,,,,"",""
+ball,2,8.1,Papua New Guinea,Melanie Ani,P Siaka,RSM Lili'i,1,0,,,,,,"",""
+ball,2,8.2,Papua New Guinea,P Siaka,Melanie Ani,RSM Lili'i,0,0,,,,,,bowled,P Siaka
+ball,2,8.3,Papua New Guinea,H Doriga,Melanie Ani,RSM Lili'i,0,0,,,,,,"",""
+ball,2,8.4,Papua New Guinea,H Doriga,Melanie Ani,RSM Lili'i,0,0,,,,,,"",""
+ball,2,8.5,Papua New Guinea,H Doriga,Melanie Ani,RSM Lili'i,0,0,,,,,,"",""
+ball,2,8.6,Papua New Guinea,H Doriga,Melanie Ani,RSM Lili'i,0,0,,,,,,"",""
+ball,2,9.1,Papua New Guinea,Melanie Ani,H Doriga,AF Aoina,0,0,,,,,,bowled,Melanie Ani
+ball,2,9.2,Papua New Guinea,I Toua,H Doriga,AF Aoina,0,0,,,,,,"",""
+ball,2,9.3,Papua New Guinea,I Toua,H Doriga,AF Aoina,4,0,,,,,,"",""
+ball,2,9.4,Papua New Guinea,I Toua,H Doriga,AF Aoina,0,1,1,,,,,"",""
+ball,2,9.5,Papua New Guinea,I Toua,H Doriga,AF Aoina,1,0,,,,,,"",""
+ball,2,9.6,Papua New Guinea,H Doriga,I Toua,AF Aoina,0,0,,,,,,"",""
+ball,2,9.7,Papua New Guinea,H Doriga,I Toua,AF Aoina,4,0,,,,,,"",""
+ball,2,10.1,Papua New Guinea,I Toua,H Doriga,RSM Lili'i,2,0,,,,,,"",""
+ball,2,10.2,Papua New Guinea,I Toua,H Doriga,RSM Lili'i,1,0,,,,,,"",""
+ball,2,10.3,Papua New Guinea,H Doriga,I Toua,RSM Lili'i,0,0,,,,,,"",""
+ball,2,10.4,Papua New Guinea,H Doriga,I Toua,RSM Lili'i,1,0,,,,,,"",""
+ball,2,10.5,Papua New Guinea,I Toua,H Doriga,RSM Lili'i,3,0,,,,,,"",""
+ball,2,10.6,Papua New Guinea,H Doriga,I Toua,RSM Lili'i,1,0,,,,,,"",""
+ball,2,11.1,Papua New Guinea,H Doriga,I Toua,O Lefaga,0,1,1,,,,,"",""
+ball,2,11.2,Papua New Guinea,H Doriga,I Toua,O Lefaga,2,0,,,,,,"",""
+ball,2,11.3,Papua New Guinea,H Doriga,I Toua,O Lefaga,1,0,,,,,,"",""
+ball,2,11.4,Papua New Guinea,I Toua,H Doriga,O Lefaga,0,0,,,,,,bowled,I Toua
+ball,2,11.5,Papua New Guinea,HL Tau,H Doriga,O Lefaga,0,1,,,,1,,"",""
+ball,2,11.6,Papua New Guinea,H Doriga,HL Tau,O Lefaga,0,0,,,,,,"",""
+ball,2,11.7,Papua New Guinea,H Doriga,HL Tau,O Lefaga,4,0,,,,,,"",""
+ball,2,12.1,Papua New Guinea,HL Tau,H Doriga,RSM Lili'i,0,0,,,,,,"",""
+ball,2,12.2,Papua New Guinea,HL Tau,H Doriga,RSM Lili'i,0,0,,,,,,"",""
+ball,2,12.3,Papua New Guinea,HL Tau,H Doriga,RSM Lili'i,0,0,,,,,,run out,H Doriga
+ball,2,12.4,Papua New Guinea,D Lohia,HL Tau,RSM Lili'i,0,0,,,,,,"",""
+ball,2,12.5,Papua New Guinea,D Lohia,HL Tau,RSM Lili'i,2,0,,,,,,"",""
+ball,2,12.6,Papua New Guinea,D Lohia,HL Tau,RSM Lili'i,0,0,,,,,,"",""
+ball,2,13.1,Papua New Guinea,HL Tau,D Lohia,T Iosefo,4,0,,,,,,"",""
+ball,2,13.2,Papua New Guinea,HL Tau,D Lohia,T Iosefo,1,0,,,,,,"",""
+ball,2,13.3,Papua New Guinea,D Lohia,HL Tau,T Iosefo,1,0,,,,,,"",""
+ball,2,13.4,Papua New Guinea,HL Tau,D Lohia,T Iosefo,0,0,,,,,,"",""
+ball,2,13.5,Papua New Guinea,HL Tau,D Lohia,T Iosefo,1,0,,,,,,"",""
+ball,2,13.6,Papua New Guinea,D Lohia,HL Tau,T Iosefo,2,0,,,,,,"",""
+ball,2,14.1,Papua New Guinea,HL Tau,D Lohia,TH Semau,0,0,,,,,,"",""
+ball,2,14.2,Papua New Guinea,HL Tau,D Lohia,TH Semau,2,0,,,,,,"",""
+ball,2,14.3,Papua New Guinea,HL Tau,D Lohia,TH Semau,1,0,,,,,,"",""
+ball,2,14.4,Papua New Guinea,D Lohia,HL Tau,TH Semau,4,0,,,,,,"",""
+ball,2,14.5,Papua New Guinea,D Lohia,HL Tau,TH Semau,0,0,,,,,,"",""
+ball,2,14.6,Papua New Guinea,D Lohia,HL Tau,TH Semau,1,0,,,,,,"",""
+ball,2,15.1,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,15.2,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,15.3,Papua New Guinea,D Lohia,HL Tau,AF Aoina,4,0,,,,,,"",""
+ball,2,15.4,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,15.5,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,15.6,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,16.1,Papua New Guinea,HL Tau,D Lohia,TH Semau,0,1,1,,,,,"",""
+ball,2,16.2,Papua New Guinea,HL Tau,D Lohia,TH Semau,1,0,,,,,,"",""
+ball,2,16.3,Papua New Guinea,D Lohia,HL Tau,TH Semau,1,0,,,,,,"",""
+ball,2,16.4,Papua New Guinea,HL Tau,D Lohia,TH Semau,0,0,,,,,,"",""
+ball,2,16.5,Papua New Guinea,HL Tau,D Lohia,TH Semau,0,0,,,,,,"",""
+ball,2,16.6,Papua New Guinea,HL Tau,D Lohia,TH Semau,0,0,,,,,,"",""
+ball,2,16.7,Papua New Guinea,HL Tau,D Lohia,TH Semau,2,0,,,,,,"",""
+ball,2,17.1,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,17.2,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,1,1,,,,,"",""
+ball,2,17.3,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,17.4,Papua New Guinea,D Lohia,HL Tau,AF Aoina,1,0,,,,,,"",""
+ball,2,17.5,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,17.6,Papua New Guinea,D Lohia,HL Tau,AF Aoina,0,0,,,,,,bowled,D Lohia
+ball,2,17.7,Papua New Guinea,M Tom,HL Tau,AF Aoina,0,1,1,,,,,"",""
+ball,2,17.8,Papua New Guinea,M Tom,HL Tau,AF Aoina,0,0,,,,,,"",""
+ball,2,18.1,Papua New Guinea,HL Tau,M Tom,TH Semau,0,0,,,,,,"",""
+ball,2,18.2,Papua New Guinea,HL Tau,M Tom,TH Semau,0,0,,,,,,"",""
+ball,2,18.3,Papua New Guinea,HL Tau,M Tom,TH Semau,1,0,,,,,,"",""
+ball,2,18.4,Papua New Guinea,M Tom,HL Tau,TH Semau,4,0,,,,,,"",""
+ball,2,18.5,Papua New Guinea,M Tom,HL Tau,TH Semau,2,0,,,,,,"",""
+ball,2,18.6,Papua New Guinea,M Tom,HL Tau,TH Semau,0,0,,,,,,"",""
+ball,2,19.1,Papua New Guinea,HL Tau,M Tom,AF Aoina,2,0,,,,,,"",""
+ball,2,19.2,Papua New Guinea,HL Tau,M Tom,AF Aoina,2,0,,,,,,"",""
+ball,2,19.3,Papua New Guinea,HL Tau,M Tom,AF Aoina,0,0,,,,,,run out,M Tom

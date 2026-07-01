@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Luxembourg
+info,gender,male
+info,season,2023/24
+info,date,2023/10/15
+info,event,Luxembourg tour of Gibraltar
+info,match_number,1
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Luxembourg
+info,toss_decision,field
+info,player_of_match,KJ Stagno
+info,umpire,S Maynard
+info,umpire,T Atoloye
+info,winner,Gibraltar
+info,winner_runs,24
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,P Hatchman
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,A Sawyer
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,T Martin
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,Milad Momend
+info,player,Luxembourg,H Virdee
+info,player,Luxembourg,A Nanda
+info,registry,people,A Nanda,704e0160
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,A Sawyer,201d3a67
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,BA Pai,716bf559
+info,registry,people,H Virdee,38952986
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,J Mees,ab1445ea
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,Milad Momend,84880baf
+info,registry,people,P Hatchman,b504e8b8
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Maynard,12a7e02a
+info,registry,people,SKS Gill,faef026c
+info,registry,people,T Atoloye,9d4f3a74
+info,registry,people,T Martin,32e97806
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+ball,1,0.1,Gibraltar,BA Pai,L Bruce,A Nanda,1,0,,,,,,"",""
+ball,1,0.2,Gibraltar,L Bruce,BA Pai,A Nanda,0,1,1,,,,,"",""
+ball,1,0.3,Gibraltar,L Bruce,BA Pai,A Nanda,0,1,1,,,,,"",""
+ball,1,0.4,Gibraltar,L Bruce,BA Pai,A Nanda,0,0,,,,,,"",""
+ball,1,0.5,Gibraltar,L Bruce,BA Pai,A Nanda,0,0,,,,,,"",""
+ball,1,0.6,Gibraltar,L Bruce,BA Pai,A Nanda,2,0,,,,,,"",""
+ball,1,0.7,Gibraltar,L Bruce,BA Pai,A Nanda,0,0,,,,,,"",""
+ball,1,0.8,Gibraltar,L Bruce,BA Pai,A Nanda,0,1,1,,,,,"",""
+ball,1,0.9,Gibraltar,L Bruce,BA Pai,A Nanda,0,0,,,,,,"",""
+ball,1,1.1,Gibraltar,BA Pai,L Bruce,Milad Momend,0,0,,,,,,"",""
+ball,1,1.2,Gibraltar,BA Pai,L Bruce,Milad Momend,0,0,,,,,,"",""
+ball,1,1.3,Gibraltar,BA Pai,L Bruce,Milad Momend,0,1,1,,,,,"",""
+ball,1,1.4,Gibraltar,BA Pai,L Bruce,Milad Momend,1,0,,,,,,"",""
+ball,1,1.5,Gibraltar,L Bruce,BA Pai,Milad Momend,0,0,,,,,,"",""
+ball,1,1.6,Gibraltar,L Bruce,BA Pai,Milad Momend,0,0,,,,,,"",""
+ball,1,1.7,Gibraltar,L Bruce,BA Pai,Milad Momend,0,0,,,,,,"",""
+ball,1,2.1,Gibraltar,BA Pai,L Bruce,A Nanda,1,0,,,,,,"",""
+ball,1,2.2,Gibraltar,L Bruce,BA Pai,A Nanda,0,0,,,,,,caught,L Bruce
+ball,1,2.3,Gibraltar,KJ Stagno,BA Pai,A Nanda,0,0,,,,,,"",""
+ball,1,2.4,Gibraltar,KJ Stagno,BA Pai,A Nanda,1,0,,,,,,"",""
+ball,1,2.5,Gibraltar,BA Pai,KJ Stagno,A Nanda,0,0,,,,,,"",""
+ball,1,2.6,Gibraltar,BA Pai,KJ Stagno,A Nanda,2,0,,,,,,"",""
+ball,1,3.1,Gibraltar,KJ Stagno,BA Pai,Milad Momend,4,0,,,,,,"",""
+ball,1,3.2,Gibraltar,KJ Stagno,BA Pai,Milad Momend,2,0,,,,,,"",""
+ball,1,3.3,Gibraltar,KJ Stagno,BA Pai,Milad Momend,0,0,,,,,,"",""
+ball,1,3.4,Gibraltar,KJ Stagno,BA Pai,Milad Momend,0,0,,,,,,"",""
+ball,1,3.5,Gibraltar,KJ Stagno,BA Pai,Milad Momend,0,0,,,,,,"",""
+ball,1,3.6,Gibraltar,KJ Stagno,BA Pai,Milad Momend,2,0,,,,,,"",""
+ball,1,4.1,Gibraltar,BA Pai,KJ Stagno,A Nanda,0,0,,,,,,"",""
+ball,1,4.2,Gibraltar,BA Pai,KJ Stagno,A Nanda,1,0,,,,,,"",""
+ball,1,4.3,Gibraltar,KJ Stagno,BA Pai,A Nanda,1,0,,,,,,"",""
+ball,1,4.4,Gibraltar,BA Pai,KJ Stagno,A Nanda,0,0,,,,,,"",""
+ball,1,4.5,Gibraltar,BA Pai,KJ Stagno,A Nanda,2,0,,,,,,"",""
+ball,1,4.6,Gibraltar,BA Pai,KJ Stagno,A Nanda,1,0,,,,,,"",""
+ball,1,5.1,Gibraltar,BA Pai,KJ Stagno,M Dixit,0,0,,,,,,caught,BA Pai
+ball,1,5.2,Gibraltar,P Hatchman,KJ Stagno,M Dixit,0,0,,,,,,"",""
+ball,1,5.3,Gibraltar,P Hatchman,KJ Stagno,M Dixit,1,0,,,,,,"",""
+ball,1,5.4,Gibraltar,KJ Stagno,P Hatchman,M Dixit,1,0,,,,,,"",""
+ball,1,5.5,Gibraltar,P Hatchman,KJ Stagno,M Dixit,0,0,,,,,,"",""
+ball,1,5.6,Gibraltar,P Hatchman,KJ Stagno,M Dixit,1,0,,,,,,"",""
+ball,1,6.1,Gibraltar,P Hatchman,KJ Stagno,T Martin,0,0,,,,,,"",""
+ball,1,6.2,Gibraltar,P Hatchman,KJ Stagno,T Martin,1,0,,,,,,"",""
+ball,1,6.3,Gibraltar,KJ Stagno,P Hatchman,T Martin,1,0,,,,,,"",""
+ball,1,6.4,Gibraltar,P Hatchman,KJ Stagno,T Martin,1,0,,,,,,"",""
+ball,1,6.5,Gibraltar,KJ Stagno,P Hatchman,T Martin,6,0,,,,,,"",""
+ball,1,6.6,Gibraltar,KJ Stagno,P Hatchman,T Martin,0,0,,,,,,"",""
+ball,1,7.1,Gibraltar,P Hatchman,KJ Stagno,H Virdee,0,0,,,,,,"",""
+ball,1,7.2,Gibraltar,P Hatchman,KJ Stagno,H Virdee,0,0,,,,,,"",""
+ball,1,7.3,Gibraltar,P Hatchman,KJ Stagno,H Virdee,0,0,,,,,,caught,P Hatchman
+ball,1,7.4,Gibraltar,K Nestor,KJ Stagno,H Virdee,1,0,,,,,,"",""
+ball,1,7.5,Gibraltar,KJ Stagno,K Nestor,H Virdee,0,0,,,,,,"",""
+ball,1,7.6,Gibraltar,KJ Stagno,K Nestor,H Virdee,4,0,,,,,,"",""
+ball,1,8.1,Gibraltar,K Nestor,KJ Stagno,M Dixit,1,0,,,,,,"",""
+ball,1,8.2,Gibraltar,KJ Stagno,K Nestor,M Dixit,2,0,,,,,,"",""
+ball,1,8.3,Gibraltar,KJ Stagno,K Nestor,M Dixit,0,0,,,,,,"",""
+ball,1,8.4,Gibraltar,KJ Stagno,K Nestor,M Dixit,1,0,,,,,,"",""
+ball,1,8.5,Gibraltar,K Nestor,KJ Stagno,M Dixit,1,0,,,,,,"",""
+ball,1,8.6,Gibraltar,KJ Stagno,K Nestor,M Dixit,1,0,,,,,,"",""
+ball,1,9.1,Gibraltar,KJ Stagno,K Nestor,H Virdee,6,0,,,,,,"",""
+ball,1,9.2,Gibraltar,KJ Stagno,K Nestor,H Virdee,6,0,,,,,,"",""
+ball,1,9.3,Gibraltar,KJ Stagno,K Nestor,H Virdee,4,0,,,,,,"",""
+ball,1,9.4,Gibraltar,KJ Stagno,K Nestor,H Virdee,1,0,,,,,,"",""
+ball,1,9.5,Gibraltar,K Nestor,KJ Stagno,H Virdee,2,0,,,,,,"",""
+ball,1,9.6,Gibraltar,K Nestor,KJ Stagno,H Virdee,2,0,,,,,,"",""
+ball,1,10.1,Gibraltar,KJ Stagno,K Nestor,V Vijh,4,0,,,,,,"",""
+ball,1,10.2,Gibraltar,KJ Stagno,K Nestor,V Vijh,1,0,,,,,,"",""
+ball,1,10.3,Gibraltar,K Nestor,KJ Stagno,V Vijh,1,0,,,,,,"",""
+ball,1,10.4,Gibraltar,KJ Stagno,K Nestor,V Vijh,2,0,,,,,,"",""
+ball,1,10.5,Gibraltar,KJ Stagno,K Nestor,V Vijh,1,0,,,,,,"",""
+ball,1,10.6,Gibraltar,K Nestor,KJ Stagno,V Vijh,0,0,,,,,,"",""
+ball,1,11.1,Gibraltar,KJ Stagno,K Nestor,Milad Momend,6,0,,,,,,"",""
+ball,1,11.2,Gibraltar,KJ Stagno,K Nestor,Milad Momend,4,0,,,,,,"",""
+ball,1,11.3,Gibraltar,KJ Stagno,K Nestor,Milad Momend,1,0,,,,,,"",""
+ball,1,11.4,Gibraltar,K Nestor,KJ Stagno,Milad Momend,6,0,,,,,,"",""
+ball,1,11.5,Gibraltar,K Nestor,KJ Stagno,Milad Momend,0,0,,,,,,"",""
+ball,1,11.6,Gibraltar,K Nestor,KJ Stagno,Milad Momend,4,0,,,,,,"",""
+ball,1,12.1,Gibraltar,KJ Stagno,K Nestor,V Vijh,0,0,,,,,,"",""
+ball,1,12.2,Gibraltar,KJ Stagno,K Nestor,V Vijh,4,0,,,,,,"",""
+ball,1,12.3,Gibraltar,KJ Stagno,K Nestor,V Vijh,2,0,,,,,,"",""
+ball,1,12.4,Gibraltar,KJ Stagno,K Nestor,V Vijh,6,0,,,,,,"",""
+ball,1,12.5,Gibraltar,KJ Stagno,K Nestor,V Vijh,0,0,,,,,,"",""
+ball,1,12.6,Gibraltar,KJ Stagno,K Nestor,V Vijh,6,0,,,,,,"",""
+ball,1,13.1,Gibraltar,K Nestor,KJ Stagno,T Martin,0,0,,,,,,bowled,K Nestor
+ball,1,13.2,Gibraltar,S Bodha,KJ Stagno,T Martin,0,1,1,,,,,"",""
+ball,1,13.3,Gibraltar,S Bodha,KJ Stagno,T Martin,1,0,,,,,,"",""
+ball,1,13.4,Gibraltar,KJ Stagno,S Bodha,T Martin,0,0,,,,,,"",""
+ball,1,13.5,Gibraltar,KJ Stagno,S Bodha,T Martin,0,0,,,,,,"",""
+ball,1,13.6,Gibraltar,KJ Stagno,S Bodha,T Martin,4,0,,,,,,"",""
+ball,1,13.7,Gibraltar,KJ Stagno,S Bodha,T Martin,1,0,,,,,,"",""
+ball,1,14.1,Gibraltar,KJ Stagno,S Bodha,A Nanda,0,0,,,,,,"",""
+ball,1,14.2,Gibraltar,KJ Stagno,S Bodha,A Nanda,2,0,,,,,,"",""
+ball,1,14.3,Gibraltar,KJ Stagno,S Bodha,A Nanda,1,0,,,,,,"",""
+ball,1,14.4,Gibraltar,S Bodha,KJ Stagno,A Nanda,0,0,,,,,,"",""
+ball,1,14.5,Gibraltar,S Bodha,KJ Stagno,A Nanda,4,0,,,,,,"",""
+ball,1,14.6,Gibraltar,S Bodha,KJ Stagno,A Nanda,1,0,,,,,,"",""
+ball,1,15.1,Gibraltar,S Bodha,KJ Stagno,T Martin,0,1,1,,,,,"",""
+ball,1,15.2,Gibraltar,S Bodha,KJ Stagno,T Martin,1,0,,,,,,"",""
+ball,1,15.3,Gibraltar,KJ Stagno,S Bodha,T Martin,2,0,,,,,,"",""
+ball,1,15.4,Gibraltar,KJ Stagno,S Bodha,T Martin,4,0,,,,,,"",""
+ball,1,15.5,Gibraltar,KJ Stagno,S Bodha,T Martin,1,0,,,,,,"",""
+ball,1,15.6,Gibraltar,S Bodha,KJ Stagno,T Martin,1,0,,,,,,"",""
+ball,1,15.7,Gibraltar,KJ Stagno,S Bodha,T Martin,0,0,,,,,,"",""
+ball,1,16.1,Gibraltar,S Bodha,KJ Stagno,SKS Gill,0,0,,,,,,"",""
+ball,1,16.2,Gibraltar,S Bodha,KJ Stagno,SKS Gill,1,0,,,,,,"",""
+ball,1,16.3,Gibraltar,KJ Stagno,S Bodha,SKS Gill,6,0,,,,,,"",""
+ball,1,16.4,Gibraltar,KJ Stagno,S Bodha,SKS Gill,0,0,,,,,,caught,KJ Stagno
+ball,1,16.5,Gibraltar,JA Fitzgerald,S Bodha,SKS Gill,1,0,,,,,,"",""
+ball,1,16.6,Gibraltar,S Bodha,JA Fitzgerald,SKS Gill,1,0,,,,,,"",""
+ball,1,17.1,Gibraltar,S Bodha,JA Fitzgerald,M Dixit,0,0,,,,,,"",""
+ball,1,17.2,Gibraltar,S Bodha,JA Fitzgerald,M Dixit,1,0,,,,,,"",""
+ball,1,17.3,Gibraltar,JA Fitzgerald,S Bodha,M Dixit,6,0,,,,,,"",""
+ball,1,17.4,Gibraltar,JA Fitzgerald,S Bodha,M Dixit,0,0,,,,,,"",""
+ball,1,17.5,Gibraltar,JA Fitzgerald,S Bodha,M Dixit,1,0,,,,,,"",""
+ball,1,17.6,Gibraltar,S Bodha,JA Fitzgerald,M Dixit,0,0,,,,,,caught,S Bodha
+ball,1,18.1,Gibraltar,JA Fitzgerald,K Mirpuri,V Vijh,0,0,,,,,,caught,JA Fitzgerald
+ball,1,18.2,Gibraltar,J Horrocks,K Mirpuri,V Vijh,0,0,,,,,,"",""
+ball,1,18.3,Gibraltar,J Horrocks,K Mirpuri,V Vijh,0,5,5,,,,,"",""
+ball,1,18.4,Gibraltar,J Horrocks,K Mirpuri,V Vijh,0,0,,,,,,"",""
+ball,1,18.5,Gibraltar,J Horrocks,K Mirpuri,V Vijh,0,0,,,,,,run out,J Horrocks
+ball,1,18.6,Gibraltar,A Reyes,K Mirpuri,V Vijh,1,0,,,,,,"",""
+ball,1,18.7,Gibraltar,K Mirpuri,A Reyes,V Vijh,1,0,,,,,,"",""
+ball,1,19.1,Gibraltar,K Mirpuri,A Reyes,M Dixit,1,0,,,,,,"",""
+ball,1,19.2,Gibraltar,A Reyes,K Mirpuri,M Dixit,1,0,,,,,,"",""
+ball,1,19.3,Gibraltar,K Mirpuri,A Reyes,M Dixit,1,0,,,,,,"",""
+ball,1,19.4,Gibraltar,A Reyes,K Mirpuri,M Dixit,0,0,,,,,,"",""
+ball,1,19.5,Gibraltar,A Reyes,K Mirpuri,M Dixit,2,0,,,,,,"",""
+ball,1,19.6,Gibraltar,A Reyes,K Mirpuri,M Dixit,1,0,,,,,,"",""
+ball,2,0.1,Luxembourg,TC Barker,SKS Gill,L Bruce,1,0,,,,,,"",""
+ball,2,0.2,Luxembourg,SKS Gill,TC Barker,L Bruce,2,0,,,,,,"",""
+ball,2,0.3,Luxembourg,SKS Gill,TC Barker,L Bruce,0,0,,,,,,"",""
+ball,2,0.4,Luxembourg,SKS Gill,TC Barker,L Bruce,0,0,,,,,,"",""
+ball,2,0.5,Luxembourg,SKS Gill,TC Barker,L Bruce,1,0,,,,,,"",""
+ball,2,0.6,Luxembourg,TC Barker,SKS Gill,L Bruce,0,1,1,,,,,"",""
+ball,2,0.7,Luxembourg,TC Barker,SKS Gill,L Bruce,0,0,,,,,,"",""
+ball,2,1.1,Luxembourg,SKS Gill,TC Barker,BA Pai,0,0,,,,,,"",""
+ball,2,1.2,Luxembourg,SKS Gill,TC Barker,BA Pai,1,0,,,,,,"",""
+ball,2,1.3,Luxembourg,TC Barker,SKS Gill,BA Pai,0,0,,,,,,"",""
+ball,2,1.4,Luxembourg,TC Barker,SKS Gill,K Nestor,1,0,,,,,,"",""
+ball,2,1.5,Luxembourg,SKS Gill,TC Barker,K Nestor,1,0,,,,,,"",""
+ball,2,1.6,Luxembourg,TC Barker,SKS Gill,K Nestor,0,0,,,,,,"",""
+ball,2,2.1,Luxembourg,SKS Gill,TC Barker,L Bruce,1,0,,,,,,"",""
+ball,2,2.2,Luxembourg,TC Barker,SKS Gill,L Bruce,6,0,,,,,,"",""
+ball,2,2.3,Luxembourg,TC Barker,SKS Gill,L Bruce,1,0,,,,,,"",""
+ball,2,2.4,Luxembourg,SKS Gill,TC Barker,L Bruce,0,0,,,,,,"",""
+ball,2,2.5,Luxembourg,SKS Gill,TC Barker,L Bruce,1,0,,,,,,"",""
+ball,2,2.6,Luxembourg,TC Barker,SKS Gill,L Bruce,0,0,,,,,,"",""
+ball,2,3.1,Luxembourg,SKS Gill,TC Barker,K Nestor,0,0,,,,,,"",""
+ball,2,3.2,Luxembourg,SKS Gill,TC Barker,K Nestor,6,0,,,,,,"",""
+ball,2,3.3,Luxembourg,SKS Gill,TC Barker,K Nestor,1,0,,,,,,"",""
+ball,2,3.4,Luxembourg,TC Barker,SKS Gill,K Nestor,0,1,,,,1,,"",""
+ball,2,3.5,Luxembourg,SKS Gill,TC Barker,K Nestor,0,1,1,,,,,"",""
+ball,2,3.6,Luxembourg,SKS Gill,TC Barker,K Nestor,1,0,,,,,,"",""
+ball,2,3.7,Luxembourg,TC Barker,SKS Gill,K Nestor,1,0,,,,,,"",""
+ball,2,4.1,Luxembourg,TC Barker,SKS Gill,S Bodha,0,0,,,,,,"",""
+ball,2,4.2,Luxembourg,TC Barker,SKS Gill,S Bodha,0,0,,,,,,caught,TC Barker
+ball,2,4.3,Luxembourg,V Vijh,SKS Gill,S Bodha,0,0,,,,,,"",""
+ball,2,4.4,Luxembourg,V Vijh,SKS Gill,S Bodha,0,0,,,,,,"",""
+ball,2,4.5,Luxembourg,V Vijh,SKS Gill,S Bodha,0,0,,,,,,"",""
+ball,2,4.6,Luxembourg,V Vijh,SKS Gill,S Bodha,1,0,,,,,,"",""
+ball,2,5.1,Luxembourg,V Vijh,SKS Gill,K Mirpuri,0,0,,,,,,"",""
+ball,2,5.2,Luxembourg,V Vijh,SKS Gill,K Mirpuri,0,0,,,,,,"",""
+ball,2,5.3,Luxembourg,V Vijh,SKS Gill,K Mirpuri,1,0,,,,,,"",""
+ball,2,5.4,Luxembourg,SKS Gill,V Vijh,K Mirpuri,1,0,,,,,,"",""
+ball,2,5.5,Luxembourg,V Vijh,SKS Gill,K Mirpuri,0,0,,,,,,"",""
+ball,2,5.6,Luxembourg,V Vijh,SKS Gill,K Mirpuri,0,0,,,,,,"",""
+ball,2,6.1,Luxembourg,SKS Gill,V Vijh,S Bodha,1,0,,,,,,"",""
+ball,2,6.2,Luxembourg,V Vijh,SKS Gill,S Bodha,0,0,,,,,,"",""
+ball,2,6.3,Luxembourg,V Vijh,SKS Gill,S Bodha,1,0,,,,,,"",""
+ball,2,6.4,Luxembourg,SKS Gill,V Vijh,S Bodha,1,0,,,,,,"",""
+ball,2,6.5,Luxembourg,V Vijh,SKS Gill,S Bodha,0,0,,,,,,run out,V Vijh
+ball,2,6.6,Luxembourg,Anoop Orsu,SKS Gill,S Bodha,1,0,,,,,,"",""
+ball,2,7.1,Luxembourg,Anoop Orsu,SKS Gill,K Mirpuri,1,0,,,,,,"",""
+ball,2,7.2,Luxembourg,SKS Gill,Anoop Orsu,K Mirpuri,1,0,,,,,,"",""
+ball,2,7.3,Luxembourg,Anoop Orsu,SKS Gill,K Mirpuri,0,1,1,,,,,"",""
+ball,2,7.4,Luxembourg,Anoop Orsu,SKS Gill,K Mirpuri,0,0,,,,,,"",""
+ball,2,7.5,Luxembourg,Anoop Orsu,SKS Gill,K Mirpuri,1,0,,,,,,"",""
+ball,2,7.6,Luxembourg,SKS Gill,Anoop Orsu,K Mirpuri,1,0,,,,,,"",""
+ball,2,7.7,Luxembourg,Anoop Orsu,SKS Gill,K Mirpuri,0,0,,,,,,"",""
+ball,2,8.1,Luxembourg,SKS Gill,Anoop Orsu,S Bodha,1,0,,,,,,"",""
+ball,2,8.2,Luxembourg,Anoop Orsu,SKS Gill,S Bodha,1,0,,,,,,"",""
+ball,2,8.3,Luxembourg,SKS Gill,Anoop Orsu,S Bodha,1,0,,,,,,"",""
+ball,2,8.4,Luxembourg,Anoop Orsu,SKS Gill,S Bodha,0,0,,,,,,"",""
+ball,2,8.5,Luxembourg,Anoop Orsu,SKS Gill,S Bodha,0,0,,,,,,caught,Anoop Orsu
+ball,2,8.6,Luxembourg,J Barker,SKS Gill,S Bodha,1,0,,,,,,"",""
+ball,2,9.1,Luxembourg,J Barker,SKS Gill,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.2,Luxembourg,SKS Gill,J Barker,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.3,Luxembourg,J Barker,SKS Gill,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.4,Luxembourg,SKS Gill,J Barker,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.5,Luxembourg,J Barker,SKS Gill,K Mirpuri,1,0,,,,,,"",""
+ball,2,9.6,Luxembourg,SKS Gill,J Barker,K Mirpuri,1,0,,,,,,"",""
+ball,2,10.1,Luxembourg,SKS Gill,J Barker,S Bodha,1,0,,,,,,"",""
+ball,2,10.2,Luxembourg,J Barker,SKS Gill,S Bodha,4,0,,,,,,"",""
+ball,2,10.3,Luxembourg,J Barker,SKS Gill,S Bodha,0,0,,,,,,caught,J Barker
+ball,2,10.4,Luxembourg,T Martin,SKS Gill,S Bodha,1,0,,,,,,"",""
+ball,2,10.5,Luxembourg,SKS Gill,T Martin,S Bodha,0,0,,,,,,"",""
+ball,2,10.6,Luxembourg,SKS Gill,T Martin,S Bodha,1,0,,,,,,"",""
+ball,2,11.1,Luxembourg,SKS Gill,T Martin,K Mirpuri,1,0,,,,,,"",""
+ball,2,11.2,Luxembourg,T Martin,SKS Gill,K Mirpuri,2,0,,,,,,"",""
+ball,2,11.3,Luxembourg,T Martin,SKS Gill,K Mirpuri,4,0,,,,,,"",""
+ball,2,11.4,Luxembourg,T Martin,SKS Gill,K Mirpuri,2,0,,,,,,"",""
+ball,2,11.5,Luxembourg,T Martin,SKS Gill,K Mirpuri,6,0,,,,,,"",""
+ball,2,11.6,Luxembourg,T Martin,SKS Gill,K Mirpuri,2,0,,,,,,"",""
+ball,2,12.1,Luxembourg,SKS Gill,T Martin,J Horrocks,2,0,,,,,,"",""
+ball,2,12.2,Luxembourg,SKS Gill,T Martin,J Horrocks,1,0,,,,,,"",""
+ball,2,12.3,Luxembourg,T Martin,SKS Gill,J Horrocks,1,0,,,,,,"",""
+ball,2,12.4,Luxembourg,SKS Gill,T Martin,J Horrocks,1,0,,,,,,"",""
+ball,2,12.5,Luxembourg,T Martin,SKS Gill,J Horrocks,1,0,,,,,,"",""
+ball,2,12.6,Luxembourg,SKS Gill,T Martin,J Horrocks,1,0,,,,,,"",""
+ball,2,13.1,Luxembourg,SKS Gill,T Martin,A Reyes,1,0,,,,,,"",""
+ball,2,13.2,Luxembourg,T Martin,SKS Gill,A Reyes,0,0,,,,,,"",""
+ball,2,13.3,Luxembourg,T Martin,SKS Gill,A Reyes,2,0,,,,,,"",""
+ball,2,13.4,Luxembourg,T Martin,SKS Gill,A Reyes,1,0,,,,,,"",""
+ball,2,13.5,Luxembourg,SKS Gill,T Martin,A Reyes,1,0,,,,,,"",""
+ball,2,13.6,Luxembourg,T Martin,SKS Gill,A Reyes,1,0,,,,,,"",""
+ball,2,14.1,Luxembourg,T Martin,SKS Gill,J Horrocks,0,1,,,,1,,"",""
+ball,2,14.2,Luxembourg,SKS Gill,T Martin,J Horrocks,1,0,,,,,,"",""
+ball,2,14.3,Luxembourg,T Martin,SKS Gill,J Horrocks,1,0,,,,,,"",""
+ball,2,14.4,Luxembourg,SKS Gill,T Martin,J Horrocks,1,0,,,,,,"",""
+ball,2,14.5,Luxembourg,T Martin,SKS Gill,J Horrocks,2,0,,,,,,"",""
+ball,2,14.6,Luxembourg,T Martin,SKS Gill,J Horrocks,1,0,,,,,,"",""
+ball,2,15.1,Luxembourg,T Martin,SKS Gill,A Reyes,6,0,,,,,,"",""
+ball,2,15.2,Luxembourg,T Martin,SKS Gill,A Reyes,1,0,,,,,,"",""
+ball,2,15.3,Luxembourg,SKS Gill,T Martin,A Reyes,1,0,,,,,,"",""
+ball,2,15.4,Luxembourg,T Martin,SKS Gill,A Reyes,0,1,1,,,,,"",""
+ball,2,15.5,Luxembourg,T Martin,SKS Gill,A Reyes,0,0,,,,,,caught,T Martin
+ball,2,15.6,Luxembourg,J Mees,SKS Gill,A Reyes,1,0,,,,,,"",""
+ball,2,15.7,Luxembourg,SKS Gill,J Mees,A Reyes,4,0,,,,,,"",""
+ball,2,16.1,Luxembourg,J Mees,SKS Gill,J Horrocks,1,0,,,,,,"",""
+ball,2,16.2,Luxembourg,SKS Gill,J Mees,J Horrocks,1,0,,,,,,"",""
+ball,2,16.3,Luxembourg,J Mees,SKS Gill,J Horrocks,1,0,,,,,,"",""
+ball,2,16.4,Luxembourg,SKS Gill,J Mees,J Horrocks,4,0,,,,,,"",""
+ball,2,16.5,Luxembourg,SKS Gill,J Mees,J Horrocks,6,0,,,,,,"",""
+ball,2,16.6,Luxembourg,SKS Gill,J Mees,J Horrocks,6,0,,,,,,"",""
+ball,2,17.1,Luxembourg,J Mees,SKS Gill,L Bruce,4,0,,,,,,"",""
+ball,2,17.2,Luxembourg,J Mees,SKS Gill,L Bruce,0,1,1,,,,,"",""
+ball,2,17.3,Luxembourg,J Mees,SKS Gill,L Bruce,2,0,,,,,,"",""
+ball,2,17.4,Luxembourg,J Mees,SKS Gill,L Bruce,1,0,,,,,,"",""
+ball,2,17.5,Luxembourg,SKS Gill,J Mees,L Bruce,3,0,,,,,,"",""
+ball,2,17.6,Luxembourg,J Mees,SKS Gill,L Bruce,0,1,,,,1,,"",""
+ball,2,17.7,Luxembourg,SKS Gill,J Mees,L Bruce,1,0,,,,,,"",""
+ball,2,18.1,Luxembourg,SKS Gill,J Mees,J Horrocks,1,0,,,,,,"",""
+ball,2,18.2,Luxembourg,J Mees,SKS Gill,J Horrocks,0,0,,,,,,"",""
+ball,2,18.3,Luxembourg,J Mees,SKS Gill,J Horrocks,1,0,,,,,,run out,SKS Gill
+ball,2,18.4,Luxembourg,J Mees,M Dixit,J Horrocks,2,0,,,,,,"",""
+ball,2,18.5,Luxembourg,J Mees,M Dixit,J Horrocks,0,0,,,,,,"",""
+ball,2,18.6,Luxembourg,J Mees,M Dixit,J Horrocks,1,0,,,,,,"",""
+ball,2,19.1,Luxembourg,J Mees,M Dixit,L Bruce,0,1,1,,,,,"",""
+ball,2,19.2,Luxembourg,J Mees,M Dixit,L Bruce,1,0,,,,,,"",""
+ball,2,19.3,Luxembourg,M Dixit,J Mees,L Bruce,0,0,,,,,,caught,M Dixit
+ball,2,19.4,Luxembourg,Milad Momend,J Mees,L Bruce,0,0,,,,,,"",""
+ball,2,19.5,Luxembourg,Milad Momend,J Mees,L Bruce,0,0,,,,,,"",""
+ball,2,19.6,Luxembourg,Milad Momend,J Mees,L Bruce,0,0,,,,,,bowled,Milad Momend
+ball,2,19.7,Luxembourg,H Virdee,J Mees,L Bruce,1,0,,,,,,"",""

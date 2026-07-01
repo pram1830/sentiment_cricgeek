@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Netherlands
+info,gender,male
+info,season,2024
+info,date,2024/08/26
+info,event,Netherlands Tri-Nation T20I Series
+info,match_number,4
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,Saad Bin Zafar
+info,umpire,N Bathi
+info,umpire,Rizwan Akram
+info,reserve_umpire,M Prabhudesa
+info,match_referee,Philip Thompson
+info,winner,Canada
+info,winner_runs,8
+info,player,Canada,A Johnson
+info,player,Canada,R Pathan
+info,player,Canada,NR Kirton
+info,player,Canada,H Thaker
+info,player,Canada,S Movva
+info,player,Canada,Parveen Kumar
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Akhil Kumar
+info,player,Canada,D Heyliger
+info,player,Canada,Kaleem Sana
+info,player,Netherlands,M Levitt
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,ZB Lion-Cachet
+info,player,Netherlands,NRJ Croes
+info,player,Netherlands,R Klein
+info,player,Netherlands,K Klein
+info,player,Netherlands,PA van Meekeren
+info,player,Netherlands,BD Glover
+info,player,Netherlands,DT Doram
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,Akhil Kumar,2feb5b8d
+info,registry,people,BD Glover,0dbe27b8
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,DT Doram,3bea1983
+info,registry,people,H Thaker,c01d7726
+info,registry,people,K Klein,374bb5e7
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NRJ Croes,f427e63e
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,Parveen Kumar,e6b3c3cc
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Klein,ff1ec94d
+info,registry,people,R Pathan,7c840f73
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Movva,ee229588
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Vikramjit Singh,2a9eee66
+info,registry,people,ZB Lion-Cachet,d99de998
+ball,1,0.1,Canada,A Johnson,R Pathan,K Klein,0,0,,,,,,"",""
+ball,1,0.2,Canada,A Johnson,R Pathan,K Klein,0,0,,,,,,caught,A Johnson
+ball,1,0.3,Canada,NR Kirton,R Pathan,K Klein,0,0,,,,,,"",""
+ball,1,0.4,Canada,NR Kirton,R Pathan,K Klein,0,0,,,,,,"",""
+ball,1,0.5,Canada,NR Kirton,R Pathan,K Klein,0,0,,,,,,"",""
+ball,1,0.6,Canada,NR Kirton,R Pathan,K Klein,0,0,,,,,,"",""
+ball,1,1.1,Canada,R Pathan,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,1.2,Canada,R Pathan,NR Kirton,PA van Meekeren,0,0,,,,,,bowled,R Pathan
+ball,1,1.3,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,1.4,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,1.5,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,1.6,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,2.1,Canada,NR Kirton,H Thaker,K Klein,2,0,,,,,,"",""
+ball,1,2.2,Canada,NR Kirton,H Thaker,K Klein,0,0,,,,,,"",""
+ball,1,2.3,Canada,NR Kirton,H Thaker,K Klein,2,0,,,,,,"",""
+ball,1,2.4,Canada,NR Kirton,H Thaker,K Klein,0,0,,,,,,"",""
+ball,1,2.5,Canada,NR Kirton,H Thaker,K Klein,0,0,,,,,,"",""
+ball,1,2.6,Canada,NR Kirton,H Thaker,K Klein,0,0,,,,,,"",""
+ball,1,3.1,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,3.2,Canada,H Thaker,NR Kirton,PA van Meekeren,4,0,,,,,,"",""
+ball,1,3.3,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,3.4,Canada,H Thaker,NR Kirton,PA van Meekeren,2,0,,,,,,"",""
+ball,1,3.5,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,3.6,Canada,H Thaker,NR Kirton,PA van Meekeren,0,0,,,,,,"",""
+ball,1,4.1,Canada,NR Kirton,H Thaker,K Klein,1,0,,,,,,"",""
+ball,1,4.2,Canada,H Thaker,NR Kirton,K Klein,0,0,,,,,,"",""
+ball,1,4.3,Canada,H Thaker,NR Kirton,K Klein,4,0,,,,,,"",""
+ball,1,4.4,Canada,H Thaker,NR Kirton,K Klein,0,0,,,,,,bowled,H Thaker
+ball,1,4.5,Canada,S Movva,NR Kirton,K Klein,0,0,,,,,,"",""
+ball,1,4.6,Canada,S Movva,NR Kirton,K Klein,0,0,,,,,,"",""
+ball,1,5.1,Canada,NR Kirton,S Movva,PA van Meekeren,0,0,,,,,,"",""
+ball,1,5.2,Canada,NR Kirton,S Movva,PA van Meekeren,0,0,,,,,,"",""
+ball,1,5.3,Canada,NR Kirton,S Movva,PA van Meekeren,4,0,,,,,,"",""
+ball,1,5.4,Canada,NR Kirton,S Movva,PA van Meekeren,4,0,,,,,,"",""
+ball,1,5.5,Canada,NR Kirton,S Movva,PA van Meekeren,0,0,,,,,,caught,NR Kirton
+ball,1,5.6,Canada,Parveen Kumar,S Movva,PA van Meekeren,0,0,,,,,,"",""
+ball,1,6.1,Canada,S Movva,Parveen Kumar,DT Doram,1,0,,,,,,"",""
+ball,1,6.2,Canada,Parveen Kumar,S Movva,DT Doram,1,0,,,,,,"",""
+ball,1,6.3,Canada,S Movva,Parveen Kumar,DT Doram,0,0,,,,,,"",""
+ball,1,6.4,Canada,S Movva,Parveen Kumar,DT Doram,0,0,,,,,,"",""
+ball,1,6.5,Canada,S Movva,Parveen Kumar,DT Doram,1,0,,,,,,"",""
+ball,1,6.6,Canada,Parveen Kumar,S Movva,DT Doram,0,0,,,,,,"",""
+ball,1,7.1,Canada,S Movva,Parveen Kumar,BD Glover,1,0,,,,,,"",""
+ball,1,7.2,Canada,Parveen Kumar,S Movva,BD Glover,0,1,1,,,,,"",""
+ball,1,7.3,Canada,Parveen Kumar,S Movva,BD Glover,0,0,,,,,,"",""
+ball,1,7.4,Canada,Parveen Kumar,S Movva,BD Glover,1,0,,,,,,"",""
+ball,1,7.5,Canada,S Movva,Parveen Kumar,BD Glover,0,1,1,,,,,"",""
+ball,1,7.6,Canada,S Movva,Parveen Kumar,BD Glover,1,0,,,,,,"",""
+ball,1,7.7,Canada,Parveen Kumar,S Movva,BD Glover,2,0,,,,,,"",""
+ball,1,7.8,Canada,Parveen Kumar,S Movva,BD Glover,0,1,1,,,,,"",""
+ball,1,7.9,Canada,Parveen Kumar,S Movva,BD Glover,0,0,,,,,,"",""
+ball,1,8.1,Canada,S Movva,Parveen Kumar,DT Doram,1,0,,,,,,"",""
+ball,1,8.2,Canada,Parveen Kumar,S Movva,DT Doram,0,0,,,,,,stumped,Parveen Kumar
+ball,1,8.3,Canada,Ravinderpal Singh,S Movva,DT Doram,0,0,,,,,,"",""
+ball,1,8.4,Canada,Ravinderpal Singh,S Movva,DT Doram,0,0,,,,,,lbw,Ravinderpal Singh
+ball,1,8.5,Canada,Saad Bin Zafar,S Movva,DT Doram,0,0,,,,,,"",""
+ball,1,8.6,Canada,Saad Bin Zafar,S Movva,DT Doram,0,0,,,,,,"",""
+ball,1,9.1,Canada,S Movva,Saad Bin Zafar,BD Glover,0,1,1,,,,,"",""
+ball,1,9.2,Canada,S Movva,Saad Bin Zafar,BD Glover,0,1,1,,,,,"",""
+ball,1,9.3,Canada,S Movva,Saad Bin Zafar,BD Glover,0,1,1,,,,,"",""
+ball,1,9.4,Canada,S Movva,Saad Bin Zafar,BD Glover,1,0,,,,,,"",""
+ball,1,9.5,Canada,Saad Bin Zafar,S Movva,BD Glover,2,0,,,,,,"",""
+ball,1,9.6,Canada,Saad Bin Zafar,S Movva,BD Glover,0,1,,,,1,,"",""
+ball,1,9.7,Canada,S Movva,Saad Bin Zafar,BD Glover,4,0,,,,,,"",""
+ball,1,9.8,Canada,S Movva,Saad Bin Zafar,BD Glover,0,1,1,,,,,"",""
+ball,1,9.9,Canada,S Movva,Saad Bin Zafar,BD Glover,4,0,,,,,,"",""
+ball,1,9.10,Canada,S Movva,Saad Bin Zafar,BD Glover,1,0,,,,,,"",""
+ball,1,10.1,Canada,S Movva,Saad Bin Zafar,DT Doram,1,0,,,,,,"",""
+ball,1,10.2,Canada,Saad Bin Zafar,S Movva,DT Doram,1,0,,,,,,"",""
+ball,1,10.3,Canada,S Movva,Saad Bin Zafar,DT Doram,0,1,,,,1,,"",""
+ball,1,10.4,Canada,Saad Bin Zafar,S Movva,DT Doram,0,0,,,,,,"",""
+ball,1,10.5,Canada,Saad Bin Zafar,S Movva,DT Doram,0,0,,,,,,"",""
+ball,1,10.6,Canada,Saad Bin Zafar,S Movva,DT Doram,1,0,,,,,,"",""
+ball,1,11.1,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,4,0,,,,,,"",""
+ball,1,11.2,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,1,11.3,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,1,11.4,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,1,11.5,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,1,11.6,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,1,12.1,Canada,Saad Bin Zafar,S Movva,Vikramjit Singh,2,0,,,,,,"",""
+ball,1,12.2,Canada,Saad Bin Zafar,S Movva,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,12.3,Canada,S Movva,Saad Bin Zafar,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,12.4,Canada,Saad Bin Zafar,S Movva,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,12.5,Canada,S Movva,Saad Bin Zafar,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,12.6,Canada,Saad Bin Zafar,S Movva,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,13.1,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,2,0,,,,,,"",""
+ball,1,13.2,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,1,13.3,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,1,13.4,Canada,S Movva,Saad Bin Zafar,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,1,13.5,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,1,13.6,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,1,14.1,Canada,Saad Bin Zafar,S Movva,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,14.2,Canada,S Movva,Saad Bin Zafar,Vikramjit Singh,6,0,,,,,,"",""
+ball,1,14.3,Canada,S Movva,Saad Bin Zafar,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,14.4,Canada,Saad Bin Zafar,S Movva,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,14.5,Canada,S Movva,Saad Bin Zafar,Vikramjit Singh,0,0,,,,,,"",""
+ball,1,14.6,Canada,S Movva,Saad Bin Zafar,Vikramjit Singh,4,0,,,,,,"",""
+ball,1,15.1,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,2,0,,,,,,"",""
+ball,1,15.2,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,1,15.3,Canada,S Movva,Saad Bin Zafar,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,1,15.4,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,0,0,,,,,,"",""
+ball,1,15.5,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,4,0,,,,,,"",""
+ball,1,15.6,Canada,Saad Bin Zafar,S Movva,ZB Lion-Cachet,1,0,,,,,,"",""
+ball,1,16.1,Canada,Saad Bin Zafar,S Movva,DT Doram,1,0,,,,,,"",""
+ball,1,16.2,Canada,S Movva,Saad Bin Zafar,DT Doram,1,0,,,,,,"",""
+ball,1,16.3,Canada,Saad Bin Zafar,S Movva,DT Doram,2,0,,,,,,"",""
+ball,1,16.4,Canada,Saad Bin Zafar,S Movva,DT Doram,0,0,,,,,,"",""
+ball,1,16.5,Canada,Saad Bin Zafar,S Movva,DT Doram,1,0,,,,,,"",""
+ball,1,16.6,Canada,S Movva,Saad Bin Zafar,DT Doram,1,0,,,,,,"",""
+ball,1,17.1,Canada,S Movva,Saad Bin Zafar,Vikramjit Singh,0,0,,,,,,caught,S Movva
+ball,1,17.2,Canada,Akhil Kumar,Saad Bin Zafar,Vikramjit Singh,0,0,,,,,,"",""
+ball,1,17.3,Canada,Akhil Kumar,Saad Bin Zafar,Vikramjit Singh,2,0,,,,,,"",""
+ball,1,17.4,Canada,Akhil Kumar,Saad Bin Zafar,Vikramjit Singh,0,0,,,,,,"",""
+ball,1,17.5,Canada,Akhil Kumar,Saad Bin Zafar,Vikramjit Singh,1,0,,,,,,"",""
+ball,1,17.6,Canada,Saad Bin Zafar,Akhil Kumar,Vikramjit Singh,0,0,,,,,,"",""
+ball,1,18.1,Canada,Akhil Kumar,Saad Bin Zafar,K Klein,6,0,,,,,,"",""
+ball,1,18.2,Canada,Akhil Kumar,Saad Bin Zafar,K Klein,0,0,,,,,,caught,Akhil Kumar
+ball,1,18.3,Canada,D Heyliger,Saad Bin Zafar,K Klein,1,0,,,,,,"",""
+ball,1,18.4,Canada,Saad Bin Zafar,D Heyliger,K Klein,1,0,,,,,,"",""
+ball,1,18.5,Canada,D Heyliger,Saad Bin Zafar,K Klein,4,0,,,,,,"",""
+ball,1,18.6,Canada,D Heyliger,Saad Bin Zafar,K Klein,1,0,,,,,,"",""
+ball,1,19.1,Canada,D Heyliger,Saad Bin Zafar,PA van Meekeren,6,0,,,,,,"",""
+ball,1,19.2,Canada,D Heyliger,Saad Bin Zafar,PA van Meekeren,0,0,,,,,,caught,D Heyliger
+ball,1,19.3,Canada,Kaleem Sana,Saad Bin Zafar,PA van Meekeren,2,0,,,,,,"",""
+ball,1,19.4,Canada,Kaleem Sana,Saad Bin Zafar,PA van Meekeren,6,0,,,,,,"",""
+ball,1,19.5,Canada,Kaleem Sana,Saad Bin Zafar,PA van Meekeren,0,0,,,,,,"",""
+ball,1,19.6,Canada,Kaleem Sana,Saad Bin Zafar,PA van Meekeren,1,0,,,,,,"",""
+ball,2,0.1,Netherlands,M Levitt,MP O'Dowd,Kaleem Sana,0,0,,,,,,"",""
+ball,2,0.2,Netherlands,M Levitt,MP O'Dowd,Kaleem Sana,0,0,,,,,,"",""
+ball,2,0.3,Netherlands,M Levitt,MP O'Dowd,Kaleem Sana,2,0,,,,,,"",""
+ball,2,0.4,Netherlands,M Levitt,MP O'Dowd,Kaleem Sana,0,0,,,,,,"",""
+ball,2,0.5,Netherlands,M Levitt,MP O'Dowd,Kaleem Sana,0,0,,,,,,"",""
+ball,2,0.6,Netherlands,M Levitt,MP O'Dowd,Kaleem Sana,0,0,,,,,,"",""
+ball,2,1.1,Netherlands,MP O'Dowd,M Levitt,D Heyliger,0,0,,,,,,"",""
+ball,2,1.2,Netherlands,MP O'Dowd,M Levitt,D Heyliger,0,5,5,,,,,"",""
+ball,2,1.3,Netherlands,MP O'Dowd,M Levitt,D Heyliger,0,1,1,,,,,"",""
+ball,2,1.4,Netherlands,MP O'Dowd,M Levitt,D Heyliger,0,0,,,,,,bowled,MP O'Dowd
+ball,2,1.5,Netherlands,Vikramjit Singh,M Levitt,D Heyliger,0,0,,,,,,"",""
+ball,2,1.6,Netherlands,Vikramjit Singh,M Levitt,D Heyliger,1,0,,,,,,"",""
+ball,2,1.7,Netherlands,M Levitt,Vikramjit Singh,D Heyliger,0,0,,,,,,"",""
+ball,2,1.8,Netherlands,M Levitt,Vikramjit Singh,D Heyliger,0,0,,,,,,"",""
+ball,2,2.1,Netherlands,Vikramjit Singh,M Levitt,Kaleem Sana,0,1,,,,1,,"",""
+ball,2,2.2,Netherlands,M Levitt,Vikramjit Singh,Kaleem Sana,1,0,,,,,,"",""
+ball,2,2.3,Netherlands,Vikramjit Singh,M Levitt,Kaleem Sana,0,0,,,,,,"",""
+ball,2,2.4,Netherlands,Vikramjit Singh,M Levitt,Kaleem Sana,1,0,,,,,,"",""
+ball,2,2.5,Netherlands,M Levitt,Vikramjit Singh,Kaleem Sana,0,0,,,,,,"",""
+ball,2,2.6,Netherlands,M Levitt,Vikramjit Singh,Kaleem Sana,4,0,,,,,,"",""
+ball,2,3.1,Netherlands,Vikramjit Singh,M Levitt,D Heyliger,1,0,,,,,,"",""
+ball,2,3.2,Netherlands,M Levitt,Vikramjit Singh,D Heyliger,0,0,,,,,,"",""
+ball,2,3.3,Netherlands,M Levitt,Vikramjit Singh,D Heyliger,1,0,,,,,,"",""
+ball,2,3.4,Netherlands,Vikramjit Singh,M Levitt,D Heyliger,0,1,1,,,,,"",""
+ball,2,3.5,Netherlands,Vikramjit Singh,M Levitt,D Heyliger,4,0,,,,,,"",""
+ball,2,3.6,Netherlands,Vikramjit Singh,M Levitt,D Heyliger,0,0,,,,,,"",""
+ball,2,3.7,Netherlands,Vikramjit Singh,M Levitt,D Heyliger,4,0,,,,,,"",""
+ball,2,4.1,Netherlands,M Levitt,Vikramjit Singh,Kaleem Sana,1,0,,,,,,"",""
+ball,2,4.2,Netherlands,Vikramjit Singh,M Levitt,Kaleem Sana,2,0,,,,,,"",""
+ball,2,4.3,Netherlands,Vikramjit Singh,M Levitt,Kaleem Sana,4,0,,,,,,"",""
+ball,2,4.4,Netherlands,Vikramjit Singh,M Levitt,Kaleem Sana,0,1,,,,1,,"",""
+ball,2,4.5,Netherlands,M Levitt,Vikramjit Singh,Kaleem Sana,0,0,,,,,,"",""
+ball,2,4.6,Netherlands,M Levitt,Vikramjit Singh,Kaleem Sana,4,0,,,,,,"",""
+ball,2,5.1,Netherlands,Vikramjit Singh,M Levitt,Akhil Kumar,2,0,,,,,,"",""
+ball,2,5.2,Netherlands,Vikramjit Singh,M Levitt,Akhil Kumar,2,0,,,,,,"",""
+ball,2,5.3,Netherlands,Vikramjit Singh,M Levitt,Akhil Kumar,0,0,,,,,,"",""
+ball,2,5.4,Netherlands,Vikramjit Singh,M Levitt,Akhil Kumar,1,0,,,,,,"",""
+ball,2,5.5,Netherlands,M Levitt,Vikramjit Singh,Akhil Kumar,0,0,,,,,,"",""
+ball,2,5.6,Netherlands,M Levitt,Vikramjit Singh,Akhil Kumar,0,0,,,,,,"",""
+ball,2,6.1,Netherlands,Vikramjit Singh,M Levitt,Parveen Kumar,0,0,,,,,,"",""
+ball,2,6.2,Netherlands,Vikramjit Singh,M Levitt,Parveen Kumar,0,0,,,,,,"",""
+ball,2,6.3,Netherlands,Vikramjit Singh,M Levitt,Parveen Kumar,0,0,,,,,,run out,Vikramjit Singh
+ball,2,6.4,Netherlands,M Levitt,SA Edwards,Parveen Kumar,0,0,,,,,,"",""
+ball,2,6.5,Netherlands,M Levitt,SA Edwards,Parveen Kumar,0,0,,,,,,bowled,M Levitt
+ball,2,6.6,Netherlands,ZB Lion-Cachet,SA Edwards,Parveen Kumar,0,0,,,,,,"",""
+ball,2,7.1,Netherlands,SA Edwards,ZB Lion-Cachet,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,7.2,Netherlands,SA Edwards,ZB Lion-Cachet,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,7.3,Netherlands,SA Edwards,ZB Lion-Cachet,Saad Bin Zafar,0,0,,,,,,bowled,SA Edwards
+ball,2,7.4,Netherlands,NRJ Croes,ZB Lion-Cachet,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,7.5,Netherlands,NRJ Croes,ZB Lion-Cachet,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,7.6,Netherlands,NRJ Croes,ZB Lion-Cachet,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,8.1,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,0,1,,,,1,,"",""
+ball,2,8.2,Netherlands,NRJ Croes,ZB Lion-Cachet,Parveen Kumar,1,0,,,,,,"",""
+ball,2,8.3,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,0,0,,,,,,"",""
+ball,2,8.4,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,0,0,,,,,,"",""
+ball,2,8.5,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,0,0,,,,,,"",""
+ball,2,8.6,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,1,0,,,,,,"",""
+ball,2,9.1,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,9.2,Netherlands,NRJ Croes,ZB Lion-Cachet,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,9.3,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,9.4,Netherlands,NRJ Croes,ZB Lion-Cachet,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,9.5,Netherlands,NRJ Croes,ZB Lion-Cachet,Saad Bin Zafar,3,0,,,,,,"",""
+ball,2,9.6,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,10.1,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,2,0,,,,,,"",""
+ball,2,10.2,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,0,0,,,,,,"",""
+ball,2,10.3,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,1,0,,,,,,"",""
+ball,2,10.4,Netherlands,NRJ Croes,ZB Lion-Cachet,Parveen Kumar,0,1,1,,,,,"",""
+ball,2,10.5,Netherlands,NRJ Croes,ZB Lion-Cachet,Parveen Kumar,0,0,,,,,,"",""
+ball,2,10.6,Netherlands,NRJ Croes,ZB Lion-Cachet,Parveen Kumar,0,0,,,,,,"",""
+ball,2,10.7,Netherlands,NRJ Croes,ZB Lion-Cachet,Parveen Kumar,0,0,,,,,,"",""
+ball,2,11.1,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,2,0,,,,,,"",""
+ball,2,11.2,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,11.3,Netherlands,NRJ Croes,ZB Lion-Cachet,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,11.4,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,11.5,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,11.6,Netherlands,ZB Lion-Cachet,NRJ Croes,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,12.1,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,0,0,,,,,,"",""
+ball,2,12.2,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,2,0,,,,,,"",""
+ball,2,12.3,Netherlands,ZB Lion-Cachet,NRJ Croes,Parveen Kumar,0,0,,,,,,caught,ZB Lion-Cachet
+ball,2,12.4,Netherlands,R Klein,NRJ Croes,Parveen Kumar,1,0,,,,,,"",""
+ball,2,12.5,Netherlands,NRJ Croes,R Klein,Parveen Kumar,0,0,,,,,,"",""
+ball,2,12.6,Netherlands,NRJ Croes,R Klein,Parveen Kumar,1,0,,,,,,"",""
+ball,2,13.1,Netherlands,NRJ Croes,R Klein,H Thaker,1,0,,,,,,"",""
+ball,2,13.2,Netherlands,R Klein,NRJ Croes,H Thaker,1,0,,,,,,"",""
+ball,2,13.3,Netherlands,NRJ Croes,R Klein,H Thaker,1,0,,,,,,"",""
+ball,2,13.4,Netherlands,R Klein,NRJ Croes,H Thaker,0,0,,,,,,"",""
+ball,2,13.5,Netherlands,R Klein,NRJ Croes,H Thaker,0,0,,,,,,"",""
+ball,2,13.6,Netherlands,R Klein,NRJ Croes,H Thaker,0,0,,,,,,"",""
+ball,2,14.1,Netherlands,NRJ Croes,R Klein,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,14.2,Netherlands,R Klein,NRJ Croes,Saad Bin Zafar,0,1,1,,,,,"",""
+ball,2,14.3,Netherlands,R Klein,NRJ Croes,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,14.4,Netherlands,R Klein,NRJ Croes,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,14.5,Netherlands,R Klein,NRJ Croes,Saad Bin Zafar,0,1,,,,1,,"",""
+ball,2,14.6,Netherlands,NRJ Croes,R Klein,Saad Bin Zafar,0,1,,,,1,,"",""
+ball,2,14.7,Netherlands,R Klein,NRJ Croes,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,15.1,Netherlands,R Klein,NRJ Croes,H Thaker,1,0,,,,,,"",""
+ball,2,15.2,Netherlands,NRJ Croes,R Klein,H Thaker,1,0,,,,,,"",""
+ball,2,15.3,Netherlands,R Klein,NRJ Croes,H Thaker,1,0,,,,,,"",""
+ball,2,15.4,Netherlands,NRJ Croes,R Klein,H Thaker,1,0,,,,,,"",""
+ball,2,15.5,Netherlands,R Klein,NRJ Croes,H Thaker,2,0,,,,,,"",""
+ball,2,15.6,Netherlands,R Klein,NRJ Croes,H Thaker,1,0,,,,,,"",""
+ball,2,16.1,Netherlands,R Klein,NRJ Croes,Akhil Kumar,1,0,,,,,,"",""
+ball,2,16.2,Netherlands,NRJ Croes,R Klein,Akhil Kumar,1,0,,,,,,"",""
+ball,2,16.3,Netherlands,R Klein,NRJ Croes,Akhil Kumar,2,0,,,,,,"",""
+ball,2,16.4,Netherlands,R Klein,NRJ Croes,Akhil Kumar,1,0,,,,,,"",""
+ball,2,16.5,Netherlands,NRJ Croes,R Klein,Akhil Kumar,4,0,,,,,,"",""
+ball,2,16.6,Netherlands,NRJ Croes,R Klein,Akhil Kumar,0,0,,,,,,"",""
+ball,2,17.1,Netherlands,R Klein,NRJ Croes,H Thaker,2,0,,,,,,"",""
+ball,2,17.2,Netherlands,R Klein,NRJ Croes,H Thaker,4,0,,,,,,"",""
+ball,2,17.3,Netherlands,R Klein,NRJ Croes,H Thaker,2,0,,,,,,"",""
+ball,2,17.4,Netherlands,R Klein,NRJ Croes,H Thaker,1,0,,,,,,"",""
+ball,2,17.5,Netherlands,NRJ Croes,R Klein,H Thaker,1,0,,,,,,"",""
+ball,2,17.6,Netherlands,R Klein,NRJ Croes,H Thaker,1,0,,,,,,"",""
+ball,2,18.1,Netherlands,R Klein,NRJ Croes,Kaleem Sana,0,0,,,,,,bowled,R Klein
+ball,2,18.2,Netherlands,K Klein,NRJ Croes,Kaleem Sana,1,0,,,,,,"",""
+ball,2,18.3,Netherlands,NRJ Croes,K Klein,Kaleem Sana,1,0,,,,,,"",""
+ball,2,18.4,Netherlands,K Klein,NRJ Croes,Kaleem Sana,0,0,,,,,,"",""
+ball,2,18.5,Netherlands,K Klein,NRJ Croes,Kaleem Sana,2,0,,,,,,"",""
+ball,2,18.6,Netherlands,K Klein,NRJ Croes,Kaleem Sana,0,0,,,,,,bowled,K Klein
+ball,2,19.1,Netherlands,NRJ Croes,PA van Meekeren,D Heyliger,2,0,,,,,,"",""
+ball,2,19.2,Netherlands,NRJ Croes,PA van Meekeren,D Heyliger,4,0,,,,,,"",""
+ball,2,19.3,Netherlands,NRJ Croes,PA van Meekeren,D Heyliger,6,0,,,,,,"",""
+ball,2,19.4,Netherlands,NRJ Croes,PA van Meekeren,D Heyliger,1,0,,,,,,run out,NRJ Croes
+ball,2,19.5,Netherlands,PA van Meekeren,BD Glover,D Heyliger,1,0,,,,,,"",""
+ball,2,19.6,Netherlands,BD Glover,PA van Meekeren,D Heyliger,4,0,,,,,,"",""

@@ -1,0 +1,23 @@
+{
+  "total_rows": 979,
+  "train_rows": 783,
+  "test_rows": 196,
+  "class_distribution_train": {
+    "BALANCED_DEBATE": 1,
+    "CONSTRUCTIVE_CRITICISM": 116,
+    "DIRECT_ATTACK": 10,
+    "DISMISSIVE_COMPLAINT": 6,
+    "MIXED_STANCE": 86,
+    "NEUTRAL_ANALYSIS": 561,
+    "SUPPORTIVE_DEFENSE": 3
+  },
+  "class_distribution_test": {
+    "CONSTRUCTIVE_CRITICISM": 29,
+    "DIRECT_ATTACK": 2,
+    "DISMISSIVE_COMPLAINT": 2,
+    "MIXED_STANCE": 22,
+    "NEUTRAL_ANALYSIS": 140,
+    "SUPPORTIVE_DEFENSE": 1
+  },
+  "random_seed_used": 42
+}

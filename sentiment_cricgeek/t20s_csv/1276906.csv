@@ -1,0 +1,325 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2022
+info,date,2022/07/10
+info,event,India tour of England
+info,match_number,3
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,RJW Topley
+info,umpire,AG Wharf
+info,umpire,MJ Saggers
+info,reserve_umpire,RJ Bailey
+info,tv_umpire,DJ Millns
+info,match_referee,BC Broad
+info,winner,England
+info,winner_runs,17
+info,player,England,JJ Roy
+info,player,England,JC Buttler
+info,player,England,DJ Malan
+info,player,England,PD Salt
+info,player,England,LS Livingstone
+info,player,England,MM Ali
+info,player,England,HC Brook
+info,player,England,CJ Jordan
+info,player,England,DJ Willey
+info,player,England,RJ Gleeson
+info,player,England,RJW Topley
+info,player,India,RG Sharma
+info,player,India,RR Pant
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,SS Iyer
+info,player,India,KD Karthik
+info,player,India,RA Jadeja
+info,player,India,HV Patel
+info,player,India,Avesh Khan
+info,player,India,Ravi Bishnoi
+info,player,India,Umran Malik
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Willey,7f048519
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MM Ali,bb351c23
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,V Kohli,ba607b88
+ball,1,0.1,England,JJ Roy,JC Buttler,Avesh Khan,0,0,,,,,,"",""
+ball,1,0.2,England,JJ Roy,JC Buttler,Avesh Khan,0,0,,,,,,"",""
+ball,1,0.3,England,JJ Roy,JC Buttler,Avesh Khan,0,0,,,,,,"",""
+ball,1,0.4,England,JJ Roy,JC Buttler,Avesh Khan,2,0,,,,,,"",""
+ball,1,0.5,England,JJ Roy,JC Buttler,Avesh Khan,0,0,,,,,,"",""
+ball,1,0.6,England,JJ Roy,JC Buttler,Avesh Khan,0,0,,,,,,"",""
+ball,1,1.1,England,JC Buttler,JJ Roy,Umran Malik,4,0,,,,,,"",""
+ball,1,1.2,England,JC Buttler,JJ Roy,Umran Malik,0,0,,,,,,"",""
+ball,1,1.3,England,JC Buttler,JJ Roy,Umran Malik,0,1,,,,1,,"",""
+ball,1,1.4,England,JJ Roy,JC Buttler,Umran Malik,1,0,,,,,,"",""
+ball,1,1.5,England,JC Buttler,JJ Roy,Umran Malik,6,0,,,,,,"",""
+ball,1,1.6,England,JC Buttler,JJ Roy,Umran Malik,0,1,1,,,,,"",""
+ball,1,1.7,England,JC Buttler,JJ Roy,Umran Malik,4,0,,,,,,"",""
+ball,1,2.1,England,JJ Roy,JC Buttler,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,2.2,England,JJ Roy,JC Buttler,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,2.3,England,JJ Roy,JC Buttler,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,2.4,England,JJ Roy,JC Buttler,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,2.5,England,JC Buttler,JJ Roy,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,2.6,England,JJ Roy,JC Buttler,Ravi Bishnoi,6,0,,,,,,"",""
+ball,1,3.1,England,JC Buttler,JJ Roy,Avesh Khan,3,0,,,,,,"",""
+ball,1,3.2,England,JJ Roy,JC Buttler,Avesh Khan,0,1,,,,1,,"",""
+ball,1,3.3,England,JC Buttler,JJ Roy,Avesh Khan,0,0,,,,,,"",""
+ball,1,3.4,England,JC Buttler,JJ Roy,Avesh Khan,0,0,,,,,,bowled,JC Buttler
+ball,1,3.5,England,DJ Malan,JJ Roy,Avesh Khan,0,0,,,,,,"",""
+ball,1,3.6,England,DJ Malan,JJ Roy,Avesh Khan,0,1,1,,,,,"",""
+ball,1,3.7,England,DJ Malan,JJ Roy,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.1,England,JJ Roy,DJ Malan,RA Jadeja,6,0,,,,,,"",""
+ball,1,4.2,England,JJ Roy,DJ Malan,RA Jadeja,0,0,,,,,,"",""
+ball,1,4.3,England,JJ Roy,DJ Malan,RA Jadeja,4,0,,,,,,"",""
+ball,1,4.4,England,JJ Roy,DJ Malan,RA Jadeja,0,0,,,,,,"",""
+ball,1,4.5,England,JJ Roy,DJ Malan,RA Jadeja,0,0,,,,,,"",""
+ball,1,4.6,England,JJ Roy,DJ Malan,RA Jadeja,1,0,,,,,,"",""
+ball,1,5.1,England,JJ Roy,DJ Malan,HV Patel,1,0,,,,,,"",""
+ball,1,5.2,England,DJ Malan,JJ Roy,HV Patel,4,0,,,,,,"",""
+ball,1,5.3,England,DJ Malan,JJ Roy,HV Patel,0,0,,,,,,"",""
+ball,1,5.4,England,DJ Malan,JJ Roy,HV Patel,2,0,,,,,,"",""
+ball,1,5.5,England,DJ Malan,JJ Roy,HV Patel,1,0,,,,,,"",""
+ball,1,5.6,England,JJ Roy,DJ Malan,HV Patel,1,0,,,,,,"",""
+ball,1,6.1,England,JJ Roy,DJ Malan,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,6.2,England,JJ Roy,DJ Malan,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,6.3,England,DJ Malan,JJ Roy,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,6.4,England,DJ Malan,JJ Roy,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,6.5,England,JJ Roy,DJ Malan,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,6.6,England,JJ Roy,DJ Malan,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.1,England,JJ Roy,DJ Malan,Umran Malik,0,0,,,,,,caught,JJ Roy
+ball,1,7.2,England,PD Salt,DJ Malan,Umran Malik,4,0,,,,,,"",""
+ball,1,7.3,England,PD Salt,DJ Malan,Umran Malik,0,1,1,,,,,"",""
+ball,1,7.4,England,PD Salt,DJ Malan,Umran Malik,1,0,,,,,,"",""
+ball,1,7.5,England,DJ Malan,PD Salt,Umran Malik,0,0,,,,,,"",""
+ball,1,7.6,England,DJ Malan,PD Salt,Umran Malik,4,0,,,,,,"",""
+ball,1,7.7,England,DJ Malan,PD Salt,Umran Malik,0,0,,,,,,"",""
+ball,1,8.1,England,PD Salt,DJ Malan,RA Jadeja,1,0,,,,,,"",""
+ball,1,8.2,England,DJ Malan,PD Salt,RA Jadeja,6,0,,,,,,"",""
+ball,1,8.3,England,DJ Malan,PD Salt,RA Jadeja,0,0,,,,,,"",""
+ball,1,8.4,England,DJ Malan,PD Salt,RA Jadeja,2,0,,,,,,"",""
+ball,1,8.5,England,DJ Malan,PD Salt,RA Jadeja,1,0,,,,,,"",""
+ball,1,8.6,England,PD Salt,DJ Malan,RA Jadeja,1,0,,,,,,"",""
+ball,1,9.1,England,PD Salt,DJ Malan,HV Patel,1,0,,,,,,"",""
+ball,1,9.2,England,DJ Malan,PD Salt,HV Patel,1,0,,,,,,"",""
+ball,1,9.3,England,PD Salt,DJ Malan,HV Patel,0,0,,,,,,bowled,PD Salt
+ball,1,9.4,England,LS Livingstone,DJ Malan,HV Patel,1,0,,,,,,"",""
+ball,1,9.5,England,DJ Malan,LS Livingstone,HV Patel,1,0,,,,,,"",""
+ball,1,9.6,England,LS Livingstone,DJ Malan,HV Patel,0,0,,,,,,"",""
+ball,1,10.1,England,DJ Malan,LS Livingstone,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,10.2,England,DJ Malan,LS Livingstone,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,10.3,England,DJ Malan,LS Livingstone,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,10.4,England,DJ Malan,LS Livingstone,Ravi Bishnoi,4,1,,1,,,,"",""
+ball,1,10.5,England,DJ Malan,LS Livingstone,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.6,England,LS Livingstone,DJ Malan,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,10.7,England,DJ Malan,LS Livingstone,Ravi Bishnoi,3,0,,,,,,"",""
+ball,1,11.1,England,DJ Malan,LS Livingstone,RA Jadeja,4,0,,,,,,"",""
+ball,1,11.2,England,DJ Malan,LS Livingstone,RA Jadeja,6,0,,,,,,"",""
+ball,1,11.3,England,DJ Malan,LS Livingstone,RA Jadeja,1,0,,,,,,"",""
+ball,1,11.4,England,LS Livingstone,DJ Malan,RA Jadeja,1,0,,,,,,"",""
+ball,1,11.5,England,DJ Malan,LS Livingstone,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.6,England,DJ Malan,LS Livingstone,RA Jadeja,1,0,,,,,,"",""
+ball,1,12.1,England,DJ Malan,LS Livingstone,Umran Malik,0,0,,,,,,"",""
+ball,1,12.2,England,DJ Malan,LS Livingstone,Umran Malik,2,0,,,,,,"",""
+ball,1,12.3,England,DJ Malan,LS Livingstone,Umran Malik,4,0,,,,,,"",""
+ball,1,12.4,England,DJ Malan,LS Livingstone,Umran Malik,6,0,,,,,,"",""
+ball,1,12.5,England,DJ Malan,LS Livingstone,Umran Malik,1,0,,,,,,"",""
+ball,1,12.6,England,LS Livingstone,DJ Malan,Umran Malik,1,0,,,,,,"",""
+ball,1,13.1,England,LS Livingstone,DJ Malan,Avesh Khan,6,0,,,,,,"",""
+ball,1,13.2,England,LS Livingstone,DJ Malan,Avesh Khan,2,0,,,,,,"",""
+ball,1,13.3,England,LS Livingstone,DJ Malan,Avesh Khan,0,0,,,,,,"",""
+ball,1,13.4,England,LS Livingstone,DJ Malan,Avesh Khan,1,0,,,,,,"",""
+ball,1,13.5,England,DJ Malan,LS Livingstone,Avesh Khan,2,0,,,,,,"",""
+ball,1,13.6,England,DJ Malan,LS Livingstone,Avesh Khan,6,0,,,,,,"",""
+ball,1,14.1,England,LS Livingstone,DJ Malan,RA Jadeja,1,0,,,,,,"",""
+ball,1,14.2,England,DJ Malan,LS Livingstone,RA Jadeja,6,0,,,,,,"",""
+ball,1,14.3,England,DJ Malan,LS Livingstone,RA Jadeja,1,0,,,,,,"",""
+ball,1,14.4,England,LS Livingstone,DJ Malan,RA Jadeja,0,1,1,,,,,"",""
+ball,1,14.5,England,LS Livingstone,DJ Malan,RA Jadeja,0,0,,,,,,"",""
+ball,1,14.6,England,LS Livingstone,DJ Malan,RA Jadeja,0,0,,,,,,"",""
+ball,1,14.7,England,LS Livingstone,DJ Malan,RA Jadeja,1,0,,,,,,"",""
+ball,1,15.1,England,LS Livingstone,DJ Malan,HV Patel,2,0,,,,,,"",""
+ball,1,15.2,England,LS Livingstone,DJ Malan,HV Patel,0,0,,,,,,"",""
+ball,1,15.3,England,LS Livingstone,DJ Malan,HV Patel,6,0,,,,,,"",""
+ball,1,15.4,England,LS Livingstone,DJ Malan,HV Patel,6,0,,,,,,"",""
+ball,1,15.5,England,LS Livingstone,DJ Malan,HV Patel,0,1,,,1,,,"",""
+ball,1,15.6,England,DJ Malan,LS Livingstone,HV Patel,0,0,,,,,,"",""
+ball,1,16.1,England,LS Livingstone,DJ Malan,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,16.2,England,LS Livingstone,DJ Malan,Ravi Bishnoi,0,1,,,,1,,"",""
+ball,1,16.3,England,DJ Malan,LS Livingstone,Ravi Bishnoi,0,0,,,,,,caught,DJ Malan
+ball,1,16.4,England,LS Livingstone,MM Ali,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,16.5,England,MM Ali,LS Livingstone,Ravi Bishnoi,0,0,,,,,,caught,MM Ali
+ball,1,16.6,England,LS Livingstone,HC Brook,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,17.1,England,HC Brook,LS Livingstone,Avesh Khan,4,0,,,,,,"",""
+ball,1,17.2,England,HC Brook,LS Livingstone,Avesh Khan,4,1,,1,,,,"",""
+ball,1,17.3,England,HC Brook,LS Livingstone,Avesh Khan,2,0,,,,,,"",""
+ball,1,17.4,England,HC Brook,LS Livingstone,Avesh Khan,2,0,,,,,,"",""
+ball,1,17.5,England,HC Brook,LS Livingstone,Avesh Khan,1,0,,,,,,"",""
+ball,1,17.6,England,LS Livingstone,HC Brook,Avesh Khan,6,0,,,,,,"",""
+ball,1,17.7,England,LS Livingstone,HC Brook,Avesh Khan,0,1,,,,1,,"",""
+ball,1,18.1,England,LS Livingstone,HC Brook,HV Patel,1,0,,,,,,"",""
+ball,1,18.2,England,HC Brook,LS Livingstone,HV Patel,2,0,,,,,,"",""
+ball,1,18.3,England,HC Brook,LS Livingstone,HV Patel,4,0,,,,,,"",""
+ball,1,18.4,England,HC Brook,LS Livingstone,HV Patel,0,0,,,,,,"",""
+ball,1,18.5,England,HC Brook,LS Livingstone,HV Patel,0,0,,,,,,caught,HC Brook
+ball,1,18.6,England,LS Livingstone,CJ Jordan,HV Patel,1,0,,,,,,"",""
+ball,1,19.1,England,LS Livingstone,CJ Jordan,Umran Malik,0,1,1,,,,,"",""
+ball,1,19.2,England,LS Livingstone,CJ Jordan,Umran Malik,2,0,,,,,,"",""
+ball,1,19.3,England,LS Livingstone,CJ Jordan,Umran Malik,2,0,,,,,,"",""
+ball,1,19.4,England,LS Livingstone,CJ Jordan,Umran Malik,0,1,,,,1,,"",""
+ball,1,19.5,England,CJ Jordan,LS Livingstone,Umran Malik,4,0,,,,,,"",""
+ball,1,19.6,England,CJ Jordan,LS Livingstone,Umran Malik,6,0,,,,,,"",""
+ball,1,19.7,England,CJ Jordan,LS Livingstone,Umran Malik,1,0,,,,,,run out,CJ Jordan
+ball,2,0.1,India,RG Sharma,RR Pant,DJ Willey,1,0,,,,,,"",""
+ball,2,0.2,India,RR Pant,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,2,0.3,India,RR Pant,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,2,0.4,India,RR Pant,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,2,0.5,India,RR Pant,RG Sharma,DJ Willey,1,0,,,,,,"",""
+ball,2,0.6,India,RG Sharma,RR Pant,DJ Willey,0,0,,,,,,"",""
+ball,2,1.1,India,RR Pant,RG Sharma,RJW Topley,0,0,,,,,,caught,RR Pant
+ball,2,1.2,India,V Kohli,RG Sharma,RJW Topley,0,0,,,,,,"",""
+ball,2,1.3,India,V Kohli,RG Sharma,RJW Topley,1,0,,,,,,"",""
+ball,2,1.4,India,RG Sharma,V Kohli,RJW Topley,0,0,,,,,,"",""
+ball,2,1.5,India,RG Sharma,V Kohli,RJW Topley,0,0,,,,,,"",""
+ball,2,1.6,India,RG Sharma,V Kohli,RJW Topley,0,0,,,,,,"",""
+ball,2,2.1,India,V Kohli,RG Sharma,DJ Willey,0,0,,,,,,"",""
+ball,2,2.2,India,V Kohli,RG Sharma,DJ Willey,4,0,,,,,,"",""
+ball,2,2.3,India,V Kohli,RG Sharma,DJ Willey,6,0,,,,,,"",""
+ball,2,2.4,India,V Kohli,RG Sharma,DJ Willey,0,0,,,,,,caught,V Kohli
+ball,2,2.5,India,SA Yadav,RG Sharma,DJ Willey,1,0,,,,,,"",""
+ball,2,2.6,India,RG Sharma,SA Yadav,DJ Willey,0,0,,,,,,"",""
+ball,2,3.1,India,SA Yadav,RG Sharma,RJ Gleeson,0,0,,,,,,"",""
+ball,2,3.2,India,SA Yadav,RG Sharma,RJ Gleeson,1,0,,,,,,"",""
+ball,2,3.3,India,RG Sharma,SA Yadav,RJ Gleeson,1,0,,,,,,"",""
+ball,2,3.4,India,SA Yadav,RG Sharma,RJ Gleeson,0,0,,,,,,"",""
+ball,2,3.5,India,SA Yadav,RG Sharma,RJ Gleeson,0,0,,,,,,"",""
+ball,2,3.6,India,SA Yadav,RG Sharma,RJ Gleeson,4,0,,,,,,"",""
+ball,2,4.1,India,RG Sharma,SA Yadav,RJW Topley,4,0,,,,,,"",""
+ball,2,4.2,India,RG Sharma,SA Yadav,RJW Topley,1,0,,,,,,"",""
+ball,2,4.3,India,SA Yadav,RG Sharma,RJW Topley,0,1,1,,,,,"",""
+ball,2,4.4,India,SA Yadav,RG Sharma,RJW Topley,1,0,,,,,,"",""
+ball,2,4.5,India,RG Sharma,SA Yadav,RJW Topley,4,0,,,,,,"",""
+ball,2,4.6,India,RG Sharma,SA Yadav,RJW Topley,0,0,,,,,,"",""
+ball,2,4.7,India,RG Sharma,SA Yadav,RJW Topley,0,0,,,,,,caught,RG Sharma
+ball,2,5.1,India,SA Yadav,SS Iyer,RJ Gleeson,0,0,,,,,,"",""
+ball,2,5.2,India,SA Yadav,SS Iyer,RJ Gleeson,0,0,,,,,,"",""
+ball,2,5.3,India,SA Yadav,SS Iyer,RJ Gleeson,0,0,,,,,,"",""
+ball,2,5.4,India,SA Yadav,SS Iyer,RJ Gleeson,0,1,,,,1,,"",""
+ball,2,5.5,India,SS Iyer,SA Yadav,RJ Gleeson,1,0,,,,,,"",""
+ball,2,5.6,India,SA Yadav,SS Iyer,RJ Gleeson,1,0,,,,,,"",""
+ball,2,6.1,India,SA Yadav,SS Iyer,DJ Willey,4,0,,,,,,"",""
+ball,2,6.2,India,SA Yadav,SS Iyer,DJ Willey,6,0,,,,,,"",""
+ball,2,6.3,India,SA Yadav,SS Iyer,DJ Willey,1,0,,,,,,"",""
+ball,2,6.4,India,SS Iyer,SA Yadav,DJ Willey,1,0,,,,,,"",""
+ball,2,6.5,India,SA Yadav,SS Iyer,DJ Willey,1,0,,,,,,"",""
+ball,2,6.6,India,SS Iyer,SA Yadav,DJ Willey,2,0,,,,,,"",""
+ball,2,7.1,India,SA Yadav,SS Iyer,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.2,India,SS Iyer,SA Yadav,CJ Jordan,0,0,,,,,,"",""
+ball,2,7.3,India,SS Iyer,SA Yadav,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.4,India,SA Yadav,SS Iyer,CJ Jordan,4,0,,,,,,"",""
+ball,2,7.5,India,SA Yadav,SS Iyer,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.6,India,SS Iyer,SA Yadav,CJ Jordan,0,0,,,,,,"",""
+ball,2,8.1,India,SA Yadav,SS Iyer,LS Livingstone,4,0,,,,,,"",""
+ball,2,8.2,India,SA Yadav,SS Iyer,LS Livingstone,0,0,,,,,,"",""
+ball,2,8.3,India,SA Yadav,SS Iyer,LS Livingstone,4,0,,,,,,"",""
+ball,2,8.4,India,SA Yadav,SS Iyer,LS Livingstone,0,1,1,,,,,"",""
+ball,2,8.5,India,SA Yadav,SS Iyer,LS Livingstone,4,0,,,,,,"",""
+ball,2,8.6,India,SA Yadav,SS Iyer,LS Livingstone,0,0,,,,,,"",""
+ball,2,8.7,India,SA Yadav,SS Iyer,LS Livingstone,2,0,,,,,,"",""
+ball,2,9.1,India,SS Iyer,SA Yadav,MM Ali,2,0,,,,,,"",""
+ball,2,9.2,India,SS Iyer,SA Yadav,MM Ali,0,0,,,,,,"",""
+ball,2,9.3,India,SS Iyer,SA Yadav,MM Ali,6,0,,,,,,"",""
+ball,2,9.4,India,SS Iyer,SA Yadav,MM Ali,0,0,,,,,,"",""
+ball,2,9.5,India,SS Iyer,SA Yadav,MM Ali,1,0,,,,,,"",""
+ball,2,9.6,India,SA Yadav,SS Iyer,MM Ali,0,1,1,,,,,"",""
+ball,2,9.7,India,SA Yadav,SS Iyer,MM Ali,1,0,,,,,,"",""
+ball,2,10.1,India,SA Yadav,SS Iyer,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.2,India,SS Iyer,SA Yadav,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.3,India,SA Yadav,SS Iyer,CJ Jordan,2,0,,,,,,"",""
+ball,2,10.4,India,SA Yadav,SS Iyer,CJ Jordan,0,0,,,,,,"",""
+ball,2,10.5,India,SA Yadav,SS Iyer,CJ Jordan,4,0,,,,,,"",""
+ball,2,10.6,India,SA Yadav,SS Iyer,CJ Jordan,1,0,,,,,,"",""
+ball,2,11.1,India,SA Yadav,SS Iyer,RJW Topley,1,0,,,,,,"",""
+ball,2,11.2,India,SS Iyer,SA Yadav,RJW Topley,1,0,,,,,,"",""
+ball,2,11.3,India,SA Yadav,SS Iyer,RJW Topley,1,0,,,,,,"",""
+ball,2,11.4,India,SS Iyer,SA Yadav,RJW Topley,0,0,,,,,,"",""
+ball,2,11.5,India,SS Iyer,SA Yadav,RJW Topley,1,0,,,,,,"",""
+ball,2,11.6,India,SA Yadav,SS Iyer,RJW Topley,1,0,,,,,,"",""
+ball,2,12.1,India,SA Yadav,SS Iyer,LS Livingstone,6,0,,,,,,"",""
+ball,2,12.2,India,SA Yadav,SS Iyer,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.3,India,SS Iyer,SA Yadav,LS Livingstone,6,0,,,,,,"",""
+ball,2,12.4,India,SS Iyer,SA Yadav,LS Livingstone,0,0,,,,,,"",""
+ball,2,12.5,India,SS Iyer,SA Yadav,LS Livingstone,1,1,,1,,,,"",""
+ball,2,12.6,India,SA Yadav,SS Iyer,LS Livingstone,6,0,,,,,,"",""
+ball,2,12.7,India,SA Yadav,SS Iyer,LS Livingstone,0,0,,,,,,"",""
+ball,2,13.1,India,SS Iyer,SA Yadav,RJ Gleeson,1,0,,,,,,"",""
+ball,2,13.2,India,SA Yadav,SS Iyer,RJ Gleeson,6,0,,,,,,"",""
+ball,2,13.3,India,SA Yadav,SS Iyer,RJ Gleeson,1,0,,,,,,"",""
+ball,2,13.4,India,SS Iyer,SA Yadav,RJ Gleeson,1,0,,,,,,"",""
+ball,2,13.5,India,SA Yadav,SS Iyer,RJ Gleeson,4,0,,,,,,"",""
+ball,2,13.6,India,SA Yadav,SS Iyer,RJ Gleeson,2,0,,,,,,"",""
+ball,2,14.1,India,SS Iyer,SA Yadav,CJ Jordan,0,1,1,,,,,"",""
+ball,2,14.2,India,SS Iyer,SA Yadav,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.3,India,SA Yadav,SS Iyer,CJ Jordan,4,0,,,,,,"",""
+ball,2,14.4,India,SA Yadav,SS Iyer,CJ Jordan,4,0,,,,,,"",""
+ball,2,14.5,India,SA Yadav,SS Iyer,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.6,India,SS Iyer,SA Yadav,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.7,India,SA Yadav,SS Iyer,CJ Jordan,6,0,,,,,,"",""
+ball,2,15.1,India,SS Iyer,SA Yadav,RJW Topley,0,0,,,,,,caught,SS Iyer
+ball,2,15.2,India,KD Karthik,SA Yadav,RJW Topley,0,0,,,,,,"",""
+ball,2,15.3,India,KD Karthik,SA Yadav,RJW Topley,0,0,,,,,,"",""
+ball,2,15.4,India,KD Karthik,SA Yadav,RJW Topley,0,0,,,,,,"",""
+ball,2,15.5,India,KD Karthik,SA Yadav,RJW Topley,1,0,,,,,,"",""
+ball,2,15.6,India,SA Yadav,KD Karthik,RJW Topley,4,0,,,,,,"",""
+ball,2,16.1,India,KD Karthik,SA Yadav,DJ Willey,4,0,,,,,,"",""
+ball,2,16.2,India,KD Karthik,SA Yadav,DJ Willey,0,1,1,,,,,"",""
+ball,2,16.3,India,KD Karthik,SA Yadav,DJ Willey,1,0,,,,,,"",""
+ball,2,16.4,India,SA Yadav,KD Karthik,DJ Willey,4,0,,,,,,"",""
+ball,2,16.5,India,SA Yadav,KD Karthik,DJ Willey,1,0,,,,,,"",""
+ball,2,16.6,India,KD Karthik,SA Yadav,DJ Willey,0,0,,,,,,lbw,KD Karthik
+ball,2,16.7,India,RA Jadeja,SA Yadav,DJ Willey,1,0,,,,,,"",""
+ball,2,17.1,India,RA Jadeja,SA Yadav,RJ Gleeson,0,0,,,,,,"",""
+ball,2,17.2,India,RA Jadeja,SA Yadav,RJ Gleeson,6,0,,,,,,"",""
+ball,2,17.3,India,RA Jadeja,SA Yadav,RJ Gleeson,0,0,,,,,,lbw,RA Jadeja
+ball,2,17.4,India,HV Patel,SA Yadav,RJ Gleeson,0,0,,,,,,"",""
+ball,2,17.5,India,HV Patel,SA Yadav,RJ Gleeson,1,0,,,,,,"",""
+ball,2,17.6,India,SA Yadav,HV Patel,RJ Gleeson,1,0,,,,,,"",""
+ball,2,18.1,India,SA Yadav,HV Patel,MM Ali,0,1,1,,,,,"",""
+ball,2,18.2,India,SA Yadav,HV Patel,MM Ali,4,0,,,,,,"",""
+ball,2,18.3,India,SA Yadav,HV Patel,MM Ali,6,0,,,,,,"",""
+ball,2,18.4,India,SA Yadav,HV Patel,MM Ali,0,1,1,,,,,"",""
+ball,2,18.5,India,SA Yadav,HV Patel,MM Ali,4,0,,,,,,"",""
+ball,2,18.6,India,SA Yadav,HV Patel,MM Ali,0,0,,,,,,"",""
+ball,2,18.7,India,SA Yadav,HV Patel,MM Ali,0,0,,,,,,caught,SA Yadav
+ball,2,18.8,India,HV Patel,Avesh Khan,MM Ali,4,0,,,,,,"",""
+ball,2,19.1,India,Avesh Khan,HV Patel,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.2,India,HV Patel,Avesh Khan,CJ Jordan,0,0,,,,,,"",""
+ball,2,19.3,India,HV Patel,Avesh Khan,CJ Jordan,0,0,,,,,,"",""
+ball,2,19.4,India,HV Patel,Avesh Khan,CJ Jordan,0,0,,,,,,caught,HV Patel
+ball,2,19.5,India,Ravi Bishnoi,Avesh Khan,CJ Jordan,2,0,,,,,,"",""
+ball,2,19.6,India,Ravi Bishnoi,Avesh Khan,CJ Jordan,0,0,,,,,,bowled,Ravi Bishnoi

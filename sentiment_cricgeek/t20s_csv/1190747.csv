@@ -1,0 +1,195 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Thailand
+info,gender,female
+info,season,2019
+info,date,2019/08/09
+info,event,Women's T20I Quadrangular Series (in Netherlands)
+info,match_number,4
+info,venue,Sportpark Het Schootsveld
+info,city,Deventer
+info,toss_winner,Ireland
+info,toss_decision,field
+info,umpire,Ryan Milne
+info,umpire,HKG Jansen
+info,reserve_umpire,PA Reynolds
+info,match_referee,R Kemming
+info,winner,Thailand
+info,winner_runs,4
+info,method,D/L
+info,player,Thailand,N Chantam
+info,player,Thailand,N Chaiwai
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,N Boochatham
+info,player,Thailand,W Liengprasert
+info,player,Thailand,R Padunglerd
+info,player,Thailand,S Tippoch
+info,player,Thailand,S Lateh
+info,player,Thailand,S Laomi
+info,player,Thailand,O Kamchomphu
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,SM Kavanagh
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,L Delany
+info,player,Ireland,R Stokell
+info,player,Ireland,U Raymond-Hoey
+info,player,Ireland,MV Waldron
+info,player,Ireland,L Little
+info,player,Ireland,L Maritz
+info,player,Ireland,C Raack
+info,registry,people,C Raack,28aba384
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,HKG Jansen,6e9d5add
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Little,4f86926b
+info,registry,people,L Maritz,ac8bca8d
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,R Kemming,30fd5378
+info,registry,people,R Padunglerd,8b6c33d0
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S Laomi,4b15618c
+info,registry,people,S Lateh,5ab09885
+info,registry,people,S Tippoch,9c4b58db
+info,registry,people,SM Kavanagh,7e9b3b60
+info,registry,people,U Raymond-Hoey,1a510809
+info,registry,people,W Liengprasert,4dabe716
+ball,1,0.1,Thailand,N Chantam,N Chaiwai,O Prendergast,0,0,,,,,,"",""
+ball,1,0.2,Thailand,N Chantam,N Chaiwai,O Prendergast,0,1,1,,,,,"",""
+ball,1,0.3,Thailand,N Chantam,N Chaiwai,O Prendergast,0,0,,,,,,"",""
+ball,1,0.4,Thailand,N Chantam,N Chaiwai,O Prendergast,1,0,,,,,,"",""
+ball,1,0.5,Thailand,N Chaiwai,N Chantam,O Prendergast,0,0,,,,,,"",""
+ball,1,0.6,Thailand,N Chaiwai,N Chantam,O Prendergast,1,0,,,,,,"",""
+ball,1,0.7,Thailand,N Chantam,N Chaiwai,O Prendergast,4,0,,,,,,"",""
+ball,1,1.1,Thailand,N Chaiwai,N Chantam,L Little,1,0,,,,,,"",""
+ball,1,1.2,Thailand,N Chantam,N Chaiwai,L Little,1,0,,,,,,"",""
+ball,1,1.3,Thailand,N Chaiwai,N Chantam,L Little,0,0,,,,,,"",""
+ball,1,1.4,Thailand,N Chaiwai,N Chantam,L Little,0,1,1,,,,,"",""
+ball,1,1.5,Thailand,N Chaiwai,N Chantam,L Little,1,0,,,,,,"",""
+ball,1,1.6,Thailand,N Chantam,N Chaiwai,L Little,0,0,,,,,,"",""
+ball,1,1.7,Thailand,N Chantam,N Chaiwai,L Little,1,0,,,,,,"",""
+ball,1,2.1,Thailand,N Chantam,N Chaiwai,EAJ Richardson,0,0,,,,,,"",""
+ball,1,2.2,Thailand,N Chantam,N Chaiwai,EAJ Richardson,0,0,,,,,,"",""
+ball,1,2.3,Thailand,N Chantam,N Chaiwai,EAJ Richardson,1,0,,,,,,"",""
+ball,1,2.4,Thailand,N Chaiwai,N Chantam,EAJ Richardson,1,0,,,,,,"",""
+ball,1,2.5,Thailand,N Chantam,N Chaiwai,EAJ Richardson,0,0,,,,,,"",""
+ball,1,2.6,Thailand,N Chantam,N Chaiwai,EAJ Richardson,0,0,,,,,,caught,N Chantam
+ball,1,3.1,Thailand,N Koncharoenkai,N Chaiwai,L Little,0,0,,,,,,"",""
+ball,1,3.2,Thailand,N Koncharoenkai,N Chaiwai,L Little,1,0,,,,,,"",""
+ball,1,3.3,Thailand,N Chaiwai,N Koncharoenkai,L Little,1,0,,,,,,"",""
+ball,1,3.4,Thailand,N Koncharoenkai,N Chaiwai,L Little,0,0,,,,,,"",""
+ball,1,3.5,Thailand,N Koncharoenkai,N Chaiwai,L Little,0,0,,,,,,"",""
+ball,1,3.6,Thailand,N Koncharoenkai,N Chaiwai,L Little,2,0,,,,,,"",""
+ball,1,4.1,Thailand,N Chaiwai,N Koncharoenkai,EAJ Richardson,0,0,,,,,,"",""
+ball,1,4.2,Thailand,N Chaiwai,N Koncharoenkai,EAJ Richardson,0,0,,,,,,"",""
+ball,1,4.3,Thailand,N Chaiwai,N Koncharoenkai,EAJ Richardson,1,0,,,,,,"",""
+ball,1,4.4,Thailand,N Koncharoenkai,N Chaiwai,EAJ Richardson,1,0,,,,,,"",""
+ball,1,4.5,Thailand,N Chaiwai,N Koncharoenkai,EAJ Richardson,0,0,,,,,,"",""
+ball,1,4.6,Thailand,N Chaiwai,N Koncharoenkai,EAJ Richardson,0,0,,,,,,run out,N Chaiwai
+ball,1,5.1,Thailand,N Koncharoenkai,C Sutthiruang,L Maritz,2,0,,,,,,"",""
+ball,1,5.2,Thailand,N Koncharoenkai,C Sutthiruang,L Maritz,1,0,,,,,,"",""
+ball,1,5.3,Thailand,C Sutthiruang,N Koncharoenkai,L Maritz,0,0,,,,,,"",""
+ball,1,5.4,Thailand,C Sutthiruang,N Koncharoenkai,L Maritz,0,1,1,,,,,"",""
+ball,1,5.5,Thailand,C Sutthiruang,N Koncharoenkai,L Maritz,2,0,,,,,,"",""
+ball,1,5.6,Thailand,C Sutthiruang,N Koncharoenkai,L Maritz,0,0,,,,,,bowled,C Sutthiruang
+ball,1,5.7,Thailand,N Boochatham,N Koncharoenkai,L Maritz,0,0,,,,,,"",""
+ball,1,6.1,Thailand,N Koncharoenkai,N Boochatham,C Raack,1,0,,,,,,"",""
+ball,1,6.2,Thailand,N Boochatham,N Koncharoenkai,C Raack,0,0,,,,,,"",""
+ball,1,6.3,Thailand,N Boochatham,N Koncharoenkai,C Raack,2,0,,,,,,"",""
+ball,1,6.4,Thailand,N Boochatham,N Koncharoenkai,C Raack,0,0,,,,,,"",""
+ball,1,6.5,Thailand,N Boochatham,N Koncharoenkai,C Raack,1,0,,,,,,"",""
+ball,1,6.6,Thailand,N Koncharoenkai,N Boochatham,C Raack,0,0,,,,,,"",""
+ball,1,7.1,Thailand,N Boochatham,N Koncharoenkai,L Maritz,0,0,,,,,,"",""
+ball,1,7.2,Thailand,N Boochatham,N Koncharoenkai,L Maritz,0,0,,,,,,"",""
+ball,1,7.3,Thailand,N Boochatham,N Koncharoenkai,L Maritz,2,0,,,,,,"",""
+ball,1,7.4,Thailand,N Boochatham,N Koncharoenkai,L Maritz,2,1,,1,,,,"",""
+ball,1,7.5,Thailand,N Boochatham,N Koncharoenkai,L Maritz,0,1,,,,1,,"",""
+ball,1,7.6,Thailand,N Koncharoenkai,N Boochatham,L Maritz,1,0,,,,,,"",""
+ball,1,7.7,Thailand,N Boochatham,N Koncharoenkai,L Maritz,1,0,,,,,,"",""
+ball,1,8.1,Thailand,N Boochatham,N Koncharoenkai,C Raack,0,0,,,,,,"",""
+ball,1,8.2,Thailand,N Boochatham,N Koncharoenkai,C Raack,0,0,,,,,,"",""
+ball,1,8.3,Thailand,N Boochatham,N Koncharoenkai,C Raack,0,0,,,,,,"",""
+ball,1,8.4,Thailand,N Boochatham,N Koncharoenkai,C Raack,2,0,,,,,,"",""
+ball,1,8.5,Thailand,N Boochatham,N Koncharoenkai,C Raack,2,0,,,,,,"",""
+ball,1,8.6,Thailand,N Boochatham,N Koncharoenkai,C Raack,1,0,,,,,,"",""
+ball,1,9.1,Thailand,N Boochatham,N Koncharoenkai,O Prendergast,1,0,,,,,,"",""
+ball,1,9.2,Thailand,N Koncharoenkai,N Boochatham,O Prendergast,4,0,,,,,,"",""
+ball,1,9.3,Thailand,N Koncharoenkai,N Boochatham,O Prendergast,2,0,,,,,,"",""
+ball,1,9.4,Thailand,N Koncharoenkai,N Boochatham,O Prendergast,2,0,,,,,,"",""
+ball,1,9.5,Thailand,N Koncharoenkai,N Boochatham,O Prendergast,1,0,,,,,,"",""
+ball,1,9.6,Thailand,N Boochatham,N Koncharoenkai,O Prendergast,1,0,,,,,,run out,N Boochatham
+ball,2,0.1,Ireland,GH Lewis,O Prendergast,C Sutthiruang,0,0,,,,,,"",""
+ball,2,0.2,Ireland,GH Lewis,O Prendergast,C Sutthiruang,0,0,,,,,,"",""
+ball,2,0.3,Ireland,GH Lewis,O Prendergast,C Sutthiruang,1,0,,,,,,"",""
+ball,2,0.4,Ireland,O Prendergast,GH Lewis,C Sutthiruang,1,0,,,,,,"",""
+ball,2,0.5,Ireland,GH Lewis,O Prendergast,C Sutthiruang,1,0,,,,,,"",""
+ball,2,0.6,Ireland,O Prendergast,GH Lewis,C Sutthiruang,0,0,,,,,,"",""
+ball,2,1.1,Ireland,GH Lewis,O Prendergast,N Boochatham,0,0,,,,,,caught,GH Lewis
+ball,2,1.2,Ireland,SM Kavanagh,O Prendergast,N Boochatham,0,0,,,,,,"",""
+ball,2,1.3,Ireland,SM Kavanagh,O Prendergast,N Boochatham,1,0,,,,,,"",""
+ball,2,1.4,Ireland,O Prendergast,SM Kavanagh,N Boochatham,0,0,,,,,,"",""
+ball,2,1.5,Ireland,O Prendergast,SM Kavanagh,N Boochatham,4,0,,,,,,"",""
+ball,2,1.6,Ireland,O Prendergast,SM Kavanagh,N Boochatham,0,0,,,,,,"",""
+ball,2,2.1,Ireland,SM Kavanagh,O Prendergast,C Sutthiruang,0,0,,,,,,"",""
+ball,2,2.2,Ireland,SM Kavanagh,O Prendergast,C Sutthiruang,0,0,,,,,,"",""
+ball,2,2.3,Ireland,SM Kavanagh,O Prendergast,C Sutthiruang,1,0,,,,,,"",""
+ball,2,2.4,Ireland,O Prendergast,SM Kavanagh,C Sutthiruang,0,0,,,,,,bowled,O Prendergast
+ball,2,2.5,Ireland,EAJ Richardson,SM Kavanagh,C Sutthiruang,0,0,,,,,,"",""
+ball,2,2.6,Ireland,EAJ Richardson,SM Kavanagh,C Sutthiruang,0,0,,,,,,"",""
+ball,2,3.1,Ireland,SM Kavanagh,EAJ Richardson,S Laomi,0,0,,,,,,"",""
+ball,2,3.2,Ireland,SM Kavanagh,EAJ Richardson,S Laomi,0,0,,,,,,"",""
+ball,2,3.3,Ireland,SM Kavanagh,EAJ Richardson,S Laomi,0,0,,,,,,"",""
+ball,2,3.4,Ireland,SM Kavanagh,EAJ Richardson,S Laomi,1,0,,,,,,"",""
+ball,2,3.5,Ireland,EAJ Richardson,SM Kavanagh,S Laomi,0,0,,,,,,"",""
+ball,2,3.6,Ireland,EAJ Richardson,SM Kavanagh,S Laomi,0,0,,,,,,"",""
+ball,2,4.1,Ireland,SM Kavanagh,EAJ Richardson,R Padunglerd,0,0,,,,,,"",""
+ball,2,4.2,Ireland,SM Kavanagh,EAJ Richardson,R Padunglerd,0,0,,,,,,"",""
+ball,2,4.3,Ireland,SM Kavanagh,EAJ Richardson,R Padunglerd,1,0,,,,,,"",""
+ball,2,4.4,Ireland,EAJ Richardson,SM Kavanagh,R Padunglerd,1,0,,,,,,"",""
+ball,2,4.5,Ireland,SM Kavanagh,EAJ Richardson,R Padunglerd,1,0,,,,,,"",""
+ball,2,4.6,Ireland,EAJ Richardson,SM Kavanagh,R Padunglerd,0,1,,,1,,,"",""
+ball,2,5.1,Ireland,EAJ Richardson,SM Kavanagh,S Laomi,1,0,,,,,,"",""
+ball,2,5.2,Ireland,SM Kavanagh,EAJ Richardson,S Laomi,1,0,,,,,,"",""
+ball,2,5.3,Ireland,EAJ Richardson,SM Kavanagh,S Laomi,1,0,,,,,,"",""
+ball,2,5.4,Ireland,SM Kavanagh,EAJ Richardson,S Laomi,2,0,,,,,,"",""
+ball,2,5.5,Ireland,SM Kavanagh,EAJ Richardson,S Laomi,1,0,,,,,,"",""
+ball,2,5.6,Ireland,EAJ Richardson,SM Kavanagh,S Laomi,1,0,,,,,,"",""
+ball,2,6.1,Ireland,EAJ Richardson,SM Kavanagh,S Tippoch,0,0,,,,,,bowled,EAJ Richardson
+ball,2,6.2,Ireland,L Delany,SM Kavanagh,S Tippoch,0,0,,,,,,"",""
+ball,2,6.3,Ireland,L Delany,SM Kavanagh,S Tippoch,1,0,,,,,,"",""
+ball,2,6.4,Ireland,SM Kavanagh,L Delany,S Tippoch,1,0,,,,,,"",""
+ball,2,6.5,Ireland,L Delany,SM Kavanagh,S Tippoch,1,0,,,,,,"",""
+ball,2,6.6,Ireland,SM Kavanagh,L Delany,S Tippoch,2,0,,,,,,"",""
+ball,2,7.1,Ireland,L Delany,SM Kavanagh,R Padunglerd,0,1,1,,,,,"",""
+ball,2,7.2,Ireland,L Delany,SM Kavanagh,R Padunglerd,0,0,,,,,,"",""
+ball,2,7.3,Ireland,L Delany,SM Kavanagh,R Padunglerd,1,0,,,,,,"",""
+ball,2,7.4,Ireland,SM Kavanagh,L Delany,R Padunglerd,0,0,,,,,,caught,SM Kavanagh
+ball,2,7.5,Ireland,R Stokell,L Delany,R Padunglerd,0,1,1,,,,,"",""
+ball,2,7.6,Ireland,R Stokell,L Delany,R Padunglerd,0,0,,,,,,"",""
+ball,2,7.7,Ireland,R Stokell,L Delany,R Padunglerd,0,0,,,,,,"",""
+ball,2,7.8,Ireland,R Stokell,L Delany,R Padunglerd,0,0,,,,,,stumped,R Stokell
+ball,2,8.1,Ireland,L Delany,U Raymond-Hoey,S Tippoch,1,0,,,,,,"",""
+ball,2,8.2,Ireland,U Raymond-Hoey,L Delany,S Tippoch,1,0,,,,,,"",""
+ball,2,8.3,Ireland,L Delany,U Raymond-Hoey,S Tippoch,0,0,,,,,,"",""
+ball,2,8.4,Ireland,L Delany,U Raymond-Hoey,S Tippoch,1,0,,,,,,"",""
+ball,2,8.5,Ireland,U Raymond-Hoey,L Delany,S Tippoch,1,0,,,,,,"",""
+ball,2,8.6,Ireland,L Delany,U Raymond-Hoey,S Tippoch,4,0,,,,,,"",""
+ball,2,9.1,Ireland,U Raymond-Hoey,L Delany,N Boochatham,0,3,3,,,,,"",""
+ball,2,9.2,Ireland,U Raymond-Hoey,L Delany,N Boochatham,0,0,,,,,,caught,U Raymond-Hoey
+ball,2,9.3,Ireland,MV Waldron,L Delany,N Boochatham,4,0,,,,,,"",""
+ball,2,9.4,Ireland,MV Waldron,L Delany,N Boochatham,1,0,,,,,,"",""
+ball,2,9.5,Ireland,L Delany,MV Waldron,N Boochatham,0,0,,,,,,caught,L Delany
+ball,2,9.6,Ireland,MV Waldron,L Little,N Boochatham,1,0,,,,,,"",""
+ball,2,9.7,Ireland,L Little,MV Waldron,N Boochatham,4,0,,,,,,"",""
