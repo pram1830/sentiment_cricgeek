@@ -41,6 +41,21 @@ SENDER_EMAIL = os.getenv("SENDER_EMAIL", "noreply@cricgeek.local")
 APP_BASE_URL = os.getenv("APP_BASE_URL", "http://localhost:8501")
 
 
+def _should_require_email_verification() -> bool:
+    """Require email verification in production and when explicitly requested."""
+    explicit_setting = os.getenv("REQUIRE_EMAIL_VERIFICATION", "").strip().lower()
+    if explicit_setting in {"1", "true", "yes", "on"}:
+        return True
+    if explicit_setting in {"0", "false", "no", "off"}:
+        return False
+
+    environment = os.getenv("ENVIRONMENT", "development").lower()
+    if environment == "production":
+        return True
+
+    return EMAIL_PROVIDER != "console"
+
+
 class AuthService:
     """Handle user authentication, JWT tokens, and email verification"""
     
@@ -198,6 +213,7 @@ class AuthService:
                 username=normalized_username,
                 email=normalized_email,
                 password_hash=User.hash_password(password),
+                email_verified=not _should_require_email_verification(),
             )
             
             # Generate verification token
@@ -247,7 +263,7 @@ class AuthService:
         if not user.verify_password(password):
             return False, "Invalid username or password", None
         
-        if not user.email_verified:
+        if _should_require_email_verification() and not user.email_verified:
             return False, "Please verify your email before logging in", None
         
         # Update last login

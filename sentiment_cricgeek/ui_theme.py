@@ -193,6 +193,21 @@ def apply_theme(mode: str) -> None:
                 font-weight: 600;
             }}
 
+            .feature-strip {{
+                display: grid;
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+                gap: 0.8rem;
+                margin: 0.9rem 0 1.1rem;
+            }}
+
+            .feature-card {{
+                padding: 1rem 1.05rem;
+                border-radius: 22px;
+                background: linear-gradient(135deg, var(--cg-surface-strong), rgba(245, 158, 11, 0.04));
+                border: 1px solid var(--cg-border);
+                box-shadow: var(--cg-shadow);
+            }}
+
             .editorial-banner {{
                 display: grid;
                 grid-template-columns: 1.1fr 0.9fr;
@@ -262,21 +277,6 @@ def apply_theme(mode: str) -> None:
                 display: block;
                 margin-top: 0.15rem;
                 font-size: 1rem;
-            }}
-
-            .feature-strip {{
-                display: grid;
-                grid-template-columns: repeat(3, minmax(0, 1fr));
-                gap: 0.8rem;
-                margin: 0.9rem 0 1.1rem;
-            }}
-
-            .feature-card {{
-                padding: 1rem 1.05rem;
-                border-radius: 22px;
-                background: linear-gradient(135deg, var(--cg-surface-strong), rgba(245, 158, 11, 0.04));
-                border: 1px solid var(--cg-border);
-                box-shadow: var(--cg-shadow);
             }}
 
             .feature-title {{
@@ -380,19 +380,6 @@ def apply_theme(mode: str) -> None:
                 margin-top: 0.9rem;
             }}
 
-            .rail-pill {{
-                display: inline-flex;
-                align-items: center;
-                gap: 0.35rem;
-                border-radius: 999px;
-                padding: 0.38rem 0.72rem;
-                background: var(--cg-chip-bg);
-                border: 1px solid var(--cg-chip-border);
-                color: var(--cg-chip-text);
-                font-size: 0.8rem;
-                font-weight: 600;
-            }}
-
             .editorial-row {{
                 display: grid;
                 grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -410,6 +397,19 @@ def apply_theme(mode: str) -> None:
                 height: 1px;
                 background: linear-gradient(90deg, transparent, var(--cg-border), transparent);
                 margin: 1rem 0;
+            }}
+
+            .rail-pill {{
+                display: inline-flex;
+                align-items: center;
+                gap: 0.35rem;
+                border-radius: 999px;
+                padding: 0.38rem 0.72rem;
+                background: var(--cg-chip-bg);
+                border: 1px solid var(--cg-chip-border);
+                color: var(--cg-chip-text);
+                font-size: 0.8rem;
+                font-weight: 600;
             }}
 
             .stTabs [data-baseweb="tab-panel"] {{

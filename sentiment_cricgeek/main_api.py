@@ -30,8 +30,8 @@ app = FastAPI(
     title="CricGeek API v2.0",
     description="Enhanced sentiment scoring with communities and user management",
     version="2.0.0",
-    docs_url="/api/docs",
-    redoc_url="/api/redoc",
+    docs_url="/docs",
+    redoc_url="/redoc",
 )
 
 # CORS configuration

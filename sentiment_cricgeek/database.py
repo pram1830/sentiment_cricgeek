@@ -3,6 +3,9 @@ Database connection and session management
 """
 
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 from typing import Optional
 from contextlib import contextmanager
 
@@ -11,6 +14,7 @@ from sqlalchemy.orm import sessionmaker, Session
 from sqlalchemy.pool import NullPool, QueuePool
 
 from models import Base
+
 
 
 ENVIRONMENT = os.getenv("ENVIRONMENT", "development").lower()
