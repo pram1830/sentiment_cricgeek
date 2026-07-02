@@ -30,6 +30,10 @@ def _load_database_url() -> str:
 # Database configuration. PostgreSQL and MySQL are supported for production;
 # SQLite remains available only for local development and tests.
 DATABASE_URL = _load_database_url()
+print("=" * 60)
+print("DATABASE_URL:", DATABASE_URL)
+print("ENVIRONMENT:", ENVIRONMENT)
+print("=" * 60)
 
 # Engine configuration
 if DATABASE_URL.startswith("sqlite"):
