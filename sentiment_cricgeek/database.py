@@ -5,7 +5,10 @@ Database connection and session management
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+
+# Load .env only when running locally
+if os.getenv("RAILWAY_ENVIRONMENT") is None:
+    load_dotenv()
 from typing import Optional
 from contextlib import contextmanager
 
